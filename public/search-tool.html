@@ -2279,31 +2279,31 @@ body.is-lobby .genre-tabs { display: none; }   /* #92：ロビーでは出さず
             <div class="morph-sub" id="morph-sub">
                 <div class="morph-sheet-head"><span class="morph-sheet-title" data-i18n="search.morph.toggle">文法で絞り込む</span><button class="morph-sheet-close" type="button" aria-label="閉じる" data-i18n-aria-label="search.close" onclick="_closeMorphFilterSheet()">×</button></div>
                 <div class="morph-section" id="morph-sec-pos" data-slot="pos">
-                    <div class="morph-section-head"><button class="morph-section-toggle" type="button" aria-expanded="false" aria-controls="morph-chips-pos" onclick="_toggleMorphSection('pos')"><span class="morph-section-label" data-i18n="search.morph.pos">品詞</span><span class="morph-selected-summary" id="morph-summary-pos"></span><span class="morph-chevron" aria-hidden="true">⌄</span></button><button class="morph-neg-toggle" type="button" data-slot="pos" aria-pressed="false" onclick="_toggleMorphNeg('pos')" data-i18n="search.morph.neg">Not検索</button></div>
+                    <div class="morph-section-head"><button class="morph-section-toggle" type="button" aria-expanded="false" aria-controls="morph-chips-pos" onclick="_toggleMorphSection('pos')"><span class="morph-section-label" data-i18n="search.morph.pos">品詞</span><span class="morph-selected-summary" id="morph-summary-pos"></span><span class="morph-chevron" aria-hidden="true">⌄</span></button><button class="morph-neg-toggle" type="button" data-slot="pos" aria-pressed="false" onclick="_toggleMorphNeg('pos')" data-i18n="search.morph.neg">以外</button></div>
                     <div class="morph-chips" id="morph-chips-pos"></div>
                 </div>
                 <div class="morph-section" id="morph-sec-mood" data-slot="mood">
-                    <div class="morph-section-head"><button class="morph-section-toggle" type="button" aria-expanded="false" aria-controls="morph-chips-mood" onclick="_toggleMorphSection('mood')"><span class="morph-section-label" data-i18n="search.morph.mood">法</span><span class="morph-selected-summary" id="morph-summary-mood"></span><span class="morph-chevron" aria-hidden="true">⌄</span></button><button class="morph-neg-toggle" type="button" data-slot="mood" aria-pressed="false" onclick="_toggleMorphNeg('mood')" data-i18n="search.morph.neg">Not検索</button></div>
+                    <div class="morph-section-head"><button class="morph-section-toggle" type="button" aria-expanded="false" aria-controls="morph-chips-mood" onclick="_toggleMorphSection('mood')"><span class="morph-section-label" data-i18n="search.morph.mood">法</span><span class="morph-selected-summary" id="morph-summary-mood"></span><span class="morph-chevron" aria-hidden="true">⌄</span></button><button class="morph-neg-toggle" type="button" data-slot="mood" aria-pressed="false" onclick="_toggleMorphNeg('mood')" data-i18n="search.morph.neg">以外</button></div>
                     <div class="morph-chips" id="morph-chips-mood"></div>
                 </div>
                 <div class="morph-section" id="morph-sec-tense" data-slot="tense">
-                    <div class="morph-section-head"><button class="morph-section-toggle" type="button" aria-expanded="false" aria-controls="morph-chips-tense" onclick="_toggleMorphSection('tense')"><span class="morph-section-label" data-i18n="search.morph.tense">時制</span><span class="morph-selected-summary" id="morph-summary-tense"></span><span class="morph-chevron" aria-hidden="true">⌄</span></button><button class="morph-neg-toggle" type="button" data-slot="tense" aria-pressed="false" onclick="_toggleMorphNeg('tense')" data-i18n="search.morph.neg">Not検索</button></div>
+                    <div class="morph-section-head"><button class="morph-section-toggle" type="button" aria-expanded="false" aria-controls="morph-chips-tense" onclick="_toggleMorphSection('tense')"><span class="morph-section-label" data-i18n="search.morph.tense">時制</span><span class="morph-selected-summary" id="morph-summary-tense"></span><span class="morph-chevron" aria-hidden="true">⌄</span></button><button class="morph-neg-toggle" type="button" data-slot="tense" aria-pressed="false" onclick="_toggleMorphNeg('tense')" data-i18n="search.morph.neg">以外</button></div>
                     <div class="morph-chips" id="morph-chips-tense"></div>
                 </div>
                 <div class="morph-section" id="morph-sec-voice" data-slot="voice">
-                    <div class="morph-section-head"><button class="morph-section-toggle" type="button" aria-expanded="false" aria-controls="morph-chips-voice" onclick="_toggleMorphSection('voice')"><span class="morph-section-label" data-i18n="search.morph.voice">態</span><span class="morph-selected-summary" id="morph-summary-voice"></span><span class="morph-chevron" aria-hidden="true">⌄</span></button><button class="morph-neg-toggle" type="button" data-slot="voice" aria-pressed="false" onclick="_toggleMorphNeg('voice')" data-i18n="search.morph.neg">Not検索</button></div>
+                    <div class="morph-section-head"><button class="morph-section-toggle" type="button" aria-expanded="false" aria-controls="morph-chips-voice" onclick="_toggleMorphSection('voice')"><span class="morph-section-label" data-i18n="search.morph.voice">態</span><span class="morph-selected-summary" id="morph-summary-voice"></span><span class="morph-chevron" aria-hidden="true">⌄</span></button><button class="morph-neg-toggle" type="button" data-slot="voice" aria-pressed="false" onclick="_toggleMorphNeg('voice')" data-i18n="search.morph.neg">以外</button></div>
                     <div class="morph-chips" id="morph-chips-voice"></div>
                 </div>
                 <div class="morph-section" id="morph-sec-case" data-slot="case" style="display:none;">
-                    <div class="morph-section-head"><button class="morph-section-toggle" type="button" aria-expanded="false" aria-controls="morph-chips-case" onclick="_toggleMorphSection('case')"><span class="morph-section-label" data-i18n="search.morph.case">格</span><span class="morph-selected-summary" id="morph-summary-case"></span><span class="morph-chevron" aria-hidden="true">⌄</span></button><button class="morph-neg-toggle" type="button" data-slot="case" aria-pressed="false" onclick="_toggleMorphNeg('case')" data-i18n="search.morph.neg">Not検索</button></div>
+                    <div class="morph-section-head"><button class="morph-section-toggle" type="button" aria-expanded="false" aria-controls="morph-chips-case" onclick="_toggleMorphSection('case')"><span class="morph-section-label" data-i18n="search.morph.case">格</span><span class="morph-selected-summary" id="morph-summary-case"></span><span class="morph-chevron" aria-hidden="true">⌄</span></button><button class="morph-neg-toggle" type="button" data-slot="case" aria-pressed="false" onclick="_toggleMorphNeg('case')" data-i18n="search.morph.neg">以外</button></div>
                     <div class="morph-chips" id="morph-chips-case"></div>
                 </div>
                 <div class="morph-section" id="morph-sec-num" data-slot="num" style="display:none;">
-                    <div class="morph-section-head"><button class="morph-section-toggle" type="button" aria-expanded="false" aria-controls="morph-chips-num" onclick="_toggleMorphSection('num')"><span class="morph-section-label" data-i18n="search.morph.number">数</span><span class="morph-selected-summary" id="morph-summary-num"></span><span class="morph-chevron" aria-hidden="true">⌄</span></button><button class="morph-neg-toggle" type="button" data-slot="num" aria-pressed="false" onclick="_toggleMorphNeg('num')" data-i18n="search.morph.neg">Not検索</button></div>
+                    <div class="morph-section-head"><button class="morph-section-toggle" type="button" aria-expanded="false" aria-controls="morph-chips-num" onclick="_toggleMorphSection('num')"><span class="morph-section-label" data-i18n="search.morph.number">数</span><span class="morph-selected-summary" id="morph-summary-num"></span><span class="morph-chevron" aria-hidden="true">⌄</span></button><button class="morph-neg-toggle" type="button" data-slot="num" aria-pressed="false" onclick="_toggleMorphNeg('num')" data-i18n="search.morph.neg">以外</button></div>
                     <div class="morph-chips" id="morph-chips-num"></div>
                 </div>
                 <div class="morph-section" id="morph-sec-gen" data-slot="gen" style="display:none;">
-                    <div class="morph-section-head"><button class="morph-section-toggle" type="button" aria-expanded="false" aria-controls="morph-chips-gen" onclick="_toggleMorphSection('gen')"><span class="morph-section-label" data-i18n="search.morph.gender">性</span><span class="morph-selected-summary" id="morph-summary-gen"></span><span class="morph-chevron" aria-hidden="true">⌄</span></button><button class="morph-neg-toggle" type="button" data-slot="gen" aria-pressed="false" onclick="_toggleMorphNeg('gen')" data-i18n="search.morph.neg">Not検索</button></div>
+                    <div class="morph-section-head"><button class="morph-section-toggle" type="button" aria-expanded="false" aria-controls="morph-chips-gen" onclick="_toggleMorphSection('gen')"><span class="morph-section-label" data-i18n="search.morph.gender">性</span><span class="morph-selected-summary" id="morph-summary-gen"></span><span class="morph-chevron" aria-hidden="true">⌄</span></button><button class="morph-neg-toggle" type="button" data-slot="gen" aria-pressed="false" onclick="_toggleMorphNeg('gen')" data-i18n="search.morph.neg">以外</button></div>
                     <div class="morph-chips" id="morph-chips-gen"></div>
                 </div>
                 <button class="morph-clear-btn" id="morph-clear-btn" onclick="_morphClearAll()" data-i18n="search.morph.clear">選択をクリア</button>
@@ -6612,7 +6612,7 @@ function _morphHelp(slot,item){return _tf('search.morph.help.'+slot+'.'+_morphKe
 
 /* State: selected values per slot */
 const _morphSel = {pos:new Set(),case:new Set(),num:new Set(),gen:new Set(),tense:new Set(),voice:new Set(),mood:new Set()};
-/* 軸ごとの否定（Not検索）#79／#87：true の軸は「選択した値以外」に一致させる。値が空の間は検索に効かないが、ON のまま保持する。
+/* 軸ごとの否定（表示「以外」、#216）#79／#87：true の軸は「選択した値以外」に一致させる。値が空の間は検索に効かないが、ON のまま保持する。
    否定は「その軸を持つトークンの中での補集合」。その軸を持たないトークン（例：動詞の格）は否定にマッチしない（凍結仕様 決定3）。 */
 const _morphNeg = {pos:false,case:false,num:false,gen:false,tense:false,voice:false,mood:false};
 
@@ -6850,7 +6850,7 @@ function _morphRefreshNeg(slot){
     if(t){
         t.classList.toggle('selected',_morphNeg[slot]);
         t.setAttribute('aria-pressed',_morphNeg[slot]?'true':'false');
-        t.textContent=_tf('search.morph.neg','Not検索');
+        t.textContent=_tf('search.morph.neg','以外');
     }
     const el=document.getElementById('morph-chips-'+slot); if(!el) return;
     el.querySelectorAll('.morph-chip').forEach(c=>{
@@ -6990,7 +6990,7 @@ function _updateMorphAccordionUI(){
         if(btn) btn.setAttribute('aria-expanded',open?'true':'false');
         const summary=document.getElementById('morph-summary-'+slot);
         if(summary) {const vals=[..._morphSel[slot]].map(code=>(function(){const it=labels[slot].find(item=>item.code===code);return it?_morphJp(slot,it):undefined;})()).filter(Boolean).join(_tf('search.morph.sep','、'));
-            summary.textContent=(_morphNeg[slot]&&_morphSel[slot].size>0)?_tf('search.morph.negPrefix','Not：')+vals+_tf('search.morph.negSuffix','以外'):vals;}
+            summary.textContent=(_morphNeg[slot]&&_morphSel[slot].size>0)?_tf('search.morph.negPrefix','')+vals+_tf('search.morph.negSuffix','以外'):vals;}
     });
     const total=[...Object.values(_morphSel)].reduce((s,set)=>s+set.size,0);
     const count=document.getElementById('morph-panel-count');
