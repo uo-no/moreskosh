@@ -1378,6 +1378,23 @@ body.is-lobby .prox-sub { margin-left: auto; margin-right: auto; }
 .lg-chip-jp { color: var(--text-sub); }
 .lg-chip-gr { font-family: var(--s-ff-greek); color: var(--prox); }
 .lg-chip-ct { font-size: 0.58rem; color: var(--text-sub); }
+/* #215：共起チップの「一緒に／除外」。チップ本体は押せる面を持たず、2つのボタンだけが操作になる */
+.lg-chip.lg-chip-act { cursor: default; }
+.lg-chip.lg-chip-act:hover { opacity: 1; }
+.lg-chip-btn {
+    background: none; border: 1px solid var(--prox-border); border-radius: var(--radius-pill);
+    color: var(--text-sub); font-family: inherit; font-size: 0.6rem; line-height: 1.2;
+    padding: 1px 6px; cursor: pointer; transition: opacity 0.1s;
+}
+.lg-chip-btn:hover { opacity: 0.7; }
+.lg-chip-btn[aria-pressed="true"] { color: var(--prox); border-color: var(--prox); cursor: default; opacity: 1; }
+.cooc-state { flex-basis: 100%; width: 100%; margin-top: 4px; display: flex; flex-direction: column; gap: 2px; }
+.cooc-state-row { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; }
+.cooc-state-btn {
+    background: none; border: 1px solid var(--prox-border); border-radius: var(--radius-pill);
+    color: var(--text-sub); font-family: inherit; font-size: 0.68rem; padding: 0 8px; cursor: pointer;
+}
+.cooc-state-btn:hover { opacity: 0.7; }
 .lg-more-btn {
     width: 100%; margin-top: 6px; padding: 5px;
     font-size: 0.68rem; color: var(--text-sub); cursor: pointer;
@@ -4935,6 +4952,106 @@ let _lastQuery        = '';
 let _formModeForm     = null;   /* 形モード（#77）の形。通常検索は null */
 let _activeLayerSet   = {};
 
+/* ── #215 共起チップからの「一緒に／除外」 ──
+   一緒に：対象レンマ＋チップの語で既存の近接検索を即時実行する（URL は既存の近接の形）。
+   除外：対象レンマのヒット節のうち、チップの語（表面形の完全一致。共起の集計キーと同じ）を含む節を除く。単位は節。
+   除外は複数の語に重ねられ、近接検索の結果・形態フィルタとは独立に（後段で）効く。URL は ?excl=レンマ:語,… */
+let _coocExcl     = [];      /* [{lemma, word}] */
+let _coocWithBase = null;    /* {query: 一緒に を押す前の検索語, with: 実行した近接クエリ}。解除で query に戻す */
+let _coocKeepOnce = false;
+let _coocFocusLemma = null;  /* 共起の対象として開いておくレンマ（除外の操作・URL 復元で決まる） */   /* チップ操作・URL 復元による再検索では、クエリが変わっても除外を保つ */
+const _coocWordVerses = new Map();   /* 語 → その語を含む節キーの Set（索引の拡大で無効化） */
+let _coocWordVersesN = 0;
+function _coocVerseKey(t){ return (t.corpusId||'')+'|'+_verseKeyOf(t); }
+function _coocVersesWith(word){
+    if(_coocWordVersesN!==ALL_TOKENS.length){_coocWordVerses.clear();_coocWordVersesN=ALL_TOKENS.length;}
+    let s=_coocWordVerses.get(word);
+    if(!s){
+        s=new Set();
+        for(const t of ALL_TOKENS){ if(t&&t.text===word)s.add(_coocVerseKey(t)); }
+        _coocWordVerses.set(word,s);
+    }
+    return s;
+}
+function _coocHasExcl(lemma,word){ return _coocExcl.some(e=>e.lemma===lemma&&e.word===word); }
+/* 除外の適用：対象レンマのトークンがある節で、除外語を含む節を落とす。落とすのはその節の
+   対象レンマのトークンと、レンマ検索以外の種別（フレーズ・近接）で入ったトークン。他のレンマのヒットは残す。 */
+function _coocApplyExcl(merged){
+    if(!_coocExcl.length||!merged.size)return;
+    const byLemma=new Map();
+    for(const e of _coocExcl){ if(!byLemma.has(e.lemma))byLemma.set(e.lemma,[]); byLemma.get(e.lemma).push(e.word); }
+    const drop=new Map();   /* 節キー → 対象レンマの Set */
+    for(const[,e]of merged){
+        const t=e.tok;if(!t)continue;
+        const lm=t.lemma||t.text;const ws=byLemma.get(lm);if(!ws)continue;
+        const vk=_coocVerseKey(t);
+        if(drop.has(vk)&&drop.get(vk).has(lm))continue;
+        if(ws.some(w=>_coocVersesWith(w).has(vk))){ if(!drop.has(vk))drop.set(vk,new Set()); drop.get(vk).add(lm); }
+    }
+    if(!drop.size)return;
+    for(const[gi,e]of [...merged.entries()]){
+        const t=e.tok;if(!t)continue;
+        const d=drop.get(_coocVerseKey(t));if(!d)continue;
+        if(d.has(t.lemma||t.text)||!e.hitTypes.has('lemma'))merged.delete(gi);
+    }
+}
+function _coocRun(q){
+    const inp=document.getElementById('unified-search-input');
+    if(inp&&q!=null)inp.value=q;
+    _coocKeepOnce=true;
+    unifiedSearch();
+}
+function _coocDoWith(lemma,word){
+    const q=lemma+' '+word;
+    if(q===_lastQuery)return;
+    _coocWithBase=(_coocWithBase&&_coocWithBase.with===_lastQuery)?{..._coocWithBase,with:q}:{query:_lastQuery,genre:_genreTab,with:q};
+    _coocRun(q);
+}
+function _coocDoExcl(lemma,word){
+    if(_coocHasExcl(lemma,word))return;
+    _coocExcl.push({lemma,word});
+    _coocFocusLemma=lemma;
+    _coocRun(_lastQuery);
+}
+function _coocReleaseWith(){
+    const words=(_lastQuery||'').split(/\s+/).filter(Boolean);
+    const base=(_coocWithBase&&_coocWithBase.with===_lastQuery)?_coocWithBase:{query:words[0],genre:'morph'};
+    _coocWithBase=null;
+    /* 近接に入る前の検索ジャンルに戻す（URL 復元などで不明なときは既定の形態） */
+    const inp=document.getElementById('unified-search-input');if(inp)inp.value=base.query;   /* 先に1語へ戻す（2語のままだと関係へ戻されるため） */
+    if(base.genre&&base.genre!==_genreTab){ _genreTab=base.genre; _renderGenreTabs(); }
+    _coocRun(null);
+}
+function _coocReleaseExcl(lemma){
+    _coocExcl=_coocExcl.filter(e=>e.lemma!==lemma);
+    _coocFocusLemma=lemma;
+    _coocRun(_lastQuery);
+}
+/* 状態の見出し：結果ヘッダーの下に「A ＋ B で検索中」「A から B を含む節を除外中」と解除ボタン */
+function _renderCoocState(){
+    const old=document.getElementById('cooc-state');if(old)old.remove();
+    const rows=[];
+    const words=(_lastQuery||'').split(/\s+/).filter(Boolean);
+    if(_activeLayerSet.prox&&words.length===2&&_genreTab==='rel'){
+        rows.push({text:_tf('search.cooc.withState','{lemma} ＋ {word} で検索中',{lemma:words[0],word:words[1]}),act:()=>_coocReleaseWith()});
+    }
+    const lemmas=[...new Set(_coocExcl.map(e=>e.lemma))];
+    for(const lm of lemmas){
+        const ws=_coocExcl.filter(e=>e.lemma===lm).map(e=>e.word).join(_tf('search.cooc.exclSep','・'));
+        rows.push({text:_tf('search.cooc.exclState','{lemma} から {words} を含む節を除外中',{lemma:lm,words:ws}),act:()=>_coocReleaseExcl(lm)});
+    }
+    if(!rows.length)return;
+    const box=document.createElement('div');box.id='cooc-state';box.className='cooc-state result-count-sub';
+    for(const r of rows){
+        const row=document.createElement('div');row.className='cooc-state-row';
+        const sp=document.createElement('span');sp.textContent=r.text;row.appendChild(sp);
+        const b=document.createElement('button');b.type='button';b.className='cooc-state-btn';
+        b.textContent=_tf('search.cooc.release','解除');b.addEventListener('click',r.act);
+        row.appendChild(b);box.appendChild(row);
+    }
+    const hdr=document.getElementById('result-header');if(hdr)hdr.appendChild(box);
+}
+
 async function unifiedSearch(opts){
     /* opts.awaitLxx: ディープリンク初期化用。LXX の読み込み・索引化の完了まで待ってから検索を確定させる（QA-03）。
        UI 操作による検索（引数なし／イベント）は従来どおり。 */
@@ -5193,6 +5310,11 @@ async function unifiedSearch(opts){
         }
         _allMergedResults = merged;
     }
+    /* #215：手で別の検索をしたら除外を外す（チップ操作・URL 復元の再検索では保つ） */
+    if (!_coocKeepOnce && query !== _lastQuery) { _coocExcl = []; _coocWithBase = null; _coocFocusLemma = null; }
+    _coocKeepOnce = false;
+    _coocApplyExcl(merged);
+    _allMergedResults = merged;
     _renderFilterBar();
 
     isSearching=false;
@@ -5204,6 +5326,7 @@ async function unifiedSearch(opts){
     const _sqsLabels = _sqState.filters.map(f => f.label);
     const _sqsQuery = _sqsLabels.length > 0 ? `${query} × ${_sqsLabels.join(' × ')}` : query;
     _renderUnifiedResults(_sqsQuery,words,word2);
+    _renderCoocState();     /* #215 */
     _synTabAfterSearch();   /* #202：統語タブなら結果本体を統語の一覧に替える */
     _logPerfMeasure('render', `${_allMergedResults.size.toLocaleString()} hits merged`);
     /* この時点で IDX.ready は必ず true（上のゲートで保証済み）。
@@ -5230,7 +5353,8 @@ function syncURL() {
 
     if (_layers.prox && currentDist !== 5) p.set('dist', String(currentDist));
     if (_genreTab === 'rel' || _genreTab === 'syn') p.set('tab', _genreTab);   /* 形態は既定で付けない（#82）。統語は ?tab=syn（#202） */
-    if (_lemmaTab && query && _lemmaTabsVisible()) p.set('lemma_tab', _lemmaTab);   /* #201：lemma タブ。「すべて」（既定）は付けない */
+    if (_lemmaTab && query && _lemmaTabsVisible()) p.set('lemma_tab', _lemmaTab);
+    if (query && _coocExcl.length) p.set('excl', _coocExcl.map(e => e.lemma + ':' + e.word).join(','));   /* #215：除外（レンマ:語 をカンマ区切り） */   /* #201：lemma タブ。「すべて」（既定）は付けない */
 
     /* 言語プレフィックス（/ja・/en・/es・/sv）は i18n.js が起動時に取り除く。入ってきた URL の保持ではなく、
        現在の実効言語（I18N.lang）から決める（#76）。言語切替→再実行でその言語の形に書き換わる。
@@ -5841,7 +5965,9 @@ function _renderLemmaGroups(groups,query,word2,words){
         const _pv=document.getElementById('result-count-provisional');
         if(_pv)_cnt.insertBefore(_sub,_pv);else _cnt.appendChild(_sub);
       } }
-    const _lgState=[],_lgBars=[];let _coocTarget=0;
+    /* #215：共起チップで除外した直後は、そのレンマのグループを開いたまま共起の対象にする（無ければ従来どおり先頭） */
+    const _openIdx=(()=>{const i=_coocFocusLemma?groups.findIndex(g=>g.lemma===_coocFocusLemma):-1;return i>=0?i:0;})();
+    const _lgState=[],_lgBars=[];let _coocTarget=_openIdx;
     /* 展開中の印（#50）は追随先（共起の対象）のバーだけに付ける: open かつ追随先のとき .follow */
     const _markFollow=()=>_lgBars.forEach((b,i)=>b&&b.classList.toggle('follow',b.classList.contains('open')&&i===_coocTarget));
     groups.forEach((group,groupIdx)=>{
@@ -5907,8 +6033,8 @@ function _renderLemmaGroups(groups,query,word2,words){
             _renderLemmaCooc(groups[_coocTarget]);
             if(_soloSnap){const _cs=document.getElementById('lemma-cooc');if(_cs)_cs.style.display='none';}   /* #201：単独表示では共起を出さない */
         });
-        // 最大ヒット数グループ（groups[0]）を自動展開
-        if(groupIdx===0){
+        // 最大ヒット数グループ（groups[0]）を自動展開（#215：除外の直後は対象レンマのグループ）
+        if(groupIdx===_openIdx){
             panel.classList.add('open');
             bar.classList.add('open');
         }
@@ -5916,7 +6042,7 @@ function _renderLemmaGroups(groups,query,word2,words){
         container.appendChild(row);
     });
     _markFollow();
-    _renderLemmaCooc(groups[0]);
+    _renderLemmaCooc(groups[_openIdx]);
     /* #201 lemma タブの単独表示：「すべて」の中の当該グループだけを（開いた状態で）出す。共起は隠す。
        戻すときは入る前の開閉・共起の追随先をそのまま復元する（「すべて」は現行表示と同一に保つ） */
     let _soloSnap=null;
@@ -5959,11 +6085,19 @@ function _renderLemmaCooc(group){
         chip.innerHTML=jp
             ?`<span class="lg-chip-jp">${_escH(jp)}</span><span class="lg-chip-gr">${_escH(word)}</span><span class="lg-chip-ct">${rawCount}</span>`
             :`<span class="lg-chip-gr">${_escH(word)}</span><span class="lg-chip-ct">${rawCount}</span>`;
-        chip.addEventListener('click',()=>{
-            const inp=document.getElementById('unified-search-input');
-            const cur=inp.value.trim().split(/\s+/)[0];
-            inp.value=`${cur} ${word}`;
-        });
+        /* #215：チップごとに「一緒に」（近接検索を即時実行）と「除外」（この語を含む節を除く） */
+        chip.classList.add('lg-chip-act');
+        const lemma=group.lemma;
+        const bw=document.createElement('button');bw.type='button';bw.className='lg-chip-btn';bw.dataset.act='with';
+        bw.textContent=_tf('search.cooc.with','一緒に');
+        bw.title=_tf('search.cooc.withTitle','{lemma} と {word} の近接検索をする',{lemma,word});
+        bw.addEventListener('click',e=>{e.stopPropagation();_coocDoWith(lemma,word);});
+        const bx=document.createElement('button');bx.type='button';bx.className='lg-chip-btn';bx.dataset.act='excl';
+        bx.textContent=_tf('search.cooc.exclude','除外');
+        bx.title=_tf('search.cooc.excludeTitle','{lemma} のヒットから {word} を含む節を除く',{lemma,word});
+        const _ex=_coocHasExcl(lemma,word);bx.setAttribute('aria-pressed',_ex?'true':'false');
+        bx.addEventListener('click',e=>{e.stopPropagation();_coocDoExcl(lemma,word);});
+        chip.appendChild(bw);chip.appendChild(bx);
         chipWrap.appendChild(chip);
     });
     sec.appendChild(title);sec.appendChild(chipWrap);
@@ -7801,6 +7935,10 @@ function _synTabBack() {
     /* lemma タブ（#201）：?lemma_tab=<lemma>。結果の描画後（_lemmaTabAfterRender）に、同名 lemma が無ければ「すべて」に落ちる。
        ?lemma= は旧形式の検索語なので混同しない。 */
     { const _lt = (p.get('lemma_tab') || '').trim(); if (_lt) _lemmaTab = _lt; }
+    /* #215：?excl=レンマ:語,…（共起チップの除外）。初回の検索で適用する */
+    { const _ex = (p.get('excl') || '').split(',').map(s => s.trim()).filter(Boolean);
+      for (const it of _ex) { const i = it.indexOf(':'); if (i > 0 && i < it.length - 1) { const lemma = it.slice(0, i), word = it.slice(i + 1); if (!_coocHasExcl(lemma, word)) _coocExcl.push({ lemma, word }); } }
+      if (_coocExcl.length) { _coocKeepOnce = true; _coocFocusLemma = _coocExcl[_coocExcl.length - 1].lemma; } }
     /* パス形（/search/<クエリ>）を優先。旧形式（?lemma= / ?word= / ?word1=&word2=）は互換のため引き続き受け付け、
        検索が走ると syncURL が replaceState でパス形に正規化する。 */
     const _pathQ = (() => {
