@@ -6990,7 +6990,7 @@ function _updateMorphAccordionUI(){
         if(btn) btn.setAttribute('aria-expanded',open?'true':'false');
         const summary=document.getElementById('morph-summary-'+slot);
         if(summary) {const vals=[..._morphSel[slot]].map(code=>(function(){const it=labels[slot].find(item=>item.code===code);return it?_morphJp(slot,it):undefined;})()).filter(Boolean).join(_tf('search.morph.sep','、'));
-            summary.textContent=(_morphNeg[slot]&&_morphSel[slot].size>0)?_tf('search.morph.negPrefix','Not：')+vals+_tf('search.morph.negSuffix','以外'):vals;}
+            summary.textContent=(_morphNeg[slot]&&_morphSel[slot].size>0)?_tf('search.morph.negPrefix','')+vals+_tf('search.morph.negSuffix','以外'):vals;}
     });
     const total=[...Object.values(_morphSel)].reduce((s,set)=>s+set.size,0);
     const count=document.getElementById('morph-panel-count');
