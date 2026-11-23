@@ -169,7 +169,7 @@ function _mobileInspectorDetail(greek, rawMorph, ref, lemma) {
         if (typeof _mvvStructFn === 'function' && Array.isArray(_mvvScope)) {
             const _mvvStructIdx = _mvvScope.findIndex(t => t.ref === _mvvRef);
             const _mvvStruct = _mvvStructIdx >= 0 ? _mvvStructFn(_mvvScope, _mvvStructIdx) : null;
-            if (_mvvStruct) _mvvStructureText = (window.I18N && I18N.lang === 'es') ? (_mvvStruct.label_es || '') : (window.I18N && I18N.contentLang === 'en') ? (_mvvStruct.label_en || _mvvStruct.label_ja) : _mvvStruct.label_ja;
+            if (_mvvStruct) _mvvStructureText = (window.I18N && I18N.lang === 'es') ? (_mvvStruct.label_es || '') : (window.I18N && I18N.lang === 'sv') ? (_mvvStruct.label_sv || _mvvStruct.label_en || _mvvStruct.label_ja) : (window.I18N && I18N.contentLang === 'en') ? (_mvvStruct.label_en || _mvvStruct.label_ja) : _mvvStruct.label_ja;
         }
     }
 
