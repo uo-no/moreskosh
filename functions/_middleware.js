@@ -17,7 +17,7 @@
 const LANGS = {
     en: { locale: 'en_US', image: '/assets/ogp-en.png' },
     es: { locale: 'es_ES', image: '/assets/ogp-es.png' },
-    sv: { locale: 'sv_SE', image: '/assets/ogp-en.png' },   // #115：スウェーデン語専用の OGP 画像は未作成のため英語版を流用
+    sv: { locale: 'sv_SE', image: '/assets/ogp-sv.png' },
 };
 
 export async function onRequest(context) {
