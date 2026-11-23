@@ -91,8 +91,18 @@ const _REF_FORM_ES = {
     mood:   { indicative: 'Indicativo', subjunctive: 'Subjuntivo', optative: 'Optativo', imperative: 'Imperativo', infinitive: 'Infinitivo', participle: 'Participio' },
     person: { '1': '1ª persona', '2': '2ª persona', '3': '3ª persona' },
 };
+const _REF_FORM_SV = {
+    pos:    { noun: 'Substantiv', adj: 'Adjektiv', verb: 'Verb', prep: 'Preposition', conj: 'Konjunktion', det: 'Determinativ', pron: 'Pronomen', adv: 'Adverb', ptcl: 'Partikel', num: 'Räkneord', intj: 'Interjektion' },
+    case:   { nominative: 'Nominativ', genitive: 'Genitiv', dative: 'Dativ', accusative: 'Ackusativ', vocative: 'Vokativ' },
+    number: { singular: 'Singular', plural: 'Plural' },
+    gender: { masculine: 'Maskulinum', feminine: 'Femininum', neuter: 'Neutrum' },
+    tense:  { present: 'Presens', imperfect: 'Imperfekt', future: 'Futurum', aorist: 'Aorist', perfect: 'Perfekt', pluperfect: 'Pluskvamperfekt' },
+    voice:  { active: 'Aktiv', middle: 'Medium', passive: 'Passiv' },
+    mood:   { indicative: 'Indikativ', subjunctive: 'Konjunktiv', optative: 'Optativ', imperative: 'Imperativ', infinitive: 'Infinitiv', participle: 'Particip' },
+    person: { '1': '1:a person', '2': '2:a person', '3': '3:e person' },
+};
 function _refForm() {
-    return (window.I18N && I18N.lang === 'es') ? _REF_FORM_ES : (window.I18N && I18N.contentLang === 'en') ? _REF_FORM_EN : _REF_FORM_JA;
+    return (window.I18N && I18N.lang === 'es') ? _REF_FORM_ES : (window.I18N && I18N.lang === 'sv') ? _REF_FORM_SV : (window.I18N && I18N.contentLang === 'en') ? _REF_FORM_EN : _REF_FORM_JA;
 }
 /* 形態ラベル表（name キー）。従来は同内容が複数箇所に複製されていたものを集約。
    JA は従来定義と同値（person のみ追加、既存消費側は読まない）。 */
@@ -126,8 +136,18 @@ const MORPH_FULL_ES = {
     case:   { nominative:'Nominativo', genitive:'Genitivo', dative:'Dativo', accusative:'Acusativo', vocative:'Vocativo' },
     person: { '1':'1ª persona', '2':'2ª persona', '3':'3ª persona' },
 };
+const MORPH_FULL_SV = {
+    pos:    { V:'Verb', N:'Substantiv', A:'Adjektiv', R:'Relativt pronomen', P:'Personligt pronomen', T:'Artikel', D:'Demonstrativt pronomen', ADV:'Adverb', PREP:'Preposition', CONJ:'Konjunktion', PRT:'Partikel' },
+    tense:  { present:'Presens', imperfect:'Imperfekt', future:'Futurum', aorist:'Aorist', perfect:'Perfekt', pluperfect:'Pluskvamperfekt' },
+    voice:  { active:'Aktiv', middle:'Medium', passive:'Passiv', 'middle deponent':'Medium deponens', 'middle or passive':'Medium/passiv' },
+    mood:   { indicative:'Indikativ', subjunctive:'Konjunktiv', optative:'Optativ', imperative:'Imperativ', infinitive:'Infinitiv', participle:'Particip' },
+    gender: { masculine:'Maskulinum', feminine:'Femininum', neuter:'Neutrum' },
+    number: { singular:'Singular', plural:'Plural' },
+    case:   { nominative:'Nominativ', genitive:'Genitiv', dative:'Dativ', accusative:'Ackusativ', vocative:'Vokativ' },
+    person: { '1':'1:a person', '2':'2:a person', '3':'3:e person' },
+};
 function _morphFull() {
-    return (window.I18N && I18N.lang === 'es') ? MORPH_FULL_ES : (window.I18N && I18N.contentLang === 'en') ? MORPH_FULL_EN : MORPH_FULL_JA;
+    return (window.I18N && I18N.lang === 'es') ? MORPH_FULL_ES : (window.I18N && I18N.lang === 'sv') ? MORPH_FULL_SV : (window.I18N && I18N.contentLang === 'en') ? MORPH_FULL_EN : MORPH_FULL_JA;
 }
 function _personText(c) {
     return _morphFull().person[c]
