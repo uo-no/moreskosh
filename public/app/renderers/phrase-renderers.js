@@ -123,7 +123,7 @@ const _PP_TRANS_EN = {
 
 function _buildPhraseContext(p, end, words) {
     const _isEn  = window.I18N && I18N.contentLang === 'en';
-    const _isEs  = window.I18N && I18N.lang === 'es';
+    const _isEs  = window.I18N && (I18N.lang === 'es' || I18N.lang === 'sv');   // SV も ES と同じサイドカー経路（#221）
     const jaOf   = _isEs
         ? (w => _escH((w && (typeof _glossSidecarOnlyFor === 'function' ? _glossSidecarOnlyFor(w) : null)) || (w && w.text) || ''))
         : _isEn
@@ -167,7 +167,7 @@ function _buildPhraseContext(p, end, words) {
 
 function _renderDefault(ctx) {
     const _isEn = window.I18N && I18N.contentLang === 'en';
-    const _isEs = window.I18N && I18N.lang === 'es';
+    const _isEs = window.I18N && (I18N.lang === 'es' || I18N.lang === 'sv');   // SV も ES と同じサイドカー経路（#221）
     if (_isEs) {
         return ctx.tokens
             .map(w => _escH((w && (typeof _glossSidecarOnlyFor === 'function' ? _glossSidecarOnlyFor(w) : null)) || (w && w.text) || ''))
@@ -237,11 +237,27 @@ const _PHRASE_RENDERERS_ES = {
     PtcP: _renderNP_ES,
 };
 
+/* SV（#221）: 組み立ては EN 版（語間にスペース）を手本にする。前置詞語は SV 用の対訳表を持たず、
+   サイドカーのグロスをそのまま前置（創作しない）。 */
+function _renderPP_SV(ctx) {
+    const prefix = ctx.prep ? ctx.prep.ja : '';
+    const modSv  = ctx.modifiers.map(m => m.ja).filter(Boolean).join(' ');
+    const headSv = ctx.head ? ctx.head.ja : '';
+    const body   = [modSv, headSv].filter(Boolean).join(' ');
+    return prefix ? prefix + (body ? ' ' + body : '') : body;
+}
+const _PHRASE_RENDERERS_SV = {
+    PP:   _renderPP_SV,
+    NP:   _renderNP_ES,
+    PtcP: _renderNP_ES,
+};
+
 function renderPhraseJP(p, end, words) {
     const ctx    = _buildPhraseContext(p, end, words);
     const _isEn  = window.I18N && I18N.contentLang === 'en';
     const _isEs  = window.I18N && I18N.lang === 'es';
-    const render = ((_isEs ? _PHRASE_RENDERERS_ES : _isEn ? _PHRASE_RENDERERS_EN : _PHRASE_RENDERERS)[ctx.type]) || _renderDefault;
+    const _isSv  = window.I18N && I18N.lang === 'sv';
+    const render = ((_isSv ? _PHRASE_RENDERERS_SV : _isEs ? _PHRASE_RENDERERS_ES : _isEn ? _PHRASE_RENDERERS_EN : _PHRASE_RENDERERS)[ctx.type]) || _renderDefault;
     return render(ctx);
 }
 
@@ -257,6 +273,13 @@ function _phraseReadingSentenceES(kind, quoted) {
         case 'PP':   return `"${quoted}" forma una sola frase preposicional.`;
         case 'PtcP': return `Leer "${quoted}" como una unidad hace que el significado fluya.`;
         default:     return `"${quoted}" forma una sola unidad de significado.`;
+    }
+}
+function _phraseReadingSentenceSV(kind, quoted) {
+    switch (kind) {
+        case 'PP':   return `"${quoted}" bildar en enda prepositionsfras.`;
+        case 'PtcP': return `Att läsa "${quoted}" som en enhet låter betydelsen flyta.`;
+        default:     return `"${quoted}" bildar en enda betydelseenhet.`;
     }
 }
 function _phraseReadingSentenceEN(kind, quoted) {
@@ -354,6 +377,33 @@ const _PHRASE_INTENT_TEXT_ES = {
                      'Leerla junta, sin partirla, ayuda a que el significado llegue.'],
 };
 
+const _PHRASE_INTENT_TEXT_SV = {
+    background:     ['Den här frasen ger bakgrunden innan huvudtanken.',
+                     'Att läsa den först hjälper det som följer att bli begripligt.'],
+    reason:         ['Den här frasen anger skälet till det som sagts.',
+                     'Att koppla den till det föregående hjälper betydelsen att framträda.'],
+    purpose:        ['Den här frasen visar vad handlingen syftar till.',
+                     'Att ha målet i sikte medan du läser hjälper sammanhanget att hänga ihop.'],
+    result:         ['Den här frasen visar vad som blir följden av det som sagts.',
+                     'Att läsa den som utfallet av det föregående gör sambandet synligt.'],
+    condition:      ['Den här frasen anger ett villkor, ett ”om”.',
+                     'Att hålla villkoret i minnet medan du läser hjälper dig följa sammanhanget.'],
+    concession:     ['Den här frasen signalerar att det som följer går emot förväntan.',
+                     'Att läsa med ett ”och ändå” i tankarna hjälper riktningen att framträda.'],
+    comparison:     ['Den här frasen inför en jämförelsepunkt.',
+                     'Att läsa med jämförelsen i tankarna hjälper betydelsen att framträda.'],
+    contrast:       ['Den här frasen ställer upp en motsats till det föregående.',
+                     'Att ställa de två sidorna bredvid varandra gör riktningen tydlig.'],
+    explanation:    ['Den här frasen beskriver innehållet i eller beskaffenheten hos ett nyckelord.',
+                     'Att lägga märke till vilket ord den bestämmer gör avsnittet lättare att följa.'],
+    identification: ['Den här frasen pekar ut vem eller vad som avses.',
+                     'Att hålla samma person eller sak i tankarna medan du läser visar sambandet.'],
+    progression:    ['Den här frasen signalerar att berättelsen går vidare.',
+                     'Att läsa den som en vändpunkt hjälper dig följa sammanhanget.'],
+    single_action:  ['Den här frasen uttrycker en enda rörelse som en helhet.',
+                     'Att läsa den samlat, utan att dela upp den, hjälper betydelsen att gå fram.'],
+};
+
 /* 意味層の選択（1句1現象の原則・docs/phrase-reading.md Phase E）:
    対象語の categories から「phrase scope × phrase_reading の priority ×
    confidence ≥ min_confidence × intent 定義済み」の現象を探し、
@@ -367,7 +417,7 @@ function _phraseIntentLines(proj, idx) {
     if (!policy || !rule) return [];
     const minConf    = policy.rules?.min_confidence ?? 0.40;
     const prios      = rule.priorities || [];
-    const textTable  = (window.I18N && I18N.lang === 'es') ? _PHRASE_INTENT_TEXT_ES : (window.I18N && I18N.contentLang === 'en') ? _PHRASE_INTENT_TEXT_EN : _PHRASE_INTENT_TEXT;
+    const textTable  = (window.I18N && I18N.lang === 'sv') ? _PHRASE_INTENT_TEXT_SV : (window.I18N && I18N.lang === 'es') ? _PHRASE_INTENT_TEXT_ES : (window.I18N && I18N.contentLang === 'en') ? _PHRASE_INTENT_TEXT_EN : _PHRASE_INTENT_TEXT;
     let best = null;
     for (const c of Object.values(w.categories)) {
         if (!c || c.confidence < minConf) continue;
@@ -393,6 +443,7 @@ function _phraseIntentLines(proj, idx) {
 const _PHRASE_INTENT_LEAD    = 'このまとまりは、';
 const _PHRASE_INTENT_LEAD_EN = 'This phrase ';
 const _PHRASE_INTENT_LEAD_ES = 'Esta frase ';
+const _PHRASE_INTENT_LEAD_SV = 'Den här frasen ';
 function _phraseIntentStandaloneHTML(words, idx, proj) {
     try {
         const intentLines = _phraseIntentLines(proj, idx);
@@ -402,9 +453,10 @@ function _phraseIntentStandaloneHTML(words, idx, proj) {
         if (!quoted) return null;
         const _isEn = window.I18N && I18N.contentLang === 'en';
         const _isEs = window.I18N && I18N.lang === 'es';
-        const LEAD  = _isEs ? _PHRASE_INTENT_LEAD_ES : _isEn ? _PHRASE_INTENT_LEAD_EN : _PHRASE_INTENT_LEAD;
+        const _isSv = window.I18N && I18N.lang === 'sv';
+        const LEAD  = _isSv ? _PHRASE_INTENT_LEAD_SV : _isEs ? _PHRASE_INTENT_LEAD_ES : _isEn ? _PHRASE_INTENT_LEAD_EN : _PHRASE_INTENT_LEAD;
         const first = intentLines[0].startsWith(LEAD)
-            ? ((_isEn || _isEs)
+            ? ((_isEn || _isEs || _isSv)
                 ? `"${quoted}" ` + intentLines[0].slice(LEAD.length)
                 : `「${quoted}」のまとまりは、` + intentLines[0].slice(LEAD.length))
             : intentLines[0];
@@ -576,7 +628,7 @@ async function _buildPhraseReadingHTML(words, idx) {
         /* Stage A: Engine 出力ベースの引用（旧 renderPhraseJP は残置・fallback） */
         const quoted = _renderQuoteViaEngine(p, trimmedEnd, words);
         if (!quoted) continue;
-        lines.push((window.I18N && I18N.lang === 'es') ? _phraseReadingSentenceES(p.type, quoted) : _isEn ? _phraseReadingSentenceEN(p.type, quoted) : _phraseReadingSentence(p.type, quoted));
+        lines.push((window.I18N && I18N.lang === 'sv') ? _phraseReadingSentenceSV(p.type, quoted) : (window.I18N && I18N.lang === 'es') ? _phraseReadingSentenceES(p.type, quoted) : _isEn ? _phraseReadingSentenceEN(p.type, quoted) : _phraseReadingSentence(p.type, quoted));
 
         /* 『〜の』の関係文: まとまり の中心となる語の後に『〜の』の連なりが
            続く場合のみ、「どれがどれを説明しているか」を一文で示す */
@@ -591,10 +643,15 @@ async function _buildPhraseReadingHTML(words, idx) {
                 headIdx >= 0 && g.start > headIdx && g.end <= trimmedEnd);
             if (inner && headIdx >= 0) {
                 const genQ = quoteOf(inner.start, inner.end);
-                const headW = _isEn
+                const _svRel = window.I18N && I18N.lang === 'sv';
+                const headW = _svRel
+                    ? _escH((typeof _glossSidecarOnlyFor === 'function' ? _glossSidecarOnlyFor(words[headIdx]) : null) || words[headIdx]?.text || '')
+                    : _isEn
                     ? _escH(words[headIdx]?.english || words[headIdx]?.text || '')
                     : _escH(words[headIdx]?.japanese || words[headIdx]?.text || '');
-                if (genQ && headW) lines.push(_isEn
+                if (genQ && headW) lines.push(_svRel
+                    ? `"${genQ}" bestämmer "${headW}".`
+                    : _isEn
                     ? `"${genQ}" describes "${headW}".`
                     : `「${genQ}」が「${headW}」を説明しています。`);
             }
