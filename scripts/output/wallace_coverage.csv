@@ -5,14 +5,14 @@ Nominative,nominative.apposition,"Nominative in Apposition","pp.48–49",complet
 Nominative,nominative.nominative_absolute,"Nominative Absolute","pp.49–51",complete,true,true
 Nominative,nominative.pendens,"Nominativus Pendens","pp.51–53",complete,true,true
 Nominative,nominative.vocative_nominative,"Nominative for Vocative","pp.56–59",complete,true,true
-Nominative,nominative.indeclinable,"Indeclinable Nominative","pp.61–62（外来固有名詞）",complete,false,true
-Nominative,nominative.subject_with_infinitive,"Nominative with Infinitive","pp.36–40（周辺用法）",complete,false,true
+Nominative,nominative.indeclinable,"Indeclinable Nominative","pp.61–62（外来固有名詞）",complete,true,true
+Nominative,nominative.subject_with_infinitive,"Nominative with Infinitive","pp.36–40（周辺用法）",complete,true,true
 Nominative,nominative.exclamation,"Nominative of Exclamation","pp.59–60",complete,true,true
 Nominative,nominative.title_nominative,"Nominative of Appellation/Title","p.61",complete,true,true
 Vocative,vocative.direct_address,"Direct Address","pp.67–68",complete,true,true
 Vocative,vocative.with_o,"Vocative with ὦ","pp.68–69",complete,true,true
-Vocative,vocative.nominative_for_vocative,"Nominative for Vocative","pp.56–59, 69–70",complete,false,true
-Vocative,vocative.exclamatory,"Exclamatory Vocative","pp.68–69（感嘆用法）",complete,false,true
+Vocative,vocative.nominative_for_vocative,"Nominative for Vocative","pp.56–59, 69–70",complete,true,true
+Vocative,vocative.exclamatory,"Exclamatory Vocative","pp.68–69（感嘆用法）",complete,true,true
 Vocative,vocative.chain,"Vocative Chain","pp.67–68（反復呼格）",complete,true,true
 Genitive,genitive.possessive,"Possessive Genitive","§4.A.1 (pp.81–83)",complete,true,true
 Genitive,genitive.descriptive,"Descriptive Genitive","§4.A.2 (pp.79–81)",complete,true,true
@@ -26,7 +26,7 @@ Genitive,genitive.attributed,"Attributed Genitive","§4.A.4 (pp.88)",complete,tr
 Genitive,genitive.predicate,"Predicate Genitive","§4.A.12 (pp.100–101)",complete,true,true
 Genitive,genitive.subjective,"Subjective Genitive","§4.B.1 (pp.112–116)",complete,true,true
 Genitive,genitive.objective,"Objective Genitive","§4.B.2 (pp.116–119)",complete,true,true
-Genitive,genitive.plenary,"Plenary Genitive","§4.B.3 (pp.119–121)",complete,false,true
+Genitive,genitive.plenary,"Plenary Genitive","§4.B.3 (pp.119–121)",complete,true,true
 Genitive,genitive.comparison,"Genitive of Comparison","§4.C.7 (pp.110–112)",complete,true,true
 Genitive,genitive.separation,"Genitive of Separation","§4.C.6 (pp.107–109)",complete,true,true
 Genitive,genitive.time,"Genitive of Time","§4.C.1 (pp.122–124)",complete,true,true
@@ -64,18 +64,18 @@ Article,article.par_excellence,"Par Excellence Article","§2.A.4 (pp.222–223)"
 Article,article.simple_identification,"Simple Identification","§2 with substantives (pp.216–217)",complete,true,true
 Article,article.well_known,"Well-Known ('Celebrity') Article","§2 (p.225)",complete,true,true
 Article,article.abstract,"Article with Abstract Nouns","§2 (pp.226–227)",complete,true,true
-Article,article.deictic,"Deictic Article","§2 (p.221)",complete,false,true
+Article,article.deictic,"Deictic Article","§2 (p.221)",complete,true,true
 Article,article.kataphoric,"Kataphoric Article","§2 (pp.220–221)",complete,true,true
 Article,article.granville_sharp,"Granville Sharp (TSKS) Construction","§2 TSKS (pp.270–290)",complete,true,true
 Article,article.colwell,"Colwell Construction (Subject-Marking Article)","§2 Colwell (pp.256–270)",complete,true,true
 Adjective,adjective.attributive,"Attributive Adjective","pp.306–309（限定位置）",complete,true,true
 Adjective,adjective.predicate,"Predicate Adjective","pp.307–309（述語位置）",complete,true,true
 Adjective,adjective.substantival,"Substantival Adjective","pp.294–295",complete,true,true
-Adjective,adjective.attributive_position,"Attributive Position","pp.306–307",complete,false,true
-Adjective,adjective.predicate_position,"Predicate Position","pp.307–308",complete,false,true
+Adjective,adjective.attributive_position,"Attributive Position","pp.306–307",complete,true,true
+Adjective,adjective.predicate_position,"Predicate Position","pp.307–308",complete,true,true
 Adjective,adjective.comparative,"Comparative Adjective","pp.297–301",complete,true,true
 Adjective,adjective.superlative,"Superlative Adjective","pp.301–305",complete,true,true
-Adjective,adjective.proper_adjective,"Descriptive/Qualitative Adjective","pp.291–293",complete,false,true
+Adjective,adjective.proper_adjective,"Descriptive/Qualitative Adjective","pp.291–293",complete,true,true
 Adjective,adjective.restrictive,"Restrictive Adjective","pp.306–307（限定機能）",complete,true,true
 Adjective,adjective.epithet,"Epithet Adjective","pp.293（修辞的用法）",complete,true,true
 Adjective,adjective.genitive_complement,"Adjective with Genitive Complement","pp.134–135（形容詞 + 属格）",complete,true,true
@@ -89,7 +89,7 @@ Pronoun,pronoun.relative,"Relative Pronoun","pp.335–345",complete,true,true
 Pronoun,pronoun.interrogative,"Interrogative Pronoun","pp.345–346",complete,true,true
 Pronoun,pronoun.indefinite,"Indefinite Pronoun","pp.347",complete,true,true
 Pronoun,pronoun.distributive,"Distributive Pronoun","pp.347–348",complete,true,true
-Pronoun,pronoun.reciprocal_emphasis,"Reciprocal Emphasis","pp.351–352（相互の強調文脈）",complete,false,true
+Pronoun,pronoun.reciprocal_emphasis,"Reciprocal Emphasis","pp.351–352（相互の強調文脈）",complete,true,true
 Pronoun,pronoun.possessive_pronoun,"Possessive Pronoun","pp.348（所有形容詞）",complete,true,true
 Preposition,preposition.proper_with_genitive,"Proper Preposition with Genitive","pp.360–363",complete,true,true
 Preposition,preposition.proper_with_dative,"Proper Preposition with Dative","pp.360–363",complete,true,true
@@ -107,7 +107,7 @@ Infinitive,infinitive.complementary,"Complementary Infinitive","§34.A.6 (pp.598
 Infinitive,infinitive.subject,"Subject Infinitive","§34.B.1 (pp.600–601)",complete,true,true
 Infinitive,infinitive.indirect_discourse,"Infinitive in Indirect Discourse","§34.B.3 (pp.603–605)",complete,true,true
 Infinitive,infinitive.epexegetical,"Epexegetical/Appositional Infinitive","§34.B.4 (pp.606–607)",complete,true,true
-Infinitive,infinitive.articular,"Articular Infinitive","§34.B (pp.600–607, 構造標識)",complete,false,true
+Infinitive,infinitive.articular,"Articular Infinitive","§34.B (pp.600–607, 構造標識)",complete,true,true
 Infinitive,infinitive.imperatival,"Imperatival Infinitive","§34.C (p.608)",complete,true,true
 Participle,participle.attributive,"Attributive Participle","§27.A.1a (pp.617–619)",complete,true,true
 Participle,participle.predicate,"Predicate Participle","§27.A.1b (pp.619–621)",complete,true,true

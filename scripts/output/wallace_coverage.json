@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-23T13:03:23.628Z",
+  "generated_at": "2026-08-20T14:39:26.840Z",
   "wallace_version": "Wallace, Daniel B. Greek Grammar Beyond the Basics. Zondervan, 1996.",
   "engine_version": "0.2.0",
   "summary": {
     "implemented_categories": 17,
     "implemented_types": 242,
-    "active_types": 231,
+    "active_types": 242,
     "stub_types": 0,
-    "tests": 547,
+    "tests": 400,
     "tested_types": 242,
     "coverage_percent": 100,
-    "representative_examples_verified": 219
+    "representative_examples_verified": 220
   },
   "chapters": [
     {
@@ -19,12 +19,12 @@
       "extension": false,
       "wallace_pages": "36–64",
       "registry_types": 10,
-      "active": 8,
+      "active": 10,
       "stub": 0,
-      "implemented": 8,
+      "implemented": 10,
       "tested": 10,
-      "coverage": 125,
-      "regression_test_mentions": 35,
+      "coverage": 100,
+      "regression_test_mentions": 20,
       "metrics_covered": true,
       "status": "complete",
       "types": [
@@ -105,7 +105,7 @@
           "title": "Indeclinable Nominative",
           "wallace_ref": "pp.61–62（外来固有名詞）",
           "representative": "MAT 1:2",
-          "active": false,
+          "active": true,
           "tested": true,
           "tested_examples": [
             "MAT 1:2"
@@ -117,7 +117,7 @@
           "title": "Nominative with Infinitive",
           "wallace_ref": "pp.36–40（周辺用法）",
           "representative": "PHP 1:21",
-          "active": false,
+          "active": true,
           "tested": true,
           "tested_examples": [
             "PHP 1:21"
@@ -156,12 +156,12 @@
       "extension": false,
       "wallace_pages": "65–71",
       "registry_types": 5,
-      "active": 3,
+      "active": 5,
       "stub": 0,
-      "implemented": 3,
+      "implemented": 5,
       "tested": 5,
-      "coverage": 166.7,
-      "regression_test_mentions": 16,
+      "coverage": 100,
+      "regression_test_mentions": 11,
       "metrics_covered": true,
       "status": "complete",
       "types": [
@@ -194,7 +194,7 @@
           "title": "Nominative for Vocative",
           "wallace_ref": "pp.56–59, 69–70",
           "representative": "JHN 20:28",
-          "active": false,
+          "active": true,
           "tested": true,
           "tested_examples": [
             "JHN 20:28"
@@ -206,7 +206,7 @@
           "title": "Exclamatory Vocative",
           "wallace_ref": "pp.68–69（感嘆用法）",
           "representative": "ROM 11:33",
-          "active": false,
+          "active": true,
           "tested": true,
           "tested_examples": [
             "ROM 11:33"
@@ -233,12 +233,12 @@
       "extension": false,
       "wallace_pages": "72–136",
       "registry_types": 22,
-      "active": 21,
+      "active": 22,
       "stub": 0,
-      "implemented": 21,
+      "implemented": 22,
       "tested": 22,
-      "coverage": 104.8,
-      "regression_test_mentions": 134,
+      "coverage": 100,
+      "regression_test_mentions": 75,
       "metrics_covered": true,
       "status": "complete",
       "types": [
@@ -387,7 +387,7 @@
           "title": "Plenary Genitive",
           "wallace_ref": "§4.B.3 (pp.119–121)",
           "representative": "2CO 5:14",
-          "active": false,
+          "active": true,
           "tested": true,
           "tested_examples": [],
           "registry": true
@@ -435,7 +435,10 @@
           "representative": "LUK 16:24",
           "active": true,
           "tested": true,
-          "tested_examples": [],
+          "tested_examples": [
+            "LUK 16:24",
+            "MRK 1:10"
+          ],
           "registry": true
         },
         {
@@ -507,7 +510,7 @@
       "implemented": 14,
       "tested": 14,
       "coverage": 100,
-      "regression_test_mentions": 94,
+      "regression_test_mentions": 37,
       "metrics_covered": true,
       "status": "complete",
       "types": [
@@ -692,7 +695,7 @@
       "implemented": 7,
       "tested": 7,
       "coverage": 100,
-      "regression_test_mentions": 55,
+      "regression_test_mentions": 46,
       "metrics_covered": true,
       "status": "complete",
       "types": [
@@ -792,12 +795,12 @@
       "extension": false,
       "wallace_pages": "206–290",
       "registry_types": 11,
-      "active": 10,
+      "active": 11,
       "stub": 0,
-      "implemented": 10,
+      "implemented": 11,
       "tested": 11,
-      "coverage": 110,
-      "regression_test_mentions": 56,
+      "coverage": 100,
+      "regression_test_mentions": 38,
       "metrics_covered": true,
       "status": "complete",
       "types": [
@@ -829,7 +832,7 @@
           "id": "article.previous_reference",
           "title": "Previous Reference (Anaphoric)",
           "wallace_ref": "§2.A.3 (pp.217–220)",
-          "representative": "1CO 10:4",
+          "representative": "JHN 4:9",
           "active": true,
           "tested": true,
           "tested_examples": [],
@@ -884,7 +887,7 @@
           "title": "Deictic Article",
           "wallace_ref": "§2 (p.221)",
           "representative": "LUK 23:47",
-          "active": false,
+          "active": true,
           "tested": true,
           "tested_examples": [],
           "registry": true
@@ -929,12 +932,12 @@
       "extension": false,
       "wallace_pages": "291–314",
       "registry_types": 11,
-      "active": 8,
+      "active": 11,
       "stub": 0,
-      "implemented": 8,
+      "implemented": 11,
       "tested": 11,
-      "coverage": 137.5,
-      "regression_test_mentions": 35,
+      "coverage": 100,
+      "regression_test_mentions": 23,
       "metrics_covered": true,
       "status": "complete",
       "types": [
@@ -979,7 +982,7 @@
           "title": "Attributive Position",
           "wallace_ref": "pp.306–307",
           "representative": "JHN 10:11",
-          "active": false,
+          "active": true,
           "tested": true,
           "tested_examples": [],
           "registry": true
@@ -989,7 +992,7 @@
           "title": "Predicate Position",
           "wallace_ref": "pp.307–308",
           "representative": "ROM 7:12",
-          "active": false,
+          "active": true,
           "tested": true,
           "tested_examples": [],
           "registry": true
@@ -1023,7 +1026,7 @@
           "title": "Descriptive/Qualitative Adjective",
           "wallace_ref": "pp.291–293",
           "representative": "MAT 7:17",
-          "active": false,
+          "active": true,
           "tested": true,
           "tested_examples": [
             "MAT 7:17"
@@ -1072,12 +1075,12 @@
       "extension": false,
       "wallace_pages": "315–354",
       "registry_types": 12,
-      "active": 11,
+      "active": 12,
       "stub": 0,
-      "implemented": 11,
+      "implemented": 12,
       "tested": 12,
-      "coverage": 109.1,
-      "regression_test_mentions": 42,
+      "coverage": 100,
+      "regression_test_mentions": 30,
       "metrics_covered": true,
       "status": "complete",
       "types": [
@@ -1206,7 +1209,7 @@
           "title": "Reciprocal Emphasis",
           "wallace_ref": "pp.351–352（相互の強調文脈）",
           "representative": "1TH 3:12",
-          "active": false,
+          "active": true,
           "tested": true,
           "tested_examples": [],
           "registry": true
@@ -1236,7 +1239,7 @@
       "implemented": 7,
       "tested": 7,
       "coverage": 100,
-      "regression_test_mentions": 42,
+      "regression_test_mentions": 34,
       "metrics_covered": true,
       "status": "complete",
       "types": [
@@ -1336,12 +1339,12 @@
       "extension": false,
       "wallace_pages": "587–611",
       "registry_types": 11,
-      "active": 10,
+      "active": 11,
       "stub": 0,
-      "implemented": 10,
+      "implemented": 11,
       "tested": 11,
-      "coverage": 110,
-      "regression_test_mentions": 42,
+      "coverage": 100,
+      "regression_test_mentions": 33,
       "metrics_covered": true,
       "status": "complete",
       "types": [
@@ -1458,7 +1461,7 @@
           "title": "Articular Infinitive",
           "wallace_ref": "§34.B (pp.600–607, 構造標識)",
           "representative": "PHP 1:21",
-          "active": false,
+          "active": true,
           "tested": true,
           "tested_examples": [
             "PHP 1:21"
@@ -1490,7 +1493,7 @@
       "implemented": 17,
       "tested": 17,
       "coverage": 100,
-      "regression_test_mentions": 102,
+      "regression_test_mentions": 60,
       "metrics_covered": true,
       "status": "complete",
       "types": [
@@ -1711,7 +1714,7 @@
       "implemented": 48,
       "tested": 48,
       "coverage": 100,
-      "regression_test_mentions": 158,
+      "regression_test_mentions": 110,
       "metrics_covered": true,
       "status": "complete",
       "types": [
@@ -2298,7 +2301,7 @@
       "implemented": 12,
       "tested": 12,
       "coverage": 100,
-      "regression_test_mentions": 61,
+      "regression_test_mentions": 49,
       "metrics_covered": true,
       "status": "complete",
       "types": [
@@ -2459,7 +2462,7 @@
       "implemented": 12,
       "tested": 12,
       "coverage": 100,
-      "regression_test_mentions": 63,
+      "regression_test_mentions": 52,
       "metrics_covered": true,
       "status": "complete",
       "types": [
@@ -2620,7 +2623,7 @@
       "implemented": 21,
       "tested": 21,
       "coverage": 100,
-      "regression_test_mentions": 58,
+      "regression_test_mentions": 38,
       "metrics_covered": true,
       "status": "complete",
       "types": [
@@ -2886,7 +2889,7 @@
       "implemented": 12,
       "tested": 12,
       "coverage": 100,
-      "regression_test_mentions": 36,
+      "regression_test_mentions": 23,
       "metrics_covered": true,
       "status": "complete",
       "types": [
@@ -3052,7 +3055,7 @@
       "implemented": 10,
       "tested": 10,
       "coverage": 100,
-      "regression_test_mentions": 31,
+      "regression_test_mentions": 22,
       "metrics_covered": true,
       "status": "complete",
       "types": [
