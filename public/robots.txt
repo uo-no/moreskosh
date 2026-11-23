@@ -1,0 +1,26 @@
+# moreskosh (BibleGreen) — https://moreskosh.pages.dev/
+# 検索エンジンと AI クローラのすべてを歓迎します。
+
+User-agent: *
+Allow: /
+
+# AI クローラ（明示的に許可）
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+Sitemap: https://moreskosh.pages.dev/sitemap.xml

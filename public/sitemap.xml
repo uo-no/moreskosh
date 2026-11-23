@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 単一 urlset。#214 で生成ページが加わる際は、このファイルを sitemap index に変換し、
+     現行の URL 群は別ファイル（例: sitemap-core.xml）へ移せる構造にしてある。 -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://moreskosh.pages.dev/</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://moreskosh.pages.dev/ja"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://moreskosh.pages.dev/en"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://moreskosh.pages.dev/es"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://moreskosh.pages.dev/sv"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://moreskosh.pages.dev/"/>
+  </url>
+  <url>
+    <loc>https://moreskosh.pages.dev/search</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://moreskosh.pages.dev/ja/search"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://moreskosh.pages.dev/en/search"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://moreskosh.pages.dev/es/search"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://moreskosh.pages.dev/sv/search"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://moreskosh.pages.dev/search"/>
+  </url>
+  <url>
+    <loc>https://moreskosh.pages.dev/ja</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://moreskosh.pages.dev/ja"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://moreskosh.pages.dev/en"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://moreskosh.pages.dev/es"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://moreskosh.pages.dev/sv"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://moreskosh.pages.dev/"/>
+  </url>
+  <url>
+    <loc>https://moreskosh.pages.dev/en</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://moreskosh.pages.dev/ja"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://moreskosh.pages.dev/en"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://moreskosh.pages.dev/es"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://moreskosh.pages.dev/sv"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://moreskosh.pages.dev/"/>
+  </url>
+  <url>
+    <loc>https://moreskosh.pages.dev/es</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://moreskosh.pages.dev/ja"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://moreskosh.pages.dev/en"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://moreskosh.pages.dev/es"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://moreskosh.pages.dev/sv"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://moreskosh.pages.dev/"/>
+  </url>
+  <url>
+    <loc>https://moreskosh.pages.dev/sv</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://moreskosh.pages.dev/ja"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://moreskosh.pages.dev/en"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://moreskosh.pages.dev/es"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://moreskosh.pages.dev/sv"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://moreskosh.pages.dev/"/>
+  </url>
+  <url>
+    <loc>https://moreskosh.pages.dev/ja/search</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://moreskosh.pages.dev/ja/search"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://moreskosh.pages.dev/en/search"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://moreskosh.pages.dev/es/search"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://moreskosh.pages.dev/sv/search"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://moreskosh.pages.dev/search"/>
+  </url>
+  <url>
+    <loc>https://moreskosh.pages.dev/en/search</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://moreskosh.pages.dev/ja/search"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://moreskosh.pages.dev/en/search"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://moreskosh.pages.dev/es/search"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://moreskosh.pages.dev/sv/search"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://moreskosh.pages.dev/search"/>
+  </url>
+  <url>
+    <loc>https://moreskosh.pages.dev/es/search</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://moreskosh.pages.dev/ja/search"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://moreskosh.pages.dev/en/search"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://moreskosh.pages.dev/es/search"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://moreskosh.pages.dev/sv/search"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://moreskosh.pages.dev/search"/>
+  </url>
+  <url>
+    <loc>https://moreskosh.pages.dev/sv/search</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://moreskosh.pages.dev/ja/search"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://moreskosh.pages.dev/en/search"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://moreskosh.pages.dev/es/search"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://moreskosh.pages.dev/sv/search"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://moreskosh.pages.dev/search"/>
+  </url>
+</urlset>
