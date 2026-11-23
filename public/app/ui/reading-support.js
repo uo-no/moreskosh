@@ -42,8 +42,9 @@ function _glossSidecarOnlyFor(w) {
 function _glossSidecarFor(w) {
     const g = _glossSidecarOnlyFor(w);
     if (g) return g;
-    /* bible_data.english へのフォールバックは英語UIのみ（ES では英語を出さない）。 */
-    if (typeof window !== 'undefined' && window.I18N && I18N.contentLang === 'en'
+    /* bible_data.english へのフォールバックは英語UIのみ（ES・SV では英語を出さない。#219）。
+       contentLang は SV も 'en' になるため、内容（英語グロス）を引く条件は lang で判定する。 */
+    if (typeof window !== 'undefined' && window.I18N && I18N.lang === 'en'
         && typeof w.english === 'string' && w.english) return w.english;
     return null;
 }
@@ -133,11 +134,33 @@ function _esShortGloss(lemmaId) {
     return null;
 }
 
-/* UI 言語に応じた辞書の短いグロス（en: lexicon-lite、es: senses 第1語義）。 */
+/* スウェーデン語UIでの辞書語義（gloss-sv-senses.json、IGSD の label_sv、lemma 単位・最大3件）。
+   ES の鏡写し。該当なしは null（スウェーデン語UIで英語・日本語の語義は出さない。#219）。 */
+function _svSenseText(lemmaId) {
+    try {
+        const digits = String(lemmaId || '').replace(/[^0-9]/g, '');
+        const arr = (typeof _svSensesData !== 'undefined' && _svSensesData && digits) ? _svSensesData[digits] : null;
+        if (Array.isArray(arr) && arr.length) return arr.slice(0, 3).join(', ');
+    } catch (_) {}
+    return null;
+}
+
+/* スウェーデン語UIでの辞書の短いグロス（gloss-sv-senses の第1語義、lemma 単位）。該当なしは null。 */
+function _svShortGloss(lemmaId) {
+    try {
+        const digits = String(lemmaId || '').replace(/[^0-9]/g, '');
+        const arr = (typeof _svSensesData !== 'undefined' && _svSensesData && digits) ? _svSensesData[digits] : null;
+        if (Array.isArray(arr) && arr.length) return arr[0];
+    } catch (_) {}
+    return null;
+}
+
+/* UI 言語に応じた辞書の短いグロス（en: lexicon-lite、es: senses 第1語義、sv: senses 第1語義）。 */
 function _uiShortGloss(lemmaId) {
     if (typeof window === 'undefined' || !window.I18N) return null;
     if (I18N.lang === 'es') return _esShortGloss(lemmaId);
-    if (I18N.contentLang === 'en') return _enShortGloss(lemmaId);
+    if (I18N.lang === 'sv') return _svShortGloss(lemmaId);
+    if (I18N.lang === 'en') return _enShortGloss(lemmaId);
     return null;
 }
 
@@ -177,7 +200,8 @@ function _uiFallbackMeaning(w) {
 function _uiSenseText(lemmaId) {
     if (typeof window === 'undefined' || !window.I18N) return null;
     if (I18N.lang === 'es') return _esSenseText(lemmaId);
-    if (I18N.contentLang === 'en') return _enSenseText(lemmaId);
+    if (I18N.lang === 'sv') return _svSenseText(lemmaId);
+    if (I18N.lang === 'en') return _enSenseText(lemmaId);
     return null;
 }
 
@@ -185,7 +209,8 @@ function _uiSenseText(lemmaId) {
 function _ensureUiSenses() {
     if (typeof window === 'undefined' || !window.I18N) return;
     if (I18N.lang === 'es') { if (typeof _ensureEsSenses === 'function') _ensureEsSenses(); }
-    else if (I18N.contentLang === 'en') { if (typeof _ensureEnSenses === 'function') _ensureEnSenses(); }
+    else if (I18N.lang === 'sv') { if (typeof _ensureSvSenses === 'function') _ensureSvSenses(); }
+    else if (I18N.lang === 'en') { if (typeof _ensureEnSenses === 'function') _ensureEnSenses(); }
 }
 
 /* 章の生トークン（elData）を節・トークン番号で引けるようにした索引。

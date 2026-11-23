@@ -10,7 +10,12 @@ function cleanText(e) {
    優先順位: gloss_ja（日本語）→ headword（正規表記）→ lexemeId（最終保証）
    UI はこの関数のみを経由し、直接の条件分岐・フォールバック記述は禁止。 */
 function resolveDisplay(entry, lexemeId) {
-    if (typeof window !== 'undefined' && window.I18N && I18N.contentLang === 'en') {
+    if (typeof window !== 'undefined' && window.I18N && I18N.lang === 'sv') {
+        /* SV: 辞書語義（gloss-sv-senses の第1語義）があればそれ、無ければ見出し語（英語は出さない。#219） */
+        const sv = (typeof _svShortGloss === 'function') ? _svShortGloss(lexemeId) : null;
+        return sv || (entry && entry.headword) || lexemeId;
+    }
+    if (typeof window !== 'undefined' && window.I18N && I18N.lang === 'en') {
         return (entry && entry.gloss) || (entry && entry.headword) || lexemeId;
     }
     if (typeof window !== 'undefined' && window.I18N && I18N.lang === 'es') {
