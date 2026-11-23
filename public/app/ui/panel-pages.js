@@ -551,6 +551,7 @@ async function _openEtymPopup(lexemeId) {
     const esUi  = !!(window.I18N && I18N.lang === 'es');
     const svUi  = !!(window.I18N && I18N.lang === 'sv');   /* #119 */
     const gloss = esUi ? ((typeof _esShortGloss === 'function' ? _esShortGloss(lexemeId) : null) || '')
+                : svUi ? ((typeof _svShortGloss === 'function' ? _svShortGloss(lexemeId) : null) || '')
                 : enUi ? (entry?.gloss || '') : (entry?.gloss_ja || '');
     let   desc  = entry?.abbottSmith || '';
     const digits = lexemeId ? lexemeId.replace(/^grc:G/i, '') : '';
@@ -617,7 +618,7 @@ async function _openRefPopup(book, ch, verse, href) {
         const glossEn  = (entry && entry.gloss) || '';
         const formJa   = _refFormJa(t);
         const rows = [];
-        if (headword) rows.push(`<div class="rn-ref-word-row"><dt>${_T('ref.lemma', '見出し語')}</dt><dd><span class="rn-ref-gr">${_escH(headword)}</span>${(window.I18N && I18N.lang === 'es') ? (((typeof _esShortGloss === 'function' ? _esShortGloss(curId) : null)) ? ' (' + _escH(_esShortGloss(curId)) + ')' : '') : (window.I18N && I18N.contentLang === 'en') ? (glossEn ? ' (' + _escH(glossEn) + ')' : '') : (glossJa ? '（' + _escH(glossJa) + '）' : '')}</dd></div>`);
+        if (headword) rows.push(`<div class="rn-ref-word-row"><dt>${_T('ref.lemma', '見出し語')}</dt><dd><span class="rn-ref-gr">${_escH(headword)}</span>${(window.I18N && I18N.lang === 'es') ? (((typeof _esShortGloss === 'function' ? _esShortGloss(curId) : null)) ? ' (' + _escH(_esShortGloss(curId)) + ')' : '') : (window.I18N && I18N.lang === 'sv') ? (((typeof _svShortGloss === 'function' ? _svShortGloss(curId) : null)) ? ' (' + _escH(_svShortGloss(curId)) + ')' : '') : (window.I18N && I18N.contentLang === 'en') ? (glossEn ? ' (' + _escH(glossEn) + ')' : '') : (glossJa ? '（' + _escH(glossJa) + '）' : '')}</dd></div>`);
         if (t.class)  rows.push(`<div class="rn-ref-word-row"><dt>${_T('morph.pos', '品詞')}</dt><dd>${_escH((t.class === 'noun' && t.type === 'proper') ? _T('morph.properNoun', '固有名詞') : (_refForm().pos[t.class] || t.class))}</dd></div>`);
         rows.push(`<div class="rn-ref-word-row"><dt>${_T('ref.form', '形')}</dt><dd><span class="rn-ref-gr">${_escH(t.text || '')}</span>${formJa ? '（' + _escH(formJa) + '）' : ''}</dd></div>`);
         /* #155: 非日本語UIの出典なし語は、日本語（EN）/ 空（ES）ではなくギリシャ語形（#103 と同じ規則） */

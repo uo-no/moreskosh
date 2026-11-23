@@ -379,10 +379,10 @@ function _openSegPeek(segEl, tis) {
         el.appendChild(head);
 
         if (window.I18N && I18N.lang !== 'ja') {
-            /* 非日本語UI: 辞書グロス（ES は senses のみ、EN は bible_data の gloss にも落とす） */
+            /* 非日本語UI: 辞書グロス（ES・SV は senses のみ、EN は bible_data の gloss にも落とす） */
             const gl = document.createElement('div');
             gl.className = 'word-peek-glosses';
-            const en = _uiSenseText(w.lemmaId) || ((I18N.contentLang === 'en' && typeof w.gloss === 'string' && w.gloss) ? w.gloss : null);
+            const en = _uiSenseText(w.lemmaId) || ((I18N.lang === 'en' && typeof w.gloss === 'string' && w.gloss) ? w.gloss : null);
             if (en) gl.textContent = en; else { gl.hidden = true; _peekEnsureLite(); }
             _ensureUiSenses();
             el.appendChild(gl);

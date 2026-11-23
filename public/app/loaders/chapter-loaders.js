@@ -291,11 +291,15 @@ function _glossDictReady() {
     if (typeof _ensureSemanticData === 'function') {
         let sp = null;
         try { sp = _ensureSemanticData(); } catch (_) {}
-        if (I18N.contentLang === 'en') p = sp;   /* EN／SV：英語グロスの代替は lexicon（#115） */
+        if (I18N.lang === 'en') p = sp;   /* EN：英語グロスの代替は lexicon（#115）。SV は英語を出さない（#219） */
     }
     if (lang === 'es' && typeof _ensureEsSenses === 'function') {
         _ensureEsSenses();
         p = _esSensesPromise;
+    }
+    if (lang === 'sv' && typeof _ensureSvSenses === 'function') {
+        _ensureSvSenses();
+        p = _svSensesPromise;
     }
     if (!p) return Promise.resolve();
     return Promise.race([
@@ -373,6 +377,25 @@ function _ensureEsSenses() {
             }
         })
         .catch(() => { _esSensesPromise = null; });
+}
+/* スウェーデン語の語義リスト（gloss-sv-senses.json、IGSD の label_sv から生成。#219）。
+   ES 版の鏡写し。lite の代表グロスは英語のため、フォールバックは置かず、
+   該当なしは null（行を出さない）。 */
+let _svSensesData = null;
+let _svSensesPromise = null;
+function _ensureSvSenses() {
+    if (_svSensesData || _svSensesPromise) return;
+    _svSensesPromise = fetch('../assets/data/lexicon/gloss-sv-senses.json')
+        .then(r => _okJsonOrNull(r))
+        .then(d => {
+            _svSensesData = (d && typeof d === 'object') ? d : null;
+            if (_svSensesData && _peekEl && _peekLemmaId) {
+                const gl = _peekEl.querySelector('.word-peek-glosses');
+                const sv = (typeof _svSenseText === 'function') ? _svSenseText(_peekLemmaId) : null;
+                if (gl && sv && !gl.textContent) { gl.textContent = sv; gl.hidden = false; }
+            }
+        })
+        .catch(() => { _svSensesPromise = null; });
 }
 /* 語の役割で読む: 章×デバイスの公開可否（rk-availability.json）と
    手動オフセット（rk-offsets/{BOOK}.json）の読み込み。 */

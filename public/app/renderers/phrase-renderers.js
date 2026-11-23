@@ -66,7 +66,8 @@ function _renderQuoteFromSidecar(p, endIdx, words) {
             if (!w) continue;
             let g = segTextByRef.get(w.verse + ':' + Number(w.tokenIndex));
             if (typeof g !== 'string' || !g.trim()) {
-                g = (typeof w.english === 'string' && w.english) ? w.english : null;
+                /* w.english は英語UIのみ（SV では英語を出さない。#219）。SV の語はセグメント文が無ければ飛ばす */
+                g = (window.I18N && I18N.lang === 'en' && typeof w.english === 'string' && w.english) ? w.english : null;
             }
             const text = (g || '').trim();
             if (!text) continue;
