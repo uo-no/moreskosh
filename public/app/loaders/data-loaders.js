@@ -163,6 +163,30 @@ async function _loadReadingHints() {
  * assertReadingTextSafe() により多重に保証済み）。
  * ═════════════════════════════════════════════════════════════════ */
 
+/* #220: 統語タイプの SV 名・SV 説明（registry の label_sv / description_sv）。
+   analyzer の候補（CandidateNormalizer の出力）は label_sv / description_sv を持たないため、
+   候補 id から registry を引く。無い（registry 未読込・SV 値なし）場合は null → 呼び出し側は英語に落とす。 */
+let _syntaxSvIndex = null;
+function _syntaxSvFor(id) {
+    try {
+        const reg = _wallacePipeline && _wallacePipeline.registry;
+        if (!reg || !id) return null;
+        if (!_syntaxSvIndex) {
+            _syntaxSvIndex = new Map();
+            (function walk(o) {
+                if (Array.isArray(o)) { o.forEach(walk); return; }
+                if (o && typeof o === 'object') {
+                    if (typeof o.id === 'string' && (o.label_sv || o.description_sv)) {
+                        _syntaxSvIndex.set(o.id, { label: o.label_sv || '', description: o.description_sv || '' });
+                    }
+                    for (const k of Object.keys(o)) if (k !== 'detection' && k !== 'xsc') walk(o[k]);
+                }
+            })(reg.categories);
+        }
+        return _syntaxSvIndex.get(id) || null;
+    } catch (_) { return null; }
+}
+
 let _wallacePipeline       = null;  // { sa, pa, ca, rf } キャッシュ（初回のみ registry を fetch）
 let _wallacePipelineFailed = false; // 初期化に失敗した場合は再試行せず静かに諦める
 async function _ensureWallacePipeline() {
@@ -194,6 +218,7 @@ async function _ensureWallacePipeline() {
             ca: new ClauseAnalyzerCls(clauseRegistry),
             rf: new ReadingFormatterCls(),
             policy: { rules: readingPolicy.display_rules || {}, byId: policyById },
+            registry: syntaxRegistry,   /* #220: SV の統語名・説明を id で引くために保持（analyzer 出力は label_sv を持たない） */
         };
     } catch (e) {
         console.warn('[Wallace] pipeline init failed:', e);

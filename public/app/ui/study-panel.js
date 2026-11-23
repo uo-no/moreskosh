@@ -720,10 +720,14 @@ async function _buildSyntaxLabelHTML(words, targetRef) {
     const primaryCandidates = unique.slice(0, primaryCount);
     const otherCandidates = unique.slice(primaryCount);
     const renderCandidate = (c, primary) => {
-        const label = _escH((window.I18N && I18N.lang === 'es') ? (c.label_es || '') : (window.I18N && I18N.contentLang === 'en') ? (c.label_en || c.label_ja) : c.label_ja);
+        /* #220: SV は registry の label_sv / description_sv（候補 id で引く）。無ければ従来どおり英語に落とす。 */
+        const _svSyn = (window.I18N && I18N.lang === 'sv' && typeof _syntaxSvFor === 'function') ? _syntaxSvFor(c.id) : null;
+        const label = _escH((window.I18N && I18N.lang === 'es') ? (c.label_es || '') : (_svSyn && _svSyn.label) ? _svSyn.label : (window.I18N && I18N.contentLang === 'en') ? (c.label_en || c.label_ja) : c.label_ja);
         const _isEnUI = window.I18N && I18N.contentLang === 'en';
         const _isEsUI = window.I18N && I18N.lang === 'es';
-        const explanation = _isEsUI
+        const explanation = (_svSyn && _svSyn.description && _svSyn.description.trim())
+            ? _svSyn.description.trim()
+            : _isEsUI
             ? (typeof c.description_es === 'string' && c.description_es.trim()
                 ? c.description_es.trim()
                 : (typeof c.hint_es === 'string' ? c.hint_es.trim() : ''))

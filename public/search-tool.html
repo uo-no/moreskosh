@@ -7575,7 +7575,7 @@ async function _synInit(syntaxId) {
 
     const typeDef = _synGetTypeDef(syntaxId);
     if (typeDef) {
-        document.getElementById('syn-label').textContent = (_enMode() && typeDef.label_en) || (_esMode() && typeDef.label_es) || typeDef.label_ja || syntaxId; /* #104: UI 言語の見出し（無ければ従来の label_ja） */
+        document.getElementById('syn-label').textContent = (_svMode() && typeDef.label_sv) || (_enMode() && typeDef.label_en) || (_esMode() && typeDef.label_es) || typeDef.label_ja || syntaxId; /* #104: UI 言語の見出し（無ければ従来の label_ja） */
         document.getElementById('syn-sublabel').textContent = '';
     }
 
@@ -7606,9 +7606,9 @@ var _synLemmaCache = new Map();   /* lemma → [{typeId, bookKey, chapter, verse
 var _synTypeIndex = null;     /* id → {type, cat, sub}（active のタイプだけ） */
 
 function _synTabEl(id) { return document.getElementById(id); }
-function _synTabTypeLabel(t) { return (_enMode() && t.label_en) || (_esMode() && t.label_es) || t.label_ja || t.id; }
-function _synTabTypeDesc(t) { return (_enMode() && t.description_en) || (_esMode() && t.description_es) || t.description_ja || ''; }
-function _synTabCatLabel(c) { return (_enMode() && c.label_en) || (_esMode() && c.label_es) || c.label_ja || ''; }
+function _synTabTypeLabel(t) { return (_svMode() && t.label_sv) || (_enMode() && t.label_en) || (_esMode() && t.label_es) || t.label_ja || t.id; }
+function _synTabTypeDesc(t) { return (_svMode() && t.description_sv) || (_enMode() && t.description_en) || (_esMode() && t.description_es) || t.description_ja || ''; }
+function _synTabCatLabel(c) { return (_svMode() && c.label_sv) || (_enMode() && c.label_en) || (_esMode() && c.label_es) || c.label_ja || ''; }
 function _synTabGroupLabel(g) { return (_enMode() && g.group_label_en) || (_esMode() && g.group_label_es) || g.group_label_ja || ''; }
 async function _synTabEnsureRegistry() {
     if (!_synRegistryData) await _synLoadRegistry();
