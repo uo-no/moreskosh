@@ -1772,6 +1772,7 @@ function articularInfinitiveStructure(tokens, targetIdx) {
         prepWord,
         prepLemma: hasPrep ? (prepTok.lemma ?? null) : null,
         label_ja: `冠詞付き不定詞（${pattern}＋不定詞）`,
+        label_en: `Infinitive with article (${pattern} + infinitive)`,
         label_es: `Infinitivo con artículo (${pattern} + infinitivo)`,
         label_sv: `Infinitiv med artikel (${pattern} + infinitiv)`,
     };
