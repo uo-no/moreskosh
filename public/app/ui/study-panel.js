@@ -1190,7 +1190,7 @@ async function _renderReadingNotes(p) {
         const _structIdx = _wlvWordCache.findIndex(t => t.ref === ref);
         const _struct = (typeof _structFn === 'function' && _structIdx >= 0)
             ? _structFn(_wlvWordCache, _structIdx) : null;
-        if (_struct) morphRows.push({ k: _T('panel.structureLabel', '構造'), v: (window.I18N && I18N.lang === 'es') ? (_struct.label_es || '') : (window.I18N && I18N.contentLang === 'en') ? (_struct.label_en || _struct.label_ja) : _struct.label_ja, core: false });
+        if (_struct) morphRows.push({ k: _T('panel.structureLabel', '構造'), v: (window.I18N && I18N.lang === 'es') ? (_struct.label_es || '') : (window.I18N && I18N.lang === 'sv') ? (_struct.label_sv || _struct.label_en || _struct.label_ja) : (window.I18N && I18N.contentLang === 'en') ? (_struct.label_en || _struct.label_ja) : _struct.label_ja, core: false });
     }
 
     const morphGridHTML = morphRows.length

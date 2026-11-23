@@ -1,6 +1,6 @@
 # Coverage Report — Wallace Core + Engine Extensions
 
-Generated: 2026-08-20T14:39:26.840Z
+Generated: 2026-11-23T13:03:23.628Z
 Engine Version: 0.2.0
 Wallace: Wallace, Daniel B. Greek Grammar Beyond the Basics. Zondervan, 1996.
 
@@ -14,9 +14,9 @@ Wallace: Wallace, Daniel B. Greek Grammar Beyond the Basics. Zondervan, 1996.
 ## Summary
 
 - Categories: 17（Wallace Core 15 + Engine Extensions 2）
-- Types: 242 (active 242 / stub 0)
-- Tested types: 242 / 242 (**100%**)
-- Test assertions (call sites): 400
+- Types: 242 (active 231 / stub 0)
+- Tested types: 242 / 231 (**100%**)
+- Test assertions (call sites): 547
 - Wallace Core chapter coverage: 15 / 15
 - Engine Extensions: 2 / 2（GGBB の章ではない独自レイヤー）
 
@@ -26,7 +26,7 @@ Wallace: Wallace, Daniel B. Greek Grammar Beyond the Basics. Zondervan, 1996.
 
 ## Nominative
 
-Status: **complete**  |  Pages: 36–64  |  Implemented: 10 / 10  |  Tested: 10 (100%)  |  Stub: 0  |  Test mentions: 20  |  Metrics: ✓
+Status: **complete**  |  Pages: 36–64  |  Implemented: 8 / 10  |  Tested: 10 (125%)  |  Stub: 0  |  Test mentions: 35  |  Metrics: ✓
 
 | Type | Wallace | Active | Tested | Examples |
 |------|---------|--------|--------|----------|
@@ -36,8 +36,8 @@ Status: **complete**  |  Pages: 36–64  |  Implemented: 10 / 10  |  Tested: 10 
 | nominative.nominative_absolute | pp.49–51 | ✓ | ✓ | REV 1:4 |
 | nominative.pendens | pp.51–53 | ✓ | ✓ | ACT 7:40 |
 | nominative.vocative_nominative | pp.56–59 | ✓ | ✓ | MRK 9:25 |
-| nominative.indeclinable | pp.61–62（外来固有名詞） | ✓ | ✓ | MAT 1:2 |
-| nominative.subject_with_infinitive | pp.36–40（周辺用法） | ✓ | ✓ | PHP 1:21 |
+| nominative.indeclinable | pp.61–62（外来固有名詞） | — | ✓ | MAT 1:2 |
+| nominative.subject_with_infinitive | pp.36–40（周辺用法） | — | ✓ | PHP 1:21 |
 | nominative.exclamation | pp.59–60 | ✓ | ✓ | ROM 7:24 |
 | nominative.title_nominative | p.61 | ✓ | ✓ | MAT 1:1 |
 
@@ -45,21 +45,21 @@ Status: **complete**  |  Pages: 36–64  |  Implemented: 10 / 10  |  Tested: 10 
 
 ## Vocative
 
-Status: **complete**  |  Pages: 65–71  |  Implemented: 5 / 5  |  Tested: 5 (100%)  |  Stub: 0  |  Test mentions: 11  |  Metrics: ✓
+Status: **complete**  |  Pages: 65–71  |  Implemented: 3 / 5  |  Tested: 5 (166.7%)  |  Stub: 0  |  Test mentions: 16  |  Metrics: ✓
 
 | Type | Wallace | Active | Tested | Examples |
 |------|---------|--------|--------|----------|
 | vocative.direct_address | pp.67–68 | ✓ | ✓ | MAT 8:2 |
 | vocative.with_o | pp.68–69 | ✓ | ✓ | MAT 15:28 |
-| vocative.nominative_for_vocative | pp.56–59, 69–70 | ✓ | ✓ | JHN 20:28 |
-| vocative.exclamatory | pp.68–69（感嘆用法） | ✓ | ✓ | ROM 11:33 |
+| vocative.nominative_for_vocative | pp.56–59, 69–70 | — | ✓ | JHN 20:28 |
+| vocative.exclamatory | pp.68–69（感嘆用法） | — | ✓ | ROM 11:33 |
 | vocative.chain | pp.67–68（反復呼格） | ✓ | ✓ | MAT 27:46 |
 
 ---
 
 ## Genitive
 
-Status: **complete**  |  Pages: 72–136  |  Implemented: 22 / 22  |  Tested: 22 (100%)  |  Stub: 0  |  Test mentions: 75  |  Metrics: ✓
+Status: **complete**  |  Pages: 72–136  |  Implemented: 21 / 22  |  Tested: 22 (104.8%)  |  Stub: 0  |  Test mentions: 134  |  Metrics: ✓
 
 | Type | Wallace | Active | Tested | Examples |
 |------|---------|--------|--------|----------|
@@ -75,11 +75,11 @@ Status: **complete**  |  Pages: 72–136  |  Implemented: 22 / 22  |  Tested: 22
 | genitive.predicate | §4.A.12 (pp.100–101) | ✓ | ✓ | — |
 | genitive.subjective | §4.B.1 (pp.112–116) | ✓ | ✓ | ROM 8:35 |
 | genitive.objective | §4.B.2 (pp.116–119) | ✓ | ✓ | — |
-| genitive.plenary | §4.B.3 (pp.119–121) | ✓ | ✓ | — |
+| genitive.plenary | §4.B.3 (pp.119–121) | — | ✓ | — |
 | genitive.comparison | §4.C.7 (pp.110–112) | ✓ | ✓ | JHN 13:16 |
 | genitive.separation | §4.C.6 (pp.107–109) | ✓ | ✓ | JAS 1:13 |
 | genitive.time | §4.C.1 (pp.122–124) | ✓ | ✓ | JHN 3:2 |
-| genitive.place | §4.C.2 (pp.124–125) | ✓ | ✓ | LUK 16:24, MRK 1:10 |
+| genitive.place | §4.C.2 (pp.124–125) | ✓ | ✓ | — |
 | genitive.agency | §4.C.5 (pp.126–127) | ✓ | ✓ | JHN 6:45 |
 | genitive.means | §4.C.3 (pp.125) | ✓ | ✓ | — |
 | genitive.source | §4.C.4 (pp.109–110) | ✓ | ✓ | — |
@@ -90,7 +90,7 @@ Status: **complete**  |  Pages: 72–136  |  Implemented: 22 / 22  |  Tested: 22
 
 ## Dative
 
-Status: **complete**  |  Pages: 137–175  |  Implemented: 14 / 14  |  Tested: 14 (100%)  |  Stub: 0  |  Test mentions: 37  |  Metrics: ✓
+Status: **complete**  |  Pages: 137–175  |  Implemented: 14 / 14  |  Tested: 14 (100%)  |  Stub: 0  |  Test mentions: 94  |  Metrics: ✓
 
 | Type | Wallace | Active | Tested | Examples |
 |------|---------|--------|--------|----------|
@@ -113,7 +113,7 @@ Status: **complete**  |  Pages: 137–175  |  Implemented: 14 / 14  |  Tested: 1
 
 ## Accusative
 
-Status: **complete**  |  Pages: 176–205  |  Implemented: 7 / 7  |  Tested: 7 (100%)  |  Stub: 0  |  Test mentions: 46  |  Metrics: ✓
+Status: **complete**  |  Pages: 176–205  |  Implemented: 7 / 7  |  Tested: 7 (100%)  |  Stub: 0  |  Test mentions: 55  |  Metrics: ✓
 
 | Type | Wallace | Active | Tested | Examples |
 |------|---------|--------|--------|----------|
@@ -129,7 +129,7 @@ Status: **complete**  |  Pages: 176–205  |  Implemented: 7 / 7  |  Tested: 7 (
 
 ## Article
 
-Status: **complete**  |  Pages: 206–290  |  Implemented: 11 / 11  |  Tested: 11 (100%)  |  Stub: 0  |  Test mentions: 38  |  Metrics: ✓
+Status: **complete**  |  Pages: 206–290  |  Implemented: 10 / 11  |  Tested: 11 (110%)  |  Stub: 0  |  Test mentions: 56  |  Metrics: ✓
 
 | Type | Wallace | Active | Tested | Examples |
 |------|---------|--------|--------|----------|
@@ -140,7 +140,7 @@ Status: **complete**  |  Pages: 206–290  |  Implemented: 11 / 11  |  Tested: 1
 | article.simple_identification | §2 with substantives (pp.216–217) | ✓ | ✓ | — |
 | article.well_known | §2 (p.225) | ✓ | ✓ | JHN 7:38 |
 | article.abstract | §2 (pp.226–227) | ✓ | ✓ | ROM 13:10 |
-| article.deictic | §2 (p.221) | ✓ | ✓ | — |
+| article.deictic | §2 (p.221) | — | ✓ | — |
 | article.kataphoric | §2 (pp.220–221) | ✓ | ✓ | JHN 15:20 |
 | article.granville_sharp | §2 TSKS (pp.270–290) | ✓ | ✓ | — |
 | article.colwell | §2 Colwell (pp.256–270) | ✓ | ✓ | — |
@@ -149,18 +149,18 @@ Status: **complete**  |  Pages: 206–290  |  Implemented: 11 / 11  |  Tested: 1
 
 ## Adjective
 
-Status: **complete**  |  Pages: 291–314  |  Implemented: 11 / 11  |  Tested: 11 (100%)  |  Stub: 0  |  Test mentions: 23  |  Metrics: ✓
+Status: **complete**  |  Pages: 291–314  |  Implemented: 8 / 11  |  Tested: 11 (137.5%)  |  Stub: 0  |  Test mentions: 35  |  Metrics: ✓
 
 | Type | Wallace | Active | Tested | Examples |
 |------|---------|--------|--------|----------|
 | adjective.attributive | pp.306–309（限定位置） | ✓ | ✓ | JHN 10:11 |
 | adjective.predicate | pp.307–309（述語位置） | ✓ | ✓ | ROM 7:12 |
 | adjective.substantival | pp.294–295 | ✓ | ✓ | LUK 6:20 |
-| adjective.attributive_position | pp.306–307 | ✓ | ✓ | — |
-| adjective.predicate_position | pp.307–308 | ✓ | ✓ | — |
+| adjective.attributive_position | pp.306–307 | — | ✓ | — |
+| adjective.predicate_position | pp.307–308 | — | ✓ | — |
 | adjective.comparative | pp.297–301 | ✓ | ✓ | JHN 13:16 |
 | adjective.superlative | pp.301–305 | ✓ | ✓ | 2PE 1:4 |
-| adjective.proper_adjective | pp.291–293 | ✓ | ✓ | MAT 7:17 |
+| adjective.proper_adjective | pp.291–293 | — | ✓ | MAT 7:17 |
 | adjective.restrictive | pp.306–307（限定機能） | ✓ | ✓ | — |
 | adjective.epithet | pp.293（修辞的用法） | ✓ | ✓ | LUK 1:3 |
 | adjective.genitive_complement | pp.134–135（形容詞 + 属格） | ✓ | ✓ | LUK 23:15 |
@@ -169,7 +169,7 @@ Status: **complete**  |  Pages: 291–314  |  Implemented: 11 / 11  |  Tested: 1
 
 ## Pronoun
 
-Status: **complete**  |  Pages: 315–354  |  Implemented: 12 / 12  |  Tested: 12 (100%)  |  Stub: 0  |  Test mentions: 30  |  Metrics: ✓
+Status: **complete**  |  Pages: 315–354  |  Implemented: 11 / 12  |  Tested: 12 (109.1%)  |  Stub: 0  |  Test mentions: 42  |  Metrics: ✓
 
 | Type | Wallace | Active | Tested | Examples |
 |------|---------|--------|--------|----------|
@@ -183,14 +183,14 @@ Status: **complete**  |  Pages: 315–354  |  Implemented: 12 / 12  |  Tested: 1
 | pronoun.interrogative | pp.345–346 | ✓ | ✓ | MAT 6:31 |
 | pronoun.indefinite | pp.347 | ✓ | ✓ | GAL 6:1 |
 | pronoun.distributive | pp.347–348 | ✓ | ✓ | 1CO 3:8 |
-| pronoun.reciprocal_emphasis | pp.351–352（相互の強調文脈） | ✓ | ✓ | — |
+| pronoun.reciprocal_emphasis | pp.351–352（相互の強調文脈） | — | ✓ | — |
 | pronoun.possessive_pronoun | pp.348（所有形容詞） | ✓ | ✓ | JHN 8:16 |
 
 ---
 
 ## Preposition
 
-Status: **complete**  |  Pages: 355–389  |  Implemented: 7 / 7  |  Tested: 7 (100%)  |  Stub: 0  |  Test mentions: 34  |  Metrics: ✓
+Status: **complete**  |  Pages: 355–389  |  Implemented: 7 / 7  |  Tested: 7 (100%)  |  Stub: 0  |  Test mentions: 42  |  Metrics: ✓
 
 | Type | Wallace | Active | Tested | Examples |
 |------|---------|--------|--------|----------|
@@ -206,7 +206,7 @@ Status: **complete**  |  Pages: 355–389  |  Implemented: 7 / 7  |  Tested: 7 (
 
 ## Infinitive
 
-Status: **complete**  |  Pages: 587–611  |  Implemented: 11 / 11  |  Tested: 11 (100%)  |  Stub: 0  |  Test mentions: 33  |  Metrics: ✓
+Status: **complete**  |  Pages: 587–611  |  Implemented: 10 / 11  |  Tested: 11 (110%)  |  Stub: 0  |  Test mentions: 42  |  Metrics: ✓
 
 | Type | Wallace | Active | Tested | Examples |
 |------|---------|--------|--------|----------|
@@ -219,14 +219,14 @@ Status: **complete**  |  Pages: 587–611  |  Implemented: 11 / 11  |  Tested: 1
 | infinitive.subject | §34.B.1 (pp.600–601) | ✓ | ✓ | MAT 16:21 |
 | infinitive.indirect_discourse | §34.B.3 (pp.603–605) | ✓ | ✓ | MAT 16:13 |
 | infinitive.epexegetical | §34.B.4 (pp.606–607) | ✓ | ✓ | MAT 3:11 |
-| infinitive.articular | §34.B (pp.600–607, 構造標識) | ✓ | ✓ | PHP 1:21 |
+| infinitive.articular | §34.B (pp.600–607, 構造標識) | — | ✓ | PHP 1:21 |
 | infinitive.imperatival | §34.C (p.608) | ✓ | ✓ | ROM 12:15 |
 
 ---
 
 ## Participle
 
-Status: **complete**  |  Pages: 612–655  |  Implemented: 17 / 17  |  Tested: 17 (100%)  |  Stub: 0  |  Test mentions: 60  |  Metrics: ✓
+Status: **complete**  |  Pages: 612–655  |  Implemented: 17 / 17  |  Tested: 17 (100%)  |  Stub: 0  |  Test mentions: 102  |  Metrics: ✓
 
 | Type | Wallace | Active | Tested | Examples |
 |------|---------|--------|--------|----------|
@@ -252,7 +252,7 @@ Status: **complete**  |  Pages: 612–655  |  Implemented: 17 / 17  |  Tested: 1
 
 ## Verb (Mood)
 
-Status: **complete**  |  Pages: 443–493  |  Implemented: 48 / 48  |  Tested: 48 (100%)  |  Stub: 0  |  Test mentions: 110  |  Metrics: ✓
+Status: **complete**  |  Pages: 443–493  |  Implemented: 48 / 48  |  Tested: 48 (100%)  |  Stub: 0  |  Test mentions: 158  |  Metrics: ✓
 
 | Type | Wallace | Active | Tested | Examples |
 |------|---------|--------|--------|----------|
@@ -309,7 +309,7 @@ Status: **complete**  |  Pages: 443–493  |  Implemented: 48 / 48  |  Tested: 4
 
 ## Clause Syntax
 
-Status: **complete**  |  Pages: 656–712  |  Implemented: 12 / 12  |  Tested: 12 (100%)  |  Stub: 0  |  Test mentions: 49  |  Metrics: ✓
+Status: **complete**  |  Pages: 656–712  |  Implemented: 12 / 12  |  Tested: 12 (100%)  |  Stub: 0  |  Test mentions: 61  |  Metrics: ✓
 
 | Type | Wallace | Active | Tested | Examples |
 |------|---------|--------|--------|----------|
@@ -330,7 +330,7 @@ Status: **complete**  |  Pages: 656–712  |  Implemented: 12 / 12  |  Tested: 1
 
 ## Conjunction
 
-Status: **complete**  |  Pages: 666–678  |  Implemented: 12 / 12  |  Tested: 12 (100%)  |  Stub: 0  |  Test mentions: 52  |  Metrics: ✓
+Status: **complete**  |  Pages: 666–678  |  Implemented: 12 / 12  |  Tested: 12 (100%)  |  Stub: 0  |  Test mentions: 63  |  Metrics: ✓
 
 | Type | Wallace | Active | Tested | Examples |
 |------|---------|--------|--------|----------|
@@ -351,7 +351,7 @@ Status: **complete**  |  Pages: 666–678  |  Implemented: 12 / 12  |  Tested: 1
 
 ## Particle
 
-Status: **complete**  |  Pages: 465–469, 670–674  |  Implemented: 21 / 21  |  Tested: 21 (100%)  |  Stub: 0  |  Test mentions: 38  |  Metrics: ✓
+Status: **complete**  |  Pages: 465–469, 670–674  |  Implemented: 21 / 21  |  Tested: 21 (100%)  |  Stub: 0  |  Test mentions: 58  |  Metrics: ✓
 
 | Type | Wallace | Active | Tested | Examples |
 |------|---------|--------|--------|----------|
@@ -388,7 +388,7 @@ Discourse / Information Structure は Wallace が各章で個別に扱う語順�
 
 ## Nominal Syntax（Engine Extension）
 
-Status: **complete**  |  GGBB 関連箇所: 206–314 passim  |  Implemented: 12 / 12  |  Tested: 12 (100%)  |  Stub: 0  |  Test mentions: 23  |  Metrics: ✓
+Status: **complete**  |  GGBB 関連箇所: 206–314 passim  |  Implemented: 12 / 12  |  Tested: 12 (100%)  |  Stub: 0  |  Test mentions: 36  |  Metrics: ✓
 
 | Type | Wallace | Active | Tested | Examples |
 |------|---------|--------|--------|----------|
@@ -409,7 +409,7 @@ Status: **complete**  |  GGBB 関連箇所: 206–314 passim  |  Implemented: 12
 
 ## Discourse（Engine Extension）
 
-Status: **complete**  |  GGBB 関連箇所: 51–53, 526–532, 622–625 passim  |  Implemented: 10 / 10  |  Tested: 10 (100%)  |  Stub: 0  |  Test mentions: 22  |  Metrics: ✓
+Status: **complete**  |  GGBB 関連箇所: 51–53, 526–532, 622–625 passim  |  Implemented: 10 / 10  |  Tested: 10 (100%)  |  Stub: 0  |  Test mentions: 31  |  Metrics: ✓
 
 | Type | Wallace | Active | Tested | Examples |
 |------|---------|--------|--------|----------|
@@ -490,7 +490,7 @@ Status: **complete**  |  GGBB 関連箇所: 51–53, 526–532, 622–625 passim
 | Accusative | adverbial | MAT 26:45 | ✓ |
 | Article | monadic | MAT 5:14 | ✓ |
 | Article | generic | MAT 5:13 | ✓ |
-| Article | previous_reference | JHN 4:9 | ✓ |
+| Article | previous_reference | 1CO 10:4 | ✓ |
 | Article | par_excellence | JHN 1:21 | ✓ |
 | Article | simple_identification | MAT 2:14 | ✓ |
 | Article | well_known | JHN 7:38 | ✓ |
@@ -748,7 +748,7 @@ Status: **complete**  |  GGBB 関連箇所: 51–53, 526–532, 622–625 passim
 
 ## Corpus Metrics（book_summary.json より引用）
 
-- Representative Examples Verified: 220 / 242
+- Representative Examples Verified: 219 / 231
 - Analyzed tokens: 131923
 - Average confidence: 0.613
 - Unresolved (<0.40): 6151
