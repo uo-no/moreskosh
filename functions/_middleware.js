@@ -27,6 +27,8 @@ export async function onRequest(context) {
     const url = new URL(request.url);
     const m = url.pathname.match(/^\/(en|es|sv)(?=\/|$)/);
     if (!m) return next();
+    // 生成済みの静的ページ（語ページ・章ページ。#214）は実ファイルをそのまま返す（SPA の index に差し替えない）。
+    if (/^\/(en|es|sv)\/(word|book)\//.test(url.pathname)) return next();
     const lang = m[1];
     const cfg = LANGS[lang];
     // /{en,es,sv}/search と /{en,es,sv}/search/<クエリ>（正規）と /{en,es,sv}/search-tool(.html)（従来）のみ検索画面。他は従来どおり本体 index。
