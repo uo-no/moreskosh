@@ -17,6 +17,7 @@ IGSD の lemma 正本データ `public/assets/data/igsd/lemmas/*.json`（1ファ
 - ファイルの形式：1ファイルが複数の Strong 番号を束ねる場合は `strongs` 配列を持つ（例：`G3004.json` は λέγω で `strongs` が G3004・G2036・G2046）。`strongs` が無いファイルは `strong` 単独として扱い、index の `strongs` は `[strong]` になる。
 - 同時に `public/bible_data/nt/**/*.json` の各トークンを読み、`verseId` の実在確認と、`strong` ごとの全トークン集合の取得に使う（読むだけで、bible_data は変更しない）。
 - 語義の選択・補完は行わない。lemma ファイルに書かれた割り当てを集計・検証するだけ。
+- 語義の確定は Abbott-Smith と用例分析を基礎とし、判断の分かれる箇所では BDAG を参照して照合した。表示する語義ラベルと定義はすべて本プロジェクトの独自記述であり、BDAG の本文は含まない。
 
 ## 2. 実行方法
 

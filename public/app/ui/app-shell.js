@@ -1256,6 +1256,7 @@ function showAppInfo() {
                     <tr><th>旧約ギリシャ語本文</th><td>CATSS Morphological Septuagint (LXXM) — Septuaginta, ed. A. Rahlfs (1935)<br><small>CCAT, University of Pennsylvania（学習・教育目的で配布）</small></td></tr>
                     <tr><th>英語グロス</th><td>Cherith Glosses（Andi Wu）<br><small>© 2023 Cherith Analytics — CC BY 4.0</small></td></tr>
                     <tr><th>辞書データ</th><td>Abbott-Smith, <em>A Manual Greek Lexicon of the New Testament</em></td></tr>
+                    <tr><th>語義データ</th><td>Independent Greek Sense Database（IGSD）— 本プロジェクト独自の語義データベース<br><small>語義の確定は Abbott-Smith と用例分析を基礎とし、判断の分かれる箇所では BDAG を参照して照合した。表示する語義ラベルと定義はすべて本プロジェクト独自の記述であり、BDAG の本文は含まない。</small></td></tr>
                     <tr>
                       <th>構文分類体系</th>
                       <td>
