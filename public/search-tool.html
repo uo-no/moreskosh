@@ -4771,7 +4771,7 @@ document.addEventListener('click',ev=>{
 /* ── 逆引きタブ（#265）──
    意味（UI 言語の語）から「語（レンマ）の候補」を返し、NGSD の語義の切り分けを併記する。グロス検索（訳語→用例）とは別物。
    - 材料は assets/data/igsd/reverse-<UI言語>.json（#264）と、既存の index.json／lemmas の NGSD 自前のラベル・定義だけ。
-   - 照合順：①aliases ②見出しの完全一致（＋stemAliases の合流）④前方一致（①〜③で0件のときだけ）。定義文の部分一致検索はしない。
+   - 照合順：①aliases ②見出しの完全一致（＋stemAliases の合流）③wordAliases（EN・ES・SV の語単位キー）④前方一致（①〜③で0件のときだけ）。定義文の部分一致検索はしない。
    - 入力が UI 言語の索引に当たらない／ギリシャ文字／Strong 番号のときはタブを出さない（従来の検索は一切変えない）。
    - 検索のジャンル（_genreTab）には加わらない。形態ジャンルのときだけ出て、開いている間は検索結果を隠してこの面を出す。 */
 let _revActive=false;
@@ -4811,6 +4811,8 @@ function _revMatch(query,data,lang){
     const heads=new Set();
     if(hw.has(k))heads.add(hw.get(k));
     if(st.has(k))for(const h of st.get(k))if(data.headwords[h])heads.add(h);
+    /* #267：語単位キー（EN・ES・SV）。複数語見出しの構成語から見出しへ引く。ファイルに無い言語（JA）では段ごと飛ばす */
+    if(data.wordAliases&&Object.prototype.hasOwnProperty.call(data.wordAliases,k)){const wa=data.wordAliases[k];if(Array.isArray(wa))for(const h of wa)if(data.headwords[h])heads.add(h);}
     if(heads.size===0&&k.length>=(ci?2:1)){
         for(const [kk,h] of hw)if(kk.startsWith(k)){heads.add(h);if(heads.size>=20)break;}
     }

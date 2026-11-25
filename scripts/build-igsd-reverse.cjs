@@ -60,6 +60,28 @@ function parse(label, lang) {
 }
 const STEM = [["ぶ", "び"], ["む", "み"], ["れる", "れ"], ["う", "い"], ["く", "き"], ["す", "し"]];
 
+/* #267: 語単位キー（EN・ES・SV）。複数語見出しの各語（ストップワード除く）と、不定詞マーカー除去後のフレーズをキーにして見出しへ引く。
+   値の配列は headwords の出現順（キー昇順）で決定的。 */
+const STOP = {
+  en: "to of the a an in on for as by with from and or one who be is are was were have has do does it its out up down away off",
+  es: "de el la los las en a un una por con como al del y o que ser estar haber se su sus es son",
+  sv: "att av i en ett och för på till som med från om sig vara är bli blir det den de man",
+};
+const MARKER = { en: "to", sv: "att" };
+function buildWordAliases(headwords, lang) {
+  const stop = new Set(STOP[lang].split(" "));
+  const strip = (t) => t.replace(/^["«»„]+|["«»„]+$/g, "");
+  const map = new Map();
+  const add = (k, h) => { const a = map.get(k) || (map.set(k, []), map.get(k)); if (!a.includes(h)) a.push(h); };
+  for (const h of Object.keys(headwords)) {
+    if (!/\s/.test(h.trim())) continue; // 単一語見出しからは作らない
+    const toks = h.trim().split(/\s+/).map((t) => strip(t.toLowerCase()));
+    for (const t of toks) if (t.length >= 2 && !stop.has(t)) add(t, h);
+    if (MARKER[lang] && toks[0] === MARKER[lang] && toks.length > 2) add(toks.slice(1).join(" "), h);
+  }
+  return Object.fromEntries([...map.keys()].sort().map((k) => [k, map.get(k)]));
+}
+
 function build() {
   const idx = JSON.parse(fs.readFileSync(path.join(DIR, "index.json"), "utf8")).filter((x) => x.status === "final");
   const lemmas = {};
@@ -103,6 +125,7 @@ function build() {
     }
     const sortObj = (o) => Object.fromEntries(Object.keys(o).sort().map((k) => [k, o[k]]));
     result[lang] = { generated: date, scope: "final482", headwords: sorted, aliases, stemAliases: sortObj(stemAliases) };
+    if (lang !== "ja") result[lang].wordAliases = buildWordAliases(sorted, lang);
   }
   // 方式B 候補（JA のみ）
   for (const e of idx) for (const s of lemmas[e.strong].senses) {
