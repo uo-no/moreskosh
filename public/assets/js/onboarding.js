@@ -101,8 +101,75 @@
         flowHint: "Sentences connect and flow. In the original, conjunctions like “for” and “because” carry the conversation forward. Try tapping other connectors too."
     };
 
+    /* SV（スウェーデン語）。JA 原文を源とし EN を参照。キーは _OB_EN と同一 */
+    var _OB_SV = {
+        step1Title: "Det finns sammanhang i texten som är svåra att se i en översättning.",
+        step2Title: "Också här fanns ett ”därför att” dolt i grundtexten.",
+        gar_title: "γάρ (gár) anger ett skäl – det betyder ”ty” eller ”därför att”.",
+        flowTitle: "I Flow-läget kan du följa hur orden hänger ihop.",
+        joh_welcome: "Låt oss läsa Joh 3:16 i grundspråkets flöde.",
+        joh_another: "Här lyser ytterligare ett ord.",
+        joh_houtos: "”Så” (οὕτως) fortsätter framåt in i meningen.",
+        joh_compare: "Du kan också se hur översättningarna skiljer sig åt.",
+        joh_flow2: "Låt oss följa flödet i grundtextens ordföljd.",
+        joh_complete: "Sammanhangen du ser i dag blir fler för varje gång du läser.",
+        second_body: "Förra gången tryckte du på ett ord. I dag ska vi se flödet i ordföljden.",
+        flowBtn: "Se Flow →",
+        laterBtn: "Senare",
+        greek_q: "Har du studerat grekiska tidigare?",
+        how_q: "Hur läser du?",
+        tapWord: "Tryck på ett ord som du är nyfiken på.",
+        tapVerseMobile: "← Tryck på en vers i texten.",
+        tapVerseDesktop: "↖ Tryck på en vers för att se dess ord.",
+        tapVerseHint: "Tryck på en vers för att öppna ordlistan.",
+        disclaimer: "Detta är ett sätt att läsa.",
+        saveLater: "Spara till senare ＋",
+        saved: "Sparat ✓",
+        gotIt: "Fick du en känsla för att läsa på grundspråket?",
+        nextVerse: "Nästa vers →",
+        exploreFreely: "Utforska fritt",
+        otherChapters: "Du kan läsa andra kapitel på samma sätt.",
+
+        /* body strings */
+        body_tap_glow:   "Tryck på det markerade ordet.",
+        body_step3:      "I grundtexten håller ett litet ord meningen igång. Låt oss se det i nästa vers också.",
+        body_step4:      "Meningen bygger skäl på skäl. I grundtexten är det flödet lättare att följa.",
+        body_tap_glow2:  "Tryck på det markerade ordet igen.",
+        body_jhn_intro:  "Joh 3:16 läses på samma sätt.",
+        body_jhn_welcome:"En vers du känner kan se annorlunda ut.",
+        body_jhn_tap:    "Tryck på det.",
+        body_jhn_word:   "Det som blev älskat beskrivs sedan i det som följer.",
+        body_jhn_compare:"När du ser grundtexten blir det lättare att se vad varje översättning betonar.",
+        body_jhn_flow:   "Försök följa hur orden hänger ihop.",
+        body_level:      "Vi anpassar djupet i läsningen.",
+        body_purpose:    "Vi anpassar efter hur du använder appen.",
+
+        /* action button text */
+        nextVerseBtn:    "Nästa vers",
+        flowSeeBtn:      "Se ordens flöde →",
+        keepReadingBtn:  "Fortsätt läsa",
+        seeJohn316Btn:   "Se det i Joh 3:16",
+        openVerse316Btn: "Öppna Joh 3:16",
+        skipBtn:         "Inte nu",
+        compareBtn:      "Jämför översättningar",
+        readAsIsBtn:     "Fortsätt läsa",
+        seeFlowBtn:      "Se flödet",
+        gotItBtn:        "Uppfattat",
+
+        /* level / purpose choices */
+        levelBeginnerBtn:   "Första gången",
+        levelExpBtn:        "Lite erfarenhet",
+        purposePersonalBtn: "Läser på egen hand",
+        purposeSermonBtn:   "Gudstjänst / predikoförberedelse",
+        purposeStudyBtn:    "Lär mig grekiska",
+
+        /* flow hint */
+        flowHint: "Meningar hänger ihop och flyter. I grundtexten för konjunktioner som ”ty” och ”därför att” samtalet framåt. Prova att trycka på andra bindeord också."
+    };
+
     /* EN 用ヘルパー */
     function _obT(key, ja) {
+        if (window.I18N && I18N.lang === 'sv' && _OB_SV[key]) { return _OB_SV[key]; }
         return (window.I18N && I18N.contentLang === 'en' && _OB_EN[key]) ? _OB_EN[key] : ja;
     }
 

@@ -663,7 +663,7 @@ async function _buildSyntaxLabelHTML(words, targetRef) {
             let ctxBlock = '';
             if (m) {
                 const chapterTokens = await _fetchSyntaxChapterTokens(m[1], m[2]);
-                if (chapterTokens) ctxBlock = _syntaxContextBlockHTML(chapterTokens, targetRef, (window.I18N && I18N.lang === 'es' ? (topRaw.hint_es || '') : window.I18N && I18N.contentLang === 'en' ? (topRaw.hint_en || topRaw.hint_ja) : topRaw.hint_ja));
+                if (chapterTokens) ctxBlock = _syntaxContextBlockHTML(chapterTokens, targetRef, (window.I18N && I18N.lang === 'es' ? (topRaw.hint_es || '') : window.I18N && I18N.lang === 'sv' ? (topRaw.hint_sv || topRaw.hint_ja) : window.I18N && I18N.contentLang === 'en' ? (topRaw.hint_en || topRaw.hint_ja) : topRaw.hint_ja));
             }
             const _isEnNote = window.I18N && I18N.contentLang === 'en';
             const _isEsNote = window.I18N && I18N.lang === 'es';
@@ -708,7 +708,7 @@ async function _buildSyntaxLabelHTML(words, targetRef) {
             const chapterTokens = await _fetchSyntaxChapterTokens(m[1], m[2]);
             if (chapterTokens) {
                 for (const c of needy) {
-                    const block = _syntaxContextBlockHTML(chapterTokens, targetRef, (window.I18N && I18N.lang === 'es' ? (c.hint_es || '') : window.I18N && I18N.contentLang === 'en' ? (c.hint_en || c.hint_ja) : c.hint_ja));
+                    const block = _syntaxContextBlockHTML(chapterTokens, targetRef, (window.I18N && I18N.lang === 'es' ? (c.hint_es || '') : window.I18N && I18N.lang === 'sv' ? (c.hint_sv || c.hint_ja) : window.I18N && I18N.contentLang === 'en' ? (c.hint_en || c.hint_ja) : c.hint_ja));
                     if (block) ctxBlockById.set(c.id, block);
                 }
             }
