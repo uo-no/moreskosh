@@ -3369,6 +3369,45 @@ function searchForm(form){
     }
     return _formIndex.get(normalizeGreek(form))||[];
 }
+/* 活用形→レンマの解決（#233）。1語のギリシャ語クエリが、レンマではなく活用形のときだけ候補を返す。
+   形の索引（searchForm）の既存データだけで引く。レンマでもある語（lemmaIndex に在る）は従来どおりレンマ解釈を優先し null を返す。
+   返り値: null | {form, cands:[{lemma, n(その形の件数)}]}（n の多い順）。語義は選ばない（候補の列挙のみ）。 */
+function _resolveFormToLemma(word){
+    if(!word||!window.lemmaIndex)return null;
+    if(!/[\u0370-\u03FF\u1F00-\u1FFF]/.test(word)||/[A-Za-z0-9\u3040-\u30FF\u4E00-\u9FFF]/.test(word))return null;
+    if(window.lemmaIndex.has(normalizeGreek(word)))return null;
+    const idxs=searchForm(word);
+    if(!idxs.length)return null;
+    const by=new Map();
+    for(const gi of idxs){
+        const t=ALL_TOKENS[gi];if(!t||!t.lemma)continue;
+        const k=normalizeGreek(t.lemma);
+        let e=by.get(k);if(!e){e={lemma:t.lemma,n:0};by.set(k,e);}
+        e.n++;
+    }
+    if(!by.size)return null;
+    if(by.has(normalizeGreek(word)))return null;   /* 索引の構築途中でも、その語自身がレンマとして存在するなら従来のレンマ解釈 */
+    return{form:word,cands:[...by.values()].sort((a,b)=>b.n-a.n)};
+}
+let _formResolveCur=null;   /* 今回の検索で形→レンマ解決が効いたときだけ {form,lemma,n}。通常は null */
+function _clearFormChoices(){const el=document.getElementById('form-resolve-choices');if(el)el.remove();}
+function _showFormChoices(fr){
+    _showEmpty(_tf('search.formResolve.pickTitle','「{form}」は複数の語の活用形です',{form:fr.form}),_tf('search.formResolve.pickDesc','どの語として検索するか選んでください。'));
+    _clearFormChoices();
+    const es=document.getElementById('state-empty');if(!es)return;
+    const box=document.createElement('div');box.id='form-resolve-choices';box.className='did-you-mean';
+    fr.cands.forEach(c=>{
+        const chip=document.createElement('span');chip.className='dym-chip';chip.setAttribute('role','button');chip.tabIndex=0;
+        chip.appendChild(document.createTextNode(c.lemma));
+        const g=document.createElement('span');g.className='dym-gloss';
+        g.textContent='（'+_tf('search.formResolve.candCount','この形は{n}件',{n:c.n.toLocaleString()})+'）';chip.appendChild(g);
+        const go=()=>_exampleSearch(c.lemma);
+        chip.addEventListener('click',go);
+        chip.addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();go();}});
+        box.appendChild(chip);
+    });
+    es.appendChild(box);
+}
 function searchGreek(tokens,word){
     const normWord=normalizeGreek(word);
     if(IDX.ready){
@@ -5060,6 +5099,7 @@ async function unifiedSearch(opts){
     _updateSearchControls();
     /* 形モード（#77）：実効クエリ qEff は引用符を外した形。query（引用符つき）は表示・履歴・URL に使う */
     const _fm=(_genreTab==='morph')?_parseFormQuery(query):null;
+    _clearFormChoices();_formResolveCur=null;
     const qEff=_fm?_fm.form:query.replace(/["“”]/g,'').trim();
     if(!query||!qEff){document.getElementById('unified-search-input').focus();return;}
 
@@ -5101,7 +5141,7 @@ async function unifiedSearch(opts){
 
     // Parse words for phrase / proximity
     const words=qEff.split(/\s+/).filter(Boolean);
-    const word1=words[0];
+    let word1=words[0];
     const word2=words[1]||null;
     if(words.length>1&&_genreTab!=='rel'){ _genreTab='rel'; _renderGenreTabs(); }   /* #82・#202 */
     _relSingleCooc=(_genreTab==='rel'&&words.length===1);
@@ -5115,6 +5155,26 @@ async function unifiedSearch(opts){
     const _conceptMatch = conceptTerms ? _matchConcept(word1,_conceptEnOk) : null;
     _activeInsightConcept = _conceptMatch ? _conceptMatch.concept : null;
     _conceptViaEn = !!(_conceptMatch && _conceptMatch.via!=='ja');
+
+    /* 活用形→レンマ（#233）：1語・形モードでない・概念でない・Strong でないギリシャ語が、レンマではなく活用形のときだけ、入口で一度だけレンマへ解決する。
+       単一レンマ→そのレンマで以降（各タブ）を動かし案内行を出す／複数→候補を選ばせて終了。レンマでもある語・形モードは従来どおり。 */
+    if(words.length===1&&!_fm&&!conceptTerms&&detectQueryType(word1)!=='strong'){
+        await _ensureFullIndex();
+        const _fr=_resolveFormToLemma(word1);
+        if(_fr&&_fr.cands.length>1){
+            isSearching=false;
+            _addHistory(query,_activeLayerSet);
+            _lastQuery=query;
+            _formModeForm=null;
+            _showFormChoices(_fr);
+            syncURL();
+            return;
+        }
+        if(_fr){
+            _formResolveCur={form:_fr.form,lemma:_fr.cands[0].lemma,n:_fr.cands[0].n};
+            word1=words[0]=_fr.cands[0].lemma;
+        }
+    }
 
     // --- Merged result map: globalIdx → {tok, hitTypes, proxHit?} ---
     const merged=new Map();
@@ -5316,6 +5376,8 @@ async function unifiedSearch(opts){
     _allMergedResults = merged;
     _renderFilterBar();
 
+    /* #233：解決後のレンマ結果のうち、入力した形そのものの用例に「語形」バッジを付ける（どれがその形かが分かる） */
+    if(_formResolveCur){ for(const gi of searchForm(_formResolveCur.form)){ const e=merged.get(gi); if(e)e.hitTypes.add('form'); } }
     isSearching=false;
     _addHistory(query,_activeLayerSet);
     _lastQuery=query;
@@ -5453,6 +5515,19 @@ function _renderUnifiedResults(query,words,word2){
         _sn.style.cssText='flex-basis:100%;width:100%;margin-top:4px;';
         _sn.textContent=_tf('search.strongNote','Strong 番号で数えた件数です。語そのもの（レンマ）の検索とは数え方が違うため、件数が異なることがあります。');
         document.getElementById('result-header').appendChild(_sn);
+      } }
+    /* 形→レンマ解決（#233）：案内行（「X は Y の活用形です（この形は N 件）」）と、その形だけに絞る導線（形モードへ） */
+    { const _oldFr=document.getElementById('form-resolve-note');if(_oldFr)_oldFr.remove();
+      const _fr=_formResolveCur;
+      if(_fr&&!_formModeForm){
+        const _fn=document.createElement('div');_fn.id='form-resolve-note';_fn.className='result-count-sub';
+        _fn.style.cssText='flex-basis:100%;width:100%;margin-top:4px;';
+        _fn.appendChild(document.createTextNode(_tf('search.formResolve.note','{form} は {lemma} の活用形です（この形は{n}件）。',{form:_fr.form,lemma:_fr.lemma,n:_fr.n.toLocaleString()})+' '));
+        const a=document.createElement('button');a.type='button';a.className='form-more-link';
+        a.textContent=_tf('search.formResolve.only','この形だけに絞る ›');
+        a.addEventListener('click',()=>{ _genreTab='morph'; _renderGenreTabs(); _exampleSearch('"'+_fr.form+'"'); });
+        _fn.appendChild(a);
+        document.getElementById('result-header').appendChild(_fn);
       } }
     /* 形モード（#77）：形そのものの検索である旨と、レンマの全形へ広げる導線（通常のレンマ検索に移る） */
     { const _oldFm=document.getElementById('form-note');if(_oldFm)_oldFm.remove();
