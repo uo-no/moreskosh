@@ -1,0 +1,234 @@
+{
+ "strong": "G1016",
+ "lemma": "βοῦς",
+ "nt_freq": 8,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 9:9",
+   "form": "βοῦν",
+   "morph": "N-ASM",
+   "gloss_en": "ox",
+   "gloss_ja": "牛",
+   "verse": "ἐν γὰρ τῷ Μωϋσέως νόμῳ γέγραπται· Οὐ κημώσεις βοῦν ἀλοῶντα. μὴ τῶν βοῶν μέλει τῷ θεῷ,"
+  },
+  {
+   "ref": "1CO 9:9",
+   "form": "βοῶν",
+   "morph": "N-GPM",
+   "gloss_en": "oxen",
+   "gloss_ja": "牛",
+   "verse": "ἐν γὰρ τῷ Μωϋσέως νόμῳ γέγραπται· Οὐ κημώσεις βοῦν ἀλοῶντα. μὴ τῶν βοῶν μέλει τῷ θεῷ,"
+  },
+  {
+   "ref": "1TI 5:18",
+   "form": "Βοῦν",
+   "morph": "N-ASM",
+   "gloss_en": "ox",
+   "gloss_ja": "牛",
+   "verse": "λέγει γὰρ ἡ γραφή· Βοῦν ἀλοῶντα οὐ φιμώσεις, καί· Ἄξιος ὁ ἐργάτης τοῦ μισθοῦ αὐτοῦ."
+  },
+  {
+   "ref": "JHN 2:14",
+   "form": "βόας",
+   "morph": "N-APM",
+   "gloss_en": "oxen",
+   "gloss_ja": "牛",
+   "verse": "καὶ εὗρεν ἐν τῷ ἱερῷ τοὺς πωλοῦντας βόας καὶ πρόβατα καὶ περιστερὰς καὶ τοὺς κερματιστὰς καθημένους,"
+  },
+  {
+   "ref": "JHN 2:15",
+   "form": "βόας",
+   "morph": "N-APM",
+   "gloss_en": "oxen",
+   "gloss_ja": "牛",
+   "verse": "καὶ ποιήσας φραγέλλιον ἐκ σχοινίων πάντας ἐξέβαλεν ἐκ τοῦ ἱεροῦ τά τε πρόβατα καὶ τοὺς βόας, καὶ τῶν κολλυβιστῶν ἐξέχεεν τὰ κέρματα καὶ τὰς τραπέζας ἀνέστρεψεν,"
+  },
+  {
+   "ref": "LUK 13:15",
+   "form": "βοῦν",
+   "morph": "N-ASM",
+   "gloss_en": "ox",
+   "gloss_ja": "牛",
+   "verse": "ἀπεκρίθη δὲ αὐτῷ ὁ κύριος καὶ εἶπεν· Ὑποκριταί, ἕκαστος ὑμῶν τῷ σαββάτῳ οὐ λύει τὸν βοῦν αὐτοῦ ἢ τὸν ὄνον ἀπὸ τῆς φάτνης καὶ ἀπαγαγὼν ποτίζει;"
+  },
+  {
+   "ref": "LUK 14:5",
+   "form": "βοῦς",
+   "morph": "N-NSM",
+   "gloss_en": "ox",
+   "gloss_ja": "牛",
+   "verse": "καὶ πρὸς αὐτοὺς εἶπεν· Τίνος ὑμῶν υἱὸς ἢ βοῦς εἰς φρέαρ πεσεῖται, καὶ οὐκ εὐθέως ἀνασπάσει αὐτὸν ἐν ἡμέρᾳ τοῦ σαββάτου;"
+  },
+  {
+   "ref": "LUK 14:19",
+   "form": "βοῶν",
+   "morph": "N-GPM",
+   "gloss_en": "oxen",
+   "gloss_ja": "牛",
+   "verse": "καὶ ἕτερος εἶπεν· Ζεύγη βοῶν ἠγόρασα πέντε καὶ πορεύομαι δοκιμάσαι αὐτά· ἐρωτῶ σε, ἔχε με παρῃτημένον."
+  }
+ ],
+ "lxx": {
+  "total": 181,
+  "works": {
+   "Genesis": 25,
+   "Exodus": 11,
+   "Leviticus": 9,
+   "Numeri": 35,
+   "Deuteronomium": 18,
+   "Judices": 1,
+   "Regnorum i": 11,
+   "Regnorum ii": 4,
+   "Regnorum iii": 14,
+   "Regnorum iv": 2,
+   "Paralipomenon i sive Chronicon i": 2,
+   "Paralipomenon ii sive Chronicon ii": 2,
+   "Esdras ii": 2,
+   "Judith": 1,
+   "Tobias": 2,
+   "Machabaeorum ii": 1,
+   "Psalmi": 4,
+   "Odae": 2,
+   "Proverbia": 3,
+   "Job": 7,
+   "Ecclesiasticus sive Siracides": 1,
+   "Joel": 1,
+   "Jonas": 1,
+   "Habacuc": 1,
+   "Isaias": 9,
+   "Ezechiel": 5,
+   "Daniel": 7
+  },
+  "representatives": [
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "11.22",
+    "form": "βόες",
+    "postag": "n-p---cn-",
+    "sentence": "μὴ πρόβατα καὶ βόες σφαγήσονται αὐτοῖς, καὶ ἀρκέσει αὐτοῖς;"
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "46.32",
+    "form": "βόας",
+    "postag": "n-p---ca-",
+    "sentence": "καὶ τὰ κτήνη καὶ τοὺς βόας καὶ πάντα τὰ αὐτῶν ἀγηόχασιν."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "15.19",
+    "form": "βουσί",
+    "postag": "n-p---cd-",
+    "sentence": "πᾶν πρωτότοκον, ὃ ἐὰν τεχθῇ ἐν ταῖς βουσί σου καὶ ἐν τοῖς προβάτοις σου, τὰ ἀρσενικά, ἁγιάσεις Κυρίῳ τῷ Θεῷ σου ·"
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "19.21",
+    "form": "βοῶν",
+    "postag": "n-p---cg-",
+    "sentence": "καὶ ἀνέστρεψεν ἐξόπισθεν αὐτοῦ καὶ ἔλαβε τὰ ζεύγη τῶν βοῶν καὶ ἔθυσε καὶ ἥψησεν αὐτὰ ἐν τοῖς σκεύεσι τῶν βοῶν καὶ ἔδωκε τῷ λαῷ, καὶ ἔφαγον ·"
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "23.4",
+    "form": "βοΐ",
+    "postag": "n-s---cd-",
+    "sentence": "ἐὰν δὲ συναντήσῃς τῷ βοΐ τοῦ ἐχθροῦ σου ἢ τῷ ὑποζυγίῳ αὐτοῦ πλανωμένοις, ἀποστρέψας ἀποδώσεις αὐτῷ."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "11.7",
+    "form": "βουσὶν",
+    "postag": "n-p---cd-",
+    "sentence": "ὃς οὐκ ἔστιν ἐκπορευόμενος ὀπίσω Σαοὺλ καὶ ὀπίσω Σαμουήλ, κατὰ τάδε ποιήσουσι τοῖς βουσὶν αὐτοῦ."
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "7.23",
+    "form": "βοῶν",
+    "postag": "n-p---cg-",
+    "sentence": "πᾶν στέαρ βοῶν, καὶ προβάτων, καὶ αἰγῶν οὐκ ἔδεσθε."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "32.20",
+    "form": "βοῦς",
+    "postag": "n-s---cn-",
+    "sentence": "μακάριοι οἱ σπείροντες ἐπὶ πᾶν ὕδωρ, οὗ βοῦς καὶ ὄνος πατεῖ."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "24.3",
+    "form": "βοῦν",
+    "postag": "n-s---ca-",
+    "sentence": "ὑποζύγιον ὀρφανῶν ἀπήγαγον καὶ βοῦν χήρας ἠνεχύρασαν."
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "4.33a",
+    "form": "βοῦν",
+    "postag": "n-s---ca-",
+    "sentence": "χόρτον ὡς βοῦν ἐψώμισάν με, καὶ ἀπὸ τῆς χλόης τῆς γῆς ἤσθιον."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "45.18",
+    "form": "βοῶν",
+    "postag": "n-p---cg-",
+    "sentence": "ἐν τῷ πρώτῳ μηνὶ μιᾷ τοῦ μηνὸς λήψεσθε μόσχον ἐκ βοῶν ἄμωμον τοῦ ἐξιλάσασθαι τὸ ἅγιον."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "24.24",
+    "form": "βόας",
+    "postag": "n-p---ca-",
+    "sentence": "καὶ ἐκτήσατο Δαυὶδ τὸν ἅλωνα καὶ τοὺς βόας ἐν ἀργυρίῳ σίκλων πεντήκοντα."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Didache": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DID",
+    "work_ja": "ディダケー",
+    "work_src": "Didache",
+    "ref": "13.3",
+    "form": "βοῶν",
+    "postag": "n-p---cg-",
+    "sentence": "πᾶσαν οὖν ἀπαρχὴν γεννημάτων ληνοῦ καὶ ἅλωνος, βοῶν τε καὶ προβάτων λαβὼν δώσεις τὴν ἀπαρχὴν τοῖς προφήταις ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "8   βοῦς, βοός, ὁ, ἡ,     [in LXX chiefly for בָּקָר;]    an ox, a cow: Lk 13:15  14:5,  19 Jo 2:14,  15 I Co 9:9 (LXX), I Ti 5:18.†"
+}
