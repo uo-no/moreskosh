@@ -555,7 +555,7 @@ async function _openEtymPopup(lexemeId) {
                 : enUi ? (entry?.gloss || '') : (entry?.gloss_ja || '');
     let   desc  = entry?.abbottSmith || '';
     const digits = lexemeId ? lexemeId.replace(/^grc:G/i, '') : '';
-    if (enUi || esUi) {
+    if (enUi || esUi || svUi) {
         /* 非日本語UI: 本文は Abbott-Smith 原文（description_en） */
         if (digits) {
             if (!abbottSmithDict) await loadDict();
@@ -622,10 +622,12 @@ async function _openRefPopup(book, ch, verse, href) {
         if (t.class)  rows.push(`<div class="rn-ref-word-row"><dt>${_T('morph.pos', '品詞')}</dt><dd>${_escH((t.class === 'noun' && t.type === 'proper') ? _T('morph.properNoun', '固有名詞') : (_refForm().pos[t.class] || t.class))}</dd></div>`);
         rows.push(`<div class="rn-ref-word-row"><dt>${_T('ref.form', '形')}</dt><dd><span class="rn-ref-gr">${_escH(t.text || '')}</span>${formJa ? '（' + _escH(formJa) + '）' : ''}</dd></div>`);
         /* #155: 非日本語UIの出典なし語は、日本語（EN）/ 空（ES）ではなくギリシャ語形（#103 と同じ規則） */
-        const _meanGloss = _glossSidecarFor(t) || ((typeof _uiShortGloss === 'function' ? _uiShortGloss(t.lemmaId) : null)) || _noSourceGreekMeaning(t) || ((window.I18N && I18N.lang === 'es') ? '' : t.japanese);
+        const _meanGloss = _glossSidecarFor(t) || ((typeof _uiShortGloss === 'function' ? _uiShortGloss(t.lemmaId) : null)) || _noSourceGreekMeaning(t) || ((window.I18N && (I18N.lang === 'es' || I18N.lang === 'sv')) ? '' : t.japanese);
         if (_meanGloss) rows.push(`<div class="rn-ref-word-row"><dt>${_T('ref.meaning', '意味')}</dt><dd>${_escH(_meanGloss)}</dd></div>`);
         wordHtml = `<div class="rn-ref-word-label">${_T('ref.wordInContext', 'この箇所での単語の説明')}</div><dl class="rn-ref-word-rows">${rows.join('')}</dl>`
-            + (hits.length > 1 ? ((window.I18N && I18N.lang === 'es')
+            + (hits.length > 1 ? ((window.I18N && I18N.lang === 'sv')
+                ? `<div class="rn-ref-note">Den här versen innehåller samma ord ${hits.length - 1} gång${hits.length - 1 === 1 ? '' : 'er'} till (markerat).</div>`
+                : (window.I18N && I18N.lang === 'es')
                 ? `<div class="rn-ref-note">Este versículo contiene la misma palabra ${hits.length - 1} ${hits.length - 1 === 1 ? 'vez' : 'veces'} más (resaltada).</div>`
                 : (window.I18N && I18N.contentLang === 'en')
                 ? `<div class="rn-ref-note">This verse contains the same word ${hits.length - 1} more time(s) (highlighted).</div>`

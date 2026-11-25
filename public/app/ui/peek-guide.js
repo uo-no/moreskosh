@@ -662,7 +662,9 @@ function _fgGuideStart(chip) {
     const hint = document.createElement('div');
     hint.className = 'fg-guide-hint';
     hint.id = 'fg-guide-hint';
-    hint.textContent = (window.I18N && I18N.lang === 'es')
+    hint.textContent = (window.I18N && I18N.lang === 'sv')
+        ? 'Tryck på ett ord för att utforska det.'
+        : (window.I18N && I18N.lang === 'es')
         ? 'Toca cualquier palabra para explorarla.'
         : (window.I18N && I18N.contentLang === 'en')
         ? 'Tap any word to explore it.'

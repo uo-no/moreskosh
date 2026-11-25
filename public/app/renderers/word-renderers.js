@@ -26,6 +26,50 @@ let _verseResolveCache = null;   // { words, resolved }
 
 /* 経路6: Flow chip signal labels — JA / EN pair tables
    キーは形態素コード／ギリシア語テキスト（内部ID）。label は表示専用。 */
+const _VERB_MOOD_SIG_SV = {
+    M: { label: 'uppmanar till handling', cls: 'sig-exhort' },
+    P: { label: 'målar upp scenen',       cls: 'sig-logic'  },
+    N: { label: 'pekar mot syftet',       cls: 'sig-logic'  },
+    S: { label: 'uttrycker ett önskemål', cls: 'sig-logic'  },
+};
+const _VERB_VOI_SIG_SV = {
+    P: { label: 'på den mottagande sidan',     cls: 'sig-word' },
+    M: { label: 'handlar med fullt engagemang', cls: 'sig-word' },
+    D: { label: 'handlar med fullt engagemang', cls: 'sig-word' },
+};
+const _NOUN_CASE_SIG_SV = {
+    N: { label: 'i centrum',                 cls: 'sig-logic' },
+    G: { label: 'i samband med',             cls: 'sig-logic' },
+    D: { label: 'tar emot förbindelsen',     cls: 'sig-logic' },
+    A: { label: 'handlingens mål',           cls: 'sig-logic' },
+    V: { label: 'blir tilltalad',            cls: 'sig-logic' },
+};
+const _NOUN_NUM_SIG_SV = { P: { label: 'omtalad i plural', cls: 'sig-logic' } };
+const _ADJ_CASE_SIG_SV = {
+    N: { label: 'beskriver en egenskap',            cls: 'sig-logic' },
+    G: { label: 'knyter an en kännetecknande egenskap', cls: 'sig-logic' },
+    D: { label: 'ger färg åt det den hör till',     cls: 'sig-logic' },
+    A: { label: 'talar om den som beskrivs',        cls: 'sig-logic' },
+};
+const _CONJ_SIG_SV = {
+    'γάρ':  { label: 'ty – ett skäl följer',                  cls: 'sig-logic'    },
+    'ἀλλά': { label: 'men – riktningen skiftar',              cls: 'sig-turn'     },
+    'οὖν':  { label: 'alltså – på väg mot en slutsats',       cls: 'sig-logic'    },
+    'δέ':   { label: 'och / nu – berättelsen går vidare',     cls: 'sig-turn'     },
+    'καί':  { label: 'och – lägger till det som kom förut',   cls: 'sig-emphasis' },
+    'ἵνα':  { label: 'för att – ett syfte införs',            cls: 'sig-logic'    },
+    'ὅτι':  { label: 'att – innehållet fortsätter',           cls: 'sig-logic'    },
+    'εἰ':   { label: 'om – in i en villkorlig tanke',         cls: 'sig-logic'    },
+    'ὥστε': { label: 'så att – en följd kommer',              cls: 'sig-logic'    },
+};
+const _CONJ_SIG_FB_SV = { label: 'förbinder det som kom förut med det som följer', cls: 'sig-logic' };
+const _PREP_SIG_SV = { label: 'visar förbindelsens riktning', cls: 'sig-logic' };
+const _PRON_CASE_SIG_SV = {
+    N: { label: 'pekar på vem som är i blickfånget',     cls: 'sig-logic' },
+    G: { label: 'pekar på vems sak det gäller',          cls: 'sig-logic' },
+    D: { label: 'pekar på vem som tar emot förbindelsen', cls: 'sig-logic' },
+    A: { label: 'pekar på vem handlingen når',           cls: 'sig-logic' },
+};
 const _VERB_MOOD_SIG_JA = {
     M: { label: '強く勧めている',   cls: 'sig-exhort' },
     P: { label: '背景を描いている', cls: 'sig-logic'  },
@@ -284,6 +328,7 @@ function _wordToFlowChip(w, i, _bookKey, _ch, _resolved, _words) {
     const dpGrammarClasses = buildDepthGrammarClasses(rawMorph).join(' ');
     const _isEn = typeof window !== 'undefined' && window.I18N && I18N.contentLang === 'en';
     const _isEs = typeof window !== 'undefined' && window.I18N && I18N.lang === 'es';
+    const _isSv = typeof window !== 'undefined' && window.I18N && I18N.lang === 'sv';
 
     let roleClass = 'role-other';
     const signals = [];
@@ -296,56 +341,59 @@ function _wordToFlowChip(w, i, _bookKey, _ch, _resolved, _words) {
         const voiCode  = (parts[1] || '')[off + 1] || '';
 
         /* 法（Mood）シグナル */
-        const _moodSig = (_isEn ? _VERB_MOOD_SIG_EN : _isEs ? _VERB_MOOD_SIG_ES : _VERB_MOOD_SIG_JA)[moodCode];
+        const _moodSig = (_isSv ? _VERB_MOOD_SIG_SV : _isEn ? _VERB_MOOD_SIG_EN : _isEs ? _VERB_MOOD_SIG_ES : _VERB_MOOD_SIG_JA)[moodCode];
         if (_moodSig) signals.push(_moodSig);
 
         /* 時制シグナル（複合条件のため if/else を保持） */
         if (tenCode === 'R')
-            signals.push(_isEn ? { label: 'still in effect',           cls: 'sig-promise' }
+            signals.push(_isSv ? { label: 'gäller fortfarande', cls: 'sig-promise' }
+                                : _isEn ? { label: 'still in effect',           cls: 'sig-promise' }
                                 : _isEs ? { label: 'todavía en efecto',  cls: 'sig-promise' }
                                 : { label: '今も続いている',              cls: 'sig-promise' });
         else if (tenCode === 'A' && moodCode === 'I')
-            signals.push(_isEn ? { label: 'stated as a completed event', cls: 'sig-declare' }
+            signals.push(_isSv ? { label: 'framställs som en avslutad händelse', cls: 'sig-declare' }
+                                : _isEn ? { label: 'stated as a completed event', cls: 'sig-declare' }
                                 : _isEs ? { label: 'presentado como un acontecimiento concluido', cls: 'sig-declare' }
                                 : { label: '一つの出来事として語っている',  cls: 'sig-declare' });
         else if (tenCode === 'F' && moodCode === 'I')
-            signals.push(_isEn ? { label: 'declared as certain',        cls: 'sig-promise' }
+            signals.push(_isSv ? { label: 'förklaras som säkert', cls: 'sig-promise' }
+                                : _isEn ? { label: 'declared as certain',        cls: 'sig-promise' }
                                 : _isEs ? { label: 'declarado como seguro', cls: 'sig-promise' }
                                 : { label: '確かに起きると語っている',     cls: 'sig-promise' });
 
         /* 態シグナル */
-        const _voiSig = (_isEn ? _VERB_VOI_SIG_EN : _isEs ? _VERB_VOI_SIG_ES : _VERB_VOI_SIG_JA)[voiCode];
+        const _voiSig = (_isSv ? _VERB_VOI_SIG_SV : _isEn ? _VERB_VOI_SIG_EN : _isEs ? _VERB_VOI_SIG_ES : _VERB_VOI_SIG_JA)[voiCode];
         if (_voiSig) signals.push(_voiSig);
     }
     else if (pos === 'N')    {
         roleClass = 'role-noun';
         const caseParts = parts[1] || '';
         const base = ['1','2','3'].includes(caseParts[0]) ? caseParts.slice(1) : caseParts;
-        const cs = (_isEn ? _NOUN_CASE_SIG_EN : _isEs ? _NOUN_CASE_SIG_ES : _NOUN_CASE_SIG_JA)[base[0]];
+        const cs = (_isSv ? _NOUN_CASE_SIG_SV : _isEn ? _NOUN_CASE_SIG_EN : _isEs ? _NOUN_CASE_SIG_ES : _NOUN_CASE_SIG_JA)[base[0]];
         if (cs) signals.push(cs);
-        const ns = (_isEn ? _NOUN_NUM_SIG_EN : _isEs ? _NOUN_NUM_SIG_ES : _NOUN_NUM_SIG_JA)[base[1]];
+        const ns = (_isSv ? _NOUN_NUM_SIG_SV : _isEn ? _NOUN_NUM_SIG_EN : _isEs ? _NOUN_NUM_SIG_ES : _NOUN_NUM_SIG_JA)[base[1]];
         if (ns) signals.push(ns);
     }
     else if (pos === 'A')    {
         roleClass = 'role-adj';
         const caseParts = parts[1] || '';
         const base = ['1','2','3'].includes(caseParts[0]) ? caseParts.slice(1) : caseParts;
-        const cs = (_isEn ? _ADJ_CASE_SIG_EN : _isEs ? _ADJ_CASE_SIG_ES : _ADJ_CASE_SIG_JA)[base[0]];
+        const cs = (_isSv ? _ADJ_CASE_SIG_SV : _isEn ? _ADJ_CASE_SIG_EN : _isEs ? _ADJ_CASE_SIG_ES : _ADJ_CASE_SIG_JA)[base[0]];
         if (cs) signals.push(cs);
     }
     else if (pos === 'CONJ') {
         roleClass = 'role-conj';
-        const _conjSig = (_isEn ? _CONJ_SIG_EN : _isEs ? _CONJ_SIG_ES : _CONJ_SIG_JA)[w.text];
+        const _conjSig = (_isSv ? _CONJ_SIG_SV : _isEn ? _CONJ_SIG_EN : _isEs ? _CONJ_SIG_ES : _CONJ_SIG_JA)[w.text];
         if (_conjSig) signals.push(_conjSig);
-        else signals.push(_isEn ? _CONJ_SIG_FB_EN : _isEs ? _CONJ_SIG_FB_ES : _CONJ_SIG_FB_JA);
+        else signals.push(_isSv ? _CONJ_SIG_FB_SV : _isEn ? _CONJ_SIG_FB_EN : _isEs ? _CONJ_SIG_FB_ES : _CONJ_SIG_FB_JA);
     }
-    else if (pos === 'PREP') { roleClass = 'role-prep'; signals.push(_isEn ? _PREP_SIG_EN : _isEs ? _PREP_SIG_ES : _PREP_SIG_JA); }
+    else if (pos === 'PREP') { roleClass = 'role-prep'; signals.push(_isSv ? _PREP_SIG_SV : _isEn ? _PREP_SIG_EN : _isEs ? _PREP_SIG_ES : _PREP_SIG_JA); }
     else if (pos === 'T')    { roleClass = 'role-art'; /* 冠詞はsignalなし。静かに */ }
     else if (['P','R','D'].includes(pos)) {
         roleClass = 'role-pron';
         const caseParts = parts[1] || '';
         const base = ['1','2','3'].includes(caseParts[0]) ? caseParts.slice(1) : caseParts;
-        const cs = (_isEn ? _PRON_CASE_SIG_EN : _isEs ? _PRON_CASE_SIG_ES : _PRON_CASE_SIG_JA)[base[0]];
+        const cs = (_isSv ? _PRON_CASE_SIG_SV : _isEn ? _PRON_CASE_SIG_EN : _isEs ? _PRON_CASE_SIG_ES : _PRON_CASE_SIG_JA)[base[0]];
         if (cs) signals.push(cs);
     }
 

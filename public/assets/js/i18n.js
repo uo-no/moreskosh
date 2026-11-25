@@ -23,10 +23,10 @@
     var SUPPORTED = ['ja', 'en', 'es', 'sv'];
 
     /* 内容言語（#115）：UI 言語とは別に「内容データ（グロス・辞書本文・IGSD 定義・形態ラベル等）を
-       どの言語で出すか」を表す。スウェーデン語 UI は内容データが未整備の「軽い段」のため、
-       内容は英語にフォールバックし、日本語には落とさない。ja／en／es は恒等。
-       内容データがスウェーデン語化された項目から、呼び出し側の分岐を個別に外していく。 */
-    var CONTENT_LANG = { sv: 'en' };
+       どの言語で出すか」を表す。ja／en／es／sv はいずれも恒等（SV も #235・#236 で全面対応済み。
+       他言語への無言フォールバックは完成形としない）。将来、内容だけ別言語に寄せる UI 言語が
+       出た場合のみ、ここに対応を足す。 */
+    var CONTENT_LANG = {};
 
     /* UI 言語ごとの基準訳（既定の本文翻訳）。SV は暫定で WEB。Karl XII:s bibel（1873）の
        取り込み（#116）後は、ここを差し替えるだけで切り替わる（翻訳ID・書名等の整備は別項目）。 */
@@ -213,7 +213,7 @@
             return fetch(new URL('../assets/i18n/' + l + '.json', document.baseURI))
                 .then(function (res) { return res.ok ? res.json() : null; });
         };
-        /* 内容言語が別言語（sv→en）の場合は、その辞書も保険として並行して読む。取れなくても無視 */
+        /* 内容言語が別言語の場合（現在は無し）は、その辞書も保険として並行して読む。取れなくても無視 */
         var _fbLang = CONTENT_LANG[lang];
         var _fbP = _fbLang ? _fetchDict(_fbLang).catch(function () { return null; }) : Promise.resolve(null);
         ready = Promise.all([_fetchDict(lang), _fbP])

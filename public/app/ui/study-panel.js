@@ -423,6 +423,7 @@ async function _translationEvidenceText(ref) {
         if (!ref) return null;
         const _isEn = typeof window !== 'undefined' && window.I18N && I18N.contentLang === 'en';
         const _isEs = typeof window !== 'undefined' && window.I18N && I18N.lang === 'es';
+        const _isSv = typeof window !== 'undefined' && window.I18N && I18N.lang === 'sv';
         const data = await _loadRenderingVariants();
         if (!data) return null;
         const fam = data.family;
@@ -434,7 +435,9 @@ async function _translationEvidenceText(ref) {
                 if (r.substring(0, r.indexOf(':')) === chKey && fam.refs[r] !== mine) others.add(fam.refs[r]);
             }
             if (others.size === 1) {
-                return _isEs
+                return _isSv
+                    ? `Det här ordet återges också som ”${[...others][0]}” på andra ställen i det här kapitlet. Här återges det som ”${mine}”.`
+                    : _isEs
                     ? `Esta palabra también se traduce como "${[...others][0]}" en otra parte de este capítulo. Aquí se traduce como "${mine}".`
                     : _isEn
                     ? `This word is also rendered as "${[...others][0]}" elsewhere in this chapter. Here it is rendered as "${mine}".`
@@ -444,7 +447,9 @@ async function _translationEvidenceText(ref) {
         }
         const bal = data.balanced && data.balanced[ref];
         if (bal) {
-            return _isEs
+            return _isSv
+                ? `Det här ordet återges också som ”${bal.o}” i andra textställen. Här återges det som ”${bal.r}”.`
+                : _isEs
                 ? `Esta palabra también se traduce como "${bal.o}" en otros pasajes. Aquí se traduce como "${bal.r}".`
                 : _isEn
                 ? `This word is also rendered as "${bal.o}" in other passages. Here it is rendered as "${bal.r}".`
@@ -454,7 +459,9 @@ async function _translationEvidenceText(ref) {
         if (min) {
             const grp = (data.groups || []).find(g => g.id === min.g);
             if (grp) {
-                return _isEs
+                return _isSv
+                    ? `I Karl XII:s bibel återges det här ordet vanligtvis som ”${grp.majority}”. Här återges det som ”${min.r}”.`
+                    : _isEs
                     ? `En la Reina-Valera 1909, esta palabra suele traducirse como "${grp.majority}". Aquí se traduce como "${min.r}".`
                     : _isEn
                     ? `In the World English Bible, this word is usually rendered as "${grp.majority}". Here it is rendered as "${min.r}".`
@@ -477,7 +484,9 @@ function _repetitionEvidenceText(words, idx) {
         if (n < 2) return null;
         const ntCount = (_lexiconData && _lexiconData[lemmaId]) ? (_lexiconData[lemmaId].count || 0) : 0;
         if (n < (ntCount > 200 ? 3 : 2)) return null;
-        return (typeof window !== 'undefined' && window.I18N && I18N.lang === 'es')
+        return (typeof window !== 'undefined' && window.I18N && I18N.lang === 'sv')
+            ? `Det här ordet förekommer upprepade gånger i den här versen (${n} gånger).`
+            : (typeof window !== 'undefined' && window.I18N && I18N.lang === 'es')
             ? `Esta palabra aparece repetidamente en este versículo (${n} veces).`
             : (typeof window !== 'undefined' && window.I18N && I18N.contentLang === 'en')
             ? `This word appears repeatedly in this verse (${n} times).`
@@ -554,6 +563,7 @@ function _syntaxContextBlockHTML(chapterTokens, targetRef, hintJa) {
 function _syntaxPairBlockHTML(rawIdSet) {
     const _isEn = typeof window !== 'undefined' && window.I18N && I18N.contentLang === 'en';
     const _isEs = typeof window !== 'undefined' && window.I18N && I18N.lang === 'es';
+    const _isSv = typeof window !== 'undefined' && window.I18N && I18N.lang === 'sv';
     const PAIRS = [
         {
             a: 'verb.imperative_constative', b: 'verb.imperative_ingressive',
@@ -566,6 +576,9 @@ function _syntaxPairBlockHTML(rawIdSet) {
             judge: '行為が一回で完結する事柄か、これから始めて続く事柄かは、前後の文脈と行為の性質から判断します。',
             judge_en: 'Whether the act is something completed in a single action, or something to begin and continue, is judged from the surrounding context and the nature of the act.',
             judge_es: 'Si el acto es algo que se completa en una sola acción, o algo que se comienza y continúa, se juzga por el contexto que lo rodea y por la naturaleza del acto.',
+            body_sv: '<p>Den <strong>konstaterande imperativen</strong> befaller att en handling ska utföras som helhet, medan den <strong>ingressiva imperativen</strong> befaller att en handling ska påbörjas. Båda har samma aoristimperativform; skillnaden syns inte i formen.</p>',
+            fact_sv: 'Detta ord analyseras som aoristimperativ.',
+            judge_sv: 'Om handlingen är något som avslutas i en enda handling, eller något som ska påbörjas och fortsätta, bedöms utifrån det omgivande sammanhanget och handlingens art.',
         },
         {
             a: 'verb.present_customary', b: 'verb.present_iterative',
@@ -578,6 +591,9 @@ function _syntaxPairBlockHTML(rawIdSet) {
             judge: '繰り返しが規則的・恒常的か、その都度のものかは、時間を示す副詞や場面の文脈で判断します。',
             judge_en: 'Whether the repetition is regular and constant, or a matter of each occasion, is judged from adverbs of time and the context of the scene.',
             judge_es: 'Si la repetición es regular y constante, o algo de cada ocasión, se juzga por los adverbios de tiempo y el contexto de la escena.',
+            body_sv: '<p><strong>Vanemässigt presens</strong> uttrycker en persons vanliga sätt att vara eller en regelbunden vana, medan <strong>iterativt presens</strong> uttrycker upprepningen av enskilda handlingar. Båda har samma presensform.</p>',
+            fact_sv: 'Detta ord analyseras som presens indikativ.',
+            judge_sv: 'Om upprepningen är regelbunden och ständig, eller beror på varje enskilt tillfälle, bedöms utifrån tidsadverb och scenens sammanhang.',
         },
         {
             a: 'verb.imperfect_customary', b: 'verb.imperfect_iterative',
@@ -590,11 +606,16 @@ function _syntaxPairBlockHTML(rawIdSet) {
             judge: '過去の繰り返しが規則的だったか、その都度のものだったかは、時間を示す副詞や場面の文脈で判断します。',
             judge_en: 'Whether the past repetition was regular or a matter of each occasion is judged from adverbs of time and the context of the scene.',
             judge_es: 'Si la repetición pasada era regular o algo de cada ocasión, se juzga por los adverbios de tiempo y el contexto de la escena.',
+            body_sv: '<p><strong>Vanemässigt imperfekt</strong> uttrycker ett vanligt tillstånd eller en regelbunden vana i det förflutna, medan <strong>iterativt imperfekt</strong> uttrycker upprepningen av enskilda handlingar i det förflutna. Båda har samma imperfektform.</p>',
+            fact_sv: 'Detta ord analyseras som imperfekt indikativ.',
+            judge_sv: 'Om upprepningen i det förflutna var regelbunden eller berodde på varje enskilt tillfälle, bedöms utifrån tidsadverb och scenens sammanhang.',
         },
     ];
     for (const p of PAIRS) {
         if (rawIdSet.has(p.a) && rawIdSet.has(p.b)) {
-            return _isEs
+            return _isSv
+                ? `<div class="rn-syntax-comparison"><div class="rn-syntax-comparison-title">Att skilja läsningarna åt</div>${p.body_sv}<div class="rn-syntax-evidence"><div class="rn-syntax-evidence-label">Underlag</div><div class="rn-syntax-evidence-body"><p><strong>Vad som kan bekräftas i texten: </strong>${p.fact_sv}</p><p><strong>Vad som kan sägas utifrån detta: </strong>${p.judge_sv}</p></div></div></div>`
+                : _isEs
                 ? `<div class="rn-syntax-comparison"><div class="rn-syntax-comparison-title">Cómo distinguir las lecturas</div>${p.body_es}<div class="rn-syntax-evidence"><div class="rn-syntax-evidence-label">Base</div><div class="rn-syntax-evidence-body"><p><strong>Lo que puede confirmarse en el texto: </strong>${p.fact_es}</p><p><strong>Lo que puede decirse a partir de esto: </strong>${p.judge_es}</p></div></div></div>`
                 : _isEn
                 ? `<div class="rn-syntax-comparison"><div class="rn-syntax-comparison-title">Telling the readings apart</div>${p.body_en}<div class="rn-syntax-evidence"><div class="rn-syntax-evidence-label">Basis</div><div class="rn-syntax-evidence-body"><p><strong>What can be confirmed from the text: </strong>${p.fact_en}</p><p><strong>What can be said from this: </strong>${p.judge_en}</p></div></div></div>`
@@ -667,13 +688,18 @@ async function _buildSyntaxLabelHTML(words, targetRef) {
             }
             const _isEnNote = window.I18N && I18N.contentLang === 'en';
             const _isEsNote = window.I18N && I18N.lang === 'es';
+            const _isSvNote = window.I18N && I18N.lang === 'sv';
             const note = (topRaw.id === 'infinitive.means' && rawIdSet.has('infinitive.time'))
-                ? (_isEsNote
+                ? (_isSvNote
+                    ? 'Konstruktionen ἐν τῷ + infinitiv är en vars läsning – ”tid” eller ”medel” – avgörs av sammanhanget.'
+                    : _isEsNote
                     ? 'La construcción ἐν τῷ + infinitivo es una cuyo sentido — «tiempo» o «medio» — se decide por el contexto.'
                     : _isEnNote
                     ? 'The ἐν τῷ + infinitive construction is one whose reading — "time" or "means" — is decided by context.'
                     : 'ἐν τῷ＋不定詞は、「時」か「手段」かを文脈で判断する用法です。')
-                : (_isEsNote
+                : (_isSvNote
+                    ? `Den här användningen avgörs av sammanhanget (kandidat: ${_escH((typeof _syntaxSvFor === 'function' && _syntaxSvFor(topRaw.id) && _syntaxSvFor(topRaw.id).label) || topRaw.label_ja)}).`
+                    : _isEsNote
                     ? `Este uso se decide por el contexto (candidato: ${_escH(topRaw.label_es || '')}).`
                     : _isEnNote
                     ? `This usage is decided by context (candidate: ${_escH(topRaw.label_en || topRaw.label_ja)}).`
@@ -769,6 +795,7 @@ async function _buildSyntaxLabelHTML(words, targetRef) {
     let comparisonHTML = '';
     const _isEnCmp = typeof window !== 'undefined' && window.I18N && I18N.contentLang === 'en';
     const _isEsCmp = typeof window !== 'undefined' && window.I18N && I18N.lang === 'es';
+    const _isSvCmp = typeof window !== 'undefined' && window.I18N && I18N.lang === 'sv';
     if (
         targetLemma === 'οἶκος' &&
         /(?:JHN|John)[\s._:-]*2[\s._:-]*17(?:[\s._:!-]|$)/i.test(refText) &&
@@ -783,6 +810,16 @@ async function _buildSyntaxLabelHTML(words, targetRef) {
             <div class="rn-syntax-evidence"><div class="rn-syntax-evidence-label">Base</div><div class="rn-syntax-evidence-body">
                     <p><strong>Lo que puede confirmarse en el texto: </strong>La frase en genitivo <span lang="el">τοῦ οἴκου σου</span> sigue a <span lang="el">ζῆλος</span>, que expresa celo.</p>
                     <p><strong>Lo que puede decirse a partir de esto: </strong>Lo que está en cuestión es la relación entre un sustantivo que expresa una acción o un sentimiento y la frase en genitivo. Pero la pista de que existe tal sustantivo es común a ambos candidatos, así que por sí sola no puede decidir si la casa es el lado hacia el que se dirige el celo o el lado que muestra el celo.</p>
+                </div>
+            </div>
+        </div>`
+        : _isSvCmp
+        ? `<div class="rn-syntax-comparison">
+            <div class="rn-syntax-comparison-title">Att skilja läsningarna åt</div>
+            <p>Om det är en <strong>objektiv genitiv</strong> är betydelsen ”nitälskan för huset” – huset är det som nitet riktas mot. Om det är en <strong>subjektiv genitiv</strong> är betydelsen ”det nit som huset visar” – huset är den sida som visar nitet.</p>
+            <div class="rn-syntax-evidence"><div class="rn-syntax-evidence-label">Underlag</div><div class="rn-syntax-evidence-body">
+                    <p><strong>Vad som kan bekräftas i texten: </strong>Genitivfrasen <span lang="el">τοῦ οἴκου σου</span> följer på <span lang="el">ζῆλος</span>, som uttrycker nit.</p>
+                    <p><strong>Vad som kan sägas utifrån detta: </strong>Det som är frågan är förhållandet mellan ett substantiv som uttrycker en handling eller en känsla och genitivfrasen. Ledtråden att ett sådant substantiv finns är dock gemensam för båda kandidaterna, så den ensam kan inte avgöra om huset är den sida som nitet riktas mot eller den sida som visar nitet.</p>
                 </div>
             </div>
         </div>`
@@ -823,6 +860,16 @@ async function _buildSyntaxLabelHTML(words, targetRef) {
                 </div>
             </div>
         </div>`
+        : _isSvCmp
+        ? `<div class="rn-syntax-comparison">
+            <div class="rn-syntax-comparison-title">Att skilja läsningarna åt</div>
+            <p>Med en <strong>subjektiv genitiv</strong> är det ”den kärlek med vilken Kristus älskar oss”; med en <strong>objektiv genitiv</strong> är det ”kärlek riktad mot Kristus”. Skillnaden är om Kristus är den som älskar eller den till vilken kärleken riktas.</p>
+            <div class="rn-syntax-evidence"><div class="rn-syntax-evidence-label">Underlag</div><div class="rn-syntax-evidence-body">
+                    <p><strong>Vad som kan bekräftas i texten: </strong><span lang="el">τοῦ Χριστοῦ</span> är en genitiv som följer på <span lang="el">τῆς ἀγάπης</span>.</p>
+                    <p><strong>Vad som kan sägas utifrån detta: </strong>Den grammatiska formen ensam avgör inte om Kristus är subjektet som älskar eller föremålet för kärleken. Det omgivande sammanhanget och betydelsen hos uttrycket ”Kristi kärlek” som helhet måste vägas samman. Analysens poäng uttrycker inte sannolikheter.</p>
+                </div>
+            </div>
+        </div>`
         : _isEnCmp
         ? `<div class="rn-syntax-comparison">
             <div class="rn-syntax-comparison-title">Telling the readings apart</div>
@@ -858,6 +905,15 @@ async function _buildSyntaxLabelHTML(words, targetRef) {
                 </div>
             </div>
         </div>`
+        : _isSvCmp
+        ? `<div class="rn-syntax-comparison">
+            <div class="rn-syntax-comparison-title">Att skilja läsningarna åt</div>
+            <p class="rn-syntax-comparison-difference"><strong>Skillnad: </strong>en strukturell skillnad – om en annan substantivfras är inbäddad i substantivfrasen (en nästlad struktur, som Apollonius-mönstret artikel–substantiv–artikel–genitivsubstantiv) eller om en bestämning helt enkelt är fäst vid huvudsubstantivet.</p>
+            <div class="rn-syntax-evidence"><div class="rn-syntax-evidence-label">Underlag</div><div class="rn-syntax-evidence-body">
+                    <p>Dessa två är kandidater som förklarar substantivfrasens struktur. Vilken som är lämplig bedöms genom att se inte bara på det aktuella ordet utan på ordningen och grupperingen av omgivande artiklar, substantiv och bestämningar. Strukturen avgörs inte av kandidaternas ordning eller poäng ensam.</p>
+                </div>
+            </div>
+        </div>`
         : _isEnCmp
         ? `<div class="rn-syntax-comparison">
             <div class="rn-syntax-comparison-title">Telling the readings apart</div>
@@ -889,6 +945,18 @@ async function _buildSyntaxLabelHTML(words, targetRef) {
             <p class="rn-syntax-comparison-difference"><strong>Diferencia: </strong>una diferencia de significado: si el genitivo expresa «el lado que actúa», «una relación de posesión o pertenencia» o «lo que recibe la acción».</p>
             <div class="rn-syntax-evidence"><div class="rn-syntax-evidence-label">Base</div><div class="rn-syntax-evidence-body">
                     <p>La forma del genitivo por sí sola no puede distinguir los tres usos. El significado del sustantivo principal, su relación con el genitivo y el contexto se sopesan juntos. Las puntuaciones de los candidatos no expresan probabilidades.</p>
+                </div>
+            </div>
+        </div>`
+        : _isSvCmp
+        ? `<div class="rn-syntax-comparison">
+            <div class="rn-syntax-comparison-title">Att skilja läsningarna åt</div>
+            <p><strong>Subjektiv genitiv:</strong> genitiven uttrycker den sida som utför handlingen. Om handlingssubstantivet byts mot ett verb motsvarar genitiven dess subjekt.</p>
+            <p><strong>Possessiv genitiv:</strong> genitiven uttrycker ett förhållande av ägande, tillhörighet eller hänförande till huvudsubstantivet. Den kan ibland återges med ”av”.</p>
+            <p><strong>Objektiv genitiv:</strong> genitiven uttrycker det som handlingen riktas mot. Om handlingssubstantivet byts mot ett verb motsvarar genitiven dess objekt.</p>
+            <p class="rn-syntax-comparison-difference"><strong>Skillnad: </strong>en skillnad i betydelse – om genitiven uttrycker ”den sida som handlar”, ”ett förhållande av ägande eller tillhörighet” eller ”det som tar emot handlingen”.</p>
+            <div class="rn-syntax-evidence"><div class="rn-syntax-evidence-label">Underlag</div><div class="rn-syntax-evidence-body">
+                    <p>Genitivformen ensam kan inte skilja de tre användningarna åt. Huvudsubstantivets betydelse, dess förhållande till genitiven och sammanhanget vägs samman. Kandidaternas poäng uttrycker inte sannolikheter.</p>
                 </div>
             </div>
         </div>`
@@ -928,6 +996,15 @@ async function _buildSyntaxLabelHTML(words, targetRef) {
                 </div>
             </div>
         </div>`
+        : _isSvCmp
+        ? `<div class="rn-syntax-comparison">
+            <div class="rn-syntax-comparison-title">Att skilja läsningarna åt</div>
+            <p class="rn-syntax-comparison-difference"><strong>Skillnad: </strong>antalet bestämningar som är fästa vid huvudsubstantivet. Om det finns flera bestämningar hör det till ”substantivfras med flera bestämningar”; om det bara finns en, till ”substantivfras med bestämning” (en fras med flera bestämningar är en sorts substantivfras med bestämning).</p>
+            <div class="rn-syntax-evidence"><div class="rn-syntax-evidence-label">Underlag</div><div class="rn-syntax-evidence-body">
+                    <p>Kontrollera hur många bestämningar – adjektiv, genitiv, particip, prepositionsfraser och liknande – som är fästa runt detta ord. Det avgörs inte av kandidaternas ordning eller poäng ensam.</p>
+                </div>
+            </div>
+        </div>`
         : _isEnCmp
         ? `<div class="rn-syntax-comparison">
             <div class="rn-syntax-comparison-title">Telling the readings apart</div>
@@ -959,6 +1036,16 @@ async function _buildSyntaxLabelHTML(words, targetRef) {
             <div class="rn-syntax-evidence"><div class="rn-syntax-evidence-label">Base</div><div class="rn-syntax-evidence-body">
                     <p><strong>Lo que puede confirmarse en el texto: </strong>La forma —la preposición <span lang="el">ἐν</span> y el artículo <span lang="el">τῷ</span> seguidos de un infinitivo— es exactamente la misma para el tiempo y para el medio.</p>
                     <p><strong>Lo que puede decirse a partir de esto: </strong>La forma por sí sola no puede decidirlo; el significado del verbo principal y el flujo de la oración se sopesan juntos. La lectura de medio es poco frecuente, y la lectura de tiempo es cercana a la lectura por defecto.</p>
+                </div>
+            </div>
+        </div>`
+        : _isSvCmp
+        ? `<div class="rn-syntax-comparison">
+            <div class="rn-syntax-comparison-title">Att skilja läsningarna åt</div>
+            <p class="rn-syntax-comparison-difference"><strong>Skillnad: </strong>en skillnad i betydelseförhållande – om <span lang="el">ἐν τῷ</span> + infinitiv uttrycker ”tiden”, samtidig med huvudsatsens händelse, eller ”medlet”, ”genom att göra …”.</p>
+            <div class="rn-syntax-evidence"><div class="rn-syntax-evidence-label">Underlag</div><div class="rn-syntax-evidence-body">
+                    <p><strong>Vad som kan bekräftas i texten: </strong>Formen – prepositionen <span lang="el">ἐν</span> och artikeln <span lang="el">τῷ</span> följda av en infinitiv – är exakt densamma för tid och för medel.</p>
+                    <p><strong>Vad som kan sägas utifrån detta: </strong>Formen ensam kan inte avgöra det; huvudverbets betydelse och meningens flöde vägs samman. Läsningen som medel är ovanlig, och läsningen som tid ligger nära standardläsningen.</p>
                 </div>
             </div>
         </div>`
@@ -999,6 +1086,16 @@ async function _buildSyntaxLabelHTML(words, targetRef) {
                 </div>
             </div>
         </div>`
+        : _isSvCmp
+        ? `<div class="rn-syntax-comparison">
+            <div class="rn-syntax-comparison-title">Att skilja läsningarna åt</div>
+            <p class="rn-syntax-comparison-difference"><strong>Skillnad: </strong>en skillnad i bisatsens roll – om <span lang="el">ὅτι</span>-satsen uttrycker ”innehållet” i ett yttrande, en tanke eller en insikt (”att …”) eller ”skälet” till huvudsatsens händelse (”därför att …”).</p>
+            <div class="rn-syntax-evidence"><div class="rn-syntax-evidence-label">Underlag</div><div class="rn-syntax-evidence-body">
+                    <p><strong>Vad som kan bekräftas i texten: </strong>En ledtråd för innehållsläsningen är om ett verb för att säga, tänka, veta eller liknande står före <span lang="el">ὅτι</span>.</p>
+                    <p><strong>Vad som kan sägas utifrån detta: </strong>Skälsläsningen har ingen fast formell markör och bedöms utifrån betydelsesambandet med huvudsatsen. Eftersom formen är densamma kan båda läsningarna gälla, beroende på sammanhanget.</p>
+                </div>
+            </div>
+        </div>`
         : _isEnCmp
         ? `<div class="rn-syntax-comparison">
             <div class="rn-syntax-comparison-title">Telling the readings apart</div>
@@ -1029,6 +1126,15 @@ async function _buildSyntaxLabelHTML(words, targetRef) {
             <p class="rn-syntax-comparison-difference"><strong>Diferencia: </strong>una cláusula con <span lang="el">ἵνα</span> puede expresar no solo el propósito, «para que…», sino también el contenido de un deseo, una orden o una petición, «que…».</p>
             <div class="rn-syntax-evidence"><div class="rn-syntax-evidence-label">Base</div><div class="rn-syntax-evidence-body">
                     <p><strong>Lo que puede decirse a partir de esto: </strong>La forma —<span lang="el">ἵνα</span> con el subjuntivo— por sí sola no decide entre el propósito y el contenido; el significado del verbo que introduce la cláusula y el contexto se sopesan juntos.</p>
+                </div>
+            </div>
+        </div>`
+        : _isSvCmp
+        ? `<div class="rn-syntax-comparison">
+            <div class="rn-syntax-comparison-title">Att skilja läsningarna åt</div>
+            <p class="rn-syntax-comparison-difference"><strong>Skillnad: </strong>en <span lang="el">ἵνα</span>-sats kan uttrycka inte bara syfte, ”för att …”, utan också innehållet i ett önskemål, en befallning eller en begäran, ”att … ska …”.</p>
+            <div class="rn-syntax-evidence"><div class="rn-syntax-evidence-label">Underlag</div><div class="rn-syntax-evidence-body">
+                    <p><strong>Vad som kan sägas utifrån detta: </strong>Formen – <span lang="el">ἵνα</span> med konjunktiv – avgör ensam inte mellan syfte och innehåll; betydelsen hos verbet som inleder satsen och sammanhanget vägs samman.</p>
                 </div>
             </div>
         </div>`
@@ -1274,7 +1380,7 @@ async function _renderReadingNotes(p) {
        createReferentEvidence()/_resolveReferentEvidenceText() をそのまま利用する。 */
     const _reText = _resolveReferentEvidenceText(AppState.inspect.data?.referentEvidence);
     const referentEvidenceHTML = _reText
-        ? `<div class="rn-referent-evidence" style="margin-top:var(--space-md);padding-top:var(--space-sm);font-size:var(--text-caption);color:var(--text-sub);">${(window.I18N && I18N.lang === 'es') ? `Esta palabra se refiere a "${_escH(_reText)}".` : (window.I18N && I18N.contentLang === 'en') ? `This word refers to "${_escH(_reText)}".` : `この語は「${_escH(_reText)}」を指しています。`}</div>`
+        ? `<div class="rn-referent-evidence" style="margin-top:var(--space-md);padding-top:var(--space-sm);font-size:var(--text-caption);color:var(--text-sub);">${(window.I18N && I18N.lang === 'sv') ? `Det här ordet syftar på ”${_escH(_reText)}”.` : (window.I18N && I18N.lang === 'es') ? `Esta palabra se refiere a "${_escH(_reText)}".` : (window.I18N && I18N.contentLang === 'en') ? `This word refers to "${_escH(_reText)}".` : `この語は「${_escH(_reText)}」を指しています。`}</div>`
         : '';
 
     /* Phase ESM-39: Subjref Evidence を Referent Evidence の直後へ統合
@@ -2062,6 +2168,30 @@ const _OBSERVATION_SENTENCES_EN = {
     'particle.particle_an':               q => `"${q}" adds a note of contingency — a sense that things could have gone otherwise.`,
     'particle.rhetorical_particle':       q => `"${q}" signals a strong denial — the expected answer is "no."`,
 }
+const _OBSERVATION_SENTENCES_SV = {
+    'clause.purpose_hina':                q => `Från ”${q}” börjar syftet – ”för att”-riktningen i det som följer.`,
+    'conjunction.subordinating_purpose':  q => `Från ”${q}” börjar syftet – ”för att”-riktningen i det som följer.`,
+    'clause.substantival_hoti':           q => `Från ”${q}” utvecklas innehållet i det som sades.`,
+    'conjunction.subordinating_content':  q => `Från ”${q}” utvecklas innehållet i det som sades.`,
+    'clause.causal_hoti':                 q => `Från ”${q}” anges skälet bakom det.`,
+    'clause.result_hoste':                q => `Från ”${q}” anges följden.`,
+    'conjunction.subordinating_result':   q => `Från ”${q}” anges följden.`,
+    'clause.conditional_third_class':     q => `Från ”${q}” införs ett ”om”-villkor.`,
+    'conjunction.subordinating_conditional': q => `Från ”${q}” införs ett ”om”-villkor.`,
+    'clause.temporal_hotan':              q => `Från ”${q}” läggs tidpunkten för händelserna fram.`,
+    'clause.temporal_hote':               q => `Från ”${q}” läggs tidpunkten för händelserna fram.`,
+    'conjunction.subordinating_temporal': q => `Från ”${q}” läggs tidpunkten för händelserna fram.`,
+    'clause.comparative_kathos':          q => `Från ”${q}” börjar en jämförelse – något likställs med något annat.`,
+    'conjunction.subordinating_comparative': q => `Från ”${q}” börjar en jämförelse – något likställs med något annat.`,
+    'conjunction.coordinating_explanatory': q => `”${q}” börjar förklara skälet till det som kom förut.`,
+    'particle.explanatory_gar':           q => `”${q}” börjar förklara skälet till det som kom förut.`,
+    'conjunction.coordinating_inferential': q => `”${q}” tar upp det som kom förut och för det mot en slutsats.`,
+    'particle.inferential_oun':           q => `”${q}” tar upp det som kom förut och för det mot en slutsats.`,
+    'conjunction.coordinating_adversative': q => `Med ”${q}” skiftar tankens riktning.`,
+    'conjunction.coordinating_transition': q => `Med ”${q}” går berättelsen framåt.`,
+    'particle.particle_an':               q => `”${q}” tillför en antydan om det möjliga – en känsla av att det kunde ha blivit annorlunda.`,
+    'particle.rhetorical_particle':       q => `”${q}” signalerar ett kraftigt förnekande – det väntade svaret är ”nej”.`,
+}
 const _OBSERVATION_SENTENCES_ES = {
     'clause.purpose_hina':                q => `Desde «${q}», comienza el propósito — la dirección de «para que» de lo que sigue.`,
     'conjunction.subordinating_purpose':  q => `Desde «${q}», comienza el propósito — la dirección de «para que» de lo que sigue.`,
@@ -2159,6 +2289,35 @@ const _WORD_ROLE_TEXT_EN = {
     conditional_counterfactual:() => 'This "if" introduces a condition that did not actually come true — a "what if it had been otherwise" kind of statement.',
     conditional_assumed_true:  () => 'This "if" does not express doubt — it treats the condition as though it were true.',
 }
+const _WORD_ROLE_TEXT_SV = {
+    negative_emphasis: (token) => {
+        const lm = (token && token.lemma) || '';
+        if (['οὐ', 'οὐκ', 'οὐχ'].includes(lm)) {
+            return 'Det här ordet betyder vanligen ”inte”, men här förenas det med en annan negation (μή) som följer, och tillsammans bildar de det starkast möjliga förnekandet: ”absolut inte”.';
+        }
+        if (lm === 'μή') {
+            return 'Tillsammans med negationen som föregår (οὐ) förstärker det här ordet förnekandet till ”absolut inte” – starkare än någon av negationerna ensam.';
+        }
+        return 'Det här ordet negeras av en dubbel negation (οὐ μή), den starkaste form av förnekande som finns: ”kommer absolut inte att”.';
+    },
+    men_de_contrast: (token) => {
+        const lm = (token && token.lemma) || '';
+        if (lm === 'μέν') return 'Det här ordet öppnar den första hälften av en kontrast – ”å ena sidan”. Det ser fram mot sitt par (δέ), som fullbordar den andra hälften.';
+        if (lm === 'δέ')  return 'Det här ordet tar upp den andra hälften av en kontrast – ”å andra sidan”. Det svarar på den första hälften som μέν inledde tidigare.';
+        return 'Det här ordet ingår i en kontrast (μέν…δέ) som ställer två saker sida vid sida – ”å ena sidan … å andra sidan”.';
+    },
+    parenthesis: (token) => {
+        const lm = (token && token.lemma) || '';
+        if (lm === 'εἰμί') return 'Det här ordet signalerar ett omformulerande – ”det vill säga” – och inleder en förklaring som förs in i flödet.';
+        if (['λέγω', 'φημί', 'οἶμαι'].includes(lm)) {
+            return 'Det här ordet signalerar att talaren kort kliver ut ur huvudtråden för att lägga till något.';
+        }
+        return 'Från det här ordet förs en förklarande anmärkning in mitt i huvudtanken.';
+    },
+    nominative_pendens:        () => 'Det här ordet är meningens tema.',
+    conditional_counterfactual:() => 'Detta ”om” inför ett villkor som inte faktiskt uppfylldes – ett uttalande av typen ”tänk om det hade varit annorlunda”.',
+    conditional_assumed_true:  () => 'Detta ”om” uttrycker inget tvivel – det behandlar villkoret som om det vore sant.',
+};
 const _WORD_ROLE_TEXT_ES = {
     negative_emphasis: (token) => {
         const lm = (token && token.lemma) || '';
@@ -2213,8 +2372,9 @@ async function _buildObservationHTML(words, idx, existingTexts) {
     };
     const _isEnOb    = window.I18N && I18N.contentLang === 'en';
     const _isEsOb    = window.I18N && I18N.lang === 'es';
-    const _obRoleTable = _isEsOb ? _WORD_ROLE_TEXT_ES : _isEnOb ? _WORD_ROLE_TEXT_EN : _WORD_ROLE_TEXT;
-    const _obSentTable = _isEsOb ? _OBSERVATION_SENTENCES_ES : _isEnOb ? _OBSERVATION_SENTENCES_EN : _OBSERVATION_SENTENCES;
+    const _isSvOb    = window.I18N && I18N.lang === 'sv';
+    const _obRoleTable = _isSvOb ? _WORD_ROLE_TEXT_SV : _isEsOb ? _WORD_ROLE_TEXT_ES : _isEnOb ? _WORD_ROLE_TEXT_EN : _WORD_ROLE_TEXT;
+    const _obSentTable = _isSvOb ? _OBSERVATION_SENTENCES_SV : _isEsOb ? _OBSERVATION_SENTENCES_ES : _isEnOb ? _OBSERVATION_SENTENCES_EN : _OBSERVATION_SENTENCES;
     let make = null;
     let evidenceLine = null;
     for (const cat of ['clause', 'particle', 'conjunction', 'verb', 'infinitive', 'discourse', 'nominative']) {
@@ -2290,7 +2450,7 @@ const _OBSERVATION_BRACKET_QUOTES = [
 ];
 function _naturalizeObservationText(html) {
     if (!html) return html;
-    const replacement = (window.I18N && I18N.lang === 'es') ? 'esta palabra' : (window.I18N && I18N.contentLang === 'en') ? 'this word' : '語';
+    const replacement = (window.I18N && I18N.lang === 'sv') ? 'det här ordet' : (window.I18N && I18N.lang === 'es') ? 'esta palabra' : (window.I18N && I18N.contentLang === 'en') ? 'this word' : '語';
     let out = html;
     for (const q of _OBSERVATION_BRACKET_QUOTES) {
         out = out.split(q).join(replacement);
@@ -2358,6 +2518,22 @@ const _VERSE_NOTE_TEXT_EN = {
     nominative_pendens:
         'Here, the topic is introduced first, then picked up again as the sentence continues.',
 }
+const _VERSE_NOTE_TEXT_SV = {
+    negative_emphasis:
+        'Här sätts två negationer (οὐ μή) tillsammans för att göra ett starkt påstående: detta kommer absolut inte att hända.',
+    conditional_counterfactual:
+        'Här framställs villkoret som något som inte faktiskt hände – ett uttalande av typen ”tänk om det hade varit annorlunda”.',
+    conditional_assumed_true:
+        'Här behandlas ”om”-villkoret som något sant, och meningen fortsätter utifrån det.',
+    men_de_contrast:
+        'Här ställs två saker sida vid sida i kontrast (μέν…δέ).',
+    emphasis_word_order:
+        'Här lyfter ordföljden fram ett visst ord.',
+    parenthesis:
+        'Här förs en kort förklarande anmärkning in mitt i huvudtanken.',
+    nominative_pendens:
+        'Här införs temat först och tas sedan upp igen när meningen fortsätter.',
+}
 const _VERSE_NOTE_TEXT_ES = {
     negative_emphasis:
         'Aquí, dos negaciones (οὐ μή) se colocan juntas para hacer una afirmación fuerte: esto de ningún modo sucederá.',
@@ -2394,7 +2570,7 @@ function _collectVerseNoteSentences(proj, policy) {
     if (!proj || !Array.isArray(proj.words) || !policy) return [];
     const rule      = policy.rules?.passage_note || {};
     const minConf   = policy.rules?.min_confidence ?? 0.40;
-    const textTable = (window.I18N && I18N.lang === 'es') ? _VERSE_NOTE_TEXT_ES : (window.I18N && I18N.contentLang === 'en') ? _VERSE_NOTE_TEXT_EN : _VERSE_NOTE_TEXT;
+    const textTable = (window.I18N && I18N.lang === 'sv') ? _VERSE_NOTE_TEXT_SV : (window.I18N && I18N.lang === 'es') ? _VERSE_NOTE_TEXT_ES : (window.I18N && I18N.contentLang === 'en') ? _VERSE_NOTE_TEXT_EN : _VERSE_NOTE_TEXT;
     const lines = [];
     for (const w of proj.words) {
         if (!w || !w.categories) continue;

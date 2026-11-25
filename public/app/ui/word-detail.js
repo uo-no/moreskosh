@@ -403,6 +403,17 @@ const _APPARATUS_TAG_LABELS_EN = {
     '語彙差':   'A different word is used',
 };
 
+const _APPARATUS_TAG_LABELS_SV = {
+    '語順差':   'Ordföljden skiljer sig åt',
+    '添加':     'Den ena texten har ord som den andra saknar',
+    '省略':     'Den ena texten utelämnar ord som finns i den andra',
+    '読み差':   'En annan lydelse används',
+    '形態差':   'Ordformen skiljer sig åt',
+    '表記差':   'Stavningen skiljer sig åt',
+    '節構造差': 'Satsen är uppbyggd på ett annat sätt',
+    '語彙差':   'Ett annat ord används',
+};
+
 const _APPARATUS_TAG_LABELS_ES = {
     '語順差':   'El orden de las palabras difiere',
     '添加':     'Un texto incluye palabras que el otro no tiene',
@@ -445,8 +456,9 @@ function _buildApparatusHTML(entries, jaEntries, lemJaEntries, rdgJaEntries) {
         const noteText = ja && (ja.ja || ja.en || ja.es);
         const isConfirmed = ja && ja.status === '確認済み' && ja.tag && noteText;
         const isAuto      = ja && ja.status === '自動生成' && ja.tag && noteText;
-        const tagLabel = (tag) => _escH(((window.I18N && I18N.contentLang === 'en') ? (_APPARATUS_TAG_LABELS_EN[tag] || tag) : (window.I18N && I18N.lang === 'es') ? (_APPARATUS_TAG_LABELS_ES[tag] || tag) : (_APPARATUS_TAG_LABELS[tag] || tag)));
-        const showJaText = (isConfirmed || isAuto) && noteText !== 'περὶ（WH Treg NIV）・ὑπὲρ（RP）' && noteText !== 'for (περὶ) (WH Treg NIV) · for (ὑπὲρ) (RP)' && noteText !== 'acerca de (περὶ) (WH Treg NIV) · por (ὑπὲρ) (RP)' && !(e.readings.length >= 2 && (noteText.startsWith('語順: ') || noteText.startsWith('Word order: ') || noteText.startsWith('Orden de palabras: ')));
+        const tagLabel = (tag) => _escH(((window.I18N && I18N.lang === 'sv') ? (_APPARATUS_TAG_LABELS_SV[tag] || tag) : (window.I18N && I18N.contentLang === 'en') ? (_APPARATUS_TAG_LABELS_EN[tag] || tag) : (window.I18N && I18N.lang === 'es') ? (_APPARATUS_TAG_LABELS_ES[tag] || tag) : (_APPARATUS_TAG_LABELS[tag] || tag)));
+        /* SV: 注記本文はデータ（EN/JA）に SV が無いため出さない（静寂）。種別ラベルのみ SV で示す。 */
+        const showJaText = (isConfirmed || isAuto) && !(window.I18N && I18N.lang === 'sv') && noteText !== 'περὶ（WH Treg NIV）・ὑπὲρ（RP）' && noteText !== 'for (περὶ) (WH Treg NIV) · for (ὑπὲρ) (RP)' && noteText !== 'acerca de (περὶ) (WH Treg NIV) · por (ὑπὲρ) (RP)' && !(e.readings.length >= 2 && (noteText.startsWith('語順: ') || noteText.startsWith('Word order: ') || noteText.startsWith('Orden de palabras: ')));
         const jaSpan = showJaText ? `<span class="mvv-app-ja">${_escH(noteText)}</span>` : '';
         const annoHtml = isConfirmed
             ? `<div class="mvv-app-anno"><span class="mvv-app-tag">${tagLabel(ja.tag)}</span>${jaSpan}</div>`
@@ -485,11 +497,12 @@ async function _fillApparatusSection(bookKey, ch, vNum, area) {
     area._apparatusNoteGen = myGen;
     const isEn = window.I18N && I18N.contentLang === 'en';
     const isEs = window.I18N && I18N.lang === 'es';
+    const isSv = window.I18N && I18N.lang === 'sv';   /* SV: 種別（tag）だけ EN データから引く。語注・異読の英語訳は出さない */
     const [data, jaData, lemJaData, rdgJaData] = await Promise.all([
         _loadApparatusData(),
-        isEs ? _loadApparatusEsAllData() : isEn ? _loadApparatusEnAllData() : _loadApparatusJaAllData(),
-        isEs ? _loadApparatusLemEsData() : isEn ? _loadApparatusLemEnData() : _loadApparatusLemJaData(),
-        isEs ? _loadApparatusRdgEsData() : isEn ? _loadApparatusRdgEnData() : _loadApparatusRdgJaData(),
+        isSv ? _loadApparatusEnAllData() : isEs ? _loadApparatusEsAllData() : isEn ? _loadApparatusEnAllData() : _loadApparatusJaAllData(),
+        isSv ? null : isEs ? _loadApparatusLemEsData() : isEn ? _loadApparatusLemEnData() : _loadApparatusLemJaData(),
+        isSv ? null : isEs ? _loadApparatusRdgEsData() : isEn ? _loadApparatusRdgEnData() : _loadApparatusRdgJaData(),
     ]);
     if (myGen !== area._apparatusNoteGen) return;
     if (!data) return;
