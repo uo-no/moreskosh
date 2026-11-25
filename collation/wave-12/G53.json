@@ -1,0 +1,279 @@
+{
+ "strong": "G53",
+ "lemma": "ἁγνός",
+ "nt_freq": 8,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1JN 3:3",
+   "form": "ἁγνός",
+   "morph": "A-NSM",
+   "gloss_en": "pure",
+   "gloss_ja": "清い",
+   "verse": "καὶ πᾶς ὁ ἔχων τὴν ἐλπίδα ταύτην ἐπ’ αὐτῷ ἁγνίζει ἑαυτὸν καθὼς ἐκεῖνος ἁγνός ἐστιν."
+  },
+  {
+   "ref": "1PE 3:2",
+   "form": "ἁγνὴν",
+   "morph": "A-ASF",
+   "gloss_en": "pure",
+   "gloss_ja": "清い",
+   "verse": "ἐποπτεύσαντες τὴν ἐν φόβῳ ἁγνὴν ἀναστροφὴν ὑμῶν."
+  },
+  {
+   "ref": "1TI 5:22",
+   "form": "ἁγνὸν",
+   "morph": "A-ASM",
+   "gloss_en": "pure",
+   "gloss_ja": "清い",
+   "verse": "χεῖρας ταχέως μηδενὶ ἐπιτίθει, μηδὲ κοινώνει ἁμαρτίαις ἀλλοτρίαις· σεαυτὸν ἁγνὸν τήρει."
+  },
+  {
+   "ref": "2CO 11:2",
+   "form": "ἁγνὴν",
+   "morph": "A-ASF",
+   "gloss_en": "pure",
+   "gloss_ja": "清い",
+   "verse": "ζηλῶ γὰρ ὑμᾶς θεοῦ ζήλῳ, ἡρμοσάμην γὰρ ὑμᾶς ἑνὶ ἀνδρὶ παρθένον ἁγνὴν παραστῆσαι τῷ Χριστῷ·"
+  },
+  {
+   "ref": "2CO 7:11",
+   "form": "ἁγνοὺς",
+   "morph": "A-APM",
+   "gloss_en": "innocent",
+   "gloss_ja": "清い",
+   "verse": "ἰδοὺ γὰρ αὐτὸ τοῦτο τὸ κατὰ θεὸν λυπηθῆναι πόσην κατειργάσατο ὑμῖν σπουδήν, ἀλλὰ ἀπολογίαν, ἀλλὰ ἀγανάκτησιν, ἀλλὰ φόβον, ἀλλὰ ἐπιπόθησιν, ἀλλὰ ζῆλον, ἀλλὰ ἐκδίκησιν· ἐν παντὶ συνεστήσατε ἑαυτοὺς ἁγνοὺς εἶναι τῷ πράγματι."
+  },
+  {
+   "ref": "JAS 3:17",
+   "form": "ἁγνή",
+   "morph": "A-NSF",
+   "gloss_en": "pure",
+   "gloss_ja": "清い",
+   "verse": "ἡ δὲ ἄνωθεν σοφία πρῶτον μὲν ἁγνή ἐστιν, ἔπειτα εἰρηνική, ἐπιεικής, εὐπειθής, μεστὴ ἐλέους καὶ καρπῶν ἀγαθῶν, ἀδιάκριτος, ἀνυπόκριτος·"
+  },
+  {
+   "ref": "PHP 4:8",
+   "form": "ἁγνά",
+   "morph": "A-NPN",
+   "gloss_en": "pure",
+   "gloss_ja": "清い",
+   "verse": "Τὸ λοιπόν, ἀδελφοί, ὅσα ἐστὶν ἀληθῆ, ὅσα σεμνά, ὅσα δίκαια, ὅσα ἁγνά, ὅσα προσφιλῆ, ὅσα εὔφημα, εἴ τις ἀρετὴ καὶ εἴ τις ἔπαινος, ταῦτα λογίζεσθε·"
+  },
+  {
+   "ref": "TIT 2:5",
+   "form": "ἁγνάς",
+   "morph": "A-APF",
+   "gloss_en": "pure",
+   "gloss_ja": "清い",
+   "verse": "σώφρονας, ἁγνάς, οἰκουργούς, ἀγαθάς, ὑποτασσομένας τοῖς ἰδίοις ἀνδράσιν, ἵνα μὴ ὁ λόγος τοῦ θεοῦ βλασφημῆται."
+  }
+ ],
+ "lxx": {
+  "total": 12,
+  "works": {
+   "Leviticus": 1,
+   "Machabaeorum ii": 1,
+   "Machabaeorum iv": 4,
+   "Psalmi": 2,
+   "Proverbia": 4
+  },
+  "representatives": [
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "5.36",
+    "form": "ἁγνὸν",
+    "postag": "a-s---ma-",
+    "sentence": "ἁγνὸν δέ με οἱ πατέρες προσδέξονται μὴ φοβηθέντα σου τὰς μέχρι θανάτου ἀνάγκας."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "19.13",
+    "form": "ἁγναὶ",
+    "postag": "a-p---fn-",
+    "sentence": "οὐχ ἁγναὶ εὐχαὶ ἀπὸ μισθώματος ἑταίρας."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "18.10",
+    "form": "ἁγνός",
+    "postag": "a-s---mn-",
+    "sentence": "ὁ φόβος Κυρίου ἁγνός, διαμένων εἰς αἰῶνα αἰῶνος ·"
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "23.40",
+    "form": "ἄγνου",
+    "postag": "n-s---mg-",
+    "sentence": "καὶ λήψεσθε τῇ ἡμέρᾳ τῇ πρώτῃ καρπὸν ξύλου ὡραῖον καὶ κάλλυνθρα φοινίκων, καὶ κλάδους ξύλου δασεῖς καὶ ἰτέας καὶ ἄγνου κλάδους ἐκ χειμάρρου, εὐφρανθῆναι ἔναντι Κυρίου τοῦ Θεοῦ ὑμῶν ἑπτὰ ἡμέρας τοῦ ἐνιαυτοῦ ·"
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "13.8",
+    "form": "ἁγνὸν",
+    "postag": "a-s---nn-",
+    "sentence": "ἐπεὶ γὰρ συνετελέσατο πολλὰ περὶ τὸν βωμὸν ἁμαρτήματα, οὗ τὸ πῦρ ἁγνὸν ἦν καὶ ἡ σποδός, ἐν σποδῷ τὸν θάνατον ἐκομίσατο."
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "18.7",
+    "form": "ἁγνὴ",
+    "postag": "a-s---fn-",
+    "sentence": "ὅτι ἐγὼ ἐγεννήθην παρθένος ἁγνὴ καὶ οὐχ ὑπερέβην τὸν πατρικὸν οἶκον, ἐφύλασσον δὲ τὴν ᾠκοδομημένην πλευράν."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "20.9",
+    "form": "ἁγνὴν",
+    "postag": "a-s---fa-",
+    "sentence": "τίς καυχήσεται ἁγνὴν ἔχειν τὴν καρδίαν;"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "11.7",
+    "form": "ἁγνά",
+    "postag": "a-p---nn-",
+    "sentence": "τὰ λόγια Κυρίου λόγια ἁγνά, ἀργύριον πεπυρωμένον, δοκίμιον τῇ γῇ κεκαθαρισμένον ἑπταπλασίως."
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "18.8",
+    "form": "ἁγνὰ",
+    "postag": "a-p---na-",
+    "sentence": "οὐ-δὲ ἔφθειρέ με λυμεὼν ἐρημίας φθορεὺς ἐν πεδίῳ, οὐ-δὲ ἐλυμήνατό μου τὰ ἁγνὰ τῆς παρθενίας λυμεὼν ἀπατηλὸς ὄφις ·"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "15.26",
+    "form": "ἁγνῶν",
+    "postag": "a-p---mg-",
+    "sentence": "βδέλυγμα Κυρίῳ λογισμὸς ἄδικος, ἁγνῶν δὲ ρήσεις σεμναί."
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "18.23",
+    "form": "ἁγνὰς",
+    "postag": "a-p---fa-",
+    "sentence": "οἱ δὲ Ἁβραμιαῖοι παῖδες σὺν τῇ ἀθλοφόρῳ μητρὶ εἰς πατέρων χορὸν συναγελάζονται ψυχὰς ἁγνὰς καὶ ἀθανάτους ἀπειληφότες παρὰ τοῦ Θεοῦ, ᾧ ἡ δόξα εἰς τοὺς αἰῶνας τῶν αἰώνων."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "21.8",
+    "form": "ἁγνὰ",
+    "postag": "a-p---nn-",
+    "sentence": "πρὸς τοὺς σκολιοὺς σκολιὰς ὁδοὺς ἀποστέλλει ὁ Θεός, ἁγνὰ γὰρ καὶ ὀρθὰ τὰ ἔργα αὐτοῦ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 17,
+  "works": {
+   "Barnabas": 1,
+   "1 Clement": 6,
+   "2 Clement": 3,
+   "Hermas, Pastor": 6,
+   "Polycarp, To the Philippians": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "48.5",
+    "form": "ἁγνὸς",
+    "postag": "a-s---mn-",
+    "sentence": "ἤτω τις πιστός, ἤτω δυνατὸς γνῶσιν ἐξειπεῖν, ἤτω σοφὸς ἐν διακρίσει λόγων, ἤτω ἁγνὸς ἐν ἔργοις."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "3.8.7",
+    "form": "ἁγνὰ",
+    "postag": "a-p---nn-",
+    "sentence": "τούτων οὖν τὰ ἔργα ἁγνὰ καὶ σεμνὰ καὶ θεῖά ἐστιν."
+   },
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "8.6",
+    "form": "ἁγνὴν",
+    "postag": "a-s---fa-",
+    "sentence": "τηρήσατε τὴν σάρκα ἁγνὴν καὶ τὴν σφραγῖδα ἄσπιλον, ἵνα τὴν αἰώνιον ζωὴν ἀπολάβωμεν."
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "2.3",
+    "form": "ἁγνῶς",
+    "postag": "d--------",
+    "sentence": "τούτων οὖν μενόντων τὰ πρὸς κύριον ἁγνῶς, συνευφραίνονται αὐτοῖς σοφία, σύνεσις, ἐπιστήμη, γνῶσις."
+   },
+   {
+    "work_code": "PPH",
+    "work_ja": "ポリュカルポスのピリピ書簡",
+    "work_src": "Polycarp, To the Philippians",
+    "ref": "5.3",
+    "form": "ἁγνῇ",
+    "postag": "a-s---fd-",
+    "sentence": "τὰς παρθένους ἐν ἀμώμῳ καὶ ἁγνῇ συνειδήσει περιπατεῖν."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "29.1",
+    "form": "ἁγνὰς",
+    "postag": "a-p---fa-",
+    "sentence": "προσέλθωμεν οὖν αὐτῷ ἐν ὁσιότητι ψυχῆς, ἁγνὰς καὶ ἀμιάντους χεῖρας αἴροντες πρὸς αὐτόν, ἀγαπῶντες τὸν ἐπιεικῆ καὶ εὔσπλαγχνον πατέρα ἡμῶν, ὃς ἐκλογῆς μέρος ἡμᾶς ἐποίησεν ἑαυτῷ."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.26.2",
+    "form": "ἁγνῶς",
+    "postag": "d--------",
+    "sentence": "ἐὰν δὲ ἐπιστρέψωσι καὶ ἁγνῶς τελειώσωσι τὴν διακονίαν αὐτῶν, δυνήσονται ζῆσαι."
+   },
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "6.9",
+    "form": "ἁγνὸν",
+    "postag": "a-s---na-",
+    "sentence": "εἰ δὲ καὶ οἱ τοιοῦτοι δίκαιοι οὐ δύνανται ταῖς ἑαυτῶν δικαιοσύναις ῥύσασθαι τὰ τέκνα αὐτῶν, ἡμεῖς, ἐὰν μὴ τηρήσωμεν τὸ βάπτισμα ἁγνὸν καὶ ἀμίαντον, ποίᾳ πεποιθήσει εἰσελευσόμεθα εἰς τὸ βασίλειον τοῦ θεοῦ;"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "10   ἁγνός, -ή, -όν    (< ἅγος, v.s. ἅγιος),   [in LXX chiefly for טָהוֹר (Pss, and Pr. only), also II Mac 13:8, IV Mac 18:7, al.;]         free from ceremonial defilement , in a condition prepared for worship (for exx. of pagan usage, V. MM, VGT, s.v.).      holy, sacred, venerable (II Mac 13:8).     As in OT (cl.), pure, chaste, undefiled, guiltless;       of persons: II Co 7:11  11:12, I Ti 5:22, Tit 2:5, I Jo 3:3;        of things: Phl 4:8, Ja 3:17, I Pe 3:2.†            SYN.: εἰλικρινής (q.v.), pure, primarily as winnowed, purged, first found in ethical sense in NT (sincere). On the equivalence of ἁ. and καθαρός (q.v.), v. DCG, ii, 459a though Westc. (Epp. Jo., 101) notes a distinction "
+}

@@ -1,0 +1,146 @@
+{
+ "strong": "G569",
+ "lemma": "ἀπιστέω",
+ "nt_freq": 8,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1PE 2:7",
+   "form": "ἀπιστοῦσιν",
+   "morph": "V-PAP-DPM",
+   "gloss_en": "not believe",
+   "gloss_ja": "信じない",
+   "verse": "ὑμῖν οὖν ἡ τιμὴ τοῖς πιστεύουσιν· ἀπιστοῦσιν δὲ λίθος ὃν ἀπεδοκίμασαν οἱ οἰκοδομοῦντες οὗτος ἐγενήθη εἰς κεφαλὴν γωνίας"
+  },
+  {
+   "ref": "2TI 2:13",
+   "form": "ἀπιστοῦμεν",
+   "morph": "V-PAI-1P",
+   "gloss_en": "faithless",
+   "gloss_ja": "信じない",
+   "verse": "εἰ ἀπιστοῦμεν, ἐκεῖνος πιστὸς μένει· ἀρνήσασθαι ἑαυτὸν οὐ δύναται."
+  },
+  {
+   "ref": "ACT 28:24",
+   "form": "ἠπίστουν",
+   "morph": "V-IAI-3P",
+   "gloss_en": "not believe",
+   "gloss_ja": "信じない",
+   "verse": "καὶ οἱ μὲν ἐπείθοντο τοῖς λεγομένοις οἱ δὲ ἠπίστουν,"
+  },
+  {
+   "ref": "LUK 24:11",
+   "form": "ἠπίστουν",
+   "morph": "V-IAI-3P",
+   "gloss_en": "not believe",
+   "gloss_ja": "信じない",
+   "verse": "καὶ ἐφάνησαν ἐνώπιον αὐτῶν ὡσεὶ λῆρος τὰ ῥήματα ταῦτα, καὶ ἠπίστουν αὐταῖς."
+  },
+  {
+   "ref": "LUK 24:41",
+   "form": "ἀπιστούντων",
+   "morph": "V-PAP-GPM",
+   "gloss_en": "not believe",
+   "gloss_ja": "信じない",
+   "verse": "ἔτι δὲ ἀπιστούντων αὐτῶν ἀπὸ τῆς χαρᾶς καὶ θαυμαζόντων εἶπεν αὐτοῖς· Ἔχετέ τι βρώσιμον ἐνθάδε;"
+  },
+  {
+   "ref": "MRK 16:11",
+   "form": "ἠπίστησαν",
+   "morph": "V-AAI-3P",
+   "gloss_en": "not believe",
+   "gloss_ja": "信じない",
+   "verse": "κἀκεῖνοι ἀκούσαντες ὅτι ζῇ καὶ ἐθεάθη ὑπ’ αὐτῆς ἠπίστησαν."
+  },
+  {
+   "ref": "MRK 16:16",
+   "form": "ἀπιστήσας",
+   "morph": "V-AAP-NSM",
+   "gloss_en": "not believe",
+   "gloss_ja": "信じない",
+   "verse": "ὁ πιστεύσας καὶ βαπτισθεὶς σωθήσεται, ὁ δὲ ἀπιστήσας κατακριθήσεται."
+  },
+  {
+   "ref": "ROM 3:3",
+   "form": "ἠπίστησάν",
+   "morph": "V-AAI-3P",
+   "gloss_en": "not believe",
+   "gloss_ja": "信じない",
+   "verse": "τί γάρ; εἰ ἠπίστησάν τινες, μὴ ἡ ἀπιστία αὐτῶν τὴν πίστιν τοῦ θεοῦ καταργήσει;"
+  }
+ ],
+ "lxx": {
+  "total": 5,
+  "works": {
+   "Machabaeorum ii": 1,
+   "Sapientia Salomonis": 4
+  },
+  "representatives": [
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "1.2",
+    "form": "ἀπιστοῦσιν",
+    "postag": "v-pppamd-",
+    "sentence": "ὅτι εὑρίσκεται τοῖς μὴ πειράζουσιν αὐτόν, ἐμφανίζεται δὲ τοῖς μὴ ἀπιστοῦσιν αὐτῷ."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "8.13",
+    "form": "ἀπιστοῦντες",
+    "postag": "v-pppamn-",
+    "sentence": "καὶ μεταδόντος αὐτοῦ τοῖς σὺν αὐτῷ τὴν παρουσίαν τοῦ στρατοπέδου, οἱ δειλανδροῦντες καὶ ἀπιστοῦντες τὴν τοῦ Θεοῦ δίκην διεδίδρασκον καὶ ἐξετόπιζον ἑαυτούς."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "12.17",
+    "form": "ἀπιστούμενος",
+    "postag": "v-sppmmn-",
+    "sentence": "ἰσχὺν γὰρ ἐνδείκνυσαι ἀπιστούμενος ἐπὶ δυνάμεως τελειότητι καὶ ἐν τοῖς εἰδόσι τὸ θράσος ἐξελέγχεις."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "10.7",
+    "form": "ἀπιστούσης",
+    "postag": "v-sppafg-",
+    "sentence": "ἧς ἔτι μαρτύριον τῆς πονηρίας καπνιζομένη καθέστηκε χέρσος, καὶ ἀτελέσιν ὥραις καρποφοροῦντα φυτά, ἀπιστούσης ψυχῆς μνημεῖον ἑστηκυῖα στήλη ἁλός."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "18.13",
+    "form": "ἀπιστοῦντες",
+    "postag": "v-pppamn-",
+    "sentence": "πάντα γὰρ ἀπιστοῦντες διὰ τὰς φαρμακείας ἐπὶ τῷ τῶν πρωτοτόκων ὀλέθρῳ, ὡμολόγησαν Θεοῦ υἱὸν λαὸν εἶναι."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Ignatius, Letters": 1
+  },
+  "representatives": [
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "1.18.1",
+    "form": "ἀπιστοῦσιν",
+    "postag": "v-pppamd-",
+    "sentence": "περίψημα τὸ ἐμὸν πνεῦμα τοῦ σταυροῦ, ὅ ἐστιν σκάνδαλον τοῖς ἀπιστοῦσιν, ἡμῖν δὲ σωτηρία καὶ ζωὴ αἰώνιος, ποῦ σοφός;"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "8   ** ἀπιστέω, -ῶ    (< ἄπιστος),   [in LXX: Wi 1:2 10:7 12:17 18:13, Si 1:27, II Mac 8:13*;]      to disbelieve, be faithless: Mk 16:11, 16, Lk 24:11, 41, Ac 28:24, I Pe 2:7; so prob. also Ro 3:3, II Ti 2:13 (ICC, CGT, in ll.; MM, s.v.).     = ἀπειθέω (Hdt.; on this sense in Ro 3:3, II Ti 2:13, v. Vaughan on Ro 3:3; Lft., Notes, 265; Thayer, s.v.).†"
+}

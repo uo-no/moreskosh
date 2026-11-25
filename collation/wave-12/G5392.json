@@ -1,0 +1,117 @@
+{
+ "strong": "G5392",
+ "lemma": "φιμόω",
+ "nt_freq": 8,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 9:9",
+   "form": "κημώσεις",
+   "morph": "V-FAI-2S",
+   "gloss_en": "muzzle",
+   "gloss_ja": "口を封じる",
+   "verse": "ἐν γὰρ τῷ Μωϋσέως νόμῳ γέγραπται· Οὐ κημώσεις βοῦν ἀλοῶντα. μὴ τῶν βοῶν μέλει τῷ θεῷ,"
+  },
+  {
+   "ref": "1PE 2:15",
+   "form": "φιμοῦν",
+   "morph": "V-PAN",
+   "gloss_en": "silence",
+   "gloss_ja": "口を封じる",
+   "verse": "ὅτι οὕτως ἐστὶν τὸ θέλημα τοῦ θεοῦ, ἀγαθοποιοῦντας φιμοῦν τὴν τῶν ἀφρόνων ἀνθρώπων ἀγνωσίαν·"
+  },
+  {
+   "ref": "1TI 5:18",
+   "form": "φιμώσεις",
+   "morph": "V-FAI-2S",
+   "gloss_en": "muzzle",
+   "gloss_ja": "口を封じる",
+   "verse": "λέγει γὰρ ἡ γραφή· Βοῦν ἀλοῶντα οὐ φιμώσεις, καί· Ἄξιος ὁ ἐργάτης τοῦ μισθοῦ αὐτοῦ."
+  },
+  {
+   "ref": "LUK 4:35",
+   "form": "Φιμώθητι",
+   "morph": "V-APM-2S",
+   "gloss_en": "silent",
+   "gloss_ja": "口を封じる",
+   "verse": "καὶ ἐπετίμησεν αὐτῷ ὁ Ἰησοῦς λέγων· Φιμώθητι καὶ ἔξελθε ἀπ’ αὐτοῦ. καὶ ῥίψαν αὐτὸν τὸ δαιμόνιον εἰς τὸ μέσον ἐξῆλθεν ἀπ’ αὐτοῦ μηδὲν βλάψαν αὐτόν."
+  },
+  {
+   "ref": "MAT 22:12",
+   "form": "ἐφιμώθη",
+   "morph": "V-API-3S",
+   "gloss_en": "speechless",
+   "gloss_ja": "口を封じる",
+   "verse": "καὶ λέγει αὐτῷ· Ἑταῖρε, πῶς εἰσῆλθες ὧδε μὴ ἔχων ἔνδυμα γάμου; ὁ δὲ ἐφιμώθη."
+  },
+  {
+   "ref": "MAT 22:34",
+   "form": "ἐφίμωσεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "silenced",
+   "gloss_ja": "口を封じる",
+   "verse": "Οἱ δὲ Φαρισαῖοι ἀκούσαντες ὅτι ἐφίμωσεν τοὺς Σαδδουκαίους συνήχθησαν ἐπὶ τὸ αὐτό."
+  },
+  {
+   "ref": "MRK 1:25",
+   "form": "Φιμώθητι",
+   "morph": "V-APM-2S",
+   "gloss_en": "silent",
+   "gloss_ja": "口を封じる",
+   "verse": "καὶ ἐπετίμησεν αὐτῷ ὁ Ἰησοῦς λέγων· Φιμώθητι καὶ ἔξελθε ἐξ αὐτοῦ."
+  },
+  {
+   "ref": "MRK 4:39",
+   "form": "πεφίμωσο",
+   "morph": "V-RPM-2S",
+   "gloss_en": "still",
+   "gloss_ja": "口を封じる",
+   "verse": "καὶ διεγερθεὶς ἐπετίμησεν τῷ ἀνέμῳ καὶ εἶπεν τῇ θαλάσσῃ· Σιώπα, πεφίμωσο. καὶ ἐκόπασεν ὁ ἄνεμος, καὶ ἐγένετο γαλήνη μεγάλη."
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Deuteronomium": 1,
+   "Machabaeorum iv": 1,
+   "Susanna": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "25.4",
+    "form": "φιμώσεις",
+    "postag": "v2sfia---",
+    "sentence": "οὐ φιμώσεις βοῦν ἁλοῶντα."
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "1.35",
+    "form": "φιμοῦται",
+    "postag": "v3spim---",
+    "sentence": "ἀνέχεται γὰρ τὰ τῶν ὀρέξεων πάθη ὑπὸ τοῦ σώφρονος νοὸς ἀνακαμπτόμενα, καὶ φιμοῦται πάντα τὰ τοῦ σώματος κινήματα τοῦ λογισμοῦ."
+   },
+   {
+    "work_code": "SUS",
+    "work_ja": "スザンナ（Th）",
+    "work_src": "Susanna",
+    "ref": "60",
+    "form": "ἐφίμωσαν",
+    "postag": "v3paia---",
+    "sentence": "καὶ ἐφίμωσαν αὐτοὺς καὶ ἐξαγαγόντες ἔρριψαν εἰς φάραγγα ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "7 φιμόω, -ῶ    (< φιμός, a muzzle),    [in LXX: De 25:4 (חסם), Da LXX Su 1:61, IV Mac 1:35 א R * ;]     to muzzle: I Co 9:9, I Ti 5:18 (LXX); metaph., to put to silence: c. acc. pers., Mt 22:34, I Pe 2:15; pass., to be silenced, silent: Mt 22:12, Mk 1:25 4:39, Lk 4:35.†"
+}
