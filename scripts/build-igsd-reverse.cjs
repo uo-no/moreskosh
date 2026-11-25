@@ -11,7 +11,7 @@
  *   - 引用がなければ括弧を除いた残りを区切り（JA: ・／/、  他: /）で分割する。
  *   - JA は先頭・末尾の〜を除く。ギリシャ文字を含むトークンは候補ファイルへ（長さによる除外はしない）。
  *   - 規則7: ギリシャ語句＋括弧説明だけで見出しが0になる場合は括弧内を見出しに昇格し、qualifier に元のギリシャ語句を入れる。
- *   - JA のみ stemAliases（語幹バリアント）と aliases（憐れみ・哀れみ→あわれみ）を持つ。
+ *   - JA のみ stemAliases（語幹バリアント。実在見出しと一致しても必ず作る）と aliases（憐れみ・哀れみ→あわれみ）を持つ。
  * 方式B（候補専用）: def の第一文の列挙節と def 内の引用語。公開索引には混ぜない。
  * 使い方: node scripts/build-igsd-reverse.cjs [--check]   （--check は機械照合のみ・書き込みなし）
  */
@@ -29,13 +29,13 @@ const QUOTES = [/「([^」]*)」/g, /『([^』]*)』/g, /"([^"]*)"/g, /«([^»]*
 
 function parse(label, lang) {
   const quals = [];
-  let outside = label.replace(/[（(]([^）)]*)[）)]/g, (_, q) => { quals.push(q.trim()); return " "; });
   const heads = [];
-  for (const re of QUOTES) {
-    outside = outside.replace(re, (_, q) => { heads.push(q.trim()); return " "; });
-  }
+  const grab = (str) => { for (const re of QUOTES) str = str.replace(re, (_, q) => { heads.push(q.trim()); return " "; }); return str; };
+  // 引用語は括弧の中にあっても見出しに抜く（括弧内の引用は qualifier にも原文のまま残す）
+  let outside = label.replace(/[（(]([^）)]*)[）)]/g, (_, q) => { quals.push(q.trim()); grab(q); return " "; });
+  outside = grab(outside);
   let toks;
-  if (heads.length) toks = heads; // 括弧外の引用があれば枠表現は見出しにしない
+  if (heads.length) toks = heads; // 引用（括弧内外問わず）があれば、引用の外側の枠表現は見出しにしない
   else toks = outside.split(LANGS[lang].delim).map((t) => t.trim());
   const out = [];
   for (let t of toks) {
@@ -95,7 +95,7 @@ function build() {
       for (const h of Object.keys(sorted)) for (const [from, to] of STEM) {
         if (!h.endsWith(from) || h.length <= from.length) continue;
         const v = h.slice(0, -from.length) + to;
-        if (sorted[v] || aliases[v]) continue; // 実在見出し優先
+        if (aliases[v]) continue; // 実在見出しと一致しても作る（合流の別名）
         (stemAliases[v] = stemAliases[v] || []).push(h);
       }
       for (const v of Object.keys(stemAliases)) stemAliases[v].sort();
