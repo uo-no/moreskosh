@@ -29,14 +29,15 @@ const QUOTES = [/「([^」]*)」/g, /『([^』]*)』/g, /"([^"]*)"/g, /«([^»]*
 
 function parse(label, lang) {
   const quals = [];
-  const heads = [];
-  const grab = (str) => { for (const re of QUOTES) str = str.replace(re, (_, q) => { heads.push(q.trim()); return " "; }); return str; };
+  const heads = [], parenHeads = [];
+  const grab = (str, to) => { for (const re of QUOTES) str = str.replace(re, (_, q) => { to.push(q.trim()); return " "; }); return str; };
   // 引用語は括弧の中にあっても見出しに抜く（括弧内の引用は qualifier にも原文のまま残す）
-  let outside = label.replace(/[（(]([^）)]*)[）)]/g, (_, q) => { quals.push(q.trim()); grab(q); return " "; });
-  outside = grab(outside);
+  let outside = label.replace(/[（(]([^）)]*)[）)]/g, (_, q) => { quals.push(q.trim()); grab(q, parenHeads); return " "; });
+  outside = grab(outside, heads);
   let toks;
-  if (heads.length) toks = heads; // 引用（括弧内外問わず）があれば、引用の外側の枠表現は見出しにしない
-  else toks = outside.split(LANGS[lang].delim).map((t) => t.trim());
+  // 括弧外に引用がある場合のみ、引用の外側の枠表現は見出しにしない。括弧の前の本体の語は見出しにする（括弧内のみに引用がある場合）
+  if (heads.length) toks = heads;
+  else toks = outside.split(LANGS[lang].delim).map((t) => t.trim()).concat(parenHeads);
   const out = [];
   for (let t of toks) {
     if (lang === "ja") t = t.replace(/^〜+|〜+$/g, "");
