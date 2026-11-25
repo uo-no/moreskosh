@@ -3016,6 +3016,37 @@ var _focusReposition = null;
        WordInsight本文は変更禁止。構造のみ整理。
     ─────────────────────────────────────────────── */
     // EN parallel tables (選択は _getWordInsight() で I18N.lang により行う)
+    /* SV（スウェーデン語）。JA 原文を源とし EN を参照。 */
+    const _WORD_INSIGHTS_SV = {
+        'ἠγάπησεν': 'Översättningar inleder ofta med ”så älskade Gud världen” – men i grundtexten kommer ”älskade” först, före subjektet.',
+        'ἀγαπάω':   'Ordet som här översätts ”älska” bär en riktning av valt åtagande snarare än känsla – och det står längst fram.',
+        'ἔδωκεν':   'Översättningar säger ”gav” på ett flytande sätt – men i grundtexten markerar det en enda, avslutad handling.',
+        'μονογενῆ': 'Översättningar säger ”enfödde Son” – men grundtextens ord betyder ”den ende i sitt slag”, unik till sin natur.',
+        'πιστεύων': 'Översättningar säger ”var och en som tror” i ett enda ord – men grundtextens form beskriver någon som fortfarande tror, just nu.',
+        'ἀπόληται': 'Översättningar säger ”ska inte gå förlorad” i förbigående – men grundtexten pekar mot ”att inte hamna i ett tillstånd av förlorat”.',
+        'αἰώνιον':  'Översättningar säger ”evigt liv” och pekar på tidens längd – men grundtextens ord pekar på livets kvalitet.',
+        'οὕτως':    'Översättningar säger kort ”så” eller ”på detta sätt” – men i grundtexten samlar detta ord allt som kom förut.',
+        'κόσμον':   'Översättningar säger ”världen” nästan i förbigående – men i grundtexten står detta ord på en plats som visar hur vid den kärleken är.',
+        'οὖν':      'Översättningar utelämnar ibland detta ord – men i grundtexten för det hela flödet av det som kom förut fram till denna punkt.',
+        'γάρ':      'Översättningar utelämnar ibland detta ord – men i grundtexten står det just här.',
+    };
+    const _DEFAULT_INSIGHT_SV = 'Ett ord som lätt läses förbi i översättning står här i grundtexten.';
+
+    const _WORD_INSIGHTS_EXPERIENCED_SV = {
+        'ἠγάπησεν': 'Verbet står först i meningen. ”Älskade” – handlingen – står före subjektet.',
+        'ἀγαπάω':   'Ett annat verb än eros. Det som här översätts ”älska” bär en riktning av valt åtagande snarare än känslomässig dragning.',
+        'ἔδωκεν':   'Aorist – en enda avslutad handling, inte pågående. Den tidsformsskillnaden tenderar att försvinna i översättning.',
+        'μονογενῆ': '”Den ende i sitt slag” snarare än bara ”ende”. Ordet som översätts ”enfödde Son” bär något lite annorlunda.',
+        'πιστεύων': 'Översättningar säger ”tror” som om det vore förfluten tid – men denna form är presens och pågående: en person som just nu är i färd med att tro.',
+        'ἀπόληται': 'Bakom ”gå förlorad” finns en riktning: att inte hamna i ett tillstånd av att ha gått förlorad. Den nyansen tenderar att försvinna i översättning.',
+        'αἰώνιον':  'Mer ”liv som hör till tidsåldern” än ”tid utan slut” – en kvalitativ snarare än kvantitativ läsning.',
+        'οὕτως':    'Detta ord sammanfattar hela 3:14–15. Översättningar säger ”så” eller ”alltså” och går vidare, men hela det föregående sammanhanget samlas här.',
+        'κόσμον':   'Ordet för kärlekens föremål. Guds blicks vidd samlas i detta ord.',
+        'οὖν':      'Inte ett ord som står först i en mening – det förekommer här som en slutsats dragen av det som kom förut. Översättningar återger det ”därför” eller utelämnar det.',
+        'γάρ':      'Översätts ”ty” eller ”därför att” – eller utelämnas. Här markerar det grunden för v. 16, och samma ord fortsätter in i v. 17.',
+    };
+    const _DEFAULT_INSIGHT_EXPERIENCED_SV = 'Det som läses som slätt i översättning behåller i grundtexten ett val av ordföljd eller struktur.';
+
     const _WORD_INSIGHTS_EN = {
         'ἠγάπησεν': 'Translations often open "God so loved the world" — but in the original, "loved" comes first, before the subject.',
         'ἀγαπάω':   'The word translated "love" here carries a direction of chosen commitment over emotion — and it is placed at the front.',
@@ -3090,15 +3121,18 @@ const _DEFAULT_INSIGHT_EXPERIENCED = '翻訳では平らに見える箇所に、
 
     function _getWordInsight(greek) {
         var isEn = window.I18N && I18N.contentLang === 'en';
+        var isSv = window.I18N && I18N.lang === 'sv';
         var level = _getReaderLevel();
         switch (level) {
             case 'experienced':
+                if (isSv) return _WORD_INSIGHTS_EXPERIENCED_SV[greek] || _DEFAULT_INSIGHT_EXPERIENCED_SV;
                 if (isEn) return _WORD_INSIGHTS_EXPERIENCED_EN[greek] || _DEFAULT_INSIGHT_EXPERIENCED_EN;
                 return _WORD_INSIGHTS_EXPERIENCED[greek] || _DEFAULT_INSIGHT_EXPERIENCED;
             // case 'advanced': // 将来: lemma/morphology層をここに追加
             //     return _WORD_INSIGHTS_ADVANCED[greek] || _DEFAULT_INSIGHT_ADVANCED;
             case 'beginner':
             default:
+                if (isSv) return _WORD_INSIGHTS_SV[greek] || _DEFAULT_INSIGHT_SV;
                 if (isEn) return _WORD_INSIGHTS_EN[greek] || _DEFAULT_INSIGHT_EN;
                 return _WORD_INSIGHTS[greek] || _DEFAULT_INSIGHT;
         }

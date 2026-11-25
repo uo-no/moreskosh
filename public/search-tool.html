@@ -2679,7 +2679,8 @@ function _refLabel(name,ch,v,jaSep){return _tf('search.ref.verse',name+(jaSep||'
    英語の単語は 'japanese' 型クエリ（語義＝グロス照合）として既存の語グループ経路に載せる。 */
 /* #115: 内容データの言語が英語のとき true（EN／SV）。SV は UI だけスウェーデン語で、グロス・辞書本文・IGSD 定義・各種ラベルは
    英語にフォールバックする「軽い段」のため、内容の選択ではすべて EN と同扱い（I18N.contentLang。日本語には落とさない）。 */
-function _enMode(){return !!(window.I18N&&I18N.contentLang==='en');}
+/* #236: I18N.contentLang の sv→en 対応を外したため、検索画面は従来動作（SV＝EN 内容）を維持するよう lang で明示する。検索画面の SV 完全対応は別タスク。 */
+function _enMode(){return !!(window.I18N&&(I18N.contentLang==='en'||I18N.lang==='sv'));}
 /* #115: UI 言語そのものがスウェーデン語か。内容の選択には使わない（内容は _enMode）。URL プレフィックスなど UI 言語の判定用。 */
 function _svMode(){return !!(window.I18N&&I18N.lang==='sv');}
 /* #58: 区切り記号など表示だけの分岐用。JA 以外（EN・ES）は半角、JA は従来の全角。語義・グロスの選択（_enMode）には使わない。 */

@@ -365,7 +365,65 @@ function _naturalize(gloss, kind) {
  * ドロワーに表示するだけなので学術ラベルは使わない。
  * Study タブでは別途詳細が表示される。
  */
+/* SV 版（EN/ES 版と同一のキー・同一の判定。文言のみスウェーデン語。判定ロジックは複製ではなく
+   _buildMorphText 本体の分岐と同じ rawMorph 読み取り規則に従う） */
+function _buildMorphTextSv(rawMorph, pos, parts) {
+    if (pos === 'V' && parts[1]) {
+        const off  = /^[0-9]/.test(parts[1]) ? 1 : 0;
+        const moodCode  = parts[1][off + 2] || '';
+        const tenCode   = parts[1][off]     || '';
+        const voiCode   = parts[1][off + 1] || '';
+        const ptcNote = tenCode === 'A' ? 'en handling som föregår huvudverbet'
+            : tenCode === 'P' ? 'beskriver en situation vid sidan av huvudverbet'
+            : 'tillför en omständighet till scenen';
+        const MOOD_NOTE = {
+            'M': 'en uppmaning att handla',
+            'P': ptcNote,
+            'N': 'tillför syfte eller innehåll',
+            'S': 'med ett önskemål eller ett syfte',
+            'I': 'sägs som ett faktum',
+            'O': 'uttryckt som ett önskemål',
+        };
+        const TEN_NOTE = {
+            'R': 'ett tillstånd från det förflutna som fortfarande gäller',
+            'A': 'som en enskild händelse',
+            'F': 'som något som säkert kommer att ske',
+            'P': 'nu, fortlöpande',
+            'I': 'ett pågående tillstånd',
+        };
+        const VOI_NOTE = {
+            'P': 'på den mottagande sidan',
+            'M': 'med fullt engagemang',
+            'D': 'med fullt engagemang',
+        };
+        const notes = [];
+        if (MOOD_NOTE[moodCode]) notes.push(MOOD_NOTE[moodCode]);
+        if (TEN_NOTE[tenCode] && moodCode !== 'N' && moodCode !== 'P') notes.push(TEN_NOTE[tenCode]);
+        if (VOI_NOTE[voiCode]) notes.push(VOI_NOTE[voiCode]);
+        return notes.join(', ') || 'verb';
+    } else if (['N','A'].includes(pos) && parts[1]) {
+        const base = ['1','2','3'].includes(parts[1][0]) ? parts[1].slice(1) : parts[1];
+        const CASE_NOTE = {
+            'N': 'i meningens mitt', 'G': 'förbundet med ”av”',
+            'D': 'tar emot förbindelsen', 'A': 'handlingens mål', 'V': 'tilltal'
+        };
+        const notes = [];
+        if (CASE_NOTE[base[0]]) notes.push(CASE_NOTE[base[0]]);
+        if (base[1] === 'P') notes.push('omtalad i plural');
+        return notes.join(', ') || (pos === 'N' ? 'substantiv' : 'adjektiv');
+    } else if (pos === 'CONJ') {
+        return 'förbindande ord';
+    } else if (pos === 'PREP') {
+        return 'visar förbindelsens riktning';
+    } else if (pos === 'T') {
+        return 'pekande ord (artikel)';
+    } else if (['P','R','D'].includes(pos)) {
+        return 'pekar på någon';
+    }
+    return '';
+}
 function _buildMorphText(rawMorph, pos, parts) {
+    if (typeof window !== 'undefined' && window.I18N && I18N.lang === 'sv') return _buildMorphTextSv(rawMorph, pos, parts);
     const _isEn = typeof window !== 'undefined' && window.I18N && I18N.contentLang === 'en';
     const _isEs = typeof window !== 'undefined' && window.I18N && I18N.lang === 'es';
     if (pos === 'V' && parts[1]) {
@@ -665,7 +723,7 @@ function _resolveTokenLabelById(targetTokenId) {
         if (typeof window === 'undefined' || !(window.I18N && I18N.lang !== 'ja')) {
             return _resolveTokenJaById(targetTokenId);
         }
-        const _esLabel = window.I18N && I18N.lang === 'es';
+        const _esLabel = window.I18N && (I18N.lang === 'es' || I18N.lang === 'sv');   /* #236: SV も日本語に落とさずギリシャ語形 */
         if (!targetTokenId) return null;
         for (const cache of [_cachedElByVerse, ..._appendedChapterCache.values()]) {
             for (const vNum in cache) {

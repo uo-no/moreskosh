@@ -1370,6 +1370,80 @@ const _CONNECTOR_TYPE_BY_KEY = {
 
 // combine() が入力文字列から元の _WALLACE_TEXT キーを逆引きするための表
 
+// スウェーデン語UI 用の対応テーブル。JA の _WALLACE_TEXT と 1:1 で対応する 48 エントリ。
+// 方針: 日本語原文と同等の情報量・読書中心の平易なスウェーデン語。文法用語は最小限。
+// combine() の前置詞: 'Här '（JA の 'ここでは、' 相当）。
+const _WALLACE_TEXT_SV = {
+    DISCOURSE_EXPLANATION:
+        'Här ges en förklaring till varför det som kom förut gäller.',
+
+    CONTENT:
+        'Här görs det konkreta innehållet i det som sades tydligt.',
+
+    COMPLEMENT:
+        'Här anges hela innehållet i det som sades.',
+
+    PURPOSE:
+        'Här visas det avsedda syftet.',
+
+    EXPLANATORY_PURPOSE:
+        'Här utvecklas syftet ytterligare.',
+
+    RESULT:
+        'Här anges utfallet eller följden.',
+
+    CONDITION:
+        'Här läggs ett villkor fram som förutsättning.',
+
+    CONTRAST_EXPLANATION:
+        'Här visas en kontrast mot det som kom förut, och riktningen skiftar.',
+
+    UNCLASSIFIED:
+        'Här läggs situationen eller bakgrunden till.',
+
+    TRUE_NARRATIVE: 'Här fylls bakgrundshändelser eller omständigheter i.',
+    REASON:         'Här anges skälet bakom det som sades.',
+    SIMILE:         'Här används en jämförelse för att förklara.',
+    TEMPORAL:       'Här visas tidpunkten eller ordningsföljden för händelserna.',
+    APPROX_CAUSE:   'Här antyds ett allmänt skäl.',
+    RELATIVE:       'Här beskriver det som följer något närmare.',
+
+    GENITIVE_POSSESSIVE:   'Här visas vem något tillhör.',
+    GENITIVE_DESCRIPTIVE:  'Här beskrivs en egenskap eller ett slag.',
+    GENITIVE_PARTITIVE:    'Här tas en del ur en större helhet.',
+    GENITIVE_ATTRIBUTIVE:  'Här uttrycks en kännetecknande egenskap.',
+    GENITIVE_EPEXEGETICAL: 'Här sägs betydelsen av det föregående ordet om med andra ord.',
+    GENITIVE_RELATIONSHIP: 'Här anges ett släktskap eller en personlig relation.',
+    GENITIVE_MATERIAL:     'Här visas vilket material något är gjort av.',
+    GENITIVE_CONTENT:      'Här visas vad något innehåller.',
+    GENITIVE_ATTRIBUTED:   'Här är ordföljden omvänd så att en egenskap framträder.',
+    GENITIVE_PREDICATE:    'Här identifieras något som tillhörande något annat.',
+    GENITIVE_SUBJECTIVE:   'Här visas den som utför handlingen.',
+    GENITIVE_OBJECTIVE:    'Här visas den som tar emot handlingen.',
+    GENITIVE_PLENARY:      'Här kan ordet läsas antingen som den som utför eller den som tar emot – båda läsningarna förblir öppna.',
+    GENITIVE_COMPARISON:   'Här jämförs något, och måttstocken visas.',
+    GENITIVE_SEPARATION:   'Här visas en rörelse bort från något.',
+    GENITIVE_TIME:         'Här visas tiden då något sker.',
+    GENITIVE_PLACE:        'Här visas platsen där något sker.',
+    GENITIVE_AGENCY:       'Här visas vem som utför handlingen.',
+    GENITIVE_MEANS:        'Här visas hur något görs.',
+    GENITIVE_SOURCE:       'Här visas källan eller ursprunget.',
+    GENITIVE_ABSOLUTE:     'Här läggs en bakgrundshändelse till vid sidan av huvudhandlingen.',
+    GENITIVE_DIRECT_OBJECT: 'Här visas den som tar emot handlingen genom denna form.',
+
+    ARTICLE_MONADIC:          'Här pekar ordet på något unikt – det enda i sitt slag.',
+    ARTICLE_GENERIC:          'Här syftar ordet inte på en bestämd person eller sak, utan på kategorin som helhet.',
+    ARTICLE_PREVIOUS_REF:     'Här hänvisas åter till något som redan nämnts.',
+    ARTICLE_PAR_EXCELLENCE:   'Här pekar ordet på det mest kända eller mest representativa exemplet.',
+    ARTICLE_SIMPLE_ID:        'Här anger ordet vilken bestämd sak som avses.',
+    ARTICLE_WELL_KNOWN:       'Här pekar ordet på något som alla skulle känna igen.',
+    ARTICLE_ABSTRACT:         'Här är det en idé eller ett begrepp i sig – inte en sak – som avses.',
+    ARTICLE_DEICTIC:          'Här pekar ordet direkt på något som är närvarande.',
+    ARTICLE_KATAPHORIC:       'Här pekar ordet framåt – det det syftar på förklaras strax efter.',
+    ARTICLE_GRANVILLE_SHARP:  'Här är två titlar sammanlänkade, och båda syftar på samma person.',
+    ARTICLE_COLWELL:          'Här visar ordföljden vilken term som bär huvudvikten i påståendet.',
+};
+
 // スペイン語UI 用の対応テーブル。JA の _WALLACE_TEXT と 1:1 で対応する。
 const _WALLACE_TEXT_ES = {
     DISCOURSE_EXPLANATION:
@@ -1438,6 +1512,9 @@ const _WALLACE_TEXT_TO_KEY = new Map(
 const _WALLACE_TEXT_EN_TO_KEY = new Map(
     Object.entries(_WALLACE_TEXT_EN).map(([key, text]) => [text, key])
 );
+const _WALLACE_TEXT_SV_TO_KEY = new Map(
+    Object.entries(_WALLACE_TEXT_SV).map(([key, text]) => [text, key])
+);
 const _WALLACE_TEXT_ES_TO_KEY = new Map(
     Object.entries(_WALLACE_TEXT_ES).map(([key, text]) => [text, key])
 );
@@ -1473,7 +1550,8 @@ class ReadingFormatter {
         const key   = this._resolveGlossKey(discourseType, clauseType);
         const _isEn = typeof window !== 'undefined' && window.I18N && I18N.contentLang === 'en';
         const _isEs = typeof window !== 'undefined' && window.I18N && I18N.lang === 'es';
-        const text  = assertReadingTextSafe((_isEs ? _WALLACE_TEXT_ES : _isEn ? _WALLACE_TEXT_EN : _WALLACE_TEXT)[key]);
+        const _isSv = typeof window !== 'undefined' && window.I18N && I18N.lang === 'sv';
+        const text  = assertReadingTextSafe((_isSv ? _WALLACE_TEXT_SV : _isEs ? _WALLACE_TEXT_ES : _isEn ? _WALLACE_TEXT_EN : _WALLACE_TEXT)[key]);
 
         return {
             title:          text,
@@ -1496,14 +1574,18 @@ class ReadingFormatter {
 
         if (id === 'nominative.pendens') {
             if (!signals.has('initial') || !signals.has('resume')) return null;
-            text = (typeof window !== 'undefined' && window.I18N && I18N.lang === 'es')
+            text = (typeof window !== 'undefined' && window.I18N && I18N.lang === 'sv')
+                ? 'Det här ordet står nära början av meningen, och ett pronomen tar senare upp det igen. Du kan i texten kontrollera om detta är en struktur där temat först anges, och vad pronomenet tar upp.'
+                : (typeof window !== 'undefined' && window.I18N && I18N.lang === 'es')
                 ? 'Esta palabra aparece cerca del comienzo de la oración, y un pronombre la retoma más adelante. Puedes comprobar en el texto si se trata de una estructura en la que el tema se presenta primero, y qué está retomando el pronombre.'
                 : _isEn
                 ? 'This word appears near the beginning of the sentence, and a pronoun later takes it up again. You can check in the text whether this is a structure where the topic is set out first, and what the pronoun is picking up.'
                 : 'この語は文の初め近くに置かれ、後の代名詞が受け直しています。主題を先に示す構造かどうか、代名詞が何を受けているかを本文で確かめられます。';
         } else if (id === 'infinitive.imperatival') {
             if (!signals.has('no_finite_verb') || !signals.has('anarthrous_inf')) return null;
-            text = (typeof window !== 'undefined' && window.I18N && I18N.lang === 'es')
+            text = (typeof window !== 'undefined' && window.I18N && I18N.lang === 'sv')
+                ? 'Ledtråden till den här läsningen är att det inte finns något huvudverb i meningen, och att ordet står utan artikel. Dessa två punkter ensamma bekräftar dock inte en imperativisk användning. Kontrollera om det kan tjäna som syfte eller som tillägg, och fundera över hur det hänger ihop med de omgivande meningarna.'
+                : (typeof window !== 'undefined' && window.I18N && I18N.lang === 'es')
                 ? 'La pista para esta lectura es que no hay un verbo principal en la oración, y la palabra aparece sin artículo. Sin embargo, estos dos puntos por sí solos no confirman un uso imperativo. Comprueba si podría servir como propósito o como complemento, y considera cómo se conecta con las oraciones que la rodean.'
                 : _isEn
                 ? 'The clue to this reading is that there is no main verb in the sentence, and the word appears without an article. However, these two points alone do not confirm an imperatival use. Check whether it might serve as purpose or supplemental, and consider how it connects with the surrounding sentences.'
@@ -1522,7 +1604,9 @@ class ReadingFormatter {
         const label = String(targetLabel ?? '').trim();
         if (!label) return null;
         const _isEn = typeof window !== 'undefined' && window.I18N && I18N.contentLang === 'en';
-        return assertReadingTextSafe((typeof window !== 'undefined' && window.I18N && I18N.lang === 'es')
+        return assertReadingTextSafe((typeof window !== 'undefined' && window.I18N && I18N.lang === 'sv')
+            ? `”${label}” anges som den som utför handlingen som detta ord uttrycker.`
+            : (typeof window !== 'undefined' && window.I18N && I18N.lang === 'es')
             ? `"${label}" es referido como quien realiza la acción expresada por esta palabra.`
             : _isEn
             ? `"${label}" is referred to as the one who performs the action expressed by this word.`
@@ -1569,6 +1653,19 @@ class ReadingFormatter {
         const _isEn = typeof window !== 'undefined' && window.I18N && I18N.contentLang === 'en';
 
         const _isEs = typeof window !== 'undefined' && window.I18N && I18N.lang === 'es';
+        if (typeof window !== 'undefined' && window.I18N && I18N.lang === 'sv') {
+            // SV: strip 'Här ' prefix and '.' suffix, join with Swedish connectives.
+            const CONNECTOR_TEXT_SV = { A: ', och ', B: ', men ', C: ', och dessutom ' };
+            const bodies = list.map(s2 => s2.replace(/^Här /, '').replace(/\.$/, ''));
+            let combined = 'Här ' + bodies[0];
+            for (let i = 1; i < bodies.length; i++) {
+                const key  = _WALLACE_TEXT_SV_TO_KEY.get(list[i]);
+                const type = _CONNECTOR_TYPE_BY_KEY[key] || 'A';
+                combined += CONNECTOR_TEXT_SV[type] + bodies[i];
+            }
+            combined += '.';
+            return assertReadingTextSafe(combined);
+        }
         if (_isEs) {
             // ES: strip 'Aquí ' prefix and '.' suffix, join with Spanish connectives.
             const CONNECTOR_TEXT_ES = { A: ', y ', B: ', pero ', C: ', y también ' };
@@ -1633,6 +1730,11 @@ class ReadingFormatter {
 
     // 絶対原則「confidenceをUIに出さない」を優先し数値は出さない（注記(2)参照）
     _getConfidenceText(confidence) {
+        if (typeof window !== 'undefined' && window.I18N && I18N.lang === 'sv') {
+            if (confidence >= 0.95) return 'Analysen är stabil.';
+            if (confidence >= 0.80) return 'Det är den allmänna tolkningen.';
+            return 'Flera tolkningar är möjliga.';
+        }
         const _es = typeof window !== 'undefined' && window.I18N && I18N.lang === 'es';
         if (confidence >= 0.95) return _es ? 'El análisis es estable.' : '解析は安定しています。';
         if (confidence >= 0.80) return _es ? 'Es la interpretación general.' : '一般的な解釈です。';

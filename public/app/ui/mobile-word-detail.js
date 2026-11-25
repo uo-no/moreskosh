@@ -302,7 +302,7 @@ async function _fillMvvReadingSlot(words, idx) {
 
     const _reText = _resolveReferentEvidenceText(AppState.inspect.data?.referentEvidence);
     const referentEvidenceHTML = _reText
-        ? `<div class="rn-referent-evidence" data-study-section="referent">${(window.I18N && I18N.lang === 'es') ? `Esta palabra se refiere a "${_escH(_reText)}".` : (window.I18N && I18N.contentLang === 'en') ? `This word refers to "${_escH(_reText)}".` : `この語は「${_escH(_reText)}」を指しています。`}</div>`
+        ? `<div class="rn-referent-evidence" data-study-section="referent">${(window.I18N && I18N.lang === 'sv') ? `Det här ordet syftar på ”${_escH(_reText)}”.` : (window.I18N && I18N.lang === 'es') ? `Esta palabra se refiere a "${_escH(_reText)}".` : (window.I18N && I18N.contentLang === 'en') ? `This word refers to "${_escH(_reText)}".` : `この語は「${_escH(_reText)}」を指しています。`}</div>`
         : '';
     const _subjText = _resolveSubjrefEvidenceText(AppState.inspect.data?.subjrefEvidence);
     const _subjEvidenceText = _subjText

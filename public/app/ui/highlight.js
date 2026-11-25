@@ -839,10 +839,11 @@ async function _hlRenderHighlightList(app) {
             const titleText = `${bookName} ${h.chapter}:${h.verse}`;
             const isEnHL = window.I18N && I18N.contentLang === 'en';
             const isEsHL = window.I18N && I18N.lang === 'es';
+            const isSvHL = window.I18N && I18N.lang === 'sv';
             const rangeLabel = h.tokenStart == null ? _T('ui.wholeVerse', '節全体') :
                 (h.tokenStart === h.tokenEnd
-                    ? (isEsHL ? `Palabra ${h.tokenStart}` : isEnHL ? `Word ${h.tokenStart}` : `語${h.tokenStart}`)
-                    : (isEsHL ? `Palabras ${h.tokenStart}–${h.tokenEnd}` : isEnHL ? `Words ${h.tokenStart}–${h.tokenEnd}` : `語${h.tokenStart}–${h.tokenEnd}`));
+                    ? (isSvHL ? `Ord ${h.tokenStart}` : isEsHL ? `Palabra ${h.tokenStart}` : isEnHL ? `Word ${h.tokenStart}` : `語${h.tokenStart}`)
+                    : (isSvHL ? `Ord ${h.tokenStart}–${h.tokenEnd}` : isEsHL ? `Palabras ${h.tokenStart}–${h.tokenEnd}` : isEnHL ? `Words ${h.tokenStart}–${h.tokenEnd}` : `語${h.tokenStart}–${h.tokenEnd}`));
             const href = `index.html?book=${encodeURIComponent(h.book)}&ch=${encodeURIComponent(h.chapter)}&verse=${encodeURIComponent(h.verse)}${h.tokenStart != null ? '&hltoken=' + Number(h.tokenStart) : ''}`;
             const verseText = chData[`${h.book}:${h.chapter}`]?.verses?.[String(h.verse)] || '';
             const previewHtml = verseText ? `<div class="list-item-preview">${_escH(verseText)}</div>` : '';

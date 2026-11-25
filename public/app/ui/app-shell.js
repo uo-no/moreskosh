@@ -156,7 +156,7 @@ function _morphFull() {
 }
 function _personText(c) {
     return _morphFull().person[c]
-        || ((window.I18N && I18N.lang === 'es') ? c + 'ª persona' : (window.I18N && I18N.contentLang === 'en') ? c + ' person' : c + '人称');
+        || ((window.I18N && I18N.lang === 'sv') ? c + ':a person' : (window.I18N && I18N.lang === 'es') ? c + 'ª persona' : (window.I18N && I18N.contentLang === 'en') ? c + ' person' : c + '人称');
 }
 
 function _resolveLemmaId(strong) {
