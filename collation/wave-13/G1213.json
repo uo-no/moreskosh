@@ -1,0 +1,282 @@
+{
+ "strong": "G1213",
+ "lemma": "δηλόω",
+ "nt_freq": 7,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 3:13",
+   "form": "δηλώσει",
+   "morph": "V-FAI-3S",
+   "gloss_en": "disclose",
+   "gloss_ja": "示す",
+   "verse": "ἑκάστου τὸ ἔργον φανερὸν γενήσεται, ἡ γὰρ ἡμέρα δηλώσει· ὅτι ἐν πυρὶ ἀποκαλύπτεται, καὶ ἑκάστου τὸ ἔργον ὁποῖόν ἐστιν τὸ πῦρ αὐτὸ δοκιμάσει."
+  },
+  {
+   "ref": "1CO 1:11",
+   "form": "ἐδηλώθη",
+   "morph": "V-API-3S",
+   "gloss_en": "reported",
+   "gloss_ja": "示す",
+   "verse": "ἐδηλώθη γάρ μοι περὶ ὑμῶν, ἀδελφοί μου, ὑπὸ τῶν Χλόης ὅτι ἔριδες ἐν ὑμῖν εἰσιν."
+  },
+  {
+   "ref": "1PE 1:11",
+   "form": "ἐδήλου",
+   "morph": "V-IAI-3S",
+   "gloss_en": "indicating",
+   "gloss_ja": "示す",
+   "verse": "ἐραυνῶντες εἰς τίνα ἢ ποῖον καιρὸν ἐδήλου τὸ ἐν αὐτοῖς πνεῦμα Χριστοῦ προμαρτυρόμενον τὰ εἰς Χριστὸν παθήματα καὶ τὰς μετὰ ταῦτα δόξας·"
+  },
+  {
+   "ref": "2PE 1:14",
+   "form": "ἐδήλωσέν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "made clear",
+   "gloss_ja": "示す",
+   "verse": "εἰδὼς ὅτι ταχινή ἐστιν ἡ ἀπόθεσις τοῦ σκηνώματός μου, καθὼς καὶ ὁ κύριος ἡμῶν Ἰησοῦς Χριστὸς ἐδήλωσέν μοι·"
+  },
+  {
+   "ref": "COL 1:8",
+   "form": "δηλώσας",
+   "morph": "V-AAP-NSM",
+   "gloss_en": "told",
+   "gloss_ja": "示す",
+   "verse": "ὁ καὶ δηλώσας ἡμῖν τὴν ὑμῶν ἀγάπην ἐν πνεύματι."
+  },
+  {
+   "ref": "HEB 12:27",
+   "form": "δηλοῖ",
+   "morph": "V-PAI-3S",
+   "gloss_en": "indicates",
+   "gloss_ja": "示す",
+   "verse": "τὸ δὲ Ἔτι ἅπαξ δηλοῖ τῶν σαλευομένων μετάθεσιν ὡς πεποιημένων, ἵνα μείνῃ τὰ μὴ σαλευόμενα."
+  },
+  {
+   "ref": "HEB 9:8",
+   "form": "δηλοῦντος",
+   "morph": "V-PAP-GSN",
+   "gloss_en": "making ~ clear",
+   "gloss_ja": "示す",
+   "verse": "τοῦτο δηλοῦντος τοῦ πνεύματος τοῦ ἁγίου, μήπω πεφανερῶσθαι τὴν τῶν ἁγίων ὁδὸν ἔτι τῆς πρώτης σκηνῆς ἐχούσης στάσιν,"
+  }
+ ],
+ "lxx": {
+  "total": 37,
+  "works": {
+   "Exodus": 2,
+   "Deuteronomium": 1,
+   "Josue": 1,
+   "Regnorum i": 1,
+   "Regnorum iii": 1,
+   "Paralipomenon ii sive Chronicon ii": 1,
+   "Esdras i": 1,
+   "Esther": 1,
+   "Tobias": 1,
+   "Machabaeorum ii": 5,
+   "Machabaeorum iv": 1,
+   "Psalmi": 3,
+   "Isaias": 1,
+   "Jeremias": 1,
+   "Daniel": 16
+  },
+  "representatives": [
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "2.6",
+    "form": "δηλώσατέ",
+    "postag": "v2pama---",
+    "sentence": "δηλώσατέ μοι τὸ ἐνύπνιον καὶ κρίνατε."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "4.17",
+    "form": "δηλώσει",
+    "postag": "v3sfia---",
+    "sentence": "ἀσεβεῖν γὰρ εἰς τοὺς θείους νόμους οὐ ῥᾴδιον, ἀλλὰ ταῦτα ὁ ἀκόλουθος καιρὸς δηλώσει."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "147.9",
+    "form": "ἐδήλωσεν",
+    "postag": "v3saia---",
+    "sentence": "οὐκ ἐποίησεν οὕτως παντὶ ἔθνει καὶ τὰ κρίματα αὐτοῦ οὐκ ἐδήλωσεν αὐτοῖς."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "33.12",
+    "form": "ἐδήλωσάς",
+    "postag": "v2saia---",
+    "sentence": "ἀνάγαγε τὸν λαὸν τοῦτον, σὺ δὲ οὐκ ἐδήλωσάς μοι, ὃν συναποστελεῖς μετ’ ἐμοῦ ·"
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "33.10",
+    "form": "δηλώσουσι",
+    "postag": "v3pfia---",
+    "sentence": "δηλώσουσι τὰ δικαιώματά σου τῷ Ἰακὼβ καὶ τὸν νόμον σου τῷ Ἰσραήλ ·"
+   },
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "4.7",
+    "form": "δηλώσεις",
+    "postag": "v2sfia---",
+    "sentence": "καὶ σὺ δηλώσεις τῷ υἱῷ σου λέγων ·"
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "3.21",
+    "form": "δηλωθῆναι",
+    "postag": "v--anp---",
+    "sentence": "καὶ προσέθετο Κύριος δηλωθῆναι ἐν Σηλώμ, ὅτι ἀπεκαλύφθη Κύριος πρὸς Σαμουήλ ·"
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "8.36",
+    "form": "δηλώσεις",
+    "postag": "v2sfia---",
+    "sentence": "ὅτι δηλώσεις αὐτοῖς τὴν ὁδὸν τὴν ἀγαθὴν πορεύεσθαι ἐν αὐτῇ καὶ δώσεις ὑετὸν ἐπὶ τὴν γῆν, ἣν ἔδωκας τῷ λαῷ σου ἐν κληρονομίᾳ."
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "6.27",
+    "form": "δηλώσεις",
+    "postag": "v2sfia---",
+    "sentence": "ἐν τῷ συσχεθῆναι τὸν οὐρανὸν καὶ μὴ γενέσθαι ὑετόν, ὅτι ἁμαρτήσονταί σοι, καὶ προσεύξονται εἰς τὸν τόπον τοῦτον καὶ αἰνέσουσι τὸ ὄνομά σου καὶ ἀπὸ τῶν ἁμαρτιῶν αὐτῶν ἐπιστρέψουσιν, ὅτι ταπεινώσεις αὐτούς, καὶ σὺ εἰσακούσῃ ἐκ τοῦ οὐρανοῦ καὶ ἵλεως ἔσῃ ταῖς ἁμαρτίαις τῶν παίδων σου καὶ τοῦ λαοῦ σου Ἰσραήλ, ὅτι δηλώσεις αὐτοῖς τὴν ὁδὸν τὴν ἀγαθήν, ἐν ᾗ πορεύσονται ἐν αὐτῇ, καὶ δώσεις ὑετὸν ἐπὶ τὴν γῆν σου, ἣν ἔδωκας τῷ λαῷ σου εἰς κληρονομίαν."
+   },
+   {
+    "work_code": "1ES",
+    "work_ja": "エズラ記（ギリシャ語）",
+    "work_src": "Esdras i",
+    "ref": "3.15",
+    "form": "δηλώσουσι",
+    "postag": "v3pfia---",
+    "sentence": "καλέσατε τοὺς νεανίσκους, καὶ αὐτοὶ δηλώσουσι τοὺς λόγους ἑαυτῶν ·"
+   },
+   {
+    "work_code": "EST",
+    "work_ja": "エステル記",
+    "work_src": "Esther",
+    "ref": "2.22",
+    "form": "ἐδηλώθη",
+    "postag": "v3saip---",
+    "sentence": "καὶ ἐδηλώθη Μαρδοχαίῳ ὁ λόγος, καὶ ἐσήμανεν Ἐσθήρ, καὶ αὐτὴ ἐνεφάνισε τῷ βασιλεῖ τὰ τῆς ἐπιβουλῆς ὁ δὲ βασιλεὺς ἤτασε τοὺς δύο εὐνούχους καὶ ἐκρέμασεν αὐτούς ·"
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "10.8",
+    "form": "δηλώσουσιν",
+    "postag": "v3pfia---",
+    "sentence": "μεῖνον παρ’ ἐμοί, κα-κἀγὼ ἐξαποστελῶ πρὸς τὸν πατέρα σου καὶ δηλώσουσιν αὐτῷ τὰ κατὰ σέ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 43,
+  "works": {
+   "Barnabas": 2,
+   "1 Clement": 2,
+   "2 Clement": 1,
+   "Hermas, Pastor": 32,
+   "Ignatius, Letters": 4,
+   "Martyrdom of Polycarp": 2
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "23.4.1",
+    "form": "δήλωσον",
+    "postag": "v2sama---",
+    "sentence": "κύριε, ἔτι μοι τοῦτο δήλωσον."
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "4.10.2",
+    "form": "δηλώσατε",
+    "postag": "v2pama---",
+    "sentence": "περὶ τῶν προελθόντων με ἀπὸ Συρίας εἰς Ῥώμην εἰς δόξαν τοῦ θεοῦ πιστεύω ὑμᾶς ἐπεγνωκέναι, οἷς καὶ δηλώσατε ἐγγύς με ὄντα."
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "9.8",
+    "form": "δηλοῖ",
+    "postag": "v3spia---",
+    "sentence": "δηλοῖ οὖν τὸν μὲν Ἰησοῦν ἐν τοῖς δυσὶν γράμμασιν, καὶ ἐν τῷ ἑνὶ τὸν σταυρόν."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "24.3",
+    "form": "δηλοῦσιν",
+    "postag": "v3ppia---",
+    "sentence": "ἡμέρα καὶ νὺξ ἀνάστασιν ἡμῖν δηλοῦσιν ·"
+   },
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "20.1",
+    "form": "δηλωθῆναι",
+    "postag": "v--anp---",
+    "sentence": "ὑμεῖς μὲν οὖν ἠξιώσατε διὰ πλειόνων δηλωθῆναι ὑμῖν τὰ γενόμενα, ἡμεῖς δὲ κατὰ τὸ παρὸν ἐπὶ κεφαλαίῳ μεμηνύκαμεν διὰ τοῦ ἀδελφοῦ ἡμῶν Μαρκίωνος."
+   },
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "14.3",
+    "form": "δηλοῦσα",
+    "postag": "v-sppafn-",
+    "sentence": "ἡ ἐκκλησία δὲ πνευματικὴ οὖσα ἐφανερώθη ἐν τῇ σαρκὶ Χριστοῦ, δηλοῦσα ἡμῖν, ὅτι ἐάν τις ἡμῶν τηρήσῃ αὐτὴν ἐν τῇ σαρκὶ καὶ μὴ φθείρῃ, ἀπολήψεται αὐτὴν ἐν τῷ πνεύματι τῷ ἁγίῳ ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "22.4.2",
+    "form": "δηλωθήσεται",
+    "postag": "v3sfip---",
+    "sentence": "ἐὰν γάρ σοι δέῃ δηλωθῆναι, δηλωθήσεται."
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "6.7.2",
+    "form": "δεδήλωται",
+    "postag": "v3srim---",
+    "sentence": "πρέπον ἐστὶν ἀπέχεσθαι τῶν τοιούτων καὶ μή-τε κατ’ ἰδίαν περὶ αὐτῶν λαλεῖν μή-τε κοινῇ, προσέχειν δὲ τοῖς προφήταις, ἐξαιρέτως δὲ τῷ εὐαγγελίῳ, ἐν ᾧ τὸ πάθος ἡμῖν δεδήλωται καὶ ἡ ἀνάστασις τετελείωται."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "7   δηλόω, -ῶ     [in LXX chiefly for ידע ;]     to make plain, declare: c. acc., I Co 3:13, Col 1:8, He 9:8 12:27; c. dat. pers., II Pe 1:14; c. dat. pers., seq. περί (pass.), I Co 1:11; seq. εἰς, I Pe 1:11.†   SYN.: ἐμφανίζω, to make manifest, render visible to the sight; δ. to render evident to the mind."
+}

@@ -1,0 +1,297 @@
+{
+ "strong": "G1567",
+ "lemma": "ἐκζητέω",
+ "nt_freq": 7,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1PE 1:10",
+   "form": "ἐξεζήτησαν",
+   "morph": "V-AAI-3P",
+   "gloss_en": "searched",
+   "gloss_ja": "求める",
+   "verse": "Περὶ ἧς σωτηρίας ἐξεζήτησαν καὶ ἐξηραύνησαν προφῆται οἱ περὶ τῆς εἰς ὑμᾶς χάριτος προφητεύσαντες,"
+  },
+  {
+   "ref": "ACT 15:17",
+   "form": "ἐκζητήσωσιν",
+   "morph": "V-AAS-3P",
+   "gloss_en": "seek",
+   "gloss_ja": "求める",
+   "verse": "ὅπως ἂν ἐκζητήσωσιν οἱ κατάλοιποι τῶν ἀνθρώπων τὸν κύριον, καὶ πάντα τὰ ἔθνη ἐφ’ οὓς ἐπικέκληται τὸ ὄνομά μου ἐπ’ αὐτούς, λέγει κύριος ποιῶν ταῦτα"
+  },
+  {
+   "ref": "HEB 12:17",
+   "form": "ἐκζητήσας",
+   "morph": "V-AAP-NSM",
+   "gloss_en": "sought",
+   "gloss_ja": "求める",
+   "verse": "ἴστε γὰρ ὅτι καὶ μετέπειτα θέλων κληρονομῆσαι τὴν εὐλογίαν ἀπεδοκιμάσθη, μετανοίας γὰρ τόπον οὐχ εὗρεν, καίπερ μετὰ δακρύων ἐκζητήσας αὐτήν."
+  },
+  {
+   "ref": "HEB 11:6",
+   "form": "ἐκζητοῦσιν",
+   "morph": "V-PAP-DPM",
+   "gloss_en": "seek",
+   "gloss_ja": "求める",
+   "verse": "χωρὶς δὲ πίστεως ἀδύνατον εὐαρεστῆσαι, πιστεῦσαι γὰρ δεῖ τὸν προσερχόμενον τῷ θεῷ ὅτι ἔστιν καὶ τοῖς ἐκζητοῦσιν αὐτὸν μισθαποδότης γίνεται."
+  },
+  {
+   "ref": "LUK 11:50",
+   "form": "ἐκζητηθῇ",
+   "morph": "V-APS-3S",
+   "gloss_en": "charged against",
+   "gloss_ja": "求める",
+   "verse": "ἵνα ἐκζητηθῇ τὸ αἷμα πάντων τῶν προφητῶν τὸ ἐκκεχυμένον ἀπὸ καταβολῆς κόσμου ἀπὸ τῆς γενεᾶς ταύτης,"
+  },
+  {
+   "ref": "LUK 11:51",
+   "form": "ἐκζητηθήσεται",
+   "morph": "V-FPI-3S",
+   "gloss_en": "required",
+   "gloss_ja": "求める",
+   "verse": "ἀπὸ αἵματος Ἅβελ ἕως αἵματος Ζαχαρίου τοῦ ἀπολομένου μεταξὺ τοῦ θυσιαστηρίου καὶ τοῦ οἴκου· ναί, λέγω ὑμῖν, ἐκζητηθήσεται ἀπὸ τῆς γενεᾶς ταύτης."
+  },
+  {
+   "ref": "ROM 3:11",
+   "form": "ἐκζητῶν",
+   "morph": "V-PAP-NSM",
+   "gloss_en": "seeks",
+   "gloss_ja": "求める",
+   "verse": "οὐκ ἔστιν ὁ συνίων, οὐκ ἔστιν ὁ ἐκζητῶν τὸν θεόν·"
+  }
+ ],
+ "lxx": {
+  "total": 133,
+  "works": {
+   "Genesis": 4,
+   "Exodus": 2,
+   "Leviticus": 1,
+   "Deuteronomium": 7,
+   "Josue": 2,
+   "Regnorum i": 1,
+   "Regnorum ii": 1,
+   "Regnorum iii": 2,
+   "Regnorum iv": 2,
+   "Paralipomenon i sive Chronicon i": 1,
+   "Paralipomenon ii sive Chronicon ii": 17,
+   "Esdras ii": 4,
+   "Esther": 1,
+   "Machabaeorum i": 6,
+   "Psalmi": 33,
+   "Proverbia": 4,
+   "Ecclesiastes": 1,
+   "Sapientia Salomonis": 1,
+   "Ecclesiasticus sive Siracides": 7,
+   "Osee": 3,
+   "Amos": 5,
+   "Michaeas": 1,
+   "Joel": 1,
+   "Zacharias": 2,
+   "Malachias": 1,
+   "Isaias": 6,
+   "Jeremias": 3,
+   "Baruch": 1,
+   "Epistula Jeremiae": 1,
+   "Ezechiel": 10,
+   "Daniel": 2
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "26.8",
+    "form": "ἐξεζήτησέ",
+    "postag": "v3saia---",
+    "sentence": "ἐξεζήτησέ σε τὸ πρόσωπόν μου ·"
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "28.23",
+    "form": "ἐκζητήσω",
+    "postag": "v1sfia---",
+    "sentence": "ἐκζητήσω τοὺς θεοὺς Δαμασκοῦ τοὺς τύπτοντάς με ·"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "34.6",
+    "form": "ἐκζητῶν",
+    "postag": "v-sppamn-",
+    "sentence": "καὶ διεσπάρη τά πρόβατά μου ἐν παντὶ ὄρει καὶ ἐπὶ πᾶν βουνὸν ὑψηλὸν καὶ ἐπὶ προσώπου πάσης τῆς γῆς διεσπάρη, καὶ οὐκ ἦν ὁ ἐκζητῶν οὐ-δὲ ὁ ἀποστρέφων."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "23.22",
+    "form": "ἐκζητήσει",
+    "postag": "v3sfia---",
+    "sentence": "ἐὰν δὲ εὔξῃ εὐχὴν Κυρίῳ τῷ Θεῷ σου, οὐ χρονιεῖς ἀποδοῦναι αὐτήν, ὅτι ἐκζητῶν ἐκζητήσει Κύριος ὁ Θεός σου παρὰ σοῦ, καὶ ἔσται ἐν σοὶ ἁμαρτία ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "51.21",
+    "form": "ἐκζητῆσαι",
+    "postag": "v--ana---",
+    "sentence": "καὶ ἡ κοιλία μου ἐταράχθη τοῦ ἐκζητῆσαι αὐτήν ·"
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "7.15",
+    "form": "ἐκζητήσομεν",
+    "postag": "v1pfia---",
+    "sentence": "οὐκ ἐκζητήσομεν ὑμῖν κακὸν καὶ τοῖς φίλοις ὑμῶν."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "8.19",
+    "form": "ἐκζητοῦσι",
+    "postag": "v3ppia---",
+    "sentence": "τί ἐκζητοῦσι περὶ τῶν ζώντων τοὺς νεκρούς;"
+   },
+   {
+    "work_code": "AMO",
+    "work_ja": "アモス書",
+    "work_src": "Amos",
+    "ref": "5.4",
+    "form": "ἐκζητήσατέ",
+    "postag": "v2pama---",
+    "sentence": "ἐκζητήσατέ με, καὶ ζήσεσθε ·"
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "42.22",
+    "form": "ἐκζητεῖται",
+    "postag": "v3spim---",
+    "sentence": "καὶ ἰδοὺ τὸ αἷμα αὐτοῦ ἐκζητεῖται."
+   },
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "4.2",
+    "form": "ἐκζητοῦμεν",
+    "postag": "v1ppia---",
+    "sentence": "οἰκοδομήσομεν μεθ’ ὑμῶν, ὅτι ὡς ὑμεῖς ἐκζητοῦμεν τῷ Θεῷ ἡμῶν."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "27.21α",
+    "form": "ἐκζητεῖ",
+    "postag": "v3spia---",
+    "sentence": "καρδία ἀνόμου ἐκζητεῖ κακά, καρδία δὲ εὐθὴς ἐκζητεῖ γνῶσιν."
+   },
+   {
+    "work_code": "HOS",
+    "work_ja": "ホセア書",
+    "work_src": "Osee",
+    "ref": "7.10",
+    "form": "ἐξεζήτησαν",
+    "postag": "v3paia---",
+    "sentence": "καὶ ταπεινωθήσεται ἡ ὕβρις Ἰσραὴλ εἰς πρόσωπον αὐτοῦ, καὶ οὐκ ἐπέστρεψαν πρὸς Κύριον τὸν Θεὸν αὐτῶν καὶ οὐκ ἐξεζήτησαν αὐτὸν ἐν πᾶσι τούτοις."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 16,
+  "works": {
+   "Barnabas": 7,
+   "1 Clement": 4,
+   "Didache": 1,
+   "Hermas, Pastor": 3,
+   "Polycarp, To the Philippians": 1
+  },
+  "representatives": [
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "4.1",
+    "form": "ἐκζητεῖν",
+    "postag": "v--pna---",
+    "sentence": "δεῖ οὖν ἡμᾶς περὶ τῶν ἐνεστώτων ἐπιπολὺ ἐραυνῶντας ἐκζητεῖν τὰ δυνάμενα ἡμᾶς σώζειν."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "14.5",
+    "form": "ἐξεζήτησα",
+    "postag": "v1saia---",
+    "sentence": "καὶ παρῆλθον, καὶ ἰδοὺ οὐκ ἦν, καὶ ἐξεζήτησα τὸν τόπον αὐτοῦ, καὶ οὐχ εὗρον."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "3.3.5",
+    "form": "ἐκζητῶν",
+    "postag": "v-sppamn-",
+    "sentence": "ἐκζητῶν οὖν εὑρίσκεις τὴν ἀλήθειαν."
+   },
+   {
+    "work_code": "DID",
+    "work_ja": "ディダケー",
+    "work_src": "Didache",
+    "ref": "4.2",
+    "form": "ἐκζητήσεις",
+    "postag": "v2sfia---",
+    "sentence": "ἐκζητήσεις δὲ καθ’ ἡμέραν τὰ πρόσωπα τῶν ἁγίων, ἵνα ἐπαναπαῇς τοῖς λόγοις αὐτῶν."
+   },
+   {
+    "work_code": "PPH",
+    "work_ja": "ポリュカルポスのピリピ書簡",
+    "work_src": "Polycarp, To the Philippians",
+    "ref": "2.1",
+    "form": "ἐκζητήσει",
+    "postag": "v3sfia---",
+    "sentence": "ᾧ ὑπετάγη τὰ πάντα ἐπουράνια καὶ ἐπίγεια, ᾧ πᾶσα πνοὴ λατρεύει, ὃς ἔρχεται κριτὴς ζώντων καὶ νεκρῶν, οὖ τὸ αἷμα ἐκζητήσει ὁ θεὸς ἀπὸ τῶν ἀπειθούντων αὐτῷ."
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "21.6",
+    "form": "ἐκζητοῦντες",
+    "postag": "v-pppamn-",
+    "sentence": "γίνεσθε δὲ θεοδίδακτοι, ἐκζητοῦντες τί ζητεῖ κύριος ἀφ’ ὑμῶν, καὶ ποιεῖτε ἵνα εὑρεθῆτε ἐν ἡμέρᾳ κρίσεως."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "8.4",
+    "form": "ἐκζητήσατε",
+    "postag": "v2pama---",
+    "sentence": "παύσασθε ἀπὸ τῶν πονηριῶν ὑμῶν, μάθετε καλὸν ποιεῖν, ἐκζητήσατε κρίσιν, ῥύσασθε ἀδικούμενον, κρίνατε ὀρφανῷ καὶ δικαιώσατε χήρᾳ ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "3.3.5",
+    "form": "ἐκζητεῖς",
+    "postag": "v2spia---",
+    "sentence": "εἶπά σοι, φησίν, καὶ τὸ πρότερον, καὶ ἐκζητεῖς ἐπιμελῶς ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "7   † ἐκ-ζητέω, -ῶ     [in LXX chiefly for דָּרַשׁ, also for נָצַר, בָּקַשׁ, etc. ;]      to seek out or after, search for: c. acc pers. (I Mac 9:26); fig., τ. κύριον, θεόν (cf. Ps 14:2, Am 5:4, al.), Ac 15:17, Ro 3:11, He 11:6; εὐλογίαν, He 12:17; ἐξεζήτησαν κ. ἐξηραύνησαν (as in I Mac l.c.), sought and searched out: I Pe 1:10.      As in II Ki 4:11, Ez 3:18, 20 al. (דָּרַשׁ), to demand, require: Lk 11:50, 51 †"
+}

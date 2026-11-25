@@ -1,0 +1,286 @@
+{
+ "strong": "G2932",
+ "lemma": "κτάομαι",
+ "nt_freq": 7,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1TH 4:4",
+   "form": "κτᾶσθαι",
+   "morph": "V-PNN",
+   "gloss_en": "control",
+   "gloss_ja": "得る",
+   "verse": "εἰδέναι ἕκαστον ὑμῶν τὸ ἑαυτοῦ σκεῦος κτᾶσθαι ἐν ἁγιασμῷ καὶ τιμῇ,"
+  },
+  {
+   "ref": "ACT 1:18",
+   "form": "ἐκτήσατο",
+   "morph": "V-ADI-3S",
+   "gloss_en": "acquired",
+   "gloss_ja": "得る",
+   "verse": "Οὗτος μὲν οὖν ἐκτήσατο χωρίον ἐκ μισθοῦ τῆς ἀδικίας, καὶ πρηνὴς γενόμενος ἐλάκησεν μέσος, καὶ ἐξεχύθη πάντα τὰ σπλάγχνα αὐτοῦ."
+  },
+  {
+   "ref": "ACT 22:28",
+   "form": "ἐκτησάμην",
+   "morph": "V-ADI-1S",
+   "gloss_en": "acquired",
+   "gloss_ja": "得る",
+   "verse": "ἀπεκρίθη δὲ ὁ χιλίαρχος· Ἐγὼ πολλοῦ κεφαλαίου τὴν πολιτείαν ταύτην ἐκτησάμην. ὁ δὲ Παῦλος ἔφη· Ἐγὼ δὲ καὶ γεγέννημαι."
+  },
+  {
+   "ref": "ACT 8:20",
+   "form": "κτᾶσθαι",
+   "morph": "V-PNN",
+   "gloss_en": "obtain",
+   "gloss_ja": "得る",
+   "verse": "Πέτρος δὲ εἶπεν πρὸς αὐτόν· Τὸ ἀργύριόν σου σὺν σοὶ εἴη εἰς ἀπώλειαν ὅτι τὴν δωρεὰν τοῦ θεοῦ ἐνόμισας διὰ χρημάτων κτᾶσθαι."
+  },
+  {
+   "ref": "LUK 18:12",
+   "form": "κτῶμαι",
+   "morph": "V-PNI-1S",
+   "gloss_en": "get",
+   "gloss_ja": "得る",
+   "verse": "νηστεύω δὶς τοῦ σαββάτου, ἀποδεκατῶ πάντα ὅσα κτῶμαι."
+  },
+  {
+   "ref": "LUK 21:19",
+   "form": "κτήσασθε",
+   "morph": "V-AMM-2P",
+   "gloss_en": "gain",
+   "gloss_ja": "得る",
+   "verse": "ἐν τῇ ὑπομονῇ ὑμῶν κτήσασθε τὰς ψυχὰς ὑμῶν."
+  },
+  {
+   "ref": "MAT 10:9",
+   "form": "κτήσησθε",
+   "morph": "V-ADS-2P",
+   "gloss_en": "acquire",
+   "gloss_ja": "得る",
+   "verse": "μὴ κτήσησθε χρυσὸν μηδὲ ἄργυρον μηδὲ χαλκὸν εἰς τὰς ζώνας ὑμῶν,"
+  }
+ ],
+ "lxx": {
+  "total": 99,
+  "works": {
+   "Genesis": 14,
+   "Exodus": 2,
+   "Leviticus": 10,
+   "Deuteronomium": 2,
+   "Josue": 1,
+   "Ruth": 6,
+   "Regnorum ii": 5,
+   "Regnorum iii": 1,
+   "Regnorum iv": 2,
+   "Esdras ii": 2,
+   "Judith": 1,
+   "Machabaeorum ii": 1,
+   "Psalmi": 3,
+   "Odae": 3,
+   "Proverbia": 11,
+   "Ecclesiastes": 1,
+   "Ecclesiasticus sive Siracides": 13,
+   "Amos": 1,
+   "Zacharias": 1,
+   "Isaias": 4,
+   "Jeremias": 10,
+   "Epistula Jeremiae": 1,
+   "Ezechiel": 4
+  },
+  "representatives": [
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "4.1",
+    "form": "ἐκτησάμην",
+    "postag": "v1saim---",
+    "sentence": "ἐκτησάμην ἄνθρωπον διά τοῦ Θεοῦ."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "33.31",
+    "form": "ἐκτήσω",
+    "postag": "v2saim---",
+    "sentence": "εἰ ἔστι σοι οἰκέτης, ἔστω ὡς σύ, ὅτι ἐν αἵματι ἐκτήσω αὐτόν."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "17.16",
+    "form": "κτήσασθαι",
+    "postag": "v--anm---",
+    "sentence": "κτήσασθαι γὰρ σοφίαν ἀκάρδιος οὐ δυνήσεται."
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "22.11",
+    "form": "κτήσηται",
+    "postag": "v3sasm---",
+    "sentence": "ἐὰν δὲ ἱερεὺς κτήσηται ψυχὴν ἔγκτητον ἀργυρίου, οὗτος φάγεται ἐκ τῶν ἄρτων αὐτοῦ ·"
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "39.25",
+    "form": "κτῆσαι",
+    "postag": "v2samm---",
+    "sentence": "κτῆσαι σεαυτῷ τὸν ἀγρὸν ἀργυρίου ·"
+   },
+   {
+    "work_code": "RUT",
+    "work_ja": "ルツ記",
+    "work_src": "Ruth",
+    "ref": "4.9",
+    "form": "κέκτημαι",
+    "postag": "v1srim---",
+    "sentence": "μάρτυρες ὑμεῖς σήμερον, ὅτι κέκτημαι πάντα τὰ τοῦ Ἐλιμέλεχ καὶ πάντα, ὅσα ὑπάρχει τῷ Χελαιὼν καὶ τῷ Μααλὼν ἐκ χειρὸς Νωεμίν ·"
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "24.24",
+    "form": "ἐκτήσατο",
+    "postag": "v3saim---",
+    "sentence": "καὶ ἐκτήσατο Δαυὶδ τὸν ἅλωνα καὶ τοὺς βόας ἐν ἀργυρίῳ σίκλων πεντήκοντα."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "1.3",
+    "form": "κτησάμενον",
+    "postag": "v-sapmma-",
+    "sentence": "ἔγνω βοῦς τὸν κτησάμενον καὶ ὄνος τὴν φάτνην τοῦ κυρίου αὐτοῦ ·"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "7.12",
+    "form": "κτώμενος",
+    "postag": "v-sppmmn-",
+    "sentence": "ὁ κτώμενος μὴ χαιρέτω, καὶ ὁ πωλῶν μὴ θρηνείτω ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "73.2",
+    "form": "ἐκτήσω",
+    "postag": "v2saim---",
+    "sentence": "μνήσθητι τῆς συναγωγῆς σου, ἧς ἐκτήσω ἀπ’ ἀρχῆς ·"
+   },
+   {
+    "work_code": "ODE",
+    "work_ja": "頌歌（オード）",
+    "work_src": "Odae",
+    "ref": "2.6",
+    "form": "ἐκτήσατό",
+    "postag": "v3saim---",
+    "sentence": "οὐκ αὐτὸς οὗτός σου πατὴρ ἐκτήσατό σε καὶ ἐποίησέν σε καὶ ἔκτισέν σε;"
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "21.2",
+    "form": "κτήσῃ",
+    "postag": "v2sasm---",
+    "sentence": "ἐὰν κτήσῃ παῖδα Ἑβραῖον, ἓξ ἔτη δουλεύσει σοι ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 10,
+  "works": {
+   "2 Clement": 1,
+   "Ignatius, Letters": 9
+  },
+  "representatives": [
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "1.14.2",
+    "form": "κεκτημένος",
+    "postag": "v-srpmmn-",
+    "sentence": "οὐδεὶς πίστιν ἐπαγγελλόμενος ἁμαρτάνει, οὐ-δὲ ἀγάπην κεκτημένος μισεῖ."
+   },
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "5.7",
+    "form": "κτήσασθαι",
+    "postag": "v--anm---",
+    "sentence": "ἐν γὰρ τῷ ἐπιθυμεῖν ἡμᾶς κτήσασθαι ταῦτα ἀποπίπτομεν τῆς ὁδοῦ τῆς δικαίας."
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "1.1.3",
+    "form": "κεκτῆσθαι",
+    "postag": "v--rnm---",
+    "sentence": "εὐλογητὸς γὰρ ὁ χαρισάμενος ὑμῖν ἀξίοις οὖσι τοιοῦτον ἐπίσκοπον κεκτῆσθαι."
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "5.6.3",
+    "form": "κτήσωνται",
+    "postag": "v3pasm---",
+    "sentence": "καὶ πᾶσι δέ, ἐν οἷς ἐλάλησα, εὔχομαι, ἵνα μὴ εἰς μαρτύριον αὐτὸ κτήσωνται."
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "2.15.1",
+    "form": "κεκτημένοι",
+    "postag": "v-prpmmn-",
+    "sentence": "ἔρρωσθε ἐν ὁμονοίᾳ θεοῦ, κεκτημένοι ἀδιάκριτον πνεῦμα, ὅς ἐστιν Ἰησοῦς Χριστός."
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "1.1.1",
+    "form": "κέκτησθε",
+    "postag": "v2prim---",
+    "sentence": "ἀποδεξάμενος ἐν θεῷ τὸ πολυαγάπητόν σου ὄνομα, ὃ κέκτησθε φύσει δικαίᾳ κατὰ πίστιν καὶ ἀγάπην ἐν Χριστῷ Ἰησοῦ, τῷ σωτῆρι ἡμῶν ·"
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "1.15.2",
+    "form": "κεκτημένος",
+    "postag": "v-srpmmn-",
+    "sentence": "ὁ λόγον Ἰησοῦ κεκτημένος ἀληθῶς δύναται καὶ τῆς ἡσυχίας αὐτοῦ ἀκούειν, ἵνα τέλειος ᾖ, ἵνα δι’ ὦν λαλεῖ πράσσῃ καὶ δι’ ὦν σιγᾷ γινώσκηται."
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "5.1.1",
+    "form": "κεκτῆσθαι",
+    "postag": "v--rnm---",
+    "sentence": "ὃν ἐπίσκοπον ἔγνων οὐκ ἀφ’ ἑαυτοῦ οὐ-δὲ δι’ ἀνθρώπων κεκτῆσθαι τὴν διακονίαν τὴν εἰς τὸ κοινὸν ἀνήκουσαν οὐ-δὲ κατὰ κενοδοξίαν, ἀλλ’ ἐν ἀγάπῃ θεοῦ πατρὸς καὶ κυρίου Ἰησοῦ Χριστοῦ ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "7   κτάομαι, -ῶμαι,    [in LXX chiefly for קנה;]    in pres., impf., fut. and aor., to procure for oneself, get, gain, acquire (the pf. and plpf., to have acquired, hence to possess, do not occur in NT): c. acc. rei, Mt 10:9, Lk 18:12, Ac 8:20; c. gen. pret., Ac 22:28; ἐκ c. gen. pret., Ac 1:18; τ. ψυχὰς ὑμῶν (MM, xvi), Lk 21:19; τ. ἑαυτοῦ σκεῦος κτᾶσθαι, I Th 4:4 (where if σ. = body, κ. must = pf., κέκτημαι; v. MM, xvi; M, Th., in l.; Field, Notes, 72 f. But σ. is most freq. taken as = wife; v. Thayer, s.v.; Lft., Notes, 53 ff.; ICC, in l.).†"
+}

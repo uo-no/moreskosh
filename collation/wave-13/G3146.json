@@ -1,0 +1,243 @@
+{
+ "strong": "G3146",
+ "lemma": "μαστιγόω",
+ "nt_freq": 7,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "HEB 12:6",
+   "form": "μαστιγοῖ",
+   "morph": "V-PAI-3S",
+   "gloss_en": "punishes",
+   "gloss_ja": "鞭打つ",
+   "verse": "ὃν γὰρ ἀγαπᾷ κύριος παιδεύει, μαστιγοῖ δὲ πάντα υἱὸν ὃν παραδέχεται."
+  },
+  {
+   "ref": "JHN 19:1",
+   "form": "ἐμαστίγωσεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "flogged",
+   "gloss_ja": "鞭打つ",
+   "verse": "Τότε οὖν ἔλαβεν ὁ Πιλᾶτος τὸν Ἰησοῦν καὶ ἐμαστίγωσεν."
+  },
+  {
+   "ref": "LUK 18:33",
+   "form": "μαστιγώσαντες",
+   "morph": "V-AAP-NPM",
+   "gloss_en": "flog",
+   "gloss_ja": "鞭打つ",
+   "verse": "καὶ μαστιγώσαντες ἀποκτενοῦσιν αὐτόν, καὶ τῇ ἡμέρᾳ τῇ τρίτῃ ἀναστήσεται."
+  },
+  {
+   "ref": "MAT 10:17",
+   "form": "μαστιγώσουσιν",
+   "morph": "V-FAI-3P",
+   "gloss_en": "flog",
+   "gloss_ja": "鞭打つ",
+   "verse": "προσέχετε δὲ ἀπὸ τῶν ἀνθρώπων· παραδώσουσιν γὰρ ὑμᾶς εἰς συνέδρια, καὶ ἐν ταῖς συναγωγαῖς αὐτῶν μαστιγώσουσιν ὑμᾶς·"
+  },
+  {
+   "ref": "MAT 20:19",
+   "form": "μαστιγῶσαι",
+   "morph": "V-AAN",
+   "gloss_en": "flogged",
+   "gloss_ja": "鞭打つ",
+   "verse": "καὶ παραδώσουσιν αὐτὸν τοῖς ἔθνεσιν εἰς τὸ ἐμπαῖξαι καὶ μαστιγῶσαι καὶ σταυρῶσαι, καὶ τῇ τρίτῃ ἡμέρᾳ ἐγερθήσεται."
+  },
+  {
+   "ref": "MAT 23:34",
+   "form": "μαστιγώσετε",
+   "morph": "V-FAI-2P",
+   "gloss_en": "flog",
+   "gloss_ja": "鞭打つ",
+   "verse": "διὰ τοῦτο ἰδοὺ ἐγὼ ἀποστέλλω πρὸς ὑμᾶς προφήτας καὶ σοφοὺς καὶ γραμματεῖς· ἐξ αὐτῶν ἀποκτενεῖτε καὶ σταυρώσετε, καὶ ἐξ αὐτῶν μαστιγώσετε ἐν ταῖς συναγωγαῖς ὑμῶν καὶ διώξετε ἀπὸ πόλεως εἰς πόλιν·"
+  },
+  {
+   "ref": "MRK 10:34",
+   "form": "μαστιγώσουσιν",
+   "morph": "V-FAI-3P",
+   "gloss_en": "flog",
+   "gloss_ja": "鞭打つ",
+   "verse": "καὶ ἐμπαίξουσιν αὐτῷ καὶ ἐμπτύσουσιν αὐτῷ καὶ μαστιγώσουσιν αὐτὸν καὶ ἀποκτενοῦσιν, καὶ μετὰ τρεῖς ἡμέρας ἀναστήσεται."
+  }
+ ],
+ "lxx": {
+  "total": 35,
+  "works": {
+   "Exodus": 2,
+   "Deuteronomium": 3,
+   "Regnorum iii": 1,
+   "Paralipomenon ii sive Chronicon ii": 1,
+   "Judith": 1,
+   "Tobias": 9,
+   "Machabaeorum ii": 5,
+   "Psalmi": 2,
+   "Proverbia": 4,
+   "Job": 2,
+   "Sapientia Salomonis": 2,
+   "Ecclesiasticus sive Siracides": 1,
+   "Jeremias": 1,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "3.9",
+    "form": "μαστιγοῖς",
+    "postag": "v2spia---",
+    "sentence": "τί ἡμᾶς μαστιγοῖς περὶ τῶν ἀνδρῶν σου, ὅτι ἀπέθανον;"
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "3.34",
+    "form": "μεμαστιγωμένος",
+    "postag": "v-srpmmn-",
+    "sentence": "σὺ δὲ ὑπ’ αὐτοῦ μεμαστιγωμένος διάγγελλε πᾶσι τὸ μεγαλεῖον τοῦ Θεοῦ κράτος."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "19.25",
+    "form": "μαστιγουμένου",
+    "postag": "v-sppmmg-",
+    "sentence": "λοιμοῦ μαστιγουμένου, ἄφρων πανουργότερος γίνεται ·"
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "25.3",
+    "form": "μαστιγώσουσιν",
+    "postag": "v3pfia---",
+    "sentence": "ἀριθμῷ τεσσαράκοντα μαστιγώσουσιν αὐτόν, οὐ προσθήσουσιν ·"
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "5.16",
+    "form": "μεμαστίγωνται",
+    "postag": "v3prim---",
+    "sentence": "ἄχυρον οὐ δίδοται τοῖς οἰκέταις σου, καὶ τὴν πλίνθον ἡμῖν λέγουσι ποιεῖν, καὶ ἰδοὺ οἱ παῖδές σου μεμαστίγωνται ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "72.5",
+    "form": "μαστιγωθήσονται",
+    "postag": "v3pfip---",
+    "sentence": "ἐν κόποις ἀνθρώπων οὐκ εἰσὶ καὶ μετὰ ἀνθρώπων οὐ μαστιγωθήσονται."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "30.21",
+    "form": "ἐμαστίγωσας",
+    "postag": "v2saia---",
+    "sentence": "ἐπέβης δέ μοι ἀνελεημόνως, χειρὶ κραταιᾷ με ἐμαστίγωσας ·"
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "16.16",
+    "form": "ἐμαστιγώθησαν",
+    "postag": "v3paip---",
+    "sentence": "ἀρνούμενοι γάρ σε εἰδέναι ἀσεβεῖς, ἐν ἰσχύϊ βραχίονός σου ἐμαστιγώθησαν, ξένοις ὑετοῖς καὶ χαλάζαις καὶ ὄμβροις διωκόμενοι ἀπαραιτήτοις καὶ πυρὶ καταναλισκόμενοι."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "12.24ρ",
+    "form": "ἐμαστίγου",
+    "postag": "v3siia---",
+    "sentence": "ὁ πατήρ μου ἐμαστίγου ὑμᾶς μάστιξιν, ἐγὼ δὲ κατάρξω ὑμᾶς ἐν σκορπίοις."
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "25.16",
+    "form": "μαστιγωθῇς",
+    "postag": "v2sasp---",
+    "sentence": "πρόσεχε ἵνα μὴ μαστιγωθῇς."
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "8.27",
+    "form": "μαστιγοῖ",
+    "postag": "v3spia---",
+    "sentence": "ὅτι οὐ καθὼς ἐκείνους ἐπύρωσεν εἰς ἐτασμὸν τῆς καρδίας αὐτῶν, καὶ ἡμᾶς οὐκ ἐξεδίκησεν, ἀλλ’ εἰς νουθέτησιν μαστιγοῖ Κύριος τοὺς ἐγγίζοντας αὐτῷ."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "30.14",
+    "form": "μεμαστιγωμένος",
+    "postag": "v-srpmmn-",
+    "sentence": "κρείσσων πτωχὸς ὑγιὴς καὶ ἰσχύων τῇ ἕξει ἢ πλούσιος μεμαστιγωμένος εἰς σῶμα αὐτοῦ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 4,
+  "works": {
+   "1 Clement": 1,
+   "2 Clement": 1,
+   "Hermas, Pastor": 1,
+   "Ignatius, Letters": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "56.4",
+    "form": "μαστιγοῖ",
+    "postag": "v3spia---",
+    "sentence": "ὃν γὰρ ἀγαπᾷ κύριος παιδεύει, μαστιγοῖ δὲ πάντα υἱὸν ὃν παραδέχεται."
+   },
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "7.4",
+    "form": "μαστιγωθεὶς",
+    "postag": "v-sappmn-",
+    "sentence": "εἰδέναι ἡμᾶς δεῖ, ὅτι ὁ τὸν φθαρτὸν ἀγῶνα ἀγωνιζόμενος, ἐὰν εὑρεθῇ φθείρων, μαστιγωθεὶς αἴρεται καὶ ἔξω βάλλεται τοῦ σταδίου."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "23.3.1",
+    "form": "μαστιγούμενα",
+    "postag": "v-pppmna-",
+    "sentence": "βλέπων οὖν αὐτὰ οὕτω μαστιγούμενα καὶ ταλαιπωρούμενα ἐλυπούμην ἐπ’ αὐτοῖς, ὅτι οὕτως ἐβασανίζοντο καὶ ἀνοχὴν ὅλως οὐκ εἶχον."
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "3.4.1",
+    "form": "μαστιγοῦσίν",
+    "postag": "v3ppia---",
+    "sentence": "οἱ γὰρ λέγοντές μοι μαστιγοῦσίν με."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "7   μαστιγόω, -ῶ    (< μάστιξ),   [in LXX chiefly for נכה hi.;]    to scourge:  c. acc., Mt 10:17 20:19 23:34, Mk 10:34, Lk 18:33, Jo 19:1; metaph., He 12:6 (cf. Pr 3:12, Je 5:3, Jth 8:27).†"
+}

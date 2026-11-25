@@ -1,0 +1,218 @@
+{
+ "strong": "G2395",
+ "lemma": "ἰατρός",
+ "nt_freq": 7,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "COL 4:14",
+   "form": "ἰατρὸς",
+   "morph": "N-NSM",
+   "gloss_en": "physician",
+   "gloss_ja": "医者",
+   "verse": "ἀσπάζεται ὑμᾶς Λουκᾶς ὁ ἰατρὸς ὁ ἀγαπητὸς καὶ Δημᾶς."
+  },
+  {
+   "ref": "LUK 5:31",
+   "form": "ἰατροῦ",
+   "morph": "N-GSM",
+   "gloss_en": "physician",
+   "gloss_ja": "医者",
+   "verse": "καὶ ἀποκριθεὶς ὁ Ἰησοῦς εἶπεν πρὸς αὐτούς· Οὐ χρείαν ἔχουσιν οἱ ὑγιαίνοντες ἰατροῦ ἀλλὰ οἱ κακῶς ἔχοντες·"
+  },
+  {
+   "ref": "LUK 4:23",
+   "form": "Ἰατρέ",
+   "morph": "N-VSM",
+   "gloss_en": "physician",
+   "gloss_ja": "医者",
+   "verse": "καὶ εἶπεν πρὸς αὐτούς· Πάντως ἐρεῖτέ μοι τὴν παραβολὴν ταύτην· Ἰατρέ, θεράπευσον σεαυτόν· ὅσα ἠκούσαμεν γενόμενα εἰς τὴν Καφαρναοὺμ ποίησον καὶ ὧδε ἐν τῇ πατρίδι σου."
+  },
+  {
+   "ref": "LUK 8:43",
+   "form": "ἰατροῖς",
+   "morph": "N-DPM",
+   "gloss_en": "physicians",
+   "gloss_ja": "医者",
+   "verse": "καὶ γυνὴ οὖσα ἐν ῥύσει αἵματος ἀπὸ ἐτῶν δώδεκα, ἥτις ἰατροῖς προσαναλώσασα ὅλον τὸν βίον οὐκ ἴσχυσεν ἀπ’ οὐδενὸς θεραπευθῆναι,"
+  },
+  {
+   "ref": "MAT 9:12",
+   "form": "ἰατροῦ",
+   "morph": "N-GSM",
+   "gloss_en": "physician",
+   "gloss_ja": "医者",
+   "verse": "ὁ δὲ ἀκούσας εἶπεν· Οὐ χρείαν ἔχουσιν οἱ ἰσχύοντες ἰατροῦ ἀλλὰ οἱ κακῶς ἔχοντες."
+  },
+  {
+   "ref": "MRK 2:17",
+   "form": "ἰατροῦ",
+   "morph": "N-GSM",
+   "gloss_en": "physician",
+   "gloss_ja": "医者",
+   "verse": "καὶ ἀκούσας ὁ Ἰησοῦς λέγει αὐτοῖς ὅτι Οὐ χρείαν ἔχουσιν οἱ ἰσχύοντες ἰατροῦ ἀλλ’ οἱ κακῶς ἔχοντες· οὐκ ἦλθον καλέσαι δικαίους ἀλλὰ ἁμαρτωλούς."
+  },
+  {
+   "ref": "MRK 5:26",
+   "form": "ἰατρῶν",
+   "morph": "N-GPM",
+   "gloss_en": "physicians",
+   "gloss_ja": "医者",
+   "verse": "καὶ πολλὰ παθοῦσα ὑπὸ πολλῶν ἰατρῶν καὶ δαπανήσασα τὰ παρ’ αὐτῆς πάντα καὶ μηδὲν ὠφεληθεῖσα ἀλλὰ μᾶλλον εἰς τὸ χεῖρον ἐλθοῦσα,"
+  }
+ ],
+ "lxx": {
+  "total": 14,
+  "works": {
+   "Paralipomenon ii sive Chronicon ii": 1,
+   "Tobias": 2,
+   "Psalmi": 1,
+   "Odae": 1,
+   "Proverbia": 1,
+   "Job": 1,
+   "Ecclesiasticus sive Siracides": 5,
+   "Isaias": 1,
+   "Jeremias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "10.10",
+    "form": "ἰατρός",
+    "postag": "n-s---mn-",
+    "sentence": "μακρὸν ἀρρώστημα σκώπτει ἰατρός ·"
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "2.10",
+    "form": "ἰατρούς",
+    "postag": "n-p---ma-",
+    "sentence": "καὶ ἐπορεύθην πρὸς ἰατρούς, καὶ οὐκ ὠφέλησάν με ·"
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "16.12",
+    "form": "ἰατρούς",
+    "postag": "n-p---ma-",
+    "sentence": "καὶ ἐν τῇ μαλακίᾳ αὐτοῦ οὐκ ἐζήτησε τὸν Κύριον, ἀλλὰ τοὺς ἰατρούς."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "87.11",
+    "form": "ἰατροὶ",
+    "postag": "n-p---mn-",
+    "sentence": "ἢ ἰατροὶ ἀναστήσουσι, καὶ ἐξομολογήσονταί σοι;"
+   },
+   {
+    "work_code": "ODE",
+    "work_ja": "頌歌（オード）",
+    "work_src": "Odae",
+    "ref": "6.14",
+    "form": "ἰατροὶ",
+    "postag": "n-p---mn-",
+    "sentence": "οἱ δὲ νεκροὶ ζωὴν οὐ μὴ ἴδωσιν, οὐ-δὲ ἰατροὶ οὐ μὴ ἀναστήσουσιν ·"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "14.30",
+    "form": "ἰατρός",
+    "postag": "n-s---mn-",
+    "sentence": "πραΰθυμος ἀνὴρ καρδίας ἰατρός, σὴς δὲ ὀστέων καρδία αἰσθητική."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "13.4",
+    "form": "ἰατροὶ",
+    "postag": "n-p---mn-",
+    "sentence": "ὑμεῖς δέ ἐστε ἰατροὶ ἄδικοι καὶ ἰαταὶ κακῶν πάντες."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "26.14",
+    "form": "ἰατροὶ",
+    "postag": "n-p---mn-",
+    "sentence": "οἱ δὲ νεκροὶ ζωὴν οὐ μὴ ἴδωσιν, οὐ-δὲ ἰατροὶ οὐ μὴ ἀναστήσουσι ·"
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "8.22",
+    "form": "ἰατρὸς",
+    "postag": "n-s---mn-",
+    "sentence": "μὴ ρητίνη οὐκ ἔστιν ἐν Γαλαάδ, ἢ ἰατρὸς οὐκ ἔστιν ἐκεῖ;"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "38.15",
+    "form": "ἰατροῦ",
+    "postag": "n-s---mg-",
+    "sentence": "ὁ ἁμαρτάνων ἔναντι τοῦ ποιήσαντος αὐτὸν ἐμπέσοι εἰς χεῖρας ἰατροῦ."
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "2.10",
+    "form": "ἰατροὺς",
+    "postag": "n-p---ma-",
+    "sentence": "καὶ ἐπορευόμην πρὸς τοὺς ἰατροὺς θεραπευθῆναι, καὶ ὅσῳ ἐνεχρίοσάν με τὰ φάρμακα, τοσούτῳ μᾶλλον ἐξετυφλοῦντο οἱ ὀφθαλμοί μου τοῖς λευκώμασιν μέχρι τοῦ ἀποτυφλωθῆναι ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "38.1",
+    "form": "ἰατρὸν",
+    "postag": "n-s---ma-",
+    "sentence": "τίμα ἰατρὸν πρὸς τὰς χρείας αὐτοῦ τιμαῖς αὐτοῦ, καὶ γὰρ αὐτὸν ἔκτισε Κύριος ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "To Diognetus": 1,
+   "Ignatius, Letters": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "9",
+    "form": "ἰατρόν",
+    "postag": "n-s---ma-",
+    "sentence": "ἐλέγξας οὖν ἐν μὲν τῷ πρόσθεν χρόνῳ τὸ ἀδύνατον τῆς ἡμετέρας φύσεως εἰς τὸ τυχεῖν ζωῆς, νῦν δὲ τὸν σωτῆρα δείξας δυνατὸν σώζειν καὶ τὰ ἀδύνατα, ἐξ ἀμφοτέρων ἐβουλήθη πιστεύειν ἡμᾶς τῇ χρηστότητι αὐτοῦ, αὐτὸν ἡγεῖσθαι τροφέα, πατέρα, διδάσκαλον, σύμβουλον, ἰατρόν, νοῦν, φῶς, τιμήν, δόξαν, ἰσχύν, ζωήν, περὶ ἐνδύσεως καὶ τροφῆς μὴ μεριμνᾶν."
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "1.7.2",
+    "form": "ἰατρός",
+    "postag": "n-s---mn-",
+    "sentence": "εἷς ἰατρός ἐστιν, σαρκικός τε καὶ πνευματικός, γεννητὸς καὶ ἀγέννητος, ἐν ἀνθρώπῳ θεός, ἐν θανάτῳ ζωὴ ἀληθινή, καὶ ἐκ Μαρίας καὶ ἐκ θεοῦ, πρῶτον παθητὸς καὶ τότε ἀπαθής."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "7   ἰατρός, -οῦ, ὁ    (< ἰάομαι),   [in LXX for רֹפֵא;]    a physician: Mt 9:12, Mk 2:17 5:26, Lk 4:23 5:31 8:43 (om. WH, R, mg.), Col 4:14 (on the status of physicians, v. MM, Exp., xv.).†"
+}

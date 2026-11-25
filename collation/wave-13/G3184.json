@@ -1,0 +1,202 @@
+{
+ "strong": "G3184",
+ "lemma": "μεθύω",
+ "nt_freq": 7,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 11:21",
+   "form": "μεθύει",
+   "morph": "V-PAI-3S",
+   "gloss_en": "drunk",
+   "gloss_ja": "酔う",
+   "verse": "ἕκαστος γὰρ τὸ ἴδιον δεῖπνον προλαμβάνει ἐν τῷ φαγεῖν, καὶ ὃς μὲν πεινᾷ, ὃς δὲ μεθύει."
+  },
+  {
+   "ref": "1TH 5:7",
+   "form": "μεθύουσιν",
+   "morph": "V-PAI-3P",
+   "gloss_en": "drunk",
+   "gloss_ja": "酔う",
+   "verse": "οἱ γὰρ καθεύδοντες νυκτὸς καθεύδουσιν, καὶ οἱ μεθυσκόμενοι νυκτὸς μεθύουσιν·"
+  },
+  {
+   "ref": "ACT 2:15",
+   "form": "μεθύουσιν",
+   "morph": "V-PAI-3P",
+   "gloss_en": "drunk",
+   "gloss_ja": "酔う",
+   "verse": "οὐ γὰρ ὡς ὑμεῖς ὑπολαμβάνετε οὗτοι μεθύουσιν, ἔστιν γὰρ ὥρα τρίτη τῆς ἡμέρας,"
+  },
+  {
+   "ref": "JHN 2:10",
+   "form": "μεθυσθῶσιν",
+   "morph": "V-APS-3P",
+   "gloss_en": "drunk",
+   "gloss_ja": "酔う",
+   "verse": "καὶ λέγει αὐτῷ· Πᾶς ἄνθρωπος πρῶτον τὸν καλὸν οἶνον τίθησιν, καὶ ὅταν μεθυσθῶσιν τὸν ἐλάσσω· σὺ τετήρηκας τὸν καλὸν οἶνον ἕως ἄρτι."
+  },
+  {
+   "ref": "MAT 24:49",
+   "form": "μεθυόντων",
+   "morph": "V-PAP-GPM",
+   "gloss_en": "drunkards",
+   "gloss_ja": "酔う",
+   "verse": "καὶ ἄρξηται τύπτειν τοὺς συνδούλους αὐτοῦ, ἐσθίῃ δὲ καὶ πίνῃ μετὰ τῶν μεθυόντων,"
+  },
+  {
+   "ref": "REV 17:2",
+   "form": "ἐμεθύσθησαν",
+   "morph": "V-API-3P",
+   "gloss_en": "became drunk",
+   "gloss_ja": "酔う",
+   "verse": "μεθ’ ἧς ἐπόρνευσαν οἱ βασιλεῖς τῆς γῆς, καὶ ἐμεθύσθησαν οἱ κατοικοῦντες τὴν γῆν ἐκ τοῦ οἴνου τῆς πορνείας αὐτῆς."
+  },
+  {
+   "ref": "REV 17:6",
+   "form": "μεθύουσαν",
+   "morph": "V-PAP-ASF",
+   "gloss_en": "drunk",
+   "gloss_ja": "酔う",
+   "verse": "καὶ εἶδον τὴν γυναῖκα μεθύουσαν ἐκ τοῦ αἵματος τῶν ἁγίων καὶ ἐκ τοῦ αἵματος τῶν μαρτύρων Ἰησοῦ. Καὶ ἐθαύμασα ἰδὼν αὐτὴν θαῦμα μέγα·"
+  }
+ ],
+ "lxx": {
+  "total": 33,
+  "works": {
+   "Genesis": 2,
+   "Deuteronomium": 1,
+   "Regnorum i": 3,
+   "Regnorum iii": 2,
+   "Machabaeorum i": 1,
+   "Psalmi": 3,
+   "Odae": 1,
+   "Canticum": 1,
+   "Job": 1,
+   "Ecclesiasticus sive Siracides": 1,
+   "Joel": 1,
+   "Nahum": 1,
+   "Isaias": 7,
+   "Jeremias": 6,
+   "Threni seu Lamentationes": 2
+  },
+  "representatives": [
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "34.5",
+    "form": "ἐμεθύσθη",
+    "postag": "v3saip---",
+    "sentence": "ἐμεθύσθη ἡ μάχαιρά μου ἐν τῷ οὐρανῷ ·"
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "31.26",
+    "form": "μεθύσατε",
+    "postag": "v2pama---",
+    "sentence": "μεθύσατε αὐτόν, ὅτι ἐπὶ Κύριον ἐμεγαλύνθη ·"
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "1.13",
+    "form": "μεθύουσαν",
+    "postag": "v-sppafa-",
+    "sentence": "καὶ ἐλογίσατο αὐτὴ Ἡλὶ εἰς μεθύουσαν."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "64.10",
+    "form": "ἐμέθυσας",
+    "postag": "v2saia---",
+    "sentence": "ἐπεσκέψω τὴν γῆν καὶ ἐμέθυσας αὐτήν, ἐπλήθυνας τοῦ πλουτίσαι αὐτήν ·"
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "43.33",
+    "form": "ἐμεθύσθησαν",
+    "postag": "v3paip---",
+    "sentence": "ἐμεγαλύνθη δὲ ἡ μερὶς Βενιαμὶν παρὰ τὰς μερίδας πάντων πενταπλασίως πρὸς τὰς ἐκείνων, ἔπιον δὲ καὶ ἐμεθύσθησαν μετ’ αὐτοῦ."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "21.16",
+    "form": "μεθύων",
+    "postag": "v-sppamn-",
+    "sentence": "καὶ υἱὸς Ἄδερ πίνων μεθύων ἐν Σοκχὼθ αὐτὸς καὶ οἱ βασιλεῖς, τριάκοντα καὶ δύο βασιλεῖς συμβοηθοὶ μετ’ αὐτοῦ."
+   },
+   {
+    "work_code": "LAM",
+    "work_ja": "哀歌",
+    "work_src": "Threni seu Lamentationes",
+    "ref": "3.15",
+    "form": "ἐμέθυσέ",
+    "postag": "v3saia---",
+    "sentence": "ἐχόρτασέ με πικρίας, ἐμέθυσέ με χολῆς."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "32.42",
+    "form": "μεθύσω",
+    "postag": "v1sfia---",
+    "sentence": "μεθύσω τὰ βέλη μου ἀφ’ αἵματος, καὶ ἡ μάχαιρά μου φάγεται κρέα, ἀφ’ αἵματος τραυματιῶν καὶ αἰχμαλωσίας, ἀπὸ κεφαλῆς ἀρχόντων ἐχθρῶν."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "16.16",
+    "form": "ἐμεθύσθη",
+    "postag": "v3saip---",
+    "sentence": "καὶ ὅτε ἐμεθύσθη Σίμων καὶ οἱ υἱοὶ αὐτοῦ, ἐξανέστη Πτολεμαῖος καὶ οἱ παρ’ αὐτοῦ καὶ ἐλάβοσαν τὰ ὅπλα αὐτῶν καὶ ἐπεισήλθοσαν τῷ Σίμωνι εἰς τὸ συμπόσιον καὶ ἀπέκτειναν αὐτὸν καὶ τοὺς δύο υἱοὺς αὐτοῦ καί τινας τῶν παιδαρίων αὐτοῦ."
+   },
+   {
+    "work_code": "ODE",
+    "work_ja": "頌歌（オード）",
+    "work_src": "Odae",
+    "ref": "2.42",
+    "form": "μεθύσω",
+    "postag": "v1sfia---",
+    "sentence": "μεθύσω τὰ βέλη μου ἀφ’ αἵματος, καὶ ἡ μάχαιρά μου καταφάγεται κρέα, ἀφ’ αἵματος τραυματιῶν καὶ αἰχμαλωσίας, ἀπὸ κεφαλῆς ἀρχόντων ἐθνῶν."
+   },
+   {
+    "work_code": "SNG",
+    "work_ja": "雅歌",
+    "work_src": "Canticum",
+    "ref": "5.1",
+    "form": "μεθύσθητε",
+    "postag": "v2paip---",
+    "sentence": "φάγετε, πλησίοι, καὶ πίετε καὶ μεθύσθητε, ἀδελφοί."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "12.25",
+    "form": "μεθύων",
+    "postag": "v-sppamn-",
+    "sentence": "ψηλαφήσαισαν σκότος καὶ μὴ φῶς, πλανηθείησαν δὲ ὥσπερ ὁ μεθύων."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "7   μεθύω    (< μέθυ, wine, cf. μέθη),   [in LXX chiefly for שׁכר, רוה;]    to be drunken: Mt 24:49, Jo 2:10, Ac 2:15, I Co 11:21, I Th 5:7; metaph., Re 17:2, 6.†"
+}

@@ -1,0 +1,98 @@
+{
+ "strong": "G2026",
+ "lemma": "ἐποικοδομέω",
+ "nt_freq": 7,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 3:10",
+   "form": "ἐποικοδομεῖ",
+   "morph": "V-PAI-3S",
+   "gloss_en": "building on",
+   "gloss_ja": "建て上げる",
+   "verse": "Κατὰ τὴν χάριν τοῦ θεοῦ τὴν δοθεῖσάν μοι ὡς σοφὸς ἀρχιτέκτων θεμέλιον ἔθηκα, ἄλλος δὲ ἐποικοδομεῖ. ἕκαστος δὲ βλεπέτω πῶς ἐποικοδομεῖ·"
+  },
+  {
+   "ref": "1CO 3:10",
+   "form": "ἐποικοδομεῖ",
+   "morph": "V-PAI-3S",
+   "gloss_en": "builds",
+   "gloss_ja": "建て上げる",
+   "verse": "Κατὰ τὴν χάριν τοῦ θεοῦ τὴν δοθεῖσάν μοι ὡς σοφὸς ἀρχιτέκτων θεμέλιον ἔθηκα, ἄλλος δὲ ἐποικοδομεῖ. ἕκαστος δὲ βλεπέτω πῶς ἐποικοδομεῖ·"
+  },
+  {
+   "ref": "1CO 3:12",
+   "form": "ἐποικοδομεῖ",
+   "morph": "V-PAI-3S",
+   "gloss_en": "builds",
+   "gloss_ja": "建て上げる",
+   "verse": "εἰ δέ τις ἐποικοδομεῖ ἐπὶ τὸν θεμέλιον χρυσόν, ἄργυρον, λίθους τιμίους, ξύλα, χόρτον, καλάμην,"
+  },
+  {
+   "ref": "1CO 3:14",
+   "form": "ἐποικοδόμησεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "built on",
+   "gloss_ja": "建て上げる",
+   "verse": "εἴ τινος τὸ ἔργον μενεῖ ὃ ἐποικοδόμησεν, μισθὸν λήμψεται·"
+  },
+  {
+   "ref": "COL 2:7",
+   "form": "ἐποικοδομούμενοι",
+   "morph": "V-PPP-NPM",
+   "gloss_en": "built up",
+   "gloss_ja": "建て上げる",
+   "verse": "ἐρριζωμένοι καὶ ἐποικοδομούμενοι ἐν αὐτῷ καὶ βεβαιούμενοι τῇ πίστει καθὼς ἐδιδάχθητε, περισσεύοντες ἐν εὐχαριστίᾳ."
+  },
+  {
+   "ref": "EPH 2:20",
+   "form": "ἐποικοδομηθέντες",
+   "morph": "V-APP-NPM",
+   "gloss_en": "built",
+   "gloss_ja": "建て上げる",
+   "verse": "ἐποικοδομηθέντες ἐπὶ τῷ θεμελίῳ τῶν ἀποστόλων καὶ προφητῶν, ὄντος ἀκρογωνιαίου αὐτοῦ Χριστοῦ Ἰησοῦ,"
+  },
+  {
+   "ref": "JUD 1:20",
+   "form": "ἐποικοδομοῦντες",
+   "morph": "V-PAP-NPM",
+   "gloss_en": "building ~ up",
+   "gloss_ja": "建て上げる",
+   "verse": "ὑμεῖς δέ, ἀγαπητοί, ἐποικοδομοῦντες ἑαυτοὺς τῇ ἁγιωτάτῃ ὑμῶν πίστει, ἐν πνεύματι ἁγίῳ προσευχόμενοι,"
+  }
+ ],
+ "lxx": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "Hermas, Pastor": 2
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.5.1",
+    "form": "ἐποικοδομεῖσθαι",
+    "postag": "v--pnm---",
+    "sentence": "ἔμελλε γὰρ πάλιν ἐποικοδομεῖσθαι ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "3.8.9",
+    "form": "ἐποικοδομηθήσεται",
+    "postag": "v3sfip---",
+    "sentence": "ἀλλὰ ταχὺ ἐποικοδομηθήσεται."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "7   * ἐπ-οικοδομέω, -ῶ      in NT, always metaph., of the spiritual life regarded as a building (Cremer, 449);    to build upon: I Co 3:10, 12, 14; pass., Eph 2:20.    to build up: Col 2:7, I Pe 2:5 (T, οἰκοδ- WH, Rec.), Ju 20.†"
+}
