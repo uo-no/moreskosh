@@ -9,7 +9,8 @@
  * 方式A（公開索引）: 語義ラベルから引用語・区切り語を見出しとして抜く。括弧内は見出しにせず qualifier にする。
  *   - 括弧の外の引用（「…」『…』"…"«…»»…»）があれば、それが見出し。括弧外の残りは枠表現として見出しにしない。
  *   - 引用がなければ括弧を除いた残りを区切り（JA: ・／/、  他: /）で分割する。
- *   - JA は先頭・末尾の〜を除く。ギリシャ文字を含む／13文字以上（JA）のトークンは候補ファイルへ。
+ *   - JA は先頭・末尾の〜を除く。ギリシャ文字を含むトークンは候補ファイルへ（長さによる除外はしない）。
+ *   - 規則7: ギリシャ語句＋括弧説明だけで見出しが0になる場合は括弧内を見出しに昇格し、qualifier に元のギリシャ語句を入れる。
  *   - JA のみ stemAliases（語幹バリアント）と aliases（憐れみ・哀れみ→あわれみ）を持つ。
  * 方式B（候補専用）: def の第一文の列挙節と def 内の引用語。公開索引には混ぜない。
  * 使い方: node scripts/build-igsd-reverse.cjs [--check]   （--check は機械照合のみ・書き込みなし）
@@ -42,7 +43,19 @@ function parse(label, lang) {
     t = t.replace(/^[\s,;:]+|[\s,;:]+$/g, "");
     if (t) out.push(t);
   }
-  return { tokens: out, qualifier: quals.filter(Boolean).join("；") };
+  const qualifier = quals.filter(Boolean).join("；");
+  // 規則7: ギリシャ文字を除くと見出しが0になる場合のみ、括弧内の説明を見出しに昇格し、qualifier には元のギリシャ語句を入れる
+  if (!out.some((t) => !GREEK.test(t)) && quals.length) {
+    const promoted = [];
+    for (const q of quals) for (let t of q.split(LANGS[lang].delim)) {
+      t = t.trim();
+      if (lang === "ja") t = t.replace(/^〜+|〜+$/g, "");
+      t = t.replace(/^[\s,;:]+|[\s,;:]+$/g, "");
+      if (t && !GREEK.test(t)) promoted.push(t);
+    }
+    if (promoted.length) return { tokens: out.filter((t) => GREEK.test(t)).concat(promoted), qualifier: outside.trim().replace(/\s+/g, " ") };
+  }
+  return { tokens: out, qualifier };
 }
 const STEM = [["ぶ", "び"], ["む", "み"], ["れる", "れ"], ["う", "い"], ["く", "き"], ["す", "し"]];
 
@@ -61,8 +74,8 @@ function build() {
     for (const e of idx) for (const s of e.senses) {
       const { tokens, qualifier } = parse(s[LANGS[lang].key], lang);
       for (const t of tokens) {
-        if (GREEK.test(t) || (lang === "ja" && [...t].length >= 13)) {
-          if (lang === "ja") cand.push({ candidate: t, strong: e.strong, sense: s.id, source: "label", reason: GREEK.test(t) ? "greek" : "long" });
+        if (GREEK.test(t)) {
+          if (lang === "ja") cand.push({ candidate: t, strong: e.strong, sense: s.id, source: "label", reason: "greek" });
           continue;
         }
         const arr = heads[t] || (heads[t] = []);
