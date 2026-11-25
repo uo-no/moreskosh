@@ -1439,6 +1439,21 @@ body.is-lobby .prox-sub { margin-left: auto; margin-right: auto; }
 .igsd-sense-h { font-size: var(--s-ts-sm); font-weight: 700; color: var(--text-main); }
 .igsd-sense-count { font-weight: 400; color: var(--text-sub); font-size: var(--text-caption); margin-left: 6px; }
 .igsd-sense-def { font-size: var(--text-caption); color: var(--text-sub); margin: 4px 0 8px; line-height: 1.6; }
+.genre-tab[hidden] { display: none; }
+.rev-panel { margin-bottom: 16px; }
+.rev-head { display: flex; align-items: baseline; flex-wrap: wrap; gap: 6px 12px; margin-bottom: 4px; }
+.rev-title { font-size: var(--s-ts-sm); font-weight: 700; color: var(--text-main); }
+.rev-scope { font-size: var(--text-caption); color: var(--text-sub); margin-bottom: 12px; }
+.rev-lemma { margin-top: 16px; }
+.rev-lemma-h { display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap; }
+.rev-lemma-btn { font-family: var(--s-ff-greek); font-size: 1.2rem; font-weight: 700; color: var(--text-main); background: none; border: none; padding: 0; cursor: pointer; text-decoration: underline; text-decoration-style: dotted; text-underline-offset: 3px; }
+.rev-lemma-btn:hover { color: var(--highlight); }
+.rev-sense { margin-top: 8px; padding: 10px 12px; background: var(--bg-panel); border: 1px solid var(--border-soft); border-radius: var(--s-radius-panel); }
+.rev-sense-h { font-size: var(--s-ts-sm); font-weight: 700; color: var(--text-main); }
+.rev-sense-q { font-size: var(--text-caption); color: var(--text-sub); margin-left: 6px; font-weight: 400; }
+.rev-sense-def { font-size: var(--text-caption); color: var(--text-sub); margin: 4px 0 0; line-height: 1.6; }
+.rev-sense-open { margin-top: 6px; font-size: var(--text-caption); color: var(--s-accent); background: none; border: none; padding: 0; cursor: pointer; }
+.rev-sense-open:hover { text-decoration: underline; }
 .igsd-empty { font-size: 0.72rem; color: var(--text-sub); opacity: 0.6; }
 .igsd-idiom { font-size: var(--text-caption); color: var(--text-main); padding: 4px 0; line-height: 1.6; }
 .igsd-idiom-form { font-family: var(--s-ff-greek); font-weight: 700; margin-right: 8px; }
@@ -2334,6 +2349,8 @@ body.is-lobby .genre-tabs { display: none; }   /* #92：ロビーでは出さず
         <button class="genre-tab active" id="genre-tab-morph" type="button" role="tab" aria-selected="true" data-tab="morph" onclick="_onGenreTabClick('morph')" data-i18n="search.genre.morph">形態</button>
         <button class="genre-tab" id="genre-tab-rel" type="button" role="tab" aria-selected="false" data-tab="rel" onclick="_onGenreTabClick('rel')" data-i18n="search.genre.rel">関係</button>
         <button class="genre-tab" id="genre-tab-syn" type="button" role="tab" aria-selected="false" data-tab="syn" onclick="_onGenreTabClick('syn')" data-i18n="search.genre.syn">統語</button>
+        <!-- 逆引きタブ（#265）：入力が UI 言語の逆引き索引に当たるときだけ出る（_revSync）。検索のジャンルではなく結果の見せ方 -->
+        <button class="genre-tab" id="genre-tab-rev" type="button" role="tab" aria-selected="false" data-tab="rev" onclick="_onRevTabClick()" data-i18n="search.genre.rev" hidden>逆引き</button>
     </div>
     <!-- lemma タブ（#201）：母語検索の語グループ表示のとき・形態ジャンルのときだけ。「すべて」＋件数上位 8 lemma。中身は _renderLemmaTabs が描く -->
     <div class="lemma-tabs" id="lemma-tabs" role="tablist" aria-label="語ごとの表示" data-i18n-aria-label="search.lemmaTab.aria" hidden></div>
@@ -2446,6 +2463,7 @@ body.is-lobby .genre-tabs { display: none; }   /* #92：ロビーでは出さず
     </div><!-- /#result-body -->
 
     <!-- ═══════════════ 統語タブ（#202）：対象の語が担う構文パターンの一覧 / タイプ別カタログ ═══════════════ -->
+    <div id="rev-panel" class="rev-panel" hidden></div>
     <div id="syn-tab" hidden>
         <div class="syn-tab-bar">
             <button type="button" class="syn-tab-back" id="syn-tab-back" hidden onclick="_synTabBack()" data-i18n="search.synTab.back">‹ 構文パターンの一覧へ</button>
@@ -4581,7 +4599,7 @@ function _tabsScrollInit(){
 let _relSingleCooc = false;   /* 直近の検索が「関係×1語」で、共起語を主役に出したか */
 function _renderGenreTabs(){
     document.querySelectorAll('.genre-tab').forEach(b=>{
-        const on=b.dataset.tab===_genreTab;
+        const on=(b.dataset.tab==='rev')?_revActive:(!_revActive&&b.dataset.tab===_genreTab);   /* 逆引きタブ（#265）が開いている間は他のタブを非選択に */
         b.classList.toggle('active',on);
         b.setAttribute('aria-selected',on?'true':'false');
         b.tabIndex=on?0:-1;
@@ -4600,14 +4618,17 @@ function _renderGenreTabs(){
     if(tm)tm.textContent=_tf('search.genre.morph','形態');
     if(tr)tr.textContent=_tf('search.genre.rel','関係');
     if(ts)ts.textContent=_tf('search.genre.syn','統語');   /* #202 */
+    { const tv=document.getElementById('genre-tab-rev');if(tv)tv.textContent=_tf('search.genre.rev','逆引き'); }   /* #265 */
     const gt=document.getElementById('genre-tabs');
     if(gt)gt.setAttribute('aria-label',_tf('search.genre.aria','検索の読み方'));
     _tabsScrollInit();_tabsRevealActive(document.getElementById('genre-tabs'),true);
     _renderLemmaTabs();   /* #201：lemma タブの段は形態ジャンルのときだけ。ラベル「すべて」も現在の言語で */
     _synTabLeaveSync();   /* #202：統語以外へ移ったら統語タブの面を畳む */
+    _revRefreshTab();   /* #265：逆引きタブは形態ジャンルのときだけ */
 }
 function _onGenreTabClick(tab){
     tab=(tab==='rel'||tab==='syn')?tab:'morph';   /* #202：統語 */
+    if(_revActive){ _revDeactivate(); _renderGenreTabs(); if(tab===_genreTab)return; }   /* 逆引きタブから戻る（#265） */
     if(tab===_genreTab)return;
     const inp=document.getElementById('unified-search-input');
     const nWords=inp?inp.value.trim().split(/\s+/).filter(Boolean).length:0;
@@ -4746,6 +4767,178 @@ document.addEventListener('click',ev=>{
     _renderLemmaTabs();
     syncURL();
 });
+
+/* ── 逆引きタブ（#265）──
+   意味（UI 言語の語）から「語（レンマ）の候補」を返し、NGSD の語義の切り分けを併記する。グロス検索（訳語→用例）とは別物。
+   - 材料は assets/data/igsd/reverse-<UI言語>.json（#264）と、既存の index.json／lemmas の NGSD 自前のラベル・定義だけ。
+   - 照合順：①aliases ②見出しの完全一致（＋stemAliases の合流）④前方一致（①〜③で0件のときだけ）。定義文の部分一致検索はしない。
+   - 入力が UI 言語の索引に当たらない／ギリシャ文字／Strong 番号のときはタブを出さない（従来の検索は一切変えない）。
+   - 検索のジャンル（_genreTab）には加わらない。形態ジャンルのときだけ出て、開いている間は検索結果を隠してこの面を出す。 */
+let _revActive=false;
+let _revSeq=0;
+let _revCands=null;     /* 直近の入力の候補（ポスティングの配列）。タブを出す条件 */
+let _revSaved=null;
+const _revDataCache=new Map();
+function _revLang(){const l=window.I18N&&I18N.lang;return(l==='ja'||l==='en'||l==='es'||l==='sv')?l:null;}
+function _revLoad(lang){
+    if(!_revDataCache.has(lang)){
+        _revDataCache.set(lang,(async()=>{
+            try{
+                const res=await fetch(_IGSD_BASE+'reverse-'+lang+'.json');
+                if(!res.ok)return null;
+                const d=await res.json();
+                return d&&d.headwords?d:null;
+            }catch(_){return null;}
+        })());
+    }
+    return _revDataCache.get(lang);
+}
+function _revMatch(query,data,lang){
+    const q=String(query||'').normalize('NFC').trim().replace(/\s+/g,' ');
+    if(!q||/["“”]/.test(q)||/[Ͱ-Ͽἀ-῿]/.test(q)||/^[GgHh]?\d+$/.test(q))return [];
+    const ci=lang!=='ja';
+    const key=s=>ci?s.toLowerCase():s;
+    if(!data._rev){
+        const hw=new Map(),al=new Map(),st=new Map();
+        for(const h of Object.keys(data.headwords))hw.set(key(h),h);
+        for(const a of Object.keys(data.aliases||{}))al.set(key(a),data.aliases[a]);
+        for(const v of Object.keys(data.stemAliases||{}))st.set(key(v),data.stemAliases[v]);
+        data._rev={hw,al,st};
+    }
+    const {hw,al,st}=data._rev;
+    let k=key(q);
+    if(al.has(k)){const t=key(al.get(k));if(hw.has(t))k=t;}
+    const heads=new Set();
+    if(hw.has(k))heads.add(hw.get(k));
+    if(st.has(k))for(const h of st.get(k))if(data.headwords[h])heads.add(h);
+    if(heads.size===0&&k.length>=(ci?2:1)){
+        for(const [kk,h] of hw)if(kk.startsWith(k)){heads.add(h);if(heads.size>=20)break;}
+    }
+    const seen=new Map();
+    for(const h of heads)for(const p of data.headwords[h]){
+        const id=p.strong+':'+p.sense;
+        const cur=seen.get(id);
+        if(!cur)seen.set(id,{strong:p.strong,sense:String(p.sense),count:p.count,quals:p.qualifier?[p.qualifier]:[]});
+        else if(p.qualifier&&cur.quals.indexOf(p.qualifier)<0)cur.quals.push(p.qualifier);
+    }
+    return [...seen.values()];
+}
+async function _revSync(query){
+    const seq=++_revSeq;
+    if(_revActive){_revDeactivate();_renderGenreTabs();}
+    _revCands=null;
+    _revRefreshTab();
+    const lang=_revLang();
+    if(!lang||!query)return;
+    const data=await _revLoad(lang);
+    if(seq!==_revSeq||!data)return;
+    let c=[];
+    try{c=_revMatch(query,data,lang);}catch(_){c=[];}
+    _revCands=c.length?c:null;
+    _revRefreshTab();
+}
+function _revRefreshTab(){
+    const b=document.getElementById('genre-tab-rev');
+    if(!b)return;
+    const show=!!(_revCands&&_revCands.length&&_genreTab==='morph');
+    b.hidden=!show;
+    if(!show&&_revActive){_revDeactivate();_renderGenreTabs();}
+}
+function _revHideIds(){return ['result-header','result-body','state-empty','lemma-tabs'];}
+function _revDeactivate(){
+    if(!_revActive)return;
+    _revActive=false;
+    const p=document.getElementById('rev-panel');
+    if(p){p.hidden=true;p.textContent='';}
+    if(_revSaved){
+        for(const id of _revHideIds()){const el=document.getElementById(id);if(el&&id in _revSaved)el.style.display=_revSaved[id];}
+        _revSaved=null;
+    }
+}
+function _onRevTabClick(){
+    if(_revActive||!_revCands)return;
+    _revActive=true;
+    _revSaved={};
+    for(const id of _revHideIds()){const el=document.getElementById(id);if(el){_revSaved[id]=el.style.display;el.style.display='none';}}
+    _renderGenreTabs();
+    _revRender(++_revSeq);
+}
+async function _revRender(seq){
+    const panel=document.getElementById('rev-panel');
+    if(!panel)return;
+    const cands=_revCands;
+    panel.hidden=false;
+    panel.innerHTML='<div class="igsd-empty">'+_escH(_tf('search.status.loading','読み込み中…'))+'</div>';
+    const idx=await _igsdLoadIndex();
+    if(!idx){if(_revActive&&seq===_revSeq){_revDeactivate();_renderGenreTabs();}return;}
+    const strongs=[...new Set(cands.map(c=>c.strong))];
+    const lemmas=new Map((await Promise.all(strongs.map(async s=>[s,await _igsdLoadLemma(s)]))));
+    if(!_revActive||seq!==_revSeq)return;
+    const byStrong=new Map();
+    for(const c of cands){
+        const e=idx.get(c.strong);
+        if(!e)continue;
+        const s=e.senses.find(x=>String(x.id)===c.sense);
+        if(!s)continue;
+        const ld=lemmas.get(c.strong);
+        const ds=ld&&Array.isArray(ld.senses)?ld.senses.find(x=>String(x.id)===c.sense):null;
+        const label=(_svMode()&&s.label_sv)||(_enMode()&&s.label_en)||(_esMode()&&s.label_es)||s.label||'';
+        const def=ds?((_svMode()&&ds.def_sv)||(_enMode()&&ds.def_en)||(_esMode()&&ds.def_es)||ds.def||''):'';
+        let g=byStrong.get(c.strong);
+        if(!g){g={entry:e,total:0,senses:[]};byStrong.set(c.strong,g);}
+        g.senses.push({id:c.sense,label,def,quals:c.quals,count:Number(s.count)});
+        g.total+=Number(s.count);
+    }
+    const groups=[...byStrong.values()].sort((a,b)=>b.total-a.total);
+    groups.forEach(g=>g.senses.sort((a,b)=>b.count-a.count));
+    panel.innerHTML='';
+    const head=document.createElement('div');head.className='rev-head';
+    head.innerHTML='<span class="rev-title">'+_escH(_tf('search.genre.rev','逆引き'))+' · '+_escH(_tf('search.rev.desc','意味から引く'))+'</span>';
+    panel.appendChild(head);
+    const scope=document.createElement('div');scope.className='rev-scope';
+    scope.textContent=_tf('search.rev.scope','NGSDで整理済みの482語が対象');
+    panel.appendChild(scope);
+    for(const g of groups){
+        const wrap=document.createElement('div');wrap.className='rev-lemma';
+        const h=document.createElement('div');h.className='rev-lemma-h';
+        const lb=document.createElement('button');lb.type='button';lb.className='rev-lemma-btn';lb.lang='grc';lb.textContent=g.entry.lemma;
+        lb.addEventListener('click',()=>_revOpen(g.entry.strong,g.senses[0].id));
+        const meta=document.createElement('span');meta.className='igsd-meta';meta.textContent=g.entry.strong;
+        h.appendChild(lb);h.appendChild(meta);wrap.appendChild(h);
+        for(const s of g.senses){
+            const sec=document.createElement('div');sec.className='rev-sense';
+            sec.innerHTML=`<div class="rev-sense-h">${_escH(s.label)}${s.quals.length?`<span class="rev-sense-q">${_escH(s.quals.join('；'))}</span>`:''}<span class="igsd-sense-count">${_tp('search.count.hits','{n}件',s.count,{n:s.count.toLocaleString()})}</span></div>`
+                +(s.def?`<div class="rev-sense-def">${_escH(s.def)}</div>`:'');
+            const ob=document.createElement('button');ob.type='button';ob.className='rev-sense-open';
+            ob.textContent=_tf('search.dict.openWord','語のページを見る ›');
+            ob.addEventListener('click',()=>_revOpen(g.entry.strong,s.id));
+            sec.appendChild(ob);
+            wrap.appendChild(sec);
+        }
+        panel.appendChild(wrap);
+    }
+}
+/* 候補から既存の語のページ（該当語義）へ。語のページ側は変えず、直前の検索結果の一覧だけ隠す */
+async function _revOpen(strong,senseId){
+    const idx=await _igsdLoadIndex();
+    const e=idx&&idx.get(strong);
+    if(!e)return;
+    const idxs=searchByLemma(e.lemma)||[];
+    const group={lemma:e.lemma,strong:e.strong,hits:idxs.map(gi=>({anchorIdx:gi}))};
+    _revDeactivate();_renderGenreTabs();
+    const rb=document.getElementById('result-body');
+    if(rb&&rb.style.display==='none'){rb.style.display='';const se=document.getElementById('state-empty');if(se)se.style.display='none';}
+    if(_igsdCurrentClose)_igsdCurrentClose();
+    const q=_lastQuery||'';
+    await _igsdOpenPage(e,group,[group],q,null,q.trim().split(/\s+/),false,['hits-count','hits-list','pattern-explore-section','igsd-entry']);
+    const n=e.senses.findIndex(s=>String(s.id)===String(senseId));
+    if(n<0)return;
+    for(let i=0;i<10;i++){
+        const el=document.querySelectorAll('#igsd-page .igsd-sense')[n];
+        if(el){el.scrollIntoView({block:'start'});return;}
+        await new Promise(r=>setTimeout(r,100));
+    }
+}
 
 function toggleLayer(name){
     if (name === 'prox' || name === 'morph') return;
@@ -5103,6 +5296,7 @@ async function unifiedSearch(opts){
     _clearFormChoices();_formResolveCur=null;
     const qEff=_fm?_fm.form:query.replace(/["“”]/g,'').trim();
     if(!query||!qEff){document.getElementById('unified-search-input').focus();return;}
+    _revSync(query);   /* 逆引きタブ（#265）：UI 言語の逆引き索引に当たるときだけタブを出す。検索結果の処理は変えない */
 
     // Check at least one non-morph layer is active
     if(!_layers.lemma&&!_layers.prox&&query.split(/\s+/).filter(Boolean).length<2&&detectQueryType(query)!=='japanese'){
@@ -6404,12 +6598,13 @@ function _igsdDecorateGreekQuery(query,word2,words){
    母語検索の結果から語のページへの導線は lemma タブ（_applyLemmaTab）に一本化した。ギリシャ語・Strong 検索の入口（_igsdDecorateGreekQuery）は従来どおり。 */
 /* 開いている語のページを閉じる関数。新しい検索結果の描画前に呼び、前の語のページが残らないようにする。 */
 let _igsdCurrentClose=null;
-async function _igsdOpenPage(entry,group,groups,query,word2,words,fromGreekQuery){
+async function _igsdOpenPage(entry,group,groups,query,word2,words,fromGreekQuery,extraHide){
     /* 日本語クエリ: 語グループ行から開く（隠す対象は語グループと分布）。
        ギリシャ語クエリ（QA-05）: 入口バーから開く（隠す対象は件数・ヒット一覧・分布・構造探索・入口）。 */
     const ids=fromGreekQuery
         ?['result-header','igsd-entry','hits-count','hits-list','dist-panel','pattern-explore-section']
         :['result-header','lemma-groups','lemma-cooc','dist-panel'];
+    if(Array.isArray(extraHide))extraHide.forEach(id=>{if(ids.indexOf(id)<0)ids.push(id);});   /* #265：逆引きから開くとき、直前の検索結果の一覧も隠す */
     const targets=ids.map(id=>document.getElementById(id)).filter(Boolean);
     const anchor=fromGreekQuery?document.getElementById('hits-count'):document.getElementById('lemma-groups');
     let page=document.getElementById('igsd-page');
