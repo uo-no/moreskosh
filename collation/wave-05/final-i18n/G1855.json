@@ -1,0 +1,75 @@
+{
+  "strong": "G1855",
+  "lemma": "ἔξωθεν",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "外から／外に（場所）",
+      "def_ja": "外から、外に、外側に。『外から人に入るもの』『聖所の外の庭』『都の外で』『外には戦い』。",
+      "label_en": "from outside / outside (place)",
+      "def_en": "From outside, outside, on the outside: “what goes into a person from outside”, “the court outside the sanctuary”, “outside the city”, “fighting without”.",
+      "label_es": "desde fuera / fuera (lugar)",
+      "def_es": "Desde fuera, fuera, por fuera: «lo de fuera que entra en el hombre», «el patio que está fuera del templo», «fuera de la ciudad», «de fuera, conflictos».",
+      "label_sv": "utifrån / utanför (plats)",
+      "def_sv": "Utifrån, utanför, på utsidan: ”det som utifrån går in i människan”, ”förgården utanför templet”, ”utanför staden”, ”utifrån strider”.",
+      "layers": {
+        "nt": 6,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "マルコ7:15・7:18、黙示録11:2（2回）・14:20、Ⅱコリ7:5。LXX 代表例に並行（エゼキエル40:5）。教父（3.4.3）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "外側／外見",
+      "def_ja": "外側、外見。『杯と皿の外側』『外見は人に正しく見える』『外側の飾り』。",
+      "label_en": "outside / outward appearance",
+      "def_en": "The outer side, appearance: “the outside of the cup and dish”, “outwardly appear righteous to people”, “external adornment”.",
+      "label_es": "exterior / apariencia",
+      "def_es": "Lo de fuera, el aspecto: «lo de fuera del vaso y del plato», «por fuera os mostráis justos», «el atavío externo».",
+      "label_sv": "utsida / yttre sken",
+      "def_sv": "Utsidan, det yttre utseendet: ”utsidan av bägaren och fatet”, ”utåt verkar ni rättfärdiga”, ”yttre prydnad”.",
+      "layers": {
+        "nt": 6,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "マタイ23:25・23:27・23:28、ルカ11:39・11:40、Ⅰペテロ3:3。LXX・教父に並行。語義1との境界は連続的。"
+    },
+    {
+      "n": 3,
+      "label_ja": "外部の人々（οἱ ἔξωθεν）",
+      "def_ja": "外部の人々。『外部の人々からも良い評判を得ている』。",
+      "label_en": "outsiders (οἱ ἔξωθεν)",
+      "def_en": "Those outside: “well thought of by outsiders”.",
+      "label_es": "los de fuera (οἱ ἔξωθεν)",
+      "def_es": "La gente de fuera: «buen testimonio de los de afuera».",
+      "label_sv": "de utanförstående (οἱ ἔξωθεν)",
+      "def_sv": "De som står utanför: ”ha gott anseende även bland utomstående”.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "Ⅰテモ3:7 の1例のみ。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1PE 3:3": 2,
+    "1TI 3:7": 3,
+    "2CO 7:5": 1,
+    "LUK 11:39": 2,
+    "LUK 11:40": 2,
+    "MAT 23:25": 2,
+    "MAT 23:27": 2,
+    "MAT 23:28": 2,
+    "MRK 7:15": 1,
+    "MRK 7:18": 1,
+    "REV 11:2#1": 1,
+    "REV 11:2#2": 1,
+    "REV 14:20": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（場所／外側／外部の人）による。"
+}

@@ -1,0 +1,59 @@
+{
+  "strong": "G312",
+  "lemma": "ἀναγγέλλω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "報告する／知らせる",
+      "def_ja": "起きたこと・聞いたことを報告する、知らせる。『神がともにしてくださったことを報告した』『彼を癒やしたのはイエスだと知らせた』『あなたがたの熱意を知らせて』『自分の行いを明かして』。",
+      "label_en": "to report / tell",
+      "def_en": "To report or tell what happened or was heard: “reported all that God had done with them”, “told that it was Jesus who had healed him”, “told us of your longing”, “disclosing their practices”.",
+      "label_es": "informar / contar",
+      "def_es": "Referir o hacer saber lo ocurrido u oído: «refirieron cuán grandes cosas había hecho Dios con ellos», «dio aviso de que Jesús lo había sanado», «haciéndonos saber vuestro gran afecto», «dando cuenta de sus hechos».",
+      "label_sv": "att rapportera / berätta",
+      "def_sv": "Att redogöra för det som hänt eller hörts: ”berättade allt Gud gjort med dem”, ”talade om att det var Jesus som botat honom”, ”berättade om er längtan”, ”redovisade sina gärningar”.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒14:27・15:4・19:18、Ⅱコリ7:7、ヨハネ5:15。LXX 詩篇、教父に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "告げ知らせる／宣べ伝える",
+      "def_ja": "告げ知らせる、宣言する、明らかにする。『わたしたちがあなたがたに告げる知らせ』『これらのことが今あなたがたに告げ知らされた』『御霊が来たることを告げる』『神のご計画をことごとく告げ知らせ』。",
+      "label_en": "to announce / proclaim",
+      "def_en": "To announce, declare, make clear: “the message we proclaim to you”, “these things have now been announced to you”, “he will declare the things to come”, “declaring the whole counsel of God”.",
+      "label_es": "anunciar / proclamar",
+      "def_es": "Anunciar, declarar, manifestar: «el mensaje que os anunciamos», «las cosas que ahora os son anunciadas», «os hará saber las cosas que han de venir», «anunciaros todo el consejo de Dios».",
+      "label_sv": "att förkunna / kungöra",
+      "def_sv": "Att tillkännage, förklara, uppenbara: ”det budskap vi förkunnar för er”, ”det som nu har förkunnats för er”, ”Anden ska låta er veta vad som kommer”, ”förkunna hela Guds plan”.",
+      "layers": {
+        "nt": 9,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰヨハネ1:5・Ⅰペテロ1:12、使徒20:20・20:27、ヨハネ16:13・16:14・16:15・4:25、ローマ15:21。LXX イザヤ40:21・45:15、教父（16.3、2.1.3）に並行。"
+    }
+  ],
+  "assignments": {
+    "1JN 1:5": 2,
+    "1PE 1:12": 2,
+    "2CO 7:7": 1,
+    "ACT 14:27": 1,
+    "ACT 15:4": 1,
+    "ACT 19:18": 1,
+    "ACT 20:20": 2,
+    "ACT 20:27": 2,
+    "JHN 16:13": 2,
+    "JHN 16:14": 2,
+    "JHN 16:15": 2,
+    "JHN 5:15": 1,
+    "JHN 4:25": 2,
+    "ROM 15:21": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（報告／宣言）による。"
+}

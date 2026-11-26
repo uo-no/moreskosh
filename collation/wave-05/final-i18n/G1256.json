@@ -1,0 +1,75 @@
+{
+  "strong": "G1256",
+  "lemma": "διαλέγομαι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "論じる／語り合う",
+      "def_ja": "論じる、語り合う、推論する。『会堂で論じ』『聖書から論じ』『毎日論じ合っていた』『夜中まで語り合った』『正義と節制と来たるべき裁きを論じた』。",
+      "label_en": "to reason / discourse",
+      "def_en": "To argue, converse, reason: “reasoned in the synagogue”, “reasoned from the Scriptures”, “discussing daily”, “talked until midnight”, “reasoned about righteousness, self-control, and the coming judgment”.",
+      "label_es": "discutir / disertar",
+      "def_es": "Razonar, conversar, argumentar: «discutía en la sinagoga», «razonaba con las Escrituras», «discutiendo cada día», «alargó el discurso hasta la medianoche», «al disertar acerca de la justicia, el dominio propio y el juicio venidero».",
+      "label_sv": "att samtala / resonera",
+      "def_sv": "Att argumentera, samtala, resonera: ”samtalade i synagogan”, ”utgick från Skrifterna”, ”höll samtal varje dag”, ”talade ända till midnatt”, ”talade om rättfärdighet, återhållsamhet och den kommande domen”.",
+      "layers": {
+        "nt": 9,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒18:4・18:19・17:2・17:17・19:8・19:9・20:7・20:9・24:25。LXX イザヤ1:18 に並行。教父の代表例では確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "論争する／言い争う",
+      "def_ja": "言い争う、論争する。『だれが一番偉いかと議論していた』『悪魔と論じ争った』『だれとも論争したり』。",
+      "label_en": "to dispute / quarrel",
+      "def_en": "To argue, to contend: “were arguing about who was the greatest”, “disputed with the devil”, “not disputing with anyone”.",
+      "label_es": "disputar / contender",
+      "def_es": "Porfiar, altercar: «habían disputado quién había de ser el mayor», «contendía con el diablo», «ni disputando con ninguno».",
+      "label_sv": "att tvista / gräla",
+      "def_sv": "Att bråka och strida: ”hade tvistat om vem som var störst”, ”tvistade med djävulen”, ”inte diskuterade med någon”.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒24:12、ユダ9、マルコ9:34。LXX 出エジプト記6:27・士師記8:1 に並行。教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "語りかける",
+      "def_ja": "語りかける、呼びかける。『子どもに対するように語りかけている勧め』。",
+      "label_en": "to address",
+      "def_en": "To speak to, to appeal to: “the exhortation that addresses you as sons”.",
+      "label_es": "dirigirse a",
+      "def_es": "Hablar a, interpelar: «la exhortación que como a hijos se os dirige».",
+      "label_sv": "att tilltala",
+      "def_sv": "Att tala till och vädja till: ”den förmaning som talar till er som till söner”.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヘブル12:5 の1例のみ。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 18:4": 1,
+    "ACT 18:19": 1,
+    "ACT 17:2": 1,
+    "ACT 17:17": 1,
+    "ACT 19:8": 1,
+    "ACT 19:9": 1,
+    "ACT 20:7": 1,
+    "ACT 20:9": 1,
+    "ACT 24:12": 2,
+    "ACT 24:25": 1,
+    "HEB 12:5": 3,
+    "JUD 1:9": 2,
+    "MRK 9:34": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（論じる／論争／語りかけ）による。"
+}

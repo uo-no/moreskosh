@@ -1,0 +1,110 @@
+{
+  "strong": "G5013",
+  "lemma": "ταπεινόω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "へりくだる／低くされる",
+      "def_ja": "自らをへりくだらせる、へりくだる者となる、低くされる。『自分を低くする者は高められる』『神の力強い御手の下で自分を低くしなさい』『主の御前でへりくだりなさい』。",
+      "label_en": "to humble oneself / be humbled",
+      "def_en": "To humble oneself, become humble, be brought low: “whoever humbles himself will be exalted”, “humble yourselves under the mighty hand of God”, “humble yourselves before the Lord”.",
+      "label_es": "humillarse / ser humillado",
+      "def_es": "Humillarse, hacerse humilde, ser abajado: «el que se humilla será enaltecido», «humillaos bajo la poderosa mano de Dios», «humillaos delante del Señor».",
+      "label_sv": "att ödmjuka sig / förödmjukas",
+      "def_sv": "Att ödmjuka sig, bli ödmjuk, göras låg: ”den som ödmjukar sig ska bli upphöjd”, ”ödmjuka er under Guds mäktiga hand”, ”ödmjuka er inför Herren”.",
+      "layers": {
+        "nt": 9,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰペテロ5:6、ヤコブ4:10、ルカ14:11（2回）・18:14（2回）、マタイ18:4・23:12（2回）。LXX 詩篇34:14・イザヤ58:3、教父（18.17）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "身を低くする／卑しめる（自らを）",
+      "def_ja": "自らを低くする、卑しくなる。『自分を低くして』『死にまでも従われた』。",
+      "label_en": "to make oneself lowly",
+      "def_en": "To bring oneself low, to abase oneself: “he humbled himself”, “becoming obedient to the point of death”.",
+      "label_es": "abajarse (a sí mismo)",
+      "def_es": "Rebajarse, hacerse de baja condición: «se humilló a sí mismo», «haciéndose obediente hasta la muerte».",
+      "label_sv": "att förnedra sig (själv)",
+      "def_sv": "Att göra sig själv ringa: ”han ödmjukade sig”, ”blev lydig ända till döden”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ピリピ2:8、Ⅱコリ11:7。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "恥をかかせる（人を）",
+      "def_ja": "人に恥をかかせる、辱める。『神があなたがたの前でわたしを辱められるのではないか』。",
+      "label_en": "to humiliate (a person)",
+      "def_en": "To shame or humble someone: “lest my God humble me before you”.",
+      "label_es": "avergonzar (a alguien)",
+      "def_es": "Hacer pasar vergüenza a alguien: «que me humille Dios entre vosotros».",
+      "label_sv": "att förödmjuka (någon)",
+      "def_sv": "Att få någon att skämmas: ”att min Gud ska förödmjuka mig inför er”.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "Ⅱコリ12:21 の1例のみ。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 4,
+      "label_ja": "低くする（地形を）",
+      "def_ja": "地形を低くする、平らにする。『すべての山と丘は低くされる』。",
+      "label_en": "to make low (terrain)",
+      "def_en": "To lower the land, make it level: “every mountain and hill shall be made low”.",
+      "label_es": "rebajar (el terreno)",
+      "def_es": "Abajar el terreno, allanarlo: «se bajará todo monte y collado».",
+      "label_sv": "att sänka (terräng)",
+      "def_sv": "Att göra marken lägre och jämn: ”varje berg och höjd ska sänkas”.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ルカ3:5 の1例のみ（LXX イザヤ40:4 の引用）。LXX の代表例では確認していない。教父の代表例でも確認していない。"
+    },
+    {
+      "n": 5,
+      "label_ja": "乏しさに甘んじる",
+      "def_ja": "困窮に甘んじる、乏しい境遇に置かれる。『貧しさにも耐え』。",
+      "label_en": "to endure want",
+      "def_en": "To accept hardship, to be in straitened circumstances: “I know how to be brought low”.",
+      "label_es": "vivir en escasez",
+      "def_es": "Aceptar la estrechez, verse en penuria: «sé vivir humildemente».",
+      "label_sv": "att finna sig i knapphet",
+      "def_sv": "Att nöja sig i nöd och leva i knappa villkor: ”jag vet att leva i fattigdom”.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ピリピ4:12 の1例のみ。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1PE 5:6": 1,
+    "2CO 12:21": 3,
+    "2CO 11:7": 2,
+    "JAS 4:10": 1,
+    "LUK 14:11#1": 1,
+    "LUK 14:11#2": 1,
+    "LUK 18:14#1": 1,
+    "LUK 18:14#2": 1,
+    "LUK 3:5": 4,
+    "MAT 18:4": 1,
+    "MAT 23:12#1": 1,
+    "MAT 23:12#2": 1,
+    "PHP 4:12": 5,
+    "PHP 2:8": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は対象・文脈による。"
+}

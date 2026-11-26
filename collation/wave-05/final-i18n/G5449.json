@@ -1,0 +1,76 @@
+{
+  "strong": "G5449",
+  "lemma": "φύσις",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "本性／生まれつき（自然）",
+      "def_ja": "自然、本性、生まれつきの性質。『自然が教えている』『生まれながら怒りの子』『本来神でないもの』『自然の用を不自然なものに』『自然のままの枝』『生まれながらの異邦人』。",
+      "label_en": "nature / by birth",
+      "def_en": "Nature, one's inborn constitution: “does not nature itself teach you?”, “by nature children of wrath”, “those who by nature are not gods”, “exchanged natural relations for unnatural ones”, “natural branches”, “Gentiles by birth”.",
+      "label_es": "naturaleza / de nacimiento",
+      "def_es": "La naturaleza, la condición innata: «¿la naturaleza misma no os enseña?», «por naturaleza hijos de ira», «los que por naturaleza no son dioses», «cambiaron el uso natural por el contra naturaleza», «las ramas naturales», «gentiles de nacimiento».",
+      "label_sv": "natur / av födseln",
+      "def_sv": "Naturen, den medfödda beskaffenheten: ”lär er inte naturen själv?”, ”av naturen vredens barn”, ”gudar som till sitt väsen inte är gudar”, ”bytte det naturliga mot det onaturliga”, ”de naturliga grenarna”, ”hedningar av födseln”.",
+      "layers": {
+        "nt": 11,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰコリ11:14、ガラテヤ4:8・2:15、エペソ2:3、ローマ2:14・1:26・11:21・11:24（3回）・2:27。LXX 知恵・Ⅳマカバイ、教父（1.1.1）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "種／類",
+      "def_ja": "生き物の種類、類。『あらゆる種類の獣』『人類によって馴らされた』。",
+      "label_en": "species / kind",
+      "def_en": "A kind or class of living beings: “every kind of beast”, “tamed by humankind”.",
+      "label_es": "especie / género",
+      "def_es": "Clase de seres vivos: «toda naturaleza de bestias», «ha sido domada por la naturaleza humana».",
+      "label_sv": "art / släkte",
+      "def_sv": "Slag av levande varelser: ”alla slags vilda djur”, ”tämjts av människosläktet”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヤコブ3:7（2回）。LXX・教父（10.7）に並行。語義1との境界は連続的。"
+    },
+    {
+      "n": 3,
+      "label_ja": "（神の）性質",
+      "def_ja": "神の性質、本性。『神の性質にあずかる者となる』。",
+      "label_en": "(divine) nature",
+      "def_en": "The nature of God: “become partakers of the divine nature”.",
+      "label_es": "naturaleza (divina)",
+      "def_es": "La naturaleza de Dios: «participantes de la naturaleza divina».",
+      "label_sv": "(gudomlig) natur",
+      "def_sv": "Guds natur och väsen: ”få del av gudomlig natur”.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "Ⅱペテロ1:4 の1例のみ。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 11:14": 1,
+    "2PE 1:4": 3,
+    "EPH 2:3": 1,
+    "GAL 2:15": 1,
+    "GAL 4:8": 1,
+    "JAS 3:7#1": 2,
+    "JAS 3:7#2": 2,
+    "ROM 1:26": 1,
+    "ROM 11:21": 1,
+    "ROM 11:24#1": 1,
+    "ROM 11:24#2": 1,
+    "ROM 11:24#3": 1,
+    "ROM 2:14": 1,
+    "ROM 2:27": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（本性／種／神の性質）による。"
+}

@@ -1,0 +1,75 @@
+{
+  "strong": "G1934",
+  "lemma": "ἐπιζητέω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "探す／探し求める",
+      "def_ja": "探す、探し求める。『ペテロを捜したが見つからず』『サウロの話を聞こうと求めた』『イエスを探し求め』『さらにすぐれた故郷を求めている』『来たるべき都を求める』『残された者は求めたものを得ず』。",
+      "label_en": "to search for / seek out",
+      "def_en": "To look for, to search: “searched for Peter and did not find him”, “sought to hear the word”, “looking for Jesus”, “desire a better country”, “seek the city that is to come”, “the rest did not obtain what they sought”.",
+      "label_es": "buscar / indagar",
+      "def_es": "Buscar, procurar hallar: «habiendo buscado a Pedro sin hallarlo», «deseaba oír la palabra», «buscaban a Jesús», «anhelan una patria mejor», «buscamos la ciudad por venir», «lo que buscaba no lo ha alcanzado».",
+      "label_sv": "att söka / leta efter",
+      "def_sv": "Att leta och söka: ”sökte Petrus utan att finna honom”, ”ville höra Sauls och hans ord”, ”sökte efter Jesus”, ”längtar efter ett bättre land”, ”söker den stad som ska komma”, ”har inte nått det de sökte”.",
+      "layers": {
+        "nt": 6,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒12:19・13:7、ルカ4:42、ヘブル11:14・13:14、ローマ11:7。LXX 列王記・サムエル記、教父（3.11.1）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "求める／追い求める",
+      "def_ja": "求める、追い求める。『しるしを求める』『異邦人が切に求めるもの』『贈り物を求めるのではない』。",
+      "label_en": "to demand / pursue",
+      "def_en": "To seek, to strive after: “asks for a sign”, “what the Gentiles eagerly seek”, “not that I seek the gift”.",
+      "label_es": "pedir / afanarse por",
+      "def_es": "Reclamar, ir en pos de: «demanda señal», «las cosas que los gentiles buscan», «no que busque dádivas».",
+      "label_sv": "att begära / eftersträva",
+      "def_sv": "Att kräva och sträva efter: ”begär ett tecken”, ”det hedningarna jagar efter”, ”inte att jag är ute efter gåvan”.",
+      "layers": {
+        "nt": 6,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "マタイ6:32・12:39・16:4、ルカ12:30、ピリピ4:17（2回）。LXX・教父（12）に並行。"
+    },
+    {
+      "n": 3,
+      "label_ja": "さらに求める（問い質す）",
+      "def_ja": "さらに別の事を求める。『ほかに何か要求することがあるなら』。",
+      "label_en": "to require further",
+      "def_en": "To ask about some further matter: “if you want to inquire about anything else”.",
+      "label_es": "reclamar algo más",
+      "def_es": "Preguntar o exigir otra cosa: «si demandáis alguna otra cosa».",
+      "label_sv": "att begära ytterligare",
+      "def_sv": "Att fråga om eller kräva något mer: ”om ni har något annat att ta upp”.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒19:39 の1例のみ。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 12:19": 1,
+    "ACT 13:7": 1,
+    "ACT 19:39": 3,
+    "HEB 13:14": 1,
+    "HEB 11:14": 1,
+    "LUK 12:30": 2,
+    "LUK 4:42": 1,
+    "MAT 16:4": 2,
+    "MAT 12:39": 2,
+    "MAT 6:32": 2,
+    "PHP 4:17#1": 2,
+    "PHP 4:17#2": 2,
+    "ROM 11:7": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。"
+}

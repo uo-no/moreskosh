@@ -1,0 +1,75 @@
+{
+  "strong": "G1636",
+  "lemma": "ἐλαία",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "オリーブの木",
+      "def_ja": "オリーブの木。『二本のオリーブの木』『野生のオリーブの枝』『もとの栽培されたオリーブ』。",
+      "label_en": "olive tree",
+      "def_en": "The olive tree: “two olive trees”, “a wild olive shoot”, “their own cultivated olive tree”.",
+      "label_es": "olivo",
+      "def_es": "El olivo: «dos olivos», «siendo olivo silvestre», «su propio olivo».",
+      "label_sv": "olivträd",
+      "def_sv": "Olivträdet: ”två olivträd”, ”ett vilt olivskott”, ”deras eget ädla olivträd”.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "黙示録11:4、ローマ11:17・11:24。LXX ゼカリヤ4:11 に並行。教父の用例は無い。"
+    },
+    {
+      "n": 2,
+      "label_ja": "オリーブの実",
+      "def_ja": "オリーブの実。『いちじくの木がオリーブの実を結ぶことができようか』。",
+      "label_en": "olive (fruit)",
+      "def_en": "The fruit of the olive: “can a fig tree bear olives?”",
+      "label_es": "aceituna",
+      "def_es": "El fruto del olivo: «¿puede acaso la higuera producir aceitunas?».",
+      "label_sv": "oliv (frukt)",
+      "def_sv": "Olivträdets frukt: ”kan ett fikonträd bära oliver?”.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヤコブ3:12 の1例のみ。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "オリーブ山（τὸ ὄρος τῶν ἐλαιῶν）",
+      "def_ja": "『オリーブ山』という地名。",
+      "label_en": "Mount of Olives (τὸ ὄρος τῶν ἐλαιῶν)",
+      "def_en": "The place name “Mount of Olives”.",
+      "label_es": "monte de los Olivos (τὸ ὄρος τῶν ἐλαιῶν)",
+      "def_es": "El topónimo «monte de los Olivos».",
+      "label_sv": "Olivberget (τὸ ὄρος τῶν ἐλαιῶν)",
+      "def_sv": "Ortnamnet ”Olivberget”.",
+      "layers": {
+        "nt": 9,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヨハネ8:1、ルカ19:37・22:39、マタイ21:1・24:3・26:30、マルコ11:1・13:3・14:26。語義1との境界は連続的（地名）。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "JAS 3:12": 2,
+    "JHN 8:1": 3,
+    "LUK 19:37": 3,
+    "LUK 22:39": 3,
+    "MAT 21:1": 3,
+    "MAT 24:3": 3,
+    "MAT 26:30": 3,
+    "MRK 11:1": 3,
+    "MRK 13:3": 3,
+    "MRK 14:26": 3,
+    "REV 11:4": 1,
+    "ROM 11:17": 1,
+    "ROM 11:24": 1
+  },
+  "unresolved": [],
+  "layer_notes": "教父の用例は無い。語義区分は用法（木／実／地名）による。"
+}

@@ -1,0 +1,58 @@
+{
+  "strong": "G3397",
+  "lemma": "μικρός",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "しばらく／少しの間",
+      "def_ja": "少しの間、しばらく。『しばらくすると、あなたがたはもうわたしを見ない』『わたしはもうしばらくあなたがたといる』『しばらくして、そこに立っていた人々が』。",
+      "label_en": "a little while",
+      "def_en": "For a short time, a while: “a little while and you will see me no longer”, “I am with you a little while longer”, “after a little while those standing there …”.",
+      "label_es": "un poco de tiempo",
+      "def_es": "Por un momento, un rato: «todavía un poco y no me veréis», «todavía un poco estaré con vosotros», «un poco después, los que allí estaban».",
+      "label_sv": "en kort stund",
+      "def_sv": "En liten tid, en stund: ”en kort tid, och ni ser mig inte längre”, ”ännu en liten tid är jag hos er”, ”lite senare kom de som stod där”.",
+      "layers": {
+        "nt": 11,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヨハネ13:33・14:19・16:16（2回）・16:17（2回）・16:18・16:19（2回）、マタイ26:73、マルコ14:70。パケットは中性形（μικρόν）のみ。LXX・教父の代表例は形容詞の用法で、この副詞的用法ではないため層は確認できない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "少し（距離）",
+      "def_ja": "少し先へ。『少し進んで行って』。",
+      "label_en": "a little (distance)",
+      "def_en": "A little farther: “going a little farther”.",
+      "label_es": "un poco (distancia)",
+      "def_es": "Un poco más adelante: «yendo un poco adelante».",
+      "label_sv": "en bit (avstånd)",
+      "def_sv": "Ett litet stycke längre: ”gick ett litet stycke bort”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マタイ26:39、マルコ14:35。語義1との境界は連続的。層は確認できない。"
+    }
+  ],
+  "assignments": {
+    "JHN 13:33": 1,
+    "JHN 14:19": 1,
+    "JHN 16:16#1": 1,
+    "JHN 16:16#2": 1,
+    "JHN 16:17#1": 1,
+    "JHN 16:17#2": 1,
+    "JHN 16:18": 1,
+    "JHN 16:19#1": 1,
+    "JHN 16:19#2": 1,
+    "MAT 26:39": 2,
+    "MAT 26:73": 1,
+    "MRK 14:35": 2,
+    "MRK 14:70": 1
+  },
+  "unresolved": [],
+  "layer_notes": "パケットは中性単数形の副詞的用法のみ。LXX・教父の代表例は別の用法のため、層別確認に不十分。"
+}

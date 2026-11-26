@@ -1,0 +1,59 @@
+{
+  "strong": "G839",
+  "lemma": "αὔριον",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "あす（副詞）",
+      "def_ja": "明日。『あすは死ぬのだから』『きょうもあすも』『あす、エルサレムに』『あしたになれば炉に投げ込まれる草』。",
+      "label_en": "tomorrow (adverb)",
+      "def_en": "Tomorrow: “for tomorrow we die”, “today and tomorrow”, “tomorrow, to Jerusalem”, “grass that tomorrow is thrown into the oven”.",
+      "label_es": "mañana (adverbio)",
+      "def_es": "Mañana: «porque mañana moriremos», «hoy y mañana», «mañana a Jerusalén», «la hierba que mañana se echa en el horno».",
+      "label_sv": "i morgon (adverb)",
+      "def_sv": "I morgon: ”i morgon ska vi dö”, ”i dag och i morgon”, ”i morgon till Jerusalem”, ”gräset som i morgon kastas i ugnen”.",
+      "layers": {
+        "nt": 8,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰコリ15:32、使徒23:20・25:22、ヤコブ4:13、ルカ13:32・13:33・12:28、マタイ6:30。LXX 出エジプト記16:23、教父（23.5.3）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "翌日／あすの日（名詞的）",
+      "def_ja": "『翌日』『明日のこと』（冠詞を伴う名詞的用法）。『翌日になって』『あすのことは明日が思い煩う』『あすのことは知らない』。",
+      "label_en": "the next day / the morrow (substantival)",
+      "def_en": "“The next day”, “the things of tomorrow” (used as a noun with the article): “on the next day”, “tomorrow will worry about itself”, “you do not know what tomorrow will bring”.",
+      "label_es": "el día de mañana (sustantivado)",
+      "def_es": "«El día siguiente», «lo de mañana» (uso sustantivado con artículo): «al día siguiente», «el día de mañana traerá su afán», «no sabéis lo que será mañana».",
+      "label_sv": "morgondagen (substantiverat)",
+      "def_sv": "”Nästa dag”, ”det som hör morgondagen till” (substantiverat med artikel): ”följande dag”, ”morgondagen får bekymra sig för sig själv”, ”ni vet inte vad morgondagen för med sig”.",
+      "layers": {
+        "nt": 6,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒4:3・4:5、ルカ10:35、マタイ6:34（2回）、ヤコブ4:14。LXX・教父（26.11.7）に並行。"
+    }
+  ],
+  "assignments": {
+    "1CO 15:32": 1,
+    "ACT 23:20": 1,
+    "ACT 25:22": 1,
+    "ACT 4:3": 2,
+    "ACT 4:5": 2,
+    "JAS 4:13": 1,
+    "JAS 4:14": 2,
+    "LUK 10:35": 2,
+    "LUK 13:32": 1,
+    "LUK 13:33": 1,
+    "LUK 12:28": 1,
+    "MAT 6:30": 1,
+    "MAT 6:34#1": 2,
+    "MAT 6:34#2": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（副詞／冠詞を伴う名詞的）による。"
+}

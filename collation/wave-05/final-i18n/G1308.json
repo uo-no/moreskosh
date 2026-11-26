@@ -1,0 +1,109 @@
+{
+  "strong": "G1308",
+  "lemma": "διαφέρω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "まさる／価値がある",
+      "def_ja": "まさる、価値が大きい。『あなたがたは多くの雀よりもまさっている』『人は羊よりはるかに価値がある』『空の鳥よりもすぐれている』。",
+      "label_en": "to be worth more / surpass",
+      "def_en": "To excel, to be of greater value: “you are of more value than many sparrows”, “a person is far more valuable than a sheep”, “you are better than the birds of the air”.",
+      "label_es": "valer más / aventajar",
+      "def_es": "Ser superior, valer mucho más: «más valéis vosotros que muchos pajarillos», «cuánto más vale un hombre que una oveja», «¿no valéis vosotros mucho más que las aves?».",
+      "label_sv": "att vara mer värd / överträffa",
+      "def_sv": "Att vara förmer och ha större värde: ”ni är mer värda än många sparvar”, ”en människa är långt mer värd än ett får”, ”är ni inte värda mycket mer än fåglarna?”.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ルカ12:7・12:24、マタイ10:31・12:12・6:26。LXX ダニエル7:3 に並行。教父（3）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "異なる／違いがある",
+      "def_ja": "異なる、違いがある。『星と星とは光の違いがある』『何であったかは問題ではない』『僕と少しも違わない』。",
+      "label_en": "to differ",
+      "def_en": "To be different: “star differs from star in glory”, “what they were makes no difference”, “is no different from a slave”.",
+      "label_es": "diferir / ser distinto",
+      "def_es": "Ser diferente: «una estrella es diferente de otra en gloria», «lo que hayan sido no me importa», «en nada difiere del esclavo».",
+      "label_sv": "att skilja sig",
+      "def_sv": "Att vara olik: ”den ena stjärnan skiljer sig från den andra i glans”, ”vad de var spelar ingen roll”, ”inte skiljer sig från en slav”.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰコリ15:41、ガラテヤ2:6・4:1。LXX・教父に並行。語義1との境界は連続的。"
+    },
+    {
+      "n": 3,
+      "label_ja": "優れたもの（τὰ διαφέροντα）",
+      "def_ja": "『優れたものを見分け』『大事なことを見きわめ』。",
+      "label_en": "the things that excel (τὰ διαφέροντα)",
+      "def_en": "“Discern what is excellent”, “approve what really matters”.",
+      "label_es": "lo mejor (τὰ διαφέροντα)",
+      "def_es": "«Aprobar lo mejor», «discernir lo que importa».",
+      "label_sv": "det väsentliga (τὰ διαφέροντα)",
+      "def_sv": "”Avgöra vad som är bäst”, ”urskilja det väsentliga”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ピリピ1:10、ローマ2:18。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 4,
+      "label_ja": "運び通る",
+      "def_ja": "物を運んで通る。『器を持って神殿の庭を通り抜ける』。",
+      "label_en": "to carry through",
+      "def_en": "To carry something through: “carry a vessel through the temple court”.",
+      "label_es": "transportar a través",
+      "def_es": "Llevar cosas atravesando: «atravesar el templo llevando un utensilio».",
+      "label_sv": "att bära igenom",
+      "def_sv": "Att bära ting genom en plats: ”bära ett kärl genom tempelgården”.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マルコ11:16 の1例のみ。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 5,
+      "label_ja": "広まる／押し流される",
+      "def_ja": "広がる、押し流される。『主のことばは地方全体に広まった』『アドリヤ海を漂流していた』。",
+      "label_en": "to spread / be driven about",
+      "def_en": "To spread, to be carried to and fro: “the word of the Lord spread through the whole region”, “were being driven across the Adriatic Sea”.",
+      "label_es": "difundirse / ir a la deriva",
+      "def_es": "Extenderse, ser llevado de un lado a otro: «la palabra del Señor se difundía por toda aquella provincia», «llevados a través del mar Adriático».",
+      "label_sv": "att spridas / driva omkring",
+      "def_sv": "Att breda ut sig, att drivas hit och dit: ”Herrens ord spreds över hela området”, ”drev omkring på Adriatiska havet”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒13:49・27:27。LXX Ⅰ列王記17:39 などに並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 15:41": 2,
+    "ACT 13:49": 5,
+    "ACT 27:27": 5,
+    "GAL 2:6": 2,
+    "GAL 4:1": 2,
+    "LUK 12:7": 1,
+    "LUK 12:24": 1,
+    "MAT 10:31": 1,
+    "MAT 12:12": 1,
+    "MAT 6:26": 1,
+    "MRK 11:16": 4,
+    "PHP 1:10": 3,
+    "ROM 2:18": 3
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。"
+}

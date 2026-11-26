@@ -1,0 +1,59 @@
+{
+  "strong": "G726",
+  "lemma": "ἁρπάζω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "奪い取る／ひったくる",
+      "def_ja": "力ずくで奪う、ひったくる。『羊を奪い、散らす』『だれもわたしの手から奪うことはできない』『王にしようとして連れて行く』『強い人の家を略奪する』『蒔かれたものを奪い去る』『火の中からひったくって』。",
+      "label_en": "to seize / snatch away",
+      "def_en": "To take by force, to snatch: “snatches and scatters the sheep”, “no one can snatch them out of my hand”, “come and take him by force to make him king”, “plunder the strong man's house”, “snatches away what was sown”, “snatching them out of the fire”.",
+      "label_es": "arrebatar / quitar por la fuerza",
+      "def_es": "Tomar por la fuerza, arrebatar: «arrebata y dispersa las ovejas», «nadie las arrebatará de mi mano», «iban a apoderarse de él para hacerle rey», «saquear la casa del hombre fuerte», «arrebata lo sembrado», «arrebatándolos del fuego».",
+      "label_sv": "att rycka bort / rova",
+      "def_sv": "Att ta med våld, att rycka till sig: ”vargen river och skingrar fåren”, ”ingen kan rycka dem ur min hand”, ”tvinga honom med sig för att göra honom till kung”, ”plundra den starkes hus”, ”snappar bort det sådda”, ”rycka dem ur elden”.",
+      "layers": {
+        "nt": 9,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヨハネ10:12・10:28・10:29・6:15、マタイ12:29・13:19・11:12、ユダ23、使徒23:10。LXX 創世記・詩篇68:5、教父（35.11、10.4）に並行。マタイ11:12 の『激しく奪う』の読みは解釈上の争点で、語義は決定しない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "取り去られる／携え上げられる",
+      "def_ja": "突然連れ去られる、引き上げられる。『雲の中に引き上げられ』『第三の天にまで引き上げられた』『楽園に引き上げられ』『主の霊がピリポを連れ去った』『神のみもとへ引き上げられた』。",
+      "label_en": "to be caught up / carried off",
+      "def_en": "To be suddenly carried away, to be taken up: “caught up in the clouds”, “caught up to the third heaven”, “caught up into paradise”, “the Spirit of the Lord carried Philip away”, “caught up to God”.",
+      "label_es": "ser arrebatado / llevado",
+      "def_es": "Ser llevado de repente, ser elevado: «arrebatados en las nubes», «arrebatado hasta el tercer cielo», «arrebatado al paraíso», «el Espíritu del Señor arrebató a Felipe», «arrebatado para Dios».",
+      "label_sv": "att ryckas bort / ryckas upp",
+      "def_sv": "Att plötsligt föras bort eller upp: ”ryckas upp bland molnen”, ”uppryckt till tredje himlen”, ”uppryckt till paradiset”, ”Herrens Ande ryckte bort Filippos”, ”uppryckt till Gud”.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰテサ4:17、Ⅱコリ12:2・12:4、使徒8:39、黙示録12:5。LXX 代表例に並行。教父に並行。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "1TH 4:17": 2,
+    "2CO 12:2": 2,
+    "2CO 12:4": 2,
+    "ACT 23:10": 1,
+    "ACT 8:39": 2,
+    "JHN 10:12": 1,
+    "JHN 10:28": 1,
+    "JHN 10:29": 1,
+    "JHN 6:15": 1,
+    "JUD 1:23": 1,
+    "MAT 11:12": 1,
+    "MAT 12:29": 1,
+    "MAT 13:19": 1,
+    "REV 12:5": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（奪う／携え上げる）による。"
+}

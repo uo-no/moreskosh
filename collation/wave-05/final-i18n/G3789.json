@@ -1,0 +1,76 @@
+{
+  "strong": "G3789",
+  "lemma": "ὄφις",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "蛇",
+      "def_ja": "蛇、毒蛇。『蛇に噛まれて死んだ』『蛇をつかみ』『蛇の頭』『蛇を踏みつけ』『魚の代わりに蛇を』。",
+      "label_en": "snake / serpent",
+      "def_en": "A snake, a viper: “bitten by a serpent and died”, “pick up serpents”, “the head of the serpent”, “tread on serpents”, “a serpent instead of a fish”.",
+      "label_es": "serpiente",
+      "def_es": "Serpiente, víbora: «perecieron por las serpientes», «tomarán en las manos serpientes», «la cabeza de la serpiente», «hollar serpientes», «en vez de pescado, una serpiente».",
+      "label_sv": "orm",
+      "def_sv": "En orm, en huggorm: ”dödades av ormar”, ”ta ormar i händerna”, ”ormens huvud”, ”trampa på ormar”, ”en orm i stället för en fisk”.",
+      "layers": {
+        "nt": 7,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰコリ10:9、ヨハネ3:14、ルカ10:19・11:11、マタイ7:10、マルコ16:18、黙示録9:19。LXX 民数記21:7、教父（12.6）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "蛇のように（比喩・譬え）",
+      "def_ja": "蛇のようにさとく、蛇のような者。『蛇のようにさとく』『蛇よ、まむしの子らよ』。",
+      "label_en": "like a serpent (figure, parable)",
+      "def_en": "Wise as a serpent, serpent-like: “wise as serpents”, “you serpents, you brood of vipers”.",
+      "label_es": "como serpiente (figura, comparación)",
+      "def_es": "Astuto como serpiente, semejante a ella: «prudentes como serpientes», «¡serpientes, generación de víboras!».",
+      "label_sv": "som en orm (bild, jämförelse)",
+      "def_sv": "Klok som en orm, ormlik: ”kloka som ormar”, ”ni ormar, ni huggormsyngel”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マタイ10:16・23:33。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "（あの）蛇（エデンの蛇）",
+      "def_ja": "『蛇がその悪巧みでエバを欺いた』『あの年を経た蛇、悪魔とかサタンと呼ばれる者』。",
+      "label_en": "the serpent (of Eden)",
+      "def_en": "“As the serpent deceived Eve by his cunning”, “that ancient serpent, who is called the devil and Satan”.",
+      "label_es": "la serpiente (del Edén)",
+      "def_es": "«Como la serpiente engañó a Eva con su astucia», «la serpiente antigua, que se llama diablo y Satanás».",
+      "label_sv": "(den där) ormen (i Eden)",
+      "def_sv": "”Så som ormen bedrog Eva med sin list”, ”den gamle ormen, som kallas djävulen och Satan”.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "Ⅱコリ11:3、黙示録12:9・12:14・12:15・20:2。LXX 創世記3:2 に並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 10:9": 1,
+    "2CO 11:3": 3,
+    "JHN 3:14": 1,
+    "LUK 10:19": 1,
+    "LUK 11:11": 1,
+    "MAT 10:16": 2,
+    "MAT 23:33": 2,
+    "MAT 7:10": 1,
+    "MRK 16:18": 1,
+    "REV 12:9": 3,
+    "REV 12:14": 3,
+    "REV 12:15": 3,
+    "REV 20:2": 3,
+    "REV 9:19": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（動物／比喩／創世記の蛇）による。"
+}

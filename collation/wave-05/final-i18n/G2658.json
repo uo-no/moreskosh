@@ -1,0 +1,58 @@
+{
+  "strong": "G2658",
+  "lemma": "καταντάω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "到着する／至る（場所）",
+      "def_ja": "到着する、着く、至る。『ローマに着いた』『エペソに来た』『デルベとルステラに来た』『コス島の向かい側に着いた』『フェニクスに着けるなら』。",
+      "label_en": "to arrive / reach (a place)",
+      "def_en": "To arrive at, reach: “arrived in Rome”, “came to Ephesus”, “came to Derbe and Lystra”, “arrived opposite Cos”, “if they could reach Phoenix”.",
+      "label_es": "llegar / arribar (un lugar)",
+      "def_es": "Llegar, alcanzar un sitio: «llegamos a Roma», «arribó a Éfeso», «llegó a Derbe y a Listra», «llegamos delante de Cos», «si podían arribar a Fenice».",
+      "label_sv": "att komma fram / nå (en plats)",
+      "def_sv": "Att anlända och nå en plats: ”kom till Rom”, ”kom till Efesus”, ”kom till Derbe och Lystra”, ”kom mitt för Kos”, ”om de kunde nå Foinix”.",
+      "layers": {
+        "nt": 8,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒18:19・18:24・16:1・20:15・25:13・21:7・28:13・27:12。LXX Ⅱマカバイ4:21・歴代誌に並行。教父の代表例では確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "達する／届く（比喩的）",
+      "def_ja": "到達する、届く、至る。『世の終わりに臨んだわたしたち』『神のことばはあなたがたにだけ届いたのか』『約束の成就に達する』『キリストの満ちた身丈に達する』『死者の中からの復活に達したい』。",
+      "label_en": "to attain / come to (figurative)",
+      "def_en": "To reach, come to, arrive at: “on whom the end of the ages has come”, “did the word of God reach only you?”, “attain the fulfilment of the promise”, “attain to the stature of the fullness of Christ”, “that I may attain the resurrection from the dead”.",
+      "label_es": "alcanzar / llegar a (figurado)",
+      "def_es": "Alcanzar, llegar hasta: «a quienes han alcanzado los fines de los siglos», «¿solo a vosotros ha llegado la palabra de Dios?», «alcanzar el cumplimiento de la promesa», «llegar a la estatura de la plenitud de Cristo», «llegar a la resurrección de entre los muertos».",
+      "label_sv": "att nå fram till (bildligt)",
+      "def_sv": "Att nå, komma till: ”vi som har tidernas slut inpå oss”, ”har Guds ord nått bara er?”, ”få det utlovade uppfyllt”, ”nå fram till Kristi fulla mognad”, ”nå uppståndelsen från de döda”.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰコリ10:11・14:36、使徒26:7、エペソ4:13、ピリピ3:11。LXX Ⅱサムエル3:29、教父（23.4、1.2）に並行。"
+    }
+  ],
+  "assignments": {
+    "1CO 10:11": 2,
+    "1CO 14:36": 2,
+    "ACT 18:19": 1,
+    "ACT 18:24": 1,
+    "ACT 16:1": 1,
+    "ACT 20:15": 1,
+    "ACT 25:13": 1,
+    "ACT 21:7": 1,
+    "ACT 26:7": 2,
+    "ACT 28:13": 1,
+    "ACT 27:12": 1,
+    "EPH 4:13": 2,
+    "PHP 3:11": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（場所／比喩）による。"
+}

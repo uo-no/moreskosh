@@ -1,0 +1,92 @@
+{
+  "strong": "G3811",
+  "lemma": "παιδεύω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "訓練する／懲らしめて育てる",
+      "def_ja": "懲らしめて訓練する、しつける。『主に裁かれるのは、世と共に罪に定められないように懲らしめられるのだ』『主は愛する者を訓練される』『父は懲らしめない子があろうか』『わたしは愛する者を叱り、訓練する』『人に知られない者のようでも、懲らしめられても殺されず』。",
+      "label_en": "to discipline / train by chastening",
+      "def_en": "To chasten and train, to correct: “when we are judged by the Lord we are disciplined so that we may not be condemned with the world”, “the Lord disciplines the one he loves”, “what son is there whom his father does not discipline?”, “those whom I love I reprove and discipline”, “punished and yet not killed”.",
+      "label_es": "disciplinar / corregir para formar",
+      "def_es": "Castigar para formar, corregir: «somos castigados por el Señor para no ser condenados con el mundo», «el Señor al que ama disciplina», «¿qué hijo es aquel a quien el padre no disciplina?», «yo reprendo y castigo a los que amo», «como castigados, mas no muertos».",
+      "label_sv": "att tukta / fostra genom aga",
+      "def_sv": "Att tukta och öva, att fostra: ”när Herren dömer oss fostras vi för att inte fördömas med världen”, ”den Herren älskar tuktar han”, ”finns det någon son som inte fostras av sin far?”, ”alla som jag älskar tillrättavisar och fostrar jag”, ”tuktade men inte dödade”.",
+      "layers": {
+        "nt": 6,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰコリ11:32、ヘブル12:6・12:7・12:10、黙示録3:19、Ⅱコリ6:9。LXX 詩篇93:10・箴言、教父（56.3）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "むち打つ（罰する）",
+      "def_ja": "罰として懲らしめる、むち打つ。『懲らしめたうえで釈放しよう』。",
+      "label_en": "to flog (punish)",
+      "def_en": "To chastise as a punishment, to flog: “I will have him punished and release him”.",
+      "label_es": "azotar (castigar)",
+      "def_es": "Castigar como pena, azotar: «le soltaré después de castigarle».",
+      "label_sv": "att prygla (bestraffa)",
+      "def_sv": "Att straffa med prygel: ”jag ska låta prygla honom och sedan släppa honom”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ルカ23:16・23:22。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "教育する／教え育てる",
+      "def_ja": "教え育てる、教育する。『律法にしたがって厳しく教育を受け』『エジプト人の学問をすべて教えられ』『不信心と世の欲を捨てるように教える』。",
+      "label_en": "to educate / instruct",
+      "def_en": "To instruct and bring up, to educate: “strictly educated according to the law”, “instructed in all the wisdom of the Egyptians”, “teaching us to renounce ungodliness and worldly passions”.",
+      "label_es": "educar / instruir",
+      "def_es": "Enseñar y criar, educar: «instruido estrictamente conforme a la ley», «fue enseñado en toda la sabiduría de los egipcios», «enseñándonos que renunciemos a la impiedad y a los deseos mundanos».",
+      "label_sv": "att utbilda / uppfostra",
+      "def_sv": "Att undervisa och fostra: ”noga undervisad i lagen”, ”fick lära sig all egypternas visdom”, ”fostrar oss att säga nej till gudlöshet och världsliga begär”.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒22:3・7:22、テトス2:12。LXX 箴言21:12、教父（2.3.1）に並行。"
+    },
+    {
+      "n": 4,
+      "label_ja": "矯正する（反対者を）",
+      "def_ja": "正す、戒める。『冒瀆しないように教えるため』『反対する者を柔和に正しなさい』。",
+      "label_en": "to correct (opponents)",
+      "def_en": "To correct, to admonish: “that they may learn not to blaspheme”, “correcting opponents with gentleness”.",
+      "label_es": "corregir (a los que se oponen)",
+      "def_es": "Enmendar, amonestar: «para que aprendan a no blasfemar», «que con mansedumbre corrija a los que se oponen».",
+      "label_sv": "att tillrättavisa (motståndare)",
+      "def_sv": "Att rätta och förmana: ”så att de lär sig att inte häda”, ”med mildhet tillrättavisa motståndarna”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "Ⅰテモ1:20、Ⅱテモ2:25。語義1・3との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 11:32": 1,
+    "1TI 1:20": 4,
+    "2CO 6:9": 1,
+    "2TI 2:25": 4,
+    "ACT 22:3": 3,
+    "ACT 7:22": 3,
+    "HEB 12:6": 1,
+    "HEB 12:7": 1,
+    "HEB 12:10": 1,
+    "LUK 23:16": 2,
+    "LUK 23:22": 2,
+    "REV 3:19": 1,
+    "TIT 2:12": 3
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（懲らしめ／罰／教育／矯正）による。"
+}

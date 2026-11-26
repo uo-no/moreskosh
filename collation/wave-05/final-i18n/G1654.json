@@ -1,0 +1,58 @@
+{
+  "strong": "G1654",
+  "lemma": "ἐλεημοσύνη",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "施し／貧しい者への施し物",
+      "def_ja": "貧しい者への施し、施し物。『施しを乞う』『施しを求めた』『施しをするときは』『あなたの施しは覚えられた』『施しをせよ』。",
+      "label_en": "alms / gift to the poor",
+      "def_en": "Charitable giving, what is given to the poor: “begging for alms”, “asked to receive alms”, “when you give to the needy”, “your alms have been remembered”, “give alms”.",
+      "label_es": "limosna / lo que se da al pobre",
+      "def_es": "Ayuda al pobre, la dádiva: «para pedir limosna», «rogaba que le diesen limosna», «cuando des limosna», «tus limosnas han sido recordadas», «dad limosna».",
+      "label_sv": "allmosa / gåva till de fattiga",
+      "def_sv": "Gåvor till de fattiga: ”tigga allmosor”, ”bad om en gåva”, ”när du ger allmosor”, ”dina allmosor har Gud kommit ihåg”, ”ge allmosor”.",
+      "layers": {
+        "nt": 12,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒10:2・10:4・10:31・24:17・3:2・3:3・3:10、ルカ11:41・12:33、マタイ6:2・6:3・6:4。LXX 箴言・トビト12:9、教父（16.4、15.4）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "慈善の行い",
+      "def_ja": "慈善の行い、親切なわざ。『多くの善行と施しに満ちていた』（使徒9:36）。",
+      "label_en": "works of charity",
+      "def_en": "Charitable deeds, acts of kindness: “full of good works and acts of charity” (Acts 9:36).",
+      "label_es": "obras de caridad",
+      "def_es": "Obras benéficas, actos de bondad: «abundaba en buenas obras y en limosnas» (Hch 9:36).",
+      "label_sv": "välgörenhet",
+      "def_sv": "Barmhärtighetsverk, vänliga gärningar: ”rik på goda gärningar och gåvor till de fattiga” (Apg 9:36).",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒9:36 の1例のみ。語義1との境界は連続的。LXX・教父に並行。"
+    }
+  ],
+  "assignments": {
+    "ACT 10:2": 1,
+    "ACT 10:4": 1,
+    "ACT 10:31": 1,
+    "ACT 24:17": 1,
+    "ACT 3:2": 1,
+    "ACT 3:3": 1,
+    "ACT 3:10": 1,
+    "ACT 9:36": 2,
+    "LUK 11:41": 1,
+    "LUK 12:33": 1,
+    "MAT 6:2": 1,
+    "MAT 6:3": 1,
+    "MAT 6:4": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（施し物／慈善の行い）による。"
+}

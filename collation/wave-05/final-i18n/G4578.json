@@ -1,0 +1,59 @@
+{
+  "strong": "G4578",
+  "lemma": "σεισμός",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "地震",
+      "def_ja": "地震、大地の揺れ。『大地震が起こって』『各地に地震が起こる』『大地震があり、都の十分の一が倒れた』『稲妻と雷鳴と地震と』。",
+      "label_en": "earthquake",
+      "def_en": "An earthquake, a shaking of the earth: “there was a great earthquake”, “earthquakes in various places”, “a great earthquake, and a tenth of the city fell”, “lightning, thunder, and an earthquake”.",
+      "label_es": "terremoto",
+      "def_es": "Terremoto, sacudida de la tierra: «hubo un gran terremoto», «terremotos en diferentes lugares», «un gran terremoto, y la décima parte de la ciudad se derrumbó», «relámpagos, truenos y un terremoto».",
+      "label_sv": "jordbävning",
+      "def_sv": "En jordbävning, att marken skakar: ”det blev en kraftig jordbävning”, ”jordbävningar på olika platser”, ”en stor jordbävning, och en tiondel av staden rasade”, ”blixtar, dunder och jordbävning”.",
+      "layers": {
+        "nt": 13,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒16:26、ルカ21:11、マタイ28:2・24:7・27:54、マルコ13:8、黙示録11:13（2回）・11:19・16:18（2回）・8:5・6:12。LXX 預言書（エレミヤ23:19 ほか）に並行。教父の用例は無い。"
+    },
+    {
+      "n": 2,
+      "label_ja": "大荒れ／嵐（海の）",
+      "def_ja": "海が揺れ動くこと、嵐。『海に大荒れが起こり』。",
+      "label_en": "storm / tempest (at sea)",
+      "def_en": "A shaking of the sea, a storm: “there arose a great storm on the sea”.",
+      "label_es": "tempestad (en el mar)",
+      "def_es": "Agitación del mar, tormenta: «se levantó en el mar una tempestad grande».",
+      "label_sv": "storm (på sjön)",
+      "def_sv": "Att sjön rörs upp, ett oväder: ”det blåste upp en våldsam storm på sjön”.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マタイ8:24 の1例のみ。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 16:26": 1,
+    "LUK 21:11": 1,
+    "MAT 28:2": 1,
+    "MAT 24:7": 1,
+    "MAT 8:24": 2,
+    "MAT 27:54": 1,
+    "MRK 13:8": 1,
+    "REV 11:13#1": 1,
+    "REV 11:13#2": 1,
+    "REV 11:19": 1,
+    "REV 16:18#1": 1,
+    "REV 16:18#2": 1,
+    "REV 8:5": 1,
+    "REV 6:12": 1
+  },
+  "unresolved": [],
+  "layer_notes": "教父の用例は無い。"
+}

@@ -1,0 +1,58 @@
+{
+  "strong": "G2326",
+  "lemma": "θερισμός",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "刈り入れ（行為・時）",
+      "def_ja": "刈り入れの時、収穫の時期。『刈り入れまでなお四か月』『刈り入れまで両方育つままにしておけ』『刈り入れとは世の終わり』『実が熟すと刈り入れが来る』『刈り入れの時が来た』。",
+      "label_en": "harvest (act, season)",
+      "def_en": "The time of reaping, the harvest season: “there are yet four months until the harvest”, “let both grow until the harvest”, “the harvest is the end of the age”, “when the grain is ripe the harvest comes”, “the hour to reap has come”.",
+      "label_es": "siega (acción, tiempo)",
+      "def_es": "El tiempo de segar, la época de la cosecha: «aún faltan cuatro meses para la siega», «dejad crecer juntamente hasta la siega», «la siega es el fin del siglo», «cuando el fruto está maduro llega la siega», «la hora de segar ha llegado».",
+      "label_sv": "skörd (handlingen, tiden)",
+      "def_sv": "Skördetiden: ”fyra månader kvar till skörden”, ”låt båda växa till skörden”, ”skörden är tidens slut”, ”när säden mognat är skörden inne”, ”skördetiden har kommit”.",
+      "layers": {
+        "nt": 7,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヨハネ4:35（2回）、マタイ13:30（2回）・13:39、マルコ4:29、黙示録14:15。LXX 申命記・エレミヤに並行。教父の用例は無い。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "収穫（刈り入れられるもの）",
+      "def_ja": "収穫物、刈り入れの畑。『収穫は多いが働き手が少ない』『収穫の主に願え』。",
+      "label_en": "harvest (what is reaped)",
+      "def_en": "The crop, the field to be reaped: “the harvest is plentiful but the labourers are few”, “ask the Lord of the harvest”.",
+      "label_es": "mies (lo que se siega)",
+      "def_es": "La cosecha, el campo por segar: «la mies es mucha, pero los obreros pocos», «rogad al Señor de la mies».",
+      "label_sv": "skörd (det som skördas)",
+      "def_sv": "Grödan, fältet som ska skördas: ”skörden är stor men arbetarna få”, ”be skördens herre”.",
+      "layers": {
+        "nt": 6,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ10:2（3回）、マタイ9:37・9:38（2回）。LXX 代表例に並行。教父の用例は無い。"
+    }
+  ],
+  "assignments": {
+    "JHN 4:35#1": 1,
+    "JHN 4:35#2": 1,
+    "LUK 10:2#1": 2,
+    "LUK 10:2#2": 2,
+    "LUK 10:2#3": 2,
+    "MAT 13:30#1": 1,
+    "MAT 13:30#2": 1,
+    "MAT 13:39": 1,
+    "MAT 9:37": 2,
+    "MAT 9:38#1": 2,
+    "MAT 9:38#2": 2,
+    "MRK 4:29": 1,
+    "REV 14:15": 1
+  },
+  "unresolved": [],
+  "layer_notes": "教父の用例は無い。語義区分は用法（時／収穫物）による。"
+}

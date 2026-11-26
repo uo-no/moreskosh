@@ -1,0 +1,59 @@
+{
+  "strong": "G3307",
+  "lemma": "μερίζω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "分かれる／分ける",
+      "def_ja": "分ける、分裂する、分かれる。『国が内輪もめすれば成り立たない』『キリストは分けられたのか』『心が分かれている』。",
+      "label_en": "to be divided / divide",
+      "def_en": "To divide, split, be divided: “a kingdom divided against itself cannot stand”, “is Christ divided?”, “his interests are divided”.",
+      "label_es": "dividirse / dividir",
+      "def_es": "Dividir, partirse, estar dividido: «un reino dividido contra sí mismo no puede permanecer», «¿acaso está dividido Cristo?», «hay diferencia en su corazón».",
+      "label_sv": "att vara splittrad / dela",
+      "def_sv": "Att dela, splittra, vara delad: ”ett rike i strid med sig självt kan inte bestå”, ”är Kristus delad?”, ”är splittrad”.",
+      "layers": {
+        "nt": 8,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰコリ1:13・7:34、マタイ12:25（2回）・12:26、マルコ3:24・3:25・3:26。LXX・教父に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "分け与える／割り当てる",
+      "def_ja": "分け与える、割り当てる、配分する。『神が各自に割り当てた』『アブラハムは十分の一を分け与えた』『わたしに遺産を分けるように』『魚を分けられた』。",
+      "label_en": "to apportion / assign",
+      "def_en": "To share out, assign, distribute: “as God has assigned to each”, “Abraham apportioned a tenth”, “tell my brother to divide the inheritance with me”, “divided the fish”.",
+      "label_es": "repartir / asignar",
+      "def_es": "Distribuir, asignar, dar su parte: «según Dios repartió a cada uno», «a quien dio Abrahán los diezmos», «que parta conmigo la herencia», «repartió los peces».",
+      "label_sv": "att tilldela / fördela",
+      "def_sv": "Att dela ut, tilldela, fördela: ”efter vad Gud har tilldelat var och en”, ”Abraham gav tionde”, ”dela arvet med mig”, ”delade ut fiskarna”.",
+      "layers": {
+        "nt": 6,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰコリ7:17、Ⅱコリ10:13、ローマ12:3、ヘブル7:2、ルカ12:13、マルコ6:41。LXX 詩篇・箴言29:24、教父（16.13、2.6.2）に並行。"
+    }
+  ],
+  "assignments": {
+    "1CO 1:13": 1,
+    "1CO 7:17": 2,
+    "1CO 7:34": 1,
+    "2CO 10:13": 2,
+    "HEB 7:2": 2,
+    "LUK 12:13": 2,
+    "MAT 12:25#1": 1,
+    "MAT 12:25#2": 1,
+    "MAT 12:26": 1,
+    "MRK 3:24": 1,
+    "MRK 3:25": 1,
+    "MRK 3:26": 1,
+    "MRK 6:41": 2,
+    "ROM 12:3": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（分離／配分）による。"
+}
