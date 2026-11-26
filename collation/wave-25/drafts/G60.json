@@ -1,0 +1,35 @@
+{
+  "strong": "G60",
+  "lemma": "ἀγοραῖος",
+  "status": "拡張照合・下書き",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "市場にたむろする",
+      "def_ja": "市場にたむろする（者）。『広場のならず者』。",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒17:5。LXX・教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "法廷の（日）",
+      "def_ja": "法廷の、開廷日の。『裁判の日』。",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒19:38。LXX・教父の用例なし。"
+    }
+  ],
+  "assignments": {
+    "ACT 17:5": 1,
+    "ACT 19:38": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。"
+}
