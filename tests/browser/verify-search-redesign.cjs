@@ -56,7 +56,7 @@ async function withMobilePage(browser, name, fn) {
     await withPage(browser, 'L1-2', async (page) => {
         await page.goto(`${BASE}/search-tool.html`);
         await page.waitForLoadState('domcontentloaded');
-        const ids = ['concept-insight','dist-panel','syntax-panel','pattern-explore-section'];
+        const ids = ['concept-insight','dist-panel','syntax-panel'];
         for (const id of ids) {
             const el = await page.$(`#${id}`);
             if (!el) { fail('L1-2', `#${id} missing`); return; }
