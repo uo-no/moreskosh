@@ -1,0 +1,139 @@
+{
+ "strong": "G3432",
+ "lemma": "μοιχός",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 6:9",
+   "form": "μοιχοὶ",
+   "morph": "N-NPM",
+   "gloss_en": "adulterers",
+   "gloss_ja": "姦淫者",
+   "verse": "Ἢ οὐκ οἴδατε ὅτι ἄδικοι θεοῦ βασιλείαν οὐ κληρονομήσουσιν; μὴ πλανᾶσθε· οὔτε πόρνοι οὔτε εἰδωλολάτραι οὔτε μοιχοὶ οὔτε μαλακοὶ οὔτε ἀρσενοκοῖται"
+  },
+  {
+   "ref": "HEB 13:4",
+   "form": "μοιχοὺς",
+   "morph": "N-APM",
+   "gloss_en": "adulterers",
+   "gloss_ja": "姦淫者",
+   "verse": "τίμιος ὁ γάμος ἐν πᾶσιν καὶ ἡ κοίτη ἀμίαντος, πόρνους γὰρ καὶ μοιχοὺς κρινεῖ ὁ θεός."
+  },
+  {
+   "ref": "LUK 18:11",
+   "form": "μοιχοί",
+   "morph": "N-NPM",
+   "gloss_en": "adulterers",
+   "gloss_ja": "姦淫者",
+   "verse": "ὁ Φαρισαῖος σταθεὶς πρὸς ἑαυτὸν ταῦτα προσηύχετο· Ὁ θεός, εὐχαριστῶ σοι ὅτι οὐκ εἰμὶ ὥσπερ οἱ λοιποὶ τῶν ἀνθρώπων, ἅρπαγες, ἄδικοι, μοιχοί, ἢ καὶ ὡς οὗτος ὁ τελώνης·"
+  }
+ ],
+ "lxx": {
+  "total": 6,
+  "works": {
+   "Psalmi": 1,
+   "Proverbia": 1,
+   "Job": 1,
+   "Sapientia Salomonis": 1,
+   "Ecclesiasticus sive Siracides": 1,
+   "Isaias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "49.18",
+    "form": "μοιχοῦ",
+    "postag": "n-s---mg-",
+    "sentence": "εἰ ἐθεώρεις κλέπτην, συνέτρεχες αὐτῷ, καὶ μετὰ μοιχοῦ τὴν μερίδα σου ἐτίθεις."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "6.32",
+    "form": "μοιχὸς",
+    "postag": "n-s---mn-",
+    "sentence": "ὁ δὲ μοιχὸς δι’ ἔνδειαν φρενῶν ἀπώλειαν τῇ ψυχῇ αὐτοῦ περιποιεῖται, ὀδύνας τε καὶ ἀτιμίας ὑποφέρει, τὸ δὲ ὄνειδος αὐτοῦ οὐκ ἐξαλειφθήσεται εἰς τὸν αἰῶνα."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "24.15",
+    "form": "μοιχοῦ",
+    "postag": "n-s---mg-",
+    "sentence": "καὶ ὀφθαλμὸς μοιχοῦ ἐφύλαξε σκότος λέγων ·"
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "3.16",
+    "form": "μοιχῶν",
+    "postag": "n-p---mg-",
+    "sentence": "τέκνα δὲ μοιχῶν ἀτέλεστα ἔσται, καὶ ἐκ παρανόμου κοίτης σπέρμα ἀφανισθήσεται."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "25.2",
+    "form": "μοιχὸν",
+    "postag": "n-s---ma-",
+    "sentence": "πτωχὸν ὑπερήφανον, καὶ πλούσιον ψεύστην, γέροντα μοιχὸν ἐλαττούμενον συνέσει."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "57.3",
+    "form": "μοιχῶν",
+    "postag": "n-p---mg-",
+    "sentence": "ἔσται ἐν εἰρήνῃ ἡ ταφὴ αὐτοῦ, ᾖρται ἐκ τοῦ μέσου ὑμεῖς δὲ προσαγάγετε ὧδε, υἱοὶ ἄνομοι, σπέρμα μοιχῶν καὶ πόρνης ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 3,
+  "works": {
+   "Barnabas": 1,
+   "1 Clement": 1,
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "10.7",
+    "form": "μοιχὸς",
+    "postag": "n-s---mn-",
+    "sentence": "οὐ μή, φησίν, γένῃ μοιχὸς οὐ-δὲ φθορεὺς οὐ-δὲ ὁμοιωθήσῃ τοῖς τοιούτοις."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "35.8",
+    "form": "μοιχῶν",
+    "postag": "n-p---mg-",
+    "sentence": "συνέτρεχες αὐτῷ, καὶ μετὰ μοιχῶν τὴν μερίδα σου ἐτίθεις."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "23.5.5",
+    "form": "μοιχὸς",
+    "postag": "n-s---mn-",
+    "sentence": "καὶ ὁ μοιχὸς καὶ ὁ μέθυσος καὶ ὁ κατάλαλος καὶ ὁ ψεύστης καὶ ὁ πλεονέκτης καὶ ὁ ἀποστερητὴς καὶ ὁ τούτοις τὰ ὅμοια ποιῶν τῇ ἰδίᾳ νόσῳ τὸ ἱκανὸν ποιεῖ ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3   μοιχός, -οῦ, ὁ,    [in LXX for נאף;]    an adulterer: Lk 18:11, I Co 6:9, He 13:4.†"
+}

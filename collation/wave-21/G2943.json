@@ -1,0 +1,175 @@
+{
+ "strong": "G2943",
+ "lemma": "κυκλόθεν",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "REV 4:3",
+   "form": "κυκλόθεν",
+   "morph": "ADV",
+   "gloss_en": "around",
+   "gloss_ja": "周りに",
+   "verse": "καὶ ὁ καθήμενος ὅμοιος ὁράσει λίθῳ ἰάσπιδι καὶ σαρδίῳ, καὶ ἶρις κυκλόθεν τοῦ θρόνου ὅμοιος ὁράσει σμαραγδίνῳ."
+  },
+  {
+   "ref": "REV 4:4",
+   "form": "κυκλόθεν",
+   "morph": "ADV",
+   "gloss_en": "around",
+   "gloss_ja": "周りに",
+   "verse": "καὶ κυκλόθεν τοῦ θρόνου θρόνοι εἴκοσι τέσσαρες, καὶ ἐπὶ τοὺς θρόνους εἴκοσι τέσσαρας πρεσβυτέρους καθημένους περιβεβλημένους ἐν ἱματίοις λευκοῖς, καὶ ἐπὶ τὰς κεφαλὰς αὐτῶν στεφάνους χρυσοῦς."
+  },
+  {
+   "ref": "REV 4:8",
+   "form": "κυκλόθεν",
+   "morph": "ADV",
+   "gloss_en": "around",
+   "gloss_ja": "周りに",
+   "verse": "καὶ τὰ τέσσαρα ζῷα, ἓν καθ’ ἓν αὐτῶν ἔχων ἀνὰ πτέρυγας ἕξ, κυκλόθεν καὶ ἔσωθεν γέμουσιν ὀφθαλμῶν· καὶ ἀνάπαυσιν οὐκ ἔχουσιν ἡμέρας καὶ νυκτὸς λέγοντες· Ἅγιος ἅγιος ἅγιος κύριος, ὁ θεός, ὁ παντοκράτωρ, ὁ ἦν καὶ ὁ ὢν καὶ ὁ ἐρχόμενος."
+  }
+ ],
+ "lxx": {
+  "total": 91,
+  "works": {
+   "Josue": 2,
+   "Judices": 2,
+   "Regnorum i": 2,
+   "Regnorum iii": 12,
+   "Regnorum iv": 1,
+   "Paralipomenon i sive Chronicon i": 2,
+   "Paralipomenon ii sive Chronicon ii": 7,
+   "Esdras ii": 2,
+   "Machabaeorum i": 9,
+   "Machabaeorum iv": 2,
+   "Psalmi": 1,
+   "Ecclesiasticus sive Siracides": 7,
+   "Amos": 1,
+   "Joel": 2,
+   "Zacharias": 4,
+   "Isaias": 1,
+   "Jeremias": 8,
+   "Threni seu Lamentationes": 1,
+   "Ezechiel": 24,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "43.17",
+    "form": "κυκλόθεν",
+    "postag": "d--------",
+    "sentence": "καὶ τὸ γεῖσος αὐτῷ κυκλόθεν κυκλούμενον αὐτῷ."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "5.18",
+    "form": "κυκλόθεν",
+    "postag": "d--------",
+    "sentence": "καὶ νῦν ἀνέπαυσε Κύριος ὁ Θεός μου ἐμοὶ κυκλόθεν ·"
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "10.11",
+    "form": "κυκλόθεν",
+    "postag": "d--------",
+    "sentence": "καὶ εἶπε πρὸς τοὺς ποιοῦντας τὰ ἔργα οἰκοδομεῖν τὰ τείχη καὶ τὸ ὄρος Σιὼν κυκλόθεν ἐκ λίθων τετραγώνων εἰς ὀχύρωσιν ·"
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "30.7",
+    "form": "κυκλόθεν",
+    "postag": "d--------",
+    "sentence": "καὶ καλέσατε ἐπ’ αὐτοὺς ἀπώλειαν κυκλόθεν."
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "20.30",
+    "form": "κυκλόθεν",
+    "postag": "d--------",
+    "sentence": "καὶ εἰρήνευσεν ἡ βασιλεία Ἰωσαφάτ, καὶ κατέπαυσεν αὐτῷ ὁ Θεὸς αὐτοῦ κυκλόθεν."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "47.7",
+    "form": "κυκλόθεν",
+    "postag": "d--------",
+    "sentence": "ἐξέτριψε γὰρ ἐχθροὺς κυκλόθεν καὶ ἐξουδένωσε Φυλιστιεὶμ τοὺς ὑπεναντίους ·"
+   },
+   {
+    "work_code": "ZEC",
+    "work_ja": "ゼカリヤ書",
+    "work_src": "Zacharias",
+    "ref": "2.9",
+    "form": "κυκλόθεν",
+    "postag": "d--------",
+    "sentence": "καὶ ἐγὼ ἔσομαι αὐτῇ, λέγει Κύριος, τεῖχος πυρὸς κυκλόθεν καὶ εἰς δόξαν ἔσομαι ἐν μέσῳ αὐτῆς."
+   },
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "21.44",
+    "form": "κυκλόθεν",
+    "postag": "d--------",
+    "sentence": "καὶ κατέπαυσεν αὐτοὺς Κύριος κυκλόθεν, καθὰ ὤμοσε τοῖς πατράσιν αὐτῶν ·"
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "8.34",
+    "form": "κυκλόθεν",
+    "postag": "d--------",
+    "sentence": "καὶ οὐκ ἐμνήσθησαν οἱ υἱοὶ Ἰσραὴλ Κυρίου τοῦ Θεοῦ τοῦ ρυσαμένου αὐτοὺς ἐκ χειρὸς πάντων τῶν θλιβόντων αὐτοὺς κυκλόθεν."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "10.1",
+    "form": "κυκλόθεν",
+    "postag": "d--------",
+    "sentence": "καὶ σὺ ἄρξεις ἐν λαῷ Κυρίου, καὶ σὺ σώσεις αὐτὸν ἐκ χειρὸς ἐχθρῶν αὐτοῦ κυκλόθεν."
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "22.18",
+    "form": "κυκλόθεν",
+    "postag": "d--------",
+    "sentence": "καὶ ἀνέπαυσεν ὑμᾶς κυκλόθεν, ὅτι ἔδωκεν ἐν χερσὶν ὑμῶν τοὺς κατοικοῦντας τὴν γῆν, καὶ ὑπετάγη ἡ γῆ ἐναντίον Κυρίου καὶ ἐναντίον λαοῦ αὐτοῦ."
+   },
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "22.28",
+    "form": "κυκλόθεν",
+    "postag": "d--------",
+    "sentence": "καὶ συνήχθησαν οἱ υἱοὶ τῶν ᾀδόντων καὶ ἀπὸ τῆς περιχώρου κυκλόθεν εἰς Ἱερουσαλὴμ καὶ ἀπὸ ἐπαύλεων καὶ ἀπὸ ἀγρῶν ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "3   κυκλόθεν,     adv.,    (< κύκλος),   [in LXX chiefly for מִסָּבִיב, סָבִיב;]    from all sides, round about: Re 4:3, 4, 8.†"
+}

@@ -1,0 +1,79 @@
+{
+ "strong": "G2111",
+ "lemma": "εὔθετος",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "HEB 6:7",
+   "form": "εὔθετον",
+   "morph": "A-ASF",
+   "gloss_en": "useful",
+   "gloss_ja": "ふさわしい",
+   "verse": "γῆ γὰρ ἡ πιοῦσα τὸν ἐπ’ αὐτῆς ἐρχόμενον πολλάκις ὑετόν, καὶ τίκτουσα βοτάνην εὔθετον ἐκείνοις δι’ οὓς καὶ γεωργεῖται, μεταλαμβάνει εὐλογίας ἀπὸ τοῦ θεοῦ·"
+  },
+  {
+   "ref": "LUK 14:35",
+   "form": "εὔθετόν",
+   "morph": "A-NSN",
+   "gloss_en": "fit",
+   "gloss_ja": "ふさわしい",
+   "verse": "οὔτε εἰς γῆν οὔτε εἰς κοπρίαν εὔθετόν ἐστιν· ἔξω βάλλουσιν αὐτό. ὁ ἔχων ὦτα ἀκούειν ἀκουέτω."
+  },
+  {
+   "ref": "LUK 9:62",
+   "form": "εὔθετός",
+   "morph": "A-NSM",
+   "gloss_en": "fit",
+   "gloss_ja": "ふさわしい",
+   "verse": "εἶπεν δὲ ὁ Ἰησοῦς· Οὐδεὶς ἐπιβαλὼν τὴν χεῖρα ἐπ’ ἄροτρον καὶ βλέπων εἰς τὰ ὀπίσω εὔθετός ἐστιν τῇ βασιλείᾳ τοῦ θεοῦ."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Psalmi": 1,
+   "Susanna": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "31.6",
+    "form": "εὐθέτῳ",
+    "postag": "a-s---md-",
+    "sentence": "ὑπὲρ ταύτης προσεύξεται πρὸς σὲ πᾶς ὅσιος ἐν καιρῷ εὐθέτῳ ·"
+   },
+   {
+    "work_code": "SUS",
+    "work_ja": "スザンナ（Th）",
+    "work_src": "Susanna",
+    "ref": "15",
+    "form": "εὔθετον",
+    "postag": "a-s---fa-",
+    "sentence": "καὶ ἐγένετο ἐν τῷ παρατηρεῖν αὐτοὺς ἡμέραν εὔθετον εἰσῆλθέ ποτε καθὼς ἐχθὲς καὶ τρίτης ἡμέρας μετὰ δύο μόνων κορασίων καὶ ἐπεθύμησε λούσασθαι ἐν τῷ παραδείσῳ, ὅτι καῦμα ἦν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Polycarp, To the Philippians": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PPH",
+    "work_ja": "ポリュカルポスのピリピ書簡",
+    "work_src": "Polycarp, To the Philippians",
+    "ref": "13.1",
+    "form": "εὔθετον",
+    "postag": "a-s---ma-",
+    "sentence": "ὅπερ ποιήσω, ἐὰν λάβω καιρὸν εὔθετον, εἴ-τε ἐγώ, εἴ-τε ὄν πέμπω πρεσβεύσοντα καὶ περὶ ὑμῶν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3   εὔ-θετος, -ον    (< τίθημι),    [in LXX: Ps 31 (32):6 (מָצָא),   Da TH Su 1:15* ;]     ready for use, fit: of things, c. dat., He 6:7; seq. εἰς, Lk 14:35; of persons, c. dat., Lk 9:62 (for rabbinic parallels, v. Dalman, Words, 119 f.).†"
+}

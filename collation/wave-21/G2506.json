@@ -1,0 +1,67 @@
+{
+ "strong": "G2506",
+ "lemma": "καθαίρεσις",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2CO 10:4",
+   "form": "καθαίρεσιν",
+   "morph": "N-ASF",
+   "gloss_en": "destroy",
+   "gloss_ja": "破壊",
+   "verse": "τὰ γὰρ ὅπλα τῆς στρατείας ἡμῶν οὐ σαρκικὰ ἀλλὰ δυνατὰ τῷ θεῷ πρὸς καθαίρεσιν ὀχυρωμάτων λογισμοὺς καθαιροῦντες"
+  },
+  {
+   "ref": "2CO 10:8",
+   "form": "καθαίρεσιν",
+   "morph": "N-ASF",
+   "gloss_en": "tearing ~ down",
+   "gloss_ja": "破壊",
+   "verse": "ἐάν τε γὰρ περισσότερόν τι καυχήσωμαι περὶ τῆς ἐξουσίας ἡμῶν, ἧς ἔδωκεν ὁ κύριος εἰς οἰκοδομὴν καὶ οὐκ εἰς καθαίρεσιν ὑμῶν, οὐκ αἰσχυνθήσομαι,"
+  },
+  {
+   "ref": "2CO 13:10",
+   "form": "καθαίρεσιν",
+   "morph": "N-ASF",
+   "gloss_en": "tearing down",
+   "gloss_ja": "破壊",
+   "verse": "διὰ τοῦτο ταῦτα ἀπὼν γράφω, ἵνα παρὼν μὴ ἀποτόμως χρήσωμαι κατὰ τὴν ἐξουσίαν ἣν ὁ κύριος ἔδωκέν μοι, εἰς οἰκοδομὴν καὶ οὐκ εἰς καθαίρεσιν."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Exodus": 1,
+   "Machabaeorum i": 1
+  },
+  "representatives": [
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "23.24",
+    "form": "καθαιρέσει",
+    "postag": "n-s---fd-",
+    "sentence": "οὐ ποιήσεις κατὰ τὰ ἔργα αὐτῶν, ἀλλὰ καθαιρέσει καθελεῖς καὶ συντρίβων συντρίψεις τὰς στήλας αὐτῶν."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "3.43",
+    "form": "καθαίρεσιν",
+    "postag": "n-s---fa-",
+    "sentence": "ἀναστήσωμεν τὴν καθαίρεσιν τοῦ λαοῦ ἡμῶν καὶ πολεμήσωμεν περὶ τοῦ λαοῦ ἡμῶν καὶ τῶν ἁγίων."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "3   καθ-αίρεσις, -εως, ἡ    (< καθαιρέω),   [in LXX: Ex 23:24 (הָרֵס), I Mac 3:43*;]    a pulling down, destruction: fig., κ. ὀχυρωμάτων, II Co 10:4; opp. to οἰκοδομή, II Co 10:8 13:10.†"
+}

@@ -1,0 +1,134 @@
+{
+ "strong": "G248",
+ "lemma": "ἀλοάω",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 9:9",
+   "form": "ἀλοῶντα",
+   "morph": "V-PAP-ASM",
+   "gloss_en": "treading out the grain",
+   "gloss_ja": "脱穀する",
+   "verse": "ἐν γὰρ τῷ Μωϋσέως νόμῳ γέγραπται· Οὐ κημώσεις βοῦν ἀλοῶντα. μὴ τῶν βοῶν μέλει τῷ θεῷ,"
+  },
+  {
+   "ref": "1CO 9:10",
+   "form": "ἀλοῶν",
+   "morph": "V-PAP-NSM",
+   "gloss_en": "threshes",
+   "gloss_ja": "脱穀する",
+   "verse": "ἢ δι’ ἡμᾶς πάντως λέγει; δι’ ἡμᾶς γὰρ ἐγράφη, ὅτι ὀφείλει ἐπ’ ἐλπίδι ὁ ἀροτριῶν ἀροτριᾶν, καὶ ὁ ἀλοῶν ἐπ’ ἐλπίδι τοῦ μετέχειν."
+  },
+  {
+   "ref": "1TI 5:18",
+   "form": "ἀλοῶντα",
+   "morph": "V-PAP-ASM",
+   "gloss_en": "treading out the grain",
+   "gloss_ja": "脱穀する",
+   "verse": "λέγει γὰρ ἡ γραφή· Βοῦν ἀλοῶντα οὐ φιμώσεις, καί· Ἄξιος ὁ ἐργάτης τοῦ μισθοῦ αὐτοῦ."
+  }
+ ],
+ "lxx": {
+  "total": 9,
+  "works": {
+   "Deuteronomium": 1,
+   "Judices": 2,
+   "Paralipomenon i sive Chronicon i": 1,
+   "Michaeas": 1,
+   "Isaias": 2,
+   "Jeremias": 2
+  },
+  "representatives": [
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "8.16",
+    "form": "ἠλόησεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἔλαβε τοὺς πρεσβυτέρους τῆς πόλεως ἐν ταῖς ἀκάνθαις τῆς ἐρήμου καὶ ταῖς Βαρκηνὶμ καὶ ἠλόησεν ἐν αὐτοῖς τοὺς ἄνδρας τῆς πόλεως."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "41.15",
+    "form": "ἁλοῶντας",
+    "postag": "v-pppama-",
+    "sentence": "ἰδοὺ ἐποίησά σε ὡς τροχοὺς ἁμάξης ἁλοῶντας καινοὺς πριστηροειδεῖς, καὶ ἁλοήσεις ὄρη καὶ λεπτυνεῖς βουνοὺς καὶ ὡς χνοῦν θήσεις ·"
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "28.33",
+    "form": "ἁλοηθήσονται",
+    "postag": "v3pfip---",
+    "sentence": "οἶκοι βασιλέως Βαβυλῶνος ὡς ἅλων ὥριμος ἁλοηθήσονται ·"
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "25.4",
+    "form": "ἁλοῶντα",
+    "postag": "v-sppama-",
+    "sentence": "οὐ φιμώσεις βοῦν ἁλοῶντα."
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "21.20",
+    "form": "ἁλοῶν",
+    "postag": "v-sppamn-",
+    "sentence": "καὶ Ὀρνὰ ἦν ἁλοῶν πυρούς."
+   },
+   {
+    "work_code": "MIC",
+    "work_ja": "ミカ書",
+    "work_src": "Michaeas",
+    "ref": "4.13",
+    "form": "ἀλόα",
+    "postag": "v2spma---",
+    "sentence": "ἀνάστηθι, καὶ ἀλόα αὐτούς, θύγατερ Σιών, ὅτι τὰ κέρατά σου θήσομαι σιδηρᾶ καὶ τὰς ὁπλάς σου θήσομαι χαλκᾶς, καὶ κατατήξεις ἐν αὐτοῖς ἔθνη καὶ λεπτυνεῖς λαοὺς πολλοὺς καὶ ἀναθήσεις τῷ Κυρίῳ τὸ πλῆθος αὐτῶν καὶ τὴν ἰσχὺν αὐτῶν τῷ Κυρίῳ πάσης τῆς γῆς."
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "8.7",
+    "form": "ἀλοήσω",
+    "postag": "v1sfia---",
+    "sentence": "διὰ τοῦτο ἐν τῷ δοῦναι Κύριον τὸν Ζεβεὲ καὶ τὸν Σελμανὰ ἐν χειρί μου, καὶ ἐγὼ ἀλοήσω τὰς σάρκας ὑμῶν ἐν ταῖς ἀκάνθαις τῆς ἐρήμου καὶ ἐν ταῖς Βαρκηνίμ."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "41.15",
+    "form": "ἁλοήσεις",
+    "postag": "v2sfia---",
+    "sentence": "ἰδοὺ ἐποίησά σε ὡς τροχοὺς ἁμάξης ἁλοῶντας καινοὺς πριστηροειδεῖς, καὶ ἁλοήσεις ὄρη καὶ λεπτυνεῖς βουνοὺς καὶ ὡς χνοῦν θήσεις ·"
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "5.17",
+    "form": "ἀλοήσουσι",
+    "postag": "v3pfia---",
+    "sentence": "καὶ ἀλοήσουσι τὰς πόλεις τὰς ὀχυρὰς ὑμῶν, ἐφ’ αἷς ὑμεῖς πεποίθατε ἐπ’ αὐταῖς, ἐν ρομφαίᾳ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "3   ἀλοάω, -ῶ    (< ἅλως, v.s. ἅλων; and cf. MM, VGT, s.v.),   [in LXX chiefly for דּוּשׁ;]     to thresh: I Co 9:9 9:13; I Ti 5:18.†"
+}

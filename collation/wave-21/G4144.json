@@ -1,0 +1,57 @@
+{
+ "strong": "G4144",
+ "lemma": "πλοῦς",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": "πλοος",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 21:7",
+   "form": "πλοῦν",
+   "morph": "N-ASM",
+   "gloss_en": "voyage",
+   "gloss_ja": "航海",
+   "verse": "Ἡμεῖς δὲ τὸν πλοῦν διανύσαντες ἀπὸ Τύρου κατηντήσαμεν εἰς Πτολεμαΐδα, καὶ ἀσπασάμενοι τοὺς ἀδελφοὺς ἐμείναμεν ἡμέραν μίαν παρ’ αὐτοῖς."
+  },
+  {
+   "ref": "ACT 27:9",
+   "form": "πλοὸς",
+   "morph": "N-GSM",
+   "gloss_en": "voyage",
+   "gloss_ja": "航海",
+   "verse": "Ἱκανοῦ δὲ χρόνου διαγενομένου καὶ ὄντος ἤδη ἐπισφαλοῦς τοῦ πλοὸς διὰ τὸ καὶ τὴν νηστείαν ἤδη παρεληλυθέναι, παρῄνει ὁ Παῦλος"
+  },
+  {
+   "ref": "ACT 27:10",
+   "form": "πλοῦν",
+   "morph": "N-ASM",
+   "gloss_en": "voyage",
+   "gloss_ja": "航海",
+   "verse": "λέγων αὐτοῖς· Ἄνδρες, θεωρῶ ὅτι μετὰ ὕβρεως καὶ πολλῆς ζημίας οὐ μόνον τοῦ φορτίου καὶ τοῦ πλοίου ἀλλὰ καὶ τῶν ψυχῶν ἡμῶν μέλλειν ἔσεσθαι τὸν πλοῦν."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Sapientia Salomonis": 1
+  },
+  "representatives": [
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "14.1",
+    "form": "πλοῦν",
+    "postag": "n-s---ma-",
+    "sentence": "πλοῦν τις πάλιν στελλόμενος καὶ ἄγρια μέλλων διοδεύειν κύματα, τοῦ φέροντος αὐτὸν πλοίου σαθρότερον ξύλον ἐπιβοᾶται."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "3   ** πλόος, πλούς gen., -όου, -οῦ (and in late writers also πλοός, like νοός from νοῦς), ὁ    (< πλέω),   [in LXX: Wi 14:1*;]    a voyage: Ac 21:7 27:9, 10.†"
+}

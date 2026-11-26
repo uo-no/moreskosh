@@ -1,0 +1,57 @@
+{
+ "strong": "G3782",
+ "lemma": "ὀφειλή",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 7:3",
+   "form": "ὀφειλὴν",
+   "morph": "N-ASF",
+   "gloss_en": "duty",
+   "gloss_ja": "負債",
+   "verse": "τῇ γυναικὶ ὁ ἀνὴρ τὴν ὀφειλὴν ἀποδιδότω, ὁμοίως δὲ καὶ ἡ γυνὴ τῷ ἀνδρί."
+  },
+  {
+   "ref": "MAT 18:32",
+   "form": "ὀφειλὴν",
+   "morph": "N-ASF",
+   "gloss_en": "debt",
+   "gloss_ja": "負債",
+   "verse": "τότε προσκαλεσάμενος αὐτὸν ὁ κύριος αὐτοῦ λέγει αὐτῷ· Δοῦλε πονηρέ, πᾶσαν τὴν ὀφειλὴν ἐκείνην ἀφῆκά σοι, ἐπεὶ παρεκάλεσάς με·"
+  },
+  {
+   "ref": "ROM 13:7",
+   "form": "ὀφειλάς",
+   "morph": "N-APF",
+   "gloss_en": "due",
+   "gloss_ja": "負債",
+   "verse": "ἀπόδοτε πᾶσι τὰς ὀφειλάς, τῷ τὸν φόρον τὸν φόρον, τῷ τὸ τέλος τὸ τέλος, τῷ τὸν φόβον τὸν φόβον, τῷ τὴν τιμὴν τὴν τιμήν."
+  }
+ ],
+ "lxx": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Didache": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DID",
+    "work_ja": "ディダケー",
+    "work_src": "Didache",
+    "ref": "8.2",
+    "form": "ὀφειλὴν",
+    "postag": "n-s---fa-",
+    "sentence": "τὸν ἄρτον ἡμῶν τὸν ἐπιούσιον δὸς ἡμῖν σήμερον, καὶ ἄφες ἡμῖν τὴν ὀφειλὴν ἡμῶν, ὡς καὶ ἡμεῖς ἀφίεμεν τοῖς ὀφειλέταις ἡμῶν, καὶ μὴ εἰσενέγκῃς ἡμᾶς εἰς πειρασμόν, ἀλλὰ ῥῦσαι ἡμᾶς ἀπὸ τοῦ πονηροῦ ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3   *† ὀφειλή, -ῆς, ἡ    (< ὀφείλω),    a debt: Mt 18:32; metaph., one's due: Ro 13:7, I Co 7:3 (found also in π.; v. Deiss., BS, 221; MM, xviii).†"
+}

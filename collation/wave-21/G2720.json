@@ -1,0 +1,196 @@
+{
+ "strong": "G2720",
+ "lemma": "κατευθύνω",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1TH 3:11",
+   "form": "κατευθύναι",
+   "morph": "V-AAO-3S",
+   "gloss_en": "direct",
+   "gloss_ja": "導く",
+   "verse": "Αὐτὸς δὲ ὁ θεὸς καὶ πατὴρ ἡμῶν καὶ ὁ κύριος ἡμῶν Ἰησοῦς κατευθύναι τὴν ὁδὸν ἡμῶν πρὸς ὑμᾶς·"
+  },
+  {
+   "ref": "2TH 3:5",
+   "form": "κατευθύναι",
+   "morph": "V-AAO-3S",
+   "gloss_en": "direct",
+   "gloss_ja": "導く",
+   "verse": "ὁ δὲ κύριος κατευθύναι ὑμῶν τὰς καρδίας εἰς τὴν ἀγάπην τοῦ θεοῦ καὶ εἰς τὴν ὑπομονὴν τοῦ Χριστοῦ."
+  },
+  {
+   "ref": "LUK 1:79",
+   "form": "κατευθῦναι",
+   "morph": "V-AAN",
+   "gloss_en": "guide",
+   "gloss_ja": "導く",
+   "verse": "ἐπιφᾶναι τοῖς ἐν σκότει καὶ σκιᾷ θανάτου καθημένοις, τοῦ κατευθῦναι τοὺς πόδας ἡμῶν εἰς ὁδὸν εἰρήνης."
+  }
+ ],
+ "lxx": {
+  "total": 69,
+  "works": {
+   "Judices": 1,
+   "Regnorum i": 1,
+   "Regnorum ii": 1,
+   "Regnorum iii": 1,
+   "Paralipomenon i sive Chronicon i": 1,
+   "Paralipomenon ii sive Chronicon ii": 6,
+   "Esther": 2,
+   "Judith": 3,
+   "Machabaeorum iii": 1,
+   "Psalmi": 14,
+   "Odae": 1,
+   "Proverbia": 9,
+   "Ecclesiasticus sive Siracides": 5,
+   "Psalmi Salomonis": 6,
+   "Osee": 1,
+   "Zacharias": 1,
+   "Malachias": 1,
+   "Jeremias": 2,
+   "Ezechiel": 6,
+   "Daniel": 6
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "58.5",
+    "form": "κατεύθυνα",
+    "postag": "v1saia---",
+    "sentence": "ἄνευ ἀνομίας ἔδραμον καὶ κατεύθυνα ·"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "4.26",
+    "form": "κατεύθυνε",
+    "postag": "v2spma---",
+    "sentence": "ὀρθὰς τροχιὰς ποίει σοῖς ποσὶ καὶ τὰς ὁδούς σου κατεύθυνε."
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "32.30",
+    "form": "κατηύθυνεν",
+    "postag": "v3saia---",
+    "sentence": "αὐτὸς Ἐζεκίας ἐνέφραξε τὴν ἔξοδον τοῦ ὕδατος Γιὼν τὸ ἄνω καὶ κατηύθυνεν αὐτὰ κάτω πρὸς λίβα τῆς πόλεως Δαυίδ ·"
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "8.6",
+    "form": "Κατευθυνοῦσιν",
+    "postag": "v3pfia---",
+    "sentence": "εἶπα Κατευθυνοῦσιν ὁδοὺς αὐτῶν ἐν δικαιοσύνῃ."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "18.25",
+    "form": "κατευθύνει",
+    "postag": "v3spia---",
+    "sentence": "οὐ κατευθύνει ἡ ὁδὸς Κυρίου."
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "8.25",
+    "form": "κατευθυνεῖ",
+    "postag": "v3sfia---",
+    "sentence": "καὶ ὁ ζυγὸς τοῦ κλοιοῦ αὐτοῦ κατευθυνεῖ ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "49.2",
+    "form": "κατηυθύνθη",
+    "postag": "v3saip---",
+    "sentence": "αὐτὸς κατηυθύνθη ἐν ἐπιστροφῇ λαοῦ καὶ ἐξῇρε βδελύγματα ἀνομίας ·"
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "8.23",
+    "form": "κατευθυνθήσεται",
+    "postag": "v3sfip---",
+    "sentence": "ὅτι οὐ κατευθυνθήσεται ἡ δουλεία ἡμῶν εἰς χάριν, ἀλλ’ εἰς ἀτιμίαν θήσει αὐτὴν Κύριος ὁ Θεὸς ἡμῶν."
+   },
+   {
+    "work_code": "EST",
+    "work_ja": "エステル記",
+    "work_src": "Esther",
+    "ref": "8.12π",
+    "form": "κατευθύνοντος",
+    "postag": "v-sppamg-",
+    "sentence": "ἡμεῖς δὲ τοὺς ὑπὸ τοῦ τρισαλιτηρίου παραδεδομένους εἰς ἀφανισμὸν Ἰουδαίους, εὑρίσκομεν οὐ κακούργους ὄντας, δικαιοτάτοις δὲ πολιτευομένους νόμοις, ὄντας δὲ υἱοὺς τοῦ Ὑψίστου μεγίστου ζῶντος Θεοῦ τοῦ κατευθύνοντος ἡμῖν τε καὶ τοῖς προγόνοις ἡμῶν τὴν βασιλείαν ἐν τῇ καλλίστῃ διαθέσει."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "15.11",
+    "form": "κατευθυνόντων",
+    "postag": "v-pppamg-",
+    "sentence": "γένοιτο, δέσποτα, κατευθυνόντων αὐτῶν, εἰ μὴ παρέστην σοι ἐν καιρῷ τῶν κακῶν αὐτῶν καὶ ἐν καιρῷ θλίψεως αὐτῶν εἰς ἀγαθὰ πρὸς τὸν ἐχθρόν."
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "12.6",
+    "form": "κατεύθυνε",
+    "postag": "v3siia---",
+    "sentence": "καὶ οὐ κατεύθυνε τοῦ λαλῆσαι οὕτως."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "6.12",
+    "form": "κατεύθυναν",
+    "postag": "v3paia---",
+    "sentence": "καὶ κατεύθυναν αἱ βόες ἐν τῇ ὁδῷ εἰς ὁδὸν Βαιθσαμύς, ἐν τρίβῳ ἑνὶ ἐπορεύοντο καὶ ἐκοπίων καὶ οὐ μεθίσταντο δεξιὰ οὐ-δὲ ἀριστερά ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "1 Clement": 2
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "48.4",
+    "form": "κατευθύνοντες",
+    "postag": "v-pppamn-",
+    "sentence": "πολλῶν οὖν πυλῶν ἀνεῳγυιῶν ἡ ἐν δικαιοσύνῃ αὕτη ἐστὶν ἡ ἐν Χριστῷ, ἐν ᾗ μακάριοι πάντες οἱ εἰσελθόντες καὶ κατευθύνοντες τὴν πορείαν αὐτῶν ἐν ὁσιότητι καὶ δικαιοσύνῃ, ἀταράχως πάντα ἐπιτελοῦντες."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "60.2",
+    "form": "κατεύθυνον",
+    "postag": "v2sama---",
+    "sentence": "μὴ λογίσῃ πᾶσαν ἁμαρτίαν δούλων σου καὶ παιδισκῶν, ἀλλὰ καθάρισον ἡμᾶς τὸν καθαρισμὸν τῆς σῆς ἀληθείας, καὶ κατεύθυνον τὰ διαβήματα ἡμῶν ἐν ὁσιότητι καρδίας πορεύεσθαι καὶ ποιεῖν τὰ καλὰ καὶ εὐάρεστα ἐνώπιόν σου καὶ ἐνώπιον τῶν ἀρχόντων ἡμῶν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3   κατ-ευθύνω,    [in LXX for כּוּן ni., hi., etc.;]    to make or keep straight, direct, guide: metaph., τ. ὁδόν, I Th 3:11; τ. πόδας εἰς ὁδὸν εἰρήνης, Lk 1:79; τ. καρδίας εἰς τ. ἀγάπην, II Th 3:5.†"
+}

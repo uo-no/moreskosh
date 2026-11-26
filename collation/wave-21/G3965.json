@@ -1,0 +1,172 @@
+{
+ "strong": "G3965",
+ "lemma": "πατριά",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 3:25",
+   "form": "πατριαὶ",
+   "morph": "N-NPF",
+   "gloss_en": "families",
+   "gloss_ja": "一族",
+   "verse": "ὑμεῖς ἐστε οἱ υἱοὶ τῶν προφητῶν καὶ τῆς διαθήκης ἧς διέθετο ὁ θεὸς πρὸς τοὺς πατέρας ὑμῶν, λέγων πρὸς Ἀβραάμ Καὶ ἐν τῷ σπέρματί σου ἐνευλογηθήσονται πᾶσαι αἱ πατριαὶ τῆς γῆς."
+  },
+  {
+   "ref": "EPH 3:15",
+   "form": "πατριὰ",
+   "morph": "N-NSF",
+   "gloss_en": "family",
+   "gloss_ja": "一族",
+   "verse": "ἐξ οὗ πᾶσα πατριὰ ἐν οὐρανοῖς καὶ ἐπὶ γῆς ὀνομάζεται,"
+  },
+  {
+   "ref": "LUK 2:4",
+   "form": "πατριᾶς",
+   "morph": "N-GSF",
+   "gloss_en": "family line",
+   "gloss_ja": "一族",
+   "verse": "Ἀνέβη δὲ καὶ Ἰωσὴφ ἀπὸ τῆς Γαλιλαίας ἐκ πόλεως Ναζαρὲθ εἰς τὴν Ἰουδαίαν εἰς πόλιν Δαυὶδ ἥτις καλεῖται Βηθλέεμ, διὰ τὸ εἶναι αὐτὸν ἐξ οἴκου καὶ πατριᾶς Δαυίδ,"
+  }
+ ],
+ "lxx": {
+  "total": 182,
+  "works": {
+   "Exodus": 6,
+   "Leviticus": 1,
+   "Numeri": 52,
+   "Deuteronomium": 2,
+   "Josue": 5,
+   "Regnorum ii": 1,
+   "Regnorum iii": 1,
+   "Paralipomenon i sive Chronicon i": 56,
+   "Paralipomenon ii sive Chronicon ii": 10,
+   "Esdras i": 12,
+   "Esdras ii": 18,
+   "Esther": 2,
+   "Judith": 2,
+   "Tobias": 7,
+   "Psalmi": 3,
+   "Jeremias": 3,
+   "Ezechiel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "23.9",
+    "form": "πατριῶν",
+    "postag": "n-p---fg-",
+    "sentence": "οὗτοι ἄρχοντες πατριῶν τῶν Ἐδάν."
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "1.44",
+    "form": "πατριᾶς",
+    "postag": "n-s---fg-",
+    "sentence": "ἀνὴρ εἷς κατὰ φυλὴν μίαν, κατὰ φυλὴν οἴκων πατριᾶς ἦσαν."
+   },
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "22.12",
+    "form": "πατριῶν",
+    "postag": "n-p---fg-",
+    "sentence": "καὶ ἐν ἡμέραις Ἰωακὶμ ἀδελφοὶ αὐτοῦ οἱ ἱερεῖς καὶ οἱ ἄρχοντες τῶν πατριῶν ·"
+   },
+   {
+    "work_code": "1ES",
+    "work_ja": "エズラ記（ギリシャ語）",
+    "work_src": "Esdras i",
+    "ref": "5.37",
+    "form": "πατριὰς",
+    "postag": "n-p---fa-",
+    "sentence": "καὶ οὐκ ἠδύναντο ἀπαγγεῖλαι τὰς πατριὰς αὐτῶν καὶ γενεάς, ὡς ἐκ τοῦ Ἰσραήλ εἰσιν ·"
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "17.14",
+    "form": "πατριῶν",
+    "postag": "n-p---fg-",
+    "sentence": "καὶ οὗτος ὁ ἀριθμὸς αὐτῶν κατ’ οἴκους πατριῶν αὐτῶν ·"
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "5.12",
+    "form": "πατριὰν",
+    "postag": "n-s---fa-",
+    "sentence": "φυλὴν καὶ πατριὰν σὺ ζητεῖς ἢ μίσθιον, ὃς συμπορεύσεται μετὰ τοῦ υἱοῦ σου;"
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "6.15",
+    "form": "πατριαὶ",
+    "postag": "n-p---fn-",
+    "sentence": "αὗται αἱ πατριαὶ τῶν υἱῶν Συμεών."
+   },
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "22.14",
+    "form": "πατριῶν",
+    "postag": "n-p---fg-",
+    "sentence": "ἄρχοντες οἴκων πατριῶν εἰσι, χιλίαρχοι Ἰσραήλ."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "106.41",
+    "form": "πατριάς",
+    "postag": "n-p---fa-",
+    "sentence": "καὶ ἐβοήθησε πένητι ἐκ πτωχείας καὶ ἔθετο ὡς πρόβατα πατριάς."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "2.4",
+    "form": "πατριὰ",
+    "postag": "n-s---fn-",
+    "sentence": "ἀκούσατε λόγον Κυρίου, οἶκος Ἰακώβ, καὶ πᾶσα πατριὰ οἴκου Ἰσραήλ."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "18.8",
+    "form": "πατριάν",
+    "postag": "n-s---fa-",
+    "sentence": "μερίδα μεμερισμένην φάγεται, πλὴν τῆς πράσεως τῆς κατὰ πατριάν."
+   },
+   {
+    "work_code": "EST",
+    "work_ja": "エステル記",
+    "work_src": "Esther",
+    "ref": "9.27",
+    "form": "πατριὰν",
+    "postag": "n-s---fa-",
+    "sentence": "αἱ δὲ ἡμέραι αὗται μνημόσυνον ἐπιτελούμενον κατὰ γενεὰν καὶ γενεὰν καὶ πόλιν καὶ πατριὰν καὶ χώραν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "3   πατριά, -ᾶς, ἡ    (< πατήρ),   [in LXX chiefly for אָב, Ex 6:14, al., also for מִשְׁפָּחָה, Ex 6:15, II Ki 14:7, Ps 21 (22):27, al.;]      lineage, ancestry (Hdt.).     = πάτρα (more common in cl.), a family or tribe (so sometimes in Hdt., in LXX of related people, in a sense narrower than φυλή and wider than οἶκος; v. Ex 12:3, Nu 32:28): Lk 2:4; in a wider sense (I Ch 16:28, Ps 21 (22):27), Ac 3:25(LXX), Eph 3:15.†"
+}

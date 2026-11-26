@@ -1,0 +1,79 @@
+{
+ "strong": "G3786",
+ "lemma": "ὄφελος",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 15:32",
+   "form": "ὄφελος",
+   "morph": "N-NSN",
+   "gloss_en": "gained",
+   "gloss_ja": "益",
+   "verse": "εἰ κατὰ ἄνθρωπον ἐθηριομάχησα ἐν Ἐφέσῳ, τί μοι τὸ ὄφελος; εἰ νεκροὶ οὐκ ἐγείρονται, Φάγωμεν καὶ πίωμεν, αὔριον γὰρ ἀποθνῄσκομεν."
+  },
+  {
+   "ref": "JAS 2:14",
+   "form": "ὄφελος",
+   "morph": "N-NSN",
+   "gloss_en": "good",
+   "gloss_ja": "益",
+   "verse": "Τί ὄφελος, ἀδελφοί μου, ἐὰν πίστιν λέγῃ τις ἔχειν ἔργα δὲ μὴ ἔχῃ; μὴ δύναται ἡ πίστις σῶσαι αὐτόν;"
+  },
+  {
+   "ref": "JAS 2:16",
+   "form": "ὄφελος",
+   "morph": "N-NSN",
+   "gloss_en": "good",
+   "gloss_ja": "益",
+   "verse": "εἴπῃ δέ τις αὐτοῖς ἐξ ὑμῶν· Ὑπάγετε ἐν εἰρήνῃ, θερμαίνεσθε καὶ χορτάζεσθε, μὴ δῶτε δὲ αὐτοῖς τὰ ἐπιτήδεια τοῦ σώματος, τί ὄφελος;"
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Job": 1
+  },
+  "representatives": [
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "15.3",
+    "form": "ὄφελος",
+    "postag": "n-s---nn-",
+    "sentence": "πότερον σοφὸς ἀπόκρισιν δώσει συνέσεως πνεῦμα καὶ ἐνέπλησε πόνον γαστρὸς ἐλέγχων ἐν ρήμασιν, οἷς οὐ δεῖ, καὶ ἐν λόγοις, οἷς οὐδὲν ὄφελος;"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "2 Clement": 1,
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "6.2",
+    "form": "ὄφελος",
+    "postag": "n-s---nn-",
+    "sentence": "τί γὰρ τὸ ὄφελος, ἐάν τις τὸν κόσμον ὅλον κερδήσῃ, τὴν δὲ ψυχὴν ζημιωθῇ;"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "3.3.1",
+    "form": "ὄφελος",
+    "postag": "n-s---nn-",
+    "sentence": "κυρία, τί μοι ὄφελος ταῦτα ἑωρακότι καὶ μὴ γινώσκοντι, τί ἐστιν τὰ πράγματα;"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3   ὄφελος, -ους, τό    (< ὀφέλλω, to increase),   [in LXX: Jb 15:3 (יעל hi.)*;]    advantage, help: I Co 15:32, Ja 2:14, 16.†"
+}

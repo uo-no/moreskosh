@@ -1,0 +1,67 @@
+{
+ "strong": "G3927",
+ "lemma": "παρεπίδημος",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1PE 1:1",
+   "form": "παρεπιδήμοις",
+   "morph": "A-DPM",
+   "gloss_en": "exiles",
+   "gloss_ja": "旅人",
+   "verse": "Πέτρος ἀπόστολος Ἰησοῦ Χριστοῦ ἐκλεκτοῖς παρεπιδήμοις διασπορᾶς Πόντου, Γαλατίας, Καππαδοκίας, Ἀσίας, καὶ Βιθυνίας,"
+  },
+  {
+   "ref": "1PE 2:11",
+   "form": "παρεπιδήμους",
+   "morph": "A-APM",
+   "gloss_en": "exiles",
+   "gloss_ja": "旅人",
+   "verse": "Ἀγαπητοί, παρακαλῶ ὡς παροίκους καὶ παρεπιδήμους ἀπέχεσθαι τῶν σαρκικῶν ἐπιθυμιῶν, αἵτινες στρατεύονται κατὰ τῆς ψυχῆς·"
+  },
+  {
+   "ref": "HEB 11:13",
+   "form": "παρεπίδημοί",
+   "morph": "A-NPM",
+   "gloss_en": "temporary residents",
+   "gloss_ja": "旅人",
+   "verse": "Κατὰ πίστιν ἀπέθανον οὗτοι πάντες, μὴ λαβόντες τὰς ἐπαγγελίας, ἀλλὰ πόρρωθεν αὐτὰς ἰδόντες καὶ ἀσπασάμενοι, καὶ ὁμολογήσαντες ὅτι ξένοι καὶ παρεπίδημοί εἰσιν ἐπὶ τῆς γῆς."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Genesis": 1,
+   "Psalmi": 1
+  },
+  "representatives": [
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "23.4",
+    "form": "παρεπίδημος",
+    "postag": "a-s---mn-",
+    "sentence": "καὶ ἀνέστη Ἁβραὰμ ἀπὸ τοῦ νεκροῦ αὐτοῦ καὶ εἶπε τοῖς υἱοῖς Χὲτ λέγων, πάροικος καὶ παρεπίδημος ἐγώ εἰμι μεθ’ ὑμῶν ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "38.13",
+    "form": "παρεπίδημος",
+    "postag": "a-s---mn-",
+    "sentence": "μὴ παρασιωπήσῃς, ὅτι πάροικος ἐγώ εἰμι παρὰ σοὶ καὶ παρεπίδημος καθὼς πάντες οἱ πατέρες μου."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "3   † παρ-επί-δημος, -ον    (v.s. ἐπιδημέω),   [in LXX: Ge 23:4, Ps 38 (39):12   (תּוֹשָׁב)*;]    sojourning in a strange place; as subst., ὁ π., a sojourner: of Christians, I Pe 1:1; ξένοι καὶ π., He 11:13; πάροικοι καὶ π., I Pe 2:11 (v. Deiss., BS, 149).†"
+}

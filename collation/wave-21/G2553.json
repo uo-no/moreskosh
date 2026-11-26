@@ -1,0 +1,69 @@
+{
+ "strong": "G2553",
+ "lemma": "κακοπαθέω",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2TI 2:9",
+   "form": "κακοπαθῶ",
+   "morph": "V-PAI-1S",
+   "gloss_en": "suffer hardship",
+   "gloss_ja": "苦しむ",
+   "verse": "ἐν ᾧ κακοπαθῶ μέχρι δεσμῶν ὡς κακοῦργος. ἀλλὰ ὁ λόγος τοῦ θεοῦ οὐ δέδεται·"
+  },
+  {
+   "ref": "2TI 4:5",
+   "form": "κακοπάθησον",
+   "morph": "V-AAM-2S",
+   "gloss_en": "endure hardship",
+   "gloss_ja": "苦しむ",
+   "verse": "σὺ δὲ νῆφε ἐν πᾶσιν, κακοπάθησον, ἔργον ποίησον εὐαγγελιστοῦ, τὴν διακονίαν σου πληροφόρησον."
+  },
+  {
+   "ref": "JAS 5:13",
+   "form": "Κακοπαθεῖ",
+   "morph": "V-PAI-3S",
+   "gloss_en": "suffering",
+   "gloss_ja": "苦しむ",
+   "verse": "Κακοπαθεῖ τις ἐν ὑμῖν; προσευχέσθω· εὐθυμεῖ τις; ψαλλέτω."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Jonas": 1
+  },
+  "representatives": [
+   {
+    "work_code": "JON",
+    "work_ja": "ヨナ書",
+    "work_src": "Jonas",
+    "ref": "4.10",
+    "form": "ἐκακοπάθησας",
+    "postag": "v2saia---",
+    "sentence": "σὺ ἐφείσω ὑπὲρ τῆς κολοκύνθης, ὑπὲρ ἧς οὐκ ἐκακοπάθησας ἐπ’ αὐτὴν οὐ-δὲ ἐξέθρεψας αὐτήν, ἣ ἐγενήθη ὑπὸ νύκτα καὶ ὑπὸ νύκτα ἀπώλετο."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "2 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "19.3",
+    "form": "κακοπαθήσωσιν",
+    "postag": "v3pasa---",
+    "sentence": "κα-κἂν ὀλίγον χρόνον κακοπαθήσωσιν ἐν τῷ κόσμῳ τούτῳ, τὸν ἀθάνατον τῆς ἀναστάσεως καρπὸν τρυγήσουσιν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3   κακοπαθέω, -ῶ,    [in LXX: Jon.4.10 (עמל)*;]    to suffer evil, endure affliction: II Ti 2:9 4:5, Ja 5:13.†"
+}

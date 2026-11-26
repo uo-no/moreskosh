@@ -1,0 +1,189 @@
+{
+ "strong": "G3857",
+ "lemma": "παράδεισος",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2CO 12:4",
+   "form": "παράδεισον",
+   "morph": "N-ASM",
+   "gloss_en": "paradise",
+   "gloss_ja": "楽園",
+   "verse": "ὅτι ἡρπάγη εἰς τὸν παράδεισον καὶ ἤκουσεν ἄρρητα ῥήματα ἃ οὐκ ἐξὸν ἀνθρώπῳ λαλῆσαι."
+  },
+  {
+   "ref": "LUK 23:43",
+   "form": "παραδείσῳ",
+   "morph": "N-DSM",
+   "gloss_en": "paradise",
+   "gloss_ja": "楽園",
+   "verse": "καὶ εἶπεν αὐτῷ· Ἀμήν σοι λέγω σήμερον μετ’ ἐμοῦ ἔσῃ ἐν τῷ παραδείσῳ."
+  },
+  {
+   "ref": "REV 2:7",
+   "form": "παραδείσῳ",
+   "morph": "N-DSM",
+   "gloss_en": "paradise",
+   "gloss_ja": "楽園",
+   "verse": "ὁ ἔχων οὖς ἀκουσάτω τί τὸ πνεῦμα λέγει ταῖς ἐκκλησίαις. τῷ νικῶντι δώσω αὐτῷ φαγεῖν ἐκ τοῦ ξύλου τῆς ζωῆς, ὅ ἐστιν ἐν τῷ παραδείσῳ τοῦ θεοῦ."
+  }
+ ],
+ "lxx": {
+  "total": 45,
+  "works": {
+   "Genesis": 14,
+   "Numeri": 1,
+   "Paralipomenon ii sive Chronicon ii": 1,
+   "Esdras ii": 1,
+   "Ecclesiastes": 1,
+   "Canticum": 1,
+   "Ecclesiasticus sive Siracides": 3,
+   "Psalmi Salomonis": 1,
+   "Joel": 1,
+   "Isaias": 2,
+   "Jeremias": 1,
+   "Ezechiel": 4,
+   "Susanna": 14
+  },
+  "representatives": [
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "3.1",
+    "form": "παραδείσῳ",
+    "postag": "n-s---md-",
+    "sentence": "οὐ μὴ φάγητε ἀπὸ παντὸς ξύλου τοῦ ἐν τῷ παραδείσῳ;"
+   },
+   {
+    "work_code": "SUS",
+    "work_ja": "スザンナ（Th）",
+    "work_src": "Susanna",
+    "ref": "25",
+    "form": "παραδείσου",
+    "postag": "n-s---mg-",
+    "sentence": "καὶ δραμὼν ὁ εἷς ἤνοιξε τὰς θύρας τοῦ παραδείσου."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "28.13",
+    "form": "παραδείσου",
+    "postag": "n-s---mg-",
+    "sentence": "σὺ ἀποσφράγισμα ὁμοιώσεως καὶ στέφανος κάλλους ἐν τῇ τρυφῇ τοῦ παραδείσου τοῦ Θεοῦ ἐγενήθης ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "24.30",
+    "form": "παράδεισον",
+    "postag": "n-s---ma-",
+    "sentence": "κα-κἀγὼ ὡς διῶρυξ ἀπὸ ποταμοῦ καὶ ὡς ὑδραγωγὸς ἐξῆλθον εἰς παράδεισον ·"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "1.30",
+    "form": "παράδεισος",
+    "postag": "n-s---mn-",
+    "sentence": "ἔσονται γὰρ ὡς τερέβινθος ἀποβεβληκυῖα τὰ φύλλα καὶ ὡς παράδεισος ὕδωρ μὴ ἔχων ·"
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "24.6",
+    "form": "παράδεισοι",
+    "postag": "n-p---mn-",
+    "sentence": "ὡσεὶ νάπαι σκιάζουσαι καὶ ὡσεὶ παράδεισοι ἐπὶ ποταμῷ καὶ ὡσεὶ σκηναί, ἃς ἔπηξε Κύριος, καὶ ὡσεὶ κέδροι παρ’ ὕδατα."
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "33.20",
+    "form": "παραδείσῳ",
+    "postag": "n-s---md-",
+    "sentence": "καὶ ἐκοιμήθη Μανασσῆς μετὰ τῶν πατέρων αὐτοῦ, καὶ ἔθαψαν αὐτὸν ἐν παραδείσῳ οἴκου αὐτοῦ ·"
+   },
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "12.8",
+    "form": "παραδείσου",
+    "postag": "n-s---mg-",
+    "sentence": "εἰ ἐπὶ τὸν βασιλέα ἀγαθόν, δότω μοι ἐπιστολὰς πρὸς τοὺς ἐπάρχους πέραν τοῦ ποταμοῦ ὥστε παραγαγεῖν με, ἕως ἔλθω ἐπὶ Ἰούδαν, καὶ ἐπιστολὴν ἐπὶ Ἀσὰφ φύλακα τοῦ παραδείσου, ὅς ἐστι τῷ βασιλεῖ, ὥστε δοῦναί μοι ξύλα στεγάσαι τὰς πύλας καὶ εἰς τὸ τεῖχος τῆς πόλεως καὶ εἰς οἶκον, ὃν εἰσελεύσομαι εἰς αὐτόν."
+   },
+   {
+    "work_code": "ECC",
+    "work_ja": "コヘレトの言葉",
+    "work_src": "Ecclesiastes",
+    "ref": "2.5",
+    "form": "παραδείσους",
+    "postag": "n-p---ma-",
+    "sentence": "ἐφύτευσά μοι ἀμπελῶνας, ἐποίησά μοι κήπους καὶ παραδείσους καὶ ἐφύτευσα ἐν αὐτοῖς ξύλον πᾶν καρποῦ ·"
+   },
+   {
+    "work_code": "SNG",
+    "work_ja": "雅歌",
+    "work_src": "Canticum",
+    "ref": "4.13",
+    "form": "παράδεισος",
+    "postag": "n-s---mn-",
+    "sentence": "ἀποστολαί σου παράδεισος ροῶν μετὰ καρποῦ ἀκροδρύων, κύπροι μετὰ νάρδων, νάρδος καὶ κρόκος, κάλαμος καὶ κιννάμωμον μετὰ πάντων ξύλων τοῦ Λιβάνου, σμύρνα ἀλὼθ μετὰ πάντων πρώτων μύρων."
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "14.3",
+    "form": "παράδεισος",
+    "postag": "n-s---mn-",
+    "sentence": "ὁ παράδεισος τοῦ κυρίου, τὰ ξύλα τῆς ζωῆς, ὅσιοι αὐτοῦ."
+   },
+   {
+    "work_code": "JOL",
+    "work_ja": "ヨエル書",
+    "work_src": "Joel",
+    "ref": "2.3",
+    "form": "παράδεισος",
+    "postag": "n-s---mn-",
+    "sentence": "ὡς παράδεισος τρυφῆς ἡ γῆ πρὸ προσώπου αὐτοῦ, καὶ τὰ ὄπισθεν αὐτοῦ πεδίον ἀφανισμοῦ, καὶ ἀνασῳζόμενος οὐκ ἔσται αὐτῷ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "To Diognetus": 2
+  },
+  "representatives": [
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "12",
+    "form": "παραδείσου",
+    "postag": "n-s---mg-",
+    "sentence": "οὐ-δὲ γὰρ ἄσημα τὰ γεγραμμένα, ὡς Θεὸς ἀπ’ ἀρχῆς ξύλον γνώσεως καὶ ξύλον ζωῆς ἐν μέσῳ παραδείσου ἐφύτευσε, διὰ γνώσεως ζωὴν ἐπιδεικνύς ·"
+   },
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "12",
+    "form": "παράδεισος",
+    "postag": "n-s---mn-",
+    "sentence": "οἷς ἐντυχόντες καὶ ἀκούσαντες μετὰ σπουδῆς εἴσεσθε, ὅσα παρέχει ὁ Θεὸς τοῖς ἀγαπῶσιν ὀρθῶς, οἱ γενόμενοι παράδεισος τρυφῆς, πάγκαρπον ξύλον εὐθαλοῦν ἀνατείλαντες ἐν ἑαυτοῖς, ποικίλοις καρποῖς κεκοσμημένοι."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3   παράδεισος, -ου, ὁ    (an Oriental word, first used by Xen. of the parks of Persian kings and nobles),   [in LXX chiefly for גַּן, Ge 1:8 ff.,   al.; also for עֵדֶן, Is 51:3; פַּרְדֵּס, Ne 2:8, Ec 2:5;]      a park, pleasure-ground, garden (LXX), an orchard (in π., v. MM, ii, xviii; Deiss., BS, 148).     Paradise, the abode of the blessed dead: Lk 23:43, II Co 12:4, Re 2:7.†"
+}

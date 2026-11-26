@@ -1,0 +1,162 @@
+{
+ "strong": "G461",
+ "lemma": "ἀνορθόω",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 15:16",
+   "form": "ἀνορθώσω",
+   "morph": "V-FAI-1S",
+   "gloss_en": "restore",
+   "gloss_ja": "立て直す",
+   "verse": "Μετὰ ταῦτα ἀναστρέψω καὶ ἀνοικοδομήσω τὴν σκηνὴν Δαυὶδ τὴν πεπτωκυῖαν καὶ τὰ κατεσκαμμένα αὐτῆς ἀνοικοδομήσω καὶ ἀνορθώσω αὐτήν,"
+  },
+  {
+   "ref": "HEB 12:12",
+   "form": "ἀνορθώσατε",
+   "morph": "V-AAM-2P",
+   "gloss_en": "strengthen",
+   "gloss_ja": "立て直す",
+   "verse": "Διὸ τὰς παρειμένας χεῖρας καὶ τὰ παραλελυμένα γόνατα ἀνορθώσατε,"
+  },
+  {
+   "ref": "LUK 13:13",
+   "form": "ἀνωρθώθη",
+   "morph": "V-API-3S",
+   "gloss_en": "straightened up",
+   "gloss_ja": "立て直す",
+   "verse": "καὶ ἐπέθηκεν αὐτῇ τὰς χεῖρας· καὶ παραχρῆμα ἀνωρθώθη, καὶ ἐδόξαζεν τὸν θεόν."
+  }
+ ],
+ "lxx": {
+  "total": 15,
+  "works": {
+   "Regnorum ii": 2,
+   "Paralipomenon i sive Chronicon i": 4,
+   "Psalmi": 4,
+   "Proverbia": 1,
+   "Ecclesiasticus sive Siracides": 1,
+   "Jeremias": 2,
+   "Ezechiel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "17.12",
+    "form": "ἀνορθώσω",
+    "postag": "v1sfia---",
+    "sentence": "αὐτὸς οἰκοδομήσει μοι οἶκον, καὶ ἀνορθώσω τὸν θρόνον αὐτοῦ ἕως αἰῶνος."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "19.9",
+    "form": "ἀνωρθώθημεν",
+    "postag": "v1paip---",
+    "sentence": "αὐτοὶ συνεποδίσθησαν καὶ ἔπεσαν, ἡμεῖς δὲ ἀνέστημεν καὶ ἀνωρθώθημεν."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "7.16",
+    "form": "ἀνωρθωμένος",
+    "postag": "v-srpmmn-",
+    "sentence": "καὶ ὁ θρόνος αὐτοῦ ἔσται ἀνωρθωμένος εἰς τὸν αἰῶνα."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "40.2",
+    "form": "ἀνορθῶσαι",
+    "postag": "v--ana---",
+    "sentence": "οὕτως εἶπε Κύριος ποιῶν γῆν καὶ πλάσσων αὐτὴν τοῦ ἀνορθῶσαι αὐτήν, Κύριος ὄνομα αὐτῷ ·"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "24.3",
+    "form": "ἀνορθοῦται",
+    "postag": "v3spim---",
+    "sentence": "μετὰ σοφίας οἰκοδομεῖται οἶκος καὶ μετὰ συνέσεως ἀνορθοῦται."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "11.12",
+    "form": "ἀνώρθωσεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ οἱ ὀφθαλμοὶ Κυρίου ἐπέβλεψαν αὐτῷ εἰς ἀγαθά, καὶ ἀνώρθωσεν αὐτὸν ἐκ ταπεινώσεως αὐτοῦ."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "16.7",
+    "form": "ἀνωρθώθησαν",
+    "postag": "v3paip---",
+    "sentence": "οἱ μαστοί σου ἀνωρθώθησαν, καὶ ἡ θρίξ σου ἀνέτειλε, σὺ δὲ ἦσθα γυμνὴ καὶ ἀσχημονοῦσα."
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "17.24",
+    "form": "ἀνωρθωμένος",
+    "postag": "v-srpmmn-",
+    "sentence": "Κύριε Κύριε, παντοκράτωρ Θεὸς Ἰσραήλ, καὶ ὁ οἶκος Δαυὶδ παιδός σου ἀνωρθωμένος ἐναντίον σου."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "144.14",
+    "form": "ἀνορθοῖ",
+    "postag": "v3spia---",
+    "sentence": "ὑποστηρίζει Κύριος πάντας τοὺς καταπίπτοντας καὶ ἀνορθοῖ πάντας τοὺς κατερραγμένους."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "7.13",
+    "form": "ἀνορθώσω",
+    "postag": "v1sfia---",
+    "sentence": "αὐτὸς οἰκοδομήσει μοι οἶκον τῷ ὀνόματί μου, καὶ ἀνορθώσω τὸν θρόνον αὐτοῦ ἕως εἰς τὸν αἰῶνα."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "10.12",
+    "form": "ἀνορθώσας",
+    "postag": "v-sapamn-",
+    "sentence": "Κύριος ὁ ποιήσας τὴν γῆν ἐν τῇ ἰσχύϊ αὐτοῦ, ὁ ἀνορθώσας τὴν οἰκουμένην ἐν τῇ σοφίᾳ αὐτοῦ καὶ τῇ φρονήσει αὐτοῦ ἐξέτεινε τὸν οὐρανόν, καὶ πλῆθος ὕδατος ἐν οὐρανῷ, καὶ ἀνήγαγε νεφέλας ἐξ ἐσχάτου τῆς γῆς, ἀστραπὰς εἰς ὑετὸν ἐποίησε καὶ ἐξήγαγε φῶς ἐκ θησαυρῶν αὐτοῦ."
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "17.14",
+    "form": "ἀνωρθωμένος",
+    "postag": "v-srpmmn-",
+    "sentence": "καὶ πιστώσω αὐτὸν ἐν οἴκῳ μου καὶ ἐν βασιλείᾳ αὐτοῦ ἕως αἰῶνος, καὶ ὁ θρόνος αὐτοῦ ἔσται ἀνωρθωμένος ἕως αἰῶνος."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "3   ἀν-ορθόω, -ῶ    (ἀνά, ὀρθόω, to set straight, set up),   [in LXX chiefly for   כּוּן hi.;]    to set upright or straight again, restore: of persons, Lk 13:13, He 12:12; of things, σκηνήν, Ac 15:16 (MM, VGT, s.v.; Cremer, 807).†"
+}

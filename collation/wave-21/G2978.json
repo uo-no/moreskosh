@@ -1,0 +1,114 @@
+{
+ "strong": "G2978",
+ "lemma": "λαῖλαψ",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2PE 2:17",
+   "form": "λαίλαπος",
+   "morph": "N-GSF",
+   "gloss_en": "storm",
+   "gloss_ja": "暴風",
+   "verse": "Οὗτοί εἰσιν πηγαὶ ἄνυδροι καὶ ὁμίχλαι ὑπὸ λαίλαπος ἐλαυνόμεναι, οἷς ὁ ζόφος τοῦ σκότους τετήρηται."
+  },
+  {
+   "ref": "LUK 8:23",
+   "form": "λαῖλαψ",
+   "morph": "N-NSF",
+   "gloss_en": "storm",
+   "gloss_ja": "暴風",
+   "verse": "πλεόντων δὲ αὐτῶν ἀφύπνωσεν. καὶ κατέβη λαῖλαψ ἀνέμου εἰς τὴν λίμνην, καὶ συνεπληροῦντο καὶ ἐκινδύνευον."
+  },
+  {
+   "ref": "MRK 4:37",
+   "form": "λαῖλαψ",
+   "morph": "N-NSF",
+   "gloss_en": "storm",
+   "gloss_ja": "暴風",
+   "verse": "καὶ γίνεται λαῖλαψ μεγάλη ἀνέμου, καὶ τὰ κύματα ἐπέβαλλεν εἰς τὸ πλοῖον, ὥστε ἤδη γεμίζεσθαι τὸ πλοῖον."
+  }
+ ],
+ "lxx": {
+  "total": 7,
+  "works": {
+   "Job": 2,
+   "Sapientia Salomonis": 2,
+   "Ecclesiasticus sive Siracides": 2,
+   "Jeremias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "21.18",
+    "form": "λαῖλαψ",
+    "postag": "n-s---fn-",
+    "sentence": "ἔσονται δὲ ὥσπερ ἄχυρα ὑπ’ ἀνέμου ἢ ὥσπερ κονιορτός, ὃν ὑφείλετο λαῖλαψ."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "5.14",
+    "form": "λαίλαπος",
+    "postag": "n-s---fg-",
+    "sentence": "ὅτι ἐλπὶς ἀσεβοῦς ὡς φερόμενος χνοῦς ὑπὸ ἀνέμου καὶ ὡς πάχνη ὑπὸ λαίλαπος διωχθεῖσα λεπτὴ καὶ ὡς καπνὸς ὑπό ἀνέμου διεχύθη καὶ ὡς μνεία καταλύτου μονοημέρου παρώδευσε."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "48.9",
+    "form": "λαίλαπι",
+    "postag": "n-s---fd-",
+    "sentence": "ὁ ἀναληφθεὶς ἐν λαίλαπι πυρὸς ἐν ἅρματι ἵππων πυρίνων ·"
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "32.18",
+    "form": "λαῖλαψ",
+    "postag": "n-s---fn-",
+    "sentence": "ἰδοὺ κακὰ ἔρχεται ἀπὸ ἔθνους ἐπὶ ἔθνος, καὶ λαῖλαψ μεγάλη ἐκπορεύεται ἀπ’ ἐσχάτου τῆς γῆς."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "38.1",
+    "form": "λαίλαπος",
+    "postag": "n-s---fg-",
+    "sentence": "μετὰ δὲ τὸ παύσασθαι Ἐλιοὺν τῆς λέξεως εἶπεν ὁ Κύριος τῷ Ἰὼβ διὰ λαίλαπος καὶ νεφῶν ·"
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "5.23",
+    "form": "λαῖλαψ",
+    "postag": "n-s---fn-",
+    "sentence": "ἀντιστήσεται αὐτοῖς πνεῦμα δυνάμεως καὶ ὡς λαῖλαψ ἐκλικμήσει αὐτούς."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "48.12",
+    "form": "λαίλαπι",
+    "postag": "n-s---fd-",
+    "sentence": "Ἠλίας, ὃς ἐν λαίλαπι ἐσκεπάσθη, καὶ Ἐλισαιὲ ἐνεπλήσθη πνεύματος αὐτοῦ ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "3   λαῖλαψ, -απος, ἡ,    [in LXX: Jb 21:18 27:20 א (סוּפָה) 38:1, Je 32 (25):32 (סְעָרָה, סַעַר), Wi 5:14, 23, Si 48:9, 12*;]    a hurricane, whirlwind: Mk 4:37, Lk 8:23, II Pe 2:17.†   SYN.: θύελλα, q.v., and cf. ἄνεμος."
+}

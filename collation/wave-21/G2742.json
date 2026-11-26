@@ -1,0 +1,153 @@
+{
+ "strong": "G2742",
+ "lemma": "καύσων",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JAS 1:11",
+   "form": "καύσωνι",
+   "morph": "N-DSM",
+   "gloss_en": "scorching heat",
+   "gloss_ja": "焼けるような熱さ",
+   "verse": "ἀνέτειλεν γὰρ ὁ ἥλιος σὺν τῷ καύσωνι καὶ ἐξήρανεν τὸν χόρτον, καὶ τὸ ἄνθος αὐτοῦ ἐξέπεσεν καὶ ἡ εὐπρέπεια τοῦ προσώπου αὐτοῦ ἀπώλετο· οὕτως καὶ ὁ πλούσιος ἐν ταῖς πορείαις αὐτοῦ μαρανθήσεται."
+  },
+  {
+   "ref": "LUK 12:55",
+   "form": "Καύσων",
+   "morph": "N-NSM",
+   "gloss_en": "hot",
+   "gloss_ja": "焼けるような熱さ",
+   "verse": "καὶ ὅταν νότον πνέοντα, λέγετε ὅτι Καύσων ἔσται, καὶ γίνεται."
+  },
+  {
+   "ref": "MAT 20:12",
+   "form": "καύσωνα",
+   "morph": "N-ASM",
+   "gloss_en": "scorching heat",
+   "gloss_ja": "焼けるような熱さ",
+   "verse": "λέγοντες· Οὗτοι οἱ ἔσχατοι μίαν ὥραν ἐποίησαν, καὶ ἴσους αὐτοὺς ἡμῖν ἐποίησας τοῖς βαστάσασι τὸ βάρος τῆς ἡμέρας καὶ τὸν καύσωνα."
+  }
+ ],
+ "lxx": {
+  "total": 11,
+  "works": {
+   "Odae": 1,
+   "Ecclesiasticus sive Siracides": 3,
+   "Osee": 2,
+   "Jonas": 1,
+   "Jeremias": 2,
+   "Ezechiel": 1,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "43.22",
+    "form": "καύσωνος",
+    "postag": "n-s---mg-",
+    "sentence": "ἴασις πάντων κατὰ σπουδὴν ὁμίχλη, δρόσος ἀπαντῶσα ἀπὸ καύσωνος ἱλαρώσει."
+   },
+   {
+    "work_code": "HOS",
+    "work_ja": "ホセア書",
+    "work_src": "Osee",
+    "ref": "12.2",
+    "form": "καύσωνα",
+    "postag": "n-s---ma-",
+    "sentence": "ὁ δὲ Ἐφραὶμ πονηρὸν πνεῦμα ἐδίωξε, καύσωνα ὅλην τὴν ἡμέραν ·"
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "28.1",
+    "form": "καύσωνα",
+    "postag": "n-s---ma-",
+    "sentence": "ἰδοὺ ἐγὼ ἐξεγείρω ἐπὶ Βαβυλῶνα καὶ ἐπὶ τοὺς κατοικοῦντας Χαλδαίους ἄνεμον καύσωνα διαφθείροντα."
+   },
+   {
+    "work_code": "ODE",
+    "work_ja": "頌歌（オード）",
+    "work_src": "Odae",
+    "ref": "11.67",
+    "form": "καύσων",
+    "postag": "n-s---mn-",
+    "sentence": "εὐλογεῖτε, ψῦχος καὶ καύσων, τὸν κύριον ·"
+   },
+   {
+    "work_code": "JON",
+    "work_ja": "ヨナ書",
+    "work_src": "Jonas",
+    "ref": "4.8",
+    "form": "καύσωνι",
+    "postag": "n-s---md-",
+    "sentence": "καὶ ἐγένετο ἅμα τῷ ἀνατεῖλαι τὸν ἥλιον καὶ προσέταξεν ὁ Θεὸς πνεύματι καύσωνι συγκαίοντι, καὶ ἐπάταξεν ὁ ἥλιος ἐπὶ τὴν κεφαλὴν τοῦ Ἰωνᾶ ·"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "17.10",
+    "form": "καύσωνα",
+    "postag": "n-s---ma-",
+    "sentence": "οὐχὶ ἅμα τῷ ἅψασθαι αὐτῆς ἀνεμον τὸν καύσωνα ξηρανθήσεται;"
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "3.67",
+    "form": "καύσων",
+    "postag": "n-s---mn-",
+    "sentence": "εὐλογεῖτε, ψῦχος καὶ καύσων τὸν Κύριον ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "34.16",
+    "form": "καύσωνος",
+    "postag": "n-s---mg-",
+    "sentence": "ὑπερασπισμὸς δυναστείας καὶ στήριγμα ἰσχύος, σκέπη ἀπὸ καύσωνος καὶ σκέπη ἀπὸ μεσημβρίας, φυλακὴ ἀπὸ προσκόμματος καὶ βοήθεια ἀπὸ πτώσεως, ἀνυψῶν ψυχὴν καὶ φωτίζων ὀφθαλμούς, ἴασιν διδούς, ζωὴν καὶ εὐλογίαν."
+   },
+   {
+    "work_code": "HOS",
+    "work_ja": "ホセア書",
+    "work_src": "Osee",
+    "ref": "13.15",
+    "form": "καύσωνα",
+    "postag": "n-s---ma-",
+    "sentence": "ἐπάξει καύσωνα ἄνεμον Κύριος ἐκ τῆς ἐρήμου ἐπ’ αὐτόν, καὶ ἀναξηρανεῖ τὰς φλέβας αὐτοῦ, ἐξερημώσει τὰς πηγὰς αὐτοῦ ·"
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "18.17",
+    "form": "καύσωνα",
+    "postag": "n-s---ma-",
+    "sentence": "ὡς ἄνεμον καύσωνα διασπερῶ αὐτοὺς κατὰ πρόσωπον ἐχθρῶν αὐτῶν, δείξω αὐτοῖς ἡμέραν ἀπωλείας αὐτῶν."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "18.16",
+    "form": "καύσωνα",
+    "postag": "n-s---ma-",
+    "sentence": "οὐχὶ καύσωνα ἀναπαύσει δρόσος;"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "3   † καύσων, -ωνος, ὁ    (< καίω),   [in LXX: Ge 31:40 א (חֹרֶב), Is 49:10 (שָׁרָב), Jb 27:21, Ho 12:1 (2), 13:15, Jh 4:8, Je 18:17, Ez 17:10 19:12 (קָדִים); Je 28 (51):1, Da TH 3:(67) Jth 8:3, Si 18:16 31 (34):16 43:22*;]      burning heat (Ge, Isa (?), Jth 8:3, Si 18:16): Mt 20:12, Lk 12:55 (Ja 1:11, AV).     a hot wind from the east (Heb. קָדִים, v. LXX, Ge 31:40, Is 49:10, Jb 27:21, Ho 12:1 (2), 13:15, Jh 4:8, Je 18:17, Ez 17:10 19:12, Je 28 (51):1, Da TH 3:(67) Jth 8:3, Si 18:16 31 (34):16 43:22), the modern sirocco (v. CGT on Am 4:9): Ja 1:11 (RV, the scorching wind; cf. R, mg., the hot wind, Mt 20:12, Lk 12:55).†"
+}

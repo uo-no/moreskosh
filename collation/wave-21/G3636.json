@@ -1,0 +1,157 @@
+{
+ "strong": "G3636",
+ "lemma": "ὀκνηρός",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MAT 25:26",
+   "form": "ὀκνηρέ",
+   "morph": "A-VSM",
+   "gloss_en": "lazy",
+   "gloss_ja": "怠け者",
+   "verse": "ἀποκριθεὶς δὲ ὁ κύριος αὐτοῦ εἶπεν αὐτῷ· Πονηρὲ δοῦλε καὶ ὀκνηρέ, ᾔδεις ὅτι θερίζω ὅπου οὐκ ἔσπειρα καὶ συνάγω ὅθεν οὐ διεσκόρπισα;"
+  },
+  {
+   "ref": "PHP 3:1",
+   "form": "ὀκνηρόν",
+   "morph": "A-NSN",
+   "gloss_en": "trouble",
+   "gloss_ja": "怠け者",
+   "verse": "Τὸ λοιπόν, ἀδελφοί μου, χαίρετε ἐν κυρίῳ. τὰ αὐτὰ γράφειν ὑμῖν ἐμοὶ μὲν οὐκ ὀκνηρόν, ὑμῖν δὲ ἀσφαλές."
+  },
+  {
+   "ref": "ROM 12:11",
+   "form": "ὀκνηροί",
+   "morph": "A-NPM",
+   "gloss_en": "lagging",
+   "gloss_ja": "怠け者",
+   "verse": "τῇ σπουδῇ μὴ ὀκνηροί, τῷ πνεύματι ζέοντες, τῷ κυρίῳ δουλεύοντες,"
+  }
+ ],
+ "lxx": {
+  "total": 15,
+  "works": {
+   "Proverbia": 12,
+   "Ecclesiasticus sive Siracides": 3
+  },
+  "representatives": [
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "22.13",
+    "form": "ὀκνηρός",
+    "postag": "a-s---mn-",
+    "sentence": "προφασίζεται καὶ λέγει ὀκνηρός ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "37.11",
+    "form": "ὀκνηροῦ",
+    "postag": "a-s---ng-",
+    "sentence": "μετὰ γυναικὸς περὶ τῆς ἀντιζήλου αὐτῆς καὶ μετὰ δειλοῦ περὶ πολέμου, μετὰ ἐμπόρου περὶ μεταβολίας καὶ μετὰ ἀγοράζοντος περὶ πράσεως, μετὰ βασκάνου περὶ εὐχαριστίας καὶ μετὰ ἀνελεήμονος περὶ χρηστοηθείας, μετὰ ὀκνηροῦ περὶ παντὸς ἔργου καὶ μετὰ μισθίου ἐφεστίου περὶ συντελείας, οἰκέτῃ ἀργῷ περὶ πολλῆς ἐργασίας, μὴ ἔπεχε ἐπὶ τούτοις περὶ πάσης συμβουλίας ·"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "26.13",
+    "form": "ὀκνηρὸς",
+    "postag": "a-s---mn-",
+    "sentence": "λέγει ὀκνηρὸς ἀποστελλόμενος εἰς ὁδόν ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "22.1",
+    "form": "ὀκνηρός",
+    "postag": "a-s---mn-",
+    "sentence": "λίθῳ ἠρδαλωμένῳ συνεβλήθη ὀκνηρός, καὶ πᾶς ἐκσυριεῖ ἐπὶ τῇ ἀτιμίᾳ αὐτοῦ."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "31b.27",
+    "form": "ὀκνηρὰ",
+    "postag": "a-p---na-",
+    "sentence": "στεγναὶ διατριβαὶ οἴκων αὐτῆς, σῖτα δὲ ὀκνηρὰ οὐκ ἔφαγε."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "22.2",
+    "form": "ὀκνηρός",
+    "postag": "a-s---mn-",
+    "sentence": "βολβίτῳ κοπρίων συνεβλήθη ὀκνηρός, πᾶς ὁ ἀναιρούμενος αὐτὸν ἐκτινάξει χεῖρα."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "18.8",
+    "form": "ὀκνηροὺς",
+    "postag": "a-p---ma-",
+    "sentence": "ὀκνηροὺς καταβάλλει φόβος, ψυχαὶ δὲ ἀνδρογύνων πεινάσουσιν."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "11.16",
+    "form": "ὀκνηροὶ",
+    "postag": "a-p---mn-",
+    "sentence": "πλούτου ὀκνηροὶ ἐνδεεῖς γίνονται, οἱ δὲ ἀνδρεῖοι ἐρείδονται πλούτῳ."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "21.25",
+    "form": "ὀκνηρὸν",
+    "postag": "a-s---ma-",
+    "sentence": "ἐπιθυμίαι ὀκνηρὸν ἀποκτείνουσιν, οὐ γὰρ προαιροῦνται αἱ χεῖρες αὐτοῦ ποιεῖν τι."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "6.6",
+    "form": "ὀκνηρέ",
+    "postag": "a-s---mv-",
+    "sentence": "ἴθι πρὸς τὸν μύρμηκα, ὦ ὀκνηρέ, καὶ ζήλωσον ἰδὼν τὰς ὁδοὺς αὐτοῦ καὶ γενοῦ ἐκείνου σοφώτερος ·"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "26.16",
+    "form": "ὀκνηρὸς",
+    "postag": "a-s---mn-",
+    "sentence": "σοφώτερος ἑαυτῷ ὀκνηρὸς φαίνεται τοῦ ἐν πλησμονῇ ἀποκομίζοντος ἀγγελίαν."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "26.14",
+    "form": "ὀκνηρὸς",
+    "postag": "a-s---mn-",
+    "sentence": "ὥσπερ θύρα στρέφεται ἐπὶ τοῦ στρόφιγγος, οὕτως ὀκνηρὸς ἐπὶ τῆς κλίνης αὐτοῦ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "3   ὀκνηρός, -ά, -όν    (< ὀκνέω),   [in LXX for עָצֵל Pr 6:6, 9 al.;]    shrinking, hesitating, timid: c. dat. (Bl., § 38, 2), Ro 12:11; hence, slothful: Mt 25:26. Of things, that which causes shrinking, irksome: Phl 3:1.†"
+}

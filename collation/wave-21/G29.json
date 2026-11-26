@@ -1,0 +1,57 @@
+{
+ "strong": "G29",
+ "lemma": "ἀγγαρεύω",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MAT 5:41",
+   "form": "ἀγγαρεύσει",
+   "morph": "V-FAI-3S",
+   "gloss_en": "forces ~ togo",
+   "gloss_ja": "強制する",
+   "verse": "καὶ ὅστις σε ἀγγαρεύσει μίλιον ἕν, ὕπαγε μετ’ αὐτοῦ δύο."
+  },
+  {
+   "ref": "MAT 27:32",
+   "form": "ἠγγάρευσαν",
+   "morph": "V-AAI-3P",
+   "gloss_en": "forced",
+   "gloss_ja": "強制する",
+   "verse": "Ἐξερχόμενοι δὲ εὗρον ἄνθρωπον Κυρηναῖον ὀνόματι Σίμωνα· τοῦτον ἠγγάρευσαν ἵνα ἄρῃ τὸν σταυρὸν αὐτοῦ."
+  },
+  {
+   "ref": "MRK 15:21",
+   "form": "ἀγγαρεύουσιν",
+   "morph": "V-PAI-3P",
+   "gloss_en": "forced",
+   "gloss_ja": "強制する",
+   "verse": "Καὶ ἀγγαρεύουσιν παράγοντά τινα Σίμωνα Κυρηναῖον ἐρχόμενον ἀπ’ ἀγροῦ, τὸν πατέρα Ἀλεξάνδρου καὶ Ῥούφου, ἵνα ἄρῃ τὸν σταυρὸν αὐτοῦ."
+  }
+ ],
+ "lxx": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Didache": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DID",
+    "work_ja": "ディダケー",
+    "work_src": "Didache",
+    "ref": "1.4",
+    "form": "ἀγγαρεύσῃ",
+    "postag": "v3sasa---",
+    "sentence": "ἐὰν ἀγγαρεύσῃ σέ τις μίλιον ἕν, ὕπαγε μετ’ αὐτοῦ δύο ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3   * ἀγγαρεύω (from the Persian; cf. Vg. angiare, and the Heb. אִגֶרֶת; on the orthogr., v. Bl., §6, 1; M, Pr., 46),    to impress into public service, employ a courier; hence, to compel to perform a service (prob. common in the vernac.; cf. Deiss., BS, 86f., MM, Exp., iv; VGT, s.v.): Mt 5:41, 27:32, Mk 15:21.†"
+}

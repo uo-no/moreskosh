@@ -1,0 +1,196 @@
+{
+ "strong": "G3422",
+ "lemma": "μνημόσυνον",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 10:4",
+   "form": "μνημόσυνον",
+   "morph": "N-ASN",
+   "gloss_en": "memorial",
+   "gloss_ja": "記念",
+   "verse": "ὁ δὲ ἀτενίσας αὐτῷ καὶ ἔμφοβος γενόμενος εἶπεν· Τί ἐστιν, κύριε; εἶπεν δὲ αὐτῷ· Αἱ προσευχαί σου καὶ αἱ ἐλεημοσύναι σου ἀνέβησαν εἰς μνημόσυνον ἔμπροσθεν τοῦ θεοῦ·"
+  },
+  {
+   "ref": "MAT 26:13",
+   "form": "μνημόσυνον",
+   "morph": "N-ASN",
+   "gloss_en": "memory",
+   "gloss_ja": "記念",
+   "verse": "ἀμὴν λέγω ὑμῖν, ὅπου ἐὰν κηρυχθῇ τὸ εὐαγγέλιον τοῦτο ἐν ὅλῳ τῷ κόσμῳ, λαληθήσεται καὶ ὃ ἐποίησεν αὕτη εἰς μνημόσυνον αὐτῆς."
+  },
+  {
+   "ref": "MRK 14:9",
+   "form": "μνημόσυνον",
+   "morph": "N-ASN",
+   "gloss_en": "memory",
+   "gloss_ja": "記念",
+   "verse": "ἀμὴν δὲ λέγω ὑμῖν, ὅπου ἐὰν κηρυχθῇ τὸ εὐαγγέλιον εἰς ὅλον τὸν κόσμον, καὶ ὃ ἐποίησεν αὕτη λαληθήσεται εἰς μνημόσυνον αὐτῆς."
+  }
+ ],
+ "lxx": {
+  "total": 76,
+  "works": {
+   "Exodus": 10,
+   "Leviticus": 6,
+   "Numeri": 5,
+   "Deuteronomium": 1,
+   "Josue": 1,
+   "Esdras ii": 1,
+   "Esther": 8,
+   "Tobias": 2,
+   "Machabaeorum i": 5,
+   "Machabaeorum ii": 1,
+   "Psalmi": 6,
+   "Odae": 1,
+   "Job": 2,
+   "Sapientia Salomonis": 1,
+   "Ecclesiasticus sive Siracides": 17,
+   "Psalmi Salomonis": 2,
+   "Osee": 2,
+   "Malachias": 1,
+   "Isaias": 3,
+   "Baruch": 1
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "49.1",
+    "form": "μνημόσυνον",
+    "postag": "n-s---nn-",
+    "sentence": "μνημόσυνον Ἰωσίου εἰς σύνθεσιν θυμιάματος ἐσκευασμένον ἔργῳ μυρεψοῦ ·"
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "28.12",
+    "form": "μνημοσύνου",
+    "postag": "n-s---ng-",
+    "sentence": "λίθοι μνημοσύνου εἰσὶ τοῖς υἱοῖς Ἰσραήλ ·"
+   },
+   {
+    "work_code": "EST",
+    "work_ja": "エステル記",
+    "work_src": "Esther",
+    "ref": "6.1",
+    "form": "μνημόσυνα",
+    "postag": "n-p---na-",
+    "sentence": "ὁ δὲ Κύριος ἀπέστησε τὸν ὕπνον ἀπὸ τοῦ βασιλέως τὴν νύκτα ἐκείνην, καὶ εἶπε τῷ διακόνῳ αὐτοῦ εἰσφέρειν γράμματα μνημόσυνα τῶν ἡμερῶν ἀναγινώσκειν αὐτῷ."
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "2.16",
+    "form": "μνημόσυνον",
+    "postag": "n-s---na-",
+    "sentence": "καὶ ἀνοίσει ὁ ἱερεὺς τὸ μνημόσυνον αὐτῆς ἀπὸ τῶν χίδρων σὺν τῷ ἐλαίῳ καὶ πάντα τὸν λίβανον αὐτῆς ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "134.13",
+    "form": "μνημόσυνόν",
+    "postag": "n-s---nn-",
+    "sentence": "Κύριε, τὸ ὄνομά σου εἰς τὸν αἰῶνα καὶ τὸ μνημόσυνόν σου εἰς γενεὰν καὶ γενεάν."
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "5.15",
+    "form": "μνημοσύνου",
+    "postag": "n-s---ng-",
+    "sentence": "ἔστι γὰρ θυσία ζηλοτυπίας, θυσία μνημοσύνου, ἀναμιμνήσκουσα ἁμαρτίαν."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "12.53",
+    "form": "μνημόσυνον",
+    "postag": "n-s---na-",
+    "sentence": "νῦν οὖν πολεμήσωμεν αὐτοὺς καὶ ἐξάρωμεν ἐξ ἀνθρώπων τὸ μνημόσυνον αὐτῶν."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "57.8",
+    "form": "μνημόσυνά",
+    "postag": "n-p---na-",
+    "sentence": "καὶ ὀπίσω τῶν σταθμῶν τῆς θύρας σου ἔθηκας μνημόσυνά σου ·"
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "12.12",
+    "form": "μνημόσυνον",
+    "postag": "n-s---na-",
+    "sentence": "καὶ νῦν ὅτε προσηύξω καὶ Σαρρα, ἐγὼ προσήγαγον τὸ μνημόσυνον τῆς προσευχῆς ὑμῶν ἐνώπιον τῆς δόξης κυρίου ·"
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "18.17",
+    "form": "μνημόσυνον",
+    "postag": "n-s---nn-",
+    "sentence": "τὸ μνημόσυνον αὐτοῦ ἀπόλοιτο ἐκ γῆς, καὶ ὑπάρξει ὄνομα αὐτῷ ἐπὶ πρόσωπον ἐξωτέρω."
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "13.11",
+    "form": "μνημόσυνον",
+    "postag": "n-s---nn-",
+    "sentence": "ἁμαρτωλοὶ δὲ ἀρθήσονται εἰς ἀπώλειαν, καὶ οὐχ εὑρεθήσεται μνημόσυνον αὐτῶν ἔτι ·"
+   },
+   {
+    "work_code": "HOS",
+    "work_ja": "ホセア書",
+    "work_src": "Osee",
+    "ref": "12.6",
+    "form": "μνημόσυνον",
+    "postag": "n-s---nn-",
+    "sentence": "ὁ δὲ Κύριος ὁ Θεὸς ὁ παντοκράτωρ ἔσται μνημόσυνον αὐτοῦ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "1 Clement": 2
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "22.6",
+    "form": "μνημόσυνον",
+    "postag": "n-s---na-",
+    "sentence": "πρόσωπον δὲ κυρίου ἐπὶ ποιοῦντας κακά, τοῦ ἐξολεθρεῦσαι ἐκ γῆς τὸ μνημόσυνον αὐτῶν."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "45.8",
+    "form": "μνημοσύνῳ",
+    "postag": "n-s---nd-",
+    "sentence": "οἱ δὲ ὑπομένοντες ἐν πεποιθήσει δόξαν καὶ τιμὴν ἐκληρονόμησαν, ἐπήρθησάν τε καὶ ἔγγραφοι ἐγένοντο ἀπὸ τοῦ θεοῦ ἐν τῷ μνημοσύνῳ αὐτοῦ εἰς τοὺς αἰῶνας τῶν αἰώνων."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3   μνημόσυνον, -ου, τό    (< μνήμων, mindful),   [in LXX freq. for זֵכֶר, זִכָּרוֹן and cogn. forms;]    a memorial: Mt 26:13, Mk 14:9, Ac 10:4 (where cf. Le 2:9, 16 5:12, Nu 5:28, Si 45:16, al.).†"
+}

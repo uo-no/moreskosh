@@ -1,0 +1,281 @@
+{
+ "strong": "G3692",
+ "lemma": "πατήρ",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "HEB 11:38",
+   "form": "ὀπαῖς",
+   "morph": "N-DPF",
+   "gloss_en": "holes",
+   "gloss_ja": "穴",
+   "verse": "ὧν οὐκ ἦν ἄξιος ὁ κόσμος ἐπὶ ἐρημίαις πλανώμενοι καὶ ὄρεσι καὶ σπηλαίοις καὶ ταῖς ὀπαῖς τῆς γῆς·"
+  },
+  {
+   "ref": "JAS 3:11",
+   "form": "ὀπῆς",
+   "morph": "N-GSF",
+   "gloss_en": "opening",
+   "gloss_ja": "穴",
+   "verse": "μήτι ἡ πηγὴ ἐκ τῆς αὐτῆς ὀπῆς βρύει τὸ γλυκὺ καὶ τὸ πικρόν;"
+  },
+  {
+   "ref": "LUK 23:34",
+   "form": "Πάτερ",
+   "morph": "N-VSM",
+   "gloss_en": "father",
+   "gloss_ja": "穴",
+   "verse": "ὁ δὲ Ἰησοῦς ἔλεγεν· Πάτερ, ἄφες αὐτοῖς, οὐ γὰρ οἴδασιν τί ποιοῦσιν. διαμεριζόμενοι δὲ τὰ ἱμάτια αὐτοῦ ἔβαλον κλήρους."
+  }
+ ],
+ "lxx": {
+  "total": 1408,
+  "works": {
+   "Genesis": 216,
+   "Exodus": 23,
+   "Leviticus": 25,
+   "Numeri": 32,
+   "Deuteronomium": 75,
+   "Josue": 24,
+   "Judices": 57,
+   "Ruth": 3,
+   "Regnorum i": 51,
+   "Regnorum ii": 31,
+   "Regnorum iii": 106,
+   "Regnorum iv": 68,
+   "Paralipomenon i sive Chronicon i": 64,
+   "Paralipomenon ii sive Chronicon ii": 116,
+   "Esdras i": 15,
+   "Esdras ii": 17,
+   "Esther": 6,
+   "Judith": 9,
+   "Tobias": 95,
+   "Machabaeorum i": 35,
+   "Machabaeorum ii": 11,
+   "Machabaeorum iii": 6,
+   "Machabaeorum iv": 16,
+   "Psalmi": 22,
+   "Odae": 16,
+   "Proverbia": 26,
+   "Job": 10,
+   "Sapientia Salomonis": 13,
+   "Ecclesiasticus sive Siracides": 33,
+   "Psalmi Salomonis": 4,
+   "Osee": 1,
+   "Amos": 2,
+   "Michaeas": 2,
+   "Joel": 1,
+   "Zacharias": 7,
+   "Malachias": 6,
+   "Isaias": 23,
+   "Jeremias": 64,
+   "Baruch": 12,
+   "Threni seu Lamentationes": 2,
+   "Ezechiel": 29,
+   "Susanna": 1,
+   "Daniel": 32,
+   "Bel et Draco": 1
+  },
+  "representatives": [
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "19.37",
+    "form": "πατρός",
+    "postag": "n-s---mg-",
+    "sentence": "ἐκ τοῦ πατρός μου ·"
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "35.24",
+    "form": "πατέρων",
+    "postag": "n-p---mg-",
+    "sentence": "καὶ ἀπέθανε καὶ ἐτάφη μετὰ τῶν πατέρων αὐτοῦ."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "8.18",
+    "form": "πατέρα",
+    "postag": "n-s---ma-",
+    "sentence": "καὶ εἶπε Κύριος πρὸς Δαυὶδ τὸν πατέρα μου ·"
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "3.10",
+    "form": "πατρί",
+    "postag": "n-s---md-",
+    "sentence": "μία μέν εἰμι τῷ πατρί μου ·"
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "33.9",
+    "form": "πατρὶ",
+    "postag": "n-s---md-",
+    "sentence": "ὁ λέγων τῷ πατρὶ καὶ τῇ μητρί ·"
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "13.14",
+    "form": "πάτερ",
+    "postag": "n-s---mv-",
+    "sentence": "πάτερ πάτερ, ἅρμα Ἰσραὴλ καὶ ἱππεὺς αὐτοῦ."
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "2.42",
+    "form": "πατρὸς",
+    "postag": "n-s---mg-",
+    "sentence": "καὶ υἱοὶ Μαρισὰ πατρὸς Χεβρών."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "2.27",
+    "form": "πατήρ",
+    "postag": "n-s---mn-",
+    "sentence": "τῷ ξύλῳ εἶπαν, ὅτι πατήρ μου εἶ σύ, καὶ τῷ λίθῳ ·"
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "15.2",
+    "form": "πατὴρ",
+    "postag": "n-s---mn-",
+    "sentence": "καὶ εἶπεν ὁ πατὴρ αὐτῆς λέγων ·"
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "12.6",
+    "form": "πατέρας",
+    "postag": "n-p---ma-",
+    "sentence": "μάρτυς Κύριος ὁ ποιήσας τὸν Μωυσῆν καὶ τὸν Ἀαρών, ὁ ἀναγαγὼν τοὺς πατέρας ἡμῶν ἐξ Αἰγύπτου."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "4.9",
+    "form": "πατέρες",
+    "postag": "n-p---mn-",
+    "sentence": "μνήσθητε πῶς ἐσώθησαν οἱ πατέρες ἡμῶν ἐν θαλάσσῃ ἐρυθρᾷ, ὅτι ἐδίωξεν αὐτοὺς Φαραὼ ἐν δυνάμει."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "30.4",
+    "form": "πατήρ",
+    "postag": "n-s---mn-",
+    "sentence": "ἐτελεύτησεν αὐτοῦ ὁ πατήρ, καὶ ὡς οὐκ ἀπέθανεν ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 107,
+  "works": {
+   "Barnabas": 8,
+   "1 Clement": 18,
+   "2 Clement": 11,
+   "Didache": 7,
+   "To Diognetus": 5,
+   "Hermas, Pastor": 3,
+   "Ignatius, Letters": 46,
+   "Martyrdom of Polycarp": 9
+  },
+  "representatives": [
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "6.13.1",
+    "form": "πατρός",
+    "postag": "n-s---mg-",
+    "sentence": "ἔρρωσθέ μοι ἐν δυνάμει πατρός."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "4.8",
+    "form": "πατὴρ",
+    "postag": "n-s---mn-",
+    "sentence": "διὰ ζῆλος ὁ πατὴρ ἡμῶν Ἰακὼβ ἀπέδρα ἀπὸ προσώπου Ἠσαῦ τοῦ ἀδελφοῦ αὐτοῦ."
+   },
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "19.4",
+    "form": "πατέρων",
+    "postag": "n-p---mg-",
+    "sentence": "ἐκεῖνος ἄνω μετὰ τῶν πατέρων ἀναβιώσας εὐφρανθήσεται εἰς τὸν ἀλύπητον αἰῶνα."
+   },
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "praef.1",
+    "form": "πατρὸς",
+    "postag": "n-s---mg-",
+    "sentence": "ἔλεος, εἰρήνη καὶ ἀγάπη θεοῦ πατρὸς καὶ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ πληθυνθείη."
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "14.1",
+    "form": "πατράσιν",
+    "postag": "n-p---md-",
+    "sentence": "ἀλλὰ ἴδωμεν, εἰ ἡ διαθήκη, ἣν ὤμοσεν τοῖς πατράσιν δοῦναι τῷ λαῷ, εἰ δέδωκεν."
+   },
+   {
+    "work_code": "DID",
+    "work_ja": "ディダケー",
+    "work_src": "Didache",
+    "ref": "9.3",
+    "form": "πάτερ",
+    "postag": "n-s---mv-",
+    "sentence": "εὐχαριστοῦμέν σοι, πάτερ ἡμῶν, ὑπὲρ τῆς ζωῆς καὶ γνώσεως, ἦς ἐγνώρισας ἡμῖν διὰ Ἰησοῦ τοῦ παιδός σου."
+   },
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "9",
+    "form": "πατέρα",
+    "postag": "n-s---ma-",
+    "sentence": "ἐλέγξας οὖν ἐν μὲν τῷ πρόσθεν χρόνῳ τὸ ἀδύνατον τῆς ἡμετέρας φύσεως εἰς τὸ τυχεῖν ζωῆς, νῦν δὲ τὸν σωτῆρα δείξας δυνατὸν σώζειν καὶ τὰ ἀδύνατα, ἐξ ἀμφοτέρων ἐβουλήθη πιστεύειν ἡμᾶς τῇ χρηστότητι αὐτοῦ, αὐτὸν ἡγεῖσθαι τροφέα, πατέρα, διδάσκαλον, σύμβουλον, ἰατρόν, νοῦν, φῶς, τιμήν, δόξαν, ἰσχύν, ζωήν, περὶ ἐνδύσεως καὶ τροφῆς μὴ μεριμνᾶν."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.12.2",
+    "form": "πατρὶ",
+    "postag": "n-s---md-",
+    "sentence": "ὁ μὲν υἱὸς τοῦ θεοῦ πάσης τῆς κτίσεως αὐτοῦ προγενέστερός ἐστιν, ὥστε σύμβουλον αὐτὸν γενέσθαι τῷ πατρὶ τῆς κτίσεως αὐτοῦ ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   ὀπή, -ῆς, ἡ,    [in LXX for חֹר, חָגוּ, etc.;]    an opening, a hole: Ja 3:11 (cf. Ex 33:22), He 11:33 (cf. Ob 3).†"
+}

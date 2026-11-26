@@ -1,0 +1,79 @@
+{
+ "strong": "G397",
+ "lemma": "ἀνατρέφω",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 22:3",
+   "form": "ἀνατεθραμμένος",
+   "morph": "V-RPP-NSM",
+   "gloss_en": "brought up",
+   "gloss_ja": "育てる",
+   "verse": "Ἐγώ εἰμι ἀνὴρ Ἰουδαῖος, γεγεννημένος ἐν Ταρσῷ τῆς Κιλικίας, ἀνατεθραμμένος δὲ ἐν τῇ πόλει ταύτῃ παρὰ τοὺς πόδας Γαμαλιήλ, πεπαιδευμένος κατὰ ἀκρίβειαν τοῦ πατρῴου νόμου, ζηλωτὴς ὑπάρχων τοῦ θεοῦ καθὼς πάντες ὑμεῖς ἐστε σήμερον,"
+  },
+  {
+   "ref": "ACT 7:20",
+   "form": "ἀνετράφη",
+   "morph": "V-2API-3S",
+   "gloss_en": "brought up",
+   "gloss_ja": "育てる",
+   "verse": "ἐν ᾧ καιρῷ ἐγεννήθη Μωϋσῆς, καὶ ἦν ἀστεῖος τῷ θεῷ· ὃς ἀνετράφη μῆνας τρεῖς ἐν τῷ οἴκῳ τοῦ πατρός·"
+  },
+  {
+   "ref": "ACT 7:21",
+   "form": "ἀνεθρέψατο",
+   "morph": "V-AMI-3S",
+   "gloss_en": "brought ~ up",
+   "gloss_ja": "育てる",
+   "verse": "ἐκτεθέντος δὲ αὐτοῦ ἀνείλατο αὐτὸν ἡ θυγάτηρ Φαραὼ καὶ ἀνεθρέψατο αὐτὸν ἑαυτῇ εἰς υἱόν."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Machabaeorum iv": 1,
+   "Sapientia Salomonis": 1
+  },
+  "representatives": [
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "10.2",
+    "form": "ἀνετράφημεν",
+    "postag": "v1paip---",
+    "sentence": "ἢ ἀγνοεῖτε ὅτι ὁ αὐτός με τοῖς ἀποθανοῦσιν ἔσπειρε πατήρ, καὶ ἡ αὐτὴ μήτηρ ἐγέννησε, καὶ ἐπὶ τοῖς αὐτοῖς ἀνετράφημεν δόγμασιν;"
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "7.4",
+    "form": "ἀνετράφην",
+    "postag": "v1saip---",
+    "sentence": "ἐν σπαργάνοις ἀνετράφην καὶ ἐν φροντίσιν ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "1 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "25.3",
+    "form": "ἀνατρεφόμενος",
+    "postag": "v-sppmmn-",
+    "sentence": "σηπομένης δὲ τῆς σαρκὸς σκώληξ τις γεννᾶται, ὃς ἐκ τῆς ἰκμάδος τοῦ τετελευτηκότος ζώου ἀνατρεφόμενος πτεροφυεῖ ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3   ** ἀνα-τρέφω,    [in LXX: Wi 7:4 B, IV Mac 10:2 11:15 א*;]    to nurse up, nourish, educate, bring up: Lk 4:16, WΗ, mg., Ac 7:20, 21 22:3.†"
+}

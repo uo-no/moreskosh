@@ -1,0 +1,169 @@
+{
+ "strong": "G2869",
+ "lemma": "κοπάζω",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MAT 14:32",
+   "form": "ἐκόπασεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "ceased",
+   "gloss_ja": "静まる",
+   "verse": "καὶ ἀναβάντων αὐτῶν εἰς τὸ πλοῖον ἐκόπασεν ὁ ἄνεμος."
+  },
+  {
+   "ref": "MRK 4:39",
+   "form": "ἐκόπασεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "ceased",
+   "gloss_ja": "静まる",
+   "verse": "καὶ διεγερθεὶς ἐπετίμησεν τῷ ἀνέμῳ καὶ εἶπεν τῇ θαλάσσῃ· Σιώπα, πεφίμωσο. καὶ ἐκόπασεν ὁ ἄνεμος, καὶ ἐγένετο γαλήνη μεγάλη."
+  },
+  {
+   "ref": "MRK 6:51",
+   "form": "ἐκόπασεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "ceased",
+   "gloss_ja": "静まる",
+   "verse": "καὶ ἀνέβη πρὸς αὐτοὺς εἰς τὸ πλοῖον, καὶ ἐκόπασεν ὁ ἄνεμος. καὶ λίαν ἐκ περισσοῦ ἐν ἑαυτοῖς ἐξίσταντο,"
+  }
+ ],
+ "lxx": {
+  "total": 25,
+  "works": {
+   "Genesis": 4,
+   "Numeri": 3,
+   "Josue": 1,
+   "Judices": 1,
+   "Ruth": 1,
+   "Regnorum ii": 1,
+   "Esther": 2,
+   "Psalmi": 1,
+   "Ecclesiasticus sive Siracides": 5,
+   "Osee": 1,
+   "Amos": 1,
+   "Jonas": 2,
+   "Jeremias": 1,
+   "Ezechiel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "23.17",
+    "form": "κοπάσῃ",
+    "postag": "v3sasa---",
+    "sentence": "ἀνθρώπω πόρνῳ πᾶς ἄρτος ἡδύς, οὐ μὴ κοπάσῃ ἕως ἂν τελευτήσῃ."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "8.8",
+    "form": "κεκόπακε",
+    "postag": "v3sria---",
+    "sentence": "καὶ ἀπέστειλε τὴν περιστερὰν ὀπίσω αὐτοῦ ἰδεῖν, εἰ κεκόπακε τὸ ὕδωρ ἀπὸ προσώπου τῆς γῆς."
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "11.2",
+    "form": "ἐκόπασε",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἐκέκραξεν ὁ λαὸς πρὸς Μωυσῆν, καὶ ηὔξατο Μωυσῆς πρὸς Κύριον, καὶ ἐκόπασε τὸ πῦρ."
+   },
+   {
+    "work_code": "EST",
+    "work_ja": "エステル記",
+    "work_src": "Esther",
+    "ref": "2.1",
+    "form": "ἐκόπασεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ μετὰ τοὺς λόγους τούτους ἐκόπασεν ὁ βασιλεὺς τοῦ θυμοῦ καὶ οὐκέτι ἐμνήσθη τῆς Ἀστίν, μνημονεύων οἷα ἐλάλησε καὶ ὡς κατέκρινεν αὐτήν."
+   },
+   {
+    "work_code": "JON",
+    "work_ja": "ヨナ書",
+    "work_src": "Jonas",
+    "ref": "1.11",
+    "form": "κοπάσει",
+    "postag": "v3sfia---",
+    "sentence": "τί ποιήσομέν σοι καὶ κοπάσει ἡ θάλασσα ἀφ’ ἡμῶν;"
+   },
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "14.15",
+    "form": "ἐκόπασε",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἡ γῆ ἐκόπασε τοῦ πολέμου."
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "15.7",
+    "form": "κοπάσω",
+    "postag": "v1sfia---",
+    "sentence": "ἐὰν ποιήσητε οὕτως ταύτην, ὅτι ἦ μὴν ἐκδικήσω ἐν ὑμῖν καὶ ἔσχατον κοπάσω."
+   },
+   {
+    "work_code": "RUT",
+    "work_ja": "ルツ記",
+    "work_src": "Ruth",
+    "ref": "1.18",
+    "form": "ἐκόπασε",
+    "postag": "v3saia---",
+    "sentence": "ἰδοῦσα δὲ Νωεμὶν ὅτι κραταιοῦται αὐτὴ τοῦ πορεύεσθαι μετ’ αὐτῆς, ἐκόπασε τοῦ λαλῆσαι πρὸς αὐτὴν ἔτι."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "13.39",
+    "form": "ἐκόπασε",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἐκόπασε τὸ πνεῦμα τοῦ βασιλέως τοῦ ἐξελθεῖν ὀπίσω Ἀβεσσαλώμ, ὅτι παρεκλήθη ἐπὶ Ἀμνὼν ὅτι ἀπέθανε."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "105.30",
+    "form": "ἐκόπασεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἔστη Φινεὲς καὶ ἐξιλάσατο, καὶ ἐκόπασεν ἡ θραῦσις ·"
+   },
+   {
+    "work_code": "HOS",
+    "work_ja": "ホセア書",
+    "work_src": "Osee",
+    "ref": "8.10",
+    "form": "κοπάσουσι",
+    "postag": "v3pfia---",
+    "sentence": "νῦν εἰσδέξομαι αὐτούς, καὶ κοπάσουσι μικρὸν τοῦ χρίειν βασιλέα καὶ ἄρχοντας."
+   },
+   {
+    "work_code": "AMO",
+    "work_ja": "アモス書",
+    "work_src": "Amos",
+    "ref": "7.5",
+    "form": "κόπασον",
+    "postag": "v2sama---",
+    "sentence": "Κύριε, κόπασον δή, τίς ἀναστήσει τὸν Ἰακώβ;"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "3   κοπάζω    (< κόπος),   [in LXX: Ge 8:1, Es 2:1 7:10 (שׁכךְ), Ru 1:18, al. (חדל), Jh 1:11, 12 (שׁתק), al.;]    to grow weary; of the wind (Hdt., Jh 1:11, 12), to abate, cease raging: Mt 14:32, Mk 4:39 6:51.†"
+}

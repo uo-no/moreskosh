@@ -1,0 +1,57 @@
+{
+ "strong": "G2245",
+ "lemma": "ἡλίκος",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "COL 2:1",
+   "form": "ἡλίκον",
+   "morph": "A-ASM",
+   "gloss_en": "how great",
+   "gloss_ja": "どれほどの",
+   "verse": "Θέλω γὰρ ὑμᾶς εἰδέναι ἡλίκον ἀγῶνα ἔχω ὑπὲρ ὑμῶν καὶ τῶν ἐν Λαοδικείᾳ καὶ ὅσοι οὐχ ἑόρακαν τὸ πρόσωπόν μου ἐν σαρκί,"
+  },
+  {
+   "ref": "JAS 3:5",
+   "form": "ἡλίκον",
+   "morph": "A-NSN",
+   "gloss_en": "small",
+   "gloss_ja": "どれほどの",
+   "verse": "οὕτως καὶ ἡ γλῶσσα μικρὸν μέλος ἐστὶν καὶ μεγάλα αὐχεῖ. Ἰδοὺ ἡλίκον πῦρ ἡλίκην ὕλην ἀνάπτει·"
+  },
+  {
+   "ref": "JAS 3:5",
+   "form": "ἡλίκην",
+   "morph": "A-ASF",
+   "gloss_en": "how great",
+   "gloss_ja": "どれほどの",
+   "verse": "οὕτως καὶ ἡ γλῶσσα μικρὸν μέλος ἐστὶν καὶ μεγάλα αὐχεῖ. Ἰδοὺ ἡλίκον πῦρ ἡλίκην ὕλην ἀνάπτει·"
+  }
+ ],
+ "lxx": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "2 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "10.4",
+    "form": "ἡλίκην",
+    "postag": "p-s---fa-",
+    "sentence": "ἀγνοοῦσιν γὰρ ἡλίκην ἔχει βάσανον ἡ ἐνθάδε ἀπόλαυσις, καὶ οἵαν τρυφὴν ἔχει ἡ μέλλουσα ἐπαγγελία."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3   * ἡλίκος, -η, -ον,     prop., as big as, as old as.     As indirect interrog., what sized, what, how great, how small (the sense to be determined by the context): Col 2:1, Ja 3:5, Ga 6:11 (WH, mg.; πηλ-, WH, txt., RV).†"
+}

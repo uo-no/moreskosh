@@ -1,0 +1,67 @@
+{
+ "strong": "G4120",
+ "lemma": "πλέκω",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JHN 19:2",
+   "form": "πλέξαντες",
+   "morph": "V-AAP-NPM",
+   "gloss_en": "twisted together",
+   "gloss_ja": "編む",
+   "verse": "καὶ οἱ στρατιῶται πλέξαντες στέφανον ἐξ ἀκανθῶν ἐπέθηκαν αὐτοῦ τῇ κεφαλῇ, καὶ ἱμάτιον πορφυροῦν περιέβαλον αὐτόν,"
+  },
+  {
+   "ref": "MAT 27:29",
+   "form": "πλέξαντες",
+   "morph": "V-AAP-NPM",
+   "gloss_en": "twisted together",
+   "gloss_ja": "編む",
+   "verse": "καὶ πλέξαντες στέφανον ἐξ ἀκανθῶν ἐπέθηκαν ἐπὶ τῆς κεφαλῆς αὐτοῦ καὶ κάλαμον ἐν τῇ δεξιᾷ αὐτοῦ, καὶ γονυπετήσαντες ἔμπροσθεν αὐτοῦ ἐνέπαιξαν αὐτῷ λέγοντες· Χαῖρε, βασιλεῦ τῶν Ἰουδαίων,"
+  },
+  {
+   "ref": "MRK 15:17",
+   "form": "πλέξαντες",
+   "morph": "V-AAP-NPM",
+   "gloss_en": "twisted together",
+   "gloss_ja": "編む",
+   "verse": "καὶ ἐνδιδύσκουσιν αὐτὸν πορφύραν καὶ περιτιθέασιν αὐτῷ πλέξαντες ἀκάνθινον στέφανον·"
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Exodus": 1,
+   "Isaias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "28.14",
+    "form": "πεπλεγμένα",
+    "postag": "v-prpmna-",
+    "sentence": "καὶ ἐπιθήσεις τὰ κροσσωτὰ τὰ πεπλεγμένα ἐπὶ τὰς ἀσπιδίσκας κατὰ τὰς παρωμίδας αὐτῶν ἐκ τῶν ἐμπροσθίων."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "28.5",
+    "form": "πλακεὶς",
+    "postag": "v-sappmn-",
+    "sentence": "τῇ ἡμέρᾳ ἐκείνῃ ἔσται Κύριος σαβαὼθ ὁ στέφανος τῆς ἐλπίδος ὁ πλακεὶς τῆς δόξης τῷ καταλειφθέντι μου λαῷ ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "3   πλέκω,    [in LXX: Ex 28:14 (עֲבֹת), Is 28:5 (צְפִירָה)*;]    to plait, twist, weave: Mt 27:29, Mk 15:17, Jo 19:2.†"
+}

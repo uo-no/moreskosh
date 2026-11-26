@@ -1,0 +1,251 @@
+{
+ "strong": "G3646",
+ "lemma": "ὁλοκαύτωμα",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "HEB 10:6",
+   "form": "ὁλοκαυτώματα",
+   "morph": "N-APN",
+   "gloss_en": "burnt offerings",
+   "gloss_ja": "全焼の献げ物",
+   "verse": "ὁλοκαυτώματα καὶ περὶ ἁμαρτίας οὐκ εὐδόκησας."
+  },
+  {
+   "ref": "HEB 10:8",
+   "form": "ὁλοκαυτώματα",
+   "morph": "N-APN",
+   "gloss_en": "burnt offerings",
+   "gloss_ja": "全焼の献げ物",
+   "verse": "ἀνώτερον λέγων ὅτι Θυσίας καὶ προσφορὰς καὶ ὁλοκαυτώματα καὶ περὶ ἁμαρτίας οὐκ ἠθέλησας οὐδὲ εὐδόκησας, αἵτινες κατὰ νόμον προσφέρονται,"
+  },
+  {
+   "ref": "MRK 12:33",
+   "form": "ὁλοκαυτωμάτων",
+   "morph": "N-GPN",
+   "gloss_en": "burnt offerings",
+   "gloss_ja": "全焼の献げ物",
+   "verse": "καὶ τὸ ἀγαπᾶν αὐτὸν ἐξ ὅλης τῆς καρδίας καὶ ἐξ ὅλης τῆς συνέσεως καὶ ἐξ ὅλης τῆς ἰσχύος καὶ τὸ ἀγαπᾶν τὸν πλησίον ὡς ἑαυτὸν περισσότερόν ἐστιν πάντων τῶν ὁλοκαυτωμάτων καὶ θυσιῶν."
+  }
+ ],
+ "lxx": {
+  "total": 195,
+  "works": {
+   "Exodus": 8,
+   "Leviticus": 55,
+   "Numeri": 36,
+   "Deuteronomium": 6,
+   "Josue": 2,
+   "Judices": 4,
+   "Regnorum i": 1,
+   "Regnorum ii": 3,
+   "Regnorum iii": 4,
+   "Regnorum iv": 3,
+   "Paralipomenon i sive Chronicon i": 9,
+   "Paralipomenon ii sive Chronicon ii": 14,
+   "Esdras i": 2,
+   "Esdras ii": 2,
+   "Judith": 2,
+   "Machabaeorum i": 4,
+   "Machabaeorum ii": 1,
+   "Psalmi": 7,
+   "Odae": 1,
+   "Osee": 1,
+   "Amos": 1,
+   "Michaeas": 1,
+   "Isaias": 2,
+   "Jeremias": 5,
+   "Baruch": 1,
+   "Ezechiel": 18,
+   "Daniel": 2
+  },
+  "representatives": [
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "9.12",
+    "form": "ὁλοκαύτωμα",
+    "postag": "n-s---na-",
+    "sentence": "καὶ ἔσφαξε τὸ ὁλοκαύτωμα ·"
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "28.31",
+    "form": "ὁλοκαυτώματος",
+    "postag": "n-s---ng-",
+    "sentence": "πλὴν τοῦ ὁλοκαυτώματος τοῦ διὰ παντός ·"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "46.4",
+    "form": "ὁλοκαυτώματα",
+    "postag": "n-p---na-",
+    "sentence": "καὶ τὰ ὁλοκαυτώματα προσοίσει ὁ ἀφηγούμενος τῷ Κυρίῳ ·"
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "4.6",
+    "form": "ὁλοκαυτωμάτων",
+    "postag": "n-p---ng-",
+    "sentence": "καὶ ἐποίησε λουτῆρας δέκα καὶ ἔθηκε τοὺς πέντε ἐκ δεξιῶν καὶ τοὺς πέντε ἐξ ἀριστερῶν τοῦ πλύνειν ἐν αὐτοῖς τὰ ἔργα τῶν ὁλοκαυτωμάτων καὶ ἀποκλύζειν ἐν αὐτοῖς ·"
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "21.26",
+    "form": "ὁλοκαυτώματα",
+    "postag": "n-p---na-",
+    "sentence": "καὶ ᾠκοδόμησεν ἐκεῖ Δαυὶδ θυσιαστήριον Κυρίῳ καὶ ἀνήνεγκεν ὁλοκαυτώματα καὶ σωτηρίου ·"
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "18.12",
+    "form": "ὁλοκαυτώματα",
+    "postag": "n-p---na-",
+    "sentence": "καὶ ἔλαβεν Ἰοθὸρ ὁ γαμβρὸς Μωυσῆ ὁλοκαυτώματα καὶ θυσίας τῷ Θεῷ ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "19.4",
+    "form": "ὁλοκαύτωμά",
+    "postag": "n-s---na-",
+    "sentence": "μνησθείη πάσης θυσίας σου καὶ τὸ ὁλοκαύτωμά σου πιανάτω."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "12.27",
+    "form": "ὁλοκαυτώματά",
+    "postag": "n-p---na-",
+    "sentence": "πλὴν τὰ ἅγιά σου, ἐὰν γένηταί σοι, καὶ τὰς εὐχάς σου λαβὼν ἥξεις εἰς τὸν τόπον, ὃν ἂν ἐκλέξηται Κύριος ὁ Θεός σου ἐπικληθῆναι τὸ ὄνομα αὐτοῦ ἐκεῖ, καὶ ποιήσεις τὰ ὁλοκαυτώματά σου ·"
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "7.21",
+    "form": "ὁλοκαυτώματα",
+    "postag": "n-p---na-",
+    "sentence": "τὰ ὁλοκαυτώματα ὑμῶν συναγάγετε μετὰ τῶν θυσιῶν ὑμῶν καὶ φάγετε κρέα."
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "13.16",
+    "form": "ὁλοκαύτωμα",
+    "postag": "n-s---na-",
+    "sentence": "ἐὰν κατάσχῃς με, οὐ φάγομαι ἀπὸ τῶν ἄρτων σου, καὶ ἐὰν ποιήσῃς ὁλοκαύτωμα, τῷ Κυρίῳ ἀνοίσεις αὐτό ·"
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "18.29",
+    "form": "ὁλοκαύτωμά",
+    "postag": "n-s---na-",
+    "sentence": "μετάστητε ἀπὸ τοῦ νῦν, καὶ ἐγὼ ποιήσω τὸ ὁλοκαύτωμά μου."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "5.54",
+    "form": "ὁλοκαυτώματα",
+    "postag": "n-p---na-",
+    "sentence": "καὶ ἀνέβησαν εἰς τὸ ὄρος Σιὼν ἐν εὐφροσύνῃ καὶ χαρᾷ καὶ προσήγαγον ὁλοκαυτώματα, ὅτι οὐκ ἔπεσεν ἐξ αὐτῶν οὐθεὶς ἕως τοῦ ἐπιστρέψαι ἐν εἰρήνῃ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 7,
+  "works": {
+   "Barnabas": 4,
+   "1 Clement": 1,
+   "To Diognetus": 1,
+   "Martyrdom of Polycarp": 1
+  },
+  "representatives": [
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "2.7",
+    "form": "ὁλοκαυτώματα",
+    "postag": "n-p---na-",
+    "sentence": "μὴ ἐγὼ ἐνετειλάμην τοῖς πατράσιν ὑμῶν ἐκπορευομένοις ἐκ γῆς Αἰγύπτου, προσενέγκαι μοι ὁλοκαυτώματα καὶ θυσίας;"
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "18.16",
+    "form": "ὁλοκαυτώματα",
+    "postag": "n-p---na-",
+    "sentence": "ὁλοκαυτώματα οὐκ εὐδοκήσεις."
+   },
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "3",
+    "form": "ὁλοκαυτωμάτων",
+    "postag": "n-p---ng-",
+    "sentence": "οἱ δέ γε θυσίας αὐτῷ δι’ αἵματος καὶ κνίσης καὶ ὁλοκαυτωμάτων ἐπιτελεῖν οἰόμενοι καὶ ταύταις ταῖς τιμαῖς αὐτὸν γεραίρειν, οὐδέν μοι δοκοῦσι διαφέρειν τῶν εἰς τὰ κωφὰ τὴν αὐτὴν ἐνδεικνυμένων φιλοτιμίαν ·"
+   },
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "14.1",
+    "form": "ὁλοκαύτωμα",
+    "postag": "n-s---na-",
+    "sentence": "ὁ δὲ ὀπίσω τὰς χεῖρας ποιήσας καὶ προσδεθείς, ὥσπερ κριὸς ἐπίσημος ἐκ μεγάλου ποιμνίου εἰς προσφοράν, ὁλοκαύτωμα δεκτὸν τῷ θεῷ ἡτοιμασμένον, ἀναβλέψας εἰς τὸν οὐρανὸν εἶπεν ·"
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "7.6",
+    "form": "ὁλοκαύτωμα",
+    "postag": "n-s---na-",
+    "sentence": "λάβετε δύο τράγους καλοὺς καὶ ὁμοίους καὶ προσενέγκατε, καὶ λαβέτω ὁ ἱερεὺς τὸν ἔνα εἰς ὁλοκαύτωμα ὑπὲρ ἁμαρτιῶν."
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "2.4",
+    "form": "ὁλοκαυτωμάτων",
+    "postag": "n-p---ng-",
+    "sentence": "πεφανέρωκεν γὰρ ἡμῖν διὰ πάντων τῶν προφητῶν, ὅτι οὕτε θυσιῶν οὔ-τε ὁλοκαυτωμάτων οὔ-τε προσφορῶν χρῄζει, λέγων ὅτε μέν ·"
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "2.5",
+    "form": "ὁλοκαυτωμάτων",
+    "postag": "n-p---ng-",
+    "sentence": "πλήρης εἰμὶ ὁλοκαυτωμάτων, καὶ στέαρ ἀρνῶν καὶ αἷμα ταύρων καὶ τράγων οὐ βούλομαι, οὐ-δ’ ἂν ἔρχησθε ὀφθῆναί μοι, τίς γὰρ ἐξεζήτησεν ταῦτα ἐκ τῶν χειρῶν ὑμῶν;"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3   † ὁλοκαύτωμα, -τος, τό    (< ὅλος, καίω),   [in LXX chiefly for עֹלָה;]    a whole burnt offering: Mk 12:33, He 10:6, 8(LXX) (cf. Kennedy, Sources, 113 f.).†   SYN.: v.s. θυσία."
+}

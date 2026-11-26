@@ -1,0 +1,97 @@
+{
+ "strong": "G4212",
+ "lemma": "ποσάκις",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 13:34",
+   "form": "ποσάκις",
+   "morph": "ADV",
+   "gloss_en": "how often",
+   "gloss_ja": "何度",
+   "verse": "Ἰερουσαλὴμ Ἰερουσαλήμ, ἡ ἀποκτείνουσα τοὺς προφήτας καὶ λιθοβολοῦσα τοὺς ἀπεσταλμένους πρὸς αὐτήν ποσάκις ἠθέλησα ἐπισυνάξαι τὰ τέκνα σου ὃν τρόπον ὄρνις τὴν ἑαυτῆς νοσσιὰν ὑπὸ τὰς πτέρυγας, καὶ οὐκ ἠθελήσατε."
+  },
+  {
+   "ref": "MAT 18:21",
+   "form": "ποσάκις",
+   "morph": "ADV",
+   "gloss_en": "how often",
+   "gloss_ja": "何度",
+   "verse": "Τότε προσελθὼν αὐτῷ ὁ Πέτρος εἶπεν· Κύριε, ποσάκις ἁμαρτήσει εἰς ἐμὲ ὁ ἀδελφός μου καὶ ἀφήσω αὐτῷ; ἕως ἑπτάκις;"
+  },
+  {
+   "ref": "MAT 23:37",
+   "form": "ποσάκις",
+   "morph": "ADV",
+   "gloss_en": "how often",
+   "gloss_ja": "何度",
+   "verse": "Ἰερουσαλὴμ Ἰερουσαλήμ, ἡ ἀποκτείνουσα τοὺς προφήτας καὶ λιθοβολοῦσα τοὺς ἀπεσταλμένους πρὸς αὐτήν ποσάκις ἠθέλησα ἐπισυναγαγεῖν τὰ τέκνα σου, ὃν τρόπον ὄρνις ἐπισυνάγει τὰ νοσσία αὐτῆς ὑπὸ τὰς πτέρυγας, καὶ οὐκ ἠθελήσατε;"
+  }
+ ],
+ "lxx": {
+  "total": 5,
+  "works": {
+   "Regnorum iii": 1,
+   "Paralipomenon ii sive Chronicon ii": 1,
+   "Machabaeorum iii": 1,
+   "Psalmi": 1,
+   "Ecclesiasticus sive Siracides": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "22.16",
+    "form": "ποσάκις",
+    "postag": "d--------",
+    "sentence": "ποσάκις ἐγὼ ὁρκίζω σε ὅπως λαλήσῃς πρός με ἀλήθειαν ἐν ὀνόματι Κυρίου;"
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "18.15",
+    "form": "ποσάκις",
+    "postag": "d--------",
+    "sentence": "ποσάκις ὁρκίζω σε ἵνα μὴ λαλήσῃς πρός με πλὴν τὴν ἀλήθειαν ἐν ὀνόματι Κυρίου;"
+   },
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "5.37",
+    "form": "ποσάκις",
+    "postag": "d--------",
+    "sentence": "ποσάκις σοι δεῖ περὶ τούτων αὐτῶν προστάττειν, ἀθλιώτατε;"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "77.40",
+    "form": "ποσάκις",
+    "postag": "d--------",
+    "sentence": "ποσάκις παρεπίκραναν αὐτὸν ἐν τῇ ἐρήμῳ, παρώργισαν αὐτὸν ἐν γῇ ἀνύδρῳ;"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "20.17",
+    "form": "ποσάκις",
+    "postag": "d--------",
+    "sentence": "ποσάκις καὶ ὅσοι καταγελάσονται αὐτοῦ;"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "3   ποσάκις,   interrog. num. adv.,     how often: Mt 18:21 23:37, Lk 13:34.†"
+}

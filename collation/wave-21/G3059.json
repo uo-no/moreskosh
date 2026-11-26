@@ -1,0 +1,135 @@
+{
+ "strong": "G3059",
+ "lemma": "λοιδορία",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1PE 3:9",
+   "form": "λοιδορίαν",
+   "morph": "N-ASF",
+   "gloss_en": "insult",
+   "gloss_ja": "そしり",
+   "verse": "μὴ ἀποδιδόντες κακὸν ἀντὶ κακοῦ ἢ λοιδορίαν ἀντὶ λοιδορίας τοὐναντίον δὲ εὐλογοῦντες, ὅτι εἰς τοῦτο ἐκλήθητε ἵνα εὐλογίαν κληρονομήσητε."
+  },
+  {
+   "ref": "1PE 3:9",
+   "form": "λοιδορίας",
+   "morph": "N-GSF",
+   "gloss_en": "insult",
+   "gloss_ja": "そしり",
+   "verse": "μὴ ἀποδιδόντες κακὸν ἀντὶ κακοῦ ἢ λοιδορίαν ἀντὶ λοιδορίας τοὐναντίον δὲ εὐλογοῦντες, ὅτι εἰς τοῦτο ἐκλήθητε ἵνα εὐλογίαν κληρονομήσητε."
+  },
+  {
+   "ref": "1TI 5:14",
+   "form": "λοιδορίας",
+   "morph": "N-GSF",
+   "gloss_en": "reproach",
+   "gloss_ja": "そしり",
+   "verse": "βούλομαι οὖν νεωτέρας γαμεῖν, τεκνογονεῖν, οἰκοδεσποτεῖν, μηδεμίαν ἀφορμὴν διδόναι τῷ ἀντικειμένῳ λοιδορίας χάριν·"
+  }
+ ],
+ "lxx": {
+  "total": 7,
+  "works": {
+   "Exodus": 1,
+   "Numeri": 1,
+   "Proverbia": 2,
+   "Ecclesiasticus sive Siracides": 3
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "29.6",
+    "form": "λοιδορίας",
+    "postag": "n-p---fa-",
+    "sentence": "κατάρας καὶ λοιδορίας ἀποδώσει αὐτῷ καὶ ἀντὶ δόξης ἀποδώσει αὐτῷ ἀτιμίαν."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "20.3",
+    "form": "λοιδορίας",
+    "postag": "n-s---fg-",
+    "sentence": "δόξα ἀνδρὶ ἀποστρέφεσθαι λοιδορίας, πᾶς δὲ ἄφρων τοιούτοις συμπλέκεται."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "17.7",
+    "form": "λοιδορίαν",
+    "postag": "n-s---fa-",
+    "sentence": "καὶ ἐπωνόμασε τὸ ὄνομα τοῦ τόπου ἐκείνου Πειρασμὸς καὶ Λοιδόρησις, διὰ τὴν λοιδορίαν τῶν υἱῶν Ἰσραὴλ καὶ διὰ τὸ πειράζειν Κύριον λέγοντας ·"
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "20.24",
+    "form": "λοιδορίας",
+    "postag": "n-s---fg-",
+    "sentence": "προστεθήτω Ἀαρὼν πρὸς τὸν λαὸν αὐτοῦ, ὅτι οὐ μὴ εἰσέλθητε εἰς τὴν γῆν, ἣν δέδωκα τοῖς υἱοῖς Ἰσραήλ, διότι παρωξύνατέ με ἐπὶ τοῦ ὕδατος τῆς λοιδορίας."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "22.24",
+    "form": "λοιδορίαι",
+    "postag": "n-p---fn-",
+    "sentence": "οὕτως πρὸ αἱμάτων λοιδορίαι."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "10.18",
+    "form": "λοιδορίας",
+    "postag": "n-p---fa-",
+    "sentence": "καλύπτουσιν ἔχθραν χείλη δίκαια, οἱ δὲ ἐκφέροντες λοιδορίας ἀφρονέστατοί εἰσιν."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "27.21",
+    "form": "λοιδορίας",
+    "postag": "n-s---fg-",
+    "sentence": "ὅτι τραῦμά ἐστι καταδῆσαι καὶ λοιδορίας ἐστὶ διαλλαγή, ὁ δὲ ἀποκαλύψας μυστήρια ἀπήλπισεν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "Polycarp, To the Philippians": 2
+  },
+  "representatives": [
+   {
+    "work_code": "PPH",
+    "work_ja": "ポリュカルポスのピリピ書簡",
+    "work_src": "Polycarp, To the Philippians",
+    "ref": "2.2",
+    "form": "λοιδορίαν",
+    "postag": "n-s---fa-",
+    "sentence": "μὴ ἀποδιδόντες κακὸν ἀντὶ κακοῦ ἢ λοιδορίαν ἀντὶ λοιδορίας ἢ γρόνθον ἀντὶ γρόνθον ἢ κατάραν ἀντὶ κατάρας ·"
+   },
+   {
+    "work_code": "PPH",
+    "work_ja": "ポリュカルポスのピリピ書簡",
+    "work_src": "Polycarp, To the Philippians",
+    "ref": "2.2",
+    "form": "λοιδορίας",
+    "postag": "n-s---fg-",
+    "sentence": "μὴ ἀποδιδόντες κακὸν ἀντὶ κακοῦ ἢ λοιδορίαν ἀντὶ λοιδορίας ἢ γρόνθον ἀντὶ γρόνθον ἢ κατάραν ἀντὶ κατάρας ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3   λοιδορία, -ας, ἡ    (< λοιδορέω),   [in LXX chiefly for רִיב, מְרִיבָה;]    abuse, railing: I Ti 5:14, I Pe 3:9.†"
+}

@@ -1,0 +1,57 @@
+{
+ "strong": "G3876",
+ "lemma": "παρακοή",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2CO 10:6",
+   "form": "παρακοήν",
+   "morph": "N-ASF",
+   "gloss_en": "disobedience",
+   "gloss_ja": "不従順",
+   "verse": "καὶ ἐν ἑτοίμῳ ἔχοντες ἐκδικῆσαι πᾶσαν παρακοήν, ὅταν πληρωθῇ ὑμῶν ἡ ὑπακοή."
+  },
+  {
+   "ref": "HEB 2:2",
+   "form": "παρακοὴ",
+   "morph": "N-NSF",
+   "gloss_en": "disobedience",
+   "gloss_ja": "不従順",
+   "verse": "εἰ γὰρ ὁ δι’ ἀγγέλων λαληθεὶς λόγος ἐγένετο βέβαιος, καὶ πᾶσα παράβασις καὶ παρακοὴ ἔλαβεν ἔνδικον μισθαποδοσίαν,"
+  },
+  {
+   "ref": "ROM 5:19",
+   "form": "παρακοῆς",
+   "morph": "N-GSF",
+   "gloss_en": "disobedience",
+   "gloss_ja": "不従順",
+   "verse": "ὥσπερ γὰρ διὰ τῆς παρακοῆς τοῦ ἑνὸς ἀνθρώπου ἁμαρτωλοὶ κατεστάθησαν οἱ πολλοί, οὕτως καὶ διὰ τῆς ὑπακοῆς τοῦ ἑνὸς δίκαιοι κατασταθήσονται οἱ πολλοί."
+  }
+ ],
+ "lxx": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "To Diognetus": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "12",
+    "form": "παρακοὴ",
+    "postag": "n-s---fn-",
+    "sentence": "ἀλλ’ οὐ τὸ τῆς γνώσεως ἀναιρεῖ, ἀλλ’ ἡ παρακοὴ ἀναιρεῖ."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3   * παρ-ακοή, -ῆς, ἡ,     a hearing amiss (Plat.).     Later, as following inattention, disobedience: Ro 5:19, II Co 10:6, He 2:2 (cf. παρακούω, and v. Tr., Syn., § lxvi).†"
+}

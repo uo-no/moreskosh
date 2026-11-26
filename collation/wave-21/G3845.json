@@ -1,0 +1,210 @@
+{
+ "strong": "G3845",
+ "lemma": "παραβαίνω",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 1:25",
+   "form": "παρέβη",
+   "morph": "V-2AAI-3S",
+   "gloss_en": "turned aside",
+   "gloss_ja": "犯す",
+   "verse": "λαβεῖν τὸν τόπον τῆς διακονίας ταύτης καὶ ἀποστολῆς, ἀφ’ ἧς παρέβη Ἰούδας πορευθῆναι εἰς τὸν τόπον τὸν ἴδιον."
+  },
+  {
+   "ref": "MAT 15:2",
+   "form": "παραβαίνουσιν",
+   "morph": "V-PAI-3P",
+   "gloss_en": "break",
+   "gloss_ja": "犯す",
+   "verse": "Διὰ τί οἱ μαθηταί σου παραβαίνουσιν τὴν παράδοσιν τῶν πρεσβυτέρων; οὐ γὰρ νίπτονται τὰς χεῖρας αὐτῶν ὅταν ἄρτον ἐσθίωσιν."
+  },
+  {
+   "ref": "MAT 15:3",
+   "form": "παραβαίνετε",
+   "morph": "V-PAI-2P",
+   "gloss_en": "break",
+   "gloss_ja": "犯す",
+   "verse": "ὁ δὲ ἀποκριθεὶς εἶπεν αὐτοῖς· Διὰ τί καὶ ὑμεῖς παραβαίνετε τὴν ἐντολὴν τοῦ θεοῦ διὰ τὴν παράδοσιν ὑμῶν;"
+  }
+ ],
+ "lxx": {
+  "total": 67,
+  "works": {
+   "Exodus": 1,
+   "Leviticus": 1,
+   "Numeri": 8,
+   "Deuteronomium": 6,
+   "Josue": 4,
+   "Regnorum i": 2,
+   "Regnorum iv": 1,
+   "Esdras i": 7,
+   "Judith": 2,
+   "Tobias": 3,
+   "Machabaeorum i": 1,
+   "Machabaeorum ii": 1,
+   "Machabaeorum iii": 3,
+   "Machabaeorum iv": 3,
+   "Psalmi": 1,
+   "Job": 1,
+   "Ecclesiasticus sive Siracides": 9,
+   "Psalmi Salomonis": 1,
+   "Osee": 2,
+   "Isaias": 1,
+   "Jeremias": 1,
+   "Ezechiel": 6,
+   "Daniel": 2
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "38.19",
+    "form": "παραβαίνει",
+    "postag": "v3spia---",
+    "sentence": "ἐν ἐπαγωγῇ παραβαίνει καὶ λύπη, καὶ βίος πτωχοῦ κατὰ καρδίας."
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "14.41",
+    "form": "παραβαίνετε",
+    "postag": "v2ppia---",
+    "sentence": "ἱνατί ὑμεῖς παραβαίνετε τὸ ρῆμα Κυρίου;"
+   },
+   {
+    "work_code": "1ES",
+    "work_ja": "エズラ記（ギリシャ語）",
+    "work_src": "Esdras i",
+    "ref": "1.46",
+    "form": "παρέβη",
+    "postag": "v3saia---",
+    "sentence": "καὶ σκληρύνας αὐτοῦ τὸν τράχηλον καὶ τὴν καρδίαν αὐτοῦ παρέβη τὰ νόμιμα Κυρίου Θεοῦ Ἰσραήλ."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "9.12",
+    "form": "παρέβησαν",
+    "postag": "v3paia---",
+    "sentence": "παρέβησαν ταχὺ ἐκ τῆς ὁδοῦ, ἧς ἐνετείλω αὐτοῖς ·"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "17.15",
+    "form": "παραβαίνων",
+    "postag": "v-sppamn-",
+    "sentence": "καὶ παραβαίνων διαθήκην εἰ διασωθήσεται;"
+   },
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "23.16",
+    "form": "παραβῆναι",
+    "postag": "v--ana---",
+    "sentence": "καὶ ἔσται ὃν τρόπον ἥκει πρὸς ἡμᾶς πάντα τὰ ρήματα τὰ καλά, ἃ ἐλάλησε Κύριος ἐφ’ ὑμᾶς, οὕτως ἐπάξει Κύριος ὁ Θεὸς ἐφ’ ὑμᾶς πάντα τὰ ρήματα τὰ πονηρὰ ἕως ἂν ἐξολοθρεύσῃ ὑμᾶς ἀπὸ τῆς γῆς τῆς ἀγαθῆς ταύτης, ἧς ἔδωκε Κύριος ὑμῖν, ἐν τῷ παραβῆναι ὑμᾶς τὴν διαθήκην Κυρίου τοῦ Θεοῦ ἡμῶν, ἣν ἐνετείλατο ἡμῖν, καὶ πορευθέντες λατρεύσητε θεοῖς ἑτέροις καὶ προσκυνήσητε αὐτοῖς."
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "9.34",
+    "form": "παραβῆναι",
+    "postag": "v--ana---",
+    "sentence": "καὶ θεωρεῖς τί ὤμοσεν Ῥαγουηλ, καὶ οὐ δύναμαι παραβῆναι τὸν ὅρκον αὐτοῦ."
+   },
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "7.12",
+    "form": "παραβεβηκότας",
+    "postag": "v-prpama-",
+    "sentence": "ὁ δὲ τα-τἀληθὲς αὐτοὺς λέγειν παραδεξάμενος καὶ συναινέσας ἔδωκεν αὐτοῖς ἄδειαν πάντων, ὅπως τοὺς παραβεβηκότας τοῦ Θεοῦ τὸν νόμον ἐξολοθρεύσωσι κατὰ πάντα τὸν ὑπὸ τὴν βασιλείαν αὐτοῦ τόπον μετὰ παρρησίας ἄνευ πάσης βασιλικῆς ἐξουσίας καὶ ἐπισκέψεως."
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "9.1",
+    "form": "παραβαίνειν",
+    "postag": "v--pna---",
+    "sentence": "ἕτοιμοι γάρ ἐσμεν ἀποθνήσκειν ἢ παραβαίνειν τὰς πατρίους ἡμῶν ἐντολάς ·"
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "15.24",
+    "form": "παρέβην",
+    "postag": "v1saia---",
+    "sentence": "ἡμάρτηκα ὅτι παρέβην τὸν λόγον Κυρίου καὶ τὸ ρῆμά σου, ὅτι ἐφοβήθην τὸν λαὸν καὶ ἤκουσα τῆς φωνῆς αὐτῶν ·"
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "8.30",
+    "form": "παραβησόμεθα",
+    "postag": "v1pfim---",
+    "sentence": "ἀλλ’ ὁ λαὸς ἐδίψησε σφόδρα καὶ ἠνάγκασαν ποιῆσαι ἡμᾶς καθὰ ἐλαλήσαμεν αὐτοῖς καὶ ἐπαγαγεῖν ὅρκον ἐφ’ ἡμᾶς, ὃν οὐ παραβησόμεθα."
+   },
+   {
+    "work_code": "HOS",
+    "work_ja": "ホセア書",
+    "work_src": "Osee",
+    "ref": "6.7",
+    "form": "παραβαίνων",
+    "postag": "v-sppamn-",
+    "sentence": "αὐτοὶ δέ εἰσιν ὡς ἄνθρωπος παραβαίνων διαθήκην ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 3,
+  "works": {
+   "Barnabas": 1,
+   "1 Clement": 1,
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "9.4",
+    "form": "παρέβησαν",
+    "postag": "v3paia---",
+    "sentence": "ἀλλὰ παρέβησαν, ὅτι ἄγγελος πονηρὸς ἐσόφιζεν αὐτούς."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "53.2",
+    "form": "παρέβησαν",
+    "postag": "v3paia---",
+    "sentence": "παρέβησαν ταχὺ ἐκ τῆς ὁδοῦ ἧς ἐνετείλω αὐτοῖς, ἐποίησαν ἑαυτοῖς χωνεύματα."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "25.3.5",
+    "form": "παρέβησαν",
+    "postag": "v3paia---",
+    "sentence": "ὅσοι, φησί, παρέβησαν τὸν νόμον, ὃν ἔλαβον παρ’ αὐτοῦ, εἰς τὴν ἐμὴν ἐξουσίαν κατέλιπεν αὐτοὺς εἰς μετάνοιαν ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3   παρα-βαίνω,    [in LXX for סוּר, עבר, פּרר hi., שׂטה, etc.;]      in Hom. (twice), to go by the side of, stand beside.     In Æsch., Herod., Thuc., al., to go past or pass over, chiefly metaph., to overstep, violate, transgress (Jos 7:11, Ez 16:59, Si 40:14, al.): τ. παράδοσιν, Mt 15:2; τ. ἐντολήν, Mt 15:3; seq. ἀπό (as סוּר מִן, De 17:20, al.), to turn aside, fall away (cf. π. τῆς ἀληθείας, Arist., Cael., i, 5, 2): Ac 1:25.†"
+}

@@ -1,0 +1,175 @@
+{
+ "strong": "G3722",
+ "lemma": "ὄρθρος",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 5:21",
+   "form": "ὄρθρον",
+   "morph": "N-ASM",
+   "gloss_en": "daybreak",
+   "gloss_ja": "夜明け",
+   "verse": "ἀκούσαντες δὲ εἰσῆλθον ὑπὸ τὸν ὄρθρον εἰς τὸ ἱερὸν καὶ ἐδίδασκον. Παραγενόμενος δὲ ὁ ἀρχιερεὺς καὶ οἱ σὺν αὐτῷ συνεκάλεσαν τὸ συνέδριον καὶ πᾶσαν τὴν γερουσίαν τῶν υἱῶν Ἰσραήλ, καὶ ἀπέστειλαν εἰς τὸ δεσμωτήριον ἀχθῆναι αὐτούς."
+  },
+  {
+   "ref": "JHN 8:2",
+   "form": "Ὄρθρου",
+   "morph": "N-GSM",
+   "gloss_en": "early in the morning",
+   "gloss_ja": "夜明け",
+   "verse": "Ὄρθρου δὲ πάλιν παρεγένετο εἰς τὸ ἱερόν, καὶ πᾶς ὁ λαὸς ἤρχετο καὶ καθίσας ἐδίδασκεν αὐτούς."
+  },
+  {
+   "ref": "LUK 24:1",
+   "form": "ὄρθρου",
+   "morph": "N-GSM",
+   "gloss_en": "very early in the morning",
+   "gloss_ja": "夜明け",
+   "verse": "τῇ δὲ μιᾷ τῶν σαββάτων ὄρθρου βαθέως ἐπὶ τὸ μνῆμα ἦλθον φέρουσαι ἃ ἡτοίμασαν ἀρώματα."
+  }
+ ],
+ "lxx": {
+  "total": 35,
+  "works": {
+   "Genesis": 2,
+   "Exodus": 1,
+   "Josue": 1,
+   "Judices": 2,
+   "Regnorum i": 1,
+   "Esdras i": 1,
+   "Esdras ii": 1,
+   "Esther": 1,
+   "Judith": 2,
+   "Tobias": 1,
+   "Machabaeorum iii": 1,
+   "Psalmi": 5,
+   "Proverbia": 2,
+   "Canticum": 1,
+   "Ecclesiasticus sive Siracides": 1,
+   "Osee": 2,
+   "Amos": 1,
+   "Joel": 1,
+   "Jeremias": 6,
+   "Susanna": 2
+  },
+  "representatives": [
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "42.14",
+    "form": "ὄρθρου",
+    "postag": "d--------",
+    "sentence": "καὶ ἐγὼ ἐλάλησα πρὸς ὑμᾶς ὄρθρου, καὶ οὐκ ἠκούσατε."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "118.148",
+    "form": "ὄρθρον",
+    "postag": "n-s---ma-",
+    "sentence": "προέφθασαν οἱ ὀφθαλμοί μου πρὸς ὄρθρον τοῦ μελετᾶν τὰ λόγιά σου."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "19.15",
+    "form": "ὄρθρος",
+    "postag": "n-s---mn-",
+    "sentence": "ἡνίκα δὲ ὄρθρος ἐγίνετο, ἐπεσπούδαζον οἱ ἄγγελοι τὸν Λὼτ λέγοντες ·"
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "16.2",
+    "form": "ὄρθρος",
+    "postag": "n-s---mn-",
+    "sentence": "ἕως διαφαύσῃ ὁ ὄρθρος, καὶ φονεύσωμεν αὐτόν."
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "14.11",
+    "form": "ὄρθρος",
+    "postag": "n-s---mn-",
+    "sentence": "ἡνίκα δὲ ὁ ὄρθρος ἀνέβη, καὶ ἐκρέμασαν τὴν κεφαλὴν Ὀλοφέρνου ἐκ τοῦ τείχους, καὶ ἀνέλαβε πᾶς ἀνὴρ Ἰσραὴλ τὰ ὅπλα αὐτοῦ καὶ ἐξήλθοσαν κατὰ σπείρας ἐπὶ τὰς ἀναβάσεις τοῦ ὄρους."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "23.35",
+    "form": "ὄρθρος",
+    "postag": "n-s---mn-",
+    "sentence": "πότε ὄρθρος ἔσται, ἵνα ἐλθὼν ζητήσω μεθ’ ὧν συνελεύσομαι;"
+   },
+   {
+    "work_code": "HOS",
+    "work_ja": "ホセア書",
+    "work_src": "Osee",
+    "ref": "11.1",
+    "form": "ὄρθρου",
+    "postag": "n-s---mg-",
+    "sentence": "ὄρθρου ἀπερρίφησαν, ἀπερρίφη βασιλεὺς Ἰσραήλ ·"
+   },
+   {
+    "work_code": "SUS",
+    "work_ja": "スザンナ（Th）",
+    "work_src": "Susanna",
+    "ref": "12",
+    "form": "ὄρθρος",
+    "postag": "n-s---mn-",
+    "sentence": "καὶ ὡς ἐγίνετο ὄρθρος, ἐρχόμενοι ἔκλεπτον ἀλλήλους σπεύδοντες, τίς φανήσεται αὐτῇ πρότερος καὶ λαλήσει πρὸς αὐτήν."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "19.16",
+    "form": "ὄρθρον",
+    "postag": "n-s---ma-",
+    "sentence": "ἐγένετο δὲ τῇ ἡμέρᾳ τῇ τρίτῃ γενηθέντος πρὸς ὄρθρον καὶ ἐγίνοντο φωναὶ καὶ ἀστραπαὶ καὶ νεφέλη γνοφώδης ἐπ’ ὄρους Σινά, φωνὴ τῆς σάλπιγγος ἤχει μέγα ·"
+   },
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "6.15",
+    "form": "ὄρθρου",
+    "postag": "n-s---mg-",
+    "sentence": "καὶ τῇ ἡμέρᾳ τῇ ἑβδόμῃ ἀνέστησαν ὄρθρου καὶ περιήλθοσαν τὴν πόλιν ἐν τῇ ἡμέρᾳ ἐκείνῃ ἑπτάκις ·"
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "9.26",
+    "form": "ὄρθρος",
+    "postag": "n-s---mn-",
+    "sentence": "καὶ ἐγένετο ὡς ἀνέβαινεν ὁ ὄρθρος, καὶ ἐκάλεσε Σαμουὴλ τὸν Σαοὺλ ἐπὶ τῷ δώματι λέγων ·"
+   },
+   {
+    "work_code": "1ES",
+    "work_ja": "エズラ記（ギリシャ語）",
+    "work_src": "Esdras i",
+    "ref": "9.41",
+    "form": "ὄρθρου",
+    "postag": "n-s---mg-",
+    "sentence": "καὶ ἀνεγίνωσκεν ἐν τῷ πρὸ τοῦ ἱεροῦ πυλῶνος εὐρυχώρῳ, ἐξ ὄρθρου ἕως μέσης ἡμέρας, ἐνώπιον ἀνδρῶν τε καὶ γυναικῶν, καὶ ἀπέδωκαν πᾶν τὸ πλῆθος τὸν νοῦν εἰς τὸν νόμον."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "3   ὄρθρος, -ου, ὁ,    [in LXX for שַׁחַר, בֹּקֶר, etc.;]    daybreak, dawn: ὄρθρου βαθέως (M, Pr., 73), at early dawn, Lk 24:1; ὄρθρου, Jo 8:[2]; ὑπὸ τὸν ὄ., Ac 5:21 (cf. MM, xviii).†"
+}

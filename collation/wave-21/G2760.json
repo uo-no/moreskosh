@@ -1,0 +1,57 @@
+{
+ "strong": "G2760",
+ "lemma": "κεντυρίων",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MRK 15:39",
+   "form": "κεντυρίων",
+   "morph": "N-NSM",
+   "gloss_en": "centurion",
+   "gloss_ja": "百人隊長",
+   "verse": "ἰδὼν δὲ ὁ κεντυρίων ὁ παρεστηκὼς ἐξ ἐναντίας αὐτοῦ ὅτι οὕτως ἐξέπνευσεν εἶπεν· Ἀληθῶς οὗτος ὁ ἄνθρωπος υἱὸς θεοῦ ἦν."
+  },
+  {
+   "ref": "MRK 15:44",
+   "form": "κεντυρίωνα",
+   "morph": "N-ASM",
+   "gloss_en": "centurion",
+   "gloss_ja": "百人隊長",
+   "verse": "ὁ δὲ Πιλᾶτος ἐθαύμασεν εἰ ἤδη τέθνηκεν, καὶ προσκαλεσάμενος τὸν κεντυρίωνα ἐπηρώτησεν αὐτὸν εἰ πάλαι ἀπέθανεν·"
+  },
+  {
+   "ref": "MRK 15:45",
+   "form": "κεντυρίωνος",
+   "morph": "N-GSM",
+   "gloss_en": "centurion",
+   "gloss_ja": "百人隊長",
+   "verse": "καὶ γνοὺς ἀπὸ τοῦ κεντυρίωνος ἐδωρήσατο τὸ πτῶμα τῷ Ἰωσήφ."
+  }
+ ],
+ "lxx": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Martyrdom of Polycarp": 1
+  },
+  "representatives": [
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "18.1",
+    "form": "κεντυρίων",
+    "postag": "n-s---mn-",
+    "sentence": "ἰδὼν οὖν ὁ κεντυρίων τὴν τῶν Ἰουδαίων γενομένην φιλονεικίαν, θεὶς αὐτὸν ἐν μέσῳ, ὡς ἔθος αὐτοῖς, ἔκαυσεν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3   *† κεντυρίων, -ωνος, ὁ (Lat. centurio);   a centurion: Mk 15:39, 44, 45 (Mt, Lk, use ἑκατόνταρχος (-ης), q.v.).†"
+}

@@ -1,0 +1,189 @@
+{
+ "strong": "G2606",
+ "lemma": "καταγελάω",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 8:53",
+   "form": "κατεγέλων",
+   "morph": "V-IAI-3P",
+   "gloss_en": "laughed at",
+   "gloss_ja": "嘲る",
+   "verse": "καὶ κατεγέλων αὐτοῦ, εἰδότες ὅτι ἀπέθανεν."
+  },
+  {
+   "ref": "MAT 9:24",
+   "form": "κατεγέλων",
+   "morph": "V-IAI-3P",
+   "gloss_en": "laughed at",
+   "gloss_ja": "嘲る",
+   "verse": "ἔλεγεν· Ἀναχωρεῖτε, οὐ γὰρ ἀπέθανεν τὸ κοράσιον ἀλλὰ καθεύδει· καὶ κατεγέλων αὐτοῦ."
+  },
+  {
+   "ref": "MRK 5:40",
+   "form": "κατεγέλων",
+   "morph": "V-IAI-3P",
+   "gloss_en": "laughed at",
+   "gloss_ja": "嘲る",
+   "verse": "καὶ κατεγέλων αὐτοῦ. αὐτὸς δὲ ἐκβαλὼν πάντας παραλαμβάνει τὸν πατέρα τοῦ παιδίου καὶ τὴν μητέρα καὶ τοὺς μετ’ αὐτοῦ, καὶ εἰσπορεύεται ὅπου ἦν τὸ παιδίον·"
+  }
+ ],
+ "lxx": {
+  "total": 22,
+  "works": {
+   "Genesis": 1,
+   "Paralipomenon ii sive Chronicon ii": 1,
+   "Esther": 1,
+   "Judith": 1,
+   "Tobias": 1,
+   "Machabaeorum i": 1,
+   "Machabaeorum iv": 1,
+   "Psalmi": 1,
+   "Proverbia": 3,
+   "Job": 8,
+   "Ecclesiasticus sive Siracides": 2,
+   "Michaeas": 1
+  },
+  "representatives": [
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "21.3",
+    "form": "καταγελάσετέ",
+    "postag": "v2pfia---",
+    "sentence": "ἄρατέ με, ἐγὼ δὲ λαλήσω, εἶτ’ οὐ καταγελάσετέ μου."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "29.9",
+    "form": "καταγελᾶται",
+    "postag": "v3spim---",
+    "sentence": "ἀνὴρ σοφὸς κρινεῖ ἔθνη, ἀνὴρ δὲ φαῦλος ὀργιζόμενος καταγελᾶται καὶ οὐ καταπτήσσει."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "20.17",
+    "form": "καταγελάσονται",
+    "postag": "v3pfim---",
+    "sentence": "ποσάκις καὶ ὅσοι καταγελάσονται αὐτοῦ;"
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "38.23",
+    "form": "καταγελασθῶμεν",
+    "postag": "v1pasp---",
+    "sentence": "ἐχέτω αὐτά, ἀλλὰ μή ποτε καταγελασθῶμεν ·"
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "30.10",
+    "form": "καταγελῶντες",
+    "postag": "v-pppamn-",
+    "sentence": "καὶ ἦσαν οἱ τρέχοντες διαπορευόμενοι πόλιν ἐκ πόλεως ἐν τῷ ὄρει Ἐφραὶμ καὶ Μανασσῆ καὶ ἕως Ζαβουλών, καὶ ἐγένοντο ὡς καταγελῶντες αὐτῶν καὶ καταμωκώμενοι ·"
+   },
+   {
+    "work_code": "EST",
+    "work_ja": "エステル記",
+    "work_src": "Esther",
+    "ref": "4.17π",
+    "form": "καταγελασάτωσαν",
+    "postag": "v3pama---",
+    "sentence": "μὴ παραδῷς, Κύριε, τὸ σκῆπτρόν σου τοῖς μὴ οὖσι, καὶ μὴ καταγελασάτωσαν ἐν τῇ πτώσει ἡμῶν, ἀλλὰ στρέψον τὴν βουλὴν αὐτῶν ἐπ’ αὐτούς, τὸν δὲ ἀρξάμενον ἐφ’ ἡμᾶς παραδειγμάτισον."
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "12.12",
+    "form": "καταγελάσεται",
+    "postag": "v3sfim---",
+    "sentence": "ἰδοὺ γὰρ αἰσχρὸν τῷ προσώπῳ ἡμῶν, εἰ γυναῖκα τοιαύτην παρήσομεν οὐχ ὁμιλήσαντες αὐτῇ, ὅτι ἐὰν ταύτην μὴ ἐπισπασώμεθα, καταγελάσεται ἡμῶν."
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "2.8",
+    "form": "κατεγέλων",
+    "postag": "v3piia---",
+    "sentence": "καὶ οἱ πλησίον μου κατεγέλων λέγοντες Οὐ φοβεῖται οὐκέτι ·"
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "7.34",
+    "form": "κατεγέλασεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἐμυκτήρισεν αὐτοὺς καὶ κατεγέλασεν αὐτῶν καὶ ἐμίανεν αὐτοὺς καὶ ἐλάλησεν ὑπερηφάνως ·"
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "6.20",
+    "form": "καταγελώμενοι",
+    "postag": "v-pppmmn-",
+    "sentence": "αἰσχρὸν δὲ εἰ ἐπιβιώσωμεν ὀλίγον χρόνον καὶ τοῦτον καταγελώμενοι πρὸς ἁπάντων ἐπὶ δειλίᾳ, καὶ ὑπὸ μὲν τοῦ τυράννου καταφρονηθῶμεν ὡς ἄνανδροι, τὸν δὲ θεῖον ἡμῶν νόμον μέχρι θανάτου μὴ προασπίσαιμεν."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "24.2",
+    "form": "καταγελασάτωσάν",
+    "postag": "v3pama---",
+    "sentence": "μὴ καταισχυνθείην, μη-δὲ καταγελασάτωσάν με οἱ ἐχθροί μου."
+   },
+   {
+    "work_code": "MIC",
+    "work_ja": "ミカ書",
+    "work_src": "Michaeas",
+    "ref": "3.7",
+    "form": "καταγελασθήσονται",
+    "postag": "v3pfip---",
+    "sentence": "καὶ καταισχυνθήσονται οἱ ὁρῶντες τὰ ἐνύπνια, καὶ καταγελασθήσονται οἱ μάντεις, καὶ καταλαλήσουσι κατ’ αὐτῶν πάντες αὐτοί, διότι οὐκ ἔσται ὁ ἐπακούων αὐτῶν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "1 Clement": 1,
+   "2 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "56.11",
+    "form": "καταγελάσῃ",
+    "postag": "v2sfim---",
+    "sentence": "ἀδίκων καὶ ἀνόμων καταγελάσῃ, ἀπὸ δὲ θηρίων ἀγρίων οὐ μὴ φοβηθῇς ·"
+   },
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "13.4",
+    "form": "καταγελῶσιν",
+    "postag": "v3ppia---",
+    "sentence": "ὅταν δὲ ἴδωσιν, ὅτι οὐ μόνον τοὺς μισοῦντας οὐκ ἀγαπῶμεν, ἀλλ’ ὅτι οὐ-δὲ τοὺς ἀγαπῶντας, καταγελῶσιν ἡμῶν, καὶ βλασφημεῖται τὸ ὄνομα."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3   κατα-γελάω, -ῶ,    [in LXX chiefly for שׁחק, Jb 5:22, Pr 29:9, al.;]    to deride, laugh scornfully at: c. gen. pers., Mt 9:24, Mk 5:40, Lk 8:53.†"
+}

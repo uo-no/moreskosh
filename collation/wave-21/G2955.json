@@ -1,0 +1,166 @@
+{
+ "strong": "G2955",
+ "lemma": "κύπτω",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JHN 8:6",
+   "form": "κύψας",
+   "morph": "V-AAP-NSM",
+   "gloss_en": "bent",
+   "gloss_ja": "かがむ",
+   "verse": "τοῦτο δὲ ἔλεγον πειράζοντες αὐτόν, ἵνα ἔχωσιν κατηγορεῖν αὐτοῦ. ὁ δὲ Ἰησοῦς κάτω κύψας τῷ δακτύλῳ ἔγραφεν εἰς τὴν γῆν. μὴ προσποιούμενος"
+  },
+  {
+   "ref": "JHN 8:8",
+   "form": "κύψας",
+   "morph": "V-AAP-NSM",
+   "gloss_en": "",
+   "gloss_ja": "かがむ",
+   "verse": "καὶ πάλιν κάτω κύψας ἔγραφεν εἰς τὴν γῆν."
+  },
+  {
+   "ref": "MRK 1:7",
+   "form": "κύψας",
+   "morph": "V-AAP-NSM",
+   "gloss_en": "stoop down",
+   "gloss_ja": "かがむ",
+   "verse": "καὶ ἐκήρυσσεν λέγων· Ἔρχεται ὁ ἰσχυρότερός μου ὀπίσω μου, οὗ οὐκ εἰμὶ ἱκανὸς κύψας λῦσαι τὸν ἱμάντα τῶν ὑποδημάτων αὐτοῦ·"
+  }
+ ],
+ "lxx": {
+  "total": 18,
+  "works": {
+   "Genesis": 1,
+   "Exodus": 3,
+   "Numeri": 1,
+   "Regnorum i": 2,
+   "Regnorum iii": 3,
+   "Paralipomenon ii sive Chronicon ii": 1,
+   "Esdras ii": 1,
+   "Judith": 1,
+   "Psalmi": 1,
+   "Isaias": 3,
+   "Baruch": 1
+  },
+  "representatives": [
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "4.31",
+    "form": "κύψας",
+    "postag": "v-sapamn-",
+    "sentence": "κύψας δὲ ὁ λαὸς προσεκύνησε."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "1.16",
+    "form": "ἔκυψε",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἔκυψε Βηρσαβεὲ καὶ προσεκύνησε τῷ βασιλεῖ ·"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "2.9",
+    "form": "ἔκυψεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἔκυψεν ἄνθρωπος, καὶ ἐταπεινώθη ἀνήρ, καὶ οὐ μὴ ἀνήσω αὐτούς."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "28.14",
+    "form": "ἔκυψεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἔγνω Σαούλ, ὅτι οὗτος Σαμουήλ, καὶ ἔκυψεν ἐπὶ πρόσωπον αὐτοῦ ἐπὶ τὴν γῆν καὶ προσεκύνησεν αὐτῷ."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "43.27",
+    "form": "κύψαντες",
+    "postag": "v-papamn-",
+    "sentence": "καὶ κύψαντες προσεκύνησαν αὐτῷ."
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "22.31",
+    "form": "κύψας",
+    "postag": "v-sapamn-",
+    "sentence": "ἀπεκάλυψε δὲ ὁ Θεὸς τοὺς ὀφθαλμοὺς Βαλαάμ, καὶ ὁρᾷ τὸν ἄγγελον Κυρίου ἀνθεστηκότα ἐν τῇ ὁδῷ καὶ τὴν μάχαιραν ἐσπασμένην ἐν τῇ χειρὶ αὐτοῦ καὶ κύψας προσεκύνησε τῷ προσώπῳ αὐτοῦ."
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "20.18",
+    "form": "κύψας",
+    "postag": "v-sapamn-",
+    "sentence": "καὶ κύψας Ἰωσαφὰτ ἐπὶ πρόσωπον αὐτοῦ καὶ πᾶς Ἰούδα καὶ οἱ κατοικοῦντες Ἱερουσαλὴμ ἔπεσαν ἔναντι Κυρίου προσκυνῆσαι Κυρίῳ."
+   },
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "18.6",
+    "form": "ἔκυψαν",
+    "postag": "v3paia---",
+    "sentence": "ἀμήν, ἐπάραντες τὰς χεῖρας αὐτῶν, καὶ ἔκυψαν καὶ προσεκύνησαν τῷ Κυρίῳ ἐπὶ πρόσωπον ἐπὶ τὴν γῆν."
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "13.17",
+    "form": "κύψαντες",
+    "postag": "v-papamn-",
+    "sentence": "καὶ ἐξέστη πᾶς ὁ λαὸς σφόδρα καὶ κύψαντες προσεκύνησαν τῷ Θεῷ καὶ εἶπαν ὁμοθυμαδόν ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "9.31",
+    "form": "κύψει",
+    "postag": "v3sfia---",
+    "sentence": "ἐν τῇ παγίδι αὐτοῦ ταπεινώσει αὐτόν, κύψει καὶ πεσεῖται ἐν τῷ αὐτὸν κατακυριεῦσαι τῶν πενήτων."
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルク書",
+    "work_src": "Baruch",
+    "ref": "2.18",
+    "form": "κύπτον",
+    "postag": "v-sppann-",
+    "sentence": "ἀλλὰ ἡ ψυχὴ ἡ λυπουμένη ἐπὶ τὸ μέγεθος, ὃ βαδίζει κύπτον καὶ ἀσθενοῦν καὶ οἱ ὀφθαλμοὶ οἱ ἐκλείποντες καὶ ἡ ψυχὴ ἡ πεινῶσα δώσουσί σοι δόξαν καὶ δικαιοσύνην, Κύριε."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "12.27",
+    "form": "κύψας",
+    "postag": "v-sapamn-",
+    "sentence": "καὶ κύψας ὁ λαὸς προσεκύνησε."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "3   κύπτω,    [in LXX chiefly for קדד;]      to bow the head, stoop down: Mk 1:7; seq. κάτω, Jo 8:[6, 8] (cf. ἀνα-, παρα-, συν-κύπτω).†"
+}

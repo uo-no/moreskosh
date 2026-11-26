@@ -1,0 +1,96 @@
+{
+ "strong": "G4400",
+ "lemma": "προχειρίζομαι",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": "προχειριζω",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 22:14",
+   "form": "προεχειρίσατό",
+   "morph": "V-ADI-3S",
+   "gloss_en": "appointed",
+   "gloss_ja": "選ぶ",
+   "verse": "ὁ δὲ εἶπεν· Ὁ θεὸς τῶν πατέρων ἡμῶν προεχειρίσατό σε γνῶναι τὸ θέλημα αὐτοῦ καὶ ἰδεῖν τὸν δίκαιον καὶ ἀκοῦσαι φωνὴν ἐκ τοῦ στόματος αὐτοῦ,"
+  },
+  {
+   "ref": "ACT 26:16",
+   "form": "προχειρίσασθαί",
+   "morph": "V-ADN",
+   "gloss_en": "appoint",
+   "gloss_ja": "選ぶ",
+   "verse": "ἀλλὰ ἀνάστηθι καὶ στῆθι ἐπὶ τοὺς πόδας σου· εἰς τοῦτο γὰρ ὤφθην σοι, προχειρίσασθαί σε ὑπηρέτην καὶ μάρτυρα ὧν τε εἶδές με ὧν τε ὀφθήσομαί σοι,"
+  },
+  {
+   "ref": "ACT 3:20",
+   "form": "προκεχειρισμένον",
+   "morph": "V-RPP-ASM",
+   "gloss_en": "appointed",
+   "gloss_ja": "選ぶ",
+   "verse": "ὅπως ἂν ἔλθωσιν καιροὶ ἀναψύξεως ἀπὸ προσώπου τοῦ κυρίου καὶ ἀποστείλῃ τὸν προκεχειρισμένον ὑμῖν χριστὸν Ἰησοῦν,"
+  }
+ ],
+ "lxx": {
+  "total": 5,
+  "works": {
+   "Exodus": 1,
+   "Josue": 1,
+   "Machabaeorum ii": 2,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "3.7",
+    "form": "προχειρισάμενος",
+    "postag": "v-sapmmn-",
+    "sentence": "ὁ δὲ προχειρισάμενος Ἡλιόδωρον τὸν ἐπὶ τῶν πραγμάτων ἀπέστειλε δοὺς ἐντολὰς τὴν τῶν προειρημένων χρημάτων ἐκκομιδὴν ποιήσασθαι."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "4.13",
+    "form": "προχείρισαι",
+    "postag": "v2samm---",
+    "sentence": "δέομαι, Κύριε, προχείρισαι δυνάμενον ἄλλον, ὃν ἀποστελεῖς."
+   },
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "3.12",
+    "form": "προχειρίσασθε",
+    "postag": "v2pamm---",
+    "sentence": "προχειρίσασθε ὑμῖν δώδεκα ἄνδρας ἀπὸ τῶν υἱῶν Ἰσραήλ, ἕνα ἀφ’ ἑκάστης φυλῆς."
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "3.22",
+    "form": "προχειρισθέντες",
+    "postag": "v-pappmn-",
+    "sentence": "ἐπειδὴ τὸ πρόσταγμα τοῦ βασιλέως ἤπειγεν καὶ ἡ κάμινος ἐξεκαύθη ὑπὲρ τὸ πρότερον ἑπταπλασίως, καὶ οἱ ἄνδρες οἱ προχειρισθέντες συμποδίσαντες αὐτοὺς καὶ προσαγαγόντες τῇ καμίνῳ ἐνεβάλοσαν εἰς αὐτήν."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "8.9",
+    "form": "προχειρισάμενος",
+    "postag": "v-sapmmn-",
+    "sentence": "ὁ δὲ ταχέως προχειρισάμενος Νικάνορα τὸν τοῦ Πατρόκλου τῶν πρώτων φίλων ἀπέστειλεν ὑποτάξας παμφύλων ἔθνη οὐκ ἐλάττους τῶν δισμυρίων τὸ σύμπαν τῶν Ἰουδαίων ἐξᾶραι γένος ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "3 προ-χειρίζω    (< πρόχειρος, at hand),   [in LXX: Ex 4:13 (שׁלח), Jos 3:12 (לקח), Da LXX 3:22, II Mac 3:7 8:9 14:12 A*;]      to put into the hand, deliver up: pass., Ac 3:20.     More freq. as depon., -ομαι, to take into one's hand; hence, metaph., to propose, determine, choose: c. inf., Ac 22:14; c. acc. pers., Ac 26:16.†"
+}

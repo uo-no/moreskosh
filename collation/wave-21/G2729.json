@@ -1,0 +1,199 @@
+{
+ "strong": "G2729",
+ "lemma": "κατισχύω",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 21:36",
+   "form": "κατισχύσητε",
+   "morph": "V-PAS-2P",
+   "gloss_en": "have strength",
+   "gloss_ja": "勝る",
+   "verse": "ἀγρυπνεῖτε δὲ ἐν παντὶ καιρῷ δεόμενοι ἵνα κατισχύσητε ἐκφυγεῖν ταῦτα πάντα τὰ μέλλοντα γίνεσθαι, καὶ σταθῆναι ἔμπροσθεν τοῦ υἱοῦ τοῦ ἀνθρώπου."
+  },
+  {
+   "ref": "LUK 23:23",
+   "form": "κατίσχυον",
+   "morph": "V-IAI-3P",
+   "gloss_en": "prevailed",
+   "gloss_ja": "勝る",
+   "verse": "οἱ δὲ ἐπέκειντο φωναῖς μεγάλαις αἰτούμενοι αὐτὸν σταυρωθῆναι, καὶ κατίσχυον αἱ φωναὶ αὐτῶν."
+  },
+  {
+   "ref": "MAT 16:18",
+   "form": "κατισχύσουσιν",
+   "morph": "V-FAI-3P",
+   "gloss_en": "prevail against",
+   "gloss_ja": "勝る",
+   "verse": "κἀγὼ δέ σοι λέγω ὅτι σὺ εἶ Πέτρος, καὶ ἐπὶ ταύτῃ τῇ πέτρᾳ οἰκοδομήσω μου τὴν ἐκκλησίαν, καὶ πύλαι ᾅδου οὐ κατισχύσουσιν αὐτῆς·"
+  }
+ ],
+ "lxx": {
+  "total": 103,
+  "works": {
+   "Genesis": 1,
+   "Exodus": 5,
+   "Deuteronomium": 3,
+   "Josue": 3,
+   "Judices": 1,
+   "Regnorum i": 1,
+   "Regnorum iv": 3,
+   "Paralipomenon i sive Chronicon i": 6,
+   "Paralipomenon ii sive Chronicon ii": 31,
+   "Esdras i": 2,
+   "Judith": 1,
+   "Psalmi": 1,
+   "Job": 1,
+   "Sapientia Salomonis": 3,
+   "Ecclesiasticus sive Siracides": 1,
+   "Psalmi Salomonis": 1,
+   "Osee": 2,
+   "Aggaeus": 3,
+   "Zacharias": 4,
+   "Isaias": 6,
+   "Jeremias": 2,
+   "Ezechiel": 3,
+   "Daniel": 19
+  },
+  "representatives": [
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "8.3",
+    "form": "κατίσχυσεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἦλθε Σαλωμὼν εἰς Βαισωβὰ καὶ κατίσχυσεν αὐτήν."
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "11.5",
+    "form": "κατισχύσει",
+    "postag": "v3sfia---",
+    "sentence": "καὶ εἷς ἐκ τῶν δυναστῶν κατισχύσει αὐτὸν καὶ δυναστεύσει ·"
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "21.6",
+    "form": "κατίσχυσε",
+    "postag": "v3saia---",
+    "sentence": "καὶ τὸν Λευὶ καὶ τὸν Βενιαμὶν οὐκ ἠρίθμησεν ἐν μέσῳ αὐτῶν, ὅτι κατίσχυσε λόγος τοῦ βασιλέως τὸν Ἰωάβ."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "50.11",
+    "form": "κατισχύετε",
+    "postag": "v2ppia---",
+    "sentence": "ἰδοὺ πάντες ὑμεῖς πῦρ καίετε καὶ κατισχύετε φλόγα ·"
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "17.11",
+    "form": "κατίσχυεν",
+    "postag": "v3siia---",
+    "sentence": "ὅταν δὲ καθῆκε τὰς χεῖρας, κατίσχυεν Ἀμαλήκ."
+   },
+   {
+    "work_code": "ZEC",
+    "work_ja": "ゼカリヤ書",
+    "work_src": "Zacharias",
+    "ref": "10.12",
+    "form": "κατισχύσω",
+    "postag": "v1sfia---",
+    "sentence": "καὶ κατισχύσω αὐτοὺς ἐν Κυρίῳ Θεῷ αὐτῶν, καὶ ἐν τῷ ὀνόματι αὐτοῦ κατακαυχήσονται, λέγει Κύριος."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "1.38",
+    "form": "κατίσχυσον",
+    "postag": "v2sama---",
+    "sentence": "αὐτὸν κατίσχυσον, ὅτι αὐτὸς κατακληρονομήσει αὐτὴν τῷ Ἰσραήλ."
+   },
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "17.13",
+    "form": "κατίσχυσαν",
+    "postag": "v3paia---",
+    "sentence": "καὶ ἐγενήθη καὶ ἐπεὶ κατίσχυσαν οἱ υἱοὶ Ἰσραήλ, καὶ ἐποίησαν τοὺς Χαναναίους ὑπηκόους, ἐξολοθρεῦσαι δὲ αὐτοὺς οὐκ ἐξωλόθρευσαν."
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "22.5",
+    "form": "κατισχῦσαι",
+    "postag": "v--ana---",
+    "sentence": "καὶ ἔδωκεν αὐτὸ τοῖς ποιοῦσι τὰ ἔργα τοῖς ἐν οἴκῳ Κυρίου τοῦ κατισχῦσαι τὸ βεδὲκ τοῦ οἴκου, τοῖς τέκτοσι καὶ τοῖς οἰκοδόμοις καὶ τοῖς τειχισταῖς καὶ τοῦ κτήσασθαι ξύλα καὶ λίθους λατομητούς, τοῦ κραταιῶσαι τὸ βεδὲκ τοῦ οἴκου."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "7.30",
+    "form": "κατισχύει",
+    "postag": "v3spia---",
+    "sentence": "τοῦτο μὲν γὰρ διαδέχεται νύξ, σοφίας δὲ οὐ κατισχύει κακία."
+   },
+   {
+    "work_code": "HAG",
+    "work_ja": "ハガイ書",
+    "work_src": "Aggaeus",
+    "ref": "2.4",
+    "form": "κατίσχυε",
+    "postag": "v2spma---",
+    "sentence": "καὶ νῦν κατίσχυε, Ζοροβάβελ, λέγει Κύριος, καὶ κατίσχυε, Ἰησοῦ ὁ τοῦ Ἰωσεδὲκ ὁ ἱερεὺς ὁ μέγας, καὶ κατισχυέτω πᾶς ὁ λαὸς τῆς γῆς, λέγει Κύριος, καὶ ποιεῖτε ·"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "3.8",
+    "form": "κατισχύσω",
+    "postag": "v1sfia---",
+    "sentence": "καὶ ἰδοὺ δέδωκα τὸ πρόσωπόν σου δυνατὸν κατέναντι τῶν προσώπων αὐτῶν καὶ τὸ νῖκός σου κατισχύσω κατέναντι τοῦ νίκους αὐτῶν, καὶ ἔσται διαπαντὸς κραταιότερον πέτρας."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "Hermas, Pastor": 2
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "2.3.2",
+    "form": "κατισχύσουσιν",
+    "postag": "v3pfia---",
+    "sentence": "οὗτοι κατισχύσουσιν πάσης πονηρίας καὶ παραμενοῦσιν εἰς ζωὴν αἰώνιον."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "17.6.4",
+    "form": "κατισχύσομεν",
+    "postag": "v1pfia---",
+    "sentence": "καὶ οἶδα, ὅτι συγκόψεις τὴν δύναμιν τοῦ διαβόλου πᾶσαν καὶ ἡμεῖς αὐτοῦ κατακυριεύσομεν καὶ κατισχύσομεν πάντων τῶν ἔργων αὐτοῦ."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3   κατ-ισχύω    [in LXX chiefly for חזק;]    to overpower, prevail against, prevail: absol., Lk 23:23; c. inf., Lk 21:36; c. gen., Mt 16:18.†"
+}

@@ -1,0 +1,192 @@
+{
+ "strong": "G3736",
+ "lemma": "ὀρύσσω",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MAT 21:33",
+   "form": "ὤρυξεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "dug",
+   "gloss_ja": "掘る",
+   "verse": "Ἄλλην παραβολὴν ἀκούσατε. Ἄνθρωπος ἦν οἰκοδεσπότης ὅστις ἐφύτευσεν ἀμπελῶνα καὶ φραγμὸν αὐτῷ περιέθηκεν καὶ ὤρυξεν ἐν αὐτῷ ληνὸν καὶ ᾠκοδόμησεν πύργον, καὶ ἐξέδετο αὐτὸν γεωργοῖς, καὶ ἀπεδήμησεν."
+  },
+  {
+   "ref": "MAT 25:18",
+   "form": "ὤρυξεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "dug",
+   "gloss_ja": "掘る",
+   "verse": "ὁ δὲ τὸ ἓν λαβὼν ἀπελθὼν ὤρυξεν γῆν καὶ ἔκρυψεν τὸ ἀργύριον τοῦ κυρίου αὐτοῦ."
+  },
+  {
+   "ref": "MRK 12:1",
+   "form": "ὤρυξεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "dug",
+   "gloss_ja": "掘る",
+   "verse": "Καὶ ἤρξατο αὐτοῖς ἐν παραβολαῖς λαλεῖν· Ἀμπελῶνα ἄνθρωπος ἐφύτευσεν, καὶ περιέθηκεν φραγμὸν καὶ ὤρυξεν ὑπολήνιον καὶ ᾠκοδόμησεν πύργον, καὶ ἐξέδετο αὐτὸν γεωργοῖς, καὶ ἀπεδήμησεν."
+  }
+ ],
+ "lxx": {
+  "total": 37,
+  "works": {
+   "Genesis": 10,
+   "Exodus": 1,
+   "Numeri": 1,
+   "Deuteronomium": 1,
+   "Paralipomenon ii sive Chronicon ii": 1,
+   "Tobias": 5,
+   "Psalmi": 4,
+   "Odae": 1,
+   "Proverbia": 3,
+   "Ecclesiastes": 1,
+   "Ecclesiasticus sive Siracides": 2,
+   "Zacharias": 1,
+   "Isaias": 2,
+   "Jeremias": 2,
+   "Ezechiel": 2
+  },
+  "representatives": [
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "26.25",
+    "form": "ὤρυξαν",
+    "postag": "v3paia---",
+    "sentence": "ὤρυξαν δὲ ἐκεῖ οἱ παῖδες Ἰσαὰκ φρέαρ."
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "2.7",
+    "form": "ὀρύξας",
+    "postag": "v-sapamn-",
+    "sentence": "καὶ ὅτε ἔδυ ὁ ἥλιος, ᾠχόμην καὶ ὀρύξας ἔθαψα αὐτόν."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "7.16",
+    "form": "ὤρυξε",
+    "postag": "v3saia---",
+    "sentence": "λάκκον ὤρυξε καὶ ἀνέσκαψεν αὐτόν, καὶ ἐμπεσεῖται εἰς βόθρον, ὃν εἰργάσατο ·"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "29.22",
+    "form": "ὀρύσσει",
+    "postag": "v3spia---",
+    "sentence": "ἀνὴρ θυμώδης ὀρύσσει νεῖκος, ἀνὴρ δὲ ὀργίλος ἐξώρυξεν ἁμαρτίαν."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "27.26",
+    "form": "ὀρύσσων",
+    "postag": "v-sppamn-",
+    "sentence": "ὁ ὀρύσσων βόθρον εἰς αὐτὸν ἐμπεσεῖται, καὶ ὁ ἱστῶν παγίδα ἐν αὐτῇ ἁλώσεται."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "5.2",
+    "form": "ὤρυξα",
+    "postag": "v1saia---",
+    "sentence": "καὶ φραγμὸν περιέθηκα καὶ ἐχαράκωσα καὶ ἐφύτευσα ἄμπελον Σωρὴχ καὶ ὠκοδόμησα πύργον ἐν μέσῳ αὐτοῦ καὶ προλήνιον ὤρυξα ἐν αὐτῷ ·"
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "2.13",
+    "form": "ὤρυξαν",
+    "postag": "v3paia---",
+    "sentence": "ἐμὲ ἐγκατέλιπον πηγὴν ὕδατος ζωῆς, καὶ ὤρυξαν ἑαυτοῖς λάκκους συντετριμμένους, οἳ οὐ δυνήσονται ὕδωρ συνέχειν."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "8.8",
+    "form": "ὄρυξον",
+    "postag": "v2sama---",
+    "sentence": "υἱὲ ἀνθρώπου, ὄρυξον ·"
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "7.24",
+    "form": "ὤρυξαν",
+    "postag": "v3paia---",
+    "sentence": "ὤρυξαν δὲ πάντες οἱ Αἰγύπτιοι κύκλῳ τοῦ ποταμοῦ ὥστε πιεῖν ὕδωρ, καὶ οὐκ ἠδύναντο πιεῖν ὕδωρ ἀπὸ τοῦ ποταμοῦ."
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "21.18",
+    "form": "ὤρυξαν",
+    "postag": "v3paia---",
+    "sentence": "φρέαρ, ὤρυξαν αὐτὸ ἄρχοντες, ἐξελατόμησαν αὐτὸ βασιλεῖς ἐθνῶν ἐν τῇ βασιλείᾳ αὐτῶν, ἐν τῷ κυριεῦσαι αὐτῶν."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "23.14",
+    "form": "ὀρύξεις",
+    "postag": "v2sfia---",
+    "sentence": "καὶ πάσσαλος ἔσται σοι ἐπὶ τῆς ζώνης σου, καὶ ἔσται ὅταν διακαθιζάνῃς ἔξω, καὶ ὀρύξεις ἐν αὐτῷ καὶ ἐπαγαγὼν καλύψεις τὴν ἀσχημοσύνην σου ἐν αὐτῷ ·"
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "16.14",
+    "form": "ὤρυξεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἐκοιμήθη Ἀσὰ μετὰ τῶν πατέρων αὐτοῦ καὶ ἐτελεύτησεν ἐν τῷ τεσσαρακοστῷ ἔτει τῆς βασιλείας αὐτοῦ, καὶ ἔθαψαν αὐτὸν ἐν τῷ μνήματι, ᾧ ὤρυξεν ἑαυτῷ ἐν πόλει Δαυίδ, καὶ ἐκοίμησαν αὐτὸν ἐπὶ τῆς κλίνης καὶ ἔπλησαν ἀρωμάτων καὶ γένη μύρων μυρεψῶν καὶ ἐποίησαν αὐτῷ ἐκφορὰν μεγάλην ἕως σφόδρα."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "Barnabas": 1,
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "11.2",
+    "form": "ὤρυξαν",
+    "postag": "v3paia---",
+    "sentence": "ἐμὲ ἐγκατέλιπον, πηγὴν ζωῆς, καὶ ἑαυτοῖς ὤρυξαν βόθρον θανάτου."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.6.7",
+    "form": "ὠρύγη",
+    "postag": "v3saip---",
+    "sentence": "καὶ ὠρύγη τὸ πεδίον, καὶ εὑρέθησαν λίθοι λαμπροὶ τετράγωνοι, τινὲς δὲ καὶ στρογγύλοι."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3   ὀρύσσω,    [in LXX chiefly for חפר, also for כּרה, etc.;]    to dig: c. acc., ληνόν, Mt 21:33; ὑπολήνιον, Mk 12:1; γῆν, Mt 25:18 (cf. δι-, ἐξ-ορύσσω).†"
+}

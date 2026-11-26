@@ -1,0 +1,178 @@
+{
+ "strong": "G3726",
+ "lemma": "ὁρκίζω",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1TH 5:27",
+   "form": "ἐνορκίζω",
+   "morph": "V-PAI-1S",
+   "gloss_en": "charge",
+   "gloss_ja": "誓わせる",
+   "verse": "ἐνορκίζω ὑμᾶς τὸν κύριον ἀναγνωσθῆναι τὴν ἐπιστολὴν πᾶσιν τοῖς ἀδελφοῖς."
+  },
+  {
+   "ref": "ACT 19:13",
+   "form": "Ὁρκίζω",
+   "morph": "V-PAI-1S",
+   "gloss_en": "adjure",
+   "gloss_ja": "誓わせる",
+   "verse": "ἐπεχείρησαν δέ τινες καὶ τῶν περιερχομένων Ἰουδαίων ἐξορκιστῶν ὀνομάζειν ἐπὶ τοὺς ἔχοντας τὰ πνεύματα τὰ πονηρὰ τὸ ὄνομα τοῦ κυρίου Ἰησοῦ λέγοντες· Ὁρκίζω ὑμᾶς τὸν Ἰησοῦν ὃν Παῦλος κηρύσσει."
+  },
+  {
+   "ref": "MRK 5:7",
+   "form": "ὁρκίζω",
+   "morph": "V-PAI-1S",
+   "gloss_en": "implore",
+   "gloss_ja": "誓わせる",
+   "verse": "καὶ κράξας φωνῇ μεγάλῃ λέγει· Τί ἐμοὶ καὶ σοί, Ἰησοῦ υἱὲ τοῦ θεοῦ τοῦ ὑψίστου; ὁρκίζω σε τὸν θεόν, μή με βασανίσῃς."
+  }
+ ],
+ "lxx": {
+  "total": 28,
+  "works": {
+   "Genesis": 5,
+   "Exodus": 1,
+   "Numeri": 2,
+   "Josue": 1,
+   "Regnorum i": 3,
+   "Regnorum iii": 3,
+   "Paralipomenon ii sive Chronicon ii": 2,
+   "Esdras i": 2,
+   "Esdras ii": 3,
+   "Canticum": 5,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "50.5",
+    "form": "ὥρκισέ",
+    "postag": "v3saia---",
+    "sentence": "ὁ πατήρ μου ὥρκισέ με λέγων ·"
+   },
+   {
+    "work_code": "SNG",
+    "work_ja": "雅歌",
+    "work_src": "Canticum",
+    "ref": "5.9",
+    "form": "ὥρκισας",
+    "postag": "v2saia---",
+    "sentence": "τί ἀδελφιδός σου ἀπὸ ἀδελφιδοῦ, ὅτι οὕτως ὥρκισας ἡμᾶς;"
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "14.28",
+    "form": "ὁρκίσας",
+    "postag": "v-sapamn-",
+    "sentence": "ὁρκίσας ὥρκισε τὸν λαὸν ὁ πατήρ σου λέγων ·"
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "2.37",
+    "form": "ὥρκισεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ ὥρκισεν αὐτὸν ὁ βασιλεὺς ἐν τῇ ἡμέρᾳ ἐκείνῃ."
+   },
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "15.12",
+    "form": "ὥρκισα",
+    "postag": "v1saia---",
+    "sentence": "καὶ ἐκάλεσα τοὺς ἱερεῖς καὶ ὥρκισα αὐτοὺς ποιῆσαι ὡς τὸ ῥῆμα τοῦτο."
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "5.19",
+    "form": "ὁρκιεῖ",
+    "postag": "v3sfia---",
+    "sentence": "καὶ ὁρκιεῖ αὐτὴν ὁ ἱερεύς, καὶ ἐρεῖ τῇ γυναικί ·"
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "18.15",
+    "form": "ὁρκίζω",
+    "postag": "v1spia---",
+    "sentence": "ποσάκις ὁρκίζω σε ἵνα μὴ λαλήσῃς πρός με πλὴν τὴν ἀλήθειαν ἐν ὀνόματι Κυρίου;"
+   },
+   {
+    "work_code": "1ES",
+    "work_ja": "エズラ記（ギリシャ語）",
+    "work_src": "Esdras i",
+    "ref": "1.46",
+    "form": "ὁρκισθεὶς",
+    "postag": "v-sappmn-",
+    "sentence": "καὶ ὁρκισθεὶς ἀπὸ τοῦ βασιλέως Ναβουχοδονόσορ τῷ ὀνόματι Κυρίου, ἐπιορκήσας ἀπέστη ·"
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "13.19",
+    "form": "ὥρκισε",
+    "postag": "v3saia---",
+    "sentence": "ὅρκῳ γὰρ ὥρκισε τοὺς υἱοὺς Ἰσραὴλ λέγων ·"
+   },
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "6.26",
+    "form": "ὥρκισεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ ὥρκισεν Ἰησοῦς ἐν τῇ ἡμέρᾳ ἐκείνῃ ἐναντίον Κυρίου λέγων ·"
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "6.13a",
+    "form": "Ὁρκίζομέν",
+    "postag": "v1ppia---",
+    "sentence": "καὶ εἶπον αὐτῷ Ὁρκίζομέν σε τοῖς Μήδων καὶ Περσῶν δόγμασιν, ἵνα μὴ ἀλλοιώσῃς τὸ πρόσταγμα μη-δὲ θαυμάσῃς πρόσωπον καὶ ἵνα μὴ ἐλαττώσῃς τι τῶν εἰρημένων καὶ κολάσῃς τὸν ἄνθρωπον, ὃς οὐκ ἐνέμεινε τῷ ὁρισμῷ τούτῳ."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "24.37",
+    "form": "ὥρκισέ",
+    "postag": "v3saia---",
+    "sentence": "καὶ ὥρκισέ με ὁ κύριός μου, λέγων ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.10.5",
+    "form": "ὁρκίζειν",
+    "postag": "v--pna---",
+    "sentence": "ἐγὼ δὲ ἐπελαβόμην αὐτοῦ τῆς πήρας καὶ ἠρξάμην αὐτὸν ὁρκίζειν κατὰ τοῦ κυρίου, ἵνα μοι ἐπιλύσῃ, ἃ ἔδειξέ μοι."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   ὁρκίζω    (< ὅρκος),   [in LXX: Ge 24:37, al. (שׁבע hi.);]      to make one swear (Xen., Polyb., a1.).     to adjure: c. dupl. acc., Mk 5:7, Ac 19:13 (cf. ἐν-, ἐξ-ορκίζω).†"
+}

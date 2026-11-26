@@ -1,0 +1,66 @@
+{
+ "strong": "G2555",
+ "lemma": "κακοποιός",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1PE 4:15",
+   "form": "κακοποιὸς",
+   "morph": "A-NSM",
+   "gloss_en": "evildoer",
+   "gloss_ja": "悪を行う者",
+   "verse": "μὴ γάρ τις ὑμῶν πασχέτω ὡς φονεὺς ἢ κλέπτης ἢ κακοποιὸς ἢ ὡς ἀλλοτριεπίσκοπος·"
+  },
+  {
+   "ref": "1PE 2:12",
+   "form": "κακοποιῶν",
+   "morph": "A-GPM",
+   "gloss_en": "evildoers",
+   "gloss_ja": "悪を行う者",
+   "verse": "τὴν ἀναστροφὴν ὑμῶν ἐν τοῖς ἔθνεσιν ἔχοντες καλήν, ἵνα, ἐν ᾧ καταλαλοῦσιν ὑμῶν ὡς κακοποιῶν, ἐκ τῶν καλῶν ἔργων ἐποπτεύοντες δοξάσωσι τὸν θεὸν ἐν ἡμέρᾳ ἐπισκοπῆς."
+  },
+  {
+   "ref": "1PE 2:14",
+   "form": "κακοποιῶν",
+   "morph": "A-GPM",
+   "gloss_en": "who do wrong",
+   "gloss_ja": "悪を行う者",
+   "verse": "εἴτε ἡγεμόσιν ὡς δι’ αὐτοῦ πεμπομένοις εἰς ἐκδίκησιν κακοποιῶν ἔπαινον δὲ ἀγαθοποιῶν"
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Proverbia": 2
+  },
+  "representatives": [
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "24.19",
+    "form": "κακοποιοῖς",
+    "postag": "a-p---md-",
+    "sentence": "μὴ χαῖρε ἐπὶ κακοποιοῖς, μη-δὲ ζήλου ἁμαρτωλούς ·"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "12.4",
+    "form": "κακοποιός",
+    "postag": "a-s---fn-",
+    "sentence": "ὥσπερ δὲ ἐν ξύλῳ σκώληξ, οὕτως ἄνδρα ἀπόλλυσι γυνὴ κακοποιός."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "3   κακοποιός, -όν    (< κακόν, ποιέω),   [in LXX: Pr 12:4 (בּוּשׁ hi.) Pr 24:19 (רעע hi.)*;]    doing evil; as susbt., an evil-doer: I Pe 2:12, 14 4:15.†"
+}

@@ -1,0 +1,57 @@
+{
+ "strong": "G4005",
+ "lemma": "πεντηκοστή",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 16:8",
+   "form": "πεντηκοστῆς",
+   "morph": "N-GSF",
+   "gloss_en": "pentecost",
+   "gloss_ja": "五旬節",
+   "verse": "ἐπιμενῶ δὲ ἐν Ἐφέσῳ ἕως τῆς πεντηκοστῆς·"
+  },
+  {
+   "ref": "ACT 2:1",
+   "form": "πεντηκοστῆς",
+   "morph": "N-GSF",
+   "gloss_en": "pentecost",
+   "gloss_ja": "五旬節",
+   "verse": "Καὶ ἐν τῷ συμπληροῦσθαι τὴν ἡμέραν τῆς πεντηκοστῆς ἦσαν πάντες ὁμοῦ ἐπὶ τὸ αὐτό,"
+  },
+  {
+   "ref": "ACT 20:16",
+   "form": "πεντηκοστῆς",
+   "morph": "N-GSF",
+   "gloss_en": "pentecost",
+   "gloss_ja": "五旬節",
+   "verse": "κεκρίκει γὰρ ὁ Παῦλος παραπλεῦσαι τὴν Ἔφεσον, ὅπως μὴ γένηται αὐτῷ χρονοτριβῆσαι ἐν τῇ Ἀσίᾳ, ἔσπευδεν γὰρ εἰ δυνατὸν εἴη αὐτῷ τὴν ἡμέραν τῆς πεντηκοστῆς γενέσθαι εἰς Ἱεροσόλυμα."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Machabaeorum ii": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "12.32",
+    "form": "Πεντηκοστὴν",
+    "postag": "n-s---fa-",
+    "sentence": "μετὰ δὲ τὴν λεγομένην Πεντηκοστὴν ὥρμησαν ἐπὶ Γοργίαν τὸν τῆς Ἰδουμαίας στρατηγόν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "3 πεντηκοστός, -ή, -όν,    [in LXX for חֲמִשִּׁים, Le 25:10, 11, IV Ki 15:23, 27; I Mac4, II Mac 14:4; ἡ π., To 2:1, II Mac 12:32*;]      fiftieth. As subst., ἡ π.;     (sc. μερίς), at Athens, a tax of two per cent.;     (sc. ἡμέρα, i.e. the fiftieth day after the Passover), Pentecost, the second of the three great Jewish feasts (To 2:1, II Mac 12:32; ἑορτὴ ἑβδομάδων, De 16:10, al.): Ac 2:1 20:16, I Co 16:8.†"
+}

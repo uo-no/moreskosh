@@ -1,0 +1,77 @@
+{
+ "strong": "G2471",
+ "lemma": "ἰσότης",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2CO 8:13",
+   "form": "ἰσότητος",
+   "morph": "N-GSF",
+   "gloss_en": "equality",
+   "gloss_ja": "平等",
+   "verse": "οὐ γὰρ ἵνα ἄλλοις ἄνεσις, ὑμῖν θλῖψις· ἀλλ’ ἐξ ἰσότητος"
+  },
+  {
+   "ref": "2CO 8:14",
+   "form": "ἰσότης",
+   "morph": "N-NSF",
+   "gloss_en": "equality",
+   "gloss_ja": "平等",
+   "verse": "ἐν τῷ νῦν καιρῷ τὸ ὑμῶν περίσσευμα εἰς τὸ ἐκείνων ὑστέρημα, ἵνα καὶ τὸ ἐκείνων περίσσευμα γένηται εἰς τὸ ὑμῶν ὑστέρημα, ὅπως γένηται ἰσότης·"
+  },
+  {
+   "ref": "COL 4:1",
+   "form": "ἰσότητα",
+   "morph": "N-ASF",
+   "gloss_en": "fairly",
+   "gloss_ja": "平等",
+   "verse": "οἱ κύριοι, τὸ δίκαιον καὶ τὴν ἰσότητα τοῖς δούλοις παρέχεσθε, εἰδότες ὅτι καὶ ὑμεῖς ἔχετε κύριον ἐν οὐρανῷ."
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Job": 1,
+   "Psalmi Salomonis": 1,
+   "Zacharias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "36.29",
+    "form": "ἰσότητα",
+    "postag": "n-s---fa-",
+    "sentence": "καὶ ἐὰν συνῇ ἀπεκτάσεις νεφέλης, ἰσότητα σκηνῆς αὐτοῦ, ἰδοὺ ἐκτενεῖ ἐπ’ αὐτὸν ἠδὼ καὶ ριζώματα τῆς θαλάσσης ἐκάλυψεν ·"
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "17.41",
+    "form": "ἰσότητι",
+    "postag": "n-s---fd-",
+    "sentence": "ἐν ἰσότητι πάντας αὐτοὺς ἄξει, καὶ οὐκ ἔσται ἐν αὐτοῖς ὑπερηφανία τοῦ καταδυναστευθῆναι ἐν αὐτοῖς."
+   },
+   {
+    "work_code": "ZEC",
+    "work_ja": "ゼカリヤ書",
+    "work_src": "Zacharias",
+    "ref": "4.7",
+    "form": "ἰσότητα",
+    "postag": "n-s---fa-",
+    "sentence": "καὶ ἐξοίσω τὸν λίθον τῆς κληρονομίας ἰσότητα χάριτος χάριτα αὐτῆς."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "3   ἰσότης, -ητος, ἡ    (< ἴσος),   [in LXX: Jb 36:30, Za 4:7*;]    equality: II Co 8:13, 14.     equity, fairness: τὸ δίκαιον κ. τὴν ἰ., Col 4:1 (for distinction bet. τὸ δ. and ἡ ἰ., v. ICC, in l).†"
+}

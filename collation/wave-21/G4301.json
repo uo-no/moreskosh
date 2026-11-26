@@ -1,0 +1,69 @@
+{
+ "strong": "G4301",
+ "lemma": "προλαμβάνω",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 11:21",
+   "form": "προλαμβάνει",
+   "morph": "V-PAI-3S",
+   "gloss_en": "goes ahead",
+   "gloss_ja": "先んじる",
+   "verse": "ἕκαστος γὰρ τὸ ἴδιον δεῖπνον προλαμβάνει ἐν τῷ φαγεῖν, καὶ ὃς μὲν πεινᾷ, ὃς δὲ μεθύει."
+  },
+  {
+   "ref": "GAL 6:1",
+   "form": "προλημφθῇ",
+   "morph": "V-APS-3S",
+   "gloss_en": "caught",
+   "gloss_ja": "先んじる",
+   "verse": "Ἀδελφοί, ἐὰν καὶ προλημφθῇ ἄνθρωπος ἔν τινι παραπτώματι, ὑμεῖς οἱ πνευματικοὶ καταρτίζετε τὸν τοιοῦτον ἐν πνεύματι πραΰτητος, σκοπῶν σεαυτόν, μὴ καὶ σὺ πειρασθῇς."
+  },
+  {
+   "ref": "MRK 14:8",
+   "form": "προέλαβεν",
+   "morph": "V-2AAI-3S",
+   "gloss_en": "beforehand",
+   "gloss_ja": "先んじる",
+   "verse": "ὃ ἔσχεν ἐποίησεν, προέλαβεν μυρίσαι τὸ σῶμά μου εἰς τὸν ἐνταφιασμόν."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Sapientia Salomonis": 1
+  },
+  "representatives": [
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "17.16",
+    "form": "προληφθεὶς",
+    "postag": "v-sappmn-",
+    "sentence": "εἴ τε γὰρ γεωργὸς ἦν τις ἢ ποιμὴν ἢ τῶν κατ’ ἐρη μίαν ἐργάτης μόχθων, προληφθεὶς τὴν δυσάλυκτον ἔμενεν ἀνάγκην, μιᾷ γὰρ ἁλύσει σκότους πάντες ἐδέθησαν ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Ignatius, Letters": 1
+  },
+  "representatives": [
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "1.3.2",
+    "form": "προέλαβον",
+    "postag": "v1saia---",
+    "sentence": "ἀλλ’ ἐπεὶ ἡ ἀγάπη οὐκ ἐᾷ με σιωπᾶν περὶ ὑμῶν, διὰ τοῦτο προέλαβον παρακαλεῖν ὑμᾶς, ὅπως συντρέχητε τῇ γνώμῃ τοῦ θεοῦ."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3   ** προ-λαμβάνω,    [in LXX: Wi 17:11 א2, Wi 17:17 א2B*;]      to take beforehand: c. acc., I Co 11:21 (but v. infr.).     to be beforehand,   anticipate (in cl., c. acc., gen. or dat.): c. inf. (= cl. φθάνω, v. Bl., § 69, 4; Swete, in l.), Mk 14:8.     to overtake, surprise: pass., Ga 6:1 (on the virtual disappearance of the temporal force of the preposition in this compound here and perhaps also in I Co 11:21, v. MM, xxi).†"
+}

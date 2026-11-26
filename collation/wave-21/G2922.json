@@ -1,0 +1,115 @@
+{
+ "strong": "G2922",
+ "lemma": "κριτήριον",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 6:2",
+   "form": "κριτηρίων",
+   "morph": "N-GPN",
+   "gloss_en": "judge",
+   "gloss_ja": "裁判所",
+   "verse": "ἢ οὐκ οἴδατε ὅτι οἱ ἅγιοι τὸν κόσμον κρινοῦσιν; καὶ εἰ ἐν ὑμῖν κρίνεται ὁ κόσμος, ἀνάξιοί ἐστε κριτηρίων ἐλαχίστων;"
+  },
+  {
+   "ref": "1CO 6:4",
+   "form": "κριτήρια",
+   "morph": "N-APN",
+   "gloss_en": "judgments",
+   "gloss_ja": "裁判所",
+   "verse": "βιωτικὰ μὲν οὖν κριτήρια ἐὰν ἔχητε, τοὺς ἐξουθενημένους ἐν τῇ ἐκκλησίᾳ, τούτους καθίζετε;"
+  },
+  {
+   "ref": "JAS 2:6",
+   "form": "κριτήρια",
+   "morph": "N-APN",
+   "gloss_en": "court",
+   "gloss_ja": "裁判所",
+   "verse": "ὑμεῖς δὲ ἠτιμάσατε τὸν πτωχόν. οὐχ οἱ πλούσιοι καταδυναστεύουσιν ὑμῶν, καὶ αὐτοὶ ἕλκουσιν ὑμᾶς εἰς κριτήρια;"
+  }
+ ],
+ "lxx": {
+  "total": 7,
+  "works": {
+   "Exodus": 1,
+   "Judices": 1,
+   "Regnorum iii": 1,
+   "Susanna": 1,
+   "Daniel": 3
+  },
+  "representatives": [
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "7.10",
+    "form": "κριτήριον",
+    "postag": "n-s---nn-",
+    "sentence": "κριτήριον ἐκάθισε, καὶ βίβλοι ἠνεῴχθησαν."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "21.6",
+    "form": "κριτήριον",
+    "postag": "n-s---na-",
+    "sentence": "προσάξει αὐτὸν ὁ κύριος αὐτοῦ πρὸς τὸ κριτήριον τοῦ Θεοῦ καὶ τότε προσάξει αὐτὸν ἐπὶ τὴν θύραν ἐπὶ τὸν σταθμόν, καὶ τρυπήσει ὁ κύριος αὐτοῦ τὸ οὖς τῷ ὀπητίῳ, καὶ δουλεύσει αὐτῷ εἰς τὸν αἰῶνα."
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "5.10",
+    "form": "κριτηρίου",
+    "postag": "n-s---ng-",
+    "sentence": "ἐπιβεβηκότες ἐπὶ ὄνου θηλείας μεσημβρίας, καθήμενοι ἐπὶ κριτηρίου καὶ πορευόμενοι ἐπὶ ὁδοὺς συνέδρων ἐφ’ ὁδῷ, διηγεῖσθε ἀπὸ φωνῆς ἀνακρουομένων ἀνὰ μέσον ὑδρευομένων ·"
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "7.44",
+    "form": "κριτηρίου",
+    "postag": "n-s---ng-",
+    "sentence": "καὶ τὸ αἰλὰμ τῶν θρόνων, οὗ κρινεῖ ἐκεῖ, αἰλὰμ τοῦ κριτηρίου."
+   },
+   {
+    "work_code": "SUS",
+    "work_ja": "スザンナ（Th）",
+    "work_src": "Susanna",
+    "ref": "49",
+    "form": "κριτήριον",
+    "postag": "n-s---na-",
+    "sentence": "ἀναστρέψατε εἰς τὸ κριτήριον ·"
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "7.10",
+    "form": "κριτήριον",
+    "postag": "n-s---nn-",
+    "sentence": "καὶ κριτήριον ἐκάθισε καὶ βίβλοι ἠνεῴχθησαν."
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "7.26",
+    "form": "κριτήριον",
+    "postag": "n-s---na-",
+    "sentence": "καὶ τὸ κριτήριον καθίσει καὶ τὴν ἀρχὴν μεταστήσουσι τοῦ ἀφανίσαι καὶ τοῦ ἀπολέσαι ἕως τέλους."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "3   κριτήριον, -ου, τό    (< κριτής),   [in LXX: III Ki 7:7 (מִשְׁפָּט), Da LXX TH 7:10, TH:26, (דִּין), Su 49, Ex 21:6, Jg 5:10*;]      a means of judging, test, criterion.     a tribunal: I Co 6:2, 4, Ja 2:6.†"
+}

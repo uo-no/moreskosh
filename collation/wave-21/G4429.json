@@ -1,0 +1,67 @@
+{
+ "strong": "G4429",
+ "lemma": "πτύω",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JHN 9:6",
+   "form": "ἔπτυσεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "spat",
+   "gloss_ja": "唾をかける",
+   "verse": "ταῦτα εἰπὼν ἔπτυσεν χαμαὶ καὶ ἐποίησεν πηλὸν ἐκ τοῦ πτύσματος, καὶ ἐπέχρισεν αὐτοῦ τὸν πηλὸν ἐπὶ τοὺς ὀφθαλμούς,"
+  },
+  {
+   "ref": "MRK 7:33",
+   "form": "πτύσας",
+   "morph": "V-AAP-NSM",
+   "gloss_en": "spitting",
+   "gloss_ja": "唾をかける",
+   "verse": "καὶ ἀπολαβόμενος αὐτὸν ἀπὸ τοῦ ὄχλου κατ’ ἰδίαν ἔβαλεν τοὺς δακτύλους αὐτοῦ εἰς τὰ ὦτα αὐτοῦ καὶ πτύσας ἥψατο τῆς γλώσσης αὐτοῦ,"
+  },
+  {
+   "ref": "MRK 8:23",
+   "form": "πτύσας",
+   "morph": "V-AAP-NSM",
+   "gloss_en": "spitting",
+   "gloss_ja": "唾をかける",
+   "verse": "καὶ ἐπιλαβόμενος τῆς χειρὸς τοῦ τυφλοῦ ἐξήνεγκεν αὐτὸν ἔξω τῆς κώμης, καὶ πτύσας εἰς τὰ ὄμματα αὐτοῦ, ἐπιθεὶς τὰς χεῖρας αὐτῷ, ἐπηρώτα αὐτόν· Εἴ τι βλέπεις;"
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Numeri": 1,
+   "Ecclesiasticus sive Siracides": 1
+  },
+  "representatives": [
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "12.14",
+    "form": "πτύων",
+    "postag": "v-sppamn-",
+    "sentence": "εἰ ὁ πατὴρ αὐτῆς πτύων ἐνέπτυσεν εἰς τὸ πρόσωπον αὐτῆς, οὐκ ἐντραπήσεται ἑπτὰ ἡμέρας;"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "28.12",
+    "form": "πτύσῃς",
+    "postag": "v2sasa---",
+    "sentence": "ἐὰν φυσήσῃς εἰς σπινθῆρα, ἐκκαήσεται, καὶ ἐὰν πτύσῃς ἐπ’ αὐτόν, σβεσθήσεται ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "3   πτύω,    [in LXX: Nu 12:14 (ירק), Si 28:12*;]    to spit: Mk 7:33 8:23, Jo 9:6 (cf. ἐκ-, ἐμ-πτύω).†"
+}

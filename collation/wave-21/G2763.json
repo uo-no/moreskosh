@@ -1,0 +1,185 @@
+{
+ "strong": "G2763",
+ "lemma": "κεραμεύς",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MAT 27:7",
+   "form": "Κεραμέως",
+   "morph": "N-GSM",
+   "gloss_en": "potter’s",
+   "gloss_ja": "陶器師",
+   "verse": "συμβούλιον δὲ λαβόντες ἠγόρασαν ἐξ αὐτῶν τὸν Ἀγρὸν τοῦ Κεραμέως εἰς ταφὴν τοῖς ξένοις."
+  },
+  {
+   "ref": "MAT 27:10",
+   "form": "κεραμέως",
+   "morph": "N-GSM",
+   "gloss_en": "potter’s",
+   "gloss_ja": "陶器師",
+   "verse": "καὶ ἔδωκαν αὐτὰ εἰς τὸν ἀγρὸν τοῦ κεραμέως, καθὰ συνέταξέν μοι κύριος."
+  },
+  {
+   "ref": "ROM 9:21",
+   "form": "κεραμεὺς",
+   "morph": "N-NSM",
+   "gloss_en": "potter",
+   "gloss_ja": "陶器師",
+   "verse": "ἢ οὐκ ἔχει ἐξουσίαν ὁ κεραμεὺς τοῦ πηλοῦ ἐκ τοῦ αὐτοῦ φυράματος ποιῆσαι ὃ μὲν εἰς τιμὴν σκεῦος ὃ δὲ εἰς ἀτιμίαν;"
+  }
+ ],
+ "lxx": {
+  "total": 17,
+  "works": {
+   "Paralipomenon i sive Chronicon i": 1,
+   "Psalmi": 1,
+   "Sapientia Salomonis": 1,
+   "Ecclesiasticus sive Siracides": 3,
+   "Psalmi Salomonis": 1,
+   "Isaias": 5,
+   "Jeremias": 4,
+   "Threni seu Lamentationes": 1
+  },
+  "representatives": [
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "45.9",
+    "form": "κεραμεῖ",
+    "postag": "n-s---md-",
+    "sentence": "μὴ ἐρεῖ ὁ πηλὸς τῷ κεραμεῖ ·"
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "18.6",
+    "form": "κεραμέως",
+    "postag": "n-s---mg-",
+    "sentence": "ἰδοὺ ὡς ὁ πηλὸς τοῦ κεραμέως ὑμεῖς ἐστε ἐν ταῖς χερσί μου."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "38.29",
+    "form": "κεραμεὺς",
+    "postag": "n-s---mn-",
+    "sentence": "οὕτως κεραμεὺς καθήμενος ἐν ἔργῳ αὐτοῦ καὶ συστρέφων ἐν ποσὶν αὐτοῦ τροχόν, ὃς ἐν μερίμνῃ κεῖται διὰ παντὸς ἐπὶ τὸ ἔργον αὐτοῦ, καὶ ἐναρίθμιος πᾶσα ἡ ἐργασία αὐτοῦ."
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "4.23",
+    "form": "κεραμεῖς",
+    "postag": "n-p---mn-",
+    "sentence": "οὗτοι κεραμεῖς οἱ κατοικοῦντες ἐν Ἀταΐμ καὶ Γαδηρὰ μετὰ τοῦ βασιλέως, ἐν τῇ βασιλείᾳ αὐτοῦ ἐνίσχυσαν καὶ κατῴκησαν ἐκεῖ."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "2.9",
+    "form": "κεραμέως",
+    "postag": "n-s---mg-",
+    "sentence": "ποιμανεῖς αὐτοὺς ἐν ράβδῳ σιδηρᾷ, ὡς σκεύη κεραμέως συντρίψεις αὐτούς."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "15.7",
+    "form": "κεραμεὺς",
+    "postag": "n-s---mn-",
+    "sentence": "καὶ γὰρ κεραμεὺς ἁπαλὴν γῆν θλίβων ἐπίμοχθον πλάσσει πρὸς ὑπηρεσίαν ἡμῶν ἓν ἕκαστον ·"
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "17.23",
+    "form": "κεραμέως",
+    "postag": "n-s---mg-",
+    "sentence": "καὶ ὑπόζωσον αὐτὸν ἰσχὺν τοῦ θραῦσαι ἄρχοντας ἀδίκους, καθαρίσαι Ιερουσαλημ ἀπὸ ἐθνῶν καταπατούντων ἐν ἀπωλείᾳ, ἐν σοφίᾳ δικαιοσύνης ἐξῶσαι ἁμαρτωλοὺς ἀπὸ κληρονομίας, ἐκτρῖψαι ὑπερηφανίαν ἁμαρτωλοῦ ὡς σκεύη κεραμέως, ἐν ῥάβδῳ σιδηρᾷ συντρῖψαι πᾶσαν ὑπόστασιν αὐτῶν, ὀλεθρεῦσαι ἔθνη παράνομα ἐν λόγῳ στόματος αὐτοῦ, ἐν ἀπειλῇ αὐτοῦ φυγεῖν ἔθνη ἀπὸ προσώπου αὐτοῦ καὶ ἐλέγξαι ἁμαρτωλοὺς ἐν λόγῳ καρδίας αὐτῶν."
+   },
+   {
+    "work_code": "LAM",
+    "work_ja": "哀歌",
+    "work_src": "Threni seu Lamentationes",
+    "ref": "4.2",
+    "form": "κεραμέως",
+    "postag": "n-s---mg-",
+    "sentence": "υἱοὶ Σιὼν οἱ τίμιοι, οἱ ἐπῃρμένοι ἐν χρυσίῳ, πῶς ἐλογίσθησαν εἰς ἀγγεῖα ὀστράκινα, ἔργα χειρῶν κεραμέως;"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "29.16",
+    "form": "κεραμέως",
+    "postag": "n-s---mg-",
+    "sentence": "οὐχ ὡς ὁ πηλὸς τοῦ κεραμέως λογισθήσεσθε;"
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "18.6",
+    "form": "κεραμεὺς",
+    "postag": "n-s---mn-",
+    "sentence": "εἰ καθὼς ὁ κεραμεὺς οὗτος οὐ δυνήσομαι τοῦ ποιῆσαι ὑμᾶς, οἶκος Ἰσραήλ;"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "27.5",
+    "form": "κεραμέως",
+    "postag": "n-s---mg-",
+    "sentence": "σκεύη κεραμέως δοκιμάζει κάμινος, καὶ πειρασμὸς ἀνθρώπου ἐν διαλογισμῷ αὐτοῦ."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "45.9",
+    "form": "κεραμέως",
+    "postag": "n-s---mg-",
+    "sentence": "ποῖον βέλτιον κατεσκεύασα ὡς πηλὸν κεραμέως;"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "2 Clement": 1,
+   "To Diognetus": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "8.2",
+    "form": "κεραμεύς",
+    "postag": "n-s---mn-",
+    "sentence": "ὃν τρόπον γὰρ ὁ κεραμεύς, ἐὰν ποιῇ σκεῦος καὶ ἐν ταῖς χερσὶν αὐτοῦ διαστραφῇ ἣ συντριβῇ, πάλιν αὐτὸ ἀναπλάσσει, ἐὰν δὲ προφθάσῃ εἰς τὴν κάμινον τοῦ πυρὸς αὐτὸ βαλεῖν, οὐκέτι βοηθήσει αὐτῷ ·"
+   },
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "2",
+    "form": "κεραμεὺς",
+    "postag": "n-s---mn-",
+    "sentence": "οὐχ ὁ μὲν αὐτῶν λιθοξόος, ὁ δὲ χαλκεύς, ὁ δὲ ἀργυροκόπος, ὁ δὲ κεραμεὺς ἔπλασεν;"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3   κεραμεύς, -εως, ὁ    (< κεράννυμι),   [in LXX for יצר, Ps 2:9, Je 18:2, al.;]    a potter: Ro 9:21; ὁ ἀγρὸς τοῦ κ., Mt 27:7, 10(LXX).†"
+}

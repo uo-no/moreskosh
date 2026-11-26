@@ -1,0 +1,69 @@
+{
+ "strong": "G3559",
+ "lemma": "νουθεσία",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 10:11",
+   "form": "νουθεσίαν",
+   "morph": "N-ASF",
+   "gloss_en": "instruction",
+   "gloss_ja": "訓戒",
+   "verse": "ταῦτα δὲ τυπικῶς συνέβαινεν ἐκείνοις, ἐγράφη δὲ πρὸς νουθεσίαν ἡμῶν, εἰς οὓς τὰ τέλη τῶν αἰώνων κατήντηκεν."
+  },
+  {
+   "ref": "EPH 6:4",
+   "form": "νουθεσίᾳ",
+   "morph": "N-DSF",
+   "gloss_en": "instruction",
+   "gloss_ja": "訓戒",
+   "verse": "Καὶ οἱ πατέρες, μὴ παροργίζετε τὰ τέκνα ὑμῶν, ἀλλὰ ἐκτρέφετε αὐτὰ ἐν παιδείᾳ καὶ νουθεσίᾳ κυρίου."
+  },
+  {
+   "ref": "TIT 3:10",
+   "form": "νουθεσίαν",
+   "morph": "N-ASF",
+   "gloss_en": "admonition",
+   "gloss_ja": "訓戒",
+   "verse": "αἱρετικὸν ἄνθρωπον μετὰ μίαν καὶ δευτέραν νουθεσίαν παραιτοῦ,"
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Sapientia Salomonis": 1
+  },
+  "representatives": [
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "16.6",
+    "form": "νουθεσίαν",
+    "postag": "n-s---fa-",
+    "sentence": "εἰς νουθεσίαν δὲ πρὸς ὀλίγον ἐταράχθησαν, σύμβουλον ἔχοντες σωτηρίας εἰς ἀνάμνησιν ἐντολῆς νόμου σου ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Ignatius, Letters": 1
+  },
+  "representatives": [
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "1.3.1",
+    "form": "νουθεσίᾳ",
+    "postag": "n-s---fd-",
+    "sentence": "ἐμὲ γὰρ ἔδει ὑφ’ ὑμῶν ὑπαλειφθῆναι πίστει, νουθεσίᾳ, ὑπομονῇ, μακροθυμίᾳ."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3   ** νουθεσία, -ας ἡ    (< νουθετέω), = cl. νουθέτησις;   [in LXX: Wi 16:6*;]    admonition: I Co 10:11, Eph 6:4, Tit 3:10 (Aristoph., Diod., al.).†"
+}

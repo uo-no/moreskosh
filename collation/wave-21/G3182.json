@@ -1,0 +1,164 @@
+{
+ "strong": "G3182",
+ "lemma": "μεθύσκομαι",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": "μεθυσκω",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1TH 5:7",
+   "form": "μεθυσκόμενοι",
+   "morph": "V-PPP-NPM",
+   "gloss_en": "get drunk",
+   "gloss_ja": "酔わせる",
+   "verse": "οἱ γὰρ καθεύδοντες νυκτὸς καθεύδουσιν, καὶ οἱ μεθυσκόμενοι νυκτὸς μεθύουσιν·"
+  },
+  {
+   "ref": "EPH 5:18",
+   "form": "μεθύσκεσθε",
+   "morph": "V-PPM-2P",
+   "gloss_en": "drunk",
+   "gloss_ja": "酔わせる",
+   "verse": "καὶ μὴ μεθύσκεσθε οἴνῳ, ἐν ᾧ ἐστιν ἀσωτία, ἀλλὰ πληροῦσθε ἐν πνεύματι,"
+  },
+  {
+   "ref": "LUK 12:45",
+   "form": "μεθύσκεσθαι",
+   "morph": "V-PPN",
+   "gloss_en": "drunk",
+   "gloss_ja": "酔わせる",
+   "verse": "ἐὰν δὲ εἴπῃ ὁ δοῦλος ἐκεῖνος ἐν τῇ καρδίᾳ αὐτοῦ· Χρονίζει ὁ κύριός μου ἔρχεσθαι, καὶ ἄρξηται τύπτειν τοὺς παῖδας καὶ τὰς παιδίσκας, ἐσθίειν τε καὶ πίνειν καὶ μεθύσκεσθαι,"
+  }
+ ],
+ "lxx": {
+  "total": 15,
+  "works": {
+   "Regnorum ii": 1,
+   "Judith": 1,
+   "Psalmi": 2,
+   "Proverbia": 2,
+   "Ecclesiasticus sive Siracides": 3,
+   "Osee": 1,
+   "Habacuc": 1,
+   "Isaias": 2,
+   "Jeremias": 2
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "39.22",
+    "form": "ἐμέθυσεν",
+    "postag": "v3saia---",
+    "sentence": "ἡ εὐλογία αὐτοῦ ὡς ποταμὸς ἐπεκάλυψε, καὶ ὡς κατακλυσμὸς ξηρὰν ἐμέθυσεν."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "22.5",
+    "form": "μεθύσκον",
+    "postag": "v-sppann-",
+    "sentence": "ἐλίπανας ἐν ἐλαίῳ τὴν κεφαλήν μου, καὶ τὸ ποτήριόν σου μεθύσκον με ὡσεὶ κράτιστον."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "4.17",
+    "form": "μεθύσκονται",
+    "postag": "v3ppim---",
+    "sentence": "οἵδε γὰρ σιτοῦνται σῖτα ἀσεβείας, οἴνῳ δὲ παρανόμῳ μεθύσκονται."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "34.7",
+    "form": "μεθυσθήσεται",
+    "postag": "v3sfip---",
+    "sentence": "καὶ συμπεσοῦνται οἱ ἁδροὶ μετ’ αὐτῶν καὶ οἱ κριοὶ καὶ οἱ ταῦροι, καὶ μεθυσθήσεται ἡ γῆ ἀπὸ τοῦ αἵματος καὶ ἀπὸ τοῦ στέατος αὐτῶν ἐμπλησθήσεται."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "28.7",
+    "form": "μεθύσκον",
+    "postag": "v-sppann-",
+    "sentence": "ποτήριον χρυσοῦν Βαβυλὼν ἐν χειρὶ Κυρίου μεθύσκον πᾶσαν τὴν γῆν ·"
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "11.13",
+    "form": "ἐμέθυσεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἐκάλεσεν αὐτὸν Δαυίδ, καὶ ἔφαγεν ἐνώπιον αὐτοῦ καὶ ἔπιε καὶ ἐμέθυσεν αὐτόν ·"
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "6.4",
+    "form": "μεθυσθήσεται",
+    "postag": "v3sfip---",
+    "sentence": "κατακαύσομεν γὰρ αὐτοὺς ἐν αὐτοῖς, καὶ τὰ ὄρη αὐτῶν μεθυσθήσεται ἐν τῷ αἵματι αὐτῶν, καὶ τὰ πεδία αὐτῶν πληρωθήσεται νεκρῶν αὐτῶν, καὶ οὐκ ἀντιστήσεται τὸ ἴχνος τῶν ποδῶν αὐτῶν κατὰ πρόσωπον ἡμῶν, ἀλλὰ ἀπωλείᾳ ἀπολοῦνται, λέγει ὁ βασιλεὺς Ναβουχοδονόσορ ὁ κύριος πάσης τῆς γῆς ·"
+   },
+   {
+    "work_code": "HOS",
+    "work_ja": "ホセア書",
+    "work_src": "Osee",
+    "ref": "14.8",
+    "form": "μεθυσθήσονται",
+    "postag": "v3pfip---",
+    "sentence": "ἐπιστρέψουσι καὶ καθιοῦνται ὑπὸ τὴν σκέπην αὐτοῦ, ζήσονται καὶ μεθυσθήσονται σίτῳ ·"
+   },
+   {
+    "work_code": "HAB",
+    "work_ja": "ハバクク書",
+    "work_src": "Habacuc",
+    "ref": "2.15",
+    "form": "μεθύσκων",
+    "postag": "v-sppamn-",
+    "sentence": "ὦ ὁ ποτίζων τὸν πλησίον αὐτοῦ ἀνατροπῇ θολερᾷ καὶ μεθύσκων, ὅπως ἐπιβλέπῃ ἐπὶ τὰ σπήλαια αὐτῶν."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "1.16",
+    "form": "μεθύσκει",
+    "postag": "v3spia---",
+    "sentence": "πλησμονὴ σοφίας φοβεῖσθαι τὸν Κύριον καὶ μεθύσκει αὐτοὺς ἀπὸ τῶν καρπῶν αὐτῆς ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "35.9",
+    "form": "μεθυσθήσονται",
+    "postag": "v3pfip---",
+    "sentence": "μεθυσθήσονται ἀπὸ πιότητος οἴκου σου, καὶ τὸν χειμάρρουν τῆς τρυφῆς σου ποτιεῖς αὐτούς ·"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "23.31",
+    "form": "μεθύσκεσθε",
+    "postag": "v2ppmm---",
+    "sentence": "μὴ μεθύσκεσθε ἐν οἴνοις, ἀλλὰ ὁμιλεῖτε ἀνθρώποις δικαίοις καὶ ὁμιλεῖτε ἐν περιπάτοις ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "3 μεθύσκω,    [in LXX: Ps 22 (23):5 (רוה), Pr 4:17 (שׁתה), etc.;] causal of μεθύω,     to make drunk, intoxicate; pass., to get drunk: Lk 12:45, Eph 5:18, I Th 5:7.†"
+}

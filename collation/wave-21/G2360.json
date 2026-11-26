@@ -1,0 +1,57 @@
+{
+ "strong": "G2360",
+ "lemma": "θροέομαι",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": "θροεω",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2TH 2:2",
+   "form": "θροεῖσθαι",
+   "morph": "V-PPN",
+   "gloss_en": "troubled",
+   "gloss_ja": "動揺する",
+   "verse": "εἰς τὸ μὴ ταχέως σαλευθῆναι ὑμᾶς ἀπὸ τοῦ νοὸς μηδὲ θροεῖσθαι μήτε διὰ πνεύματος μήτε διὰ λόγου μήτε δι’ ἐπιστολῆς ὡς δι’ ἡμῶν, ὡς ὅτι ἐνέστηκεν ἡ ἡμέρα τοῦ κυρίου."
+  },
+  {
+   "ref": "MAT 24:6",
+   "form": "θροεῖσθε",
+   "morph": "V-PPM-2P",
+   "gloss_en": "alarmed",
+   "gloss_ja": "動揺する",
+   "verse": "μελλήσετε δὲ ἀκούειν πολέμους καὶ ἀκοὰς πολέμων· ὁρᾶτε, μὴ θροεῖσθε· δεῖ γὰρ γενέσθαι, ἀλλ’ οὔπω ἐστὶν τὸ τέλος."
+  },
+  {
+   "ref": "MRK 13:7",
+   "form": "θροεῖσθε",
+   "morph": "V-PPM-2P",
+   "gloss_en": "alarmed",
+   "gloss_ja": "動揺する",
+   "verse": "ὅταν δὲ ἀκούσητε πολέμους καὶ ἀκοὰς πολέμων, μὴ θροεῖσθε· δεῖ γενέσθαι, ἀλλ’ οὔπω τὸ τέλος."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Canticum": 1
+  },
+  "representatives": [
+   {
+    "work_code": "SNG",
+    "work_ja": "雅歌",
+    "work_src": "Canticum",
+    "ref": "5.4",
+    "form": "ἐθροήθη",
+    "postag": "v3saip---",
+    "sentence": "ἀδελφιδός μου ἀπέστειλε χεῖρα αὐτοῦ ἀπὸ τῆς ὀπῆς, καὶ ἡ κοιλία μου ἐθροήθη ἐπ’ αὐτόν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "3   θροέω, -ῶ    (< θρόος, a noise, tumult),   [in LXX: Ca 5:4 (המה*;]  in cl.,     to cry aloud, make an outcry.     to utter aloud.     In NT (and LXX), pass., to be troubled, as by an alarm: Mt 24:6, Mk 13:7, Lk 24:37 (WH, mg.), II Th 2:2 (cf. Kennedy, Sources, 126).†"
+}

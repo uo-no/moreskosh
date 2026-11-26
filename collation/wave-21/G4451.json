@@ -1,0 +1,79 @@
+{
+ "strong": "G4451",
+ "lemma": "πύρωσις",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1PE 4:12",
+   "form": "πυρώσει",
+   "morph": "N-DSF",
+   "gloss_en": "fiery ordeal",
+   "gloss_ja": "燃焼",
+   "verse": "Ἀγαπητοί, μὴ ξενίζεσθε τῇ ἐν ὑμῖν πυρώσει πρὸς πειρασμὸν ὑμῖν γινομένῃ ὡς ξένου ὑμῖν συμβαίνοντος,"
+  },
+  {
+   "ref": "REV 18:9",
+   "form": "πυρώσεως",
+   "morph": "N-GSF",
+   "gloss_en": "burning",
+   "gloss_ja": "燃焼",
+   "verse": "Καὶ κλαύσουσιν καὶ κόψονται ἐπ’ αὐτὴν οἱ βασιλεῖς τῆς γῆς οἱ μετ’ αὐτῆς πορνεύσαντες καὶ στρηνιάσαντες, ὅταν βλέπωσιν τὸν καπνὸν τῆς πυρώσεως αὐτῆς,"
+  },
+  {
+   "ref": "REV 18:18",
+   "form": "πυρώσεως",
+   "morph": "N-GSF",
+   "gloss_en": "burning",
+   "gloss_ja": "燃焼",
+   "verse": "καὶ ἔκραξαν βλέποντες τὸν καπνὸν τῆς πυρώσεως αὐτῆς λέγοντες· Τίς ὁμοία τῇ πόλει τῇ μεγάλῃ;"
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Proverbia": 1,
+   "Amos": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "27.21",
+    "form": "πύρωσις",
+    "postag": "n-s---fn-",
+    "sentence": "δοκίμιον ἀργυρῷ καὶ χρυσῷ πύρωσις, ἀνὴρ δὲ δοκιμάζεται διὰ στόματος ἐγκωμιαζόντων αὐτόν."
+   },
+   {
+    "work_code": "AMO",
+    "work_ja": "アモス書",
+    "work_src": "Amos",
+    "ref": "4.9",
+    "form": "πυρώσει",
+    "postag": "n-s---fd-",
+    "sentence": "ἐπάταξα ὑμᾶς ἐν πυρώσει καὶ ἐν ἰκτέρῳ ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Didache": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DID",
+    "work_ja": "ディダケー",
+    "work_src": "Didache",
+    "ref": "16.5",
+    "form": "πύρωσιν",
+    "postag": "n-s---fa-",
+    "sentence": "τότε ἥξει ἡ κτίσις τῶν ἀνθρώπων εἰς τὴν πύρωσιν τῆς δοκιμασίας, καὶ σκανδαλισθήσονται πολλοὶ καὶ ἀπολοῦνται, οἱ δὲ ὑπομείναντες ἐν τῇ πίστει αὐτῶν σωθήσονται ὑπ’ αὐτοῦ τοῦ καταθέματος."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3   πύρωσις, -εως, ἡ    (< πυρόω),   [in LXX: Pr 27:21 (כּוּר), Am 4:9 (שִׁדָּפוֹן)*;]      a burning: Re 18:9, 18.     a refining or trial by fire: metaph., I Pe 4:12.†"
+}

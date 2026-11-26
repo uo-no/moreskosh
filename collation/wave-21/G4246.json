@@ -1,0 +1,207 @@
+{
+ "strong": "G4246",
+ "lemma": "πρεσβύτης",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 1:18",
+   "form": "πρεσβύτης",
+   "morph": "N-NSM",
+   "gloss_en": "old man",
+   "gloss_ja": "老人",
+   "verse": "καὶ εἶπεν Ζαχαρίας πρὸς τὸν ἄγγελον· Κατὰ τί γνώσομαι τοῦτο; ἐγὼ γάρ εἰμι πρεσβύτης καὶ ἡ γυνή μου προβεβηκυῖα ἐν ταῖς ἡμέραις αὐτῆς."
+  },
+  {
+   "ref": "PHM 1:9",
+   "form": "πρεσβύτης",
+   "morph": "N-NSM",
+   "gloss_en": "old man",
+   "gloss_ja": "老人",
+   "verse": "διὰ τὴν ἀγάπην μᾶλλον παρακαλῶ, τοιοῦτος ὢν ὡς Παῦλος πρεσβύτης νυνὶ δὲ καὶ δέσμιος Χριστοῦ Ἰησοῦ"
+  },
+  {
+   "ref": "TIT 2:2",
+   "form": "πρεσβύτας",
+   "morph": "N-APM",
+   "gloss_en": "older men",
+   "gloss_ja": "老人",
+   "verse": "πρεσβύτας νηφαλίους εἶναι, σεμνούς, σώφρονας, ὑγιαίνοντας τῇ πίστει, τῇ ἀγάπῃ, τῇ ὑπομονῇ."
+  }
+ ],
+ "lxx": {
+  "total": 45,
+  "works": {
+   "Genesis": 2,
+   "Numeri": 1,
+   "Deuteronomium": 2,
+   "Josue": 1,
+   "Judices": 4,
+   "Regnorum i": 4,
+   "Regnorum iii": 3,
+   "Regnorum iv": 1,
+   "Paralipomenon i sive Chronicon i": 1,
+   "Esdras i": 1,
+   "Tobias": 1,
+   "Machabaeorum ii": 1,
+   "Machabaeorum iv": 2,
+   "Job": 2,
+   "Sapientia Salomonis": 1,
+   "Psalmi Salomonis": 2,
+   "Isaias": 4,
+   "Jeremias": 1,
+   "Baruch": 1,
+   "Threni seu Lamentationes": 3,
+   "Susanna": 7
+  },
+  "representatives": [
+   {
+    "work_code": "SUS",
+    "work_ja": "スザンナ（Th）",
+    "work_src": "Susanna",
+    "ref": "24",
+    "form": "πρεσβῦται",
+    "postag": "n-p---mn-",
+    "sentence": "καὶ ἀνεβόησε φωνῇ μεγάλῃ Σουσάννα, ἐβόησαν δὲ καὶ οἱ δύο πρεσβῦται κατέναντι αὐτῆς."
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "19.20",
+    "form": "πρεσβύτης",
+    "postag": "n-s---mn-",
+    "sentence": "καὶ εἶπεν ὁ ἀνὴρ πρεσβύτης ·"
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "2.22",
+    "form": "πρεσβύτης",
+    "postag": "n-s---mn-",
+    "sentence": "καὶ Ἡλὶ πρεσβύτης σφόδρα ·"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "3.5",
+    "form": "πρεσβύτην",
+    "postag": "n-s---ma-",
+    "sentence": "πρσκόψει τὸ παιδίον πρὸς τὸν πρεσβύτην, ὁ ἄτιμος πρὸς τὸν ἔντιμον."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "13.25",
+    "form": "πρεσβύτης",
+    "postag": "n-s---mn-",
+    "sentence": "καὶ εἰσῆλθον καὶ ἐλάλησαν ἐν τῇ πόλει, οὗ ὁ προφήτης ὁ πρεσβύτης κατῴκει ἐν αὐτῇ."
+   },
+   {
+    "work_code": "LAM",
+    "work_ja": "哀歌",
+    "work_src": "Threni seu Lamentationes",
+    "ref": "4.16",
+    "form": "πρεσβύτας",
+    "postag": "n-p---ma-",
+    "sentence": "πρόσωπον ἱερέων οὐκ ἔλαβον, πρεσβύτας οὐκ ἠλέησαν."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "43.26",
+    "form": "πρεσβύτης",
+    "postag": "n-s---mn-",
+    "sentence": "εἰ ὑγιαίνει ὁ πατὴρ ὑμῶν ὁ πρεσβύτης, ὃν εἴπατε;"
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "32.25",
+    "form": "πρεσβύτου",
+    "postag": "n-s---mg-",
+    "sentence": "νεανίσκος σὺν παρθένῳ, θηλάζων μετὰ καθεστηκότος πρεσβύτου."
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "5.6",
+    "form": "πρεσβῦτα",
+    "postag": "n-s---mv-",
+    "sentence": "ἐγὼ πρὶν ἄρξασθαι τῶν κατὰ σοῦ βασάνων, ὦ πρεσβῦτα, συμβουλεύσαιμ’ ἄν σοι ταῦτα, ὅπως ἀπογευσάμενος τῶν ὑείων σώζοιο ·"
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "29.8",
+    "form": "πρεσβῦται",
+    "postag": "n-p---mn-",
+    "sentence": "ἰδόντες με νεανίσκοι ἐκρύβησαν, πρεσβῦται δὲ πάντες ἔστησαν ·"
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "17.11",
+    "form": "πρεσβύτην",
+    "postag": "n-s---ma-",
+    "sentence": "ἠρήμωσεν ὁ ἄνομος τὴν γῆν ἡμῶν ἀπὸ ἐνοικούντων αὐτήν, ἠφάνισαν νέον καὶ πρεσβύτην καὶ τέκνα αὐτῶν ἅμα ·"
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "10.31",
+    "form": "πρεσβύτης",
+    "postag": "n-s---mn-",
+    "sentence": "μὴ ἐγκαταλίπῃς ἡμᾶς, οὗ ἕνεκεν ἦσθα μεθ’ ἡμῶν ἐν τῇ ἐρήμῳ, καὶ ἔσῃ ἐν ἡμῖν πρεσβύτης ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 3,
+  "works": {
+   "Hermas, Pastor": 1,
+   "Martyrdom of Polycarp": 2
+  },
+  "representatives": [
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "7.2",
+    "form": "πρεσβύτην",
+    "postag": "n-s---ma-",
+    "sentence": "ἀκούσας οὖν παρόντας αὐτούς, καταβὰς διελέχθη αὐτοῖς, θαυμαζόντων τῶν παρόντων τὴν ἡλικίαν αὐτοῦ καὶ τὸ εὐσταθές, καὶ εἰ τοσαύτη σπουδὴ ἦν τοῦ συλληφθῆναι τοιοῦτον πρεσβύτην ἄνδρα."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "13.1.10",
+    "form": "πρεσβύτας",
+    "postag": "n-p---ma-",
+    "sentence": "χήραις ὑπηρετεῖν, ὀρφανοὺς καὶ ὑστερουμένους ἐπισκέπτεσθαι, ἐξ ἀναγκῶν λυτροῦσθαι τοὺς δούλους τοῦ θεοῦ, φιλόξενον εἶναι ( ἐν γὰρ τῇ φιλοξενίᾳ εὑρίσκεται ἀγαθοποίησίς ποτε ), μηδενὶ ἀντιτάσσεσθαι, ἡσύχιον εἶναι, ἐνδεέστερον γίνεσθαι πάντων ἀνθρώπων, πρεσβύτας σέβεσθαι, δικαιοσύνην ἀσκεῖν, ἀδελφότητα συντηρεῖν, ὕβριν ὑποφέρειν, μακρόθυμον εἶναι, μνησικακίαν μὴ ἔχειν, κάμνοντας τῇ ψυχῇ παρακαλεῖν, ἐσκανδαλισμένους ἀπὸ τῆς πίστεως μὴ ἀποβάλλεσθαι, ἀλλ’ ἐπιστρέφειν καὶ εὐθύμους ποιεῖν, ἁμαρτάνοντας νουθετεῖν, χρεώστας μὴ θλίβειν καὶ ἐνδεεῖς, καὶ εἴ τινα τούτοις ὅμοιά ἐστι."
+   },
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "7.3",
+    "form": "πρεσβύτην",
+    "postag": "n-s---ma-",
+    "sentence": "τῶν δὲ ἐπιτρεψάντων, σταθεὶς προσηύξατο πλήρης ὢν τῆς χάριτος τοῦ θεοῦ οὕτως ὥστε ἐπὶ δύο ὥρας μὴ δύνασθαι σιγῆσαι καὶ ἐκπλήττεσθαι τοὺς ἀκούοντας, πολλούς τε μετανοεῖν ἐπὶ τῷ ἐληλυθέναι ἐπὶ τοιοῦτον θεοπρεπῆ πρεσβύτην."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3   πρεσβύτης, -ου  prose form of πρέσβυς, q.v.,    [in LXX chiefly for זָקֵן, Ge 25:8, al.; also (= πρεσβευτής), II Ch 32:31 B1 (מֵלִיץ), I Mac 14:22 S, al. (v. Thackeray, Gr., 97);]      an old man: Lk 1:18, Tit 2:2, Phm 9 (R, txt., but v. infr.).     As in LXX, also = πρεσβευτής, an ambassador: Phm 9 (R, mg., v. Lft. and ICC, in l.).†"
+}

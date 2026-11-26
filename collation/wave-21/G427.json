@@ -1,0 +1,251 @@
+{
+ "strong": "G427",
+ "lemma": "ἄνευ",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1PE 4:9",
+   "form": "ἄνευ",
+   "morph": "PREP",
+   "gloss_en": "without",
+   "gloss_ja": "〜なしに",
+   "verse": "φιλόξενοι εἰς ἀλλήλους ἄνευ γογγυσμοῦ·"
+  },
+  {
+   "ref": "1PE 3:1",
+   "form": "ἄνευ",
+   "morph": "PREP",
+   "gloss_en": "without",
+   "gloss_ja": "〜なしに",
+   "verse": "Ὁμοίως γυναῖκες ὑποτασσόμεναι τοῖς ἰδίοις ἀνδράσιν, ἵνα καὶ εἴ τινες ἀπειθοῦσιν τῷ λόγῳ διὰ τῆς τῶν γυναικῶν ἀναστροφῆς ἄνευ λόγου κερδηθήσονται"
+  },
+  {
+   "ref": "MAT 10:29",
+   "form": "ἄνευ",
+   "morph": "PREP",
+   "gloss_en": "apart from",
+   "gloss_ja": "〜なしに",
+   "verse": "οὐχὶ δύο στρουθία ἀσσαρίου πωλεῖται; καὶ ἓν ἐξ αὐτῶν οὐ πεσεῖται ἐπὶ τὴν γῆν ἄνευ τοῦ πατρὸς ὑμῶν."
+  }
+ ],
+ "lxx": {
+  "total": 48,
+  "works": {
+   "Genesis": 2,
+   "Exodus": 1,
+   "Regnorum i": 1,
+   "Regnorum iv": 1,
+   "Esther": 1,
+   "Machabaeorum i": 1,
+   "Machabaeorum ii": 1,
+   "Machabaeorum iii": 3,
+   "Psalmi": 3,
+   "Job": 9,
+   "Sapientia Salomonis": 2,
+   "Ecclesiasticus sive Siracides": 6,
+   "Psalmi Salomonis": 2,
+   "Amos": 2,
+   "Isaias": 5,
+   "Jeremias": 1,
+   "Epistula Jeremiae": 1,
+   "Daniel": 4,
+   "Bel et Draco": 2
+  },
+  "representatives": [
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "6.6",
+    "form": "ἄνευ",
+    "postag": "r--------",
+    "sentence": "εἰ βρωθήσεται ἄρτος ἄνευ ἁλός;"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "32.19",
+    "form": "ἄνευ",
+    "postag": "r--------",
+    "sentence": "ἄνευ βουλῆς μηθὲν ποιήσῃς καὶ ἐν τῷ ποιῆσαί σε μὴ μεταμελοῦ."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "10.15",
+    "form": "ἄνευ",
+    "postag": "r--------",
+    "sentence": "ἢ ὑψωθήσεται πρίων ἄνευ τοῦ ἕλκοντος αὐτόν;"
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "2.34",
+    "form": "ἄνευ",
+    "postag": "r--------",
+    "sentence": "ἑώρακας ἕως ὅτου ἐτμήθη λίθος ἐξ ὄρους ἄνευ χειρῶν καὶ ἐπάταξε τὴν εἰκόνα ἐπὶ τοὺς πόδας τοὺς σιδηροῦς καὶ ὀστρακίνους καὶ κατήλεσεν αὐτά."
+   },
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "4.5",
+    "form": "ἄνευ",
+    "postag": "r--------",
+    "sentence": "ἤγετο γὰρ γεραιῶν πλῆθος πολιᾷ πεπυκασμένων, τὴν ἐκ τοῦ γήρως νωθρότητα ποδῶν ἐπίκυφον ἀνατροπῆς ὁρμῇ βιαίας ἁπάσης αἰδοῦς ἄνευ πρὸς ὀξεῖαν καταχρωμένων πορείαν."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "58.5",
+    "form": "ἄνευ",
+    "postag": "r--------",
+    "sentence": "ἄνευ ἀνομίας ἔδραμον καὶ κατεύθυνα ·"
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "41.16",
+    "form": "ἄνευ",
+    "postag": "r--------",
+    "sentence": "ἄνευ τοῦ Θεοῦ οὐκ ἀποκριθήσεται τὸ σωτήριον Φαραώ."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "19.13",
+    "form": "ἄνευ",
+    "postag": "r--------",
+    "sentence": "καὶ αἱ τιμωρίαι τοῖς ἀμαρτωλοῖς ἐπῆλθον οὐκ ἄνευ τῶν προγεγονότων τεκμηρίων τῇ βίᾳ τῶν κεραυνῶν ·"
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "5.13",
+    "form": "ἄνευ",
+    "postag": "r--------",
+    "sentence": "ἡ χρηστότης ἀνθρώπου ἐν φειδοῖ καὶ ἡ αὔριον, καὶ ἐὰν δευτερώσῃ ἄνευ γογγυσμοῦ, καὶ τοῦτο θαυμάσειας."
+   },
+   {
+    "work_code": "AMO",
+    "work_ja": "アモス書",
+    "work_src": "Amos",
+    "ref": "3.5",
+    "form": "ἄνευ",
+    "postag": "r--------",
+    "sentence": "εἰ πεσεῖται ὄρνεον ἐπὶ γῆς γῆς ἄνευ ἰξευτοῦ;"
+   },
+   {
+    "work_code": "BEL",
+    "work_ja": "ベルと竜（Th）",
+    "work_src": "Bel et Draco",
+    "ref": "26",
+    "form": "ἄνευ",
+    "postag": "r--------",
+    "sentence": "σὺ δέ, βασιλεῦ, δός μοι ἐξουσίαν, καὶ ἀποκτενῶ τὸν δράκοντα ἄνευ μαχαίρας καὶ ράβδου."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "21.11",
+    "form": "ἄνευ",
+    "postag": "r--------",
+    "sentence": "ἐὰν δὲ τὰ τρία ταῦτα μὴ ποιήσῃ αὐτῇ, ἐξελεύσεται δωρεὰν ἄνευ ἀργυρίου."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 12,
+  "works": {
+   "Barnabas": 2,
+   "To Diognetus": 4,
+   "Ignatius, Letters": 6
+  },
+  "representatives": [
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "2.7.1",
+    "form": "ἄνευ",
+    "postag": "r--------",
+    "sentence": "οὕτως μη-δὲ ὑμεῖς ἄνευ τοῦ ἐπισκόπου καὶ τῶν πρεσβυτέρων μηδὲν πράσσετε ·"
+   },
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "12",
+    "form": "ἄνευ",
+    "postag": "r--------",
+    "sentence": "οὐ-δὲ γὰρ ζωὴ ἄνευ γνώσεως οὐ-δὲ γνῶσις ἀσφαλὴς ἄνευ ζωῆς ἀληθοῦς ·"
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "19.6",
+    "form": "ἄνευ",
+    "postag": "r--------",
+    "sentence": "τὰ συμβαίνοντά σοι ἐνεργήματα ὡς ἀγαθὰ προσδέξῃ, εἰδώς, ὅτι ἄνευ θεοῦ οὐδὲν γίνεται."
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "7.4.1",
+    "form": "ἄνευ",
+    "postag": "r--------",
+    "sentence": "μηδὲν ἄνευ γνώμης σου γινέσθω μη-δὲ σὺ ἄνευ θεοῦ τι πρᾶσσε, ὅπερ οὐ-δὲ πράσσεις ·"
+   },
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "12",
+    "form": "ἄνευ",
+    "postag": "r--------",
+    "sentence": "οὐ-δὲ γὰρ ζωὴ ἄνευ γνώσεως οὐ-δὲ γνῶσις ἀσφαλὴς ἄνευ ζωῆς ἀληθοῦς ·"
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "2.6",
+    "form": "ἄνευ",
+    "postag": "r--------",
+    "sentence": "ταῦτα οὖν κατήργησεν, ἵνα ὁ καινὸς νόμος τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ, ἄνευ ζυγοῦ ἀνάγκης ὤν, μὴ ἀνθρωποποίητον ἔχῃ τὴν προσφοράν."
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "7.4.1",
+    "form": "ἄνευ",
+    "postag": "r--------",
+    "sentence": "μηδὲν ἄνευ γνώμης σου γινέσθω μη-δὲ σὺ ἄνευ θεοῦ τι πρᾶσσε, ὅπερ οὐ-δὲ πράσσεις ·"
+   },
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "12",
+    "form": "ἄνευ",
+    "postag": "r--------",
+    "sentence": "ἣν δύναμιν ἐνιδὼν ὁ ἀπόστολος τήν τε ἄνευ ἀληθείας προστάγματος εἰς ζωὴν ἀσκουμένην γνῶσιν μεμφόμενος λέγει ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3   ἄνευ,     prep. c. gen. (rarer than χωρίς, q.v.; cf. Ellic. on Eph 2:12; MM, VGT, 42),     without: Mt 10:29, I Pe 3:1 4:9.†"
+}

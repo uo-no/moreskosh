@@ -1,0 +1,67 @@
+{
+ "strong": "G3188",
+ "lemma": "μέλαν",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": "μελας",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2CO 3:3",
+   "form": "μέλανι",
+   "morph": "A-DSN",
+   "gloss_en": "ink",
+   "gloss_ja": "インク",
+   "verse": "φανερούμενοι ὅτι ἐστὲ ἐπιστολὴ Χριστοῦ διακονηθεῖσα ὑφ’ ἡμῶν, ἐγγεγραμμένη οὐ μέλανι ἀλλὰ πνεύματι θεοῦ ζῶντος, οὐκ ἐν πλαξὶν λιθίναις ἀλλ’ ἐν πλαξὶν καρδίαις σαρκίναις."
+  },
+  {
+   "ref": "2JN 1:12",
+   "form": "μέλανος",
+   "morph": "A-GSN",
+   "gloss_en": "ink",
+   "gloss_ja": "インク",
+   "verse": "Πολλὰ ἔχων ὑμῖν γράφειν οὐκ ἐβουλήθην διὰ χάρτου καὶ μέλανος, ἀλλὰ ἐλπίζω γενέσθαι πρὸς ὑμᾶς καὶ στόμα πρὸς στόμα λαλῆσαι, ἵνα ἡ χαρὰ ὑμῶν πεπληρωμένη ᾖ."
+  },
+  {
+   "ref": "3JN 1:13",
+   "form": "μέλανος",
+   "morph": "A-GSN",
+   "gloss_en": "ink",
+   "gloss_ja": "インク",
+   "verse": "Πολλὰ εἶχον γράψαι σοι, ἀλλ’ οὐ θέλω διὰ μέλανος καὶ καλάμου σοι γράφειν·"
+  }
+ ],
+ "lxx": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "Barnabas": 1,
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "20.1",
+    "form": "μέλανος",
+    "postag": "a-s---mg-",
+    "sentence": "ἡ δὲ τοῦ μέλανος ὁδός ἐστιν σκολιὰ καὶ κατάρας μεστή."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.19.1",
+    "form": "μέλανος",
+    "postag": "a-s---ng-",
+    "sentence": "ἐκ τοῦ πρώτου ὄρους τοῦ μέλανος οἱ πιστεύσαντες τοιοῦτοί εἰσιν ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3   μέλαν, τό, v.s. μέλας."
+}

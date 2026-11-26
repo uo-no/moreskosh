@@ -1,0 +1,67 @@
+{
+ "strong": "G4618",
+ "lemma": "σιτευτός",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 15:23",
+   "form": "σιτευτόν",
+   "morph": "A-ASM",
+   "gloss_en": "fattened",
+   "gloss_ja": "肥えた",
+   "verse": "καὶ φέρετε τὸν μόσχον τὸν σιτευτόν, θύσατε, καὶ φαγόντες εὐφρανθῶμεν,"
+  },
+  {
+   "ref": "LUK 15:27",
+   "form": "σιτευτόν",
+   "morph": "A-ASM",
+   "gloss_en": "fattened",
+   "gloss_ja": "肥えた",
+   "verse": "ὁ δὲ εἶπεν αὐτῷ ὅτι Ὁ ἀδελφός σου ἥκει, καὶ ἔθυσεν ὁ πατήρ σου τὸν μόσχον τὸν σιτευτόν, ὅτι ὑγιαίνοντα αὐτὸν ἀπέλαβεν."
+  },
+  {
+   "ref": "LUK 15:30",
+   "form": "σιτευτὸν",
+   "morph": "A-ASM",
+   "gloss_en": "fattened",
+   "gloss_ja": "肥えた",
+   "verse": "ὅτε δὲ ὁ υἱός σου οὗτος ὁ καταφαγών σου τὸν βίον μετὰ πορνῶν ἦλθεν, ἔθυσας αὐτῷ τὸν σιτευτὸν μόσχον."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Regnorum iii": 1,
+   "Jeremias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "5.3",
+    "form": "σιτευτά",
+    "postag": "a-p---nn-",
+    "sentence": "καὶ δέκα μόσχοι ἐκλεκτοὶ καὶ εἴκοσι βόες νομάδες καὶ ἑκατὸν πρόβατα ἐκτὸς ἐλάφων καὶ δορκάδων ἐκλεκτῶν, σιτευτά ·"
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "26.21",
+    "form": "σιτευτοὶ",
+    "postag": "a-p---mn-",
+    "sentence": "καὶ οἱ μισθωτοὶ αὐτῆς ἐν αὐτῇ ὥσπερ μόσχοι σιτευτοὶ τρεφόμενοι ἐν αὐτῇ, διότι καὶ αὐτοὶ ἀπεστράφησαν καὶ ἔφυγον ὁμοθυμαδόν, οὐκ ἔστησαν, ὅτι ἡμέρα ἀπωλείας ἦλθεν ἐπ’ αὐτοὺς καὶ καιρὸς ἐκδικήσεως αὐτῶν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "3   σιτευτός, -ή, -όν    (< σιτεύω, to feed, fatten),    [in LXX: III Ki 4:23 (אָבַס), etc. ;]     fattened: Lk 15:23, 27, 30.†"
+}

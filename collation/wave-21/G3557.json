@@ -1,0 +1,79 @@
+{
+ "strong": "G3557",
+ "lemma": "νοσφίζομαι",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": "νοσφιζω",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 5:2",
+   "form": "ἐνοσφίσατο",
+   "morph": "V-AMI-3S",
+   "gloss_en": "kept back",
+   "gloss_ja": "着服する",
+   "verse": "καὶ ἐνοσφίσατο ἀπὸ τῆς τιμῆς, συνειδυίης καὶ τῆς γυναικός, καὶ ἐνέγκας μέρος τι παρὰ τοὺς πόδας τῶν ἀποστόλων ἔθηκεν."
+  },
+  {
+   "ref": "ACT 5:3",
+   "form": "νοσφίσασθαι",
+   "morph": "V-AMN",
+   "gloss_en": "keep back",
+   "gloss_ja": "着服する",
+   "verse": "εἶπεν δὲ ὁ Πέτρος· Ἁνανία, διὰ τί ἐπλήρωσεν ὁ Σατανᾶς τὴν καρδίαν σου, ψεύσασθαί σε τὸ πνεῦμα τὸ ἅγιον καὶ νοσφίσασθαι ἀπὸ τῆς τιμῆς τοῦ χωρίου;"
+  },
+  {
+   "ref": "TIT 2:10",
+   "form": "νοσφιζομένους",
+   "morph": "V-PMP-APM",
+   "gloss_en": "pilfering",
+   "gloss_ja": "着服する",
+   "verse": "μὴ νοσφιζομένους, ἀλλὰ πᾶσαν πίστιν ἐνδεικνυμένους ἀγαθήν, ἵνα τὴν διδασκαλίαν τὴν τοῦ σωτῆρος ἡμῶν θεοῦ κοσμῶσιν ἐν πᾶσιν."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Josue": 1,
+   "Machabaeorum ii": 1
+  },
+  "representatives": [
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "7.1",
+    "form": "ἐνοσφίσαντο",
+    "postag": "v3paim---",
+    "sentence": "καὶ ἐπλημμέλησαν οἱ υἱοὶ Ἰσραὴλ πλημμέλειαν μεγάλην καὶ ἐνοσφίσαντο ἀπὸ τοῦ ἀναθέματος ·"
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "4.32",
+    "form": "νοσφισάμενος",
+    "postag": "v-sapmmn-",
+    "sentence": "νομίσας δὲ ὁ Μενέλαος εἰληφέναι καιρὸν εὐφυῆ, χρυσώματά τινα τῶν τοῦ ἱεροῦ νοσφισάμενος ἐχαρίσατο τῷ Ἀνδρονίκῳ καὶ ἕτερα ἐτύγχανε πεπρακὼς εἴς τε Τύρον καὶ τὰς κύκλῳ πόλεις."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.25.2",
+    "form": "νοσφισάμενοι",
+    "postag": "v-papmmn-",
+    "sentence": "ἀπόστολοι καὶ διδάσκαλοι οἱ κηρύξαντες εἰς ὅλον τὸν κόσμον καὶ οἱ διδάξαντες σεμνῶς καὶ ἁγνῶς τὸν λόγον τοῦ κυρίου καὶ μηδὲν ὅλως νοσφισάμενοι εἰς ἐπιθυμίαν πονηράν, ἀλλὰ πάντοτε ἐν δικαιοσύνῃ καὶ ἀληθείᾳ πορευθέντες, καθὼς καὶ παρέλαβον τὸ πνεῦμα τὸ ἅγιον."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3 νοσφίζω    (< νόσφι, apart, aside),   [in LXX: Jos 7:1 (לקח), II Mac 4:32*;]      in Hom., as depon., to turn away (from), abandon.   After Hom., in act., to set apart, remove. Mid., to set apart for oneself, peculate, purloin: absol., Tit 2:10 (for ex. in π., v. MM, xvii); seq. ἀπό, Ac 5:2, 3.†"
+}

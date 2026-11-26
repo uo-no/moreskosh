@@ -1,0 +1,97 @@
+{
+ "strong": "G3633",
+ "lemma": "οἶμαι",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": "οιομαι",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JAS 1:7",
+   "form": "οἰέσθω",
+   "morph": "V-PNM-3S",
+   "gloss_en": "suppose",
+   "gloss_ja": "思う",
+   "verse": "μὴ γὰρ οἰέσθω ὁ ἄνθρωπος ἐκεῖνος ὅτι λήμψεταί τι παρὰ τοῦ κυρίου"
+  },
+  {
+   "ref": "JHN 21:25",
+   "form": "οἶμαι",
+   "morph": "V-PNI-1S",
+   "gloss_en": "suppose",
+   "gloss_ja": "思う",
+   "verse": "ἔστιν δὲ καὶ ἄλλα πολλὰ ἃ ἐποίησεν ὁ Ἰησοῦς, ἅτινα ἐὰν γράφηται καθ’ ἕν, οὐδ’ αὐτὸν οἶμαι τὸν κόσμον χωρήσειν τὰ γραφόμενα βιβλία."
+  },
+  {
+   "ref": "PHP 1:17",
+   "form": "οἰόμενοι",
+   "morph": "V-PNP-NPM",
+   "gloss_en": "thinking",
+   "gloss_ja": "思う",
+   "verse": "οἱ δὲ ἐξ ἐριθείας τὸν Χριστὸν καταγγέλλουσιν, οὐχ ἁγνῶς, οἰόμενοι θλῖψιν ἐγείρειν τοῖς δεσμοῖς μου."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Machabaeorum i": 1,
+   "Machabaeorum iv": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "5.61",
+    "form": "οἰόμενοι",
+    "postag": "v-pppmmn-",
+    "sentence": "καὶ ἐγενήθη τροπὴ μεγάλη ἐν τῷ λαῷ Ἰσραήλ, ὅτι οὐκ ἤκουσαν Ἰούδα καὶ τῶν ἀδελφῶν αὐτοῦ, οἰόμενοι ἀνδραγαθῆσαι ·"
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "1.33",
+    "form": "οἶμαι",
+    "postag": "v1spim---",
+    "sentence": "ἐγὼ μὲν οἶμαι."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 3,
+  "works": {
+   "To Diognetus": 3
+  },
+  "representatives": [
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "2",
+    "form": "οἰόμενοι",
+    "postag": "v-pppmmn-",
+    "sentence": "ὑμεῖς γὰρ αἰνεῖν νομίζοντες καὶ οἰόμενοι, οὐ πολὺ πλέον αὐτῶν καταφρονεῖτε;"
+   },
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "3",
+    "form": "οἶμαι",
+    "postag": "v1spim---",
+    "sentence": "ἑξῆς δὲ περὶ τοῦ μὴ κατὰ τὰ αὐτὰ Ἰουδαίοις θεοσεβεῖν αὐτοὺς οἶμαι σε μάλιστα ποθεῖν ἀκοῦσαι."
+   },
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "3",
+    "form": "οἰόμενοι",
+    "postag": "v-pppmmn-",
+    "sentence": "οἱ δέ γε θυσίας αὐτῷ δι’ αἵματος καὶ κνίσης καὶ ὁλοκαυτωμάτων ἐπιτελεῖν οἰόμενοι καὶ ταύταις ταῖς τιμαῖς αὐτὸν γεραίρειν, οὐδέν μοι δοκοῦσι διαφέρειν τῶν εἰς τὰ κωφὰ τὴν αὐτὴν ἐνδεικνυμένων φιλοτιμίαν ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3   οἴομαι, οἶμαι,    [in LXX for הִנֵּה, Ge 37:7, al.;]      to suppose, expect, imagine; c. acc. et inf., Jo 21:25; c. inf., Phl 1:17; seq. ὅτι, Ja 1:7.†   SYN.: v.s. ἡγέομαι."
+}

@@ -1,0 +1,98 @@
+{
+ "strong": "G327",
+ "lemma": "ἀναζητέω",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 11:25",
+   "form": "ἀναζητῆσαι",
+   "morph": "V-AAN",
+   "gloss_en": "look for",
+   "gloss_ja": "探し求める",
+   "verse": "ἐξῆλθεν δὲ εἰς Ταρσὸν ἀναζητῆσαι Σαῦλον,"
+  },
+  {
+   "ref": "LUK 2:44",
+   "form": "ἀνεζήτουν",
+   "morph": "V-IAI-3P",
+   "gloss_en": "looking for",
+   "gloss_ja": "探し求める",
+   "verse": "νομίσαντες δὲ αὐτὸν εἶναι ἐν τῇ συνοδίᾳ ἦλθον ἡμέρας ὁδὸν καὶ ἀνεζήτουν αὐτὸν ἐν τοῖς συγγενεῦσιν καὶ τοῖς γνωστοῖς,"
+  },
+  {
+   "ref": "LUK 2:45",
+   "form": "ἀναζητοῦντες",
+   "morph": "V-PAP-NPM",
+   "gloss_en": "search for",
+   "gloss_ja": "探し求める",
+   "verse": "καὶ μὴ εὑρόντες ὑπέστρεψαν εἰς Ἰερουσαλὴμ ἀναζητοῦντες αὐτόν."
+  }
+ ],
+ "lxx": {
+  "total": 4,
+  "works": {
+   "Machabaeorum ii": 1,
+   "Job": 2,
+   "Ecclesiasticus sive Siracides": 1
+  },
+  "representatives": [
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "10.6",
+    "form": "ἀνεζήτησας",
+    "postag": "v2saia---",
+    "sentence": "ὅτι ἀνεζήτησας τὴν ἀνομίαν μου καὶ τὰς ἁμαρτίας μου ἐξιχνίασας;"
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "13.21",
+    "form": "ἀνεζητήθη",
+    "postag": "v3saip---",
+    "sentence": "ἀνεζητήθη δὲ καὶ κατελήφθη καὶ κατεκλείσθη."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "26.20",
+    "form": "ἀναζητήσας",
+    "postag": "v-sapamn-",
+    "sentence": "ἀναζητήσας παντὸς πεδίου εὔγειον κλῆρον σπεῖρε τὰ ἴδια σπέρματα πεποιθὼς τῇ εὐγενείᾳ σου ·"
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "3.4",
+    "form": "ἀναζητήσαι",
+    "postag": "v3saoa---",
+    "sentence": "ἡ νὺξ ἐκείνη εἴη σκότος, καὶ μὴ ἀναζητήσαι αὐτὴν ὁ Κύριος ἄνωθεν, μη-δὲ ἔλθοι εἰς αὐτὴν φέγγος ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Martyrdom of Polycarp": 1
+  },
+  "representatives": [
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "22.3",
+    "form": "ἀναζητήσας",
+    "postag": "v-sapamn-",
+    "sentence": "ἐγὼ δὲ πάλιν Πιόνιος ἐκ τοῦ προγεγραμμένου ἔγραψα ἀναζητήσας αὐτά, κατὰ ἀποκάλυψιν φανερώσαντός μοι τοῦ μακαρίου Πολυκάρπου, καθὼς δηλώσω ἐν τῷ καθεξῆς, συναγαγὼν αὐτὰ ἤδη σχεδὸν ἐκ τοῦ χρόνου κεκμηκότα, ἵνα κα-κἀμὲ συναγάγῃ ὁ κύριος Ἰησοῦς Χριστὸς μετὰ τῶν ἐκλεκτῶν αὐτοῦ εἰς τὴν οὐράνιον βασιλείαν αὐτοῦ, ᾧ ἡ δόξα σὺν τῷ πατρὶ καὶ ἁγίῳ πνεύματι εἰς τοὺς αἰῶνας τῶν αἰώνων."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3   ἀνα-ζητέω, -ῶ     [in LXX: Jb 3:4 (דרשׁ), Jb 10:6 (בּקשׁ pi.), II Mac 13:21*;]    to look for or seek carefully (\"specially of searching for human beings, with an implication of difficulty\": MM, VGT, s.v.): Lk 2:44, 45, Ac 11:25.†"
+}

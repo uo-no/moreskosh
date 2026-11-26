@@ -1,0 +1,67 @@
+{
+ "strong": "G424",
+ "lemma": "ἀνέρχομαι",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "GAL 1:17",
+   "form": "ἀνῆλθον",
+   "morph": "V-2AAI-1S",
+   "gloss_en": "go up",
+   "gloss_ja": "上る",
+   "verse": "οὐδὲ ἀνῆλθον εἰς Ἱεροσόλυμα πρὸς τοὺς πρὸ ἐμοῦ ἀποστόλους, ἀλλὰ ἀπῆλθον εἰς Ἀραβίαν, καὶ πάλιν ὑπέστρεψα εἰς Δαμασκόν."
+  },
+  {
+   "ref": "GAL 1:18",
+   "form": "ἀνῆλθον",
+   "morph": "V-2AAI-1S",
+   "gloss_en": "went up",
+   "gloss_ja": "上る",
+   "verse": "Ἔπειτα μετὰ ἔτη τρία ἀνῆλθον εἰς Ἱεροσόλυμα ἱστορῆσαι Κηφᾶν, καὶ ἐπέμεινα πρὸς αὐτὸν ἡμέρας δεκαπέντε·"
+  },
+  {
+   "ref": "JHN 6:3",
+   "form": "ἀνῆλθεν",
+   "morph": "V-2AAI-3S",
+   "gloss_en": "went up",
+   "gloss_ja": "上る",
+   "verse": "ἀνῆλθεν δὲ εἰς τὸ ὄρος Ἰησοῦς, καὶ ἐκεῖ ἐκάθητο μετὰ τῶν μαθητῶν αὐτοῦ."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Regnorum iii": 1,
+   "Machabaeorum iv": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "13.12",
+    "form": "ἀνῆλθεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ δεικνύουσιν αὐτῷ οἱ υἱοὶ αὐτοῦ τὴν ὁδόν, ἐν ᾗ ἀνῆλθεν ὁ ἄνθρωπος τοῦ Θεοῦ ὁ ἐλθὼν ἐξ Ἰούδα."
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "4.10",
+    "form": "ἀνιόντος",
+    "postag": "v-sppamg-",
+    "sentence": "τῶν δέ ἱερέων μετά γυναικῶν καὶ παιδίων ἐν τῷ ἱερῷ ἱκετευσάντων τὸν Θεὸν ὑπερασπίσαι τοῦ ἱεροῦ καταφρονουμένου τόπου ἀνιόντος τε μετά καθωπλισμένης τῆς στρατιᾶς τοῦ Ἀπολλωνίου πρὸς τὴν τῶν χρημάτων ἁρπαγήν, οὐρανόθεν ἔφιπποι προὐφάνησαν ἄγγελοι περιαστράπτοντες τοῖς ὅπλοις καὶ πολὺν αὐτοῖς φόβον τε καὶ τρόμον ἐνιέντες."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "5   ἀν-έρχομαι,    [in LXX: III Ki 13:12 (הָלַךְ)*;]    to go up: Jo 6:3, Ga 1:17, 18 (cf. ἐπανέρχ-; and on its use of \"going up\" to the capital, MM, VGT, s.v.).†"
+}
