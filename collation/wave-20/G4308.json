@@ -1,0 +1,96 @@
+{
+ "strong": "G4308",
+ "lemma": "προοράω",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 2:25",
+   "form": "Προορώμην",
+   "morph": "V-IMI-1S",
+   "gloss_en": "saw",
+   "gloss_ja": "あらかじめ見る",
+   "verse": "Δαυὶδ γὰρ λέγει εἰς αὐτόν· Προορώμην τὸν κύριον ἐνώπιόν μου διὰ παντός, ὅτι ἐκ δεξιῶν μού ἐστιν ἵνα μὴ σαλευθῶ."
+  },
+  {
+   "ref": "ACT 2:31",
+   "form": "προϊδὼν",
+   "morph": "V-2AAP-NSM",
+   "gloss_en": "foreseeing",
+   "gloss_ja": "あらかじめ見る",
+   "verse": "προϊδὼν ἐλάλησεν περὶ τῆς ἀναστάσεως τοῦ χριστοῦ ὅτι οὔτε ἐγκατελείφθη εἰς ᾅδην οὔτε ἡ σὰρξ αὐτοῦ εἶδεν διαφθοράν."
+  },
+  {
+   "ref": "ACT 21:29",
+   "form": "προεωρακότες",
+   "morph": "V-RAP-NPM",
+   "gloss_en": "previously seen",
+   "gloss_ja": "あらかじめ見る",
+   "verse": "ἦσαν γὰρ προεωρακότες Τρόφιμον τὸν Ἐφέσιον ἐν τῇ πόλει σὺν αὐτῷ, ὃν ἐνόμιζον ὅτι εἰς τὸ ἱερὸν εἰσήγαγεν ὁ Παῦλος."
+  },
+  {
+   "ref": "GAL 3:8",
+   "form": "προϊδοῦσα",
+   "morph": "V-2AAP-NSF",
+   "gloss_en": "foreseeing",
+   "gloss_ja": "あらかじめ見る",
+   "verse": "προϊδοῦσα δὲ ἡ γραφὴ ὅτι ἐκ πίστεως δικαιοῖ τὰ ἔθνη ὁ θεὸς προευηγγελίσατο τῷ Ἀβραὰμ ὅτι Ἐνευλογηθήσονται ἐν σοὶ πάντα τὰ ἔθνη."
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Genesis": 1,
+   "Psalmi": 2
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "15.8",
+    "form": "προωρώμην",
+    "postag": "v1siim---",
+    "sentence": "προωρώμην τὸν Κύριον ἐνώπιόν μου διαπαντός, ὅτι ἐκ δεξιῶν μού ἐστιν, ἵνα μὴ σαλευθῶ."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "37.18",
+    "form": "προεῖδον",
+    "postag": "v3paia---",
+    "sentence": "προεῖδον δὲ αὐτὸν μακρόθεν πρὸ τοῦ ἐγγίσαι αὐτὸν πρὸς αὐτοὺς καὶ ἐπονηρεύοντο τοῦ ἀποκτεῖναι αὐτόν."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "138.3",
+    "form": "προεῖδες",
+    "postag": "v2saia---",
+    "sentence": "τὴν τρίβον μου καὶ τὴν σχοῖνόν μου ἐξιχνίασας καὶ πάσας τὰς ὁδούς μου προεῖδες, ὅτι οὐκ ἔστι δόλος ἐν γλώσσῃ μου."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Ignatius, Letters": 1
+  },
+  "representatives": [
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "3.8.1",
+    "form": "προορῶν",
+    "postag": "v-sppamn-",
+    "sentence": "προορῶν τὰς ἐνέδρας τοῦ διαβόλου."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "5   προ-οράω, -ῶ,    [in LXX: Ps 15 (16):8) (שׁוה pi.), I Es 5:63 A*;]    to see before (as to place or time): c. acc., Ac 21:29. Mid., c. acc., seq. ἐνώπιόν μου, Ac 2:25(LXX).†"
+}

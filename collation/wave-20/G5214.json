@@ -1,0 +1,179 @@
+{
+ "strong": "G5214",
+ "lemma": "ὑμνέω",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 16:25",
+   "form": "ὕμνουν",
+   "morph": "V-IAI-3P",
+   "gloss_en": "singing hymns",
+   "gloss_ja": "賛美する",
+   "verse": "Κατὰ δὲ τὸ μεσονύκτιον Παῦλος καὶ Σιλᾶς προσευχόμενοι ὕμνουν τὸν θεόν, ἐπηκροῶντο δὲ αὐτῶν οἱ δέσμιοι·"
+  },
+  {
+   "ref": "HEB 2:12",
+   "form": "ὑμνήσω",
+   "morph": "V-FAI-1S",
+   "gloss_en": "sing ~ praise",
+   "gloss_ja": "賛美する",
+   "verse": "λέγων· Ἀπαγγελῶ τὸ ὄνομά σου τοῖς ἀδελφοῖς μου, ἐν μέσῳ ἐκκλησίας ὑμνήσω σε·"
+  },
+  {
+   "ref": "MAT 26:30",
+   "form": "ὑμνήσαντες",
+   "morph": "V-AAP-NPM",
+   "gloss_en": "sung a hymn",
+   "gloss_ja": "賛美する",
+   "verse": "καὶ ὑμνήσαντες ἐξῆλθον εἰς τὸ Ὄρος τῶν Ἐλαιῶν."
+  },
+  {
+   "ref": "MRK 14:26",
+   "form": "ὑμνήσαντες",
+   "morph": "V-AAP-NPM",
+   "gloss_en": "sung a hymn",
+   "gloss_ja": "賛美する",
+   "verse": "Καὶ ὑμνήσαντες ἐξῆλθον εἰς τὸ Ὄρος τῶν Ἐλαιῶν."
+  }
+ ],
+ "lxx": {
+  "total": 133,
+  "works": {
+   "Judices": 1,
+   "Paralipomenon i sive Chronicon i": 1,
+   "Paralipomenon ii sive Chronicon ii": 3,
+   "Esdras i": 2,
+   "Esther": 1,
+   "Judith": 1,
+   "Tobias": 3,
+   "Machabaeorum i": 2,
+   "Machabaeorum iv": 1,
+   "Psalmi": 3,
+   "Odae": 33,
+   "Proverbia": 2,
+   "Sapientia Salomonis": 1,
+   "Ecclesiasticus sive Siracides": 3,
+   "Isaias": 4,
+   "Daniel": 72
+  },
+  "representatives": [
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "3.57",
+    "form": "ὑμνεῖτε",
+    "postag": "v2ppma---",
+    "sentence": "ὑμνεῖτε καὶ ὑπερυψοῦτε αὐτὸν εἰς τοὺς αἰῶνας."
+   },
+   {
+    "work_code": "ODE",
+    "work_ja": "頌歌（オード）",
+    "work_src": "Odae",
+    "ref": "11.74",
+    "form": "ὑμνείτω",
+    "postag": "v3spma---",
+    "sentence": "ὑμνείτω καὶ ὑπερυψούτω αὐτὸν εἰς τοὺς αἰῶνας."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "12.5",
+    "form": "ὑμνήσατε",
+    "postag": "v2pama---",
+    "sentence": "ὑμνήσατε τὸ ὄνομα Κυρίου, ὅτι ὑψηλὰ ἐποίησεν ·"
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "29.30",
+    "form": "ὕμνουν",
+    "postag": "v3piia---",
+    "sentence": "καὶ ὕμνουν ἐν εὐφροσύνῃ καὶ ἔπεσον καὶ προσεκύνησαν."
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "12.6",
+    "form": "ὑμνεῖν",
+    "postag": "v--pna---",
+    "sentence": "τότε ἐκάλεσεν τοὺς δύο κρυπτῶς καὶ εἶπεν αὐτοῖς Τὸν θεὸν εὐλογεῖτε καὶ αὐτῷ ἐξομολογεῖσθε ἐνώπιον πάντων τῶν ζώντων ἃ ἐποίησεν μεθ’ ὑμῶν ἀγαθά, τοῦ εὐλογεῖν καὶ ὑμνεῖν τὸ ὄνομα αὐτοῦ ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "21.23",
+    "form": "ὑμνήσω",
+    "postag": "v1sfia---",
+    "sentence": "διηγήσομαι τὸ ὄνομά σου τοῖς ἀδελφοῖς μου, ἐν μέσῳ ἐκκλησίας ὑμνήσω σε."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "47.8",
+    "form": "ὕμνησε",
+    "postag": "v3saia---",
+    "sentence": "ἐν πάσῃ καρδίᾳ αὐτοῦ ὕμνησε καὶ ἠγάπησε τὸν ποιήσαντα αὐτόν."
+   },
+   {
+    "work_code": "1ES",
+    "work_ja": "エズラ記（ギリシャ語）",
+    "work_src": "Esdras i",
+    "ref": "5.59",
+    "form": "ὑμνοῦντες",
+    "postag": "v-pppamn-",
+    "sentence": "καὶ πᾶς ὁ λαὸς ἐσάλπισαν καὶ ἐβόησαν φωνῇ μεγάλῃ ὑμνοῦντες τῷ Κυρίῳ ἐπὶ τῇ ἐγέρσει τοῦ οἴκου Κυρίου."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "13.47",
+    "form": "ὑμνῶν",
+    "postag": "v-sppamn-",
+    "sentence": "καὶ ἐξέβαλεν αὐτοὺς ἐκ τῆς πόλεως, καὶ ἐκαθάρισε τὰς οἰκίας, ἐν αἷς ἦν τὰ εἴδωλα, καὶ οὕτως εἰσῆλθεν εἰς αὐτὴν ὑμνῶν καὶ εὐλογῶν."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "1.20",
+    "form": "ὑμνεῖται",
+    "postag": "v3spim---",
+    "sentence": "σοφία ἐν ἐξόδοις ὑμνεῖται, ἐν δὲ πλατείαις παρρησίαν ἄγει ·"
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "16.24",
+    "form": "ὕμνησαν",
+    "postag": "v3paia---",
+    "sentence": "καὶ εἶδον αὐτὸν ὁ λαὸς καὶ ὕμνησαν τὸν θεὸν αὐτῶν, ὅτι παρέδωκεν ὁ θεὸς ἡμῶν τὸν ἐχθρὸν ἡμῶν ἐν χειρὶ ἡμῶν, τὸν ἐρημοῦντα τὴν γῆν ἡμῶν, καὶ ὃς ἐπλήθυνε τοὺς τραυματίας ἡμῶν."
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "16.9",
+    "form": "ὑμνήσατε",
+    "postag": "v2pama---",
+    "sentence": "ᾄσατε αὐτῷ καὶ ὑμνήσατε αὐτῷ, διηγήσασθε πᾶσι τὰ θαυμάσια αὐτοῦ, ἃ ἐποίησε Κύριος."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "4 (KJV) ὑμνέω, -ῶ        (< ὕμνος)    [in LXX for הָלַל pi., שִׁיר, יָדָה hi., etc. ;]    trans., c. acc pers. (in cl. also c. acc. rei), to sing to, laud, sing to the praise of: Ac 16:25, He 2:12.    Intrans., to sing: in LXX and NT, of singing hymns and praises to God (Ps 64 (65):13, al.), Mt 26:30, Mk 14:26 (v. Swete, in l.).†"
+}

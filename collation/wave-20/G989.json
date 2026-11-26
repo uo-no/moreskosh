@@ -1,0 +1,143 @@
+{
+ "strong": "G989",
+ "lemma": "βλάσφημος",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1TI 1:13",
+   "form": "βλάσφημον",
+   "morph": "A-ASM",
+   "gloss_en": "blasphemer",
+   "gloss_ja": "冒涜する",
+   "verse": "τὸ πρότερον ὄντα βλάσφημον καὶ διώκτην καὶ ὑβριστήν· ἀλλὰ ἠλεήθην, ὅτι ἀγνοῶν ἐποίησα ἐν ἀπιστίᾳ,"
+  },
+  {
+   "ref": "2PE 2:11",
+   "form": "βλάσφημον",
+   "morph": "A-ASF",
+   "gloss_en": "slanderous",
+   "gloss_ja": "冒涜する",
+   "verse": "ὅπου ἄγγελοι ἰσχύϊ καὶ δυνάμει μείζονες ὄντες οὐ φέρουσιν κατ’ αὐτῶν βλάσφημον κρίσιν."
+  },
+  {
+   "ref": "2TI 3:2",
+   "form": "βλάσφημοι",
+   "morph": "A-NPM",
+   "gloss_en": "abusive",
+   "gloss_ja": "冒涜する",
+   "verse": "ἔσονται γὰρ οἱ ἄνθρωποι φίλαυτοι, φιλάργυροι, ἀλαζόνες, ὑπερήφανοι, βλάσφημοι, γονεῦσιν ἀπειθεῖς, ἀχάριστοι, ἀνόσιοι,"
+  },
+  {
+   "ref": "ACT 6:11",
+   "form": "βλάσφημα",
+   "morph": "A-APN",
+   "gloss_en": "blasphemous",
+   "gloss_ja": "冒涜する",
+   "verse": "τότε ὑπέβαλον ἄνδρας λέγοντας ὅτι Ἀκηκόαμεν αὐτοῦ λαλοῦντος ῥήματα βλάσφημα εἰς Μωϋσῆν καὶ τὸν θεόν·"
+  }
+ ],
+ "lxx": {
+  "total": 6,
+  "works": {
+   "Machabaeorum ii": 3,
+   "Sapientia Salomonis": 1,
+   "Ecclesiasticus sive Siracides": 1,
+   "Isaias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "9.28",
+    "form": "βλάσφημος",
+    "postag": "a-s---mn-",
+    "sentence": "ὁ μὲν οὖν ἀνδροφόνος καὶ βλάσφημος τὰ χείριστα παθών, ὡς ἑτέρους διέθηκεν, ἐπὶ ξένης ἐν τοῖς ὄρεσιν οἰκτίστῳ μόρῳ κατέστρεψε τὸν βίον."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "1.6",
+    "form": "βλάσφημον",
+    "postag": "a-s---na-",
+    "sentence": "φιλάνθρωπον γὰρ πνεῦμα σοφία καὶ οὐκ ἀθῳώσει βλάσφημον ἀπὸ χειλέων αὐτοῦ ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "3.16",
+    "form": "βλάσφημος",
+    "postag": "a-s---mn-",
+    "sentence": "ὡς βλάσφημος ὁ ἐγκαταλιπὼν πατέρα, καὶ κεκατηραμένος ὑπὸ Κυρίου ὁ παροργίζων μητέρα αὐτοῦ."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "66.3",
+    "form": "βλάσφημος",
+    "postag": "a-s---mn-",
+    "sentence": "ὁ δὲ ἄνομος ὁ θύων μοι μόσχον ὡς ὁ ἀποκτένων κύνα, ὁ δὲ ἀναφέρων σεμίδαλιν ὡς αἷμα ὕειον, ὁ διδοὺς λίβανον εἰς μνημόσυνον ὡς βλάσφημος ·"
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "10.36",
+    "form": "βλασφήμους",
+    "postag": "a-p---ma-",
+    "sentence": "ἕτεροι δὲ ὁμοίως προσαναβάντες ἐν τῷ περισπασμῷ πρὸς τοὺς ἔνδον, ἐνεπίμπρων τοὺς πύργους καὶ πυρὰς ἀνάψαντες ζῶντας τοὺς βλασφήμους κατέκαιον."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "10.4",
+    "form": "βλασφήμοις",
+    "postag": "a-p---nd-",
+    "sentence": "ταῦτα δὲ ποιήσαντες ἠξίωσαν τὸν Κύριον πεσόντες ἐπὶ κοιλίαν μηκέτι περιπεσεῖν τοιούτοις κακοῖς, ἀλλ’ ἐάν ποτε καὶ ἁμάρτωσιν, ὑπ’ αὐτοῦ μετ’ ἐπιεικείας παιδεύεσθαι καὶ μὴ βλασφήμοις καὶ βαρβάροις ἔθνεσι παραδίδοσθαι."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 3,
+  "works": {
+   "Hermas, Pastor": 3
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.19.1",
+    "form": "βλάσφημοι",
+    "postag": "a-p---mn-",
+    "sentence": "ἀποστάται καὶ βλάσφημοι εἰς τὸν κύριον καὶ προδόται τῶν δούλων τοῦ θεοῦ."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.19.3",
+    "form": "βλασφήμους",
+    "postag": "a-p---ma-",
+    "sentence": "κεῖται δὲ αὐτοῖς μετάνοια διὰ τὸ μὴ γενέσθαι αὐτοὺς βλασφήμους μη-δὲ προδότας."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.18.3",
+    "form": "βλασφήμους",
+    "postag": "a-p---ma-",
+    "sentence": "οὕτως ἔσται καὶ ἡ ἐκκλησία τοῦ θεοῦ μετὰ τὸ καθαρισθῆναι αὐτὴν καὶ ἀποβληθῆναι τοὺς πονηροὺς καὶ ὑποκριτὰς καὶ βλασφήμους καὶ διψύχους καὶ πονηρευομένους ποικίλαις πονηρίαις."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "4   βλάσφημος, -ον     (< βλασ-, of uncertain deriv., v. Thayer, Boisacq; + φήμη, speech),    [in LXX: Is 66:3 (מְבָרֵךְ אָוֶן), Wi 1:6, Si 3:16, II Mac 9:28  10:4, 36 * ;]         evil-speaking, slanderous, blasphemous: Ac 6:11, II Ti 3:2, II Pe 2:11 (cf. Ju 9);      as subst. a blasphemer: I Ti 1:13 (Cremer, 570).†"
+}

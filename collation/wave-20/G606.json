@@ -1,0 +1,95 @@
+{
+ "strong": "G606",
+ "lemma": "ἀπόκειμαι",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2TI 4:8",
+   "form": "ἀπόκειταί",
+   "morph": "V-PNI-3S",
+   "gloss_en": "reserved",
+   "gloss_ja": "蓄えられている",
+   "verse": "λοιπὸν ἀπόκειταί μοι ὁ τῆς δικαιοσύνης στέφανος, ὃν ἀποδώσει μοι ὁ κύριος ἐν ἐκείνῃ τῇ ἡμέρᾳ, ὁ δίκαιος κριτής, οὐ μόνον δὲ ἐμοὶ ἀλλὰ καὶ πᾶσιν τοῖς ἠγαπηκόσι τὴν ἐπιφάνειαν αὐτοῦ."
+  },
+  {
+   "ref": "COL 1:5",
+   "form": "ἀποκειμένην",
+   "morph": "V-PNP-ASF",
+   "gloss_en": "laid up",
+   "gloss_ja": "蓄えられている",
+   "verse": "διὰ τὴν ἐλπίδα τὴν ἀποκειμένην ὑμῖν ἐν τοῖς οὐρανοῖς, ἣν προηκούσατε ἐν τῷ λόγῳ τῆς ἀληθείας τοῦ εὐαγγελίου"
+  },
+  {
+   "ref": "HEB 9:27",
+   "form": "ἀπόκειται",
+   "morph": "V-PNI-3S",
+   "gloss_en": "appointed",
+   "gloss_ja": "蓄えられている",
+   "verse": "καὶ καθ’ ὅσον ἀπόκειται τοῖς ἀνθρώποις ἅπαξ ἀποθανεῖν, μετὰ δὲ τοῦτο κρίσις,"
+  },
+  {
+   "ref": "LUK 19:20",
+   "form": "ἀποκειμένην",
+   "morph": "V-PNP-ASF",
+   "gloss_en": "laid away",
+   "gloss_ja": "蓄えられている",
+   "verse": "καὶ ὁ ἕτερος ἦλθεν λέγων· Κύριε, ἰδοὺ ἡ μνᾶ σου ἣν εἶχον ἀποκειμένην ἐν σουδαρίῳ·"
+  }
+ ],
+ "lxx": {
+  "total": 4,
+  "works": {
+   "Genesis": 1,
+   "Machabaeorum ii": 1,
+   "Machabaeorum iv": 1,
+   "Job": 1
+  },
+  "representatives": [
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "49.10",
+    "form": "ἀποκείμενα",
+    "postag": "v-pppmnn-",
+    "sentence": "οὐκ ἐκλείψει ἄρχων ἐξ Ἰούδα καὶ ἡγούμενος ἐκ τῶν μηρῶν αὐτοῦ, ἕως ἐὰν ἔλθῃ τὰ ἀποκείμενα αὐτῷ, καὶ αὐτὸς προσδοκία ἐθνῶν."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "12.45",
+    "form": "ἀποκείμενον",
+    "postag": "v-sppmna-",
+    "sentence": "εἶτ’ ἐμβλέπων τοῖς μετ’ εὐσεβείας κοιμωμένοις κάλλιστον ἀποκείμενον χαριστήριον, ὁσία καὶ εὐσεβὴς ἡ ἐπίνοια ·"
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "8.11",
+    "form": "ἀπόκειται",
+    "postag": "v3spim---",
+    "sentence": "οὐ διαλογιεῖσθε τοῦτο, ὅτι οὐδὲν ὑμῖν ἀπειθήσασι πλὴν τοῦ μετὰ στρεβλῶν ἀποθανεῖν ἀπόκειται;"
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "38.23",
+    "form": "ἀπόκειται",
+    "postag": "v3spim---",
+    "sentence": "ἀπόκειται δέ σοι εἰς ὥραν ἐχθρῶν εἰς ἡμέραν πολέμων καὶ μάχης;"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "4   ἀπό-κειμαι,    [in LXX: Ge 49:10 (שִׁילֹה), Jb 38:23 (חשׂךְ), II Mac 12:45, IV Mac 8:11*;]    to be laid up, in store, laid away: Lk 19:20. Metaph., c. dat. pers., to be reserved (Dem., Plat.; and v. MM, s.v.): Col 1:5, II Ti 4:8, He 9:27.†"
+}

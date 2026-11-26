@@ -1,0 +1,207 @@
+{
+ "strong": "G52",
+ "lemma": "ἄγνοια",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1PE 1:14",
+   "form": "ἀγνοίᾳ",
+   "morph": "N-DSF",
+   "gloss_en": "ignorance",
+   "gloss_ja": "無知",
+   "verse": "ὡς τέκνα ὑπακοῆς, μὴ συσχηματιζόμενοι ταῖς πρότερον ἐν τῇ ἀγνοίᾳ ὑμῶν ἐπιθυμίαις,"
+  },
+  {
+   "ref": "ACT 17:30",
+   "form": "ἀγνοίας",
+   "morph": "N-GSF",
+   "gloss_en": "ignorance",
+   "gloss_ja": "無知",
+   "verse": "τοὺς μὲν οὖν χρόνους τῆς ἀγνοίας ὑπεριδὼν ὁ θεὸς τὰ νῦν παραγγέλλει τοῖς ἀνθρώποις πάντας πανταχοῦ μετανοεῖν,"
+  },
+  {
+   "ref": "ACT 3:17",
+   "form": "ἄγνοιαν",
+   "morph": "N-ASF",
+   "gloss_en": "ignorance",
+   "gloss_ja": "無知",
+   "verse": "Καὶ νῦν, ἀδελφοί, οἶδα ὅτι κατὰ ἄγνοιαν ἐπράξατε, ὥσπερ καὶ οἱ ἄρχοντες ὑμῶν·"
+  },
+  {
+   "ref": "EPH 4:18",
+   "form": "ἄγνοιαν",
+   "morph": "N-ASF",
+   "gloss_en": "ignorance",
+   "gloss_ja": "無知",
+   "verse": "ἐσκοτωμένοι τῇ διανοίᾳ ὄντες, ἀπηλλοτριωμένοι τῆς ζωῆς τοῦ θεοῦ, διὰ τὴν ἄγνοιαν τὴν οὖσαν ἐν αὐτοῖς, διὰ τὴν πώρωσιν τῆς καρδίας αὐτῶν,"
+  }
+ ],
+ "lxx": {
+  "total": 29,
+  "works": {
+   "Genesis": 1,
+   "Leviticus": 2,
+   "Regnorum i": 1,
+   "Paralipomenon ii sive Chronicon ii": 1,
+   "Esdras i": 2,
+   "Machabaeorum iv": 2,
+   "Psalmi": 1,
+   "Ecclesiastes": 1,
+   "Sapientia Salomonis": 2,
+   "Ecclesiasticus sive Siracides": 3,
+   "Psalmi Salomonis": 3,
+   "Ezechiel": 4,
+   "Daniel": 6
+  },
+  "representatives": [
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "6.23",
+    "form": "ἄγνοια",
+    "postag": "n-s---fn-",
+    "sentence": "καὶ ἐναντίον δὲ σοῦ, βασιλεῦ, οὔ-τε ἄγνοια οὔ-τε ἁμαρτία εὑρέθη ἐν ἐμοί ·"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "42.13",
+    "form": "ἀγνοίας",
+    "postag": "n-s---fg-",
+    "sentence": "καὶ ἐκεῖ θήσουσι τὰ ἅγια τῶν ἁγίων καὶ τὴν θυσίαν καὶ τὰ περὶ ἁμαρτίας καὶ τὰ περὶ ἀγνοίας, διότι ὁ τόπος ἅγιος."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "28.7",
+    "form": "ἄγνοιαν",
+    "postag": "n-s---fa-",
+    "sentence": "μνήσθητι ἐντολῶν καὶ μὴ μηνίσῃς τῷ πλησίον, καὶ διαθήκην Ὑψίστου καὶ πάριδε ἄγνοιαν."
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "13.7",
+    "form": "ἀγνοίᾳ",
+    "postag": "n-s---fd-",
+    "sentence": "ὅτι οὐχ ὁμοία ἡ παιδεία τῶν δικαίων ἐν ἀγνοίᾳ καὶ ἡ καταστροφὴ τῶν ἁμαρτωλῶν."
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "5.18",
+    "form": "ἀγνοίας",
+    "postag": "n-s---fg-",
+    "sentence": "καὶ ἐξιλάσεται περὶ αὐτοῦ ὁ ἱερεὺς περὶ τῆς ἀγνοίας αὐτοῦ, ἧς ἠγνόησε, καὶ αὐτὸς οὐκ ᾔδει, καὶ ἀφεθήσεται αὐτῷ ·"
+   },
+   {
+    "work_code": "1ES",
+    "work_ja": "エズラ記（ギリシャ語）",
+    "work_src": "Esdras i",
+    "ref": "8.72",
+    "form": "ἄγνοιαι",
+    "postag": "n-p---fn-",
+    "sentence": "αἱ γὰρ ἁμαρτίαι ἡμῶν ἐπλεόνασαν ὑπὲρ τὰς κεφαλὰς ἡμῶν, αἱ δὲ ἄγνοιαι ἡμῶν ὑπερήνεγκαν ἕως τοῦ οὐρανοῦ ἔτι ἀπὸ τῶν χρόνων τῶν πατέρων ἡμῶν, καί ἐσμεν ἐν μεγάλῃ ἁμαρτίᾳ ἕως τῆς ἡμέρας ταύτης."
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "2.24",
+    "form": "ἀγνοίας",
+    "postag": "n-s---fg-",
+    "sentence": "— πῶς οὖν, εἴποι τις ἄν, εἰ τῶν παθῶν ὁ λογισμὸς κρατεῖ, λήθης καὶ ἀγνοίας οὐ κρατεῖ;"
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "17.12",
+    "form": "ἄγνοιαν",
+    "postag": "n-s---fa-",
+    "sentence": "ἔνδοθεν δὲ οὖσα ἥττων ἡ προσδοκία, πλείονα λογίζεται τὴν ἄγνοιαν τῆς παρεχούσης τὴν βάσανον αἰτίας."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "26.10",
+    "form": "ἄγνοιαν",
+    "postag": "n-s---fa-",
+    "sentence": "μικροῦ ἐκοιμήθη τις τοῦ γένους μου μετὰ τῆς γυναικός σου, καὶ ἐπήγαγες ἐφ’ ἡμᾶς ἄγνοιαν."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "14.24",
+    "form": "ἄγνοιαν",
+    "postag": "n-s---fa-",
+    "sentence": "καὶ Σαοὺλ ἠγνόησεν ἄγνοιαν μεγάλην ἐν τῇ ἡμέρᾳ ἐκείνῃ καὶ ἀρᾶται τῷ λαῷ λέγων ·"
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "28.13",
+    "form": "ἄγνοιαν",
+    "postag": "n-s---fa-",
+    "sentence": "οὐ μὴ εἰσαγάγητε τὴν αἰχμαλωσίαν ὧδε πρὸς ἡμᾶς, ὅτι εἰς τὸ ἁμαρτάνειν τῷ Κυρίῳ ἐφ’ ἡμᾶς ὑμεῖς λέγετε, προσθεῖναι ἐπὶ ταῖς ἁμαρτίαις ἡμῶν καὶ ἐπὶ τὴν ἄγνοιαν ἡμῶν, ὅτι πολλὴ ἡ ἁμαρτία ἡμῶν καὶ ὀργὴ θυμοῦ Κυρίου ἐπὶ τὸν Ἰσραήλ."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "24.7",
+    "form": "ἀγνοίας",
+    "postag": "n-s---fg-",
+    "sentence": "ἁμαρτίας νεότητός μου καὶ ἀγνοίας μου μὴ μνησθῇς ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 3,
+  "works": {
+   "Hermas, Pastor": 2,
+   "Ignatius, Letters": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "9.1.5",
+    "form": "ἀγνοίας",
+    "postag": "n-s---fg-",
+    "sentence": "ἄχρι τῆς ἀγνοίας, φησίν, οὐχ ἁμαρτάνει ·"
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "1.19.3",
+    "form": "ἄγνοια",
+    "postag": "n-s---fn-",
+    "sentence": "ἄγνοια καθῃρεῖτο, παλαιὰ βασιλεία διεφθείρετο θεοῦ ἀνθρωπίνως φανερουμένου εἰς καινότητα ἀϊδίου ζωῆς ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "22.7.3",
+    "form": "ἄγνοια",
+    "postag": "n-s---fn-",
+    "sentence": "εἰ δέ τις, φημί, κύριε, γέγονεν ἄγνοια προτέρα, πρὶν ἀκουσθῶσι τὰ ῥήματα ταῦτα, πῶς σωθῇ ὁ ἄνθρωπος ὁ μιάνας τὴν σάρκα αὐτοῦ;"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "4   ἄγνοια, -ας, ἡ     (< ἀγνοέω),   [in LXX chiefly for אָשָׁם, שְׁגָגָה;]    ignorance : Ac 3:17  17:30, Eph 4:18 (with sense of wilful blindness; cf. MM, VGT, s.v.), I Pe 1:14.†"
+}

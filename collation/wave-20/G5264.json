@@ -1,0 +1,135 @@
+{
+ "strong": "G5264",
+ "lemma": "ὑποδέχομαι",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 17:7",
+   "form": "ὑποδέδεκται",
+   "morph": "V-RNI-3S",
+   "gloss_en": "welcomed",
+   "gloss_ja": "もてなす",
+   "verse": "οὓς ὑποδέδεκται Ἰάσων· καὶ οὗτοι πάντες ἀπέναντι τῶν δογμάτων Καίσαρος πράσσουσι, βασιλέα ἕτερον λέγοντες εἶναι Ἰησοῦν."
+  },
+  {
+   "ref": "JAS 2:25",
+   "form": "ὑποδεξαμένη",
+   "morph": "V-ADP-NSF",
+   "gloss_en": "received",
+   "gloss_ja": "もてなす",
+   "verse": "ὁμοίως δὲ καὶ Ῥαὰβ ἡ πόρνη οὐκ ἐξ ἔργων ἐδικαιώθη, ὑποδεξαμένη τοὺς ἀγγέλους καὶ ἑτέρᾳ ὁδῷ ἐκβαλοῦσα;"
+  },
+  {
+   "ref": "LUK 10:38",
+   "form": "ὑπεδέξατο",
+   "morph": "V-ADI-3S",
+   "gloss_en": "welcomed",
+   "gloss_ja": "もてなす",
+   "verse": "Ἐν δὲ τῷ πορεύεσθαι αὐτοὺς αὐτὸς εἰσῆλθεν εἰς κώμην τινά· γυνὴ δέ τις ὀνόματι Μάρθα ὑπεδέξατο αὐτὸν."
+  },
+  {
+   "ref": "LUK 19:6",
+   "form": "ὑπεδέξατο",
+   "morph": "V-ADI-3S",
+   "gloss_en": "received",
+   "gloss_ja": "もてなす",
+   "verse": "καὶ σπεύσας κατέβη, καὶ ὑπεδέξατο αὐτὸν χαίρων."
+  }
+ ],
+ "lxx": {
+  "total": 5,
+  "works": {
+   "Judith": 1,
+   "Tobias": 2,
+   "Machabaeorum i": 1,
+   "Machabaeorum iv": 1
+  },
+  "representatives": [
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "7.8",
+    "form": "ὑπεδέξατο",
+    "postag": "v3saim---",
+    "sentence": "καὶ ἔθυσεν κριὸν ἐκ προβάτων καὶ ὑπεδέξατο αὐτοὺς προθύμως."
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "13.13",
+    "form": "ὑπεδέξαντο",
+    "postag": "v3paim---",
+    "sentence": "καὶ συνέδραμον πάντες ἀπὸ μικροῦ ἕως μεγάλου, ὅτι παράδοξον ἦν αὐτοῖς τὸ ἐλθεῖν αὐτήν, καὶ ἤνοιξαν τὴν πύλην καὶ ὑπεδέξαντο αὐτὰς καὶ ἅψαντες πῦρ εἰς φαῦσιν περιεκύκλωσαν αὐτάς."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "16.15",
+    "form": "ὑπεδέξατο",
+    "postag": "v3saim---",
+    "sentence": "καὶ ὑπεδέξατο αὐτοὺς ὁ τοῦ Ἀβούβου εἰς τὸ ὀχυρωμάτιον τὸ καλούμενον Δὼκ μετὰ δόλου, ὃ ᾠκοδόμησε, καὶ ἐποίησεν αὐτοῖς πότον μέγαν καὶ ἐνέκρυψεν ἐκεῖ ἄνδρας."
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "13.17",
+    "form": "ὑποδέξονται",
+    "postag": "v3pfim---",
+    "sentence": "οὕτως γὰρ θανόντας ἡμᾶς Ἁβραὰμ καὶ Ἰσαὰκ καὶ Ἰακὼβ ὑποδέξονται εἰς τοὺς κόλπους αὐτῶν καὶ πάντες οἱ πατέρες ἐπαινέσουσι."
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "7.8",
+    "form": "ὑπεδέξαντο",
+    "postag": "v3paim---",
+    "sentence": "καὶ Ἔδνα ἡ γυνὴ αὐτοῦ καὶ Σάρρα ἡ θυγάτηρ αὐτοῦ ἔκλαυσαν καὶ ὑπεδέξαντο αὐτοὺς προθύμως ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 3,
+  "works": {
+   "Hermas, Pastor": 2,
+   "Ignatius, Letters": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.27.2",
+    "form": "ὑπεδέξαντο",
+    "postag": "v3paim---",
+    "sentence": "ἐπίσκοποι καὶ φιλόξενοι, οἵτινες ἡδέως εἰς τοὺς οἴκους ἑαυτῶν πάντοτε ὑπεδέξαντο τοὺς δούλους τοῦ θεοῦ ἄτερ ὑποκρίσεως ·"
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "6.10.1",
+    "form": "ὑποδεξάμενοι",
+    "postag": "v-papmmn-",
+    "sentence": "Φίλωνα καὶ Ῥέον Ἀγαθόπουν, οἳ ἐπηκολούθησάν μοι εἰς λόγον θεοῦ, καλῶς ἐποιήσατε ὑποδεξάμενοι ὡς διακόνους θεοῦ ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "25.10.3",
+    "form": "ὑπεδέξαντο",
+    "postag": "v3paim---",
+    "sentence": "οὐδέποτε δὲ ἀπὸ τοῦ θεοῦ ἀπέστησαν καὶ τὸ ὄνομα ἡδέως ἐβάστασαν καὶ εἰς τοὺς οἴκους αὐτῶν ἡδέως ὑπεδέξαντο τοὺς δούλους τοῦ θεοῦ."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "4 (KJV) ** ὑπο-δέχομαι     [in LXX: To 7:8, 9, Jth 13:13 A, I Mac 16:15, IV Mac 13:17 * ;]     to receive under one's roof, receive as a guest, entertain hospitably: c. acc pers., Lk 19:6, Ac 17:7, Ja 2:25; εἰς τ. οἶκον, Lk 10:38 (v. MM, xxv).†"
+}

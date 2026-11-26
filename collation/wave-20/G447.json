@@ -1,0 +1,181 @@
+{
+ "strong": "G447",
+ "lemma": "ἀνίημι",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 16:26",
+   "form": "ἀνέθη",
+   "morph": "V-API-3S",
+   "gloss_en": "unfastened",
+   "gloss_ja": "緩める",
+   "verse": "ἄφνω δὲ σεισμὸς ἐγένετο μέγας ὥστε σαλευθῆναι τὰ θεμέλια τοῦ δεσμωτηρίου, ἠνεῴχθησαν δὲ παραχρῆμα αἱ θύραι πᾶσαι, καὶ πάντων τὰ δεσμὰ ἀνέθη."
+  },
+  {
+   "ref": "ACT 27:40",
+   "form": "ἀνέντες",
+   "morph": "V-2AAP-NPM",
+   "gloss_en": "loosening",
+   "gloss_ja": "緩める",
+   "verse": "καὶ τὰς ἀγκύρας περιελόντες εἴων εἰς τὴν θάλασσαν, ἅμα ἀνέντες τὰς ζευκτηρίας τῶν πηδαλίων, καὶ ἐπάραντες τὸν ἀρτέμωνα τῇ πνεούσῃ κατεῖχον εἰς τὸν αἰγιαλόν."
+  },
+  {
+   "ref": "EPH 6:9",
+   "form": "ἀνιέντες",
+   "morph": "V-PAP-NPM",
+   "gloss_en": "giving up",
+   "gloss_ja": "緩める",
+   "verse": "Καὶ οἱ κύριοι, τὰ αὐτὰ ποιεῖτε πρὸς αὐτούς, ἀνιέντες τὴν ἀπειλήν, εἰδότες ὅτι καὶ αὐτῶν καὶ ὑμῶν ὁ κύριός ἐστιν ἐν οὐρανοῖς, καὶ προσωπολημψία οὐκ ἔστιν παρ’ αὐτῷ."
+  },
+  {
+   "ref": "HEB 13:5",
+   "form": "ἀνῶ",
+   "morph": "V-2AAS-1S",
+   "gloss_en": "leave",
+   "gloss_ja": "緩める",
+   "verse": "ἀφιλάργυρος ὁ τρόπος· ἀρκούμενοι τοῖς παροῦσιν· αὐτὸς γὰρ εἴρηκεν· Οὐ μή σε ἀνῶ οὐδ’ οὐ μή σε ἐγκαταλίπω·"
+  }
+ ],
+ "lxx": {
+  "total": 40,
+  "works": {
+   "Genesis": 2,
+   "Exodus": 1,
+   "Deuteronomium": 2,
+   "Josue": 1,
+   "Judices": 1,
+   "Regnorum i": 6,
+   "Regnorum ii": 2,
+   "Paralipomenon i sive Chronicon i": 2,
+   "Paralipomenon ii sive Chronicon ii": 1,
+   "Esdras ii": 1,
+   "Machabaeorum iv": 1,
+   "Psalmi": 1,
+   "Odae": 2,
+   "Sapientia Salomonis": 1,
+   "Ecclesiasticus sive Siracides": 2,
+   "Malachias": 1,
+   "Isaias": 12,
+   "Jeremias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "35.3",
+    "form": "ἀνειμέναι",
+    "postag": "v-prpmfv-",
+    "sentence": "ἰσχύσατε, χεῖρες ἀνειμέναι καὶ γόνατα παραλελυμένα ·"
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "15.16",
+    "form": "ἄνες",
+    "postag": "v2sama---",
+    "sentence": "ἄνες καὶ ἀπαγγελῶ σοι ἃ ἐλάλησε Κύριος πρός με τὴν νύκτα ·"
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "49.21",
+    "form": "ἀνειμένον",
+    "postag": "v-srpmna-",
+    "sentence": "Νεφθαλεὶμ στέλεχος ἀνειμένον, ἐπιδιδοὺς ἐν τῷ γεννήματι κάλλος."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "31.8",
+    "form": "ἀνήσει",
+    "postag": "v3sfia---",
+    "sentence": "καὶ Κύριος ὁ συμπορευόμενος μετὰ σοῦ οὐκ ἀνήσει σε, οὐ-δὲ μή σε ἐγκαταλίπῃ ·"
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "6.17",
+    "form": "ἀνέθησαν",
+    "postag": "v3paip---",
+    "sentence": "καὶ φέρουσι τὴν κιβωτὸν τοῦ Κυρίου καὶ ἀνέθησαν αὐτὴν εἰς τὸν τόπον αὐτῆς εἰς μέσον τῆς σκηνῆς, ἧς ἔπηξεν αὐτῇ Δαυίδ ·"
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "21.15",
+    "form": "ἄνες",
+    "postag": "v2sama---",
+    "sentence": "ἱκανούσθω σοι, ἄνες τὴν χεῖρά σου ·"
+   },
+   {
+    "work_code": "ODE",
+    "work_ja": "頌歌（オード）",
+    "work_src": "Odae",
+    "ref": "5.6",
+    "form": "ἀνήσω",
+    "postag": "v1sfia---",
+    "sentence": "ἀφελῶ τὸν φραγμὸν αὐτοῦ, καὶ ἔσται εἰς διαρπαγήν, καὶ καθελῶ τὸν τοῖχον αὐτοῦ, καὶ ἔσται εἰς καταπάτημα, καὶ ἀνήσω τὸν ἀμπελῶνά μου, καὶ οὐ μὴ τμηθῇ οὐ-δὲ μὴ σκαφῇ, καὶ ἀναβήσεται εἰς αὐτὸν ὡσεὶ εἰς χέρσον ἄκανθαι, καὶ ταῖς νεφέλαις ἐντελοῦμαι τοῦ μὴ βρέξαι εἰς αὐτὸν ὑετόν."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "30.8",
+    "form": "ἀνειμένος",
+    "postag": "v-srpmmn-",
+    "sentence": "ἵππος ἀδάμαστος ἀποβαίνει σκληρός, καὶ υἱὸς ἀνειμένος ἐκβαίνει προαλής."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "23.11",
+    "form": "ἀνήσεις",
+    "postag": "v2sfia---",
+    "sentence": "τῷ δὲ ἑβδόμῳ ἄφεσιν ποιήσεις καὶ ἀνήσεις αὐτήν, καὶ ἔδονται οἱ πτωχοὶ τοῦ ἔθνους σου, τὰ δὲ ὑπολειπόμενα ἔδεται τὰ ἄγρια θηρία."
+   },
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "24.19",
+    "form": "ἀνήσει",
+    "postag": "v3sfia---",
+    "sentence": "οὐ μὴ δύνησθε λατρεύειν Κυρίῳ, ὅτι ὁ Θεὸς ἅγιός ἐστι, καὶ ζηλώσας οὗτος οὐκ ἀνήσει τὰ ἁμαρτήματα ὑμῶν καὶ τὰ ἀνομήματα ὑμῶν ·"
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "8.3",
+    "form": "ἀνέθη",
+    "postag": "v3saip---",
+    "sentence": "τότε ἀνέθη τὸ πνεῦμα αὐτῶν ἀπ’ αὐτοῦ ἐν τῷ λαλῆσαι αὐτὸν τὸν λόγον τοῦτον."
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "10.9",
+    "form": "ἄνες",
+    "postag": "v2sama---",
+    "sentence": "ἄνες ἀπὸ τοῦ ζυγοῦ, οὗ ἔδωκεν ὁ πατήρ σου ἐφ’ ἡμᾶς;"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "4   ἀν-ίημι    (ἀνά, ἵημι),   [in LXX for רפה, נשׂא, etc.;]      to send up, produce, to send back.     to let go, leave without support: He 13:5 (cf. De 31:6; Hom., Il., ii, 71).     to relax, loosen (v. Field, Notes, 124 f.): Ac 16:26 27:40; hence, metaph., to give up, desist from: Eph 6:9.†"
+}

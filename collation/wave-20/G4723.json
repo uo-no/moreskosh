@@ -1,0 +1,213 @@
+{
+ "strong": "G4723",
+ "lemma": "στεῖρα",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "GAL 4:27",
+   "form": "στεῖρα",
+   "morph": "N-VSF",
+   "gloss_en": "barren",
+   "gloss_ja": "不妊の",
+   "verse": "γέγραπται γάρ· Εὐφράνθητι, στεῖρα ἡ οὐ τίκτουσα, ῥῆξον καὶ βόησον, ἡ οὐκ ὠδίνουσα· ὅτι πολλὰ τὰ τέκνα τῆς ἐρήμου μᾶλλον ἢ τῆς ἐχούσης τὸν ἄνδρα."
+  },
+  {
+   "ref": "LUK 1:7",
+   "form": "στεῖρα",
+   "morph": "N-NSF",
+   "gloss_en": "barren",
+   "gloss_ja": "不妊の",
+   "verse": "καὶ οὐκ ἦν αὐτοῖς τέκνον, καθότι ἦν ἡ Ἐλισάβετ στεῖρα, καὶ ἀμφότεροι προβεβηκότες ἐν ταῖς ἡμέραις αὐτῶν ἦσαν."
+  },
+  {
+   "ref": "LUK 1:36",
+   "form": "στείρᾳ",
+   "morph": "N-DSF",
+   "gloss_en": "barren",
+   "gloss_ja": "不妊の",
+   "verse": "καὶ ἰδοὺ Ἐλισάβετ ἡ συγγενίς σου καὶ αὐτὴ συνείληφεν υἱὸν ἐν γήρει αὐτῆς, καὶ οὗτος μὴν ἕκτος ἐστὶν αὐτῇ τῇ καλουμένῃ στείρᾳ·"
+  },
+  {
+   "ref": "LUK 23:29",
+   "form": "στεῖραι",
+   "morph": "N-NPF",
+   "gloss_en": "barren",
+   "gloss_ja": "不妊の",
+   "verse": "ὅτι ἰδοὺ ἔρχονται ἡμέραι ἐν αἷς ἐροῦσιν Μακάριαι αἱ στεῖραι καὶ αἱ κοιλίαι αἳ οὐκ ἐγέννησαν καὶ μαστοὶ οἳ οὐκ ἔθρεψαν."
+  }
+ ],
+ "lxx": {
+  "total": 14,
+  "works": {
+   "Genesis": 3,
+   "Exodus": 1,
+   "Deuteronomium": 1,
+   "Judices": 2,
+   "Regnorum i": 1,
+   "Psalmi": 1,
+   "Odae": 1,
+   "Job": 1,
+   "Sapientia Salomonis": 1,
+   "Isaias": 2
+  },
+  "representatives": [
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "29.31",
+    "form": "στεῖρα",
+    "postag": "n-s---fn-",
+    "sentence": "Ῥαχὴλ δὲ ἦν στεῖρα ·"
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "13.3",
+    "form": "στεῖρα",
+    "postag": "n-s---fn-",
+    "sentence": "ἰδοὺ σὺ στεῖρα καὶ οὐ τέτοκας, καὶ συλλήψῃ υἱόν."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "66.9",
+    "form": "στεῖραν",
+    "postag": "n-s---fa-",
+    "sentence": "οὐκ ἰδοὺ ἐγὼ γεννῶσαν καὶ στεῖραν ἐποίησα;"
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "23.26",
+    "form": "στείρα",
+    "postag": "n-d---fn-",
+    "sentence": "οὐκ ἔσται ἄγονος οὐ-δὲ στείρα ἐπὶ τῆς γῆς σου ·"
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "7.14",
+    "form": "στεῖρα",
+    "postag": "n-s---fn-",
+    "sentence": "οὐκ ἔσται ἐν ὑμῖν ἄγονος οὐ-δὲ στεῖρα καὶ ἐν τοῖς κτήνεσί σου."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "2.5",
+    "form": "στεῖρα",
+    "postag": "n-s---fn-",
+    "sentence": "ὅτι στεῖρα ἔτεκεν ἑπτά, καὶ ἡ πολλὴ ἐν τέκνοις ἠσθένησε."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "112.9",
+    "form": "στεῖραν",
+    "postag": "n-s---fa-",
+    "sentence": "ὁ κατοικίζων στεῖραν ἐν οἴκῳ, μητέρα ἐπὶ τέκνοις εὐφραινομένην."
+   },
+   {
+    "work_code": "ODE",
+    "work_ja": "頌歌（オード）",
+    "work_src": "Odae",
+    "ref": "3.5",
+    "form": "στεῖρα",
+    "postag": "n-s---fn-",
+    "sentence": "ὅτι στεῖρα ἔτεκεν ἑπτά, καὶ ἡ πολλὴ ἐν τέκνοις ἠσθένησεν."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "24.21",
+    "form": "στεῖραν",
+    "postag": "n-s---fa-",
+    "sentence": "στεῖραν δὲ οὐκ εὖ ἐποίησε καὶ γύναιον οὐκ ἠλέησε, θυμῷ δὲ κατέστρεψεν ἀδυνάτους."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "3.13",
+    "form": "στεῖρα",
+    "postag": "n-s---fn-",
+    "sentence": "ὅτι μακαρία στεῖρα ἡ ἀμίαντος, ἥτις οὐκ ἔγνω κοίτην ἐν παραπτώματι, ἕξει καρπόν ἐν ἐπισκοπῇ ψυχῶν, καὶ εὐνοῦχος ὁ μὴ ἐργασάμενος ἐν χειρὶ ἀνόμημα, μη-δὲ ἐνθυμηθεὶς κατὰ τοῦ Κυρίου πονηρά, δοθήσεται γὰρ αὐτῷ τῆς πίστεως χάρις ἐκλεκτὴ καὶ κλῆρος ἐν ναῷ Κυρίου θυμηρέστερος."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "11.30",
+    "form": "στεῖρα",
+    "postag": "n-s---fn-",
+    "sentence": "καὶ ἦν Σάρα στεῖρα καὶ οὐκ ἐτεκνοποίει."
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "13.2",
+    "form": "στεῖρα",
+    "postag": "n-s---fn-",
+    "sentence": "καὶ ἦν ἀνὴρ εἷς ἀπὸ Σαραὰ ἀπὸ δήμου συγγενείας τοῦ Δανί, καὶ ὄνομα αὐτῷ Μανωέ, καὶ γυνὴ αὐτοῦ στεῖρα καὶ οὐκ ἔτεκε."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 4,
+  "works": {
+   "Barnabas": 1,
+   "2 Clement": 3
+  },
+  "representatives": [
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "2.1",
+    "form": "στεῖρα",
+    "postag": "n-s---fv-",
+    "sentence": "εὐφράνθητι, στεῖρα ἡ οὐ τίκτουσα, ἡμᾶς εἶπεν ·"
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "13.2",
+    "form": "στεῖρα",
+    "postag": "n-s---fn-",
+    "sentence": "ἐδεῖτο δὲ Ἰσαὰκ περὶ Ῥεβέκκας τῆς γυναικὸς αὐτοῦ, ὅτι στεῖρα ἦν ·"
+   },
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "2.1",
+    "form": "στείρα",
+    "postag": "n-d---fv-",
+    "sentence": "εὐφράνθητι, στείρα ἦ οὐ τίκτουσα, ῥῆξον καὶ βόησον, ἡ οὐκ ὠδίνουσα, ὅτι πολλὰ τὰ τέκνα τῆς ἐρήμου μᾶλλον ἢ τῆς ἐχούσης τὸν ἄνδρα."
+   },
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "2.1",
+    "form": "στεῖρα",
+    "postag": "n-s---fn-",
+    "sentence": "στεῖρα γὰρ ἦν ἡ ἐκκλησία ἡμῶν πρὸ τοῦ δοθῆναι αὐτῇ τέκνα."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "5 στεῖρος, -ον  also -α, -ον,     [in LXX for עֲקֶרֶת, עֲקָרָה  ;]     barren: of a woman, Lk 1:7, 36 23:29, Ga 4:27 (LXX).†"
+}

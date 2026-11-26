@@ -1,0 +1,195 @@
+{
+ "strong": "G2073",
+ "lemma": "ἑσπέρα",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 28:23",
+   "form": "ἑσπέρας",
+   "morph": "N-GSF",
+   "gloss_en": "evening",
+   "gloss_ja": "夕方",
+   "verse": "Ταξάμενοι δὲ αὐτῷ ἡμέραν ἧκον πρὸς αὐτὸν εἰς τὴν ξενίαν πλείονες, οἷς ἐξετίθετο διαμαρτυρόμενος τὴν βασιλείαν τοῦ θεοῦ πείθων τε αὐτοὺς περὶ τοῦ Ἰησοῦ ἀπό τε τοῦ νόμου Μωϋσέως καὶ τῶν προφητῶν ἀπὸ πρωῒ ἕως ἑσπέρας."
+  },
+  {
+   "ref": "ACT 4:3",
+   "form": "ἑσπέρα",
+   "morph": "N-NSF",
+   "gloss_en": "evening",
+   "gloss_ja": "夕方",
+   "verse": "καὶ ἐπέβαλον αὐτοῖς τὰς χεῖρας καὶ ἔθεντο εἰς τήρησιν εἰς τὴν αὔριον, ἦν γὰρ ἑσπέρα ἤδη."
+  },
+  {
+   "ref": "LUK 24:29",
+   "form": "ἑσπέραν",
+   "morph": "N-ASF",
+   "gloss_en": "evening",
+   "gloss_ja": "夕方",
+   "verse": "καὶ παρεβιάσαντο αὐτὸν λέγοντες· Μεῖνον μεθ’ ἡμῶν, ὅτι πρὸς ἑσπέραν ἐστὶν καὶ κέκλικεν ἤδη ἡ ἡμέρα. καὶ εἰσῆλθεν τοῦ μεῖναι σὺν αὐτοῖς."
+  }
+ ],
+ "lxx": {
+  "total": 123,
+  "works": {
+   "Genesis": 11,
+   "Exodus": 8,
+   "Leviticus": 34,
+   "Numeri": 12,
+   "Deuteronomium": 5,
+   "Josue": 4,
+   "Judices": 5,
+   "Ruth": 2,
+   "Regnorum i": 2,
+   "Regnorum ii": 2,
+   "Regnorum iii": 2,
+   "Paralipomenon i sive Chronicon i": 2,
+   "Paralipomenon ii sive Chronicon ii": 1,
+   "Esdras ii": 1,
+   "Judith": 2,
+   "Tobias": 1,
+   "Machabaeorum i": 2,
+   "Machabaeorum iii": 1,
+   "Machabaeorum iv": 1,
+   "Psalmi": 7,
+   "Ecclesiastes": 1,
+   "Job": 3,
+   "Ecclesiasticus sive Siracides": 1,
+   "Zacharias": 1,
+   "Isaias": 2,
+   "Jeremias": 1,
+   "Ezechiel": 5,
+   "Daniel": 4
+  },
+  "representatives": [
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "22.6",
+    "form": "ἑσπέρας",
+    "postag": "n-s---fg-",
+    "sentence": "ψυχὴ ἥτις ἐὰν ἅψηται αὐτῶν, ἀκάθαρτος ἔσται ἕως ἑσπέρας ·"
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "28.8",
+    "form": "ἑσπέραν",
+    "postag": "n-s---fa-",
+    "sentence": "καὶ τὸν ἀμνὸν τὸν δεύτερον ποιήσεις τὸ πρὸς ἑσπέραν ·"
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "1.5",
+    "form": "ἑσπέρα",
+    "postag": "n-s---fn-",
+    "sentence": "καὶ ἐγένετο ἑσπέρα καὶ ἐγένετο πρωΐ, ἡμέρα μία."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "16.12",
+    "form": "ἑσπέραν",
+    "postag": "n-s---fa-",
+    "sentence": "τὸ πρὸς ἑσπέραν ἔδεσθε κρέα καὶ τὸ πρωΐ πλησθήσεσθε ἄρτων ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "64.9",
+    "form": "ἑσπέρας",
+    "postag": "n-s---fg-",
+    "sentence": "ἐξόδους πρωΐας καὶ ἑσπέρας τέρψεις."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "28.67",
+    "form": "ἑσπέρας",
+    "postag": "n-s---fg-",
+    "sentence": "καὶ τὸ ἑσπέρας ἐρεῖς ·"
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "19.16",
+    "form": "ἑσπέρᾳ",
+    "postag": "n-s---fd-",
+    "sentence": "καὶ ἰδοὺ ἀνὴρ πρεσβύτης ἤρχετο ἐξ ἔργων αὐτοῦ ἐξ ἀγροῦ ἐν ἑσπέρᾳ ·"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "46.3",
+    "form": "ἑσπέρας",
+    "postag": "n-s---fg-",
+    "sentence": "καὶ προσκυνήσει ἐπὶ τοῦ προθύρου τῆς πύλης καὶ ἐξελεύσεται καὶ ἡ πύλη οὐ μὴ κλεισθῇ ἕως ἑσπέρας."
+   },
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "8.29",
+    "form": "ἑσπέρας",
+    "postag": "n-s---fg-",
+    "sentence": "καὶ τὸν βασιλέα τῆς Γαὶ ἐκρέμασεν ἐπὶ ξύλου διδύμου, καὶ ἦν ἐπὶ τοῦ ξύλου ἕως ἑσπέρας ·"
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "8.26",
+    "form": "ἑσπέρας",
+    "postag": "n-s---fg-",
+    "sentence": "τὸ ὅραμα τὸ ἑσπέρας καὶ πρωῒ ηὑρέθη ἐπ’ ἀληθείας ·"
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "7.4",
+    "form": "ἑσπέρας",
+    "postag": "n-s---fg-",
+    "sentence": "πλήρης δὲ γίνομαι ὀδυνῶν ἀπὸ ἑσπέρας ἕως πρωΐ."
+   },
+   {
+    "work_code": "RUT",
+    "work_ja": "ルツ記",
+    "work_src": "Ruth",
+    "ref": "2.17",
+    "form": "ἑσπέρας",
+    "postag": "n-s---fg-",
+    "sentence": "καὶ συνέλεξεν ἐν τῷ ἀγρῷ ἕως ἑσπέρας ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "1 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "39.5",
+    "form": "ἑσπέρας",
+    "postag": "n-s---fg-",
+    "sentence": "ἔπαισεν αὐτοὺς σητὸς τρόπον, καὶ ἀπὸ πρωΐθεν ἕως ἑσπέρας οὐκ ἔτι εἰσίν ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3   ἑσπέρα, -ας, ἡ    (prop, fem, of ἕσπερος),    [in LXX chiefly for צֶרֶב ;]     (sc. ὥρα), evening: Lk 24:29, Ac 4:3 20:15 28:23;    (so. χώρα), the west.†"
+}

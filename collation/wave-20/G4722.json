@@ -1,0 +1,65 @@
+{
+ "strong": "G4722",
+ "lemma": "στέγω",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 13:7",
+   "form": "στέγει",
+   "morph": "V-PAI-3S",
+   "gloss_en": "bears",
+   "gloss_ja": "耐える",
+   "verse": "πάντα στέγει, πάντα πιστεύει, πάντα ἐλπίζει, πάντα ὑπομένει."
+  },
+  {
+   "ref": "1CO 9:12",
+   "form": "στέγομεν",
+   "morph": "V-PAI-1P",
+   "gloss_en": "endure",
+   "gloss_ja": "耐える",
+   "verse": "εἰ ἄλλοι τῆς ὑμῶν ἐξουσίας μετέχουσιν, οὐ μᾶλλον ἡμεῖς; Ἀλλ’ οὐκ ἐχρησάμεθα τῇ ἐξουσίᾳ ταύτῃ, ἀλλὰ πάντα στέγομεν ἵνα μή τινα ἐγκοπὴν δῶμεν τῷ εὐαγγελίῳ τοῦ Χριστοῦ."
+  },
+  {
+   "ref": "1TH 3:1",
+   "form": "στέγοντες",
+   "morph": "V-PAP-NPM",
+   "gloss_en": "bear",
+   "gloss_ja": "耐える",
+   "verse": "Διὸ μηκέτι στέγοντες εὐδοκήσαμεν καταλειφθῆναι ἐν Ἀθήναις μόνοι,"
+  },
+  {
+   "ref": "1TH 3:5",
+   "form": "στέγων",
+   "morph": "V-PAP-NSM",
+   "gloss_en": "endure",
+   "gloss_ja": "耐える",
+   "verse": "διὰ τοῦτο κἀγὼ μηκέτι στέγων ἔπεμψα εἰς τὸ γνῶναι τὴν πίστιν ὑμῶν, μή πως ἐπείρασεν ὑμᾶς ὁ πειράζων καὶ εἰς κενὸν γένηται ὁ κόπος ἡμῶν."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Ecclesiasticus sive Siracides": 1
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "8.17",
+    "form": "στέξαι",
+    "postag": "v--ana---",
+    "sentence": "μετὰ μωροῦ μὴ συμβουλεύου, οὐ γὰρ δυνήσεται λόγον στέξαι."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "4 ** στέγω    (cf. Lat. tego),    [in LXX: Si 8:17 * ;]     prop., to cover closely, to protect by covering, esp. to keep water in or out (Soph., Plat., al.).    to cover, keep secret, conceal (Si, l.c., Polyb., al.): I Co 13:7, R, mg.    By covering to ward of, bear up under, endure (for exx., v., Lft., Notes, 40; M, Th., 36): I Co 9:12 13:7, I Th 3:1, 5.†"
+}

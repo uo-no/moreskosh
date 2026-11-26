@@ -1,0 +1,84 @@
+{
+ "strong": "G784",
+ "lemma": "ἄσπιλος",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1PE 1:19",
+   "form": "ἀσπίλου",
+   "morph": "A-GSM",
+   "gloss_en": "spotless",
+   "gloss_ja": "汚れのない",
+   "verse": "ἀλλὰ τιμίῳ αἵματι ὡς ἀμνοῦ ἀμώμου καὶ ἀσπίλου Χριστοῦ,"
+  },
+  {
+   "ref": "1TI 6:14",
+   "form": "ἄσπιλον",
+   "morph": "A-ASF",
+   "gloss_en": "without spot",
+   "gloss_ja": "汚れのない",
+   "verse": "τηρῆσαί σε τὴν ἐντολὴν ἄσπιλον ἀνεπίλημπτον μέχρι τῆς ἐπιφανείας τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ,"
+  },
+  {
+   "ref": "2PE 3:14",
+   "form": "ἄσπιλοι",
+   "morph": "A-NPM",
+   "gloss_en": "spotless",
+   "gloss_ja": "汚れのない",
+   "verse": "Διό, ἀγαπητοί, ταῦτα προσδοκῶντες σπουδάσατε ἄσπιλοι καὶ ἀμώμητοι αὐτῷ εὑρεθῆναι ἐν εἰρήνῃ,"
+  },
+  {
+   "ref": "JAS 1:27",
+   "form": "ἄσπιλον",
+   "morph": "A-ASM",
+   "gloss_en": "unstained",
+   "gloss_ja": "汚れのない",
+   "verse": "θρησκεία καθαρὰ καὶ ἀμίαντος παρὰ τῷ θεῷ καὶ πατρὶ αὕτη ἐστίν, ἐπισκέπτεσθαι ὀρφανοὺς καὶ χήρας ἐν τῇ θλίψει αὐτῶν, ἄσπιλον ἑαυτὸν τηρεῖν ἀπὸ τοῦ κόσμου."
+  }
+ ],
+ "lxx": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "fathers": {
+  "total": 3,
+  "works": {
+   "2 Clement": 1,
+   "Hermas, Pastor": 2
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "4.3.5",
+    "form": "ἄσπιλοι",
+    "postag": "a-p---mn-",
+    "sentence": "ὅτι ἄσπιλοι καὶ καθαροὶ ἔσονται οἱ ἐκλελεγμένοι ὑπὸ τοῦ θεοῦ εἰς ζωὴν αἰώνιον."
+   },
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "8.6",
+    "form": "ἄσπιλον",
+    "postag": "a-s---fa-",
+    "sentence": "τηρήσατε τὴν σάρκα ἁγνὴν καὶ τὴν σφραγῖδα ἄσπιλον, ἵνα τὴν αἰώνιον ζωὴν ἀπολάβωμεν."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "22.6.7",
+    "form": "ἄσπιλος",
+    "postag": "a-s---fn-",
+    "sentence": "πᾶσα γὰρ σὰρξ ἀπολήψεται μισθὸν ἡ εὑρεθεῖσα ἀμίαντος καὶ ἄσπιλος, ἐν ᾗ τὸ πνεῦμα τὸ ἅγιον κατῴκησεν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "4   **† ἄ-σπιλος, -ον    (< ἀ- neg., σπῖλος),   [in Sm.: Jb 15:15 (LXX, καθαρός)*;]    spotless, unstained: I Pe 1:19; metaph., I Ti 6:14, Ja 1:27, II Pe 3:14 (for exx., v. MM, s.v.).†   SYN.: ἀμίαντος, ἄμωμος."
+}

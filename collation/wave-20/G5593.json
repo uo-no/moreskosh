@@ -1,0 +1,107 @@
+{
+ "strong": "G5593",
+ "lemma": "ψυχρός",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MAT 10:42",
+   "form": "ψυχροῦ",
+   "morph": "A-GSN",
+   "gloss_en": "cold",
+   "gloss_ja": "冷たい",
+   "verse": "καὶ ὃς ἂν ποτίσῃ ἕνα τῶν μικρῶν τούτων ποτήριον ψυχροῦ μόνον εἰς ὄνομα μαθητοῦ, ἀμὴν λέγω ὑμῖν, οὐ μὴ ἀπολέσῃ τὸν μισθὸν αὐτοῦ."
+  },
+  {
+   "ref": "REV 3:15",
+   "form": "ψυχρὸς",
+   "morph": "A-NSM",
+   "gloss_en": "cold",
+   "gloss_ja": "冷たい",
+   "verse": "Οἶδά σου τὰ ἔργα, ὅτι οὔτε ψυχρὸς εἶ οὔτε ζεστός. ὄφελον ψυχρὸς ἦς ἢ ζεστός."
+  },
+  {
+   "ref": "REV 3:15",
+   "form": "ψυχρὸς",
+   "morph": "A-NSM",
+   "gloss_en": "cold",
+   "gloss_ja": "冷たい",
+   "verse": "Οἶδά σου τὰ ἔργα, ὅτι οὔτε ψυχρὸς εἶ οὔτε ζεστός. ὄφελον ψυχρὸς ἦς ἢ ζεστός."
+  },
+  {
+   "ref": "REV 3:16",
+   "form": "ψυχρός",
+   "morph": "A-NSM",
+   "gloss_en": "cold",
+   "gloss_ja": "冷たい",
+   "verse": "οὕτως, ὅτι χλιαρὸς εἶ καὶ οὔτε ζεστὸς οὔτε ψυχρός, μέλλω σε ἐμέσαι ἐκ τοῦ στόματός μου."
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Machabaeorum iv": 1,
+   "Proverbia": 1,
+   "Ecclesiasticus sive Siracides": 1
+  },
+  "representatives": [
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "11.26",
+    "form": "ψυχρὸν",
+    "postag": "a-s---nn-",
+    "sentence": "τὸ πῦρ σου ψυχρὸν ἡμῖν, καὶ ἄπονοι οἱ καταπέλται, καὶ ἀδύνατος ἡ βία σου."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "25.25",
+    "form": "ψυχρὸν",
+    "postag": "a-s---nn-",
+    "sentence": "ὥσπερ ὕδωρ ψυχρὸν ψυχῇ διψώσῃ προσηνές, οὕτως ἀγγελία ἀγαθὴ ἐκ γῆς μακρόθεν."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "43.20",
+    "form": "ψυχρὸς",
+    "postag": "a-s---mn-",
+    "sentence": "ψυχρὸς ἄνεμος Βορέης πνεύσει, καὶ παγήσεται κρύσταλλος ἐφ’ ὕδατος ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "Didache": 1,
+   "Martyrdom of Polycarp": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DID",
+    "work_ja": "ディダケー",
+    "work_src": "Didache",
+    "ref": "7.2",
+    "form": "ψυχρῷ",
+    "postag": "a-s---nd-",
+    "sentence": "εἰ δ’ οὐ δύνασαι ἐν ψυχρῷ, ἐν θερμῷ."
+   },
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "2.3",
+    "form": "ψυχρὸν",
+    "postag": "a-s---nn-",
+    "sentence": "καὶ τὸ πῦρ ἦν αὐτοῖς ψυχρὸν τὸ τῶν ἀπηνῶν βασανιστῶν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "4 ψυχρός, -ά, -όν    (< ψύχω),    [in LXX: Pr 25:25 (קַר), Si 43:20, IV Mac 11:26 * ;]     cold: sc. ὕδωρ (cf. Theogn., 263; Hdt., ii, 37), Mt 10:42; metaph., of indifferent persons, Re 3:15, 16 †"
+}

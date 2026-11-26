@@ -1,0 +1,107 @@
+{
+ "strong": "G5009",
+ "lemma": "ταμεῖον",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 12:3",
+   "form": "ταμείοις",
+   "morph": "N-DPN",
+   "gloss_en": "inner rooms",
+   "gloss_ja": "奥の部屋",
+   "verse": "ἀνθ’ ὧν ὅσα ἐν τῇ σκοτίᾳ εἴπατε ἐν τῷ φωτὶ ἀκουσθήσεται, καὶ ὃ πρὸς τὸ οὖς ἐλαλήσατε ἐν τοῖς ταμείοις κηρυχθήσεται ἐπὶ τῶν δωμάτων."
+  },
+  {
+   "ref": "LUK 12:24",
+   "form": "ταμεῖον",
+   "morph": "N-NSN",
+   "gloss_en": "storeroom",
+   "gloss_ja": "奥の部屋",
+   "verse": "κατανοήσατε τοὺς κόρακας ὅτι οὐ σπείρουσιν οὐδὲ θερίζουσιν, οἷς οὐκ ἔστιν ταμεῖον οὐδὲ ἀποθήκη, καὶ ὁ θεὸς τρέφει αὐτούς· πόσῳ μᾶλλον ὑμεῖς διαφέρετε τῶν πετεινῶν."
+  },
+  {
+   "ref": "MAT 24:26",
+   "form": "ταμείοις",
+   "morph": "N-DPN",
+   "gloss_en": "inner rooms",
+   "gloss_ja": "奥の部屋",
+   "verse": "ἐὰν οὖν εἴπωσιν ὑμῖν· Ἰδοὺ ἐν τῇ ἐρήμῳ ἐστίν, μὴ ἐξέλθητε· Ἰδοὺ ἐν τοῖς ταμείοις, μὴ πιστεύσητε·"
+  },
+  {
+   "ref": "MAT 6:6",
+   "form": "ταμεῖόν",
+   "morph": "N-ASN",
+   "gloss_en": "room",
+   "gloss_ja": "奥の部屋",
+   "verse": "σὺ δὲ ὅταν προσεύχῃ, εἴσελθε εἰς τὸ ταμεῖόν σου καὶ κλείσας τὴν θύραν σου πρόσευξαι τῷ πατρί σου τῷ ἐν τῷ κρυπτῷ· καὶ ὁ πατήρ σου ὁ βλέπων ἐν τῷ κρυπτῷ ἀποδώσει σοι."
+  }
+ ],
+ "lxx": {
+  "total": 4,
+  "works": {
+   "Genesis": 1,
+   "Judices": 1,
+   "Regnorum iv": 1,
+   "Ecclesiasticus sive Siracides": 1
+  },
+  "representatives": [
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "43.29",
+    "form": "ταμεῖον",
+    "postag": "n-s---na-",
+    "sentence": "εἰσελθὼν δὲ εἰς τὸ ταμεῖον ἔκλαυσεν ἐκεῖ."
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "3.24",
+    "form": "ταμείῳ",
+    "postag": "n-s---nd-",
+    "sentence": "μή ποτε ἀποκενοῖ τοὺς πόδας αὐτοῦ ἐν τῷ ταμείῳ τῷ θερινῷ;"
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "11.2",
+    "form": "ταμείῳ",
+    "postag": "n-s---nd-",
+    "sentence": "καὶ ἔλαβεν Ἰωσαβεὲ θυγάτηρ τοῦ βασιλέως Ἰωρὰμ ἀδελφὴ Ὀχοζίου τὸν Ἰωὰς υἱὸν ἀδελφοῦ αὐτῆς καὶ ἔκλεψεν αὐτὸν ἐκ μέσου τῶν υἱῶν τοῦ βασιλέως τῶν θανατουμένων, αὐτὸν καὶ τὴν τροφὸν αὐτοῦ, ἐν τῷ ταμείῳ τῶν κλινῶν, καὶ ἔκρυψεν αὐτὸν ἀπὸ προσώπου Γοθολίας καὶ οὐκ ἐθανατώθη."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "29.12",
+    "form": "ταμείοις",
+    "postag": "n-p---nd-",
+    "sentence": "σύγκλεισον ἐλεημοσύνην ἐν τοῖς ταμείοις σου, καὶ αὕτη ἐξελεῖταί σε ἐκ πάσης κακώσεως ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "1 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "50.4",
+    "form": "ταμεῖα",
+    "postag": "n-p---na-",
+    "sentence": "εἰσέλθετε εἰς τὰ ταμεῖα μικρὸν ὅσον ὅσον, ἕως οὖ παρέλθῃ ἡ ὀργὴ καὶ ὁ θυμός μου, καὶ μνησθήσομαι ἡμέρας ἀγαθῆς, καὶ ἀναστήσω ὑμᾶς ἐκ τῶν θηκῶν ὑμῶν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "4 ταμεῖον    (late syncopated form of cl. ταμιεῖον; v. M, Pr., 44 f.; Bl., § 6, 5; Thackeray, Gr., 63 ff.; Deiss., BS, 182 f.), -ου, τό,    [in LXX chiefly for חֶדֶר ;]     a treasury (Thuc., al).    a store-chamber (Arist., Xen.; De 28:8): Lk 12:24.    an inner chamber (Xen., Hell., v, 4, 5 ; Is 26:20, al.): Mt 6:6 24:26, Lk 12:3.†"
+}

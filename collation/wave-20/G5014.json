@@ -1,0 +1,213 @@
+{
+ "strong": "G5014",
+ "lemma": "ταπείνωσις",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 8:33",
+   "form": "ταπεινώσει",
+   "morph": "N-DSF",
+   "gloss_en": "humiliation",
+   "gloss_ja": "低さ",
+   "verse": "ἐν τῇ ταπεινώσει ἡ κρίσις αὐτοῦ ἤρθη· τὴν γενεὰν αὐτοῦ τίς διηγήσεται; ὅτι αἴρεται ἀπὸ τῆς γῆς ἡ ζωὴ αὐτοῦ."
+  },
+  {
+   "ref": "JAS 1:10",
+   "form": "ταπεινώσει",
+   "morph": "N-DSF",
+   "gloss_en": "humiliation",
+   "gloss_ja": "低さ",
+   "verse": "ὁ δὲ πλούσιος ἐν τῇ ταπεινώσει αὐτοῦ, ὅτι ὡς ἄνθος χόρτου παρελεύσεται."
+  },
+  {
+   "ref": "LUK 1:48",
+   "form": "ταπείνωσιν",
+   "morph": "N-ASF",
+   "gloss_en": "humble state",
+   "gloss_ja": "低さ",
+   "verse": "ὅτι ἐπέβλεψεν ἐπὶ τὴν ταπείνωσιν τῆς δούλης αὐτοῦ, ἰδοὺ γὰρ ἀπὸ τοῦ νῦν μακαριοῦσίν με πᾶσαι αἱ γενεαί·"
+  },
+  {
+   "ref": "PHP 3:21",
+   "form": "ταπεινώσεως",
+   "morph": "N-GSF",
+   "gloss_en": "lowly",
+   "gloss_ja": "低さ",
+   "verse": "ὃς μετασχηματίσει τὸ σῶμα τῆς ταπεινώσεως ἡμῶν σύμμορφον τῷ σώματι τῆς δόξης αὐτοῦ κατὰ τὴν ἐνέργειαν τοῦ δύνασθαι αὐτὸν καὶ ὑποτάξαι αὑτῷ τὰ πάντα."
+  }
+ ],
+ "lxx": {
+  "total": 43,
+  "works": {
+   "Genesis": 4,
+   "Deuteronomium": 1,
+   "Regnorum i": 2,
+   "Regnorum ii": 1,
+   "Regnorum iv": 1,
+   "Esdras ii": 2,
+   "Esther": 1,
+   "Judith": 3,
+   "Machabaeorum i": 1,
+   "Machabaeorum iii": 1,
+   "Psalmi": 9,
+   "Odae": 2,
+   "Proverbia": 1,
+   "Ecclesiastes": 1,
+   "Ecclesiasticus sive Siracides": 4,
+   "Psalmi Salomonis": 2,
+   "Isaias": 2,
+   "Jeremias": 1,
+   "Threni seu Lamentationes": 3,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "89.3",
+    "form": "ταπείνωσιν",
+    "postag": "n-s---fa-",
+    "sentence": "μὴ ἀποστρέψῃς ἄνθρωπον εἰς ταπείνωσιν ·"
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "31.42",
+    "form": "ταπείνωσίν",
+    "postag": "n-s---fa-",
+    "sentence": "τὴν ταπείνωσίν μου καὶ τὸν κόπον τῶν χειρῶν μου εἶδεν ὁ Θεὸς καὶ ἤλεγξέ σε ἐχθές."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "20.11",
+    "form": "ταπεινώσεως",
+    "postag": "n-s---fg-",
+    "sentence": "ἔστιν ἐλάττωσις ἕνεκεν δόξης, καὶ ἔστιν ὃς ἀπὸ ταπεινώσεως ᾖρε κεφαλήν."
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "7.32",
+    "form": "ταπεινώσει",
+    "postag": "n-s---fd-",
+    "sentence": "καὶ ἦσαν ἐν ταπεινώσει πολλῇ ἐν τῇ πόλει."
+   },
+   {
+    "work_code": "LAM",
+    "work_ja": "哀歌",
+    "work_src": "Threni seu Lamentationes",
+    "ref": "1.9",
+    "form": "ταπείνωσίν",
+    "postag": "n-s---fa-",
+    "sentence": "ἰδέ, Κύριε, τὴν ταπείνωσίν μου, ὅτι ἐμεγαλύνθη ὁ ἐχθρός."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "9.16",
+    "form": "ταπείνωσιν",
+    "postag": "n-s---fa-",
+    "sentence": "ὅτι ἐπέβλεψα ἐπὶ τὴν ταπείνωσιν τοῦ λαοῦ μου, ὅτι ἦλθε βοὴ αὐτῶν πρός με."
+   },
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "9.5",
+    "form": "ταπεινώσεώς",
+    "postag": "n-s---fg-",
+    "sentence": "καὶ ἐν θυσίᾳ τῇ ἑσπερινῇ ἀνέστην ἀπὸ ταπεινώσεώς μου ·"
+   },
+   {
+    "work_code": "ODE",
+    "work_ja": "頌歌（オード）",
+    "work_src": "Odae",
+    "ref": "10.39",
+    "form": "ταπεινώσεως",
+    "postag": "n-s---fg-",
+    "sentence": "ἀλλ’ ἐν ψυχῇ συντετριμμένῃ καὶ πνεύματι ταπεινώσεως προς δεχθείημεν ὡς ἐν ὁλοκαυτώμασιν κριῶν καὶ ταύρων καὶ ὡς ἐν μυριάσιν ἀρνῶν πιόνων ·"
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "3.8",
+    "form": "ταπεινώσει",
+    "postag": "n-s---fd-",
+    "sentence": "ἐξιλάσατο περὶ ἀγνοίας ἐν νηστείᾳ καὶ ταπεινώσει ψυχῆς αὐτοῦ, καὶ ὁ κύριος καθαρίζει πᾶν ἄνδρα ὅσιον καὶ τὸν οἶκον αὐτοῦ."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "40.2",
+    "form": "ταπείνωσις",
+    "postag": "n-s---fn-",
+    "sentence": "ὅτι ἐπλήσθη ἡ ταπείνωσις αὐτῆς, λέλυται αὐτῆς ἡ ἁμαρτία ·"
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "26.7",
+    "form": "ταπείνωσιν",
+    "postag": "n-s---fa-",
+    "sentence": "καὶ ἀνεβοήσαμεν πρὸς Κύριον τὸν Θεὸν ἡμῶν, καὶ εἰσήκουσε Κύριος τῆς φωνῆς ἡμῶν καὶ εἶδε τὴν ταπείνωσιν ἡμῶν καὶ τὸν μόχθον ἡμῶν καὶ τὸν θλιμμὸν ἡμῶν ·"
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "16.12",
+    "form": "ταπεινώσει",
+    "postag": "n-s---fd-",
+    "sentence": "εἴπως ἴδοι Κύριος ἐν τῇ ταπεινώσει μου καὶ ἐπιστρέψει μοι ἀγαθὰ ἀντὶ τῆς κατάρας αὐτοῦ τῇ ἡμέρᾳ ταύτῃ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 3,
+  "works": {
+   "1 Clement": 3
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "16.7",
+    "form": "ταπεινώσει",
+    "postag": "n-s---fd-",
+    "sentence": "ἐν τῇ ταπεινώσει ἡ κρίσις αὐτοῦ ἤρθη."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "55.6",
+    "form": "ταπεινώσεως",
+    "postag": "n-s---fg-",
+    "sentence": "διὰ γὰρ τῆς νηστείας καὶ τῆς ταπεινώσεως αὐτῆς ἠξίωσεν τὸν παντεπόπτην δεσπότην τῶν αἰώνων ·"
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "53.2",
+    "form": "ταπεινώσει",
+    "postag": "n-s---fd-",
+    "sentence": "Μωῦσέως γὰρ ἀναβάντος εἰς τὸ ὄρος καὶ ποιήσαντος τεσσαράκοντα ἡμέρας καὶ τεσσαράκοντα νύκτας ἐν νηστείᾳ καὶ ταπεινώσει, εἶπεν πρὸς αὐτὸν ὁ θεός ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "4 ταπείνωσις, -εως, ἡ    (< ταπεινόω),    [in LXX chiefly for עֳנִי ;]     abasement, humiliation, low estate: Lk 1:48, Ac 8:33 (LXX), Phl 3:21, Ja 1:10 (Plat., Arist., and later writers).†"
+}

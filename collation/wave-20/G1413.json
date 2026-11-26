@@ -1,0 +1,174 @@
+{
+ "strong": "G1413",
+ "lemma": "δυνάστης",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1TI 6:15",
+   "form": "δυνάστης",
+   "morph": "N-NSM",
+   "gloss_en": "sovereign",
+   "gloss_ja": "権力者",
+   "verse": "ἣν καιροῖς ἰδίοις δείξει ὁ μακάριος καὶ μόνος δυνάστης, ὁ βασιλεὺς τῶν βασιλευόντων καὶ κύριος τῶν κυριευόντων,"
+  },
+  {
+   "ref": "ACT 8:27",
+   "form": "δυνάστης",
+   "morph": "N-NSM",
+   "gloss_en": "court official",
+   "gloss_ja": "権力者",
+   "verse": "καὶ ἀναστὰς ἐπορεύθη, καὶ ἰδοὺ ἀνὴρ Αἰθίοψ εὐνοῦχος δυνάστης Κανδάκης βασιλίσσης Αἰθιόπων, ὃς ἦν ἐπὶ πάσης τῆς γάζης αὐτῆς, ὃς ἐληλύθει προσκυνήσων εἰς Ἰερουσαλήμ,"
+  },
+  {
+   "ref": "LUK 1:52",
+   "form": "δυνάστας",
+   "morph": "N-APM",
+   "gloss_en": "mighty",
+   "gloss_ja": "権力者",
+   "verse": "καθεῖλεν δυνάστας ἀπὸ θρόνων καὶ ὕψωσεν ταπεινούς,"
+  }
+ ],
+ "lxx": {
+  "total": 73,
+  "works": {
+   "Genesis": 2,
+   "Leviticus": 1,
+   "Regnorum i": 1,
+   "Paralipomenon i sive Chronicon i": 2,
+   "Judith": 3,
+   "Machabaeorum ii": 9,
+   "Machabaeorum iii": 4,
+   "Psalmi": 1,
+   "Odae": 3,
+   "Proverbia": 10,
+   "Job": 10,
+   "Sapientia Salomonis": 2,
+   "Ecclesiasticus sive Siracides": 12,
+   "Amos": 1,
+   "Nahum": 1,
+   "Habacuc": 1,
+   "Isaias": 2,
+   "Jeremias": 1,
+   "Daniel": 7
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "46.6",
+    "form": "δυνάστου",
+    "postag": "n-s---mg-",
+    "sentence": "καὶ γὰρ ἐπηκολούθησεν ὀπίσω δυνάστου."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "8.3",
+    "form": "δυναστῶν",
+    "postag": "n-p---mg-",
+    "sentence": "παρὰ γὰρ πύλαις δυναστῶν παρεδρεύει, ἐν δὲ εἰσόδοις ὑμνεῖται."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "36.22",
+    "form": "δυνάστης",
+    "postag": "n-s---mn-",
+    "sentence": "τίς γάρ ἐστι κατ’ αὐτὸν δυνάστης;"
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "15.29",
+    "form": "Δυνάστην",
+    "postag": "n-s---ma-",
+    "sentence": "γενομένης δὲ κραυγῆς καὶ ταραχῆς, εὐλόγουν τὸν Δυνάστην τῇ πατρίῳ φωνῇ."
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "9.8",
+    "form": "δυνάσταις",
+    "postag": "n-p---md-",
+    "sentence": "δέσποτα, ἡμῖν ἡ αἰσχύνη τοῦ προσώπου καὶ τοῖς βασιλεῦσιν ἡμῶν καὶ δυνάσταις καὶ τοῖς πατράσιν ἡμῶν, ὅτι ἡμάρτομέν σοι."
+   },
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "6.4",
+    "form": "δυνάστην",
+    "postag": "n-s---ma-",
+    "sentence": "σὺ Φαραὼ πληθύνοντα ἅρμασι, τὸν πρὶν Αἰγύπτου ταύτης δυνάστην, ἐπαρθέντα ἀνόμῳ θράσει καὶ γλώσσῃ μεγαλορρήμονι, σὺν τῇ ὑπερηφάνῳ στρατιᾷ ποντοβρόχους ἀπώλεσας, φέγγος ἐπιφάνας ἐλέους Ἰσραὴλ γένει."
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "9.3",
+    "form": "δυνάστας",
+    "postag": "n-p---ma-",
+    "sentence": "καὶ ἐποίησαν ἀνθ’ ὧν ἔδωκας ἄρχοντας αὐτῶν εἰς φόνον καὶ τὴν στρωμνὴν αὐτῶν, ἣ ᾐδέσατο τὴν ἀπάτην αὐτῶν, εἰς αἷμα, καὶ ἐπάταξας δούλους ἐπὶ δυνάσταις καὶ δυνάστας ἐπὶ θρόνους αὐτῶν."
+   },
+   {
+    "work_code": "ODE",
+    "work_ja": "頌歌（オード）",
+    "work_src": "Odae",
+    "ref": "12.52",
+    "form": "δυνάστας",
+    "postag": "n-p---ma-",
+    "sentence": "καθεῖλεν δυνάστας ἀπὸ θρόνων καὶ ὕψωσεν ταπεινούς ·"
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "50.4",
+    "form": "δυνάστας",
+    "postag": "n-p---ma-",
+    "sentence": "ἐπεὶ δὲ παρῆλθον αἱ ἡμέραι τοῦ πένθους, ἐλάλησεν Ἰωσὴφ πρὸς τοὺς δυνάστας Φαραὼ λέγων ·"
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "29.24",
+    "form": "δυνάσται",
+    "postag": "n-p---mn-",
+    "sentence": "οἱ ἄρχοντες καὶ οἱ δυνάσται καὶ πάντες υἱοὶ Δαυὶδ τοῦ βασιλέως τοῦ πατρὸς αὐτοῦ ὑπετάγησαν αὐτῷ."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "8.11",
+    "form": "δυναστῶν",
+    "postag": "n-p---mg-",
+    "sentence": "ὀξὺς εὑρεθήσομαι ἐν κρίσει καὶ ἐν ὄψει δυναστῶν θαυμασθήσομαι ·"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "1.24",
+    "form": "δυνάστης",
+    "postag": "n-s---mn-",
+    "sentence": "διὰ τοῦτο τάδε λέγει Κύριος ὁ δεσπότης σαβαώθ, ὁ δυνάστης τοῦ Ἰσραήλ ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "3   δυνάστης, -ου, ὁ    (< δύναμαι),    [in LXX for גִּבּוֹר, עָרִיץ, בַּיִת, etc. ;]    a prince, ruler, potentate: Lk 1:52; of God (Si 46:5, 16, II Mac 15:3), I Ti 6:15; of a high official (cf. δυνάσται Φαραώ, Ge 50:4), Ac 8:27 (Cremer, 221).†"
+}

@@ -1,0 +1,168 @@
+{
+ "strong": "G612",
+ "lemma": "ἀπόκρισις",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JHN 1:22",
+   "form": "ἀπόκρισιν",
+   "morph": "N-ASF",
+   "gloss_en": "answer",
+   "gloss_ja": "答え",
+   "verse": "εἶπαν οὖν αὐτῷ· Τίς εἶ; ἵνα ἀπόκρισιν δῶμεν τοῖς πέμψασιν ἡμᾶς· τί λέγεις περὶ σεαυτοῦ;"
+  },
+  {
+   "ref": "JHN 19:9",
+   "form": "ἀπόκρισιν",
+   "morph": "N-ASF",
+   "gloss_en": "answer",
+   "gloss_ja": "答え",
+   "verse": "καὶ εἰσῆλθεν εἰς τὸ πραιτώριον πάλιν καὶ λέγει τῷ Ἰησοῦ· Πόθεν εἶ σύ; ὁ δὲ Ἰησοῦς ἀπόκρισιν οὐκ ἔδωκεν αὐτῷ."
+  },
+  {
+   "ref": "LUK 20:26",
+   "form": "ἀποκρίσει",
+   "morph": "N-DSF",
+   "gloss_en": "answer",
+   "gloss_ja": "答え",
+   "verse": "καὶ οὐκ ἴσχυσαν ἐπιλαβέσθαι τοῦ ῥήματος ἐναντίον τοῦ λαοῦ, καὶ θαυμάσαντες ἐπὶ τῇ ἀποκρίσει αὐτοῦ ἐσίγησαν."
+  },
+  {
+   "ref": "LUK 2:47",
+   "form": "ἀποκρίσεσιν",
+   "morph": "N-DPF",
+   "gloss_en": "answers",
+   "gloss_ja": "答え",
+   "verse": "ἐξίσταντο δὲ πάντες οἱ ἀκούοντες αὐτοῦ ἐπὶ τῇ συνέσει καὶ ταῖς ἀποκρίσεσιν αὐτοῦ."
+  }
+ ],
+ "lxx": {
+  "total": 13,
+  "works": {
+   "Deuteronomium": 1,
+   "Esdras ii": 1,
+   "Proverbia": 1,
+   "Job": 7,
+   "Ecclesiasticus sive Siracides": 3
+  },
+  "representatives": [
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "40.4",
+    "form": "ἀπόκρισιν",
+    "postag": "n-s---fa-",
+    "sentence": "ἐγὼ δὲ τίνα ἀπόκρισιν δῶ πρὸς ταῦτα;"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "5.11",
+    "form": "ἀπόκρισιν",
+    "postag": "n-s---fa-",
+    "sentence": "γίνου ταχὺς ἐν ἀκροάσει σου καὶ ἐν μακροθυμίᾳ φθέγγου ἀπόκρισιν."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "1.22",
+    "form": "ἀπόκρισιν",
+    "postag": "n-s---fa-",
+    "sentence": "ἀποστείλωμεν ἄνδρας προτέρους ἡμῶν, καὶ ἐφοδευσάτωσαν ἡμῖν τὴν γῆν καὶ ἀναγγειλάτωσαν ἡμῖν ἀπόκρισιν τὴν ὁδόν, δι’ ἧς ἀναβησόμεθα ἐν αὐτῇ, καὶ τὰς πόλεις εἰς ἃς εἰσπορευσόμεθα εἰς αὐτάς."
+   },
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "7.12",
+    "form": "ἀπόκρισις",
+    "postag": "n-s---fn-",
+    "sentence": "τετέλεσθαι λόγος καὶ ἡ ἀπόκρισις."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "15.1",
+    "form": "ἀπόκρισις",
+    "postag": "n-s---fn-",
+    "sentence": "ὀργὴ ἀπόλλυσι καὶ φρονίμους, ἀπόκρισις δὲ ὑποπίπτουσα ἀποστρέφει θυμόν, λόγος δὲ λυπηρὸς ἐγείρει ὀργάς."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "33.5",
+    "form": "ἀπόκρισιν",
+    "postag": "n-s---fa-",
+    "sentence": "ἐὰν δύνῃ, δός μοι ἀπόκρισιν πρὸς ταῦτα ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "20.6",
+    "form": "ἀπόκρισιν",
+    "postag": "n-s---fa-",
+    "sentence": "ἔστι σιωπῶν, οὐ γὰρ ἔχει ἀπόκρισιν, καὶ ἔστι σιωπῶν εἰδὼς καιρόν."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "31.14",
+    "form": "ἀπόκρισιν",
+    "postag": "n-s---fa-",
+    "sentence": "ἐὰν δὲ καὶ ἐπισκοπήν, τίνα ἀπόκρισιν ποιήσομαι;"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "8.9",
+    "form": "ἀπόκρισιν",
+    "postag": "n-s---fa-",
+    "sentence": "ὅτι παρ’ αὐτῶν μαθήσει σύνεσιν καὶ ἐν καιρῷ χρείας δοῦναι ἀπόκρισιν."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "35.3",
+    "form": "ἀπόκρισιν",
+    "postag": "n-s---fa-",
+    "sentence": "ἐγώ σοι δώσω ἀπόκρισιν καὶ τοῖς τρισὶ φίλοις σου."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "32.4",
+    "form": "ἀπόκρισιν",
+    "postag": "n-s---fa-",
+    "sentence": "Ἐλιοὺς δὲ ὑπέμεινε δοῦναι ἀπόκρισιν Ἰώβ, ὅτι πρεσβύτεροι αὐτοῦ εἰσιν ἡμέραις."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "32.5",
+    "form": "ἀπόκρισις",
+    "postag": "n-s---fn-",
+    "sentence": "καὶ εἶδεν ὅτι οὐκ ἔστιν ἀπόκρισις ἐν στόματι τῶν τριῶν ἀνδρῶν, καὶ ἐθυμώθη ὀργῇ αὐτοῦ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "4   ἀπό-κρισις, -εως, ἡ    (< ἀποκρίνομαι),   [in LXX for דּבר, etc.;]    an answering, an answer: Lk 2:47 20:26, Jo 1:22 19:9.†"
+}

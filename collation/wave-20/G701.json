@@ -1,0 +1,199 @@
+{
+ "strong": "G701",
+ "lemma": "ἀρεστός",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1JN 3:22",
+   "form": "ἀρεστὰ",
+   "morph": "A-APN",
+   "gloss_en": "pleasing",
+   "gloss_ja": "喜ばれる",
+   "verse": "καὶ ὃ ἐὰν αἰτῶμεν λαμβάνομεν ἀπ’ αὐτοῦ, ὅτι τὰς ἐντολὰς αὐτοῦ τηροῦμεν καὶ τὰ ἀρεστὰ ἐνώπιον αὐτοῦ ποιοῦμεν."
+  },
+  {
+   "ref": "ACT 12:3",
+   "form": "ἀρεστόν",
+   "morph": "A-NSN",
+   "gloss_en": "pleasing",
+   "gloss_ja": "喜ばれる",
+   "verse": "ἰδὼν δὲ ὅτι ἀρεστόν ἐστιν τοῖς Ἰουδαίοις προσέθετο συλλαβεῖν καὶ Πέτρον ἦσαν δὲ ἡμέραι τῶν ἀζύμων,"
+  },
+  {
+   "ref": "ACT 6:2",
+   "form": "ἀρεστόν",
+   "morph": "A-NSN",
+   "gloss_en": "right",
+   "gloss_ja": "喜ばれる",
+   "verse": "προσκαλεσάμενοι δὲ οἱ δώδεκα τὸ πλῆθος τῶν μαθητῶν εἶπαν· Οὐκ ἀρεστόν ἐστιν ἡμᾶς καταλείψαντας τὸν λόγον τοῦ θεοῦ διακονεῖν τραπέζαις·"
+  },
+  {
+   "ref": "JHN 8:29",
+   "form": "ἀρεστὰ",
+   "morph": "A-APN",
+   "gloss_en": "pleasing",
+   "gloss_ja": "喜ばれる",
+   "verse": "καὶ ὁ πέμψας με μετ’ ἐμοῦ ἐστιν· οὐκ ἀφῆκέν με μόνον, ὅτι ἐγὼ τὰ ἀρεστὰ αὐτῷ ποιῶ πάντοτε."
+  }
+ ],
+ "lxx": {
+  "total": 36,
+  "works": {
+   "Genesis": 2,
+   "Exodus": 1,
+   "Leviticus": 1,
+   "Deuteronomium": 6,
+   "Esdras ii": 4,
+   "Judith": 3,
+   "Tobias": 6,
+   "Proverbia": 1,
+   "Sapientia Salomonis": 3,
+   "Ecclesiasticus sive Siracides": 3,
+   "Isaias": 1,
+   "Jeremias": 3,
+   "Baruch": 1,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "12.8",
+    "form": "ἀρεστὸν",
+    "postag": "a-s---na-",
+    "sentence": "οὐ ποιήσετε πάντα ὅσα ἡμεῖς ποιοῦμεν ὧδε σήμερον, ἕκαστος τὸ ἀρεστὸν ἐνώπιον αὐτοῦ ·"
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "3.6",
+    "form": "ἀρεστόν",
+    "postag": "a-s---na-",
+    "sentence": "καὶ νῦν κατὰ τὸ ἀρεστόν σου ποίησον μετ’ ἐμοῦ καὶ ἐπίταξον ἀναλαβεῖν τὸ πνεῦμά μου ἐξ ἐμοῦ, ὅπως ἀπολυθῶ ἀπὸ προσώπου τῆς γῆς καὶ γένωμαι γῆ ·"
+   },
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "7.18",
+    "form": "ἀρεστὸν",
+    "postag": "a-s---na-",
+    "sentence": "καὶ εἴ τι ἐπὶ σὲ καὶ τοὺς ἀδελφούς σου ἀγαθυνθῇ ἐν καταλοίπῳ τοῦ ἀργυρίου καὶ τοῦ χρυσίου ποιῆσαι, ὡς ἀρεστὸν τῷ Θεῷ ὑμῶν ποιήσατε."
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "12.14",
+    "form": "ἀρεστόν",
+    "postag": "a-s---nn-",
+    "sentence": "ὅτι πᾶν, ὃ ἔσται ἐν τοῖς ὀφθαλμοῖς αὐτοῦ ἀρεστόν, σπεύσασα ποιήσω, καὶ ἔσται τοῦτο ἀγαλλίαμα ἕως ἡμέρας θανάτου μου."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "4.14",
+    "form": "ἀρεστὴ",
+    "postag": "a-s---fn-",
+    "sentence": "τελειωθεὶς ἐν ὀλίγῳ ἐπλήρωσε χρόνους μακρούς, ἀρεστὴ γὰρ ἦν Κυρίῳ ἡ ψυχὴ αὐτοῦ ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "19.19",
+    "form": "ἀρεστὰ",
+    "postag": "a-p---na-",
+    "sentence": "γνῶσις ἐντολῶν Κυρίου παιδεία ζωῆς, οἱ δὲ ποιοῦντες τὰ ἀρεστὰ αὐτῷ ἀθανασίας δένδρον καρποῦνται."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "18.12",
+    "form": "ἀρεστά",
+    "postag": "a-p---na-",
+    "sentence": "ἀνδριούμεθα, ὅτι ὀπίσω τῶν ἀποστροφῶν ἡμῶν πορευσόμεθα καὶ ἕκαστος τὰ ἀρεστά τῆς καρδίας αὐτοῦ τῆς πονηρᾶς ποιήσομεν."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "16.6",
+    "form": "ἀρεστόν",
+    "postag": "a-s---nn-",
+    "sentence": "χρῶ αὐτῇ ὡς ἄν σοι ἀρεστόν ᾖ."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "15.26",
+    "form": "ἀρεστὰ",
+    "postag": "a-p---na-",
+    "sentence": "ἐὰν ἀκοῇ ἀκούσῃς τῆς φωνῆς Κυρίου τοῦ Θεοῦ σου καὶ τὰ ἀρεστὰ ἐναντίον αὐτοῦ ποιήσῃς καὶ ἐνωτίσῃ ταῖς ἐντολαῖς αὐτοῦ καὶ φυλάξῃς πάντα τὰ δικαιώματα αὐτοῦ, πᾶσαν νόσον, ἣν ἐπήγαγον τοῖς Αἰγυπτίοις, οὐκ ἐπάξω ἐπὶ σέ ·"
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "10.19",
+    "form": "ἀρεστὸν",
+    "postag": "a-s---nn-",
+    "sentence": "καὶ φάγομαι τὰ περί τῆς ἁμαρτίας σήμερον, μὴ ἀρεστὸν ἔσται Κυρίῳ;"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "21.3",
+    "form": "ἀρεστὰ",
+    "postag": "a-p---na-",
+    "sentence": "ποιεῖν δίκαια καὶ ἀληθεύειν ἀρεστὰ παρὰ Θεῷ μᾶλλον ἢ θυσιῶν αἷμα."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "38.3",
+    "form": "ἀρεστά",
+    "postag": "a-p---na-",
+    "sentence": "μνήσθητι, Κύριε, ὡς ἐπορεύθην ἐνώπιόν σου μετὰ ἀληθείας, ἐν καρδίᾳ ἀληθινῇ, καὶ τὰ ἀρεστά ἐνώπιόν σου ἐποίησα ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "Barnabas": 1,
+   "Didache": 1
+  },
+  "representatives": [
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "19.2",
+    "form": "ἀρεστὸν",
+    "postag": "a-s---nn-",
+    "sentence": "οὐ κολληθήσῃ μετὰ τῶν πορευομένων ἐν ὁδῷ θανάτου, μισήσεις πᾶν, ὃ οὐκ ἔστιν ἀρεστὸν τῷ θεῷ, μισήσεις πᾶσαν ὑπόκρισιν ·"
+   },
+   {
+    "work_code": "DID",
+    "work_ja": "ディダケー",
+    "work_src": "Didache",
+    "ref": "4.12",
+    "form": "ἀρεστὸν",
+    "postag": "a-s---nn-",
+    "sentence": "μισήσεις πᾶσαν ὑπόκρισιν καὶ πᾶν ὃ μὴ ἀρεστὸν τῷ κυρίῳ."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "4   ἀρεστός, -ή, -όν    (< ἀρέσκω),   [in LXX for ישׁר, etc.;]    pleasing, agreeable (Hdt., Xen., and later writers; v. Cremer, 641 f; MM, s.v.): c. dat. pers., Jo 8:29, Ac 12:3; seq. ἐνώπιον, c. gen. (Bl., § 37, 1; 40, 7), I Jn 3:22; ἀρεστόν ἐστιν, c. acc. et inf (Bl., § 69, 5; 72, 5), Ac 6:2.†"
+}

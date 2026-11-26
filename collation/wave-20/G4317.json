@@ -1,0 +1,266 @@
+{
+ "strong": "G4317",
+ "lemma": "προσάγω",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1PE 3:18",
+   "form": "προσαγάγῃ",
+   "morph": "V-2AAS-3S",
+   "gloss_en": "bring",
+   "gloss_ja": "近づける",
+   "verse": "ὅτι καὶ Χριστὸς ἅπαξ περὶ ἁμαρτιῶν ἔπαθεν, δίκαιος ὑπὲρ ἀδίκων, ἵνα ὑμᾶς προσαγάγῃ τῷ θεῷ, θανατωθεὶς μὲν σαρκὶ ζῳοποιηθεὶς δὲ πνεύματι·"
+  },
+  {
+   "ref": "ACT 16:20",
+   "form": "προσαγαγόντες",
+   "morph": "V-2AAP-NPM",
+   "gloss_en": "brought",
+   "gloss_ja": "近づける",
+   "verse": "καὶ προσαγαγόντες αὐτοὺς τοῖς στρατηγοῖς εἶπαν· Οὗτοι οἱ ἄνθρωποι ἐκταράσσουσιν ἡμῶν τὴν πόλιν Ἰουδαῖοι ὑπάρχοντες,"
+  },
+  {
+   "ref": "ACT 27:27",
+   "form": "προσάγειν",
+   "morph": "V-PAN",
+   "gloss_en": "approaching",
+   "gloss_ja": "近づける",
+   "verse": "Ὡς δὲ τεσσαρεσκαιδεκάτη νὺξ ἐγένετο διαφερομένων ἡμῶν ἐν τῷ Ἀδρίᾳ, κατὰ μέσον τῆς νυκτὸς ὑπενόουν οἱ ναῦται προσάγειν τινὰ αὐτοῖς χώραν."
+  },
+  {
+   "ref": "LUK 9:41",
+   "form": "προσάγαγε",
+   "morph": "V-2AAM-2S",
+   "gloss_en": "bring",
+   "gloss_ja": "近づける",
+   "verse": "ἀποκριθεὶς δὲ ὁ Ἰησοῦς εἶπεν· Ὦ γενεὰ ἄπιστος καὶ διεστραμμένη, ἕως πότε ἔσομαι πρὸς ὑμᾶς καὶ ἀνέξομαι ὑμῶν; προσάγαγε ὧδε τὸν υἱόν σου."
+  }
+ ],
+ "lxx": {
+  "total": 151,
+  "works": {
+   "Genesis": 3,
+   "Exodus": 11,
+   "Leviticus": 35,
+   "Numeri": 15,
+   "Josue": 4,
+   "Regnorum i": 20,
+   "Regnorum ii": 5,
+   "Regnorum iii": 4,
+   "Regnorum iv": 1,
+   "Paralipomenon ii sive Chronicon ii": 3,
+   "Esdras i": 1,
+   "Tobias": 3,
+   "Machabaeorum i": 3,
+   "Machabaeorum ii": 12,
+   "Machabaeorum iv": 1,
+   "Psalmi": 1,
+   "Proverbia": 2,
+   "Ecclesiasticus sive Siracides": 4,
+   "Joel": 1,
+   "Malachias": 7,
+   "Isaias": 3,
+   "Jeremias": 1,
+   "Ezechiel": 4,
+   "Susanna": 4,
+   "Daniel": 3
+  },
+  "representatives": [
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "16.20",
+    "form": "προσάξει",
+    "postag": "v3sfia---",
+    "sentence": "καὶ προσάξει τὸν χίμαρον τὸν ζῶντα."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "15.32",
+    "form": "προσαγάγετέ",
+    "postag": "v2pama---",
+    "sentence": "προσαγάγετέ μοι τὸν Ἀγὰγ βασιλέα Ἀμαλήκ."
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "27.4",
+    "form": "προσήγαγε",
+    "postag": "v3saia---",
+    "sentence": "καὶ προσήγαγε Μωυσῆς τὴν κρίσιν αὐτῶν ἔναντι Κυρίου."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "11.36",
+    "form": "προσάγομεν",
+    "postag": "v1ppia---",
+    "sentence": "ἡμεῖς γὰρ προσάγομεν πρὸς Ἀντιόχειαν."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "3.4",
+    "form": "προσάγει",
+    "postag": "v3spia---",
+    "sentence": "ὡς δὲ εἶδε Κύριος ὅτι προσάγει ἰδεῖν, ἐκάλεσεν αὐτὸν ὁ Κύριος ἐκ τοῦ βάτου λέγων ·"
+   },
+   {
+    "work_code": "MAL",
+    "work_ja": "マラキ書",
+    "work_src": "Malachias",
+    "ref": "1.8",
+    "form": "προσαγάγητε",
+    "postag": "v2pasa---",
+    "sentence": "καὶ ἐὰν προσαγάγητε χωλὸν ἢ ἄρρωστον, οὐ κακόν;"
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "11.21",
+    "form": "προσηγάγετε",
+    "postag": "v2paia---",
+    "sentence": "ἱνατί προσηγάγετε πρὸς τὸ τεῖχος;"
+   },
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "3.9",
+    "form": "προσαγάγετε",
+    "postag": "v2pama---",
+    "sentence": "προσαγάγετε ὧδε καὶ ἀκούσατε τὸ ρῆμα Κυρίου τοῦ Θεοῦ ἡμῶν."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "18.21",
+    "form": "προσήγαγεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ προσήγαγεν Ἠλιοὺ πρὸς πάντας, καὶ εἶπεν αὐτοῖς Ἠλιού ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "12.13",
+    "form": "προσάγοντας",
+    "postag": "v-pppama-",
+    "sentence": "τίς ἐλεήσει ἐπαοιδὸν ὀφιόδηκτον καὶ πάντας τοὺς προσάγοντας θηρίοις;"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "42.14",
+    "form": "προσάγοντες",
+    "postag": "v-pppamn-",
+    "sentence": "οὐκ ἐξελεύσονται ἐκ τοῦ ἁγίου εἰς τὴν αὐλὴν τὴν ἐξωτέραν, ὅπως διαπαντὸς ἅγιοι ὦσιν οἱ προσάγοντες, καὶ μὴ ἅπτωνται τοῦ στολισμοῦ αὐτῶν, ἐν οἷς λειτουργοῦσιν ἐν αὐτοῖς, διότι ἅγιά ἐστι ·"
+   },
+   {
+    "work_code": "SUS",
+    "work_ja": "スザンナ（Th）",
+    "work_src": "Susanna",
+    "ref": "56",
+    "form": "προσαγαγεῖν",
+    "postag": "v--ana---",
+    "sentence": "καὶ μεταστήσας αὐτὸν ἐκέλευσε προσαγαγεῖν τὸν ἕτερον ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 8,
+  "works": {
+   "Barnabas": 5,
+   "1 Clement": 1,
+   "To Diognetus": 1,
+   "Martyrdom of Polycarp": 1
+  },
+  "representatives": [
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "13.4",
+    "form": "προσάγαγέ",
+    "postag": "v2sama---",
+    "sentence": "προσάγαγέ μοι τοὺς υἱούς σου, ἵνα εὐλογήσω αὐτούς."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "31.3",
+    "form": "προσήγετο",
+    "postag": "v3siim---",
+    "sentence": "Ἰσαὰκ μετὰ πεποιθήσεως γινώσκων τὸ μέλλον ἡδέως προσήγετο θυσία."
+   },
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "3",
+    "form": "προσάγουσιν",
+    "postag": "v3ppia---",
+    "sentence": "εἰ δὲ τοῖς προειρημένοις ὁμοιοτρόπως τὴν θρησκείαν προσάγουσιν αὐτῷ ταύτην, διαμαρτάνουσιν."
+   },
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "9.1",
+    "form": "προσαχθέντος",
+    "postag": "v-sappmg-",
+    "sentence": "καὶ λοιπὸν προσαχθέντος αὐτοῦ, θόρυβος ἦν μέγας ἀκουσάντων, ὅτι Πολύκαρπος συνείληπται."
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "13.5",
+    "form": "προσήγαγεν",
+    "postag": "v3saia---",
+    "sentence": "ὁ γὰρ Ἰωσὴφ προσήγαγεν εἰς τὴν δεξιὰν χεῖρα τοῦ πατρὸς Ἰακώβ."
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "2.9",
+    "form": "προσάγωμεν",
+    "postag": "v1ppsa---",
+    "sentence": "αἰσθάνεσθαι οὖν ὀφείλομεν, μὴ ὄντες ἀσύνετοι, τὴν γνώμην τῆς ἀγαθωσύνης τοῦ πατρὸς ἡμῶν, ὅτ’ ἡμῖν λέγει, θέλων ἡμᾶς μὴ ὁμοίως πλανωμένους ἐκείνοις ζητεῖν, πῶς προσάγωμεν αὐτῷ."
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "1.7",
+    "form": "προσάγειν",
+    "postag": "v--pna---",
+    "sentence": "ἐγνώρισεν γὰρ ἡμῖν ὁ δεσπότης διὰ τῶν προφητῶν τὰ παρεληλυθότα καὶ τὰ ἐνεστῶτα, καὶ τῶν μελλόντων δοὺς ἀπαρχὰς ἡμῖν γεύσεως, ὧν τὰ καθ’ ἕκαστα βλέποντες ἐνεργούμενα, καθὼς ἐλάλησεν, ὀφείλομεν πλουσιώτερον καὶ ὑψηλότερον προσάγειν τῷ φόβῳ αὐτοῦ."
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "13.5",
+    "form": "προσήγαγεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ προσήγαγεν Ἐφραὶμ καὶ Μανασσῆ, τὸν Μανασσῆ θέλων ἵνα εὐλογηθῇ, ὅτι πρεσβύτερος ἦν ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "4   προσ-άγω,    [in LXX chiefly for קרב hi., also for נגשׁ etc.;]      trans., to bring or lead: c. acc. et dat., Ac 16:20; metaph., τ. θεῷ, I Pe 3:18; seq. ὧδε, Lk 9:41; pass., c. dat., Mt 18:24 (προσηνέχθη, T); in forensic sense, to summon: Ac 12:6 (προαγαγεῖν, T, WH, mg., R).     Intrans., to draw near, approach (Jos 3:9, Je 26 (46):3, al.): c. dat., Ac 27:27 (WH, προσαχεῖν).†"
+}

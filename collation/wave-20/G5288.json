@@ -1,0 +1,115 @@
+{
+ "strong": "G5288",
+ "lemma": "ὑποστέλλω",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 20:20",
+   "form": "ὑπεστειλάμην",
+   "morph": "V-AMI-1S",
+   "gloss_en": "shrink",
+   "gloss_ja": "退く",
+   "verse": "ὡς οὐδὲν ὑπεστειλάμην τῶν συμφερόντων τοῦ μὴ ἀναγγεῖλαι ὑμῖν καὶ διδάξαι ὑμᾶς δημοσίᾳ καὶ κατ’ οἴκους,"
+  },
+  {
+   "ref": "ACT 20:27",
+   "form": "ὑπεστειλάμην",
+   "morph": "V-AMI-1S",
+   "gloss_en": "shrink",
+   "gloss_ja": "退く",
+   "verse": "οὐ γὰρ ὑπεστειλάμην τοῦ μὴ ἀναγγεῖλαι πᾶσαν τὴν βουλὴν τοῦ θεοῦ ὑμῖν."
+  },
+  {
+   "ref": "GAL 2:12",
+   "form": "ὑπέστελλεν",
+   "morph": "V-IAI-3S",
+   "gloss_en": "withdrew",
+   "gloss_ja": "退く",
+   "verse": "πρὸ τοῦ γὰρ ἐλθεῖν τινας ἀπὸ Ἰακώβου μετὰ τῶν ἐθνῶν συνήσθιεν· ὅτε δὲ ἦλθον, ὑπέστελλεν καὶ ἀφώριζεν ἑαυτόν, φοβούμενος τοὺς ἐκ περιτομῆς."
+  },
+  {
+   "ref": "HEB 10:38",
+   "form": "ὑποστείληται",
+   "morph": "V-AMS-3S",
+   "gloss_en": "shrinks back",
+   "gloss_ja": "退く",
+   "verse": "ὁ δὲ δίκαιός μου ἐκ πίστεως ζήσεται, καὶ ἐὰν ὑποστείληται, οὐκ εὐδοκεῖ ἡ ψυχή μου ἐν αὐτῷ."
+  }
+ ],
+ "lxx": {
+  "total": 6,
+  "works": {
+   "Exodus": 1,
+   "Deuteronomium": 1,
+   "Job": 1,
+   "Sapientia Salomonis": 1,
+   "Habacuc": 1,
+   "Aggaeus": 1
+  },
+  "representatives": [
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "23.21",
+    "form": "ὑποστείληταί",
+    "postag": "v3sasm---",
+    "sentence": "οὐ γὰρ μὴ ὑποστείληταί σε, τὸ γὰρ ὄνομά μού ἐστιν ἐπ’ αὐτῷ."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "1.17",
+    "form": "ὑποστείλῃ",
+    "postag": "v3sasa---",
+    "sentence": "οὐκ ἐπιγνώσῃ πρόσωπον ἐν κρίσει, κατὰ τὸν μικρὸν καὶ κατὰ τὸν μέγαν κρινεῖς, οὐ μὴ ὑποστείλῃ πρόσωπον ἀνθρώπου, ὅτι ἡ κρίσις τοῦ Θεοῦ ἐστι ·"
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "13.8",
+    "form": "ὑποστελεῖσθε",
+    "postag": "v2pfim---",
+    "sentence": "ἦ ὑποστελεῖσθε;"
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "6.7",
+    "form": "ὑποστελεῖται",
+    "postag": "v3sfim---",
+    "sentence": "οὐ γὰρ ὑποστελεῖται πρόσωπον ὁ πάντων δεσπότης, οὐ-δὲ ἐντραπήσεται μέγεθος, ὅτι μικρὸν καὶ μέγαν αὐτὸς ἐποίησεν ὁμοίως τε προνοεῖ περὶ πάντων ·"
+   },
+   {
+    "work_code": "HAB",
+    "work_ja": "ハバクク書",
+    "work_src": "Habacuc",
+    "ref": "2.4",
+    "form": "ὑποστείληται",
+    "postag": "v3sasm---",
+    "sentence": "ἐὰν ὑποστείληται, οὐκ εὐδοκεῖ ἡ ψυχή μου ἐν αὐτῷ ·"
+   },
+   {
+    "work_code": "HAG",
+    "work_ja": "ハガイ書",
+    "work_src": "Aggaeus",
+    "ref": "1.10",
+    "form": "ὑποστελεῖται",
+    "postag": "v3sfim---",
+    "sentence": "ἀνθ’ ὧν ὁ οἶκός μού ἐστιν ἔρημος, ὑμεῖς δὲ διώκετε ἕκαστος εἰς τὸν οἶκον αὐτοῦ, διὰ τοῦτο ἀνέξει ὁ οὐρανὸς ἀπὸ δρόσου, καὶ ἡ γῆ ὑποστελεῖται τὰ ἐκφόρια αὐτῆς ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "4 (KJV) ὑπο-στέλλω     [in LXX: De 1:17 (גּוּר), Jb 13:8 (נָשָׂא פָּנִים), Hb 2:4 (עָפַל pu.), Hg 1:10 (כָּלָא), Ex 23:21, Wi 6:7, III Mac 5:20 * ;]    to draw in, let down (ἱστίον, οὐράν, etc.).    to draw back, withdraw: ἑαυτόν, Ga 2:12 (Polyb., al.; v. Lft., in l.). Mid., to shrink or draw back: He 10:38 (LXX); seq. τοῦ, c. inf., Ac 20:27; οὐδέν, ib. 20.†"
+}

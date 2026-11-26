@@ -1,0 +1,116 @@
+{
+ "strong": "G4560",
+ "lemma": "σάρκινος",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 3:1",
+   "form": "σαρκίνοις",
+   "morph": "A-DPM",
+   "gloss_en": "flesh",
+   "gloss_ja": "肉の",
+   "verse": "Κἀγώ, ἀδελφοί, οὐκ ἠδυνήθην λαλῆσαι ὑμῖν ὡς πνευματικοῖς ἀλλ’ ὡς σαρκίνοις, ὡς νηπίοις ἐν Χριστῷ."
+  },
+  {
+   "ref": "2CO 3:3",
+   "form": "σαρκίναις",
+   "morph": "A-DPF",
+   "gloss_en": "human",
+   "gloss_ja": "肉の",
+   "verse": "φανερούμενοι ὅτι ἐστὲ ἐπιστολὴ Χριστοῦ διακονηθεῖσα ὑφ’ ἡμῶν, ἐγγεγραμμένη οὐ μέλανι ἀλλὰ πνεύματι θεοῦ ζῶντος, οὐκ ἐν πλαξὶν λιθίναις ἀλλ’ ἐν πλαξὶν καρδίαις σαρκίναις."
+  },
+  {
+   "ref": "HEB 7:16",
+   "form": "σαρκίνης",
+   "morph": "A-GSF",
+   "gloss_en": "physical",
+   "gloss_ja": "肉の",
+   "verse": "ὃς οὐ κατὰ νόμον ἐντολῆς σαρκίνης γέγονεν ἀλλὰ κατὰ δύναμιν ζωῆς ἀκαταλύτου,"
+  },
+  {
+   "ref": "ROM 7:14",
+   "form": "σάρκινός",
+   "morph": "A-NSM",
+   "gloss_en": "flesh",
+   "gloss_ja": "肉の",
+   "verse": "Οἴδαμεν γὰρ ὅτι ὁ νόμος πνευματικός ἐστιν· ἐγὼ δὲ σάρκινός εἰμι, πεπραμένος ὑπὸ τὴν ἁμαρτίαν."
+  }
+ ],
+ "lxx": {
+  "total": 5,
+  "works": {
+   "Paralipomenon ii sive Chronicon ii": 1,
+   "Esther": 1,
+   "Proverbia": 1,
+   "Ezechiel": 2
+  },
+  "representatives": [
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "36.26",
+    "form": "σαρκίνην",
+    "postag": "a-s---fa-",
+    "sentence": "καὶ δώσω ὑμῖν καρδίαν καινὴν καὶ πνεῦμα καινὸν δώσω ἐν ὑμῖν καὶ ἀφελῶ τὴν καρδίαν τὴν λιθίνην ἐκ τῆς σαρκὸς ὑμῶν καὶ δώσω ὑμῖν καρδίαν σαρκίνην."
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "32.8",
+    "form": "σάρκινοι",
+    "postag": "a-p---mn-",
+    "sentence": "μετ’ αὐτοῦ βραχίονες σάρκινοι, μεθ’ ἡμῶν δὲ Κύριος ὁ Θεὸς ἡμῶν τοῦ σῴζειν καὶ τοῦ πολεμεῖν τὸν πόλεμον ἡμῶν."
+   },
+   {
+    "work_code": "EST",
+    "work_ja": "エステル記",
+    "work_src": "Esther",
+    "ref": "4.17ο",
+    "form": "σάρκινον",
+    "postag": "a-s---ma-",
+    "sentence": "καὶ νῦν οὐκ ἱκανώθησαν ἐν πικρασμῷ δουλείας ἡμῶν, ἀλλ’ ἔθηκαν τὰς χεῖρας αὐτῶν ἐπὶ τὰς χεῖρας τῶν εἰδώλων αὐτῶν ἐξάραι ὁρισμὸν στόματός σου καὶ ἀφανίσαι κληρονομίαν σου καὶ ἐμφράξαι στόμα αἰνούντων σοι καὶ σβέσαι δόξαν οἴκου σου καὶ θυσιαστηρίου σου, καὶ ἀνοῖξαι στόμα ἐθνῶν εἰς ἀρετὰς ματαίων καὶ θαυμασθῆναι βασιλέα σάρκινον εἰς αἰῶνα."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "24.22γ",
+    "form": "σαρκίνη",
+    "postag": "a-s---fn-",
+    "sentence": "μάχαιρα γλῶσσα βασιλέως καὶ οὐ σαρκίνη, ὃς δ’ ἂν παραδοθῇ, συντριβήσεται ·"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "11.19",
+    "form": "σαρκίνην",
+    "postag": "a-s---fa-",
+    "sentence": "καὶ δώσω αὐτοῖς καρδίαν ἑτέραν καὶ πνεῦμα καινὸν δώσω ἐν αὐτοῖς καὶ ἐκσπάσω τὴν καρδίαν τὴν λιθίνην ἐκ τῆς σαρκὸς αὐτῶν καὶ δώσω αὐτοῖς καρδίαν σαρκίνην ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Barnabas": 1
+  },
+  "representatives": [
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "6.14",
+    "form": "σαρκίνας",
+    "postag": "a-p---fa-",
+    "sentence": "ἰδού, λέγει κύριος, ἐξελῶ τούτων, τουτέστιν ὧν προέβλεπεν τὸ πνεῦμα κυρίου, τὰς λιθίνας καρδίας καὶ ἐμβαλῶ σαρκίνας ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "4   σάρκινος, -η, -ον    (< σάρξ),    [in LXX: II Ch 32:8, Ez 11:19 36:26 (בָּשָׂר), Es 4:17, Pr 24:23 (29:27) * ;]     = Lat. carneus (the termination -ινος denoting the substance or material of a thing; v. Tr., Syn., § lxxii; Lft., Notes, 184; and for illustrations from π., v. MM, xxii), of the flesh, of flesh, fleshy (Plat., Arist., Plut., al.): Ro 7:14, I Co 3:1, II Co 3:3, He 7:16. (Rec. has -ικός in all these passages except II Co, l.c., but the evidence is decisive against it.)†   SYN.: σαρκικός, q.v"
+}

@@ -1,0 +1,65 @@
+{
+ "strong": "G4934",
+ "lemma": "συντίθεμαι",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": "συντιθημι",
+ "mapping_note": "συνεθέμην-type forms under συντίθημι; συνεπέθεντο-type belongs to συνεπιτίθημι and is split off",
+ "nt_occurrences": [
+  {
+   "ref": "ACT 24:9",
+   "form": "συνεπέθεντο",
+   "morph": "V-2AMI-3P",
+   "gloss_en": "joined in the attack",
+   "gloss_ja": "取り決める",
+   "verse": "συνεπέθεντο δὲ καὶ οἱ Ἰουδαῖοι φάσκοντες ταῦτα οὕτως ἔχειν."
+  },
+  {
+   "ref": "ACT 23:20",
+   "form": "συνέθεντο",
+   "morph": "V-2AMI-3P",
+   "gloss_en": "agreed",
+   "gloss_ja": "取り決める",
+   "verse": "εἶπεν δὲ ὅτι Οἱ Ἰουδαῖοι συνέθεντο τοῦ ἐρωτῆσαί σε ὅπως αὔριον τὸν Παῦλον καταγάγῃς εἰς τὸ συνέδριον ὡς μέλλον τι ἀκριβέστερον πυνθάνεσθαι περὶ αὐτοῦ·"
+  },
+  {
+   "ref": "JHN 9:22",
+   "form": "συνετέθειντο",
+   "morph": "V-LMI-3P",
+   "gloss_en": "agreed",
+   "gloss_ja": "取り決める",
+   "verse": "ταῦτα εἶπαν οἱ γονεῖς αὐτοῦ ὅτι ἐφοβοῦντο τοὺς Ἰουδαίους, ἤδη γὰρ συνετέθειντο οἱ Ἰουδαῖοι ἵνα ἐάν τις αὐτὸν ὁμολογήσῃ χριστόν, ἀποσυνάγωγος γένηται."
+  },
+  {
+   "ref": "LUK 22:5",
+   "form": "συνέθεντο",
+   "morph": "V-2AMI-3P",
+   "gloss_en": "agreed",
+   "gloss_ja": "取り決める",
+   "verse": "καὶ ἐχάρησαν καὶ συνέθεντο αὐτῷ ἀργύριον δοῦναι."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Psalmi Salomonis": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "8.10",
+    "form": "συνέθεντο",
+    "postag": "v3paim---",
+    "sentence": "ἐμοιχῶντο ἕκαστος τὴν γυναῖκα τοῦ πλησίον αὐτοῦ, συνέθεντο αὑτοῖς συνθήκας μετὰ ὅρκου περὶ τούτων."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "3 συν-τίθημι     [in LXX: I Ki 22:13 (קשׁר), etc. ;]    to place or put together, in various senses. Mid.,    to observe, perceive;    to determine, agree, covenant: c. inf., Lk 22:5; seq. τοῦ, c. inf., Ac 23:20; seq. ἵνα, Jo 9:22.†"
+}

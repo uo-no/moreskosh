@@ -1,0 +1,97 @@
+{
+ "strong": "G5432",
+ "lemma": "φρουρέω",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1PE 1:5",
+   "form": "φρουρουμένους",
+   "morph": "V-PPP-APM",
+   "gloss_en": "protected",
+   "gloss_ja": "守る",
+   "verse": "τοὺς ἐν δυνάμει θεοῦ φρουρουμένους διὰ πίστεως εἰς σωτηρίαν ἑτοίμην ἀποκαλυφθῆναι ἐν καιρῷ ἐσχάτῳ."
+  },
+  {
+   "ref": "2CO 11:32",
+   "form": "ἐφρούρει",
+   "morph": "V-IAI-3S",
+   "gloss_en": "guarding",
+   "gloss_ja": "守る",
+   "verse": "ἐν Δαμασκῷ ὁ ἐθνάρχης Ἁρέτα τοῦ βασιλέως ἐφρούρει τὴν πόλιν Δαμασκηνῶν πιάσαι με,"
+  },
+  {
+   "ref": "GAL 3:23",
+   "form": "ἐφρουρούμεθα",
+   "morph": "V-IPI-1P",
+   "gloss_en": "imprisoned",
+   "gloss_ja": "守る",
+   "verse": "Πρὸ τοῦ δὲ ἐλθεῖν τὴν πίστιν ὑπὸ νόμον ἐφρουρούμεθα συγκλειόμενοι εἰς τὴν μέλλουσαν πίστιν ἀποκαλυφθῆναι."
+  },
+  {
+   "ref": "PHP 4:7",
+   "form": "φρουρήσει",
+   "morph": "V-FAI-3S",
+   "gloss_en": "guard",
+   "gloss_ja": "守る",
+   "verse": "καὶ ἡ εἰρήνη τοῦ θεοῦ ἡ ὑπερέχουσα πάντα νοῦν φρουρήσει τὰς καρδίας ὑμῶν καὶ τὰ νοήματα ὑμῶν ἐν Χριστῷ Ἰησοῦ."
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Esdras i": 1,
+   "Judith": 1,
+   "Sapientia Salomonis": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1ES",
+    "work_ja": "エズラ記（ギリシャ語）",
+    "work_src": "Esdras i",
+    "ref": "4.56",
+    "form": "φρουροῦσι",
+    "postag": "v-pppamd-",
+    "sentence": "καὶ τοῖς Λευίταις ἔγραψε δοῦναι τὴν χορηγίαν ἕως τῆς ἡμέρας, ἧς ἐπιτελεσθῇ ὁ οἶκος καὶ Ἱερουσαλὴμ οἰκοδομηθῆναι, καὶ πᾶσι τοῖς φρουροῦσι τὴν πόλιν ἔγραψε δοῦναι αὐτοῖς κλήρους καὶ ὀψώνια."
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "3.6",
+    "form": "ἐφρούρησε",
+    "postag": "v3saia---",
+    "sentence": "καὶ κατέβη ἐπὶ τὴν παραλίαν αὐτὸς καὶ ἡ δύναμις αὐτοῦ καὶ ἐφρούρησε τὰς πόλεις τὰς ὑψηλὰς καὶ ἔλαβεν ἐξ αὐτῶν εἰς συμμαχίαν ἄνδρας ἐπιλέκτους ·"
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "17.15",
+    "form": "ἐφρουρεῖτο",
+    "postag": "v3siim---",
+    "sentence": "εἶθ’ οὕτως, ὃς δήποτ’ οὖν ἦν ἐκεῖ καταπίπτων, ἐφρουρεῖτο εἰς τὴν ἀσίδηρον εἱρκτὴν κατακλεισθείς ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "To Diognetus": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "6",
+    "form": "φρουρεῖται",
+    "postag": "v3spim---",
+    "sentence": "ἀόρατος ἡ ψυχὴ ἐν ὁρατῷ φρουρεῖται τῷ σώματι ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "4 φρουρέω, -ῶ     (< φρουρός, a guard),    [in LXX: I Es 4:56, Jth 3:6, Wi 17:16, I Mac 11:3 * ;]    to guard, keep under guard, protect or keep by guarding: II Co 11:32; metaph., Ga 3:23, Phl 4:7, I Pe 1:5.†"
+}

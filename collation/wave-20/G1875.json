@@ -1,0 +1,57 @@
+{
+ "strong": "G1875",
+ "lemma": "ἐπάν",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 11:22",
+   "form": "ἐπὰν",
+   "morph": "CONJ",
+   "gloss_en": "when",
+   "gloss_ja": "〜するとき",
+   "verse": "ἐπὰν δὲ ἰσχυρότερος αὐτοῦ ἐπελθὼν νικήσῃ αὐτόν, τὴν πανοπλίαν αὐτοῦ αἴρει ἐφ’ ᾗ ἐπεποίθει, καὶ τὰ σκῦλα αὐτοῦ διαδίδωσιν."
+  },
+  {
+   "ref": "LUK 11:34",
+   "form": "ἐπὰν",
+   "morph": "CONJ",
+   "gloss_en": "when",
+   "gloss_ja": "〜するとき",
+   "verse": "ὁ λύχνος τοῦ σώματός ἐστιν ὁ ὀφθαλμός σου. ὅταν ὁ ὀφθαλμός σου ἁπλοῦς ᾖ, καὶ ὅλον τὸ σῶμά σου φωτεινόν ἐστιν· ἐπὰν δὲ πονηρὸς ᾖ, καὶ τὸ σῶμά σου σκοτεινόν."
+  },
+  {
+   "ref": "MAT 2:8",
+   "form": "ἐπὰν",
+   "morph": "CONJ",
+   "gloss_en": "when",
+   "gloss_ja": "〜するとき",
+   "verse": "καὶ πέμψας αὐτοὺς εἰς Βηθλέεμ εἶπεν· Πορευθέντες ἐξετάσατε ἀκριβῶς περὶ τοῦ παιδίου· ἐπὰν δὲ εὕρητε, ἀπαγγείλατέ μοι, ὅπως κἀγὼ ἐλθὼν προσκυνήσω αὐτῷ."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Bel et Draco": 1
+  },
+  "representatives": [
+   {
+    "work_code": "BEL",
+    "work_ja": "ベルと竜（Th）",
+    "work_src": "Bel et Draco",
+    "ref": "11-DIV=14",
+    "form": "ἐπὰν",
+    "postag": "c--------",
+    "sentence": "σὺ οὖν ἐπισφράγισαι τὰς κλεῖδας τοῦ ναοῦ, ἐπὰν κλεισθῇ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "3   † ἐπ-άν      conj.     (< ἐπεί, q.v., ἄν)       later form of ἐπήν,    after, when: c. subjc. Pres., Lk 11:34; c. subjc. aor., Mt 2:8, Lk 11:22.†"
+}

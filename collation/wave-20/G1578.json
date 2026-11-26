@@ -1,0 +1,208 @@
+{
+ "strong": "G1578",
+ "lemma": "ἐκκλίνω",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1PE 3:11",
+   "form": "ἐκκλινάτω",
+   "morph": "V-AAM-3S",
+   "gloss_en": "turn away",
+   "gloss_ja": "離れる",
+   "verse": "ἐκκλινάτω δὲ ἀπὸ κακοῦ καὶ ποιησάτω ἀγαθόν, ζητησάτω εἰρήνην καὶ διωξάτω αὐτήν·"
+  },
+  {
+   "ref": "ROM 16:17",
+   "form": "ἐκκλίνετε",
+   "morph": "V-PAM-2P",
+   "gloss_en": "avoid",
+   "gloss_ja": "離れる",
+   "verse": "Παρακαλῶ δὲ ὑμᾶς, ἀδελφοί, σκοπεῖν τοὺς τὰς διχοστασίας καὶ τὰ σκάνδαλα παρὰ τὴν διδαχὴν ἣν ὑμεῖς ἐμάθετε ποιοῦντας, καὶ ἐκκλίνετε ἀπ’ αὐτῶν·"
+  },
+  {
+   "ref": "ROM 3:12",
+   "form": "ἐξέκλιναν",
+   "morph": "V-AAI-3P",
+   "gloss_en": "turned aside",
+   "gloss_ja": "離れる",
+   "verse": "πάντες ἐξέκλιναν, ἅμα ἠχρεώθησαν· οὐκ ἔστιν ποιῶν χρηστότητα, οὐκ ἔστιν ἕως ἑνός."
+  }
+ ],
+ "lxx": {
+  "total": 147,
+  "works": {
+   "Genesis": 4,
+   "Exodus": 3,
+   "Numeri": 7,
+   "Deuteronomium": 9,
+   "Josue": 2,
+   "Judices": 10,
+   "Ruth": 2,
+   "Regnorum i": 8,
+   "Regnorum ii": 4,
+   "Regnorum iii": 7,
+   "Regnorum iv": 4,
+   "Paralipomenon i sive Chronicon i": 2,
+   "Paralipomenon ii sive Chronicon ii": 4,
+   "Esdras ii": 2,
+   "Machabaeorum i": 7,
+   "Psalmi": 18,
+   "Proverbia": 17,
+   "Job": 8,
+   "Ecclesiasticus sive Siracides": 7,
+   "Osee": 1,
+   "Amos": 2,
+   "Joel": 1,
+   "Sophonias": 1,
+   "Malachias": 3,
+   "Isaias": 3,
+   "Jeremias": 4,
+   "Baruch": 1,
+   "Threni seu Lamentationes": 1,
+   "Ezechiel": 1,
+   "Susanna": 2,
+   "Daniel": 2
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "118.157",
+    "form": "ἐξέκλινα",
+    "postag": "v1saia---",
+    "sentence": "ἐκ τῶν μαρτυρίων σου οὐκ ἐξέκλινα."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "9.4",
+    "form": "ἐκκλινάτω",
+    "postag": "v3sama---",
+    "sentence": "ὅς ἐστιν ἄφρων, ἐκκλινάτω πρός με ·"
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "4.18",
+    "form": "ἐξέκλινε",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἐξέκλινε πρὸς αὐτὴν εἰς τὴν σκηνήν."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "27.19",
+    "form": "ἐκκλίνῃ",
+    "postag": "v3spsa---",
+    "sentence": "ἐπικατάρατος ὃς ἂν ἐκκλίνῃ κρίσιν προσηλύτου καὶ ὀρφανοῦ καὶ χήρας ·"
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "15.6",
+    "form": "ἐξέκλινεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἐξέκλινεν ὁ Κιναῖος ἐκ μέσου Ἀμαλήκ."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "34.20",
+    "form": "ἐκκλινομένων",
+    "postag": "v-pppmng-",
+    "sentence": "ἐχρήσαντο γὰρ παρανόμως ἐκκλινομένων ἀδυνάτων."
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "21.21",
+    "form": "ἐκκλινοῦμεν",
+    "postag": "v1pfia---",
+    "sentence": "τῇ ὁδῷ πορευσόμεθα, οὐκ ἐκκλινοῦμεν οὔ-τε εἰς ἀγρὸν οὔ-τε εἰς ἀμπελῶνα, οὐ πιόμεθα ὕδωρ ἐκ φρέατός σου ·"
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "11.2",
+    "form": "ἐκκλίνωσι",
+    "postag": "v3pasa---",
+    "sentence": "οὐκ εἰσελεύσεσθε εἰς αὐτούς, καὶ αὐτοὶ οὐκ εἰσελεύσονται εἰς ὑμᾶς, μὴ ἐκκλίνωσι τὰς καρδίας ὑμῶν ὀπίσω εἰδώλων αὐτῶν ·"
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "6.47",
+    "form": "ἐξέκλιναν",
+    "postag": "v3paia---",
+    "sentence": "καὶ εἶδον τὴν ἰσχὺν τῆς βασιλείας καὶ τὸ ὅρμημα τῶν δυνάμεων, καὶ ἐξέκλιναν ἀπ’ αὐτῶν."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "7.2",
+    "form": "ἐκκλινεῖ",
+    "postag": "v3sfia---",
+    "sentence": "ἀπόστηθι ἀπὸ ἀδίκου, καὶ ἐκκλινεῖ ἀπὸ σοῦ."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "18.5",
+    "form": "ἐξεκλίνατε",
+    "postag": "v2paia---",
+    "sentence": "καὶ λήψομαι ἄρτον, καὶ φάγεσθε, καὶ μετὰ τοῦτο παρελεύσεσθε εἰς τὴν ὁδὸν ὑμῶν, οὗ ἕνεκεν ἐξεκλίνατε πρὸς τὸν παῖδα ὑμῶν."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "2.21",
+    "form": "ἐκκλῖναι",
+    "postag": "v--ana---",
+    "sentence": "καὶ οὐκ ἠθέλησεν Ἀσαὴλ ἐκκλῖναι ἐκ τῶν ὄπισθεν αὐτοῦ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "1 Clement": 1,
+   "Ignatius, Letters": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "22.4",
+    "form": "ἔκκλινον",
+    "postag": "v2sama---",
+    "sentence": "ἔκκλινον ἀπὸ κακοῦ, καὶ ποίησον ἀγαθόν."
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "1.7.1",
+    "form": "ἐκκλίνειν",
+    "postag": "v--pna---",
+    "sentence": "οὕς δεῖ ὑμᾶς ὡς θηρία ἐκκλίνειν ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3   ἐκ-κλίνω     [in LXX for נָטָה, סוּר, etc. ;]    intrans., to turn aside, turn away: metaph., from the right path, absol., Ro 3:12 (LXX); from evil, absol., I Pe 3:11; seq. ἀπό, c. gen. pers., Ro 16:17.†"
+}

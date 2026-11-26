@@ -1,0 +1,144 @@
+{
+ "strong": "G5082",
+ "lemma": "τηλικοῦτος",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2CO 1:10",
+   "form": "τηλικούτου",
+   "morph": "D-GSM",
+   "gloss_en": "so great",
+   "gloss_ja": "かほどの",
+   "verse": "ὃς ἐκ τηλικούτου θανάτου ἐρρύσατο ἡμᾶς καὶ ῥύσεται, εἰς ὃν ἠλπίκαμεν ὅτι καὶ ἔτι ῥύσεται,"
+  },
+  {
+   "ref": "HEB 2:3",
+   "form": "τηλικαύτης",
+   "morph": "D-GSF",
+   "gloss_en": "so great",
+   "gloss_ja": "かほどの",
+   "verse": "πῶς ἡμεῖς ἐκφευξόμεθα τηλικαύτης ἀμελήσαντες σωτηρίας, ἥτις, ἀρχὴν λαβοῦσα λαλεῖσθαι διὰ τοῦ κυρίου, ὑπὸ τῶν ἀκουσάντων εἰς ἡμᾶς ἐβεβαιώθη,"
+  },
+  {
+   "ref": "JAS 3:4",
+   "form": "τηλικαῦτα",
+   "morph": "D-NPN",
+   "gloss_en": "so large",
+   "gloss_ja": "かほどの",
+   "verse": "ἰδοὺ καὶ τὰ πλοῖα, τηλικαῦτα ὄντα καὶ ὑπὸ ἀνέμων σκληρῶν ἐλαυνόμενα, μετάγεται ὑπὸ ἐλαχίστου πηδαλίου ὅπου ἡ ὁρμὴ τοῦ εὐθύνοντος βούλεται·"
+  },
+  {
+   "ref": "REV 16:18",
+   "form": "τηλικοῦτος",
+   "morph": "D-NSM",
+   "gloss_en": "so great",
+   "gloss_ja": "かほどの",
+   "verse": "καὶ ἐγένοντο ἀστραπαὶ καὶ φωναὶ καὶ βρονταί, καὶ σεισμὸς ἐγένετο μέγας, οἷος οὐκ ἐγένετο ἀφ’ οὗ ἄνθρωποι ἐγένοντο ἐπὶ τῆς γῆς τηλικοῦτος σεισμὸς οὕτω μέγας,"
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Machabaeorum ii": 1,
+   "Machabaeorum iii": 1,
+   "Machabaeorum iv": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "12.3",
+    "form": "τηλικοῦτο",
+    "postag": "p-s---na-",
+    "sentence": "Ἰοππῖται δὲ τηλικοῦτο συνετέλεσαν τὸ δυσσέβημα ·"
+   },
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "3.9",
+    "form": "τηλικοῦτο",
+    "postag": "p-s---na-",
+    "sentence": "μὴ γὰρ οὕτως παροραθήσεσθαι τηλικοῦτο σύστεμα μηδὲν ἠγνοηκός."
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "16.4",
+    "form": "τηλικαῦτα",
+    "postag": "p-p---na-",
+    "sentence": "ἀλλὰ τῷ λογισμῷ τῆς εὐσεβείας κατέσβεσε τοσαῦτα καὶ τηλικαῦτα πάθη ἡ μήτηρ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 6,
+  "works": {
+   "Barnabas": 2,
+   "Hermas, Pastor": 3,
+   "Martyrdom of Polycarp": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "4.2.3",
+    "form": "τηλικοῦτο",
+    "postag": "p-s---na-",
+    "sentence": "κυρία, τηλικοῦτο θηρίον, δυνάμενον λαοὺς διαφθεῖραι ·"
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "4.14",
+    "form": "τηλικαῦτα",
+    "postag": "p-p---na-",
+    "sentence": "ὅταν βλέπετε μετὰ τηλικαῦτα σημεῖα καὶ τέρατα γεγονότα ἐν τῷ Ἰσραήλ, καὶ οὕτως ἐγκαταλελεῖφθαι αὐτούς ·"
+   },
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "8.3",
+    "form": "τηλικούτου",
+    "postag": "p-s---mg-",
+    "sentence": "καὶ μὴ ἐπιστραφείς, ὡς οὐδὲν πεπονθὼς προθύμως μετὰ σπουδῆς ἐπορεύετο, ἀγόμενος εἰς τὸ στάδιον, θορύβου τηλικούτου ὄντος ἐν τῷ σταδίῳ, ὡς μη-δὲ ἀκουσθῆναί τινα δύνασθαι."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "4.2.4",
+    "form": "τηλικοῦτο",
+    "postag": "p-s---na-",
+    "sentence": "μεγάλην θλῖψιν ἐκπέφευγας διὰ τὴν πίστιν σου καὶ ὅτι τηλικοῦτο θηρίον ἰδὼν οὐκ ἐδιψύχησας ·"
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "5.8",
+    "form": "τηλικαῦτα",
+    "postag": "p-p---na-",
+    "sentence": "πέρας γέ τοι διδάσκων τὸν Ἰσραὴλ καὶ τηλικαῦτα τέρατα καὶ σημεῖα ποιῶν ἐκήρυσσεν, καὶ ὑπερηγάπησεν αὐτόν."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "4.1.9",
+    "form": "τηλικοῦτο",
+    "postag": "p-s---na-",
+    "sentence": "ἔρχομαι ἐγγὺς αὐτοῦ, καὶ τὸ τηλικοῦτο κῆτος ἐκτείνει ἑαυτὸ χαμαὶ καὶ οὐδὲν εἰ μὴ τὴν γλῶσσαν προέβαλλεν καὶ ὅλως οὐκ ἐκινήθη, μέχρις ὅτε παρῆλθον αὐτό ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "4 * τηλικοῦτος, -αύτη, -οῦτο    (altern. of τηλικόσδε, -ήδε, -όνδε, strength­ened form of τηλίκος),    [in LXX: II Mac 12:3, III Mac 3:9, IV Mac 16:4 * ;]       of persons,    of such an age, so old;    so young.    Of things, so great: II Co 1:10, He 2:3, Ja 3:4, Re 16:18.†"
+}

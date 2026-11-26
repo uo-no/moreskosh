@@ -1,0 +1,69 @@
+{
+ "strong": "G1253",
+ "lemma": "διάκρισις",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 12:10",
+   "form": "διακρίσεις",
+   "morph": "N-NPF",
+   "gloss_en": "distinguishing",
+   "gloss_ja": "識別",
+   "verse": "ἄλλῳ ἐνεργήματα δυνάμεων, ἄλλῳ προφητεία, ἄλλῳ διακρίσεις πνευμάτων, ἑτέρῳ γένη γλωσσῶν, ἄλλῳ ἑρμηνεία γλωσσῶν·"
+  },
+  {
+   "ref": "HEB 5:14",
+   "form": "διάκρισιν",
+   "morph": "N-ASF",
+   "gloss_en": "discern",
+   "gloss_ja": "識別",
+   "verse": "τελείων δέ ἐστιν ἡ στερεὰ τροφή, τῶν διὰ τὴν ἕξιν τὰ αἰσθητήρια γεγυμνασμένα ἐχόντων πρὸς διάκρισιν καλοῦ τε καὶ κακοῦ."
+  },
+  {
+   "ref": "ROM 14:1",
+   "form": "διακρίσεις",
+   "morph": "N-APF",
+   "gloss_en": "purpose of quarreling",
+   "gloss_ja": "識別",
+   "verse": "Τὸν δὲ ἀσθενοῦντα τῇ πίστει προσλαμβάνεσθε, μὴ εἰς διακρίσεις διαλογισμῶν."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Job": 1
+  },
+  "representatives": [
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "37.16",
+    "form": "διάκρισιν",
+    "postag": "n-s---fa-",
+    "sentence": "ἐπίσταται δὲ διάκρισιν νεφῶν, ἐξαίσια δὲ πτώματα πονηρῶν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "1 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "48.5",
+    "form": "διακρίσει",
+    "postag": "n-s---fd-",
+    "sentence": "ἤτω τις πιστός, ἤτω δυνατὸς γνῶσιν ἐξειπεῖν, ἤτω σοφὸς ἐν διακρίσει λόγων, ἤτω ἁγνὸς ἐν ἔργοις."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3   διά-κρισις, -εως, ἡ    (< διακρίνω)    [in LXX for מִפְלָשׂ, Jb 37:16 * ;]    the act of judgment, discernment: Ro 14:1, I Co 12:10, He 5:14.†"
+}

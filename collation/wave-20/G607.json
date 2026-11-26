@@ -1,0 +1,65 @@
+{
+ "strong": "G607",
+ "lemma": "ἀποκεφαλίζω",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 9:9",
+   "form": "ἀπεκεφάλισα",
+   "morph": "V-AAI-1S",
+   "gloss_en": "beheaded",
+   "gloss_ja": "首を切る",
+   "verse": "εἶπεν δὲ ὁ Ἡρῴδης· Ἰωάννην ἐγὼ ἀπεκεφάλισα· τίς δέ ἐστιν οὗτος περὶ οὗ ἀκούω τοιαῦτα; καὶ ἐζήτει ἰδεῖν αὐτόν."
+  },
+  {
+   "ref": "MAT 14:10",
+   "form": "ἀπεκεφάλισεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "beheaded",
+   "gloss_ja": "首を切る",
+   "verse": "καὶ πέμψας ἀπεκεφάλισεν τὸν Ἰωάννην ἐν τῇ φυλακῇ·"
+  },
+  {
+   "ref": "MRK 6:16",
+   "form": "ἀπεκεφάλισα",
+   "morph": "V-AAI-1S",
+   "gloss_en": "beheaded",
+   "gloss_ja": "首を切る",
+   "verse": "ἀκούσας δὲ ὁ Ἡρῴδης ἔλεγεν· Ὃν ἐγὼ ἀπεκεφάλισα Ἰωάννην, οὗτος ἠγέρθη."
+  },
+  {
+   "ref": "MRK 6:27",
+   "form": "ἀπεκεφάλισεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "beheaded",
+   "gloss_ja": "首を切る",
+   "verse": "καὶ εὐθὺς ἀποστείλας ὁ βασιλεὺς σπεκουλάτορα ἐπέταξεν ἐνέγκαι τὴν κεφαλὴν αὐτοῦ. καὶ ἀπελθὼν ἀπεκεφάλισεν αὐτὸν ἐν τῇ φυλακῇ"
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Psalmi": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "151.7",
+    "form": "ἀπεκεφάλισα",
+    "postag": "v1saia---",
+    "sentence": "ἐγὼ δέ, σπασάμενος τὴν παρ’ αὐτοῦ μάχαιραν, ἀπεκεφάλισα αὐτὸν καὶ ἦρα ὄνειδος ἐξ υἱῶν Ἰσραήλ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "4   † ἀπο-κεφαλίζω    (< ἀπό, κεφαλή),   [in LXX: Ps 151:7*;]    to behead: Mt 14:10, Mk 6:16, 28, Lk 9:9.†"
+}

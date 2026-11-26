@@ -1,0 +1,192 @@
+{
+ "strong": "G1841",
+ "lemma": "ἔξοδος",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2PE 1:15",
+   "form": "ἔξοδον",
+   "morph": "N-ASF",
+   "gloss_en": "departure",
+   "gloss_ja": "旅立ち",
+   "verse": "σπουδάσω δὲ καὶ ἑκάστοτε ἔχειν ὑμᾶς μετὰ τὴν ἐμὴν ἔξοδον τὴν τούτων μνήμην ποιεῖσθαι."
+  },
+  {
+   "ref": "HEB 11:22",
+   "form": "ἐξόδου",
+   "morph": "N-GSF",
+   "gloss_en": "exodus",
+   "gloss_ja": "旅立ち",
+   "verse": "πίστει Ἰωσὴφ τελευτῶν περὶ τῆς ἐξόδου τῶν υἱῶν Ἰσραὴλ ἐμνημόνευσεν, καὶ περὶ τῶν ὀστέων αὐτοῦ ἐνετείλατο."
+  },
+  {
+   "ref": "LUK 9:31",
+   "form": "ἔξοδον",
+   "morph": "N-ASF",
+   "gloss_en": "departure",
+   "gloss_ja": "旅立ち",
+   "verse": "οἳ ὀφθέντες ἐν δόξῃ ἔλεγον τὴν ἔξοδον αὐτοῦ ἣν ἤμελλεν πληροῦν ἐν Ἰερουσαλήμ."
+  }
+ ],
+ "lxx": {
+  "total": 70,
+  "works": {
+   "Exodus": 2,
+   "Numeri": 2,
+   "Judices": 2,
+   "Regnorum i": 1,
+   "Regnorum ii": 3,
+   "Regnorum iii": 6,
+   "Regnorum iv": 1,
+   "Paralipomenon i sive Chronicon i": 2,
+   "Paralipomenon ii sive Chronicon ii": 5,
+   "Esdras ii": 1,
+   "Judith": 2,
+   "Machabaeorum iii": 2,
+   "Psalmi": 8,
+   "Odae": 1,
+   "Proverbia": 8,
+   "Job": 1,
+   "Sapientia Salomonis": 2,
+   "Ecclesiasticus sive Siracides": 5,
+   "Psalmi Salomonis": 1,
+   "Michaeas": 1,
+   "Isaias": 2,
+   "Jeremias": 1,
+   "Threni seu Lamentationes": 6,
+   "Ezechiel": 4,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "64.9",
+    "form": "ἐξόδους",
+    "postag": "n-p---fa-",
+    "sentence": "ἐξόδους πρωΐας καὶ ἑσπέρας τέρψεις."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "30.12",
+    "form": "ἔξοδον",
+    "postag": "n-s---fa-",
+    "sentence": "τὴν δ’ ἔξοδον αὐτοῦ οὐκ ἀπένιψεν."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "10.29",
+    "form": "ἔξοδος",
+    "postag": "n-s---fn-",
+    "sentence": "καὶ ἀνέβαινεν ἡ ἔξοδος ἐξ Αἰγύπτου, ἅρμα ἀντὶ ἑκατὸν ἀργυρίου καὶ ἵππος ἀντὶ πεντήκοντα ἀργυρίου ·"
+   },
+   {
+    "work_code": "LAM",
+    "work_ja": "哀歌",
+    "work_src": "Threni seu Lamentationes",
+    "ref": "4.1",
+    "form": "ἐξόδων",
+    "postag": "n-p---fg-",
+    "sentence": "ἐξεχύθησαν λίθοι ἅγιοι ἀπ’ ἀρχῆς πασῶν ἐξόδων."
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "23.8",
+    "form": "ἐξόδου",
+    "postag": "n-s---fg-",
+    "sentence": "καὶ ἐποίησαν οἱ Λευῖται καὶ πᾶς Ἰούδα κατὰ πάντα, ὅσα ἐνετείλατο αὐτοῖς Ἰωδαὲ ὁ ἱερεύς, καὶ ἔλαβον ἕκαστος τοὺς ἄνδρας αὐτοῦ ἀπ’ ἀρχῆς τοῦ σαββάτου ἕως ἐξόδου τοῦ σαββάτου, ὅτι οὐ κατέλυσεν Ἰωδαὲ ὁ ἱερεὺς τὰς ἐφημερίας."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "50.5",
+    "form": "ἐξόδῳ",
+    "postag": "n-s---fd-",
+    "sentence": "ὡς ἐδοξάσθη ἐν περιστροφῇ λαοῦ, ἐν ἐξόδῳ οἴκου καταπετάσματος ·"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "44.5",
+    "form": "ἐξόδους",
+    "postag": "n-p---fa-",
+    "sentence": "καὶ τάξεις τὴν καρδίαν σου εἰς τὴν εἴσοδον τοῦ οἴκου κατὰ πάσας τὰς ἐξόδους αὐτοῦ ἐν πᾶσι τοῖς ἁγίοις."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "3.25",
+    "form": "ἔξοδόν",
+    "postag": "n-s---fa-",
+    "sentence": "ἦ οὐκ οἶδας τὴν κακίαν Ἀβεννὴρ υἱοῦ Νήρ, ὅτι ἀπατῆσαί σε παρεγένετο καὶ γνῶναι τὴν ἔξοδόν σου καὶ τὴν εἴσοδόν σου καὶ γνῶναι ἅπαντα, ὅσα σὺ ποιεῖς;"
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "19.1",
+    "form": "ἐξόδου",
+    "postag": "n-s---fg-",
+    "sentence": "τοῦ δὲ μηνὸς τοῦ τρίτου τῆς ἐξόδου τῶν υἱῶν Ἰσραὴλ ἐκ γῆς Αἰγύπτου τῇ ἡμέρᾳ ταύτῃ ἤλθοσαν εἰς τὴν ἔρημον τοῦ Σινά."
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "33.38",
+    "form": "ἐξόδου",
+    "postag": "n-s---fg-",
+    "sentence": "καὶ ἀνέβη Ἀαρὼν ὁ ἱερεὺς διὰ προστάγματος Κυρίου καὶ ἀπέθανεν ἐκεῖ ἐν τῷ τεσσαρακοστῷ ἔτει τῆς ἐξόδου τῶν υἱῶν Ἰσραὴλ ἐκ γῆς Αἰγύπτου τῷ μηνὶ τῷ πέμπτῳ μιᾷ τοῦ μηνός ·"
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "5.31",
+    "form": "ἔξοδος",
+    "postag": "n-s---fn-",
+    "sentence": "καὶ οἱ ἀγαπῶντες αὐτὸν ὡς ἔξοδος ἡλίου ἐν δυνάμει αὐτοῦ."
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "5.16",
+    "form": "ἐξόδου",
+    "postag": "n-s---fg-",
+    "sentence": "αὐτῶν καὶ πάντα τὰ περίχωρα Σαρὼν ἕως ἐξόδου."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "3.4.3",
+    "form": "ἔξοδον",
+    "postag": "n-s---fa-",
+    "sentence": "κυρία, ἤθελον γνῶναι τῶν λίθων τὴν ἔξοδον καὶ τὴν δύναμιν αὐτῶν, ποταπή ἐστιν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3   ἔξ-οδος, -ου, ὁ    (< ὁδός),    [in LXX chiefly for מוֹצָא also חוּץ, etc. ;]    a going out, departure: He 11:22; of death, Lk 9:31, II Pe 1:15.†"
+}

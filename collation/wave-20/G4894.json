@@ -1,0 +1,97 @@
+{
+ "strong": "G4894",
+ "lemma": "σύνοιδα",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 4:4",
+   "form": "σύνοιδα",
+   "morph": "V-RAI-1S",
+   "gloss_en": "conscious of",
+   "gloss_ja": "気づく",
+   "verse": "οὐδὲν γὰρ ἐμαυτῷ σύνοιδα, ἀλλ’ οὐκ ἐν τούτῳ δεδικαίωμαι, ὁ δὲ ἀνακρίνων με κύριός ἐστιν."
+  },
+  {
+   "ref": "ACT 12:12",
+   "form": "Συνιδών",
+   "morph": "V-2AAP-NSM",
+   "gloss_en": "realized",
+   "gloss_ja": "気づく",
+   "verse": "Συνιδών τε ἦλθεν ἐπὶ τὴν οἰκίαν τῆς Μαρίας τῆς μητρὸς Ἰωάννου τοῦ ἐπικαλουμένου Μάρκου, οὗ ἦσαν ἱκανοὶ συνηθροισμένοι καὶ προσευχόμενοι."
+  },
+  {
+   "ref": "ACT 14:6",
+   "form": "συνιδόντες",
+   "morph": "V-2AAP-NPM",
+   "gloss_en": "found out",
+   "gloss_ja": "気づく",
+   "verse": "συνιδόντες κατέφυγον εἰς τὰς πόλεις τῆς Λυκαονίας Λύστραν καὶ Δέρβην καὶ τὴν περίχωρον,"
+  },
+  {
+   "ref": "ACT 5:2",
+   "form": "συνειδυίης",
+   "morph": "V-RAP-GSF",
+   "gloss_en": "knowledge",
+   "gloss_ja": "気づく",
+   "verse": "καὶ ἐνοσφίσατο ἀπὸ τῆς τιμῆς, συνειδυίης καὶ τῆς γυναικός, καὶ ἐνέγκας μέρος τι παρὰ τοὺς πόδας τῶν ἀποστόλων ἔθηκεν."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Leviticus": 1,
+   "Job": 1
+  },
+  "representatives": [
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "5.1",
+    "form": "σύνοιδεν",
+    "postag": "v3sria---",
+    "sentence": "ἐὰν δὲ ψυχὴ ἁμάρτῃ, καὶ ἀκούσῃ φωνὴν ὁρκισμοῦ, καὶ οὗτος μάρτυς, ἢ ἑώρακεν, ἢ σύνοιδεν, ἐὰν μὴ ἀπαγγείλῃ, λήψεται τὴν ἁμαρτίαν."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "27.6",
+    "form": "σύνοιδα",
+    "postag": "v1sria---",
+    "sentence": "δικαιοσύνῃ δὲ προσέχων οὐ μὴν προῶμαι, οὐ γὰρ σύνοιδα ἐμαυτῷ ἄτοπα πράξας."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "Barnabas": 1,
+   "Ignatius, Letters": 1
+  },
+  "representatives": [
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "1.4",
+    "form": "συνειδὼς",
+    "postag": "v-srpamn-",
+    "sentence": "πεπεισμένος οὖν τοῦτο καὶ συνειδὼς ἐμαυτῷ, ὅτι ἐν ὑμῖν λαλήσας πολλὰ ἐπίσταμαι, ὅτι ἐμοὶ συνώδευσεν ἐν ὁδῷ δικαιοσύνης κύριος, καὶ πάντως ἀναγκάζομαι κα-κἀγὼ εἰς τοῦτο, ἀγαπᾶν ὑμᾶς ὑπὲρ τὴν ψυχήν μου, ὅτι μεγάλη πίστις καὶ ἀγάπη ἐγκατοικεῖ ἐν ὑμῖν ἐπ’ ἐλπίδι ζωῆς αὐτοῦ."
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "6.11.1",
+    "form": "συνειδότος",
+    "postag": "v-srpang-",
+    "sentence": "κατὰ θέλημα δὲ κατηξιώθην, οὐκ ἐκ συνειδότος ἀλλ’ ἐκ χάριτος θεοῦ ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2 ** συν-εῖδον  irreg. aor. of συνοράω (v.s. εἶδον),     [in LXX: I Mac 4:21א, II Mac 2:24 4:4, 41 R 5:17 7:4, 20 8:8, III Mac 2:8 A * ;]     to see together or at the same time (Arist., Xen.).    to see in one view, hence, of mental vision, to comprehend, understand (LXX, Polyb., Plut., al.) : Ac 12:12 14:6 (on the related σύνοιδα, v. s.v.).†"
+}

@@ -1,0 +1,193 @@
+{
+ "strong": "G5611",
+ "lemma": "ὡραῖος",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 3:2",
+   "form": "Ὡραίαν",
+   "morph": "A-ASF",
+   "gloss_en": "beautiful",
+   "gloss_ja": "美しい",
+   "verse": "καί τις ἀνὴρ χωλὸς ἐκ κοιλίας μητρὸς αὐτοῦ ὑπάρχων ἐβαστάζετο, ὃν ἐτίθουν καθ’ ἡμέραν πρὸς τὴν θύραν τοῦ ἱεροῦ τὴν λεγομένην Ὡραίαν τοῦ αἰτεῖν ἐλεημοσύνην παρὰ τῶν εἰσπορευομένων εἰς τὸ ἱερόν,"
+  },
+  {
+   "ref": "ACT 3:10",
+   "form": "Ὡραίᾳ",
+   "morph": "A-DSF",
+   "gloss_en": "beautiful",
+   "gloss_ja": "美しい",
+   "verse": "ἐπεγίνωσκον δὲ αὐτὸν ὅτι οὗτος ἦν ὁ πρὸς τὴν ἐλεημοσύνην καθήμενος ἐπὶ τῇ Ὡραίᾳ Πύλῃ τοῦ ἱεροῦ, καὶ ἐπλήσθησαν θάμβους καὶ ἐκστάσεως ἐπὶ τῷ συμβεβηκότι αὐτῷ."
+  },
+  {
+   "ref": "MAT 23:27",
+   "form": "ὡραῖοι",
+   "morph": "A-NPM",
+   "gloss_en": "beautiful",
+   "gloss_ja": "美しい",
+   "verse": "Οὐαὶ ὑμῖν, γραμματεῖς καὶ Φαρισαῖοι ὑποκριταί, ὅτι παρομοιάζετε τάφοις κεκονιαμένοις, οἵτινες ἔξωθεν μὲν φαίνονται ὡραῖοι ἔσωθεν δὲ γέμουσιν ὀστέων νεκρῶν καὶ πάσης ἀκαθαρσίας·"
+  },
+  {
+   "ref": "ROM 10:15",
+   "form": "ὡραῖοι",
+   "morph": "A-NPM",
+   "gloss_en": "beautiful",
+   "gloss_ja": "美しい",
+   "verse": "πῶς δὲ κηρύξωσιν ἐὰν μὴ ἀποσταλῶσιν; καθὼς γέγραπται· Ὡς ὡραῖοι οἱ πόδες τῶν εὐαγγελιζομένων τὰ ἀγαθά."
+  }
+ ],
+ "lxx": {
+  "total": 37,
+  "works": {
+   "Genesis": 5,
+   "Leviticus": 1,
+   "Regnorum i": 1,
+   "Regnorum ii": 1,
+   "Regnorum iii": 1,
+   "Paralipomenon ii sive Chronicon ii": 1,
+   "Esdras i": 2,
+   "Judith": 1,
+   "Machabaeorum ii": 1,
+   "Psalmi": 2,
+   "Canticum": 5,
+   "Job": 1,
+   "Ecclesiasticus sive Siracides": 9,
+   "Joel": 2,
+   "Isaias": 1,
+   "Jeremias": 1,
+   "Threni seu Lamentationes": 1,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "25.4",
+    "form": "ὡραῖον",
+    "postag": "a-s---nn-",
+    "sentence": "ὡς ὡραῖον πολιαῖς κρίσις καὶ πρεσβυτέροις ἐπιγνῶναι βουλήν."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "39.6",
+    "form": "ὡραῖος",
+    "postag": "a-s---mn-",
+    "sentence": "καὶ ἦν Ἰωσὴφ καλὸς τῷ εἴδει καὶ ὡραῖος τῇ ὄψει σφόδρα."
+   },
+   {
+    "work_code": "SNG",
+    "work_ja": "雅歌",
+    "work_src": "Canticum",
+    "ref": "6.4",
+    "form": "ὡραία",
+    "postag": "a-s---fn-",
+    "sentence": "καλὴ εἶ, ἡ πλησίον μου, ὡς εὐδοκία, ὡραία ὡς Ἱερουσαλήμ, θάμβος ὡς τεταγμέναι."
+   },
+   {
+    "work_code": "1ES",
+    "work_ja": "エズラ記（ギリシャ語）",
+    "work_src": "Esdras i",
+    "ref": "4.18",
+    "form": "ὡραῖον",
+    "postag": "a-s---na-",
+    "sentence": "ἐὰν δὲ συναγάγωσι χρυσίον καὶ ἀργύριον καὶ πᾶν πρᾶγμα ὡραῖον καὶ ἴδωσι γυναῖκα μίαν καλὴν τῷ εἴδει καὶ τῷ κάλλει, ταῦτα πάντα ἀφέντες, εἰς αὐτὴν ἐκκέχηναν καὶ χάσκοντες τὸ στόμα θεωροῦσιν αὐτήν, καὶ πάντες αὐτὴν αἱρετίζουσι μᾶλλον ἢ τὸ χρυσίον καὶ τὸ ἀργύριον καὶ πᾶν πρᾶγμα ὡραῖον."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "73.17",
+    "form": "ὡραῖα",
+    "postag": "a-p---na-",
+    "sentence": "σὺ ἐποίησας πάντα τὰ ὡραῖα τῆς γῆς ·"
+   },
+   {
+    "work_code": "JOL",
+    "work_ja": "ヨエル書",
+    "work_src": "Joel",
+    "ref": "1.19",
+    "form": "ὡραῖα",
+    "postag": "a-p---na-",
+    "sentence": "πρὸς σέ, Κύριε, βοήσομαι, ὅτι πῦρ ἀνήλωσε τὰ ὡραῖα τῆς ἐρήμου, καὶ φλὸξ ἀνῆψε πάντα τὰ ξύλα τοῦ ἀγροῦ ·"
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "23.40",
+    "form": "ὡραῖον",
+    "postag": "a-s---ma-",
+    "sentence": "καὶ λήψεσθε τῇ ἡμέρᾳ τῇ πρώτῃ καρπὸν ξύλου ὡραῖον καὶ κάλλυνθρα φοινίκων, καὶ κλάδους ξύλου δασεῖς καὶ ἰτέας καὶ ἄγνου κλάδους ἐκ χειμάρρου, εὐφρανθῆναι ἔναντι Κυρίου τοῦ Θεοῦ ὑμῶν ἑπτὰ ἡμέρας τοῦ ἐνιαυτοῦ ·"
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "9.20",
+    "form": "ὡραῖα",
+    "postag": "a-p---nn-",
+    "sentence": "καὶ τίνι τὰ ὡραῖα τοῦ Ἰσραήλ;"
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "1.23",
+    "form": "ὡραῖοι",
+    "postag": "a-p---mn-",
+    "sentence": "Σαοὺλ καὶ Ἰωνάθαν, οἱ ἠγαπημένοι καὶ ὡραῖοι, οὐ διακεχωρισμένοι, εὐπρεπεῖς ἐν τῇ ζωῇ αὐτῶν καὶ ἐν τῷ θανάτῳ αὐτῶν οὐ διεχωρίσθησαν ·"
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "1.6",
+    "form": "ὡραῖος",
+    "postag": "a-s---mn-",
+    "sentence": "καί γε αὐτὸς ὡραῖος τῇ ὄψει σφόδρα, καὶ αὐτὸν ἔτεκεν ὀπίσω Ἀβεσσαλώμ."
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "36.19",
+    "form": "ὡραῖον",
+    "postag": "a-s---na-",
+    "sentence": "καὶ ἐνέπρησε τὸν οἶκον Κυρίου καὶ κατέσκαψε τὸ τεῖχος Ἱερουσαλὴμ καὶ τὰς βάρεις αὐτῆς ἐνέπρησεν ἐν πυρὶ καὶ πᾶν σκεῦος ὡραῖον εἰς ἀφανισμόν."
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "8.7",
+    "form": "ὡραία",
+    "postag": "a-s---fn-",
+    "sentence": "καὶ ἦν καλὴ τῷ εἴδει καὶ ὡραία τῇ ὄψει σφόδρα ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Barnabas": 1
+  },
+  "representatives": [
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "11.10",
+    "form": "ὡραῖα",
+    "postag": "a-p---nn-",
+    "sentence": "καὶ ἦν ποταμὸς ἕλκων ἐκ δεξιῶν, καὶ ἀνέβαινεν ἐξ αὐτοῦ δένδρα ὡραῖα ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "4 ὡραῖος, -α, -ον     (< ὥρα),    [in LXX for נָאָה, טוֹב, יָפֶה, etc. ;]    seasonable, timely, esp. of ripe fruits; hence, blooming, beautiful (both of things and persons): Mt 23:27, Ac 3:2, 10, Ro 10:15 (LXX, ὥρα).†"
+}

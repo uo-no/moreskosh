@@ -1,0 +1,177 @@
+{
+ "strong": "G2083",
+ "lemma": "ἑταῖρος",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MAT 20:13",
+   "form": "Ἑταῖρε",
+   "morph": "N-VSM",
+   "gloss_en": "friend",
+   "gloss_ja": "友",
+   "verse": "ὁ δὲ ἀποκριθεὶς ἑνὶ αὐτῶν εἶπεν· Ἑταῖρε, οὐκ ἀδικῶ σε· οὐχὶ δηναρίου συνεφώνησάς μοι;"
+  },
+  {
+   "ref": "MAT 22:12",
+   "form": "Ἑταῖρε",
+   "morph": "N-VSM",
+   "gloss_en": "friend",
+   "gloss_ja": "友",
+   "verse": "καὶ λέγει αὐτῷ· Ἑταῖρε, πῶς εἰσῆλθες ὧδε μὴ ἔχων ἔνδυμα γάμου; ὁ δὲ ἐφιμώθη."
+  },
+  {
+   "ref": "MAT 26:50",
+   "form": "Ἑταῖρε",
+   "morph": "N-VSM",
+   "gloss_en": "friend",
+   "gloss_ja": "友",
+   "verse": "ὁ δὲ Ἰησοῦς εἶπεν αὐτῷ· Ἑταῖρε, ἐφ’ ὃ πάρει. τότε προσελθόντες ἐπέβαλον τὰς χεῖρας ἐπὶ τὸν Ἰησοῦν καὶ ἐκράτησαν αὐτόν."
+  }
+ ],
+ "lxx": {
+  "total": 22,
+  "works": {
+   "Judices": 1,
+   "Regnorum ii": 4,
+   "Regnorum iii": 2,
+   "Machabaeorum iii": 2,
+   "Proverbia": 2,
+   "Ecclesiastes": 1,
+   "Canticum": 2,
+   "Job": 1,
+   "Ecclesiasticus sive Siracides": 5,
+   "Daniel": 2
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "37.2",
+    "form": "ἑταῖρος",
+    "postag": "n-s---mn-",
+    "sentence": "οὐχὶ λύπη ἔνι ἕως θανάτου ἑταῖρος καὶ φίλος τρεπόμενος εἰς ἔχθραν;"
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "16.17",
+    "form": "ἑταίρου",
+    "postag": "n-s---mg-",
+    "sentence": "ἱνατί οὐκ ἀπῆλθες μετὰ τοῦ ἑταίρου σου;"
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "2.22",
+    "form": "ἑταῖρος",
+    "postag": "n-s---mn-",
+    "sentence": "καὶ αἴτησαι αὐτῷ τὴν βασιλείαν, ὅτι οὗτος ἀδελφός μου ὁ μέγας ὑπὲρ ἐμέ, καὶ αὐτῷ Ἀβιάθαρ ὁ ἱερεὺς καὶ αὐτῷ Ἰωὰβ υἱὸς Σαρουΐας ἀρχιστράτηγος ἑταῖρος."
+   },
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "6.6",
+    "form": "ἑταίρους",
+    "postag": "n-p---ma-",
+    "sentence": "σὺ τοὺς κατὰ τὴν Βαβυλωνίαν τρεῖς ἑταίρους, πυρὶ τὴν ψυχὴν αὐθαιρέτως δεδωκότας εἰς τὸ μὴ λατρεῦσαι τοῖς κενοῖς, διάπυρον δροσίσας κάμινον ἐρρύσω μέχρι τριχὸς ἀπημάντους, φλόγα πᾶσιν ἐπιπέμψας τοῖς ὑπεναντίοις."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "27.17",
+    "form": "ἑταίρου",
+    "postag": "n-s---mg-",
+    "sentence": "σίδηρος σίδηρον ὀξύνει, ἀνὴρ δὲ παροξύνει πρόσωπον ἑταίρου."
+   },
+   {
+    "work_code": "SNG",
+    "work_ja": "雅歌",
+    "work_src": "Canticum",
+    "ref": "8.13",
+    "form": "ἑταῖροι",
+    "postag": "n-p---mn-",
+    "sentence": "ὁ καθήμενος ἐν κήποις, ἑταῖροι προσέχοντες τῇ φωνῇ σου ·"
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "5.1",
+    "form": "ἑταίροις",
+    "postag": "n-p---md-",
+    "sentence": "Βαλτασαρ ὁ βασιλεὺς ἐποίησεν ἑστιατορίαν μεγάλην τοῖς ἑταίροις αὐτοῦ καὶ ἔπινεν οἶνον."
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "4.17",
+    "form": "ἑταίρου",
+    "postag": "n-s---mg-",
+    "sentence": "καὶ Σισάρα ἔφυγε τοῖς ποσὶν αὐτοῦ εἰς σκηνὴν Ἰαὴλ γυναικὸς Χαβὲρ ἑταίρου τοῦ Κιναίου, ὅτι εἰρήνη ἦν ἀναμέσον Ἰαβὶν βασιλέως Ἀσὼρ καὶ ἀναμέσον τοῦ οἴκου Χαβὲρ τοῦ Κιναίου."
+   },
+   {
+    "work_code": "ECC",
+    "work_ja": "コヘレトの言葉",
+    "work_src": "Ecclesiastes",
+    "ref": "4.4",
+    "form": "ἑταίρου",
+    "postag": "n-s---mg-",
+    "sentence": "καὶ εἶδον ἐγὼ σὺν πάντα τὸν μόχθον καὶ σὺν πᾶσαν ἀνδρείαν τοῦ ποιήματος, ὅτι αὐτὸ ζῆλος ἀνδρὸς ἀπὸ τοῦ ἑταίρου αὐτοῦ ·"
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "30.29",
+    "form": "ἑταῖρος",
+    "postag": "n-s---mn-",
+    "sentence": "ἀδελφὸς γέγονα σειρήνων, ἑταῖρος δὲ στρουθῶν."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "42.3",
+    "form": "ἑταίρων",
+    "postag": "n-p---mg-",
+    "sentence": "περὶ νόμου Ὑψίστου καὶ διαθήκης καὶ περὶ κρίματος δικαιῶσαι τὸν ἀσεβῆ, περὶ λόγου κοινωνοῦ καὶ ὁδοιπόρων καὶ περὶ δόσεως κληρονομίας ἑταίρων, περὶ ἀκριβείας ζυγοῦ καὶ σταθμίων, περὶ κτήσεως πολλῶν καὶ ὀλίγων, περὶ διαφόρου πράσεως ἐμπόρων καὶ περὶ παιδείας τέκνων πολλῆς καὶ οἰκέτῃ πονηρῷ πλευρὰν αἱμάξαι."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "16.17",
+    "form": "ἑταίρου",
+    "postag": "n-s---mg-",
+    "sentence": "τοῦτο τὸ ἔλεός σου μετὰ τοῦ ἑταίρου σου;"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Didache": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DID",
+    "work_ja": "ディダケー",
+    "work_src": "Didache",
+    "ref": "14.2",
+    "form": "ἑταίρου",
+    "postag": "n-s---mg-",
+    "sentence": "πᾶς δὲ ἔχων τὴν ἀμφιβολίαν μετὰ τοῦ ἑταίρου αὐτοῦ μὴ συνελθέτω ὑμῖν, ἕως οὗ διαλλαγῶσιν, ἵνα μὴ κοινωθῇ ἡ θυσία ὑμῶν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3   ἑταῖρος, -ου, ὁ     [in LXX chiefly for רֵעַ and cognate forms, also Si 11:6 37:2ff., al. ;]    a companion, comrade: Mt 11:16 (WH, ἑτέροις); voc., as term of address, my friend: Mt 20:13 22:12 26:50.†"
+}

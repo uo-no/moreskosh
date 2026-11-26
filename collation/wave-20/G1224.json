@@ -1,0 +1,189 @@
+{
+ "strong": "G1224",
+ "lemma": "διαβαίνω",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 16:9",
+   "form": "Διαβὰς",
+   "morph": "V-2AAP-NSM",
+   "gloss_en": "come over",
+   "gloss_ja": "渡る",
+   "verse": "καὶ ὅραμα διὰ νυκτὸς τῷ Παύλῳ ὤφθη, ἀνὴρ Μακεδών τις ἦν ἑστὼς καὶ παρακαλῶν αὐτὸν καὶ λέγων· Διαβὰς εἰς Μακεδονίαν βοήθησον ἡμῖν."
+  },
+  {
+   "ref": "HEB 11:29",
+   "form": "διέβησαν",
+   "morph": "V-2AAI-3P",
+   "gloss_en": "passed through",
+   "gloss_ja": "渡る",
+   "verse": "Πίστει διέβησαν τὴν Ἐρυθρὰν Θάλασσαν ὡς διὰ ξηρᾶς γῆς, ἧς πεῖραν λαβόντες οἱ Αἰγύπτιοι κατεπόθησαν."
+  },
+  {
+   "ref": "LUK 16:26",
+   "form": "διαβῆναι",
+   "morph": "V-2AAN",
+   "gloss_en": "pass",
+   "gloss_ja": "渡る",
+   "verse": "καὶ ἐν πᾶσι τούτοις μεταξὺ ἡμῶν καὶ ὑμῶν χάσμα μέγα ἐστήρικται, ὅπως οἱ θέλοντες διαβῆναι ἔνθεν πρὸς ὑμᾶς μὴ δύνωνται, μηδὲ ἐκεῖθεν πρὸς ἡμᾶς διαπερῶσιν."
+  }
+ ],
+ "lxx": {
+  "total": 120,
+  "works": {
+   "Genesis": 6,
+   "Numeri": 7,
+   "Deuteronomium": 22,
+   "Josue": 21,
+   "Judices": 4,
+   "Regnorum i": 8,
+   "Regnorum ii": 23,
+   "Regnorum iii": 1,
+   "Regnorum iv": 4,
+   "Paralipomenon i sive Chronicon i": 2,
+   "Judith": 1,
+   "Tobias": 1,
+   "Machabaeorum i": 5,
+   "Psalmi": 1,
+   "Proverbia": 2,
+   "Job": 1,
+   "Sapientia Salomonis": 1,
+   "Ecclesiasticus sive Siracides": 1,
+   "Amos": 2,
+   "Isaias": 5,
+   "Baruch": 1,
+   "Ezechiel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "15.22",
+    "form": "διάβαινε",
+    "postag": "v2spma---",
+    "sentence": "δεῦρο καὶ διάβαινε μετ’ ἐμοῦ ·"
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "31.2",
+    "form": "διαβήσῃ",
+    "postag": "v2sfim---",
+    "sentence": "οὐ διαβήσῃ τὸν Ἰορδάνην τοῦτον."
+   },
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "24.11",
+    "form": "διέβητε",
+    "postag": "v2paia---",
+    "sentence": "καὶ διέβητε τὸν Ἰορδάνην καὶ παρεγενήθητε εἰς Ἱεριχώ ·"
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "14.1",
+    "form": "διαβῶμεν",
+    "postag": "v1pasa---",
+    "sentence": "δεῦρο, καὶ διαβῶμεν εἰς Μεσσὰβ τῶν ἀλλοφύλων τὴν ἐν τῷ πέραν ἐκείνῳ ·"
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "35.10",
+    "form": "διαβαίνετε",
+    "postag": "v2ppma---",
+    "sentence": "ὑμεῖς διαβαίνετε τὸν Ἰορδάνην εἰς γῆν Χαναὰν καὶ διαστελεῖτε ὑμῖν αὐτοῖς πόλεις ·"
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "32.23",
+    "form": "διέβη",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἔλαβεν αὐτοὺς καὶ διέβη τὸν χειμάρρουν καὶ διεβίβασε πάντα τὰ αὐτοῦ."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "5.52",
+    "form": "διέβησαν",
+    "postag": "v3paia---",
+    "sentence": "καὶ διέβησαν τὸν Ἰορδάνην εἰς τὸ πεδίον τὸ μέγα κατὰ πρόσωπον Βαιθσάν."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "43.2",
+    "form": "διαβαίνῃς",
+    "postag": "v2spsa---",
+    "sentence": "καὶ ἐὰν διαβαίνῃς δι’ ὕδατος, μετὰ σοῦ εἰμι, καὶ ποταμοὶ οὐ συγκλύσουσί σε ·"
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "3.28",
+    "form": "διαβῆναι",
+    "postag": "v--ana---",
+    "sentence": "καὶ κατέβησαν ὀπίσω αὐτοῦ καὶ προκατελάβοντο τὰς διαβάσεις τοῦ Ἰορδάνου τῆς Μωάβ, καὶ οὐκ ἀφῆκεν ἄνδρα διαβῆναι."
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "2.9",
+    "form": "διαβῆναι",
+    "postag": "v--ana---",
+    "sentence": "καὶ ἐγένετο ἐν τῷ διαβῆναι αὐτοὺς καὶ Ἠλιοὺ εἶπε πρὸς Ἑλισαιέ ·"
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "12.16",
+    "form": "διαβάντες",
+    "postag": "v-papamn-",
+    "sentence": "οὗτοι οἱ διαβάντες τὸν Ἰορδάνην ἐν τῷ μηνὶ τῷ πρώτῳ, καὶ οὗτος πεπληρωκὼς ἐπὶ πᾶσαν κρηπῖδα αὐτοῦ, καὶ ἐξεδίωξαν πάντας τοὺς κατοικοῦντας αὐλῶνας ἀπὸ ἀνατολῶν ἕως δυσμῶν."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "30b.29",
+    "form": "διαβαίνει",
+    "postag": "v3spia---",
+    "sentence": "τρία δέ ἐστιν, ἃ εὐόδως πορεύεται, καὶ τέταρτον, ὃ καλῶς διαβαίνει ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "1.1.3",
+    "form": "διαβὰς",
+    "postag": "v-sapamn-",
+    "sentence": "διαβὰς οὖν τὸν ποταμὸν ἐκεῖνον ἦλθον εἰς τὰ ὁμαλὰ καὶ τιθῶ τὰ γόνατα καὶ ἠρξάμην προσεύχεσθαι τῷ κυρίῳ καὶ ἐξομολογεῖσθαί μου τὰς ἁμαρτίας."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3   δια-βαίνω     [in LXX chiefly for עבר ;]       to make a stride.      to step across, cross over;      trans.: τ. θάλασσαι, He 11:29;      intrans.: seq. εἰς, Ac 16:9; πρός, Lk 16:26.†"
+}

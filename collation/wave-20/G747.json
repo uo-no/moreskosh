@@ -1,0 +1,208 @@
+{
+ "strong": "G747",
+ "lemma": "ἀρχηγός",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 3:15",
+   "form": "ἀρχηγὸν",
+   "morph": "N-ASM",
+   "gloss_en": "author",
+   "gloss_ja": "創始者",
+   "verse": "τὸν δὲ ἀρχηγὸν τῆς ζωῆς ἀπεκτείνατε, ὃν ὁ θεὸς ἤγειρεν ἐκ νεκρῶν, οὗ ἡμεῖς μάρτυρές ἐσμεν."
+  },
+  {
+   "ref": "ACT 5:31",
+   "form": "ἀρχηγὸν",
+   "morph": "N-ASM",
+   "gloss_en": "leader",
+   "gloss_ja": "創始者",
+   "verse": "τοῦτον ὁ θεὸς ἀρχηγὸν καὶ σωτῆρα ὕψωσεν τῇ δεξιᾷ αὐτοῦ, τοῦ δοῦναι μετάνοιαν τῷ Ἰσραὴλ καὶ ἄφεσιν ἁμαρτιῶν·"
+  },
+  {
+   "ref": "HEB 2:10",
+   "form": "ἀρχηγὸν",
+   "morph": "N-ASM",
+   "gloss_en": "author",
+   "gloss_ja": "創始者",
+   "verse": "Ἔπρεπεν γὰρ αὐτῷ, δι’ ὃν τὰ πάντα καὶ δι’ οὗ τὰ πάντα, πολλοὺς υἱοὺς εἰς δόξαν ἀγαγόντα τὸν ἀρχηγὸν τῆς σωτηρίας αὐτῶν διὰ παθημάτων τελειῶσαι."
+  },
+  {
+   "ref": "HEB 12:2",
+   "form": "ἀρχηγὸν",
+   "morph": "N-ASM",
+   "gloss_en": "author",
+   "gloss_ja": "創始者",
+   "verse": "ἀφορῶντες εἰς τὸν τῆς πίστεως ἀρχηγὸν καὶ τελειωτὴν Ἰησοῦν, ὃς ἀντὶ τῆς προκειμένης αὐτῷ χαρᾶς ὑπέμεινεν σταυρὸν αἰσχύνης καταφρονήσας, ἐν δεξιᾷ τε τοῦ θρόνου τοῦ θεοῦ κεκάθικεν."
+  }
+ ],
+ "lxx": {
+  "total": 31,
+  "works": {
+   "Exodus": 1,
+   "Numeri": 7,
+   "Deuteronomium": 1,
+   "Judices": 4,
+   "Paralipomenon i sive Chronicon i": 3,
+   "Paralipomenon ii sive Chronicon ii": 1,
+   "Esdras i": 1,
+   "Esdras ii": 3,
+   "Judith": 1,
+   "Machabaeorum i": 2,
+   "Michaeas": 1,
+   "Isaias": 4,
+   "Jeremias": 1,
+   "Threni seu Lamentationes": 1
+  },
+  "representatives": [
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "13.4",
+    "form": "ἀρχηγοὶ",
+    "postag": "a-p---mn-",
+    "sentence": "πάντες ἄνδρες ἀρχηγοὶ υἱῶν Ἰσραὴλ οὗτοι."
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "11.6",
+    "form": "ἀρχηγόν",
+    "postag": "n-s---ma-",
+    "sentence": "δεῦρο καὶ ἔσῃ ἡμῖν εἰς ἀρχηγόν, καὶ παραταξόμεθα πρὸς υἱοὺς Ἀμμών."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "3.7",
+    "form": "ἀρχηγός",
+    "postag": "n-s---mn-",
+    "sentence": "οὐκ ἔσομαί σου ἀρχηγός ·"
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "5.24",
+    "form": "ἀρχηγοὶ",
+    "postag": "a-p---mn-",
+    "sentence": "καὶ οὗτοι ἀρχηγοὶ οἴκου πατριῶν αὐτῶν ·"
+   },
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "17.70",
+    "form": "ἀρχηγῶν",
+    "postag": "a-p---mg-",
+    "sentence": "καὶ ἀπὸ μέρους ἀρχηγῶν τῶν πατριῶν ἔδωκαν εἰς τὸ ἔργον τῷ Νεεμίᾳ εἰς θησαυρὸν χρυσοῦς χιλίους, φιάλας πεντήκοντα καὶ χωθωνὼθ τῶν ἱερέων τριάκοντα."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "10.47",
+    "form": "ἀρχηγὸς",
+    "postag": "n-s---mn-",
+    "sentence": "καὶ εὐδόκησαν ἐν Ἀλεξάνδρῳ, ὅτι αὐτὸς ἐγένετο αὐτοῖς ἀρχηγὸς λόγων εἰρηνικῶν, καὶ συνεμάχουν αὐτῷ πάσας τὰς ἡμέρας."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "6.14",
+    "form": "ἀρχηγοὶ",
+    "postag": "a-p---mn-",
+    "sentence": "καὶ οὗτοι ἀρχηγοὶ οἴκων πατριῶν αὐτῶν."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "33.21",
+    "form": "ἀρχηγοῖς",
+    "postag": "a-p---md-",
+    "sentence": "καὶ εἶδεν ἀπαρχὴν αὐτοῦ, ὅτι ἐκεῖ ἐμερίσθη γῆ ἀρχόντων συνηγμένων ἅμα ἀρχηγοῖς λαῶν ·"
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "23.14",
+    "form": "ἀρχηγοῖς",
+    "postag": "a-p---md-",
+    "sentence": "καὶ ἐξῆλθεν Ἰωδαὲ ὁ ἱερεύς, καὶ ἐνετείλατο Ἰωδαὲ ὁ ἱερεὺς τοῖς ἑκατοντάρχοις καὶ τοῖς ἀρχηγοῖς τῆς δυνάμεως καὶ εἶπεν αὐτοῖς ·"
+   },
+   {
+    "work_code": "1ES",
+    "work_ja": "エズラ記（ギリシャ語）",
+    "work_src": "Esdras i",
+    "ref": "5.1",
+    "form": "ἀρχηγοὶ",
+    "postag": "a-p---mn-",
+    "sentence": "μετὰ δὲ ταῦτα ἐξελέγησαν ἀναβῆναι ἀρχηγοὶ οἴκου πατριῶν κατὰ φυλὰς αὐτῶν καὶ αἱ γυναῖκες αὐτῶν καὶ οἱ υἱοὶ αὐτῶν καὶ αἱ θυγατέρες καὶ οἱ παῖδες αὐτῶν καὶ αἱ παιδίσκαι καὶ τὰ κτήνη αὐτῶν."
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "14.2",
+    "form": "ἀρχηγὸν",
+    "postag": "n-s---ma-",
+    "sentence": "καὶ ἔσται ἡνίκα ἂν διαφαύσῃ ὁ ὄρθρος καὶ ἐξέλθῃ ὁ ἥλιος ἐπὶ τὴν γῆν, ἀναλήψεσθε ἕκαστος τὰ σκεύη τὰ πολεμικὰ ὑμῶν καὶ ἐξελεύσεσθε πᾶς ἀνὴρ ἰσχύων ἔξω τῆς πόλεως καὶ δώσετε ἀρχηγὸν εἰς αὐτοὺς ὡς καταβαίνοντες ἐπὶ τὸ πεδίον εἰς τὴν προφυλακὴν υἱῶν Ἀσσούρ, καὶ οὐ καταβήσεσθε."
+   },
+   {
+    "work_code": "MIC",
+    "work_ja": "ミカ書",
+    "work_src": "Michaeas",
+    "ref": "1.13",
+    "form": "ἀρχηγὸς",
+    "postag": "a-s---fn-",
+    "sentence": "κατοικοῦσα Λαχίς, ἀρχηγὸς ἁμαρτίας αὐτή ἐστι τῇ θυγατρὶ Σιών, ὅτι ἐν σοὶ εὑρέθησαν ἀσέβειαι τοῦ Ἰσραήλ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 3,
+  "works": {
+   "1 Clement": 2,
+   "2 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "51.1",
+    "form": "ἀρχηγοὶ",
+    "postag": "a-p---mn-",
+    "sentence": "καὶ ἐκεῖνοι δέ, οἵτινες ἀρχηγοὶ στάσεως καὶ διχοστασίας ἐγενήθησαν, ὀφείλουσιν τὸ κοινὸν τῆς ἐλπίδος σκοπεῖν."
+   },
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "20.5",
+    "form": "ἀρχηγὸν",
+    "postag": "a-s---ma-",
+    "sentence": "τῷ μόνῳ θεῷ ἀοράτῳ, πατρὶ τῆς ἀληθείας, τῷ ἐξαποστείλαντι ἡμῖν τὸν σωτῆρα καὶ ἀρχηγὸν τῆς ἀφθαρσίας, δι’ οὗ καὶ ἐφανέρωσεν ἡμῖν τὴν ἀλήθειαν καὶ τὴν ἐπουράνιον ζωήν, αὐτῷ ἡ δόξα εἰς τοὺς αἰῶνας τῶν αἰώνων."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "14.1",
+    "form": "ἀρχηγοῖς",
+    "postag": "a-p---md-",
+    "sentence": "δίκαιον οὖν καὶ ὅσιον, ἄνδρες ἀδελφοί, ὑπηκόους ἡμᾶς μᾶλλον γενέσθαι τῷ θεῷ ἡ τοῖς ἐν ἀλαζονείᾳ καὶ ἀκαταστασίᾳ μυσεροῦ ζήλους ἀρχηγοῖς ἐξακολουθεῖν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "4   ἀρχηγός, -όν,    [in LXX for רֹאשׁ, נָשִׂיא etc.;]      beginning, originating: more freq., as subst.;     founder, author (Lat. auchor; so sometimes in π., v. MM, s.v.; Milligan, NTD, 75): Ac 3:15 (R, mg.), He 2:10 (R, txt.; but v. Westc., in l., and Page, Ac 3:15).       prince, leader (so in MGr., v. Kennedy, Sources, 153): Ac 3:15 (R, txt.) 5:31, He 2:10 (cf. R, mg.) 12:2 (Cremer, 117).†"
+}

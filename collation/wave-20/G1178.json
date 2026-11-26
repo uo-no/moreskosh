@@ -1,0 +1,97 @@
+{
+ "strong": "G1178",
+ "lemma": "δεκαπέντε",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 27:28",
+   "form": "δεκαπέντε",
+   "morph": "A-NUI",
+   "gloss_en": "fifteen",
+   "gloss_ja": "十五",
+   "verse": "καὶ βολίσαντες εὗρον ὀργυιὰς εἴκοσι, βραχὺ δὲ διαστήσαντες καὶ πάλιν βολίσαντες εὗρον ὀργυιὰς δεκαπέντε·"
+  },
+  {
+   "ref": "GAL 1:18",
+   "form": "δεκαπέντε",
+   "morph": "A-NUI",
+   "gloss_en": "fifteen",
+   "gloss_ja": "十五",
+   "verse": "Ἔπειτα μετὰ ἔτη τρία ἀνῆλθον εἰς Ἱεροσόλυμα ἱστορῆσαι Κηφᾶν, καὶ ἐπέμεινα πρὸς αὐτὸν ἡμέρας δεκαπέντε·"
+  },
+  {
+   "ref": "JHN 11:18",
+   "form": "δεκαπέντε",
+   "morph": "A-NUI",
+   "gloss_en": "fifteen.",
+   "gloss_ja": "十五",
+   "verse": "ἦν δὲ ἡ Βηθανία ἐγγὺς τῶν Ἱεροσολύμων ὡς ἀπὸ σταδίων δεκαπέντε."
+  }
+ ],
+ "lxx": {
+  "total": 5,
+  "works": {
+   "Exodus": 1,
+   "Judices": 1,
+   "Paralipomenon ii sive Chronicon ii": 1,
+   "Machabaeorum i": 1,
+   "Isaias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "27.15",
+    "form": "δεκαπέντε",
+    "postag": "m--------",
+    "sentence": "καὶ τὸ κλίτος τὸ δεύτερον δεκαπέντε πήχεων τῶν ἱστίων τὸ ὕψος ·"
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "8.10",
+    "form": "δεκαπέντε",
+    "postag": "m--------",
+    "sentence": "καὶ Ζεβεὲ καὶ Σελμανὰ ἐν Καρκάρ, καὶ ἡ παρεμβολὴ αὐτῶν μετ’ αὐτῶν ὡσεὶ δεκαπέντε χιλιάδες, πάντες οἱ καταλελειμμένοι ἀπὸ πάσης παρεμβολῆς ἀλλοφύλων, καὶ οἱ πεπτωκότες ἑκατὸν εἴκοσι χιλιάδες ἀνδρῶν σπωμένων ρομφαίαν."
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "25.25",
+    "form": "δεκαπέντε",
+    "postag": "m--------",
+    "sentence": "καὶ ἔζησεν Ἀμασίας ὁ τοῦ Ἰωὰς βασιλεὺς Ἰούδα μετὰ τὸ ἀποθανεῖν Ἰωὰς τὸν τοῦ Ἰωάχαζ βασιλέα Ἰσραὴλ ἔτη δεκαπέντε."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "10.40",
+    "form": "δεκαπέντε",
+    "postag": "m--------",
+    "sentence": "κα-κἀγὼ δίδωμι κατ’ ἐνιαυτὸν δεκαπέντε χιλιάδας σίκλων ἀργυρίου ἀπὸ τῶν λόγων τοῦ βασιλέως ἀπὸ τῶν τόπων τῶν ἀνηκόντων."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "38.5",
+    "form": "δεκαπέντε",
+    "postag": "m--------",
+    "sentence": "ἰδοὺ προστίθημι πρὸς τὸν χρόνον σου δεκαπέντε ἔτη ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "3   † δεκα-πέντε     [in LXX: Ex 27:15, I Mac 10:40, al. ;]     late form of πεντεκαίδεκα, fifteen: Jo 11:18, Ac 27:5, WH, mg., ib. 28, Ga 1:18.†"
+}

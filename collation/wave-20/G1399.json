@@ -1,0 +1,182 @@
+{
+ "strong": "G1399",
+ "lemma": "δούλη",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 2:18",
+   "form": "δούλας",
+   "morph": "N-APF",
+   "gloss_en": "female slaves",
+   "gloss_ja": "女奴隷",
+   "verse": "καί γε ἐπὶ τοὺς δούλους μου καὶ ἐπὶ τὰς δούλας μου ἐν ταῖς ἡμέραις ἐκείναις ἐκχεῶ ἀπὸ τοῦ πνεύματός μου, καὶ προφητεύσουσιν."
+  },
+  {
+   "ref": "LUK 1:38",
+   "form": "δούλη",
+   "morph": "N-NSF",
+   "gloss_en": "servant",
+   "gloss_ja": "女奴隷",
+   "verse": "εἶπεν δὲ Μαριάμ· Ἰδοὺ ἡ δούλη κυρίου· γένοιτό μοι κατὰ τὸ ῥῆμά σου. καὶ ἀπῆλθεν ἀπ’ αὐτῆς ὁ ἄγγελος."
+  },
+  {
+   "ref": "LUK 1:48",
+   "form": "δούλης",
+   "morph": "N-GSF",
+   "gloss_en": "servant",
+   "gloss_ja": "女奴隷",
+   "verse": "ὅτι ἐπέβλεψεν ἐπὶ τὴν ταπείνωσιν τῆς δούλης αὐτοῦ, ἰδοὺ γὰρ ἀπὸ τοῦ νῦν μακαριοῦσίν με πᾶσαι αἱ γενεαί·"
+  }
+ ],
+ "lxx": {
+  "total": 49,
+  "works": {
+   "Exodus": 1,
+   "Leviticus": 1,
+   "Ruth": 3,
+   "Regnorum i": 14,
+   "Regnorum ii": 8,
+   "Regnorum iii": 2,
+   "Regnorum iv": 2,
+   "Paralipomenon ii sive Chronicon ii": 1,
+   "Esther": 2,
+   "Judith": 9,
+   "Machabaeorum i": 1,
+   "Odae": 1,
+   "Joel": 1,
+   "Nahum": 1,
+   "Isaias": 2
+  },
+  "representatives": [
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "1.18",
+    "form": "δούλη",
+    "postag": "n-s---fn-",
+    "sentence": "εὗρεν ἡ δούλη σου χάριν ἐν ὀφθαλμοῖς σου."
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "12.6",
+    "form": "δούλην",
+    "postag": "n-s---fa-",
+    "sentence": "ἐπιταξάτω δὴ ὁ κύριός μου ἐᾶσαι τὴν δούλην σου ἐπὶ προσευχὴν ἐξελθεῖν."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "20.17",
+    "form": "δούλης",
+    "postag": "n-s---fg-",
+    "sentence": "ἄκουσον τοὺς λόγους τῆς δούλης σου."
+   },
+   {
+    "work_code": "RUT",
+    "work_ja": "ルツ記",
+    "work_src": "Ruth",
+    "ref": "3.9",
+    "form": "δούλη",
+    "postag": "n-s---fn-",
+    "sentence": "ἐγώ εἰμι Ῥοὺθ ἡ δούλη σου, καὶ περιβαλεῖς τὸ πτερύγιόν σου ἐπὶ τὴν δούλην σου, ὅτι ἀγχιστεὺς εἶ σύ."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "1.17",
+    "form": "δούλῃ",
+    "postag": "n-s---fd-",
+    "sentence": "κύριέ μου βασιλεῦ, σὺ ὤμοσας ἐν Κυρίῳ τῷ Θεῷ σου τῇ δούλῃ σου λέγων ·"
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "4.16",
+    "form": "δούλην",
+    "postag": "n-s---fa-",
+    "sentence": "μὴ Κύριε, μὴ διαψεύσῃ τὴν δούλην σου."
+   },
+   {
+    "work_code": "EST",
+    "work_ja": "エステル記",
+    "work_src": "Esther",
+    "ref": "4.17ψ",
+    "form": "δούλη",
+    "postag": "n-s---fn-",
+    "sentence": "καὶ οὐκ ηὐφράνθη ἡ δούλη σου ἀφ’ ἡμέρας μεταβολῆς μου μέχρι νῦν, πλὴν ἐπὶ σοί, Κύριε, ὁ Θεὸς Ἁβραάμ."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "56.6",
+    "form": "δούλας",
+    "postag": "n-p---fa-",
+    "sentence": "καὶ τοῖς ἀλλογενέσι τοῖς προσκειμένοις Κυρίῳ δουλεύειν αὐτῷ καὶ ἀγαπᾶν τὸ ὄνομα Κυρίου τοῦ εἶναι αὐτῷ εἰς δούλους καὶ δούλας καὶ πάντας τοὺς φυλασσομένους τὰ σάββατά μου μὴ βεβηλοῦν καὶ ἀντεχομένους τῆς διαθήκης μου, εἰσάξω αὐτοὺς εἰς τὸ ὄρος τὸ ἅγιόν μου καὶ εὐφρανῶ αὐτοὺς ἐν τῷ οἴκῳ τῆς προσευχῆς μου ·"
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "21.7",
+    "form": "δοῦλαι",
+    "postag": "n-p---fn-",
+    "sentence": "ἐὰν δέ τις ἀποδῶται τὴν ἑαυτοῦ θυγατέρα οἰκέτιν, οὐκ ἀπελεύσεται, ὥσπερ ἀποτρέχουσιν αἱ δοῦλαι."
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "25.44",
+    "form": "δούλην",
+    "postag": "n-s---fa-",
+    "sentence": "καὶ παῖς καὶ παιδίσκη, ὅσοι ἂν γένωνταί σοι ἀπὸ τῶν ἐθνῶν, ὅσοι κύκλῳ σού εἰσιν, ἀπ’ αὐτῶν κτήσεσθε δοῦλον καὶ δούλην ·"
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "28.10",
+    "form": "δούλας",
+    "postag": "n-p---fa-",
+    "sentence": "καὶ νῦν υἱοὺς Ἰούδα καὶ Ἱερουσαλὴμ ὑμεῖς λέγετε κατακτήσασθαι εἰς δούλους καὶ δούλας ·"
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "2.11",
+    "form": "δούλην",
+    "postag": "n-s---fa-",
+    "sentence": "πᾶς ὁ κόσμος αὐτῆς ἀφῃρέθη, ἀντὶ ἐλευθέρας ἐγένετο εἰς δούλην."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Ignatius, Letters": 1
+  },
+  "representatives": [
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "7.4.3",
+    "form": "δούλας",
+    "postag": "n-p---fa-",
+    "sentence": "δούλους καὶ δούλας μὴ ὑπερηφάνει ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3   δούλη, ἡ, v.s. δοῦλος."
+}

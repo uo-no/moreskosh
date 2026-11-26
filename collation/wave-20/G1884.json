@@ -1,0 +1,57 @@
+{
+ "strong": "G1884",
+ "lemma": "ἐπαρκέω",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1TI 5:10",
+   "form": "ἐπήρκεσεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "helped",
+   "gloss_ja": "助ける",
+   "verse": "ἐν ἔργοις καλοῖς μαρτυρουμένη, εἰ ἐτεκνοτρόφησεν, εἰ ἐξενοδόχησεν, εἰ ἁγίων πόδας ἔνιψεν, εἰ θλιβομένοις ἐπήρκεσεν, εἰ παντὶ ἔργῳ ἀγαθῷ ἐπηκολούθησεν."
+  },
+  {
+   "ref": "1TI 5:16",
+   "form": "ἐπαρκείτω",
+   "morph": "V-PAM-3S",
+   "gloss_en": "help",
+   "gloss_ja": "助ける",
+   "verse": "εἴ τις πιστὴ ἔχει χήρας, ἐπαρκείτω αὐταῖς, καὶ μὴ βαρείσθω ἡ ἐκκλησία, ἵνα ταῖς ὄντως χήραις ἐπαρκέσῃ."
+  },
+  {
+   "ref": "1TI 5:16",
+   "form": "ἐπαρκέσῃ",
+   "morph": "V-AAS-3S",
+   "gloss_en": "help",
+   "gloss_ja": "助ける",
+   "verse": "εἴ τις πιστὴ ἔχει χήρας, ἐπαρκείτω αὐταῖς, καὶ μὴ βαρείσθω ἡ ἐκκλησία, ἵνα ταῖς ὄντως χήραις ἐπαρκέσῃ."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Machabaeorum i": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "8.26",
+    "form": "ἐπαρκέσουσι",
+    "postag": "v3pfia---",
+    "sentence": "καὶ τοῖς πολεμοῦσιν οὐ δώσουσιν οὐ-δὲ ἐπαρκέσουσι σῖτον, ὅπλα, ἀργύριον, πλοῖα, ὡς ἔδοξε Ῥωμαίοις ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "3   ** ἐπ-αρκέω, -ῶ     [in LXX: I Mac 8:26 11:35 * ;]    to be strong enough for.        to ward off.        to aid, relieve: c. dat. pers., I Ti 5:10, 16 (mid., WH, mg.).†"
+}

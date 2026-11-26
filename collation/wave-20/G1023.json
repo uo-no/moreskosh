@@ -1,0 +1,203 @@
+{
+ "strong": "G1023",
+ "lemma": "βραχίων",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 13:17",
+   "form": "βραχίονος",
+   "morph": "N-GSM",
+   "gloss_en": "arm",
+   "gloss_ja": "腕",
+   "verse": "ὁ θεὸς τοῦ λαοῦ τούτου Ἰσραὴλ ἐξελέξατο τοὺς πατέρας ἡμῶν, καὶ τὸν λαὸν ὕψωσεν ἐν τῇ παροικίᾳ ἐν γῇ Αἰγύπτου, καὶ μετὰ βραχίονος ὑψηλοῦ ἐξήγαγεν αὐτοὺς ἐξ αὐτῆς,"
+  },
+  {
+   "ref": "JHN 12:38",
+   "form": "βραχίων",
+   "morph": "N-NSM",
+   "gloss_en": "arm",
+   "gloss_ja": "腕",
+   "verse": "ἵνα ὁ λόγος Ἠσαΐου τοῦ προφήτου πληρωθῇ ὃν εἶπεν· Κύριε, τίς ἐπίστευσεν τῇ ἀκοῇ ἡμῶν; καὶ ὁ βραχίων κυρίου τίνι ἀπεκαλύφθη;"
+  },
+  {
+   "ref": "LUK 1:51",
+   "form": "βραχίονι",
+   "morph": "N-DSM",
+   "gloss_en": "arm",
+   "gloss_ja": "腕",
+   "verse": "Ἐποίησεν κράτος ἐν βραχίονι αὐτοῦ, διεσκόρπισεν ὑπερηφάνους διανοίᾳ καρδίας αὐτῶν·"
+  }
+ ],
+ "lxx": {
+  "total": 126,
+  "works": {
+   "Genesis": 3,
+   "Exodus": 6,
+   "Leviticus": 8,
+   "Numeri": 3,
+   "Deuteronomium": 13,
+   "Judices": 2,
+   "Regnorum ii": 2,
+   "Regnorum iv": 2,
+   "Paralipomenon ii sive Chronicon ii": 2,
+   "Judith": 1,
+   "Machabaeorum ii": 1,
+   "Machabaeorum iv": 2,
+   "Psalmi": 13,
+   "Odae": 3,
+   "Proverbia": 1,
+   "Canticum": 1,
+   "Job": 5,
+   "Sapientia Salomonis": 3,
+   "Ecclesiasticus sive Siracides": 4,
+   "Psalmi Salomonis": 1,
+   "Osee": 2,
+   "Zacharias": 2,
+   "Isaias": 17,
+   "Jeremias": 5,
+   "Baruch": 1,
+   "Ezechiel": 10,
+   "Daniel": 13
+  },
+  "representatives": [
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "53.1",
+    "form": "βραχίων",
+    "postag": "n-s---mn-",
+    "sentence": "καὶ ὁ βραχίων Κυρίου τίνι ἀπεκαλύφθη;"
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "33.20",
+    "form": "βραχίονα",
+    "postag": "n-s---ma-",
+    "sentence": "ὡς λέων ἐνεπαύσατο, συντρίψας βραχίονα καὶ ἄρχοντα."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "76.16",
+    "form": "βραχίονί",
+    "postag": "n-s---md-",
+    "sentence": "ἐλυτρώσω ἐν τῷ βραχίονί σου τὸν λαόν σου, τοὺς υἱοὺς Ἰακὼβ καὶ Ἰωσήφ."
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "11.22",
+    "form": "βραχίονας",
+    "postag": "n-p---ma-",
+    "sentence": "καὶ τοὺς βραχίονας τοὺς συντριβέντας συντρίψει ἀπὸ προσώπου αὐτοῦ ·"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "30.25",
+    "form": "βραχίονες",
+    "postag": "n-p---mn-",
+    "sentence": "καὶ ἐνισχύσω τοὺς βραχίονας βασιλέως Βαβυλῶνος, οἱ δέ βραχίονες Φαραὼ πεσοῦνται ·"
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "7.32",
+    "form": "βραχίονα",
+    "postag": "n-s---ma-",
+    "sentence": "καὶ τὸν βραχίονα τὸν δεξιὸν δώσετε ἀφαίρεμα τῷ ἱερεῖ ἀπὸ τῶν θυσιῶν τοῦ σωτηρίου ὑμῶν ·"
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "6.1",
+    "form": "βραχίονι",
+    "postag": "n-s---md-",
+    "sentence": "ἐν γὰρ χειρὶ κραταιᾷ ἐξαποστελεῖ αὐτοὺς καὶ ἐν βραχίονι ὑψηλῷ ἐκβαλεῖ αὐτοὺς ἐκ τῆς γῆς αὐτοῦ."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "35.9",
+    "form": "βραχίονος",
+    "postag": "n-s---mg-",
+    "sentence": "ἀπὸ πλήθους συκοφαντούμενοι κεκράξονται, βοήσονται ἀπὸ βραχίονος πολλῶν."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "28.14",
+    "form": "βραχίονος",
+    "postag": "n-s---mg-",
+    "sentence": "ὅτι ὤμοσε Κύριος κατὰ τοῦ βραχίονος αὐτοῦ ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "7.31",
+    "form": "βραχιόνων",
+    "postag": "n-p---mg-",
+    "sentence": "φοβοῦ τὸν Κύριον καὶ δόξασον ἱερέα καὶ δῷς τὴν μερίδα αὐτῷ, καθὼς ἐντέταλταί σοι, ἀπαρχὴν καὶ περὶ πλημμελείας καὶ δόσιν βραχιόνων καὶ θυσίαν ἁγιασμοῦ καὶ ἀπαρχὴν ἁγίων."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "24.18",
+    "form": "βραχίονα",
+    "postag": "n-s---ma-",
+    "sentence": "καὶ ἔσπευσε καὶ καθεῖλε τὴν ὑδρίαν ἐπὶ τὸν βραχίονα αὐτῆς καὶ ἐπότισεν αὐτόν, ἕως ἐπαύσατο πίνων."
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "18.18",
+    "form": "βραχίονα",
+    "postag": "n-s---ma-",
+    "sentence": "καθὰ καὶ τὸ στηθύνιον τοῦ ἐπιθέματος καὶ κατὰ τὸν βραχίονα τὸν δεξιὸν σοὶ ἔσται."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "1 Clement": 2
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "16.3",
+    "form": "βραχίων",
+    "postag": "n-s---mn-",
+    "sentence": "καὶ ὁ βραχίων κυρίου τίνι ἀπεκαλύφθη;"
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "60.3",
+    "form": "βραχίονί",
+    "postag": "n-s---md-",
+    "sentence": "ναί, δέσποτα, ἐπίφανον τὸ πρόσωπόν σου ἐφ’ ἡμᾶς εἰς ἀγαθὰ ἐν εἰρήνῃ, εἰς τὸ σκεπασθῆναι ἡμᾶς τῇ χειρί σου τῇ κραταιᾷ καὶ ῥυσθῆναι ἀπὸ πάσης ἁμαρτίας τῷ βραχίονί σου τῷ ὑψηλῷ, καὶ ῥῦσαι ἡμᾶς ἀπὸ τῶν μισούντων ἡμᾶς ἀδίκως."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3   βραχίων, -ὀνος, ὁ,     [in LXX, β. Κυρίου, freq. for זְרוֹעַ יהוָֹה ;]    the arm; as in OT, β. Κυρίου, metaph., for the Divine power: Lk 1:51, Jo 12:38 (LXX), Ac 13:17.†"
+}

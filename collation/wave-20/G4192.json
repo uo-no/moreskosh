@@ -1,0 +1,246 @@
+{
+ "strong": "G4192",
+ "lemma": "πόνος",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "COL 4:13",
+   "form": "πόνον",
+   "morph": "N-ASM",
+   "gloss_en": "zeal",
+   "gloss_ja": "苦しみ",
+   "verse": "μαρτυρῶ γὰρ αὐτῷ ὅτι ἔχει πολὺν πόνον ὑπὲρ ὑμῶν καὶ τῶν ἐν Λαοδικείᾳ καὶ τῶν ἐν Ἱεραπόλει."
+  },
+  {
+   "ref": "REV 16:10",
+   "form": "πόνου",
+   "morph": "N-GSM",
+   "gloss_en": "pain",
+   "gloss_ja": "苦しみ",
+   "verse": "Καὶ ὁ πέμπτος ἐξέχεεν τὴν φιάλην αὐτοῦ ἐπὶ τὸν θρόνον τοῦ θηρίου· καὶ ἐγένετο ἡ βασιλεία αὐτοῦ ἐσκοτωμένη, καὶ ἐμασῶντο τὰς γλώσσας αὐτῶν ἐκ τοῦ πόνου,"
+  },
+  {
+   "ref": "REV 16:11",
+   "form": "πόνων",
+   "morph": "N-GPM",
+   "gloss_en": "pains",
+   "gloss_ja": "苦しみ",
+   "verse": "καὶ ἐβλασφήμησαν τὸν θεὸν τοῦ οὐρανοῦ ἐκ τῶν πόνων αὐτῶν καὶ ἐκ τῶν ἑλκῶν αὐτῶν, καὶ οὐ μετενόησαν ἐκ τῶν ἔργων αὐτῶν."
+  },
+  {
+   "ref": "REV 21:4",
+   "form": "πόνος",
+   "morph": "N-NSM",
+   "gloss_en": "pain",
+   "gloss_ja": "苦しみ",
+   "verse": "καὶ ἐξαλείψει πᾶν δάκρυον ἐκ τῶν ὀφθαλμῶν αὐτῶν, καὶ ὁ θάνατος οὐκ ἔσται ἔτι· οὔτε πένθος οὔτε κραυγὴ οὔτε πόνος οὐκ ἔσται ἔτι. τὰ πρῶτα ἀπῆλθαν."
+  }
+ ],
+ "lxx": {
+  "total": 95,
+  "works": {
+   "Genesis": 2,
+   "Exodus": 1,
+   "Numeri": 1,
+   "Deuteronomium": 1,
+   "Regnorum i": 1,
+   "Regnorum iii": 1,
+   "Paralipomenon i sive Chronicon i": 1,
+   "Paralipomenon ii sive Chronicon ii": 1,
+   "Judith": 1,
+   "Machabaeorum ii": 2,
+   "Machabaeorum iv": 21,
+   "Psalmi": 11,
+   "Proverbia": 6,
+   "Job": 5,
+   "Sapientia Salomonis": 9,
+   "Ecclesiasticus sive Siracides": 8,
+   "Osee": 1,
+   "Abdias": 1,
+   "Habacuc": 2,
+   "Aggaeus": 2,
+   "Isaias": 8,
+   "Jeremias": 7,
+   "Baruch": 1,
+   "Ezechiel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "13.4",
+    "form": "πόνων",
+    "postag": "n-p---mg-",
+    "sentence": "ἐπεκράτησαν γὰρ καὶ πάθους καὶ πόνων."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "127.2",
+    "form": "πόνους",
+    "postag": "n-p---ma-",
+    "sentence": "τοὺς πόνους τῶν καρπῶν σου φάγεσαι ·"
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "8.7",
+    "form": "πόνοι",
+    "postag": "n-p---mn-",
+    "sentence": "καὶ εἰ δικαιοσύνην ἀγαπᾷ τις, οἱ πόνοι ταύτης εἰσὶν ἀρεταί ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "31.20",
+    "form": "πόνος",
+    "postag": "n-s---mn-",
+    "sentence": "πόνος ἀγρυπνίας καὶ χολέρας καὶ στρόφος μετὰ ἀνδρὸς ἀπλήστου."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "1.5",
+    "form": "πόνον",
+    "postag": "n-s---ma-",
+    "sentence": "πᾶσα κεφαλὴ εἰς πόνον καὶ πᾶσα καρδία εἰς λύπην."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "6.7",
+    "form": "πόνῳ",
+    "postag": "n-s---md-",
+    "sentence": "πόνῳ καὶ μάστιγι παιδευθήσῃ Ἱερουσαλήμ, μὴ ἀποστῇ ἡ ψυχή μου ἀπὸ σοῦ, μὴ ποιήσω σε ἄβατον γῆν, ἥτις οὐ κατοικηθήσεται."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "16.26",
+    "form": "πόνοις",
+    "postag": "n-p---md-",
+    "sentence": "ἀνὴρ ἐν πόνοις πονεῖ ἑαυτῷ καὶ ἐκβιάζεται τὴν ἀπώλειαν ἑαυτοῦ, ὁ μέντοι σκολιὸς ἐπὶ τῷ ἑαυτοῦ στόματι φορεῖ τὴν ἀπώλειαν."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "3.10",
+    "form": "πόνον",
+    "postag": "n-s---ma-",
+    "sentence": "ἀπήλλαξε γὰρ ἂν πόνον ἀπὸ ὀφθαλμῶν μου."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "41.51",
+    "form": "πόνων",
+    "postag": "n-p---mg-",
+    "sentence": "ἐκάλεσε δὲ Ἰωσὴφ τὸ ὄνομα τοῦ πρωτοτόκου Μανασσῆ, ὅτι ἐπιλαθέσθαι με ἐποίησεν ὁ Θεὸς πάντων τῶν πόνων μου καὶ πάντων τῶν τοῦ πατρός μου."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "7.36",
+    "form": "πόνον",
+    "postag": "n-s---ma-",
+    "sentence": "οἱ μὲν γὰρ νῦν ἡμέτεροι ἀδελφοὶ βραχὺν ὑπενέγκαντες πόνον ἀεννάου ζωῆς ὑπὸ διαθήκην Θεοῦ πεπτώκασι ·"
+   },
+   {
+    "work_code": "HAB",
+    "work_ja": "ハバクク書",
+    "work_src": "Habacuc",
+    "ref": "1.3",
+    "form": "πόνους",
+    "postag": "n-p---ma-",
+    "sentence": "ἱνατί ἔδειξάς μοι κόπους καὶ πόνους, ἐπιβλέπειν ταλαιπωρίαν καὶ ἀσέβειαν;"
+   },
+   {
+    "work_code": "HAG",
+    "work_ja": "ハガイ書",
+    "work_src": "Aggaeus",
+    "ref": "1.11",
+    "form": "πόνους",
+    "postag": "n-p---ma-",
+    "sentence": "καὶ ἐπάξω ρομφαίαν ἐπὶ τὴν γῆν καὶ ἐπὶ τὰ ὄρη καὶ ἐπὶ τὸν σῖτον καὶ ἐπὶ τὸν οἶνον καὶ ἐπὶ τὸ ἔλαιον καὶ ὅσα ἐκφέρει ἡ γῆ καὶ ἐπὶ τοὺς ἀνθρώπους καὶ ἐπὶ τὰ κτήνη καὶ ἐπὶ πάντας τοὺς πόνους τῶν χειρῶν αὐτῶν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 6,
+  "works": {
+   "1 Clement": 4,
+   "To Diognetus": 1,
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "16.3",
+    "form": "πόνῳ",
+    "postag": "n-s---md-",
+    "sentence": "ἄνθρωπος ἐν πληγῇ ὢν καὶ πόνῳ καὶ εἰδὼς φέρειν μαλακίαν, ὅτι ἀπέστραπται τὸ πρόσωπον αὐτοῦ, ἠτιμάσθη καὶ οὐκ ἐλογίσθη ·"
+   },
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "11",
+    "form": "πόνου",
+    "postag": "n-s---mg-",
+    "sentence": "ὅσα γὰρ θελήματι τοῦ κελεύοντος λόγου ἐκινήθημεν ἐξειπεῖν μετὰ πόνου, ἐξ ἀγάπης τῶν ἀποκαλυφθέντων ἡμῖν γινόμεθα ὑμῖν κοινωνοί."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "16.1.20",
+    "form": "πόνον",
+    "postag": "n-s---ma-",
+    "sentence": "ἡ χάλαζα ἐλάχιστόν ἐστι κοκκάριον, καὶ ὅταν ἐπιπέσῃ ἐπὶ κεφαλὴν ἀνθρώπου, πῶς πόνον παρέχει;"
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "5.4",
+    "form": "πόνους",
+    "postag": "n-p---ma-",
+    "sentence": "Πέτρον, ὅς διὰ ζῆλον ἄδικον οὐχ ἕνα οὐ-δὲ δύο, ἀλλὰ πλείονας ὑπήνεγκεν πόνους καὶ οὕτω μαρτυρήσας ἐπορεύθη εἰς τὸν ὀφειλόμενον τόπον τῆς δόξης."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "16.4",
+    "form": "πόνῳ",
+    "postag": "n-s---md-",
+    "sentence": "οὗτος τὰς ἁμαρτίας ἡμῶν φέρει καὶ περὶ ἡμῶν ὀδυνᾶται, καὶ ἡμεῖς ἐλογισάμεθα αὐτὸν εἶναι ἐν πόνῳ καὶ ἐν πληγῇ καὶ ἐν κακώσει ·"
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "16.12",
+    "form": "πόνου",
+    "postag": "n-s---mg-",
+    "sentence": "καὶ κύριος βούλεται ἀφελεῖν ἀπὸ τοῦ πόνου τῆς ψυχῆς αὐτοῦ, δεῖξαι αὐτῷ φῶς καὶ πλάσαι τῇ συνέσει, δικαιῶσαι δίκαιον εὖ δουλεύοντα πολλοῖς."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "4   πόνος, -ου, ὁ    [in LXX for עָמָל, etc.;]      labour, toil: Col 4:13.   The consequence of toil, distress, suffering, pain (Xen., al., LXX): Re 16:10, 11 21:4.†   SYN.: v.s. κόπος."
+}

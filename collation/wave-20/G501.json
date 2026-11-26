@@ -1,0 +1,134 @@
+{
+ "strong": "G501",
+ "lemma": "ἀντλέω",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JHN 2:8",
+   "form": "Ἀντλήσατε",
+   "morph": "V-AAM-2P",
+   "gloss_en": "draw ~ out",
+   "gloss_ja": "くむ",
+   "verse": "καὶ λέγει αὐτοῖς· Ἀντλήσατε νῦν καὶ φέρετε τῷ ἀρχιτρικλίνῳ· οἱ δὲ ἤνεγκαν."
+  },
+  {
+   "ref": "JHN 2:9",
+   "form": "ἠντληκότες",
+   "morph": "V-RAP-NPM",
+   "gloss_en": "drawn",
+   "gloss_ja": "くむ",
+   "verse": "ὡς δὲ ἐγεύσατο ὁ ἀρχιτρίκλινος τὸ ὕδωρ οἶνον γεγενημένον, καὶ οὐκ ᾔδει πόθεν ἐστίν, οἱ δὲ διάκονοι ᾔδεισαν οἱ ἠντληκότες τὸ ὕδωρ, φωνεῖ τὸν νυμφίον ὁ ἀρχιτρίκλινος"
+  },
+  {
+   "ref": "JHN 4:7",
+   "form": "ἀντλῆσαι",
+   "morph": "V-AAN",
+   "gloss_en": "draw",
+   "gloss_ja": "くむ",
+   "verse": "Ἔρχεται γυνὴ ἐκ τῆς Σαμαρείας ἀντλῆσαι ὕδωρ. λέγει αὐτῇ ὁ Ἰησοῦς· Δός μοι πεῖν·"
+  },
+  {
+   "ref": "JHN 4:15",
+   "form": "ἀντλεῖν",
+   "morph": "V-PAN",
+   "gloss_en": "draw",
+   "gloss_ja": "くむ",
+   "verse": "λέγει πρὸς αὐτὸν ἡ γυνή· Κύριε, δός μοι τοῦτο τὸ ὕδωρ, ἵνα μὴ διψῶ μηδὲ διέρχωμαι ἐνθάδε ἀντλεῖν."
+  }
+ ],
+ "lxx": {
+  "total": 7,
+  "works": {
+   "Genesis": 2,
+   "Exodus": 3,
+   "Proverbia": 1,
+   "Isaias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "2.17",
+    "form": "ἤντλησεν",
+    "postag": "v3saia---",
+    "sentence": "ἀναστὰς δὲ Μωυσῆς ἐρρύσατο αὐτὰς καὶ ἤντλησεν αὐταῖς καὶ ἐπότισε τὰ πρόβατα αὐτῶν ·"
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "24.20",
+    "form": "ἀντλῆσαι",
+    "postag": "v--ana---",
+    "sentence": "καὶ ἔσπευσε καὶ ἐξεκένωσε τὴν ὑδρίαν εἰς τὸ ποτιστήριον καὶ ἔδραμεν ἔτι ἐπὶ τὸ φρέαρ ἀντλῆσαι καὶ ὑδρεύσατο πάσαις ταῖς καμήλοις."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "9.12",
+    "form": "ἀντλήσεις",
+    "postag": "v2sfia---",
+    "sentence": "ἐὰν δὲ κακὸς ἀποβῇς, μόνος ἂν ἀντλήσεις κακά."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "12.3",
+    "form": "ἀντλήσατε",
+    "postag": "v2paia---",
+    "sentence": "καὶ ἀντλήσατε ὕδωρ μετ’ εὐφροσύνης ἐκ τῶν πηγῶν τοῦ σωτηρίου."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "2.16",
+    "form": "ἤντλουν",
+    "postag": "v3piia---",
+    "sentence": "παραγενόμεναι δὲ ἤντλουν ἕως ἔπλησαν τὰς δεξαμενὰς ποτίσαι τὰ πρόβατα τοῦ πατρὸς αὐτῶν Ἰοθόρ."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "24.13",
+    "form": "ἀντλῆσαι",
+    "postag": "v--ana---",
+    "sentence": "ἰδοὺ ἐγὼ ἕστηκα ἐπὶ τῆς πηγῆς τοῦ ὕδατος, αἱ δὲ θυγατέρες τῶν οἰκούντων τὴν πόλιν ἐκπορεύονται ἀντλῆσαι ὕδωρ, καὶ ἔσται ἡ παρθένος, ᾗ ἂν ἐγὼ εἴπω ·"
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "2.19",
+    "form": "ἤντλησεν",
+    "postag": "v3saia---",
+    "sentence": "ἄνθρωπος Αἰγύπτιος ἐρρύσατο ἡμᾶς ἀπὸ τῶν ποιμένων καὶ ἤντλησεν ἡμῖν καὶ ἐπότισε τὰ πρόβατα ἡμῶν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "22.6.2",
+    "form": "ἠντληκώς",
+    "postag": "v-srpamn-",
+    "sentence": "καὶ αὐτὸς τὰς ἁμαρτίας αὐτῶν ἐκαθάρισε πολλὰ κοπιάσας καὶ πολλοὺς κόπους ἠντληκώς ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "4   ἀντλέω, -ῶ    (< ἄντλος, bilge-water in a hold),   [in LXX for שׁאב, etc.;]      prop., to bale out.   Generally, to draw water: absol., Jo 2:8 4:15; ὕδωρ, Jo 2:9 4:7 (on its use of the water made wine, v. DCG, ii, 815a; MM, VGT, s.v.; Field, Notes, 84 f.).†"
+}

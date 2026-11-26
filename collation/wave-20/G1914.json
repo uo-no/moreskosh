@@ -1,0 +1,211 @@
+{
+ "strong": "G1914",
+ "lemma": "ἐπιβλέπω",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JAS 2:3",
+   "form": "ἐπιβλέψητε",
+   "morph": "V-AAS-2P",
+   "gloss_en": "pay attention",
+   "gloss_ja": "顧みる",
+   "verse": "ἐπιβλέψητε δὲ ἐπὶ τὸν φοροῦντα τὴν ἐσθῆτα τὴν λαμπρὰν καὶ εἴπητε· Σὺ κάθου ὧδε καλῶς, καὶ τῷ πτωχῷ εἴπητε· Σὺ στῆθι ἢ κάθου ἐκεῖ ὑπὸ τὸ ὑποπόδιόν μου,"
+  },
+  {
+   "ref": "LUK 1:48",
+   "form": "ἐπέβλεψεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "looked with favor",
+   "gloss_ja": "顧みる",
+   "verse": "ὅτι ἐπέβλεψεν ἐπὶ τὴν ταπείνωσιν τῆς δούλης αὐτοῦ, ἰδοὺ γὰρ ἀπὸ τοῦ νῦν μακαριοῦσίν με πᾶσαι αἱ γενεαί·"
+  },
+  {
+   "ref": "LUK 9:38",
+   "form": "ἐπιβλέψαι",
+   "morph": "V-AAN",
+   "gloss_en": "look",
+   "gloss_ja": "顧みる",
+   "verse": "καὶ ἰδοὺ ἀνὴρ ἀπὸ τοῦ ὄχλου ἐβόησεν λέγων· Διδάσκαλε, δέομαί σου ἐπιβλέψαι ἐπὶ τὸν υἱόν μου, ὅτι μονογενής μοί ἐστιν,"
+  }
+ ],
+ "lxx": {
+  "total": 114,
+  "works": {
+   "Genesis": 2,
+   "Exodus": 1,
+   "Leviticus": 1,
+   "Numeri": 2,
+   "Deuteronomium": 1,
+   "Judices": 4,
+   "Regnorum i": 13,
+   "Regnorum ii": 3,
+   "Regnorum iii": 8,
+   "Regnorum iv": 2,
+   "Paralipomenon ii sive Chronicon ii": 3,
+   "Esther": 1,
+   "Judith": 2,
+   "Tobias": 3,
+   "Psalmi": 17,
+   "Odae": 3,
+   "Proverbia": 1,
+   "Ecclesiastes": 2,
+   "Ecclesiasticus sive Siracides": 9,
+   "Psalmi Salomonis": 1,
+   "Osee": 1,
+   "Amos": 1,
+   "Michaeas": 1,
+   "Jonas": 1,
+   "Nahum": 1,
+   "Habacuc": 6,
+   "Aggaeus": 1,
+   "Zacharias": 4,
+   "Malachias": 2,
+   "Isaias": 3,
+   "Jeremias": 2,
+   "Threni seu Lamentationes": 4,
+   "Ezechiel": 5,
+   "Daniel": 2,
+   "Bel et Draco": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "12.4",
+    "form": "ἐπίβλεψον",
+    "postag": "v2sama---",
+    "sentence": "ἐπίβλεψον, εἰσάκουσόν μου, Κύριε ὁ Θεός μου ·"
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "9.16",
+    "form": "ἐπέβλεψα",
+    "postag": "v1saia---",
+    "sentence": "ὅτι ἐπέβλεψα ἐπὶ τὴν ταπείνωσιν τοῦ λαοῦ μου, ὅτι ἦλθε βοὴ αὐτῶν πρός με."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "31.14",
+    "form": "ἐπιβλέψῃ",
+    "postag": "v3sasa---",
+    "sentence": "οὗ ἐὰν ἐπιβλέψῃ, μὴ ἐκτείνῃς χεῖρα καὶ μὴ συνθλίβου αὐτῷ ἐν τρυβλίῳ."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "18.43",
+    "form": "ἐπέβλεψεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἐπέβλεψεν τὸ παιδάριον καὶ εἶπεν ·"
+   },
+   {
+    "work_code": "HAB",
+    "work_ja": "ハバクク書",
+    "work_src": "Habacuc",
+    "ref": "1.13",
+    "form": "ἐπιβλέπεις",
+    "postag": "v2spia---",
+    "sentence": "ἵνα τί ἐπιβλέπεις ἐπὶ καταφρονοῦντας;"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "36.9",
+    "form": "ἐπιβλέψω",
+    "postag": "v1sasa---",
+    "sentence": "ὅτι ἰδοὺ ἐγὼ ἐφ’ ὑμᾶς καὶ ἐπιβλέψω ἐφ’ ὑμᾶς, καὶ κατεργασθήσεσθε καὶ σπαρήσεσθε."
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "20.40",
+    "form": "ἐπέβλεψε",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἐπέβλεψε Βενιαμὶν ὀπίσω αὐτοῦ, καὶ ἰδοὺ ἀνέβη συντέλεια τῆς πόλεως ἕως οὐρανοῦ."
+   },
+   {
+    "work_code": "ZEC",
+    "work_ja": "ゼカリヤ書",
+    "work_src": "Zacharias",
+    "ref": "4.10",
+    "form": "ἐπιβλέποντες",
+    "postag": "v-pppamn-",
+    "sentence": "ἑπτὰ οὗτοι ὀφθαλμοὶ Κυρίου εἰσὶν οἱ ἐπιβλέποντες ἐπὶ πᾶσαν τὴν γῆν."
+   },
+   {
+    "work_code": "LAM",
+    "work_ja": "哀歌",
+    "work_src": "Threni seu Lamentationes",
+    "ref": "3.63",
+    "form": "ἐπίβλεψον",
+    "postag": "v2sama---",
+    "sentence": "ἐπίβλεψον ἐπὶ τοὺς ὀφθαλμοὺς αὐτῶν."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "9.8",
+    "form": "ἐπέβλεψας",
+    "postag": "v2saia---",
+    "sentence": "τίς εἰμι ὁ δοῦλός σου, ὅτι ἐπέβλεψας ἐπὶ τὸν κύνα τὸν τεθνηκότα τὸν ὅμοιον ἐμοί;"
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "16.9",
+    "form": "ἐπιβλέπουσιν",
+    "postag": "v3ppia---",
+    "sentence": "ὅτι οἱ ὀφθαλμοὶ Κυρίου ἐπιβλέπουσιν ἐν πάσῃ τῇ γῇ κατισχῦσαι ἐν πάσῃ καρδίᾳ πλήρει πρὸς αὐτόν."
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "3.15",
+    "form": "ἐπιβλέψαι",
+    "postag": "v--ana---",
+    "sentence": "καὶ εἰ μὴ δοκεῖ σοι ἀποκτεῖναί με, ἐπίταξον ἐπιβλέψαι ἐπ’ ἐμὲ καὶ ἐλεῆσαί με καὶ μηκέτι ἀκοῦσαί με ὀνειδισμόν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "1 Clement": 2
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "13.4",
+    "form": "ἐπιβλέψω",
+    "postag": "v1sasa---",
+    "sentence": "ἐπὶ τίνα ἐπιβλέψω, ἀλλ’ ἢ ἐπὶ τὸν πραῢν καὶ ἡσύχιον καὶ τρέμοντά μου τὰ λόγια."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "59.3",
+    "form": "ἐπιβλέποντα",
+    "postag": "v-sppama-",
+    "sentence": "τὸν ἐπιβλέποντα ἐν τοῖς ἀβύσσοις, τὸν ἐπόπτην ἀνθρωπίνων ἔργων, τὸν τῶν κινδυνευόντων βοηθόν, τὸν τῶν ἀπηλπισμένων σωτῆρα, τὸν παντὸς πνεύματος κτίστην καὶ ἐπίσκοπον ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3   ἐπι-βλέπω     [in LXX for נָבַט hi., פָּנָה, רָאָה, etc. ;]     to look upon. In NT, as in LXX (I Ki 1:11 9:16, Ps 24(25):16; To 3:3, al.), to look on with favour: seq. ἐπί c. acc pers., Lk 1:48 9:38, Ja 2:3.†"
+}

@@ -1,0 +1,189 @@
+{
+ "strong": "G1289",
+ "lemma": "διασπείρω",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 11:19",
+   "form": "διασπαρέντες",
+   "morph": "V-2APP-NPM",
+   "gloss_en": "scattered",
+   "gloss_ja": "散らす",
+   "verse": "Οἱ μὲν οὖν διασπαρέντες ἀπὸ τῆς θλίψεως τῆς γενομένης ἐπὶ Στεφάνῳ διῆλθον ἕως Φοινίκης καὶ Κύπρου καὶ Ἀντιοχείας μηδενὶ λαλοῦντες τὸν λόγον εἰ μὴ μόνον Ἰουδαίοις."
+  },
+  {
+   "ref": "ACT 8:1",
+   "form": "διεσπάρησαν",
+   "morph": "V-2API-3P",
+   "gloss_en": "scattered",
+   "gloss_ja": "散らす",
+   "verse": "Σαῦλος δὲ ἦν συνευδοκῶν τῇ ἀναιρέσει αὐτοῦ. Ἐγένετο δὲ ἐν ἐκείνῃ τῇ ἡμέρᾳ διωγμὸς μέγας ἐπὶ τὴν ἐκκλησίαν τὴν ἐν Ἱεροσολύμοις· πάντες δὲ διεσπάρησαν κατὰ τὰς χώρας τῆς Ἰουδαίας καὶ Σαμαρείας πλὴν τῶν ἀποστόλων."
+  },
+  {
+   "ref": "ACT 8:4",
+   "form": "διασπαρέντες",
+   "morph": "V-2APP-NPM",
+   "gloss_en": "scattered",
+   "gloss_ja": "散らす",
+   "verse": "Οἱ μὲν οὖν διασπαρέντες διῆλθον εὐαγγελιζόμενοι τὸν λόγον."
+  }
+ ],
+ "lxx": {
+  "total": 69,
+  "works": {
+   "Genesis": 7,
+   "Exodus": 1,
+   "Leviticus": 1,
+   "Deuteronomium": 4,
+   "Regnorum i": 5,
+   "Regnorum ii": 2,
+   "Regnorum iii": 2,
+   "Regnorum iv": 1,
+   "Paralipomenon ii sive Chronicon ii": 1,
+   "Esther": 2,
+   "Judith": 1,
+   "Tobias": 2,
+   "Machabaeorum i": 1,
+   "Psalmi": 1,
+   "Odae": 1,
+   "Joel": 1,
+   "Sophonias": 1,
+   "Isaias": 7,
+   "Jeremias": 8,
+   "Baruch": 4,
+   "Ezechiel": 15,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "30.26",
+    "form": "διασπερῶ",
+    "postag": "v1sfia---",
+    "sentence": "καὶ διασπερῶ Αἴγυπτον εἰς τὰ ἔθνη καὶ λικμήσω αὐτοὺς εἰς τὰς χώρας ·"
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "13.24",
+    "form": "διέσπειρα",
+    "postag": "v1saia---",
+    "sentence": "καὶ διέσπειρα αὐτοὺς ὡς φρύγανα φερόμενα ἀπὸ ἀνέμου εἰς ἔρημον."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "9.19",
+    "form": "διεσπάρησαν",
+    "postag": "v3paip---",
+    "sentence": "ἀπὸ τούτων διεσπάρησαν ἐπί πᾶσαν τὴν γῆν."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "35.8",
+    "form": "διεσπαρμένοι",
+    "postag": "v-prpmmn-",
+    "sentence": "οἱ δὲ διεσπαρμένοι πορεύσονται ἐπ’ αὐτῆς καὶ οὐ μὴ πλανηθῶσι."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "14.23",
+    "form": "διεσπαρμένος",
+    "postag": "v-srpmmn-",
+    "sentence": "καὶ ἦν ὁ πόλεμος διεσπαρμένος εἰς ὅλην τὴν πόλιν ἐν τῷ ὄρει Ἐφραίμ."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "4.27",
+    "form": "διασπερεῖ",
+    "postag": "v3sfia---",
+    "sentence": "καὶ διασπερεῖ Κύριος ὑμᾶς ἐν πᾶσι τοῖς ἔθνεσι καὶ καταλειφθήσεσθε ὀλίγοι ἀριθμῷ ἐν πᾶσι τοῖς ἔθνεσιν, εἰς οὓς εἰσάξει Κύριος ὑμᾶς ἐκεῖ."
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルク書",
+    "work_src": "Baruch",
+    "ref": "2.13",
+    "form": "διέσπειρας",
+    "postag": "v2saia---",
+    "sentence": "ἀποστραφήτω ὁ θυμός σου ἀφ’ ἡμῶν, ὅτι κατελείφθημεν ὀλίγοι ἐν τοῖς ἔθνεσιν, οὗ διέσπειρας ἡμᾶς ἐκεῖ."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "20.22",
+    "form": "διεσπάρησαν",
+    "postag": "v3paip---",
+    "sentence": "καὶ ἐσάλπισεν ἐν κερατίνῃ, καὶ διεσπάρησαν ἀπὸ τῆς πόλεως ἀπ’ αὐτοῦ ἀνὴρ εἰς τὰ σκηνώματα αὐτοῦ ·"
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "12.24υ",
+    "form": "διεσπάρη",
+    "postag": "v3saip---",
+    "sentence": "καὶ διεσπάρη πᾶς ὁ λαὸς ἐκ Σικίμων, καὶ ἀπῆλθον ἕκαστος εἰς τὸ σκήνωμα αὐτοῦ."
+   },
+   {
+    "work_code": "EST",
+    "work_ja": "エステル記",
+    "work_src": "Esther",
+    "ref": "3.8",
+    "form": "διεσπαρμένον",
+    "postag": "v-srpmnn-",
+    "sentence": "ὑπάρχει ἔθνος διεσπαρμένον ἐν τοῖς ἔθνεσιν ἐν πάσῃ τῇ βασιλείᾳ σου, οἱ δὲ νόμοι αὐτῶν ἔξαλλοι παρὰ πάντα τὰ ἔθνη, τῶν δὲ νόμων τοῦ βασιλέως παρακούουσι, καὶ οὐ συμφέρει τῷ βασιλεῖ ἐᾶσαι αὐτούς ·"
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "13.3",
+    "form": "διέσπειρεν",
+    "postag": "v3saia---",
+    "sentence": "ἐξομολογεῖσθε αὐτῷ οἱ υἱοὶ Ἰσραὴλ ἐνώπιον τῶν ἐθνῶν, ὅτι αὐτὸς διέσπειρεν ἡμᾶς ἐν αὐτοῖς ·"
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "5.12",
+    "form": "διεσπάρη",
+    "postag": "v3saip---",
+    "sentence": "καὶ διεσπάρη ὁ λαὸς ἐν ὅλῃ γῇ Αἰγύπτῳ, συναγαγεῖν καλάμην εἰς ἄχυρα ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "1 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "29.2",
+    "form": "διέσπειρεν",
+    "postag": "v3saia---",
+    "sentence": "ὅτε διεμέριζεν ὁ ὕψιστος ἔθνη, ὡς διέσπειρεν υἱοὺς Ἀδάμ, ἔστησεν ὅρια ἐθνῶν κατὰ ἀριθμὸν ἀγγέλων θεοῦ."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3   δια-σπείρω     [freq. in LXX for פּוּץ, etc. ;]    to scatter abroad, disperse: Ac 8:1, 4 11:19.†"
+}

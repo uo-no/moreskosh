@@ -1,0 +1,169 @@
+{
+ "strong": "G576",
+ "lemma": "ἀποβαίνω",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JHN 21:9",
+   "form": "ἀπέβησαν",
+   "morph": "V-2AAI-3P",
+   "gloss_en": "got out",
+   "gloss_ja": "降りる",
+   "verse": "Ὡς οὖν ἀπέβησαν εἰς τὴν γῆν βλέπουσιν ἀνθρακιὰν κειμένην καὶ ὀψάριον ἐπικείμενον καὶ ἄρτον."
+  },
+  {
+   "ref": "LUK 21:13",
+   "form": "ἀποβήσεται",
+   "morph": "V-FDI-3S",
+   "gloss_en": "turn out",
+   "gloss_ja": "降りる",
+   "verse": "ἀποβήσεται ὑμῖν εἰς μαρτύριον."
+  },
+  {
+   "ref": "LUK 5:2",
+   "form": "ἀποβάντες",
+   "morph": "V-2AAP-NPM",
+   "gloss_en": "gone out",
+   "gloss_ja": "降りる",
+   "verse": "καὶ εἶδεν δύο πλοῖα ἑστῶτα παρὰ τὴν λίμνην, οἱ δὲ ἁλιεῖς ἀπ’ αὐτῶν ἀποβάντες ἔπλυνον τὰ δίκτυα."
+  },
+  {
+   "ref": "PHP 1:19",
+   "form": "ἀποβήσεται",
+   "morph": "V-FDI-3S",
+   "gloss_en": "turn out",
+   "gloss_ja": "降りる",
+   "verse": "οἶδα γὰρ ὅτι τοῦτό μοι ἀποβήσεται εἰς σωτηρίαν διὰ τῆς ὑμῶν δεήσεως καὶ ἐπιχορηγίας τοῦ πνεύματος Ἰησοῦ Χριστοῦ,"
+  }
+ ],
+ "lxx": {
+  "total": 21,
+  "works": {
+   "Exodus": 1,
+   "Machabaeorum ii": 2,
+   "Proverbia": 1,
+   "Job": 15,
+   "Sapientia Salomonis": 1,
+   "Ecclesiasticus sive Siracides": 1
+  },
+  "representatives": [
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "9.20",
+    "form": "ἀποβήσομαι",
+    "postag": "v1sfim---",
+    "sentence": "ἐάν τε ὦ ἄμεμπτος, σκολιὸς ἀποβήσομαι."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "9.25",
+    "form": "ἀποβησόμενον",
+    "postag": "v-sfpmna-",
+    "sentence": "πρὸς δὲ τούτοις κατανοῶν τοὺς παρακειμένους δυνάστας καὶ γειτνιῶντας τῇ βασιλείᾳ τοῖς καιροῖς ἐπέχοντας καὶ προσδεχομένους τὸ ἀποβησόμενον, ἀναδέδειχα τὸν υἱόν μου Ἀντίοχον βασιλέα, ὃν πολλάκις ἀνατρέχων εἰς τὰς ἐπάνω σατραπείας τοῖς πλείστοις ὑμῶν παρακατετιθέμην καὶ συνίστων ·"
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "2.4",
+    "form": "ἀποβησόμενον",
+    "postag": "v-sfpmnn-",
+    "sentence": "καὶ κατεσκόπευεν ἡ ἀδελφὴ αὐτοῦ μακρόθεν μαθεῖν, τί τὸ ἀποβησόμενον αὐτῷ."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "9.12",
+    "form": "ἀποβῇς",
+    "postag": "v2sasa---",
+    "sentence": "ἐὰν δὲ κακὸς ἀποβῇς, μόνος ἂν ἀντλήσεις κακά."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "2.3",
+    "form": "ἀποβήσεται",
+    "postag": "v3sfim---",
+    "sentence": "ὅτι καπνὸς ἡ πνοὴ ἐν ρισὶν ἡμῶν, καὶ ὁ λόγος σπινθὴρ ἐν κινήσει καρδίας ἡμῶν, οὗ σβεσθέντος τέφρα ἀποβήσεται τὸ σῶμα καὶ τὸ πνεῦμα διαχυθήσεται ὡς χαῦνος ἀήρ."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "30.8",
+    "form": "ἀποβαίνει",
+    "postag": "v3spia---",
+    "sentence": "ἵππος ἀδάμαστος ἀποβαίνει σκληρός, καὶ υἱὸς ἀνειμένος ἐκβαίνει προαλής."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "27.18",
+    "form": "ἀπέβη",
+    "postag": "v3saia---",
+    "sentence": "ἀπέβη δὲ οἱ οἶκος αὐτοῦ ὥσπερ σῆτες καὶ ὥσπερ ἀράχνη."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "9.24",
+    "form": "ἀποβαίνῃ",
+    "postag": "v3spsa---",
+    "sentence": "οὐκ ἀπογινώσκων τὰ κατ’ ἐμαυτόν, ἀλλὰ ἔχων πολλὴν ἐλπίδα ἐκφεύξεσθαι τὴν ἀσθένειαν, θεωρῶν δὲ ὅτι καὶ ὁ πατήρ, καθ’ οὓς καιροὺς εἰς τοὺς ἄνω τόπους ἐστρατοπέδευσεν, ἀνέδειξε τὸν διαδεξόμενον, ὅπως ἐάν τι παράδοξον ἀποβαίνῃ ἢ καὶ προσαγγελθῇ τι δυσχερές, εἰδότες οἱ κατὰ τὴν χώραν ᾧ καταλέλειπται τὰ πράγματα, μὴ ἐπιταράσσωνται."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "17.6",
+    "form": "ἀπέβην",
+    "postag": "v1saia---",
+    "sentence": "ἔθου δέ με θρύλημα ἐν ἔθνεσι, γέλως δὲ αὐτοῖς ἀπέβην ·"
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "24.5",
+    "form": "ἀπέβησαν",
+    "postag": "v3paia---",
+    "sentence": "ἀπέβησαν δὲ ὥσπερ ὄνοι ἐν ἀγρῷ ὑπὲρ ἐμοῦ ἐξελθόντες τὴν ἑαυτῶν τάξιν ·"
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "13.5",
+    "form": "ἀποβήσεται",
+    "postag": "v3sfim---",
+    "sentence": "εἴη δὲ ὑμῖν κωφεῦσαι, καὶ ἀποβήσεται ὑμῖν εἰς σοφίαν."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "15.31",
+    "form": "ἀποβήσεται",
+    "postag": "v3sfim---",
+    "sentence": "μὴ πιστευέτω ὅτι ὑπομενεῖ, κενὰ γὰρ ἀποβήσεται αὐτῷ ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "4   ἀπο-βαίνω,    [in LXX for היה, etc.;]    to step off, disembark: Lk 5:2, Jo 21:9; metaph., of events, to issue, turn out (Field, Notes, 74): Lk 21:13, Phl 1:19 (MM, s.v.).†"
+}

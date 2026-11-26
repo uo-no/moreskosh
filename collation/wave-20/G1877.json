@@ -1,0 +1,95 @@
+{
+ "strong": "G1877",
+ "lemma": "ἐπανάγω",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 5:3",
+   "form": "ἐπαναγαγεῖν",
+   "morph": "V-2AAN",
+   "gloss_en": "put out",
+   "gloss_ja": "沖に出る",
+   "verse": "ἐμβὰς δὲ εἰς ἓν τῶν πλοίων, ὃ ἦν Σίμωνος, ἠρώτησεν αὐτὸν ἀπὸ τῆς γῆς ἐπαναγαγεῖν ὀλίγον, καθίσας δὲ ἐκ τοῦ πλοίου ἐδίδασκεν τοὺς ὄχλους."
+  },
+  {
+   "ref": "LUK 5:4",
+   "form": "Ἐπανάγαγε",
+   "morph": "V-2AAM-2S",
+   "gloss_en": "put out",
+   "gloss_ja": "沖に出る",
+   "verse": "ὡς δὲ ἐπαύσατο λαλῶν, εἶπεν πρὸς τὸν Σίμωνα· Ἐπανάγαγε εἰς τὸ βάθος καὶ χαλάσατε τὰ δίκτυα ὑμῶν εἰς ἄγραν."
+  },
+  {
+   "ref": "MAT 21:18",
+   "form": "ἐπανάγων",
+   "morph": "V-PAP-NSM",
+   "gloss_en": "returning",
+   "gloss_ja": "沖に出る",
+   "verse": "Πρωῒ δὲ ἐπανάγων εἰς τὴν πόλιν ἐπείνασεν."
+  }
+ ],
+ "lxx": {
+  "total": 5,
+  "works": {
+   "Machabaeorum ii": 2,
+   "Ecclesiasticus sive Siracides": 2,
+   "Zacharias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "9.21",
+    "form": "ἐπανάγων",
+    "postag": "v-sppamn-",
+    "sentence": "ἐπανάγων ἐκ τῶν περὶ τὴν Περσίδα τόπων καὶ περιπεσὼν ἀσθενείᾳ δυσχέρειαν ἐχούσῃ, ἀναγκαῖον ἡγησάμην φροντίσαι τῆς κοινῆς πάντων ἀσφαλείας."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "17.26",
+    "form": "ἐπάναγε",
+    "postag": "v2spma---",
+    "sentence": "ἐπάναγε ἐπὶ Ὓψιστον καὶ ἀπόστρεφε ἀπὸ ἀδικίας, καὶ σφόδρα μίσησον βδέλυγμα."
+   },
+   {
+    "work_code": "ZEC",
+    "work_ja": "ゼカリヤ書",
+    "work_src": "Zacharias",
+    "ref": "4.12",
+    "form": "ἐπαναγόντων",
+    "postag": "v-pppamg-",
+    "sentence": "τί οἱ δύο κλάδοι τῶν ἐλαιῶν οἱ ἐν ταῖς χερσὶ τῶν δύο μυξωτήρων τῶν χρυσῶν τῶν ἐπιχεόντων καὶ ἐπαναγόντων τὰς ἐπαρυστρίδας τὰς χρυσᾶς;"
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "12.4",
+    "form": "ἐπαναχθέντας",
+    "postag": "v-pappma-",
+    "sentence": "παρακαλέσαντες τοὺς σὺν αὐτοῖς οἰκοῦντας Ἰουδαίους ἐμβῆναι εἰς τὰ παρασταθέντα ὑπ’ αὐτῶν σκάφη σὺν γυναιξὶ καὶ τέκνοις ὡς μηδεμιᾶς ἐνεστώσης πρὸς αὐτοὺς δυσμενείας, κατὰ δὲ τὸ κοινὸν τῆς πόλεως ψήφισμα, καὶ τούτων ἐπιδεξαμένων ὡς ἂν εἰρηνεύειν θελόντων καὶ μηδὲν ὕποπτον ἐχόντων, ἐπαναχθέντας αὐτοὺς ἐβύθισαν ὄντας οὐκ ἔλαττον τῶν διακοσίων."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "26.28",
+    "form": "ἐπανάγων",
+    "postag": "v-sppamn-",
+    "sentence": "ἀνὴρ πολεμιστὴς ὑστερῶν δι’ ἔνδειαν, καὶ ἄνδρες συνετοὶ ἐὰν σκυβαλισθῶσιν, ἐπανάγων ἀπὸ δικαιοσύνης ἐπὶ ἁμαρτίαν ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "3   ἐπ-αν-άγω     [in LXX: Za 4:12 (רוּק hi.), Si 17:26 26:28, II Mac 9:21 12:4 * ;]     to bring up or back (sc. ναῦς); to put out to sea (DB, iii, 63b): Lk 5:3, 4; intrans., to return: Mt 21:18.†"
+}

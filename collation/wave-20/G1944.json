@@ -1,0 +1,178 @@
+{
+ "strong": "G1944",
+ "lemma": "ἐπάρατος",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": "επικαταρατος",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "GAL 3:10",
+   "form": "Ἐπικατάρατος",
+   "morph": "A-NSM",
+   "gloss_en": "cursed",
+   "gloss_ja": "呪われた",
+   "verse": "Ὅσοι γὰρ ἐξ ἔργων νόμου εἰσὶν ὑπὸ κατάραν εἰσίν, γέγραπται γὰρ ὅτι Ἐπικατάρατος πᾶς ὃς οὐκ ἐμμένει πᾶσιν τοῖς γεγραμμένοις ἐν τῷ βιβλίῳ τοῦ νόμου τοῦ ποιῆσαι αὐτά."
+  },
+  {
+   "ref": "GAL 3:13",
+   "form": "Ἐπικατάρατος",
+   "morph": "A-NSM",
+   "gloss_en": "cursed",
+   "gloss_ja": "呪われた",
+   "verse": "Χριστὸς ἡμᾶς ἐξηγόρασεν ἐκ τῆς κατάρας τοῦ νόμου γενόμενος ὑπὲρ ἡμῶν κατάρα, ὅτι γέγραπται· Ἐπικατάρατος πᾶς ὁ κρεμάμενος ἐπὶ ξύλου,"
+  },
+  {
+   "ref": "JHN 7:49",
+   "form": "ἐπάρατοί",
+   "morph": "A-NPM",
+   "gloss_en": "accursed",
+   "gloss_ja": "呪われた",
+   "verse": "ἀλλὰ ὁ ὄχλος οὗτος ὁ μὴ γινώσκων τὸν νόμον ἐπάρατοί εἰσιν."
+  }
+ ],
+ "lxx": {
+  "total": 38,
+  "works": {
+   "Genesis": 6,
+   "Deuteronomium": 17,
+   "Josue": 1,
+   "Judices": 2,
+   "Regnorum i": 2,
+   "Machabaeorum iv": 1,
+   "Proverbia": 1,
+   "Sapientia Salomonis": 1,
+   "Malachias": 1,
+   "Isaias": 1,
+   "Jeremias": 5
+  },
+  "representatives": [
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "27.18",
+    "form": "ἐπικατάρατος",
+    "postag": "a-s---mn-",
+    "sentence": "ἐπικατάρατος ὁ πλανῶν τυφλὸν ἐν ὁδῷ ·"
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "27.29",
+    "form": "ἐπικατάρατος",
+    "postag": "a-s---mn-",
+    "sentence": "ὁ καταρώμενός σε ἐπικατάρατος, ὁ δὲ εὐλογῶν σε εὐλογημένος."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "20.14",
+    "form": "ἐπικατάρατος",
+    "postag": "a-s---fn-",
+    "sentence": "— ἐπικατάρατος ἡ ἡμέρα, ἐν ᾗ ἐτέχθην ἐν αὐτῇ ·"
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "21.18",
+    "form": "ἐπικατάρατος",
+    "postag": "a-s---mn-",
+    "sentence": "ἐπικατάρατος ὁ διδοὺς γυναῖκα τῷ Βενιαμίν."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "14.28",
+    "form": "ἐπικατάρατος",
+    "postag": "a-s---mn-",
+    "sentence": "ἐπικατάρατος ὁ ἄνθρωπος, ὃς φάγεται ἄρτον σήμερον, καὶ ἐξελύθη ὁ λαός."
+   },
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "6.26",
+    "form": "ἐπικατάρατος",
+    "postag": "a-s---mn-",
+    "sentence": "ἐπικατάρατος ὁ ἄνθρωπος, ὃς οἰκοδομήσει τὴν πόλιν ἐκείνην ·"
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "2.19",
+    "form": "ἐπικατάρατος",
+    "postag": "a-s---mn-",
+    "sentence": "ἐπικατάρατος ὁ θυμὸς αὐτῶν;"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "24b.24",
+    "form": "ἐπικατάρατος",
+    "postag": "a-s---mn-",
+    "sentence": "δίκαιός ἐστιν, ἐπικατάρατος λαοῖς ἔσται καὶ μισητὸς εἰς ἔθνη ·"
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "3.12",
+    "form": "ἐπικατάρατος",
+    "postag": "a-s---fn-",
+    "sentence": "αἱ γυναῖκες αὐτῶν ἄφρονες, καί πονηρὰ τὰ τέκνα αὐτῶν, ἐπικατάρατος ἡ γένεσις αὐτῶν."
+   },
+   {
+    "work_code": "MAL",
+    "work_ja": "マラキ書",
+    "work_src": "Malachias",
+    "ref": "1.14",
+    "form": "ἐπικατάρατος",
+    "postag": "a-s---mn-",
+    "sentence": "καὶ ἐπικατάρατος ὃς ἦν δυνατὸς καὶ ὑπῆρχεν ἐν τῷ ποιμνίῳ αὐτοῦ ἄρσεν καὶ εὐχὴ αὐτοῦ ἐπ’ αὐτῷ καὶ θύει διεφθαρμένον τῷ Κυρίῳ ·"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "65.20",
+    "form": "ἐπικατάρατος",
+    "postag": "a-s---mn-",
+    "sentence": "ἔσται γὰρ ὁ νέος ἑκατὸν ἐτῶν, ὁ δὲ ἀποθνήσκων ἁμαρτωλὸς ἑκατὸν ἐτῶν καὶ ἐπικατάρατος ἔσται."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "27.24",
+    "form": "ἐπικατάρατος",
+    "postag": "a-s---mn-",
+    "sentence": "ἐπικατάρατος ὁ τύπτων τὸν πλησίον δόλῳ ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Barnabas": 1
+  },
+  "representatives": [
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "7.7",
+    "form": "ἐπικατάρατος",
+    "postag": "a-s---mn-",
+    "sentence": "ἐπικατάρατος, φησιν, ὁ εἷς."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   † ἐπι-κατ-άρατος, -ον    (< ἐπικαταράομαι, to imprecate curses on),    [in LXX for אָרוּר, also Wi 3:12 14:8, IV Mac 2:19 ;]     accursed: Ga 3:10 (LXX) 13 (LXX κεκαταραμένος) (Cremer, 109).†"
+}
