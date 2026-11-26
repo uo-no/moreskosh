@@ -1,0 +1,173 @@
+{
+ "strong": "G4929",
+ "lemma": "συντάσσω",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MAT 21:6",
+   "form": "συνέταξεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "directed",
+   "gloss_ja": "命じる",
+   "verse": "πορευθέντες δὲ οἱ μαθηταὶ καὶ ποιήσαντες καθὼς συνέταξεν αὐτοῖς ὁ Ἰησοῦς"
+  },
+  {
+   "ref": "MAT 27:10",
+   "form": "συνέταξέν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "directed",
+   "gloss_ja": "命じる",
+   "verse": "καὶ ἔδωκαν αὐτὰ εἰς τὸν ἀγρὸν τοῦ κεραμέως, καθὰ συνέταξέν μοι κύριος."
+  },
+  {
+   "ref": "MAT 26:19",
+   "form": "συνέταξεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "directed",
+   "gloss_ja": "命じる",
+   "verse": "καὶ ἐποίησαν οἱ μαθηταὶ ὡς συνέταξεν αὐτοῖς ὁ Ἰησοῦς, καὶ ἡτοίμασαν τὸ πάσχα."
+  }
+ ],
+ "lxx": {
+  "total": 124,
+  "works": {
+   "Genesis": 2,
+   "Exodus": 38,
+   "Leviticus": 12,
+   "Numeri": 28,
+   "Deuteronomium": 2,
+   "Josue": 9,
+   "Esdras i": 4,
+   "Judith": 5,
+   "Machabaeorum i": 1,
+   "Machabaeorum ii": 1,
+   "Proverbia": 1,
+   "Job": 5,
+   "Isaias": 4,
+   "Jeremias": 7,
+   "Baruch": 2,
+   "Epistula Jeremiae": 1,
+   "Susanna": 1,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "16.16",
+    "form": "συνέταξε",
+    "postag": "v3saia---",
+    "sentence": "τοῦτο τὸ ρῆμα ὃ συνέταξε Κύριος ·"
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "3.16",
+    "form": "συνέταξεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἐπεσκέψαντο αὐτοὺς Μωυσῆς καὶ Ἀαρὼν διὰ φωνῆς Κυρίου, ὃν τρόπον συνέταξεν αὐτοῖς Κύριος."
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "8.31",
+    "form": "συντέτακταί",
+    "postag": "v3srim---",
+    "sentence": "ἑψήσατε τὰ κρέα ἐν τῇ αὐλῇ τῆς σκηνῆς τοῦ μαρτυρίου ἐν τόπῳ ἁγίῳ καὶ ἐκεῖ φάγεσθε αὐτὰ καὶ τοὺς ἄρτους τοὺς ἐν τῷ κανῷ τῆς τελειώσεως, ὃν τρόπον συντέτακταί μοι, λέγων ·"
+   },
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "4.3",
+    "form": "σύνταξον",
+    "postag": "v2sama---",
+    "sentence": "παραλαβὼν ἄνδρας ἀπὸ τοῦ λαοῦ, ἕνα ἀφ’ ἑκάστης φυλῆς, σύνταξον αὐτοῖς λέγων ·"
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "39.13",
+    "form": "συνέταξα",
+    "postag": "v1saia---",
+    "sentence": "καὶ συνέταξα τῷ Βαροὺχ κατ’ ὀφθαλμοὺς αὐτῶν λέγων ·"
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "10.9",
+    "form": "συνέταξαν",
+    "postag": "v3paia---",
+    "sentence": "καὶ συνέταξαν τοῖς νεανίσκοις ἀνοῖξαι αὐτῇ καθότι ἐλάλησε."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "38.12",
+    "form": "συντέταχα",
+    "postag": "v1sria---",
+    "sentence": "ἦ ἐπὶ σοῦ συντέταχα φέγγος πρωϊνόν;"
+   },
+   {
+    "work_code": "1ES",
+    "work_ja": "エズラ記（ギリシャ語）",
+    "work_src": "Esdras i",
+    "ref": "6.4",
+    "form": "συντάξαντος",
+    "postag": "v-sapamg-",
+    "sentence": "τίνος ὑμῖν συντάξαντος τὸν οἶκον τοῦτον οἰκοδομεῖτε, καὶ τὴν στέγην ταύτην καὶ τὰ ἄλλα πάντα ἐπιτελεῖτε;"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "13.3",
+    "form": "συντάσσω",
+    "postag": "v1spia---",
+    "sentence": "ἐγὼ συντάσσω καὶ ἐγὼ ἄγω αὐτούς ·"
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "18.19",
+    "form": "συντάξει",
+    "postag": "v3sfia---",
+    "sentence": "ᾔδειν γὰρ ὅτι συντάξει τοῖς υἱοῖς αὐτοῦ καὶ τῷ οἴκῳ αὐτοῦ μετ’ αὐτόν, καὶ φυλάξουσι τὰς ὁδοὺς Κυρίου ποιεῖν δικαιοσύνην καὶ κρίσιν ·"
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "4.23",
+    "form": "συνέταξέ",
+    "postag": "v3saia---",
+    "sentence": "προσέχετε ὑμεῖς, μὴ ἐπιλάθησθε τὴν διαθήκην Κυρίου τοῦ Θεοῦ ἡμῶν, ἣν διέθετο πρὸς ὑμᾶς, καὶ ἀνομήσητε, καὶ ποιήσητε ὑμῖν ἑαυτοῖς γλυπτὸν ὁμοίωμα πάντων, ὧν συνέταξέ σοι Κύριος ὁ Θεός σου ·"
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルク書",
+    "work_src": "Baruch",
+    "ref": "5.7",
+    "form": "συνέταξε",
+    "postag": "v3saia---",
+    "sentence": "συνέταξε γὰρ ὁ Θεὸς ταπεινοῦσθαι πᾶν ὄρος ὑψηλὸν καὶ θῖνας ἀεννάους καὶ φάραγγας πληροῦσθαι εἰς ὁμαλισμὸν τῆς γῆς, ἵνα βαδίσῃ Ἰσραὴλ ἀσφαλῶς τῇ τοῦ Θεοῦ δόξῃ ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "3 συν-τάσσω     [in LXX chiefly for צוה pi. ;]     to prescribe, ordain, arrange: c. dat. pers, Mt 21:6 26:19 27:10 (LXX).†"
+}

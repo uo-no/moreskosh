@@ -1,0 +1,166 @@
+{
+ "strong": "G136",
+ "lemma": "αἶνος",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 18:43",
+   "form": "αἶνον",
+   "morph": "N-ASM",
+   "gloss_en": "praise",
+   "gloss_ja": "賛美",
+   "verse": "καὶ παραχρῆμα ἀνέβλεψεν, καὶ ἠκολούθει αὐτῷ δοξάζων τὸν θεόν. καὶ πᾶς ὁ λαὸς ἰδὼν ἔδωκεν αἶνον τῷ θεῷ."
+  },
+  {
+   "ref": "MAT 21:16",
+   "form": "αἶνον",
+   "morph": "N-ASM",
+   "gloss_en": "praise",
+   "gloss_ja": "賛美",
+   "verse": "καὶ εἶπαν αὐτῷ· Ἀκούεις τί οὗτοι λέγουσιν; ὁ δὲ Ἰησοῦς λέγει αὐτοῖς· Ναί. οὐδέποτε ἀνέγνωτε ὅτι Ἐκ στόματος νηπίων καὶ θηλαζόντων κατηρτίσω αἶνον;"
+  }
+ ],
+ "lxx": {
+  "total": 11,
+  "works": {
+   "Regnorum iii": 1,
+   "Paralipomenon ii sive Chronicon ii": 1,
+   "Esdras ii": 1,
+   "Machabaeorum iii": 1,
+   "Psalmi": 4,
+   "Sapientia Salomonis": 1,
+   "Ecclesiasticus sive Siracides": 2
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "8.3",
+    "form": "αἶνον",
+    "postag": "n-s---ma-",
+    "sentence": "ἐκ στόματος νηπίων καὶ θηλαζόντων κατηρτίσω αἶνον ἕνεκα τῶν ἐχθρῶν σου τοῦ καταλῦσαι ἐχθρὸν καὶ ἐκδικητήν."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "15.10",
+    "form": "αἶνος",
+    "postag": "n-s---mn-",
+    "sentence": "ἐν γὰρ σοφίᾳ ρηθήσεται αἶνος, καὶ ὁ Κύριος εὐοδώσει αὐτόν."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "5.11",
+    "form": "Αἰνὰν",
+    "postag": "n-s---ma-",
+    "sentence": "καὶ ἐπληθύνθη Σαλωμὼν σφόδρα ὑπὲρ τὴν φρόνησιν πάντων ἀρχαίων ἀνθρώπων καὶ ὑπὲρ πάντας φρονίμους Αἰγύπτου καὶ ἐσοφίσατο ὑπὲρ πάντας τοὺς ἀνθρώπους καὶ ἐσοφίσατο ὑπὲρ Γαιθὰν τὸν Ζαρείτην καὶ τὸν Αἰνὰν καὶ τὸν Χαλκὰλ καὶ Δαρδὰ υἱοὺς Μάλ."
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "23.13",
+    "form": "αἶνον",
+    "postag": "n-s---ma-",
+    "sentence": "καὶ εἶδε καὶ ἰδοὺ ὁ βασιλεὺς ἐπὶ τῆς στάσεως αὐτοῦ, καὶ ἐπὶ τῆς εἰσόδου οἱ ἄρχοντες καὶ αἱ σάλπιγγες καὶ οἱ ἄρχοντες περὶ τὸν βασιλέα, καὶ πᾶς ὁ λαὸς τῆς γῆς ηὐφράνθη καὶ ἐσάλπισαν ταῖς σάλπιγξι καὶ οἱ ᾄδοντες ἐν τοῖς ὀργάνοις ᾠδοὶ καί ὑμνοῦντες αἶνον ·"
+   },
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "3.11",
+    "form": "αἴνῳ",
+    "postag": "n-s---md-",
+    "sentence": "καὶ ἀπεκρίθησαν ἐν αἴνῳ καὶ ἀνθομολογήσει τῷ Κυρίῳ, ὅτι ἀγαθόν, ὅτι εἰς τὸν αἰῶνα τὸ ἔλεος αὐτοῦ ἐπὶ Ἰσραήλ."
+   },
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "7.16",
+    "form": "αἴνοις",
+    "postag": "n-p---md-",
+    "sentence": "αὐτοὶ δὲ οἱ μέχρι θανάτου τὸν Θεὸν ἐσχηκότες, παντελῆ σωτηρίας ἀπόλαυσιν εἰληφότες, ἀνέζευξαν ἐκ τῆς πόλεως παντοίοις εὐωδεστάτοις ἄνθεσι κατεστεμμένοι μετ’ εὐφροσύνης καὶ βοῆς, ἐν αἴνοις καὶ παμμελέσιν ὕμνοις εὐχαριστοῦντες τῷ Θεῷ τῶν πατέρων αὐτῶν αἰωνίῳ σωτῆρι τοῦ Ἰσραήλ."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "18.9",
+    "form": "αἴνους",
+    "postag": "n-p---ma-",
+    "sentence": "κρυφῆ γὰρ ἐθυσίαζον ὅσιοι παῖδες ἀγαθῶν καὶ τὸν τῆς θειότητος νόμον ἐν ὁμονοίᾳ διέθεντο τῶν αὐτῶν ὁμοίως καὶ ἀγαθῶν καὶ κινδύνων μεταλήψεσθαι τοὺς ἁγίους, πατέρων ἤδη προαναμέλποντες αἴνους."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "90.1",
+    "form": "αἶνος",
+    "postag": "n-s---mn-",
+    "sentence": "αἶνος ᾠδῆς τῷ Δαυΐδ."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "15.9",
+    "form": "αἶνος",
+    "postag": "n-s---mn-",
+    "sentence": "οὐχ ὡραῖος αἶνος ἐν στόματι ἁμαρτωλοῦ, ὅτι οὐ παρὰ Κυρίου ἀπεστάλη ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "92.1",
+    "form": "αἶνος",
+    "postag": "n-s---mn-",
+    "sentence": "αἶνος ᾠδῆς τῷ Δαυΐδ."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "94.1",
+    "form": "αἶνος",
+    "postag": "n-s---mn-",
+    "sentence": "αἶνος ᾠδῆς τῷ Δαυΐδ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "2 Clement": 2
+  },
+  "representatives": [
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "1.5",
+    "form": "αἶνον",
+    "postag": "n-s---ma-",
+    "sentence": "ποῖον οὖν αἶνον αὐτῷ δώσομεν ἡ μισθὸν ἀντιμισθίας ὦν ἐλάβομεν;"
+   },
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "9.10",
+    "form": "αἶνον",
+    "postag": "n-s---ma-",
+    "sentence": "δῶμεν οὖν αὐτῷ αἶνον, μὴ ἀπὸ στόματος μόνον, ἀλλὰ καὶ ἀπὸ καρδίας, ἵνα ἡμᾶς προσδέξηται ὡς υἱούς."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2  αἶνος, ου, ὁ,    [in LXX for הלל pi, עֹז;]   poët, and Ion.,       = μῦθος, a tale (Horn., al.).    = Att. ἔπαινος, praise (Horn., al.): Mt 21:16 (LXX), Lk 18:43.    In π., a decree (MM, VGT, s.v.).†"
+}

@@ -1,0 +1,167 @@
+{
+ "strong": "G1457",
+ "lemma": "ἐγκαινίζω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "HEB 10:20",
+   "form": "ἐνεκαίνισεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "opened",
+   "gloss_ja": "奉献する",
+   "verse": "ἣν ἐνεκαίνισεν ἡμῖν ὁδὸν πρόσφατον καὶ ζῶσαν διὰ τοῦ καταπετάσματος, τοῦτ’ ἔστιν τῆς σαρκὸς αὐτοῦ,"
+  },
+  {
+   "ref": "HEB 9:18",
+   "form": "ἐγκεκαίνισται",
+   "morph": "V-RPI-3S",
+   "gloss_en": "inaugurated",
+   "gloss_ja": "奉献する",
+   "verse": "ὅθεν οὐδὲ ἡ πρώτη χωρὶς αἵματος ἐγκεκαίνισται·"
+  }
+ ],
+ "lxx": {
+  "total": 15,
+  "works": {
+   "Deuteronomium": 2,
+   "Regnorum i": 1,
+   "Regnorum iii": 1,
+   "Paralipomenon ii sive Chronicon ii": 2,
+   "Machabaeorum i": 4,
+   "Psalmi": 1,
+   "Ecclesiasticus sive Siracides": 1,
+   "Isaias": 3
+  },
+  "representatives": [
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "4.36",
+    "form": "ἐγκαινίσαι",
+    "postag": "v--ana---",
+    "sentence": "ἰδοὺ συνετρίβησαν οἱ ἐχθροὶ ἡμῶν, ἀναβῶμεν καθαρίσαι τὰ ἅγια καὶ ἐγκαινίσαι."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "41.1",
+    "form": "ἐγκαινίζεσθε",
+    "postag": "v2ppmm---",
+    "sentence": "ἐγκαινίζεσθε πρός με, νῆσοι, οἱ γὰρ ἄρχοντες ἀλλάξουσιν ἰσχύν ·"
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "20.5",
+    "form": "ἐνεκαίνισεν",
+    "postag": "v3saia---",
+    "sentence": "τίς ὁ ἄνθρωπος ὁ οἰκοδομήσας οἰκίαν καινὴν καὶ οὐκ ἐνεκαίνισεν αὐτήν;"
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "7.5",
+    "form": "ἐνεκαίνισε",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἐθυσίασεν ὁ βασιλεὺς Σαλωμὼν τὴν θυσίαν μόσχων εἴκοσι καὶ δύο χιλιάδας καὶ βοσκημάτων ἑκατὸν καὶ εἴκοσι χιλιάδας, καὶ ἐνεκαίνισε τὸν οἶκον τοῦ Θεοῦ ὁ βασιλεὺς καὶ πᾶς ὁ λαός."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "11.14",
+    "form": "ἐγκαινίσωμεν",
+    "postag": "v1pasa---",
+    "sentence": "πορευθῶμεν εἰς Γάλγαλα, καὶ ἐγκαινίσωμεν ἐκεῖ τὴν βασιλείαν."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "8.63",
+    "form": "ἐνεκαίνισε",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἐνεκαίνισε τὸν οἶκον Κυρίου ὁ βασιλεὺς καὶ πάντες οἱ υἱοὶ Ἰσραήλ."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "50.12",
+    "form": "ἐγκαίνισον",
+    "postag": "v2sama---",
+    "sentence": "καρδίαν καθαρὰν κτίσον ἐν ἐμοί, ὁ Θεός, καὶ πνεῦμα εὐθὲς ἐγκαίνισον ἐν τοῖς ἐγκάτοις μου."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "36.5",
+    "form": "ἐγκαίνισον",
+    "postag": "v2sama---",
+    "sentence": "ἐγκαίνισον σημεῖα καὶ ἀλλοίωσον θαυμάσια, δόξασον χεῖρα καὶ βραχίονα δεξιόν ·"
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "4.57",
+    "form": "ἐνεκαίνισαν",
+    "postag": "v3paia---",
+    "sentence": "καὶ κατεκόσμησαν τὸ κατὰ πρόσωπον τοῦ ναοῦ στεφάνοις χρυσοῖς καὶ ἀσπιδίσκαις καὶ ἐνεκαίνισαν τὰς πύλας καὶ τὰ παστοφόρια καὶ ἐθύρωσαν αὐτά."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "16.11",
+    "form": "ἐνεκαίνισας",
+    "postag": "v2saia---",
+    "sentence": "διὰ τοῦτο ἡ κοιλία μου ἐπὶ Μωὰβ ὡς κιθάρα ἠχήσει, καὶ τὰ ἐντός μου ὡσεὶ τεῖχος, ὃ ἐνεκαίνισας."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "20.5",
+    "form": "ἐγκαινιεῖ",
+    "postag": "v3sfia---",
+    "sentence": "πορευέσθω καὶ ἀποστραφήτω εἰς τὴν οἰκίαν αὐτοῦ, μὴ ἀποθάνῃ ἐν τῷ πολέμῳ καὶ ἄνθρωπος ἕτερος ἐγκαινιεῖ αὐτήν."
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "15.8",
+    "form": "ἐνεκαίνισε",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἐν τῷ ἀκοῦσαι τοὺς λόγους τούτους καὶ τὴν προφητείαν Ἀδὰδ τοῦ προφήτου καὶ κατίσχυσε καὶ ἐξέβαλε τὰ βδελύγματα ἀπὸ πάσης τῆς γῆς Ἰούδα καὶ Βενιαμὶν καὶ ἀπὸ τῶν πόλεων, ὧν κατέσχεν Ἱεροβοὰμ ἐν ὄρει Ἐφραίμ, καὶ ἐνεκαίνισε τὸ θυσιαστήριον Κυρίου, ὃ ἦν ἔμπροσθεν τοῦ ναοῦ Κυρίου."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "1 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "18.10",
+    "form": "ἐγκαίνισον",
+    "postag": "v2sama---",
+    "sentence": "καρδίαν καθαρὰν κτίσον ἐν ἐμοί, ὁ θεός, καὶ πνεῦμα εὐθὲς ἐγκαίνισον ἐν τοῖς ἐγκάτοις μου."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2     ἐγκαινίζω, v.s. ἐνκ-."
+}

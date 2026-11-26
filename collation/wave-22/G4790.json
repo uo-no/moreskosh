@@ -1,0 +1,57 @@
+{
+ "strong": "G4790",
+ "lemma": "συγκοινωνέω",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "EPH 5:11",
+   "form": "συγκοινωνεῖτε",
+   "morph": "V-PAM-2P",
+   "gloss_en": "participate",
+   "gloss_ja": "共に与かる",
+   "verse": "καὶ μὴ συγκοινωνεῖτε τοῖς ἔργοις τοῖς ἀκάρποις τοῦ σκότους, μᾶλλον δὲ καὶ ἐλέγχετε,"
+  },
+  {
+   "ref": "PHP 4:14",
+   "form": "συγκοινωνήσαντές",
+   "morph": "V-AAP-NPM",
+   "gloss_en": "share",
+   "gloss_ja": "共に与かる",
+   "verse": "πλὴν καλῶς ἐποιήσατε συγκοινωνήσαντές μου τῇ θλίψει."
+  },
+  {
+   "ref": "REV 18:4",
+   "form": "συγκοινωνήσητε",
+   "morph": "V-AAS-2P",
+   "gloss_en": "share in",
+   "gloss_ja": "共に与かる",
+   "verse": "Καὶ ἤκουσα ἄλλην φωνὴν ἐκ τοῦ οὐρανοῦ λέγουσαν· Ἐξέλθατε, ὁ λαός μου, ἐξ αὐτῆς, ἵνα μὴ συγκοινωνήσητε ταῖς ἁμαρτίαις αὐτῆς, καὶ ἐκ τῶν πληγῶν αὐτῆς ἵνα μὴ λάβητε·"
+  }
+ ],
+ "lxx": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Didache": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DID",
+    "work_ja": "ディダケー",
+    "work_src": "Didache",
+    "ref": "4.8",
+    "form": "συγκοινωνήσεις",
+    "postag": "v2sfia---",
+    "sentence": "οὐκ ἀποστραφήσῃ τὸν ἐνδεόμενον, συγκοινωνήσεις δὲ πάντα τῷ ἀδελφῷ σοῦ καὶ οὐκ ἐρεῖς ἴδια εἶναι ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3 * συν-κοινωνέω (Rec. συγκ-), -ῶ,    to have fellowship with or in (in cl., c. gen. rei, dat. pers.): c. dat. rei, Eph 5:11, Re 18:4; id. c. gen. pers., Phl 4:14.†"
+}

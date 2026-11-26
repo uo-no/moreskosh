@@ -1,0 +1,81 @@
+{
+ "strong": "G1412",
+ "lemma": "δυναμόω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "COL 1:11",
+   "form": "δυναμούμενοι",
+   "morph": "V-PPP-NPM",
+   "gloss_en": "strengthened",
+   "gloss_ja": "強くする",
+   "verse": "ἐν πάσῃ δυνάμει δυναμούμενοι κατὰ τὸ κράτος τῆς δόξης αὐτοῦ εἰς πᾶσαν ὑπομονὴν καὶ μακροθυμίαν μετὰ χαρᾶς,"
+  },
+  {
+   "ref": "HEB 11:34",
+   "form": "ἐδυναμώθησαν",
+   "morph": "V-API-3P",
+   "gloss_en": "made strong",
+   "gloss_ja": "強くする",
+   "verse": "ἔσβεσαν δύναμιν πυρός, ἔφυγον στόματα μαχαίρης, ἐδυναμώθησαν ἀπὸ ἀσθενείας, ἐγενήθησαν ἰσχυροὶ ἐν πολέμῳ, παρεμβολὰς ἔκλιναν ἀλλοτρίων·"
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Psalmi": 1,
+   "Ecclesiastes": 1,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "67.29",
+    "form": "δυνάμωσον",
+    "postag": "v2sama---",
+    "sentence": "ἔντειλαι, ὁ Θεός, τῇ δυνάμει σου, δυνάμωσον, ὁ Θεός, τοῦτο, ὃ κατειργάσω ἐν ἡμῖν."
+   },
+   {
+    "work_code": "ECC",
+    "work_ja": "コヘレトの言葉",
+    "work_src": "Ecclesiastes",
+    "ref": "10.10",
+    "form": "δυναμώσει",
+    "postag": "v3sfia---",
+    "sentence": "ἐὰν ἐκπέσῃ τὸ σιδήριον, καὶ αὐτὸς πρόσωπον ἐτάραξε, καὶ δυνάμεις δυναμώσει, καὶ περισσεία τοῦ ἀνδρείου σοφία."
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "9.27",
+    "form": "δυναμώσει",
+    "postag": "v3sfia---",
+    "sentence": "καὶ δυναμώσει διαθήκην πολλοῖς, ἑβδομὰς μία ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "22.5.2",
+    "form": "δυναμώσας",
+    "postag": "v-sapamn-",
+    "sentence": "ὁ δὲ κύριος τοῦ ἀγροῦ ὁ κτίσας τὰ πάντα καὶ ἀπαρτίσας αὐτὰ καὶ δυναμώσας ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   † δυναμόω, -ῶ    (< δύναμις),    [in LXX for עזז, Ps 51 (52):7 67 (68):28; גּבר pi., hi., Ec 10:10, Da TH 9:27 * ;]     to make strong, strengthen: Eph 6:10 (WH, mg.; ἐνδυν-, WH, txt., RV), Col 1:11, He 11:34.†"
+}

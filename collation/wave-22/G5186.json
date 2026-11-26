@@ -1,0 +1,67 @@
+{
+ "strong": "G5186",
+ "lemma": "τυφλόω",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1JN 2:11",
+   "form": "ἐτύφλωσεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "blinded",
+   "gloss_ja": "盲目にする",
+   "verse": "ὁ δὲ μισῶν τὸν ἀδελφὸν αὐτοῦ ἐν τῇ σκοτίᾳ ἐστὶν καὶ ἐν τῇ σκοτίᾳ περιπατεῖ, καὶ οὐκ οἶδεν ποῦ ὑπάγει, ὅτι ἡ σκοτία ἐτύφλωσεν τοὺς ὀφθαλμοὺς αὐτοῦ."
+  },
+  {
+   "ref": "2CO 4:4",
+   "form": "ἐτύφλωσεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "blinded",
+   "gloss_ja": "盲目にする",
+   "verse": "ἐν οἷς ὁ θεὸς τοῦ αἰῶνος τούτου ἐτύφλωσεν τὰ νοήματα τῶν ἀπίστων εἰς τὸ μὴ αὐγάσαι τὸν φωτισμὸν τοῦ εὐαγγελίου τῆς δόξης τοῦ Χριστοῦ, ὅς ἐστιν εἰκὼν τοῦ θεοῦ."
+  },
+  {
+   "ref": "JHN 12:40",
+   "form": "Τετύφλωκεν",
+   "morph": "V-RAI-3S",
+   "gloss_en": "blinded",
+   "gloss_ja": "盲目にする",
+   "verse": "Τετύφλωκεν αὐτῶν τοὺς ὀφθαλμοὺς καὶ ἐπώρωσεν αὐτῶν τὴν καρδίαν, ἵνα μὴ ἴδωσιν τοῖς ὀφθαλμοῖς καὶ νοήσωσιν τῇ καρδίᾳ καὶ στραφῶσιν, καὶ ἰάσομαι αὐτούς."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Tobias": 1,
+   "Isaias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "7.6",
+    "form": "ἐτυφλώθη",
+    "postag": "v3saip---",
+    "sentence": "ὦ ταλαιπώρων κακῶν, ὅτι ἐτυφλώθη ἀνὴρ δίκαιος καὶ ποιῶν ἐλεημοσύνας."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "42.19",
+    "form": "ἐτυφλώθησαν",
+    "postag": "v3paip---",
+    "sentence": "καὶ ἐτυφλώθησαν οἱ δοῦλοι τοῦ Θεοῦ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "3 τυφλόω, -ῶ    (< τυφλός),    [in LXX: Is 42:19 (עִוֵּר), To 7:7 א, Wi 2:21 א * ;]     to blind, make blind: metaph., Jo 12:40 (LXX, καμμύω), II Co 4:4, I Jn 2:11.†"
+}

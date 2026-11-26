@@ -1,0 +1,191 @@
+{
+ "strong": "G4718",
+ "lemma": "σταφυλή",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 6:44",
+   "form": "σταφυλὴν",
+   "morph": "N-ASF",
+   "gloss_en": "grapes",
+   "gloss_ja": "ぶどうの房",
+   "verse": "ἕκαστον γὰρ δένδρον ἐκ τοῦ ἰδίου καρποῦ γινώσκεται· οὐ γὰρ ἐξ ἀκανθῶν συλλέγουσιν σῦκα, οὐδὲ ἐκ βάτου σταφυλὴν τρυγῶσιν."
+  },
+  {
+   "ref": "MAT 7:16",
+   "form": "σταφυλὰς",
+   "morph": "N-APF",
+   "gloss_en": "grapes",
+   "gloss_ja": "ぶどうの房",
+   "verse": "ἀπὸ τῶν καρπῶν αὐτῶν ἐπιγνώσεσθε αὐτούς. μήτι συλλέγουσιν ἀπὸ ἀκανθῶν σταφυλὰς ἢ ἀπὸ τριβόλων σῦκα;"
+  },
+  {
+   "ref": "REV 14:18",
+   "form": "σταφυλαὶ",
+   "morph": "N-NPF",
+   "gloss_en": "grapes",
+   "gloss_ja": "ぶどうの房",
+   "verse": "καὶ ἄλλος ἄγγελος ἐκ τοῦ θυσιαστηρίου, ὁ ἔχων ἐξουσίαν ἐπὶ τοῦ πυρός, καὶ ἐφώνησεν φωνῇ μεγάλῃ τῷ ἔχοντι τὸ δρέπανον τὸ ὀξὺ λέγων· Πέμψον σου τὸ δρέπανον τὸ ὀξὺ καὶ τρύγησον τοὺς βότρυας τῆς ἀμπέλου τῆς γῆς, ὅτι ἤκμασαν αἱ σταφυλαὶ αὐτῆς."
+  }
+ ],
+ "lxx": {
+  "total": 31,
+  "works": {
+   "Genesis": 3,
+   "Leviticus": 1,
+   "Numeri": 4,
+   "Deuteronomium": 4,
+   "Regnorum iii": 3,
+   "Esdras ii": 1,
+   "Machabaeorum i": 1,
+   "Odae": 5,
+   "Ecclesiasticus sive Siracides": 3,
+   "Osee": 1,
+   "Amos": 1,
+   "Isaias": 2,
+   "Jeremias": 1,
+   "Ezechiel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "ODE",
+    "work_ja": "頌歌（オード）",
+    "work_src": "Odae",
+    "ref": "5.2",
+    "form": "σταφυλήν",
+    "postag": "n-s---fa-",
+    "sentence": "καὶ ἔμεινα τοῦ ποιῆσαι σταφυλήν, ἐποίησεν δὲ ἀκάνθας."
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "13.21",
+    "form": "σταφυλῆς",
+    "postag": "n-s---fg-",
+    "sentence": "καὶ αἱ ἡμέραι ἡμέραι ἔαρος, πρόδρομοι σταφυλῆς."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "32.32",
+    "form": "σταφυλὴ",
+    "postag": "n-s---fn-",
+    "sentence": "ἡ σταφυλὴ αὐτῶν σταφυλὴ χολῆς, βότρυς πικρίας αὐτοῖς ·"
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "40.11",
+    "form": "σταφυλὴν",
+    "postag": "n-s---fa-",
+    "sentence": "καὶ ἔλαβον τὴν σταφυλὴν καὶ ἐξέθλιψα αὐτὴν εἰς τὸ ποτήριον καὶ ἔδωκα τὸ ποτήριον εἰς τὴν χεῖρα Φαραώ."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "12.24λ",
+    "form": "σταφυλὴν",
+    "postag": "n-s---fa-",
+    "sentence": "ἱνατί ἐνήνοχάς μοι ἄρτους καὶ σταφυλὴν καὶ κολλύρια καὶ στάμνον μέλιτος;"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "51.15",
+    "form": "σταφυλῆς",
+    "postag": "n-s---fg-",
+    "sentence": "ἐξ ἄνθους ὡς περκαζούσης σταφυλῆς εὐφράνθη ἡ καρδία μου ἐν αὐτῇ."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "5.2",
+    "form": "σταφυλήν",
+    "postag": "n-s---fa-",
+    "sentence": "καὶ ἔμεινα τοῦ ποιῆσαι σταφυλήν, ἐποίησε δὲ ἀκάνθας."
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "25.5",
+    "form": "σταφυλὴν",
+    "postag": "n-s---fa-",
+    "sentence": "τὸν ἀγρόν σου οὐ σπερεῖς καὶ τὴν ἄμπελόν σου οὐ τεμεῖς, καὶ τὰ αὐτόματα ἀναβαίνοντα τοῦ ἀγροῦ σου οὐκ ἐκθερίσεις καὶ τὴν σταφυλὴν τοῦ ἁγιάσματός σου οὐκ ἐκτρυγήσεις ·"
+   },
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "23.15",
+    "form": "σταφυλὴν",
+    "postag": "n-s---fa-",
+    "sentence": "ἐν ταῖς ἡμέραις ἐκείναις εἶδον ἐν Ἰούδᾳ πατοῦντας ληνοὺς ἐν τῷ σαββάτῳ καὶ φέροντας δράγματα καὶ ἐπιγεμίζοντας ἐπὶ τοὺς ὄνους καὶ οἶνον καὶ σταφυλὴν καὶ σῦκα καὶ πᾶν βάσταγμα καὶ φέροντας εἰς Ἱερουσαλὴμ ἐν ἡμέρᾳ τοῦ σαββάτου ·"
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "6.34",
+    "form": "σταφυλῆς",
+    "postag": "n-s---fg-",
+    "sentence": "καὶ τοῖς ἐλέφασιν ἔδειξαν αἷμα σταφυλῆς καὶ μόρων τοῦ παραστῆσαι αὐτοὺς εἰς τὸν πόλεμον."
+   },
+   {
+    "work_code": "HOS",
+    "work_ja": "ホセア書",
+    "work_src": "Osee",
+    "ref": "9.10",
+    "form": "σταφυλὴν",
+    "postag": "n-s---fa-",
+    "sentence": "— ὡς σταφυλὴν ἐν ἐρήμῳ εὗρον τὸν Ἰσραὴλ καὶ ὡς σκοπὸν ἐν συκῇ πρώϊμον πατέρας αὐτῶν εἶδον ·"
+   },
+   {
+    "work_code": "AMO",
+    "work_ja": "アモス書",
+    "work_src": "Amos",
+    "ref": "9.13",
+    "form": "σταφυλὴ",
+    "postag": "n-s---fn-",
+    "sentence": "ἰδοὺ ἡμέραι ἔρχονται, λέγει Κύριος, καὶ καταλήψεται ὁ ἀμητὸς τὸν τρυγητόν, καὶ περκάσει ἡ σταφυλὴ ἐν τῷ σπόρῳ, καὶ ἀποσταλάξει τὰ ὄρη γλυκασμόν, καὶ πάντες οἱ βουνοὶ σύμφυτοι ἔσονται ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "1 Clement": 1,
+   "2 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "23.4",
+    "form": "σταφυλὴ",
+    "postag": "n-s---fn-",
+    "sentence": "πρῶτον μὲν φυλλοροεῖ, εἶτα βλαστὸς γίνεται, εἶτα φύλλον, εἶτα ἄνθος, καὶ μετὰ ταῦτα ὄμφαξ, εἶτα σταφυλὴ παρεστηκυῖα."
+   },
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "11.3",
+    "form": "σταφυλὴ",
+    "postag": "n-s---fn-",
+    "sentence": "πρῶτον μὲν φυλλοροεῖ, εἶτα βλαστὸς γίνεται, μετὰ ταῦτα ὄμφαξ, εἶτα σταφυλὴ παρεστηκυῖα."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3 σταφυλή, -ῆς, ἡ     [in LXX for עֵנָב ;]     a bunch of grapes: Mt 7:16, Lk 6:44, Re 14:18. \"σ. is properly the ripe grape-cluster as opp. to ὄμφαξ, cf. Ge 40:10, Jb 15:33; as contrasted with βότρυς, it describes the grapes rather than the cluster on which they grow\" (Swete, Apoc., 187 f.).†"
+}

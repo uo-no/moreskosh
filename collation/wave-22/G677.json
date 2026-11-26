@@ -1,0 +1,78 @@
+{
+ "strong": "G677",
+ "lemma": "ἀπρόσκοπος",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 10:32",
+   "form": "ἀπρόσκοποι",
+   "morph": "A-NPM",
+   "gloss_en": "no offense",
+   "gloss_ja": "つまずきのない",
+   "verse": "ἀπρόσκοποι καὶ Ἰουδαίοις γίνεσθε καὶ Ἕλλησιν καὶ τῇ ἐκκλησίᾳ τοῦ θεοῦ,"
+  },
+  {
+   "ref": "ACT 24:16",
+   "form": "ἀπρόσκοπον",
+   "morph": "A-ASF",
+   "gloss_en": "clear",
+   "gloss_ja": "つまずきのない",
+   "verse": "ἐν τούτῳ καὶ αὐτὸς ἀσκῶ ἀπρόσκοπον συνείδησιν ἔχειν πρὸς τὸν θεὸν καὶ τοὺς ἀνθρώπους διὰ παντός."
+  },
+  {
+   "ref": "PHP 1:10",
+   "form": "ἀπρόσκοποι",
+   "morph": "A-NPM",
+   "gloss_en": "blameless",
+   "gloss_ja": "つまずきのない",
+   "verse": "εἰς τὸ δοκιμάζειν ὑμᾶς τὰ διαφέροντα, ἵνα ἦτε εἰλικρινεῖς καὶ ἀπρόσκοποι εἰς ἡμέραν Χριστοῦ,"
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Ecclesiasticus sive Siracides": 1
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "32.21",
+    "form": "ἀπροσκόπῳ",
+    "postag": "a-s---fd-",
+    "sentence": "μὴ πιστεύσῃς ἐν ὁδῷ ἀπροσκόπῳ, καὶ ἀπὸ τῶν τέκνων σου φύλαξαι."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "1 Clement": 2
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "61.1",
+    "form": "ἀπροσκόπως",
+    "postag": "d--------",
+    "sentence": "εἰς τὸ διέπειν αὐτοὺς τὴν ὑπὸ σοῦ δεδομένην αὐτοῖς ἡγεμονίαν ἀπροσκόπως."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "20.10",
+    "form": "ἀπροσκόπως",
+    "postag": "d--------",
+    "sentence": "ἀνέμων σταθμοὶ κατὰ τὸν ἴδιον καιρὸν τὴν λειτουργίαν αὐτῶν ἀπροσκόπως ἐπιτελοῦσιν ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3   **† ἀπρόσκοπος, -ον    (< προσκόπτω),   [in LXX: Si 35 (32):21, III Mac 3:8*;]      act., not causing to stumble: metaph., of not leading others into sin, I Co 10:32.     Pass., not stumbling, without offence, blameless: Ac 24:16, Phl 1:10 (for exx., v. MM, s.v.).†"
+}

@@ -1,0 +1,96 @@
+{
+ "strong": "G5420",
+ "lemma": "φράσσω",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2CO 11:10",
+   "form": "φραγήσεται",
+   "morph": "V-2FPI-3S",
+   "gloss_en": "stopped",
+   "gloss_ja": "ふさぐ",
+   "verse": "ἔστιν ἀλήθεια Χριστοῦ ἐν ἐμοὶ ὅτι ἡ καύχησις αὕτη οὐ φραγήσεται εἰς ἐμὲ ἐν τοῖς κλίμασι τῆς Ἀχαΐας."
+  },
+  {
+   "ref": "HEB 11:33",
+   "form": "ἔφραξαν",
+   "morph": "V-AAI-3P",
+   "gloss_en": "shut",
+   "gloss_ja": "ふさぐ",
+   "verse": "οἳ διὰ πίστεως κατηγωνίσαντο βασιλείας, εἰργάσαντο δικαιοσύνην, ἐπέτυχον ἐπαγγελιῶν, ἔφραξαν στόματα λεόντων,"
+  },
+  {
+   "ref": "ROM 3:19",
+   "form": "φραγῇ",
+   "morph": "V-2APS-3S",
+   "gloss_en": "silenced",
+   "gloss_ja": "ふさぐ",
+   "verse": "Οἴδαμεν δὲ ὅτι ὅσα ὁ νόμος λέγει τοῖς ἐν τῷ νόμῳ λαλεῖ, ἵνα πᾶν στόμα φραγῇ καὶ ὑπόδικος γένηται πᾶς ὁ κόσμος τῷ θεῷ·"
+  }
+ ],
+ "lxx": {
+  "total": 5,
+  "works": {
+   "Proverbia": 2,
+   "Canticum": 1,
+   "Job": 1,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "21.13",
+    "form": "φράσσει",
+    "postag": "v3sfia---",
+    "sentence": "ὃς φράσσει τὰ ὧτα αὐτοῦ τοῦ μὴ ἐπακοῦσαι ἀσθενοῦς, καὶ αὐτὸς ἐπικαλέσεται, καὶ οὐκ ἔσται ὁ εἰσακούων."
+   },
+   {
+    "work_code": "SNG",
+    "work_ja": "雅歌",
+    "work_src": "Canticum",
+    "ref": "7.3",
+    "form": "πεφραγμένη",
+    "postag": "v-srpmfn-",
+    "sentence": "κοιλία σου θημωνία σίτου πεφραγμένη ἐν κρίνοις ·"
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "38.8",
+    "form": "ἔφραξα",
+    "postag": "v1saia---",
+    "sentence": "ἔφραξα δὲ θάλασσαν πύλαις, ὅτε ἐμαιοῦτο ἐκ κοιλίας μητρὸς αὐτῆς ἐκπορευομένη."
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "8.26",
+    "form": "πεφραγμένον",
+    "postag": "v-srpmnn-",
+    "sentence": "καὶ νῦν πεφραγμένον τὸ ὅραμα, ἔτι γὰρ εἰς ἡμέρας πολλάς."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "25.26",
+    "form": "φράσσοι",
+    "postag": "v3spoa---",
+    "sentence": "ὥσπερ εἴ τις πηγὴ φράσσοι καὶ ὕδατος ἔξοδον λυμαίνοιτο, οὕτως ἄκοσμον δίκαιον πεπτωκέναι ἐνώπιον ἀσεβοῦς."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "4 φράσσω     [in LXX: Jb 38:8 (סָכַךְ hi.), Ho 2:6(8) (שׂוּךְ), Pr 21:13 (אָטַם), etc. ;]     to fence in, stop, close: στόματα λεόντων, He 11:33; στόμα, metaph., Ro 3:19; pass., καύχησις, II Co 11:10.†"
+}

@@ -1,0 +1,87 @@
+{
+ "strong": "G4682",
+ "lemma": "σπαράσσω",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 9:39",
+   "form": "σπαράσσει",
+   "morph": "V-PAI-3S",
+   "gloss_en": "convulses",
+   "gloss_ja": "引きつける",
+   "verse": "καὶ ἰδοὺ πνεῦμα λαμβάνει αὐτόν, καὶ ἐξαίφνης κράζει, καὶ σπαράσσει αὐτὸν μετὰ ἀφροῦ καὶ μόγις ἀποχωρεῖ ἀπ’ αὐτοῦ συντρῖβον αὐτόν·"
+  },
+  {
+   "ref": "MRK 1:26",
+   "form": "σπαράξαν",
+   "morph": "V-AAP-NSN",
+   "gloss_en": "convulsing",
+   "gloss_ja": "引きつける",
+   "verse": "καὶ σπαράξαν αὐτὸν τὸ πνεῦμα τὸ ἀκάθαρτον καὶ φωνῆσαν φωνῇ μεγάλῃ ἐξῆλθεν ἐξ αὐτοῦ."
+  },
+  {
+   "ref": "MRK 9:26",
+   "form": "σπαράξας",
+   "morph": "V-AAP-NSM",
+   "gloss_en": "convulsing",
+   "gloss_ja": "引きつける",
+   "verse": "καὶ κράξας καὶ πολλὰ σπαράξας ἐξῆλθεν· καὶ ἐγένετο ὡσεὶ νεκρὸς ὥστε τοὺς πολλοὺς λέγειν ὅτι ἀπέθανεν."
+  }
+ ],
+ "lxx": {
+  "total": 4,
+  "works": {
+   "Regnorum ii": 1,
+   "Machabaeorum iii": 1,
+   "Jeremias": 1,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "22.8",
+    "form": "ἐσπαράχθησαν",
+    "postag": "v3paip---",
+    "sentence": "καὶ ἐταράχθη καὶ ἐσείσθη ἡ γῆ, καὶ τὰ θεμέλια τοῦ οὐρανοῦ συνεταράχθησαν καὶ ἐσπαράχθησαν, ὅτι ἐθυμώθη Κύριος αὐτοῖς."
+   },
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "4.6",
+    "form": "ἐσπαραγμέναι",
+    "postag": "v-prpmfn-",
+    "sentence": "αἱ δὲ ἄρτι πρὸς βίου κοινωνίαν γαμικὸν ὑπεληλυθυῖαι παστὸν νεάνιδες, ἀντὶ τέρψεως μεταλαβοῦσαι γόους καὶ κόνει τὴν μυροβραχῆ πεφυρμέναι κόμην, ἀκαλύπτως δὲ ἀγόμεναι, θρῆνον ἀνθ’ ὑμεναίων ὁμοθυμαδὸν ἐξῆρχον ὡς ἐσπαραγμέναι σκυλμοῖς ἀλλοεθνέσι ·"
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "4.19",
+    "form": "σπαράσσεται",
+    "postag": "v3spim---",
+    "sentence": "μαιμάσσει ἡ ψυχή μου, σπαράσσεται ἡ καρδία μου, οὐ σιωπήσομαι, ὅτι φωνὴν σάλπιγγος ἤκουσεν ἡ ψυχή μου, κραυγὴν πολέμου."
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "8.7",
+    "form": "ἐσπάραξεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἐσπάραξεν αὐτὸν ἐπὶ τὴν γῆν καὶ συνέτριψεν αὐτόν, καὶ οὐκ ἦν ὁ ῥυόμενος τὸν κριὸν ἀπὸ τοῦ τράγου."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "3 σπαράσσω     [in LXX: II Ki 22:8 B (גּעשׁ hith.), Je 4:19 (המה) Da LXX 8:7 (שׁלךְ hi.), III Mac 4:6 * ;]     to tear, rend, mangle.    to convulse: Mk 1:26 (v. Swete, in l.) Mk 9:26, Lk 9:39 (cf. συν-σπαράσσω).†"
+}

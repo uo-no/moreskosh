@@ -1,0 +1,195 @@
+{
+ "strong": "G5147",
+ "lemma": "τρίβος",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 3:4",
+   "form": "τρίβους",
+   "morph": "N-APF",
+   "gloss_en": "paths",
+   "gloss_ja": "道",
+   "verse": "ὡς γέγραπται ἐν βίβλῳ λόγων Ἠσαΐου τοῦ προφήτου· Φωνὴ βοῶντος ἐν τῇ ἐρήμῳ· Ἑτοιμάσατε τὴν ὁδὸν κυρίου, εὐθείας ποιεῖτε τὰς τρίβους αὐτοῦ."
+  },
+  {
+   "ref": "MAT 3:3",
+   "form": "τρίβους",
+   "morph": "N-APF",
+   "gloss_en": "paths",
+   "gloss_ja": "道",
+   "verse": "οὗτος γάρ ἐστιν ὁ ῥηθεὶς διὰ Ἠσαΐου τοῦ προφήτου λέγοντος· Φωνὴ βοῶντος ἐν τῇ ἐρήμῳ· Ἑτοιμάσατε τὴν ὁδὸν κυρίου, εὐθείας ποιεῖτε τὰς τρίβους αὐτοῦ."
+  },
+  {
+   "ref": "MRK 1:3",
+   "form": "τρίβους",
+   "morph": "N-APF",
+   "gloss_en": "paths",
+   "gloss_ja": "道",
+   "verse": "φωνὴ βοῶντος ἐν τῇ ἐρήμῳ· Ἑτοιμάσατε τὴν ὁδὸν κυρίου, εὐθείας ποιεῖτε τὰς τρίβους αὐτοῦ,"
+  }
+ ],
+ "lxx": {
+  "total": 67,
+  "works": {
+   "Genesis": 1,
+   "Judices": 1,
+   "Regnorum i": 1,
+   "Regnorum ii": 3,
+   "Paralipomenon i sive Chronicon i": 1,
+   "Tobias": 1,
+   "Psalmi": 15,
+   "Proverbia": 10,
+   "Job": 6,
+   "Sapientia Salomonis": 6,
+   "Ecclesiasticus sive Siracides": 1,
+   "Osee": 1,
+   "Michaeas": 1,
+   "Joel": 1,
+   "Isaias": 9,
+   "Jeremias": 3,
+   "Baruch": 4,
+   "Threni seu Lamentationes": 1,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "118.105",
+    "form": "τρίβοις",
+    "postag": "n-p---fd-",
+    "sentence": "λύχνος τοῖς ποσί μου ὁ νόμος σου καὶ φῶς ταῖς τρίβοις μου."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "3.17",
+    "form": "τρίβοι",
+    "postag": "n-p---fn-",
+    "sentence": "αἱ ὁδοὶ αὐτῆς ὁδοὶ καλαί, καὶ πᾶσαι αἱ τρίβοι αὐτῆς ἐν εἰρήνῃ ·"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "40.3",
+    "form": "τρίβους",
+    "postag": "n-p---fa-",
+    "sentence": "εὐθείας ποιεῖτε τὰς τρίβους τοῦ Θεοῦ ἡμῶν."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "28.7",
+    "form": "τρίβος",
+    "postag": "n-s---fn-",
+    "sentence": "τρίβος, οὐκ ἔγνω αὐτὴν πετεινόν, καὶ οὐ παρέβλεψεν αὐτὴν ὀφθαλμὸς γυπός ·"
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "14.3",
+    "form": "τρίβον",
+    "postag": "n-s---ma-",
+    "sentence": "ἡ δὲ σή, πάτερ, διακυβερνᾷ πρόνοια, ὅτι ἔδωκας καὶ ἐν θαλάσσῃ ὁδὸν καὶ ἐν κύμασι τρίβον ἀσφαλῆ, δεικνὺς ὅτι δύνασαι ἐκ παντὸς σώζειν, ἵνα κα-κἂν ἄνευ τέχνης τις ἐπιβῇ."
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルク書",
+    "work_src": "Baruch",
+    "ref": "3.31",
+    "form": "τρίβον",
+    "postag": "n-s---fa-",
+    "sentence": "οὐκ ἔστιν ὁ γινώσκων τὴν ὁδὸν αὐτῆς οὐ-δὲ ὁ ἐνθυμούμενος τὴν τρίβον αὐτῆς ·"
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "20.13",
+    "form": "τρίβου",
+    "postag": "n-s---fg-",
+    "sentence": "ἡνίκα δὲ ἔφθασεν ἐκ τῆς τρίβου, παρῆλθε πᾶς ἀνὴρ Ἰσραὴλ ὀπίσω Ἰωάβ τοῦ διῶξαι ὀπίσω Σαβεὲ υἱοῦ Βοχορί."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "9.10",
+    "form": "τρίβους",
+    "postag": "n-p---fa-",
+    "sentence": "ἐπὶ τὰ ὄρη λάβετε κοπετὸν καὶ ἐπὶ τὰς τρίβους τῆς ἐρήμου θρῆνον, ὅτι ἐξέλιπον παρὰ τὸ μὴ εἶναι ἀνθρώπους ·"
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "49.17",
+    "form": "τρίβου",
+    "postag": "n-s---fg-",
+    "sentence": "καὶ γενηθήτω Δὰν ὄφις ἐφ’ ὁδοῦ, ἐγκαθήμενος ἐπὶ τρίβου, δάκνων πτέρναν ἵππου, καὶ πεσεῖται ὁ ἱππεὺς εἰς τὰ ὀπίσω, τὴν σωτηρίαν περιμένων Κυρίου."
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "5.20",
+    "form": "τρίβων",
+    "postag": "n-p---mg-",
+    "sentence": "ἐξ οὐρανοῦ παρετάξαντο οἱ ἀστέρες, ἐκ τρίβων αὐτῶν παρετάξαντο μετὰ Σισάρα."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "6.12",
+    "form": "τρίβῳ",
+    "postag": "n-s---md-",
+    "sentence": "καὶ κατεύθυναν αἱ βόες ἐν τῇ ὁδῷ εἰς ὁδὸν Βαιθσαμύς, ἐν τρίβῳ ἑνὶ ἐπορεύοντο καὶ ἐκοπίων καὶ οὐ μεθίσταντο δεξιὰ οὐ-δὲ ἀριστερά ·"
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "26.18",
+    "form": "τρίβον",
+    "postag": "n-s---fa-",
+    "sentence": "εἰς διαδεχομένους καὶ πρὸς δυσμαῖς τέσσαρες, καὶ εἰς τὴν τρίβον δύο διαδεχομένους."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "Hermas, Pastor": 2
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "11.1.3",
+    "form": "τρίβους",
+    "postag": "n-p---ma-",
+    "sentence": "ἡ γὰρ στρεβλὴ ὁδὸς τρίβους οὐκ ἔχει, ἀλλ’ ἀνοδίας καὶ προσκόμματα πολλὰ καὶ τραχεῖά ἐστι καὶ ἀκανθώδης."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "22.6.3",
+    "form": "τρίβους",
+    "postag": "n-p---fa-",
+    "sentence": "αὐτὸς οὖν καθαρίσας τὰς ἁμαρτίας τοῦ λαοῦ ἔδειξεν αὐτοῖς τὰς τρίβους τῆς ζωῆς, δοὺς αὐτοῖς τὸν νόμον, ὃν ἔλαβε παρὰ τοῦ πατρὸς αὐτοῦ."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3 τρίβος, -ου, -ἡ    (< τρίβω),    [in LXX for מְסִלָּה, נָתִיב, etc. ;]    a beaten track, a path: Mt 3:3, Mk 1:3, Lk 3:4 (LXX).†"
+}

@@ -1,0 +1,143 @@
+{
+ "strong": "G5592",
+ "lemma": "ψῦχος",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2CO 11:27",
+   "form": "ψύχει",
+   "morph": "N-DSN",
+   "gloss_en": "cold",
+   "gloss_ja": "寒さ",
+   "verse": "κόπῳ καὶ μόχθῳ, ἐν ἀγρυπνίαις πολλάκις, ἐν λιμῷ καὶ δίψει, ἐν νηστείαις πολλάκις, ἐν ψύχει καὶ γυμνότητι·"
+  },
+  {
+   "ref": "ACT 28:2",
+   "form": "ψῦχος",
+   "morph": "N-ASN",
+   "gloss_en": "cold",
+   "gloss_ja": "寒さ",
+   "verse": "οἵ τε βάρβαροι παρεῖχον οὐ τὴν τυχοῦσαν φιλανθρωπίαν ἡμῖν, ἅψαντες γὰρ πυρὰν προσελάβοντο πάντας ἡμᾶς διὰ τὸν ὑετὸν τὸν ἐφεστῶτα καὶ διὰ τὸ ψῦχος."
+  },
+  {
+   "ref": "JHN 18:18",
+   "form": "ψῦχος",
+   "morph": "N-NSN",
+   "gloss_en": "cold",
+   "gloss_ja": "寒さ",
+   "verse": "εἱστήκεισαν δὲ οἱ δοῦλοι καὶ οἱ ὑπηρέται ἀνθρακιὰν πεποιηκότες, ὅτι ψῦχος ἦν, καὶ ἐθερμαίνοντο· ἦν δὲ καὶ ὁ Πέτρος μετ’ αὐτῶν ἑστὼς καὶ θερμαινόμενος."
+  }
+ ],
+ "lxx": {
+  "total": 10,
+  "works": {
+   "Genesis": 1,
+   "Psalmi": 1,
+   "Odae": 2,
+   "Job": 1,
+   "Zacharias": 1,
+   "Daniel": 4
+  },
+  "representatives": [
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "3.67",
+    "form": "ψῦχος",
+    "postag": "n-s---na-",
+    "sentence": "εὐλογεῖτε, ῥῖγος καὶ ψῦχος, τὸν κύριον ·"
+   },
+   {
+    "work_code": "ODE",
+    "work_ja": "頌歌（オード）",
+    "work_src": "Odae",
+    "ref": "11.69",
+    "form": "ψῦχος",
+    "postag": "n-s---nn-",
+    "sentence": "εὐλογεῖτε, πάγος καὶ ψῦχος, τὸν κύριον ·"
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "8.22",
+    "form": "ψῦχος",
+    "postag": "n-s---nn-",
+    "sentence": "πάσας τὰς ἡμέρας τῆς γῆς, σπέρμα καὶ θερισμός, ψῦχος καὶ καῦμα, θέρος καὶ ἔαρ, ἡμέραν καὶ νύκτα οὐ καταπαύσουσι."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "147.6",
+    "form": "ψύχους",
+    "postag": "n-s---ng-",
+    "sentence": "βάλλοντος κρύσταλλον αὐτοῦ ὡσεὶ ψωμούς, κατὰ πρόσωπον ψύχους αὐτοῦ τίς ὑποστήσεται;"
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "37.9",
+    "form": "ψῦχος",
+    "postag": "n-s---nn-",
+    "sentence": "ἐκ ταμιείων ἐπέρχονται ὀδύναι, ἀπὸ δὲ ἀκρωτηρίων ψῦχος, καὶ ἀπὸ πνοῆς ἰσχυροῦ δώσει πάγος, οἰακίζει δὲ τὸ ὕδωρ ὡς ἐὰν βούληται ·"
+   },
+   {
+    "work_code": "ZEC",
+    "work_ja": "ゼカリヤ書",
+    "work_src": "Zacharias",
+    "ref": "14.6",
+    "form": "ψῦχος",
+    "postag": "n-s---nn-",
+    "sentence": "καὶ ἔσται ἐν ἐκείνῃ τῇ ἡμέρᾳ οὐκ ἔσται φῶς καὶ ψῦχος καὶ πάγος ·"
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "3.69",
+    "form": "ψῦχος",
+    "postag": "n-s---nv-",
+    "sentence": "εὐλογεῖτε, πάγοι καὶ ψῦχος, τὸν κύριον ·"
+   },
+   {
+    "work_code": "ODE",
+    "work_ja": "頌歌（オード）",
+    "work_src": "Odae",
+    "ref": "11.67",
+    "form": "ψῦχος",
+    "postag": "n-s---na-",
+    "sentence": "εὐλογεῖτε, ψῦχος καὶ καύσων, τὸν κύριον ·"
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "3.67",
+    "form": "ψῦχος",
+    "postag": "n-s---nv-",
+    "sentence": "εὐλογεῖτε, ψῦχος καὶ καύσων τὸν Κύριον ·"
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "3.71",
+    "form": "ψῦχος",
+    "postag": "n-s---nv-",
+    "sentence": "εὐλογεῖτε, ψῦχος καὶ καῦμα, τὸν Κύριον ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "3 ψύχος (LT, ψῦ-, as in cl.), -εος (-ους), τό     (< ψύχω),    [in LXX: Ge 8:22 (קֹר), Jb 37:9, Ps 147:6 (17) (קָרָה), Za 14:6, Da LXX TH 3:67,69 * ;]     cold: Jo 18:18, Ac 28:2, II Co 11:27.†"
+}

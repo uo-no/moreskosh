@@ -1,0 +1,108 @@
+{
+ "strong": "G5282",
+ "lemma": "ὑπονοέω",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 13:25",
+   "form": "ὑπονοεῖτε",
+   "morph": "V-PAI-2P",
+   "gloss_en": "suppose",
+   "gloss_ja": "推測する",
+   "verse": "ὡς δὲ ἐπλήρου Ἰωάννης τὸν δρόμον, ἔλεγεν· Τί ἐμὲ ὑπονοεῖτε εἶναι; οὐκ εἰμὶ ἐγώ· ἀλλ’ ἰδοὺ ἔρχεται μετ’ ἐμὲ οὗ οὐκ εἰμὶ ἄξιος τὸ ὑπόδημα τῶν ποδῶν λῦσαι."
+  },
+  {
+   "ref": "ACT 25:18",
+   "form": "ὑπενόουν",
+   "morph": "V-IAI-1S",
+   "gloss_en": "expecting",
+   "gloss_ja": "推測する",
+   "verse": "περὶ οὗ σταθέντες οἱ κατήγοροι οὐδεμίαν αἰτίαν ἔφερον ὧν ἐγὼ ὑπενόουν πονηρῶν,"
+  },
+  {
+   "ref": "ACT 27:27",
+   "form": "ὑπενόουν",
+   "morph": "V-IAI-3P",
+   "gloss_en": "suspected",
+   "gloss_ja": "推測する",
+   "verse": "Ὡς δὲ τεσσαρεσκαιδεκάτη νὺξ ἐγένετο διαφερομένων ἡμῶν ἐν τῷ Ἀδρίᾳ, κατὰ μέσον τῆς νυκτὸς ὑπενόουν οἱ ναῦται προσάγειν τινὰ αὐτοῖς χώραν."
+  }
+ ],
+ "lxx": {
+  "total": 5,
+  "works": {
+   "Judith": 1,
+   "Tobias": 2,
+   "Ecclesiasticus sive Siracides": 1,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "8.16",
+    "form": "ὑπενόουν",
+    "postag": "v1siia---",
+    "sentence": "εὐλογητὸς εἶ ὅτι ηὔφρανάς με, καὶ οὐκ ἐγένετό μοι καθὼς ὑπενόουν, ἀλλὰ κατὰ τὸ πολὺ ἔλεός σου ἐποίησας μεθ’ ἡμῶν."
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "14.14",
+    "form": "ὑπενοεῖτο",
+    "postag": "v3siim---",
+    "sentence": "ὑπενοεῖτο γὰρ καθεύδειν αὐτὸν μετὰ Ἰουδίθ ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "23.21",
+    "form": "ὑπενόησεν",
+    "postag": "v3saia---",
+    "sentence": "οὗτος ἐν πλατείαις πόλεως ἐκδικηθήσεται, καὶ οὗ οὐχ ὑπενόησεν πιασθήσεται."
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "7.25",
+    "form": "ὑπονοήσει",
+    "postag": "v3sfia---",
+    "sentence": "καὶ λόγους πρὸς τὸν ὕψιστον λαλήσει καὶ τοὺς ἁγίους Ὑψίστου παλαιώσει καὶ ὑπονοήσει τοῦ ἀλλοιῶσαι καιροὺς καὶ νόμον."
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "8.16",
+    "form": "ὑπενόουν",
+    "postag": "v1siia---",
+    "sentence": "καὶ εὐλογητὸς εἶ ὅτι εὔφρανάς με, καὶ οὐκ ἐγένετο καθὼς ὑπενόουν, ἀλλὰ κατὰ τὸ πολὺ ἔλεός σου ἐποίησας μεθ’ ἡμῶν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "4.1.6",
+    "form": "ὑπενόησα",
+    "postag": "v1saia---",
+    "sentence": "γινομένου μείζονος καὶ μείζονος κονιορτοῦ ὑπενόησα εἶναί τι θεῖον ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3 ** ὑπο-νοέω, -ῶ     [in LXX: Da TH 7:25 (סְבַר), To 8:16, Jth 14:14, Si 23:21 * ;]    to suspect, conjecture: Ac 25:18; c. acc et inf., Ac 13:25 27:27.†"
+}

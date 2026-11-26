@@ -1,0 +1,158 @@
+{
+ "strong": "G1353",
+ "lemma": "διοδεύω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 17:1",
+   "form": "Διοδεύσαντες",
+   "morph": "V-AAP-NPM",
+   "gloss_en": "passed through",
+   "gloss_ja": "通り抜ける",
+   "verse": "Διοδεύσαντες δὲ τὴν Ἀμφίπολιν καὶ τὴν Ἀπολλωνίαν ἦλθον εἰς Θεσσαλονίκην, ὅπου ἦν συναγωγὴ τῶν Ἰουδαίων."
+  },
+  {
+   "ref": "LUK 8:1",
+   "form": "διώδευεν",
+   "morph": "V-IAI-3S",
+   "gloss_en": "went on",
+   "gloss_ja": "通り抜ける",
+   "verse": "Καὶ ἐγένετο ἐν τῷ καθεξῆς καὶ αὐτὸς διώδευεν κατὰ πόλιν καὶ κώμην κηρύσσων καὶ εὐαγγελιζόμενος τὴν βασιλείαν τοῦ θεοῦ, καὶ οἱ δώδεκα σὺν αὐτῷ,"
+  }
+ ],
+ "lxx": {
+  "total": 20,
+  "works": {
+   "Genesis": 2,
+   "Machabaeorum i": 3,
+   "Psalmi": 1,
+   "Sapientia Salomonis": 4,
+   "Sophonias": 1,
+   "Zacharias": 1,
+   "Isaias": 1,
+   "Jeremias": 3,
+   "Baruch": 1,
+   "Ezechiel": 2,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "11.2",
+    "form": "διώδευσαν",
+    "postag": "v3paia---",
+    "sentence": "διώδευσαν ἔρημον ἀοίκητον καὶ ἐν ἀβάτοις ἔπηξαν σκηνάς ·"
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "12.32",
+    "form": "διώδευσεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἀναζεύξας ἦλθεν εἰς Δαμασκὸν καὶ διώδευσεν ἐν πάσῃ τῇ χώρᾳ."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "9.12",
+    "form": "διοδεύεσθαι",
+    "postag": "v--pnm---",
+    "sentence": "ἕνεκεν τίνος ἀπώλετο ἡ γῆ, ἀνήφθη ὡς ἔρημος παρὰ τὸ μὴ διοδεύεσθαι αὐτήν;"
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "13.17",
+    "form": "διόδευσον",
+    "postag": "v2sama---",
+    "sentence": "ἀναστὰς διόδευσον τὴν γῆν εἴς τε τὸ μῆκος αὐτῆς καὶ εἰς τὸ πλάτος, ὅτι σοὶ δώσω αὐτὴν."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "5.14",
+    "form": "διοδεύοντος",
+    "postag": "v-sppamg-",
+    "sentence": "καὶ θήσομαί σε εἰς ἔρημον καὶ τὰς θυγατέρας σου κύκλῳ σου ἐνώπιον παντὸς διοδεύοντος, καὶ ἔσῃ στενακτὴ καὶ δηλαϊστὴ ἐν τοῖς ἔθνεσι τοῖς κύκλῳ σου ἐν τῷ ποιῆσαί με ἐν σοὶ κρίματα ἐν ἐκδικήσει θυμοῦ μου ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "88.42",
+    "form": "διοδεύοντες",
+    "postag": "v-pppamn-",
+    "sentence": "διήρπασαν αὐτὸν πάντες οἱ διοδεύοντες ὁδόν, ἐγενήθη ὄνειδος τοῖς γείτοσιν αὐτοῦ."
+   },
+   {
+    "work_code": "ZEP",
+    "work_ja": "ゼファニヤ書",
+    "work_src": "Sophonias",
+    "ref": "3.6",
+    "form": "διοδεύειν",
+    "postag": "v--pna---",
+    "sentence": "ἐξερημώσω τὰς ὁδοὺς αὐτῶν τὸ παράπαν τοῦ μὴ διοδεύειν ·"
+   },
+   {
+    "work_code": "ZEC",
+    "work_ja": "ゼカリヤ書",
+    "work_src": "Zacharias",
+    "ref": "7.14",
+    "form": "διοδεύοντος",
+    "postag": "v-sppamg-",
+    "sentence": "καὶ ἐκβαλῶ αὐτοὺς εἰς πάντα τὰ ἔθνη, ἃ οὐκ ἔγνωσαν, καὶ ἡ γῆ ἀφανισθήσεται κατόπισθεν αὐτῶν ἐκ διοδεύοντος καὶ ἐξ ἀναστρέφοντος ·"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "59.8",
+    "form": "διοδεύουσι",
+    "postag": "v3ppia---",
+    "sentence": "αἱ γὰρ τρίβοι αὐτῶν διεστραμμέναι, ἃς διοδεύουσι, καὶ οὐκ οἴδασιν εἰρήνην."
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルク書",
+    "work_src": "Baruch",
+    "ref": "4.2",
+    "form": "διόδευσον",
+    "postag": "v2sama---",
+    "sentence": "— ἐπιστρέφου, Ἰακώβ, καὶ ἐπιλαβοῦ αὐτῆς, διόδευσον πρὸς τὴν λάμψιν κατέναντι τοῦ φωτὸς αὐτῆς."
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "3.48",
+    "form": "διώδευσε",
+    "postag": "v3saia---",
+    "sentence": "καὶ διώδευσε καὶ ἐνεπύρισεν οὕς εὗρε περὶ τὴν κάμινον τῶν Χαλδαίων."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "5.7",
+    "form": "διωδεύσαμεν",
+    "postag": "v1paia---",
+    "sentence": "ἀνομίας ἐνεπλήσθημεν τρίβοις καὶ ἀπωλείας καὶ διωδεύσαμεν ἐρήμους ἀβάτους, τὴν δὲ ὁδὸν Κυρίου οὐκ ἔγνωμεν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   † δι-οδεύω,    [in LXX chiefly for עבר ;]      to travel through: c. acc., Ac 17:1      to travel along (Ba 4:2, I Mac 12:32, 33): Lk 8:1.†"
+}

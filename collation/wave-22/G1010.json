@@ -1,0 +1,58 @@
+{
+ "strong": "G1010",
+ "lemma": "βουλευτής",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 23:50",
+   "form": "βουλευτὴς",
+   "morph": "N-NSM",
+   "gloss_en": "member of the council",
+   "gloss_ja": "議員",
+   "verse": "Καὶ ἰδοὺ ἀνὴρ ὀνόματι Ἰωσὴφ βουλευτὴς ὑπάρχων, ἀνὴρ ἀγαθὸς καὶ δίκαιος"
+  },
+  {
+   "ref": "MRK 15:43",
+   "form": "βουλευτής",
+   "morph": "N-NSM",
+   "gloss_en": "member of the council",
+   "gloss_ja": "議員",
+   "verse": "ἐλθὼν Ἰωσὴφ ὁ ἀπὸ Ἁριμαθαίας εὐσχήμων βουλευτής, ὃς καὶ αὐτὸς ἦν προσδεχόμενος τὴν βασιλείαν τοῦ θεοῦ, τολμήσας εἰσῆλθεν πρὸς τὸν Πιλᾶτον καὶ ᾐτήσατο τὸ σῶμα τοῦ Ἰησοῦ."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Job": 2
+  },
+  "representatives": [
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "12.17",
+    "form": "βουλευτὰς",
+    "postag": "n-p---ma-",
+    "sentence": "διάγων βουλευτὰς αἰχμαλώτους, κριτὰς δὲ γῆς ἐξέστησε."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "3.14",
+    "form": "βουλευτῶν",
+    "postag": "n-p---mg-",
+    "sentence": "νῦν ἂν κοιμηθεὶς ἡσύχασα, ὑπνώσας δὲ ἀνεπαυσάμην μετὰ βασιλέων βουλευτῶν γῆς, οἳ ἐγαυριῶντο ἐπὶ ξίφεσιν, ἢ μετὰ ἀρχόντων, ὧν πολὺς ὁ χρυσός, οἳ ἔπλησαν τοὺς οἴκους αὐτῶν ἀργυρίου, ἢ ὥσπερ ἔκτρωμα ἐκπορευόμενον ἐκ μήτρας μητρός, ἢ ὥσπερ νήπιοι, οἳ οὐκ εἶδον φῶς."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   βουλευτής, -οῦ, ὁ     (< βουλεύω),    [in LXX: Jb 3:14  12:17 (יעץ)* ;]    a councillor, a senator; of a member of the Sanhedrin: Mk 15:34, Lk 23:50.†"
+}

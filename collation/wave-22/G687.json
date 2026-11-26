@@ -1,0 +1,259 @@
+{
+ "strong": "G687",
+ "lemma": "ἆρα",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 8:30",
+   "form": "Ἆρά",
+   "morph": "PRT-I",
+   "gloss_en": "so then",
+   "gloss_ja": "はたして",
+   "verse": "προσδραμὼν δὲ ὁ Φίλιππος ἤκουσεν αὐτοῦ ἀναγινώσκοντος Ἠσαΐαν τὸν προφήτην καὶ εἶπεν· Ἆρά γε γινώσκεις ἃ ἀναγινώσκεις;"
+  },
+  {
+   "ref": "GAL 2:17",
+   "form": "ἆρα",
+   "morph": "PRT-I",
+   "gloss_en": "then",
+   "gloss_ja": "はたして",
+   "verse": "εἰ δὲ ζητοῦντες δικαιωθῆναι ἐν Χριστῷ εὑρέθημεν καὶ αὐτοὶ ἁμαρτωλοί, ἆρα Χριστὸς ἁμαρτίας διάκονος; μὴ γένοιτο·"
+  },
+  {
+   "ref": "LUK 18:8",
+   "form": "ἆρα",
+   "morph": "PRT-I",
+   "gloss_en": "then",
+   "gloss_ja": "はたして",
+   "verse": "λέγω ὑμῖν ὅτι ποιήσει τὴν ἐκδίκησιν αὐτῶν ἐν τάχει. πλὴν ὁ υἱὸς τοῦ ἀνθρώπου ἐλθὼν ἆρα εὑρήσει τὴν πίστιν ἐπὶ τῆς γῆς;"
+  }
+ ],
+ "lxx": {
+  "total": 75,
+  "works": {
+   "Genesis": 7,
+   "Numeri": 6,
+   "Deuteronomium": 5,
+   "Regnorum iii": 1,
+   "Regnorum iv": 1,
+   "Paralipomenon ii sive Chronicon ii": 1,
+   "Esdras ii": 3,
+   "Tobias": 1,
+   "Machabaeorum i": 1,
+   "Machabaeorum iv": 1,
+   "Psalmi": 13,
+   "Odae": 1,
+   "Proverbia": 1,
+   "Job": 10,
+   "Sapientia Salomonis": 2,
+   "Psalmi Salomonis": 2,
+   "Osee": 2,
+   "Jonas": 1,
+   "Zacharias": 1,
+   "Isaias": 3,
+   "Jeremias": 3,
+   "Baruch": 2,
+   "Ezechiel": 6,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "57.2",
+    "form": "ἄρα",
+    "postag": "g--------",
+    "sentence": "εἰ ἀληθῶς ἄρα δικαιοσύνην λαλεῖτε;"
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "27.8",
+    "form": "ἄρα",
+    "postag": "g--------",
+    "sentence": "πεποιθὼς ἐπὶ Κύριον ἄρα σωθήσεται;"
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "24.41",
+    "form": "ἀρᾶς",
+    "postag": "n-s---fg-",
+    "sentence": "τότε ἀθῷος ἔσῃ ἀπὸ τῆς ἀρᾶς μου ·"
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "4.27",
+    "form": "ἀρτὰ",
+    "postag": "a-p---na-",
+    "sentence": "καὶ ἐπισκέψῃ αὐτοὺς ἐξ ὀνόματος πάντα τὰ ἀρτὰ ὑπ’ αὐτῶν."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "17.16",
+    "form": "ἀράν",
+    "postag": "n-s---fa-",
+    "sentence": "ζῶ ἐγώ, λέγει Κύριος, ἐὰν μὴ ἐν ᾧ τόπῳ ὁ βασιλεὺς ὁ βασιλεύσας αὐτόν, ὃς ἠτίμωσε τὴν ἀράν μου καὶ ὃς παρέβη τὴν διαθήκην μου, μετ’ αὐτοῦ ἐν μέσῳ Βαβυλῶνος τελευτήσει."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "30.7",
+    "form": "ἀρὰς",
+    "postag": "n-p---fa-",
+    "sentence": "καὶ δώσει Κύριος ὁ Θεός σου τὰς ἀρὰς ταύτας ἐπὶ τοὺς ἐχθρούς σου καὶ ἐπὶ τοὺς μισοῦντάς σε, οἳ ἐδίωξάν σε."
+   },
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "13.34",
+    "form": "ἆρα",
+    "postag": "g--------",
+    "sentence": "ἆρα δυνήσονται;"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "28.8",
+    "form": "ἀρὰ",
+    "postag": "n-s---fn-",
+    "sentence": "ἀρὰ ἔδεται ταύτην τὴν βουλήν ·"
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "49.18",
+    "form": "ἀρὰν",
+    "postag": "n-s---fa-",
+    "sentence": "καθὼς ἔσταξεν ὁ θυμός μου ἐπὶ τοὺς κατοικοῦντας Ἱερουσαλήμ, οὕτως στάξει ὁ θυμός μου ἐφ’ ὑμᾶς εἰσελθόντων ὑμῶν εἰς Αἴγυπτον, καὶ ἔσεσθε εἰς ἄβατον καὶ ὑποχείριοι καὶ εἰς ἀρὰν καὶ εἰς ὀνειδισμὸν καὶ οὐ μὴ ἴδητε οὐκέτι τὸν τόπον τοῦτον, ἃ ἐλάλησε Κύριος ἐφ’ ὑμᾶς τοὺς καταλοίπους Ἰούδα ·"
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "6.20",
+    "form": "ἄρα",
+    "postag": "g--------",
+    "sentence": "ἐπιθυμία ἄρα σοφίας ἀνάγει ἐπὶ βασιλείαν."
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "4.14",
+    "form": "ἀρᾷ",
+    "postag": "n-s---fd-",
+    "sentence": "γένοιτο, κύριε, ἡ μερὶς αὐτοῦ ἐν ἀτιμίᾳ ἐνώπιόν σου, ἡ ἔξοδος αὐτοῦ ἐν στεναγμοῖς καὶ ἡ εἴσοδος αὐτοῦ ἐν ἀρᾷ ·"
+   },
+   {
+    "work_code": "HOS",
+    "work_ja": "ホセア書",
+    "work_src": "Osee",
+    "ref": "4.2",
+    "form": "ἀρὰ",
+    "postag": "n-s---fn-",
+    "sentence": "ἀρὰ καὶ ψεῦδος καὶ φόνος καὶ κλοπὴ καὶ μοιχεία κέχυται ἐπὶ τῆς γῆς, καὶ αἵματα ἀφ’ αἵμασι μίσγουσι."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 18,
+  "works": {
+   "Barnabas": 4,
+   "1 Clement": 1,
+   "2 Clement": 3,
+   "To Diognetus": 1,
+   "Hermas, Pastor": 7,
+   "Ignatius, Letters": 2
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "25.3.3",
+    "form": "ἄρα",
+    "postag": "g--------",
+    "sentence": "ἐπισκέπτεται οὖν αὐτούς, οἷς ἔδωκεν, εἰ ἄρα τετηρήκασιν αὐτόν."
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "9.6",
+    "form": "ἄρα",
+    "postag": "g--------",
+    "sentence": "ἄρα οὖν κα-κἀκεῖνοι ἐκ τῆς διαθήκης αὐτῶν εἰσίν;"
+   },
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "8.6",
+    "form": "ἆρα",
+    "postag": "g--------",
+    "sentence": "ἆρα οὖν τοῦτο λέγει ·"
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "3.10.1",
+    "form": "ἄρα",
+    "postag": "g--------",
+    "sentence": "ἄρα οὖν καταψεύδομαι τοῦ κυρίου."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "35.3",
+    "form": "ἄρα",
+    "postag": "g--------",
+    "sentence": "τίνα οὖν ἄρα ἐστὶν τὰ ἑτοιμαζόμενα τοῖς ὑπομένουσιν;"
+   },
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "7",
+    "form": "ἆρά",
+    "postag": "g--------",
+    "sentence": "ἆρά γε, ὡς ἀνθρώπων ἄν τις λογίσᾳτο, ἐπὶ τυραννίδι καὶ φόβῳ καὶ καταπλήξει;"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.5.7",
+    "form": "ἄρα",
+    "postag": "g--------",
+    "sentence": "καὶ ἐπερωτᾷ ὁ ποιμὴν τὰς παρθένους, εἰ ἄρα παρεγεγόνει ὁ δεσπότης τοῦ πύργου."
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "6.19",
+    "form": "ἄρα",
+    "postag": "g--------",
+    "sentence": "εἰ οὖν οὐ γίνεται τοῦτο νῦν, ἄρα ἡμῖν εἴρηκεν, πότε ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "18   ἆρα,   interrog. particle, implying anxiety or impatience, \"quite rare and only in Luke and Paul, therefore a literary word\" (Bl., §77, 2).     (num igitur) expecting a neg. reply, Lk 18:8; ἆρά γε, Ac 8:30.     (ergone) in apodosis, expecting an affirm. reply, Ga 2:17 (Bl., §77, 2; Lft., Ga., in l.; MM, s.v.).†"
+}

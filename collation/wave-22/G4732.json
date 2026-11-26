@@ -1,0 +1,167 @@
+{
+ "strong": "G4732",
+ "lemma": "στερεόω",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 16:5",
+   "form": "ἐστερεοῦντο",
+   "morph": "V-IPI-3P",
+   "gloss_en": "strengthened",
+   "gloss_ja": "強める",
+   "verse": "αἱ μὲν οὖν ἐκκλησίαι ἐστερεοῦντο τῇ πίστει καὶ ἐπερίσσευον τῷ ἀριθμῷ καθ’ ἡμέραν."
+  },
+  {
+   "ref": "ACT 3:7",
+   "form": "ἐστερεώθησαν",
+   "morph": "V-API-3P",
+   "gloss_en": "made strong",
+   "gloss_ja": "強める",
+   "verse": "καὶ πιάσας αὐτὸν τῆς δεξιᾶς χειρὸς ἤγειρεν αὐτόν· παραχρῆμα δὲ ἐστερεώθησαν αἱ βάσεις αὐτοῦ καὶ τὰ σφυδρά,"
+  },
+  {
+   "ref": "ACT 3:16",
+   "form": "ἐστερέωσεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "made ~ strong",
+   "gloss_ja": "強める",
+   "verse": "καὶ ἐπὶ τῇ πίστει τοῦ ὀνόματος αὐτοῦ τοῦτον ὃν θεωρεῖτε καὶ οἴδατε ἐστερέωσεν τὸ ὄνομα αὐτοῦ, καὶ ἡ πίστις ἡ δι’ αὐτοῦ ἔδωκεν αὐτῷ τὴν ὁλοκληρίαν ταύτην ἀπέναντι πάντων ὑμῶν."
+  }
+ ],
+ "lxx": {
+  "total": 33,
+  "works": {
+   "Regnorum i": 2,
+   "Machabaeorum i": 2,
+   "Psalmi": 5,
+   "Odae": 1,
+   "Ecclesiasticus sive Siracides": 10,
+   "Osee": 1,
+   "Amos": 1,
+   "Isaias": 5,
+   "Jeremias": 3,
+   "Threni seu Lamentationes": 1,
+   "Ezechiel": 1,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "42.25",
+    "form": "ἐστερέωσε",
+    "postag": "v3saia---",
+    "sentence": "ἓν τοῦ ἑνὸς ἐστερέωσε τὰ ἀγαθά, καὶ τίς πλησθήσεται ὁρῶν δόξαν αὐτοῦ;"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "135.6",
+    "form": "στερεώσαντι",
+    "postag": "v-sapamd-",
+    "sentence": "τῷ στερεώσαντι τὴν γῆν ἐπὶ τῶν ὑδάτων, ὅτι εἰς τὸν αἰῶνα τὸ ἔλεος αὐτοῦ ·"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "44.24",
+    "form": "ἐστερέωσα",
+    "postag": "v1saia---",
+    "sentence": "ἐγὼ Κύριος ὁ συντελῶν πάντα, ἐξέτεινα τὸν οὐρανὸν μόνος καὶ ἐστερέωσα τὴν γῆν."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "5.3",
+    "form": "ἐστερέωσαν",
+    "postag": "v3paia---",
+    "sentence": "ἐστερέωσαν τὰ πρόσωπα αὐτῶν ὑπὲρ πέτραν καὶ οὐκ ἠθέλησαν ἐπιστραφῆναι."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "2.1",
+    "form": "ἐστερεώθη",
+    "postag": "v3saip---",
+    "sentence": "ἐστερεώθη ἡ καρδία μου ἐν Κυρίῳ, ὑψώθη κέρας μου ἐν Θεῷ μου ·"
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "10.50",
+    "form": "ἐστερέωσε",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἐστερέωσε τὸν πόλεμον σφόδρα, ἕως ἔδυ ὁ ἥλιος, καὶ ἔπεσεν ὁ Δημήτριος ἐν τῇ ἡμέρᾳ ἐκείνῃ."
+   },
+   {
+    "work_code": "ODE",
+    "work_ja": "頌歌（オード）",
+    "work_src": "Odae",
+    "ref": "3.1",
+    "form": "ἐστερεώθη",
+    "postag": "v3saip---",
+    "sentence": "ἐστερεώθη ἡ καρδία μου ἐν κυρίῳ, ὑψώθη κέρας μου ἐν θεῷ μου ·"
+   },
+   {
+    "work_code": "HOS",
+    "work_ja": "ホセア書",
+    "work_src": "Osee",
+    "ref": "13.4",
+    "form": "στερεῶν",
+    "postag": "v-sppamn-",
+    "sentence": "ἐγὼ δὲ Κύριος ὁ Θεός σου ὁ στερεῶν τὸν οὐρανὸν καὶ κτίζων γῆν, οὗ αἱ χεῖρες ἔκτισαν πᾶσαν τὴν στρατιὰν τοῦ οὐρανοῦ, καὶ οὐ παρέδειξά σοι αὐτὰ τοῦ πορεύεσθαι ὀπίσω αὐτῶν ·"
+   },
+   {
+    "work_code": "AMO",
+    "work_ja": "アモス書",
+    "work_src": "Amos",
+    "ref": "4.13",
+    "form": "στερεῶν",
+    "postag": "v-sppamn-",
+    "sentence": "διότι ἰδοὺ ἐγὼ στερεῶν βροντὴν καὶ κτίζων πνεῦμα καὶ ἀπαγγέλλων ·"
+   },
+   {
+    "work_code": "LAM",
+    "work_ja": "哀歌",
+    "work_src": "Threni seu Lamentationes",
+    "ref": "2.4",
+    "form": "ἐστερέωσε",
+    "postag": "v3saia---",
+    "sentence": "ἐνέτεινε τόξον αὐτοῦ ὡς ἐχθρός, ἐστερέωσε δεξιὰν αὐτοῦ ὡς ὑπεναντίος καὶ ἀπέκτεινε πάντα τὰ ἐπιθυμήματα τῶν ὀφθαλμῶν μου ἐν σκηνῇ θυγατρὸς Σιών, ἐξέχεεν ὡς πῦρ τὸν θυμὸν αὐτοῦ."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "4.7",
+    "form": "στερεώσεις",
+    "postag": "v2sfia---",
+    "sentence": "καὶ εἰς τὸν συγκλεισμὸν Ἱερουσαλὴμ ἑτοιμάσεις τὸ πρόσωπόν σου καὶ τὸν βραχίονά σου στερεώσεις καὶ προφητεύσεις ἐπ’ αὐτήν."
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "8.24",
+    "form": "στερεωθήσεται",
+    "postag": "v3sfip---",
+    "sentence": "καὶ στερεωθήσεται ἡ ἰσχὺς αὐτοῦ καὶ οὐκ ἐν τῇ ἰσχύι αὐτοῦ, καὶ θαυμαστῶς φθερεῖ καὶ εὐοδωθήσεται καὶ ποιήσει καὶ φθερεῖ δυνάστας καὶ δῆμον ἁγίων."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "3 στερεόω, -ῶ    (< στερεός),    [in LXX: Is 42:5 (רקע), Je 5:3 (חזק pi.), etc. ;]     to make firm or solid;    to strengthen, make strong; c. acc. pers., Ac 3:16; τ. βάσεις, pass., ib. 7. Metaph. (cf. Je, l.c.): τ. πίστει, pass., Ac 16:5.†"
+}

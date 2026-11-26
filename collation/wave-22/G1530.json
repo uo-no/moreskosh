@@ -1,0 +1,59 @@
+{
+ "strong": "G1530",
+ "lemma": "εἰσπηδάω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 14:14",
+   "form": "ἐξεπήδησαν",
+   "morph": "V-AAI-3P",
+   "gloss_en": "rushed out",
+   "gloss_ja": "飛び込む",
+   "verse": "ἀκούσαντες δὲ οἱ ἀπόστολοι Βαρναβᾶς καὶ Παῦλος, διαρρήξαντες τὰ ἱμάτια αὐτῶν ἐξεπήδησαν εἰς τὸν ὄχλον κράζοντες"
+  },
+  {
+   "ref": "ACT 16:29",
+   "form": "εἰσεπήδησεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "rushed in",
+   "gloss_ja": "飛び込む",
+   "verse": "αἰτήσας δὲ φῶτα εἰσεπήδησεν καὶ ἔντρομος γενόμενος προσέπεσεν τῷ Παύλῳ καὶ τῷ Σιλᾷ,"
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Amos": 1,
+   "Susanna": 1
+  },
+  "representatives": [
+   {
+    "work_code": "AMO",
+    "work_ja": "アモス書",
+    "work_src": "Amos",
+    "ref": "5.19",
+    "form": "εἰσπηδήσῃ",
+    "postag": "v3sasa---",
+    "sentence": "ὃν τρόπον ἐὰν φύγῃ ἄνθρωπος ἐκ προσώπου τοῦ λέοντος καὶ ἐμπέσῃ αὐτῷ ἡ ἄρκος, καὶ εἰσπηδήσῃ εἰς τὸν οἶκον αὐτοῦ καὶ ἀπερείσηται τὰς χεῖρας αὐτοῦ ἐπὶ τὸν τοῖχον καὶ δάκῃ αὐτὸν ὄφις."
+   },
+   {
+    "work_code": "SUS",
+    "work_ja": "スザンナ（Th）",
+    "work_src": "Susanna",
+    "ref": "26",
+    "form": "εἰσεπήδησαν",
+    "postag": "v3paia---",
+    "sentence": "ὡς δὲ ἤκουσαν τὴν κραυγὴν ἐν τῷ παραδείσῳ οἱ ἐκ τῆς οἰκίας, εἰσεπήδησαν διὰ τῆς πλαγίας θύρας ἰδεῖν τὸ συμβεβηκὸς αὐτῇ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   εἰσ-πηδάω, -ῶ     [in LXX: Am 5:19 (בּוֹא), Da TH Sus 1:26* ;]       to spring in, rush in: Ac 14:14 (Rec.), Ac 16:29 (for exx. from π., v. MM, Exp., xii).†"
+}

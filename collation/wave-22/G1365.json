@@ -1,0 +1,116 @@
+{
+ "strong": "G1365",
+ "lemma": "διστάζω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MAT 14:31",
+   "form": "ἐδίστασας",
+   "morph": "V-AAI-2S",
+   "gloss_en": "doubt",
+   "gloss_ja": "疑う",
+   "verse": "εὐθέως δὲ ὁ Ἰησοῦς ἐκτείνας τὴν χεῖρα ἐπελάβετο αὐτοῦ καὶ λέγει αὐτῷ· Ὀλιγόπιστε, εἰς τί ἐδίστασας;"
+  },
+  {
+   "ref": "MAT 28:17",
+   "form": "ἐδίστασαν",
+   "morph": "V-AAI-3P",
+   "gloss_en": "doubted",
+   "gloss_ja": "疑う",
+   "verse": "καὶ ἰδόντες αὐτὸν προσεκύνησαν, οἱ δὲ ἐδίστασαν."
+  }
+ ],
+ "lxx": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "fathers": {
+  "total": 10,
+  "works": {
+   "Barnabas": 1,
+   "1 Clement": 2,
+   "2 Clement": 1,
+   "Didache": 1,
+   "Hermas, Pastor": 5
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.28.7",
+    "form": "διστάζουσι",
+    "postag": "v-pppamd-",
+    "sentence": "ταῦτα ὑμῖν λέγω τοῖς διστάζουσι περὶ ἀρνήσεως ἢ ὁμολογήσεως ·"
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "23.3",
+    "form": "διστάζοντες",
+    "postag": "v-pppamn-",
+    "sentence": "ταλαίπωροί εἰσιν οἱ δίψυχοι, οἱ διστάζοντες τῇ ψυχῇ, οἱ λέγοντες ·"
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "19.11",
+    "form": "διστάσεις",
+    "postag": "v2sfia---",
+    "sentence": "οὐ διστάσεις δοῦναι οὐ-δὲ διδοὺς γογγύσεις ·"
+   },
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "11.2",
+    "form": "διστάζοντες",
+    "postag": "v-pppamn-",
+    "sentence": "ταλαίπωροί εἰσιν οἱ δίψυχοι, οἱ διστάζοντες τῇ καρδίᾳ, οἱ λέγοντες ·"
+   },
+   {
+    "work_code": "DID",
+    "work_ja": "ディダケー",
+    "work_src": "Didache",
+    "ref": "4.7",
+    "form": "διστάσεις",
+    "postag": "v2sfia---",
+    "sentence": "οὐ διστάσεις δοῦναι οὐ-δὲ διδοὺς γογγύσεις ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "14.1.5",
+    "form": "διστάσῃς",
+    "postag": "v2sasa---",
+    "sentence": "ἐὰν δὲ διστάσῃς ἐν τῇ καρδίᾳ σου, οὐδὲν οὐ μὴ λήψῃ τῶν αἰτημάτων σου."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "11.2",
+    "form": "διστάζοντες",
+    "postag": "v-pppamn-",
+    "sentence": "συνεξελθούσης γὰρ αὐτῷ τῆς γυναικὸς ἑτερογνώμονος ὑπαρχούσης καὶ οὐκ ἐν ὁμονοίᾳ, εἰς τοῦτο σημεῖον ἐτέθη, ὥστε γενέσθαι αὐτὴν στήλην ἁλὸς ἕως τῆς ἡμέρας ταύτης, εἰς τὸ γνωστὸν εἶναι πᾶσιν, ὅτι οἱ δίψυχοι καὶ οἱ διστάζοντες περὶ τῆς τοῦ θεοῦ δυνάμεως εἰς κρίμα καὶ εἰς σημείωσιν πάσαις ταῖς γενεαῖς γίνονται."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "22.4.3",
+    "form": "διστάζουσιν",
+    "postag": "v3ppia---",
+    "sentence": "ὅσοι δὲ βληχροί εἰσι καὶ ἀργοὶ πρὸς τὴν ἔντευξιν, ἐκεῖνοι διστάζουσιν αἰτεῖσθαι παρὰ τοῦ κυρίου ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   * διστάζω    (< δίς),     to doubt, hesitate: Mt 14:31 28:17.†   SYN.: ἀπορέω, διαπορέω, διακρίνομαι, μετεωρίζομαι (v. DCG, i, 491)."
+}

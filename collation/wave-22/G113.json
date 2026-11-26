@@ -1,0 +1,58 @@
+{
+ "strong": "G113",
+ "lemma": "ἄθεσμος",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2PE 2:7",
+   "form": "ἀθέσμων",
+   "morph": "A-GPM",
+   "gloss_en": "lawless",
+   "gloss_ja": "無法な",
+   "verse": "καὶ δίκαιον Λὼτ καταπονούμενον ὑπὸ τῆς τῶν ἀθέσμων ἐν ἀσελγείᾳ ἀναστροφῆς ἐρρύσατο"
+  },
+  {
+   "ref": "2PE 3:17",
+   "form": "ἀθέσμων",
+   "morph": "A-GPM",
+   "gloss_en": "lawless",
+   "gloss_ja": "無法な",
+   "verse": "ὑμεῖς οὖν, ἀγαπητοί, προγινώσκοντες φυλάσσεσθε ἵνα μὴ τῇ τῶν ἀθέσμων πλάνῃ συναπαχθέντες ἐκπέσητε τοῦ ἰδίου στηριγμοῦ,"
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Machabaeorum iii": 2
+  },
+  "representatives": [
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "6.26",
+    "form": "ἀθέσμοις",
+    "postag": "a-p---fd-",
+    "sentence": "τίς τοὺς ἐξ ἀρχῆς εὐνοίᾳ πρὸς ἡμᾶς κατὰ πάντα διαφέροντας πάντων ἐθνῶν καὶ τοὺς χειρίστους πλεονάκις ἀνθρώπων ἐπιδεδεγμένους κινδύνους, οὕτως ἀθέσμοις περιέβαλεν αἰκίαις;"
+   },
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "5.12",
+    "form": "ἀθέσμου",
+    "postag": "a-s---fg-",
+    "sentence": "τὸ δὲ ἀπ’ αἰῶνος χρόνου κτίσμα καλὸν ἐν νυκτὶ καὶ ἡμέρᾳ ἐπιβαλλόμενον ὑπὸ τοῦ χαριζομένου πᾶσιν, οἷς ἂν αὐτὸς θελήσῃ, ὕπνου μέρος ἀπέστειλε πρὸς τὸν βασιλέα, καὶ ἡδίστῳ καὶ βαθεῖ κατεσχέθη τῇ ἐνεργείᾳ τοῦ Δεσπότου, τῆς ἀθέσμου μὲν προθέσεως πολὺ διεσφαλμένος, τοῦ δὲ ἀμεταθέτου λογισμοῦ μεγάλως διεψευσμένος."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2  **† ἄθεσμος, -ον     (< θεσμός, law, custom),   [in LXX: III Mac 5:12 6:26*;]   lawless, esp. of those who violate the law of nature and conscience (cf. MM, VGT, s.v.): II Pe 2:7 3:17.†   SYN.: ἀθέμιτος, ἄνομος, κακός, πονηρός, φαῦλος (v. Tr., Syn., §lxxiv; DCG, ii, 821b)."
+}

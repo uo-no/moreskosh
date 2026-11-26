@@ -1,0 +1,79 @@
+{
+ "strong": "G5280",
+ "lemma": "ὑπόμνησις",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2PE 1:13",
+   "form": "ὑπομνήσει",
+   "morph": "N-DSF",
+   "gloss_en": "reminder",
+   "gloss_ja": "思い起こさせること",
+   "verse": "δίκαιον δὲ ἡγοῦμαι, ἐφ’ ὅσον εἰμὶ ἐν τούτῳ τῷ σκηνώματι, διεγείρειν ὑμᾶς ἐν ὑπομνήσει,"
+  },
+  {
+   "ref": "2PE 3:1",
+   "form": "ὑπομνήσει",
+   "morph": "N-DSF",
+   "gloss_en": "reminder",
+   "gloss_ja": "思い起こさせること",
+   "verse": "Ταύτην ἤδη, ἀγαπητοί, δευτέραν ὑμῖν γράφω ἐπιστολήν, ἐν αἷς διεγείρω ὑμῶν ἐν ὑπομνήσει τὴν εἰλικρινῆ διάνοιαν,"
+  },
+  {
+   "ref": "2TI 1:5",
+   "form": "ὑπόμνησιν",
+   "morph": "N-ASF",
+   "gloss_en": "remembering",
+   "gloss_ja": "思い起こさせること",
+   "verse": "ὑπόμνησιν λαβὼν τῆς ἐν σοὶ ἀνυποκρίτου πίστεως, ἥτις ἐνῴκησεν πρῶτον ἐν τῇ μάμμῃ σου Λωΐδι καὶ τῇ μητρί σου Εὐνίκῃ, πέπεισμαι δὲ ὅτι καὶ ἐν σοί."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Machabaeorum ii": 1,
+   "Sapientia Salomonis": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "6.17",
+    "form": "ὑπομνήσεως",
+    "postag": "n-s---fg-",
+    "sentence": "πλὴν ἕως ὑπομνήσεως ταῦθ’ ἡμῖν εἰρήσθω ·"
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "16.11",
+    "form": "ὑπόμνησιν",
+    "postag": "n-s---fa-",
+    "sentence": "εἰς γὰρ ὑπόμνησιν τῶν λογίων σου ἐνεκεντρίζοντο καὶ ὀξέως διεσώζοντο, ἵνα μὴ εἰς βαθεῖαν ἐμπεσόντες λήθην ἀπερίσπαστοι γένωνται τῆς σῆς εὐεργεσίας."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "3.8.9",
+    "form": "ὑπόμνησις",
+    "postag": "n-s---fn-",
+    "sentence": "ἀρκετή σοι ἡ ὑπόμνησις αὕτη καὶ τοῖς ἁγίοις καὶ ἡ ἀνακαίνωσις τῶν πνευμάτων ὑμῶν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3 ὑπό-μνησις, -εως, ἡ    (ὑπομιμνήσκω)    [in LXX: Ps 70 (71):6 א (תְּהִלָּה), Wi 16:11, II Mac 6:17 * ;]     a reminding, reminder: ἐν ὑ., II Pe 1:13 3:1; c. gen., II Ti 1:5.†"
+}

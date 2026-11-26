@@ -1,0 +1,262 @@
+{
+ "strong": "G1400",
+ "lemma": "δοῦλος",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ROM 6:19",
+   "form": "δοῦλα",
+   "morph": "A-APN",
+   "gloss_en": "slaves",
+   "gloss_ja": "奴隷",
+   "verse": "ἀνθρώπινον λέγω διὰ τὴν ἀσθένειαν τῆς σαρκὸς ὑμῶν· ὥσπερ γὰρ παρεστήσατε τὰ μέλη ὑμῶν δοῦλα τῇ ἀκαθαρσίᾳ καὶ τῇ ἀνομίᾳ εἰς τὴν ἀνομίαν, οὕτως νῦν παραστήσατε τὰ μέλη ὑμῶν δοῦλα τῇ δικαιοσύνῃ εἰς ἁγιασμόν."
+  },
+  {
+   "ref": "ROM 6:19",
+   "form": "δοῦλα",
+   "morph": "A-APN",
+   "gloss_en": "slaves",
+   "gloss_ja": "奴隷",
+   "verse": "ἀνθρώπινον λέγω διὰ τὴν ἀσθένειαν τῆς σαρκὸς ὑμῶν· ὥσπερ γὰρ παρεστήσατε τὰ μέλη ὑμῶν δοῦλα τῇ ἀκαθαρσίᾳ καὶ τῇ ἀνομίᾳ εἰς τὴν ἀνομίαν, οὕτως νῦν παραστήσατε τὰ μέλη ὑμῶν δοῦλα τῇ δικαιοσύνῃ εἰς ἁγιασμόν."
+  }
+ ],
+ "lxx": {
+  "total": 389,
+  "works": {
+   "Leviticus": 2,
+   "Deuteronomium": 1,
+   "Josue": 2,
+   "Judices": 4,
+   "Regnorum i": 43,
+   "Regnorum ii": 65,
+   "Regnorum iii": 55,
+   "Regnorum iv": 43,
+   "Paralipomenon i sive Chronicon i": 4,
+   "Paralipomenon ii sive Chronicon ii": 5,
+   "Esdras i": 1,
+   "Esdras ii": 21,
+   "Judith": 17,
+   "Machabaeorum i": 1,
+   "Machabaeorum ii": 5,
+   "Psalmi": 55,
+   "Odae": 6,
+   "Proverbia": 1,
+   "Ecclesiastes": 5,
+   "Job": 1,
+   "Sapientia Salomonis": 3,
+   "Psalmi Salomonis": 3,
+   "Amos": 1,
+   "Joel": 1,
+   "Jonas": 1,
+   "Aggaeus": 1,
+   "Zacharias": 2,
+   "Malachias": 2,
+   "Isaias": 10,
+   "Jeremias": 5,
+   "Threni seu Lamentationes": 1,
+   "Ezechiel": 6,
+   "Susanna": 1,
+   "Daniel": 15
+  },
+  "representatives": [
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "15.2",
+    "form": "δοῦλός",
+    "postag": "n-s---mn-",
+    "sentence": "ἐκ μιᾶς φυλῶν Ἰσραὴλ ὁ δοῦλός σου."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "2.39",
+    "form": "δοῦλοί",
+    "postag": "n-p---mn-",
+    "sentence": "ἰδοὺ οἱ δοῦλοί σου ἐν Γέθ."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "118.17",
+    "form": "δούλῳ",
+    "postag": "n-s---md-",
+    "sentence": "ἀνταπόδος τῷ δούλῳ σου ·"
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "8.17",
+    "form": "δοῦλοι",
+    "postag": "n-p---mn-",
+    "sentence": "καὶ ὑμεῖς ἔσεσθε αὐτῷ δοῦλοι."
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "6.3",
+    "form": "δούλων",
+    "postag": "n-p---mg-",
+    "sentence": "δεῦρο μετὰ τῶν δούλων σου ·"
+   },
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "19.14",
+    "form": "δούλου",
+    "postag": "n-s---mg-",
+    "sentence": "καὶ τὸ σάββατόν σου τὸ ἅγιον ἐγνώρισας αὐτοῖς, ἐντολὰς καὶ προστάγματα καὶ νόμον ἐνετείλω αὐτοῖς ἐν χειρὶ Μωυσῆ δούλου σου."
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "11.4",
+    "form": "δούλοις",
+    "postag": "n-p---md-",
+    "sentence": "οὐ γάρ ἐστιν ὃς ἀδικήσει σε, ἀλλ’ εὖ σε ποιήσει καθὰ γίνεται τοῖς δούλοις τοῦ κυρίου μου βασιλέως Ναβουχοδονόσορ."
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "6.21",
+    "form": "δοῦλος",
+    "postag": "n-s---mn-",
+    "sentence": "Δανιήλ, ὁ δοῦλος τοῦ Θεοῦ τοῦ ζῶντος, ὁ Θεός σου, ᾧ σὺ λατρεύεις ἐνδελεχῶς, εἰ ἠδυνήθη ἐξελέσθαι σε ἐκ τοῦ στόματος τῶν λεόντων;"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "48.20",
+    "form": "δοῦλον",
+    "postag": "n-s---ma-",
+    "sentence": "ἐρρύσατο Κύριος τὸν δοῦλον αὐτοῦ Ἰακώβ ·"
+   },
+   {
+    "work_code": "ODE",
+    "work_ja": "頌歌（オード）",
+    "work_src": "Odae",
+    "ref": "14.29",
+    "form": "δοῦλόν",
+    "postag": "n-s---ma-",
+    "sentence": "νῦν ἀπολύεις τὸν δοῦλόν σου, δέσποτα, κατὰ τὸ ῥῆμά σου ἐν εἰρήνῃ, ὅτι εἶδον οἱ ὀφθαλμοί μου τὸ σωτήριόν σου, ὃ ἡτοίμασας κατὰ πρόσωπον πάντων τῶν λαῶν, φῶς εἰς ἀποκάλυψιν ἐθνῶν καὶ δόξαν λαοῦ σου Ισραηλ."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "37.24",
+    "form": "δοῦλός",
+    "postag": "n-s---mn-",
+    "sentence": "καὶ ὁ δοῦλός μου Δαυὶδ ἄρχων ἐν μέσῳ αὐτῶν ἔσται ποιμὴν εἷς πάντων ·"
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "28.10",
+    "form": "δούλους",
+    "postag": "n-p---ma-",
+    "sentence": "καὶ νῦν υἱοὺς Ἰούδα καὶ Ἱερουσαλὴμ ὑμεῖς λέγετε κατακτήσασθαι εἰς δούλους καὶ δούλας ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 74,
+  "works": {
+   "Barnabas": 1,
+   "1 Clement": 1,
+   "2 Clement": 1,
+   "Didache": 2,
+   "Hermas, Pastor": 65,
+   "Ignatius, Letters": 3,
+   "Martyrdom of Polycarp": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "22.5.2",
+    "form": "δοῦλος",
+    "postag": "n-s---mn-",
+    "sentence": "ὁ δὲ δοῦλος ὁ υἱὸς τοῦ θεοῦ ἐστιν ·"
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "7.4.3",
+    "form": "δούλους",
+    "postag": "n-p---ma-",
+    "sentence": "δούλους καὶ δούλας μὴ ὑπερηφάνει ·"
+   },
+   {
+    "work_code": "DID",
+    "work_ja": "ディダケー",
+    "work_src": "Didache",
+    "ref": "4.11",
+    "form": "δοῦλοι",
+    "postag": "n-p---mn-",
+    "sentence": "ὑμεῖς δὲ οἱ δοῦλοι ὑποταγήσεσθε τοῖς κυρίοις ὑμῶν ὡς τύπῳ θεοῦ ἐν αἰσχύνῃ καὶ φόβῳ."
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "19.7",
+    "form": "δούλῳ",
+    "postag": "n-s---md-",
+    "sentence": "οὐ μὴ ἐπιτάξῃς δούλῳ σου ἡ παιδίσκῃ ἐν πικρίᾳ, τοῖς ἐπὶ τὸν αὐτὸν θεὸν ἐλπίζουσιν, μή ποτε οὐ μὴ φοβηθήσονται τὸν ἐπ’ ἀμφοτέροις θεόν ·"
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "60.2",
+    "form": "δούλων",
+    "postag": "n-p---mg-",
+    "sentence": "μὴ λογίσῃ πᾶσαν ἁμαρτίαν δούλων σου καὶ παιδισκῶν, ἀλλὰ καθάρισον ἡμᾶς τὸν καθαρισμὸν τῆς σῆς ἀληθείας, καὶ κατεύθυνον τὰ διαβήματα ἡμῶν ἐν ὁσιότητι καρδίας πορεύεσθαι καὶ ποιεῖν τὰ καλὰ καὶ εὐάρεστα ἐνώπιόν σου καὶ ἐνώπιον τῶν ἀρχόντων ἡμῶν."
+   },
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "20.1",
+    "form": "δούλους",
+    "postag": "n-p---ma-",
+    "sentence": "ἀλλὰ μη-δὲ ἐκεῖνο τὴν διάνοιαν ὑμῶν ταρασσέτω, ὅτι βλέπομεν τοὺς ἀδίκους πλουτοῦντας καὶ στενοχωρουμένους τοὺς τοῦ θεοῦ δούλους."
+   },
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "20.1",
+    "form": "δούλων",
+    "postag": "n-p---mg-",
+    "sentence": "μαθόντες οὖν ταῦτα καὶ τοῖς ἐπέκεινα ἀδελφοῖς τὴν ἐπιστολὴν διαπέμψασθε, ἵνα καὶ ἐκεῖνοι δοξάζωσιν τὸν κύριον τὸν ἐκλογὰς ποιοῦντα ἀπὸ τῶν ἰδίων δούλων."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "9.1.8",
+    "form": "δούλοις",
+    "postag": "n-p---md-",
+    "sentence": "τοῖς γὰρ δούλοις τοῦ θεοῦ μετάνοιά ἐστιν μία."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": null
+}

@@ -1,0 +1,179 @@
+{
+ "strong": "G5504",
+ "lemma": "ἐχθές",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": "χθες",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 7:28",
+   "form": "ἐχθὲς",
+   "morph": "ADV",
+   "gloss_en": "yesterday",
+   "gloss_ja": "昨日",
+   "verse": "μὴ ἀνελεῖν με σὺ θέλεις ὃν τρόπον ἀνεῖλες ἐχθὲς τὸν Αἰγύπτιον;"
+  },
+  {
+   "ref": "HEB 13:8",
+   "form": "ἐχθὲς",
+   "morph": "ADV",
+   "gloss_en": "yesterday",
+   "gloss_ja": "昨日",
+   "verse": "Ἰησοῦς Χριστὸς ἐχθὲς καὶ σήμερον ὁ αὐτός, καὶ εἰς τοὺς αἰῶνας."
+  },
+  {
+   "ref": "JHN 4:52",
+   "form": "Ἐχθὲς",
+   "morph": "ADV",
+   "gloss_en": "yesterday",
+   "gloss_ja": "昨日",
+   "verse": "ἐπύθετο οὖν τὴν ὥραν παρ’ αὐτῶν ἐν ᾗ κομψότερον ἔσχεν· εἶπαν οὖν αὐτῷ ὅτι Ἐχθὲς ὥραν ἑβδόμην ἀφῆκεν αὐτὸν ὁ πυρετός."
+  }
+ ],
+ "lxx": {
+  "total": 24,
+  "works": {
+   "Genesis": 4,
+   "Josue": 2,
+   "Ruth": 1,
+   "Regnorum i": 6,
+   "Regnorum ii": 3,
+   "Regnorum iv": 2,
+   "Paralipomenon i sive Chronicon i": 1,
+   "Machabaeorum i": 1,
+   "Psalmi": 1,
+   "Job": 1,
+   "Ecclesiasticus sive Siracides": 1,
+   "Susanna": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "21.5",
+    "form": "ἐχθὲς",
+    "postag": "d--------",
+    "sentence": "ἀλλὰ ἀπὸ γυναικὸς ἀπεσχήμεθα ἐχθὲς καὶ τρίτην ἡμέραν ·"
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "31.42",
+    "form": "ἐχθές",
+    "postag": "d--------",
+    "sentence": "τὴν ταπείνωσίν μου καὶ τὸν κόπον τῶν χειρῶν μου εἶδεν ὁ Θεὸς καὶ ἤλεγξέ σε ἐχθές."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "15.20",
+    "form": "ἐχθὲς",
+    "postag": "d--------",
+    "sentence": "εἰ ἐχθὲς παραγέγονας, καὶ σήμερον κινήσω σε μεθ’ ἡμῶν;"
+   },
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "3.4",
+    "form": "ἐχθὲς",
+    "postag": "d--------",
+    "sentence": "οὐ γὰρ πεπόρευσθε τὴν ὁδὸν ἀπ’ ἐχθὲς καὶ τρίτης ἡμέρας."
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "13.5",
+    "form": "ἐχθὲς",
+    "postag": "d--------",
+    "sentence": "καὶ ἐκάθισαν οἱ υἱοὶ Ἰσραὴλ ἐν τοῖς σκηνώμασιν αὐτῶν καθὼς ἐχθὲς καὶ τρίτης ·"
+   },
+   {
+    "work_code": "RUT",
+    "work_ja": "ルツ記",
+    "work_src": "Ruth",
+    "ref": "2.11",
+    "form": "ἐχθὲς",
+    "postag": "d--------",
+    "sentence": "ἀπαγγελίᾳ ἀπηγγέλη μοι ὅσα πεποίηκας μετὰ τῆς πενθερᾶς σου μετὰ τὸ ἀποθανεῖν τὸν ἄνδρα σου καὶ πῶς κατέλιπες τὸν πατέρα σου καὶ τὴν μητέρα σου καὶ τὴν γῆν γενέσεώς σου καὶ ἐπορεύθης πρὸς λαόν, ὃν οὐκ ᾔδεις ἐχθὲς καὶ τρίτης ·"
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "11.2",
+    "form": "ἐχθὲς",
+    "postag": "d--------",
+    "sentence": "καὶ ἐχθὲς καὶ τρίτην ὄντος Σαοὺλ βασιλέως, σὺ ἦσθα ὁ ἐξάγων καὶ εἰσάγων τὸν Ἰσραήλ, καὶ εἶπεν Ἰσραὴλ Κύριός σοι ·"
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "9.44",
+    "form": "ἐχθὲς",
+    "postag": "d--------",
+    "sentence": "ἀναστῶμεν νῦν καὶ πολεμήσωμεν ὑπὲρ τῶν ψυχῶν ἡμῶν, οὐ γάρ ἐστι σήμερον ὡς ἐχθὲς καὶ τρίτην ἡμέραν ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "89.4",
+    "form": "ἐχθές",
+    "postag": "d--------",
+    "sentence": "ὅτι χίλια ἔτη ἐν ὀφθαλμοῖς σου ὡς ἡμέρα ἡ ἐχθές, ἥτις διῆλθε, καὶ φυλακὴ ἐν νυκτί."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "30.3",
+    "form": "ἐχθὲς",
+    "postag": "d--------",
+    "sentence": "οἱ φεύγοντες ἄνυδρον ἐχθὲς συνοχὴν καὶ ταλαιπωρίαν, οἱ περικυκλοῦντες ἅλιμα ἐπὶ ἠχοῦντι, οἵτινες ἅλιμα ἦν αὐτῶν τὰ σῖτα, ἄτιμοι δὲ καὶ πεφαυλισμένοι, ἐνδεεῖς παντὸς ἀγαθοῦ, οἳ καὶ ρίζας ξύλων ἐμασσῶντο ὑπὸ λιμοῦ μεγάλου."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "38.22",
+    "form": "ἐχθὲς",
+    "postag": "d--------",
+    "sentence": "ἐμοὶ ἐχθὲς καὶ σοὶ σήμερον."
+   },
+   {
+    "work_code": "SUS",
+    "work_ja": "スザンナ（Th）",
+    "work_src": "Susanna",
+    "ref": "15",
+    "form": "ἐχθὲς",
+    "postag": "d--------",
+    "sentence": "καὶ ἐγένετο ἐν τῷ παρατηρεῖν αὐτοὺς ἡμέραν εὔθετον εἰσῆλθέ ποτε καθὼς ἐχθὲς καὶ τρίτης ἡμέρας μετὰ δύο μόνων κορασίων καὶ ἐπεθύμησε λούσασθαι ἐν τῷ παραδείσῳ, ὅτι καῦμα ἦν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "1 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "4.10",
+    "form": "ἐχθὲς",
+    "postag": "d--------",
+    "sentence": "μὴ ἀνελεῖν με σὺ θέλεις, ὃν τρόπον ἀνεῖλες ἐχθὲς τὸν Λἰγύπτιον;"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3 (KJV) ἐχθές (Rec. χθές),   adv.,      [in LXX for תְּמוֹל, etc.;]    yesterday: Jo 4:52, Ac 7:28, He 13:8 (on the form, v. Rutherford, NPhr., 370 f.).†"
+}

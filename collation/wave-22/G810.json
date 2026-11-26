@@ -1,0 +1,67 @@
+{
+ "strong": "G810",
+ "lemma": "ἀσωτία",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1PE 4:4",
+   "form": "ἀσωτίας",
+   "morph": "N-GSF",
+   "gloss_en": "dissipation",
+   "gloss_ja": "放蕩",
+   "verse": "ἐν ᾧ ξενίζονται μὴ συντρεχόντων ὑμῶν εἰς τὴν αὐτὴν τῆς ἀσωτίας ἀνάχυσιν, βλασφημοῦντες·"
+  },
+  {
+   "ref": "EPH 5:18",
+   "form": "ἀσωτία",
+   "morph": "N-NSF",
+   "gloss_en": "debauchery",
+   "gloss_ja": "放蕩",
+   "verse": "καὶ μὴ μεθύσκεσθε οἴνῳ, ἐν ᾧ ἐστιν ἀσωτία, ἀλλὰ πληροῦσθε ἐν πνεύματι,"
+  },
+  {
+   "ref": "TIT 1:6",
+   "form": "ἀσωτίας",
+   "morph": "N-GSF",
+   "gloss_en": "dissipation",
+   "gloss_ja": "放蕩",
+   "verse": "εἴ τίς ἐστιν ἀνέγκλητος, μιᾶς γυναικὸς ἀνήρ, τέκνα ἔχων πιστά, μὴ ἐν κατηγορίᾳ ἀσωτίας ἢ ἀνυπότακτα."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Machabaeorum ii": 1,
+   "Proverbia": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "6.4",
+    "form": "ἀσωτίας",
+    "postag": "n-s---fg-",
+    "sentence": "τὸ μὲν γὰρ ἱερὸν ἀσωτίας καὶ κώμων ἐπεπλήρωτο ὑπὸ τῶν ἐθνῶν ραθυμούντων μεθ’ ἑταιρῶν καὶ ἐν τοῖς ἱεροῖς περιβόλοις γυναιξὶ πλησιαζόντων, ἔτι δὲ τὰ μὴ καθήκοντα ἔνδον φερόντων."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "28.7",
+    "form": "ἀσωτίαν",
+    "postag": "n-s---fa-",
+    "sentence": "φυλάσσει νόμον υἱὸς συνετός, ὃς δὲ ποιμαίνει ἀσωτίαν ἀτιμάζει πατέρα."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "3   ἀσωτία, -ας, ἡ    (< ἀ- neg., σώζω),   [in LXX: Pr 28:7 (זלל), II Mac 6:4*;]    prodigality, wastefulness, profligacy: Eph 5:18, Tit 1:6, I Pe 4:4 (MM, s.v.).†   SYN.: ἀσέλγεια, q.v."
+}

@@ -1,0 +1,164 @@
+{
+ "strong": "G4867",
+ "lemma": "ἀθροίζω",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 12:12",
+   "form": "συνηθροισμένοι",
+   "morph": "V-RPP-NPM",
+   "gloss_en": "gathered together",
+   "gloss_ja": "集める",
+   "verse": "Συνιδών τε ἦλθεν ἐπὶ τὴν οἰκίαν τῆς Μαρίας τῆς μητρὸς Ἰωάννου τοῦ ἐπικαλουμένου Μάρκου, οὗ ἦσαν ἱκανοὶ συνηθροισμένοι καὶ προσευχόμενοι."
+  },
+  {
+   "ref": "ACT 19:25",
+   "form": "συναθροίσας",
+   "morph": "V-AAP-NSM",
+   "gloss_en": "gathered together",
+   "gloss_ja": "集める",
+   "verse": "οὓς συναθροίσας καὶ τοὺς περὶ τὰ τοιαῦτα ἐργάτας εἶπεν· Ἄνδρες, ἐπίστασθε ὅτι ἐκ ταύτης τῆς ἐργασίας ἡ εὐπορία ἡμῖν ἐστιν,"
+  },
+  {
+   "ref": "LUK 24:33",
+   "form": "ἠθροισμένους",
+   "morph": "V-RPP-APM",
+   "gloss_en": "gathered together",
+   "gloss_ja": "集める",
+   "verse": "καὶ ἀναστάντες αὐτῇ τῇ ὥρᾳ ὑπέστρεψαν εἰς Ἰερουσαλήμ, καὶ εὗρον ἠθροισμένους τοὺς ἕνδεκα καὶ τοὺς σὺν αὐτοῖς,"
+  }
+ ],
+ "lxx": {
+  "total": 15,
+  "works": {
+   "Genesis": 1,
+   "Numeri": 1,
+   "Regnorum i": 1,
+   "Regnorum iv": 1,
+   "Paralipomenon i sive Chronicon i": 1,
+   "Machabaeorum i": 6,
+   "Machabaeorum iii": 2,
+   "Jeremias": 1,
+   "Ezechiel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "9.28",
+    "form": "ἠθροίσθησαν",
+    "postag": "v3paip---",
+    "sentence": "καὶ ἠθροίσθησαν πάντες οἱ φίλοι Ἰούδα καὶ εἶπον τῷ Ἰωνάθαν ·"
+   },
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "6.25",
+    "form": "ἤθροισεν",
+    "postag": "v3saia---",
+    "sentence": "τίς τοὺς κρατήσαντας ἡμῶν ἐν πίστει τὰ τῆς χώρας ὀχυρώματα, τῆς οἰκίας ἀποστήσας ἕκαστον ἀλόγως ἤθροισεν ἐνθάδε;"
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "49.2",
+    "form": "ἀθροίσθητε",
+    "postag": "v2paip---",
+    "sentence": "ἀθροίσθητε καὶ ἀκούσατέ μου, υἱοὶ Ἰακώβ, ἀκούσατε Ἰσραὴλ τοῦ πατρὸς ὑμῶν."
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "20.2",
+    "form": "ἠθροίσθησαν",
+    "postag": "v3paip---",
+    "sentence": "καὶ οὐκ ἦν ὕδωρ τῇ συναγωγῇ, καὶ ἠθροίσθησαν ἐπὶ Μωυσῆν καὶ Ἀαρών."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "7.5",
+    "form": "ἀθροίσατε",
+    "postag": "v2pama---",
+    "sentence": "ἀθροίσατε πάντα Ἰσραὴλ εἰς Μασσηφάθ, καὶ προσεύξομαι περὶ ὑμῶν πρὸς Κύριον."
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "6.24",
+    "form": "ἤθροισεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἐγένετο μετὰ ταῦτα καὶ ἤθροισεν υἱὸς Ἄδερ βασιλεὺς Συρίας πᾶσαν τὴν παρεμβολὴν αὐτοῦ καὶ ἀνέβη καὶ περιεκάθισεν ἐπὶ Σαμάρειαν."
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "16.35",
+    "form": "ἄθροισον",
+    "postag": "v2sama---",
+    "sentence": "σῶσον ἡμᾶς, ὁ Θεὸς τῆς σωτηρίας ἡμῶν, καὶ ἄθροισον ἡμᾶς, καὶ ἐξελοῦ ἡμᾶς ἐκ τῶν ἐθνῶν τοῦ αἰνεῖν τὸ ὄνομα τὸ ἅγιόν σου καὶ καυχᾶσθαι ἐν ταῖς αἰνέσεσί σου."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "18.21",
+    "form": "ἄθροισον",
+    "postag": "v2sama---",
+    "sentence": "διὰ τοῦτο δὸς τοὺς υἱοὺς αὐτῶν εἰς λιμὸν καὶ ἄθροισον αὐτοὺς εἰς χεῖρας μαχαίρας ·"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "36.24",
+    "form": "ἀθροίσω",
+    "postag": "v1sfia---",
+    "sentence": "καὶ λήψομαι ὑμᾶς ἐκ τῶν ἐθνῶν καὶ ἀθροίσω ὑμᾶς ἐκ πασῶν τῶν γαιῶν καὶ εἰσάξω ὑμᾶς εἰς τὴν γῆν ὑμῶν."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "13.2",
+    "form": "ἤθροισε",
+    "postag": "v3saia---",
+    "sentence": "καὶ εἶδε τὸν λαὸν ὅτι ἐστὶν ἔντρομος καὶ ἔμφοβος, καὶ ἀνέβη εἰς Ἱερουσαλὴμ καὶ ἤθροισε τὸν λαὸν καὶ παρεκάλεσεν αὐτοὺς καὶ εἶπεν αὐτοῖς ·"
+   },
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "1.20",
+    "form": "ἠθροίζοντο",
+    "postag": "v3piim---",
+    "sentence": "τὰ δὲ νεογνὰ τῶν τέκνων, αἵ τε πρὸς τούτοις μητέρες καὶ τιθηνοὶ παραλιποῦσαι ἄλλως καὶ ἄλλως, αἱ μὲν κατ’ οἴκους, αἱ δὲ κατὰ τὰς ἀγυιάς, ἀνεπιστρέπτως εἰς τὸ πανυπέρτατον ἱερὸν ἠθροίζοντο."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "3.13",
+    "form": "ἤθροισεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἤκουσε Σήρων ὁ ἄρχων τῆς δυνάμεως Συρίας ὅτι ἤθροισεν Ἰούδας ἄθροισμα καὶ ἐκκλησίαν πιστῶν μετ’ αὐτοῦ ἐκπορευομένων εἰς πόλεμον, καὶ εἶπε ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2 συν-αθροίζω     [in LXX chiefly for קבץ ;]     to gather together, assemble: c. acc. pers., Ac 19:25; pass., Ac 12:12.†"
+}

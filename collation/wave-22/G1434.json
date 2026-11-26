@@ -1,0 +1,70 @@
+{
+ "strong": "G1434",
+ "lemma": "δώρημα",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JAS 1:17",
+   "form": "δώρημα",
+   "morph": "N-NSN",
+   "gloss_en": "gift",
+   "gloss_ja": "賜物",
+   "verse": "Πᾶσα δόσις ἀγαθὴ καὶ πᾶν δώρημα τέλειον ἄνωθέν ἐστιν, καταβαῖνον ἀπὸ τοῦ πατρὸς τῶν φώτων, παρ’ ᾧ οὐκ ἔνι παραλλαγὴ ἢ τροπῆς ἀποσκίασμα."
+  },
+  {
+   "ref": "ROM 5:16",
+   "form": "δώρημα",
+   "morph": "N-NSN",
+   "gloss_en": "gift",
+   "gloss_ja": "賜物",
+   "verse": "καὶ οὐχ ὡς δι’ ἑνὸς ἁμαρτήσαντος τὸ δώρημα· τὸ μὲν γὰρ κρίμα ἐξ ἑνὸς εἰς κατάκριμα, τὸ δὲ χάρισμα ἐκ πολλῶν παραπτωμάτων εἰς δικαίωμα."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Ecclesiasticus sive Siracides": 1
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "34.18",
+    "form": "δωρήματα",
+    "postag": "n-p---nn-",
+    "sentence": "θυσιάζων ἐξ ἀδίκου, προσφορὰ μεμωκημένη, καὶ οὐκ εἰς εὐδοκίαν δωρήματα ἀνόμων."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "Hermas, Pastor": 2
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "7.1.4",
+    "form": "δωρημάτων",
+    "postag": "n-p---ng-",
+    "sentence": "πᾶσιν γάρ ὁ θεὸς δίδοσθαι θέλει ἐκ τῶν ἰδίων δωρημάτων."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "19.1.7",
+    "form": "δωρημάτων",
+    "postag": "n-p---ng-",
+    "sentence": "καὶ τοῦτο ἔργον μέγα ἐστὶ καὶ δεκτὸν παρὰ τῷ θεῷ, ὅτι συνῆκεν ἐπὶ τῷ πλούτῳ αὐτοῦ καὶ εἰργάσατο εἰς τὸν πένητα ἐκ τῶν δωρημάτων τοῦ κυρίου καὶ ἐτέλεσε τὴν διακονίαν ὀρθῶς."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   ** δώρημα, -τος, τό    (< δωρέω),    [in LXX: Si 31 (34):18* ;]    a gift, boon: Ro 5:16, Ja 1:17.†   SYN.: v.s. δόμα."
+}

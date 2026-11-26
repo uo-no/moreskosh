@@ -1,0 +1,197 @@
+{
+ "strong": "G482",
+ "lemma": "ἀντιλαμβάνομαι",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": "αντιλαμβανω",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1TI 6:2",
+   "form": "ἀντιλαμβανόμενοι",
+   "morph": "V-PNP-NPM",
+   "gloss_en": "benefit",
+   "gloss_ja": "助ける",
+   "verse": "οἱ δὲ πιστοὺς ἔχοντες δεσπότας μὴ καταφρονείτωσαν, ὅτι ἀδελφοί εἰσιν· ἀλλὰ μᾶλλον δουλευέτωσαν, ὅτι πιστοί εἰσιν καὶ ἀγαπητοὶ οἱ τῆς εὐεργεσίας ἀντιλαμβανόμενοι. Ταῦτα δίδασκε καὶ παρακάλει."
+  },
+  {
+   "ref": "ACT 20:35",
+   "form": "ἀντιλαμβάνεσθαι",
+   "morph": "V-PNN",
+   "gloss_en": "help",
+   "gloss_ja": "助ける",
+   "verse": "πάντα ὑπέδειξα ὑμῖν ὅτι οὕτως κοπιῶντας δεῖ ἀντιλαμβάνεσθαι τῶν ἀσθενούντων, μνημονεύειν τε τῶν λόγων τοῦ κυρίου Ἰησοῦ ὅτι αὐτὸς εἶπεν Μακάριόν ἐστιν μᾶλλον διδόναι ἢ λαμβάνειν."
+  },
+  {
+   "ref": "LUK 1:54",
+   "form": "ἀντελάβετο",
+   "morph": "V-2ADI-3S",
+   "gloss_en": "helped",
+   "gloss_ja": "助ける",
+   "verse": "ἀντελάβετο Ἰσραὴλ παιδὸς αὐτοῦ, μνησθῆναι ἐλέους,"
+  }
+ ],
+ "lxx": {
+  "total": 54,
+  "works": {
+   "Genesis": 1,
+   "Leviticus": 1,
+   "Regnorum iii": 2,
+   "Paralipomenon i sive Chronicon i": 1,
+   "Paralipomenon ii sive Chronicon ii": 5,
+   "Judith": 1,
+   "Machabaeorum i": 1,
+   "Machabaeorum ii": 1,
+   "Psalmi": 13,
+   "Odae": 1,
+   "Proverbia": 1,
+   "Sapientia Salomonis": 1,
+   "Ecclesiasticus sive Siracides": 6,
+   "Psalmi Salomonis": 2,
+   "Michaeas": 1,
+   "Isaias": 9,
+   "Jeremias": 1,
+   "Baruch": 1,
+   "Ezechiel": 4,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "3.6",
+    "form": "ἀντιλήψεταί",
+    "postag": "v3sfim---",
+    "sentence": "ἐξηγέρθην, ὅτι Κύριος ἀντιλήψεταί μου."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "42.1",
+    "form": "ἀντιλήψομαι",
+    "postag": "v1sfim---",
+    "sentence": "Ἰακὼβ ὁ παῖς μου, ἀντιλήψομαι αὐτοῦ ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "12.7",
+    "form": "ἀντιλάβου",
+    "postag": "v2saim---",
+    "sentence": "δὸς τῷ ἀγαθῷ καὶ μὴ ἀντιλάβου τοῦ ἁμαρτωλοῦ."
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "28.23",
+    "form": "ἀντιλήψονταί",
+    "postag": "v3pfim---",
+    "sentence": "καὶ εἶπεν ὅτι θεοὶ βασιλέως Συρίας αὐτοὶ κατισχύσουσιν αὐτούς, αὐτοῖς τοίνυν θύσω, καὶ ἀντιλήψονταί μου."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "16.49",
+    "form": "ἀντελαμβάνοντο",
+    "postag": "v3piim---",
+    "sentence": "τοῦτο ὑπῆρχεν αὐτῇ καὶ ταῖς θυγατράσιν αὐτῆς, καὶ χεῖρα πτωχοῦ καὶ πένητος οὐκ ἀντελαμβάνοντο."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "9.11",
+    "form": "ἀντελάβετο",
+    "postag": "v3saim---",
+    "sentence": "εἴκοσιν ἔτη ἐν οἷς ᾠκοδόμησε Σαλωμὼν τοὺς δύο οἴκους, τὸν οἶκον Κυρίου καὶ τὸν οἶκον τοῦ βασιλέως, Χιρὰμ ὁ βασιλεὺς Τύρου ἀντελάβετο τοῦ Σαλωμὼν ἐν ξύλοις κεδρίνοις καὶ ἐν ξύλοις πευκίνοις καὶ ἐν χρυσίῳ καὶ ἐν παντὶ θελήματι αὐτοῦ."
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "16.5",
+    "form": "ἀντελάβου",
+    "postag": "v2saim---",
+    "sentence": "ἐξομολογήσομαί σοι, ὁ θεός, ὅτι ἀντελάβου μου εἰς σωτηρίαν καὶ οὐκ ἐλογίσω με μετὰ τῶν ἁμαρτωλῶν εἰς ἀπώλειαν."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "48.17",
+    "form": "ἀντελάβετο",
+    "postag": "v3saim---",
+    "sentence": "ἰδὼν δὲ Ἰωσὴφ ὅτι ἐπέβαλεν ὁ πατὴρ αὐτοῦ τὴν χεῖρα τὴν δεξιὰν αὐτοῦ ἐπὶ τὴν κεφαλὴν Ἐφραΐμ, βαρὺ αὐτῷ κατεφάνη, καὶ ἀντελάβετο Ἰωσὴφ τῆς χειρὸς τοῦ πατρὸς αὐτοῦ ἀφελεῖν αὐτὴν ἀπὸ τῆς κεφαλῆς Ἐφραΐμ ἐπὶ τὴν κεφαλὴν Μανασσῆ."
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "25.35",
+    "form": "ἀντιλήψῃ",
+    "postag": "v2sfim---",
+    "sentence": "ἐὰν δὲ πένηται ὁ ἀδελφός σου ὁ μετὰ σοῦ καὶ ἀδυνατήσῃ ταῖς χερσὶ παρὰ σοί, ἀντιλήψῃ αὐτοῦ ὡς προσηλύτου καὶ παροίκου καὶ ζήσεται ὁ ἀδελφός σου μετὰ σοῦ."
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "22.17",
+    "form": "ἀντιλαβέσθαι",
+    "postag": "v--anm---",
+    "sentence": "καὶ ἐνετείλατο Δαυὶδ τοῖς πᾶσιν ἄρχουσιν Ἰσραὴλ ἀντιλαβέσθαι τῷ Σαλωμὼν υἱῷ αὐτοῦ ·"
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "13.5",
+    "form": "ἀντιλαβέσθαι",
+    "postag": "v--anm---",
+    "sentence": "ὅτι νῦν καιρὸς ἀντιλαβέσθαι τῆς κληρονομίας σου καὶ ποιῆσαι τὸ ἐπιτήδευμά μου εἰς θραῦμα ἐχθρῶν, οἵ ἐπανέστησαν ἡμῖν."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "2.48",
+    "form": "ἀντελάβοντο",
+    "postag": "v3paim---",
+    "sentence": "καὶ ἀντελάβοντο τοῦ νόμου ἐκ χειρὸς τῶν ἐθνῶν καὶ ἐκ χειρὸς τῶν βασιλέων καὶ οὐκ ἔδωκαν κέρας τῷ ἁμαρτωλῷ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "Hermas, Pastor": 1,
+   "Martyrdom of Polycarp": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "3.9.2",
+    "form": "ἀντιλαμβάνεσθε",
+    "postag": "v2ppmm---",
+    "sentence": "νῦν οὖν ἀκούσατέ μου καὶ εἰρηνεύετε ἐν ἑαυτοῖς καὶ ἐπισκέπτεσθε ἀλλήλους καὶ ἀντιλαμβάνεσθε ἀλλήλων, καὶ μὴ μόνοι τὰ κτίσματα τοῦ θεοῦ μεταλαμβάνετε ἐκ καταχύματος, ἀλλὰ μεταδίδοτε καὶ τοῖς ὑστερουμένοις ·"
+   },
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "15.2",
+    "form": "ἀντελαβόμεθα",
+    "postag": "v1paim---",
+    "sentence": "καὶ γὰρ εὐωδίας τοσαύτης ἀντελαβόμεθα, ὡς λιβανωτοῦ πνέοντος ἢ ἄλλου τινὸς τῶν τιμίων ἀρωμάτων."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3 ἀντι-λαμβάνω,    [freq. in LXX for חזק hi., תּמךְ, etc;]      to take instead of or in turn. Mid., c. gen., to take hold of;     of persons, to help (v. MM, VGT, s.v.): Lk 1:54, Ac 20:35;     of things, to partake of: I Ti 6:2 (v. Field, Notes, 210; Cremer, 386; and cf. συν-αντιλαμβάνω).†"
+}

@@ -1,0 +1,61 @@
+{
+ "strong": "G1296",
+ "lemma": "διαταγή",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 7:53",
+   "form": "διαταγὰς",
+   "morph": "N-APF",
+   "gloss_en": "direction",
+   "gloss_ja": "命令",
+   "verse": "οἵτινες ἐλάβετε τὸν νόμον εἰς διαταγὰς ἀγγέλων, καὶ οὐκ ἐφυλάξατε."
+  },
+  {
+   "ref": "ROM 13:2",
+   "form": "διαταγῇ",
+   "morph": "N-DSF",
+   "gloss_en": "ordinance",
+   "gloss_ja": "命令",
+   "verse": "ὥστε ὁ ἀντιτασσόμενος τῇ ἐξουσίᾳ τῇ τοῦ θεοῦ διαταγῇ ἀνθέστηκεν, οἱ δὲ ἀνθεστηκότες ἑαυτοῖς κρίμα λήμψονται."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Esdras ii": 1
+  },
+  "representatives": [
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "4.11",
+    "form": "διαταγὴ",
+    "postag": "n-s---fn-",
+    "sentence": "αὕτη ἡ διαταγὴ τῆς ἐπιστολῆς ἧς ἀπέστειλαν πρὸς αὐτόν ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "1 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "20.3",
+    "form": "διαταγὴν",
+    "postag": "n-s---fa-",
+    "sentence": "ἥλιός τε καὶ σελήνη, ἀστέρων τε χοροὶ κατὰ τὴν διαταγὴν αὐτοῦ ἐν ὁμονοίᾳ δίχα πάσης παρεκβάσεως ἐξελίσσουσιν τοὺς ἐπιτεταγμένους αὐτοῖς ὁρισμούς."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   † δια-ταγή, -ῆς, ἡ    (< διατάσσω),    [in LXX: II Es 4:11 (פַּרְשֶׁגֶן)* ;]      in late writers (Deiss., LAE, 86 ff.) for cl. διάταξις (wh., however, is found in LXX, Ps 118 (119):91, al.);    disposition (cf. διάταξις for צְבָא; Sm., IV Ki 23:4, Je 8:2 19:13); εἰς διαταγὰς ἀγγέλων, AV, by the disposition of angels (Alf., in l., Field, Notes, 116; but v. infr.): Ac 7:53;      ordinance (C. I. 3465): Ro 13:2, Ac 7:53, R, txt. (and v. mg.; Page and EGT, in l.; but also v. supr.).†"
+}

@@ -1,0 +1,66 @@
+{
+ "strong": "G4800",
+ "lemma": "συζάω",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2CO 7:3",
+   "form": "συζῆν",
+   "morph": "V-PAN",
+   "gloss_en": "live together",
+   "gloss_ja": "共に生きる",
+   "verse": "πρὸς κατάκρισιν οὐ λέγω, προείρηκα γὰρ ὅτι ἐν ταῖς καρδίαις ἡμῶν ἐστε εἰς τὸ συναποθανεῖν καὶ συζῆν."
+  },
+  {
+   "ref": "2TI 2:11",
+   "form": "συζήσομεν",
+   "morph": "V-FAI-1P",
+   "gloss_en": "live with",
+   "gloss_ja": "共に生きる",
+   "verse": "πιστὸς ὁ λόγος· εἰ γὰρ συναπεθάνομεν, καὶ συζήσομεν·"
+  },
+  {
+   "ref": "ROM 6:8",
+   "form": "συζήσομεν",
+   "morph": "V-FAI-1P",
+   "gloss_en": "live with",
+   "gloss_ja": "共に生きる",
+   "verse": "εἰ δὲ ἀπεθάνομεν σὺν Χριστῷ, πιστεύομεν ὅτι καὶ συζήσομεν αὐτῷ·"
+  }
+ ],
+ "lxx": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "Hermas, Pastor": 2
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "25.9.3",
+    "form": "συζῶντες",
+    "postag": "v-pppamn-",
+    "sentence": "ἕτεροι δὲ εἰς τέλος μετὰ τῶν ἐθνῶν συζῶντες καὶ φθειρόμενοι ταῖς κενοδοξίαις τῶν ἐθνῶν ἀπέστησαν ἀπὸ τοῦ θεοῦ καὶ ἔπραξαν τὰς πράξεις τῶν ἐθνῶν."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "25.9.1",
+    "form": "συνέζησαν",
+    "postag": "v3paia---",
+    "sentence": "ὑπερηφανίαν μεγάλην ἐνεδύσαντο καὶ ὑψηλόφρονες ἐγένοντο καὶ κατέλιπον τὴν ἀλήθειαν καὶ οὐκ ἐκολλήθησαν τοῖς δικαίοις, ἀλλὰ μετὰ τῶν ἐθνῶν συνέζησαν, καὶ αὕτη ἡ ὁδὸς ἡδυτέρα αὐτοῖς ἐγένετο ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3 * συν-ζάω (Rec. συζ-),    to live with: opp. to συναποθανεῖν, II Co 7:3; of life in union with Christ, here and hereafter, Ro 6:8, II Ti 2:11.†"
+}

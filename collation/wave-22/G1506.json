@@ -1,0 +1,80 @@
+{
+ "strong": "G1506",
+ "lemma": "εἰλικρινής",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2PE 3:1",
+   "form": "εἰλικρινῆ",
+   "morph": "A-ASF",
+   "gloss_en": "sincere",
+   "gloss_ja": "純粋な",
+   "verse": "Ταύτην ἤδη, ἀγαπητοί, δευτέραν ὑμῖν γράφω ἐπιστολήν, ἐν αἷς διεγείρω ὑμῶν ἐν ὑπομνήσει τὴν εἰλικρινῆ διάνοιαν,"
+  },
+  {
+   "ref": "PHP 1:10",
+   "form": "εἰλικρινεῖς",
+   "morph": "A-NPM",
+   "gloss_en": "pure",
+   "gloss_ja": "純粋な",
+   "verse": "εἰς τὸ δοκιμάζειν ὑμᾶς τὰ διαφέροντα, ἵνα ἦτε εἰλικρινεῖς καὶ ἀπρόσκοποι εἰς ἡμέραν Χριστοῦ,"
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Sapientia Salomonis": 1
+  },
+  "representatives": [
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "7.25",
+    "form": "εἰλικρινής",
+    "postag": "a-s---fn-",
+    "sentence": "ἀτμὶς γάρ ἐστι τῆς τοῦ Θεοῦ δυνάμεως καὶ ἀπόρροια τῆς τοῦ Παντοκράτορος δόξης εἰλικρινής ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 3,
+  "works": {
+   "1 Clement": 2,
+   "2 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "2.5",
+    "form": "εἰλικρινεῖς",
+    "postag": "a-p---mn-",
+    "sentence": "εἰλικρινεῖς καὶ ἀκέραιοι ἦτε καὶ ἀμνησίκακοι εἰς ἀλλήλους."
+   },
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "9.8",
+    "form": "εἰλικρινοῦς",
+    "postag": "a-s---fg-",
+    "sentence": "τὸ μετανοῆσαι ἐξ εἰλικρινοῦς καρδίας."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "32.1",
+    "form": "εἰλικρινῶς",
+    "postag": "d--------",
+    "sentence": "ὃ ἐάν τις καθ’ ἓν ἕκαστον εἰλικρινῶς κατανοήσῃ, ἐπιγνώσεται μεγαλεῖα τῶν ὑπ’ αὐτοῦ δεδομένων δωρεῶν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2     ** εἰλικρινής, -ές,     [in LXX: Wi 7:25 אB * ;]      unalloyed, pure (Lat. sincerus; v. DCG, ii, 635a);         of unmixed substances;          of abstract ideas;          of ethical purity: Phl 1:10, II Pe 3:1.†       SYN.: ἁγνός (q.v.), καθαρός, cf. Tr., Syn.: §lxxxv; DB, iv, 176a; Cremer, 378; Westc. on I Jo 3:3."
+}

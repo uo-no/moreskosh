@@ -1,0 +1,181 @@
+{
+ "strong": "G1244",
+ "lemma": "διαιρέω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 12:11",
+   "form": "διαιροῦν",
+   "morph": "V-PAP-NSN",
+   "gloss_en": "distributing",
+   "gloss_ja": "分ける",
+   "verse": "πάντα δὲ ταῦτα ἐνεργεῖ τὸ ἓν καὶ τὸ αὐτὸ πνεῦμα, διαιροῦν ἰδίᾳ ἑκάστῳ καθὼς βούλεται."
+  },
+  {
+   "ref": "LUK 15:12",
+   "form": "διεῖλεν",
+   "morph": "V-2AAI-3S",
+   "gloss_en": "divided",
+   "gloss_ja": "分ける",
+   "verse": "καὶ εἶπεν ὁ νεώτερος αὐτῶν τῷ πατρί· Πάτερ, δός μοι τὸ ἐπιβάλλον μέρος τῆς οὐσίας· ὁ δὲ διεῖλεν αὐτοῖς τὸν βίον."
+  }
+ ],
+ "lxx": {
+  "total": 44,
+  "works": {
+   "Genesis": 5,
+   "Exodus": 2,
+   "Leviticus": 3,
+   "Numeri": 2,
+   "Josue": 3,
+   "Judices": 2,
+   "Regnorum i": 1,
+   "Regnorum ii": 1,
+   "Regnorum iii": 2,
+   "Regnorum iv": 1,
+   "Paralipomenon i sive Chronicon i": 4,
+   "Judith": 1,
+   "Tobias": 1,
+   "Machabaeorum i": 3,
+   "Psalmi": 1,
+   "Proverbia": 2,
+   "Job": 1,
+   "Ecclesiasticus sive Siracides": 1,
+   "Amos": 1,
+   "Isaias": 2,
+   "Ezechiel": 1,
+   "Daniel": 4
+  },
+  "representatives": [
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "4.7",
+    "form": "διέλῃς",
+    "postag": "v2sasa---",
+    "sentence": "οὐκ ἐὰν ὀρθῶς προσενέγκῃς, ὀρθῶς δὲ μὴ διέλῃς, ἥμαρτες;"
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "23.6",
+    "form": "διεῖλεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ διεῖλεν αὐτοὺς Δαυὶδ ἐφημερίας τοῖς υἱοῖς Λευί, τῷ Γεδσών, Καὰθ καὶ Μεραρί."
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "5.28",
+    "form": "διῄρηται",
+    "postag": "v3srim---",
+    "sentence": "φάρες, διῄρηται ἡ βασιλεία σου, καὶ ἐδόθη Μήδοις καὶ Πέρσαις."
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "5.8",
+    "form": "διελεῖ",
+    "postag": "v3sfia---",
+    "sentence": "καὶ ἀποκνίσει ὁ ἱερεὺς τὴν κεφαλὴν αὐτοῦ ἀπὸ τοῦ σφονδύλου, καὶ οὐ διελεῖ ·"
+   },
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "18.4",
+    "form": "διελεῖν",
+    "postag": "v--ana---",
+    "sentence": "δότε ἐξ ὑμῶν ἄνδρας τρεῖς ἐκ φυλῆς, καὶ ἀναστάντες διελθέτωσαν τὴν γῆν καὶ διαγραψάτωσαν αὐτὴν ἐναντίον μου, καθὰ δεήσει διελεῖν αὐτήν ( καὶ διήλθοσαν πρὸς αὐτόν, καὶ διεῖλεν αὐτοῖς ἑπτὰ μερίδας )."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "16.7",
+    "form": "διεῖλε",
+    "postag": "v3saia---",
+    "sentence": "καὶ διεῖλε τὸν λαὸν καὶ τοὺς ἱππεῖς ἐν μέσῳ τῶν πεζῶν ·"
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "21.35",
+    "form": "διελοῦνται",
+    "postag": "v3pfim---",
+    "sentence": "ἐὰν δὲ κερατίσῃ τινὸς ταῦρος τὸν ταῦρον τοῦ πλησίον καὶ τελευτήσῃ, ἀποδώσονται τὸν ταῦρον τὸν ζῶντα καὶ διελοῦνται τὸ ἀργύριον αὐτοῦ, καὶ τὸν ταῦρον τὸν τεθνηκότα διελοῦνται."
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "31.27",
+    "form": "διελεῖτε",
+    "postag": "v2pfia---",
+    "sentence": "λάβε τὸ κεφάλαιον τῶν σκύλων τῆς αἰχμαλωσίας ἀπὸ ἀνθρώπου ἕως κτήνους, σὺ καὶ Ἐλεάζαρ ὁ ἱερεὺς καὶ οἱ ἄρχοντες τῶν πατριῶν τῆς συναγωγῆς, καὶ διελεῖτε τὰ σκῦλα ἀνὰ μέσον τῶν πολεμιστῶν τῶν ἐκπεπορευμένων εἰς τὴν παράταξιν, καὶ ἀνὰ μέσον πάσης συναγωγῆς."
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "9.43",
+    "form": "διεῖλεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἔλαβε τὸν λαόν, καὶ διεῖλεν αὐτοὺς εἰς τρεῖς ἀρχὰς καὶ ἐνήδρευσεν ἐν ἀγρῷ ·"
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "3.26",
+    "form": "διέλετε",
+    "postag": "v2pama---",
+    "sentence": "μή-τε ἐμοὶ μή-τε αὐτῇ ἔστω, διέλετε."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "16.19",
+    "form": "διαιρεῖται",
+    "postag": "v3spim---",
+    "sentence": "κρείσσων πραΰθυμος μετὰ ταπεινώσεως ἢ ὃς διαιρεῖται σκῦλα μετὰ ὑβριστῶν."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "9.3",
+    "form": "διαιρούμενοι",
+    "postag": "v-pppmmn-",
+    "sentence": "τὸ πλεῖστον τοῦ λαοῦ, ὃ κατήγαγες ἐν εὐφροσύνῃ σου, καὶ εὐφρανθήσονται ἐνώπιόν σου ὡς οἱ εὐφραινόμενοι ἐν ἀμήτῳ καὶ ὃν τρόπον οἱ διαιρούμενοι σκῦλα."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "1 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "4.4",
+    "form": "διέλῃς",
+    "postag": "v2sasa---",
+    "sentence": "οὐκ ἐὰν ὀρθῶς προσενέγκῃς, ὀρθῶς δὲ μὴ διέλῃς, ἥμαρτες;"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   δι-αιρέω, -ῶ     [in LXX for בּתר (as Ge 15:10), חלק (as Jos 18:5), etc. ;]       to divide into parts, cut asunder.      to distribute: c. acc. rei, dat. pers., Lk 15:12, I Co 12:11.†"
+}

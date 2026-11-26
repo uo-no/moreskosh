@@ -1,0 +1,101 @@
+{
+ "strong": "G1019",
+ "lemma": "βραδύνω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1TI 3:15",
+   "form": "βραδύνω",
+   "morph": "V-PAS-1S",
+   "gloss_en": "delayed",
+   "gloss_ja": "遅れる",
+   "verse": "ἐὰν δὲ βραδύνω, ἵνα εἰδῇς πῶς δεῖ ἐν οἴκῳ θεοῦ ἀναστρέφεσθαι, ἥτις ἐστὶν ἐκκλησία θεοῦ ζῶντος, στῦλος καὶ ἑδραίωμα τῆς ἀληθείας·"
+  },
+  {
+   "ref": "2PE 3:9",
+   "form": "βραδύνει",
+   "morph": "V-PAI-3S",
+   "gloss_en": "slow",
+   "gloss_ja": "遅れる",
+   "verse": "οὐ βραδύνει κύριος τῆς ἐπαγγελίας, ὥς τινες βραδύτητα ἡγοῦνται, ἀλλὰ μακροθυμεῖ εἰς ὑμᾶς, μὴ βουλόμενός τινας ἀπολέσθαι ἀλλὰ πάντας εἰς μετάνοιαν χωρῆσαι."
+  }
+ ],
+ "lxx": {
+  "total": 4,
+  "works": {
+   "Genesis": 1,
+   "Deuteronomium": 1,
+   "Ecclesiasticus sive Siracides": 1,
+   "Isaias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "43.9",
+    "form": "ἐβραδύναμεν",
+    "postag": "v1paia---",
+    "sentence": "εἰ μὴ γὰρ ἐβραδύναμεν, ἤδη ἂν ὑπεστρέψαμεν δίς."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "7.10",
+    "form": "βραδυνεῖ",
+    "postag": "v3sfia---",
+    "sentence": "καὶ οὐχὶ βραδυνεῖ τοῖς μισοῦσι, κατὰ πρόσωπον ἀποδώσει αὐτοῖς."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "35.19",
+    "form": "βραδύνῃ",
+    "postag": "v3spsa---",
+    "sentence": "καὶ ὁ Κύριος οὐ μὴ βραδύνῃ, οὐ-δὲ μὴ μακροθυμήσῃ ἐπ’ αὐτοῖς, ἕως ἂν συντρίψῃ ὀσφὺν ἀνελεημόνων, καὶ τοῖς ἔθνεσιν ἀνταποδώσει ἐκδίκησιν, ἕως ἐξάρῃ πλῆθος ὑβριστῶν καὶ σκῆπτρα ἀδίκων συντρίψῃ ·"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "46.13",
+    "form": "βραδυνῶ",
+    "postag": "v1sfia---",
+    "sentence": "ἤγγισα τὴν δικαιοσύνην μου καὶ τὴν σωτηρίαν τὴν παρ’ ἐμοῦ οὐ βραδυνῶ ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "Hermas, Pastor": 1,
+   "Martyrdom of Polycarp": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.19.2",
+    "form": "βραδύνωσι",
+    "postag": "v3ppsa---",
+    "sentence": "ἐὰν δὲ βραδύνωσι, μετὰ τῶν προτέρων ἔσται ὁ θάνατος αὐτῶν."
+   },
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "11.2",
+    "form": "βραδύνεις",
+    "postag": "v2spia---",
+    "sentence": "ἀλλὰ τί βραδύνεις;"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   βραδύνω     (< βραδύς),    [in LXX: Ge 43:10 (מההּ hith.), De 7:10, Is 46:13 (אחר pi.), Si 32 (35):18 * ;]         trans., to retard (Soph., Is, l.c.).      More freq. intrans., to be slow, to tarry: I Ti 3:15, II Pe 3:9.†"
+}

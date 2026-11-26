@@ -1,0 +1,59 @@
+{
+ "strong": "G1383",
+ "lemma": "δοκίμιον",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": "δοκιμειον",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1PE 1:7",
+   "form": "δοκίμιον",
+   "morph": "N-NSN",
+   "gloss_en": "genuineness",
+   "gloss_ja": "試練",
+   "verse": "ἵνα τὸ δοκίμιον ὑμῶν τῆς πίστεως πολυτιμότερον χρυσίου τοῦ ἀπολλυμένου διὰ πυρὸς δὲ δοκιμαζομένου εὑρεθῇ εἰς ἔπαινον καὶ δόξαν καὶ τιμὴν ἐν ἀποκαλύψει Ἰησοῦ Χριστοῦ."
+  },
+  {
+   "ref": "JAS 1:3",
+   "form": "δοκίμιον",
+   "morph": "N-NSN",
+   "gloss_en": "testing",
+   "gloss_ja": "試練",
+   "verse": "γινώσκοντες ὅτι τὸ δοκίμιον ὑμῶν τῆς πίστεως κατεργάζεται ὑπομονήν·"
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Psalmi": 1,
+   "Proverbia": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "11.7",
+    "form": "δοκίμιον",
+    "postag": "n-s---nn-",
+    "sentence": "τὰ λόγια Κυρίου λόγια ἁγνά, ἀργύριον πεπυρωμένον, δοκίμιον τῇ γῇ κεκαθαρισμένον ἑπταπλασίως."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "27.21",
+    "form": "δοκίμιον",
+    "postag": "n-s---nn-",
+    "sentence": "δοκίμιον ἀργυρῷ καὶ χρυσῷ πύρωσις, ἀνὴρ δὲ δοκιμάζεται διὰ στόματος ἐγκωμιαζόντων αὐτόν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   δοκίμιον, -ου, τό     [in LXX: Pr 17:3 27:21 (מַצְרֵף) * ;]     usually regarded as a variant form of δοκιμεῖον, a test, and so perh. Ja 1:3 (v. Mayor, in l.), but see next word (cf. Cremer, 212, 702).†"
+}

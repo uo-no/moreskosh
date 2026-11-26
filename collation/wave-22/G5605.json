@@ -1,0 +1,192 @@
+{
+ "strong": "G5605",
+ "lemma": "ὠδίνω",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "GAL 4:19",
+   "form": "ὠδίνω",
+   "morph": "V-PAI-1S",
+   "gloss_en": "am ~ inthe pain of childbirth",
+   "gloss_ja": "産みの苦しみ",
+   "verse": "τέκνα μου, οὓς πάλιν ὠδίνω μέχρις οὗ μορφωθῇ Χριστὸς ἐν ὑμῖν·"
+  },
+  {
+   "ref": "GAL 4:27",
+   "form": "ὠδίνουσα",
+   "morph": "V-PAP-NSF",
+   "gloss_en": "in labor",
+   "gloss_ja": "産みの苦しみ",
+   "verse": "γέγραπται γάρ· Εὐφράνθητι, στεῖρα ἡ οὐ τίκτουσα, ῥῆξον καὶ βόησον, ἡ οὐκ ὠδίνουσα· ὅτι πολλὰ τὰ τέκνα τῆς ἐρήμου μᾶλλον ἢ τῆς ἐχούσης τὸν ἄνδρα."
+  },
+  {
+   "ref": "REV 12:2",
+   "form": "ὠδίνουσα",
+   "morph": "V-PAP-NSF",
+   "gloss_en": "in labor",
+   "gloss_ja": "産みの苦しみ",
+   "verse": "καὶ ἐν γαστρὶ ἔχουσα· καὶ κράζει ὠδίνουσα καὶ βασανιζομένη τεκεῖν."
+  }
+ ],
+ "lxx": {
+  "total": 18,
+  "works": {
+   "Odae": 1,
+   "Canticum": 2,
+   "Ecclesiasticus sive Siracides": 3,
+   "Michaeas": 1,
+   "Habacuc": 1,
+   "Isaias": 8,
+   "Jeremias": 2
+  },
+  "representatives": [
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "66.8",
+    "form": "ὤδινε",
+    "postag": "v3siia---",
+    "sentence": "ὅτι ὤδινε καὶ ἔτεκε Σιὼν τὰ παιδία αὐτῆς."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "19.11",
+    "form": "ὠδινήσει",
+    "postag": "v3sfia---",
+    "sentence": "ἀπὸ προσώπου λόγου ὠδινήσει μωρὸς ὡς ἀπὸ προσώπου βρέφους ἡ τίκτουσα."
+   },
+   {
+    "work_code": "SNG",
+    "work_ja": "雅歌",
+    "work_src": "Canticum",
+    "ref": "8.5",
+    "form": "ὠδίνησέ",
+    "postag": "v3saia---",
+    "sentence": "ἐκεῖ ὠδίνησέ σε ἡ μήτηρ σου, ἐκεῖ ὠδίνησέ σε ἡ τεκοῦσά σε."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "4.31",
+    "form": "ὠδινούσης",
+    "postag": "v-sppafg-",
+    "sentence": "ὅτι φωνὴν ὡς ὠδινούσης ἤκουσα, τοῦ στεναγμοῦ σου ὡς πρωτοτοκούσης, φωνὴ θυγατρὸς Σιών ·"
+   },
+   {
+    "work_code": "ODE",
+    "work_ja": "頌歌（オード）",
+    "work_src": "Odae",
+    "ref": "6.17",
+    "form": "ὠδίνουσα",
+    "postag": "v-sppafn-",
+    "sentence": "καὶ ὡς ἡ ὠδίνουσα ἐγγίζει τοῦ τεκεῖν καὶ ἐπὶ τῇ ὠδῖνι αὐτῆς ἐκέκραξεν, οὕτως ἐγενήθημεν τῷ ἀγαπητῷ σου."
+   },
+   {
+    "work_code": "MIC",
+    "work_ja": "ミカ書",
+    "work_src": "Michaeas",
+    "ref": "4.10",
+    "form": "ὤδινε",
+    "postag": "v2spma---",
+    "sentence": "ὤδινε καὶ ἀνδρίζου καὶ ἔγγιζε, θύγατερ Σιών, ὡς τίκτουσα ·"
+   },
+   {
+    "work_code": "HAB",
+    "work_ja": "ハバクク書",
+    "work_src": "Habacuc",
+    "ref": "3.10",
+    "form": "ὠδινήσουσι",
+    "postag": "v3pfia---",
+    "sentence": "ὄψονταί σε καὶ ὠδινήσουσι λαοί, σκορπίζων ὕδατα πορείας αὐτοῦ ·"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "23.4",
+    "form": "ὤδινον",
+    "postag": "v1siia---",
+    "sentence": "οὐκ ὤδινον οὐ-δὲ ἔτεκον οὐ-δὲ ἐξέθρεψα νεανίσκους οὐ-δὲ ὕψωσα παρθένους."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "43.17",
+    "form": "ὠδίνησε",
+    "postag": "v3saia---",
+    "sentence": "φωνὴ βροντῆς αὐτοῦ ὠδίνησε γῆν καὶ καταιγὶς Βορέου καὶ συστροφὴ πνεύματος."
+   },
+   {
+    "work_code": "SNG",
+    "work_ja": "雅歌",
+    "work_src": "Canticum",
+    "ref": "8.5",
+    "form": "ὠδίνησέ",
+    "postag": "v3saia---",
+    "sentence": "ἐκεῖ ὠδίνησέ σε ἡ μήτηρ σου, ἐκεῖ ὠδίνησέ σε ἡ τεκοῦσά σε."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "29.22",
+    "form": "ὠδινούσης",
+    "postag": "v-sppafg-",
+    "sentence": "καὶ ἔσται ἡ καρδία τῶν ἰσχυρῶν τῆς Ἰδουμαίας ἐν τῇ ἡμέρᾳ ἐκείνῃ ὡς καρδία γυναικὸς ὠδινούσης."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "51.2",
+    "form": "ὠδίνουσαν",
+    "postag": "v-sppafa-",
+    "sentence": "ἐμβλέψατε εἰς Ἁβραὰμ τὸν πατέρα ὑμῶν καὶ εἰς Σάρραν τὴν ὠδίνουσαν ὑμᾶς ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 3,
+  "works": {
+   "2 Clement": 3
+  },
+  "representatives": [
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "2.2",
+    "form": "ὠδίνουσα",
+    "postag": "v-sppafn-",
+    "sentence": "βόησον, ἡ οὐκ ὠδίνουσα, τοῦτο λέγει ·"
+   },
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "2.2",
+    "form": "ὠδίνουσαι",
+    "postag": "v-pppafn-",
+    "sentence": "μὴ ὡς αἱ ὠδίνουσαι ἐγκακῶμεν, ὃ δὲ εἶπεν ·"
+   },
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "2.1",
+    "form": "ὠδίνουσα",
+    "postag": "v-sppafn-",
+    "sentence": "εὐφράνθητι, στείρα ἦ οὐ τίκτουσα, ῥῆξον καὶ βόησον, ἡ οὐκ ὠδίνουσα, ὅτι πολλὰ τὰ τέκνα τῆς ἐρήμου μᾶλλον ἢ τῆς ἐχούσης τὸν ἄνδρα."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3 ὠδίνω     [in LXX chiefly for חוּל, also for חבל pi., etc. ;]    to have birthpangs, to travail: Ga 4:27 (LXX), Re 12:2; metaph., Ga 4:19 (cf. συν-ωδίνω).†"
+}

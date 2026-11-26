@@ -1,0 +1,191 @@
+{
+ "strong": "G4638",
+ "lemma": "σκήνωμα",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2PE 1:13",
+   "form": "σκηνώματι",
+   "morph": "N-DSN",
+   "gloss_en": "tent",
+   "gloss_ja": "幕屋",
+   "verse": "δίκαιον δὲ ἡγοῦμαι, ἐφ’ ὅσον εἰμὶ ἐν τούτῳ τῷ σκηνώματι, διεγείρειν ὑμᾶς ἐν ὑπομνήσει,"
+  },
+  {
+   "ref": "2PE 1:14",
+   "form": "σκηνώματός",
+   "morph": "N-GSN",
+   "gloss_en": "tent",
+   "gloss_ja": "幕屋",
+   "verse": "εἰδὼς ὅτι ταχινή ἐστιν ἡ ἀπόθεσις τοῦ σκηνώματός μου, καθὼς καὶ ὁ κύριος ἡμῶν Ἰησοῦς Χριστὸς ἐδήλωσέν μοι·"
+  },
+  {
+   "ref": "ACT 7:46",
+   "form": "σκήνωμα",
+   "morph": "N-ASN",
+   "gloss_en": "dwelling place",
+   "gloss_ja": "幕屋",
+   "verse": "ὃς εὗρεν χάριν ἐνώπιον τοῦ θεοῦ καὶ ᾐτήσατο εὑρεῖν σκήνωμα τῷ θεῷ Ἰακώβ."
+  }
+ ],
+ "lxx": {
+  "total": 77,
+  "works": {
+   "Deuteronomium": 1,
+   "Josue": 1,
+   "Judices": 2,
+   "Regnorum i": 3,
+   "Regnorum ii": 5,
+   "Regnorum iii": 8,
+   "Regnorum iv": 3,
+   "Paralipomenon i sive Chronicon i": 1,
+   "Paralipomenon ii sive Chronicon ii": 6,
+   "Esdras i": 1,
+   "Judith": 5,
+   "Machabaeorum i": 1,
+   "Machabaeorum ii": 1,
+   "Psalmi": 25,
+   "Odae": 1,
+   "Canticum": 2,
+   "Job": 2,
+   "Osee": 1,
+   "Habacuc": 2,
+   "Zacharias": 1,
+   "Malachias": 1,
+   "Jeremias": 2,
+   "Threni seu Lamentationes": 1,
+   "Ezechiel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "45.5",
+    "form": "σκήνωμα",
+    "postag": "n-s---na-",
+    "sentence": "ἡγίασε τὸ σκήνωμα αὐτοῦ ὁ Ὕψιστος."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "12.16",
+    "form": "σκηνώματά",
+    "postag": "n-p---na-",
+    "sentence": "ἀπότρεχε, Ἰσραήλ, εἰς τὰ σκηνώματά σου ·"
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "10.16",
+    "form": "σκηνώματα",
+    "postag": "n-p---na-",
+    "sentence": "καὶ ἐπορεύθη πᾶς Ἰσραὴλ εἰς τὰ σκηνώματα αὐτοῦ ·"
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "20.1",
+    "form": "σκηνώματά",
+    "postag": "n-p---na-",
+    "sentence": "ἀνὴρ εἰς τὰ σκηνώματά σου, Ἰσραήλ."
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "14.7",
+    "form": "σκηνώματι",
+    "postag": "n-s---nd-",
+    "sentence": "εὐλογημένη σὺ ἐν παντὶ σκηνώματι Ἰούδα καὶ ἐν παντὶ ἔθνει, οἵτινες ἀκούσαντες τὸ ὄνομά σου ταραχθήσονται ·"
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "4.10",
+    "form": "σκήνωμα",
+    "postag": "n-s---na-",
+    "sentence": "καὶ πταίει ἀνὴρ Ἰσραὴλ, καὶ ἔφυγεν ἕκαστος εἰς σκήνωμα αὐτοῦ ·"
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "13.5",
+    "form": "σκηνώμασιν",
+    "postag": "n-p---nd-",
+    "sentence": "καὶ ἐκάθισαν οἱ υἱοὶ Ἰσραὴλ ἐν τοῖς σκηνώμασιν αὐτῶν καθὼς ἐχθὲς καὶ τρίτης ·"
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "19.9",
+    "form": "σκήνωμά",
+    "postag": "n-s---na-",
+    "sentence": "αὐλίσθητι ὧδε, καὶ ἀγαθυνθήσεται ἡ καρδία σου, καὶ ὀρθριεῖτε αὔριον εἰς ὁδὸν ὑμῶν καὶ πορεύσῃ εἰς τὸ σκήνωμά σου."
+   },
+   {
+    "work_code": "SNG",
+    "work_ja": "雅歌",
+    "work_src": "Canticum",
+    "ref": "1.8",
+    "form": "σκηνώμασι",
+    "postag": "n-p---nd-",
+    "sentence": "ἐὰν μὴ γνῷς σεαυτήν, ἡ καλὴ ἐν γυναιξίν, ἔξελθε σὺ ἐν πτέρναις τῶν ποιμνίων καὶ ποίμαινε τὰς ἐρίφους σου ἐπὶ σκηνώμασι τῶν ποιμένων."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "21.28",
+    "form": "σκηνωμάτων",
+    "postag": "n-p---ng-",
+    "sentence": "καὶ ποῦ ἐστιν ἡ σκέπη τῶν σκηνωμάτων τῶν ἀσεβῶν;"
+   },
+   {
+    "work_code": "HAB",
+    "work_ja": "ハバクク書",
+    "work_src": "Habacuc",
+    "ref": "3.7",
+    "form": "σκηνώματα",
+    "postag": "n-p---nn-",
+    "sentence": "σκηνώματα Αἰθιόπων πτοηθήσονται καὶ αἱ σκηναὶ γῆς Μαδιάμ."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "9.19",
+    "form": "σκηνώματα",
+    "postag": "n-p---na-",
+    "sentence": "πῶς ἐταλαιπωρήσαμεν, κατῃσχύνθημεν σφόδρα, ὅτι ἐγκατελίπομεν τὴν γῆν καὶ ἀπερρίψαμεν τὰ σκηνώματα ἡμῶν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "To Diognetus": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "6",
+    "form": "σκηνώματι",
+    "postag": "n-s---nd-",
+    "sentence": "ἀθάνατος ἡ ψυχὴ ἐν θνητῷ σκηνώματι κατοικεῖ ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3   σκήνωμα, -τος, τό    (< σκηνόω),    [in LXX chiefly for אֹהֶל ;]     a tent, tabernacle (cf. σκηνή, σκῆνος): of the temple as God's dwelling (Ps 131 (132):5, al.), Ac 7:46. Metaph., of the body: II Pe 1:13, 14.†"
+}

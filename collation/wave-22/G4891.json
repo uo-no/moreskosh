@@ -1,0 +1,69 @@
+{
+ "strong": "G4891",
+ "lemma": "συνεγείρω",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "COL 2:12",
+   "form": "συνηγέρθητε",
+   "morph": "V-API-2P",
+   "gloss_en": "raised with",
+   "gloss_ja": "共に復活させる",
+   "verse": "συνταφέντες αὐτῷ ἐν τῷ βαπτισμῷ, ἐν ᾧ καὶ συνηγέρθητε διὰ τῆς πίστεως τῆς ἐνεργείας τοῦ θεοῦ τοῦ ἐγείραντος αὐτὸν ἐκ νεκρῶν·"
+  },
+  {
+   "ref": "COL 3:1",
+   "form": "συνηγέρθητε",
+   "morph": "V-API-2P",
+   "gloss_en": "raised with",
+   "gloss_ja": "共に復活させる",
+   "verse": "Εἰ οὖν συνηγέρθητε τῷ Χριστῷ, τὰ ἄνω ζητεῖτε, οὗ ὁ Χριστός ἐστιν ἐν δεξιᾷ τοῦ θεοῦ καθήμενος·"
+  },
+  {
+   "ref": "EPH 2:6",
+   "form": "συνήγειρεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "raised ~ upwith",
+   "gloss_ja": "共に復活させる",
+   "verse": "καὶ συνήγειρεν καὶ συνεκάθισεν ἐν τοῖς ἐπουρανίοις ἐν Χριστῷ Ἰησοῦ,"
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Machabaeorum iv": 1
+  },
+  "representatives": [
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "2.14",
+    "form": "συνεγείρων",
+    "postag": "v-sppamn-",
+    "sentence": "καὶ μὴ νομίσητε παράδοξον εἶναι, ὅπου γε καὶ ἔχθρας ὁ λογισμὸς ἐπικρατεῖν δύναται διὰ τὸν νόμον, μή-τε δενδροτομῶν τὰ ἥμερα τῶν πολεμίων φυτά, τὰ δὲ τῶν ἐχθρῶν τοῖς ἀπολέσασι διασώζων καὶ τὰ πεπτωκότα συνεγείρων."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Ignatius, Letters": 1
+  },
+  "representatives": [
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "7.6.1",
+    "form": "συνεγείρεσθε",
+    "postag": "v2ppim---",
+    "sentence": "συνεγείρεσθε ὡς θεοῦ οἰκονόμοι καὶ πάρεδροι καὶ ὑπηρέται."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3 συν-εγείρω     [in LXX: Ex 23:5 B2 (עזב), Is 14:9 (עוּר pil.), IV Mac 2:14 * ;]    to raise together: metaph., of the Christian's mystical resur­rection with Christ, Eph 2:6; pass., Col 2:12 3:1.†"
+}

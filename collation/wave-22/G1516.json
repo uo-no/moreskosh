@@ -1,0 +1,179 @@
+{
+ "strong": "G1516",
+ "lemma": "εἰρηνικός",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "HEB 12:11",
+   "form": "εἰρηνικὸν",
+   "morph": "A-ASM",
+   "gloss_en": "peaceful",
+   "gloss_ja": "平和な",
+   "verse": "πᾶσα δὲ παιδεία πρὸς μὲν τὸ παρὸν οὐ δοκεῖ χαρᾶς εἶναι ἀλλὰ λύπης, ὕστερον δὲ καρπὸν εἰρηνικὸν τοῖς δι’ αὐτῆς γεγυμνασμένοις ἀποδίδωσιν δικαιοσύνης."
+  },
+  {
+   "ref": "JAS 3:17",
+   "form": "εἰρηνική",
+   "morph": "A-NSF",
+   "gloss_en": "peaceable",
+   "gloss_ja": "平和な",
+   "verse": "ἡ δὲ ἄνωθεν σοφία πρῶτον μὲν ἁγνή ἐστιν, ἔπειτα εἰρηνική, ἐπιεικής, εὐπειθής, μεστὴ ἐλέους καὶ καρπῶν ἀγαθῶν, ἀδιάκριτος, ἀνυπόκριτος·"
+  }
+ ],
+ "lxx": {
+  "total": 53,
+  "works": {
+   "Genesis": 7,
+   "Numeri": 1,
+   "Deuteronomium": 3,
+   "Regnorum i": 3,
+   "Regnorum ii": 4,
+   "Regnorum iii": 5,
+   "Regnorum iv": 1,
+   "Paralipomenon i sive Chronicon i": 1,
+   "Esther": 1,
+   "Judith": 2,
+   "Machabaeorum i": 11,
+   "Machabaeorum ii": 2,
+   "Machabaeorum iii": 1,
+   "Psalmi": 3,
+   "Proverbia": 1,
+   "Ecclesiasticus sive Siracides": 1,
+   "Michaeas": 1,
+   "Abdias": 1,
+   "Zacharias": 2,
+   "Jeremias": 2
+  },
+  "representatives": [
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "7.29",
+    "form": "εἰρηνικῶς",
+    "postag": "d--------",
+    "sentence": "καὶ ἦλθε πρὸς Ἰούδαν, καὶ ἠσπάσαντο ἀλλήλους εἰρηνικῶς ·"
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "42.33",
+    "form": "εἰρηνικοί",
+    "postag": "a-p---mn-",
+    "sentence": "ἐν τούτῳ γνώσομαι ὅτι εἰρηνικοί ἐστε ·"
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "8.64",
+    "form": "εἰρηνικῶν",
+    "postag": "a-p---ng-",
+    "sentence": "τοῦ μὴ δύνασθαι τὴν ὁλοκαύτωσιν καὶ τὰς θυσίας τῶν εἰρηνικῶν ὑπενεγκεῖν."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "24.25",
+    "form": "εἰρηνικάς",
+    "postag": "a-p---fa-",
+    "sentence": "καὶ ἀνήνεγκεν ὁλοκαυτώσεις καὶ εἰρηνικάς."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "23.7",
+    "form": "εἰρηνικὰ",
+    "postag": "a-p---na-",
+    "sentence": "οὐ προσαγορεύσεις εἰρηνικὰ αὐτοῖς καὶ συμφέροντα αὐτοῖς πάσας τὰς ἡμέρας σου εἰς τὸν αἰῶνα."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "11.15",
+    "form": "εἰρηνικὰς",
+    "postag": "a-p---fa-",
+    "sentence": "καὶ ἐπορεύθη πᾶς ὁ λαὸς εἰς Γάλγαλα, καὶ ἔχρισε Σαμουὴλ ἐκεῖ τὸν Σαοὺλ εἰς βασιλέα ἐνώπιον Κυρίου ἐν Γαλγάλοις καὶ ἔθυσεν ἐκεῖ θυσίας καὶ εἰρηνικὰς ἐνώπιον Κυρίου ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "119.7",
+    "form": "εἰρηνικός",
+    "postag": "a-s---mn-",
+    "sentence": "μετὰ τῶν μισούντων τὴν εἰρήνην ἤμην εἰρηνικός ·"
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "3.1",
+    "form": "εἰρηνικοῖς",
+    "postag": "a-p---md-",
+    "sentence": "καὶ ἀπέστειλαν πρὸς αὐτὸν ἀγγέλους λόγοις εἰρηνικοῖς λέγοντες ·"
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "5.25",
+    "form": "εἰρηνικὸν",
+    "postag": "a-s---ma-",
+    "sentence": "οὗτος δὲ παραγενόμενος εἰς Ἱεροσόλυμα καὶ τὸν εἰρηνικὸν ὑποκριθείς, ἐπέσχεν ἕως τῆς ἁγίας ἡμέρας τοῦ σαββάτου καὶ λαβὼν ἀργοῦντας τοὺς Ἰουδαίους τοῖς ὑφ’ ἑαυτὸν ἐξοπλησίαν παρήγγειλε καὶ τοὺς ἐξελθόντας πάντας ἐπὶ τὴν θεωρίαν συνεξεκέντησε καὶ εἰς τὴν πόλιν σὺν τοῖς ὅπλοις εἰσδραμὼν ἱκανὰ κατέστρωσε πλήθη."
+   },
+   {
+    "work_code": "ZEC",
+    "work_ja": "ゼカリヤ書",
+    "work_src": "Zacharias",
+    "ref": "6.13",
+    "form": "εἰρηνικὴ",
+    "postag": "a-s---fn-",
+    "sentence": "καὶ αὐτὸς λήψεται ἀρετὴν καὶ καθιεῖται καὶ κατάρξει ἐπὶ τοῦ θρόνου αὐτοῦ, καὶ ἔσται ἱερεὺς ἐκ δεξιῶν αὐτοῦ, καὶ βουλὴ εἰρηνικὴ ἔσται ἀναμέσον ἀμφοτέρων."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "9.8",
+    "form": "εἰρηνικὰ",
+    "postag": "a-p---na-",
+    "sentence": "τῷ πλησίον αὐτοῦ λαλεῖ εἰρηνικὰ καὶ ἐν ἑαυτῷ ἔχει τὴν ἔχθραν."
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "21.20",
+    "form": "εἰρηνικοῖς",
+    "postag": "a-p---md-",
+    "sentence": "καὶ ἀπέστειλε Μωυσῆς πρέσβεις πρὸς Σηὼν βασιλέα Ἀμορραίων λόγοις εἰρηνικοῖς λέγων ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "1 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "14.5",
+    "form": "εἰρηνικῷ",
+    "postag": "a-s---md-",
+    "sentence": "φύλασσε ἀκακίαν καὶ ἴδε εὐθύτητα, ὅτι ἐστὶν ἐγκατάλειμμα ἀνθρώπῳ εἰρηνικῷ."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2 εἰρηνικός, -ή, -όν    (< εἰρήνη),    [in LXX for שָׁלוֹם and cognates ;]     peaceful: He 12:11, Ja 3:17.†"
+}

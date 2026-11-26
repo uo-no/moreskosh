@@ -1,0 +1,49 @@
+{
+ "strong": "G1183",
+ "lemma": "δεκατόω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "HEB 7:6",
+   "form": "δεδεκάτωκεν",
+   "morph": "V-RAI-3S",
+   "gloss_en": "collected tithes",
+   "gloss_ja": "十分の一を取る",
+   "verse": "ὁ δὲ μὴ γενεαλογούμενος ἐξ αὐτῶν δεδεκάτωκεν Ἀβραάμ, καὶ τὸν ἔχοντα τὰς ἐπαγγελίας εὐλόγηκεν."
+  },
+  {
+   "ref": "HEB 7:9",
+   "form": "δεδεκάτωται",
+   "morph": "V-RPI-3S",
+   "gloss_en": "paid tithes",
+   "gloss_ja": "十分の一を取る",
+   "verse": "καὶ ὡς ἔπος εἰπεῖν, δι’ Ἀβραὰμ καὶ Λευὶ ὁ δεκάτας λαμβάνων δεδεκάτωται,"
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Esdras ii": 1
+  },
+  "representatives": [
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "20.37",
+    "form": "δεκατοῦντες",
+    "postag": "v-pppamn-",
+    "sentence": "καὶ αὐτοὶ οἱ Λευῖται δεκατοῦντες ἐν πάσαις πόλεσι δουλείας ἡμῶν ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   † δεκατόω, -ῶ,     = cl. -τεύω (< δεκάτη),    [in LXX: Ne 10:37 (38) (עשׂר pi.) * ;]     to take tithe of: c. acc. pers., He 7:6; pass. to pay tithe: He 7:9.†"
+}

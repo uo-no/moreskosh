@@ -1,0 +1,164 @@
+{
+ "strong": "G5350",
+ "lemma": "φθέγγομαι",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2PE 2:16",
+   "form": "φθεγξάμενον",
+   "morph": "V-ANP-NSN",
+   "gloss_en": "spoke",
+   "gloss_ja": "声を出す",
+   "verse": "ἔλεγξιν δὲ ἔσχεν ἰδίας παρανομίας· ὑποζύγιον ἄφωνον ἐν ἀνθρώπου φωνῇ φθεγξάμενον ἐκώλυσεν τὴν τοῦ προφήτου παραφρονίαν."
+  },
+  {
+   "ref": "2PE 2:18",
+   "form": "φθεγγόμενοι",
+   "morph": "V-PDP-NPM",
+   "gloss_en": "speak",
+   "gloss_ja": "声を出す",
+   "verse": "ὑπέρογκα γὰρ ματαιότητος φθεγγόμενοι δελεάζουσιν ἐν ἐπιθυμίαις σαρκὸς ἀσελγείαις τοὺς ὀλίγως ἀποφεύγοντας τοὺς ἐν πλάνῃ ἀναστρεφομένους,"
+  },
+  {
+   "ref": "ACT 4:18",
+   "form": "φθέγγεσθαι",
+   "morph": "V-PNN",
+   "gloss_en": "speak",
+   "gloss_ja": "声を出す",
+   "verse": "καὶ καλέσαντες αὐτοὺς παρήγγειλαν τὸ καθόλου μὴ φθέγγεσθαι μηδὲ διδάσκειν ἐπὶ τῷ ὀνόματι τοῦ Ἰησοῦ."
+  }
+ ],
+ "lxx": {
+  "total": 14,
+  "works": {
+   "Psalmi": 3,
+   "Job": 1,
+   "Sapientia Salomonis": 2,
+   "Ecclesiasticus sive Siracides": 2,
+   "Amos": 1,
+   "Nahum": 1,
+   "Habacuc": 1,
+   "Jeremias": 2,
+   "Threni seu Lamentationes": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "77.2",
+    "form": "φθέγξομαι",
+    "postag": "v1sfim---",
+    "sentence": "ἀνοίξω ἐν παραβολαῖς τὸ στόμα μου, φθέγξομαι προβλήματα ἀπ’ ἀρχῆς."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "1.8",
+    "form": "φθεγγόμενος",
+    "postag": "v-sppmmn-",
+    "sentence": "διὰ τοῦτο φθεγγόμενος ἄδικα οὐδεὶς μὴ λάθῃ, οὐ-δὲ μὴ παροδεύσῃ αὐτὸν ἐλέγχουσα ἡ δίκη."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "5.11",
+    "form": "φθέγγου",
+    "postag": "v2spmm---",
+    "sentence": "γίνου ταχὺς ἐν ἀκροάσει σου καὶ ἐν μακροθυμίᾳ φθέγγου ἀπόκρισιν."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "28.14",
+    "form": "φθέγξονται",
+    "postag": "v3pfim---",
+    "sentence": "διότι πληρώσω σε ἀνθρώπων ὡσεὶ ἀκρίδων, καὶ φθέγξονται ἐπὶ σὲ οἱ καταβαίνοντες."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "13.7",
+    "form": "φθέγγεσθε",
+    "postag": "v2ppim---",
+    "sentence": "πότερον οὐκ ἔναντι Κυρίου λαλεῖτε, ἔναντι δὲ αὐτοῦ φθέγγεσθε δόλον;"
+   },
+   {
+    "work_code": "AMO",
+    "work_ja": "アモス書",
+    "work_src": "Amos",
+    "ref": "1.2",
+    "form": "ἐφθέγξατο",
+    "postag": "v3saim---",
+    "sentence": "Κύριος ἐκ Σιὼν ἐφθέγξατο καὶ ἐξ Ἱερουσαλὴμ ἔδωκε φωνὴν αὐτοῦ, καὶ ἐπένθησαν αἱ νομαὶ τῶν ποιμένων, καὶ ἐξηράνθη ἡ κορυφὴ τοῦ Καρμήλου."
+   },
+   {
+    "work_code": "NAH",
+    "work_ja": "ナホム書",
+    "work_src": "Nahum",
+    "ref": "2.8",
+    "form": "φθεγγόμεναι",
+    "postag": "v-pppmfn-",
+    "sentence": "πύλαι τῶν ποταμῶν διηνοίχθησαν, καὶ τὰ βασίλεια διέπεσε, καὶ ἡ ὑπόστασις ἀπεκαλύφθη, καὶ αὕτη ἀνέβαινε, καὶ αἱ δοῦλαι αὐτῆς ἤγοντο καθὼς περιστεραὶ φθεγγόμεναι ἐν καρδίαις αὐτῶν."
+   },
+   {
+    "work_code": "HAB",
+    "work_ja": "ハバクク書",
+    "work_src": "Habacuc",
+    "ref": "2.11",
+    "form": "φθέγξεται",
+    "postag": "v3sfim---",
+    "sentence": "διότι λίθος ἐκ τοίχου βοήσεται, καὶ κάνθαρος ἐκ ξύλου φθέγξεται αὐτά."
+   },
+   {
+    "work_code": "LAM",
+    "work_ja": "哀歌",
+    "work_src": "Threni seu Lamentationes",
+    "ref": "1.12",
+    "form": "φθεγξάμενος",
+    "postag": "v-sapmmn-",
+    "sentence": "φθεγξάμενος ἐν ἐμοὶ ἐταπείνωσέ με Κύριος ἐν ἡμέρᾳ ὀργῆς θυμοῦ αὐτοῦ."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "118.172",
+    "form": "φθέγξαιτο",
+    "postag": "v3saom---",
+    "sentence": "φθέγξαιτο ἡ γλῶσσά μου τὰ λόγιά σου, ὅτι πᾶσαι αἱ ἐντολαί σου δικαιοσύνη."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "8.12",
+    "form": "φθεγγομένῳ",
+    "postag": "v-sppmmd-",
+    "sentence": "σιγῶντά με περιμενοῦσι καὶ φθεγγομένῳ προσέξουσι καὶ λαλοῦντος ἐπί πλεῖον χεῖρα ἐπιθήσουσιν ἐπὶ στόμα αὐτῶν."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "13.22",
+    "form": "ἐφθέγξατο",
+    "postag": "v3saim---",
+    "sentence": "ταπεινὸς ἔσφαλε καὶ προσεπετίμησαν αὐτῷ, ἐφθέγξατο σύνεσιν καὶ οὐκ ἐδόθη αὐτῷ τόπος."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "3 φθέγγομαι     [in LXX for ענה, נבע hi., etc. ;]     of men or animals, to utter a sound or voice: absol., Ac 4:18; seq. ἐν φωνῇ, II Pe 2:16; c. acc., ὑπέρογκα, ib. 18.†"
+}

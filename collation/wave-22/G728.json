@@ -1,0 +1,87 @@
+{
+ "strong": "G728",
+ "lemma": "ἀρραβών",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2CO 1:22",
+   "form": "ἀρραβῶνα",
+   "morph": "N-ASM",
+   "gloss_en": "down payment",
+   "gloss_ja": "保証",
+   "verse": "ὁ καὶ σφραγισάμενος ἡμᾶς καὶ δοὺς τὸν ἀρραβῶνα τοῦ πνεύματος ἐν ταῖς καρδίαις ἡμῶν."
+  },
+  {
+   "ref": "2CO 5:5",
+   "form": "ἀρραβῶνα",
+   "morph": "N-ASM",
+   "gloss_en": "guarantee",
+   "gloss_ja": "保証",
+   "verse": "ὁ δὲ κατεργασάμενος ἡμᾶς εἰς αὐτὸ τοῦτο θεός, ὁ δοὺς ἡμῖν τὸν ἀρραβῶνα τοῦ πνεύματος."
+  },
+  {
+   "ref": "EPH 1:14",
+   "form": "ἀρραβὼν",
+   "morph": "N-NSM",
+   "gloss_en": "down payment",
+   "gloss_ja": "保証",
+   "verse": "ὅ ἐστιν ἀρραβὼν τῆς κληρονομίας ἡμῶν, εἰς ἀπολύτρωσιν τῆς περιποιήσεως, εἰς ἔπαινον τῆς δόξης αὐτοῦ."
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Genesis": 3
+  },
+  "representatives": [
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "38.18",
+    "form": "ἀρραβῶνά",
+    "postag": "n-s---ma-",
+    "sentence": "τίνα τὸν ἀρραβῶνά σοι δώσω;"
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "38.17",
+    "form": "ἀρραβῶνα",
+    "postag": "n-s---ma-",
+    "sentence": "ἐὰν δῷς μοι ἀρραβῶνα, ἕως τοῦ ἀποστεῖλαί σε."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "38.20",
+    "form": "ἀρραβῶνα",
+    "postag": "n-s---ma-",
+    "sentence": "ἀπέστειλε δὲ Ἰούδας τὸν ἔριφον ἐξ αἰγῶν ἐν χειρὶ τοῦ ποιμένος αὐτοῦ τοῦ Ὀδολλαμίτου κομίσασθαι παρὰ τῆς γυναικὸς τὸν ἀρραβῶνα, καὶ οὐχ εὗρεν αὐτήν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Polycarp, To the Philippians": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PPH",
+    "work_ja": "ポリュカルポスのピリピ書簡",
+    "work_src": "Polycarp, To the Philippians",
+    "ref": "8.1",
+    "form": "ἀρραβῶνι",
+    "postag": "n-s---md-",
+    "sentence": "ἀδιαλείπτως οὖν προσκαρτερῶμεν τῇ ἐλπίδι ἡμῶν καὶ τῷ ἀρραβῶνι τῆς δικαιοσύνης ἡμῶν, ὅς ἐστι Χριστὸς Ἰησοῦς, ὃς ἀνήνεγκεν ἡμῶν τὰς ἁμαρτίας τῷ ἰδίῳ σώματι ἐπὶ τὸ ξύλον, ὃς ἁμαρτίαν οὐκ ἐποίησεν, οὐ-δὲ εὑρέθη δόλος ἐν τῷ στόματι αὐτοῦ ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3   ἀρραβών (T, ἀραβ-: II Co 1:22 5:5), -ώνος, ὁ,        [in LXX: Ge 38:17, 18, 20 (עֵרָבוֹן)*;]    an earnest, part payment in advance for security, a first instalment: II Co 1:22 5:5, Eph 1:14. (The word is found in cl. and was prob. brought to Greece by the Phœnicians (AR, Eph., 1:14). It is found in π. with both spellings (v. Milligan, NTD, 73). In MGr. ἀρραβῶνα is an engagement ring; v. MM, s.v.)†"
+}

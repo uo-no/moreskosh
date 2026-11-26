@@ -1,0 +1,69 @@
+{
+ "strong": "G668",
+ "lemma": "ἀποφεύγω",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2PE 2:18",
+   "form": "ἀποφεύγοντας",
+   "morph": "V-PAP-APM",
+   "gloss_en": "escaped",
+   "gloss_ja": "逃れる",
+   "verse": "ὑπέρογκα γὰρ ματαιότητος φθεγγόμενοι δελεάζουσιν ἐν ἐπιθυμίαις σαρκὸς ἀσελγείαις τοὺς ὀλίγως ἀποφεύγοντας τοὺς ἐν πλάνῃ ἀναστρεφομένους,"
+  },
+  {
+   "ref": "2PE 2:20",
+   "form": "ἀποφυγόντες",
+   "morph": "V-2AAP-NPM",
+   "gloss_en": "escaped",
+   "gloss_ja": "逃れる",
+   "verse": "εἰ γὰρ ἀποφυγόντες τὰ μιάσματα τοῦ κόσμου ἐν ἐπιγνώσει τοῦ κυρίου καὶ σωτῆρος Ἰησοῦ Χριστοῦ τούτοις δὲ πάλιν ἐμπλακέντες ἡττῶνται, γέγονεν αὐτοῖς τὰ ἔσχατα χείρονα τῶν πρώτων."
+  },
+  {
+   "ref": "2PE 1:4",
+   "form": "ἀποφυγόντες",
+   "morph": "V-2AAP-NPM",
+   "gloss_en": "escaped",
+   "gloss_ja": "逃れる",
+   "verse": "δι’ ὧν τὰ τίμια καὶ μέγιστα ἡμῖν ἐπαγγέλματα δεδώρηται, ἵνα διὰ τούτων γένησθε θείας κοινωνοὶ φύσεως, ἀποφυγόντες τῆς ἐν τῷ κόσμῳ ἐν ἐπιθυμίᾳ φθορᾶς."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Ecclesiasticus sive Siracides": 1
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "22.22",
+    "form": "ἀποφεύξεται",
+    "postag": "v3sfim---",
+    "sentence": "πλὴν ὀνειδισμοῦ καὶ ὑπερηφανίας καὶ μυστηρίου ἀποκαλύψεως καὶ πληγῆς δολίας, ἐν τούτοις ἀποφεύξεται πᾶς φίλος."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "16.1.13",
+    "form": "ἀποφεύγει",
+    "postag": "v3spia---",
+    "sentence": "εἶτα ὅλως εἰς συναγωγὴν ἀνδρῶν δικαίων οὐκ ἐγγίζει, ἀλλ’ ἀποφεύγει αὐτούς ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3   ** ἀπο-φεύγω,    [in LXX: Si 22:22*;]    to flee from, escape: c. acc., II Pe 2:18, 20; c. gen., II Pe 1:4.†"
+}

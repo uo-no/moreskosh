@@ -1,0 +1,59 @@
+{
+ "strong": "G1347",
+ "lemma": "δικαίωσις",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ROM 4:25",
+   "form": "δικαίωσιν",
+   "morph": "N-ASF",
+   "gloss_en": "justification",
+   "gloss_ja": "義認",
+   "verse": "ὃς παρεδόθη διὰ τὰ παραπτώματα ἡμῶν καὶ ἠγέρθη διὰ τὴν δικαίωσιν ἡμῶν."
+  },
+  {
+   "ref": "ROM 5:18",
+   "form": "δικαίωσιν",
+   "morph": "N-ASF",
+   "gloss_en": "justification",
+   "gloss_ja": "義認",
+   "verse": "Ἄρα οὖν ὡς δι’ ἑνὸς παραπτώματος εἰς πάντας ἀνθρώπους εἰς κατάκριμα, οὕτως καὶ δι’ ἑνὸς δικαιώματος εἰς πάντας ἀνθρώπους εἰς δικαίωσιν ζωῆς·"
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Leviticus": 1,
+   "Psalmi Salomonis": 1
+  },
+  "representatives": [
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "24.22",
+    "form": "δικαίωσις",
+    "postag": "n-s---fn-",
+    "sentence": "δικαίωσις μία ἔσται τῷ προσηλύτῳ καὶ τῷ ἐγχωρίῳ, ὅτι ἐγώ εἰμι Κύριος ὁ Θεὸς ὑμῶν."
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "3.3",
+    "form": "δικαιώσει",
+    "postag": "n-s---fd-",
+    "sentence": "δίκαιοι μνημονεύουσιν διὰ παντὸς τοῦ κυρίου, ἐν ἐξομολογήσει καὶ δικαιώσει τὰ κρίματα κυρίου."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   δικαίωσις, -εως, ἡ    (< δικαιόω),    [in LXX for מִשְׁפָּט, Le 24:22 * ;]    the act of pronouncing righteous, justification, acquittal: Ro 4:25 5:18 (Cremer, 199).†"
+}

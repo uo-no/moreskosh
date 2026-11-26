@@ -1,0 +1,99 @@
+{
+ "strong": "G4641",
+ "lemma": "σκληροκαρδία",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MAT 19:8",
+   "form": "σκληροκαρδίαν",
+   "morph": "N-ASF",
+   "gloss_en": "hardness of heart",
+   "gloss_ja": "心の頑な",
+   "verse": "λέγει αὐτοῖς ὅτι Μωϋσῆς πρὸς τὴν σκληροκαρδίαν ὑμῶν ἐπέτρεψεν ὑμῖν ἀπολῦσαι τὰς γυναῖκας ὑμῶν, ἀπ’ ἀρχῆς δὲ οὐ γέγονεν οὕτως."
+  },
+  {
+   "ref": "MRK 16:14",
+   "form": "σκληροκαρδίαν",
+   "morph": "N-ASF",
+   "gloss_en": "hardness of heart",
+   "gloss_ja": "心の頑な",
+   "verse": "Ὕστερον δὲ ἀνακειμένοις αὐτοῖς τοῖς ἕνδεκα ἐφανερώθη, καὶ ὠνείδισεν τὴν ἀπιστίαν αὐτῶν καὶ σκληροκαρδίαν ὅτι τοῖς θεασαμένοις αὐτὸν ἐγηγερμένον οὐκ ἐπίστευσαν."
+  },
+  {
+   "ref": "MRK 10:5",
+   "form": "σκληροκαρδίαν",
+   "morph": "N-ASF",
+   "gloss_en": "hardness of heart",
+   "gloss_ja": "心の頑な",
+   "verse": "ὁ δὲ Ἰησοῦς εἶπεν αὐτοῖς· Πρὸς τὴν σκληροκαρδίαν ὑμῶν ἔγραψεν ὑμῖν τὴν ἐντολὴν ταύτην·"
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Deuteronomium": 1,
+   "Ecclesiasticus sive Siracides": 1,
+   "Jeremias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "10.16",
+    "form": "σκληροκαρδίαν",
+    "postag": "n-s---fa-",
+    "sentence": "καὶ περιτεμεῖσθε τὴν σκληροκαρδίαν ὑμῶν καὶ τὸν τράχηλον ὑμῶν οὐ σκληρυνεῖτε ἔτι ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "16.10",
+    "form": "σκληροκαρδίᾳ",
+    "postag": "n-s---fd-",
+    "sentence": "καὶ οὕτως ἑξακοσίας χιλιάδας πεζῶν τοὺς ἐπισυναχθέντας ἐν σκληροκαρδίᾳ αὐτῶν."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "4.4",
+    "form": "σκληροκαρδίαν",
+    "postag": "n-s---fa-",
+    "sentence": "περιτμήθητε τῷ Θεῷ ὑμῶν καὶ περιτέμνεσθε τὴν σκληροκαρδίαν ὑμῶν, ἄνδρες Ἰούδα καὶ οἱ κατοικοῦντες Ἱερουσαλήμ, μὴ ἐξέλθῃ ὡς πῦρ ὁ θυμός μου καὶ ἐκκαυθήσεται, καὶ οὐκ ἔσται ὁ σβέσων ἀπὸ προσώπου πονηρίας ἐπιτηδευμάτων ὑμῶν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "Barnabas": 1,
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "9.5",
+    "form": "σκληροκαρδίαν",
+    "postag": "n-s---fa-",
+    "sentence": "περιτμήθητε τὴν σκληροκαρδίαν ὑμῶν, καὶ τὸν τράχηλον ὑμῶν οὐ σκληρυνεῖτε."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "3.7.6",
+    "form": "σκληροκαρδίαν",
+    "postag": "n-s---fa-",
+    "sentence": "ἐὰν δὲ μὴ ἀναβῇ ἐπὶ τὴν καρδίαν αὐτῶν, οὐ σώζονται διὰ τὴν σκληροκαρδίαν αὐτῶν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3   † σκληρο-καρδία, -ας, ἡ    (< σκληρός, καρδία),    [in LXX: De 10:16, Je 4:4 (לֵבָב עׇרְלָה), Si 16:10 (cf. καρδία σκληρά, ib. 3:26, 27) * ;]     hardness of heart: Mt 19:8, Mk 10:5 16:[14].†"
+}

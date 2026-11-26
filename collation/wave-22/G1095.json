@@ -1,0 +1,171 @@
+{
+ "strong": "G1095",
+ "lemma": "γηράσκω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "HEB 8:13",
+   "form": "γηράσκον",
+   "morph": "V-PAP-NSN",
+   "gloss_en": "growing old",
+   "gloss_ja": "年老いる",
+   "verse": "ἐν τῷ λέγειν Καινὴν πεπαλαίωκεν τὴν πρώτην, τὸ δὲ παλαιούμενον καὶ γηράσκον ἐγγὺς ἀφανισμοῦ."
+  },
+  {
+   "ref": "JHN 21:18",
+   "form": "γηράσῃς",
+   "morph": "V-AAS-2S",
+   "gloss_en": "grow old",
+   "gloss_ja": "年老いる",
+   "verse": "ἀμὴν ἀμὴν λέγω σοι, ὅτε ἦς νεώτερος, ἐζώννυες σεαυτὸν καὶ περιεπάτεις ὅπου ἤθελες· ὅταν δὲ γηράσῃς, ἐκτενεῖς τὰς χεῖράς σου, καὶ ἄλλος σε ζώσει καὶ οἴσει ὅπου οὐ θέλεις."
+  }
+ ],
+ "lxx": {
+  "total": 18,
+  "works": {
+   "Genesis": 2,
+   "Josue": 1,
+   "Ruth": 1,
+   "Regnorum i": 3,
+   "Paralipomenon ii sive Chronicon ii": 1,
+   "Judith": 1,
+   "Tobias": 3,
+   "Machabaeorum i": 1,
+   "Psalmi": 1,
+   "Proverbia": 1,
+   "Job": 2,
+   "Ecclesiasticus sive Siracides": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "8.5",
+    "form": "γεγήρακας",
+    "postag": "v2sria---",
+    "sentence": "ἰδοὺ σὺ γεγήρακας, καὶ οἱ υἱοί σου οὐ πορεύονται ἐν τῇ ὁδῷ σου ·"
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "14.3",
+    "form": "γεγήρακα",
+    "postag": "v1sria---",
+    "sentence": "ἰδοὺ γεγήρακα καὶ πρὸς τὸ ἀποτρέχειν ἐκ τοῦ ζῆν εἰμι."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "27.2",
+    "form": "γεγήρακα",
+    "postag": "v1sria---",
+    "sentence": "ἰδοὺ γεγήρακα καὶ οὐ γινώσκω τὴν ἡμέραν τῆς τελευτῆς μου ·"
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "29.18",
+    "form": "γηράσει",
+    "postag": "v3sfia---",
+    "sentence": "ἡ ἡλικία μου γηράσει ὥσπερ στέλεχος φοίνικος, πολὺν χρόνον βιώσω ·"
+   },
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "23.2",
+    "form": "γεγήρακα",
+    "postag": "v1sria---",
+    "sentence": "ἐγὼ γεγήρακα καὶ προβέβηκα ταῖς ἡμέραις."
+   },
+   {
+    "work_code": "RUT",
+    "work_ja": "ルツ記",
+    "work_src": "Ruth",
+    "ref": "1.12",
+    "form": "γεγήρακα",
+    "postag": "v1sria---",
+    "sentence": "ἐπιστράφητε δή, θυγατέρες μου, διότι γεγήρακα τοῦ μὴ εἶναι ἀνδρί ·"
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "24.15",
+    "form": "ἐγήρασεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἐγήρασεν Ἰωδαὲ πλήρης ἡμερῶν καὶ ἐτελεύτησεν ὢν ἑκατὸν καὶ τριάκοντα ἐτῶν ἐν τῷ τελευτᾶν αὐτόν ·"
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "16.23",
+    "form": "ἐγήρασεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἦν προβαίνουσα μεγάλη σφόδρα καὶ ἐγήρασεν ἐν τῷ οἴκῳ τοῦ ἀνδρὸς αὐτῆς ἔτη ἑκατὸν πέντε ·"
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "16.3",
+    "form": "γεγήρακα",
+    "postag": "v1sria---",
+    "sentence": "νῦν δὲ γεγήρακα, καὶ ὑμεῖς δὲ ἐν τῶ ἐλέει ἱκανοί ἐστε ἐν τοῖς ἔτεσι ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "36.25",
+    "form": "ἐγήρασα",
+    "postag": "v1saia---",
+    "sentence": "νεώτερος ἐγενόμην καὶ γὰρ ἐγήρασα καὶ οὐκ εἶδον δίκαιον ἐγκαταλελειμμένον, οὐ-δὲ τὸ σπέρμα αὐτοῦ ζητοῦν ἄρτους ·"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "23.22",
+    "form": "γεγήρακέ",
+    "postag": "v3sria---",
+    "sentence": "ἄκουε, υἱέ, πατρὸς τοῦ γεννήσαντός σε καὶ μὴ καταφρόνει ὅτι γεγήρακέ σου ἡ μήτηρ."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "8.6",
+    "form": "γηράσκουσι",
+    "postag": "v3ppia---",
+    "sentence": "μὴ ἀτιμάσῃς ἄνθρωπον ἐν γήρᾳ αὐτοῦ, καὶ γὰρ ἐξ ἡμῶν γηράσκουσι."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "1 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "23.3",
+    "form": "γεγηράκαμεν",
+    "postag": "v1pria---",
+    "sentence": "ταῦτα ἠκούσαμεν καὶ ἐπὶ τῶν πατέρων ἡμῶν, καὶ ἰδού, γεγηράκαμεν, καὶ οὐδὲν ἡμῖν τούτων συνβέβηκεν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   γηράσκω (also γηράω; < γῆρας),    [in LXX chiefly for זקן;]    to grow old: Jo 21:18, He 8:13.†   SYN.: παλαιοῦμαι."
+}

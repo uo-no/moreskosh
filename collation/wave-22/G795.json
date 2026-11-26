@@ -1,0 +1,88 @@
+{
+ "strong": "G795",
+ "lemma": "ἀστοχέω",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1TI 1:6",
+   "form": "ἀστοχήσαντες",
+   "morph": "V-AAP-NPM",
+   "gloss_en": "deviated",
+   "gloss_ja": "外れる",
+   "verse": "ὧν τινες ἀστοχήσαντες ἐξετράπησαν εἰς ματαιολογίαν,"
+  },
+  {
+   "ref": "1TI 6:21",
+   "form": "ἠστόχησαν",
+   "morph": "V-AAI-3P",
+   "gloss_en": "missed the mark",
+   "gloss_ja": "外れる",
+   "verse": "ἥν τινες ἐπαγγελλόμενοι περὶ τὴν πίστιν ἠστόχησαν. Ἡ χάρις μεθ’ ὑμῶν."
+  },
+  {
+   "ref": "2TI 2:18",
+   "form": "ἠστόχησαν",
+   "morph": "V-AAI-3P",
+   "gloss_en": "swerved",
+   "gloss_ja": "外れる",
+   "verse": "οἵτινες περὶ τὴν ἀλήθειαν ἠστόχησαν, λέγοντες ἀνάστασιν ἤδη γεγονέναι, καὶ ἀνατρέπουσιν τήν τινων πίστιν."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Ecclesiasticus sive Siracides": 2
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "7.19",
+    "form": "ἀστόχει",
+    "postag": "v2spma---",
+    "sentence": "μὴ ἀστόχει γυναικὸς σοφῆς καὶ ἀγαθῆς, ἡ γὰρ χάρις αὐτῆς ὑπὲρ τὸ χρυσίον."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "8.9",
+    "form": "ἀστόχει",
+    "postag": "v2spma---",
+    "sentence": "μὴ ἀστόχει διηγήματος γερόντων, καὶ γὰρ αὐτοὶ ἔμαθον παρὰ τῶν πατέρων αὐτῶν ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "2 Clement": 1,
+   "Didache": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "17.7",
+    "form": "ἀστοχήσαντας",
+    "postag": "v-papama-",
+    "sentence": "οἱ δὲ δίκαιοι εὐπραγήσαντες καὶ ὑπομείναντες τὰς βασάνους καὶ μισήσαντες τὰς ἡδυπαθείας τῆς ψυχῆς, ὅταν θεάσωνται τοὺς ἀστοχήσαντας καὶ ἀρνησαμένους διὰ τῶν λόγων ἢ διὰ τῶν ἔργων τὸν Ἰησοῦν, ὅπως κολάζονται δειναῖς βασάνοις πυρὶ ἀσβέστῳ, ἔσονται δόξαν διδόντες τῷ θεῷ αὐτῶν λέγοντες, ὅτι ἔσται ἐλπὶς τῷ δεδουλευκότι θεῷ ἐξ ὅλης καρδίας."
+   },
+   {
+    "work_code": "DID",
+    "work_ja": "ディダケー",
+    "work_src": "Didache",
+    "ref": "15.3",
+    "form": "ἀστοχοῦντι",
+    "postag": "v-sppamd-",
+    "sentence": "καὶ παντὶ ἀστοχοῦντι κατὰ τοῦ ἑτέρου μηδεὶς λαλείτω μη-δὲ παρ’ ὑμῶν ἀκουέτω, ἕως οὗ μετανοήσῃ."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3   **† ἀστοχέω, -ῶ    (στόχος, a mark),   [in LXX: Si 7:19 8:9*;]    to miss the mark, fail: c. gen., I Ti 1:6 (so in π., MM, s.v.); seq. περί, I Ti 6:21, II Ti 2:18.†"
+}

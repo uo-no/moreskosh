@@ -1,0 +1,97 @@
+{
+ "strong": "G5084",
+ "lemma": "τήρησις",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 7:19",
+   "form": "τήρησις",
+   "morph": "N-NSF",
+   "gloss_en": "keeping",
+   "gloss_ja": "監禁",
+   "verse": "ἡ περιτομὴ οὐδέν ἐστιν, καὶ ἡ ἀκροβυστία οὐδέν ἐστιν, ἀλλὰ τήρησις ἐντολῶν θεοῦ."
+  },
+  {
+   "ref": "ACT 4:3",
+   "form": "τήρησιν",
+   "morph": "N-ASF",
+   "gloss_en": "custody",
+   "gloss_ja": "監禁",
+   "verse": "καὶ ἐπέβαλον αὐτοῖς τὰς χεῖρας καὶ ἔθεντο εἰς τήρησιν εἰς τὴν αὔριον, ἦν γὰρ ἑσπέρα ἤδη."
+  },
+  {
+   "ref": "ACT 5:18",
+   "form": "τηρήσει",
+   "morph": "N-DSF",
+   "gloss_en": "prison",
+   "gloss_ja": "監禁",
+   "verse": "καὶ ἐπέβαλον τὰς χεῖρας ἐπὶ τοὺς ἀποστόλους καὶ ἔθεντο αὐτοὺς ἐν τηρήσει δημοσίᾳ."
+  }
+ ],
+ "lxx": {
+  "total": 5,
+  "works": {
+   "Machabaeorum i": 1,
+   "Machabaeorum ii": 1,
+   "Machabaeorum iii": 1,
+   "Sapientia Salomonis": 1,
+   "Ecclesiasticus sive Siracides": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "5.18",
+    "form": "τήρησιν",
+    "postag": "n-s---fa-",
+    "sentence": "καὶ κατέλιπεν Ἰώσηφον τὸν τοῦ Ζαχαρίου καὶ Ἀζαρίαν ἡγουμένους τοῦ λαοῦ μετὰ τῶν ἐπιλοίπων τῆς δυνάμεως ἐν τῇ Ἰουδαίᾳ εἰς τήρησιν καὶ ἐνετείλατο αὐτοῖς λέγων ·"
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "3.40",
+    "form": "τήρησιν",
+    "postag": "n-s---fa-",
+    "sentence": "καὶ τὰ μὲν κατὰ Ἡλιόδωρον καὶ τὴν τοῦ γαζοφυλακίου τήρησιν οὕτως ἐχώρησεν."
+   },
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "5.44",
+    "form": "τήρησιν",
+    "postag": "n-s---fa-",
+    "sentence": "τότε περιχαρεῖς ἀναλύσαντες οἱ φίλοι καὶ συγγενεῖς μετὰ πίστεως διέτασσον τὰς δυνάμεις ἐπὶ τοὺς εὐκαιροτάτους τόπους τῆς πόλεως πρὸς τήρησιν."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "6.18",
+    "form": "τήρησις",
+    "postag": "n-s---fn-",
+    "sentence": "ἀρχὴ γὰρ αὐτῆς ἡ ἀληθεστάτη παιδείας ἐπιθυμία, φροντὶς δὲ παιδείας ἀγάπη, ἀγάπη δέ τήρησις νόμων αὐτῆς, προσοχὴ δὲ νόμων βεβαίωσις ἀφθαρσίας, ἀφθαρσία δὲ ἐγγὺς εἶναι ποιεῖ Θεοῦ."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "32.23",
+    "form": "τήρησις",
+    "postag": "n-s---fn-",
+    "sentence": "ἐν παντὶ ἔργῳ πίστευε τῇ ψυχῇ σου, καὶ γὰρ τοῦτό ἐστι τήρησις ἐντολῶν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "3 ** τήρησις, -εως, ἡ    (< τηρέω),    [in LXX: Wi 6:18, (Si 35 (32):23), I Mac 5:18, II Mac 3:40, III Mac 5:44 * ;]     a watching, hence, imprisonment, ward (v. Deiss., BS, 267): Ac 4:3 5:18.    a keeping: τ. ἐντολῶν (cf. Sir, Wi, ll. c., and v. Westc. on I Jn 2:3.), I Co 7:19.†"
+}

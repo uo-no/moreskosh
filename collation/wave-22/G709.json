@@ -1,0 +1,87 @@
+{
+ "strong": "G709",
+ "lemma": "ἀριστάω",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JHN 21:12",
+   "form": "ἀριστήσατε",
+   "morph": "V-AAM-2P",
+   "gloss_en": "have breakfast",
+   "gloss_ja": "食事する",
+   "verse": "λέγει αὐτοῖς ὁ Ἰησοῦς· Δεῦτε ἀριστήσατε. οὐδεὶς δὲ ἐτόλμα τῶν μαθητῶν ἐξετάσαι αὐτόν· Σὺ τίς εἶ; εἰδότες ὅτι ὁ κύριός ἐστιν."
+  },
+  {
+   "ref": "JHN 21:15",
+   "form": "ἠρίστησαν",
+   "morph": "V-AAI-3P",
+   "gloss_en": "eaten breakfast",
+   "gloss_ja": "食事する",
+   "verse": "Ὅτε οὖν ἠρίστησαν λέγει τῷ Σίμωνι Πέτρῳ ὁ Ἰησοῦς· Σίμων Ἰωάννου, ἀγαπᾷς με πλέον τούτων; λέγει αὐτῷ· Ναί, κύριε, σὺ οἶδας ὅτι φιλῶ σε. λέγει αὐτῷ· Βόσκε τὰ ἀρνία μου."
+  },
+  {
+   "ref": "LUK 11:37",
+   "form": "ἀριστήσῃ",
+   "morph": "V-AAS-3S",
+   "gloss_en": "dine",
+   "gloss_ja": "食事する",
+   "verse": "Ἐν δὲ τῷ λαλῆσαι ἐρωτᾷ αὐτὸν Φαρισαῖος ὅπως ἀριστήσῃ παρ’ αὐτῷ· εἰσελθὼν δὲ ἀνέπεσεν."
+  }
+ ],
+ "lxx": {
+  "total": 4,
+  "works": {
+   "Genesis": 1,
+   "Regnorum i": 1,
+   "Regnorum iii": 1,
+   "Tobias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "43.24",
+    "form": "ἀριστᾶν",
+    "postag": "v--pna---",
+    "sentence": "ἤκουσαν γὰρ ὅτι ἐκεῖ μέλλει ἀριστᾶν."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "14.24",
+    "form": "ἠρίστα",
+    "postag": "v3siia---",
+    "sentence": "καὶ πᾶσα ἡ γῆ ἠρίστα."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "13.7",
+    "form": "ἀρίστησον",
+    "postag": "v2sama---",
+    "sentence": "εἴσελθε μετ’ ἐμοῦ εἰς οἶκον καὶ ἀρίστησον, καὶ δώσω σοι δόμα."
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "2.1",
+    "form": "ἀριστῆσαι",
+    "postag": "v--ana---",
+    "sentence": "καὶ ἐν τῇ πεντηκοστῇ τῇ ἑορτῇ ἡμῶν, ἥ ἐστιν ἁγία ἑπτὰ ἑβδομάδων, ἐγενήθη μοι ἄριστον καλόν, καὶ ἀνέπεσα τοῦ ἀριστῆσαι."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "3   ἀριστάω, -ῶ    (< ἄριστον),   [in LXX: Ge 43:25 (לֶחֶם אָכַל), I Ki 14:24 (לחם), III Ki 13:7 (סעד), To 2:1*;]      prop., to breakfast: Jo 21:12, 15.     In late Gk., to take a meal, dine: Lk 11:37.†"
+}

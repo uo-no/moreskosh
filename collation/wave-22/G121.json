@@ -1,0 +1,234 @@
+{
+ "strong": "G121",
+ "lemma": "ἀθῷος",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MAT 27:4",
+   "form": "ἀθῷον",
+   "morph": "A-ASM",
+   "gloss_en": "innocent",
+   "gloss_ja": "無罪の",
+   "verse": "λέγων· Ἥμαρτον παραδοὺς αἷμα ἀθῷον. οἱ δὲ εἶπαν· Τί πρὸς ἡμᾶς; σὺ ὄψῃ."
+  },
+  {
+   "ref": "MAT 27:24",
+   "form": "Ἀθῷός",
+   "morph": "A-NSM",
+   "gloss_en": "innocent",
+   "gloss_ja": "無罪の",
+   "verse": "ἰδὼν δὲ ὁ Πιλᾶτος ὅτι οὐδὲν ὠφελεῖ ἀλλὰ μᾶλλον θόρυβος γίνεται λαβὼν ὕδωρ ἀπενίψατο τὰς χεῖρας ἀπέναντι τοῦ ὄχλου λέγων· Ἀθῷός εἰμι ἀπὸ τοῦ αἵματος τούτου· ὑμεῖς ὄψεσθε."
+  }
+ ],
+ "lxx": {
+  "total": 56,
+  "works": {
+   "Genesis": 2,
+   "Exodus": 3,
+   "Numeri": 4,
+   "Deuteronomium": 2,
+   "Josue": 3,
+   "Regnorum i": 3,
+   "Regnorum ii": 2,
+   "Regnorum iii": 1,
+   "Regnorum iv": 3,
+   "Paralipomenon ii sive Chronicon ii": 2,
+   "Esther": 1,
+   "Machabaeorum i": 1,
+   "Machabaeorum ii": 2,
+   "Psalmi": 9,
+   "Job": 4,
+   "Ecclesiasticus sive Siracides": 1,
+   "Nahum": 1,
+   "Jeremias": 8,
+   "Susanna": 4
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "93.21",
+    "form": "ἀθῷον",
+    "postag": "a-s---na-",
+    "sentence": "θηρεύσουσιν ἐπὶ ψυχὴν δικαίου καὶ αἷμα ἀθῷον καταδικάσονται."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "2.34",
+    "form": "ἀθώων",
+    "postag": "a-p---fg-",
+    "sentence": "καὶ ἐν ταῖς χερσί σου εὑρέθησαν αἵματα ψυχῶν ἀθώων ·"
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "5.28",
+    "form": "ἀθῴα",
+    "postag": "a-s---fn-",
+    "sentence": "ἐὰν δὲ μὴ μιανθῇ ἡ γυνὴ καὶ καθαρὰ ᾖ, καὶ ἀθῴα ἔσται καὶ ἐκσπερματιεῖ σπέρμα."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "9.28",
+    "form": "ἀθῶόν",
+    "postag": "a-s---ma-",
+    "sentence": "σείομαι πᾶσι τοῖς μέλεσιν, οἶδα γάρ ὅτι οὐκ ἀθῶόν με ἐάσεις."
+   },
+   {
+    "work_code": "SUS",
+    "work_ja": "スザンナ（Th）",
+    "work_src": "Susanna",
+    "ref": "53",
+    "form": "Ἀθῷον",
+    "postag": "a-s---ma-",
+    "sentence": "νῦν ἥκασί σου αἱ ἁμαρτίαι, ἃς ἐποίεις τὸ πρότερον πιστευθεὶς ἀκούειν καὶ κρίνειν κρίσεις θάνατον ἐπιφερούσας καὶ τὸν μὲν ἀθῷον κατέκρινας, τοὺς δὲ ἐνόχους ἠφίεις, τοῦ κυρίου λέγοντος Ἀθῷον καὶ δίκαιον οὐκ ἀποκτενεῖς ·"
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "21.28",
+    "form": "ἀθῷος",
+    "postag": "a-s---mn-",
+    "sentence": "ὁ δὲ κύριος τοῦ ταύρου ἀθῷος ἔσται."
+   },
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "2.17",
+    "form": "ἀθῷοί",
+    "postag": "a-p---mn-",
+    "sentence": "ἀθῷοί ἐσμεν τῷ ὅρκῳ σου τούτῳ ·"
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "19.5",
+    "form": "ἀθῷον",
+    "postag": "a-s---na-",
+    "sentence": "καὶ ἱνατί ἁμαρτάνεις εἰς αἷμα ἀθῷον θανατῶσαι τὸν Δαυὶδ δωρεάν;"
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "24.4",
+    "form": "ἀθῴου",
+    "postag": "a-s---ng-",
+    "sentence": "καί γε τὸ αἷμα ἀθῷον ἐξέχεε καὶ ἔπλησε τὴν Ἱερουσαλὴμ αἵματος ἀθῴου ·"
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "24.41",
+    "form": "ἀθῷος",
+    "postag": "a-s---mn-",
+    "sentence": "τότε ἀθῷος ἔσῃ ἀπὸ τῆς ἀρᾶς μου ·"
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "27.25",
+    "form": "ἀθῴου",
+    "postag": "a-s---ng-",
+    "sentence": "ἐπικατάρατος ὃς ἂν λάβῃ δῶρα πατάξαι ψυχὴν αἵματος ἀθῴου ·"
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "3.28",
+    "form": "ἀθῶός",
+    "postag": "a-s---mn-",
+    "sentence": "ἀθῶός εἰμι ἐγὼ καὶ ἡ βασιλεία μου ἀπὸ Κυρίου καὶ ἕως αἰῶνος ἀπὸ τῶν αἱμάτων Ἀβεννὴρ υἱοῦ Νήρ ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 7,
+  "works": {
+   "1 Clement": 4,
+   "Didache": 2,
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "46.4",
+    "form": "ἀθῴοις",
+    "postag": "a-p---md-",
+    "sentence": "κολληθῶμεν οὖν τοῖς ἀθῴοις καὶ δικαίοις ·"
+   },
+   {
+    "work_code": "DID",
+    "work_ja": "ディダケー",
+    "work_src": "Didache",
+    "ref": "1.5",
+    "form": "ἀθῷος",
+    "postag": "a-s---mn-",
+    "sentence": "εἰ μὲν γὰρ χρείαν ἔχων λαμβάνει τις, ἀθῷος ἔσται ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "7.1.6",
+    "form": "ἀθῷός",
+    "postag": "a-s---mn-",
+    "sentence": "ὁ οὖν διδοὺς ἀθῷός ἐστιν ·"
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "46.3",
+    "form": "ἀθῷον",
+    "postag": "a-s---ma-",
+    "sentence": "μετὰ ἀνδρὸς ἀθῷον ἀθῷος ἔσῃ καὶ μετὰ ἐκλεκτοῦ ἐκλεκτὸς ἔσῃ."
+   },
+   {
+    "work_code": "DID",
+    "work_ja": "ディダケー",
+    "work_src": "Didache",
+    "ref": "1.5",
+    "form": "ἀθῷος",
+    "postag": "a-s---mn-",
+    "sentence": "ἀθῷος γάρ ἐστιν."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "59.2",
+    "form": "ἀθῷοι",
+    "postag": "a-p---mn-",
+    "sentence": "ἡμεῖς δὲ ἀθῷοι ἐσόμεθα ἀπὸ ταύτης τῆς ἁμαρτίας καὶ αἰτησόμεθα ἐκτενῆ τὴν δέησιν καὶ ἱκεσίαν ποιούμενοι, ὅπως τὸν ἀριθμὸν τὸν κατηριθμημένον τῶν ἐκλεκτῶν αὐτοῦ ἐν ὅλῳ τῷ κόσμῳ διαφυλάξῃ ἄθραυστον ὁ δημιουργὸς τῶν ἁπάντων διὰ τοῦ ἠγαπημένου παιδὸς αὐτοῦ Ἰησοῦ Χριστοῦ, δι’ οὗ ἐκάλεσεν ἡμᾶς ἀπὸ σκότους εἰς φῶς, ἀπὸ ἀγνωσίας εἰς ἐπίγνωσιν δόξης ὀνόματος αὐτοῦ, ἐλπίζειν ἐπὶ τὸ ἀρχεγόνον πάσης κτίσεως ὄνομά σου, ἀνοίξας τοὺς ὀφθαλμοὺς τῆς καρδίας ἡμῶν εἰς τὸ γινώσκειν σε τὸν μόνον ὕψιστον ἐν ὑψίστοις, ἅγιον ἐν ἀγίοις ἀναπαυόμενον."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "46.3",
+    "form": "ἀθῷος",
+    "postag": "a-s---mn-",
+    "sentence": "μετὰ ἀνδρὸς ἀθῷον ἀθῷος ἔσῃ καὶ μετὰ ἐκλεκτοῦ ἐκλεκτὸς ἔσῃ."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2  ἀθῷος (Rec. wrongly, -ῶος; LS, s.v.; Mayser, 131), -ον     (< θωή, a penalty),    [in LXX chiefly for נקה ni., pi., נָקִי;]     unpunished (MM, VGT, s.v.).     innocent: Mt 27:4 (WH, R, mg., δίκαιον) 27:24."
+}

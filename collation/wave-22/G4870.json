@@ -1,0 +1,66 @@
+{
+ "strong": "G4870",
+ "lemma": "συνακολουθέω",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 23:49",
+   "form": "συνακολουθοῦσαι",
+   "morph": "V-PAP-NPF",
+   "gloss_en": "followed",
+   "gloss_ja": "ついて行く",
+   "verse": "εἱστήκεισαν δὲ πάντες οἱ γνωστοὶ αὐτῷ μακρόθεν, καὶ γυναῖκες αἱ συνακολουθοῦσαι αὐτῷ ἀπὸ τῆς Γαλιλαίας, ὁρῶσαι ταῦτα."
+  },
+  {
+   "ref": "MRK 5:37",
+   "form": "συνακολουθῆσαι",
+   "morph": "V-AAN",
+   "gloss_en": "follow",
+   "gloss_ja": "ついて行く",
+   "verse": "καὶ οὐκ ἀφῆκεν οὐδένα μετ’ αὐτοῦ συνακολουθῆσαι εἰ μὴ τὸν Πέτρον καὶ Ἰάκωβον καὶ Ἰωάννην τὸν ἀδελφὸν Ἰακώβου."
+  },
+  {
+   "ref": "MRK 14:51",
+   "form": "συνηκολούθει",
+   "morph": "V-IAI-3S",
+   "gloss_en": "following",
+   "gloss_ja": "ついて行く",
+   "verse": "Καὶ νεανίσκος τις συνηκολούθει αὐτῷ περιβεβλημένος σινδόνα ἐπὶ γυμνοῦ, καὶ κρατοῦσιν αὐτόν,"
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Machabaeorum ii": 2
+  },
+  "representatives": [
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "2.6",
+    "form": "συνακολουθούντων",
+    "postag": "v-pppamg-",
+    "sentence": "καὶ προσελθόντες τινὲς τῶν συνακολουθούντων ὥστε ἐπισημήνασθαι τὴν ὁδὸν καὶ οὐκ ἠδυνήθησαν εὑρεῖν."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "2.4",
+    "form": "συνακολουθεῖν",
+    "postag": "v--pna---",
+    "sentence": "ἦν δὲν ἐν τῇ γραφῇ ὡς τὴν σκηνὴν καὶ τὴν κιβωτὸν ἐκέλευσεν ὁ προφήτης χρηματισμοῦ γενηθέντος αὐτῷ συνακολουθεῖν ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "3 ** συν-ακολουθέω, -ῶ     [in LXX: II Mac 2:4, 6 * ;]     to follow along with, accompany: c. dat. pers., Mk 14:51, Lk 23:49; seq. μετά, c. gen. pers., Mk 5:37.†"
+}

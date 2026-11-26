@@ -1,0 +1,96 @@
+{
+ "strong": "G5335",
+ "lemma": "φάσκω",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 24:9",
+   "form": "φάσκοντες",
+   "morph": "V-PAP-NPM",
+   "gloss_en": "asserting",
+   "gloss_ja": "主張する",
+   "verse": "συνεπέθεντο δὲ καὶ οἱ Ἰουδαῖοι φάσκοντες ταῦτα οὕτως ἔχειν."
+  },
+  {
+   "ref": "ACT 25:19",
+   "form": "ἔφασκεν",
+   "morph": "V-IAI-3S",
+   "gloss_en": "asserted",
+   "gloss_ja": "主張する",
+   "verse": "ζητήματα δέ τινα περὶ τῆς ἰδίας δεισιδαιμονίας εἶχον πρὸς αὐτὸν καὶ περί τινος Ἰησοῦ τεθνηκότος, ὃν ἔφασκεν ὁ Παῦλος ζῆν."
+  },
+  {
+   "ref": "ROM 1:22",
+   "form": "φάσκοντες",
+   "morph": "V-PAP-NPM",
+   "gloss_en": "claiming",
+   "gloss_ja": "主張する",
+   "verse": "φάσκοντες εἶναι σοφοὶ ἐμωράνθησαν,"
+  }
+ ],
+ "lxx": {
+  "total": 5,
+  "works": {
+   "Genesis": 1,
+   "Machabaeorum ii": 2,
+   "Machabaeorum iii": 1,
+   "Bel et Draco": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "14.32",
+    "form": "φασκόντων",
+    "postag": "v-pppamg-",
+    "sentence": "τῶν δὲ μεθ’ ὅρκων φασκόντων μὴ γινώσκειν ποῦ ποτ’ ἔστιν ὁ ζητούμενος, προτείνας τὴν δεξιὰν εἰς τὸν νεὼ ταῦτα ὤμοσε ·"
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "26.20",
+    "form": "φάσκοντες",
+    "postag": "v-pppamn-",
+    "sentence": "καὶ ἐμαχέσαντο οἱ ποιμένες Γεράρων μετὰ τῶν ποιμένων Ἰσαάκ, φάσκοντες αὐτῶν εἶναι τὸ ὕδωρ."
+   },
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "3.7",
+    "form": "φάσκοντες",
+    "postag": "v-pppamn-",
+    "sentence": "τὴν μὲν οὖν περὶ τοῦ γένους ἐν πᾶσι θρυλουμένην εὐπραξίαν οἱ ἀλλόφυλοι οὐδαμῶς διηριθμήσαντο, τὴν δὲ περὶ τῶν προσκυνήσεων καὶ τροφῶν διάστασιν ἐθρύλουν, φάσκοντες μή-τε τῷ βασιλεῖ μή-τε ταῖς δυνάμεσιν ὁμοσπόνδους τοὺς ἀνθρώπους γενέσθαι, δυσμενεῖς δὲ εἶναι καὶ μέγα τι τοῖς πράγμασιν ἐναντιουμένους ·"
+   },
+   {
+    "work_code": "BEL",
+    "work_ja": "ベルと竜（Th）",
+    "work_src": "Bel et Draco",
+    "ref": "8",
+    "form": "φάσκων",
+    "postag": "v-sppamn-",
+    "sentence": "εἰ δὲ μή γε, ἀποθανεῖσθε ἢ Δανιηλ ὁ φάσκων μὴ ἐσθίεσθαι αὐτὰ ὑπ’ αὐτοῦ."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "14.27",
+    "form": "φάσκων",
+    "postag": "v-sppamn-",
+    "sentence": "ὁ δὲ βασιλεὺς ἔκθυμος γενόμενος καὶ ταῖς τοῦ παμπονήρου ἐρεθισθεὶς διαβολαῖς, ἔγραψε Νικάνορι φάσκων ὑπὲρ μὲν τῶν συνθηκῶν βαρέως φέρειν, κελεύων δὲ τὸν Μακκαβαῖον δέσμιον ἐξαποστέλλειν ταχέως εἰς Ἀντιόχειαν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "3 φάσκω     [in LXX: Ge 26:20 (אמר), Da LXX Bel :8, II Mac 14:27, 14:32, III Mac 3:7 * ;]     to affirm, assert: c. acc. et inf., Ac 24:9 25:19; c. inf. et nom., Ro 1:22.†"
+}

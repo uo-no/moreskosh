@@ -1,0 +1,58 @@
+{
+ "strong": "G1028",
+ "lemma": "βροχή",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MAT 7:25",
+   "form": "βροχὴ",
+   "morph": "N-NSF",
+   "gloss_en": "rain",
+   "gloss_ja": "雨",
+   "verse": "καὶ κατέβη ἡ βροχὴ καὶ ἦλθον οἱ ποταμοὶ καὶ ἔπνευσαν οἱ ἄνεμοι καὶ προσέπεσαν τῇ οἰκίᾳ ἐκείνῃ, καὶ οὐκ ἔπεσεν, τεθεμελίωτο γὰρ ἐπὶ τὴν πέτραν."
+  },
+  {
+   "ref": "MAT 7:27",
+   "form": "βροχὴ",
+   "morph": "N-NSF",
+   "gloss_en": "rain",
+   "gloss_ja": "雨",
+   "verse": "καὶ κατέβη ἡ βροχὴ καὶ ἦλθον οἱ ποταμοὶ καὶ ἔπνευσαν οἱ ἄνεμοι καὶ προσέκοψαν τῇ οἰκίᾳ ἐκείνῃ, καὶ ἔπεσεν, καὶ ἦν ἡ πτῶσις αὐτῆς μεγάλη."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Psalmi": 2
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "67.10",
+    "form": "βροχὴν",
+    "postag": "n-s---fa-",
+    "sentence": "βροχὴν ἑκούσιον ἀφοριεῖς, ὁ Θεός, τῇ κληρονομίᾳ σου, καὶ ἠσθένησε, σὺ δὲ κατηρτίσω αὐτήν."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "104.32",
+    "form": "βροχὰς",
+    "postag": "n-p---fa-",
+    "sentence": "ἔθετο τὰς βροχὰς αὐτῶν χάλαζαν, πῦρ καταφλέγον ἐν τῇ γῇ αὐτῶν, καὶ ἐπάταξε τὰς ἀμπέλους αὐτῶν καὶ τὰς συκᾶς αὐτῶν καὶ συνέτριψε πᾶν ξύλον ὁρίου αὐτῶν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   βροχή, -ῆς, ἡ     (< βρέχω),    [in LXX: Ps 67 (68):9, 104 (105):32 (גֶּשֶׁם)* ;]         = βροχετός, a wetting (in π., of irrigation in Egypt; Deiss., LAE, 77).      As in MGr. (Kennedy, Sources, 153), = ὑετός, rain: Mt 7:25, 27.†"
+}

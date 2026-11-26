@@ -1,0 +1,59 @@
+{
+ "strong": "G118",
+ "lemma": "ἀθλέω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2TI 2:5",
+   "form": "ἀθλῇ",
+   "morph": "V-PAS-3S",
+   "gloss_en": "competes as an athlete",
+   "gloss_ja": "競技する",
+   "verse": "ἐὰν δὲ καὶ ἀθλῇ τις, οὐ στεφανοῦται ἐὰν μὴ νομίμως ἀθλήσῃ·"
+  },
+  {
+   "ref": "2TI 2:5",
+   "form": "ἀθλήσῃ",
+   "morph": "V-AAS-3S",
+   "gloss_en": "competes",
+   "gloss_ja": "競技する",
+   "verse": "ἐὰν δὲ καὶ ἀθλῇ τις, οὐ στεφανοῦται ἐὰν μὴ νομίμως ἀθλήσῃ·"
+  }
+ ],
+ "lxx": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "1 Clement": 1,
+   "2 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "5.2",
+    "form": "ἤθλησαν",
+    "postag": "v3paia---",
+    "sentence": "διὰ ζῆλον καὶ φθόνον οἱ μέγιστοι καὶ δικαιότατοι στύλοι ἐδιώχθησαν καὶ ἕως θανάτου ἤθλησαν."
+   },
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "20.2",
+    "form": "ἀθλοῦμεν",
+    "postag": "v1ppia---",
+    "sentence": "θεοῦ ζῶντος πεῖραν ἀθλοῦμεν καὶ γυμναζόμεθα τῷ νῦν βίῳ, ἵνα τῷ μέλλοντι στεφανωθῶμεν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2  * ἀθλέω, -ῶ (in cl. also ἀθλεύω, < ἆθλος, a contest, in war or in sport),    to contend in games, wrestle, combat: II Ti 2:5.†"
+}

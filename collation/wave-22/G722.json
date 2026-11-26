@@ -1,0 +1,144 @@
+{
+ "strong": "G722",
+ "lemma": "ἀροτριάω",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 9:10",
+   "form": "ἀροτριῶν",
+   "morph": "V-PAP-NSM",
+   "gloss_en": "plows",
+   "gloss_ja": "耕す",
+   "verse": "ἢ δι’ ἡμᾶς πάντως λέγει; δι’ ἡμᾶς γὰρ ἐγράφη, ὅτι ὀφείλει ἐπ’ ἐλπίδι ὁ ἀροτριῶν ἀροτριᾶν, καὶ ὁ ἀλοῶν ἐπ’ ἐλπίδι τοῦ μετέχειν."
+  },
+  {
+   "ref": "1CO 9:10",
+   "form": "ἀροτριᾶν",
+   "morph": "V-PAN",
+   "gloss_en": "plow",
+   "gloss_ja": "耕す",
+   "verse": "ἢ δι’ ἡμᾶς πάντως λέγει; δι’ ἡμᾶς γὰρ ἐγράφη, ὅτι ὀφείλει ἐπ’ ἐλπίδι ὁ ἀροτριῶν ἀροτριᾶν, καὶ ὁ ἀλοῶν ἐπ’ ἐλπίδι τοῦ μετέχειν."
+  },
+  {
+   "ref": "LUK 17:7",
+   "form": "ἀροτριῶντα",
+   "morph": "V-PAP-ASM",
+   "gloss_en": "plowing",
+   "gloss_ja": "耕す",
+   "verse": "Τίς δὲ ἐξ ὑμῶν δοῦλον ἔχων ἀροτριῶντα ἢ ποιμαίνοντα, ὃς εἰσελθόντι ἐκ τοῦ ἀγροῦ ἐρεῖ αὐτῷ· Εὐθέως παρελθὼν ἀνάπεσε,"
+  }
+ ],
+ "lxx": {
+  "total": 10,
+  "works": {
+   "Deuteronomium": 1,
+   "Regnorum iii": 1,
+   "Job": 1,
+   "Ecclesiasticus sive Siracides": 2,
+   "Michaeas": 1,
+   "Isaias": 3,
+   "Jeremias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "28.24",
+    "form": "ἀροτριῶν",
+    "postag": "v-sppamn-",
+    "sentence": "μὴ ὅλην τὴν ἡμέραν ἀροτριάσει ὁ ἀροτριῶν;"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "7.12",
+    "form": "ἀροτρία",
+    "postag": "v2spma---",
+    "sentence": "μὴ ἀροτρία ψεῦδος ἐπ’ ἀδελφῷ σου, μη-δὲ φίλῳ τὸ ὅμοιον ποίει."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "22.10",
+    "form": "ἀροτριάσεις",
+    "postag": "v2sfia---",
+    "sentence": "οὐκ ἀροτριάσεις ἐν μόσχῳ καὶ ὄνῳ ἐπὶ τὸ αὐτό."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "19.19",
+    "form": "ἠροτρία",
+    "postag": "v3siia---",
+    "sentence": "καὶ ἀπῆλθεν ἐκεῖθεν καὶ εὑρίσκει τὸν Ἑλισαιὲ υἱὸν Σαφάτ, καὶ αὐτὸς ἠροτρία ἐν βουσὶ — δώδεκα ζεύγη ἐνώπιον αὐτοῦ, καὶ αὐτὸς ἐν τοῖς δώδεκα — καὶ ἀπῆλθεν ἐπ’ αὐτὸν καὶ ἐπέρριψε τὴν μηλωτὴν αὐτοῦ ἐπ’ αὐτόν."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "1.14",
+    "form": "ἠροτρία",
+    "postag": "v3siia---",
+    "sentence": "τὰ ζεύγη τῶν βοῶν ἠροτρία, καὶ αἱ θήλειαι ὄνοι ἐβόσκοντο ἐχόμεναι αὐτῶν, καὶ ἐλθόντες οἱ αἰχμαλωτεύοντες ᾐχμαλώτευσαν αὐτὰς καὶ τοὺς παῖδας ἀπέκτειναν ἐν μαχαίραις ·"
+   },
+   {
+    "work_code": "MIC",
+    "work_ja": "ミカ書",
+    "work_src": "Michaeas",
+    "ref": "3.12",
+    "form": "ἀροτριαθήσεται",
+    "postag": "v3sfip---",
+    "sentence": "διὰ τοῦτο δι’ ἡμᾶς Σιὼν ὡς ἀγρὸς ἀροτριαθήσεται, καὶ Ἱερουσαλὴμ ὡς ὀπωροφυλάκιον ἔσται καὶ τὸ ὄρος τοῦ οἴκου εἰς ἄλσος δρυμοῦ."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "33.18",
+    "form": "ἀροτριαθήσεται",
+    "postag": "v3sfip---",
+    "sentence": "Σιὼν ὡς ἀγρὸς ἀροτριαθήσεται, καὶ Ἱερουσαλὴμ εἰς ἄβατον ἔσται καὶ τὸ ὄρος τοῦ οἴκου εἰς ἄλσος δρυμοῦ."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "7.25",
+    "form": "ἀροτριώμενον",
+    "postag": "v-sppmnn-",
+    "sentence": "καὶ πᾶν ὄρος ἀροτριώμενον ἀροτριωθήσεται, καὶ οὐ μὴ ἐπέλθῃ ἐκεῖ φόβος ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "6.19",
+    "form": "ἀροτριῶν",
+    "postag": "v-sppamn-",
+    "sentence": "ὡς ὁ ἀροτριῶν καὶ ὁ σπείρων πρόσελθε αὐτῇ καὶ ἀνάμενε τοὺς ἀγαθοὺς καρποὺς αὐτῆς ·"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "45.9",
+    "form": "ἀροτριῶν",
+    "postag": "v-sppamn-",
+    "sentence": "μὴ ὁ ἀροτριῶν ἀροτριάσει τὴν γῆν ὅλην τὴν ἡμέραν;"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "3   † ἀροτριάω, -ῶ    (< ἄροτρον),   [in LXX: De 22:10, al. (חרשׁ), Is 7:25 (עדר);]    later form of ἀρόω, to plough (MM, s.v.): Lk 17:7, I Co 9:10.†"
+}

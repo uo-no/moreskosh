@@ -1,0 +1,71 @@
+{
+ "strong": "G126",
+ "lemma": "ἀΐδιος",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JUD 1:6",
+   "form": "ἀϊδίοις",
+   "morph": "A-DPM",
+   "gloss_en": "eternal",
+   "gloss_ja": "永遠の",
+   "verse": "ἀγγέλους τε τοὺς μὴ τηρήσαντας τὴν ἑαυτῶν ἀρχὴν ἀλλὰ ἀπολιπόντας τὸ ἴδιον οἰκητήριον εἰς κρίσιν μεγάλης ἡμέρας δεσμοῖς ἀϊδίοις ὑπὸ ζόφον τετήρηκεν·"
+  },
+  {
+   "ref": "ROM 1:20",
+   "form": "ἀΐδιος",
+   "morph": "A-NSF",
+   "gloss_en": "eternal",
+   "gloss_ja": "永遠の",
+   "verse": "τὰ γὰρ ἀόρατα αὐτοῦ ἀπὸ κτίσεως κόσμου τοῖς ποιήμασιν νοούμενα καθορᾶται, ἥ τε ἀΐδιος αὐτοῦ δύναμις καὶ θειότης, εἰς τὸ εἶναι αὐτοὺς ἀναπολογήτους,"
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Machabaeorum iv": 1,
+   "Sapientia Salomonis": 1
+  },
+  "representatives": [
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "10.15",
+    "form": "ἀΐδιον",
+    "postag": "a-s---ma-",
+    "sentence": "μὰ τὸν μακάριον τῶν ἀδελφῶν μου θάνατον καὶ τὸν αἰώνιον τοῦ τυράννου ὄλεθρον καὶ τὸν ἀΐδιον τῶν εὐσεβῶν βίον οὐκ ἀρνήσομαι τὴν εὐγενῆ ἀδελφότητα."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "7.26",
+    "form": "ἀϊδίου",
+    "postag": "a-s---ng-",
+    "sentence": "ἀπαύγασμα γάρ ἐστι φωτὸς ἀϊδίου καὶ ἔσοπτρον ἀκηλίδωτον τῆς τοῦ Θεοῦ ἐνεργείας καὶ εἰκὼν τῆς ἀγαθότητος αὐτοῦ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Ignatius, Letters": 1
+  },
+  "representatives": [
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "1.19.3",
+    "form": "ἀϊδίου",
+    "postag": "a-s---fg-",
+    "sentence": "ἄγνοια καθῃρεῖτο, παλαιὰ βασιλεία διεφθείρετο θεοῦ ἀνθρωπίνως φανερουμένου εἰς καινότητα ἀϊδίου ζωῆς ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2  ** ἀΐδιος, -ον    (< ἀεί),   [in LXX: Wi 7:26, IV Mac 10:15*;]   everlasting (freq. in Inscr.; MM, VGT, s.v.): Ro 1:20, Ju 6.†   SYN.: αἰώνιος, also freq. in Inscr. (Deiss., BS, 363 J. The etymological distinction between the meanings of the two words seems not to be retained in late Greek (v. Thayer, s.v., αἰώνιος; cf. Cremer, 79, 611)."
+}

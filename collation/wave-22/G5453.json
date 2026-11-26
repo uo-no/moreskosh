@@ -1,0 +1,165 @@
+{
+ "strong": "G5453",
+ "lemma": "φύω",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "HEB 12:15",
+   "form": "φύουσα",
+   "morph": "V-PAP-NSF",
+   "gloss_en": "springs",
+   "gloss_ja": "生える",
+   "verse": "ἐπισκοποῦντες μή τις ὑστερῶν ἀπὸ τῆς χάριτος τοῦ θεοῦ, μή τις ῥίζα πικρίας ἄνω φύουσα ἐνοχλῇ καὶ δι’ αὐτῆς μιανθῶσιν πολλοί,"
+  },
+  {
+   "ref": "LUK 8:6",
+   "form": "φυὲν",
+   "morph": "V-2APP-NSN",
+   "gloss_en": "grew up",
+   "gloss_ja": "生える",
+   "verse": "καὶ ἕτερον κατέπεσεν ἐπὶ τὴν πέτραν, καὶ φυὲν ἐξηράνθη διὰ τὸ μὴ ἔχειν ἰκμάδα."
+  },
+  {
+   "ref": "LUK 8:8",
+   "form": "φυὲν",
+   "morph": "V-2APP-NSN",
+   "gloss_en": "came up",
+   "gloss_ja": "生える",
+   "verse": "καὶ ἕτερον ἔπεσεν εἰς τὴν γῆν τὴν ἀγαθήν, καὶ φυὲν ἐποίησεν καρπὸν ἑκατονταπλασίονα. ταῦτα λέγων ἐφώνει· Ὁ ἔχων ὦτα ἀκούειν ἀκουέτω."
+  }
+ ],
+ "lxx": {
+  "total": 14,
+  "works": {
+   "Exodus": 1,
+   "Deuteronomium": 1,
+   "Machabaeorum i": 1,
+   "Machabaeorum iv": 1,
+   "Odae": 1,
+   "Proverbia": 2,
+   "Canticum": 1,
+   "Ecclesiasticus sive Siracides": 2,
+   "Ezechiel": 1,
+   "Daniel": 3
+  },
+  "representatives": [
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "3.76",
+    "form": "φυόμενα",
+    "postag": "v-pppmna-",
+    "sentence": "εὐλογεῖτε, πάντα τά φυόμενα ἐν τῇ γῇ, τὸν Κύριον ·"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "26.9",
+    "form": "φύονται",
+    "postag": "v3ppim---",
+    "sentence": "ἄκανθαι φύονται ἐν χειρὶ μεθύσου, δουλεία δὲ ἐν χειρὶ τῶν ἀφρόνων."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "14.18",
+    "form": "φύει",
+    "postag": "v3spia---",
+    "sentence": "ὡς φύλλον θάλλον ἐπὶ δένδρου δασέος, τὰ μὲν καταβάλλει, ἄλλα δὲ φύει, οὕτως γενεὰ σαρκὸς καὶ αἵματος, ἡ μὲν τελευτᾷ, ἑτέρα δὲ γεννᾶται."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "10.5",
+    "form": "φυόμενον",
+    "postag": "v-sppmnn-",
+    "sentence": "ἐὰν δὲ μὴ θέλῃς σὺ ἐξαποστεῖλαι τὸν λαόν μου, ἰδοὺ ἐγὼ ἐπάγω ταύτην τὴν ὥραν αὔριον ἀκρίδα πολλὴν ἐπὶ πάντα τὰ ὅριά σου, καὶ καλύψει τὴν ὄψιν τῆς γῆς, καὶ οὐ δυνήσῃ κατιδεῖν τὴν γῆν, καὶ κατέδεται πᾶν τὸ περισσὸν τῆς γῆς τὸ καταλειφθέν, ὃ κατέλιπεν ὑμῖν ἡ χάλαζα, καὶ κατέδεται πᾶν ξύλον τὸ φυόμενον ὑμῖν ἐπὶ τῆς γῆς ·"
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "29.17",
+    "form": "φύουσα",
+    "postag": "v-sppafn-",
+    "sentence": "μὴ τίς ἐστιν ἐν ὑμῖν ρίζα ἄνω φύουσα ἐν χολῇ καὶ πικρίᾳ;"
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "4.38",
+    "form": "πεφυκότα",
+    "postag": "v-prpana-",
+    "sentence": "καὶ εἶδον τὸ ἁγίασμα ἠρημωμένον καὶ τὸ θυσιαστήριον βεβηλωμένον καὶ τὰς πύλας κατακεκαυμένας καὶ ἐν ταῖς αὐλαῖς φυτὰ πεφυκότα ὡς ἐν δρυμῷ ἢ ὡς ἑνὶ τῶν ὀρέων καὶ τὰ παστοφόρια καθῃρημένα."
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "1.20",
+    "form": "πέφυκεν",
+    "postag": "v3sria---",
+    "sentence": "τούτων δὲ ἑκάτερον καὶ περὶ τὸ σῶμα καὶ περὶ τὴν ψυχὴν πέφυκεν."
+   },
+   {
+    "work_code": "ODE",
+    "work_ja": "頌歌（オード）",
+    "work_src": "Odae",
+    "ref": "11.76",
+    "form": "φυόμενα",
+    "postag": "v-pppmna-",
+    "sentence": "εὐλογεῖτε, πάντα τὰ φυόμενα ἐν τῇ γῇ, τὸν κύριον ·"
+   },
+   {
+    "work_code": "SNG",
+    "work_ja": "雅歌",
+    "work_src": "Canticum",
+    "ref": "5.13",
+    "form": "φύουσαι",
+    "postag": "v-pppafn-",
+    "sentence": "σιαγόνες αὐτοῦ ὡς φιάλαι τοῦ ἀρώματος φύουσαι μυρεψικά ·"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "37.8",
+    "form": "ἐφύοντο",
+    "postag": "v3piim---",
+    "sentence": "καὶ εἶδον καὶ ἰδοὺ ἐπ’ αὐτὰ νεῦρα καὶ σάρκες ἐφύοντο, καὶ ἀνέβαινεν ἐπ’ αὐτὰ δέρμα ἐπάνω, καὶ πνεῦμα οὐκ ἦν ἐπ’ αὐτοῖς."
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "3.76",
+    "form": "φυόμενα",
+    "postag": "v-pppmna-",
+    "sentence": "εὐλογεῖτε, πάντα τὰ φυόμενα ἐπὶ τῆς γῆς, τὸν κύριον ·"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "11.30",
+    "form": "φύεται",
+    "postag": "v3spim---",
+    "sentence": "ἐκ καρποῦ δικαιοσύνης φύεται δένδρον ζωῆς, ἀφαιροῦνται δὲ ἄωροι ψυχαὶ παρανόμων."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "3 φύω    [in LXX: Pr 26:9, Ez 37:8 (עלה), etc. ;]     trans., to bring forth, produce (of men, to beget); pass., to spring up, grow: Lk 8:6, 8.    Intrans., in 2 aor., pf., plpf., and rarely in pres. (v. LS, s.v., A, II.), to spring up: He 12:15.†"
+}

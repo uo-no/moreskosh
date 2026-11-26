@@ -1,0 +1,145 @@
+{
+ "strong": "G1416",
+ "lemma": "δύνω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": "δυω",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 4:40",
+   "form": "Δύνοντος",
+   "morph": "V-PAP-GSM",
+   "gloss_en": "setting",
+   "gloss_ja": "沈む",
+   "verse": "Δύνοντος δὲ τοῦ ἡλίου ἅπαντες ὅσοι εἶχον ἀσθενοῦντας νόσοις ποικίλαις ἤγαγον αὐτοὺς πρὸς αὐτόν· ὁ δὲ ἑνὶ ἑκάστῳ αὐτῶν τὰς χεῖρας ἐπιτιθεὶς ἐθεράπευεν αὐτούς."
+  },
+  {
+   "ref": "MRK 1:32",
+   "form": "ἔδυ",
+   "morph": "V-AAI-3S",
+   "gloss_en": "set",
+   "gloss_ja": "沈む",
+   "verse": "Ὀψίας δὲ γενομένης, ὅτε ἔδυ ὁ ἥλιος, ἔφερον πρὸς αὐτὸν πάντας τοὺς κακῶς ἔχοντας καὶ τοὺς δαιμονιζομένους·"
+  }
+ ],
+ "lxx": {
+  "total": 11,
+  "works": {
+   "Genesis": 1,
+   "Judices": 1,
+   "Paralipomenon ii sive Chronicon ii": 1,
+   "Tobias": 4,
+   "Machabaeorum i": 2,
+   "Odae": 1,
+   "Jonas": 1
+  },
+  "representatives": [
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "2.7",
+    "form": "ἔδυ",
+    "postag": "v3saia---",
+    "sentence": "καὶ ὅτε ἔδυ ὁ ἥλιος, ᾠχόμην καὶ ὀρύξας ἔθαψα αὐτόν."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "10.50",
+    "form": "ἔδυ",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἐστερέωσε τὸν πόλεμον σφόδρα, ἕως ἔδυ ὁ ἥλιος, καὶ ἔπεσεν ὁ Δημήτριος ἐν τῇ ἡμέρᾳ ἐκείνῃ."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "28.11",
+    "form": "ἔδυ",
+    "postag": "v3saia---",
+    "sentence": "ἔδυ γὰρ ὁ ἥλιος ·"
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "19.14",
+    "form": "ἔδυ",
+    "postag": "v3saia---",
+    "sentence": "καὶ παρῆλθον καὶ ἐπορεύθησαν, καὶ ἔδυ αὐτοῖς ὁ ἥλιος ἐχόμενα τῆς Γαβαά, ἥ ἐστι τῷ Βενιαμίν."
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "18.34",
+    "form": "δύνοντος",
+    "postag": "v-sppamg-",
+    "sentence": "καὶ ὁ βασιλεὺς Ἰσραὴλ ἦν ἑστηκὼς ἐπὶ τοῦ ἅρματος ἐξεναντίας Συρίας ἕως ἑσπέρας καὶ ἀπέθανε δύνοντος τοῦ ἡλίου."
+   },
+   {
+    "work_code": "ODE",
+    "work_ja": "頌歌（オード）",
+    "work_src": "Odae",
+    "ref": "4.6",
+    "form": "ἔδυ",
+    "postag": "v3saia---",
+    "sentence": "περιεχύθη μοι ὕδωρ ἕως ψυχῆς μου, ἄβυσσος ἐκύκλωσέν με ἐσχάτη, ἔδυ ἡ κεφαλή μου εἰς σχισμὰς ὀρέων."
+   },
+   {
+    "work_code": "JON",
+    "work_ja": "ヨナ書",
+    "work_src": "Jonas",
+    "ref": "2.6",
+    "form": "ἔδυ",
+    "postag": "v3saia---",
+    "sentence": "περιεχύθη μοι ὕδωρ ἕως ψυχῆς, ἄβυσσος ἐκύκλωσέ με ἐσχάτη, ἔδυ ἡ κεφαλή μου εἰς σχισμὰς ὀρέων."
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "2.7",
+    "form": "ἔδυ",
+    "postag": "v3saia---",
+    "sentence": "καὶ ὅτε ἔδυ ὁ ἥλιος, ᾠχόμην καὶ ὀρύξας ἔθαψα αὐτόν."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "12.27",
+    "form": "ἔδυ",
+    "postag": "v3saia---",
+    "sentence": "ὡς δὲ ἔδυ ὁ ἥλιος, ἐπέταξεν Ἰωνάθαν τοῖς παρ’ αὐτοῦ γρηγορεῖν καὶ εἶναι ἐπὶ τοῖς ὅπλοις καὶ ἑτοιμάζεσθαι εἰς πόλεμον δι’ ὅλης τῆς νυκτὸς καὶ ἐξέβαλε προφύλακας κύκλῳ τῆς παρεμβολῆς."
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "2.4",
+    "form": "ἔδυ",
+    "postag": "v3saia---",
+    "sentence": "κα-κἀγὼ πρὶν ἢ γεύσασθαί με, ἀναπηδήσας ἀνειλόμην αὐτὸν εἴς τι οἴκημα, ἕως οὗ ἔδυ ὁ ἥλιος."
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "10.7",
+    "form": "ἔδυ",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἐκπηδήσασα περιεβλέπετο τὴν ὁδόν, ᾗ ᾤχετο ὁ υἱὸς αὐτῆς, καθ’ ἡμέραν καὶ οὐκ ἐπείθετο οὐδενί, καὶ ὅτε ἔδυ ὁ ἥλιος, εἰσπορευομένη ἐθρήνει καὶ ἔκλαιεν τὴν νύκτα ὅλην καὶ οὐκ εἶχεν ὕπνον."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   δύνω , Ion, and trag. form of δύω,     [in LXX chiefly for בּוֹא ;]       to enter, sink into; of the sun (sc. πόντον), set: Mk 1:32, Lk 4:40     (cf. ἐκ-, ἀπ-εκ-, ἐν-, ἐπ-εν-, παρ-εισ-, ἐπι-δύνω).†"
+}

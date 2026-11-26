@@ -1,0 +1,248 @@
+{
+ "strong": "G538",
+ "lemma": "ἀπατάω",
+ "nt_freq": 3,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1TI 2:14",
+   "form": "ἠπατήθη",
+   "morph": "V-API-3S",
+   "gloss_en": "deceived",
+   "gloss_ja": "欺く",
+   "verse": "καὶ Ἀδὰμ οὐκ ἠπατήθη, ἡ δὲ γυνὴ ἐξαπατηθεῖσα ἐν παραβάσει γέγονεν."
+  },
+  {
+   "ref": "EPH 5:6",
+   "form": "ἀπατάτω",
+   "morph": "V-PAM-3S",
+   "gloss_en": "deceive",
+   "gloss_ja": "欺く",
+   "verse": "Μηδεὶς ὑμᾶς ἀπατάτω κενοῖς λόγοις, διὰ ταῦτα γὰρ ἔρχεται ἡ ὀργὴ τοῦ θεοῦ ἐπὶ τοὺς υἱοὺς τῆς ἀπειθείας."
+  },
+  {
+   "ref": "JAS 1:26",
+   "form": "ἀπατῶν",
+   "morph": "V-PAP-NSM",
+   "gloss_en": "deceives",
+   "gloss_ja": "欺く",
+   "verse": "Εἴ τις δοκεῖ θρησκὸς εἶναι μὴ χαλιναγωγῶν γλῶσσαν αὐτοῦ ἀλλὰ ἀπατῶν καρδίαν αὐτοῦ, τούτου μάταιος ἡ θρησκεία."
+  }
+ ],
+ "lxx": {
+  "total": 34,
+  "works": {
+   "Genesis": 1,
+   "Exodus": 1,
+   "Judices": 2,
+   "Regnorum ii": 1,
+   "Regnorum iii": 3,
+   "Regnorum iv": 1,
+   "Paralipomenon ii sive Chronicon ii": 5,
+   "Judith": 2,
+   "Psalmi": 1,
+   "Proverbia": 1,
+   "Job": 2,
+   "Sapientia Salomonis": 1,
+   "Ecclesiasticus sive Siracides": 1,
+   "Psalmi Salomonis": 1,
+   "Isaias": 3,
+   "Jeremias": 7,
+   "Susanna": 1
+  },
+  "representatives": [
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "20.7",
+    "form": "ἠπάτησάς",
+    "postag": "v2saia---",
+    "sentence": "ἠπάτησάς με, Κύριε, καὶ ἠπατήθην, ἐκράτησας καὶ ἠδυνάσθης ·"
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "18.21",
+    "form": "ἀπατήσεις",
+    "postag": "v2sfia---",
+    "sentence": "ἀπατήσεις καὶ δυνήσῃ, ἔξελθε καὶ ποίησον οὕτω."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "22.20",
+    "form": "ἀπατήσει",
+    "postag": "v3sfia---",
+    "sentence": "τίς ἀπατήσει τὸν Ἀχαὰβ βασιλέα Ἰσραὴλ καὶ ἀναβήσεται καὶ πεσεῖται ἐν Ῥεμμὰθ Γαλαάδ;"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "36.18",
+    "form": "ἀπατάτω",
+    "postag": "v3spma---",
+    "sentence": "μὴ ἀπατάτω ὑμᾶς Ἐζεκίας λέγων ·"
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "14.15",
+    "form": "ἀπάτησον",
+    "postag": "v2sama---",
+    "sentence": "ἀπάτησον δὴ τὸν ἄνδρα σου καὶ ἀπαγγειλάτω σοι τὸ πρόβλημα, μή ποτε κατακαύσωμέν σε καὶ τὸν οἶκον τοῦ πατρός σου ἐν πυρί ·"
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "12.16",
+    "form": "ἀπατῆσαι",
+    "postag": "v--ana---",
+    "sentence": "καὶ ἐτήρει καιρὸν τοῦ ἀπατῆσαι αὐτὴν ἀφ’ ἧς ἡμέρας εἶδεν αὐτήν."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "36.16",
+    "form": "ἠπάτησέ",
+    "postag": "v3saia---",
+    "sentence": "καὶ προσέτι ἠπάτησέ σε ἐκ στόματος ἐχθροῦ ·"
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "3.13",
+    "form": "ἠπάτησέ",
+    "postag": "v3saia---",
+    "sentence": "ὁ ὄφις ἠπάτησέ με, καὶ ἔφαγον."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "22.16",
+    "form": "ἀπατήσῃ",
+    "postag": "v3sasa---",
+    "sentence": "ἐὰν δὲ ἀπατήσῃ τις παρθένον ἀμνήστευτον καὶ κοιμηθῇ μετ’ αὐτῆς, φερνῇ φερνιεῖ αὐτὴν αὐτῷ γυναῖκα."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "3.25",
+    "form": "ἀπατῆσαί",
+    "postag": "v--ana---",
+    "sentence": "ἦ οὐκ οἶδας τὴν κακίαν Ἀβεννὴρ υἱοῦ Νήρ, ὅτι ἀπατῆσαί σε παρεγένετο καὶ γνῶναι τὴν ἔξοδόν σου καὶ τὴν εἴσοδόν σου καὶ γνῶναι ἅπαντα, ὅσα σὺ ποιεῖς;"
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "18.32",
+    "form": "ἀπατᾷ",
+    "postag": "v3spia---",
+    "sentence": "καὶ μὴ ἀκούετε Ἐζεκίου, ὅτι ἀπατᾷ ὑμᾶς λέγων ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "76.3",
+    "form": "ἠπατήθην",
+    "postag": "v1saip---",
+    "sentence": "ἐν ἡμέρᾳ θλίψεώς μου τὸν Θεὸν ἐξεζήτησα, ταῖς χερσί μου νυκτὸς ἐναντίον αὐτοῦ, καὶ οὐκ ἠπατήθην ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 9,
+  "works": {
+   "To Diognetus": 1,
+   "Hermas, Pastor": 8
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.13.9",
+    "form": "ἀπατηθέντες",
+    "postag": "v-pappmn-",
+    "sentence": "οἱ δὲ μὴ ἀπατηθέντες τῷ κάλλει τῶν γυναικῶν τούτων ἔμειναν ἐν τῷ οἴκῳ τοῦ θεοῦ."
+   },
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "2",
+    "form": "ἀπατῶσάν",
+    "postag": "v-sppafa-",
+    "sentence": "ἄγε δή, καθάρας σεαυτὸν ἀπὸ πάντων τῶν προκατεχόντων σου τὴν διάνοιαν λογισμῶν καὶ τὴν ἀπατῶσάν σε συνήθειαν ἀποσκευασάμενος, καὶ γενόμενος ὥσπερ ἐξ ἀρχῆς καινὸς ἄνθρωπος, ὡς ἂν καὶ λόγον καινοῦ, καθάπερ καὶ αὐτὸς ὡμολόγησας, ἀκροατὴς ἐσόμενος ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "23.4.1",
+    "form": "ἀπατώμενοι",
+    "postag": "v-pppmmn-",
+    "sentence": "εἰ ἄρα, φημί, κύριε, τὸν αὐτὸν χρόνον βασανίζονται οἱ τρυφῶντες καὶ ἀπατώμενοι, ὅσον τρυφῶσι καὶ ἀπατῶνται;"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "23.4.1",
+    "form": "ἀπατῶνται",
+    "postag": "v3ppim---",
+    "sentence": "εἰ ἄρα, φημί, κύριε, τὸν αὐτὸν χρόνον βασανίζονται οἱ τρυφῶντες καὶ ἀπατώμενοι, ὅσον τρυφῶσι καὶ ἀπατῶνται;"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "23.5.4",
+    "form": "ἀπατώμενος",
+    "postag": "v-sppmmn-",
+    "sentence": "πᾶς οὖν ἄνθρωπος ὁ τρυφῶν καὶ ἀπατώμενος οὕτω βασανίζεται, ὅτι ἔχοντες ζωὴν εἰς θάνατον ἑαυτοὺς παραδεδώκασι."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "23.4.4",
+    "form": "ἀπατηθῇ",
+    "postag": "v3sasp---",
+    "sentence": "ἐὰν οὖν μίαν ἡμέραν τρυφήσῃ τις καὶ ἀπατηθῇ, μίαν δὲ ἡμέραν βασανισθῇ, ὅλον ἐνιαυτὸν ἰσχύει ἡ ἡμέρα τῆς βασάνου."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "16.1.13",
+    "form": "ἀπατᾷ",
+    "postag": "v3spia---",
+    "sentence": "κολλᾶται δὲ τοῖς διψύχοις καὶ κενοῖς καὶ κατὰ γωνίαν αὐτοῖς προφητεύει καὶ ἀπατᾷ αὐτοὺς λαλῶν κατὰ τὰς ἐπιθυμίας αὐτῶν πάντα κενῶς ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "23.2.1",
+    "form": "ἀπατῶν",
+    "postag": "v-sppamn-",
+    "sentence": "οὗτος ἐκτρίβει τὰς ψυχὰς τῶν δούλων τοῦ θεοῦ καὶ καταστρέφει αὐτοὺς ἀπὸ τῆς ἀληθείας, ἀπατῶν αὐτοὺς ταῖς ἐπιθομίαις ταῖς πονηραῖς, ἐν αἷς ἀπόλλυνται."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3   ἀπατάω, -ῶ    (< ἀπάτη),   [in LXX for פּתה, נשׁא hi., etc.;]    to deceive: c. acc., Ja 1:26; c. acc. pers., dat. rei, Eph 5:6; pass., I Ti 2:14 (on its infrequency in late writers, v. MM, VGT, s.v.; cf. ἐξαπατάω).†"
+}

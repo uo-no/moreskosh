@@ -1,0 +1,49 @@
+{
+ "strong": "G1371",
+ "lemma": "διχοτομέω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 12:46",
+   "form": "διχοτομήσει",
+   "morph": "V-FAI-3S",
+   "gloss_en": "cut ~ inpieces",
+   "gloss_ja": "真っ二つにする",
+   "verse": "ἥξει ὁ κύριος τοῦ δούλου ἐκείνου ἐν ἡμέρᾳ ᾗ οὐ προσδοκᾷ καὶ ἐν ὥρᾳ ᾗ οὐ γινώσκει, καὶ διχοτομήσει αὐτὸν καὶ τὸ μέρος αὐτοῦ μετὰ τῶν ἀπίστων θήσει."
+  },
+  {
+   "ref": "MAT 24:51",
+   "form": "διχοτομήσει",
+   "morph": "V-FAI-3S",
+   "gloss_en": "cut ~ inpieces",
+   "gloss_ja": "真っ二つにする",
+   "verse": "καὶ διχοτομήσει αὐτὸν καὶ τὸ μέρος αὐτοῦ μετὰ τῶν ὑποκριτῶν θήσει· ἐκεῖ ἔσται ὁ κλαυθμὸς καὶ ὁ βρυγμὸς τῶν ὀδόντων."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Exodus": 1
+  },
+  "representatives": [
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "29.17",
+    "form": "διχοτομήσεις",
+    "postag": "v2sfia---",
+    "sentence": "καὶ τὸν κριὸν διχοτομήσεις κατὰ μέλη καὶ πλυνεῖς τὰ ἐνδόσθια καὶ τούς πόδας ὕδατι καὶ ἐπιθήσεις ἐπὶ τὰ διχοτομήματα σὺν τῇ κεφαλῇ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   διχοτομέω, -ῶ    (< διχοτόμος, < δίχα, τέμνω),    [in LXX: Ex 29:17 (נתח pi.) ;]    to cut in two, cut asunder: perh. metaph. of severe scourging (but v. Meyer on Mt, l.c., and cf. I Ki 15:33, II Ki 12:31, He 11:37), Mt 24:51, Lk 12:46.†"
+}
