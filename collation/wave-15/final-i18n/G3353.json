@@ -1,0 +1,51 @@
+{
+  "strong": "G3353",
+  "lemma": "μέτοχος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "あずかる者・共にする者",
+      "def_ja": "共にあずかる者。『天の召しにあずかる聖なる兄弟たち』『みなが受けている懲らしめに』『聖霊にあずかる者となり』『キリストにあずかる者』『あなたの仲間にまさって』。",
+      "label_en": "partaker, sharer",
+      "def_en": "One who shares in something together.",
+      "label_es": "partícipe",
+      "def_es": "El que participa juntamente.",
+      "label_sv": "delaktig",
+      "def_sv": "En som har del tillsammans med andra.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヘブル3:1・3:14・6:4・12:8。LXX（118.63・20.30）、教父（34.7・9.1.9）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "仲間・組合員",
+      "def_ja": "仲間、事業の仲間。『もう一つの舟にいた仲間』『あなたの仲間にまさる喜びの油』。",
+      "label_en": "companion, partner",
+      "def_en": "A companion, a partner in business.",
+      "label_es": "compañero, socio",
+      "def_es": "Compañero, asociado en un negocio.",
+      "label_sv": "kamrat, kompanjon",
+      "def_sv": "Följeslagare, delägare i ett företag.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ5:7、ヘブル1:9。LXX（118.63）に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "HEB 1:9": 2,
+    "HEB 12:8": 1,
+    "HEB 3:1": 1,
+    "HEB 3:14": 1,
+    "HEB 6:4": 1,
+    "LUK 5:7": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（あずかる者／仲間）による。"
+}

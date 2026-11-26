@@ -1,0 +1,51 @@
+{
+  "strong": "G3148",
+  "lemma": "μάστιξ",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "むち・むち打ち",
+      "def_ja": "むち、むち打ち。『むちで打たせようと』『むち打たれ』。",
+      "label_en": "whip, scourging",
+      "def_en": "A whip; scourging.",
+      "label_es": "azote, flagelación",
+      "def_es": "Azote; castigo de azotes.",
+      "label_sv": "gissel, gissling",
+      "def_sv": "Gissel; att gisslas.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒22:24、ヘブル11:36。LXX（28.17）、教父（3.2.1）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "病苦・苦しみ",
+      "def_ja": "病気や苦しみ（むちにたとえられる災い）。『病苦』『病気』『病気から救われて』『病気がなおって』。",
+      "label_en": "affliction, ailment",
+      "def_en": "Sickness or suffering (calamity likened to a scourge).",
+      "label_es": "azote (dolencia)",
+      "def_es": "Enfermedad o sufrimiento (mal comparado con un azote).",
+      "label_sv": "plåga, lidande",
+      "def_sv": "Sjukdom eller plåga (en olycka liknad vid ett gissel).",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ7:21、マルコ3:10・5:29・5:34。LXX（38.11）に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "ACT 22:24": 1,
+    "HEB 11:36": 1,
+    "LUK 7:21": 2,
+    "MRK 3:10": 2,
+    "MRK 5:29": 2,
+    "MRK 5:34": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（むち／病苦）による。"
+}

@@ -1,0 +1,68 @@
+{
+  "strong": "G2039",
+  "lemma": "ἐργασία",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "商売・もうけ",
+      "def_ja": "商売、稼ぎ、もうけ。『占いをして主人たちに多くの収入を得させていた』『自分たちの収入の望みが絶えたのを見て』『職人たちにかなりの収入を得させていた』『この商売によって、われわれは…』。",
+      "label_en": "business, profit",
+      "def_en": "Trade, earnings, profit.",
+      "label_es": "negocio, ganancia",
+      "def_es": "Oficio, ingresos, ganancia.",
+      "label_sv": "näring, förtjänst",
+      "def_sv": "Affär, inkomst, förtjänst.",
+      "layers": {
+        "nt": 4,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒16:16・16:19・19:24・19:25。語義2・3との境界は連続的。LXX・教父の代表例は一般的な「仕事」の用法で、この語義としては確認していない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "努力",
+      "def_ja": "力を尽くすこと。『和解するよう努力しなさい』。",
+      "label_en": "effort",
+      "def_en": "Exerting oneself.",
+      "label_es": "esfuerzo, empeño",
+      "def_es": "El poner todo empeño.",
+      "label_sv": "ansträngning",
+      "def_sv": "Att göra sitt yttersta.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ルカ12:58。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "行うこと・営み",
+      "def_ja": "行うこと、営み。『あらゆる汚れを貪欲に行う』。",
+      "label_en": "practice, doing",
+      "def_en": "Doing, carrying on.",
+      "label_es": "práctica, ejercicio",
+      "def_es": "El hacer o practicar.",
+      "label_sv": "utövande, bedrivande",
+      "def_sv": "Att utöva, att bedriva.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "エペソ4:19。LXX（5.1・26.29）の「仕事」の用法に並行。教父の用例なし。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "ACT 16:16": 1,
+    "ACT 16:19": 1,
+    "ACT 19:24": 1,
+    "ACT 19:25": 1,
+    "EPH 4:19": 3,
+    "LUK 12:58": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（商売／努力／行うこと）による。"
+}

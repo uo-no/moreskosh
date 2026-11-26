@@ -1,0 +1,51 @@
+{
+  "strong": "G2990",
+  "lemma": "λανθάνω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "気づかれない・隠れる",
+      "def_ja": "人の目にとまらない、隠れる、見落とされる。『隠れていることができなかった』『この事は彼に隠れていない』『この事実を、彼らは故意に忘れている』『この一つの事実を忘れてはならない』。",
+      "label_en": "to escape notice, to be hidden",
+      "def_en": "To go unnoticed, to be hidden or overlooked.",
+      "label_es": "pasar inadvertido, estar oculto",
+      "def_es": "Escapar a la atención, ocultarse, pasarse por alto.",
+      "label_sv": "att undgå uppmärksamhet, att vara dold",
+      "def_sv": "Att inte bli sedd, vara fördold eller förbisedd.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒26:26、ルカ8:47、マルコ7:24、ペテロ第二3:5・3:8。ペテロ第二3:5・3:8 は「故意に見落とす」「忘れてはならない」の読みで、この語義に置く。LXX（28.21）、教父（1.15.3・21.3）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "知らずに〜する（分詞を伴う）",
+      "def_ja": "分詞を伴い「気づかずに〜する」。『知らずに御使たちを歓待した』。",
+      "label_en": "to do unawares (with a participle)",
+      "def_en": "With a participle: to do something without knowing it.",
+      "label_es": "hacer sin saberlo (con participio)",
+      "def_es": "Con participio: hacer algo sin darse cuenta.",
+      "label_sv": "att göra ovetande (med particip)",
+      "def_sv": "Med particip: att göra något utan att veta om det.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヘブル13:2。LXX（5.15）に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "2PE 3:5": 1,
+    "2PE 3:8": 1,
+    "ACT 26:26": 1,
+    "HEB 13:2": 2,
+    "LUK 8:47": 1,
+    "MRK 7:24": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（気づかれない／分詞を伴う「知らずに」）による。"
+}

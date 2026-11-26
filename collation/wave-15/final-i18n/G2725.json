@@ -1,0 +1,34 @@
+{
+  "strong": "G2725",
+  "lemma": "κατήγωρ",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "告発者",
+      "def_ja": "告発者、訴える者。『告訴人たちにも』『告発者たちが来るのを待って』『告発者たちに対して』『告発者たちは立ち上がったが』『あなたを訴えていた者たちはどこにいるか』『兄弟たちを訴える者が投げ落とされた』。形は κατήγορος と κατήγωρ（黙示録12:10）の両方を含む。",
+      "label_en": "accuser",
+      "def_en": "An accuser, one who brings charges.",
+      "label_es": "acusador",
+      "def_es": "Acusador, el que presenta cargos.",
+      "label_sv": "anklagare",
+      "def_sv": "Anklagare, en som för talan mot någon.",
+      "layers": {
+        "nt": 6,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒23:30・23:35・25:16・25:18、ヨハネ8:10、黙示録12:10。ヨハネ8:10 の形（κατήγοροί）は同語の異文を含む可能性があるが、本レンマに割り当てる。LXX・教父の用例なし。単一語義。"
+    }
+  ],
+  "assignments": {
+    "ACT 23:30": 1,
+    "ACT 23:35": 1,
+    "ACT 25:16": 1,
+    "ACT 25:18": 1,
+    "JHN 8:10": 1,
+    "REV 12:10": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

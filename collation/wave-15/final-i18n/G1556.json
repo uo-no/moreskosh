@@ -1,0 +1,51 @@
+{
+  "strong": "G1556",
+  "lemma": "ἐκδικέω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "正しく裁く・訴えを取り上げる",
+      "def_ja": "訴えを取り上げて正しく裁く。『わたしの敵に対して、わたしを守ってください』『彼女のために裁判をしてやろう』。",
+      "label_en": "to give justice, to take up a case",
+      "def_en": "To take up a complaint and judge it rightly.",
+      "label_es": "hacer justicia, atender una causa",
+      "def_es": "Acoger una demanda y juzgar rectamente.",
+      "label_sv": "att skaffa rätt, att ta upp en sak",
+      "def_sv": "Att ta upp en klagan och döma rätt.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ルカ18:3・18:5。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "報復する・罰する",
+      "def_ja": "報復する、罰する、血の報復をする。『すべての不従順を罰する用意があり』『あなたの血の報復をなさらないのですか』『しもべたちの血の報復をされた』『自分で復讐をしてはならない』。",
+      "label_en": "to avenge, to punish",
+      "def_en": "To take vengeance, to punish, to exact vengeance for blood.",
+      "label_es": "vengar, castigar",
+      "def_es": "Vengar, castigar, vengar la sangre.",
+      "label_sv": "att hämnas, att straffa",
+      "def_sv": "Att hämnas, att straffa, att utkräva hämnd för blod.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "コリント第二10:6、黙示録6:10・19:2、ローマ12:19。LXX（5.9・19.12）に並行。教父の代表例（7.1.2）は用法の対応が確認できず、この語義としては確認していない。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "2CO 10:6": 2,
+    "LUK 18:3": 1,
+    "LUK 18:5": 1,
+    "REV 19:2": 2,
+    "REV 6:10": 2,
+    "ROM 12:19": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（訴えを取り上げる／報復する・罰する）による。"
+}

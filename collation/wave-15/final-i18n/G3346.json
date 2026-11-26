@@ -1,0 +1,51 @@
+{
+  "strong": "G3346",
+  "lemma": "μετατίθημι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "移す・取り去る",
+      "def_ja": "場所を移す、取り去る。『シケムに移され』『彼は移されて、死を見ないで済んだ』『神が彼を移されたので見えなくなった』。",
+      "label_en": "to transfer, to take away",
+      "def_en": "To change the place of, to take away.",
+      "label_es": "trasladar",
+      "def_es": "Cambiar de lugar, llevarse.",
+      "label_sv": "att flytta, att ta bort",
+      "def_sv": "Att förflytta, att ta bort.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒7:16、ヘブル11:5（2回）。LXX（29.17・4.46）、教父（3.7.6）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "変える・変わる（離れる）",
+      "def_ja": "変更する、変わる、離れる。『ほかの福音へと移って行く』『祭司の職が変われば、律法も変わる』『神の恵みを放縦に変え』。",
+      "label_en": "to change, to turn away",
+      "def_en": "To alter, to change, to depart from.",
+      "label_es": "cambiar, apartarse",
+      "def_es": "Mudar, cambiar, alejarse.",
+      "label_sv": "att ändra, att vända sig bort",
+      "def_sv": "Att förändra, att byta, att avfalla.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "ガラテヤ1:6、ヘブル7:12、ユダ4。教父（11.1）に並行。LXX の代表例では用法の対応が確認できず、確認していない。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "ACT 7:16": 1,
+    "GAL 1:6": 2,
+    "HEB 11:5#1": 1,
+    "HEB 11:5#2": 1,
+    "HEB 7:12": 2,
+    "JUD 1:4": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（移す・取り去る／変える・変わる）による。"
+}

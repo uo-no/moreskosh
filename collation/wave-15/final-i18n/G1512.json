@@ -1,0 +1,51 @@
+{
+  "strong": "G1512",
+  "lemma": "εἴπερ",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "もし〜なら（実際に）",
+      "def_ja": "条件を前提として述べる、もし本当に〜ならば。『たとえ神々と呼ばれるものがあるとしても』『もし死者がよみがえらないなら』『御霊があなたがたの内に宿っているなら』『キリストと共に苦難にあずかるなら』。",
+      "label_en": "if indeed, if in fact",
+      "def_en": "States a condition as a premise: if indeed.",
+      "label_es": "si es que (en realidad)",
+      "def_es": "Plantea una condición como premisa: si de verdad.",
+      "label_sv": "om verkligen",
+      "def_sv": "Förutsätter ett villkor: om det verkligen är så att.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "コリント第一8:5・15:15、ローマ8:9・8:17。LXX（6.9・11.7）に並行。教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "〜である以上は（前提として）",
+      "def_ja": "事実と認めた前提として述べる、〜である以上は。『神は唯一であるから』『神が…報いることは正しい』。",
+      "label_en": "since, seeing that",
+      "def_en": "States as a premise what is accepted as fact: since it is so.",
+      "label_es": "puesto que",
+      "def_es": "Plantea como premisa algo admitido como cierto: puesto que.",
+      "label_sv": "eftersom, så visst som",
+      "def_sv": "Anger som förutsättning något som godtagits som faktum: eftersom.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ローマ3:30、テサロニケ第二1:6。「もし」と「以上」の読みの別は連続的。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 8:5": 1,
+    "1CO 15:15": 1,
+    "2TH 1:6": 2,
+    "ROM 3:30": 2,
+    "ROM 8:9": 1,
+    "ROM 8:17": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（仮定を含む条件／前提とする条件）による。"
+}

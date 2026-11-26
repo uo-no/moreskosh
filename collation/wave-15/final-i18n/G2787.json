@@ -1,0 +1,51 @@
+{
+  "strong": "G2787",
+  "lemma": "κιβωτός",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "箱舟（ノアの）",
+      "def_ja": "ノアの箱舟。『ノアが箱舟にはいる日まで』『箱舟にはいった日まで』『箱舟を造り』『箱舟の中で水を通って救われた』。",
+      "label_en": "ark (of Noah)",
+      "def_en": "Noah’s ark.",
+      "label_es": "arca (de Noé)",
+      "def_es": "El arca de Noé.",
+      "label_sv": "ark (Noas)",
+      "def_sv": "Noas ark.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ペテロ第一3:20、ヘブル11:7、ルカ17:27、マタイ24:38。LXX（6.2・15.23）は契約の箱の用法を含む。教父（9.4）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "契約の箱",
+      "def_ja": "契約の箱。『契約の箱が納められていた』『契約の箱が見えた』。",
+      "label_en": "ark of the covenant",
+      "def_en": "The ark of the covenant.",
+      "label_es": "arca del pacto",
+      "def_es": "El arca del pacto.",
+      "label_sv": "förbundsark",
+      "def_sv": "Förbundets ark.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヘブル9:4、黙示録11:19。LXX（6.2・15.23）に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "1PE 3:20": 1,
+    "HEB 11:7": 1,
+    "HEB 9:4": 2,
+    "LUK 17:27": 1,
+    "MAT 24:38": 1,
+    "REV 11:19": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は指示対象（ノアの箱舟／契約の箱）による。"
+}

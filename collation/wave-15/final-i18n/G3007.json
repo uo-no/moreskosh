@@ -1,0 +1,51 @@
+{
+  "strong": "G3007",
+  "lemma": "λείπω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "欠けている・不足する",
+      "def_ja": "欠ける、不足する。『何一つ欠けたところのない者となる』『知恵に欠けた者は』『日々の食物に事欠いている』『あなたにはまだ一つ欠けたものがある』『何も不足しないように』。",
+      "label_en": "to lack, to fall short",
+      "def_en": "To be lacking, to be in want.",
+      "label_es": "faltar, carecer",
+      "def_es": "Faltar, estar necesitado.",
+      "label_sv": "att fattas, att brista",
+      "def_sv": "Att saknas, att lida brist.",
+      "layers": {
+        "nt": 5,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "ヤコブ1:4・1:5・2:15、ルカ18:22、テトス3:13。教父（3.5.2・3.1.9）に並行。LXX の代表例では確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "残されている・未完成である",
+      "def_ja": "残されている、未完成のまま。『残っていることを整えるため』。",
+      "label_en": "to remain, to be left unfinished",
+      "def_en": "To be left over, to remain incomplete.",
+      "label_es": "quedar pendiente",
+      "def_es": "Haber quedado, seguir sin terminar.",
+      "label_sv": "att återstå, att vara ofullbordad",
+      "def_sv": "Att vara kvar, ännu inte fullgjord.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "テトス1:5。LXX（4.45）に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "JAS 2:15": 1,
+    "JAS 1:4": 1,
+    "JAS 1:5": 1,
+    "LUK 18:22": 1,
+    "TIT 3:13": 1,
+    "TIT 1:5": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（欠ける／残されている）による。"
+}

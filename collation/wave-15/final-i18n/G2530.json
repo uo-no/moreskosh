@@ -1,0 +1,51 @@
+{
+  "strong": "G2530",
+  "lemma": "καθότι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "なぜなら・〜なので",
+      "def_ja": "理由を表す、なぜなら。『彼を陰府に捨て置かれることはなく』『死に支配されていることはありえず』『彼らには子がなかったからである』『なぜなら、この人もアブラハムの子だからである』『神が日を定められたゆえに』。",
+      "label_en": "because, since",
+      "def_en": "Expresses a reason: because.",
+      "label_es": "porque, por cuanto",
+      "def_es": "Expresa causa: porque.",
+      "label_sv": "eftersom, ty",
+      "def_sv": "Anger orsak: eftersom.",
+      "layers": {
+        "nt": 4,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "使徒17:31・2:24、ルカ1:7・19:9。教父（3.5.2）に並行。LXX の代表例は用法が異なり、この語義としては確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "〜に応じて・〜のとおり",
+      "def_ja": "程度・応じ方を表す、〜に応じて。『必要に応じて』『それぞれの必要に応じて』。",
+      "label_en": "according as, to the degree that",
+      "def_en": "Expresses degree or correspondence: according as.",
+      "label_es": "según, conforme a",
+      "def_es": "Expresa grado o correspondencia: en la medida en que.",
+      "label_sv": "alltefter",
+      "def_sv": "Anger grad eller motsvarighet: alltefter vad.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒2:45・4:35。LXX（10.9）に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "ACT 17:31": 1,
+    "ACT 2:24": 1,
+    "ACT 2:45": 2,
+    "ACT 4:35": 2,
+    "LUK 1:7": 1,
+    "LUK 19:9": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（理由／〜に応じて）による。"
+}

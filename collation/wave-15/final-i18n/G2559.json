@@ -1,0 +1,51 @@
+{
+  "strong": "G2559",
+  "lemma": "κακόω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "虐げる・害する",
+      "def_ja": "害を加える、虐げる。『もしあなたがたが善に熱心であるなら、だれがあなたがたに害を加えようか』『彼らを苦しめる』『先祖を苦しめ』『ヘロデ王は…ある者たちに手をくだして苦しめ』『だれもあなたに手を下して害を加える者はない』。",
+      "label_en": "to mistreat, to harm",
+      "def_en": "To do harm, to oppress.",
+      "label_es": "maltratar, dañar",
+      "def_es": "Hacer daño, oprimir.",
+      "label_sv": "att förtrycka, att skada",
+      "def_sv": "Att göra illa, att förtrycka.",
+      "layers": {
+        "nt": 5,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ペテロ第一3:13、使徒7:6・7:19・12:1・18:10。LXX・教父の代表例では用法の対応が確認できず、確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "悪意を抱かせる",
+      "def_ja": "心に悪意を抱かせる、そそのかす。『兄弟たちに対して悪意を抱かせた』。",
+      "label_en": "to poison the mind, to incite",
+      "def_en": "To make someone ill-disposed, to stir up.",
+      "label_es": "indisponer los ánimos",
+      "def_es": "Infundir mala voluntad en el corazón, instigar.",
+      "label_sv": "att göra illasinnad",
+      "def_sv": "Att inge ond vilja, att uppvigla.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒14:2。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1PE 3:13": 1,
+    "ACT 12:1": 1,
+    "ACT 14:2": 2,
+    "ACT 18:10": 1,
+    "ACT 7:6": 1,
+    "ACT 7:19": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（虐げる・害する／悪意を抱かせる）による。LXX・教父の代表例は用法の対応が確認できず、いずれも「なし」とする。"
+}

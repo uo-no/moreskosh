@@ -1,0 +1,51 @@
+{
+  "strong": "G236",
+  "lemma": "ἀλλάσσω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "変える・変わる",
+      "def_ja": "変える、変化させる（受動：変えられる）。『わたしたちはみな変えられる』『モーセが伝えた慣例を変える』『わたしの声を変えたい』『衣のように変えられる』。",
+      "label_en": "to change, to alter",
+      "def_en": "To change, to alter (passive: to be changed).",
+      "label_es": "cambiar, mudar",
+      "def_es": "Cambiar, transformar (pasiva: ser transformado).",
+      "label_sv": "att förändra, att förvandla",
+      "def_sv": "Att ändra, att förvandla (passiv: att bli förvandlad).",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "コリント第一15:51・15:52、使徒6:14、ガラテヤ4:20、ヘブル1:12。LXX（27.33・31.7）、教父（26.4.5・10.7）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "取り替える",
+      "def_ja": "別のものと取り替える。『不朽の神の栄光を…に代えた』。",
+      "label_en": "to exchange",
+      "def_en": "To exchange for something else.",
+      "label_es": "trocar",
+      "def_es": "Cambiar una cosa por otra.",
+      "label_sv": "att byta ut",
+      "def_sv": "Att byta mot något annat.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ローマ1:23。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 15:51": 1,
+    "1CO 15:52": 1,
+    "ACT 6:14": 1,
+    "GAL 4:20": 1,
+    "HEB 1:12": 1,
+    "ROM 1:23": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（変える・変わる／取り替える）による。"
+}

@@ -1,0 +1,51 @@
+{
+  "strong": "G206",
+  "lemma": "ἄκρον",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "先端・頂",
+      "def_ja": "先端、頂。『杖の先にもたれて』『指の先を水に浸して』。",
+      "label_en": "tip, top",
+      "def_en": "The tip or top.",
+      "label_es": "punta, extremo",
+      "def_es": "Punta, cima.",
+      "label_sv": "spets, topp",
+      "def_sv": "Ände, topp.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヘブル11:21、ルカ16:24。LXX（38.16）、教父（25.1.14）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "果て・はし",
+      "def_ja": "果て、はし。『天の果てから果てまで』『地の果てから天の果てまで』。",
+      "label_en": "end, extremity",
+      "def_en": "The end or farthest limit.",
+      "label_es": "confín, extremo",
+      "def_es": "Confín, extremidad.",
+      "label_sv": "yttersta ände",
+      "def_sv": "Gräns, yttersta ände.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "マタイ24:31（2回）、マルコ13:27（2回）。LXX（5.26）に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "HEB 11:21": 1,
+    "LUK 16:24": 1,
+    "MAT 24:31#1": 2,
+    "MAT 24:31#2": 2,
+    "MRK 13:27#1": 2,
+    "MRK 13:27#2": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（先端／果て）による。"
+}

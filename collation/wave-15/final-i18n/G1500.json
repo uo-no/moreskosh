@@ -1,0 +1,51 @@
+{
+  "strong": "G1500",
+  "lemma": "εἰκῇ",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "むなしく・無駄に",
+      "def_ja": "むなしく、無駄に、いたずらに。『信じたことがむだになる』『あなたがたのために労したのがむだになったのでは』『あれほどの経験をしたのはむだだったのか』『無益に剣を帯びているのではない』。",
+      "label_en": "in vain",
+      "def_en": "In vain, to no purpose, uselessly.",
+      "label_es": "en vano",
+      "def_es": "En vano, inútilmente, para nada.",
+      "label_sv": "förgäves",
+      "def_sv": "Förgäves, till ingen nytta, i onödan.",
+      "layers": {
+        "nt": 5,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "コリント第一15:2、ガラテヤ4:11・3:4（2回）、ローマ13:4。ガラテヤ3:4 の「むだに」の読みは決定しない。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "理由なく",
+      "def_ja": "理由もなく、根拠なく。『肉の思いによってむなしく誇り』。",
+      "label_en": "without cause",
+      "def_en": "Without reason, without grounds.",
+      "label_es": "sin causa",
+      "def_es": "Sin razón, sin fundamento.",
+      "label_sv": "utan orsak",
+      "def_sv": "Utan skäl, utan grund.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "コロサイ2:18。教父（40.2）に並行。LXX の代表例（28.25）は用法の対応が確認できず、この語義としては確認していない。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "1CO 15:2": 1,
+    "COL 2:18": 2,
+    "GAL 4:11": 1,
+    "GAL 3:4#1": 1,
+    "GAL 3:4#2": 1,
+    "ROM 13:4": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（むなしく／理由なく）による。"
+}

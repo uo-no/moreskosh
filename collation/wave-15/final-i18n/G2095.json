@@ -1,0 +1,51 @@
+{
+  "strong": "G2095",
+  "lemma": "εὖ",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "よく・うまく",
+      "def_ja": "よく、うまく、良いことを。『これらのことを避けていれば、あなたがたはうまくいくであろう』『あなたが幸福になり』『いつでも良いことをしてあげられる』。",
+      "label_en": "well",
+      "def_en": "Well; what is good.",
+      "label_es": "bien",
+      "def_es": "Bien, hacer el bien.",
+      "label_sv": "väl",
+      "def_sv": "Väl, bra, gott.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒15:29、エペソ6:3、マルコ14:7。LXX（30.5・12.5）、教父（6.11.3・16.12）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "よくやった（賞賛の呼びかけ）",
+      "def_ja": "賞賛の呼びかけ、よくやった。『よくやった、良い忠実なしもべよ』『よし、良いしもべ』。",
+      "label_en": "well done (exclamation of praise)",
+      "def_en": "An exclamation of praise: well done.",
+      "label_es": "muy bien (exclamación de elogio)",
+      "def_es": "Exclamación de alabanza: muy bien.",
+      "label_sv": "bra (berömmande utrop)",
+      "def_sv": "Ett berömmande tillrop: bra gjort.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ルカ19:17・マタイ25:21・25:23。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 15:29": 1,
+    "EPH 6:3": 1,
+    "LUK 19:17": 2,
+    "MAT 25:21": 2,
+    "MAT 25:23": 2,
+    "MRK 14:7": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（副詞「よく」／賞賛の呼びかけ）による。"
+}

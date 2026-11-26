@@ -1,0 +1,51 @@
+{
+  "strong": "G3097",
+  "lemma": "μάγος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "博士・東方の賢者",
+      "def_ja": "東方から来た賢者たち、博士。『東からきた博士たちがエルサレムにきて』『博士たちをひそかに呼んで』『博士たちにだまされたと知って』『博士たちから確かめた時に従って』。",
+      "label_en": "magi, wise men from the east",
+      "def_en": "The wise men who came from the east.",
+      "label_es": "magos de oriente",
+      "def_es": "Los sabios llegados del oriente.",
+      "label_sv": "vise männen, stjärntydare från öster",
+      "def_sv": "De visa som kom från österlandet.",
+      "layers": {
+        "nt": 4,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マタイ2:1・2:7・2:16（2回）。「博士」か「占星術師」かの含みは決定しない。語義2との境界は連続的。LXX の代表例（5.7・5.15）はバビロンの術士の用法で、この語義としては確認していない。教父の用例なし。"
+    },
+    {
+      "n": 2,
+      "label_ja": "魔術師・まじない師",
+      "def_ja": "魔術を行う者、まじない師。『偽預言者であるユダヤ人の魔術師』『魔術師エルマ』。",
+      "label_en": "magician, sorcerer",
+      "def_en": "One who practices magic, a sorcerer.",
+      "label_es": "mago, hechicero",
+      "def_es": "El que practica la magia.",
+      "label_sv": "trollkarl, magiker",
+      "def_sv": "En som utövar magi.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒13:6・13:8。LXX（5.7・5.15）に並行。教父の用例なし。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "ACT 13:6": 2,
+    "ACT 13:8": 2,
+    "MAT 2:1": 1,
+    "MAT 2:7": 1,
+    "MAT 2:16#1": 1,
+    "MAT 2:16#2": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（マタイ2章の博士／使徒13章の魔術師）による。"
+}

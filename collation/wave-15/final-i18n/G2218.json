@@ -1,0 +1,51 @@
+{
+  "strong": "G2218",
+  "lemma": "ζυγός",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "くびき",
+      "def_ja": "くびき（隷属や従うことの比喩を含む）。『くびきの下にある奴隷』『弟子たちの首にくびきを置こうとするのか』『隷属のくびき』『わたしのくびきを負え』『わたしのくびきは負いやすく』。",
+      "label_en": "yoke",
+      "def_en": "A yoke (including figurative uses for slavery or submission).",
+      "label_es": "yugo",
+      "def_es": "Yugo (incluidas las figuras de servidumbre o sumisión).",
+      "label_sv": "ok",
+      "def_sv": "Ok (även som bild för träldom eller lydnad).",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "テモテ第一6:1、使徒15:10、ガラテヤ5:1、マタイ11:29・11:30。LXX（14.29・28.20）に並行。教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "はかり・天秤",
+      "def_ja": "物を量る秤。『黒い馬…手にはかりを持っていた』。",
+      "label_en": "balance, scales",
+      "def_en": "A balance for weighing things.",
+      "label_es": "balanza",
+      "def_es": "Balanza para pesar.",
+      "label_sv": "våg",
+      "def_sv": "En våg att väga med.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "黙示録6:5。語義1との境界は連続的。LXX・教父の代表例は「くびき」の用法で、この語義としては確認していない。"
+    }
+  ],
+  "assignments": {
+    "1TI 6:1": 1,
+    "ACT 15:10": 1,
+    "GAL 5:1": 1,
+    "MAT 11:29": 1,
+    "MAT 11:30": 1,
+    "REV 6:5": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（くびき／はかり）による。"
+}

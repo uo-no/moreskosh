@@ -1,0 +1,51 @@
+{
+  "strong": "G1834",
+  "lemma": "ἐξηγέομαι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "語る・詳しく述べる",
+      "def_ja": "出来事を詳しく語る、報告する。『すべてのことを説明して』『神が異邦人の中で行われたしるしと不思議を語る』『神が…どのように異邦人を顧みられたかを語った』『神が彼らの間で行われたことを…詳しく述べた』『道で起こったことを話した』。",
+      "label_en": "to relate, to describe in detail",
+      "def_en": "To tell of events in detail, to report.",
+      "label_es": "contar, referir con detalle",
+      "def_es": "Narrar con detalle los sucesos, informar.",
+      "label_sv": "att berätta, att redogöra för",
+      "def_sv": "Att utförligt berätta om händelser, att rapportera.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒10:8・15:12・15:14・21:19、ルカ24:35。LXX（28.27・14.57）、教父（4.2.5）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "解き明かす・示す",
+      "def_ja": "神を示す、明らかにする。『父のふところにいるひとり子の神が、神を示された』。",
+      "label_en": "to explain, to make known",
+      "def_en": "To make God known, to reveal.",
+      "label_es": "dar a conocer, declarar",
+      "def_es": "Dar a conocer a Dios, manifestarlo.",
+      "label_sv": "att förklara, att göra känd",
+      "def_sv": "Att göra Gud känd, att uppenbara.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヨハネ1:18。「示す」「解き明かす」の読みは決定しない。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 10:8": 1,
+    "ACT 15:12": 1,
+    "ACT 15:14": 1,
+    "ACT 21:19": 1,
+    "JHN 1:18": 2,
+    "LUK 24:35": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（語る・詳しく述べる／ヨハネ1:18）による。"
+}

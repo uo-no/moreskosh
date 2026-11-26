@@ -1,0 +1,51 @@
+{
+  "strong": "G1910",
+  "lemma": "ἐπιβαίνω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "乗る・乗り込む",
+      "def_ja": "馬やろばに乗る、船に乗り込む。『ろばに乗り、子ろばに乗って』『船に乗り込んだ』『船に乗って出発した』。",
+      "label_en": "to mount, to board",
+      "def_en": "To mount a horse or donkey; to board a ship.",
+      "label_es": "montar, embarcarse",
+      "def_es": "Montar un caballo o un asno; subir a un barco.",
+      "label_sv": "att stiga upp på, att gå ombord",
+      "def_sv": "Att sätta sig upp på häst eller åsna; att gå ombord på ett fartyg.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "マタイ21:5、使徒21:2・27:2。LXX（17.11）に並行。教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "足を踏み入れる・上る",
+      "def_ja": "ある地や場所に足を踏み入れる、上る。『わたしがアジヤに足を踏み入れた最初の日から』『セザレヤを経て…州に着いて』『エルサレムへ上らないようにと』。",
+      "label_en": "to set foot in, to go up",
+      "def_en": "To set foot in a land or place, to go up to it.",
+      "label_es": "poner el pie en, subir",
+      "def_es": "Poner el pie en una tierra o lugar, subir a él.",
+      "label_sv": "att sätta sin fot i, att dra upp till",
+      "def_sv": "Att sätta sin fot i ett land eller på en plats, att fara upp dit.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒20:18・25:1・21:4。語義1との境界は連続的。LXX の代表例（10.5）は用法の対応が確認できず、この語義としては確認していない。教父の用例なし。"
+    }
+  ],
+  "assignments": {
+    "ACT 20:18": 2,
+    "ACT 25:1": 2,
+    "ACT 21:2": 1,
+    "ACT 21:4": 2,
+    "ACT 27:2": 1,
+    "MAT 21:5": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（乗る／足を踏み入れる）による。"
+}

@@ -1,0 +1,34 @@
+{
+  "strong": "G3074",
+  "lemma": "λύκος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "おおかみ",
+      "def_ja": "おおかみ（字義・比喩の用法を含む）。『凶暴なおおかみがはいり込んで』『おおかみが羊をさらい』『おおかみの中に小羊を送るようなもの』『おおかみの中に羊を送るようなもの』『内側は強欲なおおかみ』。",
+      "label_en": "wolf",
+      "def_en": "A wolf (including literal and figurative uses).",
+      "label_es": "lobo",
+      "def_es": "Lobo (incluidos los usos literal y figurado).",
+      "label_sv": "varg",
+      "def_sv": "Varg (även bokstavlig och bildlig användning).",
+      "layers": {
+        "nt": 6,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒20:29、ヨハネ10:12（2回）、ルカ10:3、マタイ10:16・7:15。LXX（65.25・49.27）、教父（5.3・16.3）に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "ACT 20:29": 1,
+    "JHN 10:12#1": 1,
+    "JHN 10:12#2": 1,
+    "LUK 10:3": 1,
+    "MAT 10:16": 1,
+    "MAT 7:15": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

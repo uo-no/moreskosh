@@ -1,0 +1,51 @@
+{
+  "strong": "G331",
+  "lemma": "ἀνάθεμα",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "のろわれたもの・破門",
+      "def_ja": "のろわれたもの、神にささげられて滅ぼされるべきもの。『主を愛さない者は、のろわれよ』『イエスはのろわれよ』『その者はのろわれるがよい』『わたしがキリストからのろわれ…』。",
+      "label_en": "accursed, anathema",
+      "def_en": "A thing accursed; what is to be given over to God for destruction.",
+      "label_es": "anatema, maldito",
+      "def_es": "Cosa maldita; lo que ha de ser entregado a Dios para destrucción.",
+      "label_sv": "förbannad, anatema",
+      "def_sv": "Något förbannat; det som skall överlämnas åt Gud till förintelse.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "コリント第一16:22・12:3、ガラテヤ1:8・1:9、ローマ9:3。ローマ9:3 の「のろわれた者」の含みは決定しない。LXX（7.12・13.18）に並行。教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "のろいの誓い",
+      "def_ja": "自分に呪いをかける誓い。『われわれは、パウロを殺すまでは何も食べないと、堅く誓いを立てた』（ἀναθέματι ἀνεθεματίσαμεν ἑαυτούς）。",
+      "label_en": "oath under a curse",
+      "def_en": "An oath that lays a curse on oneself.",
+      "label_es": "juramento bajo maldición",
+      "def_es": "Juramento por el que uno se somete a sí mismo a una maldición.",
+      "label_sv": "ed under förbannelse",
+      "def_sv": "En ed där man lägger förbannelse över sig själv.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒23:14。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 16:22": 1,
+    "1CO 12:3": 1,
+    "ACT 23:14": 2,
+    "GAL 1:8": 1,
+    "GAL 1:9": 1,
+    "ROM 9:3": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（のろわれたもの／のろいの誓い）による。"
+}

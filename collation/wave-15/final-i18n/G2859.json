@@ -1,0 +1,68 @@
+{
+  "strong": "G2859",
+  "lemma": "κόλπος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "ふところ・胸",
+      "def_ja": "ふところ、胸。『イエスのふところに寄りかかって』『父のふところにいるひとり子の神』『アブラハムのふところに』『アブラハムのふところにいる』。",
+      "label_en": "bosom, breast",
+      "def_en": "The bosom or chest.",
+      "label_es": "seno, pecho",
+      "def_es": "El seno, el pecho.",
+      "label_sv": "famn, bröst",
+      "def_sv": "Famnen, bröstet.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヨハネ13:23・1:18、ルカ16:22・16:23。LXX（4.6）、教父（4.5）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "衣のひだ・ふところ（着物の）",
+      "def_ja": "着物のたるみ、懐。『あなたがたのふところに入れてくれる』。",
+      "label_en": "fold of a garment",
+      "def_en": "The fold of a robe, the lap.",
+      "label_es": "regazo (pliegue del vestido)",
+      "def_es": "Pliegue de la ropa, regazo.",
+      "label_sv": "veck på manteln, famn",
+      "def_sv": "Bausch i klädnaden, skötet.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ6:38。LXX（30.4）に並行。教父の代表例では確認していない。語義1・3との境界は連続的。"
+    },
+    {
+      "n": 3,
+      "label_ja": "入江",
+      "def_ja": "海岸の入江。『砂浜のある入江が見えたので』。",
+      "label_en": "bay",
+      "def_en": "An inlet on the coast.",
+      "label_es": "ensenada",
+      "def_es": "Ensenada en la costa.",
+      "label_sv": "vik",
+      "def_sv": "En vik vid kusten.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒27:39。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 27:39": 3,
+    "JHN 13:23": 1,
+    "JHN 1:18": 1,
+    "LUK 16:22": 1,
+    "LUK 16:23": 1,
+    "LUK 6:38": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（ふところ／衣のひだ／入江）による。"
+}
