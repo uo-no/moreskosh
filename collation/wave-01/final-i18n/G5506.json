@@ -1,0 +1,66 @@
+{
+  "strong": "G5506",
+  "lemma": "χιλίαρχος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "千人隊長（ローマの軍司令官）",
+      "def_ja": "ローマ軍の千人隊長、軍団の大隊長。エルサレムの守備隊長、パウロを保護した隊長。",
+      "label_en": "military tribune (Roman commander of a thousand)",
+      "def_en": "A tribune of the Roman army, a commander in the legion: the commander of the Jerusalem garrison, the commander who protected Paul.",
+      "label_es": "tribuno (comandante militar romano)",
+      "def_es": "Tribuno del ejército romano, jefe de cohorte de la legión: el comandante de la guarnición de Jerusalén, el que protegió a Pablo.",
+      "label_sv": "tribun (romersk befälhavare över tusen)",
+      "def_sv": "En tribun i den romerska armén, en befälhavare i legionen: kommendanten för garnisonen i Jerusalem, befälhavaren som skyddade Paulus.",
+      "layers": {
+        "nt": 18,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒21:31–37・22:24–29・23:10・15・17–19・22・24:22・25:23、ヨハネ18:12（イエスを捕らえた隊長）。LXX・教父の代表例では確認していない（LXX は部族の千人隊長）。"
+    },
+    {
+      "n": 2,
+      "label_ja": "軍の高官／将校（一般）",
+      "def_ja": "王・地の者に従う軍の高官・将官の総称。",
+      "label_en": "high military officer (general sense)",
+      "def_en": "A general term for the high officers and commanders attending a king or the powers of the earth.",
+      "label_es": "alto mando militar / oficial (en general)",
+      "def_es": "Término general para los altos oficiales y jefes militares al servicio de un rey o de los poderosos de la tierra.",
+      "label_sv": "hög militär / officer (allmänt)",
+      "def_sv": "Samlande benämning på höga militärer och befälhavare i tjänst hos en kung eller jordens mäktiga.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "マルコ6:21（ヘロデが祝宴に招いた高官たち）、黙示録6:15・19:18（将軍たち）。LXX（Ⅰ歴代誌13:1 ほか）・教父（Ⅰクレメンス37.3）に並行。"
+    }
+  ],
+  "assignments": {
+    "ACT 22:24": 1,
+    "ACT 22:26": 1,
+    "ACT 22:27": 1,
+    "ACT 22:28": 1,
+    "ACT 22:29": 1,
+    "ACT 24:22": 1,
+    "ACT 23:10": 1,
+    "ACT 23:15": 1,
+    "ACT 23:17": 1,
+    "ACT 23:18": 1,
+    "ACT 23:19": 1,
+    "ACT 23:22": 1,
+    "ACT 25:23": 1,
+    "ACT 21:31": 1,
+    "ACT 21:32": 1,
+    "ACT 21:33": 1,
+    "ACT 21:37": 1,
+    "JHN 18:12": 1,
+    "MRK 6:21": 2,
+    "REV 19:18": 2,
+    "REV 6:15": 2
+  },
+  "unresolved": [],
+  "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

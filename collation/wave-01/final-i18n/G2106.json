@@ -1,0 +1,66 @@
+{
+  "strong": "G2106",
+  "lemma": "εὐδοκέω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "喜ぶ／よしとする（好意・喜び）",
+      "def_ja": "ある者・ある事を喜ぶ、好む、愛する。神がご自身の子を『喜ぶ』、神が犠牲を『喜ばない』、人が弱さ・不義を『喜ぶ』。",
+      "label_en": "to be pleased / approve (favour, delight)",
+      "def_en": "To take pleasure in, like, or love someone or something: God “is pleased” with his Son, God “takes no pleasure” in sacrifices, a person “takes pleasure” in weaknesses or in unrighteousness.",
+      "label_es": "complacerse / agradarse (favor, gozo)",
+      "def_es": "Complacerse en alguien o algo, gustar de él, amarlo: Dios «se complace» en su Hijo, Dios «no se agrada» de los sacrificios, una persona «se complace» en las debilidades o en la injusticia.",
+      "label_sv": "att ha behag till / glädjas (välvilja, glädje)",
+      "def_sv": "Att glädjas över, tycka om eller älska någon eller något: Gud ”har behag” till sin Son, Gud har ”inte behag” till offer, en människa ”gläder sig” över svaghet eller orätt.",
+      "layers": {
+        "nt": 12,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "マタイ3:17・12:18・17:5、マルコ1:11、ルカ3:22、Ⅱペテロ1:17（『わたしの愛する子、わたしはこれを喜ぶ』）、ヘブル10:6・8・38、Ⅰコリ10:5、Ⅱコリ12:10（弱さを喜ぶ）、Ⅱテサ2:12（不義を喜ぶ）。LXX 詩篇9:12 ほか、教父（バルナバ18.16）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "良しと思う／決める／同意する",
+      "def_ja": "不定詞や与格の節を伴い、『〜することを良しとする』『決意する』『喜んでそうする』の意味。",
+      "label_en": "to think good / decide / consent",
+      "def_en": "With an infinitive or a dative clause: “to see fit to …”, “to resolve”, “to do so gladly”.",
+      "label_es": "tener a bien / decidir / consentir",
+      "def_es": "Con infinitivo u oración en dativo: «tener a bien …», «resolver», «hacerlo de buen grado».",
+      "label_sv": "att finna för gott / besluta / samtycka",
+      "def_sv": "Med infinitiv eller dativsats: ”att finna för gott att …”, ”att besluta”, ”att gärna göra det”.",
+      "layers": {
+        "nt": 9,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ12:32（父はあなたがたに国を与えることをよしとされた）、ローマ15:26・27（喜んで醵出した）、Ⅰコリ1:21、ガラテヤ1:15、コロサイ1:19、Ⅰテサ2:8・3:1（我々は残ることをよしとした）、Ⅱコリ5:8（むしろ〜を望む）。語義1との境界は連続的。LXX Ⅰマカバイ14.46 に並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 10:5": 1,
+    "1CO 1:21": 2,
+    "1TH 3:1": 2,
+    "1TH 2:8": 2,
+    "2CO 12:10": 1,
+    "2CO 5:8": 2,
+    "2PE 1:17": 1,
+    "2TH 2:12": 1,
+    "COL 1:19": 2,
+    "GAL 1:15": 2,
+    "HEB 10:6": 1,
+    "HEB 10:8": 1,
+    "HEB 10:38": 1,
+    "LUK 12:32": 2,
+    "LUK 3:22": 1,
+    "MAT 17:5": 1,
+    "MAT 12:18": 1,
+    "MAT 3:17": 1,
+    "MRK 1:11": 1,
+    "ROM 15:26": 2,
+    "ROM 15:27": 2
+  },
+  "unresolved": [],
+  "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

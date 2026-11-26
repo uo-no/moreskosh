@@ -1,0 +1,67 @@
+{
+  "strong": "G1189",
+  "lemma": "δέομαι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "願う／懇願する（人に）",
+      "def_ja": "人に対して願い求める、頼む。『願います』の形で与格・対格の人に向けた懇願。",
+      "label_en": "to ask / beg (a person)",
+      "def_en": "To ask or request something of a person: an entreaty addressed to a person (in the dative or accusative) in the form “I beg you”.",
+      "label_es": "rogar / suplicar (a una persona)",
+      "def_es": "Pedir o rogar algo a una persona: súplica dirigida a una persona (en dativo o acusativo) con la forma «te ruego».",
+      "label_sv": "att be / vädja (till en människa)",
+      "def_sv": "Att be eller anhålla hos en människa: en vädjan riktad till en person (i dativ eller ackusativ) i formen ”jag ber dig”.",
+      "layers": {
+        "nt": 12,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ルカ5:12・8:28・38・9:38・40、使徒8:34・21:39・26:3、ガラテヤ4:12、Ⅱコリ5:20（キリストに代わってお願いする）・8:4・10:2。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "祈り求める（神に）",
+      "def_ja": "神・主に向かって願いを祈る、とりなしを求める。『収穫の主に願いなさい』『わたしはあなたのために祈った』。",
+      "label_en": "to pray / beseech (God)",
+      "def_en": "To bring a request to God or the Lord in prayer, to intercede: “ask the Lord of the harvest”, “I have prayed for you”.",
+      "label_es": "orar / suplicar (a Dios)",
+      "def_es": "Presentar una petición a Dios o al Señor, interceder: «rogad al Señor de la mies», «yo he rogado por ti».",
+      "label_sv": "att bedja / anropa (Gud)",
+      "def_sv": "Att bära fram en bön till Gud eller Herren, att be om förbön: ”be skördens herre”, ”jag har bett för dig”.",
+      "layers": {
+        "nt": 10,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "Ⅰテサ3:10、使徒4:31・8:22・8:24・10:2、ルカ10:2・21:36・22:32、マタイ9:38、ローマ1:10。語義1との境界は願い求める相手（人か神か）による。LXX ダニエル6:11 に並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1TH 3:10": 2,
+    "2CO 10:2": 1,
+    "2CO 5:20": 1,
+    "2CO 8:4": 1,
+    "ACT 10:2": 2,
+    "ACT 21:39": 1,
+    "ACT 26:3": 1,
+    "ACT 4:31": 2,
+    "ACT 8:22": 2,
+    "ACT 8:24": 2,
+    "ACT 8:34": 1,
+    "GAL 4:12": 1,
+    "LUK 10:2": 2,
+    "LUK 21:36": 2,
+    "LUK 5:12": 1,
+    "LUK 22:32": 2,
+    "LUK 8:28": 1,
+    "LUK 8:38": 1,
+    "LUK 9:38": 1,
+    "LUK 9:40": 1,
+    "MAT 9:38": 2,
+    "ROM 1:10": 2
+  },
+  "unresolved": [],
+  "layer_notes": "抽出側のキー（発音区別符号を落とした形）が δεῖ・δέω と衝突するため、LXX・教父の代表例は δέομαι の層別確認に不十分。確認できない層は none とした。"
+}

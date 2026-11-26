@@ -1,0 +1,66 @@
+{
+  "strong": "G1754",
+  "lemma": "ἐνεργέω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "働く／作用する（自動詞）",
+      "def_ja": "力・ことば・信仰・悪霊などが働く、効力を発揮する。『働いている』『活動している』。",
+      "label_en": "to work / be at work (intransitive)",
+      "def_en": "A power, word, faith, demon, or the like works and takes effect: “is at work”, “is active”.",
+      "label_es": "obrar / actuar (intransitivo)",
+      "def_es": "Un poder, la palabra, la fe, un espíritu maligno, etc., obran y surten efecto: «está obrando», «está en actividad».",
+      "label_sv": "att verka / vara verksam (intransitivt)",
+      "def_sv": "En kraft, ett ord, tron, en ond ande eller liknande verkar och får effekt: ”verkar”, ”är i verksamhet”.",
+      "layers": {
+        "nt": 12,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "マタイ14:2・マルコ6:14（もろもろの力が彼のうちに働く）、エペソ2:2（不従順の子らに働く霊）、Ⅰテサ2:13（信じる者のうちに働くことば）、Ⅱコリ4:12・1:6、Ⅱテサ2:7（不法の秘密がすでに働いている）、コロサイ1:29、エペソ3:20、ガラテヤ5:6、ローマ7:5、ヤコブ5:16（力強く働く祈り）。教父（バルナバ2.1）に並行。LXX の代表例（Ⅰマカバイ8.24）は異なる用法。"
+    },
+    {
+      "n": 2,
+      "label_ja": "働かせる／もたらす（他動・神が）",
+      "def_ja": "神が人々の中で力を働かせる、すべてを働かせて成し遂げる、願う力と実現する力を働かせる。対格または与格の人を伴う。",
+      "label_en": "to put to work / bring about (transitive; God)",
+      "def_en": "God works his power in people, accomplishes all things by working, works both the willing and the doing; accompanied by a person in the accusative or dative.",
+      "label_es": "hacer obrar / producir (transitivo; Dios)",
+      "def_es": "Dios hace obrar su poder en las personas, realiza todas las cosas, produce el querer y el hacer. Va con una persona en acusativo o dativo.",
+      "label_sv": "att låta verka / åstadkomma (transitivt; Gud)",
+      "def_sv": "Gud låter sin kraft verka i människor, utför allt genom sitt verk, verkar både viljan och förmågan att utföra. Förbinds med en person i ackusativ eller dativ.",
+      "layers": {
+        "nt": 9,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "Ⅰコリ12:6・11（すべてのことをすべての人の中で働かせる）、ガラテヤ2:8（ペテロにも私にも働かれた。同一節に2回）・3:5、ピリ2:13（志を立てさせ、事を行わせる。同一節に2回）、エペソ1:11・20。語義1との境界は連続的（主語の神が働かせる相手を明示するか）。LXX 箴言31:12 に並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 12:6": 2,
+    "1CO 12:11": 2,
+    "1TH 2:13": 1,
+    "2CO 1:6": 1,
+    "2CO 4:12": 1,
+    "2TH 2:7": 1,
+    "COL 1:29": 1,
+    "EPH 2:2": 1,
+    "EPH 1:11": 2,
+    "EPH 1:20": 2,
+    "EPH 3:20": 1,
+    "GAL 5:6": 1,
+    "GAL 2:8#1": 2,
+    "GAL 2:8#2": 2,
+    "GAL 3:5": 2,
+    "JAS 5:16": 1,
+    "MAT 14:2": 1,
+    "MRK 6:14": 1,
+    "PHP 2:13#1": 2,
+    "PHP 2:13#2": 2,
+    "ROM 7:5": 1
+  },
+  "unresolved": [],
+  "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

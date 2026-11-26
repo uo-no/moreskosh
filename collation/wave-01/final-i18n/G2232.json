@@ -1,0 +1,65 @@
+{
+  "strong": "G2232",
+  "lemma": "ἡγεμών",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "総督（属州の統治者）",
+      "def_ja": "ローマの属州（ユダヤなど）の総督・総督代理。ピラト、フェリクス、フェストゥスなど。『総督たちの前に引き出される』。",
+      "label_en": "governor (ruler of a province)",
+      "def_en": "A governor or deputy governor of a Roman province (such as Judea): Pilate, Felix, Festus, and others. “You will be brought before governors.”",
+      "label_es": "gobernador (gobernante de una provincia)",
+      "def_es": "Gobernador o procurador de una provincia romana (como Judea): Pilato, Félix, Festo, etc. «Seréis llevados ante gobernadores».",
+      "label_sv": "landshövding (ståthållare i en provins)",
+      "def_sv": "Ståthållare eller ställföreträdande ståthållare i en romersk provins (som Judeen): Pilatus, Felix, Festus med flera. ”Ni ska föras inför ståthållare.”",
+      "layers": {
+        "nt": 19,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マタイ10:18・27:2・11（2回）・14・15・21・27・28:14、マルコ13:9、ルカ20:20・21:12、使徒23:24・26・33・24:1・10・26:30、Ⅰペテロ2:14。LXX・教父の代表例では確認していない（LXX の代表例はエドムの族長たち）。"
+    },
+    {
+      "n": 2,
+      "label_ja": "指導者／君（ユダの君）",
+      "def_ja": "民の指導者・首長。『ユダの君たち』。",
+      "label_en": "leader / ruler (prince of Judah)",
+      "def_en": "A leader or chief of the people: “the rulers of Judah”.",
+      "label_es": "guía / príncipe (de Judá)",
+      "def_es": "Guía o jefe del pueblo: «los príncipes de Judá».",
+      "label_sv": "ledare / furste (Juda furstar)",
+      "def_sv": "Folkets ledare eller överhuvud: ”Juda furstar”.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "マタイ2:6（ミカ書5:1 の引用：ユダの君たちの中で）の1例のみ。LXX 創世記36:29 ほか『族長』の用例が多数。教父の代表例は無い。"
+    }
+  ],
+  "assignments": {
+    "1PE 2:14": 1,
+    "ACT 24:1": 1,
+    "ACT 24:10": 1,
+    "ACT 23:24": 1,
+    "ACT 23:26": 1,
+    "ACT 23:33": 1,
+    "ACT 26:30": 1,
+    "LUK 21:12": 1,
+    "LUK 20:20": 1,
+    "MAT 10:18": 1,
+    "MAT 2:6": 2,
+    "MAT 28:14": 1,
+    "MAT 27:2": 1,
+    "MAT 27:11#1": 1,
+    "MAT 27:11#2": 1,
+    "MAT 27:14": 1,
+    "MAT 27:15": 1,
+    "MAT 27:21": 1,
+    "MAT 27:27": 1,
+    "MRK 13:9": 1
+  },
+  "unresolved": [],
+  "layer_notes": "教父の用例は0件（パケット）。新約に無い用法は代表例の範囲では見当たらない。"
+}

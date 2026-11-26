@@ -1,0 +1,67 @@
+{
+  "strong": "G4008",
+  "lemma": "πέραν",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "〜の向こう側で（属格を伴う）",
+      "def_ja": "属格（ヨルダン川・海・谷川）を伴い、その向こう岸に、の位置または方向を示す（前置詞的）。",
+      "label_en": "on the other side of (with genitive)",
+      "def_en": "With a genitive (the Jordan, the sea, a valley stream), indicates position or direction on its far side (used as a preposition).",
+      "label_es": "al otro lado de (con genitivo)",
+      "def_es": "Con genitivo (el Jordán, el mar, un torrente), indica posición o dirección en la otra orilla (uso preposicional).",
+      "label_sv": "på andra sidan om (med genitiv)",
+      "def_sv": "Med genitiv (Jordan, sjön, en bäckravin) anger läge eller riktning på andra sidan därom (prepositionellt).",
+      "layers": {
+        "nt": 13,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヨルダンの向こう（マタイ4:15・25・19:1、マルコ3:8・10:1、ヨハネ1:28・3:26・10:40）、湖の向こう（ヨハネ6:1・17・22・25）、ヨハネ18:1（ケドロンの谷川の向こう）。LXX ヨシュア・サムエル記などに並行。教父の代表例は無い。"
+    },
+    {
+      "n": 2,
+      "label_ja": "向こう岸（τὸ πέραν）",
+      "def_ja": "冠詞つきで名詞的に、湖・海の向こう岸、対岸を指す。『向こう岸へ（εἰς τὸ πέραν）』の形が多い。",
+      "label_en": "the other side (τὸ πέραν)",
+      "def_en": "With the article, used as a noun for the far shore of a lake or sea; often in the form “to the other side” (εἰς τὸ πέραν).",
+      "label_es": "la otra orilla (τὸ πέραν)",
+      "def_es": "Con artículo, usado como sustantivo, designa la orilla opuesta de un lago o mar. Frecuente en la forma «a la otra orilla» (εἰς τὸ πέραν).",
+      "label_sv": "andra stranden (τὸ πέραν)",
+      "def_sv": "Med artikel, substantiverat: andra stranden av en sjö eller ett hav. Ofta i formen ”till andra sidan” (εἰς τὸ πέραν).",
+      "layers": {
+        "nt": 10,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ガリラヤ湖の渡航記事（マタイ8:18・28・14:22・16:5、マルコ4:35・5:1・21・6:45・8:13、ルカ8:22）。語義1との境界は冠詞の有無による。LXX に並行（Ⅱサムエル・歴代誌）。"
+    }
+  ],
+  "assignments": {
+    "JHN 10:40": 1,
+    "JHN 1:28": 1,
+    "JHN 18:1": 1,
+    "JHN 3:26": 1,
+    "JHN 6:1": 1,
+    "JHN 6:17": 1,
+    "JHN 6:22": 1,
+    "JHN 6:25": 1,
+    "LUK 8:22": 2,
+    "MAT 14:22": 2,
+    "MAT 16:5": 2,
+    "MAT 19:1": 1,
+    "MAT 4:15": 1,
+    "MAT 4:25": 1,
+    "MAT 8:18": 2,
+    "MAT 8:28": 2,
+    "MRK 10:1": 1,
+    "MRK 3:8": 1,
+    "MRK 5:1": 2,
+    "MRK 5:21": 2,
+    "MRK 4:35": 2,
+    "MRK 8:13": 2,
+    "MRK 6:45": 2
+  },
+  "unresolved": []
+}

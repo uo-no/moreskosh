@@ -1,0 +1,116 @@
+{
+  "strong": "G3586",
+  "lemma": "ξύλον",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "木材／材木",
+      "def_ja": "材料としての木、木製のもの、木の枝。",
+      "label_en": "wood / timber",
+      "def_en": "Wood as a material, things made of wood, branches of a tree.",
+      "label_es": "madera",
+      "def_es": "La madera como material, objetos de madera, ramas de árbol.",
+      "label_sv": "trä / virke",
+      "def_sv": "Trä som material, ting av trä, trädgrenar.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "Ⅰコリ3:12（金・銀・宝石・木・草・わら）、ルカ23:31（生木にこうされるなら）、黙示録18:12（高価な木材。同一節に2回）。LXX 出エジプト26:26 に並行。教父の代表例では確認していない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "棍棒",
+      "def_ja": "人を打つための木の棒、棍棒。",
+      "label_en": "club",
+      "def_en": "A wooden stick for striking people, a club.",
+      "label_es": "garrote / palo",
+      "def_es": "Palo de madera para golpear a la gente, garrote.",
+      "label_sv": "påk / klubba",
+      "def_sv": "Ett trätillhygge att slå människor med, en påk.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "マタイ26:47・55、マルコ14:43・48、ルカ22:52（剣や棒を持って捕らえに来た）。LXX・サムエル記などに並行。教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "足かせ（木製の拘束具）",
+      "def_ja": "足を固定する木製の拘束具。",
+      "label_en": "stocks (wooden restraint)",
+      "def_en": "A wooden restraining device that holds the feet fast.",
+      "label_es": "cepo (instrumento de sujeción de madera)",
+      "def_es": "Instrumento de madera que inmoviliza los pies.",
+      "label_sv": "stock (fängsel av trä)",
+      "def_sv": "Ett fängsel av trä som låser fast fötterna.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒16:24（奥の牢に入れ、足に木の足かせをはめた）の1例のみ。LXX ヨブ記13:27 などに並行するが、パケットの代表例では確認できなかった。"
+    },
+    {
+      "n": 4,
+      "label_ja": "（人がかけられる）木",
+      "def_ja": "罪人がかけられる木、またキリストがかけられた木（十字架を指す語）。『木にかけられた者』『木の上でわたしたちの罪を負った』。",
+      "label_en": "tree (on which a person is hung)",
+      "def_en": "The tree on which a criminal is hung, and the tree on which Christ was hung (a word referring to the cross): “everyone hanged on a tree”, “bore our sins on the tree”.",
+      "label_es": "madero (en que se cuelga a una persona)",
+      "def_es": "El madero en que se cuelga a un delincuente, y el madero en que fue colgado Cristo (término que designa la cruz): «el que es colgado en un madero», «llevó nuestros pecados sobre el madero».",
+      "label_sv": "trä (som en människa hängs upp på)",
+      "def_sv": "Det trä en brottsling hängs upp på, och det trä Kristus hängdes upp på (ett ord för korset): ”den som blir upphängd på ett trä”, ”bar våra synder upp på träet”.",
+      "layers": {
+        "nt": 5,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "使徒5:30・10:39・13:29、ガラテヤ3:13（申命記21:23 の引用）、Ⅰペテロ2:24。教父（バルナバ5.13『木の上で苦しむことが必要だった』）に並行。LXX の代表例では確認していない。"
+    },
+    {
+      "n": 5,
+      "label_ja": "（いのちの）木",
+      "def_ja": "黙示録のいのちの木。その実を食べる、その木にあずかる権利、命の木に関する言葉を取り除く。",
+      "label_en": "the tree (of life)",
+      "def_en": "The tree of life in Revelation: eating its fruit, the right to share in the tree, and the words about taking away one's share in the tree of life.",
+      "label_es": "el árbol (de la vida)",
+      "def_es": "El árbol de la vida del Apocalipsis: comer de su fruto, el derecho a participar del árbol, las palabras sobre quitar la parte en el árbol de la vida.",
+      "label_sv": "(livets) träd",
+      "def_sv": "Livets träd i Uppenbarelseboken: att äta av dess frukt, rätten till trädet, orden om att ta ifrån någon delen i livets träd.",
+      "layers": {
+        "nt": 5,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "黙示録2:7・22:2（2回）・14・19。教父（バルナバ12『ξύλον γνώσεως』など）に園の木の並行。LXX 創世記2–3章の木は代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 3:12": 1,
+    "1PE 2:24": 4,
+    "ACT 10:39": 4,
+    "ACT 16:24": 3,
+    "ACT 13:29": 4,
+    "ACT 5:30": 4,
+    "GAL 3:13": 4,
+    "LUK 23:31": 1,
+    "LUK 22:52": 2,
+    "MAT 26:47": 2,
+    "MAT 26:55": 2,
+    "MRK 14:43": 2,
+    "MRK 14:48": 2,
+    "REV 18:12#1": 1,
+    "REV 18:12#2": 1,
+    "REV 22:2#1": 5,
+    "REV 22:2#2": 5,
+    "REV 22:14": 5,
+    "REV 22:19": 5,
+    "REV 2:7": 5
+  },
+  "unresolved": [],
+  "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

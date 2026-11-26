@@ -1,0 +1,67 @@
+{
+  "strong": "G4149",
+  "lemma": "πλοῦτος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "富／財産（外的なもの）",
+      "def_ja": "金銭・財産・持ち物としての富。富の惑わし、富に望みを置くこと、富が朽ちること。",
+      "label_en": "riches / wealth (external)",
+      "def_en": "Wealth as money, property, and possessions: the deceitfulness of riches, setting one's hope on riches, the rotting of riches.",
+      "label_es": "riqueza / bienes (externos)",
+      "def_es": "La riqueza como dinero, bienes y posesiones: el engaño de las riquezas, poner la esperanza en ellas, riquezas que se pudren.",
+      "label_sv": "rikedom / egendom (yttre)",
+      "def_sv": "Rikedom i form av pengar, egendom och ägodelar: rikedomens bedrägeri, att sätta sitt hopp till rikedomen, att rikedomen förmultnar.",
+      "layers": {
+        "nt": 8,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "マタイ13:22・マルコ4:19・ルカ8:14（富の惑わし）、Ⅰテモ6:17、ヤコブ5:2、ヘブル11:26（エジプトの宝）、黙示録5:12（小羊は富を受けるにふさわしい）・18:17。LXX 箴言22:4、教父（ヘルマス3.6.5）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "豊かさ／富（神の恵み・栄光・知恵などの）",
+      "def_ja": "神の恵み・栄光・慈愛・知恵・キリストの測り知れぬ豊かさ、またそれが人にもたらされる豊かさ（比喩的・霊的な用法）。属格で内容が示される。",
+      "label_en": "abundance / riches (of God's grace, glory, wisdom, etc.)",
+      "def_en": "The abundance of God's grace, glory, kindness, and wisdom, the unsearchable riches of Christ, and the richness these bring to people (figurative, spiritual use). The content is given in the genitive.",
+      "label_es": "abundancia / riqueza (de la gracia, la gloria, la sabiduría de Dios, etc.)",
+      "def_es": "La abundancia de la gracia, la gloria, la bondad y la sabiduría de Dios, las inescrutables riquezas de Cristo, y la riqueza que estas traen a las personas (uso figurado y espiritual). El contenido va en genitivo.",
+      "label_sv": "överflöd / rikedom (av Guds nåd, härlighet, vishet m.m.)",
+      "def_sv": "Överflödet av Guds nåd, härlighet, godhet och vishet, Kristi outgrundliga rikedom, och den rikedom detta för med sig till människor (bildligt, andligt bruk). Innehållet anges i genitiv.",
+      "layers": {
+        "nt": 14,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ローマ2:4・9:23・11:12（2回）・11:33、Ⅱコリ8:2（惜しみなさの富）、エペソ1:7・18・2:7・3:8・16、ピリ4:19、コロサイ1:27・2:2。パウロ書簡に集中する。語義1との境界は連続的（Abbott も『道徳的・霊的な概念』に置く）。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1TI 6:17": 1,
+    "2CO 8:2": 2,
+    "COL 2:2": 2,
+    "COL 1:27": 2,
+    "EPH 2:7": 2,
+    "EPH 1:7": 2,
+    "EPH 1:18": 2,
+    "EPH 3:8": 2,
+    "EPH 3:16": 2,
+    "HEB 11:26": 1,
+    "JAS 5:2": 1,
+    "LUK 8:14": 1,
+    "MAT 13:22": 1,
+    "MRK 4:19": 1,
+    "PHP 4:19": 2,
+    "REV 18:17": 1,
+    "REV 5:12": 1,
+    "ROM 11:12#1": 2,
+    "ROM 11:12#2": 2,
+    "ROM 11:33": 2,
+    "ROM 2:4": 2,
+    "ROM 9:23": 2
+  },
+  "unresolved": [],
+  "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

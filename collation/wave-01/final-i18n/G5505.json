@@ -1,0 +1,68 @@
+{
+  "strong": "G5505",
+  "lemma": "χιλιάς",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "千（数の単位）",
+      "def_ja": "数の千、千人の群れ。『数千』『一万二千』のように数詞とともに数を表す。",
+      "label_en": "thousand (unit of number)",
+      "def_en": "The number thousand, a group of a thousand people. Expresses a number together with numerals, as in “several thousand” or “twelve thousand”.",
+      "label_es": "millar (unidad numérica)",
+      "def_es": "El número mil, un grupo de mil personas. Expresa cantidades junto con numerales, como «varios millares» o «doce mil».",
+      "label_sv": "tusen (talenhet)",
+      "def_sv": "Talet tusen, en skara på tusen. Anger antal tillsammans med räkneord, som ”flera tusen” eller ”tolv tusen”.",
+      "layers": {
+        "nt": 21,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ14:31（一万・二万）、使徒4:4（約五千人）、Ⅰコリ10:8（二万三千）、黙示録7:4–8（各部族の一万二千）・11:13・14:1・3・21:16。LXX 民数記・サムエル記に多数並行。教父の代表例では確認していない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "千々（多数の群れ）",
+      "def_ja": "『千々（χιλιάδες χιλιάδων）』の形で、数えきれない多数を表す。",
+      "label_en": "thousands upon thousands (a vast multitude)",
+      "def_en": "In the form “thousands of thousands” (χιλιάδες χιλιάδων), expresses a countless multitude.",
+      "label_es": "millares de millares (multitud inmensa)",
+      "def_es": "En la forma «millares de millares» (χιλιάδες χιλιάδων), expresa una multitud incontable.",
+      "label_sv": "tusen och åter tusen (en oräknelig skara)",
+      "def_sv": "I formen ”tusen gånger tusen” (χιλιάδες χιλιάδων) uttrycker en oräknelig mängd.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "黙示録5:11（万々、千々）の1例（同一節に2回）。LXX 詩篇・ダニエル書の『千々』に並行、教父（Ⅰクレメンス34.6）に並行。"
+    }
+  ],
+  "assignments": {
+    "1CO 10:8": 1,
+    "ACT 4:4": 1,
+    "LUK 14:31#1": 1,
+    "LUK 14:31#2": 1,
+    "REV 11:13": 1,
+    "REV 14:1": 1,
+    "REV 14:3": 1,
+    "REV 5:11#1": 2,
+    "REV 5:11#2": 2,
+    "REV 21:16": 1,
+    "REV 7:4": 1,
+    "REV 7:5#1": 1,
+    "REV 7:5#2": 1,
+    "REV 7:5#3": 1,
+    "REV 7:6#1": 1,
+    "REV 7:6#2": 1,
+    "REV 7:6#3": 1,
+    "REV 7:7#1": 1,
+    "REV 7:7#2": 1,
+    "REV 7:7#3": 1,
+    "REV 7:8#1": 1,
+    "REV 7:8#2": 1,
+    "REV 7:8#3": 1
+  },
+  "unresolved": [],
+  "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

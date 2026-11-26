@@ -1,0 +1,68 @@
+{
+  "strong": "G3983",
+  "lemma": "πεινάω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "飢える／空腹である",
+      "def_ja": "食べるものがなく空腹になる。身体の飢え。",
+      "label_en": "to hunger / be hungry",
+      "def_en": "To be hungry for lack of food: bodily hunger.",
+      "label_es": "pasar hambre / tener hambre",
+      "def_es": "Sentir hambre por no tener qué comer: hambre física.",
+      "label_sv": "att hungra / vara hungrig",
+      "def_sv": "Att bli hungrig av brist på mat: kroppslig hunger.",
+      "layers": {
+        "nt": 21,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "福音書の空腹（マタイ4:2・12:1・3・21:18・25、マルコ2:25・11:12、ルカ1:53・4:2・6:3）、使徒的苦難（Ⅰコリ4:11・11:21・34、ピリ4:12）、黙示録7:16、ローマ12:20。ルカ6:21・25（『今飢えている者』）は Abbott が比喩に置くが、貧しさと対にされた文脈で身体の飢えと読めるためここに置いた。LXX・教父（バルナバ3.3）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "（義・いのちを）渇望する（比喩）",
+      "def_ja": "身体の飢えを、義やいのちへの切なる求めの比喩として用いる。",
+      "label_en": "to hunger for (righteousness, life; figurative)",
+      "def_en": "Bodily hunger used as a figure for an earnest longing for righteousness or life.",
+      "label_es": "tener hambre (de justicia, de vida; figurado)",
+      "def_es": "El hambre física usada como figura del anhelo ardiente de justicia o de vida.",
+      "label_sv": "att hungra (efter rättfärdighet, liv; bildligt)",
+      "def_sv": "Kroppslig hunger som bild för en innerlig längtan efter rättfärdighet eller liv.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マタイ5:6（義に飢え渇く）、ヨハネ6:35（わたしに来る者は決して飢えない）。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 4:11": 1,
+    "1CO 11:21": 1,
+    "1CO 11:34": 1,
+    "JHN 6:35": 2,
+    "LUK 1:53": 1,
+    "LUK 4:2": 1,
+    "LUK 6:3": 1,
+    "LUK 6:21": 1,
+    "LUK 6:25": 1,
+    "MAT 12:1": 1,
+    "MAT 12:3": 1,
+    "MAT 4:2": 1,
+    "MAT 21:18": 1,
+    "MAT 25:35": 1,
+    "MAT 25:37": 1,
+    "MAT 25:42": 1,
+    "MAT 25:44": 1,
+    "MAT 5:6": 2,
+    "MRK 11:12": 1,
+    "MRK 2:25": 1,
+    "PHP 4:12": 1,
+    "REV 7:16": 1,
+    "ROM 12:20": 1
+  },
+  "unresolved": [],
+  "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

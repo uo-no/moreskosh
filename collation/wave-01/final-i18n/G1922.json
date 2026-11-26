@@ -1,0 +1,82 @@
+{
+  "strong": "G1922",
+  "lemma": "ἐπίγνωσις",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "認識／知識（神・真理・キリストの）",
+      "def_ja": "人格的・全的な認識、知ること。神・キリスト・真理・神のみこころを知ること。多く属格で対象（神・キリスト・真理）を示す。",
+      "label_en": "recognition / knowledge (of God, truth, Christ)",
+      "def_en": "Personal and whole-hearted recognition, knowing: knowing God, Christ, the truth, God's will. The object (God, Christ, truth) is often given in the genitive.",
+      "label_es": "conocimiento (de Dios, de la verdad, de Cristo)",
+      "def_es": "Conocimiento personal e integral, el conocer: conocer a Dios, a Cristo, la verdad, la voluntad de Dios. El objeto (Dios, Cristo, la verdad) suele ir en genitivo.",
+      "label_sv": "insikt / kunskap (om Gud, sanningen, Kristus)",
+      "def_sv": "En personlig och hel kännedom, att känna: att känna Gud, Kristus, sanningen, Guds vilja. Föremålet (Gud, Kristus, sanningen) anges ofta i genitiv.",
+      "layers": {
+        "nt": 17,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰテモ2:4・Ⅱテモ2:25・3:7・テト1:1・ヘブル10:26（真理の知識）、Ⅱペテロ1:2・3・8・2:20（神・イエスを知ること）、コロサイ1:9・10・2:2・3:10、エペソ1:17・4:13（神の子の知識）、ローマ1:28・10:2（神についての認識）。LXX ホセア6:6（神の知識）、教父（Ⅰクレメンス59.2）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "見極め／識別（良いことの認識）",
+      "def_ja": "愛が増し加わるための、また信仰の交わりが及ぼす、良いことを見分ける力、識別。",
+      "label_en": "discernment (recognizing what is good)",
+      "def_en": "The power to discern and tell apart what is good, so that love may abound, and as the effect of the fellowship of faith.",
+      "label_es": "discernimiento (reconocer lo bueno)",
+      "def_es": "La capacidad de discernir lo bueno, para que el amor abunde y como efecto de la comunión de la fe.",
+      "label_sv": "urskillning (insikt om det goda)",
+      "def_sv": "Förmågan att urskilja det goda, för att kärleken ska växa till och som det trons gemenskap åstadkommer.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ピリ1:9（知識と鑑識力）、ピレモン6（あらゆる良いことの知識）。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "（罪の）自覚／認識",
+      "def_ja": "律法によって罪が認識される、罪の自覚が生じる。",
+      "label_en": "awareness / recognition (of sin)",
+      "def_en": "Sin is recognized through the law; an awareness of sin arises.",
+      "label_es": "conciencia / reconocimiento (del pecado)",
+      "def_es": "Por medio de la ley se reconoce el pecado; surge la conciencia del pecado.",
+      "label_sv": "medvetenhet / insikt (om synden)",
+      "def_sv": "Genom lagen blir synden erkänd; medvetenhet om synd uppstår.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ローマ3:20（律法によっては、罪の自覚が生じるだけ）の1例のみ。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1TI 2:4": 1,
+    "2PE 2:20": 1,
+    "2PE 1:2": 1,
+    "2PE 1:3": 1,
+    "2PE 1:8": 1,
+    "2TI 3:7": 1,
+    "2TI 2:25": 1,
+    "COL 2:2": 1,
+    "COL 3:10": 1,
+    "COL 1:9": 1,
+    "COL 1:10": 1,
+    "EPH 1:17": 1,
+    "EPH 4:13": 1,
+    "HEB 10:26": 1,
+    "PHM 1:6": 2,
+    "PHP 1:9": 2,
+    "ROM 10:2": 1,
+    "ROM 1:28": 1,
+    "ROM 3:20": 3,
+    "TIT 1:1": 1
+  },
+  "unresolved": [],
+  "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

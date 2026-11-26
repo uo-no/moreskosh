@@ -1,0 +1,65 @@
+{
+  "strong": "G5616",
+  "lemma": "ὡσεί",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "およそ（概数）",
+      "def_ja": "数・時・距離の概数を示す。『およそ〜』。",
+      "label_en": "about (approximation)",
+      "def_en": "Indicates an approximate number, time, or distance: “about …”.",
+      "label_es": "unos / aproximadamente (cifra aproximada)",
+      "def_es": "Indica una cifra aproximada de número, tiempo o distancia: «como unos …».",
+      "label_sv": "ungefär (ungefärligt tal)",
+      "def_sv": "Anger ett ungefärligt antal, en ungefärlig tid eller sträcka: ”omkring …”.",
+      "layers": {
+        "nt": 11,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒2:41（約三千人）・10:3・19:7、ルカ3:23（およそ三十歳）・9:14・28・22:41（石を投げて届くほど）・59・23:44、マタイ14:21。LXX・教父の代表例では確認していない（代表例は『のように』の用法が中心）。"
+    },
+    {
+      "n": 2,
+      "label_ja": "〜のように／〜かのように（比較）",
+      "def_ja": "『のように』『かのように』『まるで〜のよう』、様子・外見の比較。",
+      "label_en": "like / as if (comparison)",
+      "def_en": "“Like”, “as if”, “just like …”: a comparison of manner or appearance.",
+      "label_es": "como / como si (comparación)",
+      "def_es": "«Como», «como si», «igual que …»: comparación de modo o apariencia.",
+      "label_sv": "som / liksom om (jämförelse)",
+      "def_sv": "”Som”, ”som om”, ”alldeles som …”: en jämförelse av sätt eller utseende.",
+      "layers": {
+        "nt": 9,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒2:3（炎のような舌）・6:15（御使いの顔のように）、ヘブル1:12（外套のように）、ルカ22:44（血の滴りのように）・24:11（たわごとのように）、マタイ3:16（鳩のように）・9:36（羊飼いのいない羊のように）、マルコ9:26（死人のように）、ローマ6:13（死者の中から生き返った者のように）。LXX 詩篇89:9、教父（ヘルマス3.1.5）に並行。"
+    }
+  ],
+  "assignments": {
+    "ACT 10:3": 1,
+    "ACT 19:7": 1,
+    "ACT 2:3": 2,
+    "ACT 2:41": 1,
+    "ACT 6:15": 2,
+    "HEB 1:12": 2,
+    "LUK 3:23": 1,
+    "LUK 24:11": 2,
+    "LUK 23:44": 1,
+    "LUK 22:41": 1,
+    "LUK 22:44": 2,
+    "LUK 22:59": 1,
+    "LUK 9:14#1": 1,
+    "LUK 9:14#2": 1,
+    "LUK 9:28": 1,
+    "MAT 14:21": 1,
+    "MAT 3:16": 2,
+    "MAT 9:36": 2,
+    "MRK 9:26": 2,
+    "ROM 6:13": 2
+  },
+  "unresolved": [],
+  "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

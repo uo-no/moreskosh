@@ -1,0 +1,83 @@
+{
+  "strong": "G4762",
+  "lemma": "στρέφω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "振り向く／向きを変える（体の向き）",
+      "def_ja": "自分の体の向きを変える、振り向く。分詞で『振り向いて言った』の形が多い。",
+      "label_en": "to turn around (the body)",
+      "def_en": "To change the direction of one's body, to turn round. Often in the participial form “turning, he said”.",
+      "label_es": "volverse (girar el cuerpo)",
+      "def_es": "Cambiar la orientación del propio cuerpo, volverse. Frecuente en participio: «volviéndose, dijo».",
+      "label_sv": "att vända sig om (med kroppen)",
+      "def_sv": "Att vända kroppen åt ett annat håll, att vända sig om. Ofta i participform: ”han vände sig om och sade”.",
+      "layers": {
+        "nt": 13,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヨハネ1:38・20:14・16、ルカ7:9・44・9:55・10:23・14:25・22:61・23:28、マタイ9:22・16:23・7:6（向き直って襲う）。LXX・教父（Ⅱクレメンス5.2 ほか）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "向き直る／立ち帰る／離れ向く（方向の転換）",
+      "def_ja": "心・歩みの向きを変える、立ち帰る、ほかの者へ向かう、離れる。『子どものようになる』『ほかの者へ向かう』。",
+      "label_en": "to turn back / return / turn away (change of direction)",
+      "def_en": "To change the direction of one's heart or course, to turn back, to turn toward others, to turn away: “become like children”, “turn to others”.",
+      "label_es": "convertirse / volver / apartarse (cambio de dirección)",
+      "def_es": "Cambiar la dirección del corazón o del camino: volver, dirigirse a otros, apartarse: «haceros como niños», «volverse a otros».",
+      "label_sv": "att vända om / återvända / vända sig bort (byte av riktning)",
+      "def_sv": "Att ändra hjärtats eller vandringens riktning: att vända om, vända sig till andra, vända sig bort: ”bli som barn”, ”vända sig till andra”.",
+      "layers": {
+        "nt": 5,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マタイ18:3（立ち帰って子どものようにならなければ）、ヨハネ12:40（イザヤ6:10 の引用）、使徒7:39・7:42（神は彼らを向き離した）、使徒13:46（異邦人に向かう）。語義1との境界は、体の向きか心・使命の向きかによる連続的な区分。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "向ける／差し出す／変える／返す（他動）",
+      "def_ja": "他者に向ける、差し出す、別のものに変える、返す。他動詞として。",
+      "label_en": "to turn / offer / change / return (transitive)",
+      "def_en": "As a transitive verb: to turn something toward another, to offer it, to change it into something else, to return it.",
+      "label_es": "volver / ofrecer / convertir / devolver (transitivo)",
+      "def_es": "Como verbo transitivo: volver algo hacia otro, ofrecerlo, convertirlo en otra cosa, devolverlo.",
+      "label_sv": "att vända / räcka fram / förvandla / lämna tillbaka (transitivt)",
+      "def_sv": "Som transitivt verb: att vända något mot någon, räcka fram, förvandla till något annat, lämna tillbaka.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "マタイ5:39（もう一方の頬を向けなさい）、マタイ27:3（銀貨を返した）、黙示録11:6（水を血に変える）。LXX イザヤ・ヨブ（寝床を向け変える）、教父（ディダケー1.4）に並行。"
+    }
+  ],
+  "assignments": {
+    "ACT 13:46": 2,
+    "ACT 7:39": 2,
+    "ACT 7:42": 2,
+    "JHN 1:38": 1,
+    "JHN 12:40": 2,
+    "JHN 20:14": 1,
+    "JHN 20:16": 1,
+    "LUK 10:23": 1,
+    "LUK 14:25": 1,
+    "LUK 23:28": 1,
+    "LUK 22:61": 1,
+    "LUK 7:9": 1,
+    "LUK 7:44": 1,
+    "LUK 9:55": 1,
+    "MAT 16:23": 1,
+    "MAT 18:3": 2,
+    "MAT 7:6": 1,
+    "MAT 5:39": 3,
+    "MAT 27:3": 3,
+    "MAT 9:22": 1,
+    "REV 11:6": 3
+  },
+  "unresolved": [],
+  "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

@@ -1,0 +1,82 @@
+{
+  "strong": "G5257",
+  "lemma": "ὑπηρέτης",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "下役／役人（祭司長・議会・官憲の下役）",
+      "def_ja": "祭司長・パリサイ人・サンヘドリン・裁判人の下で働く下役、護衛の者、警吏。",
+      "label_en": "officer / attendant (of chief priests, council, authorities)",
+      "def_en": "A subordinate serving under the chief priests, Pharisees, Sanhedrin, or a judge: a guard, an officer.",
+      "label_es": "alguacil / oficial subalterno (de sumos sacerdotes, consejo, autoridades)",
+      "def_es": "Subalterno al servicio de los principales sacerdotes, fariseos, el Sanedrín o un juez; guardia, alguacil.",
+      "label_sv": "rättstjänare / underlydande (hos överstepräster, råd, myndigheter)",
+      "def_sv": "En underlydande hos översteprästerna, fariseerna, Stora rådet eller en domare: vakt, rättstjänare.",
+      "layers": {
+        "nt": 14,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヨハネ7:32・45・46・18:3・12・18・22・19:6、使徒5:22・26、マタイ5:25（裁判人の下役）・26:58、マルコ14:54・65。LXX（箴言14:35 の王に仕える者）、教父（ヘルマス）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "会堂の係",
+      "def_ja": "会堂で巻物を受け渡す世話係。",
+      "label_en": "synagogue attendant",
+      "def_en": "The attendant in a synagogue who hands out and receives back the scroll.",
+      "label_es": "asistente de la sinagoga",
+      "def_es": "El encargado de la sinagoga que entrega y recibe el rollo.",
+      "label_sv": "synagogtjänare",
+      "def_sv": "Den som i synagogan har hand om att räcka fram och ta emot bokrullen.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ルカ4:20（巻物を係に返した）の1例のみ。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "しもべ／奉仕者",
+      "def_ja": "主・キリスト・みことばに仕える者、助手。使徒たちの働きを助ける者。",
+      "label_en": "servant / minister",
+      "def_en": "One who serves the Lord, Christ, or the word; an assistant; one who helps in the apostles' work.",
+      "label_es": "servidor / ministro",
+      "def_es": "El que sirve al Señor, a Cristo o a la palabra; ayudante. Quien ayuda en la labor de los apóstoles.",
+      "label_sv": "tjänare / medhjälpare",
+      "def_sv": "En som tjänar Herren, Kristus eller ordet; en medhjälpare. En som bistår apostlarnas arbete.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰコリ4:1（キリストのしもべ）、使徒13:5（ヨハネを助手として）・26:16（パウロを下役・証人として任命する）、ルカ1:2（みことばに仕える者たち）、ヨハネ18:36（わたしのしもべたち）。LXX 知恵の書6:4、教父（Ⅰクレメンス・ヘルマス）に並行。"
+    }
+  ],
+  "assignments": {
+    "1CO 4:1": 3,
+    "ACT 13:5": 3,
+    "ACT 26:16": 3,
+    "ACT 5:22": 1,
+    "ACT 5:26": 1,
+    "JHN 18:3": 1,
+    "JHN 18:12": 1,
+    "JHN 18:18": 1,
+    "JHN 18:22": 1,
+    "JHN 18:36": 3,
+    "JHN 19:6": 1,
+    "JHN 7:32": 1,
+    "JHN 7:45": 1,
+    "JHN 7:46": 1,
+    "LUK 1:2": 3,
+    "LUK 4:20": 2,
+    "MAT 5:25": 1,
+    "MAT 26:58": 1,
+    "MRK 14:54": 1,
+    "MRK 14:65": 1
+  },
+  "unresolved": [],
+  "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

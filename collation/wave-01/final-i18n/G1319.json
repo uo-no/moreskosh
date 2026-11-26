@@ -1,0 +1,66 @@
+{
+  "strong": "G1319",
+  "lemma": "διδασκαλία",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "教えること／教え（行為・営み）",
+      "def_ja": "教える行為、教える務め、教えによる指導。賜物としての『教える』こと、聖書の有益さ。",
+      "label_en": "teaching (the act or work)",
+      "def_en": "The act of teaching, the task of teaching, guidance by instruction: “teaching” as a gift, the usefulness of Scripture.",
+      "label_es": "enseñanza (acto y labor de enseñar)",
+      "def_es": "El acto de enseñar, el ministerio de enseñar, la guía mediante la enseñanza: la «enseñanza» como don, la utilidad de la Escritura.",
+      "label_sv": "undervisning (handlingen / verksamheten)",
+      "def_sv": "Handlingen att undervisa, uppgiften att undervisa, vägledning genom undervisning: gåvan att ”undervisa”, Skriftens nytta.",
+      "layers": {
+        "nt": 7,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ローマ12:7（教える者は教えに）・15:4（聖書が教えのために書かれた）、Ⅰテモ4:13・16・5:17（教えること）、Ⅱテモ3:16（教えに有益）、テト2:7（教えにおいて）。LXX シラ書24:33 に並行。教父の代表例では確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "教え（教えの内容・教理）",
+      "def_ja": "教えられる内容、教説、教理。『健全な教え』『人間の戒めを教えとして教える』『偽りの教え』。",
+      "label_en": "teaching (content, doctrine)",
+      "def_en": "What is taught: teaching, doctrine: “sound doctrine”, “teaching human commandments as doctrines”, “false teaching”.",
+      "label_es": "enseñanza (contenido, doctrina)",
+      "def_es": "Lo que se enseña, doctrina: «la sana doctrina», «enseñar como doctrinas mandamientos humanos», «enseñanzas falsas».",
+      "label_sv": "lära (undervisningens innehåll)",
+      "def_sv": "Det som lärs ut, lära: ”den sunda läran”, ”att lära ut människobud som lära”, ”falsk lära”.",
+      "layers": {
+        "nt": 14,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "マタイ15:9・マルコ7:7（人の戒めを教えとして）、エペソ4:14、コロサイ2:22、Ⅰテモ1:10・4:1・6・6:1・3、Ⅱテモ3:10・4:3、テト1:9・2:1・10。LXX イザヤ29:13、教父（イグナティオス）に並行。"
+    }
+  ],
+  "assignments": {
+    "1TI 4:1": 2,
+    "1TI 4:6": 2,
+    "1TI 4:13": 1,
+    "1TI 4:16": 1,
+    "1TI 1:10": 2,
+    "1TI 5:17": 1,
+    "1TI 6:1": 2,
+    "1TI 6:3": 2,
+    "2TI 3:10": 2,
+    "2TI 3:16": 1,
+    "2TI 4:3": 2,
+    "COL 2:22": 2,
+    "EPH 4:14": 2,
+    "MAT 15:9": 2,
+    "MRK 7:7": 2,
+    "ROM 12:7": 1,
+    "ROM 15:4": 1,
+    "TIT 2:1": 2,
+    "TIT 2:7": 1,
+    "TIT 2:10": 2,
+    "TIT 1:9": 2
+  },
+  "unresolved": [],
+  "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

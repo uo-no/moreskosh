@@ -1,0 +1,65 @@
+{
+  "strong": "G156",
+  "lemma": "αἰτία",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "理由／原因",
+      "def_ja": "ある事態の理由・原因・根拠。『どういう理由で』『この理由のために』『事の次第』。",
+      "label_en": "reason / cause",
+      "def_en": "The reason, cause, or ground of a state of affairs: “for what reason”, “for this reason”, “how the matter stands”.",
+      "label_es": "razón / causa",
+      "def_es": "Razón, causa o fundamento de una situación: «por qué causa», «por esta razón», «la condición del caso».",
+      "label_sv": "skäl / orsak",
+      "def_sv": "Skälet, orsaken eller grunden till ett förhållande: ”av vilken anledning”, ”av detta skäl”, ”hur saken står”.",
+      "layers": {
+        "nt": 10,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "マタイ19:3・19:10（離縁の理由・事の次第）、ルカ8:47（触れた理由）、使徒10:21・22:24（騒ぎの原因）・28:20（鎖につながれた理由）、Ⅱテモ1:6・12、テト1:13、ヘブル2:11。LXX 知恵の書、教父（Ⅰクレメンス44.2、バルナバ10.3）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "罪状／告発の理由（咎）",
+      "def_ja": "法廷で問われる罪状・訴えの理由、咎。『死に当たる罪状』『罪状書き』『この人に咎を見いださない』。",
+      "label_en": "charge / ground of accusation (guilt)",
+      "def_en": "A charge or ground of accusation brought in court, guilt: “a charge deserving death”, “the written charge”, “I find no guilt in this man”.",
+      "label_es": "cargo / motivo de acusación (culpa)",
+      "def_es": "Cargo o motivo de acusación ante un tribunal, culpa: «delito digno de muerte», «el título de la acusación», «no hallo culpa en este hombre».",
+      "label_sv": "anklagelse / skäl till åtal (skuld)",
+      "def_sv": "En anklagelse eller grund för åtal inför rätta, skuld: ”ett brott som förtjänar döden”, ”anslaget med anklagelsen”, ”jag finner ingen skuld hos denne man”.",
+      "layers": {
+        "nt": 10,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒13:28・23:28・25:18・27・28:18（死に当たる罪状）、ヨハネ18:38・19:4・6（咎を見いだせない）、マタイ27:37・マルコ15:26（罪状書き）。語義1との境界は、因果の理由か訴訟上の罪状かによる連続的な区分。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "2TI 1:6": 1,
+    "2TI 1:12": 1,
+    "ACT 10:21": 1,
+    "ACT 13:28": 2,
+    "ACT 22:24": 1,
+    "ACT 23:28": 2,
+    "ACT 25:18": 2,
+    "ACT 25:27": 2,
+    "ACT 28:18": 2,
+    "ACT 28:20": 1,
+    "HEB 2:11": 1,
+    "JHN 18:38": 2,
+    "JHN 19:4": 2,
+    "JHN 19:6": 2,
+    "LUK 8:47": 1,
+    "MAT 19:3": 1,
+    "MAT 19:10": 1,
+    "MAT 27:37": 2,
+    "MRK 15:26": 2,
+    "TIT 1:13": 1
+  },
+  "unresolved": [],
+  "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

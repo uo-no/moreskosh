@@ -1,0 +1,66 @@
+{
+  "strong": "G3986",
+  "lemma": "πειρασμός",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "試練／試み（信仰を試される状況）",
+      "def_ja": "信仰・忍耐が試される苦難・迫害・困難な状況。神から送られる試練、聖徒を『試みの中から』守る約束。",
+      "label_en": "trial / testing (a situation that tries faith)",
+      "def_en": "Suffering, persecution, or hardship in which faith and endurance are tested: trials sent by God, the promise to keep the saints “out of the trial”.",
+      "label_es": "prueba (situación que pone a prueba la fe)",
+      "def_es": "Sufrimiento, persecución o situación difícil en que se prueban la fe y la paciencia: pruebas enviadas por Dios, la promesa de guardar a los santos «de la prueba».",
+      "label_sv": "prövning (en situation där tron prövas)",
+      "def_sv": "Lidande, förföljelse eller svårigheter där tron och uthålligheten prövas: prövningar som Gud sänder, löftet att bevara de heliga ”ur prövningen”.",
+      "layers": {
+        "nt": 7,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰペテロ1:6・4:12、使徒20:19（ユダヤ人の陰謀による試練）、ガラテヤ4:14、ヘブル3:8（荒野での試み）、ヤコブ1:2、ルカ22:28（わたしの試練）。LXX シラ書44:20、教父（バルナバ・ヘルマス14.1.7）に並行。 振り分けの基準：箇所の中で語が『信仰の質を検証する苦難』として働く場合は本語義、『罪に陥る危険と、そこからの守り』として働く場合は語義2。BDAG 最終パス（2026-11-26）で照合し、この基準で確定した。使徒20:19・ルカ22:28 は BDAG が語義❷の末尾に複数形の用例として並べるが、意味の実態は苦難のため本語義に置く。"
+    },
+    {
+      "n": 2,
+      "label_ja": "誘惑（罪へ誘う試み）",
+      "def_ja": "罪や不信へ誘い込む試み、陥れる仕掛け。祈りで『試みに会わせないでください』と願う対象、目を覚まして祈るべき対象。",
+      "label_en": "temptation (a testing that entices to sin)",
+      "def_en": "An attempt to entice into sin or unbelief, a trap laid to bring down: what one prays not to be brought into (“lead us not into temptation”), what one should watch and pray against.",
+      "label_es": "tentación (prueba que incita al pecado)",
+      "def_es": "Intento de atraer al pecado o a la incredulidad, trampa para hacer caer: aquello en que se pide no ser introducido («no nos metas en tentación») y por lo que se debe velar y orar.",
+      "label_sv": "frestelse (prövning som lockar till synd)",
+      "def_sv": "Försök att locka in i synd eller otro, en snara för att få någon på fall: det man ber att inte bli förd in i (”för oss inte in i frestelse”), det man bör vaka och be inför.",
+      "layers": {
+        "nt": 14,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "マタイ6:13・ルカ11:4（主の祈り）、マタイ26:41・マルコ14:38・ルカ22:40・46（試みに陥らないように祈れ）、ルカ4:13（悪魔は一切の試みを終えて）、Ⅰテモ6:9（誘惑と罠に陥る）、Ⅰコリ10:13（2トークン。陥る危険と『逃れる道』の約束）、ヤコブ1:12（直後に欲望から罪への連鎖が続く）、ルカ8:13（試みのときに離れ去る）、黙示録3:10（試みの時）、Ⅱペテロ2:9（試みから救い出す）。BDAG 最終パス（2026-11-26）で照合：BDAG もこの6トークンを語義❷に置く（10:13 は両トークンとも明示）。Ⅰコリ10:13 は荒野の試みの枠（10:1–11）にも読めるが、偶像礼拝への警告の文脈と『逃れる道』の約束から語義2に確定した。語義1との境界は連続的（試練か誘惑かは文脈で読み分けられる）。LXX の代表例では確認していない。教父にディダケー8.2（主の祈り）の並行。"
+    }
+  ],
+  "assignments": {
+    "1PE 4:12": 1,
+    "1PE 1:6": 1,
+    "1TI 6:9": 2,
+    "2PE 2:9": 2,
+    "ACT 20:19": 1,
+    "GAL 4:14": 1,
+    "HEB 3:8": 1,
+    "JAS 1:2": 1,
+    "JAS 1:12": 2,
+    "LUK 11:4": 2,
+    "LUK 4:13": 2,
+    "LUK 22:28": 1,
+    "LUK 22:40": 2,
+    "LUK 22:46": 2,
+    "LUK 8:13": 2,
+    "MAT 6:13": 2,
+    "MAT 26:41": 2,
+    "MRK 14:38": 2,
+    "REV 3:10": 2,
+    "1CO 10:13#1": 2,
+    "1CO 10:13#2": 2
+  },
+  "unresolved": [],
+  "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

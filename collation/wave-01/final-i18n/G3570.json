@@ -1,0 +1,82 @@
+{
+  "strong": "G3570",
+  "lemma": "νυνί",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "今（現在）",
+      "def_ja": "νῦν の強め形。今この時、現在を指す。",
+      "label_en": "now (at present)",
+      "def_en": "An intensified form of νῦν: this present time, now.",
+      "label_es": "ahora (en el presente)",
+      "def_es": "Forma enfática de νῦν: este momento, el presente.",
+      "label_sv": "nu (i nuet)",
+      "def_sv": "En förstärkt form av νῦν: just nu, i nuvarande tid.",
+      "layers": {
+        "nt": 9,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒22:1・24:13、ローマ15:23・25、Ⅰコリ13:13（今は、信仰と希望と愛）、Ⅱコリ8:11・22、ピレモン9・11。LXX・教父（Ⅰクレメンス47.5）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "（かつては〜）今は（時の対比）",
+      "def_ja": "過去の状態に対して、今は新しい状態にあることを表す。『以前は〜、今は』『かつて〜が、今や』。",
+      "label_en": "but now (in contrast with the past)",
+      "def_en": "Expresses that, in contrast with a past state, one is now in a new state: “formerly …, but now”, “once …, yet now”.",
+      "label_es": "pero ahora (contraste temporal con el pasado)",
+      "def_es": "Expresa que, frente a un estado pasado, ahora se está en uno nuevo: «antes …, ahora», «en otro tiempo …, pero ya».",
+      "label_sv": "men nu (tidsmässig kontrast mot förr)",
+      "def_sv": "Uttrycker att man nu, till skillnad från tidigare, befinner sig i ett nytt tillstånd: ”förr …, men nu”, ”en gång …, men nu”.",
+      "layers": {
+        "nt": 6,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "ローマ3:21（『今や、律法とは別に』）・6:22・7:6、エペソ2:13、コロサイ1:22・3:8。教父（Ⅰクレメンス2.3）に並行。LXX の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "ところが実際は（論理的な転換）",
+      "def_ja": "時の対比ではなく、直前の仮定・想定に対して『ところが実際は』と事実を述べる論理的な接続。",
+      "label_en": "but as it is (logical turn)",
+      "def_en": "Not a contrast of time but a logical connective that states the fact, “but as it actually is”, against the preceding supposition or assumption.",
+      "label_es": "pero en realidad (giro lógico)",
+      "def_es": "No es un contraste temporal, sino un nexo lógico que, frente a la suposición anterior, afirma el hecho: «pero en realidad».",
+      "label_sv": "men nu är det så att (logisk vändning)",
+      "def_sv": "Inte en kontrast i tid utan en logisk förbindelse som mot det nyss antagna framhåller faktum: ”men så är det i själva verket”.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "Ⅰコリ12:18・15:20（『しかし実際、キリストは死者の中からよみがえらされた』）、ローマ7:17、ヘブル8:6・9:26。語義2との境界は連続的。LXX イザヤ（νυνὶ δέ）に並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 13:13": 1,
+    "1CO 12:18": 3,
+    "1CO 15:20": 3,
+    "2CO 8:11": 1,
+    "2CO 8:22": 1,
+    "ACT 22:1": 1,
+    "ACT 24:13": 1,
+    "COL 3:8": 2,
+    "COL 1:22": 2,
+    "EPH 2:13": 2,
+    "HEB 8:6": 3,
+    "HEB 9:26": 3,
+    "PHM 1:9": 1,
+    "PHM 1:11": 1,
+    "ROM 3:21": 2,
+    "ROM 15:23": 1,
+    "ROM 15:25": 1,
+    "ROM 6:22": 2,
+    "ROM 7:6": 2,
+    "ROM 7:17": 3
+  },
+  "unresolved": [],
+  "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

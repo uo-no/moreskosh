@@ -1,0 +1,116 @@
+{
+  "strong": "G1065",
+  "lemma": "γέ",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "（強調）実に／まさに／さえ",
+      "def_ja": "後置の小辞で、直前の語に特別な重みを置く。『実に』『まさに』『〜さえ』。",
+      "label_en": "(emphatic) indeed / precisely / even",
+      "def_en": "An enclitic particle that lays special weight on the word just before it: “indeed”, “precisely”, “even …”.",
+      "label_es": "(enfático) ciertamente / precisamente / aun",
+      "def_es": "Partícula enclítica que da un peso especial a la palabra inmediatamente anterior: «ciertamente», «precisamente», «aun …».",
+      "label_sv": "(emfatiskt) verkligen / just / till och med",
+      "def_sv": "En enklitisk partikel som lägger särskild tyngd på det närmast föregående ordet: ”verkligen”, ”just”, ”till och med …”.",
+      "layers": {
+        "nt": 7,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰコリ4:8（ὄφελόν γε）、使徒2:18（καί γε、『わたしのしもべたちにさえ』）、17:27 の2つ目（καί γε）、ルカ24:21（ἀλλά γε καί）、ローマ8:32（ὅς γε、『ご自分の御子さえ惜しまず』）、ルカ11:8・18:5（διά γε、『しつこさのゆえに』）。LXX 伝道者2:9 などの καί γε、教父（アルパイ）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "もし〜ならば確かに（εἴ γε）",
+      "def_ja": "条件の確認、『もしほんとうに〜ならば』『〜であるとすれば』を表す慣用連語。",
+      "label_en": "if indeed (εἴ γε)",
+      "def_en": "An idiomatic phrase confirming a condition: “if really …”, “assuming that …”.",
+      "label_es": "si es que de veras (εἴ γε)",
+      "def_es": "Locución idiomática que confirma una condición: «si de verdad …», «suponiendo que …».",
+      "label_sv": "om verkligen (εἴ γε)",
+      "def_sv": "Ett idiomatiskt uttryck som bekräftar ett villkor: ”om verkligen …”, ”förutsatt att …”.",
+      "layers": {
+        "nt": 5,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "Ⅱコリ5:3・コロサイ1:23・エペソ3:2・4:21・ガラテヤ3:4。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "さもなければ（εἰ δὲ μή γε）",
+      "def_ja": "『そうでなければ』を表す慣用連語。",
+      "label_en": "otherwise (εἰ δὲ μή γε)",
+      "def_en": "An idiomatic phrase meaning “if not so”.",
+      "label_es": "de lo contrario (εἰ δὲ μή γε)",
+      "def_es": "Locución idiomática que significa «si no es así».",
+      "label_sv": "annars (εἰ δὲ μή γε)",
+      "def_sv": "Ett idiomatiskt uttryck som betyder ”om det inte är så”.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マタイ6:1・9:17、Ⅱコリ11:16（εἰ δὲ μὴ γε, κἂν ὡς ἄφρονα）。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 4,
+      "label_ja": "だから（ἄρα γε）",
+      "def_ja": "推論を導く『だからこそ』を表す連語（ἄρα γε／ἆρά γε）。疑問の導入にもなる。",
+      "label_en": "so then (ἄρα γε)",
+      "def_en": "A phrase (ἄρα γε / ἆρά γε) that introduces an inference, “so it is that”; it can also introduce a question.",
+      "label_es": "así que (ἄρα γε)",
+      "def_es": "Locución (ἄρα γε / ἆρά γε) que introduce una inferencia, «por eso precisamente»; también puede introducir una pregunta.",
+      "label_sv": "alltså (ἄρα γε)",
+      "def_sv": "Ett uttryck (ἄρα γε / ἆρά γε) som inleder en slutsats, ”just därför”; det kan också inleda en fråga.",
+      "layers": {
+        "nt": 4,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "マタイ7:20・17:26（それなら）、使徒8:30（ἆρά γε＝『あなたは分かっていますか』）、17:27（εἰ ἄρα γε＝もしかして）。教父（Ⅱクレメンス7 ἆρά γε）に並行。"
+    },
+    {
+      "n": 5,
+      "label_ja": "せめて／少なくとも（ἀλλά γε）",
+      "def_ja": "『他の人にはそうでなくとも、せめて』の限定。",
+      "label_en": "at any rate / at least (ἀλλά γε)",
+      "def_en": "A restriction: “even if not to others, at least …”.",
+      "label_es": "siquiera / al menos (ἀλλά γε)",
+      "def_es": "Restricción: «aunque no lo sea para otros, al menos …».",
+      "label_sv": "åtminstone (ἀλλά γε)",
+      "def_sv": "En begränsning: ”om inte för andra, så åtminstone …”.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "Ⅰコリ9:2（ἀλλά γε ὑμῖν εἰμι＝あなたがたには少なくともそうである）の1例のみ。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 4:8": 1,
+    "1CO 9:2": 5,
+    "2CO 11:16": 3,
+    "2CO 5:3": 2,
+    "ACT 17:27#1": 4,
+    "ACT 17:27#2": 1,
+    "ACT 2:18": 1,
+    "ACT 8:30": 4,
+    "COL 1:23": 2,
+    "EPH 3:2": 2,
+    "EPH 4:21": 2,
+    "GAL 3:4": 2,
+    "LUK 11:8": 1,
+    "LUK 18:5": 1,
+    "LUK 24:21": 1,
+    "MAT 17:26": 4,
+    "MAT 7:20": 4,
+    "MAT 6:1": 3,
+    "MAT 9:17": 3,
+    "ROM 8:32": 1
+  },
+  "unresolved": [],
+  "layer_notes": "助詞のため、連語の別で語義を分けた（境界は連続的）。新約に無い用法は代表例の範囲では見当たらない。"
+}

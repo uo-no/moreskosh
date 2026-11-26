@@ -1,0 +1,84 @@
+{
+  "strong": "G1127",
+  "lemma": "γρηγορέω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "目を覚ましている／眠らずにいる",
+      "def_ja": "眠らないでいる、目を覚ましてとどまる。ゲッセマネで弟子たちに求められた覚醒、家の主人が盗人に備える見張り。",
+      "label_en": "to stay awake / not sleep",
+      "def_en": "To go without sleeping, to remain awake: the wakefulness required of the disciples in Gethsemane, the watch a householder keeps against a thief.",
+      "label_es": "estar despierto / velar sin dormir",
+      "def_es": "No dormir, permanecer despierto: la vigilia que se pide a los discípulos en Getsemaní, la guardia del dueño de casa contra el ladrón.",
+      "label_sv": "att hålla sig vaken / inte sova",
+      "def_sv": "Att inte sova utan förbli vaken: den vakenhet som krävdes av lärjungarna i Getsemane, husägarens vakt mot tjuven.",
+      "layers": {
+        "nt": 7,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "マタイ24:43・26:38・40・41、マルコ14:34・37・38。マタイ26:41・マルコ14:38（『目を覚まして祈っていなさい』）は覚醒と霊的警戒の含みで、語義2との境界は連続的。LXX・教父に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "目を覚まして備える／警戒する",
+      "def_ja": "主の来臨・危険・誘惑に対して、油断せずに備えて見張る。命令形が多い。",
+      "label_en": "to be watchful and ready / be on guard",
+      "def_en": "To keep watch, alert and prepared, in view of the Lord's coming, danger, or temptation. Often imperative.",
+      "label_es": "estar alerta y preparado / estar en guardia",
+      "def_es": "Vigilar, preparado y sin descuidarse, ante la venida del Señor, el peligro o la tentación. Frecuente en imperativo.",
+      "label_sv": "att vaka och vara beredd / vara på sin vakt",
+      "def_sv": "Att vaka, uppmärksam och beredd, inför Herrens ankomst, faror eller frestelser. Ofta i imperativ.",
+      "layers": {
+        "nt": 14,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "Ⅰコリ16:13、Ⅰペテロ5:8、Ⅰテサ5:6、使徒20:31、コロサイ4:2、ルカ12:37、マタイ24:42・25:13、マルコ13:34・35・37、黙示録3:2・3・16:15。教父にディダケー16.1（『命のために目を覚ましていなさい』）の並行。LXX の代表例（見張りの用例）は語義1 に近い。"
+    },
+    {
+      "n": 3,
+      "label_ja": "生きている（死と対比）",
+      "def_ja": "眠る（死ぬ）ことの反対として、生きていること。",
+      "label_en": "to be alive (as opposed to dead)",
+      "def_en": "To be alive, as the opposite of sleeping (dying).",
+      "label_es": "estar vivo (en contraste con la muerte)",
+      "def_es": "Estar vivo, como lo contrario de dormir (morir).",
+      "label_sv": "att leva (i motsats till döden)",
+      "def_sv": "Att vara vid liv, som motsatsen till att sova (dö).",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "Ⅰテサ5:10（目覚めていても眠っていても）の1例のみ。語義1との境界は連続的（Abbott も『生きていること』の比喩に置く）。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 16:13": 2,
+    "1PE 5:8": 2,
+    "1TH 5:6": 2,
+    "1TH 5:10": 3,
+    "ACT 20:31": 2,
+    "COL 4:2": 2,
+    "LUK 12:37": 2,
+    "MAT 25:13": 2,
+    "MAT 24:42": 2,
+    "MAT 24:43": 1,
+    "MAT 26:38": 1,
+    "MAT 26:40": 1,
+    "MAT 26:41": 1,
+    "MRK 13:34": 2,
+    "MRK 13:35": 2,
+    "MRK 13:37": 2,
+    "MRK 14:34": 1,
+    "MRK 14:37": 1,
+    "MRK 14:38": 1,
+    "REV 16:15": 2,
+    "REV 3:2": 2,
+    "REV 3:3": 2
+  },
+  "unresolved": [],
+  "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

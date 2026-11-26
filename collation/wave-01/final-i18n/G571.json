@@ -1,0 +1,85 @@
+{
+  "strong": "G571",
+  "lemma": "ἄπιστος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "信じない者／不信者",
+      "def_ja": "信仰を持たない人。信者に対する不信者、また不忠実・不信実な者を指すこともある。",
+      "label_en": "unbeliever",
+      "def_en": "A person without faith: an unbeliever as opposed to a believer; it can also refer to one who is unfaithful or untrustworthy.",
+      "label_es": "no creyente / incrédulo",
+      "def_es": "Persona sin fe: el no creyente frente al creyente; también puede designar al infiel o desleal.",
+      "label_sv": "icke troende / otroende",
+      "def_sv": "En människa utan tro: den otroende i motsats till den troende; kan också beteckna den trolöse eller opålitlige.",
+      "layers": {
+        "nt": 18,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "Ⅰコリ6:6・7:12–15・10:27・14:22–24、Ⅱコリ4:4・6:14–15、Ⅰテモ5:8、テト1:15、黙示録21:8。ルカ12:46（『不忠実な者』）は不信と不忠実の双方の含み。語義2との境界は連続的。LXX 箴言の用例は『信頼できない者』の意味で、新約の『不信者』の語義としては確認していない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "信じようとしない（不信仰な）",
+      "def_ja": "信仰を欠き、信じようとしない。叱責の形容として用いられる『不信仰な世代』、復活の主に対する『信じない者にならず』。",
+      "label_en": "unwilling to believe (faithless)",
+      "def_en": "Lacking faith, not willing to believe. An adjective of rebuke: “faithless generation”, and, to meet the risen Lord, “do not be unbelieving”.",
+      "label_es": "que no quiere creer (incrédulo)",
+      "def_es": "Carente de fe, que no quiere creer. Calificativo de reprensión: «generación incrédula», y ante el Señor resucitado, «no seas incrédulo».",
+      "label_sv": "som inte vill tro (trolös)",
+      "def_sv": "Som saknar tro och inte vill tro. Används tillrättavisande: ”trolösa släkte”, och inför den uppståndne Herren: ”var inte otroende utan troende”.",
+      "layers": {
+        "nt": 4,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マタイ17:17・マルコ9:19・ルカ9:41（『不信仰な曲がった世代』）、ヨハネ20:27（信じない者でなく信じる者になれ）。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "信じがたい",
+      "def_ja": "事柄が信じられない、ありえないと思われる。",
+      "label_en": "incredible",
+      "def_en": "Of a matter: not believable, thought impossible.",
+      "label_es": "increíble",
+      "def_es": "Se dice de algo que no se puede creer, que parece imposible.",
+      "label_sv": "otrolig",
+      "def_sv": "Om en sak: som inte går att tro, som verkar omöjlig.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "使徒26:8（神が死者をよみがえらせるのを信じがたいと思うか）の1例のみ。教父（バルナバ6.5.3『信じがたい名』）の並行があるが、用法の同一性は断定しない。LXX の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 10:27": 1,
+    "1CO 6:6": 1,
+    "1CO 14:22#1": 1,
+    "1CO 14:22#2": 1,
+    "1CO 14:23": 1,
+    "1CO 14:24": 1,
+    "1CO 7:12": 1,
+    "1CO 7:13": 1,
+    "1CO 7:14#1": 1,
+    "1CO 7:14#2": 1,
+    "1CO 7:15": 1,
+    "1TI 5:8": 1,
+    "2CO 6:14": 1,
+    "2CO 6:15": 1,
+    "2CO 4:4": 1,
+    "ACT 26:8": 3,
+    "JHN 20:27": 2,
+    "LUK 12:46": 1,
+    "LUK 9:41": 2,
+    "MAT 17:17": 2,
+    "MRK 9:19": 2,
+    "REV 21:8": 1,
+    "TIT 1:15": 1
+  },
+  "unresolved": [],
+  "layer_notes": "LXX 代表例（箴言・イザヤ）は『信頼のおけない』の意味。新約に無い用法として layer_notes に記録し語義にはしない。"
+}

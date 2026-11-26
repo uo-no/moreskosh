@@ -1,0 +1,84 @@
+{
+  "strong": "G1586",
+  "lemma": "ἐκλέγομαι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "（神が）選ぶ",
+      "def_ja": "神がご自分のために人・民・物を選び出す。選びの行為の主語が神。",
+      "label_en": "to choose (God)",
+      "def_en": "God chooses persons, a people, or things for himself: the subject of the act of choosing is God.",
+      "label_es": "elegir (Dios)",
+      "def_es": "Dios escoge para sí personas, un pueblo o cosas: el sujeto del acto de elegir es Dios.",
+      "label_sv": "att utvälja (Gud)",
+      "def_sv": "Gud utväljer åt sig människor, ett folk eller ting: den som väljer är Gud.",
+      "layers": {
+        "nt": 9,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒13:17（父祖たちを選んだ）、15:7、エペソ1:4（世の基の置かれる前に選んだ）、ヤコブ2:5、Ⅰコリ1:27（2回）・28（世の弱い者・愚かな者を選んだ）、マルコ13:20（選んだ選民）、ルカ9:35（『選ばれた子』、受動完了分詞）。LXX イザヤ41:9、教父（Ⅰクレメンス・ヘルマス）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "（役目のために人を）選ぶ",
+      "def_ja": "主・使徒・教会が人を、使命や役目のために選び出す。弟子・使徒・代表者を選ぶ。",
+      "label_en": "to choose (a person for a task)",
+      "def_en": "The Lord, the apostles, or the church choose people for a mission or role: choosing disciples, apostles, or representatives.",
+      "label_es": "escoger (a una persona para una función)",
+      "def_es": "El Señor, los apóstoles o la iglesia escogen personas para una misión o función: escoger discípulos, apóstoles o representantes.",
+      "label_sv": "att välja (en människa för en uppgift)",
+      "def_sv": "Herren, apostlarna eller församlingen väljer ut människor för ett uppdrag eller en uppgift: val av lärjungar, apostlar eller ombud.",
+      "layers": {
+        "nt": 11,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ルカ6:13（十二人を選ぶ）、使徒1:2・24（主が選んだ使徒）、6:5・15:22・25（教会が人を選ぶ）、ヨハネ6:70・13:18・15:16（2回）・15:19（わたしがあなたがたを選んだ）。語義1との境界は連続的（行為の主語がキリスト・教会か神か）。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "選び取る（物・席）",
+      "def_ja": "好みで物や席・良いものを自分のために選び取る。",
+      "label_en": "to pick out for oneself (things, seats)",
+      "def_en": "To choose for oneself, by preference, a thing, a seat, or what is good.",
+      "label_es": "escoger para sí (cosas, asientos)",
+      "def_es": "Escoger para sí, según la preferencia, una cosa, un asiento o lo bueno.",
+      "label_sv": "att välja ut åt sig (ting, platser)",
+      "def_sv": "Att efter eget tycke välja åt sig ett ting, en plats eller det goda.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ10:42（マリアは良いほうを選んだ）・14:7（上座を選ぶ）。LXX 申命記・歴代誌に並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 1:27#1": 1,
+    "1CO 1:27#2": 1,
+    "1CO 1:28": 1,
+    "ACT 1:2": 2,
+    "ACT 1:24": 2,
+    "ACT 15:7": 1,
+    "ACT 15:22": 2,
+    "ACT 15:25": 2,
+    "ACT 13:17": 1,
+    "ACT 6:5": 2,
+    "EPH 1:4": 1,
+    "JAS 2:5": 1,
+    "JHN 15:16#1": 2,
+    "JHN 15:16#2": 2,
+    "JHN 15:19": 2,
+    "JHN 13:18": 2,
+    "JHN 6:70": 2,
+    "LUK 10:42": 3,
+    "LUK 14:7": 3,
+    "LUK 6:13": 2,
+    "LUK 9:35": 1,
+    "MRK 13:20": 1
+  },
+  "unresolved": [],
+  "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

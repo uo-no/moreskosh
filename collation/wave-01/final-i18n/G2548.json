@@ -1,0 +1,67 @@
+{
+  "strong": "G2548",
+  "lemma": "κἀκεῖνος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "そして彼（それ）は／そしてあれらを",
+      "def_ja": "καὶ ἐκεῖνος の縮約。前の語や句を受けて、『そして彼は／それは／彼らを』と接続して指す。『あれら（もう一方の事）』の対比にも用いられる。",
+      "label_en": "and he (it) / and those",
+      "def_en": "A contraction of καὶ ἐκεῖνος: picks up a preceding word or clause and refers to it connectively, “and he / it / them”. Also used to contrast with “those (the other matters)”.",
+      "label_es": "y él (ello) / y aquellas cosas",
+      "def_es": "Contracción de καὶ ἐκεῖνος: retoma una palabra u oración anterior y la señala enlazando, «y él / ello / a ellos». También se usa en contraste con «aquellas (las otras cosas)».",
+      "label_sv": "och han (det) / och det andra",
+      "def_sv": "En sammandragning av καὶ ἐκεῖνος: tar upp ett föregående ord eller led och syftar sammanbindande på det, ”och han / det / dem”. Används också i kontrast till ”det andra (de andra sakerna)”.",
+      "layers": {
+        "nt": 10,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ルカ11:7・22:12（そして彼は）、ヨハネ7:29、マルコ12:4・5（そして彼を）、16:11・13（そして彼らは）、マタイ15:18・23:23・ルカ11:42（『あれらをも』）。語義2との境界は、『もまた』の意味が前面に出るかどうかによる連続的な区分。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "彼もまた／あれらもまた",
+      "def_ja": "καὶ ἐκεῖνος の縮約で、『その者もまた』『彼らもまた』の意味を表す（付加・類比）。",
+      "label_en": "he too / those too",
+      "def_en": "A contraction of καὶ ἐκεῖνος meaning “that one also”, “they also” (addition, analogy).",
+      "label_es": "él también / aquellos también",
+      "def_es": "Contracción de καὶ ἐκεῖνος con el sentido de «aquel también», «ellos también» (adición, analogía).",
+      "label_sv": "också han / också de",
+      "def_sv": "En sammandragning av καὶ ἐκεῖνος med betydelsen ”också den”, ”också de” (tillägg, analogi).",
+      "layers": {
+        "nt": 12,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "ヨハネ6:57・10:16・14:12・17:24、使徒5:37・15:11・18:19、ローマ11:23、Ⅰコリ10:6、Ⅱテモ2:12、ヘブル4:2、ルカ20:11。教父（バルナバ9.6『あの者たちも』、Ⅰクレメンス17.5『彼もまた』）に並行。LXX の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 10:6": 2,
+    "2TI 2:12": 2,
+    "ACT 18:19": 2,
+    "ACT 15:11": 2,
+    "ACT 5:37": 2,
+    "HEB 4:2": 2,
+    "JHN 10:16": 2,
+    "JHN 14:12": 2,
+    "JHN 17:24": 2,
+    "JHN 7:29": 1,
+    "JHN 6:57": 2,
+    "LUK 11:7": 1,
+    "LUK 11:42": 1,
+    "LUK 20:11": 2,
+    "LUK 22:12": 1,
+    "MAT 15:18": 1,
+    "MAT 23:23": 1,
+    "MRK 16:11": 1,
+    "MRK 16:13": 1,
+    "MRK 12:4": 1,
+    "MRK 12:5": 1,
+    "ROM 11:23": 2
+  },
+  "unresolved": [],
+  "layer_notes": "LXX の代表例（2件）は κἀκεῖνος の用例として確認できない。新約に無い用法は見当たらない。"
+}

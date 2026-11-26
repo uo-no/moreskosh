@@ -1,0 +1,99 @@
+{
+  "strong": "G1085",
+  "lemma": "γένος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "家系／出身（血筋・生まれ）",
+      "def_ja": "家柄、生まれ・出身。『キプロス生まれ』『アレクサンドリア生まれ』『祭司の家系』。",
+      "label_en": "descent / origin (lineage, birth)",
+      "def_en": "Family stock, birth, or origin: “a Cypriot by birth”, “an Alexandrian by birth”, “of priestly descent”.",
+      "label_es": "linaje / origen (sangre, nacimiento)",
+      "def_es": "Linaje, nacimiento u origen: «natural de Chipre», «natural de Alejandría», «de familia sacerdotal».",
+      "label_sv": "härkomst / ursprung (släkt, födelse)",
+      "def_sv": "Släkt, börd eller ursprung: ”född på Cypern”, ”född i Alexandria”, ”av översteprästerlig släkt”.",
+      "layers": {
+        "nt": 7,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒4:6（祭司長の一族）・4:36（キプロス生まれ）・7:13（ヨセフの家系）・13:26・18:2・18:24、マルコ7:26（生まれはスロフェニキア）。LXX 創世記25:17、教父（イグナティオス）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "民族／種族",
+      "def_ja": "民族、同胞、種族。『選ばれた種族』『同胞』『ユダヤ人の中の同族』。",
+      "label_en": "people / race",
+      "def_en": "A people, one's fellow countrymen, a race: “a chosen race”, “my own people”, “those of the same people among the Jews”.",
+      "label_es": "pueblo / raza",
+      "def_es": "Pueblo, compatriotas, raza: «linaje escogido», «mis compatriotas», «los de mi mismo pueblo entre los judíos».",
+      "label_sv": "folk / släkte",
+      "def_sv": "Folk, landsmän, släkte: ”ett utvalt släkte”, ”landsmän”, ”de av samma folk bland judarna”.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰペテロ2:9、Ⅱコリ11:26（同胞から）、使徒7:19（わたしたちの同胞）、ガラテヤ1:14（同族の者）、ピリ3:5（イスラエルの民族）。LXX 知恵の書16.17、教父（Ⅰクレメンス）に並行。"
+    },
+    {
+      "n": 3,
+      "label_ja": "子孫／血を分けた者",
+      "def_ja": "神の子孫、ダビデの子孫など、起源を共にする者。",
+      "label_en": "offspring / those of the same blood",
+      "def_en": "Those who share an origin, such as God's offspring or the offspring of David.",
+      "label_es": "descendencia / los de la misma sangre",
+      "def_es": "Quienes comparten un mismo origen, como la descendencia de Dios o la descendencia de David.",
+      "label_sv": "avkomma / av samma blod",
+      "def_sv": "De som har ett gemensamt ursprung, till exempel Guds släkte eller Davids ättling.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "使徒17:28・29（神の子孫）、黙示録22:16（ダビデの根、また子孫）。教父（バルナバ1.20.2『ダビデの子孫』）に並行。LXX の代表例では確認していない。"
+    },
+    {
+      "n": 4,
+      "label_ja": "種類／類",
+      "def_ja": "種類、種、類別。魚の種類、悪霊の種類、異言の種類、言語の種類。",
+      "label_en": "kind / sort",
+      "def_en": "A kind, sort, or class: kinds of fish, a kind of demon, kinds of tongues, kinds of languages.",
+      "label_es": "especie / clase",
+      "def_es": "Especie, clase o categoría: clases de peces, un género de demonio, géneros de lenguas, clases de idiomas.",
+      "label_sv": "slag / sort",
+      "def_sv": "Slag, sort eller kategori: slag av fisk, slag av onda andar, slag av tungotal, slag av språk.",
+      "layers": {
+        "nt": 5,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "Ⅰコリ12:10・28（異言の種類）・14:10（言語の種類）、マタイ13:47（あらゆる種類の魚）、マルコ9:29（この種類のもの）。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 12:10": 4,
+    "1CO 12:28": 4,
+    "1CO 14:10": 4,
+    "1PE 2:9": 2,
+    "2CO 11:26": 2,
+    "ACT 18:2": 1,
+    "ACT 18:24": 1,
+    "ACT 17:28": 3,
+    "ACT 17:29": 3,
+    "ACT 13:26": 1,
+    "ACT 4:6": 1,
+    "ACT 4:36": 1,
+    "ACT 7:13": 1,
+    "ACT 7:19": 2,
+    "GAL 1:14": 2,
+    "MAT 13:47": 4,
+    "MRK 7:26": 1,
+    "MRK 9:29": 4,
+    "PHP 3:5": 2,
+    "REV 22:16": 3
+  },
+  "unresolved": [],
+  "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

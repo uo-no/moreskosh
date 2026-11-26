@@ -1,0 +1,84 @@
+{
+  "strong": "G50",
+  "lemma": "ἀγνοέω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "知らない／知らずにいる",
+      "def_ja": "事柄・人・神の義を知らない、気づいていない、情報を欠く。『知らないでいてほしくない』の言い回し（οὐ θέλω ὑμᾶς ἀγνοεῖν）、知らずに行う（無知による）。",
+      "label_en": "not to know / be ignorant",
+      "def_en": "To not know a matter, a person, or God's righteousness, to be unaware, to lack information: the phrase “I do not want you to be unaware” (οὐ θέλω ὑμᾶς ἀγνοεῖν), acting without knowing (out of ignorance).",
+      "label_es": "no saber / ignorar",
+      "def_es": "No saber de un asunto, de una persona o de la justicia de Dios, no darse cuenta, carecer de información: la expresión «no quiero que ignoréis» (οὐ θέλω ὑμᾶς ἀγνοεῖν), actuar sin saber (por ignorancia).",
+      "label_sv": "att inte veta / vara okunnig",
+      "def_sv": "Att inte känna till en sak, en människa eller Guds rättfärdighet, att inte märka, att sakna kunskap: uttrycket ”jag vill inte att ni ska vara okunniga” (οὐ θέλω ὑμᾶς ἀγνοεῖν), att handla ovetande (av okunnighet).",
+      "layers": {
+        "nt": 14,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰコリ10:1・12:1、Ⅰテサ4:13、Ⅱコリ1:8・2:11、ローマ1:13・11:25・2:4・6:3・7:1・10:3、Ⅰテモ1:13（知らずに行った）、ヘブル5:2（無知な者）、使徒17:23（知らずに拝んでいる）。LXX ヨブ26:21・レビ記5:18、教父（Ⅰクレメンス・Ⅱクレメンス11.2）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "悟らない／認めない",
+      "def_ja": "語られたこと・しるし・御霊のものを理解しない、気づかない、認めない。",
+      "label_en": "not to grasp / not recognize",
+      "def_en": "To fail to understand, notice, or acknowledge what is said, signs, or the things of the Spirit.",
+      "label_es": "no comprender / no reconocer",
+      "def_es": "No entender, no advertir o no reconocer lo que se ha dicho, las señales o las cosas del Espíritu.",
+      "label_sv": "att inte förstå / inte erkänna",
+      "def_sv": "Att inte förstå, inte märka eller inte erkänna det som sagts, tecknen eller det som hör Anden till.",
+      "layers": {
+        "nt": 5,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ルカ9:45・マルコ9:32（このことばが分からなかった）、Ⅱペテロ2:12（知らないことをののしる）、使徒13:27（イエスを認めなかった）、Ⅰコリ14:38（認めない者は認められない。1つ目）。語義1との境界は連続的（知識の欠如か理解の拒否か）。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "知られていない／認められていない（受動）",
+      "def_ja": "受動で、人に知られていない、認められていない。",
+      "label_en": "to be unknown / unrecognized (passive)",
+      "def_en": "In the passive: not to be known by people, not to be recognized.",
+      "label_es": "ser desconocido / no reconocido (pasiva)",
+      "def_es": "En voz pasiva: no ser conocido por la gente, no ser reconocido.",
+      "label_sv": "att vara okänd / inte erkänd (passivum)",
+      "def_sv": "I passiv: att inte vara känd bland människor, att inte bli erkänd.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "Ⅱコリ6:9（人に知られていないようで）、ガラテヤ1:22（顔は知られていなかった）、Ⅰコリ14:38（認められない。2つ目）。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 10:1": 1,
+    "1CO 12:1": 1,
+    "1CO 14:38#1": 2,
+    "1CO 14:38#2": 3,
+    "1TH 4:13": 1,
+    "1TI 1:13": 1,
+    "2CO 1:8": 1,
+    "2CO 2:11": 1,
+    "2CO 6:9": 3,
+    "2PE 2:12": 2,
+    "ACT 17:23": 1,
+    "ACT 13:27": 2,
+    "GAL 1:22": 3,
+    "HEB 5:2": 1,
+    "LUK 9:45": 2,
+    "MRK 9:32": 2,
+    "ROM 10:3": 1,
+    "ROM 1:13": 1,
+    "ROM 11:25": 1,
+    "ROM 2:4": 1,
+    "ROM 6:3": 1,
+    "ROM 7:1": 1
+  },
+  "unresolved": [],
+  "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}
