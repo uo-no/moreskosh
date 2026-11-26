@@ -1,0 +1,129 @@
+{
+ "strong": "G1963",
+ "lemma": "ἐπίνοια",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 8:22",
+   "form": "ἐπίνοια",
+   "morph": "N-NSF",
+   "gloss_en": "intent",
+   "gloss_ja": "企て",
+   "verse": "μετανόησον οὖν ἀπὸ τῆς κακίας σου ταύτης, καὶ δεήθητι τοῦ κυρίου εἰ ἄρα ἀφεθήσεταί σοι ἡ ἐπίνοια τῆς καρδίας σου·"
+  }
+ ],
+ "lxx": {
+  "total": 8,
+  "works": {
+   "Machabaeorum ii": 1,
+   "Machabaeorum iv": 1,
+   "Sapientia Salomonis": 4,
+   "Ecclesiasticus sive Siracides": 1,
+   "Jeremias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "9.14",
+    "form": "ἐπίνοιαι",
+    "postag": "n-p---fn-",
+    "sentence": "λογισμοὶ γὰρ θνητῶν δειλοί, καὶ ἐπισφαλεῖς αἱ ἐπίνοιαι ἡμῶν."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "12.45",
+    "form": "ἐπίνοια",
+    "postag": "n-s---fn-",
+    "sentence": "εἶτ’ ἐμβλέπων τοῖς μετ’ εὐσεβείας κοιμωμένοις κάλλιστον ἀποκείμενον χαριστήριον, ὁσία καὶ εὐσεβὴς ἡ ἐπίνοια ·"
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "17.2",
+    "form": "ἐπινοίας",
+    "postag": "n-p---fa-",
+    "sentence": "ὦ μήτηρ σὺν ἑπτὰ παισὶ καταλύσασα τὴν τοῦ τυράννου βίαν καὶ ἀκυρώσασα τὰς κακὰς ἐπινοίας αὐτοῦ καὶ ἐπιδείξασα τὴν τῆς πίστεως γενναιότητα."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "40.2",
+    "form": "ἐπίνοια",
+    "postag": "n-s---fn-",
+    "sentence": "τοὺς διαλογισμοὺς αὐτῶν καὶ φόβον καρδίας, ἐπίνοια προσδοκίας, ἡμέρα τελευτῆς."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "20.10",
+    "form": "ἐπίνοιαν",
+    "postag": "n-s---fa-",
+    "sentence": "τηρήσατε τὴν ἐπίνοιαν αὐτοῦ, εἰ ἀπατηθήσεται καὶ δυνησόμεθα αὐτῷ καὶ ληψόμεθα τὴν ἐκδίκησιν ἡμῶν ἐξ αὐτοῦ."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "6.16",
+    "form": "ἐπινοίᾳ",
+    "postag": "n-s---fd-",
+    "sentence": "ὅτι τοὺς ἀξίους αὐτῆς αὕτη περιέρχεται ζητοῦσα καὶ ἐν ταῖς τρίβοις φαντάζεται αὐτοῖς εὐμενῶς καὶ ἐν πάσῃ ἐπινοίᾳ ὑπαντᾷ αὐτοῖς."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "14.12",
+    "form": "ἐπίνοια",
+    "postag": "n-s---fn-",
+    "sentence": "ἀρχὴ γὰρ πορνείας ἐπίνοια εἰδώλων, εὕρεσις δὲ αὐτῶν φθορὰ ζωῆς."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "15.4",
+    "form": "ἐπίνοια",
+    "postag": "n-s---fn-",
+    "sentence": "οὔ-τε γὰρ ἐπλάνησεν ἡμᾶς ἀνθρώπων κακότεχνος ἐπίνοια, οὐ-δὲ σκιαγράφων πόνος ἄκαρπος, εἶδος σπιλωθὲν χρώμασι διηλλαγμένοις, ὧν ὄψις ἄφροσιν εἰς ὄνειδος ἔρχεται, ποθεῖ τε νεκρᾶς εἰκόνος εἶδος ἄπνουν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "To Diognetus": 2
+  },
+  "representatives": [
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "5",
+    "form": "ἐπινοίᾳ",
+    "postag": "n-s---fd-",
+    "sentence": "οὐ μὴν ἐπινοίᾳ τινὶ καὶ φροντίδι πολυπραγμόνων ἀνθρώπων μάθημα τοῦτ’ αὐτοῖς ἐστιν εὑρημένον, οὐ-δὲ δόγματος ἀνθρωπίνου προεστᾶσιν ὥσπερ ἔνιοι."
+   },
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "7",
+    "form": "ἐπίνοιαν",
+    "postag": "n-s---fa-",
+    "sentence": "οὐ γὰρ ἐπίγειον, ὡς ἔφην, εὕρημα τοῦτ’ αὐτοὺς παρεδόθη, οὐ-δὲ θνητὴν ἐπίνοιαν φυλάσσειν οὕτως ἀξιοῦσιν ἐπιμελῶς, οὐ-δὲ ἀνθρωπίνων οἰκονομίαν μυστηρίων πεπίστευνται."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   ἐπίνοια, -ας, ἡ    (< ἐπινοέω, to contrive)    [in LXX: Je 20:10, Wi 6:16 9:14 14:12 15:4, Si 40:2, II Mac 12:45, IV Mac 17:2 * ;]    a thought, design: Ac 8:22.†"
+}

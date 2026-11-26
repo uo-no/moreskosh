@@ -1,0 +1,61 @@
+{
+ "strong": "G1931",
+ "lemma": "ἐπιδύω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "EPH 4:26",
+   "form": "ἐπιδυέτω",
+   "morph": "V-PAM-3S",
+   "gloss_en": "go down",
+   "gloss_ja": "沈む",
+   "verse": "ὀργίζεσθε καὶ μὴ ἁμαρτάνετε· ὁ ἥλιος μὴ ἐπιδυέτω ἐπὶ παροργισμῷ ὑμῶν,"
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Deuteronomium": 1,
+   "Josue": 1,
+   "Jeremias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "24.15",
+    "form": "ἐπιδύσεται",
+    "postag": "v3sfim---",
+    "sentence": "αὐθημερὸν ἀποδώσεις τὸν μισθὸν αὐτοῦ, οὐκ ἐπιδύσεται ὁ ἥλιος ἐπ’ αὐτῷ, ὅτι πένης ἐστὶ καὶ ἐν αὐτῷ ἔχει τὴν ἐλπίδα ·"
+   },
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "8.29",
+    "form": "ἐπιδύνοντος",
+    "postag": "v-sppamg-",
+    "sentence": "καὶ ἐπιδύνοντος τοῦ ἡλίου συνέταξεν Ἰησοῦς καὶ καθείλοσαν τὸ σῶμα αὐτοῦ ἀπὸ τοῦ ξύλου καὶ ἔρριψαν αὐτὸ εἰς τὸν βόθρον καὶ ἐπέστησαν αὐτῷ σωρὸν λίθων, ἕως τῆς ἡμέρας ταύτης."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "15.9",
+    "form": "ἐπέδυ",
+    "postag": "v3saia---",
+    "sentence": "ἐκενώθη ἡ τίκτουσα ἑπτά, ἀπεκάκισεν ἡ ψυχὴ αὐτῆς, ἐπέδυ ὁ ἥλιος αὐτῇ ἔτι μεσούσης τῆς ἡμέρας, κατῃσχύνθη καὶ ὠνειδίσθη ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ἐπι-δύω     [in LXX: De 24:15, Jos 8:29, Je 15:9 (בּוֹא)* ;]    to go down, set (of the sun): Eph 4:26.†"
+}

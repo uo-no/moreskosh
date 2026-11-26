@@ -1,0 +1,171 @@
+{
+ "strong": "G2125",
+ "lemma": "εὐλαβέομαι",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "HEB 11:7",
+   "form": "εὐλαβηθεὶς",
+   "morph": "V-AOP-NSM",
+   "gloss_en": "respected",
+   "gloss_ja": "敬う",
+   "verse": "πίστει χρηματισθεὶς Νῶε περὶ τῶν μηδέπω βλεπομένων εὐλαβηθεὶς κατεσκεύασεν κιβωτὸν εἰς σωτηρίαν τοῦ οἴκου αὐτοῦ, δι’ ἧς κατέκρινεν τὸν κόσμον, καὶ τῆς κατὰ πίστιν δικαιοσύνης ἐγένετο κληρονόμος."
+  }
+ ],
+ "lxx": {
+  "total": 38,
+  "works": {
+   "Exodus": 1,
+   "Deuteronomium": 1,
+   "Regnorum i": 3,
+   "Esdras i": 1,
+   "Machabaeorum i": 2,
+   "Machabaeorum ii": 1,
+   "Machabaeorum iv": 1,
+   "Proverbia": 2,
+   "Job": 2,
+   "Sapientia Salomonis": 1,
+   "Ecclesiasticus sive Siracides": 9,
+   "Nahum": 1,
+   "Habacuc": 1,
+   "Sophonias": 2,
+   "Zacharias": 1,
+   "Malachias": 1,
+   "Isaias": 2,
+   "Jeremias": 4,
+   "Epistula Jeremiae": 1,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "41.3",
+    "form": "εὐλαβοῦ",
+    "postag": "v2spmm---",
+    "sentence": "μὴ εὐλαβοῦ κρίμα θανάτου, μνήσθητι προτέρων σου καὶ ἐσχάτων ·"
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "5.22",
+    "form": "εὐλαβηθήσεσθε",
+    "postag": "v2pfip---",
+    "sentence": "λέγει Κύριος, ἢ ἀπὸ προσώπου μου οὐκ εὐλαβηθήσεσθε;"
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "18.15",
+    "form": "εὐλαβεῖτο",
+    "postag": "v3siim---",
+    "sentence": "καὶ εἶδε Σαοὺλ ὡς αὐτὸς συνιεῖ σφόδρα, καὶ εὐλαβεῖτο ἀπὸ προσώπου αὐτοῦ."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "12.42",
+    "form": "εὐλαβήθη",
+    "postag": "v3saip---",
+    "sentence": "καὶ εἶδε Τρύφων ὅτι πάρεστιν Ἰωνάθαν μετὰ δυνάμεως πολλῆς, καὶ ἐκτεῖναι χεῖρας ἐπ’ αὐτὸν εὐλαβήθη, καὶ ἐπεδέξατο αὐτὸν ἐνδόξως καὶ συνέστησεν αὐτὸν πᾶσι τοῖς φίλοις αὐτοῦ καὶ ἔδωκεν αὐτῷ δόματα καὶ ἐπέταξε ταῖς δυνάμεσιν αὐτοῦ ὑπακούειν αὐτῷ ὡς ἑαυτῷ."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "30.5",
+    "form": "εὐλαβουμένων",
+    "postag": "v-pppmmg-",
+    "sentence": "πάντες γὰρ λόγοι Θεοῦ πεπυρωμένοι, ὑπερασπίζει δὲ αὐτὸς τῶν εὐλαβουμένων αὐτόν."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "13.25",
+    "form": "εὐλαβηθήσῃ",
+    "postag": "v2sfip---",
+    "sentence": "ἦ ὡς φύλλον κινούμενον ὑπὸ ἀνέμου εὐλαβηθήσῃ ἢ ὡς χόρτῳ φερομένῳ ὑπὸ πνεύματος ἀντίκεισαί μοι;"
+   },
+   {
+    "work_code": "ZEP",
+    "work_ja": "ゼファニヤ書",
+    "work_src": "Sophonias",
+    "ref": "1.7",
+    "form": "εὐλαβεῖσθε",
+    "postag": "v2ppmm---",
+    "sentence": "— εὐλαβεῖσθε ἀπὸ προσώπου Κυρίου τοῦ Θεοῦ, διότι ἐγγὺς ἡμέρα τοῦ Κυρίου, ὅτι ἡτοίμακε Κύριος τὴν θυσίαν αὐτοῦ, καὶ ἡγίακε τοὺς κλητοὺς αὐτοῦ."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "51.12",
+    "form": "εὐλαβηθεῖσα",
+    "postag": "v-sappfn-",
+    "sentence": "γνῶθι τίνα εὐλαβηθεῖσα ἐφοβήθης ἀπὸ ἀνθρώπου θνητοῦ καὶ ἀπὸ υἱοῦ ἀνθρώπου, οἳ ὡσεὶ χόρτος ἐξηράνθησαν."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "3.6",
+    "form": "εὐλαβεῖτο",
+    "postag": "v3siim---",
+    "sentence": "εὐλαβεῖτο γὰρ κατεμβλέψαι ἐνώπιον τοῦ Θεοῦ."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "2.4",
+    "form": "εὐλαβηθήσονται",
+    "postag": "v3pfip---",
+    "sentence": "ὑμεῖς παραπορεύεσθε διὰ τῶν ὁρίων τῶν ἀδελφῶν ὑμῶν υἱῶν Ἡσαῦ, οἳ κατοικοῦσιν ἐν Σηείρ, καὶ φοβηθήσονται ὑμᾶς καὶ εὐλαβηθήσονται ὑμᾶς σφόδρα."
+   },
+   {
+    "work_code": "1ES",
+    "work_ja": "エズラ記（ギリシャ語）",
+    "work_src": "Esdras i",
+    "ref": "4.28",
+    "form": "εὐλαβοῦνται",
+    "postag": "v3ppim---",
+    "sentence": "οὐχὶ πᾶσαι αἱ χῶραι εὐλαβοῦνται ἅψασθαι αὐτοῦ;"
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "8.16",
+    "form": "εὐλαβεῖσθαι",
+    "postag": "v--pnm---",
+    "sentence": "συναγαγὼν δὲ ὁ Μακκαβαῖος τοὺς περὶ αὐτὸν ὄντας τὸν ἀριθμὸν ἐξακισχιλίους παρεκάλει μὴ καταπλαγῆναι τοὺς πολεμίους, μη-δὲ εὐλαβεῖσθαι τὴν τῶν ἀδίκως παραγινομένων ἐπ’ αὐτοὺς ἐθνῶν πολυπληθίαν, ἀγωνίσασθαι δὲ γενναίως πρὸ ὀφθαλμῶν λαβόντας τὴν ἀνόμως εἰς τὸν ἅγιον τόπον συντελεσμένην ὑπ’ αὐτῶν ὕβριν καὶ τὸν τῆς ἐμπεπαιγμένης πόλεως αἰκισμόν, ἔτι δὲ τὴν τῆς προγονικῆς πολιτείας κατάλυσιν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "1 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "44.5",
+    "form": "εὐλαβοῦνται",
+    "postag": "v3ppim---",
+    "sentence": "οὐ γὰρ εὐλαβοῦνται μή τις αὐτοὺς μεταστήσῃ ἀπὸ τοῦ ἱδρυμένου αὐτοῖς τόπου."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   εὐλαβέομαι, -οῦμαι     [in LXX: Pr 24:28 (30:5), Na 1:7 (חָסָה), al., for 15 different Heb. words in all; also Si 7:29 41:3, al. ;]     to be cautious, to beware: Ac 23:10 (Rec.; φοβηθείς, WH, RV).    to reverence: He 11:7 (cf. Cremer, 388).†"
+}

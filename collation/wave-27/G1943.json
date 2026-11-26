@@ -1,0 +1,162 @@
+{
+ "strong": "G1943",
+ "lemma": "ἐπικαλύπτω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ROM 4:7",
+   "form": "ἐπεκαλύφθησαν",
+   "morph": "V-API-3P",
+   "gloss_en": "covered",
+   "gloss_ja": "覆う",
+   "verse": "Μακάριοι ὧν ἀφέθησαν αἱ ἀνομίαι καὶ ὧν ἐπεκαλύφθησαν αἱ ἁμαρτίαι,"
+  }
+ ],
+ "lxx": {
+  "total": 19,
+  "works": {
+   "Genesis": 3,
+   "Exodus": 1,
+   "Numeri": 2,
+   "Regnorum ii": 2,
+   "Regnorum iii": 1,
+   "Psalmi": 2,
+   "Proverbia": 1,
+   "Job": 1,
+   "Ecclesiasticus sive Siracides": 2,
+   "Jeremias": 2,
+   "Ezechiel": 2
+  },
+  "representatives": [
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "7.20",
+    "form": "ἐπεκάλυψε",
+    "postag": "v3saia---",
+    "sentence": "δέκα πέντε πήχεις ἐπάνω ὑψώθη τὸ ὕδωρ καὶ ἐπεκάλυψε πάντα τὰ ὄρη τὰ ὑψηλά."
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "4.13",
+    "form": "ἐπικαλύψουσιν",
+    "postag": "v3pfia---",
+    "sentence": "καὶ τὸν καλυπτῆρα ἐπιθήσει ἐπὶ τὸ θυσιαστήριον καὶ ἐπικαλύψουσιν ἐπ’ αὐτὸ ἱμάτιον ὁλοπόρφυρον."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "15.30",
+    "form": "ἐπικεκαλυμμένος",
+    "postag": "v-srpmmn-",
+    "sentence": "καὶ Δαυὶδ ἀνέβαινεν ἐν τῇ ἀναβάσει τῶν ἐλαιῶν ἀναβαίνων καὶ κλαίων καὶ τὴν κεφαλὴν ἐπικεκαλυμμένος, καὶ αὐτὸς ἐπορεύετο ἀνυπόδετος, καὶ πᾶς ὁ λαὸς ὁ μετ’ αὐτοῦ ἐπεκάλυψεν ἀνὴρ τὴν κεφαλὴν αὐτοῦ καὶ ἀνέβαινον ἀναβαίνοντες καὶ κλαίοντες."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "31.1",
+    "form": "ἐπεκαλύφθησαν",
+    "postag": "v3paip---",
+    "sentence": "μακάριοι ὧν ἀφέθησαν αἱ ἀνομίαι καὶ ὧν ἐπεκαλύφθησαν αἱ ἁμαρτίαι ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "47.15",
+    "form": "ἐπεκάλυψεν",
+    "postag": "v3saia---",
+    "sentence": "γῆν ἐπεκάλυψεν ἡ ψυχή σου, καὶ ἐνέπλησας ἐν παραβολαῖς αἰνιγμάτων ·"
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "14.4",
+    "form": "ἐπεκάλυψαν",
+    "postag": "v3paia---",
+    "sentence": "ᾐσχύνθησαν οἱ γεωργοί, ἐπεκάλυψαν τὰς κεφαλὰς αὐτῶν."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "1.11",
+    "form": "ἐπεκάλυπτον",
+    "postag": "v3piia---",
+    "sentence": "καὶ αἱ πτέρυγες αὐτῶν ἐκτεταμέναι ἄνωθεν τοῖς τέσσαρσιν, ἑκατέρῳ δύο συνεζευγμέναι πρὸς ἀλλήλας, καὶ δύο ἐπεκάλυπτον ἐπάνω τοῦ σώματος αὐτῶν."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "14.26",
+    "form": "ἐπικαλυψάτω",
+    "postag": "v3sama---",
+    "sentence": "ἔκτεινον τὴν χεῖρά σου ἐπὶ τὴν θάλασσαν, καὶ ἀποκαταστήτω τὸ ὕδωρ καὶ ἐπικαλυψάτω τοὺς Αἰγυπτίους, ἐπί τε τὰ ἅρματα καὶ τοὺς ἀναβάτας."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "19.13",
+    "form": "ἐπεκάλυψε",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἐγένετο ὡς ἤκουσεν Ἠλιού, καὶ ἐπεκάλυψε τὸ πρόσωπον αὐτοῦ ἐν τῇ μηλωτῇ αὐτοῦ καὶ ἐξῆλθε καὶ ἔστη ὑπὸ σπήλαιον ·"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "28.13",
+    "form": "ἐπικαλύπτων",
+    "postag": "v-sppamn-",
+    "sentence": "ὁ ἐπικαλύπτων ἀσέβειαν ἑαυτοῦ οὐκ εὐοδωθήσεται, ὁ δὲ ἐξηγούμενος ἐλέγχους ἀγαπηθήσεται."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "16.18",
+    "form": "ἐπικαλύψῃ",
+    "postag": "v2sasm---",
+    "sentence": "γῆ, μὴ ἐπικαλύψῃ ἐφ’ αἵματι τῆς σαρκός μου, μη-δὲ εἴη τόπος τῇ κραυγῇ μου."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "7.19",
+    "form": "ἐπεκάλυψε",
+    "postag": "v3saia---",
+    "sentence": "τὸ δὲ ὕδωρ ἐπεκράτει σφόδρα σφοδρῶς ἐπὶ τῆς γῆς καὶ ἐπεκάλυψε πάντα τὰ ὄρη τὰ ὑψηλά, ἃ ἦν ὑποκάτω τοῦ οὐρανοῦ ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "1 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "50.6",
+    "form": "ἐπεκαλύφθησαν",
+    "postag": "v3paip---",
+    "sentence": "μακάριοι, ὦν ἀφέθησαν αἱ ἀνομίαι καὶ ὧν ἐπεκαλύφθησαν αἱ ἁμαρτίαι ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   ἐπι-καλύπτω     [in LXX for כָּסָה, etc. ;]     to cover over, cover up: metaph., Ro 4:7 (LXX).†"
+}

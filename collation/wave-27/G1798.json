@@ -1,0 +1,156 @@
+{
+ "strong": "G1798",
+ "lemma": "ἐνύπνιον",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 2:17",
+   "form": "ἐνυπνίοις",
+   "morph": "N-DPN",
+   "gloss_en": "dreams",
+   "gloss_ja": "夢",
+   "verse": "Καὶ ἔσται ἐν ταῖς ἐσχάταις ἡμέραις, λέγει ὁ θεός, ἐκχεῶ ἀπὸ τοῦ πνεύματός μου ἐπὶ πᾶσαν σάρκα, καὶ προφητεύσουσιν οἱ υἱοὶ ὑμῶν καὶ αἱ θυγατέρες ὑμῶν, καὶ οἱ νεανίσκοι ὑμῶν ὁράσεις ὄψονται, καὶ οἱ πρεσβύτεροι ὑμῶν ἐνυπνίοις ἐνυπνιασθήσονται·"
+  }
+ ],
+ "lxx": {
+  "total": 102,
+  "works": {
+   "Genesis": 23,
+   "Deuteronomium": 3,
+   "Judices": 3,
+   "Regnorum i": 2,
+   "Regnorum iii": 1,
+   "Esther": 4,
+   "Psalmi": 1,
+   "Ecclesiastes": 2,
+   "Job": 3,
+   "Ecclesiasticus sive Siracides": 5,
+   "Psalmi Salomonis": 1,
+   "Michaeas": 1,
+   "Joel": 1,
+   "Zacharias": 1,
+   "Isaias": 2,
+   "Jeremias": 6,
+   "Daniel": 43
+  },
+  "representatives": [
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "2.3",
+    "form": "ἐνύπνιον",
+    "postag": "n-s---na-",
+    "sentence": "ἐπιγνῶναι οὖν θέλω τὸ ἐνύπνιον."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "37.20",
+    "form": "ἐνύπνια",
+    "postag": "n-p---nn-",
+    "sentence": "καὶ ὀψόμεθα, τί ἔσται τὰ ἐνύπνια αὐτοῦ."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "23.28",
+    "form": "ἐνύπνιόν",
+    "postag": "n-s---nn-",
+    "sentence": "ὁ προφήτης, ἐν ᾧ τὸ ἐνύπνιόν ἐστι, διηγησάσθω τὸ ἐνύπνιον αὐτοῦ, καὶ ἐν ᾧ ὁ λόγος μου πρὸς αὐτόν, διηγησάσθω τὸν λόγον μου ἐπ’ ἀληθείας."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "34.2",
+    "form": "ἐνυπνίοις",
+    "postag": "n-p---nd-",
+    "sentence": "ὡς δρασσόμενος σκιᾶς καὶ διώκων ἄνεμον, οὕτως ὁ ἐπέχων ἐνυπνίοις."
+   },
+   {
+    "work_code": "EST",
+    "work_ja": "エステル記",
+    "work_src": "Esther",
+    "ref": "10.3β",
+    "form": "ἐνυπνίου",
+    "postag": "n-s---ng-",
+    "sentence": "ἐμνήσθη γὰρ περὶ τοῦ ἐνυπνίου, οὗ εἶδον περὶ τῶν λόγων τούτων ·"
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "13.6",
+    "form": "ἐνύπνιον",
+    "postag": "n-s---na-",
+    "sentence": "καὶ ὁ προφήτης ἐκεῖνος ἢ ὁ τὸ ἐνύπνιον ἐνυπνιαζόμενος ἐκεῖνος ἀποθανεῖται ·"
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "7.13",
+    "form": "ἐνύπνιον",
+    "postag": "n-s---na-",
+    "sentence": "καὶ ἦλθε Γεδεών, καὶ ἰδοὺ ἀνὴρ ἐξηγούμενος τῷ πλησίον αὐτοῦ ἐνύπνιον καὶ εἶπεν ·"
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "7.14",
+    "form": "ἐνυπνίοις",
+    "postag": "n-p---nd-",
+    "sentence": "ἐκφοβεῖς με ἐνυπνίοις καὶ ὁράμασί με καταπλήσσεις."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "28.6",
+    "form": "ἐνυπνίοις",
+    "postag": "n-p---nd-",
+    "sentence": "καὶ ἐπηρώτησε Σαοὺλ διὰ Κυρίου, καὶ οὐκ ἀπεκρίθη αὐτῷ Κύριος ἐν τοῖς ἐνυπνίοις καὶ ἐν τοῖς δήλοις καὶ ἐν τοῖς προφήταις."
+   },
+   {
+    "work_code": "ECC",
+    "work_ja": "コヘレトの言葉",
+    "work_src": "Ecclesiastes",
+    "ref": "5.6",
+    "form": "ἐνυπνίων",
+    "postag": "n-p---ng-",
+    "sentence": "ὅτι ἐν πλήθει ἐνυπνίων καὶ ματαιοτήτων καὶ λόγων πολλῶν, ὅτι σὺ τὸν Θεὸν φοβοῦ."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "65.4",
+    "form": "ἐνύπνια",
+    "postag": "n-p---na-",
+    "sentence": "ἐν τοῖς μνήμασι καὶ ἐν τοῖς σπηλαίοις κοιμῶνται δι’ ἐνύπνια, οἱ ἔσθοντες κρέα ὕεια καὶ ζωμὸν θυσιῶν, μεμολυμμένα πάντα τὰ σκεύη αὐτῶν ·"
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "3.15",
+    "form": "ἐνύπνιον",
+    "postag": "n-s---nn-",
+    "sentence": "καὶ ἐξυπνίσθη Σαλωμών, καὶ ἰδοὺ ἐνύπνιον ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ἐνύπνιον, -ου, τό    (< ὕπνος),    [in LXX chiefly for חֲלוֹם ;]     a dream: pl., Ac 2:17.†"
+}

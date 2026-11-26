@@ -1,0 +1,92 @@
+{
+ "strong": "G1792",
+ "lemma": "ἐντρυφάω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2PE 2:13",
+   "form": "ἐντρυφῶντες",
+   "morph": "V-PAP-NPM",
+   "gloss_en": "reveling",
+   "gloss_ja": "ふける",
+   "verse": "ἀδικούμενοι μισθὸν ἀδικίας· ἡδονὴν ἡγούμενοι τὴν ἐν ἡμέρᾳ τρυφήν, σπίλοι καὶ μῶμοι ἐντρυφῶντες ἐν ταῖς ἀπάταις αὐτῶν συνευωχούμενοι ὑμῖν,"
+  }
+ ],
+ "lxx": {
+  "total": 5,
+  "works": {
+   "Machabaeorum iv": 1,
+   "Habacuc": 1,
+   "Isaias": 2,
+   "Jeremias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "55.2",
+    "form": "ἐντρυφήσει",
+    "postag": "v3sfia---",
+    "sentence": "ἀκούσατέ μου καὶ φάγεσθε ἀγαθά, καὶ ἐντρυφήσει ἐν ἀγαθοῖς ἡ ψυχὴ ὑμῶν."
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "8.8",
+    "form": "ἐντρυφήσατε",
+    "postag": "v2pama---",
+    "sentence": "καὶ μεταλαβόντες ἑλληνικοῦ βίου καὶ μεταδιαιτηθέντες ἐντρυφήσατε ταῖς νεότησιν ὑμῶν ·"
+   },
+   {
+    "work_code": "HAB",
+    "work_ja": "ハバクク書",
+    "work_src": "Habacuc",
+    "ref": "1.10",
+    "form": "ἐντρυφήσει",
+    "postag": "v3sfia---",
+    "sentence": "καὶ αὐτὸς ἐν βασιλεῦσιν ἐντρυφήσει καὶ τύραννοι παίγνια αὐτοῦ, καὶ αὐτὸς εἰς πᾶν ὀχύρωμα ἐμπαίξεται καὶ βαλεῖ χῶμα καὶ κρατήσει αὐτοῦ."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "38.20",
+    "form": "ἐντρυφῶν",
+    "postag": "v-sppamn-",
+    "sentence": "υἱὸς ἀγαπητὸς Ἐφραὶμ ἐμοί, παιδίον ἐντρυφῶν, ὅτι ἀνθ’ ὧν οἱ λόγοι μου ἐν αὐτῷ, μνείᾳ μνησθήσομαι αὐτοῦ ·"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "57.4",
+    "form": "ἐνετρυφήσατε",
+    "postag": "v2paia---",
+    "sentence": "ἐν τίνι ἐνετρυφήσατε;"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "15.3.1",
+    "form": "ἐντρύφα",
+    "postag": "v2spma---",
+    "sentence": "ἔνδυσαι οὖν τὴν ἱλαρότητα, τὴν πάντοτε ἔχουσαν χάριν παρὰ τῷ θεῷ καὶ εὐπρόσδεκτον οὖσαν αὐτῷ, καὶ ἐντρύφα ἐν αὐτῇ."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   ἐν-τρυφάω, ῶ    [in LXX: Is 55:2 57:4 (עָנַג hith.), Hb 1:10 (קָלַס hith.), IV Mac 8:8, etc. ;]    to revel in: ἐν-τ. ἀπάταις, II Pe 2:13 (v. Mayor, in l).†"
+}

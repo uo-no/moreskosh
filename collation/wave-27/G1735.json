@@ -1,0 +1,53 @@
+{
+ "strong": "G1735",
+ "lemma": "ἐνδέχεται",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": "ενδεχομαι",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 13:33",
+   "form": "ἐνδέχεται",
+   "morph": "V-PNI-3S",
+   "gloss_en": "is ~ possible",
+   "gloss_ja": "可能である",
+   "verse": "πλὴν δεῖ με σήμερον καὶ αὔριον καὶ τῇ ἐχομένῃ πορεύεσθαι, ὅτι οὐκ ἐνδέχεται προφήτην ἀπολέσθαι ἔξω Ἰερουσαλήμ."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "2.11",
+    "form": "ἐνδέχεται",
+    "postag": "v3spim---",
+    "sentence": "ὅθεν οὐκ ἐνδέχεται γενέσθαι καθάπερ οἴει."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "16.1.12",
+    "form": "ἐνδέχεται",
+    "postag": "v3spim---",
+    "sentence": "οὐκ ἐνδέχεται τοῦτο ποιεῖν θεοῦ προφήτην, ἀλλὰ τῶν τοιούτων προφητῶν ἐπίγειόν ἐστι τὸ πνεῦμα."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1 έν-δέχομαι     [in LXX: Ps 119:122 (עָרַב), II Mac 11:18 * ;]     to admit, approve.    to be possible; impers., ἑνδέχεται, it is possible: c. acc et inf., Lk 13:33 (Cremer, 687).†"
+}

@@ -1,0 +1,61 @@
+{
+ "strong": "G1769",
+ "lemma": "ἐνέος",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 9:7",
+   "form": "ἐνεοί",
+   "morph": "A-NPM",
+   "gloss_en": "speechless",
+   "gloss_ja": "口が利けない",
+   "verse": "οἱ δὲ ἄνδρες οἱ συνοδεύοντες αὐτῷ εἱστήκεισαν ἐνεοί, ἀκούοντες μὲν τῆς φωνῆς μηδένα δὲ θεωροῦντες."
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Proverbia": 1,
+   "Isaias": 1,
+   "Epistula Jeremiae": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "17.28",
+    "form": "ἐνεὸν",
+    "postag": "a-s---ma-",
+    "sentence": "ἀνοήτῳ ἐπερωτήσαντι σοφίαν σοφία λογισθήσεται, ἐνεὸν δέ τις ἑαυτὸν ποιήσας δόξει φρόνιμος εἶναι."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "56.10",
+    "form": "ἐνεοί",
+    "postag": "a-p---mn-",
+    "sentence": "ἴδετε ὅτι ἐκτετύφλωνται πάντες, οὐκ ἔγνωσαν φρονῆσαι, πάντες κύνες ἐνεοί, οὐ δυνήσονται ὑλακτεῖν, ἐνυπνιαζόμενοι κοίτην, φιλοῦντες νυστάξαι."
+   },
+   {
+    "work_code": "LJE",
+    "work_ja": "エレミヤの手紙",
+    "work_src": "Epistula Jeremiae",
+    "ref": "40",
+    "form": "ἐνεὸν",
+    "postag": "a-s---na-",
+    "sentence": "ἔτι δὲ καὶ αὐτῶν τῶν Χαλδαίων ἀτιμαζόντων αὐτά, οἵ, ὅταν ἴδωσιν ἐνεὸν μὴ δυνάμενον λαλῆσαι, προσενεγκάμενοι τὸν Βῆλον ἀξιοῦσι φωνῆσαι, ὡς δυνατοῦ ὄντος αὐτοῦ αἰσθέσθαι, καὶ οὐ δύνανται αὐτοὶ νοήσαντες καταλιπεῖν αὐτά, αἴσθησιν γὰρ οὐκ ἔχουσιν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1 (KJV) ἐνεός    (Rec. ἐνν-), -οῦ, ὁ    [in LXX: Is 56:10 (אִלֵּם), Ep. Je41; ἐ. ποιεῖν, Pr 17:28 * ;]     dumb, speechless: Ac 9:7.†"
+}

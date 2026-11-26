@@ -1,0 +1,73 @@
+{
+ "strong": "G2030",
+ "lemma": "ἐπόπτης",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2PE 1:16",
+   "form": "ἐπόπται",
+   "morph": "N-NPM",
+   "gloss_en": "eyewitnesses",
+   "gloss_ja": "目撃者",
+   "verse": "Οὐ γὰρ σεσοφισμένοις μύθοις ἐξακολουθήσαντες ἐγνωρίσαμεν ὑμῖν τὴν τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ δύναμιν καὶ παρουσίαν, ἀλλ’ ἐπόπται γενηθέντες τῆς ἐκείνου μεγαλειότητος."
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Esther": 1,
+   "Machabaeorum ii": 1,
+   "Machabaeorum iii": 1
+  },
+  "representatives": [
+   {
+    "work_code": "EST",
+    "work_ja": "エステル記",
+    "work_src": "Esther",
+    "ref": "5.1β",
+    "form": "ἐπόπτην",
+    "postag": "n-s---ma-",
+    "sentence": "καὶ γενηθεῖσα ἐπιφανής, ἐπικαλεσαμένη τῶν πάντων ἐπόπτην Θεὸν καὶ σωτῆρα, παρέλαβε τὰς δύο ἅβρας ·"
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "3.39",
+    "form": "ἐπόπτης",
+    "postag": "n-s---mn-",
+    "sentence": "αὐτὸς γὰρ ὁ τὴν κατοικίαν ἐπουράνιον ἔχων, ἐπόπτης ἐστὶ καὶ βοηθὸς ἐκείνου τοῦ τόπου καὶ τοὺς παραγινομένους ἐπὶ κακώσει τύπτων ἀπόλλυσι."
+   },
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "2.21",
+    "form": "ἐπόπτης",
+    "postag": "n-s---mn-",
+    "sentence": "ἐνταῦθα ὁ πάντων ἐπόπτης Θεὸς καὶ πρὸ πάντων ἅγιος ἐν ἁγίοις εἰσακούσας τῆς ἐνθέσμου λιτανείας, τὸν ὕβρει καὶ θράσει μεγάλως ἐπῃρμένον ἐμάστιξεν αὐτόν, ἔνθεν καὶ ἔνθεν κραδάνας αὐτὸν ὡς κάλαμον ὑπὸ ἀνέμου, ὥστε κατ’ ἐδάφους ἄπρακτον, ἔτι καὶ τοῖς μέλεσι παραλελυμένον μη-δὲ φωνῆσαι δύνασθαι δικαίᾳ περιπεπλεγμένον κρίσει."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "1 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "59.3",
+    "form": "ἐπόπτην",
+    "postag": "n-s---ma-",
+    "sentence": "τὸν ἐπιβλέποντα ἐν τοῖς ἀβύσσοις, τὸν ἐπόπτην ἀνθρωπίνων ἔργων, τὸν τῶν κινδυνευόντων βοηθόν, τὸν τῶν ἀπηλπισμένων σωτῆρα, τὸν παντὸς πνεύματος κτίστην καὶ ἐπίσκοπον ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   ** ἐπόπτης, -ου, ὁ     [in LXX (of God): Es 5:1, II Mac 3:39 Mac 7:35, III Mac 2:21 * ;]     an overseer (LXX, ll. c.).    a spectator: II Pe 1:16 (of ἐ. as applied to God, v. parallels in Inscr., MM, Exp., xiv; of the use of this term in the mysteries, v. Mayor on II Pe, l.c.; Thayer, s.v.).†"
+}

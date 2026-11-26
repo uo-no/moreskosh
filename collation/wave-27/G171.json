@@ -1,0 +1,71 @@
+{
+ "strong": "G171",
+ "lemma": "ἀκαίρως",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": "ακαιρος",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2TI 4:2",
+   "form": "ἀκαίρως",
+   "morph": "ADV",
+   "gloss_en": "out of season",
+   "gloss_ja": "時を得ないで",
+   "verse": "κήρυξον τὸν λόγον, ἐπίστηθι εὐκαίρως ἀκαίρως, ἔλεγξον, ἐπιτίμησον, παρακάλεσον, ἐν πάσῃ μακροθυμίᾳ καὶ διδαχῇ."
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Ecclesiasticus sive Siracides": 3
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "20.19",
+    "form": "ἄκαιρος",
+    "postag": "a-s---mn-",
+    "sentence": "ἄνθρωπος ἄχαρις, μῦθος ἄκαιρος ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "32.4",
+    "form": "ἀκαίρως",
+    "postag": "d--------",
+    "sentence": "ὅπου ἀκρόαμα, μὴ ἐκχέῃς λαλιὰν καὶ ἀκαίρως μὴ σοφίζου."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "22.6",
+    "form": "ἄκαιρος",
+    "postag": "a-s---fn-",
+    "sentence": "μουσικὰ ἐν πένθει ἄκαιρος διήγησις, μάστιγες δὲ καὶ παιδεία ἐν παντὶ καιρῷ σοφίας."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Ignatius, Letters": 1
+  },
+  "representatives": [
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "4.4.1",
+    "form": "ἄκαιρος",
+    "postag": "a-s---fn-",
+    "sentence": "παρακαλῶ ὑμᾶς, μὴ εὔνοια ἄκαιρος γένησθέ μοι."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   ** ἀκαίρως, adv.    (< ἄκαιρος, unseasonable),   [in LXX: Si 35 (32):4*;]    out of season, unseasonably: opp. to εὐκαίρως (q.v.), II Ti 4:2 (cf. Cremer, 740; MM, VGT, s.v.).†"
+}

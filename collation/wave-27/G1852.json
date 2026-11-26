@@ -1,0 +1,70 @@
+{
+ "strong": "G1852",
+ "lemma": "ἐξυπνίζω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JHN 11:11",
+   "form": "ἐξυπνίσω",
+   "morph": "V-AAS-1S",
+   "gloss_en": "wake ~ up",
+   "gloss_ja": "眠りから覚ます",
+   "verse": "ταῦτα εἶπεν, καὶ μετὰ τοῦτο λέγει αὐτοῖς· Λάζαρος ὁ φίλος ἡμῶν κεκοίμηται, ἀλλὰ πορεύομαι ἵνα ἐξυπνίσω αὐτόν."
+  }
+ ],
+ "lxx": {
+  "total": 4,
+  "works": {
+   "Judices": 2,
+   "Regnorum iii": 1,
+   "Job": 1
+  },
+  "representatives": [
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "16.20",
+    "form": "ἐξυπνίσθη",
+    "postag": "v3saip---",
+    "sentence": "καὶ ἐξυπνίσθη ἐκ τοῦ ὕπνου αὐτοῦ καὶ εἶπεν ·"
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "3.15",
+    "form": "ἐξυπνίσθη",
+    "postag": "v3saip---",
+    "sentence": "καὶ ἐξυπνίσθη Σαλωμών, καὶ ἰδοὺ ἐνύπνιον ·"
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "14.12",
+    "form": "ἐξυπνισθήσονται",
+    "postag": "v3pfip---",
+    "sentence": "καὶ οὐκ ἐξυπνισθήσονται ἐξ ὕπνου αὐτῶν."
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "16.14",
+    "form": "ἐξυπνίσθη",
+    "postag": "v3saip---",
+    "sentence": "καὶ ἐξυπνίσθη ἀπὸ τοῦ ὕπνου αὐτοῦ καὶ ἐξῇρε τὸν πάσσαλον τοῦ ὑφάσματος ἐκ τοῦ τοίχου."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ἐξ-υπνίζω     [in LXX: Jg 16:14, 20, III Ki 3:13 (יָקַץ), Jb 14:12 (עוּר ni.)* ;]     to awaken out of sleep (= ἀφυπνίζω): c. acc pers., Jo 11:11.†"
+}

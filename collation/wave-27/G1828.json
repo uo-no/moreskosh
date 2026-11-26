@@ -1,0 +1,80 @@
+{
+ "strong": "G1828",
+ "lemma": "ἐξέλκω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JAS 1:14",
+   "form": "ἐξελκόμενος",
+   "morph": "V-PPP-NSM",
+   "gloss_en": "drawn away",
+   "gloss_ja": "引く",
+   "verse": "ἕκαστος δὲ πειράζεται ὑπὸ τῆς ἰδίας ἐπιθυμίας ἐξελκόμενος καὶ δελεαζόμενος·"
+  }
+ ],
+ "lxx": {
+  "total": 5,
+  "works": {
+   "Genesis": 1,
+   "Machabaeorum iii": 1,
+   "Proverbia": 1,
+   "Job": 2
+  },
+  "representatives": [
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "36.20",
+    "form": "ἐξελκύσῃς",
+    "postag": "v2sasa---",
+    "sentence": "μὴ ἐξελκύσῃς τὴν νύκτα τοῦ ἀναβῆναι λαοὺς ἀντ’ αὐτῶν ·"
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "37.28",
+    "form": "ἐξείλκυσαν",
+    "postag": "v3paia---",
+    "sentence": "καὶ παρεπορεύοντο οἱ ἄνθρωποι οἱ Μαδιηναῖοι ἔμποροι, καὶ ἐξείλκυσαν καὶ ἀνεβίβασαν τὸν Ἰωσὴφ ἐκ τοῦ λάκκου καὶ ἀπέδοντο τὸν Ἰωσὴφ τοῖς Ἰσμαηλίταις εἴκοσι χρυσῶν, καὶ κατήγαγον τὸν Ἰωσὴφ εἰς Αἴγυπτον."
+   },
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "2.23",
+    "form": "ἐξείλκυσαν",
+    "postag": "v3paia---",
+    "sentence": "ὅθεν οἵ τε φίλοι καὶ οἱ σωματοφύλακες αὐτοῦ ταχεῖαν καὶ ὀξεῖαν ἰδόντες τὴν καταλαβοῦσαν αὐτὸν εὔθυναν, φοβούμενοι μὴ καὶ τὸ ζῆν ἐκλείπῃ, ταχέως αὐτὸν ἐξείλκυσαν ὑπερβάλλοντι καταπεπληγμένοι φόβῳ."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "30b.33",
+    "form": "ἐξέλκῃς",
+    "postag": "v2spsa---",
+    "sentence": "ἐὰν δὲ ἐξέλκῃς λόγους, ἐξελεύσονται κρίσεις καὶ μάχαι."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "20.15",
+    "form": "ἐξελκύσει",
+    "postag": "v3sasa---",
+    "sentence": "πλοῦτος ἀδίκως συναγόμενος ἐξεμεθήσεται, ἐξ οἰκίας αὐτοῦ ἐξελκύσει αὐτὸν ἄγγελος, θυμὸν δὲ δρακόντων θηλάσειεν, ἀνέλοι δὲ αὐτὸν γλῶσσα ὄφεως."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ἐξ-έλκω     [in LXX: Ge 37:28 (מָשַׁךְ), etc. ;]    to draw out or away: metaph., ὑπὸ τ. ἐπιθυμίας, Ja 1:14 (v. Mayor, in l).†"
+}

@@ -1,0 +1,63 @@
+{
+ "strong": "G1964",
+ "lemma": "ἐπιορκέω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MAT 5:33",
+   "form": "ἐπιορκήσεις",
+   "morph": "V-FAI-2S",
+   "gloss_en": "swear falsely",
+   "gloss_ja": "偽誓する",
+   "verse": "Πάλιν ἠκούσατε ὅτι ἐρρέθη τοῖς ἀρχαίοις· Οὐκ ἐπιορκήσεις, ἀποδώσεις δὲ τῷ κυρίῳ τοὺς ὅρκους σου."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Esdras i": 1,
+   "Sapientia Salomonis": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1ES",
+    "work_ja": "エズラ記（ギリシャ語）",
+    "work_src": "Esdras i",
+    "ref": "1.46",
+    "form": "ἐπιορκήσας",
+    "postag": "v-sapamn-",
+    "sentence": "καὶ ὁρκισθεὶς ἀπὸ τοῦ βασιλέως Ναβουχοδονόσορ τῷ ὀνόματι Κυρίου, ἐπιορκήσας ἀπέστη ·"
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "14.28",
+    "form": "ἐπιορκοῦσι",
+    "postag": "v3ppia---",
+    "sentence": "ἢ γὰρ εὐφραινόμενοι μεμήνασιν ἢ προφητεύουσι ψευδῆ ἢ ζῶσιν ἀδίκως ἢ ἐπιορκοῦσι ταχέως ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Didache": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DID",
+    "work_ja": "ディダケー",
+    "work_src": "Didache",
+    "ref": "2.3",
+    "form": "ἐπιορκήσεις",
+    "postag": "v2sfia---",
+    "sentence": "οὐκ ἐπιορκήσεις, οὐ ψευδομαρτυρήσεις, οὐ κακολογήσεις, οὐ μνησικακήσεις."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   ** ἐπιορκέω, -ῶ    (< ἐπίορκος),    [in LXX: I Es 1:48, Wi 14:28 * ;]     to swear falsely, forswear oneself: Mt 5:33.†"
+}

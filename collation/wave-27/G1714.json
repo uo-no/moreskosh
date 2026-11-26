@@ -1,0 +1,157 @@
+{
+ "strong": "G1714",
+ "lemma": "ἐμπίμπρημι",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MAT 22:7",
+   "form": "ἐνέπρησεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "burned",
+   "gloss_ja": "焼く",
+   "verse": "ὁ δὲ βασιλεὺς ὠργίσθη, καὶ πέμψας τὰ στρατεύματα αὐτοῦ ἀπώλεσεν τοὺς φονεῖς ἐκείνους καὶ τὴν πόλιν αὐτῶν ἐνέπρησεν."
+  }
+ ],
+ "lxx": {
+  "total": 44,
+  "works": {
+   "Numeri": 1,
+   "Deuteronomium": 1,
+   "Josue": 7,
+   "Judices": 6,
+   "Regnorum ii": 2,
+   "Regnorum iii": 2,
+   "Regnorum iv": 3,
+   "Paralipomenon ii sive Chronicon ii": 2,
+   "Esdras ii": 1,
+   "Judith": 3,
+   "Machabaeorum i": 3,
+   "Machabaeorum ii": 4,
+   "Job": 1,
+   "Psalmi Salomonis": 1,
+   "Michaeas": 1,
+   "Jeremias": 3,
+   "Baruch": 1,
+   "Ezechiel": 2
+  },
+  "representatives": [
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "11.11",
+    "form": "ἐνέπρησαν",
+    "postag": "v3paia---",
+    "sentence": "καὶ τὴν Ἀσὼρ ἐνέπρησαν ἐν πυρί."
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "12.1",
+    "form": "ἐμπρήσομεν",
+    "postag": "v1pfia---",
+    "sentence": "τὸν οἶκόν σου ἐμπρήσομεν ἐπὶ σὲ ἐν πυρί."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "8.33",
+    "form": "ἐμπρήσαντας",
+    "postag": "v-papama-",
+    "sentence": "ἐπινίκια δὲ ἄγοντες ἐν τῇ πατρίδι τοὺς ἐμπρήσαντας τοὺς ἱεροὺς πυλῶνας."
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "25.9",
+    "form": "ἐνέπρησε",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἐνέπρησε τὸν οἶκον Κυρίου καὶ τὸν οἶκον τοῦ βασιλέως καὶ πάντας τοὺς οἴκους Ἱερουσαλήμ, καὶ πᾶν οἶκον ἐνέπρησεν ὁ ἀρχιμάγειρος."
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "16.4",
+    "form": "ἐμπρήσειν",
+    "postag": "v--fna---",
+    "sentence": "εἶπεν ἐμπρήσειν τὰ ὅριά μου καὶ τοὺς νεανίσκους μου ἀνελεῖν ἐν ρομφαίᾳ καὶ τὰ θηλάζοντά μου θήσειν εἰς ἔδαφος καὶ τὰ νήπιά μου δώσειν εἰς προνομὴν καὶ τὰς παρθένους μου σκυλεῦσαι."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "5.28",
+    "form": "ἐνέπρησεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ κατελάβετο τὴν πόλιν καὶ ἀπέκτεινε πᾶν ἀρσενικὸν ἐν στόματι ρομφαίας καὶ ἔλαβε πάντα τὰ σκῦλα αὐτῶν καὶ ἐνέπρησεν αὐτὴν πυρί."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "52.13",
+    "form": "ἐνέπρησε",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἐν μηνὶ πέμπτῳ, δεκάτῃ τοῦ μηνός, ἦλθε Ναβουζαρδὰν ὁ ἀρχιμάγειρος ὁ ἑστηκὼς κατὰ πρόσωπον τοῦ βασιλέως Βαβυλῶνος εἰς Ἱερουσαλήμ, καὶ ἐνέπρησε τὸν οἶκον Κυρίου καὶ τὸν οἶκον τοῦ βασιλέως καὶ πάσας τὰς οἰκίας τῆς πόλεως, καὶ πᾶσαν οἰκίαν μεγάλην ἐνέπρησεν ἐν πυρί."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "14.30",
+    "form": "ἐμπρήσατε",
+    "postag": "v2pama---",
+    "sentence": "ἴδετε, ἡ μερὶς ἐν ἀγρῷ τοῦ Ἰωὰβ ἐχόμενά μου, καὶ αὐτῷ ἐκεῖ κριθαί, πορεύεσθε καὶ ἐμπρήσατε αὐτὴν ἐν πυρί ·"
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "18.10",
+    "form": "ἐνέπρησε",
+    "postag": "v3saia---",
+    "sentence": "οὐκ ἔστι, καὶ ἐνέπρησε τὴν βασιλείαν καὶ τὰς χώρας αὐτῆς, ὅτι οὐχ εὕρηκέ σε."
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "36.19",
+    "form": "ἐνέπρησε",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἐνέπρησε τὸν οἶκον Κυρίου καὶ κατέσκαψε τὸ τεῖχος Ἱερουσαλὴμ καὶ τὰς βάρεις αὐτῆς ἐνέπρησεν ἐν πυρὶ καὶ πᾶν σκεῦος ὡραῖον εἰς ἀφανισμόν."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "23.47",
+    "form": "ἐμπρήσουσι",
+    "postag": "v3pfia---",
+    "sentence": "υἱοὺς αὐτῶν καὶ θυγατέρας αὐτῶν ἀποκτενοῦσι καὶ τοὺς οἴκους αὐτῶν ἐμπρήσουσι."
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "31.10",
+    "form": "ἐνέπρησαν",
+    "postag": "v3paia---",
+    "sentence": "καὶ πάσας τὰς πόλεις αὐτῶν τὰς ἐν ταῖς κατοικίαις αὐτῶν καὶ τὰς ἐπαύλεις αὐτῶν ἐνέπρησαν ἐν πυρί."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1 (KJV) ἐμ-πίπρημι,     ἐμπρήθω (for the form, v.s. ἐμπίπλημι, and cf. Veitch, s.v. πίμπρημι),    [in LXX chiefly for שָׂרַף ;]     to set on fire: πόλιν, Mt 22:7; pass., of the body, to become inflamed: Ac 28:6 (T; πίμπρημι WH, q.v.).†"
+}

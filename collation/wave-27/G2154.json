@@ -1,0 +1,51 @@
+{
+ "strong": "G2154",
+ "lemma": "εὔσημος",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 14:9",
+   "form": "εὔσημον",
+   "morph": "A-ASM",
+   "gloss_en": "intelligible",
+   "gloss_ja": "明瞭な",
+   "verse": "οὕτως καὶ ὑμεῖς διὰ τῆς γλώσσης ἐὰν μὴ εὔσημον λόγον δῶτε, πῶς γνωσθήσεται τὸ λαλούμενον; ἔσεσθε γὰρ εἰς ἀέρα λαλοῦντες."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Psalmi": 1,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "80.4",
+    "form": "εὐσήμῳ",
+    "postag": "a-s---fd-",
+    "sentence": "σαλπίσατε ἐν νεομηνίᾳ σάλπιγγι, ἐν εὐσήμῳ ἡμέρᾳ ἑορτῆς ὑμῶν ·"
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "2.19",
+    "form": "εὐσήμως",
+    "postag": "d--------",
+    "sentence": "τότε τῷ Δανιηλ ἐν ὁράματι ἐν αὐτῇ τῇ νυκτὶ τὸ μυστήριον τοῦ βασιλέως ἐξεφάνθη εὐσήμως ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   εὔσημος, -ον    (< εὖ + οῆμα, a sign)    [in LXX for כֶּסֶא, Ps 80 (81):3 (-ως, Da LXX 2:19)* ;]    conspicuous (cf. Ps, l.c.).    clear to the understanding, distinct: I Co 14:9.†"
+}

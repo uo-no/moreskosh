@@ -1,0 +1,255 @@
+{
+ "strong": "G2079",
+ "lemma": "ἐσχάτως",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": "εσχατος",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MRK 5:23",
+   "form": "ἐσχάτως",
+   "morph": "ADV-S",
+   "gloss_en": "at the point of death",
+   "gloss_ja": "死にかけた",
+   "verse": "καὶ παρακαλεῖ αὐτὸν πολλὰ λέγων ὅτι Τὸ θυγάτριόν μου ἐσχάτως ἔχει, ἵνα ἐλθὼν ἐπιθῇς τὰς χεῖρας αὐτῇ ἵνα σωθῇ καὶ ζήσῃ."
+  }
+ ],
+ "lxx": {
+  "total": 154,
+  "works": {
+   "Genesis": 2,
+   "Leviticus": 2,
+   "Numeri": 4,
+   "Deuteronomium": 12,
+   "Josue": 3,
+   "Judices": 1,
+   "Ruth": 1,
+   "Regnorum i": 1,
+   "Regnorum ii": 6,
+   "Regnorum iii": 2,
+   "Paralipomenon i sive Chronicon i": 1,
+   "Paralipomenon ii sive Chronicon ii": 8,
+   "Esdras i": 1,
+   "Esdras ii": 3,
+   "Tobias": 1,
+   "Machabaeorum i": 2,
+   "Machabaeorum ii": 3,
+   "Psalmi": 4,
+   "Odae": 2,
+   "Proverbia": 6,
+   "Ecclesiastes": 5,
+   "Job": 6,
+   "Sapientia Salomonis": 3,
+   "Ecclesiasticus sive Siracides": 19,
+   "Psalmi Salomonis": 2,
+   "Osee": 1,
+   "Michaeas": 1,
+   "Joel": 1,
+   "Jonas": 1,
+   "Aggaeus": 1,
+   "Zacharias": 1,
+   "Isaias": 11,
+   "Jeremias": 14,
+   "Threni seu Lamentationes": 1,
+   "Ezechiel": 6,
+   "Daniel": 16
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "33.16",
+    "form": "ἔσχατος",
+    "postag": "a-s---mn-",
+    "sentence": "κα-κἀγὼ ἔσχατος ἠγρύπνησα ὡς καλαμώμενος ὀπίσω τρυγητῶν ·"
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "12.8",
+    "form": "ἔσχατα",
+    "postag": "a-p---nn-",
+    "sentence": "Κύριε, τί τὰ ἔσχατα τούτων;"
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "37.24",
+    "form": "ἐσχάτων",
+    "postag": "a-p---fg-",
+    "sentence": "ἐπ’ ἐσχάτων τῶν ἡμερῶν γνώσεσθε αὐτά."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "31.27",
+    "form": "ἔσχατον",
+    "postag": "a-s---nn-",
+    "sentence": "ἔτι γὰρ ἐμοῦ ζῶντος μεθ’ ὑμῶν σήμερον, παραπικραίνοντες ἦτε τὰ πρὸς τὸν Θεόν, πῶς οὐχὶ καὶ ἔσχατον τοῦ θανάτου μου;"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "62.11",
+    "form": "ἐσχάτου",
+    "postag": "a-s---ng-",
+    "sentence": "ἰδοὺ γὰρ Κύριος ἐποίησεν ἀκουστὸν ἕως ἐσχάτου τῆς γῆς ·"
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "26.22",
+    "form": "ἔσχατοι",
+    "postag": "a-p---mn-",
+    "sentence": "καὶ οἱ λοιποὶ λόγοι Ὀζίου οἱ πρῶτοι καὶ οἱ ἔσχατοι γεγραμμένοι ὑπὸ Ἰεσσίου τοῦ προφήτου."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "24.25",
+    "form": "ἐσχάτῳ",
+    "postag": "a-s---nd-",
+    "sentence": "καὶ προσέθηκε Σαλωμὼν ἐπὶ τὸ θυσιαστήριον ἐπ’ ἐσχάτῳ, ὅτι μικρὸν ἦν ἐν πρώτοις."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "31b.25",
+    "form": "ἐσχάταις",
+    "postag": "a-p---fd-",
+    "sentence": "ἰσχὺν καὶ εὐπρέπειαν ἐνεδύσατο καὶ εὐφράνθη ἐν ἡμέραις ἐσχάταις."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "23.8",
+    "form": "ἐσχάτοις",
+    "postag": "a-p---nd-",
+    "sentence": "τὰ δὲ ἐπ’ ἐσχάτοις τί οἶδα;"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "38.16",
+    "form": "ἐσχάτων",
+    "postag": "a-p---fg-",
+    "sentence": "ἐπ’ ἐσχάτων τῶν ἡμερῶν ἔσται, καὶ ἀνάξω σε ἐπὶ τὴν γῆν μου, ἵνα γνῶσι πάντα τὰ ἔθνη ἐμὲ ἐν τῷ ἁγιασθῆναί με ἐν σοὶ ἐνώπιον αὐτῶν."
+   },
+   {
+    "work_code": "ECC",
+    "work_ja": "コヘレトの言葉",
+    "work_src": "Ecclesiastes",
+    "ref": "7.8",
+    "form": "ἐσχάτη",
+    "postag": "a-s---fn-",
+    "sentence": "ἀγαθὴ ἐσχάτη λόγων ὑπὲρ ἀρχὴν αὐτοῦ, ἀγαθὸν μακρόθυμος ὑπὲρ ὑψηλὸν πνεύματι."
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "2.31",
+    "form": "ἔσχατοι",
+    "postag": "a-p---mn-",
+    "sentence": "ἔσχατοι ἐξαροῦσι κατὰ τάγμα αὐτῶν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 22,
+  "works": {
+   "Barnabas": 6,
+   "1 Clement": 1,
+   "2 Clement": 1,
+   "Didache": 3,
+   "Hermas, Pastor": 6,
+   "Ignatius, Letters": 5
+  },
+  "representatives": [
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "6.13",
+    "form": "ἔσχατα",
+    "postag": "a-p---na-",
+    "sentence": "ἰδού, ποιῶ τὰ ἔσχατα ὡς τὰ πρῶτα."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "2.2.5",
+    "form": "ἐσχάτης",
+    "postag": "a-s---fg-",
+    "sentence": "καὶ τοῖς δὲ ἔθνεσιν μετάνοιά ἐστιν ἕως ἐσχάτης ἡμέρας."
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "4.9.2",
+    "form": "ἔσχατος",
+    "postag": "a-s---mn-",
+    "sentence": "οὐ-δὲ γὰρ ἄξιός εἰμι, ὣν ἔσχατος αὐτῶν καὶ ἔκτρωμα ·"
+   },
+   {
+    "work_code": "DID",
+    "work_ja": "ディダケー",
+    "work_src": "Didache",
+    "ref": "16.2",
+    "form": "ἐσχάτῳ",
+    "postag": "a-s---md-",
+    "sentence": "οὐ γὰρ ὠφελήσει ὑμᾶς ὁ πᾶς χρόνος τῆς πίστεως ὑμῶν, ἐὰν μὴ ἐν τῷ ἐσχάτῳ καιρῷ τελειωθῆτε."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "28.3",
+    "form": "ἔσχατα",
+    "postag": "a-p---na-",
+    "sentence": "ἐὰν ἀπέλθω εἰς τὰ ἔσχατα τῆς γῆς."
+   },
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "14.2",
+    "form": "ἐσχάτων",
+    "postag": "a-p---fg-",
+    "sentence": "ἦν γὰρ πνευματική, ὡς καὶ ὁ Ἰησοῦς ἡμῶν, ἐφανερώθη δὲ ἐπ’ ἐσχάτων τῶν ἡμερῶν, ἵνα ἡμᾶς σώσῃ."
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "4.9",
+    "form": "ἐσχάταις",
+    "postag": "a-p---fd-",
+    "sentence": "διὸ προσέχωμεν ἐν ταῖς ἐσχάταις ἡμέραις ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "3.12.2",
+    "form": "ἐσχάτην",
+    "postag": "a-s---fa-",
+    "sentence": "ὅταν πρεσβύτερός τις, ἤδη ἀφηλπικὼς ἑαυτὸν διὰ τὴν ἀσθένειαν αὐτοῦ καὶ τὴν πτωχότητα, οὐδὲν ἕτερον προσδέχεται εἰ μὴ τὴν ἐσχάτην ἡμέραν τῆς ζωῆς αὐτοῦ ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   * ἐσχάτως      adv.,    extremely, utterly; ἐ. ἔχειν (= Lat. in extremis esse), only in late writers (cf. ἐν ἐσχάτοις εἶναι, FlJ, Ant., ix, 8, 6), to be at the point of death: Mk 5:23.†"
+}

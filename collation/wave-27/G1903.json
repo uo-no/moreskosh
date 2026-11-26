@@ -1,0 +1,51 @@
+{
+ "strong": "G1903",
+ "lemma": "ἐπενδύτης",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JHN 21:7",
+   "form": "ἐπενδύτην",
+   "morph": "N-ASM",
+   "gloss_en": "outer garment",
+   "gloss_ja": "上着",
+   "verse": "λέγει οὖν ὁ μαθητὴς ἐκεῖνος ὃν ἠγάπα ὁ Ἰησοῦς τῷ Πέτρῳ· Ὁ κύριός ἐστιν. Σίμων οὖν Πέτρος, ἀκούσας ὅτι ὁ κύριός ἐστιν, τὸν ἐπενδύτην διεζώσατο, ἦν γὰρ γυμνός, καὶ ἔβαλεν ἑαυτὸν εἰς τὴν θάλασσαν·"
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Regnorum i": 1,
+   "Regnorum ii": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "18.4",
+    "form": "ἐπενδύτην",
+    "postag": "n-s---ma-",
+    "sentence": "καὶ ἐξεδύσατο Ἰωνάθαν τὸν ἐπενδύτην τὸν ἐπάνω καὶ ἔδωκεν αὐτὸν τῷ Δαυὶδ καὶ τὸν μανδύαν αὐτοῦ καὶ ἕως τῆς ρομφαίας αὐτοῦ καὶ ἕως τοῦ τόξου αὐτοῦ καὶ ἕως τῆς ζώνης αὐτοῦ."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "13.18",
+    "form": "ἐπενδύτας",
+    "postag": "n-p---ma-",
+    "sentence": "καὶ ἐπ’ αὐτῆς ἦν χιτὼν καρπωτός, ὅτι οὕτως ἐνεδιδύσκοντο αἱ θυγατέρες τοῦ βασιλέως αἱ παρθένοι τοὺς ἐπενδύτας αὐτῶν ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ἐπενδύτης, -ου, ὁ    (< ἐπενδύω),    [in LXX for מְעִיל Le 8:7 A (Aq. ἐπένδυμα), I Ki 18:4 A, II Ki 13:18 * ;]     an outer tunic (RV, coat): Jo 21:7 .†"
+}

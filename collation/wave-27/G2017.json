@@ -1,0 +1,59 @@
+{
+ "strong": "G2017",
+ "lemma": "ἐπιφαύσκω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "EPH 5:14",
+   "form": "ἐπιφαύσει",
+   "morph": "V-FAI-3S",
+   "gloss_en": "shine on",
+   "gloss_ja": "輝く",
+   "verse": "πᾶν γὰρ τὸ φανερούμενον φῶς ἐστιν. διὸ λέγει· Ἔγειρε, ὁ καθεύδων, καὶ ἀνάστα ἐκ τῶν νεκρῶν, καὶ ἐπιφαύσει σοι ὁ Χριστός."
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Job": 3
+  },
+  "representatives": [
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "31.26",
+    "form": "ἐπιφαύσκοντα",
+    "postag": "v-sppama-",
+    "sentence": "ἦ οὐχ ὁρῶ μὲν ἥλιον τὸν ἐπιφαύσκοντα ἐκλείποντα, σελήνην δὲ φθίνουσαν;"
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "41.10",
+    "form": "ἐπιφαύσκεται",
+    "postag": "v3spim---",
+    "sentence": "ἐν πταρμῷ αὐτοῦ ἐπιφαύσκεται φέγγος, οἱ δὲ ὀφθαλμοὶ αὐτοῦ εἶδος Ἑωσφόρου."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "25.5",
+    "form": "ἐπιφαύσκει",
+    "postag": "v3spia---",
+    "sentence": "εἰ σελήνῃ συντάσσει, καὶ οὐκ ἐπιφαύσκει, ἄστρα δὲ οὐ καθαρὰ ἐναντίον αὐτοῦ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   † ἐπι-φαύσκω    (variant form of ἐπιφώσκω, q.v.),    [in LXX: Jb 25:5   (אהל hi.) 31:26 41:9(10) (הָלַל hi.) * ;]     to shine forth: fig., c. dat., Eph 5:14 (on v.l. -ψαύσει, v. ICC, Westc., AR, in l.).†"
+}

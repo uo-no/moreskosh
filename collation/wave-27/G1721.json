@@ -1,0 +1,62 @@
+{
+ "strong": "G1721",
+ "lemma": "ἔμφυτος",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JAS 1:21",
+   "form": "ἔμφυτον",
+   "morph": "A-ASM",
+   "gloss_en": "implanted",
+   "gloss_ja": "植えつけられた",
+   "verse": "διὸ ἀποθέμενοι πᾶσαν ῥυπαρίαν καὶ περισσείαν κακίας ἐν πραΰτητι δέξασθε τὸν ἔμφυτον λόγον τὸν δυνάμενον σῶσαι τὰς ψυχὰς ὑμῶν."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Sapientia Salomonis": 1
+  },
+  "representatives": [
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "12.10",
+    "form": "ἔμφυτος",
+    "postag": "a-s---fn-",
+    "sentence": "οὐκ ἀδυνατῶν ἐν παρατάξει ἀσεβεῖς δικαίοις ὑποχειρίους δοῦναι ἢ θηρίοις δεινοῖς ἢ λόγῳ ἀποτόμῳ ὑφ’ ἓν ἐκτρῖψαι, κρίνων δὲ κατὰ βραχὺ ἐδίδους τόπον μετανοίας, οὐκ ἀγνοῶν ὅτι πονηρὰ ἡ γένεσις αὐτῶν καὶ ἔμφυτος ἡ κακία αὐτῶν καὶ ὅτι οὐ μὴ ἀλλαγῇ ὁ λογισμὸς αὐτῶν εἰς τὸν αἰῶνα."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "Barnabas": 2
+  },
+  "representatives": [
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "1.2",
+    "form": "ἔμφυτον",
+    "postag": "a-s---fa-",
+    "sentence": "οὕτως ἔμφυτον τῆς δωρεᾶς πνευματικῆς χάριν εἰλήφατε."
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "9.9",
+    "form": "ἔμφυτον",
+    "postag": "a-s---fa-",
+    "sentence": "οἶδεν ὁ τὴν ἔμφυτον δωρεὰν τῆς διδαχῆς αὐτοῦ θέμενος ἐν ἡμῖν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   ** ἔμ-φυτος, -ον    (< ἐμφύω, to implant),    [in LXX: ἔ. ἡ κακία αὐτῶν, Wi 12:10 * ;]     innate (Wi 12:10).    rooted, implanted: Ja 1:21 (v. Mayor, in l).†"
+}

@@ -1,0 +1,51 @@
+{
+ "strong": "G1948",
+ "lemma": "ἐπικρίνω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 23:24",
+   "form": "ἐπέκρινεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "decided",
+   "gloss_ja": "判決する",
+   "verse": "καὶ Πιλᾶτος ἐπέκρινεν γενέσθαι τὸ αἴτημα αὐτῶν·"
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Machabaeorum ii": 1,
+   "Machabaeorum iii": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "4.47",
+    "form": "ἐπέκρινε",
+    "postag": "v3saia---",
+    "sentence": "ὅθεν ἀπολαβὼν ὁ Πτολεμαῖος εἴς τι περίστυλον ὡς ἀναψύξοντα τὸν βασιλέα μετέθηκε, καὶ τὸν μὲν τῆς ὅλης κακίας Μενέλαον ἀπέλυσε τῶν κατηγορημάτων, τοῖς δὲ ταλαιπώροις, οἵτινες, εἰ καὶ ἐπὶ Σκυθῶν ἔλεγον, ἀπελύθησαν ἂν ἀκατάγνωστοι, τούτοις θάνατον ἐπέκρινε."
+   },
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "4.2",
+    "form": "ἐπικριθεῖσαν",
+    "postag": "v-sappfa-",
+    "sentence": "τοῖς δὲ Ἰουδαίοις ἀνήκεστον πένθος ἦν καὶ πανόδυρτος μετὰ δακρύων βοή, στεναγμοῖς πεπυρωμένης τῆς αὐτῶν πάντοθεν καρδίας, ὀλοφυρομένων τὴν ἀπροσδόκητον ἐξαίφνης ἐπικριθεῖσαν αὐτοῖς ὀλεθρίαν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ** ἐπι-κρίνω     [in LXX: II Mac 4:47, III Mac 4:2 * ;]     to decree, give sentence: c. acc et inf., Lk 23:24.†"
+}

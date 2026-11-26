@@ -1,0 +1,148 @@
+{
+ "strong": "G2028",
+ "lemma": "ἐπονομάζομαι",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": "επονομαζω",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ROM 2:17",
+   "form": "ἐπονομάζῃ",
+   "morph": "V-PPI-2S",
+   "gloss_en": "call",
+   "gloss_ja": "名付ける",
+   "verse": "Εἰ δὲ σὺ Ἰουδαῖος ἐπονομάζῃ καὶ ἐπαναπαύῃ νόμῳ καὶ καυχᾶσαι ἐν θεῷ"
+  }
+ ],
+ "lxx": {
+  "total": 37,
+  "works": {
+   "Genesis": 13,
+   "Exodus": 7,
+   "Leviticus": 1,
+   "Numeri": 5,
+   "Deuteronomium": 6,
+   "Josue": 2,
+   "Judices": 1,
+   "Paralipomenon i sive Chronicon i": 1,
+   "Paralipomenon ii sive Chronicon ii": 1
+  },
+  "representatives": [
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "25.25",
+    "form": "ἐπωνόμασε",
+    "postag": "v3saia---",
+    "sentence": "ἐπωνόμασε δὲ τὸ ὄνομα αὐτοῦ Ἡσαῦ."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "16.31",
+    "form": "ἐπωνόμασαν",
+    "postag": "v3paia---",
+    "sentence": "καὶ ἐπωνόμασαν οἱ υἱοὶ Ἰσραὴλ τὸ ὄνομα αὐτοῦ, μάν ·"
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "3.14",
+    "form": "ἐπωνόμασεν",
+    "postag": "v3saia---",
+    "sentence": "ἐπωνόμασεν αὐτὰς ἐπὶ τῷ ὀνόματι αὐτοῦ τὴν Βασὰν Αὐὼθ Ἰαΐρ ἕως τῆς ἡμέρας ταύτης."
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "13.17",
+    "form": "ἐπωνόμασε",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἐπωνόμασε Μωυσῆς τὸν Αὐσὴ υἱὸν Ναυὴ Ἰησοῦν."
+   },
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "7.26",
+    "form": "ἐπωνόμασεν",
+    "postag": "v3saia---",
+    "sentence": "διὰ τοῦτο ἐπωνόμασεν αὐτὸ Ἐμεκαχὼρ ἕως τῆς ἡμέρας ταύτης."
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "24.11",
+    "form": "ἐπονομάσας",
+    "postag": "v-sapamn-",
+    "sentence": "καὶ ἐπονομάσας ὁ υἱὸς τῆς γυναικὸς τῆς Ἰσραηλίτιδος τὸ ὄνομα κατηράσατο."
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "2.5",
+    "form": "ἐπωνόμασαν",
+    "postag": "v3paia---",
+    "sentence": "καὶ ἐπωνόμασαν τὸ ὄνομα τοῦ τόπου ἐκείνου, Κλαυθμῶνες ·"
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "28.3",
+    "form": "ἐπονομάσαι",
+    "postag": "v--ana---",
+    "sentence": "οὐκ οἰκοδομήσεις ἐμοὶ οἶκον τοῦ ἐπονομάσαι τὸ ὄνομά μου ἐπ’ αὐτῷ, ὅτι ἄνθρωπος πολεμιστὴς εἶ σὺ καὶ αἷμα ἐξέχεας."
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "12.13",
+    "form": "ἐπονομάσαι",
+    "postag": "v--ana---",
+    "sentence": "καὶ τεσσαράκοντα καὶ ἑνὸς ἐτῶν Ῥοβοὰμ ἐν τῷ βασιλεῦσαι αὐτὸν καὶ ἑπτακαίδεκα ἔτη ἐβασίλευσεν ἐν Ἱερουσαλήμ, ἐν τῇ πόλει, ᾗ ἐξελέξατο Κύριος ἐπονομάσαι τό ὄνομα αὐτοῦ ἐκεῖ ἐκ πασῶν φυλῶν υἱῶν Ἰσραήλ ·"
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "30.11",
+    "form": "ἐπωνόμασε",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἐπωνόμασε τὸ ὄνομα αὐτοῦ Γάδ."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "20.24",
+    "form": "ἐπονομάσω",
+    "postag": "v1sasa---",
+    "sentence": "θυσιαστήριον ἐκ γῆς ποιήσετέ μοι καὶ θύσετε ἐπ’ αὐτοῦ τὰ ὁλοκαυτώματα ὑμῶν καὶ τὰ σωτήρια ὑμῶν καὶ τὰ πρόβατα καὶ τοὺς μόσχους ὑμῶν ἐν παντὶ τόπῳ, οὗ ἐὰν ἐπονομάσω τὸ ὄνομά μου ἐκεῖ, καὶ ἥξω πρὸς σὲ καὶ εὐλογήσω σε."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "2.11",
+    "form": "ἐπονομάζουσιν",
+    "postag": "v3ppia---",
+    "sentence": "Ραφαΐν λογισθήσονται καὶ οὗτοι ὥσπερ καὶ οἱ Ἐνακίμ, καὶ οἱ Μωαβῖται ἐπονομάζουσιν αὐτοὺς Ὀμμίν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1 ἐπ-ονομάζω     [in LXX chiefly for קָרָא ;]     to name, call by a name, surname: pass., Ro 2:17.†"
+}

@@ -1,0 +1,102 @@
+{
+ "strong": "G2044",
+ "lemma": "ἐρεύγομαι",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MAT 13:35",
+   "form": "ἐρεύξομαι",
+   "morph": "V-FDI-1S",
+   "gloss_en": "utter",
+   "gloss_ja": "語る",
+   "verse": "ὅπως πληρωθῇ τὸ ῥηθὲν διὰ τοῦ προφήτου λέγοντος· Ἀνοίξω ἐν παραβολαῖς τὸ στόμα μου, ἐρεύξομαι κεκρυμμένα ἀπὸ καταβολῆς."
+  }
+ ],
+ "lxx": {
+  "total": 6,
+  "works": {
+   "Leviticus": 1,
+   "Machabaeorum i": 1,
+   "Psalmi": 1,
+   "Osee": 1,
+   "Amos": 2
+  },
+  "representatives": [
+   {
+    "work_code": "AMO",
+    "work_ja": "アモス書",
+    "work_src": "Amos",
+    "ref": "3.8",
+    "form": "ἐρεύξεται",
+    "postag": "v3sfim---",
+    "sentence": "λέων ἐρεύξεται, καὶ τίς οὐ φοβηθήσεται;"
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "11.10",
+    "form": "ἐρεύγεται",
+    "postag": "v3spim---",
+    "sentence": "καὶ πάντα ὅσα οὐκ ἔστιν αὐτοῖς πτερύγια, οὐ-δὲ λεπίδες ἐν τῷ ὕδατι, ἢ ἐν ταῖς θαλάσσαις καὶ ἐν τοῖς χειμάρροις, ἀπὸ πάντων, ὧν ἐρεύγεται τὰ ὕδατα, καὶ ἀπὸ πάσης ψυχῆς τῆς ζώσης ἐν τῷ ὕδατι, βδέλυγμά ἐστι ·"
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "3.4",
+    "form": "ἐρευγόμενος",
+    "postag": "v-sppmmn-",
+    "sentence": "καὶ ὡμοιώθη λέοντι ἐν τοῖς ἔργοις αὐτοῦ καὶ ὡς σκύμνος ἐρευγόμενος εἰς θήραν."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "18.3",
+    "form": "ἐρεύγεται",
+    "postag": "v3spim---",
+    "sentence": "ἡμέρα τῇ ἡμέρᾳ ἐρεύγεται ρῆμα, καὶ νὺξ νυκτὶ ἀναγγέλλει γνῶσιν."
+   },
+   {
+    "work_code": "HOS",
+    "work_ja": "ホセア書",
+    "work_src": "Osee",
+    "ref": "11.10",
+    "form": "ἐρεύξεται",
+    "postag": "v3sfim---",
+    "sentence": "ὡς λέων ἐρεύξεται, ὅτι αὐτὸς ὠρύσεται, καὶ ἐκστήσονται τέκνα ὑδάτων."
+   },
+   {
+    "work_code": "AMO",
+    "work_ja": "アモス書",
+    "work_src": "Amos",
+    "ref": "3.4",
+    "form": "ἐρεύξεται",
+    "postag": "v3sfim---",
+    "sentence": "εἰ ἐρεύξεται λέων ἐκ τοῦ δρυμοῦ αὐτοῦ θήραν οὐκ ἔχων;"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "1 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "27.7",
+    "form": "ἐρεύγεται",
+    "postag": "v3spim---",
+    "sentence": "ἡ ἡμέρα τῇ ἡμέρᾳ ἐρεύγεται ῥῆμα, καὶ νὺξ νυκτὶ ἀναγγέλλει γνῶσιν ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   ἐρεύγομαι     [in LXX chiefly for שָׁאַג, Ho 11:10, Am 3:4, 8 al.; also for נָבַע, Ps 18 (19):2, etc. ;]    to spit or spue out.    Prop., of oxen (Hom.), to bellow, roar; whence, as in LXX, to speak aloud, utter: Mt 13:35 (LXX). (For other examples of softened force of words in late Gk., cf. σκύλλω, τρώγω, χορτάζω.) †"
+}

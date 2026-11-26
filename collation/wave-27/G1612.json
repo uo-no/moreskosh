@@ -1,0 +1,93 @@
+{
+ "strong": "G1612",
+ "lemma": "ἐκστρέφομαι",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": "εκστρεφω",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "TIT 3:11",
+   "form": "ἐξέστραπται",
+   "morph": "V-RPI-3S",
+   "gloss_en": "warped",
+   "gloss_ja": "損なわれる",
+   "verse": "εἰδὼς ὅτι ἐξέστραπται ὁ τοιοῦτος καὶ ἁμαρτάνει, ὢν αὐτοκατάκριτος."
+  }
+ ],
+ "lxx": {
+  "total": 5,
+  "works": {
+   "Deuteronomium": 1,
+   "Odae": 1,
+   "Amos": 1,
+   "Zacharias": 1,
+   "Ezechiel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "32.20",
+    "form": "ἐξεστραμμένη",
+    "postag": "v-srpmfn-",
+    "sentence": "ὅτι γενεὰ ἐξεστραμμένη ἐστίν, υἱοί, οἷς οὐκ ἔστι πίστις ἐν αὐτοῖς."
+   },
+   {
+    "work_code": "ODE",
+    "work_ja": "頌歌（オード）",
+    "work_src": "Odae",
+    "ref": "2.20",
+    "form": "ἐξεστραμμένη",
+    "postag": "v-srpmfn-",
+    "sentence": "ὅτι γενεὰ ἐξεστραμμένη ἐστίν, υἱοί, οἷς οὐκ ἔστιν πίστις ἐν αὐτοῖς."
+   },
+   {
+    "work_code": "AMO",
+    "work_ja": "アモス書",
+    "work_src": "Amos",
+    "ref": "6.13",
+    "form": "ἐξεστρέψατε",
+    "postag": "v2paia---",
+    "sentence": "ὅτι ἐξεστρέψατε εἰς θυμὸν κρίμα καὶ καρπὸν δικαιοσύνης εἰς πικρίαν, οἱ εὐφραινόμενοι ἐπ’ οὐδενὶ λόγῳ, οἱ λέγοντες ·"
+   },
+   {
+    "work_code": "ZEC",
+    "work_ja": "ゼカリヤ書",
+    "work_src": "Zacharias",
+    "ref": "11.16",
+    "form": "ἐκστρέψει",
+    "postag": "v3sfia---",
+    "sentence": "τὸ ἐκλιμπάνον οὐ μὴ ἐπισκέψηται καὶ τὸ ἐσκορπισμένον οὐ μὴ ζητήσῃ καὶ τὸ συντετριμμένον οὐ μὴ ἰάσηται καὶ τὸ ὁλόκληρον οὐ μὴ κατευθύνῃ καὶ τὰ κρέα τῶν ἐκλεκτῶν καταφάγεται καὶ τούς ἀστραγάλους αὐτῶν ἐκστρέψει."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "13.20",
+    "form": "ἐκστρέφετε",
+    "postag": "v2ppia---",
+    "sentence": "ἰδοὺ ἐγὼ ἐπὶ τὰ προσκεφάλαια ὑμῶν, ἐφ’ ἃ ὑμεῖς ἐκεῖ συστρέφετε ψυχάς, καὶ διαρρήξω αὐτὰ ἀπὸ τῶν βραχιόνων ὑμῶν καὶ ἐξαποστελῶ τὰς ψυχάς, ἃς ὑμεῖς ἐκστρέφετε τὰς ψυχὰς αὐτῶν, εἰς διασκορπισμόν ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "25.6.5",
+    "form": "ἐκστρέφοντες",
+    "postag": "v-pppamn-",
+    "sentence": "ἦσαν γὰρ ὑποκριταὶ καὶ διδαχὰς ξένας εἰσφέροντες καὶ ἐκστρέφοντες τοὺς δούλους τοῦ θεοῦ, μάλιστα δὲ τοὺς ἡμαρτηκότας, μὴ ἀφιέντες μετανοεῖν αὐτούς, ἀλλὰ ταῖς διδαχαῖς ταῖς μωραῖς πείθοντες αὐτούς."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1 ἐκ-στρέφω     [in LXX: De 32:20, Am 6:13 Ez 16:34 A (הָפַךְ), Za   11:16 (פָּרַק pi.), Ez 13:20 (צוּד pil.)* ;]       to turn out of (Hom.).      to turn inside out; metaph., to change entirely, pervert (Aristoph.): Tit 3:11.†"
+}

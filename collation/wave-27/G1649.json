@@ -1,0 +1,50 @@
+{
+ "strong": "G1649",
+ "lemma": "ἔλεγξις",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2PE 2:16",
+   "form": "ἔλεγξιν",
+   "morph": "N-ASF",
+   "gloss_en": "rebuke",
+   "gloss_ja": "叱責",
+   "verse": "ἔλεγξιν δὲ ἔσχεν ἰδίας παρανομίας· ὑποζύγιον ἄφωνον ἐν ἀνθρώπου φωνῇ φθεγξάμενον ἐκώλυσεν τὴν τοῦ προφήτου παραφρονίαν."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Job": 2
+  },
+  "representatives": [
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "21.4",
+    "form": "ἔλεγξις",
+    "postag": "n-s---fn-",
+    "sentence": "μὴ ἀνθρώπου μου ἡ ἔλεγξις;"
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "23.2",
+    "form": "ἔλεγξίς",
+    "postag": "n-s---fn-",
+    "sentence": "καὶ δὴ οἶδα ὅτι ἐκ χειρός μου ἡ ἔλεγξίς ἐστι, καὶ ἡ χεὶρ αὐτοῦ βαρεῖα γέγονεν ἐπ’ ἐμῷ στεναγμῷ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1 † ἔλεγξις, -εως, ἡ    (< ἐλέγχω),    [in LXX: Jb 21:4 23:2 (שִׂיחַ) * ;]     rebuke: II Pe 2:16.†"
+}

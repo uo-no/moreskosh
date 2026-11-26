@@ -1,0 +1,50 @@
+{
+ "strong": "G2055",
+ "lemma": "ἐρίφιον",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MAT 25:33",
+   "form": "ἐρίφια",
+   "morph": "N-APN",
+   "gloss_en": "goats",
+   "gloss_ja": "子山羊",
+   "verse": "καὶ στήσει τὰ μὲν πρόβατα ἐκ δεξιῶν αὐτοῦ τὰ δὲ ἐρίφια ἐξ εὐωνύμων."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Tobias": 2
+  },
+  "representatives": [
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "2.13",
+    "form": "ἐρίφιον",
+    "postag": "n-s---na-",
+    "sentence": "καὶ ἐκάλεσα αὐτὴν καὶ εἶπα Πόθεν τὸ ἐρίφιον τοῦτο;"
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "2.13",
+    "form": "ἐρίφιον",
+    "postag": "n-s---nn-",
+    "sentence": "πόθεν τὸ ἐρίφιον;"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   **† ἐρίφιον, -ου, τό    (dim, of ἔριφος, q.v.)    [in LXX: To 2:13 * ;]     Mt 25:33, Lk 15:29 (ἔριφον, WH, txt.).†"
+}

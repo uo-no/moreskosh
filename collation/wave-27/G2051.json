@@ -1,0 +1,89 @@
+{
+ "strong": "G2051",
+ "lemma": "ἐρίζω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MAT 12:19",
+   "form": "ἐρίσει",
+   "morph": "V-FAI-3S",
+   "gloss_en": "quarrel",
+   "gloss_ja": "争う",
+   "verse": "οὐκ ἐρίσει οὐδὲ κραυγάσει, οὐδὲ ἀκούσει τις ἐν ταῖς πλατείαις τὴν φωνὴν αὐτοῦ."
+  }
+ ],
+ "lxx": {
+  "total": 6,
+  "works": {
+   "Genesis": 1,
+   "Regnorum i": 2,
+   "Regnorum iv": 1,
+   "Ecclesiasticus sive Siracides": 2
+  },
+  "representatives": [
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "12.15",
+    "form": "ἐρίσητε",
+    "postag": "v2pasa---",
+    "sentence": "ἐὰν δὲ μὴ ἀκούσητε τῆς φωνῆς Κυρίου καὶ ἐρίσητε τῷ στόματι Κυρίου, καὶ ἔσται χεὶρ Κυρίου ἐφ’ ὑμᾶς καὶ ἐπὶ τὸν βασιλέα ὑμῶν."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "8.2",
+    "form": "ἔριζε",
+    "postag": "v2spma---",
+    "sentence": "μὴ ἔριζε μετὰ ἀνθρώπου πλουσίου, μήποτε ἀντιστήσῃ σου τὴν ὁλκήν ·"
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "26.35",
+    "form": "ἐρίζουσαι",
+    "postag": "v-pppafn-",
+    "sentence": "καὶ ἦσαν ἐρίζουσαι τῷ Ἰσαὰκ καὶ τῇ Ῥεβέκκᾳ."
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "14.10",
+    "form": "ἐρίζεις",
+    "postag": "v2spia---",
+    "sentence": "ἐνδοξάσθητι καθήμενος ἐν τῷ οἴκῳ σου, καὶ ἱνατί ἐρίζεις ἐν κακίᾳ σου;"
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "12.14",
+    "form": "ἐρίσητε",
+    "postag": "v2pasa---",
+    "sentence": "ἐὰν φοβηθῆτε τὸν Κύριον καὶ δουλεύσητε αὐτῷ καὶ ἀκούσητε τῆς φωνῆς αὐτοῦ καὶ μὴ ἐρίσητε τῷ στόματι Κυρίου καὶ ἦτε καὶ ὑμεῖς καὶ ὁ βασιλεὺς ὁ βασιλεύων ἐφ’ ὑμῶν ὀπίσω Κυρίου πορευόμενοι ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "11.9",
+    "form": "ἔριζε",
+    "postag": "v2spma---",
+    "sentence": "περὶ πράγματος, οὗ οὐκ ἔστι σοι χρεία, μὴ ἔριζε καὶ ἐν κρίσει ἁμαρτωλῶν μὴ συνέδρευε."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "9   ἐρίζω    (< ἔρις),    [in LXX for מָרָה, etc. ;]     to wrangle, strive: Mt 12:19 (LXX, κεκράζεται).†"
+}

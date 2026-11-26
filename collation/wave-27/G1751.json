@@ -1,0 +1,160 @@
+{
+ "strong": "G1751",
+ "lemma": "ἔνειμι",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 11:41",
+   "form": "ἐνόντα",
+   "morph": "V-PAP-APN",
+   "gloss_en": "within",
+   "gloss_ja": "中にある",
+   "verse": "πλὴν τὰ ἐνόντα δότε ἐλεημοσύνην, καὶ ἰδοὺ πάντα καθαρὰ ὑμῖν ἐστιν."
+  }
+ ],
+ "lxx": {
+  "total": 10,
+  "works": {
+   "Deuteronomium": 1,
+   "Regnorum iii": 1,
+   "Machabaeorum i": 1,
+   "Machabaeorum iv": 2,
+   "Proverbia": 1,
+   "Job": 3,
+   "Ecclesiasticus sive Siracides": 1
+  },
+  "representatives": [
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "28.14",
+    "form": "ἔνεστιν",
+    "postag": "v3spia---",
+    "sentence": "οὐκ ἔνεστιν ἐν ἐμοί ·"
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "1.25",
+    "form": "ἔνεστι",
+    "postag": "v3spia---",
+    "sentence": "ἐν δὲ τῇ ἡδονῇ ἔνεστι καὶ ἡ κακοήθης διάθεσις, πολυτροπωτάτη πάντων τῶν παθῶν οὖσα."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "29.18",
+    "form": "ἐνῇ",
+    "postag": "v3spsa---",
+    "sentence": "ὅσιά μοι γένοιτο, ὅτι ἐνῇ ἀποπλανήσει τῆς καρδίας μου πορεύσομαι, ἵνα μὴ συναπολέσῃ ὁ ἁμαρτωλὸς τὸν ἀναμάρτητον."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "10.17",
+    "form": "ἐνῆσαν",
+    "postag": "v3piia---",
+    "sentence": "— τριακόσιοι χρυσοῖ ἐπῆσαν ἐπὶ τὸ δόρυ τὸ ἓν — καὶ τριακόσια ὅπλα χρυσᾶ ἐλατὰ — καὶ τρεῖς μναῖ ἐνῆσαν χρυσοῦ εἰς τὸ ὅπλον τὸ ἓν — καὶ ἔδωκεν αὐτὰ ὁ βασιλεὺς εἰς οἶκον δρυμοῦ τοῦ Λιβάνου."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "5.5",
+    "form": "ἐνοῦσι",
+    "postag": "v-pppamd-",
+    "sentence": "καὶ συνεκλείσθησαν ὑπ’ αὐτοῦ ἐν τοῖς πύργοις, καὶ παρενέβαλεν ἐπ’ αὐτοὺς καὶ ἀνεθεμάτισεν αὐτοὺς καὶ ἐνεπύρισε τοὺς πύργους αὐτῆς ἐν πυρὶ σὺν πᾶσι τοῖς ἐνοῦσι."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "14.23",
+    "form": "ἔνεστι",
+    "postag": "v3spia---",
+    "sentence": "ἐν παντὶ μεριμνῶντι ἔνεστι περισσόν, ὁ δὲ ἡδὺς καὶ ἀνάλγητος ἐν ἐνδείᾳ ἔσται."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "37.2",
+    "form": "ἔνι",
+    "postag": "v3spia---",
+    "sentence": "οὐχὶ λύπη ἔνι ἕως θανάτου ἑταῖρος καὶ φίλος τρεπόμενος εἰς ἔχθραν;"
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "34.13",
+    "form": "ἐνόντα",
+    "postag": "v-pppana-",
+    "sentence": "τίς δέ ἐστιν ὁ ποιῶν τὴν ὑπ’ οὐρανὸν καὶ τὰ ἐνόντα πάντα;"
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "4.22",
+    "form": "ἔνι",
+    "postag": "v3spia---",
+    "sentence": "ἐπειδὴ γὰρ πολεμῶν ἦν κατ’ Αἴγυπτον Πτολεμαίῳ, ἤκουσέ τε ὅτι φήμης διαδοθείσης περὶ τοῦ τεθνᾶναι αὐτόν, ὡς ἔνι μάλιστα χαίροιεν οἱ Ἱεροσολυμῖται, ταχέως ἐπ’ αὐτοὺς ἀνέζευξεν, καὶ ὡς ἐπόρθησεν αὐτούς, δόγμα ἔθετο ὅπως, εἴ τινες αὐτῶν φάνοιεν τῷ πατρίῳ πολιτευόμενοι νόμῳ, θάνοιεν."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "27.3",
+    "form": "ἐνούσης",
+    "postag": "v-sppafg-",
+    "sentence": "ἦ μὴν ἔτι τῆς πνοῆς μου ἐνούσης, πνεῦμα δὲ θεῖον τὸ περιόν μοι ἐν ρινί, μὴ λαλήσειν τὰ χείλη μου ἄνομα, οὐ-δὲ ἡ ψυχή μου μελετήσει ἄδικα μή μοι εἴη δικαίους ὑμᾶς ἀποφῆναι, ἕως ἂν ἀποθάνω, οὐ γὰρ ἀπολλάξω μου τὴν ἀκακίαν μου."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 3,
+  "works": {
+   "2 Clement": 1,
+   "Hermas, Pastor": 1,
+   "Ignatius, Letters": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "19.2",
+    "form": "ἐνοῦσαν",
+    "postag": "v-sppafa-",
+    "sentence": "ἐνίοτε γὰρ πονηρὰ πράσσοντες οὐ γινώσκομεν διὰ τὴν διψυχίαν καὶ ἀπιστίαν τὴν ἐνοῦσαν ἐν τοῖς στήθεσιν ἡμῶν, καὶ ἐσκοτίσμεθα τὴν διάνοιαν ὑπὸ τῶν ἐπιθυμιῶν τῶν ματαίων."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "25.10.2",
+    "form": "ἔνεστι",
+    "postag": "v3spia---",
+    "sentence": "ἐν τούτοις οὖν ἔνεστι μετανοίας ἐλπίς, ὅτι ἀγαθοὶ πάντοτε ἐγένοντο ·"
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "4.4.1",
+    "form": "ἔνεστιν",
+    "postag": "v3spia---",
+    "sentence": "ἄφετέ με θηρίων εἶναι βοράν, δι’ ὦν ἔνεστιν θεοῦ ἐπιτυχεῖν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   ἔν-ειμι    to be in, within (Jb 27:3, al.): ptcp. pl., τὰ ἐνόντα, Lk 11:41 (R, txt., cf. MM, Exp., xii).    to be possible: Lk 11:41 (R, mg.).†"
+}

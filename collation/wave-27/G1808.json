@@ -1,0 +1,186 @@
+{
+ "strong": "G1808",
+ "lemma": "ἐξαίρω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 5:13",
+   "form": "ἐξάρατε",
+   "morph": "V-AAM-2P",
+   "gloss_en": "remove",
+   "gloss_ja": "取り除く",
+   "verse": "τοὺς δὲ ἔξω ὁ θεὸς κρίνει; ἐξάρατε τὸν πονηρὸν ἐξ ὑμῶν αὐτῶν."
+  }
+ ],
+ "lxx": {
+  "total": 172,
+  "works": {
+   "Genesis": 3,
+   "Exodus": 4,
+   "Leviticus": 1,
+   "Numeri": 26,
+   "Deuteronomium": 4,
+   "Josue": 2,
+   "Judices": 14,
+   "Regnorum i": 1,
+   "Regnorum ii": 3,
+   "Regnorum iii": 7,
+   "Regnorum iv": 8,
+   "Paralipomenon i sive Chronicon i": 1,
+   "Paralipomenon ii sive Chronicon ii": 3,
+   "Esdras ii": 1,
+   "Esther": 1,
+   "Machabaeorum i": 16,
+   "Machabaeorum ii": 1,
+   "Psalmi": 1,
+   "Proverbia": 2,
+   "Ecclesiastes": 1,
+   "Ecclesiasticus sive Siracides": 10,
+   "Psalmi Salomonis": 6,
+   "Osee": 3,
+   "Amos": 5,
+   "Michaeas": 3,
+   "Joel": 1,
+   "Abdias": 2,
+   "Nahum": 2,
+   "Sophonias": 2,
+   "Zacharias": 5,
+   "Isaias": 1,
+   "Jeremias": 7,
+   "Threni seu Lamentationes": 1,
+   "Ezechiel": 18,
+   "Daniel": 6
+  },
+  "representatives": [
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "2.31",
+    "form": "ἐξαροῦσι",
+    "postag": "v3pfia---",
+    "sentence": "ἔσχατοι ἐξαροῦσι κατὰ τάγμα αὐτῶν."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "20.39",
+    "form": "ἐξάρατε",
+    "postag": "v2pama---",
+    "sentence": "ἕκαστος τὰ ἐπιτηδεύματα αὐτοῦ ἐξάρατε ·"
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "3.52",
+    "form": "ἐξᾶραι",
+    "postag": "v--ana---",
+    "sentence": "καὶ ἰδοὺ τὰ ἔθνη συνῆκται ἐφ’ ἡμᾶς τοῦ ἐξᾶραι ἡμᾶς ·"
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "1.29",
+    "form": "ἐξῇρε",
+    "postag": "v3siia---",
+    "sentence": "καὶ Ἐφραὶμ οὐκ ἐξῇρε τὸν Χαναναῖον τὸν κατοικοῦντα ἐν Γαζέρ ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "37.7",
+    "form": "ἐξαίρει",
+    "postag": "v3spia---",
+    "sentence": "πᾶς σύμβουλος ἐξαίρει βουλήν, ἀλλ’ ἔστι συμβουλεύων εἰς ἑαυτόν."
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "15.35",
+    "form": "ἐξῇρεν",
+    "postag": "v3siia---",
+    "sentence": "πλὴν τὰ ὑψηλὰ οὐκ ἐξῇρεν, ἔτι ὁ λαὸς ἐθυσίαζε καὶ ἐθυμία ἐν τοῖς ὑψηλοῖς."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "9.5",
+    "form": "ἐξαρθήσεταί",
+    "postag": "v3sfip---",
+    "sentence": "οὐκ ἐξαρθήσεταί σοι ἀνὴρ ἡγούμενος ἐν Ἰσραήλ."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "12.17",
+    "form": "ἐξαρῶ",
+    "postag": "v1sfia---",
+    "sentence": "ἐὰν δὲ μὴ ἐπιστρέψωσι, καὶ ἐξαρῶ τὸ ἔθνος ἐκεῖνο ἐξάρσει καὶ ἀπωλείᾳ."
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "4.22",
+    "form": "ἐξάραι",
+    "postag": "v3saoa---",
+    "sentence": "ἐξάραι αὐτοὺς ἀπὸ τῆς γῆς, ὅτι ψυχὰς ἀκάκων παραλογισμῷ ὑπεκρίνοντο."
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "5.1t",
+    "form": "ἐξῆρται",
+    "postag": "v3srim---",
+    "sentence": "μανη ἠρίθμηται, φαρες ἐξῆρται, θεκελ ἕσταται."
+   },
+   {
+    "work_code": "AMO",
+    "work_ja": "アモス書",
+    "work_src": "Amos",
+    "ref": "6.7",
+    "form": "ἐξαρθήσεται",
+    "postag": "v3sfip---",
+    "sentence": "διὰ τοῦτο νῦν ἀχμάλωτοι ἔσονται ἀπ’ ἀρχῆς δυναστῶν καὶ ἐξαρθήσεται χρεμετισμὸς ἵππων ἐξ Ἐφραίμ."
+   },
+   {
+    "work_code": "ZEC",
+    "work_ja": "ゼカリヤ書",
+    "work_src": "Zacharias",
+    "ref": "5.7",
+    "form": "ἐξαιρόμενον",
+    "postag": "v-sppmnn-",
+    "sentence": "καὶ ἰδοὺ τάλαντον μολίβου ἐξαιρόμενον, καὶ ἰδοὺ γυνὴ μία ἐκάθητο ἐν μέσῳ τοῦ μέτρου."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "1 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "48.1",
+    "form": "ἐξάρωμεν",
+    "postag": "v1pasa---",
+    "sentence": "ἐξάρωμεν οὖν τοῦτο ἐν τάχει καὶ προσπεσωμεν τῷ δεσπότῃ καὶ κλαύσωμεν ἱκετεύοντες αὐτόν, ὅπως ἵλεως γενόμενος ἐπικαταλλαγῇ ἡμῖν καὶ ἐπὶ τὴν σεμνὴν τῆς φιλαδελφίας ἡμῶν ἁγνὴν ἀγωγὴν ἀποκαταστήσῃ ἡμᾶς."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   ἐξ-αίρω     [in LXX for נָסַע, יָרַשׁ hi., כָּרַת ni., מוּת, בָּעַר pi., etc. ;]     to lift up, lift off the earth, remove: I Co 5:13 (LXX)†"
+}

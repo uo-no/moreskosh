@@ -1,0 +1,63 @@
+{
+ "strong": "G1938",
+ "lemma": "ἐπιθυμητής",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 10:6",
+   "form": "ἐπιθυμητὰς",
+   "morph": "N-APM",
+   "gloss_en": "desirers",
+   "gloss_ja": "欲する者",
+   "verse": "Ταῦτα δὲ τύποι ἡμῶν ἐγενήθησαν, εἰς τὸ μὴ εἶναι ἡμᾶς ἐπιθυμητὰς κακῶν, καθὼς κἀκεῖνοι ἐπεθύμησαν."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Numeri": 1,
+   "Proverbia": 1
+  },
+  "representatives": [
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "11.34",
+    "form": "ἐπιθυμητήν",
+    "postag": "n-s---ma-",
+    "sentence": "καὶ ἐκλήθη τὸ ὄνομα τοῦ τόπου ἐκείνου Μνήματα τῆς ἐπιθυμίας, ὅτι ἐκεῖ ἔθαψαν τὸν λαὸν τὸν ἐπιθυμητήν."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "1.22",
+    "form": "ἐπιθυμηταί",
+    "postag": "n-p---mn-",
+    "sentence": "οἱ δὲ ἄφρονες, τῆς ὕβρεως ὄντες ἐπιθυμηταί, ἀσεβεῖς γενόμενοι ἐμίσησαν αἴσθησιν καὶ ὑπεύθυνοι ἐγένοντο ἐλέγχοις, ἰδοὺ προήσομαι ὑμῖν ἐμῆς πνοῆς, διδάξω δὲ ὑμᾶς τὸν ἐμὸν λόγον."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Didache": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DID",
+    "work_ja": "ディダケー",
+    "work_src": "Didache",
+    "ref": "3.3",
+    "form": "ἐπιθυμητής",
+    "postag": "n-s---mn-",
+    "sentence": "τέκνον μου, μὴ γίνου ἐπιθυμητής, ὁδηγεῖ γὰρ ἡ ἐπιθυμία πρὸς τὴν πορνείαν, μη-δὲ αἰσχρολόγος μη-δὲ ὑψηλόφθαλμος ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   ἐπιθυμητής, -οῦ, ὁ    (< ἐπιθυμέω)    [in LXX: Nu 11:34 (אָוָה hithp.); εἶναι ἐ., Pr 1:22 (חָמַד)* ;]     one longing for, lustful after: κακῶν, I Co 10:6.†"
+}

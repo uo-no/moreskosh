@@ -1,0 +1,51 @@
+{
+ "strong": "G2001",
+ "lemma": "ἐπισχύω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 23:5",
+   "form": "ἐπίσχυον",
+   "morph": "V-IAI-3P",
+   "gloss_en": "insisted",
+   "gloss_ja": "強まる",
+   "verse": "οἱ δὲ ἐπίσχυον λέγοντες ὅτι Ἀνασείει τὸν λαὸν διδάσκων καθ’ ὅλης τῆς Ἰουδαίας, καὶ ἀρξάμενος ἀπὸ τῆς Γαλιλαίας ἕως ὧδε."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Machabaeorum i": 1,
+   "Ecclesiasticus sive Siracides": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "6.6",
+    "form": "ἐπίσχυσαν",
+    "postag": "v3paia---",
+    "sentence": "καὶ ἦλθεν ἀπαγγέλλων τις αὐτῷ εἰς τὴν Περσίδα ὅτι τετρόπωνται αἱ παρεμβολαὶ αἱ πορευθεῖσαι εἰς γῆν Ἰούδα, καὶ ἐπορεύθη Λυσίας δυνάμει ἰσχυρᾷ ἐν πρώτοις καὶ ἐνετράπη ἀπὸ προσώπου αὐτῶν, καὶ ἐπίσχυσαν ὅπλοις καὶ δυνάμει καὶ σκύλοις πολλοῖς, οἷς ἔλαβον ἀπὸ τῶν παρεμβολῶν, ὧν ἐξέκοψαν, καὶ καθεῖλον τὸ βδέλυγμα, ὃ ᾠκοδόμησεν ἐπὶ τὸ θυσιαστήριον τὸ ἐν Ἱερουσαλήμ, καὶ τὸ ἁγίασμα καθὼς τὸ πρότερον ἐκύκλωσαν τείχεσιν ὑψηλοῖς καὶ τὴν Βαιθσούραν πόλιν αὐτοῦ."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "29.1",
+    "form": "ἐπισχύων",
+    "postag": "v-sppamn-",
+    "sentence": "ὁ ποιῶν ἔλεος δανειεῖ τῷ πλησίον, καὶ ὁ ἐπισχύων τῇ χειρὶ αὐτοῦ τηρεῖ ἐντολάς."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ** ἐπ-ισχύω     [in LXX: Si 29:1, I Mac 6:6 * ;]    to make stronger (Si, l.c.).      to grow stronger; metaph., be more urgent: Lk 23:5.†"
+}

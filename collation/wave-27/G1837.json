@@ -1,0 +1,61 @@
+{
+ "strong": "G1837",
+ "lemma": "ἐξηχέομαι",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": "εξηχεω",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1TH 1:8",
+   "form": "ἐξήχηται",
+   "morph": "V-RPI-3S",
+   "gloss_en": "sounded forth",
+   "gloss_ja": "鳴り響く",
+   "verse": "ἀφ’ ὑμῶν γὰρ ἐξήχηται ὁ λόγος τοῦ κυρίου οὐ μόνον ἐν τῇ Μακεδονίᾳ καὶ Ἀχαΐᾳ, ἀλλ’ ἐν παντὶ τόπῳ ἡ πίστις ὑμῶν ἡ πρὸς τὸν θεὸν ἐξελήλυθεν, ὥστε μὴ χρείαν ἔχειν ἡμᾶς λαλεῖν τι·"
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Machabaeorum iii": 1,
+   "Ecclesiasticus sive Siracides": 1,
+   "Joel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "3.2",
+    "form": "ἐξηχεῖτο",
+    "postag": "v3siim---",
+    "sentence": "τούτων δὲ οἰκονομουμένων φήμη δυσμενὴς ἐξηχεῖτο κατὰ τοῦ γένους ἀνθρώποις συμφρονοῦσιν εἰς κακοποίησιν, ἀφορμῆς διδομένης εἰς διάθεσιν, ὡς ἂν ἀπὸ τῶν νομίμων αὐτοὺς κωλυόντων."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "40.13",
+    "form": "ἐξηχήσει",
+    "postag": "v3sfia---",
+    "sentence": "χρήματα ἀδίκων ὡς ποταμὸς ξηρανθήσεται καὶ ὡς βροντὴ μεγάλη ἐν ὑετῷ ἐξηχήσει."
+   },
+   {
+    "work_code": "JOL",
+    "work_ja": "ヨエル書",
+    "work_src": "Joel",
+    "ref": "4.14",
+    "form": "ἐξήχησαν",
+    "postag": "v3paia---",
+    "sentence": "ἦχοι ἐξήχησαν ἐν τῇ κοιλάδι τῆς δίκης, ὅτι ἐγγὺς ἡμέρα Κυρίου ἐν τῇ κοιλάδι τῆς δίκης."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1 † ἐξ-ηχέω, -ῶ     [in LXX: Jl 3 (4):14 (הָמוֹן), Si 40:13, III Mac 3:2 * ;]    to sound forth (as a trumpet, or thunder; v. M, Th., l.c.): pass., I Th 1:8.†"
+}

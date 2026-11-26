@@ -1,0 +1,41 @@
+{
+ "strong": "G176",
+ "lemma": "ἀκατάγνωστος",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "TIT 2:8",
+   "form": "ἀκατάγνωστον",
+   "morph": "A-ASM",
+   "gloss_en": "that cannot be condemned",
+   "gloss_ja": "非難できない",
+   "verse": "λόγον ὑγιῆ ἀκατάγνωστον, ἵνα ὁ ἐξ ἐναντίας ἐντραπῇ μηδὲν ἔχων λέγειν περὶ ἡμῶν φαῦλον."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Machabaeorum ii": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "4.47",
+    "form": "ἀκατάγνωστοι",
+    "postag": "a-p---mn-",
+    "sentence": "ὅθεν ἀπολαβὼν ὁ Πτολεμαῖος εἴς τι περίστυλον ὡς ἀναψύξοντα τὸν βασιλέα μετέθηκε, καὶ τὸν μὲν τῆς ὅλης κακίας Μενέλαον ἀπέλυσε τῶν κατηγορημάτων, τοῖς δὲ ταλαιπώροις, οἵτινες, εἰ καὶ ἐπὶ Σκυθῶν ἔλεγον, ἀπελύθησαν ἂν ἀκατάγνωστοι, τούτοις θάνατον ἐπέκρινε."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1  **† ἀ-κατά-γνωστος, -ον    (< καταγινώσκω),   [in LXX: II Mac 4:47 ;]    not open to just rebuke, irreprehensible: Tit 2:8 (v. Cremer, 676; and for other exx., MM, VGT, s.v.).†"
+}

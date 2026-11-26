@@ -1,0 +1,41 @@
+{
+ "strong": "G170",
+ "lemma": "ἀκαιρέομαι",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": "ακαιρεω",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "PHP 4:10",
+   "form": "ἠκαιρεῖσθε",
+   "morph": "V-INI-2P",
+   "gloss_en": "had no opportunity",
+   "gloss_ja": "機会がない",
+   "verse": "Ἐχάρην δὲ ἐν κυρίῳ μεγάλως ὅτι ἤδη ποτὲ ἀνεθάλετε τὸ ὑπὲρ ἐμοῦ φρονεῖν, ἐφ’ ᾧ καὶ ἐφρονεῖτε ἠκαιρεῖσθε δέ."
+  }
+ ],
+ "lxx": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.10.5",
+    "form": "ἀκαιρεθῆναι",
+    "postag": "v--anp---",
+    "sentence": "μικρὸν ἔχω ἀκαιρεθῆναι καὶ πάντα σοι ἐπιλύσω ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1  *† ἀκαιρέομαι, -οῦμαι    (< ἄκαιρος, unseasonable),    to have no opportunity (opp. to εὐκαιρέω): Phl 4:10.†"
+}

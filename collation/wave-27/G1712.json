@@ -1,0 +1,61 @@
+{
+ "strong": "G1712",
+ "lemma": "ἐμπόριον",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JHN 2:16",
+   "form": "ἐμπορίου",
+   "morph": "N-GSN",
+   "gloss_en": "marketplace",
+   "gloss_ja": "市場",
+   "verse": "καὶ τοῖς τὰς περιστερὰς πωλοῦσιν εἶπεν· Ἄρατε ταῦτα ἐντεῦθεν, μὴ ποιεῖτε τὸν οἶκον τοῦ πατρός μου οἶκον ἐμπορίου."
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Deuteronomium": 1,
+   "Isaias": 1,
+   "Ezechiel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "33.19",
+    "form": "ἐμπόρια",
+    "postag": "n-p---nn-",
+    "sentence": "ἔθνη ἐξολοθρεύσουσι, καὶ ἐπικαλέσεσθε ἐκεῖ καὶ θύσετε ἐκεῖ θυσίαν δικαιοσύνης, ὅτι πλοῦτος θαλάσσης θηλάσει σε καὶ ἐμπόρια παράλιον κατοικούντων."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "23.17",
+    "form": "ἐμπόριον",
+    "postag": "n-s---nn-",
+    "sentence": "καὶ ἔσται ἐμπόριον πάσαις ταῖς βασιλείας τῆς οἰκουμένης."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "27.3",
+    "form": "ἐμπορίῳ",
+    "postag": "n-s---nd-",
+    "sentence": "καὶ σὺ υἱὲ ἀνθρώπου, λαβὲ ἐπὶ Σὸρ θρῆνον καὶ ἐρεῖς τῇ Σὸρ τῇ κατοικούσῃ ἐπὶ τῆς εἰσόδου τῆς θαλάσσης, τῷ ἐμπορίῳ τῶν λαῶν ἀπὸ νήσων πολλῶν ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ἐμπόριον, -ον, τό    (ἔμπορος)    [in LXX: De 33:19 (סָפַן), Ez 27:3 (רָכַל); ἐ. εἶναι, Is 23:17 (זָנָה)* ;]     a trading place, exchange: οἶκος ἐμπορίου, Jo 2:16.†"
+}

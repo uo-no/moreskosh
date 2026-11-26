@@ -1,0 +1,69 @@
+{
+ "strong": "G1613",
+ "lemma": "ἐκταράσσω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 16:20",
+   "form": "ἐκταράσσουσιν",
+   "morph": "V-PAI-3P",
+   "gloss_en": "throwing ~ intoconfusion",
+   "gloss_ja": "大いに騒がす",
+   "verse": "καὶ προσαγαγόντες αὐτοὺς τοῖς στρατηγοῖς εἶπαν· Οὗτοι οἱ ἄνθρωποι ἐκταράσσουσιν ἡμῶν τὴν πόλιν Ἰουδαῖοι ὑπάρχοντες,"
+  }
+ ],
+ "lxx": {
+  "total": 4,
+  "works": {
+   "Psalmi": 2,
+   "Sapientia Salomonis": 2
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "17.5",
+    "form": "ἐξετάραξάν",
+    "postag": "v3paia---",
+    "sentence": "περιέσχον με ὠδῖνες θανάτου, καὶ χείμαρροι ἀνομίας ἐξετάραξάν με."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "17.3",
+    "form": "ἐκταρασσόμενοι",
+    "postag": "v-pppmmn-",
+    "sentence": "λανθάνειν γὰρ νομίζοντες ἐπὶ κρυφαίοις ἁμαρτήμασιν, ἀφεγγεῖ λήθης παρακαλύμματι ἐσκορπίσθησαν, θαμβούμενοι δεινῶς καὶ ἰνδάλμασιν ἐκταρασσόμενοι ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "87.17",
+    "form": "ἐξετάραξάν",
+    "postag": "v3paia---",
+    "sentence": "ἐπ’ ἐμὲ διῆλθον αἱ ὀργαί σου, οἱ φοβερισμοί σου ἐξετάραξάν με, ἐκύκλωσάν με ὡσεὶ ὕδωρ ὅλην τὴν ἡμέραν, περιέσχον με ἅμα."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "18.17",
+    "form": "ἐξετάραξαν",
+    "postag": "v3paia---",
+    "sentence": "τότε παραχρῆμα φαντασίαι μὲν ὀνείρων δεινῶς ἐξετάραξαν αὐτούς, φόβοι δὲ ἐπέστησαν ἀδόκητοι, καὶ ἄλλος ἀλλαχῇ ριφεὶς ἡμίθνητος δι’ ἣν ἔθνησκεν αἰτίαν ἐνεφάνιζεν ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ἐκ-ταράσσω     [in LXX: Ps 18:4 (בּﬠת pi.), Ps 88:16 (צמת), Wi 17:3, 4 18:17 * ;]     to throw into great trouble, agitate: Ac 16:20.†"
+}

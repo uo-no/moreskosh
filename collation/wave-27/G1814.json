@@ -1,0 +1,91 @@
+{
+ "strong": "G1814",
+ "lemma": "ἐξάλλομαι",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 3:8",
+   "form": "ἐξαλλόμενος",
+   "morph": "V-PNP-NSM",
+   "gloss_en": "leaping up",
+   "gloss_ja": "跳び上がる",
+   "verse": "καὶ ἐξαλλόμενος ἔστη καὶ περιεπάτει, καὶ εἰσῆλθεν σὺν αὐτοῖς εἰς τὸ ἱερὸν περιπατῶν καὶ ἁλλόμενος καὶ αἰνῶν τὸν θεόν."
+  }
+ ],
+ "lxx": {
+  "total": 6,
+  "works": {
+   "Machabaeorum i": 1,
+   "Michaeas": 1,
+   "Joel": 1,
+   "Nahum": 1,
+   "Habacuc": 1,
+   "Isaias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "13.44",
+    "form": "ἐξήλλοντο",
+    "postag": "v3piim---",
+    "sentence": "καὶ ἐξήλλοντο οἱ ἐν τῇ ἑλεπόλει εἰς τὴν πόλιν, καὶ ἐγένετο κίνημα μέγα ἐν τῇ πόλει."
+   },
+   {
+    "work_code": "MIC",
+    "work_ja": "ミカ書",
+    "work_src": "Michaeas",
+    "ref": "2.12",
+    "form": "ἐξαλοῦνται",
+    "postag": "v3pfim---",
+    "sentence": "ὡς πρόβατα ἐν θλίψει, ὡς ποίμνιον ἐν μέσῳ κοίτης αὐτῶν ἐξαλοῦνται ἐξ ἀνθρώπων ·"
+   },
+   {
+    "work_code": "JOL",
+    "work_ja": "ヨエル書",
+    "work_src": "Joel",
+    "ref": "2.5",
+    "form": "ἐξαλοῦνται",
+    "postag": "v3pfim---",
+    "sentence": "ὡς φωνὴ ἁρμάτων ἐπὶ τὰς κορυφὰς τῶν ὀρέων ἐξαλοῦνται καὶ ὡς φωνὴ φλογὸς πυρὸς κατεσθιούσης καλάμην καὶ ὡς λαὸς πολὺς καὶ ἰσχυρὸς παρατασσόμενος εἰς πόλεμον."
+   },
+   {
+    "work_code": "NAH",
+    "work_ja": "ナホム書",
+    "work_src": "Nahum",
+    "ref": "3.17",
+    "form": "ἐξήλατο",
+    "postag": "v3saim---",
+    "sentence": "ἐξήλατο ὡς ἀττέλεβος ὁ σύμμεικτός σου, ὡς ἀκρὶς ἐπιβεβηκυῖα ἐπὶ φραγμὸν ἐν ἡμέρᾳ πάγους ·"
+   },
+   {
+    "work_code": "HAB",
+    "work_ja": "ハバクク書",
+    "work_src": "Habacuc",
+    "ref": "1.8",
+    "form": "ἐξαλοῦνται",
+    "postag": "v3pfim---",
+    "sentence": "καὶ ἐξαλοῦνται ὑπὲρ παρδάλεις οἱ ἵπποι αὐτοῦ καὶ ὀξύτεροι ὑπὲρ τοὺς λύκους τῆς Ἀραβίας ·"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "55.12",
+    "form": "ἐξαλοῦνται",
+    "postag": "v3pfim---",
+    "sentence": "τὰ γὰρ ὄρη καὶ οἱ βουνοὶ ἐξαλοῦνται προσδεχόμενοι ὑμᾶς ἐν χαρᾷ, καὶ πάντα τὰ ξύλα τοῦ ἀγροῦ ἐπικροτήσει τοῖς κλάδοις, καὶ ἀντὶ τῆς στοιβῆς ἀναβήσεται κυπάρισσος, ἀντὶ δὲ τῆς κονύζης ἀναβήσεται μυρσίνη ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ἐξ-άλλομαι     [in LXX for קָלַל (Hb 1:8), etc. ;]    to leap up: Ac 3:8.†"
+}

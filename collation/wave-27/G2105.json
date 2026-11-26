@@ -1,0 +1,53 @@
+{
+ "strong": "G2105",
+ "lemma": "εὐδία",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MAT 16:2",
+   "form": "Εὐδία",
+   "morph": "N-NSF",
+   "gloss_en": "fair weather",
+   "gloss_ja": "晴天",
+   "verse": "ὁ δὲ ἀποκριθεὶς εἶπεν αὐτοῖς· Ὀψίας γενομένης λέγετε· Εὐδία, πυρράζει γὰρ ὁ οὐρανός·"
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Ecclesiasticus sive Siracides": 1
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "3.15",
+    "form": "εὐδία",
+    "postag": "n-s---fn-",
+    "sentence": "ὡς εὐδία ἐπὶ παγετῷ, οὕτως ἀναλυθήσονταί σου αἱ ἁμαρτίαι."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Ignatius, Letters": 1
+  },
+  "representatives": [
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "6.11.3",
+    "form": "εὐδίαν",
+    "postag": "n-s---fa-",
+    "sentence": "ἐφάνη μοι οὖν θεοῦ ἄξιον πρᾶγμα, πέμψαι τινὰ τῶν ὑμετέρων μετ’ ἐπιστολῆς, ἵνα συνδοξάσῃ τὴν κατὰ θεὸν αὐτοῖς γενομένην εὐδίαν, καὶ ὅτι λιμένος ἤδη ἐτύγχανον τῇ προσευχῇ ὑμῶν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   ** εὐδία, -ας, ἡ     [in LXX: Si 3:15 * ;]    (< εὔδιος, calm)    fair weather: Mt 16:2 (Rec., R, txt.).†"
+}

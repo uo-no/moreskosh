@@ -1,0 +1,51 @@
+{
+ "strong": "G1660",
+ "lemma": "ἔλευσις",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 7:52",
+   "form": "ἐλεύσεως",
+   "morph": "N-GSF",
+   "gloss_en": "coming",
+   "gloss_ja": "来ること",
+   "verse": "τίνα τῶν προφητῶν οὐκ ἐδίωξαν οἱ πατέρες ὑμῶν; καὶ ἀπέκτειναν τοὺς προκαταγγείλαντας περὶ τῆς ἐλεύσεως τοῦ δικαίου οὗ νῦν ὑμεῖς προδόται καὶ φονεῖς ἐγένεσθε,"
+  }
+ ],
+ "lxx": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "1 Clement": 1,
+   "Polycarp, To the Philippians": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "17.1",
+    "form": "ἔλευσιν",
+    "postag": "n-s---fa-",
+    "sentence": "μιμηταὶ γενώμεθα κα-κἀκείνων, οἵτινες ἐν δέρμασιν αἰγείοις καὶ μηλωταῖς περιεπάτησαν κηρύσσοντες τὴν ἔλευσιν τοῦ Χριστοῦ ·"
+   },
+   {
+    "work_code": "PPH",
+    "work_ja": "ポリュカルポスのピリピ書簡",
+    "work_src": "Polycarp, To the Philippians",
+    "ref": "6.3",
+    "form": "ἔλευσιν",
+    "postag": "n-s---fa-",
+    "sentence": "οὕτως οὖν δουλεύσωμεν αὐτῷ μετὰ φόβου καὶ πάσης εὐλαβείας, καθὼς αὐτὸς ἐνετείλατο καὶ οἱ εὐαγγελισάμενοι ἡμᾶς ἀπόστολοι καὶ οἱ προφῆται, οἱ προκηρύξαντες τὴν ἔλευσιν τοῦ κυρίου ἡμῶν ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   *† ἔλευσις, -εως, ἡ   a coming: Ac 7:52.†"
+}

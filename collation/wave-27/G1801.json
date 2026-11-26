@@ -1,0 +1,165 @@
+{
+ "strong": "G1801",
+ "lemma": "ἐνωτίζομαι",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 2:14",
+   "form": "ἐνωτίσασθε",
+   "morph": "V-ADM-2P",
+   "gloss_en": "pay attention to",
+   "gloss_ja": "耳を傾ける",
+   "verse": "Σταθεὶς δὲ ὁ Πέτρος σὺν τοῖς ἕνδεκα ἐπῆρεν τὴν φωνὴν αὐτοῦ καὶ ἀπεφθέγξατο αὐτοῖς· Ἄνδρες Ἰουδαῖοι καὶ οἱ κατοικοῦντες Ἰερουσαλὴμ πάντες, τοῦτο ὑμῖν γνωστὸν ἔστω καὶ ἐνωτίσασθε τὰ ῥήματά μου."
+  }
+ ],
+ "lxx": {
+  "total": 35,
+  "works": {
+   "Genesis": 1,
+   "Exodus": 1,
+   "Numeri": 1,
+   "Judices": 1,
+   "Esdras ii": 1,
+   "Psalmi": 11,
+   "Job": 6,
+   "Sapientia Salomonis": 1,
+   "Ecclesiasticus sive Siracides": 1,
+   "Osee": 1,
+   "Joel": 1,
+   "Isaias": 5,
+   "Jeremias": 3,
+   "Baruch": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "5.2",
+    "form": "ἐνώτισαι",
+    "postag": "v2samm---",
+    "sentence": "τὰ ῥήματά μου ἐνώτισαι, Κύριε, σύνες τῆς κραυγῆς μου ·"
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "32.11",
+    "form": "ἐνωτίζεσθέ",
+    "postag": "v2ppmm---",
+    "sentence": "ἐνωτίζεσθέ μου τὰ ρήματα ·"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "42.23",
+    "form": "ἐνωτιεῖται",
+    "postag": "v3sfim---",
+    "sentence": "τίς ἐν ὑμῖν, ὃς ἐνωτιεῖται ταῦτα;"
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "8.6",
+    "form": "ἐνωτίσασθε",
+    "postag": "v2pamm---",
+    "sentence": "ἐνωτίσασθε δὴ καὶ ἀκούσατε ·"
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "4.23",
+    "form": "ἐνωτίσασθέ",
+    "postag": "v2pamm---",
+    "sentence": "Ἀδὰ καὶ Σελλά, ἀκούσατέ μου τῆς φωνῆς, γυναῖκες Λάμεχ, ἐνωτίσασθέ μου τοὺς λόγους, ὅτι ἄνδρα ἀπέκτεινα εἰς τραῦμα ἐμοὶ καὶ νεανίσκον εἰς μώλωπα ἐμοί, ὅτι ἑπτάκις ἐκδεδίκηται ἐκ Κάϊν, ἐκ δὲ Λάμεχ ἑβδομηκοντάκις ἑπτά."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "15.26",
+    "form": "ἐνωτίσῃ",
+    "postag": "v2sfim---",
+    "sentence": "ἐὰν ἀκοῇ ἀκούσῃς τῆς φωνῆς Κυρίου τοῦ Θεοῦ σου καὶ τὰ ἀρεστὰ ἐναντίον αὐτοῦ ποιήσῃς καὶ ἐνωτίσῃ ταῖς ἐντολαῖς αὐτοῦ καὶ φυλάξῃς πάντα τὰ δικαιώματα αὐτοῦ, πᾶσαν νόσον, ἣν ἐπήγαγον τοῖς Αἰγυπτίοις, οὐκ ἐπάξω ἐπὶ σέ ·"
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "23.18",
+    "form": "ἐνώτισαι",
+    "postag": "v2srim---",
+    "sentence": "ἐνώτισαι μάρτυς, υἱὸς Σεπφώρ."
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "5.3",
+    "form": "ἐνωτίσασθε",
+    "postag": "v2pamm---",
+    "sentence": "ἀκούσατε, βασιλεῖς, καὶ ἐνωτίσασθε, σατράπαι ·"
+   },
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "19.30",
+    "form": "ἠνωτίσαντο",
+    "postag": "v3paim---",
+    "sentence": "καὶ οὐκ ἠνωτίσαντο, καὶ ἔδωκας αὐτοὺς ἐν χειρὶ λαῶν τῆς γῆς."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "6.2",
+    "form": "ἐνωτίσασθε",
+    "postag": "v2pamm---",
+    "sentence": "ἐνωτίσασθε οἱ κρατοῦντες πλήθους καὶ γεγαυρωμένοι ἐπὶ ὄχλοις ἐθνῶν ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "33.19",
+    "form": "ἐνωτίσασθε",
+    "postag": "v2pamm---",
+    "sentence": "ἀκούσατέ μου, μεγιστάνες λαοῦ, καὶ οἱ ἡγούμενοι ἐκκλησίας, ἐνωτίσασθε ·"
+   },
+   {
+    "work_code": "HOS",
+    "work_ja": "ホセア書",
+    "work_src": "Osee",
+    "ref": "5.1",
+    "form": "ἐνωτίζεσθε",
+    "postag": "v2ppmm---",
+    "sentence": "ἀκούσατε ταῦτα, οἱ ἱερεῖς, καὶ προσέχετε, οἶκος Ἰσραήλ, καὶ ὁ οἶκος τοῦ βασιλέως, ἐνωτίζεσθε, διότι πρὸς ὑμᾶς ἐστι τὸ κρίμα ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Barnabas": 1
+  },
+  "representatives": [
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "9.3",
+    "form": "ἐνωτίζου",
+    "postag": "v2spmm---",
+    "sentence": "ἄκουε οὐρανέ, καὶ ἐνωτίζου γῆ, ὅτι κύριος ἐλάλησεν ταῦτα εἰς μαρτύριον."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   † ἐνωτίζομαι    (< οὖς),     depon. mid.,     [in LXX chiefly for אָזַן hi. ;]     to give ear to, hearken to: c. acc, Ac 2:14.†"
+}

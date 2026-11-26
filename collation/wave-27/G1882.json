@@ -1,0 +1,51 @@
+{
+ "strong": "G1882",
+ "lemma": "ἐπανόρθωσις",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2TI 3:16",
+   "form": "ἐπανόρθωσιν",
+   "morph": "N-ASF",
+   "gloss_en": "correction",
+   "gloss_ja": "訂正",
+   "verse": "πᾶσα γραφὴ θεόπνευστος καὶ ὠφέλιμος πρὸς διδασκαλίαν, πρὸς ἐλεγμόν, πρὸς ἐπανόρθωσιν, πρὸς παιδείαν τὴν ἐν δικαιοσύνῃ,"
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Esdras i": 1,
+   "Machabaeorum i": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1ES",
+    "work_ja": "エズラ記（ギリシャ語）",
+    "work_src": "Esdras i",
+    "ref": "8.52",
+    "form": "ἐπανόρθωσιν",
+    "postag": "n-s---fa-",
+    "sentence": "εἴπαμεν γὰρ τῷ βασιλεῖ, ὅτι ἡ ἰσχὺς τοῦ Κυρίου ἡμῶν ἔσται μετά τῶν ἐπιζητούντων αὐτὸν εἰς πᾶσαν ἐπανόρθωσιν."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "14.34",
+    "form": "ἐπανόρθωσιν",
+    "postag": "n-s---fa-",
+    "sentence": "καὶ Ἰόππην ὠχύρωσε τὴν ἐπὶ τῆς θαλάσσης καὶ τὴν Γάζαρα τὴν ἐπὶ τῶν ὁρίων Ἀζώτου, ἐν ᾗ ᾤκουν οἱ πολέμιοι τὸ πρότερον ἐκεῖ, καὶ κατῴκισεν ἐκεῖ Ἰουδαίους, καὶ ὅσα ἐπιτήδεια ἦν πρὸς τὴν τούτων ἐπανόρθωσιν, ἔθετο ἐν αὐτοῖς."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ** ἐπ-αν-όρθωσις, -εως, ἡ    (< ἐπανορθόω, to correct, restore; cf. II Mac 2:22)    [in LXX: I Es 8:52, I Mac 14:34 * ;]    correction: of life, II Ti 3:16 (cf. MM, Exp., xiv).†"
+}

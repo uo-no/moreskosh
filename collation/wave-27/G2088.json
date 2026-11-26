@@ -1,0 +1,259 @@
+{
+ "strong": "G2088",
+ "lemma": "ἑτέρως",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": "ετερος",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "PHP 3:15",
+   "form": "ἑτέρως",
+   "morph": "ADV",
+   "gloss_en": "differently",
+   "gloss_ja": "別様に",
+   "verse": "ὅσοι οὖν τέλειοι, τοῦτο φρονῶμεν· καὶ εἴ τι ἑτέρως φρονεῖτε, καὶ τοῦτο ὁ θεὸς ὑμῖν ἀποκαλύψει·"
+  }
+ ],
+ "lxx": {
+  "total": 261,
+  "works": {
+   "Genesis": 17,
+   "Exodus": 19,
+   "Leviticus": 3,
+   "Numeri": 4,
+   "Deuteronomium": 25,
+   "Josue": 4,
+   "Judices": 7,
+   "Ruth": 2,
+   "Regnorum i": 6,
+   "Regnorum ii": 2,
+   "Regnorum iii": 4,
+   "Regnorum iv": 6,
+   "Paralipomenon i sive Chronicon i": 3,
+   "Paralipomenon ii sive Chronicon ii": 4,
+   "Esdras i": 9,
+   "Esdras ii": 2,
+   "Esther": 1,
+   "Judith": 1,
+   "Tobias": 8,
+   "Machabaeorum i": 6,
+   "Machabaeorum ii": 14,
+   "Machabaeorum iii": 1,
+   "Machabaeorum iv": 1,
+   "Psalmi": 6,
+   "Ecclesiastes": 1,
+   "Job": 6,
+   "Sapientia Salomonis": 4,
+   "Ecclesiasticus sive Siracides": 9,
+   "Psalmi Salomonis": 1,
+   "Osee": 1,
+   "Amos": 1,
+   "Joel": 1,
+   "Zacharias": 2,
+   "Isaias": 17,
+   "Jeremias": 16,
+   "Baruch": 3,
+   "Ezechiel": 9,
+   "Susanna": 9,
+   "Daniel": 26
+  },
+  "representatives": [
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "11.4",
+    "form": "ἑτέροις",
+    "postag": "p-p---md-",
+    "sentence": "ὅτι ἐκτιλήσεται ἡ βασιλεία αὐτοῦ καὶ ἑτέροις ἐκτὸς τούτων."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "28.30",
+    "form": "ἕτερος",
+    "postag": "p-s---mn-",
+    "sentence": "γυναῖκα λήψῃ, καὶ ἀνὴρ ἕτερος ἕξει αὐτήν ·"
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "20.3",
+    "form": "ἕτεροι",
+    "postag": "p-p---mn-",
+    "sentence": "οὐκ ἔσονταί σοι θεοὶ ἕτεροι πλὴν ἐμοῦ."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "30.24",
+    "form": "ἕτερον",
+    "postag": "p-s---ma-",
+    "sentence": "προσθέτω ὁ Θεός μοι υἱὸν ἕτερον."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "47.10",
+    "form": "ἑτέρα",
+    "postag": "p-s---fn-",
+    "sentence": "ἐγώ εἰμι, καὶ οὐκ ἔστιν ἑτέρα."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "3.1",
+    "form": "ἑτέρῳ",
+    "postag": "p-s---md-",
+    "sentence": "ἐὰν ἐξαποστείλῃ ἀνὴρ τὴν γυναῖκα αὐτοῦ, καὶ ἀπέλθῃ ἀπ’ αὐτοῦ καὶ γένηται ἀνδρί ἑτέρῳ, μὴ ἀνακάμπτουσα ἀνακάμψει πρὸς αὐτὸν ἔτι;"
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "2.3",
+    "form": "ἕτερα",
+    "postag": "p-p---na-",
+    "sentence": "καὶ ἕτερα τοιαῦτα λέγων παρεκάλει μὴ ἀποστῆναι τὸν νόμον ἀπὸ τῆς καρδίας αὐτῶν."
+   },
+   {
+    "work_code": "1ES",
+    "work_ja": "エズラ記（ギリシャ語）",
+    "work_src": "Esdras i",
+    "ref": "3.5",
+    "form": "ἑτέρου",
+    "postag": "p-s---mg-",
+    "sentence": "καὶ οὗ ἐὰν φανῇ τὸ ρῆμα αὐτοῦ σοφώτερον τοῦ ἑτέρου, δώσει αὐτῷ Δαρεῖος ὁ βασιλεὺς δωρεὰς μεγάλας καὶ ἐπινίκια μεγάλα καὶ πορφύραν περιβαλέσθαι καὶ ἐν χρυσώμασι πίνειν καὶ ἐπὶ χρυσῷ καθεύδεν καὶ ἅρμα χρυσοχάλινον καὶ κίδαριν βυσσίνην καὶ μανιάκην περὶ τὸν τράχηλον, καὶ δεύτερος καθιεῖται Δαρείου διὰ τὴν σοφίαν αὐτοῦ καὶ συγγενὴς Δαρείου κληθήσεται."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "11.6",
+    "form": "ἑτέρων",
+    "postag": "p-p---mg-",
+    "sentence": "πολλοὶ δυνάσται ἠτιμάσθησαν σφόδρα, καὶ ἔνδοξοι παρεδόθησαν εἰς χεῖρας ἑτέρων."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "3.13",
+    "form": "ἑτέραν",
+    "postag": "p-s---fa-",
+    "sentence": "καὶ εἶδον φωνὴν τῶν πτερύγων τῶν ζῴων πτερυσσομένων ἑτέρα πρὸς τὴν ἑτέραν, καὶ φωνὴ τῶν τροχῶν ἐχομένη αὐτῶν καὶ φωνὴ τοῦ σεισμοῦ."
+   },
+   {
+    "work_code": "SUS",
+    "work_ja": "スザンナ（Th）",
+    "work_src": "Susanna",
+    "ref": "19",
+    "form": "ἑτέρῳ",
+    "postag": "p-s---md-",
+    "sentence": "καὶ εἶπεν εἷς τῷ ἑτέρῳ Πορευθῶμεν πρὸς αὐτήν ·"
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "6.15",
+    "form": "ἕτερος",
+    "postag": "p-s---mn-",
+    "sentence": "καὶ υἱὸς ἕτερος οὐχ ὑπάρχει αὐτοῖς, ὃς θάψει αὐτούς."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 83,
+  "works": {
+   "Barnabas": 5,
+   "1 Clement": 9,
+   "2 Clement": 1,
+   "Didache": 2,
+   "To Diognetus": 1,
+   "Hermas, Pastor": 58,
+   "Martyrdom of Polycarp": 7
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "25.1.8",
+    "form": "ἕτεροι",
+    "postag": "p-p---mn-",
+    "sentence": "ἕτεροι δὲ ἐπεδίδουν ἡμιξήρους ·"
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "29.3",
+    "form": "ἑτέρῳ",
+    "postag": "p-s---md-",
+    "sentence": "καὶ ἐν ἑτέρῳ τόπῳ λέγει ·"
+   },
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "7.1",
+    "form": "ἕτερον",
+    "postag": "p-s---na-",
+    "sentence": "κα-κἀκεῖθεν δὲ ἠδύνατο εἰς ἕτερον χωρίον ἀπελθεῖν, ἀλλ’ οὐκ ἠβουλήθη εἰπών ·"
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "11.9",
+    "form": "ἕτερος",
+    "postag": "p-s---mn-",
+    "sentence": "καὶ πάλιν ἕτερος προφήτης λέγει."
+   },
+   {
+    "work_code": "DID",
+    "work_ja": "ディダケー",
+    "work_src": "Didache",
+    "ref": "11.12",
+    "form": "ἕτερά",
+    "postag": "p-p---na-",
+    "sentence": "δός μοι ἀργύρια ἢ ἕτερά τινα, οὐκ ἀκούσεσθε αὐτοῦ ·"
+   },
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "2.4",
+    "form": "ἑτέρα",
+    "postag": "p-s---fn-",
+    "sentence": "καὶ ἑτέρα δὲ γραφὴ λέγει, ὅτι οὐκ ἦλθον καλέσαι δικαίους, ἀλλὰ ἁμαρτωλούς ·"
+   },
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "10",
+    "form": "ἕτερον",
+    "postag": "p-s---ma-",
+    "sentence": "ἀλλ’ ὅστις τὸ τοῦ πλησίον ἀναδέχεται βάρος, ὃς ἐν ᾧ κρείσσων ἐστὶν ἕτερον τὸν ἐλαττούμενον εὐεργετεῖν ἐθέλει, ὃς ἃ παρὰ τοῦ Θεοῦ λαβὼν ἔχει, ταῦτα τοῖς ἐπιδεομένοις χορηγῶν Θεὸς γίνεται τῶν λαμβανόντων, οὗτος μιμητής ἐστι Θεοῦ."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "3.8.5",
+    "form": "ἕτεραι",
+    "postag": "p-p---fn-",
+    "sentence": "αἱ δὲ ἕτεραι, κυρία, τίνες εἰσίν;"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   ἑτέρως      adv.,    differently, otherwise: Phl 3:15.†"
+}

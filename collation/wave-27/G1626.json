@@ -1,0 +1,73 @@
+{
+ "strong": "G1626",
+ "lemma": "ἔκτρωμα",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 15:8",
+   "form": "ἐκτρώματι",
+   "morph": "N-DSN",
+   "gloss_en": "untimely born",
+   "gloss_ja": "流産",
+   "verse": "ἔσχατον δὲ πάντων ὡσπερεὶ τῷ ἐκτρώματι ὤφθη κἀμοί."
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Numeri": 1,
+   "Ecclesiastes": 1,
+   "Job": 1
+  },
+  "representatives": [
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "12.12",
+    "form": "ἔκτρωμα",
+    "postag": "n-s---nn-",
+    "sentence": "μὴ γένηται ὡσεὶ ἴσον θανάτῳ, ὡσεὶ ἔκτρωμα ἐκπορευόμενον ἐκ μήτρας μητρὸς καὶ κατεσθίει τὸ ἥμισυ τῶν σαρκῶν αὐτῆς."
+   },
+   {
+    "work_code": "ECC",
+    "work_ja": "コヘレトの言葉",
+    "work_src": "Ecclesiastes",
+    "ref": "6.3",
+    "form": "ἔκτρωμα",
+    "postag": "n-s---nn-",
+    "sentence": "ἀγαθὸν ὑπὲρ αὐτὸν τὸ ἔκτρωμα, ὅτι ἐν ματαιότητι ἦλθε καὶ ἐν σκότει πορεύεται, καὶ ἐν σκότει ὄνομα αὐτοῦ καλυφθήσεται."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "3.16",
+    "form": "ἔκτρωμα",
+    "postag": "n-s---nn-",
+    "sentence": "νῦν ἂν κοιμηθεὶς ἡσύχασα, ὑπνώσας δὲ ἀνεπαυσάμην μετὰ βασιλέων βουλευτῶν γῆς, οἳ ἐγαυριῶντο ἐπὶ ξίφεσιν, ἢ μετὰ ἀρχόντων, ὧν πολὺς ὁ χρυσός, οἳ ἔπλησαν τοὺς οἴκους αὐτῶν ἀργυρίου, ἢ ὥσπερ ἔκτρωμα ἐκπορευόμενον ἐκ μήτρας μητρός, ἢ ὥσπερ νήπιοι, οἳ οὐκ εἶδον φῶς."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Ignatius, Letters": 1
+  },
+  "representatives": [
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "4.9.2",
+    "form": "ἔκτρωμα",
+    "postag": "n-s---nn-",
+    "sentence": "οὐ-δὲ γὰρ ἄξιός εἰμι, ὣν ἔσχατος αὐτῶν καὶ ἔκτρωμα ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   ἔκ-τρωμα, -τος, τό    (< ἐκτιτρώσκω, to miscarry),    [in LXX: Jb 3:16, Ec 6:3 (נָפַל; also in Aq., Ps 58:9, Nu 12:12 (מוּת) * ;]     an abortion, an untimely birth (v. Field, Notes, 179): I Co 15:8.†"
+}

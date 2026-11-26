@@ -1,0 +1,62 @@
+{
+ "strong": "G1770",
+ "lemma": "ἐννεύω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 1:62",
+   "form": "ἐνένευον",
+   "morph": "V-IAI-3P",
+   "gloss_en": "made signs",
+   "gloss_ja": "合図する",
+   "verse": "ἐνένευον δὲ τῷ πατρὶ αὐτοῦ τὸ τί ἂν θέλοι καλεῖσθαι αὐτό."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Proverbia": 2
+  },
+  "representatives": [
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "6.13",
+    "form": "ἐννεύει",
+    "postag": "v3spia---",
+    "sentence": "ὁ δ’ αὐτὸς ἐννεύει ὀφθαλμῷ, σημαίνει δὲ ποδί, διδάσκει δὲ ἐννεύμασι δακτύλων."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "10.10",
+    "form": "ἐννεύων",
+    "postag": "v-sppamn-",
+    "sentence": "ὁ ἐννεύων ὀφθαλμοῖς μετὰ δόλου, συνάγει ἀνδράσι λύπας, ὁ δὲ ἐλέγχων μετὰ παρρησίας, εἰρηνοποιεῖ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "3.1.9",
+    "form": "ἐννεύει",
+    "postag": "v3spia---",
+    "sentence": "θέλοντος οὖν μου καθίσαι εἰς τὰ δεξιὰ μέρη οὐκ εἴασέ με, ἀλλ’ ἐννεύει μοι τῇ χειρί, ἵνα εἰς τὰ ἀριστερὰ μέρη καθίσω."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   ἐν-νεύω     [in LXX: Pr 6:13 10:10 (קָרַץ), Si 27:22 A * ;]     to nod to, make a sign to: c. dat. pers., Lk 1:62.†"
+}

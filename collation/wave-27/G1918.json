@@ -1,0 +1,144 @@
+{
+ "strong": "G1918",
+ "lemma": "ἐπιγαμβρεύω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MAT 22:24",
+   "form": "ἐπιγαμβρεύσει",
+   "morph": "V-FAI-3S",
+   "gloss_en": "marry",
+   "gloss_ja": "義兄弟の婚",
+   "verse": "λέγοντες· Διδάσκαλε, Μωϋσῆς εἶπεν· Ἐάν τις ἀποθάνῃ μὴ ἔχων τέκνα, ἐπιγαμβρεύσει ὁ ἀδελφὸς αὐτοῦ τὴν γυναῖκα αὐτοῦ καὶ ἀναστήσει σπέρμα τῷ ἀδελφῷ αὐτοῦ."
+  }
+ ],
+ "lxx": {
+  "total": 14,
+  "works": {
+   "Genesis": 2,
+   "Regnorum i": 8,
+   "Paralipomenon ii sive Chronicon ii": 1,
+   "Esdras ii": 1,
+   "Machabaeorum i": 2
+  },
+  "representatives": [
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "18.23",
+    "form": "ἐπιγαμβρεῦσαι",
+    "postag": "v--ana---",
+    "sentence": "εἰ κοῦφον ἐν ὀφθαλμοῖς ὑμῶν ἐπιγαμβρεῦσαι βασιλεῖ;"
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "34.9",
+    "form": "ἐπιγαμβρεύσασθε",
+    "postag": "v2pamm---",
+    "sentence": "δότε οὖν αὐτὴν αὐτῷ γυναῖκα καὶ ἐπιγαμβρεύσασθε ἡμῖν ·"
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "10.56",
+    "form": "ἐπιγαμβρεύσω",
+    "postag": "v1sfia---",
+    "sentence": "καὶ νῦν ποιήσω σοι ἃ ἔγραψας, ἀλλ’ ἀπάντησον εἰς Πτολεμαΐδα, ὅπως ἴδωμεν ἀλλήλους, καὶ ἐπιγαμβρεύσω σοι, καθὼς εἴρηκας )."
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "18.1",
+    "form": "ἐπεγαμβρεύσατο",
+    "postag": "v3saim---",
+    "sentence": "καὶ ἐγενήθη τῷ Ἰωσαφὰτ ἔτι πλοῦτος καὶ δόξα πολλή, καὶ ἐπεγαμβρεύσατο ἐν οἴκῳ Ἀχαάβ."
+   },
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "9.14",
+    "form": "ἐπιγαμβρεῦσαι",
+    "postag": "v--ana---",
+    "sentence": "ὅτι ἐπεστρέψαμεν διασκεδάσαι ἐντολάς σου καὶ ἐπιγαμβρεῦσαι τοῖς λαοῖς τῶν γαιῶν ·"
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "18.19",
+    "form": "ἐπιγάμβρευσον",
+    "postag": "v2sama---",
+    "sentence": "ἐν σοὶ ὁ βασιλεύς, καὶ πάντες οἱ παῖδες αὐτοῦ ἀγαπῶσί σε, καὶ σὺ ἐπιγάμβρευσον τῷ βασιλεῖ."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "38.8",
+    "form": "ἐπιγάμβρευσαι",
+    "postag": "v2samm---",
+    "sentence": "εἴσελθε πρὸς τὴν γυναῖκα τοῦ ἀδελφοῦ σου καὶ ἐπιγάμβρευσαι αὐτὴν καὶ ἀνάστησον σπέρμα τῷ ἀδελφῷ σου."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "10.54",
+    "form": "ἐπιγαμβρεύσω",
+    "postag": "v1sfia---",
+    "sentence": "καὶ νῦν στήσωμεν πρὸς ἑαυτοὺς φιλίαν, καὶ νῦν δός μοι τὴν θυγατέρα σου εἰς γυναῖκα, καὶ ἐπιγαμβρεύσω σοι καὶ δώσω σοι δόματα καὶ αὐτῇ ἄξιά σου )."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "18.27",
+    "form": "ἐπιγαμβρεύεται",
+    "postag": "v3spim---",
+    "sentence": "καὶ ἐπιγαμβρεύεται τῷ βασιλεῖ καὶ δίδωσιν αὐτῷ τὴν Μελχὸλ θυγατέρα αὐτοῦ αὐτῷ εἰς γυναῖκα."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "18.23b",
+    "form": "ἐπιγαμβρεῦσαι",
+    "postag": "v--ana---",
+    "sentence": "εἰ κοῦφον ἐν ὀφθαλμοῖς ὑμῶν ἐπιγαμβρεῦσαι βασιλεῖ;"
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "18.27b",
+    "form": "ἐπιγαμβρεύεται",
+    "postag": "v3spim---",
+    "sentence": "καὶ ἐπιγαμβρεύεται τῷ βασιλεῖ καὶ δίδωσιν αὐτῷ τὴν Μελχὸλ θυγατέρα αὐτοῦ αὐτῷ εἰς γυναῖκα."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "18.22",
+    "form": "ἐπιγάμβρευσον",
+    "postag": "v2sama---",
+    "sentence": "ἰδοὺ θέλει ἐν σοὶ ὁ βασιλεύς, καὶ πάντες οἱ παῖδες αὐτοῦ ἀγαπῶσί σε, καὶ σὺ ἐπιγάμβρευσον τῷ βασιλεῖ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   † ἐπι-γαμβρεύω    (< γαμβρός, a connection by marriage)    [in LXX: Ge 34:9, I Ki 18:21 ff., II Ch 18:1, Es 9:14 (חָתַן hithp.), Ge 38:8 R (יָבַם pi.), I Mac 10:54, 56 * ;]     to enter into affinity with: c. dat. (LXX, ll. c., exc. Ge 38:8).    to marry (as deceased husband's next of kin, cf. Ge 38:8): c. acc, Mt 22:24.†"
+}

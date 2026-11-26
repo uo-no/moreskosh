@@ -1,0 +1,203 @@
+{
+ "strong": "G1873",
+ "lemma": "ἐπακούω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2CO 6:2",
+   "form": "ἐπήκουσά",
+   "morph": "V-AAI-1S",
+   "gloss_en": "listened to",
+   "gloss_ja": "聞き届ける",
+   "verse": "λέγει γάρ· Καιρῷ δεκτῷ ἐπήκουσά σου καὶ ἐν ἡμέρᾳ σωτηρίας ἐβοήθησά σοι· ἰδοὺ νῦν καιρὸς εὐπρόσδεκτος, ἰδοὺ νῦν ἡμέρα σωτηρίας·"
+  }
+ ],
+ "lxx": {
+  "total": 99,
+  "works": {
+   "Genesis": 9,
+   "Josue": 1,
+   "Regnorum i": 4,
+   "Regnorum ii": 4,
+   "Regnorum iii": 7,
+   "Regnorum iv": 1,
+   "Paralipomenon i sive Chronicon i": 3,
+   "Paralipomenon ii sive Chronicon ii": 11,
+   "Esdras ii": 1,
+   "Esther": 1,
+   "Judith": 1,
+   "Machabaeorum ii": 1,
+   "Psalmi": 23,
+   "Proverbia": 2,
+   "Ecclesiastes": 1,
+   "Job": 4,
+   "Ecclesiasticus sive Siracides": 3,
+   "Psalmi Salomonis": 4,
+   "Osee": 4,
+   "Michaeas": 1,
+   "Zacharias": 2,
+   "Isaias": 7,
+   "Daniel": 4
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "98.8",
+    "form": "ἐπήκουσε",
+    "postag": "v3saia---",
+    "sentence": "Κύριε ὁ Θεὸς ἡμῶν, σὺ ἐπήκουσε αὐτῶν ·"
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "24.17",
+    "form": "ἐπήκουσεν",
+    "postag": "v3saia---",
+    "sentence": "τότε ἐπήκουσεν αὐτοῖς ὁ βασιλεύς."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "17.20",
+    "form": "ἐπήκουσά",
+    "postag": "v1saia---",
+    "sentence": "περὶ δὲ Ἰσμαὴλ ἰδοὺ ἐπήκουσά σου ·"
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "18.26",
+    "form": "ἐπάκουσον",
+    "postag": "v2sama---",
+    "sentence": "ἐπάκουσον ἡμῶν, ὁ Βάαλ, ἐπάκουσον ἡμῶν ·"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "10.30",
+    "form": "ἐπακούσεται",
+    "postag": "v3sfim---",
+    "sentence": "φεύξεται ἡ θυγάτηρ Γαλλείμ, ἐπακούσεται Λαϊσά, ἐπακούσεται Ἀναθώθ ·"
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "28.15",
+    "form": "ἐπακήκοέ",
+    "postag": "v3sria---",
+    "sentence": "θλίβομαι σφόδρα, καὶ οἱ ἀλλόφυλοι πολεμοῦσιν ἐν ἐμοί, καὶ ὁ Θεὸς ἀφέστηκεν ἀπ’ ἐμοῦ καὶ οὐκ ἐπακήκοέ μοι ἔτι καὶ ἐν χειρὶ τῶν προφητῶν καὶ ἐν τοῖς ἐνυπνίοις ·"
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "21.14",
+    "form": "ἐπήκουσεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἐπήκουσεν ὁ Θεὸς τῇ γῇ μετὰ ταῦτα."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "37.23",
+    "form": "ἐπακούειν",
+    "postag": "v--pna---",
+    "sentence": "ὁ τὰ δίκαια κρίνων, οὐκ οἴει ἐπακούειν αὐτόν;"
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "1.2",
+    "form": "Ἐπακούσεταί",
+    "postag": "v3sfim---",
+    "sentence": "εἶπα Ἐπακούσεταί μου, ὅτι ἐπλήσθην δικαιοσύνης."
+   },
+   {
+    "work_code": "HOS",
+    "work_ja": "ホセア書",
+    "work_src": "Osee",
+    "ref": "2.23",
+    "form": "ἐπακούσομαι",
+    "postag": "v1sfim---",
+    "sentence": "καὶ ἔσται ἐν ἐκείνῃ τῇ ἡμέρᾳ, λέγει Κύριος, ἐπακούσομαι τῷ οὐρανῷ, καὶ αὐτὸς ἐπακούσεται τῇ γῇ, καὶ ἡ γῆ ἐπακούσεται τὸν σῖτον καὶ τὸν οἶνον καὶ τὸ ἔλαιον, καὶ αὐτὰ ἐπακούσεται τῷ Ἰεζραέλ."
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "9.18",
+    "form": "ἐπάκουσόν",
+    "postag": "v2sama---",
+    "sentence": "πρόσχες, κύριε, τὸ οὖς σου καὶ ἐπάκουσόν μου ·"
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "21.28",
+    "form": "ἐπήκουσεν",
+    "postag": "v3saia---",
+    "sentence": "ἐν τῷ καιρῷ ἐκείνῳ ἐν τῷ ἰδεῖν τὸν Δαυὶδ ὅτι ἐπήκουσεν αὐτῷ Κύριος ἐν ἅλῳ Ὀρνὰ τοῦ Ἰεβουσαίου, καὶ ἐθυσίασεν ἐκεῖ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 4,
+  "works": {
+   "Barnabas": 2,
+   "1 Clement": 1,
+   "Ignatius, Letters": 1
+  },
+  "representatives": [
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "3.5",
+    "form": "ἐπακούσεταί",
+    "postag": "v3sfim---",
+    "sentence": "τότε βοήσεις, καὶ ὁ θεὸς ἐπακούσεταί σου, ἔτι λαλοῦντός σου ἐρεῖ ·"
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "8.3",
+    "form": "ἐπακούσομαι",
+    "postag": "v1sfim---",
+    "sentence": "ἐπακούσομαι ὑμῶν ὡς λαοῦ ἁγίου."
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "2.3.2",
+    "form": "ἐπακούειν",
+    "postag": "v--pna---",
+    "sentence": "εἰς τιμὴν οὖν ἐκείνου τοῦ θελήσαντος ἡμᾶς πρέπον ἐστὶν ἐπακούειν κατὰ μηδεμίαν ὑπόκρισιν ·"
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "12.11",
+    "form": "ἐπακοῦσαι",
+    "postag": "v--ana---",
+    "sentence": "οὗ ἐκράτησα τῆς δεξιᾶς αὐτοῦ, ἐπακοῦσαι ἔμπροσθεν αὐτοῦ ἔθνη, καὶ ἰσχὺν βασιλέων διαρρήξω."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   ἐπ-ακούω     [in LXX for שָׁמַע, עָנָה, etc. ;]    to listen to.    to hearken to, hear with favour (one's prayer): c. gen. pers., II Co 6:2 (LXX).†"
+}

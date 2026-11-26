@@ -1,0 +1,41 @@
+{
+ "strong": "G1815",
+ "lemma": "ἐξανάστασις",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "PHP 3:11",
+   "form": "ἐξανάστασιν",
+   "morph": "N-ASF",
+   "gloss_en": "resurrection",
+   "gloss_ja": "復活",
+   "verse": "εἴ πως καταντήσω εἰς τὴν ἐξανάστασιν τὴν ἐκ νεκρῶν."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Genesis": 1
+  },
+  "representatives": [
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "7.4",
+    "form": "ἐξανάστασιν",
+    "postag": "n-s---fa-",
+    "sentence": "ἔτι γὰρ ἡμερῶν ἑπτὰ ἐγὼ ἐπάγω ὑετὸν ἐπὶ τὴν γῆν τεσσαράκοντα ἡμέρας καὶ τεσσαράκοντα νύκτας καὶ ἐξαλείψω πᾶσαν τὴν ἐξανάστασιν, ἣν ἐποίησα, ἀπὸ προσώπου τῆς γῆς."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   * ἐξ-ανάστασις, -εως, ἡ    (< ἐξανίστημι),     a rising again: ἐκ τ. νεκρῶν, Phl 3:11 (Cremer, 308).†"
+}

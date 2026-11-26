@@ -1,0 +1,61 @@
+{
+ "strong": "G1847",
+ "lemma": "ἐξουδενέω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MRK 9:12",
+   "form": "ἐξουδενηθῇ",
+   "morph": "V-APS-3S",
+   "gloss_en": "treated with contempt",
+   "gloss_ja": "軽蔑する",
+   "verse": "ὁ δὲ ἔφη αὐτοῖς· Ἠλίας μὲν ἐλθὼν πρῶτον ἀποκαθιστάνει πάντα, καὶ πῶς γέγραπται ἐπὶ τὸν υἱὸν τοῦ ἀνθρώπου ἵνα πολλὰ πάθῃ καὶ ἐξουδενηθῇ;"
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Machabaeorum i": 1,
+   "Malachias": 1,
+   "Ezechiel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "3.14",
+    "form": "ἐξουδενοῦντας",
+    "postag": "v-pppama-",
+    "sentence": "ποιήσω ἐμαυτῷ ὄνομα καὶ δοξασθήσομαι ἐν τῇ βασιλείᾳ καὶ πολεμήσω τὸν Ἰούδαν καὶ τοὺς σὺν αὐτῷ τοὺς ἐξουδενοῦντας τὸν λόγον τοῦ βασιλέως."
+   },
+   {
+    "work_code": "MAL",
+    "work_ja": "マラキ書",
+    "work_src": "Malachias",
+    "ref": "2.9",
+    "form": "ἐξουδενουμένους",
+    "postag": "v-pppmma-",
+    "sentence": "κα-κἀγὼ δέδωκα ὑμᾶς ἐξουδενουμένους καὶ ἀπερριμμένους εἰς πάντα τὰ ἔθνη, ἀνθ’ ὧν ὑμεῖς οὐκ ἐφυλάξασθε τὰς ὁδούς μου, ἀλλὰ ἐλαμβάνετε πρόσωπα ἐν νόμῳ."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "21.10",
+    "form": "ἐξουδένει",
+    "postag": "v2spma---",
+    "sentence": "ρομφαία ρομφαία, ὀξύνου καὶ θυμώθητι, ὅπως σφάξῃς σφάγια, ὀξύνου ὅπως γένῃ εἰς στίλβωσιν, ἑτοίμη εἰς παράλυσιν, σφάζε, ἐξουδένει, ἀπωθοῦ πᾶν ξύλον."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   † ἐξ-ουδενέω    (Rec. -όω; T, -θενόω), -ῶ,    [in LXX (with vv. ll. -όω, -θενέω, -θενόω) for בּוּז, בָּזָה, מָאַס, בּוּס, etc. ;]    to despise, set at nought: Mk 9:12 (cf. ἐξουθενέω).†"
+}
