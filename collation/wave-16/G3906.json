@@ -1,0 +1,128 @@
+{
+ "strong": "G3906",
+ "lemma": "παρατηρέω",
+ "nt_freq": 6,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 9:24",
+   "form": "παρετηροῦντο",
+   "morph": "V-IMI-3P",
+   "gloss_en": "watching",
+   "gloss_ja": "見張る",
+   "verse": "ἐγνώσθη δὲ τῷ Σαύλῳ ἡ ἐπιβουλὴ αὐτῶν. παρετηροῦντο δὲ καὶ τὰς πύλας ἡμέρας τε καὶ νυκτὸς ὅπως αὐτὸν ἀνέλωσιν·"
+  },
+  {
+   "ref": "GAL 4:10",
+   "form": "παρατηρεῖσθε",
+   "morph": "V-PMI-2P",
+   "gloss_en": "observe",
+   "gloss_ja": "見張る",
+   "verse": "ἡμέρας παρατηρεῖσθε καὶ μῆνας καὶ καιροὺς καὶ ἐνιαυτούς."
+  },
+  {
+   "ref": "LUK 14:1",
+   "form": "παρατηρούμενοι",
+   "morph": "V-PMP-NPM",
+   "gloss_en": "watching ~ closely",
+   "gloss_ja": "見張る",
+   "verse": "Καὶ ἐγένετο ἐν τῷ ἐλθεῖν αὐτὸν εἰς οἶκόν τινος τῶν ἀρχόντων τῶν Φαρισαίων σαββάτῳ φαγεῖν ἄρτον καὶ αὐτοὶ ἦσαν παρατηρούμενοι αὐτόν."
+  },
+  {
+   "ref": "LUK 20:20",
+   "form": "παρατηρήσαντες",
+   "morph": "V-AAP-NPM",
+   "gloss_en": "watched",
+   "gloss_ja": "見張る",
+   "verse": "Καὶ παρατηρήσαντες ἀπέστειλαν ἐγκαθέτους ὑποκρινομένους ἑαυτοὺς δικαίους εἶναι, ἵνα ἐπιλάβωνται αὐτοῦ λόγου, ὥστε παραδοῦναι αὐτὸν τῇ ἀρχῇ καὶ τῇ ἐξουσίᾳ τοῦ ἡγεμόνος."
+  },
+  {
+   "ref": "LUK 6:7",
+   "form": "παρετηροῦντο",
+   "morph": "V-IMI-3P",
+   "gloss_en": "watched",
+   "gloss_ja": "見張る",
+   "verse": "παρετηροῦντο δὲ οἱ γραμματεῖς καὶ οἱ Φαρισαῖοι εἰ ἐν τῷ σαββάτῳ θεραπεύει, ἵνα εὕρωσιν κατηγορεῖν αὐτοῦ."
+  },
+  {
+   "ref": "MRK 3:2",
+   "form": "παρετήρουν",
+   "morph": "V-IAI-3P",
+   "gloss_en": "watched",
+   "gloss_ja": "見張る",
+   "verse": "καὶ παρετήρουν αὐτὸν εἰ τοῖς σάββασιν θεραπεύσει αὐτόν, ἵνα κατηγορήσωσιν αὐτοῦ."
+  }
+ ],
+ "lxx": {
+  "total": 6,
+  "works": {
+   "Psalmi": 2,
+   "Susanna": 3,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "SUS",
+    "work_ja": "スザンナ（Th）",
+    "work_src": "Susanna",
+    "ref": "12",
+    "form": "παρετηροῦσαν",
+    "postag": "v3paia---",
+    "sentence": "καὶ παρετηροῦσαν φιλοτίμως καθ’ ἡμέραν ὁρᾶν αὐτήν."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "129.3",
+    "form": "παρατηρήσῃς",
+    "postag": "v2sasa---",
+    "sentence": "ἐὰν ἀνομίας παρατηρήσῃς, Κύριε Κύριε, τίς ὑποστήσεται;"
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "6.12",
+    "form": "παρετήρησαν",
+    "postag": "v3paia---",
+    "sentence": "τότε οἱ ἄνδρες ἐκεῖνοι παρετήρησαν καὶ εὗρον τὸν Δανιὴλ ἀξιοῦντα καὶ δεόμενον τοῦ Θεοῦ αὐτοῦ."
+   },
+   {
+    "work_code": "SUS",
+    "work_ja": "スザンナ（Th）",
+    "work_src": "Susanna",
+    "ref": "16",
+    "form": "παρατηροῦντες",
+    "postag": "v-pppamn-",
+    "sentence": "καὶ οὐκ ἦν οὐδεὶς ἐκεῖ πλὴν οἱ δύο πρεσβύτεροι κεκρυμμένοι καὶ παρατηροῦντες αὐτήν."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "36.12",
+    "form": "παρατηρήσεται",
+    "postag": "v3sfim---",
+    "sentence": "παρατηρήσεται ὁ ἁμαρτωλὸς τὸν δίκαιον καὶ βρύξει ἐπ’ αὐτὸν τοὺς ὀδόντας αὐτοῦ ·"
+   },
+   {
+    "work_code": "SUS",
+    "work_ja": "スザンナ（Th）",
+    "work_src": "Susanna",
+    "ref": "15",
+    "form": "παρατηρεῖν",
+    "postag": "v--pna---",
+    "sentence": "καὶ ἐγένετο ἐν τῷ παρατηρεῖν αὐτοὺς ἡμέραν εὔθετον εἰσῆλθέ ποτε καθὼς ἐχθὲς καὶ τρίτης ἡμέρας μετὰ δύο μόνων κορασίων καὶ ἐπεθύμησε λούσασθαι ἐν τῷ παραδείσῳ, ὅτι καῦμα ἦν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "6   παρα-τηρέω, -ῶ,    [in LXX: Ps 36 (37):12 (זמם), 129 (130):8 (שׁמר), Da TH 6:11 (12), Su 1:12, 15, 16*;]      to watch closely, observe narrowly: so mid., τ. πύλας, Ac 9:24; with evil intent, Mk 3:2, Lk 20:20 (absol., v. Field, Notes, 74); so mid., Lk 6:7 14:1.     to observe scrupulously (of days and seasons; cf. Ex 12:42, Sm.): mid., Ga 4:10.†"
+}

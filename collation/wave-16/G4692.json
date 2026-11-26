@@ -1,0 +1,248 @@
+{
+ "strong": "G4692",
+ "lemma": "σπεύδω",
+ "nt_freq": 6,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2PE 3:12",
+   "form": "σπεύδοντας",
+   "morph": "V-PAP-APM",
+   "gloss_en": "hastening",
+   "gloss_ja": "急ぐ",
+   "verse": "προσδοκῶντας καὶ σπεύδοντας τὴν παρουσίαν τῆς τοῦ θεοῦ ἡμέρας, δι’ ἣν οὐρανοὶ πυρούμενοι λυθήσονται καὶ στοιχεῖα καυσούμενα τήκεται·"
+  },
+  {
+   "ref": "ACT 22:18",
+   "form": "Σπεῦσον",
+   "morph": "V-AAM-2S",
+   "gloss_en": "hurry",
+   "gloss_ja": "急ぐ",
+   "verse": "καὶ ἰδεῖν αὐτὸν λέγοντά μοι· Σπεῦσον καὶ ἔξελθε ἐν τάχει ἐξ Ἰερουσαλήμ, διότι οὐ παραδέξονταί σου μαρτυρίαν περὶ ἐμοῦ."
+  },
+  {
+   "ref": "ACT 20:16",
+   "form": "ἔσπευδεν",
+   "morph": "V-IAI-3S",
+   "gloss_en": "hurrying",
+   "gloss_ja": "急ぐ",
+   "verse": "κεκρίκει γὰρ ὁ Παῦλος παραπλεῦσαι τὴν Ἔφεσον, ὅπως μὴ γένηται αὐτῷ χρονοτριβῆσαι ἐν τῇ Ἀσίᾳ, ἔσπευδεν γὰρ εἰ δυνατὸν εἴη αὐτῷ τὴν ἡμέραν τῆς πεντηκοστῆς γενέσθαι εἰς Ἱεροσόλυμα."
+  },
+  {
+   "ref": "LUK 19:5",
+   "form": "σπεύσας",
+   "morph": "V-AAP-NSM",
+   "gloss_en": "hurry",
+   "gloss_ja": "急ぐ",
+   "verse": "καὶ ὡς ἦλθεν ἐπὶ τὸν τόπον, ἀναβλέψας ὁ Ἰησοῦς εἶπεν πρὸς αὐτόν· Ζακχαῖε, σπεύσας κατάβηθι, σήμερον γὰρ ἐν τῷ οἴκῳ σου δεῖ με μεῖναι."
+  },
+  {
+   "ref": "LUK 19:6",
+   "form": "σπεύσας",
+   "morph": "V-AAP-NSM",
+   "gloss_en": "quickly",
+   "gloss_ja": "急ぐ",
+   "verse": "καὶ σπεύσας κατέβη, καὶ ὑπεδέξατο αὐτὸν χαίρων."
+  },
+  {
+   "ref": "LUK 2:16",
+   "form": "σπεύσαντες",
+   "morph": "V-AAP-NPM",
+   "gloss_en": "with haste",
+   "gloss_ja": "急ぐ",
+   "verse": "καὶ ἦλθαν σπεύσαντες καὶ ἀνεῦραν τήν τε Μαριὰμ καὶ τὸν Ἰωσὴφ καὶ τὸ βρέφος κείμενον ἐν τῇ φάτνῃ·"
+  }
+ ],
+ "lxx": {
+  "total": 66,
+  "works": {
+   "Genesis": 8,
+   "Exodus": 2,
+   "Josue": 3,
+   "Judices": 2,
+   "Regnorum i": 10,
+   "Regnorum ii": 2,
+   "Regnorum iii": 2,
+   "Regnorum iv": 1,
+   "Paralipomenon ii sive Chronicon ii": 4,
+   "Esther": 3,
+   "Judith": 2,
+   "Machabaeorum ii": 3,
+   "Machabaeorum iii": 1,
+   "Machabaeorum iv": 2,
+   "Psalmi": 1,
+   "Odae": 1,
+   "Proverbia": 2,
+   "Ecclesiastes": 2,
+   "Sapientia Salomonis": 2,
+   "Ecclesiasticus sive Siracides": 3,
+   "Michaeas": 1,
+   "Nahum": 1,
+   "Isaias": 1,
+   "Jeremias": 3,
+   "Ezechiel": 1,
+   "Susanna": 1,
+   "Daniel": 2
+  },
+  "representatives": [
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "20.38",
+    "form": "σπεῦσον",
+    "postag": "v2sama---",
+    "sentence": "ταχύνας σπεῦσον καὶ μὴ στῇς."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "24.46",
+    "form": "σπεύσασα",
+    "postag": "v-sapafn-",
+    "sentence": "καί σπεύσασα καθεῖλε τὴν ὑδρίαν αὐτῆς ἀφ’ ἑαυτῆς καὶ εἶπε ·"
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "24.5",
+    "form": "ἔσπευσαν",
+    "postag": "v3paia---",
+    "sentence": "καὶ οὐκ ἔσπευσαν οἱ Λευῖται."
+   },
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "8.14",
+    "form": "ἔσπευσε",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἐγένετο ὡς εἶδε βασιλεὺς Γαί, ἔσπευσε καὶ ἐξῆλθεν εἰς συνάντησιν αὐτοῖς ἐπ’ εὐθείας εἰς τὸν πόλεμον, αὐτὸς καὶ πᾶς ὁ λαὸς ὁ μετ’ αὐτοῦ."
+   },
+   {
+    "work_code": "EST",
+    "work_ja": "エステル記",
+    "work_src": "Esther",
+    "ref": "3.15",
+    "form": "ἐσπεύδετο",
+    "postag": "v3siim---",
+    "sentence": "ἐσπεύδετο δὲ τὸ πρᾶγμα καὶ εἰς Σοῦσαν ·"
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "11.37",
+    "form": "σπεύσατε",
+    "postag": "v2pama---",
+    "sentence": "διὸ σπεύσατε καὶ πέμψατέ τινας, ὅπως καὶ ἡμεῖς ἐπιγνῶμεν ὁποίας ἐστὲ γνώμης."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "11.11",
+    "form": "σπεύδων",
+    "postag": "v-sppamn-",
+    "sentence": "ἔστι κοπιῶν καὶ πονῶν καὶ σπεύδων, καὶ τόσῳ μᾶλλον ὑστερεῖται."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "38.20",
+    "form": "ἔσπευσα",
+    "postag": "v1saia---",
+    "sentence": "διὰ τοῦτο ἔσπευσα ἐπ’ αὐτῷ, ἐλεῶν ἐλεήσω αὐτόν, φησὶ Κύριος."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "34.8",
+    "form": "σπεύσας",
+    "postag": "v-sapamn-",
+    "sentence": "καὶ σπεύσας Μωυσῆς, κύψας ἐπὶ τὴν γῆν προσεκύνησε καὶ εἶπεν ·"
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "5.22",
+    "form": "ἔσπευσαν",
+    "postag": "v3paia---",
+    "sentence": "ὅτε ἐνεποδίσθησαν πτέρναι ἵππου, σπουδῇ ἔσπευσαν ἰσχυροὶ αὐτοῦ."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "4.4",
+    "form": "σπεύδειν",
+    "postag": "v--pna---",
+    "sentence": "υἱὸς ἐτῶν πέντε οὗτος ἐν τῷ ἐλθεῖν τὴν ἀγγελίαν Σαοὺλ καὶ Ἰωνάθαν τοῦ υἱοῦ αὐτοῦ ἐξ Ἰεζραήλ, καὶ ᾖρεν αὐτὸν ἡ τιθηνὸς αὐτοῦ καὶ ἔφυγε, καὶ ἐγένετο ἐν τῷ σπεύδειν αὐτὸν καὶ ἀναχωρεῖν, καὶ ἔπεσε καὶ ἐχωλάνθη, καὶ ὄνομα αὐτῷ Μεμφιβοσθέ."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "18.7",
+    "form": "ἔσπευσεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ Ἀβδιοὺ ἔσπευσεν καὶ ἔπεσεν ἐπὶ πρόσωπον αὐτοῦ καὶ εἶπεν ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 4,
+  "works": {
+   "Barnabas": 1,
+   "1 Clement": 1,
+   "Hermas, Pastor": 1,
+   "Martyrdom of Polycarp": 1
+  },
+  "representatives": [
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "19.1",
+    "form": "σπεύσῃ",
+    "postag": "v3sasa---",
+    "sentence": "ἐάν τις θέλων ὁδὸν ὁδεύειν ἐπὶ τὸν ὡρισμένον τόπον, σπεύσῃ τοῖς ἔργοις αὐτοῦ."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "33.1",
+    "form": "σπεύσωμεν",
+    "postag": "v1pasa---",
+    "sentence": "μηθαμῶς τοῦτο ἐάσαι ὁ δεσπότης ἐφ’ ἡμῖν γε γενηθῆναι, ἀλλὰ σπεύσωμεν μετὰ ἐκτενείας καὶ προθυμίας πᾶς ἔργον ἀγαθὸν ἐπιτελεῖν."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.3.2",
+    "form": "σπεύδειν",
+    "postag": "v--pna---",
+    "sentence": "αἱ δὲ παρθένοι ἑστηκυῖαι κύκλῳ τῆς πύλης ἔλεγον τοῖς ἀνδράσι σπεύδειν τὸν πύργον οἰκοδομεῖσθαι ·"
+   },
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "6.2",
+    "form": "ἔσπευδεν",
+    "postag": "v3siia---",
+    "sentence": "ἦν γὰρ καὶ ἀδύνατον λαθεῖν αὐτόν, ἐπεὶ καὶ οἱ προδιδόντες αὐτὸν οἰκεῖοι ὑπῆρχον, καὶ ὁ εἰρήναρχος, ὁ κεκληρωμένος τὸ αὐτὸ ὄνομα, Ἡρώδης ἐπιλεγόμενος, ἔσπευδεν εἰς τὸ στάδιον αὐτὸν εἰσαγαγεῖν, ἵνα ἐκεῖνος μὲν τὸν ἴδιον κλῆρον ἀπαρτίσῃ Χριστοῦ κοινωνὸς γενόμενος, οἱ δὲ προδόντες αὐτὸν τὴν αὐτοῦ τοῦ Ἰούδα ὑπόσχοιεν τιμωρίαν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "6 σπεύδω     [in LXX chiefly for מהר pi., also for בּהל pi., hi., etc. ;]    most freq. intrans., to hasten: c. inf. (as freq. in cl.), Ac 20:16; ptcp. c. indic., Lk 2:16; c. imperat., Lk 19:5, 6; σπεῦσον κ. ἔξελθε, Ac 22:18      Trans., c. acc;    to hasten, urge on, accelerate (as Hom., Od., xix, 137; Eur., Med., 152; Si 33(36):8): II Pe 3:12, R, mg. (cf. Mayor and ICC, in l., but v. infr.);    to desire eagerly (Pind., Pyth., iii, 110; Eur., Suppl., 161; Is 16:5): II Pe, l.c., R, txt. (but v. supr.).†"
+}

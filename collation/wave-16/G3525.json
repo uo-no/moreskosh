@@ -1,0 +1,101 @@
+{
+ "strong": "G3525",
+ "lemma": "νήφω",
+ "nt_freq": 6,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1PE 5:8",
+   "form": "νήψατε",
+   "morph": "V-AAM-2P",
+   "gloss_en": "sober",
+   "gloss_ja": "醒めている",
+   "verse": "νήψατε, γρηγορήσατε. ὁ ἀντίδικος ὑμῶν διάβολος ὡς λέων ὠρυόμενος περιπατεῖ ζητῶν τινα καταπιεῖν·"
+  },
+  {
+   "ref": "1PE 4:7",
+   "form": "νήψατε",
+   "morph": "V-AAM-2P",
+   "gloss_en": "sober-minded",
+   "gloss_ja": "醒めている",
+   "verse": "Πάντων δὲ τὸ τέλος ἤγγικεν. σωφρονήσατε οὖν καὶ νήψατε εἰς προσευχάς·"
+  },
+  {
+   "ref": "1PE 1:13",
+   "form": "νήφοντες",
+   "morph": "V-PAP-NPM",
+   "gloss_en": "self-controlled",
+   "gloss_ja": "醒めている",
+   "verse": "Διὸ ἀναζωσάμενοι τὰς ὀσφύας τῆς διανοίας ὑμῶν, νήφοντες τελείως, ἐλπίσατε ἐπὶ τὴν φερομένην ὑμῖν χάριν ἐν ἀποκαλύψει Ἰησοῦ Χριστοῦ."
+  },
+  {
+   "ref": "1TH 5:6",
+   "form": "νήφωμεν",
+   "morph": "V-PAS-1P",
+   "gloss_en": "self-controlled",
+   "gloss_ja": "醒めている",
+   "verse": "ἄρα οὖν μὴ καθεύδωμεν ὡς οἱ λοιποί, ἀλλὰ γρηγορῶμεν καὶ νήφωμεν."
+  },
+  {
+   "ref": "1TH 5:8",
+   "form": "νήφωμεν",
+   "morph": "V-PAS-1P",
+   "gloss_en": "be sober",
+   "gloss_ja": "醒めている",
+   "verse": "ἡμεῖς δὲ ἡμέρας ὄντες νήφωμεν, ἐνδυσάμενοι θώρακα πίστεως καὶ ἀγάπης καὶ περικεφαλαίαν ἐλπίδα σωτηρίας·"
+  },
+  {
+   "ref": "2TI 4:5",
+   "form": "νῆφε",
+   "morph": "V-PAM-2S",
+   "gloss_en": "be sober",
+   "gloss_ja": "醒めている",
+   "verse": "σὺ δὲ νῆφε ἐν πᾶσιν, κακοπάθησον, ἔργον ποίησον εὐαγγελιστοῦ, τὴν διακονίαν σου πληροφόρησον."
+  }
+ ],
+ "lxx": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "fathers": {
+  "total": 3,
+  "works": {
+   "2 Clement": 1,
+   "Ignatius, Letters": 1,
+   "Polycarp, To the Philippians": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "13.1",
+    "form": "νήψωμεν",
+    "postag": "v1pasa---",
+    "sentence": "ἀδελφοὶ οὖν, ἤδη ποτὲ μετανοήσωμεν, νήψωμεν ἐπὶ τὸ ἀγαθόν ·"
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "7.2.3",
+    "form": "νῆφε",
+    "postag": "v2spma---",
+    "sentence": "νῆφε, ὡς θεοῦ ἀθλητής ·"
+   },
+   {
+    "work_code": "PPH",
+    "work_ja": "ポリュカルポスのピリピ書簡",
+    "work_src": "Polycarp, To the Philippians",
+    "ref": "7.2",
+    "form": "νήφοντες",
+    "postag": "v-pppamn-",
+    "sentence": "διὸ ἀπολιπόντες τὴν ματαιότητα τῶν πολλῶν καὶ τὰς ψευδοδιδασκαλίας ἐπὶ τὸν ἐξ ἀρχῆς ἡμῖν παραδοθέντα λόγον ἐπιστρέψωμεν, νήφοντες πρὸς τὰς εὐχὰς καὶ προσκαρτεροῦντες νηστείαις, δεήσεσιν αἰτούμενοι τὸν παντεπόπτην θεὸν μὴ εἰσενεγκεῖν ἡμᾶς εἰς πειρασμόν, καθὼς εἶπεν ὁ κύριος ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "6   * νήφω,     to be sober, abstain from wine; metaph., of moral alertness,   to be sober, calm, circumspect: I Th 5:6 8, II Ti 4:5 (v. Ellic., in l.), I Pe 1:13 4:7 5:8 (cf. ἀνα-, ἐκ-νήφω, and v. MM, xvii).†   SYN.: ἀγρυπνέω, γρηγορέω."
+}

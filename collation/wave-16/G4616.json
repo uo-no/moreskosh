@@ -1,0 +1,91 @@
+{
+ "strong": "G4616",
+ "lemma": "σινδών",
+ "nt_freq": 6,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 23:53",
+   "form": "σινδόνι",
+   "morph": "N-DSF",
+   "gloss_en": "linen cloth",
+   "gloss_ja": "亜麻布",
+   "verse": "καὶ καθελὼν ἐνετύλιξεν αὐτὸ σινδόνι, καὶ ἔθηκεν αὐτὸν ἐν μνήματι λαξευτῷ οὗ οὐκ ἦν οὐδεὶς οὔπω κείμενος."
+  },
+  {
+   "ref": "MAT 27:59",
+   "form": "σινδόνι",
+   "morph": "N-DSF",
+   "gloss_en": "linen cloth",
+   "gloss_ja": "亜麻布",
+   "verse": "καὶ λαβὼν τὸ σῶμα ὁ Ἰωσὴφ ἐνετύλιξεν αὐτὸ σινδόνι καθαρᾷ,"
+  },
+  {
+   "ref": "MRK 15:46",
+   "form": "σινδόνα",
+   "morph": "N-ASF",
+   "gloss_en": "linen cloth",
+   "gloss_ja": "亜麻布",
+   "verse": "καὶ ἀγοράσας σινδόνα καθελὼν αὐτὸν ἐνείλησεν τῇ σινδόνι καὶ ἔθηκεν αὐτὸν ἐν μνημείῳ ὃ ἦν λελατομημένον ἐκ πέτρας, καὶ προσεκύλισεν λίθον ἐπὶ τὴν θύραν τοῦ μνημείου."
+  },
+  {
+   "ref": "MRK 15:46",
+   "form": "σινδόνι",
+   "morph": "N-DSF",
+   "gloss_en": "linen",
+   "gloss_ja": "亜麻布",
+   "verse": "καὶ ἀγοράσας σινδόνα καθελὼν αὐτὸν ἐνείλησεν τῇ σινδόνι καὶ ἔθηκεν αὐτὸν ἐν μνημείῳ ὃ ἦν λελατομημένον ἐκ πέτρας, καὶ προσεκύλισεν λίθον ἐπὶ τὴν θύραν τοῦ μνημείου."
+  },
+  {
+   "ref": "MRK 14:51",
+   "form": "σινδόνα",
+   "morph": "N-ASF",
+   "gloss_en": "linen cloth",
+   "gloss_ja": "亜麻布",
+   "verse": "Καὶ νεανίσκος τις συνηκολούθει αὐτῷ περιβεβλημένος σινδόνα ἐπὶ γυμνοῦ, καὶ κρατοῦσιν αὐτόν,"
+  },
+  {
+   "ref": "MRK 14:52",
+   "form": "σινδόνα",
+   "morph": "N-ASF",
+   "gloss_en": "linen cloth",
+   "gloss_ja": "亜麻布",
+   "verse": "ὁ δὲ καταλιπὼν τὴν σινδόνα γυμνὸς ἔφυγεν."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Judices": 1,
+   "Proverbia": 1
+  },
+  "representatives": [
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "14.12",
+    "form": "σινδόνας",
+    "postag": "n-p---fa-",
+    "sentence": "ἐὰν ἀπαγγέλλοντες ἀπαγγείλητε αὐτὸ ἐν ταῖς ἑπτὰ ἡμέραις τοῦ πότου καὶ εὕρητε, δώσω ὑμῖν τριάκοντα σινδόνας καὶ τριάκοντα στολὰς ἱματίων ·"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "31b.24",
+    "form": "σινδόνας",
+    "postag": "n-p---fa-",
+    "sentence": "σινδόνας ἐποίησε καὶ ἀπέδοτο τοῖς Φοίνιξι, περιζώματα δὲ τοῖς Χαναναίοις."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "6   σινδών, -όνος, ἡ     [in LXX: Jg 14:12, 13A, Pr 31:24 (סָדִין), I Mac 10:64 A * ;]     fine linen cloth;      as used for swathing dead bodies (cf. Hdt., ii, 86): Mt 27:59, Mk 15:46, Lk 23:53;    a garment or wrap of this material (cf. ICC, Jg, l.c.): Mk 14:51, 52.†"
+}

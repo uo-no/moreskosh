@@ -1,0 +1,275 @@
+{
+ "strong": "G3809",
+ "lemma": "παιδεία",
+ "nt_freq": 6,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2TI 3:16",
+   "form": "παιδείαν",
+   "morph": "N-ASF",
+   "gloss_en": "training",
+   "gloss_ja": "訓練",
+   "verse": "πᾶσα γραφὴ θεόπνευστος καὶ ὠφέλιμος πρὸς διδασκαλίαν, πρὸς ἐλεγμόν, πρὸς ἐπανόρθωσιν, πρὸς παιδείαν τὴν ἐν δικαιοσύνῃ,"
+  },
+  {
+   "ref": "EPH 6:4",
+   "form": "παιδείᾳ",
+   "morph": "N-DSF",
+   "gloss_en": "discipline",
+   "gloss_ja": "訓練",
+   "verse": "Καὶ οἱ πατέρες, μὴ παροργίζετε τὰ τέκνα ὑμῶν, ἀλλὰ ἐκτρέφετε αὐτὰ ἐν παιδείᾳ καὶ νουθεσίᾳ κυρίου."
+  },
+  {
+   "ref": "HEB 12:5",
+   "form": "παιδείας",
+   "morph": "N-GSF",
+   "gloss_en": "discipline",
+   "gloss_ja": "訓練",
+   "verse": "καὶ ἐκλέλησθε τῆς παρακλήσεως, ἥτις ὑμῖν ὡς υἱοῖς διαλέγεται, Υἱέ μου, μὴ ὀλιγώρει παιδείας κυρίου, μηδὲ ἐκλύου ὑπ’ αὐτοῦ ἐλεγχόμενος·"
+  },
+  {
+   "ref": "HEB 12:7",
+   "form": "παιδείαν",
+   "morph": "N-ASF",
+   "gloss_en": "discipline",
+   "gloss_ja": "訓練",
+   "verse": "εἰς παιδείαν ὑπομένετε· ὡς υἱοῖς ὑμῖν προσφέρεται ὁ θεός· τίς γὰρ υἱὸς ὃν οὐ παιδεύει πατήρ;"
+  },
+  {
+   "ref": "HEB 12:8",
+   "form": "παιδείας",
+   "morph": "N-GSF",
+   "gloss_en": "discipline",
+   "gloss_ja": "訓練",
+   "verse": "εἰ δὲ χωρίς ἐστε παιδείας ἧς μέτοχοι γεγόνασι πάντες, ἄρα νόθοι καὶ οὐχ υἱοί ἐστε."
+  },
+  {
+   "ref": "HEB 12:11",
+   "form": "παιδεία",
+   "morph": "N-NSF",
+   "gloss_en": "discipline",
+   "gloss_ja": "訓練",
+   "verse": "πᾶσα δὲ παιδεία πρὸς μὲν τὸ παρὸν οὐ δοκεῖ χαρᾶς εἶναι ἀλλὰ λύπης, ὕστερον δὲ καρπὸν εἰρηνικὸν τοῖς δι’ αὐτῆς γεγυμνασμένοις ἀποδίδωσιν δικαιοσύνης."
+  }
+ ],
+ "lxx": {
+  "total": 113,
+  "works": {
+   "Deuteronomium": 1,
+   "Esdras ii": 1,
+   "Machabaeorum ii": 2,
+   "Machabaeorum iv": 3,
+   "Psalmi": 5,
+   "Odae": 1,
+   "Proverbia": 28,
+   "Job": 2,
+   "Sapientia Salomonis": 6,
+   "Ecclesiasticus sive Siracides": 34,
+   "Psalmi Salomonis": 11,
+   "Amos": 1,
+   "Habacuc": 2,
+   "Sophonias": 2,
+   "Isaias": 4,
+   "Jeremias": 7,
+   "Baruch": 1,
+   "Ezechiel": 1,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "41.14",
+    "form": "παιδείαν",
+    "postag": "n-s---fa-",
+    "sentence": "παιδείαν ἐν εἰρήνῃ συντηρήσατε, τέκνα ·"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "16.22",
+    "form": "παιδεία",
+    "postag": "n-s---fn-",
+    "sentence": "πηγὴ ζωῆς ἔννοια τοῖς κεκτημένοις, παιδεία δὲ ἀφρόνων κακή."
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "7.9",
+    "form": "παιδείας",
+    "postag": "n-s---fg-",
+    "sentence": "καὶ ἡμεῖς ὑπὸ ζυγόν σου τὸν αἰῶνα καὶ μάστιγα παιδείας σου."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "37.14",
+    "form": "παιδείαν",
+    "postag": "n-s---fa-",
+    "sentence": "ὅτι πληγὴν ἐχθροῦ ἔπαισά σε, παιδείαν στερεάν ·"
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "1.5",
+    "form": "παιδείας",
+    "postag": "n-s---fg-",
+    "sentence": "ἅγιον γὰρ πνεῦμα παιδείας φεύξεται δόλον καὶ ἀπαναστήσεται ἀπὸ λογισμῶν ἀσυνέτων καὶ ἐλεγχθήσεται ἐπελθούσης ἀδικίας."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "49.17",
+    "form": "παιδείαν",
+    "postag": "n-s---fa-",
+    "sentence": "σὺ δὲ ἐμίσησας παιδείαν καὶ ἐξέβαλες τοὺς λόγους μου εἰς τὰ ὀπίσω."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "53.5",
+    "form": "παιδεία",
+    "postag": "n-s---fn-",
+    "sentence": "παιδεία εἰρήνης ἡμῶν ἐπ’ αὐτόν."
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "10.10",
+    "form": "παιδείαν",
+    "postag": "n-s---fa-",
+    "sentence": "ἡμεῖς μέν, ὦ μιαρώτατε τύραννε, διὰ παιδείαν καὶ ἀρετὴν Θεοῦ ταῦτα πάσχομεν ·"
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "7.33",
+    "form": "παιδείας",
+    "postag": "n-s---fg-",
+    "sentence": "εἰ δὲ χάριν ἐπιπλήξεως καὶ παιδείας ὁ ζῶν Κύριος ἡμῶν βραχέως ἐπώργισται, καὶ πάλιν καταλλαγήσεται τοῖς ἑαυτοῦ δούλοις."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "20.3",
+    "form": "παιδείαν",
+    "postag": "n-s---fa-",
+    "sentence": "παιδείαν ἐντροπῆς μου ἀκούσομαι, καὶ πνεῦμα ἐκ τῆς συνέσεως ἀποκρίνεταί μοι."
+   },
+   {
+    "work_code": "HAB",
+    "work_ja": "ハバクク書",
+    "work_src": "Habacuc",
+    "ref": "1.12",
+    "form": "παιδείαν",
+    "postag": "n-s---fa-",
+    "sentence": "καὶ ἔπλασέ με τοῦ ἐλέγχειν παιδείαν αὐτοῦ."
+   },
+   {
+    "work_code": "ZEP",
+    "work_ja": "ゼファニヤ書",
+    "work_src": "Sophonias",
+    "ref": "3.2",
+    "form": "παιδείαν",
+    "postag": "n-s---fa-",
+    "sentence": "οὐκ εἰσήκουσε φωνῆς, οὐκ ἐδέξατο παιδείαν, ἐπὶ τῷ Κυρίῳ οὐκ ἐπεποίθει καὶ πρὸς τὸν Θεὸν αὐτῆς οὐκ ἤγγισεν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 11,
+  "works": {
+   "1 Clement": 7,
+   "Hermas, Pastor": 3,
+   "Polycarp, To the Philippians": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "16.5",
+    "form": "παιδεία",
+    "postag": "n-s---fn-",
+    "sentence": "παιδεία εἰρήνης ἡμῶν ἐπ’ αὐτόν ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "2.3.1",
+    "form": "παιδείᾳ",
+    "postag": "n-s---fd-",
+    "sentence": "παιδευθήσονται γὰρ παιδείᾳ δικαίᾳ, ἐὰν σὺ μὴ μνησικακήσῃς αὐτοῖς."
+   },
+   {
+    "work_code": "PPH",
+    "work_ja": "ポリュカルポスのピリピ書簡",
+    "work_src": "Polycarp, To the Philippians",
+    "ref": "4.2",
+    "form": "παιδείαν",
+    "postag": "n-s---fa-",
+    "sentence": "ἔπειτα καὶ τὰς γυναῖκας ἡμῶν ἐν τῇ δοθείσῃ αὐταῖς πίστει καὶ ἀγάπῃ καὶ ἁγνείᾳ στεργούσας τοὺς ἑαυτῶν ἄνδρας ἐν πάσῃ ἀληθείᾳ καὶ ἀγαπώσας πάντας ἐξ ἴσου ἐν πάσῃ ἐγκρατείᾳ, καὶ τὰ τέκνα παιδεύειν τὴν παιδείαν τοῦ φόβου τοῦ θεοῦ ·"
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "21.8",
+    "form": "παιδείας",
+    "postag": "n-s---fg-",
+    "sentence": "τὰ τέκνα ἡμῶν τῆς ἐν Χριστῷ παιδείας μεταλαμβανέτωσαν ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "3.9.10",
+    "form": "παιδείαν",
+    "postag": "n-s---fa-",
+    "sentence": "πῶς ὑμεῖς παιδεύειν θέλετε τοὺς ἐκλεκτοὺς κυρίου, αὐτοὶ μὴ ἔχοντες παιδείαν;"
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "56.2",
+    "form": "παιδείαν",
+    "postag": "n-s---fa-",
+    "sentence": "ἀναλάβωμεν παιδείαν, ἐφ’ ᾗ οὐδεὶς ὀφείλει ἀγανακτεῖν, ἀγαπητοί."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "23.3.6",
+    "form": "παιδείαν",
+    "postag": "n-s---fa-",
+    "sentence": "ὅταν οὖν θλιβῶσι πάσῃ θλίψει, τότε ἐμοὶ παραδίδονται εἰς ἀγαθὴν παιδείαν καὶ ἰσχυροποιοῦνται ἐν τῇ πίστει τοῦ κυρίου καὶ τὰς λοιπὰς ἡμέρας τῆς ζωῆς αὐτῶν δουλεύουσι τῷ κυρίῳ ἐν καθαρᾷ καρδίᾳ ·"
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "35.8",
+    "form": "παιδείαν",
+    "postag": "n-s---fa-",
+    "sentence": "σὺ δὲ ἐμίσησας παιδείαν καὶ ἐξέβαλες τοὺς λόγους μου εἰς τὰ ὀπίσω."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "6   παιδεία (-ία, T), -ας, ἡ    (< παιδεύω),   [in LXX chiefly for מוּסָר;]      the rearing of a child (Æsch.).     training, learning, instruction (Plat., al.): Eph 6:4, II Ti 3:16.   As in LXX (Pr 3:11 15:5, al.), chastening, discipline: He 12:5(LXX), 7, 8, 11.†"
+}
