@@ -1,0 +1,142 @@
+{
+ "strong": "G5413",
+ "lemma": "φορτίον",
+ "nt_freq": 6,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 27:10",
+   "form": "φορτίου",
+   "morph": "N-GSN",
+   "gloss_en": "cargo",
+   "gloss_ja": "重荷",
+   "verse": "λέγων αὐτοῖς· Ἄνδρες, θεωρῶ ὅτι μετὰ ὕβρεως καὶ πολλῆς ζημίας οὐ μόνον τοῦ φορτίου καὶ τοῦ πλοίου ἀλλὰ καὶ τῶν ψυχῶν ἡμῶν μέλλειν ἔσεσθαι τὸν πλοῦν."
+  },
+  {
+   "ref": "GAL 6:5",
+   "form": "φορτίον",
+   "morph": "N-ASN",
+   "gloss_en": "load",
+   "gloss_ja": "重荷",
+   "verse": "ἕκαστος γὰρ τὸ ἴδιον φορτίον βαστάσει."
+  },
+  {
+   "ref": "LUK 11:46",
+   "form": "φορτία",
+   "morph": "N-APN",
+   "gloss_en": "burdens",
+   "gloss_ja": "重荷",
+   "verse": "ὁ δὲ εἶπεν· Καὶ ὑμῖν τοῖς νομικοῖς οὐαί, ὅτι φορτίζετε τοὺς ἀνθρώπους φορτία δυσβάστακτα, καὶ αὐτοὶ ἑνὶ τῶν δακτύλων ὑμῶν οὐ προσψαύετε τοῖς φορτίοις."
+  },
+  {
+   "ref": "LUK 11:46",
+   "form": "φορτίοις",
+   "morph": "N-DPN",
+   "gloss_en": "burdens",
+   "gloss_ja": "重荷",
+   "verse": "ὁ δὲ εἶπεν· Καὶ ὑμῖν τοῖς νομικοῖς οὐαί, ὅτι φορτίζετε τοὺς ἀνθρώπους φορτία δυσβάστακτα, καὶ αὐτοὶ ἑνὶ τῶν δακτύλων ὑμῶν οὐ προσψαύετε τοῖς φορτίοις."
+  },
+  {
+   "ref": "MAT 11:30",
+   "form": "φορτίον",
+   "morph": "N-NSN",
+   "gloss_en": "burden",
+   "gloss_ja": "重荷",
+   "verse": "ὁ γὰρ ζυγός μου χρηστὸς καὶ τὸ φορτίον μου ἐλαφρόν ἐστιν."
+  },
+  {
+   "ref": "MAT 23:4",
+   "form": "φορτία",
+   "morph": "N-APN",
+   "gloss_en": "burdens",
+   "gloss_ja": "重荷",
+   "verse": "δεσμεύουσιν δὲ φορτία βαρέα καὶ ἐπιτιθέασιν ἐπὶ τοὺς ὤμους τῶν ἀνθρώπων, αὐτοὶ δὲ τῷ δακτύλῳ αὐτῶν οὐ θέλουσιν κινῆσαι αὐτά."
+  }
+ ],
+ "lxx": {
+  "total": 6,
+  "works": {
+   "Regnorum ii": 1,
+   "Psalmi": 1,
+   "Job": 1,
+   "Ecclesiasticus sive Siracides": 2,
+   "Isaias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "33.25",
+    "form": "φορτία",
+    "postag": "n-p---nn-",
+    "sentence": "χορτάσματα καὶ ράβδος καὶ φορτία ὄνῳ, ἄρτος καὶ παιδεία καὶ ἔργον οἰκέτῃ."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "19.35",
+    "form": "φορτίον",
+    "postag": "n-s---na-",
+    "sentence": "καὶ ἱνατί ἔσται ἔτι ὁ δοῦλός σου εἰς φορτίον ἐπὶ τὸν κύριόν μου τὸν βασιλέα;"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "37.5",
+    "form": "φορτίον",
+    "postag": "n-s---nn-",
+    "sentence": "ὅτι αἱ ἀνομίαι μου ὑπερῇραν τὴν κεφαλήν μου, ὡσεὶ φορτίον βαρὺ ἐβαρύνθησαν ἐπ’ ἐμέ."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "7.20",
+    "form": "φορτίον",
+    "postag": "n-s---nn-",
+    "sentence": "διατί ἔθου με κατεντευκτήν σου, εἰμὶ δὲ ἐπὶ σοὶ φορτίον;"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "46.1",
+    "form": "φορτίον",
+    "postag": "n-s---na-",
+    "sentence": "αἴρετε αὐτὰ καταδεδεμένα ὡς φορτίον κοπιῶντι καὶ πεινῶντι, ἐκλελυμένῳ, οὐκ ἰσχύοντι ἅμα, οἳ οὐ δυνήσονται σωθῆναι ἀπὸ πολέμου, αὐτοὶ δὲ αἰχμάλωτοι ἤχθησαν."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "21.16",
+    "form": "φορτίον",
+    "postag": "n-s---nn-",
+    "sentence": "ἐξήγησις μωροῦ ὡς ἐν ὁδῷ φορτίον, ἐπὶ δὲ χείλους συνετοῦ εὑρεθήσεται χάρις."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.2.4",
+    "form": "φορτίον",
+    "postag": "n-s---na-",
+    "sentence": "ἐνδεδυμέναι δὲ ἦσαν λινοῦς χιτῶνας καὶ περιεζωσμέναι ἦσαν εὐπρεπῶς, ἔξω τοὺς ὤμους ἔχουσαι τοὺς δεξιοὺς ὡς μέλλουσαι φορτίον τι βαστάζειν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "6 φορτίον, -ου, τό    (dimin. of φόρτος),    [in LXX chiefly for מַשָּׂא ;]     a burden, load: of the cargo of a ship (Hdt., al.), Ac 27:10; metaph., Mt 11:30 23:4, Lk 11:46, Ga 6:5.†   SYN.: βάρος (q.v.), ὄγκος"
+}

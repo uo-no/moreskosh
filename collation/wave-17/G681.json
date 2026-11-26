@@ -1,0 +1,292 @@
+{
+ "strong": "G681",
+ "lemma": "ἅπτω",
+ "nt_freq": 6,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 28:2",
+   "form": "ἅψαντες",
+   "morph": "V-AAP-NPM",
+   "gloss_en": "kindled",
+   "gloss_ja": "触れる",
+   "verse": "οἵ τε βάρβαροι παρεῖχον οὐ τὴν τυχοῦσαν φιλανθρωπίαν ἡμῖν, ἅψαντες γὰρ πυρὰν προσελάβοντο πάντας ἡμᾶς διὰ τὸν ὑετὸν τὸν ἐφεστῶτα καὶ διὰ τὸ ψῦχος."
+  },
+  {
+   "ref": "LUK 15:8",
+   "form": "ἅπτει",
+   "morph": "V-PAI-3S",
+   "gloss_en": "light",
+   "gloss_ja": "触れる",
+   "verse": "Ἢ τίς γυνὴ δραχμὰς ἔχουσα δέκα, ἐὰν ἀπολέσῃ δραχμὴν μίαν, οὐχὶ ἅπτει λύχνον καὶ σαροῖ τὴν οἰκίαν καὶ ζητεῖ ἐπιμελῶς ἕως οὗ εὕρῃ;"
+  },
+  {
+   "ref": "LUK 11:33",
+   "form": "ἅψας",
+   "morph": "V-AAP-NSM",
+   "gloss_en": "lighting",
+   "gloss_ja": "触れる",
+   "verse": "Οὐδεὶς λύχνον ἅψας εἰς κρύπτην τίθησιν οὐδὲ ὑπὸ τὸν μόδιον ἀλλ’ ἐπὶ τὴν λυχνίαν, ἵνα οἱ εἰσπορευόμενοι τὸ φέγγος βλέπωσιν."
+  },
+  {
+   "ref": "LUK 22:55",
+   "form": "περιαψάντων",
+   "morph": "V-AAP-GPM",
+   "gloss_en": "kindled",
+   "gloss_ja": "触れる",
+   "verse": "περιαψάντων δὲ πῦρ ἐν μέσῳ τῆς αὐλῆς καὶ συγκαθισάντων ἐκάθητο ὁ Πέτρος μέσος αὐτῶν."
+  },
+  {
+   "ref": "LUK 8:16",
+   "form": "ἅψας",
+   "morph": "V-AAP-NSM",
+   "gloss_en": "lighting",
+   "gloss_ja": "触れる",
+   "verse": "Οὐδεὶς δὲ λύχνον ἅψας καλύπτει αὐτὸν σκεύει ἢ ὑποκάτω κλίνης τίθησιν, ἀλλ’ ἐπὶ λυχνίας τίθησιν, ἵνα οἱ εἰσπορευόμενοι βλέπωσιν τὸ φῶς."
+  },
+  {
+   "ref": "MAT 17:7",
+   "form": "ἁψάμενος",
+   "morph": "V-AMP-NSM",
+   "gloss_en": "touched",
+   "gloss_ja": "触れる",
+   "verse": "καὶ προσῆλθεν ὁ Ἰησοῦς καὶ ἁψάμενος αὐτῶν εἶπεν· Ἐγέρθητε καὶ μὴ φοβεῖσθε."
+  }
+ ],
+ "lxx": {
+  "total": 129,
+  "works": {
+   "Genesis": 6,
+   "Exodus": 4,
+   "Leviticus": 28,
+   "Numeri": 13,
+   "Deuteronomium": 1,
+   "Josue": 1,
+   "Judices": 1,
+   "Regnorum i": 2,
+   "Regnorum ii": 2,
+   "Regnorum iii": 5,
+   "Regnorum iv": 2,
+   "Paralipomenon i sive Chronicon i": 1,
+   "Paralipomenon ii sive Chronicon ii": 2,
+   "Esdras i": 1,
+   "Judith": 2,
+   "Tobias": 1,
+   "Machabaeorum ii": 1,
+   "Machabaeorum iv": 1,
+   "Psalmi": 3,
+   "Proverbia": 2,
+   "Job": 9,
+   "Sapientia Salomonis": 3,
+   "Ecclesiasticus sive Siracides": 2,
+   "Psalmi Salomonis": 2,
+   "Michaeas": 1,
+   "Aggaeus": 2,
+   "Zacharias": 2,
+   "Isaias": 3,
+   "Jeremias": 5,
+   "Threni seu Lamentationes": 2,
+   "Epistula Jeremiae": 1,
+   "Ezechiel": 4,
+   "Daniel": 14
+  },
+  "representatives": [
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "6.11",
+    "form": "ἅψηται",
+    "postag": "v3sasm---",
+    "sentence": "πᾶς ὃς ἐὰν ἅψηται αὐτῶν, ἁγιασθήσεται."
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "10.16",
+    "form": "ἥψατο",
+    "postag": "v3saim---",
+    "sentence": "καὶ ἰδοὺ ὡς ὁμοίωσις υἱοῦ ἀνθρώπου ἥψατο τῶν χειλέων μου ·"
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "3.10",
+    "form": "ἁπτόμενος",
+    "postag": "v-sppmmn-",
+    "sentence": "καὶ ὁ ἀλλογενὴς ὁ ἁπτόμενος ἀποθανεῖται."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "1.11",
+    "form": "ἅψαι",
+    "postag": "v2samm---",
+    "sentence": "ἀλλὰ ἀπόστειλον τὴν χεῖρά σου καὶ ἅψαι πάντων, ὧν ἔχει ·"
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "20.6",
+    "form": "ἅψασθαι",
+    "postag": "v--anm---",
+    "sentence": "ἕνεκα τούτου οὐκ ἀφῆκά σε ἅψασθαι αὐτῆς."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "6.27",
+    "form": "ἥπτετο",
+    "postag": "v3siim---",
+    "sentence": "καὶ διεπέτασε τὰς πτέρυγας αὐτῶν, καὶ ἥπτετο πτέρυξ μία τοῦ τοίχου, καὶ πτέρυξ Χεροὺβ τοῦ δευτέρου ἥπτετο τοῦ τοίχου τοῦ δευτέρου, καὶ αἱ πτέρυγες αὐτῶν ἐν μέσῳ τοῦ οἴκου ἥπτοντο πτέρυξ πτέρυγος."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "31.32",
+    "form": "ἥψαντο",
+    "postag": "v3paim---",
+    "sentence": "ὡς κλαυθμὸν Ἰαζὴρ ἀποκλαύσομαί σοι, ἄμπελος Σεβημά, κλήματά σου διῆλθε θάλασσαν, Ἰαζὴρ ἥψαντο ·"
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "19.13",
+    "form": "ἅψετε",
+    "postag": "v2pfia---",
+    "sentence": "οὐχ ἅψετε αὐτοῦ χείρ ·"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "42.14",
+    "form": "ἅπτωνται",
+    "postag": "v3ppsm---",
+    "sentence": "καὶ ἐνδύσονται ἱμάτια ἕτερα, ὅταν ἅπτωνται τοῦ λαοῦ."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "104.15",
+    "form": "ἅπτεσθε",
+    "postag": "v2ppmm---",
+    "sentence": "μὴ ἅπτεσθε τῶν χριστῶν μου καὶ ἐν τοῖς προφήταις μου μὴ πονηρεύεσθε."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "18.16",
+    "form": "ἥπτετο",
+    "postag": "v3siim---",
+    "sentence": "καὶ οὐρανοῦ μὲν ἥπτετο, βεβήκει δ’ ἐπὶ γῆς."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "6.7",
+    "form": "ἥψατο",
+    "postag": "v3saim---",
+    "sentence": "ἰδοὺ ἥψατο τοῦτο τῶν χειλέων σου καὶ ἀφελεῖ τὰς ἀνομίας σου καὶ τὰς ἁμαρτίας σου περικαθαριεῖ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 10,
+  "works": {
+   "Barnabas": 1,
+   "1 Clement": 1,
+   "To Diognetus": 1,
+   "Hermas, Pastor": 4,
+   "Ignatius, Letters": 2,
+   "Martyrdom of Polycarp": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "3.1.6",
+    "form": "ἁψαμένη",
+    "postag": "v-sapmfn-",
+    "sentence": "καὶ ἁψαμένη μου λέγει ·"
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "6.3.2",
+    "form": "ἥψαντο",
+    "postag": "v3paim---",
+    "sentence": "καὶ εὐθὺς αὐτοῦ ἥψαντο καὶ ἐπίστευσαν, κραθέντες τῇ σαρκὶ αὐτοῦ καὶ τῷ πνεύματι."
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "7.11",
+    "form": "ἅψασθαί",
+    "postag": "v--anm---",
+    "sentence": "οὕτω, φησίν, οἱ θέλοντές με ἰδεῖν καὶ ἅψασθαί μου τῆς βασιλείας ὀφείλουσιν θλιβέντες καὶ παθόντες λαβεῖν με."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "56.8",
+    "form": "ἅψεταί",
+    "postag": "v3sfim---",
+    "sentence": "ἑξάκις ἐξ ἀναγκῶν ἐξελεῖταί σε, ἐν δὲ τῷ ἑβδόμῳ οὐχ ἅψεταί σου κακόν."
+   },
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "12",
+    "form": "ἅπτεται",
+    "postag": "v3spim---",
+    "sentence": "οὗ ξύλον φέρων καὶ καρπὸν αἱρῶν τρυγήσεις ἀεὶ τὰ παρὰ Θεῷ ποθούμενα, ὧν ὄφις οὐχ ἅπτεται οὐ-δὲ πλάνη συγχρωτίζεται ·"
+   },
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "13.2",
+    "form": "ἅψηται",
+    "postag": "v3sasm---",
+    "sentence": "ὅτε δὲ ἡ πυρκαϊὰ ἡτοιμάσθη, ἀποθέμενος ἑαυτῷ πάντα τὰ ἱμάτια καὶ λύσας τὴν ζώνην ἐπειρᾶτο καὶ ὑπολύειν ἑαυτόν, μὴ πρότερον τοῦτο ποιῶν διὰ τὸ ἀεὶ ἕκαστον τῶν πιστῶν σπουδάζειν, ὅστις τάχιον τοῦ χρωτὸς αὐτοῦ ἅψηται ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "1.4.2",
+    "form": "ἥψατο",
+    "postag": "v3saim---",
+    "sentence": "προσκαλεῖται δέ με καὶ ἥψατο τοῦ στήθους μου καὶ λέγει μοι ·"
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "4.5.2",
+    "form": "ἥψαντο",
+    "postag": "v3paim---",
+    "sentence": "ἃ καὶ κολακεύσω, συντόμως με καταφαγεῖν, οὐχ ὥσπερ τινῶν δειλαινόμενα οὐχ ἥψαντο."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "39   ἅπτω,    [in LXX chiefly for נגע;]      prop., to fasten to; hence, of fire, to kindle, light: Lk 8:16 11:33 15:8, Ac 28:2. Mid., c. gen., to fasten oneself to, cling to, lay hold of (so in π.; MM, s.v.): Mt 8:3, 15, Jo 20:17, al.; of carnal intercourse, I Co 7:1; with reference to levitical and ceremonial prohibitions, II Co 6:17, Col 2:21; of hostile action, I Jn 5:18 (cf. ἀν-, καθ-, περι- άπτω).   SYN.: θιγγάνω, ψηλαφάω. ἅ. is the stronger, θ., to touch, the lighter term. ψ. is to feel, as in search of something (Tr., Syn., § xvii; Lft., Col., 201 f.)."
+}

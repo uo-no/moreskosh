@@ -1,0 +1,177 @@
+{
+ "strong": "G5337",
+ "lemma": "φαῦλος",
+ "nt_freq": 6,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2CO 5:10",
+   "form": "φαῦλον",
+   "morph": "A-ASN",
+   "gloss_en": "bad",
+   "gloss_ja": "卑しい",
+   "verse": "τοὺς γὰρ πάντας ἡμᾶς φανερωθῆναι δεῖ ἔμπροσθεν τοῦ βήματος τοῦ Χριστοῦ, ἵνα κομίσηται ἕκαστος τὰ διὰ τοῦ σώματος πρὸς ἃ ἔπραξεν, εἴτε ἀγαθὸν εἴτε φαῦλον."
+  },
+  {
+   "ref": "JAS 3:16",
+   "form": "φαῦλον",
+   "morph": "A-NSN",
+   "gloss_en": "evil",
+   "gloss_ja": "卑しい",
+   "verse": "ὅπου γὰρ ζῆλος καὶ ἐριθεία, ἐκεῖ ἀκαταστασία καὶ πᾶν φαῦλον πρᾶγμα."
+  },
+  {
+   "ref": "JHN 3:20",
+   "form": "φαῦλα",
+   "morph": "A-APN",
+   "gloss_en": "evil",
+   "gloss_ja": "卑しい",
+   "verse": "πᾶς γὰρ ὁ φαῦλα πράσσων μισεῖ τὸ φῶς καὶ οὐκ ἔρχεται πρὸς τὸ φῶς, ἵνα μὴ ἐλεγχθῇ τὰ ἔργα αὐτοῦ·"
+  },
+  {
+   "ref": "JHN 5:29",
+   "form": "φαῦλα",
+   "morph": "A-APN",
+   "gloss_en": "evil",
+   "gloss_ja": "卑しい",
+   "verse": "καὶ ἐκπορεύσονται οἱ τὰ ἀγαθὰ ποιήσαντες εἰς ἀνάστασιν ζωῆς, οἱ δὲ τὰ φαῦλα πράξαντες εἰς ἀνάστασιν κρίσεως."
+  },
+  {
+   "ref": "ROM 9:11",
+   "form": "φαῦλον",
+   "morph": "A-ASN",
+   "gloss_en": "bad",
+   "gloss_ja": "卑しい",
+   "verse": "μήπω γὰρ γεννηθέντων μηδὲ πραξάντων τι ἀγαθὸν ἢ φαῦλον, ἵνα ἡ κατ’ ἐκλογὴν πρόθεσις τοῦ θεοῦ μένῃ,"
+  },
+  {
+   "ref": "TIT 2:8",
+   "form": "φαῦλον",
+   "morph": "A-ASN",
+   "gloss_en": "bad",
+   "gloss_ja": "卑しい",
+   "verse": "λόγον ὑγιῆ ἀκατάγνωστον, ἵνα ὁ ἐξ ἐναντίας ἐντραπῇ μηδὲν ἔχων λέγειν περὶ ἡμῶν φαῦλον."
+  }
+ ],
+ "lxx": {
+  "total": 9,
+  "works": {
+   "Machabaeorum iii": 1,
+   "Proverbia": 4,
+   "Job": 3,
+   "Ecclesiasticus sive Siracides": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "5.3",
+    "form": "φαύλῃ",
+    "postag": "a-s---fd-",
+    "sentence": "μὴ πρόσεχε φαύλῃ γυναικί ·"
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "6.3",
+    "form": "φαῦλα",
+    "postag": "a-p---nn-",
+    "sentence": "ἀλλ’ ὡς ἔοικε τὰ ρήματά μού ἐστι φαῦλα ·"
+   },
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "3.22",
+    "form": "φαῦλον",
+    "postag": "a-s---na-",
+    "sentence": "οἱ δὲ το-τοὐναντίον ἐκδεχόμενοι καὶ τῇ συμφύτῳ κακοηθείᾳ τὸ καλὸν ἀπωσάμενοι, διηνεκῶς δὲ εἰς τὸ φαῦλον ἐκνεύοντες, οὐ μόνον ἀπεστρέψαντο τὴν ἀτίμητον πολιτείαν, ἀλλὰ καὶ βδελύσσονται λόγῳ τε καὶ σιγῇ τοὺς ἐν αὐτοῖς ὀλίγους πρὸς ἡμᾶς γνησίως διακειμένους, παρέκαστα ὑφορώμενοι διὰ τῆς δυσκλεεστάτης ἐμβιώσεως διὰ τάχους ἡμᾶς καταστρέψαι τὰ κατορθώματα."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "20.16",
+    "form": "φαῦλοι",
+    "postag": "a-p---mn-",
+    "sentence": "οἱ ἔσθοντες τὸν ἄρτον μου, φαῦλοι γλώσσῃ ·"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "29.9",
+    "form": "φαῦλος",
+    "postag": "a-s---mn-",
+    "sentence": "ἀνὴρ σοφὸς κρινεῖ ἔθνη, ἀνὴρ δὲ φαῦλος ὀργιζόμενος καταγελᾶται καὶ οὐ καταπτήσσει."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "6.25",
+    "form": "φαῦλα",
+    "postag": "a-p---nn-",
+    "sentence": "ἀλλ’ ὡς ἔοικε, φαῦλα ἀληθινοῦ ρήματα, οὐ γὰρ παρ’ ὑμῶν ἰσχὺν αἰτοῦμαι ·"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "16.21",
+    "form": "φαύλους",
+    "postag": "a-p---ma-",
+    "sentence": "τοὺς σοφοὺς καὶ συνετοὺς φαύλους καλοῦσιν, οἱ δὲ γλυκεῖς ἐν λόγῳ πλείονα ἀκούσονται."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "9.23",
+    "form": "φαῦλοι",
+    "postag": "a-p---mn-",
+    "sentence": "μέγα καὶ δυνάστην ἀπολλύει ὀργή, ὅτι φαῦλοι ἐν θανάτῳ ἐξαισίῳ, ἀλλὰ δίκαιοι καταγελῶνται ·"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "22.8",
+    "form": "φαῦλα",
+    "postag": "a-p---na-",
+    "sentence": "ὁ σπείρων φαῦλα θερίσει κακά, πληγὴν δὲ ἔργων αὐτοῦ συντελέσει."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "1 Clement": 2
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "36.6",
+    "form": "φαῦλοι",
+    "postag": "a-p---mn-",
+    "sentence": "οἱ φαῦλοι καὶ ἀντιτασσομενοι τῷ θελήματι αὐτοῦ."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "28.1",
+    "form": "φαύλων",
+    "postag": "a-p---ng-",
+    "sentence": "πάντων οὖν βλεπομένων καὶ ἀκουομένων, φοβηθῶμεν αὐτόν, καὶ ἀπολίπωμεν φαύλων ἔργων μιαρὰς ἐπιθυμίας, ἵνα τῷ ἐλέει αὐτοῦσκεπασθῶμεν ἀπὸ τῶν μελλόντων κριμάτων."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "6 φαῦλος, -η, -ον     [in LXX: Pr 22:8 (עַוְלָה) 29:9 (אֳבִיל), etc. ;]    slight, worthless, of no account, both of persons and things in various shades of meaning (v. LS, s.v.), in NT, as freq. in cl., always with distinct moral reference (v. Ellic., Past. Epp., 203; Hort, Ja., 85; Tr., Syn., lxxxiv), worthless, bad: Jo 3:20, Tit 2:8, Ja 3:16; opp. to ἀγαθός (q.v.), Jo 5:29, Ro 9:11, II Co 5:10.†   SYN.: v.s. ἄθεσμος"
+}

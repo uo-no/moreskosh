@@ -1,0 +1,219 @@
+{
+ "strong": "G683",
+ "lemma": "ἀπωθέομαι",
+ "nt_freq": 6,
+ "status": "expanded-covered",
+ "glaux_lemma": "απωθεω",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1TI 1:19",
+   "form": "ἀπωσάμενοι",
+   "morph": "V-ADP-NPM",
+   "gloss_en": "rejected",
+   "gloss_ja": "押しのける",
+   "verse": "ἔχων πίστιν καὶ ἀγαθὴν συνείδησιν, ἥν τινες ἀπωσάμενοι περὶ τὴν πίστιν ἐναυάγησαν·"
+  },
+  {
+   "ref": "ACT 13:46",
+   "form": "ἀπωθεῖσθε",
+   "morph": "V-PNI-2P",
+   "gloss_en": "reject",
+   "gloss_ja": "押しのける",
+   "verse": "παρρησιασάμενοί τε ὁ Παῦλος καὶ ὁ Βαρναβᾶς εἶπαν· Ὑμῖν ἦν ἀναγκαῖον πρῶτον λαληθῆναι τὸν λόγον τοῦ θεοῦ· ἐπειδὴ ἀπωθεῖσθε αὐτὸν καὶ οὐκ ἀξίους κρίνετε ἑαυτοὺς τῆς αἰωνίου ζωῆς, ἰδοὺ στρεφόμεθα εἰς τὰ ἔθνη·"
+  },
+  {
+   "ref": "ACT 7:27",
+   "form": "ἀπώσατο",
+   "morph": "V-ADI-3S",
+   "gloss_en": "pushed ~ aside",
+   "gloss_ja": "押しのける",
+   "verse": "ὁ δὲ ἀδικῶν τὸν πλησίον ἀπώσατο αὐτὸν εἰπών· Τίς σε κατέστησεν ἄρχοντα καὶ δικαστὴν ἐφ’ ἡμῶν;"
+  },
+  {
+   "ref": "ACT 7:39",
+   "form": "ἀπώσαντο",
+   "morph": "V-ADI-3P",
+   "gloss_en": "rejected",
+   "gloss_ja": "押しのける",
+   "verse": "ᾧ οὐκ ἠθέλησαν ὑπήκοοι γενέσθαι οἱ πατέρες ἡμῶν, ἀλλὰ ἀπώσαντο καὶ ἐστράφησαν ἐν ταῖς καρδίαις αὐτῶν εἰς Αἴγυπτον,"
+  },
+  {
+   "ref": "ROM 11:1",
+   "form": "ἀπώσατο",
+   "morph": "V-ADI-3S",
+   "gloss_en": "rejected",
+   "gloss_ja": "押しのける",
+   "verse": "Λέγω οὖν, μὴ ἀπώσατο ὁ θεὸς τὸν λαὸν αὐτοῦ; μὴ γένοιτο· καὶ γὰρ ἐγὼ Ἰσραηλίτης εἰμί, ἐκ σπέρματος Ἀβραάμ, φυλῆς Βενιαμίν."
+  },
+  {
+   "ref": "ROM 11:2",
+   "form": "ἀπώσατο",
+   "morph": "V-ADI-3S",
+   "gloss_en": "rejected",
+   "gloss_ja": "押しのける",
+   "verse": "οὐκ ἀπώσατο ὁ θεὸς τὸν λαὸν αὐτοῦ ὃν προέγνω. ἢ οὐκ οἴδατε ἐν Ἠλίᾳ τί λέγει ἡ γραφή, ὡς ἐντυγχάνει τῷ θεῷ κατὰ τοῦ Ἰσραήλ;"
+  }
+ ],
+ "lxx": {
+  "total": 73,
+  "works": {
+   "Regnorum i": 1,
+   "Regnorum iv": 4,
+   "Paralipomenon ii sive Chronicon ii": 1,
+   "Machabaeorum iii": 2,
+   "Machabaeorum iv": 1,
+   "Psalmi": 16,
+   "Proverbia": 7,
+   "Job": 2,
+   "Ecclesiasticus sive Siracides": 2,
+   "Psalmi Salomonis": 3,
+   "Osee": 3,
+   "Amos": 2,
+   "Michaeas": 3,
+   "Jonas": 1,
+   "Sophonias": 1,
+   "Jeremias": 5,
+   "Threni seu Lamentationes": 7,
+   "Ezechiel": 12
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "73.1",
+    "form": "ἀπώσω",
+    "postag": "v1sfia---",
+    "sentence": "ἱνατὶ ἀπώσω, ὁ Θεός, εἰς τέλος;"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "21.13",
+    "form": "ἀπώσθη",
+    "postag": "v3saip---",
+    "sentence": "καὶ τί εἰ καὶ φυλὴ ἀπώσθη;"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "23.23",
+    "form": "ἀπώσῃ",
+    "postag": "v2sfim---",
+    "sentence": "ἀλήθειαν κτῆσαι καὶ μὴ ἀπώσῃ σοφίαν καὶ παιδείαν καὶ σύνεσιν."
+   },
+   {
+    "work_code": "LAM",
+    "work_ja": "哀歌",
+    "work_src": "Threni seu Lamentationes",
+    "ref": "3.31",
+    "form": "ἀπώσεται",
+    "postag": "v3sfim---",
+    "sentence": "ὅτι οὐκ εἰς τὸν αἰῶνα ἀπώσεται Κύριος."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "23.17",
+    "form": "ἀπωθουμένοις",
+    "postag": "v-pppmmd-",
+    "sentence": "λέγουσι τοῖς ἀπωθουμένοις τὸν λόγον Κυρίου ·"
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "4.27",
+    "form": "ἀπώσασθαι",
+    "postag": "v--anm---",
+    "sentence": "καὶ ἤγγισε Γιεζὶ ἀπώσασθαι αὐτήν, καὶ εἶπεν Ἑλισαιέ ·"
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "7.2",
+    "form": "ἀπώσω",
+    "postag": "v1sfia---",
+    "sentence": "ὅτι ἀπώσω αὐτούς, ὁ θεός ·"
+   },
+   {
+    "work_code": "HOS",
+    "work_ja": "ホセア書",
+    "work_src": "Osee",
+    "ref": "4.6",
+    "form": "ἀπώσομαί",
+    "postag": "v1sfim---",
+    "sentence": "ὅτι σὺ ἐπίγνωσιν ἀπώσω, κα-κἀγὼ ἀπώσομαί σε τοῦ μὴ ἱερατεύειν μοι ·"
+   },
+   {
+    "work_code": "MIC",
+    "work_ja": "ミカ書",
+    "work_src": "Michaeas",
+    "ref": "4.6",
+    "form": "ἀπωσάμην",
+    "postag": "v1saim---",
+    "sentence": "ἐν τῇ ἡμέρᾳ ἐκείνῃ, λέγει Κύριος, συνάξω τὴν συντετριμμένην καὶ τὴν ἐξωσμένην εἰσδέξομαι καὶ οὓς ἀπωσάμην ·"
+   },
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "6.32",
+    "form": "ἀπωσάμενοι",
+    "postag": "v-papmmn-",
+    "sentence": "οἰμωγήν τε πᾶσαν καὶ κωκυτὸν ἀπωσάμενοι χοροὺς συνίσταντο εὐφροσύνης εἰρηνικῆς σημεῖον."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "18.18",
+    "form": "ἀπώσειεν",
+    "postag": "v3saoa---",
+    "sentence": "ἀπώσειεν αὐτὸν ἐκ φωτὸς εἰς σκότος."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "1.21",
+    "form": "ἀπωθεῖται",
+    "postag": "v3spim---",
+    "sentence": "φόβος Κυρίου ἀπωθεῖται ἁμαρτήματα, παραμένων δὲ ἀποστρέψει ὀργήν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "Barnabas": 1,
+   "To Diognetus": 1
+  },
+  "representatives": [
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "4.13",
+    "form": "ἀπώσηται",
+    "postag": "v3sasm---",
+    "sentence": "ἵνα μήποτε ἐπαναπαύομενοι ὡς κλητοὶ ἐπικαθυπνώσωμεν ταῖς ἁμαρτίαις ἡμῶν, καὶ ὁ πονηρὸς ἄρχων λαβὼν τὴν καθ’ ἡμῶν ἐξουσίαν ἀπώσηται ἡμᾶς ἀπὸ τῆς βασιλείας τοῦ κυρίου."
+   },
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "9",
+    "form": "ἀπώσατο",
+    "postag": "v3saim---",
+    "sentence": "ἐπεὶ δὲ πεπλήρωτο μὲν ἡ ἡμετέρα ἀδικία καὶ τελείως πεφανέρωτο, ὅτι ὁ μισθὸς αὐτῆς κόλασις καὶ θάνατος προσεδοκᾶτο, ἦλθε δὲ ὁ καιρός, ὃν Θεὸς προέθετο λοιπὸν φανερῶσαι τὴν ἑαυτοῦ χρηστότητα καὶ δύναμιν ( ὢ τῆς ὑπερβαλλούσης φιλανθρωπίας καὶ ἀγάπης τοῦ Θεοῦ ), οὐκ ἐμίσησεν ἡμᾶς οὐ-δὲ ἀπώσατο οὐ-δὲ ἐμνησικάκησεν, ἀλλὰ ἐμακροθύμησεν, ἠνέσχετο, ἐλεῶν αὐτὸς τὰς ἡμετέρας ἁμαρτίας ἀνεδέξατο, αὐτὸς τὸν ἴδιον υἱὸν ἀπέδοτο λύτρον ὑπὲρ ἡμῶν, τὸν ἅγιον ὑπέρ ἀνόμων, τὸ ἄκακον ὑπὲρ τῶν κακῶν, τὸν δίκαιον ὑπέρ τῶν ἀδίκων, τὸν ἄφθαρτον ὑπὲρ τῶν φθαρτῶν, τὸν ἀθάνατον ὑπέρ τῶν θνητῶν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "6 ἀπ-ωθέω, -ῶ,    [in LXX for זנח, מאס, etc.;]    to thrust away. Mid., to thrust away from oneself, refuse, reject: c. acc. pers. (MM, s.v.), Ac 7:27, 39 13:46, Ro 11:1, 2, I Ti 1:19.†"
+}

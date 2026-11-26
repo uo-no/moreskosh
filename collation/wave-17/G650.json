@@ -1,0 +1,159 @@
+{
+ "strong": "G650",
+ "lemma": "ἀποστερέω",
+ "nt_freq": 6,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 6:7",
+   "form": "ἀποστερεῖσθε",
+   "morph": "V-PPI-2P",
+   "gloss_en": "defrauded",
+   "gloss_ja": "奪う",
+   "verse": "ἤδη μὲν οὖν ὅλως ἥττημα ὑμῖν ἐστιν ὅτι κρίματα ἔχετε μεθ’ ἑαυτῶν· διὰ τί οὐχὶ μᾶλλον ἀδικεῖσθε; διὰ τί οὐχὶ μᾶλλον ἀποστερεῖσθε;"
+  },
+  {
+   "ref": "1CO 6:8",
+   "form": "ἀποστερεῖτε",
+   "morph": "V-PAI-2P",
+   "gloss_en": "defraud",
+   "gloss_ja": "奪う",
+   "verse": "ἀλλὰ ὑμεῖς ἀδικεῖτε καὶ ἀποστερεῖτε, καὶ τοῦτο ἀδελφούς."
+  },
+  {
+   "ref": "1CO 7:5",
+   "form": "ἀποστερεῖτε",
+   "morph": "V-PAM-2P",
+   "gloss_en": "deprive",
+   "gloss_ja": "奪う",
+   "verse": "μὴ ἀποστερεῖτε ἀλλήλους, εἰ μήτι ἂν ἐκ συμφώνου πρὸς καιρὸν ἵνα σχολάσητε τῇ προσευχῇ καὶ πάλιν ἐπὶ τὸ αὐτὸ ἦτε, ἵνα μὴ πειράζῃ ὑμᾶς ὁ Σατανᾶς διὰ τὴν ἀκρασίαν ὑμῶν."
+  },
+  {
+   "ref": "1TI 6:5",
+   "form": "ἀπεστερημένων",
+   "morph": "V-RPP-GPM",
+   "gloss_en": "deprived",
+   "gloss_ja": "奪う",
+   "verse": "διαπαρατριβαὶ διεφθαρμένων ἀνθρώπων τὸν νοῦν καὶ ἀπεστερημένων τῆς ἀληθείας, νομιζόντων πορισμὸν εἶναι τὴν εὐσέβειαν."
+  },
+  {
+   "ref": "JAS 5:4",
+   "form": "ἀφυστερημένος",
+   "morph": "V-RPP-NSM",
+   "gloss_en": "having been withheld",
+   "gloss_ja": "奪う",
+   "verse": "ἰδοὺ ὁ μισθὸς τῶν ἐργατῶν τῶν ἀμησάντων τὰς χώρας ὑμῶν ὁ ἀφυστερημένος ἀφ’ ὑμῶν κράζει, καὶ αἱ βοαὶ τῶν θερισάντων εἰς τὰ ὦτα Κυρίου Σαβαὼθ εἰσεληλύθασιν·"
+  },
+  {
+   "ref": "MRK 10:19",
+   "form": "ἀποστερήσῃς",
+   "morph": "V-AAS-2S",
+   "gloss_en": "defraud",
+   "gloss_ja": "奪う",
+   "verse": "τὰς ἐντολὰς οἶδας· Μὴ φονεύσῃς, Μὴ μοιχεύσῃς, Μὴ κλέψῃς, Μὴ ψευδομαρτυρήσῃς, Μὴ ἀποστερήσῃς, Τίμα τὸν πατέρα σου καὶ τὴν μητέρα."
+  }
+ ],
+ "lxx": {
+  "total": 7,
+  "works": {
+   "Exodus": 1,
+   "Ecclesiasticus sive Siracides": 5,
+   "Malachias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "34.21",
+    "form": "ἀποστερῶν",
+    "postag": "v-sppamn-",
+    "sentence": "ἄρτος ἐπιδεομένων ζωὴ πτωχῶν, ὁ ἀποστερῶν αὐτὴν ἄνθρωπος αἱμάτων."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "21.10",
+    "form": "ἀποστερήσει",
+    "postag": "v3sfia---",
+    "sentence": "ἐὰν δὲ ἄλλην λάβῃ ἑαυτῷ, τὰ δέοντα καὶ τὸν ἱματισμὸν καὶ τὴν ὁμιλίαν αὐτῆς οὐκ ἀποστερήσει."
+   },
+   {
+    "work_code": "MAL",
+    "work_ja": "マラキ書",
+    "work_src": "Malachias",
+    "ref": "3.5",
+    "form": "ἀποστεροῦντας",
+    "postag": "v-pppama-",
+    "sentence": "καὶ προσάξω πρὸς ὑμᾶς ἐν κρίσει καὶ ἔσομαι μάρτυς ταχὺς ἐπὶ τὰς φαρμακοὺς καὶ ἐπὶ τὰς μοιχαλίδας καὶ ἐπὶ τοὺς ὀμνύοντας τῷ ὀνόματί μου ἐπὶ ψεύδει καὶ ἐπὶ τοὺς ἀποστεροῦντας μισθὸν μισθωτοῦ καὶ τοὺς καταδυναστεύοντας χήραν καὶ τοὺς κονδυλίζοντας ὀρφανοὺς καὶ τοὺς ἐκκλίνοντας κρίσιν προσηλύτου καὶ τοὺς μὴ φοβουμένους με, λέγει Κύριος παντοκράτωρ."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "29.7",
+    "form": "ἀποστερηθῆναι",
+    "postag": "v--anp---",
+    "sentence": "πολλοὶ οὖν χάριν πονηρίας ἀπέστρεψαν, ἀποστερηθῆναι δωρεὰν εὐλαβήθησαν."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "4.1",
+    "form": "ἀποστερήσῃς",
+    "postag": "v2sasa---",
+    "sentence": "τέκνον, τὴν ζωὴν τοῦ πτωχοῦ μὴ ἀποστερήσῃς καὶ μὴ παρελκύσῃς ὀφθαλμοὺς ἐπιδεεῖς."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "29.6",
+    "form": "ἀπεστέρησεν",
+    "postag": "v3saia---",
+    "sentence": "εἰ δὲ μή, ἀπεστέρησεν αὐτὸν τῶν χρημάτων αὐτοῦ, καὶ ἐκτήσατο αὐτὸν ἐχθρὸν δωρεάν ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "34.22",
+    "form": "ἀποστερῶν",
+    "postag": "v-sppamn-",
+    "sentence": "φονεύων τὸν πλησίον ὁ ἀφαιρούμενος συμβίωσιν, καὶ ἐκχέων αἷμα ὁ ἀποστερῶν μισθὸν μισθίου."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "Hermas, Pastor": 1,
+   "Ignatius, Letters": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "3.9.9",
+    "form": "ἀποστερήσουσιν",
+    "postag": "v3pfia---",
+    "sentence": "βλέπετε οὖν, τέκνα, μήποτε αὗται αἱ διχοστασίαι ἀποστερήσουσιν τὴν ζωὴν ὑμῶν."
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "1.10.3",
+    "form": "ἀποστερηθῇ",
+    "postag": "v3sasp---",
+    "sentence": "μιμηταὶ δὲ τοῦ κυρίου σπουδάζωμεν εἶναι, τίς πλέον ἀδικηθῇ, τίς ἀποστερηθῇ, τίς ἀθετηθῇ ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "6   ἀπο-στερέω, -ῶ    (< στερέω, to rob),   [in LXX: Ex 21:10 (גּרע), De 24:14 (עשׁק), Ma 3:5, Si 4:1 29:6, 7 31 (34):21, 22*;]      to defraud, deprive of, despoil (in cl. chiefly of the misappropriation of trust funds, Field, Notes, 33; cf. MM, s.v.): absol., Mk 10:19, I Co 6:8; c. acc. pers., I Co 7:5. Mid., endure deprivation: I Co 6:7 (WM, § 38, 3; but v. Bl., § 54, 5; M, Pr., 162); pass., ἀπεστερημένοι, bereft of: I Ti 6:5.†"
+}
