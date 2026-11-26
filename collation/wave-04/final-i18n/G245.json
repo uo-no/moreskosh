@@ -1,0 +1,59 @@
+{
+  "strong": "G245",
+  "lemma": "ἀλλότριος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "他人の／自分のものでない",
+      "def_ja": "他人のもの、自分に属さない。『他人のものに忠実でなければ』『他人の罪にあずかるな』『他人の仕事の分野で』『他人の家の召使い』。",
+      "label_en": "another's / not one's own",
+      "def_en": "Belonging to another, not one's own: “if you have not been faithful with what is another's”, “do not share in others' sins”, “in another's field of labour”, “another's household servant”.",
+      "label_es": "ajeno / de otro",
+      "def_es": "Lo que es de otro, lo que no pertenece a uno: «si en lo ajeno no fuisteis fieles», «no participes en pecados ajenos», «en campo de trabajo ajeno», «el criado ajeno».",
+      "label_sv": "en annans / inte ens egen",
+      "def_sv": "Det som tillhör en annan och inte en själv: ”om ni inte varit trogna med det som är en annans”, ”ha ingen del i andras synder”, ”på en annans arbetsfält”, ”en annans tjänare”.",
+      "layers": {
+        "nt": 7,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰテモ5:22、Ⅱコリ10:15・10:16、ヘブル9:25、ルカ16:12、ローマ14:4・15:20。LXX 箴言5:17、教父（18.1.11）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "異国の／見知らぬ（人）",
+      "def_ja": "異国の、よそ者の、見知らぬ者。『他国人の声』『異国に寄留し』『他国の軍隊』『他の者から、子たちからか』。",
+      "label_en": "foreign / strange (person)",
+      "def_en": "Foreign, an outsider, unknown: “the voice of strangers”, “sojourned in a foreign land”, “foreign armies”, “from others, or from the sons?”",
+      "label_es": "extranjero / extraño (persona)",
+      "def_es": "Extranjero, forastero, desconocido: «la voz de los extraños», «habitó como extranjero», «ejércitos extranjeros», «¿de los extraños o de los hijos?».",
+      "label_sv": "främmande / okänd (person)",
+      "def_sv": "Utländsk, utomstående, okänd: ”främlingars röst”, ”bodde som främling i landet”, ”främmande härar”, ”av andra eller av sina söner?”.",
+      "layers": {
+        "nt": 7,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒7:6、ヘブル11:9・11:34、ヨハネ10:5（2回）、マタイ17:25・17:26。LXX エレミヤ2:21、教父（5.3.3）に並行。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "1TI 5:22": 1,
+    "2CO 10:15": 1,
+    "2CO 10:16": 1,
+    "ACT 7:6": 2,
+    "HEB 11:9": 2,
+    "HEB 11:34": 2,
+    "HEB 9:25": 1,
+    "JHN 10:5#1": 2,
+    "JHN 10:5#2": 2,
+    "LUK 16:12": 1,
+    "MAT 17:25": 2,
+    "MAT 17:26": 2,
+    "ROM 14:4": 1,
+    "ROM 15:20": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（他人の／異国の・見知らぬ）による。"
+}

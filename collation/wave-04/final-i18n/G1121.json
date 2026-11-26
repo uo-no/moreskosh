@@ -1,0 +1,110 @@
+{
+  "strong": "G1121",
+  "lemma": "γράμμα",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "書かれたもの／文字（霊に対する）",
+      "def_ja": "書かれた律法・文字。『文字は殺し、霊は生かす』『文字による古い道』『文字の割礼』『文字に縛られた』。",
+      "label_en": "what is written / the letter (as opposed to the Spirit)",
+      "def_en": "The written law, the letter: “the letter kills, but the Spirit gives life”, “the old way of the written code”, “circumcision by the letter”, “bound by the letter”.",
+      "label_es": "lo escrito / la letra (frente al Espíritu)",
+      "def_es": "La ley escrita, la letra: «la letra mata, mas el Espíritu vivifica», «el régimen viejo de la letra», «la circuncisión en la letra», «sujetos a la letra».",
+      "label_sv": "bokstaven (i motsats till Anden)",
+      "def_sv": "Den skrivna lagen, bokstaven: ”bokstaven dödar men Anden ger liv”, ”det gamla, bokstavens väg”, ”omskärelsen efter bokstaven”, ”bunden av bokstaven”.",
+      "layers": {
+        "nt": 6,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "Ⅱコリ3:6（2回）・3:7、ローマ2:27・2:29・7:6。LXX・教父の代表例では確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "書物／聖なる書物",
+      "def_ja": "書かれたもの、聖書。『幼い時から聖書に親しんできた』『彼の書いたものを信じないなら』。",
+      "label_en": "writings / sacred writings",
+      "def_en": "What is written, Scripture: “from childhood you have known the sacred writings”, “if you do not believe his writings”.",
+      "label_es": "escritos / Sagradas Escrituras",
+      "def_es": "Lo escrito, las Escrituras: «desde la niñez has sabido las Sagradas Escrituras», «si no creéis a sus escritos».",
+      "label_sv": "skrifter / de heliga skrifterna",
+      "def_sv": "Det skrivna, Skriften: ”från barndomen känner du de heliga skrifterna”, ”om ni inte tror hans skrifter”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅱテモ3:15、ヨハネ5:47。LXX ダニエル・エステル、教父（9.8）に並行。"
+    },
+    {
+      "n": 3,
+      "label_ja": "学問／文字の知識",
+      "def_ja": "学問、読み書きの学識。『あなたは学問が過ぎて』『学びもしないのに、どうして文字を知っているのか』。",
+      "label_en": "learning / knowledge of letters",
+      "def_en": "Learning, scholarship in reading and writing: “your great learning is driving you mad”, “how does he know letters without having studied?”",
+      "label_es": "letras / instrucción",
+      "def_es": "Estudio, saber de lector y escritor: «las muchas letras te vuelven loco», «¿cómo sabe este letras sin haber estudiado?».",
+      "label_sv": "lärdom / boklig kunskap",
+      "def_sv": "Studier, bildning i att läsa och skriva: ”din stora lärdom gör dig galen”, ”hur kan han vara så lärd utan att ha studerat?”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒26:24、ヨハネ7:15。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 4,
+      "label_ja": "字／手紙（書かれた文書）",
+      "def_ja": "字、書かれた書類・手紙。『こんなに大きな字で書いた』『あなたについての手紙は来ていない』。",
+      "label_en": "characters / letter (written document)",
+      "def_en": "Letters of writing, a written paper or letter: “with what large letters I write”, “we have received no letters about you”.",
+      "label_es": "caracteres / carta (documento)",
+      "def_es": "Letras, un escrito o carta: «con cuán grandes letras os escribo», «ni hemos recibido cartas acerca de ti».",
+      "label_sv": "skrivtecken / brev (handling)",
+      "def_sv": "Bokstäver, en skriven handling eller ett brev: ”vilka stora bokstäver jag skriver”, ”vi har inte fått något brev om dig”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ガラテヤ6:11、使徒28:21。LXX Ⅰマカバイ9:1・15:15、教父（2.1.4）に並行。"
+    },
+    {
+      "n": 5,
+      "label_ja": "証書／勘定書",
+      "def_ja": "証文、借用書、勘定書。『あなたの証文を取り、早く五十と書きなさい』。",
+      "label_en": "bond / bill",
+      "def_en": "A promissory note, a bill: “take your bill and quickly write fifty”.",
+      "label_es": "pagaré / cuenta",
+      "def_es": "Documento de deuda, cuenta: «toma tu cuenta y escribe pronto cincuenta».",
+      "label_sv": "skuldsedel / räkning",
+      "def_sv": "Ett skuldebrev, en räkning: ”här är din skuldsedel, skriv genast femtio”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ルカ16:6・16:7。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "2CO 3:6#1": 1,
+    "2CO 3:6#2": 1,
+    "2CO 3:7": 1,
+    "2TI 3:15": 2,
+    "ACT 26:24": 3,
+    "ACT 28:21": 4,
+    "GAL 6:11": 4,
+    "JHN 5:47": 2,
+    "JHN 7:15": 3,
+    "LUK 16:6": 5,
+    "LUK 16:7": 5,
+    "ROM 2:27": 1,
+    "ROM 2:29": 1,
+    "ROM 7:6": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用例による。"
+}

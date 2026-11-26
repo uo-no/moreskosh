@@ -1,0 +1,60 @@
+{
+  "strong": "G5528",
+  "lemma": "χόρτος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "草／青草",
+      "def_ja": "草、野の草、青いもの。『草は枯れ』『青草の上に座らせ』『野の草』『青草はみな焼けた』。",
+      "label_en": "grass / green growth",
+      "def_en": "Grass, the grass of the field, green growth: “the grass withers”, “made them sit on the green grass”, “the grass of the field”, “all green grass was burned up”.",
+      "label_es": "hierba / pasto verde",
+      "def_es": "Hierba, hierba del campo, verdor: «la hierba se seca», «recostar sobre la hierba verde», «la hierba del campo», «se quemó toda la hierba verde».",
+      "label_sv": "gräs / grönska",
+      "def_sv": "Gräs, markens gräs, det gröna: ”gräset vissnar”, ”lät dem slå sig ner i det gröna gräset”, ”gräset på ängen”, ”allt grönt gräs brann upp”.",
+      "layers": {
+        "nt": 14,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "Ⅰペテロ1:24（3回）、ヤコブ1:10・1:11、ヨハネ6:10、ルカ12:28、マタイ14:19・13:26・6:30、マルコ4:28・6:39、黙示録8:7・9:4。LXX 詩篇102:15・イザヤ40:6 に並行。教父の用例は無い。"
+    },
+    {
+      "n": 2,
+      "label_ja": "干し草",
+      "def_ja": "建材としての干し草。『金・銀・宝石・木・干し草・わら』。",
+      "label_en": "hay",
+      "def_en": "Hay as a building material: “gold, silver, precious stones, wood, hay, straw”.",
+      "label_es": "heno",
+      "def_es": "El heno como material de construcción: «oro, plata, piedras preciosas, madera, heno, hojarasca».",
+      "label_sv": "hö",
+      "def_sv": "Hö som byggnadsmaterial: ”guld, silver, ädelstenar, trä, hö, halm”.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "Ⅰコリ3:12 の1例のみ。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 3:12": 2,
+    "1PE 1:24#1": 1,
+    "1PE 1:24#2": 1,
+    "1PE 1:24#3": 1,
+    "JAS 1:10": 1,
+    "JAS 1:11": 1,
+    "JHN 6:10": 1,
+    "LUK 12:28": 1,
+    "MAT 14:19": 1,
+    "MAT 13:26": 1,
+    "MAT 6:30": 1,
+    "MRK 4:28": 1,
+    "MRK 6:39": 1,
+    "REV 8:7": 1,
+    "REV 9:4": 1
+  },
+  "unresolved": [],
+  "layer_notes": "教父の用例は無い。"
+}

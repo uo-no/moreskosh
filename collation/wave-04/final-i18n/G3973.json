@@ -1,0 +1,60 @@
+{
+  "strong": "G3973",
+  "lemma": "παύω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "やむ／やめる（中動）",
+      "def_ja": "止まる、やめる、終わる。『風がやんだ』『語り終えたとき』『祈ることをやめない』『預言はすたれる』『絶え間なく教え』。",
+      "label_en": "to cease / stop (middle)",
+      "def_en": "To stop, cease, come to an end: “the wind ceased”, “when he had finished speaking”, “do not cease to pray”, “prophecies will pass away”, “did not cease teaching”.",
+      "label_es": "cesar / dejar de (voz media)",
+      "def_es": "Detenerse, cesar, terminar: «cesó el viento», «cuando terminó de hablar», «no cesamos de orar», «las profecías se acabarán», «no cesaban de enseñar».",
+      "label_sv": "att upphöra / sluta (medium)",
+      "def_sv": "Att stanna, upphöra, ta slut: ”vinden lade sig”, ”när han hade slutat tala”, ”vi slutar inte att be”, ”profetiorna ska försvinna”, ”slutade inte att undervisa”.",
+      "layers": {
+        "nt": 14,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰコリ13:8、Ⅰペテロ4:1、使徒20:1・20:31・21:32・6:13・5:42・13:10、コロサイ1:9、エペソ1:16、ヘブル10:2、ルカ11:1・5:4・8:24。LXX 箴言・イザヤ、教父（3.3.2）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "やめさせる（能動）",
+      "def_ja": "止めさせる、やめさせる。『舌を悪から（やめさせよ）』。",
+      "label_en": "to make cease (active)",
+      "def_en": "To bring to a stop, to restrain: “let him keep his tongue from evil”.",
+      "label_es": "hacer cesar (activa)",
+      "def_es": "Detener, refrenar: «refrene su lengua del mal».",
+      "label_sv": "att hejda (aktivt)",
+      "def_sv": "Att få att upphöra, att hålla tillbaka: ”avhålla sin tunga från det onda”.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰペテロ3:10 の1例（LXX 詩篇33:14〔34:13〕の引用）。教父（22.3）に並行。"
+    }
+  ],
+  "assignments": {
+    "1CO 13:8": 1,
+    "1PE 4:1": 1,
+    "1PE 3:10": 2,
+    "ACT 13:10": 1,
+    "ACT 20:1": 1,
+    "ACT 20:31": 1,
+    "ACT 21:32": 1,
+    "ACT 6:13": 1,
+    "ACT 5:42": 1,
+    "COL 1:9": 1,
+    "EPH 1:16": 1,
+    "HEB 10:2": 1,
+    "LUK 11:1": 1,
+    "LUK 5:4": 1,
+    "LUK 8:24": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は態（中動／能動）による。"
+}

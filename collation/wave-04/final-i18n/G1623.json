@@ -1,0 +1,76 @@
+{
+  "strong": "G1623",
+  "lemma": "ἕκτος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "第六（時刻・正午ごろ）",
+      "def_ja": "『第六の時』。昼の十二時ごろ。『第六時ごろ』『正午から三時まで』。",
+      "label_en": "sixth (hour, about noon)",
+      "def_en": "“The sixth hour”, around twelve noon: “about the sixth hour”, “from noon until three”.",
+      "label_es": "sexta (hora, hacia el mediodía)",
+      "def_es": "«La hora sexta», hacia las doce del día: «como a la hora sexta», «desde la hora sexta hasta la novena».",
+      "label_sv": "sjätte (timmen, vid middagstid)",
+      "def_sv": "”Sjätte timmen”, omkring klockan tolv: ”vid sjätte timmen”, ”från sjätte timmen till nionde”.",
+      "layers": {
+        "nt": 7,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒10:9、ヨハネ19:14・4:6、ルカ23:44、マタイ20:5・27:45、マルコ15:33。LXX・教父の代表例では確認していない（序数としての『第六』は語義3に並行）。"
+    },
+    {
+      "n": 2,
+      "label_ja": "第六（月）",
+      "def_ja": "『第六の月』。『エリサベツが身ごもって六か月目』。",
+      "label_en": "sixth (month)",
+      "def_en": "“The sixth month”: “the sixth month of Elizabeth's pregnancy”.",
+      "label_es": "sexto (mes)",
+      "def_es": "«El sexto mes»: «el sexto mes del embarazo de Elisabet».",
+      "label_sv": "sjätte (månaden)",
+      "def_sv": "”Sjätte månaden”: ”sjätte månaden av Elisabets havandeskap”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ルカ1:26・1:36。LXX・教父の代表例では確認していない。語義3との境界は連続的。"
+    },
+    {
+      "n": 3,
+      "label_ja": "第六（順序）",
+      "def_ja": "順序としての第六。『第六の御使い』『第六の封印』『第六の宝石』。",
+      "label_en": "sixth (order)",
+      "def_en": "Sixth in sequence: the sixth angel, the sixth seal, the sixth jewel.",
+      "label_es": "sexto (orden)",
+      "def_es": "El sexto en una serie: el sexto ángel, el sexto sello, la sexta piedra preciosa.",
+      "label_sv": "sjätte (ordningstal)",
+      "def_sv": "Den sjätte i ordningen: sjätte ängeln, sjätte sigillet, sjätte ädelstenen.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "黙示録16:12・21:20・6:12・9:13・9:14。LXX 歴代誌上25:13、教父（26.1.7）に並行。"
+    }
+  ],
+  "assignments": {
+    "ACT 10:9": 1,
+    "JHN 19:14": 1,
+    "JHN 4:6": 1,
+    "LUK 1:26": 2,
+    "LUK 1:36": 2,
+    "LUK 23:44": 1,
+    "MAT 20:5": 1,
+    "MAT 27:45": 1,
+    "MRK 15:33": 1,
+    "REV 16:12": 3,
+    "REV 21:20": 3,
+    "REV 6:12": 3,
+    "REV 9:13": 3,
+    "REV 9:14": 3
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は数える対象（時刻／月／順序）による。"
+}

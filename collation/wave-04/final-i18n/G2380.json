@@ -1,0 +1,59 @@
+{
+  "strong": "G2380",
+  "lemma": "θύω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "犠牲をささげる／供える",
+      "def_ja": "犠牲をささげる、供える。『わたしたちの過越の子羊キリストが屠られた』『異邦人は悪霊に犠牲をささげる』『いけにえをささげようとした』『過越の小羊を屠る日』。",
+      "label_en": "to sacrifice / offer",
+      "def_en": "To offer a sacrifice: “Christ our Passover lamb has been sacrificed”, “what Gentiles sacrifice they offer to demons”, “wanted to offer sacrifice”, “the day the Passover lamb is sacrificed”.",
+      "label_es": "sacrificar / ofrecer",
+      "def_es": "Ofrecer en sacrificio: «nuestra pascua, que es Cristo, fue sacrificada», «lo que los gentiles sacrifican, a los demonios lo sacrifican», «quería ofrecer sacrificios», «el día en que se sacrifica el cordero de la pascua».",
+      "label_sv": "att offra / slakta som offer",
+      "def_sv": "Att frambära offer: ”vårt påskalamm Kristus är slaktat”, ”hedningarna offrar åt onda andar”, ”ville frambära offer”, ”dagen då påskalammet slaktas”.",
+      "layers": {
+        "nt": 7,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰコリ5:7・10:20（2回）、使徒14:13・14:18、ルカ22:7、マルコ14:12。LXX Ⅱ歴代5:17 ほか、教父（52.3）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "屠る／殺す（食用・暴力）",
+      "def_ja": "屠る、殺す。『肥えた子牛を屠れ』『起きて、屠って食べなさい』『盗人は殺すために来る』『肥えた家畜が屠られ』。",
+      "label_en": "to slaughter / kill (for food, violently)",
+      "def_en": "To butcher, to kill: “kill the fattened calf”, “rise, kill and eat”, “the thief comes to kill”, “the fattened cattle have been slaughtered”.",
+      "label_es": "matar / degollar (para comer, con violencia)",
+      "def_es": "Matar, degollar: «matad el becerro gordo», «levántate, mata y come», «el ladrón viene para matar», «los animales engordados han sido muertos».",
+      "label_sv": "att slakta / döda (till föda, med våld)",
+      "def_sv": "Att slakta och döda: ”slakta den gödda kalven”, ”stig upp, slakta och ät”, ”tjuven kommer för att döda”, ”gödboskapen är slaktad”.",
+      "layers": {
+        "nt": 7,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ15:23・15:27・15:30、マタイ22:4、使徒10:13・11:7、ヨハネ10:10。LXX 代表例に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "1CO 5:7": 1,
+    "1CO 10:20#1": 1,
+    "1CO 10:20#2": 1,
+    "ACT 14:13": 1,
+    "ACT 14:18": 1,
+    "ACT 11:7": 2,
+    "ACT 10:13": 2,
+    "JHN 10:10": 2,
+    "LUK 15:23": 2,
+    "LUK 15:27": 2,
+    "LUK 15:30": 2,
+    "LUK 22:7": 1,
+    "MAT 22:4": 2,
+    "MRK 14:12": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は文脈（祭儀／食用・暴力）による。"
+}

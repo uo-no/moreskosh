@@ -1,0 +1,60 @@
+{
+  "strong": "G2718",
+  "lemma": "κατέρχομαι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "下る／降りて来る",
+      "def_ja": "高い所から下る、下って行く・来る。『エルサレムからアンティオキアに下って来た』『山から下りて来る』『上からくる知恵』。",
+      "label_en": "to go down / come down",
+      "def_en": "To descend from a higher place, to go or come down: “came down from Jerusalem to Antioch”, “coming down from the mountain”, “wisdom that comes down from above”.",
+      "label_es": "bajar / descender",
+      "def_es": "Descender de un lugar alto, ir o venir abajo: «descendió de Jerusalén a Antioquía», «bajar del monte», «la sabiduría que desciende de lo alto».",
+      "label_sv": "att fara ner / komma ner",
+      "def_sv": "Att gå eller komma ner från en högre plats: ”kom ner från Jerusalem till Antiochia”, ”kom ner från berget”, ”visheten som kommer ovanifrån”.",
+      "layers": {
+        "nt": 12,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒12:19・11:27・18:5・15:1・15:30・13:4・21:10・8:5・9:32、ルカ4:31・9:37、ヤコブ3:15。LXX トビト1:22・エステル3:13 に並行。教父の代表例では確認していない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "入港する／上陸する",
+      "def_ja": "船が港に着く、上陸する。『カイサリアで上陸し』『ツロに上陸した』『ミラに着いた』。",
+      "label_en": "to put in / land",
+      "def_en": "A ship reaches port, one lands: “landing at Caesarea”, “landed at Tyre”, “arrived at Myra”.",
+      "label_es": "arribar / desembarcar",
+      "def_es": "La nave llega a puerto, se desembarca: «habiendo arribado a Cesarea», «arribamos a Tiro», «llegamos a Mira».",
+      "label_sv": "att lägga till / gå i land",
+      "def_sv": "Skeppet når hamn och man går i land: ”steg i land i Caesarea”, ”lade till i Tyros”, ”kom till Myra”.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒18:22・21:3・27:5。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 12:19": 1,
+    "ACT 11:27": 1,
+    "ACT 18:5": 1,
+    "ACT 18:22": 2,
+    "ACT 15:1": 1,
+    "ACT 15:30": 1,
+    "ACT 13:4": 1,
+    "ACT 21:3": 2,
+    "ACT 21:10": 1,
+    "ACT 27:5": 2,
+    "ACT 8:5": 1,
+    "ACT 9:32": 1,
+    "JAS 3:15": 1,
+    "LUK 4:31": 1,
+    "LUK 9:37": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は移動の様態（陸／船）による。"
+}

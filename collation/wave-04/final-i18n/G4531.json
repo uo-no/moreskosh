@@ -1,0 +1,60 @@
+{
+  "strong": "G4531",
+  "lemma": "σαλεύω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "揺れる／揺り動かす（物・天体）",
+      "def_ja": "物・大地・家・天体などが揺れる、揺り動かされる。『風に揺れる葦』『家が揺れた』『天の万象が揺り動かされる』『揺すり入れて』『地を揺り動かした』。",
+      "label_en": "to shake (things, heavenly bodies)",
+      "def_en": "Things, the ground, a house, or heavenly bodies shake or are shaken: “a reed shaken by the wind”, “the house was shaken”, “the powers of the heavens will be shaken”, “shaken together”, “shook the earth”.",
+      "label_es": "sacudir / agitar (cosas, astros)",
+      "def_es": "Cosas, la tierra, una casa o los astros tiemblan o son sacudidos: «caña sacudida por el viento», «la casa tembló», «las potencias de los cielos serán conmovidas», «medida remecida», «conmovió la tierra».",
+      "label_sv": "att skaka / rubba (ting, himlakroppar)",
+      "def_sv": "Ting, marken, hus eller himlakroppar skakas och rubbas: ”ett strå som vajar för vinden”, ”huset skakade”, ”himlens makter ska skakas”, ”skakat mått”, ”skakade jorden”.",
+      "layers": {
+        "nt": 12,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒16:26・4:31、ヘブル12:26・12:27（2回）、ルカ6:48・7:24・21:26・6:38、マタイ11:7・24:29、マルコ13:25。LXX 詩篇29:7、教父（20.1）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "動揺させる／動揺する（人）",
+      "def_ja": "人を動揺させる、心が揺れ動く。『群衆を揺り動かした』『心を揺り動かされないように』『わたしは動かされない』。",
+      "label_en": "to stir up / be shaken (people)",
+      "def_en": "To agitate people, to be shaken in mind: “stirred up the crowds”, “not to be quickly shaken in mind”, “I shall not be shaken”.",
+      "label_es": "perturbar / vacilar (personas)",
+      "def_es": "Agitar a las personas, conmoverse el ánimo: «alborotaron a las multitudes», «que no os dejéis mover fácilmente», «no seré conmovido».",
+      "label_sv": "att uppvigla / vackla (människor)",
+      "def_sv": "Att uppröra människor, att vackla i sinnet: ”hetsade upp folkskaran”, ”låt er inte rubbas så lätt”, ”jag ska inte vackla”.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒17:13、Ⅱテサ2:2、使徒2:25。LXX 詩篇29:7・43:16 に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "2TH 2:2": 2,
+    "ACT 16:26": 1,
+    "ACT 17:13": 2,
+    "ACT 2:25": 2,
+    "ACT 4:31": 1,
+    "HEB 12:26": 1,
+    "HEB 12:27#1": 1,
+    "HEB 12:27#2": 1,
+    "LUK 21:26": 1,
+    "LUK 6:38": 1,
+    "LUK 6:48": 1,
+    "LUK 7:24": 1,
+    "MAT 11:7": 1,
+    "MAT 24:29": 1,
+    "MRK 13:25": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は対象（物／人）による。"
+}

@@ -1,0 +1,59 @@
+{
+  "strong": "G2840",
+  "lemma": "κοινόω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "汚す／汚れたものとする",
+      "def_ja": "儀礼的に汚す、汚れたものとする。『人を汚すものは、口から出るもの』『口に入るものは人を汚すのではない』『この聖なる場所を汚した』『汚れた者たち』。",
+      "label_en": "to defile / make unclean",
+      "def_en": "To defile ritually, to make unclean: “what comes out of the mouth defiles a person”, “what goes into the mouth does not defile”, “has defiled this holy place”, “those who are defiled”.",
+      "label_es": "contaminar / hacer inmundo",
+      "def_es": "Manchar ritualmente, volver impuro: «lo que sale de la boca, esto contamina», «no lo que entra en la boca contamina», «ha profanado este santo lugar», «los inmundos».",
+      "label_sv": "att orena / göra oren",
+      "def_sv": "Att rituellt orena och göra oren: ”det som går ut ur munnen orenar människan”, ”det som går in i munnen orenar inte”, ”har orenat denna heliga plats”, ”de orenade”.",
+      "layers": {
+        "nt": 12,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マタイ15:11（2回）・15:18・15:20（2回）、マルコ7:15（2回）・7:18・7:20・7:23、使徒21:28、ヘブル9:13。LXX にこの語の用例は無い。教父の代表例では確認していない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "汚れたものとみなす",
+      "def_ja": "『汚れた』と宣言する、みなす。『神が清めたものを、汚れていると言ってはならない』。",
+      "label_en": "to count as unclean",
+      "def_en": "To declare or regard as “unclean”: “What God has made clean, do not call unclean.”",
+      "label_es": "tener por inmundo",
+      "def_es": "Declarar o considerar «inmundo»: «Lo que Dios limpió, no lo llames tú común».",
+      "label_sv": "att räkna som oren",
+      "def_sv": "Att förklara eller anse som ”oren”: ”Vad Gud har gjort rent ska du inte kalla orent.”",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒10:15・11:9。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 11:9": 2,
+    "ACT 10:15": 2,
+    "ACT 21:28": 1,
+    "HEB 9:13": 1,
+    "MAT 15:11#1": 1,
+    "MAT 15:11#2": 1,
+    "MAT 15:18": 1,
+    "MAT 15:20#1": 1,
+    "MAT 15:20#2": 1,
+    "MRK 7:15#1": 1,
+    "MRK 7:15#2": 1,
+    "MRK 7:18": 1,
+    "MRK 7:20": 1,
+    "MRK 7:23": 1
+  },
+  "unresolved": [],
+  "layer_notes": "LXX に用例は無い。"
+}

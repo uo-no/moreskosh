@@ -1,0 +1,59 @@
+{
+  "strong": "G1821",
+  "lemma": "ἐξαποστέλλω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "遣わす／送り出す",
+      "def_ja": "派遣する、送り出す。『御使いを遣わして』『神は御子を遣わされた』『約束のものを送る』『この救いのことばが私たちに送られた』『彼を送り出した』。",
+      "label_en": "to send / send out",
+      "def_en": "To dispatch, to send forth: “sent an angel”, “God sent forth his Son”, “I send the promise”, “the message of this salvation has been sent to us”, “sent him away”.",
+      "label_es": "enviar / despachar",
+      "def_es": "Enviar, mandar fuera: «enviando su ángel», «Dios envió a su Hijo», «yo envío la promesa», «a nosotros es enviada la palabra de esta salvación», «lo enviaron».",
+      "label_sv": "att sända / skicka ut",
+      "def_sv": "Att sända ut och skicka iväg: ”sänt sin ängel”, ”Gud sände sin Son”, ”jag sänder det utlovade”, ”budskapet om denna frälsning har sänts till oss”, ”skickade iväg honom”.",
+      "layers": {
+        "nt": 11,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒12:11・11:22・17:14・13:26・22:21・9:30・7:12、ガラテヤ4:4・4:6、ルカ24:49、マルコ16:8。LXX 出エジプト記10:20・詩篇147:7、教父（4.2.6、20.5）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "追い返す／去らせる",
+      "def_ja": "空手で去らせる、追い返す。『富む者を空手で去らせ』『何も持たせずに追い返した』。",
+      "label_en": "to send away / dismiss",
+      "def_en": "To send off empty-handed, to turn away: “sent the rich away empty”, “sent him away with nothing”.",
+      "label_es": "despedir / echar",
+      "def_es": "Despedir con las manos vacías, rechazar: «a los ricos envió vacíos», «lo enviaron con las manos vacías».",
+      "label_sv": "att skicka bort / avvisa",
+      "def_sv": "Att låta gå tomhänt, att köra bort: ”skickade de rika tomhänta därifrån”, ”skickade bort honom utan något”.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ1:53・20:10・20:11。LXX 代表例に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "ACT 12:11": 1,
+    "ACT 11:22": 1,
+    "ACT 17:14": 1,
+    "ACT 13:26": 1,
+    "ACT 22:21": 1,
+    "ACT 9:30": 1,
+    "ACT 7:12": 1,
+    "GAL 4:4": 1,
+    "GAL 4:6": 1,
+    "LUK 1:53": 2,
+    "LUK 20:10": 2,
+    "LUK 20:11": 2,
+    "LUK 24:49": 1,
+    "MRK 16:8": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は目的（派遣／追い返し）による。"
+}

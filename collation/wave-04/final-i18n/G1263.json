@@ -1,0 +1,60 @@
+{
+  "strong": "G1263",
+  "lemma": "διαμαρτύρομαι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "厳粛に証しする／宣べ伝える",
+      "def_ja": "厳粛に証言する、証しする、告げ知らせる。『神の福音を証しする』『ユダヤ人とギリシャ人に証しした』『主の道を証しした』。",
+      "label_en": "to testify solemnly / proclaim",
+      "def_en": "To bear solemn witness, to testify, to announce: “testify to the gospel of God”, “testified to Jews and Greeks”, “testified to the way of the Lord”.",
+      "label_es": "testificar solemnemente / proclamar",
+      "def_es": "Dar testimonio solemne, atestiguar, anunciar: «testificar del evangelio de Dios», «testificando a judíos y griegos», «testificaron la palabra del Señor».",
+      "label_sv": "att högtidligt vittna / förkunna",
+      "def_sv": "Att avlägga ett högtidligt vittnesbörd, vittna och kungöra: ”vittna om Guds evangelium”, ”vittnade för judar och greker”, ”vittnade om Herrens väg”.",
+      "layers": {
+        "nt": 10,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒18:5・10:42・2:40・20:21・20:23・20:24・23:11・28:23・8:25、ヘブル2:6。LXX 申命記・Ⅰ列王記8:9 に並行。教父の用例は無い。使徒2:40 は語義2との境界が連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "厳粛に警告する／命じる",
+      "def_ja": "厳粛に警告する、厳かに命じる。『神の前で命じる』『言い争わないよう警告し』『この苦しみの場所に来ないよう警告する』。",
+      "label_en": "to warn solemnly / charge",
+      "def_en": "To warn solemnly, to charge gravely: “I charge you before God”, “warn them not to quarrel about words”, “to warn them so that they do not come to this place of torment”.",
+      "label_es": "advertir solemnemente / conjurar",
+      "def_es": "Amonestar con gravedad, encargar solemnemente: «te encarezco delante de Dios», «exhortándoles a no contender sobre palabras», «para que les testifique a fin de que no vengan a este lugar de tormento».",
+      "label_sv": "att högtidligt varna / uppmana",
+      "def_sv": "Att allvarligt varna och högtidligt ålägga: ”jag uppmanar dig inför Gud”, ”varna dem för att strida om ord”, ”varna dem så att de inte kommer till detta pinorum”.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "Ⅰテサ4:6、Ⅰテモ5:21、Ⅱテモ2:14・4:1、ルカ16:28。LXX 申命記30:19 に並行。教父の用例は無い。"
+    }
+  ],
+  "assignments": {
+    "1TH 4:6": 2,
+    "1TI 5:21": 2,
+    "2TI 2:14": 2,
+    "2TI 4:1": 2,
+    "ACT 18:5": 1,
+    "ACT 10:42": 1,
+    "ACT 2:40": 1,
+    "ACT 20:21": 1,
+    "ACT 20:23": 1,
+    "ACT 20:24": 1,
+    "ACT 23:11": 1,
+    "ACT 28:23": 1,
+    "ACT 8:25": 1,
+    "HEB 2:6": 1,
+    "LUK 16:28": 2
+  },
+  "unresolved": [],
+  "layer_notes": "教父の用例は無い。語義区分は目的・文脈による。"
+}

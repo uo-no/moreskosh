@@ -1,0 +1,60 @@
+{
+  "strong": "G4302",
+  "lemma": "προλέγω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "あらかじめ警告する",
+      "def_ja": "前もって警告する、予告して戒める。『苦難にあうと前もって言っておいた』『前もって警告しておく』『見よ、前もって言っておいた』。",
+      "label_en": "to warn beforehand",
+      "def_en": "To warn in advance, to foretell and admonish: “we told you beforehand that we would suffer affliction”, “I warn you in advance”, “see, I have told you beforehand”.",
+      "label_es": "advertir de antemano",
+      "def_es": "Prevenir con anticipación, avisar y amonestar: «os predecíamos que íbamos a pasar tribulaciones», «os amonesto de antemano», «ya os lo he dicho antes».",
+      "label_sv": "att varna i förväg",
+      "def_sv": "Att på förhand varna och förmana: ”vi sade er i förväg att vi skulle få lida”, ”jag säger er det i förväg”, ”se, jag har sagt er det i förväg”.",
+      "layers": {
+        "nt": 8,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "Ⅰテサ3:4・4:6、Ⅱコリ13:2（2回）、ガラテヤ5:21（2回）、マタイ24:25、マルコ13:23。教父（23.5.7）に並行。LXX の代表例では確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "前に言う／前もって語る",
+      "def_ja": "前に述べる、前もって語る。『前に言ったとおり』『ダビデが預言した』『前もって語られた言葉を思い出せ』。",
+      "label_en": "to say before / speak in advance",
+      "def_en": "To state earlier, to speak beforehand: “as has been said before”, “David foretold”, “remember the words spoken beforehand”.",
+      "label_es": "decir antes / hablar de antemano",
+      "def_es": "Haber dicho antes, hablar con antelación: «como antes se dijo», «David predijo», «acordaos de las palabras que antes fueron dichas».",
+      "label_sv": "att tidigare säga / tala i förväg",
+      "def_sv": "Att ha sagt förut, att tala på förhand: ”som redan har sagts”, ”David förutsade”, ”kom ihåg de ord som talats i förväg”.",
+      "layers": {
+        "nt": 7,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒1:16、Ⅱペテロ3:2、ユダ17、ローマ9:29、ヘブル4:7、ガラテヤ1:9、Ⅱコリ7:3。LXX イザヤ41:26・Ⅳマカバイ14:8、教父（43.1）に並行。"
+    }
+  ],
+  "assignments": {
+    "1TH 3:4": 1,
+    "1TH 4:6": 1,
+    "2CO 13:2#1": 1,
+    "2CO 13:2#2": 1,
+    "2CO 7:3": 2,
+    "2PE 3:2": 2,
+    "ACT 1:16": 2,
+    "GAL 1:9": 2,
+    "GAL 5:21#1": 1,
+    "GAL 5:21#2": 1,
+    "HEB 4:7": 2,
+    "JUD 1:17": 2,
+    "MAT 24:25": 1,
+    "MRK 13:23": 1,
+    "ROM 9:29": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（警告／既述・予告）による。"
+}

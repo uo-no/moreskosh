@@ -1,0 +1,129 @@
+{
+  "strong": "G5179",
+  "lemma": "τύπος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "跡／痕（打たれた）",
+      "def_ja": "打たれてできた跡、傷跡。『釘の跡』。",
+      "label_en": "mark / print (made by a blow)",
+      "def_en": "A mark made by striking, a scar: “the mark of the nails”.",
+      "label_es": "marca / señal (de golpe)",
+      "def_es": "La señal dejada por un golpe, la huella de la herida: «la señal de los clavos».",
+      "label_sv": "märke / spår (efter slag)",
+      "def_sv": "Ett märke efter slag, ett ärr: ”märkena efter spikarna”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヨハネ20:25（2回）。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "像／偶像",
+      "def_ja": "刻まれた像、偶像。『拝むために造った像』。",
+      "label_en": "image / idol",
+      "def_en": "A carved image, an idol: “figures that you made to worship”.",
+      "label_es": "imagen / ídolo",
+      "def_es": "Imagen tallada, ídolo: «figuras que os hicisteis para adorarlas».",
+      "label_sv": "bild / avgudabild",
+      "def_sv": "En skuren bild, en avgud: ”de bilder ni gjort för att tillbe”.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒7:43 の1例（LXX アモス5:26 の引用）。代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "型／ひな形（設計）",
+      "def_ja": "造るべきものの型、設計図。『山で示された型に従って』。",
+      "label_en": "pattern / model (design)",
+      "def_en": "The pattern of what is to be made, a design: “according to the pattern shown on the mountain”.",
+      "label_es": "modelo / diseño",
+      "def_es": "El modelo de lo que se ha de hacer, el plano: «conforme al modelo mostrado en el monte».",
+      "label_sv": "förebild / mönster (ritning)",
+      "def_sv": "Mönstret för det som ska göras: ”efter förebilden som visades på berget”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒7:44、ヘブル8:5。LXX 出エジプト記25:40 に並行。教父の代表例では確認していない。"
+    },
+    {
+      "n": 4,
+      "label_ja": "形／文面",
+      "def_ja": "書き物・教えの形、文面。『次のような文面の手紙』『伝えられた教えの型』。",
+      "label_en": "form / wording",
+      "def_en": "The form or wording of a writing or teaching: “a letter to this effect”, “the form of teaching handed down”.",
+      "label_es": "forma / tenor",
+      "def_es": "La forma o el tenor de un escrito o enseñanza: «una carta en estos términos», «la forma de doctrina que os fue entregada».",
+      "label_sv": "form / ordalydelse",
+      "def_sv": "Formen eller lydelsen i en skrift eller lära: ”ett brev med följande innehåll”, ”den läroform som överlämnats”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒23:25、ローマ6:17。LXX Ⅲマカバイ3:30 に並行。教父の代表例では確認していない。"
+    },
+    {
+      "n": 5,
+      "label_ja": "模範／手本",
+      "def_ja": "見倣うべき模範、手本。『信者の模範となりなさい』『わたしたちを手本とせよ』。",
+      "label_en": "example / model",
+      "def_en": "A model to be imitated: “be an example to believers”, “take us as your example”.",
+      "label_es": "ejemplo / modelo",
+      "def_es": "Modelo digno de imitación: «sé ejemplo de los creyentes», «tenednos por ejemplo».",
+      "label_sv": "föredöme / förebild",
+      "def_sv": "En förebild att efterlikna: ”var ett föredöme för de troende”, ”ta oss till föredöme”.",
+      "layers": {
+        "nt": 8,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "Ⅰコリ10:6・10:11、Ⅰペテロ5:3、Ⅰテサ1:7、Ⅰテモ4:12、Ⅱテサ3:9、ピリピ3:17、テトス2:7。語義6との境界は連続的（Ⅰコリ10:6・10:11 は警告の例）。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 6,
+      "label_ja": "予型",
+      "def_ja": "来たるべきものを示す型。『きたるべき方の型』。",
+      "label_en": "type (foreshadowing)",
+      "def_en": "A type that points to what is to come: “a type of the one who was to come”.",
+      "label_es": "tipo (prefiguración)",
+      "def_es": "Figura que anuncia lo venidero: «figura del que había de venir».",
+      "label_sv": "förebild (typ för det kommande)",
+      "def_sv": "En typ som pekar på det som ska komma: ”en förebild till den som skulle komma”.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "ローマ5:14 の1例。教父（12.6）に並行。LXX の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 10:6": 5,
+    "1CO 10:11": 5,
+    "1PE 5:3": 5,
+    "1TH 1:7": 5,
+    "1TI 4:12": 5,
+    "2TH 3:9": 5,
+    "ACT 23:25": 4,
+    "ACT 7:43": 2,
+    "ACT 7:44": 3,
+    "HEB 8:5": 3,
+    "JHN 20:25#1": 1,
+    "JHN 20:25#2": 1,
+    "PHP 3:17": 5,
+    "ROM 5:14": 6,
+    "ROM 6:17": 4,
+    "TIT 2:7": 5
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用例による。"
+}

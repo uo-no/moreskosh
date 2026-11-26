@@ -1,0 +1,76 @@
+{
+  "strong": "G2077",
+  "lemma": "εἰμί",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "〜であれ（三人称命令）",
+      "def_ja": "『〜であれ』『〜でありなさい』。三人称の命令として状態・性質を命じる。『あなたがたの飾りは外面でなく』『執事は一人の妻の夫であれ』『日々の言葉は〈はい〉は〈はい〉』『異邦人のように』『腰に帯を締め』『早く聞き』。",
+      "label_en": "let … be (third-person imperative)",
+      "def_en": "“Let … be”: a third-person imperative commanding a state or quality: “let your adornment not be outward”, “let deacons be husbands of one wife”, “let your yes be yes”, “like a Gentile”, “have your waist girded”, “be quick to hear”.",
+      "label_es": "sea (imperativo de tercera persona)",
+      "def_es": "«Sea …»: imperativo de tercera persona que ordena un estado o cualidad: «vuestro atavío no sea el externo», «los diáconos sean maridos de una sola mujer», «sea vuestro hablar: sí, sí», «como gentil», «estén ceñidos vuestros lomos», «pronto para oír».",
+      "label_sv": "må … vara (imperativ i tredje person)",
+      "def_sv": "”Må … vara”: imperativ i tredje person som påbjuder ett tillstånd eller en egenskap: ”er prydnad ska inte vara den yttre”, ”en diakon ska vara en enda kvinnas man”, ”ert ja ska vara ja”, ”som en hedning”, ”ha bältet spänt”, ”vara snar att höra”.",
+      "layers": {
+        "nt": 9,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "Ⅰペテロ3:3、Ⅰテモ3:12、使徒1:20、ガラテヤ1:8・1:9、ヤコブ1:19、ルカ12:35、マタイ18:17・5:37。パケットは ἔστω／ἔστωσαν の形のみで、LXX・教父の代表例は別の活用形（ἦν・ἐστε など）のため層は確認できない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "知られよ（γνωστὸν ἔστω）",
+      "def_ja": "『知られよ』『知っていただきたい』の定型句。",
+      "label_en": "let it be known (γνωστὸν ἔστω)",
+      "def_en": "The set phrase “let it be known”, “I want you to know”.",
+      "label_es": "sea notorio (γνωστὸν ἔστω)",
+      "def_es": "Fórmula «sea notorio», «quiero que sepáis».",
+      "label_sv": "det må vara känt (γνωστὸν ἔστω)",
+      "def_sv": "Den fasta formeln ”ni ska veta”, ”det må vara känt”.",
+      "layers": {
+        "nt": 4,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒13:38・2:14・28:28・4:10。語義1との境界は連続的（定型句）。層は確認できない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "それはそれとして（譲歩）",
+      "def_ja": "『それはそれとしておこう』『よしとしよう』。",
+      "label_en": "be that as it may (concession)",
+      "def_en": "“Let that be as it is”, “very well”.",
+      "label_es": "sea como fuere (concesión)",
+      "def_es": "«Dejémoslo así», «sea».",
+      "label_sv": "låt så vara (medgivande)",
+      "def_sv": "”Låt det vara så”, ”nåväl”.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "Ⅱコリ12:16 の1例のみ。語義1との境界は連続的。層は確認できない。"
+    }
+  ],
+  "assignments": {
+    "1PE 3:3": 1,
+    "1TI 3:12": 1,
+    "2CO 12:16": 3,
+    "ACT 1:20": 1,
+    "ACT 13:38": 2,
+    "ACT 2:14": 2,
+    "ACT 28:28": 2,
+    "ACT 4:10": 2,
+    "GAL 1:8": 1,
+    "GAL 1:9": 1,
+    "JAS 1:19": 1,
+    "LUK 12:35": 1,
+    "MAT 18:17": 1,
+    "MAT 5:37": 1
+  },
+  "unresolved": [],
+  "layer_notes": "パケットの形は命令形の ἔστω／ἔστωσαν のみで、LXX・教父の代表例に同形が無く、層別確認に不十分。"
+}

@@ -1,0 +1,60 @@
+{
+  "strong": "G3933",
+  "lemma": "παρθένος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "おとめ／処女",
+      "def_ja": "未婚の女性、処女。『処女が身ごもって』『処女マリヤ』『十人のおとめ』『処女である四人の娘』『処女について』。",
+      "label_en": "virgin / maiden",
+      "def_en": "An unmarried woman, a virgin: “a virgin shall conceive”, “the virgin Mary”, “ten virgins”, “four daughters who were virgins”, “concerning virgins”.",
+      "label_es": "virgen / doncella",
+      "def_es": "Mujer no casada, virgen: «una virgen concebirá», «la virgen María», «diez vírgenes», «cuatro hijas doncellas», «en cuanto a las vírgenes».",
+      "label_sv": "jungfru / ungmö",
+      "def_sv": "En ogift kvinna, en jungfru: ”jungfrun ska bli havande”, ”jungfrun Maria”, ”tio jungfrur”, ”fyra ogifta döttrar”, ”beträffande de ogifta”.",
+      "layers": {
+        "nt": 14,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "マタイ1:23・25:1・25:7・25:11、ルカ1:27（2回）、使徒21:9、Ⅰコリ7:25・7:28・7:34・7:36・7:37・7:38、Ⅱコリ11:2。LXX 申命記・創世記24:16、教父（26.11.1）に並行。Ⅰコリ7:36〜38 の『処女』が誰を指すか（娘・婚約者・その他）は文脈による争点で、関係は決定せず語義1に置いた。"
+    },
+    {
+      "n": 2,
+      "label_ja": "清い者（男性・汚れを知らない）",
+      "def_ja": "女性にふれず汚れのない者。『彼らは女に汚されなかった者で、童貞である』。",
+      "label_en": "pure one (male, undefiled)",
+      "def_en": "One who has not touched a woman and is undefiled: “they have not defiled themselves with women, for they are virgins.”",
+      "label_es": "puro (varón sin mancha)",
+      "def_es": "El que no ha tocado mujer y está sin mancha: «no se contaminaron con mujeres, pues son vírgenes».",
+      "label_sv": "ren (man, obefläckad)",
+      "def_sv": "En som inte rört någon kvinna och är obefläckad: ”de har inte orenat sig med kvinnor, de är jungfruliga”.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "黙示録14:4 の1例のみ（男性形）。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 7:25": 1,
+    "1CO 7:28": 1,
+    "1CO 7:34": 1,
+    "1CO 7:36": 1,
+    "1CO 7:37": 1,
+    "1CO 7:38": 1,
+    "2CO 11:2": 1,
+    "ACT 21:9": 1,
+    "LUK 1:27#1": 1,
+    "LUK 1:27#2": 1,
+    "MAT 1:23": 1,
+    "MAT 25:1": 1,
+    "MAT 25:7": 1,
+    "MAT 25:11": 1,
+    "REV 14:4": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用例による。"
+}

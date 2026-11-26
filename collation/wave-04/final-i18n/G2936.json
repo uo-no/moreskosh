@@ -1,0 +1,60 @@
+{
+  "strong": "G2936",
+  "lemma": "κτίζω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "創造する（神が）",
+      "def_ja": "神が造る、創造する。『天と地と海を造られた方』『万物は神によって造られた』『初めから人を男と女に造られた』『創造者』。",
+      "label_en": "to create (of God)",
+      "def_en": "God makes, creates: “who made heaven and earth and sea”, “all things were created by God”, “made them male and female from the beginning”, “the Creator”.",
+      "label_es": "crear (Dios)",
+      "def_es": "Dios hace, crea: «el que hizo el cielo, la tierra y el mar», «todas las cosas fueron creadas por Dios», «varón y hembra los hizo al principio», «el Creador».",
+      "label_sv": "att skapa (om Gud)",
+      "def_sv": "Gud gör och skapar: ”han som gjort himmel, jord och hav”, ”allt är skapat av Gud”, ”skapade dem från början till man och kvinna”, ”Skaparen”.",
+      "layers": {
+        "nt": 12,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰコリ11:9、Ⅰテモ4:3、コロサイ1:16（2回）・3:10、マタイ19:4、マルコ13:19、黙示録10:6・4:11（2回）、ローマ1:25、エペソ3:9。LXX 詩篇88:48 ほか、教父（2.4.1 ほか）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "新しく造る（新しい人・キリストにあって）",
+      "def_ja": "キリストにあって新しく造る、造り上げる。『良い行いをするために造られた』『二つを一つの新しい人に造り』『神にかたどって造られた新しい人』。",
+      "label_en": "to create anew (the new self, in Christ)",
+      "def_en": "To make anew, to fashion in Christ: “created for good works”, “create in himself one new man of the two”, “the new self created after the likeness of God”.",
+      "label_es": "crear de nuevo (hombre nuevo, en Cristo)",
+      "def_es": "Hacer de nuevo, formar en Cristo: «creados para buenas obras», «crear de los dos un solo y nuevo hombre», «el nuevo hombre, creado según Dios».",
+      "label_sv": "att skapa på nytt (den nya människan, i Kristus)",
+      "def_sv": "Att nyskapa och forma i Kristus: ”skapade till goda gärningar”, ”skapa de två till en enda ny människa”, ”den nya människan som skapats efter Guds bild”.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "エペソ2:10・2:15・4:24。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 11:9": 1,
+    "1TI 4:3": 1,
+    "COL 3:10": 1,
+    "COL 1:16#1": 1,
+    "COL 1:16#2": 1,
+    "EPH 2:10": 2,
+    "EPH 2:15": 2,
+    "EPH 3:9": 1,
+    "EPH 4:24": 2,
+    "MAT 19:4": 1,
+    "MRK 13:19": 1,
+    "REV 10:6": 1,
+    "REV 4:11#1": 1,
+    "REV 4:11#2": 1,
+    "ROM 1:25": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は造る対象（被造物／新しい人）による。"
+}
