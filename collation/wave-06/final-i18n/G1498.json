@@ -1,0 +1,74 @@
+{
+  "strong": "G1498",
+  "lemma": "εἰμί",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "〜であろうか（間接疑問の希求法）",
+      "def_ja": "間接疑問における希求法『〜であろうか』『〜だろうか』。『これがどういう意味であろうかと考えた』『だれのことであろうか』『それが何であるのか』『誰がそうするのか』。",
+      "label_en": "might be (optative in indirect questions)",
+      "def_en": "The optative in indirect questions, “might be”, “could be”: “pondered what this might mean”, “who it might be”, “what it might be”, “which of them would do this”.",
+      "label_es": "sería (optativo en interrogativa indirecta)",
+      "def_es": "Optativo en preguntas indirectas, «sería», «podría ser»: «pensaba qué significaría esto», «quién sería», «qué sería aquello», «quién de ellos haría esto».",
+      "label_sv": "skulle vara (optativ i indirekt fråga)",
+      "def_sv": "Optativ i indirekta frågor, ”skulle vara”, ”kunde vara”: ”undrade vad detta kunde betyda”, ”vem det kunde vara”, ”vad det var”, ”vem av dem som skulle göra det”.",
+      "layers": {
+        "nt": 10,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒10:17・21:33、ヨハネ13:24、ルカ15:26・1:29・18:36・3:15・22:23・8:9・9:46。パケットは εἴη の形のみで、LXX・教父の代表例は直説法などの別形のため層は確認できない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "〜できるなら（条件・目的）",
+      "def_ja": "『できるならば』という条件・目的の節の希求法。『できるなら五旬節の日にエルサレムに着こうと急いでいた』。",
+      "label_en": "if it were (possible) (condition, purpose)",
+      "def_en": "The optative in a clause of condition or purpose, “if it were possible”: “he was hastening to be in Jerusalem, if possible, by Pentecost”.",
+      "label_es": "si fuese (posible) (condición, finalidad)",
+      "def_es": "Optativo en cláusula condicional o final, «si fuese posible»: «se apresuraba por estar en Jerusalén, si le fuese posible, el día de Pentecostés».",
+      "label_sv": "om det vore (möjligt) (villkor, syfte)",
+      "def_sv": "Optativ i villkors- eller avsiktssats, ”om det vore möjligt”: ”han skyndade för att om möjligt vara i Jerusalem till pingstdagen”.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒20:16 の1例のみ。語義1との境界は連続的。層は確認できない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "〜であれ（願望）",
+      "def_ja": "願望を表す希求法。『あなたの金は、あなたもろとも滅びよ』。",
+      "label_en": "may … be (wish)",
+      "def_en": "The optative expressing a wish: “may your money perish with you.”",
+      "label_es": "sea (deseo)",
+      "def_es": "Optativo de deseo: «tu dinero perezca contigo».",
+      "label_sv": "må … vara (önskan)",
+      "def_sv": "Optativ som uttrycker en önskan: ”må dina pengar gå under tillsammans med dig”.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒8:20 の1例のみ。層は確認できない。"
+    }
+  ],
+  "assignments": {
+    "ACT 10:17": 1,
+    "ACT 20:16": 2,
+    "ACT 21:33": 1,
+    "ACT 8:20": 3,
+    "JHN 13:24": 1,
+    "LUK 15:26": 1,
+    "LUK 1:29": 1,
+    "LUK 18:36": 1,
+    "LUK 3:15": 1,
+    "LUK 22:23": 1,
+    "LUK 8:9": 1,
+    "LUK 9:46": 1
+  },
+  "unresolved": [],
+  "layer_notes": "パケットは希求法 εἴη の形のみ。LXX・教父の代表例は別の活用形のため、層別確認に不十分。"
+}

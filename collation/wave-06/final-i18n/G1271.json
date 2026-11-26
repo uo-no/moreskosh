@@ -1,0 +1,74 @@
+{
+  "strong": "G1271",
+  "lemma": "διάνοια",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "思い／知性",
+      "def_ja": "思い、知性、理解力。『知性を整え』『あなたがたの純真な心』『思いにおいて敵対し』『知性が暗くなり』『肉と心の欲するままに』『心の思い（ルカ1:51）』『真の方を知る知力を』。",
+      "label_en": "mind / understanding",
+      "def_en": "Thought, mind, power of understanding: “preparing your minds”, “your sincere minds”, “hostile in mind”, “darkened in their understanding”, “the desires of the body and the mind”, “the thoughts of their hearts” (Luke 1:51), “understanding to know him who is true”.",
+      "label_es": "mente / entendimiento",
+      "def_es": "Pensamiento, mente, capacidad de comprender: «ceñid los lomos de vuestro entendimiento», «vuestro limpio entendimiento», «enemigos en vuestra mente», «el entendimiento entenebrecido», «la voluntad de la carne y de los pensamientos», «el pensamiento de sus corazones» (Lc 1:51), «entendimiento para conocer al que es verdadero».",
+      "label_sv": "sinne / förstånd",
+      "def_sv": "Tanke, sinne, förståndsförmåga: ”gör ert sinne redo”, ”ert rena sinne”, ”fientliga i sinnet”, ”förmörkade i sitt förstånd”, ”vad kroppen och sinnet begärde”, ”deras hjärtans tankar” (Luk 1:51), ”förstånd att känna den Sanne”.",
+      "layers": {
+        "nt": 7,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰヨハネ5:20、Ⅰペテロ1:13、Ⅱペテロ3:1、コロサイ1:21、エペソ2:3・4:18、ルカ1:51。LXX 創世記34:3・出エジプト記9:21、教父（35.2、3.11.3）に並行。語義2・3との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "思いを尽くして（愛の勧め）",
+      "def_ja": "『心を尽くし、魂を尽くし、思いを尽くして主を愛せよ』の句の中の『思い』。",
+      "label_en": "with all your mind (command to love)",
+      "def_en": "The “mind” in the phrase “love the Lord with all your heart, with all your soul, and with all your mind”.",
+      "label_es": "con toda tu mente (mandamiento de amar)",
+      "def_es": "La «mente» de la frase «amarás al Señor con todo tu corazón, con toda tu alma y con toda tu mente».",
+      "label_sv": "av hela ditt förstånd (budet att älska)",
+      "def_sv": "”Förståndet” i uttrycket ”älska Herren av hela ditt hjärta, av hela din själ och av hela ditt förstånd”.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ10:27、マタイ22:37、マルコ12:30（申命記6:5 の引用）。LXX 申命記6:5 に並行（引用句）。教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "思いの中に（律法を置く）",
+      "def_ja": "『律法を彼らの思いの中に置く』。",
+      "label_en": "into their minds (putting the law)",
+      "def_en": "“I will put my laws into their minds.”",
+      "label_es": "en la mente de ellos (poner la ley)",
+      "def_es": "«Pondré mis leyes en la mente de ellos».",
+      "label_sv": "i deras sinne (lägga lagen)",
+      "def_sv": "”Jag ska lägga mina lagar i deras sinne.”",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヘブル8:10・10:16（エレミヤ31:33 の引用）。語義1との境界は連続的。LXX の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1JN 5:20": 1,
+    "1PE 1:13": 1,
+    "2PE 3:1": 1,
+    "COL 1:21": 1,
+    "EPH 2:3": 1,
+    "EPH 4:18": 1,
+    "HEB 10:16": 3,
+    "HEB 8:10": 3,
+    "LUK 10:27": 2,
+    "LUK 1:51": 1,
+    "MAT 22:37": 2,
+    "MRK 12:30": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（知性／愛の勧めの句／思いの中）による。"
+}

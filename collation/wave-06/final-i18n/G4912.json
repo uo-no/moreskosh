@@ -1,0 +1,108 @@
+{
+  "strong": "G4912",
+  "lemma": "συνέχω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "苦しめられる／とらえられる（病・恐れに）",
+      "def_ja": "病気・恐れに苦しめられる、とらえられる。『熱病に苦しんでいた』『重い熱病で床についていた』『さまざまの病に悩む人々』『大きな恐れにとらえられた』。",
+      "label_en": "to be afflicted / seized (illness, fear)",
+      "def_en": "To be afflicted or gripped by illness or fear: “was suffering from a fever”, “was ill with a high fever”, “those suffering from various diseases”, “were seized with great fear”.",
+      "label_es": "estar aquejado / sobrecogido (enfermedad, temor)",
+      "def_es": "Sufrir, ser presa de enfermedad o miedo: «estaba enferma de fiebre», «tenía una gran fiebre», «afligidos por diversas enfermedades», «tenían gran temor».",
+      "label_sv": "att plågas / gripas (av sjukdom, fruktan)",
+      "def_sv": "Att vara ansatt och gripen av sjukdom eller fruktan: ”låg sjuk i feber”, ”hade hög feber”, ”de som led av olika sjukdomar”, ”greps av stor fruktan”.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒28:8、ルカ4:38・8:37、マタイ4:24。LXX 代表例に並行。教父の代表例では確認していない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "押し迫る／取り囲む",
+      "def_ja": "四方から押し迫る、取り囲む。『群衆があなたに押し迫っている』『四方から攻め囲み』。",
+      "label_en": "to press in on / hem in",
+      "def_en": "To press from all sides, to surround: “the crowds are pressing in on you”, “will surround you and hem you in on every side”.",
+      "label_es": "apretar / estrechar",
+      "def_es": "Oprimir por todas partes, cercar: «la multitud te aprieta», «por todas partes te estrecharán».",
+      "label_sv": "att tränga på / omringa",
+      "def_sv": "Att trycka på från alla håll, att omringa: ”folket tränger sig på dig”, ”ansätta dig från alla sidor”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ19:43・8:45。LXX 代表例に並行。教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "迫られる／強く促される",
+      "def_ja": "強く迫られる、せき立てられる。『キリストの愛がわたしたちに迫っている』『みことばに専念して』『わたしはどんなに苦しんでいることか』『二つのものの間に板挟みになっている』。",
+      "label_en": "to be pressed / impelled",
+      "def_en": "To be urgently pressed, driven: “the love of Christ compels us”, “was occupied with the word”, “how great is my distress”, “I am hard pressed between the two”.",
+      "label_es": "estar apremiado / impulsado",
+      "def_es": "Verse urgido, apremiado: «el amor de Cristo nos constriñe», «entregado por entero a la palabra», «¡cómo me angustio!», «de ambas cosas estoy puesto en estrecho».",
+      "label_sv": "att drivas / vara hårt ansatt",
+      "def_sv": "Att vara starkt pressad och driven: ”Kristi kärlek driver oss”, ”helt upptagen av ordet”, ”hur våndas jag inte”, ”jag dras åt båda hållen”.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅱコリ5:14、使徒18:5、ルカ12:50、ピリピ1:23。LXX ヨブ10:1、教父（20.5）に並行。"
+    },
+    {
+      "n": 4,
+      "label_ja": "捕らえておく（番人が）",
+      "def_ja": "捕らえて見張る。『イエスを捕らえていた者たち』。",
+      "label_en": "to hold in custody (guards)",
+      "def_en": "To hold and guard: “the men who were holding Jesus”.",
+      "label_es": "tener preso (guardias)",
+      "def_es": "Retener y vigilar: «los hombres que custodiaban a Jesús».",
+      "label_sv": "att hålla fången (vakter)",
+      "def_sv": "Att hålla och vakta: ”männen som bevakade Jesus”.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ルカ22:63 の1例のみ。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 5,
+      "label_ja": "ふさぐ（耳を）",
+      "def_ja": "耳をふさぐ。『耳をふさいで』（使徒7:57）。",
+      "label_en": "to stop (the ears)",
+      "def_en": "To stop one's ears: “stopped their ears” (Acts 7:57).",
+      "label_es": "tapar (los oídos)",
+      "def_es": "Taparse los oídos: «se taparon los oídos» (Hch 7:57).",
+      "label_sv": "att hålla för (öronen)",
+      "def_sv": "Att täppa till öronen: ”höll för öronen” (Apg 7:57).",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒7:57 の1例のみ。LXX イザヤ52:15 に並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "2CO 5:14": 3,
+    "ACT 18:5": 3,
+    "ACT 28:8": 1,
+    "ACT 7:57": 5,
+    "LUK 12:50": 3,
+    "LUK 19:43": 2,
+    "LUK 4:38": 1,
+    "LUK 22:63": 4,
+    "LUK 8:37": 1,
+    "LUK 8:45": 2,
+    "MAT 4:24": 1,
+    "PHP 1:23": 3
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。"
+}

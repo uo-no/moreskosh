@@ -1,0 +1,74 @@
+{
+  "strong": "G1119",
+  "lemma": "γόνυ",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "ひざまずく（ひざを曲げる姿勢）",
+      "def_ja": "ひざまずく姿勢をとる。『ひざまずいて祈った』『ひざをついて』『ひざをかがめて』『ひざを折り』『ひざの前で嘲って拝んだ』。",
+      "label_en": "to kneel (posture)",
+      "def_en": "To take a kneeling posture: “knelt down and prayed”, “knelt”, “bowing the knee”, “falling on their knees”, “knelt before him in mockery”.",
+      "label_es": "arrodillarse (postura)",
+      "def_es": "Ponerse de rodillas: «puesto de rodillas oró», «de rodillas», «doblando la rodilla», «hincando las rodillas», «hincando la rodilla delante de él, le escarnecían».",
+      "label_sv": "att falla på knä (kroppsställning)",
+      "def_sv": "Att inta knäböjande ställning: ”föll på knä och bad”, ”på knä”, ”böjde knä”, ”knäföll”, ”föll hånfullt på knä inför honom”.",
+      "layers": {
+        "nt": 7,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒20:36・21:5・9:40・7:60、ルカ22:41、エペソ3:14、マルコ15:19。LXX 列王記上19:18、教父に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "ひざをかがめる（礼拝・服従）",
+      "def_ja": "礼拝・服従のしるしとしてひざをかがめる。『すべてのひざがかがみ』『バアルにひざをかがめなかった』『すべてのひざはわたしの前にかがみ』。",
+      "label_en": "to bow the knee (worship, submission)",
+      "def_en": "To bow the knee as a sign of worship or submission: “every knee shall bow”, “have not bowed the knee to Baal”, “to me every knee shall bow”.",
+      "label_es": "doblar la rodilla (adoración, sumisión)",
+      "def_es": "Doblar la rodilla en señal de culto o sometimiento: «se doble toda rodilla», «no han doblado la rodilla delante de Baal», «ante mí se doblará toda rodilla».",
+      "label_sv": "att böja knä (tillbedjan, underkastelse)",
+      "def_sv": "Att böja knä som tecken på tillbedjan eller underkastelse: ”alla knän ska böjas”, ”inte böjt knä för Baal”, ”för mig ska varje knä böjas”.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ピリピ2:10、ローマ11:4・14:11。LXX 列王記上19:18・イザヤ45:23 の引用に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+    },
+    {
+      "n": 3,
+      "label_ja": "ひざ（体の部分）",
+      "def_ja": "ひざ。『イエスのひざもとにひれ伏して』『弱くなったひざ』。",
+      "label_en": "knee (part of the body)",
+      "def_en": "The knee: “fell down at Jesus' knees”, “weak knees”.",
+      "label_es": "rodilla (parte del cuerpo)",
+      "def_es": "La rodilla: «cayó de rodillas ante Jesús», «las rodillas paralizadas».",
+      "label_sv": "knä (kroppsdel)",
+      "def_sv": "Knäet: ”föll ner vid Jesu knän”, ”svaga knän”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ルカ5:8、ヘブル12:12。LXX ダニエル10:10、教父に並行。"
+    }
+  ],
+  "assignments": {
+    "ACT 20:36": 1,
+    "ACT 21:5": 1,
+    "ACT 9:40": 1,
+    "ACT 7:60": 1,
+    "EPH 3:14": 1,
+    "HEB 12:12": 3,
+    "LUK 5:8": 3,
+    "LUK 22:41": 1,
+    "MRK 15:19": 1,
+    "PHP 2:10": 2,
+    "ROM 11:4": 2,
+    "ROM 14:11": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（姿勢／礼拝／体の部分）による。"
+}

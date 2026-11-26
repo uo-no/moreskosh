@@ -1,0 +1,74 @@
+{
+  "strong": "G3087",
+  "lemma": "λυχνία",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "燭台／灯台（家の）",
+      "def_ja": "ともしびを載せる燭台。『燭台の上に置く』『升の下や寝台の下に置くだろうか』。",
+      "label_en": "lampstand (household)",
+      "def_en": "A stand for holding a lamp: “put it on a lampstand”, “is it put under a basket or under a bed?”",
+      "label_es": "candelero (de casa)",
+      "def_es": "Soporte donde se pone la lámpara: «ponerla en el candelero», «¿para ponerla debajo del almud o de la cama?».",
+      "label_sv": "lampställ (i hemmet)",
+      "def_sv": "Ett ställ för lampan: ”sätta den på hållaren”, ”ställer man den under skålen eller under bänken?”.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ11:33・8:16、マタイ5:15、マルコ4:21。LXX 出エジプト記25:31 に並行。教父の用例は無い。"
+    },
+    {
+      "n": 2,
+      "label_ja": "燭台（幕屋の）",
+      "def_ja": "幕屋の燭台。『燭台と机と供えのパン』。",
+      "label_en": "lampstand (of the tabernacle)",
+      "def_en": "The lampstand of the tabernacle: “the lampstand, the table, and the bread of the Presence”.",
+      "label_es": "candelabro (del tabernáculo)",
+      "def_es": "El candelabro del tabernáculo: «el candelabro, la mesa y los panes de la proposición».",
+      "label_sv": "lampställ (i tabernaklet)",
+      "def_sv": "Tabernaklets lampställ: ”lampstället, bordet och skådebröden”.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヘブル9:2 の1例のみ。LXX 出エジプト記25:32 に並行。教父の用例は無い。語義1との境界は連続的。"
+    },
+    {
+      "n": 3,
+      "label_ja": "燭台（黙示録の）",
+      "def_ja": "黙示録に現れる燭台。『七つの金の燭台』『七つの燭台は七つの教会』『二本の燭台』『あなたの燭台を取りのける』。",
+      "label_en": "lampstand (in Revelation)",
+      "def_en": "The lampstands that appear in Revelation: “seven golden lampstands”, “the seven lampstands are the seven churches”, “two lampstands”, “I will remove your lampstand”.",
+      "label_es": "candelero (del Apocalipsis)",
+      "def_es": "Los candeleros del Apocalipsis: «siete candeleros de oro», «los siete candeleros son las siete iglesias», «dos candeleros», «quitaré tu candelero».",
+      "label_sv": "lampställ (i Uppenbarelseboken)",
+      "def_sv": "Lampställen i Uppenbarelseboken: ”sju lampställ av guld”, ”de sju lampställen är de sju församlingarna”, ”två lampställ”, ”jag ska flytta ditt lampställ”.",
+      "layers": {
+        "nt": 7,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "黙示録1:12・1:13・1:20（2回）・11:4・2:1・2:5。LXX ゼカリヤ4:2 に並行。教父の用例は無い。指す対象の同定は付さない。"
+    }
+  ],
+  "assignments": {
+    "HEB 9:2": 2,
+    "LUK 11:33": 1,
+    "LUK 8:16": 1,
+    "MAT 5:15": 1,
+    "MRK 4:21": 1,
+    "REV 1:12": 3,
+    "REV 1:13": 3,
+    "REV 1:20#1": 3,
+    "REV 1:20#2": 3,
+    "REV 11:4": 3,
+    "REV 2:1": 3,
+    "REV 2:5": 3
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用例（家／幕屋／黙示録）による。教父の用例は無い。"
+}

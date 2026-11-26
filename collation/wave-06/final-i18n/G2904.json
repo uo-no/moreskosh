@@ -1,0 +1,91 @@
+{
+  "strong": "G2904",
+  "lemma": "κράτος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "力／支配（頌栄の中で）",
+      "def_ja": "頌栄で述べられる力、支配、権能。『力が世々限りなくありますように』『栄光と力が世々限りなく』『ただひとり、栄誉と力が永遠に』。",
+      "label_en": "might / dominion (in doxologies)",
+      "def_en": "Might, dominion, power stated in doxologies: “to him be dominion forever and ever”, “glory and dominion forever”, “to him be honour and eternal dominion”.",
+      "label_es": "poder / dominio (en doxologías)",
+      "def_es": "El poder, el dominio y la autoridad en las doxologías: «a él sea el imperio por los siglos de los siglos», «la gloria y el imperio por los siglos», «honra e imperio sempiterno».",
+      "label_sv": "makt / herravälde (i lovprisningar)",
+      "def_sv": "Makten och väldet som nämns i doxologier: ”hans är makten i evigheters evighet”, ”äran och väldet i evighet”, ”ära och evig makt”.",
+      "layers": {
+        "nt": 6,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰペテロ5:11・4:11、Ⅰテモ6:16、ユダ25、黙示録1:6・5:13。LXX 詩篇・ダニエル、教父（27.5、17.5）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "力／強さ（神の働きとして）",
+      "def_ja": "力、強さ。『御力の強さにより』『主にあって、その大能の力によって強くなれ』『腕で力ある業を行い』『栄光の力に従って力づけられ』。",
+      "label_en": "power / strength (God's working)",
+      "def_en": "Power, strength: “according to the working of his great might”, “be strong in the Lord and in the strength of his might”, “has done mighty deeds with his arm”, “strengthened according to his glorious might”.",
+      "label_es": "poder / fuerza (obrar de Dios)",
+      "def_es": "Poder, fuerza: «según la operación del poder de su fuerza», «fortaleceos en el Señor y en el poder de su fuerza», «hizo proezas con su brazo», «fortalecidos conforme a la potencia de su gloria».",
+      "label_sv": "kraft / styrka (Guds verk)",
+      "def_sv": "Kraft och styrka: ”efter hans väldiga krafts verkan”, ”bli starka i Herren och i hans väldiga kraft”, ”utfört mäktiga verk med sin arm”, ”styrkta av hans härlighets kraft”.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "コロサイ1:11、エペソ1:19・6:10、ルカ1:51。LXX・教父に並行。"
+    },
+    {
+      "n": 3,
+      "label_ja": "力強く（勢いよく）",
+      "def_ja": "勢い、力強さ。『主のことばは力強く広まり』（使徒19:20）。",
+      "label_en": "mightily (with force)",
+      "def_en": "Force, vigour: “the word of the Lord grew mightily” (Acts 19:20).",
+      "label_es": "poderosamente (con fuerza)",
+      "def_es": "Ímpetu, vigor: «así crecía y prevalecía poderosamente la palabra del Señor» (Hch 19:20).",
+      "label_sv": "med kraft (mäktigt)",
+      "def_sv": "Styrka, kraft: ”Herrens ord spreds mäktigt” (Apg 19:20).",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒19:20 の1例のみ。LXX 代表例に並行。教父の代表例では確認していない。"
+    },
+    {
+      "n": 4,
+      "label_ja": "死を支配する力",
+      "def_ja": "『死を支配する力を持つ者』（ヘブル2:14）。",
+      "label_en": "power over death",
+      "def_en": "“The one who has the power of death” (Heb 2:14).",
+      "label_es": "imperio sobre la muerte",
+      "def_es": "«El que tenía el imperio de la muerte» (He 2:14).",
+      "label_sv": "makt över döden",
+      "def_sv": "”Den som har döden i sitt våld” (Heb 2:14).",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヘブル2:14 の1例のみ。語義1・2との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1PE 5:11": 1,
+    "1PE 4:11": 1,
+    "1TI 6:16": 1,
+    "ACT 19:20": 3,
+    "COL 1:11": 2,
+    "EPH 1:19": 2,
+    "EPH 6:10": 2,
+    "HEB 2:14": 4,
+    "JUD 1:25": 1,
+    "LUK 1:51": 2,
+    "REV 1:6": 1,
+    "REV 5:13": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。"
+}

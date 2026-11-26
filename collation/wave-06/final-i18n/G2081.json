@@ -1,0 +1,74 @@
+{
+  "strong": "G2081",
+  "lemma": "ἔσωθεν",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "内側（に）／中（に）",
+      "def_ja": "内側に、中に。『杯と皿の内側』『内側は貪欲と邪悪で満ちている』『心の内に恐れ』『内側には目がいっぱい』『内側と外側に文字が書かれ』。",
+      "label_en": "inside / within",
+      "def_en": "Inside, within: “the inside of the cup and dish”, “inside they are full of greed and wickedness”, “fear within”, “full of eyes within”, “writing on the inside and on the back”.",
+      "label_es": "por dentro / en el interior",
+      "def_es": "Dentro, en lo interior: «lo de dentro del vaso y del plato», «por dentro están llenos de robo y de maldad», «de dentro, temores», «por dentro llenos de ojos», «escrito por dentro y por fuera».",
+      "label_sv": "inuti / på insidan",
+      "def_sv": "Inuti, i det inre: ”insidan av bägaren och fatet”, ”inuti fulla av rofferi och ondska”, ”inom oss fruktan”, ”fulla av ögon inuti”, ”skriven på insidan och utsidan”.",
+      "layers": {
+        "nt": 8,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ルカ11:39・11:40、マタイ23:25・23:27・23:28、黙示録4:8・5:1、Ⅱコリ7:5。LXX エゼキエル42:15・列王記上6:15、教父（4.3.2）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "内から（出所）",
+      "def_ja": "内から、内部から。『内から出てくる』『内から答えて』。",
+      "label_en": "from within (source)",
+      "def_en": "From within: “comes out from within”, “answers from within”.",
+      "label_es": "desde dentro (origen)",
+      "def_es": "De dentro: «sale de dentro», «respondiendo desde dentro».",
+      "label_sv": "inifrån (ursprung)",
+      "def_sv": "Inifrån: ”kommer inifrån”, ”svarar inifrån”.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "マルコ7:21・7:23、ルカ11:7。LXX・教父（4.7.2）に並行。語義1との境界は連続的。"
+    },
+    {
+      "n": 3,
+      "label_ja": "内側は（実質として）",
+      "def_ja": "外見でなく実質として。『内側は貪欲な狼』（マタイ7:15）。",
+      "label_en": "inwardly (in reality)",
+      "def_en": "In reality, not in appearance: “inwardly ravenous wolves” (Matt 7:15).",
+      "label_es": "por dentro (en realidad)",
+      "def_es": "No en apariencia, sino en realidad: «por dentro son lobos rapaces» (Mt 7:15).",
+      "label_sv": "i sitt inre (i verkligheten)",
+      "def_sv": "Inte till det yttre utan i verkligheten: ”i sitt inre rovlystna vargar” (Matt 7:15).",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マタイ7:15 の1例のみ。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "2CO 7:5": 1,
+    "LUK 11:7": 2,
+    "LUK 11:39": 1,
+    "LUK 11:40": 1,
+    "MAT 23:25": 1,
+    "MAT 23:27": 1,
+    "MAT 23:28": 1,
+    "MAT 7:15": 3,
+    "MRK 7:21": 2,
+    "MRK 7:23": 2,
+    "REV 4:8": 1,
+    "REV 5:1": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（場所／出所／実質）による。"
+}

@@ -1,0 +1,57 @@
+{
+  "strong": "G3327",
+  "lemma": "μεταβαίνω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "移る／去る（場所を）",
+      "def_ja": "場所から場所へ移る、去る。『ここから向こうへ移れ』『家から家へ渡り歩くな』『そこから出て行かれた』『この地方から去ってほしい』『そこを去って会堂に入られた』『ここを去ってユダヤへ行きなさい』。",
+      "label_en": "to move on / depart (place)",
+      "def_en": "To go from one place to another, to leave: “move from here to there”, “do not go from house to house”, “went on from there”, “to depart from their region”, “left there and entered the synagogue”, “leave here and go to Judea”.",
+      "label_es": "pasar / marcharse (de un lugar)",
+      "def_es": "Ir de un lugar a otro, partir: «pásate de aquí allá», «no os paséis de casa en casa», «se fue de allí», «que se fuera de sus contornos», «pasando de allí entró en la sinagoga», «sal de aquí y vete a Judea».",
+      "label_sv": "att flytta / ge sig av (om platser)",
+      "def_sv": "Att gå från en plats till en annan: ”flytta härifrån dit bort”, ”flytta inte från hus till hus”, ”gick därifrån”, ”lämna deras område”, ”gick vidare in i synagogan”, ”gå härifrån till Judeen”.",
+      "layers": {
+        "nt": 9,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ルカ10:7、マタイ17:20（2回）・11:1・12:9・15:29・8:34、使徒18:7、ヨハネ7:3。LXX 知恵7:27・Ⅱマカバイ6:1、教父（18.1）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "移り行く（死から命へ・世から父へ）",
+      "def_ja": "状態・世界を移り行く。『死から命へ移っている』『この世から父のもとへ移る時が来た』。",
+      "label_en": "to pass over (from death to life, world to Father)",
+      "def_en": "To pass from one state or world to another: “has passed from death to life”, “his hour had come to pass out of this world to the Father”.",
+      "label_es": "pasar (de muerte a vida, del mundo al Padre)",
+      "def_es": "Pasar de un estado o mundo a otro: «ha pasado de muerte a vida», «su hora había llegado para que pasase de este mundo al Padre».",
+      "label_sv": "att gå över (från döden till livet, från världen till Fadern)",
+      "def_sv": "Att övergå från ett tillstånd eller en värld till en annan: ”har gått över från döden till livet”, ”stunden hade kommit då han skulle gå från denna världen till Fadern”.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヨハネ13:1・5:24、Ⅰヨハネ3:14。LXX・教父に並行。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "1JN 3:14": 2,
+    "ACT 18:7": 1,
+    "JHN 13:1": 2,
+    "JHN 5:24": 2,
+    "JHN 7:3": 1,
+    "LUK 10:7": 1,
+    "MAT 11:1": 1,
+    "MAT 17:20#1": 1,
+    "MAT 17:20#2": 1,
+    "MAT 15:29": 1,
+    "MAT 12:9": 1,
+    "MAT 8:34": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（場所／状態の移り）による。"
+}

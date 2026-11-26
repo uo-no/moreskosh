@@ -1,0 +1,74 @@
+{
+  "strong": "G3474",
+  "lemma": "μωρός",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "愚かな（人）",
+      "def_ja": "愚かな、愚か者。『愚か者になれ』『わたしたちはキリストのために愚かな者』『愚かで盲目な者たち』『愚かなおとめ』『愚かな人』。",
+      "label_en": "foolish (person)",
+      "def_en": "Foolish, a fool: “let him become a fool”, “we are fools for Christ's sake”, “you blind fools”, “foolish virgins”, “a foolish man”.",
+      "label_es": "necio (persona)",
+      "def_es": "Insensato, necio: «hágase ignorante», «nosotros somos insensatos por amor de Cristo», «¡insensatos y ciegos!», «las vírgenes insensatas», «un hombre insensato».",
+      "label_sv": "dåraktig (människa)",
+      "def_sv": "Dåraktig, en dåre: ”må han bli en dåre”, ”vi är dårar för Kristi skull”, ”ni blinda dårar”, ”de oförståndiga jungfrurna”, ”en oförståndig man”.",
+      "layers": {
+        "nt": 7,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰコリ3:18・4:10、マタイ23:17・25:2・25:3・25:8・7:26。LXX 詩篇・箴言・シラ、教父（26.22.4、39.1）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "愚かな（物・事）",
+      "def_ja": "愚かなこと、愚かな議論。『神の愚かさ』『世の愚かな者』『愚かな議論』『愚かな議論を避けよ』。",
+      "label_en": "foolish (thing, matter)",
+      "def_en": "A foolish thing, foolish disputes: “the foolishness of God”, “what is foolish in the world”, “foolish controversies”, “avoid foolish disputes”.",
+      "label_es": "necio (cosa, asunto)",
+      "def_es": "Lo necio, las discusiones necias: «lo insensato de Dios», «lo necio del mundo», «cuestiones necias», «evita las cuestiones necias».",
+      "label_sv": "dåraktig (ting, sak)",
+      "def_sv": "Det dåraktiga, dåraktiga tvister: ”Guds dårskap”, ”det som är dåraktigt för världen”, ”dåraktiga dispyter”, ”undvik dumma tvistefrågor”.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰコリ1:25・1:27、Ⅱテモ2:23、テトス3:9。LXX・教父に並行。語義1との境界は連続的（物・事）。"
+    },
+    {
+      "n": 3,
+      "label_ja": "愚か者め（呼びかけ）",
+      "def_ja": "『愚か者』という呼びかけ。",
+      "label_en": "you fool (address)",
+      "def_en": "The address “You fool”.",
+      "label_es": "¡fatuo! (apelativo)",
+      "def_es": "El apelativo «necio».",
+      "label_sv": "din dåre (tilltal)",
+      "def_sv": "Tilltalet ”din dåre”.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "マタイ5:22 の1例のみ。LXX サムエル記上25:25 に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "1CO 3:18": 1,
+    "1CO 4:10": 1,
+    "1CO 1:25": 2,
+    "1CO 1:27": 2,
+    "2TI 2:23": 2,
+    "MAT 23:17": 1,
+    "MAT 25:2": 1,
+    "MAT 25:3": 1,
+    "MAT 25:8": 1,
+    "MAT 7:26": 1,
+    "MAT 5:22": 3,
+    "TIT 3:9": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（人／事／呼びかけ）による。"
+}

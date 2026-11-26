@@ -1,0 +1,57 @@
+{
+  "strong": "G4441",
+  "lemma": "πυνθάνομαι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "尋ねる／問う",
+      "def_ja": "尋ねる、問い合わせる。『どこで生まれるのかと問いただし』『何のために呼んだのか尋ねます』『何事かと尋ねた』『それは何事かと尋ねた』『どんな力によってかと問い』。",
+      "label_en": "to ask / inquire",
+      "def_en": "To ask, to make inquiry: “inquired of them where the Christ was to be born”, “I ask why you sent for me”, “asked what it meant”, “asked what these things were”, “by what power did you do this?”",
+      "label_es": "preguntar / inquirir",
+      "def_es": "Preguntar, averiguar: «les preguntó dónde había de nacer el Cristo», «pregunto por qué causa me habéis hecho venir», «preguntó qué era aquello», «preguntó qué sería esto», «¿con qué potestad?».",
+      "label_sv": "att fråga / förhöra sig",
+      "def_sv": "Att fråga och höra sig för: ”frågade dem var Messias skulle födas”, ”får jag fråga varför ni kallat på mig”, ”frågade vad det betydde”, ”frågade vad det var”, ”med vilken kraft?”.",
+      "layers": {
+        "nt": 11,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒10:18・10:29・23:19・23:20・21:33・4:7、ヨハネ13:24・4:52、ルカ15:26・18:36、マタイ2:4。LXX エステル1:13・Ⅱマカバイ、教父（13.2）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "尋ねて知る",
+      "def_ja": "尋ねて知る、聞いて知る。『ことの次第を聞いて』（使徒23:34）。",
+      "label_en": "to learn by inquiry",
+      "def_en": "To find out by asking: “on learning the facts” (Acts 23:34).",
+      "label_es": "averiguar preguntando",
+      "def_es": "Enterarse preguntando: «habiendo entendido» (Hch 23:34).",
+      "label_sv": "att få veta genom att fråga",
+      "def_sv": "Att genom frågor ta reda på: ”när han fått veta hur det låg till” (Apg 23:34).",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒23:34 の1例のみ。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 10:18": 1,
+    "ACT 10:29": 1,
+    "ACT 23:19": 1,
+    "ACT 23:20": 1,
+    "ACT 23:34": 2,
+    "ACT 21:33": 1,
+    "ACT 4:7": 1,
+    "JHN 13:24": 1,
+    "JHN 4:52": 1,
+    "LUK 15:26": 1,
+    "LUK 18:36": 1,
+    "MAT 2:4": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（尋ねる／尋ねて知る）による。"
+}

@@ -1,0 +1,74 @@
+{
+  "strong": "G4084",
+  "lemma": "πιάζω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "捕らえる／逮捕する",
+      "def_ja": "捕らえる、逮捕する。『わたしを捕らえようとして』『ペテロを捕らえて牢に入れ』『イエスを捕らえようとしたが』『役人たちが彼を捕らえようと』『獣は捕らえられた』。",
+      "label_en": "to seize / arrest",
+      "def_en": "To catch, to arrest: “trying to arrest me”, “seized Peter and put him in prison”, “sought to arrest Jesus”, “officers to arrest him”, “the beast was captured”.",
+      "label_es": "prender / arrestar",
+      "def_es": "Apresar, arrestar: «procurando prenderme», «prendió a Pedro y lo puso en la cárcel», «procuraban prender a Jesús», «alguaciles para que le prendiesen», «la bestia fue apresada».",
+      "label_sv": "att gripa / arrestera",
+      "def_sv": "Att ta fast, arrestera: ”försöker gripa mig”, ”grep Petrus och satte honom i fängelse”, ”ville gripa Jesus”, ”rättstjänare för att gripa honom”, ”vilddjuret blev fångat”.",
+      "layers": {
+        "nt": 9,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "Ⅱコリ11:32、使徒12:4、ヨハネ10:39・11:57・7:30・7:32・7:44・8:20、黙示録19:20。LXX・教父に用例は無い（LXX はシラ・雅歌のみで代表例には出ない）。語義2・3との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "手を取る",
+      "def_ja": "手を取って助ける。『右手をつかんで引き起こし』。",
+      "label_en": "to take by the hand",
+      "def_en": "To take hold of the hand and help: “took him by the right hand and raised him up”.",
+      "label_es": "tomar de la mano",
+      "def_es": "Asir de la mano y ayudar: «tomándole por la mano derecha le levantó».",
+      "label_sv": "att fatta handen",
+      "def_sv": "Att ta någon i handen och hjälpa: ”fattade hans högra hand och reste honom upp”.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒3:7 の1例のみ。語義1・3との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "捕る（魚を）",
+      "def_ja": "魚を捕る。『何も捕れなかった』『捕った魚を持って来なさい』。",
+      "label_en": "to catch (fish)",
+      "def_en": "To catch fish: “caught nothing”, “bring some of the fish you have caught”.",
+      "label_es": "pescar (peces)",
+      "def_es": "Capturar peces: «no pescaron nada», «traed de los peces que acabáis de pescar».",
+      "label_sv": "att fånga (fisk)",
+      "def_sv": "Att fånga fisk: ”fick ingenting”, ”bär hit av fisken ni just fångade”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヨハネ21:3・21:10。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "2CO 11:32": 1,
+    "ACT 12:4": 1,
+    "ACT 3:7": 2,
+    "JHN 10:39": 1,
+    "JHN 11:57": 1,
+    "JHN 21:3": 3,
+    "JHN 21:10": 3,
+    "JHN 7:30": 1,
+    "JHN 7:32": 1,
+    "JHN 7:44": 1,
+    "JHN 8:20": 1,
+    "REV 19:20": 1
+  },
+  "unresolved": [],
+  "layer_notes": "LXX・教父の代表例は無い。語義区分は目的語（人／手／魚）による。"
+}

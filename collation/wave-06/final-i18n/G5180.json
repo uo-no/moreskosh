@@ -1,0 +1,75 @@
+{
+  "strong": "G5180",
+  "lemma": "τύπτω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "打つ／殴る",
+      "def_ja": "打つ、殴る。『彼を打った』『口を打てと命じた』『頬を打つ者』『下僕を打ち』『茨の冠の頭を打った』『葦で頭を打った』。",
+      "label_en": "to strike / beat",
+      "def_en": "To strike, to hit: “struck him”, “commanded to strike him on the mouth”, “one who strikes you on the cheek”, “beats the servants”, “struck the head crowned with thorns”, “struck his head with a reed”.",
+      "label_es": "golpear / pegar",
+      "def_es": "Golpear, pegar: «le golpeaban», «mandó que le golpeasen en la boca», «al que te hiera en la mejilla», «golpear a los criados», «herían la cabeza coronada de espinas», «le golpeaban la cabeza con una caña».",
+      "label_sv": "att slå",
+      "def_sv": "Att slå och drämma till: ”slog honom”, ”befallde att slå honom på munnen”, ”den som slår dig på kinden”, ”slå tjänarna”, ”slog det törnekrönta huvudet”, ”slog honom i huvudet med en käpp”.",
+      "layers": {
+        "nt": 10,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒18:17・23:2・23:3（2回）・21:32、ルカ12:45・6:29、マタイ24:49・27:30、マルコ15:19。LXX 出エジプト記2:13、教父（26.6.3、7.3.1）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "（胸を）打つ",
+      "def_ja": "悲しみ・悔いで胸を打つ。『胸を打ちながら言った』『胸を打って帰った』。",
+      "label_en": "to beat (the breast)",
+      "def_en": "To beat one's breast in grief or contrition: “beat his breast, saying …”, “returned home beating their breasts”.",
+      "label_es": "golpearse (el pecho)",
+      "def_es": "Golpearse el pecho de dolor o pesar: «se golpeaba el pecho, diciendo …», «se volvían golpeándose el pecho».",
+      "label_sv": "att slå sig (för bröstet)",
+      "def_sv": "Att slå sig för bröstet i sorg eller ånger: ”slog sig för bröstet och sade”, ”gick hem och slog sig för bröstet”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ18:13・23:48。LXX 代表例に並行。教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "傷つける（良心を）",
+      "def_ja": "良心を傷つける。『弱い良心を傷つける』。",
+      "label_en": "to wound (the conscience)",
+      "def_en": "To wound a conscience: “wounding their weak conscience”.",
+      "label_es": "herir (la conciencia)",
+      "def_es": "Herir la conciencia: «hiriendo su débil conciencia».",
+      "label_sv": "att såra (samvetet)",
+      "def_sv": "Att skada någons samvete: ”sårar deras svaga samvete”.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "Ⅰコリ8:12 の1例のみ。LXX サムエル記上24:6（心が打つ）に並行。語義1との境界は連続的。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 8:12": 3,
+    "ACT 18:17": 1,
+    "ACT 23:2": 1,
+    "ACT 23:3#1": 1,
+    "ACT 23:3#2": 1,
+    "ACT 21:32": 1,
+    "LUK 12:45": 1,
+    "LUK 18:13": 2,
+    "LUK 23:48": 2,
+    "LUK 6:29": 1,
+    "MAT 24:49": 1,
+    "MAT 27:30": 1,
+    "MRK 15:19": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は目的語（人／胸／良心）による。"
+}

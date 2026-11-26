@@ -1,0 +1,40 @@
+{
+  "strong": "G220",
+  "lemma": "ἀλέκτωρ",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "雄鶏／にわとり",
+      "def_ja": "雄鶏、にわとり。『鶏が鳴く前に』『鶏がすぐに鳴いた』『鶏が二度鳴く前に』。",
+      "label_en": "rooster / cock",
+      "def_en": "A rooster, a cock: “before the rooster crows”, “immediately the rooster crowed”, “before the rooster crows twice”.",
+      "label_es": "gallo",
+      "def_es": "Gallo: «antes que el gallo cante», «enseguida cantó el gallo», «antes que el gallo cante dos veces».",
+      "label_sv": "tupp",
+      "def_sv": "En tupp: ”innan tuppen gal”, ”genast gol tuppen”, ”innan tuppen har galit två gånger”.",
+      "layers": {
+        "nt": 12,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヨハネ13:38・18:27、ルカ22:34・22:60・22:61、マタイ26:34・26:74・26:75、マルコ14:30・14:68・14:72（2回）。LXX 箴言30:31（1件）に並行。教父の用例は無い。"
+    }
+  ],
+  "assignments": {
+    "JHN 13:38": 1,
+    "JHN 18:27": 1,
+    "LUK 22:34": 1,
+    "LUK 22:60": 1,
+    "LUK 22:61": 1,
+    "MAT 26:34": 1,
+    "MAT 26:74": 1,
+    "MAT 26:75": 1,
+    "MRK 14:30": 1,
+    "MRK 14:68": 1,
+    "MRK 14:72#1": 1,
+    "MRK 14:72#2": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。教父の用例は無い。"
+}

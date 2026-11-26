@@ -1,0 +1,92 @@
+{
+  "strong": "G509",
+  "lemma": "ἄνωθεν",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "上から／天から",
+      "def_ja": "上から、天から。『上から来る知恵』『上から与えられるのでなければ』『上から来る者』『上から来るあらゆる良い贈り物』。",
+      "label_en": "from above / from heaven",
+      "def_en": "From above, from heaven: “wisdom from above”, “unless it had been given from above”, “he who comes from above”, “every good gift is from above”.",
+      "label_es": "de arriba / del cielo",
+      "def_es": "De lo alto, del cielo: «la sabiduría que es de lo alto», «si no te fuese dada de arriba», «el que de arriba viene», «toda buena dádiva desciende de lo alto».",
+      "label_sv": "ovanifrån / från himlen",
+      "def_sv": "Från höjden, från himlen: ”visheten ovanifrån”, ”om du inte fått det ovanifrån”, ”den som kommer ovanifrån”, ”varje god gåva kommer ovanifrån”.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヤコブ3:15・3:17・1:17、ヨハネ19:11・3:31。LXX・教父（16.1.20）に並行。 ヨハネ3:3・3:7 は語義3に置いた（そちらの note を参照）。"
+    },
+    {
+      "n": 2,
+      "label_ja": "上から（場所・上部）",
+      "def_ja": "上の方から、上端から。『上から下まで裂けた』『上から全部一つに織った』。",
+      "label_en": "from the top (place)",
+      "def_en": "From the upper part, from the top end: “torn from top to bottom”, “woven in one piece from the top”.",
+      "label_es": "de arriba (lugar, parte superior)",
+      "def_es": "Desde la parte alta, desde el borde superior: «se rasgó de arriba abajo», «tejida toda de una pieza desde arriba».",
+      "label_sv": "uppifrån (plats, överdel)",
+      "def_sv": "Från den övre delen: ”rämnade uppifrån och ner”, ”vävd i ett stycke uppifrån”.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヨハネ19:23、マタイ27:51、マルコ15:38。LXX 出エジプト記25:20 に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+    },
+    {
+      "n": 3,
+      "label_ja": "新たに／再び",
+      "def_ja": "新たに、もう一度。『新たに生まれる』『もう一度奴隷になろうとするのか』。",
+      "label_en": "anew / again",
+      "def_en": "Anew, once more: “born anew”, “do you want to be enslaved all over again?”",
+      "label_es": "de nuevo / otra vez",
+      "def_es": "De nuevo, una vez más: «nacer de nuevo», «¿os queréis volver a esclavizar?».",
+      "label_sv": "på nytt / igen",
+      "def_sv": "På nytt, en gång till: ”födas på nytt”, ”vill ni bli slavar igen?”.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ガラテヤ4:9、ヨハネ3:3・3:7。ヨハネ3章では、ニコデモが ἄνωθεν を「再び」と聞き取って対話が進む（3:4）ため、その箇所で語が果たす働きに沿ってここに置いた。『上から／天から』の意味も重なっており（3:31 は語義1）、二重の意味は意図的と見られる。BDAG の主配置も「再び」で、最終パス（2026-11-26）でこの配置に確定した。LXX・教父の代表例ではこの用法は確認していない。"
+    },
+    {
+      "n": 4,
+      "label_ja": "初めから／最初から",
+      "def_ja": "初めから、最初から。『すべてのことを初めから詳しく調べたので』『初めから私を知っている』。",
+      "label_en": "from the beginning",
+      "def_en": "From the first, from the start: “having followed all things carefully from the beginning”, “they have known me from the first”.",
+      "label_es": "desde el principio",
+      "def_es": "Desde el comienzo, desde el origen: «después de haber investigado con diligencia todas las cosas desde su origen», «me conocen desde el principio».",
+      "label_sv": "från början",
+      "def_sv": "Allt från början: ”noga följt allt från början”, ”de känner mig sedan länge, ända från början”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "ルカ1:3、使徒26:5。教父（14.2）に並行。LXX の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 26:5": 4,
+    "GAL 4:9": 3,
+    "JAS 3:15": 1,
+    "JAS 3:17": 1,
+    "JAS 1:17": 1,
+    "JHN 19:11": 1,
+    "JHN 19:23": 2,
+    "JHN 3:31": 1,
+    "LUK 1:3": 4,
+    "MAT 27:51": 2,
+    "MRK 15:38": 2,
+    "JHN 3:3": 3,
+    "JHN 3:7": 3
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（上から／上部／新たに／初めから）による。"
+}

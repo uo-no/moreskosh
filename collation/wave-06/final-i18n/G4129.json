@@ -1,0 +1,57 @@
+{
+  "strong": "G4129",
+  "lemma": "πληθύνω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "増し加える／豊かにする（他動・祈願）",
+      "def_ja": "増し加える、豊かにする。『恵みと平安があなたがたに豊かにされるように』『種を増やし』『あなたを増やし、増やす』。",
+      "label_en": "to multiply / increase (transitive, in blessings)",
+      "def_en": "To increase, to make abundant: “may grace and peace be multiplied to you”, “multiply your seed”, “I will surely multiply you”.",
+      "label_es": "multiplicar / hacer abundar (transitivo, deseo)",
+      "def_es": "Acrecentar, hacer abundante: «gracia y paz os sean multiplicadas», «multiplicará vuestra sementera», «te multiplicaré grandemente».",
+      "label_sv": "att föröka / ge i rikt mått (transitivt, tillönskan)",
+      "def_sv": "Att öka och ge i överflöd: ”må nåd och frid ges er i allt rikare mått”, ”föröka er utsäde”, ”jag ska göra dig mycket talrik”.",
+      "layers": {
+        "nt": 6,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰペテロ1:2、Ⅱペテロ1:2、ユダ2、Ⅱコリ9:10、ヘブル6:14（2回）。LXX 創世記22:17、教父（序文の挨拶）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "増える／殖える（自動）",
+      "def_ja": "数が増える、殖える。『神のことばは広まり、数が増し加わった』『弟子の数が増えていった』『不法がはびこる』『民はエジプトで増え広がった』。",
+      "label_en": "to multiply / grow (intransitive)",
+      "def_en": "To grow in number: “the word of God increased and the number multiplied”, “the disciples were increasing in number”, “lawlessness will increase”, “the people multiplied in Egypt”.",
+      "label_es": "multiplicarse / crecer (intransitivo)",
+      "def_es": "Aumentar en número: «crecía la palabra del Señor y el número se multiplicaba», «como creciera el número de los discípulos», «por haberse multiplicado la maldad», «el pueblo creció y se multiplicó en Egipto».",
+      "label_sv": "att öka / förökas (intransitivt)",
+      "def_sv": "Att växa i antal: ”Guds ord spreds och antalet ökade”, ”lärjungarna blev allt fler”, ”laglösheten tilltar”, ”folket förökades i Egypten”.",
+      "layers": {
+        "nt": 6,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒12:24・6:1・6:7・9:31・7:17、マタイ24:12。LXX 創世記1:22・8:17、教父（26.24.3）に並行。"
+    }
+  ],
+  "assignments": {
+    "1PE 1:2": 1,
+    "2CO 9:10": 1,
+    "2PE 1:2": 1,
+    "ACT 12:24": 2,
+    "ACT 6:1": 2,
+    "ACT 6:7": 2,
+    "ACT 9:31": 2,
+    "ACT 7:17": 2,
+    "HEB 6:14#1": 1,
+    "HEB 6:14#2": 1,
+    "JUD 1:2": 1,
+    "MAT 24:12": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（増し加える／増える）による。"
+}
