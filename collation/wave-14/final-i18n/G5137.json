@@ -1,0 +1,52 @@
+{
+  "strong": "G5137",
+  "lemma": "τράχηλος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "首",
+      "def_ja": "首、うなじ。『弟子たちの首にくびきを置いて』『パウロの首を抱いて』『父は走り寄り、その首を抱いて』『首にひき臼をかけられて』『首に石臼をつけられて』。",
+      "label_en": "neck",
+      "def_en": "The neck.",
+      "label_es": "cuello, cerviz",
+      "def_es": "Cuello, cerviz.",
+      "label_sv": "hals, nacke",
+      "def_sv": "Hals, nacke.",
+      "layers": {
+        "nt": 6,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒15:10・20:37、ルカ15:20・17:2、マタイ18:6、マルコ9:42。LXX（34.2・27.40）、教父（9.5）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "首を差し出す（慣用）",
+      "def_ja": "命を危険にさらす意の慣用表現。『わたしの命のために自分の首を差し出した人たち』。",
+      "label_en": "to risk one’s neck (idiom)",
+      "def_en": "An idiom meaning to put one’s life at risk.",
+      "label_es": "exponer el cuello (modismo)",
+      "def_es": "Expresión idiomática por arriesgar la vida.",
+      "label_sv": "att våga sin hals (idiom)",
+      "def_sv": "Ett idiomatiskt uttryck för att sätta livet på spel.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ローマ16:4。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 15:10": 1,
+    "ACT 20:37": 1,
+    "LUK 15:20": 1,
+    "LUK 17:2": 1,
+    "MAT 18:6": 1,
+    "MRK 9:42": 1,
+    "ROM 16:4": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（首／慣用句）による。"
+}

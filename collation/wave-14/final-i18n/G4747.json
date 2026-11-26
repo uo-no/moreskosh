@@ -1,0 +1,69 @@
+{
+  "strong": "G4747",
+  "lemma": "στοιχεῖον",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "元素・基本要素",
+      "def_ja": "宇宙を構成する要素。『元素は燃えてくずれ』『元素は熱で溶ける』。",
+      "label_en": "elements",
+      "def_en": "The elements that make up the universe.",
+      "label_es": "elementos",
+      "def_es": "Los elementos que componen el universo.",
+      "label_sv": "element",
+      "def_sv": "De grundämnen som utgör världsalltet.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ペテロ第二3:10・3:12。LXX（19.18）、教父（3.13.3）に並行。語義2・3との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "世の諸原理・諸霊（解釈が分かれる）",
+      "def_ja": "『世の幼稚な教え』『世の諸霊』など、世の基本的な力・原理を指す。『世のもろもろの霊力』『宇宙の諸霊』。",
+      "label_en": "elemental principles or spirits of the world (disputed)",
+      "def_en": "The basic powers or principles of the world, as in “elementary teachings of the world” or “spirits of the world”.",
+      "label_es": "principios o espíritus elementales del mundo (discutido)",
+      "def_es": "Las fuerzas o principios básicos del mundo, como «rudimentos del mundo» o «espíritus del mundo».",
+      "label_sv": "världens grundmakter eller andar (omtvistat)",
+      "def_sv": "Världens grundläggande krafter eller principer, såsom ”världens stadgar” eller ”världens andemakter”.",
+      "layers": {
+        "nt": 4,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "コロサイ2:8・2:20、ガラテヤ4:3・4:9。「元素」「初歩的な教え」「霊的な存在」のいずれかは争われており決定しない。語義1・3との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "初歩・基本（教えの）",
+      "def_ja": "教えの初歩、基礎。『神の言葉の初歩を再び誰かに教えてもらう必要が』。",
+      "label_en": "rudiments, basics (of teaching)",
+      "def_en": "The first principles, the foundations of a teaching.",
+      "label_es": "rudimentos (de la enseñanza)",
+      "def_es": "Los primeros elementos, la base de una enseñanza.",
+      "label_sv": "begynnelsegrunder",
+      "def_sv": "De första grunderna i en lära.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヘブル5:12。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "2PE 3:10": 1,
+    "2PE 3:12": 1,
+    "COL 2:8": 2,
+    "COL 2:20": 2,
+    "GAL 4:3": 2,
+    "GAL 4:9": 2,
+    "HEB 5:12": 3
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（元素／世の諸原理・諸霊／初歩）による。語義2の内容は決定しない。"
+}

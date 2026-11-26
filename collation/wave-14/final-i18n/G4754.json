@@ -1,0 +1,52 @@
+{
+  "strong": "G4754",
+  "lemma": "στρατεύομαι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "兵役に服する・兵士として務める",
+      "def_ja": "兵士として務める。『自費で兵役に服する者がいようか』『兵役に服している者は』『兵士たちもまた』。",
+      "label_en": "to serve as a soldier",
+      "def_en": "To serve in military service as a soldier.",
+      "label_es": "militar, servir como soldado",
+      "def_es": "Prestar servicio como soldado.",
+      "label_sv": "att tjänstgöra som soldat",
+      "def_sv": "Att göra krigstjänst.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "コリント第一9:7、テモテ第二2:4、ルカ3:14。LXX（19.8・15.28）に並行。教父の代表例（7.6.2）は用法の対応が確認できず、この語義としては確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "戦う（比喩）",
+      "def_ja": "霊的に戦う、戦いをいどむ。『魂に戦いをいどむ肉の欲』『りっぱな戦いを戦いぬくため』『肉に従って戦うのではない』『あなたがたの肢体の中で戦う欲望』。",
+      "label_en": "to wage war (figurative)",
+      "def_en": "To fight spiritually, to wage war.",
+      "label_es": "batallar (figurado)",
+      "def_es": "Luchar espiritualmente, hacer la guerra.",
+      "label_sv": "att strida (bildligt)",
+      "def_sv": "Att kämpa andligt, att föra krig.",
+      "layers": {
+        "nt": 4,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "ペテロ第一2:11、テモテ第一1:18、コリント第二10:3、ヤコブ4:1。教父（37.1）に並行。LXX の代表例では確認していない。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "1CO 9:7": 1,
+    "1PE 2:11": 2,
+    "1TI 1:18": 2,
+    "2CO 10:3": 2,
+    "2TI 2:4": 1,
+    "JAS 4:1": 2,
+    "LUK 3:14": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（兵士として務める／比喩的な戦い）による。"
+}

@@ -1,0 +1,35 @@
+{
+  "strong": "G548",
+  "lemma": "ἄπειμι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "不在である",
+      "def_ja": "離れている、不在である。『からだは離れていても』『離れているときにはあなたがたに対して強く出る』『離れていれば手紙で』『離れていて』『離れているときには』『からだは離れていても』『離れていても』。",
+      "label_en": "to be absent",
+      "def_en": "To be away, to be absent.",
+      "label_es": "estar ausente",
+      "def_es": "Estar lejos, estar ausente.",
+      "label_sv": "att vara frånvarande",
+      "def_sv": "Att vara borta, att vara frånvarande.",
+      "layers": {
+        "nt": 7,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "コリント第一5:3、コリント第二10:1・10:11・13:2・13:10、コロサイ2:5、ピリピ1:27。LXX（11.11・25.10）に並行。教父の代表例（24.3）は「去る」の別語（εἶμι の形）の疑いがあり、この語としては確認していない。単一語義。"
+    }
+  ],
+  "assignments": {
+    "1CO 5:3": 1,
+    "2CO 10:1": 1,
+    "2CO 10:11": 1,
+    "2CO 13:2": 1,
+    "2CO 13:10": 1,
+    "COL 2:5": 1,
+    "PHP 1:27": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

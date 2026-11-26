@@ -1,0 +1,51 @@
+{
+  "strong": "G1011",
+  "lemma": "βουλεύομαι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "決める・企てる",
+      "def_ja": "計画する、決める、企てる。『わたしは軽々しくこうしたのだろうか。あるいは、肉に従って計画するのか』『わたしの計画することは』『できれば岸に乗り上げようと決めた』『祭司長たちはラザロをも殺そうと相談した』『彼らはイエスを殺そうと企てた』。",
+      "label_en": "to decide, to plot",
+      "def_en": "To plan, to decide, to scheme.",
+      "label_es": "resolver, tramar",
+      "def_es": "Planear, decidir, maquinar.",
+      "label_sv": "att besluta, att planera",
+      "def_sv": "Att planera, besluta, lägga råd.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "コリント第二1:17（2回）、使徒27:39、ヨハネ12:10・11:53。LXX（23.8・2.41）、教父（1.1.8）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "熟慮する",
+      "def_ja": "よく考える、思案する。『まず座って、…勝てるかどうかを考えないだろうか』。",
+      "label_en": "to deliberate",
+      "def_en": "To consider carefully, to ponder.",
+      "label_es": "deliberar",
+      "def_es": "Considerar con cuidado, reflexionar.",
+      "label_sv": "att överväga",
+      "def_sv": "Att tänka noga igenom, att rådslå med sig själv.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ルカ14:31。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "2CO 1:17#1": 1,
+    "2CO 1:17#2": 1,
+    "ACT 27:39": 1,
+    "JHN 12:10": 1,
+    "JHN 11:53": 1,
+    "LUK 14:31": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（決める・企てる／熟慮する）による。"
+}

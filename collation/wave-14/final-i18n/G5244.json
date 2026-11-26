@@ -1,0 +1,45 @@
+{
+  "strong": "G5244",
+  "lemma": "ὑπερήφανος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "高ぶった・傲慢な",
+      "def_ja": "高ぶった、傲慢な。『神は高ぶる者を退け』『高ぶる者』『思い上がる者』『心の思いの高ぶっている者を追い散らし』『高ぶった者』。",
+      "label_en": "proud, arrogant",
+      "def_en": "Haughty, arrogant.",
+      "label_es": "soberbio, altivo",
+      "def_es": "Soberbio, arrogante.",
+      "label_sv": "högmodig, övermodig",
+      "def_sv": "Högmodig, hovmodig.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ペテロ第一5:5、テモテ第二3:2、ヤコブ4:6、ルカ1:51、ローマ1:30。LXX（13.20・118.78）、教父（49.5・2.6）に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "1PE 5:5": 1,
+    "2TI 3:2": 1,
+    "JAS 4:6": 1,
+    "LUK 1:51": 1,
+    "ROM 1:30": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。ὑπερλίαν の形は本レンマへ割り当てない。",
+  "excluded": [
+    {
+      "ref": "2CO 11:5",
+      "form": "ὑπερλίαν",
+      "reason": "形は副詞 ὑπερλίαν で、本レンマ（形容詞「高慢な」）の形ではない。bible_data の付け替えはユーザー承認待ち。"
+    },
+    {
+      "ref": "2CO 12:11",
+      "form": "ὑπερλίαν",
+      "reason": "形は副詞 ὑπερλίαν で、本レンマ（形容詞「高慢な」）の形ではない。bible_data の付け替えはユーザー承認待ち。"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "strong": "G4937",
+  "lemma": "συντρίβω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "砕く・折る・壊す",
+      "def_ja": "砕く、折る、粉々にする。『その骨は一本も砕かれない』『傷ついた葦を折ることもせず』『鎖は引きちぎられ』『石の壷を割って』『鉄の杖で陶器を砕くように砕かれる』。",
+      "label_en": "to break, to crush",
+      "def_en": "To crush, to break, to shatter.",
+      "label_es": "quebrar, romper",
+      "def_es": "Quebrar, romper, hacer pedazos.",
+      "label_sv": "att krossa, att bryta",
+      "def_sv": "Att krossa, bryta, slå sönder.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヨハネ19:36、マタイ12:20、マルコ5:4・14:3、黙示録2:27。LXX（31.20・11.22）、教父（2.10・18.17）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "傷つける・打ち砕く（人を）",
+      "def_ja": "人を傷つける、打ちひしぐ。『彼を打ち砕き』『平和の神は、サタンをあなたがたの足の下で打ち砕かれる』。",
+      "label_en": "to injure, to crush (a person)",
+      "def_en": "To harm a person, to crush.",
+      "label_es": "maltratar, quebrantar (a una persona)",
+      "def_es": "Herir a una persona, abatirla.",
+      "label_sv": "att skada, att krossa (en människa)",
+      "def_sv": "Att tillfoga en människa skada, att slå ner.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ルカ9:39、ローマ16:20。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "JHN 19:36": 1,
+    "LUK 9:39": 2,
+    "MAT 12:20": 1,
+    "MRK 5:4": 1,
+    "MRK 14:3": 1,
+    "REV 2:27": 1,
+    "ROM 16:20": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は対象（物を砕く／人・敵を打ち砕く）による。"
+}

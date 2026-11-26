@@ -1,0 +1,52 @@
+{
+  "strong": "G48",
+  "lemma": "ἁγνίζω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "儀式的に清める",
+      "def_ja": "儀式的に身を清める。『身を清めるために』『清めの儀式を済ませ』『あなたがたも彼らと共に身を清め』『清めを受けた者』。",
+      "label_en": "to purify ceremonially",
+      "def_en": "To purify oneself ceremonially.",
+      "label_es": "purificar (ritualmente)",
+      "def_es": "Purificarse ritualmente.",
+      "label_sv": "att rena rituellt",
+      "def_sv": "Att rena sig rituellt.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヨハネ11:55、使徒21:24・21:26・24:18。LXX（30.15・11.18）に並行。教父の代表例は倫理的用法で、この語義としては確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "清くする・潔める（倫理的）",
+      "def_ja": "心や行いを清くする。『自分を清くする』『真理に従うことによって、あなたがたの魂を清め』『心を清めなさい』。",
+      "label_en": "to make pure (ethically)",
+      "def_en": "To make the heart or conduct pure.",
+      "label_es": "purificar (en sentido moral)",
+      "def_es": "Hacer puros el corazón o la conducta.",
+      "label_sv": "att rena, att göra ren (etiskt)",
+      "def_sv": "Att göra hjärtat eller handlandet rent.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "ヨハネ第一3:3、ペテロ第一1:22、ヤコブ4:8。教父（5.1・3.13.3）に並行。LXX の代表例は儀式的用法で、この語義としては確認していない。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "1JN 3:3": 2,
+    "1PE 1:22": 2,
+    "ACT 24:18": 1,
+    "ACT 21:24": 1,
+    "ACT 21:26": 1,
+    "JAS 4:8": 2,
+    "JHN 11:55": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（儀式的な清め／倫理的な清め）による。"
+}

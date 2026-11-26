@@ -1,0 +1,68 @@
+{
+  "strong": "G1311",
+  "lemma": "διαφθείρω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "滅ぼす・損なう",
+      "def_ja": "滅ぼす、損なう、台無しにする。『虫も食わず』『地を滅ぼす者どもを滅ぼす』『地を滅ぼす者』『海の被造物の三分の一は死に、船の三分の一も打ち壊された』。",
+      "label_en": "to destroy, to ruin",
+      "def_en": "To destroy, damage or ruin.",
+      "label_es": "destruir, echar a perder",
+      "def_es": "Destruir, dañar, arruinar.",
+      "label_sv": "att fördärva, att förstöra",
+      "def_sv": "Att förgöra, skada, ödelägga.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ルカ12:33、黙示録11:18（2回）・8:9。LXX（7.14・6.5）、教父（4.2.3・2.10.2）に並行。語義2・3との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "衰える",
+      "def_ja": "外なる人が衰える。『たとえわたしたちの外なる人は滅びても』。",
+      "label_en": "to waste away",
+      "def_en": "The outer person wasting away.",
+      "label_es": "desgastarse",
+      "def_es": "El desgaste del hombre exterior.",
+      "label_sv": "att brytas ned",
+      "def_sv": "Att den yttre människan bryts ned.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "コリント第二4:16。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "堕落した（分詞形容詞）",
+      "def_ja": "心が堕落した。『心の腐った、真理を失った人々』。",
+      "label_en": "corrupted, depraved (participial adjective)",
+      "def_en": "Corrupted in mind.",
+      "label_es": "corrompido (participio adjetival)",
+      "def_es": "De mente corrompida.",
+      "label_sv": "fördärvad (adjektiviskt particip)",
+      "def_sv": "Med fördärvat sinne.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "テモテ第一6:5。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1TI 6:5": 3,
+    "2CO 4:16": 2,
+    "LUK 12:33": 1,
+    "REV 11:18#1": 1,
+    "REV 11:18#2": 1,
+    "REV 8:9": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（滅ぼす／衰える／堕落した）による。"
+}

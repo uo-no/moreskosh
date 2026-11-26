@@ -1,0 +1,52 @@
+{
+  "strong": "G5012",
+  "lemma": "ταπεινοφροσύνη",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "へりくだり・謙遜",
+      "def_ja": "へりくだった心、謙遜。『へりくだりを身につけなさい』『謙遜の限りを尽くして』『謙遜と柔和を』『へりくだって』『へりくだった心をもって』『へりくだりと…を着なさい』。",
+      "label_en": "humility",
+      "def_en": "A lowly mind, humility.",
+      "label_es": "humildad",
+      "def_es": "Ánimo humilde, humildad.",
+      "label_sv": "ödmjukhet",
+      "def_sv": "Ett ödmjukt sinne.",
+      "layers": {
+        "nt": 5,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "ペテロ第一5:5、使徒20:19、コロサイ3:12、エペソ4:2、ピリピ2:3。教父（30.8・3.10.6）に並行。LXX の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "へりくだり（誤ったもの）",
+      "def_ja": "自己卑下の戒め。『ことさらに謙遜をよそおい』『謙遜と自己卑下と…』。",
+      "label_en": "(false) humility",
+      "def_en": "A warning against self-abasement.",
+      "label_es": "(falsa) humildad",
+      "def_es": "Advertencia contra el rebajarse a sí mismo.",
+      "label_sv": "(falsk) ödmjukhet",
+      "def_sv": "En varning för självförnedring.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "コロサイ2:18・2:23。ここでの評価（偽りか否か）は文脈上の読みで、語義は用法による区別にとどめる。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1PE 5:5": 1,
+    "ACT 20:19": 1,
+    "COL 2:18": 2,
+    "COL 2:23": 2,
+    "COL 3:12": 1,
+    "EPH 4:2": 1,
+    "PHP 2:3": 1
+  },
+  "unresolved": [],
+  "layer_notes": "LXX の用例なし。語義区分は文脈（通常のへりくだり／コロサイ2章での用法）による。"
+}

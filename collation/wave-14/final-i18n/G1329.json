@@ -1,0 +1,51 @@
+{
+  "strong": "G1329",
+  "lemma": "διερμηνεύω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "解き明かす・通訳する",
+      "def_ja": "言葉の意味を解き明かす、通訳する。『みな異言を解き明かすだろうか』『解き明かす者があれば』『解き明かせるように祈れ』『ひとりが解き明かせ』『聖書全体にわたって解き明かされた』。",
+      "label_en": "to interpret, to explain",
+      "def_en": "To explain the meaning of words, to interpret.",
+      "label_es": "interpretar, explicar",
+      "def_es": "Explicar el sentido de las palabras, interpretar.",
+      "label_sv": "att uttyda, att tolka",
+      "def_sv": "Att förklara ords mening, att tolka.",
+      "layers": {
+        "nt": 5,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "コリント第一12:30・14:5・14:13・14:27、ルカ24:27。語義2との境界は連続的。LXX の代表例（II マカバイ1:36）は用法が異なり、この語義としては確認していない。教父の用例なし。"
+    },
+    {
+      "n": 2,
+      "label_ja": "訳す（名前を）",
+      "def_ja": "名前を訳して言う。『ギリシヤ語でドルカスと言う』（訳された名）。",
+      "label_en": "to translate (a name)",
+      "def_en": "To give a name in translation.",
+      "label_es": "traducir (un nombre)",
+      "def_es": "Decir un nombre traducido.",
+      "label_sv": "att översätta (ett namn)",
+      "def_sv": "Att återge ett namn i översättning.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒9:36。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 12:30": 1,
+    "1CO 14:5": 1,
+    "1CO 14:13": 1,
+    "1CO 14:27": 1,
+    "ACT 9:36": 2,
+    "LUK 24:27": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（解き明かす・通訳する／名前を訳す）による。LXX の代表例は命名の用法で、語義には立てない。"
+}

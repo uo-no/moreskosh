@@ -1,0 +1,52 @@
+{
+  "strong": "G4559",
+  "lemma": "σαρκικός",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "物質的な",
+      "def_ja": "物質的な、肉体的な事柄に関する。『あなたがたから物質的なものを刈り取ることは』『物質的な事柄で彼らに仕える』。",
+      "label_en": "material",
+      "def_en": "Concerning material, bodily matters.",
+      "label_es": "material",
+      "def_es": "Relativo a cosas materiales, corporales.",
+      "label_sv": "materiell",
+      "def_sv": "Som gäller materiella, kroppsliga ting.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "コリント第一9:11、ローマ15:27。語義2との境界は連続的。LXX の用例なし。教父の代表例は倫理的用法で、この語義としては確認していない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "肉に属する・肉的な",
+      "def_ja": "肉に属する、肉の性質による。『あなたがたは肉の人』『肉に属する者ではないか』『魂に戦いをいどむ肉の欲』『わたしたちの戦いの武器は肉のものではなく』『肉の知恵によらず』。",
+      "label_en": "of the flesh, fleshly",
+      "def_en": "Belonging to the flesh, of the nature of the flesh.",
+      "label_es": "carnal",
+      "def_es": "Perteneciente a la carne, de naturaleza carnal.",
+      "label_sv": "köttslig",
+      "def_sv": "Som hör till köttet, av köttets natur.",
+      "layers": {
+        "nt": 5,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "コリント第一3:3（2回）、ペテロ第一2:11、コリント第二10:4・1:12。教父（7.1.2・1.4）に並行。語義1との境界は連続的。LXX の用例なし。"
+    }
+  ],
+  "assignments": {
+    "1CO 3:3#1": 2,
+    "1CO 3:3#2": 2,
+    "1CO 9:11": 1,
+    "1PE 2:11": 2,
+    "2CO 10:4": 2,
+    "2CO 1:12": 2,
+    "ROM 15:27": 1
+  },
+  "unresolved": [],
+  "layer_notes": "LXX の用例なし。語義区分は用法（物質的／肉に属する）による。"
+}

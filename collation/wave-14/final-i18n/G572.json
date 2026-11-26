@@ -1,0 +1,52 @@
+{
+  "strong": "G572",
+  "lemma": "ἁπλότης",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "単純さ・真心",
+      "def_ja": "単純で飾り気のないこと、真心。『キリストに対する真心と純潔』『真心をもって肉による主人に従いなさい』『真心をこめて従いなさい』。",
+      "label_en": "simplicity, sincerity",
+      "def_en": "Being simple and unaffected; sincerity.",
+      "label_es": "sencillez, sinceridad",
+      "def_es": "Cualidad de lo sencillo y sin artificio; sinceridad.",
+      "label_sv": "enkelhet, uppriktighet",
+      "def_sv": "Att vara okonstlad och rak; uppriktighet.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "コリント第二11:3、コロサイ3:22、エペソ6:5。LXX（2.37・15.11）、教父（26.15.2・8.2）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "惜しみなさ・寛大さ",
+      "def_ja": "出し惜しみなく与えること、寛大さ。『豊かな寛大さとなって』『寛大な施し』『惜しみなく施す人は』『寛大さをもって』。",
+      "label_en": "generosity, liberality",
+      "def_en": "Giving without holding back; liberality.",
+      "label_es": "generosidad, liberalidad",
+      "def_es": "El dar sin escatimar; largueza.",
+      "label_sv": "frikostighet, generositet",
+      "def_sv": "Att ge utan att snåla; givmildhet.",
+      "layers": {
+        "nt": 4,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "コリント第二8:2・9:11・9:13、ローマ12:8。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "2CO 11:3": 1,
+    "2CO 8:2": 2,
+    "2CO 9:11": 2,
+    "2CO 9:13": 2,
+    "COL 3:22": 1,
+    "EPH 6:5": 1,
+    "ROM 12:8": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（単純さ・真心／寛大さ）による。"
+}

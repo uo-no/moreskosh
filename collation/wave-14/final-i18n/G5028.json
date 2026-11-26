@@ -1,0 +1,35 @@
+{
+  "strong": "G5028",
+  "lemma": "τάφος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "墓",
+      "def_ja": "墓、墓所。『もう一人のマリヤと共に墓を見に行った』『白く塗った墓』『義人たちの墓を飾り』『墓を見張りに任せた』『その墓の番をさせるように命じた』『その喉は開いた墓』。",
+      "label_en": "tomb, grave",
+      "def_en": "A tomb, a burial place.",
+      "label_es": "sepulcro",
+      "def_es": "Sepulcro, sepultura.",
+      "label_sv": "grav",
+      "def_sv": "Grav, gravplats.",
+      "layers": {
+        "nt": 7,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "マタイ28:1・23:27・23:29・27:61・27:64・27:66、ローマ3:13。LXX（8.18・21.26）、教父（56.15・4.4.2）に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "MAT 28:1": 1,
+    "MAT 23:27": 1,
+    "MAT 23:29": 1,
+    "MAT 27:61": 1,
+    "MAT 27:64": 1,
+    "MAT 27:66": 1,
+    "ROM 3:13": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

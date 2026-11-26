@@ -1,0 +1,52 @@
+{
+  "strong": "G5421",
+  "lemma": "φρέαρ",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "井戸",
+      "def_ja": "水を汲む井戸。『井戸は深いのに』『この井戸をわたしたちに与えた』『井戸に落ちたなら』。",
+      "label_en": "well",
+      "def_en": "A well for drawing water.",
+      "label_es": "pozo",
+      "def_es": "Pozo del que se saca agua.",
+      "label_sv": "brunn",
+      "def_sv": "En brunn att hämta vatten ur.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヨハネ4:11・4:12、ルカ14:5。LXX（26.25・21.18）に並行。教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "穴・深み（底なしの）",
+      "def_ja": "底知れぬ所の穴、立て坑。『底知れぬ穴の鍵』『その穴を開くと』『穴から煙が』。",
+      "label_en": "pit, shaft (bottomless)",
+      "def_en": "The pit or shaft of the abyss.",
+      "label_es": "pozo (del abismo)",
+      "def_es": "El pozo o conducto del abismo sin fondo.",
+      "label_sv": "schakt (avgrundens)",
+      "def_sv": "Hålet eller schaktet till den bottenlösa avgrunden.",
+      "layers": {
+        "nt": 4,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "黙示録9:1・9:2（3回）。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "JHN 4:11": 1,
+    "JHN 4:12": 1,
+    "LUK 14:5": 1,
+    "REV 9:1": 2,
+    "REV 9:2#1": 2,
+    "REV 9:2#2": 2,
+    "REV 9:2#3": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（水を汲む井戸／底知れぬ穴）による。"
+}

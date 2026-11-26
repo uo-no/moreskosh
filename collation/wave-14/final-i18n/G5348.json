@@ -1,0 +1,69 @@
+{
+  "strong": "G5348",
+  "lemma": "φθάνω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "先んじる",
+      "def_ja": "先に行く、先んじる。『生き残っているわたしたちが、眠った人々に先んじることはない』。",
+      "label_en": "to precede",
+      "def_en": "To go before, to get ahead of.",
+      "label_es": "preceder",
+      "def_es": "Ir antes, adelantarse.",
+      "label_sv": "att gå före",
+      "def_sv": "Att komma före, att förekomma.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "テサロニケ第一4:15。語義2・3との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "来る・臨む",
+      "def_ja": "到来する、臨む。『神の国はあなたがたのところに来ている』『神の怒りは彼らの上に臨んだ』。",
+      "label_en": "to come, to come upon",
+      "def_en": "To arrive; to come upon.",
+      "label_es": "llegar, sobrevenir",
+      "def_es": "Llegar; alcanzar a alguien.",
+      "label_sv": "att komma, att nå över",
+      "def_sv": "Att anlända; att komma över någon.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "マタイ12:28、ルカ11:20、テサロニケ第一2:16。LXX（4.28）に並行。教父の用例なし。語義1・3との境界は連続的。"
+    },
+    {
+      "n": 3,
+      "label_ja": "達する・到達する",
+      "def_ja": "目的地や状態に達する。『あなたがたのところまで達した』『達したところに従って』『義の律法に達しなかった』。",
+      "label_en": "to attain, to reach",
+      "def_en": "To reach a destination or a state.",
+      "label_es": "alcanzar",
+      "def_es": "Llegar a una meta o a un estado.",
+      "label_sv": "att nå, att uppnå",
+      "def_sv": "Att komma fram till ett mål eller ett tillstånd.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "コリント第二10:14、ピリピ3:16、ローマ9:31。LXX（12.1）に並行。教父の用例なし。語義2との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "1TH 2:16": 2,
+    "1TH 4:15": 1,
+    "2CO 10:14": 3,
+    "LUK 11:20": 2,
+    "MAT 12:28": 2,
+    "PHP 3:16": 3,
+    "ROM 9:31": 3
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（先んじる／来る・臨む／達する）による。"
+}

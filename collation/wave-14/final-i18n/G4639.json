@@ -1,0 +1,69 @@
+{
+  "strong": "G4639",
+  "lemma": "σκιά",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "影・陰",
+      "def_ja": "物の影、木陰。『ペテロの影でも』『その陰に空の鳥が巣を作る』。",
+      "label_en": "shadow, shade",
+      "def_en": "The shadow of an object; the shade of a tree.",
+      "label_es": "sombra",
+      "def_es": "La sombra de una cosa; la sombra de un árbol.",
+      "label_sv": "skugga",
+      "def_sv": "Skuggan av ett föremål; skuggan under ett träd.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒5:15、マルコ4:32。LXX（7.2）に並行。教父の用例なし。語義2・3との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "来たるべきものの影（比喩）",
+      "def_ja": "本体に対する影、予型。『これらは来たるべきものの影』『天にあるものの写しと影』『律法はきたるべき良いものの影』。",
+      "label_en": "shadow of what is to come (figurative)",
+      "def_en": "A shadow as against the substance; a foreshadowing.",
+      "label_es": "sombra de lo que ha de venir (figurado)",
+      "def_es": "Sombra frente a la realidad; prefiguración.",
+      "label_sv": "skugga av det som skall komma (bildligt)",
+      "def_sv": "Skuggan i motsats till verkligheten; förebild.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "コロサイ2:17、ヘブル8:5・10:1。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "死の陰",
+      "def_ja": "死の陰。『暗黒と死の影にすわる者たち』『死の影の地に住む者たち』。",
+      "label_en": "shadow of death",
+      "def_en": "The shadow of death.",
+      "label_es": "sombra de muerte",
+      "def_es": "La sombra de la muerte.",
+      "label_sv": "dödsskugga",
+      "def_sv": "Dödens skugga.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ1:79、マタイ4:16。LXX（87.7）に並行。教父の用例なし。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "ACT 5:15": 1,
+    "COL 2:17": 2,
+    "HEB 10:1": 2,
+    "HEB 8:5": 2,
+    "LUK 1:79": 3,
+    "MAT 4:16": 3,
+    "MRK 4:32": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（影・陰／予型の影／死の陰）による。"
+}

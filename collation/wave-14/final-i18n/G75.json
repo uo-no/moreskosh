@@ -1,0 +1,52 @@
+{
+  "strong": "G75",
+  "lemma": "ἀγωνίζομαι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "競う・戦う",
+      "def_ja": "競技に出る、戦う。『競技をする者はみな節制する』『もしわたしの国がこの世のものであれば、僕たちは戦ったであろう』『戦いぬいた』『りっぱな戦いを戦いぬけ』。",
+      "label_en": "to compete, to fight",
+      "def_en": "To enter a contest, to fight.",
+      "label_es": "competir, luchar",
+      "def_es": "Participar en una competición, luchar.",
+      "label_sv": "att tävla, att kämpa",
+      "def_sv": "Att delta i en tävlan, att strida.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "コリント第一9:25、ヨハネ18:36、テモテ第二4:7、テモテ第一6:12。LXX（13.14・6.15）、教父（7.2・4.11）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "力を尽くす・励む",
+      "def_ja": "力を尽くす、苦闘する。『あなたがたのために祈りに励み』『わたしの内に力強く働く力によって苦闘している』『狭い門からはいるように努めなさい』。",
+      "label_en": "to strive, to labor earnestly",
+      "def_en": "To exert oneself, to struggle.",
+      "label_es": "esforzarse, afanarse",
+      "def_es": "Poner todo empeño, luchar con esfuerzo.",
+      "label_sv": "att anstränga sig, att sträva",
+      "def_sv": "Att uppbjuda sina krafter, att brottas.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "コロサイ4:12・1:29、ルカ13:24。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 9:25": 1,
+    "1TI 6:12": 1,
+    "2TI 4:7": 1,
+    "COL 4:12": 2,
+    "COL 1:29": 2,
+    "JHN 18:36": 1,
+    "LUK 13:24": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（競技・戦い／励み）による。"
+}

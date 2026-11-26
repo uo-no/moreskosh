@@ -1,0 +1,52 @@
+{
+  "strong": "G4712",
+  "lemma": "στάδιος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "スタディオン（距離）",
+      "def_ja": "距離の単位、スタディオン（約185メートル）。『ベタニヤはエルサレムに近く、十五スタディオンほど』『二十五、六スタディオンも漕ぎ出したとき』『エルサレムから六十スタディオン』『陸を離れて数スタディオン』『千六百スタディオン』『一万二千スタディオン』。",
+      "label_en": "stadion (a distance)",
+      "def_en": "A unit of distance, the stadion (about 185 meters).",
+      "label_es": "estadio (distancia)",
+      "def_es": "Unidad de distancia, el estadio (unos 185 metros).",
+      "label_sv": "stadie (avstånd)",
+      "def_sv": "Ett längdmått, stadion (omkring 185 meter).",
+      "layers": {
+        "nt": 6,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヨハネ11:18・6:19、ルカ24:13、マタイ14:24、黙示録14:20・21:16。LXX（12.29・4.12）に並行。教父の代表例は競技場の用法で、この語義としては確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "競技場",
+      "def_ja": "競走の行われる場、競技場。『競技場で走る者は皆走るが』。",
+      "label_en": "stadium",
+      "def_en": "The place where races are run, a stadium.",
+      "label_es": "estadio (recinto)",
+      "def_es": "Lugar donde se celebran las carreras, estadio.",
+      "label_sv": "tävlingsbana",
+      "def_sv": "Platsen där man löper i kapp, stadion.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "コリント第一9:24。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 9:24": 2,
+    "JHN 11:18": 1,
+    "JHN 6:19": 1,
+    "LUK 24:13": 1,
+    "MAT 14:24": 1,
+    "REV 14:20": 1,
+    "REV 21:16": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（距離の単位／競技場）による。"
+}

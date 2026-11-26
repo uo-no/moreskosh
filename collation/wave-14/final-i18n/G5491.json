@@ -1,0 +1,52 @@
+{
+  "strong": "G5491",
+  "lemma": "χεῖλος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "唇",
+      "def_ja": "唇（話す器官として）。『異言を語る者の唇によって』『唇を閉じて偽りを語らず』『神の御名をたたえる唇の実』『この民は唇でわたしを敬う』『唇でわたしを敬う』『その唇の下にはまむしの毒がある』。",
+      "label_en": "lips",
+      "def_en": "The lips (as organs of speech).",
+      "label_es": "labios",
+      "def_es": "Los labios (como órganos del habla).",
+      "label_sv": "läppar",
+      "def_sv": "Läpparna (som talorgan).",
+      "layers": {
+        "nt": 6,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "コリント第一14:21、ペテロ第一3:10、ヘブル13:15、マタイ15:8、マルコ7:6、ローマ3:13。LXX（26.23・118.13）、教父（15.5・3.5）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "岸・縁",
+      "def_ja": "海辺の岸、縁。『海べの数えきれない砂のように』。",
+      "label_en": "shore, edge",
+      "def_en": "The shore or edge of the sea.",
+      "label_es": "orilla",
+      "def_es": "La ribera o borde del mar.",
+      "label_sv": "strand, kant",
+      "def_sv": "Havets strand eller rand.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヘブル11:12。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 14:21": 1,
+    "1PE 3:10": 1,
+    "HEB 13:15": 1,
+    "HEB 11:12": 2,
+    "MAT 15:8": 1,
+    "MRK 7:6": 1,
+    "ROM 3:13": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（唇／海辺の岸）による。"
+}

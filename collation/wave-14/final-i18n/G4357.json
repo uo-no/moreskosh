@@ -1,0 +1,52 @@
+{
+  "strong": "G4357",
+  "lemma": "προσμένω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "とどまる・居続ける",
+      "def_ja": "その場にとどまる、居続ける。『エペソにとどまっているように』『なお多くの日をそこで過ごし』『三日間わたしと一緒にいる』『三日間わたしと一緒にいて』。",
+      "label_en": "to stay, to remain",
+      "def_en": "To stay in a place, to remain there.",
+      "label_es": "quedarse, permanecer",
+      "def_es": "Quedarse en un lugar, seguir allí.",
+      "label_sv": "att stanna, att förbli",
+      "def_sv": "Att stanna kvar på platsen.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "テモテ第一1:3、使徒18:18、マタイ15:32、マルコ8:2。LXX（2.2・7.17）に並行。教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "とどまり続ける（信仰・祈りに）",
+      "def_ja": "主・恵み・祈りなどにとどまり続ける。『主にとどまるように』『神の恵みにとどまるように』『願いと祈りとに夜昼とどまり』。",
+      "label_en": "to continue in (faith, prayer)",
+      "def_en": "To remain steadfast in the Lord, in grace, in prayer and the like.",
+      "label_es": "perseverar (en la fe, la oración)",
+      "def_es": "Permanecer en el Señor, en la gracia, en la oración, etc.",
+      "label_sv": "att hålla fast (vid tro, bön)",
+      "def_sv": "Att förbli vid Herren, i nåden, i bönen och dylikt.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒11:23・13:43、テモテ第一5:5。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1TI 1:3": 1,
+    "1TI 5:5": 2,
+    "ACT 11:23": 2,
+    "ACT 18:18": 1,
+    "ACT 13:43": 2,
+    "MAT 15:32": 1,
+    "MRK 8:2": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（場所にとどまる／信仰・祈りにとどまり続ける）による。"
+}

@@ -1,0 +1,52 @@
+{
+  "strong": "G588",
+  "lemma": "ἀποδέχομαι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "歓迎する・迎える",
+      "def_ja": "喜んで迎える、歓迎する。『兄弟たちは…歓迎するようにと勧め』『彼を迎えた』『訪ねて来るすべての人を迎え』『群衆は彼を歓迎した』『群衆に会って、彼らを迎え』。",
+      "label_en": "to welcome",
+      "def_en": "To receive gladly, to welcome.",
+      "label_es": "recibir bien, acoger",
+      "def_es": "Recibir con gozo, dar la bienvenida.",
+      "label_sv": "att välkomna, att ta emot",
+      "def_sv": "Att gärna ta emot, att välkomna.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒18:27・21:17・28:30、ルカ8:40・9:11。LXX（3.35・5.27）に並行。教父の代表例では確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "受け入れる・認める",
+      "def_ja": "言葉を受け入れる、認める、感謝をもって受ける。『彼の言葉を受け入れた人々は』『あらゆる面で感謝してこれを受けています』。",
+      "label_en": "to accept, to acknowledge",
+      "def_en": "To accept a word, to acknowledge, to receive with gratitude.",
+      "label_es": "aceptar, reconocer",
+      "def_es": "Aceptar una palabra, reconocer, recibir con gratitud.",
+      "label_sv": "att anta, att erkänna",
+      "def_sv": "Att ta emot ett ord, erkänna, motta med tacksamhet.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "使徒2:41・24:3。教父（3.1.2）に並行。LXX の代表例では確認していない。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "ACT 18:27": 1,
+    "ACT 2:41": 2,
+    "ACT 24:3": 2,
+    "ACT 21:17": 1,
+    "ACT 28:30": 1,
+    "LUK 8:40": 1,
+    "LUK 9:11": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（人を迎える／言葉・事柄を受け入れる）による。"
+}

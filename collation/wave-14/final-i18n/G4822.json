@@ -1,0 +1,69 @@
+{
+  "strong": "G4822",
+  "lemma": "συμβιβάζω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "結び合わせる",
+      "def_ja": "結び合わせる、一つにする。『愛によって結び合わされ』『結び合わされ、つなぎ合わされて』『節々と筋によって支えられ、結び合わされて』。",
+      "label_en": "to knit together",
+      "def_en": "To join together, to make one.",
+      "label_es": "unir",
+      "def_es": "Enlazar, hacer uno.",
+      "label_sv": "att sammanfoga",
+      "def_sv": "Att binda samman, att göra till ett.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "コロサイ2:2・2:19、エペソ4:16。語義2・3との境界は連続的。LXX・教父の代表例は「教える」の用法で、この語義としては確認していない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "結論する・証明する",
+      "def_ja": "推論して結論に達する、論証する。『神がわたしたちを召したのだと確信して』『イエスがキリストであることを論証し』。",
+      "label_en": "to conclude, to prove",
+      "def_en": "To reason to a conclusion, to demonstrate.",
+      "label_es": "concluir, demostrar",
+      "def_es": "Llegar a una conclusión razonando, probar.",
+      "label_sv": "att dra slutsatsen, att bevisa",
+      "def_sv": "Att resonera sig fram till en slutsats, att påvisa.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒16:10・9:22。語義1・3との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "教える・指示する",
+      "def_ja": "教える、教え導く。『主を教えうる者があろうか』『ある者はこう、ある者はああと叫んでいた（教示した）』。",
+      "label_en": "to instruct",
+      "def_en": "To teach, to guide by instruction.",
+      "label_es": "instruir, indicar",
+      "def_es": "Enseñar, guiar con instrucción.",
+      "label_sv": "att undervisa, att ge anvisning",
+      "def_sv": "Att lära, att vägleda genom undervisning.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "コリント第一2:16、使徒19:33。使徒19:33 は「教えた」か「促した」かの読みが分かれ、決定しない。LXX（4.15・10.11）に並行。教父の用例なし。語義2との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "1CO 2:16": 3,
+    "ACT 16:10": 2,
+    "ACT 19:33": 3,
+    "ACT 9:22": 2,
+    "COL 2:2": 1,
+    "COL 2:19": 1,
+    "EPH 4:16": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（結び合わせる／結論する／教える）による。"
+}

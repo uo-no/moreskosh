@@ -1,0 +1,52 @@
+{
+  "strong": "G5279",
+  "lemma": "ὑπομιμνῄσκω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "思い出させる",
+      "def_ja": "思い出させる、気づかせる。『これらのことをあなたがたに思い出させたい』『これらのことを思い出させ』『その行いを取り上げて』『あなたがたに思い出させてくださる』『あなたがたに思い出させたい』『人々に思い出させなさい』。",
+      "label_en": "to remind",
+      "def_en": "To remind, to bring to someone’s notice.",
+      "label_es": "recordar (a otro)",
+      "def_es": "Hacer recordar, advertir.",
+      "label_sv": "att påminna",
+      "def_sv": "Att erinra, att göra uppmärksam.",
+      "layers": {
+        "nt": 6,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ペテロ第二1:12、テモテ第二2:14、ヨハネ第三10、ヨハネ14:26、ユダ5、テトス3:1。LXX（18.22・18.14）、教父（7.1）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "思い出す（受動）",
+      "def_ja": "思い出される、思い起こす。『ペテロは…主のことばを思い出した』。",
+      "label_en": "to remember (passive)",
+      "def_en": "To be reminded, to call to mind.",
+      "label_es": "acordarse (pasiva)",
+      "def_es": "Venir a la memoria, recordar.",
+      "label_sv": "att minnas (passiv)",
+      "def_sv": "Att bli påmind, att komma ihåg.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ルカ22:61。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "2PE 1:12": 1,
+    "2TI 2:14": 1,
+    "3JN 1:10": 1,
+    "JHN 14:26": 1,
+    "JUD 1:5": 1,
+    "LUK 22:61": 2,
+    "TIT 3:1": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（思い出させる／思い出す）による。"
+}

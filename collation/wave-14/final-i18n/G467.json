@@ -1,0 +1,52 @@
+{
+  "strong": "G467",
+  "lemma": "ἀνταποδίδωμι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "報いを返す（恵み・感謝に）",
+      "def_ja": "良いことに報い返す、感謝を返す。『その人たちは、お返しができないから、あなたは報われる』『あなたは復活のとき報いられる』『神にどんな感謝を返せるだろう』『だれが神に先に与えて報いを受けようか』。",
+      "label_en": "to repay (for kindness, in thanks)",
+      "def_en": "To repay good that has been done, to return thanks.",
+      "label_es": "recompensar, corresponder (al bien, con gratitud)",
+      "def_es": "Corresponder al bien recibido, devolver gracias.",
+      "label_sv": "att vedergälla, att återgälda (gott, med tack)",
+      "def_sv": "Att återgälda något gott, att ge tack tillbaka.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ14:14（2回）、テサロニケ第一3:9、ローマ11:35。LXX（118.17・35.10）に並行。教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "報復する・報いを与える（さばき）",
+      "def_ja": "悪に報いる、報復する。『あなたがたを悩ます者には苦しみをもって報い』『わたしは報復する』『わたしが報復する』。",
+      "label_en": "to retaliate, to recompense (judgment)",
+      "def_en": "To repay evil, to take vengeance.",
+      "label_es": "retribuir, pagar (juicio)",
+      "def_es": "Pagar el mal, vengar.",
+      "label_sv": "att vedergälla, att straffa (dom)",
+      "def_sv": "Att löna det onda, att hämnas.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "テサロニケ第二1:6、ヘブル10:30、ローマ12:19。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1TH 3:9": 1,
+    "2TH 1:6": 2,
+    "HEB 10:30": 2,
+    "LUK 14:14#1": 1,
+    "LUK 14:14#2": 1,
+    "ROM 12:19": 2,
+    "ROM 11:35": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（恵みへの返礼／さばきの報い）による。"
+}

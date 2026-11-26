@@ -1,0 +1,52 @@
+{
+  "strong": "G4496",
+  "lemma": "ῥίπτω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "投げる・投げ捨てる",
+      "def_ja": "投げる、投げ捨てる、投げ出す。『銀貨を宮に投げ込んで』『積み荷を海へ投げ捨てた』『錨を四つ投げ入れ』『海に投げ込まれる方がましだ』『汚れた霊は彼を人々の中に投げ倒し』。",
+      "label_en": "to throw, to throw down",
+      "def_en": "To throw, to throw away, to fling down.",
+      "label_es": "arrojar, tirar",
+      "def_es": "Arrojar, tirar, echar fuera.",
+      "label_sv": "att kasta, att slänga",
+      "def_sv": "Att kasta, kasta bort, slunga ut.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "マタイ27:5、使徒27:19・27:29、ルカ17:2・4:35。LXX（6.13・9.25）、教父（3.5.5）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "横たえる・打ち捨てられている",
+      "def_ja": "人を横たえる、投げ出されている状態。『人々は…足もとに置いた』『弱り果てて倒れている』。",
+      "label_en": "to lay down, to be cast down",
+      "def_en": "To lay a person down; the state of lying thrown down.",
+      "label_es": "poner, estar postrado",
+      "def_es": "Tender a una persona; estado de quien yace abatido.",
+      "label_sv": "att lägga ner, att ligga övergiven",
+      "def_sv": "Att lägga ner en människa; tillståndet att ligga utkastad.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マタイ15:30・9:36。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 27:19": 1,
+    "ACT 27:29": 1,
+    "LUK 17:2": 1,
+    "LUK 4:35": 1,
+    "MAT 15:30": 2,
+    "MAT 27:5": 1,
+    "MAT 9:36": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（投げる／横たえる・投げ出された状態）による。"
+}

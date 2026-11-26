@@ -1,0 +1,52 @@
+{
+  "strong": "G515",
+  "lemma": "ἀξιόω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "ふさわしいとみなす・値するとする",
+      "def_ja": "ふさわしいと認める、値するとする（受動：ふさわしいとされる）。『二倍の尊敬を受けるにふさわしいとされるべきである』『あなたがたを召しにふさわしい者とされるように』『モーセよりもまさって栄光に値するとされた』『どれほど重い刑罰に値するとされるか』『あなたのところに行くにふさわしいとは思いませんでした』。",
+      "label_en": "to deem worthy",
+      "def_en": "To judge worthy, to count deserving (passive: to be deemed worthy).",
+      "label_es": "tener por digno",
+      "def_es": "Reconocer como digno o merecedor (pasiva: ser tenido por digno).",
+      "label_sv": "att akta värdig",
+      "def_sv": "Att anse värdig eller förtjänt (passiv: att aktas värdig).",
+      "layers": {
+        "nt": 5,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "テモテ第一5:17、テサロニケ第二1:11、ヘブル3:3・10:29、ルカ7:7。語義2との境界は連続的。LXX・教父の代表例は「求める・よしとする」の用法で、この語義としては確認していない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "よいとする・望む",
+      "def_ja": "よいと考える、願い求める。『連れて行くのはよくないと考えた』『あなたの考えを聞きたい』。",
+      "label_en": "to think good, to desire",
+      "def_en": "To think it right, to request.",
+      "label_es": "juzgar conveniente, querer",
+      "def_es": "Considerar bueno, pedir.",
+      "label_sv": "att finna lämpligt, att vilja",
+      "def_sv": "Att anse bra, att begära.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒15:38・28:22。LXX（5.4・6.12）、教父（59.4）に並行。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "1TI 5:17": 1,
+    "2TH 1:11": 1,
+    "ACT 15:38": 2,
+    "ACT 28:22": 2,
+    "HEB 10:29": 1,
+    "HEB 3:3": 1,
+    "LUK 7:7": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（ふさわしいとみなす／よいとする・望む）による。"
+}

@@ -1,0 +1,52 @@
+{
+  "strong": "G4377",
+  "lemma": "προσφωνέω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "呼びかける・声をかける",
+      "def_ja": "人に向かって声をかける、呼びかける。『ヘブル語で呼びかけて』『ヘブル語で語りかけた』『こう言った』『声をかけて』『彼らは叫んだ』『広場に座って仲間に呼びかけている子供たち』『群衆に向かって』。",
+      "label_en": "to call out to, to address",
+      "def_en": "To speak up to someone, to call to them.",
+      "label_es": "dirigir la palabra, llamar a voces",
+      "def_es": "Alzar la voz hacia alguien, hablarle.",
+      "label_sv": "att tilltala, att ropa till",
+      "def_sv": "Att vända sig till någon med rösten, att ropa till.",
+      "layers": {
+        "nt": 6,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒22:2・21:40、ルカ13:12・23:20・7:32、マタイ11:16。LXX（6.21・15.15）に並行。教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "呼び寄せる",
+      "def_ja": "呼び寄せる、召し出す。『夜が明けると、弟子たちを呼び寄せ』。",
+      "label_en": "to summon",
+      "def_en": "To call to oneself, to summon.",
+      "label_es": "llamar a sí",
+      "def_es": "Convocar, hacer venir.",
+      "label_sv": "att kalla till sig",
+      "def_sv": "Att kalla fram, att sammankalla.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ルカ6:13。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 22:2": 1,
+    "ACT 21:40": 1,
+    "LUK 13:12": 1,
+    "LUK 23:20": 1,
+    "LUK 6:13": 2,
+    "LUK 7:32": 1,
+    "MAT 11:16": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（呼びかける／呼び寄せる）による。"
+}
