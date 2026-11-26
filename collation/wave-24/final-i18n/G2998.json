@@ -1,0 +1,30 @@
+{
+  "strong": "G2998",
+  "lemma": "λατομέω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "岩を掘る",
+      "def_ja": "岩を切り出す、掘る。『岩に掘った墓』（2回）。",
+      "label_en": "to hew out of rock",
+      "def_en": "To cut or dig out of rock.",
+      "label_es": "excavar en la roca",
+      "def_es": "Tallar o cavar en la peña.",
+      "label_sv": "att hugga ut i berget",
+      "def_sv": "Att bryta eller hugga ur klippan.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "マタイ27:60、マルコ15:46。LXX、教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "MAT 27:60": 1,
+    "MRK 15:46": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

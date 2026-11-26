@@ -1,0 +1,30 @@
+{
+  "strong": "G426",
+  "lemma": "ἀνετάζω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "取り調べる",
+      "def_ja": "取り調べる、尋問する。『取り調べる』（2回）。",
+      "label_en": "to examine",
+      "def_en": "To question, to interrogate.",
+      "label_es": "interrogar",
+      "def_es": "Examinar, tomar declaración.",
+      "label_sv": "att förhöra",
+      "def_sv": "Att rannsaka, att utfråga.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒22:24・22:29。LXX に並行。教父の用例なし。単一語義。"
+    }
+  ],
+  "assignments": {
+    "ACT 22:24": 1,
+    "ACT 22:29": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

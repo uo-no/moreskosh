@@ -1,0 +1,30 @@
+{
+  "strong": "G338",
+  "lemma": "ἀναίτιος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "罪のない",
+      "def_ja": "罪のない、責任のない。『罪に問われない』『咎のない者たち』。",
+      "label_en": "guiltless",
+      "def_en": "Without guilt, not responsible.",
+      "label_es": "sin culpa",
+      "def_es": "Inocente, sin responsabilidad.",
+      "label_sv": "skuldlös",
+      "def_sv": "Utan skuld, utan ansvar.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "マタイ12:5・12:7。LXX、教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "MAT 12:5": 1,
+    "MAT 12:7": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

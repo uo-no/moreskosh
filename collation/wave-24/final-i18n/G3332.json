@@ -1,0 +1,30 @@
+{
+  "strong": "G3332",
+  "lemma": "μεταίρω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "去る",
+      "def_ja": "立ち去る、移る。『出発された』（2回）。",
+      "label_en": "to depart",
+      "def_en": "To go away, to move on.",
+      "label_es": "irse",
+      "def_es": "Marcharse, trasladarse.",
+      "label_sv": "att bryta upp",
+      "def_sv": "Att gå därifrån, att dra vidare.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "マタイ19:1・13:53。LXX に並行。教父の用例なし。単一語義。"
+    }
+  ],
+  "assignments": {
+    "MAT 19:1": 1,
+    "MAT 13:53": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

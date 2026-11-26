@@ -1,0 +1,30 @@
+{
+  "strong": "G3314",
+  "lemma": "μεσημβρία",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "正午・南",
+      "def_ja": "正午、また南の方角。使徒22:6 は『正午ごろ』、使徒8:26 は『南に向かって』（正午の意かは決定しない）。語義は分けない。",
+      "label_en": "noon, south",
+      "def_en": "Midday; also the direction south.",
+      "label_es": "mediodía, sur",
+      "def_es": "El mediodía; también el sur.",
+      "label_sv": "middag, söder",
+      "def_sv": "Middagstid; även väderstrecket söder.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒22:6・8:26。LXX に並行。教父の用例なし。単一語義。"
+    }
+  ],
+  "assignments": {
+    "ACT 22:6": 1,
+    "ACT 8:26": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

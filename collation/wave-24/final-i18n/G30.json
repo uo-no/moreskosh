@@ -1,0 +1,30 @@
+{
+  "strong": "G30",
+  "lemma": "ἀγγεῖον",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "入れ物",
+      "def_ja": "入れ物、器。『入れ物に』『入れ物（のあぶら）』。",
+      "label_en": "container",
+      "def_en": "A container, a vessel.",
+      "label_es": "vasija",
+      "def_es": "Recipiente, vasija.",
+      "label_sv": "kärl",
+      "def_sv": "Behållare, kärl.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "マタイ13:48・25:4。LXX、教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "MAT 13:48": 1,
+    "MAT 25:4": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

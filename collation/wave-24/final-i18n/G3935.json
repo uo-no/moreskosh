@@ -1,0 +1,47 @@
+{
+  "strong": "G3935",
+  "lemma": "παρίημι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "弱る・垂れ下がる",
+      "def_ja": "弱る、垂れ下がる。『弱った手』。",
+      "label_en": "to droop",
+      "def_en": "To grow slack, to hang down.",
+      "label_es": "estar caído",
+      "def_es": "Debilitarse, colgar.",
+      "label_sv": "att hänga slappt",
+      "def_sv": "Att försvagas, att sjunka ned.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヘブル12:12。LXX に並行。教父の代表例では確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "見過ごす・おろそかにする",
+      "def_ja": "見過ごす、おろそかにする。『これもおろそかにしてはならない』。",
+      "label_en": "to neglect",
+      "def_en": "To pass over, to leave undone.",
+      "label_es": "descuidar",
+      "def_es": "Pasar por alto, omitir.",
+      "label_sv": "att försumma",
+      "def_sv": "Att förbigå, att underlåta.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ルカ11:42。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "HEB 12:12": 1,
+    "LUK 11:42": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。"
+}

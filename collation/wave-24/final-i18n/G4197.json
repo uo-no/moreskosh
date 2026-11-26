@@ -1,0 +1,47 @@
+{
+  "strong": "G4197",
+  "lemma": "πορεία",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "旅・道のり",
+      "def_ja": "旅、道のり。『エルサレムへ進んで行かれた』。",
+      "label_en": "journey",
+      "def_en": "A journey, a way.",
+      "label_es": "viaje",
+      "def_es": "Camino, viaje.",
+      "label_sv": "resa",
+      "def_sv": "Färd, väg.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ルカ13:22。LXX、教父に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "歩み・営み",
+      "def_ja": "歩み、営み。『その行く道で』『その営みの中で』。",
+      "label_en": "course, pursuits",
+      "def_en": "One’s ways, one’s business.",
+      "label_es": "andanzas, empresas",
+      "def_es": "El proceder y los negocios.",
+      "label_sv": "vägar, förehavanden",
+      "def_sv": "Levnadsgång, verksamhet.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヤコブ1:11。LXX に並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "JAS 1:11": 2,
+    "LUK 13:22": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（旅／営み）による。"
+}

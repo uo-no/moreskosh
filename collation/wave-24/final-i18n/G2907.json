@@ -1,0 +1,30 @@
+{
+  "strong": "G2907",
+  "lemma": "κρέας",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "肉",
+      "def_ja": "肉。『肉を食べない』『肉を食べず』。",
+      "label_en": "meat",
+      "def_en": "Meat, flesh.",
+      "label_es": "carne",
+      "def_es": "Carne para comer.",
+      "label_sv": "kött",
+      "def_sv": "Kött som föda.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "コリント第一8:13、ローマ14:21。LXX に並行。教父の用例なし。単一語義。"
+    }
+  ],
+  "assignments": {
+    "1CO 8:13": 1,
+    "ROM 14:21": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

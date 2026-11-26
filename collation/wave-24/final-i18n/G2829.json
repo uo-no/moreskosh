@@ -1,0 +1,30 @@
+{
+  "strong": "G2829",
+  "lemma": "κλοπή",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "盗み",
+      "def_ja": "盗み、窃盗。『盗み』（2回）。",
+      "label_en": "theft",
+      "def_en": "Theft, stealing.",
+      "label_es": "robo",
+      "def_es": "Hurto, robo.",
+      "label_sv": "stöld",
+      "def_sv": "Stöld, tjuveri.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "マタイ15:19、マルコ7:21。LXX、教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "MAT 15:19": 1,
+    "MRK 7:21": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

@@ -1,0 +1,30 @@
+{
+  "strong": "G3523",
+  "lemma": "νῆστις",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "断食中の・空腹の",
+      "def_ja": "何も食べていない、空腹の。『空腹のまま』（2回）。",
+      "label_en": "fasting, hungry",
+      "def_en": "Not having eaten, hungry.",
+      "label_es": "en ayunas",
+      "def_es": "Sin haber comido, hambriento.",
+      "label_sv": "fastande, hungrig",
+      "def_sv": "Utan att ha ätit.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "マタイ15:32、マルコ8:3。LXX に並行。教父の用例なし。単一語義。"
+    }
+  ],
+  "assignments": {
+    "MAT 15:32": 1,
+    "MRK 8:3": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

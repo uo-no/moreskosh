@@ -1,0 +1,30 @@
+{
+  "strong": "G381",
+  "lemma": "ἀνάπτω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "火をつける",
+      "def_ja": "火をつける、燃え上がらせる。『小さな火』『すでに燃えていたなら』。",
+      "label_en": "to kindle",
+      "def_en": "To light a fire, to set ablaze.",
+      "label_es": "encender",
+      "def_es": "Prender fuego, inflamar.",
+      "label_sv": "att tända",
+      "def_sv": "Att sätta eld på, att få att flamma.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヤコブ3:5、ルカ12:49。LXX に並行。教父の用例なし。単一語義。"
+    }
+  ],
+  "assignments": {
+    "JAS 3:5": 1,
+    "LUK 12:49": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

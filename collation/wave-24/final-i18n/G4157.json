@@ -1,0 +1,47 @@
+{
+  "strong": "G4157",
+  "lemma": "πνοή",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "息",
+      "def_ja": "息、命の息。『すべての人に命と息とすべてのものを与え』。",
+      "label_en": "breath",
+      "def_en": "Breath, the breath of life.",
+      "label_es": "aliento",
+      "def_es": "Respiración, aliento de vida.",
+      "label_sv": "ande, andedräkt",
+      "def_sv": "Andetag, livsande.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒17:25。LXX、教父に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "風",
+      "def_ja": "風、吹く風。『激しい風が吹いて来るような響き』。",
+      "label_en": "wind",
+      "def_en": "Wind, a blowing wind.",
+      "label_es": "viento",
+      "def_es": "Ráfaga, viento que sopla.",
+      "label_sv": "vind",
+      "def_sv": "Blåst, vind.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒2:2。LXX に並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 17:25": 1,
+    "ACT 2:2": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（息／風）による。"
+}

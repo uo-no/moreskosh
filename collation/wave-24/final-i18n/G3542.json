@@ -1,0 +1,47 @@
+{
+  "strong": "G3542",
+  "lemma": "νομή",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "牧草地",
+      "def_ja": "牧草地、牧場。『牧草を見つける』。",
+      "label_en": "pasture",
+      "def_en": "Pasture, grazing land.",
+      "label_es": "pasto",
+      "def_es": "Pastizal, dehesa.",
+      "label_sv": "bete",
+      "def_sv": "Betesmark.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヨハネ10:9。LXX、教父に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "広がること",
+      "def_ja": "広がること、蔓延。『その言うことは、がんのように広がる』。",
+      "label_en": "spreading",
+      "def_en": "A spreading, extending.",
+      "label_es": "extensión",
+      "def_es": "El propagarse.",
+      "label_sv": "spridning",
+      "def_sv": "Att breda ut sig.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "テモテ第二2:17。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "2TI 2:17": 2,
+    "JHN 10:9": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。"
+}

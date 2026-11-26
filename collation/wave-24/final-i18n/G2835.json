@@ -1,0 +1,30 @@
+{
+  "strong": "G2835",
+  "lemma": "κοδράντης",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "コドランテス",
+      "def_ja": "ローマの小額硬貨、コドランテス。『最後の一コドラント』『二レプトン、すなわち一コドラント』。",
+      "label_en": "quadrans",
+      "def_en": "A small Roman coin, the quadrans.",
+      "label_es": "cuadrante",
+      "def_es": "Moneda romana de poco valor, el cuadrante.",
+      "label_sv": "kodrant",
+      "def_sv": "Ett romerskt småmynt, quadrans.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "マタイ5:26、マルコ12:42。LXX の用例なし。教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "MAT 5:26": 1,
+    "MRK 12:42": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

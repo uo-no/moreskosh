@@ -1,0 +1,47 @@
+{
+  "strong": "G322",
+  "lemma": "ἀναδείκνυμι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "示す",
+      "def_ja": "示す、明らかにする。『お示しください』。",
+      "label_en": "to show",
+      "def_en": "To show, to make clear.",
+      "label_es": "mostrar",
+      "def_es": "Mostrar, señalar.",
+      "label_sv": "att visa",
+      "def_sv": "Att visa, att göra klart.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒1:24。LXX・教父の代表例では確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "任命する",
+      "def_ja": "任命する、立てる。『七十二人を任命し』。",
+      "label_en": "to appoint",
+      "def_en": "To appoint, to set up.",
+      "label_es": "designar",
+      "def_es": "Nombrar, constituir.",
+      "label_sv": "att utse",
+      "def_sv": "Att förordna, att insätta.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ10:1。LXX に並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 1:24": 1,
+    "LUK 10:1": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（示す／任命する）による。"
+}

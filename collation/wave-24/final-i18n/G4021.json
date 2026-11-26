@@ -1,0 +1,47 @@
+{
+  "strong": "G4021",
+  "lemma": "περίεργος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "おせっかいな",
+      "def_ja": "余計なことに首を突っ込む。『おしゃべりをし、おせっかいをし』。",
+      "label_en": "meddlesome",
+      "def_en": "Prying into what is not one’s concern.",
+      "label_es": "entrometido",
+      "def_es": "Que se mete en lo que no le importa.",
+      "label_sv": "beskäftig",
+      "def_sv": "Som lägger sig i det som inte angår en.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "テモテ第一5:13。LXX の用例なし。教父に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "魔術",
+      "def_ja": "魔術、不思議な術。『魔術を行っていた者たち』。",
+      "label_en": "magic arts",
+      "def_en": "Magic, curious arts.",
+      "label_es": "artes mágicas",
+      "def_es": "Magia, artes ocultas.",
+      "label_sv": "trollkonster",
+      "def_sv": "Magi, hemliga konster.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒19:19。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1TI 5:13": 1,
+    "ACT 19:19": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。"
+}

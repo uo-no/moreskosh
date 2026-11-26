@@ -1,0 +1,30 @@
+{
+  "strong": "G4070",
+  "lemma": "πέρυσι(ν)",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "昨年",
+      "def_ja": "昨年、去年。『昨年から』（2回）。",
+      "label_en": "last year",
+      "def_en": "Last year, a year ago.",
+      "label_es": "el año pasado",
+      "def_es": "Desde el año anterior.",
+      "label_sv": "i fjol",
+      "def_sv": "Förra året.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "コリント第二8:10・9:2。LXX の用例なし。教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "2CO 8:10": 1,
+    "2CO 9:2": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

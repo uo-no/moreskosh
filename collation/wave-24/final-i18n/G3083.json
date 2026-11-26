@@ -1,0 +1,30 @@
+{
+  "strong": "G3083",
+  "lemma": "λύτρον",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "身代金",
+      "def_ja": "身代金、贖いの代価。『多くの人のための贖いの代価』（2回）。",
+      "label_en": "ransom",
+      "def_en": "A ransom, the price of redemption.",
+      "label_es": "rescate",
+      "def_es": "Precio pagado para liberar.",
+      "label_sv": "lösen",
+      "def_sv": "Lösepenning.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "マタイ20:28、マルコ10:45。LXX、教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "MAT 20:28": 1,
+    "MRK 10:45": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

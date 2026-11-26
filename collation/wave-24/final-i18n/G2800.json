@@ -1,0 +1,30 @@
+{
+  "strong": "G2800",
+  "lemma": "κλάσις",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "裂くこと",
+      "def_ja": "パンを裂くこと。『パンを裂くこと』（2回）。",
+      "label_en": "breaking",
+      "def_en": "The breaking of bread.",
+      "label_es": "partimiento",
+      "def_es": "El partir el pan.",
+      "label_sv": "brytande",
+      "def_sv": "Brödsbrytelsen.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒2:42、ルカ24:35。LXX・教父の用例なし。単一語義。"
+    }
+  ],
+  "assignments": {
+    "ACT 2:42": 1,
+    "LUK 24:35": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

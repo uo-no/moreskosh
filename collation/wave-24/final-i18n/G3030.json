@@ -1,0 +1,30 @@
+{
+  "strong": "G3030",
+  "lemma": "λίβανος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "乳香",
+      "def_ja": "乳香。『乳香、没薬』『乳香』。LXX・教父の代表例は地名 Λίβανος（レバノン）の用例で、同じ語ではない。",
+      "label_en": "frankincense",
+      "def_en": "Frankincense.",
+      "label_es": "incienso",
+      "def_es": "Incienso aromático.",
+      "label_sv": "rökelse",
+      "def_sv": "Välluktande harts, olibanum.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マタイ2:11、黙示録18:13。LXX・教父の代表例では確認していない。単一語義。"
+    }
+  ],
+  "assignments": {
+    "MAT 2:11": 1,
+    "REV 18:13": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

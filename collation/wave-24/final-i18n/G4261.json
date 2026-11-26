@@ -1,0 +1,47 @@
+{
+  "strong": "G4261",
+  "lemma": "προβάλλω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "前に押し出す",
+      "def_ja": "前に押し出す、前に出す。『前に押し出した』。",
+      "label_en": "to put forward",
+      "def_en": "To push to the front, to put forward.",
+      "label_es": "empujar adelante",
+      "def_es": "Poner delante, hacer salir.",
+      "label_sv": "att skjuta fram",
+      "def_sv": "Att föra fram.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒19:33。LXX・教父の代表例では確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "芽を出す",
+      "def_ja": "芽を出す、芽吹く。『葉が出る』。",
+      "label_en": "to put out buds",
+      "def_en": "To sprout, to bud.",
+      "label_es": "brotar",
+      "def_es": "Echar hojas.",
+      "label_sv": "att knoppas",
+      "def_sv": "Att spricka ut.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ルカ21:30。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 19:33": 1,
+    "LUK 21:30": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。LXX・教父の代表例は『提示する』の用法で、この二つの用法は確認していない。"
+}

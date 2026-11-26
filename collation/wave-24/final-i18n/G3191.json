@@ -1,0 +1,47 @@
+{
+  "strong": "G3191",
+  "lemma": "μελετάω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "心がける",
+      "def_ja": "心がける、励む。『これらのことを心がけなさい』。",
+      "label_en": "to attend to, to practice",
+      "def_en": "To give care to, to be diligent in.",
+      "label_es": "ocuparse en",
+      "def_es": "Poner el cuidado en, esmerarse.",
+      "label_sv": "att lägga sig vinn om",
+      "def_sv": "Att ägna sig åt, att vara flitig i.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "テモテ第一4:15。LXX、教父に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "企てる",
+      "def_ja": "企てる、思いめぐらす。『むなしいことを企む』。",
+      "label_en": "to plot",
+      "def_en": "To devise, to contrive in thought.",
+      "label_es": "maquinar",
+      "def_es": "Tramar, idear.",
+      "label_sv": "att tänka ut",
+      "def_sv": "Att planera, att uppgöra anslag.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒4:25。LXX に並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1TI 4:15": 1,
+    "ACT 4:25": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。"
+}

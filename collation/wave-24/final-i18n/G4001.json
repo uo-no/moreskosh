@@ -1,0 +1,30 @@
+{
+  "strong": "G4001",
+  "lemma": "πεντακόσιοι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "五百",
+      "def_ja": "五百。『五百人以上』『五百デナリ』。",
+      "label_en": "five hundred",
+      "def_en": "Five hundred.",
+      "label_es": "quinientos",
+      "def_es": "Quinientos.",
+      "label_sv": "femhundra",
+      "def_sv": "Femhundra.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "コリント第一15:6、ルカ7:41。LXX、教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "1CO 15:6": 1,
+    "LUK 7:41": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

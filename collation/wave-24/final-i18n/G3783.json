@@ -1,0 +1,47 @@
+{
+  "strong": "G3783",
+  "lemma": "ὀφείλημα",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "負債",
+      "def_ja": "負債、借り。『わたしたちの負債を赦してください』。",
+      "label_en": "debt",
+      "def_en": "A debt, what is owed.",
+      "label_es": "deuda",
+      "def_es": "Deuda, lo que se debe.",
+      "label_sv": "skuld",
+      "def_sv": "Skuld, det man står i skuld för.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "マタイ6:12。LXX に並行。教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "当然の支払い",
+      "def_ja": "当然の支払い、負い目。『報酬は恵みでなく、当然の支払い』。",
+      "label_en": "what is due",
+      "def_en": "A payment that is due, an obligation.",
+      "label_es": "lo debido",
+      "def_es": "Pago que corresponde, obligación.",
+      "label_sv": "skyldig betalning",
+      "def_sv": "Det som är en tillkommande, en förpliktelse.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ローマ4:4。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "MAT 6:12": 1,
+    "ROM 4:4": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。"
+}

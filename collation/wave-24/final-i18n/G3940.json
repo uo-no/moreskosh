@@ -1,0 +1,30 @@
+{
+  "strong": "G3940",
+  "lemma": "παροικία",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "寄留",
+      "def_ja": "寄留、仮住まい。『寄留の期間』『寄留中に』。",
+      "label_en": "sojourn",
+      "def_en": "A sojourning, a temporary residence.",
+      "label_es": "peregrinación",
+      "def_es": "Estancia como forastero.",
+      "label_sv": "vistelse i främmande land",
+      "def_sv": "Främlingskap, tillfälligt boende.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ペテロ第一1:17、使徒13:17。LXX、教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "1PE 1:17": 1,
+    "ACT 13:17": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

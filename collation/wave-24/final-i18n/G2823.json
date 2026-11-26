@@ -1,0 +1,30 @@
+{
+  "strong": "G2823",
+  "lemma": "κλίβανος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "かまど",
+      "def_ja": "かまど、パン焼きがま。『かまどに投げ込まれる草』（2回）。LXX・教父の代表例は別語（Λίβανος）の用例で、同じ語ではない。",
+      "label_en": "oven",
+      "def_en": "An oven, a baking furnace.",
+      "label_es": "horno",
+      "def_es": "Horno de cocer pan.",
+      "label_sv": "ugn",
+      "def_sv": "Bakugn.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ルカ12:28、マタイ6:30。LXX・教父の代表例では確認していない。単一語義。"
+    }
+  ],
+  "assignments": {
+    "LUK 12:28": 1,
+    "MAT 6:30": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

@@ -1,0 +1,30 @@
+{
+  "strong": "G3771",
+  "lemma": "οὐρανόθεν",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "天から",
+      "def_ja": "天から。『天から』（2回）。",
+      "label_en": "from heaven",
+      "def_en": "From the sky, from heaven.",
+      "label_es": "del cielo",
+      "def_es": "Desde el cielo.",
+      "label_sv": "från himlen",
+      "def_sv": "Ned från himlen.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒14:17・26:13。LXX に並行。教父の用例なし。単一語義。"
+    }
+  ],
+  "assignments": {
+    "ACT 14:17": 1,
+    "ACT 26:13": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

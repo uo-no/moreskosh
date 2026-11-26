@@ -1,0 +1,30 @@
+{
+  "strong": "G3183",
+  "lemma": "μέθυσος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "酔っぱらい",
+      "def_ja": "酔っぱらい。『酒に酔う者』（2回）。",
+      "label_en": "drunkard",
+      "def_en": "One given to drunkenness.",
+      "label_es": "borracho",
+      "def_es": "El dado a la embriaguez.",
+      "label_sv": "drinkare",
+      "def_sv": "En fyllbult, en försupen människa.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "コリント第一5:11・6:10。LXX、教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "1CO 5:11": 1,
+    "1CO 6:10": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

@@ -1,0 +1,30 @@
+{
+  "strong": "G3824",
+  "lemma": "παλιγγενεσία",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "再生・新生",
+      "def_ja": "再生、新生。『新しい世』『再生の洗い』。マタイ19:28 とテトス3:5 の意味の異同は決定しない。",
+      "label_en": "regeneration",
+      "def_en": "Rebirth, renewal.",
+      "label_es": "regeneración",
+      "def_es": "Nuevo nacimiento, renovación.",
+      "label_sv": "pånyttfödelse",
+      "def_sv": "Ny födelse, förnyelse.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "マタイ19:28、テトス3:5。LXX の用例なし。教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "MAT 19:28": 1,
+    "TIT 3:5": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

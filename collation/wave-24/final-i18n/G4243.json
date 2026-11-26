@@ -1,0 +1,30 @@
+{
+  "strong": "G4243",
+  "lemma": "πρεσβεύω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "使節として働く",
+      "def_ja": "使節として働く、大使を務める。『キリストの使節として』『鎖につながれた使節』。",
+      "label_en": "to be an ambassador",
+      "def_en": "To act as an envoy or ambassador.",
+      "label_es": "actuar como embajador",
+      "def_es": "Ejercer de enviado.",
+      "label_sv": "att vara sändebud",
+      "def_sv": "Att tjäna som ambassadör.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "コリント第二5:20、エペソ6:20。LXX の用例なし。教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "2CO 5:20": 1,
+    "EPH 6:20": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

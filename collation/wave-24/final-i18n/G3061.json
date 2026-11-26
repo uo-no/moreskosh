@@ -1,0 +1,47 @@
+{
+  "strong": "G3061",
+  "lemma": "λοιμός",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "疫病",
+      "def_ja": "疫病、はやり病。『疫病』。",
+      "label_en": "plague",
+      "def_en": "Pestilence, an epidemic.",
+      "label_es": "peste",
+      "def_es": "Pestilencia, epidemia.",
+      "label_sv": "pest",
+      "def_sv": "Farsot.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ21:11。LXX に並行。教父の代表例では確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "厄介者",
+      "def_ja": "疫病のような者、災いをもたらす者。『この男は疫病のような人間』。",
+      "label_en": "pest (of a person)",
+      "def_en": "A person like a plague, one who brings trouble.",
+      "label_es": "plaga (persona)",
+      "def_es": "Individuo que es como una peste y acarrea males.",
+      "label_sv": "pestsmitta (om person)",
+      "def_sv": "En människa som en farsot, en som för olycka med sig.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒24:5。LXX、教父に並行。"
+    }
+  ],
+  "assignments": {
+    "ACT 24:5": 2,
+    "LUK 21:11": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（疫病／厄介者）による。"
+}

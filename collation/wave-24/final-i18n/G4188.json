@@ -1,0 +1,30 @@
+{
+  "strong": "G4188",
+  "lemma": "πόμα",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "飲み物",
+      "def_ja": "飲み物。『霊の飲み物』『飲み物』。",
+      "label_en": "drink",
+      "def_en": "A drink.",
+      "label_es": "bebida",
+      "def_es": "Lo que se bebe.",
+      "label_sv": "dryck",
+      "def_sv": "Det man dricker.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "コリント第一10:4、ヘブル9:10。LXX、教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "1CO 10:4": 1,
+    "HEB 9:10": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

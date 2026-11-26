@@ -1,0 +1,30 @@
+{
+  "strong": "G3506",
+  "lemma": "νεύω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "合図する",
+      "def_ja": "合図する、うなずく。『合図されたので』『合図をして』。LXX の代表例は『傾ける』の用法で、合図の用法は確認していない。",
+      "label_en": "to signal",
+      "def_en": "To make a sign, to nod.",
+      "label_es": "hacer señas",
+      "def_es": "Indicar con un gesto, asentir con la cabeza.",
+      "label_sv": "att ge tecken",
+      "def_sv": "Att nicka, att vinka.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒24:10、ヨハネ13:24。LXX・教父の代表例では確認していない。単一語義。"
+    }
+  ],
+  "assignments": {
+    "ACT 24:10": 1,
+    "JHN 13:24": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

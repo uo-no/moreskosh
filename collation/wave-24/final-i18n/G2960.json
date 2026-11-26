@@ -1,0 +1,30 @@
+{
+  "strong": "G2960",
+  "lemma": "κυριακός",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "主の",
+      "def_ja": "主の、主に属する。『主の晩餐』『主の日』。",
+      "label_en": "of the Lord",
+      "def_en": "Of the Lord, belonging to the Lord.",
+      "label_es": "del Señor",
+      "def_es": "Que es del Señor, que le pertenece.",
+      "label_sv": "Herrens",
+      "def_sv": "Som hör Herren till.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "コリント第一11:20、黙示録1:10。LXX の用例なし。教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "1CO 11:20": 1,
+    "REV 1:10": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

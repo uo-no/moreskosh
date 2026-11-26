@@ -1,0 +1,47 @@
+{
+  "strong": "G4174",
+  "lemma": "πολιτεία",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "市民権",
+      "def_ja": "市民権、国籍。『この市民権』。",
+      "label_en": "citizenship",
+      "def_en": "Citizenship, nationality.",
+      "label_es": "ciudadanía",
+      "def_es": "Derecho de ciudadano, nacionalidad.",
+      "label_sv": "medborgarrätt",
+      "def_sv": "Medborgarskap, nationalitet.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒22:28。LXX・教父の代表例では確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "国民・共同体",
+      "def_ja": "国民としての共同体、国。『イスラエルの国籍』。",
+      "label_en": "nation, commonwealth",
+      "def_en": "A people as a political community.",
+      "label_es": "nación, comunidad",
+      "def_es": "La comunidad nacional.",
+      "label_sv": "samhälle, folkgemenskap",
+      "def_sv": "Folket som gemenskap, rike.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "エペソ2:12。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 22:28": 1,
+    "EPH 2:12": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。LXX・教父の代表例は『生き方』『制度』の用法で、この用法は確認していない。"
+}

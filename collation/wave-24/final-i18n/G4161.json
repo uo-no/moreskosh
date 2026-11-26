@@ -1,0 +1,30 @@
+{
+  "strong": "G4161",
+  "lemma": "ποίημα",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "作品",
+      "def_ja": "作品、造られたもの。『神の作品』『造られたもの』。",
+      "label_en": "work, workmanship",
+      "def_en": "A work, a thing made.",
+      "label_es": "hechura",
+      "def_es": "Obra, lo creado.",
+      "label_sv": "verk",
+      "def_sv": "Skapelse, det gjorda.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "エペソ2:10、ローマ1:20。LXX に並行。教父の用例なし。単一語義。"
+    }
+  ],
+  "assignments": {
+    "EPH 2:10": 1,
+    "ROM 1:20": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

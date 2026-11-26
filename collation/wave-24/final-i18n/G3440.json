@@ -1,0 +1,30 @@
+{
+  "strong": "G3440",
+  "lemma": "μόνον",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "ただ・～だけ",
+      "def_ja": "ただ、～だけ。『ただ』（2回）。",
+      "label_en": "only",
+      "def_en": "Only, merely.",
+      "label_es": "solamente",
+      "def_es": "Solo, únicamente.",
+      "label_sv": "endast",
+      "def_sv": "Bara, blott.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "マタイ10:42、ピリピ1:29。LXX、教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "MAT 10:42": 1,
+    "PHP 1:29": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

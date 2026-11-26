@@ -1,0 +1,30 @@
+{
+  "strong": "G3989",
+  "lemma": "πέλαγος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "海・深み",
+      "def_ja": "海、外洋、深み。『キリキヤの沖』『海の深み』。",
+      "label_en": "sea, open sea",
+      "def_en": "The sea, the open sea, the depth.",
+      "label_es": "mar, alta mar",
+      "def_es": "Mar abierto, lo profundo.",
+      "label_sv": "hav, djup",
+      "def_sv": "Öppna havet, havsdjupet.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒27:5、マタイ18:6。LXX に並行。教父の用例なし。単一語義。"
+    }
+  ],
+  "assignments": {
+    "ACT 27:5": 1,
+    "MAT 18:6": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

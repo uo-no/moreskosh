@@ -1,0 +1,47 @@
+{
+  "strong": "G4023",
+  "lemma": "περιέχω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "書かれている・含まれている",
+      "def_ja": "含まれている、書かれている。『聖書にこう書いてある』。",
+      "label_en": "to be contained, to stand written",
+      "def_en": "To be contained, to be written.",
+      "label_es": "estar escrito, contenerse",
+      "def_es": "Figurar, estar contenido.",
+      "label_sv": "att stå skrivet",
+      "def_sv": "Att innehållas, att stå att läsa.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ペテロ第一2:6。LXX・教父の代表例では確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "取り囲む・襲う",
+      "def_ja": "取り囲む、襲う。『驚きに包まれた』。",
+      "label_en": "to seize, to surround",
+      "def_en": "To encompass, to come over.",
+      "label_es": "apoderarse, rodear",
+      "def_es": "Envolver, sobrecoger.",
+      "label_sv": "att gripa, att omsluta",
+      "def_sv": "Att komma över, att omfatta.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ルカ5:9。LXX、教父に並行。"
+    }
+  ],
+  "assignments": {
+    "1PE 2:6": 1,
+    "LUK 5:9": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。"
+}

@@ -1,0 +1,30 @@
+{
+  "strong": "G31",
+  "lemma": "ἀγγελία",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "知らせ",
+      "def_ja": "知らせ、使信。『聞いた知らせ』『初めから聞いた使信』。",
+      "label_en": "message",
+      "def_en": "News, a message.",
+      "label_es": "mensaje",
+      "def_es": "Noticia, mensaje.",
+      "label_sv": "budskap",
+      "def_sv": "Underrättelse, budskap.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヨハネ第一1:5・3:11。LXX、教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "1JN 1:5": 1,
+    "1JN 3:11": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

@@ -1,0 +1,47 @@
+{
+  "strong": "G3043",
+  "lemma": "λίνον",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "灯心・亜麻",
+      "def_ja": "灯心（亜麻の芯）。『くすぶる灯心』。",
+      "label_en": "wick, flax",
+      "def_en": "A lamp wick (of flax).",
+      "label_es": "pábilo, lino",
+      "def_es": "Mecha de lino.",
+      "label_sv": "veke, lin",
+      "def_sv": "Lampveke av lin.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マタイ12:20。LXX の代表例では確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "亜麻布",
+      "def_ja": "亜麻布。『亜麻布の衣』。",
+      "label_en": "linen",
+      "def_en": "Linen cloth.",
+      "label_es": "lino",
+      "def_es": "Tela de lino.",
+      "label_sv": "linne",
+      "def_sv": "Linnetyg.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "黙示録15:6。LXX に並行（亜麻）。教父の用例なし。"
+    }
+  ],
+  "assignments": {
+    "MAT 12:20": 1,
+    "REV 15:6": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（灯心／亜麻布）による。"
+}

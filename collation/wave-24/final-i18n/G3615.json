@@ -1,0 +1,30 @@
+{
+  "strong": "G3615",
+  "lemma": "οἰκιακός",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "家の者",
+      "def_ja": "家の者、家族。『その家の者たち』（2回）。",
+      "label_en": "member of a household",
+      "def_en": "One of the household, family.",
+      "label_es": "los de la casa",
+      "def_es": "Miembro de la casa, familiar.",
+      "label_sv": "husfolk",
+      "def_sv": "En som hör till huset.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マタイ10:25・10:36。LXX・教父の用例なし。単一語義。"
+    }
+  ],
+  "assignments": {
+    "MAT 10:25": 1,
+    "MAT 10:36": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

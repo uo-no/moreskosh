@@ -1,0 +1,30 @@
+{
+  "strong": "G3737",
+  "lemma": "ὀρφανός",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "みなしご",
+      "def_ja": "みなしご、孤児。『みなしごや寡婦』『みなしごにはしておかない』。",
+      "label_en": "orphan",
+      "def_en": "An orphan, a fatherless child.",
+      "label_es": "huérfano",
+      "def_es": "Niño sin padres.",
+      "label_sv": "faderlös",
+      "def_sv": "Föräldralös, värnlöst barn.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヤコブ1:27、ヨハネ14:18。LXX、教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "JAS 1:27": 1,
+    "JHN 14:18": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}
