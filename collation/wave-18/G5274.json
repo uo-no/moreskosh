@@ -1,0 +1,195 @@
+{
+ "strong": "G5274",
+ "lemma": "ὑπολαμβάνω",
+ "nt_freq": 5,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "3JN 1:8",
+   "form": "ὑπολαμβάνειν",
+   "morph": "V-PAN",
+   "gloss_en": "support",
+   "gloss_ja": "受け止める",
+   "verse": "ἡμεῖς οὖν ὀφείλομεν ὑπολαμβάνειν τοὺς τοιούτους, ἵνα συνεργοὶ γινώμεθα τῇ ἀληθείᾳ."
+  },
+  {
+   "ref": "ACT 1:9",
+   "form": "ὑπέλαβεν",
+   "morph": "V-2AAI-3S",
+   "gloss_en": "received",
+   "gloss_ja": "受け止める",
+   "verse": "καὶ ταῦτα εἰπὼν βλεπόντων αὐτῶν ἐπήρθη καὶ νεφέλη ὑπέλαβεν αὐτὸν ἀπὸ τῶν ὀφθαλμῶν αὐτῶν."
+  },
+  {
+   "ref": "ACT 2:15",
+   "form": "ὑπολαμβάνετε",
+   "morph": "V-PAI-2P",
+   "gloss_en": "suppose",
+   "gloss_ja": "受け止める",
+   "verse": "οὐ γὰρ ὡς ὑμεῖς ὑπολαμβάνετε οὗτοι μεθύουσιν, ἔστιν γὰρ ὥρα τρίτη τῆς ἡμέρας,"
+  },
+  {
+   "ref": "LUK 10:30",
+   "form": "ὑπολαβὼν",
+   "morph": "V-2AAP-NSM",
+   "gloss_en": "replied",
+   "gloss_ja": "受け止める",
+   "verse": "ὑπολαβὼν δὲ ὁ Ἰησοῦς εἶπεν· Ἄνθρωπός τις κατέβαινεν ἀπὸ Ἰερουσαλὴμ εἰς Ἰεριχὼ καὶ λῃσταῖς περιέπεσεν, οἳ καὶ ἐκδύσαντες αὐτὸν καὶ πληγὰς ἐπιθέντες ἀπῆλθον ἀφέντες ἡμιθανῆ."
+  },
+  {
+   "ref": "LUK 7:43",
+   "form": "Ὑπολαμβάνω",
+   "morph": "V-PAI-1S",
+   "gloss_en": "suppose",
+   "gloss_ja": "受け止める",
+   "verse": "ἀποκριθεὶς Σίμων εἶπεν· Ὑπολαμβάνω ὅτι ᾧ τὸ πλεῖον ἐχαρίσατο. ὁ δὲ εἶπεν αὐτῷ· Ὀρθῶς ἔκρινας."
+  }
+ ],
+ "lxx": {
+  "total": 50,
+  "works": {
+   "Paralipomenon ii sive Chronicon ii": 1,
+   "Esdras i": 1,
+   "Esther": 1,
+   "Tobias": 2,
+   "Machabaeorum ii": 2,
+   "Machabaeorum iii": 2,
+   "Machabaeorum iv": 2,
+   "Psalmi": 6,
+   "Job": 26,
+   "Sapientia Salomonis": 3,
+   "Jeremias": 1,
+   "Daniel": 3
+  },
+  "representatives": [
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "6.1",
+    "form": "ὑπολαβὼν",
+    "postag": "v-sapamn-",
+    "sentence": "ὑπολαβὼν δὲ Ἰὼβ λέγει ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "72.16",
+    "form": "ὑπέλαβον",
+    "postag": "v3paia---",
+    "sentence": "καὶ ὑπέλαβον τοῦ γνῶναι τοῦτο ·"
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "12.24",
+    "form": "ὑπολαμβάνοντες",
+    "postag": "v-pppamn-",
+    "sentence": "καὶ γὰρ τῶν πλάνης ὁδῶν μακρότερον ἐπλανήθησαν, θεοὺς ὑπολαμβάνοντες τὰ καὶ ἐν ζῴοις τῶν ἐχθρῶν ἄτιμα, νηπίων δίκην ἀφρόνων ψευσθέντες."
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "3.9",
+    "form": "ὑπολαβόντες",
+    "postag": "v-papamn-",
+    "sentence": "ἐν ἐκείνῳ τῷ καιρῷ προσελθόντες ἄνδρες Χαλδαῖοι διέβαλον τοὺς Ιουδαίους καὶ ὑπολαβόντες εἶπον Κύριε βασιλεῦ, εἰς τὸν αἰῶνα ζῆθι ·"
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "6.18",
+    "form": "ὑπολαμβάνω",
+    "postag": "v1spia---",
+    "sentence": "μὴ φοβοῦ, ὅτι σοὶ αὐτὴ ἡτοιμασμένη ἦν ἀπὸ τοῦ αἰῶνος, καὶ σὺ αὐτὴν σώσεις, καὶ πορεύσεται μετὰ σοῦ, καὶ ὑπολαμβάνω ὅτι σοι ἔσται ἐξ αὐτῆς παιδία."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "12.12",
+    "form": "ὑπολαβὼν",
+    "postag": "v-sapamn-",
+    "sentence": "Ἰούδας δὲ ὑπολαβὼν ὡς ἀληθῶς ἐν πολλοῖς αὐτοὺς χρησίμους, ἐπεχώρησεν εἰρήνην ἄξειν πρὸς αὐτούς ·"
+   },
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "3.11",
+    "form": "ὑπολαμβάνων",
+    "postag": "v-sppamn-",
+    "sentence": "ἐκεῖνος μὲν οὖν τῇ κατὰ τὸ παρὸν εὐημερίᾳ γεγαυρωμένος καὶ οὐ καθορῶν τὸ τοῦ μεγίστου Θεοῦ κράτος, ὑπολαμβάνων δὲ διηνεκῶς ἐν τῇ αὐτῇ διαμένειν βουλῇ, ἔγραψε κατ’ αὐτῶν ἐπιστολὴν τήνδε ·"
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "5.18",
+    "form": "ὑπολαμβάνεις",
+    "postag": "v2spia---",
+    "sentence": "καίτοι εἰ κατὰ ἀλήθειαν μὴ ἦν ὁ νόμος ἡμῶν, ὡς σὺ ὑπολαμβάνεις, θεῖος, ( ἄλλως δὲ νομίζομεν αὐτὸν εἶναι θεῖον ) οὐ-δὲ οὕτως ἐξὸν ἡμῖν ἦν τὴν ἐπὶ τῇ εὐσεβείᾳ δόξαν ἀκυρῶσαι."
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "25.8",
+    "form": "ὑπολάβῃς",
+    "postag": "v2sasa---",
+    "sentence": "ὅτι ἐὰν ὑπολάβῃς κατισχῦσαι ἐν τούτοις, καὶ τροπώσεταί σε Κύριος ἐναντίον τῶν ἐχθρῶν, ὅτι ἐστὶ παρὰ Κυρίου καὶ ἰσχῦσαι καὶ τροπώσασθαι."
+   },
+   {
+    "work_code": "1ES",
+    "work_ja": "エズラ記（ギリシャ語）",
+    "work_src": "Esdras i",
+    "ref": "2.18",
+    "form": "ὑπολαμβάνομεν",
+    "postag": "v1ppia---",
+    "sentence": "καὶ ἐπεὶ ἐνεργεῖται τὰ κατὰ τὸν ναόν, καλῶς ἔχειν ὑπολαμβάνομεν μὴ ὑπεριδεῖν τὸ τοιοῦτον, ἀλλὰ προσφωνῆσαι τῷ κυρίῳ βασιλεῖ, ὅπως, ἂν φαίνηταί σοι, ἐπισκεφθῇ ἐν τοῖς ἀπὸ τῶν πατέρων σου βιβλίοις ·"
+   },
+   {
+    "work_code": "EST",
+    "work_ja": "エステル記",
+    "work_src": "Esther",
+    "ref": "8.12δ",
+    "form": "ὑπολαμβάνουσιν",
+    "postag": "v3ppia---",
+    "sentence": "καὶ τὴν εὐχαριστίαν οὐ μόνον ἐκ τῶν ἀνθρώπων ἀνταναιροῦντες, ἀλλὰ καὶ τοῖς τῶν ἀπειραγάθων κόμποις ἐπαρθέντες, τοῦ τὰ πάντα κατοπτεύοντος ἀεὶ Θεοῦ μισοπόνηρον ὑπολαμβάνουσιν ἐκφεύξεσθαι δίκην."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "44.9",
+    "form": "ὑπολάβητε",
+    "postag": "v2pasa---",
+    "sentence": "μὴ ὑπολάβητε ταῖς ψυχαῖς ὑμῶν λέγοντες ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "1 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "35.9",
+    "form": "ὑπέλαβες",
+    "postag": "v2saia---",
+    "sentence": "ὑπέλαβες, ἄνομε, ὅτι ἔσομαί σοι ὅμοιος."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "4 (KJV) ὑπο-λαμβάνω     [in LXX: Jb 2:4 4:1 and freq. (עָנָה), Ps 47 (48):9 (דָּמָה pi.), To 6:17, Wi 17:2, III Mac 3:8, 11, al. ;]    to take or bear up (by supporting from beneath): c. acc pers., Ac 1:9.    to receive, welcome, entertain (Xen.): III Jn 8.    to catch up in speech (Hdt., al.; Jb, ll. c.): Lk 10:30.    Of mental action, to assume, suppose (Xen., al.; To, Wis, III Mac, ll. c.): Ac 2:15; seq. ὅτι (v. Bl., § 70, 2), Lk 7:43.†"
+}

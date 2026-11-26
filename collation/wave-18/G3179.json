@@ -1,0 +1,197 @@
+{
+ "strong": "G3179",
+ "lemma": "μεθίστημι",
+ "nt_freq": 5,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 13:2",
+   "form": "μεθιστάναι",
+   "morph": "V-PAN",
+   "gloss_en": "remove",
+   "gloss_ja": "移す",
+   "verse": "καὶ ἐὰν ἔχω προφητείαν καὶ εἰδῶ τὰ μυστήρια πάντα καὶ πᾶσαν τὴν γνῶσιν, καὶ ἐὰν ἔχω πᾶσαν τὴν πίστιν ὥστε ὄρη μεθιστάναι, ἀγάπην δὲ μὴ ἔχω, οὐθέν εἰμι."
+  },
+  {
+   "ref": "ACT 13:22",
+   "form": "μεταστήσας",
+   "morph": "V-AAP-NSM",
+   "gloss_en": "removed",
+   "gloss_ja": "移す",
+   "verse": "καὶ μεταστήσας αὐτὸν ἤγειρεν τὸν Δαυὶδ αὐτοῖς εἰς βασιλέα, ᾧ καὶ εἶπεν μαρτυρήσας· Εὗρον Δαυὶδ τὸν τοῦ Ἰεσσαί, ἄνδρα κατὰ τὴν καρδίαν μου, ὃς ποιήσει πάντα τὰ θελήματά μου."
+  },
+  {
+   "ref": "ACT 19:26",
+   "form": "μετέστησεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "turned away",
+   "gloss_ja": "移す",
+   "verse": "καὶ θεωρεῖτε καὶ ἀκούετε ὅτι οὐ μόνον Ἐφέσου ἀλλὰ σχεδὸν πάσης τῆς Ἀσίας ὁ Παῦλος οὗτος πείσας μετέστησεν ἱκανὸν ὄχλον, λέγων ὅτι οὐκ εἰσὶν θεοὶ οἱ διὰ χειρῶν γινόμενοι."
+  },
+  {
+   "ref": "COL 1:13",
+   "form": "μετέστησεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "transferred",
+   "gloss_ja": "移す",
+   "verse": "ὃς ἐρρύσατο ἡμᾶς ἐκ τῆς ἐξουσίας τοῦ σκότους καὶ μετέστησεν εἰς τὴν βασιλείαν τοῦ υἱοῦ τῆς ἀγάπης αὐτοῦ,"
+  },
+  {
+   "ref": "LUK 16:4",
+   "form": "μετασταθῶ",
+   "morph": "V-APS-1S",
+   "gloss_en": "removed",
+   "gloss_ja": "移す",
+   "verse": "ἔγνων τί ποιήσω, ἵνα ὅταν μετασταθῶ ἐκ τῆς οἰκονομίας δέξωνταί με εἰς τοὺς οἴκους ἑαυτῶν."
+  }
+ ],
+ "lxx": {
+  "total": 30,
+  "works": {
+   "Deuteronomium": 2,
+   "Josue": 1,
+   "Judices": 1,
+   "Regnorum i": 1,
+   "Regnorum iii": 3,
+   "Regnorum iv": 4,
+   "Paralipomenon ii sive Chronicon ii": 1,
+   "Machabaeorum i": 2,
+   "Machabaeorum ii": 1,
+   "Machabaeorum iii": 3,
+   "Amos": 1,
+   "Isaias": 3,
+   "Susanna": 2,
+   "Daniel": 5
+  },
+  "representatives": [
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "7.12",
+    "form": "μετεστάθη",
+    "postag": "v3saip---",
+    "sentence": "καὶ τῶν λοιπῶν θηρίων μετεστάθη ἡ ἀρχή, καὶ μακρότης ζωῆς ἐδόθη αὐτοῖς ἕως καιροῦ καὶ καιροῦ."
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "3.2",
+    "form": "μετέστησε",
+    "postag": "v3saia---",
+    "sentence": "καὶ μετέστησε τὰς στήλας τοῦ Βάαλ, ἃς ἐποίησεν ὁ πατὴρ αὐτοῦ ·"
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "18.29",
+    "form": "μετάστητε",
+    "postag": "v2pama---",
+    "sentence": "μετάστητε ἀπὸ τοῦ νῦν, καὶ ἐγὼ ποιήσω τὸ ὁλοκαύτωμά μου."
+   },
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "6.24",
+    "form": "μεθιστᾶν",
+    "postag": "v--pna---",
+    "sentence": "παραβασιλεύετε καὶ τυράννους ὑπερβεβήκατε ὠμότητι καὶ ἐμὲ αὐτὸν τὸν ὑμῶν εὐεργέτην ἐπιχειρεῖτε τῆς ἀρχῆς ἤδη καὶ τοῦ πνεύματος μεθιστᾶν, λάθρα μηχανώμενοι τὰ μὴ συμφέροντα τῇ βασιλείᾳ."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "59.15",
+    "form": "μετέστησαν",
+    "postag": "v3paia---",
+    "sentence": "καὶ ἡ ἀλήθεια ᾖρται, καὶ μετέστησαν τὴν διάνοιαν τοῦ συνιέναι ·"
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "17.17",
+    "form": "μεταστῇ",
+    "postag": "v3sasa---",
+    "sentence": "καὶ οὐ πληθυνεῖ ἑαυτῷ γυναῖκας, ἵνα μὴ μεταστῇ αὐτοῦ ἡ καρδία ·"
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "8.13",
+    "form": "μεθιστῶσι",
+    "postag": "v3ppia---",
+    "sentence": "οὓς δ’ ἂν βούλωνται, μεθιστῶσι ·"
+   },
+   {
+    "work_code": "SUS",
+    "work_ja": "スザンナ（Th）",
+    "work_src": "Susanna",
+    "ref": "56",
+    "form": "μεταστήσας",
+    "postag": "v-sapamn-",
+    "sentence": "καὶ μεταστήσας αὐτὸν ἐκέλευσε προσαγαγεῖν τὸν ἕτερον ·"
+   },
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "14.8",
+    "form": "μετέστησαν",
+    "postag": "v3paia---",
+    "sentence": "τεσσαράκοντα γὰρ ἐτῶν ἤμην ὅτε ἀπέστειλέ με Μωυσῆς ὁ παῖς τοῦ Θεοῦ ἐκ Κάδης Βαρνὴ κατασκοπεῦσαι τὴν γῆν, καὶ ἀπεκρίθην αὐτῷ λόγον κατὰ τὸν νοῦν αὐτοῦ, οἱ ἀδελφοί μου οἱ ἀναβάντες μετ’ ἐμοῦ μετέστησαν τὴν καρδίαν τοῦ λαοῦ, ἐγὼ δὲ προσετέθην ἐπακολουθῆσαι Κυρίῳ τῷ Θεῷ μου, καὶ ὤμοσε Μωυσῆς ἐν ἐκείνῃ τῇ ἡμέρᾳ λέγων ·"
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "9.29",
+    "form": "μεταστήσω",
+    "postag": "v1sfia---",
+    "sentence": "καὶ μεταστήσω τὸν Ἀβιμέλεχ καὶ ἐρῶ πρὸς αὐτόν ·"
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "6.12",
+    "form": "μεθίσταντο",
+    "postag": "v3piim---",
+    "sentence": "καὶ κατεύθυναν αἱ βόες ἐν τῇ ὁδῷ εἰς ὁδὸν Βαιθσαμύς, ἐν τρίβῳ ἑνὶ ἐπορεύοντο καὶ ἐκοπίων καὶ οὐ μεθίσταντο δεξιὰ οὐ-δὲ ἀριστερά ·"
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "15.16",
+    "form": "μετέστησε",
+    "postag": "v3saia---",
+    "sentence": "καὶ τὴν Μααχὰ τὴν μητέρα αὐτοῦ μετέστησε τοῦ μὴ εἶναι τῇ Ἀστάρτῃ λειτουργοῦσαν καὶ κατέκοψε τὸ εἴδωλον καὶ κατέκαυσεν ἐν χειμάρρῳ Κέδρων."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "1 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "44.5",
+    "form": "μεταστήσῃ",
+    "postag": "v3sasa---",
+    "sentence": "οὐ γὰρ εὐλαβοῦνται μή τις αὐτοὺς μεταστήσῃ ἀπὸ τοῦ ἱδρυμένου αὐτοῖς τόπου."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "5   μεθ-ίστημι and (late form, I Co 13:2) μεθιστάνω,    [in LXX for סור hi., etc.;]    trans. in pres., impf., fut. and aor.   to change, remove: c. acc. rei, ὄρη, I Co 13:2 (cf. Is 54:10); c. acc. pers.: seq. εἰς, Col 1:13; seq. ἐκ, pass., Lk 16:4; of causing death (cf. similar intrans. sense, Eur., Alc., 21, al.), Ac 13:22. Metaph. (cf. τ. καρδίαν μ., Jos 14:8), c. acc. pers., to pervert: Ac 19:26.†"
+}

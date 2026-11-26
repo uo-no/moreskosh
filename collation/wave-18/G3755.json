@@ -1,0 +1,283 @@
+{
+ "strong": "G3755",
+ "lemma": "ὅστις",
+ "nt_freq": 5,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JHN 9:18",
+   "form": "ὅτου",
+   "morph": "R-GSN-ATT",
+   "gloss_en": "*",
+   "gloss_ja": "だれでも",
+   "verse": "Οὐκ ἐπίστευσαν οὖν οἱ Ἰουδαῖοι περὶ αὐτοῦ ὅτι ἦν τυφλὸς καὶ ἀνέβλεψεν, ἕως ὅτου ἐφώνησαν τοὺς γονεῖς αὐτοῦ τοῦ ἀναβλέψαντος"
+  },
+  {
+   "ref": "LUK 13:8",
+   "form": "ὅτου",
+   "morph": "R-GSN-ATT",
+   "gloss_en": "*",
+   "gloss_ja": "だれでも",
+   "verse": "ὁ δὲ ἀποκριθεὶς λέγει αὐτῷ· Κύριε, ἄφες αὐτὴν καὶ τοῦτο τὸ ἔτος, ἕως ὅτου σκάψω περὶ αὐτὴν καὶ βάλω κόπρια·"
+  },
+  {
+   "ref": "LUK 12:50",
+   "form": "ὅτου",
+   "morph": "R-GSN-ATT",
+   "gloss_en": "*",
+   "gloss_ja": "だれでも",
+   "verse": "βάπτισμα δὲ ἔχω βαπτισθῆναι, καὶ πῶς συνέχομαι ἕως ὅτου τελεσθῇ."
+  },
+  {
+   "ref": "LUK 22:16",
+   "form": "ὅτου",
+   "morph": "R-GSN-ATT",
+   "gloss_en": "*",
+   "gloss_ja": "だれでも",
+   "verse": "λέγω γὰρ ὑμῖν ὅτι οὐ μὴ φάγω αὐτὸ ἕως ὅτου πληρωθῇ ἐν τῇ βασιλείᾳ τοῦ θεοῦ."
+  },
+  {
+   "ref": "MAT 5:25",
+   "form": "ὅτου",
+   "morph": "R-GSN-ATT",
+   "gloss_en": "*",
+   "gloss_ja": "だれでも",
+   "verse": "ἴσθι εὐνοῶν τῷ ἀντιδίκῳ σου ταχὺ ἕως ὅτου εἶ μετ’ αὐτοῦ ἐν τῇ ὁδῷ, μήποτέ σε παραδῷ ὁ ἀντίδικος τῷ κριτῇ, καὶ ὁ κριτὴς τῷ ὑπηρέτῃ, καὶ εἰς φυλακὴν βληθήσῃ·"
+  }
+ ],
+ "lxx": {
+  "total": 137,
+  "works": {
+   "Genesis": 1,
+   "Exodus": 6,
+   "Leviticus": 15,
+   "Numeri": 13,
+   "Deuteronomium": 18,
+   "Josue": 1,
+   "Judices": 2,
+   "Regnorum i": 3,
+   "Regnorum iii": 2,
+   "Regnorum iv": 1,
+   "Esdras ii": 1,
+   "Esther": 2,
+   "Judith": 2,
+   "Tobias": 2,
+   "Machabaeorum i": 6,
+   "Machabaeorum ii": 5,
+   "Machabaeorum iii": 1,
+   "Machabaeorum iv": 2,
+   "Psalmi": 9,
+   "Proverbia": 1,
+   "Ecclesiastes": 4,
+   "Job": 2,
+   "Sapientia Salomonis": 2,
+   "Ecclesiasticus sive Siracides": 3,
+   "Jonas": 1,
+   "Isaias": 3,
+   "Jeremias": 4,
+   "Ezechiel": 6,
+   "Susanna": 1,
+   "Daniel": 18
+  },
+  "representatives": [
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "20.7",
+    "form": "ὅστις",
+    "postag": "p-s---mn-",
+    "sentence": "καὶ τίς ὁ ἄνθρωπος, ὅστις μεμνήστευται γυναῖκα καὶ οὐκ ἔλαβεν αὐτήν;"
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "2.40",
+    "form": "ἥτις",
+    "postag": "p-s---fn-",
+    "sentence": "καὶ βασιλεία τετάρτη, ἥτις ἔσται ἰσχυρὰ ὡς σίδηρος ·"
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "7.7",
+    "form": "ὅστις",
+    "postag": "p-s---mn-",
+    "sentence": "ὁ ἱερεὺς ὅστις ἐξιλάσσεται ἐν αὐτῷ, αὐτῷ ἔσται."
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "1.5",
+    "form": "οἵτινες",
+    "postag": "p-p---mn-",
+    "sentence": "καὶ ταῦτα τὰ ὀνόματα τῶν ἀνδρῶν, οἵτινες παραστήσονται μεθ’ ὑμῶν ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "92.1",
+    "form": "ἥτις",
+    "postag": "p-s---fn-",
+    "sentence": "καὶ γὰρ ἐστερέωσε τὴν οἰκουμένην, ἥτις οὐ σαλευθήσεται."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "32.4",
+    "form": "οἵτινες",
+    "postag": "p-p---mn-",
+    "sentence": "οὗτοι οἱ θεοί σου, Ἰσραήλ, οἵτινες ἀνεβίβασάν σε ἐκ γῆς Αἰγύπτου."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "14.10",
+    "form": "ὅτου",
+    "postag": "p-s---ng-",
+    "sentence": "ταῖς πόλεσιν ἐχορήγησε βρώματα καὶ ἔταξεν αὐτὰς ἐν σκεύεσιν ὀχυρώσεως, ἕως ὅτου ὠνομάσθη τὸ ὄνομα τῆς δόξης αὐτοῦ ἕως ἄκρου τῆς γῆς."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "47.22",
+    "form": "οἵτινες",
+    "postag": "p-p---mn-",
+    "sentence": "βαλεῖτε αὐτὴν ἐν κλήρῳ ὑμῖν καὶ τοῖς προσηλύτοις τοῖς παροικοῦσιν ἐν μέσῳ ὑμῶν, οἵτινες ἐγέννησαν υἱοὺς ἐν μέσῳ ὑμῶν ·"
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "5.10",
+    "form": "ἡστινοσοῦν",
+    "postag": "p-s---fg-",
+    "sentence": "καὶ ὁ πλῆθος ἀτάφων ἐκρίψας ἀπένθητος ἐγενήθη καὶ κηδείας οὐ-δ’ ἡστινοσοῦν οὔ-τε πατρῴου τάφου μετέσχε."
+   },
+   {
+    "work_code": "ECC",
+    "work_ja": "コヘレトの言葉",
+    "work_src": "Ecclesiastes",
+    "ref": "4.3",
+    "form": "ὅστις",
+    "postag": "p-s---mn-",
+    "sentence": "καὶ ἀγαθὸς ὑπὲρ τοὺς δύο τούτους ὅστις οὔπω ἐγένετο, ὃς οὐκ εἶδε σὺν τὸ ποίημα τὸ πονηρὸν τὸ πεποιημένον ὑπὸ τὸν ἥλιον."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "6.8",
+    "form": "ἥτις",
+    "postag": "p-s---fn-",
+    "sentence": "πόνῳ καὶ μάστιγι παιδευθήσῃ Ἱερουσαλήμ, μὴ ἀποστῇ ἡ ψυχή μου ἀπὸ σοῦ, μὴ ποιήσω σε ἄβατον γῆν, ἥτις οὐ κατοικηθήσεται."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "22.3",
+    "form": "ὅτου",
+    "postag": "p-s---ng-",
+    "sentence": "γινέσθωσαν δὴ ὁ πατὴρ μου καὶ ἡ μήτηρ μου παρὰ σοί, ἕως ὅτου γνῶ τί ποιήσει μοι ὁ Θεός."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 28,
+  "works": {
+   "Barnabas": 3,
+   "1 Clement": 7,
+   "2 Clement": 1,
+   "To Diognetus": 1,
+   "Hermas, Pastor": 3,
+   "Ignatius, Letters": 7,
+   "Martyrdom of Polycarp": 2,
+   "Polycarp, To the Philippians": 4
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "44.5",
+    "form": "οἵτινες",
+    "postag": "p-p---mn-",
+    "sentence": "μακάριοι οἱ προοδοιπορήσαντες πρεσβύτεροι, οἵτινες ἔγκαρπον καὶ τελείαν ἔσχον τὴν ἀνάλυσιν ·"
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "1.19.1",
+    "form": "ἅτινα",
+    "postag": "p-p---nn-",
+    "sentence": "τρία μυστήρια κραυγῆς, ἅτινα ἐν ἡσυχίᾳ θεοῦ ἐπράχθη."
+   },
+   {
+    "work_code": "PPH",
+    "work_ja": "ポリュカルポスのピリピ書簡",
+    "work_src": "Polycarp, To the Philippians",
+    "ref": "13.2",
+    "form": "αἵτινες",
+    "postag": "p-p---fn-",
+    "sentence": "αἵτινες ὑποτεταγμέναι εἰσὶν τῇ ἐπιστολῇ ταύτῃ, ἐξ ὧν μεγάλα ὠφεληθῆναι δυνήσεσθε."
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "10.3",
+    "form": "οἵτινές",
+    "postag": "p-p---mn-",
+    "sentence": "οὐ κολληθήσῃ φησίν, ἀνθρώποις τοιούτοις, οἵτινές εἰσιν ὅμοιοι χοίρων ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "1.1.9",
+    "form": "οἵτινες",
+    "postag": "p-p---mn-",
+    "sentence": "μετανοήσουσιν αἱ ψυχαὶ αὐτῶν, οἵτινες οὐκ ἔχουσιν ἐλπίδα, ἀλλὰ ἑαυτοὺς ἀπεγνώκασιν καὶ τὴν ζωὴν αὐτῶν."
+   },
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "1.1",
+    "form": "ὅστις",
+    "postag": "p-s---mn-",
+    "sentence": "ἐγράψαμεν ὑμῖν, ἀδελφοί, τὰ κατὰ τοὺς μαρτυρήσαντας καὶ τὸν μακάριον Πολύκαρπον, ὅστις ὥσπερ ἐπισφραγίσας διὰ τῆς μαρτυρίας αὐτοῦ κατέπαυσεν τὸν διωγμόν."
+   },
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "10.3",
+    "form": "οἵτινες",
+    "postag": "p-p---mn-",
+    "sentence": "διὰ ταύτην γὰρ τὴν αἰτίαν οὐκ ἔστιν εὑρεῖν ἄνθρωπον, οἵτινες παράγουσι φόβους ἀνθρωπίνους, προῃρημένοι μᾶλλον τὴν ἐνθάδε ἀπόλαυσιν ἡ τὴν μέλλουσαν ἐπαγγελίαν."
+   },
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "10",
+    "form": "ὅστις",
+    "postag": "p-s---mn-",
+    "sentence": "ἀλλ’ ὅστις τὸ τοῦ πλησίον ἀναδέχεται βάρος, ὃς ἐν ᾧ κρείσσων ἐστὶν ἕτερον τὸν ἐλαττούμενον εὐεργετεῖν ἐθέλει, ὃς ἃ παρὰ τοῦ Θεοῦ λαβὼν ἔχει, ταῦτα τοῖς ἐπιδεομένοις χορηγῶν Θεὸς γίνεται τῶν λαμβανόντων, οὗτος μιμητής ἐστι Θεοῦ."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": null
+}

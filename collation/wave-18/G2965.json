@@ -1,0 +1,209 @@
+{
+ "strong": "G2965",
+ "lemma": "κύων",
+ "nt_freq": 5,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2PE 2:22",
+   "form": "Κύων",
+   "morph": "N-NSM",
+   "gloss_en": "dog",
+   "gloss_ja": "犬",
+   "verse": "συμβέβηκεν αὐτοῖς τὸ τῆς ἀληθοῦς παροιμίας· Κύων ἐπιστρέψας ἐπὶ τὸ ἴδιον ἐξέραμα, καί· Ὗς λουσαμένη εἰς κυλισμὸν βορβόρου."
+  },
+  {
+   "ref": "LUK 16:21",
+   "form": "κύνες",
+   "morph": "N-NPM",
+   "gloss_en": "dogs",
+   "gloss_ja": "犬",
+   "verse": "καὶ ἐπιθυμῶν χορτασθῆναι ἀπὸ τῶν πιπτόντων ἀπὸ τῆς τραπέζης τοῦ πλουσίου· ἀλλὰ καὶ οἱ κύνες ἐρχόμενοι ἐπέλειχον τὰ ἕλκη αὐτοῦ."
+  },
+  {
+   "ref": "MAT 7:6",
+   "form": "κυσίν",
+   "morph": "N-DPM",
+   "gloss_en": "dogs",
+   "gloss_ja": "犬",
+   "verse": "Μὴ δῶτε τὸ ἅγιον τοῖς κυσίν, μηδὲ βάλητε τοὺς μαργαρίτας ὑμῶν ἔμπροσθεν τῶν χοίρων, μήποτε καταπατήσουσιν αὐτοὺς ἐν τοῖς ποσὶν αὐτῶν καὶ στραφέντες ῥήξωσιν ὑμᾶς."
+  },
+  {
+   "ref": "PHP 3:2",
+   "form": "κύνας",
+   "morph": "N-APM",
+   "gloss_en": "dogs",
+   "gloss_ja": "犬",
+   "verse": "Βλέπετε τοὺς κύνας, βλέπετε τοὺς κακοὺς ἐργάτας, βλέπετε τὴν κατατομήν."
+  },
+  {
+   "ref": "REV 22:15",
+   "form": "κύνες",
+   "morph": "N-NPM",
+   "gloss_en": "dogs",
+   "gloss_ja": "犬",
+   "verse": "ἔξω οἱ κύνες καὶ οἱ φάρμακοι καὶ οἱ πόρνοι καὶ οἱ φονεῖς καὶ οἱ εἰδωλολάτραι καὶ πᾶς φιλῶν καὶ ποιῶν ψεῦδος."
+  }
+ ],
+ "lxx": {
+  "total": 42,
+  "works": {
+   "Exodus": 2,
+   "Deuteronomium": 1,
+   "Judices": 1,
+   "Regnorum i": 3,
+   "Regnorum ii": 3,
+   "Regnorum iii": 8,
+   "Regnorum iv": 3,
+   "Judith": 1,
+   "Tobias": 4,
+   "Psalmi": 5,
+   "Proverbia": 3,
+   "Ecclesiastes": 1,
+   "Job": 1,
+   "Ecclesiasticus sive Siracides": 2,
+   "Isaias": 3,
+   "Jeremias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "20.23",
+    "form": "κύνες",
+    "postag": "n-p---mn-",
+    "sentence": "οἱ κύνες καταφάγονται αὐτὴν ἐν τῷ προτειχίσματι Ἰεζράελ."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "58.7",
+    "form": "κύων",
+    "postag": "n-s---mn-",
+    "sentence": "ἐπιστρέψουσιν εἰς ἑσπέραν καὶ λιμώξουσιν ὡς κύων καὶ κυκλώσουσι πόλιν."
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "11.3",
+    "form": "κύων",
+    "postag": "n-s---mn-",
+    "sentence": "καὶ ἐπορεύθησαν, καὶ συνῆλθεν ὁ κύων ὄπισθεν αὐτῶν."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "17.43",
+    "form": "κυνός",
+    "postag": "n-s---mg-",
+    "sentence": "οὐχί, ἀλλ’ ἢ χείρων κυνός."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "3.8",
+    "form": "κυνὸς",
+    "postag": "n-s---mg-",
+    "sentence": "μὴ κεφαλὴ κυνὸς ἐγώ εἰμι;"
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "8.13",
+    "form": "κύων",
+    "postag": "n-s---mn-",
+    "sentence": "τίς ἐστιν ὁ δοῦλός σου ὁ κύων ὁ τεθνηκώς, ὅτι ποιήσει τὸ ρῆμα τοῦτο;"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "26.17",
+    "form": "κυνός",
+    "postag": "n-s---fg-",
+    "sentence": "ὥσπερ ὁ κρατῶν κέρκου κυνός, οὕτως ὁ προεστὼς ἀλλοτρίας κρίσεως."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "66.3",
+    "form": "κύνα",
+    "postag": "n-s---ma-",
+    "sentence": "ὁ δὲ ἄνομος ὁ θύων μοι μόσχον ὡς ὁ ἀποκτένων κύνα, ὁ δὲ ἀναφέρων σεμίδαλιν ὡς αἷμα ὕειον, ὁ διδοὺς λίβανον εἰς μνημόσυνον ὡς βλάσφημος ·"
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "22.31",
+    "form": "κυνὶ",
+    "postag": "n-s---md-",
+    "sentence": "καὶ κρέας θηριάλωτον οὐκ ἔδεσθε, τῷ κυνὶ ἀπορρίψατε αὐτό."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "13.18",
+    "form": "κύνα",
+    "postag": "n-s---ma-",
+    "sentence": "τίς εἰρήνη ὑαίνῃ πρὸς κύνα;"
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "23.19",
+    "form": "κυνὸς",
+    "postag": "n-s---mg-",
+    "sentence": "οὐ προσοίσεις μίσθωμα πόρνης οὐ-δὲ ἄλλαγμα κυνὸς εἰς τὸν οἶκον Κυρίου τοῦ Θεοῦ σου πρὸς πᾶσαν εὐχήν, ὅτι βδέλυγμα Κυρίῳ τῷ Θεῷ σού ἐστι καὶ ἀμφότερα."
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "7.5",
+    "form": "κύων",
+    "postag": "n-s---mn-",
+    "sentence": "πᾶς, ὃς ἂν λάψῃ τῇ γλώσσῃ αὐτοῦ ἀπὸ τοῦ ὕδατος ὡς ἐὰν λάψῃ ὁ κύων, στήσεις αὐτὸν κατὰ μόνας, καὶ πᾶς, ὃς ἐὰν κλίνῃ ἐπὶ τὰ γόνατα αὐτοῦ πιεῖν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "Didache": 1,
+   "Ignatius, Letters": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DID",
+    "work_ja": "ディダケー",
+    "work_src": "Didache",
+    "ref": "9.5",
+    "form": "κυσί",
+    "postag": "n-p---md-",
+    "sentence": "μὴ δῶτε τὸ ἄγιον τοῖς κυσί."
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "1.7.1",
+    "form": "κύνες",
+    "postag": "n-p---mn-",
+    "sentence": "εἰσὶν γὰρ κύνες λυσσῶντες, λαθροδῆκται ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "5   κύων, κυνός, ὁ, ἡ  (in NT masc. only),   [in LXX forכֶּלֶב;]    a dog: Lk 16:21, II Pe 2:22; metaph., as a word of reproach, Mt 7:6, Phl 3:2, Re 22:15.†"
+}

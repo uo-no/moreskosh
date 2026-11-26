@@ -1,0 +1,105 @@
+{
+ "strong": "G5576",
+ "lemma": "ψευδομαρτυρέω",
+ "nt_freq": 5,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 18:20",
+   "form": "ψευδομαρτυρήσῃς",
+   "morph": "V-AAS-2S",
+   "gloss_en": "bear false witness",
+   "gloss_ja": "偽証する",
+   "verse": "τὰς ἐντολὰς οἶδας· Μὴ μοιχεύσῃς, Μὴ φονεύσῃς, Μὴ κλέψῃς, Μὴ ψευδομαρτυρήσῃς, Τίμα τὸν πατέρα σου καὶ τὴν μητέρα."
+  },
+  {
+   "ref": "MAT 19:18",
+   "form": "ψευδομαρτυρήσεις",
+   "morph": "V-FAI-2S",
+   "gloss_en": "bear false witness",
+   "gloss_ja": "偽証する",
+   "verse": "λέγει αὐτῷ· Ποίας; ὁ δὲ Ἰησοῦς εἶπεν· Τὸ Οὐ φονεύσεις, Οὐ μοιχεύσεις, Οὐ κλέψεις, Οὐ ψευδομαρτυρήσεις,"
+  },
+  {
+   "ref": "MRK 10:19",
+   "form": "ψευδομαρτυρήσῃς",
+   "morph": "V-AAS-2S",
+   "gloss_en": "bear false witness",
+   "gloss_ja": "偽証する",
+   "verse": "τὰς ἐντολὰς οἶδας· Μὴ φονεύσῃς, Μὴ μοιχεύσῃς, Μὴ κλέψῃς, Μὴ ψευδομαρτυρήσῃς, Μὴ ἀποστερήσῃς, Τίμα τὸν πατέρα σου καὶ τὴν μητέρα."
+  },
+  {
+   "ref": "MRK 14:56",
+   "form": "ἐψευδομαρτύρουν",
+   "morph": "V-IAI-3P",
+   "gloss_en": "gave false testimony",
+   "gloss_ja": "偽証する",
+   "verse": "πολλοὶ γὰρ ἐψευδομαρτύρουν κατ’ αὐτοῦ, καὶ ἴσαι αἱ μαρτυρίαι οὐκ ἦσαν."
+  },
+  {
+   "ref": "MRK 14:57",
+   "form": "ἐψευδομαρτύρουν",
+   "morph": "V-IAI-3P",
+   "gloss_en": "gave false testimony",
+   "gloss_ja": "偽証する",
+   "verse": "καί τινες ἀναστάντες ἐψευδομαρτύρουν κατ’ αὐτοῦ λέγοντες"
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Exodus": 1,
+   "Deuteronomium": 1,
+   "Susanna": 1
+  },
+  "representatives": [
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "20.16",
+    "form": "ψευδομαρτυρήσεις",
+    "postag": "v2sfia---",
+    "sentence": "οὐ ψευδομαρτυρήσεις κατὰ τοῦ πλησίον σου μαρτυρίαν ψευδῆ."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "5.20",
+    "form": "ψευδομαρτυρήσεις",
+    "postag": "v2sfia---",
+    "sentence": "οὐ ψευδομαρτυρήσεις κατὰ τοῦ πλησίον σου μαρτυρίαν ψευδῆ."
+   },
+   {
+    "work_code": "SUS",
+    "work_ja": "スザンナ（Th）",
+    "work_src": "Susanna",
+    "ref": "61",
+    "form": "ψευδομαρτυρήσαντας",
+    "postag": "v-papama-",
+    "sentence": "καὶ ἀνέστησαν ἐπὶ τοὺς δύο πρεσβύτας, ὅτι συνέστησεν αὐτοὺς Δανιὴλ ἐκ τοῦ στόματος αὐτῶν ψευδομαρτυρήσαντας, καὶ ἐποίησαν αὐτοῖς ὃν τρόπον ἐπονηρεύσαντο τῷ πλησίον, ποιῆσαι κατὰ τὸν νόμον Μωυσῆ, καὶ ἀπέκτειναν αὐτούς ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Didache": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DID",
+    "work_ja": "ディダケー",
+    "work_src": "Didache",
+    "ref": "2.3",
+    "form": "ψευδομαρτυρήσεις",
+    "postag": "v2sfia---",
+    "sentence": "οὐκ ἐπιορκήσεις, οὐ ψευδομαρτυρήσεις, οὐ κακολογήσεις, οὐ μνησικακήσεις."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "5 ψευδο-μαρτυρέω, -ῶ     [in LXX: Ex 20:16, De 5:20 (17) (ענה), Da TH Su61 AB2R (v. ψευδομάρτυς) * ;]     to bear false witness: Mt 19:18, Mk 10:19, Lk 18:20 (LXX); seq. κατά, c. gen. pers., Mk 14:56, 57 (Xen., Plat., al.).†"
+}

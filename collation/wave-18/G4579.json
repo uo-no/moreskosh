@@ -1,0 +1,188 @@
+{
+ "strong": "G4579",
+ "lemma": "σείω",
+ "nt_freq": 5,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "HEB 12:26",
+   "form": "σείσω",
+   "morph": "V-FAI-1S",
+   "gloss_en": "shake",
+   "gloss_ja": "揺れる",
+   "verse": "οὗ ἡ φωνὴ τὴν γῆν ἐσάλευσεν τότε, νῦν δὲ ἐπήγγελται λέγων· Ἔτι ἅπαξ ἐγὼ σείσω οὐ μόνον τὴν γῆν ἀλλὰ καὶ τὸν οὐρανόν."
+  },
+  {
+   "ref": "MAT 28:4",
+   "form": "ἐσείσθησαν",
+   "morph": "V-API-3P",
+   "gloss_en": "shook",
+   "gloss_ja": "揺れる",
+   "verse": "ἀπὸ δὲ τοῦ φόβου αὐτοῦ ἐσείσθησαν οἱ τηροῦντες καὶ ἐγενήθησαν ὡς νεκροί."
+  },
+  {
+   "ref": "MAT 21:10",
+   "form": "ἐσείσθη",
+   "morph": "V-API-3S",
+   "gloss_en": "stirred",
+   "gloss_ja": "揺れる",
+   "verse": "καὶ εἰσελθόντος αὐτοῦ εἰς Ἱεροσόλυμα ἐσείσθη πᾶσα ἡ πόλις λέγουσα· Τίς ἐστιν οὗτος;"
+  },
+  {
+   "ref": "MAT 27:51",
+   "form": "ἐσείσθη",
+   "morph": "V-API-3S",
+   "gloss_en": "shook",
+   "gloss_ja": "揺れる",
+   "verse": "καὶ ἰδοὺ τὸ καταπέτασμα τοῦ ναοῦ ἐσχίσθη ἀπ’ ἄνωθεν ἕως κάτω εἰς δύο, καὶ ἡ γῆ ἐσείσθη, καὶ αἱ πέτραι ἐσχίσθησαν,"
+  },
+  {
+   "ref": "REV 6:13",
+   "form": "σειομένη",
+   "morph": "V-PPP-NSF",
+   "gloss_en": "shaken",
+   "gloss_ja": "揺れる",
+   "verse": "καὶ οἱ ἀστέρες τοῦ οὐρανοῦ ἔπεσαν εἰς τὴν γῆν, ὡς συκῆ βάλλει τοὺς ὀλύνθους αὐτῆς ὑπὸ ἀνέμου μεγάλου σειομένη,"
+  }
+ ],
+ "lxx": {
+  "total": 35,
+  "works": {
+   "Judices": 1,
+   "Regnorum ii": 1,
+   "Esdras i": 1,
+   "Machabaeorum i": 1,
+   "Psalmi": 1,
+   "Odae": 1,
+   "Proverbia": 1,
+   "Job": 2,
+   "Amos": 2,
+   "Joel": 2,
+   "Nahum": 1,
+   "Habacuc": 2,
+   "Aggaeus": 2,
+   "Isaias": 9,
+   "Jeremias": 3,
+   "Ezechiel": 4,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "14.16",
+    "form": "σείων",
+    "postag": "v-sppamn-",
+    "sentence": "οὗτος ὁ ἄνθρωπος ὁ παροξύνων τὴν γῆν, ὁ σείων βασιλεῖς;"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "26.15",
+    "form": "σεισθήσονται",
+    "postag": "v3pfip---",
+    "sentence": "οὐκ ἀπὸ φωνῆς τῆς πτώσεώς σου ἐν τῷ στενάξαι τραυματίας, ἐν τῷ σπάσαι μάχαιραν ἐν μέσῳ σου σεισθήσονται αἱ νῆσοι;"
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "27.46",
+    "form": "σεισθήσεται",
+    "postag": "v3sfip---",
+    "sentence": "ὅτι ἀπὸ φωνῆς ἁλώσεως Βαβυλῶνος σεισθήσεται ἡ γῆ, καὶ κραυγὴ ἐν ἔθνεσιν ἀκουσθήσεται."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "9.28",
+    "form": "σείομαι",
+    "postag": "v1spim---",
+    "sentence": "σείομαι πᾶσι τοῖς μέλεσιν, οἶδα γάρ ὅτι οὐκ ἀθῶόν με ἐάσεις."
+   },
+   {
+    "work_code": "AMO",
+    "work_ja": "アモス書",
+    "work_src": "Amos",
+    "ref": "9.1",
+    "form": "σεισθήσεται",
+    "postag": "v3sfip---",
+    "sentence": "πάταξον ἐπὶ τὸ ἱλαστήριον καὶ σεισθήσεται τὰ πρόπυλα καὶ διάκοψον εἰς κεφαλὰς πάντων ·"
+   },
+   {
+    "work_code": "JOL",
+    "work_ja": "ヨエル書",
+    "work_src": "Joel",
+    "ref": "4.16",
+    "form": "σεισθήσεται",
+    "postag": "v3sfip---",
+    "sentence": "ὁ δὲ Κύριος ἐκ Σιὼν ἀνακεκράξεται καὶ ἐξ Ἱερουσαλὴμ δώσει φωνὴν αὐτοῦ, καὶ σεισθήσεται ὁ οὐρανὸς καὶ ἡ γῆ ·"
+   },
+   {
+    "work_code": "HAB",
+    "work_ja": "ハバクク書",
+    "work_src": "Habacuc",
+    "ref": "2.16",
+    "form": "σείσθητι",
+    "postag": "v2samp---",
+    "sentence": "πλησμονὴν ἀτιμίας ἐκ δόξης πίε καὶ σύ, καρδία σαλεύθητι καὶ σείσθητι ·"
+   },
+   {
+    "work_code": "HAG",
+    "work_ja": "ハガイ書",
+    "work_src": "Aggaeus",
+    "ref": "2.6",
+    "form": "σείσω",
+    "postag": "v1sfia---",
+    "sentence": "ἔτι ἅπαξ ἐγὼ σείσω τὸν οὐρανὸν καὶ τὴν γῆν καὶ τὴν θάλασσαν καὶ τὴν ξηράν ·"
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "5.4",
+    "form": "ἐσείσθη",
+    "postag": "v3saip---",
+    "sentence": "Κύριε, ἐν τῇ ἐξόδῳ σου ἐν Σηείρ, ἐν τῷ ἀπαίρειν σε ἐξ ἀγροῦ Ἐδώμ, γῆ ἐσείσθη καὶ ὁ οὐρανὸς ἔσταξε δρόσους, καὶ αἱ νεφέλαι ἔσταξαν ὕδωρ ·"
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "22.8",
+    "form": "ἐσείσθη",
+    "postag": "v3saip---",
+    "sentence": "καὶ ἐταράχθη καὶ ἐσείσθη ἡ γῆ, καὶ τὰ θεμέλια τοῦ οὐρανοῦ συνεταράχθησαν καὶ ἐσπαράχθησαν, ὅτι ἐθυμώθη Κύριος αὐτοῖς."
+   },
+   {
+    "work_code": "1ES",
+    "work_ja": "エズラ記（ギリシャ語）",
+    "work_src": "Esdras i",
+    "ref": "4.36",
+    "form": "σείεται",
+    "postag": "v3spim---",
+    "sentence": "πᾶσα ἡ γῆ τὴν ἀλήθειαν καλεῖ, καὶ ὁ οὐρανὸς αὐτὴν εὐλογεῖ, καὶ πάντα τὰ ἔργα σείεται καὶ τρέμει, καὶ οὐκ ἔστι μετ’ αὐτῆς ἄδικον οὐδέν."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "1.28",
+    "form": "ἐσείσθη",
+    "postag": "v3saip---",
+    "sentence": "καὶ ἐσείσθη ἡ γῆ ἐπὶ τοὺς κατοικοῦντας αὐτήν, καὶ πᾶς ὁ οἶκος Ἰακὼβ ἐνεδύσατο αἰσχύνην."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "5   σείω     [in LXX chiefly for רעשׁ ;]     to shake, move to and fro: τ. γῆν, He 12:26 (LXX); pass., ἡ γῆ, Mt 27:51 (LXX); συκῆ, Re 6:13. Metaph., to agitate, stir up, with fear or some other emotion: Mt 21:10 28:4 (cf. ἀνα-, δια-, κατα-σείω).†"
+}

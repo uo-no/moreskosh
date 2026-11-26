@@ -1,0 +1,190 @@
+{
+ "strong": "G3680",
+ "lemma": "ὀνειδισμός",
+ "nt_freq": 5,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1TI 3:7",
+   "form": "ὀνειδισμὸν",
+   "morph": "N-ASM",
+   "gloss_en": "disgrace",
+   "gloss_ja": "そしり",
+   "verse": "δεῖ δὲ καὶ μαρτυρίαν καλὴν ἔχειν ἀπὸ τῶν ἔξωθεν, ἵνα μὴ εἰς ὀνειδισμὸν ἐμπέσῃ καὶ παγίδα τοῦ διαβόλου."
+  },
+  {
+   "ref": "HEB 13:13",
+   "form": "ὀνειδισμὸν",
+   "morph": "N-ASM",
+   "gloss_en": "reproach",
+   "gloss_ja": "そしり",
+   "verse": "τοίνυν ἐξερχώμεθα πρὸς αὐτὸν ἔξω τῆς παρεμβολῆς, τὸν ὀνειδισμὸν αὐτοῦ φέροντες."
+  },
+  {
+   "ref": "HEB 10:33",
+   "form": "ὀνειδισμοῖς",
+   "morph": "N-DPM",
+   "gloss_en": "reproaches",
+   "gloss_ja": "そしり",
+   "verse": "τοῦτο μὲν ὀνειδισμοῖς τε καὶ θλίψεσιν θεατριζόμενοι, τοῦτο δὲ κοινωνοὶ τῶν οὕτως ἀναστρεφομένων γενηθέντες·"
+  },
+  {
+   "ref": "HEB 11:26",
+   "form": "ὀνειδισμὸν",
+   "morph": "N-ASM",
+   "gloss_en": "reproach",
+   "gloss_ja": "そしり",
+   "verse": "μείζονα πλοῦτον ἡγησάμενος τῶν Αἰγύπτου θησαυρῶν τὸν ὀνειδισμὸν τοῦ Χριστοῦ, ἀπέβλεπεν γὰρ εἰς τὴν μισθαποδοσίαν."
+  },
+  {
+   "ref": "ROM 15:3",
+   "form": "ὀνειδισμοὶ",
+   "morph": "N-NPM",
+   "gloss_en": "insults",
+   "gloss_ja": "そしり",
+   "verse": "καὶ γὰρ ὁ Χριστὸς οὐχ ἑαυτῷ ἤρεσεν· ἀλλὰ καθὼς γέγραπται· Οἱ ὀνειδισμοὶ τῶν ὀνειδιζόντων σε ἐπέπεσαν ἐπ’ ἐμέ."
+  }
+ ],
+ "lxx": {
+  "total": 86,
+  "works": {
+   "Josue": 1,
+   "Regnorum i": 2,
+   "Esdras ii": 3,
+   "Judith": 2,
+   "Tobias": 12,
+   "Machabaeorum i": 2,
+   "Psalmi": 10,
+   "Sapientia Salomonis": 1,
+   "Ecclesiasticus sive Siracides": 10,
+   "Osee": 1,
+   "Joel": 1,
+   "Sophonias": 2,
+   "Isaias": 5,
+   "Jeremias": 13,
+   "Baruch": 2,
+   "Threni seu Lamentationes": 3,
+   "Epistula Jeremiae": 1,
+   "Ezechiel": 6,
+   "Daniel": 9
+  },
+  "representatives": [
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "12.13",
+    "form": "ὀνειδισμοῦ",
+    "postag": "n-s---mg-",
+    "sentence": "αἰσχύνθητε ἀπὸ καυχήσεως ὑμῶν, ἀπὸ ὀνειδισμοῦ ἔναντι Κυρίου."
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "8.10",
+    "form": "ὀνειδισμός",
+    "postag": "n-s---mn-",
+    "sentence": "εἶπεν γάρ Μήποτε ἀποθάνῃ καὶ γενώμεθα κατάγελως καὶ ὀνειδισμός."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "118.39",
+    "form": "ὀνειδισμόν",
+    "postag": "n-s---ma-",
+    "sentence": "περίελε τὸν ὀνειδισμόν μου, ὃν ὑπώπτευσα ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "29.23",
+    "form": "ὀνειδισμὸν",
+    "postag": "n-s---ma-",
+    "sentence": "ἐπὶ μικρῷ καὶ μεγάλῳ εὐδοκίαν ἔχε, καὶ ὀνειδισμὸν παροικίας οὐ μὴ ἀκούσῃς."
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "11.18",
+    "form": "ὀνειδισμὸς",
+    "postag": "n-s---mn-",
+    "sentence": "καὶ ἐπιστρέψει τὸ πρόσωπον αὐτοῦ εἰς τὰς νήσους καὶ συλλήψεται πολλὰς καὶ καταπαύσει ἄρχοντας ὀνειδισμοῦ αὐτῶν, πλὴν ὀνειδισμὸς αὐτοῦ ἐπιστρέψει αὐτῷ."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "36.6",
+    "form": "ὀνειδισμοὺς",
+    "postag": "n-p---ma-",
+    "sentence": "ἰδοὺ ἐγὼ ἐν τῷ ζήλῳ μου καὶ ἐν τῷ θυμῷ μου ἐλάλησα, ἀντὶ τοῦ ὀνειδισμοὺς ἐθνῶν ἐνέγκαι ὑμᾶς."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "47.3",
+    "form": "ὀνειδισμοί",
+    "postag": "n-p---mn-",
+    "sentence": "ἀνακαλυφθήσεται ἡ αἰσχύνη σου, φανήσονται οἱ ὀνειδισμοί σου ·"
+   },
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "11.3",
+    "form": "ὀνειδισμῷ",
+    "postag": "n-s---md-",
+    "sentence": "οἱ καταλειπόμενοι οἱ καταλειφθέντες ἀπὸ τῆς αἰχμαλωσίας ἐκεῖ ἐν τῇ χώρᾳ ἐν πονηρίᾳ μεγάλῃ καὶ ἐν ὀνειδισμῷ, καὶ τείχη Ἱερουσαλὴμ καθῃρημένα, καὶ αἱ πύλαι αὐτῆς ἐνεπρήσθησαν ἐν πυρί."
+   },
+   {
+    "work_code": "LAM",
+    "work_ja": "哀歌",
+    "work_src": "Threni seu Lamentationes",
+    "ref": "3.30",
+    "form": "ὀνειδισμῶν",
+    "postag": "n-p---mg-",
+    "sentence": "δώσει τῷ παίοντι αὐτὸν σιαγόνα, χορτασθήσεται ὀνειδισμῶν."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "17.26",
+    "form": "ὀνειδισμὸν",
+    "postag": "n-s---ma-",
+    "sentence": "ἢ ποιηθήσεται τῷ ἀνδρί, ὃς ἂν πατάξει τὸν ἀλλόφυλον ἐκεῖνον, καὶ ἀφελεῖ ὀνειδισμὸν ἀπὸ Ἰσραήλ;"
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "5.21",
+    "form": "ὀνειδισμὸν",
+    "postag": "n-s---ma-",
+    "sentence": "εἰ δὲ οὐκ ἔστιν ἀνομία ἐν τῷ ἔθνει αὐτῶν, παρελθέτω δὴ ὁ κύριός μου, μήποτε ὑπερασπίσῃ ὁ Κύριος αὐτῶν καὶ ὁ Θεὸς αὐτῶν ὑπὲρ αὐτῶν, καὶ ἐσόμεθα εἰς ὀνειδισμὸν ἐναντίον πάσης τῆς γῆς."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "10.70",
+    "form": "ὀνειδισμὸν",
+    "postag": "n-s---ma-",
+    "sentence": "( σὺ μονώτατος ἐπαίρῃ ἐφ’ ἡμᾶς, ἐγὼ δὲ ἐγενήθην εἰς καταγέλωτα καὶ εἰς ὀνειδισμὸν διὰ σέ ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "5   † ὀνειδισμός, -οῦ, ὁ    (ὀνειδίζω),   [in LXX chiefly for חֶרְפָּה;]    a reproach: Ro 15:3, He 10:33; εἰς ὀ. ἐμπεσεῖν, I Ti 3:7; ὁ ὀ. τοῦ Χριστοῦ, He 11:26 13:13.†"
+}

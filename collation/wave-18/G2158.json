@@ -1,0 +1,83 @@
+{
+ "strong": "G2158",
+ "lemma": "εὐσχήμων",
+ "nt_freq": 5,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 12:24",
+   "form": "εὐσχήμονα",
+   "morph": "A-NPN",
+   "gloss_en": "presentable",
+   "gloss_ja": "品位ある",
+   "verse": "τὰ δὲ εὐσχήμονα ἡμῶν οὐ χρείαν ἔχει. ἀλλὰ ὁ θεὸς συνεκέρασεν τὸ σῶμα, τῷ ὑστεροῦντι περισσοτέραν δοὺς τιμήν,"
+  },
+  {
+   "ref": "1CO 7:35",
+   "form": "εὔσχημον",
+   "morph": "A-ASN",
+   "gloss_en": "proper",
+   "gloss_ja": "品位ある",
+   "verse": "τοῦτο δὲ πρὸς τὸ ὑμῶν αὐτῶν σύμφορον λέγω, οὐχ ἵνα βρόχον ὑμῖν ἐπιβάλω, ἀλλὰ πρὸς τὸ εὔσχημον καὶ εὐπάρεδρον τῷ κυρίῳ ἀπερισπάστως."
+  },
+  {
+   "ref": "ACT 17:12",
+   "form": "εὐσχημόνων",
+   "morph": "A-GPM",
+   "gloss_en": "prominent",
+   "gloss_ja": "品位ある",
+   "verse": "πολλοὶ μὲν οὖν ἐξ αὐτῶν ἐπίστευσαν, καὶ τῶν Ἑλληνίδων γυναικῶν τῶν εὐσχημόνων καὶ ἀνδρῶν οὐκ ὀλίγοι."
+  },
+  {
+   "ref": "ACT 13:50",
+   "form": "εὐσχήμονας",
+   "morph": "A-APM",
+   "gloss_en": "prominent",
+   "gloss_ja": "品位ある",
+   "verse": "οἱ δὲ Ἰουδαῖοι παρώτρυναν τὰς σεβομένας γυναῖκας τὰς εὐσχήμονας καὶ τοὺς πρώτους τῆς πόλεως καὶ ἐπήγειραν διωγμὸν ἐπὶ τὸν Παῦλον καὶ Βαρναβᾶν, καὶ ἐξέβαλον αὐτοὺς ἀπὸ τῶν ὁρίων αὐτῶν."
+  },
+  {
+   "ref": "MRK 15:43",
+   "form": "εὐσχήμων",
+   "morph": "A-NSM",
+   "gloss_en": "prominent",
+   "gloss_ja": "品位ある",
+   "verse": "ἐλθὼν Ἰωσὴφ ὁ ἀπὸ Ἁριμαθαίας εὐσχήμων βουλευτής, ὃς καὶ αὐτὸς ἦν προσδεχόμενος τὴν βασιλείαν τοῦ θεοῦ, τολμήσας εἰσῆλθεν πρὸς τὸν Πιλᾶτον καὶ ᾐτήσατο τὸ σῶμα τοῦ Ἰησοῦ."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Proverbia": 1,
+   "Ecclesiasticus sive Siracides": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "11.25",
+    "form": "εὐσχήμων",
+    "postag": "a-s---mn-",
+    "sentence": "ψυχὴ εὐλογουμένη πᾶσα ἁπλῆ, ἀνὴρ δὲ θυμώδης οὐκ εὐσχήμων."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "26.24",
+    "form": "εὐσχήμων",
+    "postag": "a-s---fn-",
+    "sentence": "γυνὴ ἀσχήμων ἀτιμίαν κατατρίψει, θυγάτηρ δὲ εὐσχήμων καὶ τὸν ἄνδρα ἐντραπήσεται."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "5 εὐσχήμων, -ον    (εὖ, σχῆμα),    [in LXX: Pr 11:25 * ;]    elegant, graceful, comely (Eur., Plat., al.): τὰ εὐ. ἡμῶν (opp. to τὰ ἀσχ- ἡμ-),   I Co 12:24; in moral sense, seemly, becoming, I Co 7:35.    Also in late Gk. (v. Swete, Mk., l.c.; MM, Exp., xiv), wealthy, influential (RV, of honourable estate): Mk 15:43, Ac 13:50 17:12.†"
+}

@@ -1,0 +1,73 @@
+{
+ "strong": "G414",
+ "lemma": "ἀνεκτός",
+ "nt_freq": 5,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 10:12",
+   "form": "ἀνεκτότερον",
+   "morph": "A-NSN-C",
+   "gloss_en": "bearable",
+   "gloss_ja": "耐えられる",
+   "verse": "λέγω ὑμῖν ὅτι Σοδόμοις ἐν τῇ ἡμέρᾳ ἐκείνῃ ἀνεκτότερον ἔσται ἢ τῇ πόλει ἐκείνῃ."
+  },
+  {
+   "ref": "LUK 10:14",
+   "form": "ἀνεκτότερον",
+   "morph": "A-NSN-C",
+   "gloss_en": "bearable",
+   "gloss_ja": "耐えられる",
+   "verse": "πλὴν Τύρῳ καὶ Σιδῶνι ἀνεκτότερον ἔσται ἐν τῇ κρίσει ἢ ὑμῖν."
+  },
+  {
+   "ref": "MAT 11:22",
+   "form": "ἀνεκτότερον",
+   "morph": "A-NSN-C",
+   "gloss_en": "bearable",
+   "gloss_ja": "耐えられる",
+   "verse": "πλὴν λέγω ὑμῖν, Τύρῳ καὶ Σιδῶνι ἀνεκτότερον ἔσται ἐν ἡμέρᾳ κρίσεως ἢ ὑμῖν."
+  },
+  {
+   "ref": "MAT 11:24",
+   "form": "ἀνεκτότερον",
+   "morph": "A-NSN-C",
+   "gloss_en": "tolerable",
+   "gloss_ja": "耐えられる",
+   "verse": "πλὴν λέγω ὑμῖν ὅτι γῇ Σοδόμων ἀνεκτότερον ἔσται ἐν ἡμέρᾳ κρίσεως ἢ σοί."
+  },
+  {
+   "ref": "MAT 10:15",
+   "form": "ἀνεκτότερον",
+   "morph": "A-NSN-C",
+   "gloss_en": "bearable",
+   "gloss_ja": "耐えられる",
+   "verse": "ἀμὴν λέγω ὑμῖν, ἀνεκτότερον ἔσται γῇ Σοδόμων καὶ Γομόρρων ἐν ἡμέρᾳ κρίσεως ἢ τῇ πόλει ἐκείνῃ."
+  }
+ ],
+ "lxx": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "2 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "10.5",
+    "form": "ἀνεκτὸν",
+    "postag": "a-s---nn-",
+    "sentence": "καὶ εἰ μὲν αὐτοὶ μόνοι ταῦτα ἔπρασσον, ἀνεκτὸν ἦν ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "6 (KJV) * ἀν-εκτός, -όν    (also in late Gk. -ή, -όν; < ἀνέχομαι),    tolerable: compar., -ότερος, Mt 10:15 11:22, 24, Lk 10:12, 14.†"
+}

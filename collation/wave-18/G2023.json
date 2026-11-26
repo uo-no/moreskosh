@@ -1,0 +1,122 @@
+{
+ "strong": "G2023",
+ "lemma": "ἐπιχορηγέω",
+ "nt_freq": 5,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2CO 9:10",
+   "form": "ἐπιχορηγῶν",
+   "morph": "V-PAP-NSM",
+   "gloss_en": "supplies",
+   "gloss_ja": "供給する",
+   "verse": "ὁ δὲ ἐπιχορηγῶν σπόρον τῷ σπείροντι καὶ ἄρτον εἰς βρῶσιν χορηγήσει καὶ πληθυνεῖ τὸν σπόρον ὑμῶν καὶ αὐξήσει τὰ γενήματα τῆς δικαιοσύνης ὑμῶν·"
+  },
+  {
+   "ref": "2PE 1:5",
+   "form": "ἐπιχορηγήσατε",
+   "morph": "V-AAM-2P",
+   "gloss_en": "supply",
+   "gloss_ja": "供給する",
+   "verse": "καὶ αὐτὸ τοῦτο δὲ σπουδὴν πᾶσαν παρεισενέγκαντες ἐπιχορηγήσατε ἐν τῇ πίστει ὑμῶν τὴν ἀρετήν, ἐν δὲ τῇ ἀρετῇ τὴν γνῶσιν,"
+  },
+  {
+   "ref": "2PE 1:11",
+   "form": "ἐπιχορηγηθήσεται",
+   "morph": "V-FPI-3S",
+   "gloss_en": "supplied",
+   "gloss_ja": "供給する",
+   "verse": "οὕτως γὰρ πλουσίως ἐπιχορηγηθήσεται ὑμῖν ἡ εἴσοδος εἰς τὴν αἰώνιον βασιλείαν τοῦ κυρίου ἡμῶν καὶ σωτῆρος Ἰησοῦ Χριστοῦ."
+  },
+  {
+   "ref": "COL 2:19",
+   "form": "ἐπιχορηγούμενον",
+   "morph": "V-PPP-NSN",
+   "gloss_en": "nourished",
+   "gloss_ja": "供給する",
+   "verse": "καὶ οὐ κρατῶν τὴν κεφαλήν, ἐξ οὗ πᾶν τὸ σῶμα διὰ τῶν ἁφῶν καὶ συνδέσμων ἐπιχορηγούμενον καὶ συμβιβαζόμενον αὔξει τὴν αὔξησιν τοῦ θεοῦ."
+  },
+  {
+   "ref": "GAL 3:5",
+   "form": "ἐπιχορηγῶν",
+   "morph": "V-PAP-NSM",
+   "gloss_en": "give",
+   "gloss_ja": "供給する",
+   "verse": "ὁ οὖν ἐπιχορηγῶν ὑμῖν τὸ πνεῦμα καὶ ἐνεργῶν δυνάμεις ἐν ὑμῖν ἐξ ἔργων νόμου ἢ ἐξ ἀκοῆς πίστεως;"
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Ecclesiasticus sive Siracides": 1
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "25.22",
+    "form": "ἐπιχορηγῇ",
+    "postag": "v3spsa---",
+    "sentence": "ὀργὴ καὶ ἀναίδεια καὶ αἰσχύνη μεγάλη γυνὴ ἐὰν ἐπιχορηγῇ τῷ ἀνδρὶ αὐτῆς."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 5,
+  "works": {
+   "1 Clement": 2,
+   "Hermas, Pastor": 3
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "19.1.7",
+    "form": "ἐπιχορηγοῦντι",
+    "postag": "v-sppamd-",
+    "sentence": "ταύτην ἀποδίδωσι τῷ κυρίῳ τῷ ἐπιχορηγοῦντι αὐτῷ."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "38.2",
+    "form": "ἐπιχορηγῶν",
+    "postag": "v-sppamn-",
+    "sentence": "ὁ ἁγνὸς ἐν τῇ σαρκὶ μὴ ἀλαζονευέσθω, γινώσκων ὅτι ἕτερός ἐστιν ὁ ἐπιχορηγῶν αὐτῷ τὴν ἐγκράτειαν."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "19.1.5",
+    "form": "ἐπιχορηγεῖ",
+    "postag": "v3spia---",
+    "sentence": "ἐπιχορηγεῖ οὖν ὁ πλούσιος τῷ πένητι πάντα ἀδιστάκτως."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "38.2",
+    "form": "ἐπιχορηγείτω",
+    "postag": "v3spma---",
+    "sentence": "ὁ πλούσιος ἐπιχορηγείτω τῷ πτωχῷ, ὁ δὲ πτωχὸς εὐχαριστείτω τῷ θεῷ, ὅτι ἔδωκεν αὐτῷ, δι’ οὗ ἀναπληρωθῇ αὐτοῦ τὸ ὑστέρημα ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "19.1.6",
+    "form": "ἐπιχορηγούμενος",
+    "postag": "v-sppmmn-",
+    "sentence": "ὁ πένης δὲ ἐπιχορηγούμενος ὑπὸ τοῦ πλουσίου ἐντυγχάνει τῷ θεῷ εὐχαριστῶν αὐτῷ, ὑπὲρ τοῦ διδόντος αὐτῷ ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "5   ** ἐπι-χορηγέω, -ῶ     [in LXX: Si 25:22, II Mac 4:9 A * ;]    to supply, provide: c. acc rei, II Pe 1:5; id. c. dat. pers., II Co 9:10, Ga 3:5; pass., Col 2:19, II Pe 1:11 (cf. χορηγέω, and v. MM, Exp., xiv).†"
+}

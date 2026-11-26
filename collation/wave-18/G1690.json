@@ -1,0 +1,73 @@
+{
+ "strong": "G1690",
+ "lemma": "ἐμβριμάομαι",
+ "nt_freq": 5,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JHN 11:33",
+   "form": "ἐνεβριμήσατο",
+   "morph": "V-ADI-3S",
+   "gloss_en": "deeply moved",
+   "gloss_ja": "叱る",
+   "verse": "Ἰησοῦς οὖν ὡς εἶδεν αὐτὴν κλαίουσαν καὶ τοὺς συνελθόντας αὐτῇ Ἰουδαίους κλαίοντας ἐνεβριμήσατο τῷ πνεύματι καὶ ἐτάραξεν ἑαυτόν,"
+  },
+  {
+   "ref": "JHN 11:38",
+   "form": "ἐμβριμώμενος",
+   "morph": "V-PNP-NSM",
+   "gloss_en": "deeply moved",
+   "gloss_ja": "叱る",
+   "verse": "Ἰησοῦς οὖν πάλιν ἐμβριμώμενος ἐν ἑαυτῷ ἔρχεται εἰς τὸ μνημεῖον· ἦν δὲ σπήλαιον, καὶ λίθος ἐπέκειτο ἐπ’ αὐτῷ."
+  },
+  {
+   "ref": "MAT 9:30",
+   "form": "ἐνεβριμήθη",
+   "morph": "V-AOI-3S",
+   "gloss_en": "sternly warned",
+   "gloss_ja": "叱る",
+   "verse": "καὶ ἠνεῴχθησαν αὐτῶν οἱ ὀφθαλμοί. καὶ ἐνεβριμήθη αὐτοῖς ὁ Ἰησοῦς λέγων· Ὁρᾶτε μηδεὶς γινωσκέτω·"
+  },
+  {
+   "ref": "MRK 1:43",
+   "form": "ἐμβριμησάμενος",
+   "morph": "V-ADP-NSM",
+   "gloss_en": "sternly warned",
+   "gloss_ja": "叱る",
+   "verse": "καὶ ἐμβριμησάμενος αὐτῷ εὐθὺς ἐξέβαλεν αὐτόν,"
+  },
+  {
+   "ref": "MRK 14:5",
+   "form": "ἐνεβριμῶντο",
+   "morph": "V-INI-3P",
+   "gloss_en": "scold",
+   "gloss_ja": "叱る",
+   "verse": "ἠδύνατο γὰρ τοῦτο τὸ μύρον πραθῆναι ἐπάνω δηναρίων τριακοσίων καὶ δοθῆναι τοῖς πτωχοῖς· καὶ ἐνεβριμῶντο αὐτῇ."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "11.30",
+    "form": "ἐμβριμήσονται",
+    "postag": "v3pfim---",
+    "sentence": "καὶ ἥξουσι Ῥωμαῖοι καὶ ἐξώσουσιν αὐτὸν καὶ ἐμβριμήσονται αὐτῷ ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "5   ἐμ-βριμάομαι (T, -έομαι; Bl., § 22, 1), -ῶμαι     (< βρίμη, strength, bulk, whence βριμάομαι, to snort with anger),     depon., with aor. mid. and pass.,     [in LXX (Hatch, Essays, 25): Da LXX 11:30 (also Aq., Ps 7:12; Sm., Is 17:13) * ;]     to snort in (of horses, Æsch.), hence, to speak or act with deep feeling (DCG, i, 62b);    to be moved with anger (cf. ἐμβρίμημα, La 2:6): c. dat., Mk 14:5, Jo 11:33; ἐν ἑαυτῷ, Jo 11:38;    to admonish sternly: c. dat., Mt 9:30, Mk 1:43.†"
+}

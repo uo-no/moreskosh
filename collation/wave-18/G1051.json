@@ -1,0 +1,240 @@
+{
+ "strong": "G1051",
+ "lemma": "γάλα",
+ "nt_freq": 5,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 3:2",
+   "form": "γάλα",
+   "morph": "N-ASN",
+   "gloss_en": "milk",
+   "gloss_ja": "乳",
+   "verse": "γάλα ὑμᾶς ἐπότισα, οὐ βρῶμα, οὔπω γὰρ ἐδύνασθε. ἀλλ’ οὐδὲ ἔτι νῦν δύνασθε,"
+  },
+  {
+   "ref": "1CO 9:7",
+   "form": "γάλακτος",
+   "morph": "N-GSN",
+   "gloss_en": "milk",
+   "gloss_ja": "乳",
+   "verse": "τίς στρατεύεται ἰδίοις ὀψωνίοις ποτέ; τίς φυτεύει ἀμπελῶνα καὶ τὸν καρπὸν αὐτοῦ οὐκ ἐσθίει; τίς ποιμαίνει ποίμνην καὶ ἐκ τοῦ γάλακτος τῆς ποίμνης οὐκ ἐσθίει;"
+  },
+  {
+   "ref": "1PE 2:2",
+   "form": "γάλα",
+   "morph": "N-ASN",
+   "gloss_en": "milk",
+   "gloss_ja": "乳",
+   "verse": "ὡς ἀρτιγέννητα βρέφη τὸ λογικὸν ἄδολον γάλα ἐπιποθήσατε, ἵνα ἐν αὐτῷ αὐξηθῆτε εἰς σωτηρίαν,"
+  },
+  {
+   "ref": "HEB 5:12",
+   "form": "γάλακτος",
+   "morph": "N-GSN",
+   "gloss_en": "milk",
+   "gloss_ja": "乳",
+   "verse": "καὶ γὰρ ὀφείλοντες εἶναι διδάσκαλοι διὰ τὸν χρόνον, πάλιν χρείαν ἔχετε τοῦ διδάσκειν ὑμᾶς τινὰ τὰ στοιχεῖα τῆς ἀρχῆς τῶν λογίων τοῦ θεοῦ, καὶ γεγόνατε χρείαν ἔχοντες γάλακτος, οὐ στερεᾶς τροφῆς."
+  },
+  {
+   "ref": "HEB 5:13",
+   "form": "γάλακτος",
+   "morph": "N-GSN",
+   "gloss_en": "milk",
+   "gloss_ja": "乳",
+   "verse": "πᾶς γὰρ ὁ μετέχων γάλακτος ἄπειρος λόγου δικαιοσύνης, νήπιος γάρ ἐστιν·"
+  }
+ ],
+ "lxx": {
+  "total": 48,
+  "works": {
+   "Genesis": 2,
+   "Exodus": 6,
+   "Leviticus": 1,
+   "Numeri": 4,
+   "Deuteronomium": 9,
+   "Josue": 1,
+   "Judices": 2,
+   "Regnorum i": 1,
+   "Machabaeorum iii": 1,
+   "Psalmi": 1,
+   "Odae": 1,
+   "Proverbia": 1,
+   "Canticum": 3,
+   "Job": 2,
+   "Ecclesiasticus sive Siracides": 2,
+   "Joel": 1,
+   "Isaias": 3,
+   "Jeremias": 2,
+   "Baruch": 1,
+   "Threni seu Lamentationes": 1,
+   "Ezechiel": 3
+  },
+  "representatives": [
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "14.21",
+    "form": "γάλακτι",
+    "postag": "n-s---nd-",
+    "sentence": "οὐχ ἑψήσεις ἄρνα ἐν γάλακτι μητρὸς αὐτοῦ."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "33.3",
+    "form": "γάλα",
+    "postag": "n-s---na-",
+    "sentence": "καὶ εἰσάξω σε εἰς γῆν ρέουσαν γάλα καὶ μέλι ·"
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "13.28",
+    "form": "γάλα",
+    "postag": "n-s---na-",
+    "sentence": "ἤλθαμεν εἰς τὴν γῆν, εἰς ἣν ἀπέστειλας ἡμᾶς, γῆν ρέουσαν γάλα καὶ μέλι, καὶ οὗτος ὁ καρπὸς αὐτῆς ·"
+   },
+   {
+    "work_code": "SNG",
+    "work_ja": "雅歌",
+    "work_src": "Canticum",
+    "ref": "5.1",
+    "form": "γάλακτός",
+    "postag": "n-s---ng-",
+    "sentence": "εἰσῆλθον εἰς κῆπόν μου, ἀδελφή μου νύμφη, ἐτρύγησα σμύρναν μου μετὰ ἀρωμάτων μου, ἔφαγον ἄρτον μου μετὰ μέλιτός μου, ἔπιον οἶνόν μου μετὰ γάλακτός μου ·"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "28.9",
+    "form": "γάλακτος",
+    "postag": "n-s---ng-",
+    "sentence": "τίνι ἀνηγγείλαμεν κακὰ καὶ τίνι ἀνηγγείλαμεν ἀγγελίαν, οἱ ἀπογεγαλακτισμένοι ἀπὸ γάλακτος, οἱ ἀπεσπασμένοι ἀπὸ μαστοῦ;"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "34.3",
+    "form": "γάλα",
+    "postag": "n-s---na-",
+    "sentence": "ἰδοὺ τὸ γάλα κατέσθετε καὶ τὰ ἔρια περιβάλλεσθε καὶ τὸ παχὺ σφάζετε καὶ τὰ πρόβατά μου οὐ βόσκετε."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "49.12",
+    "form": "γάλα",
+    "postag": "n-s---nn-",
+    "sentence": "χαροποιοὶ οἱ ὀφθαλμοὶ αὐτοῦ ἀπὸ οἴνου, καὶ λευκοὶ οἱ ὀδόντες αὐτοῦ ἢ γάλα."
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "5.25",
+    "form": "γάλα",
+    "postag": "n-s---na-",
+    "sentence": "ὕδωρ ᾔτησε, γάλα ἔδωκεν, ἐν λεκάνῃ ὑπερεχόντων προσήνεγκε βούτυρον."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "10.10",
+    "form": "γάλα",
+    "postag": "n-s---na-",
+    "sentence": "ἦ οὐχ ὥσπερ γάλα με ἤμελξας, ἐτύρωσας δέ με ἴσα τυρῷ;"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "46.8",
+    "form": "γάλα",
+    "postag": "n-s---na-",
+    "sentence": "καὶ αὐτοὶ δύο ὄντες διεσώθησαν ἀπὸ ἑξακοσίων χιλιάδων πεζῶν, εἰσαγαγεῖν αὐτοὺς εἰς κληρονομίαν, εἰς γῆν ρέουσαν γάλα καὶ μέλι."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "39.22",
+    "form": "γάλα",
+    "postag": "n-s---na-",
+    "sentence": "καὶ ἔδωκας αὐτοῖς τὴν γῆν ταύτην, ἣν ὤμοσας τοῖς πατράσιν αὐτῶν, γῆν ρέουσαν γάλα καὶ μέλι."
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "20.24",
+    "form": "γάλα",
+    "postag": "n-s---na-",
+    "sentence": "ὑμεῖς κληρονομήσετε τὴν γῆν αὐτῶν, καὶ ἐγὼ δώσω ὑμῖν αὐτὴν ἐν κτήσει, γῆν ρέουσαν γάλα καὶ μέλι ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 5,
+  "works": {
+   "Barnabas": 5
+  },
+  "representatives": [
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "6.17",
+    "form": "γάλα",
+    "postag": "n-s---nn-",
+    "sentence": "τί οὖν τὸ γάλα καὶ τὸ μέλι;"
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "6.17",
+    "form": "γάλακτι",
+    "postag": "n-s---nd-",
+    "sentence": "ὅτι πρῶτον τὸ παιδίον μέλιτι, εἶτα γάλακτι ζωοποιεῖται ·"
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "6.10",
+    "form": "γάλα",
+    "postag": "n-s---na-",
+    "sentence": "εἰς τὴν γῆν τὴν ἀγαθήν, γῆν ῥέουσαν γάλα καὶ μέλι;"
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "6.13",
+    "form": "γάλα",
+    "postag": "n-s---na-",
+    "sentence": "εἰσέλθατε εἰς γῆν ῥέουσαν γάλα καὶ μέλι καὶ κατακυριεύσατε αὐτῆς."
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "6.8",
+    "form": "γάλα",
+    "postag": "n-s---na-",
+    "sentence": "εἰσέλθατε εἰς τὴν γῆν τὴν ἀγαθήν, ἣν ὤμοσεν κύριος τῷ Ἀβραὰμ καὶ Ἰσαὰκ καὶ Ἰακώβ, καὶ κατακληρονομήσατε αὐτήν, γῆν ῥέουσαν γάλα καὶ μέλι."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "5   γάλα, -ακτος, τό     [in LXX for חלב ;]    milk: I Co 9:7. Metaph., of elementary Christian teaching: I Co 3:2, He 5:12, 13; τὸ λογικὸν ἄδολον γ., the rational (spiritual) genuine milk (v. Hort, in l.), I Pe 2:2 (in support of AV, milk of the word, v. ICC, in l.).†"
+}

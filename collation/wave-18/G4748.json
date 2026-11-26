@@ -1,0 +1,85 @@
+{
+ "strong": "G4748",
+ "lemma": "στοιχέω",
+ "nt_freq": 5,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 21:24",
+   "form": "στοιχεῖς",
+   "morph": "V-PAI-2S",
+   "gloss_en": "walk orderly",
+   "gloss_ja": "従う",
+   "verse": "τούτους παραλαβὼν ἁγνίσθητι σὺν αὐτοῖς καὶ δαπάνησον ἐπ’ αὐτοῖς ἵνα ξυρήσονται τὴν κεφαλήν, καὶ γνώσονται πάντες ὅτι ὧν κατήχηνται περὶ σοῦ οὐδέν ἐστιν, ἀλλὰ στοιχεῖς καὶ αὐτὸς φυλάσσων τὸν νόμον."
+  },
+  {
+   "ref": "GAL 6:16",
+   "form": "στοιχήσουσιν",
+   "morph": "V-FAI-3P",
+   "gloss_en": "follow",
+   "gloss_ja": "従う",
+   "verse": "καὶ ὅσοι τῷ κανόνι τούτῳ στοιχήσουσιν, εἰρήνη ἐπ’ αὐτοὺς καὶ ἔλεος, καὶ ἐπὶ τὸν Ἰσραὴλ τοῦ θεοῦ."
+  },
+  {
+   "ref": "GAL 5:25",
+   "form": "στοιχῶμεν",
+   "morph": "V-PAS-1P",
+   "gloss_en": "walk",
+   "gloss_ja": "従う",
+   "verse": "εἰ ζῶμεν πνεύματι, πνεύματι καὶ στοιχῶμεν."
+  },
+  {
+   "ref": "PHP 3:16",
+   "form": "στοιχεῖν",
+   "morph": "V-PAN",
+   "gloss_en": "hold on",
+   "gloss_ja": "従う",
+   "verse": "πλὴν εἰς ὃ ἐφθάσαμεν, τῷ αὐτῷ στοιχεῖν."
+  },
+  {
+   "ref": "ROM 4:12",
+   "form": "στοιχοῦσιν",
+   "morph": "V-PAP-DPM",
+   "gloss_en": "follow",
+   "gloss_ja": "従う",
+   "verse": "καὶ πατέρα περιτομῆς τοῖς οὐκ ἐκ περιτομῆς μόνον ἀλλὰ καὶ τοῖς στοιχοῦσιν τοῖς ἴχνεσιν τῆς ἐν ἀκροβυστίᾳ πίστεως τοῦ πατρὸς ἡμῶν Ἀβραάμ."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Ecclesiastes": 1
+  },
+  "representatives": [
+   {
+    "work_code": "ECC",
+    "work_ja": "コヘレトの言葉",
+    "work_src": "Ecclesiastes",
+    "ref": "11.6",
+    "form": "στοιχήσει",
+    "postag": "v3sfia---",
+    "sentence": "ἐν τῷ πρωΐ σπεῖρον τὸ σπέρμα σου, καὶ εἰς ἑσπέραν μὴ ἀφέτω ἡ χείρ σου, ὅτι οὐ γινώσκεις ποῖον στοιχήσει, ἢ τοῦτο ἢ τοῦτο, καὶ ἐὰν τὰ δύο ἐπὶ τὸ αὐτὸ ἀγαθά."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Martyrdom of Polycarp": 1
+  },
+  "representatives": [
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "22.1",
+    "form": "στοιχοῦντας",
+    "postag": "v-pppama-",
+    "sentence": "ἐρρῶσθαι ὑμᾶς εὐχόμεθα, ἀδελφοί, στοιχοῦντας τῷ κατὰ τὸ εὐαγγέλιον λόγῳ Ἰησοῦ Χριστοῦ, μεθ’ οὗ δόξα τῷ θεῷ καὶ πατρὶ καὶ ἁγίῳ πνεύματι, ἐπὶ σωτηρίᾳ τῇ τῶν ἁγίων ἐκλεκτῶν, καθὼς ἐμαρτύρησεν ὁ μακάριος Πολύκαρπος, οὗ γένοιτο ἐν τῇ βασιλείᾳ Ἰησοῦ Χριστοῦ πρὸς τὰ ἴχνη εὑρεθῆναι ἡμᾶς."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "5 στοιχέω, -ῶ    (< στοῖχος, a row),    [in LXX: Ec 11:6 (כָּשֵׁר) * ;]    to be in rows (of waves, plants, etc., as well as of men), to walk in line (esp. of marching in file to battle; Xen., Cyr., vi, 3, 34, al.). Metaph., in late writers, to walk by rule: Ac 21:24; c. dat., to walk by or in (as a rule of life), Ro 4:12 (cf. MM, xxiii), Ga 5:25 6:16, Phl 3:16 (cf. συν-στοιχέω).†"
+}

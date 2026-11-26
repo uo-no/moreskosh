@@ -1,0 +1,244 @@
+{
+ "strong": "G1522",
+ "lemma": "εἰσακούω",
+ "nt_freq": 5,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 14:21",
+   "form": "εἰσακούσονταί",
+   "morph": "V-FDI-3P",
+   "gloss_en": "listen to",
+   "gloss_ja": "聞き入れる",
+   "verse": "ἐν τῷ νόμῳ γέγραπται ὅτι Ἐν ἑτερογλώσσοις καὶ ἐν χείλεσιν ἑτέρων λαλήσω τῷ λαῷ τούτῳ, καὶ οὐδ’ οὕτως εἰσακούσονταί μου, λέγει κύριος."
+  },
+  {
+   "ref": "ACT 10:31",
+   "form": "εἰσηκούσθη",
+   "morph": "V-API-3S",
+   "gloss_en": "heard",
+   "gloss_ja": "聞き入れる",
+   "verse": "καὶ φησί· Κορνήλιε, εἰσηκούσθη σου ἡ προσευχὴ καὶ αἱ ἐλεημοσύναι σου ἐμνήσθησαν ἐνώπιον τοῦ θεοῦ."
+  },
+  {
+   "ref": "HEB 5:7",
+   "form": "εἰσακουσθεὶς",
+   "morph": "V-APP-NSM",
+   "gloss_en": "heard",
+   "gloss_ja": "聞き入れる",
+   "verse": "ὃς ἐν ταῖς ἡμέραις τῆς σαρκὸς αὐτοῦ δεήσεις τε καὶ ἱκετηρίας πρὸς τὸν δυνάμενον σῴζειν αὐτὸν ἐκ θανάτου μετὰ κραυγῆς ἰσχυρᾶς καὶ δακρύων προσενέγκας καὶ εἰσακουσθεὶς ἀπὸ τῆς εὐλαβείας,"
+  },
+  {
+   "ref": "LUK 1:13",
+   "form": "εἰσηκούσθη",
+   "morph": "V-API-3S",
+   "gloss_en": "heard",
+   "gloss_ja": "聞き入れる",
+   "verse": "εἶπεν δὲ πρὸς αὐτὸν ὁ ἄγγελος· Μὴ φοβοῦ, Ζαχαρία, διότι εἰσηκούσθη ἡ δέησίς σου, καὶ ἡ γυνή σου Ἐλισάβετ γεννήσει υἱόν σοι, καὶ καλέσεις τὸ ὄνομα αὐτοῦ Ἰωάννην·"
+  },
+  {
+   "ref": "MAT 6:7",
+   "form": "εἰσακουσθήσονται",
+   "morph": "V-FPI-3P",
+   "gloss_en": "heard",
+   "gloss_ja": "聞き入れる",
+   "verse": "Προσευχόμενοι δὲ μὴ βατταλογήσητε ὥσπερ οἱ ἐθνικοί, δοκοῦσιν γὰρ ὅτι ἐν τῇ πολυλογίᾳ αὐτῶν εἰσακουσθήσονται·"
+  }
+ ],
+ "lxx": {
+  "total": 243,
+  "works": {
+   "Genesis": 4,
+   "Exodus": 29,
+   "Numeri": 5,
+   "Deuteronomium": 25,
+   "Judices": 6,
+   "Regnorum ii": 1,
+   "Regnorum iii": 12,
+   "Regnorum iv": 2,
+   "Paralipomenon ii sive Chronicon ii": 8,
+   "Esdras ii": 2,
+   "Esther": 2,
+   "Judith": 4,
+   "Tobias": 3,
+   "Machabaeorum ii": 2,
+   "Machabaeorum iii": 2,
+   "Psalmi": 49,
+   "Odae": 2,
+   "Proverbia": 6,
+   "Job": 8,
+   "Ecclesiasticus sive Siracides": 8,
+   "Psalmi Salomonis": 1,
+   "Osee": 1,
+   "Michaeas": 3,
+   "Jonas": 1,
+   "Habacuc": 2,
+   "Sophonias": 1,
+   "Zacharias": 8,
+   "Malachias": 1,
+   "Isaias": 12,
+   "Jeremias": 17,
+   "Baruch": 1,
+   "Ezechiel": 6,
+   "Susanna": 2,
+   "Daniel": 7
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "26.7",
+    "form": "εἰσάκουσόν",
+    "postag": "v2sama---",
+    "sentence": "ἐλέησόν με καὶ εἰσάκουσόν μου."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "3.18",
+    "form": "εἰσακούσονταί",
+    "postag": "v3pfim---",
+    "sentence": "καὶ εἰσακούσονταί σου τῆς φωνῆς ·"
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "33.7",
+    "form": "εἰσάκουσον",
+    "postag": "v2sama---",
+    "sentence": "εἰσάκουσον, Κύριε, φωνῆς Ἰούδα, καὶ εἰς τὸν λαὸν αὐτοῦ εἰσέλθοισαν ·"
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "36.12",
+    "form": "εἰσακούσομαι",
+    "postag": "v1sfim---",
+    "sentence": "καὶ προσεύξασθε πρός με, καὶ εἰσακούσομαι ὑμῶν ·"
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "8.29",
+    "form": "εἰσακούειν",
+    "postag": "v--pna---",
+    "sentence": "ἔσται τὸ ὄνομά μου ἐκεῖ, τοῦ εἰσακούειν τῆς προσευχῆς, ἧς προσεύχεται ὁ δοῦλός σου εἰς τὸν τόπον τοῦτον ἡμέρας καὶ νυκτός."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "58.9",
+    "form": "εἰσακούσεταί",
+    "postag": "v3sfim---",
+    "sentence": "τότε βοήσῃ, καὶ ὁ Θεὸς εἰσακούσεταί σου ·"
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "6.21",
+    "form": "εἰσακούσῃ",
+    "postag": "v2sfim---",
+    "sentence": "καὶ ἀκούσῃ τῆς δεήσεως τοῦ παιδός σου καὶ τοῦ λαοῦ σου Ἰσραήλ, ἃ ἂν προσεύξωνται εἰς τὸν τόπον τοῦτον, καὶ σὺ εἰσακούσῃ ἐν τῷ τόπῳ τῆς κατοικήσεώς σου ἐκ τοῦ οὐρανοῦ καὶ ἀκούσῃ καὶ ἵλεως ἔσῃ."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "36.10",
+    "form": "εἰσακούσεται",
+    "postag": "v3sfim---",
+    "sentence": "ἀλλὰ τοῦ δικαίου εἰσακούσεται ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "51.11",
+    "form": "εἰσηκούσθη",
+    "postag": "v3saip---",
+    "sentence": "καὶ εἰσηκούσθη ἡ δέησίς μου ·"
+   },
+   {
+    "work_code": "ZEC",
+    "work_ja": "ゼカリヤ書",
+    "work_src": "Zacharias",
+    "ref": "6.15",
+    "form": "εἰσακούοντες",
+    "postag": "v-pppamn-",
+    "sentence": "καὶ ἔσται, ἐὰν εἰσακούοντες εἰσακούσητε τῆς φωνῆς Κυρίου τοῦ Θεοῦ ὑμῶν."
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "1.14",
+    "form": "εἰσήκουσεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ εἰσήκουσεν αὐτῶν καὶ ἐπείρασεν αὐτοὺς ἡμέρας δέκα."
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "6.10",
+    "form": "εἰσηκούσατε",
+    "postag": "v2paia---",
+    "sentence": "καὶ οὐκ εἰσηκούσατε τῆς φωνῆς μου."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 4,
+  "works": {
+   "1 Clement": 4
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "8.4",
+    "form": "εἰσακούσητέ",
+    "postag": "v2pasa---",
+    "sentence": "καὶ ἐὰν θέλητε καὶ εἰσακούσητέ μου, τὰ ἀγαθὰ τῆς γῆς φάγεσθε ·"
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "57.5",
+    "form": "εἰσακούσομαι",
+    "postag": "v1sfim---",
+    "sentence": "ἔσται γὰρ ὅταν ἐπικαλέσησθέ με, ἐγὼ δὲ οὐκ εἰσακούσομαι ὑμῶν ·"
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "22.7",
+    "form": "εἰσήκουσεν",
+    "postag": "v3saia---",
+    "sentence": "ἐκέκραξεν ὁ δίκαιος, καὶ ὁ κύριος εἰσήκουσεν αὐτοῦ, καὶ ἐκ πασῶν τῶν θλίψεων αὐτοῦ ἐρύσατο αὐτόν."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "8.4",
+    "form": "εἰσακούσητέ",
+    "postag": "v2pasa---",
+    "sentence": "ἐὰν δὲ μὴ θέλητε μη-δὲ εἰσακούσητέ μου, μάχαιρα ὑμᾶς κατέδεται ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "5 εἰσ-ακούω     [in LXX chiefly for שָׁמַע, also for עָנָה, etc. ;]      to listen to, in two senses;      to obey: I Co 14:21 (cf. De 1:43, Si 3:6)      to listen, assent to; pass., to be heard: of persons praying, Mt 6:7, He 5:7; of the prayer offered, Lk 1:13, Ac 10:31 (cf. Ps 4:2, Si 34:26); v. Cremer, 624).†"
+}

@@ -1,0 +1,105 @@
+{
+ "strong": "G4122",
+ "lemma": "πλεονεκτέω",
+ "nt_freq": 5,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1TH 4:6",
+   "form": "πλεονεκτεῖν",
+   "morph": "V-PAN",
+   "gloss_en": "defraud",
+   "gloss_ja": "欺く",
+   "verse": "τὸ μὴ ὑπερβαίνειν καὶ πλεονεκτεῖν ἐν τῷ πράγματι τὸν ἀδελφὸν αὐτοῦ, διότι ἔκδικος κύριος περὶ πάντων τούτων, καθὼς καὶ προείπαμεν ὑμῖν καὶ διεμαρτυράμεθα."
+  },
+  {
+   "ref": "2CO 2:11",
+   "form": "πλεονεκτηθῶμεν",
+   "morph": "V-APS-1P",
+   "gloss_en": "outwitted",
+   "gloss_ja": "欺く",
+   "verse": "ἵνα μὴ πλεονεκτηθῶμεν ὑπὸ τοῦ Σατανᾶ, οὐ γὰρ αὐτοῦ τὰ νοήματα ἀγνοοῦμεν."
+  },
+  {
+   "ref": "2CO 12:17",
+   "form": "ἐπλεονέκτησα",
+   "morph": "V-AAI-1S",
+   "gloss_en": "take advantage of",
+   "gloss_ja": "欺く",
+   "verse": "μή τινα ὧν ἀπέσταλκα πρὸς ὑμᾶς, δι’ αὐτοῦ ἐπλεονέκτησα ὑμᾶς;"
+  },
+  {
+   "ref": "2CO 12:18",
+   "form": "ἐπλεονέκτησεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "take advantage of",
+   "gloss_ja": "欺く",
+   "verse": "παρεκάλεσα Τίτον καὶ συναπέστειλα τὸν ἀδελφόν· μήτι ἐπλεονέκτησεν ὑμᾶς Τίτος; οὐ τῷ αὐτῷ πνεύματι περιεπατήσαμεν; οὐ τοῖς αὐτοῖς ἴχνεσιν;"
+  },
+  {
+   "ref": "2CO 7:2",
+   "form": "ἐπλεονεκτήσαμεν",
+   "morph": "V-AAI-1P",
+   "gloss_en": "taken advantage of",
+   "gloss_ja": "欺く",
+   "verse": "Χωρήσατε ἡμᾶς· οὐδένα ἠδικήσαμεν, οὐδένα ἐφθείραμεν, οὐδένα ἐπλεονεκτήσαμεν."
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Judices": 1,
+   "Habacuc": 1,
+   "Ezechiel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "4.11",
+    "form": "πλεονεκτούντων",
+    "postag": "v-pppamg-",
+    "sentence": "καὶ Χαβὲρ ὁ Κιναῖος ἐχωρίσθη ἀπὸ Καινᾶ ἀπὸ τῶν υἱῶν Ἰωβὰβ γαμβροῦ Μωυσῆ καὶ ἔπηξε τὴν σκηνὴν αὐτοῦ ἕως δρυὸς πλεονεκτούντων, ἥ ἐστιν ἐχόμενα Κεδές."
+   },
+   {
+    "work_code": "HAB",
+    "work_ja": "ハバクク書",
+    "work_src": "Habacuc",
+    "ref": "2.9",
+    "form": "πλεονεκτῶν",
+    "postag": "v-sppamn-",
+    "sentence": "ὦ ὁ πλεονεκτῶν πλεονεξίαν κακὴν τῷ οἴκῳ αὐτοῦ τοῦ τάξαι εἰς ὕψος νοσσιὰν αὐτοῦ τοῦ ἐκσπασθῆναι ἐκ χειρὸς κακῶν."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "22.27",
+    "form": "πλεονεκτῶσι",
+    "postag": "v3ppsa---",
+    "sentence": "οἱ ἄρχοντες αὐτῆς ἐν μέσῳ αὐτῆς ὡς λύκοι ἁρπάζοντες ἁρπάγματα τοῦ ἐκχέαι αἷμα, ὅπως πλεονεξίᾳ πλεονεκτῶσι."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Barnabas": 1
+  },
+  "representatives": [
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "10.6",
+    "form": "πλεονεκτεῖ",
+    "postag": "v3spia---",
+    "sentence": "οὐ μὴ γένῃ, φησίν, παιδοφθόρος οὐ-δὲ ὁμοιωθήσῃ τοῖς τοιούτοις, ὅτι ὁ λαγωὸς κατ’ ἐνιαυτὸν πλεονεκτεῖ τὴν ἀφόδευσιν ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "5   πλεονεκτέω, -ῶ    (< πλεονέκτης, q.v.),   [in LXX: Hb 2:9, Ez 22:27 (בּצע), Jg 4:11 B*;]      intrans., to have more, to have an advantage (cl., c. gen. pers.).   Trans., in late writers (v. M, Pr., 65), to overreach, defraud: c. acc. pers., II Co 7:2 12:17, 18; ἐν τ. πράγματι, I Th 4:6 (v. M, Th., in l.); pass., II Co 2:11 (as also in cl.; v. LS, s.v.).†"
+}

@@ -1,0 +1,199 @@
+{
+ "strong": "G2293",
+ "lemma": "θαρσέω",
+ "nt_freq": 5,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 23:11",
+   "form": "Θάρσει",
+   "morph": "V-PAM-2S",
+   "gloss_en": "take courage",
+   "gloss_ja": "励む",
+   "verse": "Τῇ δὲ ἐπιούσῃ νυκτὶ ἐπιστὰς αὐτῷ ὁ κύριος εἶπεν· Θάρσει, ὡς γὰρ διεμαρτύρω τὰ περὶ ἐμοῦ εἰς Ἰερουσαλὴμ οὕτω σε δεῖ καὶ εἰς Ῥώμην μαρτυρῆσαι."
+  },
+  {
+   "ref": "MAT 14:27",
+   "form": "Θαρσεῖτε",
+   "morph": "V-PAM-2P",
+   "gloss_en": "take courage",
+   "gloss_ja": "励む",
+   "verse": "εὐθὺς δὲ ἐλάλησεν αὐτοῖς ὁ Ἰησοῦς λέγων· Θαρσεῖτε, ἐγώ εἰμι· μὴ φοβεῖσθε."
+  },
+  {
+   "ref": "MAT 9:2",
+   "form": "Θάρσει",
+   "morph": "V-PAM-2S",
+   "gloss_en": "take heart",
+   "gloss_ja": "励む",
+   "verse": "Καὶ ἰδοὺ προσέφερον αὐτῷ παραλυτικὸν ἐπὶ κλίνης βεβλημένον. καὶ ἰδὼν ὁ Ἰησοῦς τὴν πίστιν αὐτῶν εἶπεν τῷ παραλυτικῷ· Θάρσει, τέκνον· ἀφίενταί σου αἱ ἁμαρτίαι."
+  },
+  {
+   "ref": "MAT 9:22",
+   "form": "Θάρσει",
+   "morph": "V-PAM-2S",
+   "gloss_en": "take heart",
+   "gloss_ja": "励む",
+   "verse": "ὁ δὲ Ἰησοῦς στραφεὶς καὶ ἰδὼν αὐτὴν εἶπεν· Θάρσει, θύγατερ· ἡ πίστις σου σέσωκέν σε. καὶ ἐσώθη ἡ γυνὴ ἀπὸ τῆς ὥρας ἐκείνης."
+  },
+  {
+   "ref": "MRK 10:49",
+   "form": "Θάρσει",
+   "morph": "V-PAM-2S",
+   "gloss_en": "take heart",
+   "gloss_ja": "励む",
+   "verse": "καὶ στὰς ὁ Ἰησοῦς εἶπεν· Φωνήσατε αὐτόν. καὶ φωνοῦσι τὸν τυφλὸν λέγοντες αὐτῷ· Θάρσει, ἔγειρε, φωνεῖ σε."
+  }
+ ],
+ "lxx": {
+  "total": 32,
+  "works": {
+   "Genesis": 1,
+   "Exodus": 2,
+   "Regnorum iii": 1,
+   "Esther": 1,
+   "Judith": 3,
+   "Tobias": 7,
+   "Machabaeorum iv": 2,
+   "Proverbia": 2,
+   "Ecclesiasticus sive Siracides": 1,
+   "Joel": 2,
+   "Sophonias": 1,
+   "Aggaeus": 1,
+   "Zacharias": 2,
+   "Baruch": 4,
+   "Ezechiel": 1,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "5.10",
+    "form": "θάρσει",
+    "postag": "v2spma---",
+    "sentence": "καὶ εἶπεν αὐτῷ Θάρσει, ἐγγὺς παρὰ τῷ θεῷ ἰάσασθαί σε, θάρσει."
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルク書",
+    "work_src": "Baruch",
+    "ref": "4.5",
+    "form": "θαρσεῖτε",
+    "postag": "v2ppma---",
+    "sentence": "— θαρσεῖτε λαός μου, μνημόσυνον Ἰσραήλ."
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "11.1",
+    "form": "θάρσησον",
+    "postag": "v2sama---",
+    "sentence": "θάρσησον, γύναι, μὴ φοβηθῇς τῇ καρδίᾳ σου, ὅτι ἐγὼ οὐκ ἐκάκωσα ἄνθρωπον, ὅστις ᾑρέτικε δουλεύειν βασιλεῖ Ναβουχοδονόσορ πάσης τῆς γῆς."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "14.13",
+    "form": "θαρσεῖτε",
+    "postag": "v2ppma---",
+    "sentence": "θαρσεῖτε, στῆτε καὶ ὁρᾶτε τὴν σωτηρίαν τὴν παρὰ τοῦ Κυρίου, ἣν ποιήσει ἡμῖν σήμερον ·"
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "13.11",
+    "form": "θάρρει",
+    "postag": "v2spma---",
+    "sentence": "καὶ ὁ μέν, θάρρει, ἀδελφέ, ἔλεγεν ·"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "1.21",
+    "form": "θαρροῦσα",
+    "postag": "v-sppafn-",
+    "sentence": "ἐπ’ ἄκρων τειχέων κηρύσσεται, ἐπὶ δὲ πύλαις δυναστῶν παρεδρεύει, ἐπὶ δὲ πύλαις πόλεως θαρροῦσα λέγει ·"
+   },
+   {
+    "work_code": "JOL",
+    "work_ja": "ヨエル書",
+    "work_src": "Joel",
+    "ref": "2.21",
+    "form": "θάρσει",
+    "postag": "v2spma---",
+    "sentence": "θάρσει, γῆ, χαῖρε καὶ εὐφραίνου, ὅτι ἐμεγάλυνε Κύριος τοῦ ποιῆσαι."
+   },
+   {
+    "work_code": "ZEC",
+    "work_ja": "ゼカリヤ書",
+    "work_src": "Zacharias",
+    "ref": "8.13",
+    "form": "θαρσεῖτε",
+    "postag": "v2ppma---",
+    "sentence": "θαρσεῖτε καὶ κατισχύετε ἐν ταῖς χερσὶν ὑμῶν."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "35.17",
+    "form": "θάρσει",
+    "postag": "v2spma---",
+    "sentence": "θάρσει, καὶ γὰρ οὗτός σοί ἐστιν υἱός."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "17.13",
+    "form": "θάρσει",
+    "postag": "v2spma---",
+    "sentence": "θάρσει, εἴσελθε καὶ ποίησον κατὰ τὸ ρῆμά σου ·"
+   },
+   {
+    "work_code": "EST",
+    "work_ja": "エステル記",
+    "work_src": "Esther",
+    "ref": "5.2γ",
+    "form": "θάρσει",
+    "postag": "v2spma---",
+    "sentence": "ἐγὼ ὁ ἀδελφός σου, θάρσει, οὐ μὴ ἀποθάνῃς ὅτι κοινὸν τὸ πρόσταγμα ἡμῶν ἐστι ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "19.10",
+    "form": "θάρσει",
+    "postag": "v2spma---",
+    "sentence": "θάρσει, οὐ μή σε ρήξει."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "4.1.8",
+    "form": "θαρσήσας",
+    "postag": "v-sapamn-",
+    "sentence": "ἐνδυσάμενος οὖν, ἀδελφοί, τὴν πίστιν τοῦ κυρίου καὶ μνησθεὶς ὧν ἐδίδαξέν με μεγαλείων, θαρσήσας εἰς τὸ θηρίον ἐμαυτὸν ἔδωκα."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "5   θαρσέω, -ῶ    (v.s. θαρρέω),   [in LXX chiefly for יָרֵא, c. neg.;]    to be of good courage: imperat., θάραει, -εῖτε, Mt 9:2, 22 14:27, Mk 6:50 10:49, Jo 16:33, Ac 23:11.†"
+}

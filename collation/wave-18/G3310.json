@@ -1,0 +1,238 @@
+{
+ "strong": "G3310",
+ "lemma": "μερίς",
+ "nt_freq": 5,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2CO 6:15",
+   "form": "μερὶς",
+   "morph": "N-NSF",
+   "gloss_en": "share",
+   "gloss_ja": "分け前",
+   "verse": "τίς δὲ συμφώνησις Χριστοῦ πρὸς Βελιάρ, ἢ τίς μερὶς πιστῷ μετὰ ἀπίστου;"
+  },
+  {
+   "ref": "ACT 16:12",
+   "form": "μερίδος",
+   "morph": "N-GSF",
+   "gloss_en": "district",
+   "gloss_ja": "分け前",
+   "verse": "κἀκεῖθεν εἰς Φιλίππους, ἥτις ἐστὶν πρώτη τῆς μερίδος Μακεδονίας πόλις, κολωνία. ἦμεν δὲ ἐν ταύτῃ τῇ πόλει διατρίβοντες ἡμέρας τινάς."
+  },
+  {
+   "ref": "ACT 8:21",
+   "form": "μερὶς",
+   "morph": "N-NSF",
+   "gloss_en": "part",
+   "gloss_ja": "分け前",
+   "verse": "οὐκ ἔστιν σοι μερὶς οὐδὲ κλῆρος ἐν τῷ λόγῳ τούτῳ, ἡ γὰρ καρδία σου οὐκ ἔστιν εὐθεῖα ἔναντι τοῦ θεοῦ."
+  },
+  {
+   "ref": "COL 1:12",
+   "form": "μερίδα",
+   "morph": "N-ASF",
+   "gloss_en": "share",
+   "gloss_ja": "分け前",
+   "verse": "εὐχαριστοῦντες τῷ πατρὶ τῷ ἱκανώσαντι ὑμᾶς εἰς τὴν μερίδα τοῦ κλήρου τῶν ἁγίων ἐν τῷ φωτί,"
+  },
+  {
+   "ref": "LUK 10:42",
+   "form": "μερίδα",
+   "morph": "N-ASF",
+   "gloss_en": "part",
+   "gloss_ja": "分け前",
+   "verse": "ὀλίγων δέ ἐστιν χρεία ἢ ἑνός· Μαριὰμ γὰρ τὴν ἀγαθὴν μερίδα ἐξελέξατο ἥτις οὐκ ἀφαιρεθήσεται αὐτῆς."
+  }
+ ],
+ "lxx": {
+  "total": 152,
+  "works": {
+   "Genesis": 7,
+   "Exodus": 1,
+   "Leviticus": 3,
+   "Numeri": 3,
+   "Deuteronomium": 8,
+   "Josue": 14,
+   "Judices": 1,
+   "Ruth": 3,
+   "Regnorum i": 5,
+   "Regnorum ii": 8,
+   "Regnorum iii": 2,
+   "Regnorum iv": 9,
+   "Paralipomenon i sive Chronicon i": 2,
+   "Paralipomenon ii sive Chronicon ii": 5,
+   "Esdras ii": 7,
+   "Esther": 4,
+   "Machabaeorum ii": 2,
+   "Machabaeorum iii": 1,
+   "Machabaeorum iv": 1,
+   "Psalmi": 7,
+   "Odae": 1,
+   "Proverbia": 2,
+   "Ecclesiastes": 7,
+   "Job": 5,
+   "Sapientia Salomonis": 3,
+   "Ecclesiasticus sive Siracides": 14,
+   "Psalmi Salomonis": 4,
+   "Amos": 3,
+   "Michaeas": 1,
+   "Nahum": 2,
+   "Habacuc": 1,
+   "Zacharias": 1,
+   "Isaias": 3,
+   "Jeremias": 5,
+   "Threni seu Lamentationes": 2,
+   "Ezechiel": 3,
+   "Daniel": 2
+  },
+  "representatives": [
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "22.27",
+    "form": "μερὶς",
+    "postag": "n-s---fn-",
+    "sentence": "οὐκ ἔστιν ὑμῖν μερὶς Κυρίου."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "44.23",
+    "form": "μερίδας",
+    "postag": "n-p---fa-",
+    "sentence": "καὶ διέστειλε μερίδας αὐτοῦ, ἐν φυλαῖς ἐμέρισε δεκαδύο."
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "9.25",
+    "form": "μερίδι",
+    "postag": "n-s---fd-",
+    "sentence": "ρῖψον αὐτὸν ἐν τῇ μερίδι ἀγροῦ Ναβουθαὶ τοῦ Ἰεζραηλίτου ·"
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "18.8",
+    "form": "μερίδα",
+    "postag": "n-s---fa-",
+    "sentence": "μερίδα μεμερισμένην φάγεται, πλὴν τῆς πράσεως τῆς κατὰ πατριάν."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "2.16",
+    "form": "Μερὶς",
+    "postag": "n-s---fn-",
+    "sentence": "καὶ ἐκλήθη τὸ ὄνομα τοῦ τόπου ἐκείνου Μερὶς τῶν ἐπιβούλων, ἥ ἐστιν ἐν Γαβαών."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "14.24",
+    "form": "μερίδος",
+    "postag": "n-s---fg-",
+    "sentence": "πλὴν ὧν ἔφαγον οἱ νεανίσκοι καὶ τῆς μερίδος τῶν ἀνδρῶν τῶν συμπορευθέντων μετ’ ἐμοῦ, Ἐσχώλ, Αὐνάν, Μαμβρῆ, οὗτοι λήψονται μερίδα."
+   },
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "21.36",
+    "form": "μερίδες",
+    "postag": "n-p---fn-",
+    "sentence": "καὶ ἀπὸ τῶν Λευιτῶν μερίδες Ἰούδα τῷ Βενιαμίν."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "141.6",
+    "form": "μερίς",
+    "postag": "n-s---fn-",
+    "sentence": "σὺ εἶ ἡ ἐλπίς μου, μερίς μου εἶ ἐν γῇ ζώντων."
+   },
+   {
+    "work_code": "ECC",
+    "work_ja": "コヘレトの言葉",
+    "work_src": "Ecclesiastes",
+    "ref": "11.2",
+    "form": "μερίδα",
+    "postag": "n-s---fa-",
+    "sentence": "δὸς μερίδα τοῖς ἑπτὰ καί γε τοῖς ὀκτώ, ὅτι οὐ γινώσκεις τί ἔσται πονηρὸν ἐπὶ τὴν γῆν."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "9.23",
+    "form": "μερίδα",
+    "postag": "n-s---fa-",
+    "sentence": "δός μοι τὴν μερίδα, ἣν ἔδωκά σοι, ἣν εἶπά σοι θεῖναι αὐτὴν παρά σοι."
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "10.16",
+    "form": "μερὶς",
+    "postag": "n-s---fn-",
+    "sentence": "τίς ἡμῶν ἡ μερὶς ἐν Δαυὶδ καὶ κληρονομία ἐν υἱῷ Ἰεσσαί;"
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "30.19",
+    "form": "μερίς",
+    "postag": "n-s---fn-",
+    "sentence": "ἥγησαι δέ με ἴσα πηλῷ, ἐν γῇ καὶ σποδῷ μου ἡ μερίς ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 3,
+  "works": {
+   "1 Clement": 3
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "35.8",
+    "form": "μερίδα",
+    "postag": "n-s---fa-",
+    "sentence": "συνέτρεχες αὐτῷ, καὶ μετὰ μοιχῶν τὴν μερίδα σου ἐτίθεις."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "29.2",
+    "form": "μερὶς",
+    "postag": "n-s---fn-",
+    "sentence": "ἐγενήθη μερὶς κυρίου λαὸς αὐτοῦ Ἰακώβ, σχοίνισμα κληρονομίας αὐτοῦ Ἰσραήλ."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "30.1",
+    "form": "μερὶς",
+    "postag": "n-s---fn-",
+    "sentence": "ἁγίου οὖν μερὶς ὑπάρχοντες ποιήσωμεν τὰ τοῦ ἁγιασμοῦ πάντα, φεύγοντες καταλαλιάς, μιαράς τε καὶ ἀνάγνους συμπλοκάς, μέθας τε καὶ νεωτερισμοὺς καὶ βδελυκτὰς ἐπιθυμίας, μυσερὰν μοιχείαν, βδελυκτὴν ὑπερηφανίαν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "5   μερίς, -ίδος, ἡ,    [in LXX chiefly חֵלֶק, חֶלְקָה;]      (as in cl.) a part, portion: Lk 10:42, Ac 8:21, II Co 6:15, Col 1:12.     In later Gk (v. MM, xvi), as geographical term, a division, district: Ac 16:12.†"
+}

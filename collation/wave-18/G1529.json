@@ -1,0 +1,206 @@
+{
+ "strong": "G1529",
+ "lemma": "εἴσοδος",
+ "nt_freq": 5,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1TH 1:9",
+   "form": "εἴσοδον",
+   "morph": "N-ASF",
+   "gloss_en": "reception",
+   "gloss_ja": "入口",
+   "verse": "αὐτοὶ γὰρ περὶ ἡμῶν ἀπαγγέλλουσιν ὁποίαν εἴσοδον ἔσχομεν πρὸς ὑμᾶς, καὶ πῶς ἐπεστρέψατε πρὸς τὸν θεὸν ἀπὸ τῶν εἰδώλων δουλεύειν θεῷ ζῶντι καὶ ἀληθινῷ,"
+  },
+  {
+   "ref": "1TH 2:1",
+   "form": "εἴσοδον",
+   "morph": "N-ASF",
+   "gloss_en": "coming",
+   "gloss_ja": "入口",
+   "verse": "Αὐτοὶ γὰρ οἴδατε, ἀδελφοί, τὴν εἴσοδον ἡμῶν τὴν πρὸς ὑμᾶς ὅτι οὐ κενὴ γέγονεν,"
+  },
+  {
+   "ref": "2PE 1:11",
+   "form": "εἴσοδος",
+   "morph": "N-NSF",
+   "gloss_en": "entrance",
+   "gloss_ja": "入口",
+   "verse": "οὕτως γὰρ πλουσίως ἐπιχορηγηθήσεται ὑμῖν ἡ εἴσοδος εἰς τὴν αἰώνιον βασιλείαν τοῦ κυρίου ἡμῶν καὶ σωτῆρος Ἰησοῦ Χριστοῦ."
+  },
+  {
+   "ref": "ACT 13:24",
+   "form": "εἰσόδου",
+   "morph": "N-GSF",
+   "gloss_en": "coming",
+   "gloss_ja": "入口",
+   "verse": "προκηρύξαντος Ἰωάννου πρὸ προσώπου τῆς εἰσόδου αὐτοῦ βάπτισμα μετανοίας παντὶ τῷ λαῷ Ἰσραήλ."
+  },
+  {
+   "ref": "HEB 10:19",
+   "form": "εἴσοδον",
+   "morph": "N-ASF",
+   "gloss_en": "enter",
+   "gloss_ja": "入口",
+   "verse": "Ἔχοντες οὖν, ἀδελφοί, παρρησίαν εἰς τὴν εἴσοδον τῶν ἁγίων ἐν τῷ αἵματι Ἰησοῦ,"
+  }
+ ],
+ "lxx": {
+  "total": 51,
+  "works": {
+   "Genesis": 1,
+   "Josue": 1,
+   "Judices": 3,
+   "Regnorum i": 3,
+   "Regnorum ii": 1,
+   "Regnorum iii": 3,
+   "Regnorum iv": 4,
+   "Paralipomenon i sive Chronicon i": 2,
+   "Paralipomenon ii sive Chronicon ii": 6,
+   "Esdras i": 1,
+   "Judith": 1,
+   "Machabaeorum i": 2,
+   "Machabaeorum iii": 1,
+   "Psalmi": 1,
+   "Proverbia": 2,
+   "Sapientia Salomonis": 1,
+   "Ecclesiasticus sive Siracides": 1,
+   "Psalmi Salomonis": 4,
+   "Malachias": 1,
+   "Isaias": 2,
+   "Jeremias": 1,
+   "Ezechiel": 8,
+   "Bel et Draco": 1
+  },
+  "representatives": [
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "47.20",
+    "form": "εἰσόδου",
+    "postag": "n-s---fg-",
+    "sentence": "ὁρίζει ἕως κατέναντι τῆς εἰσόδου Ἠμάθ, ἕως εἰσόδου αὐτοῦ ·"
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "16.1",
+    "form": "εἴσοδον",
+    "postag": "n-s---fa-",
+    "sentence": "καὶ ἐν τῷ ὀγδόῳ καὶ τριακοστῷ ἔτει τῆς βασιλείας Ἀσὰ ἀνέβη βασιλεὺς Ἰσραὴλ ἐπὶ Ἰούδαν καὶ ᾠκοδόμησε τὴν Ῥαμὰ τοῦ μὴ δοῦναι ἔξοδον καὶ εἴσοδον τῷ Ἀσὰ βασιλεῖ Ἰούδα."
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "23.11",
+    "form": "εἰσόδῳ",
+    "postag": "n-s---fd-",
+    "sentence": "καὶ κατέκαυσε τοὺς ἵππους, οὓς ἔδωκαν βασιλεῖς Ἰούδα τῷ ἡλίῳ ἐν τῇ εἰσόδῳ οἴκου Κυρίου εἰς τὸ γαζοφυλάκιον Νάθαν βασιλέως τοῦ εὐνούχου ἐν φαρουρίμ, καὶ τὸ ἅρμα τοῦ ἡλίου κατέκαυσε πυρί."
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "4.14",
+    "form": "εἴσοδος",
+    "postag": "n-s---fn-",
+    "sentence": "γένοιτο, κύριε, ἡ μερὶς αὐτοῦ ἐν ἀτιμίᾳ ἐνώπιόν σου, ἡ ἔξοδος αὐτοῦ ἐν στεναγμοῖς καὶ ἡ εἴσοδος αὐτοῦ ἐν ἀρᾷ ·"
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "1.24",
+    "form": "εἴσοδον",
+    "postag": "n-s---fa-",
+    "sentence": "δεῖξον ἡμῖν τῆς πόλεως τὴν εἴσοδον, καὶ ποιήσομεν μετὰ σοῦ ἔλεος."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "16.4",
+    "form": "εἴσοδός",
+    "postag": "n-s---fn-",
+    "sentence": "εἰρήνη ἡ εἴσοδός σου, ὁ βλέπων;"
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "3.7",
+    "form": "εἴσοδόν",
+    "postag": "n-s---fa-",
+    "sentence": "καὶ νῦν, Κύριε ὁ Θεός μου, σὺ ἔδωκας τὸν δοῦλόν σου ἀντὶ Δαυὶδ τοῦ πατρός μου, καὶ ἐγώ εἰμι παιδάριον μικρὸν καὶ οὐκ οἶδα τὴν ἔξοδόν μου καὶ τὴν εἴσοδόν μου, ὁ δὲ δοῦλός σου ἐν μέσῳ τοῦ λαοῦ σου, ὃν ἐξελέξω λαὸν πολύν, ὃς οὐκ ἀριθμηθήσεται."
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "13.5",
+    "form": "εἰσόδου",
+    "postag": "n-s---fg-",
+    "sentence": "καὶ ἐξεκκλησίασε Δαυὶδ τὸν πάντα Ἰσραὴλ ἀπὸ ὁρίων Αἰγύπτου καὶ ἕως εἰσόδου Ἡμὰθ τοῦ εἰσενέγκαι τὴν κιβωτὸν τοῦ Θεοῦ ἐκ πόλεως Ἰαρίμ."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "14.5",
+    "form": "εἴσοδον",
+    "postag": "n-s---fa-",
+    "sentence": "καὶ μετὰ πάσης τῆς δόξης αὐτοῦ ἔλαβε τὴν Ἰόππην εἰς λιμένα καὶ ἐποίησεν εἴσοδον ταῖς νήσοις τῆς θαλάσσης."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "8.3",
+    "form": "εἰσόδοις",
+    "postag": "n-p---fd-",
+    "sentence": "παρὰ γὰρ πύλαις δυναστῶν παρεδρεύει, ἐν δὲ εἰσόδοις ὑμνεῖται."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "37.28",
+    "form": "εἴσοδόν",
+    "postag": "n-s---fa-",
+    "sentence": "νῦν δὲ τὴν ἀνάπαυσίν σου καὶ τὴν ἔξοδόν σου καὶ τὴν εἴσοδόν σου ἐγὼ ἐπίσταμαι."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "30.27",
+    "form": "εἰσόδῳ",
+    "postag": "n-s---fd-",
+    "sentence": "εὐλόγησε γάρ με ὁ Θεὸς ἐπὶ τῇ σῇ εἰσόδῳ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.12.6",
+    "form": "εἴσοδός",
+    "postag": "n-s---fn-",
+    "sentence": "αὕτη μία εἴσοδός ἐστι πρὸς τὸν κύριον."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "5   εἴσ-οδος, -ου, ὁ     (< ὁδός)    [in LXX chiefly for בּוֹא ;]       a means of entering, place of entrance: He 10:19, II Pe 1:11 (cf. Westc., He., l.c.; MM, Exp., xii; but v. infr.).      a going in, entrance: Ac 13:24; c. gen. loc., He 10:19 (Thayer, s.v.; but v. supr.); seq. εἰς, II Pe 1:11 (Mayor, in l.; Thayer; but v. supr.); πρός, II Th 1:9 2:1.†"
+}

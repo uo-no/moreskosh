@@ -1,0 +1,193 @@
+{
+ "strong": "G349",
+ "lemma": "ἀνακράζω",
+ "nt_freq": 5,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 23:18",
+   "form": "Ἀνέκραγον",
+   "morph": "V-2AAI-3P",
+   "gloss_en": "cried out",
+   "gloss_ja": "叫ぶ",
+   "verse": "Ἀνέκραγον δὲ παμπληθεὶ λέγοντες· Αἶρε τοῦτον, ἀπόλυσον δὲ ἡμῖν τὸν Βαραββᾶν·"
+  },
+  {
+   "ref": "LUK 4:33",
+   "form": "ἀνέκραξεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "cried out",
+   "gloss_ja": "叫ぶ",
+   "verse": "καὶ ἐν τῇ συναγωγῇ ἦν ἄνθρωπος ἔχων πνεῦμα δαιμονίου ἀκαθάρτου, καὶ ἀνέκραξεν φωνῇ μεγάλῃ·"
+  },
+  {
+   "ref": "LUK 8:28",
+   "form": "ἀνακράξας",
+   "morph": "V-AAP-NSM",
+   "gloss_en": "cried out",
+   "gloss_ja": "叫ぶ",
+   "verse": "ἰδὼν δὲ τὸν Ἰησοῦν ἀνακράξας προσέπεσεν αὐτῷ καὶ φωνῇ μεγάλῃ εἶπεν· Τί ἐμοὶ καὶ σοί, Ἰησοῦ υἱὲ τοῦ θεοῦ τοῦ ὑψίστου; δέομαί σου, μή με βασανίσῃς·"
+  },
+  {
+   "ref": "MRK 1:23",
+   "form": "ἀνέκραξεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "cried out",
+   "gloss_ja": "叫ぶ",
+   "verse": "καὶ εὐθὺς ἦν ἐν τῇ συναγωγῇ αὐτῶν ἄνθρωπος ἐν πνεύματι ἀκαθάρτῳ καὶ ἀνέκραξεν"
+  },
+  {
+   "ref": "MRK 6:49",
+   "form": "ἀνέκραξαν",
+   "morph": "V-AAI-3P",
+   "gloss_en": "cried out",
+   "gloss_ja": "叫ぶ",
+   "verse": "οἱ δὲ ἰδόντες αὐτὸν ἐπὶ τῆς θαλάσσης περιπατοῦντα ἔδοξαν ὅτι φάντασμά ἐστιν καὶ ἀνέκραξαν,"
+  }
+ ],
+ "lxx": {
+  "total": 14,
+  "works": {
+   "Josue": 2,
+   "Judices": 1,
+   "Regnorum i": 1,
+   "Regnorum iii": 2,
+   "Machabaeorum i": 1,
+   "Machabaeorum iii": 1,
+   "Ecclesiasticus sive Siracides": 1,
+   "Joel": 1,
+   "Zacharias": 2,
+   "Ezechiel": 2
+  },
+  "representatives": [
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "6.4",
+    "form": "ἀνακραγέτω",
+    "postag": "v3sama---",
+    "sentence": "σὺ δὲ περίστησον αὐτῇ τοὺς μαχίμους κύκλῳ, καὶ ἔσται ὡς ἂν σαλπίσητε τῇ σάλπιγγι, ἀνακραγέτω πᾶς ὁ λαὸς ἅμα ·"
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "22.32",
+    "form": "ἀνέκραξεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἐκύκλωσαν αὐτὸν πολεμῆσαι, καὶ ἀνέκραξεν Ἰωσαφάτ."
+   },
+   {
+    "work_code": "ZEC",
+    "work_ja": "ゼカリヤ書",
+    "work_src": "Zacharias",
+    "ref": "1.14",
+    "form": "ἀνάκραγε",
+    "postag": "v2sama---",
+    "sentence": "ἀνάκραγε λέγων ·"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "9.1",
+    "form": "ἀνέκραγεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἀνέκραγεν εἰς τὰ ὦτά μου φωνῇ μεγάλῃ λέγων ·"
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "7.20",
+    "form": "ἀνέκραξαν",
+    "postag": "v3paia---",
+    "sentence": "καὶ ἐσάλπισαν αἱ τρεῖς ἀρχαὶ ἐν ταῖς κερατίναις καὶ συνέτριψαν τὰς ὑδρίας καὶ ἐκράτησαν ἐν χερσὶν ἀριστεραῖς αὐτῶν τὰς λαμπάδας καὶ ἐν χερσὶ δεξιαῖς αὐτῶν τὰς κερατίνας τοῦ σαλπίζειν καὶ ἀνέκραξαν ·"
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "4.5",
+    "form": "ἀνέκραξε",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἐγενήθη ὡς ἦλθεν ἡ κιβωτὸς Κυρίου εἰς τὴν παρεμβολήν, καὶ ἀνέκραξε πᾶς Ἰσραὴλ φωνῇ μεγάλῃ, καὶ ἤχησεν ἡ γῆ."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "2.27",
+    "form": "ἀνέκραξε",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἀνέκραξε Ματταθίας ἐν τῇ πόλει φωνῇ μεγάλῃ λέγων ·"
+   },
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "6.17",
+    "form": "ἀνέκραξαν",
+    "postag": "v3paia---",
+    "sentence": "καὶ θεωρήσαντες οἱ Ἰουδαῖοι μέγα εἰς οὐρανὸν ἀνέκραξαν, ὥστε καὶ τοὺς παρακειμένους αὐλῶνας συνηχήσαντας ἀκατάσχετον οἰμωγὴν ποιῆσαι παντὶ τῷ στρατοπέδῳ."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "50.16",
+    "form": "ἀνέκραγον",
+    "postag": "v3paia---",
+    "sentence": "τότε ἀνέκραγον υἱοὶ Ἀαρών, ἐν σάλπιγξιν ἐλαταῖς ἤχησαν, ἀκουστὴν ἐποίησαν φωνὴν μεγάλην εἰς μνημόσυνον ἔναντι Ὑψίστου."
+   },
+   {
+    "work_code": "JOL",
+    "work_ja": "ヨエル書",
+    "work_src": "Joel",
+    "ref": "4.16",
+    "form": "ἀνακεκράξεται",
+    "postag": "v3stim---",
+    "sentence": "ὁ δὲ Κύριος ἐκ Σιὼν ἀνακεκράξεται καὶ ἐξ Ἱερουσαλὴμ δώσει φωνὴν αὐτοῦ, καὶ σεισθήσεται ὁ οὐρανὸς καὶ ἡ γῆ ·"
+   },
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "6.5",
+    "form": "ἀνακραγόντων",
+    "postag": "v-papamg-",
+    "sentence": "καὶ ἀνακραγόντων αὐτῶν πεσεῖται αὐτόματα τὰ τείχη τῆς πόλεως, καὶ εἰσελεύσεται πᾶς ὁ λαὸς ὁρμήσας ἕκαστος κατὰ πρόσωπον εἰς τὴν πόλιν."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "12.24τ",
+    "form": "ἀνέκραξαν",
+    "postag": "v3paia---",
+    "sentence": "καὶ εἶπε πᾶς ὁ λαὸς ὡς ἀνὴρ εἷς, ἕκαστος τῷ πλησίον αὐτοῦ, καὶ ἀνέκραξαν ἅπαντες λέγοντες ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "3.8.9",
+    "form": "ἀνέκραγε",
+    "postag": "v3saia---",
+    "sentence": "ἡ δὲ ἀνέκραγε φωνῇ μεγάλῃ λέγουσα ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "5   ἀνα-κράζω     [in LXX for קרא, etc.;]    to cry out, shout: Mk 1:23 6:49, Lk 4:33 8:28 23:18.†"
+}

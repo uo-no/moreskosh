@@ -1,0 +1,252 @@
+{
+ "strong": "G1491",
+ "lemma": "εἶδος",
+ "nt_freq": 5,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1TH 5:22",
+   "form": "εἴδους",
+   "morph": "N-GSN",
+   "gloss_en": "form",
+   "gloss_ja": "姿",
+   "verse": "ἀπὸ παντὸς εἴδους πονηροῦ ἀπέχεσθε."
+  },
+  {
+   "ref": "2CO 5:7",
+   "form": "εἴδους",
+   "morph": "N-GSN",
+   "gloss_en": "sight",
+   "gloss_ja": "姿",
+   "verse": "διὰ πίστεως γὰρ περιπατοῦμεν, οὐ διὰ εἴδους"
+  },
+  {
+   "ref": "JHN 5:37",
+   "form": "εἶδος",
+   "morph": "N-ASN",
+   "gloss_en": "form",
+   "gloss_ja": "姿",
+   "verse": "καὶ ὁ πέμψας με πατὴρ ἐκεῖνος μεμαρτύρηκεν περὶ ἐμοῦ. οὔτε φωνὴν αὐτοῦ πώποτε ἀκηκόατε οὔτε εἶδος αὐτοῦ ἑωράκατε,"
+  },
+  {
+   "ref": "LUK 3:22",
+   "form": "εἴδει",
+   "morph": "N-DSN",
+   "gloss_en": "form",
+   "gloss_ja": "姿",
+   "verse": "καὶ καταβῆναι τὸ πνεῦμα τὸ ἅγιον σωματικῷ εἴδει ὡς περιστερὰν ἐπ’ αὐτόν, καὶ φωνὴν ἐξ οὐρανοῦ γενέσθαι· Σὺ εἶ ὁ υἱός μου ὁ ἀγαπητός, ἐν σοὶ εὐδόκησα."
+  },
+  {
+   "ref": "LUK 9:29",
+   "form": "εἶδος",
+   "morph": "N-NSN",
+   "gloss_en": "appearance",
+   "gloss_ja": "姿",
+   "verse": "καὶ ἐγένετο ἐν τῷ προσεύχεσθαι αὐτὸν τὸ εἶδος τοῦ προσώπου αὐτοῦ ἕτερον καὶ ὁ ἱματισμὸς αὐτοῦ λευκὸς ἐξαστράπτων."
+  }
+ ],
+ "lxx": {
+  "total": 56,
+  "works": {
+   "Genesis": 9,
+   "Exodus": 4,
+   "Leviticus": 1,
+   "Numeri": 6,
+   "Deuteronomium": 1,
+   "Judices": 2,
+   "Regnorum i": 2,
+   "Regnorum ii": 2,
+   "Esdras i": 1,
+   "Esther": 3,
+   "Judith": 2,
+   "Tobias": 2,
+   "Proverbia": 1,
+   "Canticum": 1,
+   "Job": 2,
+   "Sapientia Salomonis": 2,
+   "Ecclesiasticus sive Siracides": 3,
+   "Isaias": 4,
+   "Jeremias": 2,
+   "Threni seu Lamentationes": 1,
+   "Ezechiel": 3,
+   "Susanna": 2
+  },
+  "representatives": [
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "39.6",
+    "form": "εἴδει",
+    "postag": "n-s---nd-",
+    "sentence": "καὶ ἦν Ἰωσὴφ καλὸς τῷ εἴδει καὶ ὡραῖος τῇ ὄψει σφόδρα."
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "9.15",
+    "form": "εἶδος",
+    "postag": "n-s---nn-",
+    "sentence": "καὶ τὸ ἑσπέρας ἦν ἐπὶ τῆς σκηνῆς ὡς εἶδος πυρὸς ἕως πρωΐ."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "26.30",
+    "form": "εἶδος",
+    "postag": "n-s---na-",
+    "sentence": "καὶ ἀναστήσεις τὴν σκηνὴν κατὰ τὸ εἶδος τὸ δεδειγμένον σοι ἐν τῷ ὄρει."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "52.14",
+    "form": "εἶδός",
+    "postag": "n-s---nn-",
+    "sentence": "ὃν τρόπον ἐκστήσονται ἐπὶ σὲ πολλοὶ — οὕτως ἀδοξήσει ἀπὸ τῶν ἀνθρώπων τὸ εἶδός σου καὶ ἡ δόξα σου ἀπὸ υἱῶν ἀνθρώπων — οὕτω θαυμάσονται ἔθνη πολλὰ ἐπ’ αὐτῷ, καὶ συνέξουσι βασιλεῖς τὸ στόμα αὐτῶν ·"
+   },
+   {
+    "work_code": "EST",
+    "work_ja": "エステル記",
+    "work_src": "Esther",
+    "ref": "2.7",
+    "form": "εἴδει",
+    "postag": "n-s---nd-",
+    "sentence": "καὶ ἦν τὸ κοράσιον καλὸν τῷ εἴδει."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "23.16",
+    "form": "εἴδη",
+    "postag": "n-p---nn-",
+    "sentence": "δύο εἴδη πληθύνουσιν ἁμαρτίας, καὶ τὸ τρίτον ἐπάξει ὀργήν ·"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "1.26",
+    "form": "εἶδος",
+    "postag": "n-s---nn-",
+    "sentence": "ὡς ὅρασις λίθου σαπφείρου ὁμοίωμα θρόνου ἐπ’ αὐτοῦ, καὶ ἐπὶ τοῦ ὁμοιώματος τοῦ θρόνου ὁμοίωμα ὡς εἶδος ἀνθρώπου ἄνωθεν."
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "13.6",
+    "form": "εἶδος",
+    "postag": "n-s---nn-",
+    "sentence": "ἄνθρωπος Θεοῦ ἦλθε πρός με, καὶ εἶδος αὐτοῦ ὡς εἶδος ἀγγέλου Θεοῦ, φοβερὸν σφόδρα ·"
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "25.3",
+    "form": "εἴδει",
+    "postag": "n-s---nd-",
+    "sentence": "καὶ ἡ γυνὴ αὐτοῦ ἀγαθὴ συνέσει καὶ καλὴ τῷ εἴδει σφόδρα, καὶ ὁ ἄνθρωπος σκληρὸς καὶ πονηρὸς ἐν ἐπιτηδεύμασι, καὶ ὁ ἄνθρωπος κυνικός."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "13.1",
+    "form": "εἴδει",
+    "postag": "n-s---nd-",
+    "sentence": "καὶ ἐγενήθη μετὰ ταῦτα καὶ τῷ Ἀβεσσαλὼμ υἱῷ Δαυὶδ ἀδελφὴ καλὴ τῷ εἴδει σφόδρα, καὶ ὄνομα αὐτῇ Θημάρ, καὶ ἠγάπησεν αὐτὴν Ἀμνὼν υἱὸς Δαυίδ."
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "8.7",
+    "form": "εἴδει",
+    "postag": "n-s---nd-",
+    "sentence": "καὶ ἦν καλὴ τῷ εἴδει καὶ ὡραία τῇ ὄψει σφόδρα ·"
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "11.9",
+    "form": "Εἶδόν",
+    "postag": "n-s---ma-",
+    "sentence": "καὶ ἀνέδραμεν Αννα καὶ ἐπέπεσεν ἐπὶ τὸν τράχηλον τοῦ υἱοῦ αὐτῆς καὶ εἶπεν αὐτῷ Εἶδόν σε, παιδίον ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 6,
+  "works": {
+   "1 Clement": 4,
+   "To Diognetus": 1,
+   "Martyrdom of Polycarp": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "16.3",
+    "form": "εἶδος",
+    "postag": "n-s---nn-",
+    "sentence": "οὐκ ἔστιν αὐτῷ εἶδος οὐ-δὲ δόξα, καὶ εἴδομεν αὐτόν, καὶ οὐκ εἶχεν εἶδος οὐ-δὲ κάλλος, ἀλλὰ τὸ εἶδος αὐτοῦ ἄτιμον, ἐκλεῖπον παρὰ τὸ εἶδος τῶν ἀνθρώπων ·"
+   },
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "2",
+    "form": "εἴδους",
+    "postag": "n-s---ng-",
+    "sentence": "ἴδε μὴ μόνον τοῖς ὀφθαλμοῖς, ἀλλὰ καὶ τῇ φρονήσει, τίνος ὑποστάσεως ἢ τίνος εἴδους τυγχάνουσιν, οὓς ἐρεῖτε καὶ νομίζετε θεούς."
+   },
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "15.2",
+    "form": "εἶδος",
+    "postag": "n-s---na-",
+    "sentence": "τὸ γὰρ πῦρ καμάρας εἶδος ποιῆσαν, ὥσπερ ὀθόνη πλοίου ὑπὸ πνεύματος πληρουμένη, κύκλῳ περιετείχισεν τὸ σῶμα τοῦ μάρτυρος ·"
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "16.3",
+    "form": "εἶδος",
+    "postag": "n-s---na-",
+    "sentence": "οὐκ ἔστιν αὐτῷ εἶδος οὐ-δὲ δόξα, καὶ εἴδομεν αὐτόν, καὶ οὐκ εἶχεν εἶδος οὐ-δὲ κάλλος, ἀλλὰ τὸ εἶδος αὐτοῦ ἄτιμον, ἐκλεῖπον παρὰ τὸ εἶδος τῶν ἀνθρώπων ·"
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "16.3",
+    "form": "εἶδος",
+    "postag": "n-s---nn-",
+    "sentence": "οὐκ ἔστιν αὐτῷ εἶδος οὐ-δὲ δόξα, καὶ εἴδομεν αὐτόν, καὶ οὐκ εἶχεν εἶδος οὐ-δὲ κάλλος, ἀλλὰ τὸ εἶδος αὐτοῦ ἄτιμον, ἐκλεῖπον παρὰ τὸ εἶδος τῶν ἀνθρώπων ·"
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "16.3",
+    "form": "εἶδος",
+    "postag": "n-s---na-",
+    "sentence": "οὐκ ἔστιν αὐτῷ εἶδος οὐ-δὲ δόξα, καὶ εἴδομεν αὐτόν, καὶ οὐκ εἶχεν εἶδος οὐ-δὲ κάλλος, ἀλλὰ τὸ εἶδος αὐτοῦ ἄτιμον, ἐκλεῖπον παρὰ τὸ εἶδος τῶν ἀνθρώπων ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "5     εἶδος, -ους, τό,     [in LXX for מַרְאֶה, תֹּאַר, etc.;]               that which is seen, appearance, external form: Lk 3:22 9:29, Jo 5:37, II Co 5:7 (ICC in l.).          form, sort, kind: I Th 5:22.†"
+}

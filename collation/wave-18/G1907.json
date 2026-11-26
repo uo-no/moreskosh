@@ -1,0 +1,181 @@
+{
+ "strong": "G1907",
+ "lemma": "ἐπέχω",
+ "nt_freq": 5,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1TI 4:16",
+   "form": "ἔπεχε",
+   "morph": "V-PAM-2S",
+   "gloss_en": "pay close attention to",
+   "gloss_ja": "注目する",
+   "verse": "ἔπεχε σεαυτῷ καὶ τῇ διδασκαλίᾳ· ἐπίμενε αὐτοῖς· τοῦτο γὰρ ποιῶν καὶ σεαυτὸν σώσεις καὶ τοὺς ἀκούοντάς σου."
+  },
+  {
+   "ref": "ACT 19:22",
+   "form": "ἐπέσχεν",
+   "morph": "V-2AAI-3S",
+   "gloss_en": "stayed",
+   "gloss_ja": "注目する",
+   "verse": "ἀποστείλας δὲ εἰς τὴν Μακεδονίαν δύο τῶν διακονούντων αὐτῷ, Τιμόθεον καὶ Ἔραστον, αὐτὸς ἐπέσχεν χρόνον εἰς τὴν Ἀσίαν."
+  },
+  {
+   "ref": "ACT 3:5",
+   "form": "ἐπεῖχεν",
+   "morph": "V-IAI-3S",
+   "gloss_en": "fixed ~ attention",
+   "gloss_ja": "注目する",
+   "verse": "ὁ δὲ ἐπεῖχεν αὐτοῖς προσδοκῶν τι παρ’ αὐτῶν λαβεῖν."
+  },
+  {
+   "ref": "LUK 14:7",
+   "form": "ἐπέχων",
+   "morph": "V-PAP-NSM",
+   "gloss_en": "noticed",
+   "gloss_ja": "注目する",
+   "verse": "Ἔλεγεν δὲ πρὸς τοὺς κεκλημένους παραβολήν, ἐπέχων πῶς τὰς πρωτοκλισίας ἐξελέγοντο, λέγων πρὸς αὐτούς·"
+  },
+  {
+   "ref": "PHP 2:16",
+   "form": "ἐπέχοντες",
+   "morph": "V-PAP-NPM",
+   "gloss_en": "holding fast",
+   "gloss_ja": "注目する",
+   "verse": "λόγον ζωῆς ἐπέχοντες, εἰς καύχημα ἐμοὶ εἰς ἡμέραν Χριστοῦ, ὅτι οὐκ εἰς κενὸν ἔδραμον οὐδὲ εἰς κενὸν ἐκοπίασα."
+  }
+ ],
+ "lxx": {
+  "total": 24,
+  "works": {
+   "Genesis": 2,
+   "Deuteronomium": 1,
+   "Judices": 1,
+   "Regnorum iii": 2,
+   "Regnorum iv": 1,
+   "Paralipomenon ii sive Chronicon ii": 2,
+   "Machabaeorum ii": 2,
+   "Job": 3,
+   "Ecclesiasticus sive Siracides": 9,
+   "Jeremias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "5.8",
+    "form": "ἔπεχε",
+    "postag": "v2spma---",
+    "sentence": "μὴ ἔπεχε ἐπὶ χρήμασιν ἀδίκοις ·"
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "18.2",
+    "form": "ἐπίσχες",
+    "postag": "v2sama---",
+    "sentence": "ἐπίσχες, ἵνα καὶ αὐτοὶ λαλήσωμεν."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "8.10",
+    "form": "ἐπισχὼν",
+    "postag": "v-sapamn-",
+    "sentence": "καὶ ἐπισχὼν ἔτι ἡμέρας ἑπτὰ ἑτέρας, πάλιν ἐξαπέστειλε τὴν περιστερὰν ἐκ τῆς κιβωτοῦ ·"
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "22.6",
+    "form": "ἐπίσχω",
+    "postag": "v1sasa---",
+    "sentence": "εἰ πορευθῶ εἰς Ῥεμμὰθ Γαλαὰδ εἰς πόλεμον ἢ ἐπίσχω;"
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "18.5",
+    "form": "ἐπίσχω",
+    "postag": "v1sasa---",
+    "sentence": "εἰ πορευθῶ εἰς Ῥαμὼθ Γαλαὰδ εἰς πόλεμον ἢ ἐπίσχω;"
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "9.25",
+    "form": "ἐπέχοντας",
+    "postag": "v-pppama-",
+    "sentence": "πρὸς δὲ τούτοις κατανοῶν τοὺς παρακειμένους δυνάστας καὶ γειτνιῶντας τῇ βασιλείᾳ τοῖς καιροῖς ἐπέχοντας καὶ προσδεχομένους τὸ ἀποβησόμενον, ἀναδέδειχα τὸν υἱόν μου Ἀντίοχον βασιλέα, ὃν πολλάκις ἀνατρέχων εἰς τὰς ἐπάνω σατραπείας τοῖς πλείστοις ὑμῶν παρακατετιθέμην καὶ συνίστων ·"
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "18.22",
+    "form": "ἐφέξεσθε",
+    "postag": "v2pfim---",
+    "sentence": "ἐν ἀσεβείᾳ ἐλάλησεν ὁ προφήτης ἐκεῖνος, οὐκ ἐφέξεσθε αὐτοῦ."
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "20.28",
+    "form": "ἐπίσχωμεν",
+    "postag": "v1pasa---",
+    "sentence": "εἰ προσθῶμεν ἔτι ἐξελθεῖν εἰς παράταξιν πρὸς υἱοὺς Βενιαμὶν ἀδελφοὺς ἡμῶν ἢ ἐπίσχωμεν;"
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "4.24",
+    "form": "ἐπίσχῃς",
+    "postag": "v2sasa---",
+    "sentence": "ἄγε πορεύου, μὴ ἐπίσχῃς μοι τοῦ ἐπιβῆναι, ὅτι ἐὰν εἴπω σοι ·"
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "6.11",
+    "form": "ἐπέσχον",
+    "postag": "v1saia---",
+    "sentence": "καὶ τὸν θυμόν μου ἔπλησα καὶ ἐπέσχον καὶ οὐ συνετέλεσα αὐτούς."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "34.15",
+    "form": "ἐπέχει",
+    "postag": "v3spia---",
+    "sentence": "τίνι ἐπέχει καὶ τίς ἀντιστήριγμα αὐτοῦ;"
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "30.26",
+    "form": "ἐπέχων",
+    "postag": "v-sppamn-",
+    "sentence": "ἐγὼ δὲ ἐπέχων ἀγαθοῖς, ἰδοὺ συνήντησάν μοι μᾶλλον ἡμέραι κακῶν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "5   ἐπ-έχω     [in LXX for חָדַל, etc.; also Si 8:1 31(34):2, II Mac 5:25 9:25, al. ;]    to hold upon.    Like παρέχω (as in Hom., al.), to hold out, offer: λόγον ζωῆς, Phl 2:16.    to hold or direct towards, Sc.νοῦν;    absol., to intend, purpose;    to observe, give attention to (v. MM, Exp., xiv): seq. πῶς, Lk 14:7; c. dat. pers., Ac 3:5, I Ti 4:16.    to stay, wait: Ac 19:22 (in legal phrase, MM, Exp., l.c.).†"
+}

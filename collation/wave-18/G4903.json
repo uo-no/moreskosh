@@ -1,0 +1,95 @@
+{
+ "strong": "G4903",
+ "lemma": "συνεργέω",
+ "nt_freq": 5,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 16:16",
+   "form": "συνεργοῦντι",
+   "morph": "V-PAP-DSM",
+   "gloss_en": "works ~ with",
+   "gloss_ja": "共に働く",
+   "verse": "ἵνα καὶ ὑμεῖς ὑποτάσσησθε τοῖς τοιούτοις καὶ παντὶ τῷ συνεργοῦντι καὶ κοπιῶντι."
+  },
+  {
+   "ref": "2CO 6:1",
+   "form": "Συνεργοῦντες",
+   "morph": "V-PAP-NPM",
+   "gloss_en": "working together with",
+   "gloss_ja": "共に働く",
+   "verse": "Συνεργοῦντες δὲ καὶ παρακαλοῦμεν μὴ εἰς κενὸν τὴν χάριν τοῦ θεοῦ δέξασθαι ὑμᾶς·"
+  },
+  {
+   "ref": "JAS 2:22",
+   "form": "συνήργει",
+   "morph": "V-IAI-3S",
+   "gloss_en": "working together",
+   "gloss_ja": "共に働く",
+   "verse": "βλέπεις ὅτι ἡ πίστις συνήργει τοῖς ἔργοις αὐτοῦ καὶ ἐκ τῶν ἔργων ἡ πίστις ἐτελειώθη,"
+  },
+  {
+   "ref": "MRK 16:20",
+   "form": "συνεργοῦντος",
+   "morph": "V-PAP-GSM",
+   "gloss_en": "worked with",
+   "gloss_ja": "共に働く",
+   "verse": "ἐκεῖνοι δὲ ἐξελθόντες ἐκήρυξαν πανταχοῦ, τοῦ κυρίου συνεργοῦντος καὶ τὸν λόγον βεβαιοῦντος διὰ τῶν ἐπακολουθούντων σημείων."
+  },
+  {
+   "ref": "ROM 8:28",
+   "form": "συνεργεῖ",
+   "morph": "V-PAI-3S",
+   "gloss_en": "work together",
+   "gloss_ja": "共に働く",
+   "verse": "Οἴδαμεν δὲ ὅτι τοῖς ἀγαπῶσι τὸν θεὸν πάντα συνεργεῖ εἰς ἀγαθόν, τοῖς κατὰ πρόθεσιν κλητοῖς οὖσιν."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Esdras i": 1,
+   "Machabaeorum i": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1ES",
+    "work_ja": "エズラ記（ギリシャ語）",
+    "work_src": "Esdras i",
+    "ref": "7.2",
+    "form": "συνεργοῦντες",
+    "postag": "v-pppamn-",
+    "sentence": "τότε Σισίννης ἔπαρχος Κοίλης Συρίας καὶ Φοινίκης, καὶ Σαθραβουζάνης καὶ οἱ συνεταῖροι κατακολουθήσαντες τοῖς ὑπὸ τοῦ βασιλέως Δαρείου προσταγεῖσιν ἐπεστάτουν τῶν ἱερῶν ἔργων ἐπιμελέστερον συνεργοῦντες τοῖς πρεσβυτέροις τῶν Ἰουδαίων καὶ ἱεροστάταις."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "12.1",
+    "form": "συνεργεῖ",
+    "postag": "v3spia---",
+    "sentence": "καὶ εἶδεν Ἰωνάθαν ὅτι ὁ καιρὸς αὐτῷ συνεργεῖ, καὶ ἐπέλεξεν ἄνδρας καὶ ἀπέστειλεν εἰς Ῥώμην στῆσαι καὶ ἀνανεώσασθαι τὴν πρὸς αὐτοὺς φιλίαν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "22.6.6",
+    "form": "συνεργήσασαν",
+    "postag": "v-sapafa-",
+    "sentence": "πολιτευσαμένην οὖν αὐτὴν καλῶς καὶ ἁγνῶς καὶ συγκοπιάσασαν τῷ πνεύματι καὶ συνεργήσασαν ἐν παντὶ πράγματι, ἰσχυρῶς καὶ ἀνδρείως ἀναστραφεῖσαν, μετὰ τοῦ πνεύματος τοῦ ἁγίου εἵλατο κοινωνόν ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "5 ** συνεργέω, -ῶ     [in LXX: I Es 7:2, I Mac 12:1 * ;]     prop., to work together (with): absol., Mk 16:[20], I Co 16:16, II Co 6:1; c. dat., Ja 2:22; dat. commod., Ro 8:28, T, R, txt. (but v. infr.).    In Hellenistic writers (M, Pr., 65), trans., to cause to work together (cf. ICC, in l.): c. acc. rei, Ro 8:28 [WH] R, mg. (but v. supr.).†"
+}

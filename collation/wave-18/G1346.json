@@ -1,0 +1,295 @@
+{
+ "strong": "G1346",
+ "lemma": "δικαίως",
+ "nt_freq": 5,
+ "status": "expanded-covered",
+ "glaux_lemma": "δικαιος",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 15:34",
+   "form": "δικαίως",
+   "morph": "ADV",
+   "gloss_en": "right mind",
+   "gloss_ja": "正しく",
+   "verse": "ἐκνήψατε δικαίως καὶ μὴ ἁμαρτάνετε, ἀγνωσίαν γὰρ θεοῦ τινες ἔχουσιν· πρὸς ἐντροπὴν ὑμῖν λαλῶ."
+  },
+  {
+   "ref": "1PE 2:23",
+   "form": "δικαίως",
+   "morph": "ADV",
+   "gloss_en": "justly",
+   "gloss_ja": "正しく",
+   "verse": "ὃς λοιδορούμενος οὐκ ἀντελοιδόρει, πάσχων οὐκ ἠπείλει, παρεδίδου δὲ τῷ κρίνοντι δικαίως·"
+  },
+  {
+   "ref": "1TH 2:10",
+   "form": "δικαίως",
+   "morph": "ADV",
+   "gloss_en": "righteously",
+   "gloss_ja": "正しく",
+   "verse": "ὑμεῖς μάρτυρες καὶ ὁ θεός, ὡς ὁσίως καὶ δικαίως καὶ ἀμέμπτως ὑμῖν τοῖς πιστεύουσιν ἐγενήθημεν,"
+  },
+  {
+   "ref": "LUK 23:41",
+   "form": "δικαίως",
+   "morph": "ADV",
+   "gloss_en": "justly",
+   "gloss_ja": "正しく",
+   "verse": "καὶ ἡμεῖς μὲν δικαίως, ἄξια γὰρ ὧν ἐπράξαμεν ἀπολαμβάνομεν· οὗτος δὲ οὐδὲν ἄτοπον ἔπραξεν."
+  },
+  {
+   "ref": "TIT 2:12",
+   "form": "δικαίως",
+   "morph": "ADV",
+   "gloss_en": "upright",
+   "gloss_ja": "正しく",
+   "verse": "παιδεύουσα ἡμᾶς, ἵνα ἀρνησάμενοι τὴν ἀσέβειαν καὶ τὰς κοσμικὰς ἐπιθυμίας σωφρόνως καὶ δικαίως καὶ εὐσεβῶς ζήσωμεν ἐν τῷ νῦν αἰῶνι,"
+  }
+ ],
+ "lxx": {
+  "total": 445,
+  "works": {
+   "Genesis": 12,
+   "Exodus": 4,
+   "Leviticus": 3,
+   "Numeri": 1,
+   "Deuteronomium": 10,
+   "Regnorum i": 3,
+   "Regnorum ii": 1,
+   "Regnorum iii": 2,
+   "Regnorum iv": 1,
+   "Paralipomenon ii sive Chronicon ii": 2,
+   "Esdras i": 1,
+   "Esdras ii": 3,
+   "Esther": 4,
+   "Tobias": 12,
+   "Machabaeorum i": 2,
+   "Machabaeorum ii": 13,
+   "Machabaeorum iii": 5,
+   "Machabaeorum iv": 8,
+   "Psalmi": 54,
+   "Odae": 9,
+   "Proverbia": 106,
+   "Ecclesiastes": 10,
+   "Job": 37,
+   "Sapientia Salomonis": 29,
+   "Ecclesiasticus sive Siracides": 7,
+   "Psalmi Salomonis": 34,
+   "Osee": 1,
+   "Amos": 2,
+   "Joel": 1,
+   "Jonas": 1,
+   "Habacuc": 3,
+   "Sophonias": 1,
+   "Zacharias": 2,
+   "Malachias": 1,
+   "Isaias": 19,
+   "Jeremias": 6,
+   "Baruch": 1,
+   "Threni seu Lamentationes": 2,
+   "Epistula Jeremiae": 1,
+   "Ezechiel": 19,
+   "Susanna": 5,
+   "Daniel": 7
+  },
+  "representatives": [
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "10.22",
+    "form": "δικαίου",
+    "postag": "a-s---mg-",
+    "sentence": "εὐλογία Κυρίου ἐπὶ κεφαλὴν δικαίου ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "10.3",
+    "form": "δίκαιος",
+    "postag": "a-s---mn-",
+    "sentence": "ὁ δὲ δίκαιος τί ἐποίησε;"
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "33.12",
+    "form": "δίκαιός",
+    "postag": "a-s---mn-",
+    "sentence": "δίκαιός εἰμι, καὶ οὐκ ἐπακήκοέ μου;"
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "13.11",
+    "form": "δικαίων",
+    "postag": "a-p---mg-",
+    "sentence": "ἡ γὰρ ζωὴ τῶν δικαίων εἰς τὸν αἰῶνα ·"
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "10.10",
+    "form": "δίκαιον",
+    "postag": "a-s---ma-",
+    "sentence": "αὕτη φυγάδα ὀργῆς ἀδελφοῦ δίκαιον ὡδήγησεν ἐν τρίβοις εὐθείαις ·"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "59.4",
+    "form": "δίκαια",
+    "postag": "a-p---na-",
+    "sentence": "οὐθεὶς λαλεῖ δίκαια, οὐ-δέ ἐστι κρίσις ἀληθινή ·"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "33.13",
+    "form": "δικαίῳ",
+    "postag": "a-s---nd-",
+    "sentence": "ἐν τῷ εἰπεῖν με τῷ δικαίῳ ·"
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "13.7",
+    "form": "δικαίως",
+    "postag": "d--------",
+    "sentence": "τοιούτῳ μόρῳ τὸν παράνομον συνέβη θανεῖν, μη-δὲ τῆς γῆς τυχόντα Μενέλαον, πάνυ δικαίως."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "18.24",
+    "form": "δίκαιοι",
+    "postag": "a-p---mn-",
+    "sentence": "ἐὰν ὦσι πεντήκοντα δίκαιοι ἐν τῇ πόλει, ἀπολεῖς αὐτούς;"
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "3.2",
+    "form": "δικαίαν",
+    "postag": "a-s---fa-",
+    "sentence": "δίκαιος εἶ, Κύριε, καὶ πάντα τὰ ἔργα σου καὶ πᾶσαι αἱ ὁδοί σου ἐλεημοσύναι καὶ ἀλήθεια, καὶ κρίσιν ἀληθινὴν καὶ δικαίαν σὺ κρίνεις εἰς τὸν αἰῶνα."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "32.4",
+    "form": "δίκαιος",
+    "postag": "a-s---mn-",
+    "sentence": "Θεὸς πιστός, καὶ οὐκ ἔστιν ἀδικία, δίκαιος καὶ ὅσιος Κύριος."
+   },
+   {
+    "work_code": "ECC",
+    "work_ja": "コヘレトの言葉",
+    "work_src": "Ecclesiastes",
+    "ref": "7.16",
+    "form": "δίκαιος",
+    "postag": "a-s---mn-",
+    "sentence": "μὴ γίνου δίκαιος πολύ, μη-δὲ σοφίζου περισσά, μήποτε ἐκπλαγῇς."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 94,
+  "works": {
+   "Barnabas": 11,
+   "1 Clement": 23,
+   "2 Clement": 12,
+   "Didache": 3,
+   "To Diognetus": 2,
+   "Hermas, Pastor": 35,
+   "Ignatius, Letters": 4,
+   "Martyrdom of Polycarp": 4
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "11.1.1",
+    "form": "δικαίῳ",
+    "postag": "a-s---md-",
+    "sentence": "κεῖνται οὖν ἐπὶ δικαίῳ καὶ ἀδίκῳ ·"
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "30.4",
+    "form": "δίκαιος",
+    "postag": "a-s---mn-",
+    "sentence": "ἢ ὁ εὔλαλος οἴεται εἶναι δίκαιος;"
+   },
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "20.3",
+    "form": "δικαίων",
+    "postag": "a-p---mg-",
+    "sentence": "οὐδεὶς τῶν δικαίων ταχὺν καρπὸν ἔλαβεν, ἀλλ’ ἐκδέχεται αὐτόν."
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "6.7",
+    "form": "δίκαιον",
+    "postag": "a-s---ma-",
+    "sentence": "δήσωμεν τὸν δίκαιον, ὅτι δύσχρηστος ἡμῖν ἐστίν."
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "2.9.2",
+    "form": "δικαίως",
+    "postag": "d--------",
+    "sentence": "καὶ διὰ τοῦτο, ὃν δικαίως ἀνέμενον, παρὼν ἤγειρεν αὐτοὺς ἐκ νεκρῶν."
+   },
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "11.1",
+    "form": "δίκαια",
+    "postag": "a-p---na-",
+    "sentence": "καλὸν δὲ μετατίθεσθαι ἀπὸ τῶν χαλεπῶν ἐπὶ τὰ δίκαια."
+   },
+   {
+    "work_code": "DID",
+    "work_ja": "ディダケー",
+    "work_src": "Didache",
+    "ref": "5.2",
+    "form": "δικαίᾳ",
+    "postag": "a-s---fd-",
+    "sentence": "διῶκται ἀγαθῶν, μισοῦντες ἀλήθειαν, ἀγαπῶντες ψεῦδος, οὐ γινώσκοντες μισθὸν δικαιοσύνης, οὐ κολλώμενοι ἀγαθῷ οὐ-δὲ κρίσει δικαίᾳ, ἀγρυπνοῦντες οὐκ εἰς τὸ ἀγαθόν, ἀλλ’ εἰς τὸ πονηρόν ὧν μακρὰν πραΰτης καὶ ὑπομονή, μάταια ἀγαπῶντες, διώκοντες ἀνταπόδομα, οὐκ ἐλεοῦντες πτωχόν, οὐ πονοῦντες ἐπὶ καταπονουμένῳ, οὐ γινώσκοντες τὸν ποιήσαντα αὐτούς, φονεῖς τέκνων, φθορεῖς πλάσματος θεοῦ, ἀποστρεφόμενοι τὸν ἐνδεόμενον, καταπονοῦντες τὸν θλιβόμενον, πλουσίων παράκλητοι, πενήτων ἄνομοι κριταί, πανθαμάρτητοι ·"
+   },
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "9",
+    "form": "δικαίῳ",
+    "postag": "a-s---nd-",
+    "sentence": "ἵνα ἀνομία μὲν πολλῶν ἐν δικαίῳ ἑνὶ κρυβῇ, δικαιοσύνη δὲ ἑνὸς πολλοὺς ἀνόμους δικαιοσύνῃ."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "5   δικαίως      adv.     (< δίκαιος, q.v.),    [in LXX for צֶדֶק, etc. ;]       righteously: I Co 15:34, I Th 2:10, Tit 2:12.      justly: Lk 23:41, I Pe 2:23.†"
+}

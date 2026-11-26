@@ -1,0 +1,243 @@
+{
+ "strong": "G1705",
+ "lemma": "ἐμπίμπλημι",
+ "nt_freq": 5,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 14:17",
+   "form": "ἐμπιπλῶν",
+   "morph": "V-PAP-NSM",
+   "gloss_en": "filling",
+   "gloss_ja": "満たす",
+   "verse": "καίτοι οὐκ ἀμάρτυρον αὑτὸν ἀφῆκεν ἀγαθουργῶν, οὐρανόθεν ὑμῖν ὑετοὺς διδοὺς καὶ καιροὺς καρποφόρους, ἐμπιπλῶν τροφῆς καὶ εὐφροσύνης τὰς καρδίας ὑμῶν."
+  },
+  {
+   "ref": "JHN 6:12",
+   "form": "ἐνεπλήσθησαν",
+   "morph": "V-API-3P",
+   "gloss_en": "satisfied",
+   "gloss_ja": "満たす",
+   "verse": "ὡς δὲ ἐνεπλήσθησαν λέγει τοῖς μαθηταῖς αὐτοῦ· Συναγάγετε τὰ περισσεύσαντα κλάσματα, ἵνα μή τι ἀπόληται."
+  },
+  {
+   "ref": "LUK 1:53",
+   "form": "ἐνέπλησεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "filled",
+   "gloss_ja": "満たす",
+   "verse": "πεινῶντας ἐνέπλησεν ἀγαθῶν καὶ πλουτοῦντας ἐξαπέστειλεν κενούς."
+  },
+  {
+   "ref": "LUK 6:25",
+   "form": "ἐμπεπλησμένοι",
+   "morph": "V-RPP-NPM",
+   "gloss_en": "full",
+   "gloss_ja": "満たす",
+   "verse": "οὐαὶ ὑμῖν, οἱ ἐμπεπλησμένοι νῦν, ὅτι πεινάσετε. οὐαί, οἱ γελῶντες νῦν, ὅτι πενθήσετε καὶ κλαύσετε."
+  },
+  {
+   "ref": "ROM 15:24",
+   "form": "ἐμπλησθῶ",
+   "morph": "V-APS-1S",
+   "gloss_en": "enjoyed",
+   "gloss_ja": "満たす",
+   "verse": "ὡς ἂν πορεύωμαι εἰς τὴν Σπανίαν, ἐλπίζω γὰρ διαπορευόμενος θεάσασθαι ὑμᾶς καὶ ὑφ’ ὑμῶν προπεμφθῆναι ἐκεῖ ἐὰν ὑμῶν πρῶτον ἀπὸ μέρους ἐμπλησθῶ"
+  }
+ ],
+ "lxx": {
+  "total": 141,
+  "works": {
+   "Genesis": 1,
+   "Exodus": 7,
+   "Leviticus": 1,
+   "Numeri": 1,
+   "Deuteronomium": 12,
+   "Ruth": 2,
+   "Regnorum i": 1,
+   "Regnorum iv": 1,
+   "Paralipomenon ii sive Chronicon ii": 2,
+   "Esdras i": 2,
+   "Esdras ii": 1,
+   "Esther": 1,
+   "Machabaeorum iii": 2,
+   "Psalmi": 10,
+   "Odae": 3,
+   "Proverbia": 10,
+   "Ecclesiastes": 3,
+   "Job": 9,
+   "Sapientia Salomonis": 2,
+   "Ecclesiasticus sive Siracides": 14,
+   "Psalmi Salomonis": 2,
+   "Osee": 3,
+   "Amos": 1,
+   "Michaeas": 2,
+   "Joel": 2,
+   "Habacuc": 1,
+   "Isaias": 23,
+   "Jeremias": 6,
+   "Baruch": 1,
+   "Ezechiel": 13,
+   "Susanna": 2
+  },
+  "representatives": [
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "22.2",
+    "form": "ἐνεπλήσθη",
+    "postag": "v3saip---",
+    "sentence": "ἐνεπλήσθη ἡ πόλις βοώντων ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "39.6",
+    "form": "ἐμπλησθήσεται",
+    "postag": "v3sfip---",
+    "sentence": "ἐὰν Κύριος ὁ μέγας θελήσῃ, πνεύματι συνέσεως ἐμπλησθήσεται ·"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "24.13",
+    "form": "ἐμπλήσω",
+    "postag": "v1sasa---",
+    "sentence": "καὶ τί ἐὰν μὴ καθαρισθῇς ἔτι, ἕως οὗ ἐμπλήσω τὸν θυμόν μου;"
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "33.23",
+    "form": "ἐμπλησθήτω",
+    "postag": "v3samp---",
+    "sentence": "Νεφθαλὶ πλησμονὴ δεκτῶν καὶ ἐμπλησθήτω εὐλογίας παρὰ Κυρίου ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "144.16",
+    "form": "ἐμπιπλᾷς",
+    "postag": "v2spia---",
+    "sentence": "ἀνοίγεις σὺ τὰς χεῖράς σου καὶ ἐμπιπλᾷς πᾶν ζῷον εὐδοκίας."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "20.13",
+    "form": "ἐμπλήσθητι",
+    "postag": "v2samp---",
+    "sentence": "διάνοιξον τοὺς ὀφθαλμούς σου καὶ ἐμπλήσθητι ἄρτων."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "19.22",
+    "form": "ἐμπίπλασθε",
+    "postag": "v2ppim---",
+    "sentence": "ἀπὸ δὲ σαρκῶν μου οὐκ ἐμπίπλασθε;"
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "28.37",
+    "form": "ἐμπλήσεις",
+    "postag": "v2sfia---",
+    "sentence": "καὶ χρίσεις αὐτοὺς καὶ ἐμπλήσεις αὐτῶν τὰς χεῖρας καὶ ἁγιάσεις αὐτούς, ἵνα ἱερατεύωσί μοι."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "15.17",
+    "form": "ἐνεπλήσθην",
+    "postag": "v1saip---",
+    "sentence": "καταμόνας ἐκαθήμην, ὅτι πικρίας ἐνεπλήσθην."
+   },
+   {
+    "work_code": "ODE",
+    "work_ja": "頌歌（オード）",
+    "work_src": "Odae",
+    "ref": "12.53",
+    "form": "ἐνέπλησεν",
+    "postag": "v3saia---",
+    "sentence": "πεινῶντας ἐνέπλησεν ἀγαθῶν καὶ πλουτοῦντας ἐξαπέστειλεν κενούς."
+   },
+   {
+    "work_code": "ECC",
+    "work_ja": "コヘレトの言葉",
+    "work_src": "Ecclesiastes",
+    "ref": "5.11",
+    "form": "ἐμπλησθέντι",
+    "postag": "v-sappmd-",
+    "sentence": "καὶ τῷ ἐμπλησθέντι τοῦ πλουτῆσαι οὐκ ἔστιν ἀφίων αὐτὸν τοῦ ὑπνῶσαι."
+   },
+   {
+    "work_code": "HOS",
+    "work_ja": "ホセア書",
+    "work_src": "Osee",
+    "ref": "13.6",
+    "form": "ἐνεπλήσθησαν",
+    "postag": "v3paip---",
+    "sentence": "καὶ ἐνεπλήσθησαν εἰς πλησμονὴν καὶ ὑψώθησαν αἱ καρδίαι αὐτῶν ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 4,
+  "works": {
+   "Didache": 1,
+   "Hermas, Pastor": 2,
+   "Martyrdom of Polycarp": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.4.2",
+    "form": "ἐνέπλησαν",
+    "postag": "v3paia---",
+    "sentence": "ἡρμόσθησαν οὖν οἱ δέκα λίθοι ἐκεῖνοι καὶ ἐνέπλησαν ὅλην τὴν πέτραν ·"
+   },
+   {
+    "work_code": "DID",
+    "work_ja": "ディダケー",
+    "work_src": "Didache",
+    "ref": "10.1",
+    "form": "ἐμπλησθῆναι",
+    "postag": "v--anp---",
+    "sentence": "μετὰ δὲ τὸ ἐμπλησθῆναι οὕτως εὐχαριστήσατε ·"
+   },
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "12.1",
+    "form": "ἐνεπίμπλατο",
+    "postag": "v3siim---",
+    "sentence": "ταῦτα δὲ καὶ ἕτερα πλείονα λέγων θάρσους καὶ χαρᾶς ἐνεπίμπλατο, καὶ τὸ πρόσωπον αὐτοῦ χάριτος ἐπληροῦτο, ὥστε οὐ μόνον μὴ συμπεσεῖν ταραχθέντα ὑπὸ τῶν λεγομένων πρὸς αὐτόν, ἀλλὰ το-τοὐναντίον τὸν ἀνθύπατον ἐκστῆναι, πέμψαι τε τὸν ἑαυτοῦ κήρυκα ἐν μέσῳ τοῦ σταδίου κηρῦξαι τρίς ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "22.3.7",
+    "form": "ἐμπλήσῃ",
+    "postag": "v3sasa---",
+    "sentence": "συντελέσας τὰ γεγραμμένα, ἐν ἐκείνῃ τῇ ἡμέρᾳ ᾗ νηστεύεις μηδὲν γεύσῃ εἰ μὴ ἄρτον καὶ ὕδωρ, καὶ ἐκ τῶν ἐδεσμάτων σου ὧν ἔμελλες τρώγειν συμψηφίσας τὴν ποσότητα τῆς δαπάνης ἐκείνης τῆς ἡμέρας ἧς ἔμελλες ποιεῖν, δώσεις αὐτὸ χήρᾳ ἢ ὀρφανῷ ἢ ὑστερουμένῳ, καὶ οὕτω ταπεινοφρονήσεις, ἵν’ ἐκ τῆς ταπεινοφροσύνης σου ὁ εἰληφὼς ἐμπλήσῃ τὴν ἑαυτοῦ ψυχὴν καὶ εὔξηται ὑπὲρ σοῦ πρὸς τὸν κύριον."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "5 ἐμ-πίπλημι    (on ἐμπίμπ-, v. LS, s.v., Bl., § 6, 8), and ἐμπιπλάω (Ac 14:17),    [in LXX chiefly for מָלֵא, שָׂבַע ;]    to fill full, fill up, satisfy: c. acc pers. et gen. rei, Lk 1:53, Ac 14:17; pass., Lk 6:25, Jo 6:12; metaph., c. gen. pers., to take one's fill of: Ro 15:24 (cf. Da LXX Su 32).†"
+}

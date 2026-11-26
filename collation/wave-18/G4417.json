@@ -1,0 +1,179 @@
+{
+ "strong": "G4417",
+ "lemma": "πταίω",
+ "nt_freq": 5,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2PE 1:10",
+   "form": "πταίσητέ",
+   "morph": "V-AAS-2P",
+   "gloss_en": "stumble",
+   "gloss_ja": "つまずく",
+   "verse": "διὸ μᾶλλον, ἀδελφοί, σπουδάσατε βεβαίαν ὑμῶν τὴν κλῆσιν καὶ ἐκλογὴν ποιεῖσθαι· ταῦτα γὰρ ποιοῦντες οὐ μὴ πταίσητέ ποτε·"
+  },
+  {
+   "ref": "JAS 3:2",
+   "form": "πταίομεν",
+   "morph": "V-PAI-1P",
+   "gloss_en": "stumble",
+   "gloss_ja": "つまずく",
+   "verse": "πολλὰ γὰρ πταίομεν ἅπαντες. εἴ τις ἐν λόγῳ οὐ πταίει, οὗτος τέλειος ἀνήρ, δυνατὸς χαλιναγωγῆσαι καὶ ὅλον τὸ σῶμα."
+  },
+  {
+   "ref": "JAS 3:2",
+   "form": "πταίει",
+   "morph": "V-PAI-3S",
+   "gloss_en": "stumble",
+   "gloss_ja": "つまずく",
+   "verse": "πολλὰ γὰρ πταίομεν ἅπαντες. εἴ τις ἐν λόγῳ οὐ πταίει, οὗτος τέλειος ἀνήρ, δυνατὸς χαλιναγωγῆσαι καὶ ὅλον τὸ σῶμα."
+  },
+  {
+   "ref": "JAS 2:10",
+   "form": "πταίσῃ",
+   "morph": "V-AAS-3S",
+   "gloss_en": "stumbles",
+   "gloss_ja": "つまずく",
+   "verse": "ὅστις γὰρ ὅλον τὸν νόμον τηρήσῃ, πταίσῃ δὲ ἐν ἑνί, γέγονεν πάντων ἔνοχος."
+  },
+  {
+   "ref": "ROM 11:11",
+   "form": "ἔπταισαν",
+   "morph": "V-AAI-3P",
+   "gloss_en": "stumble",
+   "gloss_ja": "つまずく",
+   "verse": "Λέγω οὖν, μὴ ἔπταισαν ἵνα πέσωσιν; μὴ γένοιτο· ἀλλὰ τῷ αὐτῶν παραπτώματι ἡ σωτηρία τοῖς ἔθνεσιν, εἰς τὸ παραζηλῶσαι αὐτούς."
+  }
+ ],
+ "lxx": {
+  "total": 15,
+  "works": {
+   "Deuteronomium": 1,
+   "Regnorum i": 4,
+   "Regnorum ii": 4,
+   "Regnorum iii": 1,
+   "Regnorum iv": 1,
+   "Paralipomenon i sive Chronicon i": 1,
+   "Machabaeorum ii": 1,
+   "Ecclesiasticus sive Siracides": 2
+  },
+  "representatives": [
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "4.3",
+    "form": "ἔπταισεν",
+    "postag": "v3saia---",
+    "sentence": "κατὰ τί ἔπταισεν ἡμᾶς Κύριος σήμερον ἐνώπιον ἀλλοφύλων;"
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "10.19",
+    "form": "ἔπταισαν",
+    "postag": "v3paia---",
+    "sentence": "καὶ εἶδαν πάντες οἱ βασιλεῖς οἱ δοῦλοι Ἀδρααζὰρ ὅτι ἔπταισαν ἔμπροσθεν Ἰσραήλ, καὶ ηὐτομόλησαν μετὰ Ἰσραὴλ καὶ ἐδούλευσαν αὐτοῖς."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "2.8",
+    "form": "πταίσῃ",
+    "postag": "v3sasa---",
+    "sentence": "οἱ φοβούμενοι Κύριον πιστεύσατε αὐτῷ, καὶ οὐ μὴ πταίσῃ ὁ μισθὸς ὑμῶν."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "7.25",
+    "form": "πταίσῃς",
+    "postag": "v2sasa---",
+    "sentence": "οὐκ ἐπιθυμήσεις ἀργύριον οὐ-δὲ χρυσίον ἀπ’ αὐτῶν σὺ λήψῃ σεαυτῷ, μὴ πταίσῃς δι’ αὐτό, ὅτι βδέλυγμα Κυρίῳ τῷ Θεῷ σού ἐστι ·"
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "8.33",
+    "form": "πταῖσαι",
+    "postag": "v--ana---",
+    "sentence": "ἐν τῷ πταῖσαι τὸν λαόν σου Ἰσραὴλ ἐνώπιον ἐχθρῶν, ὅτι ἁμαρτήσονταί σοι, καὶ ἐπιστρέψουσι καὶ ἐξομολογήσονται τῷ ὀνόματί σου καὶ προσεύξονται καὶ δεηθήσονται ἐν τῷ οἴκῳ τούτω, καὶ σὺ εἰσακούσῃ ἐκ τοῦ οὐρανοῦ καὶ ἵλεως ἔσῃ ταῖς ἁμαρτίαις τοῦ λαοῦ σου Ἰσραὴλ καὶ ἐπιστρέψεις αὐτοὺς εἰς τὴν γῆν, ἣν ἔδωκας τοῖς πατράσιν αὐτῶν."
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "14.12",
+    "form": "ἔπταισεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἔπταισεν Ἰούδας ἀπὸ προσώπου Ἰσραήλ, καὶ ἔφυγεν ἀνὴρ εἰς τὸ σκήνωμα αὐτοῦ ·"
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "19.19",
+    "form": "ἐπταίκασιν",
+    "postag": "v3pria---",
+    "sentence": "καὶ εἶδον παῖδες Ἀδρααζὰρ ὅτι ἐπταίκασιν ἀπὸ προσώπου Ἰσραήλ, καὶ διέθεντο μετὰ Δαυὶδ καὶ ἐδούλευσαν αὐτῷ ·"
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "14.17",
+    "form": "ἐπταικώς",
+    "postag": "v-srpamn-",
+    "sentence": "Σίμων δὲ ὁ ἀδελφὸς Ἰούδα συμβεβληκὼς ἦν τῷ Νικάνορι, βραχέως δὲ διὰ τὴν αἰφνίδιον τῶν ἀντιπάλων ἀφασίαν ἐπταικώς."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "4.10",
+    "form": "πταίει",
+    "postag": "v3spia---",
+    "sentence": "καὶ πταίει ἀνὴρ Ἰσραὴλ, καὶ ἔφυγεν ἕκαστος εἰς σκήνωμα αὐτοῦ ·"
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "10.15",
+    "form": "ἔπταισεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ εἶδε Συρία ὅτι ἔπταισεν ἔμπροσθεν Ἰσραήλ, καὶ συνήχθησαν ἐπὶ τὸ αὐτό."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "37.12",
+    "form": "πταίσῃς",
+    "postag": "v2sasa---",
+    "sentence": "ἀλλ’ ἢ μετὰ ἀνδρὸς εὐσεβοῦς ἐνδελέχιζε, ὃν ἂν ἐπιγνῷς συντηροῦντα ἐντολάς, ὃς ἐν τῇ ψυχῇ αὐτοῦ κατὰ τὴν ψυχήν σου, καὶ ἐὰν πταίσῃς, συναλγήσει σοι."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "7.10",
+    "form": "ἔπταισαν",
+    "postag": "v3paia---",
+    "sentence": "καὶ ἐβρόντησε Κύριος ἐν φωνῇ μεγάλῃ ἐν τῇ ἡμέρᾳ ἐκείνῃ ἐπὶ τοὺς ἀλλοφύλους, καὶ συνεχύθησαν καὶ ἔπταισαν ἐνώπιον Ἰσραήλ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "5   πταίω,    [in LXX chiefly for נגף ni.;]    trans., to cause to stumble (I Ki 4:3, cf. Deiss., BS, 681).     Intrans., to stumble. Metaph., in moral sense, Ro 11:11, Ja 2:10 3:2, II Pe 1:10.†"
+}

@@ -1,0 +1,186 @@
+{
+ "strong": "G1078",
+ "lemma": "γένεσις",
+ "nt_freq": 5,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JAS 3:6",
+   "form": "γενέσεως",
+   "morph": "N-GSF",
+   "gloss_en": "life",
+   "gloss_ja": "起源",
+   "verse": "καὶ ἡ γλῶσσα πῦρ, ὁ κόσμος τῆς ἀδικίας ἡ γλῶσσα καθίσταται ἐν τοῖς μέλεσιν ἡμῶν, ἡ σπιλοῦσα ὅλον τὸ σῶμα καὶ φλογίζουσα τὸν τροχὸν τῆς γενέσεως καὶ φλογιζομένη ὑπὸ τῆς γεέννης."
+  },
+  {
+   "ref": "JAS 1:23",
+   "form": "γενέσεως",
+   "morph": "N-GSF",
+   "gloss_en": "natural",
+   "gloss_ja": "起源",
+   "verse": "ὅτι εἴ τις ἀκροατὴς λόγου ἐστὶν καὶ οὐ ποιητής, οὗτος ἔοικεν ἀνδρὶ κατανοοῦντι τὸ πρόσωπον τῆς γενέσεως αὐτοῦ ἐν ἐσόπτρῳ,"
+  },
+  {
+   "ref": "LUK 1:14",
+   "form": "γενέσει",
+   "morph": "N-DSF",
+   "gloss_en": "birth",
+   "gloss_ja": "起源",
+   "verse": "καὶ ἔσται χαρά σοι καὶ ἀγαλλίασις, καὶ πολλοὶ ἐπὶ τῇ γενέσει αὐτοῦ χαρήσονται·"
+  },
+  {
+   "ref": "MAT 1:1",
+   "form": "γενέσεως",
+   "morph": "N-GSF",
+   "gloss_en": "genealogy",
+   "gloss_ja": "起源",
+   "verse": "Βίβλος γενέσεως Ἰησοῦ χριστοῦ υἱοῦ Δαυὶδ υἱοῦ Ἀβραάμ."
+  },
+  {
+   "ref": "MAT 1:18",
+   "form": "γένεσις",
+   "morph": "N-NSF",
+   "gloss_en": "birth",
+   "gloss_ja": "起源",
+   "verse": "Τοῦ δὲ Ἰησοῦ χριστοῦ ἡ γένεσις οὕτως ἦν. μνηστευθείσης τῆς μητρὸς αὐτοῦ Μαρίας τῷ Ἰωσήφ, πρὶν ἢ συνελθεῖν αὐτοὺς εὑρέθη ἐν γαστρὶ ἔχουσα ἐκ πνεύματος ἁγίου."
+  }
+ ],
+ "lxx": {
+  "total": 59,
+  "works": {
+   "Genesis": 15,
+   "Exodus": 3,
+   "Numeri": 2,
+   "Ruth": 2,
+   "Paralipomenon i sive Chronicon i": 12,
+   "Judith": 1,
+   "Machabaeorum ii": 2,
+   "Machabaeorum iv": 2,
+   "Sapientia Salomonis": 11,
+   "Ecclesiasticus sive Siracides": 1,
+   "Psalmi Salomonis": 1,
+   "Osee": 1,
+   "Ezechiel": 3,
+   "Susanna": 2,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "6.9",
+    "form": "γενέσεις",
+    "postag": "n-p---fn-",
+    "sentence": "αὗται δὲ αἱ γενέσεις Νῶε ·"
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "4.38",
+    "form": "γενέσεσιν",
+    "postag": "n-p---fd-",
+    "sentence": "οὗτοι οἱ διελθόντες ἐν ὀνόμασιν ἀρχόντων ἐν ταῖς γενέσεσιν αὐτῶν ·"
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "3.12",
+    "form": "γένεσις",
+    "postag": "n-s---fn-",
+    "sentence": "αἱ γυναῖκες αὐτῶν ἄφρονες, καί πονηρὰ τὰ τέκνα αὐτῶν, ἐπικατάρατος ἡ γένεσις αὐτῶν."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "6.25",
+    "form": "γενέσεις",
+    "postag": "n-p---fa-",
+    "sentence": "αὗται αἱ ἀρχαὶ πατριᾶς Λευιτῶν κατὰ γενέσεις αὐτῶν."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "16.3",
+    "form": "γένεσίς",
+    "postag": "n-s---fn-",
+    "sentence": "ἡ ρίζα σου καὶ ἡ γένεσίς σου ἐκ γῆς Χαναάν, ὁ πατήρ σου Ἀμορραῖος, καὶ ἡ μήτηρ σου Χετταία."
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "3.1",
+    "form": "γενέσεις",
+    "postag": "n-p---fn-",
+    "sentence": "καὶ αὗται αἱ γενέσεις Ἀαρὼν καὶ Μωυσῆ, ἐν ᾗ ἡμέρᾳ ἐλάλησε Κύριος τῷ Μωυσῇ ἐν ὄρει Σινά."
+   },
+   {
+    "work_code": "RUT",
+    "work_ja": "ルツ記",
+    "work_src": "Ruth",
+    "ref": "2.11",
+    "form": "γενέσεώς",
+    "postag": "n-s---fg-",
+    "sentence": "ἀπαγγελίᾳ ἀπηγγέλη μοι ὅσα πεποίηκας μετὰ τῆς πενθερᾶς σου μετὰ τὸ ἀποθανεῖν τὸν ἄνδρα σου καὶ πῶς κατέλιπες τὸν πατέρα σου καὶ τὴν μητέρα σου καὶ τὴν γῆν γενέσεώς σου καὶ ἐπορεύθης πρὸς λαόν, ὃν οὐκ ᾔδεις ἐχθὲς καὶ τρίτης ·"
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "7.23",
+    "form": "γένεσιν",
+    "postag": "n-s---fa-",
+    "sentence": "τοιγαροῦν ὁ τοῦ κόσμου κτίστης, ὁ πλάσας ἀνθρώπου γένεσιν καὶ πάντων ἐξευρὼν γένεσιν καὶ τὸ πνεῦμα καὶ τὴν ζωὴν ὑμῖν πάλιν ἀποδώσει μετ’ ἐλέους, ὡς νῦν ὑπερορᾶται ἑαυτοὺς διὰ τοὺς αὐτοῦ νόμους."
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "15.13",
+    "form": "γένεσις",
+    "postag": "n-s---fn-",
+    "sentence": "ὦ φύσις ἱερὰ καὶ φίλτρα γονέων καὶ γένεσις φιλόστοργε καὶ τροφεῖα καὶ μητέρων ἀδάμαστα πάθη."
+   },
+   {
+    "work_code": "SUS",
+    "work_ja": "スザンナ（Th）",
+    "work_src": "Susanna",
+    "ref": "42",
+    "form": "γενέσεως",
+    "postag": "n-s---fg-",
+    "sentence": "Κύριε ὁ θεὸς ὁ αἰώνιος ὁ εἰδὼς τὰ πάντα πρὶν γενέσεως αὐτῶν, σὺ οἶδας ὅτι οὐκ ἐποίησα ἃ πονηρεύονται οἱ ἄνομοι οὗτοι ἐπ’ ἐμοί."
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "12.18",
+    "form": "γενέσεώς",
+    "postag": "n-s---fg-",
+    "sentence": "πίομαι δή, κύριε, ὅτι ἐμεγαλύνθη τὸ ζῆν μου ἐν ἐμοὶ σήμερον παρὰ πάσας τὰς ἡμέρας τῆς γενέσεώς μου."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "44.1",
+    "form": "γενέσει",
+    "postag": "n-s---fd-",
+    "sentence": "αἰνέσωμεν δὴ ἄνδρας ἐνδόξους καὶ τοὺς πατέρας ἡμῶν τῇ γενέσει."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "5   γένεσις, -εως, ἡ     (< γίγνομαι),    [in LXX chiefly for תֹּולֵדֹת ;]         origin, lineage: βίβλος γενέσεως (as in Ge 2:4a 5:1), Mt 1:1.      birth: Mt 1:18, Lk 1:14 (Rec. γέννησις); πρόσωπον τῆς γ., face of his birth (\"what God made him to be,\" Hort., in l.), Ja 1:23; ὁ τροχὸς τῆς γ., the wheel (course) of birth or creation (\"the wheel of man's nature according to its original Divine purpose,\" Hort), Ja 3:6.†"
+}

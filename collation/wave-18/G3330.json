@@ -1,0 +1,163 @@
+{
+ "strong": "G3330",
+ "lemma": "μεταδίδωμι",
+ "nt_freq": 5,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1TH 2:8",
+   "form": "μεταδοῦναι",
+   "morph": "V-2AAN",
+   "gloss_en": "share",
+   "gloss_ja": "分け与える",
+   "verse": "οὕτως ὁμειρόμενοι ὑμῶν εὐδοκοῦμεν μεταδοῦναι ὑμῖν οὐ μόνον τὸ εὐαγγέλιον τοῦ θεοῦ ἀλλὰ καὶ τὰς ἑαυτῶν ψυχάς, διότι ἀγαπητοὶ ἡμῖν ἐγενήθητε."
+  },
+  {
+   "ref": "EPH 4:28",
+   "form": "μεταδιδόναι",
+   "morph": "V-PAN",
+   "gloss_en": "share",
+   "gloss_ja": "分け与える",
+   "verse": "ὁ κλέπτων μηκέτι κλεπτέτω, μᾶλλον δὲ κοπιάτω ἐργαζόμενος ταῖς ἰδίαις χερσὶν τὸ ἀγαθόν, ἵνα ἔχῃ μεταδιδόναι τῷ χρείαν ἔχοντι."
+  },
+  {
+   "ref": "LUK 3:11",
+   "form": "μεταδότω",
+   "morph": "V-2AAM-3S",
+   "gloss_en": "share",
+   "gloss_ja": "分け与える",
+   "verse": "ἀποκριθεὶς δὲ ἔλεγεν αὐτοῖς· Ὁ ἔχων δύο χιτῶνας μεταδότω τῷ μὴ ἔχοντι, καὶ ὁ ἔχων βρώματα ὁμοίως ποιείτω."
+  },
+  {
+   "ref": "ROM 12:8",
+   "form": "μεταδιδοὺς",
+   "morph": "V-PAP-NSM",
+   "gloss_en": "gives",
+   "gloss_ja": "分け与える",
+   "verse": "εἴτε ὁ παρακαλῶν ἐν τῇ παρακλήσει, ὁ μεταδιδοὺς ἐν ἁπλότητι, ὁ προϊστάμενος ἐν σπουδῇ, ὁ ἐλεῶν ἐν ἱλαρότητι."
+  },
+  {
+   "ref": "ROM 1:11",
+   "form": "μεταδῶ",
+   "morph": "V-2AAS-1S",
+   "gloss_en": "impart",
+   "gloss_ja": "分け与える",
+   "verse": "ἐπιποθῶ γὰρ ἰδεῖν ὑμᾶς, ἵνα τι μεταδῶ χάρισμα ὑμῖν πνευματικὸν εἰς τὸ στηριχθῆναι ὑμᾶς,"
+  }
+ ],
+ "lxx": {
+  "total": 7,
+  "works": {
+   "Tobias": 1,
+   "Machabaeorum ii": 2,
+   "Proverbia": 1,
+   "Job": 1,
+   "Sapientia Salomonis": 1,
+   "Epistula Jeremiae": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "1.35",
+    "form": "μετεδίδου",
+    "postag": "v3siia---",
+    "sentence": "καὶ οἷς ἐχαρίζετο ὁ βασιλεὺς πολλὰ διάφορα ἐλάμβανε καὶ μετεδίδου."
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "7.10",
+    "form": "μετέδωκε",
+    "postag": "v3saia---",
+    "sentence": "καὶ μετέδωκε τὸν λόγον τῷ Ῥαγουήλ ·"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "11.26",
+    "form": "μεταδιδόντος",
+    "postag": "v-sppamg-",
+    "sentence": "ὁ συνέχων σῖτον ὑπολείποιτο αὐτὸν τοῖς ἔθνεσιν, εὐλογίαν δὲ εἰς κεφαλὴν τοῦ μεταδιδόντος."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "31.17",
+    "form": "μετέδωκα",
+    "postag": "v1saia---",
+    "sentence": "εἰ δὲ καὶ τὸν ψωμόν μου ἔφαγον μόνος καὶ οὐχὶ ὀρφανῷ μετέδωκα ·"
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "7.13",
+    "form": "μεταδίδωμι",
+    "postag": "v1spia---",
+    "sentence": "ἀδόλως τε ἔμαθον ἀφθόνως τε μεταδίδωμι, τὸν πλοῦτον αὐτῆς οὐκ ἀποκρύπτομαι ·"
+   },
+   {
+    "work_code": "LJE",
+    "work_ja": "エレミヤの手紙",
+    "work_src": "Epistula Jeremiae",
+    "ref": "27",
+    "form": "μεταδῶσι",
+    "postag": "v3pasa---",
+    "sentence": "ὡσαύτως δὲ καὶ αἱ γυναῖκες αὐτῶν ἀπ’ αὐτῶν ταριχεύουσαι οὔ-τε πτωχῷ οὔ-τε ἀδυνάτῳ μὴ μεταδῶσι."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "8.12",
+    "form": "μεταδόντος",
+    "postag": "v-sapamg-",
+    "sentence": "καὶ μεταδόντος αὐτοῦ τοῖς σὺν αὐτῷ τὴν παρουσίαν τοῦ στρατοπέδου, οἱ δειλανδροῦντες καὶ ἀπιστοῦντες τὴν τοῦ Θεοῦ δίκην διεδίδρασκον καὶ ἐξετόπιζον ἑαυτούς."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 3,
+  "works": {
+   "Barnabas": 1,
+   "Hermas, Pastor": 2
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "3.9.4",
+    "form": "μεταδιδοῦσιν",
+    "postag": "v-pppamd-",
+    "sentence": "αὕτη οὖν ἡ ἀσυνκρασία βλαβερὰ ὑμῖν τοῖς ἔχουσι καὶ μὴ μεταδιδοῦσιν τοῖς ὑστερουμένοις."
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "1.5",
+    "form": "μεταδοῦναι",
+    "postag": "v--ana---",
+    "sentence": "λογισάμενος οὖν τοῦτο, ὅτι ἐὰν μελήσῃ μοι περὶ ὑμῶν τοῦ μέρος τι μεταδοῦναι ἀφ’ οὗ ἔλαβον, ὅτι ἔσται μοι τοιούτοις πνεύμασιν ὑπηρετήσαντι εἰς μισθόν, ἐσπούδασα κατὰ μικρὸν ὑμῖν πέμπειν, ἵνα μετὰ τῆς πίστεως ὑμῶν τελείαν ἔχητε τὴν γνῶσιν."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "3.9.2",
+    "form": "μεταδίδοτε",
+    "postag": "v2ppma---",
+    "sentence": "νῦν οὖν ἀκούσατέ μου καὶ εἰρηνεύετε ἐν ἑαυτοῖς καὶ ἐπισκέπτεσθε ἀλλήλους καὶ ἀντιλαμβάνεσθε ἀλλήλων, καὶ μὴ μόνοι τὰ κτίσματα τοῦ θεοῦ μεταλαμβάνετε ἐκ καταχύματος, ἀλλὰ μεταδίδοτε καὶ τοῖς ὑστερουμένοις ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "5   μετα-δίδωμι,    [in LXX: Pr 11:29 (שׁבר hi.), Wi 7:13, al.;]    to give a share of, impart: c. dat. pers. et acc. rei (in cl. more freq., c. gen. part., but acc. of that which is imparted, whether part or whole, so here, v. Bl., § 36, 1), Ro 1:11, I Th 2:8, and (with ellipse of acc.) Lk 3:11; c. dat. pers., Eph 4:28; absol., ὁ μεταδιδούς, Ro 12:8.†"
+}

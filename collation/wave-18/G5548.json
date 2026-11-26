@@ -1,0 +1,212 @@
+{
+ "strong": "G5548",
+ "lemma": "χρίω",
+ "nt_freq": 5,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2CO 1:21",
+   "form": "χρίσας",
+   "morph": "V-AAP-NSM",
+   "gloss_en": "anointed",
+   "gloss_ja": "注ぎ油する",
+   "verse": "ὁ δὲ βεβαιῶν ἡμᾶς σὺν ὑμῖν εἰς Χριστὸν καὶ χρίσας ἡμᾶς θεός,"
+  },
+  {
+   "ref": "ACT 10:38",
+   "form": "ἔχρισεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "anointed",
+   "gloss_ja": "注ぎ油する",
+   "verse": "Ἰησοῦν τὸν ἀπὸ Ναζαρέθ, ὡς ἔχρισεν αὐτὸν ὁ θεὸς πνεύματι ἁγίῳ καὶ δυνάμει, ὃς διῆλθεν εὐεργετῶν καὶ ἰώμενος πάντας τοὺς καταδυναστευομένους ὑπὸ τοῦ διαβόλου, ὅτι ὁ θεὸς ἦν μετ’ αὐτοῦ·"
+  },
+  {
+   "ref": "ACT 4:27",
+   "form": "ἔχρισας",
+   "morph": "V-AAI-2S",
+   "gloss_en": "anointed",
+   "gloss_ja": "注ぎ油する",
+   "verse": "συνήχθησαν γὰρ ἐπ’ ἀληθείας ἐν τῇ πόλει ταύτῃ ἐπὶ τὸν ἅγιον παῖδά σου Ἰησοῦν, ὃν ἔχρισας, Ἡρῴδης τε καὶ Πόντιος Πιλᾶτος σὺν ἔθνεσιν καὶ λαοῖς Ἰσραήλ,"
+  },
+  {
+   "ref": "HEB 1:9",
+   "form": "ἔχρισέν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "anointed",
+   "gloss_ja": "注ぎ油する",
+   "verse": "ἠγάπησας δικαιοσύνην καὶ ἐμίσησας ἀνομίαν· διὰ τοῦτο ἔχρισέν σε ὁ θεός, ὁ θεός σου, ἔλαιον ἀγαλλιάσεως παρὰ τοὺς μετόχους σου·"
+  },
+  {
+   "ref": "LUK 4:18",
+   "form": "ἔχρισέν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "anointed",
+   "gloss_ja": "注ぎ油する",
+   "verse": "Πνεῦμα κυρίου ἐπ’ ἐμέ, οὗ εἵνεκεν ἔχρισέν με εὐαγγελίσασθαι πτωχοῖς, ἀπέσταλκέν με κηρύξαι αἰχμαλώτοις ἄφεσιν καὶ τυφλοῖς ἀνάβλεψιν, ἀποστεῖλαι τεθραυσμένους ἐν ἀφέσει,"
+  }
+ ],
+ "lxx": {
+  "total": 71,
+  "works": {
+   "Exodus": 11,
+   "Leviticus": 7,
+   "Numeri": 7,
+   "Deuteronomium": 1,
+   "Judices": 2,
+   "Regnorum i": 8,
+   "Regnorum ii": 7,
+   "Regnorum iii": 7,
+   "Regnorum iv": 2,
+   "Paralipomenon i sive Chronicon i": 3,
+   "Paralipomenon ii sive Chronicon ii": 2,
+   "Judith": 1,
+   "Psalmi": 4,
+   "Ecclesiasticus sive Siracides": 2,
+   "Osee": 1,
+   "Isaias": 2,
+   "Jeremias": 1,
+   "Ezechiel": 2,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "40.8",
+    "form": "χρίσεις",
+    "postag": "v2sfia---",
+    "sentence": "καὶ χρίσεις τὸ θυσιαστήριον τῶν καρπωμάτων καὶ πάντα τὰ σκεύη αὐτοῦ."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "15.17",
+    "form": "ἔχρισέ",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἔχρισέ σε Κύριος εἰς βασιλέα ἐπὶ Ἰσραήλ."
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "8.11",
+    "form": "ἔχρισε",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἔχρισε τὴν σκηνὴν καὶ πάντα τὰ σκεύη αὐτῆς καὶ ἡγίασεν αὐτήν."
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "7.84",
+    "form": "ἔχρισεν",
+    "postag": "v3saia---",
+    "sentence": "οὗτος ὁ ἐγκαινισμὸς τοῦ θυσιαστηρίου, ᾗ ἡμέρᾳ ἔχρισεν αὐτὸ παρὰ τῶν ἀρχόντων τῶν υἱῶν Ἰσραήλ ·"
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "2.4",
+    "form": "χρίουσι",
+    "postag": "v3ppia---",
+    "sentence": "καὶ ἔρχονται ἄνδρες τῆς Ἰουδαίας καὶ χρίουσι τὸν Δαυὶδ ἐκεῖ τοῦ βασιλεύειν ἐπὶ τὸν οἶκον Ἰούδα."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "1.45",
+    "form": "ἔχρισαν",
+    "postag": "v3paia---",
+    "sentence": "καὶ ἔχρισαν αὐτὸν Σαδὼκ ὁ ἱερεὺς καὶ Νάθαν ὁ προφήτης ἐν τῇ Γιών, καὶ ἀνέβησαν ἐκεῖθεν εὐφραινόμενοι καὶ ἤχησεν ἡ πόλις ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "88.21",
+    "form": "ἔχρισα",
+    "postag": "v1saia---",
+    "sentence": "εὗρον Δαυΐδ τὸν δοῦλόν μου, ἐν ἐλέει ἁγίῳ μου ἔχρισα αὐτόν."
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "14.8",
+    "form": "ἐχρίσθη",
+    "postag": "v3saip---",
+    "sentence": "καὶ ἤκουσαν ἀλλόφυλοι ὅτι ἐχρίσθη Δαυὶδ βασιλεὺς ἐπὶ πάντα Ἰσραήλ, καὶ ἀνέβησαν πάντες οἱ ἀλλόφυλοι ζητῆσαι τὸν Δαυίδ ·"
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "9.8",
+    "form": "χρῖσαι",
+    "postag": "v--ana---",
+    "sentence": "πορευόμενα ἐπορεύθη τὰ ξύλα τοῦ χρῖσαι ἐφ’ ἑαυτὰ βασιλέα καὶ εἶπον τῇ ἐλαίᾳ ·"
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "23.30",
+    "form": "ἔχρισαν",
+    "postag": "v3paia---",
+    "sentence": "καὶ ἔλαβεν ὁ λαὸς τῆς γῆς τὸν Ἰωάχαζ υἱὸν Ἰωσίου καὶ ἔχρισαν αὐτὸν καὶ ἐβασίλευσαν αὐτὸν ἀντὶ τοῦ πατρὸς αὐτοῦ."
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "36.1",
+    "form": "ἔχρισαν",
+    "postag": "v3paia---",
+    "sentence": "καὶ ἔλαβεν ὁ λαὸς τῆς γῆς τὸν Ἰωάχαζ υἱὸν Ἰωσίου καὶ ἔχρισαν αὐτόν, καὶ κατέστησαν αὐτὸν ἀντὶ τοῦ πατρὸς αὐτοῦ εἰς βασιλέα ἐπὶ Ἰερουσαλήμ."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "45.15",
+    "form": "ἔχρισεν",
+    "postag": "v3saia---",
+    "sentence": "ἐπλήρωσε Μωσῆς τὰς χεῖρας καὶ ἔχρισεν αὐτὸν ἐν ἐλαίῳ ἁγίῳ ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "Barnabas": 1,
+   "1 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "14.9",
+    "form": "ἔχρισέν",
+    "postag": "v3saia---",
+    "sentence": "πνεῦμα κυρίου ἐπ’ ἐμέ, οὖ εἵνεκεν ἔχρισέν με εὐαγγελίσασθαι ταπεινοῖς χάριν, ἀπέσταλκέν με ἰάσασθαι τοὺς συντετριμμένους τὴν καρδίαν, κηρῦξαι αἰχμαλώτοις ἄφεσιν καὶ τυφλοῖς ἀνάβλεψιν, καλέσαι ἐνιαυτὸν κυρίου δεκτὸν καὶ ἡμέραν ἀνταποδόσεως, παρακαλέσαι πάντας τοὺς πενθοῦντας."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "18.1",
+    "form": "ἔχρισα",
+    "postag": "v1saia---",
+    "sentence": "εὗρον ἄνδρα κατὰ τὴν καρδίαν μου, Δαυεὶδ τὸν τοῦ Ἰεσσαί, ἐν ἐλέει αἰωνίῳ ἔχρισα αὐτόν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "5 χρίω    to anoint (Hom., al.);     [in LXX chiefly for משׁח of consecration to a sacred office: priest, Ex 28:41; prophet, III Ki 19:16; king, I Ki 10:1; of things, Ex 40:9, Le 8:10, al.].       In NT, metaph., of God's anointing,      Christ: Ac 4:27; c. inf., Lk 4:18 (LXX); c. dupl. acc (v. Bl., § 34, 4), He 1:9 (LXX); πνεύματι ἁγίῳ, Ac 10:38;      Christians: II Co 1:21 (cf. Westc., Epp. Jo., 73) (cf. ἐν-, ἐπι-Χριω).†     SYN: v.s. ἀλείφω"
+}

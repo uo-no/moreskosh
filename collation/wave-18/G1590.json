@@ -1,0 +1,204 @@
+{
+ "strong": "G1590",
+ "lemma": "ἐκλύομαι",
+ "nt_freq": 5,
+ "status": "expanded-covered",
+ "glaux_lemma": "εκλυω",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "GAL 6:9",
+   "form": "ἐκλυόμενοι",
+   "morph": "V-PPP-NPM",
+   "gloss_en": "give up",
+   "gloss_ja": "弱る",
+   "verse": "τὸ δὲ καλὸν ποιοῦντες μὴ ἐγκακῶμεν, καιρῷ γὰρ ἰδίῳ θερίσομεν μὴ ἐκλυόμενοι."
+  },
+  {
+   "ref": "HEB 12:3",
+   "form": "ἐκλυόμενοι",
+   "morph": "V-PPP-NPM",
+   "gloss_en": "lose heart",
+   "gloss_ja": "弱る",
+   "verse": "Ἀναλογίσασθε γὰρ τὸν τοιαύτην ὑπομεμενηκότα ὑπὸ τῶν ἁμαρτωλῶν εἰς ἑαυτοὺς ἀντιλογίαν, ἵνα μὴ κάμητε ταῖς ψυχαῖς ὑμῶν ἐκλυόμενοι."
+  },
+  {
+   "ref": "HEB 12:5",
+   "form": "ἐκλύου",
+   "morph": "V-PPM-2S",
+   "gloss_en": "lose heart",
+   "gloss_ja": "弱る",
+   "verse": "καὶ ἐκλέλησθε τῆς παρακλήσεως, ἥτις ὑμῖν ὡς υἱοῖς διαλέγεται, Υἱέ μου, μὴ ὀλιγώρει παιδείας κυρίου, μηδὲ ἐκλύου ὑπ’ αὐτοῦ ἐλεγχόμενος·"
+  },
+  {
+   "ref": "MAT 15:32",
+   "form": "ἐκλυθῶσιν",
+   "morph": "V-APS-3P",
+   "gloss_en": "faint",
+   "gloss_ja": "弱る",
+   "verse": "Ὁ δὲ Ἰησοῦς προσκαλεσάμενος τοὺς μαθητὰς αὐτοῦ εἶπεν· Σπλαγχνίζομαι ἐπὶ τὸν ὄχλον, ὅτι ἤδη ἡμέραι τρεῖς προσμένουσίν μοι καὶ οὐκ ἔχουσιν τί φάγωσιν· καὶ ἀπολῦσαι αὐτοὺς νήστεις οὐ θέλω, μήποτε ἐκλυθῶσιν ἐν τῇ ὁδῷ."
+  },
+  {
+   "ref": "MRK 8:3",
+   "form": "ἐκλυθήσονται",
+   "morph": "V-FPI-3P",
+   "gloss_en": "faint",
+   "gloss_ja": "弱る",
+   "verse": "καὶ ἐὰν ἀπολύσω αὐτοὺς νήστεις εἰς οἶκον αὐτῶν, ἐκλυθήσονται ἐν τῇ ὁδῷ· καί τινες αὐτῶν ἀπὸ μακρόθεν ἥκασιν."
+  }
+ ],
+ "lxx": {
+  "total": 43,
+  "works": {
+   "Genesis": 2,
+   "Deuteronomium": 1,
+   "Josue": 2,
+   "Regnorum i": 1,
+   "Regnorum ii": 7,
+   "Regnorum iii": 1,
+   "Paralipomenon ii sive Chronicon ii": 1,
+   "Esdras ii": 2,
+   "Judith": 1,
+   "Machabaeorum i": 3,
+   "Machabaeorum ii": 2,
+   "Machabaeorum iii": 1,
+   "Machabaeorum iv": 1,
+   "Proverbia": 2,
+   "Job": 1,
+   "Ecclesiasticus sive Siracides": 2,
+   "Isaias": 4,
+   "Jeremias": 4,
+   "Threni seu Lamentationes": 2,
+   "Ezechiel": 2,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "17.29",
+    "form": "ἐκλελυμένος",
+    "postag": "v-srpmmn-",
+    "sentence": "ὁ λαὸς πεινῶν καὶ ἐκλελυμένος καὶ διψῶν ἐν τῇ ἐρήμῳ."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "13.7",
+    "form": "ἐκλυθήσεται",
+    "postag": "v3sfip---",
+    "sentence": "διὰ τοῦτο πᾶσα χεὶρ ἐκλυθήσεται καὶ πᾶσα ψυχὴ ἀνθρώπου δειλιάσει."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "12.5",
+    "form": "ἐκλύουσί",
+    "postag": "v3ppia---",
+    "sentence": "σοῦ οἱ πόδες τρέχουσι καὶ ἐκλύουσί σε ·"
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "3.17",
+    "form": "ἐκλελύμεθα",
+    "postag": "v1prim---",
+    "sentence": "καὶ ἡμεῖς ἐκλελύμεθα ἀσιτοῦντες σήμερον."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "27.40",
+    "form": "ἐκλύσεις",
+    "postag": "v2sfia---",
+    "sentence": "ἔσται δὲ ἡνίκα ἐὰν καθέλῃς, καὶ ἐκλύσεις τὸν ζυγὸν αὐτοῦ ἀπὸ τοῦ τραχήλου σου."
+   },
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "10.6",
+    "form": "ἐκλύσῃς",
+    "postag": "v2sasa---",
+    "sentence": "μὴ ἐκλύσῃς τὰς χεῖράς σου ἀπὸ τῶν παίδων σου ·"
+   },
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "16.9",
+    "form": "ἐκλυθήσονται",
+    "postag": "v3pfip---",
+    "sentence": "ἐκλυθήσονται αἱ χεῖρες αὐτῶν ἀπὸ τοῦ ἔργου τούτου, καὶ οὐ ποιηθήσεται ·"
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "12.18",
+    "form": "ἐκλελυκότα",
+    "postag": "v-srpama-",
+    "sentence": "καὶ Τιμόθεον μὲν ἐπὶ τῶν τόπων οὐ κατέλαβον, ἄπρακτόν τε ἀπὸ τῶν τόπων ἐκλελυκότα, καταλελοιπότα δὲ φρουρὰν ἔν τινι τόπῳ καὶ μάλα ὀχυράν."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "6.3",
+    "form": "ἐκλυόμενος",
+    "postag": "v-sppmmn-",
+    "sentence": "ἴσθι μὴ ἐκλυόμενος, παρόξυνε δὲ καὶ τὸν φίλον σου, ὃν ἐνεγγυήσω."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "43.10",
+    "form": "ἐκλυθῶσιν",
+    "postag": "v3pasp---",
+    "sentence": "ἐν λόγοις ἁγίου στήσονται κατὰ κρίμα καὶ οὐ μὴ ἐκλυθῶσιν ἐν φυλακαῖς αὐτῶν."
+   },
+   {
+    "work_code": "LAM",
+    "work_ja": "哀歌",
+    "work_src": "Threni seu Lamentationes",
+    "ref": "2.12",
+    "form": "ἐκλύεσθαι",
+    "postag": "v--pnm---",
+    "sentence": "ἐν τῷ ἐκλύεσθαι αὐτοὺς ὡς τραυματίας ἐν πλατείαις πόλεως, ἐν τῷ ἐκχεῖσθαι αὐτοὺς ὡς τραυματίας ἐν πλατείαις πόλεως, ἐν τῷ ἐκχεῖσθαι ψυχὰς αὐτῶν εἰς κόλπον μητέρων αὐτῶν."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "31.15",
+    "form": "ἐξελύθησαν",
+    "postag": "v3paip---",
+    "sentence": "ἐν ᾗ ἡμέρᾳ κατέβη εἰς ᾅδου, ἐπένθησεν αὐτὸν ἡ ἄβυσσος, καὶ ἐπέστησα τοὺς ποταμοὺς αὐτῆς καὶ ἐκώλυσα πλῆθος ὕδατος, καὶ ἐσκότασεν ἐπ’ αὐτὸν ὁ Λίβανος, πάντα τὰ ξύλα τοῦ πεδίου ἐπ’ αὐτῷ ἐξελύθησαν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Didache": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DID",
+    "work_ja": "ディダケー",
+    "work_src": "Didache",
+    "ref": "16.1",
+    "form": "ἐκλυέσθωσαν",
+    "postag": "v3ppmm---",
+    "sentence": "οἱ λύχνοι ὑμῶν μὴ σβεσθήτωσαν, καὶ αἱ ὀσφύες ὑμῶν μὴ ἐκλυέσθωσαν, ἀλλὰ γίνεσθε ἕτοιμοι ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "6   ἐκ-λύω     [in LXX for רָפָה, etc. ;]       to loose, release.      to unloose, as a bow-string, to relax, enfeeble; pass., to be faint, grow weary: Mt 15:32, Mk 8:3; of mental weariness, Ga 6:9, He 12:3, 5 (LXX).†"
+}

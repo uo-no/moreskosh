@@ -1,0 +1,85 @@
+{
+ "strong": "G1624",
+ "lemma": "ἐκτρέπομαι",
+ "nt_freq": 5,
+ "status": "expanded-covered",
+ "glaux_lemma": "εκτρεπω",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1TI 1:6",
+   "form": "ἐξετράπησαν",
+   "morph": "V-2API-3P",
+   "gloss_en": "turned aside",
+   "gloss_ja": "そらす",
+   "verse": "ὧν τινες ἀστοχήσαντες ἐξετράπησαν εἰς ματαιολογίαν,"
+  },
+  {
+   "ref": "1TI 5:15",
+   "form": "ἐξετράπησαν",
+   "morph": "V-2API-3P",
+   "gloss_en": "turned away",
+   "gloss_ja": "そらす",
+   "verse": "ἤδη γάρ τινες ἐξετράπησαν ὀπίσω τοῦ Σατανᾶ."
+  },
+  {
+   "ref": "1TI 6:20",
+   "form": "ἐκτρεπόμενος",
+   "morph": "V-PMP-NSM",
+   "gloss_en": "avoiding",
+   "gloss_ja": "そらす",
+   "verse": "Ὦ Τιμόθεε, τὴν παραθήκην φύλαξον, ἐκτρεπόμενος τὰς βεβήλους κενοφωνίας καὶ ἀντιθέσεις τῆς ψευδωνύμου γνώσεως,"
+  },
+  {
+   "ref": "2TI 4:4",
+   "form": "ἐκτραπήσονται",
+   "morph": "V-2FPI-3P",
+   "gloss_en": "turn aside",
+   "gloss_ja": "そらす",
+   "verse": "καὶ ἀπὸ μὲν τῆς ἀληθείας τὴν ἀκοὴν ἀποστρέψουσιν, ἐπὶ δὲ τοὺς μύθους ἐκτραπήσονται."
+  },
+  {
+   "ref": "HEB 12:13",
+   "form": "ἐκτραπῇ",
+   "morph": "V-2APS-3S",
+   "gloss_en": "dislocated",
+   "gloss_ja": "そらす",
+   "verse": "καὶ τροχιὰς ὀρθὰς ποιεῖτε τοῖς ποσὶν ὑμῶν, ἵνα μὴ τὸ χωλὸν ἐκτραπῇ, ἰαθῇ δὲ μᾶλλον."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Amos": 1
+  },
+  "representatives": [
+   {
+    "work_code": "AMO",
+    "work_ja": "アモス書",
+    "work_src": "Amos",
+    "ref": "5.8",
+    "form": "ἐκτρέπων",
+    "postag": "v-sppamn-",
+    "sentence": "Κύριος ὁ ποιῶν εἰς ὕψος κρίμα καὶ δικαιοσύνην εἰς γῆν ἔθηκεν, ὁ ποιῶν πάντα καὶ μετασκευάζων καὶ ἐκτρέπων εἰς τὸ πρωΐ σκιὰν καὶ ἡμέραν εἰς νύκτα συσκοτάζων, ὁ προσκαλούμενος τὸ ὕδωρ τῆς θαλάσσης καὶ ἐκχέων αὐτὸ ἐπὶ πρόσωπον τῆς γῆς, Κύριος ὁ Θεὸς παντοκράτωρ ὄνομα αὐτῷ ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Ignatius, Letters": 1
+  },
+  "representatives": [
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "2.11.1",
+    "form": "ἐκτραπῆναι",
+    "postag": "v--anp---",
+    "sentence": "πραχθέντα ἀληθῶς καὶ βεβαίως ὑπὸ Ἰησοῦ Χριστοῦ, τῆς ἐλπίδος ἡμῶν, ἧς ἐκτραπῆναι μηδενὶ ὑμῶν γένοιτο."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "5 ἐκ-τρέπω     [in LXX for הָפַךְ, Am 5:8 * ;]     to turn out of the course, turn aside, c. acc Pass., with middle sense, intrans., to turn aside: He 12:13 (R, txt., for be put out of joint, R, mg., v. Thayer, s.v. Westc., in l); fig., seq. εἰς, I Ti 1:6; ἐπί, II Ti 4:4; ὀπίσω, I Ti 5:15; c. acc, to shun, avoid: I Ti 6:20.†"
+}

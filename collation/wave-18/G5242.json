@@ -1,0 +1,247 @@
+{
+ "strong": "G5242",
+ "lemma": "ὑπερέχω",
+ "nt_freq": 5,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1PE 2:13",
+   "form": "ὑπερέχοντι",
+   "morph": "V-PAP-DSM",
+   "gloss_en": "supreme authority",
+   "gloss_ja": "勝る",
+   "verse": "Ὑποτάγητε πάσῃ ἀνθρωπίνῃ κτίσει διὰ τὸν κύριον· εἴτε βασιλεῖ ὡς ὑπερέχοντι,"
+  },
+  {
+   "ref": "PHP 3:8",
+   "form": "ὑπερέχον",
+   "morph": "V-PAP-ASN",
+   "gloss_en": "surpassing value",
+   "gloss_ja": "勝る",
+   "verse": "ἀλλὰ μενοῦνγε καὶ ἡγοῦμαι πάντα ζημίαν εἶναι διὰ τὸ ὑπερέχον τῆς γνώσεως Χριστοῦ Ἰησοῦ τοῦ κυρίου μου δι’ ὃν τὰ πάντα ἐζημιώθην, καὶ ἡγοῦμαι σκύβαλα ἵνα Χριστὸν κερδήσω"
+  },
+  {
+   "ref": "PHP 4:7",
+   "form": "ὑπερέχουσα",
+   "morph": "V-PAP-NSF",
+   "gloss_en": "surpasses",
+   "gloss_ja": "勝る",
+   "verse": "καὶ ἡ εἰρήνη τοῦ θεοῦ ἡ ὑπερέχουσα πάντα νοῦν φρουρήσει τὰς καρδίας ὑμῶν καὶ τὰ νοήματα ὑμῶν ἐν Χριστῷ Ἰησοῦ."
+  },
+  {
+   "ref": "PHP 2:3",
+   "form": "ὑπερέχοντας",
+   "morph": "V-PAP-APM",
+   "gloss_en": "better",
+   "gloss_ja": "勝る",
+   "verse": "μηδὲν κατ’ ἐριθείαν μηδὲ κατὰ κενοδοξίαν, ἀλλὰ τῇ ταπεινοφροσύνῃ ἀλλήλους ἡγούμενοι ὑπερέχοντας ἑαυτῶν,"
+  },
+  {
+   "ref": "ROM 13:1",
+   "form": "ὑπερεχούσαις",
+   "morph": "V-PAP-DPF",
+   "gloss_en": "governing",
+   "gloss_ja": "勝る",
+   "verse": "Πᾶσα ψυχὴ ἐξουσίαις ὑπερεχούσαις ὑποτασσέσθω, οὐ γὰρ ἔστιν ἐξουσία εἰ μὴ ὑπὸ θεοῦ, αἱ δὲ οὖσαι ὑπὸ θεοῦ τεταγμέναι εἰσίν."
+  }
+ ],
+ "lxx": {
+  "total": 13,
+  "works": {
+   "Genesis": 3,
+   "Exodus": 1,
+   "Leviticus": 1,
+   "Judices": 1,
+   "Regnorum iii": 1,
+   "Paralipomenon ii sive Chronicon ii": 1,
+   "Sapientia Salomonis": 1,
+   "Ecclesiasticus sive Siracides": 2,
+   "Daniel": 2
+  },
+  "representatives": [
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "41.40",
+    "form": "ὑπερέξω",
+    "postag": "v1sfia---",
+    "sentence": "πλὴν τὸν θρόνον ὑπερέξω σου ἐγώ."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "33.7",
+    "form": "ὑπερέχει",
+    "postag": "v3spia---",
+    "sentence": "διατί ἡμέρα ἡμέρας ὑπερέχει, καὶ πᾶν φῶς ἡμέρας ἐνιαυτοῦ ἀφ’ ἡλίου;"
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "7.23",
+    "form": "ὑπερέξει",
+    "postag": "v3sfia---",
+    "sentence": "τὸ θηρίον τὸ τέταρτον, βασιλεία τετάρτη ἔσται ἐν τῇ γῇ, ἥτις ὑπερέξει πάσας τὰς βασιλείας καὶ καταφάγεται πᾶσαν τὴν γῆν καὶ συμπατήσει αὐτὴν καὶ κατακόψει."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "26.13",
+    "form": "ὑπερέχοντος",
+    "postag": "v-sppang-",
+    "sentence": "πῆχυν ἐκ τούτου, καὶ πῆχυν ἐκ τούτου, ἐκ τοῦ ὑπερέχοντος τῶν δέρρεων, ἐκ τοῦ μήκους τῶν δέρρεων τῆς σκηνῆς, ἔσται συγκαλύπτον ἐπὶ τὰ πλάγια τῆς σκηνῆς ἔνθεν καὶ ἔνθεν, ἵνα καλύπτῃ."
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "25.27",
+    "form": "ὑπερέχει",
+    "postag": "v3spia---",
+    "sentence": "ἐὰν δὲ μὴ ᾖ τινι ὁ ἀγχιστεύων καὶ εὐπορηθῇ τῇ χειρὶ καὶ εὑρεθῇ αὐτῷ τὸ ἱκανὸν λύτρα αὐτοῦ, καὶ συλλογιεῖται τὰ ἔτη τῆς πράσεως αὐτοῦ καὶ ἀποδώσει ὃ ὑπερέχει τῷ ἀνθρώπῳ, ᾧ ἀπέδοτο αὐτὸ αὐτῷ, καὶ ἀπελεύσεται εἰς τὴν κατάσχεσιν αὐτοῦ."
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "5.25",
+    "form": "ὑπερεχόντων",
+    "postag": "v-pppamg-",
+    "sentence": "ὕδωρ ᾔτησε, γάλα ἔδωκεν, ἐν λεκάνῃ ὑπερεχόντων προσήνεγκε βούτυρον."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "8.8",
+    "form": "ὑπερεῖχον",
+    "postag": "v3piia---",
+    "sentence": "ὅτι τὰ Χερουβὶμ διαπεπετασμένα ταῖς πτέρυξιν ἐπὶ τὸν τόπον τῆς κιβωτοῦ, καὶ περιεκάλυπτον τὰ Χερουβὶμ ἐπὶ τὴν κιβωτὸν καὶ ἐπὶ τὰ ἅγια αὐτῆς ἐπάνωθεν, καὶ ὑπερεῖχον τὰ ἡγιασμένα, καὶ ἐνεβλέποντο αἱ κεφαλαὶ τῶν ἡγιασμένων ἐκ τῶν ἁγίων εἰς πρόσωπον τοῦ δαβὶρ καὶ οὐκ ὠπτάνοντο ἔξω."
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "5.9",
+    "form": "ὑπερεῖχον",
+    "postag": "v3piia---",
+    "sentence": "καὶ ὑπερεῖχον οἱ ἀναφορεῖς, καὶ ἐβλέποντο αἱ κεφαλαὶ τῶν ἀναφορέων ἐκ τῶν ἁγίων εἰς πρόσωπον τοῦ δαβίρ, οὐκ ἐβλέποντο ἔξω ·"
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "6.5",
+    "form": "ὑπερέχουσι",
+    "postag": "v-pppamd-",
+    "sentence": "φρικτῶς καὶ ταχέως ἐπιστήσεται ὑμῖν, ὅτι κρίσις ἀπότομος ἐν τοῖς ὑπερέχουσι γίνεται."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "25.23",
+    "form": "ὑπερέξει",
+    "postag": "v3sfia---",
+    "sentence": "καὶ λαὸς λαοῦ ὑπερέξει, καὶ ὁ μείζων δουλεύσει τῷ ἐλάσσονι."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "43.30",
+    "form": "ὑπερέξει",
+    "postag": "v3sfia---",
+    "sentence": "δοξάζοντες Κύριον ὑψώσατε, καθόσον ἂν δύνησθε, ὑπερέξει γὰρ καὶ ἔτι ·"
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "5.11",
+    "form": "ὑπερέχων",
+    "postag": "v-sppamn-",
+    "sentence": "τότε ἡ βασίλισσα ἐμνήσθη πρὸς αὐτὸν περὶ τοῦ Δανιηλ, ὃς ἦν ἐκ τῆς αἰχμαλωσίας τῆς Ιουδαίας, καὶ εἶπε τῷ βασιλεῖ Ὁ ἄνθρωπος ἐπιστήμων ἦν καὶ σοφὸς καὶ ὑπερέχων πάντας τοὺς σοφοὺς Βαβυλῶνος, καὶ πνεῦμα ἅγιον ἐν αὐτῷ ἐστι, καὶ ἐν ταῖς ἡμέραις τοῦ πατρός σου τοῦ βασιλέως συγκρίματα ὑπέρογκα ὑπέδειξε Ναβουχοδονοσορ τῷ πατρί σου."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 7,
+  "works": {
+   "Barnabas": 2,
+   "Hermas, Pastor": 5
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.28.4",
+    "form": "ὑπερέχων",
+    "postag": "v-sppamn-",
+    "sentence": "τούτων ὁ καρπός ἐστιν ὁ ὑπερέχων ·"
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "21.2",
+    "form": "ὑπερέχοντας",
+    "postag": "v-pppama-",
+    "sentence": "ἐρωτῶ τοὺς ὑπερέχοντας, εἴ τινά μου γνώμης ἀγαθῆς λαμβάνετε συμβουλίαν ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "3.4.2",
+    "form": "ὑπερέχοντες",
+    "postag": "v-pppamn-",
+    "sentence": "οὗτοι δὲ οἱ ἓξ ὑπερέχοντες αὐτούς εἰσιν ·"
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "13.2",
+    "form": "ὑπερέξει",
+    "postag": "v3sfia---",
+    "sentence": "δύο ἔθνη ἐν τῇ γαστρί σου καὶ δύο λαοὶ ἐν τῇ κοιλίᾳ σου, καὶ ὑπερέξει λαὸς λαοῦ καὶ ὁ μείζων δουλεύσει τῷ ἐλάσσονι."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.6.1",
+    "form": "ὑπερέχειν",
+    "postag": "v--pna---",
+    "sentence": "καὶ εἰς τὸ μέσον ἀνήρ τις ὑψηλὸς τῷ μεγέθει, ὥστε τὸν πύργον ὑπερέχειν."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.28.3",
+    "form": "ὑπερέχοντες",
+    "postag": "v-pppamn-",
+    "sentence": "διατί δὲ οἱ καρποὶ αὐτῶν ποικίλοι εἰσίν, τινὲς δὲ ὑπερέχοντες, ἄκουε."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "3.9.5",
+    "form": "ὑπερέχοντες",
+    "postag": "v-pppamn-",
+    "sentence": "οἱ ὑπερέχοντες οὖν ἐκζητεῖτε τοὺς πεινῶντας, ἕως οὔπω ὁ πύργος ἐτελέσθη ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "5 ὑπερ-έχω     [in LXX: Ge 25:23 (אָמַץ), Ex 26:13 (עֲדַף), Si 36:7, al. ;]     trans., to hold over or above.    Intrans. (when a noun follows, the case is governed by the prep.; v. Bl., § 34, 1; 36, 8), to rise above, overtop; metaph.,    to be superior in rank, etc.: Ro 13:1, I Pe 2:13 (cf. Wi 6:6);    to be superior, excel, surpass: c. gen. (cl.; v. supr.), Phl 2:3; c. acc (cl.; v. supr.), Phl 4:7; as subst., τ. ὑπερέχον, the excel­lency, the surpassing worth, Phl 3:8.†"
+}

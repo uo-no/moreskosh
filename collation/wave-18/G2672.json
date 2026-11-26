@@ -1,0 +1,229 @@
+{
+ "strong": "G2672",
+ "lemma": "καταράομαι",
+ "nt_freq": 5,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JAS 3:9",
+   "form": "καταρώμεθα",
+   "morph": "V-PNI-1P",
+   "gloss_en": "curse",
+   "gloss_ja": "のろう",
+   "verse": "ἐν αὐτῇ εὐλογοῦμεν τὸν κύριον καὶ πατέρα, καὶ ἐν αὐτῇ καταρώμεθα τοὺς ἀνθρώπους τοὺς καθ’ ὁμοίωσιν θεοῦ γεγονότας·"
+  },
+  {
+   "ref": "LUK 6:28",
+   "form": "καταρωμένους",
+   "morph": "V-PNP-APM",
+   "gloss_en": "curse",
+   "gloss_ja": "のろう",
+   "verse": "εὐλογεῖτε τοὺς καταρωμένους ὑμᾶς, προσεύχεσθε περὶ τῶν ἐπηρεαζόντων ὑμᾶς."
+  },
+  {
+   "ref": "MAT 25:41",
+   "form": "κατηραμένοι",
+   "morph": "V-RPP-NPM",
+   "gloss_en": "cursed",
+   "gloss_ja": "のろう",
+   "verse": "τότε ἐρεῖ καὶ τοῖς ἐξ εὐωνύμων· Πορεύεσθε ἀπ’ ἐμοῦ οἱ κατηραμένοι εἰς τὸ πῦρ τὸ αἰώνιον τὸ ἡτοιμασμένον τῷ διαβόλῳ καὶ τοῖς ἀγγέλοις αὐτοῦ."
+  },
+  {
+   "ref": "MRK 11:21",
+   "form": "κατηράσω",
+   "morph": "V-ADI-2S",
+   "gloss_en": "cursed",
+   "gloss_ja": "のろう",
+   "verse": "καὶ ἀναμνησθεὶς ὁ Πέτρος λέγει αὐτῷ· Ῥαββί, ἴδε ἡ συκῆ ἣν κατηράσω ἐξήρανται."
+  },
+  {
+   "ref": "ROM 12:14",
+   "form": "καταρᾶσθε",
+   "morph": "V-PNM-2P",
+   "gloss_en": "curse",
+   "gloss_ja": "のろう",
+   "verse": "εὐλογεῖτε τοὺς διώκοντας, εὐλογεῖτε καὶ μὴ καταρᾶσθε."
+  }
+ ],
+ "lxx": {
+  "total": 58,
+  "works": {
+   "Genesis": 5,
+   "Leviticus": 4,
+   "Numeri": 6,
+   "Deuteronomium": 1,
+   "Judices": 3,
+   "Regnorum i": 1,
+   "Regnorum ii": 7,
+   "Regnorum iii": 2,
+   "Regnorum iv": 1,
+   "Esdras ii": 3,
+   "Psalmi": 3,
+   "Proverbia": 3,
+   "Ecclesiastes": 4,
+   "Job": 5,
+   "Ecclesiasticus sive Siracides": 7,
+   "Psalmi Salomonis": 1,
+   "Malachias": 1,
+   "Jeremias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "16.7",
+    "form": "καταρᾶσθαι",
+    "postag": "v--pnm---",
+    "sentence": "καὶ οὕτως ἔλεγε Σεμεΐ ἐν τῷ καταρᾶσθαι αὐτόν ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "34.24",
+    "form": "καταρώμενος",
+    "postag": "v-sppmmn-",
+    "sentence": "εἷς εὐχόμενος καὶ εἷς καταρώμενος ·"
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "22.12",
+    "form": "καταράσῃ",
+    "postag": "v2sfim---",
+    "sentence": "οὐ πορεύσῃ μετ’ αὐτῶν, οὐ-δὲ καταράσῃ τὸν λαόν ·"
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "27.29",
+    "form": "καταρώμενός",
+    "postag": "v-sppmmn-",
+    "sentence": "ὁ καταρώμενός σε ἐπικατάρατος, ὁ δὲ εὐλογῶν σε εὐλογημένος."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "3.5",
+    "form": "καταραθείη",
+    "postag": "v3saop---",
+    "sentence": "καταραθείη ἡ ἡμέρα καὶ ἡ νὺξ ἐκείνη, ἀπενέγκαιτο αὐτὴν σκότος ·"
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "24.15",
+    "form": "καταράσηται",
+    "postag": "v3sasm---",
+    "sentence": "ἄνθρωπος ὃς ἐὰν καταράσηται Θεόν, ἁμαρτίαν λήψεται ·"
+   },
+   {
+    "work_code": "ECC",
+    "work_ja": "コヘレトの言葉",
+    "work_src": "Ecclesiastes",
+    "ref": "7.22",
+    "form": "κατηράσω",
+    "postag": "v2saim---",
+    "sentence": "ὅτι πλειστάκις πονηρεύσεταί σε καὶ καθόδους πολλὰς κακώσει καρδίαν σου, ὅτι ὡς καί γε σὺ κατηράσω ἑτέρους."
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "5.23",
+    "form": "καταρᾶσθε",
+    "postag": "v2ppmm---",
+    "sentence": "καταρᾶσθε Μηρώζ, εἶπεν ἄγγελος Κυρίου, καταρᾶσθε, ἐπικατάρατος πᾶς ὁ κατοικῶν αὐτήν, ὅτι οὐκ ἤλθοσαν εἰς βοήθειαν Κυρίου, εἰς βοήθειαν ἐν δυνατοῖς."
+   },
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "23.2",
+    "form": "καταράσασθαι",
+    "postag": "v--anm---",
+    "sentence": "ἐν τῇ ἡμέρᾳ ἐκείνῃ ἀνεγνώσθη ἐν βιβλίῳ Μωυσῆ ἐν ὠσὶ τοῦ λαοῦ καὶ εὑρέθη γεγραμμένον ἐν αὐτῷ, ὅπως μὴ εἰσέλθωσιν Ἀμμανῖται καὶ Μωαβῖται ἐν ἐκκλησίᾳ Θεοῦ ἕως αἰῶνος, ὅτι οὐ συνήντησαν τοῖς υἱοῖς Ἰσραὴλ ἐν ἄρτῳ καὶ ὕδατι καὶ ἐμισθώσαντο ἐπ’ αὐτὸν τὸν Βαλαὰμ καταράσασθαι, καὶ ἐπέστρεψεν ὁ Θεὸς ἡμῶν τὴν κατάραν εἰς εὐλογίαν."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "108.28",
+    "form": "καταράσονται",
+    "postag": "v3pfim---",
+    "sentence": "καταράσονται αὐτοί, καὶ σὺ εὐλογήσεις ·"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "30.11",
+    "form": "καταρᾶται",
+    "postag": "v3spim---",
+    "sentence": "ἔκγονον κακὸν πατέρα καταρᾶται, τὴν δὲ μητέρα οὐκ εὐλογεῖ."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "2.35μ",
+    "form": "κατηράσατό",
+    "postag": "v3saim---",
+    "sentence": "οὗτος κατηράσατό με κατάραν ὀδυνηρὰν ἐν ᾗ ἡμέρᾳ ἐπορευόμην εἰς Παρεμβολάς, καὶ αὐτὸς κατέβαινεν εἰς ἀπαντὴν μοι ἐπὶ τὸν Ἰορδάνην καὶ ὤμοσα αὐτῷ κατὰ τοῦ Κυρίου λέγων ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 4,
+  "works": {
+   "1 Clement": 3,
+   "Didache": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "15.3",
+    "form": "κατηρῶντο",
+    "postag": "v3piim---",
+    "sentence": "τῷ στόματι αὐτῶν εὐλογοῦσιν, τῇ δὲ καρδίᾳ αὐτῶν κατηρῶντο."
+   },
+   {
+    "work_code": "DID",
+    "work_ja": "ディダケー",
+    "work_src": "Didache",
+    "ref": "1.3",
+    "form": "καταρωμένους",
+    "postag": "v-pppmma-",
+    "sentence": "εὐλογεῖτε τοὺς καταρωμένους ὑμῖν καὶ προσεύχεσθε ὑπὲρ τῶν ἐχθρῶν ὑμῶν, νηστεύετε δὲ ὑπὲρ τῶν διωκόντων ὑμᾶς ·"
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "10.3",
+    "form": "καταράσομαι",
+    "postag": "v1sfim---",
+    "sentence": "καὶ εὐλογήσω τοὺς εὐλογοῦντάς σε καὶ καταράσομαι τοὺς καταρωμένους σε, καὶ εὐλογηθήσονται ἐν σοὶ πᾶσαι αἱ φυλαὶ τῆς γῆς."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "10.3",
+    "form": "καταρωμένους",
+    "postag": "v-pppmma-",
+    "sentence": "καὶ εὐλογήσω τοὺς εὐλογοῦντάς σε καὶ καταράσομαι τοὺς καταρωμένους σε, καὶ εὐλογηθήσονται ἐν σοὶ πᾶσαι αἱ φυλαὶ τῆς γῆς."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "5   κατ-αράομαι, -ώμαι, depon.   (< κατάρα),   [in LXX chiefly for קלל pi.;]    to curse: c. acc., Mk 11:21; opp. to εὐλογέω, Lk 6:28, Ro 12:14, Ja 3:9; pass. pf. ptcp., accursed, under a curse (v. M, Pr., 221): Mt 25:41.†"
+}

@@ -1,0 +1,119 @@
+{
+ "strong": "G3942",
+ "lemma": "παροιμία",
+ "nt_freq": 5,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2PE 2:22",
+   "form": "παροιμίας",
+   "morph": "N-GSF",
+   "gloss_en": "proverb",
+   "gloss_ja": "たとえ",
+   "verse": "συμβέβηκεν αὐτοῖς τὸ τῆς ἀληθοῦς παροιμίας· Κύων ἐπιστρέψας ἐπὶ τὸ ἴδιον ἐξέραμα, καί· Ὗς λουσαμένη εἰς κυλισμὸν βορβόρου."
+  },
+  {
+   "ref": "JHN 10:6",
+   "form": "παροιμίαν",
+   "morph": "N-ASF",
+   "gloss_en": "figure of speech",
+   "gloss_ja": "たとえ",
+   "verse": "ταύτην τὴν παροιμίαν εἶπεν αὐτοῖς ὁ Ἰησοῦς· ἐκεῖνοι δὲ οὐκ ἔγνωσαν τίνα ἦν ἃ ἐλάλει αὐτοῖς."
+  },
+  {
+   "ref": "JHN 16:25",
+   "form": "παροιμίαις",
+   "morph": "N-DPF",
+   "gloss_en": "figures of speech",
+   "gloss_ja": "たとえ",
+   "verse": "Ταῦτα ἐν παροιμίαις λελάληκα ὑμῖν· ἔρχεται ὥρα ὅτε οὐκέτι ἐν παροιμίαις λαλήσω ὑμῖν ἀλλὰ παρρησίᾳ περὶ τοῦ πατρὸς ἀπαγγελῶ ὑμῖν."
+  },
+  {
+   "ref": "JHN 16:25",
+   "form": "παροιμίαις",
+   "morph": "N-DPF",
+   "gloss_en": "figures",
+   "gloss_ja": "たとえ",
+   "verse": "Ταῦτα ἐν παροιμίαις λελάληκα ὑμῖν· ἔρχεται ὥρα ὅτε οὐκέτι ἐν παροιμίαις λαλήσω ὑμῖν ἀλλὰ παρρησίᾳ περὶ τοῦ πατρὸς ἀπαγγελῶ ὑμῖν."
+  },
+  {
+   "ref": "JHN 16:29",
+   "form": "παροιμίαν",
+   "morph": "N-ASF",
+   "gloss_en": "figure of speech",
+   "gloss_ja": "たとえ",
+   "verse": "Λέγουσιν οἱ μαθηταὶ αὐτοῦ· Ἴδε νῦν ἐν παρρησίᾳ λαλεῖς, καὶ παροιμίαν οὐδεμίαν λέγεις."
+  }
+ ],
+ "lxx": {
+  "total": 6,
+  "works": {
+   "Proverbia": 1,
+   "Ecclesiasticus sive Siracides": 5
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "8.8",
+    "form": "παροιμίαις",
+    "postag": "n-p---fd-",
+    "sentence": "μὴ παρίδῃς διήγημα σοφῶν, καὶ ἐν ταῖς παροιμίαις αὐτῶν ἀναστρέφου ·"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "1.1",
+    "form": "παροιμίαι",
+    "postag": "n-p---fn-",
+    "sentence": "παροιμίαι Σολομῶντος υἱοῦ Δαυίδ, ὃς ἐβασίλευσεν ἐν Ἰσραήλ, γνῶναι σοφίαν καὶ παιδείαν νοῆσαί τε λόγους φρονήσεως δέξασθαί τε στροφὰς λόγων νοῆσαί τε δικαιοσύνην ἀληθῆ καὶ κρίμα κατευθύνειν, ἵνα δῷ ἀκάκοις πανουργίαν, παιδὶ δὲ νέῳ αἴσθησίν τε καὶ ἔννοιαν ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "39.3",
+    "form": "παροιμιῶν",
+    "postag": "n-p---fg-",
+    "sentence": "ἀπόκρυφα παροιμιῶν ἐκζητήσει καὶ ἐν αἰνίγμασι παραβολῶν ἀναστραφήσεται."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "18.29",
+    "form": "παροιμίας",
+    "postag": "n-p---fa-",
+    "sentence": "συνετοὶ ἐν λόγοις καὶ αὐτοὶ ἐσοφίσαντο καὶ ἀνώμβρησαν παροιμίας ἀκριβεῖς."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "47.17",
+    "form": "παροιμίαις",
+    "postag": "n-p---fd-",
+    "sentence": "ἐν ᾠδαῖς καὶ παροιμίαις καὶ παραβολαῖς καὶ ἐν ἑρμηνείαις ἀπεθαύμασάν σε χῶραι."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "6.35",
+    "form": "παροιμίαι",
+    "postag": "n-p---fn-",
+    "sentence": "πᾶσαν διήγησιν θείαν θέλε ἀκροᾶσθαι, καὶ παροιμίαι συνέσεως μὴ ἐκφευγέτωσάν σε."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "5   παροιμία, -ας, ἡ    (< πάροιμος, by the way),   [in LXX. Pr tit 1:1 25:1, (מָשָׁל) subscr., Si 6:35 8:8 18:29 39:3 47:17*;]      a wayside saying (Hesych.; v. LS, s.v.), a byword, maxim, proverb: II Pe 2:22.     In NT, of figurative discourse (as מָשָׁל, Is 14:4, al.), a parable, allegory: Jo 10:6 16:25, 29 (v. Abbott, Essays, 82 ff.).†   SYN.: παραβολή, q.v."
+}

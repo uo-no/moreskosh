@@ -1,0 +1,187 @@
+{
+ "strong": "G2337",
+ "lemma": "θηλάζω",
+ "nt_freq": 5,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 11:27",
+   "form": "ἐθήλασας",
+   "morph": "V-AAI-2S",
+   "gloss_en": "nursed",
+   "gloss_ja": "乳を飲む",
+   "verse": "Ἐγένετο δὲ ἐν τῷ λέγειν αὐτὸν ταῦτα ἐπάρασά τις φωνὴν γυνὴ ἐκ τοῦ ὄχλου εἶπεν αὐτῷ· Μακαρία ἡ κοιλία ἡ βαστάσασά σε καὶ μαστοὶ οὓς ἐθήλασας·"
+  },
+  {
+   "ref": "LUK 21:23",
+   "form": "θηλαζούσαις",
+   "morph": "V-PAP-DPF",
+   "gloss_en": "nursing mothers",
+   "gloss_ja": "乳を飲む",
+   "verse": "οὐαὶ ταῖς ἐν γαστρὶ ἐχούσαις καὶ ταῖς θηλαζούσαις ἐν ἐκείναις ταῖς ἡμέραις· ἔσται γὰρ ἀνάγκη μεγάλη ἐπὶ τῆς γῆς καὶ ὀργὴ τῷ λαῷ τούτῳ,"
+  },
+  {
+   "ref": "MAT 21:16",
+   "form": "θηλαζόντων",
+   "morph": "V-PAP-GPM",
+   "gloss_en": "nursing babies",
+   "gloss_ja": "乳を飲む",
+   "verse": "καὶ εἶπαν αὐτῷ· Ἀκούεις τί οὗτοι λέγουσιν; ὁ δὲ Ἰησοῦς λέγει αὐτοῖς· Ναί. οὐδέποτε ἀνέγνωτε ὅτι Ἐκ στόματος νηπίων καὶ θηλαζόντων κατηρτίσω αἶνον;"
+  },
+  {
+   "ref": "MAT 24:19",
+   "form": "θηλαζούσαις",
+   "morph": "V-PAP-DPF",
+   "gloss_en": "nursing mothers",
+   "gloss_ja": "乳を飲む",
+   "verse": "οὐαὶ δὲ ταῖς ἐν γαστρὶ ἐχούσαις καὶ ταῖς θηλαζούσαις ἐν ἐκείναις ταῖς ἡμέραις."
+  },
+  {
+   "ref": "MRK 13:17",
+   "form": "θηλαζούσαις",
+   "morph": "V-PAP-DPF",
+   "gloss_en": "nursing mothers",
+   "gloss_ja": "乳を飲む",
+   "verse": "οὐαὶ δὲ ταῖς ἐν γαστρὶ ἐχούσαις καὶ ταῖς θηλαζούσαις ἐν ἐκείναις ταῖς ἡμέραις."
+  }
+ ],
+ "lxx": {
+  "total": 30,
+  "works": {
+   "Genesis": 2,
+   "Exodus": 3,
+   "Numeri": 1,
+   "Deuteronomium": 3,
+   "Regnorum i": 3,
+   "Regnorum iii": 2,
+   "Judith": 1,
+   "Machabaeorum ii": 1,
+   "Psalmi": 1,
+   "Odae": 2,
+   "Canticum": 1,
+   "Job": 2,
+   "Joel": 1,
+   "Isaias": 2,
+   "Jeremias": 1,
+   "Threni seu Lamentationes": 4
+  },
+  "representatives": [
+   {
+    "work_code": "LAM",
+    "work_ja": "哀歌",
+    "work_src": "Threni seu Lamentationes",
+    "ref": "4.3",
+    "form": "ἐθήλασαν",
+    "postag": "v3paia---",
+    "sentence": "καί γε δράκοντες ἐξέδυσαν μαστούς, ἐθήλασαν σκύμνοι αὐτῶν ·"
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "2.9",
+    "form": "ἐθήλαζεν",
+    "postag": "v3siia---",
+    "sentence": "ἔλαβε δὲ ἡ γυνὴ τὸ παιδίον καὶ ἐθήλαζεν αὐτό."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "32.25",
+    "form": "θηλάζων",
+    "postag": "v-sppamn-",
+    "sentence": "νεανίσκος σὺν παρθένῳ, θηλάζων μετὰ καθεστηκότος πρεσβύτου."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "1.23",
+    "form": "ἐθήλασε",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἐκάθισεν ἡ γυνὴ καὶ ἐθήλασε τὸν υἱὸν αὐτῆς, ἕως ἂν ἀπογαλακτίσῃ αὐτόν."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "21.7",
+    "form": "θηλάζει",
+    "postag": "v3spia---",
+    "sentence": "τίς ἀναγγελεῖ τῷ Ἁβραάμ, ὅτι θηλάζει παιδίον Σάρρα;"
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "3.21",
+    "form": "θηλάσαι",
+    "postag": "v--ana---",
+    "sentence": "καὶ ἀνέστην τὸ πρωΐ θηλάσαι τὸν υἱόν μου, καὶ ἐκεῖνος ἦν τεθνηκώς ·"
+   },
+   {
+    "work_code": "ODE",
+    "work_ja": "頌歌（オード）",
+    "work_src": "Odae",
+    "ref": "2.25",
+    "form": "θηλάζων",
+    "postag": "v-sppamn-",
+    "sentence": "νεανίσκος σὺν παρθένῳ, θηλάζων μετὰ καθεστηκότος πρεσβυτέρου."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "20.16",
+    "form": "θηλάσειεν",
+    "postag": "v3saoa---",
+    "sentence": "πλοῦτος ἀδίκως συναγόμενος ἐξεμεθήσεται, ἐξ οἰκίας αὐτοῦ ἐξελκύσει αὐτὸν ἄγγελος, θυμὸν δὲ δρακόντων θηλάσειεν, ἀνέλοι δὲ αὐτὸν γλῶσσα ὄφεως."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "60.16",
+    "form": "θηλάσεις",
+    "postag": "v2sfia---",
+    "sentence": "καὶ θηλάσεις γάλα ἐθνῶν καὶ πλοῦτον βασιλέων φάγεσαι ·"
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "11.12",
+    "form": "θηλάζοντα",
+    "postag": "v-sppama-",
+    "sentence": "μὴ ἐγὼ ἐν γαστρὶ ἔλαβον πάντα τὸν λαὸν τοῦτον, ἢ ἐγὼ ἔτεκον αὐτούς, ὅτι λέγεις μοι, λάβε αὐτὸν εἰς τὸν κόλπον σου, ὡσεὶ ἄραι τιθηνὸς τὸν θηλάζοντα, εἰς τὴν γῆν ἣν ὤμοσας τοῖς πατράσιν αὐτῶν;"
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "16.4",
+    "form": "θηλάζοντά",
+    "postag": "v-pppana-",
+    "sentence": "εἶπεν ἐμπρήσειν τὰ ὅριά μου καὶ τοὺς νεανίσκους μου ἀνελεῖν ἐν ρομφαίᾳ καὶ τὰ θηλάζοντά μου θήσειν εἰς ἔδαφος καὶ τὰ νήπιά μου δώσειν εἰς προνομὴν καὶ τὰς παρθένους μου σκυλεῦσαι."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "7.27",
+    "form": "θηλάσασάν",
+    "postag": "v-sapafa-",
+    "sentence": "υἱέ, ἐλέησόν με τὴν ἐν γαστρὶ περιενέγκασάν σε μῆνας ἐννέα καὶ θηλάσασάν σε ἔτη τρία καὶ ἐκθρέψασάν σε καὶ ἀγαγοῦσαν εἰς τὴν ἡλικίαν ταύτην καὶ τροφοφορήσασαν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "5   θηλάζω    (< θηλή, a breast),    [in LXX chiefly for ינק hi.;]      of the mother, to suckle: Mt 24:19, Mk 13:17, Lk 21:23.   Of the young, to suck: Mt 21:16; μαστούς, Lk 11:27 (cf. Jb 3:12, Ca 8:1, al.).†"
+}

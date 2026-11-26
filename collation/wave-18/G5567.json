@@ -1,0 +1,190 @@
+{
+ "strong": "G5567",
+ "lemma": "ψάλλω",
+ "nt_freq": 5,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 14:15",
+   "form": "ψαλῶ",
+   "morph": "V-FAI-1S",
+   "gloss_en": "sing praise",
+   "gloss_ja": "賛美する",
+   "verse": "τί οὖν ἐστιν; προσεύξομαι τῷ πνεύματι, προσεύξομαι δὲ καὶ τῷ νοΐ· ψαλῶ τῷ πνεύματι, ψαλῶ δὲ καὶ τῷ νοΐ·"
+  },
+  {
+   "ref": "1CO 14:15",
+   "form": "ψαλῶ",
+   "morph": "V-FAI-1S",
+   "gloss_en": "sing",
+   "gloss_ja": "賛美する",
+   "verse": "τί οὖν ἐστιν; προσεύξομαι τῷ πνεύματι, προσεύξομαι δὲ καὶ τῷ νοΐ· ψαλῶ τῷ πνεύματι, ψαλῶ δὲ καὶ τῷ νοΐ·"
+  },
+  {
+   "ref": "EPH 5:19",
+   "form": "ψάλλοντες",
+   "morph": "V-PAP-NPM",
+   "gloss_en": "making melody",
+   "gloss_ja": "賛美する",
+   "verse": "λαλοῦντες ἑαυτοῖς ψαλμοῖς καὶ ὕμνοις καὶ ᾠδαῖς πνευματικαῖς, ᾄδοντες καὶ ψάλλοντες τῇ καρδίᾳ ὑμῶν τῷ κυρίῳ,"
+  },
+  {
+   "ref": "JAS 5:13",
+   "form": "ψαλλέτω",
+   "morph": "V-PAM-3S",
+   "gloss_en": "sing songs of praise",
+   "gloss_ja": "賛美する",
+   "verse": "Κακοπαθεῖ τις ἐν ὑμῖν; προσευχέσθω· εὐθυμεῖ τις; ψαλλέτω."
+  },
+  {
+   "ref": "ROM 15:9",
+   "form": "ψαλῶ",
+   "morph": "V-FAI-1S",
+   "gloss_en": "sing",
+   "gloss_ja": "賛美する",
+   "verse": "τὰ δὲ ἔθνη ὑπὲρ ἐλέους δοξάσαι τὸν θεόν· καθὼς γέγραπται· Διὰ τοῦτο ἐξομολογήσομαί σοι ἐν ἔθνεσι, καὶ τῷ ὀνόματί σου ψαλῶ."
+  }
+ ],
+ "lxx": {
+  "total": 59,
+  "works": {
+   "Judices": 1,
+   "Regnorum i": 6,
+   "Regnorum ii": 1,
+   "Regnorum iv": 3,
+   "Psalmi": 45,
+   "Ecclesiasticus sive Siracides": 1,
+   "Psalmi Salomonis": 2
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "100.2",
+    "form": "ψαλῶ",
+    "postag": "v1sfia---",
+    "sentence": "ψαλῶ καὶ συνήσω ἐν ὁδῷ ἀμώμῳ ·"
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "16.17",
+    "form": "ψάλλοντα",
+    "postag": "v-sppama-",
+    "sentence": "ἴδετε δή μοι ἄνδρα ὀρθῶς ψάλλοντα καὶ εἰσαγάγετε αὐτὸν πρός με."
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "3.15",
+    "form": "ἔψαλλεν",
+    "postag": "v3siia---",
+    "sentence": "καὶ ἐγένετο ὡς ἔψαλλεν ὁ ψάλλων, καὶ ἐγένετο ἐπ’ αὐτὸν χεὶρ Κυρίου, καὶ εἶπε ·"
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "3.1",
+    "form": "ψάλατε",
+    "postag": "v2pama---",
+    "sentence": "ὕμνον καινὸν ψάλατε τῷ θεῷ τῷ αἰνετῷ."
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "5.3",
+    "form": "ψαλῶ",
+    "postag": "v1sfia---",
+    "sentence": "ἐγώ εἰμι τῷ Κυρίῳ, ἐγώ εἰμι, ἄσομαι, ψαλῶ τῷ Κυρίῳ τῷ Θεῷ Ἰσραήλ."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "22.50",
+    "form": "ψαλῶ",
+    "postag": "v1sfia---",
+    "sentence": "διὰ τοῦτο ἐξομολογήσομαί σοι, Κύριε, ἐν τοῖς ἔθνεσι καὶ ἐν τῷ ὀνόματί σου ψαλῶ, μεγαλύνων τὰς σωτηρίας βασιλέως αὐτοῦ καὶ ποιῶν ἔλεος τῷ χριστῷ αὐτοῦ, τῷ Δαυὶδ καὶ τῷ σπέρματι αὐτοῦ ἕως αἰῶνος."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "9.4",
+    "form": "ψαλλούσῃς",
+    "postag": "v-pppafd-",
+    "sentence": "μετὰ ψαλλούσῃς μὴ ἐνδελέχιζε, μήποτε ἁλῷς ἐν τοῖς ἐπιχειρήμασιν αὐτῆς."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "20.14",
+    "form": "ψαλοῦμεν",
+    "postag": "v1pfia---",
+    "sentence": "ᾄσομεν καὶ ψαλοῦμεν τὰς δυναστείας σου."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "19.9",
+    "form": "ἔψαλλε",
+    "postag": "v3siia---",
+    "sentence": "καὶ ἐγένετο πνεῦμα Θεοῦ πονηρὸν ἐπὶ Σαούλ, καὶ αὐτὸς ἐν οἴκῳ καθεύδων, καὶ δόρυ ἐν τῇ χειρὶ αὐτοῦ, καὶ Δαυὶδ ἔψαλλε ταῖς χερσὶν αὐτοῦ ·"
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "3.15",
+    "form": "ψάλλων",
+    "postag": "v-sppamn-",
+    "sentence": "καὶ ἐγένετο ὡς ἔψαλλεν ὁ ψάλλων, καὶ ἐγένετο ἐπ’ αὐτὸν χεὶρ Κυρίου, καὶ εἶπε ·"
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "3.2",
+    "form": "ψάλλε",
+    "postag": "v2spma---",
+    "sentence": "ψάλλε καὶ γρηγόρησον ἐπὶ τὴν γρηγόρησιν αὐτοῦ, ὅτι ἀγαθὸς ψαλμὸς τῷ θεῷ ἐξ ἀγαθῆς καρδίας."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "67.26",
+    "form": "ψαλλόντων",
+    "postag": "v-pppamg-",
+    "sentence": "προέφθασαν ἄρχοντες ἐχόμενοι ψαλλόντων ἐν μέσῳ νεανίδων τυμπανιστριῶν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Barnabas": 1
+  },
+  "representatives": [
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "6.16",
+    "form": "ψαλῶ",
+    "postag": "v1sfia---",
+    "sentence": "ἐξομολογήσομαί σοι ἐν ἐκκλησίᾳ ἀδελφῶν μου, καὶ ψαλῶ σοι ἀνάμεσον ἐκκλησίας ἁγίων."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "5 ψάλλω     [in LXX chiefly for זמר pi. (Jg 5:3, Ps 7:17, al.), also for נגן pi. (I Ki 16:16ff., al.) ;]     to pull, twitch, twang (as a bowstring, etc.; Æsch., Eur., al.), hence,      absol.,    to play a stringed instrument with the fingers (Hdt., Plat., al.);    later, to sing to a harp, sing psalms (LXX); in NT, to sing a hymn, sing praise: Ja 5:13; c. dat. pers., Ro 15:9 (LXX), Eph 5:19; dat. instr., I Co 14:15.†"
+}

@@ -1,0 +1,94 @@
+{
+ "strong": "G3472",
+ "lemma": "μωρία",
+ "nt_freq": 5,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 3:19",
+   "form": "μωρία",
+   "morph": "N-NSF",
+   "gloss_en": "foolishness",
+   "gloss_ja": "愚かさ",
+   "verse": "ἡ γὰρ σοφία τοῦ κόσμου τούτου μωρία παρὰ τῷ θεῷ ἐστιν· γέγραπται γάρ· Ὁ δρασσόμενος τοὺς σοφοὺς ἐν τῇ πανουργίᾳ αὐτῶν·"
+  },
+  {
+   "ref": "1CO 2:14",
+   "form": "μωρία",
+   "morph": "N-NSF",
+   "gloss_en": "foolishness",
+   "gloss_ja": "愚かさ",
+   "verse": "Ψυχικὸς δὲ ἄνθρωπος οὐ δέχεται τὰ τοῦ πνεύματος τοῦ θεοῦ, μωρία γὰρ αὐτῷ ἐστίν, καὶ οὐ δύναται γνῶναι, ὅτι πνευματικῶς ἀνακρίνεται·"
+  },
+  {
+   "ref": "1CO 1:18",
+   "form": "μωρία",
+   "morph": "N-NSF",
+   "gloss_en": "foolishness",
+   "gloss_ja": "愚かさ",
+   "verse": "Ὁ λόγος γὰρ ὁ τοῦ σταυροῦ τοῖς μὲν ἀπολλυμένοις μωρία ἐστίν, τοῖς δὲ σῳζομένοις ἡμῖν δύναμις θεοῦ ἐστιν."
+  },
+  {
+   "ref": "1CO 1:21",
+   "form": "μωρίας",
+   "morph": "N-GSF",
+   "gloss_en": "foolishness",
+   "gloss_ja": "愚かさ",
+   "verse": "ἐπειδὴ γὰρ ἐν τῇ σοφίᾳ τοῦ θεοῦ οὐκ ἔγνω ὁ κόσμος διὰ τῆς σοφίας τὸν θεόν, εὐδόκησεν ὁ θεὸς διὰ τῆς μωρίας τοῦ κηρύγματος σῶσαι τοὺς πιστεύοντας."
+  },
+  {
+   "ref": "1CO 1:23",
+   "form": "μωρίαν",
+   "morph": "N-ASF",
+   "gloss_en": "foolishness",
+   "gloss_ja": "愚かさ",
+   "verse": "ἡμεῖς δὲ κηρύσσομεν Χριστὸν ἐσταυρωμένον, Ἰουδαίοις μὲν σκάνδαλον ἔθνεσιν δὲ μωρίαν,"
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Ecclesiasticus sive Siracides": 2
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "20.31",
+    "form": "μωρίαν",
+    "postag": "n-s---fa-",
+    "sentence": "κρείσσων ἄνθρωπος ἀποκρύπτων τὴν μωρίαν αὐτοῦ ἢ ἄνθρωπος ἀποκρύπτων τὴν σοφίαν αὐτοῦ."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "41.15",
+    "form": "μωρίαν",
+    "postag": "n-s---fa-",
+    "sentence": "κρείσσων ἄνθρωπος ἀποκρύπτων τὴν μωρίαν αὐτοῦ ἢ ἄνθρωπος ἀποκρύπτων τὴν σοφίαν αὐτοῦ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "To Diognetus": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "3",
+    "form": "μωρίαν",
+    "postag": "n-s---fa-",
+    "sentence": "ἃ γὰρ τοῖς ἀναισθήτοις καὶ κωφοῖς προσφέροντες οἱ Ἕλληνες ἀφροσύνης δεῖγμα παρέχουσι, ταῦθ’ οὗτοι καθάπερ προσδεομένῳ τῷ Θεῷ λογιζόμενοι παρέχειν μωρίαν εἰκὸς μᾶλλον ἡγοῖντ’ ἂν, οὐ θεοσέβειαν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "5   ** μωρία, -ας, ἡ    (< μωρός),   [in LXX: Si 20:31*;]    foolishness: I Co 1:18, 21, 23 2:14 3:19.†"
+}

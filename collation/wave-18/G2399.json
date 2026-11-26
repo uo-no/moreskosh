@@ -1,0 +1,73 @@
+{
+ "strong": "G2399",
+ "lemma": "ἰδιώτης",
+ "nt_freq": 5,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 14:16",
+   "form": "ἰδιώτου",
+   "morph": "N-GSM",
+   "gloss_en": "outsider",
+   "gloss_ja": "素人",
+   "verse": "ἐπεὶ ἐὰν εὐλογῇς πνεύματι, ὁ ἀναπληρῶν τὸν τόπον τοῦ ἰδιώτου πῶς ἐρεῖ τὸ Ἀμήν ἐπὶ τῇ σῇ εὐχαριστίᾳ; ἐπειδὴ τί λέγεις οὐκ οἶδεν·"
+  },
+  {
+   "ref": "1CO 14:23",
+   "form": "ἰδιῶται",
+   "morph": "N-NPM",
+   "gloss_en": "outsiders",
+   "gloss_ja": "素人",
+   "verse": "ἐὰν οὖν συνέλθῃ ἡ ἐκκλησία ὅλη ἐπὶ τὸ αὐτὸ καὶ πάντες λαλῶσιν γλώσσαις, εἰσέλθωσιν δὲ ἰδιῶται ἢ ἄπιστοι, οὐκ ἐροῦσιν ὅτι μαίνεσθε;"
+  },
+  {
+   "ref": "1CO 14:24",
+   "form": "ἰδιώτης",
+   "morph": "N-NSM",
+   "gloss_en": "outsider",
+   "gloss_ja": "素人",
+   "verse": "ἐὰν δὲ πάντες προφητεύωσιν, εἰσέλθῃ δέ τις ἄπιστος ἢ ἰδιώτης, ἐλέγχεται ὑπὸ πάντων, ἀνακρίνεται ὑπὸ πάντων,"
+  },
+  {
+   "ref": "2CO 11:6",
+   "form": "ἰδιώτης",
+   "morph": "N-NSM",
+   "gloss_en": "untrained",
+   "gloss_ja": "素人",
+   "verse": "εἰ δὲ καὶ ἰδιώτης τῷ λόγῳ, ἀλλ’ οὐ τῇ γνώσει, ἀλλ’ ἐν παντὶ φανερώσαντες ἐν πᾶσιν εἰς ὑμᾶς."
+  },
+  {
+   "ref": "ACT 4:13",
+   "form": "ἰδιῶται",
+   "morph": "N-NPM",
+   "gloss_en": "untrained",
+   "gloss_ja": "素人",
+   "verse": "Θεωροῦντες δὲ τὴν τοῦ Πέτρου παρρησίαν καὶ Ἰωάννου καὶ καταλαβόμενοι ὅτι ἄνθρωποι ἀγράμματοί εἰσιν καὶ ἰδιῶται, ἐθαύμαζον, ἐπεγίνωσκόν τε αὐτοὺς ὅτι σὺν τῷ Ἰησοῦ ἦσαν,"
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Proverbia": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "6.8β",
+    "form": "ἰδιῶται",
+    "postag": "n-p---mn-",
+    "sentence": "ἦς τοὺς πόνους βασιλεῖς καὶ ἰδιῶται πρὸς ὑγίειαν προσφέρονται ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "5   ἰδιώτης, -ου, ὁ    (< ἴδιος),   [in LXX: Pr 6:8 (no Heb.)*;]      a private person, as opp. to the State or an official (βασιλεῖς κ. ἰδιῶται, Pr 6:8; and cf. MM, Exp., xv).   one without professional knowledge, unskilled, uneducated, unlearned: I Co 14:16, 23, 24 (R, mg., without gifts); ἀγράμματοι κ. ἰ., Ac 4:13; c. dat. (= cl. c. gen. rei), λόγῳ, II Co 11:6.†"
+}

@@ -1,0 +1,237 @@
+{
+ "strong": "G3590",
+ "lemma": "ὄγδοος",
+ "nt_freq": 5,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2PE 2:5",
+   "form": "ὄγδοον",
+   "morph": "A-ASM",
+   "gloss_en": "eight",
+   "gloss_ja": "第八の",
+   "verse": "καὶ ἀρχαίου κόσμου οὐκ ἐφείσατο, ἀλλὰ ὄγδοον Νῶε δικαιοσύνης κήρυκα ἐφύλαξεν, κατακλυσμὸν κόσμῳ ἀσεβῶν ἐπάξας,"
+  },
+  {
+   "ref": "ACT 7:8",
+   "form": "ὀγδόῃ",
+   "morph": "A-DSF",
+   "gloss_en": "eighth",
+   "gloss_ja": "第八の",
+   "verse": "καὶ ἔδωκεν αὐτῷ διαθήκην περιτομῆς· καὶ οὕτως ἐγέννησεν τὸν Ἰσαὰκ καὶ περιέτεμεν αὐτὸν τῇ ἡμέρᾳ τῇ ὀγδόῃ, καὶ Ἰσαὰκ τὸν Ἰακώβ, καὶ Ἰακὼβ τοὺς δώδεκα πατριάρχας."
+  },
+  {
+   "ref": "LUK 1:59",
+   "form": "ὀγδόῃ",
+   "morph": "A-DSF",
+   "gloss_en": "eighth",
+   "gloss_ja": "第八の",
+   "verse": "Καὶ ἐγένετο ἐν τῇ ἡμέρᾳ τῇ ὀγδόῃ ἦλθον περιτεμεῖν τὸ παιδίον, καὶ ἐκάλουν αὐτὸ ἐπὶ τῷ ὀνόματι τοῦ πατρὸς αὐτοῦ Ζαχαρίαν."
+  },
+  {
+   "ref": "REV 17:11",
+   "form": "ὄγδοός",
+   "morph": "A-NSM",
+   "gloss_en": "eighth",
+   "gloss_ja": "第八の",
+   "verse": "καὶ τὸ θηρίον ὃ ἦν καὶ οὐκ ἔστιν. καὶ αὐτὸς ὄγδοός ἐστιν καὶ ἐκ τῶν ἑπτά ἐστιν, καὶ εἰς ἀπώλειαν ὑπάγει."
+  },
+  {
+   "ref": "REV 21:20",
+   "form": "ὄγδοος",
+   "morph": "A-NSM",
+   "gloss_en": "eighth",
+   "gloss_ja": "第八の",
+   "verse": "ὁ πέμπτος σαρδόνυξ, ὁ ἕκτος σάρδιον, ὁ ἕβδομος χρυσόλιθος, ὁ ὄγδοος βήρυλλος, ὁ ἔνατος τοπάζιον, ὁ δέκατος χρυσόπρασος, ὁ ἑνδέκατος ὑάκινθος, ὁ δωδέκατος ἀμέθυστος·"
+  }
+ ],
+ "lxx": {
+  "total": 46,
+  "works": {
+   "Genesis": 2,
+   "Exodus": 1,
+   "Leviticus": 10,
+   "Numeri": 3,
+   "Regnorum iii": 4,
+   "Regnorum iv": 3,
+   "Paralipomenon i sive Chronicon i": 7,
+   "Paralipomenon ii sive Chronicon ii": 5,
+   "Esdras ii": 1,
+   "Machabaeorum i": 1,
+   "Machabaeorum ii": 3,
+   "Psalmi": 2,
+   "Ecclesiasticus sive Siracides": 1,
+   "Zacharias": 1,
+   "Jeremias": 1,
+   "Ezechiel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "23.39",
+    "form": "ὀγδόῃ",
+    "postag": "a-s---fd-",
+    "sentence": "τῇ ἡμέρᾳ τῇ πρώτῃ ἀνάπαυσις καὶ τῇ ἡμέρᾳ τῇ ὀγδόῃ ἀνάπαυσις."
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "25.15",
+    "form": "ὄγδοος",
+    "postag": "a-s---mn-",
+    "sentence": "ὁ ὄγδοος Ἰωσία, υἱοὶ αὐτοῦ καὶ ἀδελφοὶ αὐτοῦ δεκαδύο ·"
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "34.3",
+    "form": "ὀγδόῳ",
+    "postag": "a-s---nd-",
+    "sentence": "καὶ ἐν τῷ ὀγδόῳ ἔτει τῆς βασιλείας αὐτοῦ — καὶ αὐτὸς ἔτι παιδάριον — ἤρξατο τοῦ ζητῆσαι Κύριον τὸν Θεὸν Δαυὶδ τοῦ πατρὸς αὐτοῦ."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "12.33",
+    "form": "ὀγδόῳ",
+    "postag": "a-s---md-",
+    "sentence": "καὶ ἀνέβη ἐπὶ τὸ θυσιαστήριον, ὃ ἐποίησε, τῇ πεντεκαιδεκάτῃ ἡμέρᾳ ἐν τῷ μηνὶ τῷ ὀγδόῳ ἐν τῇ ἑορτῇ, ᾗ ἐπλάσατο ἀπὸ καρδίας αὐτοῦ, καὶ ἐποίησεν ἑορτὴν τοῖς υἱοῖς Ἰσραὴλ καὶ ἀνέβη ἐπὶ τὸ θυσιαστήριον τοῦ ἐπιθῦσαι."
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "29.35",
+    "form": "ὀγδόῃ",
+    "postag": "a-s---fd-",
+    "sentence": "καὶ τῇ ἡμέρᾳ τῇ ὀγδόῃ ἐξόδιον ἔσται ὑμῖν."
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "15.8",
+    "form": "ὀγδόῳ",
+    "postag": "a-s---nd-",
+    "sentence": "ἐν ἔτει τριακοστῷ καὶ ὀγδόῳ τῷ Ἀζαρίου βασιλεῖ Ἰούδα ἐβασίλευσε Ζαχαρίας υἱὸς Ἱεροβοὰμ ἐπὶ Ἰσραὴλ ἐν Σαμαρείᾳ ἑξάμηνον."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "1.9",
+    "form": "ὀγδόου",
+    "postag": "a-s---ng-",
+    "sentence": "ἔτους ἑκατοστοῦ ὀγδοηκοστοῦ καὶ ὀγδόου )."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "21.4",
+    "form": "ὀγδόῃ",
+    "postag": "a-s---fd-",
+    "sentence": "περιέτεμε δὲ Ἁβραὰμ τὸν Ἰσαὰκ τῇ ὀγδόῃ ἡμέρᾳ, καθὰ ἐνετείλατο αὐτῷ ὁ Θεός."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "11.1",
+    "form": "ὀγδόης",
+    "postag": "a-s---fg-",
+    "sentence": "εἰς τὸ τέλος, ὑπὲρ τῆς ὀγδόης ·"
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "22.30",
+    "form": "ὀγδόῃ",
+    "postag": "a-s---fd-",
+    "sentence": "ἑπτὰ ἡμέρας ἔσται ὑπὸ τὴν μητέρα, τῇ δὲ ὀγδόῃ ἡμέρᾳ ἀποδώσεις μοι αὐτό."
+   },
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "18.18",
+    "form": "ὀγδόῃ",
+    "postag": "a-s---fd-",
+    "sentence": "καὶ ἐποίησαν ἑορτὴν ἑπτὰ ἡμέρας, καὶ τῇ ἡμέρᾳ τῇ ὀγδόῃ ἐξόδιον κατὰ τὸ κρίμα."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "4.52",
+    "form": "ὀγδόου",
+    "postag": "a-s---ng-",
+    "sentence": "καὶ ὤρθρισαν τὸ πρωΐ τῇ πέμπτῃ καὶ εἰκάδι τοῦ μηνὸς τοῦ ἐνάτου ( οὗτος ὁ μὴν Χασελεῦ ) τοῦ ὀγδόου καὶ τεσσαρακοστοῦ καὶ ἑκατοστοῦ ἔτους καὶ ἀνήνεγκαν θυσίαν κατὰ τὸν νόμον ἐπὶ τὸ θυσιαστήριον τῶν ὁλοκαυτωμάτων τὸ καινόν, ὃ ἐποίησαν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 5,
+  "works": {
+   "Barnabas": 2,
+   "Hermas, Pastor": 2,
+   "Martyrdom of Polycarp": 1
+  },
+  "representatives": [
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "15.9",
+    "form": "ὀγδόην",
+    "postag": "a-s---fa-",
+    "sentence": "διὸ καὶ ἄγομεν τὴν ἡμέραν τὴν ὀγδόην εἰς εὐφροσύνην, ἐν ᾗ καὶ ὁ Ἰησοῦς ἀνέστη ἐκ νεκρῶν καὶ φανερωθεὶς ἀνέβη εἰς οὐρανούς."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.1.8",
+    "form": "ὄγδοον",
+    "postag": "a-s---nn-",
+    "sentence": "τὸ δὲ ὄγδοον ὄρος πηγῶν πλῆρες ἦν, καὶ πᾶν γένος τῆς κτίσεως τοῦ κυρίου ἐποτίζοντο ἐκ τῶν πηγῶν τοῦ ὄρους ἐκείνου."
+   },
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "21.1",
+    "form": "ὀγδόῃ",
+    "postag": "a-s---fd-",
+    "sentence": "μαρτυρεῖ δὲ ὁ μακάριος Πολύκαρπος μηνὸς Ξανθικοῦ δευτέρᾳ ἱσταμένου, πρὸ ἑπτὰ καλανδῶν Μαρτίων, σαββάτῳ μεγάλῳ, ὥρᾳ ὀγδόῃ."
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "15.8",
+    "form": "ὀγδόης",
+    "postag": "a-s---fg-",
+    "sentence": "οὐ τὰ νῦν σάββατα ἐμοὶ δεκτά, ἀλλὰ ὃ πεποίηκα, ἐν ᾧ καταπαύσας τὰ πάντα ἀρχὴν ἡμέρας ὀγδόης ποιήσω, ὅ ἐστιν ἄλλου κόσμου ἀρχήν."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.25.1",
+    "form": "ὀγδόου",
+    "postag": "a-s---ng-",
+    "sentence": "ἐκ δὲ τοῦ ὄρους τοῦ ὀγδόου, οὗ ἦσαν αἱ πολλαὶ πηγαὶ καὶ πᾶσα ἡ κτίσις τοῦ κυρίου ἐποτίζετο ἐκ τῶν πηγῶν, οἱ πιστεύσαντες τοιοῦτοί εἰσιν ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "5   ὄγδοος, -η, -ον,     the eighth: Lk 1:59, Ac 7:3(LXX), Re 17:11 21:20; one of eight, with seven others (usually, in this sense, with αὐτός added, but cf. Plat., Legg., iii, 695c; Plut., Pelop., 13; II Mac 5:27): II Pe 2:5.†"
+}

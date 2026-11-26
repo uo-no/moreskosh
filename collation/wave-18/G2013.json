@@ -1,0 +1,160 @@
+{
+ "strong": "G2013",
+ "lemma": "ἐπιτυγχάνω",
+ "nt_freq": 5,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "HEB 6:15",
+   "form": "ἐπέτυχεν",
+   "morph": "V-2AAI-3S",
+   "gloss_en": "obtained",
+   "gloss_ja": "得る",
+   "verse": "καὶ οὕτως μακροθυμήσας ἐπέτυχεν τῆς ἐπαγγελίας."
+  },
+  {
+   "ref": "HEB 11:33",
+   "form": "ἐπέτυχον",
+   "morph": "V-2AAI-3P",
+   "gloss_en": "obtained",
+   "gloss_ja": "得る",
+   "verse": "οἳ διὰ πίστεως κατηγωνίσαντο βασιλείας, εἰργάσαντο δικαιοσύνην, ἐπέτυχον ἐπαγγελιῶν, ἔφραξαν στόματα λεόντων,"
+  },
+  {
+   "ref": "JAS 4:2",
+   "form": "ἐπιτυχεῖν",
+   "morph": "V-2AAN",
+   "gloss_en": "obtain",
+   "gloss_ja": "得る",
+   "verse": "ἐπιθυμεῖτε, καὶ οὐκ ἔχετε· φονεύετε καὶ ζηλοῦτε, καὶ οὐ δύνασθε ἐπιτυχεῖν· μάχεσθε καὶ πολεμεῖτε. οὐκ ἔχετε διὰ τὸ μὴ αἰτεῖσθαι ὑμᾶς·"
+  },
+  {
+   "ref": "ROM 11:7",
+   "form": "ἐπέτυχεν",
+   "morph": "V-2AAI-3S",
+   "gloss_en": "obtained",
+   "gloss_ja": "得る",
+   "verse": "τί οὖν; ὃ ἐπιζητεῖ Ἰσραήλ, τοῦτο οὐκ ἐπέτυχεν, ἡ δὲ ἐκλογὴ ἐπέτυχεν· οἱ δὲ λοιποὶ ἐπωρώθησαν,"
+  },
+  {
+   "ref": "ROM 11:7",
+   "form": "ἐπέτυχεν",
+   "morph": "V-2AAI-3S",
+   "gloss_en": "obtained",
+   "gloss_ja": "得る",
+   "verse": "τί οὖν; ὃ ἐπιζητεῖ Ἰσραήλ, τοῦτο οὐκ ἐπέτυχεν, ἡ δὲ ἐκλογὴ ἐπέτυχεν· οἱ δὲ λοιποὶ ἐπωρώθησαν,"
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Genesis": 1,
+   "Proverbia": 1
+  },
+  "representatives": [
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "39.2",
+    "form": "ἐπιτυγχάνων",
+    "postag": "v-sppamn-",
+    "sentence": "καὶ ἦν Κύριος μετὰ Ἰωσήφ, καὶ ἦν ἀνὴρ ἐπιτυγχάνων καὶ ἐγένετο ἐν τῷ οἴκῳ παρὰ τῷ κυρίῳ αὐτοῦ τῷ Αἰγυπτίῳ."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "12.27",
+    "form": "ἐπιτεύξεται",
+    "postag": "v3sfim---",
+    "sentence": "οὐκ ἐπιτεύξεται δόλιος θήρας, κτῆμα δὲ τίμιον ἀνὴρ καθαρός."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 23,
+  "works": {
+   "2 Clement": 1,
+   "Hermas, Pastor": 2,
+   "Ignatius, Letters": 20
+  },
+  "representatives": [
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "4.8.3",
+    "form": "ἐπιτύχω",
+    "postag": "v1sasa---",
+    "sentence": "αἰτήσασθε περὶ ἐμοῦ, ἵνα ἐπιτύχω."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "15.2.4",
+    "form": "ἐπέτυχε",
+    "postag": "v3saia---",
+    "sentence": "ἡ μὲν διψυχία, ὅτι οὐκ ἐπέτυχε τῆς πράξεως αὐτῆς, ἡ δὲ ὀξυχολία λυπεῖ τὸ πνεῦμα, ὅτι ἔπραξε τὸ πονηρόν."
+   },
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "5.6",
+    "form": "ἐπιτυχεῖν",
+    "postag": "v--ana---",
+    "sentence": "τί οὖν ἐστὶν ποιήσαντας ἐπιτυχεῖν αὐτῶν, εἰ μὴ τὸ ὁσίως καὶ δικαίως ἀναστρέφεσθαι καὶ τὰ κοσμικὰ ταῦτα ὡς ἀλλότρια ἡγεῖσθαι καὶ μὴ ἐπιθυμεῖν αὐτῶν;"
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "4.1.1",
+    "form": "ἐπέτυχον",
+    "postag": "v1saia---",
+    "sentence": "ἐπεὶ εὐξάμενος θεῷ ἐπέτυχον ἰδεῖν ὑμῶν τὰ ἀξιόθεα πρόσωπα, ὡς καὶ πλέον ᾐτούμην λαβεῖν ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "14.1.5",
+    "form": "ἐπιτυγχάνουσι",
+    "postag": "v3ppia---",
+    "sentence": "οἱ γὰρ διστάζοντες εἰς τὸν θεόν, οὗτοί εἰσιν οἱ δίψυχοι καὶ οὐδὲν ὅλως ἐπιτυγχάνουσι τῶν αἰτημάτων αὐτῶν."
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "4.9.2",
+    "form": "ἐπιτύχω",
+    "postag": "v1sasa---",
+    "sentence": "ἀλλ’ ἠλέημαί τις εἶναι, ἐὰν θεοῦ ἐπιτύχω."
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "4.4.1",
+    "form": "ἐπιτυχεῖν",
+    "postag": "v--ana---",
+    "sentence": "ἄφετέ με θηρίων εἶναι βοράν, δι’ ὦν ἔνεστιν θεοῦ ἐπιτυχεῖν."
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "4.5.3",
+    "form": "ἐπιτύχω",
+    "postag": "v1sasa---",
+    "sentence": "μηθέν με ζηλώσαι τῶν ὁρατῶν καὶ ἀοράτων, ἵνα Ἰησοῦ Χριστοῦ ἐπιτύχω."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "5   ἐπι-τυγχάνω     [in LXX: Ge 39:2 (צָלַח hi.), Pr 12:27 (חָרַךְ)* ;]    to light upon.    to obtain, attain to: Ja 4:2, c. gen. rei (as in cl.), He 6:15 11:33; c. acc (late Gk.), Ro 11:7 (Rec. τούτου).†"
+}

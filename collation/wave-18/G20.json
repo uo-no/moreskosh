@@ -1,0 +1,226 @@
+{
+ "strong": "G20",
+ "lemma": "ἀγαλλίασις",
+ "nt_freq": 5,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 2:46",
+   "form": "ἀγαλλιάσει",
+   "morph": "N-DSF",
+   "gloss_en": "glad",
+   "gloss_ja": "歓喜",
+   "verse": "καθ’ ἡμέραν τε προσκαρτεροῦντες ὁμοθυμαδὸν ἐν τῷ ἱερῷ, κλῶντές τε κατ’ οἶκον ἄρτον, μετελάμβανον τροφῆς ἐν ἀγαλλιάσει καὶ ἀφελότητι καρδίας,"
+  },
+  {
+   "ref": "HEB 1:9",
+   "form": "ἀγαλλιάσεως",
+   "morph": "N-GSF",
+   "gloss_en": "gladness",
+   "gloss_ja": "歓喜",
+   "verse": "ἠγάπησας δικαιοσύνην καὶ ἐμίσησας ἀνομίαν· διὰ τοῦτο ἔχρισέν σε ὁ θεός, ὁ θεός σου, ἔλαιον ἀγαλλιάσεως παρὰ τοὺς μετόχους σου·"
+  },
+  {
+   "ref": "JUD 1:24",
+   "form": "ἀγαλλιάσει",
+   "morph": "N-DSF",
+   "gloss_en": "great joy",
+   "gloss_ja": "歓喜",
+   "verse": "Τῷ δὲ δυναμένῳ φυλάξαι ὑμᾶς ἀπταίστους καὶ στῆσαι κατενώπιον τῆς δόξης αὐτοῦ ἀμώμους ἐν ἀγαλλιάσει"
+  },
+  {
+   "ref": "LUK 1:14",
+   "form": "ἀγαλλίασις",
+   "morph": "N-NSF",
+   "gloss_en": "gladness",
+   "gloss_ja": "歓喜",
+   "verse": "καὶ ἔσται χαρά σοι καὶ ἀγαλλίασις, καὶ πολλοὶ ἐπὶ τῇ γενέσει αὐτοῦ χαρήσονται·"
+  },
+  {
+   "ref": "LUK 1:44",
+   "form": "ἀγαλλιάσει",
+   "morph": "N-DSF",
+   "gloss_en": "joy",
+   "gloss_ja": "歓喜",
+   "verse": "ἰδοὺ γὰρ ὡς ἐγένετο ἡ φωνὴ τοῦ ἀσπασμοῦ σου εἰς τὰ ὦτά μου, ἐσκίρτησεν ἐν ἀγαλλιάσει τὸ βρέφος ἐν τῇ κοιλίᾳ μου."
+  }
+ ],
+ "lxx": {
+  "total": 21,
+  "works": {
+   "Tobias": 1,
+   "Psalmi": 17,
+   "Ecclesiasticus sive Siracides": 1,
+   "Psalmi Salomonis": 1,
+   "Isaias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "125.5",
+    "form": "ἀγαλλιάσει",
+    "postag": "n-s---fd-",
+    "sentence": "οἱ σπείροντες ἐν δάκρυσιν ἐν ἀγαλλιάσει θεριοῦσι."
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "13.1",
+    "form": "ἀγαλλίασιν",
+    "postag": "n-s---fa-",
+    "sentence": "καὶ Τωβὶτ ἔγραψε προσευχὴν εἰς ἀγαλλίασιν καὶ εἶπεν ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "6.31",
+    "form": "ἀγαλλιάσεως",
+    "postag": "n-s---fg-",
+    "sentence": "στολὴν δόξης ἐνδύσῃ αὐτήν, καὶ στέφανον ἀγαλλιάσεως περιθήσεις σεαυτῷ."
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "5.1",
+    "form": "ἀγαλλιάσει",
+    "postag": "n-s---fd-",
+    "sentence": "Κύριε ὁ θεός, αἰνέσω τῷ ὀνόματί σου ἐν ἀγαλλιάσει, ἐν μέσῳ ἐπισταμένων τὰ κρίματά σου τὰ δίκαια ·"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "51.11",
+    "form": "ἀγαλλίασις",
+    "postag": "n-s---fn-",
+    "sentence": "ἐπὶ κεφαλῆς γὰρ αὐτῶν ἀγαλλίασις καὶ αἴνεσις;"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "117.15",
+    "form": "ἀγαλλιάσεως",
+    "postag": "n-s---fg-",
+    "sentence": "φωνὴ ἀγαλλιάσεως καὶ σωτηρίας ἐν σκηναῖς δικαίων ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "29.6",
+    "form": "ἀγαλλίασις",
+    "postag": "n-s---fn-",
+    "sentence": "τὸ ἑσπέρας αὐλισθήσεται κλαυθμὸς καὶ εἰς τὸ πρωΐ ἀγαλλίασις."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "125.6",
+    "form": "ἀγαλλιάσει",
+    "postag": "n-s---fd-",
+    "sentence": "ἐρχόμενοι δὲ ἥξουσιν ἐν ἀγαλλιάσει αἴροντες τὰ δράγματα αὐτῶν."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "125.2",
+    "form": "ἀγαλλιάσεως",
+    "postag": "n-s---fg-",
+    "sentence": "τότε ἐπλήσθη χαρᾶς τὸ στόμα ἡμῶν καὶ ἡ γλῶσσα ἡμῶν ἀγαλλιάσεως."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "46.2",
+    "form": "ἀγαλλιάσεως",
+    "postag": "n-s---fg-",
+    "sentence": "πάντα τὰ ἔθνη κροτήσατε χεῖρας, ἀλαλάξατε τῷ Θεῷ ἐν φωνῇ ἀγαλλιάσεως."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "64.13",
+    "form": "ἀγαλλίασιν",
+    "postag": "n-s---fa-",
+    "sentence": "πιανθήσεται τὰ ὄρη τῆς ἐρήμου, καὶ ἀγαλλίασιν οἱ βουνοὶ περιζώσονται."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "44.16",
+    "form": "ἀγαλλιάσει",
+    "postag": "n-s---fd-",
+    "sentence": "ἀπενεχθήσονται ἐν εὐφροσύνῃ καὶ ἀγαλλιάσει, ἀχθήσονται εἰς ναὸν βασιλέως."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 5,
+  "works": {
+   "Barnabas": 1,
+   "1 Clement": 3,
+   "Martyrdom of Polycarp": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "18.8",
+    "form": "ἀγαλλίασιν",
+    "postag": "n-s---fa-",
+    "sentence": "ἀκουτιεῖς με ἀγαλλίασιν καὶ εὐφροσύνην."
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "1.6",
+    "form": "ἀγαλλιάσεως",
+    "postag": "n-s---fg-",
+    "sentence": "ἀγάπη εὐφροσύνης καὶ ἀγαλλιάσεως ἔργων δικαιοσύνης μαρτυρία."
+   },
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "18.3",
+    "form": "ἀγαλλιάσει",
+    "postag": "n-s---fd-",
+    "sentence": "ἔνθα ὡς δυνατὸν ἡμῖν συναγομένοις ἐν ἀγαλλιάσει καὶ χαρᾷ παρέξει ὁ κύριος ἐπιτελεῖν τὴν τοῦ μαρτυρίου αὐτοῦ ἡμέραν γενέθλιον, εἴς τε τὴν τῶν προηθληκότων μνήμην καὶ τῶν μελλόντων ἄσκησίν τε καὶ ἑτοιμασίαν."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "18.12",
+    "form": "ἀγαλλίασιν",
+    "postag": "n-s---fa-",
+    "sentence": "ἀπόδος μοι τὴν ἀγαλλίασιν τοῦ σωτηρίου σου."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "63.2",
+    "form": "ἀγαλλίασιν",
+    "postag": "n-s---fa-",
+    "sentence": "χαρὰν γὰρ καὶ ἀγαλλίασιν ἡμῖν παρέξετε, ἐὰν ὑπήκοοι γενόμενοι τοῖς ὑφ’ ἡμῶν γεγραμμένοις διὰ τοῦ ἁγίου πνεύματος ἐκκόψητε τὴν ἀθέμιτον τοῦ ζήλους ὑμῶν ὀργὴν κατὰ τὴν ἔντευξιν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "5   † ἀγαλλίασις, -εως, ἡ     (< ἀγαλλιάω),   [in LXX (most freq. in Pss. and  often coupled with εὐφροσύνη, as Ps 44 (45):15) chiefly for גִּיל;]    exultation, exuberant joy: Lk 1:44, Ac 2:46, He 1:9, Ju 24; χαρὰ καὶ ἀ., Lk 1:14 (Cremer, 592).†"
+}

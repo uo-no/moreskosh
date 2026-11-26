@@ -1,0 +1,73 @@
+{
+ "strong": "G2944",
+ "lemma": "κυκλεύω",
+ "nt_freq": 5,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 14:20",
+   "form": "κυκλωσάντων",
+   "morph": "V-AAP-GPM",
+   "gloss_en": "surrounded",
+   "gloss_ja": "囲む",
+   "verse": "κυκλωσάντων δὲ τῶν μαθητῶν αὐτὸν ἀναστὰς εἰσῆλθεν εἰς τὴν πόλιν. καὶ τῇ ἐπαύριον ἐξῆλθεν σὺν τῷ Βαρναβᾷ εἰς Δέρβην."
+  },
+  {
+   "ref": "HEB 11:30",
+   "form": "κυκλωθέντα",
+   "morph": "V-APP-NPN",
+   "gloss_en": "encircled",
+   "gloss_ja": "囲む",
+   "verse": "πίστει τὰ τείχη Ἰεριχὼ ἔπεσαν κυκλωθέντα ἐπὶ ἑπτὰ ἡμέρας."
+  },
+  {
+   "ref": "JHN 10:24",
+   "form": "ἐκύκλωσαν",
+   "morph": "V-AAI-3P",
+   "gloss_en": "surrounded",
+   "gloss_ja": "囲む",
+   "verse": "ἐκύκλωσαν οὖν αὐτὸν οἱ Ἰουδαῖοι καὶ ἔλεγον αὐτῷ· Ἕως πότε τὴν ψυχὴν ἡμῶν αἴρεις; εἰ σὺ εἶ ὁ χριστός, εἰπὲ ἡμῖν παρρησίᾳ."
+  },
+  {
+   "ref": "LUK 21:20",
+   "form": "κυκλουμένην",
+   "morph": "V-PPP-ASF",
+   "gloss_en": "surrounded",
+   "gloss_ja": "囲む",
+   "verse": "Ὅταν δὲ ἴδητε κυκλουμένην ὑπὸ στρατοπέδων Ἰερουσαλήμ, τότε γνῶτε ὅτι ἤγγικεν ἡ ἐρήμωσις αὐτῆς."
+  },
+  {
+   "ref": "REV 20:9",
+   "form": "ἐκύκλευσαν",
+   "morph": "V-AAI-3P",
+   "gloss_en": "surrounded",
+   "gloss_ja": "囲む",
+   "verse": "καὶ ἀνέβησαν ἐπὶ τὸ πλάτος τῆς γῆς, καὶ ἐκύκλευσαν τὴν παρεμβολὴν τῶν ἁγίων καὶ τὴν πόλιν τὴν ἠγαπημένην. καὶ κατέβη πῦρ ἐκ τοῦ οὐρανοῦ καὶ κατέφαγεν αὐτούς·"
+  }
+ ],
+ "lxx": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.9.6",
+    "form": "ἐκύκλευον",
+    "postag": "v1siia---",
+    "sentence": "καὶ ἐκύκλευον ἐγὼ μετ’ αὐτοῦ."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "4   κυκλόω, -ῶ    (< κύκλος),   [in LXX chiefly for סבב;]      to move in a circle, revolve.     to surround, encircle: c. acc. pers., Jo 10:24 (WH, txt., cf. -εύω), Ac 14:20; pass., Lk 21:20, He 11:30 (cf. περι-κυκλόω).†"
+}

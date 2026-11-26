@@ -1,0 +1,197 @@
+{
+ "strong": "G5549",
+ "lemma": "χρονίζω",
+ "nt_freq": 5,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "HEB 10:37",
+   "form": "χρονίσει",
+   "morph": "V-FAI-3S",
+   "gloss_en": "delay",
+   "gloss_ja": "遅れる",
+   "verse": "ἔτι γὰρ μικρὸν ὅσον ὅσον, ὁ ἐρχόμενος ἥξει καὶ οὐ χρονίσει·"
+  },
+  {
+   "ref": "LUK 12:45",
+   "form": "Χρονίζει",
+   "morph": "V-PAI-3S",
+   "gloss_en": "delayed",
+   "gloss_ja": "遅れる",
+   "verse": "ἐὰν δὲ εἴπῃ ὁ δοῦλος ἐκεῖνος ἐν τῇ καρδίᾳ αὐτοῦ· Χρονίζει ὁ κύριός μου ἔρχεσθαι, καὶ ἄρξηται τύπτειν τοὺς παῖδας καὶ τὰς παιδίσκας, ἐσθίειν τε καὶ πίνειν καὶ μεθύσκεσθαι,"
+  },
+  {
+   "ref": "LUK 1:21",
+   "form": "χρονίζειν",
+   "morph": "V-PAN",
+   "gloss_en": "delay",
+   "gloss_ja": "遅れる",
+   "verse": "Καὶ ἦν ὁ λαὸς προσδοκῶν τὸν Ζαχαρίαν, καὶ ἐθαύμαζον ἐν τῷ χρονίζειν ἐν τῷ ναῷ αὐτόν."
+  },
+  {
+   "ref": "MAT 25:5",
+   "form": "χρονίζοντος",
+   "morph": "V-PAP-GSM",
+   "gloss_en": "delayed",
+   "gloss_ja": "遅れる",
+   "verse": "χρονίζοντος δὲ τοῦ νυμφίου ἐνύσταξαν πᾶσαι καὶ ἐκάθευδον."
+  },
+  {
+   "ref": "MAT 24:48",
+   "form": "Χρονίζει",
+   "morph": "V-PAI-3S",
+   "gloss_en": "delayed",
+   "gloss_ja": "遅れる",
+   "verse": "ἐὰν δὲ εἴπῃ ὁ κακὸς δοῦλος ἐκεῖνος ἐν τῇ καρδίᾳ αὐτοῦ· Χρονίζει μου ὁ κύριος,"
+  }
+ ],
+ "lxx": {
+  "total": 27,
+  "works": {
+   "Genesis": 2,
+   "Exodus": 1,
+   "Deuteronomium": 2,
+   "Judices": 1,
+   "Regnorum ii": 1,
+   "Tobias": 5,
+   "Psalmi": 2,
+   "Proverbia": 2,
+   "Ecclesiastes": 1,
+   "Ecclesiasticus sive Siracides": 3,
+   "Psalmi Salomonis": 2,
+   "Habacuc": 1,
+   "Isaias": 2,
+   "Daniel": 2
+  },
+  "representatives": [
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "10.4",
+    "form": "κεχρόνικε",
+    "postag": "v3sria---",
+    "sentence": "ἀπώλετο τὸ παιδίον, διότι κεχρόνικε ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "7.16",
+    "form": "χρονιεῖ",
+    "postag": "v3sfia---",
+    "sentence": "μνήσθητι ὅτι ὀργὴ οὐ χρονιεῖ."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "34.19",
+    "form": "ἐχρόνισεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ οὐκ ἐχρόνισεν ὁ νεανίσκος τοῦ ποιῆσαι τὸ ῥῆμα τοῦτο ·"
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "23.22",
+    "form": "χρονιεῖς",
+    "postag": "v2sfia---",
+    "sentence": "ἐὰν δὲ εὔξῃ εὐχὴν Κυρίῳ τῷ Θεῷ σου, οὐ χρονιεῖς ἀποδοῦναι αὐτήν, ὅτι ἐκζητῶν ἐκζητήσει Κύριος ὁ Θεός σου παρὰ σοῦ, καὶ ἔσται ἐν σοὶ ἁμαρτία ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "39.18",
+    "form": "χρονίσῃς",
+    "postag": "v2sasa---",
+    "sentence": "ὁ Θεός μου, μὴ χρονίσῃς."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "31b.21",
+    "form": "χρονίζῃ",
+    "postag": "v3spsa---",
+    "sentence": "οὐ φροντίζει τῶν ἐν οἴκῳ ὁ ἀνὴρ αὐτῆς, ὅταν που χρονίζῃ ·"
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "2.26",
+    "form": "ἐχρόνισα",
+    "postag": "v1saia---",
+    "sentence": "καὶ οὐκ ἐχρόνισα ἕως ἔδειξέν μοι ὁ θεὸς τὴν ὕβριν αὐτοῦ, ἐκκεκεντημένον ἐπὶ τῶν ὀρέων Αἰγύπτου ὑπὲρ ἐλάχιστον ἐξουδενωμένον ἐπὶ γῆς καὶ θαλάσσης ·"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "13.22",
+    "form": "χρονιεῖ",
+    "postag": "v3sfia---",
+    "sentence": "ταχὺ ἔρχεται καὶ οὐ χρονιεῖ."
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "9.19",
+    "form": "χρονίσῃς",
+    "postag": "v2sasa---",
+    "sentence": "μὴ χρονίσῃς ἕνεκέν σου, ὁ Θεός μου, ὅτι τὸ ὄνομά σου ἐπικέκληται ἐπὶ τὴν πόλιν σου καὶ ἐπὶ τὸν λαόν σου."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "32.1",
+    "form": "κεχρόνικε",
+    "postag": "v3sria---",
+    "sentence": "καὶ ἰδὼν ὁ λαὸς ὅτι κεχρόνικε Μωυσῆς καταβῆναι ἐκ τοῦ ὄρους, συνέστη ὁ λαὸς ἐπὶ Ἀαρὼν καὶ λέγουσιν αὐτῷ ·"
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "5.28",
+    "form": "ἐχρόνισαν",
+    "postag": "v3paia---",
+    "sentence": "διὰ τῆς θυρίδος παρέκυψε μήτηρ Σισάρα ἐκτὸς τοῦ τοξικοῦ, διότι ἠσχύνθη ἅρμα αὐτοῦ, διότι ἐχρόνισαν πόδες ἁρμάτων αὐτοῦ."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "20.5",
+    "form": "ἐχρόνισεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἐπορεύθη Ἀμεσσαΐ τοῦ βοῆσαι τὸν Ἰούδαν καὶ ἐχρόνισεν ἀπὸ τοῦ καιροῦ, οὗ ἐτάξατο αὐτῷ Δαυίδ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "1 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "23.5",
+    "form": "χρονιεῖ",
+    "postag": "v3sfia---",
+    "sentence": "ἐπ’ ἀληθείας ταχὺ καὶ ἐξαίφνης τελειωθήσεται τὸ βούλημα αὐτοῦ, συνεπιμαρτυρούσης καὶ τῆς γραφῆς, ὅτι ταχὺ ἥξει καὶ οὐ χρονιεῖ, καὶ ἐξαίφνης ἥξει ὁ κύριος εἰς τὸν ναὸν αὐτοῦ, καὶ ὁ ἅγιος, ὃν ὑμεῖς προσδοκᾶτε."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "5 χρονίζω    (< χρόνος),    [in LXX chiefly for אחר pi. ;]     to spend or take time, to tarry, linger, delay: Mt 24:48 25:5, He 10:37; seq. ἐν, c. dat. loc., Lk 1:21; c. inf., Lk 12:45.†"
+}

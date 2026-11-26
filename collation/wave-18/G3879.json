@@ -1,0 +1,142 @@
+{
+ "strong": "G3879",
+ "lemma": "παρακύπτω",
+ "nt_freq": 5,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1PE 1:12",
+   "form": "παρακύψαι",
+   "morph": "V-AAN",
+   "gloss_en": "look",
+   "gloss_ja": "かがんで見る",
+   "verse": "οἷς ἀπεκαλύφθη ὅτι οὐχ ἑαυτοῖς ὑμῖν δὲ διηκόνουν αὐτά, ἃ νῦν ἀνηγγέλη ὑμῖν διὰ τῶν εὐαγγελισαμένων ὑμᾶς πνεύματι ἁγίῳ ἀποσταλέντι ἀπ’ οὐρανοῦ, εἰς ἃ ἐπιθυμοῦσιν ἄγγελοι παρακύψαι."
+  },
+  {
+   "ref": "JAS 1:25",
+   "form": "παρακύψας",
+   "morph": "V-AAP-NSM",
+   "gloss_en": "looks",
+   "gloss_ja": "かがんで見る",
+   "verse": "ὁ δὲ παρακύψας εἰς νόμον τέλειον τὸν τῆς ἐλευθερίας καὶ παραμείνας, οὐκ ἀκροατὴς ἐπιλησμονῆς γενόμενος ἀλλὰ ποιητὴς ἔργου, οὗτος μακάριος ἐν τῇ ποιήσει αὐτοῦ ἔσται."
+  },
+  {
+   "ref": "JHN 20:5",
+   "form": "παρακύψας",
+   "morph": "V-AAP-NSM",
+   "gloss_en": "stooping down",
+   "gloss_ja": "かがんで見る",
+   "verse": "καὶ παρακύψας βλέπει κείμενα τὰ ὀθόνια, οὐ μέντοι εἰσῆλθεν."
+  },
+  {
+   "ref": "JHN 20:11",
+   "form": "παρέκυψεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "bent over to look",
+   "gloss_ja": "かがんで見る",
+   "verse": "Μαρία δὲ εἱστήκει πρὸς τῷ μνημείῳ ἔξω κλαίουσα. ὡς οὖν ἔκλαιεν παρέκυψεν εἰς τὸ μνημεῖον,"
+  },
+  {
+   "ref": "LUK 24:12",
+   "form": "παρακύψας",
+   "morph": "V-AAP-NSM",
+   "gloss_en": "stooping and looking in",
+   "gloss_ja": "かがんで見る",
+   "verse": "Ὁ δὲ Πέτρος ἀναστὰς ἔδραμεν ἐπὶ τὸ μνημεῖον· καὶ παρακύψας βλέπει τὰ ὀθόνια μόνα· καὶ ἀπῆλθεν πρὸς αὑτὸν θαυμάζων τὸ γεγονός."
+  }
+ ],
+ "lxx": {
+  "total": 8,
+  "works": {
+   "Genesis": 1,
+   "Judices": 1,
+   "Regnorum iii": 1,
+   "Paralipomenon i sive Chronicon i": 1,
+   "Proverbia": 1,
+   "Canticum": 1,
+   "Ecclesiasticus sive Siracides": 2
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "14.23",
+    "form": "παρακύπτων",
+    "postag": "v-sppamn-",
+    "sentence": "ὁ παρακύπτων διὰ τῶν θυρίδων αὐτῆς καὶ ἐπὶ τῶν θυρωμάτων αὐτῆς ἀκροάσεται."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "26.8",
+    "form": "παρακύψας",
+    "postag": "v-sapamn-",
+    "sentence": "παρακύψας δὲ Ἀβιμέλεχ ὁ βασιλεὺς Γεράρων διὰ τῆς θυρίδος, εἶδε τὸν Ἰσαὰκ παίζοντα μετὰ Ῥεβέκκας τῆς γυναικὸς αὐτοῦ."
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "5.28",
+    "form": "παρέκυψε",
+    "postag": "v3saia---",
+    "sentence": "διὰ τῆς θυρίδος παρέκυψε μήτηρ Σισάρα ἐκτὸς τοῦ τοξικοῦ, διότι ἠσχύνθη ἅρμα αὐτοῦ, διότι ἐχρόνισαν πόδες ἁρμάτων αὐτοῦ."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "6.4",
+    "form": "παρακυπτομένας",
+    "postag": "v-pppmfa-",
+    "sentence": "καὶ ἐποίησε τῷ οἴκῳ θυρίδας παρακυπτομένας κρυπτάς."
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "15.29",
+    "form": "παρέκυψε",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἐγένετο ἡ κιβωτὸς διαθήκης Κυρίου καὶ ἦλθεν ἕως πόλεως Δαυίδ, καὶ Μελχὸλ ἡ θυγάτηρ Σαοὺλ παρέκυψε διὰ τῆς θυρίδος καὶ εἶδε τὸν βασιλέα Δαυὶδ ὀρχούμενον καὶ παίζοντα, καὶ ἐξουδένωσεν αὐτὸν ἐν τῇ ψυχῇ αὐτῆς."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "7.6",
+    "form": "παρακύπτουσα",
+    "postag": "v-sppafn-",
+    "sentence": "ἀπὸ γὰρ θυρίδος ἐκ τοῦ οἴκου αὐτῆς εἰς τὰς πλατείας παρακύπτουσα, ὃν ἂν ἴδῃ τῶν ἀφρόνων τέκνων νεανίαν ἐνδεῆ φρενῶν, παραπορευόμενον παρὰ γωνίαν ἐν διόδοις οἴκων αὐτῆς καὶ λαλοῦντα ἐν σκότει ἑσπερινῷ, ἡνίκα ἂν ἡσυχία νυκτερινὴ ᾖ καὶ γνοφώδης, ἡ δὲ γυνὴ συναντᾷ αὐτῷ, εἶδος ἔχουσα πορνικόν, ἣ ποιεῖ νέων ἐξίπτασθαι καρδίας."
+   },
+   {
+    "work_code": "SNG",
+    "work_ja": "雅歌",
+    "work_src": "Canticum",
+    "ref": "2.9",
+    "form": "παρακύπτων",
+    "postag": "v-sppamn-",
+    "sentence": "ἰδοὺ οὗτος ὀπίσω τοῦ τοίχου ἡμῶν παρακύπτων διὰ τῶν θυρίδων, ἐκκύπτων διὰ τῶν δικτύων."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "21.23",
+    "form": "παρακύπτει",
+    "postag": "v3spia---",
+    "sentence": "ἄφρων ἀπὸ θύρας παρακύπτει εἰς οἰκίαν, ἀνὴρ δὲ πεπαιδευμένος ἔξω στήσεται."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "5   παρα-κύπτω,    [in LXX chiefly for שׁקף ni., hi.;]      to stoop sideways.     to stoop to look: Lk 24:12 (R, txt.), Jo 20:5, 11. Metaph. (v. Hort, Ja., in l.), to look into: seq. εἰς, Ja 1:25, I Pe 1:12.†"
+}

@@ -1,0 +1,218 @@
+{
+ "strong": "G2270",
+ "lemma": "ἡσυχάζω",
+ "nt_freq": 5,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1TH 4:11",
+   "form": "ἡσυχάζειν",
+   "morph": "V-PAN",
+   "gloss_en": "lead a quiet life",
+   "gloss_ja": "静まる",
+   "verse": "καὶ φιλοτιμεῖσθαι ἡσυχάζειν καὶ πράσσειν τὰ ἴδια καὶ ἐργάζεσθαι ταῖς χερσὶν ὑμῶν, καθὼς ὑμῖν παρηγγείλαμεν,"
+  },
+  {
+   "ref": "ACT 11:18",
+   "form": "ἡσύχασαν",
+   "morph": "V-AAI-3P",
+   "gloss_en": "became silent",
+   "gloss_ja": "静まる",
+   "verse": "ἀκούσαντες δὲ ταῦτα ἡσύχασαν καὶ ἐδόξασαν τὸν θεὸν λέγοντες· Ἄρα καὶ τοῖς ἔθνεσιν ὁ θεὸς τὴν μετάνοιαν εἰς ζωὴν ἔδωκεν."
+  },
+  {
+   "ref": "ACT 21:14",
+   "form": "ἡσυχάσαμεν",
+   "morph": "V-AAI-1P",
+   "gloss_en": "ceased",
+   "gloss_ja": "静まる",
+   "verse": "μὴ πειθομένου δὲ αὐτοῦ ἡσυχάσαμεν εἰπόντες· Τοῦ κυρίου τὸ θέλημα γινέσθω."
+  },
+  {
+   "ref": "LUK 14:4",
+   "form": "ἡσύχασαν",
+   "morph": "V-AAI-3P",
+   "gloss_en": "remained silent",
+   "gloss_ja": "静まる",
+   "verse": "οἱ δὲ ἡσύχασαν. καὶ ἐπιλαβόμενος ἰάσατο αὐτὸν καὶ ἀπέλυσεν."
+  },
+  {
+   "ref": "LUK 23:56",
+   "form": "ἡσύχασαν",
+   "morph": "V-AAI-3P",
+   "gloss_en": "rested",
+   "gloss_ja": "静まる",
+   "verse": "ὑποστρέψασαι δὲ ἡτοίμασαν ἀρώματα καὶ μύρα. Καὶ τὸ μὲν σάββατον ἡσύχασαν κατὰ τὴν ἐντολήν,"
+  }
+ ],
+ "lxx": {
+  "total": 42,
+  "works": {
+   "Genesis": 1,
+   "Exodus": 1,
+   "Judices": 7,
+   "Ruth": 1,
+   "Regnorum iv": 1,
+   "Paralipomenon ii sive Chronicon ii": 2,
+   "Esdras ii": 1,
+   "Esther": 1,
+   "Machabaeorum i": 5,
+   "Psalmi": 2,
+   "Proverbia": 4,
+   "Job": 8,
+   "Zacharias": 1,
+   "Isaias": 1,
+   "Jeremias": 3,
+   "Threni seu Lamentationes": 1,
+   "Ezechiel": 2
+  },
+  "representatives": [
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "11.19",
+    "form": "ἡσυχάσεις",
+    "postag": "v2sfia---",
+    "sentence": "ἡσυχάσεις γάρ, καὶ οὐ ἔσται ὁ πολεμῶν σε ·"
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "5.31",
+    "form": "ἡσύχασεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἡσύχασεν ἡ γῆ τεσσαράκοντα ἔτη."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "9.57",
+    "form": "ἡσύχασεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἡσύχασεν ἡ γῆ Ἰούδα ἔτη δύο."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "26.20",
+    "form": "ἡσυχάζει",
+    "postag": "v3spia---",
+    "sentence": "ἐν πολλοῖς ξύλοις θάλλει πῦρ, ὅπου δὲ οὐκ ἔστι δίθυμος, ἡσυχάζει μάχη."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "26.27",
+    "form": "ἡσυχάσει",
+    "postag": "v3sfia---",
+    "sentence": "διότι ἐγὼ ἰδοὺ σῴζων σε μακρόθεν καὶ τὸ σπέρμα σου ἐκ τῆς αἰχμαλωσίας αὐτῶν, καὶ ἀναστρέψει Ἰακὼβ καὶ ἡσυχάσει καὶ ὑπνώσει, καὶ οὐκ ἔσται ὁ παρενοχλῶν αὐτόν."
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "23.21",
+    "form": "ἡσύχασε",
+    "postag": "v3saia---",
+    "sentence": "καὶ ηὐφράνθη πᾶς ὁ λαὸς τῆς γῆς, καὶ ἡ πόλις ἡσύχασε, καὶ τὴν Γοθολίαν ἐθανάτωσαν μαχαίρᾳ."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "106.30",
+    "form": "ἡσύχασαν",
+    "postag": "v3paia---",
+    "sentence": "καὶ εὐφράνθησαν, ὅτι ἡσύχασαν, καὶ ὡδήγησεν αὐτοὺς ἐπὶ λιμένα θελήματος αὐτοῦ."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "38.11",
+    "form": "ἡσυχάζοντας",
+    "postag": "v-pppama-",
+    "sentence": "ἀναβήσομαι ἐπὶ γῆν ἀπερριμμένην, ἥξω ἐπὶ ἡσυχάζοντας ἐν ἡσυχίᾳ καὶ οἰκοῦντας ἐπ’ εἰρήνης, πάντας κατοικοῦντας γῆν, ἐν ᾗ οὐχ ὑπάρχει τεῖχος οὐ-δὲ μοχλοί, καὶ θύραι οὐκ εἰσὶν αὐτοῖς."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "4.7",
+    "form": "ἡσύχασον",
+    "postag": "v2sama---",
+    "sentence": "ἡσύχασον ·"
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "24.14",
+    "form": "ἡσυχάζετε",
+    "postag": "v2ppma---",
+    "sentence": "ἡσυχάζετε αὐτοῦ, ἕως ἀναστρέψωμεν πρὸς ὑμᾶς ·"
+   },
+   {
+    "work_code": "RUT",
+    "work_ja": "ルツ記",
+    "work_src": "Ruth",
+    "ref": "3.18",
+    "form": "ἡσυχάσῃ",
+    "postag": "v3sasa---",
+    "sentence": "οὐ γὰρ μὴ ἡσυχάσῃ ὁ ἀνήρ, ἕως ἂν τελεσθῇ τὸ ρῆμα σήμερον."
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "11.20",
+    "form": "ἡσύχασε",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἐχάρη πᾶς ὁ λαὸς τῆς γῆς, καὶ ἡ πόλις ἡσύχασε ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 3,
+  "works": {
+   "1 Clement": 3
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "57.7",
+    "form": "ἡσυχάσει",
+    "postag": "v3sfia---",
+    "sentence": "ὁ δὲ ἐμοῦ ἀκούων κατασκηνώσει ἐπ’ ἐλπίδι πεποιθὼς καὶ ἡσυχάσει ἀφόβως ἀπὸ παντὸς κακοῦ."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "4.5",
+    "form": "ἡσύχασον",
+    "postag": "v2sama---",
+    "sentence": "ἡσύχασον ·"
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "63.1",
+    "form": "ἡσυχάσαντες",
+    "postag": "v-papamn-",
+    "sentence": "θεμιτὸν οὖν ἐστὶν τοῖς τοιούτοις καὶ τοσούτοις ὑποδείγμασιν προσελθόντας ὑποθεῖναι τὸν τράχηλον καὶ τὸν τῆς ὑπακοῆς τόπον ἀναπληρῶσαι, ὅπως ἡσυχάσαντες τῆς ματαίας στάσεως ἐπὶ τὸν προκείμενον ἡμῖν ἐν ἀληθείᾳ σκοπὸν δίχα παντὸς μώμου καταντήσωμεν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "5   ἡσυχάζω    [in LXX chiefly for שׁקט;]       to be still;     to rest from labour: Lk 23:56;      to live quietly: I Th 4:11;      to be silent: Lk 14:3, Ac 11:18 21:14 (cf. Jb 32:7, Ne 5:8).†      SYN.: σιγάω (q.v.), σιωπάω."
+}
