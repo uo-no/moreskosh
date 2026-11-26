@@ -1,0 +1,56 @@
+{
+  "strong": "G1388",
+  "lemma": "δόλος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "偽り／欺き",
+      "def_ja": "偽り、欺き、ずる賢さ。『あらゆる悪意と偽りを捨てて』『その口に偽りは見いだされなかった』『舌を悪から、唇を偽りから』『惑わしや下心からでなく』『ずる賢くあなたがたをだました』『悪賢さに満ちた者』。",
+      "label_en": "deceit / guile",
+      "def_en": "Falsehood, deception, craftiness: “put away all malice and all deceit”, “no deceit was found in his mouth”, “keep his tongue from evil and his lips from deceit”, “not from error or ulterior motive”, “I took you by guile”, “full of all deceit”.",
+      "label_es": "engaño / dolo",
+      "def_es": "Falsedad, engaño, astucia: «desechando toda malicia y todo engaño», «ni se halló engaño en su boca», «refrene su lengua de mal y sus labios no hablen engaño», «no procedió de error ni de engaño», «os prendí por engaño», «lleno de todo engaño».",
+      "label_sv": "svek / falskhet",
+      "def_sv": "Falskhet, bedrägeri, list: ”lägg bort all ondska och allt svek”, ”inget svek fanns i hans mun”, ”hålla tungan från ont och läpparna från svek”, ”inte av villfarelse eller baktankar”, ”fångade er med list”, ”full av allt slags falskhet”.",
+      "layers": {
+        "nt": 9,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰペテロ2:1・2:22・3:10、Ⅰテサ2:3、Ⅱコリ12:16、使徒13:10、ヨハネ1:47、マルコ7:22、ローマ1:29。LXX 詩篇51:4・シラ、教父（16.10、20.1）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "計略（ひそかな手段）",
+      "def_ja": "ひそかな計略、策略。『計略を用いてイエスを捕らえて殺そうと』。",
+      "label_en": "stratagem (secret means)",
+      "def_en": "A secret scheme, a ruse: “how to arrest Jesus by stealth and kill him”.",
+      "label_es": "ardid (medio secreto)",
+      "def_es": "Plan oculto, estratagema: «cómo prender con engaño a Jesús y matarle».",
+      "label_sv": "list (hemligt medel)",
+      "def_sv": "En hemlig plan, ett knep: ”hur de med list skulle gripa Jesus och döda honom”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "マタイ26:4、マルコ14:1。語義1との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1PE 2:1": 1,
+    "1PE 2:22": 1,
+    "1PE 3:10": 1,
+    "1TH 2:3": 1,
+    "2CO 12:16": 1,
+    "ACT 13:10": 1,
+    "JHN 1:47": 1,
+    "MAT 26:4": 2,
+    "MRK 7:22": 1,
+    "MRK 14:1": 2,
+    "ROM 1:29": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（偽り／計略）による。"
+}

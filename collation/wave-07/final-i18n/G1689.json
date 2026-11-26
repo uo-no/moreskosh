@@ -1,0 +1,73 @@
+{
+  "strong": "G1689",
+  "lemma": "ἐμβλέπω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "じっと見る（人を）",
+      "def_ja": "じっと見る、見つめる。『イエスが歩いておられるのを見つめて』『彼を見つめて』『イエスは彼らを見つめて』『主は振り向いてペテロを見つめられた』『その人を見つめ、いつくしんで』『人にはできないが』と見つめて言われた。",
+      "label_en": "to look intently at (a person)",
+      "def_en": "To gaze at, to fix one's eyes on: “looked at Jesus as he walked by”, “looked at him”, “Jesus looked at them”, “the Lord turned and looked at Peter”, “looking at him, loved him”, he looked at them and said “With man it is impossible”.",
+      "label_es": "mirar fijamente (a alguien)",
+      "def_es": "Fijar la vista, contemplar: «mirando a Jesús que andaba por allí», «mirándole», «Jesús, mirándolos», «el Señor, volviéndose, miró a Pedro», «mirándole, le amó», mirándolos dijo: «Para los hombres es imposible».",
+      "label_sv": "att se på / fästa blicken på (människa)",
+      "def_sv": "Att se uppmärksamt på: ”såg på Jesus när han kom gående”, ”såg på honom”, ”Jesus såg på dem”, ”Herren vände sig om och såg på Petrus”, ”såg på honom med kärlek”, såg på dem och sade ”För människor är det omöjligt”.",
+      "layers": {
+        "nt": 8,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヨハネ1:36・1:42、ルカ20:17・22:61、マタイ19:26、マルコ10:21・10:27・14:67。LXX イザヤ5:30、教父（3.8.2）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "よく見る／考える（物事を）",
+      "def_ja": "注意して見る、思いを向ける。『空の鳥を見なさい』。",
+      "label_en": "to look well at / consider (things)",
+      "def_en": "To look attentively, to turn one's thought to: “look at the birds of the air”.",
+      "label_es": "mirar bien / considerar (cosas)",
+      "def_es": "Observar con atención, pensar en ello: «mirad las aves del cielo».",
+      "label_sv": "att se noga på / begrunda (ting)",
+      "def_sv": "Att se uppmärksamt och tänka på: ”se på himlens fåglar”.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "マタイ6:26 の1例のみ。LXX イザヤ51:1 に並行。語義1との境界は連続的。教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "見える（視力を）",
+      "def_ja": "目が見える。『その光の栄光のために見えなくなり』『ものがすべてはっきり見えた』。",
+      "label_en": "to be able to see",
+      "def_en": "To have sight: “since I could not see because of the brightness of that light”, “saw everything clearly”.",
+      "label_es": "poder ver",
+      "def_es": "Tener vista: «como no veía a causa de la gloria de la luz», «veía de lejos y claramente a todos».",
+      "label_sv": "att kunna se",
+      "def_sv": "Att ha synförmåga: ”när jag inte kunde se på grund av det starka ljuset”, ”såg allting klart”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒22:11、マルコ8:25。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 22:11": 3,
+    "JHN 1:36": 1,
+    "JHN 1:42": 1,
+    "LUK 20:17": 1,
+    "LUK 22:61": 1,
+    "MAT 19:26": 1,
+    "MAT 6:26": 2,
+    "MRK 10:21": 1,
+    "MRK 10:27": 1,
+    "MRK 8:25": 3,
+    "MRK 14:67": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は対象・用法による。"
+}

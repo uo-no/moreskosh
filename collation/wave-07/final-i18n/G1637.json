@@ -1,0 +1,73 @@
+{
+  "strong": "G1637",
+  "lemma": "ἔλαιον",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "油（日用・商品）",
+      "def_ja": "オリーブ油（灯火・日用・商品として）。『油の取引』『百バテのオリーブ油』『灯火に油を持たず』『油を買いに行った』『小麦一枡を一デナリで、油とぶどう酒をそこなうな』。",
+      "label_en": "oil (daily use, commodity)",
+      "def_en": "Olive oil (for lamps, daily use, and trade): “trade in oil”, “a hundred measures of oil”, “took no oil for their lamps”, “went to buy oil”, “do not harm the oil and the wine”.",
+      "label_es": "aceite (uso diario, mercancía)",
+      "def_es": "Aceite de oliva (para lámparas, uso diario y comercio): «comercio de aceite», «cien barriles de aceite», «no tomaron consigo aceite», «fueron a comprar aceite», «no dañes el aceite ni el vino».",
+      "label_sv": "olja (vardagsbruk, handelsvara)",
+      "def_sv": "Olivolja (till lampor, hushåll och handel): ”handel med olja”, ”hundra fat olivolja”, ”tog ingen olja med till lamporna”, ”gick för att köpa olja”, ”skada inte oljan och vinet”.",
+      "layers": {
+        "nt": 6,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ルカ16:6、マタイ25:3・25:4・25:8、黙示録18:13・6:6。LXX 出エジプト記27:20、教父（13.6）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "油（いやし・傷に）",
+      "def_ja": "病人・傷の手当てに用いる油。『油を塗って』『油を注いで包帯をし』『多くの病人に油を塗っていやした』。",
+      "label_en": "oil (healing, wounds)",
+      "def_en": "Oil used for treating the sick and wounds: “anointing with oil”, “bound up his wounds, pouring on oil”, “anointed many sick people with oil and healed them”.",
+      "label_es": "aceite (curación, heridas)",
+      "def_es": "Aceite para cuidar a enfermos y heridas: «ungiéndole con aceite», «vendó sus heridas echándoles aceite», «ungían con aceite a muchos enfermos y los sanaban».",
+      "label_sv": "olja (helande, sår)",
+      "def_sv": "Olja för sjuka och sår: ”smörja med olja”, ”hällde olja i såren och förband dem”, ”smorde många sjuka med olja och botade dem”.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヤコブ5:14、ルカ10:34、マルコ6:13。LXX 代表例に並行。教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "油（喜びの・もてなしの）",
+      "def_ja": "もてなしや祝福のしるしの油。『喜びの油をそそがれ』『頭にオイルを塗ってくれなかった』。",
+      "label_en": "oil (of gladness, hospitality)",
+      "def_en": "Oil as a sign of hospitality or blessing: “anointed with the oil of gladness”, “you did not anoint my head with oil”.",
+      "label_es": "óleo (de alegría, de hospitalidad)",
+      "def_es": "El aceite como señal de acogida o bendición: «ungido con óleo de alegría», «no ungiste mi cabeza con aceite».",
+      "label_sv": "olja (glädjens, gästfrihetens)",
+      "def_sv": "Olja som tecken på gästfrihet eller välsignelse: ”smort med glädjens olja”, ”du smorde inte mitt huvud med olja”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヘブル1:9（詩篇44:8 の引用）、ルカ7:46。LXX 詩篇44:8・出エジプト記、教父（56.5）に並行。語義2との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "HEB 1:9": 3,
+    "JAS 5:14": 2,
+    "LUK 10:34": 2,
+    "LUK 16:6": 1,
+    "LUK 7:46": 3,
+    "MAT 25:3": 1,
+    "MAT 25:4": 1,
+    "MAT 25:8": 1,
+    "MRK 6:13": 2,
+    "REV 18:13": 1,
+    "REV 6:6": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用途による。"
+}

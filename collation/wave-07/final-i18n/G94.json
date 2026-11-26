@@ -1,0 +1,74 @@
+{
+  "strong": "G94",
+  "lemma": "ἄδικος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "不義な（人）",
+      "def_ja": "義でない、不義な。『不義な者』『不義な者に訴えて』『不義な者が神の国を受け継げない』『義なる方が不義なる者のために』『正しい者にも正しくない者にも雨を降らせる』。",
+      "label_en": "unrighteous (person)",
+      "def_en": "Not righteous, unjust: “the unrighteous”, “going to law before the unrighteous”, “the unrighteous will not inherit the kingdom of God”, “the righteous for the unrighteous”, “sends rain on the just and the unjust”.",
+      "label_es": "injusto (persona)",
+      "def_es": "No justo, injusto: «los injustos», «ir a juicio delante de los injustos», «los injustos no heredarán el reino de Dios», «el justo por los injustos», «hace llover sobre justos e injustos».",
+      "label_sv": "orättfärdig (människa)",
+      "def_sv": "Inte rättfärdig, orätt: ”de orättfärdiga”, ”dra saken inför de orättfärdiga”, ”orättfärdiga får inte ärva Guds rike”, ”rättfärdig för orättfärdiga”, ”låter det regna över rättfärdiga och orättfärdiga”.",
+      "layers": {
+        "nt": 7,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰコリ6:1・6:9、Ⅰペテロ3:18、Ⅱペテロ2:9、使徒24:15、ルカ18:11、マタイ5:45。LXX 詩篇・知恵、教父（45.4、11.1.1）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "不正な／不誠実な",
+      "def_ja": "不誠実な、不正な（小さな事に関して）。『小さい事に不忠実な者は、大きい事にも不忠実』『不正な富に忠実でなければ』。",
+      "label_en": "dishonest / unfaithful",
+      "def_en": "Unfaithful, dishonest (with respect to small matters): “one who is dishonest in a very little is also dishonest in much”, “if you have not been faithful with unrighteous wealth”.",
+      "label_es": "deshonesto / infiel",
+      "def_es": "Infiel, deshonesto (en lo pequeño): «el que en lo muy poco es injusto, también en lo más es injusto», «si en las riquezas injustas no fuisteis fieles».",
+      "label_sv": "oärlig / ohederlig",
+      "def_sv": "Otrogen, oärlig (i små ting): ”den som är ohederlig i smått är det också i stort”, ”om ni inte varit pålitliga med den ohederliga mammon”.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ16:10（2回）・16:11。LXX 代表例に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+    },
+    {
+      "n": 3,
+      "label_ja": "不公平な（神について否定）",
+      "def_ja": "不公平な、不義な。『神は不義な方ではない』『わたしたちに怒りを下す神は不義なのか』。",
+      "label_en": "unjust (denied of God)",
+      "def_en": "Unfair, unjust: “God is not unjust”, “Is God unjust to inflict wrath on us?”",
+      "label_es": "injusto (negado de Dios)",
+      "def_es": "Parcial, injusto: «Dios no es injusto», «¿será injusto Dios que da castigo?».",
+      "label_sv": "orättvis (om Gud, förnekat)",
+      "def_sv": "Orättvis, orättfärdig: ”Gud är inte orättvis”, ”är Gud orättvis när han låter vreden drabba oss?”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヘブル6:10、ローマ3:5。語義1との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 6:1": 1,
+    "1CO 6:9": 1,
+    "1PE 3:18": 1,
+    "2PE 2:9": 1,
+    "ACT 24:15": 1,
+    "HEB 6:10": 3,
+    "LUK 16:10#1": 2,
+    "LUK 16:10#2": 2,
+    "LUK 16:11": 2,
+    "LUK 18:11": 1,
+    "MAT 5:45": 1,
+    "ROM 3:5": 3
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。"
+}

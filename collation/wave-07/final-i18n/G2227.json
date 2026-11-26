@@ -1,0 +1,56 @@
+{
+  "strong": "G2227",
+  "lemma": "ζῳοποιέω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "生かす／命を与える",
+      "def_ja": "生かす、命を与える。『霊は生かす』『命を与えることのできる律法が与えられたなら』『御子も望む者を生かす』『死者を生かし』『最後のアダムは命を与える霊となった』『霊が生かすのである』。",
+      "label_en": "to make alive / give life",
+      "def_en": "To make alive, to give life: “it is the Spirit who gives life”, “if a law had been given that could give life”, “the Son gives life to whom he will”, “gives life to the dead”, “the last Adam became a life-giving spirit”, “the Spirit gives life”.",
+      "label_es": "vivificar / dar vida",
+      "def_es": "Hacer vivir, dar vida: «el Espíritu es el que da vida», «si la ley dada pudiera vivificar», «el Hijo a los que quiere da vida», «da vida a los muertos», «el postrer Adán, espíritu vivificante», «el Espíritu vivifica».",
+      "label_sv": "att ge liv / göra levande",
+      "def_sv": "Att göra levande och ge liv: ”det är Anden som ger liv”, ”om det getts en lag som kunde ge liv”, ”Sonen ger liv åt vilka han vill”, ”ger de döda liv”, ”den siste Adam blev en livgivande ande”, ”Anden ger liv”.",
+      "layers": {
+        "nt": 7,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰコリ15:45、Ⅱコリ3:6、ガラテヤ3:21、ヨハネ5:21（2回）・6:63、ローマ4:17。LXX Ⅱ列王記5:7・ネヘミヤ9:6、教父（6.17）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "生かされる／命を得る",
+      "def_ja": "生かされる、命を得る、よみがえる。『すべての人がキリストにあって生かされる』『あなたの蒔くものは死ななければ生きない』『霊によって生かされ』『あなたがたの死ぬべき体をも生かして』。",
+      "label_en": "to be made alive / receive life",
+      "def_en": "To be made alive, receive life, be raised: “in Christ all shall be made alive”, “what you sow does not come to life unless it dies”, “made alive in the spirit”, “will also give life to your mortal bodies”.",
+      "label_es": "ser vivificado / recibir vida",
+      "def_es": "Ser hecho vivo, recibir vida, resucitar: «en Cristo todos serán vivificados», «lo que tú siembras no se vivifica si no muere», «vivificado en espíritu», «vivificará también vuestros cuerpos mortales».",
+      "label_sv": "att få liv / göras levande",
+      "def_sv": "Att göras levande, få liv, uppstå: ”i Kristus ska alla få liv”, ”det du sår får inte liv om det inte dör”, ”levandegjord i anden”, ”ska ge liv också åt era dödliga kroppar”.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰコリ15:22・15:36、Ⅰペテロ3:18、ローマ8:11。LXX 士師記21:14、教父（9.3.7）に並行。"
+    }
+  ],
+  "assignments": {
+    "1CO 15:22": 2,
+    "1CO 15:36": 2,
+    "1CO 15:45": 1,
+    "1PE 3:18": 2,
+    "2CO 3:6": 1,
+    "GAL 3:21": 1,
+    "JHN 5:21#1": 1,
+    "JHN 5:21#2": 1,
+    "JHN 6:63": 1,
+    "ROM 4:17": 1,
+    "ROM 8:11": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（命を与える／生かされる）による。"
+}

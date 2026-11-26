@@ -1,0 +1,56 @@
+{
+  "strong": "G2821",
+  "lemma": "κλῆσις",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "召し／招き（神の）",
+      "def_ja": "神の召し、招き。『あなたがたの召しのことを考えてみなさい』『召された望み』『召しを確かにせよ』『神の上への召しの賞』『神の賜物と召しは取り消されない』『あなたがたが召されたその召しにふさわしく歩み』。",
+      "label_en": "calling (of God)",
+      "def_en": "God's call, invitation: “consider your calling”, “the hope to which he has called you”, “make your calling sure”, “the prize of the upward call of God”, “the gifts and the calling of God are irrevocable”, “walk worthily of the calling to which you have been called”.",
+      "label_es": "llamamiento (de Dios)",
+      "def_es": "El llamado de Dios: «mirad vuestra vocación», «la esperanza a que él os ha llamado», «hacer firme vuestra vocación», «el premio del supremo llamamiento de Dios», «irrevocables son los dones y el llamamiento de Dios», «andéis como es digno de la vocación con que fuisteis llamados».",
+      "label_sv": "kallelse (Guds)",
+      "def_sv": "Guds kallelse och inbjudan: ”tänk på er kallelse”, ”det hopp han har kallat er till”, ”befäst er kallelse”, ”segerpriset, Guds kallelse till himlen”, ”Guds gåvor och kallelse kan inte återkallas”, ”lev värdigt den kallelse ni har fått”.",
+      "layers": {
+        "nt": 10,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "Ⅰコリ1:26、Ⅱペテロ1:10、Ⅱテサ1:11、Ⅱテモ1:9、エペソ1:18・4:1・4:4、ヘブル3:1、ピリピ3:14、ローマ11:29。教父（25.11.1、16.9）に並行。LXX の代表例（Ⅲマカバイ・エレミヤ）は用法が別で確認できない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "（召されたときの）身分",
+      "def_ja": "召されたときの状態、身分。『召されたときの身分にとどまりなさい』（Ⅰコリ7:20）。",
+      "label_en": "station (at the time of calling)",
+      "def_en": "The state or station one was in when called: “remain in the calling in which you were called” (1 Cor 7:20).",
+      "label_es": "estado (en que se fue llamado)",
+      "def_es": "La condición o estado al ser llamado: «cada uno en el estado en que fue llamado, en él se quede» (1 Co 7:20).",
+      "label_sv": "ställning (vid kallelsen)",
+      "def_sv": "Det tillstånd man befann sig i när man kallades: ”förbli i den ställning där kallelsen nådde dig” (1 Kor 7:20).",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "Ⅰコリ7:20 の1例のみ。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 1:26": 1,
+    "1CO 7:20": 2,
+    "2PE 1:10": 1,
+    "2TH 1:11": 1,
+    "2TI 1:9": 1,
+    "EPH 1:18": 1,
+    "EPH 4:1": 1,
+    "EPH 4:4": 1,
+    "HEB 3:1": 1,
+    "PHP 3:14": 1,
+    "ROM 11:29": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（召し／身分）による。LXX の代表例は用法が別。"
+}

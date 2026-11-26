@@ -1,0 +1,57 @@
+{
+  "strong": "G570",
+  "lemma": "ἀπιστία",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "不信／信仰がないこと",
+      "def_ja": "信じないこと、不信。『彼らの不信のゆえに』『不信の悪い心』『不信を助けてください』『彼らの不信を責め』『不信の者は折り取られた』『不信によって神の信実を無にするだろうか』『不信に陥ることなく』。",
+      "label_en": "unbelief / lack of faith",
+      "def_en": "Not believing, unbelief: “because of their unbelief”, “an evil, unbelieving heart”, “help my unbelief”, “rebuked their unbelief”, “broken off because of unbelief”, “will their unbelief nullify God's faithfulness?”, “did not waver through unbelief”.",
+      "label_es": "incredulidad / falta de fe",
+      "def_es": "El no creer, la incredulidad: «a causa de su incredulidad», «corazón malo de incredulidad», «ayuda mi incredulidad», «les reprochó su incredulidad», «por su incredulidad fueron desgajadas», «¿su incredulidad habrá hecho nula la fidelidad de Dios?», «no dudó por incredulidad».",
+      "label_sv": "otro / brist på tro",
+      "def_sv": "Att inte tro, otro: ”för deras otros skull”, ”ett ont hjärta fullt av otro”, ”hjälp min otro”, ”förebrådde dem deras otro”, ”bortbrutna för sin otro”, ”skulle deras otro upphäva Guds trofasthet?”, ”tvivlade inte i otro”.",
+      "layers": {
+        "nt": 11,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "マタイ13:58、マルコ6:6・9:24・16:14、ローマ3:3・4:20・11:20・11:23、Ⅰテモ1:13、ヘブル3:12・3:19。LXX 知恵14:25・Ⅳマカバイ12:4、教父（1.8.2、19.2）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "信仰の薄さ（ὀλιγοπιστία）",
+      "def_ja": "信仰の薄いこと。『あなたがたの信仰が薄いからだ』（マタイ17:20、異読）。",
+      "label_en": "littleness of faith (ὀλιγοπιστία)",
+      "def_en": "The smallness of one's faith: “because of your little faith” (Matt 17:20, variant reading).",
+      "label_es": "poca fe (ὀλιγοπιστία)",
+      "def_es": "La escasez de la fe: «por vuestra poca fe» (Mt 17:20, variante textual).",
+      "label_sv": "klen tro (ὀλιγοπιστία)",
+      "def_sv": "Att tron är liten: ”för att er tro är så svag” (Matt 17:20, annan läsart).",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マタイ17:20 の1例のみ（異読 ὀλιγοπιστίαν）。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1TI 1:13": 1,
+    "HEB 3:12": 1,
+    "HEB 3:19": 1,
+    "MAT 17:20": 2,
+    "MAT 13:58": 1,
+    "MRK 16:14": 1,
+    "MRK 6:6": 1,
+    "MRK 9:24": 1,
+    "ROM 11:20": 1,
+    "ROM 11:23": 1,
+    "ROM 3:3": 1,
+    "ROM 4:20": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用例による。"
+}

@@ -1,0 +1,56 @@
+{
+  "strong": "G2745",
+  "lemma": "καύχημα",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "誇り／誇りの根拠",
+      "def_ja": "誇り、誇りとなるもの。『あなたがたの誇りは良くない』『わたしの誇りを無にされることは』『誇るべきことではない』『わたしたちの誇りは』『アブラハムは行いによって義とされたなら誇るものがある』『あなたがたによる誇り』。",
+      "label_en": "boast / ground of boasting",
+      "def_en": "A boast, that of which one boasts: “your boasting is not good”, “no one will deprive me of my ground for boasting”, “that is no ground for boasting”, “our boast is”, “if Abraham was justified by works, he has something to boast about”, “your glorying because of us”.",
+      "label_es": "motivo de gloria / de jactancia",
+      "def_es": "Gloria, aquello de que uno se gloría: «no es buena vuestra jactancia», «nadie desvanecerá mi gloria», «no tengo por qué gloriarme», «nuestra gloria es», «si Abrahán fue justificado por las obras, tiene de qué gloriarse», «motivo de gloria para vosotros».",
+      "label_sv": "stolthet / något att berömma sig av",
+      "def_sv": "Det man är stolt över och berömmer sig av: ”ert skryt är inte bra”, ”ingen ska ta ifrån mig det jag berömmer mig av”, ”det är inget att berömma sig av”, ”vår stolthet är”, ”om Abraham blev rättfärdig genom gärningar har han något att berömma sig av”, ”er stolthet över oss”.",
+      "layers": {
+        "nt": 9,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰコリ5:6・9:15・9:16、Ⅱコリ1:14、ガラテヤ6:4、ヘブル3:6、ピリピ1:26・2:16、ローマ4:2。LXX 箴言・詩篇32:29、教父（34.5）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "誇ること（行為）／誇る機会",
+      "def_ja": "誇ること、誇る機会。『誇る機会をあなたがたに与える』『あなたがたについての誇り』。",
+      "label_en": "boasting (act) / occasion to boast",
+      "def_en": "The act of boasting, an occasion to boast: “giving you cause to boast”, “boasting about you”.",
+      "label_es": "el gloriarse / ocasión de gloria",
+      "def_es": "El acto de gloriarse, la ocasión para hacerlo: «os damos ocasión de gloriaros», «la gloria acerca de vosotros».",
+      "label_sv": "att berömma sig / tillfälle att vara stolt",
+      "def_sv": "Handlingen att berömma sig och tillfället till det: ”ger er tillfälle att vara stolta”, ”vår stolthet över er”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "Ⅱコリ5:12・9:3。LXX 代表例に並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 5:6": 1,
+    "1CO 9:15": 1,
+    "1CO 9:16": 1,
+    "2CO 1:14": 1,
+    "2CO 5:12": 2,
+    "2CO 9:3": 2,
+    "GAL 6:4": 1,
+    "HEB 3:6": 1,
+    "PHP 1:26": 1,
+    "PHP 2:16": 1,
+    "ROM 4:2": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。"
+}

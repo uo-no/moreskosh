@@ -1,0 +1,73 @@
+{
+  "strong": "G2289",
+  "lemma": "θανατόω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "死に至らせる／殺す",
+      "def_ja": "死刑にする、殺す。『肉では殺され』『殺されているようで』『彼らを死に渡す』『イエスを殺そうとして』『一日中殺され』。",
+      "label_en": "to put to death / kill",
+      "def_en": "To put to death, to kill: “put to death in the flesh”, “as dying, yet not killed”, “will deliver them over to death”, “to put Jesus to death”, “we are being killed all the day long”.",
+      "label_es": "hacer morir / matar",
+      "def_es": "Ejecutar, matar: «siendo a la verdad muerto en la carne», «como castigados, mas no muertos», «los entregarán a la muerte», «para entregarle a la muerte», «somos muertos todo el tiempo».",
+      "label_sv": "att döda / avliva",
+      "def_sv": "Att avrätta och döda: ”dödad till kroppen”, ”tuktade men inte dödade”, ”få dem dömda till döden”, ”för att få Jesus dödad”, ”vi dödas hela dagen”.",
+      "layers": {
+        "nt": 9,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰペテロ3:18、Ⅱコリ6:9、ルカ21:16、マタイ10:21・27:1・26:59、マルコ13:12・14:55、ローマ8:36。LXX Ⅰサムエル19:2・Ⅱサムエル13:28、教父（39.7、26.20.4）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "殺す（比喩的：からだの行いを）",
+      "def_ja": "からだの行いを殺す（比喩）。『霊によってからだの行いを殺すなら』。",
+      "label_en": "to put to death (figurative: deeds of the body)",
+      "def_en": "To put to death the deeds of the body (figurative): “if by the Spirit you put to death the deeds of the body”.",
+      "label_es": "hacer morir (figurado: obras del cuerpo)",
+      "def_es": "Dar muerte a las obras del cuerpo (figurado): «si por el Espíritu hacéis morir las obras de la carne».",
+      "label_sv": "att döda (bildligt: kroppens gärningar)",
+      "def_sv": "Att döda kroppens gärningar (bildligt): ”om ni genom Anden dödar kroppens gärningar”.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ローマ8:13 の1例のみ。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "死に渡される（律法に対して）",
+      "def_ja": "『律法に対して死に渡された』（ローマ7:4）。",
+      "label_en": "to be made dead (to the law)",
+      "def_en": "“You have died to the law” (Rom 7:4).",
+      "label_es": "ser hecho morir (a la ley)",
+      "def_es": "«Habéis muerto a la ley» (Ro 7:4).",
+      "label_sv": "att dödas (bort från lagen)",
+      "def_sv": "”Ni har dödats bort från lagen” (Rom 7:4).",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ローマ7:4 の1例のみ。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1PE 3:18": 1,
+    "2CO 6:9": 1,
+    "LUK 21:16": 1,
+    "MAT 10:21": 1,
+    "MAT 27:1": 1,
+    "MAT 26:59": 1,
+    "MRK 13:12": 1,
+    "MRK 14:55": 1,
+    "ROM 7:4": 3,
+    "ROM 8:13": 2,
+    "ROM 8:36": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。"
+}

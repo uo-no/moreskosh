@@ -1,0 +1,56 @@
+{
+  "strong": "G2549",
+  "lemma": "κακία",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "悪意／邪悪",
+      "def_ja": "悪意、邪悪、悪。『悪意と邪悪のパン種』『悪事においては幼子であれ』『悪意を隠す覆いに』『この悪を悔い改めよ』『あらゆる悪意』『悪意と妬みを』『悪意や嫉妬で』『あらゆる悪と』。",
+      "label_en": "malice / wickedness",
+      "def_en": "Malice, wickedness, evil: “the leaven of malice and evil”, “be infants in evil”, “as a cover-up for evil”, “repent of this wickedness”, “all malice”, “malice and envy”, “in malice or jealousy”, “together with all wickedness”.",
+      "label_es": "malicia / maldad",
+      "def_es": "Malicia, maldad, el mal: «la levadura de malicia y de maldad», «sed niños en la malicia», «como pretexto para hacer lo malo», «arrepiéntete de esta tu maldad», «toda malicia», «malicia y envidia», «en malicia y celos», «con toda maldad».",
+      "label_sv": "ondska / elakhet",
+      "def_sv": "Ondska, elakhet, det onda: ”elakhetens och ondskans surdeg”, ”var barn i ondska”, ”för att skyla ondskan”, ”vänd om från denna ondska”, ”all ondska”, ”ondska och avund”, ”i illvilja och avund”, ”med all annan ondska”.",
+      "layers": {
+        "nt": 10,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰコリ5:8・14:20、Ⅰペテロ2:1・2:16、使徒8:22、コロサイ3:8、エペソ4:31、ヤコブ1:21、ローマ1:29、テトス3:3。LXX 箴言・詩篇、教父（2.8、45.7）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "苦労／災い",
+      "def_ja": "苦労、災い、禍。『その日の苦労はその日だけで十分』（マタイ6:34）。",
+      "label_en": "trouble / evil of the day",
+      "def_en": "Trouble, misfortune, calamity: “sufficient for the day is its own trouble” (Matt 6:34).",
+      "label_es": "mal / afán del día",
+      "def_es": "Trabajo, desgracia, calamidad: «basta a cada día su propio mal» (Mt 6:34).",
+      "label_sv": "möda / bekymmer",
+      "def_sv": "Möda, motgång och olycka: ”var dag har nog av sin egen plåga” (Matt 6:34).",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マタイ6:34 の1例のみ。語義1との境界は連続的。LXX の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 5:8": 1,
+    "1CO 14:20": 1,
+    "1PE 2:1": 1,
+    "1PE 2:16": 1,
+    "ACT 8:22": 1,
+    "COL 3:8": 1,
+    "EPH 4:31": 1,
+    "JAS 1:21": 1,
+    "MAT 6:34": 2,
+    "ROM 1:29": 1,
+    "TIT 3:3": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（悪意／苦労）による。"
+}

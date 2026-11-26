@@ -1,0 +1,56 @@
+{
+  "strong": "G3117",
+  "lemma": "μακρός",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "遠く（に）／遠い",
+      "def_ja": "遠く、遠い、離れた。『遠く離れている者たち』『遠い国へ旅立った』『遠く離れた者にも』『陸から遠くない所』『主は遠くにはおられない』『かつて遠かったあなたがた』。",
+      "label_en": "far (off) / distant",
+      "def_en": "Far, distant, remote: “those who are far off”, “journeyed to a far country”, “also to those who are far off”, “not far from land”, “the Lord is not far”, “you who once were far off”.",
+      "label_es": "lejos / lejano",
+      "def_es": "Lejos, distante, apartado: «los que están lejos», «se fue a un país lejano», «para los que están lejos», «no lejos de tierra», «no está lejos», «vosotros que en otro tiempo estabais lejos».",
+      "label_sv": "långt borta / avlägsen",
+      "def_sv": "Långt borta, fjärran: ”de som är långt borta”, ”reste till ett avlägset land”, ”även för dem som är långt borta”, ”inte långt från land”, ”Herren är inte långt borta”, ”ni som förut var långt borta”.",
+      "layers": {
+        "nt": 9,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒17:27・2:39・22:21、エペソ2:13・2:17、ヨハネ21:8、ルカ15:13・19:12、マタイ8:30。LXX 箴言27:10、教父（26.7.2、3.3）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "長い（祈りなど）",
+      "def_ja": "長い、長々しい。『見せかけの長い祈り』。",
+      "label_en": "long (prayers)",
+      "def_en": "Long, lengthy: “for a pretence make long prayers”.",
+      "label_es": "largo (oraciones)",
+      "def_es": "Largo, prolongado: «por pretexto hacen largas oraciones».",
+      "label_sv": "lång (böner)",
+      "def_sv": "Lång och utdragen: ”ber långa böner för syns skull”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ20:47、マルコ12:40。LXX シラ10:10 に並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 17:27": 1,
+    "ACT 2:39": 1,
+    "ACT 22:21": 1,
+    "EPH 2:13": 1,
+    "EPH 2:17": 1,
+    "JHN 21:8": 1,
+    "LUK 15:13": 1,
+    "LUK 20:47": 2,
+    "LUK 19:12": 1,
+    "MAT 8:30": 1,
+    "MRK 12:40": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（遠い／長い）による。"
+}

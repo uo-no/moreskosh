@@ -1,0 +1,73 @@
+{
+  "strong": "G2768",
+  "lemma": "κέρας",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "角（獣・幻の）",
+      "def_ja": "獣の角、幻に現れる角。『十本の角』『二つの角を持つ小羊のような獣』『七つの頭と十本の角』『十本の角は十人の王』『小羊に七つの角と七つの目』。",
+      "label_en": "horn (of beasts, visions)",
+      "def_en": "The horns of beasts, horns appearing in visions: “ten horns”, “a beast with two horns like a lamb”, “seven heads and ten horns”, “the ten horns are ten kings”, “a Lamb with seven horns and seven eyes”.",
+      "label_es": "cuerno (de bestias, visiones)",
+      "def_es": "Los cuernos de las bestias, los que aparecen en visiones: «diez cuernos», «una bestia con dos cuernos como de cordero», «siete cabezas y diez cuernos», «los diez cuernos son diez reyes», «un Cordero con siete cuernos y siete ojos».",
+      "label_sv": "horn (på vilddjur, i syner)",
+      "def_sv": "Vilddjurs horn och horn i syner: ”tio horn”, ”ett vilddjur med två horn som ett lamms”, ”sju huvuden och tio horn”, ”de tio hornen är tio kungar”, ”ett Lamm med sju horn och sju ögon”.",
+      "layers": {
+        "nt": 9,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "黙示録12:3・13:1（2回）・13:11・17:3・17:7・17:12・17:16・5:6。LXX ダニエル7:7、教父（4.5）に並行。指す対象の同定は付さない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "（祭壇の）角",
+      "def_ja": "祭壇の四隅の角。『金の祭壇の四本の角』（黙示録9:13）。",
+      "label_en": "horn (of the altar)",
+      "def_en": "The horns at the four corners of the altar: “the four horns of the golden altar” (Rev 9:13).",
+      "label_es": "cuerno (del altar)",
+      "def_es": "Los cuernos de las cuatro esquinas del altar: «los cuatro cuernos del altar de oro» (Ap 9:13).",
+      "label_sv": "horn (på altaret)",
+      "def_sv": "Hornen i altarets fyra hörn: ”de fyra hornen på guldaltaret” (Upp 9:13).",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "黙示録9:13 の1例のみ。LXX 出エジプト記29:12 に並行。教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "救いの角（力）",
+      "def_ja": "力・救いの象徴としての角。『救いの角を立てられた』（ルカ1:69）。",
+      "label_en": "horn of salvation (strength)",
+      "def_en": "The horn as a symbol of strength and salvation: “has raised up a horn of salvation” (Luke 1:69).",
+      "label_es": "cuerno de salvación (poder)",
+      "def_es": "El cuerno como símbolo de poder y salvación: «nos levantó un cuerno de salvación» (Lc 1:69).",
+      "label_sv": "frälsningens horn (kraft)",
+      "def_sv": "Hornet som symbol för kraft och frälsning: ”har upprest ett frälsningens horn” (Luk 1:69).",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ルカ1:69 の1例のみ。LXX 詩篇148:14、教父（52.2）に並行。"
+    }
+  ],
+  "assignments": {
+    "LUK 1:69": 3,
+    "REV 12:3": 1,
+    "REV 13:1#1": 1,
+    "REV 13:1#2": 1,
+    "REV 13:11": 1,
+    "REV 17:3": 1,
+    "REV 17:7": 1,
+    "REV 17:12": 1,
+    "REV 17:16": 1,
+    "REV 5:6": 1,
+    "REV 9:13": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用例による。"
+}

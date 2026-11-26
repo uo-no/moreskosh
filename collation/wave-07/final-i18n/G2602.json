@@ -1,0 +1,56 @@
+{
+  "strong": "G2602",
+  "lemma": "καταβολή",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "（世の）基／創造のとき（ἀπὸ/πρὸ καταβολῆς κόσμου）",
+      "def_ja": "『世の基が据えられる（創造の）とき』という句の中の語。『世の基が置かれる前から』『世の基が置かれてこのかた』。",
+      "label_en": "foundation (of the world) / creation (ἀπὸ/πρὸ καταβολῆς κόσμου)",
+      "def_en": "The word in the phrase “the time of the founding of the world (creation)”: “before the foundation of the world”, “since the foundation of the world”.",
+      "label_es": "fundación (del mundo) / creación (ἀπὸ/πρὸ καταβολῆς κόσμου)",
+      "def_es": "La palabra de la frase «el momento de poner el fundamento del mundo (creación)»: «antes de la fundación del mundo», «desde la fundación del mundo».",
+      "label_sv": "(världens) grundläggning / skapelsen (ἀπὸ/πρὸ καταβολῆς κόσμου)",
+      "def_sv": "Ordet i uttrycket ”tiden då världens grund lades (skapelsen)”: ”före världens grundläggning”, ”alltsedan världens grund lades”.",
+      "layers": {
+        "nt": 10,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "Ⅰペテロ1:20、エペソ1:4、ヘブル4:3・9:26、ヨハネ17:24、ルカ11:50、マタイ13:35・25:34、黙示録13:8・17:8。語義2との境界は連続的。LXX の代表例は建築の『基礎』（Ⅱマカバイ2:29）で、新約の句とは別。教父（57.1）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "（種を）宿すこと",
+      "def_ja": "種を宿すこと。『子孫をもうける力を得た』（ヘブル11:11）。",
+      "label_en": "conceiving (of seed)",
+      "def_en": "The conceiving of seed: “received power to conceive offspring” (Heb 11:11).",
+      "label_es": "concepción (de simiente)",
+      "def_es": "El concebir la simiente: «recibió fuerza para concebir» (He 11:11).",
+      "label_sv": "avlande (av säd)",
+      "def_sv": "Att ta emot säd: ”fick kraft att bli stammoder till en ätt” (Heb 11:11).",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヘブル11:11 の1例のみ。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1PE 1:20": 1,
+    "EPH 1:4": 1,
+    "HEB 4:3": 1,
+    "HEB 11:11": 2,
+    "HEB 9:26": 1,
+    "JHN 17:24": 1,
+    "LUK 11:50": 1,
+    "MAT 13:35": 1,
+    "MAT 25:34": 1,
+    "REV 13:8": 1,
+    "REV 17:8": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。"
+}

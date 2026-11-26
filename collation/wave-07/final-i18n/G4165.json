@@ -1,0 +1,73 @@
+{
+  "strong": "G4165",
+  "lemma": "ποιμαίνω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "羊を飼う（牧畜）",
+      "def_ja": "羊の群れを飼う、牧する。『羊の群れを飼って、その乳を飲まない者がいるだろうか』『羊を飼う僕』。",
+      "label_en": "to shepherd (a flock)",
+      "def_en": "To tend, to shepherd a flock of sheep: “who tends a flock without getting some of the milk?”, “a servant keeping sheep”.",
+      "label_es": "apacentar (ovejas)",
+      "def_es": "Cuidar, pastorear un rebaño: «¿quién apacienta el rebaño y no toma de su leche?», «un siervo que apacienta ganado».",
+      "label_sv": "att valla (får)",
+      "def_sv": "Att vakta och valla en fårhjord: ”vem vallar en hjord utan att få dricka av mjölken?”, ”en tjänare som vallar får”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "Ⅰコリ9:7、ルカ17:7。LXX 創世記・詩篇に並行。教父の代表例では確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "牧する／世話する（人々を）",
+      "def_ja": "牧者として世話をする、導く。『神の群れを牧しなさい』『神の教会を牧するように』『わたしの羊を飼いなさい』『わが民イスラエルを牧する者』『自分だけを養う牧者』。",
+      "label_en": "to tend / care for (people)",
+      "def_en": "To care for and lead as a shepherd: “shepherd the flock of God”, “to care for the church of God”, “tend my sheep”, “who will shepherd my people Israel”, “shepherds feeding themselves”.",
+      "label_es": "pastorear / cuidar (a personas)",
+      "def_es": "Cuidar y guiar como pastor: «apacentad la grey de Dios», «para apacentar la iglesia del Señor», «pastorea mis ovejas», «que apacentará a mi pueblo Israel», «que se apacientan a sí mismos».",
+      "label_sv": "att vara herde för / vårda (människor)",
+      "def_sv": "Att vårda och leda som en herde: ”var herdar för Guds hjord”, ”vara herdar för Guds församling”, ”för mina får i bet”, ”vara en herde för mitt folk Israel”, ”herdar som bara göder sig själva”.",
+      "layers": {
+        "nt": 6,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰペテロ5:2、使徒20:28、ヨハネ21:16、マタイ2:6、黙示録7:17、ユダ12。LXX 詩篇47:15・エゼキエル、教父（51.4）に並行。"
+    },
+    {
+      "n": 3,
+      "label_ja": "治める／支配する（鉄の杖で）",
+      "def_ja": "支配する、治める。『鉄の杖で諸国民を治める』（詩篇2:9 の引用）。",
+      "label_en": "to rule (with a rod of iron)",
+      "def_en": "To rule, to govern: “will rule the nations with a rod of iron” (quoting Ps 2:9).",
+      "label_es": "regir (con vara de hierro)",
+      "def_es": "Gobernar, dominar: «regirá las naciones con vara de hierro» (cita de Sal 2:9).",
+      "label_sv": "att styra (med järnspira)",
+      "def_sv": "Att härska och regera: ”styra folken med en järnspira” (citat av Ps 2:9).",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "黙示録12:5・19:15・2:27。LXX 詩篇2:9 に並行。教父の代表例では確認していない。語義2との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "1CO 9:7": 1,
+    "1PE 5:2": 2,
+    "ACT 20:28": 2,
+    "JHN 21:16": 2,
+    "JUD 1:12": 2,
+    "LUK 17:7": 1,
+    "MAT 2:6": 2,
+    "REV 12:5": 3,
+    "REV 19:15": 3,
+    "REV 2:27": 3,
+    "REV 7:17": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（飼う／牧する／治める）による。"
+}

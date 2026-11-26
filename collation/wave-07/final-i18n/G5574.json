@@ -1,0 +1,74 @@
+{
+  "strong": "G5574",
+  "lemma": "ψεύδομαι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "偽りを言う／うそをつく",
+      "def_ja": "うそをつく、偽る。『わたしたちは偽りを言う者となる』『聖霊を欺こうとして』『互いに偽りを言うな』『神が偽ることのできない』『ねたみに従って偽るな』『自分はユダヤ人だと偽る』。",
+      "label_en": "to lie / speak falsely",
+      "def_en": "To lie, to deceive: “we make ourselves liars”, “to lie to the Holy Spirit”, “do not lie to one another”, “God cannot lie”, “do not lie against the truth in jealousy”, “say they are Jews and are not, but lie”.",
+      "label_es": "mentir",
+      "def_es": "Decir mentira, falsear: «mentimos», «para mentir al Espíritu Santo», «no mintáis los unos a los otros», «Dios no puede mentir», «no mintáis contra la verdad por celos», «se dicen judíos y mienten».",
+      "label_sv": "att ljuga",
+      "def_sv": "Att ljuga och förfalska: ”vi blir lögnare”, ”ljuga för den helige Ande”, ”ljug inte för varandra”, ”Gud kan inte ljuga”, ”förneka inte sanningen i avund”, ”kallar sig judar men ljuger”.",
+      "layers": {
+        "nt": 7,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰヨハネ1:6、使徒5:3・5:4、コロサイ3:9、ヘブル6:18、ヤコブ3:14、黙示録3:9。LXX 詩篇88:36・Ⅱ列王記、教父（27.2、8.1.2）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "偽りを言っているのではない（誓言の定型）",
+      "def_ja": "『わたしは偽りを言っているのではない』という確認の句。",
+      "label_en": "I am not lying (oath formula)",
+      "def_en": "The affirming phrase “I am not lying”.",
+      "label_es": "no miento (fórmula de juramento)",
+      "def_es": "La fórmula de confirmación «no miento».",
+      "label_sv": "jag ljuger inte (bedyrande formel)",
+      "def_sv": "Den bekräftande frasen ”jag ljuger inte”.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "Ⅰテモ2:7、Ⅱコリ11:31、ガラテヤ1:20、ローマ9:1。LXX 代表例に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+    },
+    {
+      "n": 3,
+      "label_ja": "偽って（悪口を言う）",
+      "def_ja": "『偽って〜と言う』。『わたしのゆえに、あなたがたについてあらゆる悪口を偽って言う』。",
+      "label_en": "falsely (speak evil)",
+      "def_en": "“To say … falsely”: “utter all kinds of evil against you falsely on my account”.",
+      "label_es": "mintiendo (decir mal)",
+      "def_es": "«Decir … mintiendo»: «digan toda clase de mal contra vosotros, mintiendo, por mi causa».",
+      "label_sv": "falskeligen (tala illa)",
+      "def_sv": "”Falskeligen säga …”: ”ljuger och säger allt ont om er för min skull”.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マタイ5:11 の1例のみ。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1JN 1:6": 1,
+    "1TI 2:7": 2,
+    "2CO 11:31": 2,
+    "ACT 5:3": 1,
+    "ACT 5:4": 1,
+    "COL 3:9": 1,
+    "GAL 1:20": 2,
+    "HEB 6:18": 1,
+    "JAS 3:14": 1,
+    "MAT 5:11": 3,
+    "REV 3:9": 1,
+    "ROM 9:1": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（うそ／誓言の句／偽って）による。"
+}

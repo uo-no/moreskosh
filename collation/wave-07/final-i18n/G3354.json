@@ -1,0 +1,73 @@
+{
+  "strong": "G3354",
+  "lemma": "μετρέω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "測る（物を）",
+      "def_ja": "測る、測量する。『神の聖所と祭壇を測れ』『聖所の外の庭は測るな』『金の測り竿で都を測り』『城壁の厚さを測った』。",
+      "label_en": "to measure (things)",
+      "def_en": "To measure, to survey: “measure the temple of God and the altar”, “do not measure the court outside”, “measured the city with the golden rod”, “measured its wall”.",
+      "label_es": "medir (cosas)",
+      "def_es": "Medir: «mide el templo de Dios y el altar», «el patio de fuera no lo midas», «midió la ciudad con la caña de oro», «midió su muro».",
+      "label_sv": "att mäta (ting)",
+      "def_sv": "Att mäta upp: ”mät Guds tempel och altaret”, ”mät inte förgården utanför”, ”mätte staden med mätstången av guld”, ”mätte muren”.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "黙示録11:1・11:2・21:15・21:16・21:17。LXX 民数記35:5・イザヤ40:12、教父（16.2）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "量って与える／量り返される",
+      "def_ja": "量って与える、量り返される。『あなたがたの量る升で量り返される』『あなたがたが量るとおりに』。",
+      "label_en": "to measure out / be measured back",
+      "def_en": "To give by measure, to have it measured back: “with the measure you use it will be measured to you”, “as you measure”.",
+      "label_es": "medir para dar / ser medido de vuelta",
+      "def_es": "Dar midiendo, recibir según la medida: «con la medida con que medís os será medido», «como medís».",
+      "label_sv": "att mäta upp / få tillbaka uppmätt",
+      "def_sv": "Att ge efter mått och få tillbaka: ”med det mått ni mäter ska det mätas upp åt er”, ”så som ni mäter”.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ルカ6:38、マタイ7:2（2回）、マルコ4:24（2回）。LXX 出エジプト記16:18、教父（13.2）に並行。語義1との境界は連続的。"
+    },
+    {
+      "n": 3,
+      "label_ja": "自分を（尺度として）測る",
+      "def_ja": "自分を尺度として人を測る。『自分で自分を尺度にして』（Ⅱコリ10:12）。",
+      "label_en": "to measure oneself (as standard)",
+      "def_en": "To take oneself as the standard for judging: “measuring themselves by one another” (2 Cor 10:12).",
+      "label_es": "medirse (a sí mismo como patrón)",
+      "def_es": "Tomarse a sí mismo como norma: «midiéndose a sí mismos por sí mismos» (2 Co 10:12).",
+      "label_sv": "att mäta sig (med sig själv som mått)",
+      "def_sv": "Att ta sig själv som måttstock: ”mäter sig med sig själva” (2 Kor 10:12).",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "Ⅱコリ10:12 の1例のみ。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "2CO 10:12": 3,
+    "LUK 6:38": 2,
+    "MAT 7:2#1": 2,
+    "MAT 7:2#2": 2,
+    "MRK 4:24#1": 2,
+    "MRK 4:24#2": 2,
+    "REV 11:1": 1,
+    "REV 11:2": 1,
+    "REV 21:15": 1,
+    "REV 21:16": 1,
+    "REV 21:17": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。"
+}

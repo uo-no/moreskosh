@@ -1,0 +1,90 @@
+{
+  "strong": "G4077",
+  "lemma": "πηγή",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "泉",
+      "def_ja": "泉、水の湧き出る所。『水のない泉』『塩水と真水とを同じ泉が出すだろうか』『水の泉に落ちた』『水の源に』『水の泉を造った方を拝め』。",
+      "label_en": "spring",
+      "def_en": "A spring, a place where water wells up: “waterless springs”, “does a spring pour forth both fresh and salt water from the same opening?”, “fell on the springs of water”, “on the springs of water”, “worship him who made the springs of water”.",
+      "label_es": "fuente / manantial",
+      "def_es": "Manantial, lugar donde brota agua: «fuentes sin agua», «¿acaso una fuente echa agua dulce y amarga?», «cayó sobre las fuentes de las aguas», «sobre las fuentes», «adorad al que hizo las fuentes de las aguas».",
+      "label_sv": "källa",
+      "def_sv": "En källa där vatten väller fram: ”källor utan vatten”, ”ger samma källa både sött och salt vatten?”, ”föll i vattenkällorna”, ”över källorna”, ”tillbe honom som skapat vattenkällorna”.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅱペテロ2:17、ヤコブ3:11、黙示録16:4・14:7・8:10。LXX 箴言5:15・創世記24:42、教父（26.1.8）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "井戸（ヤコブの）",
+      "def_ja": "泉から引く井戸。『ヤコブの井戸』『井戸のそばに座っておられた』。",
+      "label_en": "well (Jacob's)",
+      "def_en": "A well fed by a spring: “Jacob's well”, “was sitting beside the well”.",
+      "label_es": "pozo (de Jacob)",
+      "def_es": "Pozo alimentado por un manantial: «el pozo de Jacob», «se sentó junto al pozo».",
+      "label_sv": "brunn (Jakobs)",
+      "def_sv": "En brunn med källvatten: ”Jakobs brunn”, ”satt vid brunnen”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヨハネ4:6（2回）。LXX 創世記24:42 に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+    },
+    {
+      "n": 3,
+      "label_ja": "命の泉（比喩）",
+      "def_ja": "命の水の泉（比喩的）。『永遠の命に至る水がわき出る泉』『命の水の泉へ導く』『命の水の泉から値なしに』。",
+      "label_en": "spring of life (figurative)",
+      "def_en": "A spring of the water of life (figurative): “a spring of water welling up to eternal life”, “will guide them to springs of living water”, “from the spring of the water of life without payment”.",
+      "label_es": "fuente de vida (figurado)",
+      "def_es": "Fuente del agua de la vida (figurado): «una fuente de agua que salte para vida eterna», «los guiará a fuentes de aguas de vida», «de la fuente del agua de la vida gratuitamente».",
+      "label_sv": "livets källa (bildligt)",
+      "def_sv": "Källan med livets vatten (bildligt): ”en källa med vatten som flödar fram till evigt liv”, ”leda dem till livets vattenkällor”, ”fritt ur källan med livets vatten”.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヨハネ4:14、黙示録7:17・21:6。LXX エレミヤ2:13、教父（11.2）に並行。語義1との境界は連続的。"
+    },
+    {
+      "n": 4,
+      "label_ja": "出血の源（血の泉）",
+      "def_ja": "出血の源。『血の源が乾いた』（マルコ5:29）。",
+      "label_en": "source of bleeding (spring of blood)",
+      "def_en": "The source of a flow of blood: “the source of blood dried up” (Mark 5:29).",
+      "label_es": "fuente de la hemorragia (de sangre)",
+      "def_es": "El origen del flujo: «la fuente de su sangre se secó» (Mr 5:29).",
+      "label_sv": "blödningens källa",
+      "def_sv": "Blodflödets ursprung: ”blodflödets källa sinade” (Mark 5:29).",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マルコ5:29 の1例のみ。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "2PE 2:17": 1,
+    "JAS 3:11": 1,
+    "JHN 4:6#1": 2,
+    "JHN 4:6#2": 2,
+    "JHN 4:14": 3,
+    "MRK 5:29": 4,
+    "REV 16:4": 1,
+    "REV 14:7": 1,
+    "REV 21:6": 3,
+    "REV 8:10": 1,
+    "REV 7:17": 3
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用例（泉／井戸／命の水／出血の源）による。"
+}

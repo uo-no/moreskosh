@@ -1,0 +1,73 @@
+{
+  "strong": "G395",
+  "lemma": "ἀνατολή",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "東／日の出る方角",
+      "def_ja": "東、日の昇る方角。『東からも西からも』『東方の博士たち』『稲妻が東から出て西にひらめく』『日の出る方からの王たち』『東に三つの門』。",
+      "label_en": "east / the direction of sunrise",
+      "def_en": "The east, where the sun rises: “from east and west”, “wise men from the east”, “as lightning comes from the east and shines to the west”, “the kings from the rising of the sun”, “three gates on the east”.",
+      "label_es": "oriente / donde sale el sol",
+      "def_es": "El oriente, por donde sale el sol: «del oriente y del occidente», «unos magos del oriente», «como el relámpago que sale del oriente y se muestra hasta el occidente», «los reyes del oriente», «tres puertas al oriente».",
+      "label_sv": "öster / soluppgångens riktning",
+      "def_sv": "Öster, väderstrecket där solen går upp: ”från öster och väster”, ”vise män från östern”, ”som blixten går ut från öster och lyser till väster”, ”kungarna från soluppgången”, ”tre portar åt öster”.",
+      "layers": {
+        "nt": 7,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ルカ13:29、マタイ2:1・24:27・8:11、黙示録21:13・7:2・16:12。LXX ヨシュア15:5・創世記、教父（10.4）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "昇ること（星・日の）",
+      "def_ja": "昇ること、日の出。『その星が昇るのを見た』『東方で見た星』『日の出のころ』。",
+      "label_en": "rising (of a star, the sun)",
+      "def_en": "A rising, sunrise: “we saw his star at its rising”, “the star seen in the east”, “about sunrise”.",
+      "label_es": "salida (de astro, del sol)",
+      "def_es": "El salir, el alba: «vimos su estrella cuando salía», «la estrella vista en el oriente», «al salir el sol».",
+      "label_sv": "uppgång (stjärnas, solens)",
+      "def_sv": "Att gå upp, soluppgång: ”vi har sett hans stjärna gå upp”, ”stjärnan de sett i öster”, ”vid soluppgången”.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "マタイ2:2・2:9、マルコ16:8。語義1との境界は連続的（『東で』か『昇るとき』かは文脈）。LXX 代表例に並行。教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "あけぼの／昇る者（ἀνατολὴ ἐξ ὕψους）",
+      "def_ja": "『高い所からの曙の光』（ルカ1:78）。",
+      "label_en": "dawn / the Rising One (ἀνατολὴ ἐξ ὕψους)",
+      "def_en": "“The sunrise from on high” (Luke 1:78).",
+      "label_es": "aurora / el que surge (ἀνατολὴ ἐξ ὕψους)",
+      "def_es": "«La aurora de lo alto» (Lc 1:78).",
+      "label_sv": "gryningen / den uppgående (ἀνατολὴ ἐξ ὕψους)",
+      "def_sv": "”Ljuset som går upp från höjden” (Luk 1:78).",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ルカ1:78 の1例のみ。LXX ゼカリヤ・エレミヤ、教父（1.4.3）に並行。指す対象の同定は付さない。"
+    }
+  ],
+  "assignments": {
+    "LUK 13:29": 1,
+    "LUK 1:78": 3,
+    "MAT 2:1": 1,
+    "MAT 2:2": 2,
+    "MAT 2:9": 2,
+    "MAT 24:27": 1,
+    "MAT 8:11": 1,
+    "MRK 16:8": 2,
+    "REV 16:12": 1,
+    "REV 21:13": 1,
+    "REV 7:2": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。"
+}

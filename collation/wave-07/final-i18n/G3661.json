@@ -1,0 +1,56 @@
+{
+  "strong": "G3661",
+  "lemma": "ὁμοθυμαδόν",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "心を一つにして",
+      "def_ja": "心を合わせて、一致して。『みな心を合わせて祈りに専念し』『心を一つにして神に声をあげた』『心を一つにしてパウロに襲いかかり』『一致して決めた』『心を一つにして主なる神を賛美する』。",
+      "label_en": "with one accord",
+      "def_en": "With united heart, in agreement: “all these with one accord were devoting themselves to prayer”, “lifted their voices together to God”, “rushed upon Paul with one accord”, “it seemed good to us, having come to one accord”, “with one voice glorify the Lord God”.",
+      "label_es": "unánimes",
+      "def_es": "De común acuerdo, concordes: «todos estos perseveraban unánimes en oración», «alzaron unánimes la voz a Dios», «a una se levantaron contra Pablo», «habiendo llegado a un acuerdo», «unánimes, a una voz, glorifiquéis a Dios».",
+      "label_sv": "enigt / endräktigt",
+      "def_sv": "I samförstånd, med ett sinne: ”alla dessa höll enigt ut i bön”, ”ropade enigt till Gud”, ”gick alla på en gång till angrepp mot Paulus”, ”har enhälligt beslutat”, ”med ett sinne prisa Herren Gud”.",
+      "layers": {
+        "nt": 8,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒1:14・4:24・8:6・12:20・15:25・18:12・19:29、ローマ15:6。LXX ヨブ・知恵10:20・18:5、教父（12.3）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "一緒に／いっせいに",
+      "def_ja": "共に、一緒に、いっせいに。『毎日、心を一つにして宮に集まり』『みな一緒にソロモンの廊に』『耳をふさぎ、いっせいにステパノに』。",
+      "label_en": "together / all at once",
+      "def_en": "Together, all at once: “day by day, attending the temple together”, “were all together in Solomon's Portico”, “stopped their ears and rushed together at Stephen”.",
+      "label_es": "juntos / a una",
+      "def_es": "Juntos, todos a la vez: «perseverando unánimes cada día en el templo», «estaban todos juntos en el pórtico de Salomón», «tapándose los oídos, arremetieron a una contra Esteban».",
+      "label_sv": "tillsammans / på en gång",
+      "def_sv": "Tillsammans, alla samtidigt: ”varje dag samlades de troget i templet”, ”var alla tillsammans i Salomos pelarhall”, ”höll för öronen och stormade alla på en gång mot Stefanos”.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒2:46・5:12・7:57。LXX 代表例に並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 1:14": 1,
+    "ACT 12:20": 1,
+    "ACT 18:12": 1,
+    "ACT 15:25": 1,
+    "ACT 19:29": 1,
+    "ACT 2:46": 2,
+    "ACT 4:24": 1,
+    "ACT 8:6": 1,
+    "ACT 5:12": 2,
+    "ACT 7:57": 2,
+    "ROM 15:6": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（心を一つに／一緒に）による。"
+}
