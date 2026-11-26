@@ -1,0 +1,52 @@
+{
+  "strong": "G2753",
+  "lemma": "κελεύω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "命じる／指示する",
+      "def_ja": "口頭で、ある行為がなされるよう相手に指図する。命令の主体は多くの場合、権限をもつ者（総督・千人隊長・王・主人など）で、対象の行為が不定詞（しばしば受動形）で示される。",
+      "label_en": "to command / order",
+      "def_en": "To direct someone by word of mouth that some act be done. The one commanding is in most cases someone with authority (governor, tribune, king, master, etc.), and the act is expressed by an infinitive (often passive).",
+      "label_es": "mandar / ordenar",
+      "def_es": "Indicar de palabra a alguien que se haga una acción. Quien manda suele ser alguien con autoridad (gobernador, tribuno, rey, amo, etc.), y la acción se expresa con infinitivo (a menudo pasivo).",
+      "label_sv": "att befalla / ge order",
+      "def_sv": "Att muntligen anvisa att något ska göras. Den som befaller är oftast någon med makt (ståthållare, tribun, kung, husbonde m.fl.), och handlingen uttrycks med infinitiv (ofta passiv).",
+      "layers": {
+        "nt": 25,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "新約の全用例が「対格＋不定詞」型の指図。使徒行伝に20例が集中。マタイ14:28（ペテロがイエスに「命じてください」と願う）は権限者への依頼の形だが、構文・語の働きは同じなので語義は分けない。"
+    }
+  ],
+  "assignments": {
+    "ACT 12:19": 1,
+    "ACT 16:22": 1,
+    "ACT 22:24": 1,
+    "ACT 22:30": 1,
+    "ACT 23:3": 1,
+    "ACT 23:10": 1,
+    "ACT 23:35": 1,
+    "ACT 25:6": 1,
+    "ACT 25:17": 1,
+    "ACT 25:21": 1,
+    "ACT 25:23": 1,
+    "ACT 21:33": 1,
+    "ACT 21:34": 1,
+    "ACT 27:43": 1,
+    "ACT 4:15": 1,
+    "ACT 8:38": 1,
+    "ACT 5:34": 1,
+    "LUK 18:40": 1,
+    "MAT 14:9": 1,
+    "MAT 14:19": 1,
+    "MAT 14:28": 1,
+    "MAT 18:25": 1,
+    "MAT 8:18": 1,
+    "MAT 27:58": 1,
+    "MAT 27:64": 1
+  },
+  "unresolved": []
+}

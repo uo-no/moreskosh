@@ -1,0 +1,70 @@
+{
+  "strong": "G93",
+  "lemma": "ἀδικία",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "不義／悪事",
+      "def_ja": "神の義・真理に反する行い、またその性質。人の罪を、正しさに反するものとして総称的に述べる（個々の悪行も、悪の状態も指す）。",
+      "label_en": "unrighteousness / wrongdoing",
+      "def_en": "Conduct contrary to God's righteousness and truth, or that quality. States human sin collectively as what is contrary to what is right (referring both to individual evil deeds and to the state of evil).",
+      "label_es": "injusticia / maldad",
+      "def_es": "Conducta contraria a la justicia y la verdad de Dios, o esa cualidad. Designa en conjunto el pecado humano como lo contrario a lo recto (tanto cada mala acción como el estado de maldad).",
+      "label_sv": "orättfärdighet / orätt gärning",
+      "def_sv": "Handlande som strider mot Guds rättfärdighet och sanning, eller den egenskapen. Betecknar sammanfattande människans synd som det som strider mot det rätta (både enskilda onda handlingar och ondskans tillstånd).",
+      "layers": {
+        "nt": 22,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "「真理」との対比（第一コリ13:6、第二テサ2:10・12、ローマ1:18・2:8）、「罪」との並置（第一ヨハネ1:9・5:17、ヘブル8:12）。属格で他の名詞を限定する形（「不義の報酬」使徒1:18・第二ペテロ2:13・15、「不義の富」ルカ16:9、「不義の家令」ルカ16:8、「不義の世界」ヤコブ3:6、「不義を行う者」ルカ13:27）もここに置いた。"
+    },
+    {
+      "n": 2,
+      "label_ja": "不当／不公正（人に対する不正）",
+      "def_ja": "法や公平に反して、人に不当な扱いをすること、またその事態。裁き・扱いの不公正を述べる。",
+      "label_en": "injustice / unfairness (wrong done to people)",
+      "def_en": "Treating a person unjustly, contrary to law or fairness, or such a state of affairs. States unfairness in judgment or treatment.",
+      "label_es": "injusticia / falta de equidad (agravio a las personas)",
+      "def_es": "Tratar a alguien injustamente, contra la ley o la equidad, o la situación misma. Designa la injusticia en el juicio o en el trato.",
+      "label_sv": "orättvisa / oförrätt (mot människor)",
+      "def_sv": "Att behandla en människa orätt, i strid med lag eller rättvisa, eller ett sådant förhållande. Anger orättvisa i dom eller bemötande.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ルカ18:6（不義な裁判官）、ローマ9:14（神に不公正があるか）、第二コリント12:13（私があなたがたに与えた「不当」、皮肉を含む）。語義1との境界は連続的で、扱い・裁きの不公平に重心がある用例だけを分けた。"
+    }
+  ],
+  "assignments": {
+    "1CO 13:6": 1,
+    "1JN 1:9": 1,
+    "1JN 5:17": 1,
+    "2CO 12:13": 2,
+    "2PE 2:13": 1,
+    "2PE 2:15": 1,
+    "2TH 2:10": 1,
+    "2TH 2:12": 1,
+    "2TI 2:19": 1,
+    "ACT 1:18": 1,
+    "ACT 8:23": 1,
+    "HEB 8:12": 1,
+    "JAS 3:6": 1,
+    "JHN 7:18": 1,
+    "LUK 13:27": 1,
+    "LUK 16:8": 1,
+    "LUK 16:9": 1,
+    "LUK 18:6": 2,
+    "ROM 1:18#1": 1,
+    "ROM 1:18#2": 1,
+    "ROM 1:29": 1,
+    "ROM 3:5": 1,
+    "ROM 2:8": 1,
+    "ROM 6:13": 1,
+    "ROM 9:14": 2
+  },
+  "unresolved": [],
+  "layer_notes": "代表例の範囲で新約に無い用法は見当たらない。"
+}

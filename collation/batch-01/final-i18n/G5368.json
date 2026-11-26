@@ -1,0 +1,87 @@
+{
+  "strong": "G5368",
+  "lemma": "φιλέω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "愛する／親しく慕う",
+      "def_ja": "人（また神・キリスト）に対して、好意と親しみをもって心を寄せる。親子・友人・弟子・信者のあいだの情愛を述べる。",
+      "label_en": "to love / hold dear",
+      "def_en": "To set one's heart on a person (or God, or Christ) with fondness and closeness. States the affection between parent and child, friends, disciples, and believers.",
+      "label_es": "amar / querer con afecto",
+      "def_es": "Inclinar el corazón con afecto y cercanía hacia una persona (o hacia Dios o Cristo). Expresa el cariño entre padres e hijos, amigos, discípulos y creyentes.",
+      "label_sv": "att älska / hålla av",
+      "def_sv": "Att med välvilja och förtrolighet fästa sitt hjärta vid en människa (eller Gud, Kristus). Anger tillgivenheten mellan föräldrar och barn, vänner, lärjungar och troende.",
+      "layers": {
+        "nt": 17,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヨハネ福音書に多い（5:20、11:3、16:27、21:15–17 等）。ヨハネ21:15–17の ἀγαπάω との交替は、この下書きでは語義を分けず、用例の事実のみ記録（語義の区別は判断しない）。"
+    },
+    {
+      "n": 2,
+      "label_ja": "好む／好んでする",
+      "def_ja": "人以外の対象（席・挨拶・命・偽り・祈りの場など）を好み、それを求めて行動する。",
+      "label_en": "to like / love to do",
+      "def_en": "To like things other than persons (seats, greetings, life, falsehood, places of prayer, etc.) and act in pursuit of them.",
+      "label_es": "gustar de / amar (hacer)",
+      "def_es": "Gustar de cosas que no son personas (asientos, saludos, la vida, la mentira, lugares de oración, etc.) y actuar buscándolas.",
+      "label_sv": "att tycka om / gärna göra",
+      "def_sv": "Att tycka om annat än personer (platser, hälsningar, livet, lögnen, böneställen m.m.) och handla för att få det.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "マタイ6:5、23:6、ルカ20:46、黙示録22:15、ヨハネ12:25。目的語が人でなく、好みや執着の対象である点で語義1と区別した。教父の代表例は人に対する用法で、この用法は代表例では確認できない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "口づけする",
+      "def_ja": "挨拶や親愛の印として、相手に口づけをする。",
+      "label_en": "to kiss",
+      "def_en": "To kiss someone as a sign of greeting or affection.",
+      "label_es": "besar",
+      "def_es": "Besar a alguien como saludo o señal de cariño.",
+      "label_sv": "att kyssa",
+      "def_sv": "Att kyssa någon som hälsning eller tecken på tillgivenhet.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "裏切りの合図としての口づけ（マタイ26:48、マルコ14:44、ルカ22:47）。LXX創世記29:11に対応する用法。教父の代表例には無い。"
+    }
+  ],
+  "assignments": {
+    "1CO 16:22": 1,
+    "JHN 15:19": 1,
+    "JHN 16:27#1": 1,
+    "JHN 16:27#2": 1,
+    "JHN 12:25": 2,
+    "JHN 11:3": 1,
+    "JHN 11:36": 1,
+    "JHN 21:15": 1,
+    "JHN 21:16": 1,
+    "JHN 21:17#1": 1,
+    "JHN 21:17#2": 1,
+    "JHN 21:17#3": 1,
+    "JHN 20:2": 1,
+    "JHN 5:20": 1,
+    "LUK 20:46": 2,
+    "LUK 22:47": 3,
+    "MAT 10:37#1": 1,
+    "MAT 10:37#2": 1,
+    "MAT 23:6": 2,
+    "MAT 6:5": 2,
+    "MAT 26:48": 3,
+    "MRK 14:44": 3,
+    "REV 22:15": 2,
+    "REV 3:19": 1,
+    "TIT 3:15": 1
+  },
+  "unresolved": [],
+  "layer_notes": "代表例の範囲で新約に無い用法は見当たらない。"
+}

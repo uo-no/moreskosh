@@ -1,0 +1,70 @@
+{
+  "strong": "G308",
+  "lemma": "ἀναβλέπω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "見上げる／目を上げる",
+      "def_ja": "視線を上方へ（空・高い所・人へ）向ける。多くは分詞で、ある行為（祈り・食物の祝福・見ること）の前段として視線を上げる動作を述べる。",
+      "label_en": "to look up / raise one's eyes",
+      "def_en": "To turn one's gaze upward (to the sky, a high place, or a person). Mostly a participle, stating the raising of the eyes as a prelude to another act (praying, blessing food, seeing).",
+      "label_es": "mirar hacia arriba / alzar los ojos",
+      "def_es": "Dirigir la mirada hacia arriba (al cielo, a un lugar alto o a una persona). Casi siempre en participio, describe el alzar la vista como paso previo a otra acción (orar, bendecir los alimentos, ver).",
+      "label_sv": "att se upp / lyfta blicken",
+      "def_sv": "Att rikta blicken uppåt (mot himlen, en hög plats eller en människa). Oftast i particip om att lyfta blicken som förstadium till en annan handling (bön, välsignelse av mat, att se).",
+      "layers": {
+        "nt": 10,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "「天を見上げて」（マタイ14:19、マルコ6:41・7:34、ルカ9:16）、ルカ19:5・21:1、マルコ16:4。マルコ8:24（人々が木のように見える）は、見えはじめの描写で、ここに置いた。 使徒22:13 の2トークンとも本語義（BDAG：命令形 ἀνάβλεψον は「見上げる」。13b の ἀνέβλεψα εἰς αὐτόν も語義1だが、BDAG は『語義2に属するかも知れない』と留保している）。"
+    },
+    {
+      "n": 2,
+      "label_ja": "見えるようになる／視力を回復する",
+      "def_ja": "盲目の状態にあった者が、見えるようになる。治癒・回復の結果を述べる。",
+      "label_en": "to come to see / recover one's sight",
+      "def_en": "One who was blind becomes able to see. States the result of a healing or restoration.",
+      "label_es": "llegar a ver / recobrar la vista",
+      "def_es": "Quien estaba ciego llega a ver. Expresa el resultado de una curación o restauración.",
+      "label_sv": "att bli seende / få synen åter",
+      "def_sv": "Den som varit blind blir seende. Anger resultatet av ett helande eller återställande.",
+      "layers": {
+        "nt": 15,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヨハネ9章、ルカ18:35–43／マルコ10:46–52／マタイ20:34の盲人の癒し、使徒9章（パウロ）、「盲人は見え」（マタイ11:5／ルカ7:22）。LXX・教父の代表例は「見上げる」（語義1）で、この用法は代表例の範囲では確認できない。"
+    }
+  ],
+  "assignments": {
+    "ACT 22:13#2": 1,
+    "ACT 9:12": 2,
+    "ACT 9:17": 2,
+    "ACT 9:18": 2,
+    "JHN 9:11": 2,
+    "JHN 9:15": 2,
+    "JHN 9:18#1": 2,
+    "JHN 9:18#2": 2,
+    "LUK 18:41": 2,
+    "LUK 18:42": 2,
+    "LUK 18:43": 2,
+    "LUK 21:1": 1,
+    "LUK 19:5": 1,
+    "LUK 7:22": 2,
+    "LUK 9:16": 1,
+    "MAT 11:5": 2,
+    "MAT 14:19": 1,
+    "MAT 20:34": 2,
+    "MRK 16:4": 1,
+    "MRK 10:51": 2,
+    "MRK 10:52": 2,
+    "MRK 7:34": 1,
+    "MRK 8:24": 1,
+    "MRK 6:41": 1,
+    "ACT 22:13#1": 1
+  },
+  "unresolved": [],
+  "layer_notes": "LXXにある「見上げる」の用法（創世記33:5ほか）は語義1に対応。視力回復の用法は代表例では見当たらないが、語義にした根拠は新約の用例による。"
+}
