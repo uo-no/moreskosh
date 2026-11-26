@@ -1,0 +1,34 @@
+{
+  "strong": "G567",
+  "lemma": "ἀπέχω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "遠ざかる・控える（中動）",
+      "def_ja": "中動態で、あるものを避ける、控える、遠ざかる。『肉の欲を遠ざけなさい』『不品行を避ける』『あらゆる悪から遠ざかれ』『食物を断つように命じ』『偶像に供えたものと…を避けるように』。",
+      "label_en": "to abstain, to keep away (middle)",
+      "def_en": "In the middle voice: to avoid something, to refrain, to keep away from it.",
+      "label_es": "abstenerse, apartarse (voz media)",
+      "def_es": "En voz media: evitar algo, abstenerse, alejarse.",
+      "label_sv": "att avhålla sig (medium)",
+      "def_sv": "I medium: att undvika, att avstå, att hålla sig borta från något.",
+      "layers": {
+        "nt": 6,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ペテロ第一2:11、テサロニケ第一4:3・5:22、テモテ第一4:3、使徒15:20・15:29。いずれも不定詞・命令の中動形（ἀπέχεσθαι ほか）で、能動の「受け取る」の用法はこの6件に含まれない。LXX（13.21）に並行。教父の代表例（3.13.4）は能動「受け取っている」の用法で、この語義としては確認していない。単一語義。"
+    }
+  ],
+  "assignments": {
+    "1PE 2:11": 1,
+    "1TH 4:3": 1,
+    "1TH 5:22": 1,
+    "1TI 4:3": 1,
+    "ACT 15:20": 1,
+    "ACT 15:29": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

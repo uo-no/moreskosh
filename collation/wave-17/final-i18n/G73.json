@@ -1,0 +1,51 @@
+{
+  "strong": "G73",
+  "lemma": "ἀγών",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "競走・競技",
+      "def_ja": "競技、競走。『わたしたちの前に置かれている競走を走りぬこう』。",
+      "label_en": "race, contest",
+      "def_en": "A contest or race.",
+      "label_es": "carrera, competición",
+      "def_es": "Competición, carrera.",
+      "label_sv": "kapplöpning, tävlan",
+      "def_sv": "Tävlan, kapplöpning.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヘブル12:1。LXX（15.9・17.11）、教父（7.5・7.1）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "戦い・苦闘",
+      "def_ja": "戦い、苦闘、争い（比喩的）。『神の福音を大きな戦いのうちに語った』『信仰の戦いを戦い』『戦いをりっぱに戦い』『あなたがたのために、どんなに苦闘しているか』『同じ戦いを戦っている』。",
+      "label_en": "struggle, fight",
+      "def_en": "Struggle, fight or conflict (figurative).",
+      "label_es": "lucha, combate",
+      "def_es": "Lucha, combate, conflicto (en sentido figurado).",
+      "label_sv": "kamp, strid",
+      "def_sv": "Strid, brottning, konflikt (bildligt).",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "テサロニケ第一2:2、テモテ第一6:12、テモテ第二4:7、コロサイ2:1、ピリピ1:30。LXX、教父に並行。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "1TH 2:2": 2,
+    "1TI 6:12": 2,
+    "2TI 4:7": 2,
+    "COL 2:1": 2,
+    "HEB 12:1": 1,
+    "PHP 1:30": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（競走・競技／戦い・苦闘）による。"
+}

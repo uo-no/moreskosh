@@ -1,0 +1,68 @@
+{
+  "strong": "G922",
+  "lemma": "βάρος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "重荷・負担",
+      "def_ja": "重荷、負担。『一日の重荷と暑さを耐え忍んだ』『これ以上の重荷をあなたがたに負わせまい』『互いの重荷を負い合いなさい』『ほかの重荷は負わせない』。",
+      "label_en": "burden, load",
+      "def_en": "A burden, a load.",
+      "label_es": "carga, peso",
+      "def_es": "Carga, gravamen.",
+      "label_sv": "börda",
+      "def_sv": "Börda, tyngd.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "マタイ20:12、使徒15:28、ガラテヤ6:2、黙示録2:24。LXX（18.21・6.22）に並行。教父の代表例では確認していない。語義2・3との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "重み（栄光の）",
+      "def_ja": "重さ、重み。『重い永遠の栄光』。",
+      "label_en": "weight (of glory)",
+      "def_en": "Weight, heaviness.",
+      "label_es": "peso (de gloria)",
+      "def_es": "Peso, gravedad.",
+      "label_sv": "tyngd (av härlighet)",
+      "def_sv": "Vikt, tyngd.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "コリント第二4:17。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "重みを持つ／負担となる（解釈が分かれる）",
+      "def_ja": "『キリストの使徒として重んじられることもできた』（ἐν βάρει εἶναι）。",
+      "label_en": "to carry weight / to be a burden (disputed)",
+      "def_en": "“To be able to be in weight” (ἐν βάρει εἶναι): either to carry authority or to be a burden.",
+      "label_es": "tener peso o ser una carga (discutido)",
+      "def_es": "«Poder ser de peso» (ἐν βάρει εἶναι): imponer autoridad o resultar gravoso.",
+      "label_sv": "att ha tyngd eller att vara till last (omtvistat)",
+      "def_sv": "”Att kunna vara av tyngd” (ἐν βάρει εἶναι): att göra sin auktoritet gällande eller att ligga till last.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "テサロニケ第一2:7。「権威を持つ」か「負担をかける」かの解釈は争われており決定しない。語義1・2との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1TH 2:7": 3,
+    "2CO 4:17": 2,
+    "ACT 15:28": 1,
+    "GAL 6:2": 1,
+    "MAT 20:12": 1,
+    "REV 2:24": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（重荷／栄光の重み／テサロニケ第一2:7）による。テサロニケ第一2:7 は解釈が分かれるため独立させ、決定しない。"
+}

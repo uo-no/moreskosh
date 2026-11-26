@@ -1,0 +1,68 @@
+{
+  "strong": "G926",
+  "lemma": "βαρύς",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "重い・煩わしい",
+      "def_ja": "重い、重荷となる。『重い荷を束ねて』『その戒めは重荷とならない』。",
+      "label_en": "heavy, burdensome",
+      "def_en": "Heavy, being a burden.",
+      "label_es": "pesado, gravoso",
+      "def_es": "Pesado, que resulta una carga.",
+      "label_sv": "tung, betungande",
+      "def_sv": "Tung, till börda.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "マタイ23:4、ヨハネ第一5:3。LXX（6.33・3.9）に並行。教父の代表例では確認していない。語義2・3との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "重大な・重みのある",
+      "def_ja": "重大な、重みのある、厳しい。『手紙は重みがあって力強い』『律法の中でもっと重要なこと』『重大な罪状』。",
+      "label_en": "weighty, serious",
+      "def_en": "Weighty, serious, severe.",
+      "label_es": "grave, de peso",
+      "def_es": "Importante, de peso, severo.",
+      "label_sv": "viktig, allvarlig",
+      "def_sv": "Betydelsefull, tungt vägande, sträng.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "コリント第二10:10、マタイ23:23、使徒25:7。語義1・3との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "容赦のない・凶暴な",
+      "def_ja": "容赦のない、凶暴な。『凶暴なおおかみがはいり込んで来て』。",
+      "label_en": "fierce, savage",
+      "def_en": "Unsparing, savage.",
+      "label_es": "feroz",
+      "def_es": "Despiadado, feroz.",
+      "label_sv": "glupsk, skoningslös",
+      "def_sv": "Skonlös, rovgirig.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒20:29。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1JN 5:3": 1,
+    "2CO 10:10": 2,
+    "ACT 20:29": 3,
+    "ACT 25:7": 2,
+    "MAT 23:4": 1,
+    "MAT 23:23": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（重い・煩わしい／重大な／凶暴な）による。"
+}

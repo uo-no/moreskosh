@@ -1,0 +1,51 @@
+{
+  "strong": "G5409",
+  "lemma": "φορέω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "身につける・帯びる",
+      "def_ja": "衣服・武器などを身につける、帯びる。『りっぱな衣を着ている人』『柔らかい衣を着た者』『いばらの冠と紫の上着を着けて』『いたずらに剣を帯びているのではない』。",
+      "label_en": "to wear, to bear",
+      "def_en": "To wear or carry clothing, weapons and the like.",
+      "label_es": "vestir, llevar",
+      "def_es": "Llevar puesto un vestido, armas, etc.",
+      "label_sv": "att bära, att vara klädd i",
+      "def_sv": "Att bära kläder, vapen och dylikt.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヤコブ2:3、ヨハネ19:5、マタイ11:8、ローマ13:4。LXX（11.5）に並行。教父の代表例（26.14.6）は「名を帯びる」の用法で、この語義としては確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "像を帯びる・負う",
+      "def_ja": "（人や像の）形を帯びる、負う。『土から出た人の像を帯びていたように』『天からの人の像をも帯びるであろう』。",
+      "label_en": "to bear the image",
+      "def_en": "To bear the likeness of a person or form.",
+      "label_es": "llevar la imagen",
+      "def_es": "Llevar la forma o imagen de alguien.",
+      "label_sv": "att bära bilden",
+      "def_sv": "Att bära någons gestalt eller avbild.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "コリント第一15:49（2回）。教父（26.14.6）の「名を帯びる」に並行。LXX の代表例では確認していない。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "1CO 15:49#1": 2,
+    "1CO 15:49#2": 2,
+    "JAS 2:3": 1,
+    "JHN 19:5": 1,
+    "MAT 11:8": 1,
+    "ROM 13:4": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（身につける／像・名を帯びる）による。"
+}

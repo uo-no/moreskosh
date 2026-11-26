@@ -1,0 +1,51 @@
+{
+  "strong": "G5413",
+  "lemma": "φορτίον",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "積み荷",
+      "def_ja": "船の積み荷。『積み荷と船体に』。",
+      "label_en": "cargo",
+      "def_en": "The cargo of a ship.",
+      "label_es": "cargamento",
+      "def_es": "La carga de un barco.",
+      "label_sv": "last",
+      "def_sv": "Fartygets last.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒27:10。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "重荷・負担",
+      "def_ja": "人が負う荷、負担（比喩を含む）。『各自が自分の重荷を負う』『人々には負いきれない重荷を負わせ』『わたしの荷は軽い』『重い荷を負わせて』。",
+      "label_en": "burden, load",
+      "def_en": "A load that a person carries (including figurative uses).",
+      "label_es": "carga",
+      "def_es": "Peso que lleva una persona (incluidos los usos figurados).",
+      "label_sv": "börda",
+      "def_sv": "Den börda en människa bär (även bildligt).",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ガラテヤ6:5、ルカ11:46（2回）、マタイ11:30・23:4。LXX（33.25・19.35）に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "ACT 27:10": 1,
+    "GAL 6:5": 2,
+    "LUK 11:46#1": 2,
+    "LUK 11:46#2": 2,
+    "MAT 11:30": 2,
+    "MAT 23:4": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（積み荷／重荷）による。"
+}

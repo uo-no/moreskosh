@@ -1,0 +1,51 @@
+{
+  "strong": "G5591",
+  "lemma": "ψυχικός",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "魂に属する・自然的な",
+      "def_ja": "魂（ψυχή）に属する、自然的な。『生まれながらの人』『自然のからだ』『自然的なものが先にあり』。",
+      "label_en": "of the soul, natural",
+      "def_en": "Belonging to the soul (ψυχή), natural.",
+      "label_es": "natural, propio del alma",
+      "def_es": "Perteneciente al alma (ψυχή), natural.",
+      "label_sv": "själisk, naturlig",
+      "def_sv": "Som hör till själen (ψυχή), naturlig.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "コリント第一2:14・15:44（2回）・15:46。LXX（1.32）に並行（魂に関する用法）。教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "この世的な・肉的な",
+      "def_ja": "霊的でない、この世的な。『この知恵は…この世的で』『この世の者で、御霊を持たない者』。",
+      "label_en": "worldly, unspiritual",
+      "def_en": "Unspiritual, of this world.",
+      "label_es": "mundano, no espiritual",
+      "def_es": "Que no es espiritual, de este mundo.",
+      "label_sv": "världslig, oandlig",
+      "def_sv": "Inte andlig, av denna världen.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヤコブ3:15、ユダ19。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 2:14": 1,
+    "1CO 15:44#1": 1,
+    "1CO 15:44#2": 1,
+    "1CO 15:46": 1,
+    "JAS 3:15": 2,
+    "JUD 1:19": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（魂に属する・自然的／この世的）による。"
+}

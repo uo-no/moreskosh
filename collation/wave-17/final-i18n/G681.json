@@ -1,0 +1,51 @@
+{
+  "strong": "G681",
+  "lemma": "ἅπτω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "火をつける・灯す",
+      "def_ja": "火をつける、ともす。『火をたきつけて』『ともしびをともして』『灯をともして』『庭の真ん中で火をたき』『ともしびをともして、升の下に置く者はない』。",
+      "label_en": "to light, to kindle",
+      "def_en": "To set fire to, to light.",
+      "label_es": "encender",
+      "def_es": "Prender fuego, encender.",
+      "label_sv": "att tända",
+      "def_sv": "Att sätta eld på, att tända.",
+      "layers": {
+        "nt": 5,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒28:2、ルカ15:8・11:33・22:55・8:16。語義2との境界は連続的。LXX・教父の代表例は「触れる」の用法で、この語義としては確認していない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "触れる（中動）",
+      "def_ja": "中動態で、触れる、さわる。『イエスは手を伸ばして彼に触れ』『近づいて彼らに手を触れ』。",
+      "label_en": "to touch (middle)",
+      "def_en": "In the middle voice: to touch.",
+      "label_es": "tocar (voz media)",
+      "def_es": "En voz media: tocar, palpar.",
+      "label_sv": "att röra vid (medium)",
+      "def_sv": "I medium: att röra, att vidröra.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "マタイ17:7。LXX（6.11・10.16）、教父（3.1.6・6.3.2）に並行。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "ACT 28:2": 1,
+    "LUK 15:8": 1,
+    "LUK 11:33": 1,
+    "LUK 22:55": 1,
+    "LUK 8:16": 1,
+    "MAT 17:7": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（火をつける／触れる）による。"
+}

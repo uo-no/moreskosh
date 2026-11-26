@@ -1,0 +1,40 @@
+{
+  "strong": "G650",
+  "lemma": "ἀποστερέω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "奪い取る・欺き取る",
+      "def_ja": "不正に奪う、欺き取る、拒む。『なぜ不義を耐え忍ばないのか。なぜだまし取られたままでいないのか』『あなたがたは不義を行い、だまし取っている』『互いに拒んではいけない』『真理を失った者』『だまし取ってはならない』。",
+      "label_en": "to defraud, to deprive",
+      "def_en": "To take away wrongfully, to cheat out of, to withhold.",
+      "label_es": "defraudar, despojar",
+      "def_es": "Quitar injustamente, estafar, negar.",
+      "label_sv": "att beröva, att bedra",
+      "def_sv": "Att orätt ta ifrån, att lura på, att förvägra.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "コリント第一6:7・6:8・7:5、テモテ第一6:5、マルコ10:19。LXX（34.21・21.10）、教父（3.9.9・1.10.3）に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "1CO 6:7": 1,
+    "1CO 6:8": 1,
+    "1CO 7:5": 1,
+    "1TI 6:5": 1,
+    "MRK 10:19": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。ἀφυστερημένος の形は本レンマへ割り当てない。",
+  "excluded": [
+    {
+      "ref": "JAS 5:4",
+      "form": "ἀφυστερημένος",
+      "reason": "形は ἀφυστερημένος で、別語 ἀφυστερέω の形。本レンマの形ではない。bible_data の付け替えはユーザー承認待ち。"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "strong": "G5311",
+  "lemma": "ὕψος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "高さ",
+      "def_ja": "高さ。『広さ、長さ、高さ、深さ』『その高さも長さも広さも等しい』。",
+      "label_en": "height",
+      "def_en": "Height.",
+      "label_es": "altura",
+      "def_es": "Altura.",
+      "label_sv": "höjd",
+      "def_sv": "Höjd.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "エペソ3:18、黙示録21:16。LXX（6.26）、教父（49.4）に並行。語義2・3との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "高み・上（天）",
+      "def_ja": "高い所、天。『高い所からあけぼのの光が訪れ』『上からの力を着せられる』『高い所に上って』。",
+      "label_en": "on high, heaven",
+      "def_en": "A high place; heaven.",
+      "label_es": "lo alto",
+      "def_es": "Lugar alto, el cielo.",
+      "label_sv": "höjden",
+      "def_sv": "Det höga, himlen.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ1:78・24:49、エペソ4:8。LXX（7.11）に並行。教父の代表例では確認していない。語義1・3との境界は連続的。"
+    },
+    {
+      "n": 3,
+      "label_ja": "高い地位",
+      "def_ja": "高められた地位、高いこと。『自分が高くされたことを誇れ』。",
+      "label_en": "high position",
+      "def_en": "A raised position, being exalted.",
+      "label_es": "alta posición",
+      "def_es": "Posición elevada, exaltación.",
+      "label_sv": "hög ställning",
+      "def_sv": "En upphöjd ställning, upphöjelse.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヤコブ1:9。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "EPH 3:18": 1,
+    "EPH 4:8": 2,
+    "JAS 1:9": 3,
+    "LUK 1:78": 2,
+    "LUK 24:49": 2,
+    "REV 21:16": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（高さ／高み・天／高い地位）による。"
+}

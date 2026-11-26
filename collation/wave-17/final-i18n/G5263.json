@@ -1,0 +1,51 @@
+{
+  "strong": "G5263",
+  "lemma": "ὑποδείκνυμι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "示す・教える",
+      "def_ja": "示す、教える、手本を示す。『あなたがたにあらゆる事で模範を示した』『わたしが…彼に示そう』『だれを恐れるべきか、あなたがたに示そう』『だれに似ているかを示そう』。",
+      "label_en": "to show, to teach",
+      "def_en": "To show, to teach, to set an example.",
+      "label_es": "mostrar, enseñar",
+      "def_es": "Mostrar, enseñar, dar ejemplo.",
+      "label_sv": "att visa, att lära",
+      "def_sv": "Att visa, undervisa, ge ett föredöme.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒20:35・9:16、ルカ12:5・6:47。LXX（7.10・11.2）、教父（12.4・1.8）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "警告する・知らせる",
+      "def_ja": "警告して知らせる。『来るべき怒りからのがれるように、だれが教えたのか』。",
+      "label_en": "to warn",
+      "def_en": "To warn and make known.",
+      "label_es": "advertir",
+      "def_es": "Avisar con advertencia.",
+      "label_sv": "att varna",
+      "def_sv": "Att varnande upplysa.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ルカ3:7、マタイ3:7。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 20:35": 1,
+    "ACT 9:16": 1,
+    "LUK 12:5": 1,
+    "LUK 3:7": 2,
+    "LUK 6:47": 1,
+    "MAT 3:7": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（示す・教える／警告する）による。"
+}

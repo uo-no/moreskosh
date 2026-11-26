@@ -1,0 +1,51 @@
+{
+  "strong": "G5494",
+  "lemma": "χειμών",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "冬",
+      "def_ja": "冬、冬の季節。『冬になる前に』『冬のことであった』『それが冬にならないように祈れ』『冬に逃げることのないように祈れ』。",
+      "label_en": "winter",
+      "def_en": "Winter, the winter season.",
+      "label_es": "invierno",
+      "def_es": "El invierno, la estación invernal.",
+      "label_sv": "vinter",
+      "def_sv": "Vinter, vintertiden.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "テモテ第二4:21、ヨハネ10:22、マタイ24:20、マルコ13:18。LXX（37.6）、教父（21.1.2・20.1.3）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "嵐",
+      "def_ja": "冬の嵐、暴風雨。『激しい暴風が吹きすさび』『空が曇って荒れ模様だ』。",
+      "label_en": "storm",
+      "def_en": "A winter storm, tempest.",
+      "label_es": "tempestad",
+      "def_es": "Temporal de invierno, tormenta.",
+      "label_sv": "oväder",
+      "def_sv": "Vinterstorm, hårt väder.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒27:20、マタイ16:3。LXX（9.6）に並行（雨期・嵐の用法）。教父の代表例では確認していない。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "2TI 4:21": 1,
+    "ACT 27:20": 2,
+    "JHN 10:22": 1,
+    "MAT 16:3": 2,
+    "MAT 24:20": 1,
+    "MRK 13:18": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（冬／嵐）による。"
+}

@@ -1,0 +1,51 @@
+{
+  "strong": "G5262",
+  "lemma": "ὑπόδειγμα",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "手本・見せしめ",
+      "def_ja": "従うべき、あるいは戒めとなる手本・実例。『見せしめにして』『同じ不従順の手本に倣って』『苦難と忍耐の模範』『あなたがたに模範を示した』。",
+      "label_en": "example, warning example",
+      "def_en": "An example or instance to follow, or to take as a warning.",
+      "label_es": "ejemplo, escarmiento",
+      "def_es": "Modelo o caso ejemplar que se ha de seguir o que sirve de advertencia.",
+      "label_sv": "föredöme, varnande exempel",
+      "def_sv": "Ett exempel att följa eller att ta varning av.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ペテロ第二2:6、ヘブル4:11、ヤコブ5:10、ヨハネ13:15。LXX（6.31・17.23）、教父（55.1・46.1）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "写し・ひな型",
+      "def_ja": "天にあるものの写し、ひな型。『天にあるものの写しと影』『天にあるものの写し』。",
+      "label_en": "copy, pattern",
+      "def_en": "A copy or pattern of heavenly things.",
+      "label_es": "copia, figura",
+      "def_es": "Copia o modelo de las cosas celestiales.",
+      "label_sv": "avbild",
+      "def_sv": "En kopia eller förebild av det himmelska.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヘブル8:5・9:23。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "2PE 2:6": 1,
+    "HEB 4:11": 1,
+    "HEB 8:5": 2,
+    "HEB 9:23": 2,
+    "JAS 5:10": 1,
+    "JHN 13:15": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（手本・実例／写し）による。"
+}
