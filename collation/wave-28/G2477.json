@@ -1,0 +1,59 @@
+{
+ "strong": "G2477",
+ "lemma": "ἱστορέω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "GAL 1:18",
+   "form": "ἱστορῆσαι",
+   "morph": "V-AAN",
+   "gloss_en": "visit",
+   "gloss_ja": "訪問する",
+   "verse": "Ἔπειτα μετὰ ἔτη τρία ἀνῆλθον εἰς Ἱεροσόλυμα ἱστορῆσαι Κηφᾶν, καὶ ἐπέμεινα πρὸς αὐτὸν ἡμέρας δεκαπέντε·"
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Esdras i": 3
+  },
+  "representatives": [
+   {
+    "work_code": "1ES",
+    "work_ja": "エズラ記（ギリシャ語）",
+    "work_src": "Esdras i",
+    "ref": "1.31",
+    "form": "ἱστορουμένων",
+    "postag": "v-pppmng-",
+    "sentence": "ταῦτα δὲ ἀναγέγραπται ἐν τῇ βίβλῳ τῶν ἱστορουμένων περὶ τῶν βασιλέων τῆς Ἰουδαίας ·"
+   },
+   {
+    "work_code": "1ES",
+    "work_ja": "エズラ記（ギリシャ語）",
+    "work_src": "Esdras i",
+    "ref": "1.40",
+    "form": "ἱστορηθέντα",
+    "postag": "v-pappnn-",
+    "sentence": "τὰ δὲ ἱστορηθέντα περὶ αὐτοῦ καὶ τῆς ἀκαθαρσίας αὐτοῦ καὶ δυσσεβείας ἀναγέγραπται ἐν τῇ βίβλῳ τῶν χρόνων τῶν βασιλέων."
+   },
+   {
+    "work_code": "1ES",
+    "work_ja": "エズラ記（ギリシャ語）",
+    "work_src": "Esdras i",
+    "ref": "1.31",
+    "form": "ἱστόρηται",
+    "postag": "v3srim---",
+    "sentence": "καὶ τὸ καθ’ ἓν πραχθὲν τῆς πράξεως Ἰωσίου καὶ τῆς δόξης αὐτοῦ καὶ τῆς συνέσεως αὐτοῦ ἐν τῷ νόμῳ Κυρίου, τά τε προπραχθέντα ὑπ’ αὐτοῦ καὶ τὰ νῦν, ἱστόρηται ἐν τῷ βιβλίῳ τῶν βασιλέων Ἰσραὴλ καὶ Ἰούδα."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ** ἱστορέω, -ῶ    (< ἵστωρ, one learned or skilled in)   [in LXX: I Es 1:33, 42*;]      c. acc. rei, to inquire into, learn by inquiry.     C. acc. pers., to inquire of or about.     to narrate, record.     In late writers, to visit, become acquainted with: Ga 1:18 (v. Ellic., in l., and cf. MM, Exp., xv).†"
+}

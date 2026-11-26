@@ -1,0 +1,41 @@
+{
+ "strong": "G2755",
+ "lemma": "κενόδοξος",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "GAL 5:26",
+   "form": "κενόδοξοι",
+   "morph": "A-NPM",
+   "gloss_en": "conceited",
+   "gloss_ja": "虚栄心のある",
+   "verse": "μὴ γινώμεθα κενόδοξοι, ἀλλήλους προκαλούμενοι, ἀλλήλοις φθονοῦντες."
+  }
+ ],
+ "lxx": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Didache": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DID",
+    "work_ja": "ディダケー",
+    "work_src": "Didache",
+    "ref": "3.5",
+    "form": "κενόδοξος",
+    "postag": "a-s---mn-",
+    "sentence": "ἐπειδὴ ὁδηγεῖ τὸ ψεῦσμα εἰς τὴν κλοπήν, μη-δὲ φιλάργυρος μη-δὲ κενόδοξος ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   *† κενόδοξος, -ον    (< κενός, δόξα),    vain-glorious: Ga 5:26.†"
+}

@@ -1,0 +1,163 @@
+{
+ "strong": "G2373",
+ "lemma": "θυμόομαι",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": "θυμοω",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MAT 2:16",
+   "form": "ἐθυμώθη",
+   "morph": "V-API-3S",
+   "gloss_en": "became ~ angry",
+   "gloss_ja": "怒らせる",
+   "verse": "Τότε Ἡρῴδης ἰδὼν ὅτι ἐνεπαίχθη ὑπὸ τῶν μάγων ἐθυμώθη λίαν, καὶ ἀποστείλας ἀνεῖλεν πάντας τοὺς παῖδας τοὺς ἐν Βηθλέεμ καὶ ἐν πᾶσι τοῖς ὁρίοις αὐτῆς ἀπὸ διετοῦς καὶ κατωτέρω, κατὰ τὸν χρόνον ὃν ἠκρίβωσεν παρὰ τῶν μάγων."
+  }
+ ],
+ "lxx": {
+  "total": 61,
+  "works": {
+   "Genesis": 3,
+   "Exodus": 3,
+   "Leviticus": 1,
+   "Numeri": 5,
+   "Deuteronomium": 5,
+   "Josue": 1,
+   "Regnorum i": 3,
+   "Regnorum ii": 7,
+   "Regnorum iv": 5,
+   "Paralipomenon i sive Chronicon i": 1,
+   "Paralipomenon ii sive Chronicon ii": 4,
+   "Esdras i": 1,
+   "Esther": 2,
+   "Judith": 1,
+   "Machabaeorum iv": 1,
+   "Ecclesiastes": 1,
+   "Job": 2,
+   "Ecclesiasticus sive Siracides": 1,
+   "Osee": 3,
+   "Isaias": 4,
+   "Jeremias": 1,
+   "Ezechiel": 1,
+   "Daniel": 3,
+   "Bel et Draco": 2
+  },
+  "representatives": [
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "19.42",
+    "form": "ἐθυμώθης",
+    "postag": "v2saip---",
+    "sentence": "καὶ ἱνατί οὕτως ἐθυμώθης περὶ τοῦ λόγου τούτου;"
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "22.27",
+    "form": "ἐθυμώθη",
+    "postag": "v3saip---",
+    "sentence": "καὶ ἐθυμώθη Βαλαὰμ καὶ ἔτυπτε τὴν ὄνον τῇ ράβδῳ."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "11.17",
+    "form": "θυμωθεὶς",
+    "postag": "v-sappmn-",
+    "sentence": "καὶ φαγὼν καὶ ἐμπλησθεὶς πρόσεχε σεαυτῷ, μὴ πλατυνθῇ ἡ καρδία σου καὶ παραβῆτε καὶ λατρεύσητε θεοῖς ἑτέροις καὶ προσκυνήσητε αὐτοῖς, καὶ θυμωθεὶς ὀργῇ Κύριος ἐφ’ ὑμῖν καὶ συσχῇ τὸν οὐρανόν, καὶ οὐκ ἔσται ὑετός, καὶ ἡ γῆ οὐ δώσει τὸν καρπὸν αὐτῆς, καὶ ἀπολεῖσθε ἐν τάχει ἀπό τῆς γῆς τῆς ἀγαθῆς, ἧς Κύριος ἔδωκεν ὑμῖν."
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "5.11",
+    "form": "ἐθυμώθη",
+    "postag": "v3saip---",
+    "sentence": "καὶ ἐθυμώθη Ναιμὰν καὶ ἀπῆλθε καὶ εἶπεν ·"
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "25.10",
+    "form": "ἐθυμώθησαν",
+    "postag": "v3paip---",
+    "sentence": "καὶ διεχώρισεν Ἀμασίας τῇ δυνάμει τῇ ἐλθούσῃ πρὸς αὐτὸν ἀπὸ Ἐφραὶμ ἀπελθεῖν εἰς τὸν τόπον αὐτῶν, καὶ ἐθυμώθησαν σφόδρα ἐπὶ Ἰούδαν καὶ ἐπέστρεψαν εἰς τὸν τόπον αὐτῶν ἐν ὀργῇ θυμοῦ."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "13.13",
+    "form": "θυμωθήσεται",
+    "postag": "v3sfip---",
+    "sentence": "ὁ γὰρ οὐρανὸς θυμωθήσεται καὶ ἡ γῆ σεισθήσεται ἐκ τῶν θεμελίων σαβαὼθ ἐν τῇ ἡμέρᾳ, ᾗ ἂν ἐπέλθῃ ὁ θυμὸς αὐτοῦ."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "44.18",
+    "form": "θυμωθῇς",
+    "postag": "v2sasp---",
+    "sentence": "λαλησάτω ὁ παῖς σου ῥῆμα ἐναντίον σου, καὶ μὴ θυμωθῇς τῷ παιδί σου, ὅτι σὺ εἶ μετὰ Φαραώ."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "32.11",
+    "form": "θυμοῖ",
+    "postag": "v2spim---",
+    "sentence": "ἱνατί, Κύριε, θυμοῖ ὀργῇ εἰς τὸν λαόν σου, οὓς ἐξήγαγες ἐκ γῆς Αἰγύπτου ἐν ἰσχύϊ μεγάλῃ καὶ ἐν τῷ βραχίονί σου τῷ ὑψηλῷ;"
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "20.30",
+    "form": "ἐθυμώθη",
+    "postag": "v3saip---",
+    "sentence": "καὶ ἐθυμώθη ὀργῇ Σαοὺλ ἐπὶ Ἰωνάθαν σφόδρα καὶ εἶπεν αὐτῷ ·"
+   },
+   {
+    "work_code": "HOS",
+    "work_ja": "ホセア書",
+    "work_src": "Osee",
+    "ref": "7.5",
+    "form": "θυμοῦσθαι",
+    "postag": "v--pnm---",
+    "sentence": "αἱ ἡμέραι τῶν βασιλέων ὑμῶν, ἤρξαντο οἱ ἄρχοντες θυμοῦσθαι ἐξ οἴνου, ἐξέτεινε τὴν χεῖρα αὐτοῦ μετὰ λοιμῶν ·"
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "11.30",
+    "form": "θυμωθήσεται",
+    "postag": "v3sfip---",
+    "sentence": "καὶ ἐπιστρέψει καὶ θυμωθήσεται ἐπὶ διαθήκην ἁγίαν ·"
+   },
+   {
+    "work_code": "EST",
+    "work_ja": "エステル記",
+    "work_src": "Esther",
+    "ref": "3.5",
+    "form": "ἐθυμώθη",
+    "postag": "v3saip---",
+    "sentence": "καὶ ἐπιγνοὺς Ἀμὰν ὅτι οὐ προσκυνεῖ αὐτῷ Μαρδοχαῖος, ἐθυμώθη σφόδρα καὶ ἐβουλεύσατο ἀφανίσαι πάντας τοὺς ὑπὸ τὴν Ἀρταξέρξου βασιλείαν Ἰουδαίους."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   θυμόω, -ῶ    (θυμός),   [in LXX (chiefly in pass.) for חרה, אף חרה, אָנֵף hith., etc.;]   (no act. in Attic.);  pass. (and mid.),     to be wroth or very angry: Mt 2:16.†"
+}

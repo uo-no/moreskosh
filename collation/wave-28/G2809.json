@@ -1,0 +1,81 @@
+{
+ "strong": "G2809",
+ "lemma": "κλέμμα",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "REV 9:21",
+   "form": "κλεμμάτων",
+   "morph": "N-GPN",
+   "gloss_en": "thefts",
+   "gloss_ja": "盗んだもの",
+   "verse": "καὶ οὐ μετενόησαν ἐκ τῶν φόνων αὐτῶν οὔτε ἐκ τῶν φαρμάκων αὐτῶν οὔτε ἐκ τῆς πορνείας αὐτῶν οὔτε ἐκ τῶν κλεμμάτων αὐτῶν."
+  }
+ ],
+ "lxx": {
+  "total": 4,
+  "works": {
+   "Genesis": 2,
+   "Exodus": 2
+  },
+  "representatives": [
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "31.39",
+    "form": "κλέμματα",
+    "postag": "n-p---na-",
+    "sentence": "θηριάλωτον οὐκ ἐνήνοχά σοι, ἐγὼ ἀπετίννυον παρ’ ἐμαυτοῦ κλέμματα ἡμέρας καὶ κλέμματα νυκτός ·"
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "22.3",
+    "form": "κλέμματος",
+    "postag": "n-s---ng-",
+    "sentence": "ἐὰν δὲ μὴ ὑπάρχῃ αὐτῷ, πραθήτω ἀντὶ τοῦ κλέμματος."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "31.39",
+    "form": "κλέμματα",
+    "postag": "n-p---na-",
+    "sentence": "θηριάλωτον οὐκ ἐνήνοχά σοι, ἐγὼ ἀπετίννυον παρ’ ἐμαυτοῦ κλέμματα ἡμέρας καὶ κλέμματα νυκτός ·"
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "22.4",
+    "form": "κλέμμα",
+    "postag": "n-s---nn-",
+    "sentence": "ἐὰν δὲ καταληφθῇ καὶ εὑρεθῇ ἐν τῇ χειρὶ αὐτοῦ τὸ κλέμμα ἀπό τε ὄνου ἕως προβάτου ζῶντα, διπλᾶ αὐτὰ ἀποτίσει."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "13.1.5",
+    "form": "κλέμμα",
+    "postag": "n-s---nn-",
+    "sentence": "κλέμμα, ψεῦδος, ἀποστέρησις, ψευδομαρτυρία, πλεονεξία, ἐπιθυμία πονηρά, ἀπάτη, κενοδοξία, ἀλαζονεία καὶ ὅσα τούτοις ὅμοιά εἰσιν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   κλέμμα, -τος, τό    (< κλέπτω),   [in LXX: Ge 31:39, Ex 22:3, 4 (2, 3) (גָּנַב, גְּנֵבָה)*;]      a thing stolen (Arist., LXX).     = κλοπή, theft (Plato, al.): pl., Re 9:21.†"
+}

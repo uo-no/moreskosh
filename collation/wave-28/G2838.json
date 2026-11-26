@@ -1,0 +1,71 @@
+{
+ "strong": "G2838",
+ "lemma": "κοίμησις",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JHN 11:13",
+   "form": "κοιμήσεως",
+   "morph": "N-GSF",
+   "gloss_en": "taking rest",
+   "gloss_ja": "眠り",
+   "verse": "εἰρήκει δὲ ὁ Ἰησοῦς περὶ τοῦ θανάτου αὐτοῦ. ἐκεῖνοι δὲ ἔδοξαν ὅτι περὶ τῆς κοιμήσεως τοῦ ὕπνου λέγει."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Ecclesiasticus sive Siracides": 2
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "48.13",
+    "form": "κοιμήσει",
+    "postag": "n-s---fd-",
+    "sentence": "πᾶς λόγος οὐχ ὑπερῇρεν αὐτόν, καὶ ἐν κοιμήσει ἐπροφήτευσε τὸ σῶμα αὐτοῦ ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "46.19",
+    "form": "κοιμήσεως",
+    "postag": "n-s---fg-",
+    "sentence": "καὶ πρὸ καιροῦ κοιμήσεως αἰῶνος ἐπεμαρτύρατο ἔναντι Κυρίου καὶ χριστοῦ αὐτοῦ ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "Hermas, Pastor": 2
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.15.6",
+    "form": "κοιμήσεως",
+    "postag": "n-s---fg-",
+    "sentence": "οὗτοι γάρ, φησί, πρῶτοι ταῦτα τὰ πνεύματα ἐφόρεσαν καὶ ὅλως ἀπ’ ἀλλήλων οὐκ ἀπέστησαν, οὔ-τε τὰ πνεύματα ἀπὸ τῶν ἀνθρώπων οὔ-τε οἱ ἄνθρωποι ἀπὸ τῶν πνευμάτων, ἀλλὰ παρέμειναν τὰ πνεύματα αὐτοῖς μέχρι τῆς κοιμήσεως αὐτῶν."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "3.11.3",
+    "form": "κοίμησιν",
+    "postag": "n-s---fa-",
+    "sentence": "ὥσπερ γὰρ οἱ πρεσβύτεροι, μηκέτι ἔχοντες ἐλπίδα τοῦ ἀνανεῶσαι, οὐδὲν ἄλλο προσδοκῶσιν εἰ μὴ τὴν κοίμησιν αὐτῶν, οὕτως καὶ ὑμεῖς μαλακισθέντες ἀπὸ τῶν βιωτικῶν πραγμάτων παρεδώκατε ἑαυτοὺς εἰς τὰς ἀκηδίας καὶ οὐκ ἐπερίψατε ἑαυτῶν τὰς μερίμνας ἐπὶ τὸν κύριον ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   ** κοίμησις, -εως, ἡ,    [in LXX: Si 46:19 48:13*;]    a reclining, resting: Jo 11:13.†"
+}

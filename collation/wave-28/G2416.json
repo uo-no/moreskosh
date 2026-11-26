@@ -1,0 +1,41 @@
+{
+ "strong": "G2416",
+ "lemma": "ἱεροσυλέω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ROM 2:22",
+   "form": "ἱεροσυλεῖς",
+   "morph": "V-PAI-2S",
+   "gloss_en": "rob temples",
+   "gloss_ja": "神殿を略奪する",
+   "verse": "ὁ λέγων μὴ μοιχεύειν μοιχεύεις; ὁ βδελυσσόμενος τὰ εἴδωλα ἱεροσυλεῖς;"
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Machabaeorum ii": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "9.2",
+    "form": "ἱεροσυλεῖν",
+    "postag": "v--pna---",
+    "sentence": "εἰσεληλύθει γὰρ εἰς τὴν λεγομένην Περσέπολιν καὶ ἐπεχείρησεν ἱεροσυλεῖν καὶ τὴν πόλιν συνέχειν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ** ἱερο-συλέω, -ῶ    (< ἱερόσυλος, q.v.),   [in LXX: II Mac 9:2*;]    to rob a temple (commit sacrilege, R, mg.): Ro 2:22.†"
+}

@@ -1,0 +1,41 @@
+{
+ "strong": "G2668",
+ "lemma": "καταπλέω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 8:26",
+   "form": "κατέπλευσαν",
+   "morph": "V-AAI-3P",
+   "gloss_en": "sailed",
+   "gloss_ja": "上陸する",
+   "verse": "Καὶ κατέπλευσαν εἰς τὴν χώραν τῶν Γερασηνῶν, ἥτις ἐστὶν ἀντιπέρα τῆς Γαλιλαίας."
+  }
+ ],
+ "lxx": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "2 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "7.1",
+    "form": "καταπλέουσα",
+    "postag": "v-sppafn-",
+    "sentence": "ὥστε οὖν, ἀδελφοί μου, ἀγωνισώμεθα εἰδότες, ὅτι ἐν χερσὶν ὁ ἀγὼν καὶ ὅτι εἰς τοὺς φθαρτοὺς ἀγῶνας καταπλέουσα ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   * κατα-πλέω, -ῶ,     to sail down, sail to land, put in: εἰς τ. χώραν, Lk 8:26.†"
+}

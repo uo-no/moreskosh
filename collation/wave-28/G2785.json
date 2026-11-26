@@ -1,0 +1,167 @@
+{
+ "strong": "G2785",
+ "lemma": "κῆτος",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MAT 12:40",
+   "form": "κήτους",
+   "morph": "N-GSN",
+   "gloss_en": "huge fish",
+   "gloss_ja": "大魚",
+   "verse": "ὥσπερ γὰρ ἦν Ἰωνᾶς ἐν τῇ κοιλίᾳ τοῦ κήτους τρεῖς ἡμέρας καὶ τρεῖς νύκτας, οὕτως ἔσται ὁ υἱὸς τοῦ ἀνθρώπου ἐν τῇ καρδίᾳ τῆς γῆς τρεῖς ἡμέρας καὶ τρεῖς νύκτας."
+  }
+ ],
+ "lxx": {
+  "total": 13,
+  "works": {
+   "Genesis": 1,
+   "Machabaeorum iii": 1,
+   "Odae": 1,
+   "Job": 3,
+   "Ecclesiasticus sive Siracides": 1,
+   "Jonas": 4,
+   "Daniel": 2
+  },
+  "representatives": [
+   {
+    "work_code": "JON",
+    "work_ja": "ヨナ書",
+    "work_src": "Jonas",
+    "ref": "2.1",
+    "form": "κήτει",
+    "postag": "n-s---nd-",
+    "sentence": "καὶ προσέταξε Κύριος κήτει μεγάλῳ καταπιεῖν τὸν Ἰωνᾶν ·"
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "26.12",
+    "form": "κῆτος",
+    "postag": "n-s---na-",
+    "sentence": "ἰσχύϊ κατέπαυσε τὴν θάλασσαν, ἐπιστήμῃ δὲ ἔστρωσε τὸ κῆτος ·"
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "3.79",
+    "form": "κήτη",
+    "postag": "n-p---nv-",
+    "sentence": "εὐλογεῖτε, κήτη καὶ πάντα τὰ κινούμενα ἐν τοῖς ὕδασι, τὸν κύριον ·"
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "1.21",
+    "form": "κήτη",
+    "postag": "n-p---na-",
+    "sentence": "καὶ ἐποίησεν ὁ Θεὸς τὰ κήτη τὰ μεγάλα καὶ πᾶσαν ψυχὴν ζῴων ἑρπετῶν, ἃ ἐξήγαγε τὰ ὕδατα κατὰ γένη αὐτῶν, καὶ πᾶν πετεινὸν πτερωτὸν κατὰ γένος."
+   },
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "6.8",
+    "form": "κήτους",
+    "postag": "n-s---ng-",
+    "sentence": "σὺ τὸν διαβολαῖς φθόνου λέουσι κατὰ γῆς ριφέντα θηρσὶ βορὰν Δανιὴλ εἰς φῶς ἀνήγαγες ἀσινῆ, τόν τε βυθοτρεφοῦς ἐν γαστρὶ κήτους Ἰωνᾶν τηκόμενον ἀφειδῶς ἀπήμαντον πᾶσιν οἰκείοις ἀνέδειξας, πάτερ."
+   },
+   {
+    "work_code": "ODE",
+    "work_ja": "頌歌（オード）",
+    "work_src": "Odae",
+    "ref": "11.79",
+    "form": "κήτη",
+    "postag": "n-p---nv-",
+    "sentence": "εὐλογεῖτε, κήτη καὶ πάντα τὰ κινούμενα ἐν τοῖς ὕδασιν, τὸν κύριον ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "43.25",
+    "form": "κητῶν",
+    "postag": "n-p---ng-",
+    "sentence": "καὶ ἐκεῖ τὰ παράδοξα καὶ θαυμάσια ἔργα, ποικιλία παντὸς ζῴου, κτίσις κητῶν."
+   },
+   {
+    "work_code": "JON",
+    "work_ja": "ヨナ書",
+    "work_src": "Jonas",
+    "ref": "2.1",
+    "form": "κήτους",
+    "postag": "n-s---ng-",
+    "sentence": "καὶ ἦν Ἰωνᾶς ἐν τῇ κοιλίᾳ τοῦ κήτους τρεῖς ἡμέρας καὶ τρεῖς νύκτας."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "9.13",
+    "form": "κήτη",
+    "postag": "n-p---nn-",
+    "sentence": "αὐτὸς γὰρ ἀπέστραπται ὀργήν, ὑπ’ αὐτοῦ ἐκάμφθησαν κήτη τὰ ὑπ’ οὐρανόν."
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "3.79",
+    "form": "κήτη",
+    "postag": "n-p---nv-",
+    "sentence": "εὐλογεῖτε, κήτη καὶ πάντα τὰ κινούμενα ἐν τοῖς ὕδασι, τὸν Κύριον ·"
+   },
+   {
+    "work_code": "JON",
+    "work_ja": "ヨナ書",
+    "work_src": "Jonas",
+    "ref": "2.11",
+    "form": "κήτει",
+    "postag": "n-s---nd-",
+    "sentence": "καὶ προσέταξε Κύριος τῷ κήτει, καὶ ἐξέβαλε τὸν Ἰωνᾶν ἐπὶ τὴν ξηράν."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "3.8",
+    "form": "κῆτος",
+    "postag": "n-s---na-",
+    "sentence": "ἀλλὰ καταράσαιτο αὐτὴν ὁ καταρώμενος τὴν ἡμέραν ἐκείνην, ὁ μέλλων τὸ μέγα κῆτος χειρώσασθαι."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "Hermas, Pastor": 2
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "4.1.6",
+    "form": "κῆτός",
+    "postag": "n-s---na-",
+    "sentence": "μικρὸν ἐξέλαμψεν ὁ ἥλιος καὶ ἰδού, βλέπω θηρίον μέγιστον ὡσεὶ κῆτός τι, καὶ ἐκ τοῦ στόματος αὐτοῦ ἀκρίδες πύριναι ἐξεπορεύοντο ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "4.1.9",
+    "form": "κῆτος",
+    "postag": "n-s---nn-",
+    "sentence": "ἔρχομαι ἐγγὺς αὐτοῦ, καὶ τὸ τηλικοῦτο κῆτος ἐκτείνει ἑαυτὸ χαμαὶ καὶ οὐδὲν εἰ μὴ τὴν γλῶσσαν προέβαλλεν καὶ ὅλως οὐκ ἐκινήθη, μέχρις ὅτε παρῆλθον αὐτό ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   κῆτος, -εος (-ους), τό,    [in LXX: Jh 2:1, 11 (דָּג), Ge 1:21 (תַּנִּין), etc.;]    a huge fish, sea-monster: Mt 12:40(LXX).†"
+}

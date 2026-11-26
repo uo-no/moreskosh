@@ -1,0 +1,41 @@
+{
+ "strong": "G2312",
+ "lemma": "θεοδίδακτος",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1TH 4:9",
+   "form": "θεοδίδακτοί",
+   "morph": "A-NPM",
+   "gloss_en": "taught by god",
+   "gloss_ja": "神に教えられた",
+   "verse": "Περὶ δὲ τῆς φιλαδελφίας οὐ χρείαν ἔχετε γράφειν ὑμῖν, αὐτοὶ γὰρ ὑμεῖς θεοδίδακτοί ἐστε εἰς τὸ ἀγαπᾶν ἀλλήλους·"
+  }
+ ],
+ "lxx": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Barnabas": 1
+  },
+  "representatives": [
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "21.6",
+    "form": "θεοδίδακτοι",
+    "postag": "a-p---mn-",
+    "sentence": "γίνεσθε δὲ θεοδίδακτοι, ἐκζητοῦντες τί ζητεῖ κύριος ἀφ’ ὑμῶν, καὶ ποιεῖτε ἵνα εὑρεθῆτε ἐν ἡμέρᾳ κρίσεως."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   *† θεο-δίδακτος, -ον,     taught of God (cf. διδακτοὶ θεοῦ, Jo 6:45): I Th 4:9.†"
+}

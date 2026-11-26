@@ -1,0 +1,69 @@
+{
+ "strong": "G2341",
+ "lemma": "θηριομαχέω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 15:32",
+   "form": "ἐθηριομάχησα",
+   "morph": "V-AAI-1S",
+   "gloss_en": "fought wild beasts",
+   "gloss_ja": "獣と戦う",
+   "verse": "εἰ κατὰ ἄνθρωπον ἐθηριομάχησα ἐν Ἐφέσῳ, τί μοι τὸ ὄφελος; εἰ νεκροὶ οὐκ ἐγείρονται, Φάγωμεν καὶ πίωμεν, αὔριον γὰρ ἀποθνῄσκομεν."
+  }
+ ],
+ "lxx": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "fathers": {
+  "total": 4,
+  "works": {
+   "Ignatius, Letters": 3,
+   "Martyrdom of Polycarp": 1
+  },
+  "representatives": [
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "4.5.1",
+    "form": "θηριομαχῶ",
+    "postag": "v1spia---",
+    "sentence": "ἀπὸ Συρίας μέχρι Ῥώμης θηριομαχῶ, διὰ γῆς καὶ θαλάσσης, νυκτὸς καὶ ἡμέρας, δεδεμένος δέκα λεοπάρδοις, ὅ ἐστιν στρατιωτικὸν τάγμα ·"
+   },
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "3.1",
+    "form": "ἐθηριομάχησεν",
+    "postag": "v3saia---",
+    "sentence": "ὃς καὶ ἐπισήμως ἐθηριομάχησεν."
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "3.10.1",
+    "form": "θηριομαχῆσαι",
+    "postag": "v--ana---",
+    "sentence": "εἰ δέ, ὥσπερ τινὲς ἄθεοι ὄντες, τουτέστιν ἄπιστοι, λέγουσιν, τὸ δοκεῖν πεπονθέναι αὐτόν, αὐτοὶ ὄντες τὸ δοκεῖν, ἐγὼ τί δέδεμαι, τί δὲ καὶ εὔχομαι θηριομαχῆσαι;"
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "1.1.2",
+    "form": "θηριομαχῆσαι",
+    "postag": "v--ana---",
+    "sentence": "ἀκούσαντες γὰρ δεδεμένον ἀπὸ Συρίας ὑπὲρ τοῦ κοινοῦ ὀνόματος καὶ ἐλπίδος, ἐλπίζοντα τῇ προσευχῇ ὑμῶν ἐπιτυχεῖν ἐν Ῥώμῃ θηριομαχῆσαι, ἵνα διὰ τοῦ ἐπιτυχεῖν δυνηθῶ μαθητὴς εἶναι, ἰδεῖν ἐσπουδάσατε ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   *† θηριομαχέω, -ῶ    (< θηρίον, μάχομαι),    to fight with wild beasts (Diod., al.): I Co 15:32.†"
+}

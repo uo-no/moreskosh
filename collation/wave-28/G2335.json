@@ -1,0 +1,80 @@
+{
+ "strong": "G2335",
+ "lemma": "θεωρία",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 23:48",
+   "form": "θεωρίαν",
+   "morph": "N-ASF",
+   "gloss_en": "spectacle",
+   "gloss_ja": "光景",
+   "verse": "καὶ πάντες οἱ συμπαραγενόμενοι ὄχλοι ἐπὶ τὴν θεωρίαν ταύτην, θεωρήσαντες τὰ γενόμενα, τύπτοντες τὰ στήθη ὑπέστρεφον."
+  }
+ ],
+ "lxx": {
+  "total": 5,
+  "works": {
+   "Machabaeorum ii": 2,
+   "Machabaeorum iii": 1,
+   "Machabaeorum iv": 1,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "15.12",
+    "form": "θεωρία",
+    "postag": "n-s---fn-",
+    "sentence": "ἦν δὲ ἡ τούτου θεωρία τοιάδε ·"
+   },
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "5.24",
+    "form": "θεωρίαν",
+    "postag": "n-s---fa-",
+    "sentence": "τὰ δὲ κατὰ τὴν πόλιν πλήθη συνήθροιστο πρὸς τὴν οἰκτροτάτην θεωρίαν, προσδοκῶντα τὴν πρωΐαν μετὰ σπουδῆς."
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "3.19",
+    "form": "θεωρίας",
+    "postag": "n-s---fg-",
+    "sentence": "— ἤδη δὲ καὶ ὁ καιρὸς ἡμᾶς καλεῖ ἐπὶ τὴν ἀπόδειξιν τῆς θεωρίας τοῦ σώφρονος λογισμοῦ."
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "5.7",
+    "form": "θεωρίαν",
+    "postag": "n-s---fa-",
+    "sentence": "καὶ εἰσεπορεύοντο ἐπὶ θεωρίαν ἰδεῖν τὴν γραφήν, καὶ τὸ σύγκριμα τῆς γραφῆς οὐκ ἐδύναντο συγκρῖναι τῷ βασιλεῖ."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "5.26",
+    "form": "θεωρίαν",
+    "postag": "n-s---fa-",
+    "sentence": "οὗτος δὲ παραγενόμενος εἰς Ἱεροσόλυμα καὶ τὸν εἰρηνικὸν ὑποκριθείς, ἐπέσχεν ἕως τῆς ἁγίας ἡμέρας τοῦ σαββάτου καὶ λαβὼν ἀργοῦντας τοὺς Ἰουδαίους τοῖς ὑφ’ ἑαυτὸν ἐξοπλησίαν παρήγγειλε καὶ τοὺς ἐξελθόντας πάντας ἐπὶ τὴν θεωρίαν συνεξεκέντησε καὶ εἰς τὴν πόλιν σὺν τοῖς ὅπλοις εἰσδραμὼν ἱκανὰ κατέστρωσε πλήθη."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   θεωρία, -ας, ἡ    (v.s. θεωρέω),   [in LXX: Da LXX 5:7, II Mac 5:26 15:12, III Mac 5:24*;]      a viewing.     = θεώρημα, a spectacle, sight: Lk 23:48 (both senses in cl.).†"
+}

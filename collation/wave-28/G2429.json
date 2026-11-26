@@ -1,0 +1,82 @@
+{
+ "strong": "G2429",
+ "lemma": "ἰκμάς",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 8:6",
+   "form": "ἰκμάδα",
+   "morph": "N-ASF",
+   "gloss_en": "moisture",
+   "gloss_ja": "湿り気",
+   "verse": "καὶ ἕτερον κατέπεσεν ἐπὶ τὴν πέτραν, καὶ φυὲν ἐξηράνθη διὰ τὸ μὴ ἔχειν ἰκμάδα."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Job": 1,
+   "Jeremias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "26.14",
+    "form": "ἰκμάδα",
+    "postag": "n-s---fa-",
+    "sentence": "ἰδοὺ ταῦτα μέρη ὁδοῦ αὐτοῦ, καὶ ἐπὶ ἰκμάδα λόγου ἀκουσόμεθα ἐν αὐτῷ ·"
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "17.8",
+    "form": "ἰκμάδα",
+    "postag": "n-s---fa-",
+    "sentence": "καὶ ἔσται ὡς ξύλον εὐθηνοῦν παρ’ ὕδατα, καὶ ἐπὶ ἰκμάδα βαλεῖ ρίζαν αὐτοῦ καὶ οὐ φοβηθήσεται ὅταν ἔλθῃ καῦμα, καὶ ἔσται ἐπ’ αὐτῷ στελέχη ἀλσώδη, ἐν ἐνιαυτῷ ἀβροχίας οὐ φοβηθήσεται καὶ οὐ διαλείψει ποιῶν καρπόν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 3,
+  "works": {
+   "1 Clement": 1,
+   "Hermas, Pastor": 2
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "25.2.7",
+    "form": "ἰκμάδα",
+    "postag": "n-s---fa-",
+    "sentence": "ἐὰν οὖν φυτευθῶσι καὶ μικρὰν ἰκμάδα λαμβάνωσιν αἱ ῥάβδοι, ζήσονται πολλαὶ ἐξ αὐτῶν ·"
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "25.3",
+    "form": "ἰκμάδος",
+    "postag": "n-s---fg-",
+    "sentence": "σηπομένης δὲ τῆς σαρκὸς σκώληξ τις γεννᾶται, ὃς ἐκ τῆς ἰκμάδος τοῦ τετελευτηκότος ζώου ἀνατρεφόμενος πτεροφυεῖ ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "25.2.9",
+    "form": "ἰκμάδα",
+    "postag": "n-s---fa-",
+    "sentence": "ἐλπίζω δὲ κα-κἀγώ, ὅτι λαβόντα τὰ ῥαβδία ταῦτα ἰκμάδα καὶ ποτισθέντα ὕδατι ζήσονται τὸ πλεῖστον μέρος αὐτῶν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   ἰκμάς, -άδος, ἡ,    [in LXX. Je 17:8 (יוּבַל), Jb 26:14 (שֶׁמֶץ)*;]    moisture: Lk 8:6.†"
+}

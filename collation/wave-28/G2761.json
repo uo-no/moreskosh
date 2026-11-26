@@ -1,0 +1,53 @@
+{
+ "strong": "G2761",
+ "lemma": "κενῶς",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JAS 4:5",
+   "form": "κενῶς",
+   "morph": "ADV",
+   "gloss_en": "in vain",
+   "gloss_ja": "空しく",
+   "verse": "ἢ δοκεῖτε ὅτι κενῶς ἡ γραφὴ λέγει· Πρὸς φθόνον ἐπιποθεῖ τὸ πνεῦμα ὃ κατῴκισεν ἐν ἡμῖν;"
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Isaias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "49.4",
+    "form": "κενῶς",
+    "postag": "d--------",
+    "sentence": "κενῶς ἐκοπίασα, εἰς μάταιον καὶ εἰς οὐδὲν ἔδωκα τὴν ἰσχύν μου ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "16.1.13",
+    "form": "κενῶς",
+    "postag": "d--------",
+    "sentence": "κολλᾶται δὲ τοῖς διψύχοις καὶ κενοῖς καὶ κατὰ γωνίαν αὐτοῖς προφητεύει καὶ ἀπατᾷ αὐτοὺς λαλῶν κατὰ τὰς ἐπιθυμίας αὐτῶν πάντα κενῶς ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   κενῶς,     adv.,    [in LXX: Is 49:4 (לְרִיק)*;]    in vain, to no purpose: Ja 4:5.†"
+}

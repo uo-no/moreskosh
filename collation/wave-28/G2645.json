@@ -1,0 +1,159 @@
+{
+ "strong": "G2645",
+ "lemma": "κατάλοιπος",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 15:17",
+   "form": "κατάλοιποι",
+   "morph": "A-NPM",
+   "gloss_en": "rest",
+   "gloss_ja": "残りの",
+   "verse": "ὅπως ἂν ἐκζητήσωσιν οἱ κατάλοιποι τῶν ἀνθρώπων τὸν κύριον, καὶ πάντα τὰ ἔθνη ἐφ’ οὓς ἐπικέκληται τὸ ὄνομά μου ἐπ’ αὐτούς, λέγει κύριος ποιῶν ταῦτα"
+  }
+ ],
+ "lxx": {
+  "total": 96,
+  "works": {
+   "Leviticus": 1,
+   "Numeri": 1,
+   "Deuteronomium": 1,
+   "Judices": 1,
+   "Regnorum i": 1,
+   "Regnorum ii": 2,
+   "Regnorum iii": 3,
+   "Paralipomenon i sive Chronicon i": 8,
+   "Paralipomenon ii sive Chronicon ii": 4,
+   "Esdras ii": 18,
+   "Psalmi": 1,
+   "Amos": 4,
+   "Michaeas": 4,
+   "Joel": 3,
+   "Sophonias": 4,
+   "Aggaeus": 3,
+   "Zacharias": 5,
+   "Isaias": 3,
+   "Jeremias": 20,
+   "Ezechiel": 9
+  },
+  "representatives": [
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "38.7",
+    "form": "κατάλοιπον",
+    "postag": "a-s---na-",
+    "sentence": "ἔσωσε Κύριος τὸν λαὸν αὐτοῦ, τὸ κατάλοιπον τοῦ Ἰσραήλ."
+   },
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "14.13",
+    "form": "καταλοίπους",
+    "postag": "a-p---ma-",
+    "sentence": "καὶ εἶπα πρὸς τοὺς ἐντίμους καὶ πρὸς τοὺς ἄρχοντας καὶ πρὸς τοὺς καταλοίπους τοῦ λαοῦ ·"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "34.18",
+    "form": "κατάλοιπα",
+    "postag": "a-p---na-",
+    "sentence": "καὶ οὐχ ἱκανὸν ὑμῖν ὅτι τὴν καλὴν νομὴν ἐνέμεσθε, καὶ τὰ κατάλοιπα τῆς νομῆς ὑμῶν κατεπατεῖτε τοῖς ποσὶν ὑμῶν;"
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "24.20",
+    "form": "καταλοίποις",
+    "postag": "a-p---md-",
+    "sentence": "καὶ τοῖς υἱοῖς Λευὶ τοῖς καταλοίποις ·"
+   },
+   {
+    "work_code": "ZEC",
+    "work_ja": "ゼカリヤ書",
+    "work_src": "Zacharias",
+    "ref": "8.6",
+    "form": "καταλοίπων",
+    "postag": "a-p---mg-",
+    "sentence": "εἰ ἀδυνατήσει ἐνώπιον τῶν καταλοίπων τοῦ λαοῦ τούτου ἐν ταῖς ἡμέραις ἐκείναις, μὴ καὶ ἐνώπιόν μου ἀδυνατήσει;"
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "9.29",
+    "form": "κατάλοιποι",
+    "postag": "a-p---mn-",
+    "sentence": "καὶ οἱ κατάλοιποι λόγοι Σαλωμὼν οἱ πρῶτοι καὶ οἱ ἔσχατοι ἰδοὺ οὗτοι γεγραμμένοι ἐπὶ τῶν λόγων Νάθαν τοῦ προφήτου καὶ ἐπὶ τῶν λόγων Ἀχιὰ τοῦ Σηλωνίτου καὶ ἐν ταῖς ὁράσεσιν Ἰωὴλ τοῦ ὁρῶντος περὶ Ἱεροβοὰμ υἱοῦ Ναβάτ."
+   },
+   {
+    "work_code": "AMO",
+    "work_ja": "アモス書",
+    "work_src": "Amos",
+    "ref": "9.1",
+    "form": "καταλοίπους",
+    "postag": "a-p---ma-",
+    "sentence": "καὶ τοὺς καταλοίπους αὐτῶν ἐν ρομφαίᾳ ἀποκτενῶ, οὐ μὴ διαφύγῃ ἐξ αὐτῶν φεύγων, καὶ οὐ μὴ διασωθῇ ἐξ αὐτῶν ἀνασωζόμενος."
+   },
+   {
+    "work_code": "MIC",
+    "work_ja": "ミカ書",
+    "work_src": "Michaeas",
+    "ref": "3.1",
+    "form": "κατάλοιποι",
+    "postag": "a-p---mn-",
+    "sentence": "ἀκούσατε δὴ ταῦτα, αἱ ἀρχαὶ οἴκου Ἰακὼβ καὶ οἱ κατάλοιποι οἴκου Ἰσραήλ."
+   },
+   {
+    "work_code": "ZEP",
+    "work_ja": "ゼファニヤ書",
+    "work_src": "Sophonias",
+    "ref": "2.7",
+    "form": "καταλοίποις",
+    "postag": "a-p---md-",
+    "sentence": "καὶ ἔσται τὸ σχοίνισμα τῆς θαλάσσης τοῖς καταλοίποις οἴκου Ἰούδα ·"
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "12.23",
+    "form": "καταλοίπῳ",
+    "postag": "a-s---md-",
+    "sentence": "εἰπὸν τῷ Ῥοβοὰμ υἱῷ Σαλωμὼν βασιλεῖ Ἰούδα καὶ πρὸς πάντα οἶκον Ἰούδα καὶ Βενιαμὶν καὶ τῷ καταλοίπῳ τοῦ λαοῦ λέγων ·"
+   },
+   {
+    "work_code": "JOL",
+    "work_ja": "ヨエル書",
+    "work_src": "Joel",
+    "ref": "1.4",
+    "form": "κατάλοιπα",
+    "postag": "a-p---na-",
+    "sentence": "τὰ κατάλοιπα τῆς κάμπης κατέφαγεν ἡ ἀκρίς, καὶ τὰ κατάλοιπα τῆς ἀκρίδος κατέφαγεν ὁ βροῦχος, καὶ τὰ κατάλοιπα τοῦ βρούχου κατέφαγεν ἡ ἐρυσίβη."
+   },
+   {
+    "work_code": "HAG",
+    "work_ja": "ハガイ書",
+    "work_src": "Aggaeus",
+    "ref": "2.2",
+    "form": "καταλοίπους",
+    "postag": "a-p---ma-",
+    "sentence": "εἰπὸν δὴ πρὸς Ζοροβάβελ τὸν τοῦ Σαλαθιὴλ ἐκ φυλῆς Ἰούδα καὶ πρὸς Ἰησοῦν τοῦ Ἰωσεδὲκ τὸν ἱερέα τὸν μέγαν καὶ πρὸς πάντας τοὺς καταλοίπους τοῦ λαοῦ λέγων ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   κατά-λοιπος, -ον,    [in LXX for שְׁאָר, שְׁאֵרִית, יֶרֶר, etc.;]    left remaining: ἱο κ. τ. ἀνθρώπων, Ac 15:17(LXX).†"
+}

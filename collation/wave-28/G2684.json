@@ -1,0 +1,71 @@
+{
+ "strong": "G2684",
+ "lemma": "κατασκοπέω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "GAL 2:4",
+   "form": "κατασκοπῆσαι",
+   "morph": "V-AAN",
+   "gloss_en": "spy out",
+   "gloss_ja": "偵察する",
+   "verse": "διὰ δὲ τοὺς παρεισάκτους ψευδαδέλφους, οἵτινες παρεισῆλθον κατασκοπῆσαι τὴν ἐλευθερίαν ἡμῶν ἣν ἔχομεν ἐν Χριστῷ Ἰησοῦ, ἵνα ἡμᾶς καταδουλώσουσιν"
+  }
+ ],
+ "lxx": {
+  "total": 4,
+  "works": {
+   "Numeri": 1,
+   "Regnorum ii": 1,
+   "Paralipomenon i sive Chronicon i": 1,
+   "Ezechiel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "13.26",
+    "form": "κατασκεψάμενοι",
+    "postag": "v-papmmn-",
+    "sentence": "καὶ ἀπέστρεψαν ἐκεῖθεν κατασκεψάμενοι τὴν γῆν μετὰ τεσσαράκοντα ἡμέρας."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "10.3",
+    "form": "κατασκοπήσωσιν",
+    "postag": "v3pasa---",
+    "sentence": "ἀλλ’ οὐχὶ ὅπως ἐρευνήσωσι τὴν πόλιν καὶ κατασκοπήσωσιν αὐτὴν καὶ τοῦ κατασκέψασθαι αὐτὴν ἀπέστειλε Δαυὶδ τοὺς παῖδας αὐτοῦ πρός σε;"
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "19.3",
+    "form": "κατασκοπῆσαι",
+    "postag": "v--ana---",
+    "sentence": "οὐχὶ ὅπως ἐξερευνήσωσι τὴν πόλιν καὶ τοῦ κατασκοπῆσαι τὴν γῆν ἦλθον παῖδες αὐτοῦ πρός σε;"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "21.21",
+    "form": "κατασκοπήσασθαι",
+    "postag": "v--anm---",
+    "sentence": "διότι στήσεται βασιλεὺς Βαβυλῶνος ἐπὶ τὴν ἀρχαίαν ὁδόν, ἐπ’ ἀρχῆς τῶν δύο ὁδῶν, τοῦ μαντεύσασθαι μαντείαν, τοῦ ἀναβράσαι ράβδον καὶ ἐπερωτῆσαι ἐν τοῖς γλυπτοῖς καὶ κατασκοπήσασθαι ἐκ δεξιῶν αὐτοῦ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   κατα-σκοπέω, -ῶ,    [in LXX: II Ki 10:3, I Ch 19:3 (רגל pi.), I Mac 5:38 (A)*;]    to view closely, inspect, spy out: c. acc., Ga 2:4.†"
+}

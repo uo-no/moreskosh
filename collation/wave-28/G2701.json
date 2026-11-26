@@ -1,0 +1,91 @@
+{
+ "strong": "G2701",
+ "lemma": "κατατρέχω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 21:32",
+   "form": "κατέδραμεν",
+   "morph": "V-2AAI-3S",
+   "gloss_en": "ran down",
+   "gloss_ja": "駆け下る",
+   "verse": "ὃς ἐξαυτῆς παραλαβὼν στρατιώτας καὶ ἑκατοντάρχας κατέδραμεν ἐπ’ αὐτούς, οἱ δὲ ἰδόντες τὸν χιλίαρχον καὶ τοὺς στρατιώτας ἐπαύσαντο τύπτοντες τὸν Παῦλον."
+  }
+ ],
+ "lxx": {
+  "total": 6,
+  "works": {
+   "Leviticus": 1,
+   "Judices": 1,
+   "Regnorum iii": 1,
+   "Machabaeorum ii": 1,
+   "Job": 1,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "26.37",
+    "form": "κατατρέχοντος",
+    "postag": "v-sppamg-",
+    "sentence": "καὶ ὑπερόψεται ὁ ἀδελφὸς τὸν ἀδελφὸν ὡσεὶ ἐν πολέμῳ, οὐδενὸς κατατρέχοντος, καὶ οὐ δυνήσεσθε ἀντιστῆναι τοῖς ἐχθροῖς ὑμῶν."
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "1.6",
+    "form": "κατέδραμον",
+    "postag": "v3paia---",
+    "sentence": "καὶ ἔφυγεν Ἀδωνιβεζέκ, καὶ κατέδραμον ὀπίσω αὐτοῦ καὶ ἐλάβοσαν αὐτὸν καὶ ἀπέκοψαν τὰ ἄκρα τῶν χειρῶν αὐτοῦ καὶ τὰ ἄκρα τῶ ποδῶν αὐτοῦ."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "19.20",
+    "form": "κατέδραμεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ κατέλιπεν Ἑλισαιὲ τὰς βόας καὶ κατέδραμεν ὀπίσω Ἠλιοὺ καὶ εἶπε ·"
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "8.26",
+    "form": "κατατρέχοντες",
+    "postag": "v-pppamn-",
+    "sentence": "ἦν γὰρ ἡ πρὸ τοῦ σαββάτου, δι’ ἣν αἰτίαν οὐκ ἐμακροθύμησαν κατατρέχοντες αὐτούς."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "16.10",
+    "form": "κατέδραμον",
+    "postag": "v3paia---",
+    "sentence": "ἀκίσιν ὀφθαλμῶν ἐνήλατο, ὀξεῖ ἔπαισέ με εἰς τὰ γόνατα, ὁμοθυμαδὸν δὲ κατέδραμον ἐπ’ ἐμοί ·"
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "4.24",
+    "form": "κατατρέχουσιν",
+    "postag": "v3ppia---",
+    "sentence": "ἡ κρίσις τοῦ θεοῦ τοῦ μεγάλου ἥξει ἐπὶ σέ, καὶ ὁ ὕψιστος καὶ οἱ ἄγγελοι αὐτοῦ ἐπὶ σὲ κατατρέχουσιν ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   κατα-τρέχω,    [in LXX: Le 26:37, Jg 1:6 (רדף), al.;]    to run down: seq. ἐπί, c. acc. pers., Ac 21:32.†"
+}

@@ -1,0 +1,149 @@
+{
+ "strong": "G2339",
+ "lemma": "θήρα",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ROM 11:9",
+   "form": "θήραν",
+   "morph": "N-ASF",
+   "gloss_en": "trap",
+   "gloss_ja": "罠",
+   "verse": "καὶ Δαυὶδ λέγει· Γενηθήτω ἡ τράπεζα αὐτῶν εἰς παγίδα καὶ εἰς θήραν καὶ εἰς σκάνδαλον καὶ εἰς ἀνταπόδομα αὐτοῖς,"
+  }
+ ],
+ "lxx": {
+  "total": 25,
+  "works": {
+   "Genesis": 9,
+   "Exodus": 1,
+   "Numeri": 1,
+   "Machabaeorum i": 1,
+   "Psalmi": 3,
+   "Proverbia": 2,
+   "Ecclesiasticus sive Siracides": 2,
+   "Osee": 2,
+   "Amos": 1,
+   "Nahum": 3
+  },
+  "representatives": [
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "27.33",
+    "form": "θήραν",
+    "postag": "n-s---fa-",
+    "sentence": "τίς οὖν ὁ θηρεύσας μοι θήραν καὶ εἰσενέγκας μοι;"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "34.8",
+    "form": "θήρα",
+    "postag": "n-s---fn-",
+    "sentence": "ἐλθέτω αὐτῷ παγίς, ἣν οὐ γινώσκει, καὶ ἡ θήρα, ἣν ἔκρυψε, συλλαβέτω αὐτόν, καὶ ἐν τῇ παγίδι πεσεῖται ἐν αὐτῇ."
+   },
+   {
+    "work_code": "NAH",
+    "work_ja": "ナホム書",
+    "work_src": "Nahum",
+    "ref": "2.13",
+    "form": "θήρας",
+    "postag": "n-p---fa-",
+    "sentence": "λέων ἥρπασε τὰ ἱκανὰ τοῖς σκύμνοις αὐτοῦ καὶ ἀπέπνιξε τοῖς λέουσιν αὐτοῦ καὶ ἔπλησε θήρας νοσσιὰν αὐτοῦ καὶ τὸ κατοικητήριον αὐτοῦ ἁρπαγῆς."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "12.27",
+    "form": "θήρας",
+    "postag": "n-s---fg-",
+    "sentence": "οὐκ ἐπιτεύξεται δόλιος θήρας, κτῆμα δὲ τίμιον ἀνὴρ καθαρός."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "27.10",
+    "form": "θήραν",
+    "postag": "n-s---fa-",
+    "sentence": "λέων θήραν ἐνεδρεύει, οὕτως ἁμαρτίαι ἐργαζομένους ἄδικα."
+   },
+   {
+    "work_code": "HOS",
+    "work_ja": "ホセア書",
+    "work_src": "Osee",
+    "ref": "9.13",
+    "form": "θήραν",
+    "postag": "n-s---fa-",
+    "sentence": "εἰς θήραν παρέστησαν τὰ τέκνα αὐτῶν, καὶ Ἐφραὶμ τοῦ ἐξαγαγεῖν εἰς ἀποκέντησιν τὰ τέκνα αὐτοῦ."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "22.13",
+    "form": "θήραν",
+    "postag": "n-s---fa-",
+    "sentence": "ἐὰν δὲ θηριάλωτον γένηται, ἄξει αὐτὸν ἐπὶ τὴν θήραν καὶ οὐκ ἀποτίσει."
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "23.24",
+    "form": "θήραν",
+    "postag": "n-s---fa-",
+    "sentence": "οὐ κοιμηθήσεται, ἕως φάγῃ θήραν, καὶ αἷμα τραυματιῶν πίεται."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "3.4",
+    "form": "θήραν",
+    "postag": "n-s---fa-",
+    "sentence": "καὶ ὡμοιώθη λέοντι ἐν τοῖς ἔργοις αὐτοῦ καὶ ὡς σκύμνος ἐρευγόμενος εἰς θήραν."
+   },
+   {
+    "work_code": "AMO",
+    "work_ja": "アモス書",
+    "work_src": "Amos",
+    "ref": "3.4",
+    "form": "θήραν",
+    "postag": "n-s---fa-",
+    "sentence": "εἰ ἐρεύξεται λέων ἐκ τοῦ δρυμοῦ αὐτοῦ θήραν οὐκ ἔχων;"
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "25.28",
+    "form": "θήρα",
+    "postag": "n-s---fn-",
+    "sentence": "ἠγάπησε δὲ Ἰσαὰκ τὸν Ἡσαῦ, ὅτι ἡ θήρα αὐτοῦ βρῶσις αὐτῷ ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "123.6",
+    "form": "θήραν",
+    "postag": "n-s---fa-",
+    "sentence": "εὐλογητὸς Κύριος, ὃς οὐκ ἔδωκεν ἡμᾶς εἰς θήραν τοῖς ὀδοῦσιν αὐτῶν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   θήρα, -ας, ἡ,    [in LXX for צַיִד, טֶרֶף, רֶשֶׁת, and cogn. forms;]      a hunting, chase (Hdt., Xen., al.).     prey, game (cl.).     As in Ps 34(35:8) = רֶשֶׁת, a net: Ro 11:9 (but v. Thayer, s.v.).†"
+}

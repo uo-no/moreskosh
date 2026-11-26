@@ -1,0 +1,51 @@
+{
+ "strong": "G2659",
+ "lemma": "κατάνυξις",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ROM 11:8",
+   "form": "κατανύξεως",
+   "morph": "N-GSF",
+   "gloss_en": "stupor",
+   "gloss_ja": "麻痺",
+   "verse": "καθὼς γέγραπται· Ἔδωκεν αὐτοῖς ὁ θεὸς πνεῦμα κατανύξεως, ὀφθαλμοὺς τοῦ μὴ βλέπειν καὶ ὦτα τοῦ μὴ ἀκούειν, ἕως τῆς σήμερον ἡμέρας."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Psalmi": 1,
+   "Isaias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "59.5",
+    "form": "κατανύξεως",
+    "postag": "n-s---fg-",
+    "sentence": "ἔδειξας τῷ λαῷ σου σκληρά, ἐπότισας ἡμᾶς οἶνον κατανύξεως."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "29.10",
+    "form": "κατανύξεως",
+    "postag": "n-s---fg-",
+    "sentence": "ὅτι πεπότικεν ὑμᾶς Κύριος πνεύματι κατανύξεως καὶ καμμύσει τοὺς ὀφθαλμοὺς αὐτῶν καὶ τῶν προφητῶν αὐτῶν καὶ τῶν ἀρχόντων αὐτῶν, οἱ ὁρῶντες τὰ κρυπτά."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   † κατά-νυξις, -εως, ἡ    (< κατανύσσω, q.v.),   [in LXX: Ps 59 (60):3 (תַּרְעֵלָה), Is 29:10 (תַּרְדֵּמָה)*;]      a pricking.     (Perhaps through resembl. of κατανύσσω to -νυστάζω), torpor of mind, stupefaction: Ro 11:8(LXX) (v. ICC, in l.; Field, Notes, 157).†"
+}

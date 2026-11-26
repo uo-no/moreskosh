@@ -1,0 +1,60 @@
+{
+ "strong": "G2686",
+ "lemma": "κατασοφίζομαι",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 7:19",
+   "form": "κατασοφισάμενος",
+   "morph": "V-ADP-NSM",
+   "gloss_en": "dealt treacherously with",
+   "gloss_ja": "ずる賢く扱う",
+   "verse": "οὗτος κατασοφισάμενος τὸ γένος ἡμῶν ἐκάκωσεν τοὺς πατέρας τοῦ ποιεῖν τὰ βρέφη ἔκθετα αὐτῶν εἰς τὸ μὴ ζῳογονεῖσθαι."
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Exodus": 1,
+   "Judith": 2
+  },
+  "representatives": [
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "10.19",
+    "form": "κατασοφίσασθαι",
+    "postag": "v--anm---",
+    "sentence": "ὅτι οὐ καλόν ἐστιν ὑπολείπεσθαι ἐξ αὐτῶν ἄνδρα ἕνα, οἳ ἀφεθέντες δυνήσονται κατασοφίσασθαι πᾶσαν τὴν γῆν."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "1.10",
+    "form": "κατασοφισώμεθα",
+    "postag": "v1pasm---",
+    "sentence": "δεῦτε οὖν κατασοφισώμεθα αὐτούς, μή ποτε πληθυνθῇ, καὶ ἡνίκα ἂν συμβῇ ἡμῖν πόλεμος, προστεθήσονται καὶ οὗτοι πρὸς τοὺς ὑπεναντίους καὶ ἐκπολεμήσαντες ἡμᾶς ἐξελεύσονται ἐκ τῆς γῆς."
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "5.11",
+    "form": "κατεσοφίσαντο",
+    "postag": "v3paim---",
+    "sentence": "καὶ ἐπανέστη αὐτοῖς ὁ βασιλεὺς Αἰγύπτου καὶ κατεσοφίσαντο αὐτοὺς ἐν πόνῳ καὶ ἐν πλίνθῳ, καὶ ἐταπείνωσαν αὐτοὺς καὶ ἔθεντο αὐτοὺς εἰς δούλους ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   † κατα-σοφίζομαι,    [in LXX: Ex 1:10 (חכם hith.), Jth 5:11 10:19*;]    to deal craftily with, outwit: Ac 7:19(LXX).†"
+}

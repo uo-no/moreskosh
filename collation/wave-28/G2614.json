@@ -1,0 +1,162 @@
+{
+ "strong": "G2614",
+ "lemma": "καταδιώκω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MRK 1:36",
+   "form": "κατεδίωξεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "searched for",
+   "gloss_ja": "追いかける",
+   "verse": "καὶ κατεδίωξεν αὐτὸν Σίμων καὶ οἱ μετ’ αὐτοῦ,"
+  }
+ ],
+ "lxx": {
+  "total": 87,
+  "works": {
+   "Genesis": 4,
+   "Exodus": 4,
+   "Deuteronomium": 4,
+   "Josue": 14,
+   "Judices": 1,
+   "Regnorum i": 12,
+   "Regnorum ii": 5,
+   "Regnorum iii": 1,
+   "Paralipomenon i sive Chronicon i": 1,
+   "Paralipomenon ii sive Chronicon ii": 2,
+   "Esdras ii": 1,
+   "Judith": 1,
+   "Machabaeorum i": 4,
+   "Psalmi": 19,
+   "Proverbia": 2,
+   "Ecclesiasticus sive Siracides": 1,
+   "Psalmi Salomonis": 1,
+   "Osee": 2,
+   "Michaeas": 1,
+   "Joel": 1,
+   "Jeremias": 2,
+   "Baruch": 1,
+   "Threni seu Lamentationes": 3
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "118.86",
+    "form": "κατεδίωξάν",
+    "postag": "v3paia---",
+    "sentence": "ἀδίκως κατεδίωξάν με, βοήθησόν μοι."
+   },
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "2.5",
+    "form": "καταδιώξατε",
+    "postag": "v2pama---",
+    "sentence": "καταδιώξατε ὀπίσω αὐτῶν, εἰ καταλήψεσθε αὐτούς."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "26.18",
+    "form": "καταδιώκει",
+    "postag": "v3spia---",
+    "sentence": "ἱνατί τοῦτο καταδιώκει ὁ κύριος ὀπίσω τοῦ δούλου αὐτοῦ;"
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "2.24",
+    "form": "κατεδίωξεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ κατεδίωξεν Ἰωὰβ καὶ Ἀβεσσὰ ὀπίσω Ἀβεννήρ ·"
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "33.13",
+    "form": "καταδιώξω",
+    "postag": "v1sasa---",
+    "sentence": "ἐὰν οὖν καταδιώξω αὐτὰ ἡμέραν μίαν, ἀποθανοῦνται πάντα τὰ κτήνη."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "14.4",
+    "form": "καταδιώξεται",
+    "postag": "v3sfim---",
+    "sentence": "ἐγὼ δὲ σκληρυνῶ τὴν καρδίαν Φαραώ, καὶ καταδιώξεται ὀπίσω αὐτῶν ·"
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "28.22",
+    "form": "καταδιώξονταί",
+    "postag": "v3pfim---",
+    "sentence": "πατάξαι σε Κύριος ἐν ἀπορίᾳ καὶ πυρετῷ καὶ ρίγει καὶ ἐρεθισμῷ καὶ ἀνεμοφθορίᾳ καὶ τῇ ὤχρᾳ, καὶ καταδιώξονταί σε, ἕως ἂν ἀπολέσωσί σε."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "7.45",
+    "form": "κατεδίωκον",
+    "postag": "v3piia---",
+    "sentence": "καὶ κατεδίωκον αὐτοὺς ὁδὸν ἡμέρας μιᾶς ἀπὸ Ἀδασὰ ἕως τοῦ ἐλθεῖν εἰς Γάζηρα καὶ ἐσάλπισαν ὀπίσω αὐτῶν ταῖς σάλπιγξι τῶν σημασιῶν."
+   },
+   {
+    "work_code": "LAM",
+    "work_ja": "哀歌",
+    "work_src": "Threni seu Lamentationes",
+    "ref": "1.3",
+    "form": "καταδιώκοντες",
+    "postag": "v-pppamn-",
+    "sentence": "πάντες οἱ καταδιώκοντες αὐτὴν κατέλαβον αὐτὴν ἀναμέσον τῶν θλιβόντων."
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "13.19",
+    "form": "κατεδίωξεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ κατεδίωξεν Ἀβιὰ ὀπίσω Ἱεροβοὰμ καὶ προκατελάβετο παρ’ αὐτοῦ πόλεις, τὴν Βαιθὴλ καὶ τὰς κώμας αὐτῆς καὶ τὴν Ἰσανὰ καὶ τὰς κώμας αὐτῆς καὶ τὴν Ἐφρὼν καὶ τὰς κώμας αὐτῆς."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "13.21",
+    "form": "καταδιώξεται",
+    "postag": "v3sfim---",
+    "sentence": "ἁμαρτάνοντας καταδιώξεται κακά, τοὺς δὲ δικαίους καταλήψεται ἀγαθά."
+   },
+   {
+    "work_code": "HOS",
+    "work_ja": "ホセア書",
+    "work_src": "Osee",
+    "ref": "8.3",
+    "form": "κατεδίωξαν",
+    "postag": "v3paia---",
+    "sentence": "ὅτι Ἰσραὴλ ἀπεστρέψατο ἀγαθά, ἐχθρὸν κατεδίωξαν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   κατα-διώκω,    [in LXX chiefly for רדף;]      \"perfective\" compound (M, Pr., 116), to pursue closely, follow up;     with hostile intent (Thuc., i, 49, Ge 31:36 al.);     with kindly intention (Ps 22 (23):6, I Ki 30:22, cf. Si 27:17): Mk 1:36.†"
+}

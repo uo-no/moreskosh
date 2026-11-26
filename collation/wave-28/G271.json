@@ -1,0 +1,60 @@
+{
+ "strong": "G271",
+ "lemma": "ἀμέθυστος",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "REV 21:20",
+   "form": "ἀμέθυστος",
+   "morph": "N-NSF",
+   "gloss_en": "amethyst",
+   "gloss_ja": "紫水晶",
+   "verse": "ὁ πέμπτος σαρδόνυξ, ὁ ἕκτος σάρδιον, ὁ ἕβδομος χρυσόλιθος, ὁ ὄγδοος βήρυλλος, ὁ ἔνατος τοπάζιον, ὁ δέκατος χρυσόπρασος, ὁ ἑνδέκατος ὑάκινθος, ὁ δωδέκατος ἀμέθυστος·"
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Exodus": 2,
+   "Ezechiel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "28.19",
+    "form": "ἀμέθυστος",
+    "postag": "a-s---mn-",
+    "sentence": "καὶ ὁ στίχος ὁ τρίτος, λιγύριον, ἀχάτης καὶ ἀμέθυστος ·"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "28.13",
+    "form": "ἀμέθυστον",
+    "postag": "a-s---na-",
+    "sentence": "πάντα λίθον χρηστὸν ἐνδέδεσαι, σάρδιον καὶ τοπάζιον καὶ σμάραγδον καὶ ἄνθρακα καὶ σάπφειρον καὶ ἴασπιν καὶ ἀργύριον καὶ χρυσίον καὶ λιγύριον καί ἀχάτην καὶ ἀμέθυστον καὶ χρυσόλιθον καὶ βηρύλλιον καὶ ὀνύχιον, καὶ χρυσίου ἐνέπλησας τοὺς θησαυρούς σου καὶ τὰς ἀποθήκας σου ἐν σοὶ ἀφ’ ἧς ἡμέρας ἐκτίσθης σύ."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "36.19",
+    "form": "ἀμέθυστος",
+    "postag": "a-s---mn-",
+    "sentence": "καὶ ὁ στίχος ὁ τρίτος λιγύριον καὶ ἀχάτης καὶ ἀμέθυστος ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ἀμέθυστος, -ου, ἡ    (acc. to Plut., < ἀ- μεθύω, being regarded as an antidote against drunkenness),   [in LXX: Ex 28:19 36:19 39:12 Ez 28:13*;]    amethyst, a purple quartz: Re 21:20.†"
+}

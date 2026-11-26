@@ -1,0 +1,53 @@
+{
+ "strong": "G2514",
+ "lemma": "καθαρότης",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "HEB 9:13",
+   "form": "καθαρότητα",
+   "morph": "N-ASF",
+   "gloss_en": "purification",
+   "gloss_ja": "清さ",
+   "verse": "εἰ γὰρ τὸ αἷμα τράγων καὶ ταύρων καὶ σποδὸς δαμάλεως ῥαντίζουσα τοὺς κεκοινωμένους ἁγιάζει πρὸς τὴν τῆς σαρκὸς καθαρότητα,"
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Sapientia Salomonis": 1
+  },
+  "representatives": [
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "7.24",
+    "form": "καθαρότητα",
+    "postag": "n-s---fa-",
+    "sentence": "πάσης γὰρ κινήσεως κινητικώτερον σοφία, διήκει δὲ καὶ χωρεῖ διὰ πάντων διὰ τὴν καθαρότητα ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "27.3.4",
+    "form": "καθαρότητι",
+    "postag": "n-s---fd-",
+    "sentence": "οἶδα, ὅτι ὁ δοῦλος τοῦ θεοῦ θέλει ζῆν καὶ τηρήσει τὰς ἐντολὰς ταύτας καὶ τὰς παρθένους ἐν καθαρότητι καταστήσει."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   καθαρότης, -ητος, ἡ    (< καθαρός),   [in LXX: Ex 24:10 (טֹהַר), Wi 7:24*;]    purity, cleanness: c. gen., He 9:13.†"
+}

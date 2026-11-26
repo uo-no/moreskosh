@@ -1,0 +1,50 @@
+{
+ "strong": "G2412",
+ "lemma": "ἱεροπρεπής",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "TIT 2:3",
+   "form": "ἱεροπρεπεῖς",
+   "morph": "A-APF",
+   "gloss_en": "reverent",
+   "gloss_ja": "神聖に",
+   "verse": "Πρεσβύτιδας ὡσαύτως ἐν καταστήματι ἱεροπρεπεῖς, μὴ διαβόλους μηδὲ οἴνῳ πολλῷ δεδουλωμένας, καλοδιδασκάλους,"
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Machabaeorum iv": 2
+  },
+  "representatives": [
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "9.25",
+    "form": "ἱεροπρεπὴς",
+    "postag": "a-s---mn-",
+    "sentence": "καὶ ταῦτα εἰπὼν ὁ ἱεροπρεπὴς νεανίας ἀπέρρηξε τὴν ψυχήν."
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "11.20",
+    "form": "ἱεροπρεποῦς",
+    "postag": "a-s---mg-",
+    "sentence": "ὁ δὲ βασανιζόμενος, ὦ ἱεροπρεποῦς ἀγῶνος, ἔλεγεν, ἐφ’ ὃν διὰ τὴν εὐσέβειαν εἰς γυμνασίαν πόνων ἀδελφοὶ τοσοῦτοι κληθέντες οὐκ ἐνικήθημεν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ** ἱεροπρεπής, -ές    (< ἱερός, πρέπει),   [in LXX: IV Mac 9:25 11:20*;]    suited to a sacred character, reverend (RV, reverent): Tit 2:3 (cf. Tr., Syn., § xcii).†"
+}

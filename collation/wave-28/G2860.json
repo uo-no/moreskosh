@@ -1,0 +1,41 @@
+{
+ "strong": "G2860",
+ "lemma": "κολυμβάω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 27:43",
+   "form": "κολυμβᾶν",
+   "morph": "V-PAN",
+   "gloss_en": "swim",
+   "gloss_ja": "泳ぐ",
+   "verse": "ὁ δὲ ἑκατοντάρχης βουλόμενος διασῶσαι τὸν Παῦλον ἐκώλυσεν αὐτοὺς τοῦ βουλήματος, ἐκέλευσέν τε τοὺς δυναμένους κολυμβᾶν ἀπορίψαντας πρώτους ἐπὶ τὴν γῆν ἐξιέναι,"
+  }
+ ],
+ "lxx": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Barnabas": 1
+  },
+  "representatives": [
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "10.5",
+    "form": "κολυμβῶντα",
+    "postag": "v-pppann-",
+    "sentence": "οὐ μή, φησίν, ὁμοιωθήσῃ κολλώμενος ἀνθρώποις τοιούτοις, οἵτινες εἰς τέλος εἰσὶν ἀσεβεῖς καὶ κεκριμένοι ἤδη τῷ θανάτῳ, ὡς καὶ ταῦτα τὰ ἰχθύδια μόνα ἐπικατάρατα ἐν τῷ βυθῷ νήχεται, μὴ κολυμβῶντα ὡς τὰ λοιπά, ἀλλ’ ἐν τῇ γῇ κάτω τοῦ βυθοῦ κατοικεῖ."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   ** κολυμβάω, -ῶ,    [in Al.: Is 25:11*;]    to dive, plunge into the sea: Ac 27:43 (cf. ἐκ-κολνμβάω).†"
+}

@@ -1,0 +1,151 @@
+{
+ "strong": "G2654",
+ "lemma": "καταναλίσκω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "HEB 12:29",
+   "form": "καταναλίσκον",
+   "morph": "V-PAP-NSN",
+   "gloss_en": "consuming",
+   "gloss_ja": "燃やし尽くす",
+   "verse": "καὶ γὰρ ὁ θεὸς ἡμῶν πῦρ καταναλίσκον."
+  }
+ ],
+ "lxx": {
+  "total": 17,
+  "works": {
+   "Leviticus": 1,
+   "Deuteronomium": 3,
+   "Paralipomenon i sive Chronicon i": 1,
+   "Esther": 1,
+   "Sapientia Salomonis": 1,
+   "Ecclesiasticus sive Siracides": 2,
+   "Sophonias": 2,
+   "Zacharias": 2,
+   "Isaias": 1,
+   "Jeremias": 1,
+   "Epistula Jeremiae": 1,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "4.24",
+    "form": "καταναλίσκον",
+    "postag": "v-sppann-",
+    "sentence": "ὅτι Κύριος ὁ Θεός σου πῦρ καταναλίσκον ἐστί, Θεὸς ζηλωτής."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "45.19",
+    "form": "καταναλῶσαι",
+    "postag": "v--ana---",
+    "sentence": "ἐποίησεν αὐτοῖς τέρατα καταναλῶσαι ἐν πυρὶ φλογὸς αὐτοῦ."
+   },
+   {
+    "work_code": "ZEP",
+    "work_ja": "ゼファニヤ書",
+    "work_src": "Sophonias",
+    "ref": "3.8",
+    "form": "καταναλωθήσεται",
+    "postag": "v3sfip---",
+    "sentence": "διότι ἐν πυρὶ ζήλου μου καταναλωθήσεται πᾶσα ἡ γῆ."
+   },
+   {
+    "work_code": "ZEC",
+    "work_ja": "ゼカリヤ書",
+    "work_src": "Zacharias",
+    "ref": "9.15",
+    "form": "καταναλώσουσιν",
+    "postag": "v3pfia---",
+    "sentence": "Κύριος παντοκράτωρ ὑπερασπιεῖ αὐτούς, καὶ καταναλώσουσιν αὐτούς, καί καταχώσουσιν αὐτοὺς ἐν λίθοις σφενδόνης καὶ ἐκπίονται αὐτοὺς ὡς οἶνον καὶ πλήσουσιν ὡς φιάλας θυσιαστήριον."
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "6.3",
+    "form": "καταναλώσῃ",
+    "postag": "v3sasa---",
+    "sentence": "καὶ ἐνδύσεται ὁ ἱερεὺς χιτῶνα λινοῦν καὶ περισκελὲς λινοῦν ἐνδύσεται περὶ τὸ σῶμα αὐτοῦ, καὶ ἀφελεῖ τὴν κατακάρπωσιν, ἣν ἂν καταναλώσῃ τὸ πῦρ, τὴν ὁλοκαύτωσιν, ἀπὸ τοῦ θυσιαστηρίου, καὶ παραθήσει αὐτὸ ἐχόμενον τοῦ θυσιαστηρίου."
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "21.26",
+    "form": "κατηνάλωσε",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἐβόησε πρὸς Κύριον, καὶ ἐπήκουσεν αὐτῷ ἐν πυρὶ ἐκ τοῦ οὐρανοῦ ἐπὶ τὸ θυσιαστήριον τῆς ὁλοκαυτώσεως καὶ κατηνάλωσε τὴν ὁλοκαύτωσιν."
+   },
+   {
+    "work_code": "EST",
+    "work_ja": "エステル記",
+    "work_src": "Esther",
+    "ref": "8.12φ",
+    "form": "καταναλωθήσεται",
+    "postag": "v3sfip---",
+    "sentence": "πᾶσα δὲ πόλις ἢ χώρα τὸ σύνολον, ἥτις κατὰ ταῦτα μὴ ποιήσῃ, δόρατι καὶ πυρὶ καταναλωθήσεται μετ’ ὀργῆς ·"
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "16.16",
+    "form": "καταναλισκόμενοι",
+    "postag": "v-pppmmn-",
+    "sentence": "ἀρνούμενοι γάρ σε εἰδέναι ἀσεβεῖς, ἐν ἰσχύϊ βραχίονός σου ἐμαστιγώθησαν, ξένοις ὑετοῖς καὶ χαλάζαις καὶ ὄμβροις διωκόμενοι ἀπαραιτήτοις καὶ πυρὶ καταναλισκόμενοι."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "59.14",
+    "form": "κατηναλώθη",
+    "postag": "v3saip---",
+    "sentence": "καὶ ἀπεστήσαμεν ὀπίσω τὴν κρίσιν, καὶ ἡ δικαιοσύνη μακρὰν ἀφέστηκεν, ὅτι κατηναλώθη ἐν ταῖς ὁδοῖς αὐτῶν ἡ ἀλήθεια, καὶ δι’ εὐθείας οὐκ ἐδύναντο διελθεῖν."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "3.24",
+    "form": "κατηνάλωσε",
+    "postag": "v3saia---",
+    "sentence": "ἡ δὲ αἰσχύνη κατηνάλωσε τοὺς μόχθους τῶν πατέρων ἡμῶν ἀπὸ νεότητος ἡμῶν, τὰ πρόβατα αὐτῶν καὶ τοὺς μόσχους αὐτῶν καὶ τοὺς υἱοὺς αὐτῶν καὶ τὰς θυγατέρας αὐτῶν."
+   },
+   {
+    "work_code": "LJE",
+    "work_ja": "エレミヤの手紙",
+    "work_src": "Epistula Jeremiae",
+    "ref": "9",
+    "form": "καταναλώσουσι",
+    "postag": "v3pfia---",
+    "sentence": "ἔστι δὲ καὶ ὅτε ὑφαιρούμενοι οἱ ἱερεῖς ἀπὸ τῶν θεῶν αὐτῶν χρυσίον καὶ ἀργύριον εἰς ἑαυτοὺς καταναλώσουσι, δώσουσι δὲ ἀπ’ αὐτῶν καὶ ταῖς ἐπὶ τοῦ στέγους πόρναις."
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "11.26",
+    "form": "καταναλώσουσιν",
+    "postag": "v3pfia---",
+    "sentence": "καὶ καταναλώσουσιν αὐτὸν μέριμναι αὐτοῦ καὶ ἀποστρέψουσιν αὐτόν, καὶ παρελεύσεται καὶ κατασυριεῖ, καὶ πεσοῦνται τραυματίαι πολλοί."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   κατ-αν-αλίσκω,    [in LXX chiefly for אכל;]      to use up, spend.     to consume: of fire, ptcp., He 12:29(LXX).†"
+}

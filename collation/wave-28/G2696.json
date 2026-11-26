@@ -1,0 +1,60 @@
+{
+ "strong": "G2696",
+ "lemma": "κατασφραγίζω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "REV 5:1",
+   "form": "κατεσφραγισμένον",
+   "morph": "V-RPP-ASN",
+   "gloss_en": "sealed",
+   "gloss_ja": "封印する",
+   "verse": "Καὶ εἶδον ἐπὶ τὴν δεξιὰν τοῦ καθημένου ἐπὶ τοῦ θρόνου βιβλίον γεγραμμένον ἔσωθεν καὶ ὄπισθεν, κατεσφραγισμένον σφραγῖσιν ἑπτά."
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Job": 2,
+   "Sapientia Salomonis": 1
+  },
+  "representatives": [
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "9.7",
+    "form": "κατασφραγίζει",
+    "postag": "v3spia---",
+    "sentence": "ὁ λέγων τῷ ἡλίῳ καὶ οὐκ ἀνατέλλει, κατὰ δὲ ἄστρων κατασφραγίζει ·"
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "2.5",
+    "form": "κατεσφραγίσθη",
+    "postag": "v3saip---",
+    "sentence": "σκιᾶς γὰρ πάροδος ὁ βίος ἡμῶν, καὶ οὐκ ἔστιν ἀναποδισμὸς τῆς τελευτῆς ἡμῶν, ὅτι κατεσφραγίσθη, καὶ οὐδείς ἀναστρέφει."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "37.7",
+    "form": "κατασφραγίζει",
+    "postag": "v3spia---",
+    "sentence": "ἐν χειρὶ παντὸς ἀνθρώπου κατασφραγίζει, ἵνα γνῷ πᾶς ἄνθρωπος τὴν ἑαυτοῦ ἀσθένειαν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   κατα-σφραγίζω,    [in LXX: Jb 9:7 37:7 (חתם), Wi 2:5*;]    to seal up, secure with a seal: Re 5:1.†"
+}

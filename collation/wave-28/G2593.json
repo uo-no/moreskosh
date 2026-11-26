@@ -1,0 +1,60 @@
+{
+ "strong": "G2593",
+ "lemma": "καρποφόρος",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 14:17",
+   "form": "καρποφόρους",
+   "morph": "A-APM",
+   "gloss_en": "fruitful",
+   "gloss_ja": "実を結ぶ",
+   "verse": "καίτοι οὐκ ἀμάρτυρον αὑτὸν ἀφῆκεν ἀγαθουργῶν, οὐρανόθεν ὑμῖν ὑετοὺς διδοὺς καὶ καιροὺς καρποφόρους, ἐμπιπλῶν τροφῆς καὶ εὐφροσύνης τὰς καρδίας ὑμῶν."
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Psalmi": 2,
+   "Jeremias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "148.9",
+    "form": "καρποφόρα",
+    "postag": "a-p---nn-",
+    "sentence": "τὰ ὄρη καὶ πάντες οἱ βουνοί, ξύλα καρποφόρα καὶ πᾶσαι κέδροι ·"
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "2.21",
+    "form": "καρποφόρον",
+    "postag": "a-s---fa-",
+    "sentence": "ἐγὼ δὲ ἐφύτευσά σε ἄμπελον καρποφόρον πᾶσαν ἀληθινήν ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "106.34",
+    "form": "καρποφόρον",
+    "postag": "a-s---fa-",
+    "sentence": "ἔθετο ποταμοὺς εἰς ἔρημον καὶ διεξόδους ὑδάτων εἰς δίψαν, γῆν καρποφόρον εἰς ἅλμην ἀπὸ κακίας τῶν κατοικούντων ἐν αὐτῇ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   καρπο-φόρος, -ον    (< καρπύς, φέρω),   [in LXX: Je 2:21 (זֶרַע), Ps 106 (107):34 148:9 (פְּרִי)*;]    fruitful: Ac 14:17.†"
+}

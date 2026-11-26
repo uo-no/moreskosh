@@ -1,0 +1,41 @@
+{
+ "strong": "G2711",
+ "lemma": "καταψύχω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 16:24",
+   "form": "καταψύξῃ",
+   "morph": "V-AAS-3S",
+   "gloss_en": "cool",
+   "gloss_ja": "冷やす",
+   "verse": "καὶ αὐτὸς φωνήσας εἶπεν· Πάτερ Ἀβραάμ, ἐλέησόν με καὶ πέμψον Λάζαρον ἵνα βάψῃ τὸ ἄκρον τοῦ δακτύλου αὐτοῦ ὕδατος καὶ καταψύξῃ τὴν γλῶσσάν μου, ὅτι ὀδυνῶμαι ἐν τῇ φλογὶ ταύτῃ."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Genesis": 1
+  },
+  "representatives": [
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "18.4",
+    "form": "καταψύξατε",
+    "postag": "v2pama---",
+    "sentence": "ληφθήτω δὴ ὕδωρ, καὶ νιψάτωσαν τοὺς πόδας ὑμῶν, καὶ καταψύξατε ὑπὸ τὸ δένδρον ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   κατα-ψύχω,    [in LXX: Ge 18:4 (שׁען ni.)*;]    to cool: c. acc., Lk 16:24.†"
+}

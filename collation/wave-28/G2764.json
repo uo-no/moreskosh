@@ -1,0 +1,41 @@
+{
+ "strong": "G2764",
+ "lemma": "κεραμικός",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "REV 2:27",
+   "form": "κεραμικὰ",
+   "morph": "A-NPN",
+   "gloss_en": "clay",
+   "gloss_ja": "土器の",
+   "verse": "καὶ ποιμανεῖ αὐτοὺς ἐν ῥάβδῳ σιδηρᾷ ὡς τὰ σκεύη τὰ κεραμικὰ συντρίβεται,"
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "2.41",
+    "form": "κεραμικοῦ",
+    "postag": "a-s---ng-",
+    "sentence": "καὶ ὡς ἑώρακας τοὺς πόδας αὐτῆς μέρος μέν τι ὀστράκου κεραμικοῦ μέρος δέ τι σιδήρου, βασιλεία ἄλλη διμερὴς ἔσται ἐν αὐτῇ, καθάπερ εἶδες τὸν σίδηρον ἀναμεμειγμένον ἅμα τῷ πηλίνῳ ὀστράκῳ ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   κεραμικός, -ή, -όν    (< κέραμος),   [in LXX: Da LXX 2:41 (פֶּחָר)*;]      (cl.) of a potter (e.g. γῆ).     In LXX and NT, = cl., κεραμεοῦς (Plut., κεράμειος, Polyb., -μαῖος, etc), earthen: Re 2:27.†"
+}

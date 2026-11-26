@@ -1,0 +1,53 @@
+{
+ "strong": "G2450",
+ "lemma": "ἰουδαΐζω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "GAL 2:14",
+   "form": "Ἰουδαΐζειν",
+   "morph": "V-PAN",
+   "gloss_en": "live like jews",
+   "gloss_ja": "ユダヤ化する",
+   "verse": "ἀλλ’ ὅτε εἶδον ὅτι οὐκ ὀρθοποδοῦσιν πρὸς τὴν ἀλήθειαν τοῦ εὐαγγελίου, εἶπον τῷ Κηφᾷ ἔμπροσθεν πάντων· Εἰ σὺ Ἰουδαῖος ὑπάρχων ἐθνικῶς καὶ οὐκ Ἰουδαϊκῶς ζῇς, πῶς τὰ ἔθνη ἀναγκάζεις Ἰουδαΐζειν;"
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Esther": 1
+  },
+  "representatives": [
+   {
+    "work_code": "EST",
+    "work_ja": "エステル記",
+    "work_src": "Esther",
+    "ref": "8.17",
+    "form": "ἰουδάϊζον",
+    "postag": "v3piia---",
+    "sentence": "καὶ πολλοὶ τῶν ἐθνῶν περιετέμνοντο καὶ ἰουδάϊζον διὰ τὸν φόβον τῶν Ἰουδαίων."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Ignatius, Letters": 1
+  },
+  "representatives": [
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "2.10.3",
+    "form": "ἰουδαΐζειν",
+    "postag": "v--pna---",
+    "sentence": "ἄτοπόν ἐστιν, Ἰησοῦν Χριστὸν λαλεῖν καὶ ἰουδαΐζειν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1 † Ἰουδαΐζω    (< Ἰουδαῖος),   [in LXX: Es 8:17 (יהד hith.)*;]    to conform to Jewish practice, to Judaize: Ga 2:14.†"
+}

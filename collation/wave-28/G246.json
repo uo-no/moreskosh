@@ -1,0 +1,202 @@
+{
+ "strong": "G246",
+ "lemma": "ἀλλόφυλος",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 10:28",
+   "form": "ἀλλοφύλῳ",
+   "morph": "A-DSM",
+   "gloss_en": "foreigner",
+   "gloss_ja": "異民族の",
+   "verse": "ἔφη τε πρὸς αὐτούς· Ὑμεῖς ἐπίστασθε ὡς ἀθέμιτόν ἐστιν ἀνδρὶ Ἰουδαίῳ κολλᾶσθαι ἢ προσέρχεσθαι ἀλλοφύλῳ· κἀμοὶ ὁ θεὸς ἔδειξεν μηδένα κοινὸν ἢ ἀκάθαρτον λέγειν ἄνθρωπον·"
+  }
+ ],
+ "lxx": {
+  "total": 300,
+  "works": {
+   "Judices": 30,
+   "Regnorum i": 150,
+   "Regnorum ii": 33,
+   "Regnorum iii": 5,
+   "Regnorum iv": 4,
+   "Paralipomenon i sive Chronicon i": 29,
+   "Paralipomenon ii sive Chronicon ii": 7,
+   "Judith": 1,
+   "Machabaeorum i": 10,
+   "Machabaeorum ii": 2,
+   "Machabaeorum iii": 1,
+   "Machabaeorum iv": 1,
+   "Psalmi": 6,
+   "Amos": 3,
+   "Joel": 1,
+   "Abdias": 1,
+   "Sophonias": 1,
+   "Zacharias": 1,
+   "Isaias": 6,
+   "Jeremias": 3,
+   "Epistula Jeremiae": 1,
+   "Ezechiel": 4
+  },
+  "representatives": [
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "17.10",
+    "form": "ἀλλόφυλος",
+    "postag": "a-s---mn-",
+    "sentence": "καὶ εἶπεν ὁ ἀλλόφυλος ·"
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "23.15",
+    "form": "ἀλλοφύλων",
+    "postag": "a-p---mg-",
+    "sentence": "τὸ δὲ σύστημα τῶν ἀλλοφύλων τότε ἐν Βηθλεέμ."
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "15.6",
+    "form": "ἀλλόφυλοι",
+    "postag": "a-p---mn-",
+    "sentence": "καὶ εἶπαν οἱ ἀλλόφυλοι ·"
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "14.10",
+    "form": "ἀλλοφύλους",
+    "postag": "a-p---ma-",
+    "sentence": "εἰ ἀναβῶ ἐπὶ τοὺς ἀλλοφύλους καὶ δώσεις αὐτοὺς εἰς τὰς χεῖράς μου;"
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "5.66",
+    "form": "ἀλλοφύλων",
+    "postag": "a-p---mg-",
+    "sentence": "καὶ ἀπῇρε τοῦ πορευθῆναι εἰς γῆν ἀλλοφύλων."
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "26.6",
+    "form": "ἀλλοφύλοις",
+    "postag": "a-p---md-",
+    "sentence": "καὶ ἐξῆλθε καὶ ἐπολέμησε πρὸς τοὺς ἀλλοφύλους καὶ κατέσπασε τὰ τείχη Γὲθ καὶ τὰ τείχη Ἰαβνὴ καὶ τὰ τείχη Ἀζώτου καὶ ᾠκοδόμησε πόλεις Ἀζώτου καὶ ἐν τοῖς ἀλλοφύλοις."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "151.6",
+    "form": "ἀλλοφύλῳ",
+    "postag": "a-s---md-",
+    "sentence": "ἐξῆλθον εἰς συνάντησιν τῷ ἀλλοφύλῳ, καὶ ἐπικατηράσατό με ἐν τοῖς εἰδώλοις αὐτοῦ ·"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "2.6",
+    "form": "ἀλλόφυλα",
+    "postag": "a-p---nn-",
+    "sentence": "ἀνῆκε γὰρ τὸν λαὸν αὐτοῦ τὸν οἶκον τοῦ Ἰσραήλ, ὅτι ἐνεπλήσθη ὡς τὸ ἀπ’ ἀρχῆς ἡ χώρα αὐτῶν κληδονισμῶν, ὡς ἡ τῶν ἀλλοφύλων, καὶ τέκνα πολλὰ ἀλλόφυλα ἐγενήθη αὐτοῖς."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "2.46κ",
+    "form": "ἀλλοφύλων",
+    "postag": "a-p---mg-",
+    "sentence": "καὶ ἦν ἄρχων ἐν πᾶσι τοῖς βασιλεῦσιν ἀπὸ τοῦ ποταμοῦ καὶ ἕως γῆς ἀλλοφύλων καὶ ἕως ὁρίων Αἰγύπτου."
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "18.8",
+    "form": "ἀλλοφύλους",
+    "postag": "a-p---ma-",
+    "sentence": "αὐτὸς ἐπάταξε τοὺς ἀλλοφύλους ἕως Γάζης καὶ ἕως ὁρίου αὐτῆς ἀπὸ πύργου φυλασσόντων καὶ ἕως πόλεως ὀχυρᾶς."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "25.16",
+    "form": "ἀλλοφύλους",
+    "postag": "a-p---ma-",
+    "sentence": "ἰδοὺ ἐγὼ ἐκτείνω τὴν χεῖρά μου ἐπὶ τοὺς ἀλλοφύλους καὶ ἐξολοθρεύσω Κρῆτας καὶ ἀπολῶ τοὺς καταλοίπους τοὺς κατοικοῦντας τὴν παραλίαν ·"
+   },
+   {
+    "work_code": "AMO",
+    "work_ja": "アモス書",
+    "work_src": "Amos",
+    "ref": "9.7",
+    "form": "ἀλλοφύλους",
+    "postag": "a-p---ma-",
+    "sentence": "οὐ τὸν Ἰσραὴλ ἀνήγαγον ἐκ γῆς Αἰγύπτου καὶ τοὺς ἀλλοφύλους ἐκ Καππαδοκίας καὶ τοὺς Σύρους ἐκ βόθρου;"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 4,
+  "works": {
+   "Barnabas": 1,
+   "1 Clement": 2,
+   "To Diognetus": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "4.13",
+    "form": "ἀλλοφύλων",
+    "postag": "a-p---mg-",
+    "sentence": "διὰ ζῆλος Δαυεὶδ φθόνον ἔσχεν οὐ μόνον ὑπὸ τῶν ἀλλοφύλων, ἀλλὰ καὶ ὑπὸ Σαοὺλ βασιλέως Ἰσραὴλ ἐδιώχθη."
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "12.2",
+    "form": "ἀλλοφύλων",
+    "postag": "a-p---mg-",
+    "sentence": "λέγει δὲ πάλιν τῷ Μωῡσῇ, πολεμουμένου τοῦ Ἰσραὴλ ὑπὸ τῶν ἀλλοφύλων, καὶ ἵνα ὑπομνήσῃ αὐτοὺς πολεμουμένους, ὅτι διὰ τὰς ἁμαρτίας αὐτῶν παρεδόθησαν εἰς θάνατον ·"
+   },
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "5",
+    "form": "ἀλλόφυλοι",
+    "postag": "a-p---mn-",
+    "sentence": "ὑπὸ Ἰουδαίων ὡς ἀλλόφυλοι πολεμοῦνται καὶ ὑπὸ Ἑλλήνων διώκονται ·"
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "55.4",
+    "form": "ἀλλοφύλων",
+    "postag": "a-p---mg-",
+    "sentence": "Ἰουδὶθ ἡ μακαρία, ἐν συγκλεισμῷ οὔσης τῆς πόλεως, ᾐτήσατο παρὰ τῶν πρεσβυτέρων ἐαθῆναι αὐτὴν ἐξελθεῖν εἰς τὴν παρεμβολὴν τῶν ἀλλοφύλων."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   ἀλλόφυλος, -ον    (ἄλλος, φῦλον, a tribe),   [in LXX chiefly for פְּלֶשֶׁת;]    foreign, of another race (MM, VGT, s.v.); as opp. to a Jew, a Gentile: Ac 10:28.†"
+}

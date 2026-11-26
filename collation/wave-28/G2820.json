@@ -1,0 +1,82 @@
+{
+ "strong": "G2820",
+ "lemma": "κληρόω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "EPH 1:11",
+   "form": "ἐκληρώθημεν",
+   "morph": "V-API-1P",
+   "gloss_en": "obtained an inheritance",
+   "gloss_ja": "割り当てる",
+   "verse": "ἐν ᾧ καὶ ἐκληρώθημεν προορισθέντες κατὰ πρόθεσιν τοῦ τὰ πάντα ἐνεργοῦντος κατὰ τὴν βουλὴν τοῦ θελήματος αὐτοῦ,"
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Regnorum i": 1,
+   "Isaias": 2
+  },
+  "representatives": [
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "17.11",
+    "form": "κληρώσῃ",
+    "postag": "v3sasa---",
+    "sentence": "τὸ δὲ πρωΐ, ἐὰν σπείρῃς, ἀνθήσει εἰς ἀμητὸν ᾗ ἂν ἡμέρᾳ κληρώσῃ, καὶ ὡς πατὴρ ἀνθρώπου κληρώσῃ, καὶ ὡς πατὴρ ἀνθρώπου κληρώση τοῖς ὑἱοῖς σου."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "14.41",
+    "form": "κληροῦται",
+    "postag": "v3spim---",
+    "sentence": "καὶ κληροῦται Ἰωνάθαν καὶ Σαούλ, καὶ ὁ λαὸς ἐξῆλθε."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "17.11",
+    "form": "κληρώσῃ",
+    "postag": "v2sfim---",
+    "sentence": "τὸ δὲ πρωΐ, ἐὰν σπείρῃς, ἀνθήσει εἰς ἀμητὸν ᾗ ἂν ἡμέρᾳ κληρώσῃ, καὶ ὡς πατὴρ ἀνθρώπου κληρώσῃ, καὶ ὡς πατὴρ ἀνθρώπου κληρώση τοῖς ὑἱοῖς σου."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "To Diognetus": 1,
+   "Martyrdom of Polycarp": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "5",
+    "form": "ἐκληρώθη",
+    "postag": "v3saip---",
+    "sentence": "κατοικοῦντες δὲ πόλεις Ἑλληνίδας τε καὶ βαρβάρους, ὡς ἕκαστος ἐκληρώθη, καὶ τοῖς ἐγχωρίοις ἔθεσιν ἀκολουθοῦντες ἔν τε ἐσθῆτι καὶ διαίτῃ καὶ τῷ λοιπῷ βίῳ θαυμαστὴν καὶ ὁμολογουμένως παράδοξον ἐνδείκνυνται τὴν κατάστασιν τῆς ἑαυτῶν πολιτείας."
+   },
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "6.2",
+    "form": "κεκληρωμένος",
+    "postag": "v-srpmmn-",
+    "sentence": "ἦν γὰρ καὶ ἀδύνατον λαθεῖν αὐτόν, ἐπεὶ καὶ οἱ προδιδόντες αὐτὸν οἰκεῖοι ὑπῆρχον, καὶ ὁ εἰρήναρχος, ὁ κεκληρωμένος τὸ αὐτὸ ὄνομα, Ἡρώδης ἐπιλεγόμενος, ἔσπευδεν εἰς τὸ στάδιον αὐτὸν εἰσαγαγεῖν, ἵνα ἐκεῖνος μὲν τὸν ἴδιον κλῆρον ἀπαρτίσῃ Χριστοῦ κοινωνὸς γενόμενος, οἱ δὲ προδόντες αὐτὸν τὴν αὐτοῦ τοῦ Ἰούδα ὑπόσχοιεν τιμωρίαν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   κληρόω, -ῶ,    [in LXX: I Ki 14:41 (לכד ni.), Es 4:11 A (קרא ni.), Is 17:11*;]      to cast lots.     to choose by lot.     to assign by lot, assign a portion: pass., ἐν ᾧ καὶ ἐκληρώθημεν, Eph 1:11 (on the various interpretations, v. ICC; AR; Ellic., in l.).†"
+}

@@ -1,0 +1,169 @@
+{
+ "strong": "G2624",
+ "lemma": "κατακληρονομέω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 13:19",
+   "form": "κατεκληρονόμησεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "gave ~ asan inheritance",
+   "gloss_ja": "分配する",
+   "verse": "καὶ καθελὼν ἔθνη ἑπτὰ ἐν γῇ Χανάαν κατεκληρονόμησεν τὴν γῆν αὐτῶν"
+  }
+ ],
+ "lxx": {
+  "total": 60,
+  "works": {
+   "Numeri": 5,
+   "Deuteronomium": 15,
+   "Josue": 10,
+   "Judices": 1,
+   "Regnorum i": 1,
+   "Regnorum ii": 1,
+   "Paralipomenon i sive Chronicon i": 1,
+   "Esdras i": 1,
+   "Psalmi": 3,
+   "Odae": 1,
+   "Ecclesiasticus sive Siracides": 6,
+   "Amos": 1,
+   "Abdias": 4,
+   "Habacuc": 1,
+   "Zacharias": 2,
+   "Isaias": 1,
+   "Jeremias": 1,
+   "Ezechiel": 5
+  },
+  "representatives": [
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "1.38",
+    "form": "κατακληρονομήσει",
+    "postag": "v3sfia---",
+    "sentence": "αὐτὸν κατίσχυσον, ὅτι αὐτὸς κατακληρονομήσει αὐτὴν τῷ Ἰσραήλ."
+   },
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "13.32",
+    "form": "κατεκληρονόμησε",
+    "postag": "v3saia---",
+    "sentence": "οὗτοι οὓς κατεκληρονόμησε Μωυσῆς πέραν τοῦ Ἰορδάνου ἐν Ἀραβὼθ Μωὰβ ἐν τῷ πέραν τοῦ Ἰορδάνου τοῦ κατὰ Ἱεριχὼ ἀπ’ ἀνατολῶν."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "24.8",
+    "form": "κατακληρονομήθητι",
+    "postag": "v2samp---",
+    "sentence": "ἐν Ἰακὼβ κατασκήνωσον καὶ ἐν Ἰσραὴλ κατακληρονομήθητι."
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "33.54",
+    "form": "κατακληρονομήσετε",
+    "postag": "v2pfia---",
+    "sentence": "καὶ κατακληρονομήσετε τὴν γῆν αὐτῶν ἐν κλήρῳ κατὰ φυλὰς ὑμῶν ·"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "22.16",
+    "form": "κατακληρονομήσω",
+    "postag": "v1sfia---",
+    "sentence": "καὶ διασκορπιῶ σε ἐν τοῖς ἔθνεσι καὶ διασπερῶ σε ἐν ταῖς χώραις, καὶ ἐκλείψει ἡ ἀκαθαρσία σου ἐκ σοῦ, καὶ κατακληρονομήσω ἐν σοὶ κατ’ ὀφθαλμοὺς τῶν ἐθνῶν ·"
+   },
+   {
+    "work_code": "OBA",
+    "work_ja": "オバデヤ書",
+    "work_src": "Abdias",
+    "ref": "17",
+    "form": "κατακληρονομήσουσιν",
+    "postag": "v3pfia---",
+    "sentence": "καὶ κατακληρονομήσουσιν ὁ οἶκος Ἰακὼβ τοὺς κατακληρονομήσαντας αὐτούς."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "81.8",
+    "form": "κατακληρονομήσεις",
+    "postag": "v2sfia---",
+    "sentence": "ἀνάστα, ὁ Θεός, κρίνων τὴν γῆν, ὅτι σὺ κατακληρονομήσεις ἐν πᾶσι τοῖς ἔθνεσι."
+   },
+   {
+    "work_code": "ZEC",
+    "work_ja": "ゼカリヤ書",
+    "work_src": "Zacharias",
+    "ref": "2.16",
+    "form": "κατακληρονομήσει",
+    "postag": "v3sfia---",
+    "sentence": "καὶ κατακληρονομήσει Κύριος τὸν Ἰούδαν, τὴν μερίδα αὐτοῦ ἐπὶ τὴν ἁγίαν, καὶ αἱρετιεῖ ἔτι τὴν Ἱερουσαλήμ."
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "2.6",
+    "form": "κατακληρονομῆσαι",
+    "postag": "v--ana---",
+    "sentence": "καὶ ἐξαπέστειλεν Ἰησοῦς τὸν λαόν, καὶ ἦλθεν ἀνὴρ εἰς τὴν κληρονομίαν αὐτοῦ κατακληρονομῆσαι τὴν γῆν."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "2.8",
+    "form": "κατακληρονομῶν",
+    "postag": "v-sppamn-",
+    "sentence": "ἀνιστᾷ ἀπὸ γῆς πένητα καὶ ἀπὸ κοπρίας ἐγείρει πτωχὸν καθίσαι μετὰ δυναστῶν λαοῦ καὶ θρόνον δόξης κατακληρονομῶν αὐτοῖς."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "7.1",
+    "form": "κατεκληρονόμησεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἐγένετο ὅτε ἐκάθισεν ὁ βασιλεὺς ἐν τῷ οἴκῳ αὐτοῦ, καὶ Κύριος κατεκληρονόμησεν αὐτὸν κύκλῳ ἀπὸ πάντων τῶν ἐχθρῶν αὐτοῦ τῶν κύκλῳ, καὶ εἶπεν ὁ βασιλεὺς πρὸς Νάθαν τὸν προφήτην ·"
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "28.8",
+    "form": "κατακληρονομήσητε",
+    "postag": "v2pasa---",
+    "sentence": "καὶ νῦν κατὰ πρόσωπον πάσης ἐκκλησίας Κυρίου καὶ ἐν ὠσὶ Θεοῦ ἡμῶν φυλάξασθε καὶ ζητήσατε πάσας τὰς ἐντολὰς Κυρίου τοῦ Θεοῦ ἡμῶν, ἵνα κληρονομήσητε τὴν γῆν τὴν ἀγαθὴν καὶ κατακληρονομήσητε τοῖς υἱοῖς ὑμῶν μεθ’ ὑμᾶς ἕως αἰῶνος."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Barnabas": 1
+  },
+  "representatives": [
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "6.8",
+    "form": "κατακληρονομήσατε",
+    "postag": "v2pama---",
+    "sentence": "εἰσέλθατε εἰς τὴν γῆν τὴν ἀγαθήν, ἣν ὤμοσεν κύριος τῷ Ἀβραὰμ καὶ Ἰσαὰκ καὶ Ἰακώβ, καὶ κατακληρονομήσατε αὐτήν, γῆν ῥέουσαν γάλα καὶ μέλι."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1 (KJV) † κατα-κληρονομέω, -ῶ,    [in LXX for נחל, ירשׁ, etc.;]      to distribute by lot or as an inheritance (Nu 34:18, Jos 14:1, al.): Ac 13:19.     to receive by inheritance (De 1:38, al.).†"
+}

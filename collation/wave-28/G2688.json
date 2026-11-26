@@ -1,0 +1,53 @@
+{
+ "strong": "G2688",
+ "lemma": "κατάστημα",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "TIT 2:3",
+   "form": "καταστήματι",
+   "morph": "N-DSN",
+   "gloss_en": "behavior",
+   "gloss_ja": "態度",
+   "verse": "Πρεσβύτιδας ὡσαύτως ἐν καταστήματι ἱεροπρεπεῖς, μὴ διαβόλους μηδὲ οἴνῳ πολλῷ δεδουλωμένας, καλοδιδασκάλους,"
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Machabaeorum iii": 1
+  },
+  "representatives": [
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "5.45",
+    "form": "κατάστημα",
+    "postag": "n-s---na-",
+    "sentence": "ὁ δὲ ἐλεφαντάρχης τὰ θηρία σχεδὸν εἰπεῖν εἰς κατάστημα μανιῶδες ἀγηοχώς, εὐωδεστάτοις πόμασιν οἴνου λελιβανωμένου φοβεραῖς κατεσκευασμένα σκευαῖς, περὶ τὴν ἕω, τῆς πόλεως ἤδη πλήθεσιν ἀναριθμήτοις κατὰ τοῦ ἱπποδρόμου καταμεμεστωμένης, εἰσελθὼν εἰς τὴν αὐλὴν ἐπὶ τὸ προκείμενον ὤτρυνε τὸν βασιλέα."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Ignatius, Letters": 1
+  },
+  "representatives": [
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "3.3.2",
+    "form": "κατάστημα",
+    "postag": "n-s---nn-",
+    "sentence": "τὸ γὰρ ἐξεμπλάριον τῆς ἀγάπης ὑμῶν ἔλαβον καὶ ἔχω μεθ’ ἑαυτοῦ ἐν τῷ ἐπισκόπῳ ὑμῶν, οὖ αὐτὸ τὸ κατάστημα μεγάλη μαθητεία, ἡ δὲ πραότης αὐτοῦ δύναμις ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   **† κατά-στημα, -τος, τό    (καθίστημι),   [in LXX: III Mac 5:45 (-εμα, A)*;]      condition, of health, etc.     demeanour: Tit 2:3 (for exx. v. Field, Notes, 220).†"
+}

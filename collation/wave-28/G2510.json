@@ -1,0 +1,51 @@
+{
+ "strong": "G2510",
+ "lemma": "καθάπτω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 28:3",
+   "form": "καθῆψε",
+   "morph": "V-AAI-3S",
+   "gloss_en": "fastened ~ on",
+   "gloss_ja": "つかみかかる",
+   "verse": "συστρέψαντος δὲ τοῦ Παύλου φρυγάνων τι πλῆθος καὶ ἐπιθέντος ἐπὶ τὴν πυράν, ἔχιδνα ἀπὸ τῆς θέρμης ἐξελθοῦσα καθῆψε τῆς χειρὸς αὐτοῦ."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Deuteronomium": 1,
+   "Odae": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "32.2",
+    "form": "καταβήτω",
+    "postag": "v3samp---",
+    "sentence": "προσδοκάσθω ὡς ὑετὸς τὸ ἀπόφθεγμά μου, καὶ καταβήτω ὡς δρόσος τὰ ρήματά μου, ὡσεὶ ὄμβρος ἐπ’ ἄγνωστιν καὶ ὡσεὶ νιφετὸς ἐπὶ χόρτον."
+   },
+   {
+    "work_code": "ODE",
+    "work_ja": "頌歌（オード）",
+    "work_src": "Odae",
+    "ref": "2.2",
+    "form": "καταβήτω",
+    "postag": "v3samp---",
+    "sentence": "προσδοκάσθω ὡς ὑετὸς τὸ ἀπόφθεγμά μου, καὶ καταβήτω ὡς δρόσος τὰ ῥήματά μου, ὡσεὶ ὄμβρος ἐπ’ ἄγρωστιν καὶ ὡσεὶ νιφετὸς ἐπὶ χόρτον."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ** καθ-άπτω,    [in Sm.: Ca 1:6*;]      to fasten on, put upon, c. acc.     Act. for mid. (cf. Bl., § 53, 3), to lay hold of, attack: c. gen., χειρός, Ac 28:3.†"
+}

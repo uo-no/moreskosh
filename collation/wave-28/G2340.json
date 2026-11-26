@@ -1,0 +1,147 @@
+{
+ "strong": "G2340",
+ "lemma": "θηρεύω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 11:54",
+   "form": "θηρεῦσαί",
+   "morph": "V-AAN",
+   "gloss_en": "catch",
+   "gloss_ja": "罠にかける",
+   "verse": "ἐνεδρεύοντες αὐτὸν θηρεῦσαί τι ἐκ τοῦ στόματος αὐτοῦ."
+  }
+ ],
+ "lxx": {
+  "total": 19,
+  "works": {
+   "Genesis": 3,
+   "Leviticus": 1,
+   "Psalmi": 4,
+   "Ecclesiastes": 2,
+   "Job": 2,
+   "Ecclesiasticus sive Siracides": 1,
+   "Jeremias": 3,
+   "Threni seu Lamentationes": 3
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "58.4",
+    "form": "ἐθήρευσαν",
+    "postag": "v3paia---",
+    "sentence": "ὅτι ἰδοὺ ἐθήρευσαν τὴν ψυχήν μου, ἐπέθεντο ἐπ’ ἐμὲ κραταιοί."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "27.33",
+    "form": "θηρεύσας",
+    "postag": "v-sapamn-",
+    "sentence": "τίς οὖν ὁ θηρεύσας μοι θήραν καὶ εἰσενέγκας μοι;"
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "28.41",
+    "form": "ἐθηρεύθη",
+    "postag": "v3saip---",
+    "sentence": "πῶς ἑάλω καὶ ἐθηρεύθη τὸ καύχημα πάσης τῆς γῆς;"
+   },
+   {
+    "work_code": "LAM",
+    "work_ja": "哀歌",
+    "work_src": "Threni seu Lamentationes",
+    "ref": "4.18",
+    "form": "ἐθηρεύσαμεν",
+    "postag": "v1paia---",
+    "sentence": "ἐθηρεύσαμεν μικροὺς ἡμῶν τοῦ μὴυ προεύεσθαι ἐν ταῖς πλατείαις ἡμῶν ·"
+   },
+   {
+    "work_code": "ECC",
+    "work_ja": "コヘレトの言葉",
+    "work_src": "Ecclesiastes",
+    "ref": "9.12",
+    "form": "θηρευόμενοι",
+    "postag": "v-pppmmn-",
+    "sentence": "ὡς οἱ ἰχθύες οἱ θηρευόμενοι ἐν ἀμφιβλήστρῳ κακῷ καὶ ὡς ὄρνεα τὰ θηρευόμενα ἐν παγίδι, ὡς αὐτὰ παγιδεύονται οἱ υἱοὶ τοῦ ἀνθρώπου εἰς καιρὸν πονηρόν, ὅταν ἐπιπέσῃ ἐπ’ αὐτοὺς ἄφνω."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "38.39",
+    "form": "θηρεύσεις",
+    "postag": "v2sfia---",
+    "sentence": "θηρεύσεις δὲ λέουσι βοράν, ψυχὰς δὲ δρακόντων ἐμπρήσεις;"
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "17.13",
+    "form": "θηρεύσῃ",
+    "postag": "v3sasa---",
+    "sentence": "καὶ ἄνθρωπος ἄνθρωπος τῶν υἱῶν Ἰσραὴλ ἢ τῶν προσηλύτων τῶν προσκειμένων ἐν ὑμῖν, ὃς ἂν θηρεύσῃ θήρευμα θηρίον ἢ πετεινόν, ὃ ἔσθεται, καὶ ἐκχεεῖ τὸ αἷμα καὶ καλύψει αὐτὸ τῇ γῇ ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "27.19",
+    "form": "θηρεύσεις",
+    "postag": "v2sfia---",
+    "sentence": "καὶ ὡς πετεινὸν ἐκ χειρός σου ἀπέλυσας, οὕτως ἀφῆκας τὸν πλησίον καὶ οὐ θηρεύσεις αὐτόν."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "93.21",
+    "form": "θηρεύσουσιν",
+    "postag": "v3pfia---",
+    "sentence": "θηρεύσουσιν ἐπὶ ψυχὴν δικαίου καὶ αἷμα ἀθῷον καταδικάσονται."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "27.5",
+    "form": "θηρεῦσαι",
+    "postag": "v--ana---",
+    "sentence": "ἐπορεύθη δὲ Ἡσαῦ εἰς τὸ πεδίον θηρεῦσαι θήραν τῷ πατρὶ αὐτοῦ ·"
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "5.6",
+    "form": "θηρευθήσονται",
+    "postag": "v3pfip---",
+    "sentence": "πάντες οἱ ἐκπορευόμενοι ἀπ’ αὐτῶν θηρευθήσονται, ὅτι ἐπλήθυναν ἀσεβείας αὐτῶν, ἴσχυσαν ἐν ταῖς ἀποστροφαῖς αὐτῶν."
+   },
+   {
+    "work_code": "LAM",
+    "work_ja": "哀歌",
+    "work_src": "Threni seu Lamentationes",
+    "ref": "3.52",
+    "form": "θηρεύοντες",
+    "postag": "v-pppamn-",
+    "sentence": "θηρεύοντες ἐθήρευσάν με ὡς στρουθίον πάντες οἱ ἐχθροί μου δωρεάν, ἐθανάτωσαν ἐν λάκκῳ ζωήν μου καὶ ἐπέθηκαν λίθον ἐπ’ ἐμοί."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   θηρεύω    (< θήρα),   [in LXX for צוּד, etc.;]    to hunt, ensnare, catch: metaph., Lk 11:54.†"
+}

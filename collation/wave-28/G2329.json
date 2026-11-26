@@ -1,0 +1,71 @@
+{
+ "strong": "G2329",
+ "lemma": "θέρμη",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 28:3",
+   "form": "θέρμης",
+   "morph": "N-GSF",
+   "gloss_en": "heat",
+   "gloss_ja": "熱",
+   "verse": "συστρέψαντος δὲ τοῦ Παύλου φρυγάνων τι πλῆθος καὶ ἐπιθέντος ἐπὶ τὴν πυράν, ἔχιδνα ἀπὸ τῆς θέρμης ἐξελθοῦσα καθῆψε τῆς χειρὸς αὐτοῦ."
+  }
+ ],
+ "lxx": {
+  "total": 4,
+  "works": {
+   "Psalmi": 1,
+   "Ecclesiastes": 1,
+   "Job": 1,
+   "Ecclesiasticus sive Siracides": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "18.7",
+    "form": "θέρμης",
+    "postag": "n-s---fg-",
+    "sentence": "ἀπ’ ἄκρου τοῦ οὐρανοῦ ἡ ἔξοδος αὐτοῦ, καὶ τὸ κατάντημα αὐτοῦ ἕως ἄκρου τοῦ οὐρανοῦ, καὶ οὐκ ἔστιν ὃς ἀποκρυβήσεται τῆς θέρμης αὐτοῦ."
+   },
+   {
+    "work_code": "ECC",
+    "work_ja": "コヘレトの言葉",
+    "work_src": "Ecclesiastes",
+    "ref": "4.11",
+    "form": "θέρμη",
+    "postag": "n-s---fn-",
+    "sentence": "καί γε ἐὰν κοιμηθῶσι δύο, καὶ θέρμη αὐτοῖς ·"
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "6.17",
+    "form": "θέρμης",
+    "postag": "n-s---fg-",
+    "sentence": "καθὼς τακεῖσα θέρμης γενομένης οὐκ ἐπεγνώσθη ὅπερ ἦν, οὕτω κα-κἀγὼ καταλείφθην ὑπὸ πάντων."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "38.28",
+    "form": "θέρμῃ",
+    "postag": "n-s---fd-",
+    "sentence": "ἀτμὶς πυρὸς πήξει σάρκας αὐτοῦ, καὶ ἐν θέρμῃ καμίνου διαμαχήσεται ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   θέρμη, -ης, ἡ,    [in LXX: Jb 6:17, Ps 18(19):6, Ec 4:11 (חמם and derivatives), Si 38:28*;]    heat: Ac 28:3.†"
+}

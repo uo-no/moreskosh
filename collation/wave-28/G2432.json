@@ -1,0 +1,99 @@
+{
+ "strong": "G2432",
+ "lemma": "ἱλαρότης",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ROM 12:8",
+   "form": "ἱλαρότητι",
+   "morph": "N-DSF",
+   "gloss_en": "cheerfulness",
+   "gloss_ja": "喜び",
+   "verse": "εἴτε ὁ παρακαλῶν ἐν τῇ παρακλήσει, ὁ μεταδιδοὺς ἐν ἁπλότητι, ὁ προϊστάμενος ἐν σπουδῇ, ὁ ἐλεῶν ἐν ἱλαρότητι."
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Proverbia": 1,
+   "Psalmi Salomonis": 2
+  },
+  "representatives": [
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "16.12",
+    "form": "ἱλαρότητος",
+    "postag": "n-s---fg-",
+    "sentence": "εὐδοκίᾳ δὲ μετὰ ἱλαρότητος στήρισον τὴν ψυχήν μου ·"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "18.22",
+    "form": "ἱλαρότητα",
+    "postag": "n-s---fa-",
+    "sentence": "ὃς εὗρε γυναῖκα ἀγαθήν, εὗρε χάριτας, ἔλαβε δὲ παρὰ Θεοῦ ἱλαρότητα."
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "4.5",
+    "form": "ἱλαρότητι",
+    "postag": "n-s---fd-",
+    "sentence": "ταχὺς εἰσόδῳ εἰς πᾶσαν οἰκίαν ἐν ἱλαρότητι ὡς ἄκακος."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 4,
+  "works": {
+   "Hermas, Pastor": 4
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.15.2",
+    "form": "Ἱλαρότης",
+    "postag": "n-s---fn-",
+    "sentence": "ἁπλότης, Ἀκακία, Ἁγνεία, Ἱλαρότης, Ἀλήθεια, Σύνεσις, Ὁμόνοια, Ἀγάπη."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "15.3.4",
+    "form": "ἱλαρότητα",
+    "postag": "n-s---fa-",
+    "sentence": "καὶ πάντες ζήσονται τῷ θεῷ, ὅσοι ἂν ἀποβάλωσιν ἀφ’ ἑαυτῶν τὴν λύπην καὶ ἐνδύσωνται πᾶσαν ἱλαρότητα."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "10.1.2",
+    "form": "ἱλαρότητι",
+    "postag": "n-s---fd-",
+    "sentence": "ἐὰν γὰρ μακρόθυμος ἔσῃ, τὸ πνεῦμα τὸ ἅγιον τὸ κατοικοῦν ἐν σοὶ καθαρὸν ἔσται, μὴ ἐπισκοτούμενον ὑπὸ ἑτέρου πονηροῦ πνεύματος, ἀλλ’ ἐν εὐρυχώρῳ κατοικοῦν ἀγαλλιάσεται καὶ εὐφρανθήσεται μετὰ τοῦ σκεύους, ἐν ᾧ κατοικεῖ, καὶ λειτουργήσει τῷ θεῷ ἐν ἱλαρότητι πολλῇ, ἔχον τὴν εὐθηνίαν ἐν ἑαυτῷ."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "15.3.1",
+    "form": "ἱλαρότητα",
+    "postag": "n-s---fa-",
+    "sentence": "ἔνδυσαι οὖν τὴν ἱλαρότητα, τὴν πάντοτε ἔχουσαν χάριν παρὰ τῷ θεῷ καὶ εὐπρόσδεκτον οὖσαν αὐτῷ, καὶ ἐντρύφα ἐν αὐτῇ."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   † ἱλαρότης, -ητος, ἡ    (< ἱλαρός),   [in LXX: Pr 18:22 (רָצוֹן)*;]    cheerfulness: Ro 12:8.†"
+}
