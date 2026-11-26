@@ -1,0 +1,99 @@
+{
+ "strong": "G3183",
+ "lemma": "μέθυσος",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 5:11",
+   "form": "μέθυσος",
+   "morph": "N-NSM",
+   "gloss_en": "drunkard",
+   "gloss_ja": "酔いどれ",
+   "verse": "νῦν δὲ ἔγραψα ὑμῖν μὴ συναναμίγνυσθαι ἐάν τις ἀδελφὸς ὀνομαζόμενος ᾖ πόρνος ἢ πλεονέκτης ἢ εἰδωλολάτρης ἢ λοίδορος ἢ μέθυσος ἢ ἅρπαξ, τῷ τοιούτῳ μηδὲ συνεσθίειν."
+  },
+  {
+   "ref": "1CO 6:10",
+   "form": "μέθυσοι",
+   "morph": "N-NPM",
+   "gloss_en": "drunkards",
+   "gloss_ja": "酔いどれ",
+   "verse": "οὔτε κλέπται οὔτε πλεονέκται, οὐ μέθυσοι, οὐ λοίδοροι, οὐχ ἅρπαγες βασιλείαν θεοῦ κληρονομήσουσιν."
+  }
+ ],
+ "lxx": {
+  "total": 5,
+  "works": {
+   "Machabaeorum iv": 1,
+   "Proverbia": 2,
+   "Ecclesiasticus sive Siracides": 2
+  },
+  "representatives": [
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "26.9",
+    "form": "μεθύσου",
+    "postag": "a-s---mg-",
+    "sentence": "ἄκανθαι φύονται ἐν χειρὶ μεθύσου, δουλεία δὲ ἐν χειρὶ τῶν ἀφρόνων."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "19.1",
+    "form": "μέθυσος",
+    "postag": "a-s---mn-",
+    "sentence": "ἐργάτης μέθυσος οὐ πλουτισθήσεται ·"
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "2.7",
+    "form": "μέθυσος",
+    "postag": "a-s---mn-",
+    "sentence": "ἐπεὶ τίνα τρόπον μονοφάγος τις ὢν τὸ ἦθος καὶ γαστρίμαργος καὶ μέθυσος μεταπαιδεύεται, εἰ μὴ δῆλον ὅτι κύριός ἐστι τῶν παθῶν ὁ λογισμός;"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "23.21",
+    "form": "μέθυσος",
+    "postag": "a-s---mn-",
+    "sentence": "πᾶς γὰρ μέθυσος καὶ πορνοκόπος πτωχεύσει, καὶ ἐνδύσεται διερρηγμένα καὶ ρακώδη πᾶς ὑπνώδης."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "26.8",
+    "form": "μέθυσος",
+    "postag": "a-s---mn-",
+    "sentence": "ὀργὴ μεγάλη γυνὴ μέθυσος καὶ ἀσχημοσύνην αὐτῆς οὐ συγκαλύψει."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "23.5.5",
+    "form": "μέθυσος",
+    "postag": "n-s---mn-",
+    "sentence": "καὶ ὁ μοιχὸς καὶ ὁ μέθυσος καὶ ὁ κατάλαλος καὶ ὁ ψεύστης καὶ ὁ πλεονέκτης καὶ ὁ ἀποστερητὴς καὶ ὁ τούτοις τὰ ὅμοια ποιῶν τῇ ἰδίᾳ νόσῳ τὸ ἱκανὸν ποιεῖ ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   μέθυσος, -α, -ον    (also -ος, -ον; prop., only of women, but in late writers also = μεθυστικός, of men),   [in LXX: Pr 23:21 (סבא) 26:9 (שִׁכּוֹר), Si 19:1 26:8, IV Mac 2:7*;]    drunken: I Co 5:11 6:10.†"
+}

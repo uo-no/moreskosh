@@ -1,0 +1,186 @@
+{
+ "strong": "G4197",
+ "lemma": "πορεία",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JAS 1:11",
+   "form": "πορείαις",
+   "morph": "N-DPF",
+   "gloss_en": "pursuits",
+   "gloss_ja": "旅",
+   "verse": "ἀνέτειλεν γὰρ ὁ ἥλιος σὺν τῷ καύσωνι καὶ ἐξήρανεν τὸν χόρτον, καὶ τὸ ἄνθος αὐτοῦ ἐξέπεσεν καὶ ἡ εὐπρέπεια τοῦ προσώπου αὐτοῦ ἀπώλετο· οὕτως καὶ ὁ πλούσιος ἐν ταῖς πορείαις αὐτοῦ μαρανθήσεται."
+  },
+  {
+   "ref": "LUK 13:22",
+   "form": "πορείαν",
+   "morph": "N-ASF",
+   "gloss_en": "way",
+   "gloss_ja": "旅",
+   "verse": "Καὶ διεπορεύετο κατὰ πόλεις καὶ κώμας διδάσκων καὶ πορείαν ποιούμενος εἰς Ἱεροσόλυμα."
+  }
+ ],
+ "lxx": {
+  "total": 33,
+  "works": {
+   "Numeri": 1,
+   "Esdras ii": 1,
+   "Judith": 1,
+   "Tobias": 2,
+   "Machabaeorum ii": 4,
+   "Machabaeorum iii": 2,
+   "Psalmi": 2,
+   "Odae": 2,
+   "Proverbia": 3,
+   "Sapientia Salomonis": 2,
+   "Ecclesiasticus sive Siracides": 2,
+   "Psalmi Salomonis": 1,
+   "Jonas": 2,
+   "Nahum": 2,
+   "Habacuc": 2,
+   "Isaias": 2,
+   "Jeremias": 2
+  },
+  "representatives": [
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "9.7",
+    "form": "πορείαν",
+    "postag": "n-s---fa-",
+    "sentence": "ἔτι δὲ καὶ τῆς ὑπερηφανίας ἐπεπλήρωτο, πῦρ πνέων τοῖς θυμοῖς ἐπὶ τοὺς Ἰουδαίους καὶ κελεύων ἐποξύνειν τὴν πορείαν."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "4.27β",
+    "form": "πορείας",
+    "postag": "n-p---fa-",
+    "sentence": "αὐτὸς δὲ ὀρθὰς ποιήσει τὰς τροχιάς σου, τὰς δὲ πορείας σου ἐν εἰρήνῃ προάξει."
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "7.9",
+    "form": "πορείᾳ",
+    "postag": "n-s---fd-",
+    "sentence": "Ἀζαρία ἀδελφέ, λάλησον ὑπὲρ ὧν ἔλεγες ἐν τῇ πορείᾳ, καὶ τελεσθήτω τὸ πρᾶγμα."
+   },
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "4.5",
+    "form": "πορείαν",
+    "postag": "n-s---fa-",
+    "sentence": "ἤγετο γὰρ γεραιῶν πλῆθος πολιᾷ πεπυκασμένων, τὴν ἐκ τοῦ γήρως νωθρότητα ποδῶν ἐπίκυφον ἀνατροπῆς ὁρμῇ βιαίας ἁπάσης αἰδοῦς ἄνευ πρὸς ὀξεῖαν καταχρωμένων πορείαν."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "67.25",
+    "form": "πορεῖαί",
+    "postag": "n-p---fn-",
+    "sentence": "ἐθεωρήθησαν αἱ πορεῖαί σου, ὁ Θεός, αἱ πορεῖαι τοῦ Θεοῦ μου τοῦ βασιλέως τοῦ ἐν τῷ ἁγίῳ."
+   },
+   {
+    "work_code": "ODE",
+    "work_ja": "頌歌（オード）",
+    "work_src": "Odae",
+    "ref": "9.7",
+    "form": "πορείας",
+    "postag": "n-p---fa-",
+    "sentence": "πορείας αἰωνίους αὐτοῦ ἀντὶ κόπων εἶδον, σκηνώματα Αἰθιόπων πτοηθήσονται καὶ αἱ σκηναὶ γῆς Μαδιαμ."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "3.3",
+    "form": "πορεία",
+    "postag": "n-s---fn-",
+    "sentence": "ἔδοξαν ἐν ὀφθαλμοῖς ἀφρόνων τεθνάναι, καὶ ἐλογίσθη κάκωσις ἡ ἔξοδος αὐτῶν καί ἡ ἀφ’ ἡμῶν πορεία σύντριμμα, οἱ δέ εἰσιν ἐν εἰρήνῃ."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "1.5",
+    "form": "πορεῖαι",
+    "postag": "n-p---fn-",
+    "sentence": "προτέρα πάντων ἔκτισται σοφία καὶ σύνεσις φρονήσεως ἐξ αἰῶνος πηγὴ σοφίας λόγος Θεοῦ ἐν ὑψίστοις, καὶ αἱ πορεῖαι αὐτῆς ἐντολαὶ αἰώνιοι."
+   },
+   {
+    "work_code": "JON",
+    "work_ja": "ヨナ書",
+    "work_src": "Jonas",
+    "ref": "3.3",
+    "form": "πορείας",
+    "postag": "n-s---fg-",
+    "sentence": "ἡ δὲ Νινευὴ ἦν πόλις μεγάλη τῷ Θεῷ ὡσεὶ πορείας ὁδοῦ τριῶν ἡμερῶν."
+   },
+   {
+    "work_code": "NAH",
+    "work_ja": "ナホム書",
+    "work_src": "Nahum",
+    "ref": "1.8",
+    "form": "πορείας",
+    "postag": "n-s---fg-",
+    "sentence": "καὶ ἐν κατακλυσμῷ πορείας συντέλειαν ποιήσεται τούς ἐπεγειρομένους, καὶ τοὺς ἐχθροὺς αὐτοῦ διώξεται σκότος."
+   },
+   {
+    "work_code": "HAB",
+    "work_ja": "ハバクク書",
+    "work_src": "Habacuc",
+    "ref": "3.7",
+    "form": "πορείας",
+    "postag": "n-p---fa-",
+    "sentence": "πορείας αἰωνίας αὐτοῦ ἀντὶ κόπων εἶδον ·"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "8.11",
+    "form": "πορείᾳ",
+    "postag": "n-s---fd-",
+    "sentence": "τῇ ἰσχυρᾷ χειρὶ ἀπειθοῦσι τῇ πορείᾳ τῆς ὁδοῦ τοῦ λαοῦ τούτου λέγοντες ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "1 Clement": 1,
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "48.4",
+    "form": "πορείαν",
+    "postag": "n-s---fa-",
+    "sentence": "πολλῶν οὖν πυλῶν ἀνεῳγυιῶν ἡ ἐν δικαιοσύνῃ αὕτη ἐστὶν ἡ ἐν Χριστῷ, ἐν ᾗ μακάριοι πάντες οἱ εἰσελθόντες καὶ κατευθύνοντες τὴν πορείαν αὐτῶν ἐν ὁσιότητι καὶ δικαιοσύνῃ, ἀταράχως πάντα ἐπιτελοῦντες."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "22.6.6",
+    "form": "πορεία",
+    "postag": "n-s---fn-",
+    "sentence": "ἤρεσε γὰρ ἡ πορεία τῆς σαρκὸς ταύτης, ὅτι οὐκ ἐμιάνθη ἐπὶ τῆς γῆς ἔχουσα τὸ πνεῦμα τὸ ἅγιον."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   πορεία, -ας, ἡ    (< πορεύω),   [in LXX chiefly for הֲלִיכָה and cogn. forms;]      a journey: Lk 13:22.     a going: metaph. (\"the rich man perishes while he is still on the move,\" Hort., in l.), Ja 1:11.†"
+}

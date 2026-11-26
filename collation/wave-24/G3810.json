@@ -1,0 +1,79 @@
+{
+ "strong": "G3810",
+ "lemma": "παιδευτής",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "HEB 12:9",
+   "form": "παιδευτὰς",
+   "morph": "N-APM",
+   "gloss_en": "who disciplined",
+   "gloss_ja": "教師",
+   "verse": "εἶτα τοὺς μὲν τῆς σαρκὸς ἡμῶν πατέρας εἴχομεν παιδευτὰς καὶ ἐνετρεπόμεθα· οὐ πολὺ μᾶλλον ὑποταγησόμεθα τῷ πατρὶ τῶν πνευμάτων καὶ ζήσομεν;"
+  },
+  {
+   "ref": "ROM 2:20",
+   "form": "παιδευτὴν",
+   "morph": "N-ASM",
+   "gloss_en": "instructor",
+   "gloss_ja": "教師",
+   "verse": "παιδευτὴν ἀφρόνων, διδάσκαλον νηπίων, ἔχοντα τὴν μόρφωσιν τῆς γνώσεως καὶ τῆς ἀληθείας ἐν τῷ νόμῳ"
+  }
+ ],
+ "lxx": {
+  "total": 4,
+  "works": {
+   "Machabaeorum iv": 1,
+   "Ecclesiasticus sive Siracides": 1,
+   "Psalmi Salomonis": 1,
+   "Osee": 1
+  },
+  "representatives": [
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "9.6",
+    "form": "παιδευτὴς",
+    "postag": "n-s---mn-",
+    "sentence": "εἰ δ’ οἱ γέροντες τῶν Ἑβραίων διὰ τὴν εὐσέβειαν καὶ βασανισμοὺς ὑπομείναντες εὐσέβησαν, ἀποθάνοιμεν ἂν δικαιότερον ἡμεῖς οἱ νέοι, τὰς βασάνους τῶν σῶν ἀναγκῶν ὑπεριδόντες, ἃς καὶ ὁ παιδευτὴς ἡμῶν γέρων ἐνίκησε."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "37.19",
+    "form": "παιδευτής",
+    "postag": "n-s---mn-",
+    "sentence": "ἔστιν ἀνὴρ πανοῦργος πολλῶν παιδευτής, καὶ τῇ ἰδίᾳ ψυχῇ ἄχρηστός ἐστιν."
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "8.29",
+    "form": "παιδευτὴς",
+    "postag": "n-s---mn-",
+    "sentence": "καὶ ἡμεῖς ἐσκληρύναμεν τὸν τράχηλον ἡμῶν, καὶ σὺ παιδευτὴς ἡμῶν εἶ."
+   },
+   {
+    "work_code": "HOS",
+    "work_ja": "ホセア書",
+    "work_src": "Osee",
+    "ref": "5.2",
+    "form": "παιδευτὴς",
+    "postag": "n-s---mn-",
+    "sentence": "ἐγὼ δὲ παιδευτὴς ὑμῶν ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   παιδευτής, -οῦ, ὁ    (< παιδεύω),   [in LXX: Ho 5:2 (מוּסָר), Si 37:19, IV Mac 5:34 9:6*;]      prop., a teacher, instructor: Ro 2:20.     a corrector, one who disciplines (cf. Ho 5:2): He 12:9.†"
+}

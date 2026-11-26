@@ -1,0 +1,283 @@
+{
+ "strong": "G3596",
+ "lemma": "πᾶς",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 10:9",
+   "form": "ὁδοιπορούντων",
+   "morph": "V-PAP-GPM",
+   "gloss_en": "were on their journey",
+   "gloss_ja": "旅する",
+   "verse": "Τῇ δὲ ἐπαύριον ὁδοιπορούντων ἐκείνων καὶ τῇ πόλει ἐγγιζόντων ἀνέβη Πέτρος ἐπὶ τὸ δῶμα προσεύξασθαι περὶ ὥραν ἕκτην."
+  },
+  {
+   "ref": "ACT 3:22",
+   "form": "πάντα",
+   "morph": "A-APN",
+   "gloss_en": "everything",
+   "gloss_ja": "旅する",
+   "verse": "Μωϋσῆς μὲν εἶπεν ὅτι Προφήτην ὑμῖν ἀναστήσει κύριος ὁ θεὸς ἐκ τῶν ἀδελφῶν ὑμῶν ὡς ἐμέ· αὐτοῦ ἀκούσεσθε κατὰ πάντα ὅσα ἂν λαλήσῃ πρὸς ὑμᾶς."
+  }
+ ],
+ "lxx": {
+  "total": 6652,
+  "works": {
+   "Genesis": 356,
+   "Exodus": 306,
+   "Leviticus": 264,
+   "Numeri": 325,
+   "Deuteronomium": 332,
+   "Josue": 183,
+   "Judices": 129,
+   "Ruth": 11,
+   "Regnorum i": 170,
+   "Regnorum ii": 208,
+   "Regnorum iii": 221,
+   "Regnorum iv": 194,
+   "Paralipomenon i sive Chronicon i": 177,
+   "Paralipomenon ii sive Chronicon ii": 284,
+   "Esdras i": 120,
+   "Esdras ii": 129,
+   "Esther": 73,
+   "Judith": 187,
+   "Tobias": 166,
+   "Machabaeorum i": 192,
+   "Machabaeorum ii": 80,
+   "Machabaeorum iii": 73,
+   "Machabaeorum iv": 51,
+   "Psalmi": 325,
+   "Odae": 43,
+   "Proverbia": 81,
+   "Ecclesiastes": 87,
+   "Canticum": 11,
+   "Job": 81,
+   "Sapientia Salomonis": 63,
+   "Ecclesiasticus sive Siracides": 218,
+   "Psalmi Salomonis": 54,
+   "Osee": 19,
+   "Amos": 29,
+   "Michaeas": 17,
+   "Joel": 16,
+   "Abdias": 3,
+   "Jonas": 1,
+   "Nahum": 11,
+   "Habacuc": 10,
+   "Sophonias": 20,
+   "Aggaeus": 12,
+   "Zacharias": 45,
+   "Malachias": 10,
+   "Isaias": 235,
+   "Jeremias": 370,
+   "Baruch": 23,
+   "Threni seu Lamentationes": 35,
+   "Epistula Jeremiae": 5,
+   "Ezechiel": 311,
+   "Susanna": 15,
+   "Daniel": 261,
+   "Bel et Draco": 10
+  },
+  "representatives": [
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "7.1",
+    "form": "πᾶσα",
+    "postag": "p-s---fn-",
+    "sentence": "ἀκούσατε λόγον Κυρίου πᾶσα Ἰουδαία."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "42.36",
+    "form": "πάντα",
+    "postag": "p-p---nn-",
+    "sentence": "ἐπ’ ἐμὲ ἐγένετο ταῦτα πάντα."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "27.16",
+    "form": "πᾶς",
+    "postag": "p-s---mn-",
+    "sentence": "καὶ ἐροῦσι πᾶς ὁ λαός ·"
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "3.13",
+    "form": "πᾶν",
+    "postag": "p-s---nn-",
+    "sentence": "ἐμοὶ γὰρ πᾶν πρωτότοκον ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "118.86",
+    "form": "πᾶσαι",
+    "postag": "p-p---fn-",
+    "sentence": "πᾶσαι αἱ ἐντολαί σου ἀλήθεια ·"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "5.4",
+    "form": "παντὶ",
+    "postag": "p-s---md-",
+    "sentence": "— καὶ ἐρεῖς παντὶ οἴκω Ἰσραήλ."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "16.9",
+    "form": "πάσῃ",
+    "postag": "p-s---fd-",
+    "sentence": "εἰπὸν πάσῃ συναγωγῇ υἱῶν Ἰσραήλ ·"
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "36.23",
+    "form": "παντὸς",
+    "postag": "p-s---mg-",
+    "sentence": "τίς ἐξ ὑμῶν ἐκ παντὸς τοῦ λαοῦ αὐτοῦ;"
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "18.24",
+    "form": "πᾶσι",
+    "postag": "p-p---nd-",
+    "sentence": "μὴ μιαίνεσθε ἐν πᾶσι τούτοις ·"
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "3.90",
+    "form": "πάντες",
+    "postag": "p-p---mn-",
+    "sentence": "εὐλογεῖτε, πάντες οἱ σεβόμενοι τὸν θεὸν τῶν θεῶν ·"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "57.13",
+    "form": "πάντας",
+    "postag": "p-p---ma-",
+    "sentence": "τούτους γὰρ πάντας ἄνεμος λήψεται καὶ ἀποίσει καταιγίς."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "2.2",
+    "form": "πάσης",
+    "postag": "p-s---fg-",
+    "sentence": "ἐγώ εἰμι πορεύομαι ἐν ὁδῷ πάσης τῆς γῆς ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 672,
+  "works": {
+   "Barnabas": 46,
+   "1 Clement": 105,
+   "2 Clement": 15,
+   "Didache": 34,
+   "To Diognetus": 25,
+   "Hermas, Pastor": 288,
+   "Ignatius, Letters": 99,
+   "Martyrdom of Polycarp": 27,
+   "Polycarp, To the Philippians": 33
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.29.3",
+    "form": "πάντων",
+    "postag": "p-p---mg-",
+    "sentence": "πρῶτοι πάντων ζήσεσθε τῷ θεῷ."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "34.2",
+    "form": "πάντα",
+    "postag": "p-p---nn-",
+    "sentence": "ἐξ αὐτοῦ γάρ ἐστιν τὰ πάντα."
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "1.2.2",
+    "form": "παντός",
+    "postag": "p-s---ng-",
+    "sentence": "ὀναίμην ὑμῶν διὰ παντός, ἐάνπερ ἄξιος ὦ."
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "10.11",
+    "form": "πᾶν",
+    "postag": "p-s---na-",
+    "sentence": "φάγεσθε πᾶν διχηλοῦν καὶ μαρυκώμενον."
+   },
+   {
+    "work_code": "DID",
+    "work_ja": "ディダケー",
+    "work_src": "Didache",
+    "ref": "1.5",
+    "form": "παντὶ",
+    "postag": "p-s---md-",
+    "sentence": "παντὶ τῷ αἰτοῦντί σε δίδου καὶ μὴ ἀπαίτει ·"
+   },
+   {
+    "work_code": "PPH",
+    "work_ja": "ポリュカルポスのピリピ書簡",
+    "work_src": "Polycarp, To the Philippians",
+    "ref": "3.3",
+    "form": "πάσης",
+    "postag": "p-s---fg-",
+    "sentence": "ὁ γὰρ ἔχων ἀγάπην μακράν ἐστιν πάσης ἁμαρτίας."
+   },
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "1.2",
+    "form": "πάντας",
+    "postag": "p-p---ma-",
+    "sentence": "ἀγάπης γὰρ ἀληθοῦς καὶ βεβαίας ἐστίν, μὴ μόνον ἑαυτὸν θέλειν σώζεσθαι, ἀλλὰ καὶ πάντας τοὺς ἀδελφούς."
+   },
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "5",
+    "form": "πάντες",
+    "postag": "p-p---mn-",
+    "sentence": "γαμοῦσιν ὡς πάντες, τεκνογονοῦσιν ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   * ὁδοιπορέω, -ῶ    (< ὁδοιπόρος, a traveller, Ge 37:25, al.),    to travel, journey: Ac 10:9.†"
+}

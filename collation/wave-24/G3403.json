@@ -1,0 +1,268 @@
+{
+ "strong": "G3403",
+ "lemma": "μιμνῄσκομαι",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": "μιμνησκω",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "HEB 2:6",
+   "form": "μιμνῄσκῃ",
+   "morph": "V-PNI-2S",
+   "gloss_en": "are mindful",
+   "gloss_ja": "思い出す",
+   "verse": "διεμαρτύρατο δέ πού τις λέγων· Τί ἐστιν ἄνθρωπος ὅτι μιμνῄσκῃ αὐτοῦ, ἢ υἱὸς ἀνθρώπου ὅτι ἐπισκέπτῃ αὐτόν;"
+  },
+  {
+   "ref": "HEB 13:3",
+   "form": "μιμνῄσκεσθε",
+   "morph": "V-PNM-2P",
+   "gloss_en": "remember",
+   "gloss_ja": "思い出す",
+   "verse": "μιμνῄσκεσθε τῶν δεσμίων ὡς συνδεδεμένοι, τῶν κακουχουμένων ὡς καὶ αὐτοὶ ὄντες ἐν σώματι."
+  }
+ ],
+ "lxx": {
+  "total": 271,
+  "works": {
+   "Genesis": 11,
+   "Exodus": 4,
+   "Leviticus": 4,
+   "Numeri": 3,
+   "Deuteronomium": 15,
+   "Josue": 1,
+   "Judices": 3,
+   "Regnorum i": 4,
+   "Regnorum ii": 1,
+   "Regnorum iv": 1,
+   "Paralipomenon ii sive Chronicon ii": 2,
+   "Esdras i": 6,
+   "Esdras ii": 9,
+   "Esther": 5,
+   "Judith": 1,
+   "Tobias": 18,
+   "Machabaeorum i": 9,
+   "Machabaeorum ii": 3,
+   "Machabaeorum iv": 2,
+   "Psalmi": 49,
+   "Odae": 6,
+   "Proverbia": 1,
+   "Ecclesiastes": 4,
+   "Job": 7,
+   "Sapientia Salomonis": 1,
+   "Ecclesiasticus sive Siracides": 25,
+   "Psalmi Salomonis": 5,
+   "Osee": 4,
+   "Amos": 1,
+   "Michaeas": 1,
+   "Jonas": 1,
+   "Nahum": 1,
+   "Habacuc": 1,
+   "Zacharias": 1,
+   "Malachias": 1,
+   "Isaias": 21,
+   "Jeremias": 11,
+   "Baruch": 6,
+   "Threni seu Lamentationes": 6,
+   "Ezechiel": 13,
+   "Daniel": 1,
+   "Bel et Draco": 2
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "88.48",
+    "form": "μνήσθητι",
+    "postag": "v2samp---",
+    "sentence": "μνήσθητι τίς μου ἡ ὑπόστασις ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "23.18",
+    "form": "μνησθήσεται",
+    "postag": "v3sfip---",
+    "sentence": "τῶν ἁμαρτιῶν μου οὐ μὴ μνησθήσεται ὁ Ὓψιστος."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "47.7",
+    "form": "ἐμνήσθης",
+    "postag": "v2saip---",
+    "sentence": "οὐκ ἐνόησας ταῦτα ἐν τῇ καρδίᾳ σου, οὐ-δὲ ἐμνήσθης τὰ ἔσχατα."
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "3.3",
+    "form": "μνήσθητί",
+    "postag": "v2samp---",
+    "sentence": "μνήσθητί μου καὶ ἐπίβλεψον ἐπ’ ἐμέ ·"
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "32.7",
+    "form": "μνήσθητε",
+    "postag": "v2pamp---",
+    "sentence": "μνήσθητε ἡμέρας αἰῶνος, σύνετε ἔτη γενεᾶς γενεῶν ·"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "21.23",
+    "form": "μνησθῆναι",
+    "postag": "v--anp---",
+    "sentence": "καὶ αὐτὸς αὐτοῖς ὡς μαντευόμενος μαντείαν ἐνώπιον αὐτῶν καὶ αὐτὸς ἀναμιμνήσκων ἀδικίας αὐτοῦ μνησθῆναι."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "40.23",
+    "form": "ἐμνήσθη",
+    "postag": "v3saip---",
+    "sentence": "καὶ οὐκ ἐμνήσθη ὁ ἀρχιοινοχόος τοῦ Ἰωσήφ, ἀλλ’ ἐπελάθετο αὐτοῦ."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "38.20",
+    "form": "μνησθήσομαι",
+    "postag": "v1sfip---",
+    "sentence": "υἱὸς ἀγαπητὸς Ἐφραὶμ ἐμοί, παιδίον ἐντρυφῶν, ὅτι ἀνθ’ ὧν οἱ λόγοι μου ἐν αὐτῷ, μνείᾳ μνησθήσομαι αὐτοῦ ·"
+   },
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "19.17",
+    "form": "ἐμνήσθησαν",
+    "postag": "v3paip---",
+    "sentence": "καὶ ἀνένευσαν τοῦ εἰσακοῦσαι καὶ οὐκ ἐμνήσθησαν τῶν θαυμασίων σου, ὧν ἐποίησας μετ’ αὐτῶν καὶ ἐσκλήρυναν τὸν τράχηλον αὐτῶν καὶ ἔδωκαν ἀρχὴν ἐπιστρέψαι εἰς δουλείαν αὐτῶν ἐν Αἰγύπτῳ."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "12.11",
+    "form": "μιμνησκόμεθα",
+    "postag": "v1ppim---",
+    "sentence": "ἡμεῖς οὖν ἐν παντὶ καιρῷ ἀδιαλείπτως ἔν τε ταῖς ἑορταῖς καὶ ταῖς λοιπαῖς καθηκούσαις ἡμέραις μιμνησκόμεθα ὑμῶν ἐφ’ ὧν προσφέρομεν θυσιῶν καὶ ἐν ταῖς προσευχαῖς, ὡς δέον ἐστὶ καὶ πρέπον μνημονεύειν ἀδελφῶν ·"
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "21.6",
+    "form": "μνησθῶ",
+    "postag": "v1sasp---",
+    "sentence": "ἐάν τε γὰρ μνησθῶ, ἐσπούδακα, ἔχουσι δέ μου τὰς σάρκας ὀδύναι."
+   },
+   {
+    "work_code": "1ES",
+    "work_ja": "エズラ記（ギリシャ語）",
+    "work_src": "Esdras i",
+    "ref": "3.22",
+    "form": "μέμνηνται",
+    "postag": "v3prim---",
+    "sentence": "καὶ ὅταν ἀπὸ τοῦ οἴνου ἐγερθῶσιν, οὐ μέμνηνται ἃ ἔπραξαν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 10,
+  "works": {
+   "Barnabas": 2,
+   "1 Clement": 3,
+   "Didache": 2,
+   "Hermas, Pastor": 2,
+   "Martyrdom of Polycarp": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "46.7",
+    "form": "μνήσθητε",
+    "postag": "v2pamp---",
+    "sentence": "μνήσθητε τῶν λόγων τοῦ κυρίου Ἰησοῦ."
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "13.7",
+    "form": "ἐμνήσθη",
+    "postag": "v3saip---",
+    "sentence": "εἰ οὖν ἔτι καὶ διὰ τοῦ Ἀβραὰμ ἐμνήσθη, ἀπέχομεν τὸ τέλειον τῆς γνώσεως ἡμῶν."
+   },
+   {
+    "work_code": "DID",
+    "work_ja": "ディダケー",
+    "work_src": "Didache",
+    "ref": "4.1",
+    "form": "μνησθήσῃ",
+    "postag": "v2sfip---",
+    "sentence": "τέκνον μου, τοῦ λαλοῦντός σοι τὸν λόγον τοῦ θεοῦ μνησθήσῃ νυκτὸς καὶ ἡμέρας, τιμήσεις δὲ αὐτὸν ὡς κύριον ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "4.1.8",
+    "form": "μνησθεὶς",
+    "postag": "v-sappmn-",
+    "sentence": "ἐνδυσάμενος οὖν, ἀδελφοί, τὴν πίστιν τοῦ κυρίου καὶ μνησθεὶς ὧν ἐδίδαξέν με μεγαλείων, θαρσήσας εἰς τὸ θηρίον ἐμαυτὸν ἔδωκα."
+   },
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "epilogus_alius.3",
+    "form": "μέμνηται",
+    "postag": "v3srim---",
+    "sentence": "οὗ καὶ πολλὰ συγγράμματα κάλλιστα καὶ ὀρθότατα φέρεται, ἐν οἷς μέμνηται Πολυκάρπου, ὅτι παρ’ αὐτοῦ ἔμαθεν, ἱκανῶς τε πᾶσαν αἵρεσιν ἤλεγξεν καὶ τὸν ἐκκλησιαστικὸν κανόνα καὶ καθολικόν, ὡς παρέλαβεν παρὰ τοῦ ἁγίου, καὶ παρέδωκεν."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "13.1",
+    "form": "μεμνημένοι",
+    "postag": "v-prpmmn-",
+    "sentence": "μάλιστα μεμνημένοι τῶν λόγων τοῦ κυρίου Ἰησοῦ, οὓς ἐλάλησεν διδάσκων ἐπιείκειαν καὶ μακροθυμίαν."
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "19.10",
+    "form": "μνησθήσῃ",
+    "postag": "v2sfip---",
+    "sentence": "μνησθήσῃ ἡμέραν κρίσεως νυκτὸς καὶ ἡμέρας, καὶ ἐκζητήσεις καθ’ ἑκάστην ἡμέραν τὰ πρόσωπα τῶν ἁγίων, ἢ διὰ λόγου κοπιῶν καὶ πορευόμενος εἰς τὸ παρακαλέσαι καὶ μελετῶν εἰς τὸ σῶσαι ψυχὴν τῷ λόγῳ, ἢ διὰ τῶν χειρῶν σου ἐργάσῃ εἰς λύτρωσιν ἁμαρτιῶν σου."
+   },
+   {
+    "work_code": "DID",
+    "work_ja": "ディダケー",
+    "work_src": "Didache",
+    "ref": "10.5",
+    "form": "μνήσθητι",
+    "postag": "v2samp---",
+    "sentence": "μνήσθητι, κύριε, τῆς ἐκκλησίας σου, τοῦ ῥύσασθαι αὐτὴν ἀπὸ παντὸς πονηροῦ καὶ τελειῶσαι αὐτὴν ἐν τῇ ἀγάπῃ σου, καὶ σύναξον αὐτὴν ἀπὸ τῶν τεσσάρων ἀνέμων, τὴν ἁγιασθεῖσαν, εἰς τὴν σὴν βασιλείαν, ἣν ἡτοίμασας αὐτῇ ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "23 μιμνήσκω    (Bl., -ῄ-, § 3, 3),   [in LXX chiefly for זכר;]      to remind: mid. and pass.;     reflexive, to remind oneself of, hence, to remember: c. gen. rei, Mt 26:75, Lk 1:54, 72 24:8, Ac 11:16, II Pe 3:2, Ju 17; c. neg., of sins, = to forgive, He 8:12 10:17(LXX); c. gen. pers., Lk 23:42; seq. ὅτι, Mt 5:23 27:63, Lk 16:25, Jo 2:17, 22 12:16; ὡς, Lk 24:6; pf., μέμνημι, in pres. sense (cl.), c. gen. pers. (rei), I Co 11:2, II Ti 1:4; pres., μιμνήσκομαι (only in late writers), c. gen. pers., in sense of caring for, He 2:6(LXX) 13:3;     in passive sense, to be remembered, aor., ἐμνήσθην: seq. ἐνώπιον, c. gen. pers. (cf. Ez 18:22), Ac 10:31, Re 16:19 (cf. ἀνα-, ἐπ-ανα-, ὑπο-μιμνήσκω. The"
+}

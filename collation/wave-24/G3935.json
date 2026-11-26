@@ -1,0 +1,180 @@
+{
+ "strong": "G3935",
+ "lemma": "παρίημι",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "HEB 12:12",
+   "form": "παρειμένας",
+   "morph": "V-RPP-APF",
+   "gloss_en": "drooping",
+   "gloss_ja": "見過ごす",
+   "verse": "Διὸ τὰς παρειμένας χεῖρας καὶ τὰ παραλελυμένα γόνατα ἀνορθώσατε,"
+  },
+  {
+   "ref": "LUK 11:42",
+   "form": "παρεῖναι",
+   "morph": "V-2AAN",
+   "gloss_en": "neglecting",
+   "gloss_ja": "見過ごす",
+   "verse": "Ἀλλὰ οὐαὶ ὑμῖν τοῖς Φαρισαίοις, ὅτι ἀποδεκατοῦτε τὸ ἡδύοσμον καὶ τὸ πήγανον καὶ πᾶν λάχανον, καὶ παρέρχεσθε τὴν κρίσιν καὶ τὴν ἀγάπην τοῦ θεοῦ· ταῦτα δὲ ἔδει ποιῆσαι κἀκεῖνα μὴ παρεῖναι."
+  }
+ ],
+ "lxx": {
+  "total": 17,
+  "works": {
+   "Exodus": 1,
+   "Deuteronomium": 1,
+   "Regnorum i": 1,
+   "Regnorum ii": 1,
+   "Judith": 1,
+   "Machabaeorum i": 1,
+   "Machabaeorum iii": 1,
+   "Machabaeorum iv": 1,
+   "Odae": 2,
+   "Ecclesiasticus sive Siracides": 4,
+   "Sophonias": 1,
+   "Jeremias": 2
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "2.13",
+    "form": "παρειμένῃ",
+    "postag": "v-srpmfd-",
+    "sentence": "οὐαὶ καρδίᾳ παρειμένῃ, ὅτι οὐ πιστεύει ·"
+   },
+   {
+    "work_code": "ODE",
+    "work_ja": "頌歌（オード）",
+    "work_src": "Odae",
+    "ref": "3.5",
+    "form": "παρῆκαν",
+    "postag": "v3paia---",
+    "sentence": "πλήρεις ἄρτων ἠλαττώθησαν, καὶ οἱ πεινῶντες παρῆκαν γῆν ·"
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "4.31",
+    "form": "παρήσει",
+    "postag": "v3sfia---",
+    "sentence": "ἐκλυθήσεται καὶ παρήσει τὰς χεῖρας αὐτῆς ·"
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "14.12",
+    "form": "πάρες",
+    "postag": "v2sama---",
+    "sentence": "πάρες ἡμᾶς, ὅπως δουλεύσωμεν τοῖς Αἰγυπτίοις;"
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "32.36",
+    "form": "παρειμένους",
+    "postag": "v-prpmma-",
+    "sentence": "εἶδε γὰρ παραλελυμένους αὐτοὺς καὶ ἐκλελοιπότας ἐν ἐπαγωγῇ καὶ παρειμένους."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "2.5",
+    "form": "παρῆκαν",
+    "postag": "v3paia---",
+    "sentence": "πλήρεις ἄρτων ἠλαττώθησαν, καὶ οἱ πεινῶντες παρῆκαν γῆν ·"
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "4.1",
+    "form": "παρείθησαν",
+    "postag": "v3paip---",
+    "sentence": "καὶ ἤκουσεν Ἰεβοσθὲ υἱὸς Σαοὺλ ὅτι τέθνηκεν Ἀβεννὴρ υἱὸς Νὴρ ἐν Χεβρών, καὶ ἐξελύθησαν αἱ χεῖρες αὐτοῦ, καὶ πάντες οἱ ἄνδρες Ἰσραὴλ παρείθησαν."
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "12.12",
+    "form": "παρήσομεν",
+    "postag": "v1pfia---",
+    "sentence": "ἰδοὺ γὰρ αἰσχρὸν τῷ προσώπῳ ἡμῶν, εἰ γυναῖκα τοιαύτην παρήσομεν οὐχ ὁμιλήσαντες αὐτῇ, ὅτι ἐὰν ταύτην μὴ ἐπισπασώμεθα, καταγελάσεται ἡμῶν."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "11.35",
+    "form": "παρίεμεν",
+    "postag": "v1ppia---",
+    "sentence": "καὶ τὰ ἄλλα τὰ ἀνήκοντα ἡμῖν ἀπὸ τοῦ νῦν τῶν δεκατῶν καὶ τῶν τελῶν τῶν ἀνηκόντων ἡμῖν καὶ τὰς τοῦ ἁλὸς λίμνας καὶ τοὺς ἀνήκοντας ἡμῖν στεφάνους, πάντα ἐπαρκῶς παρίεμεν αὐτοῖς."
+   },
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "2.13",
+    "form": "παρείμεθα",
+    "postag": "v1paim---",
+    "sentence": "ἐπεὶ δὲ πλεονάκις θλιβέντων τῶν πατέρων ἡμῶν ἐβοήθησας αὐτοῖς ἐν τῇ ταπεινώσει καὶ ἐρρύσω αὐτοὺς ἐκ μεγάλων κινδύνων, ἰδοὺ δὲ νῦν, ἅγιε βασιλεῦ, διὰ τὰς πολλὰς καὶ μεγάλας ἡμῶν ἁμαρτίας καταπονούμεθα καὶ ὑπετάγημεν τοῖς ἐχθροῖς ἡμῶν καὶ παρείμεθα ἐν ἀδυναμίαις."
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "5.28",
+    "form": "παρήσω",
+    "postag": "v1sfia---",
+    "sentence": "ἀλλ’ οὐ γελάσεις κατ’ ἐμοῦ τοῦτον τὸν γέλωτα, οὔ-τε τοὺς ἱεροὺς τῶν προγόνων περὶ τοῦ φυλάξαι τὸν νόμον ὅρκους οὐ παρήσω, οὐ-δ’ ἂν ἐκκόψειάς μου τὰ ὄμματα καὶ τὰ σπλάγχνα μου τήξειας."
+   },
+   {
+    "work_code": "ZEP",
+    "work_ja": "ゼファニヤ書",
+    "work_src": "Sophonias",
+    "ref": "3.16",
+    "form": "παρείσθωσαν",
+    "postag": "v3prmm---",
+    "sentence": "θάρσει, Σιών, μὴ παρείσθωσαν αἱ χεῖρές σου ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "1 Clement": 2
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "34.4",
+    "form": "παρειμένους",
+    "postag": "v-prpmma-",
+    "sentence": "προτρέπεται οὖν ἡμᾶς πιστεύοντας ἐξ ὅλης τῆς καρδίας ἐπ’ αὐτῷ, μὴ ἀργοὺς μη-δὲ παρειμένους εἶναι ἐπὶ πᾶν ἔργον ἀγαθόν."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "34.1",
+    "form": "παρειμένος",
+    "postag": "v-srpmmn-",
+    "sentence": "ὁ ἀγαθὸς ἐργάτης μετὰ παρρησίας λαμβάνει τὸν ἄρτον τοῦ ἔργου αὐτοῦ, ὁ νωθρὸς καὶ παρειμένος οὐκ ἀντοφθαλμεῖ τῷ ἐργοπαρέκτῃ αὐτοῦ, δέον οὖν ἐστὶν προθύμους ἡμᾶς εἶναι εἰς ἀγαθοποιΐαν ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   παρ-ίημι,    [in LXX: Je 4:31 (פּרשׂ pi.), etc.;]      to pass by or over, let alone, disregard: Lk 11:42.     to relax, loosen; pass., to be relaxed, weakened, exhausted: παρειμένας χεῖρας, He 12:12 (LXX ἀνειμ-).†"
+}

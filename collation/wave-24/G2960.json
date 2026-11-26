@@ -1,0 +1,59 @@
+{
+ "strong": "G2960",
+ "lemma": "κυριακός",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 11:20",
+   "form": "κυριακὸν",
+   "morph": "A-ASN",
+   "gloss_en": "lord’s",
+   "gloss_ja": "主の",
+   "verse": "συνερχομένων οὖν ὑμῶν ἐπὶ τὸ αὐτὸ οὐκ ἔστιν κυριακὸν δεῖπνον φαγεῖν,"
+  },
+  {
+   "ref": "REV 1:10",
+   "form": "κυριακῇ",
+   "morph": "A-DSF",
+   "gloss_en": "lord’s",
+   "gloss_ja": "主の",
+   "verse": "ἐγενόμην ἐν πνεύματι ἐν τῇ κυριακῇ ἡμέρᾳ, καὶ ἤκουσα ὀπίσω μου φωνὴν μεγάλην ὡς σάλπιγγος"
+  }
+ ],
+ "lxx": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "Didache": 1,
+   "Ignatius, Letters": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DID",
+    "work_ja": "ディダケー",
+    "work_src": "Didache",
+    "ref": "14.1",
+    "form": "κυριακὴν",
+    "postag": "a-s---fa-",
+    "sentence": "κατὰ κυριακὴν δὲ κυρίου συναχθέντες κλάσατε ἄρτον καὶ εὐχαριστήσατε, προεξομολογησάμενοι τὰ παραπτώματα ὑμῶν, ὅπως καθαρὰ ἡ θυσία ὑμῶν ᾖ."
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "2.9.1",
+    "form": "κυριακὴν",
+    "postag": "a-s---fa-",
+    "sentence": "εἰ οὖν οἱ ἐν παλαιοῖς πράγμασιν ἀναστραφέντες εἰς καινότητα ἐλπίδος ἦλθον, μηκέτι σαββατίζοντες, ἀλλὰ κατὰ κυριακὴν ζῶντες, ἐν ᾗ καὶ ἡ ζωὴ ἡμῶν ἀνέτειλεν δι’ αὐτοῦ καὶ τοῦ θανάτου αὐτοῦ, ὅν τινες ἀρνοῦνται, δι’ οὗ μυστηρίου ἐλάβομεν τὸ πιστεύειν, καὶ διὰ τοῦτο ὑπομένομεν, ἵνα εὑρεθῶμεν μαθηταὶ Ἰησοῦ Χριστοῦ τοῦ μόνου διδασκάλου ἡμῶν ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   **† κυριακός, -ή, -όν    (< κύριος),   [in LXX: κ. φωνή (Συριακή φ., R), II Mac 15:36 A*;]      as freq. in Inscr. (LS, s.v.; Deiss., BS, 217 f.), of the lord or master, imperial.     of the Lord (i.e. Christ): δεῖπνον, I Co 11:20; ἡμέρα, Re 1:10. (Cf. λόγια κ., Papias, Eus., HE, iii, 39, 1; γραφαὶ κ., Clem. Alex., etc; for eccl. usage, cf. Soph., Lex., s.v.)†"
+}

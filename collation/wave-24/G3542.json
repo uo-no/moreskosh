@@ -1,0 +1,188 @@
+{
+ "strong": "G3542",
+ "lemma": "νομή",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2TI 2:17",
+   "form": "νομὴν",
+   "morph": "N-ASF",
+   "gloss_en": "a spreading (effect)",
+   "gloss_ja": "牧草地",
+   "verse": "καὶ ὁ λόγος αὐτῶν ὡς γάγγραινα νομὴν ἕξει· ὧν ἐστιν Ὑμέναιος καὶ Φίλητος,"
+  },
+  {
+   "ref": "JHN 10:9",
+   "form": "νομὴν",
+   "morph": "N-ASF",
+   "gloss_en": "pasture",
+   "gloss_ja": "牧草地",
+   "verse": "ἐγώ εἰμι ἡ θύρα· δι’ ἐμοῦ ἐάν τις εἰσέλθῃ σωθήσεται καὶ εἰσελεύσεται καὶ ἐξελεύσεται καὶ νομὴν εὑρήσει."
+  }
+ ],
+ "lxx": {
+  "total": 38,
+  "works": {
+   "Genesis": 1,
+   "Regnorum i": 1,
+   "Paralipomenon i sive Chronicon i": 3,
+   "Machabaeorum ii": 1,
+   "Psalmi": 4,
+   "Proverbia": 1,
+   "Job": 2,
+   "Ecclesiasticus sive Siracides": 1,
+   "Psalmi Salomonis": 1,
+   "Osee": 1,
+   "Amos": 1,
+   "Joel": 1,
+   "Nahum": 1,
+   "Sophonias": 2,
+   "Isaias": 1,
+   "Jeremias": 8,
+   "Threni seu Lamentationes": 1,
+   "Ezechiel": 6,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "10.21",
+    "form": "νομὴ",
+    "postag": "n-s---fn-",
+    "sentence": "διὰ τοῦτο οὐκ ἐνόησε πᾶσα ἡ νομὴ καὶ διεσκοσπίσθησαν."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "34.14",
+    "form": "νομῇ",
+    "postag": "n-s---fd-",
+    "sentence": "ἐν νομῇ ἀγαθῇ βοσκήσω αὐτοὺς καὶ ἐν τῷ ὄρει τῷ ὑψηλῷ Ἰσραὴλ ἔσονται αἱ μάνδραι αὐτῶν ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "73.1",
+    "form": "νομῆς",
+    "postag": "n-s---fg-",
+    "sentence": "ὠργίσθη ὁ θυμός σου ἐπὶ πρόβατα νομῆς σου;"
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "4.40",
+    "form": "νομὰς",
+    "postag": "n-p---fa-",
+    "sentence": "καὶ εὗρον νομὰς πλείονας καὶ ἀγαθάς, καὶ ἡ γῆ πλατεῖα ἐναντίον αὐτῶν καὶ εἰρήνη καὶ ἡσυχία, ὅτι ἐκ τῶν υἱῶν Χὰμ τῶν κατοικούντων ἐκεῖ ἔμπροσθεν."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "39.8",
+    "form": "νομὴν",
+    "postag": "n-s---fa-",
+    "sentence": "καταγελῶν πολυοχλίας πόλεως, μέμψιν δὲ φορολόγου οὐκ ἀκούων, κατασκέψεται ὄρη νομὴν αὐτοῦ καὶ ὀπίσω παντὸς χλωροῦ ζητεῖ."
+   },
+   {
+    "work_code": "ZEP",
+    "work_ja": "ゼファニヤ書",
+    "work_src": "Sophonias",
+    "ref": "2.15",
+    "form": "νομὴ",
+    "postag": "n-s---fn-",
+    "sentence": "πῶς ἐγενήθη εἰς ἀφανισμὸν νομὴ θηρίων ·"
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "47.4",
+    "form": "νομὴ",
+    "postag": "n-s---fn-",
+    "sentence": "οὐ γάρ ἐστι νομὴ τοῖς κτήνεσι τῶν παίδων σου, ἐνίσχυσε γὰρ ὁ λιμὸς ἐν γῇ Χαναάν ·"
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "28.24",
+    "form": "νομὰς",
+    "postag": "n-p---fa-",
+    "sentence": "καὶ τῇ γυναικὶ ἦν δάμαλις νομὰς ἐν τῇ οἰκίᾳ, καὶ ἔσπευσε καὶ ἔθυσεν αὐτὴν καὶ ἔλαβεν ἄλευρα καὶ ἐφύρασε καὶ ἔπεψεν ἄζυμα καὶ προσήγαγεν ἐνώπιον Σαοὺλ καὶ ἐνώπιον τῶν παιδῶν αὐτοῦ, καὶ ἔφαγον."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "5.14",
+    "form": "νομαῖς",
+    "postag": "n-p---fd-",
+    "sentence": "τέσσαρες μὲν ἐκ χειρῶν νομαῖς, οὐχ ἧττον δὲ τῶν ἐσφαγμένων ἐπράθησαν."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "24.15",
+    "form": "νομῇ",
+    "postag": "n-s---fd-",
+    "sentence": "μὴ προσαγάγῃς ἀσεβῆ νομῇ δικαίων μη-δὲ ἀπατηθῇς χορτασίᾳ κοιλίας ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "13.19",
+    "form": "νομαὶ",
+    "postag": "n-p---fn-",
+    "sentence": "κυνήγια λεόντων ὄναγροι ἐν ἐρήμῳ, οὕτως νομαὶ πλουσίων πτωχοί."
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "17.40",
+    "form": "νομῇ",
+    "postag": "n-s---fd-",
+    "sentence": "ἰσχυρὸς ἐν ἔργοις αὐτοῦ καὶ κραταιὸς ἐν φόβῳ θεοῦ ποιμαίνων τὸ ποίμνιον κυρίου ἐν πίστει καὶ δικαιοσύνῃ καὶ οὐκ ἀφήσει ἀσθενῆσαι ἐν αὐτοῖς ἐν τῇ νομῇ αὐτῶν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "Barnabas": 1,
+   "1 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "16.5",
+    "form": "νομῆς",
+    "postag": "n-s---fg-",
+    "sentence": "καὶ ἔσται ἐπ’ ἐσχάτων τῶν ἡμερῶν, καὶ παραδώσει κύριος τὰ πρόβατα τῆς νομῆς καὶ τὴν μάνδραν καὶ τὸν πύργον αὐτῶν εἰς καταφθοράν."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "59.4",
+    "form": "νομῆς",
+    "postag": "n-s---fg-",
+    "sentence": "ὅτι σὺ εἶ ὁ θεὸς μόνος καὶ Ἰησοῦς Χριστὸς ὁ παῖς σου καὶ ἡμεῖς λαός σου καὶ πρόβατα τῆς νομῆς σου."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   νομή, -ῆς, ἡ    (< νέμω, to pasture),   [in LXX chiefly for מִרְעֶה, also for נָוֶה, etc.;]      a pasture, pasturage: fig., Jo 10:9.     a grazing, feeding; metaph., of a spreading sore, II Ti 2:17 (Polyb.).†"
+}

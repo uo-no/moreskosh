@@ -1,0 +1,108 @@
+{
+ "strong": "G3201",
+ "lemma": "μέμφομαι",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "HEB 8:8",
+   "form": "μεμφόμενος",
+   "morph": "V-PNP-NSM",
+   "gloss_en": "finding fault",
+   "gloss_ja": "責める",
+   "verse": "μεμφόμενος γὰρ αὐτοὺς λέγει· Ἰδοὺ ἡμέραι ἔρχονται, λέγει κύριος, καὶ συντελέσω ἐπὶ τὸν οἶκον Ἰσραὴλ καὶ ἐπὶ τὸν οἶκον Ἰούδα διαθήκην καινήν,"
+  },
+  {
+   "ref": "ROM 9:19",
+   "form": "μέμφεται",
+   "morph": "V-PNI-3S",
+   "gloss_en": "find fault",
+   "gloss_ja": "責める",
+   "verse": "Ἐρεῖς μοι οὖν· Τί οὖν ἔτι μέμφεται; τῷ γὰρ βουλήματι αὐτοῦ τίς ἀνθέστηκεν;"
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Machabaeorum ii": 1,
+   "Ecclesiasticus sive Siracides": 2
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "11.7",
+    "form": "μέμψῃ",
+    "postag": "v2sasm---",
+    "sentence": "πρὶν ἐξετάσῃς, μὴ μέμψῃ ·"
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "2.7",
+    "form": "μεμψάμενος",
+    "postag": "v-sapmmn-",
+    "sentence": "ὡς δὲ ὁ Ἱερεμίας ἔγνω, μεμψάμενος αὐτοῖς εἶπεν ὅτι καὶ ἄγνωστος ὁ τόπος ἔσται, ἕως ἂν συναγάγῃ ὁ Θεὸς ἐπισυναγωγὴν τοῦ λαοῦ καὶ ἵλεως γένηται ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "41.7",
+    "form": "μέμψεται",
+    "postag": "v3sfim---",
+    "sentence": "πατρὶ ἀσεβεῖ μέμψεται τέκνα, ὅτι δι’ αὐτὸν ὀνειδισθήσονται."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 4,
+  "works": {
+   "To Diognetus": 1,
+   "Hermas, Pastor": 3
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.10.4",
+    "form": "μέμψασθαι",
+    "postag": "v--anm---",
+    "sentence": "ἐὰν ἔλθη ὁ κύριος ἐπισκέψασθαι τὸν πύργον, οὐκ ἔχει ἡμῖν οὐδὲν μέμψασθαι."
+   },
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "12",
+    "form": "μεμφόμενος",
+    "postag": "v-sppmmn-",
+    "sentence": "ἣν δύναμιν ἐνιδὼν ὁ ἀπόστολος τήν τε ἄνευ ἀληθείας προστάγματος εἰς ζωὴν ἀσκουμένην γνῶσιν μεμφόμενος λέγει ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "27.3.3",
+    "form": "μέμφεταί",
+    "postag": "v3spim---",
+    "sentence": "καὶ ὥσπερ οὗτος, ᾧ παρέδωκάς με, οὐ μέμφεταί με, οὐ-δὲ αὗται μέμψονταί με."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "27.3.3",
+    "form": "μέμψονταί",
+    "postag": "v3pfim---",
+    "sentence": "καὶ ὥσπερ οὗτος, ᾧ παρέδωκάς με, οὐ μέμφεταί με, οὐ-δὲ αὗται μέμψονταί με."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   ** μέμφομαι,    [in LXX: Si 11:7 41:7, II Mac 2:7*;]    to blame, find fault: absol., Ro 9:19; c. acc., αὐτούς (WH, txt.; αὐτοῖς, Rec., WH, mg.; on rendering with αὐτοῖς v. Westc., in l.), He 8:8.†"
+}

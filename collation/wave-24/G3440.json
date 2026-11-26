@@ -1,0 +1,245 @@
+{
+ "strong": "G3440",
+ "lemma": "μόνον",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": "μονος",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MAT 10:42",
+   "form": "μόνον",
+   "morph": "ADV",
+   "gloss_en": "only",
+   "gloss_ja": "ただ",
+   "verse": "καὶ ὃς ἂν ποτίσῃ ἕνα τῶν μικρῶν τούτων ποτήριον ψυχροῦ μόνον εἰς ὄνομα μαθητοῦ, ἀμὴν λέγω ὑμῖν, οὐ μὴ ἀπολέσῃ τὸν μισθὸν αὐτοῦ."
+  },
+  {
+   "ref": "PHP 1:29",
+   "form": "μόνον",
+   "morph": "ADV",
+   "gloss_en": "only",
+   "gloss_ja": "ただ",
+   "verse": "ὅτι ὑμῖν ἐχαρίσθη τὸ ὑπὲρ Χριστοῦ, οὐ μόνον τὸ εἰς αὐτὸν πιστεύειν ἀλλὰ καὶ τὸ ὑπὲρ αὐτοῦ πάσχειν,"
+  }
+ ],
+ "lxx": {
+  "total": 63,
+  "works": {
+   "Genesis": 9,
+   "Exodus": 2,
+   "Deuteronomium": 1,
+   "Judices": 3,
+   "Regnorum ii": 1,
+   "Paralipomenon ii sive Chronicon ii": 1,
+   "Esther": 4,
+   "Judith": 1,
+   "Tobias": 3,
+   "Machabaeorum i": 2,
+   "Machabaeorum ii": 4,
+   "Machabaeorum iii": 4,
+   "Machabaeorum iv": 16,
+   "Job": 2,
+   "Sapientia Salomonis": 6,
+   "Ecclesiasticus sive Siracides": 4
+  },
+  "representatives": [
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "2.4",
+    "form": "μόνον",
+    "postag": "d--------",
+    "sentence": "οὐ μόνον δὲ τὴν τῆς ἡδυπαθείας οἰστρηλασίαν ἐπικρατεῖν ὁ λογισμὸς φαίνεται, ἀλλὰ καὶ πάσης ἐπιθυμίας."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "2.18",
+    "form": "μόνον",
+    "postag": "d--------",
+    "sentence": "οὐ καλὸν εἶναι τὸν ἄνθρωπον μόνον ·"
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "19.15",
+    "form": "μόνον",
+    "postag": "d--------",
+    "sentence": "καὶ οὐ μόνον, ἀλλ’ ἤ τις ἐπισκοπὴ ἔσται αὐτῶν, ἐπεὶ ἀπεχθῶς προσεδέχοντο τοὺς ἀλλοτρίους ·"
+   },
+   {
+    "work_code": "EST",
+    "work_ja": "エステル記",
+    "work_src": "Esther",
+    "ref": "8.12φ",
+    "form": "μόνον",
+    "postag": "d--------",
+    "sentence": "οὐ μόνον ἀνθρώποις ἄβατος, ἀλλὰ καὶ θηρίοις καὶ πετεινοῖς εἰς τὸν ἅπαντα χρόνον ἔχθιστος κατασταθήσεται."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "4.35",
+    "form": "μόνον",
+    "postag": "d--------",
+    "sentence": "δι’ ἣν αἰτίαν οὐ μόνον Ἰουδαῖοι, πολλοὶ δὲ καὶ τῶν ἄλλων ἐθνῶν ἐδείναζον καὶ ἐδυσφόρουν ἐπὶ τῷ τοῦ ἀνδρὸς ἀδίκῳ φόνῳ."
+   },
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "1.29",
+    "form": "μόνον",
+    "postag": "d--------",
+    "sentence": "δοκεῖν γὰρ ἦν μὴ μόνον τοὺς ἀνθρώπους, ἀλλὰ καὶ τὰ τείχη καὶ τὸ πᾶν ἔδαφος ἠχεῖν, ἅτε δὴ τῶν πάντων τότε θάνατον ἀλλασσομένων ἀντὶ τῆς τοῦ τόπου βεβηλώσεως."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "37.1",
+    "form": "μόνον",
+    "postag": "d--------",
+    "sentence": "ἐφιλίασα αὐτῷ κα-κἀγώ, ἀλλ’ ἔστι φίλος ὀνόματι μόνον φίλος."
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "6.40",
+    "form": "μόνον",
+    "postag": "d--------",
+    "sentence": "καὶ ἐγένετο ξηρασία ἐπὶ τὸν πόκον μόνον, καὶ ἐπὶ πᾶσαν τὴν γῆν ἐγενήθη δρόσος."
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "5.8",
+    "form": "μόνον",
+    "postag": "d--------",
+    "sentence": "καὶ εἶπεν αὐτῷ Ἰδοὺ ἐγὼ προσκαρτερῶ, μόνον μὴ χρονίσῃς."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "22.27",
+    "form": "μόνον",
+    "postag": "a-s---nn-",
+    "sentence": "ἔστι γὰρ τοῦτο περιβόλαιον αὐτοῦ, μόνον τοῦτο τὸ ἱμάτιον ἀσχημοσύνης αὐτοῦ ·"
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "6.25",
+    "form": "μόνον",
+    "postag": "d--------",
+    "sentence": "καὶ οὐκ ἐφ’ ἡμᾶς μόνον ἐξέτειναν χεῖρα, ἀλλὰ καὶ ἐπὶ πάντα τὰ ὅρια αὐτῶν ·"
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "19.2",
+    "form": "μόνον",
+    "postag": "d--------",
+    "sentence": "γνῶτε μόνον ὅτι ὁ Κύριος ἐποίησέ με οὕτως ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 49,
+  "works": {
+   "Barnabas": 1,
+   "1 Clement": 10,
+   "2 Clement": 6,
+   "To Diognetus": 2,
+   "Hermas, Pastor": 13,
+   "Ignatius, Letters": 12,
+   "Martyrdom of Polycarp": 4,
+   "Polycarp, To the Philippians": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.16.7",
+    "form": "μόνον",
+    "postag": "d--------",
+    "sentence": "μόνον δὲ τὴν σφραγῖδα ταύτην οὐκ εἶχον."
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "1.11.1",
+    "form": "μόνον",
+    "postag": "d--------",
+    "sentence": "μόνον ἐν Χριστῷ Ἰησοῦ εὑρεθῆναι εἰς τὸ ἀληθινὸν ζῆν."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "35.6",
+    "form": "μόνον",
+    "postag": "d--------",
+    "sentence": "οὐ μόνον δὲ οἱ πράσσοντες αὐτά, ἀλλά καὶ οἱ συνευδοκοῦντες αὐτοῖς."
+   },
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "4.1",
+    "form": "μόνον",
+    "postag": "d--------",
+    "sentence": "μὴ μόνον οὖν αὐτὸν καλῶμεν κύριον ·"
+   },
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "1.2",
+    "form": "μόνον",
+    "postag": "d--------",
+    "sentence": "ἀγάπης γὰρ ἀληθοῦς καὶ βεβαίας ἐστίν, μὴ μόνον ἑαυτὸν θέλειν σώζεσθαι, ἀλλὰ καὶ πάντας τοὺς ἀδελφούς."
+   },
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "2",
+    "form": "μόνον",
+    "postag": "d--------",
+    "sentence": "ἴδε μὴ μόνον τοῖς ὀφθαλμοῖς, ἀλλὰ καὶ τῇ φρονήσει, τίνος ὑποστάσεως ἢ τίνος εἴδους τυγχάνουσιν, οὓς ἐρεῖτε καὶ νομίζετε θεούς."
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "12.8",
+    "form": "μόνον",
+    "postag": "d--------",
+    "sentence": "τί λέγει πάλιν Μωϋσῆς Ἰησοῦ, υἱῷ Ναυή, ἐπιθεὶς αὐτῷ τοῦτο τὸ ὄνομα, ὄντι προφήτῃ, ἵνα μόνον ἀκούσῃ πᾶς ὁ λαός;"
+   },
+   {
+    "work_code": "PPH",
+    "work_ja": "ポリュカルポスのピリピ書簡",
+    "work_src": "Polycarp, To the Philippians",
+    "ref": "9.1",
+    "form": "μόνον",
+    "postag": "d--------",
+    "sentence": "παρακαλῶ οὖν πάντας ὑμᾶς, πειθαρχεῖν τῷ λόγῳ τῆς δικαιοσύνης καὶ ἀσκεῖν πᾶσαν ὑπομονήν, ἣν καὶ εἴδατε κατ’ ὀφθαλμοὺς οὐ μόνον ἐν τοῖς μακαρίοις Ἰγνατίῳ καὶ Ζωσίμῳ καὶ Ῥούφῳ, ἀλλὰ καὶ ἐν ἄλλοις τοῖς ἐξ ὑμῶν καὶ ἐν αὐτῷ Παύλῳ καὶ τοῖς λοιποῖς ἀποστόλοις ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   μόνον, v.s. μόνος."
+}

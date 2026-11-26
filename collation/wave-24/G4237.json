@@ -1,0 +1,49 @@
+{
+ "strong": "G4237",
+ "lemma": "πρασιά",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MRK 6:40",
+   "form": "πρασιαὶ",
+   "morph": "N-NPF",
+   "gloss_en": "* group ~",
+   "gloss_ja": "列",
+   "verse": "καὶ ἀνέπεσαν πρασιαὶ πρασιαὶ κατὰ ἑκατὸν καὶ κατὰ πεντήκοντα."
+  },
+  {
+   "ref": "MRK 6:40",
+   "form": "πρασιαὶ",
+   "morph": "N-NPF",
+   "gloss_en": "* by group",
+   "gloss_ja": "列",
+   "verse": "καὶ ἀνέπεσαν πρασιαὶ πρασιαὶ κατὰ ἑκατὸν καὶ κατὰ πεντήκοντα."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Ecclesiasticus sive Siracides": 1
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "24.31",
+    "form": "πρασιάν",
+    "postag": "n-s---fa-",
+    "sentence": "ποτιῶ μου τὸν κῆπον καὶ μεθύσω μου τὴν πρασιάν ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   ** πρασιά, -ᾶς, ἡ,    [in LXX: Si 24:31*;]    a garden-bed; metaph., of ranks or orderly groups of persons: Mk 6:40.†"
+}

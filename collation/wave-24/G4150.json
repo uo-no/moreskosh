@@ -1,0 +1,175 @@
+{
+ "strong": "G4150",
+ "lemma": "πλύνω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "REV 22:14",
+   "form": "πλύνοντες",
+   "morph": "V-PAP-NPM",
+   "gloss_en": "wash",
+   "gloss_ja": "洗う",
+   "verse": "Μακάριοι οἱ πλύνοντες τὰς στολὰς αὐτῶν, ἵνα ἔσται ἡ ἐξουσία αὐτῶν ἐπὶ τὸ ξύλον τῆς ζωῆς καὶ τοῖς πυλῶσιν εἰσέλθωσιν εἰς τὴν πόλιν."
+  },
+  {
+   "ref": "REV 7:14",
+   "form": "ἔπλυναν",
+   "morph": "V-AAI-3P",
+   "gloss_en": "washed",
+   "gloss_ja": "洗う",
+   "verse": "καὶ εἴρηκα αὐτῷ· Κύριέ μου, σὺ οἶδας. καὶ εἶπέν μοι· Οὗτοί εἰσιν οἱ ἐρχόμενοι ἐκ τῆς θλίψεως τῆς μεγάλης, καὶ ἔπλυναν τὰς στολὰς αὐτῶν καὶ ἐλεύκαναν αὐτὰς ἐν τῷ αἵματι τοῦ ἀρνίου."
+  }
+ ],
+ "lxx": {
+  "total": 50,
+  "works": {
+   "Genesis": 1,
+   "Exodus": 3,
+   "Leviticus": 34,
+   "Numeri": 8,
+   "Paralipomenon ii sive Chronicon ii": 1,
+   "Psalmi": 2,
+   "Malachias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "13.6",
+    "form": "πλυνάμενος",
+    "postag": "v-sapmmn-",
+    "sentence": "καὶ πλυνάμενος τὰ ἱμάτια αὐτοῦ καθαρὸς ἔσται."
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "19.10",
+    "form": "πλυνεῖ",
+    "postag": "v3sfia---",
+    "sentence": "καὶ ὁ συνάγων τὴν σποδιὰν τῆς δαμάλεως πλυνεῖ τὰ ἱμάτια αὐτοῦ καὶ ἀκάθαρτος ἔσται ἕως ἑσπέρας."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "19.14",
+    "form": "ἔπλυναν",
+    "postag": "v3paia---",
+    "sentence": "κατέβη δὲ Μωυσῆς ἐκ τοῦ ὄρους πρὸς τὸν λαὸν καὶ ἡγίασεν αὐτούς, καὶ ἔπλυναν τὰ ἱμάτια."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "50.4",
+    "form": "πλῦνόν",
+    "postag": "v2sama---",
+    "sentence": "ἐπὶ πλεῖον πλῦνόν με ἀπὸ τῆς ἀνομίας μου καὶ ἀπὸ τῆς ἁμαρτίας μου καθάρισόν με."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "49.11",
+    "form": "πλυνεῖ",
+    "postag": "v3sfia---",
+    "sentence": "πλυνεῖ ἐν οἴνῳ τὴν στολὴν αὐτοῦ καὶ ἐν αἵματι σταφυλῆς τὴν περιβολὴν αὐτοῦ ·"
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "4.6",
+    "form": "πλύνειν",
+    "postag": "v--pna---",
+    "sentence": "καὶ ἐποίησε λουτῆρας δέκα καὶ ἔθηκε τοὺς πέντε ἐκ δεξιῶν καὶ τοὺς πέντε ἐξ ἀριστερῶν τοῦ πλύνειν ἐν αὐτοῖς τὰ ἔργα τῶν ὁλοκαυτωμάτων καὶ ἀποκλύζειν ἐν αὐτοῖς ·"
+   },
+   {
+    "work_code": "MAL",
+    "work_ja": "マラキ書",
+    "work_src": "Malachias",
+    "ref": "3.2",
+    "form": "πλυνόντων",
+    "postag": "v-pppamg-",
+    "sentence": "διότι αὐτός εἰσπορεύεται ὡς πῦρ χωνευτηρίου καὶ ὡς ποιὰ πλυνόντων."
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "1.13",
+    "form": "πλυνοῦσιν",
+    "postag": "v3pfia---",
+    "sentence": "καὶ τὰ ἐγκοίλια καὶ τοὺς πόδας πλυνοῦσιν ὕδατι."
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "31.24",
+    "form": "πλυνεῖσθε",
+    "postag": "v2pfim---",
+    "sentence": "καὶ πλυνεῖσθε τὰ ἱμάτια τῇ ἡμέρᾳ τῇ ἑβδόμῃ καὶ καθαρισθήσεσθε καὶ μετὰ ταῦτα εἰσελεύσεσθε εἰς τὴν παρεμβολήν."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "19.10",
+    "form": "πλυνάτωσαν",
+    "postag": "v3pama---",
+    "sentence": "καταβὰς διαμάρτυραι τῷ λαῷ καὶ ἅγνισον αὐτοὺς σήμερον καὶ αὔριον, καὶ πλυνάτωσαν τὰ ἱμάτια ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "50.9",
+    "form": "πλυνεῖς",
+    "postag": "v2sfia---",
+    "sentence": "ραντιεῖς με ὑσσώπῳ, καὶ καθαρισθήσομαι, πλυνεῖς με, καὶ ὑπὲρ χιόνα λευκανθήσομαι."
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "17.16",
+    "form": "πλύνῃ",
+    "postag": "v3sasa---",
+    "sentence": "ἐὰν δὲ μὴ πλύνῃ τὰ ἱμάτια καὶ τὸ σῶμα μὴ λούσηται ὕδατι, καὶ λήψεται ἀνόμημα αὐτοῦ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "1 Clement": 2
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "18.7",
+    "form": "πλυνεῖς",
+    "postag": "v2sfia---",
+    "sentence": "πλυνεῖς με, καὶ ὑπὲρ χιόνα λευκανθήσομαι."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "18.3",
+    "form": "πλῦνόν",
+    "postag": "v2sama---",
+    "sentence": "ἐπὶ πλεῖον πλῦνόν με ἀπὸ τῆς ἀνομίας μου, καὶ ἀπὸ τῆς ἁμαρτίας μου καθάρισόν με ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3   πλύνω.    [in LXX chiefly for כּבס pi.;]    to wash (inanimate objects, esp. clothing): τ. δίκτυα, Lk 5:2. Fig., τ. στολάς, Re 7:14 22:14 (cf. Ps 50 (51):4, 9 and v.s. ἀπο-πλύνω).†   SYN.: v.s. λούω."
+}

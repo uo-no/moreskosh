@@ -1,0 +1,192 @@
+{
+ "strong": "G4157",
+ "lemma": "πνοή",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 17:25",
+   "form": "πνοὴν",
+   "morph": "N-ASF",
+   "gloss_en": "breath",
+   "gloss_ja": "息",
+   "verse": "οὐδὲ ὑπὸ χειρῶν ἀνθρωπίνων θεραπεύεται προσδεόμενός τινος, αὐτὸς διδοὺς πᾶσι ζωὴν καὶ πνοὴν καὶ τὰ πάντα·"
+  },
+  {
+   "ref": "ACT 2:2",
+   "form": "πνοῆς",
+   "morph": "N-GSF",
+   "gloss_en": "wind",
+   "gloss_ja": "息",
+   "verse": "καὶ ἐγένετο ἄφνω ἐκ τοῦ οὐρανοῦ ἦχος ὥσπερ φερομένης πνοῆς βιαίας καὶ ἐπλήρωσεν ὅλον τὸν οἶκον οὗ ἦσαν καθήμενοι,"
+  }
+ ],
+ "lxx": {
+  "total": 25,
+  "works": {
+   "Genesis": 2,
+   "Regnorum ii": 1,
+   "Regnorum iii": 1,
+   "Esdras ii": 1,
+   "Machabaeorum ii": 2,
+   "Psalmi": 1,
+   "Odae": 1,
+   "Proverbia": 4,
+   "Job": 5,
+   "Sapientia Salomonis": 1,
+   "Ecclesiasticus sive Siracides": 1,
+   "Isaias": 3,
+   "Ezechiel": 1,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "26.4",
+    "form": "πνοὴ",
+    "postag": "n-s---fn-",
+    "sentence": "πνοὴ δὲ τίνος ἐστὶν ἡ ἐλθοῦσα ἐκ σοῦ;"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "11.13",
+    "form": "πνοῇ",
+    "postag": "n-s---fd-",
+    "sentence": "ἀνὴρ δίγλωσσος ἀποκαλύπτει βουλὰς ἐν συνεδρίῳ, πιστὸς δὲ πνοῇ κρύπτει πράγματα."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "57.16",
+    "form": "πνοὴν",
+    "postag": "n-s---fa-",
+    "sentence": "πνεῦμα γὰρ παρ’ ἐμοῦ ἐξελεύσεται καὶ πνοὴν πᾶσαν ἐγὼ ἐποίησα."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "7.22",
+    "form": "πνοὴν",
+    "postag": "n-s---fa-",
+    "sentence": "καὶ πάντα, ὅσα ἔχει πνοὴν ζωῆς, καὶ πᾶς, ὃς ἦν ἐπὶ τῆς ξηρᾶς, ἀπέθανε."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "7.9",
+    "form": "πνοῇ",
+    "postag": "n-s---fd-",
+    "sentence": "ἐν ἐσχάτῃ δὲ πνοῇ γενόμενος εἶπε ·"
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "22.16",
+    "form": "πνοῆς",
+    "postag": "n-s---fg-",
+    "sentence": "καὶ ὤφθησαν ἀφέσεις θαλάσσης, καὶ ἀπεκαλύφθη θεμέλια τῆς οἰκουμένης ἐν τῇ ἐπιτιμήσει Κυρίου, ἀπὸ πνοῆς πνεύματος θυμοῦ αὐτοῦ."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "15.29",
+    "form": "πνοὴν",
+    "postag": "n-s---fa-",
+    "sentence": "καὶ ἐγένετο ὡς ἐβασίλευσε, καὶ ἐπάταξεν ὅλον τὸν οἶκον Ἱεροβοὰμ καὶ οὐχ ὑπελίπετο πᾶσαν πνοὴν τοῦ Ἱεροβοὰμ ἕως τοῦ ἐξολοθρεῦσαι αὐτὸν κατὰ τὸ ρῆμα Κυρίου, ὃ ἐλάλησεν ἐν χειρὶ δούλου αὐτοῦ Ἀχιὰ τοῦ Σηλωνίτου περὶ τῶν ἁμαρτιῶν Ἱεροβοάμ, ὡς ἐξήμαρτε τὸν Ἰσραήλ, καὶ ἐν τῷ παροργισμῷ αὐτοῦ, ᾧ παρώργισε τὸν Κύριον Θεὸν τοῦ Ἰσραήλ."
+   },
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "16.1",
+    "form": "πνοή",
+    "postag": "n-s---fn-",
+    "sentence": "καὶ ἐγένετο καθὼς ἠκούσθη τῷ Σαναβαλλὰτ καὶ Τωβίᾳ καὶ τῷ Γησὰμ τῷ Ἀραβὶ καὶ τοῖς καταλοίποις ἐχθρῶν ἡμῶν ὅτι ᾠκοδόμησα τὸ τεῖχος, καὶ οὐ κατελείφθη ἐν αὐτοῖς πνοή."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "150.6",
+    "form": "πνοὴ",
+    "postag": "n-s---fn-",
+    "sentence": "πᾶσα πνοὴ αἰνεσάτω τὸν Κύριον."
+   },
+   {
+    "work_code": "ODE",
+    "work_ja": "頌歌（オード）",
+    "work_src": "Odae",
+    "ref": "7.16",
+    "form": "πνοήν",
+    "postag": "n-s---fa-",
+    "sentence": "κύριε, περὶ αὐτῆς γὰρ ἀνηγγέλη σοι, καὶ ἐξήγειράς μου τὴν πνοήν, καὶ παρακληθεὶς ἔζησα ·"
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "2.2",
+    "form": "πνοὴ",
+    "postag": "n-s---fn-",
+    "sentence": "ὅτι καπνὸς ἡ πνοὴ ἐν ρισὶν ἡμῶν, καὶ ὁ λόγος σπινθὴρ ἐν κινήσει καρδίας ἡμῶν, οὗ σβεσθέντος τέφρα ἀποβήσεται τὸ σῶμα καὶ τὸ πνεῦμα διαχυθήσεται ὡς χαῦνος ἀήρ."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "33.21",
+    "form": "πνοὴ",
+    "postag": "n-s---fn-",
+    "sentence": "ἕως ἔτι ζῇς καὶ πνοὴ ἐν σοί, μὴ ἀλλάξῃς σεαυτὸν πάσῃ σαρκί."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 3,
+  "works": {
+   "1 Clement": 2,
+   "Polycarp, To the Philippians": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "21.9",
+    "form": "πνοὴ",
+    "postag": "n-s---fn-",
+    "sentence": "οὗ ἡ πνοὴ αὐτοῦ ἐν ἡμῖν ἐστίν, καὶ ὅταν θέλῃ, ἀνελεῖ αὐτήν."
+   },
+   {
+    "work_code": "PPH",
+    "work_ja": "ポリュカルポスのピリピ書簡",
+    "work_src": "Polycarp, To the Philippians",
+    "ref": "2.1",
+    "form": "πνοὴ",
+    "postag": "n-s---fn-",
+    "sentence": "ᾧ ὑπετάγη τὰ πάντα ἐπουράνια καὶ ἐπίγεια, ᾧ πᾶσα πνοὴ λατρεύει, ὃς ἔρχεται κριτὴς ζώντων καὶ νεκρῶν, οὖ τὸ αἷμα ἐκζητήσει ὁ θεὸς ἀπὸ τῶν ἀπειθούντων αὐτῷ."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "57.3",
+    "form": "πνοῆς",
+    "postag": "n-s---fg-",
+    "sentence": "ἰδού, προήσομαι ὑμῖν ἐμῆς πνοῆς ῥῆσιν, διδάξω δὲ ὑμᾶς τὸν ἐμὸν λόγον."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   πνοή, -ῆς, ἡ    (< πνέω),   [in LXX chiefly for נְשָׁמָה;]      a blowing, blast, wind: Ac 2:2.     a breathing, breath: Ac 17:25 (Ge 2:7, al.).†"
+}

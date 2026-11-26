@@ -1,0 +1,180 @@
+{
+ "strong": "G3949",
+ "lemma": "παροργίζω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "EPH 6:4",
+   "form": "παροργίζετε",
+   "morph": "V-PAM-2P",
+   "gloss_en": "provoke ~ toanger",
+   "gloss_ja": "怒らせる",
+   "verse": "Καὶ οἱ πατέρες, μὴ παροργίζετε τὰ τέκνα ὑμῶν, ἀλλὰ ἐκτρέφετε αὐτὰ ἐν παιδείᾳ καὶ νουθεσίᾳ κυρίου."
+  },
+  {
+   "ref": "ROM 10:19",
+   "form": "παροργιῶ",
+   "morph": "V-FAI-1S",
+   "gloss_en": "make ~ angry",
+   "gloss_ja": "怒らせる",
+   "verse": "ἀλλὰ λέγω, μὴ Ἰσραὴλ οὐκ ἔγνω; πρῶτος Μωϋσῆς λέγει· Ἐγὼ παραζηλώσω ὑμᾶς ἐπ’ οὐκ ἔθνει, ἐπ’ ἔθνει ἀσυνέτῳ παροργιῶ ὑμᾶς."
+  }
+ ],
+ "lxx": {
+  "total": 61,
+  "works": {
+   "Deuteronomium": 3,
+   "Judices": 1,
+   "Regnorum ii": 2,
+   "Regnorum iii": 11,
+   "Regnorum iv": 7,
+   "Paralipomenon ii sive Chronicon ii": 4,
+   "Esdras ii": 1,
+   "Judith": 2,
+   "Psalmi": 5,
+   "Odae": 3,
+   "Job": 1,
+   "Ecclesiasticus sive Siracides": 4,
+   "Psalmi Salomonis": 2,
+   "Osee": 1,
+   "Michaeas": 1,
+   "Zacharias": 1,
+   "Isaias": 1,
+   "Jeremias": 5,
+   "Baruch": 1,
+   "Ezechiel": 4,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "14.15",
+    "form": "παροργίζοντες",
+    "postag": "v-pppamn-",
+    "sentence": "ἀνθ’ οὗ ὅσον ἐποίησαν τὰ ἄλση αὐτῶν παροργίζοντες τὸν Κύριον ·"
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "23.26",
+    "form": "παρώργισεν",
+    "postag": "v3saia---",
+    "sentence": "πλὴν οὐκ ἀπεστράφη Κύριος ἀπὸ θυμοῦ τῆς ὀργῆς αὐτοῦ τῆς μεγάλης, οὗ ἐθυμώθη ὀργῇ αὐτοῦ ἐν τῷ Ἰούδᾳ ἐπὶ τοὺς παροργισμούς, οὓς παρώργισεν αὐτὸν Μανασσῆς."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "105.16",
+    "form": "παρώργισαν",
+    "postag": "v3paia---",
+    "sentence": "καὶ παρώργισαν Μωυσῆν ἐν τῇ παρεμβολῇ, τὸν Ἀαρὼν τὸν ἅγιον Κυρίου ·"
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "8.19",
+    "form": "παρώργισάν",
+    "postag": "v3paia---",
+    "sentence": "διατί παρώργισάν με ἐν τοῖς γλυπτοῖς αὐτῶν καὶ ἐν ματαίοις ἀλλοτρίοις;"
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "33.6",
+    "form": "παροργίσαι",
+    "postag": "v--ana---",
+    "sentence": "καὶ ἐπλήθυνε τοῦ ποιῆσαι τὸ πονηρὸν ἐναντίον Κυρίου τοῦ παροργίσαι αὐτόν."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "4.2",
+    "form": "παροργίσῃς",
+    "postag": "v2sasa---",
+    "sentence": "ψυχὴν πεινῶσαν μὴ λυπήσῃς καὶ μὴ παροργίσῃς ἄνδρα ἐν ἀπορίᾳ αὐτοῦ."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "32.9",
+    "form": "παροργιῶ",
+    "postag": "v1sfia---",
+    "sentence": "καὶ παροργιῶ καρδίαν λαῶν πολλῶν, ἡνίκα ἂν ἄγω αἰχμαλωσίαν σου εἰς τὰ ἔθνη, εἰς γῆν, ἣν οὐκ ἔγνως."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "32.21",
+    "form": "παροργιῶ",
+    "postag": "v1sfia---",
+    "sentence": "κα-κἀγὼ παραζηλώσω αὐτοὺς ἐπ’ οὐκ ἔθνει, ἐπὶ ἔθνει ἀσυνέτῳ παροργιῶ αὐτούς."
+   },
+   {
+    "work_code": "ODE",
+    "work_ja": "頌歌（オード）",
+    "work_src": "Odae",
+    "ref": "8.10",
+    "form": "παρώργισα",
+    "postag": "v1saia---",
+    "sentence": "σὺ οὖν, κύριε ὁ θεὸς τῶν δικαίων, οὐκ ἔθου μετάνοιαν δικαίοις, τῷ Αβρααμ καὶ Ισαακ καὶ Ιακωβ τοῖς οὐχ ἡμαρτηκόσιν σοι, ἀλλ’ ἔθου μετάνοιαν ἐμοὶ τῷ ἁμαρτωλῷ, διότι ἥμαρτον ὑπὲρ ἀριθμὸν ψάμμου θαλάσσης, ἐπλήθυναν αἱ ἀνομίαι μου, κύριε, ἐπλήθυναν, καὶ οὐκ εἰμὶ ἄξιος ἀτενίσαι καὶ ἰδεῖν τὸ ὕψος τοῦ οὐρανοῦ ἀπὸ πλήθους τῶν ἀδικιῶν μου κατακαμπτόμενος πολλῷ δεσμῷ σιδήρου εἰς τὸ ἀνανεῦσαί με ὑπὲρ ἁμαρτιῶν μου, καὶ οὐκ ἔστιν μοι ἄνεσις, διότι παρώργισα τὸν θυμόν σου καὶ τὸ πονηρὸν ἐνώπιόν σου ἐποίησα στήσας βδελύγματα καὶ πληθύνας προσοχθίσματα."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "12.14",
+    "form": "παροργίζων",
+    "postag": "v-sppamn-",
+    "sentence": "πλὴν ὅτι παροργίζων παρώργισας τοὺς ἐχθροὺς Κυρίου ἐν τῷ ρήματι τούτῳ, καί γε ὁ υἱός σου ὁ τεχθείς σοι θανάτῳ ἀποθανεῖται."
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "8.14",
+    "form": "παροργίζετε",
+    "postag": "v2ppma---",
+    "sentence": "μηδαμῶς, ἀδελφοί, μὴ παροργίζετε Κύριον τὸν Θεὸν ἡμῶν ·"
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "4.1",
+    "form": "παροργίζων",
+    "postag": "v-sppamn-",
+    "sentence": "ἵνα τί σύ, βέβηλε, κάθησαι ἐν συνεδρίῳ ὁσίων καὶ ἡ καρδία σου μακρὰν ἀφέστηκεν ἀπὸ τοῦ κυρίου ἐν παρανομίαις παροργίζων τὸν θεὸν Ισραηλ;"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "3.6.1",
+    "form": "παρώργισαν",
+    "postag": "v3paia---",
+    "sentence": "διὰ τοῦτο συνεκόπησαν καὶ πόρρω ἀπερίφησαν διὰ τὴν ὀργὴν τοῦ κυρίου, ὅτι παρώργισαν αὐτόν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   παρ-οργίζω,    [in LXX chiefly for כּעס hi.;]    (in cl., passive only), to provoke to anger: Ro 10:19(LXX), Eph 6:4.†"
+}

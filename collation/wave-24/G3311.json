@@ -1,0 +1,116 @@
+{
+ "strong": "G3311",
+ "lemma": "μερισμός",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "HEB 2:4",
+   "form": "μερισμοῖς",
+   "morph": "N-DPM",
+   "gloss_en": "gifts",
+   "gloss_ja": "分割",
+   "verse": "συνεπιμαρτυροῦντος τοῦ θεοῦ σημείοις τε καὶ τέρασιν καὶ ποικίλαις δυνάμεσιν καὶ πνεύματος ἁγίου μερισμοῖς κατὰ τὴν αὐτοῦ θέλησιν;"
+  },
+  {
+   "ref": "HEB 4:12",
+   "form": "μερισμοῦ",
+   "morph": "N-GSM",
+   "gloss_en": "division",
+   "gloss_ja": "分割",
+   "verse": "Ζῶν γὰρ ὁ λόγος τοῦ θεοῦ καὶ ἐνεργὴς καὶ τομώτερος ὑπὲρ πᾶσαν μάχαιραν δίστομον καὶ διϊκνούμενος ἄχρι μερισμοῦ ψυχῆς καὶ πνεύματος, ἁρμῶν τε καὶ μυελῶν, καὶ κριτικὸς ἐνθυμήσεων καὶ ἐννοιῶν καρδίας·"
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Josue": 1,
+   "Esdras ii": 1
+  },
+  "representatives": [
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "11.23",
+    "form": "μερισμῷ",
+    "postag": "n-s---md-",
+    "sentence": "καὶ ἔλαβεν Ἰησοῦς πᾶσαν τὴν γῆν, καθότι ἐνετείλατο Κύριος τῷ Μωυσῇ καὶ ἔδωκεν αὐτοὺς Ἰησοῦς ἐν κληρονομίᾳ Ἰσραὴλ ἐν μερισμῷ κατὰ φυλὰς αὐτῶν."
+   },
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "6.18",
+    "form": "μερισμοῖς",
+    "postag": "n-p---md-",
+    "sentence": "καὶ ἔστησαν τοὺς ἱερεῖς ἐν διαιρέσεσιν αὐτῶν καὶ τοὺς Λευίτας ἐν μερισμοῖς αὐτῶν ἐπὶ δουλείᾳ Θεοῦ τοῦ ἐν Ἱερουσαλὴμ κατὰ τὴν γραφὴν βίβλου Μωυσῆ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 6,
+  "works": {
+   "Ignatius, Letters": 6
+  },
+  "representatives": [
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "5.8.1",
+    "form": "μερισμός",
+    "postag": "n-s---mn-",
+    "sentence": "οὗ δὲ μερισμός ἐστιν καὶ ὀργή."
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "6.7.2",
+    "form": "μερισμοὺς",
+    "postag": "n-p---ma-",
+    "sentence": "τοὺς δὲ μερισμοὺς φεύγετε ὡς ἀρχὴν κακῶν."
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "5.3.1",
+    "form": "μερισμὸν",
+    "postag": "n-s---ma-",
+    "sentence": "οὐχ ὅτι παρ’ ὑμῖν μερισμὸν εὗρον, ἀλλ’ ἀποδιϋλισμόν."
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "5.7.2",
+    "form": "μερισμόν",
+    "postag": "n-s---ma-",
+    "sentence": "οἱ δὲ ὑποπτεύσαντές με ὡς προειδότα τὸν μερισμόν τινων λέγειν ταῦτα ·"
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "5.2.1",
+    "form": "μερισμὸν",
+    "postag": "n-s---ma-",
+    "sentence": "τέκνα οὖν φωτὸς ἀληθείας, φεύγετε τὸν μερισμὸν καὶ τὰς κακοδιδασκαλίας ·"
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "5.7.2",
+    "form": "μερισμοὺς",
+    "postag": "n-p---ma-",
+    "sentence": "χωρὶς τοῦ ἐπισκόπου μηδὲν ποιεῖτε, τὴν σάρκα ὑμῶν ὡς ναὸν θεοῦ τηρεῖτε, τὴν ἕνωσιν ἀγαπᾶτε, τοὺς μερισμοὺς φεύγετε, μιμηταὶ γίνεσθε Ἰησοῦ Χριστοῦ, ὡς καὶ αὐτὸς τοῦ πατρὸς αὐτοῦ."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   μερισμός, -οῦ, ὁ    (< μερίζω),   [in LXX for מַחֲלֹקֶת, מַחְלְקָה, Jos 11:23, Es 6:18*;]      a dividing, division: ψυχῆς κ. πνεύματος (i.e. between them or of the things themselves, v. Westc., in l.), He 4:12.     a distribution, bestowal (cf. μερίζω, 2); pl., He 2:4.†"
+}

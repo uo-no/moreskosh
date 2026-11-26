@@ -1,0 +1,271 @@
+{
+ "strong": "G4191",
+ "lemma": "πονηρός",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 11:26",
+   "form": "πονηρότερα",
+   "morph": "A-APN-C",
+   "gloss_en": "evil",
+   "gloss_ja": "悪い",
+   "verse": "τότε πορεύεται καὶ παραλαμβάνει ἕτερα πνεύματα πονηρότερα ἑαυτοῦ ἑπτά, καὶ εἰσελθόντα κατοικεῖ ἐκεῖ, καὶ γίνεται τὰ ἔσχατα τοῦ ἀνθρώπου ἐκείνου χείρονα τῶν πρώτων."
+  },
+  {
+   "ref": "MAT 12:45",
+   "form": "πονηρότερα",
+   "morph": "A-APN-C",
+   "gloss_en": "evil",
+   "gloss_ja": "悪い",
+   "verse": "τότε πορεύεται καὶ παραλαμβάνει μεθ’ ἑαυτοῦ ἑπτὰ ἕτερα πνεύματα πονηρότερα ἑαυτοῦ, καὶ εἰσελθόντα κατοικεῖ ἐκεῖ· καὶ γίνεται τὰ ἔσχατα τοῦ ἀνθρώπου ἐκείνου χείρονα τῶν πρώτων. οὕτως ἔσται καὶ τῇ γενεᾷ ταύτῃ τῇ πονηρᾷ."
+  }
+ ],
+ "lxx": {
+  "total": 375,
+  "works": {
+   "Genesis": 25,
+   "Exodus": 1,
+   "Leviticus": 7,
+   "Numeri": 10,
+   "Deuteronomium": 26,
+   "Josue": 1,
+   "Judices": 9,
+   "Regnorum i": 14,
+   "Regnorum ii": 7,
+   "Regnorum iii": 12,
+   "Regnorum iv": 27,
+   "Paralipomenon i sive Chronicon i": 2,
+   "Paralipomenon ii sive Chronicon ii": 15,
+   "Esdras i": 6,
+   "Esdras ii": 12,
+   "Esther": 1,
+   "Judith": 3,
+   "Tobias": 6,
+   "Machabaeorum i": 5,
+   "Machabaeorum ii": 1,
+   "Machabaeorum iii": 1,
+   "Machabaeorum iv": 1,
+   "Psalmi": 17,
+   "Odae": 2,
+   "Proverbia": 7,
+   "Ecclesiastes": 18,
+   "Job": 8,
+   "Sapientia Salomonis": 3,
+   "Ecclesiasticus sive Siracides": 33,
+   "Psalmi Salomonis": 11,
+   "Osee": 3,
+   "Amos": 3,
+   "Michaeas": 3,
+   "Jonas": 2,
+   "Nahum": 1,
+   "Habacuc": 1,
+   "Zacharias": 2,
+   "Malachias": 1,
+   "Isaias": 19,
+   "Jeremias": 33,
+   "Baruch": 4,
+   "Ezechiel": 10,
+   "Daniel": 2
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "14.5",
+    "form": "πονηρὸς",
+    "postag": "a-s---mn-",
+    "sentence": "ὁ πονηρὸς ἑαυτῷ τίνι ἀγαθὸς ἔσται;"
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "2.13",
+    "form": "πονηρὰ",
+    "postag": "a-p---na-",
+    "sentence": "ὅτι δύο καὶ πονηρὰ ἐποίησεν ὁ λαός μου ·"
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "8.18",
+    "form": "πονηρὸν",
+    "postag": "a-s---na-",
+    "sentence": "καὶ ἐποίησε τὸ πονηρὸν ἐνώπιον Κυρίου."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "23.10",
+    "form": "πονηροῦ",
+    "postag": "a-s---ng-",
+    "sentence": "ἐὰν δὲ ἐξέλθῃς παρεμβαλεῖν ἐπὶ τοὺς ἐχθρούς σου, καὶ φυλάξῃ ἀπὸ παντὸς ρήματος πονηροῦ."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "31.24",
+    "form": "πονηρά",
+    "postag": "a-p---na-",
+    "sentence": "φύλαξε σεαυτόν, μήποτε λαλήσῃς μετὰ Ἰακὼβ πονηρά."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "30.4",
+    "form": "πονηροί",
+    "postag": "a-p---mn-",
+    "sentence": "ὅτι εἰσὶν ἐν Τάνει ἀρχηγοὶ ἄγγελοι πονηροί ·"
+   },
+   {
+    "work_code": "ECC",
+    "work_ja": "コヘレトの言葉",
+    "work_src": "Ecclesiastes",
+    "ref": "4.8",
+    "form": "πονηρός",
+    "postag": "a-s---mn-",
+    "sentence": "καί γε τοῦτο ματαιότης καὶ περισπασμὸς πονηρός ἐστι."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "48.6",
+    "form": "πονηρᾷ",
+    "postag": "a-s---fd-",
+    "sentence": "ἱνατί φοβοῦμαι ἐν ἡμέρᾳ πονηρᾷ;"
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "12.14",
+    "form": "πονηρόν",
+    "postag": "a-s---na-",
+    "sentence": "καὶ ἐποίησε τὸ πονηρόν, ὅτι οὐ κατεύθυνε τὴν καρδίαν αὐτοῦ ἐκζητῆσαι τὸν Κύριον."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "16.15",
+    "form": "πονηρὸν",
+    "postag": "a-s---nn-",
+    "sentence": "ἰδοὺ δὴ πνεῦμα Κυρίου πονηρὸν πνίγει σε ·"
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "11.8",
+    "form": "πονηρὸν",
+    "postag": "a-s---na-",
+    "sentence": "καὶ ἐποίησε Σαλωμὼν τὸ πονηρὸν ἐνώπιον Κυρίου ·"
+   },
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "9.13",
+    "form": "πονηροῖς",
+    "postag": "a-p---nd-",
+    "sentence": "καὶ μετὰ πᾶν τὸ ἐρχόμενον ἐφ’ ἡμᾶς ἐν ποιήμασιν ἡμῶν τοῖς πονηροῖς καὶ ἐν πλημμελείᾳ ἡμῶν τῇ μεγάλῃ ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 112,
+  "works": {
+   "Barnabas": 16,
+   "1 Clement": 3,
+   "2 Clement": 3,
+   "Didache": 7,
+   "Hermas, Pastor": 81,
+   "Ignatius, Letters": 1,
+   "Martyrdom of Polycarp": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "13.1.6",
+    "form": "πονηρὰ",
+    "postag": "a-p---nn-",
+    "sentence": "οὐ δοκεῖ σοι ταῦτα πονηρὰ εἶναι;"
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "19.11",
+    "form": "πονηρόν",
+    "postag": "a-s---na-",
+    "sentence": "εἰς τέλος μισήσεις τὸ πονηρόν."
+   },
+   {
+    "work_code": "DID",
+    "work_ja": "ディダケー",
+    "work_src": "Didache",
+    "ref": "2.6",
+    "form": "πονηρὰν",
+    "postag": "a-s---fa-",
+    "sentence": "οὐ λήψῃ βουλὴν πονηρὰν κατὰ τοῦ πλησίον σου."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "16.10",
+    "form": "πονηροὺς",
+    "postag": "a-p---ma-",
+    "sentence": "καὶ δώσω τοὺς πονηροὺς ἀντὶ τῆς ταφῆς αὐτοῦ καὶ τοὺς πλουσίους ἀντὶ τοῦ θανάτου αὐτοῦ ·"
+   },
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "16.2",
+    "form": "πονηράς",
+    "postag": "a-p---fa-",
+    "sentence": "ἐὰν γὰρ ταῖς ἡδυπαθείαις ταύταις ἀποταξώμεθα καὶ τὴν ψυχὴν ἡμῶν νικήσωμεν ἐν τῷ μὴ ποιεῖν τὰς ἐπιθυμίας αὐτῆς τὰς πονηράς, μεταληψόμεθα τοῦ ἐλέους Ἰησοῦ."
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "1.7.1",
+    "form": "πονηρῷ",
+    "postag": "a-s---md-",
+    "sentence": "εἰώθασιν γάρ τινες δόλῳ πονηρῷ τὸ ὄνομα περιφέρειν, ἄλλα τινὰ πράσσοντες ἀνάξια θεοῦ ·"
+   },
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "17.1",
+    "form": "πονηρός",
+    "postag": "a-s---mn-",
+    "sentence": "ὁ δὲ ἀντίζηλος καὶ βάσκανος καὶ πονηρός, ὁ ἀντικείμενος τῷ γένει τῶν δικαίων, ἰδὼν τό τε μέγεθος αὐτοῦ τῆς μαρτυρίας καὶ τὴν ἀπ’ ἀρχῆς ἀνεπίληπτον πολιτείαν, ἐστεφανωμένον τε τὸν τῆς ἀφθαρσίας στέφανον καὶ βραβεῖον ἀναντίρρητον ἀπενηνεγμένον, ἐπετήδευσεν, ὡς μη-δὲ τὸ σωμάτιον αὐτοῦ ὑφ’ ἡμῶν ληφθῆναι, καίπερ πολλῶν ἐπιθυμούντων τοῦτο ποιῆσαι καὶ κοινωνῆσαι τῷ ἁγίῳ αὐτοῦ σαρκίῳ."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "18.1.11",
+    "form": "πονηρὸν",
+    "postag": "a-s---nn-",
+    "sentence": "πονηρὸν γάρ ἐστιν ἀλλοτρίων ἐπιθυμεῖν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": null
+}

@@ -1,0 +1,79 @@
+{
+ "strong": "G2964",
+ "lemma": "κυρόω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2CO 2:8",
+   "form": "κυρῶσαι",
+   "morph": "V-AAN",
+   "gloss_en": "reaffirm",
+   "gloss_ja": "確認する",
+   "verse": "διὸ παρακαλῶ ὑμᾶς κυρῶσαι εἰς αὐτὸν ἀγάπην·"
+  },
+  {
+   "ref": "GAL 3:15",
+   "form": "κεκυρωμένην",
+   "morph": "V-RPP-ASF",
+   "gloss_en": "ratified",
+   "gloss_ja": "確認する",
+   "verse": "Ἀδελφοί, κατὰ ἄνθρωπον λέγω· ὅμως ἀνθρώπου κεκυρωμένην διαθήκην οὐδεὶς ἀθετεῖ ἢ ἐπιδιατάσσεται."
+  }
+ ],
+ "lxx": {
+  "total": 4,
+  "works": {
+   "Genesis": 1,
+   "Leviticus": 1,
+   "Machabaeorum iv": 1,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "23.20",
+    "form": "ἐκυρώθη",
+    "postag": "v3saip---",
+    "sentence": "καὶ ἐκυρώθη ὁ ἀγρὸς καὶ τὸ σπήλαιον, ὃ ἦν ἐν αὐτῷ, τῷ Ἁβραὰμ εἰς κτῆσιν τάφου παρὰ τῶν υἱῶν Χέτ."
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "25.30",
+    "form": "κυρωθήσεται",
+    "postag": "v3sfip---",
+    "sentence": "ἐὰν δὲ μὴ λυτρωθῇ ἕως ἂν πληρωθῇ αὐτῆς ἐνιαυτὸς ὅλος, κυρωθήσεται ἡ οἰκία ἡ οὖσα ἐν πόλει τῇ ἐχούσῃ τεῖχος βεβαίως τῷ κτησαμένῳ αὐτὴν εἰς τὰς γενεὰς αὐτοῦ, καὶ οὐκ ἐξελεύσεται ἐν τῇ ἀφέσει."
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "7.9",
+    "form": "ἐκύρωσας",
+    "postag": "v2saia---",
+    "sentence": "σὺ πάτερ, τὴν εὐνομίαν ἡμῶν διὰ τῶν ὑπομονῶν εἰς δόξαν ἐκύρωσας καὶ τὴν ἁγιστείαν σεμνολογήσας οὐ κατέλυσας καὶ διὰ τῶν ἔργων ἐπιστοποίησας τοὺς τῆς θείας φιλοσοφίας λόγους, ὦ βασάνων βιαιότερε γέρον, καὶ πυρὸς εὐτονώτερε πρεσβῦτα, καὶ παθῶν μέγιστε βασιλεῦ Ἐλεάζαρε."
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "6.10",
+    "form": "ἐκύρωσεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ οὕτως ὁ βασιλεὺς Δαρεῖος ἔστησε καὶ ἐκύρωσεν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   κυρόω, -ῶ    (< κῦρος, 1. authority. 2. validity),   [in LXX for קום;]    to confirm, ratify, make valid: II Co 2:8; pass., Ga 3:15 (cf. προ-κυρόω).†"
+}

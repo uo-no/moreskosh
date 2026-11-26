@@ -1,0 +1,78 @@
+{
+ "strong": "G3783",
+ "lemma": "ὀφείλημα",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MAT 6:12",
+   "form": "ὀφειλήματα",
+   "morph": "N-APN",
+   "gloss_en": "debts",
+   "gloss_ja": "負債",
+   "verse": "καὶ ἄφες ἡμῖν τὰ ὀφειλήματα ἡμῶν, ὡς καὶ ἡμεῖς ἀφήκαμεν τοῖς ὀφειλέταις ἡμῶν·"
+  },
+  {
+   "ref": "ROM 4:4",
+   "form": "ὀφείλημα",
+   "morph": "N-ASN",
+   "gloss_en": "due",
+   "gloss_ja": "負債",
+   "verse": "τῷ δὲ ἐργαζομένῳ ὁ μισθὸς οὐ λογίζεται κατὰ χάριν ἀλλὰ κατὰ ὀφείλημα·"
+  }
+ ],
+ "lxx": {
+  "total": 4,
+  "works": {
+   "Deuteronomium": 2,
+   "Esdras i": 1,
+   "Machabaeorum i": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "24.10",
+    "form": "ὀφείλημα",
+    "postag": "n-s---nn-",
+    "sentence": "ἐὰν ὀφείλημα ᾖ ἐν τῷ πλησίον σου, ὀφείλημα ὁτιοῦν, οὐκ εἰσελεύσῃ εἰς τὴν οἰκίαν αὐτοῦ ἐνεχυράσαι τὸ ἐνέχυρον αὐτοῦ ·"
+   },
+   {
+    "work_code": "1ES",
+    "work_ja": "エズラ記（ギリシャ語）",
+    "work_src": "Esdras i",
+    "ref": "3.19",
+    "form": "ὀφείλημα",
+    "postag": "n-s---na-",
+    "sentence": "καὶ πᾶσαν διάνοιαν μεταστρέφει εἰς εὐωχίαν καὶ εὐφροσύνην καὶ οὐ μέμνηται πᾶσαν λύπην καὶ πᾶν ὀφείλημα."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "15.8",
+    "form": "ὀφείλημα",
+    "postag": "n-s---nn-",
+    "sentence": "καὶ πᾶν ὀφείλημα βασιλικὸν καὶ τὰ ἐσόμενα βασιλικά, ἀπὸ τοῦ νῦν καὶ εἰς τὸν ἅπαντα χρόνον ἀφιέσθω σοι ·"
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "24.10",
+    "form": "ὀφείλημα",
+    "postag": "n-s---nn-",
+    "sentence": "ἐὰν ὀφείλημα ᾖ ἐν τῷ πλησίον σου, ὀφείλημα ὁτιοῦν, οὐκ εἰσελεύσῃ εἰς τὴν οἰκίαν αὐτοῦ ἐνεχυράσαι τὸ ἐνέχυρον αὐτοῦ ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   ὀφείλημα, -τος, τό    (< ὀφείλω),   [in LXX: De 24:10 (מַשָּׁאָה), I Es 3:20, I Mac 15:8*;]    that which is owed, a debt: Ro 4:4; metaph. (as Aram. חוֺבָא, חוֺב), of sin as a debt, Mt 6:12.†"
+}

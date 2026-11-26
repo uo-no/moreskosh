@@ -1,0 +1,136 @@
+{
+ "strong": "G396",
+ "lemma": "ἀνατρέπω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2TI 2:18",
+   "form": "ἀνατρέπουσιν",
+   "morph": "V-PAI-3P",
+   "gloss_en": "upsetting",
+   "gloss_ja": "くつがえす",
+   "verse": "οἵτινες περὶ τὴν ἀλήθειαν ἠστόχησαν, λέγοντες ἀνάστασιν ἤδη γεγονέναι, καὶ ἀνατρέπουσιν τήν τινων πίστιν."
+  },
+  {
+   "ref": "TIT 1:11",
+   "form": "ἀνατρέπουσιν",
+   "morph": "V-PAI-3P",
+   "gloss_en": "upsetting",
+   "gloss_ja": "くつがえす",
+   "verse": "οὓς δεῖ ἐπιστομίζειν, οἵτινες ὅλους οἴκους ἀνατρέπουσιν διδάσκοντες ἃ μὴ δεῖ αἰσχροῦ κέρδους χάριν."
+  }
+ ],
+ "lxx": {
+  "total": 10,
+  "works": {
+   "Judith": 1,
+   "Tobias": 1,
+   "Machabaeorum ii": 1,
+   "Psalmi": 1,
+   "Proverbia": 2,
+   "Ecclesiastes": 1,
+   "Ecclesiasticus sive Siracides": 3
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "12.12",
+    "form": "ἀνατρέψας",
+    "postag": "v-sapamn-",
+    "sentence": "μὴ στήσῃς αὐτὸν παρὰ σεαυτῷ, μὴ ἀνατρέψας σε στῇ ἐπὶ τὸν τόπον σου ·"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "10.3",
+    "form": "ἀνατρέψει",
+    "postag": "v3sfia---",
+    "sentence": "οὐ λιμοκτονήσει Κύριος ψυχὴν δικαίαν, ζωὴν δὲ ἀσεβῶν ἀνατρέψει."
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "16.11",
+    "form": "ἀνετράπησαν",
+    "postag": "v3paip---",
+    "sentence": "τότε ἠλάλαξαν οἱ ταπεινοί μου, καὶ ἐφοβήθησαν οἱ ἀσθενοῦντές μου καὶ ἐπτοήθησαν, ὕψωσαν τὴν φωνὴν αὐτῶν καὶ ἀνετράπησαν."
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "13.14",
+    "form": "ἀνατρέποντες",
+    "postag": "v-pppamn-",
+    "sentence": "ἐπικατάρατοι πάντες, οἳ ἐροῦσιν λόγον σκληρόν, ἐπικατάρατοι ἔσονται πάντες οἱ καθαιροῦντές σε καὶ κατασπῶντες τὰ τείχη σου καὶ πάντες οἱ ἀνατρέποντες τοὺς πύργους σου καὶ ἐμπυρίζοντες τὰς οἰκήσεις σου ·"
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "5.18",
+    "form": "ἀνετράπη",
+    "postag": "v3saip---",
+    "sentence": "εἰ δὲ μὴ συνέβαινε προσενέχεσθαι πολλοῖς ἁμαρτήμασι, καθάπερ ὁ Ἡλιόδωρος ὁ πεμφθεὶς ὑπὸ Σελεύκου τοῦ βασιλέως ἐπὶ τὴν ἐπίσκεψιν τοῦ γαζοφυλακίου, οὗτος προαχθεὶς παραχρῆμα μαστιγωθεὶς ἀνετράπη τοῦ θράσους."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "117.13",
+    "form": "ἀνετράπην",
+    "postag": "v1saip---",
+    "sentence": "ὠσθεὶς ἀνετράπην τοῦ πεσεῖν, καὶ ὁ Κύριος ἀντελάβετό μου."
+   },
+   {
+    "work_code": "ECC",
+    "work_ja": "コヘレトの言葉",
+    "work_src": "Ecclesiastes",
+    "ref": "12.6",
+    "form": "ἀνατραπῇ",
+    "postag": "v3sasp---",
+    "sentence": "ἕως ὅτου μὴ ἀνατραπῇ τὸ σχοινίον τοῦ ἀργυρίου, καὶ συντριβῇ τὸ ἀνθέμιον τοῦ χρυσίου, καὶ συντριβῇ ὑδρία ἐπὶ τῇ πηγῇ, καὶ συντροχάσῃ ὁ τροχὸς ἐπὶ τὸν λάκκον, καὶ ἐπιστρέψῃ ὁ χοῦς ἐπὶ τὴν γῆν, ὡς ἦν, καὶ τὸ πνεῦμα ἐπιστρέψῃ πρὸς τὸν Θεόν, ὃς ἔδωκεν αὐτό."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "12.16",
+    "form": "ἀνατρέψαι",
+    "postag": "v--ana---",
+    "sentence": "καὶ ἐν τοῖς χείλεσιν αὐτοῦ γλυκανεῖ ὁ ἐχθρὸς καὶ ἐν τῇ καρδίᾳ αὐτοῦ βουλεύσεται ἀνατρέψαι σε εἰς βόθρον ·"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "21.14",
+    "form": "ἀνατρέπει",
+    "postag": "v3spia---",
+    "sentence": "δόσις λάθριος ἀνατρέπει ὀργάς, δώρων δὲ ὁ φειδόμενος θυμὸν ἐγείρει ἰσχυρόν."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "29.16",
+    "form": "ἀνατρέψει",
+    "postag": "v3sfia---",
+    "sentence": "ἀγαθὰ ἐγγύου ἀνατρέψει ἁμαρτωλός, καὶ ἀχάριστος ἐν διανοίᾳ ἐγκαταλείψει ρυσάμενον."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "3   ἀνα-τρέπω,    [in LXX for דּחה, הדף, etc.;]    to overturn, destroy: Jo 2:15 WH, txt.; metaph., to subvert (MM, VGT, s.v.): II Ti 2:18, Tit 1:11.†"
+}

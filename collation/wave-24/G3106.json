@@ -1,0 +1,209 @@
+{
+ "strong": "G3106",
+ "lemma": "μακαρίζω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JAS 5:11",
+   "form": "μακαρίζομεν",
+   "morph": "V-PAI-1P",
+   "gloss_en": "consider blessed",
+   "gloss_ja": "幸いと呼ぶ",
+   "verse": "ἰδοὺ μακαρίζομεν τοὺς ὑπομείναντας· τὴν ὑπομονὴν Ἰὼβ ἠκούσατε, καὶ τὸ τέλος κυρίου εἴδετε, ὅτι πολύσπλαγχνός ἐστιν ὁ κύριος καὶ οἰκτίρμων."
+  },
+  {
+   "ref": "LUK 1:48",
+   "form": "μακαριοῦσίν",
+   "morph": "V-FAI-3P-ATT",
+   "gloss_en": "call ~ blessed",
+   "gloss_ja": "幸いと呼ぶ",
+   "verse": "ὅτι ἐπέβλεψεν ἐπὶ τὴν ταπείνωσιν τῆς δούλης αὐτοῦ, ἰδοὺ γὰρ ἀπὸ τοῦ νῦν μακαριοῦσίν με πᾶσαι αἱ γενεαί·"
+  }
+ ],
+ "lxx": {
+  "total": 24,
+  "works": {
+   "Genesis": 1,
+   "Numeri": 1,
+   "Machabaeorum iv": 3,
+   "Psalmi": 3,
+   "Odae": 1,
+   "Canticum": 1,
+   "Job": 2,
+   "Sapientia Salomonis": 2,
+   "Ecclesiasticus sive Siracides": 6,
+   "Malachias": 2,
+   "Isaias": 2
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "31.9",
+    "form": "μακαριοῦμεν",
+    "postag": "v1pfia---",
+    "sentence": "καὶ μακαριοῦμεν αὐτόν, ἐποίησε γὰρ θαυμάσια ἐν λαῷ αὐτοῦ."
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "16.9",
+    "form": "μακαρισθήσομαι",
+    "postag": "v1sfip---",
+    "sentence": "οὐκ ὄψομαι ὑμῶν τέκνα, οὐ-δὲ μάμμη κληθεῖσα μακαρισθήσομαι."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "71.17",
+    "form": "μακαριοῦσιν",
+    "postag": "v3pfia---",
+    "sentence": "καὶ ἐνευλογηθήσονται ἐν αὐτῷ πᾶσαι αἱ φυλαὶ τῆς γῆς, πάντα τὰ ἔθνη μακαριοῦσιν αὐτόν."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "29.11",
+    "form": "ἐμακάρισέ",
+    "postag": "v3saia---",
+    "sentence": "ὅτι οὖς ἤκουσε καὶ ἐμακάρισέ με, ὀφθαλμὸς δὲ ἰδών με ἐξέκλινε ·"
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "2.16",
+    "form": "μακαρίζει",
+    "postag": "v3spia---",
+    "sentence": "μακαρίζει ἔσχατα δικαίων καὶ ἀλαζονεύεται πατέρα Θεόν."
+   },
+   {
+    "work_code": "MAL",
+    "work_ja": "マラキ書",
+    "work_src": "Malachias",
+    "ref": "3.15",
+    "form": "μακαρίζομεν",
+    "postag": "v1ppia---",
+    "sentence": "καὶ νῦν ἡμεῖς μακαρίζομεν ἀλλοτρίους, καὶ ἀνοικοδομοῦνται πάντες ποιοῦντες ἄνομα καὶ ἀντέστησαν τῷ Θεῷ καὶ ἐσώθησαν."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "3.12",
+    "form": "μακαρίζοντες",
+    "postag": "v-pppamn-",
+    "sentence": "λαός μου, οἱ μακαρίζοντες ὑμᾶς πλανῶσιν ὑμᾶς καὶ τὸν τρίβον τῶν ποδῶν ὑμῶν ταράσσουσιν."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "30.13",
+    "form": "μακαριοῦσί",
+    "postag": "v3pfia---",
+    "sentence": "μακαρία ἐγώ, ὅτι μακαριοῦσί με αἱ γυναῖκες ·"
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "24.17",
+    "form": "μακαρίζω",
+    "postag": "v1spia---",
+    "sentence": "μακαρίζω, καὶ οὐκ ἐγγίζει ·"
+   },
+   {
+    "work_code": "ODE",
+    "work_ja": "頌歌（オード）",
+    "work_src": "Odae",
+    "ref": "12.48",
+    "form": "μακαριοῦσίν",
+    "postag": "v3pfia---",
+    "sentence": "ἰδοὺ γὰρ ἀπὸ τοῦ νῦν μακαριοῦσίν με πᾶσαι αἱ γενεαί, ὅτι ἐποίησέν μοι μεγαλεῖα ὁ δυνατός, καὶ ἅγιον τὸ ὄνομα αὐτοῦ, καὶ τὸ ἔλεος αὐτοῦ εἰς γενεὰν καὶ γενεὰν τοῖς φοβουμένοις αὐτόν."
+   },
+   {
+    "work_code": "SNG",
+    "work_ja": "雅歌",
+    "work_src": "Canticum",
+    "ref": "6.9",
+    "form": "μακαριοῦσιν",
+    "postag": "v3pfia---",
+    "sentence": "εἴδοσαν αὐτὴν θυγατέρες καὶ μακαριοῦσιν αὐτήν, βασίλισσαι καί γε παλλακαὶ καὶ αἰνέσουσιν αὐτήν."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "45.7",
+    "form": "ἐμακάρισεν",
+    "postag": "v3saia---",
+    "sentence": "ἐμακάρισεν αὐτὸν ἐν εὐκοσμίᾳ καὶ περιέζωσεν αὐτὸν στολὴν δόξης ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 5,
+  "works": {
+   "1 Clement": 1,
+   "To Diognetus": 1,
+   "Hermas, Pastor": 1,
+   "Ignatius, Letters": 2
+  },
+  "representatives": [
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "5.1.2",
+    "form": "μακαρίζει",
+    "postag": "v3spia---",
+    "sentence": "διὸ μακαρίζει μου ἡ ψυχὴ τὴν εἰς θεὸν αὐτοῦ γνώμην, ἐπιγνοὺς ἐνάρετον καὶ τέλειον οὖσαν, τὸ ἀκίνητον αὐτοῦ καὶ τὸ ἀόργητον αὐτοῦ ἐν πάσῃ ἐπιεικείᾳ θεοῦ ζῶντος."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "1.2",
+    "form": "ἐμακάρισεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ τὴν τελείαν καὶ ἀσφαλῆ γνῶσιν οὐκ ἐμακάρισεν;"
+   },
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "10",
+    "form": "μακαρίσεις",
+    "postag": "v2sfia---",
+    "sentence": "τότε τοὺς ὑπομένοντας ὑπὲρ δικαιοσύνης θαυμάσεις τὸ πῦρ τὸ πρόσκαιρον καὶ μακαρίσεις, ὅταν ἐκεῖνο τὸ πῦρ ἐπιγνῷς."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.28.6",
+    "form": "μακαρίζετε",
+    "postag": "v2ppma---",
+    "sentence": "οὐκοῦν μακαρίζετε ἑαυτούς ·"
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "1.5.1",
+    "form": "μακαρίζω",
+    "postag": "v1spia---",
+    "sentence": "εἰ γὰρ ἐγὼ ἐν μικρῷ χρόνῳ τοιαύτην συνήθειαν ἔσχον πρὸς τὸν ἐπίσκοπον ὑμῶν, οὐκ ἀνθρωπίνην οὖσαν, ἀλλὰ πνευματικήν, πόσῳ μᾶλλον ὑμᾶς μακαρίζω τοὺς ἐγκεκραμένους οὕτως, ὡς ἡ ἐκκλησία Ἰησοῦ Χριστῷ, καὶ ὡς Ἰησοῦς Χριστὸς τῷ πατρί, ἵνα πάντα ἐν ἑνότητι σύμφωνα ᾖ;"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2 μακαρίζω    (< μακάριος),   [in LXX for אשׁר pi., pu.;]    to bless, pronounce blessed or happy: c. acc. pers., Lk 1:48, Ja 5:11.†"
+}

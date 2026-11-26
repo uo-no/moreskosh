@@ -1,0 +1,49 @@
+{
+ "strong": "G3607",
+ "lemma": "ὀθόνη",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 11:5",
+   "form": "ὀθόνην",
+   "morph": "N-ASF",
+   "gloss_en": "sheet",
+   "gloss_ja": "亜麻布",
+   "verse": "Ἐγὼ ἤμην ἐν πόλει Ἰόππῃ προσευχόμενος καὶ εἶδον ἐν ἐκστάσει ὅραμα, καταβαῖνον σκεῦός τι ὡς ὀθόνην μεγάλην τέσσαρσιν ἀρχαῖς καθιεμένην ἐκ τοῦ οὐρανοῦ, καὶ ἦλθεν ἄχρι ἐμοῦ·"
+  },
+  {
+   "ref": "ACT 10:11",
+   "form": "ὀθόνην",
+   "morph": "N-ASF",
+   "gloss_en": "sheet",
+   "gloss_ja": "亜麻布",
+   "verse": "καὶ θεωρεῖ τὸν οὐρανὸν ἀνεῳγμένον καὶ καταβαῖνον σκεῦός τι ὡς ὀθόνην μεγάλην τέσσαρσιν ἀρχαῖς καθιέμενον ἐπὶ τῆς γῆς,"
+  }
+ ],
+ "lxx": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Martyrdom of Polycarp": 1
+  },
+  "representatives": [
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "15.2",
+    "form": "ὀθόνη",
+    "postag": "n-s---fn-",
+    "sentence": "τὸ γὰρ πῦρ καμάρας εἶδος ποιῆσαν, ὥσπερ ὀθόνη πλοίου ὑπὸ πνεύματος πληρουμένη, κύκλῳ περιετείχισεν τὸ σῶμα τοῦ μάρτυρος ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   * ὀθόνη, -ης, ἡ    (of Semitic origin, cf. Heb. אֵטוּן, yarn);      fine linen (Hom., al.).     Later, a sheet or sail: Ac 10:11 11:5.†"
+}

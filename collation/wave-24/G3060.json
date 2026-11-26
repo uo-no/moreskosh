@@ -1,0 +1,77 @@
+{
+ "strong": "G3060",
+ "lemma": "λοίδορος",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 5:11",
+   "form": "λοίδορος",
+   "morph": "A-NSM",
+   "gloss_en": "reviler",
+   "gloss_ja": "そしる者",
+   "verse": "νῦν δὲ ἔγραψα ὑμῖν μὴ συναναμίγνυσθαι ἐάν τις ἀδελφὸς ὀνομαζόμενος ᾖ πόρνος ἢ πλεονέκτης ἢ εἰδωλολάτρης ἢ λοίδορος ἢ μέθυσος ἢ ἅρπαξ, τῷ τοιούτῳ μηδὲ συνεσθίειν."
+  },
+  {
+   "ref": "1CO 6:10",
+   "form": "λοίδοροι",
+   "morph": "A-NPM",
+   "gloss_en": "revilers",
+   "gloss_ja": "そしる者",
+   "verse": "οὔτε κλέπται οὔτε πλεονέκται, οὐ μέθυσοι, οὐ λοίδοροι, οὐχ ἅρπαγες βασιλείαν θεοῦ κληρονομήσουσιν."
+  }
+ ],
+ "lxx": {
+  "total": 4,
+  "works": {
+   "Proverbia": 3,
+   "Ecclesiasticus sive Siracides": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "26.21",
+    "form": "λοίδορος",
+    "postag": "a-s---mn-",
+    "sentence": "ἐσχάρα ἄνθραξι καὶ ξύλα πυρί, ἀνὴρ δὲ λοίδορος εἰς ταραχὴν μάχης."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "23.8",
+    "form": "λοίδορος",
+    "postag": "a-s---mn-",
+    "sentence": "ἐν τοῖς χείλεσιν αὐτοῦ καταληφθήσεται ἁμαρτωλός, καὶ λοίδορος καὶ ὑπερήφανος σκανδαλισθήσονται ἐν αὐτοῖς."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "25.24",
+    "form": "λοιδόρου",
+    "postag": "a-s---fg-",
+    "sentence": "κρεῖσσον οἰκεῖν ἐπὶ γωνίας δώματος ἢ μετὰ γυναικὸς λοιδόρου ἐν οἰκίᾳ κοινῇ."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "27.15",
+    "form": "λοίδορος",
+    "postag": "a-s---fn-",
+    "sentence": "σταγόνες ἐκβάλλουσιν ἄνθρωπον ἐν ἡμέρᾳ χειμερινῇ ἐκ τοῦ οἴκου αὐτοῦ, ὡσαύτως καὶ γυνὴ λοίδορος ἐκ τοῦ ἱδίου οἴκου."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   λοίδορος, -ον,    [in LXX: Pr 25:24 26:21 27:15 (מִדְיָן) Si 23:8*;]    railing, abusive; as subst., ὁ λ., a railer: I Co 5:11 6:10.†"
+}

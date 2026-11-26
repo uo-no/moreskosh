@@ -1,0 +1,49 @@
+{
+ "strong": "G3523",
+ "lemma": "νῆστις",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MAT 15:32",
+   "form": "νήστεις",
+   "morph": "A-APM",
+   "gloss_en": "hungry",
+   "gloss_ja": "断食している",
+   "verse": "Ὁ δὲ Ἰησοῦς προσκαλεσάμενος τοὺς μαθητὰς αὐτοῦ εἶπεν· Σπλαγχνίζομαι ἐπὶ τὸν ὄχλον, ὅτι ἤδη ἡμέραι τρεῖς προσμένουσίν μοι καὶ οὐκ ἔχουσιν τί φάγωσιν· καὶ ἀπολῦσαι αὐτοὺς νήστεις οὐ θέλω, μήποτε ἐκλυθῶσιν ἐν τῇ ὁδῷ."
+  },
+  {
+   "ref": "MRK 8:3",
+   "form": "νήστεις",
+   "morph": "A-APM",
+   "gloss_en": "hungry",
+   "gloss_ja": "断食している",
+   "verse": "καὶ ἐὰν ἀπολύσω αὐτοὺς νήστεις εἰς οἶκον αὐτῶν, ἐκλυθήσονται ἐν τῇ ὁδῷ· καί τινες αὐτῶν ἀπὸ μακρόθεν ἥκασιν."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "6.19",
+    "form": "νῆστις",
+    "postag": "a-s---mn-",
+    "sentence": "τότε ὑπέστρεψεν ὁ βασιλεὺς εἰς τὰ βασίλεια αὐτοῦ καὶ ηὐλίσθη νῆστις καὶ ἦν λυπούμενος περὶ τοῦ Δανιηλ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   νῆστις, -ιος, ὁ, ἡ    (< νη-, neg. prefix, + ἐσθίω),in cl., chiefly poët.,   [in LXX: Da LXX 6:18 (19) (טְוָת)*;]    not eating, fasting: Mt 15:32, Mk 8:3.†"
+}

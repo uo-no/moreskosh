@@ -1,0 +1,49 @@
+{
+ "strong": "G3514",
+ "lemma": "νήθω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 12:27",
+   "form": "νήθει",
+   "morph": "V-PAI-3S",
+   "gloss_en": "spin",
+   "gloss_ja": "紡ぐ",
+   "verse": "κατανοήσατε τὰ κρίνα πῶς αὐξάνει· οὐ κοπιᾷ οὐδὲ νήθει· λέγω δὲ ὑμῖν, οὐδὲ Σολομὼν ἐν πάσῃ τῇ δόξῃ αὐτοῦ περιεβάλετο ὡς ἓν τούτων."
+  },
+  {
+   "ref": "MAT 6:28",
+   "form": "νήθουσιν",
+   "morph": "V-PAI-3P",
+   "gloss_en": "spin",
+   "gloss_ja": "紡ぐ",
+   "verse": "καὶ περὶ ἐνδύματος τί μεριμνᾶτε; καταμάθετε τὰ κρίνα τοῦ ἀγροῦ πῶς αὐξάνουσιν· οὐ κοπιῶσιν οὐδὲ νήθουσιν·"
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Exodus": 1
+  },
+  "representatives": [
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "35.25",
+    "form": "νήθειν",
+    "postag": "v--pna---",
+    "sentence": "καὶ πᾶσα γυνὴ σοφὴ τῇ διανοίᾳ ταῖς χερσὶ νήθειν ἤνεγκαν νενησμένα, τὴν ὑάκινθον καὶ τὴν πορφύραν καὶ τὸ κόκκινον καὶ τὴν βύσσον ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   νήθω,    [in LXX for טָוָה, שׁזר hoph., Ex 26:31 35:25, al.;]    to spin: Mt 6:28, Lk 12:27.†"
+}

@@ -1,0 +1,49 @@
+{
+ "strong": "G3438",
+ "lemma": "μονή",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JHN 14:2",
+   "form": "μοναὶ",
+   "morph": "N-NPF",
+   "gloss_en": "rooms",
+   "gloss_ja": "住まい",
+   "verse": "ἐν τῇ οἰκίᾳ τοῦ πατρός μου μοναὶ πολλαί εἰσιν· εἰ δὲ μή, εἶπον ἂν ὑμῖν ὅτι πορεύομαι ἑτοιμάσαι τόπον ὑμῖν·"
+  },
+  {
+   "ref": "JHN 14:23",
+   "form": "μονὴν",
+   "morph": "N-ASF",
+   "gloss_en": "home",
+   "gloss_ja": "住まい",
+   "verse": "ἀπεκρίθη Ἰησοῦς καὶ εἶπεν αὐτῷ· Ἐάν τις ἀγαπᾷ με τὸν λόγον μου τηρήσει, καὶ ὁ πατήρ μου ἀγαπήσει αὐτόν, καὶ πρὸς αὐτὸν ἐλευσόμεθα καὶ μονὴν παρ’ αὐτῷ ποιησόμεθα."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Machabaeorum i": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "7.38",
+    "form": "μονήν",
+    "postag": "n-s---fa-",
+    "sentence": "μνήσθητι τῶν δυσφηριῶν αὐτῶν καὶ μὴ δῷς αὐτοῖς μονήν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   ** μονή, -ῆς, ἡ    (< μένω),   [in LXX: I Mac 7:38*;]      in cl.,     a staying, abiding;     continuance (LXX, I Mac 7:38).        In late Gk.,     a statson (Paus.);     an abode: Jo 14:2, 23;     a monastery (cf. MM, iii, xvi; so in MGr.).†"
+}

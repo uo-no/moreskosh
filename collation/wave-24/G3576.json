@@ -1,0 +1,80 @@
+{
+ "strong": "G3576",
+ "lemma": "νωθρός",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "HEB 5:11",
+   "form": "νωθροὶ",
+   "morph": "A-NPM",
+   "gloss_en": "dull",
+   "gloss_ja": "怠惰な",
+   "verse": "Περὶ οὗ πολὺς ἡμῖν ὁ λόγος καὶ δυσερμήνευτος λέγειν, ἐπεὶ νωθροὶ γεγόνατε ταῖς ἀκοαῖς·"
+  },
+  {
+   "ref": "HEB 6:12",
+   "form": "νωθροὶ",
+   "morph": "A-NPM",
+   "gloss_en": "sluggish",
+   "gloss_ja": "怠惰な",
+   "verse": "ἵνα μὴ νωθροὶ γένησθε, μιμηταὶ δὲ τῶν διὰ πίστεως καὶ μακροθυμίας κληρονομούντων τὰς ἐπαγγελίας."
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Proverbia": 1,
+   "Ecclesiasticus sive Siracides": 2
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "4.29",
+    "form": "νωθρὸς",
+    "postag": "a-s---mn-",
+    "sentence": "μὴ γίνου ταχὺς ἐν γλώσσῃ σου καὶ νωθρὸς καὶ παρειμένος ἐν τοῖς ἔργοις σου."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "22.29",
+    "form": "νωθροῖς",
+    "postag": "a-p---md-",
+    "sentence": "ὁρατικὸν ἄνδρα καὶ ὀξὺν ἐν τοῖς ἔργοις αὐτοῦ βασιλεῦσι δεῖ παρεστάναι καὶ μὴ παρεστάναι ἀνδράσι νωθροῖς."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "11.12",
+    "form": "νωθρὸς",
+    "postag": "a-s---mn-",
+    "sentence": "ἔστι νωθρὸς καὶ προσδεόμενος ἀντιλήψεως, ὑστερῶν ἰσχύϊ καὶ πτωχείᾳ περισσεύει ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "1 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "34.1",
+    "form": "νωθρὸς",
+    "postag": "a-s---mn-",
+    "sentence": "ὁ ἀγαθὸς ἐργάτης μετὰ παρρησίας λαμβάνει τὸν ἄρτον τοῦ ἔργου αὐτοῦ, ὁ νωθρὸς καὶ παρειμένος οὐκ ἀντοφθαλμεῖ τῷ ἐργοπαρέκτῃ αὐτοῦ, δέον οὖν ἐστὶν προθύμους ἡμᾶς εἶναι εἰς ἀγαθοποιΐαν ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   νωθρός, -ά, -όν,    [in LXX: Pr 22:29 (חָשֹׁךְ), Si 4:29 11:12*;]    sluggish, slothful: He 5:11 6:12 (for similar usage in π., v. MM, xvii).   SYN.: ἀργός (q.v.), βραδύς."
+}

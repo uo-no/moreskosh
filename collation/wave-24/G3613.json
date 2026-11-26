@@ -1,0 +1,49 @@
+{
+ "strong": "G3613",
+ "lemma": "οἰκητήριον",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2CO 5:2",
+   "form": "οἰκητήριον",
+   "morph": "N-ASN",
+   "gloss_en": "dwelling",
+   "gloss_ja": "住まい",
+   "verse": "καὶ γὰρ ἐν τούτῳ στενάζομεν, τὸ οἰκητήριον ἡμῶν τὸ ἐξ οὐρανοῦ ἐπενδύσασθαι ἐπιποθοῦντες,"
+  },
+  {
+   "ref": "JUD 1:6",
+   "form": "οἰκητήριον",
+   "morph": "N-ASN",
+   "gloss_en": "dwelling",
+   "gloss_ja": "住まい",
+   "verse": "ἀγγέλους τε τοὺς μὴ τηρήσαντας τὴν ἑαυτῶν ἀρχὴν ἀλλὰ ἀπολιπόντας τὸ ἴδιον οἰκητήριον εἰς κρίσιν μεγάλης ἡμέρας δεσμοῖς ἀϊδίοις ὑπὸ ζόφον τετήρηκεν·"
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Machabaeorum iii": 1
+  },
+  "representatives": [
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "2.15",
+    "form": "οἰκητήριόν",
+    "postag": "n-s---nn-",
+    "sentence": "τὸ μὲν γὰρ οἰκητήριόν σου οὐρανὸς τοῦ οὐρανοῦ ἀνέφικτος ἀνθρώποις ἐστίν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   ** οἰκητήριον, -ου, τό    (< οἰκητήρ = οἰκήτωρ, an inhabitant),   [in LXX: II Mac 11:2, III Mac 2:15*;]    a habitation: Ju 6; trop., II Co 5:2.†"
+}

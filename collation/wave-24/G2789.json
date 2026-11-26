@@ -1,0 +1,49 @@
+{
+ "strong": "G2789",
+ "lemma": "κιθαρίζω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 14:7",
+   "form": "κιθαριζόμενον",
+   "morph": "V-PPP-NSN",
+   "gloss_en": "harp",
+   "gloss_ja": "竪琴を弾く",
+   "verse": "ὅμως τὰ ἄψυχα φωνὴν διδόντα, εἴτε αὐλὸς εἴτε κιθάρα, ἐὰν διαστολὴν τοῖς φθόγγοις μὴ δῷ, πῶς γνωσθήσεται τὸ αὐλούμενον ἢ τὸ κιθαριζόμενον;"
+  },
+  {
+   "ref": "REV 14:2",
+   "form": "κιθαριζόντων",
+   "morph": "V-PAP-GPM",
+   "gloss_en": "playing",
+   "gloss_ja": "竪琴を弾く",
+   "verse": "καὶ ἤκουσα φωνὴν ἐκ τοῦ οὐρανοῦ ὡς φωνὴν ὑδάτων πολλῶν καὶ ὡς φωνὴν βροντῆς μεγάλης, καὶ ἡ φωνὴ ἣν ἤκουσα ὡς κιθαρῳδῶν κιθαριζόντων ἐν ταῖς κιθάραις αὐτῶν."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Isaias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "23.16",
+    "form": "κιθάρισον",
+    "postag": "v2sama---",
+    "sentence": "καλῶς κιθάρισον, πολλὰ ᾆσον, ἵνα σου μνεία γένηται."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   κιθαρίζω,    [in LXX: Is 23:16 (נגן pi.)*;]    to play upon the lyre or harp: I Co 14:7, Re 14:2.†"
+}

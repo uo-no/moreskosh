@@ -1,0 +1,58 @@
+{
+ "strong": "G4200",
+ "lemma": "πορισμός",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1TI 6:5",
+   "form": "πορισμὸν",
+   "morph": "N-ASM",
+   "gloss_en": "means of gain",
+   "gloss_ja": "利益",
+   "verse": "διαπαρατριβαὶ διεφθαρμένων ἀνθρώπων τὸν νοῦν καὶ ἀπεστερημένων τῆς ἀληθείας, νομιζόντων πορισμὸν εἶναι τὴν εὐσέβειαν."
+  },
+  {
+   "ref": "1TI 6:6",
+   "form": "πορισμὸς",
+   "morph": "N-NSM",
+   "gloss_en": "gain",
+   "gloss_ja": "利益",
+   "verse": "ἔστιν δὲ πορισμὸς μέγας ἡ εὐσέβεια μετὰ αὐταρκείας·"
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Sapientia Salomonis": 2
+  },
+  "representatives": [
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "14.2",
+    "form": "πορισμῶν",
+    "postag": "n-p---mg-",
+    "sentence": "ἐκεῖνο μὲν γὰρ ὄρεξις πορισμῶν ἐπενόησε, τεχνῖτις δὲ σοφίᾳ κατεσκεύασεν ·"
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "13.19",
+    "form": "πορισμοῦ",
+    "postag": "n-s---mg-",
+    "sentence": "περὶ δὲ κτημάτων καὶ γάμων αὐτοῦ καὶ τέκνων προσευχόμενος, οὐκ αἰσχύνεται τῷ ἀψύχῳ προσλαλῶν καὶ περὶ μὲν ὑγιείας τὸ ἀσθενὲς ἐπικαλεῖται, περὶ δὲ ζωῆς τὸν νεκρὸν ἀξιοῖ, περὶ δὲ ἐπικουρίας τὸ ἀπειρότατον ἱκετεύει, περὶ δὲ ὁδοιπορίας τὸ μη-δὲ βάσει χρῆσθαι δυνάμενον, περὶ δὲ πορισμοῦ καὶ ἐργασίας καὶ χειρῶν ἐπιτυχίας τὸ ἀδρανέστατον ταῖς χερσὶν εὐδράνειαν αἰτεῖται."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   **† πορισμός, -ου, ὁ    (< πορίζω, to procure),   [in LXX: Wi 13:19 14:2*;]      a providing.   a means of gain: I Ti 6:5, 6 (Polyb., al.).†"
+}

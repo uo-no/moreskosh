@@ -1,0 +1,58 @@
+{
+ "strong": "G3506",
+ "lemma": "νεύω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 24:10",
+   "form": "νεύσαντος",
+   "morph": "V-AAP-GSM",
+   "gloss_en": "nodded",
+   "gloss_ja": "合図する",
+   "verse": "Ἀπεκρίθη τε ὁ Παῦλος νεύσαντος αὐτῷ τοῦ ἡγεμόνος λέγειν· Ἐκ πολλῶν ἐτῶν ὄντα σε κριτὴν τῷ ἔθνει τούτῳ ἐπιστάμενος εὐθύμως τὰ περὶ ἐμαυτοῦ ἀπολογοῦμαι,"
+  },
+  {
+   "ref": "JHN 13:24",
+   "form": "νεύει",
+   "morph": "V-PAI-3S",
+   "gloss_en": "motioned",
+   "gloss_ja": "合図する",
+   "verse": "νεύει οὖν τούτῳ Σίμων Πέτρος πυθέσθαι τίς ἂν εἴη περὶ οὗ λέγει."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Proverbia": 2
+  },
+  "representatives": [
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "21.1",
+    "form": "νεύσῃ",
+    "postag": "v3sasa---",
+    "sentence": "οὗ ἐὰν θέλων νεύσῃ, ἐκεῖ ἔκλινεν αὐτήν."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "4.25",
+    "form": "νευέτω",
+    "postag": "v3spma---",
+    "sentence": "οἱ ὀφθαλμοί σου ὀρθὰ βλεπέτωσαν, τὰ δὲ βλέφαρά σου νευέτω δίκαια."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   νεύω,    [in LXX: Pr 4:5 21:1*;]      to nod or beckon, as a sign : c. dat. pers. et inf., Jo 13:24, Ac 24:10 (cf. δια-, ἐκ-, ἐν-, ἐπι-, κατα-νεύω).†"
+}

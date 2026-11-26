@@ -1,0 +1,106 @@
+{
+ "strong": "G3407",
+ "lemma": "μίσθιος",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 15:17",
+   "form": "μίσθιοι",
+   "morph": "A-NPM",
+   "gloss_en": "hired workers",
+   "gloss_ja": "雇われ人",
+   "verse": "εἰς ἑαυτὸν δὲ ἐλθὼν ἔφη· Πόσοι μίσθιοι τοῦ πατρός μου περισσεύονται ἄρτων, ἐγὼ δὲ λιμῷ ὧδε ἀπόλλυμαι·"
+  },
+  {
+   "ref": "LUK 15:19",
+   "form": "μισθίων",
+   "morph": "A-GPM",
+   "gloss_en": "hired workers",
+   "gloss_ja": "雇われ人",
+   "verse": "οὐκέτι εἰμὶ ἄξιος κληθῆναι υἱός σου· ποίησόν με ὡς ἕνα τῶν μισθίων σου."
+  }
+ ],
+ "lxx": {
+  "total": 7,
+  "works": {
+   "Leviticus": 1,
+   "Tobias": 1,
+   "Job": 1,
+   "Ecclesiasticus sive Siracides": 4
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "7.20",
+    "form": "μίσθιον",
+    "postag": "a-s---na-",
+    "sentence": "μὴ κακώσῃς οἰκέτην ἐργαζόμενον ἐν ἀληθείᾳ, μη-δὲ μίσθιον διδόντα ψυχὴν αὐτοῦ."
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "25.50",
+    "form": "μισθίου",
+    "postag": "a-s---ng-",
+    "sentence": "ἐὰν δὲ εὐπορηθεὶς ταῖς χερσὶ λυτρῶται ἑαυτόν, καὶ συλλογιεῖται πρὸς τὸν κεκτημένον αὐτὸν ἀπὸ τοῦ ἔτους, οὗ ἀπέδοτο ἑαυτὸν αὐτῷ ἕως τοῦ ἐνιαυτοῦ τῆς ἀφέσεως, καὶ ἔσται τὸ ἀργύριον τῆς πράσεως αὐτοῦ ὡς μισθίου ·"
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "5.12",
+    "form": "μίσθιον",
+    "postag": "a-s---ma-",
+    "sentence": "φυλὴν καὶ πατριὰν σὺ ζητεῖς ἢ μίσθιον, ὃς συμπορεύσεται μετὰ τοῦ υἱοῦ σου;"
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "7.1",
+    "form": "μισθίου",
+    "postag": "a-s---ng-",
+    "sentence": "πότερον οὐχὶ πειρατήριόν ἐστιν ὁ βίος ἀνθρώπου ἐπὶ τῆς γῆς καὶ ὥσπερ μισθίου αὐθημερινοῦ ἡ ζωὴ αὐτοῦ;"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "26.22",
+    "form": "μισθία",
+    "postag": "a-s---fn-",
+    "sentence": "γυνὴ μισθία ἴση σιάλῳ λογισθήσεται, ὕπανδρος δὲ πύργος θανάτου τοῖς χρωμένοις λογισθήσεται."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "34.22",
+    "form": "μισθίου",
+    "postag": "a-s---ng-",
+    "sentence": "φονεύων τὸν πλησίον ὁ ἀφαιρούμενος συμβίωσιν, καὶ ἐκχέων αἷμα ὁ ἀποστερῶν μισθὸν μισθίου."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "37.11",
+    "form": "μισθίου",
+    "postag": "a-s---ng-",
+    "sentence": "μετὰ γυναικὸς περὶ τῆς ἀντιζήλου αὐτῆς καὶ μετὰ δειλοῦ περὶ πολέμου, μετὰ ἐμπόρου περὶ μεταβολίας καὶ μετὰ ἀγοράζοντος περὶ πράσεως, μετὰ βασκάνου περὶ εὐχαριστίας καὶ μετὰ ἀνελεήμονος περὶ χρηστοηθείας, μετὰ ὀκνηροῦ περὶ παντὸς ἔργου καὶ μετὰ μισθίου ἐφεστίου περὶ συντελείας, οἰκέτῃ ἀργῷ περὶ πολλῆς ἐργασίας, μὴ ἔπεχε ἐπὶ τούτοις περὶ πάσης συμβουλίας ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   † μίσθιος, -α, -ον    (also -ος, -ον),   [in LXX: Le 19:13 A 25:50, Jb 7:1 (שָׂכִיר), To 5:11, Si 7:10 31 (34):22 37:11*;]    hired; as subst., ὁ μ., a hired servant: Lk 15:17, 19, 21 (Anth., Plut.).†"
+}

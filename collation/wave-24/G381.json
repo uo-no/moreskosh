@@ -1,0 +1,157 @@
+{
+ "strong": "G381",
+ "lemma": "ἀνάπτω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JAS 3:5",
+   "form": "ἀνάπτει",
+   "morph": "V-PAI-3S",
+   "gloss_en": "sets ablaze",
+   "gloss_ja": "燃やす",
+   "verse": "οὕτως καὶ ἡ γλῶσσα μικρὸν μέλος ἐστὶν καὶ μεγάλα αὐχεῖ. Ἰδοὺ ἡλίκον πῦρ ἡλίκην ὕλην ἀνάπτει·"
+  },
+  {
+   "ref": "LUK 12:49",
+   "form": "ἀνήφθη",
+   "morph": "V-API-3S",
+   "gloss_en": "kindled",
+   "gloss_ja": "燃やす",
+   "verse": "Πῦρ ἦλθον βαλεῖν ἐπὶ τὴν γῆν, καὶ τί θέλω εἰ ἤδη ἀνήφθη;"
+  }
+ ],
+ "lxx": {
+  "total": 23,
+  "works": {
+   "Paralipomenon ii sive Chronicon ii": 1,
+   "Machabaeorum ii": 3,
+   "Psalmi": 2,
+   "Psalmi Salomonis": 1,
+   "Amos": 1,
+   "Joel": 2,
+   "Malachias": 2,
+   "Jeremias": 7,
+   "Threni seu Lamentationes": 3,
+   "Ezechiel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "21.14",
+    "form": "ἀνάψω",
+    "postag": "v1sfia---",
+    "sentence": "καὶ ἀνάψω πῦρ ἐν τῷ δρυμῷ αὐτῆς, καὶ ἔδεται πάντα τὰ κύκλῳ αὐτῆς."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "1.32",
+    "form": "ἀνήφθη",
+    "postag": "v3saip---",
+    "sentence": "ὡς δὲ τοῦτο ἐγενήθη, φλὸξ ἀνήφθη ·"
+   },
+   {
+    "work_code": "LAM",
+    "work_ja": "哀歌",
+    "work_src": "Threni seu Lamentationes",
+    "ref": "4.15",
+    "form": "ἀνήφθησαν",
+    "postag": "v3paip---",
+    "sentence": "ἀπόστητε ἐκαθάρτων — καλέσατε αὐτούς — ἀπόστητε, ἀπόστητε, μὴ ἅπτεσθε, ὅτι ἀνήφθησαν καί γε ἐσαλεύθησαν ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "17.9",
+    "form": "ἀνήφθησαν",
+    "postag": "v3paip---",
+    "sentence": "ἀνέβη καπνὸς ἐν ὀργῇ αὐτοῦ καὶ πῦρ ἀπὸ προσώπου αὐτοῦ καταφλεγήσεται, ἄνθρακες ἀνήφθησαν ἀπ’ αὐτοῦ."
+   },
+   {
+    "work_code": "JOL",
+    "work_ja": "ヨエル書",
+    "work_src": "Joel",
+    "ref": "2.3",
+    "form": "ἀναπτομένη",
+    "postag": "v-sppmfn-",
+    "sentence": "τὰ ἔμπροσθεν αὐτοῦ πῦρ ἀναλίσκον, καὶ τὰ ὀπίσω αὐτοῦ ἀναπτομένη φλόξ ·"
+   },
+   {
+    "work_code": "MAL",
+    "work_ja": "マラキ書",
+    "work_src": "Malachias",
+    "ref": "1.10",
+    "form": "ἀνάψεται",
+    "postag": "v3sfim---",
+    "sentence": "διότι καὶ ἐν ὑμῖν συγκλεισθήσονται θύραι, καὶ οὐκ ἀνάψεται τὸ θυσιαστήριόν μου δωρεάν ·"
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "13.11",
+    "form": "ἀνάψαι",
+    "postag": "v--ana---",
+    "sentence": "θυμιῶσι τῷ Κυρίῳ ὁλοκαύτωμα πρωΐ καὶ δείλης καὶ θυμίαμα συνθέσεως καὶ προθέσεις ἄρτων ἐπὶ τῆς τραπέζης τῆς καθαρᾶς, καὶ ἡ λυχνία ἡ χρυσῆ καὶ οἱ λύχνοι τῆς καύσεως ἀνάψαι δείλης, ὅτι φυλάσσομεν τὰς φυλακὰς Κυρίου τοῦ Θεοῦ τῶν πατέρων ἡμῶν, καὶ ὑμεῖς ἐγκατελίπετε αὐτόν."
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "12.2",
+    "form": "ἀνάπτον",
+    "postag": "v-sppann-",
+    "sentence": "ἐν ποικιλίᾳ στροφῆς οἱ λόγοι τῆς γλώσσης ἀνδρὸς πονηροῦ ὥσπερ ἐν λαῷ πῦρ ἀνάπτον καλλονὴν αὐτοῦ."
+   },
+   {
+    "work_code": "AMO",
+    "work_ja": "アモス書",
+    "work_src": "Amos",
+    "ref": "1.14",
+    "form": "ἀνάψω",
+    "postag": "v1sfia---",
+    "sentence": "καὶ ἀνάψω πῦρ ἐπὶ τείχη Ῥαββάθ, καὶ καταφάγεται θεμέλια αὐτῆς μετὰ κραυγῆς ἐν ἡμέρᾳ πολέμου, καὶ σεισθήσεται ἐν ἡμέραις συντελείας αὐτῆς ·"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "20.47",
+    "form": "ἀνάπτω",
+    "postag": "v1spia---",
+    "sentence": "ἰδοὺ ἐγὼ ἀνάπτω ἐν σοὶ πῦρ, καὶ καταφάγεται ἐν σοὶ πᾶν ξύλον χλωρὸν καὶ πᾶν ξύλον ξηρόν, οὐ σβεσθήσεται ἡ φλὸξ ἡ ἐξαφθεῖσα, καὶ κατακαυθήσεται ἐν αὐτῇ πᾶν πρόσωπον ἀπὸ ἀπηλιώτου ἕως βορρᾶ ·"
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "31.9",
+    "form": "ἀναφθήσεται",
+    "postag": "v3sfip---",
+    "sentence": "δότε σημεῖα τῇ Μωάβ, ὅτι ἁφῇ ἀναφθήσεται, καὶ πᾶσαι αἱ πόλεις αὐτῆς εἰς ἄβατον ἔσονται ·"
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "10.36",
+    "form": "ἀνάψαντες",
+    "postag": "v-papamn-",
+    "sentence": "ἕτεροι δὲ ὁμοίως προσαναβάντες ἐν τῷ περισπασμῷ πρὸς τοὺς ἔνδον, ἐνεπίμπρων τοὺς πύργους καὶ πυρὰς ἀνάψαντες ζῶντας τοὺς βλασφήμους κατέκαιον."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   ἀν-άπτω,    [in LXX chiefly for יצת;]    to kindle: Lk 12:49, Ja 3:5 (MM, VGT, s.v.).†"
+}

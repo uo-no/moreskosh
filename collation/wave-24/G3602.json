@@ -1,0 +1,59 @@
+{
+ "strong": "G3602",
+ "lemma": "ὀδυρμός",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2CO 7:7",
+   "form": "ὀδυρμόν",
+   "morph": "N-ASM",
+   "gloss_en": "mourning",
+   "gloss_ja": "嘆き",
+   "verse": "οὐ μόνον δὲ ἐν τῇ παρουσίᾳ αὐτοῦ, ἀλλὰ καὶ ἐν τῇ παρακλήσει ᾗ παρεκλήθη ἐφ’ ὑμῖν, ἀναγγέλλων ἡμῖν τὴν ὑμῶν ἐπιπόθησιν, τὸν ὑμῶν ὀδυρμόν, τὸν ὑμῶν ζῆλον ὑπὲρ ἐμοῦ, ὥστε με μᾶλλον χαρῆναι."
+  },
+  {
+   "ref": "MAT 2:18",
+   "form": "ὀδυρμὸς",
+   "morph": "N-NSM",
+   "gloss_en": "mourning",
+   "gloss_ja": "嘆き",
+   "verse": "Φωνὴ ἐν Ῥαμὰ ἠκούσθη, κλαυθμὸς καὶ ὀδυρμὸς πολύς· Ῥαχὴλ κλαίουσα τὰ τέκνα αὐτῆς, καὶ οὐκ ἤθελεν παρακληθῆναι ὅτι οὐκ εἰσίν."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Machabaeorum ii": 1,
+   "Jeremias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "11.6",
+    "form": "ὀδυρμῶν",
+    "postag": "n-p---mg-",
+    "sentence": "ὡς δὲ μετέλαβον οἱ περὶ τὸν Μακκαβαῖον πολιορκοῦντα αὐτὸν τὰ ὀχυρώματα, μετ’ ὀδυρμῶν καὶ δακρύων ἱκέτευον σὺν τοῖς ὄχλοις τὸν Κύριον ἀγαθὸν ἄγγελον ἀποστεῖλαι πρὸς σωτηρίαν τῷ Ἰσραήλ."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "38.15",
+    "form": "ὀδυρμοῦ",
+    "postag": "n-s---mg-",
+    "sentence": "φωνὴ ἐν Ῥαμᾷ ἠκούσθη θρήνου καὶ κλαυθμοῦ καὶ ὀδυρμοῦ ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   ὀδυρμός, -οῦ, ὁ    (< ὀδύρομαι, to lament),   [in LXX : Je 38 (31):15 (תַּמְרוּריִם), II Mac 11:6*;]    lamentation, mourning: Mt 2:18(LXX), II Co 7:7.†"
+}

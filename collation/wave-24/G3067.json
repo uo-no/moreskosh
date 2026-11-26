@@ -1,0 +1,68 @@
+{
+ "strong": "G3067",
+ "lemma": "λουτρόν",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "EPH 5:26",
+   "form": "λουτρῷ",
+   "morph": "N-DSN",
+   "gloss_en": "washing",
+   "gloss_ja": "洗い",
+   "verse": "ἵνα αὐτὴν ἁγιάσῃ καθαρίσας τῷ λουτρῷ τοῦ ὕδατος ἐν ῥήματι,"
+  },
+  {
+   "ref": "TIT 3:5",
+   "form": "λουτροῦ",
+   "morph": "N-GSN",
+   "gloss_en": "washing",
+   "gloss_ja": "洗い",
+   "verse": "οὐκ ἐξ ἔργων τῶν ἐν δικαιοσύνῃ ἃ ἐποιήσαμεν ἡμεῖς ἀλλὰ κατὰ τὸ αὐτοῦ ἔλεος ἔσωσεν ἡμᾶς διὰ λουτροῦ παλιγγενεσίας καὶ ἀνακαινώσεως πνεύματος ἁγίου,"
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Canticum": 2,
+   "Ecclesiasticus sive Siracides": 1
+  },
+  "representatives": [
+   {
+    "work_code": "SNG",
+    "work_ja": "雅歌",
+    "work_src": "Canticum",
+    "ref": "4.2",
+    "form": "λουτροῦ",
+    "postag": "n-s---ng-",
+    "sentence": "ὀδόντες σου ὡς ἀγέλαι τῶν κεκαρμένων, αἳ ἀνέβησαν ἀπὸ τοῦ λουτροῦ, αἱ πᾶσαι διδυμεύουσαι, καὶ ἀτεκνοῦσα οὐκ ἔστιν ἐν αὐταῖς."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "34.25",
+    "form": "λουτρῷ",
+    "postag": "n-s---nd-",
+    "sentence": "βαπτιζόμενος ἀπὸ νεκροῦ καὶ πάλιν ἁπτόμενος αὐτοῦ, τί ὠφέλησε τῷ λουτρῷ αὐτοῦ;"
+   },
+   {
+    "work_code": "SNG",
+    "work_ja": "雅歌",
+    "work_src": "Canticum",
+    "ref": "6.6",
+    "form": "λουτροῦ",
+    "postag": "n-s---ng-",
+    "sentence": "ὀδόντες σου ὡς ἀγέλαι τῶν κεκαρμένων, αἳ ἀνέβησαν ἀπὸ τοῦ λουτροῦ, αἱ πᾶσαι διδυμεύουσαι, καὶ ἀτεκνοῦσα οὐκ ἔστιν ἐν αὐταῖς."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   λουτρόν, -οῦ, τό    (< λούω),   [in LXX: Ca 4:2 6:5, (6) (רַחְצָה), Si 31 (34):25*;]    a washing, bath: τ. ὕδατος, Eph 5:26; τ. παλιγγενεσίας, Tit 3:5 (v. AR, Eph. 5:26).†"
+}

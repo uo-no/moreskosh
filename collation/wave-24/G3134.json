@@ -1,0 +1,49 @@
+{
+ "strong": "G3134",
+ "lemma": "θά",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 16:22",
+   "form": "Μαράνα",
+   "morph": "N-VSM",
+   "gloss_en": "Lord ~ come",
+   "gloss_ja": "マラナタ",
+   "verse": "εἴ τις οὐ φιλεῖ τὸν κύριον, ἤτω ἀνάθεμα. Μαράνα θά."
+  },
+  {
+   "ref": "1CO 16:22",
+   "form": "θά",
+   "morph": "V-AAM-2S",
+   "gloss_en": "Tha (come)",
+   "gloss_ja": "マラナタ",
+   "verse": "εἴ τις οὐ φιλεῖ τὸν κύριον, ἤτω ἀνάθεμα. Μαράνα θά."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Odae": 1
+  },
+  "representatives": [
+   {
+    "work_code": "ODE",
+    "work_ja": "頌歌（オード）",
+    "work_src": "Odae",
+    "ref": "1.19",
+    "form": "θα",
+    "postag": "l-s---ng-",
+    "sentence": "οἱ δὲ υἱοὶ Ισραηλ ἐπορεύθησαν διὰ ξηρᾶς ἐν μέσῳ τῆς θα λάσσης."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1 μαρὰν ἀθά (Rec. μαραναθά; Aram.: on the original form v. Dalman, Gr., § 41, 1; 74, 3; Words, 328),   Maran atha, i.e. the Lord cometh (but v. Dalman, Gr., § 41, 1; 74, 3; Words, 328; Field, Notes, 180; ICC, in l.): I Co 16:22.†"
+}

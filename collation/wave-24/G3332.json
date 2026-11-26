@@ -1,0 +1,68 @@
+{
+ "strong": "G3332",
+ "lemma": "μεταίρω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MAT 19:1",
+   "form": "μετῆρεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "departed",
+   "gloss_ja": "去る",
+   "verse": "Καὶ ἐγένετο ὅτε ἐτέλεσεν ὁ Ἰησοῦς τοὺς λόγους τούτους, μετῆρεν ἀπὸ τῆς Γαλιλαίας καὶ ἦλθεν εἰς τὰ ὅρια τῆς Ἰουδαίας πέραν τοῦ Ἰορδάνου."
+  },
+  {
+   "ref": "MAT 13:53",
+   "form": "μετῆρεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "left",
+   "gloss_ja": "去る",
+   "verse": "καὶ ἐγένετο ὅτε ἐτέλεσεν ὁ Ἰησοῦς τὰς παραβολὰς ταύτας, μετῆρεν ἐκεῖθεν."
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Regnorum iv": 2,
+   "Proverbia": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "25.11",
+    "form": "μετῇρε",
+    "postag": "v3siia---",
+    "sentence": "καὶ τὸ περισσὸν τοῦ λαοῦ τὸ καταλειφθὲν ἐν τῇ πόλει καὶ τοὺς ἐμπεπτωκότας, οἳ ἐνέπεσον πρὸς τὸν βασιλέα Βαβυλῶνος, καὶ τὸ λοιπὸν τοῦ στηρίγματος μετῇρε Ναβουζαρδὰν ὁ ἀρχιμάγειρος."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "22.28",
+    "form": "μέταιρε",
+    "postag": "v2spma---",
+    "sentence": "μὴ μέταιρε ὅρια αἰώνια, ἃ ἔθεντο οἱ πατέρες σου."
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "16.17",
+    "form": "μετῇρεν",
+    "postag": "v3siia---",
+    "sentence": "καὶ συνέκοψεν ὁ βασιλεὺς Ἄχαζ τὰ συγκλείσματα τῶν μεχωνὼθ καὶ μετῇρεν ἀπ’ αὐτῶν τὸν λουτῆρα καὶ τὴν θάλασσαν καθεῖλεν ἀπὸ τῶν βοῶν τῶν χαλκῶν τῶν ὑποκάτω αὐτῆς καὶ ἔδωκεν αὐτὴν ἐπὶ βάσιν λιθίνην."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   μετ-αίρω,    [in LXX: IV Ki 16:17 25:11, Ps 79 (80):8, Pr 22:28 (סוּר hi., גּלה hi., etc.)*;]      trans., to remove (LXX, IV Ki 16:17 25:11, Ps 79 (80):8, Pr 22:28).     (not cl.) to depart: Mt 13:53 19:1 (cf. Aq.: Ge 12:9).†"
+}

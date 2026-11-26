@@ -1,0 +1,242 @@
+{
+ "strong": "G3717",
+ "lemma": "ὀρθός",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 14:10",
+   "form": "ὀρθός",
+   "morph": "A-NSM",
+   "gloss_en": "upright",
+   "gloss_ja": "まっすぐな",
+   "verse": "εἶπεν μεγάλῃ φωνῇ· Ἀνάστηθι ἐπὶ τοὺς πόδας σου ὀρθός· καὶ ἥλατο καὶ περιεπάτει."
+  },
+  {
+   "ref": "HEB 12:13",
+   "form": "ὀρθὰς",
+   "morph": "A-APF",
+   "gloss_en": "straight",
+   "gloss_ja": "まっすぐな",
+   "verse": "καὶ τροχιὰς ὀρθὰς ποιεῖτε τοῖς ποσὶν ὑμῶν, ἵνα μὴ τὸ χωλὸν ἐκτραπῇ, ἰαθῇ δὲ μᾶλλον."
+  }
+ ],
+ "lxx": {
+  "total": 44,
+  "works": {
+   "Genesis": 3,
+   "Exodus": 1,
+   "Numeri": 1,
+   "Deuteronomium": 2,
+   "Judices": 1,
+   "Regnorum i": 1,
+   "Regnorum iii": 1,
+   "Esdras i": 1,
+   "Machabaeorum i": 1,
+   "Machabaeorum iv": 3,
+   "Proverbia": 18,
+   "Sapientia Salomonis": 2,
+   "Michaeas": 3,
+   "Jeremias": 1,
+   "Epistula Jeremiae": 1,
+   "Ezechiel": 2,
+   "Susanna": 2
+  },
+  "representatives": [
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "12.6",
+    "form": "ὀρθῶν",
+    "postag": "a-p---mg-",
+    "sentence": "λόγοι ἀσεβῶν δόλιοι, στόμα δὲ ὀρθῶν ρύσεται αὐτούς."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "4.7",
+    "form": "ὀρθῶς",
+    "postag": "d--------",
+    "sentence": "οὐκ ἐὰν ὀρθῶς προσενέγκῃς, ὀρθῶς δὲ μὴ διέλῃς, ἥμαρτες;"
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "1.15",
+    "form": "ὀρθοῦ",
+    "postag": "a-s---mg-",
+    "sentence": "λογισμὸς μὲν δὴ τοίνυν ἐστὶ νοῦς μετὰ ὀρθοῦ λόγου προτιμῶν τὸν σοφίας βίον."
+   },
+   {
+    "work_code": "MIC",
+    "work_ja": "ミカ書",
+    "work_src": "Michaeas",
+    "ref": "2.7",
+    "form": "ὀρθοὶ",
+    "postag": "a-p---mn-",
+    "sentence": "οὐχ οἱ λόγοι αὐτοῦ εἰσι καλοὶ μετ’ αὐτοῦ καὶ ὀρθοὶ πεπόρευνται;"
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "18.17",
+    "form": "ὀρθῶς",
+    "postag": "d--------",
+    "sentence": "ὀρθῶς πάντα ὅσα ἐλάλησαν πρὸς σέ ·"
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "2.1",
+    "form": "ὀρθῶς",
+    "postag": "d--------",
+    "sentence": "εἶπον γὰρ ἐν ἑαυτοῖς λογισάμενοι οὐκ ὀρθῶς ·"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "1.7",
+    "form": "ὀρθά",
+    "postag": "a-p---nn-",
+    "sentence": "καὶ τὰ σκέλη αὐτῶν ὀρθά, καὶ πτερωτοὶ οἱ πόδες αὐτῶν, καὶ σπινθῆρες ὡς ἐξαστράπτων χαλκός, καὶ ἐλαφραὶ αἱ πτέρυγες αὐτῶν."
+   },
+   {
+    "work_code": "SUS",
+    "work_ja": "スザンナ（Th）",
+    "work_src": "Susanna",
+    "ref": "55",
+    "form": "ὀρθῶς",
+    "postag": "d--------",
+    "sentence": "εἶπε δὲ Δανιήλ, ὀρθῶς ἔψευσαι εἰς τὴν σεαυτοῦ κεφαλήν ·"
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "18.17",
+    "form": "ὀρθῶς",
+    "postag": "d--------",
+    "sentence": "οὐκ ὀρθῶς σὺ ποιεῖς τὸ ρῆμα τοῦτο ·"
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "27.6",
+    "form": "ὀρθῶς",
+    "postag": "d--------",
+    "sentence": "ὀρθῶς θυγατέρες Σαλπαὰδ λελαλήκασι ·"
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "15.5",
+    "form": "ὀρθῶν",
+    "postag": "a-p---ng-",
+    "sentence": "καὶ ἐξέκαυσε πῦρ ἐν ταῖς λαμπάσι καὶ ἐξαπέστειλεν ἐν τοῖς στάχυσι τῶν ἀλλοφύλων, καὶ ἐκάησαν ἀπὸ ἅλωνος καὶ ἕως σταχύων ὀρθῶν καὶ ἕως ἀμπελῶνος καὶ ἐλαίας."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "16.17",
+    "form": "ὀρθῶς",
+    "postag": "d--------",
+    "sentence": "ἴδετε δή μοι ἄνδρα ὀρθῶς ψάλλοντα καὶ εἰσαγάγετε αὐτὸν πρός με."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 13,
+  "works": {
+   "1 Clement": 2,
+   "To Diognetus": 3,
+   "Hermas, Pastor": 7,
+   "Martyrdom of Polycarp": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "11.1.2",
+    "form": "ὀρθὴν",
+    "postag": "a-s---fa-",
+    "sentence": "τὸ γὰρ δίκαιον ὀρθὴν ὁδὸν ἔχει, τὸ δὲ ἄδικον στρεβλήν."
+   },
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "4",
+    "form": "ὀρθῶς",
+    "postag": "d--------",
+    "sentence": "τῆς μὲν οὖν κοινῆς εἰκαιότητος καὶ ἀπάτης καὶ τῆς Ἰουδαίων πολυπραγμοσύνης καὶ ἀλαζονείας ὡς ὀρθῶς ἀπέχονται Χριστιανοί, ἀρκούντως σε νομίζω μεμαθηκέναι ·"
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "4.4",
+    "form": "ὀρθῶς",
+    "postag": "d--------",
+    "sentence": "οὐκ ἐὰν ὀρθῶς προσενέγκῃς, ὀρθῶς δὲ μὴ διέλῃς, ἥμαρτες;"
+   },
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "epilogus_alius.3",
+    "form": "ὀρθότατα",
+    "postag": "a-p---nas",
+    "sentence": "οὗ καὶ πολλὰ συγγράμματα κάλλιστα καὶ ὀρθότατα φέρεται, ἐν οἷς μέμνηται Πολυκάρπου, ὅτι παρ’ αὐτοῦ ἔμαθεν, ἱκανῶς τε πᾶσαν αἵρεσιν ἤλεγξεν καὶ τὸν ἐκκλησιαστικὸν κανόνα καὶ καθολικόν, ὡς παρέλαβεν παρὰ τοῦ ἁγίου, καὶ παρέδωκεν."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "11.1.2",
+    "form": "ὀρθῇ",
+    "postag": "a-s---fd-",
+    "sentence": "ἀλλὰ σὺ τῇ ὀρθῇ ὁδῷ πορεύου καὶ ὁμαλῇ, τὴν δὲ στρεβλὴν ἔασον."
+   },
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "12",
+    "form": "ὀρθῶς",
+    "postag": "d--------",
+    "sentence": "οἷς ἐντυχόντες καὶ ἀκούσαντες μετὰ σπουδῆς εἴσεσθε, ὅσα παρέχει ὁ Θεὸς τοῖς ἀγαπῶσιν ὀρθῶς, οἱ γενόμενοι παράδεισος τρυφῆς, πάγκαρπον ξύλον εὐθαλοῦν ἀνατείλαντες ἐν ἑαυτοῖς, ποικίλοις καρποῖς κεκοσμημένοι."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "4.4",
+    "form": "ὀρθῶς",
+    "postag": "d--------",
+    "sentence": "οὐκ ἐὰν ὀρθῶς προσενέγκῃς, ὀρθῶς δὲ μὴ διέλῃς, ἥμαρτες;"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "3.1.5",
+    "form": "ὀρθαί",
+    "postag": "a-p---fn-",
+    "sentence": "ἰδὼν ταῦτα κείμενα καὶ μηδένα ὄντα ἐν τῷ τόπῳ ἔκθαμβος ἐγενόμην, καὶ ὡσεὶ τρόμος με ἔλαβεν καὶ αἱ τρίχες μου ὀρθαί ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   ὀρθός, -ή, -όν,    [in LXX chiefly for יָשָׁר;]      straight;     in height, straight, upright: Ac 14:10;     in line, straight, direct: fig., He 12:13(LXX).†"
+}

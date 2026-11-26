@@ -1,0 +1,230 @@
+{
+ "strong": "G3939",
+ "lemma": "παροικέω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "HEB 11:9",
+   "form": "παρῴκησεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "lived",
+   "gloss_ja": "旅人として住む",
+   "verse": "πίστει παρῴκησεν εἰς γῆν τῆς ἐπαγγελίας ὡς ἀλλοτρίαν, ἐν σκηναῖς κατοικήσας μετὰ Ἰσαὰκ καὶ Ἰακὼβ τῶν συγκληρονόμων τῆς ἐπαγγελίας τῆς αὐτῆς·"
+  },
+  {
+   "ref": "LUK 24:18",
+   "form": "παροικεῖς",
+   "morph": "V-PAI-2S",
+   "gloss_en": "visitor",
+   "gloss_ja": "旅人として住む",
+   "verse": "ἀποκριθεὶς δὲ εἷς ὀνόματι Κλεοπᾶς εἶπεν πρὸς αὐτόν· Σὺ μόνος παροικεῖς Ἰερουσαλὴμ καὶ οὐκ ἔγνως τὰ γενόμενα ἐν αὐτῇ ἐν ταῖς ἡμέραις ταύταις;"
+  }
+ ],
+ "lxx": {
+  "total": 62,
+  "works": {
+   "Genesis": 13,
+   "Exodus": 3,
+   "Numeri": 1,
+   "Deuteronomium": 3,
+   "Josue": 1,
+   "Judices": 7,
+   "Ruth": 1,
+   "Regnorum ii": 1,
+   "Regnorum iv": 2,
+   "Paralipomenon i sive Chronicon i": 2,
+   "Paralipomenon ii sive Chronicon ii": 1,
+   "Esdras ii": 1,
+   "Judith": 3,
+   "Machabaeorum ii": 1,
+   "Psalmi": 8,
+   "Proverbia": 1,
+   "Ecclesiasticus sive Siracides": 3,
+   "Psalmi Salomonis": 1,
+   "Osee": 1,
+   "Isaias": 2,
+   "Jeremias": 3,
+   "Threni seu Lamentationes": 1,
+   "Ezechiel": 2
+  },
+  "representatives": [
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "47.4",
+    "form": "παροικεῖν",
+    "postag": "v--pna---",
+    "sentence": "παροικεῖν ἐν τῇ γῇ ἥκαμεν ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "119.6",
+    "form": "παρῴκησεν",
+    "postag": "v3saia---",
+    "sentence": "πολλὰ παρῴκησεν ἡ ψυχή μου."
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "5.17",
+    "form": "παροικεῖ",
+    "postag": "v3spia---",
+    "sentence": "καὶ Δὰν εἰς τί παροικεῖ πλοίοις;"
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "6.4",
+    "form": "παρῳκήκασιν",
+    "postag": "v3pria---",
+    "sentence": "καὶ ἔστησα τὴν διαθήκην μου πρὸς αὐτοὺς ὥστε δοῦναι αὐτοῖς τὴν γῆν τῶν Χαναναίων, τὴν γῆν, ἣν παρῳκήκασιν, ἐν ᾗ καὶ παρῴκησαν ἐπ’ αὐτῆς."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "5.14",
+    "form": "παροικῶν",
+    "postag": "v-sppamn-",
+    "sentence": "τῇ δὲ ἡμέρᾳ τῇ ἑβδόμῃ σάββατα Κυρίῳ τῷ Θεῷ σου, οὐ ποιήσεις ἐν αὐτῇ πᾶν ἔργον, σὺ καὶ ὁ υἱός σου καὶ ἡ θυγάτηρ σου, ὁ παῖς σου καὶ ἡ παιδίσκη σου, ὁ βοῦς σου καὶ τὸ ὑποζύγιόν σου καὶ πᾶν κτῆνός σου καὶ προσήλυτος ὁ παροικῶν ἐν σοί, ἵνα ἀναπαύσηται ὁ παῖς σου καὶ ἡ παιδίσκη σου καὶ τὸ ὑποζύγιόν σου, ὥσπερ καὶ σύ ·"
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "5.10",
+    "form": "παρῴκησαν",
+    "postag": "v3paia---",
+    "sentence": "καὶ κατέβησαν εἰς Αἴγυπτον, ἐκάλυψε γὰρ τὸ πρόσωπον τῆς γῆς Χαναὰν λιμός, καὶ παρῴκησαν ἐκεῖ μέχρις οὗ διετράφησαν ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "29.24",
+    "form": "παροικήσεις",
+    "postag": "v2sfia---",
+    "sentence": "ζωὴ πονηρὰ ἐξ οἰκίας εἰς οἰκίαν, καὶ οὗ παροικήσεις, οὐκ ἀνοίξει στόμα."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "27.40",
+    "form": "παροικήσει",
+    "postag": "v3sfia---",
+    "sentence": "καθὼς κατέστρεψεν ὁ Θεὸς Σόδομα καὶ Γόμορρα καὶ τὰς ὁμορούσας αὐταῖς, εἶπε Κύριος, οὐ μὴ κατοικήσει ἐκεῖ ἄνθρωπος, καὶ οὐ μὴ παροικήσει ἐκεῖ υἱὸς ἀνθρώπου."
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "8.1",
+    "form": "παροίκει",
+    "postag": "v2spma---",
+    "sentence": "ἀνάστηθι καὶ δεῦρο σὺ καὶ ὁ οἶκός σου καὶ παροίκει, οὗ ἐὰν παροικήσῃς, ὅτι κέκληκε Κύριος λιμὸν ἐπὶ τὴν γῆν, καί γε ἦλθεν ἐπὶ τὴν γῆν ἑπτὰ ἔτη."
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "29.15",
+    "form": "παροικοῦντες",
+    "postag": "v-pppamn-",
+    "sentence": "ὅτι πάροικοί ἐσμεν ἐναντίον σου καὶ παροικοῦντες ὡς πάντες οἱ πατέρες ἡμῶν ·"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "52.4",
+    "form": "παροικῆσαι",
+    "postag": "v--ana---",
+    "sentence": "εἰς Αἴγυπτον κατέβη ὁ λαός μου τὸ πρότερον παροικῆσαι ἐκεῖ, καὶ εἰς Ἀσσυρίους βίᾳ ἤχθησαν ·"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "21.12",
+    "form": "παροικήσουσιν",
+    "postag": "v3pfia---",
+    "sentence": "παροικήσουσιν ἐπὶ ρομφαίᾳ, ἐγένετο ἐν τῷ λαῷ μου."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 6,
+  "works": {
+   "1 Clement": 2,
+   "To Diognetus": 1,
+   "Martyrdom of Polycarp": 2,
+   "Polycarp, To the Philippians": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "preface.sal",
+    "form": "παροικοῦσα",
+    "postag": "v-sppafn-",
+    "sentence": "ἡ ἐκκλησία τοῦ θεοῦ ἡ παροικοῦσα Ῥώμην τῆ ἐκκλησίᾳ τοῦ θεοῦ τῇ παροικούσῃ Κόρινθον, κλητοῖς ἡγιασμένοις ἐν θελήματι θεοῦ διὰ τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ."
+   },
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "praef.1",
+    "form": "παροικούσῃ",
+    "postag": "v-sppafd-",
+    "sentence": "ἡ ἐκκλησία τοῦ θεοῦ ἡ παροικοῦσα Σμύρναν τῇ ἐκκλησίᾳ τοῦ θεοῦ τῇ παροικούσῃ ἐν Φιλομηλίῳ καὶ πάσαις ταῖς κατὰ πάντα τόπον τῆς ἁγίας καὶ καθολικῆς ἐκκλησίας παροικίαις ·"
+   },
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "6",
+    "form": "παροικοῦσιν",
+    "postag": "v3ppia---",
+    "sentence": "καὶ Χριστιανοὶ παροικοῦσιν ἐν φθαρτοῖς, τὴν ἐν οὐρανοῖς ἀφθαρσίαν προσδεχόμενοι."
+   },
+   {
+    "work_code": "PPH",
+    "work_ja": "ポリュカルポスのピリピ書簡",
+    "work_src": "Polycarp, To the Philippians",
+    "ref": "praef.sal",
+    "form": "παροικούσῃ",
+    "postag": "v-sppafd-",
+    "sentence": "Πολύκαρπος καὶ οἱ σὺν αὐτῷ πρεσβύτεροι τῇ ἐκκλησίᾳ τοῦ θεοῦ τῇ παροικούσῃ Φιλίππους ·"
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "preface.sal",
+    "form": "παροικούσῃ",
+    "postag": "v-sppafd-",
+    "sentence": "ἡ ἐκκλησία τοῦ θεοῦ ἡ παροικοῦσα Ῥώμην τῆ ἐκκλησίᾳ τοῦ θεοῦ τῇ παροικούσῃ Κόρινθον, κλητοῖς ἡγιασμένοις ἐν θελήματι θεοῦ διὰ τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ."
+   },
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "praef.1",
+    "form": "παροικοῦσα",
+    "postag": "v-sppafn-",
+    "sentence": "ἡ ἐκκλησία τοῦ θεοῦ ἡ παροικοῦσα Σμύρναν τῇ ἐκκλησίᾳ τοῦ θεοῦ τῇ παροικούσῃ ἐν Φιλομηλίῳ καὶ πάσαις ταῖς κατὰ πάντα τόπον τῆς ἁγίας καὶ καθολικῆς ἐκκλησίας παροικίαις ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   παρ-οικέω, -ῶ,    [in LXX chiefly for גּוּר, also for ישׁב, שׁכן;]    in cl., to dwell beside (c. acc.), among (c. dat.) or near by (absol.).   In late writers, to dwell in a place as a πάροικος (q.v.) or stranger: Lk 24:18, He 11:9.†"
+}

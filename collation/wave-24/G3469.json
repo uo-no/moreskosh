@@ -1,0 +1,59 @@
+{
+ "strong": "G3469",
+ "lemma": "μωμάομαι",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2CO 6:3",
+   "form": "μωμηθῇ",
+   "morph": "V-APS-3S",
+   "gloss_en": "blamed",
+   "gloss_ja": "とがめる",
+   "verse": "μηδεμίαν ἐν μηδενὶ διδόντες προσκοπήν, ἵνα μὴ μωμηθῇ ἡ διακονία,"
+  },
+  {
+   "ref": "2CO 8:20",
+   "form": "μωμήσηται",
+   "morph": "V-ADS-3S",
+   "gloss_en": "blame",
+   "gloss_ja": "とがめる",
+   "verse": "στελλόμενοι τοῦτο μή τις ἡμᾶς μωμήσηται ἐν τῇ ἁδρότητι ταύτῃ τῇ διακονουμένῃ ὑφ’ ἡμῶν,"
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Proverbia": 1,
+   "Sapientia Salomonis": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "9.7",
+    "form": "μωμήσεται",
+    "postag": "v3sfim---",
+    "sentence": "ἐλέγχων δὲ τὸν ἀσεβῆ μωμήσεται ἑαυτόν."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "10.14",
+    "form": "μωμησαμένους",
+    "postag": "v-papmma-",
+    "sentence": "ψευδεῖς τε ἔδειξε τοὺς μωμησαμένους αὐτὸν καὶ ἔδωκεν αὐτῷ δόξαν αἰώνιον."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   μωμάομαι, -ῶμαι    (< μῶμος), poët. and late prose,   [in LXX: Pr 9:7 (מוּם), Wi 10:14, Si 31 (34):18*;]    to find fault with, blame: II Co 8:20; pass., II Co 6:3.†"
+}

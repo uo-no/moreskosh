@@ -1,0 +1,212 @@
+{
+ "strong": "G3191",
+ "lemma": "μελετάω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1TI 4:15",
+   "form": "μελέτα",
+   "morph": "V-PAM-2S",
+   "gloss_en": "practice",
+   "gloss_ja": "練習する",
+   "verse": "ταῦτα μελέτα, ἐν τούτοις ἴσθι, ἵνα σου ἡ προκοπὴ φανερὰ ᾖ πᾶσιν·"
+  },
+  {
+   "ref": "ACT 4:25",
+   "form": "ἐμελέτησαν",
+   "morph": "V-AAI-3P",
+   "gloss_en": "plot",
+   "gloss_ja": "練習する",
+   "verse": "ὁ τοῦ πατρὸς ἡμῶν διὰ πνεύματος ἁγίου στόματος Δαυὶδ παιδός σου εἰπών· Ἱνατί ἐφρύαξαν ἔθνη καὶ λαοὶ ἐμελέτησαν κενά;"
+  }
+ ],
+ "lxx": {
+  "total": 33,
+  "works": {
+   "Josue": 1,
+   "Psalmi": 17,
+   "Odae": 1,
+   "Proverbia": 5,
+   "Job": 2,
+   "Ecclesiasticus sive Siracides": 1,
+   "Isaias": 6
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "89.9",
+    "form": "ἐμελέτων",
+    "postag": "v3piia---",
+    "sentence": "τὰ ἔτη ἡμῶν ὡσεὶ ἀράχνη ἐμελέτων."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "33.18",
+    "form": "μελετήσει",
+    "postag": "v3sfia---",
+    "sentence": "ἡ ψυχὴ ἡμῶν μελετήσει φόβον ·"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "24.2",
+    "form": "μελετᾷ",
+    "postag": "v3spia---",
+    "sentence": "ψευδῆ γὰρ μελετᾷ ἡ καρδία αὐτῶν, καὶ πόνους τὰ χείλη αὐτῶν λαλεῖ."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "6.30",
+    "form": "μελετᾷ",
+    "postag": "v3spia---",
+    "sentence": "ἢ ὁ λάρυγξ μου οὐχὶ σύνεσιν μελετᾷ;"
+   },
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "1.8",
+    "form": "μελετήσεις",
+    "postag": "v2sfia---",
+    "sentence": "καὶ οὐκ ἀποστήσεται ἡ βίβλος τοῦ νόμου τούτου ἐκ τοῦ στόματός σου, καὶ μελετήσεις ἐν αὐτῷ ἡμέρας καὶ νυκτός, ἵνα εἰδῇς ποιεῖν πάντα τὰ γεγραμμένα ·"
+   },
+   {
+    "work_code": "ODE",
+    "work_ja": "頌歌（オード）",
+    "work_src": "Odae",
+    "ref": "7.14",
+    "form": "μελετήσω",
+    "postag": "v1sfia---",
+    "sentence": "ὡς χελιδών, οὕτω φωνήσω, καὶ ὡς περιστερά, οὕτω μελετήσω ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "6.37",
+    "form": "μελέτα",
+    "postag": "v2spma---",
+    "sentence": "διανοοῦ ἐν τοῖς προστάγμασι Κυρίου καὶ ἐν ταῖς ἐντολαῖς αὐτοῦ μελέτα διὰ παντός ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "2.1",
+    "form": "ἐμελέτησαν",
+    "postag": "v3paia---",
+    "sentence": "ἱνατὶ ἐφρύαξαν ἔθνη, καὶ λαοὶ ἐμελέτησαν κενά;"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "27.8",
+    "form": "μελετῶν",
+    "postag": "v-sppamn-",
+    "sentence": "οὐ σὺ ἦσθα ὁ μελετῶν τῷ πνεύματι τῷ σκληρῷ ἀνελεῖν αὐτοὺς πνεύματι θυμοῦ;"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "15.28",
+    "form": "μελετῶσι",
+    "postag": "v3ppia---",
+    "sentence": "καρδίαι δικαίων μελετῶσι πίστεις, στόμα δὲ ἀσεβῶν ἀποκρίνεται κακά."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "27.4",
+    "form": "μελετήσει",
+    "postag": "v3sfia---",
+    "sentence": "ἦ μὴν ἔτι τῆς πνοῆς μου ἐνούσης, πνεῦμα δὲ θεῖον τὸ περιόν μοι ἐν ρινί, μὴ λαλήσειν τὰ χείλη μου ἄνομα, οὐ-δὲ ἡ ψυχή μου μελετήσει ἄδικα μή μοι εἴη δικαίους ὑμᾶς ἀποφῆναι, ἕως ἂν ἀποθάνω, οὐ γὰρ ἀπολλάξω μου τὴν ἀκακίαν μου."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "118.70",
+    "form": "ἐμελέτησα",
+    "postag": "v1saia---",
+    "sentence": "ἐτυρώθη ὡς γάλα ἡ καρδία αὐτῶν, ἐγὼ δὲ τὸν νόμον σου ἐμελέτησα."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 6,
+  "works": {
+   "Barnabas": 5,
+   "Ignatius, Letters": 1
+  },
+  "representatives": [
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "11.5",
+    "form": "μελετήσει",
+    "postag": "v3sfia---",
+    "sentence": "βασιλέα μετὰ δόξης ὄψεσθε, καὶ ἡ ψυχὴ ὑμῶν μελετήσει φόβον κυρίου καὶ πάλιν ἐν ἄλλῳ προφήτῃ λέγει ·"
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "1.19.3",
+    "form": "μελετᾶσθαι",
+    "postag": "v--pnm---",
+    "sentence": "ἔνθεν τὰ πάντα συνεκινεῖτο διὰ τὸ μελετᾶσθαι θανάτου κατάλυσιν."
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "21.7",
+    "form": "μελετῶντες",
+    "postag": "v-pppamn-",
+    "sentence": "εἰ δὲ τίς ἐστιν ἀγαθοῦ μνεία, μνημονεύετέ μου μελετῶντες ταῦτα, ἵνα καὶ ἡ ἐπιθυμία καὶ ἡ ἀγρυπνία εἴς τι ἀγαθὸν χωρήσῃ."
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "4.11",
+    "form": "μελετῶμεν",
+    "postag": "v1ppsa---",
+    "sentence": "ἐφ’ ὅσον ἐστὶν ἐν ἡμῖν, μελετῶμεν τὸν φόβον τοῦ θεοῦ καὶ φυλάσσειν ἀγωνιζώμεθα τὰς ἐντολὰς αὐτοῦ, ἵνα ἐν τοῖς δικαιώμασιν αὐτοῦ εὐφρανθῶμεν."
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "10.11",
+    "form": "μελετώντων",
+    "postag": "v-pppamg-",
+    "sentence": "κολλᾶσθε μετὰ τῶν φοβουμένων τὸν κύριον, μετὰ τῶν μελετώντων ὃ ἔλαβον διάσταλμα ῥήματος ἐν τῇ καρδίᾳ, μετὰ τῶν λαλούντων τὰ διδαιώματα κυρίου καὶ τηρούντων, μετὰ τῶν εἰδότων, ὅτι ἡ μελέτη ἐστὶν ἔργον εὐφροσύνης, καὶ ἀναμαρυκωμένων τὸν λόγον κυρίου."
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "19.10",
+    "form": "μελετῶν",
+    "postag": "v-sppamn-",
+    "sentence": "μνησθήσῃ ἡμέραν κρίσεως νυκτὸς καὶ ἡμέρας, καὶ ἐκζητήσεις καθ’ ἑκάστην ἡμέραν τὰ πρόσωπα τῶν ἁγίων, ἢ διὰ λόγου κοπιῶν καὶ πορευόμενος εἰς τὸ παρακαλέσαι καὶ μελετῶν εἰς τὸ σῶσαι ψυχὴν τῷ λόγῳ, ἢ διὰ τῶν χειρῶν σου ἐργάσῃ εἰς λύτρωσιν ἁμαρτιῶν σου."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   μελετάω, -ῶ    (< μελέτη, care),   [in LXX chiefly for הגה;]      c. gen., to care for (Hes.).     C. acc. to attend to, practise: I Ti 4:15 (RV, be diligent in; cf. Souter in Exp., VIII, vi, 429, but v. infr.).     to study, ponder: Ac 4:25(LXX), I Ti 4:15 (AV, meditate on; cf. CGT, in l., but v. supr.; cf. προ-μελετάω).†"
+}

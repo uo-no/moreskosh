@@ -1,0 +1,77 @@
+{
+ "strong": "G4035",
+ "lemma": "περιλείπομαι",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1TH 4:15",
+   "form": "περιλειπόμενοι",
+   "morph": "V-POP-NPM",
+   "gloss_en": "remain",
+   "gloss_ja": "残る",
+   "verse": "τοῦτο γὰρ ὑμῖν λέγομεν ἐν λόγῳ κυρίου, ὅτι ἡμεῖς οἱ ζῶντες οἱ περιλειπόμενοι εἰς τὴν παρουσίαν τοῦ κυρίου οὐ μὴ φθάσωμεν τοὺς κοιμηθέντας·"
+  },
+  {
+   "ref": "1TH 4:17",
+   "form": "περιλειπόμενοι",
+   "morph": "V-POP-NPM",
+   "gloss_en": "left",
+   "gloss_ja": "残る",
+   "verse": "ἔπειτα ἡμεῖς οἱ ζῶντες οἱ περιλειπόμενοι ἅμα σὺν αὐτοῖς ἁρπαγησόμεθα ἐν νεφέλαις εἰς ἀπάντησιν τοῦ κυρίου εἰς ἀέρα· καὶ οὕτως πάντοτε σὺν κυρίῳ ἐσόμεθα."
+  }
+ ],
+ "lxx": {
+  "total": 4,
+  "works": {
+   "Machabaeorum ii": 2,
+   "Machabaeorum iv": 2
+  },
+  "representatives": [
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "1.31",
+    "form": "περιλειπόμενον",
+    "postag": "v-sppmnn-",
+    "sentence": "καθὼς δὲ ἀνηλώθη τὰ τῆς θυσίας καὶ τὸ περιλειπόμενον ὕδωρ, ὁ Νεεμίας ἐκέλευσε λίθους μείζονας κατασχεῖν."
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "13.18",
+    "form": "περιλειπόμενοι",
+    "postag": "v-pppmmn-",
+    "sentence": "καὶ ἑνὶ ἑκάστῳ τῶν ἀποσπωμένων αὐτῶν ἀδελφῶν ἔλεγον οἱ περιλειπόμενοι ·"
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "8.14",
+    "form": "περιλελειμμένα",
+    "postag": "v-prpmna-",
+    "sentence": "οἱ δὲ τὰ περιλελειμμένα πάντα ἐπώλουν, ὁμοῦ δὲ τὸν Κύριον ἠξίουν ρύσασθαι τοὺς ὑπὸ τοῦ δυσσεβοῦς Νικάνορος πρὶν συντυχεῖν πεπραμένους ·"
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "12.6",
+    "form": "περιλειπόμενον",
+    "postag": "v-sppmma-",
+    "sentence": "καὶ ταῦτα παρακαλῶν, τὴν μητέρα τοῦ παιδὸς μετεπέμψατο, ὅπως αὐτὴν ἐλεήσας τοσούτων υἱῶν στερηθεῖσαν παρορμήσειεν ἐπὶ τὴν σωτήριον εὐπείθειαν τὸν περιλειπόμενον."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   περι-λείπομαι, depon. mid. and pass.,    [in LXX: II Ch 34:21 A (שׁאר ni.), II Mac 1:31 8:14, IV Mac 12:6 13:18*;]    to be left remaining, remain over, survive: I Th 4:15, 17.†"
+}

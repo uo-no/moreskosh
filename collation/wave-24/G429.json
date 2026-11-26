@@ -1,0 +1,49 @@
+{
+ "strong": "G429",
+ "lemma": "ἀνευρίσκω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 21:4",
+   "form": "ἀνευρόντες",
+   "morph": "V-2AAP-NPM",
+   "gloss_en": "finding",
+   "gloss_ja": "探し出す",
+   "verse": "ἀνευρόντες δὲ τοὺς μαθητὰς ἐπεμείναμεν αὐτοῦ ἡμέρας ἑπτά, οἵτινες τῷ Παύλῳ ἔλεγον διὰ τοῦ πνεύματος μὴ ἐπιβαίνειν εἰς Ἱεροσόλυμα."
+  },
+  {
+   "ref": "LUK 2:16",
+   "form": "ἀνεῦραν",
+   "morph": "V-2AAI-3P",
+   "gloss_en": "found",
+   "gloss_ja": "探し出す",
+   "verse": "καὶ ἦλθαν σπεύσαντες καὶ ἀνεῦραν τήν τε Μαριὰμ καὶ τὸν Ἰωσὴφ καὶ τὸ βρέφος κείμενον ἐν τῇ φάτνῃ·"
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Machabaeorum iv": 1
+  },
+  "representatives": [
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "3.14",
+    "form": "ἀνευράμενοι",
+    "postag": "v-papmmn-",
+    "sentence": "καὶ ἀνευράμενοι τὴν πηγήν, ἐξ αὐτῆς θαρραλέως ἐγέμισαν τῷ βασιλεῖ τὸ ποτόν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   ** ἀν-ευρίσκω    (ἀνά, εὑρίσκω),   [in LXX: IV Mac 3:14*;]    to find out by search, discover (v. Field, Notes, 47 f.): Lk 2:16, Ac 21:4.†"
+}

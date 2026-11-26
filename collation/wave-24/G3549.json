@@ -1,0 +1,156 @@
+{
+ "strong": "G3549",
+ "lemma": "νομοθετέομαι",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": "νομοθετεω",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "HEB 8:6",
+   "form": "νενομοθέτηται",
+   "morph": "V-RPI-3S",
+   "gloss_en": "enacted",
+   "gloss_ja": "律法を制定する",
+   "verse": "νυνὶ δὲ διαφορωτέρας τέτυχεν λειτουργίας, ὅσῳ καὶ κρείττονός ἐστιν διαθήκης μεσίτης, ἥτις ἐπὶ κρείττοσιν ἐπαγγελίαις νενομοθέτηται."
+  },
+  {
+   "ref": "HEB 7:11",
+   "form": "νενομοθέτηται",
+   "morph": "V-RPI-3S",
+   "gloss_en": "received the law",
+   "gloss_ja": "律法を制定する",
+   "verse": "Εἰ μὲν οὖν τελείωσις διὰ τῆς Λευιτικῆς ἱερωσύνης ἦν, ὁ λαὸς γὰρ ἐπ’ αὐτῆς νενομοθέτηται, τίς ἔτι χρεία κατὰ τὴν τάξιν Μελχισέδεκ ἕτερον ἀνίστασθαι ἱερέα καὶ οὐ κατὰ τὴν τάξιν Ἀαρὼν λέγεσθαι;"
+  }
+ ],
+ "lxx": {
+  "total": 10,
+  "works": {
+   "Exodus": 1,
+   "Deuteronomium": 1,
+   "Machabaeorum ii": 1,
+   "Machabaeorum iv": 1,
+   "Psalmi": 6
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "83.7",
+    "form": "νομοθετῶν",
+    "postag": "v-sppamn-",
+    "sentence": "καὶ γὰρ εὐλογίας δώσει ὁ νομοθετῶν."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "24.12",
+    "form": "νομοθετῆσαι",
+    "postag": "v--ana---",
+    "sentence": "καὶ δώσω σοι τὰ πυξία τὰ λίθινα, τὸν νόμον καὶ τὰς ἐντολάς, ἃς ἔγραψα νομοθετῆσαι αὐτοῖς."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "17.10",
+    "form": "νομοθετηθῇ",
+    "postag": "v3sasp---",
+    "sentence": "καὶ ποιήσεις κατὰ τὸ πρᾶγμα, ὃ ἂν ἀναγγείλωσί σοι ἐκ τοῦ τόπου, οὗ ἐὰν ἐκλέξηται Κύριος ὁ Θεός σου, καὶ φυλάξῃ ποιῆσαι πάντα ὅσα ἂν νομοθετηθῇ σοι ·"
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "3.15",
+    "form": "νομοθετήσαντα",
+    "postag": "v-sapama-",
+    "sentence": "οἱ δὲ ἱερεῖς πρὸ τοῦ θυσιαστηρίου ἐν ταῖς ἱερατικαῖς στολαῖς ρίψαντες ἑαυτούς, ἐπεκαλοῦντο εἰς οὐρανὸν τὸν περὶ παραθήκης νομοθετήσαντα τοῖς παρακαταθεμένοις ταῦτα σῷα διαφυλάξαι."
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "5.25",
+    "form": "νομοθετῶν",
+    "postag": "v-sppamn-",
+    "sentence": "πιστεύοντες γὰρ Θεοῦ καθεστάναι τὸν νόμον οἴδαμεν ὅτι κατὰ φύσιν ἡμῖν συμπαθεῖ νομοθετῶν ὁ τοῦ κόσμου κτίστης ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "24.12",
+    "form": "νομοθετήσει",
+    "postag": "v3sfia---",
+    "sentence": "νομοθετήσει αὐτῷ ἐν ὁδῷ, ᾗ ᾑρετίσατο."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "118.102",
+    "form": "ἐνομοθέτησάς",
+    "postag": "v2saia---",
+    "sentence": "ἀπὸ τῶν κριμάτων σου οὐκ ἐξέκλινα, ὅτι σὺ ἐνομοθέτησάς με."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "118.33",
+    "form": "νομοθέτησόν",
+    "postag": "v2sama---",
+    "sentence": "νομοθέτησόν με, Κύριε, τὴν ὁδὸν τῶν δικαιωμάτων σου, καὶ ἐκζητήσω αὐτὴν διαπαντός."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "24.8",
+    "form": "νομοθετήσει",
+    "postag": "v3sfia---",
+    "sentence": "διὰ τοῦτο νομοθετήσει ἁμαρτάνοντας ἐν ὁδῷ."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "26.11",
+    "form": "νομοθέτησόν",
+    "postag": "v2sama---",
+    "sentence": "νομοθέτησόν με, Κύριε, ἐν τῇ ὁδῷ σου καὶ ὁδήγησόν με ἐν τρίβῳ εὐθείᾳ ἕνεκα τῶν ἐχθρῶν μου."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "Barnabas": 1,
+   "1 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "10.11",
+    "form": "ἐνομοθέτησεν",
+    "postag": "v3saia---",
+    "sentence": "βλέπετε, πῶς ἐνομοθέτησεν Μωϋσῆς καλῶς."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "43.1",
+    "form": "νενομοθετημένοις",
+    "postag": "v-prpmnd-",
+    "sentence": "ὅπου καὶ ὁ μακάριος πιστὸς θεράπων ἐν ὅλῳ τῷ οἴκῳ Μωϋσῆς τὰ διατεταγμένα αὐτῷ πάντα ἐσημειώσατο ἐν ταῖς ἱεραῖς βίβλοις, ᾧ καὶ ἐπηκολούθησαν οἱ λοιποὶ προφῆται, συνεπιμαρτυροῦντες τοῖς ὑπ’ αὐτοῦ νενομοθετημένοις."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2 νομοθετέω, -ῶ,    [in LXX for ירה hi.;]      intrans., to make laws; pass., to be furnished with laws: He 7:11.     Trans., to ordain by law, enact: pass., He 8:6.†"
+}

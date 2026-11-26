@@ -1,0 +1,68 @@
+{
+ "strong": "G4080",
+ "lemma": "πηλίκος",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "GAL 6:11",
+   "form": "πηλίκοις",
+   "morph": "A-DPN",
+   "gloss_en": "what large",
+   "gloss_ja": "どれほど大きい",
+   "verse": "Ἴδετε πηλίκοις ὑμῖν γράμμασιν ἔγραψα τῇ ἐμῇ χειρί."
+  },
+  {
+   "ref": "HEB 7:4",
+   "form": "πηλίκος",
+   "morph": "A-NSM",
+   "gloss_en": "how great",
+   "gloss_ja": "どれほど大きい",
+   "verse": "Θεωρεῖτε δὲ πηλίκος οὗτος ᾧ δεκάτην Ἀβραὰμ ἔδωκεν ἐκ τῶν ἀκροθινίων ὁ πατριάρχης."
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Machabaeorum iv": 1,
+   "Zacharias": 2
+  },
+  "representatives": [
+   {
+    "work_code": "ZEC",
+    "work_ja": "ゼカリヤ書",
+    "work_src": "Zacharias",
+    "ref": "2.6",
+    "form": "πηλίκον",
+    "postag": "p-s---nn-",
+    "sentence": "διαμετρῆσαι τὴν Ἱερουσαλὴμ τοῦ ἰδεῖν πηλίκον τὸ πλάτος αὐτῆς ἐστι καὶ πηλίκον τὸ μῆκος."
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "15.22",
+    "form": "πηλίκαις",
+    "postag": "a-p---fd-",
+    "sentence": "πηλίκαις καὶ πόσαις τότε ἡ μήτηρ τῶν υἱῶν βασανιζομένων τροχοῖς τε καὶ καυτηρίοις ἐβασανίζετο βασάνοις;"
+   },
+   {
+    "work_code": "ZEC",
+    "work_ja": "ゼカリヤ書",
+    "work_src": "Zacharias",
+    "ref": "2.6",
+    "form": "πηλίκον",
+    "postag": "p-s---nn-",
+    "sentence": "διαμετρῆσαι τὴν Ἱερουσαλὴμ τοῦ ἰδεῖν πηλίκον τὸ πλάτος αὐτῆς ἐστι καὶ πηλίκον τὸ μῆκος."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   πηλίκος, -η, -ον,    [in LXX: Za 2:2 (6) (כַּמָּה), IV Mac 15:22*;]    interrog., how large, how great? (prop., of magnitude, as πόσος of quantity): in exclamations, = ἡλίκος (v. Bl., § 51, 4), Ga 6:11; of personal greatness, He 7:4.†"
+}

@@ -1,0 +1,136 @@
+{
+ "strong": "G4018",
+ "lemma": "περιβόλαιον",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 11:15",
+   "form": "περιβολαίου",
+   "morph": "N-GSN",
+   "gloss_en": "covering",
+   "gloss_ja": "外套",
+   "verse": "γυνὴ δὲ ἐὰν κομᾷ, δόξα αὐτῇ ἐστιν; ὅτι ἡ κόμη ἀντὶ περιβολαίου δέδοται."
+  },
+  {
+   "ref": "HEB 1:12",
+   "form": "περιβόλαιον",
+   "morph": "N-ASN",
+   "gloss_en": "cloak",
+   "gloss_ja": "外套",
+   "verse": "καὶ ὡσεὶ περιβόλαιον ἑλίξεις αὐτούς, ὡς ἱμάτιον καὶ ἀλλαγήσονται· σὺ δὲ ὁ αὐτὸς εἶ, καὶ τὰ ἔτη σου οὐκ ἐκλείψουσιν."
+  }
+ ],
+ "lxx": {
+  "total": 10,
+  "works": {
+   "Exodus": 1,
+   "Deuteronomium": 1,
+   "Psalmi": 2,
+   "Job": 1,
+   "Isaias": 2,
+   "Jeremias": 1,
+   "Ezechiel": 2
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "103.6",
+    "form": "περιβόλαιον",
+    "postag": "n-s---nn-",
+    "sentence": "ἄβυσσος ὡς ἱμάτιον τὸ περιβόλαιον αὐτοῦ, ἐπὶ τῶν ὀρέων στήσονται ὕδατα ·"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "50.3",
+    "form": "περιβόλαιον",
+    "postag": "n-s---na-",
+    "sentence": "ἐνδύσω τὸν οὐρανὸν σκότος καὶ ὡς σάκκον θήσω τὸ περιβόλαιον αὐτοῦ."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "16.13",
+    "form": "περιβόλαιά",
+    "postag": "n-p---nn-",
+    "sentence": "καὶ ἐκοσμήθης χρυσίῳ καὶ ἀργυρίῳ, καὶ τὰ περιβόλαιά σου βύσσινα καὶ τρίχαπτα καὶ ποικίλα ·"
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "22.27",
+    "form": "περιβόλαιον",
+    "postag": "n-s---nn-",
+    "sentence": "ἔστι γὰρ τοῦτο περιβόλαιον αὐτοῦ, μόνον τοῦτο τὸ ἱμάτιον ἀσχημοσύνης αὐτοῦ ·"
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "22.12",
+    "form": "περιβολαίων",
+    "postag": "n-p---ng-",
+    "sentence": "στρεπτὰ ποιήσεις σεαυτῷ ἐπὶ τῶν τεσσάρων κρασπέδων τῶν περιβολαίων σου, ἃ ἐὰν περιβάλῃ ἐν αὐτοῖς."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "26.6",
+    "form": "περιβόλαιον",
+    "postag": "n-s---nn-",
+    "sentence": "γυμνὸς ὁ ᾅδης ἐνώπιον αὐτοῦ, καὶ οὐκ ἔστι περιβόλαιον τῇ ἀπωλείᾳ."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "15.12",
+    "form": "περιβόλαιον",
+    "postag": "n-s---nn-",
+    "sentence": "καὶ περιβόλαιον χαλκοῦν ἡ ἰσχύς σου."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "101.27",
+    "form": "περιβόλαιον",
+    "postag": "n-s---nn-",
+    "sentence": "αὐτοὶ ἀπολοῦνται, σὺ δὲ διαμένεις, καὶ πάντες ὡς ἱμάτιον παλαιωθήσονται, καὶ ὡσεὶ περιβόλαιον ἑλίξεις αὐτοὺς καὶ ἀλλαγήσονται ·"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "59.17",
+    "form": "περιβόλαιον",
+    "postag": "n-s---na-",
+    "sentence": "καὶ ἐνεδύσατο δικαιοσύνην ὡς θώρακα καὶ περιέθετο περικεφαλαίαν σωτηρίου ἐπὶ τῆς κεφαλῆς καὶ περιεβάλετο ἱμάτιον ἐκδικήσεως καὶ τὸ περιβόλαιον ὡς ἀνταποδώσων ἀνταπόδοσιν ὄνειδος τοῖς ὑπεναντίοις."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "27.7",
+    "form": "περιβόλαιά",
+    "postag": "n-p---nn-",
+    "sentence": "βύσσος μετὰ ποικιλίας ἐξ Αἰγύπτου ἐγένετό σοι στρωμνὴ τοῦ περιθεῖναί σοι δόξαν καὶ περιβαλεῖν σε ὑάκινθον καὶ πορφύραν ἐκ τῶν νήσων Ἐλεισαὶ καὶ ἐγένετο περιβόλαιά σου."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   περι-βόλαιον, -ου, τό    (< περιβάλλω),   [in LXX chiefly for לְבוּשׁ, כְּסוּת and cognate forms;]      that which is thrown around, a covering,   in NT,     a mantle (Ps 101 (102):27, Is 59:17, al.): He 1:12(LXX);     a veil: I Co 11:15 (but v. ICC, in l.).†"
+}

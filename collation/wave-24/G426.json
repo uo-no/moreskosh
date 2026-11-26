@@ -1,0 +1,49 @@
+{
+ "strong": "G426",
+ "lemma": "ἀνετάζω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 22:24",
+   "form": "ἀνετάζεσθαι",
+   "morph": "V-PPN",
+   "gloss_en": "examined",
+   "gloss_ja": "尋問する",
+   "verse": "ἐκέλευσεν ὁ χιλίαρχος εἰσάγεσθαι αὐτὸν εἰς τὴν παρεμβολήν, εἴπας μάστιξιν ἀνετάζεσθαι αὐτὸν ἵνα ἐπιγνῷ δι’ ἣν αἰτίαν οὕτως ἐπεφώνουν αὐτῷ."
+  },
+  {
+   "ref": "ACT 22:29",
+   "form": "ἀνετάζειν",
+   "morph": "V-PAN",
+   "gloss_en": "examine",
+   "gloss_ja": "尋問する",
+   "verse": "εὐθέως οὖν ἀπέστησαν ἀπ’ αὐτοῦ οἱ μέλλοντες αὐτὸν ἀνετάζειν· καὶ ὁ χιλίαρχος δὲ ἐφοβήθη ἐπιγνοὺς ὅτι Ῥωμαῖός ἐστιν καὶ ὅτι αὐτὸν ἦν δεδεκώς."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Susanna": 1
+  },
+  "representatives": [
+   {
+    "work_code": "SUS",
+    "work_ja": "スザンナ（Th）",
+    "work_src": "Susanna",
+    "ref": "14",
+    "form": "ἀνετάζοντες",
+    "postag": "v-pppamn-",
+    "sentence": "καὶ ἀνακάμψαντες ἦλθον ἐπὶ τὸ αὐτὸ καὶ ἀνετάζοντες ἀλλήλους τὴν αἰτίαν, ὡμολόγησαν τὴν ἐπιθυμίαν αὐτῶν ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   † ἀν-ετάζω    (< ἀνά, ἐτάζω, to examine; v. MM, VGT, s.v.),   [in LXX: Jg 6:29 (דָּרַשׁ), Es 2:23 (בָּקַשׁ), Da TH Su 14*;]    to examine judicially: Ac 22:24, 29.†"
+}

@@ -1,0 +1,154 @@
+{
+ "strong": "G360",
+ "lemma": "ἀναλύω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 12:36",
+   "form": "ἀναλύσῃ",
+   "morph": "V-AAS-3S",
+   "gloss_en": "return",
+   "gloss_ja": "解く",
+   "verse": "καὶ ὑμεῖς ὅμοιοι ἀνθρώποις προσδεχομένοις τὸν κύριον ἑαυτῶν πότε ἀναλύσῃ ἐκ τῶν γάμων, ἵνα ἐλθόντος καὶ κρούσαντος εὐθέως ἀνοίξωσιν αὐτῷ."
+  },
+  {
+   "ref": "PHP 1:23",
+   "form": "ἀναλῦσαι",
+   "morph": "V-AAN",
+   "gloss_en": "depart",
+   "gloss_ja": "解く",
+   "verse": "συνέχομαι δὲ ἐκ τῶν δύο, τὴν ἐπιθυμίαν ἔχων εἰς τὸ ἀναλῦσαι καὶ σὺν Χριστῷ εἶναι, πολλῷ γὰρ μᾶλλον κρεῖσσον,"
+  }
+ ],
+ "lxx": {
+  "total": 18,
+  "works": {
+   "Esdras i": 2,
+   "Judith": 1,
+   "Tobias": 1,
+   "Machabaeorum ii": 4,
+   "Machabaeorum iii": 6,
+   "Sapientia Salomonis": 3,
+   "Ecclesiasticus sive Siracides": 1
+  },
+  "representatives": [
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "2.24",
+    "form": "ἀνέλυσε",
+    "postag": "v3saia---",
+    "sentence": "ἐν χρόνῳ δὲ ὕστερον ἀναλεξάμενος ἑαυτὸν οὐδαμῶς εἰς μετάμελον ἦλθεν ἐπιτιμηθείς, μετ’ ἀπειλῆς δὲ πικρᾶς ἀνέλυσε."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "8.25",
+    "form": "ἀνέλυσαν",
+    "postag": "v3paia---",
+    "sentence": "συνδιώξαντες δὲ αὐτοὺς ἐφ’ ἱκανὸν ἀνέλυσαν ὑπὸ τῆς ὥρας συγκλειόμενοι."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "5.12",
+    "form": "ἀνελύθη",
+    "postag": "v3saip---",
+    "sentence": "ἢ ὡς βέλους βληθέντος ἐπὶ σκοπόν, τμηθεὶς ὁ ἀὴρ εὐθέως εἰς ἑαυτὸν ἀνελύθη ὡς ἀγνοῆσαι τὴν δίοδον αὐτοῦ."
+   },
+   {
+    "work_code": "1ES",
+    "work_ja": "エズラ記（ギリシャ語）",
+    "work_src": "Esdras i",
+    "ref": "3.3",
+    "form": "ἀνέλυσεν",
+    "postag": "v3saia---",
+    "sentence": "ὁ δὲ Δαρεῖος ὁ βασιλεὺς ἀνέλυσεν εἰς τὸν κοιτῶνα ἑαυτοῦ καὶ ἐκοιμήθη καὶ ἔξυπνος ἐγένετο."
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "13.1",
+    "form": "ἀναλύειν",
+    "postag": "v--pna---",
+    "sentence": "ὡς δὲ ὀψία ἐγένετο, ἐσπούδασαν οἱ δοῦλοι αὐτοῦ ἀναλύειν."
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "2.9",
+    "form": "ἀνέλυσα",
+    "postag": "v1saia---",
+    "sentence": "καὶ ἐν αὐτῇ τῇ νυκτὶ ἀνέλυσα θάψας καὶ ἐκοιμήθην μεμιαμμένος παρὰ τὸν τοῖχον τῆς αὐλῆς, καὶ τὸ πρόσωπόν μου ἀκάλυπτον ἦν."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "3.15",
+    "form": "ἀναλυθήσονταί",
+    "postag": "v3pfip---",
+    "sentence": "ὡς εὐδία ἐπὶ παγετῷ, οὕτως ἀναλυθήσονταί σου αἱ ἁμαρτίαι."
+   },
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "5.44",
+    "form": "ἀναλύσαντες",
+    "postag": "v-papamn-",
+    "sentence": "τότε περιχαρεῖς ἀναλύσαντες οἱ φίλοι καὶ συγγενεῖς μετὰ πίστεως διέτασσον τὰς δυνάμεις ἐπὶ τοὺς εὐκαιροτάτους τόπους τῆς πόλεως πρὸς τήρησιν."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "9.1",
+    "form": "ἀναλελυκὼς",
+    "postag": "v-srpamn-",
+    "sentence": "περὶ δὲ τὸν καιρὸν ἐκεῖνον ἐτύγχανεν Ἀντίοχος ἀναλελυκὼς ἀκόσμως ἐκ τῶν κατὰ τὴν Περσίδα τόπων."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "16.14",
+    "form": "ἀναλύει",
+    "postag": "v3spia---",
+    "sentence": "ἄνθρωπος δὲ ἀποκτέννει μὲν τῇ κακίᾳ αὐτοῦ, ἐξελθὸν δὲ πνεῦμα οὐκ ἀναστρέφει οὐ-δὲ ἀναλύει ψυχὴν παραληφθεῖσαν."
+   },
+   {
+    "work_code": "1ES",
+    "work_ja": "エズラ記（ギリシャ語）",
+    "work_src": "Esdras i",
+    "ref": "3.3",
+    "form": "ἀνέλυσαν",
+    "postag": "v3paia---",
+    "sentence": "καὶ ἐφάγοσαν καὶ ἐπίοσαν καὶ ἐμπλησθέντες ἀνέλυσαν."
+   },
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "5.40",
+    "form": "ἀναλύων",
+    "postag": "v-sppamn-",
+    "sentence": "βασιλεῦ, μέχρι τίνος ὡς ἀλόγους ἡμᾶς διαπειράζεις, προστάσσων ἤδη τρίτον αὐτοὺς ἀφανίσαι καὶ πάλιν ἐπὶ τῶν πραγμάτων ἐκ μεταβολῆς ἀναλύων τὰ σοὶ δεδογμένα;"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   ** ἀνα-λύω    [in LXX: I Es 3:3, To 2:9, Jth 13:1, Si 3:15, Wi3, Mac10*;]      to unloose.   to unloose for departure, depart (MM, VGT, s.v.): from life, Phl 1:23      to return, Lk 12:36.†"
+}

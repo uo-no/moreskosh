@@ -1,0 +1,157 @@
+{
+ "strong": "G3039",
+ "lemma": "λικμάω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 20:18",
+   "form": "λικμήσει",
+   "morph": "V-FAI-3S",
+   "gloss_en": "crush",
+   "gloss_ja": "粉にする",
+   "verse": "πᾶς ὁ πεσὼν ἐπ’ ἐκεῖνον τὸν λίθον συνθλασθήσεται· ἐφ’ ὃν δ’ ἂν πέσῃ, λικμήσει αὐτόν."
+  },
+  {
+   "ref": "MAT 21:44",
+   "form": "λικμήσει",
+   "morph": "V-FAI-3S",
+   "gloss_en": "crush",
+   "gloss_ja": "粉にする",
+   "verse": "Καὶ ὁ πεσὼν ἐπὶ τὸν λίθον τοῦτον συνθλασθήσεται· ἐφ’ ὃν δ’ ἂν πέσῃ λικμήσει αὐτόν."
+  }
+ ],
+ "lxx": {
+  "total": 20,
+  "works": {
+   "Ruth": 1,
+   "Regnorum iii": 1,
+   "Job": 1,
+   "Sapientia Salomonis": 2,
+   "Ecclesiasticus sive Siracides": 1,
+   "Amos": 2,
+   "Isaias": 4,
+   "Jeremias": 2,
+   "Ezechiel": 5,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "30.26",
+    "form": "λικμήσω",
+    "postag": "v1sfia---",
+    "sentence": "καὶ διασπερῶ Αἴγυπτον εἰς τὰ ἔθνη καὶ λικμήσω αὐτοὺς εἰς τὰς χώρας ·"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "41.16",
+    "form": "λικμήσεις",
+    "postag": "v2sfia---",
+    "sentence": "καὶ λικμήσεις, καὶ ἄνεμος λήψεται αὐτούς, καὶ καταιγὶς διασπερεῖ αὐτούς, σὺ δὲ εὐφρανθήσῃ ἐν τοῖς ἁγίοις Ἰσραήλ."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "11.20",
+    "form": "λικμηθέντες",
+    "postag": "v-pappmn-",
+    "sentence": "καὶ χωρὶς δὲ τούτων, ἑνὶ πνεύματι πεσεῖν ἐδύναντο ὑπὸ τῆς δίκης διωχθέντες καὶ λικμηθέντες ὑπὸ πνεύματος δυνάμεώς σου ·"
+   },
+   {
+    "work_code": "AMO",
+    "work_ja": "アモス書",
+    "work_src": "Amos",
+    "ref": "9.9",
+    "form": "λικμᾶται",
+    "postag": "v3spim---",
+    "sentence": "διότι ἰδοὺ ἐγὼ ἐντέλλομαι καὶ λικμήσω ἐν πᾶσι τοῖς ἔθνεσι τὸν οἶκον Ἰσραήλ, ὃν τρόπον λικμᾶται ἐν τῷ λικμῷ καὶ οὐ μὴ πέσῃ σύντριμμα ἐπὶ τὴν γῆν."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "38.10",
+    "form": "λικμήσας",
+    "postag": "v-sapamn-",
+    "sentence": "ὁ λικμήσας τὸν Ἰσραὴλ καὶ συνάξει αὐτὸν καὶ φυλάξει αὐτὸν ὡς ὁ βόσκων ποίμνιον αὐτοῦ."
+   },
+   {
+    "work_code": "RUT",
+    "work_ja": "ルツ記",
+    "work_src": "Ruth",
+    "ref": "3.2",
+    "form": "λικμᾷ",
+    "postag": "v3spia---",
+    "sentence": "ἰδοὺ αὐτὸς λικμᾷ τὸν ἅλωνα τῶν κριθῶν ταύτῃ τῇ νυκτί."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "14.15",
+    "form": "λικμήσει",
+    "postag": "v3sfia---",
+    "sentence": "Κύριος πλήξει τὸν Ἰσραήλ, καθὰ κινεῖται ὁ ἄνεμος ἐν τῷ ὕδατι, καὶ ἐκτελεῖ τὸν Ἰσραὴλ ἀπὸ ἄνω τῆς χθονὸς τῆς ἀγαθῆς ταύτης, ἧς ἔδωκε τοῖς πατράσιν αὐτῶν, καὶ λικμήσει αὐτοὺς ἀπὸ πέραν τοῦ ποταμοῦ ·"
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "27.21",
+    "form": "λικμήσει",
+    "postag": "v3sfia---",
+    "sentence": "ἀναλήψεται δὲ αὐτὸν καύσων καὶ ἀπελεύσεται, καὶ λικμήσει αὐτὸν ἐκ τοῦ τόπου αὐτοῦ."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "5.9",
+    "form": "λίκμα",
+    "postag": "v2spma---",
+    "sentence": "μὴ λίκμα ἐν παντὶ ἀνέμῳ καὶ μὴ πορεύου ἐν πάσῃ ἀτραπῷ ·"
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "2.44",
+    "form": "λικμήσει",
+    "postag": "v3sfia---",
+    "sentence": "λεπτυνεῖ καὶ λικμήσει πάσας τὰς βασιλείας, καὶ αὐτὴ ἀναστήσεται εἰς τοὺς αἰῶνας."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "36.19",
+    "form": "ἐλίκμησα",
+    "postag": "v1saia---",
+    "sentence": "καὶ ἐξέχεα τὸν θυμόν μου ἐπ’ αὐτοὺς καὶ διέσπειρα αὐτοὺς εἰς τὰ ἔθνη καὶ ἐλίκμησα αὐτοὺς εἰς τὰς χώρας ·"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "17.13",
+    "form": "λικμώντων",
+    "postag": "v-pppamg-",
+    "sentence": "καὶ ἀποσκορακιεῖ αὐτὸν καὶ πόρρω αὐτὸν διώξεται ὡς χνοῦν ἀχύρου λικμώντων ἀπέναντι ἀνέμου καὶ ὡς κονιορτὸν τροχοῦ καταιγὶς φέρουσα."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   λικμάω, -ῶ    (< λικμός = λίκνον, a winnowing-fan),   [in LXX chiefly for זרה ni., pi., Ru 3:2, III Ki 14:15, Is 17:13, Je 38 (31):10, Da 2:44, al.;]      in cl., to winnow (so Ru 3:2).     In LXX (III Ki 14:15, Is 17:13, Je 38 (31):10, Da 2:44), to scatter (as chaff or dust): Lk 20:18 (RV, scatter as dust, Deiss., BS, 225 f., quotes ex. in π. which suggests the meaning ruin, destroy; cf. Vg. comminuet, AV, grind to powder; cf. also Kennedy, Sources, 126), Mt 21:44 [WH], R, txt.†"
+}

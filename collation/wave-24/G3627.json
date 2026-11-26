@@ -1,0 +1,155 @@
+{
+ "strong": "G3627",
+ "lemma": "οἰκτίρω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ROM 9:15",
+   "form": "οἰκτιρήσω",
+   "morph": "V-FAI-1S",
+   "gloss_en": "have compassion on",
+   "gloss_ja": "あわれむ",
+   "verse": "τῷ Μωϋσεῖ γὰρ λέγει· Ἐλεήσω ὃν ἂν ἐλεῶ, καὶ οἰκτιρήσω ὃν ἂν οἰκτίρω."
+  },
+  {
+   "ref": "ROM 9:15",
+   "form": "οἰκτίρω",
+   "morph": "V-PAS-1S",
+   "gloss_en": "compassion",
+   "gloss_ja": "あわれむ",
+   "verse": "τῷ Μωϋσεῖ γὰρ λέγει· Ἐλεήσω ὃν ἂν ἐλεῶ, καὶ οἰκτιρήσω ὃν ἂν οἰκτίρω."
+  }
+ ],
+ "lxx": {
+  "total": 18,
+  "works": {
+   "Exodus": 2,
+   "Machabaeorum ii": 1,
+   "Machabaeorum iii": 1,
+   "Machabaeorum iv": 2,
+   "Psalmi": 3,
+   "Proverbia": 4,
+   "Psalmi Salomonis": 3,
+   "Jeremias": 2
+  },
+  "representatives": [
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "13.9α",
+    "form": "οἰκτείρουσι",
+    "postag": "v3ppia---",
+    "sentence": "ψυχαὶ δόλιαι πλανῶνται ἐν ἁμαρτίαις, δίκαιοι δὲ οἰκτείρουσι καὶ ἐλεοῦσι."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "111.5",
+    "form": "οἰκτείρων",
+    "postag": "v-sppamn-",
+    "sentence": "χρηστὸς ἀνὴρ ὁ οἰκτείρων καὶ κιχρῶν ·"
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "7.8",
+    "form": "οἰκτιρήσεις",
+    "postag": "v2sfia---",
+    "sentence": "ὅτι σὺ οἰκτιρήσεις τὸ γένος Ισραηλ εἰς τὸν αἰῶνα καὶ οὐκ ἀπώσῃ."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "33.19",
+    "form": "οἰκτειρήσω",
+    "postag": "v1sfia---",
+    "sentence": "καὶ ἐλεήσω ὃν ἂν ἐλεῶ, καὶ οἰκτειρήσω ὃν ἂν οἰκτείρω."
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "5.32",
+    "form": "οἰκτείρομαι",
+    "postag": "v1spim---",
+    "sentence": "οὐχ οὕτως οἰκτείρομαι τὸ ἐμαυτοῦ γῆρας ὥστε με δι’ ἐμαυτοῦ τὸν πάτριον καταλῦσαι νόμον."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "21.7",
+    "form": "οἰκτειρήσω",
+    "postag": "v1sasa---",
+    "sentence": "οὐ φείσομαι ἐπ’ αὐτοῖς καὶ οὐ μὴ οἰκτειρήσω αὐτούς."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "8.2",
+    "form": "οἰκτεῖραι",
+    "postag": "v--ana---",
+    "sentence": "καὶ ἐπεκαλοῦντο τὸν Κύριον ἐπιδεῖν ἐπὶ τὸν ὑπὸ πάντων καταπατούμενον λαόν, οἰκτεῖραι δὲ καὶ τὸν ναὸν τὸν ὑπὸ τῶν ἀσεβῶν ἀνθρώπων βεβηλωθέντα, ἐλεῆσαι δὲ καὶ τὴν καταφθειρομένην πόλιν καὶ μέλλουσαν ἰσόπεδον γίνεσθαι καὶ τῶν καταβοώντων πρὸς αὐτὸν αἱμάτων εἰσακοῦσαι, μνησθῆναι δὲ καὶ τῆς τῶν ἀναμαρτήτων νηπίων παρανόμου ἀπωλείας καὶ περὶ τῶν γενομένων εἰς τὸ ὄνομα αὐτοῦ βλασφημιῶν καὶ μισοπονηρῆσαι."
+   },
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "5.51",
+    "form": "οἰκτεῖραι",
+    "postag": "v--ana---",
+    "sentence": "οὐ μὴν δὲ ἀλλὰ καὶ τὰς ἔμπροσθεν αὐτῶν γεγενημένας ἀντιλήψεις ἐξ οὐρανοῦ συνιδόντες, πρηνεῖς ὁμοθυμαδὸν ρίψαντες ἑαυτοὺς καὶ τὰ νήπια χωρίσαντες τῶν μαστῶν, ἀνεβόησαν φωνῇ μεγάλῃ σφόδρα, τὸν τῆς ἁπάσης δυνάμεως δυνάστην ἱκετεύοντες, οἰκτεῖραι μετ’ ἐπιφανείας αὐτοὺς ἤδη πρὸς πύλαις ᾅδου καθεστῶτας."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "12.10",
+    "form": "οἰκτείρει",
+    "postag": "v3spia---",
+    "sentence": "δίκαιος οἰκτείρει ψυχὰς κτηνῶν αὐτοῦ, τὰ δὲ σπλάγχνα τῶν ἀσεβῶν ἀνελεήμονα."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "36.21",
+    "form": "οἰκτείρει",
+    "postag": "v3spia---",
+    "sentence": "δανείζεται ὁ ἁμαρτωλὸς καὶ οὐκ ἀποτίσει, ὁ δὲ δίκαιος οἰκτείρει καὶ δίδωσιν ·"
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "8.27",
+    "form": "οἰκτίρησον",
+    "postag": "v2sama---",
+    "sentence": "ἐπίστρεψον, ὁ θεός, τὸ ἔλεός σου ἐφ’ ἡμᾶς καὶ οἰκτίρησον ἡμᾶς ·"
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "33.19",
+    "form": "οἰκτείρω",
+    "postag": "v1spsa---",
+    "sentence": "καὶ ἐλεήσω ὃν ἂν ἐλεῶ, καὶ οἰκτειρήσω ὃν ἂν οἰκτείρω."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   οἰκτείρω    (< οἶκτος, pity),   [in LXX for רחם pi., חנן, etc.;]    to pity, have compassion on. c. acc. pers., Ro 9:15(LXX).†   SYN.: ἐλεέω, q.v."
+}

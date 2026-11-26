@@ -1,0 +1,49 @@
+{
+ "strong": "G33",
+ "lemma": "ἄγε",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JAS 4:13",
+   "form": "Ἄγε",
+   "morph": "V-PAM-2S",
+   "gloss_en": "come",
+   "gloss_ja": "さあ",
+   "verse": "Ἄγε νῦν οἱ λέγοντες· Σήμερον ἢ αὔριον πορευσόμεθα εἰς τήνδε τὴν πόλιν καὶ ποιήσομεν ἐκεῖ ἐνιαυτὸν καὶ ἐμπορευσόμεθα καὶ κερδήσομεν·"
+  },
+  {
+   "ref": "JAS 5:1",
+   "form": "Ἄγε",
+   "morph": "V-PAM-2S",
+   "gloss_en": "come",
+   "gloss_ja": "さあ",
+   "verse": "Ἄγε νῦν οἱ πλούσιοι, κλαύσατε ὀλολύζοντες ἐπὶ ταῖς ταλαιπωρίαις ὑμῶν ταῖς ἐπερχομέναις."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Judices": 1
+  },
+  "representatives": [
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "19.6",
+    "form": "ἄγε",
+    "postag": "g--------",
+    "sentence": "ἄγε δὴ αὐλίσθητι, καὶ ἀγαθυνθήσεται ἡ καρδία σου."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   ἄγε,   prop. imperat. of ἄγω,   come! used as adv. and addressed, like φέρε, to one or more persons: Ja 4:13, 5:1.†"
+}

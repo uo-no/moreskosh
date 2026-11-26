@@ -1,0 +1,253 @@
+{
+ "strong": "G3064",
+ "lemma": "λοιπός",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "EPH 6:10",
+   "form": "λοιποῦ",
+   "morph": "A-GSN",
+   "gloss_en": "finally",
+   "gloss_ja": "その他",
+   "verse": "Τοῦ λοιποῦ ἐνδυναμοῦσθε ἐν κυρίῳ καὶ ἐν τῷ κράτει τῆς ἰσχύος αὐτοῦ."
+  },
+  {
+   "ref": "GAL 6:17",
+   "form": "λοιποῦ",
+   "morph": "A-GSN",
+   "gloss_en": "from now on",
+   "gloss_ja": "その他",
+   "verse": "Τοῦ λοιποῦ κόπους μοι μηδεὶς παρεχέτω, ἐγὼ γὰρ τὰ στίγματα τοῦ Ἰησοῦ ἐν τῷ σώματί μου βαστάζω."
+  }
+ ],
+ "lxx": {
+  "total": 120,
+  "works": {
+   "Genesis": 1,
+   "Exodus": 5,
+   "Leviticus": 2,
+   "Deuteronomium": 2,
+   "Josue": 5,
+   "Judices": 2,
+   "Regnorum i": 2,
+   "Regnorum iii": 12,
+   "Regnorum iv": 23,
+   "Paralipomenon i sive Chronicon i": 2,
+   "Paralipomenon ii sive Chronicon ii": 11,
+   "Esdras i": 5,
+   "Esdras ii": 1,
+   "Esther": 4,
+   "Judith": 4,
+   "Tobias": 2,
+   "Machabaeorum i": 13,
+   "Machabaeorum ii": 10,
+   "Machabaeorum iii": 2,
+   "Odae": 1,
+   "Ecclesiasticus sive Siracides": 1,
+   "Isaias": 5,
+   "Jeremias": 1,
+   "Ezechiel": 2,
+   "Daniel": 2
+  },
+  "representatives": [
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "15.11",
+    "form": "λοιπὰ",
+    "postag": "a-p---nn-",
+    "sentence": "καὶ τὰ λοιπὰ τῶν λόγων Ζαχαρίου ἰδού εἰσι γεγραμμένα ἐπὶ βιβλίῳ λόγων τῶν ἡμερῶν τοῖς βασιλεῦσιν Ἰσραήλ."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "9.18",
+    "form": "λοιποὶ",
+    "postag": "a-p---mn-",
+    "sentence": "καὶ Ἰούδας ἔπεσε, καὶ οἱ λοιποὶ ἔφυγον."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "16.28δ",
+    "form": "λοιπὰ",
+    "postag": "a-p---nn-",
+    "sentence": "καὶ τὰ λοιπὰ τῶν συμπλοκῶν, ἃς ἐπέθεντο ἐν ταῖς ἡμέραις Ἀσὰ τοῦ πατρὸς αὐτοῦ, ἐξῇρεν ἀπὸ τῆς γῆς."
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "24.27",
+    "form": "λοιπὰ",
+    "postag": "a-p---nn-",
+    "sentence": "καὶ τὰ λοιπὰ ἰδοὺ γεγραμμένα ἐπὶ τὴν γραφὴν τῶν βασιλέων ·"
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "10.36",
+    "form": "λοιπὴν",
+    "postag": "a-s---fa-",
+    "sentence": "οἱ δὲ τὰς πύλας διέκοπτον, εἰσδεξάμενοι δὲ τὴν λοιπὴν τάξιν προκατελάβοντο τὴν πόλιν."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "29.12",
+    "form": "λοιπὸν",
+    "postag": "a-s---na-",
+    "sentence": "τὸ δὲ λοιπὸν πᾶν αἷμα ἐκχεεῖς παρὰ τὴν βάσιν τοῦ θυσιαστηρίου."
+   },
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "6.13",
+    "form": "λοιπὸς",
+    "postag": "a-s---mn-",
+    "sentence": "καὶ οἱ ἱερεῖς ἐσάλπισαν ταῖς σάλπιγξι, καὶ ὁ λοιπὸς ὄχλος ἅπας περιεκύκλωσε τὴν πόλιν ἑξάκις ἐγγύθεν καὶ ἀπῆλθε πάλιν εἰς τὴν παρεμβολήν."
+   },
+   {
+    "work_code": "1ES",
+    "work_ja": "エズラ記（ギリシャ語）",
+    "work_src": "Esdras i",
+    "ref": "2.21",
+    "form": "λοιποῖς",
+    "postag": "a-p---md-",
+    "sentence": "τότε ἀντέγραψεν ὁ βασιλεὺς Ραθύμῳ τῷ γράφοντι τὰ προσπίπτοντα καὶ Βεελτέθμῳ καὶ Σαμελλίῳ γραμματεῖ καὶ τοῖς λοιποῖς τοῖς συντασσομένοις καὶ οἰκοῦσιν ἐν τῇ Σαμαρείᾳ καὶ Συρίᾳ καὶ Φοινίκῃ τὰ ὑπογεγραμμένα ·"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "17.3",
+    "form": "λοιπὸν",
+    "postag": "a-s---nn-",
+    "sentence": "καὶ οὐκέτι ἔσται βασιλεία ἐν Δαμασκῷ, καὶ τὸ λοιπὸν τῶν Σύρων ἀπολεῖται ·"
+   },
+   {
+    "work_code": "EST",
+    "work_ja": "エステル記",
+    "work_src": "Esther",
+    "ref": "2.3",
+    "form": "λοιπὴ",
+    "postag": "a-s---fn-",
+    "sentence": "καὶ παραδοθήτωσαν τῷ εὐνούχῳ τοῦ βασιλέως τῷ φύλακι τῶν γυναικῶν, καὶ δοθήτω σμῆγμα καὶ ἡ λοιπὴ ἐπιμέλεια ·"
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "11.3",
+    "form": "λοιπόν",
+    "postag": "a-s---na-",
+    "sentence": "θάρσει, ἐν τῇ νυκτὶ ταύτῃ ζήσῃ καὶ εἰς τὸ λοιπόν ·"
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "2.3",
+    "form": "λοιπὸν",
+    "postag": "a-s---nn-",
+    "sentence": "καὶ τὸ λοιπὸν ἀπὸ τῆς θυσίας Ἀαρὼν καὶ τοῖς υἱοῖς αὐτοῦ ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 52,
+  "works": {
+   "Barnabas": 1,
+   "1 Clement": 4,
+   "To Diognetus": 5,
+   "Hermas, Pastor": 35,
+   "Ignatius, Letters": 4,
+   "Martyrdom of Polycarp": 2,
+   "Polycarp, To the Philippians": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "3.2.1",
+    "form": "λοιπῶν",
+    "postag": "a-p---ng-",
+    "sentence": "τῶν δὲ λοιπῶν τὰ ἀριστερὰ μέρη ἐστίν."
+   },
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "2",
+    "form": "λοιποῖς",
+    "postag": "a-p---nd-",
+    "sentence": "οὐ ταῦτα πάλιν, τὰ νῦν ὑφ’ ὑμῶν προσκυνούμενα, δύναιτ’ ἂν ὑπὸ ἀνθρώπων σκεύη ὅμοια γενέσθαι τοῖς λοιποῖς;"
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "32.2",
+    "form": "λοιπὰ",
+    "postag": "a-p---nn-",
+    "sentence": "τὰ δὲ λοιπὰ σκῆπτρα αὐτοῦ οὐκ ἐν μικρᾷ δόξῃ ὑπάρχουσιν, ὡς ἐπαγγειλαμένου τοῦ θεοῦ, ὅτι ἔσται τὸ σπέρμα σου ὡς οἱ ἀστέρες τοῦ οὐρανοῦ."
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "2.15.1",
+    "form": "λοιπαὶ",
+    "postag": "a-p---fn-",
+    "sentence": "καὶ αἱ λοιπαὶ δὲ ἐκκλησίαι ἐν τιμῇ Ἰησοῦ Χριστοῦ ἀσπάζονται ὑμᾶς."
+   },
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "9.1",
+    "form": "λοιπὸν",
+    "postag": "a-s---na-",
+    "sentence": "καὶ λοιπὸν προσαχθέντος αὐτοῦ, θόρυβος ἦν μέγας ἀκουσάντων, ὅτι Πολύκαρπος συνείληπται."
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "10.5",
+    "form": "λοιπά",
+    "postag": "a-p---nn-",
+    "sentence": "οὐ μή, φησίν, ὁμοιωθήσῃ κολλώμενος ἀνθρώποις τοιούτοις, οἵτινες εἰς τέλος εἰσὶν ἀσεβεῖς καὶ κεκριμένοι ἤδη τῷ θανάτῳ, ὡς καὶ ταῦτα τὰ ἰχθύδια μόνα ἐπικατάρατα ἐν τῷ βυθῷ νήχεται, μὴ κολυμβῶντα ὡς τὰ λοιπά, ἀλλ’ ἐν τῇ γῇ κάτω τοῦ βυθοῦ κατοικεῖ."
+   },
+   {
+    "work_code": "PPH",
+    "work_ja": "ポリュカルポスのピリピ書簡",
+    "work_src": "Polycarp, To the Philippians",
+    "ref": "9.1",
+    "form": "λοιποῖς",
+    "postag": "a-p---md-",
+    "sentence": "παρακαλῶ οὖν πάντας ὑμᾶς, πειθαρχεῖν τῷ λόγῳ τῆς δικαιοσύνης καὶ ἀσκεῖν πᾶσαν ὑπομονήν, ἣν καὶ εἴδατε κατ’ ὀφθαλμοὺς οὐ μόνον ἐν τοῖς μακαρίοις Ἰγνατίῳ καὶ Ζωσίμῳ καὶ Ῥούφῳ, ἀλλὰ καὶ ἐν ἄλλοις τοῖς ἐξ ὑμῶν καὶ ἐν αὐτῷ Παύλῳ καὶ τοῖς λοιποῖς ἀποστόλοις ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.8.5",
+    "form": "λοιποὶ",
+    "postag": "a-p---mn-",
+    "sentence": "οἱ δὲ λοιποὶ πάντες ἤρθησαν ὑπὸ τῶν παρθένων ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "55   λοιπός, -ή, -όν    (< λείπω),   [in LXX chiefly for יֶתֶר, also for שְׁאָר, etc.;]      the remaining, the rest,     pl., οἱ λ.: c. subst., Mt 25:11, Ac 2:37, Ro 1:13, al.; absol., Mt 22:6, Mk 16:[13], Lk 24:10, al.; οἱ λ. οἱ (Bl., § 47, 8), Ac 28:9, I Th 4:13, Re 2:24; οἱ λ. τ. ἀνθρώπων (LS, s.v., ad. init.), Re 9:20; τὰ λ., Mk 4:19, Re 3:2, al.     Neut. sing. (acc. ref.), adverbially, τὸ λ.;       for the future, henceforth: Mk 14:41, I Co 7:29 (Lft., Notes, 232 f.), He 10:13; anarth. (Deiss., LAE, 17616, 1885, 20), Ac 27:20, II Ti 4:8; τοῦ λ. (sc. χρόνου; LS, s.v.; M, Pr., 73; Bl., § 36, 13), Ga 6:17, Eph 6:10;     besides, moreover, for the rest: Phl 3:1 4:8; anarth., I Co 1:16 4:2"
+}

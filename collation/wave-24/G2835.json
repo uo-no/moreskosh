@@ -1,0 +1,49 @@
+{
+ "strong": "G2835",
+ "lemma": "κοδράντης",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MAT 5:26",
+   "form": "κοδράντην",
+   "morph": "N-ASM",
+   "gloss_en": "penny",
+   "gloss_ja": "コドラント",
+   "verse": "ἀμὴν λέγω σοι, οὐ μὴ ἐξέλθῃς ἐκεῖθεν ἕως ἂν ἀποδῷς τὸν ἔσχατον κοδράντην."
+  },
+  {
+   "ref": "MRK 12:42",
+   "form": "κοδράντης",
+   "morph": "N-NSM",
+   "gloss_en": "penny",
+   "gloss_ja": "コドラント",
+   "verse": "καὶ ἐλθοῦσα μία χήρα πτωχὴ ἔβαλεν λεπτὰ δύο, ὅ ἐστιν κοδράντης."
+  }
+ ],
+ "lxx": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Didache": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DID",
+    "work_ja": "ディダケー",
+    "work_src": "Didache",
+    "ref": "1.5",
+    "form": "κοδράντην",
+    "postag": "n-s---ma-",
+    "sentence": "ἐν συνοχῇ δὲ γενόμενος ἐξετασθήσεται περὶ ὧν ἔπραξε, καὶ οὐκ ἐξελεύσεται ἐκεῖθεν, μέχρις οὗ ἀποδῷ τὸν ἔσχατον κοδράντην."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   *† κοδράντης, -ου, ὁ (Lat. quadrans, the fourth part of an as),   a quadrans (AV, farthing): Mt 5:26, Mk 12:42.†"
+}

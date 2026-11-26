@@ -1,0 +1,162 @@
+{
+ "strong": "G3947",
+ "lemma": "παροξύνομαι",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": "παροξυνω",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 13:5",
+   "form": "παροξύνεται",
+   "morph": "V-PPI-3S",
+   "gloss_en": "provoked",
+   "gloss_ja": "刺激する",
+   "verse": "οὐκ ἀσχημονεῖ, οὐ ζητεῖ τὰ ἑαυτῆς, οὐ παροξύνεται, οὐ λογίζεται τὸ κακόν,"
+  },
+  {
+   "ref": "ACT 17:16",
+   "form": "παρωξύνετο",
+   "morph": "V-IPI-3S",
+   "gloss_en": "provoked",
+   "gloss_ja": "刺激する",
+   "verse": "Ἐν δὲ ταῖς Ἀθήναις ἐκδεχομένου αὐτοὺς τοῦ Παύλου, παρωξύνετο τὸ πνεῦμα αὐτοῦ ἐν αὐτῷ θεωροῦντος κατείδωλον οὖσαν τὴν πόλιν."
+  }
+ ],
+ "lxx": {
+  "total": 50,
+  "works": {
+   "Numeri": 5,
+   "Deuteronomium": 11,
+   "Esdras ii": 1,
+   "Psalmi": 6,
+   "Odae": 3,
+   "Proverbia": 5,
+   "Psalmi Salomonis": 1,
+   "Osee": 1,
+   "Zacharias": 1,
+   "Malachias": 2,
+   "Isaias": 9,
+   "Jeremias": 2,
+   "Baruch": 1,
+   "Threni seu Lamentationes": 1,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "32.16",
+    "form": "παρώξυνάν",
+    "postag": "v3paia---",
+    "sentence": "παρώξυνάν με ἐπ’ ἀλλοτρίοις, ἐν βδελύγμασιν αὐτῶν παρεπίκρανάν με ·"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "14.16",
+    "form": "παροξύνων",
+    "postag": "v-sppamn-",
+    "sentence": "οὗτος ὁ ἄνθρωπος ὁ παροξύνων τὴν γῆν, ὁ σείων βασιλεῖς;"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "9.25",
+    "form": "παρώξυνε",
+    "postag": "v3saia---",
+    "sentence": "παρώξυνε τὸν Κύριον ὁ ἁμαρτωλός ·"
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "14.11",
+    "form": "παροξύνει",
+    "postag": "v3spia---",
+    "sentence": "ἕως τίνος παροξύνει με ὁ λαὸς οὗτος καὶ ἕως τίνος οὐ πιστεύουσί μοι ἐπὶ πᾶσι τοῖς σημείοις, οἷς ἐποίησα ἐν αὐτοῖς;"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "6.3",
+    "form": "παρόξυνε",
+    "postag": "v2spma---",
+    "sentence": "ἴσθι μὴ ἐκλυόμενος, παρόξυνε δὲ καὶ τὸν φίλον σου, ὃν ἐνεγγυήσω."
+   },
+   {
+    "work_code": "ODE",
+    "work_ja": "頌歌（オード）",
+    "work_src": "Odae",
+    "ref": "2.19",
+    "form": "παρωξύνθη",
+    "postag": "v3saip---",
+    "sentence": "καὶ εἶδεν κύριος καὶ ἐζήλωσεν καὶ παρωξύνθη δι’ ὀργὴν υἱῶν αὐτοῦ καὶ θυγατέρων καὶ εἶπεν Ἀποστρέψω τὸ πρόσωπόν μου ἀπ’ αὐτῶν καὶ δείξω τί ἔσται αὐτοῖς ἐπ’ ἐσχάτων ·"
+   },
+   {
+    "work_code": "MAL",
+    "work_ja": "マラキ書",
+    "work_src": "Malachias",
+    "ref": "2.17",
+    "form": "παροξύναντες",
+    "postag": "v-papamn-",
+    "sentence": "— οἱ παροξύναντες τὸν Θεὸν ἐν τοῖς λόγοις ὑμῶν καὶ εἴπατε ·"
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "22.15",
+    "form": "παροξύνῃ",
+    "postag": "v2spim---",
+    "sentence": "μὴ βασιλεύσῃς, ὅτι σὺ παροξύνῃ ἐν Ἄχαζ τῷ πατρί σου;"
+   },
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "9.14",
+    "form": "παροξυνθῇς",
+    "postag": "v2sasp---",
+    "sentence": "μὴ παροξυνθῇς ἐν ἡμῖν ἕως συντελείας, τοῦ μὴ εἶναι ἐγκατάλειμμα καὶ διασῳζόμενον."
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "4.21",
+    "form": "παρώξυναν",
+    "postag": "v3paia---",
+    "sentence": "ὀφθαλμοὺς ἐκκόψαισαν κόρακες ὑποκρινομένων, ὅτι ἠρήμωσαν οἴκους πολλοὺς ἀνθρώπων ἐν ἀτιμίᾳ καὶ ἐσκόρπισαν ἐν ἐπιθυμίᾳ καὶ οὐκ ἐμνήσθησαν θεοῦ καὶ οὐκ ἐφοβήθησαν τὸν θεὸν ἐν ἅπασι τούτοις καὶ παρώργισαν τὸν θεὸν καὶ παρώξυναν."
+   },
+   {
+    "work_code": "HOS",
+    "work_ja": "ホセア書",
+    "work_src": "Osee",
+    "ref": "8.5",
+    "form": "παρωξύνθη",
+    "postag": "v3saip---",
+    "sentence": "παρωξύνθη ὁ θυμός μου ἐπ’ αὐτούς ·"
+   },
+   {
+    "work_code": "ZEC",
+    "work_ja": "ゼカリヤ書",
+    "work_src": "Zacharias",
+    "ref": "10.3",
+    "form": "παρωξύνθη",
+    "postag": "v3saip---",
+    "sentence": "ἐπὶ τοὺς ποιμένας παρωξύνθη ὁ θυμός μου, καὶ ἐπὶ τοὺς ἀμνοὺς ἐπισκέψομαι ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2 παρ-οξύνω,    [in LXX for נאץ, קצף, רגז, etc.;]      primarily, but never so in cl., to sharpen (μάχαιραν, De 32:41, שׁנן).     Metaph., as always in cl.,     to spur on, stimulate (Arist., Xen., al.);     to provoke, rouse to anger (De 9:7, 18, Ps 105 (106):29, al.): pass., Ac 17:16, I Co 13:5.†"
+}
