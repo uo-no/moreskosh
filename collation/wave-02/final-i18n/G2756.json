@@ -1,0 +1,97 @@
+{
+  "strong": "G2756",
+  "lemma": "κενός",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "むなしい／無駄になる（εἰς κενόν）",
+      "def_ja": "労苦・恵み・走ることが実を結ばない、無駄に終わる。『むなしく走った』『その恵みはむなしくならなかった』。",
+      "label_en": "in vain / to no purpose (εἰς κενόν)",
+      "def_en": "Labour, grace, or running bears no fruit, ends in nothing: “had run in vain”, “his grace was not in vain”.",
+      "label_es": "vano / en balde (εἰς κενόν)",
+      "def_es": "El trabajo, la gracia o la carrera no dan fruto, acaban en nada: «haber corrido en vano», «su gracia no ha sido en vano».",
+      "label_sv": "förgäves / utan resultat (εἰς κενόν)",
+      "def_sv": "Möda, nåd eller löpning bär ingen frukt och blir till intet: ”hade löpt förgäves”, ”hans nåd blev inte utan verkan”.",
+      "layers": {
+        "nt": 8,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "Ⅰコリ15:10・58（あなたがたの労苦は無駄ではない）、Ⅰテサ2:1・3:5、Ⅱコリ6:1、ガラテヤ2:2、ピリ2:16（2回）。LXX 詩篇・イザヤ49:4 に並行。教父の代表例では確認していない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "中身のない／空しい（ことば・信仰・考え）",
+      "def_ja": "内容がなく、根拠のない、空虚な。『むなしい宣教』『むなしい信仰』『むなしい言葉』『むなしい欺き』『むなしいくわだて』。",
+      "label_en": "empty / hollow (words, faith, thought)",
+      "def_en": "Without content, groundless, empty: “empty preaching”, “empty faith”, “empty words”, “empty deceit”, “vain plots”.",
+      "label_es": "hueco / vacío (palabras, fe, pensamientos)",
+      "def_es": "Sin contenido, sin fundamento, vacío: «vana predicación», «vana fe», «palabras vanas», «huecas sutilezas», «planes vanos».",
+      "label_sv": "innehållslös / tom (ord, tro, tankar)",
+      "def_sv": "Utan innehåll och grund, tom: ”tom förkunnelse”, ”tom tro”, ”tomma ord”, ”tomt bedrägeri”, ”fåfänga planer”.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰコリ15:14（宣教も信仰もむなしい。同一節に2回）、使徒4:25（国々がむなしいことを企てた）、コロサイ2:8（むなしいだましごとの哲学）、エペソ5:6（むなしいことばに惑わされるな）。LXX ヨブ21:34、教父（ヘルマス16.1.13）に並行。"
+    },
+    {
+      "n": 3,
+      "label_ja": "空手の／何も持たない",
+      "def_ja": "手に何も持たない、何も受け取らない。『富む者を空手で去らせた』『空手で返した』。",
+      "label_en": "empty-handed",
+      "def_en": "Holding nothing in one's hands, receiving nothing: “sent the rich away empty”, “sent him back empty-handed”.",
+      "label_es": "con las manos vacías",
+      "def_es": "Sin llevar nada en las manos, sin recibir nada: «a los ricos envió vacíos», «lo devolvieron con las manos vacías».",
+      "label_sv": "tomhänt",
+      "def_sv": "Utan något i händerna, utan att få något: ”skickade de rika tomhänta därifrån”, ”skickade tillbaka honom tomhänt”.",
+      "layers": {
+        "nt": 4,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ルカ1:53（富む者を空腹で去らせた）・20:10・11、マルコ12:3（空手で追い返した）。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 4,
+      "label_ja": "愚かな／役に立たない（人）",
+      "def_ja": "実行を伴わない、愚かな人。『行いのない信仰が役に立たないことを知りたいのか、愚かな人よ』。",
+      "label_en": "foolish / useless (person)",
+      "def_en": "A foolish person whose profession is not accompanied by action: “Do you want to know, you foolish man, that faith without works is useless?”",
+      "label_es": "necio / inútil (persona)",
+      "def_es": "Persona necia, sin obras que acompañen: «¿Quieres saber, hombre vano, que la fe sin obras es inútil?».",
+      "label_sv": "dåraktig / oduglig (människa)",
+      "def_sv": "En dåraktig människa utan gärningar: ”Vill du inse, du dåraktiga människa, att tron utan gärningar är värdelös?”",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヤコブ2:20（ああ愚かな者よ）の1例のみ。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 15:10": 1,
+    "1CO 15:14#1": 2,
+    "1CO 15:14#2": 2,
+    "1CO 15:58": 1,
+    "1TH 3:5": 1,
+    "1TH 2:1": 1,
+    "2CO 6:1": 1,
+    "ACT 4:25": 2,
+    "COL 2:8": 2,
+    "EPH 5:6": 2,
+    "GAL 2:2": 1,
+    "JAS 2:20": 4,
+    "LUK 1:53": 3,
+    "LUK 20:10": 3,
+    "LUK 20:11": 3,
+    "MRK 12:3": 3,
+    "PHP 2:16#1": 1,
+    "PHP 2:16#2": 1
+  },
+  "unresolved": [],
+  "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

@@ -1,0 +1,98 @@
+{
+  "strong": "G1869",
+  "lemma": "ἐπαίρω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "上げる（目・手・声・頭などを）",
+      "def_ja": "目・手・頭・声などを上げる。『目を上げて』『声を張り上げて』『手を上げて祈る』。",
+      "label_en": "to lift up (eyes, hands, voice, head, etc.)",
+      "def_en": "To raise the eyes, hands, head, voice, and so on: “lifting up his eyes”, “raised her voice”, “lifting up hands to pray”.",
+      "label_es": "alzar (ojos, manos, voz, cabeza, etc.)",
+      "def_es": "Levantar los ojos, las manos, la cabeza, la voz, etc.: «alzando los ojos», «alzó la voz», «orar levantando las manos».",
+      "label_sv": "att lyfta (blick, händer, röst, huvud m.m.)",
+      "def_sv": "Att lyfta ögon, händer, huvud, röst och annat: ”lyfte blicken”, ”höjde rösten”, ”be med lyfta händer”.",
+      "layers": {
+        "nt": 15,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "目を上げる（マタイ17:8、ルカ6:20・16:23・18:13、ヨハネ4:35・6:5・17:1）、手を上げる（ルカ24:50、Ⅰテモ2:8）、頭を上げる（ルカ21:28）、声を上げる（ルカ11:27、使徒2:14・14:11・22:22）、ヨハネ13:18（かかとを上げる）。LXX 詩篇、教父（ヘルマス3.2.4）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "上に挙げられる（昇天）",
+      "def_ja": "高く引き上げられる、天に上げられる。受動で『彼らが見ている間に上げられた』。",
+      "label_en": "to be taken up (ascension)",
+      "def_en": "To be raised high, lifted up to heaven. Passive: “while they were watching, he was taken up”.",
+      "label_es": "ser elevado (ascensión)",
+      "def_es": "Ser levantado a lo alto, elevado al cielo. En pasiva: «mientras ellos miraban, fue alzado».",
+      "label_sv": "att lyftas upp (himmelsfärden)",
+      "def_sv": "Att lyftas högt upp, till himlen. Passivt: ”medan de såg på lyftes han upp”.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒1:9（上げられて雲に迎えられた）の1例のみ。LXX 詩篇8:2（あなたの威光は上げられ）に並行。教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "高ぶる／思い上がる",
+      "def_ja": "自分を高くする、思い上がる、神の知識に逆らって高ぶる。",
+      "label_en": "to exalt oneself / be arrogant",
+      "def_en": "To raise oneself up, to be presumptuous, to rise up against the knowledge of God.",
+      "label_es": "ensoberbecerse / engreírse",
+      "def_es": "Alzarse a sí mismo, envanecerse, levantarse contra el conocimiento de Dios.",
+      "label_sv": "att förhäva sig",
+      "def_sv": "Att upphöja sig själv, att vara förmäten, att resa sig mot kunskapen om Gud.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅱコリ10:5（神の知識に逆らって高ぶるもの）・11:20（人が高ぶる）。LXX シラ書11:4、教父（ヘルマス14.5）に並行。"
+    },
+    {
+      "n": 4,
+      "label_ja": "（帆を）上げる",
+      "def_ja": "船の帆・小帆を上げる。",
+      "label_en": "to hoist (a sail)",
+      "def_en": "To raise a ship's sail or foresail.",
+      "label_es": "izar (una vela)",
+      "def_es": "Izar la vela o vela pequeña del barco.",
+      "label_sv": "att hissa (segel)",
+      "def_sv": "Att hissa skeppets segel eller försegel.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒27:40（前帆を上げて）の1例のみ。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1TI 2:8": 1,
+    "2CO 10:5": 3,
+    "2CO 11:20": 3,
+    "ACT 1:9": 2,
+    "ACT 14:11": 1,
+    "ACT 2:14": 1,
+    "ACT 22:22": 1,
+    "ACT 27:40": 4,
+    "JHN 13:18": 1,
+    "JHN 17:1": 1,
+    "JHN 4:35": 1,
+    "JHN 6:5": 1,
+    "LUK 11:27": 1,
+    "LUK 16:23": 1,
+    "LUK 18:13": 1,
+    "LUK 21:28": 1,
+    "LUK 24:50": 1,
+    "LUK 6:20": 1,
+    "MAT 17:8": 1
+  },
+  "unresolved": [],
+  "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

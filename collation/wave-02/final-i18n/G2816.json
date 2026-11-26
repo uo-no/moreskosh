@@ -1,0 +1,80 @@
+{
+  "strong": "G2816",
+  "lemma": "κληρονομέω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "受け継ぐ／受ける（神の国・永遠のいのち・地・祝福を）",
+      "def_ja": "神の約束・賜物として与えられるものを受け継ぐ、相続する。神の国・永遠のいのち・地・すべてのもの・祝福。『神の国を受け継げない』。",
+      "label_en": "to inherit / receive (the kingdom, eternal life, the earth, blessing)",
+      "def_en": "To inherit what is given as God's promise and gift: the kingdom of God, eternal life, the earth, all things, blessing. “Will not inherit the kingdom of God.”",
+      "label_es": "heredar / recibir (el reino de Dios, la vida eterna, la tierra, la bendición)",
+      "def_es": "Heredar lo que se da como promesa y don de Dios: el reino de Dios, la vida eterna, la tierra, todas las cosas, la bendición. «No heredarán el reino de Dios».",
+      "label_sv": "att ärva / få (Guds rike, evigt liv, jorden, välsignelsen)",
+      "def_sv": "Att ärva det som ges som Guds löfte och gåva: Guds rike, evigt liv, jorden, allting, välsignelsen. ”Får inte ärva Guds rike.”",
+      "layers": {
+        "nt": 16,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "マタイ5:5（柔和な者は地を受け継ぐ）・19:29・25:34、マルコ10:17・ルカ10:25・18:18（永遠のいのちを受け継ぐ）、Ⅰコリ6:9・10・15:50（2回）、ガラテヤ5:21、ヘブル1:14・6:12・12:17、Ⅰペテロ3:9、黙示録21:7。LXX 詩篇・申命記（地を受け継ぐ）、教父（バルナバ13.1）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "相続人となる（子として）",
+      "def_ja": "子として父の財産を継ぐ、相続人となる。",
+      "label_en": "to be heir (as a son)",
+      "def_en": "As a son, to succeed to the father's property, to become heir.",
+      "label_es": "ser heredero (como hijo)",
+      "def_es": "Como hijo, suceder en los bienes del padre, ser el heredero.",
+      "label_sv": "att vara arvinge (som son)",
+      "def_sv": "Att som son överta faderns egendom, att bli arvinge.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ガラテヤ4:30（女奴隷の子は自由の女の子とともに相続人になってはならない、創世記21:10 の引用）の1例のみ。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "（名を）受け継ぐ",
+      "def_ja": "天使より優れた名を受け継ぐ、与えられる名・称号を受け継ぐ。",
+      "label_en": "to inherit (a name)",
+      "def_en": "To inherit a name more excellent than that of the angels, to receive a name or title given.",
+      "label_es": "heredar (un nombre)",
+      "def_es": "Heredar un nombre más excelente que el de los ángeles; recibir como herencia un nombre o título.",
+      "label_sv": "att ärva (ett namn)",
+      "def_sv": "Att ärva ett namn som är förmer än änglarnas, att få ett namn eller en titel i arv.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヘブル1:4（天使たちにまさる名を受け継いだ）の1例のみ。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 6:9": 1,
+    "1CO 6:10": 1,
+    "1CO 15:50#1": 1,
+    "1CO 15:50#2": 1,
+    "1PE 3:9": 1,
+    "GAL 5:21": 1,
+    "GAL 4:30": 2,
+    "HEB 1:4": 3,
+    "HEB 1:14": 1,
+    "HEB 12:17": 1,
+    "HEB 6:12": 1,
+    "LUK 10:25": 1,
+    "LUK 18:18": 1,
+    "MAT 19:29": 1,
+    "MAT 25:34": 1,
+    "MAT 5:5": 1,
+    "MRK 10:17": 1,
+    "REV 21:7": 1
+  },
+  "unresolved": [],
+  "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

@@ -1,0 +1,79 @@
+{
+  "strong": "G2632",
+  "lemma": "κατακρίνω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "有罪と定める／罪に定める（判決）",
+      "def_ja": "裁きにおいて有罪の判決を下す。『死刑に定める』『罪に定められる』『だれもあなたを罪に定めなかったか』『罪に定める者は誰か』。",
+      "label_en": "to condemn (pass sentence)",
+      "def_en": "To pass a verdict of guilty in judgment: “condemn to death”, “be condemned”, “has no one condemned you?”, “who is to condemn?”",
+      "label_es": "condenar (dictar sentencia)",
+      "def_es": "Dictar en juicio sentencia de culpabilidad: «condenar a muerte», «ser condenado», «¿ninguno te condenó?», «¿quién es el que condenará?».",
+      "label_sv": "att fördöma / döma skyldig (utslag)",
+      "def_sv": "Att i en rättegång fälla ett fällande utslag: ”döma till döden”, ”bli fördömd”, ”har ingen dömt dig?”, ”vem kan fördöma?”.",
+      "layers": {
+        "nt": 10,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヨハネ8:10、マタイ20:18・27:3、マルコ10:33・14:64（死刑にあたると断罪した）・16:16、ローマ2:1・8:34・14:23（疑いながら食べる者は罪に定められる）、Ⅰコリ11:32（世とともに罪に定められないため）。LXX・教父（イグナティオス5、ヘルマス25.11.3）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "（かえって）断罪する（比較して）",
+      "def_ja": "異邦人・ニネベの人々が、不信仰な世代を裁きの席で『罪に定める』（その人々の悔い改めがその世代を断罪する）。",
+      "label_en": "to condemn (by contrast)",
+      "def_en": "Gentiles and the people of Nineveh “condemn” the unbelieving generation at the judgment (their repentance convicts that generation).",
+      "label_es": "condenar (por contraste)",
+      "def_es": "Los gentiles y los hombres de Nínive «condenan» en el juicio a la generación incrédula (su arrepentimiento la deja condenada).",
+      "label_sv": "att fälla (genom jämförelse)",
+      "def_sv": "Hedningarna och Nineves män ”fördömer” det otrogna släktet vid domen (deras omvändelse blir släktets fällande dom).",
+      "layers": {
+        "nt": 4,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マタイ12:41・42、ルカ11:31・32（ニネベの人々・南の女王がこの時代の人々を罪に定める）。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "（模範・出来事として）断罪する／罪を宣告する",
+      "def_ja": "信仰・行いが世を断罪する、神がソドム・ゴモラや罪を断罪した。",
+      "label_en": "to condemn (by example or event) / pronounce sentence on sin",
+      "def_en": "Faith and conduct condemn the world; God condemned Sodom and Gomorrah, and sin.",
+      "label_es": "condenar (por ejemplo o hecho) / sentenciar el pecado",
+      "def_es": "La fe y la conducta condenan al mundo; Dios condenó a Sodoma y Gomorra, y al pecado.",
+      "label_sv": "att fördöma (genom föredöme eller händelse) / fälla dom över synd",
+      "def_sv": "Tro och handlande fördömer världen; Gud fällde dom över Sodom och Gomorra och över synden.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヘブル11:7（ノアは信仰によって世を罪に定めた）、Ⅱペテロ2:6（ソドム・ゴモラを滅びに定め）、ローマ8:3（神は肉において罪を罪と定め）。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 11:32": 1,
+    "2PE 2:6": 3,
+    "HEB 11:7": 3,
+    "JHN 8:10": 1,
+    "LUK 11:31": 2,
+    "LUK 11:32": 2,
+    "MAT 12:41": 2,
+    "MAT 12:42": 2,
+    "MAT 20:18": 1,
+    "MAT 27:3": 1,
+    "MRK 16:16": 1,
+    "MRK 10:33": 1,
+    "MRK 14:64": 1,
+    "ROM 14:23": 1,
+    "ROM 2:1": 1,
+    "ROM 8:3": 3,
+    "ROM 8:34": 1
+  },
+  "unresolved": [],
+  "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

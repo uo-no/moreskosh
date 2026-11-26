@@ -1,0 +1,80 @@
+{
+  "strong": "G1199",
+  "lemma": "δεσμός",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "鎖／縄目（実際の拘束具）",
+      "def_ja": "人を縛る鎖・縄、悪霊に取りつかれた者を縛る足かせ、天使を縛る鎖。",
+      "label_en": "chain / bond (physical restraint)",
+      "def_en": "Chains or bonds that tie a person: the fetters binding one possessed by a demon, the chains that bind angels.",
+      "label_es": "cadena / ligadura (instrumento real)",
+      "def_es": "Cadenas o ligaduras que atan a una persona: los grillos que sujetaban al endemoniado, las cadenas que atan a los ángeles.",
+      "label_sv": "kedja / boja (verkligt fängsel)",
+      "def_sv": "Kedjor eller bojor som binder en människa: fotbojorna på den besatte, kedjorna som binder änglar.",
+      "layers": {
+        "nt": 7,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ルカ8:29（鎖と足かせでつながれ）、使徒16:26（囚人の鎖が解けた）・26:29、コロサイ4:18（わたしの鎖を覚えていなさい）、Ⅱテモ2:9、ヘブル11:36、ユダ6（永遠の鎖につながれた御使いたち）。LXX・教父（イグナティオス1.19.3）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "投獄／拘束の身（縄目）",
+      "def_ja": "囚人・獄中の身、拘束されている状態。パウロの『獄中の身』『縄目』。主として複数形で、拘束されていること・その期間を指す。",
+      "label_en": "imprisonment / bonds",
+      "def_en": "The state of a prisoner, being in custody: Paul's “imprisonment”, his “chains”. Mainly plural, referring to being bound or to its period.",
+      "label_es": "prisión / cadenas",
+      "def_es": "La condición de preso, el estar detenido: la «prisión» y las «cadenas» de Pablo. Principalmente en plural, designa el estar encadenado y ese período.",
+      "label_sv": "fångenskap / bojor",
+      "def_sv": "Fångens tillstånd i fängelse: Paulus ”fångenskap” och ”bojor”. Främst i plural om att vara fängslad och om den tiden.",
+      "layers": {
+        "nt": 9,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒20:23・23:29・26:31（死や投獄に当たる理由はない）、ピレモン10・13、ピリ1:7・13・14・17（わたしの縄目）。LXX に『縄目・獄』の用例。教父の代表例では確認していない。語義1との境界は連続的。"
+    },
+    {
+      "n": 3,
+      "label_ja": "束縛（病・障害の縄目）",
+      "def_ja": "病気や障害に縛られている状態。『サタンに縛られた女』『舌のもつれ』。",
+      "label_en": "bondage (of illness or impediment)",
+      "def_en": "The state of being bound by illness or disability: “the woman whom Satan had bound”, the “bond” of a tongue.",
+      "label_es": "atadura (de enfermedad o impedimento)",
+      "def_es": "Estado de quien está atado por una enfermedad o discapacidad: «la mujer que Satanás tenía atada», la «ligadura» de la lengua.",
+      "label_sv": "band (av sjukdom eller handikapp)",
+      "def_sv": "Tillståndet att vara bunden av sjukdom eller funktionshinder: ”kvinnan som Satan hade bundit”, tungans ”band”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ルカ13:16（サタンが縛っていた）、マルコ7:35（舌のもつれ＝舌の縄目が解け）。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "2TI 2:9": 1,
+    "ACT 16:26": 1,
+    "ACT 20:23": 2,
+    "ACT 23:29": 2,
+    "ACT 26:29": 1,
+    "ACT 26:31": 2,
+    "COL 4:18": 1,
+    "HEB 11:36": 1,
+    "JUD 1:6": 1,
+    "LUK 13:16": 3,
+    "LUK 8:29": 1,
+    "MRK 7:35": 3,
+    "PHM 1:10": 2,
+    "PHM 1:13": 2,
+    "PHP 1:7": 2,
+    "PHP 1:13": 2,
+    "PHP 1:14": 2,
+    "PHP 1:17": 2
+  },
+  "unresolved": [],
+  "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

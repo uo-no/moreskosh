@@ -1,0 +1,97 @@
+{
+  "strong": "G4369",
+  "lemma": "προστίθημι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "加える／付け加える",
+      "def_ja": "すでにあるものにさらに加える、増し加える。『一寸でも加えることができるか』『これらのものはみな加えて与えられる』『信仰を増してください』。",
+      "label_en": "to add",
+      "def_en": "To add further to what already exists, to increase: “can you add even a little?”, “all these things will be added to you”, “increase our faith”.",
+      "label_es": "añadir / agregar",
+      "def_es": "Sumar algo más a lo que ya hay, acrecentar: «¿puede añadir algo, por poco que sea?», «todas estas cosas os serán añadidas», «auméntanos la fe».",
+      "label_sv": "att lägga till / foga till",
+      "def_sv": "Att ytterligare lägga något till det som finns, att öka: ”kan lägga det minsta till”, ”allt det andra ska ni få därtill”, ”ge oss större tro”.",
+      "layers": {
+        "nt": 9,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "マタイ6:27・33、マルコ4:24、ルカ3:20（ヘロデはさらに加えてヨハネを牢に入れた）・12:25・31・17:5、ガラテヤ3:19（違反のために加えられた）、ヘブル12:19（ことばが加えられないように）。LXX・教父（ヘルマス9.3.1）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "（仲間に）加えられる",
+      "def_ja": "共同体・教会・民に加えられる、仲間入りする。受動『加えられた』。",
+      "label_en": "to be added (to the company)",
+      "def_en": "To be added to the community, church, or people, to join their number. Passive: “were added”.",
+      "label_es": "ser agregado (al grupo)",
+      "def_es": "Ser añadido a la comunidad, la iglesia o el pueblo, entrar a formar parte. Pasiva: «fueron añadidos».",
+      "label_sv": "att fogas till (gemenskapen)",
+      "def_sv": "Att läggas till gemenskapen, församlingen eller folket och bli en av dem. Passivt: ”fogades till”.",
+      "layers": {
+        "nt": 4,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒2:41（三千人ほどが加えられた）・2:47・5:14・11:24（主に加えられる者たち）。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "（先祖の列に）加えられる",
+      "def_ja": "死んで先祖の列に加えられる（葬られる）。",
+      "label_en": "to be gathered (to one's fathers)",
+      "def_en": "To die and be added to one's ancestors (to be buried).",
+      "label_es": "ser reunido (con los antepasados)",
+      "def_es": "Morir y ser añadido a los antepasados (ser sepultado).",
+      "label_sv": "att samlas (till fäderna)",
+      "def_sv": "Att dö och fogas till sina förfäder (begravas).",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒13:36（ダビデは先祖たちのもとに加えられ、朽ち果てた）の1例のみ。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 4,
+      "label_ja": "引き続き〜する（ヘブライ語法）",
+      "def_ja": "『さらに〜する』『再び〜した』のヘブライ語的な言い回し（不定詞・分詞と結ぶ）。",
+      "label_en": "to proceed to do (Hebraism)",
+      "def_en": "A Hebraistic turn of phrase, “to further do …”, “did … again” (joined with an infinitive or participle).",
+      "label_es": "volver a hacer (hebraísmo)",
+      "def_es": "Giro hebraizante «además hizo …», «volvió a …» (con infinitivo o participio).",
+      "label_sv": "att vidare göra (hebraism)",
+      "def_sv": "En hebraiserande vändning, ”ytterligare …”, ”återigen …” (med infinitiv eller particip).",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒12:3（さらにペテロも捕らえた）、ルカ19:11（続けてたとえを語った）・20:11・12（さらにほかのしもべを遣わした）。LXX 創世記8:21 ほか（יסף）に並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 12:3": 4,
+    "ACT 11:24": 2,
+    "ACT 13:36": 3,
+    "ACT 2:41": 2,
+    "ACT 2:47": 2,
+    "ACT 5:14": 2,
+    "GAL 3:19": 1,
+    "HEB 12:19": 1,
+    "LUK 12:25": 1,
+    "LUK 12:31": 1,
+    "LUK 17:5": 1,
+    "LUK 20:11": 4,
+    "LUK 20:12": 4,
+    "LUK 19:11": 4,
+    "LUK 3:20": 1,
+    "MAT 6:27": 1,
+    "MAT 6:33": 1,
+    "MRK 4:24": 1
+  },
+  "unresolved": [],
+  "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

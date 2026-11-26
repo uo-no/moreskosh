@@ -1,0 +1,80 @@
+{
+  "strong": "G4735",
+  "lemma": "στέφανος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "冠（勝利者・報いの）",
+      "def_ja": "競技の勝者・戦いの勝者の冠、神から与えられる報いの冠、誇りとなる冠。『朽ちる冠』『朽ちない冠』『義の冠』『いのちの冠』『わたしの冠』。",
+      "label_en": "crown (of victor, of reward)",
+      "def_en": "The crown of a winner in the games or in battle, the crown of reward given by God, a crown that is one's pride: “a perishable crown”, “an imperishable one”, “the crown of righteousness”, “the crown of life”, “my crown”.",
+      "label_es": "corona (del vencedor, de la recompensa)",
+      "def_es": "La corona del vencedor en los juegos o en la batalla, la corona de recompensa que Dios da, la corona que es motivo de orgullo: «corona corruptible», «incorruptible», «corona de justicia», «corona de la vida», «corona mía».",
+      "label_sv": "krans / krona (segrarens, lönens)",
+      "def_sv": "Segerkransen i tävlingar och strid, lönens krona som Gud ger, kronan man är stolt över: ”förgänglig krans”, ”oförgänglig”, ”rättfärdighetens krona”, ”livets krona”, ”min krona”.",
+      "layers": {
+        "nt": 8,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰコリ9:25（朽ちる冠・朽ちない冠）、Ⅱテモ4:8（義の冠）、ヤコブ1:12（いのちの冠）、Ⅰペテロ5:4（栄光の冠）、黙示録2:10・3:11（いのちの冠・あなたの冠）、Ⅰテサ2:19・ピリ4:1（わたしの喜び、冠）。LXX 箴言16:31、教父（イグナティオス19.2）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "いばらの冠",
+      "def_ja": "イエスに兵士たちがかぶせた、いばらで編んだ冠。",
+      "label_en": "crown of thorns",
+      "def_en": "The crown woven of thorns that the soldiers put on Jesus.",
+      "label_es": "corona de espinas",
+      "def_es": "La corona trenzada de espinas que los soldados pusieron a Jesús.",
+      "label_sv": "törnekrona",
+      "def_sv": "Den krona av flätade törnen som soldaterna satte på Jesus.",
+      "layers": {
+        "nt": 4,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マタイ27:29、マルコ15:17、ヨハネ19:2・5。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "（黙示録の）冠",
+      "def_ja": "黙示録で、長老・女・人の子・騎手・いなごがかぶる冠。",
+      "label_en": "crown (in Revelation)",
+      "def_en": "The crowns worn in Revelation by the elders, the woman, the son of man, the rider, and the locusts.",
+      "label_es": "corona (en el Apocalipsis)",
+      "def_es": "Las coronas que en el Apocalipsis llevan los ancianos, la mujer, el hijo del hombre, el jinete y las langostas.",
+      "label_sv": "krona (i Uppenbarelseboken)",
+      "def_sv": "De kronor som i Uppenbarelseboken bärs av de äldste, kvinnan, människosonen, ryttaren och gräshopporna.",
+      "layers": {
+        "nt": 6,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "黙示録4:4・10（長老たちの金の冠）・6:2（白馬の騎手の冠）・9:7（いなごの金の冠のようなもの）・12:1（女の十二の星の冠）・14:14（人の子の金の冠）。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 9:25": 1,
+    "1PE 5:4": 1,
+    "1TH 2:19": 1,
+    "2TI 4:8": 1,
+    "JAS 1:12": 1,
+    "JHN 19:2": 2,
+    "JHN 19:5": 2,
+    "MAT 27:29": 2,
+    "MRK 15:17": 2,
+    "PHP 4:1": 1,
+    "REV 12:1": 3,
+    "REV 14:14": 3,
+    "REV 4:4": 3,
+    "REV 4:10": 3,
+    "REV 2:10": 1,
+    "REV 3:11": 1,
+    "REV 6:2": 3,
+    "REV 9:7": 3
+  },
+  "unresolved": [],
+  "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

@@ -1,0 +1,80 @@
+{
+  "strong": "G3360",
+  "lemma": "μέχρι(ς)",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "〜まで（時）",
+      "def_ja": "時の終端を示す前置詞（属格）。『今日まで』『ヨハネまで』『その日まで』『成長が完成に至るまで』。",
+      "label_en": "until (time)",
+      "def_en": "A preposition (with genitive) marking the end point of time: “to this day”, “until John”, “until that day”, “until we reach maturity”.",
+      "label_es": "hasta (tiempo)",
+      "def_es": "Preposición (con genitivo) que marca el término temporal: «hasta el día de hoy», «hasta Juan», «hasta aquel día», «hasta llegar a la madurez».",
+      "label_sv": "till / ända till (tid)",
+      "def_sv": "En preposition (med genitiv) som anger slutpunkten i tiden: ”till denna dag”, ”till Johannes”, ”till den dagen”, ”tills vi når mognad”.",
+      "layers": {
+        "nt": 13,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ルカ16:16（律法と預言者はヨハネまで）、マタイ11:23・13:30・28:15、マルコ13:30（これらのことが起こるまで）、使徒10:30・20:7、ガラテヤ4:19、エペソ4:13、ヘブル3:14・9:10、Ⅰテモ6:14、ローマ5:14（アダムからモーセまで）。LXX・教父（イグナティオス4.4.3 μέχρι νῦν）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "〜に至るまで（程度）",
+      "def_ja": "程度・極限を示す。『死に至るまで従順であった』『血を流すまで抵抗した』『鎖につながれるまで苦しむ』。",
+      "label_en": "to the point of (degree)",
+      "def_en": "Marks degree or limit: “obedient to the point of death”, “resisted to the point of shedding blood”, “suffering even to being chained”.",
+      "label_es": "hasta el punto de (grado)",
+      "def_es": "Indica el grado o el extremo: «obediente hasta la muerte», «resistido hasta la sangre», «sufro hasta llevar cadenas».",
+      "label_sv": "ända till (grad)",
+      "def_sv": "Anger grad eller yttersta gräns: ”lydig ända till döden”, ”stått emot ända till blods”, ”lider ända därhän att jag bär bojor”.",
+      "layers": {
+        "nt": 4,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ピリ2:8（死に至るまで）・2:30（死にかけるまで）、ヘブル12:4（血を流すまで）、Ⅱテモ2:9（鎖につながれるまで）。語義1との境界は連続的（時から程度への転用）。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "〜まで（場所）",
+      "def_ja": "場所の到達点を示す。『エルサレムからイリリコまで』。",
+      "label_en": "as far as (place)",
+      "def_en": "Marks the point reached in space: “from Jerusalem as far as Illyricum”.",
+      "label_es": "hasta (lugar)",
+      "def_es": "Indica el punto de llegada: «desde Jerusalén hasta Ilírico».",
+      "label_sv": "ända till (plats)",
+      "def_sv": "Anger den punkt man når: ”från Jerusalem ända till Illyrien”.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ローマ15:19（エルサレムからイリリコまで）の1例のみ。語義1との境界は連続的。LXX の代表例（5.36 ほか）はこの意味では確認できなかった。"
+    }
+  ],
+  "assignments": {
+    "1TI 6:14": 1,
+    "2TI 2:9": 2,
+    "ACT 10:30": 1,
+    "ACT 20:7": 1,
+    "EPH 4:13": 1,
+    "GAL 4:19": 1,
+    "HEB 12:4": 2,
+    "HEB 3:14": 1,
+    "HEB 9:10": 1,
+    "LUK 16:16": 1,
+    "MAT 11:23": 1,
+    "MAT 13:30": 1,
+    "MAT 28:15": 1,
+    "MRK 13:30": 1,
+    "PHP 2:8": 2,
+    "PHP 2:30": 2,
+    "ROM 15:19": 3,
+    "ROM 5:14": 1
+  },
+  "unresolved": [],
+  "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

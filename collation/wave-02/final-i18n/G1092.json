@@ -1,0 +1,81 @@
+{
+  "strong": "G1092",
+  "lemma": "γεωργός",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "農夫／耕作者",
+      "def_ja": "畑を耕して作物を育てる者。労苦する農夫、実りを待つ農夫。",
+      "label_en": "farmer / tiller",
+      "def_en": "One who tills fields and grows crops: the hard-working farmer, the farmer waiting for the harvest.",
+      "label_es": "labrador / agricultor",
+      "def_es": "El que labra el campo y cultiva: el labrador que trabaja duro, el que aguarda el fruto.",
+      "label_sv": "jordbrukare / odlare",
+      "def_sv": "En som brukar åkern och odlar grödor: den strävsamme lantbrukaren, bonden som väntar på skörden.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "Ⅱテモ2:6（労する農夫がまず実を受ける）、ヤコブ5:7（農夫は地の貴い実を待つ）。LXX 創世記9:20（農夫ノア）・エレミヤ14:4 に並行。教父の用例は無い。"
+    },
+    {
+      "n": 2,
+      "label_ja": "（ぶどう園の）小作人／農夫",
+      "def_ja": "ぶどう園を主人から借りて耕す小作人・農夫。悪い農夫のたとえ（マタイ21、マルコ12、ルカ20）で、主人のしもべや子を受け入れない者たちとして登場する。",
+      "label_en": "tenant (vine-grower) of a vineyard",
+      "def_en": "Tenants or farmers who rent a vineyard from its owner and work it. In the parable of the wicked tenants (Matt 21; Mark 12; Luke 20), they appear as those who do not receive the master's servants or son.",
+      "label_es": "labradores (arrendatarios) de la viña",
+      "def_es": "Arrendatarios o labradores que toman en alquiler la viña del dueño y la cultivan. En la parábola de los malos labradores (Mt 21; Mr 12; Lc 20) son quienes no reciben a los siervos ni al hijo del amo.",
+      "label_sv": "arrendator (vinodlare)",
+      "def_sv": "Arrendatorer eller vinodlare som hyr vingården av ägaren och brukar den. I liknelsen om de onda vinodlarna (Matt 21; Mark 12; Luk 20) de som inte tar emot herrens tjänare och son.",
+      "layers": {
+        "nt": 16,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マタイ21:33–41、マルコ12:1–9、ルカ20:9–16。たとえ話の語としてのみ現れる。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "（ぶどうの木の）農夫",
+      "def_ja": "ぶどうの木を手入れする者。『わたしはまことのぶどうの木、わたしの父は農夫』。",
+      "label_en": "vinedresser",
+      "def_en": "The one who tends the vine: “I am the true vine, and my Father is the vinedresser.”",
+      "label_es": "viñador",
+      "def_es": "El que cuida la vid: «Yo soy la vid verdadera y mi Padre es el viñador».",
+      "label_sv": "vingårdsman",
+      "def_sv": "Den som sköter vinstocken: ”Jag är den sanna vinstocken, och min Fader är vingårdsmannen.”",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヨハネ15:1 の1例のみ。語義2との境界は連続的（Abbott も『ぶどう作り』として同じ項に置く）。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "2TI 2:6": 1,
+    "JAS 5:7": 1,
+    "JHN 15:1": 3,
+    "LUK 20:9": 2,
+    "LUK 20:10#1": 2,
+    "LUK 20:10#2": 2,
+    "LUK 20:14": 2,
+    "LUK 20:16": 2,
+    "MAT 21:33": 2,
+    "MAT 21:34": 2,
+    "MAT 21:35": 2,
+    "MAT 21:38": 2,
+    "MAT 21:40": 2,
+    "MAT 21:41": 2,
+    "MRK 12:1": 2,
+    "MRK 12:2#1": 2,
+    "MRK 12:2#2": 2,
+    "MRK 12:7": 2,
+    "MRK 12:9": 2
+  },
+  "unresolved": [],
+  "layer_notes": "教父の用例は0件（パケット）。新約に無い用法は代表例の範囲では見当たらない。"
+}

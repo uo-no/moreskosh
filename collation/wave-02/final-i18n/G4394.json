@@ -1,0 +1,98 @@
+{
+  "strong": "G4394",
+  "lemma": "προφητεία",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "預言（旧約の預言者のことば）",
+      "def_ja": "旧約の預言者たちが語り、書き残した預言。聖書の預言は人の意志から出たものではない。",
+      "label_en": "prophecy (of the Old Testament prophets)",
+      "def_en": "The prophecies the Old Testament prophets spoke and left in writing: the prophecy of Scripture did not come from human will.",
+      "label_es": "profecía (de los profetas del Antiguo Testamento)",
+      "def_es": "Las profecías que los profetas del Antiguo Testamento pronunciaron y dejaron escritas: la profecía de la Escritura no vino por voluntad humana.",
+      "label_sv": "profetia (de gammaltestamentliga profeternas ord)",
+      "def_sv": "Det som Gamla testamentets profeter talade och skrev ner: Skriftens profetia har inte kommit av någon människas vilja.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "マタイ13:14（イザヤの預言）、Ⅱペテロ1:20・21（聖書の預言は人の解き明かしによらず、人の意志によって来たのでもない）。LXX シラ書44:3、教父（バルナバ13.4）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "預言（賜物・教会での預言）",
+      "def_ja": "教会の中で与えられる賜物としての預言、またその行使。異言・知識・愛と並べられ、吟味されるもの。",
+      "label_en": "prophecy (the gift; prophecy in the church)",
+      "def_en": "Prophecy as a gift given in the church, and its exercise. Set beside tongues, knowledge, and love, and to be tested.",
+      "label_es": "profecía (don; profecía en la iglesia)",
+      "def_es": "La profecía como don concedido en la iglesia, y su ejercicio. Se menciona junto a las lenguas, el conocimiento y el amor, y debe ser examinada.",
+      "label_sv": "profetia (nådegåva i församlingen)",
+      "def_sv": "Profetian som en gåva i församlingen och dess utövande. Nämns tillsammans med tungotal, kunskap och kärlek och ska prövas.",
+      "layers": {
+        "nt": 9,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ローマ12:6、Ⅰコリ12:10・13:2・8・14:6・22、Ⅰテサ5:20（預言を軽んじるな）、Ⅰテモ1:18・4:14（預言によって授けられた賜物）。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "預言のことば／この書の預言（黙示録）",
+      "def_ja": "黙示録の『預言のことば』、その書にしるされたこと。読む者・聞く者・守る者の幸い、付け加え・取り除きの戒め。",
+      "label_en": "the words of prophecy / the prophecy of this book (Revelation)",
+      "def_en": "The “words of the prophecy” of Revelation, what is written in the book: the blessing on those who read, hear, and keep it, the warning against adding or taking away.",
+      "label_es": "palabras de la profecía / la profecía de este libro (Apocalipsis)",
+      "def_es": "Las «palabras de la profecía» del Apocalipsis, lo escrito en el libro: la bienaventuranza de quien lee, oye y guarda, y la advertencia contra añadir o quitar.",
+      "label_sv": "profetians ord / denna boks profetia (Uppenbarelseboken)",
+      "def_sv": "Uppenbarelsebokens ”profetiska ord”, det som står i boken: saligprisningen av den som läser, hör och håller fast vid det, varningen för att lägga till eller ta bort.",
+      "layers": {
+        "nt": 5,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "黙示録1:3・22:7・10・18・19（この預言のことば）。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 4,
+      "label_ja": "預言する働き／預言の霊",
+      "def_ja": "預言すること、預言の働き、『イエスの証しは預言の霊』。",
+      "label_en": "the work of prophesying / the spirit of prophecy",
+      "def_en": "Prophesying, the activity of prophecy: “the testimony of Jesus is the spirit of prophecy”.",
+      "label_es": "actividad profética / espíritu de profecía",
+      "def_es": "El profetizar, la actividad profética: «el testimonio de Jesús es el espíritu de la profecía».",
+      "label_sv": "den profetiska verksamheten / profetians ande",
+      "def_sv": "Att profetera, profetians verk: ”vittnesbördet om Jesus är profetians ande”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "黙示録11:6（預言をする期間）・19:10（イエスの証しは預言の霊である）。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 13:2": 2,
+    "1CO 13:8": 2,
+    "1CO 12:10": 2,
+    "1CO 14:6": 2,
+    "1CO 14:22": 2,
+    "1TH 5:20": 2,
+    "1TI 4:14": 2,
+    "1TI 1:18": 2,
+    "2PE 1:20": 1,
+    "2PE 1:21": 1,
+    "MAT 13:14": 1,
+    "REV 1:3": 3,
+    "REV 11:6": 4,
+    "REV 19:10": 4,
+    "REV 22:7": 3,
+    "REV 22:10": 3,
+    "REV 22:18": 3,
+    "REV 22:19": 3,
+    "ROM 12:6": 2
+  },
+  "unresolved": [],
+  "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

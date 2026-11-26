@@ -1,0 +1,81 @@
+{
+  "strong": "G2927",
+  "lemma": "κρυπτός",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "隠れたこと／秘密のこと（中性複数・単数）",
+      "def_ja": "隠されているもの、人に知られていない事柄。やがて明らかにされる隠れたこと。『闇の隠れたこと』『心の隠れたこと』。",
+      "label_en": "hidden things / secrets (neuter)",
+      "def_en": "What is hidden, matters not known to people; hidden things that will eventually be made manifest: “the hidden things of darkness”, “the secrets of the heart”.",
+      "label_es": "lo oculto / los secretos (neutro)",
+      "def_es": "Lo escondido, lo que la gente no conoce; cosas ocultas que al fin serán manifestadas: «lo oculto de las tinieblas», «lo oculto del corazón».",
+      "label_sv": "det fördolda / hemligheterna (neutrum)",
+      "def_sv": "Det som är gömt och okänt för människor; det fördolda som en dag ska uppenbaras: ”det som är dolt i mörkret”, ”hjärtats hemligheter”.",
+      "layers": {
+        "nt": 8,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "マタイ10:26・マルコ4:22・ルカ8:17・12:2（隠れたことで現れないものはない）、ローマ2:16（人の隠れたこと）、Ⅰコリ4:5（闇に隠れたこと）・14:25（心の隠れたこと）、Ⅱコリ4:2（恥ずべき隠れたこと）。LXX 箴言3:22 ほかに並行。教父の代表例では確認していない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "隠れた所で（ἐν τῷ κρυπτῷ／ἐν κρυπτῷ）",
+      "def_ja": "『隠れた所で』『ひそかに』。施し・祈り・断食を『隠れたところで』行う、また公然と対比される『隠れて』。",
+      "label_en": "in secret (ἐν τῷ κρυπτῷ / ἐν κρυπτῷ)",
+      "def_en": "“In the hidden place”, “secretly”: doing alms, prayer, and fasting “in secret”; also “in secret” as contrasted with openly.",
+      "label_es": "en secreto (ἐν τῷ κρυπτῷ / ἐν κρυπτῷ)",
+      "def_es": "«En lo secreto», «a escondidas»: dar limosna, orar y ayunar «en secreto»; también «en oculto» en contraste con lo público.",
+      "label_sv": "i det fördolda (ἐν τῷ κρυπτῷ / ἐν κρυπτῷ)",
+      "def_sv": "”I det fördolda”, ”i hemlighet”: att ge gåvor, be och fasta ”i det fördolda”; även ”i smyg” i motsats till öppet.",
+      "layers": {
+        "nt": 9,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マタイ6:4（2回）・6（2回）・18（2回、κρυφαῖος）、ヨハネ7:4・10・18:20（私は隠れて何も語らなかった）。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "内なる（隠れた人・内面）",
+      "def_ja": "外側に現れない内面、心のうちにあること。『心の隠れた人』『内面のユダヤ人』。",
+      "label_en": "inner (hidden person, inner self)",
+      "def_en": "The inner self that does not appear outwardly, what is within the heart: “the hidden person of the heart”, “a Jew inwardly”.",
+      "label_es": "interior (el ser oculto, la interioridad)",
+      "def_es": "La interioridad que no aparece al exterior, lo que hay en el corazón: «el ser interior del corazón», «judío en lo interior».",
+      "label_sv": "inre (den fördolda människan)",
+      "def_sv": "Det inre som inte syns utåt, det som finns i hjärtat: ”hjärtats fördolda människa”, ”jude i det inre”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "Ⅰペテロ3:4（心の隠れた人）、ローマ2:29（内面のユダヤ人）。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 4:5": 1,
+    "1CO 14:25": 1,
+    "1PE 3:4": 3,
+    "2CO 4:2": 1,
+    "JHN 18:20": 2,
+    "JHN 7:4": 2,
+    "JHN 7:10": 2,
+    "LUK 12:2": 1,
+    "LUK 8:17": 1,
+    "MAT 10:26": 1,
+    "MAT 6:4#1": 2,
+    "MAT 6:4#2": 2,
+    "MAT 6:6#1": 2,
+    "MAT 6:6#2": 2,
+    "MAT 6:18#1": 2,
+    "MAT 6:18#2": 2,
+    "MRK 4:22": 1,
+    "ROM 2:16": 1,
+    "ROM 2:29": 3
+  },
+  "unresolved": [],
+  "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

@@ -1,0 +1,79 @@
+{
+  "strong": "G2092",
+  "lemma": "ἕτοιμος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "用意ができている／備えている（人が）",
+      "def_ja": "備えができている、いつでも〜する用意がある。『いつでも弁明できる用意』『ゆだねられる用意』『主人は用意した者たち』。",
+      "label_en": "ready / prepared (of persons)",
+      "def_en": "Having made preparation, being ready to do something at any time: “always ready to make a defence”, “ready to be handed over”, “those who were ready for the master”.",
+      "label_es": "listo / preparado (persona)",
+      "def_es": "Tener hechos los preparativos, estar dispuesto a hacer algo en cualquier momento: «siempre preparados para presentar defensa», «dispuesto a ser entregado», «los que estaban preparados».",
+      "label_sv": "redo / beredd (om människor)",
+      "def_sv": "Att vara förberedd, alltid redo att göra något: ”alltid redo att försvara”, ”beredd att bli utlämnad”, ”de som stod redo”.",
+      "layers": {
+        "nt": 9,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰペテロ3:15（弁明できる用意）、使徒23:15・21（殺す用意）、ルカ12:40・マタイ24:44・25:10（用意のできていた者）、ルカ22:33（あなたとともに牢にも死にも用意があります）、テト3:1（あらゆる良いわざに備え）、Ⅱコリ10:6。LXX Ⅰマカバイ7:29、教父（ヘルマス25.4.2）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "（物・事が）整えられた／用意された",
+      "def_ja": "宴・部屋・救い・献金などが、準備されている、整っている。『食事の用意ができた』『最後の時に現される救い』。",
+      "label_en": "made ready / prepared (things, matters)",
+      "def_en": "A banquet, room, salvation, collection, and so on is prepared and in order: “the meal is ready”, “salvation ready to be revealed in the last time”.",
+      "label_es": "dispuesto / preparado (cosas)",
+      "def_es": "El banquete, la sala, la salvación, la ofrenda, etc., están preparados y en orden: «la comida está lista», «la salvación preparada para revelarse en el último tiempo».",
+      "label_sv": "iordningställd / färdig (ting)",
+      "def_sv": "Gästabudet, rummet, frälsningen, insamlingen m.m. är förberedda och klara: ”måltiden är färdig”, ”frälsningen som är beredd att uppenbaras i den sista tiden”.",
+      "layers": {
+        "nt": 7,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "マタイ22:4・8（婚宴の用意が整った）、マルコ14:15（用意のできた二階の広間）、ルカ14:17（もう用意ができた）、Ⅱコリ9:5（献金が用意されている）・10:16（すでに他の者の領分で成し遂げたことを）、Ⅰペテロ1:5（終わりの時に現される救い）。LXX 詩篇111:7（用意された心）に並行。教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "（時が）まだ来ていない／適した",
+      "def_ja": "時・機会が適している、備わっている。『あなたがたの時はいつでも備わっている』。",
+      "label_en": "(time) not yet come / opportune",
+      "def_en": "A time or occasion is suitable, is at hand: “your time is always ready”.",
+      "label_es": "(tiempo) oportuno / disponible",
+      "def_es": "El tiempo o la ocasión son adecuados, están a mano: «vuestro tiempo siempre está presto».",
+      "label_sv": "(om tid) lämplig / inne",
+      "def_sv": "En tid eller ett tillfälle är passande och för handen: ”för er är tiden alltid inne”.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヨハネ7:6（あなたがたの時はいつも備わっている）の1例のみ。語義1・2 との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1PE 1:5": 2,
+    "1PE 3:15": 1,
+    "2CO 10:6": 1,
+    "2CO 10:16": 2,
+    "2CO 9:5": 2,
+    "ACT 23:15": 1,
+    "ACT 23:21": 1,
+    "JHN 7:6": 3,
+    "LUK 14:17": 2,
+    "LUK 12:40": 1,
+    "LUK 22:33": 1,
+    "MAT 22:4": 2,
+    "MAT 22:8": 2,
+    "MAT 25:10": 1,
+    "MAT 24:44": 1,
+    "MRK 14:15": 2,
+    "TIT 3:1": 1
+  },
+  "unresolved": [],
+  "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

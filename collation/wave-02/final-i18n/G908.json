@@ -1,0 +1,81 @@
+{
+  "strong": "G908",
+  "lemma": "βάπτισμα",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "（ヨハネの）バプテスマ",
+      "def_ja": "洗礼者ヨハネが授けたバプテスマ。『罪の赦しを得させる悔い改めのバプテスマ』『ヨハネのバプテスマ』『天からか、人からか』。",
+      "label_en": "baptism (of John)",
+      "def_en": "The baptism administered by John the Baptist: “a baptism of repentance for the forgiveness of sins”, “the baptism of John”, “from heaven or from men?”",
+      "label_es": "bautismo (de Juan)",
+      "def_es": "El bautismo que administraba Juan el Bautista: «bautismo de arrepentimiento para perdón de pecados», «el bautismo de Juan», «¿del cielo o de los hombres?».",
+      "label_sv": "dop (Johannes dop)",
+      "def_sv": "Det dop som Johannes döparen gav: ”omvändelsens dop till syndernas förlåtelse”, ”Johannes dop”, ”från himlen eller från människor?”.",
+      "layers": {
+        "nt": 13,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マタイ3:7・21:25、マルコ1:4・11:30、ルカ3:3・7:29・20:4、使徒1:22・10:37・13:24・18:25・19:3・4（2回目）。LXX には用例が無く（パケット0件）、教父の代表例でもこの用法は確認していない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "（キリスト者の）バプテスマ",
+      "def_ja": "教会・信者に与えられるバプテスマ。『一つのバプテスマ』『バプテスマによってキリストとともに葬られ』『救いをもたらすバプテスマ』。",
+      "label_en": "baptism (Christian)",
+      "def_en": "The baptism given to the church and believers: “one baptism”, “buried with Christ through baptism”, “the baptism that saves”.",
+      "label_es": "bautismo (cristiano)",
+      "def_es": "El bautismo dado a la iglesia y a los creyentes: «un solo bautismo», «sepultados con Cristo por el bautismo», «el bautismo que salva».",
+      "label_sv": "dop (det kristna)",
+      "def_sv": "Det dop som ges till församlingen och de troende: ”ett dop”, ”begravda med Kristus genom dopet”, ”dopet som frälser”.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "エペソ4:5、ローマ6:4、Ⅰペテロ3:21。教父（ディダケー7.1、バルナバ11.1）に並行。語義1との境界は連続的。LXX の用例は0件。"
+    },
+    {
+      "n": 3,
+      "label_ja": "（苦難に）浸されること（比喩）",
+      "def_ja": "苦難・死に浸されること、『わたしが受けるバプテスマ』。",
+      "label_en": "immersion in suffering (figurative)",
+      "def_en": "Being immersed in suffering and death: “the baptism with which I am baptized”.",
+      "label_es": "inmersión en el sufrimiento (figurado)",
+      "def_es": "Ser sumergido en el sufrimiento y la muerte: «el bautismo con que yo soy bautizado».",
+      "label_sv": "att döpas i lidande (bildligt)",
+      "def_sv": "Att sänkas ner i lidande och död: ”det dop som jag döps med”.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マルコ10:38・39（わたしが受けるバプテスマを受けられるか。同一節に2回）、ルカ12:50（受けるバプテスマがある）。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1PE 3:21": 2,
+    "ACT 1:22": 1,
+    "ACT 18:25": 1,
+    "ACT 10:37": 1,
+    "ACT 13:24": 1,
+    "ACT 19:3": 1,
+    "ACT 19:4": 1,
+    "EPH 4:5": 2,
+    "LUK 12:50": 3,
+    "LUK 20:4": 1,
+    "LUK 3:3": 1,
+    "LUK 7:29": 1,
+    "MAT 3:7": 1,
+    "MAT 21:25": 1,
+    "MRK 11:30": 1,
+    "MRK 1:4": 1,
+    "MRK 10:38": 3,
+    "MRK 10:39": 3,
+    "ROM 6:4": 2
+  },
+  "unresolved": [],
+  "layer_notes": "LXX の用例は0件（パケット）。"
+}

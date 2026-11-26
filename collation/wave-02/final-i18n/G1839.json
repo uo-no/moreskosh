@@ -1,0 +1,79 @@
+{
+  "strong": "G1839",
+  "lemma": "ἐξίστημι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "驚く／あっけにとられる（中動・受動・自動）",
+      "def_ja": "出来事・しるし・教えに驚き、我を忘れるほど驚嘆する。『みな驚いた』『驚き怪しんだ』。",
+      "label_en": "to be amazed / astounded (middle, passive, intransitive)",
+      "def_en": "To be astonished at an event, sign, or teaching, to marvel beside oneself: “all were amazed”, “astonished and wondering”.",
+      "label_es": "asombrarse / quedar atónito (voz media, pasiva, intransitivo)",
+      "def_es": "Asombrarse hasta quedar fuera de sí ante un suceso, señal o enseñanza: «todos estaban atónitos», «se maravillaban».",
+      "label_sv": "att häpna / bli utom sig av förvåning (medium, passiv, intransitivt)",
+      "def_sv": "Att häpna över en händelse, ett tecken eller en undervisning så att man blir utom sig: ”alla häpnade”, ”de blev förundrade”.",
+      "layers": {
+        "nt": 13,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "マタイ12:23、マルコ2:12・5:42・6:51、ルカ2:47・8:56・24:22、使徒2:7・12・8:13・9:21・10:45・12:16。LXX 創世記・民数記、教父（Ⅰクレメンス11.2）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "驚かせる／仰天させる（他動）",
+      "def_ja": "人を驚かせる、魔術などで人々を驚かせる。",
+      "label_en": "to amaze / astonish (transitive)",
+      "def_en": "To astonish people, to amaze them by magic and the like.",
+      "label_es": "asombrar / dejar atónito (transitivo)",
+      "def_es": "Asombrar a la gente, dejarla pasmada con artes mágicas y semejantes.",
+      "label_sv": "att väcka häpnad (transitivt)",
+      "def_sv": "Att förbluffa människor, att slå dem med häpnad genom trolldom och liknande.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒8:9（魔術を行って人々を驚かせ）・8:11（長い間魔術で驚かせていた）。Abbott の『他動』の用法。語義1との境界は連続的（態の違い）。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "気が変になる／正気を失う",
+      "def_ja": "正気を失う、分別を失う、常軌を逸する。",
+      "label_en": "to be out of one's mind",
+      "def_en": "To lose one's senses, lose judgment, act beyond the norm.",
+      "label_es": "estar fuera de sí / perder el juicio",
+      "def_es": "Perder la razón, el discernimiento, salirse de lo normal.",
+      "label_sv": "att vara från sina sinnen",
+      "def_sv": "Att förlora förståndet och omdömet, att bete sig avvikande.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マルコ3:21（イエスは気が狂ったと言われた）、Ⅱコリ5:13（わたしたちが気が狂っているのは神のため）。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "2CO 5:13": 3,
+    "ACT 12:16": 1,
+    "ACT 10:45": 1,
+    "ACT 2:7": 1,
+    "ACT 2:12": 1,
+    "ACT 8:9": 2,
+    "ACT 8:11": 2,
+    "ACT 8:13": 1,
+    "ACT 9:21": 1,
+    "LUK 2:47": 1,
+    "LUK 24:22": 1,
+    "LUK 8:56": 1,
+    "MAT 12:23": 1,
+    "MRK 2:12": 1,
+    "MRK 3:21": 3,
+    "MRK 5:42": 1,
+    "MRK 6:51": 1
+  },
+  "unresolved": [],
+  "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

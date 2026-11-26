@@ -1,0 +1,80 @@
+{
+  "strong": "G3619",
+  "lemma": "οἰκοδομή",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "建物／建造物",
+      "def_ja": "建てられた物、建築物。神殿の建物、石造りの建物。",
+      "label_en": "building / structure",
+      "def_en": "Something built, an edifice: the temple buildings, buildings of stone.",
+      "label_es": "edificio / construcción",
+      "def_es": "Lo edificado, una construcción: los edificios del templo, construcciones de piedra.",
+      "label_sv": "byggnad / byggnadsverk",
+      "def_sv": "Något som är byggt: templets byggnader, byggnader av sten.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "マタイ24:1・マルコ13:1・2（これらの大きな建物を見るのか）。LXX（Ⅰエズラ5.70）・教父（バルナバ16.1 ほか）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "（神の）建物／住まい（比喩）",
+      "def_ja": "神の建物（教会）、天にある家（体）、聖なる宮となる建物。",
+      "label_en": "building / dwelling (from God; figurative)",
+      "def_en": "God's building (the church), the house in heaven (the body), the building that becomes a holy temple.",
+      "label_es": "edificio / morada (de Dios; figurado)",
+      "def_es": "El edificio de Dios (la iglesia), la casa en los cielos (el cuerpo), la construcción que llega a ser templo santo.",
+      "label_sv": "byggnad / boning (Guds; bildligt)",
+      "def_sv": "Guds byggnad (församlingen), huset i himlen (kroppen), byggnaden som blir ett heligt tempel.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "Ⅰコリ3:9（あなたがたは神の建物）、Ⅱコリ5:1（天にある永遠の家）、エペソ2:21（建物全体が組み合わされ、聖なる宮となる）。語義3との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "建て上げ／徳を高めること（成長）",
+      "def_ja": "人・教会を信仰・愛において築き上げ、成長させること。『徳を高める』『造り上げ』。",
+      "label_en": "building up / edification (growth)",
+      "def_en": "Building up people or the church in faith and love, and making them grow: “for edification”, “upbuilding”.",
+      "label_es": "edificación (crecimiento)",
+      "def_es": "Edificar a las personas o a la iglesia en la fe y el amor y hacerlas crecer: «para edificación», «edificar».",
+      "label_sv": "uppbyggelse (tillväxt)",
+      "def_sv": "Att bygga upp människor och församlingen i tro och kärlek och få dem att växa: ”till uppbyggelse”, ”bygga upp”.",
+      "layers": {
+        "nt": 12,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "Ⅰコリ14:3・5・12・26、Ⅱコリ10:8・12:19・13:10、エペソ4:12・16・29、ローマ14:19・15:2（互いの徳を高め）。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 3:9": 2,
+    "1CO 14:3": 3,
+    "1CO 14:5": 3,
+    "1CO 14:12": 3,
+    "1CO 14:26": 3,
+    "2CO 10:8": 3,
+    "2CO 13:10": 3,
+    "2CO 12:19": 3,
+    "2CO 5:1": 2,
+    "EPH 2:21": 2,
+    "EPH 4:12": 3,
+    "EPH 4:16": 3,
+    "EPH 4:29": 3,
+    "MAT 24:1": 1,
+    "MRK 13:1": 1,
+    "MRK 13:2": 1,
+    "ROM 14:19": 3,
+    "ROM 15:2": 3
+  },
+  "unresolved": [],
+  "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}
