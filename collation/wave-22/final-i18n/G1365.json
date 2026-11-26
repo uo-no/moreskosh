@@ -1,0 +1,30 @@
+{
+  "strong": "G1365",
+  "lemma": "διστάζω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "疑う",
+      "def_ja": "疑う、ためらう。『なぜ疑ったのか』『疑う者もいた』。",
+      "label_en": "to doubt",
+      "def_en": "To doubt, to hesitate.",
+      "label_es": "dudar",
+      "def_es": "Dudar, vacilar.",
+      "label_sv": "att tvivla",
+      "def_sv": "Att tvivla, att tveka.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "マタイ14:31・28:17。LXX の用例なし。教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "MAT 14:31": 1,
+    "MAT 28:17": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

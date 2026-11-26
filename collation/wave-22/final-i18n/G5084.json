@@ -1,0 +1,48 @@
+{
+  "strong": "G5084",
+  "lemma": "τήρησις",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "守ること",
+      "def_ja": "守ること、遵守。『神の戒めを守ること』。",
+      "label_en": "keeping, observance",
+      "def_en": "Keeping, observing.",
+      "label_es": "observancia",
+      "def_es": "El guardar, cumplimiento.",
+      "label_sv": "hållande",
+      "def_sv": "Att hålla, att iaktta.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "コリント第一7:19。LXX に並行。教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "拘置・牢",
+      "def_ja": "拘置、留置、牢。『翌日まで留置した』『公の牢に入れた』。",
+      "label_en": "custody, prison",
+      "def_en": "Detention, confinement, a jail.",
+      "label_es": "custodia, cárcel",
+      "def_es": "Detención, reclusión, prisión.",
+      "label_sv": "förvar, häkte",
+      "def_sv": "Fängsligt förvar, fängelse.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒4:3・5:18。LXX の代表例は警備・守りの用例で、拘置の意味は確認していない。教父の用例なし。"
+    }
+  ],
+  "assignments": {
+    "1CO 7:19": 1,
+    "ACT 4:3": 2,
+    "ACT 5:18": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（遵守／拘置）による。"
+}

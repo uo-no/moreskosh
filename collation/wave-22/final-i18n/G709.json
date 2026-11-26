@@ -1,0 +1,31 @@
+{
+  "strong": "G709",
+  "lemma": "ἀριστάω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "食事をする",
+      "def_ja": "食事をする、朝食をとる。『来て、朝の食事をしなさい』『食事をしたとき』『食事の席に』。",
+      "label_en": "to eat a meal, to breakfast",
+      "def_en": "To take a meal, to have breakfast.",
+      "label_es": "comer, desayunar",
+      "def_es": "Tomar una comida, desayunar.",
+      "label_sv": "att äta, att äta frukost",
+      "def_sv": "Att inta en måltid, att äta morgonmål.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヨハネ21:12・21:15、ルカ11:37。LXX に並行。教父の用例なし。単一語義。"
+    }
+  ],
+  "assignments": {
+    "JHN 21:12": 1,
+    "JHN 21:15": 1,
+    "LUK 11:37": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

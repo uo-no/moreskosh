@@ -1,0 +1,30 @@
+{
+  "strong": "G111",
+  "lemma": "ἀθέμιτος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "不法な",
+      "def_ja": "許されない、不法な。『ユダヤ人が異邦人と交わることは律法にかなわない』『律法にそむく偶像礼拝』。",
+      "label_en": "unlawful",
+      "def_en": "Not permitted, against the law.",
+      "label_es": "ilícito",
+      "def_es": "No permitido, contrario a la ley.",
+      "label_sv": "otillåten",
+      "def_sv": "Inte tillåten, laglös.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "ペテロ第一4:3、使徒10:28。LXX の用例なし。教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "1PE 4:3": 1,
+    "ACT 10:28": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

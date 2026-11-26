@@ -1,0 +1,48 @@
+{
+  "strong": "G5078",
+  "lemma": "τέχνη",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "職業・手わざ",
+      "def_ja": "職業、手わざ。『同業だったので』『あらゆる職業の者』。",
+      "label_en": "trade, craft",
+      "def_en": "An occupation, a handicraft.",
+      "label_es": "oficio",
+      "def_es": "Profesión, trabajo manual.",
+      "label_sv": "yrke, hantverk",
+      "def_sv": "Näring, hantverk.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒18:3、黙示録18:22。LXX、教父に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "技巧・工芸",
+      "def_ja": "技巧、工芸の腕。『人間の技巧や考えで刻んだ』。",
+      "label_en": "art, skill",
+      "def_en": "Art, craftsmanship.",
+      "label_es": "arte",
+      "def_es": "Destreza, habilidad artística.",
+      "label_sv": "konst",
+      "def_sv": "Konstfärdighet, skicklighet.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒17:29。LXX に並行（技巧）。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 18:3": 1,
+    "ACT 17:29": 2,
+    "REV 18:22": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（職業／技巧）による。"
+}

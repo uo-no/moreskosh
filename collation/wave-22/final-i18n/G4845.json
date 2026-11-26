@@ -1,0 +1,48 @@
+{
+  "strong": "G4845",
+  "lemma": "συμπληρόω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "満ちる・満たされる",
+      "def_ja": "満たされる。『水でいっぱいになり』。",
+      "label_en": "to be filled",
+      "def_en": "To be filled.",
+      "label_es": "llenarse",
+      "def_es": "Quedar lleno.",
+      "label_sv": "att fyllas",
+      "def_sv": "Att bli full.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ルカ8:23。LXX・教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "（日が）満ちる",
+      "def_ja": "日が満ちる、時が満ちる。『五旬節の日が満ちて』『日が満ちるころ』。",
+      "label_en": "(of days) to be fulfilled",
+      "def_en": "For the days or the time to be completed.",
+      "label_es": "cumplirse (el plazo)",
+      "def_es": "Llegar a cumplirse los días o el tiempo.",
+      "label_sv": "(om dagar) att vara inne",
+      "def_sv": "Att dagarna eller tiden fullbordas.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒2:1、ルカ9:51。LXX・教父の用例なし。"
+    }
+  ],
+  "assignments": {
+    "ACT 2:1": 2,
+    "LUK 8:23": 1,
+    "LUK 9:51": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。"
+}

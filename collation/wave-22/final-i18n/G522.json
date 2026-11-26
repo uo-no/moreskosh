@@ -1,0 +1,31 @@
+{
+  "strong": "G522",
+  "lemma": "ἀπαίρω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "取り去られる",
+      "def_ja": "取り去られる、去る。『花婿が取り去られる日が来る』。LXX の代表例は『出発する』の用法で、この用法は確認していない。",
+      "label_en": "to be taken away",
+      "def_en": "To be taken away, to depart.",
+      "label_es": "ser quitado",
+      "def_es": "Ser arrebatado, marcharse.",
+      "label_sv": "att tas ifrån",
+      "def_sv": "Att bli borttagen, att försvinna.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ルカ5:35、マタイ9:15、マルコ2:20。LXX・教父の代表例では確認していない。単一語義。"
+    }
+  ],
+  "assignments": {
+    "LUK 5:35": 1,
+    "MAT 9:15": 1,
+    "MRK 2:20": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

@@ -1,0 +1,30 @@
+{
+  "strong": "G1416",
+  "lemma": "δύνω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "沈む",
+      "def_ja": "沈む、（日が）没する。『日が沈みかけたころ』『日が入ると』。",
+      "label_en": "to set",
+      "def_en": "To sink, to set (of the sun).",
+      "label_es": "ponerse (el sol)",
+      "def_es": "Hundirse, ocultarse el sol.",
+      "label_sv": "att gå ner (om solen)",
+      "def_sv": "Att sjunka, att solen går ner.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ4:40、マルコ1:32。LXX に並行。教父の用例なし。単一語義。"
+    }
+  ],
+  "assignments": {
+    "LUK 4:40": 1,
+    "MRK 1:32": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

@@ -1,0 +1,30 @@
+{
+  "strong": "G1019",
+  "lemma": "βραδύνω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "遅れる",
+      "def_ja": "遅れる、ぐずぐずする。『遅れた場合には』『遅いと思っているのではない』。",
+      "label_en": "to delay",
+      "def_en": "To be late, to linger.",
+      "label_es": "tardar",
+      "def_es": "Demorarse, entretenerse.",
+      "label_sv": "att dröja",
+      "def_sv": "Att försena sig, att söla.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "テモテ第一3:15、ペテロ第二3:9。LXX、教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "1TI 3:15": 1,
+    "2PE 3:9": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

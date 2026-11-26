@@ -1,0 +1,48 @@
+{
+  "strong": "G4638",
+  "lemma": "σκήνωμα",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "幕屋・住まい",
+      "def_ja": "幕屋、住まい。『ヤコブの神のために住まいを』。",
+      "label_en": "tabernacle, dwelling",
+      "def_en": "A tent, a dwelling place.",
+      "label_es": "tabernáculo, morada",
+      "def_es": "Tienda, habitación.",
+      "label_sv": "tabernakel, boning",
+      "def_sv": "Tält, boning.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒7:46。LXX に並行（幕屋・住まい）。教父の代表例では確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "からだ（仮の宿）",
+      "def_ja": "幕屋の語でからだを指す用法。『この幕屋にいる間は』『わたしの幕屋を脱ぎ捨てる時が近い』。",
+      "label_en": "the body (as a temporary dwelling)",
+      "def_en": "The word for a tent used of the body.",
+      "label_es": "el cuerpo (como tienda)",
+      "def_es": "La palabra «tienda» aplicada al cuerpo.",
+      "label_sv": "kroppen (som tillfällig hydda)",
+      "def_sv": "Ordet för tält använt om kroppen.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "ペテロ第二1:13・1:14。LXX の代表例では確認していない。教父に並行（死すべき幕屋＝からだ）。"
+    }
+  ],
+  "assignments": {
+    "2PE 1:13": 2,
+    "2PE 1:14": 2,
+    "ACT 7:46": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（幕屋・住まい／からだを指す用法）による。"
+}

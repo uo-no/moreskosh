@@ -1,0 +1,30 @@
+{
+  "strong": "G1383",
+  "lemma": "δοκίμιον",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "試し・試された真正さ",
+      "def_ja": "試すこと、試された真正さ。ペテロ第一1:7 を『試された真正さ』、ヤコブ1:3 を『試し』と読むか否かは決定しない。",
+      "label_en": "testing, tested genuineness",
+      "def_en": "A testing; genuineness that has been tested.",
+      "label_es": "prueba, autenticidad probada",
+      "def_es": "El probar; lo auténtico ya probado.",
+      "label_sv": "prövning, beprövad äkthet",
+      "def_sv": "Att pröva; den äkthet som bestått provet.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ペテロ第一1:7、ヤコブ1:3。LXX に並行。教父の用例なし。単一語義。"
+    }
+  ],
+  "assignments": {
+    "1PE 1:7": 1,
+    "JAS 1:3": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

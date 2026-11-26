@@ -1,0 +1,48 @@
+{
+  "strong": "G724",
+  "lemma": "ἁρπαγή",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "略奪",
+      "def_ja": "略奪、奪い取ること。『持ち物が略奪されるのを喜んで』。",
+      "label_en": "plundering",
+      "def_en": "Plunder, seizure.",
+      "label_es": "despojo",
+      "def_es": "Saqueo, el arrebatar.",
+      "label_sv": "plundring, rov",
+      "def_sv": "Rov, att ta med våld.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヘブル10:34。LXX に並行。教父の代表例では確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "強欲",
+      "def_ja": "強欲、貪欲。『強欲と邪悪で満ちている』『強欲と放縦』。",
+      "label_en": "greed, rapacity",
+      "def_en": "Rapacity, greed.",
+      "label_es": "rapacidad",
+      "def_es": "Rapiña, codicia.",
+      "label_sv": "rovlystnad",
+      "def_sv": "Rofferi, girighet.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "ルカ11:39、マタイ23:25。LXX の代表例では確認していない。教父に並行（悪徳表）。"
+    }
+  ],
+  "assignments": {
+    "HEB 10:34": 1,
+    "LUK 11:39": 2,
+    "MAT 23:25": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（略奪／強欲）による。"
+}

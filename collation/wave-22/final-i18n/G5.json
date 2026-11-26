@@ -1,0 +1,31 @@
+{
+  "strong": "G5",
+  "lemma": "αββα",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "アバ",
+      "def_ja": "アラム語『父』のギリシア語音写、アバ。『アバ、父よ』。",
+      "label_en": "Abba",
+      "def_en": "The Greek transliteration of the Aramaic word for “father”: Abba.",
+      "label_es": "Abba",
+      "def_es": "Transcripción griega de la palabra aramea para «padre»: Abba.",
+      "label_sv": "Abba",
+      "def_sv": "Det arameiska ordet för ”far” återgivet med grekiska bokstäver: Abba.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ガラテヤ4:6、マルコ14:36、ローマ8:15。LXX の代表例は人名の用例で、同じ用法ではない。教父の用例なし。単一語義。"
+    }
+  ],
+  "assignments": {
+    "GAL 4:6": 1,
+    "MRK 14:36": 1,
+    "ROM 8:15": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

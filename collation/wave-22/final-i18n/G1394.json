@@ -1,0 +1,47 @@
+{
+  "strong": "G1394",
+  "lemma": "δόσις",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "贈り物",
+      "def_ja": "贈り物、賜物。『あらゆる良い贈り物』。",
+      "label_en": "gift",
+      "def_en": "A gift, a present.",
+      "label_es": "dádiva",
+      "def_es": "Don, regalo.",
+      "label_sv": "gåva",
+      "def_sv": "Gåva, skänk.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヤコブ1:17。LXX に並行。教父の代表例では確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "与えること",
+      "def_ja": "与えること、授与。『与えることと受けることの点で』。",
+      "label_en": "giving",
+      "def_en": "Giving, bestowal.",
+      "label_es": "el dar",
+      "def_es": "El acto de dar, entrega.",
+      "label_sv": "givande",
+      "def_sv": "Att ge, utdelande.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ピリピ4:15。LXX に並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "JAS 1:17": 1,
+    "PHP 4:15": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（贈り物／与えること）による。"
+}

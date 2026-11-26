@@ -1,0 +1,31 @@
+{
+  "strong": "G982",
+  "lemma": "βιωτικός",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "日常の",
+      "def_ja": "この世の生活に関する、日常の。『日常の事柄』『生活の思い煩い』。",
+      "label_en": "of daily life",
+      "def_en": "Concerning the affairs of this life, everyday.",
+      "label_es": "de la vida diaria",
+      "def_es": "Relativo a los asuntos de esta vida, cotidiano.",
+      "label_sv": "vardaglig",
+      "def_sv": "Som hör till det jordiska livet, vardagens.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "コリント第一6:3・6:4、ルカ21:34。LXX の用例なし。教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "1CO 6:3": 1,
+    "1CO 6:4": 1,
+    "LUK 21:34": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

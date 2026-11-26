@@ -1,0 +1,31 @@
+{
+  "strong": "G4702",
+  "lemma": "σπόριμος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "種を蒔いた畑",
+      "def_ja": "種を蒔かれた畑、麦畑。『麦畑を通って』。",
+      "label_en": "grainfield",
+      "def_en": "A sown field, a field of grain.",
+      "label_es": "sembrado",
+      "def_es": "Campo sembrado, trigal.",
+      "label_sv": "sädesfält",
+      "def_sv": "Besått fält, säd.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ6:1、マタイ12:1、マルコ2:23。LXX に並行。教父の用例なし。単一語義。"
+    }
+  ],
+  "assignments": {
+    "LUK 6:1": 1,
+    "MAT 12:1": 1,
+    "MRK 2:23": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

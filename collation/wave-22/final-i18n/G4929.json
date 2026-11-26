@@ -1,0 +1,31 @@
+{
+  "strong": "G4929",
+  "lemma": "συντάσσω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "命じる",
+      "def_ja": "指示する、命じる。『命じられたとおりに』『主が命じられたように』『命じられたとおり』。",
+      "label_en": "to direct, to command",
+      "def_en": "To instruct, to order.",
+      "label_es": "ordenar",
+      "def_es": "Dar instrucciones, mandar.",
+      "label_sv": "att befalla",
+      "def_sv": "Att anvisa, att ge order.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "マタイ21:6・27:10・26:19。LXX に並行。教父の用例なし。単一語義。"
+    }
+  ],
+  "assignments": {
+    "MAT 21:6": 1,
+    "MAT 27:10": 1,
+    "MAT 26:19": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

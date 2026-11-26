@@ -1,0 +1,48 @@
+{
+  "strong": "G806",
+  "lemma": "ἀσφαλῶς",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "厳重に",
+      "def_ja": "厳重に、しっかりと。『厳重に見張れ』『厳重に監視して』。",
+      "label_en": "securely",
+      "def_en": "Strictly, firmly.",
+      "label_es": "con seguridad, estrictamente",
+      "def_es": "Con rigor, firmemente.",
+      "label_sv": "säkert, noga",
+      "def_sv": "Strängt, ordentligt.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒16:23、マルコ14:44。LXX・教父の代表例では確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "確かに",
+      "def_ja": "確かに、確実に。『確実に知らなければならない』。",
+      "label_en": "assuredly",
+      "def_en": "Certainly, for certain.",
+      "label_es": "ciertamente",
+      "def_es": "Con certeza, sin duda.",
+      "label_sv": "med visshet",
+      "def_sv": "Säkert, förvisso.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒2:36。LXX に並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 16:23": 1,
+    "ACT 2:36": 2,
+    "MRK 14:44": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（厳重に／確かに）による。"
+}

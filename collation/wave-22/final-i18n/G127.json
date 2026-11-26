@@ -1,0 +1,36 @@
+{
+  "strong": "G127",
+  "lemma": "δέος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "畏れ",
+      "def_ja": "畏れ、畏怖。『恐れかしこみつつ』。テモテ第一2:9 の語形 αἰδοῦς は αἰδώς の語形で別レンマ。",
+      "label_en": "awe, reverence",
+      "def_en": "Reverence, awe.",
+      "label_es": "temor reverente",
+      "def_es": "Reverencia, temor.",
+      "label_sv": "vördnadsfull fruktan",
+      "def_sv": "Vördnad, bävan.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヘブル12:28。LXX に並行。教父の用例なし。"
+    }
+  ],
+  "assignments": {
+    "HEB 12:28": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。",
+  "excluded": [
+    {
+      "ref": "1TI 2:9",
+      "form": "αἰδοῦς",
+      "reason": "形 αἰδοῦς の lemma は αἰδώς で別語。αἰδώς は頻度1の別項目として扱う。"
+    }
+  ]
+}

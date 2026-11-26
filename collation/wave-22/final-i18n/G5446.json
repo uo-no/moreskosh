@@ -1,0 +1,48 @@
+{
+  "strong": "G5446",
+  "lemma": "φυσικός",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "自然の",
+      "def_ja": "自然の、本来の。『自然な関係』『自然の用』。",
+      "label_en": "natural",
+      "def_en": "Of nature, according to nature.",
+      "label_es": "natural",
+      "def_es": "Propio de la naturaleza.",
+      "label_sv": "naturlig",
+      "def_sv": "Enligt naturen.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ローマ1:26・1:27。LXX・教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "本能による",
+      "def_ja": "本能による、生まれつきの。『本能のままに生きる』。",
+      "label_en": "instinctive",
+      "def_en": "By instinct, inborn.",
+      "label_es": "instintivo",
+      "def_es": "Por instinto, de nacimiento.",
+      "label_sv": "driftmässig",
+      "def_sv": "Styrd av instinkt, medfödd.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ペテロ第二2:12。LXX・教父の用例なし。"
+    }
+  ],
+  "assignments": {
+    "2PE 2:12": 2,
+    "ROM 1:26": 1,
+    "ROM 1:27": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。"
+}

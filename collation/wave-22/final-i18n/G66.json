@@ -1,0 +1,48 @@
+{
+  "strong": "G66",
+  "lemma": "ἄγριος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "野生の",
+      "def_ja": "野生の。『野蜜』。",
+      "label_en": "wild",
+      "def_en": "Wild, growing or living in the wild.",
+      "label_es": "silvestre",
+      "def_es": "Silvestre, no cultivado.",
+      "label_sv": "vild",
+      "def_sv": "Vild, som lever eller växer vilt.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "マタイ3:4、マルコ1:6。LXX、教父に並行（野獣）。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "荒々しい",
+      "def_ja": "荒々しい、激しい。『荒波』。",
+      "label_en": "fierce",
+      "def_en": "Rough, violent.",
+      "label_es": "bravo, fiero",
+      "def_es": "Impetuoso, violento.",
+      "label_sv": "vild, våldsam",
+      "def_sv": "Häftig, vild.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ユダ13。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "JUD 1:13": 2,
+    "MAT 3:4": 1,
+    "MRK 1:6": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（野生の／荒々しい）による。"
+}

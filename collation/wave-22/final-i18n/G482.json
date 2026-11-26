@@ -1,0 +1,48 @@
+{
+  "strong": "G482",
+  "lemma": "ἀντιλαμβάνομαι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "助ける・支える",
+      "def_ja": "助ける、支える。『弱い者を助けなければならない』『しもべイスラエルを助けられた』。",
+      "label_en": "to help, to support",
+      "def_en": "To help, to come to the aid of.",
+      "label_es": "socorrer, ayudar",
+      "def_es": "Ayudar, auxiliar.",
+      "label_sv": "att hjälpa, att ta sig an",
+      "def_sv": "Att bistå, att stödja.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒20:35、ルカ1:54。LXX、教父に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "あずかる・恩恵を受ける",
+      "def_ja": "受ける、あずかる。『その恩恵にあずかる者』。",
+      "label_en": "to benefit from",
+      "def_en": "To receive, to have a share in a benefit.",
+      "label_es": "beneficiarse",
+      "def_es": "Recibir, participar de un bien.",
+      "label_sv": "att få del av",
+      "def_sv": "Att ta emot, att dra nytta av.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "テモテ第一6:2。LXX の代表例では確認していない。教父に並行（あずかる）。"
+    }
+  ],
+  "assignments": {
+    "1TI 6:2": 2,
+    "ACT 20:35": 1,
+    "LUK 1:54": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（助ける／あずかる）による。"
+}

@@ -1,0 +1,48 @@
+{
+  "strong": "G5586",
+  "lemma": "ψῆφος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "票",
+      "def_ja": "投票、票。『賛成の票を投じた』。",
+      "label_en": "vote",
+      "def_en": "A vote.",
+      "label_es": "voto",
+      "def_es": "Voto, sufragio.",
+      "label_sv": "röst (vid omröstning)",
+      "def_sv": "En avgiven röst.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒26:10。LXX に並行（採決・票）。教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "小石",
+      "def_ja": "小石、石。『白い石』。",
+      "label_en": "pebble, stone",
+      "def_en": "A small stone, a pebble.",
+      "label_es": "piedrecita",
+      "def_es": "Piedra pequeña.",
+      "label_sv": "liten sten",
+      "def_sv": "Sten, småsten.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "黙示録2:17（2回）。LXX に並行（石）。教父の用例なし。"
+    }
+  ],
+  "assignments": {
+    "ACT 26:10": 1,
+    "REV 2:17#1": 2,
+    "REV 2:17#2": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（票／小石）による。"
+}

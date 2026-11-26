@@ -1,0 +1,48 @@
+{
+  "strong": "G5196",
+  "lemma": "ὕβρις",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "侮辱・乱暴",
+      "def_ja": "侮辱、乱暴な扱い。『侮辱』。",
+      "label_en": "insult, outrage",
+      "def_en": "Insult, violent treatment.",
+      "label_es": "ultraje",
+      "def_es": "Afrenta, maltrato.",
+      "label_sv": "misshandel, skymf",
+      "def_sv": "Förolämpning, våldsam behandling.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "コリント第二12:10。LXX、教父に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "損害・災難",
+      "def_ja": "損害、災難。『航海に危険と大きな損害が』『この損害と損失を免れた』。",
+      "label_en": "damage, disaster",
+      "def_en": "Damage, calamity.",
+      "label_es": "perjuicio, percance",
+      "def_es": "Daño, desgracia.",
+      "label_sv": "skada, olycka",
+      "def_sv": "Förlust, ofärd.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒27:10・27:21。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "2CO 12:10": 1,
+    "ACT 27:10": 2,
+    "ACT 27:21": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（侮辱／損害）による。"
+}

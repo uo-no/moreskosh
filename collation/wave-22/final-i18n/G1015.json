@@ -1,0 +1,30 @@
+{
+  "strong": "G1015",
+  "lemma": "βουνός",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "丘",
+      "def_ja": "丘、小山。『すべての山と丘は低くされ』『丘に向かって』。",
+      "label_en": "hill",
+      "def_en": "A hill, a mound.",
+      "label_es": "collado",
+      "def_es": "Colina, loma.",
+      "label_sv": "kulle",
+      "def_sv": "Kulle, höjd.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ルカ3:5・23:30。LXX、教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "LUK 3:5": 1,
+    "LUK 23:30": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

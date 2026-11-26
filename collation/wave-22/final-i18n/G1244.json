@@ -1,0 +1,30 @@
+{
+  "strong": "G1244",
+  "lemma": "διαιρέω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "分ける",
+      "def_ja": "分ける、分配する。『分け与えられる』『財産を分けてやった』。",
+      "label_en": "to divide",
+      "def_en": "To divide, to distribute.",
+      "label_es": "repartir",
+      "def_es": "Dividir, distribuir.",
+      "label_sv": "att dela",
+      "def_sv": "Att dela upp, att fördela.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "コリント第一12:11、ルカ15:12。LXX、教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "1CO 12:11": 1,
+    "LUK 15:12": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

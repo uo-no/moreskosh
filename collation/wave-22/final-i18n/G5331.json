@@ -1,0 +1,41 @@
+{
+  "strong": "G5331",
+  "lemma": "φάρμακον",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "薬・魔術に用いる薬",
+      "def_ja": "薬、魔術に用いる薬。『魔術』（黙示録9:21）。ガラテヤ5:20・黙示録18:23 の φαρμακεία は別レンマの疑いがあり未割当て。",
+      "label_en": "drug, sorcery",
+      "def_en": "A drug, especially one used in magic.",
+      "label_es": "hechicería, droga",
+      "def_es": "Droga, la usada en artes mágicas.",
+      "label_sv": "trolldom, trolldryck",
+      "def_sv": "Drog, brygd som används i magi.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "黙示録9:21。LXX、教父に並行。"
+    }
+  ],
+  "assignments": {
+    "REV 9:21": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。",
+  "excluded": [
+    {
+      "ref": "GAL 5:20",
+      "form": "φαρμακεία",
+      "reason": "lemma はデータの lemma 欄でも φαρμακεία で別語。φαρμακεία は別項目として本帯の後続ウェーブで扱う。"
+    },
+    {
+      "ref": "REV 18:23",
+      "form": "φαρμακείᾳ",
+      "reason": "lemma はデータの lemma 欄でも φαρμακεία で別語。φαρμακεία は別項目として本帯の後続ウェーブで扱う。"
+    }
+  ]
+}

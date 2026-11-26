@@ -1,0 +1,30 @@
+{
+  "strong": "G1010",
+  "lemma": "βουλευτής",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "議員",
+      "def_ja": "議員、議会の一員。『議員の一人』。",
+      "label_en": "council member",
+      "def_en": "A councillor, a member of a council.",
+      "label_es": "miembro del concejo",
+      "def_es": "Consejero, miembro del consejo.",
+      "label_sv": "rådsherre",
+      "def_sv": "Medlem av rådet.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ23:50、マルコ15:43。LXX に並行。教父の用例なし。単一語義。"
+    }
+  ],
+  "assignments": {
+    "LUK 23:50": 1,
+    "MRK 15:43": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

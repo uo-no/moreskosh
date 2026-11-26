@@ -1,0 +1,30 @@
+{
+  "strong": "G1005",
+  "lemma": "βορρᾶς",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "北",
+      "def_ja": "北、北方。『北から』『北に三つの門』。",
+      "label_en": "north",
+      "def_en": "The north.",
+      "label_es": "norte",
+      "def_es": "El norte.",
+      "label_sv": "norr",
+      "def_sv": "Norr, norra väderstrecket.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ13:29、黙示録21:13。LXX に並行。教父の用例なし。単一語義。"
+    }
+  ],
+  "assignments": {
+    "LUK 13:29": 1,
+    "REV 21:13": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

@@ -1,0 +1,36 @@
+{
+  "strong": "G1530",
+  "lemma": "εἰσπηδάω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "駆け込む",
+      "def_ja": "飛び込む、駆け込む。『飛び込み』。使徒14:14 の語形 ἐξεπήδησαν は ἐκπηδάω の語形で別レンマの疑いがある。",
+      "label_en": "to rush in",
+      "def_en": "To leap in, to rush in.",
+      "label_es": "precipitarse dentro",
+      "def_es": "Saltar o entrar corriendo.",
+      "label_sv": "att rusa in",
+      "def_sv": "Att störta in, att springa in.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒16:29。LXX に並行。教父の用例なし。"
+    }
+  ],
+  "assignments": {
+    "ACT 16:29": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。",
+  "excluded": [
+    {
+      "ref": "ACT 14:14",
+      "form": "ἐξεπήδησαν",
+      "reason": "形 ἐξεπήδησαν の lemma はデータの lemma 欄でも ἐκπηδάω で別語。"
+    }
+  ]
+}

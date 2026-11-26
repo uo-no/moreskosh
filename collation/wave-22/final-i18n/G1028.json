@@ -1,0 +1,30 @@
+{
+  "strong": "G1028",
+  "lemma": "βροχή",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "雨",
+      "def_ja": "雨、大雨。『雨が降り』（2回）。",
+      "label_en": "rain",
+      "def_en": "Rain, a downpour.",
+      "label_es": "lluvia",
+      "def_es": "Lluvia, aguacero.",
+      "label_sv": "regn",
+      "def_sv": "Regn, störtregn.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "マタイ7:25・7:27。LXX に並行。教父の用例なし。単一語義。"
+    }
+  ],
+  "assignments": {
+    "MAT 7:25": 1,
+    "MAT 7:27": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

@@ -1,0 +1,48 @@
+{
+  "strong": "G525",
+  "lemma": "ἀπαλλάσσω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "解放する・免れる",
+      "def_ja": "解き放つ、免れる。『彼らを解放し』『彼との関係を清算し』。",
+      "label_en": "to set free, to settle with",
+      "def_en": "To release, to be quit of.",
+      "label_es": "librar, librarse",
+      "def_es": "Soltar, quedar libre de.",
+      "label_sv": "att befria, att göra upp",
+      "def_sv": "Att frigöra, att bli fri från.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヘブル2:15、ルカ12:58。LXX に並行。教父の代表例では確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "去る",
+      "def_ja": "去る、離れる。『病気が離れ去り』。",
+      "label_en": "to leave, to depart",
+      "def_en": "To go away, to leave.",
+      "label_es": "irse",
+      "def_es": "Marcharse, apartarse.",
+      "label_sv": "att vika",
+      "def_sv": "Att gå bort, att lämna.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒19:12。LXX、教父に並行。"
+    }
+  ],
+  "assignments": {
+    "ACT 19:12": 2,
+    "HEB 2:15": 1,
+    "LUK 12:58": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（解放する／去る）による。"
+}

@@ -1,0 +1,30 @@
+{
+  "strong": "G1202",
+  "lemma": "δεσμώτης",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "囚人",
+      "def_ja": "囚人、縛られた者。『ほかの囚人たち』『囚人を殺そうと』。",
+      "label_en": "prisoner",
+      "def_en": "A prisoner, one in bonds.",
+      "label_es": "preso",
+      "def_es": "Prisionero, el que está atado.",
+      "label_sv": "fånge",
+      "def_sv": "Fånge, en som är i bojor.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒27:1・27:42。LXX に並行。教父の用例なし。単一語義。"
+    }
+  ],
+  "assignments": {
+    "ACT 27:1": 1,
+    "ACT 27:42": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

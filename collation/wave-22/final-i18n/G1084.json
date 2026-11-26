@@ -1,0 +1,30 @@
+{
+  "strong": "G1084",
+  "lemma": "γεννητός",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "生まれた者",
+      "def_ja": "生まれた者、人から生まれた者。『女から生まれた者のうち』。",
+      "label_en": "one born",
+      "def_en": "One who is born, born of a human.",
+      "label_es": "nacido",
+      "def_es": "El nacido, el nacido de ser humano.",
+      "label_sv": "född",
+      "def_sv": "En som är född, född av människa.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ルカ7:28、マタイ11:11。LXX、教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "LUK 7:28": 1,
+    "MAT 11:11": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

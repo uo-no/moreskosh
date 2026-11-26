@@ -1,0 +1,48 @@
+{
+  "strong": "G4729",
+  "lemma": "στενοχωρέομαι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "狭められる",
+      "def_ja": "狭められる、窮屈にされる。『あなたがたの心の中で狭められている』。",
+      "label_en": "to be restricted",
+      "def_en": "To be narrowed, to be cramped.",
+      "label_es": "estar estrechado",
+      "def_es": "Estar estrecho, sin holgura.",
+      "label_sv": "att ha det trångt",
+      "def_sv": "Att vara inskränkt, att få trångt utrymme.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "コリント第二6:12（2回）。LXX・教父の代表例では確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "圧迫される",
+      "def_ja": "追い詰められる、苦しめられる。『四方から患難を受けても窮しない』。",
+      "label_en": "to be hard pressed",
+      "def_en": "To be driven into straits, to be distressed.",
+      "label_es": "estar angustiado",
+      "def_es": "Verse acorralado, ser oprimido.",
+      "label_sv": "att vara trängd",
+      "def_sv": "Att bli ansatt, att vara i trångmål.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "コリント第二4:8。LXX、教父に並行。"
+    }
+  ],
+  "assignments": {
+    "2CO 6:12#1": 1,
+    "2CO 6:12#2": 1,
+    "2CO 4:8": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（狭められる／圧迫される）による。"
+}

@@ -1,0 +1,30 @@
+{
+  "strong": "G1462",
+  "lemma": "ἔγκλημα",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "訴え",
+      "def_ja": "訴え、告発。『訴えられている点』『訴えの内容』。",
+      "label_en": "charge, accusation",
+      "def_en": "A charge, an accusation.",
+      "label_es": "acusación",
+      "def_es": "Cargo, denuncia.",
+      "label_sv": "anklagelse",
+      "def_sv": "Klagomål, anklagelse.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "使徒23:29・25:16。LXX の用例なし。教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "ACT 23:29": 1,
+    "ACT 25:16": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

@@ -1,0 +1,48 @@
+{
+  "strong": "G4879",
+  "lemma": "συναπάγομαι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "引き込まれる・連れ去られる",
+      "def_ja": "共に連れ去られる、引き込まれる。『惑わしに引き込まれ』『彼らの偽善に引き込まれた』。",
+      "label_en": "to be carried away",
+      "def_en": "To be led away together, to be drawn in.",
+      "label_es": "ser arrastrado",
+      "def_es": "Ser llevado con otros, dejarse arrastrar.",
+      "label_sv": "att dras med",
+      "def_sv": "Att ryckas med, att dras in.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ペテロ第二3:17、ガラテヤ2:13。LXX に並行（共に連れて行く）。教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "身を合わせる",
+      "def_ja": "共に導かれる、身を合わせる。ローマ12:16 を『身分の低い人々と交わる』と読むか『卑しいことに順応する』と読むかは決定しない。",
+      "label_en": "to associate oneself",
+      "def_en": "To be led along with, to adapt oneself to.",
+      "label_es": "acomodarse",
+      "def_es": "Dejarse llevar junto con, adaptarse.",
+      "label_sv": "att hålla sig till",
+      "def_sv": "Att dras till, att rätta sig efter.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ローマ12:16。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "2PE 3:17": 1,
+    "GAL 2:13": 1,
+    "ROM 12:16": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。ローマ12:16 の読みは決定しない。"
+}
