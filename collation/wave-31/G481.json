@@ -1,0 +1,41 @@
+{
+ "strong": "G481",
+ "lemma": "ἄντικρυς",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 20:15",
+   "form": "ἄντικρυς",
+   "morph": "ADV",
+   "gloss_en": "opposite",
+   "gloss_ja": "向かい側に",
+   "verse": "κἀκεῖθεν ἀποπλεύσαντες τῇ ἐπιούσῃ κατηντήσαμεν ἄντικρυς Χίου, τῇ δὲ ἑτέρᾳ παρεβάλομεν εἰς Σάμον, τῇ δὲ ἐχομένῃ ἤλθομεν εἰς Μίλητον·"
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Machabaeorum iii": 1
+  },
+  "representatives": [
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "5.16",
+    "form": "ἄντικρυς",
+    "postag": "d--------",
+    "sentence": "ὃν ὁ βασιλεὺς λογισάμενος καὶ τραπεὶς εἰς τὸν πότον, ἐκέλευσε τοὺς παραγεγονότας εἰς τὴν συμποσίαν ἄντικρυς ἀνακλιθῆναι αὐτοῦ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ** ἄντικρυς    (Tr. -ύς, Rec. ἀντικρύ), adv. (< ἀντί),   [in LXX: Ne 12:8 (לְנֶגֶד), III Mac 5:16*;]    in cl., outright; in κοινή (= cl. καταντικρύ), over against: Ac 20:15 (v. Bl., § 5, 4; 40, 7; Rutherford, NPhr., 500 f.; MM, VGT, s.v.).†"
+}

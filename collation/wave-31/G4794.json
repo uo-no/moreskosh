@@ -1,0 +1,60 @@
+{
+ "strong": "G4794",
+ "lemma": "συγκύπτω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 13:11",
+   "form": "συγκύπτουσα",
+   "morph": "V-PAP-NSF",
+   "gloss_en": "bent over",
+   "gloss_ja": "腰が曲がる",
+   "verse": "καὶ ἰδοὺ γυνὴ πνεῦμα ἔχουσα ἀσθενείας ἔτη δεκαοκτώ, καὶ ἦν συγκύπτουσα καὶ μὴ δυναμένη ἀνακύψαι εἰς τὸ παντελές."
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Job": 1,
+   "Ecclesiasticus sive Siracides": 2
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "19.26",
+    "form": "συγκεκυφὼς",
+    "postag": "v-srpamn-",
+    "sentence": "ἔστι πονηρευόμενος συγκεκυφὼς μελανίᾳ, καὶ τὰ ἐντὸς αὐτοῦ πλήρης δόλου ·"
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "9.27",
+    "form": "συγκύψας",
+    "postag": "v-sapamn-",
+    "sentence": "ἐάν τε γὰρ εἴπω, ἐπιλήσομαι λαλῶν, συγκύψας τῷ προσώπῳ στενάξω."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "12.11",
+    "form": "συγκεκυφώς",
+    "postag": "v-srpamn-",
+    "sentence": "καὶ ἐὰν ταπεινωθῇ καὶ πορεύηται συγκεκυφώς, ἐπίστησον τὴν ψυχήν σου καὶ φύλαξαι ἀπ’ αὐτοῦ καὶ ἔσῃ αὐτῷ ὡς ἐκμεμαχὼς ἔσοπτρον, καὶ γνώσῃ ὅτι οὐκ εἰς τέλος κατίωσε."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1 συν-κύπτω    (Rec. συγκ-),    [in LXX: Jb 9:27 (עזב), Si 12:11 19:26 * ;]     to bend forwards (Arist., al.).    to be bowed down: Lk 13:11.†"
+}

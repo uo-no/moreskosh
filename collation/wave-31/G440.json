@@ -1,0 +1,150 @@
+{
+ "strong": "G440",
+ "lemma": "ἄνθραξ",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ROM 12:20",
+   "form": "ἄνθρακας",
+   "morph": "N-APM",
+   "gloss_en": "coals",
+   "gloss_ja": "炭",
+   "verse": "ἀλλὰ ἐὰν πεινᾷ ὁ ἐχθρός σου, ψώμιζε αὐτόν· ἐὰν διψᾷ, πότιζε αὐτόν· τοῦτο γὰρ ποιῶν ἄνθρακας πυρὸς σωρεύσεις ἐπὶ τὴν κεφαλὴν αὐτοῦ."
+  }
+ ],
+ "lxx": {
+  "total": 31,
+  "works": {
+   "Genesis": 1,
+   "Exodus": 2,
+   "Leviticus": 1,
+   "Regnorum ii": 3,
+   "Tobias": 2,
+   "Psalmi": 4,
+   "Proverbia": 3,
+   "Job": 2,
+   "Ecclesiasticus sive Siracides": 2,
+   "Isaias": 6,
+   "Ezechiel": 5
+  },
+  "representatives": [
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "47.14",
+    "form": "ἄνθρακας",
+    "postag": "n-p---ma-",
+    "sentence": "ὅτι ἔχεις ἄνθρακας πυρός, κάθισαι ἐπ’ αὐτούς."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "10.9",
+    "form": "ἄνθρακος",
+    "postag": "n-s---mg-",
+    "sentence": "καὶ εἶδον καὶ ἰδοὺ τροχοὶ τέσσαρες εἱστήκεισαν ἐχόμενοι τῶν Χερουβίμ, τροχὸς εἷς ἐχόμενος Χερουβὶμ ἑνός, καὶ ἡ ὄψις τῶν τροχῶν ὡς ὄψις λίθου ἄνθρακος."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "119.4",
+    "form": "ἄνθραξι",
+    "postag": "n-p---md-",
+    "sentence": "τὰ βέλη τοῦ δυνατοῦ ἠκονημένα, σὺν τοῖς ἄνθραξι τοῖς ἐρημικοῖς."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "22.13",
+    "form": "ἄνθρακες",
+    "postag": "n-p---mn-",
+    "sentence": "ἀπὸ τοῦ φέγγους ἐναντίον αὐτοῦ ἐξεκαύθησαν ἄνθρακες πυρός."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "6.28",
+    "form": "ἀνθράκων",
+    "postag": "n-p---mg-",
+    "sentence": "ἢ περιπατήσει τις ἐπ’ ἀνθράκων πυρός, τοὺς δὲ πόδας οὐ κατακαύσει;"
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "28.18",
+    "form": "ἄνθραξ",
+    "postag": "n-s---mn-",
+    "sentence": "καὶ ὁ στίχος ὁ δεύτερος, ἄνθραξ καὶ σάπφειρος καὶ ἴασπις ·"
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "13.17",
+    "form": "ἄνθρακι",
+    "postag": "n-s---md-",
+    "sentence": "αἱ πλατεῖαι Ιερουσαλημ ἄνθρακι ψηφολογηθήσονται καὶ λίθῳ Σουφιρ."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "41.13",
+    "form": "ἄνθρακες",
+    "postag": "n-p---mn-",
+    "sentence": "ἡ ψυχὴ αὐτοῦ ἄνθρακες, φλὸξ δὲ ἐκ στόματος αὐτοῦ ἐκπορεύεται."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "8.10",
+    "form": "ἄνθρακας",
+    "postag": "n-p---ma-",
+    "sentence": "μὴ ἔκκαιε ἄνθρακας ἁμαρτωλοῦ, μὴ ἐμπυρισθῇς ἐν πυρὶ φλογὸς αὐτοῦ."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "2.12",
+    "form": "ἄνθραξ",
+    "postag": "n-s---mn-",
+    "sentence": "καὶ ἐκεῖ ἐστιν ὁ ἄνθραξ καὶ ὁ λίθος ὁ πράσινος."
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "16.12",
+    "form": "ἀνθράκων",
+    "postag": "n-p---mg-",
+    "sentence": "καὶ λήψεται τὸ πυρεῖον πλῆρες ἀνθράκων πυρὸς ἀπὸ τοῦ θυσιαστηρίου, τοῦ ἀπέναντι Κυρίου, καὶ πλήσει τὰς χεῖρας θυμιάματος συνθέσεως λεπτῆς καὶ εἰσοίσει ἐσώτερον τοῦ καταπετάσματος."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "6.6",
+    "form": "ἄνθρακα",
+    "postag": "n-s---ma-",
+    "sentence": "καὶ ἀπεστάλη πρός με ἓν τῶν Σεραφίμ, καὶ ἐν τῇ χειρὶ εἶχεν ἄνθρακα, ὃν τῇ λαβίδι ἔλαβεν ἀπὸ τοῦ θυσιαστηρίου, καὶ ἥψατο τοῦ στόματός μου καὶ εἶπεν ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ἄνθραξ, -ακος, ὁ,    [in LXX chiefly for גַּחֶלֶת;]    coal, charcoal: . ἄ. πυρός, a burning coal, Ro 12:20.†"
+}

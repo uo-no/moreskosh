@@ -1,0 +1,164 @@
+{
+ "strong": "G4585",
+ "lemma": "σεμίδαλις",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "REV 18:13",
+   "form": "σεμίδαλιν",
+   "morph": "N-ASF",
+   "gloss_en": "fine flour",
+   "gloss_ja": "上等の小麦粉",
+   "verse": "καὶ κιννάμωμον καὶ ἄμωμον καὶ θυμιάματα καὶ μύρον καὶ λίβανον καὶ οἶνον καὶ ἔλαιον καὶ σεμίδαλιν καὶ σῖτον καὶ κτήνη καὶ πρόβατα, καὶ ἵππων καὶ ῥεδῶν καὶ σωμάτων, καὶ ψυχὰς ἀνθρώπων."
+  }
+ ],
+ "lxx": {
+  "total": 66,
+  "works": {
+   "Genesis": 1,
+   "Exodus": 2,
+   "Leviticus": 17,
+   "Numeri": 27,
+   "Regnorum i": 1,
+   "Regnorum iii": 2,
+   "Regnorum iv": 3,
+   "Paralipomenon i sive Chronicon i": 2,
+   "Machabaeorum ii": 1,
+   "Ecclesiasticus sive Siracides": 3,
+   "Isaias": 2,
+   "Ezechiel": 3,
+   "Bel et Draco": 2
+  },
+  "representatives": [
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "28.5",
+    "form": "σεμίδαλιν",
+    "postag": "n-s---fa-",
+    "sentence": "καὶ ποιήσεις τὸ δέκατον τοῦ οἰφὶ σεμίδαλιν εἰς θυσίαν ἀναπεποιημένην ἐν ἐλαίῳ ἐν τετάρτῳ τοῦ ἴν."
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "5.13",
+    "form": "σεμιδάλεως",
+    "postag": "n-s---fg-",
+    "sentence": "τὸ δὲ καταλειφθὲν ἔσται τῷ ἱερεῖ, ὡς ἡ θυσία τῆς σεμιδάλεως."
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "7.1",
+    "form": "σεμιδάλεως",
+    "postag": "n-s---fg-",
+    "sentence": "ὡς ἡ ὥρα αὕτη αὔριον μέτρον σεμιδάλεως σίκλου καὶ δίμετρον κριθῶν σίκλου ἐν ταῖς πύλαις Σαμαρείας."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "39.26",
+    "form": "σεμίδαλις",
+    "postag": "n-s---fn-",
+    "sentence": "ἀρχὴ πάσης χρείας εἰς ζωὴν ἀνθρώπου, ὕδωρ, πῦρ, καὶ σίδηρος καὶ ἅλας καὶ σεμίδαλις πυροῦ καὶ μέλι καὶ γάλα, αἷμα σταφυλῆς καὶ ἔλαιον καὶ ἱμάτιον."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "16.13",
+    "form": "σεμίδαλιν",
+    "postag": "n-s---fa-",
+    "sentence": "σεμίδαλιν καὶ ἔλαιον καὶ μέλι ἔφαγες καὶ ἐγένου καλή σφόδρα."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "29.2",
+    "form": "σεμίδαλιν",
+    "postag": "n-s---fa-",
+    "sentence": "σεμίδαλιν ἐκ πυρῶν ποιήσεις αὐτά."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "5.2",
+    "form": "σεμιδάλεως",
+    "postag": "n-s---fg-",
+    "sentence": "τριάκοντα κόροι σεμιδάλεως καὶ ἑξήκοντα κόροι ἀλεύρου κεκοπανισμένου."
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "9.29",
+    "form": "σεμιδάλεως",
+    "postag": "n-s---fg-",
+    "sentence": "καὶ ἐξ αὐτῶν καθεσταμένοι ἐπὶ τὰ σκεύη καὶ ἐπὶ πάντα σκεύη τὰ ἅγια καὶ ἐπὶ τῆς σεμιδάλεως, τοῦ οἴνου, τοῦ ἐλαίου, τοῦ λιβανωτοῦ καὶ τῶν ἀρωμάτων."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "1.13",
+    "form": "σεμίδαλιν",
+    "postag": "n-s---fa-",
+    "sentence": "ἐὰν φέρητε σεμίδαλιν, μάταιον ·"
+   },
+   {
+    "work_code": "BEL",
+    "work_ja": "ベルと竜（Th）",
+    "work_src": "Bel et Draco",
+    "ref": "3",
+    "form": "σεμιδάλεως",
+    "postag": "n-s---fg-",
+    "sentence": "ἀνηλίσκετο δὲ αὐτῷ καθ’ ἑκάστην ἡμέραν σεμιδάλεως ἀρτάβαι δέκα δύο καὶ πρόβατα τέσσαρα καὶ ἐλαίου μετρηταὶ ἕξ."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "18.6",
+    "form": "σεμιδάλεως",
+    "postag": "n-s---fg-",
+    "sentence": "σπεῦσον καὶ φύρασον τρία μέτρα σεμιδάλεως καὶ ποίησον ἐγκρυφίας."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "1.24",
+    "form": "σεμιδάλεως",
+    "postag": "n-s---fg-",
+    "sentence": "καὶ ἀνέβη μετ’ αὐτοῦ εἰς Σηλὼμ ἐν μόσχῳ τριετίζοντι καὶ ἄρτοις καὶ οἰφὶ σεμιδάλεως καὶ νέβελ οἴνου καὶ εἰσῆλθεν εἰς οἶκον Κυρίου ἐν Σηλώμ, καὶ τὸ παιδάριον μετ’ αὐτῶν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Barnabas": 1
+  },
+  "representatives": [
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "2.5",
+    "form": "σεμίδαλιν",
+    "postag": "n-s---fa-",
+    "sentence": "ἐὰν φέρητε σεμίδαλιν, μάταιον ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   σεμίδαλις, -εως, ἡ     [in LXX chiefly for סֹלֶת ;]     fine wheaten flour: Re 18:13.†"
+}

@@ -1,0 +1,51 @@
+{
+ "strong": "G4315",
+ "lemma": "προσάββατον",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MRK 15:42",
+   "form": "προσάββατον",
+   "morph": "N-NSN",
+   "gloss_en": "the day before the sabbath",
+   "gloss_ja": "安息日の前日",
+   "verse": "Καὶ ἤδη ὀψίας γενομένης, ἐπεὶ ἦν παρασκευή, ὅ ἐστιν προσάββατον,"
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Judith": 1,
+   "Psalmi": 1
+  },
+  "representatives": [
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "8.6",
+    "form": "προσαββάτων",
+    "postag": "n-p---ng-",
+    "sentence": "καὶ ἐνήστευε πάσας τὰς ἡμέρας χηρεύσεως αὐτῆς, χωρὶς προσαββάτων καὶ σαββάτων καὶ προνουμηνιῶν καὶ νουμηνιῶν καὶ ἑορτῶν καὶ χαρμοσυνῶν οἴκου Ἰσραήλ."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "92.1",
+    "form": "προσαββάτου",
+    "postag": "n-s---ng-",
+    "sentence": "εἰς τὴν ἡμέραν τοῦ προσαββάτου, ὅτε κατῴκισται ἡ γῆ ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   † προ-σάββατον, -ου, τό,    [in LXX: Ps 91 (92) tit., א (שַׁבָּת) Ps 92 (93) tit., Jth 8:6*;]    the day before the Sabbath: Mk 15:42 (L, Tr., txt., πρὸς σ.).†"
+}

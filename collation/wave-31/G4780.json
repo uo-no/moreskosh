@@ -1,0 +1,150 @@
+{
+ "strong": "G4780",
+ "lemma": "συγκαλύπτω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 12:2",
+   "form": "συγκεκαλυμμένον",
+   "morph": "V-RPP-NSN",
+   "gloss_en": "covered up",
+   "gloss_ja": "完全に覆う",
+   "verse": "οὐδὲν δὲ συγκεκαλυμμένον ἐστὶν ὃ οὐκ ἀποκαλυφθήσεται, καὶ κρυπτὸν ὃ οὐ γνωσθήσεται."
+  }
+ ],
+ "lxx": {
+  "total": 17,
+  "works": {
+   "Genesis": 1,
+   "Exodus": 1,
+   "Numeri": 1,
+   "Regnorum i": 1,
+   "Regnorum iii": 3,
+   "Paralipomenon ii sive Chronicon ii": 4,
+   "Psalmi": 1,
+   "Job": 1,
+   "Ecclesiasticus sive Siracides": 1,
+   "Ezechiel": 2,
+   "Susanna": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "18.29",
+    "form": "συνεκαλύψατο",
+    "postag": "v3saim---",
+    "sentence": "καὶ συνεκαλύψατο βασιλεὺς Ἰσραὴλ καὶ εἰσῆλθεν εἰς τὸν πόλεμον."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "22.30",
+    "form": "συγκαλύψομαι",
+    "postag": "v1sfim---",
+    "sentence": "συγκαλύψομαι καὶ εἰσελεύσομαι εἰς τὸν πόλεμον, καὶ σὺ ἔνδυσαι τὸν ἱματισμόν μου ·"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "12.12",
+    "form": "συγκαλύψει",
+    "postag": "v3sfia---",
+    "sentence": "τὸ πρόσωπον αὐτοῦ συγκαλύψει, ὅπως μὴ ὁραθῇ ὀφθαλμῷ, καὶ αὐτὸς τὴν γῆν οὐκ ὄψεται."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "9.23",
+    "form": "συνεκάλυψαν",
+    "postag": "v3paia---",
+    "sentence": "καὶ λαβόντες Σὴμ καὶ Ἰάφεθ τὸ ἱμάτιον ἐπέθεντο ἐπὶ τὰ δύο νῶτα αὐτῶν καὶ ἐπορεύθησαν ὀπισθοφανῶς καὶ συνεκάλυψαν τὴν γύμνωσιν τοῦ πατρὸς αὐτῶν, καὶ τὸ πρόσωπον αὐτῶν ὀπισθοφανές, καὶ τὴν γύμνωσιν τοῦ πατρὸς αὐτῶν οὐκ εἶδον."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "26.13",
+    "form": "συγκαλύπτον",
+    "postag": "v-sppann-",
+    "sentence": "πῆχυν ἐκ τούτου, καὶ πῆχυν ἐκ τούτου, ἐκ τοῦ ὑπερέχοντος τῶν δέρρεων, ἐκ τοῦ μήκους τῶν δέρρεων τῆς σκηνῆς, ἔσται συγκαλύπτον ἐπὶ τὰ πλάγια τῆς σκηνῆς ἔνθεν καὶ ἔνθεν, ἵνα καλύπτῃ."
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "4.14",
+    "form": "συγκαλύψουσι",
+    "postag": "v3pfia---",
+    "sentence": "καὶ λήψονται ἱμάτιον πορφυροῦν καὶ συγκαλύψουσι τὸν λουτῆρα καὶ τὴν βάσιν αὐτοῦ καὶ ἐμβαλοῦσιν αὐτὰ εἰς κάλυμμα δερμάτινον ὑακίνθινον καὶ ἐπιθήσουσιν ἐπὶ ἀναφορεῖς."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "28.8",
+    "form": "συνεκαλύψατο",
+    "postag": "v3saim---",
+    "sentence": "καὶ συνεκαλύψατο Σαοὺλ καὶ περιεβάλετο ἱμάτια ἕτερα καὶ πορεύεται αὐτὸς καὶ δύο ἄνδρες μετ’ αὐτοῦ καὶ ἔρχονται πρὸς τὴν γυναῖκα νυκτὸς καὶ εἶπεν αὐτῇ ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "68.11",
+    "form": "συνεκάλυψα",
+    "postag": "v1saia---",
+    "sentence": "καὶ συνεκάλυψα ἐν νηστείᾳ τὴν ψυχήν μου, καὶ ἐγενήθη εἰς ὀνειδισμοὺς ἐμοί ·"
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "9.24",
+    "form": "συγκαλύπτει",
+    "postag": "v3spia---",
+    "sentence": "πρόσωπα κριτῶν αὐτῆς συγκαλύπτει ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "26.8",
+    "form": "συγκαλύψει",
+    "postag": "v3sfia---",
+    "sentence": "ὀργὴ μεγάλη γυνὴ μέθυσος καὶ ἀσχημοσύνην αὐτῆς οὐ συγκαλύψει."
+   },
+   {
+    "work_code": "SUS",
+    "work_ja": "スザンナ（Th）",
+    "work_src": "Susanna",
+    "ref": "39",
+    "form": "συγκεκαλυμμένος",
+    "postag": "v-srpmmn-",
+    "sentence": "καὶ προσελθόντες ἐπέγνωμεν αὐτήν, ὁ δὲ νεανίσκος ἔφυγε συγκεκαλυμμένος, ταύτης δὲ ἐπιλαβόμενοι ἐπηρωτῶμεν αὐτήν Τίς ὁ ἄνθρωπος;"
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "5.8",
+    "form": "συνεκάλυπτε",
+    "postag": "v3siia---",
+    "sentence": "καὶ ἦν τὰ Χερουβὶμ διαπεπετακότα τὰς πτέρυγας αὐτῶν ἐπὶ τὸν τόπον τῆς κιβωτοῦ, καὶ συνεκάλυπτε τὰ Χερουβὶμ ἐπὶ τὴν κιβωτὸν καὶ ἐπὶ τοὺς ἀναφορεῖς αὐτῆς ἐπάνωθεν ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1 συν-καλύπτω    (Rec. συγκ-),    [in LXX chiefly for כּסה pi. ;]     to veil or cover completely: c. acc., pass., Lk 12:2.†"
+}

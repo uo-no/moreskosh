@@ -1,0 +1,41 @@
+{
+ "strong": "G4827",
+ "lemma": "συμμαθητής",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JHN 11:16",
+   "form": "συμμαθηταῖς",
+   "morph": "N-DPM",
+   "gloss_en": "fellow disciples",
+   "gloss_ja": "同じ弟子",
+   "verse": "εἶπεν οὖν Θωμᾶς ὁ λεγόμενος Δίδυμος τοῖς συμμαθηταῖς· Ἄγωμεν καὶ ἡμεῖς ἵνα ἀποθάνωμεν μετ’ αὐτοῦ."
+  }
+ ],
+ "lxx": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Martyrdom of Polycarp": 1
+  },
+  "representatives": [
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "17.3",
+    "form": "συμμαθητὰς",
+    "postag": "n-p---ma-",
+    "sentence": "ὧν γένοιτο καὶ ἡμᾶς κοινωνούς τε καὶ συμμαθητὰς γενέσθαι."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1 * συν-μαθητής (Rec. συμμ-), -οῦ, ὁ    a fellow-disciple: Jo 11:16 (on the use of συν- in such compounds as this, v. Rutherford, NPhr., 255 f.).†"
+}

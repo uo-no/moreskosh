@@ -1,0 +1,51 @@
+{
+ "strong": "G4743",
+ "lemma": "στιγμή",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 4:5",
+   "form": "στιγμῇ",
+   "morph": "N-DSF",
+   "gloss_en": "moment",
+   "gloss_ja": "瞬間",
+   "verse": "Καὶ ἀναγαγὼν αὐτὸν ἔδειξεν αὐτῷ πάσας τὰς βασιλείας τῆς οἰκουμένης ἐν στιγμῇ χρόνου·"
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Machabaeorum ii": 1,
+   "Isaias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "9.11",
+    "form": "στιγμὴν",
+    "postag": "n-s---fa-",
+    "sentence": "ἐνταῦθα οὖν ἤρξατο τὸ πολὺ τῆς ὑπερηφανίας λήγειν ὑποτεθραυσμένος καὶ εἰς ἐπίγνωσιν ἔρχεσθαι θείᾳ μάστιγι κατὰ στιγμὴν ἐπιτεινόμενος ταῖς ἀλγηδόσι."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "29.5",
+    "form": "στιγμὴ",
+    "postag": "n-s---fn-",
+    "sentence": "καὶ ἔσται ὡς κονιορτὸς ἀπὸ τροχοῦ ὁ πλοῦτος τῶν ἀσεβῶν καὶ ὡς χνοῦς φερόμενος τὸ πλῆθος τῶν καταδυναστευόντων σε, καὶ ἔσται ὡς στιγμὴ παραχρῆμα παρὰ Κυρίου σαβαώθ ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1 στιγμή, -ῆς, ἡ    (< στίζω, to prick),    [in LXX: Is 29:5 (פֶּתַע), II Mac 9:11 * ;]     a prick, a point; metaph., σ. χρόνου, a moment: Lk 4:5.†"
+}

@@ -1,0 +1,80 @@
+{
+ "strong": "G4418",
+ "lemma": "πτέρνα",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JHN 13:18",
+   "form": "πτέρναν",
+   "morph": "N-ASF",
+   "gloss_en": "heel",
+   "gloss_ja": "かかと",
+   "verse": "οὐ περὶ πάντων ὑμῶν λέγω· ἐγὼ οἶδα τίνας ἐξελεξάμην· ἀλλ’ ἵνα ἡ γραφὴ πληρωθῇ· Ὁ τρώγων μου τὸν ἄρτον ἐπῆρεν ἐπ’ ἐμὲ τὴν πτέρναν αὐτοῦ."
+  }
+ ],
+ "lxx": {
+  "total": 5,
+  "works": {
+   "Genesis": 1,
+   "Judices": 1,
+   "Psalmi": 2,
+   "Ecclesiasticus sive Siracides": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "48.6",
+    "form": "πτέρνης",
+    "postag": "n-s---fg-",
+    "sentence": "ἡ ἀνομία τῆς πτέρνης μου κυκλώσει με."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "49.17",
+    "form": "πτέρναν",
+    "postag": "n-s---fa-",
+    "sentence": "καὶ γενηθήτω Δὰν ὄφις ἐφ’ ὁδοῦ, ἐγκαθήμενος ἐπὶ τρίβου, δάκνων πτέρναν ἵππου, καὶ πεσεῖται ὁ ἱππεὺς εἰς τὰ ὀπίσω, τὴν σωτηρίαν περιμένων Κυρίου."
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "5.22",
+    "form": "πτέρναι",
+    "postag": "n-p---fn-",
+    "sentence": "ὅτε ἐνεποδίσθησαν πτέρναι ἵππου, σπουδῇ ἔσπευσαν ἰσχυροὶ αὐτοῦ."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "12.17",
+    "form": "πτέρναν",
+    "postag": "n-s---fa-",
+    "sentence": "κακὰ ἂν ὑπαντήσῃ σοι, εὑρήσεις αὐτὸν ἐκεῖ πρότερόν σου, καὶ ὡς βοηθῶν ὑποσχάσει πτέρναν σου ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "55.7",
+    "form": "πτέρναν",
+    "postag": "n-s---fa-",
+    "sentence": "αὐτοὶ τὴν πτέρναν μου φυλάξουσι, καθάπερ ὑπέμειναν τῇ ψυχῇ μου."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   πτέρνα, -ης, ἡ,    [in LXX for עָקֵב;]    the heel: fig., ἐπαίρειν τὴν π. ἐπί, Jo 13:18(LXX).†"
+}

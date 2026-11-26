@@ -1,0 +1,53 @@
+{
+ "strong": "G4593",
+ "lemma": "σημειόομαι",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": "σημειοω",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2TH 3:14",
+   "form": "σημειοῦσθε",
+   "morph": "V-PMM-2P",
+   "gloss_en": "take note of",
+   "gloss_ja": "注目する",
+   "verse": "Εἰ δέ τις οὐχ ὑπακούει τῷ λόγῳ ἡμῶν διὰ τῆς ἐπιστολῆς, τοῦτον σημειοῦσθε, μὴ συναναμίγνυσθαι αὐτῷ, ἵνα ἐντραπῇ·"
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Psalmi": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "4.7",
+    "form": "ἐσημειώθη",
+    "postag": "v3saip---",
+    "sentence": "ἐσημειώθη ἐφ’ ἡμᾶς τὸ φῶς τοῦ προσώπου σου, Κύριε."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "1 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "43.1",
+    "form": "ἐσημειώσατο",
+    "postag": "v3saim---",
+    "sentence": "ὅπου καὶ ὁ μακάριος πιστὸς θεράπων ἐν ὅλῳ τῷ οἴκῳ Μωϋσῆς τὰ διατεταγμένα αὐτῷ πάντα ἐσημειώσατο ἐν ταῖς ἱεραῖς βίβλοις, ᾧ καὶ ἐπηκολούθησαν οἱ λοιποὶ προφῆται, συνεπιμαρτυροῦντες τοῖς ὑπ’ αὐτοῦ νενομοθετημένοις."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1 σημειόω, -ῶ    (< σημεῖον),    [in LXX: Ps 4:6 (נשׂא)* ;]    to mark, note. Mid., to note for oneself: II Th 3:14 (freq. in π.; v. ICC, M, Th., in l.).†"
+}

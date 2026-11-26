@@ -1,0 +1,51 @@
+{
+ "strong": "G4701",
+ "lemma": "σπορά",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1PE 1:23",
+   "form": "σπορᾶς",
+   "morph": "N-GSF",
+   "gloss_en": "seed",
+   "gloss_ja": "種",
+   "verse": "ἀναγεγεννημένοι οὐκ ἐκ σπορᾶς φθαρτῆς ἀλλὰ ἀφθάρτου, διὰ λόγου ζῶντος θεοῦ καὶ μένοντος·"
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Regnorum iv": 1,
+   "Machabaeorum i": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "19.29",
+    "form": "σπορὰ",
+    "postag": "n-s---fn-",
+    "sentence": "καὶ ἔτει τῷ τρίτῳ σπορὰ καὶ ἄμητος καὶ φυτεία ἀμπελώνων, καὶ φάγεσθε τὸν καρπὸν αὐτῶν."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "10.30",
+    "form": "σπορᾶς",
+    "postag": "n-s---fg-",
+    "sentence": "καὶ νῦν ἀπολύω ὑμᾶς καὶ ἀφίημι πάντας τοὺς Ἰουδαίους ἀπὸ τῶν φόρων καὶ τῆς τιμῆς τοῦ ἁλὸς καὶ ἀπὸ τῶν στεφάνων, καὶ ἀντὶ τοῦ τρίτου τῆς σπορᾶς καὶ ἀντὶ τοῦ ἡμίσους τοῦ καρποῦ τοῦ ξυλίνου τοῦ ἐπιβάλλοντός μοι λαβεῖν, ἀφίημι ἀπὸ τῆς σήμερον καὶ ἐπέκεινα τοῦ λαβεῖν ἀπὸ τῆς γῆς Ἰούδα καὶ ἀπὸ τῶν τριῶν νομῶν τῶν προστιθεμένων αὐτῇ ἀπὸ τῆς Σαμαρείτιδος καὶ Γαλιλαίας, καὶ ἀπὸ τῆς σήμερον ἡμέρας καὶ εἰς τὸν αἰῶνα χρόνον."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1 σπορά, -ᾶς, ἡ    (< σπείρω),    [in LXX: IV Ki 19:29 (זרע), I Mac 10:30 * ;]    a sowing.    seedtime.    seed sown (of human offspring, Soph., Tr., 316, 420): I Pe 1:23      (cf. σπέρμα, and v. Milligan, NTD, 105 f.).†"
+}

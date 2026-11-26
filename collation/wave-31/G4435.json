@@ -1,0 +1,63 @@
+{
+ "strong": "G4435",
+ "lemma": "πυγμή",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MRK 7:3",
+   "form": "πυγμῇ",
+   "morph": "N-DSF",
+   "gloss_en": "with a fist",
+   "gloss_ja": "こぶし",
+   "verse": "οἱ γὰρ Φαρισαῖοι καὶ πάντες οἱ Ἰουδαῖοι ἐὰν μὴ πυγμῇ νίψωνται τὰς χεῖρας οὐκ ἐσθίουσιν, κρατοῦντες τὴν παράδοσιν τῶν πρεσβυτέρων,"
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Exodus": 1,
+   "Isaias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "21.18",
+    "form": "πυγμῇ",
+    "postag": "n-s---fd-",
+    "sentence": "ἐὰν δὲ λοιδορῶνται δύο ἄνδρες καὶ πατάξῃ τις τὸν πλησίον λίθῳ ἢ πυγμῇ, καὶ μὴ ἀποθάνῃ, κατακλιθῇ δὲ ἐπὶ τὴν κοίτην, ἐὰν ἐξαναστὰς ὁ ἄνθρωπος περιπατήσῃ ἔξω ἐπὶ ράβδου, ἀθῷος ἔσται ὁ πατάξας ·"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "58.4",
+    "form": "πυγμαῖς",
+    "postag": "n-p---fd-",
+    "sentence": "εἰ εἰς κρίσεις καὶ μάχας νηστεύετε καὶ τύπτετε πυγμαῖς ταπεινόν, ἱνατί μοι νηστεύετε ὡς σήμερον, ἀκουσθῆναι ἐν κραυγῇ τὴν φωνὴν ὑμῶν;"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Barnabas": 1
+  },
+  "representatives": [
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "12.2",
+    "form": "πυγμῆς",
+    "postag": "n-s---fg-",
+    "sentence": "τίθησιν οὖν Μωϋσῆς ἓν ἐφ’ ἓν ὅπλον ἐν μέσῳ τῆς πυγμῆς, καὶ ὑψηλότερος σταθεὶς πάντων ἐξέτεινεν τὰς χεῖρας, καὶ οὕτως πάλιν ἐνίκα ὁ Ἰσραήλ."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   πυγμή, -ῆς, ἡ,    [in LXX: Ex 21:18, Is 58:4 (אֶגְרוֹף)*;]    the fist: πυγμῇ νίψασθαι τ. χεῖρας (T, πυκνά; Vg., Goth., Copt., crebro), to wash the hands with the fist (diligently, R, txt.; up to the elbow, R, mg.; the exact meaning is doubtful; v. Swete, in l.): Mk 7:3.†"
+}

@@ -1,0 +1,60 @@
+{
+ "strong": "G4447",
+ "lemma": "πύρινος",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "REV 9:17",
+   "form": "πυρίνους",
+   "morph": "A-APM",
+   "gloss_en": "fiery red",
+   "gloss_ja": "火の",
+   "verse": "καὶ οὕτως εἶδον τοὺς ἵππους ἐν τῇ ὁράσει καὶ τοὺς καθημένους ἐπ’ αὐτῶν, ἔχοντας θώρακας πυρίνους καὶ ὑακινθίνους καὶ θειώδεις· καὶ αἱ κεφαλαὶ τῶν ἵππων ὡς κεφαλαὶ λεόντων, καὶ ἐκ τῶν στομάτων αὐτῶν ἐκπορεύεται πῦρ καὶ καπνὸς καὶ θεῖον."
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Ecclesiasticus sive Siracides": 1,
+   "Ezechiel": 2
+  },
+  "representatives": [
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "28.14",
+    "form": "πυρίνων",
+    "postag": "a-p---mg-",
+    "sentence": "μετὰ τοῦ Χεροὺβ ἔθηκά σε ἐν ὄρει ἁγίῳ Θεοῦ, ἐγενήθης ἐν μέσῳ λίθων πυρίνων."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "48.9",
+    "form": "πυρίνων",
+    "postag": "a-p---mg-",
+    "sentence": "ὁ ἀναληφθεὶς ἐν λαίλαπι πυρὸς ἐν ἅρματι ἵππων πυρίνων ·"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "28.16",
+    "form": "πυρίνων",
+    "postag": "a-p---mg-",
+    "sentence": "ἀπὸ πλήθους τῆς ἐμπορίας σου ἔπλησας τὰ ταμιεῖά σου ἀνομίας καὶ ἥμαρτες καὶ ἐτραυματίσθης ἀπὸ ὄρους τοῦ Θεοῦ, καὶ ἤγαγέ σε τὸ Χεροὺβ ἐκ μέσου λίθων πυρίνων."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   πύρινος, -η, -ον,    [in LXX: Ez 28:14, 16 (אֵשׁ), Si 48:9*;]    fiery: Re 9:17.†"
+}

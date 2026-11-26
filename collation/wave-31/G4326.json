@@ -1,0 +1,50 @@
+{
+ "strong": "G4326",
+ "lemma": "προσδέομαι",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 17:25",
+   "form": "προσδεόμενός",
+   "morph": "V-PNP-NSM",
+   "gloss_en": "needed",
+   "gloss_ja": "さらに必要とする",
+   "verse": "οὐδὲ ὑπὸ χειρῶν ἀνθρωπίνων θεραπεύεται προσδεόμενός τινος, αὐτὸς διδοὺς πᾶσι ζωὴν καὶ πνοὴν καὶ τὰ πάντα·"
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Ecclesiasticus sive Siracides": 2
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "13.3",
+    "form": "προσδεηθήσεται",
+    "postag": "v3sfip---",
+    "sentence": "πτωχὸς ἠδίκηται, καὶ αὐτὸς προσδεηθήσεται."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "42.21",
+    "form": "προσεδεήθη",
+    "postag": "v3saip---",
+    "sentence": "οὔ-τε προσετέθη οὔ-τε ἠλαττώθη, καὶ οὐ προσεδεήθη οὐδενὸς συμβούλου."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   προσ-δέομαι,    [in LXX: Pr 12:9 חָסֵר, Si6*;]    to want further, need in addition: Ac 17:25.†"
+}

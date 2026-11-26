@@ -1,0 +1,111 @@
+{
+ "strong": "G4433",
+ "lemma": "πτωχεύω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2CO 8:9",
+   "form": "ἐπτώχευσεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "became poor",
+   "gloss_ja": "貧しくなる",
+   "verse": "γινώσκετε γὰρ τὴν χάριν τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ, ὅτι δι’ ὑμᾶς ἐπτώχευσεν πλούσιος ὤν, ἵνα ὑμεῖς τῇ ἐκείνου πτωχείᾳ πλουτήσητε."
+  }
+ ],
+ "lxx": {
+  "total": 6,
+  "works": {
+   "Judices": 1,
+   "Tobias": 2,
+   "Psalmi": 2,
+   "Proverbia": 1
+  },
+  "representatives": [
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "4.21",
+    "form": "ἐπτωχεύσαμεν",
+    "postag": "v1paia---",
+    "sentence": "καὶ μὴ φοβοῦ, παιδίον, ὅτι ἐπτωχεύσαμεν ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "33.11",
+    "form": "ἐπτώχευσαν",
+    "postag": "v3paia---",
+    "sentence": "πλούσιοι ἐπτώχευσαν καὶ ἐπείνασαν, οἱ δὲ ἐκζητοῦντες τὸν Κύριον οὐκ ἐλαττωθήσονται παντὸς ἀγαθοῦ."
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "6.6",
+    "form": "ἐπτώχευσεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἐπτώχευσεν Ἰσραὴλ σφόδρα ἀπὸ προσώπου Μαδιάμ, καὶ ἐβόησαν υἱοὶ Ἰσραὴλ πρὸς Κύριον ἀπὸ προσώπου Μαδιάμ."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "23.21",
+    "form": "πτωχεύσει",
+    "postag": "v3sfia---",
+    "sentence": "πᾶς γὰρ μέθυσος καὶ πορνοκόπος πτωχεύσει, καὶ ἐνδύσεται διερρηγμένα καὶ ρακώδη πᾶς ὑπνώδης."
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "4.21",
+    "form": "ἐπτωχεύσαμεν",
+    "postag": "v1paia---",
+    "sentence": "καὶ μὴ φοβοῦ, παιδίον, ὅτι ἐπτωχεύσαμεν ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "78.8",
+    "form": "ἐπτωχεύσαμεν",
+    "postag": "v1paia---",
+    "sentence": "ταχὺ προκαταλαβέτωσαν ἡμᾶς οἱ οἰκτιρμοί σου, Κύριε, ὅτι ἐπτωχεύσαμεν σφόδρα."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "To Diognetus": 1,
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "5",
+    "form": "πτωχεύουσι",
+    "postag": "v3ppia---",
+    "sentence": "πτωχεύουσι, καὶ πλουτίζουσι πολλούς ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "19.1.5",
+    "form": "πτωχεύει",
+    "postag": "v3spia---",
+    "sentence": "ὁ μὲν πλούσιος ἔχει χρήματα, τὰ δὲ πρὸς τὸν κύριον πτωχεύει, περισπώμενος περὶ τὸν πλοῦτον ἑαυτοῦ, καὶ λίαν μικρὰν ἔχει τὴν ἔντευξιν καὶ τὴν ἐξομολόγησιν πρὸς τὸν κύριον, καὶ ἣν ἔχει, βληχρὰν καὶ μικρὰν καὶ ἄλλην μὴ ἔχουσαν δύναμιν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   πτωχεύω    (< πτωχός),   [in LXX: Jg 6:6, Ps 78 (79):8 (דּלל); Jg 14:15 A, Pr 23:21 (ירשׁ); Ps 33 (34):10 (רוּשׁ), To 4:21*;]      to be a beggar, to beg (so chiefly in cl.).     to be poor as a beggar, to be destitute, poor: opp. to πλούσιος ὤν, II Co 8:9.†"
+}

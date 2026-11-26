@@ -1,0 +1,53 @@
+{
+ "strong": "G4792",
+ "lemma": "συγκομίζω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 8:2",
+   "form": "συνεκόμισαν",
+   "morph": "V-AAI-3P",
+   "gloss_en": "buried",
+   "gloss_ja": "埋葬する",
+   "verse": "συνεκόμισαν δὲ τὸν Στέφανον ἄνδρες εὐλαβεῖς καὶ ἐποίησαν κοπετὸν μέγαν ἐπ’ αὐτῷ."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Job": 1
+  },
+  "representatives": [
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "5.26",
+    "form": "συγκομισθεῖσα",
+    "postag": "v-sappfn-",
+    "sentence": "ἐλεύσῃ δὲ ἐν τάφῳ ὥσπερ σῖτος ὥριμος κατὰ καιρὸν θεριζόμενος ἢ ὥσπερ θιμωνία ἅλωνος καθ’ ὥραν συγκομισθεῖσα."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "1 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "56.15",
+    "form": "συγκομισθεῖσα",
+    "postag": "v-sappfn-",
+    "sentence": "ἐλεύσῃ δὲ ἐν τάφῳ ὥσπερ σῖτος ὥριμος κατὰ καιρὸν θεριζόμενος, ἢ ὥσπερ θημωνιὰ ἅλωνος καθ’ ὤραν συγκομισθεῖσα."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1 συν-κομίζω    (Rec. συγκ-),    [in LXX: Jb 5:26 (עלה) * ;]    to bring together, collect (Hdt., Xen., al.).    to take up a body for burial (Soph., Aj., 1048): Ac 8:2 (v. Field, Notes, 116).†"
+}

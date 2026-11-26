@@ -1,0 +1,183 @@
+{
+ "strong": "G4649",
+ "lemma": "σκοπός",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "PHP 3:14",
+   "form": "σκοπὸν",
+   "morph": "N-ASM",
+   "gloss_en": "goal",
+   "gloss_ja": "目標",
+   "verse": "κατὰ σκοπὸν διώκω εἰς τὸ βραβεῖον τῆς ἄνω κλήσεως τοῦ θεοῦ ἐν Χριστῷ Ἰησοῦ."
+  }
+ ],
+ "lxx": {
+  "total": 28,
+  "works": {
+   "Leviticus": 1,
+   "Regnorum i": 1,
+   "Regnorum ii": 7,
+   "Regnorum iv": 3,
+   "Job": 1,
+   "Sapientia Salomonis": 2,
+   "Ecclesiasticus sive Siracides": 1,
+   "Osee": 2,
+   "Nahum": 1,
+   "Isaias": 2,
+   "Jeremias": 1,
+   "Threni seu Lamentationes": 1,
+   "Ezechiel": 5
+  },
+  "representatives": [
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "18.27",
+    "form": "σκοπός",
+    "postag": "n-s---mn-",
+    "sentence": "καὶ εἶπεν ὁ σκοπός ·"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "33.7",
+    "form": "σκοπὸν",
+    "postag": "n-s---ma-",
+    "sentence": "καὶ σύ, υἱὲ ἀνθρώπου, σκοπὸν δέδωκά σε τῷ οἴκῳ Ἰσραήλ, καὶ ἀκούσῃ ἐκ στόματός μου λόγον."
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "9.18",
+    "form": "σκοπὸς",
+    "postag": "n-s---mn-",
+    "sentence": "καὶ ἀπήγγειλεν ὁ σκοπὸς λέγων ·"
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "5.12",
+    "form": "σκοπόν",
+    "postag": "n-s---ma-",
+    "sentence": "ἢ ὡς βέλους βληθέντος ἐπὶ σκοπόν, τμηθεὶς ὁ ἀὴρ εὐθέως εἰς ἑαυτὸν ἀνελύθη ὡς ἀγνοῆσαι τὴν δίοδον αὐτοῦ."
+   },
+   {
+    "work_code": "HOS",
+    "work_ja": "ホセア書",
+    "work_src": "Osee",
+    "ref": "9.8",
+    "form": "σκοπὸς",
+    "postag": "n-s---mn-",
+    "sentence": "σκοπὸς Ἐφραὶμ μετὰ Θεοῦ ·"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "41.9",
+    "form": "σκοπῶν",
+    "postag": "n-p---mg-",
+    "sentence": "σὺ δέ, Ἰσραήλ, παῖς μου Ἰακώβ, ὃν ἐξελεξάμην, σπέρμα Ἁβραάμ, ὃν ἠγάπησα, οὗ ἀντελαβόμην ἀπ’ ἄκρων τῆς γῆς καὶ ἐκ τῶν σκοπῶν αὐτῆς ἐκάλεσά σε καὶ εἶπά σοι ·"
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "26.1",
+    "form": "σκοπὸν",
+    "postag": "n-s---ma-",
+    "sentence": "οὐ ποιήσετε ὑμῖν αὐτοῖς χειροποίητα, οὐ-δὲ γλυπτά, οὐ-δὲ στήλην ἀναστήσετε ὑμῖν, οὐ-δὲ λίθον σκοπὸν θήσετε ἐν τῇ γῇ ὑμῶν προσκυνῆσαι αὐτῷ ·"
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "14.16",
+    "form": "σκοποὶ",
+    "postag": "n-p---mn-",
+    "sentence": "καὶ εἶδον οἱ σκοποὶ τοῦ Σαοὺλ ἐν Γαβαὰ Βενιαμὶν καὶ ἰδοὺ ἡ παρεμβολὴ τεταραγμένη ἔνθεν καὶ ἔνθεν."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "16.12",
+    "form": "σκοπόν",
+    "postag": "n-s---ma-",
+    "sentence": "εἰρηνεύοντα διεσκέδασέ με, λαβών με τῆς κόμης διέτιλε, κατέστησέ με ὥσπερ σκοπόν."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "37.14",
+    "form": "σκοποὶ",
+    "postag": "n-p---mn-",
+    "sentence": "ψυχὴ γὰρ ἀνδρὸς ἀπαγγέλλειν ἐνίοτε εἴωθεν ἢ ἑπτὰ σκοποὶ ἐπὶ μετεώρου καθήμενοι ἐπὶ σκοπῆς."
+   },
+   {
+    "work_code": "NAH",
+    "work_ja": "ナホム書",
+    "work_src": "Nahum",
+    "ref": "3.12",
+    "form": "σκοποὺς",
+    "postag": "n-p---ma-",
+    "sentence": "πάντα τὰ ὀχυρώματά σου συκαῖ σκοποὺς ἔχουσαι ·"
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "6.17",
+    "form": "σκοπούς",
+    "postag": "n-p---ma-",
+    "sentence": "καθέστακα ἐφ’ ὑμᾶς σκοπούς, ἀκούσατε τῆς φωνῆς τῆς σάλπιγγος ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 3,
+  "works": {
+   "1 Clement": 2,
+   "2 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "63.1",
+    "form": "σκοπὸν",
+    "postag": "n-s---ma-",
+    "sentence": "θεμιτὸν οὖν ἐστὶν τοῖς τοιούτοις καὶ τοσούτοις ὑποδείγμασιν προσελθόντας ὑποθεῖναι τὸν τράχηλον καὶ τὸν τῆς ὑπακοῆς τόπον ἀναπληρῶσαι, ὅπως ἡσυχάσαντες τῆς ματαίας στάσεως ἐπὶ τὸν προκείμενον ἡμῖν ἐν ἀληθείᾳ σκοπὸν δίχα παντὸς μώμου καταντήσωμεν."
+   },
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "19.1",
+    "form": "σκοπὸν",
+    "postag": "n-s---ma-",
+    "sentence": "τοῦτο γὰρ ποιήσαντες σκοπὸν πᾶσιν τοῖς νέοις θήσομεν, τοῖς βουλομένοις περὶ τὴν εὐσέβειαν καὶ τὴν χρηστότητα τοῦ θεοῦ φιλοπονεῖν."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "19.2",
+    "form": "σκοπόν",
+    "postag": "n-s---ma-",
+    "sentence": "πολλῶν οὖν καὶ μεγάλων καὶ ἐνδόξων μετειληφότες πράξεων ἐπαναδράμωμεν ἐπὶ τὸν ἐξ ἀρχῆς παραδεδομένον ἡμῖν τῆς εἰρήνης σκοπόν, καὶ ἀτενίσωμεν εἰς τὸν πατέρα καὶ κτίστην τοῦ σύμπαντος κόσμου καὶ ταῖς μεγαλοπρεπέσι καὶ ὑπερβαλλούσαις αὐτοῦ δωρεαῖς τῆς εἰρήνης εὐεργεσίαις τε κολληθῶμεν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   σκοπός, -οῦ, ὁ     [in LXX chiefly for צֹפֶה ;]     a watcher, watchman (Ez 3:17, al.).    a mark on which to fix the eye (Wi 5:12, 21, al.). Metaph., of an aim or object: Phl 3:14.†"
+}

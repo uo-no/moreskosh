@@ -1,0 +1,53 @@
+{
+ "strong": "G4338",
+ "lemma": "προσηλόω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "COL 2:14",
+   "form": "προσηλώσας",
+   "morph": "V-AAP-NSM",
+   "gloss_en": "nailing",
+   "gloss_ja": "釘付けにする",
+   "verse": "ἐξαλείψας τὸ καθ’ ἡμῶν χειρόγραφον τοῖς δόγμασιν ὃ ἦν ὑπεναντίον ἡμῖν, καὶ αὐτὸ ἦρκεν ἐκ τοῦ μέσου προσηλώσας αὐτὸ τῷ σταυρῷ·"
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Machabaeorum iii": 1
+  },
+  "representatives": [
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "4.9",
+    "form": "προσηλωμένοι",
+    "postag": "v-prpmmn-",
+    "sentence": "κατήχθησαν δέ θηρίων τρόπον ἀγόμενοι σιδηροδέσμοις ἀνάγκαις, οἱ μὲν τοῖς ζυγοῖς τῶν πλοίων προσηλωμένοι τοὺς τραχήλους, οἱ δὲ τοὺς πόδας ἀρρήκτοις κατησφαλισμένοι πέδαις, ἔτι καὶ τῷ καθύπερθε πυκνῷ σανιδώματι διακειμένῳ, ὅπως πάντοθεν ἐσκοτισμένοι τοὺς ὀφθαλμοὺς ἀγωγὴν ἐπιβούλων ἐν παντὶ τῷ κατάπλῳ λαμβάνωσι."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Martyrdom of Polycarp": 1
+  },
+  "representatives": [
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "13.3",
+    "form": "προσηλοῦν",
+    "postag": "v--pna---",
+    "sentence": "μελλόντων δὲ αὐτῶν καὶ προσηλοῦν, εἶπεν ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   ** προσ-ηλόω, -ῶ,    [in LXX: III Mac 4:9*;]    to nail to: c. acc. et dat., fig., Col 2:14.†"
+}

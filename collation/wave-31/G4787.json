@@ -1,0 +1,41 @@
+{
+ "strong": "G4787",
+ "lemma": "συγκινέω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 6:12",
+   "form": "συνεκίνησάν",
+   "morph": "V-AAI-3P",
+   "gloss_en": "stirred up",
+   "gloss_ja": "扇動する",
+   "verse": "συνεκίνησάν τε τὸν λαὸν καὶ τοὺς πρεσβυτέρους καὶ τοὺς γραμματεῖς, καὶ ἐπιστάντες συνήρπασαν αὐτὸν καὶ ἤγαγον εἰς τὸ συνέδριον,"
+  }
+ ],
+ "lxx": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Ignatius, Letters": 1
+  },
+  "representatives": [
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "1.19.3",
+    "form": "συνεκινεῖτο",
+    "postag": "v3siim---",
+    "sentence": "ἔνθεν τὰ πάντα συνεκινεῖτο διὰ τὸ μελετᾶσθαι θανάτου κατάλυσιν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1 * συν-κινέω (Rec. συγκ-), -ῶ,    to move together. Metaph., to excite, stir up: τ. λαόν, Ac 6:12 (Arist., Polyb., al.).†"
+}

@@ -1,0 +1,60 @@
+{
+ "strong": "G431",
+ "lemma": "ἀνεψιός",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "COL 4:10",
+   "form": "ἀνεψιὸς",
+   "morph": "N-NSM",
+   "gloss_en": "cousin",
+   "gloss_ja": "いとこ",
+   "verse": "Ἀσπάζεται ὑμᾶς Ἀρίσταρχος ὁ συναιχμάλωτός μου, καὶ Μᾶρκος ὁ ἀνεψιὸς Βαρναβᾶ περὶ οὗ ἐλάβετε ἐντολάς, ἐὰν ἔλθῃ πρὸς ὑμᾶς δέξασθε αὐτόν,"
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Numeri": 1,
+   "Tobias": 2
+  },
+  "representatives": [
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "7.2",
+    "form": "ἀνεψιῷ",
+    "postag": "n-s---md-",
+    "sentence": "ὡς ὅμοιος ὁ νεανίσκος Τωβὶτ τῷ ἀνεψιῷ μου;"
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "36.11",
+    "form": "ἀνεψιοῖς",
+    "postag": "n-p---md-",
+    "sentence": "ὃν τρόπον συνέταξε Κύριος Μωυσῇ, οὕτως ἐποίησαν θυγατράσι Σαλπαάδ, καὶ ἐγένοντο Θερσὰ καὶ Ἐγλὰ καὶ Μελχὰ καὶ Νούα καὶ Μαλαὰ θυγατέρες Σαλπαὰδ τοῖς ἀνεψιοῖς αὐτῶν ·"
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "9.6",
+    "form": "ἀνεψιόν",
+    "postag": "n-s---ma-",
+    "sentence": "εὐλογητὸς ὁ θεός, ὅτι εἶδον Τωβιν τὸν ἀνεψιόν μου ὅμοιον αὐτῷ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ἀνεψιός, -οῦ, ὁ    (cf. Lat. nepos),   [in LXX: Nu 36:11 (דּוֹד בֶּן), To 7:2 9:6 א*;]    a cousin: Col 4:10 (MM, VGT, s.v.).†"
+}

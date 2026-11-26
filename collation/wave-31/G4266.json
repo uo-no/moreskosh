@@ -1,0 +1,41 @@
+{
+ "strong": "G4266",
+ "lemma": "προγίνομαι",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": "προγιγνομαι",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ROM 3:25",
+   "form": "προγεγονότων",
+   "morph": "V-2RAP-GPN",
+   "gloss_en": "previously committed",
+   "gloss_ja": "以前に起こる",
+   "verse": "ὃν προέθετο ὁ θεὸς ἱλαστήριον διὰ πίστεως ἐν τῷ αὐτοῦ αἵματι εἰς ἔνδειξιν τῆς δικαιοσύνης αὐτοῦ διὰ τὴν πάρεσιν τῶν προγεγονότων ἁμαρτημάτων"
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Sapientia Salomonis": 1
+  },
+  "representatives": [
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "19.13",
+    "form": "προγεγονότων",
+    "postag": "v-prpang-",
+    "sentence": "καὶ αἱ τιμωρίαι τοῖς ἀμαρτωλοῖς ἐπῆλθον οὐκ ἄνευ τῶν προγεγονότων τεκμηρίων τῇ βίᾳ τῶν κεραυνῶν ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ** προ-γίνομαι,    [in LXX: Wi 19:13 אA, II Mac 14:3 15:8*;]    to happen before: pf. pass. ptcp., Ro 3:25.†"
+}

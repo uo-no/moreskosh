@@ -1,0 +1,61 @@
+{
+ "strong": "G4274",
+ "lemma": "πρόδρομος",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "HEB 6:20",
+   "form": "πρόδρομος",
+   "morph": "A-NSM",
+   "gloss_en": "forerunner",
+   "gloss_ja": "先駆者",
+   "verse": "ὅπου πρόδρομος ὑπὲρ ἡμῶν εἰσῆλθεν Ἰησοῦς, κατὰ τὴν τάξιν Μελχισέδεκ ἀρχιερεὺς γενόμενος εἰς τὸν αἰῶνα."
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Numeri": 1,
+   "Sapientia Salomonis": 1,
+   "Isaias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "13.21",
+    "form": "πρόδρομοι",
+    "postag": "a-p---fn-",
+    "sentence": "καὶ αἱ ἡμέραι ἡμέραι ἔαρος, πρόδρομοι σταφυλῆς."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "12.8",
+    "form": "προδρόμους",
+    "postag": "a-p---ma-",
+    "sentence": "ἀλλὰ καὶ τούτων ὡς ἀνθρώπων ἐφείσω ἀπέστειλάς τε προδρόμους τοῦ στρατοπέδου σου σφῆκας, ἵνα αὐτοὺς κατὰ βραχὺ ἐξολοθρεύσωσιν."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "28.4",
+    "form": "πρόδρομος",
+    "postag": "a-s---mn-",
+    "sentence": "καὶ ἔσται τὸ ἄνθος τὸ ἐκπεσὸν τῆς ἐλπίδος τῆς δόξης ἐπ’ ἄκρου τοῦ ὄρους τοῦ ὑψηλοῦ ὡς πρόδρομος σύκου, ὁ ἰδὼν αὐτό, πρὶν ἢ εἰς τὴν χεῖραν αὐτοῦ λαβεῖν, θελήσει αὐτὸ καταπιεῖν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   πρό-δρομος, -ον    (< προτρέχω),   [in LXX: Nu 13:21 (20), Is 28:4 (בּכר),   Wi 12:8*;]    running forward, going in advance. As subst., ὁ π., an advance guard, forerunner: He 6:20.†"
+}

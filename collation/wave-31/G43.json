@@ -1,0 +1,71 @@
+{
+ "strong": "G43",
+ "lemma": "ἀγκάλη",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 2:28",
+   "form": "ἀγκάλας",
+   "morph": "N-APF",
+   "gloss_en": "arms",
+   "gloss_ja": "腕",
+   "verse": "καὶ αὐτὸς ἐδέξατο αὐτὸ εἰς τὰς ἀγκάλας καὶ εὐλόγησεν τὸν θεὸν καὶ εἶπεν·"
+  }
+ ],
+ "lxx": {
+  "total": 4,
+  "works": {
+   "Regnorum iii": 1,
+   "Esther": 1,
+   "Proverbia": 1,
+   "Job": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "3.20",
+    "form": "ἀγκαλῶν",
+    "postag": "n-p---fg-",
+    "sentence": "καὶ ἀνέστη μέσης τῆς νυκτὸς καὶ ἔλαβε τὸν υἱόν μου ἐκ τῶν ἀγκαλῶν μου καὶ ἐκοίμισεν αὐτὸν ἐν τῷ κόλπῳ αὐτῆς καὶ τὸν υἱὸν αὐτῆς τὸν τεθνηκότα ἐκοίμισεν ἐν τῷ κόλπῳ μου."
+   },
+   {
+    "work_code": "EST",
+    "work_ja": "エステル記",
+    "work_src": "Esther",
+    "ref": "5.2β",
+    "form": "ἀγκάλας",
+    "postag": "n-p---fa-",
+    "sentence": "καὶ μετέβαλεν ὁ Θεὸς τὸ πνεῦμα τοῦ βασιλέως εἰς πραΰτητα, καὶ ἀγωνιάσας ἀνεπήδησεν ἀπὸ τοῦ θρόνου αὐτοῦ καὶ ἀνέλαβεν αὐτὴν ἐπὶ τὰς ἀγκάλας αὐτοῦ, μέχρις οὗ κατέστη, καὶ παρεκάλει αὐτὴν λόγοις εἰρηνικοῖς καὶ εἶπεν αὐτῇ ·"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "5.20",
+    "form": "ἀγκάλαις",
+    "postag": "n-p---fd-",
+    "sentence": "μὴ πολὺς ἴσθι πρὸς ἀλλοτρίαν, μη-δὲ συνέχου ἀγκάλαις τῆς μὴ ἰδίας ·"
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "24.19",
+    "form": "ἀγκαλίδα",
+    "postag": "n-s---fa-",
+    "sentence": "ἀγκαλίδα γὰρ ὀρφανῶν ἥρπασαν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ἀγκάλη, -ης, ἡ    (< ἄγκος, a bend),   [in LXX for אַצִּיל, חֵיק;]    the bent arm: Lk 2:28 (cf. ἐναγκαλίζομαι).†"
+}

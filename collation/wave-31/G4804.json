@@ -1,0 +1,41 @@
+{
+ "strong": "G4804",
+ "lemma": "συζητητής",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 1:20",
+   "form": "συζητητὴς",
+   "morph": "N-NSM",
+   "gloss_en": "debater",
+   "gloss_ja": "論争者",
+   "verse": "ποῦ σοφός; ποῦ γραμματεύς; ποῦ συζητητὴς τοῦ αἰῶνος τούτου; οὐχὶ ἐμώρανεν ὁ θεὸς τὴν σοφίαν τοῦ κόσμου;"
+  }
+ ],
+ "lxx": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Ignatius, Letters": 1
+  },
+  "representatives": [
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "1.18.1",
+    "form": "συζητητής",
+    "postag": "n-s---mn-",
+    "sentence": "ποῦ συζητητής;"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1 *† συν-ζητητής (Rec. συζ-), -οῦ, ἁ     (< συνζητέω),     a disputer, disputant: I Co 1:20.†"
+}

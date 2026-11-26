@@ -1,0 +1,51 @@
+{
+ "strong": "G4781",
+ "lemma": "συγκάμπτω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ROM 11:10",
+   "form": "σύγκαμψον",
+   "morph": "V-AAM-2S",
+   "gloss_en": "bent",
+   "gloss_ja": "曲げる",
+   "verse": "σκοτισθήτωσαν οἱ ὀφθαλμοὶ αὐτῶν τοῦ μὴ βλέπειν, καὶ τὸν νῶτον αὐτῶν διὰ παντὸς σύγκαμψον."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Regnorum iv": 1,
+   "Psalmi": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "4.35",
+    "form": "συνέκαμψεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἐπέστρεψε καὶ ἐπορεύθη ἐν τῇ οἰκίᾳ ἔνθεν καὶ ἔνθεν καὶ ἀνέβη καὶ συνέκαμψεν ἐπὶ τὸ παιδάριον ἕως ἑπτάκις, καὶ ἤνοιξε τὸ παιδάριον τοὺς ὀφθαλμοὺς αὐτοῦ."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "68.24",
+    "form": "σύγκαμψον",
+    "postag": "v2sama---",
+    "sentence": "σκοτισθήτωσαν οἱ ὀφθαλμοὶ αὐτῶν τοῦ μὴ βλέπειν, καὶ τὸν νῶτον αὐτῶν διαπαντὸς σύγκαμψον."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1 συν-κάμπτω    (Rec. συγκ-),    [in LXX: Ps 68:10, 23(מעדhi.), etc. ;]     to bend completely, bend together: τ. νῶτον, fig., Ro 11:10 (LXX).†"
+}

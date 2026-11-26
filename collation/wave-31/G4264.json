@@ -1,0 +1,51 @@
+{
+ "strong": "G4264",
+ "lemma": "προβιβάζω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MAT 14:8",
+   "form": "προβιβασθεῖσα",
+   "morph": "V-APP-NSF",
+   "gloss_en": "prompted",
+   "gloss_ja": "促す",
+   "verse": "ἡ δὲ προβιβασθεῖσα ὑπὸ τῆς μητρὸς αὐτῆς· Δός μοι, φησίν, ὧδε ἐπὶ πίνακι τὴν κεφαλὴν Ἰωάννου τοῦ βαπτιστοῦ."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Exodus": 1,
+   "Deuteronomium": 1
+  },
+  "representatives": [
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "35.34",
+    "form": "προβιβάσαι",
+    "postag": "v--ana---",
+    "sentence": "καὶ προβιβάσαι γε ἔδωκεν ἐν τῇ διανοίᾳ αὐτῷ τε καὶ τῷ Ἐλιὰβ τῷ τοῦ Ἀχισαμάχ, ἐκ φυλῆς Δάν."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "6.7",
+    "form": "προβιβάσεις",
+    "postag": "v2sfia---",
+    "sentence": "καὶ προβιβάσεις αὐτὰ τοὺς υἱούς σου, καὶ λαλήσεις ἐν αὐτοῖς καθήμενος ἐν οἴκῳ καὶ πορευόμενος ἐν ὁδῷ καὶ κοιταζόμενος καὶ διανιστάμενος ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   προ-βιβάζω, causal of προβαίνω,    [in LXX: Ex 35:34 (ירה hi.), De 6:7 (שׁנן pi.)*;]    to lead forward, lead on; metaph., to induce, incite, urge: Mt 14:8.†"
+}

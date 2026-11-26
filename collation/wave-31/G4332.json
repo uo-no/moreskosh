@@ -1,0 +1,62 @@
+{
+ "strong": "G4332",
+ "lemma": "παρεδρεύω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 9:13",
+   "form": "παρεδρεύοντες",
+   "morph": "V-PAP-NPM",
+   "gloss_en": "serve",
+   "gloss_ja": "仕える",
+   "verse": "οὐκ οἴδατε ὅτι οἱ τὰ ἱερὰ ἐργαζόμενοι τὰ ἐκ τοῦ ἱεροῦ ἐσθίουσιν, οἱ τῷ θυσιαστηρίῳ παρεδρεύοντες τῷ θυσιαστηρίῳ συμμερίζονται;"
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Proverbia": 2
+  },
+  "representatives": [
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "8.3",
+    "form": "παρεδρεύει",
+    "postag": "v3spia---",
+    "sentence": "παρὰ γὰρ πύλαις δυναστῶν παρεδρεύει, ἐν δὲ εἰσόδοις ὑμνεῖται."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "1.21",
+    "form": "παρεδρεύει",
+    "postag": "v3spia---",
+    "sentence": "ἐπ’ ἄκρων τειχέων κηρύσσεται, ἐπὶ δὲ πύλαις δυναστῶν παρεδρεύει, ἐπὶ δὲ πύλαις πόλεως θαρροῦσα λέγει ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "To Diognetus": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "4",
+    "form": "παρεδρεύοντας",
+    "postag": "v-pppama-",
+    "sentence": "τὸ δὲ παρεδρεύοντας αὐτοὺς ἄστροις καὶ σελήνῃ τὴν παρατήρησιν τῶν μηνῶν καὶ τῶν ἡμερῶν ποιεῖσθαι καὶ τὰς οἰκονομίας Θεοῦ καὶ τὰς τῶν καιρῶν ἀλλαγὰς καταδιαιρεῖν πρὸς τὰς αὐτῶν ὁρμάς, ἃς μὲν εἰς ἑορτάς, ἃς δὲ εἰς πένθη ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   ** προσεδρεύω    (< πρόσεδρος, sitting near),   [in LXX: I Mac 11:40*;]      to sit near.     to attend regularly: c. dat., I Co 9:13, Rec. (v.s. παρεδρεύω).†"
+}

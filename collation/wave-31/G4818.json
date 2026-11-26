@@ -1,0 +1,51 @@
+{
+ "strong": "G4818",
+ "lemma": "συλλυπέομαι",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": "συλλυπεω",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MRK 3:5",
+   "form": "συλλυπούμενος",
+   "morph": "V-PNP-NSM",
+   "gloss_en": "grieved",
+   "gloss_ja": "共に悲しむ",
+   "verse": "καὶ περιβλεψάμενος αὐτοὺς μετ’ ὀργῆς, συλλυπούμενος ἐπὶ τῇ πωρώσει τῆς καρδίας αὐτῶν, λέγει τῷ ἀνθρώπῳ· Ἔκτεινον τὴν χεῖρα· καὶ ἐξέτεινεν, καὶ ἀπεκατεστάθη ἡ χεὶρ αὐτοῦ."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Psalmi": 1,
+   "Isaias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "68.21",
+    "form": "συλλυπούμενον",
+    "postag": "v-sppmma-",
+    "sentence": "ὀνειδισμὸν προσεδόκησεν ἡ ψυχή μου καὶ ταλαιπωρίαν, καὶ ὑπέμεινα συλλυπούμενον, καὶ οὐχ ὑπῆρξε, καὶ παρακαλοῦντας, καὶ οὐχ εὗρον."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "51.19",
+    "form": "συλλυπηθήσεταί",
+    "postag": "v3sfip---",
+    "sentence": "τίς συλλυπηθήσεταί σοι;"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1 συν-λυπέω    (Rec. συλλ-), -ῶ,    [in LXX: Ps 68 (69):20, Is 51:19 (נוּד) * ;]     to make to grieve with (Arist.). Pass., to be moved to grief by sympathy: seq. ἐπί, c. dat., Mk 3:5.†"
+}

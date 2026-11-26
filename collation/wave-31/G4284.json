@@ -1,0 +1,156 @@
+{
+ "strong": "G4284",
+ "lemma": "προέχομαι",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": "προεχω",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ROM 3:9",
+   "form": "προεχόμεθα",
+   "morph": "V-PNI-1P",
+   "gloss_en": "better",
+   "gloss_ja": "優れている",
+   "verse": "Τί οὖν; προεχόμεθα; οὐ πάντως, προῃτιασάμεθα γὰρ Ἰουδαίους τε καὶ Ἕλληνας πάντας ὑφ’ ἁμαρτίαν εἶναι,"
+  }
+ ],
+ "lxx": {
+  "total": 23,
+  "works": {
+   "Numeri": 1,
+   "Machabaeorum iii": 1,
+   "Psalmi": 17,
+   "Sapientia Salomonis": 2,
+   "Daniel": 2
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "21.2",
+    "form": "πρόσχες",
+    "postag": "v2saia---",
+    "sentence": "ὁ θεὸς, ὁ Θεός μου, πρόσχες μοι ·"
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "14.30",
+    "form": "προσχόντες",
+    "postag": "v-papamn-",
+    "sentence": "ἀμφότερα δὲ αὐτοὺς μετελεύσεται τὰ δίκαια, ὅτι κακῶς ἐφρόνησαν περὶ Θεοῦ προσχόντες εἰδώλοις καὶ ἀδίκως ὤμοσαν ἐν δόλῳ καταφρονήσαντες ὁσιότητος ·"
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "9.18",
+    "form": "πρόσχες",
+    "postag": "v2saia---",
+    "sentence": "πρόσχες, κύριε, τὸ οὖς σου καὶ ἐπάκουσόν μου ·"
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "16.15",
+    "form": "πρόσχῃς",
+    "postag": "v2sasa---",
+    "sentence": "μὴ πρόσχῃς εἰς τὴν θυσίαν αὐτῶν ·"
+   },
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "2.2",
+    "form": "πρόσχες",
+    "postag": "v2saia---",
+    "sentence": "Κύριε Κύριε, βασιλεῦ τῶν οὐρανῶν καὶ δέσποτα πάσης κτίσεως, ἅγιε ἐν ἁγίοις, μόναρχε, παντοκράτωρ, πρόσχες ἡμῖν καταπονουμένοις ὑπὸ ἀνοσίου καὶ βεβήλου θράσει καὶ σθένει πεφρυαγμένου."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "39.14",
+    "form": "πρόσχες",
+    "postag": "v2saia---",
+    "sentence": "Κύριε, εἰς τὸ βοηθῆσαί μοι πρόσχες."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "13.1",
+    "form": "προσχόντες",
+    "postag": "v-papamn-",
+    "sentence": "μάταιοι μὲν γὰρ πάντες ἄνθρωποι φύσει, οἷς παρῆν Θεοῦ ἀγνωσία καὶ ἐκ τῶν ὁρωμένων ἀγαθῶν οὐκ ἴσχυσαν εἰδέναι τὸν ὄντα οὔ-τε τοῖς ἔργοις προσχόντες ἐπέγνωσαν τὸν τεχνίτην ·"
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "9.19",
+    "form": "πρόσχες",
+    "postag": "v2saia---",
+    "sentence": "εἰσάκουσον, Κύριε, ἱλάσθητι Κύριε, πρόσχες Κύριε καὶ ποίησον ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "69.2",
+    "form": "πρόσχες",
+    "postag": "v2saia---",
+    "sentence": "ὁ θεὸς, εἰς τὴν βοήθειάν μου πρόσχες ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "70.12",
+    "form": "πρόσχες",
+    "postag": "v2saia---",
+    "sentence": "ὁ Θεός μου, εἰς τὴν βοήθειάν μου πρόσχες."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "37.23",
+    "form": "πρόσχες",
+    "postag": "v2saia---",
+    "sentence": "πρόσχες εἰς τὴν βοήθειάν μου, Κύριε τῆς σωτηρίας μου."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "141.7",
+    "form": "πρόσχες",
+    "postag": "v2saia---",
+    "sentence": "πρόσχες πρὸς τὴν δέησίν μου, ὅτι ἐταπεινώθην σφόδρα ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "17.2.1",
+    "form": "προέχουσα",
+    "postag": "v-sppafn-",
+    "sentence": "πάντων προέχουσα ἐπιθυμία γυναικὸς ἀλλοτρίας ἢ ἀνδρὸς καὶ πολυτελείας πλούτου καὶ ἐδεσμάτων πολλῶν ματαίων καὶ μεθυσμάτων καὶ ἑτέρων τρυφῶν πολλῶν καὶ μωρῶν ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1 προ-έχω,    [in LXX: Jb 27:6 A (חזק hi.)*;]      Trans., to hold before; mid., to hold something before oneself (Hdt.), hence, metaph., to excuse oneself: Ro 3:9, R, mg. (but v. Field, Notes, 152 f.; Lft., Notes, 266 f.; ICC and Vau., in l.).     Intrans.     to project;     in running, to have the start, hence, metaph., to excel: pass., Ro 3:9, R, txt. (v. reff. supr.).†"
+}

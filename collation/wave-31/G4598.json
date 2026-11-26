@@ -1,0 +1,41 @@
+{
+ "strong": "G4598",
+ "lemma": "σητόβρωτος",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JAS 5:2",
+   "form": "σητόβρωτα",
+   "morph": "A-NPN",
+   "gloss_en": "moth-eaten",
+   "gloss_ja": "虫食いの",
+   "verse": "ὁ πλοῦτος ὑμῶν σέσηπεν, καὶ τὰ ἱμάτια ὑμῶν σητόβρωτα γέγονεν,"
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Job": 1
+  },
+  "representatives": [
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "13.28",
+    "form": "σητόβρωτον",
+    "postag": "a-s---nn-",
+    "sentence": "ὃ παλαιοῦται ἴσα ἀσκῷ ἢ ὥσπερ ἱμάτιον σητόβρωτον."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   † σητό-βρωτος, -ον    (< σής, βιβρώσκω),    [in LXX: Jb 13:28 (אֲכָלוֺ עָשׁ) * ;]     moth-eaten: Ja 5:2.†"
+}

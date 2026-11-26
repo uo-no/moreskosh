@@ -1,0 +1,162 @@
+{
+ "strong": "G4733",
+ "lemma": "στερέωμα",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "COL 2:5",
+   "form": "στερέωμα",
+   "morph": "N-ASN",
+   "gloss_en": "steadfastness",
+   "gloss_ja": "堅固さ",
+   "verse": "εἰ γὰρ καὶ τῇ σαρκὶ ἄπειμι, ἀλλὰ τῷ πνεύματι σὺν ὑμῖν εἰμι, χαίρων καὶ βλέπων ὑμῶν τὴν τάξιν καὶ τὸ στερέωμα τῆς εἰς Χριστὸν πίστεως ὑμῶν."
+  }
+ ],
+ "lxx": {
+  "total": 30,
+  "works": {
+   "Genesis": 9,
+   "Exodus": 1,
+   "Deuteronomium": 1,
+   "Esdras i": 1,
+   "Esther": 1,
+   "Machabaeorum i": 1,
+   "Psalmi": 5,
+   "Odae": 1,
+   "Ecclesiasticus sive Siracides": 2,
+   "Ezechiel": 5,
+   "Daniel": 3
+  },
+  "representatives": [
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "1.8",
+    "form": "στερέωμα",
+    "postag": "n-s---na-",
+    "sentence": "καὶ ἐκάλεσεν ὁ Θεὸς τὸ στερέωμα οὐρανόν."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "17.3",
+    "form": "στερέωμά",
+    "postag": "n-s---nn-",
+    "sentence": "Κύριος στερέωμά μου καὶ καταφυγή μου καὶ ρύστης μου."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "1.25",
+    "form": "στερεώματος",
+    "postag": "n-s---ng-",
+    "sentence": "καὶ ἰδοὺ φωνὴ ὑπεράνωθεν τοῦ στερεώματος τοῦ ὄντος ὑπὲρ κεφαλῆς αὐτῶν."
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "3.56",
+    "form": "στερεώματι",
+    "postag": "n-s---nd-",
+    "sentence": "εὐλογητὸς εἶ ἐν τῷ στερεώματι καὶ ὑμνητὸς καὶ δεδοξασμένος εἰς τοὺς αἰῶνας."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "43.1",
+    "form": "στερέωμα",
+    "postag": "n-s---nn-",
+    "sentence": "γαυρίαμα ὕψους στερέωμα καθαριότητος, εἶδος οὐρανοῦ ἐν ὁράματι δόξης."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "24.10",
+    "form": "στερεώματος",
+    "postag": "n-s---ng-",
+    "sentence": "καὶ τά ὑπὸ τοὺς πόδας αὐτοῦ ὡσεὶ ἔργον πλίνθου σαπφείρου καὶ ὥσπερ εἶδος στερεώματος τοῦ οὐρανοῦ τῇ καθαριότητι."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "33.26",
+    "form": "στερεώματος",
+    "postag": "n-s---ng-",
+    "sentence": "ὁ ἐπιβαίνων ἐπὶ τὸν οὐρανὸν βοηθός σου καὶ ὁ μεγαλοπρεπὴς τοῦ στερεώματος."
+   },
+   {
+    "work_code": "1ES",
+    "work_ja": "エズラ記（ギリシャ語）",
+    "work_src": "Esdras i",
+    "ref": "8.78",
+    "form": "στερέωμα",
+    "postag": "n-s---na-",
+    "sentence": "καὶ ἐν τῷ δουλεύειν ἡμᾶς οὐκ ἐγκατελείφθημεν ὑπὸ τοῦ Κυρίου ἡμῶν, ἀλλὰ ἐποίησεν ἡμᾶς ἐν χάριτι ἐνώπιον τῶν βασιλέων Περσῶν δοῦναι ἡμῖν τροφὴν καὶ δοξάσαι τὸ ἱερὸν τοῦ Κυρίου ἡμῶν καὶ ἐγεῖραι τὴν ἔρημον Σιών, δοῦναι ἡμῖν στερέωμα ἐν τῇ Ἰουδαίᾳ καὶ Ἱερουσαλήμ."
+   },
+   {
+    "work_code": "EST",
+    "work_ja": "エステル記",
+    "work_src": "Esther",
+    "ref": "9.29",
+    "form": "στερέωμα",
+    "postag": "n-s---na-",
+    "sentence": "καὶ ἔγραψεν Ἐσθὴρ ἡ βασίλισσα θυγάτηρ Ἀμιναδὰβ καὶ Μαρδοχαῖος ὁ Ἰουδαῖος ὅσα ἐποίησαν τό τε στερέωμα τῆς ἐπιστολῆς τῶν Φρουραί."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "9.14",
+    "form": "στερέωμα",
+    "postag": "n-s---nn-",
+    "sentence": "καὶ εἶδεν Ἰούδας ὅτι Βακχίδης καὶ τὸ στερέωμα τῆς παρεμβολῆς ἐν τοῖς δεξιοῖς, καὶ συνῆλθον αὐτῷ πάντες οἱ εὔψυχοι τῇ καρδίᾳ, καὶ συνετρίβη τὸ δεξιὸν κέρας ἀπ’ αὐτῶν, καὶ ἐδίωκεν ὀπίσω αὐτῶν ἕως Ἀζώτου ὄρους."
+   },
+   {
+    "work_code": "ODE",
+    "work_ja": "頌歌（オード）",
+    "work_src": "Odae",
+    "ref": "11.56",
+    "form": "στερεώματι",
+    "postag": "n-s---nd-",
+    "sentence": "εὐλογημένος εἶ ἐν τῷ στερεώματι τοῦ οὐρανοῦ καὶ ὑπερυμνητὸς καὶ ὑπερένδοξος εἰς τοὺς αἰῶνας."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "1.6",
+    "form": "στερέωμα",
+    "postag": "n-s---nn-",
+    "sentence": "γενηθήτω στερέωμα ἐν μέσῳ τοῦ ὕδατος καὶ ἔστω διαχωρίζον ἀνὰ μέσον ὕδατος καὶ ὕδατος."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "1 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "27.7",
+    "form": "στερέωμα",
+    "postag": "n-s---nn-",
+    "sentence": "πάντα ἐνώπιον αὐτοῦ εἰσίν, καὶ οὐδὲν λέληθεν τὴν βουλὴν αὐτοῦ, εἰ οἱ οὐρανοὶ διηγοῦνται δόξαν θεοῦ, ποίησιν δὲ χειρῶν αὐτοῦ ἀναγγέλλει τὸ στερέωμα ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1 στερέωμα, -τος, τό    (< στερεόω),    [in LXX: Ge 1:6 ff., Ps 18 (19):1 150:1, Ez 1:22-26 10:1 13:5, Da LXX, TH 3:(56), 12:3 (רָקִיעַ), De 33:26 (שׁחק), Ps 17 (18):2 70 (71):3 (סֶלַע), Es 9:29, I Es 8:78 (82), Si 43:1, 8, I Mac 9:14 * ;]     a solid body;    a support, foundation (Arist., al.); metaph., strength (Ps 17 70, I Mac, ll. c.); steadfastness, firmness: τ. πίστεως, Col 2:5;    the dome of heaven (believed to be a solid canopy), the firmament (LXX).†"
+}

@@ -1,0 +1,51 @@
+{
+ "strong": "G4673",
+ "lemma": "σορός",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 7:14",
+   "form": "σοροῦ",
+   "morph": "N-GSF",
+   "gloss_en": "coffin",
+   "gloss_ja": "棺",
+   "verse": "καὶ προσελθὼν ἥψατο τῆς σοροῦ, οἱ δὲ βαστάζοντες ἔστησαν, καὶ εἶπεν· Νεανίσκε, σοὶ λέγω, ἐγέρθητι."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Genesis": 1,
+   "Paralipomenon i sive Chronicon i": 1
+  },
+  "representatives": [
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "50.26",
+    "form": "σορῷ",
+    "postag": "n-s---fd-",
+    "sentence": "καὶ ἔθαψαν αὐτὸν καὶ ἔθηκαν ἐν τῇ σορῷ ἐν Αἰγύπτῳ."
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "7.16",
+    "form": "Σόρος",
+    "postag": "n-s---mn-",
+    "sentence": "καὶ ἔτεκε Μοωχὰ γυνὴ Μαχὶρ υἱὸν καὶ ἐκάλεσε τὸ ὄνομα αὐτοῦ Φαρές, καὶ ὄνομα ἀδελφοῦ αὐτοῦ Σόρος ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   σορός, -οῦ, ἡ     [in LXX: Ge 50:26 (אָרוֹן), Jb 21:32 A * ;]     a cinerary urn (Hom.);    a coffin (Hdt., i, 68, 3, al.): Lk 7:14.†"
+}

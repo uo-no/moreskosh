@@ -1,0 +1,100 @@
+{
+ "strong": "G437",
+ "lemma": "ἀνθομολογέομαι",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 2:38",
+   "form": "ἀνθωμολογεῖτο",
+   "morph": "V-INI-3S",
+   "gloss_en": "gave thanks",
+   "gloss_ja": "感謝する",
+   "verse": "καὶ αὐτῇ τῇ ὥρᾳ ἐπιστᾶσα ἀνθωμολογεῖτο τῷ θεῷ καὶ ἐλάλει περὶ αὐτοῦ πᾶσιν τοῖς προσδεχομένοις λύτρωσιν Ἰερουσαλήμ."
+  }
+ ],
+ "lxx": {
+  "total": 7,
+  "works": {
+   "Esdras i": 1,
+   "Esdras ii": 1,
+   "Machabaeorum iii": 1,
+   "Psalmi": 1,
+   "Ecclesiasticus sive Siracides": 1,
+   "Daniel": 2
+  },
+  "representatives": [
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "4.37b",
+    "form": "ἀνθομολογοῦμαι",
+    "postag": "v1spim---",
+    "sentence": "ἐγὼ βασιλεὺς βασιλέων ἀνθομολογοῦμαι αὐτῷ ἐνδόξως, ὅτι οὕτως ἐποίησε μετ’ ἐμοῦ ·"
+   },
+   {
+    "work_code": "1ES",
+    "work_ja": "エズラ記（ギリシャ語）",
+    "work_src": "Esdras i",
+    "ref": "8.88",
+    "form": "ἀνθωμολογεῖτο",
+    "postag": "v3siim---",
+    "sentence": "καὶ ὅτε προσευχόμενος Ἔσδρας ἀνθωμολογεῖτο κλαίων χαμαιπετὴς ἔμπροσθεν τοῦ ἱεροῦ, ἐπισυνήχθησαν πρὸς αὐτὸν ἀπὸ Ἱερουσαλὴμ ὄχλος πολὺς σφόδρα, ἄνδρες καὶ γυναῖκες καὶ νεανίαι ·"
+   },
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "3.11",
+    "form": "ἀνθομολογήσει",
+    "postag": "v3sfia---",
+    "sentence": "καὶ ἀπεκρίθησαν ἐν αἴνῳ καὶ ἀνθομολογήσει τῷ Κυρίῳ, ὅτι ἀγαθόν, ὅτι εἰς τὸν αἰῶνα τὸ ἔλεος αὐτοῦ ἐπὶ Ἰσραήλ."
+   },
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "6.33",
+    "form": "ἀνθωμολογεῖτο",
+    "postag": "v3siim---",
+    "sentence": "ὡσαύτως δὲ καὶ ὁ βασιλεὺς περὶ τούτων συμπόσιον βαρὺ συναγαγών, ἀδιαλείπτως εἰς οὐρανὸν ἀνθωμολογεῖτο μεγαλοπρεπῶς ἐπὶ τῇ παραδόξῳ γενηθείσῃ αὐτῷ σωτηρίᾳ."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "78.13",
+    "form": "ἀνθομολογησόμεθά",
+    "postag": "v1pfim---",
+    "sentence": "ἡμεῖς δὲ λαός σου καὶ πρόβατα νομῆς σου ἀνθομολογησόμεθά σοι εἰς τὸν αἰῶνα, εἰς γενεὰν καὶ γενεὰν ἐξαγγελοῦμεν τὴν αἴνεσίν σου."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "20.2",
+    "form": "ἀνθομολογούμενος",
+    "postag": "v-sppmmn-",
+    "sentence": "ὡς καλὸν ἐλέγξαι ἢ θυμοῦσθαι, καὶ ὁ ἀνθομολογούμενος ἀπὸ ἐλαττώσεως κωλυθήσεται."
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "4.37",
+    "form": "ἀνθομολογοῦμαι",
+    "postag": "v1spim---",
+    "sentence": "τῷ ὑψίστῳ ἀνθομολογοῦμαι καὶ αἰνῶ τῷ κτίσαντι τὸν οὐρανὸν καὶ τὴν γῆν καὶ τὰς θαλάσσας καὶ τοὺς ποταμοὺς καὶ πάντα τὰ ἐν αὐτοῖς ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ἀνθ-ομολογέομαι, -οῦμαι    (ἀντί, ὁμολογέομαι),   [in LXX: Ps 78 (79):13 (יָדָה), Da LXX 4:34 (שְׁבַּח), I Es 8:91, Si 20:2, III Mac 6:33*;]      to make a mutual agreement (Dem., Polyb.).     to acknowledge fully, confess (Diod., Polyb., cf. I Es 8:91).     C. dat. pers., to declare one's praises, speak fully in prayer or thanksgiving, give thanks to (cf. Ps 78 (79):13): Lk 2:38 (Cremer, 771; MM, VGT, s.v.).†"
+}

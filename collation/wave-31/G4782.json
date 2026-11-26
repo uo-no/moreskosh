@@ -1,0 +1,70 @@
+{
+ "strong": "G4782",
+ "lemma": "συγκαταβαίνω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 25:5",
+   "form": "συγκαταβάντες",
+   "morph": "V-2AAP-NPM",
+   "gloss_en": "go down with",
+   "gloss_ja": "共に下る",
+   "verse": "Οἱ οὖν ἐν ὑμῖν, φησίν, δυνατοὶ συγκαταβάντες εἴ τί ἐστιν ἐν τῷ ἀνδρὶ ἄτοπον κατηγορείτωσαν αὐτοῦ."
+  }
+ ],
+ "lxx": {
+  "total": 4,
+  "works": {
+   "Psalmi": 1,
+   "Sapientia Salomonis": 1,
+   "Daniel": 2
+  },
+  "representatives": [
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "3.49",
+    "form": "συγκατέβη",
+    "postag": "v3saia---",
+    "sentence": "ἄγγελος δὲ κυρίου συγκατέβη ἅμα τοῖς περὶ τὸν Αζαριαν εἰς τὴν κάμινον καὶ ἐξετίναξε τὴν φλόγα τοῦ πυρὸς ἐκ τῆς καμίνου καὶ ἐποίησε τὸ μέσον τῆς καμίνου ὡσεὶ πνεῦμα δρόσου διασυρίζον, καὶ οὐχ ἥψατο αὐτῶν καθόλου τὸ πῦρ καὶ οὐκ ἐλύπησε καὶ οὐ παρηνώχλησεν αὐτούς."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "48.18",
+    "form": "συγκαταβήσεται",
+    "postag": "v3sfim---",
+    "sentence": "ὅτι οὐκ ἐν τῷ ἀποθνήσκειν αὐτὸν λήψεται τὰ πάντα, οὐ-δὲ συγκαταβήσεται αὐτῷ ἡ δόξα αὐτοῦ."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "10.14",
+    "form": "συγκατέβη",
+    "postag": "v3saia---",
+    "sentence": "συγκατέβη αὐτῷ εἰς λάκκον καὶ ἐν δεσμοῖς οὐκ ἀφῆκεν αὐτόν, ἕως ἤνεγκεν αὐτῷ σκῆπτρα βασιλείας καὶ ἐξουσίαν τυραννούντων αὐτοῦ ·"
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "3.49",
+    "form": "συγκατέβη",
+    "postag": "v3saia---",
+    "sentence": "ὁ δὲ ἄγγελος Κυρίου συγκατέβη ἅμα τοῖς περὶ τὸν Ἀζαρίαν εἰς τὴν κάμινον καὶ ἐξετίναξε τὴν φλόγα τοῦ πυρὸς ἐκ τῆς καμίνου καὶ ἐποίησε τὸ μέσον τῆς καμίνου ὡς πνεῦμα δρόσου διασυρίζον, καὶ οὐχ ἥψατο αὐτῶν τὸ καθόλου τὸ πῦρ καὶ οὐκ ἐλύπησεν οὐ-δὲ παρηνώχλησεν αὐτοῖς."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1 συν-κατα-βαίνω    (Rec. συγκ-),    [in LXX: Ps 48 (49):17 (ירד), Wi 10:13, Da LXX TH 3:49 * ;]     to go down with: Ac 25:5. In late writers also metaph. (Wis, l.c.), to condescend, on wh. v. Rutherford, NPhr., 485 f.†"
+}

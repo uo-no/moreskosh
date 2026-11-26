@@ -1,0 +1,63 @@
+{
+ "strong": "G4375",
+ "lemma": "προσφιλής",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "PHP 4:8",
+   "form": "προσφιλῆ",
+   "morph": "A-NPN",
+   "gloss_en": "lovely",
+   "gloss_ja": "好ましい",
+   "verse": "Τὸ λοιπόν, ἀδελφοί, ὅσα ἐστὶν ἀληθῆ, ὅσα σεμνά, ὅσα δίκαια, ὅσα ἁγνά, ὅσα προσφιλῆ, ὅσα εὔφημα, εἴ τις ἀρετὴ καὶ εἴ τις ἔπαινος, ταῦτα λογίζεσθε·"
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Esther": 1,
+   "Ecclesiasticus sive Siracides": 1
+  },
+  "representatives": [
+   {
+    "work_code": "EST",
+    "work_ja": "エステル記",
+    "work_src": "Esther",
+    "ref": "5.1γ",
+    "form": "προσφιλές",
+    "postag": "a-s---nn-",
+    "sentence": "καὶ τῇ μὲν μιᾷ ἐπηρείδετο ὡς τρυφερευομένη, ἡ δὲ ἑτέρα ἐπηκολούθει κουφίζουσα τὴν ἔνδυσιν αὐτῆς, καὶ αὐτὴ ἐρυθριῶσα ἀκμῇ κάλλους αὐτῆς, καὶ τὸ πρόσωπον αὐτῆς ἱλαρὸν ὡς προσφιλές, ἡ δὲ καρδία αὐτῆς ἀπεστενωμένη ἀπὸ τοῦ φόβου."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "20.13",
+    "form": "προσφιλῆ",
+    "postag": "a-s---ma-",
+    "sentence": "ὁ σοφὸς ἐν λόγῳ ἑαυτὸν προσφιλῆ ποιήσει, χάριτες δὲ μωρῶν ἐκχυθήσονται."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "To Diognetus": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "11",
+    "form": "προσφιλὴς",
+    "postag": "a-s---mn-",
+    "sentence": "τίς γὰρ ὀρθῶς διδαχθεὶς καὶ λόγῳ προσφιλὴς γενηθεὶς οὐκ ἐπιζητεῖ σαφῶς μαθεῖν τὰ διὰ λόγου δειχθέντα φανερῶς μαθηταῖς, οἷς ἐφανέρωσεν ὁ λόγος φανείς, παρρησίᾳ λαλῶν, ὑπὸ ἀπίστων μὴ νοούμενος, μαθηταῖς δὲ διηγούμενος, οἳ πιστοὶ λογισθέντες ὑπ’ αὐτοῦ ἔγνωσαν πατρὸς μυστήρια;"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   ** προσφιλής, -ές    (< φιλέω),   [in LXX: Es 5:1, Si 4:7 20:13*;]      of persons, in both act. and pass. sense (LXX, Es 5:1, Si 4:7 20:13);     of things, pleasing, agreeable (EV, lovely): Phl 4:8.†"
+}

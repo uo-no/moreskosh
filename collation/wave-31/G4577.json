@@ -1,0 +1,89 @@
+{
+ "strong": "G4577",
+ "lemma": "σειρά",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2PE 2:4",
+   "form": "σειραῖς",
+   "morph": "N-DPF",
+   "gloss_en": "chains",
+   "gloss_ja": "鎖",
+   "verse": "Εἰ γὰρ ὁ θεὸς ἀγγέλων ἁμαρτησάντων οὐκ ἐφείσατο, ἀλλὰ σειραῖς ζόφου ταρταρώσας παρέδωκεν εἰς κρίσιν τηρουμένους,"
+  }
+ ],
+ "lxx": {
+  "total": 6,
+  "works": {
+   "Judices": 3,
+   "Regnorum iii": 1,
+   "Paralipomenon i sive Chronicon i": 1,
+   "Proverbia": 1
+  },
+  "representatives": [
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "16.19",
+    "form": "σειρὰς",
+    "postag": "n-p---fa-",
+    "sentence": "καὶ ἐκάλεσεν ἄνδρα, καὶ ἐξύρησε τὰς ἑπτὰ σειρὰς τῆς κεφαλῆς αὐτοῦ ·"
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "7.33",
+    "form": "Σειρά",
+    "postag": "n-s----g-",
+    "sentence": "ἐν τῷ περιοίκῳ τοῦ Ἰορδάνου ἐχώνευσεν αὐτὰ ἐν τῷ πάχει τῆς γῆς ἀνὰ μέσον Σοκχὼθ καὶ ἀνὰ μέσον Σειρά."
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "7.19",
+    "form": "Σεμιρά",
+    "postag": "n-s---fg-",
+    "sentence": "καὶ ἦσαν υἱοὶ Σεμιρά ·"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "5.22",
+    "form": "σειραῖς",
+    "postag": "n-p---fd-",
+    "sentence": "παρονομίαι ἄνδρα ἀγρεύουσι, σειραῖς δὲ τῶν ἑαυτοῦ ἁμαρτιῶν ἕκαστος σφίγγεται ·"
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "16.13",
+    "form": "σειρὰς",
+    "postag": "n-p---fa-",
+    "sentence": "ἐὰν ὑφάνης τὰς ἑπτὰ σειρὰς τῆς κεφαλῆς μου σὺν τῷ διάσματι καὶ ἐγκρούσῃς τῷ πασσάλῳ εἰς τὸν τοῖχον, καὶ ἔσομαι ὡς εἷς τῶν ἀνθρώπων ἀσθενής."
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "16.14",
+    "form": "σειρὰς",
+    "postag": "n-p---fa-",
+    "sentence": "καὶ ἐγένετο ἐν τῷ κοιμᾶσθαι αὐτὸν καὶ ἔλαβε Δαλιδὰ τὰς ἑπτὰ σειρὰς τῆς κεφαλῆς αὐτοῦ καὶ ὕφανεν ἐν τῷ διάσματι καὶ ἔπηξε τῷ πασσάλῳ εἰς τὸν τοῖχον καὶ εἶπεν ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   σειρά, -ᾶς, ἡ     [in LXX: Jg 16:13, 14, 19 (מַחְלָפוֺת), Pr 5:22 (חֶבֶל) * ;]         a cord;      a chain (cf. Pr., l.c.): σειραὶ ζόφου, II Pe 2:4, Rec., R, mg. (v.s. σειρός).    a lock of hair (Jg, ll. c.).†"
+}

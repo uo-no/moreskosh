@@ -1,0 +1,161 @@
+{
+ "strong": "G4372",
+ "lemma": "πρόσφατος",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "HEB 10:20",
+   "form": "πρόσφατον",
+   "morph": "A-ASF",
+   "gloss_en": "new",
+   "gloss_ja": "新しい",
+   "verse": "ἣν ἐνεκαίνισεν ἡμῖν ὁδὸν πρόσφατον καὶ ζῶσαν διὰ τοῦ καταπετάσματος, τοῦτ’ ἔστιν τῆς σαρκὸς αὐτοῦ,"
+  }
+ ],
+ "lxx": {
+  "total": 11,
+  "works": {
+   "Numeri": 1,
+   "Deuteronomium": 2,
+   "Judith": 2,
+   "Machabaeorum ii": 1,
+   "Psalmi": 1,
+   "Odae": 1,
+   "Ecclesiastes": 1,
+   "Ecclesiasticus sive Siracides": 1,
+   "Ezechiel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "32.17",
+    "form": "πρόσφατοι",
+    "postag": "a-p---mn-",
+    "sentence": "καινοὶ καὶ πρόσφατοι ἥκασιν, οὓς οὐκ ᾔδεισαν οἱ πατέρες αὐτῶν."
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "4.3",
+    "form": "προσφάτως",
+    "postag": "d--------",
+    "sentence": "ὅτι προσφάτως ἦσαν ἀναβεβηκότες ἐκ τῆς αἰχμαλωσίας, καὶ νεωστὶ πᾶς ὁ λαὸς συνελέλεκτο τῆς Ἰουδαίας, καὶ τὰ σκεύη καὶ τὸ θυσιαστήριον καὶ ὁ οἶκος ἐκ τῆς βεβηλώσεως ἡγιασμένα ἦν."
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "6.3",
+    "form": "πρόσφατον",
+    "postag": "a-s---fa-",
+    "sentence": "ἀνὴρ ἢ γυνή, ὃς ἐὰν μεγάλως εὔξηται εὐχὴν ἀφαγνίσασθαι ἁγνείαν Κυρίῳ, ἀπὸ οἴνου καὶ σίκερα ἁγνισθήσεται καὶ ὄξος ἐξ οἴνου καὶ ὄξος ἐκ σίκερα οὐ πίεται καὶ ὅσα κατεργάζεται ἐκ σταφυλῆς οὐ πίεται καὶ σταφυλὴν πρόσφατον καὶ σταφίδα οὐ φάγεται."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "14.36",
+    "form": "προσφάτως",
+    "postag": "d--------",
+    "sentence": "καὶ νῦν ἅγιε παντὸς ἁγιασμοῦ Κύριε, διατήρησον εἰς αἰῶνα ἀμίαντον τόνδε τὸν προσφάτως κεκαθαρισμένον οἶκον."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "80.10",
+    "form": "πρόσφατος",
+    "postag": "a-s---mn-",
+    "sentence": "ἄκουσον, λαός μου, καὶ διαμαρτύρομαί σοι, Ἰσραήλ, ἐὰν ἀκούσῃς μου, οὐκ ἔσται ἐν σοὶ Θεὸς πρόσφατος, οὐ-δὲ προσκυνήσεις Θεῷ ἀλλοτρίῳ ·"
+   },
+   {
+    "work_code": "ODE",
+    "work_ja": "頌歌（オード）",
+    "work_src": "Odae",
+    "ref": "2.17",
+    "form": "πρόσφατοι",
+    "postag": "a-p---mn-",
+    "sentence": "καινοὶ καὶ πρόσφατοι ἥκασιν, οὓς οὐκ ᾔδεισαν οἱ πατέρες αὐτῶν."
+   },
+   {
+    "work_code": "ECC",
+    "work_ja": "コヘレトの言葉",
+    "work_src": "Ecclesiastes",
+    "ref": "1.9",
+    "form": "πρόσφατον",
+    "postag": "a-s---nn-",
+    "sentence": "καί οὐκ ἔστι πᾶν πρόσφατον ὑπὸ τὸν ἥλιον."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "9.10",
+    "form": "πρόσφατος",
+    "postag": "a-s---mn-",
+    "sentence": "μὴ ἐγκαταλίπῃς φίλον ἀρχαῖον, ὁ γὰρ πρόσφατος οὐκ ἔστιν ἔπισος αὐτῷ ·"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "11.3",
+    "form": "προσφάτως",
+    "postag": "d--------",
+    "sentence": "οὐχὶ προσφάτως ᾠκοδόμηνται αἱ οἰκίαι;"
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "24.5",
+    "form": "προσφάτως",
+    "postag": "d--------",
+    "sentence": "ἐὰν δέ τις λάβῃ γυναῖκα προσφάτως, οὐκ ἐξελεύσεται εἰς πόλεμον, καὶ οὐκ ἐπιβληθήσεται αὐτῷ οὐδὲν πρᾶγμα ·"
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "4.5",
+    "form": "προσφάτως",
+    "postag": "d--------",
+    "sentence": "καὶ ἀπέστειλαν εἰς πᾶν ὅριον Σαμαρείας καὶ Κωνὰ καὶ Βαιθωρὼν καὶ Βελμαὶν καὶ Ἱεριχὼ καὶ εἰς Χωβὰ καὶ Αἰσωρὰ καὶ τὸν αὐλῶνα Σαλὴμ καὶ προκατελάβοντο πάσας τὰς κορυφὰς τῶν ὀρέων τῶν ὑψηλῶν καὶ ἐτειχίσαντο τὰς ἐν αὐτοῖς κώμας καὶ παρέθεντο εἰς ἐπισιτισμὸν εἰς παρασκευὴν πολέμου, ὅτι προσφάτως ἦν τὰ πεδία αὐτῶν τεθερισμένα."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "Hermas, Pastor": 1,
+   "Martyrdom of Polycarp": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.2.2",
+    "form": "πρόσφατος",
+    "postag": "a-s---fn-",
+    "sentence": "ὡς πρόσφατος δὲ ἐδόκει μοι εἶναι ἡ ἐκκόλαψις τῆς πύλης."
+   },
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "4.1",
+    "form": "προσφάτως",
+    "postag": "d--------",
+    "sentence": "εἷς δέ, ὀνόματι Κόϊντος, Φρύξ προσφάτως ἐληλυθὼς ἀπὸ τῆς Φρυγίας, ἰδὼν τὰ θηρία ἐδειλίασεν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   πρόσφατος, -ον    (on the derivation, v. Boisacq, s.v. and cf. -ως),   [in LXX: Nu 6:3 (לַח), De 32:17, Ec 1:9 (חָדָשׁ), Ps 80 (81):9 (זוּר), Si 9:10*;]      originally, freshly slain.     Generally (from Æsch. on), new, fresh, recent: ὁδός, He 10:20 (v. MM, Exp., xxi; Rutherford, NPhr., 471 f.).†"
+}

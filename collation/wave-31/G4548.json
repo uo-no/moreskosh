@@ -1,0 +1,71 @@
+{
+ "strong": "G4548",
+ "lemma": "σανίς",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 27:44",
+   "form": "σανίσιν",
+   "morph": "N-DPF",
+   "gloss_en": "planks",
+   "gloss_ja": "板",
+   "verse": "καὶ τοὺς λοιποὺς οὓς μὲν ἐπὶ σανίσιν οὓς δὲ ἐπί τινων τῶν ἀπὸ τοῦ πλοίου· καὶ οὕτως ἐγένετο πάντας διασωθῆναι ἐπὶ τὴν γῆν."
+  }
+ ],
+ "lxx": {
+  "total": 4,
+  "works": {
+   "Regnorum iv": 1,
+   "Paralipomenon i sive Chronicon i": 1,
+   "Canticum": 1,
+   "Ezechiel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "12.10",
+    "form": "σανίδος",
+    "postag": "n-s---fg-",
+    "sentence": "καὶ ἔλαβεν Ἰωδαὲ ὁ ἱερεὺς κιβωτὸν μίαν καὶ ἔτρησε τρώγλην ἐπὶ τῆς σανίδος αὐτῆς καὶ ἔδωκεν αὐτὴν παρὰ ἀμμαζειβὶ ἐν τῷ οἴκῳ ἀνδρὸς οἴκου Κυρίου, καὶ ἔδωκαν οἱ ἱερεῖς οἱ φυλάσσοντες τὸν σταθμὸν πᾶν τὸ ἀργύριον τὸ εὑρεθὲν ἐν οἴκῳ Κυρίου."
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "6.13",
+    "form": "Σανὶ",
+    "postag": "n-s---mn-",
+    "sentence": "ὁ πρωτότοκος Σανὶ καὶ Ἀβιά."
+   },
+   {
+    "work_code": "SNG",
+    "work_ja": "雅歌",
+    "work_src": "Canticum",
+    "ref": "8.9",
+    "form": "σανίδα",
+    "postag": "n-s---fa-",
+    "sentence": "καὶ εἰ θύρα ἐστί, διαγράψωμεν ἐπ’ αὐτὴν σανίδα κεδρίνην."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "27.5",
+    "form": "σανίδων",
+    "postag": "n-p---fg-",
+    "sentence": "κέδρος ἐκ Σανεὶρ ᾠκοδομήθη σοι, ταινίαι σανίδων κυπαρίσσου ἐκ τοῦ Λιβάνου ἐλήφθησαν τοῦ ποιῆσαί σοι ἱστοὺς ἐλατίνους ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   σανίς, -ίδος, ἡ     [in LXX: Ca 8:9, Ez 27:5 (לוּחַ) * ;]     a board, plank: Ac 27:44"
+}

@@ -1,0 +1,71 @@
+{
+ "strong": "G4647",
+ "lemma": "σκόλοψ",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2CO 12:7",
+   "form": "σκόλοψ",
+   "morph": "N-NSM",
+   "gloss_en": "thorn",
+   "gloss_ja": "とげ",
+   "verse": "καὶ τῇ ὑπερβολῇ τῶν ἀποκαλύψεων. διὸ ἵνα μὴ ὑπεραίρωμαι, ἐδόθη μοι σκόλοψ τῇ σαρκί, ἄγγελος Σατανᾶ, ἵνα με κολαφίζῃ, ἵνα μὴ ὑπεραίρωμαι."
+  }
+ ],
+ "lxx": {
+  "total": 4,
+  "works": {
+   "Numeri": 1,
+   "Ecclesiasticus sive Siracides": 1,
+   "Osee": 1,
+   "Ezechiel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "33.55",
+    "form": "σκόλοπες",
+    "postag": "n-p---mn-",
+    "sentence": "ἐὰν δὲ μὴ ἀπολέσητε τοὺς κατοικοῦντας ἐπὶ τῆς γῆς ἀπὸ προσώπου ὑμῶν, καὶ ἔσται οὓς ἐὰν καταλίπητε ἐξ αὐτῶν, σκόλοπες ἐν τοῖς ὀφθαλμοῖς ὑμῶν καὶ βολίδες ἐν ταῖς πλευραῖς ὑμῶν καὶ ἐχθρεύσουσιν ὑμῖν ἐπὶ τῆς γῆς, ἐφ’ ἣν ὑμεῖς κατοικήσετε, καὶ ἔσται καθότι διεγνώκειν ποιῆσαι αὐτούς, ποιήσω ὑμᾶς."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "43.19",
+    "form": "σκολόπων",
+    "postag": "n-p---mg-",
+    "sentence": "καὶ πάχνην ὡς ἅλα ἐπὶ γῆς χέει, καὶ παγεῖσα γίνεται σκολόπων ἄκρα."
+   },
+   {
+    "work_code": "HOS",
+    "work_ja": "ホセア書",
+    "work_src": "Osee",
+    "ref": "2.8",
+    "form": "σκόλοψι",
+    "postag": "n-p---md-",
+    "sentence": "διὰ τοῦτο ἰδοὺ ἐγὼ φράσσω τὴν ὁδὸν αὐτῆς ἐν σκόλοψι καὶ ἀνοικοδομήσω τὰς ὁδούς, καὶ τὴν τρίβον αὐτῆς οὐ μὴ εὕρῃ ·"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "28.24",
+    "form": "σκόλοψ",
+    "postag": "n-s---mn-",
+    "sentence": "— καὶ οὐκ ἔσονται οὐκέτι ἐν τῷ οἴκῳ τοῦ Ἰσραὴλ σκόλοψ πικρίας καὶ ἄκανθα ὀδύνης ἀπὸ πάντων τῶν περικύκλῳ αὐτῶν τῶν ἀτιμασάντων αὐτούς ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   σκόλοψ, -οπος, ὁ     [in LXX: Nu 33:55 (שֵׂךְ), Ho 2:6 (8) (סִיר), Ez 28:24 (סִלּוֹן), Si 43:19 * ;]     anything pointed, esp.    in cl., a stake    In Hellenistic vernacular, a thorn (cf. LXX, ll. c.): σ. τῇ σαρκί, II Co 12:7   (cf. MM, i., xxiii; DB, iii, 700 f.; Deiss., St. Paul, 62 f.; Field, Notes, 187).†"
+}
