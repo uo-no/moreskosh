@@ -1,0 +1,157 @@
+{
+ "strong": "G2427",
+ "lemma": "ἱκανόω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2CO 3:6",
+   "form": "ἱκάνωσεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "made ~ competent",
+   "gloss_ja": "十分にする",
+   "verse": "ὃς καὶ ἱκάνωσεν ἡμᾶς διακόνους καινῆς διαθήκης, οὐ γράμματος ἀλλὰ πνεύματος, τὸ γὰρ γράμμα ἀποκτέννει, τὸ δὲ πνεῦμα ζῳοποιεῖ."
+  },
+  {
+   "ref": "COL 1:12",
+   "form": "ἱκανώσαντι",
+   "morph": "V-AAP-DSM",
+   "gloss_en": "qualified",
+   "gloss_ja": "十分にする",
+   "verse": "εὐχαριστοῦντες τῷ πατρὶ τῷ ἱκανώσαντι ὑμᾶς εἰς τὴν μερίδα τοῦ κλήρου τῶν ἁγίων ἐν τῷ φωτί,"
+  }
+ ],
+ "lxx": {
+  "total": 15,
+  "works": {
+   "Genesis": 1,
+   "Numeri": 1,
+   "Deuteronomium": 3,
+   "Regnorum iii": 3,
+   "Paralipomenon i sive Chronicon i": 1,
+   "Esther": 1,
+   "Canticum": 1,
+   "Psalmi Salomonis": 1,
+   "Malachias": 1,
+   "Ezechiel": 2
+  },
+  "representatives": [
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "1.6",
+    "form": "ἱκανούσθω",
+    "postag": "v3spmm---",
+    "sentence": "ἱκανούσθω ὑμῖν κατοικεῖν ἐν τῷ ὄρει τούτῳ ·"
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "12.28",
+    "form": "ἱκανούσθω",
+    "postag": "v3spmm---",
+    "sentence": "ἱκανούσθω ὑμῖν ἀναβαίνειν εἰς Ἱερουσαλήμ ·"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "45.9",
+    "form": "ἱκανούσθω",
+    "postag": "v3spmm---",
+    "sentence": "ἱκανούσθω ὑμῖν, οἱ ἀφηγούμενοι τοῦ Ἰσραήλ ·"
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "32.10",
+    "form": "ἱκανούσθω",
+    "postag": "v3spmm---",
+    "sentence": "ὁ Θεὸς τοῦ πατρός μου Ἁβραὰμ καὶ ὁ Θεὸς τοῦ πατρός μου Ἰσαάκ, Κύριε σὺ ὁ εἰπών μοι, ἀπότρεχε εἰς τὴν γῆν τῆς γενέσεώς σου καὶ εὖ σε ποιήσω, ἱκανούσθω μοι ἀπὸ πάσης δικαιοσύνης καὶ ἀπὸ πάσης ἀληθείας, ἧς ἐποίησας τῷ παιδί σου ·"
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "16.7",
+    "form": "ἱκανούσθω",
+    "postag": "v3spmm---",
+    "sentence": "ἱκανούσθω ὑμῖν υἱοὶ Λευί."
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "21.15",
+    "form": "ἱκανούσθω",
+    "postag": "v3spmm---",
+    "sentence": "ἱκανούσθω σοι, ἄνες τὴν χεῖρά σου ·"
+   },
+   {
+    "work_code": "EST",
+    "work_ja": "エステル記",
+    "work_src": "Esther",
+    "ref": "4.17ξ",
+    "form": "ἱκανώθησαν",
+    "postag": "v3paip---",
+    "sentence": "καὶ νῦν οὐκ ἱκανώθησαν ἐν πικρασμῷ δουλείας ἡμῶν, ἀλλ’ ἔθηκαν τὰς χεῖρας αὐτῶν ἐπὶ τὰς χεῖρας τῶν εἰδώλων αὐτῶν ἐξάραι ὁρισμὸν στόματός σου καὶ ἀφανίσαι κληρονομίαν σου καὶ ἐμφράξαι στόμα αἰνούντων σοι καὶ σβέσαι δόξαν οἴκου σου καὶ θυσιαστηρίου σου, καὶ ἀνοῖξαι στόμα ἐθνῶν εἰς ἀρετὰς ματαίων καὶ θαυμασθῆναι βασιλέα σάρκινον εἰς αἰῶνα."
+   },
+   {
+    "work_code": "SNG",
+    "work_ja": "雅歌",
+    "work_src": "Canticum",
+    "ref": "7.10",
+    "form": "ἱκανούμενος",
+    "postag": "v-sppmmn-",
+    "sentence": "ἀναβήσομαι ἐπὶ τῷ φοίνικι, κρατήσω τῶν ὕψεων αὐτοῦ, καὶ ἔσονται δὴ μαστοί σου ὡς βότρυες τῆς ἀμπέλου καὶ ὀσμὴ ρινός σου ὡς μῆλα καὶ ὁ λάρυγξ σου ὡς οἶνος ὁ ἀγαθός, πορευόμενος τῷ ἀδελφιδῷ μου εἰς εὐθύτητα, ἱκανούμενος χείλεσί μου καὶ ὀδοῦσιν."
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "2.22",
+    "form": "Ἱκάνωσον",
+    "postag": "v2sama---",
+    "sentence": "καὶ ἐγὼ εἶδον καὶ ἐδεήθην τοῦ προσώπου κυρίου καὶ εἶπον Ἱκάνωσον, κύριε, τοῦ βαρύνεσθαι χεῖρά σου ἐπὶ Ιερουσαλημ ἐν ἐπαγωγῇ ἐθνῶν ·"
+   },
+   {
+    "work_code": "MAL",
+    "work_ja": "マラキ書",
+    "work_src": "Malachias",
+    "ref": "3.10",
+    "form": "ἱκανωθῆναι",
+    "postag": "v--anp---",
+    "sentence": "ἐπιστρέψατε δὴ ἐν τούτῳ, λέγει Κύριος παντοκράτωρ, ἐὰν μὴ ἀνοίξω ὑμῖν τοὺς καταρράκτας τοῦ οὐρανοῦ καὶ ἐκχεῶ τὴν εὐλογίαν μου ὑμῖν ἕως τοῦ ἱκανωθῆναι."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "3.26",
+    "form": "ἱκανούσθω",
+    "postag": "v3spmm---",
+    "sentence": "ἱκανούσθω σοι, μὴ προσθῇς ἔτι λαλῆσαι τὸν λόγον τοῦτον ·"
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "19.4",
+    "form": "ἱκανούσθω",
+    "postag": "v3spmm---",
+    "sentence": "ἱκανούσθω νῦν, λαβὲ δὴ τὴν ψυχή μου ἀπ’ ἐμοῦ, Κύριε, ὅτι οὐ κρείσσων ἐγώ εἰμι ὑπὲρ τοὺς πατέρας μου."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   † ἱκανόω, -ῶ    (< ἱκανός),   [in LXX chiefly for רַב;]    to make sufficient, render fit: c. dupl. acc., II Co 3:6; c. acc. pers. seq. εἰς, Col 1:12.†"
+}

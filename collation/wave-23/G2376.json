@@ -1,0 +1,165 @@
+{
+ "strong": "G2376",
+ "lemma": "θυρίς",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2CO 11:33",
+   "form": "θυρίδος",
+   "morph": "N-GSF",
+   "gloss_en": "window",
+   "gloss_ja": "窓",
+   "verse": "καὶ διὰ θυρίδος ἐν σαργάνῃ ἐχαλάσθην διὰ τοῦ τείχους καὶ ἐξέφυγον τὰς χεῖρας αὐτοῦ."
+  },
+  {
+   "ref": "ACT 20:9",
+   "form": "θυρίδος",
+   "morph": "N-GSF",
+   "gloss_en": "window",
+   "gloss_ja": "窓",
+   "verse": "καθεζόμενος δέ τις νεανίας ὀνόματι Εὔτυχος ἐπὶ τῆς θυρίδος, καταφερόμενος ὕπνῳ βαθεῖ διαλεγομένου τοῦ Παύλου ἐπὶ πλεῖον, κατενεχθεὶς ἀπὸ τοῦ ὕπνου ἔπεσεν ἀπὸ τοῦ τριστέγου κάτω καὶ ἤρθη νεκρός."
+  }
+ ],
+ "lxx": {
+  "total": 36,
+  "works": {
+   "Genesis": 2,
+   "Josue": 2,
+   "Judices": 1,
+   "Regnorum i": 1,
+   "Regnorum ii": 1,
+   "Regnorum iii": 1,
+   "Regnorum iv": 3,
+   "Paralipomenon i sive Chronicon i": 1,
+   "Tobias": 2,
+   "Machabaeorum ii": 1,
+   "Proverbia": 1,
+   "Canticum": 1,
+   "Ecclesiasticus sive Siracides": 1,
+   "Joel": 1,
+   "Isaias": 1,
+   "Jeremias": 2,
+   "Ezechiel": 12,
+   "Daniel": 2
+  },
+  "representatives": [
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "40.29",
+    "form": "θυρίδες",
+    "postag": "n-p---fn-",
+    "sentence": "καὶ θυρίδες αὐτῇ καὶ τῷ αἰλαμμὼ κύκλῳ ·"
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "13.17",
+    "form": "θυρίδα",
+    "postag": "n-s---fa-",
+    "sentence": "ἄνοιξον τὴν θυρίδα κατ’ ἀνατολάς ·"
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "26.8",
+    "form": "θυρίδος",
+    "postag": "n-s---fg-",
+    "sentence": "παρακύψας δὲ Ἀβιμέλεχ ὁ βασιλεὺς Γεράρων διὰ τῆς θυρίδος, εἶδε τὸν Ἰσαὰκ παίζοντα μετὰ Ῥεβέκκας τῆς γυναικὸς αὐτοῦ."
+   },
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "2.15",
+    "form": "θυρίδος",
+    "postag": "n-s---fg-",
+    "sentence": "καὶ κατεχάλασεν αὐτοὺς διὰ τῆς θυρίδος καὶ εἶπεν αὐτοῖς ·"
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "3.11",
+    "form": "θυρίδι",
+    "postag": "n-s---fd-",
+    "sentence": "καὶ ἐδεήθη πρὸς τῇ θυρίδι καὶ εἶπεν ·"
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "22.14",
+    "form": "θυρίσι",
+    "postag": "n-p---fd-",
+    "sentence": "ᾠκοδόμησας σεαυτῷ οἶκον σύμμετρον, ὑπερῷα ριπιστὰ διεσταλμένα θυρίσι καὶ ἐξυλωμένα ἐν κέδρῳ καὶ κεχρισμένα ἐν μίλτῳ."
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "6.11",
+    "form": "θυρίδας",
+    "postag": "n-p---fa-",
+    "sentence": "ἐπιγνοὺς δὲ Δανιηλ τὸν ὁρισμόν, ὃν ἔστησε κατ’ αὐτοῦ, θυρίδας ἤνοιξεν ἐν τῷ ὑπερῴῳ αὐτοῦ κατέναντι Ιερουσαλημ καὶ ἔπιπτεν ἐπὶ πρόσωπον αὐτοῦ τρὶς τῆς ἡμέρας, καθὼς ἐποίει ἔμπροσθεν, καὶ ἐδεῖτο."
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "5.28",
+    "form": "θυρίδος",
+    "postag": "n-s---fg-",
+    "sentence": "διὰ τῆς θυρίδος παρέκυψε μήτηρ Σισάρα ἐκτὸς τοῦ τοξικοῦ, διότι ἠσχύνθη ἅρμα αὐτοῦ, διότι ἐχρόνισαν πόδες ἁρμάτων αὐτοῦ."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "19.12",
+    "form": "θυρίδος",
+    "postag": "n-s---fg-",
+    "sentence": "καὶ κατάγει ἡ Μελχὸλ τὸν Δαυὶδ διὰ τῆς θυρίδος, καὶ ἀπῆλθε καὶ ἔφυγε καὶ σώζεται."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "6.16",
+    "form": "θυρίδος",
+    "postag": "n-s---fg-",
+    "sentence": "καὶ ἐγένετο τῆς κιβωτοῦ παραγινομένης ἕως πόλεως Δαυὶδ καὶ Μελχὸλ ἡ θυγάτηρ Σαοὺλ διέκυπτε διὰ τῆς θυρίδος καὶ εἶδε τὸν βασιλέα Δαυὶδ ὀρχούμενον καὶ ἀνακρουόμενον ἐνώπιον Κυρίου καὶ ἐξουδένωσεν αὐτὸν ἐν τῇ καρδίᾳ αὐτῆς."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "6.4",
+    "form": "θυρίδας",
+    "postag": "n-p---fa-",
+    "sentence": "καὶ ἐποίησε τῷ οἴκῳ θυρίδας παρακυπτομένας κρυπτάς."
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "15.29",
+    "form": "θυρίδος",
+    "postag": "n-s---fg-",
+    "sentence": "καὶ ἐγένετο ἡ κιβωτὸς διαθήκης Κυρίου καὶ ἦλθεν ἕως πόλεως Δαυίδ, καὶ Μελχὸλ ἡ θυγάτηρ Σαοὺλ παρέκυψε διὰ τῆς θυρίδος καὶ εἶδε τὸν βασιλέα Δαυὶδ ὀρχούμενον καὶ παίζοντα, καὶ ἐξουδένωσεν αὐτὸν ἐν τῇ ψυχῇ αὐτῆς."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   θυρίς, -ίδος, ἡ    (dim. of θύρα),   [in LXX chiefly for חַלּוֹן;]    a window: Ac 20:9, II Co 11:33.†"
+}

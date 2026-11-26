@@ -1,0 +1,177 @@
+{
+ "strong": "G1625",
+ "lemma": "ἐκτρέφω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "EPH 6:4",
+   "form": "ἐκτρέφετε",
+   "morph": "V-PAM-2P",
+   "gloss_en": "bring ~ up",
+   "gloss_ja": "育てる",
+   "verse": "Καὶ οἱ πατέρες, μὴ παροργίζετε τὰ τέκνα ὑμῶν, ἀλλὰ ἐκτρέφετε αὐτὰ ἐν παιδείᾳ καὶ νουθεσίᾳ κυρίου."
+  },
+  {
+   "ref": "EPH 5:29",
+   "form": "ἐκτρέφει",
+   "morph": "V-PAI-3S",
+   "gloss_en": "nourishes",
+   "gloss_ja": "育てる",
+   "verse": "οὐδεὶς γάρ ποτε τὴν ἑαυτοῦ σάρκα ἐμίσησεν, ἀλλὰ ἐκτρέφει καὶ θάλπει αὐτήν, καθὼς καὶ ὁ Χριστὸς τὴν ἐκκλησίαν,"
+  }
+ ],
+ "lxx": {
+  "total": 27,
+  "works": {
+   "Genesis": 3,
+   "Regnorum ii": 1,
+   "Regnorum iii": 3,
+   "Regnorum iv": 1,
+   "Paralipomenon ii sive Chronicon ii": 1,
+   "Esdras i": 2,
+   "Tobias": 1,
+   "Machabaeorum i": 3,
+   "Machabaeorum ii": 1,
+   "Psalmi": 1,
+   "Proverbia": 1,
+   "Job": 2,
+   "Osee": 1,
+   "Jonas": 1,
+   "Zacharias": 1,
+   "Isaias": 2,
+   "Baruch": 1,
+   "Ezechiel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "45.7",
+    "form": "ἐκθρέψαι",
+    "postag": "v--ana---",
+    "sentence": "ἀπέστειλε γάρ με ὁ Θεὸς ἔμπροσθεν ὑμῶν, ὑπολείπεσθαι ὑμῖν κατάλειμμα ἐπὶ τῆς γῆς καὶ ἐκθρέψαι ὑμῶν κατάλειψιν μεγάλην."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "12.10",
+    "form": "ἐκτραφέντα",
+    "postag": "v-pappnn-",
+    "sentence": "καὶ ἐλάλησαν πρὸς αὐτὸν τὰ παιδάρια τὰ ἐκτραφέντα μετ’ αὐτοῦ, οἱ παρεστηκότες πρὸ προσώπου αὐτοῦ λέγοντες ·"
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "6.17",
+    "form": "ἐξέθρεψε",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἐπέγνω Λυσίας ὅτι τέθνηκεν ὁ βασιλεύς, καὶ κατέστησε βασιλεύειν Ἀντίοχον τὸν υἱὸν αὐτοῦ ἀντ’ αὐτοῦ, ὃν ἐξέθρεψε νεώτερον, καὶ ἐκάλεσε τὸ ὄνομα αὐτοῦ Εὐπάτορα."
+   },
+   {
+    "work_code": "1ES",
+    "work_ja": "エズラ記（ギリシャ語）",
+    "work_src": "Esdras i",
+    "ref": "4.16",
+    "form": "ἐξέθρεψαν",
+    "postag": "v3paia---",
+    "sentence": "καὶ ἐξ αὐτῶν ἐγένοντο, καὶ αὗται ἐξέθρεψαν αὐτοὺς τοὺς φυτεύσαντας τοὺς ἀμπελῶνας, ἐξ ὧν ὁ οἶνος γίνεται."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "39.3",
+    "form": "ἐξέθρεψας",
+    "postag": "v2saia---",
+    "sentence": "ἐξέθρεψας δὲ αὐτῶν τὰ παιδία ἔξω φόβου;"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "49.21",
+    "form": "ἐξέθρεψέ",
+    "postag": "v3saia---",
+    "sentence": "ἐγὼ δὲ ἄτεκνος καὶ χήρα, τούτους δὲ τίς ἐξέθρεψέ μοι;"
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "12.3",
+    "form": "ἐξέθρεψεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ τῷ πλουσίῳ ἦν ποίμνια καὶ βουκόλια πολλὰ σφόδρα, καὶ τῷ πένητι οὐδὲν ἀλλ’ ἢ ἀμνὰς μία μικρά, ἣν ἐκτήσατο καὶ περιεποίησατο καὶ ἐξέθρεψεν αὐτὴν καὶ ἡδρύνθη μετ’ αὐτοῦ καὶ μετὰ τῶν υἱῶν αὐτοῦ ἐπὶ τὸ αὐτό, ἐκ τοῦ ἄρτου αὐτοῦ ἤσθιε καὶ ἐκ τοῦ ποτηρίου αὐτοῦ ἔπινε καὶ ἐν τῷ κόλπῳ αὐτοῦ ἐκάθευδε καὶ ἦν αὐτῷ ὡς θυγάτηρ ·"
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "10.6",
+    "form": "ἐξέτρεφον",
+    "postag": "v3piia---",
+    "sentence": "οὗτοι ἁδροὶ τῆς πόλεως ἐξέτρεφον αὐτούς."
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "10.10",
+    "form": "ἐκτραφέντα",
+    "postag": "v-pappna-",
+    "sentence": "καὶ ἐλάλησαν αὐτῷ τὰ παιδάρια τὰ ἐκτραφέντα μετ’ αὐτοῦ λέγοντες ·"
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "14.10",
+    "form": "ἐκθρέψαντι",
+    "postag": "v-sapamd-",
+    "sentence": "ἰδέ, παιδίον, ὅσα Ναδαβ ἐποίησεν Αχικάρῳ τῷ ἐκθρέψαντι αὐτόν ·"
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "7.27",
+    "form": "ἐκθρέψασάν",
+    "postag": "v-sapafa-",
+    "sentence": "υἱέ, ἐλέησόν με τὴν ἐν γαστρὶ περιενέγκασάν σε μῆνας ἐννέα καὶ θηλάσασάν σε ἔτη τρία καὶ ἐκθρέψασάν σε καὶ ἀγαγοῦσαν εἰς τὴν ἡλικίαν ταύτην καὶ τροφοφορήσασαν."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "22.2",
+    "form": "ἐξέθρεψέ",
+    "postag": "v3saia---",
+    "sentence": "εἰς τόπον χλόης, ἐκεῖ με κατεσκήνωσεν, ἐπὶ ὕδατος ἀναπαύσεως ἐξέθρεψέ με, τὴν ψυχήν μου ἐπέστρεψεν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "3.9.1",
+    "form": "ἐξέθρεψα",
+    "postag": "v1saia---",
+    "sentence": "ἐγὼ ὑμᾶς ἐξέθρεψα ἐν πολλῇ ἁπλότητι καὶ ἀκακίᾳ καὶ σεμνότητι διὰ τὸ ἔλεος τοῦ κυρίου τοῦ ἐφ’ ὑμᾶς στάξαντος τὴν δικαιοσύνην, ἵνα δικαιωθῆτε καὶ ἁγιασθῆτε ἀπὸ πάσης πονηρίας καὶ ἀπὸ πάσης σκολιότητος ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   ἐκ-τρέφω     [in LXX for גָּדַל, etc. ;]     prop., of children, to nurture, bring up: Eph 6:4.    to nourish: Eph 5:29.†"
+}

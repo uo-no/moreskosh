@@ -1,0 +1,78 @@
+{
+ "strong": "G2282",
+ "lemma": "θάλπω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1TH 2:7",
+   "form": "θάλπῃ",
+   "morph": "V-PAS-3S",
+   "gloss_en": "cherishes",
+   "gloss_ja": "温める",
+   "verse": "δυνάμενοι ἐν βάρει εἶναι ὡς Χριστοῦ ἀπόστολοι· ἀλλὰ ἐγενήθημεν ἤπιοι ἐν μέσῳ ὑμῶν, ὡς ἐὰν τροφὸς θάλπῃ τὰ ἑαυτῆς τέκνα·"
+  },
+  {
+   "ref": "EPH 5:29",
+   "form": "θάλπει",
+   "morph": "V-PAI-3S",
+   "gloss_en": "cherishes",
+   "gloss_ja": "温める",
+   "verse": "οὐδεὶς γάρ ποτε τὴν ἑαυτοῦ σάρκα ἐμίσησεν, ἀλλὰ ἐκτρέφει καὶ θάλπει αὐτήν, καθὼς καὶ ὁ Χριστὸς τὴν ἐκκλησίαν,"
+  }
+ ],
+ "lxx": {
+  "total": 4,
+  "works": {
+   "Deuteronomium": 1,
+   "Regnorum iii": 2,
+   "Job": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "1.4",
+    "form": "θάλπουσα",
+    "postag": "v-sppafn-",
+    "sentence": "καὶ ἦν θάλπουσα τὸν βασιλέα καὶ ἐλειτούργει αὐτῷ, καὶ ὁ βασιλεὺς οὐκ ἔγνω αὐτήν."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "22.6",
+    "form": "θάλπῃ",
+    "postag": "v3spsa---",
+    "sentence": "ἐὰν δὲ συναντήσῃς νοσσιᾷ ὀρνέων πρὸ προσώπου σου ἐν τῇ ὁδῷ ἢ ἐπὶ παντὶ δένδρῳ ἢ ἐπὶ τῆς γῆς, νεοσσοῖς ἢ ὠοῖς, καὶ ἡ μήτηρ θάλπῃ ἐπὶ τῶν νεοσσῶν ἢ ἐπὶ τῶν ὠῶν, οὐ λήψῃ τὴν μητέρα μετὰ τῶν τέκνων ·"
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "39.14",
+    "form": "θάλψει",
+    "postag": "v3sfia---",
+    "sentence": "ὅτι ἀφήσει εἰς γῆν τὰ ὠὰ αὐτῆς καὶ ἐπὶ χοῦν θάλψει καὶ ἐπελάθετο ὅτι ποὺς σκορπιεῖ καὶ θηρία ἀγροῦ καταπατήσει ·"
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "1.2",
+    "form": "θάλπουσαν",
+    "postag": "v-sppafa-",
+    "sentence": "ζητησάτωσαν τῷ βασιλεῖ παρθένον νεάνιδα, καὶ παραστήσεται τῷ βασιλεῖ καὶ ἔσται αὐτὸν θάλπουσαν καὶ κοιμηθήσεται μετ’ αὐτοῦ καὶ θερμανθήσεται ὁ κύριός μου ὁ βασιλεύς."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   θάλπω,    [in LXX for סכן, etc.;]      to heat, warm; metaph.,     to inflame (Trag.);     to foster, cherish: Eph 5:29, I Th 2:7.†"
+}

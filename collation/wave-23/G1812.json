@@ -1,0 +1,174 @@
+{
+ "strong": "G1812",
+ "lemma": "ἑξακόσιοι",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "REV 13:18",
+   "form": "ἑξακόσιοι",
+   "morph": "A-NPM",
+   "gloss_en": "six hundred",
+   "gloss_ja": "六百",
+   "verse": "ὧδε ἡ σοφία ἐστίν· ὁ ἔχων νοῦν ψηφισάτω τὸν ἀριθμὸν τοῦ θηρίου, ἀριθμὸς γὰρ ἀνθρώπου ἐστίν· καὶ ὁ ἀριθμὸς αὐτοῦ ἑξακόσιοι ἑξήκοντα ἕξ."
+  },
+  {
+   "ref": "REV 14:20",
+   "form": "ἑξακοσίων",
+   "morph": "A-GPM",
+   "gloss_en": "six hundred",
+   "gloss_ja": "六百",
+   "verse": "καὶ ἐπατήθη ἡ ληνὸς ἔξωθεν τῆς πόλεως, καὶ ἐξῆλθεν αἷμα ἐκ τῆς ληνοῦ ἄχρι τῶν χαλινῶν τῶν ἵππων ἀπὸ σταδίων χιλίων ἑξακοσίων."
+  }
+ ],
+ "lxx": {
+  "total": 75,
+  "works": {
+   "Genesis": 1,
+   "Exodus": 2,
+   "Numeri": 13,
+   "Judices": 4,
+   "Regnorum i": 6,
+   "Regnorum ii": 2,
+   "Regnorum iii": 3,
+   "Paralipomenon i sive Chronicon i": 4,
+   "Paralipomenon ii sive Chronicon ii": 10,
+   "Esdras i": 8,
+   "Esdras ii": 15,
+   "Machabaeorum i": 1,
+   "Machabaeorum ii": 3,
+   "Machabaeorum iv": 1,
+   "Ecclesiasticus sive Siracides": 2
+  },
+  "representatives": [
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "17.16",
+    "form": "ἑξακόσιοι",
+    "postag": "m-p---mn-",
+    "sentence": "υἱοὶ Βηβὶ ἑξακόσιοι εἰκοσιοκτώ ·"
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "11.21",
+    "form": "ἑξακόσιαι",
+    "postag": "m-p---fn-",
+    "sentence": "ἑξακόσιαι χιλιάδες πεζῶν ὁ λαός, ἐν οἷς εἰμι ἐν αὐτοῖς."
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "1.17",
+    "form": "ἑξακοσίων",
+    "postag": "m-p---ng-",
+    "sentence": "καὶ ἀνέβαινον καὶ ἐξῆγον ἐξ Αἰγύπτου ἅρμα ἓν ἑξακοσίων ἀργυρίου καὶ ἵππον πεντήκοντα καὶ ἑκατὸν ἀργυρίου ·"
+   },
+   {
+    "work_code": "1ES",
+    "work_ja": "エズラ記（ギリシャ語）",
+    "work_src": "Esdras i",
+    "ref": "1.8",
+    "form": "ἑξακόσια",
+    "postag": "m-p---na-",
+    "sentence": "καὶ ἔδωκε Χελκίας καὶ Ζαχαρίας καὶ Ἡσκῆλος οἱ ἐπιστάται τοῦ ἱεροῦ τοῖς ἱερεῦσιν εἰς πάσχα πρόβατα δισχίλια ἑξακόσια, μόσχους τριακοσίους."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "11.8",
+    "form": "ἑξακοσίας",
+    "postag": "m-p---fa-",
+    "sentence": "καὶ ἐπισκέπτεται αὐτοὺς Ἀβιεζὲκ ἐν Βαμᾷ, πάντα ἄνδρα Ἰσραὴλ ἑξακοσίας χιλιάδας καὶ ἄνδρας Ἰούδα ἑβδομήκοντα χιλιάδας."
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "3.31",
+    "form": "ἑξακοσίους",
+    "postag": "m-p---ma-",
+    "sentence": "καὶ μετ’ αὐτὸν ἀνέστη Σαμεγὰρ υἱὸς Δινὰχ καὶ ἐπάταξε τοὺς ἀλλοφύλους εἰς ἑξακοσίους ἄνδρας ἐν τῷ ἀροτρόποδι τῶν βοῶν ·"
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "12.27",
+    "form": "ἑξακόσιοι",
+    "postag": "m-p---mn-",
+    "sentence": "τῶν υἱῶν Λευὶ τετρακισχίλιοι καὶ ἑξακόσιοι."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "2.35θ",
+    "form": "ἑξακόσιοι",
+    "postag": "m-p---mn-",
+    "sentence": "τρεῖς χιλιάδες καὶ ἑξακόσιοι ἐπιστάται τοῦ λαοῦ τῶν ποιούντων τὰ ἔργα."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "12.29",
+    "form": "ἐξακοσίους",
+    "postag": "m-p---ma-",
+    "sentence": "ἀναζεύξαντες δὲ ἐκεῖθεν ὥρμησαν ἐπὶ Σκυθῶν πόλιν ἀπέχουσαν ἀπὸ Ἱεροσολύμων σταδίους ἐξακοσίους."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "14.7",
+    "form": "ἑξακόσια",
+    "postag": "m-p---na-",
+    "sentence": "ἔζευξεν οὖν Φαραὼ τὰ ἅρματα αὐτοῦ καὶ πάντα τὸν λαὸν αὐτοῦ συναπήγαγε μεθ’ ἑαυτοῦ καὶ λαβὼν ἑξακόσια ἅρματα ἐκλεκτὰ καὶ πᾶσαν τὴν ἵππον τῶν Αἰγυπτίων καὶ τριστάτας ἐπὶ πάντων."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "15.18",
+    "form": "ἑξακόσιοι",
+    "postag": "m-p---mn-",
+    "sentence": "καὶ πᾶς ὁ Χελεθὶ καὶ πᾶς ὁ Φελεθὶ καὶ πάντες οἱ Γεθθαῖοι, οἱ ἑξακόσιοι ἄνδρες οἱ ἐλθόντες τοῖς ποσὶν αὐτῶν ἐκ Γέθ, πορευόμενοι ἐπὶ πρόσωπον τοῦ βασιλέως."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "16.10",
+    "form": "ἑξακοσίας",
+    "postag": "m-p---fa-",
+    "sentence": "καὶ οὕτως ἑξακοσίας χιλιάδας πεζῶν τοὺς ἐπισυναχθέντας ἐν σκληροκαρδίᾳ αὐτῶν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "1 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "43.5",
+    "form": "ἑξακοσίας",
+    "postag": "m-p---fa-",
+    "sentence": "πρωΐας δὲ γενομένης συνεκάλεσεν πάντα τὸν Ἰσραήλ, τὰς ἑξακοσίας χιλιάδας τῶν ἀνδρῶν, καὶ ἐπεδείξατο τοῖς φυλάρχοις τὰς σφραγῖδας, καὶ ἤνοιξεν τὴν σκηνὴν τοῦ μαρτυρίου καὶ προεῖλεν τὰς ῥάβδους ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2 ἐξακόσιοι, -αι, -α.    six hundred: Re 13:18 14:20.†"
+}

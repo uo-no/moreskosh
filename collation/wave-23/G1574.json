@@ -1,0 +1,129 @@
+{
+ "strong": "G1574",
+ "lemma": "ἐκκεντέω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JHN 19:37",
+   "form": "ἐξεκέντησαν",
+   "morph": "V-AAI-3P",
+   "gloss_en": "pierced",
+   "gloss_ja": "突き刺す",
+   "verse": "καὶ πάλιν ἑτέρα γραφὴ λέγει· Ὄψονται εἰς ὃν ἐξεκέντησαν."
+  },
+  {
+   "ref": "REV 1:7",
+   "form": "ἐξεκέντησαν",
+   "morph": "V-AAI-3P",
+   "gloss_en": "pierced",
+   "gloss_ja": "突き刺す",
+   "verse": "Ἰδοὺ ἔρχεται μετὰ τῶν νεφελῶν, καὶ ὄψεται αὐτὸν πᾶς ὀφθαλμὸς καὶ οἵτινες αὐτὸν ἐξεκέντησαν, καὶ κόψονται ἐπ’ αὐτὸν πᾶσαι αἱ φυλαὶ τῆς γῆς. ναί, ἀμήν."
+  }
+ ],
+ "lxx": {
+  "total": 9,
+  "works": {
+   "Numeri": 1,
+   "Josue": 1,
+   "Judices": 1,
+   "Paralipomenon i sive Chronicon i": 1,
+   "Machabaeorum ii": 1,
+   "Psalmi Salomonis": 1,
+   "Isaias": 1,
+   "Jeremias": 1,
+   "Threni seu Lamentationes": 1
+  },
+  "representatives": [
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "22.29",
+    "form": "ἐξεκέντησά",
+    "postag": "v1saia---",
+    "sentence": "καὶ εἰ εἶχον μάχαιραν ἐν τῇ χειρί, ἤδη ἂν ἐξεκέντησά σε."
+   },
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "16.10",
+    "form": "ἐξεκέντησαν",
+    "postag": "v3paia---",
+    "sentence": "καὶ οὐκ ἀπώλεσεν Ἐφραὶμ τὸν Χαναναῖον τὸν κατοικοῦντα ἐν Γαζέρ, καὶ κατῴκει ὁ Χαναναῖος ἐν τῷ Ἐφραὶμ ἕως τῆς ἡμέρας ταύτης, ἕως ἀνέβη Φαραὼ βασιλεὺς Αἰγύπτου καὶ ἔλαβεν αὐτὴν καὶ ἐνέπρησεν αὐτὴν ἐν πυρί, καὶ τοὺς Χαναναίους καὶ τοὺς Φερεζαίους καὶ τοὺς κατοικοῦντας ἐν Γαζὲρ ἐξεκέντησαν, καὶ ἔδωκεν αὐτὴν Φαραὼ ἐν φερνῇ τῇ θυγατρὶ αὐτοῦ."
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "9.54",
+    "form": "ἐξεκέντησεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἐξεκέντησεν αὐτὸν τὸ παιδάριον αὐτοῦ, καὶ ἀπέθανε."
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "10.4",
+    "form": "ἐκκέντησόν",
+    "postag": "v2sama---",
+    "sentence": "σπάσαι τὴν ρομφαίαν σου καὶ ἐκκέντησόν με ἐν αὐτῇ, μὴ ἔλθωσιν οἱ ἀπερίτμητοι οὗτοι καὶ ἐμπαίξωσί μοι."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "12.6",
+    "form": "ἐξεκέντησε",
+    "postag": "v3saia---",
+    "sentence": "καὶ τὸν μὲν λιμένα νύκτωρ ἐνέπρησε καὶ τὰ σκάφη κατέφλεξε, τοὺς δὲ ἐκεῖ συμφυγόντας ἐξεκέντησε."
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "2.26",
+    "form": "ἐκκεκεντημένον",
+    "postag": "v-srpmma-",
+    "sentence": "καὶ οὐκ ἐχρόνισα ἕως ἔδειξέν μοι ὁ θεὸς τὴν ὕβριν αὐτοῦ, ἐκκεκεντημένον ἐπὶ τῶν ὀρέων Αἰγύπτου ὑπὲρ ἐλάχιστον ἐξουδενωμένον ἐπὶ γῆς καὶ θαλάσσης ·"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "14.19",
+    "form": "ἐκκεκεντημένων",
+    "postag": "v-prpmmg-",
+    "sentence": "σὺ δὲ ριφήσῃ ἐν τοῖς ὄρεσιν ὡς νεκρὸς ἐβδελυγμένος μετὰ πολλῶν τεθνηκότων ἐκκεκεντημένων μαχαίραις, καταβαινόντων εἰς ᾅδου."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "44.10",
+    "form": "ἐκκεκεντημένοι",
+    "postag": "v-prpmmn-",
+    "sentence": "καὶ ἐὰν πατάξητε πᾶσαν δύναμιν τῶν Χαλδαίων τοὺς πολεμοῦντας ὑμᾶς, καὶ καταλειφθῶσί τινες ἐκκεκεντημένοι ἕκαστος ἐν τῷ τόπῳ αὐτοῦ, οὗτοι ἀναστήσονται καὶ καύσουσι τὴν πόλιν ταύτην ἐν πυρί."
+   },
+   {
+    "work_code": "LAM",
+    "work_ja": "哀歌",
+    "work_src": "Threni seu Lamentationes",
+    "ref": "4.9",
+    "form": "ἐκκεκεντημένοι",
+    "postag": "v-prpmmn-",
+    "sentence": "ἐπορεύθησαν ἐκκεκεντημένοι ἀπὸ γεννημάτων ἀγρῶν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   ἐκ-κεντέω, -ῶ     [in LXX chiefly for דָּקַר ;]       to prick out, put out (Arist.).      to pierce (Polyb., LXX): c. acc pers., Jo 19:37 (LXX), Re 1:7.†"
+}

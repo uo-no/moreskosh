@@ -1,0 +1,49 @@
+{
+ "strong": "G2622",
+ "lemma": "κατακλάω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 9:16",
+   "form": "κατέκλασεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "broke",
+   "gloss_ja": "割る",
+   "verse": "λαβὼν δὲ τοὺς πέντε ἄρτους καὶ τοὺς δύο ἰχθύας ἀναβλέψας εἰς τὸν οὐρανὸν εὐλόγησεν αὐτοὺς καὶ κατέκλασεν καὶ ἐδίδου τοῖς μαθηταῖς παραθεῖναι τῷ ὄχλῳ."
+  },
+  {
+   "ref": "MRK 6:41",
+   "form": "κατέκλασεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "broke",
+   "gloss_ja": "割る",
+   "verse": "καὶ λαβὼν τοὺς πέντε ἄρτους καὶ τοὺς δύο ἰχθύας ἀναβλέψας εἰς τὸν οὐρανὸν εὐλόγησεν καὶ κατέκλασεν τοὺς ἄρτους καὶ ἐδίδου τοῖς μαθηταῖς αὐτοῦ ἵνα παρατιθῶσιν αὐτοῖς, καὶ τοὺς δύο ἰχθύας ἐμέρισεν πᾶσιν."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Ezechiel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "19.12",
+    "form": "κατεκλάσθη",
+    "postag": "v3saip---",
+    "sentence": "καὶ κατεκλάσθη ἐν θυμῷ, ἐπὶ γῆν ἐρρίφη, καὶ ἄνεμος ὁ καύσων ἐξήρανε τὰ ἐκλεκτὰ αὐτῆς ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   κατα-κλάω, -ῶ,    [in LXX: Ez 19:12 (נתשׁ hoph.)*;]    to break up, break in pieces: Mk 6:41, Lk 9:16.†"
+}

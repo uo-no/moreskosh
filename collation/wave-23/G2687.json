@@ -1,0 +1,49 @@
+{
+ "strong": "G2687",
+ "lemma": "καταστέλλω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 19:35",
+   "form": "καταστείλας",
+   "morph": "V-AAP-NSM",
+   "gloss_en": "quieted",
+   "gloss_ja": "鎮める",
+   "verse": "καταστείλας δὲ ὁ γραμματεὺς τὸν ὄχλον φησίν· Ἄνδρες Ἐφέσιοι, τίς γάρ ἐστιν ἀνθρώπων ὃς οὐ γινώσκει τὴν Ἐφεσίων πόλιν νεωκόρον οὖσαν τῆς μεγάλης Ἀρτέμιδος καὶ τοῦ διοπετοῦς;"
+  },
+  {
+   "ref": "ACT 19:36",
+   "form": "κατεσταλμένους",
+   "morph": "V-RPP-APM",
+   "gloss_en": "quiet",
+   "gloss_ja": "鎮める",
+   "verse": "ἀναντιρρήτων οὖν ὄντων τούτων δέον ἐστὶν ὑμᾶς κατεσταλμένους ὑπάρχειν καὶ μηδὲν προπετὲς πράσσειν."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Machabaeorum iii": 1
+  },
+  "representatives": [
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "6.1",
+    "form": "καταστείλας",
+    "postag": "v-sapamn-",
+    "sentence": "Ἐλεάζαρος δέ τις ἀνὴρ ἐπίσημος τῶν ἀπὸ τῆς χώρας ἱερέων, ἐν πρεσβείῳ τὴν ἡλικίαν ἤδη λελογχὼς καὶ πάσῃ τῇ κατὰ τὸν βίον ἀρετῇ κεκοσμημένος, τοὺς περὶ αὐτὸν καταστείλας πρεσβυτέρους ἐπικαλεῖσθαι τὸν ἅγιον Θεὸν προσηύξατο τάδε ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   ** κατα-στέλλω,    [in LXX: II Mac 4:31, III Mac 6:1*;]      to let down, lower.   to keep down, restrain: c. acc., Ac 19:35, 36.†"
+}

@@ -1,0 +1,148 @@
+{
+ "strong": "G1787",
+ "lemma": "ἐντός",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 17:21",
+   "form": "ἐντὸς",
+   "morph": "ADV",
+   "gloss_en": "within",
+   "gloss_ja": "内側に",
+   "verse": "οὐδὲ ἐροῦσιν· Ἰδοὺ ὧδε ἤ· Ἐκεῖ· ἰδοὺ γὰρ ἡ βασιλεία τοῦ θεοῦ ἐντὸς ὑμῶν ἐστιν."
+  },
+  {
+   "ref": "MAT 23:26",
+   "form": "ἐντὸς",
+   "morph": "ADV",
+   "gloss_en": "inside",
+   "gloss_ja": "内側に",
+   "verse": "Φαρισαῖε τυφλέ, καθάρισον πρῶτον τὸ ἐντὸς τοῦ ποτηρίου καὶ τῆς παροψίδος, ἵνα γένηται καὶ τὸ ἐκτὸς αὐτοῦ καθαρόν."
+  }
+ ],
+ "lxx": {
+  "total": 8,
+  "works": {
+   "Machabaeorum i": 1,
+   "Psalmi": 3,
+   "Canticum": 1,
+   "Ecclesiasticus sive Siracides": 1,
+   "Isaias": 1,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "38.4",
+    "form": "ἐντός",
+    "postag": "r--------",
+    "sentence": "ἐθερμάνθη ἡ καρδία μου ἐντός μου, καὶ ἐν τῇ μελέτῃ μου ἐκκαυθήσεται πῦρ."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "4.48",
+    "form": "ἐντὸς",
+    "postag": "r--------",
+    "sentence": "καὶ ᾠκοδόμησαν τὰ ἅγια καὶ τὰ ἐντὸς τοῦ οἴκου καὶ τὰς αὐλὰς ἡγίασαν."
+   },
+   {
+    "work_code": "SNG",
+    "work_ja": "雅歌",
+    "work_src": "Canticum",
+    "ref": "3.10",
+    "form": "ἐντὸς",
+    "postag": "r--------",
+    "sentence": "ἐπίβασις αὐτοῦ πορφυρᾶ, ἐντὸς αὐτοῦ λιθόστρωτον, ἀγάπην ἀπὸ θυγατέρων Ἱερουσαλήμ."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "19.26",
+    "form": "ἐντὸς",
+    "postag": "r--------",
+    "sentence": "ἔστι πονηρευόμενος συγκεκυφὼς μελανίᾳ, καὶ τὰ ἐντὸς αὐτοῦ πλήρης δόλου ·"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "16.11",
+    "form": "ἐντός",
+    "postag": "r--------",
+    "sentence": "διὰ τοῦτο ἡ κοιλία μου ἐπὶ Μωὰβ ὡς κιθάρα ἠχήσει, καὶ τὰ ἐντός μου ὡσεὶ τεῖχος, ὃ ἐνεκαίνισας."
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "10.16",
+    "form": "ἐντός",
+    "postag": "r--------",
+    "sentence": "Κύριε, ἐν τῇ ὀπτασίᾳ σου ἐστράφη τὰ ἐντός μου ἐν ἐμοί, καὶ οὐκ ἔσχον ἰσχύν ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "108.22",
+    "form": "ἐντός",
+    "postag": "r--------",
+    "sentence": "ρῦσαί με, ὅτι πτωχὸς καὶ πένης εἰμὶ ἐγώ, καὶ ἡ καρδία μου τετάρακται ἐντός μου."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "102.1",
+    "form": "ἐντός",
+    "postag": "r--------",
+    "sentence": "εὐλόγει, ἡ ψυχή μου, τὸν Κύριον καί, πάντα τὰ ἐντός μου, τὸ ὄνομα τὸ ἅγιον αὐτοῦ ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 3,
+  "works": {
+   "Ignatius, Letters": 2,
+   "Polycarp, To the Philippians": 1
+  },
+  "representatives": [
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "3.7.2",
+    "form": "ἐντὸς",
+    "postag": "r--------",
+    "sentence": "ὁ ἐντὸς θυσιαστηρίου ὢν καθαρός ἐστιν ·"
+   },
+   {
+    "work_code": "PPH",
+    "work_ja": "ポリュカルポスのピリピ書簡",
+    "work_src": "Polycarp, To the Philippians",
+    "ref": "3.3",
+    "form": "ἐντὸς",
+    "postag": "r--------",
+    "sentence": "ἐὰν γάρ τις τούτων ἐντὸς ᾖ, πεπλήρωκεν ἐντολὴν δικαιοσύνης ·"
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "1.5.2",
+    "form": "ἐντὸς",
+    "postag": "r--------",
+    "sentence": "ἑὰν μή τις ᾖ ἐντὸς τοῦ θυσιαστηρίου, ὑστερεῖται τοῦ ἄρτου τοῦ θεοῦ."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   ἐντός    (< ἐν),       adv.,     [in LXX: Jb 18:20, Ps 38 (39):3 108 (109):22, Ca 3:10; ὁ, τὸ, τὰ ἐ., Ps 102 (103):1, Is 16:11, Da TH Da 10:16, Si 19:26, I Mac 4:48 * ;]     within: c. gen., ἐ. ὑμῶν, within you (i.e. in your hearts, R, txt.), or among you (R, mg.), Lk 17:21 (cf. Field, Notes, 71; Thayer, s.v.; ICC, Lk, l.c.; Dalman, Words, 145 ff.); τὸ ἐ., Mt 23:26.†"
+}

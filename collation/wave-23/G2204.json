@@ -1,0 +1,78 @@
+{
+ "strong": "G2204",
+ "lemma": "ζέω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 18:25",
+   "form": "ζέων",
+   "morph": "V-PAP-NSM",
+   "gloss_en": "fervent",
+   "gloss_ja": "燃える",
+   "verse": "οὗτος ἦν κατηχημένος τὴν ὁδὸν τοῦ κυρίου, καὶ ζέων τῷ πνεύματι ἐλάλει καὶ ἐδίδασκεν ἀκριβῶς τὰ περὶ τοῦ Ἰησοῦ, ἐπιστάμενος μόνον τὸ βάπτισμα Ἰωάννου."
+  },
+  {
+   "ref": "ROM 12:11",
+   "form": "ζέοντες",
+   "morph": "V-PAP-NPM",
+   "gloss_en": "fervent",
+   "gloss_ja": "燃える",
+   "verse": "τῇ σπουδῇ μὴ ὀκνηροί, τῷ πνεύματι ζέοντες, τῷ κυρίῳ δουλεύοντες,"
+  }
+ ],
+ "lxx": {
+  "total": 4,
+  "works": {
+   "Machabaeorum iv": 1,
+   "Job": 1,
+   "Ezechiel": 2
+  },
+  "representatives": [
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "24.5",
+    "form": "ἔζεσεν",
+    "postag": "v3saia---",
+    "sentence": "ἔζεσεν ἔζεσε, καὶ ἥψηται τὰ ὀστᾶ αὐτῆς ἐν μέσῳ αὐτῆς."
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "18.20",
+    "form": "ζέουσι",
+    "postag": "v-pppamd-",
+    "sentence": "ὦ πικρᾶς τῆς τότε ἡμέρας καὶ οὐ πικρᾶς, ὅτε ὁ πικρὸς Ἑλλήνων τύραννος πῦρ φλέξας λέβησιν ὠμοῖς καὶ ζέουσι θυμοῖς ἀγαγὼν ἐπὶ τὸν καταπέλτην καὶ πάσας τὰς βασάνους αὐτοῦ τοὺς ἑπτὰ παῖδας τῆς Ἁβρααμίτιδος καὶ τὰς τῶν ὀμμάτων κόρας ἐπήρωσε καὶ γλώσσας ἐξέτεμε καὶ βασάνοις ποικίλαις ἀπέκτεινεν."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "32.19",
+    "form": "ζέων",
+    "postag": "v-sppamn-",
+    "sentence": "ἡ δὲ γαστήρ μου ὥσπερ ἀσκὸς γλεύκους ζέων δεδεμένος ἢ ὥσπερ φυσητὴρ χαλκέως ἐρρηγώς."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "24.5",
+    "form": "ἔζεσε",
+    "postag": "v3saia---",
+    "sentence": "ἔζεσεν ἔζεσε, καὶ ἥψηται τὰ ὀστᾶ αὐτῆς ἐν μέσῳ αὐτῆς."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   ζέω    [in LXX for רוּם, רתח, metaph., IV Mac 18:20;]    to boil, be hot; metaph., of anger, love, zeal: ptcp., fervent: τ. πνεύματι, Ac 18:25, Ro 12:11.†"
+}

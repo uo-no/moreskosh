@@ -1,0 +1,183 @@
+{
+ "strong": "G2460",
+ "lemma": "ἱππεύς",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 23:23",
+   "form": "ἱππεῖς",
+   "morph": "N-APM",
+   "gloss_en": "horsemen",
+   "gloss_ja": "騎兵",
+   "verse": "Καὶ προσκαλεσάμενός τινας δύο τῶν ἑκατονταρχῶν εἶπεν· Ἑτοιμάσατε στρατιώτας διακοσίους ὅπως πορευθῶσιν ἕως Καισαρείας, καὶ ἱππεῖς ἑβδομήκοντα καὶ δεξιολάβους διακοσίους, ἀπὸ τρίτης ὥρας τῆς νυκτός,"
+  },
+  {
+   "ref": "ACT 23:32",
+   "form": "ἱππεῖς",
+   "morph": "N-APM",
+   "gloss_en": "horsemen",
+   "gloss_ja": "騎兵",
+   "verse": "τῇ δὲ ἐπαύριον ἐάσαντες τοὺς ἱππεῖς ἀπέρχεσθαι σὺν αὐτῷ ὑπέστρεψαν εἰς τὴν παρεμβολήν·"
+  }
+ ],
+ "lxx": {
+  "total": 67,
+  "works": {
+   "Genesis": 2,
+   "Exodus": 1,
+   "Regnorum i": 2,
+   "Regnorum ii": 2,
+   "Regnorum iii": 6,
+   "Regnorum iv": 4,
+   "Paralipomenon i sive Chronicon i": 1,
+   "Paralipomenon ii sive Chronicon ii": 7,
+   "Esdras i": 2,
+   "Esdras ii": 2,
+   "Esther": 1,
+   "Judith": 5,
+   "Machabaeorum i": 5,
+   "Machabaeorum ii": 9,
+   "Job": 1,
+   "Osee": 1,
+   "Amos": 1,
+   "Joel": 1,
+   "Nahum": 2,
+   "Habacuc": 1,
+   "Isaias": 2,
+   "Jeremias": 2,
+   "Ezechiel": 6,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "10.31",
+    "form": "ἱππεῖς",
+    "postag": "n-p---mn-",
+    "sentence": "κατεσφάγησαν δὲ δισμύριοι πρὸς τοῖς πεντακοσίοις, ἱππεῖς δὲ ἑξακόσιοι."
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "23.15",
+    "form": "ἱππέων",
+    "postag": "n-p---mg-",
+    "sentence": "καὶ ἔδωκαν αὐτῇ ἄνεσιν καὶ διῆλθε διὰ τῆς πύλης τῶν ἱππέων τοῦ οἴκου τοῦ βασιλέως, καὶ ἐθανάτωσαν αὐτὴν ἐκεῖ."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "21.20",
+    "form": "ἱππέως",
+    "postag": "n-s---mg-",
+    "sentence": "καὶ σῴζεται υἱὸς Ἄδερ βασιλεὺς Συρίας ἐφ’ ἵππου ἱππέως."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "27.14",
+    "form": "ἱππεῖς",
+    "postag": "n-p---ma-",
+    "sentence": "ἐξ οἴκου Θεργαμὰ ἵππους καὶ ἱππεῖς ἔδωκαν τὴν ἀγοράν σου."
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "2.19",
+    "form": "ἱππεῦσι",
+    "postag": "n-p---md-",
+    "sentence": "καὶ ἐξῆλθεν αὐτὸς καὶ πᾶσα ἡ δύναμις αὐτοῦ εἰς πορείαν τοῦ προελθεῖν βασιλέως Ναβουχοδονόσορ καὶ καλύψαι πᾶν τὸ πρόσωπον τῆς γῆς πρὸς δυσμαῖς ἐν ἅρμασι καὶ ἱππεῦσι καὶ πεζοῖς ἐπιλέκτοις αὐτῶν."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "16.7",
+    "form": "ἱππεῖς",
+    "postag": "n-p---ma-",
+    "sentence": "καὶ διεῖλε τὸν λαὸν καὶ τοὺς ἱππεῖς ἐν μέσῳ τῶν πεζῶν ·"
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "13.14",
+    "form": "ἱππεὺς",
+    "postag": "n-s---mn-",
+    "sentence": "πάτερ πάτερ, ἅρμα Ἰσραὴλ καὶ ἱππεὺς αὐτοῦ."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "50.9",
+    "form": "ἱππεῖς",
+    "postag": "n-p---mn-",
+    "sentence": "καὶ συνανέβησαν μετ’ αὐτοῦ καὶ ἅρματα καὶ ἱππεῖς, καὶ ἐγένετο ἡ παρεμβολὴ μεγάλη σφόδρα."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "8.11",
+    "form": "ἱππεῦσιν",
+    "postag": "n-p---md-",
+    "sentence": "τοὺς υἱοὺς ὑμῶν λήψεται, καὶ θήσεται αὐτοὺς ἐν ἅρμασιν αὐτοῦ καὶ ἐν ἱππεῦσιν αὐτοῦ καὶ προτρέχοντας τῶν ἁρμάτων αὐτοῦ καὶ θέσθαι αὐτοὺς ἑαυτῷ ἑκατοντάρχους καὶ χιλιάρχους καὶ θερίζειν θερισμὸν αὐτοῦ καὶ τρυγᾶν τρυγητὸν αὐτοῦ καὶ ποιεῖν σκεύη πολεμικὰ αὐτοῦ καὶ σκεύη ἁρμάτων αὐτοῦ ·"
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "10.18",
+    "form": "ἱππέων",
+    "postag": "n-p---mg-",
+    "sentence": "καὶ ἔφυγε Συρία ἀπὸ προσώπου Ἰσραήλ, καὶ ἀνεῖλε Δαυὶδ ἐκ τῆς Συρίας ἑπτακόσια ἅρματα καὶ τεσσαράκοντα χιλιάδας ἱππέων ·"
+   },
+   {
+    "work_code": "1ES",
+    "work_ja": "エズラ記（ギリシャ語）",
+    "work_src": "Esdras i",
+    "ref": "8.51",
+    "form": "ἱππεῖς",
+    "postag": "n-p---ma-",
+    "sentence": "ἐνετράπην γὰρ αἰτῆσαι τὸν βασιλέα πεζούς τε καὶ ἱππεῖς καὶ προπομπὴν ἕνεκεν ἀσφαλείας τῆς πρὸς τοὺς ἐναντιουμένους ἡμῖν ·"
+   },
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "8.22",
+    "form": "ἱππεῖς",
+    "postag": "n-p---ma-",
+    "sentence": "ὅτι ᾐσχύνθην αἰτήσασθαι παρὰ τοῦ βασιλέως δύναμιν καὶ ἱππεῖς σῶσαι ἡμᾶς ἀπὸ ἐχθροῦ ἐν τῇ ὁδῷ, ὅτι εἴπαμεν τῷ βασιλεῖ λέγοντες ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Martyrdom of Polycarp": 1
+  },
+  "representatives": [
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "7.1",
+    "form": "ἱππεῖς",
+    "postag": "n-p---mn-",
+    "sentence": "ἔχοντες οὖν τὸ παιδάριον, τῇ παρασκευῇ περὶ δείπνου ὥραν ἐξῆλθον διωγμῖται καὶ ἱππεῖς μετὰ τῶν συνήθων αὐτοῖς ὅπλων ὡς ἐπὶ λῃστὴν τρέχοντες."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   ἱππεύς, -έως (on acc. pl., -εῖς, ν. Bl., § 8, 2; Thack., Gr., 148),ὁ    (< ἵππος),   [in LXX chiefly for פָּרָשׁ;]    a horseman: Ac 23:23, 32.†"
+}

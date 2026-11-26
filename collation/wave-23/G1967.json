@@ -1,0 +1,49 @@
+{
+ "strong": "G1967",
+ "lemma": "ἐπιούσιος",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 11:3",
+   "form": "ἐπιούσιον",
+   "morph": "A-ASM",
+   "gloss_en": "daily",
+   "gloss_ja": "日ごとの",
+   "verse": "τὸν ἄρτον ἡμῶν τὸν ἐπιούσιον δίδου ἡμῖν τὸ καθ’ ἡμέραν·"
+  },
+  {
+   "ref": "MAT 6:11",
+   "form": "ἐπιούσιον",
+   "morph": "A-ASM",
+   "gloss_en": "daily",
+   "gloss_ja": "日ごとの",
+   "verse": "τὸν ἄρτον ἡμῶν τὸν ἐπιούσιον δὸς ἡμῖν σήμερον·"
+  }
+ ],
+ "lxx": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Didache": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DID",
+    "work_ja": "ディダケー",
+    "work_src": "Didache",
+    "ref": "8.2",
+    "form": "ἐπιούσιον",
+    "postag": "a-s---ma-",
+    "sentence": "τὸν ἄρτον ἡμῶν τὸν ἐπιούσιον δὸς ἡμῖν σήμερον, καὶ ἄφες ἡμῖν τὴν ὀφειλὴν ἡμῶν, ὡς καὶ ἡμεῖς ἀφίεμεν τοῖς ὀφειλέταις ἡμῶν, καὶ μὴ εἰσενέγκῃς ἡμᾶς εἰς πειρασμόν, ἀλλὰ ῥῦσαι ἡμᾶς ἀπὸ τοῦ πονηροῦ ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   *† ἐπιούσιος, -ον    (cf. περιούσιος, [in LXX for סְגֻלָּה, De 7:6, etc.]),     found only in the phrase ἄρτος ἐ., EV, daily; R, mg., for the coming day: Mt 6:11, Lk 11:3. (Several derivations find support, each pointing to a different meaning.    < ἐπιοῦσα (sc. ἡμέρα) (or, < ἐπὶ τὴν ἰοῦσαν (sc. ήμέραν), Zorell, s.v.), hence, for the morrow or for the coming day (R, mg.).       < ἐπί + οὐσία, hence, for subsistence, needful (Am. R, mg.);    < ἐπί + εἶναι in fem. ptcp. form, hence, pertaining to (the day). For renderings of versions and views of various writers, v. reff. in DB, ext., 36 f.; DCG, ii, 58 f., 62a; ICC on Lk, l.c. The EV, daily, is based on the Vg. (Lk; OL, Mt, Lk, quotidianu"
+}

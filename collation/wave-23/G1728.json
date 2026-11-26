@@ -1,0 +1,145 @@
+{
+ "strong": "G1728",
+ "lemma": "ἐνάρχομαι",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "GAL 3:3",
+   "form": "ἐναρξάμενοι",
+   "morph": "V-ADP-NPM",
+   "gloss_en": "begun",
+   "gloss_ja": "始める",
+   "verse": "οὕτως ἀνόητοί ἐστε; ἐναρξάμενοι πνεύματι νῦν σαρκὶ ἐπιτελεῖσθε;"
+  },
+  {
+   "ref": "PHP 1:6",
+   "form": "ἐναρξάμενος",
+   "morph": "V-ADP-NSM",
+   "gloss_en": "began",
+   "gloss_ja": "始める",
+   "verse": "πεποιθὼς αὐτὸ τοῦτο ὅτι ὁ ἐναρξάμενος ἐν ὑμῖν ἔργον ἀγαθὸν ἐπιτελέσει ἄχρι ἡμέρας Χριστοῦ Ἰησοῦ·"
+  }
+ ],
+ "lxx": {
+  "total": 11,
+  "works": {
+   "Exodus": 1,
+   "Numeri": 2,
+   "Deuteronomium": 3,
+   "Josue": 1,
+   "Machabaeorum i": 1,
+   "Proverbia": 1,
+   "Ecclesiasticus sive Siracides": 2
+  },
+  "representatives": [
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "2.31",
+    "form": "ἔναρξαι",
+    "postag": "v2samm---",
+    "sentence": "ἔναρξαι κληρονομῆσαι τὴν γῆν αὐτοῦ."
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "17.12",
+    "form": "ἐνῆρκτο",
+    "postag": "v3slim---",
+    "sentence": "καὶ ἤδη ἐνῆρκτο ἡ θραῦσις ἐν τῷ λαῷ ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "36.24",
+    "form": "ἐνάρχεται",
+    "postag": "v3spim---",
+    "sentence": "ὁ κτώμενος γυναῖκα ἐνάρχεται κτήσεως, βοηθὸν κατ’ αὐτὸν καὶ στύλον ἀναπαύσεως."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "12.18",
+    "form": "ἐναρχόμενοι",
+    "postag": "v-pppmmn-",
+    "sentence": "ἐναρχόμενοι τῇ τεσσαρεσκαιδεκάτῃ ἡμέρᾳ τοῦ μηνὸς τοῦ πρώτου ἀφ’ ἑσπέρας ἔδεσθε ἄζυμα ἕως ἡμέρας μιᾶς καὶ εἰκάδος τοῦ μηνός, ἕως ἑσπέρας."
+   },
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "10.24",
+    "form": "ἐναρχομένους",
+    "postag": "v-pppmma-",
+    "sentence": "καὶ ἐπεὶ ἐξήγαγον αὐτοὺς πρὸς Ἰησοῦν, καὶ συνεκάλεσεν Ἰησοῦς πάντα Ἰσραήλ, καὶ τοὺς ἐναρχομένους τοῦ πολέμου τοὺς συμπορευομένους αὐτῷ, λέγων αὐτοῖς ·"
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "9.54",
+    "form": "ἐνήρξατο",
+    "postag": "v3saim---",
+    "sentence": "καὶ καθεῖλε τὰ ἔργα τῶν προφητῶν καὶ ἐνήρξατο τοῦ καθαιρεῖν."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "13.12",
+    "form": "ἐναρχόμενος",
+    "postag": "v-sppmmn-",
+    "sentence": "κρείσσων ἐναρχόμενος βοηθῶν καρδίᾳ τοῦ ἐπαγγελλομένου καὶ εἰς ἐλπίδα ἄγοντος ·"
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "2.24",
+    "form": "ἐνάρχου",
+    "postag": "v2spmm---",
+    "sentence": "ἐνάρχου κληρονομεῖν, σύναπτε πρὸς αὐτὸν πόλεμον."
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "9.5",
+    "form": "ἐναρχομένου",
+    "postag": "v-sppmmg-",
+    "sentence": "ἐναρχομένου τῇ τεσσαρεσκαιδεκάτῃ ἡμέρᾳ τοῦ μηνὸς ἐν τῇ ἐρήμῳ τοῦ Σινά, καθὰ συνέταξε Κύριος τῷ Μωυσῇ, οὕτως ἐποίησαν οἱ υἱοὶ Ἰσραήλ."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "38.16",
+    "form": "ἔναρξαι",
+    "postag": "v2samm---",
+    "sentence": "τέκνον, ἐπὶ νεκρῷ κατάγαγε δάκρυα καὶ ὡς δεινὰ πάσχων ἔναρξαι θρήνου, κατὰ δὲ τὴν κρίσιν αὐτοῦ περίστειλον τὸ σῶμα αὐτοῦ καὶ μὴ ὑπερίδῃς τὴν ταφὴν αὐτοῦ."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "2.25",
+    "form": "ἐνάρχου",
+    "postag": "v2spmm---",
+    "sentence": "ἐν τῇ ἡμέρᾳ ταύτῃ ἐνάρχου δοῦναι τὸν τρόμον σου καὶ τὸν φόβον σου ἐπὶ προσώπου πάντων τῶν ἐθνῶν τῶν ὑποκάτω τοῦ οὐρανοῦ, οἵτινες ἀκούσαντες τὸ ὄνομά σου ταραχθήσονται καὶ ὠδῖνας ἕξουσιν ἀπὸ προσώπου σου."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   ἐν-άρχομαι     [in LXX chiefly for חָלַל hi. ;]     to begin, make a beginning: Ga 3:3, Phl 1:6.†"
+}

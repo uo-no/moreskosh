@@ -1,0 +1,81 @@
+{
+ "strong": "G233",
+ "lemma": "ἁλίζω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MAT 5:13",
+   "form": "ἁλισθήσεται",
+   "morph": "V-FPI-3S",
+   "gloss_en": "made salty",
+   "gloss_ja": "塩をつける",
+   "verse": "Ὑμεῖς ἐστε τὸ ἅλας τῆς γῆς· ἐὰν δὲ τὸ ἅλας μωρανθῇ, ἐν τίνι ἁλισθήσεται; εἰς οὐδὲν ἰσχύει ἔτι εἰ μὴ βληθὲν ἔξω καταπατεῖσθαι ὑπὸ τῶν ἀνθρώπων."
+  },
+  {
+   "ref": "MRK 9:49",
+   "form": "ἁλισθήσεται",
+   "morph": "V-FPI-3S",
+   "gloss_en": "salted",
+   "gloss_ja": "塩をつける",
+   "verse": "Πᾶς γὰρ πυρὶ ἁλισθήσεται."
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Leviticus": 1,
+   "Tobias": 1,
+   "Ezechiel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "2.13",
+    "form": "ἁλισθήσεται",
+    "postag": "v3sfip---",
+    "sentence": "καὶ πᾶν δῶρον θυσίας ὑμῶν ἁλὶ ἁλισθήσεται ·"
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "6.5",
+    "form": "ἡλισμένον",
+    "postag": "v-srpmma-",
+    "sentence": "καὶ ἀνασχίσας τὸ παιδάριον τὸν ἰχθὺν συνήγαγεν τὴν χολὴν καὶ τὴν καρδίαν καὶ τὸ ἧπαρ καὶ ὤπτησεν τοῦ ἰχθύος καὶ ἔφαγεν καὶ ἀφῆκεν ἐξ αὐτοῦ ἡλισμένον."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "16.4",
+    "form": "ἡλίσθης",
+    "postag": "v2saip---",
+    "sentence": "καὶ ἡ γένεσίς σου, ἐν ᾗ ἡμέρᾳ ἐτέχθης, οὐκ ἔδησας τοὺς μαστούς σου καί ἐν ὕδατι οὐκ ἐλούσθης, οὐ-δὲ ἁλὶ ἡλίσθης καὶ ἐν σπαργάνοις οὐκ ἐσπαργανώθης, οὐ-δὲ ἐφείσατο ὁ ὀφθαλμός μου ἐπὶ σοὶ τοῦ ποιῆσαί σοι ἓν ἐκ πάντων τούτων, τοῦ παθεῖν τι ἐπὶ σοί, καὶ ἀπερρίφης ἐπὶ πρόσωπον τοῦ πεδίου τῇ σκολιότητι τῆς ψυχῆς σου ἐν ἡμέρᾳ, ᾗ ἐτέχθης."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Ignatius, Letters": 1
+  },
+  "representatives": [
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "2.10.2",
+    "form": "ἁλίσθητε",
+    "postag": "v2pamp---",
+    "sentence": "ἁλίσθητε ἐν αὐτῷ, ἵνα μὴ διαφθαρῇ τις ἐν ὑμῖν, ἐπεὶ ἀπὸ τῆς ὀσμῆς ἐλεγχθήσεσθε."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   ἁλίζω    (< ἅλς),   [in LXX for מָלַח;]    to salt, season with salt: Mt 5:13, Mk 9:49.†"
+}

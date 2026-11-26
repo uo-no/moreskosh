@@ -1,0 +1,81 @@
+{
+ "strong": "G213",
+ "lemma": "ἀλαζών",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2TI 3:2",
+   "form": "ἀλαζόνες",
+   "morph": "N-NPM",
+   "gloss_en": "boasters",
+   "gloss_ja": "自慢する者",
+   "verse": "ἔσονται γὰρ οἱ ἄνθρωποι φίλαυτοι, φιλάργυροι, ἀλαζόνες, ὑπερήφανοι, βλάσφημοι, γονεῦσιν ἀπειθεῖς, ἀχάριστοι, ἀνόσιοι,"
+  },
+  {
+   "ref": "ROM 1:30",
+   "form": "ἀλαζόνας",
+   "morph": "N-APM",
+   "gloss_en": "boastful",
+   "gloss_ja": "自慢する者",
+   "verse": "καταλάλους, θεοστυγεῖς, ὑβριστάς, ὑπερηφάνους, ἀλαζόνας, ἐφευρετὰς κακῶν, γονεῦσιν ἀπειθεῖς,"
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Proverbia": 1,
+   "Job": 1,
+   "Habacuc": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "21.24",
+    "form": "ἀλαζὼν",
+    "postag": "a-s---mn-",
+    "sentence": "θρασὺς καὶ αὐθάδης καὶ ἀλαζὼν λοιμὸς καλεῖται, ὃς δὲ μνησικακεῖ, παράνομος."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "28.8",
+    "form": "ἀλαζόνων",
+    "postag": "n-p---fg-",
+    "sentence": "καὶ οὐκ ἐπάτησαν αὐτὸν υἱοὶ ἀλαζόνων, οὐ παρῆλθεν ἐπ’ αὐτῆς λέων."
+   },
+   {
+    "work_code": "HAB",
+    "work_ja": "ハバクク書",
+    "work_src": "Habacuc",
+    "ref": "2.5",
+    "form": "ἀλαζών",
+    "postag": "a-s---mn-",
+    "sentence": "ὁ δὲ κατοιόμενος καὶ καταφρονητής, ἀνὴρ ἀλαζών, οὐθὲν μὴ περάνῃ, ὃς ἐπλάτυνε καθὼς ᾅδης τὴν ψυχὴν αὐτοῦ καὶ οὗτος ὡς θάνατος οὐκ ἐμπιπλάμενος καὶ ἐπισυνάξει ἐπ’ αὐτὸν πάντα τὰ ἔθνη καὶ εἰσδέξεται πρὸς αὐτὸν πάντας τοὺς λαούς."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "1 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "57.2",
+    "form": "ἀλαζόνα",
+    "postag": "n-s---fa-",
+    "sentence": "μάθετε ὑποτάσσεσθαι, ἀποθέμενοι τὴν ἀλαζόνα καὶ ὑπερήφανον τῆς γλώσσης ὑμῶν αὐθάδειαν ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   ἀλαζών, -όνος, ὁ, ἡ    (< ἄλη, wandering),   [in LXX: Jb 28:8 (שַׁחַץ) Hb 2:5 (יָהִיר), Pr 21:24 (לוּץ)*;]     prop, a vagabond, hence, an impostor, a boaster: Ro 1:30, II Ti 3:2.†   SYN.: ὐβριστής, ὑπερήφανος (v. Tr., Syn., § xxix; Lft., Notes, 256)"
+}

@@ -1,0 +1,49 @@
+{
+ "strong": "G2485",
+ "lemma": "ἰχθύδιον",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MAT 15:34",
+   "form": "ἰχθύδια",
+   "morph": "N-APN",
+   "gloss_en": "small fish",
+   "gloss_ja": "小魚",
+   "verse": "καὶ λέγει αὐτοῖς ὁ Ἰησοῦς· Πόσους ἄρτους ἔχετε; οἱ δὲ εἶπαν· Ἑπτά, καὶ ὀλίγα ἰχθύδια."
+  },
+  {
+   "ref": "MRK 8:7",
+   "form": "ἰχθύδια",
+   "morph": "N-APN",
+   "gloss_en": "small fish",
+   "gloss_ja": "小魚",
+   "verse": "καὶ εἶχον ἰχθύδια ὀλίγα· καὶ εὐλογήσας αὐτὰ εἶπεν καὶ ταῦτα παρατιθέναι."
+  }
+ ],
+ "lxx": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Barnabas": 1
+  },
+  "representatives": [
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "10.5",
+    "form": "ἰχθύδια",
+    "postag": "n-p---nn-",
+    "sentence": "οὐ μή, φησίν, ὁμοιωθήσῃ κολλώμενος ἀνθρώποις τοιούτοις, οἵτινες εἰς τέλος εἰσὶν ἀσεβεῖς καὶ κεκριμένοι ἤδη τῷ θανάτῳ, ὡς καὶ ταῦτα τὰ ἰχθύδια μόνα ἐπικατάρατα ἐν τῷ βυθῷ νήχεται, μὴ κολυμβῶντα ὡς τὰ λοιπά, ἀλλ’ ἐν τῇ γῇ κάτω τοῦ βυθοῦ κατοικεῖ."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   * ἰχθύδιον, -ου, τό    (dimin. of ἰχθύς),    a little fish: Mt 15:34, Mk 8:7.†"
+}

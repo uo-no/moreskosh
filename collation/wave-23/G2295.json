@@ -1,0 +1,70 @@
+{
+ "strong": "G2295",
+ "lemma": "θαῦμα",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2CO 11:14",
+   "form": "θαῦμα",
+   "morph": "N-NSN",
+   "gloss_en": "wonder",
+   "gloss_ja": "驚き",
+   "verse": "καὶ οὐ θαῦμα, αὐτὸς γὰρ ὁ Σατανᾶς μετασχηματίζεται εἰς ἄγγελον φωτός·"
+  },
+  {
+   "ref": "REV 17:6",
+   "form": "θαῦμα",
+   "morph": "N-ASN",
+   "gloss_en": "amazement",
+   "gloss_ja": "驚き",
+   "verse": "καὶ εἶδον τὴν γυναῖκα μεθύουσαν ἐκ τοῦ αἵματος τῶν ἁγίων καὶ ἐκ τοῦ αἵματος τῶν μαρτύρων Ἰησοῦ. Καὶ ἐθαύμασα ἰδὼν αὐτὴν θαῦμα μέγα·"
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Job": 2
+  },
+  "representatives": [
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "18.20",
+    "form": "θαῦμα",
+    "postag": "n-s---nn-",
+    "sentence": "ἐπ’ αὐτῷ ἐστέναξαν ἔσχατοι, πρώτους δὲ ἔσχε θαῦμα."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "17.8",
+    "form": "θαῦμα",
+    "postag": "n-s---nn-",
+    "sentence": "θαῦμα ἔσχεν ἀληθινοὺς ἐπὶ τούτῳ, δίκαιος δὲ ἐπὶ παρανόμῳ ἐπανασταίη ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Martyrdom of Polycarp": 1
+  },
+  "representatives": [
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "15.1",
+    "form": "θαῦμα",
+    "postag": "n-s---na-",
+    "sentence": "μεγάλης δὲ ἐκλαμψάσης φλογός, θαῦμα εἴδομεν, οἷς ἰδεῖν ἐδόθη ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   θαῦμα, -τος, τό,    [in LXX: Jb 17:8 18:20 20:8 21:5 (שַׂעַר, etc.)*;]      a wonder: II Co 11:14.     wonder: Re 17:6.†"
+}

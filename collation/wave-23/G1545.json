@@ -1,0 +1,67 @@
+{
+ "strong": "G1545",
+ "lemma": "ἔκβασις",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 10:13",
+   "form": "ἔκβασιν",
+   "morph": "N-ASF",
+   "gloss_en": "way out",
+   "gloss_ja": "出口",
+   "verse": "πειρασμὸς ὑμᾶς οὐκ εἴληφεν εἰ μὴ ἀνθρώπινος· πιστὸς δὲ ὁ θεός, ὃς οὐκ ἐάσει ὑμᾶς πειρασθῆναι ὑπὲρ ὃ δύνασθε, ἀλλὰ ποιήσει σὺν τῷ πειρασμῷ καὶ τὴν ἔκβασιν τοῦ δύνασθαι ὑπενεγκεῖν."
+  },
+  {
+   "ref": "HEB 13:7",
+   "form": "ἔκβασιν",
+   "morph": "N-ASF",
+   "gloss_en": "outcome",
+   "gloss_ja": "出口",
+   "verse": "Μνημονεύετε τῶν ἡγουμένων ὑμῶν, οἵτινες ἐλάλησαν ὑμῖν τὸν λόγον τοῦ θεοῦ, ὧν ἀναθεωροῦντες τὴν ἔκβασιν τῆς ἀναστροφῆς μιμεῖσθε τὴν πίστιν."
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Sapientia Salomonis": 3
+  },
+  "representatives": [
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "2.17",
+    "form": "ἐκβάσει",
+    "postag": "n-s---fd-",
+    "sentence": "ἴδωμεν εἰ οἱ λόγοι αὐτοῦ ἀληθεῖς, καὶ πειράσωμεν τὰ ἐν ἐκβάσει αὐτοῦ ·"
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "11.14",
+    "form": "ἐκβάσεων",
+    "postag": "n-p---fg-",
+    "sentence": "ὃν γὰρ ἐν ἐκθέσει πάλαι ριφέντα ἀπεῖπον χλευάζοντες, ἐπὶ τέλει τῶν ἐκβάσεων ἐθαύμασαν, οὐχ ὅμοια δικαίοις διψήσαντες."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "8.8",
+    "form": "ἐκβάσεις",
+    "postag": "n-p---fa-",
+    "sentence": "εἰ δὲ καὶ πολυπειρίαν ποθεῖ τις, οἶδε τὰ ἀρχαῖα καὶ τὰ μέλλοντα εἰκάζειν, ἐπίσταται στροφὰς λόγων καὶ λύσεις αἰνιγμάτων, σημεῖα καὶ τέρατα προγινώσκει καὶ ἐκβάσεις καιρῶν καὶ χρόνων."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   ** ἔκ-βασις, -εως, ἡ    (< ἐκβαίνω),    [in LXX: Wi 2:17 8:8 11:14 * ;]       a way out (Hom., Xen.): I Co 10:13.      the issue (Menand.) He 13:7.†"
+}

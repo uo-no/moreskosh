@@ -1,0 +1,61 @@
+{
+ "strong": "G204",
+ "lemma": "ἀκρογωνιαῖος",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1PE 2:6",
+   "form": "ἀκρογωνιαῖον",
+   "morph": "A-ASM",
+   "gloss_en": "cornerstone",
+   "gloss_ja": "隅の",
+   "verse": "διότι περιέχει ἐν γραφῇ· Ἰδοὺ τίθημι ἐν Σιὼν λίθον ἀκρογωνιαῖον ἐκλεκτὸν ἔντιμον, καὶ ὁ πιστεύων ἐπ’ αὐτῷ οὐ μὴ καταισχυνθῇ."
+  },
+  {
+   "ref": "EPH 2:20",
+   "form": "ἀκρογωνιαίου",
+   "morph": "A-GSM",
+   "gloss_en": "cornerstone",
+   "gloss_ja": "隅の",
+   "verse": "ἐποικοδομηθέντες ἐπὶ τῷ θεμελίῳ τῶν ἀποστόλων καὶ προφητῶν, ὄντος ἀκρογωνιαίου αὐτοῦ Χριστοῦ Ἰησοῦ,"
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Isaias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "28.16",
+    "form": "ἀκρογωνιαῖον",
+    "postag": "a-s---ma-",
+    "sentence": "ἰδοὺ ἐγὼ ἐμβαλῶ εἰς τὰ θεμέλια Σιὼν λίθον πολυτελῆ ἐκλεκτὸν ἀκρογωνιαῖον, ἔντιμον, εἰς τὰ θεμέλια αὐτῆς, καὶ ὁ πιστεύων ἐπ’ αὐτῷ οὐ μὴ καταισχυνθῇ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Barnabas": 1
+  },
+  "representatives": [
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "6.2",
+    "form": "ἀκρογωνιαῖον",
+    "postag": "a-s---ma-",
+    "sentence": "ἰδού, ἐμβαλῶ εἰς τὰ θεμέλια Σιὼν λίθον πολυτελῆ, ἐκλεκτόν, ἀκρογωνιαῖον, ἔντιμον."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   † ἀκρο-γωνιαῖος, -αία, -αῖον    (< ἄκροι, γωνία, an angle)   [in LXX: Is 28:16 (פִּנָּה)*;]   = Attic γωνιαῖος (freq. in Inscr.; MM, VGT, s.v. ἀ.),    at the extreme angle: ὁ ἀ., the corner foundation stone, Eph 2:20, I Pe 2:6.†"
+}

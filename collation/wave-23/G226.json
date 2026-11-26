@@ -1,0 +1,88 @@
+{
+ "strong": "G226",
+ "lemma": "ἀληθεύω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "EPH 4:15",
+   "form": "ἀληθεύοντες",
+   "morph": "V-PAP-NPM",
+   "gloss_en": "speaking the truth",
+   "gloss_ja": "真実を語る",
+   "verse": "ἀληθεύοντες δὲ ἐν ἀγάπῃ αὐξήσωμεν εἰς αὐτὸν τὰ πάντα, ὅς ἐστιν ἡ κεφαλή, Χριστός,"
+  },
+  {
+   "ref": "GAL 4:16",
+   "form": "ἀληθεύων",
+   "morph": "V-PAP-NSM",
+   "gloss_en": "telling ~ thetruth",
+   "gloss_ja": "真実を語る",
+   "verse": "ὥστε ἐχθρὸς ὑμῶν γέγονα ἀληθεύων ὑμῖν;"
+  }
+ ],
+ "lxx": {
+  "total": 5,
+  "works": {
+   "Genesis": 2,
+   "Proverbia": 1,
+   "Ecclesiasticus sive Siracides": 1,
+   "Isaias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "42.16",
+    "form": "ἀληθεύετε",
+    "postag": "v2ppia---",
+    "sentence": "ἀποστείλατε ἐξ ὑμῶν ἕνα καὶ λάβετε τὸν ἀδελφὸν ὑμῶν, ὑμεῖς δὲ ἀπάχθητε ἕως τοῦ φανερὰ γενέσθαι τὰ ῥήματα ὑμῶν, εἰ ἀληθεύετε ἢ οὔ ·"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "21.3",
+    "form": "ἀληθεύειν",
+    "postag": "v--pna---",
+    "sentence": "ποιεῖν δίκαια καὶ ἀληθεύειν ἀρεστὰ παρὰ Θεῷ μᾶλλον ἢ θυσιῶν αἷμα."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "34.4",
+    "form": "ἀληθεύσει",
+    "postag": "v3sfia---",
+    "sentence": "καὶ ἀπὸ ψευδοῦς τί ἀληθεύσει;"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "44.26",
+    "form": "ἀληθεύων",
+    "postag": "v-sppamn-",
+    "sentence": "τίς ἕτερος διασκεδάσει σημεῖα ἐγγαστριμύθων καὶ μαντείας ἀπὸ καρδίας, ἀποστρέφων φρονίμους εἰς τὰ ὀπίσω καὶ τὴν βουλὴν αὐτῶν μωραίνων καὶ ἱστῶν ρῆμα παιδὸς αὐτοῦ καὶ τὴν βουλὴν τῶν ἀγγέλων αὐτοῦ ἀληθεύων;"
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "20.16",
+    "form": "ἀλήθευσον",
+    "postag": "v2sama---",
+    "sentence": "καὶ πάντα ἀλήθευσον."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   ἀληθεύω    (< ἀληθής),   [in LXX: Ge 20:16 (יָכַח) Ge 42:16 (אֶמֶת), Pr 21:3 (מִשְׁפָּט), Is 44:26 (שָׁלַם), Si 34:4*;]     to speak the truth (R, mg., deal truly; Field, Notes, 192): Ga 4:16, Eph 4:15.†"
+}

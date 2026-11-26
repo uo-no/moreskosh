@@ -1,0 +1,68 @@
+{
+ "strong": "G2058",
+ "lemma": "ἑρμηνεία",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 12:10",
+   "form": "ἑρμηνεία",
+   "morph": "N-NSF",
+   "gloss_en": "interpretation",
+   "gloss_ja": "解釈",
+   "verse": "ἄλλῳ ἐνεργήματα δυνάμεων, ἄλλῳ προφητεία, ἄλλῳ διακρίσεις πνευμάτων, ἑτέρῳ γένη γλωσσῶν, ἄλλῳ ἑρμηνεία γλωσσῶν·"
+  },
+  {
+   "ref": "1CO 14:26",
+   "form": "ἑρμηνείαν",
+   "morph": "N-ASF",
+   "gloss_en": "interpretation",
+   "gloss_ja": "解釈",
+   "verse": "Τί οὖν ἐστιν, ἀδελφοί; ὅταν συνέρχησθε, ἕκαστος ψαλμὸν ἔχει, διδαχὴν ἔχει, ἀποκάλυψιν ἔχει, γλῶσσαν ἔχει, ἑρμηνείαν ἔχει· πάντα πρὸς οἰκοδομὴν γινέσθω."
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Ecclesiasticus sive Siracides": 2,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "47.17",
+    "form": "ἑρμηνείαις",
+    "postag": "n-p---fd-",
+    "sentence": "ἐν ᾠδαῖς καὶ παροιμίαις καὶ παραβολαῖς καὶ ἐν ἑρμηνείαις ἀπεθαύμασάν σε χῶραι."
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "5.1t",
+    "form": "ἑρμηνεία",
+    "postag": "n-s---fn-",
+    "sentence": "ἔστι δὲ ἡ ἑρμηνεία αὐτῶν ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "0.1",
+    "form": "ἑρμηνείαν",
+    "postag": "n-s---fa-",
+    "sentence": "παρακέκλησθε οὖν μετ’ εὐνοίας καὶ προσοχῆς τὴν ἀνάγνωσιν ποιεῖσθαι καὶ συγγνώμην ἔχειν ἐφ’ οἷς ἂν δοκῶμεν τῶν κατὰ τὴν ἑρμηνείαν πεφιλοπονημένων τισὶ τῶν λέξεων ἀδυναμεῖν ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   ἑρμηνεία, v.s. ἑρμηνία."
+}

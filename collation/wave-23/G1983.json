@@ -1,0 +1,255 @@
+{
+ "strong": "G1983",
+ "lemma": "ἐπισκοπέω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1PE 5:2",
+   "form": "ἐπισκοποῦντες",
+   "morph": "V-PAP-NPM",
+   "gloss_en": "exercising oversight",
+   "gloss_ja": "見守る",
+   "verse": "ποιμάνατε τὸ ἐν ὑμῖν ποίμνιον τοῦ θεοῦ, ἐπισκοποῦντες μὴ ἀναγκαστῶς ἀλλὰ ἑκουσίως κατὰ θεόν, μηδὲ αἰσχροκερδῶς ἀλλὰ προθύμως,"
+  },
+  {
+   "ref": "HEB 12:15",
+   "form": "ἐπισκοποῦντες",
+   "morph": "V-PAP-NPM",
+   "gloss_en": "see to it",
+   "gloss_ja": "見守る",
+   "verse": "ἐπισκοποῦντες μή τις ὑστερῶν ἀπὸ τῆς χάριτος τοῦ θεοῦ, μή τις ῥίζα πικρίας ἄνω φύουσα ἐνοχλῇ καὶ δι’ αὐτῆς μιανθῶσιν πολλοί,"
+  }
+ ],
+ "lxx": {
+  "total": 160,
+  "works": {
+   "Genesis": 3,
+   "Exodus": 4,
+   "Leviticus": 1,
+   "Numeri": 46,
+   "Deuteronomium": 1,
+   "Josue": 1,
+   "Judices": 6,
+   "Ruth": 1,
+   "Regnorum i": 14,
+   "Regnorum ii": 3,
+   "Regnorum iii": 4,
+   "Regnorum iv": 3,
+   "Paralipomenon ii sive Chronicon ii": 2,
+   "Esdras i": 5,
+   "Esdras ii": 7,
+   "Esther": 1,
+   "Judith": 5,
+   "Machabaeorum ii": 1,
+   "Psalmi": 8,
+   "Odae": 2,
+   "Proverbia": 1,
+   "Job": 2,
+   "Ecclesiasticus sive Siracides": 7,
+   "Psalmi Salomonis": 4,
+   "Osee": 1,
+   "Sophonias": 1,
+   "Zacharias": 3,
+   "Jeremias": 19,
+   "Threni seu Lamentationes": 1,
+   "Ezechiel": 3
+  },
+  "representatives": [
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "4.49",
+    "form": "ἐπεσκέπησαν",
+    "postag": "v3paim---",
+    "sentence": "καὶ ἐπεσκέπησαν, ὃν τρόπον συνέταξε Κύριος τῷ Μωυσῇ."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "5.9",
+    "form": "ἐπισκέψομαι",
+    "postag": "v1sfim---",
+    "sentence": "μὴ ἐπὶ τούτοις οὐκ ἐπισκέψομαι;"
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "14.17",
+    "form": "ἐπισκέψασθε",
+    "postag": "v2pamm---",
+    "sentence": "ἐπισκέψασθε δὴ καὶ ἴδετε τίς πεπόρευται ἐξ ὑμῶν ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "8.5",
+    "form": "ἐπισκέπτῃ",
+    "postag": "v2spim---",
+    "sentence": "ἢ υἱὸς ἀνθρώπου, ὅτι ἐπισκέπτῃ αὐτόν;"
+   },
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "6.1",
+    "form": "ἐπεσκέψατο",
+    "postag": "v3saim---",
+    "sentence": "τότε Δαρεῖος ὁ βασιλεὺς ἔθηκε γνώμην καὶ ἐπεσκέψατο ἐν ταῖς βιβλιοθήκαις, ὅπου ἡ γάζα κεῖται ἐν Βαβυλῶνι."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "2.14",
+    "form": "ἐπισκέπτηται",
+    "postag": "v3spsm---",
+    "sentence": "καὶ τί ποιήσετε ὅταν ἐπισκέπτηται ὁ Κύριος;"
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "21.9",
+    "form": "ἐπεσκέπη",
+    "postag": "v3saim---",
+    "sentence": "καὶ ἐπεσκέπη ὁ λαός, καί οὐκ ἦν ἐκεῖ ἀνὴρ ἀπὸ οἰκούντων Ἰαβὶς Γαλαάδ."
+   },
+   {
+    "work_code": "1ES",
+    "work_ja": "エズラ記（ギリシャ語）",
+    "work_src": "Esdras i",
+    "ref": "6.20",
+    "form": "ἐπισκεπήτω",
+    "postag": "v3samm---",
+    "sentence": "νῦν οὖν εἰ κρίνεται, βασιλεῦ, ἐπισκεπήτω ἐν τοῖς βασιλικοῖς βιβλιοφυλακίοις τοῦ Κύρου ·"
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "4.15",
+    "form": "ἐπισκέψασθαι",
+    "postag": "v--anm---",
+    "sentence": "καὶ ἐβόων πρὸς Κύριον ἐκ πάσης δυνάμεως εἰς ἀγαθὸν ἐπισκέψασθαι πάντα οἶκον Ἰσραήλ."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "32.34",
+    "form": "ἐπισκέπτωμαι",
+    "postag": "v1spsm---",
+    "sentence": "ᾗ δ’ ἂν ἡμέρᾳ ἐπισκέπτωμαι, ἐπάξω ἐπ’ αὐτοὺς τὴν ἁμαρτίαν αὐτῶν."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "21.15",
+    "form": "ἐπεσκέψατο",
+    "postag": "v3saim---",
+    "sentence": "καὶ μετὰ ταῦτα ἐπεσκέψατο τὸν λαόν, πάντα υἱὸν δυνάμεως, ἑπτὰ χιλιάδας."
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "3.7",
+    "form": "ἐπισκέπτεται",
+    "postag": "v3spim---",
+    "sentence": "ἐπισκέπτεται διὰ παντὸς τὸν οἶκον αὐτοῦ ὁ δίκαιος τοῦ ἐξᾶραι ἀδικίαν ἐν παραπτώματι αὐτοῦ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 10,
+  "works": {
+   "1 Clement": 1,
+   "Hermas, Pastor": 7,
+   "Ignatius, Letters": 1,
+   "Polycarp, To the Philippians": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "25.3.3",
+    "form": "ἐπισκέπτεται",
+    "postag": "v3spim---",
+    "sentence": "ἐπισκέπτεται οὖν αὐτούς, οἷς ἔδωκεν, εἰ ἄρα τετηρήκασιν αὐτόν."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "25.5",
+    "form": "ἐπισκέπτονται",
+    "postag": "v3ppim---",
+    "sentence": "οἱ οὖν ἱερεῖς ἐπισκέπτονται τὰς ἀναγραφὰς τῶν χρόνων καὶ εὑρίσκουσιν αὐτὸν πεντακοσιοστοῦ ἔτους πεπληρωμένου ἐληλυθέναι."
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "4.9.1",
+    "form": "ἐπισκοπήσει",
+    "postag": "v3sfia---",
+    "sentence": "μόνος αὐτὴν Ἰησοῦς Χριστὸς ἐπισκοπήσει καὶ ἡ ὑμῶν ἀγάπη."
+   },
+   {
+    "work_code": "PPH",
+    "work_ja": "ポリュカルポスのピリピ書簡",
+    "work_src": "Polycarp, To the Philippians",
+    "ref": "6.1",
+    "form": "ἐπισκεπτόμενοι",
+    "postag": "v-pppmmn-",
+    "sentence": "καὶ οἱ πρεσβύτεροι δὲ εὔσπλαγχνοι, εἰς πάντας ἐλεήμονες, ἐπιστρέφοντες τὰ ἀποπεπλανημένα, ἐπισκεπτόμενοι πάντας ἀσθενεῖς, μὴ ἀμελοῦντες χήρας ἢ ὀρφανοῦ ἢ πένητος ἀλλὰ προνοοῦντες ἀεὶ τοῦ καλοῦ ἐνώπιον θεοῦ καὶ ἀνθρώπων, ἀπεχόμενοι πάσης ὀργῆς, προσωποληψίας, κρίσεως ἀδίκου, μακρὰν ὄντες πάσης φιλαργυρίας, μὴ ταχέως πιστεύοντες κατά τινος, μὴ ἀπότομοι ἐν κρίσει, εἰδότες ὅτι πάντες ὀφειλέται ἐσμὲν ἁμαρτίας."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.10.4",
+    "form": "ἐπισκέψασθαι",
+    "postag": "v--anm---",
+    "sentence": "ἐὰν ἔλθη ὁ κύριος ἐπισκέψασθαι τὸν πύργον, οὐκ ἔχει ἡμῖν οὐδὲν μέμψασθαι."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "25.2.9",
+    "form": "ἐπισκεψώμεθα",
+    "postag": "v1pasm---",
+    "sentence": "ἄγωμεν καὶ μετ’ ὀλίγας ἡμέρας ἐπανέλθωμεν καὶ ἐπισκεψώμεθα τὰς ῥάβδους πάσας ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "3.9.2",
+    "form": "ἐπισκέπτεσθε",
+    "postag": "v2ppmm---",
+    "sentence": "νῦν οὖν ἀκούσατέ μου καὶ εἰρηνεύετε ἐν ἑαυτοῖς καὶ ἐπισκέπτεσθε ἀλλήλους καὶ ἀντιλαμβάνεσθε ἀλλήλων, καὶ μὴ μόνοι τὰ κτίσματα τοῦ θεοῦ μεταλαμβάνετε ἐκ καταχύματος, ἀλλὰ μεταδίδοτε καὶ τοῖς ὑστερουμένοις ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "3.5.1",
+    "form": "ἐπισκοπήσαντες",
+    "postag": "v-papamn-",
+    "sentence": "οἱ μὲν οὖν λίθοι οἱ τετράγωνοι καὶ λευκοὶ καὶ συμφωνοῦντες ταῖς ἁρμογαῖς αὐτῶν, οὗτοί εἰσιν οἱ ἀπόστολοι καὶ ἐπίσκοποι καὶ διδάσκαλοι καὶ διάκονοι οἱ πορευθέντες κατὰ τὴν σεμνότητα τοῦ θεοῦ καὶ ἐπισκοπήσαντες καὶ διδάξαντες καὶ διακονήσαντες ἁγνῶς καὶ σεμνῶς τοῖς ἐκλεκτοῖς τοῦ θεοῦ, οἱ μὲν κεκοιμημένοι, οἱ δὲ ἔτι ὄντες ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   ἐπι-σκοπέω, -ῶ    [in LXX for פָּקַד ni., etc. ;]     to look upon, observe, examine: seq. μή, He 12:15.    As ἐπισκέπτομαι in LXX, NT, to visit, care for: I Pe 5:2 (R, txt.; WH om.; Cremer, 527).†"
+}

@@ -1,0 +1,59 @@
+{
+ "strong": "G1846",
+ "lemma": "ἐξορύσσω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "GAL 4:15",
+   "form": "ἐξορύξαντες",
+   "morph": "V-AAP-NPM",
+   "gloss_en": "torn out",
+   "gloss_ja": "掘り出す",
+   "verse": "ποῦ οὖν ὁ μακαρισμὸς ὑμῶν; μαρτυρῶ γὰρ ὑμῖν ὅτι εἰ δυνατὸν τοὺς ὀφθαλμοὺς ὑμῶν ἐξορύξαντες ἐδώκατέ μοι."
+  },
+  {
+   "ref": "MRK 2:4",
+   "form": "ἐξορύξαντες",
+   "morph": "V-AAP-NPM",
+   "gloss_en": "digging through",
+   "gloss_ja": "掘り出す",
+   "verse": "καὶ μὴ δυνάμενοι προσενέγκαι αὐτῷ διὰ τὸν ὄχλον ἀπεστέγασαν τὴν στέγην ὅπου ἦν, καὶ ἐξορύξαντες χαλῶσι τὸν κράβαττον ὅπου ὁ παραλυτικὸς κατέκειτο."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Regnorum i": 1,
+   "Proverbia": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "11.2",
+    "form": "ἐξορύξαι",
+    "postag": "v--ana---",
+    "sentence": "ἐν ταύτῃ διαθήσομαι διαθήκην ὑμῖν, ἐν τῷ ἐξορύξαι ὑμῶν πάντα ὀφθαλμὸν δεξιόν, καὶ θήσομαι ὄνειδος ἐπὶ Ἰσραήλ."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "29.22",
+    "form": "ἐξώρυξεν",
+    "postag": "v3saia---",
+    "sentence": "ἀνὴρ θυμώδης ὀρύσσει νεῖκος, ἀνὴρ δὲ ὀργίλος ἐξώρυξεν ἁμαρτίαν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   ἐξ-ορύσσω     [in LXX: Pr 29:22; ὀφθαλμόν (-ούς), Jg 16:21, I Ki 11:2 (נָקַר)* ;]     to dig out, dig up: στέγην, Mk 2:4; metaph., ὀφθαλμούς (cf. LXX, ll c.; Herod., viii, 116), Ga 4:15.†"
+}

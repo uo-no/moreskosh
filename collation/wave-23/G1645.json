@@ -1,0 +1,126 @@
+{
+ "strong": "G1645",
+ "lemma": "ἐλαφρός",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2CO 4:17",
+   "form": "ἐλαφρὸν",
+   "morph": "A-NSN",
+   "gloss_en": "light",
+   "gloss_ja": "軽い",
+   "verse": "τὸ γὰρ παραυτίκα ἐλαφρὸν τῆς θλίψεως ἡμῶν καθ’ ὑπερβολὴν εἰς ὑπερβολὴν αἰώνιον βάρος δόξης κατεργάζεται ἡμῖν,"
+  },
+  {
+   "ref": "MAT 11:30",
+   "form": "ἐλαφρόν",
+   "morph": "A-NSN",
+   "gloss_en": "light",
+   "gloss_ja": "軽い",
+   "verse": "ὁ γὰρ ζυγός μου χρηστὸς καὶ τὸ φορτίον μου ἐλαφρόν ἐστιν."
+  }
+ ],
+ "lxx": {
+  "total": 5,
+  "works": {
+   "Exodus": 1,
+   "Job": 3,
+   "Ezechiel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "9.25",
+    "form": "ἐλαφρότερος",
+    "postag": "a-s---mnc",
+    "sentence": "ὁ δὲ βίος μού ἐστιν ἐλαφρότερος δρομέως ·"
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "18.26",
+    "form": "ἐλαφρὸν",
+    "postag": "a-s---na-",
+    "sentence": "πᾶν δὲ ρῆμα ὑπέρογκον ἀνεφέροσαν ἐπὶ Μωυσῆν, πᾶν δὲ ρῆμα ἐλαφρὸν ἐκρίνοσαν αὐτοί."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "1.7",
+    "form": "ἐλαφραὶ",
+    "postag": "a-p---fn-",
+    "sentence": "καὶ τὰ σκέλη αὐτῶν ὀρθά, καὶ πτερωτοὶ οἱ πόδες αὐτῶν, καὶ σπινθῆρες ὡς ἐξαστράπτων χαλκός, καὶ ἐλαφραὶ αἱ πτέρυγες αὐτῶν."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "24.18",
+    "form": "ἐλαφρός",
+    "postag": "a-s---mn-",
+    "sentence": "ἐλαφρός ἐστιν ἐπὶ πρόσωπον ὕδατος, καταραθείη ἡ μερὶς αὐτῶν ἐπὶ γῆς, ἀναφανείη δὲ τὰ φυτὰ αὐτῶν ἐπὶ γῆς ξηρά ·"
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "7.6",
+    "form": "ἐλαφρότερος",
+    "postag": "a-s---mnc",
+    "sentence": "ὁ δὲ βίος μού ἐστιν ἐλαφρότερος λαλιᾶς, ἀπόλωλε δὲ ἐν κενῇ ἐλπίδι."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 4,
+  "works": {
+   "Hermas, Pastor": 4
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "10.2.4",
+    "form": "ἐλαφρά",
+    "postag": "a-s---fn-",
+    "sentence": "ἡ δὲ ὀξυχολία πρῶτον μὲν μωρά ἐστιν, ἐλαφρά τε καὶ ἄφρων."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "24.1.6",
+    "form": "ἐλαφροτέρως",
+    "postag": "a-p---mac",
+    "sentence": "ἐρωτήσω δέ καὶ τὸν ἄγγελον τὸν τιμωρητήν, ἵνα σε ἐλαφροτέρως θλίψῃ ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "16.1.6",
+    "form": "ἐλαφρόν",
+    "postag": "a-s---nn-",
+    "sentence": "τὸ δὲ πνεῦμα τὸ ἐπερωτώμενον καὶ λαλοῦν κατὰ τὰς ἐπιθυμίας τῶν ἀνθρώπων ἐπίγειόν ἐστι καὶ ἐλαφρόν, δύναμιν μὴ ἔχον ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "17.4.5",
+    "form": "ἐλαφροὶ",
+    "postag": "a-p---mn-",
+    "sentence": "θέσθε οὖν ὑμεῖς, οἱ κενοὶ καὶ ἐλαφροὶ ὄντες ἐν τῇ πίστει, τὸν κύριον ὑμῶν εἰς τὴν καρδίαν, καὶ γνώσεσθε, ὅτι οὐδέν ἐστιν εὐκοπώτερον τῶν ἐντολῶν τούτων οὔ-τε γλυκύτερον οὔ-τε ἡμερώτερον."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   ἐλαφρός, -ά, -όν     [in LXX chiefly for קַל, קָלָל ;]     light in weight easy to bear: Mt 11:30; θλίψρις (EV, our light affliction), II Co 4:17.†"
+}

@@ -1,0 +1,101 @@
+{
+ "strong": "G1615",
+ "lemma": "ἐκτελέω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 14:29",
+   "form": "ἐκτελέσαι",
+   "morph": "V-AAN",
+   "gloss_en": "finish",
+   "gloss_ja": "完成する",
+   "verse": "ἵνα μήποτε θέντος αὐτοῦ θεμέλιον καὶ μὴ ἰσχύοντος ἐκτελέσαι πάντες οἱ θεωροῦντες ἄρξωνται αὐτῷ ἐμπαίζειν"
+  },
+  {
+   "ref": "LUK 14:30",
+   "form": "ἐκτελέσαι",
+   "morph": "V-AAN",
+   "gloss_en": "finish",
+   "gloss_ja": "完成する",
+   "verse": "λέγοντες ὅτι Οὗτος ὁ ἄνθρωπος ἤρξατο οἰκοδομεῖν καὶ οὐκ ἴσχυσεν ἐκτελέσαι."
+  }
+ ],
+ "lxx": {
+  "total": 5,
+  "works": {
+   "Regnorum iii": 1,
+   "Paralipomenon ii sive Chronicon ii": 1,
+   "Machabaeorum ii": 1,
+   "Odae": 1,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "14.15",
+    "form": "ἐκτελεῖ",
+    "postag": "v3sfia---",
+    "sentence": "Κύριος πλήξει τὸν Ἰσραήλ, καθὰ κινεῖται ὁ ἄνεμος ἐν τῷ ὕδατι, καὶ ἐκτελεῖ τὸν Ἰσραὴλ ἀπὸ ἄνω τῆς χθονὸς τῆς ἀγαθῆς ταύτης, ἧς ἔδωκε τοῖς πατράσιν αὐτῶν, καὶ λικμήσει αὐτοὺς ἀπὸ πέραν τοῦ ποταμοῦ ·"
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "4.5",
+    "form": "ἐξετέλεσε",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἐξετέλεσε."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "15.9",
+    "form": "ἐκτετελεκότες",
+    "postag": "v-prpamn-",
+    "sentence": "καὶ παραμυθούμενος αὐτοὺς ἐκ τοῦ νόμου καὶ τῶν προφητῶν, προσυπομνήσας δὲ αὐτοὺς καὶ τοὺς ἀγῶνας, οὓς ἦσαν ἐκτετελεκότες, προθυμοτέρους αὐτοὺς κατέστησε."
+   },
+   {
+    "work_code": "ODE",
+    "work_ja": "頌歌（オード）",
+    "work_src": "Odae",
+    "ref": "10.40",
+    "form": "ἐκτελέσαι",
+    "postag": "v--ana---",
+    "sentence": "οὕτως γενέσθω ἡ θυσία ἡμῶν ἐνώπιόν σου σήμερον καὶ ἐκτελέσαι ὄπισθέν σου, ὅτι οὐκ ἔστιν αἰσχύνη τοῖς πεποιθόσιν ἐπὶ σοί."
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "3.40",
+    "form": "ἐκτελέσαι",
+    "postag": "v--ana---",
+    "sentence": "ἀλλ’ ἐν ψυχῇ συντετριμμένῃ καὶ πνεύματι ταπεινώσεως προσδεχθείημεν ὡς ἐν ὁλοκαυτώμασι κριῶν καὶ ταύρων καὶ ὡς ἐν μυριάσιν ἀρνῶν πιόνων, οὕτως γενέσθω ἡ θυσία ἡμῶν ἐνώπιόν σου σήμερον καὶ ἐκτελέσαι ὄπισθέν σου, ὅτι οὐκ ἔσται αἰσχύνη τοῖς πεποιθόσιν ἐπὶ σέ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "17.3.3",
+    "form": "ἐκτέλει",
+    "postag": "v2spma---",
+    "sentence": "τὴν διακονίαν ταύτην, ἥν σοι δίδωμι, ἐκτέλει ἐπιμελῶς, καὶ πολὺ ἐργάσῃ ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   ἐκ-τελέω, -ῶ     [in LXX: De 32:45 (כָּלָה), II Ch 4:5,  Da TH 3:40, II Mac 15:9 * ;]    to bring to an end, finish, complete: Lk 14:29, 30.†"
+}

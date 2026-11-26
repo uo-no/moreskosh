@@ -1,0 +1,49 @@
+{
+ "strong": "G1820",
+ "lemma": "ἐξαπορέομαι",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": "εξαπορεω",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2CO 1:8",
+   "form": "ἐξαπορηθῆναι",
+   "morph": "V-APN",
+   "gloss_en": "despaired",
+   "gloss_ja": "絶望する",
+   "verse": "Οὐ γὰρ θέλομεν ὑμᾶς ἀγνοεῖν, ἀδελφοί, ὑπὲρ τῆς θλίψεως ἡμῶν τῆς γενομένης ἐν τῇ Ἀσίᾳ, ὅτι καθ’ ὑπερβολὴν ὑπὲρ δύναμιν ἐβαρήθημεν, ὥστε ἐξαπορηθῆναι ἡμᾶς καὶ τοῦ ζῆν·"
+  },
+  {
+   "ref": "2CO 4:8",
+   "form": "ἐξαπορούμενοι",
+   "morph": "V-PNP-NPM",
+   "gloss_en": "in despair",
+   "gloss_ja": "絶望する",
+   "verse": "ἐν παντὶ θλιβόμενοι ἀλλ’ οὐ στενοχωρούμενοι, ἀπορούμενοι ἀλλ’ οὐκ ἐξαπορούμενοι,"
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Psalmi": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "87.16",
+    "form": "ἐξηπορήθην",
+    "postag": "v1saip---",
+    "sentence": "πτωχός εἰμι ἐγὼ καὶ ἐν κόποις ἐκ νεότητός μου, ὑψωθεὶς δὲ ἐταπεινώθην καὶ ἐξηπορήθην."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2 † ἐξ-απορέω, -ῶ     [in LXX, pass., for פּוּן, Ps 87(88):15 * ;]     so in NT, depon. pass., to be utterly at a loss, be in despair: absol. (as Ps, l.c.), II Co 4:8; τοῦ ζῆν, II Co 1:8.†"
+}

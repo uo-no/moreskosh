@@ -1,0 +1,58 @@
+{
+ "strong": "G1576",
+ "lemma": "ἐκκλείω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "GAL 4:17",
+   "form": "ἐκκλεῖσαι",
+   "morph": "V-AAN",
+   "gloss_en": "exclude",
+   "gloss_ja": "締め出す",
+   "verse": "ζηλοῦσιν ὑμᾶς οὐ καλῶς, ἀλλὰ ἐκκλεῖσαι ὑμᾶς θέλουσιν, ἵνα αὐτοὺς ζηλοῦτε."
+  },
+  {
+   "ref": "ROM 3:27",
+   "form": "ἐξεκλείσθη",
+   "morph": "V-API-3S",
+   "gloss_en": "excluded",
+   "gloss_ja": "締め出す",
+   "verse": "Ποῦ οὖν ἡ καύχησις; ἐξεκλείσθη. διὰ ποίου νόμου; τῶν ἔργων; οὐχί, ἀλλὰ διὰ νόμου πίστεως."
+  }
+ ],
+ "lxx": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "Hermas, Pastor": 2
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "18.1.5",
+    "form": "ἐκκλεισθήσῃ",
+    "postag": "v2sfip---",
+    "sentence": "ἐὰν γὰρ ἐπανακάμψαι θελήσῃς εἰς τὴν πόλιν σου, οὐ μὴ παραδεχθήσῃ, ὅτι ἀπηρνήσω τὸν νόμον τῆς πόλεώς σου, καὶ ἐκκλεισθήσῃ ἀπ’ αὐτῆς."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "3.9.6",
+    "form": "ἐκκλεισθήσεσθε",
+    "postag": "v2pfip---",
+    "sentence": "βλέπετε οὖν ὑμεῖς οἱ γαυριώμενοι ἐν τῷ πλούτῳ ὑμῶν, μήποτε στενάξουσιν οἱ ὑστερούμενοι καὶ ὁ στεναγμὸς αὐτῶν ἀναβήσεται πρὸς τὸν κύριον καὶ ἐκκλεισθήσεσθε μετὰ τῶν ἀγαθῶν ὑμῶν ἔξω τῆς θύρας τοῦ πύργου."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   ἐκ-κλείω     [in LXX: ἐ. κρίσιν, for נָטָה hi., Ex 23:2 (also as v.l., Jb 34:20, Ps 67:30 (Ps 68:30) * ;]     to shut out: Ga 4:17. Pass., Ro 3:27.†"
+}

@@ -1,0 +1,61 @@
+{
+ "strong": "G192",
+ "lemma": "ἀκρασία",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 7:5",
+   "form": "ἀκρασίαν",
+   "morph": "N-ASF",
+   "gloss_en": "lack of self-control",
+   "gloss_ja": "自制心のなさ",
+   "verse": "μὴ ἀποστερεῖτε ἀλλήλους, εἰ μήτι ἂν ἐκ συμφώνου πρὸς καιρὸν ἵνα σχολάσητε τῇ προσευχῇ καὶ πάλιν ἐπὶ τὸ αὐτὸ ἦτε, ἵνα μὴ πειράζῃ ὑμᾶς ὁ Σατανᾶς διὰ τὴν ἀκρασίαν ὑμῶν."
+  },
+  {
+   "ref": "MAT 23:25",
+   "form": "ἀκρασίας",
+   "morph": "N-GSF",
+   "gloss_en": "self-indulgence",
+   "gloss_ja": "自制心のなさ",
+   "verse": "Οὐαὶ ὑμῖν, γραμματεῖς καὶ Φαρισαῖοι ὑποκριταί, ὅτι καθαρίζετε τὸ ἔξωθεν τοῦ ποτηρίου καὶ τῆς παροψίδος, ἔσωθεν δὲ γέμουσιν ἐξ ἁρπαγῆς καὶ ἀκρασίας."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Psalmi Salomonis": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "4.3",
+    "form": "ἀκρασίαις",
+    "postag": "n-p---fd-",
+    "sentence": "καὶ ἡ χεὶρ αὐτοῦ ἐν πρώτοις ἐπ’ αὐτὸν ὡς ἐν ζήλει, καὶ αὐτὸς ἔνοχος ἐν ποικιλίᾳ ἁμαρτιῶν καὶ ἐν ἀκρασίαις."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.15.3",
+    "form": "Ἀκρασία",
+    "postag": "n-s---fn-",
+    "sentence": "ἡ πρώτη Ἀπιστία, ἡ δευτέρα Ἀκρασία, ἡ δὲ τρίτη Ἀπείθεια, ἡ δὲ τετάρτη Ἀπάτη."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   ** ἀκρασία, -ας, ἡ    (< ἀκρατής, q.v.),    [in LXX: I Mac 6:26*;]    in Arist. and later writers = ἀκράτεια (Lft., Notes, 222 f.), want of power, hence want of self-control, incontinence: Mt 23:25, I Co 7:5.†"
+}

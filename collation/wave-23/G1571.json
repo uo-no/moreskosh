@@ -1,0 +1,59 @@
+{
+ "strong": "G1571",
+ "lemma": "ἐκκαθαίρω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 5:7",
+   "form": "ἐκκαθάρατε",
+   "morph": "V-AAM-2P",
+   "gloss_en": "clean out",
+   "gloss_ja": "清める",
+   "verse": "ἐκκαθάρατε τὴν παλαιὰν ζύμην, ἵνα ἦτε νέον φύραμα, καθώς ἐστε ἄζυμοι. καὶ γὰρ τὸ πάσχα ἡμῶν ἐτύθη Χριστός·"
+  },
+  {
+   "ref": "2TI 2:21",
+   "form": "ἐκκαθάρῃ",
+   "morph": "V-AAS-3S",
+   "gloss_en": "cleanses",
+   "gloss_ja": "清める",
+   "verse": "ἐὰν οὖν τις ἐκκαθάρῃ ἑαυτὸν ἀπὸ τούτων, ἔσται σκεῦος εἰς τιμήν, ἡγιασμένον, εὔχρηστον τῷ δεσπότῃ, εἰς πᾶν ἔργον ἀγαθὸν ἡτοιμασμένον."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Josue": 1,
+   "Judices": 1
+  },
+  "representatives": [
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "17.15",
+    "form": "ἐκκάθαρον",
+    "postag": "v2sama---",
+    "sentence": "εἰ λαὸς πολὺς εἶ, ἀνάβηθι εἰς τὸν δρυμὸν καὶ ἐκκάθαρον σεαυτῷ, εἰ στενοχωρεῖ σε τὸ ὄρος τὸ Ἐφραίμ."
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "7.4",
+    "form": "ἐκκαθαρῶ",
+    "postag": "v1sfia---",
+    "sentence": "κατένεγκον αὐτοὺς πρὸς τὸ ὕδωρ, καὶ ἐκκαθαρῶ σοι αὐτὸν ἐκεῖ ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   ἐκ-καθαίρω     [in LXX for בָּעַר, etc. ;]      to cleanse thoroughly, cleanse out: c. acc, ἑαυτόν, II Ti 2:21; of the impurity removed, ζυμήν, I Co 5:7.†"
+}

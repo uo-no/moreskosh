@@ -1,0 +1,49 @@
+{
+ "strong": "G1779",
+ "lemma": "ἐνταφιάζω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JHN 19:40",
+   "form": "ἐνταφιάζειν",
+   "morph": "V-PAN",
+   "gloss_en": "burial",
+   "gloss_ja": "埋葬の準備をする",
+   "verse": "ἔλαβον οὖν τὸ σῶμα τοῦ Ἰησοῦ καὶ ἔδησαν αὐτὸ ὀθονίοις μετὰ τῶν ἀρωμάτων, καθὼς ἔθος ἐστὶν τοῖς Ἰουδαίοις ἐνταφιάζειν."
+  },
+  {
+   "ref": "MAT 26:12",
+   "form": "ἐνταφιάσαι",
+   "morph": "V-AAN",
+   "gloss_en": "burial",
+   "gloss_ja": "埋葬の準備をする",
+   "verse": "βαλοῦσα γὰρ αὕτη τὸ μύρον τοῦτο ἐπὶ τοῦ σώματός μου πρὸς τὸ ἐνταφιάσαι με ἐποίησεν."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Genesis": 1
+  },
+  "representatives": [
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "50.2",
+    "form": "ἐνταφιάσαι",
+    "postag": "v--ana---",
+    "sentence": "καὶ προσέταξεν Ἰωσὴφ τοῖς παισὶν αὐτοῦ τοῖς ἐνταφιασταῖς ἐνταφιάσαι τὸν πατέρα αὐτοῦ, καὶ ἐνεταφίασαν οἱ ἐνταφιασταὶ τὸν Ἰσραήλ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   † ἐνταφιάζω     [in LXX: Ge 50:2 (חָנַט; cf. ἐνταφιαστής, Ge 50:2 for רָפָא; v. Deiss., BS, 120 f.; MM, Exp., xiii)* ;]     a κοινή word (Deiss., LAE, 723),    to prepare for burial: Mt 26:12, Jo 19:40.†"
+}

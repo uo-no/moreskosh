@@ -1,0 +1,108 @@
+{
+ "strong": "G1701",
+ "lemma": "ἐμπαιγμός",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2PE 3:3",
+   "form": "ἐμπαιγμονῇ",
+   "morph": "N-DSF",
+   "gloss_en": "scoffing",
+   "gloss_ja": "あざけり",
+   "verse": "τοῦτο πρῶτον γινώσκοντες ὅτι ἐλεύσονται ἐπ’ ἐσχάτων τῶν ἡμερῶν ἐν ἐμπαιγμονῇ ἐμπαῖκται κατὰ τὰς ἰδίας ἐπιθυμίας αὐτῶν πορευόμενοι"
+  },
+  {
+   "ref": "HEB 11:36",
+   "form": "ἐμπαιγμῶν",
+   "morph": "N-GPM",
+   "gloss_en": "mocking",
+   "gloss_ja": "あざけり",
+   "verse": "ἕτεροι δὲ ἐμπαιγμῶν καὶ μαστίγων πεῖραν ἔλαβον, ἔτι δὲ δεσμῶν καὶ φυλακῆς·"
+  }
+ ],
+ "lxx": {
+  "total": 7,
+  "works": {
+   "Machabaeorum ii": 1,
+   "Machabaeorum iii": 1,
+   "Sapientia Salomonis": 1,
+   "Ecclesiasticus sive Siracides": 1,
+   "Psalmi Salomonis": 2,
+   "Ezechiel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "2.11",
+    "form": "ἐμπαιγμὸν",
+    "postag": "n-s---ma-",
+    "sentence": "ἔστησαν τοὺς υἱοὺς Ιερουσαλημ εἰς ἐμπαιγμὸν ἀντὶ πορνῶν ἐν αὐτῇ ·"
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "7.7",
+    "form": "ἐμπαιγμὸν",
+    "postag": "n-s---ma-",
+    "sentence": "μεταλλάξαντος δὲ τοῦ πρώτου τὸν τρόπον τοῦτον, τὸν δεύτερον ἦγον ἐπὶ τὸν ἐμπαιγμὸν καὶ τὸ τῆς κεφαλῆς δέρμα σὺν ταῖς θριξὶ περισύραντες ἐπηρώτων ·"
+   },
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "5.22",
+    "form": "ἐμπαιγμούς",
+    "postag": "n-p---ma-",
+    "sentence": "καὶ οὐχ οὕτως εἰς ὕπνον κατεχρήσαντο τὸν χρόνον τῆς νυκτός, ὡς εἰς τὸ παντοίους μηχανᾶσθαι τοῖς ταλαιπώροις δοκοῦσιν ἐμπαιγμούς."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "12.25",
+    "form": "ἐμπαιγμὸν",
+    "postag": "n-s---ma-",
+    "sentence": "διὰ τοῦτο ὡς παισὶν ἀλογίστοις τὴν κρίσιν εἰς ἐμπαιγμὸν ἔπεμψας."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "27.28",
+    "form": "ἐμπαιγμὸς",
+    "postag": "n-s---mn-",
+    "sentence": "ἐμπαιγμὸς καὶ ὀνειδισμὸς ὑπερηφάνων, καὶ ἡ ἐκδίκησις ὡς λέων ἐνεδρεύσει αὐτόν."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "22.4",
+    "form": "ἐμπαιγμὸν",
+    "postag": "n-s---ma-",
+    "sentence": "διὰ τοῦτο δέδωκά σε εἰς ὀνειδισμὸν τοῖς ἔθνεσι, καὶ εἰς ἐμπαιγμὸν πάσαις ταῖς χώραις ταῖς ἐγγιζούσαις πρὸς σὲ καὶ ταῖς μακρὰν ἀπεχούσαις ἀπὸ σοῦ, καὶ ἐμπαίξονται ἐν σοί ·"
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "17.12",
+    "form": "ἐμπαιγμὸν",
+    "postag": "n-s---ma-",
+    "sentence": "ἐν ὀργῇ κάλλους αὐτοῦ ἐξαπέστειλεν αὐτὰ ἕως ἐπὶ δυσμῶν καὶ τοὺς ἄρχοντας τῆς γῆς εἰς ἐμπαιγμὸν καὶ οὐκ ἐφείσατο."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   † ἐμ-παιγμός, -οῦ, ὁ    (< ἐμπαίζω, q.v.),    [in LXX: Ez 22:4 (קַלָּסָה), Ps   38:7 B א1 קלה ni.), Wi 12:2, Si 27:28, II Mac 7:7, III Mac 5:22 * ;]     a mocking: He 11:36.†"
+}

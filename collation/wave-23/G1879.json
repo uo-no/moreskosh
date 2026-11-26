@@ -1,0 +1,49 @@
+{
+ "strong": "G1879",
+ "lemma": "ἐπαναπαύομαι",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 10:6",
+   "form": "ἐπαναπαήσεται",
+   "morph": "V-2FPI-3S",
+   "gloss_en": "rest",
+   "gloss_ja": "安らぐ",
+   "verse": "καὶ ἐὰν ᾖ ἐκεῖ υἱὸς εἰρήνης, ἐπαναπαήσεται ἐπ’ αὐτὸν ἡ εἰρήνη ὑμῶν· εἰ δὲ μήγε, ἐφ’ ὑμᾶς ἀνακάμψει."
+  },
+  {
+   "ref": "ROM 2:17",
+   "form": "ἐπαναπαύῃ",
+   "morph": "V-PNI-2S",
+   "gloss_en": "rely on",
+   "gloss_ja": "安らぐ",
+   "verse": "Εἰ δὲ σὺ Ἰουδαῖος ἐπονομάζῃ καὶ ἐπαναπαύῃ νόμῳ καὶ καυχᾶσαι ἐν θεῷ"
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Regnorum iv": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "2.15",
+    "form": "ἐπαναπέπαυται",
+    "postag": "v3srim---",
+    "sentence": "ἐπαναπέπαυται τὸ πνεῦμα Ἠλιοὺ ἐπὶ Ἑλισαιέ ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2 ἐπ-ανα-παύω     [in LXX, mid., for נוּחַ, שָׁעַן ni ;]    to refresh, cause to rest (upon); mid., to rest upon: metaph., c. dat., Ro 2:17; seq. ἐπί, c. acc, Lk 10:6 (Cremer, 827).†"
+}

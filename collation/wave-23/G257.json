@@ -1,0 +1,185 @@
+{
+ "strong": "G257",
+ "lemma": "ἅλων",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 3:17",
+   "form": "ἅλωνα",
+   "morph": "N-ASF",
+   "gloss_en": "threshing floor",
+   "gloss_ja": "打ち場",
+   "verse": "οὗ τὸ πτύον ἐν τῇ χειρὶ αὐτοῦ διακαθᾶραι τὴν ἅλωνα αὐτοῦ καὶ συναγαγεῖν τὸν σῖτον εἰς τὴν ἀποθήκην αὐτοῦ, τὸ δὲ ἄχυρον κατακαύσει πυρὶ ἀσβέστῳ."
+  },
+  {
+   "ref": "MAT 3:12",
+   "form": "ἅλωνα",
+   "morph": "N-ASF",
+   "gloss_en": "threshing floor",
+   "gloss_ja": "打ち場",
+   "verse": "οὗ τὸ πτύον ἐν τῇ χειρὶ αὐτοῦ, καὶ διακαθαριεῖ τὴν ἅλωνα αὐτοῦ καὶ συνάξει τὸν σῖτον αὐτοῦ εἰς τὴν ἀποθήκην, τὸ δὲ ἄχυρον κατακαύσει πυρὶ ἀσβέστῳ."
+  }
+ ],
+ "lxx": {
+  "total": 26,
+  "works": {
+   "Genesis": 2,
+   "Exodus": 2,
+   "Deuteronomium": 1,
+   "Judices": 2,
+   "Ruth": 1,
+   "Regnorum ii": 3,
+   "Regnorum iv": 1,
+   "Paralipomenon i sive Chronicon i": 2,
+   "Job": 2,
+   "Osee": 3,
+   "Michaeas": 1,
+   "Joel": 1,
+   "Sophonias": 1,
+   "Isaias": 1,
+   "Jeremias": 1,
+   "Daniel": 2
+  },
+  "representatives": [
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "24.24",
+    "form": "ἅλωνα",
+    "postag": "n-s---fa-",
+    "sentence": "καὶ ἐκτήσατο Δαυὶδ τὸν ἅλωνα καὶ τοὺς βόας ἐν ἀργυρίῳ σίκλων πεντήκοντα."
+   },
+   {
+    "work_code": "HOS",
+    "work_ja": "ホセア書",
+    "work_src": "Osee",
+    "ref": "9.2",
+    "form": "ἅλων",
+    "postag": "n-s---fn-",
+    "sentence": "ἅλων καὶ ληνὸς οὐκ ἔγνω αὐτούς, καὶ ὁ οἶνος ἐψεύσατο αὐτούς."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "50.11",
+    "form": "ἅλωνι",
+    "postag": "n-s---fd-",
+    "sentence": "καὶ εἶδον οἱ κάτοικοι τῆς γῆς Χαναὰν τὸ πένθος ἐπὶ ἅλωνι Ἀτὰδ καὶ εἶπαν ·"
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "22.29",
+    "form": "ἅλωνος",
+    "postag": "n-s---fg-",
+    "sentence": "ἀπαρχὰς ἅλωνος καὶ ληνοῦ σου οὐ καθυστερήσεις ·"
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "6.37",
+    "form": "ἅλωνι",
+    "postag": "n-s---fd-",
+    "sentence": "εἰ σύ σώζεις ἐν χειρί μου τὸν Ἰσραὴλ καθὼς ἐλάλησας, ἰδοὺ ἐγὼ τίθημι τὸν πόκον τοῦ ἐρίου ἐν τῇ ἅλωνι ·"
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "4.37",
+    "form": "Ἀλὼν",
+    "postag": "n-s---mg-",
+    "sentence": "καὶ Μοσωβὰβ καὶ Ἰεμολὸχ καὶ Ἰωσία υἱὸς Ἀμασία καὶ Ἰωὴλ ( καὶ οὗτος υἱὸς Ἀσαβία ), υἱὸς Σαραία, υἱὸς Ἀσιὴλ καὶ Ἐλιωναΐ καὶ Ἰακαβὰ καὶ Ἰασουΐα καὶ Ἀσαΐα καὶ Ἰεδιὴλ καὶ Ἰσμαὴλ καὶ Βαναίας καὶ Ζουζὰ υἱὸς Σαφαΐ υἱοῦ Ἀλὼν υἱοῦ Ἰεδιὰ υἱοῦ Σεμρὶ υἱοῦ Σαμαίου."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "39.12",
+    "form": "ἅλωνα",
+    "postag": "n-s---fa-",
+    "sentence": "πιστεύσεις δὲ ὅτι ἀποδώσει σοι τὸν σπόρον, εἰσοίσει δέ σου τὸν ἅλωνα;"
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "2.35",
+    "form": "ἅλωνος",
+    "postag": "n-s---fg-",
+    "sentence": "τότε ἐλεπτύνθησαν εἰς ἅπαξ τὸ ὄστρακον, ὁ σίδηρος, ὁ χαλκός, ὁ ἄργυρος, ὁ χρυσός, καὶ ἐγένετο ὡσεὶ κονιορτὸς ἀπὸ ἅλωνος θερινῆς ·"
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "16.13",
+    "form": "ἅλωνός",
+    "postag": "n-s---fg-",
+    "sentence": "ἑορτὴν σκηνῶν ποιήσεις σεαυτῷ ἑπτὰ ἡμέρας ἐν τῷ συναγαγεῖν σε ἐκ τῆς ἅλωνός σου καὶ ἀπὸ τῆς ληνοῦ σου ·"
+   },
+   {
+    "work_code": "RUT",
+    "work_ja": "ルツ記",
+    "work_src": "Ruth",
+    "ref": "3.2",
+    "form": "ἅλωνα",
+    "postag": "n-s---fa-",
+    "sentence": "ἰδοὺ αὐτὸς λικμᾷ τὸν ἅλωνα τῶν κριθῶν ταύτῃ τῇ νυκτί."
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "6.27",
+    "form": "ἅλωνος",
+    "postag": "n-s---fg-",
+    "sentence": "μὴ ἀπὸ ἅλωνος ἢ ἀπὸ ληνοῦ;"
+   },
+   {
+    "work_code": "MIC",
+    "work_ja": "ミカ書",
+    "work_src": "Michaeas",
+    "ref": "4.12",
+    "form": "ἅλωνος",
+    "postag": "n-s---fg-",
+    "sentence": "αὐτοὶ δὲ οὐκ ἔγνωσαν τὸν λογισμὸν Κυρίου καὶ οὐ συνῆκαν τὴν βουλὴν αὐτοῦ, ὅτι συνήγαγεν αὐτοὺς ὡς δράγματα ἅλωνος."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "1 Clement": 1,
+   "Didache": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "56.15",
+    "form": "ἅλωνος",
+    "postag": "n-s---fg-",
+    "sentence": "ἐλεύσῃ δὲ ἐν τάφῳ ὥσπερ σῖτος ὥριμος κατὰ καιρὸν θεριζόμενος, ἢ ὥσπερ θημωνιὰ ἅλωνος καθ’ ὤραν συγκομισθεῖσα."
+   },
+   {
+    "work_code": "DID",
+    "work_ja": "ディダケー",
+    "work_src": "Didache",
+    "ref": "13.3",
+    "form": "ἅλωνος",
+    "postag": "n-s---fg-",
+    "sentence": "πᾶσαν οὖν ἀπαρχὴν γεννημάτων ληνοῦ καὶ ἅλωνος, βοῶν τε καὶ προβάτων λαβὼν δώσεις τὴν ἀπαρχὴν τοῖς προφήταις ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   ἅλων, -ωνος    (for Attic ἅλως, -ω, v. MM, VGT, s.v.), ἡ,    [in LXX   chiefly for גֹּרֶן;]    a threshing floor: Mt 3:12, Lk 3:17 (here prob. by meton. = the grain on the threshing floor).†"
+}

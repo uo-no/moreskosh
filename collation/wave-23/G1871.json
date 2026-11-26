@@ -1,0 +1,59 @@
+{
+ "strong": "G1871",
+ "lemma": "ἐπαιτέω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 16:3",
+   "form": "ἐπαιτεῖν",
+   "morph": "V-PAN",
+   "gloss_en": "beg",
+   "gloss_ja": "物乞いする",
+   "verse": "εἶπεν δὲ ἐν ἑαυτῷ ὁ οἰκονόμος· Τί ποιήσω ὅτι ὁ κύριός μου ἀφαιρεῖται τὴν οἰκονομίαν ἀπ’ ἐμοῦ; σκάπτειν οὐκ ἰσχύω, ἐπαιτεῖν αἰσχύνομαι·"
+  },
+  {
+   "ref": "LUK 18:35",
+   "form": "ἐπαιτῶν",
+   "morph": "V-PAP-NSM",
+   "gloss_en": "begging",
+   "gloss_ja": "物乞いする",
+   "verse": "Ἐγένετο δὲ ἐν τῷ ἐγγίζειν αὐτὸν εἰς Ἰεριχὼ τυφλός τις ἐκάθητο παρὰ τὴν ὁδὸν ἐπαιτῶν."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Psalmi": 1,
+   "Ecclesiasticus sive Siracides": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "108.10",
+    "form": "ἐπαιτησάτωσαν",
+    "postag": "v3pama---",
+    "sentence": "σαλευόμενοι μεταναστήτωσαν οἱ υἱοὶ αὐτοῦ καὶ ἐπαιτησάτωσαν, ἐκβληθήτωσαν ἐκ τῶν οἰκοπέδων αὐτῶν."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "40.28",
+    "form": "ἐπαιτεῖν",
+    "postag": "v--pna---",
+    "sentence": "κρεῖσσον ἀποθανεῖν ἢ ἐπαιτεῖν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ἐπ-αιτέω, -ῶ, [in LXX: Ps 108 (109):10 (H7592) Si 40:28 * ;]   to ask besides.    to beg (as a mendicant; cf. MM, Exp., xiv): Lk 16:3 18:35 (Cremer, 74).†"
+}

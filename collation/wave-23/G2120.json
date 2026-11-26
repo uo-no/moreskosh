@@ -1,0 +1,87 @@
+{
+ "strong": "G2120",
+ "lemma": "εὐκαιρία",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 22:6",
+   "form": "εὐκαιρίαν",
+   "morph": "N-ASF",
+   "gloss_en": "opportunity",
+   "gloss_ja": "好機",
+   "verse": "καὶ ἐξωμολόγησεν, καὶ ἐζήτει εὐκαιρίαν τοῦ παραδοῦναι αὐτὸν ἄτερ ὄχλου αὐτοῖς."
+  },
+  {
+   "ref": "MAT 26:16",
+   "form": "εὐκαιρίαν",
+   "morph": "N-ASF",
+   "gloss_en": "opportunity",
+   "gloss_ja": "好機",
+   "verse": "καὶ ἀπὸ τότε ἐζήτει εὐκαιρίαν ἵνα αὐτὸν παραδῷ."
+  }
+ ],
+ "lxx": {
+  "total": 5,
+  "works": {
+   "Machabaeorum i": 1,
+   "Psalmi": 3,
+   "Ecclesiasticus sive Siracides": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "9.22",
+    "form": "εὐκαιρίαις",
+    "postag": "n-p---fd-",
+    "sentence": "ἱνατί, Κύριε, ἀφέστηκας μακρόθεν, ὑπερορᾷς ἐν εὐκαιρίαις ἐν θλίψεσιν;"
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "11.42",
+    "form": "εὐκαιρίας",
+    "postag": "n-s---fg-",
+    "sentence": "οὐ μόνον ταῦτα ποιήσω σοι καὶ τῷ ἔθνει σου, ἀλλὰ δόξῃ δοξάσω σε καὶ τὸ ἔθνος σου, ἐὰν εὐκαιρίας τύχω."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "38.24",
+    "form": "εὐκαιρίᾳ",
+    "postag": "n-s---fd-",
+    "sentence": "σοφία γραμματέως ἐν εὐκαιρίᾳ σχολῆς, καὶ ὁ ἐλασσούμενος πράξει αὐτοῦ σοφισθήσεται."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "9.10",
+    "form": "εὐκαιρίαις",
+    "postag": "n-p---fd-",
+    "sentence": "καὶ ἐγένετο Κύριος καταφυγὴ τῷ πένητι, βοηθὸς ἐν εὐκαιρίαις ἐν θλίψεσι ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "144.15",
+    "form": "εὐκαιρίᾳ",
+    "postag": "n-s---fd-",
+    "sentence": "οἱ ὀφθαλμοὶ πάντων εἰς σὲ ἐλπίζουσι, καὶ σὺ δίδως τὴν τροφὴν αὐτῶν ἐν εὐκαιρίᾳ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   εὐκαιρία, -ας, ἡ    (< εὔκαιρος),    [in LXX: Ps 9:10 (v. Soph., Lex., s.v.) 9:22 (10:1) 144 (145):15 (עֵת), Si 38:24, I Mac 11:42 * ;]     fitting time, opportunity: seq. ἵνα, Mt 26:16; τοῦ, c. inf., Lk 22:6.†"
+}

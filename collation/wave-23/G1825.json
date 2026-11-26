@@ -1,0 +1,206 @@
+{
+ "strong": "G1825",
+ "lemma": "ἐξεγείρω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 6:14",
+   "form": "ἐξεγερεῖ",
+   "morph": "V-FAI-3S",
+   "gloss_en": "raise ~ up",
+   "gloss_ja": "起こす",
+   "verse": "ὁ δὲ θεὸς καὶ τὸν κύριον ἤγειρεν καὶ ἡμᾶς ἐξεγερεῖ διὰ τῆς δυνάμεως αὐτοῦ."
+  },
+  {
+   "ref": "ROM 9:17",
+   "form": "ἐξήγειρά",
+   "morph": "V-AAI-1S",
+   "gloss_en": "raised ~ up",
+   "gloss_ja": "起こす",
+   "verse": "λέγει γὰρ ἡ γραφὴ τῷ Φαραὼ ὅτι Εἰς αὐτὸ τοῦτο ἐξήγειρά σε ὅπως ἐνδείξωμαι ἐν σοὶ τὴν δύναμίν μου, καὶ ὅπως διαγγελῇ τὸ ὄνομά μου ἐν πάσῃ τῇ γῇ."
+  }
+ ],
+ "lxx": {
+  "total": 84,
+  "works": {
+   "Genesis": 2,
+   "Numeri": 2,
+   "Judices": 4,
+   "Regnorum i": 1,
+   "Regnorum ii": 3,
+   "Regnorum iii": 1,
+   "Paralipomenon ii sive Chronicon ii": 1,
+   "Esdras i": 2,
+   "Esdras ii": 2,
+   "Esther": 1,
+   "Tobias": 1,
+   "Machabaeorum ii": 1,
+   "Psalmi": 15,
+   "Odae": 2,
+   "Proverbia": 1,
+   "Canticum": 5,
+   "Job": 1,
+   "Ecclesiasticus sive Siracides": 3,
+   "Joel": 3,
+   "Jonas": 3,
+   "Habacuc": 3,
+   "Aggaeus": 1,
+   "Zacharias": 6,
+   "Isaias": 9,
+   "Jeremias": 6,
+   "Ezechiel": 2,
+   "Susanna": 1,
+   "Daniel": 2
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "56.9",
+    "form": "ἐξεγέρθητι",
+    "postag": "v2samp---",
+    "sentence": "ἐξεγέρθητι, ἡ δόξα μου ·"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "51.9",
+    "form": "ἐξεγείρου",
+    "postag": "v2spmm---",
+    "sentence": "ἐξεγείρου ὡς ἐν ἀρχῇ ἡμέρας, ὡς γενεὰ αἰῶνος."
+   },
+   {
+    "work_code": "ZEC",
+    "work_ja": "ゼカリヤ書",
+    "work_src": "Zacharias",
+    "ref": "2.17",
+    "form": "ἐξεγήγερται",
+    "postag": "v3srim---",
+    "sentence": "εὐλαβείσθω πᾶσα σὰρξ ἀπὸ προσώπου Κυρίου ὅτι ἐξεγήγερται ἐκ νεφελῶν ἁγίων αὐτοῦ."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "28.38",
+    "form": "ἐξηγέρθησαν",
+    "postag": "v3paip---",
+    "sentence": "ὅτι ἅμα ὡς λέοντες ἐξηγέρθησαν καὶ ὡς σκύμνοι λεόντων."
+   },
+   {
+    "work_code": "SNG",
+    "work_ja": "雅歌",
+    "work_src": "Canticum",
+    "ref": "8.5",
+    "form": "ἐξήγειρά",
+    "postag": "v1saia---",
+    "sentence": "ὑπὸ μῆλον ἐξήγειρά σε ·"
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "5.12",
+    "form": "ἐξεγείρου",
+    "postag": "v2spmm---",
+    "sentence": "ἐξεγείρου, ἐξεγείρου, λάλησον ᾠδήν ·"
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "23.18",
+    "form": "ἐξήγειρε",
+    "postag": "v3saia---",
+    "sentence": "καὶ αὐτὸς ἐξήγειρε τὸ δόρυ αὐτοῦ ἐπὶ τριακοσίους τραυματίας, καὶ αὐτῷ ὄνομα ἐν τοῖς τρισίν ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "40.7",
+    "form": "ἐξηγέρθη",
+    "postag": "v3saip---",
+    "sentence": "ἐν καιρῷ σωτηρίας αὐτοῦ ἐξηγέρθη καὶ ἀποθαυμάζων εἰς οὐδένα φόβον."
+   },
+   {
+    "work_code": "JOL",
+    "work_ja": "ヨエル書",
+    "work_src": "Joel",
+    "ref": "4.12",
+    "form": "ἐξεγειρέσθωσαν",
+    "postag": "v3ppmm---",
+    "sentence": "ἐξεγειρέσθωσαν καὶ ἀναβαινέτωσαν πάντα τὰ ἔθνη εἰς τὴν κοιλάδα Ἰωσαφάτ, διότι ἐκεῖ καθιῶ τοῦ διακρῖναι πάντα τὰ ἔθνη κυκλόθεν."
+   },
+   {
+    "work_code": "JON",
+    "work_ja": "ヨナ書",
+    "work_src": "Jonas",
+    "ref": "1.13",
+    "form": "ἐξηγείρετο",
+    "postag": "v3siim---",
+    "sentence": "καὶ παρεβιάζοντο οἱ ἄνδρες τοῦ ἐπιστρέψαι πρὸς τὴν γῆν καὶ οὐκ ἠδύναντο, ὅτι ἡ θάλασσα ἐπορεύετο καὶ ἐξηγείρετο μᾶλλον ἐπ’ αὐτούς."
+   },
+   {
+    "work_code": "HAB",
+    "work_ja": "ハバクク書",
+    "work_src": "Habacuc",
+    "ref": "3.13",
+    "form": "ἐξήγειρας",
+    "postag": "v2saia---",
+    "sentence": "ἔβαλες εἰς κεφαλὰς ἀνόμων θάνατον, ἐξήγειρας δεσμοὺς ἕως τραχήλου."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "41.21",
+    "form": "ἐξεγερθεὶς",
+    "postag": "v-sappmn-",
+    "sentence": "ἐξεγερθεὶς δὲ ἐκοιμήθην καὶ εἶδον πάλιν ἐν τῷ ὕπνῳ μου, καὶ ὥσπερ ἑπτὰ στάχυες ἀνέβαινον ἐν πυθμένι ἑνὶ πλήρεις καὶ καλοί ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 3,
+  "works": {
+   "1 Clement": 1,
+   "Hermas, Pastor": 2
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "3.1.7",
+    "form": "ἐξεγείρει",
+    "postag": "v3spia---",
+    "sentence": "καὶ ἐξεγείρει με τῆς χειρὸς καὶ ἄγει με πρὸς τὸ συμψέλιον καὶ λέγει τοῖς νεανίσκοις ·"
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "26.2",
+    "form": "ἐξηγέρθην",
+    "postag": "v1saip---",
+    "sentence": "ἐκοιμήθην καὶ ὕπνωσα, ἐξηγέρθην, ὅτι σὺ μετ’ ἐμοῦ εἶ."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "3.12.2",
+    "form": "ἐξηγέρθη",
+    "postag": "v3saip---",
+    "sentence": "εἶτα ἐξαίφνης κατελείφθη αὐτῷ κληρονομία, ἀκούσας δὲ ἐξηγέρθη καὶ περιχαρὴς γενόμενος ἐνεδύσατο τὴν ἰσχύν ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   ἐξ-εγείρω     [in LXX for עוּר ni., hi., etc. ;]    to raise up: Ro 9:17 (cf. ICC, in l); from the dead, I Co 6:14.†"
+}

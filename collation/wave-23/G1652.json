@@ -1,0 +1,67 @@
+{
+ "strong": "G1652",
+ "lemma": "ἐλεεινός",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 15:19",
+   "form": "ἐλεεινότεροι",
+   "morph": "A-NPM-C",
+   "gloss_en": "to be pitied",
+   "gloss_ja": "哀れな",
+   "verse": "εἰ ἐν τῇ ζωῇ ταύτῃ ἐν Χριστῷ ἠλπικότες ἐσμὲν μόνον, ἐλεεινότεροι πάντων ἀνθρώπων ἐσμέν."
+  },
+  {
+   "ref": "REV 3:17",
+   "form": "ἐλεεινὸς",
+   "morph": "A-NSM",
+   "gloss_en": "pitiable",
+   "gloss_ja": "哀れな",
+   "verse": "ὅτι λέγεις ὅτι Πλούσιός εἰμι καὶ πεπλούτηκα καὶ οὐδὲν χρείαν ἔχω, καὶ οὐκ οἶδας ὅτι σὺ εἶ ὁ ταλαίπωρος καὶ ἐλεεινὸς καὶ πτωχὸς καὶ τυφλὸς καὶ γυμνός,"
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Daniel": 3
+  },
+  "representatives": [
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "10.11",
+    "form": "ἐλεεινὸς",
+    "postag": "a-s---mn-",
+    "sentence": "καὶ εἶπέν μοι Δανιηλ, ἄνθρωπος ἐλεεινὸς εἶ ·"
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "9.23",
+    "form": "ἐλεεινὸς",
+    "postag": "a-s---mn-",
+    "sentence": "ἐν ἀρχῇ τῆς δεήσεώς σου ἐξῆλθε πρόσταγμα παρὰ κυρίου, καὶ ἐγὼ ἦλθον ὑποδεῖξαί σοι, ὅτι ἐλεεινὸς εἶ ·"
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "10.19",
+    "form": "ἐλεεινὸς",
+    "postag": "a-s---mn-",
+    "sentence": "καὶ προσέθηκε καὶ ἥψατό μου ὡς ὅρασις ἀνθρώπου καὶ κατίσχυσέ με καὶ εἶπέ μοι Ἄνθρωπος ἐλεεινὸς εἶ, μὴ φοβοῦ, ὑγίαινε ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   ἐλεεινός, -ή, -όν    (< ἔλεος in Re, l.c., WH have the Attic poëtic form, ἐλεινός),     pitiable, miserable: Re 3:17; comparat., I Co 15:19.†"
+}

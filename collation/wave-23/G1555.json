@@ -1,0 +1,151 @@
+{
+ "strong": "G1555",
+ "lemma": "ἐκδιηγέομαι",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 15:3",
+   "form": "ἐκδιηγούμενοι",
+   "morph": "V-PNP-NPM",
+   "gloss_en": "describing in detail",
+   "gloss_ja": "詳しく語る",
+   "verse": "οἱ μὲν οὖν προπεμφθέντες ὑπὸ τῆς ἐκκλησίας διήρχοντο τήν τε Φοινίκην καὶ Σαμάρειαν ἐκδιηγούμενοι τὴν ἐπιστροφὴν τῶν ἐθνῶν, καὶ ἐποίουν χαρὰν μεγάλην πᾶσι τοῖς ἀδελφοῖς."
+  },
+  {
+   "ref": "ACT 13:41",
+   "form": "ἐκδιηγῆται",
+   "morph": "V-PNS-3S",
+   "gloss_en": "tells",
+   "gloss_ja": "詳しく語る",
+   "verse": "Ἴδετε, οἱ καταφρονηταί, καὶ θαυμάσατε καὶ ἀφανίσθητε, ὅτι ἔργον ἐργάζομαι ἐγὼ ἐν ταῖς ἡμέραις ὑμῶν, ἔργον ὃ οὐ μὴ πιστεύσητε ἐάν τις ἐκδιηγῆται ὑμῖν."
+  }
+ ],
+ "lxx": {
+  "total": 13,
+  "works": {
+   "Job": 1,
+   "Ecclesiasticus sive Siracides": 10,
+   "Habacuc": 1,
+   "Ezechiel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "43.31",
+    "form": "ἐκδιηγήσεται",
+    "postag": "v3sfim---",
+    "sentence": "τίς ἑώρακεν αὐτὸν καὶ ἐκδιηγήσεται;"
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "12.8",
+    "form": "ἐκδιήγησαι",
+    "postag": "v2samm---",
+    "sentence": "ἐκδιήγησαι γῇ, ἐάν σοι φράσῃ, καὶ ἐξηγήσονταί σοι οἱ ἰχθύες τῆς θαλάσσης."
+   },
+   {
+    "work_code": "HAB",
+    "work_ja": "ハバクク書",
+    "work_src": "Habacuc",
+    "ref": "1.5",
+    "form": "ἐκδιηγῆται",
+    "postag": "v3spsm---",
+    "sentence": "ἴδετε, οἱ καταφρονηταί, καὶ ἐπιβλέψατε καὶ θαυμάσατε θαυμάσια καὶ ἀφανίσθητε, διότι ἔργον ἐγὼ ἐργάζομαι ἐν ταῖς ἡμέραις ὑμῶν, ὃ οὐ μὴ πιστεύσητε, ἐάν τις ἐκδιηγῆται."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "12.16",
+    "form": "ἐκδιηγῶνται",
+    "postag": "v3ppsm---",
+    "sentence": "καὶ ὑπολείψομαι ἐξ αὐτῶν ἄνδρας ἀριθμῷ ἐκ ρομφαίας καὶ ἐκ λιμοῦ καὶ ἐκ θανάτου, ὅπως ἐκδιηγῶνται πάσας τὰς ἀνομίας αὐτῶν ἐν τοῖς ἔθνεσιν, οὗ εἰσήλθοσαν ἐκεῖ ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "18.5",
+    "form": "ἐκδιηγήσασθαι",
+    "postag": "v--anm---",
+    "sentence": "καὶ τίς προσθήσει ἐκδιηγήσασθαι τὰ ἐλέη αὐτοῦ;"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "39.12",
+    "form": "ἐκδιηγήσομαι",
+    "postag": "v1sfim---",
+    "sentence": "ἔτι διανοηθεὶς ἐκδιηγήσομαι καὶ ὡς διχομηνία ἐπληρώθην."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "36.7",
+    "form": "ἐκδιηγησάσθωσαν",
+    "postag": "v3pamm---",
+    "sentence": "σπεῦσον καιρὸν καὶ μνήσθητι ὁρκισμοῦ, καὶ ἐκδιηγησάσθωσαν τὰ μεγαλεῖά σου."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "42.15",
+    "form": "ἐκδιηγήσομαι",
+    "postag": "v1sfim---",
+    "sentence": "μνησθήσομαι δὴ τὰ ἔργα Κυρίου, καὶ ἃ ἑώρακα ἐκδιηγήσομαι ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "44.8",
+    "form": "ἐκδιηγήσασθαι",
+    "postag": "v--anm---",
+    "sentence": "εἰσὶν αὐτῶν οἳ κατέλιπον ὄνομα τοῦ ἐκδιηγήσασθαι ἐπαίνους ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "34.9",
+    "form": "ἐκδιηγήσεται",
+    "postag": "v3sfim---",
+    "sentence": "ἀνὴρ πεπαιδευμένος ἔγνω πολλά, καὶ ὁ πολύπειρος ἐκδιηγήσεται σύνεσιν."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "31.11",
+    "form": "ἐκδιηγήσεται",
+    "postag": "v3sfim---",
+    "sentence": "στερεωθήσεται τὰ ἀγαθὰ αὐτοῦ, καὶ τὰς ἐλεημοσύνας αὐτοῦ ἐκδιηγήσεται ἐκκλησία."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "1.24",
+    "form": "ἐκδιηγήσεται",
+    "postag": "v3sfim---",
+    "sentence": "ἕως καιροῦ κρύψει τοὺς λόγους αὐτοῦ, καὶ χείλη πιστῶν ἐκδιηγήσεται σύνεσιν αὐτοῦ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   ἐκ-δι-ηγέομαι, -οῦμαι  depon.,     [in LXX chiefly for סָפַר, pi. ;]     to tell in detail, relate, declare: Ac 13:41 (LXX) 15:3.†"
+}

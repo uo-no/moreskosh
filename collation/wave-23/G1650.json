@@ -1,0 +1,187 @@
+{
+ "strong": "G1650",
+ "lemma": "ἔλεγχος",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2TI 3:16",
+   "form": "ἐλεγμόν",
+   "morph": "N-ASM",
+   "gloss_en": "reproof",
+   "gloss_ja": "叱責",
+   "verse": "πᾶσα γραφὴ θεόπνευστος καὶ ὠφέλιμος πρὸς διδασκαλίαν, πρὸς ἐλεγμόν, πρὸς ἐπανόρθωσιν, πρὸς παιδείαν τὴν ἐν δικαιοσύνῃ,"
+  },
+  {
+   "ref": "HEB 11:1",
+   "form": "ἔλεγχος",
+   "morph": "N-NSM",
+   "gloss_en": "conviction",
+   "gloss_ja": "叱責",
+   "verse": "Ἔστιν δὲ πίστις ἐλπιζομένων ὑπόστασις, πραγμάτων ἔλεγχος οὐ βλεπομένων·"
+  }
+ ],
+ "lxx": {
+  "total": 33,
+  "works": {
+   "Psalmi": 1,
+   "Proverbia": 13,
+   "Job": 5,
+   "Sapientia Salomonis": 5,
+   "Ecclesiasticus sive Siracides": 5,
+   "Psalmi Salomonis": 1,
+   "Osee": 1,
+   "Habacuc": 1,
+   "Ezechiel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "27.5",
+    "form": "ἔλεγχοι",
+    "postag": "n-p---mn-",
+    "sentence": "κρείσσους ἔλεγχοι ἀποκεκαλυμμένοι κρυπτομένης φιλίας."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "23.4",
+    "form": "ἐλέγχων",
+    "postag": "n-p---mg-",
+    "sentence": "εἴποιμι δὲ ἐμαυτοῦ κρίμα, τὸ δὲ στόμα μου ἐμπλήσαι ἐλέγχων ·"
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "2.14",
+    "form": "ἔλεγχον",
+    "postag": "n-s---ma-",
+    "sentence": "ἐγένετο ἡμῖν εἰς ἔλεγχον ἐννοιῶν ἡμῶν ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "48.7",
+    "form": "ἐλεγμὸν",
+    "postag": "n-s---ma-",
+    "sentence": "ὁ ἀκούων ἐν Σινᾷ ἐλεγμὸν καὶ ἐν Χωρὴβ κρίματα ἐκδικήσεως ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "72.14",
+    "form": "ἔλεγχός",
+    "postag": "n-s---mn-",
+    "sentence": "καὶ ἐγενόμην μεμαστιγωμένος ὅλην τὴν ἡμέραν, καὶ ὁ ἔλεγχός μου εἰς τὰς πρωΐας."
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "",
+    "form": "ἔλεγχον",
+    "postag": "n-s---ma-",
+    "sentence": "εἰς ἔλεγχον."
+   },
+   {
+    "work_code": "HOS",
+    "work_ja": "ホセア書",
+    "work_src": "Osee",
+    "ref": "5.9",
+    "form": "ἐλέγχου",
+    "postag": "n-s---mg-",
+    "sentence": "ἐξέστη Βενιαμίν, Ἐφραὶμ εἰς ἀφανισμὸν ἐγένετο ἐν ἡμέραις ἐλέγχου ·"
+   },
+   {
+    "work_code": "HAB",
+    "work_ja": "ハバクク書",
+    "work_src": "Habacuc",
+    "ref": "2.1",
+    "form": "ἔλεγχόν",
+    "postag": "n-s---ma-",
+    "sentence": "επὶ τῆς φυλακῆς μου στήσομαι καὶ ἐπιβήσομαι ἐπὶ πέτραν καὶ ἀποσκοπεύσω τοῦ ἰδεῖν τί λαλήσει ἐν ἐμοὶ καὶ τί ἀποκριθῶ ἐπὶ τὸν ἔλεγχόν μου."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "13.14",
+    "form": "ἐλέγχων",
+    "postag": "n-p---mg-",
+    "sentence": "καὶ θήσω αὐτὸν ἐπὶ τὴν γῆν, καὶ ἀποκαλυφθήσεται τὰ θεμέλια αὐτοῦ, καὶ πεσεῖται, καὶ συντελεσθήσεσθε μετ’ ἐλέγχων ·"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "5.12",
+    "form": "ἐλέγχους",
+    "postag": "n-p---ma-",
+    "sentence": "πῶς ἐμίσησα παιδείαν, καὶ ἐλέγχους ἐξέκλινεν ἡ καρδία μου;"
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "16.21",
+    "form": "ἔλεγχος",
+    "postag": "n-s---mn-",
+    "sentence": "εἴη δὲ ἔλεγχος ἀνδρὶ ἔναντι Κυρίου καὶ υἱῷ ἀνθρώπου τῷ πλησίον αὐτοῦ."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "17.7",
+    "form": "ἔλεγχος",
+    "postag": "n-s---mn-",
+    "sentence": "μαγικῆς δὲ ἐμπαίγματα κατέκειτο τέχνης, καὶ τῆς ἐπί φρονήσει ἀλαζονείας ἔλεγχος ἐφύβριστος ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 3,
+  "works": {
+   "1 Clement": 2,
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "57.5",
+    "form": "ἐλέγχους",
+    "postag": "n-p---ma-",
+    "sentence": "ἐμίσησαν γὰρ σοφίαν, τὸν δὲ φόβον τοῦ κυρίου οὐ προείλαντο, οὐ-δὲ ἤθελον ἐμαῖς προσέχειν βουλαῖς, ἐμυκτήριζον δὲ ἐμοὺς ἐλέγχους."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "1.1.6",
+    "form": "ἔλεγχος",
+    "postag": "n-s---mn-",
+    "sentence": "νῦν σύ μου ἔλεγχος εἶ;"
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "57.4",
+    "form": "ἐλέγχοις",
+    "postag": "n-p---md-",
+    "sentence": "ἐπειδὴ ἐκάλουν καὶ οὐχ ὑπηκούσατε, καὶ ἐξέτεινον λόγους καὶ οὐ προσείχετε, ἀλλὰ ἀκύρους ἐποιεῖτε τὰς ἐμὰς βουλάς, τοῖς δὲ ἐμοῖς ἐλέγχοις ἠπειθήσατε ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1 † ἐλεγμός, -οῦ, ὁ    (< ἐλέγχω),    [in LXX: Ps 38:14 39:11 (תּוֹכֵחָה), Si 20:29 21:6 41:4, al. ;]     reproof: II Ti 3:16.†"
+}

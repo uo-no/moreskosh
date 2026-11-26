@@ -1,0 +1,79 @@
+{
+ "strong": "G1592",
+ "lemma": "ἐκμυκτηρίζω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 16:14",
+   "form": "ἐξεμυκτήριζον",
+   "morph": "V-IAI-3P",
+   "gloss_en": "ridiculed",
+   "gloss_ja": "あざける",
+   "verse": "Ἤκουον δὲ ταῦτα πάντα οἱ Φαρισαῖοι φιλάργυροι ὑπάρχοντες, καὶ ἐξεμυκτήριζον αὐτόν."
+  },
+  {
+   "ref": "LUK 23:35",
+   "form": "ἐξεμυκτήριζον",
+   "morph": "V-IAI-3P",
+   "gloss_en": "scoffed at",
+   "gloss_ja": "あざける",
+   "verse": "καὶ εἱστήκει ὁ λαὸς θεωρῶν. ἐξεμυκτήριζον δὲ καὶ οἱ ἄρχοντες λέγοντες· Ἄλλους ἔσωσεν, σωσάτω ἑαυτόν, εἰ οὗτός ἐστιν ὁ χριστὸς τοῦ θεοῦ, ὁ ἐκλεκτός."
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Psalmi": 3
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "2.4",
+    "form": "ἐκμυκτηριεῖ",
+    "postag": "v3sfia---",
+    "sentence": "ὁ κατοικῶν ἐν οὐρανοῖς ἐκγελάσεται αὐτούς, καὶ ὁ Κύριος ἐκμυκτηριεῖ αὐτούς."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "34.16",
+    "form": "ἐξεμυκτήρισάν",
+    "postag": "v3paia---",
+    "sentence": "ἐπείρασάν με, ἐξεμυκτήρισάν με μυκτηρισμῷ, ἔβρυξαν ἐπ’ ἐμὲ τοὺς ὀδόντας αὐτῶν."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "21.8",
+    "form": "ἐξεμυκτήρισάν",
+    "postag": "v3paia---",
+    "sentence": "πάντες οἱ θεωροῦντές με ἐξεμυκτήρισάν με, ἐλάλησαν ἐν χείλεσιν, ἐκίνησαν κεφαλήν ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "1 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "16.16",
+    "form": "ἐξεμυκτήρισάν",
+    "postag": "v3paia---",
+    "sentence": "πάντες οἱ θεωροῦντές με ἐξεμυκτήρισάν με, ἐλάλησαν ἐν χείλεσιν, ἐκίνησαν κεφαλήν ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   † ἐκ-μυκτηρίζω     [in LXX: Ps 2:4 22:7 35:16 (לָעַג), I Es 1:51 A* ;]    to hold up the nose in derision at, scoff at: c. acc, Lk 16:14 23:35.†"
+}

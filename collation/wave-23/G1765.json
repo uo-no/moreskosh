@@ -1,0 +1,189 @@
+{
+ "strong": "G1765",
+ "lemma": "ἐνισχύω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 9:19",
+   "form": "ἐνίσχυσεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "regained ~ strength",
+   "gloss_ja": "強くする",
+   "verse": "καὶ λαβὼν τροφὴν ἐνίσχυσεν. Ἐγένετο δὲ μετὰ τῶν ἐν Δαμασκῷ μαθητῶν ἡμέρας τινὰς,"
+  },
+  {
+   "ref": "LUK 22:43",
+   "form": "ἐνισχύων",
+   "morph": "V-PAP-NSM",
+   "gloss_en": "strengthening",
+   "gloss_ja": "強くする",
+   "verse": "ὤφθη δὲ αὐτῷ ἄγγελος ἀπ’ οὐρανοῦ ἐνισχύων αὐτόν."
+  }
+ ],
+ "lxx": {
+  "total": 57,
+  "works": {
+   "Genesis": 7,
+   "Deuteronomium": 1,
+   "Judices": 5,
+   "Regnorum ii": 2,
+   "Regnorum iv": 2,
+   "Paralipomenon i sive Chronicon i": 3,
+   "Paralipomenon ii sive Chronicon ii": 2,
+   "Esdras ii": 3,
+   "Machabaeorum i": 2,
+   "Machabaeorum iii": 1,
+   "Psalmi": 1,
+   "Odae": 1,
+   "Ecclesiasticus sive Siracides": 2,
+   "Psalmi Salomonis": 2,
+   "Osee": 3,
+   "Joel": 1,
+   "Isaias": 5,
+   "Jeremias": 2,
+   "Ezechiel": 4,
+   "Daniel": 8
+  },
+  "representatives": [
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "11.5",
+    "form": "ἐνισχύσει",
+    "postag": "v3sfia---",
+    "sentence": "καὶ ἐνισχύσει βασιλείαν Αἰγύπτου ·"
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "47.13",
+    "form": "ἐνίσχυσε",
+    "postag": "v3saia---",
+    "sentence": "ἐνίσχυσε γὰρ ὁ λιμὸς σφόδρα."
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "1.28",
+    "form": "ἐνίσχυσεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἐγένετο ὅτε ἐνίσχυσεν Ἰσραήλ, καὶ ἐποίησε τὸν Χαναναῖον εἰς φόρον καὶ ἐξαίρων οὐκ ἐξῇρεν αὐτόν."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "33.23",
+    "form": "ἐνίσχυσαν",
+    "postag": "v3paia---",
+    "sentence": "ἐρράγησαν τὰ σχοινία σου, ὅτι οὐκ ἐνίσχυσαν ·"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "30.25",
+    "form": "ἐνισχύσω",
+    "postag": "v1sfia---",
+    "sentence": "καὶ ἐνισχύσω τοὺς βραχίονας βασιλέως Βαβυλῶνος, οἱ δέ βραχίονες Φαραὼ πεσοῦνται ·"
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "15.21",
+    "form": "ἐνισχῦσαι",
+    "postag": "v--ana---",
+    "sentence": "καὶ Ματταθίας καὶ Ἐλιφαλίας καὶ Μακενίας καὶ Ἀβδεδὸμ καὶ Ἰεϊὴλ καὶ Ὀζίας ἐν κινύραις ἀμασενὶθ τοῦ ἐνισχῦσαι."
+   },
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "9.12",
+    "form": "ἐνισχύσητε",
+    "postag": "v2pasa---",
+    "sentence": "καὶ νῦν τὰς θυγατέρας ὑμῶν μὴ δότε τοῖς υἱοῖς αὐτῶν καὶ ἀπὸ τῶν θυγατέρων αὐτῶν μὴ λάβητε τοῖς υἱοῖς ὑμῶν καὶ οὐκ ἐκζητήσετε εἰρήνην αὐτῶν καὶ ἀγαθὸν αὐτῶν ἕως αἰῶνος, ὅπως ἐνισχύσητε καὶ φάγητε τὰ ἀγαθὰ τῆς γῆς καὶ κληροδοτήσητε τοῖς υἱοῖς ὑμῶν ἕως αἰῶνος."
+   },
+   {
+    "work_code": "HOS",
+    "work_ja": "ホセア書",
+    "work_src": "Osee",
+    "ref": "10.11",
+    "form": "ἐνισχύσει",
+    "postag": "v3sfia---",
+    "sentence": "ἐπιβιβῶ Ἐφραὶμ καὶ παρασιωπήσομαι Ἰούδαν, ἐνισχύσει αὐτῷ Ἰακώβ."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "22.40",
+    "form": "ἐνισχύσεις",
+    "postag": "v2sfia---",
+    "sentence": "καὶ ἐνισχύσεις με δυνάμει εἰς πόλεμον, κάμψεις τοὺς ἐπιστανομένους μοι ὑποκάτω μου ·"
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "12.9",
+    "form": "ἐνισχῦσαι",
+    "postag": "v--ana---",
+    "sentence": "καὶ συνεφώνησαν οἱ ἱερεῖς τοῦ μὴ λαβεῖν ἀργύριον παρὰ τοῦ λαοῦ καὶ τοῦ μὴ ἐνισχῦσαι τὸ βεδὲκ τοῦ οἴκου."
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "1.1",
+    "form": "ἐνίσχυσε",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἐνίσχυσε Σαλωμὼν υἱὸς Δαυὶδ ἐπὶ τὴν βασιλείαν αὐτοῦ, καὶ Κύριος ὁ Θεὸς αὐτοῦ μετ’ αὐτοῦ καὶ ἐμεγάλυνεν αὐτὸν εἰς ὕψος."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "1.34",
+    "form": "ἐνίσχυσαν",
+    "postag": "v3paia---",
+    "sentence": "καὶ ἔθηκαν ἐκεῖ ἔθνος ἁμαρτωλόν, ἄνδρας παρανόμους, καὶ ἐνίσχυσαν ἐν αὐτῇ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "Barnabas": 1,
+   "Martyrdom of Polycarp": 1
+  },
+  "representatives": [
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "14.7",
+    "form": "ἐνισχύσω",
+    "postag": "v1sfia---",
+    "sentence": "ἐγὼ κύριος, ὁ θεός σου, ἐκάλεσά σε ἐν δικαιοσύνῃ καὶ κρατήσω τῆς χειρός σου καὶ ἐνισχύσω σε, καὶ ἔδωκά σε εἰς διαθήκην γένους, εἰς φῶς ἐθνῶν ἀνοῖξαι ὀφθαλμοὺς τυφλῶν καὶ ἐξαγαγεῖν ἐκ δεσμῶν πεπεδημένους καὶ ἐξ οἴκου φυλακῆς καθημένους ἐν σκότει."
+   },
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "17.2",
+    "form": "ἐνισχυόντων",
+    "postag": "v-pppamg-",
+    "sentence": "καὶ ταῦτα εἶπον ὑποβαλλόντων καὶ ἐνισχυόντων τῶν Ἰουδαίων, οἳ καὶ ἐτήρησαν, μελλόντων ἡμῶν ἐκ τοῦ πυρὸς αὐτὸν λαμβάνειν ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   ἐν-ισχύω     [in LXX for חָזַק, etc. ;]     to strengthen: in spiritual sense, Lk 22[43]; pass., Ac 9:19 (Rec. ἐνισχύσεν, became strong, as in LXX, Ge 12:10 48:2, al.).†"
+}

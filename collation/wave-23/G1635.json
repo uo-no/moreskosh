@@ -1,0 +1,91 @@
+{
+ "strong": "G1635",
+ "lemma": "ἑκών",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 9:17",
+   "form": "ἑκὼν",
+   "morph": "A-NSM",
+   "gloss_en": "voluntarily",
+   "gloss_ja": "自発的な",
+   "verse": "εἰ γὰρ ἑκὼν τοῦτο πράσσω, μισθὸν ἔχω· εἰ δὲ ἄκων, οἰκονομίαν πεπίστευμαι."
+  },
+  {
+   "ref": "ROM 8:20",
+   "form": "ἑκοῦσα",
+   "morph": "A-NSF",
+   "gloss_en": "willingly",
+   "gloss_ja": "自発的な",
+   "verse": "τῇ γὰρ ματαιότητι ἡ κτίσις ὑπετάγη, οὐχ ἑκοῦσα ἀλλὰ διὰ τὸν ὑποτάξαντα, ἐφ’ ἑλπίδι"
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Exodus": 1,
+   "Job": 1
+  },
+  "representatives": [
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "21.13",
+    "form": "ἑκών",
+    "postag": "a-s---mn-",
+    "sentence": "ὁ δὲ οὐχ ἑκών, ἀλλ’ ὁ Θεὸς παρέδωκεν εἰς τὰς χεῖρας αὐτοῦ, δώσω σοι τόπον, οὗ φεύξεται ἐκεῖ ὁ φονεύσας."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "36.19",
+    "form": "ἑκὼν",
+    "postag": "a-s---mn-",
+    "sentence": "μή σε ἐκκλινάτω ἑκὼν ὁ νοῦς δεήσεως ἐν ἀνάγκῃ ὄντων ἀδυνάτων, καὶ πάντας τοὺς κραταιοῦντας ἰσχύν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 3,
+  "works": {
+   "To Diognetus": 1,
+   "Ignatius, Letters": 1,
+   "Martyrdom of Polycarp": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "2",
+    "form": "ἑκὼν",
+    "postag": "a-s---mn-",
+    "sentence": "ἀλλὰ ἄνθρωπος μὲν οὐ-δὲ εἷς ταύτης τῆς κολάσεως ἑκὼν ἀνέξεται, αἴσθησιν γὰρ ἔχει καὶ λογισμόν ·"
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "4.4.1",
+    "form": "ἑκὼν",
+    "postag": "a-s---mn-",
+    "sentence": "ἐγὼ γράφω πάσαις ταῖς ἐκκλησίαις, καὶ ἐντέλλομαι πᾶσιν, ὅτι ἐγὼ ἑκὼν ὑπὲρ θεοῦ ἀποθνήσκω, ἐάνπερ ὑμεῖς μὴ κωλύσητε."
+   },
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "4.1",
+    "form": "ἑκόντας",
+    "postag": "a-p---ma-",
+    "sentence": "οὗτος δὲ ἦν ὁ παραβιασάμενος ἑαυτόν τε καί τινας προσελθεῖν ἑκόντας."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   ἑκών, -οῦσα, -όν     [in LXX: Ex 21:13, Jb 36:19 * ;]     willing, of one's own free will: Ro 8:20, I Co 9:17 (Cremer, 246).†"
+}

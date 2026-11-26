@@ -1,0 +1,58 @@
+{
+ "strong": "G1723",
+ "lemma": "ἐναγκαλίζομαι",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MRK 10:16",
+   "form": "ἐναγκαλισάμενος",
+   "morph": "V-ADP-NSM",
+   "gloss_en": "took ~ in ~ arms",
+   "gloss_ja": "抱きかかえる",
+   "verse": "καὶ ἐναγκαλισάμενος αὐτὰ κατευλόγει τιθεὶς τὰς χεῖρας ἐπ’ αὐτά."
+  },
+  {
+   "ref": "MRK 9:36",
+   "form": "ἐναγκαλισάμενος",
+   "morph": "V-ADP-NSM",
+   "gloss_en": "taking ~ in ~ arms",
+   "gloss_ja": "抱きかかえる",
+   "verse": "καὶ λαβὼν παιδίον ἔστησεν αὐτὸ ἐν μέσῳ αὐτῶν καὶ ἐναγκαλισάμενος αὐτὸ εἶπεν αὐτοῖς·"
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Proverbia": 2
+  },
+  "representatives": [
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "6.10",
+    "form": "ἐναγκαλίζῃ",
+    "postag": "v2spim---",
+    "sentence": "ὀλίγον μὲν ὑπνοῖς, ὀλίγον δὲ κάθησαι, μικρὸν δὲ νυστάζεις, ὀλίγον δὲ ἐναγκαλίζῃ χερσὶ στήθη ·"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "24b.33",
+    "form": "ἐναγκαλίζομαι",
+    "postag": "v1spim---",
+    "sentence": "ὕστερον ἐγὼ μετενόησα, ἐπέβλεψα τοῦ ἐκλέξασθαι παιδείαν, ὀλίγον νυστάζω, ὀλίγον δὲ καθυπνῶ, ὀλίγον δὲ ἐναγκαλίζομαι χερσὶ στήθη ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   † ἐν-αγκαλίζομαι    (< ἀγκάλη),    [in LXX for חִבֻּק pi., Pr 6:10 24:33 * ;]    to take into one's arms: Mk 9:36 10:16.†"
+}

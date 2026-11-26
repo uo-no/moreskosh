@@ -1,0 +1,171 @@
+{
+ "strong": "G1951",
+ "lemma": "ἐπιλέγω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 15:40",
+   "form": "ἐπιλεξάμενος",
+   "morph": "V-AMP-NSM",
+   "gloss_en": "chose",
+   "gloss_ja": "名付ける",
+   "verse": "Παῦλος δὲ ἐπιλεξάμενος Σιλᾶν ἐξῆλθεν παραδοθεὶς τῇ χάριτι τοῦ κυρίου ὑπὸ τῶν ἀδελφῶν,"
+  },
+  {
+   "ref": "JHN 5:2",
+   "form": "ἐπιλεγομένη",
+   "morph": "V-PPP-NSF",
+   "gloss_en": "called",
+   "gloss_ja": "名付ける",
+   "verse": "ἔστιν δὲ ἐν τοῖς Ἱεροσολύμοις ἐπὶ τῇ προβατικῇ κολυμβήθρα ἡ ἐπιλεγομένη Ἑβραϊστὶ Βηθεσδά, πέντε στοὰς ἔχουσα·"
+  }
+ ],
+ "lxx": {
+  "total": 36,
+  "works": {
+   "Exodus": 3,
+   "Deuteronomium": 1,
+   "Josue": 1,
+   "Regnorum ii": 2,
+   "Regnorum iii": 5,
+   "Esdras i": 1,
+   "Esther": 1,
+   "Judith": 3,
+   "Machabaeorum i": 14,
+   "Ecclesiastes": 1,
+   "Ecclesiasticus sive Siracides": 3,
+   "Jonas": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "5.17",
+    "form": "ἐπίλεξον",
+    "postag": "v2sama---",
+    "sentence": "ἐπίλεξον σεαυτῷ ἄνδρας καὶ πορεύου καὶ ρῦσαι τοὺς ἀδελφούς σου τοὺς ἐν τῇ Γαλιλαίᾳ ·"
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "1.5",
+    "form": "ἐπῄρετο",
+    "postag": "v3siim---",
+    "sentence": "καὶ Ἀδωνίας υἱὸς Ἀγγὶθ ἐπῄρετο λέγων ·"
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "15.25",
+    "form": "ἐπείρασε",
+    "postag": "v3saia---",
+    "sentence": "ἐκεῖ ἔθετο αὐτῷ δικαιώματα καὶ κρίσεις καὶ ἐκεῖ αὐτὸν ἐπείρασε."
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "10.17",
+    "form": "ἐπέλεξαν",
+    "postag": "v3paia---",
+    "sentence": "καὶ ἐπέλεξαν ἐξ αὐτῶν ἄνδρας ἑκατὸν καὶ παρέζευξαν αὐτῇ καὶ τῇ ἅβρᾳ αὐτῆς, καὶ ἤγαγον αὐτὰς ἐπὶ τὴν σκηνὴν Ὀλοφέρνου."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "34.10",
+    "form": "ἐπειράθη",
+    "postag": "v3saip---",
+    "sentence": "ὃς οὐκ ἐπειράθη ὀλίγα οἶδεν, ὁ δὲ πεπλανημένος πληθυνεῖ πανουργίαν."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "17.1",
+    "form": "ἐπιλέξω",
+    "postag": "v1sfia---",
+    "sentence": "ἐπιλέξω δὴ ἐμαυτῷ δώδεκα χιλιάδας ἀνδρῶν καὶ ἀναστήσομαι καὶ καταδιώξω ὀπίσω Δαυὶδ τὴν νύκτα ·"
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "21.5",
+    "form": "ἐπέλεξε",
+    "postag": "v3saia---",
+    "sentence": "καὶ προσελεύσονται οἱ ἱερεῖς οἱ Λευῖται, ὅτι αὐτοὺς ἐπέλεξε Κύριος ὁ Θεὸς παρεστηκέναι αὐτῷ καὶ εὐλογεῖν ἐπὶ τῷ ὀνόματι αὐτοῦ, καὶ ἐπὶ τῷ στόματι αὐτῶν ἔσται πᾶσα ἀντιλογία καὶ πᾶσα ἁφή."
+   },
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "8.3",
+    "form": "ἐπέλεξε",
+    "postag": "v3saia---",
+    "sentence": "ἐπέλεξε δὲ Ἰησοῦς τριάκοντα χιλιάδας ἀνδρῶν δυνατοὺς ἐν ἰσχύϊ καὶ ἀπέστειλεν αὐτοὺς νυκτός."
+   },
+   {
+    "work_code": "1ES",
+    "work_ja": "エズラ記（ギリシャ語）",
+    "work_src": "Esdras i",
+    "ref": "9.16",
+    "form": "ἐπελέξατο",
+    "postag": "v3saim---",
+    "sentence": "καὶ ἐπελέξατο αὐτῷ Ἔσδρας ὁ ἱερεὺς ἄνδρας ἡγουμένους τῶν πατριῶν αὐτῶν πάντας κατ’ ὄνομα, καὶ συνεκλείσθησαν τῇ νουμηνίᾳ τοῦ μηνὸς τοῦ δεκάτου ἐτάσαι τὸ πρᾶγμα."
+   },
+   {
+    "work_code": "EST",
+    "work_ja": "エステル記",
+    "work_src": "Esther",
+    "ref": "2.3",
+    "form": "ἐπιλεξάτωσαν",
+    "postag": "v3pama---",
+    "sentence": "καὶ καταστήσει ὁ βασιλεὺς κωμάρχας ἐν πάσαις ταῖς χώραις τῆς βασιλείας αὐτοῦ, καὶ ἐπιλεξάτωσαν κοράσια παρθενικὰ καλὰ τῷ εἴδει εἰς Σοῦσαν τὴν πόλιν εἰς τὸν γυναικῶνα ·"
+   },
+   {
+    "work_code": "ECC",
+    "work_ja": "コヘレトの言葉",
+    "work_src": "Ecclesiastes",
+    "ref": "7.23",
+    "form": "ἐπείρασα",
+    "postag": "v1saia---",
+    "sentence": "πάντα ταῦτα ἐπείρασα ἐν τῇ σοφίᾳ ·"
+   },
+   {
+    "work_code": "JON",
+    "work_ja": "ヨナ書",
+    "work_src": "Jonas",
+    "ref": "4.8",
+    "form": "ἐπελέγετο",
+    "postag": "v3siim---",
+    "sentence": "καὶ ὠλιγοψύχησε καὶ ἐπελέγετο τὴν ψυχὴν αὐτοῦ καὶ εἶπε ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Martyrdom of Polycarp": 1
+  },
+  "representatives": [
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "6.2",
+    "form": "ἐπιλεγόμενος",
+    "postag": "v-sppmmn-",
+    "sentence": "ἦν γὰρ καὶ ἀδύνατον λαθεῖν αὐτόν, ἐπεὶ καὶ οἱ προδιδόντες αὐτὸν οἰκεῖοι ὑπῆρχον, καὶ ὁ εἰρήναρχος, ὁ κεκληρωμένος τὸ αὐτὸ ὄνομα, Ἡρώδης ἐπιλεγόμενος, ἔσπευδεν εἰς τὸ στάδιον αὐτὸν εἰσαγαγεῖν, ἵνα ἐκεῖνος μὲν τὸν ἴδιον κλῆρον ἀπαρτίσῃ Χριστοῦ κοινωνὸς γενόμενος, οἱ δὲ προδόντες αὐτὸν τὴν αὐτοῦ τοῦ Ἰούδα ὑπόσχοιεν τιμωρίαν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2 (KJV) ἐπι-λέγω     [in LXX chiefly for בָּחַר ;]     to say in addition (Hdt.).    to call by name, to call: Jo 5:2.    to choose; mid., to choose for oneself: Ac 15:40.†"
+}

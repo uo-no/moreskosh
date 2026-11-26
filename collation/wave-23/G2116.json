@@ -1,0 +1,155 @@
+{
+ "strong": "G2116",
+ "lemma": "εὐθύνω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JAS 3:4",
+   "form": "εὐθύνοντος",
+   "morph": "V-PAP-GSM",
+   "gloss_en": "pilot",
+   "gloss_ja": "まっすぐにする",
+   "verse": "ἰδοὺ καὶ τὰ πλοῖα, τηλικαῦτα ὄντα καὶ ὑπὸ ἀνέμων σκληρῶν ἐλαυνόμενα, μετάγεται ὑπὸ ἐλαχίστου πηδαλίου ὅπου ἡ ὁρμὴ τοῦ εὐθύνοντος βούλεται·"
+  },
+  {
+   "ref": "JHN 1:23",
+   "form": "Εὐθύνατε",
+   "morph": "V-AAM-2P",
+   "gloss_en": "make straight",
+   "gloss_ja": "まっすぐにする",
+   "verse": "ἔφη· Ἐγὼ φωνὴ βοῶντος ἐν τῇ ἐρήμῳ· Εὐθύνατε τὴν ὁδὸν κυρίου, καθὼς εἶπεν Ἠσαΐας ὁ προφήτης."
+  }
+ ],
+ "lxx": {
+  "total": 15,
+  "works": {
+   "Numeri": 1,
+   "Josue": 1,
+   "Judices": 1,
+   "Regnorum i": 3,
+   "Machabaeorum iii": 1,
+   "Proverbia": 1,
+   "Ecclesiasticus sive Siracides": 6,
+   "Psalmi Salomonis": 1
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "2.6",
+    "form": "εὔθυνον",
+    "postag": "v2sama---",
+    "sentence": "εὔθυνον τὰς ὁδούς σου καὶ ἔλπισον ἐπ’ αὐτόν."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "18.20",
+    "form": "ηὐθύνθη",
+    "postag": "v3saip---",
+    "sentence": "καὶ ἠγάπησε Μελχὸλ ἡ θυγάτηρ Σαοὺλ τὸν Δαυίδ, καὶ ἀπηγγέλη τῷ Σαούλ, καὶ ηὐθύνθη ἐν τοῖς ὀφθαλμοῖς αὐτοῦ."
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "22.23",
+    "form": "εὐθῦναι",
+    "postag": "v--ana---",
+    "sentence": "καὶ ἐπάταξε τὴν ὄνον ἐν τῇ ράβδῳ αὐτοῦ τοῦ εὐθῦναι αὐτὴν ἐν τῇ ὁδῷ."
+   },
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "24.23",
+    "form": "εὐθύνατε",
+    "postag": "v2pama---",
+    "sentence": "καὶ νῦν περιέλεσθε τοὺς θεοὺς τοὺς ἀλλοτρίους τοὺς ἐν ὑμῖν καὶ εὐθύνατε τὴν καρδίαν ὑμῶν πρὸς Κύριον Θεὸν Ἰσραήλ."
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "14.7",
+    "form": "ηὐθύνθη",
+    "postag": "v3saip---",
+    "sentence": "καὶ κατέβησαν καὶ ἐλάλησαν τῇ γυναικί, καὶ ηὐθύνθη ἐν ὀφθαλμοῖς Σαμψών."
+   },
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "2.17",
+    "form": "εὐθύνῃς",
+    "postag": "v2sasa---",
+    "sentence": "ἀλλ’ ἐπεὶ εὐδοκήσας τὴν δόξαν σου ἐν τῷ λαῷ σου Ἰσραὴλ ἡγίασας τὸν τόπον τοῦτον, μὴ ἐκδικήσῃς ἡμᾶς ἐν τῇ τούτων ἀκαθαρσίᾳ, μη-δὲ εὐθύνῃς ἡμᾶς ἐν βεβηλώσει, ἵνα μὴ καυχήσωνται οἱ παράνομοι ἐν θυμῷ αὐτῶν, μη-δὲ ἀγαλλιάσωνται ἐν ὑπερηφανίᾳ γλώσσης αὐτῶν λέγοντες ·"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "20.24",
+    "form": "εὐθύνεται",
+    "postag": "v3spim---",
+    "sentence": "παρὰ Κυρίου εὐθύνεται τὰ διαβήματα ἀνδρί, θνητὸς δὲ πῶς ἂν νοήσαι τὰς ὁδοὺς αὐτοῦ;"
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "9.7",
+    "form": "εὐθυνεῖς",
+    "postag": "v2sfia---",
+    "sentence": "δικαίους εὐλογήσεις καὶ οὐκ εὐθυνεῖς περὶ ὧν ἡμάρτοσαν, καὶ ἡ χρηστότης σου ἐπὶ ἁμαρτάνοντας ἐν μεταμελείᾳ."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "49.9",
+    "form": "εὐθύνοντας",
+    "postag": "v-pppama-",
+    "sentence": "καὶ γὰρ ἐμνήσθη τῶν ἐχθρῶν ἐν ὄμβρῳ καὶ ἀγαθῶσαι τοὺς εὐθύνοντας ὁδούς."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "18.26",
+    "form": "ηὐθύνθη",
+    "postag": "v3saip---",
+    "sentence": "καὶ ἀπαγγέλλουσιν οἱ παῖδες Σαοὺλ τῷ Δαυὶδ τὰ ρήματα ταῦτα, καὶ ηὐθύνθη ὁ λόγος ἐν ὀφθαλμοῖς Δαυὶδ ἐπιγαμβρεῦσαι τῷ βασιλεῖ."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "37.15",
+    "form": "εὐθύνῃ",
+    "postag": "v3spsa---",
+    "sentence": "καὶ ἐπὶ πᾶσι τούτοις δεήθητι Ὑψίστου, ἵνα εὐθύνῃ ἐν ἀληθείᾳ τὴν ὁδόν σου."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "18.26b",
+    "form": "ηὐθύνθη",
+    "postag": "v3saip---",
+    "sentence": "καὶ ἀπαγγέλλουσιν οἱ παῖδες Σαοὺλ τῷ Δαυὶδ τὰ ρήματα ταῦτα, καὶ ηὐθύνθη ὁ λόγος ἐν ὀφθαλμοῖς Δαυὶδ ἐπιγαμβρεῦσαι τῷ βασιλεῖ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   εὐθύνω    (< εὐθύς),    [in LXX: Nu 22:23, Jos 24:23 (נָטָה hi.), Jg 14:7, I Ki 18:20, 26 (יָשַׁר) Pr 20:24, Si 2:2, 6, al. ;]     to direct: Ja 3:4.        to make straight: Jo 1:23 (LXX, ἑτοιμάσατε).†"
+}

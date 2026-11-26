@@ -1,0 +1,58 @@
+{
+ "strong": "G2185",
+ "lemma": "ἐφικνέομαι",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2CO 10:13",
+   "form": "ἐφικέσθαι",
+   "morph": "V-2ADN",
+   "gloss_en": "reach",
+   "gloss_ja": "達する",
+   "verse": "ἡμεῖς δὲ οὐκ εἰς τὰ ἄμετρα καυχησόμεθα, ἀλλὰ κατὰ τὸ μέτρον τοῦ κανόνος οὗ ἐμέρισεν ἡμῖν ὁ θεὸς μέτρου, ἐφικέσθαι ἄχρι καὶ ὑμῶν"
+  },
+  {
+   "ref": "2CO 10:14",
+   "form": "ἐφικνούμενοι",
+   "morph": "V-PNP-NPM",
+   "gloss_en": "reached",
+   "gloss_ja": "達する",
+   "verse": "οὐ γὰρ ὡς μὴ ἐφικνούμενοι εἰς ὑμᾶς ὑπερεκτείνομεν ἑαυτούς, ἄχρι γὰρ καὶ ὑμῶν ἐφθάσαμεν ἐν τῷ εὐαγγελίῳ τοῦ Χριστοῦ"
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Ecclesiasticus sive Siracides": 2
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "43.30",
+    "form": "ἐφίκησθε",
+    "postag": "v2pasm---",
+    "sentence": "μὴ κοπιᾶτε, οὐ γὰρ μὴ ἐφίκησθε."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "43.27",
+    "form": "ἐφικώμεθα",
+    "postag": "v1pasm---",
+    "sentence": "πολλὰ ἐροῦμεν καὶ οὐ μὴ ἐφικώμεθα, καὶ συντέλεια λόγων ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   ** ἐφ-ικνέομαι, -οῦμαι     [in LXX: Si 43:27, 30 R (ἀφικ- ABא)* ;]    to come to, to reach: seq. ἄχρι, II Co 10:13; εἰς, ib. 14.†"
+}

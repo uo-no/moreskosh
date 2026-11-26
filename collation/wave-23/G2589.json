@@ -1,0 +1,49 @@
+{
+ "strong": "G2589",
+ "lemma": "καρδιογνώστης",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 1:24",
+   "form": "καρδιογνῶστα",
+   "morph": "N-VSM",
+   "gloss_en": "who know the hearts",
+   "gloss_ja": "心を知る者",
+   "verse": "καὶ προσευξάμενοι εἶπαν Σὺ κύριε καρδιογνῶστα πάντων, ἀνάδειξον ὃν ἐξελέξω, ἐκ τούτων τῶν δύο ἕνα,"
+  },
+  {
+   "ref": "ACT 15:8",
+   "form": "καρδιογνώστης",
+   "morph": "N-NSM",
+   "gloss_en": "who knows the heart",
+   "gloss_ja": "心を知る者",
+   "verse": "καὶ ὁ καρδιογνώστης θεὸς ἐμαρτύρησεν αὐτοῖς δοὺς τὸ πνεῦμα τὸ ἅγιον καθὼς καὶ ἡμῖν,"
+  }
+ ],
+ "lxx": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "9.3.4",
+    "form": "καρδιογνώστης",
+    "postag": "n-s---mn-",
+    "sentence": "καρδιογνώστης γὰρ ὢν ὁ κύριος καὶ πάντα προγινώσκων ἔγνω τὴν ἀσθένειαν τῶν ἀνθρώπων καὶ τὴν πολυπλοκίαν τοῦ διαβόλου, ὅτι ποιήσει τι κακὸν τοῖς δούλοις τοῦ θεοῦ καὶ πονηρεύσεται εἰς αὐτούς."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   *† καρδιο-γνώστης, -ου, ὁ    (< καρδία, γνώστης),    knower of hearts: Ac 1:24 15:8.†"
+}

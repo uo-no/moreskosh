@@ -1,0 +1,179 @@
+{
+ "strong": "G1725",
+ "lemma": "ἔναντι",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 8:21",
+   "form": "ἔναντι",
+   "morph": "PREP",
+   "gloss_en": "before",
+   "gloss_ja": "〜の前に",
+   "verse": "οὐκ ἔστιν σοι μερὶς οὐδὲ κλῆρος ἐν τῷ λόγῳ τούτῳ, ἡ γὰρ καρδία σου οὐκ ἔστιν εὐθεῖα ἔναντι τοῦ θεοῦ."
+  },
+  {
+   "ref": "LUK 1:8",
+   "form": "ἔναντι",
+   "morph": "PREP",
+   "gloss_en": "before",
+   "gloss_ja": "〜の前に",
+   "verse": "Ἐγένετο δὲ ἐν τῷ ἱερατεύειν αὐτὸν ἐν τῇ τάξει τῆς ἐφημερίας αὐτοῦ ἔναντι τοῦ θεοῦ"
+  }
+ ],
+ "lxx": {
+  "total": 251,
+  "works": {
+   "Genesis": 1,
+   "Exodus": 20,
+   "Leviticus": 60,
+   "Numeri": 72,
+   "Deuteronomium": 18,
+   "Josue": 8,
+   "Judices": 1,
+   "Regnorum ii": 1,
+   "Paralipomenon i sive Chronicon i": 2,
+   "Paralipomenon ii sive Chronicon ii": 8,
+   "Esdras i": 3,
+   "Psalmi": 1,
+   "Proverbia": 2,
+   "Job": 15,
+   "Ecclesiasticus sive Siracides": 28,
+   "Psalmi Salomonis": 1,
+   "Isaias": 3,
+   "Jeremias": 3,
+   "Baruch": 2,
+   "Daniel": 2
+  },
+  "representatives": [
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "15.15",
+    "form": "ἔναντι",
+    "postag": "r--------",
+    "sentence": "ὡς ὑμεῖς καὶ ὁ προσήλυτος ἔσται ἔναντι Κυρίου."
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "5.19",
+    "form": "ἔναντι",
+    "postag": "r--------",
+    "sentence": "ἐπλημμέλησε γὰρ πλημμελείᾳ ἔναντι Κυρίου."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "7.5",
+    "form": "ἔναντι",
+    "postag": "r--------",
+    "sentence": "μὴ δικαιοῦ ἔναντι Κυρίου καὶ παρὰ βασιλεῖ μὴ σοφίζου."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "6.12",
+    "form": "ἔναντι",
+    "postag": "r--------",
+    "sentence": "ἐλάλησε δὲ Μωυσῆς ἔναντι Κυρίου λέγων ·"
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "26.13",
+    "form": "ἔναντι",
+    "postag": "r--------",
+    "sentence": "καὶ ἐρεῖς ἔναντι Κυρίου τοῦ Θεοῦ σου ·"
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "25.4",
+    "form": "ἔναντι",
+    "postag": "r--------",
+    "sentence": "πῶς γὰρ ἔσται δίκαιος βροτὸς ἔναντι Κυρίου;"
+   },
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "18.10",
+    "form": "ἔναντι",
+    "postag": "r--------",
+    "sentence": "καὶ ἐνέβαλεν αὐτοῖς Ἰησοῦς κλῆρον ἐν Σηλὼ ἔναντι Κυρίου."
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "7.4",
+    "form": "ἔναντι",
+    "postag": "r--------",
+    "sentence": "καὶ ὁ βασιλεὺς καὶ πᾶς ὁ λαὸς θύοντες θύματα ἔναντι Κυρίου."
+   },
+   {
+    "work_code": "1ES",
+    "work_ja": "エズラ記（ギリシャ語）",
+    "work_src": "Esdras i",
+    "ref": "1.42",
+    "form": "ἔναντι",
+    "postag": "r--------",
+    "sentence": "βασιλεύει δὲ μῆνας τρεῖς καὶ ἡμέρας δέκα ἐν Ἱερουσαλὴμ καὶ ἐποίησε τὸ πονηρὸν ἔναντι Κυρίου."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "8.4",
+    "form": "ἔναντι",
+    "postag": "r--------",
+    "sentence": "διότι πρὶν ἢ γνῶναι τὸ παιδίον καλεῖν πατέρα ἢ μητέρα, λήψεται δύναμιν Δαμασκοῦ καὶ τὰ σκῦλα Σαμαρείας ἔναντι βασιλέως Ἀσσυρίων."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "12.13",
+    "form": "ἔναντι",
+    "postag": "r--------",
+    "sentence": "αἰσχύνθητε ἀπὸ καυχήσεως ὑμῶν, ἀπὸ ὀνειδισμοῦ ἔναντι Κυρίου."
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "16.37",
+    "form": "ἔναντι",
+    "postag": "r--------",
+    "sentence": "καὶ κατέλιπον ἐκεῖ ἔναντι τῆς κιβωτοῦ διαθήκης Κυρίου τὸν Ἀσὰφ καὶ τοὺς ἀδελφοὺς αὐτοῦ τοῦ λειτουργεῖν ἐναντίον τῆς κιβωτοῦ διαπαντὸς τὸ τῆς ἡμέρας εἰς ἡμέραν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "1 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "39.4",
+    "form": "ἔναντι",
+    "postag": "r--------",
+    "sentence": "μὴ καθαρὸς ἔσται βροτὸς ἔναντι κυρίου;"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   † ἔν-αντι      adv.,      a κοινή word (MM, Exp., xii),    before; as prep., c. gen.: Lk 1:8, Ac 7:10 (WH, ἐναντίον), Ac 8:21.†"
+}

@@ -1,0 +1,177 @@
+{
+ "strong": "G2259",
+ "lemma": "ἡνίκα",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2CO 3:15",
+   "form": "ἡνίκα",
+   "morph": "ADV",
+   "gloss_en": "whenever",
+   "gloss_ja": "〜するとき",
+   "verse": "ἀλλ’ ἕως σήμερον ἡνίκα ἂν ἀναγινώσκηται Μωϋσῆς κάλυμμα ἐπὶ τὴν καρδίαν αὐτῶν κεῖται·"
+  },
+  {
+   "ref": "2CO 3:16",
+   "form": "ἡνίκα",
+   "morph": "ADV",
+   "gloss_en": "whenever",
+   "gloss_ja": "〜するとき",
+   "verse": "ἡνίκα δὲ ἐὰν ἐπιστρέψῃ πρὸς κύριον, περιαιρεῖται τὸ κάλυμμα."
+  }
+ ],
+ "lxx": {
+  "total": 102,
+  "works": {
+   "Genesis": 31,
+   "Exodus": 14,
+   "Leviticus": 3,
+   "Numeri": 1,
+   "Deuteronomium": 4,
+   "Josue": 4,
+   "Judices": 5,
+   "Regnorum ii": 5,
+   "Regnorum iv": 1,
+   "Esdras ii": 6,
+   "Judith": 3,
+   "Machabaeorum iv": 1,
+   "Psalmi": 1,
+   "Proverbia": 9,
+   "Isaias": 7,
+   "Ezechiel": 3,
+   "Susanna": 2,
+   "Daniel": 2
+  },
+  "representatives": [
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "32.2",
+    "form": "ἡνίκα",
+    "postag": "c--------",
+    "sentence": "εἶπε δὲ Ἰακώβ, ἡνίκα εἶδεν αὐτούς ·"
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "16.21",
+    "form": "ἡνίκα",
+    "postag": "c--------",
+    "sentence": "ἡνίκα δὲ διεθέρμαινεν ὁ ἥλιος, ἐτήκετο."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "6.22",
+    "form": "ἡνίκα",
+    "postag": "c--------",
+    "sentence": "ἡνίκα ἂν περιπατῇς, ἐπάγου αὐτὴν καὶ μετὰ σοῦ ἔστω ·"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "52.8",
+    "form": "ἡνίκα",
+    "postag": "c--------",
+    "sentence": "ὅτι ὀφθαλμοὶ πρὸς ὀφθαλμοὺς ὄψονται, ἡνίκα ἂν ἐλεήσῃ Κύριος τὴν Σιών."
+   },
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "17.1",
+    "form": "ἡνίκα",
+    "postag": "c--------",
+    "sentence": "καὶ ἐγένετο ἡνίκα ᾠκοδομήθη τὸ τεῖχος, καὶ ἔστησα τάς θύρας, καὶ ἐπεσκέπησαν οἱ πυλωροὶ καὶ οἱ ᾄδοντες καὶ οἱ Λευῖται."
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "11.7",
+    "form": "ἡνίκα",
+    "postag": "c--------",
+    "sentence": "καὶ διατὶ ἤλθατε πρός με νῦν, ἡνίκα χρῄζετε;"
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "16.16",
+    "form": "ἡνίκα",
+    "postag": "c--------",
+    "sentence": "καὶ ἐγενήθη ἡνίκα ἦλθε Χουσὶ ὁ ἀρχιεταῖρος Δαυὶδ πρὸς Ἀβεσσαλώμ, καὶ εἶπε Χουσὶ πρὸς Ἀβεσσαλώμ ·"
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "31.24",
+    "form": "ἡνίκα",
+    "postag": "c--------",
+    "sentence": "ἡνίκα δὲ συνετέλεσε Μωυσῆς γράφων πάντας τοὺς λόγους τοῦ νόμου τούτου εἰς βιβλίον ἕως εἰς τέλος, καὶ ἐνετείλατο τοῖς Λευίταις τοῖς αἴρουσι τὴν κιβωτὸν τῆς διαθήκης Κυρίου λέγων ·"
+   },
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "24.27",
+    "form": "ἡνίκα",
+    "postag": "c--------",
+    "sentence": "καὶ οὗτος ἔσται ἐν ὑμῖν εἰς μαρτύριον ἐπ’ ἐσχάτων τῶν ἡμερῶν, ἡνίκα ἂν ψεύσησθε Κυρίῳ τῷ Θεῷ μου."
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "26.35",
+    "form": "ἡνίκα",
+    "postag": "c--------",
+    "sentence": "πάσας τὰς ἡμέρας τῆς ἐρημώσεως αὐτῆς σαββατιεῖ, ἃ οὐκ ἐσαββάτισεν ἐν τοῖς σαββάτοις ὑμῶν, ἡνίκα κατῳκεῖτε αὐτήν."
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "16.18",
+    "form": "ἡνίκα",
+    "postag": "c--------",
+    "sentence": "καὶ ἡνίκα ἐκαθαρίσθη ὁ λαός, ἀνήνεγκαν τὰ ὁλοκαυτώματα αὐτῶν καὶ τὰ ἑκούσια αὐτῶν καὶ τὰ δόματα."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "33.33",
+    "form": "ἡνίκα",
+    "postag": "c--------",
+    "sentence": "καὶ ἡνίκα ἐὰν ἔλθῃ, ἐροῦσιν ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "1 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "57.4",
+    "form": "ἡνίκα",
+    "postag": "c--------",
+    "sentence": "τοιγαροῦν κα-κἀγὼ τῇ ὑμετέρᾳ ἀπωλείᾳ ἐπιγελάσομαι, καταχαροῦμαι δὲ ἡνίκα ἂν ἔρχηται ὑμῖν ὄλεθρος καὶ ὡς ἂν ἀφίκηται ὑμῖν ἄφνω θόρυβος, ἡ δὲ καταστροφὴ ὁμοία καταιγίδι παρῇ, ἢ ὅταν ἔρχηται ὑμῖν θλίψις καὶ πολιορκία."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   ἡνίκα, rel. adv. of time,   at which time, when; seq. ἂν, c. subjc., whensoever: II Co 3:15, 16.†"
+}

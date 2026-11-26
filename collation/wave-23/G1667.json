@@ -1,0 +1,69 @@
+{
+ "strong": "G1667",
+ "lemma": "ἑλίσσω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "HEB 1:12",
+   "form": "ἑλίξεις",
+   "morph": "V-FAI-2S",
+   "gloss_en": "roll ~ up",
+   "gloss_ja": "巻く",
+   "verse": "καὶ ὡσεὶ περιβόλαιον ἑλίξεις αὐτούς, ὡς ἱμάτιον καὶ ἀλλαγήσονται· σὺ δὲ ὁ αὐτὸς εἶ, καὶ τὰ ἔτη σου οὐκ ἐκλείψουσιν."
+  },
+  {
+   "ref": "REV 6:14",
+   "form": "ἑλισσόμενον",
+   "morph": "V-PPP-NSN",
+   "gloss_en": "rolled up",
+   "gloss_ja": "巻く",
+   "verse": "καὶ ὁ οὐρανὸς ἀπεχωρίσθη ὡς βιβλίον ἑλισσόμενον, καὶ πᾶν ὄρος καὶ νῆσος ἐκ τῶν τόπων αὐτῶν ἐκινήθησαν."
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Psalmi": 1,
+   "Job": 1,
+   "Isaias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "101.27",
+    "form": "ἑλίξεις",
+    "postag": "v2sfia---",
+    "sentence": "αὐτοὶ ἀπολοῦνται, σὺ δὲ διαμένεις, καὶ πάντες ὡς ἱμάτιον παλαιωθήσονται, καὶ ὡσεὶ περιβόλαιον ἑλίξεις αὐτοὺς καὶ ἀλλαγήσονται ·"
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "18.8",
+    "form": "ἑλιχθείη",
+    "postag": "v3saop---",
+    "sentence": "ἐμβέβληται δὲ ὁ ποὺς αὐτοῦ ἐν παγίδι, ἐν δικτύῳ ἑλιχθείη."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "34.4",
+    "form": "ἑλιγήσεται",
+    "postag": "v3sfip---",
+    "sentence": "καὶ τακήσονται πᾶσαι αἱ δυνάμεις τῶν οὐρανῶν, καὶ ἑλιγήσεται ὁ οὐρανὸς ὡς βιβλίον, καὶ πάντα τὰ ἄστρα πεσεῖται ὡς φύλλα ἐξ ἀμπέλου καὶ ὡς πίπτει φύλλα ἀπὸ συκῆς."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   ἑλίσσω     [in LXX: Is 34:4 (גָּלַל ni.), Ps 102:26 (חָלַף hi.), etc. ;]    to roll, roll up: He 1:12 (LXX), Re 6:14.†"
+}

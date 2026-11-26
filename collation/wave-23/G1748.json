@@ -1,0 +1,160 @@
+{
+ "strong": "G1748",
+ "lemma": "ἐνεδρεύω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 23:21",
+   "form": "ἐνεδρεύουσιν",
+   "morph": "V-PAI-3P",
+   "gloss_en": "lying in ambush for",
+   "gloss_ja": "待ち伏せする",
+   "verse": "σὺ οὖν μὴ πεισθῇς αὐτοῖς, ἐνεδρεύουσιν γὰρ αὐτὸν ἐξ αὐτῶν ἄνδρες πλείους τεσσεράκοντα, οἵτινες ἀνεθεμάτισαν ἑαυτοὺς μήτε φαγεῖν μήτε πιεῖν ἕως οὗ ἀνέλωσιν αὐτόν, καὶ νῦν εἰσιν ἕτοιμοι προσδεχόμενοι τὴν ἀπὸ σοῦ ἐπαγγελίαν."
+  },
+  {
+   "ref": "LUK 11:54",
+   "form": "ἐνεδρεύοντες",
+   "morph": "V-PAP-NPM",
+   "gloss_en": "lying in wait for",
+   "gloss_ja": "待ち伏せする",
+   "verse": "ἐνεδρεύοντες αὐτὸν θηρεῦσαί τι ἐκ τοῦ στόματος αὐτοῦ."
+  }
+ ],
+ "lxx": {
+  "total": 28,
+  "works": {
+   "Deuteronomium": 1,
+   "Josue": 1,
+   "Judices": 6,
+   "Regnorum i": 1,
+   "Regnorum ii": 1,
+   "Machabaeorum i": 1,
+   "Psalmi": 2,
+   "Proverbia": 2,
+   "Job": 2,
+   "Sapientia Salomonis": 2,
+   "Ecclesiasticus sive Siracides": 7,
+   "Threni seu Lamentationes": 1,
+   "Susanna": 1
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "5.14",
+    "form": "ἐνέδρευε",
+    "postag": "v2spma---",
+    "sentence": "μὴ κληθῇς ψίθυρος, καὶ τῇ γλώσσῃ σου μὴ ἐνέδρευε ·"
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "21.20",
+    "form": "ἐνεδρεύσατε",
+    "postag": "v2pama---",
+    "sentence": "πορεύεσθε καὶ ἐνεδρεύσατε ἐν τοῖς ἀμπελῶσι ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "9.30",
+    "form": "ἐνεδρεύει",
+    "postag": "v3spia---",
+    "sentence": "ἐνεδρεύει ἐν ἀποκρύφῳ ὡς λέων ἐν τῇ μάνδρᾳ αὐτοῦ, ἐνεδρεύει τοῦ ἁρπάσαι πτωχόν, ἁρπάσαι πτωχὸν ἐν τῷ ἑλκύσαι αὐτόν ·"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "26.19",
+    "form": "ἐνεδρεύοντες",
+    "postag": "v-pppamn-",
+    "sentence": "ὥσπερ οἱ ἰώμενοι προβάλλουσι λόγους εἰς ἀνθρώπους, ὁ δὲ ἀπαντήσας τῷ λόγῳ πρῶτος ὑποσκελισθήσεται, οὕτως πάντες οἱ ἐνεδρεύοντες τοὺς ἑαυτῶν φίλους, ὅταν δὲ ὁραθῶσι, λέγουσι ὅτι παίζων ἔπραξα."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "24.11",
+    "form": "ἐνήδρευσαν",
+    "postag": "v3paia---",
+    "sentence": "ἐν στενοῖς ἀδίκως ἐνήδρευσαν, ὁδὸν δὲ δικαίαν οὐκ ᾔδεισαν."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "10.12",
+    "form": "ἐνεδρευόντων",
+    "postag": "v-pppamg-",
+    "sentence": "διεφύλαξεν αὐτὸν ἀπὸ ἐχθρῶν, καὶ ἀπὸ ἐνεδρευόντων ἠσφαλίσατο καὶ ἀγῶνα ἰσχυρὸν ἐβράβευσεν αὐτῷ, ἵνα γνῷ, ὅτι παντὸς δυνατωτέρα ἐστὶν εὐσέβεια."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "19.11",
+    "form": "ἐνεδρεύσῃ",
+    "postag": "v3sasa---",
+    "sentence": "ἐὰ δὲ γένηται ἐν σοὶ ἄνθρωπος μισῶν τὸν πλησίον καὶ ἐνεδρεύσῃ αὐτὸν καὶ ἐπαναστῇ ἐπ’ αὐτὸν καὶ πατάξῃ αὐτοῦ ψυχήν, καὶ ἀποθάνῃ, καὶ φύγῃ εἰς μίαν τῶν πόλεων τούτων, καὶ ἀποστελοῦσιν ἡ γερουσία τῆς πόλεως αὐτοῦ καὶ λήψονται αὐτὸν ἐκεῖθεν καὶ παραδώσουσιν αὐτὸν εἰς χεῖρας τῶν ἀγχιστευόντων τοῦ αἵματος, καὶ ἀποθανεῖται ·"
+   },
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "8.4",
+    "form": "ἐνεδρεύσατε",
+    "postag": "v2pama---",
+    "sentence": "ὑμεῖς ἐνεδρεύσατε ὀπίσω τῆς πόλεως ·"
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "15.5",
+    "form": "ἐνήδρευσεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἦλθε Σαοὺλ ἕως τῶν πόλεων Ἀμαλὴκ καὶ ἐνήδρευσεν ἐν τῷ χειμάρρῳ."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "3.27",
+    "form": "ἐνεδρεύων",
+    "postag": "v-sppamn-",
+    "sentence": "καὶ ἐπέστρεψε τὸν Ἀβεννὴρ εἰς Χεβρών, καὶ ἐξέκλινεν αὐτὸν Ἰωὰβ ἐκ πλαγίων τῆς πύλης λαλῆσαι πρὸς αὐτὸν ἐνεδρεύων καὶ ἐπάταξεν αὐτὸν ἐκεῖ εἰς τὴν ψόαν, καὶ ἀπέθανεν ἐν τῷ αἱματι Ἀσαὴλ τοῦ ἀδελφοῦ Ἰωάβ."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "5.4",
+    "form": "ἐνεδρεύειν",
+    "postag": "v--pna---",
+    "sentence": "καὶ ἐμνήσθη τῆς κακίας υἱῶν Βαιάν, οἳ ἦσαν τῷ λαῷ εἰς παγίδα καὶ εἰς σκάνδαλον ἐν τῷ ἐνεδρεύειν αὐτοὺς ἐν ταῖς ὁδοῖς ·"
+   },
+   {
+    "work_code": "LAM",
+    "work_ja": "哀歌",
+    "work_src": "Threni seu Lamentationes",
+    "ref": "3.10",
+    "form": "ἐνεδρεύουσα",
+    "postag": "v-sppafn-",
+    "sentence": "ἄρκος ἐνεδρεύουσα αὐτός μοι, λέων ἐν κρυφαίοις ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   ἐνεδρεύω    (< ἐνέδρα),    [in LXX chiefly for אָרַב ;]     to lie in wait for: c. acc pers., Lk 11:54, Ac 23:21.†"
+}

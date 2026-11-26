@@ -1,0 +1,59 @@
+{
+ "strong": "G2072",
+ "lemma": "ἔσοπτρον",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 13:12",
+   "form": "ἐσόπτρου",
+   "morph": "N-GSN",
+   "gloss_en": "mirror",
+   "gloss_ja": "鏡",
+   "verse": "βλέπομεν γὰρ ἄρτι δι’ ἐσόπτρου ἐν αἰνίγματι, τότε δὲ πρόσωπον πρὸς πρόσωπον· ἄρτι γινώσκω ἐκ μέρους, τότε δὲ ἐπιγνώσομαι καθὼς καὶ ἐπεγνώσθην."
+  },
+  {
+   "ref": "JAS 1:23",
+   "form": "ἐσόπτρῳ",
+   "morph": "N-DSN",
+   "gloss_en": "mirror",
+   "gloss_ja": "鏡",
+   "verse": "ὅτι εἴ τις ἀκροατὴς λόγου ἐστὶν καὶ οὐ ποιητής, οὗτος ἔοικεν ἀνδρὶ κατανοοῦντι τὸ πρόσωπον τῆς γενέσεως αὐτοῦ ἐν ἐσόπτρῳ,"
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Sapientia Salomonis": 1,
+   "Ecclesiasticus sive Siracides": 1
+  },
+  "representatives": [
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "7.26",
+    "form": "ἔσοπτρον",
+    "postag": "n-s---nn-",
+    "sentence": "ἀπαύγασμα γάρ ἐστι φωτὸς ἀϊδίου καὶ ἔσοπτρον ἀκηλίδωτον τῆς τοῦ Θεοῦ ἐνεργείας καὶ εἰκὼν τῆς ἀγαθότητος αὐτοῦ."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "12.11",
+    "form": "ἔσοπτρον",
+    "postag": "n-s---na-",
+    "sentence": "καὶ ἐὰν ταπεινωθῇ καὶ πορεύηται συγκεκυφώς, ἐπίστησον τὴν ψυχήν σου καὶ φύλαξαι ἀπ’ αὐτοῦ καὶ ἔσῃ αὐτῷ ὡς ἐκμεμαχὼς ἔσοπτρον, καὶ γνώσῃ ὅτι οὐκ εἰς τέλος κατίωσε."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   ** ἔσ-οπτρον, -ου, ὁ     [in LXX: Wi 7:26, Si 12:11 * ;]     a mirror: I Co 13:12, Ja 1:23.†"
+}

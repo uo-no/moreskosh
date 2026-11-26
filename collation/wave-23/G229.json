@@ -1,0 +1,90 @@
+{
+ "strong": "G229",
+ "lemma": "ἀλήθω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 17:35",
+   "form": "ἀλήθουσαι",
+   "morph": "V-PAP-NPF",
+   "gloss_en": "grinding",
+   "gloss_ja": "挽く",
+   "verse": "ἔσονται δύο ἀλήθουσαι ἐπὶ τὸ αὐτό, ἡ μία παραλημφθήσεται ἡ δὲ ἑτέρα ἀφεθήσεται."
+  },
+  {
+   "ref": "MAT 24:41",
+   "form": "ἀλήθουσαι",
+   "morph": "V-PAP-NPF",
+   "gloss_en": "grinding",
+   "gloss_ja": "挽く",
+   "verse": "δύο ἀλήθουσαι ἐν τῷ μύλῳ, μία παραλαμβάνεται καὶ μία ἀφίεται."
+  }
+ ],
+ "lxx": {
+  "total": 4,
+  "works": {
+   "Numeri": 1,
+   "Judices": 1,
+   "Ecclesiastes": 2
+  },
+  "representatives": [
+   {
+    "work_code": "ECC",
+    "work_ja": "コヘレトの言葉",
+    "work_src": "Ecclesiastes",
+    "ref": "12.4",
+    "form": "ἀληθούσης",
+    "postag": "v-sppafg-",
+    "sentence": "καὶ κλείσουσι θύρας ἐν ἀγορᾷ, ἐν ἀσθενείᾳ φωνῆς τῆς ἀληθούσης, καὶ ἀναστήσεται εἰς φωνὴν τοῦ στρουθίου, καὶ ταπεινωθήσονται πᾶσαι αἱ θυγατέρες τοῦ ᾄσματος ·"
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "11.8",
+    "form": "ἤληθον",
+    "postag": "v3piia---",
+    "sentence": "καὶ διεπορεύετο ὁ λαὸς καὶ συνέλεγον καὶ ἤληθον αὐτὸ ἐν τῷ μύλῳ καὶ ἔτριβον ἐν τῇ θυΐᾳ καὶ ἥψουν αὐτὸ ἐν τῇ χύτρᾳ καὶ ἐποίουν αὐτὸ ἐγκρυφίας, καὶ ἦν ἡ ἡδονὴ αὐτοῦ ὡσεὶ γεῦμα ἐγκρὶς ἐξ ἐλαίου ·"
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "16.21",
+    "form": "ἀλήθων",
+    "postag": "v-sppamn-",
+    "sentence": "καὶ κατήνεγκαν αὐτὸν εἰς Γάζαν καὶ ἐπέδησαν αὐτὸν ἐν πέδαις χαλκείαις, καὶ ἦν ἀλήθων ἐν οἴκῳ τοῦ δεσμωτηρίου."
+   },
+   {
+    "work_code": "ECC",
+    "work_ja": "コヘレトの言葉",
+    "work_src": "Ecclesiastes",
+    "ref": "12.3",
+    "form": "ἀλήθουσαι",
+    "postag": "v-pppafn-",
+    "sentence": "ἐν ἡμέρᾳ, ᾗ ἐὰν σαλευθῶσι φύλακες τῆς οἰκίας καὶ διαστραφῶσιν ἄνδρες τῆς δυνάμεως, καὶ ἤργησαν αἱ ἀλήθουσαι, ὅτι ὠλιγώθησαν, καὶ σκοτάσουσιν αἱ βλέπουσαι ἐν ταῖς ὀπαῖς ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Ignatius, Letters": 1
+  },
+  "representatives": [
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "4.4.1",
+    "form": "ἀλήθομαι",
+    "postag": "v1spim---",
+    "sentence": "σῖτός εἰμι θεοῦ καὶ δι’ ὀδόντων θηρίων ἀλήθομαι, ἵνα καθαρὸς ἄρτος εὑρεθῶ τοῦ Χριστοῦ."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   † ἀλήθω    (κοινή form of the Attic ἀλέω),    [in LXX for טחן;]    to grind: Mt 24:41, Lk 17:35.†"
+}

@@ -1,0 +1,174 @@
+{
+ "strong": "G1896",
+ "lemma": "ἐφοράω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 4:29",
+   "form": "ἔπιδε",
+   "morph": "V-2AAM-2S",
+   "gloss_en": "look",
+   "gloss_ja": "目を向ける",
+   "verse": "καὶ τὰ νῦν, κύριε, ἔπιδε ἐπὶ τὰς ἀπειλὰς αὐτῶν καὶ δὸς τοῖς δούλοις σου μετὰ παρρησίας πάσης λαλεῖν τὸν λόγον σου,"
+  },
+  {
+   "ref": "LUK 1:25",
+   "form": "ἐπεῖδεν",
+   "morph": "V-2AAI-3S",
+   "gloss_en": "looked on",
+   "gloss_ja": "目を向ける",
+   "verse": "ὅτι Οὕτως μοι πεποίηκεν κύριος ἐν ἡμέραις αἷς ἐπεῖδεν ἀφελεῖν ὄνειδός μου ἐν ἀνθρώποις."
+  }
+ ],
+ "lxx": {
+  "total": 35,
+  "works": {
+   "Genesis": 3,
+   "Exodus": 1,
+   "Paralipomenon i sive Chronicon i": 1,
+   "Machabaeorum i": 1,
+   "Machabaeorum ii": 5,
+   "Machabaeorum iii": 2,
+   "Machabaeorum iv": 1,
+   "Psalmi": 8,
+   "Job": 4,
+   "Ecclesiasticus sive Siracides": 1,
+   "Michaeas": 2,
+   "Abdias": 2,
+   "Zacharias": 1,
+   "Jeremias": 2,
+   "Ezechiel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "117.7",
+    "form": "ἐπόψομαι",
+    "postag": "v1sfim---",
+    "sentence": "Κύριος ἐμοὶ βοηθός, κα-κἀγὼ ἐπόψομαι τοὺς ἐχθρούς μου."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "15.2",
+    "form": "ἐφορῶντος",
+    "postag": "v-sppamg-",
+    "sentence": "μηδαμῶς οὕτως ἀγρίως καὶ βαρβάρως ἀπολέσῃς, δόξαν δὲ ἀπομέρισον τῇ προτετιμημένῃ ὑπὸ τοῦ πάντα ἐφορῶντος μεθ’ ἁγιότητος ἡμέρᾳ."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "22.12",
+    "form": "ἐφορᾷ",
+    "postag": "v3spia---",
+    "sentence": "μὴ οὐχὶ ὁ τὰ ὑψηλὰ ναίων ἐφορᾷ;"
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "16.13",
+    "form": "ἐπιδών",
+    "postag": "v-sapamn-",
+    "sentence": "σὺ ὁ Θεὸς ὁ ἐπιδών με ·"
+   },
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "6.12",
+    "form": "ἔπιδε",
+    "postag": "v2spma---",
+    "sentence": "σὺ δὲ ὁ πᾶσαν ἀλκὴν καὶ δυναστείαν ἔχων ἅπασαν, αἰώνιε, νῦν ἔπιδε ·"
+   },
+   {
+    "work_code": "MIC",
+    "work_ja": "ミカ書",
+    "work_src": "Michaeas",
+    "ref": "7.10",
+    "form": "ἐπόψονται",
+    "postag": "v3pfim---",
+    "sentence": "οἱ ὀφθαλμοί μου ἐπόψονται αὐτήν ·"
+   },
+   {
+    "work_code": "OBA",
+    "work_ja": "オバデヤ書",
+    "work_src": "Abdias",
+    "ref": "12",
+    "form": "ἐπίδῃς",
+    "postag": "v2sasa---",
+    "sentence": "καὶ μὴ ἐπίδῃς ἡμέραν ἀδελφοῦ σου ἐν ἡμέρᾳ ἀλλοτρίων καὶ μὴ ἐπιχαρῇς ἐπὶ τοὺς υἱοὺς Ἰούδα ἐν ἡμέρᾳ ἀπωλείας αὐτῶν καὶ μὴ μεγαλορρημονήσῃς ἐν ἡμέρᾳ θλίψεως, μη-δὲ εἰσέλθῃς εἰς πύλας λαῶν ἐν ἡμέρᾳ πόνων αὐτῶν, μη-δὲ ἐπίδῃς καὶ σὺ τὴν συναγωγὴν αὐτῶν ἐν ἡμέρᾳ ὀλέθρου αὐτῶν καὶ μὴ συνεπιθῇ ἐπὶ τὴν δύναμιν αὐτῶν ἐν ἡμέρᾳ ἀπωλείας αὐτῶν."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "28.63",
+    "form": "ἐπιδήσεις",
+    "postag": "v2sfia---",
+    "sentence": "καὶ ἔσται ὅταν παύσῃ τοῦ ἀναγινώσκειν τὸ βιβλίον τοῦτο, καὶ ἐπιδήσεις ἐπ’ αὐτὸ λίθον καὶ ρίψεις αὐτὸ εἰς μέσον τοῦ Εὐφράτου καὶ ἐρεῖς ·"
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "2.25",
+    "form": "ἐπεῖδεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἐπεῖδεν ὁ Θεὸς τοὺς υἱοὺς Ἰσραὴλ καὶ ἐγνώσθη αὐτοῖς."
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "17.17",
+    "form": "ἐπεῖδές",
+    "postag": "v2saia---",
+    "sentence": "καὶ ἐσμικρύνθη ταῦτα ἐνώπιόν σου, ὁ Θεός, καὶ ἐλάλησας ἐπὶ τὸν οἶκον τοῦ παιδός σου ἐκ μακρῶν καὶ ἐπεῖδές με ὡς ὅρασις τοῦ ἀνθρώπου καὶ ὕψωσάς με, Κύριε ὁ Θεός."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "3.59",
+    "form": "ἐπιδεῖν",
+    "postag": "v--pna---",
+    "sentence": "ὅτι κρεῖσσον ἡμᾶς ἀποθανεῖν ἐν τῷ πολέμῳ ἢ ἐπιδεῖν ἐπὶ τὰ κακὰ τοῦ ἔθνους ἡμῶν καὶ τῶν ἁγίων."
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "13.13",
+    "form": "ἐφορῶντες",
+    "postag": "v-pppamn-",
+    "sentence": "εἷς δὲ ἕκαστος καὶ ἀλλήλους ὁμοῦ πάντες ἐφορῶντες φαιδροὶ καὶ μάλα θαρραλέοι, ἑαυτούς, ἔλεγον, τῷ Θεῷ ἀφιερώσωμεν ἐξ ὅλης τῆς καρδίας τῷ δόντι τὰς ψυχὰς καὶ χρήσωμεν τῇ περὶ τὸν νόμον φυλακῇ τὰ σώματα."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "1 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "4.2",
+    "form": "ἐπεῖδεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἐπεῖδεν ὁ θεὸς ἐπὶ Ἄβελ καὶ ἐπὶ τοῖς δώροις αὐτοῦ, ἐπὶ δὲ Κάϊν καὶ ἐπὶ ταῖς θυσίαις αὐτοῦ οὐ προσέσχεν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   * ἐπ-εῖδον  2 aor. without pres. in use;     [in LXX chiefly for רָאָה ;] to regard with attention, look upon (in cl., of the gods)       with a view to bless: c. inf., Lk 1:25 (cf. DB, 136       b).      To punish: seq. ἐπί, Ac 4:29.†"
+}

@@ -1,0 +1,89 @@
+{
+ "strong": "G1755",
+ "lemma": "ἐνέργημα",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 12:6",
+   "form": "ἐνεργημάτων",
+   "morph": "N-GPN",
+   "gloss_en": "activities",
+   "gloss_ja": "働き",
+   "verse": "καὶ διαιρέσεις ἐνεργημάτων εἰσίν, ὁ δὲ αὐτὸς θεός, ὁ ἐνεργῶν τὰ πάντα ἐν πᾶσιν."
+  },
+  {
+   "ref": "1CO 12:10",
+   "form": "ἐνεργήματα",
+   "morph": "N-NPN",
+   "gloss_en": "working",
+   "gloss_ja": "働き",
+   "verse": "ἄλλῳ ἐνεργήματα δυνάμεων, ἄλλῳ προφητεία, ἄλλῳ διακρίσεις πνευμάτων, ἑτέρῳ γένη γλωσσῶν, ἄλλῳ ἑρμηνεία γλωσσῶν·"
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Ecclesiasticus sive Siracides": 3
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "16.15",
+    "form": "ἐνεργήματα",
+    "postag": "n-p---nn-",
+    "sentence": "Κύριος ἐσκλήρυνε Φαραὼ μὴ εἰδέναι αὐτόν, ὅπως ἂν γνωσθῇ ἐνεργήματα αὐτοῦ τῇ ὑπ’ οὐρανόν."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "17.5",
+    "form": "ἐνεργημάτων",
+    "postag": "n-p---ng-",
+    "sentence": "ἔλαβον χρῆσιν τῶν πέντε τοῦ Κυρίου ἐνεργημάτων, ἕκτον δὲ νοῦν αὐτοῖς ἐδωρήσατο μερίζων καὶ τὸν ἕβδομον λόγον ἑρμηνέα τῶν ἐνεργημάτων αὐτοῦ."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "17.5",
+    "form": "ἐνεργημάτων",
+    "postag": "n-p---ng-",
+    "sentence": "ἔλαβον χρῆσιν τῶν πέντε τοῦ Κυρίου ἐνεργημάτων, ἕκτον δὲ νοῦν αὐτοῖς ἐδωρήσατο μερίζων καὶ τὸν ἕβδομον λόγον ἑρμηνέα τῶν ἐνεργημάτων αὐτοῦ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "Barnabas": 1,
+   "Didache": 1
+  },
+  "representatives": [
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "19.6",
+    "form": "ἐνεργήματα",
+    "postag": "n-p---na-",
+    "sentence": "τὰ συμβαίνοντά σοι ἐνεργήματα ὡς ἀγαθὰ προσδέξῃ, εἰδώς, ὅτι ἄνευ θεοῦ οὐδὲν γίνεται."
+   },
+   {
+    "work_code": "DID",
+    "work_ja": "ディダケー",
+    "work_src": "Didache",
+    "ref": "3.10",
+    "form": "ἐνεργήματα",
+    "postag": "n-p---na-",
+    "sentence": "τὰ συμβαίνοντά σοι ἐνεργήματα ὡς ἀγαθὰ προσδέξῃ, εἰδὼς ὅτι ἄτερ θεοῦ οὐδὲν γίνεται."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   *† ἐνέργημα, -τος, τό    (< ἐνεργέω),     effect, operation (Polyb.): pl., I Co 12:6, 10 (Cremer, 262, 713).†"
+}

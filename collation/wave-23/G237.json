@@ -1,0 +1,49 @@
+{
+ "strong": "G237",
+ "lemma": "ἀλλαχοῦ",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": "αλλαχοθεν",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JHN 10:1",
+   "form": "ἀλλαχόθεν",
+   "morph": "ADV",
+   "gloss_en": "some other way",
+   "gloss_ja": "別の所から",
+   "verse": "Ἀμὴν ἀμὴν λέγω ὑμῖν, ὁ μὴ εἰσερχόμενος διὰ τῆς θύρας εἰς τὴν αὐλὴν τῶν προβάτων ἀλλὰ ἀναβαίνων ἀλλαχόθεν ἐκεῖνος κλέπτης ἐστὶν καὶ λῃστής·"
+  },
+  {
+   "ref": "MRK 1:38",
+   "form": "ἀλλαχοῦ",
+   "morph": "ADV",
+   "gloss_en": "somewhere else",
+   "gloss_ja": "別の所から",
+   "verse": "καὶ λέγει αὐτοῖς· Ἄγωμεν ἀλλαχοῦ εἰς τὰς ἐχομένας κωμοπόλεις, ἵνα καὶ ἐκεῖ κηρύξω, εἰς τοῦτο γὰρ ἐξῆλθον."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Machabaeorum iv": 1
+  },
+  "representatives": [
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "1.7",
+    "form": "ἀλλαχόθεν",
+    "postag": "d--------",
+    "sentence": "πολλαχόθεν μὲν οὖν καὶ ἀλλαχόθεν ἔχοιμ’ ἂν ὑμῖν ἐπιδεῖξαι ὅτι αὐτοκράτωρ ἐστὶ τῶν παθῶν ὁ εὐσεβὴς λογισμός."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ** ἀλλαχόθεν      adv.    (< ἀλλος),   [in LXX: IV Mac 1:7*;] = ἀλλοθεν (v. MM, VGT, s.v.)     from another place: Jo 10:1.†"
+}

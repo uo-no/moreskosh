@@ -1,0 +1,49 @@
+{
+ "strong": "G1881",
+ "lemma": "ἐπανίσταμαι",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": "επανιστημι",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MAT 10:21",
+   "form": "ἐπαναστήσονται",
+   "morph": "V-FDI-3P",
+   "gloss_en": "rise up",
+   "gloss_ja": "反乱を起こす",
+   "verse": "παραδώσει δὲ ἀδελφὸς ἀδελφὸν εἰς θάνατον καὶ πατὴρ τέκνον, καὶ ἐπαναστήσονται τέκνα ἐπὶ γονεῖς καὶ θανατώσουσιν αὐτούς."
+  },
+  {
+   "ref": "MRK 13:12",
+   "form": "ἐπαναστήσονται",
+   "morph": "V-FDI-3P",
+   "gloss_en": "rise up",
+   "gloss_ja": "反乱を起こす",
+   "verse": "καὶ παραδώσει ἀδελφὸς ἀδελφὸν εἰς θάνατον καὶ πατὴρ τέκνον, καὶ ἐπαναστήσονται τέκνα ἐπὶ γονεῖς καὶ θανατώσουσιν αὐτούς·"
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "11.14",
+    "form": "ἐπαναστήσονται",
+    "postag": "v3pfim---",
+    "sentence": "καὶ ἐν τοῖς καιροῖς ἐκείνοις πολλοὶ ἐπαναστήσονται ἐπὶ βασιλέα τοῦ νότου ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2 ἐπ-αν-ίστημι     [in LXX chiefly for קוּם ;]     to raise up against; mid., to rise up against: seq. ἐπί, c. acc pers., Mt 10:21, Mk 13:12.†"
+}

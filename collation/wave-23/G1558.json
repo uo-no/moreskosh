@@ -1,0 +1,69 @@
+{
+ "strong": "G1558",
+ "lemma": "ἔκδικος",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1TH 4:6",
+   "form": "ἔκδικος",
+   "morph": "A-NSM",
+   "gloss_en": "avenger",
+   "gloss_ja": "復讐者",
+   "verse": "τὸ μὴ ὑπερβαίνειν καὶ πλεονεκτεῖν ἐν τῷ πράγματι τὸν ἀδελφὸν αὐτοῦ, διότι ἔκδικος κύριος περὶ πάντων τούτων, καθὼς καὶ προείπαμεν ὑμῖν καὶ διεμαρτυράμεθα."
+  },
+  {
+   "ref": "ROM 13:4",
+   "form": "ἔκδικος",
+   "morph": "A-NSM",
+   "gloss_en": "avenger",
+   "gloss_ja": "復讐者",
+   "verse": "θεοῦ γὰρ διάκονός ἐστιν σοὶ εἰς τὸ ἀγαθόν. ἐὰν δὲ τὸ κακὸν ποιῇς, φοβοῦ· οὐ γὰρ εἰκῇ τὴν μάχαιραν φορεῖ· θεοῦ γὰρ διάκονός ἐστιν, ἔκδικος εἰς ὀργὴν τῷ τὸ κακὸν πράσσοντι."
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Machabaeorum iv": 1,
+   "Sapientia Salomonis": 1,
+   "Ecclesiasticus sive Siracides": 1
+  },
+  "representatives": [
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "15.29",
+    "form": "ἔκδικε",
+    "postag": "a-s---fv-",
+    "sentence": "ὦ μήτηρ ἔθνους, ἔκδικε τοῦ νόμου καὶ ὑπερασπίστρια τῆς εὐσεβείας καὶ τοῦ διὰ σπλάγχνων ἀγῶνος ἀθλοφόρε ·"
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "12.12",
+    "form": "ἔκδικος",
+    "postag": "a-s---mn-",
+    "sentence": "ἢ τίς εἰς κατάστασίν σοι ἐλεύσεται ἔκδικος κατὰ ἀδίκων ἀνθρώπων;"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "30.6",
+    "form": "ἔκδικον",
+    "postag": "a-s---ma-",
+    "sentence": "ἐναντίον ἐχθρῶν κατέλιπεν ἔκδικον καὶ τοῖς φίλοις ἀνταποδιδόντα χάριν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   ** ἔκδικος, -ον    (< δίκη),    [in LXX: Wi 12:12, Si 30:6, IV Mac 15:29 * ;]       without law, unjust.      exacting penalty from; as subst., an avenger: Ro 13:4; seq. περί, I Th 4:6 (in π., a legal representative; Milligan, Th., l.c.).†"
+}

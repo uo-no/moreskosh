@@ -1,0 +1,164 @@
+{
+ "strong": "G2598",
+ "lemma": "καταβάλλω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2CO 4:9",
+   "form": "καταβαλλόμενοι",
+   "morph": "V-PPP-NPM",
+   "gloss_en": "struck down",
+   "gloss_ja": "倒す",
+   "verse": "διωκόμενοι ἀλλ’ οὐκ ἐγκαταλειπόμενοι, καταβαλλόμενοι ἀλλ’ οὐκ ἀπολλύμενοι,"
+  },
+  {
+   "ref": "HEB 6:1",
+   "form": "καταβαλλόμενοι",
+   "morph": "V-PMP-NPM",
+   "gloss_en": "laying",
+   "gloss_ja": "倒す",
+   "verse": "Διὸ ἀφέντες τὸν τῆς ἀρχῆς τοῦ Χριστοῦ λόγον ἐπὶ τὴν τελειότητα φερώμεθα, μὴ πάλιν θεμέλιον καταβαλλόμενοι μετανοίας ἀπὸ νεκρῶν ἔργων, καὶ πίστεως ἐπὶ θεόν,"
+  }
+ ],
+ "lxx": {
+  "total": 47,
+  "works": {
+   "Regnorum ii": 1,
+   "Regnorum iv": 4,
+   "Paralipomenon ii sive Chronicon ii": 1,
+   "Judith": 1,
+   "Machabaeorum i": 1,
+   "Machabaeorum ii": 4,
+   "Machabaeorum iv": 1,
+   "Psalmi": 5,
+   "Proverbia": 3,
+   "Job": 3,
+   "Ecclesiasticus sive Siracides": 5,
+   "Psalmi Salomonis": 2,
+   "Isaias": 2,
+   "Jeremias": 1,
+   "Baruch": 1,
+   "Ezechiel": 11,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "29.5",
+    "form": "καταβαλῶ",
+    "postag": "v1sfia---",
+    "sentence": "καὶ καταβαλῶ σε ἐν τάχει καὶ πάντας τοὺς ἰχθύας τοῦ ποταμοῦ σου ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "72.18",
+    "form": "κατέβαλες",
+    "postag": "v2saia---",
+    "sentence": "πλὴν διὰ τὰς δολιότητας αὐτῶν ἔθου αὐτοῖς κακά, κατέβαλες αὐτοὺς ἐν τῷ ἐπαρθῆναι."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "7.7",
+    "form": "καταβάλῃς",
+    "postag": "v2sasa---",
+    "sentence": "μὴ ἁμάρτανε εἰς πλῆθος πόλεως καὶ μὴ καταβάλῃς σεαυτὸν ἐν ὄχλῳ."
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "6.5",
+    "form": "καταβάλλων",
+    "postag": "v-sppamn-",
+    "sentence": "καὶ ἰδοὺ ὁ εἷς καταβάλλων τὴν δοκόν, καὶ τὸ σιδήριον ἐξέπεσεν εἰς τὸ ὕδωρ ·"
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "4.42",
+    "form": "κατέβαλον",
+    "postag": "v3paia---",
+    "sentence": "δι’ ἣν αἰτίαν πολλοὺς μὲν αὐτῶν τραυματίας ἐποίησαν, τινὰς δὲ καὶ κατέβαλον, πάντας δὲ εἰς φυγὴν συνήλασαν, αὐτὸν δὲ τὸν ἱερόσυλον παρὰ τὸ γαζοφυλάκιον ἐχειρώσαντο."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "18.8",
+    "form": "καταβάλλει",
+    "postag": "v3spia---",
+    "sentence": "ὀκνηροὺς καταβάλλει φόβος, ψυχαὶ δὲ ἀνδρογύνων πεινάσουσιν."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "16.14",
+    "form": "κατέβαλόν",
+    "postag": "v3paia---",
+    "sentence": "κατέβαλόν με πτῶμα ἐπὶ πτώματι, ἔδραμον πρός με δυνάμενοι."
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "2.1",
+    "form": "κατέβαλε",
+    "postag": "v3saia---",
+    "sentence": "ἐν τῷ ὑπερηφανεύεσθαι τὸν ἁμαρτωλὸν ἐν κριῷ κατέβαλε τείχη ὀχυρά, καὶ οὐκ ἐκώλυσας."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "26.5",
+    "form": "καταβαλεῖς",
+    "postag": "v2sfia---",
+    "sentence": "πόλεις ὀχυρὰς καταβαλεῖς καὶ κατάξεις ἕως ἐδάφους, καὶ πατήσουσιν αὐτοὺς πόδες πρᾳέων καὶ ταπεινῶν."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "20.15",
+    "form": "καταβαλεῖν",
+    "postag": "v--ana---",
+    "sentence": "καὶ παρεγενήθησαν καὶ ἐπολιόρκουν ἐπ’ αὐτὸν τὴν Ἀβὲλ καὶ Βαιθμαχὰ καὶ ἐξέχεαν πρόσχωμα πρὸς τὴν πόλιν, καὶ ἔστη ἐν τῷ προτειχίσματι, καὶ πᾶς ὁ λαὸς μετά Ἰωὰβ ἐνοοῦσαν καταβαλεῖν τὸ τεῖχος."
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "32.21",
+    "form": "κατέβαλον",
+    "postag": "v3paia---",
+    "sentence": "καὶ ἦλθεν εἰς οἶκον Θεοῦ αὐτοῦ, καὶ τῶν ἐξελθόντων ἐκ κοιλίας αὐτοῦ κατέβαλον αὐτὸν ἐν ρομφαίᾳ."
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "9.8",
+    "form": "καταβαλεῖν",
+    "postag": "v--ana---",
+    "sentence": "ἐβουλεύσαντο γὰρ βεβηλῶσαι τὰ ἅγιά σου, μιᾶναι τὸ σκήνωμα τῆς καταπαύσεως τοῦ ὀνόματος τῆς δόξης σου καὶ καταβαλεῖν σιδήρῳ κέρας θυσιαστηρίου σου."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   κατα-βάλλω,    [in LXX chiefly for נפל hi.;]      to cast down, prostrate: metaph., pass., II Co 4:9.     to put down, lay down: metaph., mid., c. acc., θεμέλιον, He 6:1.†"
+}

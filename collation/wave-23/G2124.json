@@ -1,0 +1,81 @@
+{
+ "strong": "G2124",
+ "lemma": "εὐλάβεια",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "HEB 5:7",
+   "form": "εὐλαβείας",
+   "morph": "N-GSF",
+   "gloss_en": "reverence",
+   "gloss_ja": "敬虔",
+   "verse": "ὃς ἐν ταῖς ἡμέραις τῆς σαρκὸς αὐτοῦ δεήσεις τε καὶ ἱκετηρίας πρὸς τὸν δυνάμενον σῴζειν αὐτὸν ἐκ θανάτου μετὰ κραυγῆς ἰσχυρᾶς καὶ δακρύων προσενέγκας καὶ εἰσακουσθεὶς ἀπὸ τῆς εὐλαβείας,"
+  },
+  {
+   "ref": "HEB 12:28",
+   "form": "εὐλαβείας",
+   "morph": "N-GSF",
+   "gloss_en": "reverence",
+   "gloss_ja": "敬虔",
+   "verse": "διὸ βασιλείαν ἀσάλευτον παραλαμβάνοντες ἔχωμεν χάριν, δι’ ἧς λατρεύωμεν εὐαρέστως τῷ θεῷ μετὰ εὐλαβείας καὶ δέους,"
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Josue": 1,
+   "Proverbia": 1,
+   "Sapientia Salomonis": 1
+  },
+  "representatives": [
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "22.24",
+    "form": "εὐλαβείας",
+    "postag": "n-s---fg-",
+    "sentence": "ἀλλ’ ἕνεκεν εὐλαβείας ρήματος ἐποιήσαμεν τοῦτο λέγοντες ·"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "28.14",
+    "form": "εὐλάβειαν",
+    "postag": "n-s---fa-",
+    "sentence": "μακάριος ἀνήρ, ὃς καταπτήσσει πάντα δι’ εὐλάβειαν, ὁ δὲ σκληρὸς τὴν καρδίαν ἐμπεσεῖται κακοῖς."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "17.8",
+    "form": "εὐλάβειαν",
+    "postag": "n-s---fa-",
+    "sentence": "οἱ γὰρ ὑπισχνούμενοι δείματα καὶ ταραχὰς ἀπελαύνειν ψυχῆς νοσούσης, οὗτοι καταγέλαστον εὐλάβειαν ἐνόσουν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Polycarp, To the Philippians": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PPH",
+    "work_ja": "ポリュカルポスのピリピ書簡",
+    "work_src": "Polycarp, To the Philippians",
+    "ref": "6.3",
+    "form": "εὐλαβείας",
+    "postag": "n-s---fg-",
+    "sentence": "οὕτως οὖν δουλεύσωμεν αὐτῷ μετὰ φόβου καὶ πάσης εὐλαβείας, καθὼς αὐτὸς ἐνετείλατο καὶ οἱ εὐαγγελισάμενοι ἡμᾶς ἀπόστολοι καὶ οἱ προφῆται, οἱ προκηρύξαντες τὴν ἔλευσιν τοῦ κυρίου ἡμῶν ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   εὐλάβεια, -ας, ἡ    (< εὐλαβής),    [in LXX: Je 22:24 (דְּאָגָה), Pr 28:14, Wi 17:8 * ;]     caution, discretion (Soph., Plat., al.).    In later Gk. (Diod., Plut., al.), also reverence, godly fear: He 5:7 12:28.†   SYN.: v.s. δειλία (q.v.), φόβος (cf. Cremer, 387 f., 759; DB, ii. 222)."
+}

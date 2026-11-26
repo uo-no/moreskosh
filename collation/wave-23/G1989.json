@@ -1,0 +1,89 @@
+{
+ "strong": "G1989",
+ "lemma": "ἐπιστέλλω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 15:20",
+   "form": "ἐπιστεῖλαι",
+   "morph": "V-AAN",
+   "gloss_en": "write",
+   "gloss_ja": "手紙を書く",
+   "verse": "ἀλλὰ ἐπιστεῖλαι αὐτοῖς τοῦ ἀπέχεσθαι τῶν ἀλισγημάτων τῶν εἰδώλων καὶ τῆς πορνείας καὶ τοῦ πνικτοῦ καὶ τοῦ αἵματος·"
+  },
+  {
+   "ref": "HEB 13:22",
+   "form": "ἐπέστειλα",
+   "morph": "V-AAI-1S",
+   "gloss_en": "written",
+   "gloss_ja": "手紙を書く",
+   "verse": "Παρακαλῶ δὲ ὑμᾶς, ἀδελφοί, ἀνέχεσθε τοῦ λόγου τῆς παρακλήσεως, καὶ γὰρ διὰ βραχέων ἐπέστειλα ὑμῖν."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Judices": 1,
+   "Judith": 1
+  },
+  "representatives": [
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "7.24",
+    "form": "ἐπέστειλε",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἀγγέλους ἐπέστειλε Γεδεὼν ἐν παντὶ ὄρει Ἐφραὶμ λέγων ·"
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "11.16",
+    "form": "ἐπέστειλέ",
+    "postag": "v3saia---",
+    "sentence": "ὅθεν ἐγὼ ἡ δούλη σου ἐπιγνοῦσα ταῦτα πάντα ἀπέδρων ἀπὸ προσώπου αὐτῶν, καὶ ἐπέστειλέ με ὁ Θεὸς ποιῆσαι μετὰ σοῦ πράγματα, ἐφ’ οἷς ἐκστήσεται πᾶσα ἡ γῆ, ὅσοι ἐὰν ἀκούσωσιν αὐτά."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 3,
+  "works": {
+   "1 Clement": 3
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "7.1",
+    "form": "ἐπιστέλλομεν",
+    "postag": "v1ppia---",
+    "sentence": "ταῦτα, ἀγαπητοί, οὐ μόνον ὑμᾶς νουθετοῦντες ἐπιστέλλομεν, ἀλλὰ καὶ ἑαυτοὺς ὑπομιμνήσκοντες ·"
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "47.3",
+    "form": "ἐπέστειλεν",
+    "postag": "v3saia---",
+    "sentence": "ἐπ’ ἀληθείας πνευματικῶς ἐπέστειλεν ὑμῖν περὶ ἑαυτοῦ τε καὶ Κηφᾶ τε καὶ Ἀπολλώ, διὰ τὸ καὶ τότε προσκλίσεις ὑμᾶς πεποιῆσθαι."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "62.1",
+    "form": "ἐπεστείλαμεν",
+    "postag": "v1paia---",
+    "sentence": "περὶ μὲν τῶν ἀνηκόντων τῇ θρησκείᾳ ἡμῶν καὶ τῶν ὠφελιμωτάτων εἰς ἐνάρετον βίον τοῖς θέλουσιν εὐσεβῶς καὶ δικαίως διευθύνειν, ἱκανῶς ἐπεστείλαμεν ὑμῖν, ἄνδρες ἀδελφοί."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3   ἐπι-στέλλω     [in LXX: III Ki 5:8(22) Ne 6:19 (שָׁלַח), Jth 15:4, I Mac 10:25 12:7 13:18 (in each case with v.l. ἀποσ-) * ;]     to send to.    to send a message by letter, to write word (MM, Exp., xiv): c. dat. pers., Ac 21:25, He 13:22; seq. τοῦ, c. inf., Ac 15:20.†"
+}
