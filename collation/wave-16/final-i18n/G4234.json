@@ -1,0 +1,51 @@
+{
+  "strong": "G4234",
+  "lemma": "πρᾶξις",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "行い・所業",
+      "def_ja": "行い、所業、振る舞い。『その行いに応じて報いる』『自分たちの行いを打ち明け』『その行いと共に脱ぎ捨てた』『からだの行い』『彼らの計画や行動に』。",
+      "label_en": "deed, practice",
+      "def_en": "A deed, practice, conduct.",
+      "label_es": "obra, hecho",
+      "def_es": "Obra, proceder, conducta.",
+      "label_sv": "gärning, handlingssätt",
+      "def_sv": "Gärning, beteende, uppförande.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "マタイ16:27、使徒19:18、コロサイ3:9、ローマ8:13、ルカ23:51。LXX（13.22・37.16）、教父（23.5.5・30.7）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "働き・機能",
+      "def_ja": "からだの各部の働き、機能。『肢体がみな同じ働きをしていない』。",
+      "label_en": "function",
+      "def_en": "The working or function of the parts of a body.",
+      "label_es": "función",
+      "def_es": "La actividad o función de los miembros del cuerpo.",
+      "label_sv": "uppgift, funktion",
+      "def_sv": "Kroppsdelarnas verksamhet eller funktion.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ローマ12:4。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 19:18": 1,
+    "COL 3:9": 1,
+    "LUK 23:51": 1,
+    "MAT 16:27": 1,
+    "ROM 12:4": 2,
+    "ROM 8:13": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（行い／働き・機能）による。"
+}

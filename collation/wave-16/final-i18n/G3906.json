@@ -1,0 +1,51 @@
+{
+  "strong": "G3906",
+  "lemma": "παρατηρέω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "じっと見張る・うかがう",
+      "def_ja": "注意深く見張る、うかがう。『昼も夜も城門を見張っていた』『イエスをうかがっていた』『機会をうかがい』『イエスを見張っていた』。",
+      "label_en": "to watch closely",
+      "def_en": "To watch attentively, to keep an eye on.",
+      "label_es": "acechar, vigilar",
+      "def_es": "Observar con atención, estar al acecho.",
+      "label_sv": "att vakta på, att ge noga akt",
+      "def_sv": "Att noga bevaka, att lura på.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒9:24、ルカ14:1・20:20・6:7、マルコ3:2。LXX（12・129.3）に並行。教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "守る・暦を重んじる",
+      "def_ja": "日・月・季節・年などを守る、重んじる。『あなたがたは、日と月と季節と年とを守っている』。",
+      "label_en": "to observe (days, seasons)",
+      "def_en": "To keep or attach importance to days, months, seasons and years.",
+      "label_es": "guardar, observar (fechas)",
+      "def_es": "Guardar y dar importancia a días, meses, tiempos y años.",
+      "label_sv": "att hålla, att iaktta (dagar, tider)",
+      "def_sv": "Att hålla och lägga vikt vid dagar, månader, tider och år.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ガラテヤ4:10。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 9:24": 1,
+    "GAL 4:10": 2,
+    "LUK 14:1": 1,
+    "LUK 20:20": 1,
+    "LUK 6:7": 1,
+    "MRK 3:2": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（見張る／暦を守る）による。"
+}

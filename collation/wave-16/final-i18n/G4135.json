@@ -1,0 +1,51 @@
+{
+  "strong": "G4135",
+  "lemma": "πληροφορέω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "全うする・成し遂げる",
+      "def_ja": "事を全うする、成し遂げる、余すところなく行う。『あなたの務めを全うしなさい』『宣教が余すところなく果たされ』『わたしたちの間で成し遂げられた事柄』。",
+      "label_en": "to fulfill, to accomplish",
+      "def_en": "To carry a matter through, to accomplish it fully.",
+      "label_es": "cumplir, llevar a término",
+      "def_es": "Llevar a cabo algo por completo, sin dejar nada.",
+      "label_sv": "att fullgöra, att fullborda",
+      "def_sv": "Att fullfölja något, att utföra det helt.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "テモテ第二4:5・4:17、ルカ1:1。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "確信する・十分に確信させる",
+      "def_ja": "確信する、十分に確信させる（受動）。『確信して』『各人は自分の心の中で確信を持つべきである』『確信を持って、立つことができるように』。",
+      "label_en": "to be fully convinced",
+      "def_en": "To be convinced, to be fully persuaded (passive).",
+      "label_es": "estar plenamente convencido",
+      "def_es": "Estar convencido, quedar plenamente persuadido (pasiva).",
+      "label_sv": "att vara fullt övertygad",
+      "def_sv": "Att vara viss, att bli helt övertygad (passiv).",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "コロサイ4:12、ローマ14:5・4:21。LXX（8.11）に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "2TI 4:5": 1,
+    "2TI 4:17": 1,
+    "COL 4:12": 2,
+    "LUK 1:1": 1,
+    "ROM 14:5": 2,
+    "ROM 4:21": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（全うする／確信する）による。"
+}

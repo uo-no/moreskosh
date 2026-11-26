@@ -1,0 +1,51 @@
+{
+  "strong": "G4081",
+  "lemma": "πηλός",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "泥",
+      "def_ja": "湿った土、泥。『土に唾をし、その唾で泥を造り』『その泥を盲人の目に塗り』『イエスが泥を造って』『泥をつけ』『泥をわたしの目に塗り』。",
+      "label_en": "mud",
+      "def_en": "Wet earth, mud.",
+      "label_es": "lodo",
+      "def_es": "Tierra húmeda, lodo.",
+      "label_sv": "lera, gyttja",
+      "def_sv": "Fuktig jord, smuts.",
+      "layers": {
+        "nt": 5,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヨハネ9:6（2回）・9:11・9:14・9:15。語義2との境界は連続的。ヨハネ9:6 の2つ目は「粘土」とも訳されるが、語義としては区別しない。LXX・教父の代表例は陶土の用法で、この語義としては確認していない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "粘土（陶工の）",
+      "def_ja": "陶工が用いる粘土。『陶器師は同じ粘土の塊から』。",
+      "label_en": "clay (of a potter)",
+      "def_en": "Clay used by a potter.",
+      "label_es": "barro, arcilla (de alfarero)",
+      "def_es": "Arcilla que usa el alfarero.",
+      "label_sv": "lera (krukmakarens)",
+      "def_sv": "Den lera krukmakaren arbetar med.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ローマ9:21。LXX（30.19・45.9）、教父（39.5・8.2）に並行。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "JHN 9:6#1": 1,
+    "JHN 9:6#2": 1,
+    "JHN 9:11": 1,
+    "JHN 9:14": 1,
+    "JHN 9:15": 1,
+    "ROM 9:21": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（泥／陶工の粘土）による。"
+}

@@ -1,0 +1,51 @@
+{
+  "strong": "G3667",
+  "lemma": "ὁμοίωμα",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "似姿・像",
+      "def_ja": "似姿、形、かたち。『いなごの形は』『朽ちる人間や鳥や獣の像に似せた』『人間と同じようになられた』。",
+      "label_en": "likeness, image",
+      "def_en": "A likeness, form or shape.",
+      "label_es": "semejanza, imagen",
+      "def_es": "Semejanza, forma, figura.",
+      "label_sv": "avbild, likhet",
+      "def_sv": "Skepnad, form, gestalt.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "黙示録9:7、ローマ1:23、ピリピ2:7。LXX（1.28・4.12）、教父（9.1.9）に並行。語義2との境界は連続的。ピリピ2:7 の ὁμοίωμα の含みは決定しない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "同じ様態・類似",
+      "def_ja": "同様であること、類似。『アダムの違反と同じような罪』『彼の死と同じ状態に』『罪深い肉と同じ様態で』。",
+      "label_en": "sameness, resemblance",
+      "def_en": "Being in the same manner; similarity.",
+      "label_es": "semejanza, conformidad",
+      "def_es": "El ser de la misma manera; parecido.",
+      "label_sv": "likhet, motsvarighet",
+      "def_sv": "Att vara på samma sätt; överensstämmelse.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "ローマ5:14・6:5・8:3。教父（3.9.2）に並行。LXX の代表例では確認していない。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "PHP 2:7": 1,
+    "REV 9:7": 1,
+    "ROM 1:23": 1,
+    "ROM 5:14": 2,
+    "ROM 6:5": 2,
+    "ROM 8:3": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（似姿・像／同様の様態）による。"
+}

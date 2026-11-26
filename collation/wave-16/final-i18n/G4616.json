@@ -1,0 +1,51 @@
+{
+  "strong": "G4616",
+  "lemma": "σινδών",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "亜麻布（埋葬用）",
+      "def_ja": "遺体を包む亜麻布。『亜麻布で巻き』『きれいな亜麻布に包み』『亜麻布を買い、イエスを取りおろして亜麻布で巻き』『亜麻布に包んで』。",
+      "label_en": "linen cloth (for burial)",
+      "def_en": "Linen cloth for wrapping a body.",
+      "label_es": "sábana de lino (mortaja)",
+      "def_es": "Lienzo de lino para envolver un cadáver.",
+      "label_sv": "linneduk (till svepning)",
+      "def_sv": "Linnetyg att svepa en död kropp i.",
+      "layers": {
+        "nt": 4,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ルカ23:53、マタイ27:59、マルコ15:46（2回）。語義2との境界は連続的。LXX・教父の代表例は衣類の用法で、この語義としては確認していない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "亜麻布の衣",
+      "def_ja": "亜麻布でできた衣・覆い。『亜麻布を身にまとった一人の若者』『亜麻布を捨てて裸で逃げた』。",
+      "label_en": "linen garment",
+      "def_en": "A garment or covering made of linen.",
+      "label_es": "prenda de lino",
+      "def_es": "Vestido o cubierta hecho de lino.",
+      "label_sv": "linneklädnad",
+      "def_sv": "Ett plagg eller täcke av linne.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "マルコ14:51・14:52。LXX（14.12・31b.24）に並行。教父の用例なし。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "LUK 23:53": 1,
+    "MAT 27:59": 1,
+    "MRK 15:46#1": 1,
+    "MRK 15:46#2": 1,
+    "MRK 14:51": 2,
+    "MRK 14:52": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（埋葬用の布／衣）による。"
+}

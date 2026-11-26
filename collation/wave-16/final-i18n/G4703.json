@@ -1,0 +1,51 @@
+{
+  "strong": "G4703",
+  "lemma": "σπόρος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "種・種まき",
+      "def_ja": "蒔く種、蒔かれた種。『種を蒔く人』『種は神の言である』『種は芽を出して育つ』『種が芽を出して』『蒔く者に種を与え』。",
+      "label_en": "seed, sowing",
+      "def_en": "The seed that is sown.",
+      "label_es": "semilla, siembra",
+      "def_es": "La semilla que se siembra o ha sido sembrada.",
+      "label_sv": "utsäde, sådd",
+      "def_sv": "Säden som sås eller har såtts.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "コリント第二9:10（1つ目）、ルカ8:5・8:11、マルコ4:26・4:27。LXX（26.20・21.8）、教父（24.4）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "蒔く物（施しの比喩）",
+      "def_ja": "施しとして蒔くもの、あなたがたの種。『あなたがたの種を備え、ふやし』。",
+      "label_en": "seed for sowing (figure for giving)",
+      "def_en": "What is sown in giving: “your seed”.",
+      "label_es": "sementera (figura de la ofrenda)",
+      "def_es": "Lo que se siembra al dar: «vuestra semilla».",
+      "label_sv": "utsäde (bild för gåvor)",
+      "def_sv": "Det man sår genom att ge: ”ert utsäde”.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "コリント第二9:10（2つ目）。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "2CO 9:10#1": 1,
+    "2CO 9:10#2": 2,
+    "LUK 8:5": 1,
+    "LUK 8:11": 1,
+    "MRK 4:26": 1,
+    "MRK 4:27": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（種／施しの比喩）による。"
+}

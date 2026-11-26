@@ -1,0 +1,51 @@
+{
+  "strong": "G4931",
+  "lemma": "συντελέω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "終える・終わる",
+      "def_ja": "事が終わる、終える、満了する。『七日の期間が満ちようとしていたとき』『その期間が終わったとき』『すべての試みを終えて』『すべてのことが成就するときには』。",
+      "label_en": "to finish, to be over",
+      "def_en": "For something to come to an end; to finish, to expire.",
+      "label_es": "terminar, cumplirse",
+      "def_es": "Acabarse algo; concluir, expirar.",
+      "label_sv": "att avsluta, att vara slut",
+      "def_sv": "Att något tar slut; att avsluta, att löpa ut.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒21:27、ルカ4:2・4:13、マルコ13:4。LXX（42.15・2.35γ）、教父（17.3.2・15.4）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "成し遂げる・結ぶ",
+      "def_ja": "成し遂げる、実現する、契約を結ぶ。『新しい契約を結ぶ』『主は…速やかに成し遂げられる』。",
+      "label_en": "to accomplish, to conclude",
+      "def_en": "To accomplish, to bring about; to conclude a covenant.",
+      "label_es": "llevar a cabo, concertar",
+      "def_es": "Realizar, ejecutar; concluir un pacto.",
+      "label_sv": "att utföra, att sluta",
+      "def_sv": "Att genomföra, förverkliga; att sluta ett förbund.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヘブル8:8、ローマ9:28。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 21:27": 1,
+    "HEB 8:8": 2,
+    "LUK 4:2": 1,
+    "LUK 4:13": 1,
+    "MRK 13:4": 1,
+    "ROM 9:28": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（終える・終わる／成し遂げる・結ぶ）による。"
+}

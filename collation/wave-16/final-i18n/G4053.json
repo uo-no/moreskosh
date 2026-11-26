@@ -1,0 +1,68 @@
+{
+  "strong": "G4053",
+  "lemma": "περισσός",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "余分な・それ以上の",
+      "def_ja": "余分の、それ以上の。『これ以上のことは悪から出る』『人より何かすぐれたことをしているか』『余計なことです』。",
+      "label_en": "more, beyond",
+      "def_en": "What is over and above; more than that.",
+      "label_es": "de más, excedente",
+      "def_es": "Lo que sobra o va más allá.",
+      "label_sv": "mer, utöver",
+      "def_sv": "Det som går därutöver.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "マタイ5:37・5:47、コリント第二9:1。LXX（6.4・7.16）に並行。教父の代表例では確認していない。語義2・3との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "豊かな・まさる点",
+      "def_ja": "豊かな、まさっていること、有利さ。『豊かに持つため』『まさっている点は何か』。",
+      "label_en": "abundant, advantage",
+      "def_en": "Being abundant or superior; advantage.",
+      "label_es": "abundante, ventaja",
+      "def_es": "Abundancia, superioridad, provecho.",
+      "label_sv": "överflödande, företräde",
+      "def_sv": "Att vara riklig eller bättre; fördel.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヨハネ10:10、ローマ3:1。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "はなはだ（ἐκ περισσοῦ）",
+      "def_ja": "きわめて、非常に。『心の中で非常に驚いた』。",
+      "label_en": "exceedingly (ἐκ περισσοῦ)",
+      "def_en": "Extremely, very much.",
+      "label_es": "en gran manera (ἐκ περισσοῦ)",
+      "def_es": "Sumamente, en extremo.",
+      "label_sv": "övermåttan (ἐκ περισσοῦ)",
+      "def_sv": "Ytterst, i högsta grad.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マルコ6:51。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "2CO 9:1": 1,
+    "JHN 10:10": 2,
+    "MAT 5:37": 1,
+    "MAT 5:47": 1,
+    "MRK 6:51": 3,
+    "ROM 3:1": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（余分／豊か・まさる点／はなはだ）による。"
+}

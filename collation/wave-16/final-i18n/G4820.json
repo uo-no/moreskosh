@@ -1,0 +1,85 @@
+{
+  "strong": "G4820",
+  "lemma": "συμβάλλω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "論じ合う・協議する",
+      "def_ja": "語り合う、協議する、議論する。『互いに協議して』『彼と議論を交わした』。",
+      "label_en": "to confer, to debate",
+      "def_en": "To talk together, to consult, to dispute.",
+      "label_es": "deliberar, discutir",
+      "def_es": "Conversar, consultar, debatir.",
+      "label_sv": "att överlägga, att dryfta",
+      "def_sv": "Att samtala, rådgöra, disputera.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒4:15・17:18。語義2〜4との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "思い巡らす",
+      "def_ja": "心の中でよく考える。『これらのことをみな心に留めて思い巡らしていた』。",
+      "label_en": "to ponder",
+      "def_en": "To think over carefully in one’s heart.",
+      "label_es": "meditar",
+      "def_es": "Considerar con atención en el corazón.",
+      "label_sv": "att begrunda",
+      "def_sv": "Att noga överväga i sitt hjärta.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ルカ2:19。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "出会う・交戦する",
+      "def_ja": "出会う、交戦する。『私たちと会った』『戦いに出て行く（交戦する）』。",
+      "label_en": "to meet, to engage",
+      "def_en": "To meet; to encounter in battle.",
+      "label_es": "encontrarse, trabar combate",
+      "def_es": "Encontrarse; enfrentarse en batalla.",
+      "label_sv": "att möta, att drabba samman",
+      "def_sv": "Att sammanträffa; att mötas i strid.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒20:14、ルカ14:31。LXX（14.17）に並行。教父の代表例（23.4・11.3）は用法の対応が確認できず、確認していない。語義1との境界は連続的。"
+    },
+    {
+      "n": 4,
+      "label_ja": "助ける",
+      "def_ja": "助けとなる、寄与する。『恵みによって信じた人々を大いに助けた』。",
+      "label_en": "to help",
+      "def_en": "To be of help, to contribute.",
+      "label_es": "ayudar",
+      "def_es": "Ser de provecho, contribuir.",
+      "label_sv": "att hjälpa",
+      "def_sv": "Att vara till hjälp, att bidra.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒18:27。語義3との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 18:27": 4,
+    "ACT 17:18": 1,
+    "ACT 20:14": 3,
+    "ACT 4:15": 1,
+    "LUK 14:31": 3,
+    "LUK 2:19": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（協議／思い巡らす／出会う・交戦／助ける）による。"
+}

@@ -1,0 +1,51 @@
+{
+  "strong": "G4993",
+  "lemma": "σωφρονέω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "正気である",
+      "def_ja": "正気である、気が確かである。『着物を着て、正気になってすわっているのを見て』『正気になって』『わたしたちが正気であるなら、それはあなたがたのためである』。",
+      "label_en": "to be in one’s right mind",
+      "def_en": "To be sane, to be in one’s senses.",
+      "label_es": "estar en su juicio cabal",
+      "def_es": "Estar cuerdo.",
+      "label_sv": "att vara vid sina sinnen",
+      "def_sv": "Att vara klar i huvudet.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マルコ5:15、ルカ8:35、コリント第二5:13。語義2との境界は連続的。LXX の用例なし。教父の代表例は節制の用法で、この語義としては確認していない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "慎み深くある・節制する",
+      "def_ja": "慎み深くある、思慮を保つ、自制する。『慎み深く、身を慎んで』『思慮深く考えるべきである』『慎み深くあるようにすすめなさい』。",
+      "label_en": "to be sober-minded, to be self-controlled",
+      "def_en": "To be sensible, to keep sound judgment, to restrain oneself.",
+      "label_es": "ser prudente, dominarse",
+      "def_es": "Ser sensato, pensar con cordura, tener dominio propio.",
+      "label_sv": "att vara besinningsfull",
+      "def_sv": "Att vara sansad, tänka klokt, behärska sig.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "ペテロ第一4:7、ローマ12:3、テトス2:6。教父（4.3）に並行。LXX の用例なし。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "1PE 4:7": 2,
+    "2CO 5:13": 1,
+    "LUK 8:35": 1,
+    "MRK 5:15": 1,
+    "ROM 12:3": 2,
+    "TIT 2:6": 2
+  },
+  "unresolved": [],
+  "layer_notes": "LXX の用例なし。語義区分は用法（正気／慎み・節制）による。"
+}

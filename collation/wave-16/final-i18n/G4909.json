@@ -1,0 +1,51 @@
+{
+  "strong": "G4909",
+  "lemma": "συνευδοκέω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "同意する・承諾する",
+      "def_ja": "一緒に住むことに同意する、承諾する。『夫が妻と共に住むことを承諾するなら』『妻が…共に住むことを承諾するなら』。",
+      "label_en": "to consent",
+      "def_en": "To consent, to agree to live together.",
+      "label_es": "consentir",
+      "def_es": "Acceder, avenirse a vivir juntos.",
+      "label_sv": "att samtycka",
+      "def_sv": "Att gå med på att bo tillsammans.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "コリント第一7:12・7:13。語義2との境界は連続的。LXX の代表例は是認の用法で、この語義としては確認していない。教父の代表例では確認していない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "是認する・賛同する",
+      "def_ja": "行いに賛同する、是認する。『彼の殺害に賛成していた』『ステパノの殺害に賛成していた』『先祖たちのわざに賛成している』『それを行う者に賛成までしている』。",
+      "label_en": "to approve",
+      "def_en": "To approve of a deed, to give assent to it.",
+      "label_es": "aprobar",
+      "def_es": "Aprobar una acción, estar conforme con ella.",
+      "label_sv": "att gilla",
+      "def_sv": "Att instämma i en gärning, att godkänna den.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒22:20・8:1、ルカ11:48、ローマ1:32。LXX（11.35・1.57）、教父（22.2.11・35.6）に並行。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "1CO 7:12": 1,
+    "1CO 7:13": 1,
+    "ACT 22:20": 2,
+    "ACT 8:1": 2,
+    "LUK 11:48": 2,
+    "ROM 1:32": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（承諾／是認・賛同）による。"
+}

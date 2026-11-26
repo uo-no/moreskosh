@@ -1,0 +1,51 @@
+{
+  "strong": "G4163",
+  "lemma": "ποιητής",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "行う者",
+      "def_ja": "行う者、実行する者。『律法を行う者が義とされる』『律法を行わない者』『ただ聞くだけで終わる者ではなく、行う者となれ』『行為の人として』『自由の律法を…行う人』『裁き人』。",
+      "label_en": "doer",
+      "def_en": "One who does, one who carries out.",
+      "label_es": "hacedor",
+      "def_es": "El que hace, el que pone por obra.",
+      "label_sv": "görare",
+      "def_sv": "En som gör, en som utför.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ローマ2:13、ヤコブ1:22・1:23・1:25・4:11。LXX（2.67）に並行。教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "詩人",
+      "def_ja": "詩人。『あなたがたの詩人たちの中のある者も』。",
+      "label_en": "poet",
+      "def_en": "A poet.",
+      "label_es": "poeta",
+      "def_es": "Poeta.",
+      "label_sv": "skald, diktare",
+      "def_sv": "En poet.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒17:28。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 17:28": 2,
+    "JAS 4:11": 1,
+    "JAS 1:22": 1,
+    "JAS 1:23": 1,
+    "JAS 1:25": 1,
+    "ROM 2:13": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（行う者／詩人）による。"
+}

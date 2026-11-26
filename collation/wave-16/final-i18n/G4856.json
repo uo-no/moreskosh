@@ -1,0 +1,51 @@
+{
+  "strong": "G4856",
+  "lemma": "συμφωνέω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "一致する・同意する",
+      "def_ja": "意見や約束が一致する、同意する。『預言者たちの言葉もこれと一致している』『あなたがたが…相談して』『二人のうちのだれかが…心を合わせるなら』『一日一デナリの約束をして』『わたしと一デナリの約束をしたではないか』。",
+      "label_en": "to agree",
+      "def_en": "To agree in opinion or in an arrangement; to consent.",
+      "label_es": "concordar, convenir",
+      "def_es": "Estar de acuerdo en un parecer o en un trato; consentir.",
+      "label_sv": "att stämma överens, att komma överens",
+      "def_sv": "Att vara ense i mening eller avtal; att samtycka.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒15:15・5:9、マタイ18:19・20:2・20:13。LXX（14.3・12.9）、教父（3.2.6）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "調和する・合う",
+      "def_ja": "調和する、似合う。『新しい衣の切れ端は古いものに合わない』。",
+      "label_en": "to match",
+      "def_en": "To be in harmony, to suit.",
+      "label_es": "armonizar, ajustar",
+      "def_es": "Estar en armonía, ir bien con algo.",
+      "label_sv": "att passa ihop",
+      "def_sv": "Att harmoniera, att passa till.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ルカ5:36。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 15:15": 1,
+    "ACT 5:9": 1,
+    "LUK 5:36": 2,
+    "MAT 18:19": 1,
+    "MAT 20:2": 1,
+    "MAT 20:13": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（一致・同意／調和）による。"
+}

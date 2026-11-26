@@ -1,0 +1,51 @@
+{
+  "strong": "G4876",
+  "lemma": "συναντάω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "出会う",
+      "def_ja": "出会う、行き会う。『コルネリオは迎えて』『戻って来るアブラハムに出会って』『彼に出会った』『水がめを運んでいる男に出会う』『大ぜいの群衆が出迎えた』。",
+      "label_en": "to meet",
+      "def_en": "To meet, to come upon.",
+      "label_es": "salir al encuentro",
+      "def_es": "Encontrarse, toparse con alguien.",
+      "label_sv": "att möta",
+      "def_sv": "Att träffa på, att gå till mötes.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒10:25、ヘブル7:1・7:10、ルカ22:10・9:37。LXX（11.64）、教父（epilogus_alius.4）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "降りかかる",
+      "def_ja": "出来事が身に降りかかる。『わたしの身に何が起こるかを知らないで』。",
+      "label_en": "to befall",
+      "def_en": "For events to happen to a person.",
+      "label_es": "acontecer, sobrevenir",
+      "def_es": "Ocurrirle a uno un suceso.",
+      "label_sv": "att vederfaras",
+      "def_sv": "Att något händer en.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒20:22。LXX（17.20）に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "ACT 10:25": 1,
+    "ACT 20:22": 2,
+    "HEB 7:1": 1,
+    "HEB 7:10": 1,
+    "LUK 22:10": 1,
+    "LUK 9:37": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（出会う／出来事が降りかかる）による。"
+}

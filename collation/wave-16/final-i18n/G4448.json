@@ -1,0 +1,68 @@
+{
+  "strong": "G4448",
+  "lemma": "πυρόομαι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "燃える・燃え上がる",
+      "def_ja": "火で燃える、燃え上がる。『悪い者の放つ火の矢』『天は燃えてくずれ』。",
+      "label_en": "to burn, to be aflame",
+      "def_en": "To burn with fire, to blaze up.",
+      "label_es": "arder, encenderse",
+      "def_es": "Arder en fuego, encenderse.",
+      "label_sv": "att brinna, att flamma upp",
+      "def_sv": "Att brinna i eld, att fatta eld.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "エペソ6:16、ペテロ第二3:12。LXX（10.35）に並行。教父の代表例では確認していない。語義2・3との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "精錬される・炉で熱せられる",
+      "def_ja": "炉で熱せられる、精錬される。『炉で精錬されて光り輝く真鍮』『火で精錬された金』。",
+      "label_en": "to be refined in a furnace",
+      "def_en": "To be heated in a furnace, to be refined.",
+      "label_es": "ser refinado",
+      "def_es": "Ser calentado en el horno, ser acrisolado.",
+      "label_sv": "att luttras i eld",
+      "def_sv": "Att hettas i ugn, att bli renad.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "黙示録1:15・3:18。LXX（16.3）、教父（4.3.4）に並行。語義1・3との境界は連続的。"
+    },
+    {
+      "n": 3,
+      "label_ja": "燃える（情欲・憤りで）",
+      "def_ja": "情欲や憤りに燃える。『情欲に燃えるよりは結婚する方がよい』『わたしの心は燃えないでおられようか』。",
+      "label_en": "to burn (with desire or indignation)",
+      "def_en": "To be inflamed with passion or indignation.",
+      "label_es": "abrasarse (de pasión o indignación)",
+      "def_es": "Arder de deseo o de indignación.",
+      "label_sv": "att brinna (av begär eller harm)",
+      "def_sv": "Att vara upptänd av lidelse eller vrede.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "コリント第一7:9、コリント第二11:29。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 7:9": 3,
+    "2CO 11:29": 3,
+    "2PE 3:12": 1,
+    "EPH 6:16": 1,
+    "REV 1:15": 2,
+    "REV 3:18": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（燃える／精錬される／情・憤りに燃える）による。"
+}

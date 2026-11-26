@@ -1,0 +1,51 @@
+{
+  "strong": "G4013",
+  "lemma": "περιάγω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "巡り歩く・歩き回る",
+      "def_ja": "巡り歩く、あちこち行く。『手を引いてくれる人を捜し回った』『町々村々を巡って』『町々村々をことごとく巡って』『村々を巡り歩いて教えられた』『海と陸とを巡り歩き』。",
+      "label_en": "to go about",
+      "def_en": "To go around, to move here and there.",
+      "label_es": "recorrer, andar de un lado a otro",
+      "def_es": "Ir de aquí para allá.",
+      "label_sv": "att gå omkring",
+      "def_sv": "Att vandra runt, att dra hit och dit.",
+      "layers": {
+        "nt": 5,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒13:11、マタイ4:23・9:35・23:15、マルコ6:6。語義2との境界は連続的。LXX・教父の代表例は「連れ回す」の用法で、この語義としては確認していない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "連れ歩く",
+      "def_ja": "人を連れて歩く、伴う。『信者である妻を連れて歩く権利がないのか』。",
+      "label_en": "to take along",
+      "def_en": "To lead a person about, to be accompanied by.",
+      "label_es": "llevar consigo",
+      "def_es": "Traer a alguien consigo, hacerse acompañar.",
+      "label_sv": "att föra med sig",
+      "def_sv": "Att ha någon med sig, att låta följa med.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "コリント第一9:5。LXX（37.2）に並行（「連れ回す」の用法）。教父の代表例では確認していない。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "1CO 9:5": 2,
+    "ACT 13:11": 1,
+    "MAT 23:15": 1,
+    "MAT 4:23": 1,
+    "MAT 9:35": 1,
+    "MRK 6:6": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（巡り歩く／連れ歩く）による。"
+}

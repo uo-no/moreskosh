@@ -1,0 +1,51 @@
+{
+  "strong": "G4693",
+  "lemma": "σπήλαιον",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "洞穴",
+      "def_ja": "洞穴、ほら穴。『洞穴は石でふさがれ』『洞穴や地の穴をさまよい』『岩の洞穴』。",
+      "label_en": "cave",
+      "def_en": "A cave, a cavern.",
+      "label_es": "cueva",
+      "def_es": "Cueva, caverna.",
+      "label_sv": "grotta, håla",
+      "def_sv": "Grotta, håla.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヨハネ11:38、ヘブル11:38、黙示録6:15。LXX（23.11・10.17）、教父（11.5）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "強盗の巣",
+      "def_ja": "『強盗の巣』（エレミヤ7:11 の引用）。",
+      "label_en": "den of robbers",
+      "def_en": "A “den of robbers” (quotation of Jeremiah 7:11).",
+      "label_es": "cueva de ladrones",
+      "def_es": "«Cueva de ladrones» (cita de Jeremías 7:11).",
+      "label_sv": "rövarkula",
+      "def_sv": "En ”rövarkula” (citat från Jeremia 7:11).",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "マタイ21:13、マルコ11:17、ルカ19:46。教父（14.1）に並行。LXX の代表例では確認していない。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "HEB 11:38": 1,
+    "JHN 11:38": 1,
+    "LUK 19:46": 2,
+    "MAT 21:13": 2,
+    "MRK 11:17": 2,
+    "REV 6:15": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（洞穴／強盗の巣）による。"
+}

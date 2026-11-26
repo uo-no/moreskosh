@@ -1,0 +1,51 @@
+{
+  "strong": "G4348",
+  "lemma": "πρόσκομμα",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "つまずきの石",
+      "def_ja": "つまずきの石、つまずき。『つまずきの石』『つまずきの石につまずいた』『つまずかせる石』。",
+      "label_en": "stone of stumbling",
+      "def_en": "A stone that makes one stumble; stumbling.",
+      "label_es": "piedra de tropiezo",
+      "def_es": "Piedra en la que se tropieza; tropiezo.",
+      "label_sv": "stötesten",
+      "def_sv": "En sten att snava på; anstöt.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ローマ9:32・9:33、ペテロ第一2:8。語義2との境界は連続的。LXX・教父の代表例は「わな・つまずきの原因」の用法で、この語義としては確認していない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "つまずきの原因",
+      "def_ja": "人がつまずく原因、つまずきの機会。『あなたがたのこの自由が弱い者のつまずきとならないように』『つまずきを置かないように』『人につまずきを与えて食べるのは悪い』。",
+      "label_en": "cause of stumbling",
+      "def_en": "A cause or occasion of a person’s stumbling.",
+      "label_es": "motivo de tropiezo",
+      "def_es": "Causa u ocasión de que alguien tropiece.",
+      "label_sv": "anledning till fall",
+      "def_sv": "Det som får en människa att snava; tillfälle till fall.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "コリント第一8:9、ローマ14:13・14:20。LXX（39.24・23.33）に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "1CO 8:9": 2,
+    "1PE 2:8": 1,
+    "ROM 14:13": 2,
+    "ROM 14:20": 2,
+    "ROM 9:32": 1,
+    "ROM 9:33": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（つまずきの石／つまずきの原因）による。"
+}

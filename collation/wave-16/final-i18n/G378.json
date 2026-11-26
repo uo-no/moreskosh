@@ -1,0 +1,68 @@
+{
+  "strong": "G378",
+  "lemma": "ἀναπληρόω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "補う・満たす",
+      "def_ja": "不足を補う、満たす、埋める。『あなたがたの不足したところを補ってくれた』『異言を語る者の位置にいる者』『自分の罪を満たす』『わたしに対するあなたがたの奉仕の足りない所を補う』。",
+      "label_en": "to supply, to fill up",
+      "def_en": "To make good what is lacking, to fill up.",
+      "label_es": "suplir, colmar",
+      "def_es": "Suplir lo que falta, llenar.",
+      "label_sv": "att fylla ut, att uppväga",
+      "def_sv": "Att ersätta det som brister, att fylla.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "コリント第一16:17・14:16、テサロニケ第一2:16、ピリピ2:30。LXX（2.12・15.16）、教父（38.2・21.8）に並行。語義2・3との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "全うする・満たす（律法を）",
+      "def_ja": "律法を全うする。『キリストの律法を全うしなさい』。",
+      "label_en": "to fulfill (the law)",
+      "def_en": "To fulfill the law.",
+      "label_es": "cumplir (la ley)",
+      "def_es": "Dar cumplimiento a la ley.",
+      "label_sv": "att uppfylla (lagen)",
+      "def_sv": "Att fullgöra lagen.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ガラテヤ6:2。語義1・3との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "成就する（預言が）",
+      "def_ja": "預言が成就する。『イザヤの預言が…成就している』。",
+      "label_en": "to be fulfilled (prophecy)",
+      "def_en": "For a prophecy to be fulfilled.",
+      "label_es": "cumplirse (una profecía)",
+      "def_es": "Realizarse una profecía.",
+      "label_sv": "att gå i uppfyllelse (om profetia)",
+      "def_sv": "Att en profetia uppfylls.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マタイ13:14。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 16:17": 1,
+    "1CO 14:16": 1,
+    "1TH 2:16": 1,
+    "GAL 6:2": 2,
+    "MAT 13:14": 3,
+    "PHP 2:30": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（補う・満たす／律法を全うする／預言の成就）による。"
+}

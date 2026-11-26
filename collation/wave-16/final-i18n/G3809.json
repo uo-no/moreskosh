@@ -1,0 +1,51 @@
+{
+  "strong": "G3809",
+  "lemma": "παιδεία",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "懲らしめ・訓練（神の）",
+      "def_ja": "神が子を懲らしめること、鍛えること。『主の訓練を軽んじてはならない』『訓練として耐え忍びなさい』『だれもがあずかっている訓練』『すべての訓練は…』。",
+      "label_en": "discipline, chastening (by God)",
+      "def_en": "God’s chastening and training of God’s children.",
+      "label_es": "disciplina, corrección (de Dios)",
+      "def_es": "La corrección y formación con que Dios trata a sus hijos.",
+      "label_sv": "tuktan, fostran (Guds)",
+      "def_sv": "Att Gud tuktar och övar sina barn.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヘブル12:5・12:7・12:8・12:11。LXX（41.14・16.22）、教父（16.5・2.3.1）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "教育・訓育",
+      "def_ja": "教育、訓育、教え導くこと。『義による訓練』『主の教育と訓戒とによって育てなさい』。",
+      "label_en": "instruction, upbringing",
+      "def_en": "Education, upbringing, guidance by teaching.",
+      "label_es": "educación, instrucción",
+      "def_es": "Formación, crianza, enseñanza que guía.",
+      "label_sv": "uppfostran, undervisning",
+      "def_sv": "Fostran, uppfostran, vägledning.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "テモテ第二3:16、エペソ6:4。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "2TI 3:16": 2,
+    "EPH 6:4": 2,
+    "HEB 12:5": 1,
+    "HEB 12:7": 1,
+    "HEB 12:8": 1,
+    "HEB 12:11": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（神の懲らしめ／教育・訓育）による。"
+}

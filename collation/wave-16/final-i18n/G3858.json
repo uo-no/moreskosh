@@ -1,0 +1,51 @@
+{
+  "strong": "G3858",
+  "lemma": "παραδέχομαι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "受け入れる（言葉・事柄を）",
+      "def_ja": "言葉・慣習・告発などを受け入れる。『御言を聞いて、これを受け入れ』『ローマ人であるわたしたちが受けいれ…ない風習』『あなたについての証言を受け入れない』『告発を受理してはならない』。",
+      "label_en": "to accept (words, matters)",
+      "def_en": "To receive or accept words, customs, accusations and the like.",
+      "label_es": "admitir, recibir (palabras, asuntos)",
+      "def_es": "Aceptar palabras, costumbres, acusaciones, etc.",
+      "label_sv": "att godta, att ta emot (ord, saker)",
+      "def_sv": "Att anta ord, sedvänjor, anklagelser och dylikt.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "マルコ4:20、使徒16:21・22:18、テモテ第一5:19。LXX（27.8・7.12）に並行。教父の代表例は人を迎える用法で、この語義としては確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "迎える・受け入れる（人を）",
+      "def_ja": "人を迎え入れる、受け入れる。『教会と使徒たちと長老たちに歓迎され』『受け入れるすべての子を』。",
+      "label_en": "to welcome, to receive (a person)",
+      "def_en": "To receive and accept a person.",
+      "label_es": "recibir, acoger (a una persona)",
+      "def_es": "Acoger a una persona.",
+      "label_sv": "att ta emot, att välkomna (en person)",
+      "def_sv": "Att ta sig an och ta emot en människa.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "使徒15:4、ヘブル12:6。教父（56.4）に並行。LXX の代表例は事柄の用法で、この語義としては確認していない。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "1TI 5:19": 1,
+    "ACT 15:4": 2,
+    "ACT 16:21": 1,
+    "ACT 22:18": 1,
+    "HEB 12:6": 2,
+    "MRK 4:20": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は対象（事柄／人）による。"
+}

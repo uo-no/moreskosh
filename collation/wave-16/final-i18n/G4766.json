@@ -1,0 +1,68 @@
+{
+  "strong": "G4766",
+  "lemma": "στρώννυμι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "敷く",
+      "def_ja": "道に衣や枝を敷く。『群衆はその上着を道に敷き』『自分たちの上着を道に敷き』『他の人々は木の枝を切って道に敷いた』。",
+      "label_en": "to spread",
+      "def_en": "To spread garments or branches on the road.",
+      "label_es": "tender",
+      "def_es": "Extender mantos o ramas en el camino.",
+      "label_sv": "att breda ut",
+      "def_sv": "Att breda ut kläder eller kvistar på vägen.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "マタイ21:8（2回）、マルコ11:8。LXX（4.3）、教父（26.11.7）に並行。語義2・3との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "寝床を整える",
+      "def_ja": "自分の寝床を整える。『起きて、自分で床を取りなさい』（στρῶσον σεαυτῷ）。",
+      "label_en": "to make one’s bed",
+      "def_en": "To make up one’s own bed.",
+      "label_es": "arreglar el lecho",
+      "def_es": "Hacer la propia cama.",
+      "label_sv": "att bädda",
+      "def_sv": "Att bädda sin egen säng.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒9:34。語義1との境界は連続的。LXX の代表例（8.61）は用法の対応が確認できず、確認していない。教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "整えられた（部屋が）",
+      "def_ja": "席が整えられた、備えられた。『席の整えられた二階の広間』。",
+      "label_en": "furnished (of a room)",
+      "def_en": "Of a room: furnished with places, made ready.",
+      "label_es": "dispuesto (un aposento)",
+      "def_es": "Dicho de una sala: con los asientos puestos, preparada.",
+      "label_sv": "iordningställd (om ett rum)",
+      "def_sv": "Om ett rum: med platserna ordnade, förberett.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ルカ22:12、マルコ14:15。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 9:34": 2,
+    "LUK 22:12": 3,
+    "MAT 21:8#1": 1,
+    "MAT 21:8#2": 1,
+    "MRK 11:8": 1,
+    "MRK 14:15": 3
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（敷く／寝床を整える／部屋が整えられた）による。"
+}
