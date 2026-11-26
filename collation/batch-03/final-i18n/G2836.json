@@ -1,0 +1,102 @@
+{
+  "strong": "G2836",
+  "lemma": "κοιλία",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "腹／胃（腹部）",
+      "def_ja": "胃・腸を含む腹部。食べ物が入る場所、魚の腹、食べたものが入る腹。",
+      "label_en": "belly / stomach (abdomen)",
+      "def_en": "The abdomen including stomach and intestines: the place where food goes, the belly of a fish, the stomach that receives what is eaten.",
+      "label_es": "vientre / estómago (abdomen)",
+      "def_es": "El abdomen con el estómago y los intestinos: adonde va la comida, el vientre del pez, el vientre en que entra lo comido.",
+      "label_sv": "buk / mage",
+      "def_sv": "Buken med mage och tarmar: dit maten går, fiskens buk, magen som tar emot det man äter.",
+      "layers": {
+        "nt": 8,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "Ⅰコリ6:13（食物は腹のため、腹は食物のため。同一節に2回）、ルカ15:16、マタイ15:17・マルコ7:19（口に入るものは腹に入る）、マタイ12:40（魚の腹）、黙示録10:9・10。LXX レビ記9:14 に並行。教父の代表例では確認していない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "胎／母の胎",
+      "def_ja": "母の腹、胎内。『母の胎から』（ἐκ κοιλίας μητρός）の言い方、胎に宿る子、胎の実。",
+      "label_en": "womb / mother's womb",
+      "def_en": "A mother's belly, the womb: the expression “from his mother's womb” (ἐκ κοιλίας μητρός), a child carried in the womb, the fruit of the womb.",
+      "label_es": "seno / vientre materno",
+      "def_es": "El vientre de la madre: la expresión «desde el vientre de su madre» (ἐκ κοιλίας μητρός), el niño en el seno, el fruto del vientre.",
+      "label_sv": "moderliv / sköte",
+      "def_sv": "Moderns buk, livmodern: uttrycket ”från moderlivet” (ἐκ κοιλίας μητρός), barnet i moderlivet, livsfrukten.",
+      "layers": {
+        "nt": 12,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ルカ1:15・41・42・44・2:21・11:27・23:29、ヨハネ3:4、マタイ19:12、使徒3:2・14:8、ガラテヤ1:15（『母の胎から』）。LXX イザヤ44:24、ヨブ31:15、教父（バルナバ13.2）に並行。"
+    },
+    {
+      "n": 3,
+      "label_ja": "（欲望の座としての）腹",
+      "def_ja": "腹を欲望の座・主人として語る。『腹に仕える』『腹が神』の言い方。",
+      "label_en": "belly (as seat of appetite)",
+      "def_en": "Speaking of the belly as the seat of appetite and as a master: “serve their own belly”, “their god is the belly”.",
+      "label_es": "vientre (sede del apetito)",
+      "def_es": "El vientre presentado como sede del apetito y como amo: «servir al vientre», «su dios es el vientre».",
+      "label_sv": "buken (som begärets säte)",
+      "def_sv": "Buken omtalad som begärets säte och herre: ”tjäna sin buk”, ”buken är deras gud”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ローマ16:18（自分の腹に仕える）、ピリ3:19（腹を神とし）。語義1との境界は連続的（食欲の腹が欲望一般を指す）。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 4,
+      "label_ja": "心／内なる所（比喩）",
+      "def_ja": "身体の奥・内なる所を指す比喩（ヘブル語 בטן の用法）。",
+      "label_en": "heart / innermost being (figurative)",
+      "def_en": "A figure for the depths or inner place of the body (the use of Hebrew בטן).",
+      "label_es": "interior / entrañas (figurado)",
+      "def_es": "Figura de lo hondo e interior del cuerpo (uso del hebreo בטן).",
+      "label_sv": "innersta / hjärtat (bildligt)",
+      "def_sv": "En bild för kroppens djup och inre (som hebreiskans בטן).",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヨハネ7:38（『その腹（内なる所）から生ける水の川が流れ出る』）の1例のみ。LXX 詩篇50:21 の『内なる所』の並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 6:13#1": 1,
+    "1CO 6:13#2": 1,
+    "ACT 14:8": 2,
+    "ACT 3:2": 2,
+    "GAL 1:15": 2,
+    "JHN 3:4": 2,
+    "JHN 7:38": 4,
+    "LUK 15:16": 1,
+    "LUK 11:27": 2,
+    "LUK 1:15": 2,
+    "LUK 1:41": 2,
+    "LUK 1:42": 2,
+    "LUK 1:44": 2,
+    "LUK 2:21": 2,
+    "LUK 23:29": 2,
+    "MAT 15:17": 1,
+    "MAT 19:12": 2,
+    "MAT 12:40": 1,
+    "MRK 7:19": 1,
+    "PHP 3:19": 3,
+    "REV 10:9": 1,
+    "REV 10:10": 1,
+    "ROM 16:18": 3
+  },
+  "unresolved": [],
+  "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

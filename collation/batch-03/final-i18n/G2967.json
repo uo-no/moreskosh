@@ -1,0 +1,85 @@
+{
+  "strong": "G2967",
+  "lemma": "κωλύω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "妨げる／阻む／止めさせる",
+      "def_ja": "ある行動・到来・進行を妨げて、できなくする、またはやめさせる。人・霊・状況（死など）が主語になる。",
+      "label_en": "to hinder / stop",
+      "def_en": "To obstruct an action, coming, or progress so that it cannot happen or is stopped. The subject may be a person, a spirit, or circumstances (such as death).",
+      "label_es": "impedir / estorbar",
+      "def_es": "Obstaculizar una acción, llegada o avance de modo que no pueda darse o se detenga. El sujeto puede ser una persona, un espíritu o las circunstancias (como la muerte).",
+      "label_sv": "att hindra / stoppa",
+      "def_sv": "Att hindra en handling, ankomst eller framfart så att den blir omöjlig eller avbryts. Subjektet kan vara en människa, en ande eller omständigheter (t.ex. döden).",
+      "layers": {
+        "nt": 19,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "子どもたちが来るのを妨げない（マタイ19:14、マルコ10:14、ルカ18:16）、異なる者の働きを止めさせる（マルコ9:38・39、ルカ9:49・50）、洗礼を妨げるものは（使徒8:36・10:47・11:17）、ローマ1:13・Ⅰテサ2:16・使徒16:6（霊に禁じられた）・27:43・24:23、ルカ11:52、Ⅱペテロ2:16・Ⅲヨハ10・ヘブル7:23（死によって妨げられて）。LXX（トビト8:3 ほか）、教父（ヘルマス6）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "禁じる",
+      "def_ja": "ある行為を禁止する、してはならないと言う。禁止の内容は不定詞・動名詞で示す。",
+      "label_en": "to forbid",
+      "def_en": "To prohibit an act, to say it must not be done. The content of the prohibition is given by an infinitive or gerund.",
+      "label_es": "prohibir",
+      "def_es": "Vedar una acción, decir que no debe hacerse. El contenido de la prohibición se expresa con infinitivo o gerundio.",
+      "label_sv": "att förbjuda",
+      "def_sv": "Att förbjuda en handling, säga att den inte får göras. Förbudets innehåll anges med infinitiv eller verbalsubstantiv.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ルカ23:2（税を納めるのを禁じている）、Ⅰテモ4:3（結婚を禁じ）、Ⅰコリ14:39（異言で語ることを禁じてはならない）。語義1との境界は連続的（Ⅰコリ14:39 は否定命令で語義1の『止めさせない』とも読める）。LXX Ⅱマカバイ5.26、教父（イグナティオス4.4.1）に並行。"
+    },
+    {
+      "n": 3,
+      "label_ja": "差し控える／拒む",
+      "def_ja": "自分の持つものや与えるべきものを与えずにおく（ἀπό＋属格を伴うヘブル語法）。",
+      "label_en": "to withhold / refuse",
+      "def_en": "To keep back, and not give, what one has or ought to give (a Hebraism with ἀπό + genitive).",
+      "label_es": "retener / negar",
+      "def_es": "No dar, retener lo que uno tiene o debe dar (hebraísmo con ἀπό + genitivo).",
+      "label_sv": "att hålla inne / vägra",
+      "def_sv": "Att behålla och inte ge det man har eller bör ge (hebraism med ἀπό + genitiv).",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ6:29（『下着をも拒むな』）の1例のみ。LXX シラ書4:23（語ることを差し控えるな）に並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 14:39": 2,
+    "1TH 2:16": 1,
+    "1TI 4:3": 2,
+    "2PE 2:16": 1,
+    "3JN 1:10": 1,
+    "ACT 11:17": 1,
+    "ACT 10:47": 1,
+    "ACT 16:6": 1,
+    "ACT 24:23": 1,
+    "ACT 27:43": 1,
+    "ACT 8:36": 1,
+    "HEB 7:23": 1,
+    "LUK 11:52": 1,
+    "LUK 18:16": 1,
+    "LUK 23:2": 2,
+    "LUK 6:29": 3,
+    "LUK 9:49": 1,
+    "LUK 9:50": 1,
+    "MAT 19:14": 1,
+    "MRK 10:14": 1,
+    "MRK 9:38": 1,
+    "MRK 9:39": 1,
+    "ROM 1:13": 1
+  },
+  "unresolved": [],
+  "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

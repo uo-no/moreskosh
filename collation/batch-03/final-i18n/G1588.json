@@ -1,0 +1,102 @@
+{
+  "strong": "G1588",
+  "lemma": "ἐκλεκτός",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "選ばれた者（神に選ばれた民・信じる者）",
+      "def_ja": "神によって選び出された者たち、またその一人。属格の『神の』『彼の』『キリストの』を伴うことが多い。",
+      "label_en": "chosen one (God's chosen people, believers)",
+      "def_en": "Those chosen out by God, or one of them. Often with the genitive “of God”, “his”, or “of Christ”.",
+      "label_es": "elegido (pueblo escogido de Dios, creyentes)",
+      "def_es": "Los escogidos por Dios, o uno de ellos. A menudo con el genitivo «de Dios», «suyos» o «de Cristo».",
+      "label_sv": "utvald (Guds utvalda folk, de troende)",
+      "def_sv": "De som Gud har utvalt, eller en av dem. Ofta med genitiven ”Guds”, ”hans” eller ”Kristi”.",
+      "layers": {
+        "nt": 17,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "マタイ24（22・24・31）・マルコ13（20・22・27）の終末の『選民』、マタイ22:14、ルカ18:7、ローマ8:33、コロサイ3:12、Ⅱテモ2:10、テト1:1、Ⅰペテロ1:1・2:9（『選ばれた種族』）、黙示録17:14。第二ヨハネ1:1・13 の『選ばれた婦人』『選ばれた姉妹』もこの語義に置いた（指すものの判断はしない）。LXX 詩篇88:20、教父（Ⅰクレメンス・ヘルマス3.8.3）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "選ばれた方（キリスト）",
+      "def_ja": "神に選ばれた特別な方。キリスト、またそれにたとえられた『選ばれた石』。",
+      "label_en": "the Chosen One (Christ)",
+      "def_en": "A special one chosen by God: Christ, and the “chosen stone” to which he is likened.",
+      "label_es": "el Elegido (Cristo)",
+      "def_es": "El ser singular escogido por Dios: Cristo, y la «piedra escogida» con que se le compara.",
+      "label_sv": "den Utvalde (Kristus)",
+      "def_sv": "Den särskilde som Gud har utvalt: Kristus, och den ”utvalda stenen” som han liknas vid.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヨハネ1:34・ルカ23:35（『神のメシア、選ばれた者』）、Ⅰペテロ2:4・2:6（隅の親石、イザヤ28:16 の引用）。LXX イザヤ42:1・28:16、教父にバルナバ6.2 の引用。ヨハネ1:34 には異読（『神の子』）がある。"
+    },
+    {
+      "n": 3,
+      "label_ja": "選ばれた天使",
+      "def_ja": "神に選ばれた天使。",
+      "label_en": "elect angels",
+      "def_en": "Angels chosen by God.",
+      "label_es": "ángeles escogidos",
+      "def_es": "Ángeles escogidos por Dios.",
+      "label_sv": "utvalda änglar",
+      "def_sv": "Änglar som Gud har utvalt.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "Ⅰテモ5:21（『選ばれた御使いたち』）の1例のみ。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 4,
+      "label_ja": "選り抜きの／貴い（選ばれて優れた）",
+      "def_ja": "選び抜かれた、優れた者・物。神による選びとは別に、人について『優れた』『抜きん出た』の意味で用いられる。",
+      "label_en": "choice / excellent",
+      "def_en": "A person or thing picked out as excellent. Used of people in the sense “excellent”, “outstanding”, apart from God's choosing.",
+      "label_es": "selecto / excelente",
+      "def_es": "Persona o cosa escogida por su excelencia. Al margen de la elección divina, se usa de personas con el sentido de «excelente», «sobresaliente».",
+      "label_sv": "utsökt / framstående",
+      "def_sv": "En människa eller sak som är utvald för sin förträfflighet. Om människor i betydelsen ”utmärkt”, ”framstående”, skilt från Guds utkorelse.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ローマ16:13（『主にあって選ばれたルフォス』）。語義1との境界は連続的（『主にあって』の限定がある）。LXX に選り抜きの家畜・墓・若者（エゼキエル27:20、創世記23:6、イザヤ31:15）の並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1PE 1:1": 1,
+    "1PE 2:4": 2,
+    "1PE 2:6": 2,
+    "1PE 2:9": 1,
+    "1TI 5:21": 3,
+    "2JN 1:1": 1,
+    "2JN 1:13": 1,
+    "2TI 2:10": 1,
+    "COL 3:12": 1,
+    "JHN 1:34": 2,
+    "LUK 18:7": 1,
+    "LUK 23:35": 2,
+    "MAT 22:14": 1,
+    "MAT 24:22": 1,
+    "MAT 24:24": 1,
+    "MAT 24:31": 1,
+    "MRK 13:20": 1,
+    "MRK 13:22": 1,
+    "MRK 13:27": 1,
+    "REV 17:14": 1,
+    "ROM 16:13": 4,
+    "ROM 8:33": 1,
+    "TIT 1:1": 1
+  },
+  "unresolved": [],
+  "layer_notes": "LXX の『選り抜きの物・人』（家畜・墓・若者）は語義4 に収まる。新約に無い用法は代表例の範囲では見当たらない。"
+}

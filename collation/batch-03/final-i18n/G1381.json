@@ -1,0 +1,92 @@
+{
+  "strong": "G1381",
+  "lemma": "δοκιμάζω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "試す／吟味する",
+      "def_ja": "ある者・物の真価や真偽を、試験・検査にかけて確かめる。金・霊・自分自身・行いなどを対象とする。",
+      "label_en": "to test / examine",
+      "def_en": "To ascertain the true worth or genuineness of someone or something by putting it to trial or inspection: gold, spirits, oneself, one's work, and so on.",
+      "label_es": "probar / examinar",
+      "def_es": "Comprobar mediante prueba o examen el verdadero valor o la autenticidad de alguien o algo: el oro, los espíritus, uno mismo, las obras, etc.",
+      "label_sv": "att pröva / undersöka",
+      "def_sv": "Att genom prov och granskning fastställa det verkliga värdet eller äktheten hos någon eller något: guld, andar, sig själv, gärningar m.m.",
+      "layers": {
+        "nt": 11,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰペテロ1:7（火で試される金）、Ⅰコリ3:13（火が行いを試す）、Ⅰコリ11:28・Ⅱコリ13:5・ガラテヤ6:4（自分・行いの吟味）、Ⅰヨハ4:1・Ⅰテサ5:21（霊・すべてを試す）、Ⅱコリ8:8（愛の真実さを試す）、ルカ14:19（牛を試す）、Ⅰテモ3:10・Ⅰテサ2:4（心を試す神）。Ⅱコリ8:22 は BDAG 最終パス（2026-11-26）で語義3へ移した（試す過程ではなく、試した結果の承認に焦点があるため）。LXX 詩篇138:1、ヘルマス16.1.7 に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "見分ける／判別する",
+      "def_ja": "試験や経験を通して、ことの良し悪し・違い・時を見極める。不定詞や τί（何か）の節を伴う。",
+      "label_en": "to discern / distinguish",
+      "def_en": "Through testing and experience, to make out what is good or bad, the differences, the time. With an infinitive or a τί (“what”) clause.",
+      "label_es": "discernir / distinguir",
+      "def_es": "Por la prueba y la experiencia, distinguir lo bueno de lo malo, las diferencias, el tiempo. Con infinitivo u oración con τί («qué»).",
+      "label_sv": "att urskilja / avgöra",
+      "def_sv": "Att genom prövning och erfarenhet avgöra vad som är gott eller ont, skillnader och tiden. Med infinitiv eller τί-sats (”vad”).",
+      "layers": {
+        "nt": 6,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ルカ12:56（天地の様子／この時を見分ける、同一節に2回）、ローマ2:18・ピリ1:10（τὰ διαφέροντα＝大切なこと）、ローマ12:2・エペソ5:10（神のみこころ・主に喜ばれることを見分ける）。語義1との境界は連続的（『確かめて見極める』）。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "認める／是認する／適当と見なす",
+      "def_ja": "吟味の結果として、認める、良しとする、適当と見なす。",
+      "label_en": "to approve / deem fit",
+      "def_en": "As the outcome of examination, to approve, to think good, to consider fitting.",
+      "label_es": "aprobar / considerar apto",
+      "def_es": "Como resultado del examen, aprobar, tener por bueno, juzgar conveniente.",
+      "label_sv": "att godkänna / finna lämplig",
+      "def_sv": "Att som resultat av prövningen godkänna, anse gott eller finna lämpligt.",
+      "layers": {
+        "nt": 5,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "Ⅱコリ8:22（何度も試して熱心だと認めた者）、Ⅰコリ16:3（認めた者）、Ⅰテサ2:4（神に認められて）、ローマ14:22（自分が良しとすること）、ローマ1:28（神を認めることをよしとしなかった）。教父にⅠクレメンス1.2、ヘルマス6.8.2 の並行。"
+    }
+  ],
+  "assignments": {
+    "1CO 3:13": 1,
+    "1CO 16:3": 3,
+    "1CO 11:28": 1,
+    "1JN 4:1": 1,
+    "1PE 1:7": 1,
+    "1TH 2:4#1": 3,
+    "1TH 2:4#2": 1,
+    "1TH 5:21": 1,
+    "1TI 3:10": 1,
+    "2CO 13:5": 1,
+    "2CO 8:8": 1,
+    "2CO 8:22": 3,
+    "EPH 5:10": 2,
+    "GAL 6:4": 1,
+    "LUK 14:19": 1,
+    "LUK 12:56#1": 2,
+    "LUK 12:56#2": 2,
+    "PHP 1:10": 2,
+    "ROM 12:2": 2,
+    "ROM 1:28": 3,
+    "ROM 14:22": 3,
+    "ROM 2:18": 2
+  },
+  "unresolved": [],
+  "layer_notes": "新約に無い用法は代表例の範囲では見当たらない（LXX は金属の精錬にたとえる用例が多い）。",
+  "excluded": [
+    {
+      "ref": "HEB 3:9",
+      "form": "δοκιμασίᾳ",
+      "reason": "名詞 δοκιμασία（『試験・吟味』）の与格で、δοκιμάζω の語形ではない。番号 G1381 は Thayer の 1381a の慣例に沿い、データ側は正しい（bible_data の修正はしない）。"
+    }
+  ],
+  "note": "確定頻度は新約22件。ヘブル3:9 のトークン δοκιμασίᾳ は名詞 δοκιμασία の与格のため、この語の用例から除外した（下書きでは新約23件・未解決1件）。BDAG 最終パス（2026-11-26）で照合済み：BDAG は2語義（吟味する／試して認める）で、当方の3分割のうち『見分ける』は BDAG の第2語義の内部の区別にあたる。2CO 8:22 は BDAG に沿って語義3に置いた。"
+}

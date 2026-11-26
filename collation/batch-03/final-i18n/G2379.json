@@ -1,0 +1,119 @@
+{
+  "strong": "G2379",
+  "lemma": "θυσιαστήριον",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "祭壇（神殿の全焼のいけにえの祭壇）",
+      "def_ja": "エルサレムの神殿・幕屋に属する、供え物・いけにえをささげる祭壇。『ささげ物をその上に置く』『その上で誓う』『祭壇に仕える』の言い方で出る。",
+      "label_en": "altar (of burnt offering in the temple)",
+      "def_en": "The altar belonging to the temple or tabernacle in Jerusalem on which offerings and sacrifices are presented. Appears in expressions such as “place the gift on it”, “swear by it”, “serve at the altar”.",
+      "label_es": "altar (del holocausto en el templo)",
+      "def_es": "El altar del templo de Jerusalén o del tabernáculo en el que se presentan ofrendas y sacrificios. Aparece en expresiones como «poner la ofrenda sobre él», «jurar por él», «servir al altar».",
+      "label_sv": "altare (brännofferaltaret i templet)",
+      "def_sv": "Det altare i templet i Jerusalem eller i tabernaklet där gåvor och offer frambärs. Förekommer i uttryck som ”lägga gåvan på det”, ”svära vid det”, ”tjäna vid altaret”.",
+      "layers": {
+        "nt": 12,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "マタイ5:23・24、23:18–20・35、ルカ11:51、Ⅰコリ9:13（同一節に2回）・10:18、ヘブル7:13、黙示録11:1。Abbott は黙示録11:1 も神殿の祭壇に置く。LXX・教父（Ⅰクレメンス32.2）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "香の祭壇（聖所の）",
+      "def_ja": "聖所の中にある香をたく祭壇。",
+      "label_en": "altar of incense (in the holy place)",
+      "def_en": "The altar in the holy place on which incense is burned.",
+      "label_es": "altar del incienso (en el lugar santo)",
+      "def_es": "El altar del lugar santo en el que se quema incienso.",
+      "label_sv": "rökelsealtaret (i det heliga)",
+      "def_sv": "Altaret i det heliga där rökelse tänds.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ルカ1:11（『香壇の右に立つ主の使い』、τοῦ θυμιάματος）の1例のみ。LXX の香壇の用例は代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "祭壇（一般の・複数の）",
+      "def_ja": "特定の神殿に限らず、いけにえをささげるために造られた祭壇。イサクをささげるアブラハムの祭壇、預言者の祭壇（複数）。",
+      "label_en": "altar (in general, plural)",
+      "def_en": "Not limited to a particular temple: an altar built for offering sacrifices. Abraham's altar for offering Isaac, the prophets' altars (plural).",
+      "label_es": "altar (en general, en plural)",
+      "def_es": "Sin limitarse a un templo concreto, altar construido para sacrificar: el de Abrahán para ofrecer a Isaac, los altares de los profetas (plural).",
+      "label_sv": "altare (allmänt, flera)",
+      "def_sv": "Inte bundet till ett visst tempel: ett altare byggt för att offra. Abrahams altare när Isak skulle offras, profeternas altaren (plural).",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヤコブ2:21（イサクをささげた祭壇）、ローマ11:3（『あなたの祭壇をこわし』、Ⅲ列王19:10 の引用）。LXX Ⅳ列王19:10 の引用の元に並行。教父の代表例では確認していない。"
+    },
+    {
+      "n": 4,
+      "label_ja": "（比喩としての）祭壇",
+      "def_ja": "『わたしたちには祭壇がある』（ヘブル13:10）。幕屋に仕える者が食べる権利のない祭壇。",
+      "label_en": "altar (as metaphor)",
+      "def_en": "“We have an altar” (Heb 13:10): an altar from which those who serve the tabernacle have no right to eat.",
+      "label_es": "altar (en metáfora)",
+      "def_es": "«Tenemos un altar» (Heb 13:10): altar del que no tienen derecho a comer los que sirven al tabernáculo.",
+      "label_sv": "altare (som metafor)",
+      "def_sv": "”Vi har ett altare” (Heb 13:10): ett altare som de som tjänar vid tabernaklet inte har rätt att äta av.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "ヘブル13:10 の1例のみ。教父にポリュカルポス4.3 の『寡婦は神の祭壇』の比喩的並行があるが、用法の同一性は断定しない。LXX の代表例では確認していない。"
+    },
+    {
+      "n": 5,
+      "label_ja": "天にある祭壇",
+      "def_ja": "黙示録の幻に現れる、天の神殿・御座の前の祭壇。香をささげ、殉教者の魂がその下にいて、祭壇が語る。",
+      "label_en": "altar in heaven",
+      "def_en": "The altar before the heavenly temple and throne that appears in the visions of Revelation: incense is offered on it, the souls of the martyrs are under it, and the altar speaks.",
+      "label_es": "altar celestial",
+      "def_es": "El altar ante el templo y el trono celestiales de las visiones del Apocalipsis: en él se ofrece incienso, bajo él están las almas de los mártires, y el altar habla.",
+      "label_sv": "altaret i himlen",
+      "def_sv": "Altaret inför det himmelska templet och tronen i Uppenbarelsebokens syner: rökelse frambärs, martyrernas själar finns under det, och altaret talar.",
+      "layers": {
+        "nt": 7,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "黙示録6:9・8:3（同一節に2回）・8:5・9:13・14:18・16:7。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 10:18": 1,
+    "1CO 9:13#1": 1,
+    "1CO 9:13#2": 1,
+    "HEB 13:10": 4,
+    "HEB 7:13": 1,
+    "JAS 2:21": 3,
+    "LUK 11:51": 1,
+    "LUK 1:11": 2,
+    "MAT 23:18": 1,
+    "MAT 23:19": 1,
+    "MAT 23:20": 1,
+    "MAT 23:35": 1,
+    "MAT 5:23": 1,
+    "MAT 5:24": 1,
+    "REV 11:1": 1,
+    "REV 16:7": 5,
+    "REV 14:18": 5,
+    "REV 8:3#1": 5,
+    "REV 8:3#2": 5,
+    "REV 8:5": 5,
+    "REV 6:9": 5,
+    "REV 9:13": 5,
+    "ROM 11:3": 3
+  },
+  "unresolved": [],
+  "layer_notes": "LXX の『高き所の祭壇』『偶像の祭壇』の用例は語義1・3に収まる。新約に無い用法は代表例の範囲では見当たらない。"
+}

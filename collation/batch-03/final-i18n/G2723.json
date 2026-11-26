@@ -1,0 +1,68 @@
+{
+  "strong": "G2723",
+  "lemma": "κατηγορέω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "訴える／告発する（法廷・権力者の前で）",
+      "def_ja": "裁判人・総督・権力者の前で、人を告発する、罪を申し立てる。属格（人・罪状）、対格（罪状）、περί、κατά などを伴う。",
+      "label_en": "to accuse / bring charges (before a court or ruler)",
+      "def_en": "To accuse a person before a judge, governor, or person in power, to lodge a charge. With the genitive (person, charge), accusative (charge), περί, κατά, and so on.",
+      "label_es": "acusar / denunciar (ante tribunal o autoridad)",
+      "def_es": "Acusar a una persona ante un juez, gobernador o poderoso, presentar cargos. Con genitivo (persona, cargo), acusativo (cargo), περί, κατά, etc.",
+      "label_sv": "att anklaga / åtala (inför domstol eller makthavare)",
+      "def_sv": "Att anklaga en människa inför domare, ståthållare eller makthavare och föra fram anklagelser. Med genitiv (person, brott), ackusativ (brott), περί, κατά m.m.",
+      "layers": {
+        "nt": 19,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒21–28章の総督・王の前での訴え（22:30、24:2・8・13・19、25:5・11・16、28:19）、ルカ23:2・10・14、マタイ12:10・27:12、マルコ3:2・15:3・15:4、ルカ6:7、ヨハネ8:6（姦淫の女の場面）。LXX ダニエル6:5、Ⅰマカバイ7:6・25 に並行。教父の代表例では確認していない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "責める／告発する（神の前・良心・霊的な法廷で）",
+      "def_ja": "人の法廷ではなく、神の前や良心・天において人を責める、または告発する。",
+      "label_en": "to blame / accuse (before God, conscience, a spiritual court)",
+      "def_en": "Not in a human court: to blame or accuse a person before God, in the conscience, or in heaven.",
+      "label_es": "reprochar / acusar (ante Dios, la conciencia, un tribunal espiritual)",
+      "def_es": "No en un tribunal humano: reprochar o acusar a alguien ante Dios, en la conciencia o en el cielo.",
+      "label_sv": "att förebrå / anklaga (inför Gud, samvetet, en andlig domstol)",
+      "def_sv": "Inte i en mänsklig domstol: att förebrå eller anklaga en människa inför Gud, i samvetet eller i himlen.",
+      "layers": {
+        "nt": 4,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヨハネ5:45（モーセが父の前でなんじらを訴える。同一節に2回）、ローマ2:15（良心が責める）、黙示録12:10（兄弟たちを訴える者）。法廷的な構文は語義1 と同型で、語義1との境界は連続的（訴えの場が人の法廷か否かで分けた）。教父にⅠクレメンス17.4（自分自身を責める）の並行があるが、用法の同一性は断定しない。"
+    }
+  ],
+  "assignments": {
+    "ACT 22:30": 1,
+    "ACT 24:2": 1,
+    "ACT 24:8": 1,
+    "ACT 24:13": 1,
+    "ACT 24:19": 1,
+    "ACT 25:5": 1,
+    "ACT 25:11": 1,
+    "ACT 25:16": 1,
+    "ACT 28:19": 1,
+    "JHN 5:45#1": 2,
+    "JHN 5:45#2": 2,
+    "JHN 8:6": 1,
+    "LUK 23:2": 1,
+    "LUK 23:10": 1,
+    "LUK 23:14": 1,
+    "LUK 6:7": 1,
+    "MAT 12:10": 1,
+    "MAT 27:12": 1,
+    "MRK 15:3": 1,
+    "MRK 15:4": 1,
+    "MRK 3:2": 1,
+    "REV 12:10": 2,
+    "ROM 2:15": 2
+  },
+  "unresolved": [],
+  "layer_notes": "LXX・教父の代表例が少ない（LXX 5件、教父1件）。新約に無い用法は代表例の範囲では見当たらない。"
+}

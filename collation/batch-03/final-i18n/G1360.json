@@ -1,0 +1,68 @@
+{
+  "strong": "G1360",
+  "lemma": "διότι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "なぜなら〜だから／〜ゆえに（理由）",
+      "def_ja": "従属節で、行為・状態の理由・原因を述べる接続詞（ὅτι より強い『その理由は』）。",
+      "label_en": "because / for the reason that",
+      "def_en": "A conjunction stating, in a subordinate clause, the reason or cause of an act or state (“the reason being”, stronger than ὅτι).",
+      "label_es": "porque / por cuanto",
+      "def_es": "Conjunción que en oración subordinada expresa la razón o causa de una acción o estado («la razón es que», más fuerte que ὅτι).",
+      "label_sv": "därför att / eftersom",
+      "def_sv": "En konjunktion som i bisats anger skälet eller orsaken till en handling eller ett tillstånd (”av det skälet att”, starkare än ὅτι).",
+      "layers": {
+        "nt": 13,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒22:18、ヘブル11:5・23、ヤコブ4:3、ルカ2:7・21:28、ピリ2:26、ローマ1:19・8:7、Ⅰコリ15:9、Ⅰテサ2:8・4:6、使徒18:10 の2つ目。LXX（箴言・列王記系）、教父（ヘルマス）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "というのは（根拠・裏づけの導入）",
+      "def_ja": "直前の内容の根拠・説明を添える導入で、γάρ に近い。聖句の引用や神のことば・預言者のことばの導入にも用いられる。",
+      "label_en": "for (introducing grounds or support)",
+      "def_en": "An introduction that adds the ground or explanation of what has just been said, close to γάρ. Also used to introduce quotations of Scripture and words of God or of prophets.",
+      "label_es": "pues (introduce fundamento o apoyo)",
+      "def_es": "Introducción que añade el fundamento o la explicación de lo anterior, cercana a γάρ. Se usa también para introducir citas bíblicas y palabras de Dios o de los profetas.",
+      "label_sv": "ty (inför grund och stöd)",
+      "def_sv": "En inledning som fogar till grunden eller förklaringen till det nyss sagda, nära γάρ. Används också för att inleda skriftcitat och ord av Gud eller profeterna.",
+      "layers": {
+        "nt": 10,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "Ⅰペテロ1:16・24・2:6（引用の導入）、使徒13:35（詩篇の引用）、使徒18:10（1つ目）、ルカ1:13、使徒20:26、Ⅰテサ2:18、ローマ1:21・3:20。語義1との境界は連続的（Abbott も『ルカ1:13、ローマ1:19、Ⅰテサ2:18 は『というのは』に近づく』と述べる）。LXX に διότι τάδε λέγει Κύριος の型。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 15:9": 1,
+    "1PE 1:16": 2,
+    "1PE 1:24": 2,
+    "1PE 2:6": 2,
+    "1TH 2:8": 1,
+    "1TH 2:18": 2,
+    "1TH 4:6": 1,
+    "ACT 18:10#1": 2,
+    "ACT 18:10#2": 1,
+    "ACT 13:35": 2,
+    "ACT 22:18": 1,
+    "ACT 20:26": 2,
+    "HEB 11:5": 1,
+    "HEB 11:23": 1,
+    "JAS 4:3": 1,
+    "LUK 1:13": 2,
+    "LUK 21:28": 1,
+    "LUK 2:7": 1,
+    "PHP 2:26": 1,
+    "ROM 1:19": 1,
+    "ROM 1:21": 2,
+    "ROM 3:20": 2,
+    "ROM 8:7": 1
+  },
+  "unresolved": [],
+  "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

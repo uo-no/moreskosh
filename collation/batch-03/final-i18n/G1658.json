@@ -1,0 +1,68 @@
+{
+  "strong": "G1658",
+  "lemma": "ἐλεύθερος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "自由人（奴隷でない者）",
+      "def_ja": "身分として奴隷でない者。『奴隷』と対にされる（社会的な区分）。女性形は『自由の女（奴隷女に対して）』。",
+      "label_en": "free person (not a slave)",
+      "def_en": "One who in status is not a slave. Paired with “slave” (a social distinction). The feminine is the “free woman” (as opposed to the slave woman).",
+      "label_es": "libre (no esclavo)",
+      "def_es": "El que por condición no es esclavo. Se contrapone a «esclavo» (distinción social). En femenino, la «mujer libre» (frente a la esclava).",
+      "label_sv": "fri människa (inte slav)",
+      "def_sv": "En som till sin ställning inte är slav. Ställs mot ”slav” (en social åtskillnad). I femininum ”den fria kvinnan” (mot slavinnan).",
+      "layers": {
+        "nt": 14,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰコリ7:21・22・12:13、ガラテヤ3:28、エペソ6:8、コロサイ3:11（『奴隷も自由人も』）、黙示録6:15・13:16・19:18、ガラテヤ4:22・23・30・31（自由の女）、ヨハネ8:33（『だれの奴隷にもなったことがない』）。LXX 出エジプト21:2、教父（イグナティオス『ローマ』4.3 等）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "自由な（束縛・義務・支配からの）",
+      "def_ja": "奴隷身分とは別に、義務・拘束・律法・罪・支配などから解かれていること。ἐκ／ἀπό、不定詞、与格を伴うことがある。",
+      "label_en": "free (from bonds, obligation, domination)",
+      "def_en": "Apart from the status of slavery, being released from obligation, restraint, the law, sin, domination, and so on. May take ἐκ / ἀπό, an infinitive, or the dative.",
+      "label_es": "libre (de ataduras, obligaciones, dominio)",
+      "def_es": "Al margen de la condición de esclavo, estar desligado de obligaciones, restricciones, la ley, el pecado, el dominio, etc. Puede llevar ἐκ / ἀπό, infinitivo o dativo.",
+      "label_sv": "fri (från band, plikt, herravälde)",
+      "def_sv": "Skilt från slavståndet: att vara löst från förpliktelse, tvång, lagen, synden, herravälde m.m. Kan förbindas med ἐκ / ἀπό, infinitiv eller dativ.",
+      "layers": {
+        "nt": 9,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "マタイ17:26（『子らは自由』）、Ⅰコリ9:1・9:19（すべての人から自由）、7:39・ローマ7:3（夫の拘束から自由）、ガラテヤ4:26（上なるエルサレムは自由）、Ⅰペテロ2:16、ヨハネ8:36（子が自由にするなら）、ローマ6:20（義に対して自由）。語義1との境界は連続的。LXX Ⅳマカバイ14.2、教父（ヘルマス22.2.2）に並行。"
+    }
+  ],
+  "assignments": {
+    "1CO 12:13": 1,
+    "1CO 9:1": 2,
+    "1CO 9:19": 2,
+    "1CO 7:21": 1,
+    "1CO 7:22": 1,
+    "1CO 7:39": 2,
+    "1PE 2:16": 2,
+    "COL 3:11": 1,
+    "EPH 6:8": 1,
+    "GAL 4:22": 1,
+    "GAL 4:23": 1,
+    "GAL 4:26": 2,
+    "GAL 4:30": 1,
+    "GAL 4:31": 1,
+    "GAL 3:28": 1,
+    "JHN 8:33": 1,
+    "JHN 8:36": 2,
+    "MAT 17:26": 2,
+    "REV 13:16": 1,
+    "REV 19:18": 1,
+    "REV 6:15": 1,
+    "ROM 6:20": 2,
+    "ROM 7:3": 2
+  },
+  "unresolved": [],
+  "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

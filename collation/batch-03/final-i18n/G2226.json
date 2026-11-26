@@ -1,0 +1,68 @@
+{
+  "strong": "G2226",
+  "lemma": "ζῷον",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "動物／生き物",
+      "def_ja": "生きているもの、特に動物。『理性のない動物（ἄλογα ζῷα）』『いけにえの動物』など。",
+      "label_en": "animal / living creature",
+      "def_en": "A living thing, especially an animal: “irrational animals (ἄλογα ζῷα)”, “sacrificial animals”, and the like.",
+      "label_es": "animal / ser vivo",
+      "def_es": "Ser que vive, en especial un animal: «animales irracionales (ἄλογα ζῷα)», «animales para el sacrificio», etc.",
+      "label_sv": "djur / levande varelse",
+      "def_sv": "Något som lever, särskilt ett djur: ”oförnuftiga djur (ἄλογα ζῷα)”, ”offerdjur” m.m.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅱペテロ2:12・ユダ10（理性のない動物）、ヘブル13:11（罪のためのいけにえの動物）。LXX 創世記1:21、教父（Ⅰクレメンス20.4・33.3）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "（御座のまわりの）生き物",
+      "def_ja": "黙示録に現れる、神の御座のまわりにいる『四つの生き物』。個々の生き物の姿は4:7（獅子・雄牛・人の顔・飛ぶ鷲）に述べられ、礼拝に加わり、封印を開く場面で語る。",
+      "label_en": "living creature (around the throne)",
+      "def_en": "The “four living creatures” around God's throne that appear in Revelation. The form of each is described in 4:7 (lion, ox, a human face, a flying eagle); they join in worship and speak in the scenes where the seals are opened.",
+      "label_es": "ser viviente (alrededor del trono)",
+      "def_es": "Los «cuatro seres vivientes» que en el Apocalipsis están alrededor del trono de Dios. La figura de cada uno se describe en 4:7 (león, becerro, rostro humano, águila volando); se unen a la adoración y hablan en las escenas de la apertura de los sellos.",
+      "label_sv": "väsen (kring tronen)",
+      "def_sv": "De ”fyra väsendena” kring Guds tron i Uppenbarelseboken. Vars och ens gestalt beskrivs i 4:7 (lejon, tjur, människoansikte, flygande örn); de deltar i tillbedjan och talar när sigillen bryts.",
+      "layers": {
+        "nt": 20,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "黙示録4:6–9・5:6–14・6:1–7・7:11・14:3・15:7・19:4。4:7 は同一節に4回（4つの生き物それぞれ）。LXX エゼキエル10:15 に並行（エゼキエル書の『生き物』）。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "2PE 2:12": 1,
+    "HEB 13:11": 1,
+    "JUD 1:10": 1,
+    "REV 15:7": 2,
+    "REV 14:3": 2,
+    "REV 19:4": 2,
+    "REV 4:6": 2,
+    "REV 4:7#1": 2,
+    "REV 4:7#2": 2,
+    "REV 4:7#3": 2,
+    "REV 4:7#4": 2,
+    "REV 4:8": 2,
+    "REV 4:9": 2,
+    "REV 5:6": 2,
+    "REV 5:8": 2,
+    "REV 5:11": 2,
+    "REV 5:14": 2,
+    "REV 6:1": 2,
+    "REV 6:3": 2,
+    "REV 6:5": 2,
+    "REV 6:6": 2,
+    "REV 6:7": 2,
+    "REV 7:11": 2
+  },
+  "unresolved": [],
+  "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}
