@@ -1,0 +1,251 @@
+{
+ "strong": "G3747",
+ "lemma": "ὀστέον",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "HEB 11:22",
+   "form": "ὀστέων",
+   "morph": "N-GPN",
+   "gloss_en": "bones",
+   "gloss_ja": "骨",
+   "verse": "πίστει Ἰωσὴφ τελευτῶν περὶ τῆς ἐξόδου τῶν υἱῶν Ἰσραὴλ ἐμνημόνευσεν, καὶ περὶ τῶν ὀστέων αὐτοῦ ἐνετείλατο."
+  },
+  {
+   "ref": "JHN 19:36",
+   "form": "Ὀστοῦν",
+   "morph": "N-NSN",
+   "gloss_en": "bones",
+   "gloss_ja": "骨",
+   "verse": "ἐγένετο γὰρ ταῦτα ἵνα ἡ γραφὴ πληρωθῇ· Ὀστοῦν οὐ συντριβήσεται αὐτοῦ."
+  },
+  {
+   "ref": "LUK 24:39",
+   "form": "ὀστέα",
+   "morph": "N-APN",
+   "gloss_en": "bones",
+   "gloss_ja": "骨",
+   "verse": "ἴδετε τὰς χεῖράς μου καὶ τοὺς πόδας μου ὅτι ἐγώ εἰμι αὐτός· ψηλαφήσατέ με καὶ ἴδετε, ὅτι πνεῦμα σάρκα καὶ ὀστέα οὐκ ἔχει καθὼς ἐμὲ θεωρεῖτε ἔχοντα."
+  },
+  {
+   "ref": "MAT 23:27",
+   "form": "ὀστέων",
+   "morph": "N-GPN",
+   "gloss_en": "bones",
+   "gloss_ja": "骨",
+   "verse": "Οὐαὶ ὑμῖν, γραμματεῖς καὶ Φαρισαῖοι ὑποκριταί, ὅτι παρομοιάζετε τάφοις κεκονιαμένοις, οἵτινες ἔξωθεν μὲν φαίνονται ὡραῖοι ἔσωθεν δὲ γέμουσιν ὀστέων νεκρῶν καὶ πάσης ἀκαθαρσίας·"
+  }
+ ],
+ "lxx": {
+  "total": 127,
+  "works": {
+   "Genesis": 4,
+   "Exodus": 4,
+   "Numeri": 3,
+   "Josue": 1,
+   "Judices": 1,
+   "Regnorum i": 1,
+   "Regnorum ii": 11,
+   "Regnorum iii": 4,
+   "Regnorum iv": 7,
+   "Paralipomenon i sive Chronicon i": 2,
+   "Paralipomenon ii sive Chronicon ii": 1,
+   "Machabaeorum i": 1,
+   "Machabaeorum iv": 3,
+   "Psalmi": 16,
+   "Odae": 2,
+   "Proverbia": 7,
+   "Ecclesiastes": 1,
+   "Job": 11,
+   "Ecclesiasticus sive Siracides": 5,
+   "Psalmi Salomonis": 4,
+   "Amos": 2,
+   "Michaeas": 2,
+   "Habacuc": 1,
+   "Isaias": 4,
+   "Jeremias": 8,
+   "Baruch": 2,
+   "Threni seu Lamentationes": 3,
+   "Ezechiel": 14,
+   "Daniel": 2
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "34.10",
+    "form": "ὀστᾶ",
+    "postag": "n-p---nn-",
+    "sentence": "πάντα τὰ ὀστᾶ μου ἐροῦσι ·"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "37.3",
+    "form": "ὀστέα",
+    "postag": "n-p---nn-",
+    "sentence": "υἱὲ ἀνθρώπου, εἰ ζήσεται τὰ ὀστέα ταῦτα;"
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "19.13",
+    "form": "ὀστοῦν",
+    "postag": "n-s---nn-",
+    "sentence": "οὐχὶ ὀστοῦν μου καὶ σάρξ μου σύ;"
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "10.11",
+    "form": "ὀστέοις",
+    "postag": "n-p---nd-",
+    "sentence": "δέρμα δὲ καὶ κρέας με ἐνέδυσας, ὀστέοις δὲ καὶ νεύροις με ἐνεῖρας."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "27.17",
+    "form": "ὀστᾶ",
+    "postag": "n-p---na-",
+    "sentence": "ὁ πρῶτος ἔφαγεν αὐτὸν βασιλεὺς Ἀσσοὺρ καὶ οὗτος ὕστερον τὰ ὀστᾶ αὐτοῦ βασιλεὺς Βαβυλῶνος."
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "23.18",
+    "form": "ὀστῶν",
+    "postag": "n-p---ng-",
+    "sentence": "καὶ ἐρρύσθησαν τὰ ὀστᾶ αὐτοῦ μετὰ τῶν ὀστῶν τοῦ προφήτου τοῦ ἥκοντος ἐκ Σαμαρείας."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "14.30",
+    "form": "ὀστέων",
+    "postag": "n-p---ng-",
+    "sentence": "πραΰθυμος ἀνὴρ καρδίας ἰατρός, σὴς δὲ ὀστέων καρδία αἰσθητική."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "49.10",
+    "form": "ὀστᾶ",
+    "postag": "n-p---nn-",
+    "sentence": "καὶ τῶν δώδεκα προφητῶν τὰ ὀστᾶ ἀναθάλοι ἐκ τοῦ τόπου αὐτῶν ·"
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "29.14",
+    "form": "ὀστῶν",
+    "postag": "n-p---ng-",
+    "sentence": "ἐκ τῶν ὀστῶν μου καὶ ἐκ τῆς σαρκός μου εἶ σύ."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "12.46",
+    "form": "ὀστοῦν",
+    "postag": "n-s---na-",
+    "sentence": "καὶ ὀστοῦν οὐ συντρίψετε ἀπ’ αὐτοῦ."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "13.31",
+    "form": "ὀστᾶ",
+    "postag": "n-p---na-",
+    "sentence": "παρὰ τὰ ὀστᾶ αὐτοῦ θέτε με, ἵνα σωθῶσι τὰ ὀστᾶ μου μετὰ τῶν ὀστῶν αὐτοῦ ·"
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "13.3",
+    "form": "ὀστᾶ",
+    "postag": "n-p---na-",
+    "sentence": "ἐν τοῖς ὀδοῦσιν αὐτῶν ἐτίλλοσαν σάρκας αὐτῶν καὶ ἐν ταῖς μύλαις ἔθλων ὀστᾶ αὐτῶν ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 6,
+  "works": {
+   "1 Clement": 4,
+   "Ignatius, Letters": 1,
+   "Martyrdom of Polycarp": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "6.3",
+    "form": "ὀστοῦν",
+    "postag": "n-s---nn-",
+    "sentence": "τοῦτο νῦν ὀστοῦν ἐκ τῶν ὀστέων μου καὶ σὰρξ ἐκ τῆς σαρκός μου."
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "4.5.3",
+    "form": "ὀστέων",
+    "postag": "n-p---ng-",
+    "sentence": "πῦρ καὶ σταυρὸς θηρίων τε συστάσεις, ἀνατομαί, διαιρέσεις, σκορπισμοὶ ὀστέων, συγκοπὴ μελῶν, ἀλεσμοὶ ὅλου τοῦ σώματος, κακαὶ κολάσεις τοῦ διαβόλου ἐπ’ ἐμὲ ἐρχέσθωσαν, μόνον ἵνα Ἰησοῦ Χριστοῦ ἐπιτύχω."
+   },
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "18.2",
+    "form": "ὀστᾶ",
+    "postag": "n-p---na-",
+    "sentence": "οὕτως τε ἡμεῖς ὕστερον ἀνελόμενοι τὰ τιμιώτερα λίθων πολυτελῶν καὶ δοκιμώτερα ὑπὲρ χρυσίον ὀστᾶ αὐτοῦ ἀπεθέμεθα, ὅπου καὶ ἀκόλουθον ἦν."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "6.3",
+    "form": "ὀστέων",
+    "postag": "n-p---ng-",
+    "sentence": "τοῦτο νῦν ὀστοῦν ἐκ τῶν ὀστέων μου καὶ σὰρξ ἐκ τῆς σαρκός μου."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "18.8",
+    "form": "ὀστᾶ",
+    "postag": "n-p---nn-",
+    "sentence": "ἀγαλλιάσονται ὀστᾶ τεταπεινωμένα."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "25.3",
+    "form": "ὀστᾶ",
+    "postag": "n-p---nn-",
+    "sentence": "εἶτα γενναῖος γενόμενος αἴρει τὸν σηκὸν ἐκεῖνον, ὅπου τὰ ὀστᾶ τοῦ προγεγονότος ἐστίν, καὶ ταῦτα βαστάζων διανύει ἀπὸ τῆς Ἀραβικῆς χώρας ἕως τῆς Αἰγύπτου εἰς τὴν λεγομένην Ἡλιούπολιν, καὶ ἡμέρας, βλεπόντων πάντων, ἐπιπτὰς ἐπὶ τὸν τοῦ ἡλίου βωμὸν τίθησιν αὐτὰ καὶ οὕτως εἰς το-τοὐπίσω ἀφορμᾷ."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "4   ὀστέον (Att. contr. ὀστοῦν, -οῦ, and so  Jo 19:36), -ου, τό,    [in LXX chiefly for עֶצֶם;]    a bone: contr., ὀστοῦν (v. supr.), Jo 19:36(LXX); uncontr. (as in Hom., Hdt.), ὀστέα, Lk 24:39; ὀστέων, Mt 23:27, He 11:22.†"
+}

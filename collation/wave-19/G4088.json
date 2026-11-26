@@ -1,0 +1,245 @@
+{
+ "strong": "G4088",
+ "lemma": "πικρία",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 8:23",
+   "form": "πικρίας",
+   "morph": "N-GSF",
+   "gloss_en": "bitterness",
+   "gloss_ja": "苦さ",
+   "verse": "εἰς γὰρ χολὴν πικρίας καὶ σύνδεσμον ἀδικίας ὁρῶ σε ὄντα."
+  },
+  {
+   "ref": "EPH 4:31",
+   "form": "πικρία",
+   "morph": "N-NSF",
+   "gloss_en": "bitterness",
+   "gloss_ja": "苦さ",
+   "verse": "πᾶσα πικρία καὶ θυμὸς καὶ ὀργὴ καὶ κραυγὴ καὶ βλασφημία ἀρθήτω ἀφ’ ὑμῶν σὺν πάσῃ κακίᾳ."
+  },
+  {
+   "ref": "HEB 12:15",
+   "form": "πικρίας",
+   "morph": "N-GSF",
+   "gloss_en": "bitterness",
+   "gloss_ja": "苦さ",
+   "verse": "ἐπισκοποῦντες μή τις ὑστερῶν ἀπὸ τῆς χάριτος τοῦ θεοῦ, μή τις ῥίζα πικρίας ἄνω φύουσα ἐνοχλῇ καὶ δι’ αὐτῆς μιανθῶσιν πολλοί,"
+  },
+  {
+   "ref": "ROM 3:14",
+   "form": "πικρίας",
+   "morph": "N-GSF",
+   "gloss_en": "bitterness",
+   "gloss_ja": "苦さ",
+   "verse": "ὧν τὸ στόμα ἀρᾶς καὶ πικρίας γέμει·"
+  }
+ ],
+ "lxx": {
+  "total": 29,
+  "works": {
+   "Exodus": 1,
+   "Numeri": 2,
+   "Deuteronomium": 2,
+   "Machabaeorum iii": 1,
+   "Psalmi": 2,
+   "Odae": 1,
+   "Job": 5,
+   "Sapientia Salomonis": 1,
+   "Ecclesiasticus sive Siracides": 4,
+   "Amos": 1,
+   "Isaias": 4,
+   "Jeremias": 2,
+   "Threni seu Lamentationes": 2,
+   "Ezechiel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "9.18",
+    "form": "πικρίας",
+    "postag": "n-s---fg-",
+    "sentence": "οὐκ ἐᾷ γάρ με ἀναπνεῦσαι, ἐνέπλησε δέ με πικρίας."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "31.29",
+    "form": "πικρία",
+    "postag": "n-s---fn-",
+    "sentence": "πικρία ψυχῆς οἶνος πινόμενος πολὺς ἐν ἐρεθισμῷ καὶ ἀντιπτώματι."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "28.21",
+    "form": "πικρίας",
+    "postag": "n-s---fg-",
+    "sentence": "μετὰ θυμοῦ ποιήσει τὰ ἔργα αὐτοῦ, πικρίας ἔργον ·"
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "33.9",
+    "form": "Πικριῶν",
+    "postag": "n-p----g-",
+    "sentence": "καὶ ἀπῇραν ἐκ Πικριῶν καὶ ἦλθον εἰς Αἰλίμ ·"
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "29.17",
+    "form": "πικρίᾳ",
+    "postag": "n-s---fd-",
+    "sentence": "μὴ τίς ἐστιν ἐν ὑμῖν ρίζα ἄνω φύουσα ἐν χολῇ καὶ πικρίᾳ;"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "9.28",
+    "form": "πικρίας",
+    "postag": "n-s---fg-",
+    "sentence": "οὗ ἀρᾶς τὸ στόμα αὐτοῦ γέμει καὶ πικρίας καὶ δόλου, ὑπὸ τὴν γλῶσσαν αὐτοῦ κόπος καὶ πόνος."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "2.21",
+    "form": "πικρίαν",
+    "postag": "n-s---fa-",
+    "sentence": "πῶς ἐστράφης εἰς πικρίαν, ἡ ἄμπελος ἡ ἀλλοτρία;"
+   },
+   {
+    "work_code": "LAM",
+    "work_ja": "哀歌",
+    "work_src": "Threni seu Lamentationes",
+    "ref": "3.15",
+    "form": "πικρίας",
+    "postag": "n-s---fg-",
+    "sentence": "ἐχόρτασέ με πικρίας, ἐμέθυσέ με χολῆς."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "15.23",
+    "form": "Πικρία",
+    "postag": "n-s---ma-",
+    "sentence": "διὰ τοῦτο ἐπωνόμασε τὸ ὄνομα τοῦ τόπου ἐκείνου Πικρία."
+   },
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "4.4",
+    "form": "πικρίας",
+    "postag": "n-s---fg-",
+    "sentence": "οὕτω γὰρ μετὰ πικρίας ἀνοίκτου ψυχῆς ὑπὸ τῶν κατὰ πόλιν στρατηγῶν ὁμοθυμαδὸν ἐξαπεστέλλοντο, ὥστε ἐπὶ ταῖς ἐξάλλοις τιμωρίαις καί τινας τῶν ἐχθρῶν λαμβάνοντας πρὸ τῶν ὀφθαλμῶν τὸν κοινὸν ἔλεον καὶ λογιζομένους τὴν ἄδηλον τοῦ βίου καταστροφήν, δακρύειν αὐτῶν τὴν τρισάθλιον ἐξαποστολήν."
+   },
+   {
+    "work_code": "ODE",
+    "work_ja": "頌歌（オード）",
+    "work_src": "Odae",
+    "ref": "2.32",
+    "form": "πικρίας",
+    "postag": "n-s---fg-",
+    "sentence": "ἡ σταφυλὴ αὐτῶν σταφυλὴ χολῆς, βότρυς πικρίας αὐτοῖς ·"
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "8.16",
+    "form": "πικρίαν",
+    "postag": "n-s---fa-",
+    "sentence": "οὐ γὰρ ἔχει πικρίαν ἡ συναναστροφή αὐτῆς, οὐ-δὲ ὀδύνην ἡ συμβίωσις αὐτῆς, ἀλλὰ εὐφροσύνην καὶ χαράν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 7,
+  "works": {
+   "Barnabas": 1,
+   "Didache": 1,
+   "Hermas, Pastor": 5
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "11.2.5",
+    "form": "πικρία",
+    "postag": "n-s---fn-",
+    "sentence": "ὅταν ὀξυχολία σοί τις προσπέσῃ ἢ πικρία, γίνωσκε, ὅτι αὐτός ἐστιν ἐν σοί ·"
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "19.7",
+    "form": "πικρίᾳ",
+    "postag": "n-s---fd-",
+    "sentence": "οὐ μὴ ἐπιτάξῃς δούλῳ σου ἡ παιδίσκῃ ἐν πικρίᾳ, τοῖς ἐπὶ τὸν αὐτὸν θεὸν ἐλπίζουσιν, μή ποτε οὐ μὴ φοβηθήσονται τὸν ἐπ’ ἀμφοτέροις θεόν ·"
+   },
+   {
+    "work_code": "DID",
+    "work_ja": "ディダケー",
+    "work_src": "Didache",
+    "ref": "4.10",
+    "form": "πικρίᾳ",
+    "postag": "n-s---fd-",
+    "sentence": "οὐκ ἐπιτάξεις δούλῳ σου ἢ παιδίσκῃ, τοῖς ἐπὶ τὸν αὐτὸν θεὸν ἐλπίζουσιν, ἐν πικρίᾳ σου, μήποτε οὐ μὴ φοβηθήσονται τὸν ἐπ’ ἀμφοτέροις θεόν ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "10.2.4",
+    "form": "πικρίας",
+    "postag": "n-s---fg-",
+    "sentence": "εἶτα ἐκ τῆς ἀφροσύνης γίνεται πικρία, ἐκ δὲ τῆς πικρίας θυμός, ἐκ δὲ τοῦ θυμοῦ ὀργή, ἐκ δὲ τῆς ὀργῆς μῆνις ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "10.2.4",
+    "form": "πικρία",
+    "postag": "n-s---fn-",
+    "sentence": "εἶτα ἐκ τῆς ἀφροσύνης γίνεται πικρία, ἐκ δὲ τῆς πικρίας θυμός, ἐκ δὲ τοῦ θυμοῦ ὀργή, ἐκ δὲ τῆς ὀργῆς μῆνις ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "10.2.8",
+    "form": "πικρίᾳ",
+    "postag": "n-s---fd-",
+    "sentence": "ἔνδυσαι δὲ τὴν μακροθυμίαν καὶ ἀντίστα τῇ ὀξυχολίᾳ καὶ τῇ πικρίᾳ, καὶ ἔσῃ εὑρισκόμενος μετὰ τῆς σεμνότητος τῆς ἠγαπημένης ὑπὸ τοῦ κυρίου."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "10.2.2",
+    "form": "πικρίᾳ",
+    "postag": "n-s---fd-",
+    "sentence": "ὅταν δὲ ἴδῃ τοὺς τοιούτους ἀνθρώπους εὐσταθοῦντας, παρεμβάλλει ἑαυτὴν εἰς τὴν καρδίαν τοῦ ἀνθρώπου ἐκείνου, καὶ ἐκ τοῦ μηδενὸς ὁ ἀνὴρ ἢ ἡ γυνὴ ἐν πικρίᾳ γίνεται ἕνεκεν βιωτικῶν πραγμάτων ἢ περὶ ἐδεσμάτων ἢ μικρολογίας τινὸς ἢ περὶ φίλου τινὸς ἢ περὶ δόσεως ἢ λήψεως ἢ περὶ τοιούτων μωρῶν πραγμάτων ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "4   πικρία, -ας, ἡ    (< πικρός),   [in LXX chiefly for מַר, מָרָה and cognate forms;]      bitterness;     of taste (Arist., Je 15:17, al.);     metaph., of temper, character, etc.: Ro 3:14(LXX), Eph 4:31; ῥίζα πικρίας, He 12:15; χολὴ π., a malignant disposition, Ac 8:23.†"
+}

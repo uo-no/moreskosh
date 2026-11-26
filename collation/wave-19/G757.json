@@ -1,0 +1,284 @@
+{
+ "strong": "G757",
+ "lemma": "ἄρχω",
+ "nt_freq": 5,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JHN 4:30",
+   "form": "ἤρχοντο",
+   "morph": "V-INI-3P",
+   "gloss_en": "coming",
+   "gloss_ja": "始める",
+   "verse": "ἐξῆλθον ἐκ τῆς πόλεως καὶ ἤρχοντο πρὸς αὐτόν."
+  },
+  {
+   "ref": "JHN 8:2",
+   "form": "ἤρχετο",
+   "morph": "V-INI-3S",
+   "gloss_en": "came",
+   "gloss_ja": "始める",
+   "verse": "Ὄρθρου δὲ πάλιν παρεγένετο εἰς τὸ ἱερόν, καὶ πᾶς ὁ λαὸς ἤρχετο καὶ καθίσας ἐδίδασκεν αὐτούς."
+  },
+  {
+   "ref": "JHN 6:17",
+   "form": "ἤρχοντο",
+   "morph": "V-INI-3P",
+   "gloss_en": "started",
+   "gloss_ja": "始める",
+   "verse": "καὶ ἐμβάντες εἰς πλοῖον ἤρχοντο πέραν τῆς θαλάσσης εἰς Καφαρναούμ. καὶ σκοτία ἤδη ἐγεγόνει καὶ οὔπω ἐληλύθει πρὸς αὐτοὺς ὁ Ἰησοῦς,"
+  },
+  {
+   "ref": "MRK 10:42",
+   "form": "ἄρχειν",
+   "morph": "V-PAN",
+   "gloss_en": "rulers",
+   "gloss_ja": "始める",
+   "verse": "καὶ προσκαλεσάμενος αὐτοὺς ὁ Ἰησοῦς λέγει αὐτοῖς· Οἴδατε ὅτι οἱ δοκοῦντες ἄρχειν τῶν ἐθνῶν κατακυριεύουσιν αὐτῶν καὶ οἱ μεγάλοι αὐτῶν κατεξουσιάζουσιν αὐτῶν."
+  },
+  {
+   "ref": "ROM 15:12",
+   "form": "ἄρχειν",
+   "morph": "V-PAN",
+   "gloss_en": "rule",
+   "gloss_ja": "始める",
+   "verse": "καὶ πάλιν Ἠσαΐας λέγει· Ἔσται ἡ ῥίζα τοῦ Ἰεσσαί, καὶ ὁ ἀνιστάμενος ἄρχειν ἐθνῶν· ἐπ’ αὐτῷ ἔθνη ἐλπιοῦσιν."
+  }
+ ],
+ "lxx": {
+  "total": 182,
+  "works": {
+   "Genesis": 17,
+   "Exodus": 1,
+   "Numeri": 1,
+   "Deuteronomium": 9,
+   "Josue": 3,
+   "Judices": 17,
+   "Regnorum i": 10,
+   "Regnorum ii": 3,
+   "Regnorum iii": 4,
+   "Regnorum iv": 2,
+   "Paralipomenon i sive Chronicon i": 6,
+   "Paralipomenon ii sive Chronicon ii": 16,
+   "Esdras i": 8,
+   "Esdras ii": 4,
+   "Esther": 3,
+   "Judith": 1,
+   "Tobias": 12,
+   "Machabaeorum i": 11,
+   "Machabaeorum ii": 3,
+   "Machabaeorum iv": 3,
+   "Psalmi": 2,
+   "Proverbia": 2,
+   "Job": 5,
+   "Ecclesiasticus sive Siracides": 2,
+   "Psalmi Salomonis": 1,
+   "Osee": 6,
+   "Michaeas": 2,
+   "Jonas": 1,
+   "Isaias": 11,
+   "Jeremias": 1,
+   "Threni seu Lamentationes": 1,
+   "Ezechiel": 6,
+   "Daniel": 8
+  },
+  "representatives": [
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "10.8",
+    "form": "ἤρξατο",
+    "postag": "v3saim---",
+    "sentence": "οὗτος ἤρξατο εἶναι γίγας ἐπὶ τῆς γῆς ·"
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "9.22",
+    "form": "ἦρξεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἦρξεν Ἀβιμέλεχ ἐπὶ Ἰσραὴλ τρία ἔτη."
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "10.1",
+    "form": "ἤρχετο",
+    "postag": "v3siim---",
+    "sentence": "καὶ ἦλθε Ῥοβοὰμ εἰς Συχέμ, ὅτι εἰς Συχὲμ ἤρχετο πᾶς Ἰσραὴλ βασιλεῦσαι αὐτόν."
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "7.14",
+    "form": "ἤρξαντο",
+    "postag": "v3paim---",
+    "sentence": "ἀπ’ ἐκείνου ἤρξαντο φαγεῖν καὶ πιεῖν."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "12.53",
+    "form": "ἄρχοντα",
+    "postag": "v-sppama-",
+    "sentence": "οὐκ ἔχουσιν ἄρχοντα καὶ βοηθοῦντα ·"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "47.7",
+    "form": "ἄρχουσα",
+    "postag": "v-sppafn-",
+    "sentence": "εἰς τὸν αἰῶνα ἔσομαι ἄρχουσα ·"
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "22.15",
+    "form": "ἦργμαι",
+    "postag": "v1srim---",
+    "sentence": "ἦ σήμερον ἦργμαι ἐρωτᾶν αὐτῷ διὰ τοῦ Θεοῦ;"
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "16.9",
+    "form": "ἀρξαμένου",
+    "postag": "v-sapmmg-",
+    "sentence": "ἀρξαμένου σου δρέπανον ἐπ’ ἀμητόν, ἄρξῃ ἐξαριθμῆσαι ἑπτὰ ἑβδομάδας."
+   },
+   {
+    "work_code": "1ES",
+    "work_ja": "エズラ記（ギリシャ語）",
+    "work_src": "Esdras i",
+    "ref": "4.33",
+    "form": "ἤρξατο",
+    "postag": "v3saim---",
+    "sentence": "καὶ ἤρξατο λαλεῖν περὶ τῆς ἀληθείας."
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "10.20",
+    "form": "ἄρχοντος",
+    "postag": "v-sppamg-",
+    "sentence": "καὶ νῦν ἐπιστρέψω τοῦ πολεμῆσαι μετὰ τοῦ ἄρχοντος Περσῶν ·"
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "17.27",
+    "form": "ἦρξαι",
+    "postag": "v2srim---",
+    "sentence": "καὶ νῦν ἦρξαι τοῦ εὐλογῆσαι τὸν οἶκον τοῦ παιδός σου τοῦ εἶναι εἰς τὸν αἰῶνα ἐναντίον σου ·"
+   },
+   {
+    "work_code": "HOS",
+    "work_ja": "ホセア書",
+    "work_src": "Osee",
+    "ref": "8.4",
+    "form": "ἦρξαν",
+    "postag": "v3paia---",
+    "sentence": "ἦρξαν καὶ οὐκ ἐγνώρισάν μοι ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 26,
+  "works": {
+   "Barnabas": 4,
+   "1 Clement": 2,
+   "To Diognetus": 1,
+   "Hermas, Pastor": 15,
+   "Ignatius, Letters": 3,
+   "Martyrdom of Polycarp": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "4.1.4",
+    "form": "ἠρξάμην",
+    "postag": "v1saim---",
+    "sentence": "ἐν ἐμαυτῷ ἠρξάμην διαλογίζεσθαι καὶ λέγειν ·"
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "6.18",
+    "form": "ἀρχέτωσαν",
+    "postag": "v3ppma---",
+    "sentence": "καὶ αὐξανέσθωσαν καὶ πληθυνέσθωσαν καὶ ἀρχέτωσαν τῶν ἰχθύων."
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "4.5.3",
+    "form": "ἄρχομαι",
+    "postag": "v1spim---",
+    "sentence": "τί μοι συμφέρει, ἐγὼ γινώσκω, νῦν ἄρχομαι μαθητὴς εἶναι."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "4.5",
+    "form": "ἄρξεις",
+    "postag": "v2sfia---",
+    "sentence": "πρὸς σὲ ή ἀποστροφὴ αὐτοῦ, καὶ σὺ ἄρξεις αὐτοῦ."
+   },
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "10",
+    "form": "ἄρξῃ",
+    "postag": "v2sfim---",
+    "sentence": "τότε θεάσῃ τυγχάνων ἐπὶ τῆς γῆς, ὅτι Θεὸς ἐν οὐρανοῖς πολιτεύεται, τότε μυστήρια Θεοῦ λαλεῖν ἄρξῃ, τότε τοὺς κολαζομένους ἐπὶ τῷ μὴ θέλειν ἀρνήσασθαι θεὸν καὶ ἀγαπήσεις καὶ θαυμάσεις ·"
+   },
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "17.2",
+    "form": "ἄρξωνται",
+    "postag": "v3pasm---",
+    "sentence": "μή, φησίν, ἀφέντες τὸν ἐσταυρωμένον τοῦτον ἄρξωνται σέβεσθαι."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.8.1",
+    "form": "ἀρξάμενοι",
+    "postag": "v-papmmn-",
+    "sentence": "καὶ ἀρξάμενοι πρῶτον τοὺς μέλανας κατενοοῦμεν λίθους."
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "6.18",
+    "form": "ἄρχειν",
+    "postag": "v--pna---",
+    "sentence": "τίς οὖν ὁ δυνάμενος νῦν ἄρχειν θηρίων ἤ ἰχθύων ἤ πετεινῶν τοῦ οὐρανοῦ;"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "89   ἄρχω,    [in LXX for חלל, משׁל, etc.;]      to begin.   to rule (v. DCG, ii, 538b.): c. gen., Mk 10:42, Ro 15:12. Mid., to begin: seq. ἀπό, Mt 16:21 20:8, Lk 14:18 23:5 24:27, 47, Jo 8:9, Ac 1:22 8:35 10:37, I Pe 4:17; c. inf., an Aramaic pleonasm, Mk 1:45 2:23 5:17, Lk 3:8, al. (v. M, Pr., 14 f.; Dalman, Words, 27; MM, s.v.)."
+}

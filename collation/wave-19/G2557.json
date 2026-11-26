@@ -1,0 +1,94 @@
+{
+ "strong": "G2557",
+ "lemma": "κακοῦργος",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2TI 2:9",
+   "form": "κακοῦργος",
+   "morph": "A-NSM",
+   "gloss_en": "criminal",
+   "gloss_ja": "悪者",
+   "verse": "ἐν ᾧ κακοπαθῶ μέχρι δεσμῶν ὡς κακοῦργος. ἀλλὰ ὁ λόγος τοῦ θεοῦ οὐ δέδεται·"
+  },
+  {
+   "ref": "LUK 23:32",
+   "form": "κακοῦργοι",
+   "morph": "A-NPM",
+   "gloss_en": "criminals",
+   "gloss_ja": "悪者",
+   "verse": "Ἤγοντο δὲ καὶ ἕτεροι κακοῦργοι δύο σὺν αὐτῷ ἀναιρεθῆναι."
+  },
+  {
+   "ref": "LUK 23:33",
+   "form": "κακούργους",
+   "morph": "A-APM",
+   "gloss_en": "criminals",
+   "gloss_ja": "悪者",
+   "verse": "καὶ ὅτε ἦλθον ἐπὶ τὸν τόπον τὸν καλούμενον Κρανίον, ἐκεῖ ἐσταύρωσαν αὐτὸν καὶ τοὺς κακούργους, ὃν μὲν ἐκ δεξιῶν ὃν δὲ ἐξ ἀριστερῶν."
+  },
+  {
+   "ref": "LUK 23:39",
+   "form": "κακούργων",
+   "morph": "A-GPM",
+   "gloss_en": "criminals",
+   "gloss_ja": "悪者",
+   "verse": "Εἷς δὲ τῶν κρεμασθέντων κακούργων ἐβλασφήμει αὐτόν λέγων· Οὐχὶ σὺ εἶ ὁ χριστός; σῶσον σεαυτὸν καὶ ἡμᾶς."
+  }
+ ],
+ "lxx": {
+  "total": 4,
+  "works": {
+   "Esther": 1,
+   "Proverbia": 1,
+   "Ecclesiasticus sive Siracides": 2
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "33.27",
+    "form": "κακούργῳ",
+    "postag": "a-s---md-",
+    "sentence": "ζυγὸς καὶ ἱμὰς κάμψουσι τράχηλον, καὶ οἰκέτῃ κακούργῳ στρέβλαι καὶ βάσανοι."
+   },
+   {
+    "work_code": "EST",
+    "work_ja": "エステル記",
+    "work_src": "Esther",
+    "ref": "8.12ο",
+    "form": "κακούργους",
+    "postag": "a-p---ma-",
+    "sentence": "ἡμεῖς δὲ τοὺς ὑπὸ τοῦ τρισαλιτηρίου παραδεδομένους εἰς ἀφανισμὸν Ἰουδαίους, εὑρίσκομεν οὐ κακούργους ὄντας, δικαιοτάτοις δὲ πολιτευομένους νόμοις, ὄντας δὲ υἱοὺς τοῦ Ὑψίστου μεγίστου ζῶντος Θεοῦ τοῦ κατευθύνοντος ἡμῖν τε καὶ τοῖς προγόνοις ἡμῶν τὴν βασιλείαν ἐν τῇ καλλίστῃ διαθέσει."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "21.15",
+    "form": "κακούργοις",
+    "postag": "a-p---md-",
+    "sentence": "εὐφροσύνη δικαίων ποιεῖν κρίμα, ὅσιος δὲ ἀκάθαρτος παρὰ κακούργοις."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "11.33",
+    "form": "κακούργου",
+    "postag": "a-s---mg-",
+    "sentence": "πρόσεχε ἀπὸ κακούργου, πονηρὰ γὰρ τεκταίνει, μήποτε μῶμον εἰς τὸν αἰῶνα δῷ σοι."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "4   κακοῦργος, -ον    (contr. from epic κακόεργος),   [in LXX. Pr 21:15 (אָוֶן פֹּּעֵל), Es 8:13, Si 11:33 33:26 (Si 33:26)*;]    a malefactor, criminal: Lk 23:32, 33, 39, II Ti 2:9.†"
+}

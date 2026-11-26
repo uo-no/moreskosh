@@ -1,0 +1,183 @@
+{
+ "strong": "G2981",
+ "lemma": "λαλιά",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JHN 4:42",
+   "form": "λαλιὰν",
+   "morph": "N-ASF",
+   "gloss_en": "what ~ said",
+   "gloss_ja": "言葉",
+   "verse": "τῇ τε γυναικὶ ἔλεγον ὅτι Οὐκέτι διὰ τὴν σὴν λαλιὰν πιστεύομεν· αὐτοὶ γὰρ ἀκηκόαμεν, καὶ οἴδαμεν ὅτι οὗτός ἐστιν ἀληθῶς ὁ σωτὴρ τοῦ κόσμου."
+  },
+  {
+   "ref": "JHN 8:43",
+   "form": "λαλιὰν",
+   "morph": "N-ASF",
+   "gloss_en": "what ~ say",
+   "gloss_ja": "言葉",
+   "verse": "διὰ τί τὴν λαλιὰν τὴν ἐμὴν οὐ γινώσκετε; ὅτι οὐ δύνασθε ἀκούειν τὸν λόγον τὸν ἐμόν."
+  },
+  {
+   "ref": "MAT 26:73",
+   "form": "λαλιά",
+   "morph": "N-NSF",
+   "gloss_en": "accent",
+   "gloss_ja": "言葉",
+   "verse": "μετὰ μικρὸν δὲ προσελθόντες οἱ ἑστῶτες εἶπον τῷ Πέτρῳ· Ἀληθῶς καὶ σὺ ἐξ αὐτῶν εἶ, καὶ γὰρ ἡ λαλιά σου δῆλόν σε ποιεῖ·"
+  },
+  {
+   "ref": "MRK 14:70",
+   "form": "λαλιά",
+   "morph": "N-NSF",
+   "gloss_en": "accent",
+   "gloss_ja": "言葉",
+   "verse": "ὁ δὲ πάλιν ἠρνεῖτο. καὶ μετὰ μικρὸν πάλιν οἱ παρεστῶτες ἔλεγον τῷ Πέτρῳ· Ἀληθῶς ἐξ αὐτῶν εἶ, καὶ γὰρ Γαλιλαῖος εἶ καὶ ἡ λαλιά σου ὁμοιάζει·"
+  }
+ ],
+ "lxx": {
+  "total": 22,
+  "works": {
+   "Machabaeorum ii": 3,
+   "Psalmi": 1,
+   "Ecclesiastes": 2,
+   "Canticum": 2,
+   "Job": 3,
+   "Ecclesiasticus sive Siracides": 8,
+   "Isaias": 1,
+   "Daniel": 2
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "32.4",
+    "form": "λαλιὰν",
+    "postag": "n-s---fa-",
+    "sentence": "ὅπου ἀκρόαμα, μὴ ἐκχέῃς λαλιὰν καὶ ἀκαίρως μὴ σοφίζου."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "8.7",
+    "form": "λαλιά",
+    "postag": "n-s---fn-",
+    "sentence": "καὶ λαλιά τις τῆς εὐανδρίας αὐτοῦ διεχεῖτο πανταχῆ."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "7.6",
+    "form": "λαλιᾶς",
+    "postag": "n-s---fg-",
+    "sentence": "ὁ δὲ βίος μού ἐστιν ἐλαφρότερος λαλιᾶς, ἀπόλωλε δὲ ἐν κενῇ ἐλπίδι."
+   },
+   {
+    "work_code": "ECC",
+    "work_ja": "コヘレトの言葉",
+    "work_src": "Ecclesiastes",
+    "ref": "7.14",
+    "form": "λαλιᾶς",
+    "postag": "n-s---fg-",
+    "sentence": "καί γε σὺν τούτῳ συμφώνως τοῦτο ἐποίησεν ὁ Θεὸς περὶ λαλιᾶς, ἵνα μὴ εὕρῃ ἄνθρωπος ὀπίσω αὐτοῦ οὐδέν."
+   },
+   {
+    "work_code": "SNG",
+    "work_ja": "雅歌",
+    "work_src": "Canticum",
+    "ref": "4.3",
+    "form": "λαλιά",
+    "postag": "n-s---fn-",
+    "sentence": "ὡς σπαρτίον τὸ κόκκινον χείλη σου, καὶ ἡ λαλιά σου ὡραία, ὡς λέπυρον ροᾶς μῆλόν σου ἐκτὸς τῆς σιωπήσεώς σου."
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "10.9",
+    "form": "λαλιᾶς",
+    "postag": "n-s---fg-",
+    "sentence": "καὶ οὐκ ἤκουσα τὴν φωνὴν λαλιᾶς αὐτοῦ, ἐγὼ ἤμην πεπτωκὼς ἐπὶ πρόσωπόν μου ἐπὶ τὴν γῆν."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "18.4",
+    "form": "λαλιαὶ",
+    "postag": "n-p---fn-",
+    "sentence": "οὐκ εἰσὶ λαλιαὶ οὐ-δὲ λόγοι, ὧν οὐχὶ ἀκούονται αἱ φωναὶ αὐτῶν ·"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "11.3",
+    "form": "λαλιὰν",
+    "postag": "n-s---fa-",
+    "sentence": "οὐ κατὰ τὴν δόξαν κρινεῖ οὐ-δὲ κατὰ τὴν λαλιὰν ἐλέγξει, ἀλλὰ κρινεῖ ταπεινῷ κρίσιν καὶ ἐλέγξει τοὺς ταπεινοὺς τῆς γῆς ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "5.13",
+    "form": "λαλιᾷ",
+    "postag": "n-s---fd-",
+    "sentence": "δόξα καὶ ἀτιμία ἐν λαλιᾷ, καὶ γλῶσσα ἀνθρώπου πτῶσις αὐτῷ."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "5.5",
+    "form": "λαλιᾶς",
+    "postag": "n-s---fg-",
+    "sentence": "γενομένης δὲ λαλιᾶς ψευδοῦς ὡς μετηλλαχότος τὸν βίον Ἀντιόχου παραλαβὼν ὁ Ἰάσων οὐκ ἐλάττους τῶν χιλίων, αἰφνιδίως ἐπὶ τὴν πόλιν συνετελέσατο ἐπίθεσιν ·"
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "29.23",
+    "form": "λαλιάν",
+    "postag": "n-s---fa-",
+    "sentence": "ὥσπερ γῆ διψῶσα προσδεχομένη τὸν ὑετόν, οὕτως οὗτοι τὴν ἐμὴν λαλιάν."
+   },
+   {
+    "work_code": "ECC",
+    "work_ja": "コヘレトの言葉",
+    "work_src": "Ecclesiastes",
+    "ref": "3.18",
+    "form": "λαλιᾶς",
+    "postag": "n-s---fg-",
+    "sentence": "εἶπα ἐγὼ ἐν καρδίᾳ μου περὶ λαλιᾶς υἱῶν τοῦ ἀνθρώπου, ὅτι διακρινεῖ αὐτοὺς ὁ Θεός, καὶ τοῦ δεῖξαι ὅτι αὐτοὶ κτήνη εἰσί."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "1 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "27.7",
+    "form": "λαλιαί",
+    "postag": "n-p---fn-",
+    "sentence": "καὶ οὐκ εἰσὶν λόγοι οὐ-δὲ λαλιαί, ὧν οὐχὶ ἀκούονται αἱ φωναὶ αὐτῶν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3 λαλία, -ᾶς, ἡ,    [in LXX chiefly for דָּבָר, דִּבְרָה;]      loquacity.   talk, speech, conversation: Mt 26:73 (cf. Ca 4:3), Jo 4:42 8:43.†"
+}

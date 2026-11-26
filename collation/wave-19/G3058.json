@@ -1,0 +1,154 @@
+{
+ "strong": "G3058",
+ "lemma": "λοιδορέω",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 4:12",
+   "form": "λοιδορούμενοι",
+   "morph": "V-PPP-NPM",
+   "gloss_en": "reviled",
+   "gloss_ja": "ののしる",
+   "verse": "καὶ κοπιῶμεν ἐργαζόμενοι ταῖς ἰδίαις χερσίν· λοιδορούμενοι εὐλογοῦμεν, διωκόμενοι ἀνεχόμεθα,"
+  },
+  {
+   "ref": "1PE 2:23",
+   "form": "λοιδορούμενος",
+   "morph": "V-PPP-NSM",
+   "gloss_en": "reviled",
+   "gloss_ja": "ののしる",
+   "verse": "ὃς λοιδορούμενος οὐκ ἀντελοιδόρει, πάσχων οὐκ ἠπείλει, παρεδίδου δὲ τῷ κρίνοντι δικαίως·"
+  },
+  {
+   "ref": "ACT 23:4",
+   "form": "λοιδορεῖς",
+   "morph": "V-PAI-2S",
+   "gloss_en": "revile",
+   "gloss_ja": "ののしる",
+   "verse": "οἱ δὲ παρεστῶτες εἶπαν· Τὸν ἀρχιερέα τοῦ θεοῦ λοιδορεῖς;"
+  },
+  {
+   "ref": "JHN 9:28",
+   "form": "ἐλοιδόρησαν",
+   "morph": "V-AAI-3P",
+   "gloss_en": "reviled",
+   "gloss_ja": "ののしる",
+   "verse": "ἐλοιδόρησαν αὐτὸν καὶ εἶπον· Σὺ μαθητὴς εἶ ἐκείνου, ἡμεῖς δὲ τοῦ Μωϋσέως ἐσμὲν μαθηταί·"
+  }
+ ],
+ "lxx": {
+  "total": 8,
+  "works": {
+   "Genesis": 1,
+   "Exodus": 3,
+   "Numeri": 2,
+   "Deuteronomium": 1,
+   "Machabaeorum ii": 1
+  },
+  "representatives": [
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "17.2",
+    "form": "λοιδορεῖσθέ",
+    "postag": "v2ppim---",
+    "sentence": "τί λοιδορεῖσθέ μοι, καὶ τί πειράζετε Κύριον;"
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "20.3",
+    "form": "ἐλοιδορεῖτο",
+    "postag": "v3siim---",
+    "sentence": "καὶ ἐλοιδορεῖτο ὁ λαὸς πρὸς Μωυσῆν λέγοντες ·"
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "49.23",
+    "form": "ἐλοιδόρουν",
+    "postag": "v3piia---",
+    "sentence": "εἰς ὃν διαβουλευόμενοι ἐλοιδόρουν, καὶ ἐνεῖχον αὐτῷ κύριοι τοξευμάτων ·"
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "33.8",
+    "form": "ἐλοιδόρησαν",
+    "postag": "v3paia---",
+    "sentence": "δότε Λευὶ δήλους αὐτοῦ καὶ ἀλήθειαν αὐτοῦ, τῷ ἀνδρὶ τῷ ὁσίῳ, ὃν ἐπείρασαν αὐτὸν ἐν πείρᾳ, ἐλοιδόρησαν αὐτὸν ἐπὶ ὕδατος ἀντιλογίας ·"
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "12.14",
+    "form": "λοιδοροῦντες",
+    "postag": "v-pppamn-",
+    "sentence": "οἱ δ’ ἔνδον πεποιθότες τῇ τῶν τειχέων ἐρυμνότητι τῇ τε τῶν βρωμάτων παραθέσει, ἀναγωγότερον ἐχρῶντο τοῖς περὶ τὸν Ἰούδαν λοιδοροῦντες καὶ προσέτι βλασφημοῦντες καὶ λαλοῦντες ἃ μὴ θέμις."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "21.18",
+    "form": "λοιδορῶνται",
+    "postag": "v3ppsm---",
+    "sentence": "ἐὰν δὲ λοιδορῶνται δύο ἄνδρες καὶ πατάξῃ τις τὸν πλησίον λίθῳ ἢ πυγμῇ, καὶ μὴ ἀποθάνῃ, κατακλιθῇ δὲ ἐπὶ τὴν κοίτην, ἐὰν ἐξαναστὰς ὁ ἄνθρωπος περιπατήσῃ ἔξω ἐπὶ ράβδου, ἀθῷος ἔσται ὁ πατάξας ·"
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "20.13",
+    "form": "ἐλοιδορήθησαν",
+    "postag": "v3paip---",
+    "sentence": "τοῦτο τὸ ὕδωρ ἀντιλογίας, ὅτι ἐλοιδορήθησαν οἱ υἱοὶ Ἰσραὴλ ἔναντι Κυρίου καὶ ἡγιάσθη ἐν αὐτοῖς."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "17.2",
+    "form": "ἐλοιδορεῖτο",
+    "postag": "v3siim---",
+    "sentence": "καὶ ἐλοιδορεῖτο ὁ λαὸς πρὸς Μωυσῆν λέγοντες ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "To Diognetus": 1,
+   "Martyrdom of Polycarp": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "5",
+    "form": "λοιδοροῦνται",
+    "postag": "v3ppim---",
+    "sentence": "λοιδοροῦνται, καὶ εὐλογοῦσιν ·"
+   },
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "9.3",
+    "form": "λοιδόρησον",
+    "postag": "v2sama---",
+    "sentence": "ὄμοσον, καὶ ἀπολύω σε, λοιδόρησον τὸν Χριστόν, ἔφη ὁ Πολύκαρπος ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "4   λοιδορέω, -ῶ        (< λοίδορος),   [in LXX chiefly for רִיב;]    to abuse, revile: c. acc. pers., Jo 9:28, Ac 23:4; pass., I Co 4:12, I Pe 2:23 (cf. ἀντι-λοιδορέω).†"
+}

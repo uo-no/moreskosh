@@ -1,0 +1,252 @@
+{
+ "strong": "G2664",
+ "lemma": "καταπαύω",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 14:18",
+   "form": "κατέπαυσαν",
+   "morph": "V-AAI-3P",
+   "gloss_en": "restrained",
+   "gloss_ja": "休ませる",
+   "verse": "καὶ ταῦτα λέγοντες μόλις κατέπαυσαν τοὺς ὄχλους τοῦ μὴ θύειν αὐτοῖς."
+  },
+  {
+   "ref": "HEB 4:4",
+   "form": "κατέπαυσεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "rested",
+   "gloss_ja": "休ませる",
+   "verse": "εἴρηκεν γάρ που περὶ τῆς ἑβδόμης οὕτως· Καὶ κατέπαυσεν ὁ θεὸς ἐν τῇ ἡμέρᾳ τῇ ἑβδόμῃ ἀπὸ πάντων τῶν ἔργων αὐτοῦ,"
+  },
+  {
+   "ref": "HEB 4:8",
+   "form": "κατέπαυσεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "given ~ rest",
+   "gloss_ja": "休ませる",
+   "verse": "εἰ γὰρ αὐτοὺς Ἰησοῦς κατέπαυσεν, οὐκ ἂν περὶ ἄλλης ἐλάλει μετὰ ταῦτα ἡμέρας."
+  },
+  {
+   "ref": "HEB 4:10",
+   "form": "κατέπαυσεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "rested",
+   "gloss_ja": "休ませる",
+   "verse": "ὁ γὰρ εἰσελθὼν εἰς τὴν κατάπαυσιν αὐτοῦ καὶ αὐτὸς κατέπαυσεν ἀπὸ τῶν ἔργων αὐτοῦ ὥσπερ ἀπὸ τῶν ἰδίων ὁ θεός."
+  }
+ ],
+ "lxx": {
+  "total": 63,
+  "works": {
+   "Genesis": 4,
+   "Exodus": 9,
+   "Numeri": 1,
+   "Deuteronomium": 5,
+   "Josue": 8,
+   "Ruth": 1,
+   "Regnorum ii": 1,
+   "Regnorum iii": 1,
+   "Paralipomenon i sive Chronicon i": 1,
+   "Paralipomenon ii sive Chronicon ii": 6,
+   "Esdras ii": 2,
+   "Judith": 1,
+   "Machabaeorum i": 1,
+   "Machabaeorum ii": 1,
+   "Psalmi": 3,
+   "Ecclesiastes": 1,
+   "Job": 2,
+   "Ecclesiasticus sive Siracides": 8,
+   "Osee": 2,
+   "Threni seu Lamentationes": 3,
+   "Ezechiel": 1,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "5.5",
+    "form": "καταπαύσωμεν",
+    "postag": "v1pasa---",
+    "sentence": "μὴ οὖν καταπαύσωμεν αὐτοὺς ἀπὸ τῶν ἔργων."
+   },
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "11.23",
+    "form": "κατέπαυσε",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἡ γῆ κατέπαυσε πολεμουμένη."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "45.3",
+    "form": "κατέπαυσεν",
+    "postag": "v3saia---",
+    "sentence": "ἐν λόγοις αὐτοῦ σημεῖα κατέπαυσεν, ἐδόξασεν αὐτὸν κατὰ πρόσωπον βασιλέων ·"
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "14.6",
+    "form": "κατέπαυσε",
+    "postag": "v3saia---",
+    "sentence": "καὶ οὐκ ἦν αὐτῷ πόλεμος ἐν τοῖς ἔτεσι τούτοις, ὅτι κατέπαυσε Κύριος αὐτῷ."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "12.10",
+    "form": "καταπαύσει",
+    "postag": "v3sfia---",
+    "sentence": "καὶ διαβήσεσθε τὸν Ἰορδάνην, καὶ κατοικήσετε ἐπὶ τῆς γῆς, ἧς Κύριος ὁ Θεὸς ἡμῶν κατακληρονομεῖ ὑμῖν, καὶ καταπαύσει ὑμᾶς ἀπὸ πάντων τῶν ἐχθρῶν ὑμῶν τῶν κύκλῳ, καὶ κατοικήσετε μετὰ ἀσφαλείας."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "8.22",
+    "form": "καταπαύσουσι",
+    "postag": "v3pfia---",
+    "sentence": "πάσας τὰς ἡμέρας τῆς γῆς, σπέρμα καὶ θερισμός, ψῦχος καὶ καῦμα, θέρος καὶ ἔαρ, ἡμέραν καὶ νύκτα οὐ καταπαύσουσι."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "84.4",
+    "form": "κατέπαυσας",
+    "postag": "v2saia---",
+    "sentence": "κατέπαυσας πᾶσαν τὴν ὀργήν σου, ἀπέστρεψας ἀπὸ ὀργῆς θυμοῦ σου."
+   },
+   {
+    "work_code": "LAM",
+    "work_ja": "哀歌",
+    "work_src": "Threni seu Lamentationes",
+    "ref": "3.11",
+    "form": "κατέπαυσέ",
+    "postag": "v3saia---",
+    "sentence": "κατεδίωξεν ἀφεστηκότα καὶ κατέπαυσέ με, ἔθετό με ἠφανισμένην."
+   },
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "16.3",
+    "form": "καταπαύσῃ",
+    "postag": "v3sasa---",
+    "sentence": "ἔργον μέγα ἐγὼ ποιῶ καὶ οὐ δυνήσομαι καταβῆναι, μή ποτε καταπαύσῃ τὸ ἔργον ·"
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "21.34",
+    "form": "καταπαύσασθαι",
+    "postag": "v--anm---",
+    "sentence": "τὸ δὲ ἐμὲ καταπαύσασθαι ἀφ’ ὑμῶν οὐδέν."
+   },
+   {
+    "work_code": "HOS",
+    "work_ja": "ホセア書",
+    "work_src": "Osee",
+    "ref": "1.4",
+    "form": "καταπαύσω",
+    "postag": "v1sfia---",
+    "sentence": "κάλεσον τὸ ὄνομα αὐτοῦ Ἰεζραέλ, διότι ἔτι μικρὸν καὶ ἐκδικήσω τὸ αἷμα τοῦ Ἰεζραὲλ ἐπὶ τὸν οἶκον Ἰούδα καὶ καταπαύσω βασιλείαν οἴκου Ἰσραήλ."
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "25.11",
+    "form": "κατέπαυσε",
+    "postag": "v3saia---",
+    "sentence": "Φινεὲς υἱὸς Ἐλεάζαρ υἱοῦ Ἀαρὼν τοῦ ἱερέως κατέπαυσε τὸν θυμόν μου ἀπὸ υἱῶν Ἰσραὴλ ἐν τῷ ζηλῶσαί μου τὸν ζῆλον ἐν αὐτοῖς, καὶ οὐκ ἐξανήλωσα τοὺς υἱοὺς Ἰσραὴλ ἐν τῷ ζήλῳ μου."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 7,
+  "works": {
+   "Barnabas": 5,
+   "Martyrdom of Polycarp": 2
+  },
+  "representatives": [
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "15.5",
+    "form": "κατέπαυσεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ κατέπαυσεν τῇ ἡμέρᾳ τῇ ἑβδόμῃ."
+   },
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "1.1",
+    "form": "κατέπαυσεν",
+    "postag": "v3saia---",
+    "sentence": "ἐγράψαμεν ὑμῖν, ἀδελφοί, τὰ κατὰ τοὺς μαρτυρήσαντας καὶ τὸν μακάριον Πολύκαρπον, ὅστις ὥσπερ ἐπισφραγίσας διὰ τῆς μαρτυρίας αὐτοῦ κατέπαυσεν τὸν διωγμόν."
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "15.8",
+    "form": "καταπαύσας",
+    "postag": "v-sapamn-",
+    "sentence": "οὐ τὰ νῦν σάββατα ἐμοὶ δεκτά, ἀλλὰ ὃ πεποίηκα, ἐν ᾧ καταπαύσας τὰ πάντα ἀρχὴν ἡμέρας ὀγδόης ποιήσω, ὅ ἐστιν ἄλλου κόσμου ἀρχήν."
+   },
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "8.1",
+    "form": "κατέπαυσεν",
+    "postag": "v3saia---",
+    "sentence": "ἐπεὶ δὲ ποτε κατέπαυσεν τὴν προσευχήν, μνημονεύσας ἁπάντων καὶ τῶν πώποτε συμβεβληκότων αὐτῷ, μικρῶν τε καὶ μεγάλων, ἐνδόξων τε καὶ ἀδόξων καὶ πάσης τῆς κατὰ τὴν οἰκουμένην καθολικῆς ἐκκλησίας, τῆς ὥρας ἐλθούσης τοῦ ἐξιέναι, ὄνῳ καθίσαντες αὐτὸν ἤγαγον εἰς τὴν πόλιν, ὄντος σαββάτου μεγάλου."
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "15.7",
+    "form": "καταπαυόμενοι",
+    "postag": "v-pppmmn-",
+    "sentence": "ἴδε ὅτι ἄρα τότε καλῶς καταπαυόμενοι ἁγιάσομεν αὐτήν, ὅτε δυνησόμεθα αὐτοὶ δικαιωθέντες καὶ ἀπολαβόντες τὴν ἐπαγγελίαν, μηκέτι οὔσης τῆς ἀνομίας, καινῶν δὲ γεγονότων πάντων ὑπὸ κυρίου ·"
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "15.5",
+    "form": "καταπαύσεται",
+    "postag": "v3sfim---",
+    "sentence": "ὅταν ἐλθὼν ὁ υἱὸς αὐτοῦ καταργήσει τὸν καιρὸν τοῦ ἀνόμου καὶ κρινεῖ τοὺς ἀσεβεῖς καὶ ἀλλάξει τὸν ἥλιον καὶ τὴν σελήνην καὶ τοὺς ἀστέρας, τότε καλῶς καταπαύσεται ἐν τῇ ἡμέρᾳ τῇ ἑβδόμῃ."
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "15.3",
+    "form": "κατέπαυσεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἐποίησεν ὁ θεὸς ἐν ἓξ ἡμέραις τὰ ἔργα τῶν χειρῶν αὐτοῦ, καὶ συνετέλεσεν ἐν τῇ ἡμέρᾳ τῇ ἑβδόμῃ καὶ κατέπαυσεν ἐν αὐτῇ καὶ ἡγίασεν αὐτήν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "4   κατα-παύω,    [in LXX for נוּחַ, שׁבת, etc.;]      trans.,     to cause to cease, restrain: Ac 14:18;     to cause to rest: He 4:8.        Intrans., to rest: seq. ἀτό, He 4:4(LXX), 10.†"
+}

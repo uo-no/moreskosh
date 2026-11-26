@@ -1,0 +1,185 @@
+{
+ "strong": "G1218",
+ "lemma": "δῆμος",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 12:22",
+   "form": "δῆμος",
+   "morph": "N-NSM",
+   "gloss_en": "people",
+   "gloss_ja": "民衆",
+   "verse": "ὁ δὲ δῆμος ἐπεφώνει· Θεοῦ φωνὴ καὶ οὐκ ἀνθρώπου."
+  },
+  {
+   "ref": "ACT 17:5",
+   "form": "δῆμον",
+   "morph": "N-ASM",
+   "gloss_en": "people",
+   "gloss_ja": "民衆",
+   "verse": "ζηλώσαντες δὲ οἱ Ἰουδαῖοι καὶ προσλαβόμενοι τῶν ἀγοραίων ἄνδρας τινὰς πονηροὺς καὶ ὀχλοποιήσαντες ἐθορύβουν τὴν πόλιν, καὶ ἐπιστάντες τῇ οἰκίᾳ Ἰάσονος ἐζήτουν αὐτοὺς προαγαγεῖν εἰς τὸν δῆμον·"
+  },
+  {
+   "ref": "ACT 19:30",
+   "form": "δῆμον",
+   "morph": "N-ASM",
+   "gloss_en": "crowd",
+   "gloss_ja": "民衆",
+   "verse": "Παύλου δὲ βουλομένου εἰσελθεῖν εἰς τὸν δῆμον οὐκ εἴων αὐτὸν οἱ μαθηταί·"
+  },
+  {
+   "ref": "ACT 19:33",
+   "form": "δήμῳ",
+   "morph": "N-DSM",
+   "gloss_en": "people",
+   "gloss_ja": "民衆",
+   "verse": "ἐκ δὲ τοῦ ὄχλου συνεβίβασαν Ἀλέξανδρον προβαλόντων αὐτὸν τῶν Ἰουδαίων, ὁ δὲ Ἀλέξανδρος κατασείσας τὴν χεῖρα ἤθελεν ἀπολογεῖσθαι τῷ δήμῳ."
+  }
+ ],
+ "lxx": {
+  "total": 213,
+  "works": {
+   "Numeri": 151,
+   "Josue": 35,
+   "Judices": 5,
+   "Esdras i": 1,
+   "Esdras ii": 1,
+   "Judith": 3,
+   "Machabaeorum i": 10,
+   "Machabaeorum ii": 2,
+   "Sapientia Salomonis": 1,
+   "Daniel": 4
+  },
+  "representatives": [
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "26.16",
+    "form": "δῆμος",
+    "postag": "n-s---mn-",
+    "sentence": "τῷ Ζαρὰ δῆμος ὁ Ζαραΐ."
+   },
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "17.2",
+    "form": "δήμους",
+    "postag": "n-p---ma-",
+    "sentence": "οὗτοι ἄρσενες κατὰ δήμους αὐτῶν."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "8.29",
+    "form": "δήμῳ",
+    "postag": "n-s---md-",
+    "sentence": "— κατὰ τοὺς λόγους τούτους ἔστησαν Ῥωμαῖοι τῷ δήμῳ τῶν Ἰουδαίων."
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "17.7",
+    "form": "δήμου",
+    "postag": "n-s---mg-",
+    "sentence": "καὶ ἐγενήθη νεανίας ἐκ Βηθλεὲμ δήμου Ἰούδα, καὶ αὐτὸς Λευίτης, καὶ οὗτος παρῴκει ἐκεῖ."
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "8.24",
+    "form": "δῆμον",
+    "postag": "n-s---ma-",
+    "sentence": "καὶ στερεωθήσεται ἡ ἰσχὺς αὐτοῦ καὶ οὐκ ἐν τῇ ἰσχύι αὐτοῦ, καὶ θαυμαστῶς φθερεῖ καὶ εὐοδωθήσεται καὶ ποιήσει καὶ φθερεῖ δυνάστας καὶ δῆμον ἁγίων."
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "4.8",
+    "form": "δήμου",
+    "postag": "n-s---mg-",
+    "sentence": "καὶ ἐποίησαν οἱ υἱοὶ Ἰσραὴλ καθὰ συνέταξεν αὐτοῖς Ἰωακὶμ ὁ ἱερεὺς ὁ μέγας καὶ ἡ γερουσία παντὸς δήμου Ἰσραήλ, οἳ ἐκάθηντο ἐν Ἱερουσαλήμ."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "4.48",
+    "form": "δήμων",
+    "postag": "n-p---mg-",
+    "sentence": "ταχέως οὖν τὴν ἄδικον ζημίαν ὑπέσχον οἱ ὑπὲρ πόλεως καὶ δήμων καὶ τῶν ἱερῶν σκευῶν προαγορεύσαντες."
+   },
+   {
+    "work_code": "1ES",
+    "work_ja": "エズラ記（ギリシャ語）",
+    "work_src": "Esdras i",
+    "ref": "9.53",
+    "form": "δήμῳ",
+    "postag": "n-s---md-",
+    "sentence": "καὶ οἱ Λευῖται ἐκέλευον παντὶ τῷ δήμῳ λέγοντες ·"
+   },
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "14.7",
+    "form": "δήμους",
+    "postag": "n-p---ma-",
+    "sentence": "καὶ ἔστησα εἰς τὰ κατώτατα τοῦ τόπου κατόπισθεν τοῦ τείχους ἐν τοῖς σκεπεινοῖς καὶ ἔστησα τὸν λαὸν κατὰ δήμους μετὰ ῥομφαιῶν αὐτῶν, λόγχας αὐτῶν καὶ τόξα αὐτῶν."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "6.24",
+    "form": "δήμου",
+    "postag": "n-s---mg-",
+    "sentence": "πλῆθος δὲ σοφῶν σωτηρία κόσμου, καὶ βασιλεὺς φρόνιμος εὐστάθεια δήμου."
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "3.21",
+    "form": "δῆμοι",
+    "postag": "n-p---mn-",
+    "sentence": "οὗτοι οἱ δῆμοι τοῦ Γεδσών."
+   },
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "21.26",
+    "form": "δήμοις",
+    "postag": "n-p---md-",
+    "sentence": "πᾶσαι πόλεις δέκα καὶ τὰ ἀφωρισμένα αὐτῇ τὰ πρὸς αὐταῖς τοῖς δήμοις υἱῶν Καὰθ τοῖς ὑπολελειμμένοις."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Martyrdom of Polycarp": 1
+  },
+  "representatives": [
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "10.2",
+    "form": "δῆμον",
+    "postag": "n-s---ma-",
+    "sentence": "πεῖσον τὸν δῆμον."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "4   δῆμος, -ου, ὁ     [in LXX chiefly for מִשְׁפָּחָה ;]          a district, country.      the common people, the people generally; esp. the people assembled: Ac 12:22 17:5 19:30, 33.†      SYN.: λαός, the people at large: δ., the people as a body politic; opp. to δ. is ὄχλος, the unorganized multitude. ἔθνος, in sing., means in NT as in Gk. writers generally, a nation, but in pl. denotes the rest of mankind apart from the Jews: Gentiles. λ. also, rare in cl. (Att... λεώς), is freq. in LXX and NT, and usually limited to the chosen people, Israel (cf. Cl. Rev., i, 42 f.; Cremer, 689)."
+}

@@ -1,0 +1,211 @@
+{
+ "strong": "G1587",
+ "lemma": "ἐκλείπω",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "HEB 1:12",
+   "form": "ἐκλείψουσιν",
+   "morph": "V-FAI-3P",
+   "gloss_en": "end",
+   "gloss_ja": "絶える",
+   "verse": "καὶ ὡσεὶ περιβόλαιον ἑλίξεις αὐτούς, ὡς ἱμάτιον καὶ ἀλλαγήσονται· σὺ δὲ ὁ αὐτὸς εἶ, καὶ τὰ ἔτη σου οὐκ ἐκλείψουσιν."
+  },
+  {
+   "ref": "LUK 16:9",
+   "form": "ἐκλίπῃ",
+   "morph": "V-2AAS-3S",
+   "gloss_en": "fails",
+   "gloss_ja": "絶える",
+   "verse": "καὶ ἐγὼ ὑμῖν λέγω, ἑαυτοῖς ποιήσατε φίλους ἐκ τοῦ μαμωνᾶ τῆς ἀδικίας, ἵνα ὅταν ἐκλίπῃ δέξωνται ὑμᾶς εἰς τὰς αἰωνίους σκηνάς."
+  },
+  {
+   "ref": "LUK 23:45",
+   "form": "ἐκλιπόντος",
+   "morph": "V-PAP-GSM",
+   "gloss_en": "failed",
+   "gloss_ja": "絶える",
+   "verse": "τοῦ ἡλίου ἐκλιπόντος, ἐσχίσθη δὲ τὸ καταπέτασμα τοῦ ναοῦ μέσον."
+  },
+  {
+   "ref": "LUK 22:32",
+   "form": "ἐκλίπῃ",
+   "morph": "V-2AAS-3S",
+   "gloss_en": "fail",
+   "gloss_ja": "絶える",
+   "verse": "ἐγὼ δὲ ἐδεήθην περὶ σοῦ ἵνα μὴ ἐκλίπῃ ἡ πίστις σου· καὶ σύ ποτε ἐπιστρέψας στήρισον τοὺς ἀδελφούς σου."
+  }
+ ],
+ "lxx": {
+  "total": 189,
+  "works": {
+   "Genesis": 17,
+   "Exodus": 1,
+   "Numeri": 1,
+   "Deuteronomium": 3,
+   "Josue": 5,
+   "Judices": 5,
+   "Regnorum i": 3,
+   "Regnorum ii": 3,
+   "Regnorum iii": 2,
+   "Regnorum iv": 1,
+   "Paralipomenon ii sive Chronicon ii": 2,
+   "Esther": 1,
+   "Judith": 5,
+   "Tobias": 3,
+   "Machabaeorum i": 4,
+   "Machabaeorum ii": 2,
+   "Machabaeorum iii": 2,
+   "Psalmi": 30,
+   "Odae": 5,
+   "Proverbia": 4,
+   "Job": 5,
+   "Sapientia Salomonis": 1,
+   "Ecclesiasticus sive Siracides": 9,
+   "Psalmi Salomonis": 2,
+   "Osee": 2,
+   "Amos": 1,
+   "Jonas": 1,
+   "Nahum": 1,
+   "Habacuc": 2,
+   "Sophonias": 5,
+   "Zacharias": 4,
+   "Isaias": 17,
+   "Jeremias": 27,
+   "Baruch": 2,
+   "Threni seu Lamentationes": 5,
+   "Ezechiel": 6
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "67.3",
+    "form": "ἐκλείπει",
+    "postag": "v3spia---",
+    "sentence": "ὡς ἐκλείπει καπνός, ἐκλιπέτωσαν ·"
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "6.29",
+    "form": "ἐξέλιπε",
+    "postag": "v3saia---",
+    "sentence": "ἐξέλιπε φυσητὴρ ἀπὸ πυρός, ἐξέλιπε μόλυβδος ·"
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "47.15",
+    "form": "ἐκλέλοιπε",
+    "postag": "v3sria---",
+    "sentence": "ἐκλέλοιπε γὰρ τὸ ἀργύριον ἡμῶν."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "60.20",
+    "form": "ἐκλείψει",
+    "postag": "v3sfia---",
+    "sentence": "οὐ γὰρ δύσεται ὁ ἥλιός σοι, καὶ ἡ σελήνη σοι οὐκ ἐκλείψει ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "24.9",
+    "form": "ἐκλίπω",
+    "postag": "v1sasa---",
+    "sentence": "πρὸ τοῦ αἰῶνος ἀπ’ ἀρχῆς ἔκτισέ με, καὶ ἕως αἰῶνος οὐ μὴ ἐκλίπω."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "34.21",
+    "form": "ἐκλεῖπον",
+    "postag": "v-sppann-",
+    "sentence": "ἐπὶ ταῖς πλευραῖς καὶ τοῖς ὤμοις ὑμῶν διωθεῖσθε καὶ τοῖς κέρασιν ὑμῶν ἐκερατίζετε καὶ πᾶν τὸ ἐκλεῖπον ἐξεθλίβετε."
+   },
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "9.23",
+    "form": "ἐκλίπῃ",
+    "postag": "v3sasa---",
+    "sentence": "οὐ μὴ ἐκλίπῃ ἐξ ὑμῶν δοῦλος οὐ-δὲ ξυλοκόπος οὐ-δὲ ὑδροφόρος ἐμοὶ καὶ τῷ Θεῷ μου."
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "5.7",
+    "form": "ἐξέλιπον",
+    "postag": "v3paia---",
+    "sentence": "ἐξέλιπον δυνατοὶ ἐν Ἰσραήλ, ἐξέλιπον, ἕως οὗ ἀνέστη Δεββώρα, ἕως οὗ ἀνέστη μήτηρ ἐν Ἰσραήλ."
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "11.12",
+    "form": "ἐξέλιπεν",
+    "postag": "v3saia---",
+    "sentence": "ἐπεὶ γὰρ ἐξέλιπεν αὐτοὺς τὰ βρώματα καὶ ἐσπανίσθη πᾶν ὕδωρ, ἐβουλεύσαντο ἐπιβαλεῖν τοῖς κτήνεσιν αὐτῶν καὶ πάντα, ὅσα διεστείλατο αὐτοῖς ὁ Θεὸς ἐν τοῖς νόμοις αὐτοῦ μὴ φαγεῖν, διέγνωσαν δαπανῆσαι."
+   },
+   {
+    "work_code": "ODE",
+    "work_ja": "頌歌（オード）",
+    "work_src": "Odae",
+    "ref": "2.36",
+    "form": "ἐκλελοιπότας",
+    "postag": "v-prpama-",
+    "sentence": "εἶδεν γὰρ αὐτοὺς παραλελυμένους καὶ ἐκλελοιπότας ἐν ἐπαγωγῇ καὶ παρειμένους."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "6.15",
+    "form": "ἐκλείπων",
+    "postag": "v-sppamn-",
+    "sentence": "ὥσπερ χειμάρρους ἐκλείπων ἢ ὥσπερ κῦμα παρῆλθόν με."
+   },
+   {
+    "work_code": "ZEP",
+    "work_ja": "ゼファニヤ書",
+    "work_src": "Sophonias",
+    "ref": "2.9",
+    "form": "ἐκλελειμμένη",
+    "postag": "v-srpmfn-",
+    "sentence": "διὰ τοῦτο ζῶ ἐγώ, λέγει Κύριος τῶν δυνάμεων ὁ Θεὸς Ἰσραήλ, διότι Μωὰβ ὡς Σόδομα ἔσται καὶ υἱοὶ Ἀμμὼν ὡς Γόμορρα, καὶ Δαμασκὸς ἐκλελειμμένη ὡς θιμωνία ἅλωνος καὶ ἠφανισμένη εἰς τὸν αἰῶνα ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "1 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "16.3",
+    "form": "ἐκλεῖπον",
+    "postag": "v-sppann-",
+    "sentence": "οὐκ ἔστιν αὐτῷ εἶδος οὐ-δὲ δόξα, καὶ εἴδομεν αὐτόν, καὶ οὐκ εἶχεν εἶδος οὐ-δὲ κάλλος, ἀλλὰ τὸ εἶδος αὐτοῦ ἄτιμον, ἐκλεῖπον παρὰ τὸ εἶδος τῶν ἀνθρώπων ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "4   ἐκ-λείπω     [in LXX for כָּלָה, כָּרַת ni., תָּמַם, etc., 47 different words in all ;]       trans., to leave out, pass over.      Intrans., to leave off, cease, fail: μαμωνᾶς, Lk 16:9; πίστις, Lk 22:32; ἔτη, He 1:12 (LXX); of the sun in an eclipse, Lk 23:45.†"
+}

@@ -1,0 +1,171 @@
+{
+ "strong": "G1155",
+ "lemma": "δανείζω",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 6:34",
+   "form": "δανίσητε",
+   "morph": "V-AAS-2P",
+   "gloss_en": "lend",
+   "gloss_ja": "貸す",
+   "verse": "καὶ ἐὰν δανίσητε παρ’ ὧν ἐλπίζετε λαβεῖν, ποία ὑμῖν χάρις ἐστίν; καὶ ἁμαρτωλοὶ ἁμαρτωλοῖς δανίζουσιν ἵνα ἀπολάβωσιν τὰ ἴσα."
+  },
+  {
+   "ref": "LUK 6:34",
+   "form": "δανίζουσιν",
+   "morph": "V-PAI-3P",
+   "gloss_en": "lend",
+   "gloss_ja": "貸す",
+   "verse": "καὶ ἐὰν δανίσητε παρ’ ὧν ἐλπίζετε λαβεῖν, ποία ὑμῖν χάρις ἐστίν; καὶ ἁμαρτωλοὶ ἁμαρτωλοῖς δανίζουσιν ἵνα ἀπολάβωσιν τὰ ἴσα."
+  },
+  {
+   "ref": "LUK 6:35",
+   "form": "δανίζετε",
+   "morph": "V-PAM-2P",
+   "gloss_en": "lend",
+   "gloss_ja": "貸す",
+   "verse": "πλὴν ἀγαπᾶτε τοὺς ἐχθροὺς ὑμῶν καὶ ἀγαθοποιεῖτε καὶ δανίζετε μηδὲν ἀπελπίζοντες· καὶ ἔσται ὁ μισθὸς ὑμῶν πολύς, καὶ ἔσεσθε υἱοὶ Ὑψίστου, ὅτι αὐτὸς χρηστός ἐστιν ἐπὶ τοὺς ἀχαρίστους καὶ πονηρούς."
+  },
+  {
+   "ref": "MAT 5:42",
+   "form": "δανίσασθαι",
+   "morph": "V-AMN",
+   "gloss_en": "borrow",
+   "gloss_ja": "貸す",
+   "verse": "τῷ αἰτοῦντί σε δός, καὶ τὸν θέλοντα ἀπὸ σοῦ δανίσασθαι μὴ ἀποστραφῇς."
+  }
+ ],
+ "lxx": {
+  "total": 23,
+  "works": {
+   "Deuteronomium": 9,
+   "Esdras ii": 1,
+   "Machabaeorum iv": 1,
+   "Psalmi": 2,
+   "Proverbia": 3,
+   "Sapientia Salomonis": 1,
+   "Ecclesiasticus sive Siracides": 4,
+   "Isaias": 2
+  },
+  "representatives": [
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "28.44",
+    "form": "δανειεῖ",
+    "postag": "v3sfia---",
+    "sentence": "οὗτος δανειεῖ σοι, σὺ δὲ τούτῳ οὐ δανειεῖς, σὺ δὲ τούτῳ οὐ δανειεῖς ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "8.12",
+    "form": "δανείσῃς",
+    "postag": "v2sasa---",
+    "sentence": "μὴ δανείσῃς ἀνθρώπῳ ἰσχυροτέρῳ σου ·"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "22.7",
+    "form": "δανειοῦσι",
+    "postag": "v3pfia---",
+    "sentence": "πλούσιοι πτωχῶν ἄρξουσι, καὶ οἰκέται ἰδίοις δεσπόταις δανειοῦσι."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "36.21",
+    "form": "δανείζεται",
+    "postag": "v3spim---",
+    "sentence": "δανείζεται ὁ ἁμαρτωλὸς καὶ οὐκ ἀποτίσει, ὁ δὲ δίκαιος οἰκτείρει καὶ δίδωσιν ·"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "24.2",
+    "form": "δανείζων",
+    "postag": "v-sppamn-",
+    "sentence": "ἔσται ὁ ἀγοράζων ὡς ὁ πωλῶν, ὁ δανείζων ὡς ὁ δανειζόμενος καὶ ὁ ὀφείλων ὡς ᾧ ὀφείλει."
+   },
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "15.4",
+    "form": "ἐδανεισάμεθα",
+    "postag": "v1paim---",
+    "sentence": "ἐδανεισάμεθα ἀργύριον εἰς φόρους τοῦ βασιλέως, ἀγροὶ ἡμῶν καὶ ἀμπελῶνες ἡμῶν καὶ οἰκίαι ἡμῶν ·"
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "2.8",
+    "form": "δανείζων",
+    "postag": "v-sppamn-",
+    "sentence": "αὐτίκα γοῦν τῷ νόμῳ πολιτευόμενος, κα-κἂν φιλάργυρός τις ᾖ, βιάζεται τὸν ἑαυτοῦ τρόπον τοῖς δεομένοις δανείζων χωρὶς τόκων, καὶ τὸ δάνειον τῶν ἑβδομάδων ἐνστασῶν χρεοκοπούμενος."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "15.16",
+    "form": "δεδανεισμένος",
+    "postag": "v-srpmmn-",
+    "sentence": "ἄθρωπος γὰρ ἐποίησεν αὐτούς, καὶ τὸ πνεῦμα δεδανεισμένος ἔπλασεν αὐτούς ·"
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "28.44",
+    "form": "δανειεῖς",
+    "postag": "v2sfia---",
+    "sentence": "οὗτος δανειεῖ σοι, σὺ δὲ τούτῳ οὐ δανειεῖς, σὺ δὲ τούτῳ οὐ δανειεῖς ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "29.2",
+    "form": "δάνεισον",
+    "postag": "v2sama---",
+    "sentence": "δάνεισον τῷ πλησίον ἐν καιρῷ χρείας αὐτοῦ, καὶ πάλιν ἀπόδος τῷ πλησίον εἰς τὸν καιρόν ·"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "19.17",
+    "form": "δανείζει",
+    "postag": "v3spia---",
+    "sentence": "δανείζει Θεῷ ὁ ἐλεῶν πτωχόν, κατὰ δὲ τὸ δόμα αὐτοῦ ἀνταποδώσει αὐτῷ."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "36.26",
+    "form": "δανείζει",
+    "postag": "v3spia---",
+    "sentence": "ὅλην τὴν ἡμέραν ἐλεεῖ καὶ δανείζει ὁ δίκαιος, καὶ τὸ σπέρμα αὐτοῦ εἰς εὐλογίαν ἔσται."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "4   δανίζω    (late form of cl. -είζω, Rec., Bl., § 3; Thackeray, Gr., 85 f.)    [in LXX chiefly for לוה (Pr 19:17) ;]     to lend money on interest: Lk 6:34, 35; mid., to borrow: Mt 5:42.†   SYN.: κίχρημι (v.s. χράω), to lend in a friendly way."
+}

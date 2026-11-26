@@ -1,0 +1,106 @@
+{
+ "strong": "G3785",
+ "lemma": "ὄφελον",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 4:8",
+   "form": "ὄφελόν",
+   "morph": "V-2AAI-1S",
+   "gloss_en": "wish",
+   "gloss_ja": "〜ならよかった",
+   "verse": "Ἤδη κεκορεσμένοι ἐστέ, ἤδη ἐπλουτήσατε, χωρὶς ἡμῶν ἐβασιλεύσατε· καὶ ὄφελόν γε ἐβασιλεύσατε, ἵνα καὶ ἡμεῖς ὑμῖν συμβασιλεύσωμεν."
+  },
+  {
+   "ref": "2CO 11:1",
+   "form": "Ὄφελον",
+   "morph": "V-2AAI-1S",
+   "gloss_en": "wish",
+   "gloss_ja": "〜ならよかった",
+   "verse": "Ὄφελον ἀνείχεσθέ μου μικρόν τι ἀφροσύνης· ἀλλὰ καὶ ἀνέχεσθέ μου."
+  },
+  {
+   "ref": "GAL 5:12",
+   "form": "ὄφελον",
+   "morph": "V-2AAI-1S",
+   "gloss_en": "wish",
+   "gloss_ja": "〜ならよかった",
+   "verse": "ὄφελον καὶ ἀποκόψονται οἱ ἀναστατοῦντες ὑμᾶς."
+  },
+  {
+   "ref": "REV 3:15",
+   "form": "ὄφελον",
+   "morph": "V-2AAI-1S",
+   "gloss_en": "wish",
+   "gloss_ja": "〜ならよかった",
+   "verse": "Οἶδά σου τὰ ἔργα, ὅτι οὔτε ψυχρὸς εἶ οὔτε ζεστός. ὄφελον ψυχρὸς ἦς ἢ ζεστός."
+  }
+ ],
+ "lxx": {
+  "total": 4,
+  "works": {
+   "Exodus": 1,
+   "Numeri": 2,
+   "Psalmi": 1
+  },
+  "representatives": [
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "20.3",
+    "form": "ὄφελον",
+    "postag": "i--------",
+    "sentence": "ὄφελον ἀπεθάνομεν ἐν τῇ ἀπωλείᾳ τῶν ἀδελφῶν ἡμῶν ἔναντι Κυρίου ·"
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "16.3",
+    "form": "ὄφελον",
+    "postag": "i--------",
+    "sentence": "ὄφελον ἀπεθάνομεν πληγέντες ὑπὸ Κυρίου ἐν γῇ Αἰγύπτῳ, ὅταν ἐκαθίσαμεν ἐπὶ τῶν λεβήτων τῶν κρεῶν καὶ ἠσθίομεν ἄρτους εἰς πλησμονήν ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "118.5",
+    "form": "ὄφελον",
+    "postag": "i--------",
+    "sentence": "ὄφελον κατευθυνθείησαν αἱ ὁδοί μου τοῦ φυλάξασθαι τὰ δικαιώματά σου."
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "14.2",
+    "form": "ὄφελον",
+    "postag": "i--------",
+    "sentence": "ὄφελον ἀπεθάνομεν ἐν τῇ Αἰγύπτῳ, ἢ ἐν τῇ ἐρήμῳ ταύτῃ εἰ ἀπεθάνομεν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Ignatius, Letters": 1
+  },
+  "representatives": [
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "6.12.1",
+    "form": "ὄφελον",
+    "postag": "i--------",
+    "sentence": "καὶ ὄφελον πάντες αὐτὸν ἐμιμοῦντο, ὄντα ἐξεμπλάριον θεοῦ διακονίας."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "4   ὄφελον, 2 aor. of ὀφείλω, without the augment (v. M, Pr., 201n), used to express a fruitless wish;    [in LXX (with aor. indic.): Ex 16:3 (מִי־יִתֵּן), Nu 14:3 (2) 20:3 (לוּא), Ps 118 (119):5 (אַחֲלֵי), etc.;]     in cl. with an infin. (chiefly poët.),     would that: with indic. aor., I Co 4:8; impf., II Co 11:1, Re 3:15; fut., Ga 5:12 (a practicable wish, v. Bl., 206 f., 220. The construction with indic. is only found in late writers.)†"
+}

@@ -1,0 +1,75 @@
+{
+ "strong": "G352",
+ "lemma": "ἀνακύπτω",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JHN 8:7",
+   "form": "ἀνακύψας",
+   "morph": "V-AAP-NSM",
+   "gloss_en": "he stood up",
+   "gloss_ja": "身を起こす",
+   "verse": "ὡς δὲ ἐπέμενον ἐρωτῶντες αὐτόν, ἀνακύψας εἶπεν πρὸς αὐτούς Ὁ ἀναμάρτητος ὑμῶν πρῶτον ἐπ᾿ αὐτὴν τὸν λίθον βαλέτω"
+  },
+  {
+   "ref": "JHN 8:10",
+   "form": "ἀνακύψας",
+   "morph": "V-AAP-NSM",
+   "gloss_en": "straightened up",
+   "gloss_ja": "身を起こす",
+   "verse": "ἀνακύψας δὲ ὁ Ἰησοῦς καὶ μηδένα θεασάμενος πλὴν τὴς γυναικός εἶπεν αὐτῇ, ποῦ εἰσιν;; ἐκεῖνοι οἱ κατήγοροί σου οὐδείς σε κατέκρινεν;"
+  },
+  {
+   "ref": "LUK 13:11",
+   "form": "ἀνακύψαι",
+   "morph": "V-AAN",
+   "gloss_en": "straighten up",
+   "gloss_ja": "身を起こす",
+   "verse": "καὶ ἰδοὺ γυνὴ πνεῦμα ἔχουσα ἀσθενείας ἔτη δεκαοκτώ, καὶ ἦν συγκύπτουσα καὶ μὴ δυναμένη ἀνακύψαι εἰς τὸ παντελές."
+  },
+  {
+   "ref": "LUK 21:28",
+   "form": "ἀνακύψατε",
+   "morph": "V-AAM-2P",
+   "gloss_en": "stand up",
+   "gloss_ja": "身を起こす",
+   "verse": "ἀρχομένων δὲ τούτων γίνεσθαι ἀνακύψατε καὶ ἐπάρατε τὰς κεφαλὰς ὑμῶν, διότι ἐγγίζει ἡ ἀπολύτρωσις ὑμῶν."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Job": 1,
+   "Susanna": 1
+  },
+  "representatives": [
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "10.15",
+    "form": "ἀνακύψαι",
+    "postag": "v--ana---",
+    "sentence": "ἐὰν δὲ ὦ δίκαιος, οὐ δύναμαι ἀνακύψαι, πλήρης γὰρ ἀτιμίας εἰμί."
+   },
+   {
+    "work_code": "SUS",
+    "work_ja": "スザンナ（Th）",
+    "work_src": "Susanna",
+    "ref": "42",
+    "form": "ἀνακύψασα",
+    "postag": "v-sapafn-",
+    "sentence": "καὶ ἀνακύψασα ἔκλαυσεν ἐν ἑαυτῇ λέγουσα ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "4 ἀνα-κύπτω    [in LXX: Jb 10:15 (נָשָׂא רֹאשׁ), Da LXX, Su 1:35*;]      to lift oneself up;     bodily; Lk 13:11, Jo 8:7, 10;      mentally, to be elated: Lk 21:28 (cf. MM, VGT, s.v.).†"
+}

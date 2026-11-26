@@ -1,0 +1,103 @@
+{
+ "strong": "G2220",
+ "lemma": "ζυμόω",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 5:6",
+   "form": "ζυμοῖ",
+   "morph": "V-PAI-3S",
+   "gloss_en": "leavens",
+   "gloss_ja": "発酵させる",
+   "verse": "Οὐ καλὸν τὸ καύχημα ὑμῶν. οὐκ οἴδατε ὅτι μικρὰ ζύμη ὅλον τὸ φύραμα ζυμοῖ;"
+  },
+  {
+   "ref": "GAL 5:9",
+   "form": "ζυμοῖ",
+   "morph": "V-PAI-3S",
+   "gloss_en": "leavens",
+   "gloss_ja": "発酵させる",
+   "verse": "μικρὰ ζύμη ὅλον τὸ φύραμα ζυμοῖ."
+  },
+  {
+   "ref": "LUK 13:21",
+   "form": "ἐζυμώθη",
+   "morph": "V-API-3S",
+   "gloss_en": "leavened",
+   "gloss_ja": "発酵させる",
+   "verse": "ὁμοία ἐστὶν ζύμῃ, ἣν λαβοῦσα γυνὴ ἔκρυψεν εἰς ἀλεύρου σάτα τρία ἕως οὗ ἐζυμώθη ὅλον."
+  },
+  {
+   "ref": "MAT 13:33",
+   "form": "ἐζυμώθη",
+   "morph": "V-API-3S",
+   "gloss_en": "leavened",
+   "gloss_ja": "発酵させる",
+   "verse": "Ἄλλην παραβολὴν ἐλάλησεν αὐτοῖς· Ὁμοία ἐστὶν ἡ βασιλεία τῶν οὐρανῶν ζύμῃ, ἣν λαβοῦσα γυνὴ ἐνέκρυψεν εἰς ἀλεύρου σάτα τρία ἕως οὗ ἐζυμώθη ὅλον."
+  }
+ ],
+ "lxx": {
+  "total": 5,
+  "works": {
+   "Exodus": 2,
+   "Leviticus": 2,
+   "Osee": 1
+  },
+  "representatives": [
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "12.34",
+    "form": "ζυμωθῆναι",
+    "postag": "v--anp---",
+    "sentence": "ἀνέλαβε δὲ ὁ λαὸς τὸ σταῖς αὐτῶν πρὸ τοῦ ζυμωθῆναι τὰ φυράματα αὐτῶν ἐνδεδεμένα ἐν τοῖς ἱματίοις αὐτῶν ἐπὶ τῶν ὤμων."
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "23.17",
+    "form": "ἐζυμωμένοι",
+    "postag": "v-prpmmn-",
+    "sentence": "ἐκ δύο δεκάτων σεμιδάλεως ἔσονται, ἐζυμωμένοι πεφθήσονται πρωτογεννημάτων τῷ Κυρίῳ."
+   },
+   {
+    "work_code": "HOS",
+    "work_ja": "ホセア書",
+    "work_src": "Osee",
+    "ref": "7.4",
+    "form": "ζυμωθῆναι",
+    "postag": "v--anp---",
+    "sentence": "πάντες μοιχεύοντες, ὡς κλίβανος καιόμενος εἰς πέψιν κατακαύματος ἀπὸ τῆς φλογός, ἀπὸ φυράσεως στέατος ἕως τοῦ ζυμωθῆναι αὐτό."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "12.39",
+    "form": "ἐζυμώθη",
+    "postag": "v3saip---",
+    "sentence": "οὐ γὰρ ἐζυμώθη ·"
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "6.10",
+    "form": "ἐζυμωμένη",
+    "postag": "v-srpmfn-",
+    "sentence": "οὐ πεφθήσεται ἐζυμωμένη ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "4   ζυμόω, -ῶ    (< ζύμη),   [in LXX for חָמֵץ, Ex 12:34, 39, Le 6:17(10) 23:17, Ho 7:4*;]    to leaven: Mt 13:33, Lk 13:21, I Co 5:6, Ga 5:9.†"
+}

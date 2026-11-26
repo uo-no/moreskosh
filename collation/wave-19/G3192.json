@@ -1,0 +1,261 @@
+{
+ "strong": "G3192",
+ "lemma": "μέλι",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MAT 3:4",
+   "form": "μέλι",
+   "morph": "N-NSN",
+   "gloss_en": "honey",
+   "gloss_ja": "蜂蜜",
+   "verse": "αὐτὸς δὲ ὁ Ἰωάννης εἶχεν τὸ ἔνδυμα αὐτοῦ ἀπὸ τριχῶν καμήλου καὶ ζώνην δερματίνην περὶ τὴν ὀσφὺν αὐτοῦ, ἡ δὲ τροφὴ ἦν αὐτοῦ ἀκρίδες καὶ μέλι ἄγριον."
+  },
+  {
+   "ref": "MRK 1:6",
+   "form": "μέλι",
+   "morph": "N-ASN",
+   "gloss_en": "honey",
+   "gloss_ja": "蜂蜜",
+   "verse": "καὶ ἦν ὁ Ἰωάννης ἐνδεδυμένος τρίχας καμήλου καὶ ζώνην δερματίνην περὶ τὴν ὀσφὺν αὐτοῦ, καὶ ἔσθων ἀκρίδας καὶ μέλι ἄγριον."
+  },
+  {
+   "ref": "REV 10:9",
+   "form": "μέλι",
+   "morph": "N-NSN",
+   "gloss_en": "honey",
+   "gloss_ja": "蜂蜜",
+   "verse": "καὶ ἀπῆλθα πρὸς τὸν ἄγγελον λέγων αὐτῷ δοῦναί μοι τὸ βιβλαρίδιον. καὶ λέγει μοι· Λάβε καὶ κατάφαγε αὐτό, καὶ πικρανεῖ σου τὴν κοιλίαν, ἀλλ’ ἐν τῷ στόματί σου ἔσται γλυκὺ ὡς μέλι."
+  },
+  {
+   "ref": "REV 10:10",
+   "form": "μέλι",
+   "morph": "N-NSN",
+   "gloss_en": "honey",
+   "gloss_ja": "蜂蜜",
+   "verse": "καὶ ἔλαβον τὸ βιβλαρίδιον ἐκ τῆς χειρὸς τοῦ ἀγγέλου καὶ κατέφαγον αὐτό, καὶ ἦν ἐν τῷ στόματί μου ὡς μέλι γλυκύ· καὶ ὅτε ἔφαγον αὐτό, ἐπικράνθη ἡ κοιλία μου."
+  }
+ ],
+ "lxx": {
+  "total": 65,
+  "works": {
+   "Genesis": 1,
+   "Exodus": 5,
+   "Leviticus": 2,
+   "Numeri": 4,
+   "Deuteronomium": 9,
+   "Josue": 1,
+   "Judices": 3,
+   "Regnorum i": 3,
+   "Regnorum ii": 1,
+   "Regnorum iii": 4,
+   "Regnorum iv": 1,
+   "Paralipomenon ii sive Chronicon ii": 1,
+   "Psalmi": 3,
+   "Odae": 1,
+   "Proverbia": 5,
+   "Canticum": 2,
+   "Job": 1,
+   "Ecclesiasticus sive Siracides": 6,
+   "Isaias": 2,
+   "Jeremias": 3,
+   "Baruch": 1,
+   "Ezechiel": 6
+  },
+  "representatives": [
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "8.8",
+    "form": "μέλιτος",
+    "postag": "n-s---ng-",
+    "sentence": "γῆ πυροῦ καὶ κριθῆς, ἄμπελοι, συκαῖ, ροαί, γῆ ἐλαίας ἐλαίου καὶ μέλιτος ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "40.21",
+    "form": "μέλι",
+    "postag": "n-s---na-",
+    "sentence": "αὐλὸς καὶ ψαλτήριον ἡδύνουσι μέλι, καὶ ὑπὲρ ἀμφότερα γλῶσσα ἡδεῖα."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "16.13",
+    "form": "μέλι",
+    "postag": "n-s---na-",
+    "sentence": "σεμίδαλιν καὶ ἔλαιον καὶ μέλι ἔφαγες καὶ ἐγένου καλή σφόδρα."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "16.31",
+    "form": "μέλιτι",
+    "postag": "n-s---nd-",
+    "sentence": "ἦν δὲ ὡσεὶ σπέρμα κορίου λευκόν, τὸ δὲ γεῦμα αὐτοῦ ὡς ἐγκρὶς ἐν μέλιτι."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "25.16",
+    "form": "μέλι",
+    "postag": "n-s---na-",
+    "sentence": "μέλι εὑρὼν φάγε τὸ ἱκανόν, μήποτε πλησθεὶς ἐξεμέσῃς."
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "13.28",
+    "form": "μέλι",
+    "postag": "n-s---na-",
+    "sentence": "ἤλθαμεν εἰς τὴν γῆν, εἰς ἣν ἀπέστειλας ἡμᾶς, γῆν ρέουσαν γάλα καὶ μέλι, καὶ οὗτος ὁ καρπὸς αὐτῆς ·"
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "12.24λ",
+    "form": "μέλιτος",
+    "postag": "n-s---ng-",
+    "sentence": "ἱνατί ἐνήνοχάς μοι ἄρτους καὶ σταφυλὴν καὶ κολλύρια καὶ στάμνον μέλιτος;"
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "14.18",
+    "form": "μέλιτος",
+    "postag": "n-s---ng-",
+    "sentence": "τί γλυκύτερον μέλιτος, καὶ τί ἰσχυρότερον λέοντος;"
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "14.29",
+    "form": "μέλιτος",
+    "postag": "n-s---ng-",
+    "sentence": "ἰδὲ δὴ ὅτι εἶδον οἱ ὀφθαλμοί μου ὅτι ἐγευσάμην βραχύ τι τοῦ μέλιτος τούτου ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "118.103",
+    "form": "μέλι",
+    "postag": "n-s---na-",
+    "sentence": "ὡς γλυκέα τῷ λάρυγγί μου τὰ λόγιά σου, ὑπὲρ μέλι τῷ στόματί μου."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "48.8",
+    "form": "μέλι",
+    "postag": "n-s---nn-",
+    "sentence": "μὴ ἀνέλῃς ἡμᾶς, ὅτι εἰσὶν ἡμῖν θησαυροὶ ἐν ἀγρῷ, πυροὶ καὶ κριθαί, μέλι καὶ ἔλαιον ·"
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "2.11",
+    "form": "μέλι",
+    "postag": "n-s---na-",
+    "sentence": "πᾶσαν γὰρ ζύμην καὶ πᾶν μέλι οὐ προσοίσετε ἀπ’ αὐτοῦ, καρπῶσαι Κυρίῳ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 12,
+  "works": {
+   "Barnabas": 5,
+   "Hermas, Pastor": 7
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "10.1.6",
+    "form": "μέλι",
+    "postag": "n-s---na-",
+    "sentence": "βλέπεις ὅτι ἡ μακροθυμία γλυκυτάτη ἐστὶν ὑπὲρ τὸ μέλι καὶ εὔχρηστός ἐστι τῷ κυρίῳ, καὶ ἐν αὐτῇ κατοικεῖ."
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "6.17",
+    "form": "μέλιτι",
+    "postag": "n-s---nd-",
+    "sentence": "ὅτι πρῶτον τὸ παιδίον μέλιτι, εἶτα γάλακτι ζωοποιεῖται ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "10.1.5",
+    "form": "μέλιτος",
+    "postag": "n-s---ng-",
+    "sentence": "ἐὰν γὰρ λάβῃς ἀψινθίου μικρὸν λίαν καὶ εἰς κεράμιον μέλιτος ἐπιχέῃς, οὐχὶ ὅλον τὸ μέλι ἀφανίζεται, καὶ τοσοῦτον μέλι ὑπὸ τοῦ ἐλαχίστου ἀψινθίου ἀπόλλυται καὶ ἀπόλλυσι τὴν γλυκύτητα τοῦ μέλιτος, καὶ οὐκέτι τὴν αὐτὴν χάριν ἔχει παρὰ τῷ δεσπότῃ, ὅτι ἐπικράνθη καὶ τὴν χρῆσιν αὐτοῦ ἀπώλεσεν;"
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "6.17",
+    "form": "μέλι",
+    "postag": "n-s---nn-",
+    "sentence": "τί οὖν τὸ γάλα καὶ τὸ μέλι;"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "10.1.5",
+    "form": "μέλι",
+    "postag": "n-s---na-",
+    "sentence": "ἐὰν δὲ εἰς τὸ μέλι μὴ βληθῇ τὸ ἀψίνθιον, γλυκὺ εὑρίσκεται τὸ μέλι καὶ εὔχρηστον γίνεται τῷ δεσπότῃ αὐτοῦ."
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "6.10",
+    "form": "μέλι",
+    "postag": "n-s---na-",
+    "sentence": "εἰς τὴν γῆν τὴν ἀγαθήν, γῆν ῥέουσαν γάλα καὶ μέλι;"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "10.1.5",
+    "form": "μέλι",
+    "postag": "n-s---nn-",
+    "sentence": "ἐὰν δὲ εἰς τὸ μέλι μὴ βληθῇ τὸ ἀψίνθιον, γλυκὺ εὑρίσκεται τὸ μέλι καὶ εὔχρηστον γίνεται τῷ δεσπότῃ αὐτοῦ."
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "6.13",
+    "form": "μέλι",
+    "postag": "n-s---na-",
+    "sentence": "εἰσέλθατε εἰς γῆν ῥέουσαν γάλα καὶ μέλι καὶ κατακυριεύσατε αὐτῆς."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "4   μέλι, -τος, τό,    [in LXX freq. (Ge 43:11, al.) for דְּבַשׁ; for נֹפֶת, Pr 5:3;]    honey: Re 10:9, 10; ἄγριον (q.v.), Mt 3:4, Mk 1:9.†"
+}

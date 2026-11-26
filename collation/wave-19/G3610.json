@@ -1,0 +1,186 @@
+{
+ "strong": "G3610",
+ "lemma": "οἰκέτης",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1PE 2:18",
+   "form": "οἰκέται",
+   "morph": "N-NPM",
+   "gloss_en": "servants",
+   "gloss_ja": "奴隷",
+   "verse": "Οἱ οἰκέται ὑποτασσόμενοι ἐν παντὶ φόβῳ τοῖς δεσπόταις, οὐ μόνον τοῖς ἀγαθοῖς καὶ ἐπιεικέσιν ἀλλὰ καὶ τοῖς σκολιοῖς."
+  },
+  {
+   "ref": "ACT 10:7",
+   "form": "οἰκετῶν",
+   "morph": "N-GPM",
+   "gloss_en": "servants",
+   "gloss_ja": "奴隷",
+   "verse": "ὡς δὲ ἀπῆλθεν ὁ ἄγγελος ὁ λαλῶν αὐτῷ, φωνήσας δύο τῶν οἰκετῶν καὶ στρατιώτην εὐσεβῆ τῶν προσκαρτερούντων αὐτῷ"
+  },
+  {
+   "ref": "LUK 16:13",
+   "form": "οἰκέτης",
+   "morph": "N-NSM",
+   "gloss_en": "servant",
+   "gloss_ja": "奴隷",
+   "verse": "οὐδεὶς οἰκέτης δύναται δυσὶ κυρίοις δουλεύειν· ἢ γὰρ τὸν ἕνα μισήσει καὶ τὸν ἕτερον ἀγαπήσει, ἢ ἑνὸς ἀνθέξεται καὶ τοῦ ἑτέρου καταφρονήσει. οὐ δύνασθε θεῷ δουλεύειν καὶ μαμωνᾷ."
+  },
+  {
+   "ref": "ROM 14:4",
+   "form": "οἰκέτην",
+   "morph": "N-ASM",
+   "gloss_en": "servant",
+   "gloss_ja": "奴隷",
+   "verse": "σὺ τίς εἶ ὁ κρίνων ἀλλότριον οἰκέτην; τῷ ἰδίῳ κυρίῳ στήκει ἢ πίπτει· σταθήσεται δέ, δυνατεῖ γὰρ ὁ κύριος στῆσαι αὐτόν."
+  }
+ ],
+ "lxx": {
+  "total": 56,
+  "works": {
+   "Genesis": 4,
+   "Exodus": 6,
+   "Leviticus": 4,
+   "Numeri": 1,
+   "Deuteronomium": 9,
+   "Josue": 3,
+   "Esdras i": 2,
+   "Tobias": 5,
+   "Proverbia": 8,
+   "Ecclesiasticus sive Siracides": 13,
+   "Isaias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "19.21",
+    "form": "οἰκέτης",
+    "postag": "n-s---mn-",
+    "sentence": "οἰκέτης λέγων τῷ δεσπότῃ ·"
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "6.21",
+    "form": "οἰκέται",
+    "postag": "n-p---mn-",
+    "sentence": "οἰκέται ἦμεν τῷ Φαραὼ ἐν γῇ Αἰγύπτῳ, καὶ ἐξήγαγεν ἡμᾶς Κύριος ἐκεῖθεν ἐν χειρὶ κραταιᾷ καὶ ἐν βραχίονι ὑψηλῷ."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "30.10",
+    "form": "οἰκέτην",
+    "postag": "n-s---ma-",
+    "sentence": "μὴ παραδῷς οἰκέτην εἰς χεῖρας δεσπότου, μήποτε καταράσηταί σε καὶ ἀφανισθῇς."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "5.15",
+    "form": "οἰκέταις",
+    "postag": "n-p---md-",
+    "sentence": "ἱνατί σὺ οὕτως ποιεῖς τοῖς σοῖς οἰκέταις;"
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "8.10",
+    "form": "οἰκέτας",
+    "postag": "n-p---ma-",
+    "sentence": "καὶ ἀναστὰς Ῥαγουηλ ἐκάλεσεν τοὺς οἰκέτας μεθ’ ἑαυτοῦ, καὶ ᾤχοντο καὶ ὤρυξαν τάφον ·"
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "9.25",
+    "form": "οἰκέτης",
+    "postag": "n-s---mn-",
+    "sentence": "παῖς οἰκέτης ἔσται τοῖς ἀδελφοῖς αὐτοῦ."
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "25.42",
+    "form": "οἰκέτου",
+    "postag": "n-s---mg-",
+    "sentence": "οὐ πραθήσεται ἐν πράσει οἰκέτου."
+   },
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "5.14",
+    "form": "οἰκέτῃ",
+    "postag": "n-s---md-",
+    "sentence": "δέσποτα, τί προστάσσεις τῷ σῷ οἰκέτῃ;"
+   },
+   {
+    "work_code": "1ES",
+    "work_ja": "エズラ記（ギリシャ語）",
+    "work_src": "Esdras i",
+    "ref": "4.59",
+    "form": "οἰκέτης",
+    "postag": "n-s---mn-",
+    "sentence": "παρὰ σοῦ νίκη, καὶ παρὰ σοῦ ἡ σοφία, καὶ σὴ ἡ δόξα καὶ ἐγὼ σὸς οἰκέτης."
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "32.5",
+    "form": "οἰκέταις",
+    "postag": "n-p---md-",
+    "sentence": "εἰ εὕρομεν χάριν ἐνώπιόν σου, δοθήτω ἡ γῆ αὕτη τοῖς οἰκέταις σου ἐν κατασχέσει, καὶ μὴ διαβιβάσῃς ἡμᾶς τὸν Ἰορδάνην."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "36.9",
+    "form": "οἰκέται",
+    "postag": "n-p---mn-",
+    "sentence": "οἰκέται εἰσὶν οἱ πεποιθότες ἐπ’ Αἰγυπτίοις εἰς ἵππον καὶ ἀναβάτην."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "33.31",
+    "form": "οἰκέτης",
+    "postag": "n-s---mn-",
+    "sentence": "εἰ ἔστι σοι οἰκέτης, ἔστω ὡς σύ, ὅτι ἐν αἵματι ἐκτήσω αὐτόν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "2 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "6.1",
+    "form": "οἰκέτης",
+    "postag": "n-s---mn-",
+    "sentence": "οὐδεὶς οἰκέτης δύναται δυσὶ κυρίοις δουλεύειν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "4   οἰκέτης, -ου, ὁ    (< οἰκέω),   [in LXX for עֶבֶד;]    a house-servant: Lk 16:13, Ro 14:4; pl., Ac 10:7, I Pe 2:18. (In Plat., Hdt., Si 4:30 6:11, the pl. includes all the inmates of the house, the familia, οἰκετεία..)†   SYN.: v.s. διάκονος."
+}

@@ -1,0 +1,283 @@
+{
+ "strong": "G2467",
+ "lemma": "οἶδα",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 26:4",
+   "form": "ἴσασι",
+   "morph": "V-RAI-3P",
+   "gloss_en": "know",
+   "gloss_ja": "〜である",
+   "verse": "Τὴν μὲν οὖν βίωσίν μου τὴν ἐκ νεότητος τὴν ἀπ’ ἀρχῆς γενομένην ἐν τῷ ἔθνει μου ἔν τε Ἱεροσολύμοις ἴσασι πάντες Ἰουδαῖοι,"
+  },
+  {
+   "ref": "EPH 5:5",
+   "form": "ἴστε",
+   "morph": "V-RAM-2P",
+   "gloss_en": "know",
+   "gloss_ja": "〜である",
+   "verse": "τοῦτο γὰρ ἴστε γινώσκοντες ὅτι πᾶς πόρνος ἢ ἀκάθαρτος ἢ πλεονέκτης, ὅ ἐστιν εἰδωλολάτρης, οὐκ ἔχει κληρονομίαν ἐν τῇ βασιλείᾳ τοῦ Χριστοῦ καὶ θεοῦ."
+  },
+  {
+   "ref": "HEB 12:17",
+   "form": "ἴστε",
+   "morph": "V-RAI-2P",
+   "gloss_en": "know",
+   "gloss_ja": "〜である",
+   "verse": "ἴστε γὰρ ὅτι καὶ μετέπειτα θέλων κληρονομῆσαι τὴν εὐλογίαν ἀπεδοκιμάσθη, μετανοίας γὰρ τόπον οὐχ εὗρεν, καίπερ μετὰ δακρύων ἐκζητήσας αὐτήν."
+  },
+  {
+   "ref": "JAS 1:19",
+   "form": "Ἴστε",
+   "morph": "V-RAM-2P",
+   "gloss_en": "understand",
+   "gloss_ja": "〜である",
+   "verse": "Ἴστε, ἀδελφοί μου ἀγαπητοί. ἔστω δὲ πᾶς ἄνθρωπος ταχὺς εἰς τὸ ἀκοῦσαι, βραδὺς εἰς τὸ λαλῆσαι, βραδὺς εἰς ὀργήν,"
+  }
+ ],
+ "lxx": {
+  "total": 303,
+  "works": {
+   "Genesis": 17,
+   "Exodus": 19,
+   "Leviticus": 1,
+   "Numeri": 6,
+   "Deuteronomium": 22,
+   "Josue": 4,
+   "Judices": 2,
+   "Ruth": 2,
+   "Regnorum i": 15,
+   "Regnorum ii": 14,
+   "Regnorum iii": 12,
+   "Regnorum iv": 4,
+   "Paralipomenon i sive Chronicon i": 1,
+   "Paralipomenon ii sive Chronicon ii": 8,
+   "Esdras ii": 3,
+   "Esther": 4,
+   "Tobias": 4,
+   "Machabaeorum i": 6,
+   "Machabaeorum ii": 3,
+   "Machabaeorum iii": 1,
+   "Machabaeorum iv": 5,
+   "Odae": 4,
+   "Proverbia": 19,
+   "Ecclesiastes": 8,
+   "Job": 47,
+   "Sapientia Salomonis": 17,
+   "Ecclesiasticus sive Siracides": 8,
+   "Psalmi Salomonis": 2,
+   "Amos": 1,
+   "Joel": 1,
+   "Jonas": 1,
+   "Zacharias": 1,
+   "Isaias": 14,
+   "Jeremias": 12,
+   "Baruch": 1,
+   "Susanna": 6,
+   "Daniel": 7,
+   "Bel et Draco": 1
+  },
+  "representatives": [
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "10.7",
+    "form": "οἶδας",
+    "postag": "v2sria---",
+    "sentence": "οἶδας γὰρ ὅτι οὐκ ἠσέβησα ·"
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "11.28",
+    "form": "οἴδατε",
+    "postag": "v2pria---",
+    "sentence": "λατρεύειν θεοῖς ἑτέροις, οὓς οὐκ οἴδατε."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "16.15",
+    "form": "ᾔδεισαν",
+    "postag": "v3plia---",
+    "sentence": "οὐ γὰρ ᾔδεισαν, τί ἦν."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "4.19",
+    "form": "οἴδασι",
+    "postag": "v3pria---",
+    "sentence": "αἱ δὲ ὁδοὶ τῶν ἀσεβῶν σκοτειναί, οὐκ οἴδασι πῶς προσκόπτουσιν."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "43.6",
+    "form": "ᾔδειμεν",
+    "postag": "v1plia---",
+    "sentence": "μὴ ᾔδειμεν ὅτι ἐρεῖ ἡμῖν ·"
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "15.2",
+    "form": "εἰδότες",
+    "postag": "v-prpamn-",
+    "sentence": "οὐχ ἁμαρτησόμεθα δέ, εἰδότες ὅτι σοὶ λελογίσμεθα."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "17.55",
+    "form": "οἶδα",
+    "postag": "v1sria---",
+    "sentence": "ζῇ ἡ ψυχή σου, βασιλεῦ, εἰ οἶδα."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "11.22",
+    "form": "ᾔδειτε",
+    "postag": "v2plia---",
+    "sentence": "οὐκ ᾔδειτε ὅτι πληγήσεσθε ἀπὸ τοῦ τείχους;"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "59.8",
+    "form": "οἴδασιν",
+    "postag": "v3pria---",
+    "sentence": "αἱ γὰρ τρίβοι αὐτῶν διεστραμμέναι, ἃς διοδεύουσι, καὶ οὐκ οἴδασιν εἰρήνην."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "9.27",
+    "form": "εἰδότας",
+    "postag": "v-prpama-",
+    "sentence": "καὶ ἀπέστειλε Χιρὰμ ἐν τῇ νειὶ τῶν παίδων αὐτοῦ ἄνδρας ναυτικοὺς ἐλαύνειν εἰδότας θάλασσαν μετὰ τῶν παίδων Σαλωμών."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "9.6",
+    "form": "εἰδέναι",
+    "postag": "v--rna---",
+    "sentence": "οὐκ ἤθελον εἰδέναι με, φησὶ Κύριος."
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "20.12",
+    "form": "οἴδαμεν",
+    "postag": "v1pria---",
+    "sentence": "ὅτι οὐκ ἔστιν ἡμῖν ἰσχὺς τοῦ ἀντιστῆναι πρὸς τὸ πλῆθος τὸ πολὺ τοῦτο τὸ ἐλθὸν ἐφ’ ἡμᾶς, καὶ οὐκ οἴδαμεν τί ποιήσωμεν αὐτοῖς, ἀλλ’ ἢ ἐπὶ σοὶ οἱ ὀφθαλμοὶ ἡμῶν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 58,
+  "works": {
+   "Barnabas": 9,
+   "1 Clement": 5,
+   "2 Clement": 8,
+   "Didache": 3,
+   "To Diognetus": 2,
+   "Hermas, Pastor": 15,
+   "Ignatius, Letters": 12,
+   "Polycarp, To the Philippians": 4
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "17.5.3",
+    "form": "οἶδε",
+    "postag": "v3sria---",
+    "sentence": "οἶδε γάρ, ὅτι πλήρη εἰσί ·"
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "2.12.1",
+    "form": "οἶδα",
+    "postag": "v1sria---",
+    "sentence": "οἶδα ὅτι οὐ φυσιοῦσθε ·"
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "9.9",
+    "form": "οἶδεν",
+    "postag": "v3sria---",
+    "sentence": "οἶδεν ὁ τὴν ἔμφυτον δωρεὰν τῆς διδαχῆς αὐτοῦ θέμενος ἐν ἡμῖν."
+   },
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "9.9",
+    "form": "εἰδὼς",
+    "postag": "v-srpamn-",
+    "sentence": "προγνώστης γάρ ἐστιν τῶν πάντων καὶ εἰδὼς ἡμῶν τὰ ἐν καρδίᾳ."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "63.4",
+    "form": "εἰδῆτε",
+    "postag": "v2prsa---",
+    "sentence": "τοῦτο δὲ ἐποιήσαμεν, ἵνα εἰδῆτε."
+   },
+   {
+    "work_code": "PPH",
+    "work_ja": "ポリュカルポスのピリピ書簡",
+    "work_src": "Polycarp, To the Philippians",
+    "ref": "5.1",
+    "form": "εἰδότες",
+    "postag": "v-prpamn-",
+    "sentence": "εἰδότες, οὖν, ὅτι θεὸς οὐ μυκτηρίζεται, ὀφείλομεν ἀξίως τῆς ἐντολῆς αὐτοῦ καὶ δόξης περιπατεῖν."
+   },
+   {
+    "work_code": "DID",
+    "work_ja": "ディダケー",
+    "work_src": "Didache",
+    "ref": "16.1",
+    "form": "οἴδατε",
+    "postag": "v2pria---",
+    "sentence": "οὐ γὰρ οἴδατε τὴν ὤραν, ἐν ᾗ ὁ κύριος ἡμῶν ἔρχεται."
+   },
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "12",
+    "form": "εἰδέναι",
+    "postag": "v--rna---",
+    "sentence": "ὁ γὰρ νομίζων εἰδέναι τι ἄνευ γνώσεως ἀληθοῦς καὶ μαρτυρουμένης ὑπὸ τῆς ζωῆς, οὐκ ἔγνω, ὑπὸ τοῦ ὄφεως πλανᾶται, μὴ ἀγαπήσας τὸ ζῆν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": null
+}

@@ -1,0 +1,175 @@
+{
+ "strong": "G3163",
+ "lemma": "μάχη",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2CO 7:5",
+   "form": "μάχαι",
+   "morph": "N-NPF",
+   "gloss_en": "conflicts",
+   "gloss_ja": "争い",
+   "verse": "Καὶ γὰρ ἐλθόντων ἡμῶν εἰς Μακεδονίαν οὐδεμίαν ἔσχηκεν ἄνεσιν ἡ σὰρξ ἡμῶν, ἀλλ’ ἐν παντὶ θλιβόμενοι ἔξωθεν μάχαι, ἔσωθεν φόβοι"
+  },
+  {
+   "ref": "2TI 2:23",
+   "form": "μάχας",
+   "morph": "N-APF",
+   "gloss_en": "quarrels",
+   "gloss_ja": "争い",
+   "verse": "τὰς δὲ μωρὰς καὶ ἀπαιδεύτους ζητήσεις παραιτοῦ, εἰδὼς ὅτι γεννῶσι μάχας·"
+  },
+  {
+   "ref": "JAS 4:1",
+   "form": "μάχαι",
+   "morph": "N-NPF",
+   "gloss_en": "fights",
+   "gloss_ja": "争い",
+   "verse": "Πόθεν πόλεμοι καὶ πόθεν μάχαι ἐν ὑμῖν; οὐκ ἐντεῦθεν, ἐκ τῶν ἡδονῶν ὑμῶν τῶν στρατευομένων ἐν τοῖς μέλεσιν ὑμῶν;"
+  },
+  {
+   "ref": "TIT 3:9",
+   "form": "μάχας",
+   "morph": "N-APF",
+   "gloss_en": "quarrels",
+   "gloss_ja": "争い",
+   "verse": "μωρὰς δὲ ζητήσεις καὶ γενεαλογίας καὶ ἔρεις καὶ μάχας νομικὰς περιΐστασο, εἰσὶν γὰρ ἀνωφελεῖς καὶ μάταιοι."
+  }
+ ],
+ "lxx": {
+  "total": 31,
+  "works": {
+   "Genesis": 2,
+   "Josue": 1,
+   "Judices": 1,
+   "Regnorum ii": 1,
+   "Esdras i": 1,
+   "Machabaeorum i": 2,
+   "Machabaeorum ii": 2,
+   "Machabaeorum iii": 1,
+   "Proverbia": 9,
+   "Job": 1,
+   "Ecclesiasticus sive Siracides": 9,
+   "Isaias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "30b.33",
+    "form": "μάχαι",
+    "postag": "n-p---fn-",
+    "sentence": "ἐὰν δὲ ἐξέλκῃς λόγους, ἐξελεύσονται κρίσεις καὶ μάχαι."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "28.8",
+    "form": "μάχης",
+    "postag": "n-s---fg-",
+    "sentence": "ἀπόσχου ἀπὸ μάχης, καὶ ἐλαττώσεις ἁμαρτίας ·"
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "13.8",
+    "form": "μάχη",
+    "postag": "n-s---fn-",
+    "sentence": "μὴ ἔστω μάχη ἀνὰ μέσον ἐμοῦ καὶ σοῦ καὶ ἀνὰ μέσον τῶν ποιμένων μου καὶ ἀνὰ μέσον τῶν ποιμένων σου ·"
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "7.28",
+    "form": "μάχην",
+    "postag": "n-s---fa-",
+    "sentence": "μὴ ἔστω μάχην ἀναμέσον ἐμοῦ καὶ ὑμῶν ·"
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "12.11",
+    "form": "μάχης",
+    "postag": "n-s---fg-",
+    "sentence": "γενομένης δὲ καρτερᾶς μάχης καὶ τῶν περὶ τὸν Ἰούδαν διὰ τὴν παρὰ τοῦ Θεοῦ βοήθειαν εὐημερησάντων, ἐλαττωθέντες οἱ νομάδες Ἄραβες ἠξίουν δοῦναι τὸν Ἰούδαν δεξιὰν αὐτοῖς, ὑπισχνούμενοι καὶ βοσκήματα δώσειν καὶ ἐν τοῖς λοιποῖς ὠφελήσειν αὐτούς."
+   },
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "4.13",
+    "form": "μάχην",
+    "postag": "n-s---fa-",
+    "sentence": "τετρακισμύριοι εὔζωνοι εἰς μάχην διέβησαν ἐναντίον Κυρίου εἰς πόλεμον πρὸς τὴν Ἱεριχὼ πόλιν."
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "20.38",
+    "form": "μάχης",
+    "postag": "n-s---fg-",
+    "sentence": "καὶ σημεῖον ἦν τοῖς υἱοῖς Ἰσραὴλ μετὰ τοῦ ἐνέδρου τῆς μάχης ἀνενέγκαι αὐτοὺς σύσσημον καπνοῦ ἀπὸ τῆς πόλεως."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "22.44",
+    "form": "μάχης",
+    "postag": "n-s---fg-",
+    "sentence": "καὶ ρύσῃ με ἐκ μάχης λαῶν, φυλάξεις με εἰς κεφαλὴν ἐθνῶν."
+   },
+   {
+    "work_code": "1ES",
+    "work_ja": "エズラ記（ギリシャ語）",
+    "work_src": "Esdras i",
+    "ref": "1.28",
+    "form": "μάχης",
+    "postag": "n-s---fg-",
+    "sentence": "ἀποστήσατέ με ἀπὸ τῆς μάχης, ἠσθένησα γὰρ λίαν."
+   },
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "1.4",
+    "form": "μάχης",
+    "postag": "n-s---fg-",
+    "sentence": "γενομένης δὲ καρτερᾶς μάχης καὶ τῶν πραγμάτων μᾶλλον ἐρρωμένων τῷ Ἀντιόχῳ, ἱκανῶς ἡ Ἀρσινόη ἐπιπορευσαμένη τὰς δυνάμεις παρεκάλει, μετὰ οἴκτου καὶ δακρύων τοὺς πλοκάμους λελυμένη, βοηθεῖν ἑαυτοῖς τε καὶ τοῖς τέκνοις καὶ γυναιξὶ θαρραλέως, ἐπαγγελλομένη δώσειν νικήσασιν ἑκάστῳ δύο μνᾶς χρυσίου."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "38.23",
+    "form": "μάχης",
+    "postag": "n-s---fg-",
+    "sentence": "ἀπόκειται δέ σοι εἰς ὥραν ἐχθρῶν εἰς ἡμέραν πολέμων καὶ μάχης;"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "58.4",
+    "form": "μάχας",
+    "postag": "n-p---fa-",
+    "sentence": "εἰ εἰς κρίσεις καὶ μάχας νηστεύετε καὶ τύπτετε πυγμαῖς ταπεινόν, ἱνατί μοι νηστεύετε ὡς σήμερον, ἀκουσθῆναι ἐν κραυγῇ τὴν φωνὴν ὑμῶν;"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "4   μάχη, -ης, ἡ    (< μάχομαι),   [in LXX chiefly for רִיב;]      a fight.     a strife, contention, quarrel: II Co 7:5, II Ti 2:23, Ja 4:1; pl., Tit 3:9.†"
+}

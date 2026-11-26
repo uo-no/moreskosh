@@ -1,0 +1,85 @@
+{
+ "strong": "G2019",
+ "lemma": "ἐπιφωνέω",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 12:22",
+   "form": "ἐπεφώνει",
+   "morph": "V-IAI-3S",
+   "gloss_en": "shouting",
+   "gloss_ja": "叫ぶ",
+   "verse": "ὁ δὲ δῆμος ἐπεφώνει· Θεοῦ φωνὴ καὶ οὐκ ἀνθρώπου."
+  },
+  {
+   "ref": "ACT 22:24",
+   "form": "ἐπεφώνουν",
+   "morph": "V-IAI-3P",
+   "gloss_en": "shouting",
+   "gloss_ja": "叫ぶ",
+   "verse": "ἐκέλευσεν ὁ χιλίαρχος εἰσάγεσθαι αὐτὸν εἰς τὴν παρεμβολήν, εἴπας μάστιξιν ἀνετάζεσθαι αὐτὸν ἵνα ἐπιγνῷ δι’ ἣν αἰτίαν οὕτως ἐπεφώνουν αὐτῷ."
+  },
+  {
+   "ref": "ACT 21:34",
+   "form": "ἐπεφώνουν",
+   "morph": "V-IAI-3P",
+   "gloss_en": "shouting",
+   "gloss_ja": "叫ぶ",
+   "verse": "ἄλλοι δὲ ἄλλο τι ἐπεφώνουν ἐν τῷ ὄχλῳ· μὴ δυναμένου δὲ αὐτοῦ γνῶναι τὸ ἀσφαλὲς διὰ τὸν θόρυβον ἐκέλευσεν ἄγεσθαι αὐτὸν εἰς τὴν παρεμβολήν."
+  },
+  {
+   "ref": "LUK 23:21",
+   "form": "ἐπεφώνουν",
+   "morph": "V-IAI-3P",
+   "gloss_en": "shouting",
+   "gloss_ja": "叫ぶ",
+   "verse": "οἱ δὲ ἐπεφώνουν λέγοντες· Σταύρου σταύρου αὐτόν."
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Esdras i": 1,
+   "Machabaeorum ii": 1,
+   "Machabaeorum iii": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1ES",
+    "work_ja": "エズラ記（ギリシャ語）",
+    "work_src": "Esdras i",
+    "ref": "9.47",
+    "form": "ἐπεφώνησε",
+    "postag": "v3saia---",
+    "sentence": "καὶ εὐλόγησεν Ἔσδρας τῷ Κυρίῳ Θεῷ Ὑψίστῳ Θεῷ Σαβαὼθ παντοκράτορι, καὶ ἐπεφώνησε πᾶν τὸ πλῆθος ἀμήν."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "1.23",
+    "form": "ἐπιφωνούντων",
+    "postag": "v-pppamg-",
+    "sentence": "προσευχὴν δὲ ἐποιήσαντο οἱ ἱερεῖς δαπανωμένης τῆς θυσίας, οἵ τε ἱερεῖς καὶ πάντες, καταρχομένου Ἰωνάθου, τῶν δὲ λοιπῶν ἐπιφωνούντων ὡς Νεεμίου."
+   },
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "7.13",
+    "form": "ἐπιφωνήσαντες",
+    "postag": "v-papamn-",
+    "sentence": "τότε κατευφημήσαντες αὐτόν, ὡς πρέπον ἦν, οἱ τούτων ἱερεῖς καὶ πᾶν τὸ πλῆθος ἐπιφωνήσαντες τὸ ἀλληλούϊα, μετὰ χαρᾶς ἀνέλυσαν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "4   ** ἐπι-φωνέω, -ῶ     [in LXX: I Es 9:47 AR, II Mac 1:23, III Mac 7:13 * ;]     to call out, shout: c. acc rei, Ac 21:34; c. dat. pers., ib. 22:24; seq. λέγοντες, Lk 23:21; orat. rect., Ac 12:22.†"
+}

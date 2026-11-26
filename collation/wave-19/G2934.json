@@ -1,0 +1,236 @@
+{
+ "strong": "G2934",
+ "lemma": "κτῆνος",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 15:39",
+   "form": "κτηνῶν",
+   "morph": "N-GPN",
+   "gloss_en": "animals",
+   "gloss_ja": "家畜",
+   "verse": "οὐ πᾶσα σὰρξ ἡ αὐτὴ σάρξ, ἀλλὰ ἄλλη μὲν ἀνθρώπων, ἄλλη δὲ σὰρξ κτηνῶν, ἄλλη δὲ σὰρξ πτηνῶν, ἄλλη δὲ ἰχθύων."
+  },
+  {
+   "ref": "ACT 23:24",
+   "form": "κτήνη",
+   "morph": "N-APN",
+   "gloss_en": "mounts",
+   "gloss_ja": "家畜",
+   "verse": "κτήνη τε παραστῆσαι ἵνα ἐπιβιβάσαντες τὸν Παῦλον διασώσωσι πρὸς Φήλικα τὸν ἡγεμόνα,"
+  },
+  {
+   "ref": "LUK 10:34",
+   "form": "κτῆνος",
+   "morph": "N-ASN",
+   "gloss_en": "animal",
+   "gloss_ja": "家畜",
+   "verse": "καὶ προσελθὼν κατέδησεν τὰ τραύματα αὐτοῦ ἐπιχέων ἔλαιον καὶ οἶνον, ἐπιβιβάσας δὲ αὐτὸν ἐπὶ τὸ ἴδιον κτῆνος ἤγαγεν αὐτὸν εἰς πανδοχεῖον καὶ ἐπεμελήθη αὐτοῦ."
+  },
+  {
+   "ref": "REV 18:13",
+   "form": "κτήνη",
+   "morph": "N-APN",
+   "gloss_en": "cattle",
+   "gloss_ja": "家畜",
+   "verse": "καὶ κιννάμωμον καὶ ἄμωμον καὶ θυμιάματα καὶ μύρον καὶ λίβανον καὶ οἶνον καὶ ἔλαιον καὶ σεμίδαλιν καὶ σῖτον καὶ κτήνη καὶ πρόβατα, καὶ ἵππων καὶ ῥεδῶν καὶ σωμάτων, καὶ ψυχὰς ἀνθρώπων."
+  }
+ ],
+ "lxx": {
+  "total": 258,
+  "works": {
+   "Genesis": 45,
+   "Exodus": 28,
+   "Leviticus": 26,
+   "Numeri": 27,
+   "Deuteronomium": 17,
+   "Josue": 7,
+   "Judices": 1,
+   "Regnorum i": 2,
+   "Regnorum iii": 1,
+   "Regnorum iv": 2,
+   "Paralipomenon i sive Chronicon i": 4,
+   "Paralipomenon ii sive Chronicon ii": 3,
+   "Esdras i": 5,
+   "Esdras ii": 7,
+   "Judith": 5,
+   "Tobias": 2,
+   "Machabaeorum i": 6,
+   "Psalmi": 12,
+   "Odae": 1,
+   "Proverbia": 3,
+   "Ecclesiastes": 4,
+   "Job": 4,
+   "Ecclesiasticus sive Siracides": 2,
+   "Michaeas": 1,
+   "Joel": 2,
+   "Jonas": 3,
+   "Sophonias": 1,
+   "Aggaeus": 1,
+   "Zacharias": 3,
+   "Isaias": 3,
+   "Jeremias": 14,
+   "Baruch": 1,
+   "Ezechiel": 14,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "29.7",
+    "form": "κτήνη",
+    "postag": "n-p---na-",
+    "sentence": "ἔτι ἐστὶν ἡμέρα πολλή, οὔπω ὥρα συναχθῆναι τὰ κτήνη ·"
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "19.13",
+    "form": "κτῆνος",
+    "postag": "n-s---nn-",
+    "sentence": "ἐάν τε κτῆνος ἐάν τε ἄνθρωπος, οὐ ζήσεται."
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "8.17",
+    "form": "κτήνους",
+    "postag": "n-s---ng-",
+    "sentence": "ὅτι ἐμοὶ πᾶν πρωτότοκον ἐν υἱοῖς Ἰσραὴλ ἀπὸ ἀνθρώπων ἕως κτήνους ·"
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "11.2",
+    "form": "κτηνῶν",
+    "postag": "n-p---ng-",
+    "sentence": "ταῦτα τὰ κτήνη, ἃ φάγεσθε ἀπὸ πάντων τῶν κτηνῶν τῶν ἐπὶ τῆς γῆς ·"
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "11.15",
+    "form": "κτήνεσί",
+    "postag": "n-p---nd-",
+    "sentence": "καὶ δώσει χορτάσματα ἐν τοῖς ἀγροῖς σου τοῖς κτήνεσί σου ·"
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "12.4",
+    "form": "κτήνη",
+    "postag": "n-p---nn-",
+    "sentence": "ἠφανίσθησαν κτήνη καὶ πετεινά, ὅτι εἶπαν ·"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "27.20",
+    "form": "κτηνῶν",
+    "postag": "n-p---ng-",
+    "sentence": "Δαιδὰν ἔμποροί σου μετὰ κτηνῶν ἐκλεκτῶν εἰς ἅρματα."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "48.13",
+    "form": "κτήνεσι",
+    "postag": "n-p---nd-",
+    "sentence": "καὶ ἄνθρωπος ἐν τιμῇ ὢν οὐ συνῆκε, παρασυνεβλήθη τοῖς κτήνεσι τοῖς ἀνοήτοις καὶ ὡμοιώθη αὐτοῖς."
+   },
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "21.2",
+    "form": "κτήνεσιν",
+    "postag": "n-p---nd-",
+    "sentence": "ἐνετείλατο Κύριος ἐν χειρὶ Μωυσῆ δοῦναι ἡμῖν πόλεις κατοικεῖν καὶ τὰ περισπόρια τοῖς κτήνεσιν ἡμῶν."
+   },
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "12.14",
+    "form": "κτήνει",
+    "postag": "n-s---nd-",
+    "sentence": "καὶ παρῆλθον ἐπὶ πύλην τοῦ Ἀΐν καὶ εἰς κολυμβήθραν τοῦ βασιλέως, καὶ οὐκ ἦν τόπος τῷ κτήνει παρελθεῖν ὑποκάτω μου."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "10.33",
+    "form": "κτηνῶν",
+    "postag": "n-p---ng-",
+    "sentence": "καὶ πάντες ἀφιέτωσαν τοὺς φόρους καὶ τῶν κτηνῶν αὐτῶν."
+   },
+   {
+    "work_code": "1ES",
+    "work_ja": "エズラ記（ギリシャ語）",
+    "work_src": "Esdras i",
+    "ref": "8.50",
+    "form": "κτήνεσιν",
+    "postag": "n-p---nd-",
+    "sentence": "καὶ εὐξάμην ἐκεῖ νηστείαν τοῖς νεανίσκοις ἔναντι Κυρίου ἡμῶν ζητῆσαι παρ’ αὐτοῦ εὐοδίαν ἡμῖν τε καὶ τοῖς συνοῦσιν ἡμῖν τέκνοις ἡμῶν καὶ κτήνεσιν ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 4,
+  "works": {
+   "Hermas, Pastor": 4
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "4.1.5",
+    "form": "κτήνη",
+    "postag": "n-p---na-",
+    "sentence": "μήποτε κτήνη ἔρχονται καὶ κονιορτὸν ἐγείρουσιν;"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.1.8",
+    "form": "κτηνῶν",
+    "postag": "n-p---ng-",
+    "sentence": "τὸ δὲ ἕβδομον ὄρος εἶχε βοτάνας ἱλαράς, καὶ ὅλον τὸ ὄρος εὐθηνοῦν ἦν, καὶ πᾶν γένος κτηνῶν καὶ ὀρνέων ἐνέμοντο εἰς τὸ ὄρος ἐκεῖνο ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.1.8",
+    "form": "κτήνη",
+    "postag": "n-p---nn-",
+    "sentence": "καὶ ὅσον ἐβόσκοντο τὰ κτήνη καὶ τὰ πετεινά, μᾶλλον καὶ μᾶλλον αἱ βοτάναι τοῦ ὄρους ἐκείνου ἔθαλλον."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.24.1",
+    "form": "κτηνῶν",
+    "postag": "n-p---ng-",
+    "sentence": "ἐκ δὲ τοῦ ἑβδόμου ὄρους, ἐν ᾧ βοτάναι χλωραὶ καὶ ἱλαραί, καὶ ὅλον τὸ ὄρος εὐθηνοῦν καὶ πᾶν γένος κτηνῶν καὶ τὰ πετεινὰ τοῦ οὐρανοῦ ἐνέμοντο τὰς βοτάνας ἐκ τούτῳ τῷ ὄρει, καὶ αἱ βοτάναι, ἃς ἐνέμοντο, μᾶλλον εὐθαλεῖς ἐγίνοντο, οἱ πιστεύσαντες τοιοῦτοί εἰσι."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "4   κτῆνος, -ους, τό    (< κτάομαι, hence primarily a possession),   [in LXX chiefly for בְּהֵמָה, Ge 1:25, al., also for מִקְנֶה, צֹנֵא, etc.;]    a beast, (in late Gk. esp.) a beast of burden: Lk 10:34 pl. (as chiefly in cl.), Ac 23:24, Re 18:13; of quadrupeds, as opp. to fishes and birds (cf. Ge 1:25), I Co 15:39.†"
+}

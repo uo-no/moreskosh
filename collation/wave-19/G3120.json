@@ -1,0 +1,96 @@
+{
+ "strong": "G3120",
+ "lemma": "μαλακός",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 6:9",
+   "form": "μαλακοὶ",
+   "morph": "A-NPM",
+   "gloss_en": "male prostitutes",
+   "gloss_ja": "柔らかい",
+   "verse": "Ἢ οὐκ οἴδατε ὅτι ἄδικοι θεοῦ βασιλείαν οὐ κληρονομήσουσιν; μὴ πλανᾶσθε· οὔτε πόρνοι οὔτε εἰδωλολάτραι οὔτε μοιχοὶ οὔτε μαλακοὶ οὔτε ἀρσενοκοῖται"
+  },
+  {
+   "ref": "LUK 7:25",
+   "form": "μαλακοῖς",
+   "morph": "A-DPN",
+   "gloss_en": "soft",
+   "gloss_ja": "柔らかい",
+   "verse": "ἀλλὰ τί ἐξήλθατε ἰδεῖν; ἄνθρωπον ἐν μαλακοῖς ἱματίοις ἠμφιεσμένον; ἰδοὺ οἱ ἐν ἱματισμῷ ἐνδόξῳ καὶ τρυφῇ ὑπάρχοντες ἐν τοῖς βασιλείοις εἰσίν."
+  },
+  {
+   "ref": "MAT 11:8",
+   "form": "μαλακοῖς",
+   "morph": "A-DPN",
+   "gloss_en": "soft",
+   "gloss_ja": "柔らかい",
+   "verse": "ἀλλὰ τί ἐξήλθατε ἰδεῖν; ἄνθρωπον ἐν μαλακοῖς ἠμφιεσμένον; ἰδοὺ οἱ τὰ μαλακὰ φοροῦντες ἐν τοῖς οἴκοις τῶν βασιλέων εἰσίν."
+  },
+  {
+   "ref": "MAT 11:8",
+   "form": "μαλακὰ",
+   "morph": "A-APN",
+   "gloss_en": "soft clothing",
+   "gloss_ja": "柔らかい",
+   "verse": "ἀλλὰ τί ἐξήλθατε ἰδεῖν; ἄνθρωπον ἐν μαλακοῖς ἠμφιεσμένον; ἰδοὺ οἱ τὰ μαλακὰ φοροῦντες ἐν τοῖς οἴκοις τῶν βασιλέων εἰσίν."
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Proverbia": 2,
+   "Job": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "25.15",
+    "form": "μαλακὴ",
+    "postag": "a-s---fn-",
+    "sentence": "ἐν μακροθυμίᾳ εὐοδία βασιλεῦσι, γλῶσσα δὲ μαλακὴ συντρίβει ὀστᾶ."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "40.27",
+    "form": "μαλακῶς",
+    "postag": "d--------",
+    "sentence": "λαλήσει δέ σοι δεήσει, ἱκετηρίᾳ μαλακῶς;"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "26.22",
+    "form": "μαλακοί",
+    "postag": "a-p---mn-",
+    "sentence": "λόγοι κερκώπων μαλακοί, οὗτοι δὲ τύπτουσιν εἰς ταμιεῖα σπλάγχνων."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Polycarp, To the Philippians": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PPH",
+    "work_ja": "ポリュカルポスのピリピ書簡",
+    "work_src": "Polycarp, To the Philippians",
+    "ref": "5.3",
+    "form": "μαλακοὶ",
+    "postag": "a-p---mn-",
+    "sentence": "καλὸν γὰρ τὸ ἀνακόπτεσθαι ἀπὸ τῶν ἐπιθυμιῶν ἐν τῷ κόσμῳ, ὅτι πᾶσα ἐπιθυμία κατὰ τοῦ πνεύματος στρατεύεται, καὶ οὔ-τε πόρνοι οὔ-τε μαλακοὶ οὔ-τε ἀρσενοκοῖται βασιλείαν θεοῦ κληρονομήσουσιν, οὔ-τε οἱ ποιοῦντες τὰ ἄτοπα."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "4   μαλακός, -ή, -όν,    [in LXX: Pr 25:15 (רַךְ) Pr 26:22 (כְּמִתְלַהֲמִים)*;]      soft;     prop., to the touch (opp. to σκληρός): of clothing, pl., Mt 11:8, Lk 7:25.     Of persons and their mode of living;     mild, gentle;       soft, effeminate: I Co 6:9 (prob. in obscene sense, cf. Deiss., LAE, 1504; MM, xvi; Zorell, s.v.).†"
+}

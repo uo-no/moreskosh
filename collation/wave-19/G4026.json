@@ -1,0 +1,127 @@
+{
+ "strong": "G4026",
+ "lemma": "περιΐστημι",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2TI 2:16",
+   "form": "περιΐστασο",
+   "morph": "V-PMM-2S",
+   "gloss_en": "avoid",
+   "gloss_ja": "避ける",
+   "verse": "τὰς δὲ βεβήλους κενοφωνίας περιΐστασο· ἐπὶ πλεῖον γὰρ προκόψουσιν ἀσεβείας,"
+  },
+  {
+   "ref": "ACT 25:7",
+   "form": "περιέστησαν",
+   "morph": "V-2AAI-3P",
+   "gloss_en": "stood around",
+   "gloss_ja": "避ける",
+   "verse": "παραγενομένου δὲ αὐτοῦ περιέστησαν αὐτὸν οἱ ἀπὸ Ἱεροσολύμων καταβεβηκότες Ἰουδαῖοι, πολλὰ καὶ βαρέα αἰτιώματα καταφέροντες ἃ οὐκ ἴσχυον ἀποδεῖξαι,"
+  },
+  {
+   "ref": "JHN 11:42",
+   "form": "περιεστῶτα",
+   "morph": "V-RAP-ASM",
+   "gloss_en": "standing around",
+   "gloss_ja": "避ける",
+   "verse": "ἐγὼ δὲ ᾔδειν ὅτι πάντοτέ μου ἀκούεις· ἀλλὰ διὰ τὸν ὄχλον τὸν περιεστῶτα εἶπον, ἵνα πιστεύσωσιν ὅτι σύ με ἀπέστειλας."
+  },
+  {
+   "ref": "TIT 3:9",
+   "form": "περιΐστασο",
+   "morph": "V-PMM-2S",
+   "gloss_en": "avoid",
+   "gloss_ja": "避ける",
+   "verse": "μωρὰς δὲ ζητήσεις καὶ γενεαλογίας καὶ ἔρεις καὶ μάχας νομικὰς περιΐστασο, εἰσὶν γὰρ ἀνωφελεῖς καὶ μάταιοι."
+  }
+ ],
+ "lxx": {
+  "total": 6,
+  "works": {
+   "Josue": 1,
+   "Regnorum i": 1,
+   "Regnorum ii": 1,
+   "Judith": 1,
+   "Machabaeorum ii": 1,
+   "Epistula Jeremiae": 1
+  },
+  "representatives": [
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "6.3",
+    "form": "περίστησον",
+    "postag": "v2sama---",
+    "sentence": "σὺ δὲ περίστησον αὐτῇ τοὺς μαχίμους κύκλῳ, καὶ ἔσται ὡς ἂν σαλπίσητε τῇ σάλπιγγι, ἀνακραγέτω πᾶς ὁ λαὸς ἅμα ·"
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "4.16",
+    "form": "περιεστηκόσιν",
+    "postag": "v-prpamd-",
+    "sentence": "καὶ εἶπεν Ἡλὶ τοῖς ἀνδράσι τοῖς περιεστηκόσιν αὐτῷ ·"
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "13.31",
+    "form": "περιεστῶτες",
+    "postag": "v-prpamn-",
+    "sentence": "καὶ ἀνέστη ὁ βασιλεὺς καὶ διέρρηξε τὰ ἱμάτια αὐτοῦ καὶ ἐκοιμήθη ἐπὶ τὴν γῆν, καὶ πάντες οἱ παῖδες αὐτοῦ οἱ περιεστῶτες αὐτῷ διέρρηξαν τὰ ἱμάτια αὐτῶν."
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "5.22",
+    "form": "περιεστώς",
+    "postag": "v-srpamn-",
+    "sentence": "καὶ ἐγένετο ὡς ἐπαύσατο Ἀχιὼρ λαλῶν τοὺς λόγους τούτους, καὶ ἐγόγγυσε πᾶς ὁ λαὸς ὁ κυκλῶν τὴν σκηνὴν καὶ περιεστώς, καὶ εἶπαν οἱ μεγιστᾶνες Ὀλοφέρνου καὶ πάντες οἱ κατοικοῦντες τὴν παραλίαν καὶ τὴν Μωὰβ συγκόψαι αὐτόν ·"
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "14.9",
+    "form": "περιϊσταμένου",
+    "postag": "v-sppmng-",
+    "sentence": "ἕκαστα δὲ τούτων ἐπεγνωκώς σύ, βασιλεῦ, καὶ τῆς χώρας καὶ τοῦ περιϊσταμένου γένους ἡμῶν προνοήθητι, καθ’ ἣν ἔχεις πρὸς ἅπαντας εὐαπάντητον φιλανθρωπίαν."
+   },
+   {
+    "work_code": "LJE",
+    "work_ja": "エレミヤの手紙",
+    "work_src": "Epistula Jeremiae",
+    "ref": "36",
+    "form": "περιστήσωσιν",
+    "postag": "v3pasa---",
+    "sentence": "ἄνθρωπον τυφλὸν εἰς ὅρασιν οὐ μὴ περιστήσωσιν, ἐν ἀνάγκῃ ἄνθρωπον ὄντα οὐ μὴ ἐξέλωνται."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Martyrdom of Polycarp": 1
+  },
+  "representatives": [
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "2.2",
+    "form": "περιεστῶτας",
+    "postag": "v-prpama-",
+    "sentence": "μὲν καταξανθέντες, ὥστε μέχρι τῶν ἔσω φλεβῶν καὶ ἀρτηριῶν τὴν τῆς σαρκὸς οἰκονομίαν θεωρεῖσθαι, ὑπέμειναν, ὡς καὶ τοὺς περιεστῶτας ἐλεεῖν καὶ ὀδύρεσθαι ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "4 περι-ίστημι (Rec. ΐστημι),    [in LXX: Jos 6:3 (סבב), II Ki 13:31 (נצב ni.), I Ki 4:16, Ep. Je 37, Jth 5:22, II Mac 14:9*;]      to place around.     to stand around: Jo 11:42; c. acc. pers., Ac 25:7. Mid. (in late writers), to turn oneself about to avoid, to shun: c. acc. rei, II Ti 2:16, Tit 3:9.†"
+}

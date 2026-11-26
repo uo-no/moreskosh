@@ -1,0 +1,210 @@
+{
+ "strong": "G1349",
+ "lemma": "δίκη",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2TH 1:9",
+   "form": "δίκην",
+   "morph": "N-ASF",
+   "gloss_en": "penalty",
+   "gloss_ja": "刑罰",
+   "verse": "οἵτινες δίκην τίσουσιν ὄλεθρον αἰώνιον ἀπὸ προσώπου τοῦ κυρίου καὶ ἀπὸ τῆς δόξης τῆς ἰσχύος αὐτοῦ,"
+  },
+  {
+   "ref": "ACT 25:15",
+   "form": "καταδίκην",
+   "morph": "N-ASF",
+   "gloss_en": "sentence of condemnation",
+   "gloss_ja": "刑罰",
+   "verse": "περὶ οὗ γενομένου μου εἰς Ἱεροσόλυμα ἐνεφάνισαν οἱ ἀρχιερεῖς καὶ οἱ πρεσβύτεροι τῶν Ἰουδαίων, αἰτούμενοι κατ’ αὐτοῦ καταδίκην·"
+  },
+  {
+   "ref": "ACT 28:4",
+   "form": "δίκη",
+   "morph": "N-NSF",
+   "gloss_en": "justice",
+   "gloss_ja": "刑罰",
+   "verse": "ὡς δὲ εἶδον οἱ βάρβαροι κρεμάμενον τὸ θηρίον ἐκ τῆς χειρὸς αὐτοῦ, πρὸς ἀλλήλους ἔλεγον· Πάντως φονεύς ἐστιν ὁ ἄνθρωπος οὗτος ὃν διασωθέντα ἐκ τῆς θαλάσσης ἡ δίκη ζῆν οὐκ εἴασεν."
+  },
+  {
+   "ref": "JUD 1:7",
+   "form": "δίκην",
+   "morph": "N-ASF",
+   "gloss_en": "punishment",
+   "gloss_ja": "刑罰",
+   "verse": "ὡς Σόδομα καὶ Γόμορρα καὶ αἱ περὶ αὐτὰς πόλεις, τὸν ὅμοιον τρόπον τούτοις ἐκπορνεύσασαι καὶ ἀπελθοῦσαι ὀπίσω σαρκὸς ἑτέρας, πρόκεινται δεῖγμα πυρὸς αἰωνίου δίκην ὑπέχουσαι."
+  }
+ ],
+ "lxx": {
+  "total": 39,
+  "works": {
+   "Exodus": 1,
+   "Leviticus": 1,
+   "Deuteronomium": 2,
+   "Esther": 1,
+   "Machabaeorum ii": 2,
+   "Machabaeorum iv": 11,
+   "Psalmi": 5,
+   "Odae": 2,
+   "Job": 2,
+   "Sapientia Salomonis": 5,
+   "Osee": 1,
+   "Amos": 1,
+   "Michaeas": 1,
+   "Joel": 2,
+   "Threni seu Lamentationes": 1,
+   "Ezechiel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "9.32",
+    "form": "δίκας",
+    "postag": "n-p---fa-",
+    "sentence": "οὐκ ἐκφεύξῃ δέ, μιαρώτατε τύραννε, τὰς τῆς θείας ὀργῆς δίκας."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "73.22",
+    "form": "δίκην",
+    "postag": "n-s---fa-",
+    "sentence": "ἀνάστα, ὁ Θεός, δίκασον τὴν δίκην σου ·"
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "1.8",
+    "form": "δίκη",
+    "postag": "n-s---fn-",
+    "sentence": "διὰ τοῦτο φθεγγόμενος ἄδικα οὐδεὶς μὴ λάθῃ, οὐ-δὲ μὴ παροδεύσῃ αὐτὸν ἐλέγχουσα ἡ δίκη."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "32.41",
+    "form": "δίκην",
+    "postag": "n-s---fa-",
+    "sentence": "ζῶ ἐγὼ εἰς τὸν αἰῶνα, ὅτι παροξυνῶ ὡς ἀστραπὴν τὴν μάχαιράν μου, καὶ ἀνθέξεται κρίματος ἡ χείρ μου, καὶ ἀποδώσω δίκην τοῖς ἐχθροῖς καὶ τοῖς μισοῦσί με ἀνταποδώσω ·"
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "8.13",
+    "form": "δίκην",
+    "postag": "n-s---fa-",
+    "sentence": "καὶ μεταδόντος αὐτοῦ τοῖς σὺν αὐτῷ τὴν παρουσίαν τοῦ στρατοπέδου, οἱ δειλανδροῦντες καὶ ἀπιστοῦντες τὴν τοῦ Θεοῦ δίκην διεδίδρασκον καὶ ἐξετόπιζον ἑαυτούς."
+   },
+   {
+    "work_code": "ODE",
+    "work_ja": "頌歌（オード）",
+    "work_src": "Odae",
+    "ref": "2.43",
+    "form": "δίκην",
+    "postag": "n-s---fa-",
+    "sentence": "ὅτι τὸ αἷμα τῶν υἱῶν αὐτοῦ ἐκδικεῖται, καὶ ἐκδικήσει καὶ ἀνταποδώσει δίκην τοῖς ἐχθροῖς καὶ τοῖς μισοῦσιν ἀνταποδώσει, καὶ ἐκκαθαριεῖ κύριος τὴν γῆν τοῦ λαοῦ αὐτοῦ."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "33.13",
+    "form": "δίκης",
+    "postag": "n-s---fg-",
+    "sentence": "διατί τῆς δίκης μου οὐκ ἐπακήκοέ μου πᾶν ρῆμα;"
+   },
+   {
+    "work_code": "JOL",
+    "work_ja": "ヨエル書",
+    "work_src": "Joel",
+    "ref": "4.14",
+    "form": "δίκης",
+    "postag": "n-s---fg-",
+    "sentence": "ἦχοι ἐξήχησαν ἐν τῇ κοιλάδι τῆς δίκης, ὅτι ἐγγὺς ἡμέρα Κυρίου ἐν τῇ κοιλάδι τῆς δίκης."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "21.20",
+    "form": "δίκῃ",
+    "postag": "n-s---fd-",
+    "sentence": "ἐὰν δέ τις πατάξῃ τὸν παῖδα αὐτοῦ ἢ τὴν παιδίσκην αὐτοῦ ἐν ράβδῳ καὶ ἀποθάνῃ ὑπὸ τὰς χεῖρας αὐτοῦ, δίκῃ ἐκδικηθήσεται."
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "26.25",
+    "form": "δίκην",
+    "postag": "n-s---fa-",
+    "sentence": "καὶ ἐπάξω ἐφ’ ὑμᾶς μάχαιραν ἐκδικοῦσαν δίκην διαθήκης, καὶ καταφεύξεσθε εἰς τὰς πόλεις ὑμῶν ·"
+   },
+   {
+    "work_code": "EST",
+    "work_ja": "エステル記",
+    "work_src": "Esther",
+    "ref": "8.12δ",
+    "form": "δίκην",
+    "postag": "n-s---fa-",
+    "sentence": "καὶ τὴν εὐχαριστίαν οὐ μόνον ἐκ τῶν ἀνθρώπων ἀνταναιροῦντες, ἀλλὰ καὶ τοῖς τῶν ἀπειραγάθων κόμποις ἐπαρθέντες, τοῦ τὰ πάντα κατοπτεύοντος ἀεὶ Θεοῦ μισοπόνηρον ὑπολαμβάνουσιν ἐκφεύξεσθαι δίκην."
+   },
+   {
+    "work_code": "HOS",
+    "work_ja": "ホセア書",
+    "work_src": "Osee",
+    "ref": "13.14",
+    "form": "δίκη",
+    "postag": "n-s---fn-",
+    "sentence": "ἐκ χειρὸς ᾅδου ρύσομαι καὶ ἐκ θανάτου λυτρώσομαι αὐτούς, ποῦ ἡ δίκη σου, θάνατε;"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 3,
+  "works": {
+   "Didache": 1,
+   "Hermas, Pastor": 2
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.19.3",
+    "form": "δίκην",
+    "postag": "n-s---fa-",
+    "sentence": "ἀλλὰ τίσουσι δίκην τινά ·"
+   },
+   {
+    "work_code": "DID",
+    "work_ja": "ディダケー",
+    "work_src": "Didache",
+    "ref": "1.5",
+    "form": "δίκην",
+    "postag": "n-s---fa-",
+    "sentence": "ὁ δὲ μὴ χρείαν ἔχων δώσει δίκην, ἱνατί ἔλαβε καὶ εἰς τί ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "7.1.5",
+    "form": "δίκην",
+    "postag": "n-s---fa-",
+    "sentence": "οἱ μὲν γὰρ λαμβάνοντες θλιβόμενοι οὐ δικασθήσονται, οἱ δὲ ἐν ὑποκρίσει λαμβάνοντες τίσουσιν δίκην."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3   δίκη, -ης, ἡ     [in LXX for נקם, ריב, etc. ;]      custom.      right.      a judicial hearing; hence its result, the execution of a sentence, punishment: δ. τίνειν, II Th 1:9; δ. υπεχειν, Ju 7.      Personified (cf. Lat. Justitia), justice, vengeance: Ac 28:4.†"
+}

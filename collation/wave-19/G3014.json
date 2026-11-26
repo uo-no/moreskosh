@@ -1,0 +1,167 @@
+{
+ "strong": "G3014",
+ "lemma": "λέπρα",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 5:12",
+   "form": "λέπρας",
+   "morph": "N-GSF",
+   "gloss_en": "leprosy",
+   "gloss_ja": "らい病",
+   "verse": "Καὶ ἐγένετο ἐν τῷ εἶναι αὐτὸν ἐν μιᾷ τῶν πόλεων καὶ ἰδοὺ ἀνὴρ πλήρης λέπρας· καὶ ἰδὼν τὸν Ἰησοῦν πεσὼν ἐπὶ πρόσωπον ἐδεήθη αὐτοῦ λέγων· Κύριε, ἐὰν θέλῃς δύνασαί με καθαρίσαι."
+  },
+  {
+   "ref": "LUK 5:13",
+   "form": "λέπρα",
+   "morph": "N-NSF",
+   "gloss_en": "leprosy",
+   "gloss_ja": "らい病",
+   "verse": "καὶ ἐκτείνας τὴν χεῖρα ἥψατο αὐτοῦ εἰπών· Θέλω, καθαρίσθητι· καὶ εὐθέως ἡ λέπρα ἀπῆλθεν ἀπ’ αὐτοῦ."
+  },
+  {
+   "ref": "MAT 8:3",
+   "form": "λέπρα",
+   "morph": "N-NSF",
+   "gloss_en": "leprosy",
+   "gloss_ja": "らい病",
+   "verse": "καὶ ἐκτείνας τὴν χεῖρα ἥψατο αὐτοῦ λέγων· Θέλω, καθαρίσθητι· καὶ εὐθέως ἐκαθαρίσθη αὐτοῦ ἡ λέπρα."
+  },
+  {
+   "ref": "MRK 1:42",
+   "form": "λέπρα",
+   "morph": "N-NSF",
+   "gloss_en": "leprosy",
+   "gloss_ja": "らい病",
+   "verse": "καὶ εὐθὺς ἀπῆλθεν ἀπ’ αὐτοῦ ἡ λέπρα, καὶ ἐκαθαρίσθη."
+  }
+ ],
+ "lxx": {
+  "total": 38,
+  "works": {
+   "Leviticus": 32,
+   "Deuteronomium": 1,
+   "Regnorum iv": 4,
+   "Paralipomenon ii sive Chronicon ii": 1
+  },
+  "representatives": [
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "14.57",
+    "form": "λέπρας",
+    "postag": "n-s---fg-",
+    "sentence": "οὗτος ὁ νόμος τῆς λέπρας."
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "5.27",
+    "form": "λέπρα",
+    "postag": "n-s---fn-",
+    "sentence": "καὶ ἡ λέπρα Ναιμὰν κολληθήσεται ἐν σοὶ καὶ ἐν τῷ σπέρματί σου εἰς τὸν αἰῶνα."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "24.8",
+    "form": "λέπρας",
+    "postag": "n-s---fg-",
+    "sentence": "πρόσεχε σαυτῷ ἐν τῇ ἁφῇ τῆς λέπρας ·"
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "26.19",
+    "form": "λέπρα",
+    "postag": "n-s---fn-",
+    "sentence": "καὶ ἐθυμώθη Ὀζίας, καὶ ἐν τῇ χειρὶ αὐτοῦ τὸ θυμιατήριον τοῦ θυμιάσαι ἐν τῷ ναῷ, καὶ ἐν τῷ θυμωθῆναι αὐτὸν πρὸς τοὺς ἱερεῖς καὶ ἡ λέπρα ἀνέτειλεν ἐν τῷ μετώπῳ αὐτοῦ ἐναντίον τῶν ἱερέων ἐν οἴκῳ Κυρίου ἐπάνω τοῦ θυσιαστηρίου τῶν θυμιαμάτων."
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "13.27",
+    "form": "λέπρας",
+    "postag": "n-s---fg-",
+    "sentence": "ἁφὴ λέπρας ἐστίν, ἐν τῷ ἕλκει ἐξήνθησεν."
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "5.7",
+    "form": "λέπρας",
+    "postag": "n-s---fg-",
+    "sentence": "ὁ Θεὸς ἐγὼ τοῦ θανατῶσαι καὶ ζωοποιῆσαι, ὅτι οὖτος ἀποστέλλει πρός με ἀποσυνάξαι ἄνδρα ἀπὸ τῆς λέπρας αὐτοῦ;"
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "13.25",
+    "form": "λέπρας",
+    "postag": "n-s---fg-",
+    "sentence": "καὶ μιανεῖ αὐτὸν ὁ ἱερεύς, ἁφὴ λέπρας ἐστίν."
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "5.3",
+    "form": "λέπρας",
+    "postag": "n-s---fg-",
+    "sentence": "ὄφελον ὁ κύριός μου ἐνώπιον τοῦ προφήτου τοῦ Θεοῦ τοῦ ἐν Σαμαρείᾳ, τότε ἀποσυνάξει αὐτὸν ἀπὸ τῆς λέπρας αὐτοῦ."
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "13.30",
+    "form": "λέπρα",
+    "postag": "n-s---fn-",
+    "sentence": "θραῦσμά ἐστι, λέπρα τῆς κεφαλῆς ἢ λέπρα τοῦ πώγωνός ἐστι."
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "5.6",
+    "form": "λέπρας",
+    "postag": "n-s---fg-",
+    "sentence": "καὶ νῦν ὡς ἂν ἔλθῃ τὸ βιβλίον τοῦτο πρὸς σέ, ἰδοὺ ἀπέστειλα πρός σε Ναιμὰν τὸν δοῦλόν μου, καὶ ἀποσυνάξεις αὐτὸν ἀπὸ τῆς λέπρας αὐτοῦ."
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "13.30",
+    "form": "λέπρα",
+    "postag": "n-s---fn-",
+    "sentence": "θραῦσμά ἐστι, λέπρα τῆς κεφαλῆς ἢ λέπρα τοῦ πώγωνός ἐστι."
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "13.9",
+    "form": "λέπρας",
+    "postag": "n-s---fg-",
+    "sentence": "καὶ ἁφὴ λέπρας ἐὰν γένηται ἐν ἀνθρώπῳ, καὶ ἥξει πρὸς τόν ἱερέα ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "4   λέπρα, -ας, ἡ    (< λεπρός),   [in LXX for צָרַעַת;]    leprosy: Mt 8:3, Mk 1:42, Lk 5:12, 13.†"
+}

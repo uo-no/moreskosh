@@ -1,0 +1,267 @@
+{
+ "strong": "G1741",
+ "lemma": "ἔνδοξος",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 4:10",
+   "form": "ἔνδοξοι",
+   "morph": "A-NPM",
+   "gloss_en": "distinguished",
+   "gloss_ja": "栄光ある",
+   "verse": "ἡμεῖς μωροὶ διὰ Χριστόν, ὑμεῖς δὲ φρόνιμοι ἐν Χριστῷ· ἡμεῖς ἀσθενεῖς, ὑμεῖς δὲ ἰσχυροί· ὑμεῖς ἔνδοξοι, ἡμεῖς δὲ ἄτιμοι."
+  },
+  {
+   "ref": "EPH 5:27",
+   "form": "ἔνδοξον",
+   "morph": "A-ASF",
+   "gloss_en": "splendor",
+   "gloss_ja": "栄光ある",
+   "verse": "ἵνα παραστήσῃ αὐτὸς ἑαυτῷ ἔνδοξον τὴν ἐκκλησίαν, μὴ ἔχουσαν σπίλον ἢ ῥυτίδα ἤ τι τῶν τοιούτων, ἀλλ’ ἵνα ᾖ ἁγία καὶ ἄμωμος."
+  },
+  {
+   "ref": "LUK 13:17",
+   "form": "ἐνδόξοις",
+   "morph": "A-DPN",
+   "gloss_en": "glorious",
+   "gloss_ja": "栄光ある",
+   "verse": "καὶ ταῦτα λέγοντος αὐτοῦ κατῃσχύνοντο πάντες οἱ ἀντικείμενοι αὐτῷ, καὶ πᾶς ὁ ὄχλος ἔχαιρεν ἐπὶ πᾶσιν τοῖς ἐνδόξοις τοῖς γινομένοις ὑπ’ αὐτοῦ."
+  },
+  {
+   "ref": "LUK 7:25",
+   "form": "ἐνδόξῳ",
+   "morph": "A-DSM",
+   "gloss_en": "splendidly",
+   "gloss_ja": "栄光ある",
+   "verse": "ἀλλὰ τί ἐξήλθατε ἰδεῖν; ἄνθρωπον ἐν μαλακοῖς ἱματίοις ἠμφιεσμένον; ἰδοὺ οἱ ἐν ἱματισμῷ ἐνδόξῳ καὶ τρυφῇ ὑπάρχοντες ἐν τοῖς βασιλείοις εἰσίν."
+  }
+ ],
+ "lxx": {
+  "total": 86,
+  "works": {
+   "Genesis": 1,
+   "Exodus": 3,
+   "Numeri": 1,
+   "Deuteronomium": 1,
+   "Josue": 1,
+   "Regnorum i": 4,
+   "Regnorum ii": 2,
+   "Paralipomenon i sive Chronicon i": 3,
+   "Paralipomenon ii sive Chronicon ii": 2,
+   "Esdras i": 1,
+   "Esther": 4,
+   "Judith": 2,
+   "Tobias": 10,
+   "Machabaeorum i": 10,
+   "Psalmi": 1,
+   "Odae": 4,
+   "Proverbia": 1,
+   "Job": 3,
+   "Ecclesiasticus sive Siracides": 3,
+   "Psalmi Salomonis": 1,
+   "Nahum": 1,
+   "Isaias": 17,
+   "Susanna": 1,
+   "Daniel": 7,
+   "Bel et Draco": 2
+  },
+  "representatives": [
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "23.8",
+    "form": "ἔνδοξοι",
+    "postag": "a-p---mn-",
+    "sentence": "οἱ ἔμποροι αὐτῆς ἔνδοξοι, ἄρχοντες τῆς γῆς."
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "14.14",
+    "form": "ἐνδόξως",
+    "postag": "d--------",
+    "sentence": "καὶ ἀπέθανεν ἐτῶν ἑκατὸν δέκα ἑπτὰ ἐνδόξως."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "2.17",
+    "form": "ἔνδοξος",
+    "postag": "a-s---mn-",
+    "sentence": "ἄρχων καὶ ἔνδοξος καὶ μέγας εἶ ἐν τῇ πόλει ταύτῃ καὶ ἐστηριγμένος ἐν υἱοῖς καὶ ἀδελφοῖς ·"
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "6.1",
+    "form": "ἔνδοξος",
+    "postag": "a-s---mn-",
+    "sentence": "καὶ Δαρεῖος πλήρης τῶν ἡμερῶν καὶ ἔνδοξος ἐν γήρει ·"
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "18.23",
+    "form": "ἔνδοξος",
+    "postag": "a-s---mn-",
+    "sentence": "κα-κἀγὼ ἀνὴρ ταπεινὸς καὶ οὐχὶ ἔνδοξος."
+   },
+   {
+    "work_code": "EST",
+    "work_ja": "エステル記",
+    "work_src": "Esther",
+    "ref": "1.1κ",
+    "form": "ἐνδόξους",
+    "postag": "a-p---ma-",
+    "sentence": "καὶ φῶς καὶ ἥλιος ἀνέτειλε, καὶ οἱ ταπεινοὶ ὑψώθησαν καὶ κατέφαγον τοὺς ἐνδόξους."
+   },
+   {
+    "work_code": "ODE",
+    "work_ja": "頌歌（オード）",
+    "work_src": "Odae",
+    "ref": "6.15",
+    "form": "ἐνδόξοις",
+    "postag": "a-p---md-",
+    "sentence": "πρόσθες αὐτοῖς κακά, κύριε, πρόσθες κακὰ τοῖς ἐνδόξοις τῆς γῆς."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "34.10",
+    "form": "ἔνδοξα",
+    "postag": "a-p---na-",
+    "sentence": "ἐνώπιον παντὸς τοῦ λαοῦ σου ποιήσω ἔνδοξα, ἃ οὐ γέγονεν ἐν πάσῃ τῇ γῇ καὶ ἐν παντὶ ἔθνει, καὶ ὄψεται πᾶς ὁ λαός, ἐν οἷς εἶ σύ, τὰ ἔργα Κυρίου, ὅτι θαυμαστά ἐστιν, ἃ ἐγὼ ποιήσω σοι."
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "4.9",
+    "form": "ἔνδοξος",
+    "postag": "a-s---mn-",
+    "sentence": "καὶ ἦν Ἰγαβὴς ἔνδοξος ὑπὲρ τοὺς ἀδελφοὺς αὐτοῦ ·"
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "9.10",
+    "form": "ἔνδοξά",
+    "postag": "a-p---na-",
+    "sentence": "ὁ ποιῶν μεγάλα καὶ ἀνεξιχνίαστα, ἔνδοξά τε καὶ ἐξαίσια, ὧν οὐκ ἔστιν ἀριθμός."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "44.1",
+    "form": "ἐνδόξους",
+    "postag": "a-p---ma-",
+    "sentence": "αἰνέσωμεν δὴ ἄνδρας ἐνδόξους καὶ τοὺς πατέρας ἡμῶν τῇ γενέσει."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "23.23",
+    "form": "ἔνδοξος",
+    "postag": "a-s---mn-",
+    "sentence": "ἐκ τῶν τριῶν ἔνδοξος, καὶ πρὸς τοὺς τρεῖς οὐκ ἦλθε ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 60,
+  "works": {
+   "Barnabas": 4,
+   "1 Clement": 9,
+   "Hermas, Pastor": 45,
+   "Martyrdom of Polycarp": 1,
+   "Polycarp, To the Philippians": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.2.3",
+    "form": "ἔνδοξοι",
+    "postag": "a-p---fn-",
+    "sentence": "καὶ αἱ ἄλλαι δὲ ἔνδοξοι ἦσαν."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "23.2",
+    "form": "ἐνδόξοις",
+    "postag": "a-p---fd-",
+    "sentence": "διὸ μὴ διψυχῶμεν, μη-δὲ ἰνδαλλέσθω ἡ ψυχὴ ἡμῶν ἐπὶ ταῖς ὑπερβαλλούσαις καὶ ἐνδόξοις δωρεαῖς αὐτοῦ."
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "16.8",
+    "form": "ἐνδόξως",
+    "postag": "d--------",
+    "sentence": "προσέχετε δέ, ἵνα ὁ ναὸς τοῦ κυρίου ἐνδόξως οἰκοδομηθῇ."
+   },
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "8.1",
+    "form": "ἐνδόξων",
+    "postag": "a-p---mg-",
+    "sentence": "ἐπεὶ δὲ ποτε κατέπαυσεν τὴν προσευχήν, μνημονεύσας ἁπάντων καὶ τῶν πώποτε συμβεβληκότων αὐτῷ, μικρῶν τε καὶ μεγάλων, ἐνδόξων τε καὶ ἀδόξων καὶ πάσης τῆς κατὰ τὴν οἰκουμένην καθολικῆς ἐκκλησίας, τῆς ὥρας ἐλθούσης τοῦ ἐξιέναι, ὄνῳ καθίσαντες αὐτὸν ἤγαγον εἰς τὴν πόλιν, ὄντος σαββάτου μεγάλου."
+   },
+   {
+    "work_code": "PPH",
+    "work_ja": "ポリュカルポスのピリピ書簡",
+    "work_src": "Polycarp, To the Philippians",
+    "ref": "3.2",
+    "form": "ἐνδόξου",
+    "postag": "a-s---mg-",
+    "sentence": "οὔ-τε γὰρ ἐγὼ οὔ-τε ἄλλος ὅμοιος ἐμοὶ δύναται κατακολουθῆσαι τῇ σοφίᾳ τοῦ μακαρίου καὶ ἐνδόξου Παύλου, ὃς γενόμενος ἐν ὑμῖν κατὰ πρόσωπον τῶν τότε ἀνθρώπων ἐδίδαξεν ἀκριβῶς καὶ βεβαίως τὸν περὶ ἀληθείας λόγον, ὃς καὶ ἀπὼν ὑμῖν ἔγραψεν ἐπιστολάς, εἰς ἃς ἐὰν ἐγκύπτητε, δυνηθήσεσθε οἰκοδομεῖσθαι εἰς τὴν δοθεῖσαν ὑμῖν πίστιν ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.10.7",
+    "form": "ἐνδοξότεραι",
+    "postag": "a-p---fnc",
+    "sentence": "μάλιστα δὲ αἱ τέσσαρες αἱ ἐνδοξότεραι αὐτῶν."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "45.7",
+    "form": "ἔνδοξον",
+    "postag": "a-s---fa-",
+    "sentence": "ἢ Ἀνανίας καὶ Ἀζαρίας καὶ Μισαὴλ ὑπὸ τῶν θρησκευόντων τὴν μεγαλοπρεπῆ καὶ ἔνδοξον θρησκείαν τοῦ ὑψίστου κατείρχθησαν εἰς κάμινον πυρός;"
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "12.6",
+    "form": "ἐνδόξως",
+    "postag": "d--------",
+    "sentence": "ποιεῖ οὖν Μωϋσῆς χαλκοῦν ὄφιν καὶ τίθησιν ἐνδόξως καὶ κηρύγματι καλεῖ τὸν λαόν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "4   ἔνδοξος, -ον    (< δόξα    [in LXX for כָּבַד, etc. ;]     held in honour, of high repute: I Co 4:10.    glorious, splendid: of deeds, τά ἔ., Lk 13:17; of clothing, Lk 7:25. Metaph., ἐκκλησία, Eph 5:27 (cf. παράδοξος).†"
+}

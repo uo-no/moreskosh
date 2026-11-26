@@ -1,0 +1,223 @@
+{
+ "strong": "G853",
+ "lemma": "ἀφανίζω",
+ "nt_freq": 5,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 13:41",
+   "form": "ἀφανίσθητε",
+   "morph": "V-APM-2P",
+   "gloss_en": "perish",
+   "gloss_ja": "消す",
+   "verse": "Ἴδετε, οἱ καταφρονηταί, καὶ θαυμάσατε καὶ ἀφανίσθητε, ὅτι ἔργον ἐργάζομαι ἐγὼ ἐν ταῖς ἡμέραις ὑμῶν, ἔργον ὃ οὐ μὴ πιστεύσητε ἐάν τις ἐκδιηγῆται ὑμῖν."
+  },
+  {
+   "ref": "JAS 4:14",
+   "form": "ἀφανιζομένη",
+   "morph": "V-PPP-NSF",
+   "gloss_en": "vanishes",
+   "gloss_ja": "消す",
+   "verse": "οἵτινες οὐκ ἐπίστασθε τὸ τῆς αὔριον ποία ἡ ζωὴ ὑμῶν· ἀτμὶς γάρ ἐστε ἡ πρὸς ὀλίγον φαινομένη, ἔπειτα καὶ ἀφανιζομένη·"
+  },
+  {
+   "ref": "MAT 6:16",
+   "form": "ἀφανίζουσιν",
+   "morph": "V-PAI-3P",
+   "gloss_en": "disfigure",
+   "gloss_ja": "消す",
+   "verse": "Ὅταν δὲ νηστεύητε, μὴ γίνεσθε ὡς οἱ ὑποκριταὶ σκυθρωποί, ἀφανίζουσιν γὰρ τὰ πρόσωπα αὐτῶν ὅπως φανῶσιν τοῖς ἀνθρώποις νηστεύοντες· ἀμὴν λέγω ὑμῖν, ἀπέχουσιν τὸν μισθὸν αὐτῶν."
+  },
+  {
+   "ref": "MAT 6:19",
+   "form": "ἀφανίζει",
+   "morph": "V-PAI-3S",
+   "gloss_en": "destroy",
+   "gloss_ja": "消す",
+   "verse": "Μὴ θησαυρίζετε ὑμῖν θησαυροὺς ἐπὶ τῆς γῆς, ὅπου σὴς καὶ βρῶσις ἀφανίζει, καὶ ὅπου κλέπται διορύσσουσιν καὶ κλέπτουσιν·"
+  },
+  {
+   "ref": "MAT 6:20",
+   "form": "ἀφανίζει",
+   "morph": "V-PAI-3S",
+   "gloss_en": "destroys",
+   "gloss_ja": "消す",
+   "verse": "θησαυρίζετε δὲ ὑμῖν θησαυροὺς ἐν οὐρανῷ, ὅπου οὔτε σὴς οὔτε βρῶσις ἀφανίζει, καὶ ὅπου κλέπται οὐ διορύσσουσιν οὐδὲ κλέπτουσιν·"
+  }
+ ],
+ "lxx": {
+  "total": 91,
+  "works": {
+   "Exodus": 4,
+   "Deuteronomium": 3,
+   "Judices": 1,
+   "Regnorum i": 1,
+   "Regnorum ii": 2,
+   "Regnorum iv": 3,
+   "Esdras i": 1,
+   "Esdras ii": 1,
+   "Esther": 5,
+   "Machabaeorum i": 1,
+   "Machabaeorum iii": 2,
+   "Psalmi": 2,
+   "Proverbia": 4,
+   "Canticum": 1,
+   "Job": 4,
+   "Sapientia Salomonis": 1,
+   "Ecclesiasticus sive Siracides": 2,
+   "Psalmi Salomonis": 1,
+   "Osee": 4,
+   "Amos": 2,
+   "Michaeas": 3,
+   "Joel": 3,
+   "Habacuc": 1,
+   "Sophonias": 2,
+   "Zacharias": 1,
+   "Jeremias": 7,
+   "Baruch": 1,
+   "Threni seu Lamentationes": 6,
+   "Ezechiel": 16,
+   "Daniel": 6
+  },
+  "representatives": [
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "4.17",
+    "form": "ἀφανισθήσεται",
+    "postag": "v3sfip---",
+    "sentence": "καὶ ἀφανισθήσεται ἄνθρωπος καὶ ἀδελφὸς αὐτοῦ καὶ τακήσονται ἐν ταῖς ἀδικίαις αὐτῶν."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "12.4",
+    "form": "ἠφανίσθησαν",
+    "postag": "v3paip---",
+    "sentence": "ἠφανίσθησαν κτήνη καὶ πετεινά, ὅτι εἶπαν ·"
+   },
+   {
+    "work_code": "LAM",
+    "work_ja": "哀歌",
+    "work_src": "Threni seu Lamentationes",
+    "ref": "5.18",
+    "form": "ἠφανίσθη",
+    "postag": "v3saip---",
+    "sentence": "ἐπ’ ὄρος Σιών, ὅτι ἠφανίσθη, ἀλώπεκες διῆλθον ἐν αὐτῇ."
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "7.26",
+    "form": "ἀφανίσαι",
+    "postag": "v--ana---",
+    "sentence": "καὶ τὸ κριτήριον καθίσει καὶ τὴν ἀρχὴν μεταστήσουσι τοῦ ἀφανίσαι καὶ τοῦ ἀπολέσαι ἕως τέλους."
+   },
+   {
+    "work_code": "EST",
+    "work_ja": "エステル記",
+    "work_src": "Esther",
+    "ref": "4.17θ",
+    "form": "ἀφανίσῃς",
+    "postag": "v2sasa---",
+    "sentence": "ἐπάκουσον τῆς δεήσεώς μου καὶ ἱλάσθητι τῷ κλήρῳ σου καὶ στρέψον τὸ πένθος ἡμῶν εἰς εὐωχίαν, ἵνα ζῶντες ὑμνῶμέν σου τὸ ὄνομα, Κύριε, καὶ μὴ ἀφανίσῃς στόμα αἰνούντων σε, Κύριε."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "12.15",
+    "form": "ἀφανιεῖτε",
+    "postag": "v2pfia---",
+    "sentence": "ἑπτὰ ἡμέρας ἄζυμα ἔδεσθε, ἀπὸ δὲ τῆς ἡμέρας τῆς πρώτης ἀφανιεῖτε ζύμην ἐκ τῶν οἰκιῶν ὑμῶν ·"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "14.11",
+    "form": "ἀφανισθήσονται",
+    "postag": "v3pfip---",
+    "sentence": "οἰκίαι ἀσεβῶν ἀφανισθήσονται, σκηναὶ δὲ κατορθούντων στήσονται."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "39.24",
+    "form": "ἀφανιεῖ",
+    "postag": "v3sfia---",
+    "sentence": "ἐπ’ αὐτῷ γαυριᾷ τόξον καὶ μάχαιρα, καὶ ὀργῇ ἀφανιεῖ τὴν γῆν καὶ οὐ μὴ πιστεύσει, ἕως ἂν σημάνῃ σάλπιγξ ·"
+   },
+   {
+    "work_code": "HOS",
+    "work_ja": "ホセア書",
+    "work_src": "Osee",
+    "ref": "2.14",
+    "form": "ἀφανιῶ",
+    "postag": "v1sfia---",
+    "sentence": "καὶ ἀφανιῶ ἄμπελον αὐτῆς καὶ τάς συκᾶς αὐτῆς, ὅσα εἶπε ·"
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "13.6",
+    "form": "ἀφανιεῖς",
+    "postag": "v2sfia---",
+    "sentence": "καὶ ἀφανιεῖς τὸ πονηρὸν ἐξ ὑμῶν αὐτῶν."
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "10.28",
+    "form": "ἠφάνισεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἠφάνισεν Ἰοὺ τὸν Βάαλ ἐξ Ἰσραήλ ·"
+   },
+   {
+    "work_code": "MIC",
+    "work_ja": "ミカ書",
+    "work_src": "Michaeas",
+    "ref": "5.13",
+    "form": "ἀφανιῶ",
+    "postag": "v1sfia---",
+    "sentence": "καὶ ἐκκόψω τὰ ἄλση ἐκ μέσου σου καὶ ἀφανιῶ τὰς πόλεις σου ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "Hermas, Pastor": 1,
+   "Ignatius, Letters": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "10.1.5",
+    "form": "ἀφανίζεται",
+    "postag": "v3spim---",
+    "sentence": "ἐὰν γὰρ λάβῃς ἀψινθίου μικρὸν λίαν καὶ εἰς κεράμιον μέλιτος ἐπιχέῃς, οὐχὶ ὅλον τὸ μέλι ἀφανίζεται, καὶ τοσοῦτον μέλι ὑπὸ τοῦ ἐλαχίστου ἀψινθίου ἀπόλλυται καὶ ἀπόλλυσι τὴν γλυκύτητα τοῦ μέλιτος, καὶ οὐκέτι τὴν αὐτὴν χάριν ἔχει παρὰ τῷ δεσπότῃ, ὅτι ἐπικράνθη καὶ τὴν χρῆσιν αὐτοῦ ἀπώλεσεν;"
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "1.19.3",
+    "form": "ἠφανίζετο",
+    "postag": "v3siim---",
+    "sentence": "ὅθεν ἐλύετο πᾶσα μαγεία καὶ πᾶς δεσμὸς ἠφανίζετο κακίας ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "5   ἀφανίζω,    (< ἀφανής),   [in LXX for שׁמם ni., שׁמד hi., etc.;]      to make unseen, hide from sight (Xen., al.).     Later (MM, s.v.),       to destroy: Mt 6:19, 20;     to disfigure: Mt 6:16. Pass., to vanish: Ja 4:14; to perish: Ac 13:41(LXX).†"
+}

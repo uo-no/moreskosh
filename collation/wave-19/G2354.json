@@ -1,0 +1,176 @@
+{
+ "strong": "G2354",
+ "lemma": "θρηνέω",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JHN 16:20",
+   "form": "θρηνήσετε",
+   "morph": "V-FAI-2P",
+   "gloss_en": "lament",
+   "gloss_ja": "嘆く",
+   "verse": "ἀμὴν ἀμὴν λέγω ὑμῖν ὅτι κλαύσετε καὶ θρηνήσετε ὑμεῖς, ὁ δὲ κόσμος χαρήσεται· ὑμεῖς λυπηθήσεσθε, ἀλλ’ ἡ λύπη ὑμῶν εἰς χαρὰν γενήσεται."
+  },
+  {
+   "ref": "LUK 23:27",
+   "form": "ἐθρήνουν",
+   "morph": "V-IAI-3P",
+   "gloss_en": "lamenting",
+   "gloss_ja": "嘆く",
+   "verse": "Ἠκολούθει δὲ αὐτῷ πολὺ πλῆθος τοῦ λαοῦ καὶ γυναικῶν αἳ ἐκόπτοντο καὶ ἐθρήνουν αὐτόν."
+  },
+  {
+   "ref": "LUK 7:32",
+   "form": "ἐθρηνήσαμεν",
+   "morph": "V-AAI-1P",
+   "gloss_en": "sang a dirge",
+   "gloss_ja": "嘆く",
+   "verse": "ὅμοιοί εἰσιν παιδίοις τοῖς ἐν ἀγορᾷ καθημένοις καὶ προσφωνοῦσιν ἀλλήλοις, ἃ λέγει· Ηὐλήσαμεν ὑμῖν καὶ οὐκ ὠρχήσασθε· ἐθρηνήσαμεν καὶ οὐκ ἐκλαύσατε·"
+  },
+  {
+   "ref": "MAT 11:17",
+   "form": "ἐθρηνήσαμεν",
+   "morph": "V-AAI-1P",
+   "gloss_en": "sang a dirge",
+   "gloss_ja": "嘆く",
+   "verse": "λέγουσιν· Ηὐλήσαμεν ὑμῖν καὶ οὐκ ὠρχήσασθε· ἐθρηνήσαμεν καὶ οὐκ ἐκόψασθε·"
+  }
+ ],
+ "lxx": {
+  "total": 28,
+  "works": {
+   "Judices": 1,
+   "Regnorum ii": 2,
+   "Paralipomenon ii sive Chronicon ii": 1,
+   "Esdras i": 1,
+   "Tobias": 4,
+   "Sapientia Salomonis": 1,
+   "Michaeas": 2,
+   "Joel": 4,
+   "Sophonias": 1,
+   "Zacharias": 1,
+   "Jeremias": 3,
+   "Threni seu Lamentationes": 1,
+   "Ezechiel": 6
+  },
+  "representatives": [
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "7.12",
+    "form": "θρηνείτω",
+    "postag": "v3spma---",
+    "sentence": "ὁ κτώμενος μὴ χαιρέτω, καὶ ὁ πωλῶν μὴ θρηνείτω ·"
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "10.4",
+    "form": "θρηνεῖν",
+    "postag": "v--pna---",
+    "sentence": "καὶ ἤρξατο θρηνεῖν αὐτὸν καὶ εἶπεν ·"
+   },
+   {
+    "work_code": "JOL",
+    "work_ja": "ヨエル書",
+    "work_src": "Joel",
+    "ref": "1.11",
+    "form": "θρηνεῖτε",
+    "postag": "v2ppma---",
+    "sentence": "θρηνεῖτε, κτήματα, ὑπὲρ πυροῦ καὶ κριθῆς, ὅτι ἀπόλωλε τρυγητὸς ἐξ ἀγροῦ ·"
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "9.17",
+    "form": "θρηνούσας",
+    "postag": "v-pppafa-",
+    "sentence": "καλέσατε τὰς θρηνούσας καὶ ἐλθέτωσαν, καὶ πρὸς τὰς σοφὰς ἀποστείλατε καὶ φθεγξάσθωσαν καὶ λαβέτωσαν ἐφ’ ὑμᾶς θρῆνον, καὶ καταγαγέτωσαν οἱ ὀφθαλμοὶ ὑμῶν δάκρυα, καὶ τὰ βλέφαρα ὑμῶν ρείτω ὕδωρ."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "3.33",
+    "form": "ἐθρήνησεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἐθρήνησεν ὁ βασιλεὺς ἐπὶ Ἀβεννὴρ καὶ εἶπεν ·"
+   },
+   {
+    "work_code": "MIC",
+    "work_ja": "ミカ書",
+    "work_src": "Michaeas",
+    "ref": "2.4",
+    "form": "θρηνηθήσεται",
+    "postag": "v3sfip---",
+    "sentence": "ἐν τῇ ἡμέρᾳ ἐκείνῃ ληφθήσεται ἐφ’ ὑμᾶς παραβολή, καὶ θρηνηθήσεται θρῆνος ἐν μέλει λέγων ·"
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "11.40",
+    "form": "θρηνεῖν",
+    "postag": "v--pna---",
+    "sentence": "ἀπὸ ἡμερῶν εἰς ἡμέρας ἐπορεύοντο θυγατέρες Ἰσραὴλ θρηνεῖν τὴν θυγατέρα Ἰεφθάε τοῦ Γαλααδίτου ἐπὶ τέσσαρας ἡμέρας ἐν τῷ ἐνιαυτῷ."
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "35.25",
+    "form": "ἐθρήνησεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ πᾶς Ἰούδα καὶ Ἱερουσαλὴμ ἐπένθησαν ἐπὶ Ἰωσίαν, καὶ ἐθρήνησεν Ἱερεμίας ἐπὶ Ἰωσίαν, καὶ εἶπαν πάντες οἱ ἄρχοντες καὶ αἱ ἄρχουσαι θρῆνον ἐπὶ Ἰωσίαν ἕως τῆς σήμερον ·"
+   },
+   {
+    "work_code": "1ES",
+    "work_ja": "エズラ記（ギリシャ語）",
+    "work_src": "Esdras i",
+    "ref": "1.30",
+    "form": "ἐθρήνησεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἐν ὅλῃ τῇ Ἰουδαίᾳ ἐπένθησαν τὸν Ἰωσίαν, καὶ ἐθρήνησεν Ἱερεμίας ὁ προφήτης ὑπὲρ Ἰωσίου, καὶ οἱ προκαθήμενοι σὺν γυναιξὶν ἐθρηνοῦσαν αὐτὸν ἕως τῆς ἡμέρας ταύτης ·"
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "18.10",
+    "form": "θρηνουμένων",
+    "postag": "v-pppmmg-",
+    "sentence": "ἀντήχει δ’ ἀσύμφωνος ἐχθρῶν βοή, καὶ οἰκτρὰ διεφέρετο θρηνουμένων παίδων ·"
+   },
+   {
+    "work_code": "ZEP",
+    "work_ja": "ゼファニヤ書",
+    "work_src": "Sophonias",
+    "ref": "1.11",
+    "form": "θρηνήσατε",
+    "postag": "v2pama---",
+    "sentence": "θρηνήσατε, οἱ κατοικοῦντες τὴν κατακεκομμένην, ὅτι ὡμοιώθη πᾶς ὁ λαὸς Χαναάν, ἐξωλοθρεύθησαν πάντες οἱ ἐπῃρμένοι ἀργυρίῳ."
+   },
+   {
+    "work_code": "ZEC",
+    "work_ja": "ゼカリヤ書",
+    "work_src": "Zacharias",
+    "ref": "11.3",
+    "form": "θρηνούντων",
+    "postag": "v-pppamg-",
+    "sentence": "φωνὴ θρηνούντων ποιμένων, ὅτι τεταλαιπώρηκεν ἡ μεγαλωσύνη αὐτῶν ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "4   θρηνέω, -ῶ    (< θρῆνος),   [in LXX chiefly for ילל hi., also for קין pil., etc.;]      intrans., to lament, wail: Mt 11:17, Lk 7:32, Jo 16:20.     Trans., to bewail: c. acc. pers., Lk 23:27.†   SYN.: κλαίω, κόπτομαι, λυπέομαι, πενθέω (v. Tr., Syn., § lxv)."
+}

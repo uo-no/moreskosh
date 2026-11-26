@@ -1,0 +1,65 @@
+{
+ "strong": "G1482",
+ "lemma": "ἐθνικός",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "3JN 1:7",
+   "form": "ἐθνικῶν",
+   "morph": "A-GPM",
+   "gloss_en": "pagans",
+   "gloss_ja": "異邦人の",
+   "verse": "ὑπὲρ γὰρ τοῦ ὀνόματος ἐξῆλθον μηδὲν λαμβάνοντες ἀπὸ τῶν ἐθνικῶν."
+  },
+  {
+   "ref": "MAT 18:17",
+   "form": "ἐθνικὸς",
+   "morph": "A-NSM",
+   "gloss_en": "gentile",
+   "gloss_ja": "異邦人の",
+   "verse": "ἐὰν δὲ παρακούσῃ αὐτῶν, εἰπὸν τῇ ἐκκλησίᾳ· ἐὰν δὲ καὶ τῆς ἐκκλησίας παρακούσῃ, ἔστω σοι ὥσπερ ὁ ἐθνικὸς καὶ ὁ τελώνης."
+  },
+  {
+   "ref": "MAT 6:7",
+   "form": "ἐθνικοί",
+   "morph": "A-NPM",
+   "gloss_en": "gentiles",
+   "gloss_ja": "異邦人の",
+   "verse": "Προσευχόμενοι δὲ μὴ βατταλογήσητε ὥσπερ οἱ ἐθνικοί, δοκοῦσιν γὰρ ὅτι ἐν τῇ πολυλογίᾳ αὐτῶν εἰσακουσθήσονται·"
+  },
+  {
+   "ref": "MAT 5:47",
+   "form": "ἐθνικοὶ",
+   "morph": "A-NPM",
+   "gloss_en": "gentiles",
+   "gloss_ja": "異邦人の",
+   "verse": "καὶ ἐὰν ἀσπάσησθε τοὺς ἀδελφοὺς ὑμῶν μόνον, τί περισσὸν ποιεῖτε; οὐχὶ καὶ οἱ ἐθνικοὶ τὸ αὐτὸ ποιοῦσιν;"
+  }
+ ],
+ "lxx": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "15.1.4",
+    "form": "ἐθνικαῖς",
+    "postag": "a-p---fd-",
+    "sentence": "οἱ μηδέποτε ἐρευνήσαντες περὶ τῆς ἀληθείας μη-δὲ ἐπιζητήσαντες περὶ τῆς θεότητος, πιστεύσαντες δὲ μόνον, ἐμπεφυρμένοι δὲ πραγματείαις καὶ πλούτῳ καὶ φιλίαις ἐθνικαῖς καὶ ἄλλαις πολλαῖς πραγματείαις τοῦ αἰῶνος τούτου ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "5     **† ἐθνικός, -ή, -όν, (< ἔθνος),  [in Al.: Le 21:7 * ;]               national (Polyb.).          foreign (gramm.); in NT, as subst., ὁ ἐ., the Gentile (the adj. \"describes character rather than mere position\"; cf. ἔθνος, and v. Cremer, 228): Mt 5:47  6:7 18:17, III Jo 7.†"
+}

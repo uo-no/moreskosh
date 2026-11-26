@@ -1,0 +1,208 @@
+{
+ "strong": "G3822",
+ "lemma": "παλαιόω",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "HEB 1:11",
+   "form": "παλαιωθήσονται",
+   "morph": "V-FPI-3P",
+   "gloss_en": "wear out",
+   "gloss_ja": "古くする",
+   "verse": "αὐτοὶ ἀπολοῦνται, σὺ δὲ διαμένεις· καὶ πάντες ὡς ἱμάτιον παλαιωθήσονται,"
+  },
+  {
+   "ref": "HEB 8:13",
+   "form": "πεπαλαίωκεν",
+   "morph": "V-RAI-3S",
+   "gloss_en": "made ~ obsolete",
+   "gloss_ja": "古くする",
+   "verse": "ἐν τῷ λέγειν Καινὴν πεπαλαίωκεν τὴν πρώτην, τὸ δὲ παλαιούμενον καὶ γηράσκον ἐγγὺς ἀφανισμοῦ."
+  },
+  {
+   "ref": "HEB 8:13",
+   "form": "παλαιούμενον",
+   "morph": "V-PPP-NSN",
+   "gloss_en": "becoming obsolete",
+   "gloss_ja": "古くする",
+   "verse": "ἐν τῷ λέγειν Καινὴν πεπαλαίωκεν τὴν πρώτην, τὸ δὲ παλαιούμενον καὶ γηράσκον ἐγγὺς ἀφανισμοῦ."
+  },
+  {
+   "ref": "LUK 12:33",
+   "form": "παλαιούμενα",
+   "morph": "V-PPP-APN",
+   "gloss_en": "wear out",
+   "gloss_ja": "古くする",
+   "verse": "πωλήσατε τὰ ὑπάρχοντα ὑμῶν καὶ δότε ἐλεημοσύνην· ποιήσατε ἑαυτοῖς βαλλάντια μὴ παλαιούμενα, θησαυρὸν ἀνέκλειπτον ἐν τοῖς οὐρανοῖς, ὅπου κλέπτης οὐκ ἐγγίζει οὐδὲ σὴς διαφθείρει·"
+  }
+ ],
+ "lxx": {
+  "total": 29,
+  "works": {
+   "Leviticus": 1,
+   "Deuteronomium": 2,
+   "Josue": 2,
+   "Esdras ii": 1,
+   "Psalmi": 5,
+   "Job": 5,
+   "Ecclesiasticus sive Siracides": 3,
+   "Isaias": 3,
+   "Baruch": 1,
+   "Threni seu Lamentationes": 1,
+   "Ezechiel": 1,
+   "Susanna": 2,
+   "Daniel": 2
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "6.8",
+    "form": "ἐπαλαιώθην",
+    "postag": "v1saip---",
+    "sentence": "ἐταράχθη ἀπὸ θυμοῦ ὁ ὀφθαλμός μου, ἐπαλαιώθην ἐν πᾶσι τοῖς ἐχθροῖς μου."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "13.28",
+    "form": "παλαιοῦται",
+    "postag": "v3spim---",
+    "sentence": "ὃ παλαιοῦται ἴσα ἀσκῷ ἢ ὥσπερ ἱμάτιον σητόβρωτον."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "9.10",
+    "form": "παλαιωθῇ",
+    "postag": "v3sasp---",
+    "sentence": "ἐὰν παλαιωθῇ, μετ’ εὐφροσύνης πίεσαι αὐτόν."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "65.22",
+    "form": "παλαιώσουσιν",
+    "postag": "v3pfia---",
+    "sentence": "τὰ γὰρ ἔργα τῶν πόνων αὐτῶν παλαιώσουσιν."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "29.4",
+    "form": "ἐπαλαιώθη",
+    "postag": "v3saip---",
+    "sentence": "οὐκ ἐπαλαιώθη τὰ ἱμάτια ὑμῶν, καὶ τὰ ὑποδήματα ὑμῶν οὐ κατετρίβη ἀπὸ τῶν ποδῶν ὑμῶν ·"
+   },
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "9.13",
+    "form": "πεπαλαίωται",
+    "postag": "v3srim---",
+    "sentence": "καὶ τὰ ἱμάτια ἡμῶν καὶ τὰ ὑποδήματα ἡμῶν πεπαλαίωται ἀπὸ τῆς πολλῆς ὁδοῦ σφόδρα."
+   },
+   {
+    "work_code": "SUS",
+    "work_ja": "スザンナ（Th）",
+    "work_src": "Susanna",
+    "ref": "52",
+    "form": "πεπαλαιωμένε",
+    "postag": "v-srpmmv-",
+    "sentence": "καὶ ἐκάλεσε τὸν ἕνα αὐτῶν, καὶ προσήγαγον τὸν πρεσβύτερον τῷ νεωτέρῳ, καὶ εἶπεν αὐτῷ Δανιηλ Ἄκουε ἄκουε, πεπαλαιωμένε ἡμερῶν κακῶν ·"
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "11.33",
+    "form": "παλαιωθήσονται",
+    "postag": "v3pfip---",
+    "sentence": "καὶ προσκόψουσι ῥομφαίᾳ καὶ παλαιωθήσονται ἐν αὐτῇ καὶ ἐν αἰχμαλωσίᾳ καὶ ἐν προνομῇ ἡμερῶν κηλιδωθήσονται."
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "13.11",
+    "form": "παλαιουμένη",
+    "postag": "v-sppmfn-",
+    "sentence": "καὶ ὄψεται ὁ ἱερεύς, καὶ ἰδοὺ οὐλὴ λευκὴ ἐν τῷ δέρματι, καὶ αὕτη μετέβαλε τρίχα λευκήν, καὶ ἀπὸ τοῦ ὑγιοῦς τῆς σαρκὸς τῆς ζώσης ἐν τῇ οὐλῇ, λέπρα παλαιουμένη ἐστὶν ἐν τῷ δέρματι τοῦ χρωτός, καὶ μιανεῖ αὐτὸν ὁ ἱερεὺς καὶ ἀφοριεῖ αὐτόν, ὅτι ἀκάθαρτός ἐστιν."
+   },
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "19.21",
+    "form": "ἐπαλαιώθησαν",
+    "postag": "v3paip---",
+    "sentence": "ἱμάτια αὐτῶν οὐκ ἐπαλαιώθησαν, καὶ πόδες αὐτῶν οὐ διερράγησαν."
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルク書",
+    "work_src": "Baruch",
+    "ref": "3.10",
+    "form": "ἐπαλαιώθης",
+    "postag": "v2saip---",
+    "sentence": "ἐπαλαιώθης ἐν γῇ ἀλλοτρίᾳ, συνεμιάνθης τοῖς νεκροῖς, προσελογίσθης μετὰ τῶν εἰς ᾅδου;"
+   },
+   {
+    "work_code": "LAM",
+    "work_ja": "哀歌",
+    "work_src": "Threni seu Lamentationes",
+    "ref": "3.4",
+    "form": "ἐπαλαίωσε",
+    "postag": "v3saia---",
+    "sentence": "ἐπαλαίωσε σάρκα μου καὶ δέρμα μου, ὀστέα μου συνέτριψεν ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 3,
+  "works": {
+   "Barnabas": 1,
+   "Hermas, Pastor": 1,
+   "Ignatius, Letters": 1
+  },
+  "representatives": [
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "6.2",
+    "form": "παλαιωθήσεσθε",
+    "postag": "v2pfip---",
+    "sentence": "οὐαὶ ὑμῖν, ὅτι ὑμεῖς πάντες ὡς ἱμάτιον παλαιωθήσεσθε, καὶ σὴς καταφάγεται ὑμᾶς."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "3.11.3",
+    "form": "ἐπαλαιώθητε",
+    "postag": "v2paip---",
+    "sentence": "ἀλλὰ ἐθραύσθη ὑμῶν ἡ διάνοια καὶ ἐπαλαιώθητε ταῖς λύπαις ὑμῶν."
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "2.10.2",
+    "form": "παλαιωθεῖσαν",
+    "postag": "v-sappfa-",
+    "sentence": "ὑπέρθεσθε οὖν τὴν κακὴν ζύμην, τὴν παλαιωθεῖσαν καὶ ἐνοξίσασαν, καὶ μεταβάλεσθε εἰς νέαν ζύμην, ὅ ἐστιν Ἰησοῦς Χριστός."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "4   παλαιόω, -ῶ    (< παλαιός),   [in LXX chiefly for בּלה, pi., in pass. for בּ׳ qal.;]    to make or declare old: He 8:13; pass., to become old: of things worn out by time and use (cf. Jo 9:13, Is 50:9, al., and v.s. παλαιός), Lk 12:33, He 1:11(LXX); τὸ παλαιούμενον, He 8:13 (where this   and the act., v. supr., may have the sense of abrogate, v. LS, Zorell, s.v.).†   SYN.: γηράσκω."
+}

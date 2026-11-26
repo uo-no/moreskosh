@@ -1,0 +1,94 @@
+{
+ "strong": "G3471",
+ "lemma": "μωραίνω",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 1:20",
+   "form": "ἐμώρανεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "made foolish",
+   "gloss_ja": "愚かにする",
+   "verse": "ποῦ σοφός; ποῦ γραμματεύς; ποῦ συζητητὴς τοῦ αἰῶνος τούτου; οὐχὶ ἐμώρανεν ὁ θεὸς τὴν σοφίαν τοῦ κόσμου;"
+  },
+  {
+   "ref": "LUK 14:34",
+   "form": "μωρανθῇ",
+   "morph": "V-APS-3S",
+   "gloss_en": "lost ~ taste",
+   "gloss_ja": "愚かにする",
+   "verse": "Καλὸν οὖν τὸ ἅλας· ἐὰν δὲ καὶ τὸ ἅλας μωρανθῇ, ἐν τίνι ἀρτυθήσεται;"
+  },
+  {
+   "ref": "MAT 5:13",
+   "form": "μωρανθῇ",
+   "morph": "V-APS-3S",
+   "gloss_en": "lost ~ taste",
+   "gloss_ja": "愚かにする",
+   "verse": "Ὑμεῖς ἐστε τὸ ἅλας τῆς γῆς· ἐὰν δὲ τὸ ἅλας μωρανθῇ, ἐν τίνι ἁλισθήσεται; εἰς οὐδὲν ἰσχύει ἔτι εἰ μὴ βληθὲν ἔξω καταπατεῖσθαι ὑπὸ τῶν ἀνθρώπων."
+  },
+  {
+   "ref": "ROM 1:22",
+   "form": "ἐμωράνθησαν",
+   "morph": "V-API-3P",
+   "gloss_en": "became fools",
+   "gloss_ja": "愚かにする",
+   "verse": "φάσκοντες εἶναι σοφοὶ ἐμωράνθησαν,"
+  }
+ ],
+ "lxx": {
+  "total": 4,
+  "works": {
+   "Ecclesiasticus sive Siracides": 1,
+   "Isaias": 2,
+   "Jeremias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "19.11",
+    "form": "μωρανθήσεται",
+    "postag": "v3sfip---",
+    "sentence": "οἱ σοφοὶ σύμβουλοι τοῦ βασιλέως, ἡ βουλὴ αὐτῶν μωρανθήσεται."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "23.14",
+    "form": "μωρανθῇς",
+    "postag": "v2sasp---",
+    "sentence": "μήποτ’ ἐπιλάθῃ ἐνώπιον αὐτῶν καὶ τῷ ἐθισμῷ σου μωρανθῇς καὶ θελήσεις εἰ μὴ ἐγεννήθης καὶ τὴν ἡμέραν τοῦ τοκετοῦ σου καταράσῃ."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "10.14",
+    "form": "ἐμωράνθη",
+    "postag": "v3saip---",
+    "sentence": "ἐμωράνθη πᾶς ἄνθρωπος ἀπὸ γνώσεως, κατῃσχύνθη πᾶς χρυσοχόος ἐπὶ τοῖς γλυπτοῖς αὐτοῦ, ὅτι ψευδῆ ἐχώνευσεν, οὐκ ἔστι πνεῦμα ἐν αὐτοῖς ·"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "44.25",
+    "form": "μωραίνων",
+    "postag": "v-sppamn-",
+    "sentence": "τίς ἕτερος διασκεδάσει σημεῖα ἐγγαστριμύθων καὶ μαντείας ἀπὸ καρδίας, ἀποστρέφων φρονίμους εἰς τὰ ὀπίσω καὶ τὴν βουλὴν αὐτῶν μωραίνων καὶ ἱστῶν ρῆμα παιδὸς αὐτοῦ καὶ τὴν βουλὴν τῶν ἀγγέλων αὐτοῦ ἀληθεύων;"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "4   μωραίνω    (< μωρός),   [in LXX: Is 19:11, Je 10:14 28 (51):17 (בּער ni.), II Ki 24:10, Is 44:25 R (סכל ni., pi.)*;]      cl., to be foolish, play the fool.     LXX and NT, causal, to make foolish: I Co 1:20; pass., to become foolish: Ro 1:22; of salt that has lost its flavour, become tasteless: Mt 5:13, Lk 14:34.†"
+}

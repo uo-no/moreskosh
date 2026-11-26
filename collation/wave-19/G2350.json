@@ -1,0 +1,105 @@
+{
+ "strong": "G2350",
+ "lemma": "θορυβέω",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 17:5",
+   "form": "ἐθορύβουν",
+   "morph": "V-IAI-3P",
+   "gloss_en": "set ~ inan uproar",
+   "gloss_ja": "騒ぐ",
+   "verse": "ζηλώσαντες δὲ οἱ Ἰουδαῖοι καὶ προσλαβόμενοι τῶν ἀγοραίων ἄνδρας τινὰς πονηροὺς καὶ ὀχλοποιήσαντες ἐθορύβουν τὴν πόλιν, καὶ ἐπιστάντες τῇ οἰκίᾳ Ἰάσονος ἐζήτουν αὐτοὺς προαγαγεῖν εἰς τὸν δῆμον·"
+  },
+  {
+   "ref": "ACT 20:10",
+   "form": "θορυβεῖσθε",
+   "morph": "V-PPM-2P",
+   "gloss_en": "alarmed",
+   "gloss_ja": "騒ぐ",
+   "verse": "καταβὰς δὲ ὁ Παῦλος ἐπέπεσεν αὐτῷ καὶ συμπεριλαβὼν εἶπεν· Μὴ θορυβεῖσθε, ἡ γὰρ ψυχὴ αὐτοῦ ἐν αὐτῷ ἐστιν."
+  },
+  {
+   "ref": "MAT 9:23",
+   "form": "θορυβούμενον",
+   "morph": "V-PPP-ASM",
+   "gloss_en": "making a commotion",
+   "gloss_ja": "騒ぐ",
+   "verse": "καὶ ἐλθὼν ὁ Ἰησοῦς εἰς τὴν οἰκίαν τοῦ ἄρχοντος καὶ ἰδὼν τοὺς αὐλητὰς καὶ τὸν ὄχλον θορυβούμενον"
+  },
+  {
+   "ref": "MRK 5:39",
+   "form": "θορυβεῖσθε",
+   "morph": "V-PPI-2P",
+   "gloss_en": "make a commotion",
+   "gloss_ja": "騒ぐ",
+   "verse": "καὶ εἰσελθὼν λέγει αὐτοῖς· Τί θορυβεῖσθε καὶ κλαίετε; τὸ παιδίον οὐκ ἀπέθανεν ἀλλὰ καθεύδει."
+  }
+ ],
+ "lxx": {
+  "total": 5,
+  "works": {
+   "Judices": 1,
+   "Sapientia Salomonis": 1,
+   "Ecclesiasticus sive Siracides": 1,
+   "Nahum": 1,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "3.26",
+    "form": "ἐθορυβοῦντο",
+    "postag": "v3piim---",
+    "sentence": "καὶ Ἀὼδ διεσώθη ἕως ἐθορυβοῦντο, καὶ οὐκ ἦν ὁ προσνοῶν αὐτῷ ·"
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "18.19",
+    "form": "θορυβήσαντες",
+    "postag": "v-papamn-",
+    "sentence": "οἱ γὰρ ὄνειροι θορυβήσαντες αὐτοὺς τοῦτο προεμήνυσαν, ἵνα μὴ ἀγνοοῦντες δι’ ὃ κακῶς πάσχουσιν ἀπόλωνται."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "40.6",
+    "form": "τεθορυβημένος",
+    "postag": "v-srpmmn-",
+    "sentence": "ὀλίγον ὡς οὐδὲν ἐν ἀναπαύσει, καὶ ἀπ’ ἐκείνου ἐν ὕπνοις ὡς ἐν ἡμέρᾳ σκοπιᾶς τεθορυβημένος ἐν ὁράσει καρδίας αὐτοῦ, ὡς ἐκπεφευγὼς ἀπὸ προσώπου πολέμου."
+   },
+   {
+    "work_code": "NAH",
+    "work_ja": "ナホム書",
+    "work_src": "Nahum",
+    "ref": "2.4",
+    "form": "θορυβηθήσονται",
+    "postag": "v3pfip---",
+    "sentence": "αἱ ἡνίαι τῶν ἁρμάτων αὐτῶν ἐν ἡμέρᾳ ἑτοιμασίας αὐτοῦ, καὶ οἱ ἱππεῖς θορυβηθήσονται ἐν ταῖς ὁδοῖς, καὶ συγχυθήσονται τὰ ἅρματα καὶ συμπλακήσονται ἐν ταῖς πλατείαις ·"
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "8.17",
+    "form": "ἐθορυβήθην",
+    "postag": "v1saip---",
+    "sentence": "καὶ ἦλθε καὶ ἔστη ἐχόμενός μου τῆς στάσεως, καὶ ἐν τῷ ἔρχεσθαι αὐτὸν ἐθορυβήθην καὶ ἔπεσα ἐπὶ πρόσωπόν μου, καὶ εἶπέν μοι Διανοήθητι, υἱὲ ἀνθρώπου, ἔτι γὰρ εἰς ὥραν καιροῦ τοῦτο τὸ ὅραμα."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "4   θορυβέω, -ῶ    (< θόρυβος),   [in LXX: Na 2:3(4) (רעל ho.), Da LXX 8:17 (בּעת ni.), Jg 3:26, Wi 18:19, Si 40:6*;]      to make a noise or uproar: mid., of loud and ostentatious lamentation, Mt 9:23, Mk 5:39, Ac 20:10.     Trans., to trouble, throw into confusion: τ. πόλιν, Ac 17:5.†"
+}

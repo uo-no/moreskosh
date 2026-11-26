@@ -1,0 +1,86 @@
+{
+ "strong": "G1805",
+ "lemma": "ἐξαγοράζω",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "COL 4:5",
+   "form": "ἐξαγοραζόμενοι",
+   "morph": "V-PMP-NPM",
+   "gloss_en": "making the most of",
+   "gloss_ja": "買い戻す",
+   "verse": "Ἐν σοφίᾳ περιπατεῖτε πρὸς τοὺς ἔξω, τὸν καιρὸν ἐξαγοραζόμενοι."
+  },
+  {
+   "ref": "EPH 5:16",
+   "form": "ἐξαγοραζόμενοι",
+   "morph": "V-PMP-NPM",
+   "gloss_en": "making the most of",
+   "gloss_ja": "買い戻す",
+   "verse": "ἐξαγοραζόμενοι τὸν καιρόν, ὅτι αἱ ἡμέραι πονηραί εἰσιν."
+  },
+  {
+   "ref": "GAL 4:5",
+   "form": "ἐξαγοράσῃ",
+   "morph": "V-AAS-3S",
+   "gloss_en": "redeem",
+   "gloss_ja": "買い戻す",
+   "verse": "ἵνα τοὺς ὑπὸ νόμον ἐξαγοράσῃ, ἵνα τὴν υἱοθεσίαν ἀπολάβωμεν."
+  },
+  {
+   "ref": "GAL 3:13",
+   "form": "ἐξηγόρασεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "redeemed",
+   "gloss_ja": "買い戻す",
+   "verse": "Χριστὸς ἡμᾶς ἐξηγόρασεν ἐκ τῆς κατάρας τοῦ νόμου γενόμενος ὑπὲρ ἡμῶν κατάρα, ὅτι γέγραπται· Ἐπικατάρατος πᾶς ὁ κρεμάμενος ἐπὶ ξύλου,"
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Daniel": 2
+  },
+  "representatives": [
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "2.8",
+    "form": "ἐξαγοράζετε",
+    "postag": "v2ppia---",
+    "sentence": "ἐπ’ ἀληθείας οἶδα ἐγὼ ὅτι καιρὸν ὑμεῖς ἐξαγοράζετε, καθότι εἴδετε ὅτι ἀπέστη ἀπ’ ἐμοῦ τὸ ρῆμα."
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "2.8",
+    "form": "ἐξαγοράζετε",
+    "postag": "v2ppia---",
+    "sentence": "καὶ εἶπεν αὐτοῖς ὁ βασιλεύς Ἐπ’ ἀληθείας οἶδα ὅτι καιρὸν ὑμεῖς ἐξαγοράζετε, καθάπερ ἑωράκατε ὅτι ἀπέστη ἀπ’ ἐμοῦ τὸ πρᾶγμα ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Martyrdom of Polycarp": 1
+  },
+  "representatives": [
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "2.3",
+    "form": "ἐξαγοραζόμενοι",
+    "postag": "v-pppmmn-",
+    "sentence": "καὶ προσέχοντες τῇ τοῦ Χριστοῦ χάριτι τῶν κοσμικῶν κατεφρόνουν βασάνων, διὰ μιᾶς ὥρας τὴν αἰώνιον ζωὴν ἐξαγοραζόμενοι."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "4   † ἐξ-αγοράζω     [in LXX: καιρόν ὑμεῖς ἐξαγοράζετε (זְבַן),  Da LXX TH 2:8 * ;]     to redeem, ransom (esp. of slaves): metaph., Ga 3:13 4:5.    to buy up; mid., to buy up for oneself: τ. καιρόν, Eph 5:16, Col 4:5 (Cremer, 60).†"
+}

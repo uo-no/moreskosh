@@ -1,0 +1,65 @@
+{
+ "strong": "G2526",
+ "lemma": "καθό",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1PE 4:13",
+   "form": "καθὸ",
+   "morph": "ADV",
+   "gloss_en": "insofar as",
+   "gloss_ja": "〜に応じて",
+   "verse": "ἀλλὰ καθὸ κοινωνεῖτε τοῖς τοῦ Χριστοῦ παθήμασιν χαίρετε, ἵνα καὶ ἐν τῇ ἀποκαλύψει τῆς δόξης αὐτοῦ χαρῆτε ἀγαλλιώμενοι."
+  },
+  {
+   "ref": "2CO 8:12",
+   "form": "καθὸ",
+   "morph": "ADV",
+   "gloss_en": "according to",
+   "gloss_ja": "〜に応じて",
+   "verse": "εἰ γὰρ ἡ προθυμία πρόκειται, καθὸ ἐὰν ἔχῃ εὐπρόσδεκτος, οὐ καθὸ οὐκ ἔχει."
+  },
+  {
+   "ref": "2CO 8:12",
+   "form": "καθὸ",
+   "morph": "ADV",
+   "gloss_en": "according to",
+   "gloss_ja": "〜に応じて",
+   "verse": "εἰ γὰρ ἡ προθυμία πρόκειται, καθὸ ἐὰν ἔχῃ εὐπρόσδεκτος, οὐ καθὸ οὐκ ἔχει."
+  },
+  {
+   "ref": "ROM 8:26",
+   "form": "καθὸ",
+   "morph": "ADV",
+   "gloss_en": "as",
+   "gloss_ja": "〜に応じて",
+   "verse": "Ὡσαύτως δὲ καὶ τὸ πνεῦμα συναντιλαμβάνεται τῇ ἀσθενείᾳ ἡμῶν· τὸ γὰρ τί προσευξώμεθα καθὸ δεῖ οὐκ οἴδαμεν, ἀλλὰ αὐτὸ τὸ πνεῦμα ὑπερεντυγχάνει στεναγμοῖς ἀλαλήτοις,"
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Leviticus": 1
+  },
+  "representatives": [
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "9.5",
+    "form": "καθὸ",
+    "postag": "d--------",
+    "sentence": "καὶ ἔλαβον, καθὸ ἐνετείλατο Μωυσῆς, ἀπέναντι τῆς σκηνῆς τοῦ μαρτυρίου, καὶ προσῆλθε πᾶσα συναγωγὴ καὶ ἔστησαν ἔναντι Κυρίου."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "3   καθό    (= καθ’ ὅ),      adv.,    [in LXX: Le 9:5, 15 (אֲשֶׁר), I Es 1:50, Si 16:20, Ba 1:6, II Mac 4:16*;]    as, according as: Ro 8:26, II Co 8:12, I Pe 4:13.†"
+}

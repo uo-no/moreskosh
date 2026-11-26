@@ -1,0 +1,225 @@
+{
+ "strong": "G3991",
+ "lemma": "πέμπτος",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "REV 16:10",
+   "form": "πέμπτος",
+   "morph": "A-NSM",
+   "gloss_en": "fifth",
+   "gloss_ja": "第五の",
+   "verse": "Καὶ ὁ πέμπτος ἐξέχεεν τὴν φιάλην αὐτοῦ ἐπὶ τὸν θρόνον τοῦ θηρίου· καὶ ἐγένετο ἡ βασιλεία αὐτοῦ ἐσκοτωμένη, καὶ ἐμασῶντο τὰς γλώσσας αὐτῶν ἐκ τοῦ πόνου,"
+  },
+  {
+   "ref": "REV 21:20",
+   "form": "πέμπτος",
+   "morph": "A-NSM",
+   "gloss_en": "fifth",
+   "gloss_ja": "第五の",
+   "verse": "ὁ πέμπτος σαρδόνυξ, ὁ ἕκτος σάρδιον, ὁ ἕβδομος χρυσόλιθος, ὁ ὄγδοος βήρυλλος, ὁ ἔνατος τοπάζιον, ὁ δέκατος χρυσόπρασος, ὁ ἑνδέκατος ὑάκινθος, ὁ δωδέκατος ἀμέθυστος·"
+  },
+  {
+   "ref": "REV 6:9",
+   "form": "πέμπτην",
+   "morph": "A-ASF",
+   "gloss_en": "fifth",
+   "gloss_ja": "第五の",
+   "verse": "Καὶ ὅτε ἤνοιξεν τὴν πέμπτην σφραγῖδα, εἶδον ὑποκάτω τοῦ θυσιαστηρίου τὰς ψυχὰς τῶν ἐσφαγμένων διὰ τὸν λόγον τοῦ θεοῦ καὶ διὰ τὴν μαρτυρίαν ἣν εἶχον."
+  },
+  {
+   "ref": "REV 9:1",
+   "form": "πέμπτος",
+   "morph": "A-NSM",
+   "gloss_en": "fifth",
+   "gloss_ja": "第五の",
+   "verse": "Καὶ ὁ πέμπτος ἄγγελος ἐσάλπισεν· καὶ εἶδον ἀστέρα ἐκ τοῦ οὐρανοῦ πεπτωκότα εἰς τὴν γῆν, καὶ ἐδόθη αὐτῷ ἡ κλεὶς τοῦ φρέατος τῆς ἀβύσσου·"
+  }
+ ],
+ "lxx": {
+  "total": 61,
+  "works": {
+   "Genesis": 3,
+   "Exodus": 1,
+   "Leviticus": 1,
+   "Numeri": 3,
+   "Josue": 2,
+   "Judices": 1,
+   "Regnorum ii": 1,
+   "Regnorum iii": 1,
+   "Regnorum iv": 2,
+   "Paralipomenon i sive Chronicon i": 10,
+   "Paralipomenon ii sive Chronicon ii": 2,
+   "Esdras i": 1,
+   "Esdras ii": 3,
+   "Machabaeorum i": 5,
+   "Machabaeorum ii": 6,
+   "Machabaeorum iii": 2,
+   "Machabaeorum iv": 1,
+   "Job": 1,
+   "Zacharias": 3,
+   "Jeremias": 3,
+   "Baruch": 1,
+   "Ezechiel": 8
+  },
+  "representatives": [
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "25.12",
+    "form": "πέμπτος",
+    "postag": "a-s---mn-",
+    "sentence": "ὁ πέμπτος Ναθανίας, υἱοὶ αὐτοῦ καὶ ἀδελφοὶ αὐτοῦ δεκαδύο ·"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "33.21",
+    "form": "πέμπτῃ",
+    "postag": "a-s---fd-",
+    "sentence": "καὶ ἐγενήθη ἐν τῷ δωδεκάτῳ ἔτει, ἐν τῷ δωδεκάτῳ μηνί, πέμπτῃ τοῦ μηνὸς τῆς αἰχμαλωσίας ἡμῶν, ἦλθε πρός με ὁ ἀνασωθεὶς ἀπὸ Ἱερουσαλὴμ λέγων ·"
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "7.15",
+    "form": "πέμπτον",
+    "postag": "a-s---ma-",
+    "sentence": "ἐχομένως δὲ τὸν πέμπτον προσάγοντες ᾐκίζοντο."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "10.67",
+    "form": "πέμπτῳ",
+    "postag": "a-s---nd-",
+    "sentence": "καὶ ἐν ἔτει πέμπτῳ καὶ ἑξηκοστῷ καὶ ἑκατοστῷ ἦλθε Δημήτριος υἱὸς Δημητρίου ἐκ Κρήτης εἰς τὴν γῆν τῶν πατέρων αὐτοῦ."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "1.23",
+    "form": "πέμπτη",
+    "postag": "a-s---fn-",
+    "sentence": "καὶ ἐγένετο ἑσπέρα καὶ ἐγένετο πρωΐ, ἡμέρα πέμπτη."
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "7.36",
+    "form": "πέμπτῃ",
+    "postag": "a-s---fd-",
+    "sentence": "τῇ ἡμέρᾳ τῇ πέμπτῃ ἄρχων τῶν υἱῶν Συμεὼν Σαλαμιὴλ υἱὸς Σουρισαδαί."
+   },
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "7.9",
+    "form": "πέμπτου",
+    "postag": "a-s---mg-",
+    "sentence": "ὅτι ἐν μιᾷ τοῦ μηνὸς τοῦ πρώτου αὐτὸς ἐθεμελίωσε τὴν ἀνάβασιν τὴν ἀπὸ Βαβυλῶνος, ἐν δὲ τῇ πρώτῃ τοῦ μηνὸς τοῦ πέμπτου ἤλθοσαν εἰς Ἱερουσαλήμ, ὅτι χεὶρ Θεοῦ αὐτοῦ ἦν ἀγαθὴ ἐπ’ αὐτόν."
+   },
+   {
+    "work_code": "ZEC",
+    "work_ja": "ゼカリヤ書",
+    "work_src": "Zacharias",
+    "ref": "7.5",
+    "form": "πέμπταις",
+    "postag": "a-p---fd-",
+    "sentence": "ἐὰν νηστεύσητε ἢ κόψησθε ἐν ταῖς πέμπταις ἢ ἐν ταῖς ἑβδόμαις, καὶ ἰδοὺ ἑβδομήκοντα ἔτη μὴ νηστείαν νενηστεύκατέ μοι;"
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "1.3",
+    "form": "πέμπτῳ",
+    "postag": "a-s---md-",
+    "sentence": "καὶ ἐγένετο ἐν ταῖς ἡμέραις Ἰωακεὶμ υἱοῦ Ἰωσία βασιλέως Ἰούδα ἕως ἑνδεκάτου ἔτους τοῦ Σεδεκία υἱοῦ Ἰωσία βασιλέως Ἰούδα, ἕως τῆς αἰχμαλωσίας Ἱερουσαλὴμ ἐν τῷ πέμπτῳ μηνί."
+   },
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "19.24",
+    "form": "πέμπτος",
+    "postag": "a-s---mn-",
+    "sentence": "καὶ ἐξῆλθεν ὁ κλῆρος ὁ πέμπτος Ἀσὴρ κατὰ δήμους αὐτῶν."
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "8.16",
+    "form": "πέμπτῳ",
+    "postag": "a-s---nd-",
+    "sentence": "ἐν ἔτει πέμπτῳ τῷ Ἰωρὰμ υἱῷ Ἀχαὰβ βασιλεῖ Ἰσραὴλ καὶ Ἰωσαφὰτ βασιλεῖ Ἰούδα ἐβασίλευσεν Ἰωρὰμ υἱὸς Ἰωσαφὰτ βασιλεὺς Ἰούδα."
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "15.19",
+    "form": "πέμπτου",
+    "postag": "a-s---ng-",
+    "sentence": "καὶ πόλεμος οὐκ ἦν μετ’ αὐτοῦ ἕως τοῦ πέμπτου καὶ τριακοστοῦ ἔτους τῆς βασιλείας Ἀσά."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 4,
+  "works": {
+   "Didache": 1,
+   "Hermas, Pastor": 3
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.1.7",
+    "form": "πέμπτον",
+    "postag": "a-s---nn-",
+    "sentence": "τὸ δὲ πέμπτον ὄρος ἔχον βοτάνας χλωρὰς καὶ τραχὺ ὄν."
+   },
+   {
+    "work_code": "DID",
+    "work_ja": "ディダケー",
+    "work_src": "Didache",
+    "ref": "8.1",
+    "form": "πέμπτῃ",
+    "postag": "a-s---fd-",
+    "sentence": "νηστεύουσι γὰρ δευτέρᾳ σαββάτων καὶ πέμπτῃ ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.22.1",
+    "form": "πέμπτου",
+    "postag": "a-s---ng-",
+    "sentence": "ἐκ δὲ τοῦ ὄρους τοῦ πέμπτου τοῦ ἔχοντος βοτάνας χλωρὰς καὶ τραχέος ὄντος οἱ πιστεύσαντες τοιοῦτοί εἰσι ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "3.1.2",
+    "form": "πέμπτην",
+    "postag": "a-s---fa-",
+    "sentence": "ἐπεὶ οὕτως ἐνδεὴς εἶ καὶ σπουδαῖος εἰς τὸ γνῶναι πάντα, ἐλθὲ εἰς τὸν ἀγρόν, ὅπου χονδρίζεις, καὶ περὶ ὥραν πέμπτην ἐμφανισθήσομαί σοι καὶ δείξω σοι, ἃ δεῖ σε ἰδεῖν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "4   πέμπτος, -η, -ον,    [in LXX for חֲמִישִׁי and cognate forms;]    fifth: Re 6:9 9:1 16:10 21:20.†"
+}

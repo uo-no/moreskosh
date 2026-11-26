@@ -1,0 +1,178 @@
+{
+ "strong": "G2901",
+ "lemma": "κραταιόομαι",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": "κραταιοω",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 16:13",
+   "form": "κραταιοῦσθε",
+   "morph": "V-PPM-2P",
+   "gloss_en": "strong",
+   "gloss_ja": "強くする",
+   "verse": "Γρηγορεῖτε, στήκετε ἐν τῇ πίστει, ἀνδρίζεσθε, κραταιοῦσθε."
+  },
+  {
+   "ref": "EPH 3:16",
+   "form": "κραταιωθῆναι",
+   "morph": "V-APN",
+   "gloss_en": "strengthened",
+   "gloss_ja": "強くする",
+   "verse": "ἵνα δῷ ὑμῖν κατὰ τὸ πλοῦτος τῆς δόξης αὐτοῦ δυνάμει κραταιωθῆναι διὰ τοῦ πνεύματος αὐτοῦ εἰς τὸν ἔσω ἄνθρωπον,"
+  },
+  {
+   "ref": "LUK 1:80",
+   "form": "ἐκραταιοῦτο",
+   "morph": "V-IPI-3S",
+   "gloss_en": "strong",
+   "gloss_ja": "強くする",
+   "verse": "Τὸ δὲ παιδίον ηὔξανε καὶ ἐκραταιοῦτο πνεύματι, καὶ ἦν ἐν ταῖς ἐρήμοις ἕως ἡμέρας ἀναδείξεως αὐτοῦ πρὸς τὸν Ἰσραήλ."
+  },
+  {
+   "ref": "LUK 2:40",
+   "form": "ἐκραταιοῦτο",
+   "morph": "V-IPI-3S",
+   "gloss_en": "strong",
+   "gloss_ja": "強くする",
+   "verse": "Τὸ δὲ παιδίον ηὔξανεν καὶ ἐκραταιοῦτο πληρούμενον σοφίᾳ, καὶ χάρις θεοῦ ἦν ἐπ’ αὐτό."
+  }
+ ],
+ "lxx": {
+  "total": 63,
+  "works": {
+   "Judices": 1,
+   "Ruth": 1,
+   "Regnorum i": 4,
+   "Regnorum ii": 13,
+   "Regnorum iii": 4,
+   "Regnorum iv": 6,
+   "Paralipomenon ii sive Chronicon ii": 4,
+   "Esdras ii": 4,
+   "Judith": 2,
+   "Machabaeorum i": 1,
+   "Psalmi": 17,
+   "Job": 2,
+   "Ecclesiasticus sive Siracides": 1,
+   "Threni seu Lamentationes": 1,
+   "Daniel": 2
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "138.6",
+    "form": "ἐκραταιώθη",
+    "postag": "v3saip---",
+    "sentence": "ἐκραταιώθη, οὐ μὴ δύνωμαι πρὸς αὐτήν."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "1.23",
+    "form": "ἐκραταιώθησαν",
+    "postag": "v3paip---",
+    "sentence": "ὑπὲρ ἀετοὺς κοῦφοι καὶ ὑπὲρ λέοντας ἐκραταιώθησαν."
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "12.8",
+    "form": "ἐκραταιοῦτε",
+    "postag": "v2piia---",
+    "sentence": "τί ὅτι οὐκ ἐκραταιοῦτε τὸ βεδὲκ τοῦ οἴκου;"
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "23.16",
+    "form": "ἐκραταίωσε",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἀνέστη Ἰωνάθαν υἱὸς Σαοὺλ καὶ ἐπορεύθη πρὸς Δαυὶδ εἰς Καινὴν καὶ ἐκραταίωσε τὰς χεῖρας αὐτοῦ ἐν Κυρίῳ."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "21.23",
+    "form": "κραταιώσωμεν",
+    "postag": "v1pasa---",
+    "sentence": "ἐὰν δὲ πολεμήσωμεν αὐτοὺς κατ’ εὐθύ, εἰ μὴν κραταιώσωμεν ὑπὲρ αὐτούς."
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "23.1",
+    "form": "ἐκραταίωσεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἐν τῷ ἔτει τῷ ὀγδόῳ ἐκραταίωσεν Ἰωδαὲ καὶ ἔλαβε τοὺς ἑκατοντάρχους, τὸν Ἀζαρίαν υἱὸν Ἰωρὰμ καὶ τὸν Ἰσμαὴλ υἱὸν Ἰωανὰν καὶ τὸν Ἀζαρίαν υἱὸν Ὠβὴδ καὶ τὸν Μαασαίαν υἱὸν Ἀδαΐα καὶ τὸν Ἐλισαφὰν υἱὸν Ζαχαρίου, μεθ’ ἑαυτοῦ εἰς οἶκον Κυρίου."
+   },
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "16.9",
+    "form": "ἐκραταίωσα",
+    "postag": "v1saia---",
+    "sentence": "καὶ νῦν ἐκραταίωσα τὰς χεῖράς μου."
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "13.7",
+    "form": "κραταίωσόν",
+    "postag": "v2sama---",
+    "sentence": "κραταίωσόν με, ὁ Θεὸς Ἰσραήλ, ἐν τῇ ἡμέρᾳ ταύτῃ."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "36.22",
+    "form": "κραταιώσει",
+    "postag": "v3sfia---",
+    "sentence": "ἰδοὺ ὁ Ἰσχυρὸς κραταιώσει ἐν ἰσχύϊ αὐτοῦ ·"
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "4.36",
+    "form": "ἐκραταιώθην",
+    "postag": "v1saip---",
+    "sentence": "αὐτῷ τῷ καιρῷ αἱ φρένες μου ἐπεστράφησαν ἐπ’ ἐμέ, καὶ εἰς τὴν τιμὴν τῆς βασιλείας μου ἦλθον, καὶ ἡ μορφή μου ἐπέστρεψεν ἐπ’ ἐμέ, καὶ οἱ τύραννοί μου καὶ οἱ μεγιστᾶνές μου ἐζήτουν με, καὶ ἐπὶ τὴν βασιλείαν μου ἐκραταιώθην, καὶ μεγαλωσύνη περισσοτέρα προσετέθη μοι."
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "3.10",
+    "form": "ἐκραταιώθη",
+    "postag": "v3saip---",
+    "sentence": "καὶ παρέδωκε Κύριος ἐν χειρὶ αὐτοῦ τὸν Χουσαρσαθαὶμ βασιλέα Συρίας ποταμῶν, καὶ ἐκραταιώθη χεὶρ αὐτοῦ ἐπὶ τὸν Χουσαρσαθαίμ."
+   },
+   {
+    "work_code": "RUT",
+    "work_ja": "ルツ記",
+    "work_src": "Ruth",
+    "ref": "1.18",
+    "form": "κραταιοῦται",
+    "postag": "v3spim---",
+    "sentence": "ἰδοῦσα δὲ Νωεμὶν ὅτι κραταιοῦται αὐτὴ τοῦ πορεύεσθαι μετ’ αὐτῆς, ἐκόπασε τοῦ λαλῆσαι πρὸς αὐτὴν ἔτι."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "4 † κραταιόω, -ῶ    (late form of κρατύνω; < κράτος),   [in LXX chiefly for חזק;]    to strengthen; pass., to wax strong: Lk 2:40, I Co 16:13; πνεύματι, Lk 1:80; δυνάμει κ. διὰ τ. πνεύματος, Eph 3:16.†"
+}

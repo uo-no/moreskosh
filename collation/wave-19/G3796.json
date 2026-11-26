@@ -1,0 +1,126 @@
+{
+ "strong": "G3796",
+ "lemma": "ὀψέ",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MAT 28:1",
+   "form": "Ὀψὲ",
+   "morph": "ADV",
+   "gloss_en": "after",
+   "gloss_ja": "夕方",
+   "verse": "Ὀψὲ δὲ σαββάτων, τῇ ἐπιφωσκούσῃ εἰς μίαν σαββάτων, ἦλθεν Μαριὰμ ἡ Μαγδαληνὴ καὶ ἡ ἄλλη Μαρία θεωρῆσαι τὸν τάφον."
+  },
+  {
+   "ref": "MRK 11:11",
+   "form": "ὀψὲ",
+   "morph": "ADV",
+   "gloss_en": "late",
+   "gloss_ja": "夕方",
+   "verse": "Καὶ εἰσῆλθεν εἰς Ἱεροσόλυμα εἰς τὸ ἱερόν· καὶ περιβλεψάμενος πάντα ὀψὲ ἤδη οὔσης τῆς ὥρας ἐξῆλθεν εἰς Βηθανίαν μετὰ τῶν δώδεκα."
+  },
+  {
+   "ref": "MRK 11:19",
+   "form": "ὀψὲ",
+   "morph": "ADV",
+   "gloss_en": "evening",
+   "gloss_ja": "夕方",
+   "verse": "Καὶ ὅταν ὀψὲ ἐγένετο, ἐξεπορεύοντο ἔξω τῆς πόλεως."
+  },
+  {
+   "ref": "MRK 13:35",
+   "form": "ὀψὲ",
+   "morph": "ADV",
+   "gloss_en": "in the evening",
+   "gloss_ja": "夕方",
+   "verse": "γρηγορεῖτε οὖν, οὐκ οἴδατε γὰρ πότε ὁ κύριος τῆς οἰκίας ἔρχεται, ἢ ὀψὲ ἢ μεσονύκτιον ἢ ἀλεκτοροφωνίας ἢ πρωΐ,"
+  }
+ ],
+ "lxx": {
+  "total": 4,
+  "works": {
+   "Genesis": 1,
+   "Exodus": 1,
+   "Isaias": 1,
+   "Jeremias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "24.11",
+    "form": "ὀψέ",
+    "postag": "d--------",
+    "sentence": "καὶ ἐκοίμισε τὰς καμήλους ἔξω τῆς πόλεως παρὰ τὸ φρέαρ τοῦ ὕδατος τὸ πρὸς ὀψέ, ἡνίκα ἐκπορεύονται αἱ ὑδρευόμεναι."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "30.8",
+    "form": "ὀψέ",
+    "postag": "d--------",
+    "sentence": "τὸ πρωΐ πρωΐ, ὅταν ἐπισκευάζῃ τοὺς λύχνους, θυμιάσει ἐπ’ αὐτοῦ, καὶ ὅταν ἐξάπτῃ Ἀαρὼν τοὺς λύχνους ὀψέ, θυμιάσει ἐπ’ αὐτοῦ ·"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "5.11",
+    "form": "ὀψέ",
+    "postag": "d--------",
+    "sentence": "οὐαὶ οἱ ἐγειρόμενοι τὸ πρωΐ, καὶ τὰ σίκερα διώκοντες, οἱ μένοντες τὸ ὀψέ ·"
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "2.23",
+    "form": "ὀψὲ",
+    "postag": "d--------",
+    "sentence": "ὀψὲ φωνὴ αὐτῆς ὠλόλυξε, τὰς ὁδοὺς αὐτῆς ἐπλάτυνεν ἐφ’ ὕδατα ἐρήμου, ἐν ἐπιθυμίαις ψυχῆς αὐτῆς ἐπνευματοφορεῖτο, παρεδόθη ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 3,
+  "works": {
+   "Hermas, Pastor": 2,
+   "Martyrdom of Polycarp": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.11.2",
+    "form": "ὀψέ",
+    "postag": "d--------",
+    "sentence": "ἐκδέξομαι αὐτὸν ἕως ὀψέ ·"
+   },
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "7.1",
+    "form": "ὀψὲ",
+    "postag": "d--------",
+    "sentence": "καὶ ὀψὲ τῆς ὥρας συνεπελθόντες ἐκεῖνον μὲν εὗρον ἐν ὑπερῴῳ κατακείμενον ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.11.1",
+    "form": "ὀψέ",
+    "postag": "d--------",
+    "sentence": "μέχρις ὀψέ, φασίν, περίμεινον αὐτόν ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3   ὀψέ,   adv. of time,    [in LXX: Ge 24:11, Ex 30:8 (עֶרֶב, הָעַרְבַּיִם בֵּין), Je 2:23; τὸ ὀ., Is 5:11 (נֶשֶׁף)*;]      long after, late.     late in the day,   at evening (opp. to πρωί); in late writers used almost as an indecl. noun (v. MM, xviii): Mk 11:11, 19 13:35.     C. gen., late in or on; and, in late writers also after (M, Pr., 72 f.), a sense which seems to be required in Mt 28:1.†"
+}

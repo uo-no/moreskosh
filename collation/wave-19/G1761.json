@@ -1,0 +1,102 @@
+{
+ "strong": "G1761",
+ "lemma": "ἐνθύμησις",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 17:29",
+   "form": "ἐνθυμήσεως",
+   "morph": "N-GSF",
+   "gloss_en": "imagination",
+   "gloss_ja": "思い",
+   "verse": "γένος οὖν ὑπάρχοντες τοῦ θεοῦ οὐκ ὀφείλομεν νομίζειν χρυσῷ ἢ ἀργύρῳ ἢ λίθῳ, χαράγματι τέχνης καὶ ἐνθυμήσεως ἀνθρώπου, τὸ θεῖον εἶναι ὅμοιον."
+  },
+  {
+   "ref": "HEB 4:12",
+   "form": "ἐνθυμήσεων",
+   "morph": "N-GPF",
+   "gloss_en": "thoughts",
+   "gloss_ja": "思い",
+   "verse": "Ζῶν γὰρ ὁ λόγος τοῦ θεοῦ καὶ ἐνεργὴς καὶ τομώτερος ὑπὲρ πᾶσαν μάχαιραν δίστομον καὶ διϊκνούμενος ἄχρι μερισμοῦ ψυχῆς καὶ πνεύματος, ἁρμῶν τε καὶ μυελῶν, καὶ κριτικὸς ἐνθυμήσεων καὶ ἐννοιῶν καρδίας·"
+  },
+  {
+   "ref": "MAT 12:25",
+   "form": "ἐνθυμήσεις",
+   "morph": "N-APF",
+   "gloss_en": "thoughts",
+   "gloss_ja": "思い",
+   "verse": "εἰδὼς δὲ τὰς ἐνθυμήσεις αὐτῶν εἶπεν αὐτοῖς· Πᾶσα βασιλεία μερισθεῖσα καθ’ ἑαυτῆς ἐρημοῦται, καὶ πᾶσα πόλις ἢ οἰκία μερισθεῖσα καθ’ ἑαυτῆς οὐ σταθήσεται."
+  },
+  {
+   "ref": "MAT 9:4",
+   "form": "ἐνθυμήσεις",
+   "morph": "N-APF",
+   "gloss_en": "thoughts",
+   "gloss_ja": "思い",
+   "verse": "καὶ εἰδὼς ὁ Ἰησοῦς τὰς ἐνθυμήσεις αὐτῶν εἶπεν· Ἱνατί ἐνθυμεῖσθε πονηρὰ ἐν ταῖς καρδίαις ὑμῶν;"
+  }
+ ],
+ "lxx": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "fathers": {
+  "total": 5,
+  "works": {
+   "1 Clement": 1,
+   "Hermas, Pastor": 4
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "9.1.3",
+    "form": "ἐνθυμήσεως",
+    "postag": "n-s---fg-",
+    "sentence": "ἀπέχου ἀπὸ τῆς ἐνθυμήσεως ταύτης ·"
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "21.9",
+    "form": "ἐνθυμήσεων",
+    "postag": "n-p---fg-",
+    "sentence": "ἐρευνητὴς γάρ ἐστιν ἐννοιῶν καὶ ἐνθυμήσεων ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "9.1.2",
+    "form": "ἐνθύμησις",
+    "postag": "n-s---fn-",
+    "sentence": "ἡ γὰρ ἐνθύμησις αὕτη θεοῦ δούλῳ ἁμαρτία μεγάλη ἐστίν ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "9.1.2",
+    "form": "ἐνθύμησις",
+    "postag": "n-s---fn-",
+    "sentence": "ἐὰν γὰρ αὕτη ἡ ἐνθύμησις ἐπὶ τὴν καρδίαν σου ἀναβῇ, διαμαρτήσεις, καὶ ἐὰν ἕτερα οὕτως πονηρά, ἁμαρτίαν ἐργάζῃ ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "11.2.7",
+    "form": "ἐνθύμησις",
+    "postag": "n-s---fn-",
+    "sentence": "ἐὰν γὰρ ᾖ τις πιστὸς ἀνὴρ καὶ ἡ ἐνθύμησις τοῦ ἀγγέλου τούτου ἀναβῇ ἐπὶ τὴν καρδίαν αὐτοῦ, δεῖ τὸν ἄνδρα ἐκεῖνον ἢ τὴν γυναῖκα ἐξαμαρτῆσαί τι."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "4 ** ἐνθύμησις, -εως, ἡ    (< ἐνθυμέομαι),    [in Sm.: Jb 21:27, Ez 11:21 * ;]    consideration, pondering (EV, device): Ac 17:29; pl., thoughts, feel­ings: Mt 9:4 12:25, He 4:12.†   SYN.: ἔννοια, the action of the reason; while ἐνθ. is rather that of the affections (cf. Westc., Heb., l.c.)"
+}

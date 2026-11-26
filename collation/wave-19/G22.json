@@ -1,0 +1,65 @@
+{
+ "strong": "G22",
+ "lemma": "ἄγαμος",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 7:8",
+   "form": "ἀγάμοις",
+   "morph": "N-DPM",
+   "gloss_en": "unmarried",
+   "gloss_ja": "未婚の",
+   "verse": "Λέγω δὲ τοῖς ἀγάμοις καὶ ταῖς χήραις, καλὸν αὐτοῖς ἐὰν μείνωσιν ὡς κἀγώ·"
+  },
+  {
+   "ref": "1CO 7:11",
+   "form": "ἄγαμος",
+   "morph": "N-NSF",
+   "gloss_en": "unmarried",
+   "gloss_ja": "未婚の",
+   "verse": "ἐὰν δὲ καὶ χωρισθῇ, μενέτω ἄγαμος ἢ τῷ ἀνδρὶ καταλλαγήτω καὶ ἄνδρα γυναῖκα μὴ ἀφιέναι."
+  },
+  {
+   "ref": "1CO 7:32",
+   "form": "ἄγαμος",
+   "morph": "N-NSM",
+   "gloss_en": "unmarried",
+   "gloss_ja": "未婚の",
+   "verse": "Θέλω δὲ ὑμᾶς ἀμερίμνους εἶναι. ὁ ἄγαμος μεριμνᾷ τὰ τοῦ κυρίου, πῶς ἀρέσῃ τῷ κυρίῳ·"
+  },
+  {
+   "ref": "1CO 7:34",
+   "form": "ἄγαμος",
+   "morph": "N-NSF",
+   "gloss_en": "unmarried",
+   "gloss_ja": "未婚の",
+   "verse": "καὶ μεμέρισται. καὶ ἡ γυνὴ ἡ ἄγαμος καὶ ἡ παρθένος μεριμνᾷ τὰ τοῦ κυρίου, ἵνα ᾖ ἁγία καὶ τῷ σώματι καὶ τῷ πνεύματι· ἡ δὲ γαμήσασα μεριμνᾷ τὰ τοῦ κόσμου, πῶς ἀρέσῃ τῷ ἀνδρί."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Machabaeorum iv": 1
+  },
+  "representatives": [
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "16.9",
+    "form": "ἄγαμοι",
+    "postag": "a-p---mn-",
+    "sentence": "ὦ τῶν ἐμῶν παίδων, οἱ μὲν ἄγαμοι, οἱ δὲ γήμαντες ἀνόνητοι ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "4   ** ἄ-γαμος, -ον     [in LXX: IV Mac 16:9 * ;]    unmarried: I Co 7:8, 32; fem. (= cl. ἄνανδρος), I Co 7:11, 34.†"
+}

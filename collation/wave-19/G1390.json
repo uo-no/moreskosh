@@ -1,0 +1,183 @@
+{
+ "strong": "G1390",
+ "lemma": "δόμα",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "EPH 4:8",
+   "form": "δόματα",
+   "morph": "N-APN",
+   "gloss_en": "gifts",
+   "gloss_ja": "贈り物",
+   "verse": "διὸ λέγει· Ἀναβὰς εἰς ὕψος ᾐχμαλώτευσεν αἰχμαλωσίαν, ἔδωκεν δόματα τοῖς ἀνθρώποις."
+  },
+  {
+   "ref": "LUK 11:13",
+   "form": "δόματα",
+   "morph": "N-APN",
+   "gloss_en": "gifts",
+   "gloss_ja": "贈り物",
+   "verse": "εἰ οὖν ὑμεῖς πονηροὶ ὑπάρχοντες οἴδατε δόματα ἀγαθὰ διδόναι τοῖς τέκνοις ὑμῶν, πόσῳ μᾶλλον ὁ πατὴρ ὁ ἐξ οὐρανοῦ δώσει πνεῦμα ἅγιον τοῖς αἰτοῦσιν αὐτόν."
+  },
+  {
+   "ref": "MAT 7:11",
+   "form": "δόματα",
+   "morph": "N-APN",
+   "gloss_en": "gifts",
+   "gloss_ja": "贈り物",
+   "verse": "εἰ οὖν ὑμεῖς πονηροὶ ὄντες οἴδατε δόματα ἀγαθὰ διδόναι τοῖς τέκνοις ὑμῶν, πόσῳ μᾶλλον ὁ πατὴρ ὑμῶν ὁ ἐν τοῖς οὐρανοῖς δώσει ἀγαθὰ τοῖς αἰτοῦσιν αὐτόν."
+  },
+  {
+   "ref": "PHP 4:17",
+   "form": "δόμα",
+   "morph": "N-ASN",
+   "gloss_en": "gift",
+   "gloss_ja": "贈り物",
+   "verse": "οὐχ ὅτι ἐπιζητῶ τὸ δόμα, ἀλλὰ ἐπιζητῶ τὸν καρπὸν τὸν πλεονάζοντα εἰς λόγον ὑμῶν."
+  }
+ ],
+ "lxx": {
+  "total": 56,
+  "works": {
+   "Genesis": 2,
+   "Exodus": 1,
+   "Leviticus": 2,
+   "Numeri": 7,
+   "Deuteronomium": 1,
+   "Regnorum i": 2,
+   "Regnorum ii": 1,
+   "Regnorum iii": 1,
+   "Paralipomenon ii sive Chronicon ii": 5,
+   "Esther": 1,
+   "Judith": 2,
+   "Machabaeorum i": 8,
+   "Psalmi": 1,
+   "Proverbia": 2,
+   "Ecclesiastes": 3,
+   "Ecclesiasticus sive Siracides": 3,
+   "Psalmi Salomonis": 3,
+   "Osee": 2,
+   "Ezechiel": 5,
+   "Daniel": 4
+  },
+  "representatives": [
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "10.28",
+    "form": "δόματα",
+    "postag": "n-p---na-",
+    "sentence": "καὶ ἀφήσομεν ὑμῖν ἀφέματα πολλὰ καὶ δώσομεν ὑμῖν δόματα."
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "18.11",
+    "form": "δομάτων",
+    "postag": "n-p---ng-",
+    "sentence": "καὶ τοῦτο ἔσται ὑμῖν ἀπαρχὴ δομάτων αὐτῶν ·"
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "21.3",
+    "form": "δόματα",
+    "postag": "n-p---na-",
+    "sentence": "καὶ ἔδωκεν αὐτοῖς ὁ πατὴρ αὐτῶν δόματα πολλά, ἀργύριον καὶ χρυσίον καὶ ὅπλα μετὰ τῶν πόλεων τετειχισμένων ἐν Ἰούδᾳ ·"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "20.26",
+    "form": "δόμασιν",
+    "postag": "n-p---nd-",
+    "sentence": "καὶ μιανῶ αὐτοὺς ἐν τοῖς δόμασιν αὐτῶν ἐν τῷ διαπορεύεσθαί με πᾶν διανοῖγον μήτραν, ὅπως ἀφανίσω αὐτούς."
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "5.17",
+    "form": "δόματά",
+    "postag": "n-p---nn-",
+    "sentence": "τὰ δόματά σου σοὶ ἔστω, καὶ τὴν δωρεὰν τῆς οἰκίας σου ἑτέρῳ δός, ἐγὼ δὲ τὴν γραφὴν ἀναγνώσομαι τῷ βασιλεῖ καὶ τὴν σύγκρισιν αὐτῆς γνωρίσω σοι."
+   },
+   {
+    "work_code": "ECC",
+    "work_ja": "コヘレトの言葉",
+    "work_src": "Ecclesiastes",
+    "ref": "4.17",
+    "form": "δόμα",
+    "postag": "n-s---na-",
+    "sentence": "ὑπὲρ δόμα τῶν ἀφρόνων θυσία σου, ὅτι οὐκ εἰσὶν εἰδότες τοῦ ποιῆσαι κακόν."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "7.33",
+    "form": "δόματος",
+    "postag": "n-s---ng-",
+    "sentence": "χάρις δόματος ἔναντι παντὸς ζῶντος, καὶ ἐπὶ νεκρῷ μὴ ἀποκωλύσῃς χάριν."
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "5.14",
+    "form": "δόματι",
+    "postag": "n-s---nd-",
+    "sentence": "τὸ δὲ δόμα σου πολὺ μετὰ χρηστότητος καὶ πλούσιον, καὶ οὗ ἐστιν ἡ ἐλπὶς ἐπὶ σέ, οὐ φείσεται ἐν δόματι."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "47.22",
+    "form": "δόμα",
+    "postag": "n-s---na-",
+    "sentence": "οὐκ ἐκτήσατο ταύτην Ἰωσήφ, ἐν δόσει γὰρ ἔδωκε δόμα τοῖς ἱερεῦσι Φαραώ, καὶ ἤσθιον τὴν δόσιν, ἣν ἔδωκεν αὐτοῖς Φαραώ ·"
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "7.30",
+    "form": "δόμα",
+    "postag": "n-s---na-",
+    "sentence": "τὸ στέαρ τὸ ἐπὶ τοῦ στηθυνίου, καὶ τὸν λοβὸν τοῦ ἥπατος, προσοίσει αὐτά, ὥστε ἐπιτιθέναι δόμα ἔναντι Κυρίου."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "18.25",
+    "form": "δόματι",
+    "postag": "n-s---nd-",
+    "sentence": "οὐ βούλεται ὁ βασιλεὺς ἐν δόματι, ἀλλ’ ἢ ἐν ἑκατὸν ἀκροβυστίαις ἀλλοφύλων ἐκδικῆσαι ἐχθροὺς τοῦ βασιλέως ·"
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "16.18",
+    "form": "δόματα",
+    "postag": "n-p---na-",
+    "sentence": "καὶ ἡνίκα ἐκαθαρίσθη ὁ λαός, ἀνήνεγκαν τὰ ὁλοκαυτώματα αὐτῶν καὶ τὰ ἑκούσια αὐτῶν καὶ τὰ δόματα."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "11   δόμα, -τος, τό    (< δίδωμι),    [in LXX for מַתָּנָה, etc. ;]     a gift: Mt 7:11, Lk 11:13, Eph 4:8 (LXX), Phl 4:17.†   SYN.: δόσις, δῶρον, δωρεά, δώρημα."
+}

@@ -1,0 +1,114 @@
+{
+ "strong": "G2759",
+ "lemma": "κέντρον",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 15:55",
+   "form": "κέντρον",
+   "morph": "N-NSN",
+   "gloss_en": "sting",
+   "gloss_ja": "とげ",
+   "verse": "ποῦ σου, θάνατε, τὸ νῖκος; ποῦ σου, θάνατε, τὸ κέντρον;"
+  },
+  {
+   "ref": "1CO 15:56",
+   "form": "κέντρον",
+   "morph": "N-NSN",
+   "gloss_en": "sting",
+   "gloss_ja": "とげ",
+   "verse": "τὸ δὲ κέντρον τοῦ θανάτου ἡ ἁμαρτία, ἡ δὲ δύναμις τῆς ἁμαρτίας ὁ νόμος·"
+  },
+  {
+   "ref": "ACT 26:14",
+   "form": "κέντρα",
+   "morph": "N-APN",
+   "gloss_en": "goads",
+   "gloss_ja": "とげ",
+   "verse": "πάντων τε καταπεσόντων ἡμῶν εἰς τὴν γῆν ἤκουσα φωνὴν λέγουσαν πρός με τῇ Ἑβραΐδι διαλέκτῳ· Σαοὺλ Σαούλ, τί με διώκεις; σκληρόν σοι πρὸς κέντρα λακτίζειν."
+  },
+  {
+   "ref": "REV 9:10",
+   "form": "κέντρα",
+   "morph": "N-APN",
+   "gloss_en": "stings",
+   "gloss_ja": "とげ",
+   "verse": "καὶ ἔχουσιν οὐρὰς ὁμοίας σκορπίοις καὶ κέντρα, καὶ ἐν ταῖς οὐραῖς αὐτῶν ἡ ἐξουσία αὐτῶν ἀδικῆσαι τοὺς ἀνθρώπους μῆνας πέντε."
+  }
+ ],
+ "lxx": {
+  "total": 6,
+  "works": {
+   "Machabaeorum iv": 1,
+   "Proverbia": 1,
+   "Ecclesiasticus sive Siracides": 1,
+   "Psalmi Salomonis": 1,
+   "Osee": 2
+  },
+  "representatives": [
+   {
+    "work_code": "HOS",
+    "work_ja": "ホセア書",
+    "work_src": "Osee",
+    "ref": "13.14",
+    "form": "κέντρον",
+    "postag": "n-s---nn-",
+    "sentence": "ποῦ τὸ κέντρον σου, ᾅδη;"
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "14.19",
+    "form": "κέντρῳ",
+    "postag": "n-s---nd-",
+    "sentence": "ὅπου γε καὶ μέλισσαι περὶ τὸν τῆς κηρογονίας καιρὸν ἐπαμύνονται τοὺς προσιόντας καὶ καθάπερ σιδήρῳ τῷ κέντρῳ πλήσσουσι τοὺς προσιόντας τῇ νοσσιᾷ αὐτῶν καὶ ἐπαμύνουσιν ἕως θανάτου;"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "26.3",
+    "form": "κέντρον",
+    "postag": "n-s---nn-",
+    "sentence": "ὥσπερ μάστιξ ἵππῳ καὶ κέντρον ὄνῳ, οὕτως ράβδος ἔθνει παρανόμῳ."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "38.25",
+    "form": "κέντρου",
+    "postag": "n-s---ng-",
+    "sentence": "τί σοφισθήσεται ὁ κρατῶν ἀρότρου καὶ καυχώμενος ἐν δόρατι κέντρου, βόας ἐλαύνων καὶ ἀναστρεφόμενος ἐν ἔργοις αὐτῶν, καὶ ἡ διήγησις αὐτοῦ ἐν υἱοῖς ταύρων;"
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "16.4",
+    "form": "κέντρον",
+    "postag": "n-s---nn-",
+    "sentence": "ἔνυξέν με ὡς κέντρον ἵππου ἐπὶ τὴν γρηγόρησιν αὐτοῦ, ὁ σωτὴρ καὶ ἀντιλήπτωρ μου ἐν παντὶ καιρῷ ἔσωσέν με."
+   },
+   {
+    "work_code": "HOS",
+    "work_ja": "ホセア書",
+    "work_src": "Osee",
+    "ref": "5.12",
+    "form": "κέντρον",
+    "postag": "n-s---nn-",
+    "sentence": "καὶ ἐγὼ ὡς ταραχὴ τῷ Ἐφραὶμ καὶ ὡς κέντρον τῷ οἴκῳ Ἰούδα."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "4   κέντρον, -ου, τό    (< κεντέω, to prick),    [in LXX: Pr 26:3 (מֶתֶג), Ho 13:14 (קֹטֶב), 5:12, Si 38:25, IV Mac 14:19*;]      a sting (IV Mac 14:19): Re 9:10. Metaph. (as Ho 13:14): τ. θανάτου, I Co 15:55(LXX), 56.     a goad: pl., Ac 26:14.†"
+}

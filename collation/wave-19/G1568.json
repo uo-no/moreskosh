@@ -1,0 +1,65 @@
+{
+ "strong": "G1568",
+ "lemma": "ἐκθαμβέομαι",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": "εκθαμβεω",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MRK 16:5",
+   "form": "ἐξεθαμβήθησαν",
+   "morph": "V-API-3P",
+   "gloss_en": "alarmed",
+   "gloss_ja": "驚かせる",
+   "verse": "καὶ εἰσελθοῦσαι εἰς τὸ μνημεῖον εἶδον νεανίσκον καθήμενον ἐν τοῖς δεξιοῖς περιβεβλημένον στολὴν λευκήν, καὶ ἐξεθαμβήθησαν."
+  },
+  {
+   "ref": "MRK 16:6",
+   "form": "ἐκθαμβεῖσθε",
+   "morph": "V-PPM-2P",
+   "gloss_en": "alarmed",
+   "gloss_ja": "驚かせる",
+   "verse": "ὁ δὲ λέγει αὐταῖς· Μὴ ἐκθαμβεῖσθε· Ἰησοῦν ζητεῖτε τὸν Ναζαρηνὸν τὸν ἐσταυρωμένον· ἠγέρθη, οὐκ ἔστιν ὧδε· ἴδε ὁ τόπος ὅπου ἔθηκαν αὐτόν·"
+  },
+  {
+   "ref": "MRK 14:33",
+   "form": "ἐκθαμβεῖσθαι",
+   "morph": "V-PPN",
+   "gloss_en": "deeply distressed",
+   "gloss_ja": "驚かせる",
+   "verse": "καὶ παραλαμβάνει τὸν Πέτρον καὶ Ἰάκωβον καὶ Ἰωάννην μετ’ αὐτοῦ, καὶ ἤρξατο ἐκθαμβεῖσθαι καὶ ἀδημονεῖν,"
+  },
+  {
+   "ref": "MRK 9:15",
+   "form": "ἐξεθαμβήθησαν",
+   "morph": "V-API-3P",
+   "gloss_en": "amazed",
+   "gloss_ja": "驚かせる",
+   "verse": "καὶ εὐθὺς πᾶς ὁ ὄχλος ἰδόντες αὐτὸν ἐξεθαμβήθησαν, καὶ προστρέχοντες ἠσπάζοντο αὐτόν."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Ecclesiasticus sive Siracides": 1
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "30.9",
+    "form": "ἐκθαμβήσει",
+    "postag": "v3sfia---",
+    "sentence": "τιθήνησον τέκνον, καὶ ἐκθαμβήσει σε ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "4 **† ἐκ-θαμβέω, -ῶ    (< ἔκθαμβος),    [in LXX: Si 30:9 * ;]      to be amazed.      to amaze, terrify (Si 30:9). Pass., to be amazed, terrified: Mk 9:15 14:33 16:5, 6.†"
+}

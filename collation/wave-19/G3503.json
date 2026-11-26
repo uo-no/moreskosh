@@ -1,0 +1,215 @@
+{
+ "strong": "G3503",
+ "lemma": "νεότης",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1TI 4:12",
+   "form": "νεότητος",
+   "morph": "N-GSF",
+   "gloss_en": "youth",
+   "gloss_ja": "若さ",
+   "verse": "μηδείς σου τῆς νεότητος καταφρονείτω, ἀλλὰ τύπος γίνου τῶν πιστῶν ἐν λόγῳ, ἐν ἀναστροφῇ, ἐν ἀγάπῃ, ἐν πίστει, ἐν ἁγνείᾳ."
+  },
+  {
+   "ref": "ACT 26:4",
+   "form": "νεότητος",
+   "morph": "N-GSF",
+   "gloss_en": "youth",
+   "gloss_ja": "若さ",
+   "verse": "Τὴν μὲν οὖν βίωσίν μου τὴν ἐκ νεότητος τὴν ἀπ’ ἀρχῆς γενομένην ἐν τῷ ἔθνει μου ἔν τε Ἱεροσολύμοις ἴσασι πάντες Ἰουδαῖοι,"
+  },
+  {
+   "ref": "LUK 18:21",
+   "form": "νεότητος",
+   "morph": "N-GSF",
+   "gloss_en": "youth",
+   "gloss_ja": "若さ",
+   "verse": "ὁ δὲ εἶπεν· Ταῦτα πάντα ἐφύλαξα ἐκ νεότητος μου."
+  },
+  {
+   "ref": "MRK 10:20",
+   "form": "νεότητός",
+   "morph": "N-GSF",
+   "gloss_en": "youth",
+   "gloss_ja": "若さ",
+   "verse": "ὁ δὲ ἔφη αὐτῷ· Διδάσκαλε, ταῦτα πάντα ἐφυλαξάμην ἐκ νεότητός μου."
+  }
+ ],
+ "lxx": {
+  "total": 65,
+  "works": {
+   "Genesis": 3,
+   "Leviticus": 1,
+   "Numeri": 3,
+   "Regnorum i": 2,
+   "Regnorum ii": 1,
+   "Regnorum iii": 1,
+   "Machabaeorum i": 3,
+   "Machabaeorum iv": 1,
+   "Psalmi": 9,
+   "Proverbia": 3,
+   "Ecclesiastes": 4,
+   "Job": 4,
+   "Sapientia Salomonis": 3,
+   "Ecclesiasticus sive Siracides": 9,
+   "Zacharias": 1,
+   "Malachias": 2,
+   "Isaias": 3,
+   "Jeremias": 6,
+   "Threni seu Lamentationes": 1,
+   "Ezechiel": 5
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "24.7",
+    "form": "νεότητός",
+    "postag": "n-s---fg-",
+    "sentence": "ἁμαρτίας νεότητός μου καὶ ἀγνοίας μου μὴ μνησθῇς ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "30.11",
+    "form": "νεότητι",
+    "postag": "n-s---fd-",
+    "sentence": "μὴ δῷς αὐτῷ ἐξουσία ἐν νεότητι ·"
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "39.30",
+    "form": "νεότητος",
+    "postag": "n-s---fg-",
+    "sentence": "ὅτι ἦσαν οἱ υἰοὶ Ἰσραὴλ καὶ οἱ υἱοὶ Ἰούδα μόνοι ποιοῦντες τὸ πονηρὸν κατ’ ὀφθαλμούς μου ἐκ νεότητος αὐτῶν."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "23.3",
+    "form": "νεότητι",
+    "postag": "n-s---fd-",
+    "sentence": "υἱὲ ἀνθρώπου, δύο γυναῖκες ἦσαν θυγατέρες μητρὸς μιᾶς καὶ ἐξεπόρνευσαν ἐν Αἰγύπτῳ ἐν τῇ νεότητι αὐτῶν ·"
+   },
+   {
+    "work_code": "ECC",
+    "work_ja": "コヘレトの言葉",
+    "work_src": "Ecclesiastes",
+    "ref": "11.10",
+    "form": "νεότης",
+    "postag": "n-s---fn-",
+    "sentence": "καὶ ἀπόστησον θυμὸν ἀπὸ καρδίας σου καὶ παράγαγε πονηρίαν ἀπὸ σαρκός σου, ὅτι ἡ νεότης καὶ ἡ ἄνοια ματαιότης."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "31.18",
+    "form": "νεότητός",
+    "postag": "n-s---fg-",
+    "sentence": "ὅτι ἐκ νεότητός μου ἐξέτρεφον ὡς πατήρ, καὶ ἐκ γαστρὸς μητρός μου ὡδήγησα ·"
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "43.32",
+    "form": "νεότητα",
+    "postag": "n-s---fa-",
+    "sentence": "ἐκάθισαν δὲ ἐναντίον αὐτοῦ, ὁ πρωτότοκος κατὰ τὰ πρεσβεῖα αὐτοῦ καὶ ὁ νεώτερος κατὰ τὴν νεότητα αὐτοῦ ·"
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "22.30",
+    "form": "νεότητός",
+    "postag": "n-s---fg-",
+    "sentence": "οὐκ ἐγὼ ἡ ὄνος σου, ἐφ’ ἧς ἐπέβαινες ἀπὸ νεότητός σου ἕως τῆς σήμερον ἡμέρας;"
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "2.66",
+    "form": "νεότητος",
+    "postag": "n-s---fg-",
+    "sentence": "καὶ Ἰούδας Μακκαβαῖος ἰσχυρὸς δυνάμει ἐκ νεότητος αὐτοῦ, οὗτος ὑμῖν ἔσται ἄρχων στρατιᾶς καὶ πολεμήσει πόλεμον λαῶν."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "5.18",
+    "form": "νεότητός",
+    "postag": "n-s---fg-",
+    "sentence": "ἡ πηγή σου τοῦ ὕδατος ἔστω σοι ἰδία, καὶ συνευφραίνου μετὰ γυναικὸς τῆς ἐκ νεότητός σου."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "2.6",
+    "form": "νεότητι",
+    "postag": "n-s---fd-",
+    "sentence": "δεῦτε οὖν καὶ ἀπολαύσωμεν τῶν ὄντων ἀγαθῶν καὶ χρησώμεθα τῇ κτίσει ὡς ἐν νεότητι σπουδαίως."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "47.12",
+    "form": "νεότητός",
+    "postag": "n-s---fg-",
+    "sentence": "στῆθι νῦν ἐν ταῖς ἐπαοιδαῖς σου καὶ ἐν τῇ πολλῇ φαρμακείᾳ σου, ἃ ἐμάνθανες ἐκ νεότητός σου, εἰ δυνήσῃ ὠφεληθῆναι."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 3,
+  "works": {
+   "Barnabas": 1,
+   "1 Clement": 1,
+   "Didache": 1
+  },
+  "representatives": [
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "19.5",
+    "form": "νεότητος",
+    "postag": "n-s---fg-",
+    "sentence": "οὐ μὴ ἄρῃς τὴν χεῖρά σου ἀπὸ τοῦ υἱοῦ σου ἡ ἀπὸ τῆς θυγατρός σου, ἀλλὰ ἀπὸ νεότητος διδάξεις φόβου θεοῦ."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "63.3",
+    "form": "νεότητος",
+    "postag": "n-s---fg-",
+    "sentence": "ἐπέμψαμεν δὲ ἄνδρας πιστοὺς καὶ σώφρονας ἀπὸ νεότητος ἀναστραφέντας ἕως γήρους ἀμέμπτως ἐν ἡμῖν, οἵτινες καὶ μάρτυρες ἔσονται μεταξὺ ὑμῶν καὶ ἡμῶν."
+   },
+   {
+    "work_code": "DID",
+    "work_ja": "ディダケー",
+    "work_src": "Didache",
+    "ref": "4.9",
+    "form": "νεότητος",
+    "postag": "n-s---fg-",
+    "sentence": "οὐκ ἀρεῖς τὴν χεῖρά σου ἀπὸ τοῦ υἱοῦ σου ἢ ἀπὸ τῆς θυγατρός σου, ἀλλὰ ἀπὸ νεότητος διδάξεις τὸν φόβον τοῦ θεοῦ."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "4   νεότης, -ητος, ἡ    (< νέος),   [in LXX chiefly for נְעוּרִים;]    youth: Mk 10:20, Lk 18:21, Ac 26:4, I Ti 4:12.†"
+}

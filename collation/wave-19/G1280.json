@@ -1,0 +1,74 @@
+{
+ "strong": "G1280",
+ "lemma": "διαπορέω",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 10:17",
+   "form": "διηπόρει",
+   "morph": "V-IAI-3S",
+   "gloss_en": "perplexed",
+   "gloss_ja": "当惑する",
+   "verse": "Ὡς δὲ ἐν ἑαυτῷ διηπόρει ὁ Πέτρος τί ἂν εἴη τὸ ὅραμα ὃ εἶδεν, ἰδοὺ οἱ ἄνδρες οἱ ἀπεσταλμένοι ὑπὸ τοῦ Κορνηλίου διερωτήσαντες τὴν οἰκίαν τοῦ Σίμωνος ἐπέστησαν ἐπὶ τὸν πυλῶνα,"
+  },
+  {
+   "ref": "ACT 2:12",
+   "form": "διηπόρουν",
+   "morph": "V-IAI-3P",
+   "gloss_en": "perplexed",
+   "gloss_ja": "当惑する",
+   "verse": "ἐξίσταντο δὲ πάντες καὶ διηπόρουν, ἄλλος πρὸς ἄλλον λέγοντες· Τί θέλει τοῦτο εἶναι;"
+  },
+  {
+   "ref": "ACT 5:24",
+   "form": "διηπόρουν",
+   "morph": "V-IAI-3P",
+   "gloss_en": "greatly perplexed",
+   "gloss_ja": "当惑する",
+   "verse": "ὡς δὲ ἤκουσαν τοὺς λόγους τούτους ὅ τε στρατηγὸς τοῦ ἱεροῦ καὶ οἱ ἀρχιερεῖς, διηπόρουν περὶ αὐτῶν τί ἂν γένοιτο τοῦτο."
+  },
+  {
+   "ref": "LUK 9:7",
+   "form": "διηπόρει",
+   "morph": "V-IAI-3S",
+   "gloss_en": "perplexed",
+   "gloss_ja": "当惑する",
+   "verse": "Ἤκουσεν δὲ Ἡρῴδης ὁ τετραάρχης τὰ γινόμενα πάντα, καὶ διηπόρει διὰ τὸ λέγεσθαι ὑπό τινων ὅτι Ἰωάννης ἠγέρθη ἐκ νεκρῶν,"
+  }
+ ],
+ "lxx": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "Hermas, Pastor": 2
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.2.6",
+    "form": "διαπορῇ",
+    "postag": "v2spim---",
+    "sentence": "τί ἐν σεαυτῷ διαλογίζῃ καὶ διαπορῇ καὶ σεαυτῷ λύπην ἐπισπάσαι;"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.2.5",
+    "form": "διηπόρουν",
+    "postag": "v3piia---",
+    "sentence": "καὶ πάλιν διηπόρουν ἐπὶ ταῖς παρθένοις, ὅτι τρυφεραὶ οὕτως οὖσαι ἀνδρείως εἱστήκεισαν ὡς μέλλουσαι ὅλον τὸν οὐρανὸν βαστάζειν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "4   ** δι-απορέω, -ῶ     [in Sm.: Ps 76(77):5, Da 2:1 * ;]     to be quite at a loss, be in great perplexity: absol., Ac 2:12; seq. διὰ τό, c. inf., Lk 9:7; περί, Ac 5:24; ἐν ἑαυτῷ, Ac 10:17.†"
+}

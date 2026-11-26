@@ -1,0 +1,77 @@
+{
+ "strong": "G1219",
+ "lemma": "δημόσιος",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 18:28",
+   "form": "δημοσίᾳ",
+   "morph": "A-DSF",
+   "gloss_en": "public",
+   "gloss_ja": "公の",
+   "verse": "εὐτόνως γὰρ τοῖς Ἰουδαίοις διακατηλέγχετο δημοσίᾳ ἐπιδεικνὺς διὰ τῶν γραφῶν εἶναι τὸν χριστὸν Ἰησοῦν."
+  },
+  {
+   "ref": "ACT 16:37",
+   "form": "δημοσίᾳ",
+   "morph": "A-DSF",
+   "gloss_en": "public",
+   "gloss_ja": "公の",
+   "verse": "ὁ δὲ Παῦλος ἔφη πρὸς αὐτούς· Δείραντες ἡμᾶς δημοσίᾳ ἀκατακρίτους, ἀνθρώπους Ῥωμαίους ὑπάρχοντας, ἔβαλαν εἰς φυλακήν· καὶ νῦν λάθρᾳ ἡμᾶς ἐκβάλλουσιν; οὐ γάρ, ἀλλὰ ἐλθόντες αὐτοὶ ἡμᾶς ἐξαγαγέτωσαν."
+  },
+  {
+   "ref": "ACT 20:20",
+   "form": "δημοσίᾳ",
+   "morph": "A-DSF",
+   "gloss_en": "publicly",
+   "gloss_ja": "公の",
+   "verse": "ὡς οὐδὲν ὑπεστειλάμην τῶν συμφερόντων τοῦ μὴ ἀναγγεῖλαι ὑμῖν καὶ διδάξαι ὑμᾶς δημοσίᾳ καὶ κατ’ οἴκους,"
+  },
+  {
+   "ref": "ACT 5:18",
+   "form": "δημοσίᾳ",
+   "morph": "A-DSF",
+   "gloss_en": "public",
+   "gloss_ja": "公の",
+   "verse": "καὶ ἐπέβαλον τὰς χεῖρας ἐπὶ τοὺς ἀποστόλους καὶ ἔθεντο αὐτοὺς ἐν τηρήσει δημοσίᾳ."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Machabaeorum iii": 1
+  },
+  "representatives": [
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "4.7",
+    "form": "δημόσιαι",
+    "postag": "a-p---fn-",
+    "sentence": "δέσμιαι δὲ δημόσιαι μέχρι τῆς εἰς τὸ πλοῖον ἐμβολῆς εἵλκοντο μετὰ βίας."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "4.1.2",
+    "form": "δημοσίας",
+    "postag": "a-s---fg-",
+    "sentence": "ἀπὸ τῆς ὁδοῦ τῆς δημοσίας ἐστὶν ὡσεὶ στάδια δέκα ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "4   ** δημόσιος, -α, -ον    (< δῆμος),    [in LXX: II Mac 6:10, III Mac 2:27 4:7 * ;]       belonging to the people, public: Ac 5:18; dat. fem. used adverbially (cl.);      at the public expense, by public consent;      publicly: Ac 16:37 18:28 20:20.†"
+}

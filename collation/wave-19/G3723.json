@@ -1,0 +1,65 @@
+{
+ "strong": "G3723",
+ "lemma": "ὀρθῶς",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 10:28",
+   "form": "Ὀρθῶς",
+   "morph": "ADV",
+   "gloss_en": "correctly",
+   "gloss_ja": "正しく",
+   "verse": "εἶπεν δὲ αὐτῷ· Ὀρθῶς ἀπεκρίθης· τοῦτο ποίει καὶ ζήσῃ."
+  },
+  {
+   "ref": "LUK 20:21",
+   "form": "ὀρθῶς",
+   "morph": "ADV",
+   "gloss_en": "rightly",
+   "gloss_ja": "正しく",
+   "verse": "καὶ ἐπηρώτησαν αὐτὸν λέγοντες· Διδάσκαλε, οἴδαμεν ὅτι ὀρθῶς λέγεις καὶ διδάσκεις καὶ οὐ λαμβάνεις πρόσωπον, ἀλλ’ ἐπ’ ἀληθείας τὴν ὁδὸν τοῦ θεοῦ διδάσκεις·"
+  },
+  {
+   "ref": "LUK 7:43",
+   "form": "Ὀρθῶς",
+   "morph": "ADV",
+   "gloss_en": "correctly",
+   "gloss_ja": "正しく",
+   "verse": "ἀποκριθεὶς Σίμων εἶπεν· Ὑπολαμβάνω ὅτι ᾧ τὸ πλεῖον ἐχαρίσατο. ὁ δὲ εἶπεν αὐτῷ· Ὀρθῶς ἔκρινας."
+  },
+  {
+   "ref": "MRK 7:35",
+   "form": "ὀρθῶς",
+   "morph": "ADV",
+   "gloss_en": "plainly",
+   "gloss_ja": "正しく",
+   "verse": "καὶ ἠνοίγησαν αὐτοῦ αἱ ἀκοαί, καὶ ἐλύθη ὁ δεσμὸς τῆς γλώσσης αὐτοῦ, καὶ ἐλάλει ὀρθῶς·"
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Susanna": 1
+  },
+  "representatives": [
+   {
+    "work_code": "SUS",
+    "work_ja": "スザンナ（Th）",
+    "work_src": "Susanna",
+    "ref": "55",
+    "form": "Ὀρθῶς",
+    "postag": "n-s---mn-",
+    "sentence": "εἶπεν δὲ ὁ νεώτερος Ὀρθῶς ἔψευσαι εἰς τὴν σεαυτοῦ ψυχήν ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "6 ὀρθῶς     adv.    (< ἀρθός),    rightly: Mk 7:35, Lk 7:43 10:28 20:21.†"
+}

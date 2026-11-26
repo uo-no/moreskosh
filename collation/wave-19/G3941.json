@@ -1,0 +1,189 @@
+{
+ "strong": "G3941",
+ "lemma": "πάροικος",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1PE 2:11",
+   "form": "παροίκους",
+   "morph": "A-APM",
+   "gloss_en": "aliens",
+   "gloss_ja": "寄留者",
+   "verse": "Ἀγαπητοί, παρακαλῶ ὡς παροίκους καὶ παρεπιδήμους ἀπέχεσθαι τῶν σαρκικῶν ἐπιθυμιῶν, αἵτινες στρατεύονται κατὰ τῆς ψυχῆς·"
+  },
+  {
+   "ref": "ACT 7:6",
+   "form": "πάροικον",
+   "morph": "A-NSN",
+   "gloss_en": "strangers",
+   "gloss_ja": "寄留者",
+   "verse": "ἐλάλησεν δὲ οὕτως ὁ θεὸς ὅτι ἔσται τὸ σπέρμα αὐτοῦ πάροικον ἐν γῇ ἀλλοτρίᾳ, καὶ δουλώσουσιν αὐτὸ καὶ κακώσουσιν ἔτη τετρακόσια·"
+  },
+  {
+   "ref": "ACT 7:29",
+   "form": "πάροικος",
+   "morph": "A-NSM",
+   "gloss_en": "foreigner",
+   "gloss_ja": "寄留者",
+   "verse": "ἔφυγεν δὲ Μωϋσῆς ἐν τῷ λόγῳ τούτῳ, καὶ ἐγένετο πάροικος ἐν γῇ Μαδιάμ, οὗ ἐγέννησεν υἱοὺς δύο."
+  },
+  {
+   "ref": "EPH 2:19",
+   "form": "πάροικοι",
+   "morph": "A-NPM",
+   "gloss_en": "aliens",
+   "gloss_ja": "寄留者",
+   "verse": "ἄρα οὖν οὐκέτι ἐστὲ ξένοι καὶ πάροικοι, ἀλλὰ ἐστὲ συμπολῖται τῶν ἁγίων καὶ οἰκεῖοι τοῦ θεοῦ,"
+  }
+ ],
+ "lxx": {
+  "total": 32,
+  "works": {
+   "Genesis": 2,
+   "Exodus": 3,
+   "Leviticus": 8,
+   "Numeri": 1,
+   "Deuteronomium": 2,
+   "Regnorum ii": 1,
+   "Paralipomenon i sive Chronicon i": 2,
+   "Judith": 1,
+   "Psalmi": 3,
+   "Ecclesiasticus sive Siracides": 2,
+   "Psalmi Salomonis": 1,
+   "Sophonias": 1,
+   "Jeremias": 2,
+   "Baruch": 3
+  },
+  "representatives": [
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "22.10",
+    "form": "πάροικος",
+    "postag": "a-s---mn-",
+    "sentence": "πάροικος ἱερέως ἢ μισθωτὸς οὐ φάγεται ἅγια."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "2.22",
+    "form": "πάροικός",
+    "postag": "a-s---mn-",
+    "sentence": "ὅτι πάροικός εἰμι ἐν γῇ ἀλλοτρίᾳ."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "104.12",
+    "form": "παροίκους",
+    "postag": "a-p---ma-",
+    "sentence": "ἐν τῷ εἶναι αὐτοὺς ἀριθμῷ βραχεῖς, ὀλιγοστοὺς καὶ παροίκους ἐν αὐτῇ καὶ διῆλθον ἐξ ἔθνους εἰς ἔθνος, καὶ ἐκ βασιλείας εἰς λαὸν ἕτερον."
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルク書",
+    "work_src": "Baruch",
+    "ref": "4.9",
+    "form": "πάροικοι",
+    "postag": "a-p---mv-",
+    "sentence": "ἀκούσατε, οἱ πάροικοι Σιών, ἐπήγαγέ μοι ὁ Θεὸς πένθος μέγα ·"
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "15.13",
+    "form": "πάροικον",
+    "postag": "a-s---nn-",
+    "sentence": "γινώσκων γνώσῃ ὅτι πάροικον ἔσται τὸ σπέρμα σου ἐν γῇ οὐκ ἰδίᾳ, καὶ δουλώσουσιν αὐτοὺς καὶ κακώσουσιν αὐτοὺς καὶ ταπεινώσουσιν αὐτοὺς τετρακόσια ἔτη."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "14.21",
+    "form": "παροίκῳ",
+    "postag": "a-s---md-",
+    "sentence": "τῷ παροίκῳ τῷ ἐν ταῖς πόλεσί σου δοθήσεται, καὶ φάγεται, ἢ ἀποδώσῃ τῷ ἀλλοτρίῳ ·"
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "29.15",
+    "form": "πάροικοί",
+    "postag": "a-p---mn-",
+    "sentence": "ὅτι πάροικοί ἐσμεν ἐναντίον σου καὶ παροικοῦντες ὡς πάντες οἱ πατέρες ἡμῶν ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "29.26",
+    "form": "πάροικε",
+    "postag": "a-s---mv-",
+    "sentence": "πάρελθε, πάροικε, κόσμησον τράπεζαν, καὶ εἴτι ἐν τῇ χειρί σου, ψώμισόν με."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "14.8",
+    "form": "πάροικος",
+    "postag": "a-s---mn-",
+    "sentence": "ἱνατί ἐγενήθης ὡσεὶ πάροικος ἐπὶ τῆς γῆς καὶ ὡς αὐτόχθων ἐκκλίνων εἰς κατάλυμα;"
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "35.15",
+    "form": "παροίκῳ",
+    "postag": "a-s---md-",
+    "sentence": "φυγαδεῖον ἔσται τοῖς υἱοῖς Ἰσραήλ, καὶ τῷ προσηλύτῳ καὶ τῷ παροίκῳ τῷ ἐν ὑμῖν ἔσονται αἱ πόλεις αὗται εἰς φυγαδευτήριον, φυγεῖν ἐκεῖ παντὶ πατάξαντι ψυχὴν ἀκουσίως."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "1.13",
+    "form": "παροίκου",
+    "postag": "a-s---mg-",
+    "sentence": "υἱὸς ἀνδρὸς παροίκου Ἀμαληκίτου ἐγώ εἰμι."
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "4.10",
+    "form": "πάροικος",
+    "postag": "a-s---mn-",
+    "sentence": "αὐτοὶ καὶ αἱ γυναῖκες αὐτῶν καὶ τὰ νήπια αὐτῶν καὶ τὰ κτήνη αὐτῶν καὶ πᾶς πάροικος ἢ μισθωτὸς καὶ ἀργυρώνητος αὐτῶν ἐπέθεντο σάκκους ἐπὶ τὰς ὀσφύας αὐτῶν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "To Diognetus": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "5",
+    "form": "πάροικοι",
+    "postag": "a-p---mn-",
+    "sentence": "πατρίδας οἰκοῦσιν ἰδίας, ἀλλ’ ὡς οἰκοῦσιν ἰδίας, ἀλλ’ ὡς πάροικοι ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "4   πάρ-οικος, -ον,    [in LXX chiefly for גֵּר, תּוֹשַׁב;]      in cl. Attic, dwelling near, neighbouring; as subst., a neighbour.     In late writers (LXX, Philo) and in Inscr. (Deiss., BS, 227 f.; Kennedy, Sources, 102), foreign, alien; as subst., an alien, a sojourner: Ac 7:6(LXX), 29; metaph., ξένοι καὶ π. (opp. to συμπολίτης), Eph 2:19; π. καὶ παρεπιδήμους (q.v.), I Pe 2:11 (v. Lft. on Clem. Rom., 1 Co., § 1).†"
+}

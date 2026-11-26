@@ -1,0 +1,75 @@
+{
+ "strong": "G2975",
+ "lemma": "λαγχάνω",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2PE 1:1",
+   "form": "λαχοῦσιν",
+   "morph": "V-2AAP-DPM",
+   "gloss_en": "received",
+   "gloss_ja": "くじで得る",
+   "verse": "Συμεὼν Πέτρος δοῦλος καὶ ἀπόστολος Ἰησοῦ Χριστοῦ τοῖς ἰσότιμον ἡμῖν λαχοῦσιν πίστιν ἐν δικαιοσύνῃ τοῦ θεοῦ ἡμῶν καὶ σωτῆρος Ἰησοῦ Χριστοῦ·"
+  },
+  {
+   "ref": "ACT 1:17",
+   "form": "ἔλαχεν",
+   "morph": "V-2AAI-3S",
+   "gloss_en": "allotted",
+   "gloss_ja": "くじで得る",
+   "verse": "ὅτι κατηριθμημένος ἦν ἐν ἡμῖν καὶ ἔλαχεν τὸν κλῆρον τῆς διακονίας ταύτης."
+  },
+  {
+   "ref": "JHN 19:24",
+   "form": "λάχωμεν",
+   "morph": "V-2AAS-1P",
+   "gloss_en": "cast lots",
+   "gloss_ja": "くじで得る",
+   "verse": "εἶπαν οὖν πρὸς ἀλλήλους· Μὴ σχίσωμεν αὐτόν, ἀλλὰ λάχωμεν περὶ αὐτοῦ τίνος ἔσται· ἵνα ἡ γραφὴ πληρωθῇ ἡ λέγουσα· Διεμερίσαντο τὰ ἱμάτιά μου ἑαυτοῖς καὶ ἐπὶ τὸν ἱματισμόν μου ἔβαλον κλῆρον. Οἱ μὲν οὖν στρατιῶται ταῦτα ἐποίησαν."
+  },
+  {
+   "ref": "LUK 1:9",
+   "form": "ἔλαχε",
+   "morph": "V-2AAI-3S",
+   "gloss_en": "chosen by lot",
+   "gloss_ja": "くじで得る",
+   "verse": "κατὰ τὸ ἔθος τῆς ἱερατείας ἔλαχε τοῦ θυμιᾶσαι εἰσελθὼν εἰς τὸν ναὸν τοῦ κυρίου,"
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Machabaeorum iii": 1,
+   "Sapientia Salomonis": 1
+  },
+  "representatives": [
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "6.1",
+    "form": "λελογχὼς",
+    "postag": "v-srpamn-",
+    "sentence": "Ἐλεάζαρος δέ τις ἀνὴρ ἐπίσημος τῶν ἀπὸ τῆς χώρας ἱερέων, ἐν πρεσβείῳ τὴν ἡλικίαν ἤδη λελογχὼς καὶ πάσῃ τῇ κατὰ τὸν βίον ἀρετῇ κεκοσμημένος, τοὺς περὶ αὐτὸν καταστείλας πρεσβυτέρους ἐπικαλεῖσθαι τὸν ἅγιον Θεὸν προσηύξατο τάδε ·"
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "8.19",
+    "form": "ἔλαχον",
+    "postag": "v1saia---",
+    "sentence": "παῖς δὲ ἤμην εὐφυὴς ψυχῆς τε ἔλαχον ἀγαθῆς, μᾶλλον δὲ ἀγαθὸς ὢν ἦλθον εἰς σῶμα ἀμίαντον."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "4   λαγχάνω,    [in LXX: I Ki 14:47 (לכד, v. Th., Gr., 38), Wi 8:19, III Mac 6:1*;]      to obtain by lot, to obtain (in cl., c. gen.): c. inf. art. (B1., § 36, 3; 71, 3), Lk 1:9; c. acc. rei, Ac 1:17, II Pe 1:1.     to draw lots: seq. περί, Jo 19:24."
+}

@@ -1,0 +1,202 @@
+{
+ "strong": "G2137",
+ "lemma": "εὐοδόομαι",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": "ευοδοω",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 16:2",
+   "form": "εὐοδῶται",
+   "morph": "V-PPS-3S",
+   "gloss_en": "prosper",
+   "gloss_ja": "繁栄する",
+   "verse": "κατὰ μίαν σαββάτου ἕκαστος ὑμῶν παρ’ ἑαυτῷ τιθέτω θησαυρίζων ὅ τι ἐὰν εὐοδῶται, ἵνα μὴ ὅταν ἔλθω τότε λογεῖαι γίνωνται."
+  },
+  {
+   "ref": "3JN 1:2",
+   "form": "εὐοδοῦσθαι",
+   "morph": "V-PPN",
+   "gloss_en": "prosper",
+   "gloss_ja": "繁栄する",
+   "verse": "Ἀγαπητέ, περὶ πάντων εὔχομαί σε εὐοδοῦσθαι καὶ ὑγιαίνειν, καθὼς εὐοδοῦταί σου ἡ ψυχή."
+  },
+  {
+   "ref": "3JN 1:2",
+   "form": "εὐοδοῦταί",
+   "morph": "V-PPI-3S",
+   "gloss_en": "prospers",
+   "gloss_ja": "繁栄する",
+   "verse": "Ἀγαπητέ, περὶ πάντων εὔχομαί σε εὐοδοῦσθαι καὶ ὑγιαίνειν, καθὼς εὐοδοῦταί σου ἡ ψυχή."
+  },
+  {
+   "ref": "ROM 1:10",
+   "form": "εὐοδωθήσομαι",
+   "morph": "V-FPI-1S",
+   "gloss_en": "succeed in",
+   "gloss_ja": "繁栄する",
+   "verse": "πάντοτε ἐπὶ τῶν προσευχῶν μου, δεόμενος εἴ πως ἤδη ποτὲ εὐοδωθήσομαι ἐν τῷ θελήματι τοῦ θεοῦ ἐλθεῖν πρὸς ὑμᾶς."
+  }
+ ],
+ "lxx": {
+  "total": 59,
+  "works": {
+   "Genesis": 8,
+   "Deuteronomium": 1,
+   "Josue": 2,
+   "Judices": 2,
+   "Regnorum iii": 2,
+   "Paralipomenon i sive Chronicon i": 3,
+   "Paralipomenon ii sive Chronicon ii": 5,
+   "Esdras ii": 3,
+   "Tobias": 14,
+   "Machabaeorum i": 1,
+   "Machabaeorum ii": 1,
+   "Psalmi": 1,
+   "Proverbia": 2,
+   "Sapientia Salomonis": 1,
+   "Ecclesiasticus sive Siracides": 4,
+   "Isaias": 2,
+   "Jeremias": 2,
+   "Daniel": 5
+  },
+  "representatives": [
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "7.12",
+    "form": "εὐοδώσει",
+    "postag": "v3sfia---",
+    "sentence": "ὁ δὲ ἐλεήμων Θεὸς εὐοδώσει ὑμῖν τὰ κάλλιστα."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "24.56",
+    "form": "εὐώδωσε",
+    "postag": "v3saia---",
+    "sentence": "μὴ κατέχετέ με, καὶ Κύριος εὐώδωσε τὴν ὁδόν μου ·"
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "20.20",
+    "form": "εὐοδωθήσεσθε",
+    "postag": "v2pfip---",
+    "sentence": "ἐμπιστεύσατε ἐν προφήτῃ αὐτοῦ, καὶ εὐοδωθήσεσθε."
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "8.12",
+    "form": "εὐοδώθη",
+    "postag": "v3saip---",
+    "sentence": "καὶ ἐδόθη ἐπὶ τὴν θυσίαν ἁμαρτία, καὶ ἐρρίφη χαμαὶ ἡ δικαιοσύνη, καὶ ἐποίησε καὶ εὐοδώθη."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "43.26",
+    "form": "εὐοδοῖ",
+    "postag": "v3spia---",
+    "sentence": "δι’ αὐτὸν εὐοδοῖ ἄγγελος αὐτοῦ, καὶ ἐν λόγῳ αὐτοῦ σύγκειται πάντα."
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "13.2",
+    "form": "εὐοδωθῇ",
+    "postag": "v3sasp---",
+    "sentence": "εἰ ἐφ’ ὑμῖν ἀγαθὸν καὶ παρὰ Κυρίου τοῦ Θεοῦ ἡμῶν εὐοδωθῇ, ἀποστείλωμεν πρὸς τοὺς ἀδελφοὺς ἡμῶν τοὺς ὑπολελειμμένους ἐν πάσῃ γῇ Ἰσραήλ, καὶ μετ’ αὐτῶν οἱ ἱερεῖς οἱ Λευῖται ἐν πόλεσι κατασχέσεως αὐτῶν, καὶ συναχθήσονται πρὸς ἡμᾶς, καὶ μετενέγκωμεν τὴν κιβωτὸν τοῦ Θεοῦ ἡμῶν πρὸς ἡμᾶς ·"
+   },
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "11.11",
+    "form": "εὐόδωσον",
+    "postag": "v2sama---",
+    "sentence": "καὶ εὐόδωσον δὴ τῷ παιδί σου σήμερον καὶ δὸς αὐτὸν εἰς οἰκτιρμοὺς ἐνώπιον τοῦ ἀνδρὸς τούτου."
+   },
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "1.8",
+    "form": "εὐοδωθήσῃ",
+    "postag": "v2sfip---",
+    "sentence": "τότε εὐοδωθήσῃ, καὶ εὐοδώσεις τὰς ὁδούς σου καὶ τότε συνήσεις."
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "18.5",
+    "form": "εὐοδωθήσεται",
+    "postag": "v3sfip---",
+    "sentence": "ἐπερώτησον δὴ ἐν τῷ Θεῷ, καὶ γνωσόμεθα εἰ εὐοδωθήσεται ἡ ὁδὸς ἡμῶν, ἐν ᾗ ἡμεῖς πορευόμεθα ἐν αὐτῇ."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "22.15",
+    "form": "εὐοδώσει",
+    "postag": "v3sfia---",
+    "sentence": "ἀνάβαινε, καὶ εὐοδώσει Κύριος εἰς χεῖρας τοῦ βασιλέως."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "17.8",
+    "form": "εὐοδωθήσεται",
+    "postag": "v3sfip---",
+    "sentence": "μισθὸς χαρίτων ἡ παιδεία τοῖς χρωμένοις, οὗ δ’ ἂν ἐπιστρέψῃ εὐοδωθήσεται."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "54.17",
+    "form": "εὐοδώσω",
+    "postag": "v1sfia---",
+    "sentence": "ἐγὼ δὲ ἔκτισά σε οὐκ εἰς ἀπώλειαν φθεῖραι πᾶν σκεῦος φθαρτόν, ἐπὶ σὲ οὐκ εὐοδώσω, καὶ πᾶσα φωνὴ ἀναστήσεται ἐπὶ σὲ εἰς κρίσιν ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "Hermas, Pastor": 2
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "23.3.6",
+    "form": "εὐοδοῦνται",
+    "postag": "v3ppim---",
+    "sentence": "δουλεύουσι δὲ λοιπὸν τῷ κυρίῳ ἐν καθαρᾷ καρδίᾳ αὐτῶν καὶ εὐοδοῦνται ἐν πάσῃ πράξει αὐτῶν, λαμβάνοντες παρὰ τοῦ κυρίου πάντα, ὅσα ἂν αἰτῶνται ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "23.3.5",
+    "form": "εὐοδοῦσθαι",
+    "postag": "v--pnm---",
+    "sentence": "καὶ λέγουσιν ἑαυτοὺς μὴ εὐοδοῦσθαι ἐν ταῖς πράξεσιν αὐτῶν, καὶ οὐκ ἀναβαίνει αὐτῶν ἐπὶ τὴν καρδίαν, ὅτι ἔπραξαν πονηρὰ ἔργα, ἀλλ’ αἰτιῶνται τὸν κύριον."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "4 εὐ-οδόω, -ῶ    (< ὁδός),    [in LXX chiefly for צָלַח hi. ;]     to help on one's way (Soph., al.). Pass., to have a prosperous journey; metaph. (Hdt., al.), to prosper, be prospered, be successful: III Jn 2, Ro 1:10, I Co 16:2 (on the tense, v. M, Pr., 54; ICC, in l.).†"
+}

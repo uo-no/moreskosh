@@ -1,0 +1,93 @@
+{
+ "strong": "G732",
+ "lemma": "ἄρρωστος",
+ "nt_freq": 5,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 11:30",
+   "form": "ἄρρωστοι",
+   "morph": "A-NPM",
+   "gloss_en": "sick",
+   "gloss_ja": "病人",
+   "verse": "διὰ τοῦτο ἐν ὑμῖν πολλοὶ ἀσθενεῖς καὶ ἄρρωστοι καὶ κοιμῶνται ἱκανοί."
+  },
+  {
+   "ref": "MAT 14:14",
+   "form": "ἀρρώστους",
+   "morph": "A-APM",
+   "gloss_en": "sick",
+   "gloss_ja": "病人",
+   "verse": "καὶ ἐξελθὼν εἶδεν πολὺν ὄχλον, καὶ ἐσπλαγχνίσθη ἐπ’ αὐτοῖς καὶ ἐθεράπευσεν τοὺς ἀρρώστους αὐτῶν."
+  },
+  {
+   "ref": "MRK 16:18",
+   "form": "ἀρρώστους",
+   "morph": "A-APM",
+   "gloss_en": "sick",
+   "gloss_ja": "病人",
+   "verse": "ὄφεις ἀροῦσιν κἂν θανάσιμόν τι πίωσιν οὐ μὴ αὐτοὺς βλάψῃ, ἐπὶ ἀρρώστους χεῖρας ἐπιθήσουσιν καὶ καλῶς ἕξουσιν."
+  },
+  {
+   "ref": "MRK 6:5",
+   "form": "ἀρρώστοις",
+   "morph": "A-DPM",
+   "gloss_en": "sick",
+   "gloss_ja": "病人",
+   "verse": "καὶ οὐκ ἐδύνατο ἐκεῖ ποιῆσαι οὐδεμίαν δύναμιν, εἰ μὴ ὀλίγοις ἀρρώστοις ἐπιθεὶς τὰς χεῖρας ἐθεράπευσεν·"
+  },
+  {
+   "ref": "MRK 6:13",
+   "form": "ἀρρώστους",
+   "morph": "A-APM",
+   "gloss_en": "sick",
+   "gloss_ja": "病人",
+   "verse": "καὶ δαιμόνια πολλὰ ἐξέβαλλον, καὶ ἤλειφον ἐλαίῳ πολλοὺς ἀρρώστους καὶ ἐθεράπευον."
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Regnorum iii": 1,
+   "Ecclesiasticus sive Siracides": 1,
+   "Malachias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "14.5",
+    "form": "ἄρρωστός",
+    "postag": "a-s---fn-",
+    "sentence": "ἰδοὺ γυνὴ τοῦ Ἱεροβοὰμ εἰσέρχεται τοῦ ἐκζητῆσαι ρῆμα παρὰ σοῦ περὶ υἱοῦ αὐτῆς, ὅτι ἄρρωστός ἐστι ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "7.35",
+    "form": "ἄρρωστον",
+    "postag": "a-s---ma-",
+    "sentence": "μὴ ὄκνει ἐπισκέπτεσθαι ἄρρωστον, ἐκ γὰρ τῶν τοιούτων ἀγαπηθήσῃ."
+   },
+   {
+    "work_code": "MAL",
+    "work_ja": "マラキ書",
+    "work_src": "Malachias",
+    "ref": "1.8",
+    "form": "ἄρρωστον",
+    "postag": "a-s---ma-",
+    "sentence": "καὶ ἐὰν προσαγάγητε χωλὸν ἢ ἄρρωστον, οὐ κακόν;"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "5   ἄρρωστος, -ον    (< ἀ- neg., ῥώννυμι),   [in LXX: III Ki 14:5Α, Ma 1:8 (חלה), Si 7:35*;]    feeble, sickly: Mt 14:14, Mk 6:5, 13 16:[18], I Co 11:30.†"
+}

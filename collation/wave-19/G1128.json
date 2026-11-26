@@ -1,0 +1,77 @@
+{
+ "strong": "G1128",
+ "lemma": "γυμνάζω",
+ "nt_freq": 4,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1TI 4:7",
+   "form": "γύμναζε",
+   "morph": "V-PAM-2S",
+   "gloss_en": "train",
+   "gloss_ja": "訓練する",
+   "verse": "τοὺς δὲ βεβήλους καὶ γραώδεις μύθους παραιτοῦ. γύμναζε δὲ σεαυτὸν πρὸς εὐσέβειαν·"
+  },
+  {
+   "ref": "2PE 2:14",
+   "form": "γεγυμνασμένην",
+   "morph": "V-RPP-ASF",
+   "gloss_en": "trained",
+   "gloss_ja": "訓練する",
+   "verse": "ὀφθαλμοὺς ἔχοντες μεστοὺς μοιχαλίδος καὶ ἀκαταπαύστους ἁμαρτίας, δελεάζοντες ψυχὰς ἀστηρίκτους, καρδίαν γεγυμνασμένην πλεονεξίας ἔχοντες, κατάρας τέκνα,"
+  },
+  {
+   "ref": "HEB 5:14",
+   "form": "γεγυμνασμένα",
+   "morph": "V-RPP-APN",
+   "gloss_en": "trained",
+   "gloss_ja": "訓練する",
+   "verse": "τελείων δέ ἐστιν ἡ στερεὰ τροφή, τῶν διὰ τὴν ἕξιν τὰ αἰσθητήρια γεγυμνασμένα ἐχόντων πρὸς διάκρισιν καλοῦ τε καὶ κακοῦ."
+  },
+  {
+   "ref": "HEB 12:11",
+   "form": "γεγυμνασμένοις",
+   "morph": "V-RPP-DPM",
+   "gloss_en": "trained",
+   "gloss_ja": "訓練する",
+   "verse": "πᾶσα δὲ παιδεία πρὸς μὲν τὸ παρὸν οὐ δοκεῖ χαρᾶς εἶναι ἀλλὰ λύπης, ὕστερον δὲ καρπὸν εἰρηνικὸν τοῖς δι’ αὐτῆς γεγυμνασμένοις ἀποδίδωσιν δικαιοσύνης."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Machabaeorum ii": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "10.15",
+    "form": "ἐγύμναζον",
+    "postag": "v3piia---",
+    "sentence": "ὁμοῦ δὲ τούτῳ καὶ οἱ Ἰδουμαῖοι ἐγκρατεῖς ἐπικαίρων ὀχυρωμάτων ὄντες ἐγύμναζον τοὺς Ἰουδαίους, καὶ τοὺς φυγαδευθέντας ἀπὸ Ἱεροσολύμων προσλαβόμενοι πολεμοτροφεῖν ἐπεχείρουν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "2 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "20.2",
+    "form": "γυμναζόμεθα",
+    "postag": "v1ppim---",
+    "sentence": "θεοῦ ζῶντος πεῖραν ἀθλοῦμεν καὶ γυμναζόμεθα τῷ νῦν βίῳ, ἵνα τῷ μέλλοντι στεφανωθῶμεν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "4   ** γυμνάζω     (< γυμνός),    [in LXX: II Mac 10:15 * ;]         properly, to exercise naked.      Generally, to exercise, train the body or mind: I Ti 4:7, He 5:14  12:11, II Pe 2:14.†"
+}
