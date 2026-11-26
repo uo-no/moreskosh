@@ -1,0 +1,36 @@
+{
+  "strong": "G258",
+  "lemma": "ἀλώπηξ",
+  "status": "拡張照合・下書き",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "狐",
+      "def_ja": "狐。『狐には穴がある』。",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "マタイ8:20、ルカ9:58。LXX に並行。教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "狐（呼びかけ・言及）",
+      "def_ja": "ヘロデを指す語として用いられた『あの狐』。比喩として何を指すかの解釈は決定しない。",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ13:32。LXX に並行。教父の用例なし。"
+    }
+  ],
+  "assignments": {
+    "LUK 13:32": 2,
+    "LUK 9:58": 1,
+    "MAT 8:20": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（動物／人を指す語）による。"
+}
