@@ -1,0 +1,120 @@
+{
+ "strong": "G135",
+ "lemma": "αἴνιγμα",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 13:12",
+   "form": "αἰνίγματι",
+   "morph": "N-DSN",
+   "gloss_en": "reflection",
+   "gloss_ja": "なぞ",
+   "verse": "βλέπομεν γὰρ ἄρτι δι’ ἐσόπτρου ἐν αἰνίγματι, τότε δὲ πρόσωπον πρὸς πρόσωπον· ἄρτι γινώσκω ἐκ μέρους, τότε δὲ ἐπιγνώσομαι καθὼς καὶ ἐπεγνώσθην."
+  }
+ ],
+ "lxx": {
+  "total": 9,
+  "works": {
+   "Numeri": 1,
+   "Deuteronomium": 1,
+   "Regnorum iii": 1,
+   "Paralipomenon ii sive Chronicon ii": 1,
+   "Proverbia": 1,
+   "Sapientia Salomonis": 1,
+   "Ecclesiasticus sive Siracides": 2,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "47.15",
+    "form": "αἰνιγμάτων",
+    "postag": "n-p---ng-",
+    "sentence": "γῆν ἐπεκάλυψεν ἡ ψυχή σου, καὶ ἐνέπλησας ἐν παραβολαῖς αἰνιγμάτων ·"
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "12.8",
+    "form": "αἰνιγμάτων",
+    "postag": "n-p---ng-",
+    "sentence": "στόμα κατὰ στόμα λαλήσω αὐτῷ, ἐν εἴδει καὶ οὐ δι’ αἰνιγμάτων, καὶ τὴν δόξαν Κυρίου εἶδε ·"
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "28.37",
+    "form": "αἰνίγματι",
+    "postag": "n-s---nd-",
+    "sentence": "καὶ ἔσῃ ἐκεῖ ἐν αἰνίγματι καὶ παραβολῇ καὶ διηγήματι ἐν πᾶσι τοῖς ἔθνεσιν, εἰς οὓς ἂν ἀπαγάγῃ σε Κύριος ἐκεῖ."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "10.1",
+    "form": "αἰνίγμασι",
+    "postag": "n-p---nd-",
+    "sentence": "καὶ βασίλισσα Σαβὰ ἤκουσε τὸ ὄνομα Σαλωμὼν καὶ τὸ ὄνομα Κυρίου καὶ ἦλθε πειράσαι αὐτὸν ἐν αἰνίγμασι ·"
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "9.1",
+    "form": "αἰνίγμασιν",
+    "postag": "n-p---nd-",
+    "sentence": "καὶ βασίλισσα Σαβὰ ἤκουσε τὸ ὄνομα Σαλωμὼν καὶ ἦλθε τοῦ πειράσαι Σαλωμὼν ἐν αἰνίγμασιν εἰς Ἱερουσαλὴμ ἐν δυνάμει βαρείᾳ σφόδρα καὶ κάμηλοι αἴρουσαι ἀρώματα εἰς πλῆθος καὶ χρυσίον καὶ λίθον τίμιον καὶ ἦλθε πρὸς Σαλωμὼν καὶ ἐλάλησε πρὸς αὐτὸν πάντα, ὅσα ἦν ἐν τῇ ψυχῇ αὐτῆς."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "1.6",
+    "form": "αἰνίγματα",
+    "postag": "n-p---na-",
+    "sentence": "νοήσει τε παραβολὴν καὶ σκοτεινὸν λόγον ρήσεις τε σοφῶν καὶ αἰνίγματα."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "8.8",
+    "form": "αἰνιγμάτων",
+    "postag": "n-p---ng-",
+    "sentence": "εἰ δὲ καὶ πολυπειρίαν ποθεῖ τις, οἶδε τὰ ἀρχαῖα καὶ τὰ μέλλοντα εἰκάζειν, ἐπίσταται στροφὰς λόγων καὶ λύσεις αἰνιγμάτων, σημεῖα καὶ τέρατα προγινώσκει καὶ ἐκβάσεις καιρῶν καὶ χρόνων."
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "8.23",
+    "form": "αἰνίγματα",
+    "postag": "n-p---na-",
+    "sentence": "καὶ ἐπ’ ἐσχάτου τῆς βασιλείας αὐτῶν, πληρουμένων τῶν ἁμαρτιῶν αὐτῶν, ἀναστήσεται βασιλεὺς ἀναιδὴς προσώπῳ διανοούμενος αἰνίγματα."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "39.3",
+    "form": "αἰνίγμασι",
+    "postag": "n-p---nd-",
+    "sentence": "ἀπόκρυφα παροιμιῶν ἐκζητήσει καὶ ἐν αἰνίγμασι παραβολῶν ἀναστραφήσεται."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1  αἴνιγμα, -ατος, τό    (< αἰνίσσομαι, to speak in riddles; < αἰνός = δεινός, dread, strange),   [in LXX for חִידָה, Nu 12:8 and always exc. De 28:37 (שַׁמָּה);]    a dark saying, riddle: I Co 13:12 (cf. Nu 12:8).†"
+}

@@ -1,0 +1,80 @@
+{
+ "strong": "G1300",
+ "lemma": "διατελέω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 27:33",
+   "form": "διατελεῖτε",
+   "morph": "V-PAI-2P",
+   "gloss_en": "continued",
+   "gloss_ja": "続ける",
+   "verse": "Ἄχρι δὲ οὗ ἡμέρα ἤμελλεν γίνεσθαι παρεκάλει ὁ Παῦλος ἅπαντας μεταλαβεῖν τροφῆς λέγων· Τεσσαρεσκαιδεκάτην σήμερον ἡμέραν προσδοκῶντες ἄσιτοι διατελεῖτε, μηθὲν προσλαβόμενοι·"
+  }
+ ],
+ "lxx": {
+  "total": 5,
+  "works": {
+   "Deuteronomium": 1,
+   "Esther": 1,
+   "Machabaeorum ii": 1,
+   "Jeremias": 2
+  },
+  "representatives": [
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "20.7",
+    "form": "διετέλεσα",
+    "postag": "v1saia---",
+    "sentence": "ἐγενόμην εἰς γέλωτα, πᾶσαν ἡμέραν διετέλεσα μυκτηριζόμενος ·"
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "9.7",
+    "form": "διετελεῖτε",
+    "postag": "v2piia---",
+    "sentence": "ἀφ’ ἧς ἡμέρας ἐξήλθετε ἐξ Αἰγύπτου ἕως ἤλθετε εἰς τὸν τόπον τοῦτον, ἀπειθοῦντες διετελεῖτε τὰ πρὸς Κύριον."
+   },
+   {
+    "work_code": "EST",
+    "work_ja": "エステル記",
+    "work_src": "Esther",
+    "ref": "8.12λ",
+    "form": "διατελεῖν",
+    "postag": "v--pna---",
+    "sentence": "ὡς γὰρ Ἀμὰν Ἀμαδάθου Μακεδών, ταῖς ἀληθείας ἀλλότριος τοῦ τῶν Περσῶν αἵματος καὶ πολὺ διεστηκὼς τῆς ἡμετέρας χρηστότητος, ἐπιξενωθεὶς ἡμῖν ἔτυχεν, ἧς ἔχομεν πρὸς πᾶν ἔθνος φιλανθρωπίας ἐπὶ τοσοῦτον, ὥστε ἀναγορεύεσθαι ἡμῶν πατέρα καὶ προσκυνούμενον ὑπὸ πάντων τὸ δεύτερον τοῦ βασιλικοῦ θρόνου πρόσωπον διατελεῖν ·"
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "5.27",
+    "form": "διετέλουν",
+    "postag": "v3piia---",
+    "sentence": "Ἰούδας δὲ ὁ Μακκαβαῖος δέκατός που γενηθεὶς καὶ ἀναχωρήσας εἰς τὴν ἔρημον, θηρίων τρόπον ἐν τοῖς ὄρεσι διέζη σὺν τοῖς μετ’ αὐτοῦ, καὶ τὴν χορτώδη τροφὴν σιτούμενοι διετέλουν πρὸς τὸ μὴ μετασχεῖν τοῦ μολυσμοῦ."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "20.18",
+    "form": "διετέλεσαν",
+    "postag": "v3paia---",
+    "sentence": "ἱνατί τοῦτο ἐξῆλθον ἐκ μήτρας τοῦ βλέπειν κόπους καὶ πόνους, καὶ διετέλεσαν ἐν αἰσχύνῃ αἱ ἡμέραι μου;"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   δια-τελέω, -ῶ     [in LXX: De 9:7 (היה), Je 20:7, 18 (כּלה), Es 8:13, II Mac 5:27 * ;]    prop. trans., to accomplish; used with ellipse of obj. as intrans. (Bl., § 81, 1), and joined to participles (in Ac, l.c., to adj.; v. Bl., § 73, 4) with adverbial sense (= continuously), to continue: Ac 27:33.†"
+}

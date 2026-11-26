@@ -1,0 +1,60 @@
+{
+ "strong": "G1450",
+ "lemma": "ἔγγυος",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "HEB 7:22",
+   "form": "ἔγγυος",
+   "morph": "A-NSM",
+   "gloss_en": "guarantee",
+   "gloss_ja": "保証人",
+   "verse": "κατὰ τοσοῦτο κρείττονος διαθήκης γέγονεν ἔγγυος Ἰησοῦς."
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Machabaeorum ii": 1,
+   "Ecclesiasticus sive Siracides": 2
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "29.15",
+    "form": "ἐγγύου",
+    "postag": "a-s---mg-",
+    "sentence": "χάριτας ἐγγύου μὴ ἐπιλάθῃ, ἔδωκε γὰρ τὴν ψυχὴν αὐτοῦ ὑπὲρ σοῦ."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "10.28",
+    "form": "ἔγγυον",
+    "postag": "a-s---fa-",
+    "sentence": "ἄρτι δὲ τῆς ἀνατολῆς διαδεχομένης προσέβαλον ἑκάτεροι, οἱ μὲν ἔγγυον ἔχοντες εὐημερίας καὶ νίκης μετ’ ἀρετῆς τὴν ἐπὶ τὸν Κύριον καταφυγήν, οἱ δὲ καθηγεμόνα τῶν ἀγώνων ταττόμενοι τὸν θυμόν."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "29.16",
+    "form": "ἐγγύου",
+    "postag": "a-s---mg-",
+    "sentence": "ἀγαθὰ ἐγγύου ἀνατρέψει ἁμαρτωλός, καὶ ἀχάριστος ἐν διανοίᾳ ἐγκαταλείψει ρυσάμενον."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1     ** ἔγγυος, -ου, ὁ, ἡ,     [in LXX: Si 29:15,  16, II Mac 10:28 * ;]      a surety: He 7:22 (exx. from π., v. MM, Exp., xi; cf. Cremer, 222).†"
+}

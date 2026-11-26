@@ -1,0 +1,129 @@
+{
+ "strong": "G1145",
+ "lemma": "δακρύω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JHN 11:35",
+   "form": "ἐδάκρυσεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "wept",
+   "gloss_ja": "涙を流す",
+   "verse": "ἐδάκρυσεν ὁ Ἰησοῦς."
+  }
+ ],
+ "lxx": {
+  "total": 10,
+  "works": {
+   "Machabaeorum ii": 1,
+   "Machabaeorum iii": 2,
+   "Machabaeorum iv": 1,
+   "Psalmi": 1,
+   "Job": 1,
+   "Ecclesiasticus sive Siracides": 2,
+   "Michaeas": 1,
+   "Ezechiel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "6.23",
+    "form": "δακρύσας",
+    "postag": "v-sapamn-",
+    "sentence": "ἀκούσας γὰρ τῆς κραυγῆς καὶ συνιδῶν πρηνεῖς ἅπαντας εἰς τὴν ἀπώλειαν, δακρύσας μετὰ ὀργῆς τοῖς φίλοις διηπειλεῖτο λέγων ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "31.13",
+    "form": "δακρύει",
+    "postag": "v3spia---",
+    "sentence": "διὰ τοῦτο ἀπὸ παντὸς προσώπου δακρύει."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "4.37",
+    "form": "δακρύσας",
+    "postag": "v-sapamn-",
+    "sentence": "ψυχικῶς οὖν ὁ Ἀντίοχος ἐπιλυπηθεὶς καὶ τραπεὶς εἰς ἔλεον καὶ δακρύσας διὰ τὴν τοῦ μετηλλαχότος σωφροσύνην καὶ πολλὴν εὐταξίαν καὶ πυρωθεὶς τοῖς θυμοῖς, παραχρῆμα τὴν τοῦ Ἀνδρονίκου πορφύραν περιελόμενος καὶ τοὺς χιτῶνας περιρρήξας, περιαγαγὼν καθ’ ὅλην τὴν πόλιν, ἐπ’ αὐτὸ τὸν τόπον, οὗπερ εἰς τὸν Ὀνίαν ἠσέβησεν, ἐκεῖ τὸν μιαιφόνον ἀπεκόσμησε, τοῦ Κυρίου τὴν ἀξία αὐτῷ κόλασιν ἀποδόντος."
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "15.20",
+    "form": "ἐδάκρυσας",
+    "postag": "v2saia---",
+    "sentence": "ἐπὶ σαρξὶ τέκνων ὁρῶσα σάρκας τέκνων ἀποκαιομένας καὶ ἐπὶ χερσὶ χεῖρας ἀποτεμνομένας καὶ ἐπὶ κεφαλαῖς κεφαλὰς ἀποδειροτομουμένας καὶ ἐπὶ νεκροῖς νεκροὺς πίπτοντας καὶ πολυάνδριον ὁρῶσα τῶν τέκνων τὸ χορεῖον διὰ τῶν βασάνων, οὐκ ἐδάκρυσας."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "79.6",
+    "form": "δακρύων",
+    "postag": "v-sppamn-",
+    "sentence": "ψωμιεῖς ἡμᾶς ἄρτον δακρύων;"
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "3.24",
+    "form": "δακρύω",
+    "postag": "v1spia---",
+    "sentence": "πρὸ γὰρ τῶν σίτων μου στεναγμός μοι ἥκει, δακρύω δὲ ἐγὼ συνεχόμενος φόβῳ ·"
+   },
+   {
+    "work_code": "MIC",
+    "work_ja": "ミカ書",
+    "work_src": "Michaeas",
+    "ref": "2.6",
+    "form": "δακρυέτωσαν",
+    "postag": "v3ppma---",
+    "sentence": "μὴ κλαίετε δάκρυσι, μη-δὲ δακρυέτωσαν ἐπὶ τούτοις ·"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "27.35",
+    "form": "ἐδάκρυσε",
+    "postag": "v3saia---",
+    "sentence": "πάντες οἱ κατοικοῦντες τὰς νήσους ἐστύγνασαν ἐπὶ σέ, καὶ οἱ βασιλεῖς αὐτῶν ἐκστάσει ἐξέστησαν, καὶ ἐδάκρυσε τὸ πρόσωπον αὐτῶν."
+   },
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "4.4",
+    "form": "δακρύειν",
+    "postag": "v--pna---",
+    "sentence": "οὕτω γὰρ μετὰ πικρίας ἀνοίκτου ψυχῆς ὑπὸ τῶν κατὰ πόλιν στρατηγῶν ὁμοθυμαδὸν ἐξαπεστέλλοντο, ὥστε ἐπὶ ταῖς ἐξάλλοις τιμωρίαις καί τινας τῶν ἐχθρῶν λαμβάνοντας πρὸ τῶν ὀφθαλμῶν τὸν κοινὸν ἔλεον καὶ λογιζομένους τὴν ἄδηλον τοῦ βίου καταστροφήν, δακρύειν αὐτῶν τὴν τρισάθλιον ἐξαποστολήν."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "12.16",
+    "form": "δακρύσει",
+    "postag": "v3sfia---",
+    "sentence": "ἐν ὀφθαλμοῖς αὐτοῦ δακρύσει ὁ ἐχθρός, καὶ ἐὰν εὕρῃ καιρόν, οὐκ ἐμπλησθήσεται ἀφ’ αἵματος."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   δακρύω     [in LXX for בָּכָה, etc. ;]     to weep, shed tears: Jo 11:35.†   SYN.: κλαίω, of audible weeping, to cry; ὀδύρομαι, of grief expressed verbally, to lament; θρηνέω, of formal lamentation, to sing a dirge; ἀλαλάζω, to wail in Oriental fashion; στενάζω, of grief expressed by inarticulate sounds, to groan."
+}

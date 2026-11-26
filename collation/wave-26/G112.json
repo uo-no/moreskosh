@@ -1,0 +1,78 @@
+{
+ "strong": "G112",
+ "lemma": "ἄθεος",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "EPH 2:12",
+   "form": "ἄθεοι",
+   "morph": "A-NPM",
+   "gloss_en": "without god",
+   "gloss_ja": "神なき",
+   "verse": "ὅτι ἦτε τῷ καιρῷ ἐκείνῳ χωρὶς Χριστοῦ, ἀπηλλοτριωμένοι τῆς πολιτείας τοῦ Ἰσραὴλ καὶ ξένοι τῶν διαθηκῶν τῆς ἐπαγγελίας, ἐλπίδα μὴ ἔχοντες καὶ ἄθεοι ἐν τῷ κόσμῳ."
+  }
+ ],
+ "lxx": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "fathers": {
+  "total": 5,
+  "works": {
+   "Ignatius, Letters": 2,
+   "Martyrdom of Polycarp": 3
+  },
+  "representatives": [
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "9.2",
+    "form": "ἀθέους",
+    "postag": "a-p---ma-",
+    "sentence": "αἶρε τοὺς ἀθέους."
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "3.10.1",
+    "form": "ἄθεοι",
+    "postag": "a-p---mn-",
+    "sentence": "εἰ δέ, ὥσπερ τινὲς ἄθεοι ὄντες, τουτέστιν ἄπιστοι, λέγουσιν, τὸ δοκεῖν πεπονθέναι αὐτόν, αὐτοὶ ὄντες τὸ δοκεῖν, ἐγὼ τί δέδεμαι, τί δὲ καὶ εὔχομαι θηριομαχῆσαι;"
+   },
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "9.2",
+    "form": "ἀθέους",
+    "postag": "a-p---ma-",
+    "sentence": "αἶρε τοὺς ἀθέους."
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "3.3.2",
+    "form": "ἀθέους",
+    "postag": "a-p---ma-",
+    "sentence": "ὃν λογίζομαι καὶ τοὺς ἀθέους ἐντρέπεσθαι."
+   },
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "3.2",
+    "form": "ἀθέους",
+    "postag": "a-p---ma-",
+    "sentence": "αἶρε τοὺς ἀθέους ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1  * ἄ-θεος, -ον,     in cl.      slighting or denying the gods (Plat.; cf. MM, VGT, s.v.);      godless, ungodly (Pind.);      abandoned by the gods (Soph.)        In the NT (cf. Lft. on Ign. ad Trail, §3), of the heathen, without God, not knowing God (Cremer, 281): Eph 2:12.†"
+}

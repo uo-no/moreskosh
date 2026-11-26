@@ -1,0 +1,152 @@
+{
+ "strong": "G1373",
+ "lemma": "δίψος",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2CO 11:27",
+   "form": "δίψει",
+   "morph": "N-DSN",
+   "gloss_en": "thirst",
+   "gloss_ja": "渇き",
+   "verse": "κόπῳ καὶ μόχθῳ, ἐν ἀγρυπνίαις πολλάκις, ἐν λιμῷ καὶ δίψει, ἐν νηστείαις πολλάκις, ἐν ψύχει καὶ γυμνότητι·"
+  }
+ ],
+ "lxx": {
+  "total": 16,
+  "works": {
+   "Exodus": 1,
+   "Deuteronomium": 2,
+   "Judices": 1,
+   "Esdras ii": 1,
+   "Machabaeorum iv": 1,
+   "Psalmi": 1,
+   "Odae": 1,
+   "Sapientia Salomonis": 1,
+   "Osee": 1,
+   "Amos": 1,
+   "Isaias": 3,
+   "Jeremias": 1,
+   "Threni seu Lamentationes": 1
+  },
+  "representatives": [
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "5.13",
+    "form": "δίψος",
+    "postag": "n-s---na-",
+    "sentence": "τοίνυν αἰχμάλωτος ὁ λαός μου ἐγενήθη διὰ τὸ μὴ εἰδέναι αὐτοὺς τὸν Κύριον, καὶ πλῆθος ἐγενήθη νεκρῶν διὰ λιμὸν καὶ δίψος ὕδατος."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "32.10",
+    "form": "δίψει",
+    "postag": "n-s---nd-",
+    "sentence": "αὐτάρκησεν αὐτὸν ἐν γῇ ἐρήμῳ, ἐν δίψει καύματος ἐν γῇ ἀνύδρῳ ·"
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "17.3",
+    "form": "δίψει",
+    "postag": "n-s---nd-",
+    "sentence": "ἀνεβίβασας ἡμᾶς ἐξ Αἰγύπτου ἀποκτεῖναι ἡμᾶς καὶ τὰ τέκνα ἡμῶν καὶ τὰ κτήνη τῷ δίψει;"
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "15.18",
+    "form": "δίψει",
+    "postag": "n-s---nd-",
+    "sentence": "σὺ εὐδόκησας ἐν χειρὶ δούλου σου τὴν σωτηρίαν τὴν μεγάλην ταύτην, καὶ νῦν ἀποθανοῦμαι τῷ δίψει καὶ ἐμπεσοῦμαι ἐν χειρὶ τῶν ἀπεριτμήτων."
+   },
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "19.20",
+    "form": "δίψει",
+    "postag": "n-s---nd-",
+    "sentence": "καὶ τὸ πνεῦμά σου τὸ ἀγαθὸν ἔδωκας συνετίσαι αὐτοὺς καὶ τὸ μάννα σου οὐκ ἀφυστέρησας ἀπὸ στόματος αὐτῶν καὶ ὕδωρ ἔδωκας αὐτοῖς ἐν τῷ δίψει αὐτῶν."
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "3.15",
+    "form": "δίψει",
+    "postag": "n-s---nd-",
+    "sentence": "ὁ δὲ καίπερ τῷ δίψει διαπυρούμενος, ἐλογίσατο πάνδεινον εἶναι κίνδυνον τῇ ψυχῇ λογισθὲν ἰσοδύναμον ποτὸν αἵματι ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "61.5",
+    "form": "δίψει",
+    "postag": "n-s---nd-",
+    "sentence": "πλὴν τὴν τιμήν μου ἐβουλεύσαντο ἀπώσασθαι, ἔδραμον ἐν δίψει, τῷ στόματι αὐτῶν εὐλόγουν καὶ τῇ καρδίᾳ αὐτῶν κατηρῶντο."
+   },
+   {
+    "work_code": "ODE",
+    "work_ja": "頌歌（オード）",
+    "work_src": "Odae",
+    "ref": "2.10",
+    "form": "δίψει",
+    "postag": "n-s---nd-",
+    "sentence": "αὐτάρκησεν αὐτὸν ἐν τῇ ἐρήμῳ, ἐν δίψει καύματος ἐν ἀνύδρῳ ·"
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "11.8",
+    "form": "δίψους",
+    "postag": "n-s---ng-",
+    "sentence": "ἀντὶ μὲν πηγῆς ἀεννάου ποταμοῦ αἵματι λυθρώδει ταραχθέντος εἰς ἔλεγχον νηπιοκτόνου διατάγματος, ἔδωκας αὐτοῖς δαψιλὲς ὕδωρ ἀνελπίστως, δείξας διὰ τοῦ τότε δίψους πῶς τοὺς ὑπεναντίους ἐκόλασας."
+   },
+   {
+    "work_code": "HOS",
+    "work_ja": "ホセア書",
+    "work_src": "Osee",
+    "ref": "2.5",
+    "form": "δίψει",
+    "postag": "n-s---nd-",
+    "sentence": "καὶ θήσω αὐτὴν ἔρημον καὶ τάξω αὐτὴν ὡς γῆν ἄνυδρον καὶ ἀποκτενῶ αὐτὴν ἐν δίψει ·"
+   },
+   {
+    "work_code": "AMO",
+    "work_ja": "アモス書",
+    "work_src": "Amos",
+    "ref": "8.13",
+    "form": "δίψει",
+    "postag": "n-s---nd-",
+    "sentence": "ἐν τῇ ἡμέρᾳ ἐκείνῃ ἐκλείψουσιν αἱ παρθένοι αἱ καλαὶ καὶ οἱ νεανίσκοι ἐν δίψει, οἱ ὀμνύοντες κατὰ τοῦ ἱλασμοῦ Σαμαρείας καὶ οἱ λέγοντες ·"
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "2.25",
+    "form": "δίψους",
+    "postag": "n-s---ng-",
+    "sentence": "ἀπόστρεψον τὸν πόδα σου ἀπὸ ὁδοῦ τραχείας καὶ τὸν φάρυγγά σου ἀπὸ δίψους."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   δίψος, -εος (-ους), τό     (late form of δίψα),    [in LXX chiefly for צָמֵא and cognates ;]     thirst: II Co 11:27.†"
+}

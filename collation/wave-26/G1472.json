@@ -1,0 +1,69 @@
+{
+ "strong": "G1472",
+ "lemma": "ἐγχρίω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "REV 3:18",
+   "form": "ἐγχρῖσαι",
+   "morph": "V-AAN",
+   "gloss_en": "anoint",
+   "gloss_ja": "塗る",
+   "verse": "συμβουλεύω σοι ἀγοράσαι παρ’ ἐμοῦ χρυσίον πεπυρωμένον ἐκ πυρὸς ἵνα πλουτήσῃς, καὶ ἱμάτια λευκὰ ἵνα περιβάλῃ καὶ μὴ φανερωθῇ ἡ αἰσχύνη τῆς γυμνότητός σου, καὶ κολλούριον ἐγχρῖσαι τοὺς ὀφθαλμούς σου ἵνα βλέπῃς."
+  }
+ ],
+ "lxx": {
+  "total": 4,
+  "works": {
+   "Tobias": 3,
+   "Jeremias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "6.9",
+    "form": "ἐγχρῖσαι",
+    "postag": "v--ana---",
+    "sentence": "ἡ δὲ χολή, ἐγχρῖσαι ἄνθρωπον, ὃς ἔχει λευκώματα ἐν τοῖς ὀφθαλμοῖς, καὶ ἰαθήσεται."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "4.30",
+    "form": "ἐγχρίσῃ",
+    "postag": "v3sasa---",
+    "sentence": "καὶ σὺ τί ποιήσεις, ἐὰν περιβάλῃ κόκκινον καὶ κοσμήσῃ κόσμῳ χρυσῷ, ἐὰν ἐγχρίσῃ στίβι τοὺς ὀφθαλμούς σου;"
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "11.7",
+    "form": "ἔγχρισον",
+    "postag": "v2sama---",
+    "sentence": "σὺ ἔγχρισον τὴν χολὴν εἰς τοὺς ὀφθαλμοὺς αὐτοῦ, καὶ δηχθεὶς διατρίψει καὶ ἀποβαλεῖται τὰ λευκώματα καὶ ὄψεταί σε."
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "6.9",
+    "form": "ἐγχρῖσαι",
+    "postag": "v--ana---",
+    "sentence": "καὶ ἡ χολή, ἐγχρῖσαι ἀνθρώπου ὀφθαλμούς, οὗ λευκώματα ἀνέβησαν ἐπ’ αὐτῶν, ἐμφυσῆσαι ἐπ’ αὐτοὺς ἐπὶ τῶν λευκωμάτων, καὶ ὑγιαίνουσιν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1     ἐγ-χρίω,     [in LXX: Je 4:30 (קרע). To 2:10  6:8 11:7 * ;]      to rub in, anoint: mid., c. dupl. acc., Re 3:18.†"
+}

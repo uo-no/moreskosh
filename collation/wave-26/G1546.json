@@ -1,0 +1,51 @@
+{
+ "strong": "G1546",
+ "lemma": "ἐκβολή",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 27:18",
+   "form": "ἐκβολὴν",
+   "morph": "N-ASF",
+   "gloss_en": "* throwing the cargo overboard,",
+   "gloss_ja": "投げ出し",
+   "verse": "σφοδρῶς δὲ χειμαζομένων ἡμῶν τῇ ἑξῆς ἐκβολὴν ἐποιοῦντο,"
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Exodus": 1,
+   "Jonas": 1
+  },
+  "representatives": [
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "11.1",
+    "form": "ἐκβολῇ",
+    "postag": "n-s---fd-",
+    "sentence": "ὅταν δὲ ἐξαποστέλλῃ ὑμᾶς, σὺν παντὶ ἐκβαλεῖ ὑμᾶς ἐκβολῇ."
+   },
+   {
+    "work_code": "JON",
+    "work_ja": "ヨナ書",
+    "work_src": "Jonas",
+    "ref": "1.5",
+    "form": "ἐκβολὴν",
+    "postag": "n-s---fa-",
+    "sentence": "καὶ ἐφοβήθησαν οἱ ναυτικοὶ καὶ ἀνεβόησαν ἕκαστος πρὸς τὸ θεὸν αὐτοῦ καὶ ἐκβολὴν ἐποιήσαντο τῶν σκευῶν τῶν ἐν τῷ πλοίῳ εἰς τὴν θάλασσαν τοῦ κουφισθῆναι ἀπ’ αὐτῶν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ἐκ-βολή, -ῆς    (< ἐκβάλλω),    [in LXX: Ex 11:1 (גָּרַשׁ), Jos 1:5 (ἐκβολὴν ποιεῖσθαι, טול hi.), Ez 47:8 (יָצָא)* ;]       a throwing out.      a jettison, a throwing overboard of cargo: Ac 27:18 (cf. Jos, l.c.; and v. Field, Notes, 144 f.).†"
+}

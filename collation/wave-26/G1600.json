@@ -1,0 +1,102 @@
+{
+ "strong": "G1600",
+ "lemma": "ἐκπετάννυμι",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ROM 10:21",
+   "form": "ἐξεπέτασα",
+   "morph": "V-AAI-1S",
+   "gloss_en": "held out",
+   "gloss_ja": "伸ばす",
+   "verse": "πρὸς δὲ τὸν Ἰσραὴλ λέγει· Ὅλην τὴν ἡμέραν ἐξεπέτασα τὰς χεῖράς μου πρὸς λαὸν ἀπειθοῦντα καὶ ἀντιλέγοντα."
+  }
+ ],
+ "lxx": {
+  "total": 6,
+  "works": {
+   "Ecclesiasticus sive Siracides": 1,
+   "Osee": 1,
+   "Nahum": 1,
+   "Isaias": 2,
+   "Threni seu Lamentationes": 1
+  },
+  "representatives": [
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "54.3",
+    "form": "ἐκπέτασον",
+    "postag": "v2sama---",
+    "sentence": "ἔτι εἰς τὰ δεξιὰ καὶ εἰς τὰ ἀριστερὰ ἐκπέτασον, καὶ τὸ σπέρμα σου ἔθνη κληρονομήσει, καὶ πόλεις ἠρημωμένας κατοικιεῖς."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "51.19",
+    "form": "ἐξεπέτασα",
+    "postag": "v1saia---",
+    "sentence": "τὰς χεῖράς μου ἐξεπέτασα πρὸς ὕψος καὶ τὰ ἀγνοήματα αὐτῆς ἐπένθησα."
+   },
+   {
+    "work_code": "HOS",
+    "work_ja": "ホセア書",
+    "work_src": "Osee",
+    "ref": "9.11",
+    "form": "ἐξεπετάσθη",
+    "postag": "v3saip---",
+    "sentence": "Ἐφραὶμ ὡς ὄρνεον ἐξεπετάσθη, αἱ δόξαι αὐτῶν ἐκ τόκων καὶ ὠδίνων καὶ συλλήψεων ·"
+   },
+   {
+    "work_code": "NAH",
+    "work_ja": "ナホム書",
+    "work_src": "Nahum",
+    "ref": "3.16",
+    "form": "ἐξεπετάσθη",
+    "postag": "v3saip---",
+    "sentence": "βροῦχος ὥρμησε καὶ ἐξεπετάσθη."
+   },
+   {
+    "work_code": "LAM",
+    "work_ja": "哀歌",
+    "work_src": "Threni seu Lamentationes",
+    "ref": "1.10",
+    "form": "ἐξεπέτασε",
+    "postag": "v3saia---",
+    "sentence": "χεῖρα αὐτοῦ ἐξεπέτασε θλίβων ἐπὶ πάντα τὰ ἐπιθυμήματα αὐτῆς ·"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "65.2",
+    "form": "ἐξεπέτασα",
+    "postag": "v1saia---",
+    "sentence": "ἐξεπέτασα τὰς χεῖράς μου ὅλην τὴν ἡμέραν πρὸς λαὸν ἀπειθοῦντα καὶ ἀντιλέγοντα, οἳ οὐκ ἐπορεύθησαν ὁδῷ ἀληθινῇ, ἀλλ’ ὀπίσω τῶν ἁμαρτιῶν αὐτῶν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Barnabas": 1
+  },
+  "representatives": [
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "12.4",
+    "form": "ἐξεπέτασα",
+    "postag": "v1saia---",
+    "sentence": "ὅλην τὴν ἡμέραν ἐξεπέτασα τὰς χεῖράς μου πρὸς λαὸν ἀπειθῆ καὶ ἀντιλέγοντα ὁδῷ δικαίᾳ μου."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   ἐκ-πετάννυμι     [in LXX chiefly for פָּרַשׂ, as Is 65:2 (hithp.) ;]    to spread out (as a sail), stretch forth: Ro 10:21(LXX).†"
+}

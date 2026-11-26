@@ -1,0 +1,51 @@
+{
+ "strong": "G1480",
+ "lemma": "ἐθίζω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 2:27",
+   "form": "εἰθισμένον",
+   "morph": "V-RPP-ASN",
+   "gloss_en": "custom",
+   "gloss_ja": "慣れさせる",
+   "verse": "καὶ ἦλθεν ἐν τῷ πνεύματι εἰς τὸ ἱερόν· καὶ ἐν τῷ εἰσαγαγεῖν τοὺς γονεῖς τὸ παιδίον Ἰησοῦν τοῦ ποιῆσαι αὐτοὺς κατὰ τὸ εἰθισμένον τοῦ νόμου περὶ αὐτοῦ"
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Machabaeorum ii": 1,
+   "Ecclesiasticus sive Siracides": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "14.30",
+    "form": "εἰθισμένην",
+    "postag": "v-srpmfa-",
+    "sentence": "ὁ δὲ Μακκαβαῖος αὐστηρότερον διεξάγοντα συνιδὼν τὸν Νικάνορα πρὸς αὐτὸν καὶ τὴν εἰθισμένην ἀπάντησιν ἀγροικότερον ἐσχηκότα, νοήσας οὐκ ἀπὸ τοῦ βελτίστου τὴν αὐστηρίαν εἶναι, συστρέψας οὐκ ὀλίγους τῶν περὶ ἑαυτόν, συνεκρύπτετο τὸν Νικάνορα."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "23.9",
+    "form": "ἐθίσῃς",
+    "postag": "v2sasa---",
+    "sentence": "ὅρκῳ μὴ ἐθίσῃς τὸ στόμα σου καὶ ὀνομασίᾳ τοῦ ἁγίου μὴ συνεθισθῇς ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1     ** ἐθίζω,  (< ἔθος),    [in LXX: Si 23:9,  13, II Mac 14:30 ;]      to accustom: pass. pf. ptcp., τὸ εἰθισμένον, the established custom, Lk 2:27.†"
+}

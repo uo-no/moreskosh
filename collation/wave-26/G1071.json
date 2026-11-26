@@ -1,0 +1,150 @@
+{
+ "strong": "G1071",
+ "lemma": "γέλως",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JAS 4:9",
+   "form": "γέλως",
+   "morph": "N-NSM",
+   "gloss_en": "laughter",
+   "gloss_ja": "笑い",
+   "verse": "ταλαιπωρήσατε καὶ πενθήσατε καὶ κλαύσατε· ὁ γέλως ὑμῶν εἰς πένθος μετατραπήτω καὶ ἡ χαρὰ εἰς κατήφειαν·"
+  }
+ ],
+ "lxx": {
+  "total": 20,
+  "works": {
+   "Genesis": 1,
+   "Machabaeorum iv": 1,
+   "Proverbia": 1,
+   "Ecclesiastes": 4,
+   "Job": 2,
+   "Sapientia Salomonis": 1,
+   "Ecclesiasticus sive Siracides": 3,
+   "Amos": 1,
+   "Michaeas": 2,
+   "Jeremias": 3,
+   "Threni seu Lamentationes": 1
+  },
+  "representatives": [
+   {
+    "work_code": "ECC",
+    "work_ja": "コヘレトの言葉",
+    "work_src": "Ecclesiastes",
+    "ref": "2.2",
+    "form": "γέλωτι",
+    "postag": "n-s---md-",
+    "sentence": "τῷ γέλωτι εἶπα περιφοράν, καὶ τῇ εὐφροσύνῃ ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "27.13",
+    "form": "γέλως",
+    "postag": "n-s---mn-",
+    "sentence": "διήγησις μωρῶν προσόχθισμα, καὶ ὁ γέλως αὐτῶν ἐν σπατάλῃ ἁμαρτίας."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "20.7",
+    "form": "γέλωτα",
+    "postag": "n-s---ma-",
+    "sentence": "ἐγενόμην εἰς γέλωτα, πᾶσαν ἡμέραν διετέλεσα μυκτηριζόμενος ·"
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "8.21",
+    "form": "γέλωτος",
+    "postag": "n-s---mg-",
+    "sentence": "ἀληθινῶν δὲ στόμα ἐμπλήσει γέλωτος, τὰ δὲ χείλη αὐτῶν ἐξομολογήσεως ·"
+   },
+   {
+    "work_code": "MIC",
+    "work_ja": "ミカ書",
+    "work_src": "Michaeas",
+    "ref": "1.10",
+    "form": "γέλωτα",
+    "postag": "n-s---ma-",
+    "sentence": "οἱ ἐν Ἀκείμ, μὴ ἀνοικοδομεῖτε ἐξ οἴκου κατὰ γέλωτα, γῆν καταπάσασθε κατὰ γέλωτα ὑμῶν."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "21.6",
+    "form": "γέλωτά",
+    "postag": "n-s---ma-",
+    "sentence": "γέλωτά μοι ἐποίησε Κύριος ·"
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "5.28",
+    "form": "γέλωτα",
+    "postag": "n-s---ma-",
+    "sentence": "ἀλλ’ οὐ γελάσεις κατ’ ἐμοῦ τοῦτον τὸν γέλωτα, οὔ-τε τοὺς ἱεροὺς τῶν προγόνων περὶ τοῦ φυλάξαι τὸν νόμον ὅρκους οὐ παρήσω, οὐ-δ’ ἂν ἐκκόψειάς μου τὰ ὄμματα καὶ τὰ σπλάγχνα μου τήξειας."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "10.23",
+    "form": "γέλωτι",
+    "postag": "n-s---md-",
+    "sentence": "ἐν γέλωτι ἄφρων πράσσει κακά, ἡ δὲ σοφία ἀνδρὶ τίκτει φρόνησιν."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "5.4",
+    "form": "γέλωτα",
+    "postag": "n-s---ma-",
+    "sentence": "οὗτος ἦν ὃν ἔσχομέν ποτε εἰς γέλωτα καὶ εἰς παραβολὴν ὀνειδισμοῦ οἱ ἄφρονες ·"
+   },
+   {
+    "work_code": "AMO",
+    "work_ja": "アモス書",
+    "work_src": "Amos",
+    "ref": "7.9",
+    "form": "γέλωτος",
+    "postag": "n-s---mg-",
+    "sentence": "καὶ ἀφανισθήσονται βωμοὶ τοῦ γέλωτος, καὶ αἱ τελεταί τοῦ Ἰσραὴλ ἐρημωθήσονται, καὶ ἀναστήσομαι ἐπὶ τὸν οἶκον Ἱεροβοὰμ ἐν ρομφαίᾳ."
+   },
+   {
+    "work_code": "LAM",
+    "work_ja": "哀歌",
+    "work_src": "Threni seu Lamentationes",
+    "ref": "3.14",
+    "form": "γέλως",
+    "postag": "n-s---mn-",
+    "sentence": "ἐγενήθην γέλως παντὶ λαῷ μου, ψαλμὸς αὐτῶν ὅλην τὴν ἡμέραν ·"
+   },
+   {
+    "work_code": "ECC",
+    "work_ja": "コヘレトの言葉",
+    "work_src": "Ecclesiastes",
+    "ref": "7.6",
+    "form": "γέλως",
+    "postag": "n-s---mn-",
+    "sentence": "ὡς φωνὴ ἀκανθῶν ὑπὸ τὸν λέβητα, οὕτως γέλως τῶν ἀφρόνων ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   γέλως, -ωτος, ὁ,     [in LXX chiefly for שְׂחוֹק ;]    laughter: Ja 4:9.†"
+}

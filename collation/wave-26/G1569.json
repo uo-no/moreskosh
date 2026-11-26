@@ -1,0 +1,53 @@
+{
+ "strong": "G1569",
+ "lemma": "ἔκθαμβος",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 3:11",
+   "form": "ἔκθαμβοι",
+   "morph": "A-NPM",
+   "gloss_en": "utterly astonished",
+   "gloss_ja": "非常に驚いた",
+   "verse": "Κρατοῦντος δὲ αὐτοῦ τὸν Πέτρον καὶ τὸν Ἰωάννην συνέδραμεν πᾶς ὁ λαὸς πρὸς αὐτοὺς ἐπὶ τῇ στοᾷ τῇ καλουμένῃ Σολομῶντος ἔκθαμβοι."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "7.7",
+    "form": "ἔκθαμβον",
+    "postag": "a-s---nn-",
+    "sentence": "ὀπίσω τούτου ἐθεώρουν καὶ ἰδοὺ θηρίον τέταρτον φοβερὸν καὶ ἔκθαμβον καὶ ἰσχυρὸν περισσῶς, καὶ οἱ ὀδόντες αὐτοῦ σιδηροῖ μεγάλοι, ἐσθίον καὶ λεπτῦνον καὶ τὰ ἐπίλοιπα τοῖς ποσὶν αὐτοῦ συνεπάτει, καὶ αὐτὸ διάφορον περισσῶς παρὰ πάντα τὰ θηρία τὰ ἔμπροσθεν αὐτοῦ, καὶ κέρατα δέκα αὐτῷ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "3.1.5",
+    "form": "ἔκθαμβος",
+    "postag": "a-s---mn-",
+    "sentence": "ἰδὼν ταῦτα κείμενα καὶ μηδένα ὄντα ἐν τῷ τόπῳ ἔκθαμβος ἐγενόμην, καὶ ὡσεὶ τρόμος με ἔλαβεν καὶ αἱ τρίχες μου ὀρθαί ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   **† ἔκ-θαμβος, -ον    (< θάμβος),    [in LXX: Wi 10:19, Da TH Da 7:7 (dreadful, terrible: אֵמְתָּנִי) * ;]     amazed (cf. Polyb., xx, 10, 9): Ac 3:11.†"
+}

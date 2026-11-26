@@ -1,0 +1,176 @@
+{
+ "strong": "G143",
+ "lemma": "αἰσθάνομαι",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 9:45",
+   "form": "αἴσθωνται",
+   "morph": "V-2ADS-3P",
+   "gloss_en": "perceive",
+   "gloss_ja": "感知する",
+   "verse": "οἱ δὲ ἠγνόουν τὸ ῥῆμα τοῦτο, καὶ ἦν παρακεκαλυμμένον ἀπ’ αὐτῶν ἵνα μὴ αἴσθωνται αὐτό, καὶ ἐφοβοῦντο ἐρωτῆσαι αὐτὸν περὶ τοῦ ῥήματος τούτου."
+  }
+ ],
+ "lxx": {
+  "total": 10,
+  "works": {
+   "Machabaeorum iv": 1,
+   "Proverbia": 2,
+   "Job": 1,
+   "Sapientia Salomonis": 1,
+   "Isaias": 1,
+   "Epistula Jeremiae": 4
+  },
+  "representatives": [
+   {
+    "work_code": "LJE",
+    "work_ja": "エレミヤの手紙",
+    "work_src": "Epistula Jeremiae",
+    "ref": "23",
+    "form": "ᾐσθάνοντο",
+    "postag": "v3piim---",
+    "sentence": "οὐ-δὲ γάρ, ὅτε ἐχωνεύοντο, ᾐσθάνοντο."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "24.14",
+    "form": "αἰσθήσῃ",
+    "postag": "v2sfim---",
+    "sentence": "οὕτως αἰσθήσῃ σοφίαν τῇ σῇ ψυχῇ ·"
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "11.7",
+    "form": "ᾐσθάνου",
+    "postag": "v2siim---",
+    "sentence": "εἴπερ ᾐσθάνου ἀνθρώπου πόθον καὶ ἐλπίδα εἶχες παρὰ Θεῷ σωτηρίου ·"
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "23.5",
+    "form": "αἰσθοίμην",
+    "postag": "v1saom---",
+    "sentence": "γνοίην δὲ ἰάματα, ἅ μοι ἐρεῖ, αἰσθοίμην δέ τίνα μοι ἀπαγγελεῖ."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "11.13",
+    "form": "ᾔσθοντο",
+    "postag": "v3paim---",
+    "sentence": "ὅτε γὰρ ἤκουσαν διὰ τῶν ἰδίων κολάσεων εὐεργετουμένους αὐτούς, ᾔσθοντο τοῦ Κυρίου ·"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "49.26",
+    "form": "αἰσθανθήσεται",
+    "postag": "v3sfip---",
+    "sentence": "καὶ φάγονται οἱ θλίψαντές σε τὰς σάρκας αὐτῶν καὶ πίονται ὡς οἶνον νέον τὸ αἷμα αὐτῶν καὶ μεθυσθήσονται, καὶ αἰσθανθήσεται πᾶσα σάρξ ὅτι ἐγὼ Κύριος ὁ ρυσάμενός σε καὶ ἀντιλαμβανόμενος ἰσχύος Ἰακώβ."
+   },
+   {
+    "work_code": "LJE",
+    "work_ja": "エレミヤの手紙",
+    "work_src": "Epistula Jeremiae",
+    "ref": "49",
+    "form": "αἰσθέσθαι",
+    "postag": "v--anm---",
+    "sentence": "πῶς οὖν οὐκ ἔστιν αἰσθέσθαι ὅτι οὐκ εἰσὶ θεοί, οἳ οὔ-τε σῴζουσιν ἑαυτοὺς ἐκ πολέμου οὔ-τε ἐκ κακῶν;"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "17.10",
+    "form": "αἰσθάνεται",
+    "postag": "v3spim---",
+    "sentence": "συντρίβει ἀπειλὴ καρδίαν φρονίμου, ἄφρων δὲ μαστιγωθεὶς οὐκ αἰσθάνεται."
+   },
+   {
+    "work_code": "LJE",
+    "work_ja": "エレミヤの手紙",
+    "work_src": "Epistula Jeremiae",
+    "ref": "19",
+    "form": "αἰσθάνονται",
+    "postag": "v3ppim---",
+    "sentence": "ἔστι μὲν ὥσπερ δοκὸς τῶν ἐκ τῆς οἰκίας, τὰς δὲ καρδίας αὐτῶν φασὶν ἐκλείχεσθαι, τῶν ἀπὸ τῆς γῆς ἑρπετῶν κατεσθόντων αὐτούς τε καὶ τὸν ἱματισμὸν αὐτῶν, οὐκ αἰσθάνονται."
+   },
+   {
+    "work_code": "LJE",
+    "work_ja": "エレミヤの手紙",
+    "work_src": "Epistula Jeremiae",
+    "ref": "40",
+    "form": "αἰσθέσθαι",
+    "postag": "v--anm---",
+    "sentence": "ἔτι δὲ καὶ αὐτῶν τῶν Χαλδαίων ἀτιμαζόντων αὐτά, οἵ, ὅταν ἴδωσιν ἐνεὸν μὴ δυνάμενον λαλῆσαι, προσενεγκάμενοι τὸν Βῆλον ἀξιοῦσι φωνῆσαι, ὡς δυνατοῦ ὄντος αὐτοῦ αἰσθέσθαι, καὶ οὐ δύνανται αὐτοὶ νοήσαντες καταλιπεῖν αὐτά, αἴσθησιν γὰρ οὐκ ἔχουσιν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 5,
+  "works": {
+   "Barnabas": 4,
+   "To Diognetus": 1
+  },
+  "representatives": [
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "13.3",
+    "form": "αἰσθάνεσθαι",
+    "postag": "v--pnm---",
+    "sentence": "αἰσθάνεσθαι ὀφείλετε, τίς ὁ Ἰσαὰκ καὶ τίς ἡ Ῥεβέκκα."
+   },
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "2",
+    "form": "αἰσθάνονται",
+    "postag": "v3ppim---",
+    "sentence": "αἷς δὲ δοκεῖτε τιμαῖς προσφέρειν, εἰ μὲν αἰσθάνονται, κολάζετε μᾶλλον αὐτούς ·"
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "11.8",
+    "form": "αἰσθάνεσθε",
+    "postag": "v2ppmm---",
+    "sentence": "αἰσθάνεσθε, πῶς τὸ ὕδωρ καὶ τὸν σταυρὸν ἐπὶ τὸ αὐτὸ ὥρισεν."
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "6.18",
+    "form": "αἰσθάνεσθαι",
+    "postag": "v--pnm---",
+    "sentence": "αἰσθάνεσθαι γὰρ ὀφείλομεν, ὅτι τὸ ἄρχειν ἐξουσίας ἐστίν, ἵνα τις ἐπιτάξας κυριεύσῃ."
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "2.9",
+    "form": "αἰσθάνεσθαι",
+    "postag": "v--pnm---",
+    "sentence": "αἰσθάνεσθαι οὖν ὀφείλομεν, μὴ ὄντες ἀσύνετοι, τὴν γνώμην τῆς ἀγαθωσύνης τοῦ πατρὸς ἡμῶν, ὅτ’ ἡμῖν λέγει, θέλων ἡμᾶς μὴ ὁμοίως πλανωμένους ἐκείνοις ζητεῖν, πῶς προσάγωμεν αὐτῷ."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1  αἰσθάνομαι,    [in LXX for בּין, חפז, ידע;]   to perceive: c.acc. rei (Bl., §36, 5; MM, VGT, s.v.), Lk 9:45 (Cremer, 619 f.).†"
+}

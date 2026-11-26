@@ -1,0 +1,51 @@
+{
+ "strong": "G1454",
+ "lemma": "ἔγερσις",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MAT 27:53",
+   "form": "ἔγερσιν",
+   "morph": "N-ASF",
+   "gloss_en": "resurrection",
+   "gloss_ja": "復活",
+   "verse": "καὶ ἐξελθόντες ἐκ τῶν μνημείων μετὰ τὴν ἔγερσιν αὐτοῦ εἰσῆλθον εἰς τὴν ἁγίαν πόλιν καὶ ἐνεφανίσθησαν πολλοῖς."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Esdras i": 1,
+   "Psalmi": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1ES",
+    "work_ja": "エズラ記（ギリシャ語）",
+    "work_src": "Esdras i",
+    "ref": "5.59",
+    "form": "ἐγέρσει",
+    "postag": "n-s---fd-",
+    "sentence": "καὶ πᾶς ὁ λαὸς ἐσάλπισαν καὶ ἐβόησαν φωνῇ μεγάλῃ ὑμνοῦντες τῷ Κυρίῳ ἐπὶ τῇ ἐγέρσει τοῦ οἴκου Κυρίου."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "138.2",
+    "form": "ἔγερσίν",
+    "postag": "n-s---fa-",
+    "sentence": "σὺ ἔγνως τὴν καθέδραν μου καὶ τὴν ἔγερσίν μου, σὺ συνῆκας τοὺς διαλογισμούς μου ἀπὸ μακρόθεν ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1     ἔγερσις, -εως, ἡ (< ἐγείρω, -ομαι)),     [in LXX: Jg 7:19, Ps 138 (139):2 (קוּם), I Es 5:62 * ;]           a rousing (Plat.).      a rising (Ps, l.c.): from death, Mt 27:53.†"
+}

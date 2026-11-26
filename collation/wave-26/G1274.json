@@ -1,0 +1,62 @@
+{
+ "strong": "G1274",
+ "lemma": "διανύω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 21:7",
+   "form": "διανύσαντες",
+   "morph": "V-AAP-NPM",
+   "gloss_en": "finished",
+   "gloss_ja": "完成する",
+   "verse": "Ἡμεῖς δὲ τὸν πλοῦν διανύσαντες ἀπὸ Τύρου κατηντήσαμεν εἰς Πτολεμαΐδα, καὶ ἀσπασάμενοι τοὺς ἀδελφοὺς ἐμείναμεν ἡμέραν μίαν παρ’ αὐτοῖς."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Machabaeorum ii": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "12.17",
+    "form": "διήνυσαν",
+    "postag": "v3paia---",
+    "sentence": "ἐκεῖθεν δὲ ἀποσπάσαντες σταδίους ἑπτακοσίους πεντήκοντα διήνυσαν εἰς τὸν Χάρακα πρὸς τοὺς λεγομένους Τουβιήνους Ἰουδαίους."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "1 Clement": 2
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "20.2",
+    "form": "διανύουσιν",
+    "postag": "v3ppia---",
+    "sentence": "ἡμέρα τε καὶ νὺξ τὸν τεταγμένον ὑπ’ αὐτοῦ δρόμον διανύουσιν, μηδὲν ἀλλήλοις ἐμποδίζοντα."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "25.3",
+    "form": "διανύει",
+    "postag": "v3spia---",
+    "sentence": "εἶτα γενναῖος γενόμενος αἴρει τὸν σηκὸν ἐκεῖνον, ὅπου τὰ ὀστᾶ τοῦ προγεγονότος ἐστίν, καὶ ταῦτα βαστάζων διανύει ἀπὸ τῆς Ἀραβικῆς χώρας ἕως τῆς Αἰγύπτου εἰς τὴν λεγομένην Ἡλιούπολιν, καὶ ἡμέρας, βλεπόντων πάντων, ἐπιπτὰς ἐπὶ τὸν τοῦ ἡλίου βωμὸν τίθησιν αὐτὰ καὶ οὕτως εἰς το-τοὐπίσω ἀφορμᾷ."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   ** δι-ανύω     [in LXX: II Mac 12:17 * ;]       to accomplish fully, finish, complete: Ac 21:7 (EV).      In late writers (Xen., al., Clem., I ad Cor., xxv, 3), to continue: Ac, l.c. (Field, Notes, 134 f.).†"
+}

@@ -1,0 +1,107 @@
+{
+ "strong": "G1091",
+ "lemma": "γεώργιον",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 3:9",
+   "form": "γεώργιον",
+   "morph": "N-NSN",
+   "gloss_en": "field",
+   "gloss_ja": "畑",
+   "verse": "θεοῦ γάρ ἐσμεν συνεργοί· θεοῦ γεώργιον, θεοῦ οἰκοδομή ἐστε."
+  }
+ ],
+ "lxx": {
+  "total": 8,
+  "works": {
+   "Genesis": 1,
+   "Proverbia": 5,
+   "Ecclesiasticus sive Siracides": 1,
+   "Jeremias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "24.5",
+    "form": "γεωργίου",
+    "postag": "n-s---ng-",
+    "sentence": "κρείσσων σοφὸς ἰσχυροῦ καὶ ἀνὴρ φρόνησιν ἔχων γεωργίου μεγάλου."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "26.14",
+    "form": "γεώργια",
+    "postag": "n-p---nn-",
+    "sentence": "ἐγένετο δὲ αὐτῷ κτήνη προβάτων καὶ κτήνη βοῶν καὶ γεώργια πολλά."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "27.6",
+    "form": "γεώργιον",
+    "postag": "n-s---na-",
+    "sentence": "γεώργιον ξύλου ἐκφαίνει ὁ καρπὸς αὐτοῦ, οὕτως λόγος ἐνθυμήματος καρδίας ἀνθρώπου."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "28.23",
+    "form": "γεώργιον",
+    "postag": "n-s---na-",
+    "sentence": "— διασκορπίζεις σύ μοι σκεύη πολέμου, καὶ διασκορπιῶ ἐν σοὶ ἔθνη καὶ ἐξαρῶ ἐκ σοῦ βασιλεῖς καὶ διασκορπιῶ ἐν σοὶ ἵππον καὶ ἐπιβάτην αὐτοῦ καὶ διασκορπιῶ ἐν σοὶ ἅρματα καὶ ἀναβάτας αὐτῶν καὶ διασκορπιῶ ἐν σοὶ νεανίσκον καὶ παρθένον καὶ διασκορπιῶ ἐν σοὶ ἄνδρα καὶ γυναῖκα καὶ διασκορπιῶ ἐν σοὶ ποιμένα καὶ τὸ ποίμνιον αὐτοῦ καὶ διασκορπιῶ ἐν σοὶ γεωργὸν καὶ τὸ γεώργιον αὐτοῦ καὶ διασκορπιῶ ἐν σοὶ ἡγεμόνας καὶ στρατηγούς σου."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "24b.30",
+    "form": "γεώργιον",
+    "postag": "n-s---nn-",
+    "sentence": "ὥσπερ γεώργιον ἀνὴρ ἄφρων, καὶ ὥσπερ ἀμπελὼν ἄνθρωπος ἐνδεὴς φρενῶν ·"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "31b.16",
+    "form": "γεώργιον",
+    "postag": "n-s---na-",
+    "sentence": "θεωρήσασα γεώργιον ἐπρίατο, ἀπὸ δὲ καρπῶν χειρῶν αὐτῆς κατεφύτευσε κτῆμα."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "9.12β",
+    "form": "γεωργίου",
+    "postag": "n-s---ng-",
+    "sentence": "ἀπέλιπε γὰρ ὁδοὺς τοῦ ἑαυτοῦ ἀμπελῶνος, τοὺς δὲ ἄξονας τοῦ ἰδίου γεωργίου πεπλάνηται ·"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "6.7",
+    "form": "γεωργίου",
+    "postag": "n-s---ng-",
+    "sentence": "ἐκείνῳ γὰρ γεωργίου μὴ ὑπάρχοντος, μη-δὲ τὸν ἀναγκάζοντα ἔχων, μη-δὲ ὑπὸ δεσπότην ὤν, ἑτοιμάζεται θέρους τὴν τροφὴν πολλήν τε ἐν τῷ ἀμητῷ ποιεῖται τὴν παράθεσιν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   γεώργιον, -ου, τό     (< γεωργός),    [in LXX, freq. in Pr., for שָׂדֶה, etc. ;]         a field (Pr 24:5, 30, Strabo).      cultivation, husbandry, tillage (Pr 6:7 9:12, Je 28:23, Si 27:6): I Co 3:9.†"
+}

@@ -1,0 +1,82 @@
+{
+ "strong": "G1603",
+ "lemma": "ἐκπληρόω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 13:33",
+   "form": "ἐκπεπλήρωκεν",
+   "morph": "V-RAI-3S",
+   "gloss_en": "fulfilled",
+   "gloss_ja": "完全に満たす",
+   "verse": "ὅτι ταύτην ὁ θεὸς ἐκπεπλήρωκεν τοῖς τέκνοις ἡμῶν ἀναστήσας Ἰησοῦν, ὡς καὶ ἐν τῷ ψαλμῷ γέγραπται τῷ δευτέρῳ· Υἱός μου εἶ σύ, ἐγὼ σήμερον γεγέννηκά σε."
+  }
+ ],
+ "lxx": {
+  "total": 4,
+  "works": {
+   "Machabaeorum ii": 1,
+   "Machabaeorum iii": 2,
+   "Threni seu Lamentationes": 1
+  },
+  "representatives": [
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "1.22",
+    "form": "ἐκπληροῦν",
+    "postag": "v--pna---",
+    "sentence": "σύν τε τούτοις οἱ τῶν πολιτῶν θρασυνθέντες οὐκ ἠνείχοντο τέλεον αὐτοῦ ἐπικειμένου καὶ τὸ τῆς προθέσεως αὐτοῦ ἐκπληροῦν διανοουμένου."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "8.10",
+    "form": "ἐκπληρώσειν",
+    "postag": "v--fna---",
+    "sentence": "διεστήσατο δὲ ὁ Νικάνωρ τὸν φόρον τῷ βασιλεῖ τοῖς Ῥωμαίοις ὄντα ταλάντων δισχιλίων ἐκ τῆς τῶν Ἰουδαίων αἰχμαλωσίας ἐκπληρώσειν."
+   },
+   {
+    "work_code": "LAM",
+    "work_ja": "哀歌",
+    "work_src": "Threni seu Lamentationes",
+    "ref": "4.19",
+    "form": "ἐκπληρώθησαν",
+    "postag": "v3paip---",
+    "sentence": "ἤγγικεν ὁ καιρὸς ἡμῶν, ἐκπληρώθησαν αἱ ἡμέραι ἡμῶν, πάρεστιν ὁ καιρὸς ἡμῶν."
+   },
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "1.2",
+    "form": "ἐκπληρῶσαι",
+    "postag": "v--ana---",
+    "sentence": "Θεόδοτος δέ τις ἐκπληρῶσαι τὴν ἐπιβουλὴν διανοηθείς, παραλαβὼν τῶν προϋποτεταγμένων αὐτῷ ὅπλων Πτολεμαϊκῶν τὰ κράτιστα, διεκομίσθη νύκτωρ ἐπὶ τὴν τοῦ Πτολεμαίου σκηνὴν ὡς μόνος κτεῖναι αὐτὸν καὶ ἐν τούτῳ διαλῦσαι τὸν πόλεμον."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "3.7.6",
+    "form": "ἐκπληρώσωσιν",
+    "postag": "v3pasa---",
+    "sentence": "ἑτέρῳ δὲ τόπῳ ἁρμόσουσιν πολὺ ἐλάττονι, καὶ τοῦτο ὅταν βασανισθῶσιν καὶ ἐκπληρώσωσιν τὰς ἡμέρας τῶν ἁμαρτιῶν αὐτῶν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   ** ἐκ-πληρόω     [in LXX: II Mac 8:10, III Mac 1:2, 22 * ;]       to fill full, make up a number.      to fulfil (MM, Exp., xii; Cremer, 839), Ac 13:32.†"
+}

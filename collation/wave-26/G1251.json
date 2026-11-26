@@ -1,0 +1,51 @@
+{
+ "strong": "G1251",
+ "lemma": "διακούω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 23:35",
+   "form": "Διακούσομαί",
+   "morph": "V-FDI-1S",
+   "gloss_en": "give ~ ahearing",
+   "gloss_ja": "審問する",
+   "verse": "Διακούσομαί σου, ἔφη, ὅταν καὶ οἱ κατήγοροί σου παραγένωνται· κελεύσας ἐν τῷ πραιτωρίῳ τοῦ Ἡρῴδου φυλάσσεσθαι αὐτόν."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Deuteronomium": 1,
+   "Job": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "1.16",
+    "form": "διακούετε",
+    "postag": "v2ppma---",
+    "sentence": "διακούετε ἀνὰ μέσον τῶν ἀδελφῶν ὑμῶν καὶ κρίνατε δικαίως ἀνὰ μέσον ἀνδρὸς καὶ ἀνὰ μέσον ἀδελφοῦ καὶ ἀνὰ μέσον προσηλύτου αὐτοῦ."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "9.33",
+    "form": "διακούων",
+    "postag": "v-sppamn-",
+    "sentence": "εἴθε ἦν ὁ μεσίτης ἡμῶν καὶ ἐλέγχων καὶ διακούων ἀνὰ μέσον ἀμφοτέρων ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1 (KJV) δι-ακούω     [in LXX: De 1:16 (שׁמע), Jb 9:33 (יָד שִׁית hi.)* ;]     to hear through, hear fully; technically, to hear judicially (as De, l.c.; of. Deiss., BS, 230): Ac 23:35.†"
+}

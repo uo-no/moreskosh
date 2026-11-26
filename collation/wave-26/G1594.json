@@ -1,0 +1,90 @@
+{
+ "strong": "G1594",
+ "lemma": "ἐκνήφω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 15:34",
+   "form": "ἐκνήψατε",
+   "morph": "V-AAM-2P",
+   "gloss_en": "come to a sober",
+   "gloss_ja": "酔いからさめる",
+   "verse": "ἐκνήψατε δικαίως καὶ μὴ ἁμαρτάνετε, ἀγνωσίαν γὰρ θεοῦ τινες ἔχουσιν· πρὸς ἐντροπὴν ὑμῖν λαλῶ."
+  }
+ ],
+ "lxx": {
+  "total": 6,
+  "works": {
+   "Genesis": 1,
+   "Regnorum i": 1,
+   "Ecclesiasticus sive Siracides": 1,
+   "Joel": 1,
+   "Habacuc": 2
+  },
+  "representatives": [
+   {
+    "work_code": "HAB",
+    "work_ja": "ハバクク書",
+    "work_src": "Habacuc",
+    "ref": "2.19",
+    "form": "ἔκνηψον",
+    "postag": "v2sama---",
+    "sentence": "ἔκνηψον, ἐξεγέρθητι, καὶ τῷ λίθῳ ·"
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "9.24",
+    "form": "ἐξένηψε",
+    "postag": "v3saia---",
+    "sentence": "ἐξένηψε δὲ Νῶε ἀπὸ τοῦ οἴνου καὶ ἔγνω ὅσα ἐποίησεν αὐτῷ ὁ υἱὸς αὐτοῦ ὁ νεώτερος, καὶ εἶπεν ·"
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "25.37",
+    "form": "ἐξένηψεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἐγένετο πρωΐ, ὡς ἐξένηψεν ἀπὸ τοῦ οἴνου Νάβαλ, ἀπήγγειλεν ἡ γυνὴ αὐτοῦ τὰ ρήματα ταῦτα, καὶ ἐναπέθανεν ἡ καρδία αὐτοῦ ἐν αὐτῷ, καὶ αὐτὸς γίνεται ὡς λίθος."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "31.2",
+    "form": "ἐκνήψει",
+    "postag": "v3sasa---",
+    "sentence": "μέριμνα ἀγρυπνίας ἀπαιτήσει νυσταγμόν, καὶ ἀρρώστημα βαρὺ ἐκνήψει ὕπνος."
+   },
+   {
+    "work_code": "JOL",
+    "work_ja": "ヨエル書",
+    "work_src": "Joel",
+    "ref": "1.5",
+    "form": "ἐκνήψατε",
+    "postag": "v2pama---",
+    "sentence": "ἐκνήψατε, οἱ μεθύοντες, ἐξ οἴνου αὐτῶν καὶ κλαύσατε ·"
+   },
+   {
+    "work_code": "HAB",
+    "work_ja": "ハバクク書",
+    "work_src": "Habacuc",
+    "ref": "2.7",
+    "form": "ἐκνήψουσιν",
+    "postag": "v3pasa---",
+    "sentence": "ὅτι ἐξαίφνης ἀναστήσονται δάκνοντες αὐτόν, καὶ ἐκνήψουσιν οἱ ἐπίβουλοί σου, καὶ ἔσῃ εἰς διαρπαγὴν αὐτοῖς."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   † ἐκ-νήφω     [in LXX: Ge 9:24, Hb 2:7 (יָקַץ), Jl 1:5, Hb 2:19 (קַיץ hi.), I Ki 25:37 (יָצָא), Si 34 (31)2* ;]     to become sober after drunkenness: metaph., of sobriety of mind, I Co 15:34.†"
+}

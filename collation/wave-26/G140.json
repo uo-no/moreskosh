@@ -1,0 +1,165 @@
+{
+ "strong": "G140",
+ "lemma": "αἱρετίζω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MAT 12:18",
+   "form": "ᾑρέτισα",
+   "morph": "V-AAI-1S",
+   "gloss_en": "chosen",
+   "gloss_ja": "選ぶ",
+   "verse": "Ἰδοὺ ὁ παῖς μου ὃν ᾑρέτισα, ὁ ἀγαπητός μου εἰς ὃν εὐδόκησεν ἡ ψυχή μου· θήσω τὸ πνεῦμά μου ἐπ’ αὐτόν, καὶ κρίσιν τοῖς ἔθνεσιν ἀπαγγελεῖ."
+  }
+ ],
+ "lxx": {
+  "total": 26,
+  "works": {
+   "Genesis": 1,
+   "Numeri": 1,
+   "Paralipomenon i sive Chronicon i": 4,
+   "Paralipomenon ii sive Chronicon ii": 1,
+   "Esdras i": 2,
+   "Judith": 1,
+   "Machabaeorum i": 2,
+   "Machabaeorum ii": 1,
+   "Psalmi": 5,
+   "Psalmi Salomonis": 2,
+   "Aggaeus": 1,
+   "Zacharias": 2,
+   "Malachias": 2,
+   "Ezechiel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "24.12",
+    "form": "ᾑρετίσατο",
+    "postag": "v3saim---",
+    "sentence": "νομοθετήσει αὐτῷ ἐν ὁδῷ, ᾗ ᾑρετίσατο."
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "28.10",
+    "form": "ᾑρέτικέ",
+    "postag": "v3sria---",
+    "sentence": "ἰδὲ νῦν ὅτι Κύριος ᾑρέτικέ σε οἰκοδομῆσαι αὐτῷ οἶκον εἰς ἁγίασμα ·"
+   },
+   {
+    "work_code": "1ES",
+    "work_ja": "エズラ記（ギリシャ語）",
+    "work_src": "Esdras i",
+    "ref": "8.10",
+    "form": "αἱρετίζοντας",
+    "postag": "v-pppama-",
+    "sentence": "καὶ τὰ φιλάνθρωπα ἐγὼ κρίνας προσέταξα τοὺς βουλομένους ἐκ τοῦ ἔθνους τῶν Ἰουδαίων αἱρετίζοντας καὶ τῶν ἱερέων καὶ τῶν Λευιτῶν, καὶ τῶνδε ἐν τῇ ἡμετέρᾳ βασιλείᾳ, συμπορεύεσθαί σοι εἰς Ἱερουσαλήμ."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "9.30",
+    "form": "ᾑρετισάμεθα",
+    "postag": "v1paim---",
+    "sentence": "νῦν οὖν σε ᾑρετισάμεθα σήμερον τοῦ εἶναι ἀντ’ αὐτοῦ ἡμῖν εἰς ἄρχοντα καὶ ἡγούμενον τοῦ πολεμῆσαι τὸν πόλεμον ἡμῶν."
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "9.9",
+    "form": "ᾑρετίσω",
+    "postag": "v2saim---",
+    "sentence": "ὅτι σὺ ᾑρετίσω τὸ σπέρμα Αβρααμ παρὰ πάντα τὰ ἔθνη καὶ ἔθου τὸ ὄνομά σου ἐφ’ ἡμᾶς, κύριε, καὶ οὐκ ἀπώσῃ εἰς τὸν αἰῶνα."
+   },
+   {
+    "work_code": "ZEC",
+    "work_ja": "ゼカリヤ書",
+    "work_src": "Zacharias",
+    "ref": "1.17",
+    "form": "αἱρετιεῖ",
+    "postag": "v3sfia---",
+    "sentence": "ἔτι διαχυθήσονται πόλεις ἐν ἀγαθοῖς, καὶ ἐλεήσει Κύριος ἔτι τὴν Σιὼν καὶ αἱρετιεῖ τὴν Ἱερουσαλήμ."
+   },
+   {
+    "work_code": "MAL",
+    "work_ja": "マラキ書",
+    "work_src": "Malachias",
+    "ref": "3.17",
+    "form": "αἱρετιῶ",
+    "postag": "v1sfia---",
+    "sentence": "καὶ ἔσονταί μοι, λέγει Κύριος παντοκράτωρ, εἰς ἡμέραν, ἣν ἐγὼ ποιῶ εἰς περιποίησιν, καὶ αἱρετιῶ αὐτοὺς ὃν τρόπον αἱρετίζει ἄνθρωπος τὸν υἱὸν αὐτοῦ τὸν δουλεύοντα αὐτῷ."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "30.20",
+    "form": "αἱρετιεῖ",
+    "postag": "v3sfia---",
+    "sentence": "αἱρετιεῖ με ὁ ἀνήρ μου, τέτοκα γὰρ αὐτῷ υἱοὺς ἕξ ·"
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "14.8",
+    "form": "αἱρετίζει",
+    "postag": "v3spia---",
+    "sentence": "εἰ αἱρετίζει ἡμᾶς Κύριος, εἰσάξει ἡμᾶς εἰς τὴν γῆν ταύτην καὶ δώσει αὐτὴν ἡμῖν, γῆ ἥτις ἐστὶ ρέουσα γάλα καὶ μέλι."
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "29.11",
+    "form": "ᾑρέτικε",
+    "postag": "v3sria---",
+    "sentence": "καὶ νῦν μὴ διαλίπητε, ὅτι ἐν ὑμῖν ᾑρέτικε Κύριος στῆναι ἐναντίον αὐτοῦ λειτουργεῖν καὶ εἶναι αὐτῷ λειτουργοῦντας καὶ θυμιῶντας."
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "11.1",
+    "form": "ᾑρέτικε",
+    "postag": "v3sria---",
+    "sentence": "θάρσησον, γύναι, μὴ φοβηθῇς τῇ καρδίᾳ σου, ὅτι ἐγὼ οὐκ ἐκάκωσα ἄνθρωπον, ὅστις ᾑρέτικε δουλεύειν βασιλεῖ Ναβουχοδονόσορ πάσης τῆς γῆς."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "11.24",
+    "form": "αἱρετίζοντας",
+    "postag": "v-pppama-",
+    "sentence": "τοῦ πατρὸς ἡμῶν εἰς θεοὺς μεταστάντος, βουλόμενοι τοὺς ἐκ τῆς βασιλείας ἀταράχους ὄντας γενέσθαι πρὸς τὴν τῶν ἰδίων ἐπιμέλειαν, ἀκηκοότες τοὺς Ἰουδαίους μὴ συνευδοκοῦντας τῇ τοῦ πατρὸς ἐπὶ τὰ Ἑλληνικὰ μεταθέσει, ἀλλὰ τὴν ἑαυτῶν ἀγωγὴν αἱρετίζοντας καὶ διὰ τοῦτο ἀξιοῦντας συγχωρηθῆναι αὐτοῖς τὰ νόμιμα αὐτῶν ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "2 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "14.1",
+    "form": "αἱρετισώμεθα",
+    "postag": "v1pasm---",
+    "sentence": "ὥστε οὖν αἱρετισώμεθα ἀπὸ τῆς ἐκκλησίας τῆς ζωῆς εἶναι, ἵνα σωθῶμεν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1  αἱρετίζω,    [in LXX chiefly for בּחר (v. Cremer, 615);]   = αἱρέομαι (Hipp., Inscr.),   to choose: Mt 12:18 (LXX, ἀντιλήμψομαι).†"
+}

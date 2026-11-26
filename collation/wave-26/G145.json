@@ -1,0 +1,51 @@
+{
+ "strong": "G145",
+ "lemma": "αἰσθητήριον",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "HEB 5:14",
+   "form": "αἰσθητήρια",
+   "morph": "N-APN",
+   "gloss_en": "senses",
+   "gloss_ja": "感覚器官",
+   "verse": "τελείων δέ ἐστιν ἡ στερεὰ τροφή, τῶν διὰ τὴν ἕξιν τὰ αἰσθητήρια γεγυμνασμένα ἐχόντων πρὸς διάκρισιν καλοῦ τε καὶ κακοῦ."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Machabaeorum iv": 1,
+   "Jeremias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "2.22",
+    "form": "αἰσθητηρίων",
+    "postag": "n-p---ng-",
+    "sentence": "ἡνίκα δὲ ἐπὶ πάντων τὸν ἱερὸν ἡγεμόνα νοῦν διὰ τῶν ἔνδον αἰσθητηρίων ἐνεθρόνισε, καί τούτῳ νόμον ἔδωκε, καθ’ ὃν πολιτευόμενος βασιλεύσει βασιλείαν σώφρονά τε καὶ δικαίαν καὶ ἀγαθὴν καὶ ἀνδρείαν."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "4.19",
+    "form": "αἰσθητήρια",
+    "postag": "n-p---na-",
+    "sentence": "τὴν κοιλίαν μου, τὴν κοιλίαν μου ἀλγῶ, καὶ τὰ αἰσθητήρια τῆς καρδίας μου ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1  αἰσθητήριον, -ου, τό     (< αἰσθάνομαι),   [in LXX: Je 4:19 (קִיר), IV Mac 2:22*;]    sense, organ of perception: He 5:14 (MM, VGT, s.v.).†"
+}

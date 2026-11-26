@@ -1,0 +1,154 @@
+{
+ "strong": "G1047",
+ "lemma": "γάζα",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 8:27",
+   "form": "γάζης",
+   "morph": "N-GSF",
+   "gloss_en": "treasury",
+   "gloss_ja": "宝",
+   "verse": "καὶ ἀναστὰς ἐπορεύθη, καὶ ἰδοὺ ἀνὴρ Αἰθίοψ εὐνοῦχος δυνάστης Κανδάκης βασιλίσσης Αἰθιόπων, ὃς ἦν ἐπὶ πάσης τῆς γάζης αὐτῆς, ὃς ἐληλύθει προσκυνήσων εἰς Ἰερουσαλήμ,"
+  }
+ ],
+ "lxx": {
+  "total": 29,
+  "works": {
+   "Genesis": 1,
+   "Deuteronomium": 1,
+   "Josue": 4,
+   "Judices": 4,
+   "Regnorum i": 1,
+   "Regnorum iii": 1,
+   "Regnorum iv": 1,
+   "Esdras ii": 4,
+   "Esther": 1,
+   "Machabaeorum i": 3,
+   "Amos": 2,
+   "Sophonias": 1,
+   "Zacharias": 2,
+   "Isaias": 1,
+   "Jeremias": 2
+  },
+  "representatives": [
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "15.47",
+    "form": "Γάζα",
+    "postag": "n-s---fn-",
+    "sentence": "Γάζα καὶ αἱ κῶμαι αὐτῆς καὶ αἱ ἐπαύλεις αὐτῆς ἕως τοῦ χειμάρρου Αἰγύπτου ·"
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "16.1",
+    "form": "Γάζαν",
+    "postag": "n-s---fa-",
+    "sentence": "καὶ ἐπορεύθη Σαμψὼν εἰς Γάζαν ·"
+   },
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "6.1",
+    "form": "γάζα",
+    "postag": "n-s---fn-",
+    "sentence": "τότε Δαρεῖος ὁ βασιλεὺς ἔθηκε γνώμην καὶ ἐπεσκέψατο ἐν ταῖς βιβλιοθήκαις, ὅπου ἡ γάζα κεῖται ἐν Βαβυλῶνι."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "11.61",
+    "form": "Γάζης",
+    "postag": "n-s---fg-",
+    "sentence": "καὶ ἀπῆλθεν ἐκεῖθεν εἰς Γάζαν, καὶ ἀπέκλεισαν οἱ ἀπὸ Γάζης, καὶ περιεκάθισε περὶ αὐτὴν καὶ ἐνεπύρισε τὰ περιπόλια αὐτῆς πυρὶ καὶ ἐσκύλευσεν αὐτά."
+   },
+   {
+    "work_code": "AMO",
+    "work_ja": "アモス書",
+    "work_src": "Amos",
+    "ref": "1.7",
+    "form": "Γάζης",
+    "postag": "n-s---fg-",
+    "sentence": "καὶ ἐξαποστελῶ πῦρ ἐπὶ τὰ τείχη Γάζης, καὶ καταφάγεται τὰ θεμέλια αὐτῆς ·"
+   },
+   {
+    "work_code": "ZEC",
+    "work_ja": "ゼカリヤ書",
+    "work_src": "Zacharias",
+    "ref": "9.5",
+    "form": "Γάζης",
+    "postag": "n-s---fg-",
+    "sentence": "καὶ ἀπολεῖται βασιλεὺς ἐκ Γάζης, καὶ Ἀσκάλων οὐ μὴ κατοικηθῇ."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "29.5",
+    "form": "Γάζαν",
+    "postag": "n-s---fa-",
+    "sentence": "ἥκει φαλάκρωμα ἐπὶ Γάζαν, ἀπερρίφη Ἀσκάλων καὶ οἱ κατάλοιποι Ἐνακίμ."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "10.19",
+    "form": "Γαζάν",
+    "postag": "n-s---fa-",
+    "sentence": "καὶ μετὰ τοῦτο διεσπάρησαν αἱ φυλαὶ τῶν Χαναναίων, καὶ ἐγένοντο τὰ ὅρια τῶν Χαναναίων ἀπὸ Σιδῶνος ἕως ἐλθεῖν εἰς Γεραρὰ καὶ Γαζάν, ἕως ἐλθεῖν Σοδόμων καὶ Γομόρρας, Ἀδαμὰ καὶ Σεβωΐμ ἕως Λασά."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "2.23",
+    "form": "Γάζης",
+    "postag": "n-s---fg-",
+    "sentence": "καὶ οἱ Εὐαῖοι οἱ κατοικοῦντες ἐν Ἀσηδὼθ ἕως Γάζης, καὶ οἱ Καππάδοκες οἱ ἐξελθόντες ἐκ Καππαδοκίας ἐξέτριψαν αὐτοὺς καὶ κατῳκίσθησαν ἀντ’ αὐτῶν )."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "6.17",
+    "form": "Γάζης",
+    "postag": "n-s---fg-",
+    "sentence": "τῆς Ἀζώτου μίαν, τῆς Γάζης μίαν, τῆς Ἀσκάλωνος μίαν, τῆς Γὲθ μίαν, τῆς Ἀκκαρὼν μίαν."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "2.46ζ",
+    "form": "Γάζης",
+    "postag": "n-s---fg-",
+    "sentence": "ὅτι ἦν ἄρχων ἐν παντὶ πέραν τοῦ ποταμοῦ ἀπὸ Ῥαφὶ ἕως Γάζης, ἐν πᾶσι τοῖς βασιλεῦσι πέραν τοῦ ποταμοῦ ·"
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "18.8",
+    "form": "Γάζης",
+    "postag": "n-s---fg-",
+    "sentence": "αὐτὸς ἐπάταξε τοὺς ἀλλοφύλους ἕως Γάζης καὶ ἕως ὁρίου αὐτῆς ἀπὸ πύργου φυλασσόντων καὶ ἕως πόλεως ὀχυρᾶς."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   † γάζα, -ης, ἡ (a Persian word),     [in LXX for גִּנְזִין, II Es 5:17 6:1 7:20, 21, Es 4:7; גִּזְבָּר, II Es 7:21; Is 39:2 * ;]    treasure: Ac 8:27.†"
+}

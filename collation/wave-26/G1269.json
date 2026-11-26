@@ -1,0 +1,51 @@
+{
+ "strong": "G1269",
+ "lemma": "διανεύω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 1:22",
+   "form": "διανεύων",
+   "morph": "V-PAP-NSM",
+   "gloss_en": "making signs",
+   "gloss_ja": "合図する",
+   "verse": "ἐξελθὼν δὲ οὐκ ἐδύνατο λαλῆσαι αὐτοῖς, καὶ ἐπέγνωσαν ὅτι ὀπτασίαν ἑώρακεν ἐν τῷ ναῷ· καὶ αὐτὸς ἦν διανεύων αὐτοῖς, καὶ διέμενεν κωφός."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Psalmi": 1,
+   "Ecclesiasticus sive Siracides": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "34.19",
+    "form": "διανεύοντες",
+    "postag": "v-pppamn-",
+    "sentence": "μὴ ἐπιχαρείησάν μοι οἱ ἐχθραίνοντές μοι ἀδίκως, οἱ μισοῦντες με δωρεὰν καὶ διανεύοντες ὀφθαλμοῖς."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "27.22",
+    "form": "διανεύων",
+    "postag": "v-sppamn-",
+    "sentence": "— διανεύων ὀφθαλμῷ τεκταίνει κακά, καὶ οὐδεὶς αὐτὸν ἀποστήσει ἀπ’ αὐτοῦ ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   † δια-νεύω     [in LXX: Ps 34(35):19 (קרץ), Si 27:22 * ;]     to wink at, nod to, beckon to: Lk 1:22.†"
+}

@@ -1,0 +1,109 @@
+{
+ "strong": "G120",
+ "lemma": "ἀθυμέω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "COL 3:21",
+   "form": "ἀθυμῶσιν",
+   "morph": "V-PAS-3P",
+   "gloss_en": "discouraged",
+   "gloss_ja": "落胆する",
+   "verse": "οἱ πατέρες, μὴ ἐρεθίζετε τὰ τέκνα ὑμῶν, ἵνα μὴ ἀθυμῶσιν."
+  }
+ ],
+ "lxx": {
+  "total": 8,
+  "works": {
+   "Regnorum i": 3,
+   "Regnorum ii": 1,
+   "Paralipomenon i sive Chronicon i": 1,
+   "Judith": 1,
+   "Machabaeorum i": 1,
+   "Isaias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "1.7",
+    "form": "ἠθύμει",
+    "postag": "v3siia---",
+    "sentence": "καὶ ἠθύμει καὶ ἔκλαιε καὶ οὐκ ἤσθιε."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "6.8",
+    "form": "ἠθύμησε",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἠθύμησε Δαυὶδ ὑπὲρ οὗ διέκοψε Κύριος διακοπὴν ἐν τῷ Ὀζά ·"
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "13.11",
+    "form": "ἠθύμησε",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἠθύμησε Δαυίδ, ὅτι διέκοψε Κύριος διακοπὴν ἐν Ὀζά, καὶ ἐκάλεσε τὸν τόπον ἐκεῖνον Διακοπὴ Ὀζὰ ἕως τῆς ἡμέρας ταύτης."
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "7.22",
+    "form": "ἠθύμησαν",
+    "postag": "v3paia---",
+    "sentence": "καὶ ἠθύμησαν τὰ νήπια αὐτῶν, καὶ αἱ γυναῖκες αὐτῶν καὶ οἱ νεανίσκοι ἐξέλιπον ἀπὸ τῆς δίψης καὶ ἔπιπτον ἐν ταῖς πλατείαις τῆς πόλεως καὶ ἐν ταῖς διόδοις τῶν πυλῶν, καὶ οὐκ ἦν κραταίωσις ἔτι ἐν αὐτοῖς."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "4.27",
+    "form": "ἠθύμει",
+    "postag": "v3siia---",
+    "sentence": "ὁ δὲ ἀκούσας συνεχύθη καὶ ἠθύμει, ὅτι οὐχ οἷα ἤθελε, τοιαῦτα γεγόνει τῷ Ἰσραήλ, καὶ οὐχ οἷα ἐνετείλατο αὐτῷ ὁ βασιλεύς, τοιαῦτα ἐξέβη."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "25.4",
+    "form": "ἀθυμήσασι",
+    "postag": "v-papamd-",
+    "sentence": "ἐγένου γὰρ πάσῃ πόλει ταπεινῇ βοηθὸς καὶ τοῖς ἀθυμήσασι δι’ ἔνδειαν σκέπη, ἀπὸ ἀνθρώπων πονηρῶν ρύσῃ αὐτούς, σκέπη διψώντων καὶ πνεῦμα ἀνθρώπων ἀδικουμένων."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "15.11",
+    "form": "ἠθύμησε",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἠθύμησε Σαμουὴλ καὶ ἐβόησε πρὸς Κύριον ὅλην τὴν νύκτα."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "1.6",
+    "form": "ἠθύμει",
+    "postag": "v3siia---",
+    "sentence": "καὶ Κύριος ἀπέκλεισε τὰ περὶ τὴν μήτραν αὐτῆς, ὅτι οὐκ ἔδωκεν αὐτῇ Κύριος παιδίον κατὰ τὴν θλῖψιν αὐτῆς καὶ κατὰ τὴν ἀθυμίαν τῆς θλίψεως αὐτῆς, καὶ ἠθύμει διὰ τοῦτο, ὅτι συνέκλεισε Κύριος τὰ περὶ τὴν μήτραν αὐτῆς τοῦ μὴ δοῦναι αὐτῇ παιδίον."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1  ἀθυμέω, -ῶ (ἄ-θυμος, without heart),    [in LXX for חרה, etc.;]   to be disheartened: Col 3:21.†"
+}

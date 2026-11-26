@@ -1,0 +1,41 @@
+{
+ "strong": "G1583",
+ "lemma": "ἐκλαλέω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 23:22",
+   "form": "ἐκλαλῆσαι",
+   "morph": "V-AAN",
+   "gloss_en": "tell",
+   "gloss_ja": "話し出す",
+   "verse": "ὁ μὲν οὖν χιλίαρχος ἀπέλυσε τὸν νεανίσκον παραγγείλας μηδενὶ ἐκλαλῆσαι ὅτι ταῦτα ἐνεφάνισας πρὸς ἐμέ."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Judith": 1
+  },
+  "representatives": [
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "11.9",
+    "form": "ἐξελάλησε",
+    "postag": "v3saia---",
+    "sentence": "καὶ νῦν ὁ λόγος, ὃν ἐλάλησεν Ἀχιὼρ ἐν τῇ συνεδρίᾳ σου, ἠκούσαμεν τὰ ρήματα αὐτοῦ, ὅτι περιεποιήσαντο αὐτὸν οἱ ἄνδρες Βαιτυλούα, καὶ ἀνήγγειλεν αὐτοῖς πάντα, ὅσα ἐξελάλησε παρὰ σοί."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ** ἐκ-λαλέω, -ῶ     [in LXX: Jth 11:9 * ;]     to speak out, divulge: Ac 23:22.†"
+}

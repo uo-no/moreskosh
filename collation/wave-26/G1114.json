@@ -1,0 +1,41 @@
+{
+ "strong": "G1114",
+ "lemma": "γόης",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2TI 3:13",
+   "form": "γόητες",
+   "morph": "N-NPM",
+   "gloss_en": "impostors",
+   "gloss_ja": "詐欺師",
+   "verse": "πονηροὶ δὲ ἄνθρωποι καὶ γόητες προκόψουσιν ἐπὶ τὸ χεῖρον, πλανῶντες καὶ πλανώμενοι."
+  }
+ ],
+ "lxx": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "To Diognetus": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "8",
+    "form": "γοήτων",
+    "postag": "n-p---mg-",
+    "sentence": "ἀλλὰ ταῦτα μὲν τερατεία καὶ πλάνη τῶν γοήτων ἐστίν ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   * γόης, -ητος, ὁ (γοάω, to wail),         a wailer.      a wizard.      an impostor (cf. γοητεία, trickery, II Mac 12:24): II Ti 3:13.†"
+}

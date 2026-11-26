@@ -1,0 +1,41 @@
+{
+ "strong": "G1075",
+ "lemma": "γενεαλογέομαι",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": "γενεαλογεω",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "HEB 7:6",
+   "form": "γενεαλογούμενος",
+   "morph": "V-PPP-NSM",
+   "gloss_en": "trace ~ descent",
+   "gloss_ja": "系図を調べる",
+   "verse": "ὁ δὲ μὴ γενεαλογούμενος ἐξ αὐτῶν δεδεκάτωκεν Ἀβραάμ, καὶ τὸν ἔχοντα τὰς ἐπαγγελίας εὐλόγηκεν."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Paralipomenon i sive Chronicon i": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "5.1",
+    "form": "ἐγενεαλογήθη",
+    "postag": "v3saip---",
+    "sentence": "καὶ υἱοὶ Ῥουβὴν πρωτοτόκου Ἰσραήλ, ὅτι οὖτος ὁ πρωτότοκος, καὶ ἐν τῷ ἀναβῆναι ἐπὶ τὴν κοίτην τοῦ πατρὸς αὐτοῦ ἔδωκε τὴν εὐλογίαν αὐτοῦ τῷ υἱῷ αὐτοῦ Ἰωσὴφ υἱῷ Ἰσραήλ, καὶ οὐκ ἐγενεαλογήθη εἰς πρωτοτόκια ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   γενεαλογέω, -ῶ     (< γενεά, λέγω),    [in LXX: I Ch 5:1 (יחשׁ)* ;]    to trace ancestry, reckon genealogy; pass., seq. ἐκ: He 7:6.†"
+}

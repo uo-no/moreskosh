@@ -1,0 +1,63 @@
+{
+ "strong": "G1502",
+ "lemma": "εἴκω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "GAL 2:5",
+   "form": "εἴξαμεν",
+   "morph": "V-AAI-1P",
+   "gloss_en": "yield",
+   "gloss_ja": "譲歩する",
+   "verse": "οἷς οὐδὲ πρὸς ὥραν εἴξαμεν τῇ ὑποταγῇ, ἵνα ἡ ἀλήθεια τοῦ εὐαγγελίου διαμείνῃ πρὸς ὑμᾶς."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Machabaeorum iv": 1,
+   "Sapientia Salomonis": 1
+  },
+  "representatives": [
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "1.6",
+    "form": "εἶξαι",
+    "postag": "v--ana---",
+    "sentence": "οὐ γὰρ τῶν ἑαυτοῦ παθῶν ὁ λογισμὸς κρατεῖ, ἀλλὰ τῶν τῆς δικαιοσύνης καὶ ἀνδρείας καὶ σωφροσύνης καὶ φρονήσεως ἐναντίων, καὶ τούτων οὐχ ὥστε αὐτὰ καταλῦσαι, ἀλλ’ ὥστε αὐτοῖς μὴ εἶξαι."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "18.25",
+    "form": "εἶξεν",
+    "postag": "v3saia---",
+    "sentence": "τούτοις εἶξεν ὁ ὀλοθρεύων, ταῦτα δὲ ἐφοβήθησαν ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "1 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "56.1",
+    "form": "εἶξαι",
+    "postag": "v--ana---",
+    "sentence": "καὶ ἡμεῖς οὖν ἐντύχωμεν περὶ τῶν ἔν τινι παραπτώματι ὑπαρχόντων, ὅπως δοθῇ αὐτοῖς ἐπιείκεια καὶ ταπεινοφροσύνη εἰς τὸ εἶξαι αὐτοὺς μὴ ἡμῖν ἀλλὰ τῷ θελήματι τοῦ θεοῦ ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1     εἴκω,     [in LXX: II Ki 12:7 (ענה), Wi 18:25, IV Mac 1:6 * ;]      to yield: Ga 2:5 (cf. ὑπ-είκω).†"
+}

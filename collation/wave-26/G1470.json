@@ -1,0 +1,81 @@
+{
+ "strong": "G1470",
+ "lemma": "ἐγκρύπτω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MAT 13:33",
+   "form": "ἐνέκρυψεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "hid",
+   "gloss_ja": "隠す",
+   "verse": "Ἄλλην παραβολὴν ἐλάλησεν αὐτοῖς· Ὁμοία ἐστὶν ἡ βασιλεία τῶν οὐρανῶν ζύμῃ, ἣν λαβοῦσα γυνὴ ἐνέκρυψεν εἰς ἀλεύρου σάτα τρία ἕως οὗ ἐζυμώθη ὅλον."
+  }
+ ],
+ "lxx": {
+  "total": 5,
+  "works": {
+   "Josue": 1,
+   "Machabaeorum i": 1,
+   "Proverbia": 1,
+   "Osee": 1,
+   "Ezechiel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "7.21",
+    "form": "ἐγκέκρυπται",
+    "postag": "v3srim---",
+    "sentence": "εἶδον ἐν τῇ προνομῇ ψιλὴν ποικίλην καλὴν καὶ διακόσια δίδραχμα ἀργυρίου καὶ γλῶσσαν μίαν χρυσῆν πεντήκοντα διδράχμων καὶ ἐνθυμηθεὶς αὐτῶν ἔλαβον, καὶ ἰδοὺ αὐτὰ ἐγκέκρυπται ἐν τῇ σκηνῇ μου καὶ τὸ ἀργύριον κέκρυπται ὑποκάτω αὐτῶν."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "16.15",
+    "form": "ἐνέκρυψεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ ὑπεδέξατο αὐτοὺς ὁ τοῦ Ἀβούβου εἰς τὸ ὀχυρωμάτιον τὸ καλούμενον Δὼκ μετὰ δόλου, ὃ ᾠκοδόμησε, καὶ ἐποίησεν αὐτοῖς πότον μέγαν καὶ ἐνέκρυψεν ἐκεῖ ἄνδρας."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "19.24",
+    "form": "ἐγκρύπτων",
+    "postag": "v-sppamn-",
+    "sentence": "ὁ ἐγκρύπτων εἰς τὸν κόλπον αὐτοῦ χεῖρας ἀδίκως, οὐ-δὲ τῷ στόματι οὐ μὴ προσαγάγῃ αὐτάς."
+   },
+   {
+    "work_code": "HOS",
+    "work_ja": "ホセア書",
+    "work_src": "Osee",
+    "ref": "13.12",
+    "form": "ἐγκεκρυμμένη",
+    "postag": "v-srpmfn-",
+    "sentence": "Ἐφραίμ, ἐγκεκρυμμένη ἡ ἁμαρτία αὐτοῦ ·"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "4.12",
+    "form": "ἐγκρύψεις",
+    "postag": "v2sfia---",
+    "sentence": "ἐν βολβίτοις κόπρου ἀνθρωπίνης ἐγκρύψεις αὐτὰ κατ’ ὀφθαλμοὺς αὐτῶν καὶ ἐρεῖς ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2     ἐγ-κρύπτω,     [in LXX for טמן, etc. ;]      to conceal in: c. acc., seq. εἰς, Mt 13:33.†"
+}

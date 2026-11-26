@@ -1,0 +1,41 @@
+{
+ "strong": "G1129",
+ "lemma": "γυμνασία",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1TI 4:8",
+   "form": "γυμνασία",
+   "morph": "N-NSF",
+   "gloss_en": "training",
+   "gloss_ja": "訓練",
+   "verse": "ἡ γὰρ σωματικὴ γυμνασία πρὸς ὀλίγον ἐστὶν ὠφέλιμος, ἡ δὲ εὐσέβεια πρὸς πάντα ὠφέλιμός ἐστιν, ἐπαγγελίαν ἔχουσα ζωῆς τῆς νῦν καὶ τῆς μελλούσης."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Machabaeorum iv": 1
+  },
+  "representatives": [
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "11.20",
+    "form": "γυμνασίαν",
+    "postag": "n-s---fa-",
+    "sentence": "ὁ δὲ βασανιζόμενος, ὦ ἱεροπρεποῦς ἀγῶνος, ἔλεγεν, ἐφ’ ὃν διὰ τὴν εὐσέβειαν εἰς γυμνασίαν πόνων ἀδελφοὶ τοσοῦτοι κληθέντες οὐκ ἐνικήθημεν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ** γυμνασία, -ας, ἡ     (< γυμνάζω),    [in LXX: IV Mac 11:20 * ;]    exercise: I Ti 4:8.†"
+}

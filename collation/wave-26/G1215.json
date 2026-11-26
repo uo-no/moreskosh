@@ -1,0 +1,51 @@
+{
+ "strong": "G1215",
+ "lemma": "δημηγορέω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 12:21",
+   "form": "ἐδημηγόρει",
+   "morph": "V-IAI-3S",
+   "gloss_en": "delivered a public address",
+   "gloss_ja": "演説する",
+   "verse": "τακτῇ δὲ ἡμέρᾳ ὁ Ἡρῴδης ἐνδυσάμενος ἐσθῆτα βασιλικὴν καὶ καθίσας ἐπὶ τοῦ βήματος ἐδημηγόρει πρὸς αὐτούς·"
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Machabaeorum iv": 1,
+   "Proverbia": 1
+  },
+  "representatives": [
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "5.15",
+    "form": "δημηγορεῖν",
+    "postag": "v--pna---",
+    "sentence": "— τοῦτον τὸν τρόπον ἐπὶ τὴν ἔκθεσμον σαρκοφαγίαν ἐποτρύνοντος τοῦ τυράννου, λόγον ᾔτησεν ὁ Ἐλεάζαρος καὶ λαβὼν τοῦ λέγειν ἐξουσίαν ἤρξατο δημηγορεῖν οὕτως ·"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "30b.31",
+    "form": "δημηγορῶν",
+    "postag": "v-sppamn-",
+    "sentence": "σκύμνος λέοντος ἰσχυρότερος κτηνῶν, ὃς οὐκ ἀποστρέφεται οὐ-δὲ καταπτήσσει κτῆνος, καὶ ἀλέκτωρ ἐμπεριπατῶν θηλείαις εὔψυχος καὶ τράγος ἡγούμενος αἰπολίου καὶ βασιλεὺς δημηγορῶν ἐν ἔθνει."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   δημηγορέω, -ῶ    (< δῆμος, ἀγορεύω, to speak in the assembly),    [in LXX: Pr 24:66 (30:31), IV Mac 5:15 * ;]    to deliver an oration: Ac 12:21.†"
+}

@@ -1,0 +1,51 @@
+{
+ "strong": "G1436",
+ "lemma": "ἔα",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 4:34",
+   "form": "Ἔα",
+   "morph": "INJ",
+   "gloss_en": "let ~ alone",
+   "gloss_ja": "ああ",
+   "verse": "Ἔα, τί ἡμῖν καὶ σοί, Ἰησοῦ Ναζαρηνέ; ἦλθες ἀπολέσαι ἡμᾶς; οἶδά σε τίς εἶ, ὁ ἅγιος τοῦ θεοῦ."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Deuteronomium": 1,
+   "Job": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "19.11",
+    "form": "ἐὰ",
+    "postag": "d--------",
+    "sentence": "ἐὰ δὲ γένηται ἐν σοὶ ἄνθρωπος μισῶν τὸν πλησίον καὶ ἐνεδρεύσῃ αὐτὸν καὶ ἐπαναστῇ ἐπ’ αὐτὸν καὶ πατάξῃ αὐτοῦ ψυχήν, καὶ ἀποθάνῃ, καὶ φύγῃ εἰς μίαν τῶν πόλεων τούτων, καὶ ἀποστελοῦσιν ἡ γερουσία τῆς πόλεως αὐτοῦ καὶ λήψονται αὐτὸν ἐκεῖθεν καὶ παραδώσουσιν αὐτὸν εἰς χεῖρας τῶν ἀγχιστευόντων τοῦ αἵματος, καὶ ἀποθανεῖται ·"
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "25.6",
+    "form": "ἔα",
+    "postag": "i--------",
+    "sentence": "ἔα δέ, ἄνθρωπος σαπρία καὶ υἱὸς ἀνθρώπου σκώληξ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ἔα, interj.,    expressing surprise, indignation, fear (in cl. chiefly in poët.), ah! ha!: Lk 4:34.†"
+}
