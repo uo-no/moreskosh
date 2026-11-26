@@ -1,0 +1,61 @@
+{
+  "strong": "G1961",
+  "lemma": "ἐπιμένω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "とどまる／滞在する（場所・期間）",
+      "def_ja": "ある場所・期間にとどまる、滞在する。『そこに七日間とどまった』『エペソにとどまる』。",
+      "label_en": "to stay / remain (place, period)",
+      "def_en": "To stay in a place or for a period: “stayed there seven days”, “remain in Ephesus”.",
+      "label_es": "quedarse / permanecer (lugar, tiempo)",
+      "def_es": "Permanecer en un lugar o por un tiempo: «nos quedamos allí siete días», «quedarse en Éfeso».",
+      "label_sv": "att stanna / dröja kvar (plats, tid)",
+      "def_sv": "Att stanna på en plats eller en tid: ”stannade där i sju dagar”, ”stanna kvar i Efesus”.",
+      "layers": {
+        "nt": 9,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰコリ16:7・8、使徒10:48・21:4・21:10・28:12・28:14、ガラテヤ1:18、ピリピ1:24（肉にとどまる）。LXX 出エジプト記12:39（とどまる＝ぐずぐずする）、教父（ヘルマス）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "続ける／固執する（状態・行為）",
+      "def_ja": "ある状態・行為・立場にとどまり続ける。『この事を続けなさい』『信仰にとどまる』『罪にとどまる』。",
+      "label_en": "to continue / persist (state, action)",
+      "def_en": "To go on remaining in a state, action, or position: “persist in these things”, “continue in the faith”, “remain in sin”.",
+      "label_es": "perseverar / persistir (estado, acción)",
+      "def_es": "Seguir en un estado, conducta o postura: «persevera en estas cosas», «permanecer en la fe», «perseverar en el pecado».",
+      "label_sv": "att hålla fast / fortsätta (tillstånd, handling)",
+      "def_sv": "Att förbli i ett tillstånd, en handling eller hållning: ”håll fast vid detta”, ”förbli i tron”, ”fortsätta i synden”.",
+      "layers": {
+        "nt": 7,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "Ⅰテモ4:16、使徒12:16（叩き続けた）、コロサイ1:23、ヨハネ8:7（問い続けた）、ローマ11:22・11:23・6:1。教父（ヘルマス23.5.7、10.1）に並行。語義1との境界は連続的。LXX の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 16:7": 1,
+    "1CO 16:8": 1,
+    "1TI 4:16": 2,
+    "ACT 12:16": 2,
+    "ACT 10:48": 1,
+    "ACT 21:4": 1,
+    "ACT 21:10": 1,
+    "ACT 28:12": 1,
+    "ACT 28:14": 1,
+    "COL 1:23": 2,
+    "GAL 1:18": 1,
+    "JHN 8:7": 2,
+    "PHP 1:24": 1,
+    "ROM 11:22": 2,
+    "ROM 11:23": 2,
+    "ROM 6:1": 2
+  },
+  "unresolved": [],
+  "layer_notes": "LXX の代表例は1件のみで語義1に並行。"
+}

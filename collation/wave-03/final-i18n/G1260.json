@@ -1,0 +1,61 @@
+{
+  "strong": "G1260",
+  "lemma": "διαλογίζομαι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "思いめぐらす／心の中で考える",
+      "def_ja": "心の中で考える、思いめぐらす、疑問を抱く。『心の中で考えた』『なぜ心の中でそんなことを考えるのか』。",
+      "label_en": "to ponder / think in one's heart",
+      "def_en": "To think in one's heart, to ponder, to harbour questions: “they reasoned in their hearts”, “why do you think such things in your hearts?”",
+      "label_es": "cavilar / pensar para sí",
+      "def_es": "Pensar en el corazón, dar vueltas, abrigar dudas: «pensaban en sus corazones», «¿por qué caviláis así en vuestros corazones?».",
+      "label_sv": "att fundera / tänka i sitt hjärta",
+      "def_sv": "Att tänka för sig själv, grubbla, hysa frågor: ”tänkte i sina hjärtan”, ”varför tänker ni sådant i era hjärtan?”.",
+      "layers": {
+        "nt": 8,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ルカ1:29・3:15・5:21・22・12:17、マルコ2:6・8（2回、心の中で考える）。LXX 詩篇139:9、教父（ヘルマス4.1.4）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "論じ合う／議論する",
+      "def_ja": "互いに論じ合う、言い合う。『パンを持ってこなかったと論じ合った』『だれが一番偉いかと論じ合った』。",
+      "label_en": "to discuss / argue",
+      "def_en": "To discuss and dispute with one another: “they argued that they had brought no bread”, “argued about who was the greatest”.",
+      "label_es": "discutir / debatir",
+      "def_es": "Discutir y disputar entre sí: «discutían porque no habían traído pan», «discutían quién era el mayor».",
+      "label_sv": "att överlägga / diskutera",
+      "def_sv": "Att resonera och tvista sinsemellan: ”de talade med varandra om att de inte hade bröd”, ”diskuterade vem som var störst”.",
+      "layers": {
+        "nt": 8,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "マタイ16:7・8・21:25、マルコ8:16・17・9:33・11:31、ルカ20:14。LXX 箴言17:12 に並行。教父の代表例では確認していない。語義1との境界は連続的（心の中で考えるか、互いに論じ合うか）。"
+    }
+  ],
+  "assignments": {
+    "LUK 12:17": 1,
+    "LUK 1:29": 1,
+    "LUK 20:14": 2,
+    "LUK 3:15": 1,
+    "LUK 5:21": 1,
+    "LUK 5:22": 1,
+    "MAT 16:7": 2,
+    "MAT 16:8": 2,
+    "MAT 21:25": 2,
+    "MRK 11:31": 2,
+    "MRK 2:6": 1,
+    "MRK 2:8#1": 1,
+    "MRK 2:8#2": 1,
+    "MRK 8:16": 2,
+    "MRK 8:17": 2,
+    "MRK 9:33": 2
+  },
+  "unresolved": [],
+  "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

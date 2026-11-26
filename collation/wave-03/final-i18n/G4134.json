@@ -1,0 +1,61 @@
+{
+  "strong": "G4134",
+  "lemma": "πλήρης",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "満ちた（物・入れ物が）",
+      "def_ja": "物が満ちている。『余ったパン切れを七つのかごに満ちて』『穂には豊かな実』。",
+      "label_en": "full (of things, containers)",
+      "def_en": "Things are full: “seven baskets full of leftover pieces”, “full grain in the ear”.",
+      "label_es": "lleno (cosas, recipientes)",
+      "def_es": "Cosas que están llenas: «siete canastas llenas de los trozos que sobraron», «grano lleno en la espiga».",
+      "label_sv": "full (ting, kärl)",
+      "def_sv": "Något är fyllt: ”sju korgar fulla med överblivna bitar”, ”fullt moget korn i axet”.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "マタイ14:20・15:37、マルコ8:19・4:28。LXX 民数記7:14 などに並行。教父（Ⅰクレメンス）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "満ちた（性質・霊・状態に）",
+      "def_ja": "性質・霊・病・感情などに満ちている。『聖霊に満ちて』『恵みと真理に満ちて』『らい病に全身を冒された人』『善行に満ちて』。",
+      "label_en": "full (of a quality, spirit, condition)",
+      "def_en": "Full of a quality, spirit, disease, emotion, and so on: “full of the Holy Spirit”, “full of grace and truth”, “a man full of leprosy”, “full of good works”.",
+      "label_es": "lleno (de cualidad, espíritu, estado)",
+      "def_es": "Lleno de una cualidad, espíritu, enfermedad, sentimiento, etc.: «lleno del Espíritu Santo», «lleno de gracia y de verdad», «hombre lleno de lepra», «abundaba en buenas obras».",
+      "label_sv": "full (av egenskap, ande, tillstånd)",
+      "def_sv": "Uppfylld av en egenskap, ande, sjukdom, känsla m.m.: ”full av den helige Ande”, ”full av nåd och sanning”, ”en man full av spetälska”, ”rik på goda gärningar”.",
+      "layers": {
+        "nt": 12,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ルカ4:1・5:12、使徒6:3・6:5・6:8・7:55・9:36・11:24・13:10・19:28、ヨハネ1:14、Ⅱヨハネ8。LXX イザヤ1:15、教父（17.5.3、2.2）に並行。"
+    }
+  ],
+  "assignments": {
+    "2JN 1:8": 2,
+    "ACT 11:24": 2,
+    "ACT 13:10": 2,
+    "ACT 19:28": 2,
+    "ACT 6:3": 2,
+    "ACT 6:5": 2,
+    "ACT 6:8": 2,
+    "ACT 9:36": 2,
+    "ACT 7:55": 2,
+    "JHN 1:14": 2,
+    "LUK 5:12": 2,
+    "LUK 4:1": 2,
+    "MAT 14:20": 1,
+    "MAT 15:37": 1,
+    "MRK 4:28": 1,
+    "MRK 8:19": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は満ちる対象による。"
+}

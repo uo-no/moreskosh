@@ -1,0 +1,62 @@
+{
+  "strong": "G2909",
+  "lemma": "κρείττων",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "よりすぐれた（質・価値の）",
+      "def_ja": "品質・価値・立場がまさっている。ヘブル書の『よりすぐれた契約・約束・いけにえ・望み・復活・名』。",
+      "label_en": "better / superior (quality, value)",
+      "def_en": "Excelling in quality, value, or standing: the “better covenant, promises, sacrifices, hope, resurrection, name” of Hebrews.",
+      "label_es": "mejor / superior (calidad, valor)",
+      "def_es": "Que aventaja en calidad, valor o posición: el «mejor pacto, promesas, sacrificios, esperanza, resurrección, nombre» de Hebreos.",
+      "label_sv": "förmer / bättre (kvalitet, värde)",
+      "def_sv": "Överlägsen i kvalitet, värde eller ställning: Hebreerbrevets ”bättre förbund, löften, offer, hopp, uppståndelse och namn”.",
+      "layers": {
+        "nt": 12,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヘブル1:4・7:7・19・22・8:6（2回）・9:23・10:34・11:16・35・40・12:24。ヘブル書に集中する。語義2との境界は連続的。LXX の代表例（箴言12:2）は『まさる』の用法で、語義2に近い。"
+    },
+    {
+      "n": 2,
+      "label_ja": "〜のほうがまさる／〜がよい（比較の優位）",
+      "def_ja": "他と比べて、益・得となる、そのほうがまさる、そのほうがよい。『〜するよりも〜するほうがよい』。",
+      "label_en": "it is better (comparative advantage)",
+      "def_en": "Compared with something else, it is of more benefit or gain, it is preferable: “it is better to … than to …”.",
+      "label_es": "es mejor (ventaja comparativa)",
+      "def_es": "En comparación con otra cosa, resulta de más provecho, es preferible: «mejor es … que …».",
+      "label_sv": "det är bättre (jämförande företräde)",
+      "def_sv": "Jämfört med något annat är det till större gagn, att föredra: ”det är bättre att … än att …”.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "Ⅰコリ7:9（結婚するほうがよい）・11:17（かえって悪い結果になる）、ピリ1:23（はるかにまさる）、Ⅰペテロ3:17、Ⅱペテロ2:21。LXX 箴言12:2 に並行。教父の用例は無い。"
+    }
+  ],
+  "assignments": {
+    "1CO 11:17": 2,
+    "1CO 7:9": 2,
+    "1PE 3:17": 2,
+    "2PE 2:21": 2,
+    "HEB 1:4": 1,
+    "HEB 10:34": 1,
+    "HEB 12:24": 1,
+    "HEB 8:6#1": 1,
+    "HEB 8:6#2": 1,
+    "HEB 11:16": 1,
+    "HEB 11:35": 1,
+    "HEB 11:40": 1,
+    "HEB 7:7": 1,
+    "HEB 7:19": 1,
+    "HEB 7:22": 1,
+    "HEB 9:23": 1,
+    "PHP 1:23": 2
+  },
+  "unresolved": [],
+  "layer_notes": "教父の用例は0件（パケット）。LXX は1件。"
+}

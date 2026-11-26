@@ -1,0 +1,61 @@
+{
+  "strong": "G3930",
+  "lemma": "παρέχω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "与える／提供する",
+      "def_ja": "与える、提供する、示す。『惜しみなく与え』『正義と公平を与えよ』『良い行いの模範を示し』『その人に求めさせる』。",
+      "label_en": "to give / provide",
+      "def_en": "To give, provide, or show: “richly provides”, “give what is right and fair”, “show an example of good works”, “let him request it of them”.",
+      "label_es": "dar / proporcionar",
+      "def_es": "Dar, proveer, mostrar: «nos da abundantemente», «haced lo que es justo y equitativo», «mostrándote ejemplo de buenas obras».",
+      "label_sv": "att ge / tillhandahålla",
+      "def_sv": "Att ge, skänka, visa: ”ger rikligen”, ”ge vad som är rätt och skäligt”, ”vara ett föredöme i goda gärningar”.",
+      "layers": {
+        "nt": 9,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰテモ6:17、使徒17:31・19:24・28:2・22:2、コロサイ4:1、ルカ6:29・7:4・18:5、テトス2:7。LXX 箴言・知恵、教父（Ⅰクレメンス20.10 ほか）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "（面倒・苦労を）かける／引き起こす",
+      "def_ja": "『〜に面倒をかける』『〜を引き起こす』。『なぜこの女を困らせるのか』『もう苦労をかけないでほしい』『わずらわしくなる』。",
+      "label_en": "to cause (trouble)",
+      "def_en": "“To cause trouble to …”, “to bring about …”: “Why do you trouble this woman?”, “do not cause me any more trouble”, “become a nuisance”.",
+      "label_es": "causar (molestias)",
+      "def_es": "«Causar molestia a …», «ocasionar …»: «¿Por qué molestáis a esta mujer?», «nadie me cause más molestias», «ser importuno».",
+      "label_sv": "att vålla (besvär)",
+      "def_sv": "”Vålla … besvär”, ”orsaka …”: ”varför plågar ni kvinnan?”, ”vålla mig inte mer besvär”, ”bli till besvär”.",
+      "layers": {
+        "nt": 7,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ガラテヤ6:17・ルカ11:7、マタイ26:10、マルコ14:6、ルカ18:5、使徒16:16、Ⅰテモ1:4。LXX・教父に並行する用例。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "1TI 1:4": 2,
+    "1TI 6:17": 1,
+    "ACT 16:16": 2,
+    "ACT 17:31": 1,
+    "ACT 19:24": 1,
+    "ACT 22:2": 1,
+    "ACT 28:2": 1,
+    "COL 4:1": 1,
+    "GAL 6:17": 2,
+    "LUK 11:7": 2,
+    "LUK 18:5": 2,
+    "LUK 6:29": 1,
+    "LUK 7:4": 1,
+    "MAT 26:10": 2,
+    "MRK 14:6": 2,
+    "TIT 2:7": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は目的語・構文による。"
+}

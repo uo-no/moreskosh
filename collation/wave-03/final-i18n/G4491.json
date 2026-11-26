@@ -1,0 +1,79 @@
+{
+  "strong": "G4491",
+  "lemma": "ῥίζα",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "根（植物の）",
+      "def_ja": "植物の根。『斧は木の根もとに置かれている』『根がないので枯れた』『根まで枯れた』。",
+      "label_en": "root (of a plant)",
+      "def_en": "The root of a plant: “the axe is laid to the root of the trees”, “withered because it had no root”, “withered to the roots”.",
+      "label_es": "raíz (de planta)",
+      "def_es": "La raíz de una planta: «el hacha está puesta a la raíz de los árboles», «se secó porque no tenía raíz», «secada desde las raíces».",
+      "label_sv": "rot (på växt)",
+      "def_sv": "En växts rot: ”yxan ligger redan vid roten”, ”vissnade eftersom den saknade rot”, ”förtorkad ända från roten”.",
+      "layers": {
+        "nt": 8,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "マタイ3:10・13:6・21、マルコ4:6・17・11:20、ルカ3:9・8:13（根がないので）。LXX に並行。教父の代表例では確認していない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "根（源・基としての）",
+      "def_ja": "事柄の源・基、元になるもの。『金銭を愛することはすべての悪の根』『苦い根』『オリーブの根』。",
+      "label_en": "root (source, basis)",
+      "def_en": "The source and basis of something, that from which it springs: “the love of money is a root of all evils”, “a root of bitterness”, “the root of the olive tree”.",
+      "label_es": "raíz (origen, base)",
+      "def_es": "El origen o fundamento de algo: «raíz de todos los males es el amor al dinero», «raíz de amargura», «la raíz del olivo».",
+      "label_sv": "rot (ursprung, grund)",
+      "def_sv": "Källan och grunden till något: ”kärleken till pengar är en rot till allt ont”, ”en bitter rot”, ”olivträdets rot”.",
+      "layers": {
+        "nt": 6,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "Ⅰテモ6:10、ヘブル12:15（苦い根）、ローマ11:16・17・18（2回）。語義1との境界は連続的（比喩）。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "（ダビデの）根／子孫",
+      "def_ja": "ダビデから出る者、ダビデの根、エッサイの根。",
+      "label_en": "root / offspring (of David)",
+      "def_en": "One who comes from David: the root of David, the root of Jesse.",
+      "label_es": "raíz / descendiente (de David)",
+      "def_es": "El que procede de David: la raíz de David, la raíz de Isaí.",
+      "label_sv": "(Davids) rot / ättling",
+      "def_sv": "Den som utgår från David: Davids rotskott, Ishais rot.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "黙示録5:5・22:16（ダビデの根、また子孫）、ローマ15:12（エッサイの根）。LXX イザヤ53:2（かわいた地から出る根）、教父（Ⅰクレメンス16.3）に並行。"
+    }
+  ],
+  "assignments": {
+    "1TI 6:10": 2,
+    "HEB 12:15": 2,
+    "LUK 3:9": 1,
+    "LUK 8:13": 1,
+    "MAT 13:6": 1,
+    "MAT 13:21": 1,
+    "MAT 3:10": 1,
+    "MRK 11:20": 1,
+    "MRK 4:6": 1,
+    "MRK 4:17": 1,
+    "REV 22:16": 3,
+    "REV 5:5": 3,
+    "ROM 11:16": 2,
+    "ROM 11:17": 2,
+    "ROM 11:18#1": 2,
+    "ROM 11:18#2": 2,
+    "ROM 15:12": 3
+  },
+  "unresolved": [],
+  "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

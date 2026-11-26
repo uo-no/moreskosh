@@ -1,0 +1,61 @@
+{
+  "strong": "G1937",
+  "lemma": "ἐπιθυμέω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "切に望む／慕う（欲求・願い）",
+      "def_ja": "強く望む、慕う。善いもの・見たいもの・食べ物・死を切に望む。『見たいと切に願う』『わたしはあなたがたと過越の食事をしたいと切に願っていた』。",
+      "label_en": "to long for / yearn (desire, wish)",
+      "def_en": "To desire strongly, to long for: to long earnestly for good things, to see, for food, for death: “long to see”, “I have earnestly desired to eat this Passover with you”.",
+      "label_es": "anhelar / desear con ardor (deseo)",
+      "def_es": "Desear intensamente, añorar: anhelar cosas buenas, ver, comida, la muerte: «desear ver», «he deseado ardientemente comer con vosotros esta Pascua».",
+      "label_sv": "att längta / ivrigt önska",
+      "def_sv": "Att starkt önska och längta: efter något gott, att få se, efter mat, efter döden: ”längta efter att få se”, ”jag har längtat efter att äta denna påskmåltid med er”.",
+      "layers": {
+        "nt": 9,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "Ⅰペテロ1:12・Ⅰテモ3:1（監督の職を望む）・ヘブル6:11、ルカ15:16・16:21・17:22・22:15、マタイ13:17、黙示録9:6（死を求めても）。LXX 詩篇、箴言に並行。教父の代表例では確認していない。語義2との境界は連続的（対象の評価による）。"
+    },
+    {
+      "n": 2,
+      "label_ja": "むさぼる／欲情を抱く（悪い欲）",
+      "def_ja": "他人のもの・禁じられたものを欲する、むさぼる、肉の欲を抱く。『むさぼってはならない』『情欲をいだいて女を見る者』。",
+      "label_en": "to covet / lust (evil desire)",
+      "def_en": "To want what belongs to another or what is forbidden, to covet, to lust: “you shall not covet”, “one who looks at a woman with lust”.",
+      "label_es": "codiciar / desear con lujuria",
+      "def_es": "Apetecer lo ajeno o lo prohibido, codiciar, tener deseos de la carne: «no codiciarás», «el que mira a una mujer para codiciarla».",
+      "label_sv": "att ha begär / åtrå (ont begär)",
+      "def_sv": "Att vilja ha det som är en annans eller förbjudet, att ha köttsligt begär: ”du ska inte ha begär”, ”den som ser med åtrå på en kvinna”.",
+      "layers": {
+        "nt": 7,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ローマ7:7・13:9、Ⅰコリ10:6（悪を欲した）、使徒20:33（人の金銀を欲しがらなかった）、マタイ5:28、ヤコブ4:2、ガラテヤ5:17（肉は御霊に逆らって欲する）。LXX 出エジプト記・申命記5:21、教父（Ⅰクレメンス18.1.11、ディダケー19.6）に並行。"
+    }
+  ],
+  "assignments": {
+    "1CO 10:6": 2,
+    "1PE 1:12": 1,
+    "1TI 3:1": 1,
+    "ACT 20:33": 2,
+    "GAL 5:17": 2,
+    "HEB 6:11": 1,
+    "JAS 4:2": 2,
+    "LUK 15:16": 1,
+    "LUK 16:21": 1,
+    "LUK 17:22": 1,
+    "LUK 22:15": 1,
+    "MAT 13:17": 1,
+    "MAT 5:28": 2,
+    "REV 9:6": 1,
+    "ROM 13:9": 2,
+    "ROM 7:7": 2
+  },
+  "unresolved": [],
+  "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

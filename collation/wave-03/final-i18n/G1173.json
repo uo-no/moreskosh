@@ -1,0 +1,95 @@
+{
+  "strong": "G1173",
+  "lemma": "δεῖπνον",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "夕食／食事（一日の主な食事）",
+      "def_ja": "夕方にとる主な食事、夕食。『夕食の席』『ラザロも食事の席にいた』『主の晩餐の前の食事』。",
+      "label_en": "supper / meal (main meal of the day)",
+      "def_en": "The main meal taken in the evening: “at supper”, “Lazarus was also at table”, “the meal before the Lord's supper”.",
+      "label_es": "cena / comida (principal del día)",
+      "def_es": "La comida principal que se toma al atardecer: «a la mesa de la cena», «Lázaro estaba también a la mesa», «la comida previa a la cena del Señor».",
+      "label_sv": "kvällsmål / måltid (dagens huvudmål)",
+      "def_sv": "Dagens huvudmåltid på kvällen: ”vid kvällsmåltiden”, ”Lasarus var också med vid bordet”, ”måltiden före Herrens måltid”.",
+      "layers": {
+        "nt": 6,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヨハネ12:2・13:2・4・21:20、ルカ14:12（昼食や夕食を設ける）、Ⅰコリ11:21（各自が先に自分の食事を食べる）。LXX・教父（ヘルマス22.2.9）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "宴会／晩餐会（招かれる盛大な食事）",
+      "def_ja": "招待客を迎えて催す盛大な宴会、晩餐会。『大宴会のたとえ』『宴会の上座』『王のためにヘロデが催した誕生の宴』。",
+      "label_en": "banquet / dinner (a great meal with invitations)",
+      "def_en": "A large banquet or dinner with invited guests: “the parable of the great banquet”, “the places of honour at banquets”, “Herod's birthday banquet”.",
+      "label_es": "banquete / convite",
+      "def_es": "Gran banquete o convite con invitados: «la parábola de la gran cena», «los primeros puestos en las cenas», «el banquete de cumpleaños de Herodes».",
+      "label_sv": "gästabud / festmåltid",
+      "def_sv": "En stor fest med inbjudna gäster: ”liknelsen om det stora gästabudet”, ”hedersplatserna vid festerna”, ”Herodes födelsedagsfest”.",
+      "layers": {
+        "nt": 7,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ14:16・17・24（大宴会のたとえ）・20:46、マタイ23:6・マルコ12:39（宴会の上座）、マルコ6:21（ヘロデの誕生日の宴）。LXX 詩篇・エステルに並行。教父の代表例では確認していない。語義1との境界は連続的。"
+    },
+    {
+      "n": 3,
+      "label_ja": "主の晩餐",
+      "def_ja": "教会の集まりでとる、主の晩餐。",
+      "label_en": "the Lord's Supper",
+      "def_en": "The Lord's Supper taken at the gathering of the church.",
+      "label_es": "la cena del Señor",
+      "def_es": "La cena del Señor que se toma en la reunión de la iglesia.",
+      "label_sv": "Herrens måltid",
+      "def_sv": "Herrens måltid som hålls vid församlingens sammankomst.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "Ⅰコリ11:20（主の晩餐を食べることにならない）の1例のみ（κυριακὸν δεῖπνον）。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 4,
+      "label_ja": "（終末の）宴／小羊の婚宴",
+      "def_ja": "終末における、小羊の婚宴・神の大宴会。『小羊の婚宴に招かれた者』『神の大宴会に集まれ』。",
+      "label_en": "(end-time) feast / marriage supper of the Lamb",
+      "def_en": "The marriage supper of the Lamb and God's great banquet at the end: “those invited to the marriage supper of the Lamb”, “gather for the great supper of God”.",
+      "label_es": "banquete (final) / cena de las bodas del Cordero",
+      "def_es": "La cena de las bodas del Cordero y el gran banquete de Dios al final: «los llamados a la cena de las bodas del Cordero», «congregaos a la gran cena de Dios».",
+      "label_sv": "(den yttersta) festen / Lammets bröllopsmåltid",
+      "def_sv": "Lammets bröllopsmåltid och Guds stora gästabud vid tidens slut: ”de inbjudna till Lammets bröllopsmåltid”, ”samlas till Guds stora gästabud”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "黙示録19:9（小羊の婚宴）・19:17（神の大宴会）。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 11:20": 3,
+    "1CO 11:21": 1,
+    "JHN 13:2": 1,
+    "JHN 13:4": 1,
+    "JHN 12:2": 1,
+    "JHN 21:20": 1,
+    "LUK 14:12": 1,
+    "LUK 14:16": 2,
+    "LUK 14:17": 2,
+    "LUK 14:24": 2,
+    "LUK 20:46": 2,
+    "MAT 23:6": 2,
+    "MRK 12:39": 2,
+    "MRK 6:21": 2,
+    "REV 19:9": 4,
+    "REV 19:17": 4
+  },
+  "unresolved": [],
+  "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

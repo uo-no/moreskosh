@@ -1,0 +1,61 @@
+{
+  "strong": "G1614",
+  "lemma": "ἐκτείνω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "（手を）伸ばす／差し伸べる",
+      "def_ja": "手を伸ばす、差し伸べる。いやし・救助・弁明・捕縛・指し示しのために手を伸ばす。『手を伸ばして彼にさわり』『手を伸ばしなさい』『剣を抜く手を伸ばして』。",
+      "label_en": "to stretch out / extend (the hand)",
+      "def_en": "To stretch out or hold out the hand, for healing, rescue, defence, arrest, or pointing: “stretched out his hand and touched him”, “stretch out your hand”, “reaching out his hand to draw his sword”.",
+      "label_es": "extender / tender (la mano)",
+      "def_es": "Alargar o tender la mano para curar, socorrer, defenderse, prender o señalar: «extendió la mano y lo tocó», «extiende tu mano», «extendiendo la mano, sacó la espada».",
+      "label_sv": "att räcka ut / sträcka ut (handen)",
+      "def_sv": "Att räcka ut handen för att hela, rädda, försvara sig, gripa eller peka: ”räckte ut handen och rörde vid honom”, ”räck ut din hand”, ”räckte ut handen och drog svärdet”.",
+      "layers": {
+        "nt": 15,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "マタイ8:3・12:13（2回）・14:31・26:51、マルコ1:41・3:5（2回）、ルカ5:13・6:10・22:53（わたしに手をかけなかった）、使徒4:30（いやしのためにみ手を伸ばし）・26:1（手を差し伸べて弁明を始めた）、ヨハネ21:18（手を伸ばして）、マタイ12:49（弟子たちに向かって手を差し伸べて）。LXX 出エジプト記15:12、教父（Ⅰクレメンス57.4）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "（錨などを）降ろす／繰り出す",
+      "def_ja": "船から錨を降ろす、錨を繰り出す。",
+      "label_en": "to lay out / let out (anchors)",
+      "def_en": "To lower or run out anchors from a ship.",
+      "label_es": "largar / tender (anclas)",
+      "def_es": "Echar o tender anclas desde la nave.",
+      "label_sv": "att lägga ut (ankare)",
+      "def_sv": "Att fälla eller lägga ut ankare från skeppet.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒27:30（船首から錨を降ろそうとするふりをして）の1例のみ。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 26:1": 1,
+    "ACT 27:30": 2,
+    "ACT 4:30": 1,
+    "JHN 21:18": 1,
+    "LUK 5:13": 1,
+    "LUK 22:53": 1,
+    "LUK 6:10": 1,
+    "MAT 14:31": 1,
+    "MAT 12:13#1": 1,
+    "MAT 12:13#2": 1,
+    "MAT 12:49": 1,
+    "MAT 8:3": 1,
+    "MAT 26:51": 1,
+    "MRK 1:41": 1,
+    "MRK 3:5#1": 1,
+    "MRK 3:5#2": 1
+  },
+  "unresolved": [],
+  "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

@@ -1,0 +1,61 @@
+{
+  "strong": "G1299",
+  "lemma": "διατάσσω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "命じる／指示する",
+      "def_ja": "命令を与える、指示する、規定を示す。『主は命じられた』『わたしがすべての教会に命じておく』『命じられたことをしたからといって』。",
+      "label_en": "to command / direct",
+      "def_en": "To give an order, to direct, to lay down a rule: “the Lord commanded”, “this I ordain in all the churches”, “because he did what was commanded”.",
+      "label_es": "mandar / ordenar",
+      "def_es": "Dar una orden, instruir, establecer una norma: «el Señor ordenó», «esto ordeno en todas las iglesias», «porque hizo lo mandado».",
+      "label_sv": "att befalla / föreskriva",
+      "def_sv": "Att ge order, anvisa, fastställa en föreskrift: ”Herren har befallt”, ”så föreskriver jag i alla församlingar”, ”för att han gjort det han blivit befalld”.",
+      "layers": {
+        "nt": 14,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰコリ7:17・9:14・11:34・16:1、ルカ3:13（定められた額）・8:55・17:9・10、マタイ11:1（弟子たちに指示し終えた）、使徒7:44・18:2・23:31・24:23、テト1:5。LXX Ⅰマカバイ14.22、教父（イグナティオス1.3.1）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "定める／手配する（中動・受動）",
+      "def_ja": "自分で段取りを整える、手配する、定め置く。『天使たちによって定められた』『自分で歩いて行くことにして』。",
+      "label_en": "to appoint / arrange (middle, passive)",
+      "def_en": "To make arrangements oneself, to arrange, to set in place: “ordained through angels”, “having arranged to go on foot”.",
+      "label_es": "disponer / concertar (voz media y pasiva)",
+      "def_es": "Organizar los pasos, disponer, establecer: «ordenada por medio de ángeles», «habiendo dispuesto ir él a pie».",
+      "label_sv": "att ordna / bestämma (medium, passiv)",
+      "def_sv": "Att själv ordna, ställa till rätta, fastställa: ”förordnad genom änglar”, ”hade bestämt sig för att gå till fots”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒20:13（自分は陸路を行くことに決めていた）、ガラテヤ3:19（律法は御使いたちによって定められた）。語義1との境界は連続的（態の違い）。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 16:1": 1,
+    "1CO 11:34": 1,
+    "1CO 9:14": 1,
+    "1CO 7:17": 1,
+    "ACT 18:2": 1,
+    "ACT 20:13": 2,
+    "ACT 24:23": 1,
+    "ACT 23:31": 1,
+    "ACT 7:44": 1,
+    "GAL 3:19": 2,
+    "LUK 17:9": 1,
+    "LUK 17:10": 1,
+    "LUK 3:13": 1,
+    "LUK 8:55": 1,
+    "MAT 11:1": 1,
+    "TIT 1:5": 1
+  },
+  "unresolved": [],
+  "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

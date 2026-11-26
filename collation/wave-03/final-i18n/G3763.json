@@ -1,0 +1,61 @@
+{
+  "strong": "G3763",
+  "lemma": "οὐδέποτε",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "決して〜ない（否定）",
+      "def_ja": "『決して〜ない』『一度も〜ない』。『わたしはあなたがたを全く知らない』『かつてこんなことは見たことがない』『決して〜しません』。",
+      "label_en": "never (negation)",
+      "def_en": "“Never”, “not once”: “I never knew you”, “we have never seen anything like this”, “I will never …”.",
+      "label_es": "nunca / jamás (negación)",
+      "def_es": "«Nunca», «ni una sola vez»: «nunca os conocí», «jamás hemos visto cosa igual», «de ninguna manera …».",
+      "label_sv": "aldrig (nekande)",
+      "def_sv": "”Aldrig”, ”inte en enda gång”: ”jag har aldrig känt er”, ”något sådant har vi aldrig sett”, ”aldrig skall jag …”.",
+      "layers": {
+        "nt": 13,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰコリ13:8、使徒14:8・11:8・10:14、ヘブル10:1・10:11、ヨハネ7:46、ルカ15:29（2回）、マタイ7:23・9:33・26:33、マルコ2:12。LXX 出エジプト記10:6、教父（ヘルマス8.1.4）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "一度も〜ないのか（疑問）",
+      "def_ja": "疑問文における『一度も〜ないのか』。『あなたがたは読んだことがないのか』。",
+      "label_en": "have you never …? (question)",
+      "def_en": "“Never …?” in a question: “Have you never read?”",
+      "label_es": "¿nunca …? (pregunta)",
+      "def_es": "«¿Nunca …?» en interrogación: «¿Nunca leísteis?».",
+      "label_sv": "har ni aldrig …? (fråga)",
+      "def_sv": "”Aldrig …?” i frågesats: ”Har ni aldrig läst?”",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マタイ21:16・21:42、マルコ2:25。語義1との境界は連続的（疑問文の別）。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 13:8": 1,
+    "ACT 14:8": 1,
+    "ACT 11:8": 1,
+    "ACT 10:14": 1,
+    "HEB 10:1": 1,
+    "HEB 10:11": 1,
+    "JHN 7:46": 1,
+    "LUK 15:29#1": 1,
+    "LUK 15:29#2": 1,
+    "MAT 21:16": 2,
+    "MAT 21:42": 2,
+    "MAT 7:23": 1,
+    "MAT 9:33": 1,
+    "MAT 26:33": 1,
+    "MRK 2:12": 1,
+    "MRK 2:25": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は文の種類（平叙／疑問）による。"
+}

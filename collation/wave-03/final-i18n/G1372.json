@@ -1,0 +1,61 @@
+{
+  "strong": "G1372",
+  "lemma": "διψάω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "渇く（字義どおり）",
+      "def_ja": "のどが渇く、水を欲する。『渇いているときに飲ませた』『わたしは渇く』『もし敵が渇いたなら』。",
+      "label_en": "to be thirsty (literal)",
+      "def_en": "To be dry in the throat, to want water: “I was thirsty and you gave me drink”, “I am thirsty”, “if your enemy is thirsty”.",
+      "label_es": "tener sed (sentido literal)",
+      "def_es": "Tener la garganta seca, desear agua: «tuve sed y me disteis de beber», «tengo sed», «si tu enemigo tuviere sed».",
+      "label_sv": "att törsta (bokstavligt)",
+      "def_sv": "Att vara torr i strupen och vilja ha vatten: ”jag var törstig och ni gav mig att dricka”, ”jag törstar”, ”om din fiende är törstig”.",
+      "layers": {
+        "nt": 10,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "マタイ25:35・37・42・44、ヨハネ4:13・15・19:28、ローマ12:20、Ⅰコリ4:11、黙示録7:16。LXX 詩篇、教父（ヘルマス6.6.2）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "渇く（比喩：義・いのちを求める）",
+      "def_ja": "義・いのち・救いを求め、満たされることを切に望む。『義に飢え渇く者』『わたしの与える水を飲む者は決して渇かない』『渇く者は来なさい』。",
+      "label_en": "to thirst (figurative: for righteousness, life)",
+      "def_en": "To seek righteousness, life, salvation and earnestly desire to be satisfied: “those who hunger and thirst for righteousness”, “whoever drinks the water I give will never thirst”, “let the one who thirsts come”.",
+      "label_es": "tener sed (figurado: justicia, vida)",
+      "def_es": "Buscar la justicia, la vida, la salvación y anhelar ser saciado: «los que tienen hambre y sed de justicia», «el que beba del agua que yo le daré no tendrá sed jamás», «el que tiene sed, venga».",
+      "label_sv": "att törsta (bildligt: efter rättfärdighet, liv)",
+      "def_sv": "Att söka rättfärdighet, liv och frälsning och innerligt längta efter att mättas: ”de som hungrar och törstar efter rättfärdigheten”, ”den som dricker av mitt vatten ska aldrig törsta”, ”den som törstar må komma”.",
+      "layers": {
+        "nt": 6,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヨハネ4:14・6:35・7:37、マタイ5:6、黙示録21:6・22:17（渇く者はだれでも来なさい）。LXX 詩篇41:3（わたしの魂は神に渇く）に並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 4:11": 1,
+    "JHN 19:28": 1,
+    "JHN 4:13": 1,
+    "JHN 4:14": 2,
+    "JHN 4:15": 1,
+    "JHN 7:37": 2,
+    "JHN 6:35": 2,
+    "MAT 25:35": 1,
+    "MAT 25:37": 1,
+    "MAT 25:42": 1,
+    "MAT 25:44": 1,
+    "MAT 5:6": 2,
+    "REV 22:17": 2,
+    "REV 21:6": 2,
+    "REV 7:16": 1,
+    "ROM 12:20": 1
+  },
+  "unresolved": [],
+  "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

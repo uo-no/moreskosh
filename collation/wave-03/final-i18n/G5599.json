@@ -1,0 +1,96 @@
+{
+  "strong": "G5599",
+  "lemma": "ὦ",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "（呼びかけの）ὦ",
+      "def_ja": "呼格を導く間投詞。『テオフィロよ』『人よ』『ガラテヤの人々よ』などと、単純に相手に呼びかける。",
+      "label_en": "O (address)",
+      "def_en": "An interjection introducing the vocative, simply addressing someone: “O Theophilus”, “O man”, “O Galatians”.",
+      "label_es": "oh (vocativo)",
+      "def_es": "Interjección que introduce el vocativo, simple apelación: «oh Teófilo», «oh hombre», «oh gálatas».",
+      "label_sv": "o (tilltal)",
+      "def_sv": "En interjektion som inleder vokativen, ett enkelt tilltal: ”o Theofilos”, ”o människa”, ”o galater”.",
+      "layers": {
+        "nt": 8,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒1:1・18:14・27:21、ローマ2:1・3・9:20、Ⅰテモ6:11・20。LXX 知恵の書14:7 などに並行。教父の代表例では確認していない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "（叱責・嘆きの呼びかけ）ὦ",
+      "def_ja": "叱責・嘆き・非難をこめた呼びかけ。『ああ、不信仰な時代よ』『愚かなガラテヤ人よ』『愚かな人よ』『ああ、悪魔の子よ』。",
+      "label_en": "O (rebuke, lament)",
+      "def_en": "An address charged with rebuke, lament, or blame: “O faithless generation”, “O foolish Galatians”, “you foolish person”, “you son of the devil”.",
+      "label_es": "oh (reprensión, lamento)",
+      "def_es": "Apelación cargada de reproche, lamento o censura: «¡oh generación incrédula!», «¡oh gálatas insensatos!», «hombre vano», «¡hijo del diablo!».",
+      "label_sv": "o (tillrättavisning, klagan)",
+      "def_sv": "Ett tilltal med klander, klagan eller anklagelse: ”o du otrogna släkte”, ”o ni dåraktiga galater”, ”du dåraktiga människa”, ”du djävulens barn”.",
+      "layers": {
+        "nt": 7,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マタイ17:17・マルコ9:19・ルカ9:41（ああ不信仰な曲がった時代よ）、ルカ24:25（ああ、愚かな者たちよ）、使徒13:10、ガラテヤ3:1、ヤコブ2:20。語義1との境界は連続的（呼びかけの調子の違い）。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "（称賛の呼びかけ）ὦ",
+      "def_ja": "称賛・感嘆をこめた呼びかけ。『ああ、女よ、あなたの信仰は立派だ』。",
+      "label_en": "O (praise)",
+      "def_en": "An address expressing praise and admiration: “O woman, great is your faith!”",
+      "label_es": "oh (elogio)",
+      "def_es": "Apelación de alabanza y admiración: «¡Oh mujer, grande es tu fe!».",
+      "label_sv": "o (beröm)",
+      "def_sv": "Ett tilltal med beröm och beundran: ”Kvinna, stor är din tro!”",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マタイ15:28（女よ、あなたの信仰は立派だ）の1例のみ。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 4,
+      "label_ja": "（感嘆の）ὦ／ὢ",
+      "def_ja": "驚きと感嘆を示す、『ああ、深いかな』。呼格を伴わない感嘆。",
+      "label_en": "Oh! (exclamation, ὦ / ὢ)",
+      "def_en": "Shows surprise and wonder, “Oh, the depth!”: an exclamation without a vocative.",
+      "label_es": "¡oh! (exclamación, ὦ / ὢ)",
+      "def_es": "Muestra sorpresa y admiración, «¡Oh profundidad!»: exclamación sin vocativo.",
+      "label_sv": "o! (utrop, ὦ / ὢ)",
+      "def_sv": "Visar häpnad och förundran, ”O, vilket djup!”: ett utrop utan vokativ.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "ローマ11:33（ああ、神の富と知恵と知識との深さよ）の1例のみ。教父（Ⅱクレメンス『ὢ τῆς γλυκείας ἀνταλλαγῆς』）に並行。LXX の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1TI 6:11": 1,
+    "1TI 6:20": 1,
+    "ACT 1:1": 1,
+    "ACT 18:14": 1,
+    "ACT 13:10": 2,
+    "ACT 27:21": 1,
+    "GAL 3:1": 2,
+    "JAS 2:20": 2,
+    "LUK 24:25": 2,
+    "LUK 9:41": 2,
+    "MAT 17:17": 2,
+    "MAT 15:28": 3,
+    "MRK 9:19": 2,
+    "ROM 11:33": 4,
+    "ROM 2:1": 1,
+    "ROM 2:3": 1,
+    "ROM 9:20": 1
+  },
+  "unresolved": [],
+  "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

@@ -1,0 +1,61 @@
+{
+  "strong": "G2808",
+  "lemma": "κλείω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "閉じる／閉ざす（戸・門・牢・深淵）",
+      "def_ja": "戸・門・牢・深淵などを閉じる、閉ざされている。『戸を閉じて』『戸が閉じられた』『戸がもう閉じてある』『深淵を閉じた』。",
+      "label_en": "to shut / close (door, gate, prison, abyss)",
+      "def_en": "To shut a door, gate, prison, abyss, and so on, or for it to be shut: “shut the door”, “the doors were locked”, “the door is already shut”, “shut the abyss”.",
+      "label_es": "cerrar (puerta, portón, cárcel, abismo)",
+      "def_es": "Cerrar puertas, portones, la cárcel, el abismo, etc., o estar cerrados: «cerrada la puerta», «las puertas estaban cerradas», «la puerta ya está cerrada», «cerró el abismo».",
+      "label_sv": "att stänga / låsa (dörr, port, fängelse, avgrund)",
+      "def_sv": "Att stänga dörrar, portar, fängelser, avgrunden m.m., eller vara stängd: ”stäng dörren”, ”dörrarna var stängda”, ”dörren är redan låst”, ”stängde avgrunden”.",
+      "layers": {
+        "nt": 9,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "マタイ25:10・6:6、ルカ11:7、ヨハネ20:19・20:26、使徒5:23・21:30、黙示録21:25・20:3。LXX イザヤ24:10、教父（Ⅰクレメンス43.3 ほか）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "閉ざす（天・国・あわれみ・権能）",
+      "def_ja": "天・天国・あわれみの心などを閉ざす、閉ざす権能。『天を閉じた』『天の国を閉ざす』『あわれみの心を閉ざす』『だれも閉じる者がない』。",
+      "label_en": "to shut (heaven, the kingdom, compassion, authority)",
+      "def_en": "To shut heaven, the kingdom of heaven, one's heart of compassion, and so on; the authority to shut: “shut the sky”, “you shut the kingdom of heaven”, “closes his heart”, “no one can shut”.",
+      "label_es": "cerrar (cielo, reino, compasión, potestad)",
+      "def_es": "Cerrar el cielo, el reino de los cielos, las entrañas de compasión, etc.; la potestad de cerrar: «se cerró el cielo», «cerráis el reino de los cielos», «cierra su corazón», «nadie puede cerrar».",
+      "label_sv": "att tillsluta (himlen, riket, barmhärtigheten, makten)",
+      "def_sv": "Att stänga himlen, himmelriket, sitt barmhärtiga hjärta m.m.; makten att stänga: ”stängde himlen”, ”stänger himmelriket”, ”stänger sitt hjärta”, ”ingen kan stänga”.",
+      "layers": {
+        "nt": 7,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ルカ4:25、黙示録11:6・3:7（2回）・3:8、マタイ23:13、Ⅰヨハネ3:17。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1JN 3:17": 2,
+    "ACT 21:30": 1,
+    "ACT 5:23": 1,
+    "JHN 20:19": 1,
+    "JHN 20:26": 1,
+    "LUK 11:7": 1,
+    "LUK 4:25": 2,
+    "MAT 23:13": 2,
+    "MAT 25:10": 1,
+    "MAT 6:6": 1,
+    "REV 11:6": 2,
+    "REV 20:3": 1,
+    "REV 21:25": 1,
+    "REV 3:7#1": 2,
+    "REV 3:7#2": 2,
+    "REV 3:8": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義の区分は対象物による。"
+}

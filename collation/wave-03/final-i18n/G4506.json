@@ -1,0 +1,79 @@
+{
+  "strong": "G4506",
+  "lemma": "ῥύομαι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "救い出す／助け出す（危険・苦難から）",
+      "def_ja": "危険・死・敵・苦難から引き出して助ける、救出する。神が人を救い出す。『死の危険から救い出された』『獅子の口から救い出された』。",
+      "label_en": "to rescue / deliver (from danger, suffering)",
+      "def_en": "To draw out and save from danger, death, enemies, or suffering; God rescues people: “delivered from deadly peril”, “rescued from the lion's mouth”.",
+      "label_es": "librar / rescatar (peligro, sufrimiento)",
+      "def_es": "Sacar y salvar de peligros, muerte, enemigos o padecimientos; Dios rescata a las personas: «librados de tan gran peligro de muerte», «librado de la boca del león».",
+      "label_sv": "att rädda / befria (ur fara, lidande)",
+      "def_sv": "Att dra ut och rädda ur fara, död, fiender eller lidande; Gud räddar människor: ”räddad ur dödsfaran”, ”räddad ur lejonets gap”.",
+      "layers": {
+        "nt": 12,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "Ⅱコリ1:10（3回）、Ⅱペテロ2:7・9、Ⅱテサ3:2、Ⅱテモ3:11・4:17、ローマ7:24（この死のからだから）・15:31、マタイ27:43（神が助けるなら）、ルカ1:74（敵の手から）。LXX イザヤ48:17 などに並行。教父の用例は無い。"
+    },
+    {
+      "n": 2,
+      "label_ja": "（悪・悪しき者から）救い出す",
+      "def_ja": "『悪しき者から』守り救い出す。主の祈りの祈願、最後まで救い出す約束。",
+      "label_en": "to deliver (from evil, the evil one)",
+      "def_en": "To guard and deliver “from the evil one”: the petition of the Lord's Prayer, the promise of deliverance to the end.",
+      "label_es": "librar (del mal, del maligno)",
+      "def_es": "Guardar y librar «del mal»: la petición del Padrenuestro, la promesa de librar hasta el fin.",
+      "label_sv": "att frälsa (från det onda, den onde)",
+      "def_sv": "Att bevara och rädda ”från det onda”: bönen i Herrens bön, löftet om räddning ända till slutet.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マタイ6:13（悪からお救いください）、Ⅱテモ4:18（すべての悪のわざから）。語義1との境界は連続的（『悪』が中性か人格かは文脈による）。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "（力・怒り・闇から）解放する／救出者",
+      "def_ja": "暗闇の力、来るべき怒りから解放する、救出する者。",
+      "label_en": "to liberate (from power, wrath, darkness) / deliverer",
+      "def_en": "To free and rescue from the power of darkness and the coming wrath; the one who delivers.",
+      "label_es": "liberar (del poder, la ira, las tinieblas) / libertador",
+      "def_es": "Liberar y rescatar de la potestad de las tinieblas y de la ira venidera; el libertador.",
+      "label_sv": "att befria (från makt, vrede, mörker) / befriare",
+      "def_sv": "Att befria och rädda från mörkrets makt och den kommande vreden; den som befriar.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "コロサイ1:13（暗闇の力から救い出し）、Ⅰテサ1:10（来るべき怒りから救い出す）、ローマ11:26（シオンから救出者が出る）。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1TH 1:10": 3,
+    "2CO 1:10#1": 1,
+    "2CO 1:10#2": 1,
+    "2CO 1:10#3": 1,
+    "2PE 2:7": 1,
+    "2PE 2:9": 1,
+    "2TH 3:2": 1,
+    "2TI 3:11": 1,
+    "2TI 4:17": 1,
+    "2TI 4:18": 2,
+    "COL 1:13": 3,
+    "LUK 1:74": 1,
+    "MAT 6:13": 2,
+    "MAT 27:43": 1,
+    "ROM 11:26": 3,
+    "ROM 15:31": 1,
+    "ROM 7:24": 1
+  },
+  "unresolved": [],
+  "layer_notes": "教父の用例は0件（パケット）。新約に無い用法は代表例の範囲では見当たらない。"
+}

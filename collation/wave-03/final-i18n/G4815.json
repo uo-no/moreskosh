@@ -1,0 +1,95 @@
+{
+  "strong": "G4815",
+  "lemma": "συλλαμβάνω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "捕らえる／逮捕する",
+      "def_ja": "人を捕らえる、逮捕する。『イエスを捕らえた』『強盗にでも向かうように捕らえに来たのか』『彼を捕らえようとした』。",
+      "label_en": "to seize / arrest",
+      "def_en": "To catch or arrest a person: “arrested Jesus”, “have you come out as against a robber to capture me?”, “tried to seize him”.",
+      "label_es": "prender / arrestar",
+      "def_es": "Apresar o arrestar a una persona: «prendieron a Jesús», «¿como contra un ladrón habéis salido para prenderme?», «intentaron prenderlo».",
+      "label_sv": "att gripa / fängsla",
+      "def_sv": "Att ta fast och arrestera en människa: ”grep Jesus”, ”har ni ryckt ut som mot en rövare för att gripa mig?”, ”försökte gripa honom”.",
+      "layers": {
+        "nt": 8,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒1:16・12:3・23:27・26:21、ヨハネ18:12、ルカ22:54、マタイ26:55、マルコ14:48。LXX 歴代誌下・ネヘミヤ記、教父（Ⅰクレメンス6.1）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "身ごもる／宿す",
+      "def_ja": "身ごもる、宿す。『エリサベツは身ごもった』『あなたは身ごもって男の子を産む』『欲望がはらんで罪を生む』。",
+      "label_en": "to conceive",
+      "def_en": "To become pregnant, to conceive: “Elizabeth conceived”, “you will conceive and bear a son”, “desire, when it has conceived, gives birth to sin”.",
+      "label_es": "concebir",
+      "def_es": "Quedar encinta, concebir: «Elisabet concibió», «concebirás y darás a luz un hijo», «la concupiscencia, después que ha concebido, da a luz el pecado».",
+      "label_sv": "att bli havande / avla",
+      "def_sv": "Att bli med barn: ”Elisabet blev havande”, ”du ska bli havande och föda en son”, ”när begäret har blivit havande föder det synd”.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヤコブ1:15、ルカ1:24・1:31・1:36・2:21。LXX 創世記29:35、教父（13.2）に並行。"
+    },
+    {
+      "n": 3,
+      "label_ja": "捕獲する（魚を）",
+      "def_ja": "魚を捕る、捕獲する。『大量の魚が捕れた』。",
+      "label_en": "to catch (fish)",
+      "def_en": "To catch fish: “the catch of fish they had taken”.",
+      "label_es": "capturar (peces)",
+      "def_es": "Pescar, capturar peces: «la pesca que habían hecho».",
+      "label_sv": "att fånga (fisk)",
+      "def_sv": "Att fånga fisk: ”den stora fångst de hade gjort”.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ルカ5:9 の1例のみ。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 4,
+      "label_ja": "助ける（加勢する）",
+      "def_ja": "加勢する、手を貸す。『彼らを手伝うように合図した』『彼女たちを助けてやってほしい』。",
+      "label_en": "to help (come to aid)",
+      "def_en": "To lend aid, to give a hand: “signalled them to come and help”, “help these women”.",
+      "label_es": "ayudar (echar una mano)",
+      "def_es": "Prestar auxilio, colaborar: «hicieron señas para que viniesen a ayudarlos», «ayuda a estas mujeres».",
+      "label_sv": "att hjälpa (bistå)",
+      "def_sv": "Att bistå och ge en hand: ”gav tecken åt dem att komma och hjälpa”, ”hjälp dessa kvinnor”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ルカ5:7、ピリピ4:3。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 1:16": 1,
+    "ACT 12:3": 1,
+    "ACT 23:27": 1,
+    "ACT 26:21": 1,
+    "JAS 1:15": 2,
+    "JHN 18:12": 1,
+    "LUK 1:24": 2,
+    "LUK 1:31": 2,
+    "LUK 1:36": 2,
+    "LUK 2:21": 2,
+    "LUK 5:7": 4,
+    "LUK 5:9": 3,
+    "LUK 22:54": 1,
+    "MAT 26:55": 1,
+    "MRK 14:48": 1,
+    "PHP 4:3": 4
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は目的語・文脈による。"
+}
