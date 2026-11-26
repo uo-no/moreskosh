@@ -1,0 +1,122 @@
+{
+ "strong": "G5471",
+ "lemma": "χαλκεύς",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2TI 4:14",
+   "form": "χαλκεὺς",
+   "morph": "N-NSM",
+   "gloss_en": "coppersmith",
+   "gloss_ja": "銅細工人",
+   "verse": "Ἀλέξανδρος ὁ χαλκεὺς πολλά μοι κακὰ ἐνεδείξατο ἀποδώσει αὐτῷ ὁ κύριος κατὰ τὰ ἔργα αὐτοῦ"
+  }
+ ],
+ "lxx": {
+  "total": 7,
+  "works": {
+   "Genesis": 1,
+   "Paralipomenon ii sive Chronicon ii": 1,
+   "Esdras ii": 1,
+   "Job": 1,
+   "Ecclesiasticus sive Siracides": 1,
+   "Isaias": 2
+  },
+  "representatives": [
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "41.7",
+    "form": "χαλκεὺς",
+    "postag": "n-s---mn-",
+    "sentence": "ἴσχυσεν ἀνὴρ τέκτων καὶ χαλκεὺς τύπτων σφύρῃ ἅμα ἐλαύνων ·"
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "4.22",
+    "form": "χαλκεὺς",
+    "postag": "n-s---mn-",
+    "sentence": "Σελλὰ δὲ ἔτεκε καὶ αὐτὴ τὸν Θόβελ, καὶ ἦν σφυροκόπος χαλκεὺς χαλκοῦ καὶ σιδήρου ·"
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "24.12",
+    "form": "χαλκεῖς",
+    "postag": "n-p---ma-",
+    "sentence": "καὶ ἔδωκεν αὐτὸ ὁ βασιλεὺς καὶ Ἰωδαὲ ὁ ἱερεὺς τοῖς ποιοῦσι τὰ ἔργα εἰς ἐργασίαν οἴκου Κυρίου, καὶ ἐμισθοῦντο λατόμους καὶ τέκτονας ἐπισκευάσαι τὸν οἶκον Κυρίου καὶ χαλκεῖς σιδήρου καὶ χαλκοῦ ἐπισκευάσαι τὸν οἶκον Κυρίου."
+   },
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "13.32",
+    "form": "χαλκεῖς",
+    "postag": "n-p---mn-",
+    "sentence": "καὶ ἀνὰ μέσον τῆς πύλης τῆς προβατικῆς ἐκράτησαν οἱ χαλκεῖς καὶ οἱ ῥοπωπῶλαι."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "32.19",
+    "form": "χαλκέως",
+    "postag": "n-s---mg-",
+    "sentence": "ἡ δὲ γαστήρ μου ὥσπερ ἀσκὸς γλεύκους ζέων δεδεμένος ἢ ὥσπερ φυσητὴρ χαλκέως ἐρρηγώς."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "38.28",
+    "form": "χαλκεὺς",
+    "postag": "n-s---mn-",
+    "sentence": "οὕτως χαλκεὺς καθήμενος ἐγγὺς ἄκμονος καὶ καταμανθάνων ἔργα σιδήρου ·"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "54.16",
+    "form": "χαλκεὺς",
+    "postag": "n-s---mn-",
+    "sentence": "ἰδοὺ ἐγὼ ἔκτισά σε οὐχ ὡς χαλκεὺς φυσῶν ἄνθρακας καὶ ἐκφέρων σκεῦος εἰς ἔργον ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "To Diognetus": 1,
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "2",
+    "form": "χαλκεύς",
+    "postag": "n-s---mn-",
+    "sentence": "οὐχ ὁ μὲν αὐτῶν λιθοξόος, ὁ δὲ χαλκεύς, ὁ δὲ ἀργυροκόπος, ὁ δὲ κεραμεὺς ἔπλασεν;"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "1.3.2",
+    "form": "χαλκεὺς",
+    "postag": "n-s---mn-",
+    "sentence": "ὡς γὰρ ὁ χαλκεὺς σφυροκοπῶν τὸ ἔργον αὐτοῦ περιγίνεται τοῦ πράγματος οὗ θέλει, οὕτω καὶ ὁ λόγος ὁ καθημερινὸς ὁ δίκαιος περιγίνεται πάσης πονηρίας."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1 χαλκεύς, -έως, ὁ    (< χαλκός),    [in LXX for חָרָשׁ, etc. ;]    a worker in metal, esp. a copper-smith: II Ti 4:14.†"
+}

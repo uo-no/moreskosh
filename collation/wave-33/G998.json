@@ -1,0 +1,196 @@
+{
+ "strong": "G998",
+ "lemma": "βοηθός",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "HEB 13:6",
+   "form": "βοηθός",
+   "morph": "N-NSM",
+   "gloss_en": "helper",
+   "gloss_ja": "助ける者",
+   "verse": "ὥστε θαρροῦντας ἡμᾶς λέγειν· Κύριος ἐμοὶ βοηθός, οὐ φοβηθήσομαι· τί ποιήσει μοι ἄνθρωπος;"
+  }
+ ],
+ "lxx": {
+  "total": 58,
+  "works": {
+   "Genesis": 2,
+   "Exodus": 2,
+   "Deuteronomium": 3,
+   "Regnorum i": 1,
+   "Regnorum ii": 1,
+   "Paralipomenon i sive Chronicon i": 1,
+   "Esther": 1,
+   "Judith": 3,
+   "Tobias": 4,
+   "Machabaeorum ii": 1,
+   "Psalmi": 27,
+   "Odae": 1,
+   "Job": 2,
+   "Ecclesiasticus sive Siracides": 3,
+   "Nahum": 1,
+   "Isaias": 4,
+   "Ezechiel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "69.6",
+    "form": "βοηθός",
+    "postag": "n-s---mn-",
+    "sentence": "βοηθός μου καὶ ρύστης μου εἶ σύ ·"
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "8.6",
+    "form": "βοηθὸν",
+    "postag": "a-s---ma-",
+    "sentence": "οὐ καλὸν εἶναι τὸν ἄνθρωπον μόνον, ποιήσωμεν αὐτῷ βοηθὸν ὅμοιον αὐτῷ."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "25.4",
+    "form": "βοηθὸς",
+    "postag": "a-s---mn-",
+    "sentence": "ἐγένου γὰρ πάσῃ πόλει ταπεινῇ βοηθὸς καὶ τοῖς ἀθυμήσασι δι’ ἔνδειαν σκέπη, ἀπὸ ἀνθρώπων πονηρῶν ρύσῃ αὐτούς, σκέπη διψώντων καὶ πνεῦμα ἀνθρώπων ἀδικουμένων."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "33.29",
+    "form": "βοηθός",
+    "postag": "n-s---mn-",
+    "sentence": "ὑπερασπιεῖ ὁ βοηθός σου, καὶ ἡ μάχαιρα καύχημά σου ·"
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "9.4",
+    "form": "βοηθόν",
+    "postag": "a-s---ma-",
+    "sentence": "καὶ ἔδωκας γυναῖκας αὐτῶν εἰς προνομὴν καὶ θυγατέρας εἰς αἰχμαλωσίαν καὶ πάντα τὰ σκῦλα εἰς διαίρεσιν υἱῶν ἠγαπημένων ὑπὸ σοῦ, οἳ καὶ ἐζήλωσαν τὸν ζῆλόν σου καὶ ἐβδελύξαντο μίασμα αἵματος αὐτῶν καὶ ἐπεκαλέσαντό σε εἰς βοηθόν."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "36.24",
+    "form": "βοηθὸν",
+    "postag": "a-s---ma-",
+    "sentence": "ὁ κτώμενος γυναῖκα ἐνάρχεται κτήσεως, βοηθὸν κατ’ αὐτὸν καὶ στύλον ἀναπαύσεως."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "2.18",
+    "form": "βοηθὸν",
+    "postag": "n-s---ma-",
+    "sentence": "ποιήσωμεν αὐτῷ βοηθὸν κατ’ αὐτόν."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "15.2",
+    "form": "βοηθὸς",
+    "postag": "a-s---mn-",
+    "sentence": "βοηθὸς καὶ σκεπαστὴς ἐγένετό μοι εἰς σωτηρίαν ·"
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "29.12",
+    "form": "βοηθός",
+    "postag": "n-s---mn-",
+    "sentence": "διέσωσα γὰρ πτωχὸν ἐκ χειρὸς δυνάστου καὶ ὀρφανῷ, ᾧ οὐκ ἦν βοηθός, ἐβοήθησα."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "7.12",
+    "form": "βοηθοῦ",
+    "postag": "a-s---mg-",
+    "sentence": "καὶ ἔλαβε Σαμουὴλ λίθον ἕνα καὶ ἔστησεν αὐτὸν ἀνὰ μέσον Μασσηφὰθ καὶ ἀνὰ μέσον τῆς παλαιᾶς καὶ ἐκάλεσε τὸ ὄνομα αὐτοῦ Ἀβενέζερ, Λίθος τοῦ βοηθοῦ, καὶ εἶπεν ·"
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "22.42",
+    "form": "βοηθός",
+    "postag": "n-s---mn-",
+    "sentence": "βοήσονται, καὶ οὐκ ἔστι βοηθός, πρὸς Κύριον, καὶ οὐκ ἐπήκουσεν αὐτῶν."
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "12.19",
+    "form": "βοηθοῖς",
+    "postag": "a-p---md-",
+    "sentence": "εἰρήνη εἰρήνη σοι, καὶ εἰρήνη τοῖς βοηθοῖς σου, ὅτι ἐβοήθησέ σοι ὁ Θεὸς σου."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 4,
+  "works": {
+   "Barnabas": 1,
+   "1 Clement": 3
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "59.4",
+    "form": "βοηθὸν",
+    "postag": "n-s---ma-",
+    "sentence": "ἀξιοῦμέν σε, δέσποτα, βοηθὸν γενέσθαι καὶ ἀντιλήπτορα ἡμῶν."
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "2.2",
+    "form": "βοηθοὶ",
+    "postag": "a-p---mn-",
+    "sentence": "ἡμερῶν οὖν οὐσῶν πονηρῶν καὶ αὐτοῦ τοῦ ἐνεργοῦντος ἔχοντος τὴν ἐξουσίαν, ὀφείλομεν ἑαυτοῖς προσέχοντες ἐκζητεῖν τὰ δικαιώματα κυρίου, τῆς οὖν πίστεως ἡμῶν εἰσιν βοηθοὶ φόβος καὶ ὑπομονή, τὰ δὲ συμμαχοῦντα ἡμῖν μακροθυμία καὶ ἐγκράτεια ·"
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "59.3",
+    "form": "βοηθόν",
+    "postag": "a-s---ma-",
+    "sentence": "τὸν ἐπιβλέποντα ἐν τοῖς ἀβύσσοις, τὸν ἐπόπτην ἀνθρωπίνων ἔργων, τὸν τῶν κινδυνευόντων βοηθόν, τὸν τῶν ἀπηλπισμένων σωτῆρα, τὸν παντὸς πνεύματος κτίστην καὶ ἐπίσκοπον ·"
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "36.1",
+    "form": "βοηθὸν",
+    "postag": "n-s---ma-",
+    "sentence": "αὕτη ἡ ὁδός, ἀγαπητοί, ἐν ᾖ εὕρομεν τὸ σωτήριον ἡμῶν, Ἰησοῦν Χριστόν, τὸν ἀρχιερέα τῶν προσφορῶν ἡμῶν, τὸν προστάτην καὶ βοηθὸν τῆς ἀσθενείας ἡμῶν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   βοηθός, -ον (v.s. βοηθέω),     [in LXX chiefly for עזר ;]         (poët. -όος), hasting to the war-cry (Hom.).      helping, auxiliary; as subst. (Hdt.), a helper: He 13:6 (LXX).†"
+}

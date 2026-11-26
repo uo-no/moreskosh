@@ -1,0 +1,53 @@
+{
+ "strong": "G5439",
+ "lemma": "φυλακίζω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 22:19",
+   "form": "φυλακίζων",
+   "morph": "V-PAP-NSM",
+   "gloss_en": "imprisoned",
+   "gloss_ja": "投獄する",
+   "verse": "κἀγὼ εἶπον· Κύριε, αὐτοὶ ἐπίστανται ὅτι ἐγὼ ἤμην φυλακίζων καὶ δέρων κατὰ τὰς συναγωγὰς τοὺς πιστεύοντας ἐπὶ σέ·"
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Sapientia Salomonis": 1
+  },
+  "representatives": [
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "18.4",
+    "form": "φυλακισθῆναι",
+    "postag": "v--anp---",
+    "sentence": "ἄξιοι μὲν γὰρ ἐκεῖνοι στερηθῆναι φωτὸς καὶ φυλακισθῆναι ἐν σκότει, οἱ κατακλείστους φυλάξαντες τοὺς υἱούς σου, δι’ ὧν ἤμελλε τὸ ἄφθαρτον νόμου φῶς τῷ αἰῶνι δίδοσθαι."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "1 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "45.4",
+    "form": "ἐφυλακίσθησαν",
+    "postag": "v3paip---",
+    "sentence": "ἐφυλακίσθησαν, ἀλλ’ ὑπὸ ἀνοσίων ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1 **† φυλακίζω     [in LXX: Wi 18:4 * ;]    to imprison: Ac 22:19.†"
+}

@@ -1,0 +1,81 @@
+{
+ "strong": "G723",
+ "lemma": "ἄροτρον",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 9:62",
+   "form": "ἄροτρον",
+   "morph": "N-ASN",
+   "gloss_en": "plow",
+   "gloss_ja": "鋤",
+   "verse": "εἶπεν δὲ ὁ Ἰησοῦς· Οὐδεὶς ἐπιβαλὼν τὴν χεῖρα ἐπ’ ἄροτρον καὶ βλέπων εἰς τὰ ὀπίσω εὔθετός ἐστιν τῇ βασιλείᾳ τοῦ θεοῦ."
+  }
+ ],
+ "lxx": {
+  "total": 5,
+  "works": {
+   "Paralipomenon i sive Chronicon i": 1,
+   "Ecclesiasticus sive Siracides": 1,
+   "Michaeas": 1,
+   "Joel": 1,
+   "Isaias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "21.23",
+    "form": "ἄροτρον",
+    "postag": "n-s---na-",
+    "sentence": "ἰδὲ δέδωκα τοὺς μόσχους εἰς ὁλοκαύτωσιν καὶ τὸ ἄροτρον εἰς ξύλα καὶ τὸν σῖτον εἰς θυσίαν, τὰ πάντα δέδωκα."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "38.25",
+    "form": "ἀρότρου",
+    "postag": "n-s---ng-",
+    "sentence": "τί σοφισθήσεται ὁ κρατῶν ἀρότρου καὶ καυχώμενος ἐν δόρατι κέντρου, βόας ἐλαύνων καὶ ἀναστρεφόμενος ἐν ἔργοις αὐτῶν, καὶ ἡ διήγησις αὐτοῦ ἐν υἱοῖς ταύρων;"
+   },
+   {
+    "work_code": "MIC",
+    "work_ja": "ミカ書",
+    "work_src": "Michaeas",
+    "ref": "4.3",
+    "form": "ἄροτρα",
+    "postag": "n-p---na-",
+    "sentence": "καὶ κρινεῖ ἀνὰ μέσον λαῶν πολλῶν καὶ ἐξελέγξει ἔθνη ἰσχυρὰ ἕως εἰς μακράν, καὶ κατακόψουσι τὰς ρομφαίας αὐτῶν εἰς ἄροτρα καὶ τὰ δόρατα αὐτῶν εἰς δρέπανα, καὶ οὐκέτι μὴ ἀντάρῃ ἔθνος ἐπ’ ἔθνος ρομφαίαν, καὶ οὐκέτι μὴ μάθωσι πολεμεῖν."
+   },
+   {
+    "work_code": "JOL",
+    "work_ja": "ヨエル書",
+    "work_src": "Joel",
+    "ref": "4.10",
+    "form": "ἄροτρα",
+    "postag": "n-p---na-",
+    "sentence": "συγκόψατε τὰ ἄροτρα ὑμῶν εἰς ρομφαίας καὶ τὰ δρέπανα ὑμῶν εἰς σειρομάστας ·"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "2.4",
+    "form": "ἄροτρα",
+    "postag": "n-p---na-",
+    "sentence": "καὶ κρινεῖ ἀναμέσον τῶν ἐθνῶν καὶ ἐλέγξει λαὸν πολύν, καὶ συγκόψουσι τὰς μαχαίρας αὐτῶν εἰς ἄροτρα καὶ τὰς ζιβύνας αὐτῶν εἰς δρέπανα, καὶ οὐ λήψεται ἔθνος ἐπ’ ἔθνος μάχαιραν, καὶ οὐ μὴ μάθωσιν ἔτι πολεμεῖν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ἄροτρον, -ου, τό    (< ἀρόω, to plough),   [in LXX chiefly for אֵת;]    a plough: Lk 9:62.†"
+}

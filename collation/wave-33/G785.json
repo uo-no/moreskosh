@@ -1,0 +1,153 @@
+{
+ "strong": "G785",
+ "lemma": "ἀσπίς",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ROM 3:13",
+   "form": "ἀσπίδων",
+   "morph": "N-GPF",
+   "gloss_en": "asps",
+   "gloss_ja": "毒蛇",
+   "verse": "τάφος ἀνεῳγμένος ὁ λάρυγξ αὐτῶν, ταῖς γλώσσαις αὐτῶν ἐδολιοῦσαν, ἰὸς ἀσπίδων ὑπὸ τὰ χείλη αὐτῶν,"
+  }
+ ],
+ "lxx": {
+  "total": 31,
+  "works": {
+   "Deuteronomium": 1,
+   "Regnorum i": 2,
+   "Paralipomenon i sive Chronicon i": 1,
+   "Paralipomenon ii sive Chronicon ii": 2,
+   "Judith": 1,
+   "Machabaeorum i": 4,
+   "Machabaeorum ii": 2,
+   "Psalmi": 4,
+   "Odae": 1,
+   "Job": 3,
+   "Sapientia Salomonis": 1,
+   "Ecclesiasticus sive Siracides": 2,
+   "Isaias": 6,
+   "Jeremias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "59.5",
+    "form": "ἀσπίδων",
+    "postag": "n-p---fg-",
+    "sentence": "ὠὰ ἀσπίδων ἔρρηξαν καὶ ἱστὸν ἀράχνης ὑφαίνουσι ·"
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "15.18",
+    "form": "ἀσπίδα",
+    "postag": "n-s---fa-",
+    "sentence": "ἤνεγκαν δὲ ἀσπίδα χρυσῆν ἀπὸ μνῶν χιλίων."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "57.5",
+    "form": "ἀσπίδος",
+    "postag": "n-s---fg-",
+    "sentence": "θυμὸς αὐτοῖς κατὰ τὴν ὁμοίωσιν τοῦ ὄφεως, ὡσεὶ ἀσπίδος κωφῆς καὶ βυούσης τὰ ὦτα αὐτῆς, ἥτις οὐκ εἰσακούσεται φωνῆς ἐπᾳδόντων, φαρμάκου τε φαρμακευομένου παρὰ σοφοῦ."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "41.7",
+    "form": "ἀσπίδες",
+    "postag": "n-p---fn-",
+    "sentence": "τὰ ἔγκατα αὐτοῦ ἀσπίδες χάλκεαι, σύνδεσμος δὲ αὐτοῦ ὥσπερ σμυρίτης λίθος ·"
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "17.6",
+    "form": "ἀσπὶς",
+    "postag": "n-s---fn-",
+    "sentence": "καὶ κνημῖδες χαλκαῖ ἐπὶ τῶν σκελῶν αὐτοῦ, καὶ ἀσπὶς χαλκῆ ἀνὰ μέσον τῶν ὤμων αὐτοῦ ·"
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "9.16",
+    "form": "ἀσπίδας",
+    "postag": "n-p---fa-",
+    "sentence": "καὶ τριακοσίας ἀσπίδας ἐλατὰς χρυσᾶς, τριακοσίων χρυσῶν ἀνεφέρετο ἐπὶ τὴν ἀσπίδα ἑκάστην ·"
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "15.11",
+    "form": "ἀσπίδων",
+    "postag": "n-p---fg-",
+    "sentence": "ἕκαστον δὲ αὐτῶν καθοπλίσας οὐ τὴν ἀσπίδων καὶ λογχῶν ἀσφάλειαν, ὡς τὴν ἐν τοῖς ἀγαθοῖς λόγοις παράκλησιν, καὶ προσεξηγησάμενος ὄνειρον ἀξιόπιστον ὕπερ τι πάντας εὔφρανεν."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "37.5",
+    "form": "ἀσπίδα",
+    "postag": "n-s---fa-",
+    "sentence": "ἑταῖρος φίλῳ συμπονεῖ χάριν γαστρός, ἔναντι πολέμου λήψεται ἀσπίδα."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "32.33",
+    "form": "ἀσπίδων",
+    "postag": "n-p---fg-",
+    "sentence": "θυμὸς δρακόντων ὁ οἶνος αὐτῶν καὶ θυμὸς ἀσπίδων ἀνίατος."
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "5.18",
+    "form": "ἀσπίδας",
+    "postag": "n-p---fa-",
+    "sentence": "υἱοὶ Ῥουβὴν καὶ Γὰδ καὶ ἥμισυ φυλῆς Μανασσῆ ἐξ υἱῶν δυνάμεως, ἄνδρες αἴροντες ἀσπίδας καὶ μάχαιραν καὶ τείνοντες τόξον καὶ δεδιδαγμένοι πόλεμον, τεσσαράκοντα καὶ τέσσαρες χιλιάδες καὶ ἑπτακόσιοι καὶ ἑξήκοντα ἐκπορευόμενοι εἰς παράταξιν."
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "9.7",
+    "form": "ἀσπίδι",
+    "postag": "n-s---fd-",
+    "sentence": "ἰδοὺ γὰρ Ἀσσύριοι ἐπληθύνθησαν ἐν δυνάμει αὐτῶν, ὑψώθησαν ἐφ’ ἵππῳ καὶ ἀναβάτῃ ἐγαυρίασαν ἐν βραχίονι πεζῶν, ἤλπισαν ἐν ἀσπίδι καὶ ἐν γαισῷ καὶ τόξῳ καὶ σφενδόνῃ καὶ οὐκ ἔγνωσαν ὅτι σὺ εἶ Κύριος συντρίβων πολέμους."
+   },
+   {
+    "work_code": "ODE",
+    "work_ja": "頌歌（オード）",
+    "work_src": "Odae",
+    "ref": "2.33",
+    "form": "ἀσπίδων",
+    "postag": "n-p---fg-",
+    "sentence": "θυμὸς δρακόντων ὁ οἶνος αὐτῶν καὶ θυμὸς ἀσπίδων ἀνίατος."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ἀσπίς, -ίδος, ἡ,    [in LXX for פֶּתֶן, etc.;]    an asp: Ro 3:13.†"
+}

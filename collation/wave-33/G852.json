@@ -1,0 +1,80 @@
+{
+ "strong": "G852",
+ "lemma": "ἀφανής",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "HEB 4:13",
+   "form": "ἀφανὴς",
+   "morph": "A-NSF",
+   "gloss_en": "hidden",
+   "gloss_ja": "隠れた",
+   "verse": "καὶ οὐκ ἔστιν κτίσις ἀφανὴς ἐνώπιον αὐτοῦ, πάντα δὲ γυμνὰ καὶ τετραχηλισμένα τοῖς ὀφθαλμοῖς αὐτοῦ, πρὸς ὃν ἡμῖν ὁ λόγος."
+  }
+ ],
+ "lxx": {
+  "total": 5,
+  "works": {
+   "Esdras ii": 1,
+   "Machabaeorum ii": 1,
+   "Job": 1,
+   "Ecclesiasticus sive Siracides": 2
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "20.30",
+    "form": "ἀφανής",
+    "postag": "a-s---mn-",
+    "sentence": "σοφία κεκρυμμένη καὶ θησαυρὸς ἀφανής, τίς ὠφέλεια ἐν ἀμφοτέροις;"
+   },
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "14.2",
+    "form": "ἀφανῆ",
+    "postag": "a-s---fa-",
+    "sentence": "καὶ συνήχθησαν πάντες ἐπὶ τὸ αὐτὸ ἐλθεῖν παρατάξασθαι ἐν Ἱερουσαλὴμ καὶ ποιῆσαι αὐτὴν ἀφανῆ."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "3.34",
+    "form": "ἀφανεῖς",
+    "postag": "a-p---mn-",
+    "sentence": "ταῦτα δὲ εἰπόντες ἀφανεῖς ἐγένοντο."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "24.20",
+    "form": "ἀφανὴς",
+    "postag": "a-s---fn-",
+    "sentence": "εἶτ’ ἀνεμνήσθη αὐτοῦ ἡ ἁμαρτία, ὥσπερ δὲ ὁμίχλη δρόσου ἀφανὴς ἐγένετο ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "41.14",
+    "form": "ἀφανής",
+    "postag": "a-s---mn-",
+    "sentence": "σοφία δὲ κεκρυμμένη καὶ θησαυρὸς ἀφανής, τίς ὠφέλεια ἐν ἀμφοτέροις;"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ἀφανής, -ές    (< φαίνω),   [in LXX: Ne 4:8 (2), Jb 24:20, Si 20:30 41:14, II Mac 3:34*;]    unseen, hidden: He 4:13.†"
+}

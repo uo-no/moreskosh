@@ -1,0 +1,41 @@
+{
+ "strong": "G930",
+ "lemma": "βασανιστής",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MAT 18:34",
+   "form": "βασανισταῖς",
+   "morph": "N-DPM",
+   "gloss_en": "jailers",
+   "gloss_ja": "看守",
+   "verse": "καὶ ὀργισθεὶς ὁ κύριος αὐτοῦ παρέδωκεν αὐτὸν τοῖς βασανισταῖς ἕως οὗ ἀποδῷ πᾶν τὸ ὀφειλόμενον."
+  }
+ ],
+ "lxx": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Martyrdom of Polycarp": 1
+  },
+  "representatives": [
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "2.3",
+    "form": "βασανιστῶν",
+    "postag": "n-p---mg-",
+    "sentence": "καὶ τὸ πῦρ ἦν αὐτοῖς ψυχρὸν τὸ τῶν ἀπηνῶν βασανιστῶν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   * βασανιστής, -οῦ, ὁ        (< βασανίζω),      prop., a torturer; used of a gaoler, Mt 18:34.†"
+}

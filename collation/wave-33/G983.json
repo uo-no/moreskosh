@@ -1,0 +1,89 @@
+{
+ "strong": "G983",
+ "lemma": "βλαβερός",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1TI 6:9",
+   "form": "βλαβεράς",
+   "morph": "A-APF",
+   "gloss_en": "harmful",
+   "gloss_ja": "有害な",
+   "verse": "οἱ δὲ βουλόμενοι πλουτεῖν ἐμπίπτουσιν εἰς πειρασμὸν καὶ παγίδα καὶ ἐπιθυμίας πολλὰς ἀνοήτους καὶ βλαβεράς, αἵτινες βυθίζουσι τοὺς ἀνθρώπους εἰς ὄλεθρον καὶ ἀπώλειαν·"
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Proverbia": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "10.26",
+    "form": "βλαβερὸν",
+    "postag": "a-s---nn-",
+    "sentence": "ὥσπερ ὄμφαξ ὀδοῦσι βλαβερὸν καὶ καπνὸς ὄμμασιν, οὕτως παρανομία τοῖς χρωμένοις αὐτῇ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 5,
+  "works": {
+   "Hermas, Pastor": 5
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "23.5.5",
+    "form": "βλαβεραί",
+    "postag": "a-p---fn-",
+    "sentence": "ποῖαι, φημί, κύριε, τρυφαί εἰσι βλαβεραί;"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "11.1.3",
+    "form": "βλαβερὰ",
+    "postag": "a-s---fn-",
+    "sentence": "βλαβερὰ οὖν ἐστι τοῖς ἐν αὐτῇ πορευομένοις."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "23.5.7",
+    "form": "βλαβεραὶ",
+    "postag": "a-p---fn-",
+    "sentence": "αἱ δὲ βλαβεραὶ τρυφαὶ αἱ προειρημέναι βασάνους καὶ τιμωρίας αὐτοῖς περιποιοῦνται ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "23.5.6",
+    "form": "βλαβεραί",
+    "postag": "a-p---fn-",
+    "sentence": "αὗται πᾶσαι αἱ τρυφαὶ βλαβεραί εἰσι τοῖς δούλοις τοῦ θεοῦ."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "3.9.4",
+    "form": "βλαβερὰ",
+    "postag": "a-s---fn-",
+    "sentence": "αὕτη οὖν ἡ ἀσυνκρασία βλαβερὰ ὑμῖν τοῖς ἔχουσι καὶ μὴ μεταδιδοῦσιν τοῖς ὑστερουμένοις."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   βλαβερός, -ά, -όν     (< βλάπτω),    [in LXX: Pr 10:26* ;]    hurtful: I Ti 6:9.†"
+}

@@ -1,0 +1,63 @@
+{
+ "strong": "G813",
+ "lemma": "ἄτακτος",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1TH 5:14",
+   "form": "ἀτάκτους",
+   "morph": "A-APM",
+   "gloss_en": "idle",
+   "gloss_ja": "無秩序な",
+   "verse": "παρακαλοῦμεν δὲ ὑμᾶς, ἀδελφοί, νουθετεῖτε τοὺς ἀτάκτους, παραμυθεῖσθε τοὺς ὀλιγοψύχους, ἀντέχεσθε τῶν ἀσθενῶν, μακροθυμεῖτε πρὸς πάντας."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Machabaeorum iii": 1
+  },
+  "representatives": [
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "1.19",
+    "form": "ἄτακτον",
+    "postag": "a-s---ma-",
+    "sentence": "αἱ δὲ καὶ προσαρτίως ἐσταλμέναι τοὺς πρὸς ἀπάντησιν διατεταγμένους παστοὺς καὶ τὴν ἁρμόζουσαν αἰδὼ παραλείπουσαι, δρόμον ἄτακτον ἐν τῇ πόλει συνίσταντο."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "1 Clement": 1,
+   "To Diognetus": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "40.2",
+    "form": "ἀτάκτως",
+    "postag": "d--------",
+    "sentence": "τάς τε προσφορὰς καὶ λειτουργίας ἐπιτελεῖσθαι, καὶ οὐκ εἰκῆ ἢ ἀτάκτως ἐκέλευσεν γίνεσθαι, ἀλλ’ ὡρισμένοις καιροῖς καὶ ὥραις."
+   },
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "9",
+    "form": "ἀτάκτοις",
+    "postag": "a-p---fd-",
+    "sentence": "πάντ’ οὖν ἤδη παρ’ ἑαυτῷ σὺν τῷ παιδὶ οἰκονομηκώς, μέχρι μὲν τοῦ πρόσθεν χρόνου εἴασεν ἡμᾶς, ὡς ἐβουλόμεθα, ἀτάκτοις φοραῖς φέρεσθαι, ἡδοναῖς καὶ ἐπιθυμίαις ἀπαγομένους."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1 ** ἄ-τακτος, -ον    (< τάσσω),   [in LXX: III Mac 1:19*;]    out of order, out of place (Lat. inordinatus), freq. of soldiers not keeping the ranks, or an army in disarray (cf. III Mac 1:19); hence, metaph., irregular, disorderly (v. previous word): I Th 5:14.†"
+}

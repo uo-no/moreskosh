@@ -1,0 +1,61 @@
+{
+ "strong": "G753",
+ "lemma": "ἀρχιτέκτων",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 3:10",
+   "form": "ἀρχιτέκτων",
+   "morph": "N-NSM",
+   "gloss_en": "master builder",
+   "gloss_ja": "建築家",
+   "verse": "Κατὰ τὴν χάριν τοῦ θεοῦ τὴν δοθεῖσάν μοι ὡς σοφὸς ἀρχιτέκτων θεμέλιον ἔθηκα, ἄλλος δὲ ἐποικοδομεῖ. ἕκαστος δὲ βλεπέτω πῶς ἐποικοδομεῖ·"
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Machabaeorum ii": 1,
+   "Ecclesiasticus sive Siracides": 1,
+   "Isaias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "2.29",
+    "form": "ἀρχιτέκτονι",
+    "postag": "n-s---md-",
+    "sentence": "καθάπερ γὰρ τῆς καινῆς οἰκίας ἀρχιτέκτονι τῆς ὅλης καταβολῆς φροντιστέον, τῷ δὲ ἐγκαίειν καὶ ζωγραφεῖν ἐπιχειροῦντι τὰ ἐπιτήδεια πρὸς διακόσμησιν ἐξεταστέον, οὕτω δοκῶ καὶ ἐπὶ ἡμῶν."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "38.27",
+    "form": "ἀρχιτέκτων",
+    "postag": "n-s---mn-",
+    "sentence": "οὕτως πᾶς τέκτων καὶ ἀρχιτέκτων, ὅστις νύκτωρ ὡς ἡμέρας διάγει ·"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "3.3",
+    "form": "ἀρχιτέκτονα",
+    "postag": "n-s---ma-",
+    "sentence": "ἰδοὺ δὴ ὁ δεσπότης Κύριος σαβαὼθ ἀφελεῖ ἀπὸ τῆς Ἰουδαίας καὶ ἀπὸ Ἱερουσαλὴμ ἰσχύοντα καὶ ἰσχύουσαν, ἰσχὺν ἄρτου καὶ ἰσχὺν ὕδατος, γίγαντα καὶ ἰσχύοντα καὶ ἄνθρωπον πολεμιστὴν καὶ δικαστὴν καὶ προφήτην καὶ στοχαστὴν καὶ πρεσβύτερον καὶ πεντηκόνταρχον καὶ θαυμαστὸν σύμβουλον καὶ σοφὸν ἀρχιτέκτονα καὶ συνετὸν ἀκροατήν ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ἀρχι-τέκτων, -ονος, ὁ    (< τέκτων),   [in LXX: Is 3:3 (חָרָשׁ) Si 38:27, II Mac 2:29*;]    a master-builder, architect: I Co 3:10 (in π. of building contractors, MM, s.v.).†"
+}

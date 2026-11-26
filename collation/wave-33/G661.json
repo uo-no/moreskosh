@@ -1,0 +1,151 @@
+{
+ "strong": "G661",
+ "lemma": "ἀποτίνω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "PHM 1:19",
+   "form": "ἀποτίσω",
+   "morph": "V-FAI-1S",
+   "gloss_en": "repay",
+   "gloss_ja": "弁償する",
+   "verse": "ἐγὼ Παῦλος ἔγραψα τῇ ἐμῇ χειρί, ἐγὼ ἀποτίσω· ἵνα μὴ λέγω σοι ὅτι καὶ σεαυτόν μοι προσοφείλεις."
+  }
+ ],
+ "lxx": {
+  "total": 31,
+  "works": {
+   "Exodus": 16,
+   "Leviticus": 2,
+   "Ruth": 1,
+   "Regnorum i": 2,
+   "Regnorum ii": 2,
+   "Regnorum iv": 1,
+   "Psalmi": 1,
+   "Proverbia": 2,
+   "Job": 1,
+   "Ecclesiasticus sive Siracides": 1,
+   "Isaias": 1,
+   "Ezechiel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "22.12",
+    "form": "ἀποτίσει",
+    "postag": "v3sfia---",
+    "sentence": "ἐὰν δὲ κλαπῇ παρ’ αὐτοῦ, ἀποτίσει τῷ κυρίῳ."
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "24.18",
+    "form": "ἀποτισάτω",
+    "postag": "v3sama---",
+    "sentence": "καὶ ὃς ἂν πατάξῃ κτῆνος καὶ ἀποθάνῃ, ἀποτισάτω ψυχὴν ἀντὶ ψυχῆς."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "2.20",
+    "form": "ἀποτίσαι",
+    "postag": "v3saoa---",
+    "sentence": "ἀποτίσαι σοι Κύριος σπέρμα ἐκ τῆς γυναικὸς ταύτης ἀντὶ τοῦ χρέους, οὗ ἔχρησας τῷ Κυρίῳ."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "15.7",
+    "form": "ἀποτίσω",
+    "postag": "v1sfia---",
+    "sentence": "πορεύσομαι δὴ καὶ ἀποτίσω τὰς εὐχάς μου, ἃς ηὐξάμην τῷ Κυρίῳ ἐν Χεβρών ·"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "22.27",
+    "form": "ἀποτίσῃς",
+    "postag": "v2sasa---",
+    "sentence": "ἐὰν γὰρ μὴ ἔχῃς πόθεν ἀποτίσῃς, λήψονται τὸ στρῶμα τὸ ὑπὸ τὰς πλευράς σου."
+   },
+   {
+    "work_code": "RUT",
+    "work_ja": "ルツ記",
+    "work_src": "Ruth",
+    "ref": "2.12",
+    "form": "ἀποτίσαι",
+    "postag": "v3saoa---",
+    "sentence": "ἀποτίσαι Κύριος τὴν ἐργασίαν σου καὶ γένοιτο ὁ μισθός σου πλήρης παρὰ Κυρίου Θεοῦ Ἰσραήλ, πρὸς ὃν ἦλθες πεποιθέναι ὑπὸ τὰς πτέρυγας αὐτοῦ."
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "4.7",
+    "form": "ἀποτίσεις",
+    "postag": "v2sfia---",
+    "sentence": "δεῦρο καὶ ἀπόδου τὸ ἔλαιον καὶ ἀποτίσεις τοὺς τόκους σου, καὶ σὺ καὶ οἱ υἱοί σου ζήσεσθε ἐν τῷ ἐπιλοίπῳ ἐλαίῳ."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "36.21",
+    "form": "ἀποτίσει",
+    "postag": "v3sfia---",
+    "sentence": "δανείζεται ὁ ἁμαρτωλὸς καὶ οὐκ ἀποτίσει, ὁ δὲ δίκαιος οἰκτείρει καὶ δίδωσιν ·"
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "34.33",
+    "form": "ἀποτίσει",
+    "postag": "v3sfia---",
+    "sentence": "μὴ παρὰ σοῦ ἀποτίσει αὐτήν;"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "8.13",
+    "form": "ἀποτίσων",
+    "postag": "v-sfpamn-",
+    "sentence": "καὶ ἐὰν ἐγγυήσῃ, ὡς ἀποτίσων φρόντιζε."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "9.5",
+    "form": "ἀποτίσουσι",
+    "postag": "v3pfia---",
+    "sentence": "ὅτι πᾶσαν στολὴν ἐπισυνηγμένην δόλῳ καὶ ἱμάτιον μετὰ καταλλαγῆς ἀποτίσουσι καὶ θελήσουσιν εἰ ἐγενήθησαν πυρίκαυστοι."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "33.15",
+    "form": "ἀποτίσει",
+    "postag": "v3sfia---",
+    "sentence": "θανάτῳ θανατωθήσῃ, καὶ ἀποστρέψει ἀπὸ τῆς ἁμαρτίας αὐτοῦ καὶ ποιήσει κρίμα καὶ δικαιοσύνην καὶ ἐνεχύρασμα ἀποδῷ καὶ ἅρπαγμα ἀποτίσει, ἐν προστάγμασι ζωῆς διαπορεύηται τοῦ μὴ ποιῆσαι ἄδικον, ζωῇ ζήσεται καὶ οὐ μὴ ἀποθάνῃ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ἀπο-τίνω (or -τίω),    [in LXX chiefly for שׂלם pi.;]    to pay off, repay: Phm 19 (MM, s.v.).†"
+}

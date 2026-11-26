@@ -1,0 +1,92 @@
+{
+ "strong": "G691",
+ "lemma": "ἀργέω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2PE 2:3",
+   "form": "ἀργεῖ",
+   "morph": "V-PAI-3S",
+   "gloss_en": "idle",
+   "gloss_ja": "なまける",
+   "verse": "καὶ ἐν πλεονεξίᾳ πλαστοῖς λόγοις ὑμᾶς ἐμπορεύσονται· οἷς τὸ κρίμα ἔκπαλαι οὐκ ἀργεῖ, καὶ ἡ ἀπώλεια αὐτῶν οὐ νυστάζει."
+  }
+ ],
+ "lxx": {
+  "total": 5,
+  "works": {
+   "Esdras i": 1,
+   "Esdras ii": 2,
+   "Machabaeorum ii": 1,
+   "Ecclesiasticus sive Siracides": 1
+  },
+  "representatives": [
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "4.24",
+    "form": "ἤργησε",
+    "postag": "v3saia---",
+    "sentence": "τότε ἤργησε τὸ ἔργον οἴκου τοῦ Θεοῦ τὸ ἐν Ἱερουσαλὴμ καὶ ἦν ἀργοῦν ἕως δευτέρου ἔτους τῆς βασιλείας Δαρείου βασιλέως Περσῶν."
+   },
+   {
+    "work_code": "1ES",
+    "work_ja": "エズラ記（ギリシャ語）",
+    "work_src": "Esdras i",
+    "ref": "2.25",
+    "form": "ἤργει",
+    "postag": "v3siia---",
+    "sentence": "καὶ ἤργει ἡ οἰκοδομὴ τοῦ ἱεροῦ τοῦ ἐν Ἱερουσαλὴμ μέχρι τοῦ δευτέρου ἔτους τῆς βασιλείας Δαρείου τοῦ Περσῶν βασιλέως."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "5.25",
+    "form": "ἀργοῦντας",
+    "postag": "v-pppama-",
+    "sentence": "οὗτος δὲ παραγενόμενος εἰς Ἱεροσόλυμα καὶ τὸν εἰρηνικὸν ὑποκριθείς, ἐπέσχεν ἕως τῆς ἁγίας ἡμέρας τοῦ σαββάτου καὶ λαβὼν ἀργοῦντας τοὺς Ἰουδαίους τοῖς ὑφ’ ἑαυτὸν ἐξοπλησίαν παρήγγειλε καὶ τοὺς ἐξελθόντας πάντας ἐπὶ τὴν θεωρίαν συνεξεκέντησε καὶ εἰς τὴν πόλιν σὺν τοῖς ὅπλοις εἰσδραμὼν ἱκανὰ κατέστρωσε πλήθη."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "33.28",
+    "form": "ἀργῇ",
+    "postag": "v3spsa---",
+    "sentence": "ἵνα μὴ ἀργῇ, πολλὴν γὰρ κακίαν ἐδίδαξεν ἡ ἀργία."
+   },
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "4.24",
+    "form": "ἀργοῦν",
+    "postag": "v-sppann-",
+    "sentence": "τότε ἤργησε τὸ ἔργον οἴκου τοῦ Θεοῦ τὸ ἐν Ἱερουσαλὴμ καὶ ἦν ἀργοῦν ἕως δευτέρου ἔτους τῆς βασιλείας Δαρείου βασιλέως Περσῶν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "1 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "33.1",
+    "form": "ἀργήσωμεν",
+    "postag": "v1pasa---",
+    "sentence": "ἀργήσωμεν ἀπὸ τῆς ἀγαθοποιΐας καὶ ἐγκαταλίπωμεν τὴν ἀγάπην;"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   ἀργέω, -ῶ    (< ἀργός),   [in LXX: Es 4:24, Ec 12:3 (בּטל), I Es 2:30, Si 30:36 (33:27), II Mac 5:25*;]    to be idle; τὸ κρίμα . . . ἀ., lingers (cf. MGr. ἀργά, late: MM, s.v.): II Pe 2:3.†"
+}

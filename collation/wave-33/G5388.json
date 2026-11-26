@@ -1,0 +1,71 @@
+{
+ "strong": "G5388",
+ "lemma": "φιλότεκνος",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "TIT 2:4",
+   "form": "φιλοτέκνους",
+   "morph": "A-APF",
+   "gloss_en": "love their children",
+   "gloss_ja": "子を愛する",
+   "verse": "ἵνα σωφρονίζωσι τὰς νέας φιλάνδρους εἶναι, φιλοτέκνους,"
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Machabaeorum iv": 3
+  },
+  "representatives": [
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "15.4",
+    "form": "φιλότεκνα",
+    "postag": "a-p---nv-",
+    "sentence": "ᾦ τίνα τρόπον ἠθολογήσαιμι, φιλότεκνα γονέων πάθη."
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "15.5",
+    "form": "φιλοτεκνότεραι",
+    "postag": "a-p---fnc",
+    "sentence": "ὅσῳ γὰρ καὶ ἀσθενόψυχοι καὶ πολυγονώτεραι ὑπάρχουσιν αἱ μητέρες, τοσοῦτον μᾶλλόν εἰσι φιλοτεκνότεραι."
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "15.6",
+    "form": "φιλοτεκνοτέρα",
+    "postag": "a-s---fnc",
+    "sentence": "πασῶν δὲ τῶν μητέρων ἐγένετο ἡ τῶν ἑπτὰ παίδων μήτηρ φιλοτεκνοτέρα, ἥτις ἑπτὰ κυοφορίαις τὴν πρὸς αὐτοὺς ἐπιφυτευομένη φιλοστοργίαν καὶ διὰ πολλὰς τὰς καθ’ ἕκαστον αὐτῶν ὠδῖνας ἠναγκασμένη τὴν εἰς αὐτοὺς ἔχειν συμπάθειαν, διὰ τὸν πρὸς τὸν Θεὸν φόβον ὑπερεῖδε τὴν τῶν τέκνων πρόσκαιρον σωτηρίαν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "1.3.1",
+    "form": "φιλότεκνος",
+    "postag": "a-s---mn-",
+    "sentence": "ἀλλὰ φιλότεκνος ὢν οὐκ ἐνουθέτεις σου τὸν οἶκον, ἀλλὰ ἀφῆκες αὐτὸν καταφθαρῆναι, διὰ τοῦτό σοι ὀργίζεται ὁ κύριος ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1 ** φιλότεκνος, -ον    (< φίλος, τέκνον),    [in LXX: IV Mac 15:4-6 * ;]     loving one's children (Hdt., Arist., Plut., al.): of women, joined with φίλανδρος, q.v., Tit 2:4.†"
+}

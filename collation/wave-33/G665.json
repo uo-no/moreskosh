@@ -1,0 +1,61 @@
+{
+ "strong": "G665",
+ "lemma": "ἀποτρέπομαι",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": "αποτρεπω",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2TI 3:5",
+   "form": "ἀποτρέπου",
+   "morph": "V-PMM-2S",
+   "gloss_en": "avoid",
+   "gloss_ja": "背を向ける",
+   "verse": "ἔχοντες μόρφωσιν εὐσεβείας τὴν δὲ δύναμιν αὐτῆς ἠρνημένοι· καὶ τούτους ἀποτρέπου."
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Machabaeorum iii": 1,
+   "Machabaeorum iv": 1,
+   "Ecclesiasticus sive Siracides": 1
+  },
+  "representatives": [
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "1.23",
+    "form": "ἀποτραπέντες",
+    "postag": "v-pappmn-",
+    "sentence": "φωνήσαντες δὲ τὴν ὁρμὴν ἐπὶ τὰ ὅπλα ποιήσασθαι καὶ θαρραλέως ὑπὲρ τοῦ πατρῴου νόμου τελευτᾶν, ἱκανὴν ἐποίησαν ἐν τῷ τόπῳ τραχύτητα, μόλις δὲ ὑπό τε τῶν γεραιῶν καὶ τῶν πρεσβυτέρων ἀποτραπέντες ἐπὶ τὴν αὐτὴν τῆς δεήσεως ἔστησαν στάσιν."
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "16.12",
+    "form": "ἀπέτρεπεν",
+    "postag": "v3siia---",
+    "sentence": "— ἀλλὰ τούτῳ τῷ θρήνῳ οὐδένα ὠλοφύρετο ἡ ἱερὰ καὶ θεοσεβὴς μήτηρ, οὐ-δ’ ἵνα μὴ ἀποθάνωσιν ἀπέτρεπεν αὐτῶν τινα οὐδ ὡς ἀποθνῃσκόντων ἐλυπήθη ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "20.29",
+    "form": "ἀποτρέπει",
+    "postag": "v3spia---",
+    "sentence": "ξένια καὶ δῶρα ἀποτυφλοῖ ὀφθαλμοὺς σοφῶν καὶ ὡς φιμὸς ἐν στόματι ἀποτρέπει ἐλεγμούς."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1 ** ἀπο-τρέπω,    [in LXX: Si 20:29 48:18, III Mac 1:23, IV Mac 1:33 16:12*;]    to turn away; mid., to turn oneself away from: c. acc., II Ti 3:5.†"
+}

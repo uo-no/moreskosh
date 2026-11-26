@@ -1,0 +1,63 @@
+{
+ "strong": "G563",
+ "lemma": "ἀπερισπάστως",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": "απερισπαστος",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 7:35",
+   "form": "ἀπερισπάστως",
+   "morph": "ADV",
+   "gloss_en": "without distraction",
+   "gloss_ja": "気を散らさず",
+   "verse": "τοῦτο δὲ πρὸς τὸ ὑμῶν αὐτῶν σύμφορον λέγω, οὐχ ἵνα βρόχον ὑμῖν ἐπιβάλω, ἀλλὰ πρὸς τὸ εὔσχημον καὶ εὐπάρεδρον τῷ κυρίῳ ἀπερισπάστως."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Sapientia Salomonis": 1,
+   "Ecclesiasticus sive Siracides": 1
+  },
+  "representatives": [
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "16.11",
+    "form": "ἀπερίσπαστοι",
+    "postag": "a-p---mn-",
+    "sentence": "εἰς γὰρ ὑπόμνησιν τῶν λογίων σου ἐνεκεντρίζοντο καὶ ὀξέως διεσώζοντο, ἵνα μὴ εἰς βαθεῖαν ἐμπεσόντες λήθην ἀπερίσπαστοι γένωνται τῆς σῆς εὐεργεσίας."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "41.1",
+    "form": "ἀπερισπάστῳ",
+    "postag": "a-s---md-",
+    "sentence": "ὦ θάνατε, ὡς πικρόν σου τὸ μνημόσυνόν ἐστιν ἀνθρώπῳ εἰρηνεύοντι ἐν τοῖς ὑπάρχουσιν αὐτοῦ ἀνδρὶ ἀπερισπάστῳ καὶ εὐοδουμένῳ ἐν πᾶσι καὶ ἔτι ἰσχύοντι ἐπιδέξασθαι τροφήν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Ignatius, Letters": 1
+  },
+  "representatives": [
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "1.20.2",
+    "form": "ἀπερισπάστῳ",
+    "postag": "a-s---fd-",
+    "sentence": "τῷ κατὰ σάρκα ἐκ γένους Δαυείδ, τῷ υἱῷ ἀνθρώπου καὶ υἱῷ θεοῦ, εἰς τὸ ὑπακούειν ὑμᾶς τῷ ἐπισκόπῳ καὶ τῷ πρεσβυτερίῳ ἀπερισπάστῳ διανοίᾳ, ἕνα ἄρτον κλῶντες, ὅς ἐστιν φάρμακον ἀθανασίας, ἀντίδοτος τοῦ μὴ ἀποθανεῖν, ἀλλὰ ζῆν ἐν Ἰησοῦ Χριστῷ διὰ παντός."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1 *† ἀπερισπάστως,     adv.    (< περισπάω; the adj. occurs in Wi 16:11 Si 41:1);    without distraction: I Co 7:35.†"
+}

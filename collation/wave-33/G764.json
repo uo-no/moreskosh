@@ -1,0 +1,172 @@
+{
+ "strong": "G764",
+ "lemma": "ἀσεβέω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JUD 1:15",
+   "form": "ἠσέβησαν",
+   "morph": "V-AAI-3P",
+   "gloss_en": "committed in an ungodly way",
+   "gloss_ja": "不敬虔に行動する",
+   "verse": "ποιῆσαι κρίσιν κατὰ πάντων καὶ ἐλέγξαι πάντας τοὺς ἀσεβεῖς περὶ πάντων τῶν ἔργων ἀσεβείας αὐτῶν ὧν ἠσέβησαν καὶ περὶ πάντων τῶν σκληρῶν ὧν ἐλάλησαν κατ’ αὐτοῦ ἁμαρτωλοὶ ἀσεβεῖς."
+  }
+ ],
+ "lxx": {
+  "total": 38,
+  "works": {
+   "Leviticus": 1,
+   "Deuteronomium": 2,
+   "Regnorum ii": 1,
+   "Esdras i": 2,
+   "Machabaeorum ii": 3,
+   "Machabaeorum iv": 1,
+   "Psalmi": 1,
+   "Proverbia": 1,
+   "Ecclesiastes": 1,
+   "Job": 8,
+   "Sapientia Salomonis": 1,
+   "Ecclesiasticus sive Siracides": 1,
+   "Osee": 2,
+   "Amos": 1,
+   "Sophonias": 2,
+   "Isaias": 1,
+   "Jeremias": 4,
+   "Baruch": 1,
+   "Threni seu Lamentationes": 1,
+   "Ezechiel": 2,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "10.2",
+    "form": "ἀσεβεῖν",
+    "postag": "v--pna---",
+    "sentence": "μή με ἀσεβεῖν δίδασκε ·"
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "2.29",
+    "form": "ἠσεβήσατε",
+    "postag": "v2paia---",
+    "sentence": "πάντες ὑμεῖς ἠσεβήσατε καὶ πάντες ὑμεῖς ἠνομήσατε εἰς ἐμέ, λέγει Κύριος."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "1.17",
+    "form": "ἀσεβήσαντας",
+    "postag": "v-papama-",
+    "sentence": "κατὰ πάντα εὐλογητὸς ἡμῶν ὁ Θεός, ὃς παρέδωκε τοὺς ἀσεβήσαντας."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "17.13",
+    "form": "ἀσεβήσει",
+    "postag": "v3sfia---",
+    "sentence": "καὶ πᾶς ὁ λαὸς ἀκούσας φοβηθήσεται καὶ οὐκ ἀσεβήσει ἔτι."
+   },
+   {
+    "work_code": "1ES",
+    "work_ja": "エズラ記（ギリシャ語）",
+    "work_src": "Esdras i",
+    "ref": "1.47",
+    "form": "ἠσέβησαν",
+    "postag": "v3paia---",
+    "sentence": "καὶ οἱ ἡγούμενοι δὲ τοῦ λαοῦ καὶ τῶν ἱερέων πολλὰ ἠσέβησαν καὶ ὑπὲρ πάσας τὰς ἀκαθαρσίας πάντων τῶν ἐθνῶν καὶ ἐμίαναν τὸ ἱερὸν τοῦ Κυρίου τὸ ἁγιαζόμενον ἐν Ἱερουσαλήμ."
+   },
+   {
+    "work_code": "HOS",
+    "work_ja": "ホセア書",
+    "work_src": "Osee",
+    "ref": "7.13",
+    "form": "ἠσέβησαν",
+    "postag": "v3paia---",
+    "sentence": "δείλαιοί εἰσιν, ὅτι ἠσέβησαν εἰς ἐμέ ·"
+   },
+   {
+    "work_code": "ZEP",
+    "work_ja": "ゼファニヤ書",
+    "work_src": "Sophonias",
+    "ref": "3.4",
+    "form": "ἀσεβοῦσι",
+    "postag": "v3ppia---",
+    "sentence": "ἱερεῖς αὐτῆς βεβηλοῦσι τὰ ἅγια καὶ ἀσεβοῦσι νόμον ·"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "16.27",
+    "form": "ἠσέβησας",
+    "postag": "v2saia---",
+    "sentence": "ἐὰν δὲ ἐκτείνω τὴν χεῖρά μου ἐπὶ σέ, καὶ ἐξαρῶ τὰ νόμιμά σου καὶ παραδώσω εἰς ψυχὰς μισούντων σε, θυγατέρας ἀλλοφύλων τὰς ἐκκλινούσας σε ἐκ τῆς ὁδοῦ σου, ἧς ἠσέβησας."
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "20.12",
+    "form": "ἠσεβήκασι",
+    "postag": "v3pria---",
+    "sentence": "ἠσεβήκασι γάρ, ἔνοχοί εἰσι."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "22.22",
+    "form": "ἠσέβησα",
+    "postag": "v1saia---",
+    "sentence": "ὅτι ἐφύλαξα ὁδοὺς Κυρίου καὶ οὐκ ἠσέβησα ἀπὸ τοῦ Θεοῦ μου, ὅτι πάντα τὰ κρίματα αὐτοῦ κατεναντίον μου, καὶ τὰ δικαιώματα αὐτοῦ, οὐκ ἀπέστην ἀπ’ αὐτῶν."
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "9.15",
+    "form": "ἀσεβήσαντα",
+    "postag": "v-sapama-",
+    "sentence": "τύραννε μιαρώτατε καὶ τῆς οὐρανίου δίκης ἐχθρὲ καὶ ὠμόφρον, οὐκ ἀνδροφονήσαντά με τοῦτον καταικίζεις τὸν τρόπον, οὐ-δὲ ἀσεβήσαντα, ἀλλὰ θείου νόμου προασπίζοντα."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "17.22",
+    "form": "ἠσέβησα",
+    "postag": "v1saia---",
+    "sentence": "καὶ ἀνταποδώσει μοι Κύριος κατὰ τὴν δικαιοσύνην μου καὶ κατὰ τὴν καθαριότητα τῶν χειρῶν μου ἀνταποδώσει μοι, ὅτι ἐφύλαξα τὰς ὁδοὺς Κυρίου καὶ οὐκ ἠσέβησα ἀπὸ τοῦ Θεοῦ μου, ὅτι πάντα τὰ κρίματα αὐτοῦ ἐνώπιόν μου, καὶ τὰ δικαιώματα αὐτοῦ οὐκ ἀπέστησαν ἀπ’ ἐμοῦ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "2 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "17.6",
+    "form": "ἀσεβήσαντας",
+    "postag": "v-papama-",
+    "sentence": "καὶ ὁ σκώληξ αὐτῶν οὐ τελευτήσει καὶ τὸ πῦρ αὐτῶν οὐ σβεσθήσεται, καὶ ἔσονται εἰς ὅρασιν πάσῃ σαρκί, τὴν ἡμέραν ἐκείνην λέγει τῆς κρίσεως, ὅταν ὄψονται τοὺς ἐν ἡμῖν ἀσεβήσαντας καὶ παραλογισαμένους τὰς ἐντολὰς Ἰησοῦ Χριστοῦ."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   ἀσεβέω, -ῶ    (< ἀσεβής),   [in LXX for פּשׁע, רשׁע;]    to be ungodly, act profanely: II Pe 2:6; c. cogn. acc. (MM, s.v.), Ju 15.†"
+}

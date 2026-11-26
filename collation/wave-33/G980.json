@@ -1,0 +1,81 @@
+{
+ "strong": "G980",
+ "lemma": "βιόω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1PE 4:2",
+   "form": "βιῶσαι",
+   "morph": "V-AAN",
+   "gloss_en": "live",
+   "gloss_ja": "生きる",
+   "verse": "εἰς τὸ μηκέτι ἀνθρώπων ἐπιθυμίαις ἀλλὰ θελήματι θεοῦ τὸν ἐπίλοιπον ἐν σαρκὶ βιῶσαι χρόνον."
+  }
+ ],
+ "lxx": {
+  "total": 5,
+  "works": {
+   "Machabaeorum iv": 1,
+   "Proverbia": 1,
+   "Job": 1,
+   "Sapientia Salomonis": 1,
+   "Ecclesiasticus sive Siracides": 1
+  },
+  "representatives": [
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "17.18",
+    "form": "βιοῦσιν",
+    "postag": "v3ppia---",
+    "sentence": "δι’ ἣν καὶ τῷ θείῳ νῦν παρεστήκασι θρόνῳ καὶ τὸν μακάριον βιοῦσιν αἰῶνα."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "7.2",
+    "form": "βιώσεις",
+    "postag": "v2sfia---",
+    "sentence": "φύλαξον ἐμὰς ἐντολάς, καὶ βιώσεις, τοὺς δὲ ἐμοὺς λόγους ὥσπερ κόρας ὀμμάτων ·"
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "29.18",
+    "form": "βιώσω",
+    "postag": "v1sfia---",
+    "sentence": "ἡ ἡλικία μου γηράσει ὥσπερ στέλεχος φοίνικος, πολὺν χρόνον βιώσω ·"
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "12.23",
+    "form": "βιώσαντας",
+    "postag": "v-papama-",
+    "sentence": "ὅθεν καὶ τοὺς ἐν ἀφροσύνῃ ζωῆς βιώσαντας ἀδίκους διὰ τῶν ἰδίων ἐβασάνισας βδελυγμάτων ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "40.28",
+    "form": "βιώσῃς",
+    "postag": "v2sasa---",
+    "sentence": "τέκνον, ζωὴν ἐπαιτήσεως μὴ βιώσῃς ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   βιόω, -ῶ     (< βίος),    [in LXX: Pr 7:2  9:6 (חיה), Jb 29:18, Wi 4:4 א1, 12:23, Si 40:28, IV Mac 5:22 17:18 * ;]    to spend life, to live: τ. χρόνον βιῶσαι (cl., more freq. 2 aor., -ναι), I Pe 4:2 (cf. Jb, l.c.).†      SYN.: ζάω (q.v.)."
+}

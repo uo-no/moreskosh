@@ -1,0 +1,149 @@
+{
+ "strong": "G995",
+ "lemma": "βοή",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JAS 5:4",
+   "form": "βοαὶ",
+   "morph": "N-NPF",
+   "gloss_en": "cries",
+   "gloss_ja": "叫び",
+   "verse": "ἰδοὺ ὁ μισθὸς τῶν ἐργατῶν τῶν ἀμησάντων τὰς χώρας ὑμῶν ὁ ἀφυστερημένος ἀφ’ ὑμῶν κράζει, καὶ αἱ βοαὶ τῶν θερισάντων εἰς τὰ ὦτα Κυρίου Σαβαὼθ εἰσεληλύθασιν·"
+  }
+ ],
+ "lxx": {
+  "total": 16,
+  "works": {
+   "Exodus": 1,
+   "Regnorum i": 3,
+   "Paralipomenon ii sive Chronicon ii": 1,
+   "Esther": 1,
+   "Judith": 2,
+   "Machabaeorum iii": 4,
+   "Sapientia Salomonis": 1,
+   "Ecclesiasticus sive Siracides": 1,
+   "Isaias": 1,
+   "Ezechiel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "1.28",
+    "form": "βοή",
+    "postag": "n-s---fn-",
+    "sentence": "ἐκ δὲ τῆς πυκνοτάτης τε καὶ ἐμπόνου τῶν ὄχλων συναγομένης κραυγῆς ἀνείκαστός τις ἦν βοή ·"
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "4.14",
+    "form": "βοῆς",
+    "postag": "n-s---fg-",
+    "sentence": "τίς ἡ φωνὴ τῆς βοῆς ταύτης;"
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "14.19",
+    "form": "βοὴ",
+    "postag": "n-s---fn-",
+    "sentence": "ὡς δὲ ἤκουσαν ταῦτα τὰ ρήματα οἱ ἄρχοντες τῆς δυνάμεως Ἀσσούρ, τοὺς χιτῶνας αὐτῶν διέρρηξαν, καὶ ἐταράχθη ἡ ψυχὴ αὐτῶν σφόδρα, καὶ ἐγένετο αὐτῶν κραυγὴ καὶ βοὴ μεγάλη σφόδρα ἐν μέσῳ τῆς παρεμβολῆς."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "2.23",
+    "form": "βοὴ",
+    "postag": "n-s---fn-",
+    "sentence": "καὶ κατεστέναξαν οἱ υἱοὶ Ἰσραὴλ ἀπὸ τῶν ἔργων καὶ ἀνεβόησαν, καὶ ἀνέβη ἡ βοὴ αὐτῶν πρὸς τὸν Θεὸν ἀπὸ τῶν ἔργων."
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "33.13",
+    "form": "βοῆς",
+    "postag": "n-s---fg-",
+    "sentence": "καὶ ἐπήκουσε τῆς βοῆς αὐτοῦ καὶ ἐπέστρεψεν αὐτὸν εἰς Ἱερουσαλὴμ ἐπὶ τὴν βασιλείαν αὐτοῦ ·"
+   },
+   {
+    "work_code": "EST",
+    "work_ja": "エステル記",
+    "work_src": "Esther",
+    "ref": "1.1ι",
+    "form": "βοῆς",
+    "postag": "n-s---fg-",
+    "sentence": "ἀπὸ δὲ τῆς βοῆς αὐτῶν ἐγένετο ὡσανεὶ ἀπὸ μικρᾶς πηγῆς ποταμὸς μέγας, ὕδωρ πολύ ·"
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "18.10",
+    "form": "βοή",
+    "postag": "n-s---fn-",
+    "sentence": "ἀντήχει δ’ ἀσύμφωνος ἐχθρῶν βοή, καὶ οἰκτρὰ διεφέρετο θρηνουμένων παίδων ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "30.7",
+    "form": "βοῇ",
+    "postag": "n-s---fd-",
+    "sentence": "περιψύχων υἱὸν καταδεσμεύσει τραύματα αὐτοῦ, καὶ ἐπὶ πάσῃ βοῇ ταραχθήσεται σπλάγχνα αὐτοῦ."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "15.8",
+    "form": "βοὴ",
+    "postag": "n-s---fn-",
+    "sentence": "συνῆψε γὰρ ἡ βοὴ τὸ ὅριον τῆς Μωαβίτιδος τῆς Ἀγαλείμ, καὶ ὀλολυγμὸς αὐτῆς ἕως τοῦ φρέατος τοῦ Αἰλείμ."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "21.22",
+    "form": "βοῇ",
+    "postag": "n-s---fd-",
+    "sentence": "ἐγένετο τὸ μαντεῖον ἐπὶ Ἱερουσαλὴμ τοῦ βαλεῖν χάρακα, τοῦ διανοῖξαι στόμα ἐν βοῇ, ὑψῶσαι φωνὴν μετὰ κραυγῆς, τοῦ βαλεῖν χάρακα ἐπὶ τὰς πύλας αὐτῆς καὶ βαλεῖν χῶμα καὶ οἰκοδομῆσαι βελοστάσεις."
+   },
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "4.2",
+    "form": "βοή",
+    "postag": "n-s---fn-",
+    "sentence": "τοῖς δὲ Ἰουδαίοις ἀνήκεστον πένθος ἦν καὶ πανόδυρτος μετὰ δακρύων βοή, στεναγμοῖς πεπυρωμένης τῆς αὐτῶν πάντοθεν καρδίας, ὀλοφυρομένων τὴν ἀπροσδόκητον ἐξαίφνης ἐπικριθεῖσαν αὐτοῖς ὀλεθρίαν."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "4.14",
+    "form": "βοῆς",
+    "postag": "n-s---fg-",
+    "sentence": "καὶ ἤκουσεν Ἡλὶ τὴν φωνὴν τῆς βοῆς καὶ εἶπε ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   βοή, -ῆς, ἡ,     [in LXX for זְעָקָה, etc. ;]    a cry: Ja 5:4.†"
+}

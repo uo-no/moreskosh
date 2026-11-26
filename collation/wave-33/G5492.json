@@ -1,0 +1,53 @@
+{
+ "strong": "G5492",
+ "lemma": "χειμάζομαι",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": "χειμαζω",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 27:18",
+   "form": "χειμαζομένων",
+   "morph": "V-PPP-GPM",
+   "gloss_en": "battered by the storm",
+   "gloss_ja": "嵐にさらす",
+   "verse": "σφοδρῶς δὲ χειμαζομένων ἡμῶν τῇ ἑξῆς ἐκβολὴν ἐποιοῦντο,"
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Proverbia": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "26.10",
+    "form": "χειμάζεται",
+    "postag": "v3spim---",
+    "sentence": "πολλὰ χειμάζεται πᾶσα σάρξ ἀφρόνων ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Ignatius, Letters": 1
+  },
+  "representatives": [
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "7.2.3",
+    "form": "χειμαζόμενος",
+    "postag": "v-sppmmn-",
+    "sentence": "ὁ καιρὸς ἀπαιτεῖ σε, ὡς κυβερνῆται ἀνέμους καὶ ὡς χειμαζόμενος λιμένα, εἰς τὸ θεοῦ ἐπιτυχεῖν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1 χειμάζω    (< χεῖμα, winter cold)    [in LXX: Pr 26:10 (†) * ;]     to expose to winter cold, go into winter quarters.    to drive with storm; pass., to be driven with storm, tempest-tossed: Ac 27:18.†"
+}

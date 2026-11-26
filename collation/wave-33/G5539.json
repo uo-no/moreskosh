@@ -1,0 +1,103 @@
+{
+ "strong": "G5539",
+ "lemma": "χρήσιμον",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": "χρησιμος",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2TI 2:14",
+   "form": "χρήσιμον",
+   "morph": "A-ASN",
+   "gloss_en": "good",
+   "gloss_ja": "有益な",
+   "verse": "Ταῦτα ὑπομίμνῃσκε, διαμαρτυρόμενος ἐνώπιον τοῦ κυρίου, μὴ λογομαχεῖν, ἐπ’ οὐδὲν χρήσιμον, ἐπὶ καταστροφῇ τῶν ἀκουόντων."
+  }
+ ],
+ "lxx": {
+  "total": 6,
+  "works": {
+   "Genesis": 1,
+   "Tobias": 1,
+   "Sapientia Salomonis": 1,
+   "Ecclesiasticus sive Siracides": 1,
+   "Epistula Jeremiae": 1,
+   "Ezechiel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "37.26",
+    "form": "χρήσιμον",
+    "postag": "a-s---nn-",
+    "sentence": "τί χρήσιμον, ἐὰν ἀποκτείνωμεν τὸν ἀδελφὸν ἡμῶν καὶ κρύψωμεν τὸ αἷμα αὐτοῦ;"
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "6.4",
+    "form": "χρήσιμον",
+    "postag": "a-s---na-",
+    "sentence": "ἔστιν γὰρ εἰς φάρμακον χρήσιμον ἡ χολὴ καὶ ἡ καρδία καὶ τὸ ἧπαρ αὐτοῦ."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "13.11",
+    "form": "χρήσιμον",
+    "postag": "a-s---na-",
+    "sentence": "εἰ δὲ καί τις ὑλοτόμος τέκνων εὐκίνητον φυτὸν ἐκπρίσας περιέξυσεν εὐμαθῶς πάντα τὸν φλοιὸν αὐτοῦ καὶ τεχνησάμενος εὐπρεπῶς κατεσκεύασε χρήσιμον σκεῦος εἰς ὑπηρεσίαν ζωῆς, τὰ δὲ ἀποβλήματα τῆς ἐργασίας εἰς ἑτοιμασίαν τροφῆς ἀναλώσας ἐνεπλήσθη ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "10.4",
+    "form": "χρήσιμον",
+    "postag": "a-s---ma-",
+    "sentence": "ἐν χειρὶ Κυρίου ἐξουσία τῆς γῆς, καὶ τὸν χρήσιμον ἐγερεῖ εἰς καιρὸν ἐπ’ αὐτῆς."
+   },
+   {
+    "work_code": "LJE",
+    "work_ja": "エレミヤの手紙",
+    "work_src": "Epistula Jeremiae",
+    "ref": "58",
+    "form": "χρήσιμον",
+    "postag": "a-s---na-",
+    "sentence": "ὥστε κρεῖσσον εἶναι βασιλέα ἐπιδεικνύμενον τὴν ἑαυτοῦ ἀνδρείαν ἢ σκεῦος ἐν οἰκίᾳ χρήσιμον, ἐφ’ ᾣ χρήσεται ὁ κεκτημένος, ἢ οἱ ψευδεῖς θεοί ·"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "15.4",
+    "form": "χρήσιμον",
+    "postag": "a-s---nn-",
+    "sentence": "μὴ χρήσιμον ἔσται εἰς ἐργασίαν;"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Ignatius, Letters": 1
+  },
+  "representatives": [
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "1.4.2",
+    "form": "χρήσιμον",
+    "postag": "a-s---nn-",
+    "sentence": "χρήσιμον οὖν ἐστὶν ὑμᾶς ἐν ἀμώμῳ ἑνότητι εἶναι, ἵνα καὶ θεοῦ πάντοτε μετέχητε."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1 (KJV) χρήσιμος, -η, -ον    (< χράομαι),    [in LXX: Ge 37:26 בֶּצַע etc. ;]     useful: II Ti 2:14.†"
+}

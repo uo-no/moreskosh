@@ -1,0 +1,63 @@
+{
+ "strong": "G893",
+ "lemma": "ἀψευδής",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "TIT 1:2",
+   "form": "ἀψευδὴς",
+   "morph": "A-NSM",
+   "gloss_en": "cannot lie",
+   "gloss_ja": "偽りのない",
+   "verse": "ἐπ’ ἐλπίδι ζωῆς αἰωνίου, ἣν ἐπηγγείλατο ὁ ἀψευδὴς θεὸς πρὸ χρόνων αἰωνίων"
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Sapientia Salomonis": 1
+  },
+  "representatives": [
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "7.17",
+    "form": "ἀψευδῆ",
+    "postag": "a-s---fa-",
+    "sentence": "αὐτὸς γάρ μοι ἔδωκε τῶν ὄντων γνῶσιν ἀψευδῆ εἰδέναι σύστασιν κόσμου καὶ ἐνέργειαν στοιχείων, ἀρχὴν καὶ τέλος καὶ μεσότητα χρόνων, τροπῶν ἀλλαγὰς καὶ μεταβολὰς καιρῶν, ἐνιαυτῶν κύκλους καὶ ἀστέρων θέσεις, φύσεις ζῴων καὶ θυμοὺς θηρίων, πνευμάτων βίας καὶ διαλογισμοὺς ἀνθρώπων, διαφορὰς φυτῶν καὶ δυνάμεις ριζῶν, ὅσα τέ ἐστι κρυπτὰ καὶ ἐμφανῆ ἔγνων ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "Ignatius, Letters": 1,
+   "Martyrdom of Polycarp": 1
+  },
+  "representatives": [
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "4.8.2",
+    "form": "ἀψευδὲς",
+    "postag": "a-s---nn-",
+    "sentence": "τὸ ἀψευδὲς στόμα, ἐν ᾧ ὁ πατὴρ ἐλάλησεν ἀληθῶς."
+   },
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "14.2",
+    "form": "ἀψευδὴς",
+    "postag": "a-s---mn-",
+    "sentence": "ἐν οἶς προσδεχθείην ἐνώπιόν σου σήμερον ἐν θυσίᾳ πίονι καὶ προσδεκτῇ, καθὼς προητοίμασας καὶ προεφανέρωσας καὶ ἐπλήρωσας, ὁ ἀψευδὴς καὶ ἀληθινὸς θεός."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   ** ἀ-ψευδής, -ές    (< ψεῦδος),   [in LXX: Wi 7:17*;]    free from falsehood, truthful: Tit 1:2.†"
+}

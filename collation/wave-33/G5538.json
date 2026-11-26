@@ -1,0 +1,72 @@
+{
+ "strong": "G5538",
+ "lemma": "χρηματισμός",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ROM 11:4",
+   "form": "χρηματισμός",
+   "morph": "N-NSM",
+   "gloss_en": "divine response",
+   "gloss_ja": "神託",
+   "verse": "ἀλλὰ τί λέγει αὐτῷ ὁ χρηματισμός; Κατέλιπον ἐμαυτῷ ἑπτακισχιλίους ἄνδρας, οἵτινες οὐκ ἔκαμψαν γόνυ τῇ Βάαλ."
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Machabaeorum ii": 2,
+   "Proverbia": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "2.4",
+    "form": "χρηματισμοῦ",
+    "postag": "n-s---mg-",
+    "sentence": "ἦν δὲν ἐν τῇ γραφῇ ὡς τὴν σκηνὴν καὶ τὴν κιβωτὸν ἐκέλευσεν ὁ προφήτης χρηματισμοῦ γενηθέντος αὐτῷ συνακολουθεῖν ·"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "31.1",
+    "form": "χρηματισμός",
+    "postag": "n-s---mn-",
+    "sentence": "οἱ ἐμοὶ λόγοι εἴρηνται ὑπὸ Θεοῦ, βασιλέως χρηματισμός, ὃν ἐπαίδευσεν ἡ μήτηρ αὐτοῦ."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "11.17",
+    "form": "χρηματισμόν",
+    "postag": "n-s---ma-",
+    "sentence": "Ἰωάννης καὶ Ἀβεσσαλὼμ οἱ πεμφθέντες παρ’ ὑμῶν, ἐπιδόντες τὸν ὑπογεγραμμένον χρηματισμόν, ἠξίουν περὶ τῶν δι’ αὐτοῦ σημαινομένων."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "1 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "17.5",
+    "form": "χρηματισμοῦ",
+    "postag": "n-s---mg-",
+    "sentence": "ἀλλὰ κα-κἀκεῖνος δοξασθεὶς μεγάλως οὐκ ἐμεγαλορημόνησεν, ἀλλ’ εἶπεν ἐκ τῆς βάτου χρηματισμοῦ αὐτῷ διδομένου ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1 χρηματισμός, -οῦ), ὁ    (< χρηματίζω, q.v.),    [in LXX: Pr 24:60 (31:1) (מַשָּׂא), II Mac 2:4 11:17 * ;]    a divine response, an oracle: Ro 11:4 (Xen., Plat., al.).†"
+}

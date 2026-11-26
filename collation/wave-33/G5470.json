@@ -1,0 +1,183 @@
+{
+ "strong": "G5470",
+ "lemma": "χαλκοῦς",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": "χαλκος",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "REV 9:20",
+   "form": "χαλκᾶ",
+   "morph": "A-APN",
+   "gloss_en": "bronze",
+   "gloss_ja": "青銅の",
+   "verse": "Καὶ οἱ λοιποὶ τῶν ἀνθρώπων, οἳ οὐκ ἀπεκτάνθησαν ἐν ταῖς πληγαῖς ταύταις, οὐδὲ μετενόησαν ἐκ τῶν ἔργων τῶν χειρῶν αὐτῶν, ἵνα μὴ προσκυνήσουσιν τὰ δαιμόνια καὶ τὰ εἴδωλα τὰ χρυσᾶ καὶ τὰ ἀργυρᾶ καὶ τὰ χαλκᾶ καὶ τὰ λίθινα καὶ τὰ ξύλινα, ἃ οὔτε βλέπειν δύνανται οὔτε ἀκούειν οὔτε περιπατεῖν,"
+  }
+ ],
+ "lxx": {
+  "total": 64,
+  "works": {
+   "Genesis": 1,
+   "Exodus": 8,
+   "Numeri": 1,
+   "Deuteronomium": 2,
+   "Josue": 2,
+   "Regnorum i": 1,
+   "Regnorum ii": 2,
+   "Regnorum iii": 4,
+   "Regnorum iv": 2,
+   "Paralipomenon i sive Chronicon i": 6,
+   "Paralipomenon ii sive Chronicon ii": 6,
+   "Esdras i": 1,
+   "Esdras ii": 1,
+   "Job": 2,
+   "Ecclesiasticus sive Siracides": 1,
+   "Isaias": 2,
+   "Jeremias": 3,
+   "Threni seu Lamentationes": 1,
+   "Epistula Jeremiae": 1,
+   "Ezechiel": 7,
+   "Daniel": 9,
+   "Bel et Draco": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "2.39",
+    "form": "χαλκός",
+    "postag": "n-s---mn-",
+    "sentence": "καὶ ὀπίσω σου ἀναστήσεται βασιλεία ἑτέρα ἥττων σου καὶ βασιλεία τρίτη, ἥτις ἐστὶν ὁ χαλκός, ἣ κυριεύσει πάσης τῆς γῆς."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "39.7",
+    "form": "χαλκὸς",
+    "postag": "n-s---mn-",
+    "sentence": "καὶ ὁ χαλκὸς τοῦ ἀφαιρέματος ἑβδομήκοντα τάλαντα καὶ χίλιοι πεντακόσιοι σίκλοι."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "9.2",
+    "form": "χαλκοῦ",
+    "postag": "n-s---mg-",
+    "sentence": "καὶ εἰσήλθοσαν καὶ ἔστησαν ἐχόμενοι τοῦ θυσιαστηρίου τοῦ χαλκοῦ."
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "18.8",
+    "form": "χαλκὸν",
+    "postag": "n-s---ma-",
+    "sentence": "καὶ ἐκ τῆς μεταβηχὰς καὶ ἐκ τῶν ἐκλεκτῶν πόλεων τῶν Ἀδρααζὰρ ἔλαβε Δαυὶδ χαλκὸν πολὺν σφόδρα ·"
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "4.9",
+    "form": "χαλκῷ",
+    "postag": "n-s---md-",
+    "sentence": "καὶ ἐποίησε τὴν αὐλὴν τῶν ἱερέων καὶ τὴν αὐλὴν τὴν μεγάλην καὶ θύρας τῇ αὐλῇ καὶ θυρώματα αὐτῶν κατακεχαλκωμένα χαλκῷ ·"
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "7.32",
+    "form": "χαλκοῦ",
+    "postag": "n-s---mg-",
+    "sentence": "οὐκ ἦν τέρμα τῶν σταθμῶν τοῦ χαλκοῦ."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "52.20",
+    "form": "χαλκοῦ",
+    "postag": "n-s---mg-",
+    "sentence": "οὐκ ἦν σταθμὸς τοῦ χαλκοῦ αὐτῶν."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "8.9",
+    "form": "χαλκόν",
+    "postag": "n-s---ma-",
+    "sentence": "γῆ, ἧς οἱ λίθοι σίδηρος, καὶ ἐκ τῶν ὀρέων αὐτῆς μεταλλεύσεις χαλκόν ·"
+   },
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "6.19",
+    "form": "χαλκὸς",
+    "postag": "n-s---mn-",
+    "sentence": "καὶ πᾶν ἀργύριον ἢ χρυσίον ἢ χαλκὸς ἢ σίδηρος ἅγιον ἔσται τῷ Κυρίῳ, εἰς θησαυρὸν Κυρίου εἰσενεχθήσεται."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "8.8",
+    "form": "χαλκὸν",
+    "postag": "n-s---ma-",
+    "sentence": "καὶ ἐκ τῆς Μασβὰκ καὶ ἐκ τῶν ἐκλεκτῶν πόλεων τοῦ Ἀδρααζὰρ ἔλαβεν ὁ βασιλεὺς Δαυὶδ χαλκὸν πολὺν σφόδρα ·"
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "25.13",
+    "form": "χαλκὸν",
+    "postag": "n-s---ma-",
+    "sentence": "καὶ ᾖραν τὸν χαλκὸν αὐτῶν εἰς Βαβυλῶνα."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "41.19",
+    "form": "χαλκὸν",
+    "postag": "n-s---ma-",
+    "sentence": "ἥγηται μὲν γὰρ σίδηρον ἄχυρα, χαλκὸν δὲ ὥσπερ ξύλον σαθρόν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "2 Clement": 1,
+   "To Diognetus": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "1.6",
+    "form": "χαλκόν",
+    "postag": "n-s---ma-",
+    "sentence": "πηροὶ ὄντες τῇ διανοίᾳ, προσκυνοῦντες λίθους καὶ ξύλα καὶ χρυσὸν καὶ ἄργυρον καὶ χαλκόν, ἔργα ἀνθρώπων ·"
+   },
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "2",
+    "form": "χαλκός",
+    "postag": "n-s---mn-",
+    "sentence": "οὐχ ὁ μέν τις λίθος ἐστίν, ὅμοιος τῷ πατουμένῳ, ὁ δ’ ἐστὶ χαλκός, οὐ κρείσσων τῶν εἰς τὴν χρῆσιν ἡμῖν κεχαλκευμένων σκευῶν, ὁ δὲ ξύλον, ἤδη καὶ σεσηπός, ὁ δὲ ἄργυρος, χρῄζων ἀνθρώπου τοῦ φυλάξαντος, ἵνα μὴ κλαπῇ, ὁ δὲ σίδηρος, ὑπὸ ἰοῦ διεφθαρμένος, ὁ δὲ ὄστρακον, οὐδὲν τοῦ κατεσκευασμένου πρὸς τὴν ἀτιμοτάτην ὑπηρεσίαν εὐπρεπέστερον;"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1 (KJV) χάλκεος, -έα, -εον (-οῦς, -ῆ, -οῦν)     (< χαλκός),    [in LXX chiefly for נְחֹשֶׁת ;]     brazen (i.e. of copper): Re 9:20.†"
+}

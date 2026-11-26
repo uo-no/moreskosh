@@ -1,0 +1,50 @@
+{
+ "strong": "G55",
+ "lemma": "ἁγνῶς",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "PHP 1:17",
+   "form": "ἁγνῶς",
+   "morph": "ADV",
+   "gloss_en": "sincerely",
+   "gloss_ja": "純粋に",
+   "verse": "οἱ δὲ ἐξ ἐριθείας τὸν Χριστὸν καταγγέλλουσιν, οὐχ ἁγνῶς, οἰόμενοι θλῖψιν ἐγείρειν τοῖς δεσμοῖς μου."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Regnorum ii": 2
+  },
+  "representatives": [
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "10.3",
+    "form": "Ἀννὼν",
+    "postag": "n-s---ma-",
+    "sentence": "καὶ εἶπον οἱ ἄρχοντες υἱῶν Ἀμμὼν πρὸς Ἀννὼν τὸν κύριον αὐτῶν ·"
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "10.2",
+    "form": "Ἀννὼν",
+    "postag": "n-s---mg-",
+    "sentence": "ποιήσω ἔλεος μετὰ Ἀννὼν υἱοῦ Ναάς, ὃν τρόπον ἐποίησεν ὁ πατὴρ αὐτοῦ μετ’ αὐτοῦ ἔλεος ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   * ἁγνῶς    (< ἁγνός),    adv.,   purely, with pure motives: Phl 1:17.†"
+}

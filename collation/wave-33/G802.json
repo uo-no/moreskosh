@@ -1,0 +1,68 @@
+{
+ "strong": "G802",
+ "lemma": "ἀσύνθετος",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ROM 1:31",
+   "form": "ἀσυνθέτους",
+   "morph": "A-APM",
+   "gloss_en": "faithless",
+   "gloss_ja": "誓いを破る",
+   "verse": "ἀσυνέτους, ἀσυνθέτους, ἀστόργους, ἀνελεήμονας·"
+  }
+ ],
+ "lxx": {
+  "total": 4,
+  "works": {
+   "Jeremias": 4
+  },
+  "representatives": [
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "3.7",
+    "form": "ἀσύνθετος",
+    "postag": "a-s---fn-",
+    "sentence": "καὶ εἶδε τὴν ἀσυνθεσίαν αὐτῆς ἡ ἀσύνθετος Ἰούδα."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "3.11",
+    "form": "ἀσυνθέτου",
+    "postag": "a-s---fg-",
+    "sentence": "ἐδικαίωσε τὴν ψυχὴν αὐτοῦ Ἰσραὴλ ἀπὸ τῆς ἀσυνθέτου Ἰούδα."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "3.8",
+    "form": "ἀσύνθετος",
+    "postag": "a-s---fn-",
+    "sentence": "καὶ οὐκ ἐφοβήθη ἡ ἀσύνθετος Ἰούδα καὶ ἐπορεύθη καὶ ἐπόρνευσε καὶ αὐτή."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "3.10",
+    "form": "ἀσύνθετος",
+    "postag": "a-s---fn-",
+    "sentence": "καὶ ἐν πᾶσι τούτοις οὐκ ἀπεστράφη πρός με ἡ ἀσύνθετος Ἰούδα ἐξ ὅλης τῆς καρδίας αὐτῆς, ἀλλ’ ἐπὶ ψεύδει."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ἀ-σύν-θετος, -ον    (< συντίθεμαι; v. M, Pr., 222; MM, s.v.),   [in LXX: Je 3:7, 8, 10, 11 (בּגד)*;]    false to engagements, not keeping covenant, faithless (MM, s.v.): Ro 1:31.†"
+}

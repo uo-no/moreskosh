@@ -1,0 +1,79 @@
+{
+ "strong": "G64",
+ "lemma": "ἀγρεύω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MRK 12:13",
+   "form": "ἀγρεύσωσιν",
+   "morph": "V-AAS-3P",
+   "gloss_en": "trap",
+   "gloss_ja": "捕らえる",
+   "verse": "Καὶ ἀποστέλλουσιν πρὸς αὐτόν τινας τῶν Φαρισαίων καὶ τῶν Ἡρῳδιανῶν ἵνα αὐτὸν ἀγρεύσωσιν λόγῳ."
+  }
+ ],
+ "lxx": {
+  "total": 5,
+  "works": {
+   "Proverbia": 3,
+   "Job": 1,
+   "Osee": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "6.26",
+    "form": "ἀγρεύει",
+    "postag": "v3spia---",
+    "sentence": "τιμὴ γὰρ πόρνης ὅση καὶ ἑνὸς ἄρτου, γυνὴ δὲ ἀνδρῶν τιμίας ψυχὰς ἀγρεύει."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "10.16",
+    "form": "ἀγρεύομαι",
+    "postag": "v1spim---",
+    "sentence": "ἀγρεύομαι γὰρ ὥσπερ λέων εἰς σφαγήν, πάλιν γὰρ μεταβαλὼν δεινῶς με ὀλέκεις ἐπανακαινίζων ἐπ’ ἐμὲ τὴν ἔτασίν μου ·"
+   },
+   {
+    "work_code": "HOS",
+    "work_ja": "ホセア書",
+    "work_src": "Osee",
+    "ref": "5.2",
+    "form": "ἀγρεύοντες",
+    "postag": "v-pppamn-",
+    "sentence": "ὅτι παγὶς ἐγενήθητε τῇ σκοπιᾷ καὶ ὡς δίκτυον ἐκτεταμένον ἐπὶ τὸ Ἰταβύριον, ὃ οἱ ἀγρεύοντες τὴν θήραν κατέπηξαν."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "5.22",
+    "form": "ἀγρεύουσι",
+    "postag": "v3ppia---",
+    "sentence": "παρονομίαι ἄνδρα ἀγρεύουσι, σειραῖς δὲ τῶν ἑαυτοῦ ἁμαρτιῶν ἕκαστος σφίγγεται ·"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "6.25",
+    "form": "ἀγρευθῇς",
+    "postag": "v2sasp---",
+    "sentence": "μή σε νικήσῃ κάλλους ἐπιθυμία, μη-δὲ ἀγρευθῇς σοῖς ὀφθαλμοῖς, μη-δὲ συναρπασθῇς ἀπὸ τῶν αὐτῆς βλεφάρων ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   † ἀγρεύω (ἄγρα),    [in LXX: Jb 10:16, Pr 5:22  6:25, 26, Ho 5:2 (לקח ni., שׁחט, etc.)*;]    to catch or take by hunting or fishing; metaph., Mk 12:13.†"
+}

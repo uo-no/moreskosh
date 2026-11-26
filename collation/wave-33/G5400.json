@@ -1,0 +1,41 @@
+{
+ "strong": "G5400",
+ "lemma": "φόβητρον",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 21:11",
+   "form": "φόβητρά",
+   "morph": "N-NPN",
+   "gloss_en": "terrors",
+   "gloss_ja": "恐ろしいもの",
+   "verse": "σεισμοί τε μεγάλοι καὶ κατὰ τόπους λιμοὶ καὶ λοιμοὶ ἔσονται, φόβητρά τε καὶ σημεῖα ἀπ’ οὐρανοῦ μεγάλα ἔσται."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Isaias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "19.17",
+    "form": "φόβητρον",
+    "postag": "n-s---na-",
+    "sentence": "καὶ ἔσται ἡ χώρα τῶν Ἰουδαίων τοῖς Αἰγυπτίοις εἰς φόβητρον ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1 φόβητρον (LTr., WH, -θρον), -ου, τό     (< φοβέω),    [in LXX: Is 19:17 (חָגָא) * ;]     that which causes fright, a terror: pl. (as always, exc. Is, l.c.), Lk 21:11 (Hipp., Plat.).†"
+}

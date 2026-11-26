@@ -1,0 +1,159 @@
+{
+ "strong": "G5431",
+ "lemma": "φροντίζω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "TIT 3:8",
+   "form": "φροντίζωσιν",
+   "morph": "V-PAS-3P",
+   "gloss_en": "careful",
+   "gloss_ja": "心がける",
+   "verse": "Πιστὸς ὁ λόγος, καὶ περὶ τούτων βούλομαί σε διαβεβαιοῦσθαι, ἵνα φροντίζωσιν καλῶν ἔργων προΐστασθαι οἱ πεπιστευκότες θεῷ. ταῦτά ἐστιν καλὰ καὶ ὠφέλιμα τοῖς ἀνθρώποις·"
+  }
+ ],
+ "lxx": {
+  "total": 16,
+  "works": {
+   "Regnorum i": 1,
+   "Machabaeorum i": 1,
+   "Machabaeorum ii": 5,
+   "Psalmi": 1,
+   "Proverbia": 1,
+   "Job": 2,
+   "Sapientia Salomonis": 1,
+   "Ecclesiasticus sive Siracides": 4
+  },
+  "representatives": [
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "11.15",
+    "form": "φροντίζων",
+    "postag": "v-sppamn-",
+    "sentence": "ἐνέπνευσε δὲ ὁ Μακκαβαῖος ἐπὶ πᾶσιν, οἷς ὁ Λυσίας παρεκάλει, τοῦ συμφέροντος φροντίζων ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "8.13",
+    "form": "φρόντιζε",
+    "postag": "v2spma---",
+    "sentence": "καὶ ἐὰν ἐγγυήσῃ, ὡς ἀποτίσων φρόντιζε."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "23.14",
+    "form": "ἐφρόντισα",
+    "postag": "v1saia---",
+    "sentence": "διὰ τοῦτο ἐπ’ αὐτῷ ἐσπούδακα, νουθετούμενος δὲ ἐφρόντισα αὐτοῦ."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "9.5",
+    "form": "φροντίζῃ",
+    "postag": "v3spsa---",
+    "sentence": "δεῦρο καὶ ἀποστρέψωμεν, μὴ ἀνεὶς ὁ πατήρ μου τὰς ὄνους φροντίζῃ τὰ περὶ ἡμῶν ·"
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "16.14",
+    "form": "φροντίζων",
+    "postag": "v-sppamn-",
+    "sentence": "Σίμων δὲ ἦν ἐφοδεύων τὰς πόλεις τὰς ἐν τῇ χώρᾳ καὶ φροντίζων τῆς ἐπιμελείας αὐτῶν ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "39.18",
+    "form": "φροντιεῖ",
+    "postag": "v3sfia---",
+    "sentence": "ἐγὼ δὲ πτωχός εἰμι καὶ πένης, Κύριος φροντιεῖ μου."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "31b.21",
+    "form": "φροντίζει",
+    "postag": "v3spia---",
+    "sentence": "οὐ φροντίζει τῶν ἐν οἴκῳ ὁ ἀνὴρ αὐτῆς, ὅταν που χρονίζῃ ·"
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "8.17",
+    "form": "φροντίσας",
+    "postag": "v-sapamn-",
+    "sentence": "ταῦτα λογισάμενος ἐν ἐμαυτῷ καὶ φροντίσας ἐν καρδίᾳ μου ὅτι ἐστιν ἀθανασία ἐν συγγενείᾳ σοφίας καὶ ἐν φιλίᾳ αὐτῆς τέρψις ἀγαθὴ καὶ ἐν πόνοις χειρῶν αὐτῆς πλοῦτος ἀνεκλιπὴς καὶ ἐν συγγυμνασίᾳ ὁμιλίας αὐτῆς φρόνησις καὶ εὔκλεια ἐν κοινωνίᾳ λόγων αὐτῆς, περιῄειν ζητῶν ὅπως λάβω αὐτὴν εἰς ἐμαυτόν."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "9.21",
+    "form": "φροντίσαι",
+    "postag": "v--ana---",
+    "sentence": "ἐπανάγων ἐκ τῶν περὶ τὴν Περσίδα τόπων καὶ περιπεσὼν ἀσθενείᾳ δυσχέρειαν ἐχούσῃ, ἀναγκαῖον ἡγησάμην φροντίσαι τῆς κοινῆς πάντων ἀσφαλείας."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "32.1",
+    "form": "φρόντισον",
+    "postag": "v2sama---",
+    "sentence": "γίνου ἐν αὐτοῖς ὡς εἷς ἐξ αὐτῶν, φρόντισον αὐτῶν καὶ οὕτω κάθισον."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "3.25",
+    "form": "ἐφρόντισα",
+    "postag": "v1saia---",
+    "sentence": "φόβος γάρ, ὅν ἐφρόντισα, ἦλθέ μοι, καὶ ὃν ἐδεδοίκειν, συνήντησέ μοι, οὔ-τε εἰρήνευσα οὔ-τε ἡσύχασα οὔ-τε ἀνεπαυσάμην, ἦλθε δέ μοι ὀργή."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "2.29",
+    "form": "φροντιστέον",
+    "postag": "a-s---nn-",
+    "sentence": "καθάπερ γὰρ τῆς καινῆς οἰκίας ἀρχιτέκτονι τῆς ὅλης καταβολῆς φροντιστέον, τῷ δὲ ἐγκαίειν καὶ ζωγραφεῖν ἐπιχειροῦντι τὰ ἐπιτήδεια πρὸς διακόσμησιν ἐξεταστέον, οὕτω δοκῶ καὶ ἐπὶ ἡμῶν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Ignatius, Letters": 1
+  },
+  "representatives": [
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "7.1.2",
+    "form": "φρόντιζε",
+    "postag": "v2spma---",
+    "sentence": "τῆς ἑνώσεως φρόντιζε, ἧς οὐδὲν ἄμεινον, πάντας βάσταζε, ὡς καὶ σὲ ὁ κύριος ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1 φροντίζω    (< φροντίς, thought),    [in LXX: I Ki 9:5 (דָּאַג), Ps 39 (40):17 (חָשַׁב), al. ;]     to give heed, take thought (in cl. usually absol., c acc., c. gen.), c. inf., Tit 3:8 (v. Bl., § 69, 4; M, Pr., 206 f.).†"
+}

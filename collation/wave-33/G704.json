@@ -1,0 +1,167 @@
+{
+ "strong": "G704",
+ "lemma": "ἀρήν",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 10:3",
+   "form": "ἄρνας",
+   "morph": "N-APM",
+   "gloss_en": "lambs",
+   "gloss_ja": "子羊",
+   "verse": "ὑπάγετε· ἰδοὺ ἀποστέλλω ὑμᾶς ὡς ἄρνας ἐν μέσῳ λύκων."
+  }
+ ],
+ "lxx": {
+  "total": 33,
+  "works": {
+   "Exodus": 3,
+   "Leviticus": 2,
+   "Deuteronomium": 2,
+   "Regnorum i": 1,
+   "Regnorum ii": 1,
+   "Regnorum iii": 3,
+   "Regnorum iv": 1,
+   "Paralipomenon i sive Chronicon i": 1,
+   "Esdras i": 5,
+   "Odae": 2,
+   "Proverbia": 1,
+   "Ecclesiasticus sive Siracides": 1,
+   "Michaeas": 1,
+   "Isaias": 6,
+   "Jeremias": 1,
+   "Daniel": 2
+  },
+  "representatives": [
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "5.17",
+    "form": "ἄρνες",
+    "postag": "n-p---mn-",
+    "sentence": "καὶ βοσκηθήσονται οἱ διηρπασμένοι ὡς ταῦροι, καὶ τὰς ἐρήμους τῶν ἀπειλημμένων ἄρνες φάγονται."
+   },
+   {
+    "work_code": "1ES",
+    "work_ja": "エズラ記（ギリシャ語）",
+    "work_src": "Esdras i",
+    "ref": "1.7",
+    "form": "ἀρνῶν",
+    "postag": "n-p---mg-",
+    "sentence": "καὶ ἐδωρήσατο Ἰωσίας τῷ λαῷ τῷ εὑρεθέντι ἀρνῶν καὶ ἐρίφων τριάκοντα χιλιάδας, μόσχους τρισχιλίους ·"
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "23.19",
+    "form": "ἄρνα",
+    "postag": "n-s---ma-",
+    "sentence": "οὐχ ἑψήσεις ἄρνα ἐν γάλακτι μητρὸς αὐτοῦ."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "1.9",
+    "form": "ἄρνας",
+    "postag": "n-p---ma-",
+    "sentence": "καὶ ἐθυσίασεν Ἀδωνίας πρόβατα καὶ μόσχους καὶ ἄρνας παρὰ τὸν λίθον τοῦ Ζωελεθί, ὃς ἦν ἐχόμενα τῆς Ῥωγήλ, καὶ ἐκάλεσε πάντας τοὺς ἀδελφοὺς αὐτοῦ καὶ πάντας τοὺς ἁδροὺς Ἰούδα παῖδας τοῦ βασιλέως ·"
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "1.10",
+    "form": "ἀρνῶν",
+    "postag": "n-p---mg-",
+    "sentence": "ἐὰν δὲ ἀπὸ τῶν προβάτων τὸ δῶρον αὐτοῦ τῷ Κυρίῳ, ἀπό τε τῶν ἀρνῶν καὶ τῶν ἐρίφων, εἰς ὁλοκαυτώματα, ἄρσεν ἄμωμον προσάξει αὐτὸ καὶ ἐπιθήσει τὴν χεῖρα ἐπὶ τὴν κεφαλὴν αὐτοῦ."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "14.21",
+    "form": "ἄρνα",
+    "postag": "n-s---ma-",
+    "sentence": "οὐχ ἑψήσεις ἄρνα ἐν γάλακτι μητρὸς αὐτοῦ."
+   },
+   {
+    "work_code": "ODE",
+    "work_ja": "頌歌（オード）",
+    "work_src": "Odae",
+    "ref": "10.39",
+    "form": "ἀρνῶν",
+    "postag": "n-p---mg-",
+    "sentence": "ἀλλ’ ἐν ψυχῇ συντετριμμένῃ καὶ πνεύματι ταπεινώσεως προς δεχθείημεν ὡς ἐν ὁλοκαυτώμασιν κριῶν καὶ ταύρων καὶ ὡς ἐν μυριάσιν ἀρνῶν πιόνων ·"
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "3.39",
+    "form": "ἀρνῶν",
+    "postag": "n-p---mg-",
+    "sentence": "ἀλλ’ ἐν ψυχῇ συντετριμμένῃ καὶ πνεύματι τεταπεινωμένῳ προσδεχθείημεν ὡς ἐν ὁλοκαυτώμασι κριῶν καὶ ταύρων καὶ ὡς ἐν μυριάσιν ἀρνῶν πιόνων ·"
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "7.9",
+    "form": "ἄρνα",
+    "postag": "n-s---ma-",
+    "sentence": "καὶ ἔλαβε Σαμουὴλ ἄρνα γαλαθηνὸν ἕνα, καὶ ἀνήνεγκεν αὐτὸν ὁλοκαύτωσιν σὺν παντὶ τῷ λαῷ τῷ Κυρίῳ."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "6.13",
+    "form": "ἄρνες",
+    "postag": "n-p---mn-",
+    "sentence": "καὶ ἦσαν μετ’ αὐτοῦ αἴροντες τὴν κιβωτὸν ἑπτὰ χοροὶ καὶ θῦμα μόσχος καὶ ἄρνες."
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "3.4",
+    "form": "ἀρνῶν",
+    "postag": "n-p---mg-",
+    "sentence": "καὶ Μωσὰ βασιλεὺς Μωὰβ ἦν νωκήδ, καὶ ἐπέστρεφε τῷ βασιλεῖ Ἰσραὴλ ἐν τῇ ἐπαναστάσει ἑκατὸν χιλιάδας ἀρνῶν καὶ ἑκατὸν χιλιάδας κριῶν ἐπὶ πόκων."
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "29.21",
+    "form": "ἄρνας",
+    "postag": "n-p---ma-",
+    "sentence": "καὶ ἔθυσε Δαυὶδ τῷ Κυρίῳ θυσίας καὶ ἀνήνεγκεν ὁλοκαυτώματα τῷ Θεῷ τῇ ἐπαύριον τῆς πρώτης ἡμέρας μόσχους χιλίους, κριοὺς χιλίους, ἄρνας χιλίους καὶ τὰς σπονδὰς αὐτῶν καὶ θυσίας εἰς πλῆθος παντὶ τῷ Ἰσραήλ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Barnabas": 1
+  },
+  "representatives": [
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "2.5",
+    "form": "ἀρνῶν",
+    "postag": "n-p---mg-",
+    "sentence": "πλήρης εἰμὶ ὁλοκαυτωμάτων, καὶ στέαρ ἀρνῶν καὶ αἷμα ταύρων καὶ τράγων οὐ βούλομαι, οὐ-δ’ ἂν ἔρχησθε ὀφθῆναί μοι, τίς γὰρ ἐξεζήτησεν ταῦτα ἐκ τῶν χειρῶν ὑμῶν;"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   ἀρήν, ἀρνός, ὁ    (nom, not in use, exc. in early times: v. MM, s.v.),   [in LXX for מְרִיא, כֶּבֶשׂ, etc.;]      a lamb: Lk 10:3.†"
+}

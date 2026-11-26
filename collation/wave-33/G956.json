@@ -1,0 +1,153 @@
+{
+ "strong": "G956",
+ "lemma": "βέλος",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "EPH 6:16",
+   "form": "βέλη",
+   "morph": "N-APN",
+   "gloss_en": "arrows",
+   "gloss_ja": "矢",
+   "verse": "ἐν πᾶσιν ἀναλαβόντες τὸν θυρεὸν τῆς πίστεως, ἐν ᾧ δυνήσεσθε πάντα τὰ βέλη τοῦ πονηροῦ πεπυρωμένα σβέσαι·"
+  }
+ ],
+ "lxx": {
+  "total": 42,
+  "works": {
+   "Deuteronomium": 2,
+   "Regnorum ii": 2,
+   "Regnorum iv": 6,
+   "Paralipomenon ii sive Chronicon ii": 1,
+   "Machabaeorum i": 1,
+   "Machabaeorum ii": 2,
+   "Psalmi": 12,
+   "Odae": 2,
+   "Job": 5,
+   "Sapientia Salomonis": 1,
+   "Ecclesiasticus sive Siracides": 2,
+   "Joel": 1,
+   "Isaias": 4,
+   "Threni seu Lamentationes": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "126.4",
+    "form": "βέλη",
+    "postag": "n-p---nn-",
+    "sentence": "ὡσεὶ βέλη ἐν χειρὶ δυνατοῦ, οὕτως οἱ υἱοὶ τῶν ἐκτετιναγμένων."
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "13.17",
+    "form": "βέλος",
+    "postag": "n-s---nn-",
+    "sentence": "βέλος σωτηρίας τῷ Κυρίῳ καὶ βέλος σωτηρίας ἐν Συρίᾳ, καὶ πατάξεις τὴν Συρίαν ἐν Ἀφὲκ ἕως συντελείας."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "30.13",
+    "form": "βέλεσιν",
+    "postag": "n-p---nd-",
+    "sentence": "βέλεσιν αὐτοῦ κατηκόντισέ με, κέχρηται δέ μοι ὡς βούλεται, ἐν ὀδύναις πέφυρμαι."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "7.24",
+    "form": "βέλους",
+    "postag": "n-s---ng-",
+    "sentence": "μετὰ βέλους καὶ τοξεύματος εἰσελεύσονται ἐκεῖ, ὅτι χέρσος καὶ ἄκανθα ἔσται πᾶσα ἡ γῆ."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "32.23",
+    "form": "βέλη",
+    "postag": "n-p---na-",
+    "sentence": "συνάξω εἰς αὐτοὺς κακὰ καὶ τὰ βέλη μου συντελέσω εἰς αὐτούς."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "18.14",
+    "form": "βέλη",
+    "postag": "n-p---na-",
+    "sentence": "καὶ ἔλαβεν Ἰωὰβ τρία βέλη ἐν τῇ χειρὶ αὐτοῦ καὶ ἐνέπηξεν αὐτὰ ἐν τῇ καρδίᾳ Ἀβεσσαλὼμ ἔτι αὐτοῦ ζῶντος ἐν τῇ καρδίᾳ τῆς δρυός."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "12.27",
+    "form": "βελῶν",
+    "postag": "n-p---ng-",
+    "sentence": "νεανίαι δὲ πρὸ τῶν τειχῶν καθεστῶτες ρωμαλέοι ἀπεμάχοντο εὐρώστως, ἔνθα δὲ ὀργάνων καὶ βελῶν πολλαὶ παραθέσεις ὑπῆρχον ἐπικαλεσάμενοι δὲ τὸν Δυνάστην τὸν μετὰ κράτους συντρίβοντα τὰς τῶν πολεμίων ἀλκάς, ἔλαβον τὴν πόλιν ὑποχείριον καὶ κατέστρωσαν τῶν ἔνδον εἰς μυριάδας δύο καὶ πεντακισχιλίους."
+   },
+   {
+    "work_code": "ODE",
+    "work_ja": "頌歌（オード）",
+    "work_src": "Odae",
+    "ref": "2.23",
+    "form": "βέλη",
+    "postag": "n-p---na-",
+    "sentence": "συνάξω εἰς αὐτοὺς κακὰ καὶ τὰ βέλη μου συντελέσω εἰς αὐτούς."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "19.12",
+    "form": "βέλος",
+    "postag": "n-s---nn-",
+    "sentence": "βέλος πεπηγὸς ἐν μηρῷ σαρκός, οὕτως λόγος ἐν κοιλίᾳ μωροῦ."
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "26.15",
+    "form": "βέλεσι",
+    "postag": "n-p---nd-",
+    "sentence": "καὶ ἐποίησεν ἐν Ἱερουσαλὴμ μηχανὰς μεμηχανευμένας λογιστοῦ τοῦ εἶναι ἐπὶ τῶν πύργων καὶ ἐπὶ τῶν γωνιῶν βάλλειν βέλεσι καὶ λίθοις μεγάλοις ·"
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "6.51",
+    "form": "βέλη",
+    "postag": "n-p---na-",
+    "sentence": "καὶ παρενέβαλεν ἐπὶ τὸ ἁγίασμα ἡμέρας πολλὰς καὶ ἔστησεν ἐκεῖ βελοστάσεις καὶ μηχανὰς καὶ πυροβόλα καὶ λιθόβολα καὶ σκορπίδια εἰς τὸ βάλλεσθαι βέλη καὶ σφενδόνας."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "5.12",
+    "form": "βέλους",
+    "postag": "n-s---ng-",
+    "sentence": "ἢ ὡς βέλους βληθέντος ἐπὶ σκοπόν, τμηθεὶς ὁ ἀὴρ εὐθέως εἰς ἑαυτὸν ἀνελύθη ὡς ἀγνοῆσαι τὴν δίοδον αὐτοῦ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   βέλος, -εος, τό    (< βάλλω),   [in LXX chiefly for חֵץ;]    a missile, a dart: Eph 6:16.†"
+}

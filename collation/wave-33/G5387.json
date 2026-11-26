@@ -1,0 +1,51 @@
+{
+ "strong": "G5387",
+ "lemma": "φιλόστοργος",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ROM 12:10",
+   "form": "φιλόστοργοι",
+   "morph": "A-NPM",
+   "gloss_en": "devoted",
+   "gloss_ja": "深く愛する",
+   "verse": "τῇ φιλαδελφίᾳ εἰς ἀλλήλους φιλόστοργοι, τῇ τιμῇ ἀλλήλους προηγούμενοι,"
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Machabaeorum ii": 1,
+   "Machabaeorum iv": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "9.21",
+    "form": "φιλοστόργως",
+    "postag": "d--------",
+    "sentence": "εἰ ἔρρωσθε καὶ τὰ τέκνα καὶ τὰ ἴδια κατὰ γνώμην ἐστὶν ὑμῖν, εὔχομαι μὲν τῷ Θεῷ τὴν μεγίστην χάριν, εἰς οὐρανὸν τὴν ἐλπίδα ἔχων, κα-κἀγὼ δὲ ἀσθενῶς διεκείμην, ὑμῶν τὴν τιμὴν καὶ τὴν εὔνοιαν ἂν ἐμνημόνευον φιλοστόργως."
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "15.13",
+    "form": "φιλόστοργε",
+    "postag": "a-s---fv-",
+    "sentence": "ὦ φύσις ἱερὰ καὶ φίλτρα γονέων καὶ γένεσις φιλόστοργε καὶ τροφεῖα καὶ μητέρων ἀδάμαστα πάθη."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1 ** φιλόστοργος, -ον    (< στοργή, family affection),    [in LXX: IV Mac 15:13 * ;]    tenderly loving, affectionate (Xen., Plut., al.): of Christians, Ro 12:10.†"
+}

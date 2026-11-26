@@ -1,0 +1,60 @@
+{
+ "strong": "G5582",
+ "lemma": "ψεῦσμα",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ROM 3:7",
+   "form": "ψεύσματι",
+   "morph": "N-DSN",
+   "gloss_en": "lie",
+   "gloss_ja": "偽り",
+   "verse": "εἰ δὲ ἡ ἀλήθεια τοῦ θεοῦ ἐν τῷ ἐμῷ ψεύσματι ἐπερίσσευσεν εἰς τὴν δόξαν αὐτοῦ, τί ἔτι κἀγὼ ὡς ἁμαρτωλὸς κρίνομαι,"
+  }
+ ],
+ "lxx": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "fathers": {
+  "total": 3,
+  "works": {
+   "Didache": 1,
+   "Hermas, Pastor": 2
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "8.1.5",
+    "form": "ψεύσματος",
+    "postag": "n-s---ng-",
+    "sentence": "καὶ ὃς ἂν ἀκούσῃ τὴν ἐντολὴν ταύτην καὶ ἀπέξεται τοῦ πονηροτάτου ψεύσματος ζήσεται τῷ θεῷ."
+   },
+   {
+    "work_code": "DID",
+    "work_ja": "ディダケー",
+    "work_src": "Didache",
+    "ref": "3.5",
+    "form": "ψεῦσμα",
+    "postag": "n-s---nn-",
+    "sentence": "ἐπειδὴ ὁδηγεῖ τὸ ψεῦσμα εἰς τὴν κλοπήν, μη-δὲ φιλάργυρος μη-δὲ κενόδοξος ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "13.1.3",
+    "form": "ψεύσματος",
+    "postag": "n-s---ng-",
+    "sentence": "ἀπὸ μοιχείας καὶ πορνείας, ἀπὸ μεθύσματος ἀνομίας, ἀπὸ τρυφῆς πονηρᾶς, ἀπὸ ἐδεσμάτων πολλῶν καὶ πολυτελείας πλούτου καὶ καυχήσεως καὶ ὑψηλοφροσύνης καὶ ὑπερηφανίας καὶ ἀπὸ ψεύσματος καὶ καταλαλιᾶς καὶ ὑποκρίσεως, μνησικακίας καὶ πάσης βλασφημίας."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1 ** ψεῦσμα, -τος, τό    (< ψεύδω),    [in Aq., Th.: Jb 34:6, Pr 23:3; in Sm.: Jb 13:4, al. ;]    a lie, falsehood: Ro 3:7 (Plat., Plut. al.).†"
+}

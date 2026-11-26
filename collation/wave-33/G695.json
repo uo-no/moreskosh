@@ -1,0 +1,63 @@
+{
+ "strong": "G695",
+ "lemma": "ἀργυροκόπος",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 19:24",
+   "form": "ἀργυροκόπος",
+   "morph": "N-NSM",
+   "gloss_en": "silversmith",
+   "gloss_ja": "銀細工師",
+   "verse": "Δημήτριος γάρ τις ὀνόματι, ἀργυροκόπος, ποιῶν ναοὺς ἀργυροῦς Ἀρτέμιδος παρείχετο τοῖς τεχνίταις οὐκ ὀλίγην ἐργασίαν,"
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Judices": 1,
+   "Jeremias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "17.4",
+    "form": "ἀργυροκόπῳ",
+    "postag": "n-s---md-",
+    "sentence": "καὶ ἔλαβεν ἡ μήτηρ αὐτοῦ διακοσίους ἀργυρίου καὶ ἔδωκεν αὐτὸ ἀργυροκόπῳ, καὶ ἐποίησεν αὐτὸ γλυπτὸν καὶ χωνευτόν ·"
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "6.29",
+    "form": "ἀργυροκόπος",
+    "postag": "n-s---mn-",
+    "sentence": "εἰς κενὸν ἀργυροκόπος ἀργυροκοπεῖ, πονηρία αὐτῶν οὐκ ἐτάκη."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "To Diognetus": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "2",
+    "form": "ἀργυροκόπος",
+    "postag": "n-s---mn-",
+    "sentence": "οὐχ ὁ μὲν αὐτῶν λιθοξόος, ὁ δὲ χαλκεύς, ὁ δὲ ἀργυροκόπος, ὁ δὲ κεραμεὺς ἔπλασεν;"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   † ἀργυροκόπος, -ου, ὁ    (< ἄργυρος, κόπτω, to beat),   [in LXX: Jg 17:4, Je 6:29 (צֹרֵף)*;]    a silversmith: Ac 19:24 (Plut.; π., v. MM, s.v.).†"
+}

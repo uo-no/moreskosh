@@ -1,0 +1,99 @@
+{
+ "strong": "G578",
+ "lemma": "ἀποβλέπω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "HEB 11:26",
+   "form": "ἀπέβλεπεν",
+   "morph": "V-IAI-3S",
+   "gloss_en": "looking",
+   "gloss_ja": "注視する",
+   "verse": "μείζονα πλοῦτον ἡγησάμενος τῶν Αἰγύπτου θησαυρῶν τὸν ὀνειδισμὸν τοῦ Χριστοῦ, ἀπέβλεπεν γὰρ εἰς τὴν μισθαποδοσίαν."
+  }
+ ],
+ "lxx": {
+  "total": 7,
+  "works": {
+   "Psalmi": 2,
+   "Canticum": 1,
+   "Psalmi Salomonis": 1,
+   "Osee": 1,
+   "Malachias": 2
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "9.29",
+    "form": "ἀποβλέπουσιν",
+    "postag": "v3ppia---",
+    "sentence": "οἱ ὀφθαλμοὶ αὐτοῦ εἰς τὸν πένητα ἀποβλέπουσιν ·"
+   },
+   {
+    "work_code": "MAL",
+    "work_ja": "マラキ書",
+    "work_src": "Malachias",
+    "ref": "3.9",
+    "form": "ἀποβλέποντες",
+    "postag": "v-pppamn-",
+    "sentence": "καὶ ἀποβλέποντες ὑμεῖς ἀποβλέπετε, καὶ ἐμὲ ὑμεῖς πτερνίζετε ·"
+   },
+   {
+    "work_code": "SNG",
+    "work_ja": "雅歌",
+    "work_src": "Canticum",
+    "ref": "6.1",
+    "form": "ἀπέβλεψεν",
+    "postag": "v3saia---",
+    "sentence": "ποῦ ἀπέβλεψεν ὁ ἀδελφιδός σου;"
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "3.5",
+    "form": "ἀποβλέπει",
+    "postag": "v3spia---",
+    "sentence": "προσέκοψεν ὁ δίκαιος καὶ ἐδικαίωσεν τὸν κύριον, ἔπεσεν καὶ ἀποβλέπει τί ποιήσει αὐτῷ ὁ θεός, ἀποσκοπεύει ὅθεν ἥξει σωτηρία αὐτοῦ."
+   },
+   {
+    "work_code": "HOS",
+    "work_ja": "ホセア書",
+    "work_src": "Osee",
+    "ref": "3.1",
+    "form": "ἀποβλέπουσιν",
+    "postag": "v3ppia---",
+    "sentence": "ἔτι πορεύθητι καὶ ἀγάπησον γυναῖκα ἀγαπῶσαν πονηρὰ καὶ μοιχαλίν, καθὼς ἀγαπᾷ ὁ Θεὸς τοὺς υἱοὺς Ἰσραὴλ καὶ αὐτοὶ ἀποβλέπουσιν ἐπὶ θεοὺς ἀλλοτρίους καὶ φιλοῦσι πέμματα μετὰ σταφίδων."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "10.4",
+    "form": "ἀποβλέπουσι",
+    "postag": "v3ppia---",
+    "sentence": "οἱ ὀφθαλμοὶ αὐτοῦ εἰς τὸν πένητα ἀποβλέπουσι, τὰ βλέφαρα αὐτοῦ ἐξετάζει τοὺς υἱοὺς τῶν ἀνθρώπων."
+   },
+   {
+    "work_code": "MAL",
+    "work_ja": "マラキ書",
+    "work_src": "Malachias",
+    "ref": "3.9",
+    "form": "ἀποβλέπετε",
+    "postag": "v2ppma---",
+    "sentence": "καὶ ἀποβλέποντες ὑμεῖς ἀποβλέπετε, καὶ ἐμὲ ὑμεῖς πτερνίζετε ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ἀπο-βλέπω,    [in LXX for פּנה, etc.;]    to look away from all else at one object; hence, to look steadfastly: He 11:26 (cf. ἀφοράω).†"
+}

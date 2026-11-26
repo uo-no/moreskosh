@@ -1,0 +1,60 @@
+{
+ "strong": "G900",
+ "lemma": "βαθύνω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 6:48",
+   "form": "ἐβάθυνεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "deep",
+   "gloss_ja": "深くする",
+   "verse": "ὅμοιός ἐστιν ἀνθρώπῳ οἰκοδομοῦντι οἰκίαν ὃς ἔσκαψεν καὶ ἐβάθυνεν καὶ ἔθηκεν θεμέλιον ἐπὶ τὴν πέτραν· πλημμύρης δὲ γενομένης προσέρηξεν ὁ ποταμὸς τῇ οἰκίᾳ ἐκείνῃ, καὶ οὐκ ἴσχυσεν σαλεῦσαι αὐτὴν διὰ τὸ καλῶς οἰκοδομῆσθαι αὐτήν."
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Psalmi": 1,
+   "Jeremias": 2
+  },
+  "representatives": [
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "29.8",
+    "form": "βαθύνατε",
+    "postag": "v2pama---",
+    "sentence": "βαθύνατε εἰς κάθισιν οἱ κατοικοῦντες ἐν Δαιδάν, ὅτι δύσκολα ἐποίησεν ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "91.6",
+    "form": "ἐβαθύνθησαν",
+    "postag": "v3paip---",
+    "sentence": "σφόδρα ἐβαθύνθησαν οἱ διαλογισμοί σου."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "30.8",
+    "form": "βαθύνατε",
+    "postag": "v2pama---",
+    "sentence": "φεύγετε λίαν, βαθύνατε εἰς κάθισιν, καθήμενοι ἐν τῇ αὐλῇ, ὅτι ἐβουλεύσατο ἐφ’ ὑμᾶς βασιλεὺς Βαβυλῶνος βουλὴν καὶ ἐλογίσατο ἐφ’ ὑμᾶς λογισμόν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   βαθύνω    (< βαθύς),   [in LXX for עמד: Ps 91 (92):5, Je 29 (49):8 30(49):30*;]    to deepen: Lk 6:48.†"
+}

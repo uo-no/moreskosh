@@ -1,0 +1,41 @@
+{
+ "strong": "G5534",
+ "lemma": "χρή",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JAS 3:10",
+   "form": "χρή",
+   "morph": "V-PAI-3S",
+   "gloss_en": "ought",
+   "gloss_ja": "必要である",
+   "verse": "ἐκ τοῦ αὐτοῦ στόματος ἐξέρχεται εὐλογία καὶ κατάρα. οὐ χρή, ἀδελφοί μου, ταῦτα οὕτως γίνεσθαι."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Proverbia": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "25.27",
+    "form": "χρὴ",
+    "postag": "v3spia---",
+    "sentence": "ἐσθίειν μέλι πολὺ οὐ καλόν, τιμᾶ δὲ χρὴ λόγους ἐνδόξους."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1 * χρή  impers.     (< χράω, v. LS, s.v.),     it is necessary: Ja 3:10 (cf. δεῖ.).†"
+}

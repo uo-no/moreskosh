@@ -1,0 +1,205 @@
+{
+ "strong": "G718",
+ "lemma": "ἁρμόζομαι",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": "αρμοζω",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2CO 11:2",
+   "form": "ἡρμοσάμην",
+   "morph": "V-AMI-1S",
+   "gloss_en": "betrothed",
+   "gloss_ja": "婚約する",
+   "verse": "ζηλῶ γὰρ ὑμᾶς θεοῦ ζήλῳ, ἡρμοσάμην γὰρ ὑμᾶς ἑνὶ ἀνδρὶ παρθένον ἁγνὴν παραστῆσαι τῷ Χριστῷ·"
+  }
+ ],
+ "lxx": {
+  "total": 10,
+  "works": {
+   "Regnorum ii": 2,
+   "Machabaeorum ii": 1,
+   "Machabaeorum iii": 1,
+   "Psalmi": 1,
+   "Proverbia": 3,
+   "Psalmi Salomonis": 1,
+   "Nahum": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "17.7",
+    "form": "ἁρμόσει",
+    "postag": "v3sfia---",
+    "sentence": "οὐχ ἁρμόσει ἄφρονι χείλη πιστά, οὐ-δὲ δικαίῳ χείλη ψευδῆ."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "6.14",
+    "form": "ἡρμοσμένοις",
+    "postag": "v-prpmnd-",
+    "sentence": "καὶ Δαυὶδ ἀνεκρούετο ἐν ὀργάνοις ἡρμοσμένοις ἐνώπιον Κυρίου, καὶ ὁ Δαυὶδ ἐνδεδυκὼς στολὴν ἔξαλλον."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "14.22",
+    "form": "ἁρμόζουσαν",
+    "postag": "v-sppafa-",
+    "sentence": "τὴν ἁρμόζουσαν ἐποιήσαντο κοινολογίαν."
+   },
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "1.19",
+    "form": "ἁρμόζουσαν",
+    "postag": "v-sppafa-",
+    "sentence": "αἱ δὲ καὶ προσαρτίως ἐσταλμέναι τοὺς πρὸς ἀπάντησιν διατεταγμένους παστοὺς καὶ τὴν ἁρμόζουσαν αἰδὼ παραλείπουσαι, δρόμον ἄτακτον ἐν τῇ πόλει συνίσταντο."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "151.2",
+    "form": "ἥρμοσαν",
+    "postag": "v3paia---",
+    "sentence": "αἱ χεῖρές μου ἐποίησαν ὄργανον, καὶ οἱ δάκτυλοί μου ἥρμοσαν ψαλτήριον."
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "15.3",
+    "form": "ἡρμοσμένῳ",
+    "postag": "v-srpmnd-",
+    "sentence": "ψαλμὸν καινὸν μετὰ ᾠδῆς ἐν εὐφροσύνῃ καρδίας, καρπὸν χειλέων ἐν ὀργάνῳ ἡρμοσμένῳ γλώσσης, ἀπαρχὴν χειλέων ἀπὸ καρδίας ὁσίας καὶ δικαίας, ὁ ποιῶν ταῦτα οὐ σαλευθήσεται εἰς τὸν αἰῶνα ἀπὸ κακοῦ, φλὸξ πυρὸς καὶ ὀργὴ ἀδίκων οὐχ ἅψεται αὐτοῦ, ὅταν ἐξέλθῃ ἐπὶ ἁμαρτωλοὺς ἀπὸ προσώπου κυρίου ὀλεθρεῦσαι πᾶσαν ὑπόστασιν ἁμαρτωλῶν ·"
+   },
+   {
+    "work_code": "NAH",
+    "work_ja": "ナホム書",
+    "work_src": "Nahum",
+    "ref": "3.8",
+    "form": "ἅρμοσαι",
+    "postag": "v2samm---",
+    "sentence": "ἑτοίμασαι μερίδα, ἅρμοσαι χορδήν, ἑτοίμασαι μερίδα, Ἀμμὼν ἡ κατοικοῦσα ἐν ποταμοῖς, ὕδωρ κύκλῳ αὐτῆς, ἧς ἡ ἀρχὴ θάλασσα καὶ ὕδωρ τὰ τείχη αὐτῆς, καὶ Αἰθιοπία ἰσχὺς αὐτῆς καὶ Αἴγυπτος, καὶ οὐκ ἔστη πέρας τῆς φυγῆς, καὶ Λίβυες ἐγένοντο βοηθοὶ αὐτῆς."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "19.14",
+    "form": "ἁρμόζεται",
+    "postag": "v3spim---",
+    "sentence": "οἶκον καὶ ὕπαρξιν μερίζουσι πατέρες παισί, παρὰ δὲ Κυρίου ἁρμόζεται γυνὴ ἀνδρί."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "6.5",
+    "form": "ἡρμοσμένοις",
+    "postag": "v-prpmnd-",
+    "sentence": "καὶ Δαυὶδ καὶ υἱοὶ Ἰσραὴλ παίζοντες ἐνώπιον Κυρίου ἐν ὀργάνοις ἡρμοσμένοις ἐν ἰσχύϊ, καὶ ἐν ᾠδαῖς καὶ ἐν κινύραις καὶ ἐν νάβλαις καὶ ἐν τυμπάνοις καὶ ἐν κυμβάλοις καὶ ἐν αὐλοῖς."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "8.30",
+    "form": "ἁρμόζουσα",
+    "postag": "v-sppafn-",
+    "sentence": "ἡνίκα ἰσχυρὰ ἐποίει τὰ ἄνω νέφη, καὶ ὡς ἀσφαλεῖς ἐτίθει πηγὰς τῆς ὑπ’ οὐρανὸν καὶ ἰσχυρὰ ἐποίει τὰ θεμέλια τῆς γῆς, ἤμην παρ’ αὐτῷ ἁρμόζουσα."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 22,
+  "works": {
+   "To Diognetus": 1,
+   "Hermas, Pastor": 20,
+   "Martyrdom of Polycarp": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.7.2",
+    "form": "ἁρμόζοντας",
+    "postag": "v-pppama-",
+    "sentence": "τοὺς δὲ μὴ ἁρμόζοντας ῥῖψον μακρὰν ἀπὸ τοῦ πύργου."
+   },
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "12",
+    "form": "ἁρμόζονται",
+    "postag": "v3ppim---",
+    "sentence": "καὶ σωτήριον δείκνυται, καὶ ἀπόστολοι συνετίζονται, καὶ τὸ κυρίου πάσχα προέρχεται, καὶ καιροὶ συνάγονται καὶ μετὰ κόσμου ἁρμόζονται, καὶ διδάσκων ἁγίους ὁ λόγος εὐφραίνεται, δι’ οὗ πατὴρ δοξάζεται ·"
+   },
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "13.3",
+    "form": "ἡρμοσμένα",
+    "postag": "v-prpmnn-",
+    "sentence": "εὐθέως οὖν αὐτῷ περιετίθετο τὰ πρὸς τὴν πυρὰν ἡρμοσμένα ὄργανα."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "3.2.6",
+    "form": "ἡρμοσμένοι",
+    "postag": "v-prpmmn-",
+    "sentence": "ἡρμοσμένοι γὰρ ἦσαν καὶ συνεφώνουν τῇ ἁρμογῇ μετὰ τῶν ἑτέρων ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.9.3",
+    "form": "ἥρμοσαν",
+    "postag": "v3paia---",
+    "sentence": "αἱ δὲ παρθένοι ἄρασαι ἥρμοσαν εἰς τὰ ἐξώτερα μέρη τῆς οἰκοδομῆς."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.4.2",
+    "form": "ἡρμόσθησαν",
+    "postag": "v3paip---",
+    "sentence": "ἡρμόσθησαν οὖν οἱ δέκα λίθοι ἐκεῖνοι καὶ ἐνέπλησαν ὅλην τὴν πέτραν ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "3.7.5",
+    "form": "ἁρμόσαι",
+    "postag": "v--ana---",
+    "sentence": "ἔχουσιν, φησίν, μετάνοιαν, ἀλλὰ εἰς τοῦτον τὸν πύργον οὐ δύνανται ἁρμόσαι ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "3.6.5",
+    "form": "ἁρμόζοντες",
+    "postag": "v-pppamn-",
+    "sentence": "οἱ δὲ λευκοὶ καὶ στρογγύλοι καὶ μὴ ἁρμόζοντες εἰς τὴν οἰκοδομήν, τίνες εἰσιν, κυρία;"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1 ἁρμόζω    (< ἁρμός),   [in LXX for אמן, etc.;]      to fit, join.     of marriage, to betroth. Mid.,       to join to oneself, marry, take to wife;       to give in marriage: II Co 11:2 (for this there is no direct parallel. But v. M, Pr., 160; MM, s.v.).†"
+}

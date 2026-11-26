@@ -1,0 +1,60 @@
+{
+ "strong": "G585",
+ "lemma": "ἀπόδειξις",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 2:4",
+   "form": "ἀποδείξει",
+   "morph": "N-DSF",
+   "gloss_en": "demonstration",
+   "gloss_ja": "論証",
+   "verse": "καὶ ὁ λόγος μου καὶ τὸ κήρυγμά μου οὐκ ἐν πειθοῖ σοφίας ἀλλ’ ἐν ἀποδείξει πνεύματος καὶ δυνάμεως,"
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Machabaeorum iii": 1,
+   "Machabaeorum iv": 2
+  },
+  "representatives": [
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "13.10",
+    "form": "ἀπόδειξιν",
+    "postag": "n-s---fa-",
+    "sentence": "μὴ δειλανδρήσωμεν πρὸς τὴν τῆς εὐσεβείας ἀπόδειξιν."
+   },
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "4.20",
+    "form": "ἀποδείξεως",
+    "postag": "n-s---fg-",
+    "sentence": "ἀπειλήσαντος δὲ αὐτοῖς σκληρότερον ὡς δεδωροκοπημένοις εἰς μηχανὴν τῆς ἐκφυγῆς, συνέβη σαφῶς αὐτὸν περὶ τούτου πεισθῆναι, λεγόντων μετὰ ἀποδείξεως καὶ τὴν χαρτηρίαν ἤδη καὶ τοὺς γραφικοὺς καλάμους, ἐν οἷς ἐχρῶντο, ἐκλελοιπέναι."
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "3.19",
+    "form": "ἀπόδειξιν",
+    "postag": "n-s---fa-",
+    "sentence": "— ἤδη δὲ καὶ ὁ καιρὸς ἡμᾶς καλεῖ ἐπὶ τὴν ἀπόδειξιν τῆς θεωρίας τοῦ σώφρονος λογισμοῦ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ** ἀπό-δειξις, -εως, ἡ    (< ἀποδείκνυμι),   [in LXX: III Mac 4:20, IV Mac 3:19 13:10*;]      a showing off.     As used by Gk. philosophers, demonstration, certain proof: I Co 2:4 (v. ICC, in l.; MM, s.v.; Lft., Notes, 173).†"
+}

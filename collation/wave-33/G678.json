@@ -1,0 +1,51 @@
+{
+ "strong": "G678",
+ "lemma": "ἀπροσωπολήμπτως",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": "απροσωποληπτος",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1PE 1:17",
+   "form": "ἀπροσωπολήμπτως",
+   "morph": "ADV",
+   "gloss_en": "impartially",
+   "gloss_ja": "不公平でなく",
+   "verse": "Καὶ εἰ πατέρα ἐπικαλεῖσθε τὸν ἀπροσωπολήμπτως κρίνοντα κατὰ τὸ ἑκάστου ἔργον, ἐν φόβῳ τὸν τῆς παροικίας ὑμῶν χρόνον ἀναστράφητε·"
+  }
+ ],
+ "lxx": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "Barnabas": 1,
+   "1 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "4.12",
+    "form": "ἀπροσωπολήμπτως",
+    "postag": "d--------",
+    "sentence": "ὁ κύριος ἀπροσωπολήμπτως κρινεῖ τὸν κόσμον."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "1.3",
+    "form": "ἀπροσωπολήμπτως",
+    "postag": "d--------",
+    "sentence": "ἀπροσωπολήμπτως γὰρ πάντα ἐποιεῖτε καὶ ἐν τοῖς νομίμοις τοῦ θεοῦ ἐπορεύεσθε, ὑποτασσόμενοι τοῖς ἡγουμένοις ὑμῶν, καὶ τιμὴν τὴν καθήκουσαν ἀπονέμοντες τοῖς παρ’ ὑμῖν πρεσβυτέροις ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   *† ἀπροσωπολήμπτως (Rec. -λήπτως, cl.),   adv.    (< α- neg., προσωπολήμπτης),    without respect of persons, impartially: I Pe 1:17.†"
+}

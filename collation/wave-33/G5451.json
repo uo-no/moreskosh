@@ -1,0 +1,92 @@
+{
+ "strong": "G5451",
+ "lemma": "φυτεία",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MAT 15:13",
+   "form": "φυτεία",
+   "morph": "N-NSF",
+   "gloss_en": "plant",
+   "gloss_ja": "植物",
+   "verse": "ὁ δὲ ἀποκριθεὶς εἶπεν· Πᾶσα φυτεία ἣν οὐκ ἐφύτευσεν ὁ πατήρ μου ὁ οὐράνιος ἐκριζωθήσεται."
+  }
+ ],
+ "lxx": {
+  "total": 4,
+  "works": {
+   "Regnorum iv": 1,
+   "Psalmi Salomonis": 1,
+   "Michaeas": 1,
+   "Ezechiel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "19.29",
+    "form": "φυτεία",
+    "postag": "n-s---fn-",
+    "sentence": "καὶ ἔτει τῷ τρίτῳ σπορὰ καὶ ἄμητος καὶ φυτεία ἀμπελώνων, καὶ φάγεσθε τὸν καρπὸν αὐτῶν."
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "14.4",
+    "form": "φυτεία",
+    "postag": "n-s---fn-",
+    "sentence": "ἡ φυτεία αὐτῶν ἐρριζωμένη εἰς τὸν αἰῶνα, οὐκ ἐκτιλήσονται πάσας τὰς ἡμέρας τοῦ οὐρανοῦ ·"
+   },
+   {
+    "work_code": "MIC",
+    "work_ja": "ミカ書",
+    "work_src": "Michaeas",
+    "ref": "1.6",
+    "form": "φυτείαν",
+    "postag": "n-s---fa-",
+    "sentence": "καὶ θήσομαι Σαμάρειαν εἰς ὀπωροφυλάκιον ἀγροῦ καὶ εἰς φυτείαν ἀμπελῶνος καὶ κατασπάσω εἰς χάος τοὺς λίθους αὐτῆς καὶ τὰ θεμέλια αὐτῆς ἀποκαλύψω."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "17.7",
+    "form": "φυτείας",
+    "postag": "n-s---fg-",
+    "sentence": "καὶ ἐγένετο ἀετὸς ἕτερος μέγας, μεγαλοπτέρυγος, πολὺς ὄνυξι, καὶ ἰδοὺ ἡ ἄμπελος αὕτη περιπεπλεγμένη πρὸς αὐτόν, καὶ ρίζαι αὐτῆς πρὸς αὐτόν, καὶ τὰ κλήματα αὐτῆς ἐξαπέστειλεν αὐτῷ τοῦ ποτίσαι αὐτὴν σὺν τῷ βώλῳ τῆς φυτείας αὐτῆς."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "Ignatius, Letters": 2
+  },
+  "representatives": [
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "3.11.1",
+    "form": "φυτεία",
+    "postag": "n-s---fn-",
+    "sentence": "οὗτοι γὰρ οὔκ εἰσιν φυτεία πατρός."
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "5.3.1",
+    "form": "φυτείαν",
+    "postag": "n-s---fa-",
+    "sentence": "ἀπέχεσθε τῶν κακῶν βοτανῶν, ἅστινας οὐ γεωργεῖ Ἰησοῦς Χριστός, διὰ τὸ μὴ εἶναι αὐτοὺς φυτείαν πατρός ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1 φυτεία, -ας, ἡ    (< φυτεύω),    [in LXX: IV Ki 19:29 (נטע), Mi 1:6, Ez 17:7 (מַטָּע) * ;]     a planting (Xen., al.; LXX).    = φύτευμα, that which is planted, a plant (Inscr.): Mt 15:13.†"
+}

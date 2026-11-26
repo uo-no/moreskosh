@@ -1,0 +1,51 @@
+{
+ "strong": "G827",
+ "lemma": "αὐγή",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 20:11",
+   "form": "αὐγῆς",
+   "morph": "N-GSF",
+   "gloss_en": "dawn",
+   "gloss_ja": "夜明け",
+   "verse": "ἀναβὰς δὲ καὶ κλάσας τὸν ἄρτον καὶ γευσάμενος ἐφ’ ἱκανόν τε ὁμιλήσας ἄχρι αὐγῆς, οὕτως ἐξῆλθεν."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Machabaeorum ii": 1,
+   "Isaias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "12.9",
+    "form": "αὐγὰς",
+    "postag": "n-p---fa-",
+    "sentence": "μεταλαβὼν δὲ καὶ τοὺς ἐν Ἰαμνείᾳ τὸν αὐτὸν ἐπιτελεῖν βουλομένους τρόπον τοῖς παροικοῦσιν Ἰουδαίοις, καὶ τοῖς Ἰαμνίταις νυκτὸς ἐπιβαλὼν ὑφῆψε τὸν λιμένα σὺν τῷ στόλῳ, ὥστε φαίνεσθαι τὰς αὐγὰς τοῦ φέγγους εἰς τὰ Ἱεροσόλυμα, σταδίων ὄντων διακοσίων τεσσαράκοντα."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "59.9",
+    "form": "αὐγὴν",
+    "postag": "n-s---fa-",
+    "sentence": "ὑπομεινάντων αὐτῶν φῶς ἐγένετο αὐτοῖς σκότος, μείναντες αὐγὴν ἐν ἀωρίᾳ περιεπάτησαν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   αὐγή, -ῆς, ἡ,    [in LXX: Is 59:9 (נְגֹהָה), II Mac 12:9*;]    brightness      Later (as in MGr.; MM, s.v.), daylight, dawn: Ac 20:11 (Cremer, 118).†   SYN.: φέγγος (v. Thayer, s. φ.; DB, iii, 44a; Tr., Syn., § xlvi)."
+}

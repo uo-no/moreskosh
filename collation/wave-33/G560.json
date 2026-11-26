@@ -1,0 +1,102 @@
+{
+ "strong": "G560",
+ "lemma": "ἀπελπίζω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 6:35",
+   "form": "ἀπελπίζοντες",
+   "morph": "V-PAP-NPM",
+   "gloss_en": "expecting ~ inreturn",
+   "gloss_ja": "望みを抱く",
+   "verse": "πλὴν ἀγαπᾶτε τοὺς ἐχθροὺς ὑμῶν καὶ ἀγαθοποιεῖτε καὶ δανίζετε μηδὲν ἀπελπίζοντες· καὶ ἔσται ὁ μισθὸς ὑμῶν πολύς, καὶ ἔσεσθε υἱοὶ Ὑψίστου, ὅτι αὐτὸς χρηστός ἐστιν ἐπὶ τοὺς ἀχαρίστους καὶ πονηρούς."
+  }
+ ],
+ "lxx": {
+  "total": 6,
+  "works": {
+   "Esther": 1,
+   "Judith": 1,
+   "Machabaeorum ii": 1,
+   "Ecclesiasticus sive Siracides": 2,
+   "Isaias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "22.21",
+    "form": "ἀπελπίσῃς",
+    "postag": "v2sasa---",
+    "sentence": "ἐπὶ φίλον ἐὰν σπάσῃς ρομφαίαν, μὴ ἀπελπίσῃς, ἔστι γὰρ ἐπάνοδος ·"
+   },
+   {
+    "work_code": "EST",
+    "work_ja": "エステル記",
+    "work_src": "Esther",
+    "ref": "4.17ω",
+    "form": "ἀπηλπισμένων",
+    "postag": "v-prpmmg-",
+    "sentence": "ὁ Θεὸς ὁ ἰσχύων ἐπὶ πάντας, εἰσάκουσον φωνὴν ἀπηλπισμένων καὶ ρῦσαι ἡμᾶς ἐκ χειρὸς τῶν πονηρευομένων, καὶ ρῦσαί με ἐκ τοῦ φόβου μου."
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "9.11",
+    "form": "ἀπηλπισμένων",
+    "postag": "v-prpmmg-",
+    "sentence": "οὐ γὰρ ἐν πλήθει τὸ κράτος σου, οὐ-δὲ ἡ δυναστεία σου ἐν ἰσχύουσιν, ἀλλὰ ταπεινῶν εἶ Θεός, ἐλαττόνων εἶ βοηθός, ἀντιλήπτωρ ἀσθενούντων, ἀπεγνωσμένων σκεπαστής, ἀπηλπισμένων σωτήρ."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "9.18",
+    "form": "ἀπελπίσας",
+    "postag": "v-sapamn-",
+    "sentence": "οὐδαμῶς δὲ ληγόντων τῶν πόνων, ἐπεληλύθει γὰρ ἐπ’ αὐτὸν δικαία ἡ τοῦ Θεοῦ κρίσις, τὰ κατ’ αὐτὸν ἀπελπίσας, ἔγραψε πρὸς τοὺς Ἰουδαίους τὴν ὑπογεγραμμένην ἐπιστολήν, ἱκετηρίας τάξιν ἔχουσαν, περιέχουσαν δὲ οὕτως ·"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "29.19",
+    "form": "ἀπηλπισμένοι",
+    "postag": "v-prpmmn-",
+    "sentence": "καὶ ἀγαλλιάσονται πτωχοὶ διὰ Κύριον ἐν εὐφροσύνῃ, καὶ οἱ ἀπηλπισμένοι τῶν ἀνθρώπων ἐμπλησθήσονται εὐφροσύνης."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "27.21",
+    "form": "ἀπήλπισεν",
+    "postag": "v3saia---",
+    "sentence": "ὅτι τραῦμά ἐστι καταδῆσαι καὶ λοιδορίας ἐστὶ διαλλαγή, ὁ δὲ ἀποκαλύψας μυστήρια ἀπήλπισεν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "1 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "59.3",
+    "form": "ἀπηλπισμένων",
+    "postag": "v-prpmmg-",
+    "sentence": "τὸν ἐπιβλέποντα ἐν τοῖς ἀβύσσοις, τὸν ἐπόπτην ἀνθρωπίνων ἔργων, τὸν τῶν κινδυνευόντων βοηθόν, τὸν τῶν ἀπηλπισμένων σωτῆρα, τὸν παντὸς πνεύματος κτίστην καὶ ἐπίσκοπον ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   † ἀπ-ελπίζω,    [in LXX: Is 29:19 (אֶבְיוֹן), Jth 9:11, Es 4:17, Si 22:21 27:21, II Mac 9:18*;]      to give up in despair, despair of (Polyb., Diod., LXX).     to hope to receive from or in return (Field, Notes, 59; Cremer, 712; Soph., Lex., s.v.): c. acc. (M; Pr., 65; MM, s.v.), Lk 6:35.†"
+}

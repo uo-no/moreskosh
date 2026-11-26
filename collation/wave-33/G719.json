@@ -1,0 +1,51 @@
+{
+ "strong": "G719",
+ "lemma": "ἁρμός",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "HEB 4:12",
+   "form": "ἁρμῶν",
+   "morph": "N-GPM",
+   "gloss_en": "joints",
+   "gloss_ja": "継ぎ目",
+   "verse": "Ζῶν γὰρ ὁ λόγος τοῦ θεοῦ καὶ ἐνεργὴς καὶ τομώτερος ὑπὲρ πᾶσαν μάχαιραν δίστομον καὶ διϊκνούμενος ἄχρι μερισμοῦ ψυχῆς καὶ πνεύματος, ἁρμῶν τε καὶ μυελῶν, καὶ κριτικὸς ἐνθυμήσεων καὶ ἐννοιῶν καρδίας·"
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Machabaeorum iv": 1,
+   "Ecclesiasticus sive Siracides": 1
+  },
+  "representatives": [
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "10.5",
+    "form": "ἁρμῶν",
+    "postag": "n-p---fg-",
+    "sentence": "οἱ δὲ πικρῶς ἐνέγκαντες τὴν παρρησίαν τοῦ ἀνδρός, ἀρθρεμβόλοις ὀργάνοις τὰς χεῖρας αὐτοῦ καὶ τοὺς πόδας ἐξήρθρουν καὶ ἐξ ἁρμῶν ἀναμοχλεύοντες ἐξεμέλιζον, καὶ τοὺς δακτύλους καὶ τοὺς βραχίονας καὶ τὰ σκέλη καὶ τοὺς ἀγκῶνας περιέκλων."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "27.2",
+    "form": "ἁρμῶν",
+    "postag": "n-p---fg-",
+    "sentence": "ἀναμέσον ἁρμῶν λίθων παγήσεται πάσσαλος, καὶ ἀναμέσον πράσεως καὶ ἀγορασμοῦ συντριβήσεται ἁμαρτία."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ** ἁρμός, -ου, ὁ,    [in LXX: Si 27:2, IV Mac 10:5*;]    a joining, joint: He 4:12.†"
+}

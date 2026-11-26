@@ -1,0 +1,70 @@
+{
+ "strong": "G5419",
+ "lemma": "φράζω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MAT 15:15",
+   "form": "Φράσον",
+   "morph": "V-AAM-2S",
+   "gloss_en": "explain",
+   "gloss_ja": "説明する",
+   "verse": "Ἀποκριθεὶς δὲ ὁ Πέτρος εἶπεν αὐτῷ· Φράσον ἡμῖν τὴν παραβολήν ταύτην."
+  }
+ ],
+ "lxx": {
+  "total": 4,
+  "works": {
+   "Job": 2,
+   "Osee": 1,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "6.24",
+    "form": "φράσατέ",
+    "postag": "v2pama---",
+    "sentence": "εἴ τι πεπλάνημαι, φράσατέ μοι."
+   },
+   {
+    "work_code": "HOS",
+    "work_ja": "ホセア書",
+    "work_src": "Osee",
+    "ref": "2.8",
+    "form": "φράσσω",
+    "postag": "v1sfia---",
+    "sentence": "διὰ τοῦτο ἰδοὺ ἐγὼ φράσσω τὴν ὁδὸν αὐτῆς ἐν σκόλοψι καὶ ἀνοικοδομήσω τὰς ὁδούς, καὶ τὴν τρίβον αὐτῆς οὐ μὴ εὕρῃ ·"
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "2.4",
+    "form": "φράσομεν",
+    "postag": "v1pfia---",
+    "sentence": "ἀνάγγειλον τὸ ἐνύπνιόν σου τοῖς παισί σου, καὶ ἡμεῖς σοι φράσομεν τὴν σύγκρισιν αὐτοῦ."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "12.8",
+    "form": "φράσῃ",
+    "postag": "v3sasa---",
+    "sentence": "ἐκδιήγησαι γῇ, ἐάν σοι φράσῃ, καὶ ἐξηγήσονταί σοι οἱ ἰχθύες τῆς θαλάσσης."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1 φράζω     [in LXX: Jb 6:24 (בִּין hi.) Jb 12:8 (יָרָה hi.), Da LXX 2:4 (חָוָה pa.) * ;]     to show forth, tell, declare, explain: Mt 13:36 (WH, RV, διασάφησον) 15:15.†"
+}

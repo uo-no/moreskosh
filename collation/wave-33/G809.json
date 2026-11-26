@@ -1,0 +1,61 @@
+{
+ "strong": "G809",
+ "lemma": "ἀσχήμων",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 12:23",
+   "form": "ἀσχήμονα",
+   "morph": "A-NPN",
+   "gloss_en": "unpresentable",
+   "gloss_ja": "醜い",
+   "verse": "καὶ ἃ δοκοῦμεν ἀτιμότερα εἶναι τοῦ σώματος, τούτοις τιμὴν περισσοτέραν περιτίθεμεν, καὶ τὰ ἀσχήμονα ἡμῶν εὐσχημοσύνην περισσοτέραν ἔχει,"
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Machabaeorum ii": 1,
+   "Sapientia Salomonis": 1,
+   "Ecclesiasticus sive Siracides": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "9.2",
+    "form": "ἀσχήμονα",
+    "postag": "a-s---fa-",
+    "sentence": "διὸ δὴ τῶν πληθῶν ὁρμησάντων ἐπὶ τὴν τῶν ὅπλων βοήθειαν ἐτράπησαν, καὶ συνέβη τροπωθέντα τὸν Ἀντίοχον ὑπὸ τῶν ἐγχωρίων ἀσχήμονα τὴν ἀναζυγὴν ποιήσασθαι."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "2.20",
+    "form": "ἀσχήμονι",
+    "postag": "a-s---md-",
+    "sentence": "θανάτῳ ἀσχήμονι καταδικάσωμεν αὐτόν, ἔσται γὰρ αὐτοῦ ἐπισκοπὴ ἐκ λόγων αὐτοῦ."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "26.24",
+    "form": "ἀσχήμων",
+    "postag": "a-s---fn-",
+    "sentence": "γυνὴ ἀσχήμων ἀτιμίαν κατατρίψει, θυγάτηρ δὲ εὐσχήμων καὶ τὸν ἄνδρα ἐντραπήσεται."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ἀσχήμων, -ον    (< ἀ- neg., σχῆμα),   [in LXX: Ge 34:7 (נְבָלָה), De 24:1 (עֶרְוָה), Wi 2:20, Da TH Sus 63, II Mac 9:2*;]      shapeless.     uncomely, unseemly: I Co 12:23.†"
+}

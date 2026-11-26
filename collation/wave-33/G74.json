@@ -1,0 +1,59 @@
+{
+ "strong": "G74",
+ "lemma": "ἀγωνία",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 22:44",
+   "form": "ἀγωνίᾳ",
+   "morph": "N-DSF",
+   "gloss_en": "anguish",
+   "gloss_ja": "苦悶",
+   "verse": "καὶ γενόμενος ἐν ἀγωνίᾳ ἐκτενέστερον προσηύχετο· καὶ ἐγένετο ὁ ἱδρὼς αὐτοῦ ὡσεὶ θρόμβοι αἵματος καταβαίνοντες ἐπὶ τὴν γῆν."
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Machabaeorum ii": 3
+  },
+  "representatives": [
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "3.14",
+    "form": "ἀγωνία",
+    "postag": "n-s---fn-",
+    "sentence": "ἦν δὲ οὐ μικρὰ καθ’ ὅλην τὴν πόλιν ἀγωνία."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "3.16",
+    "form": "ἀγωνίαν",
+    "postag": "n-s---fa-",
+    "sentence": "ἡ γὰρ ὄψις καὶ τὸ τῆς χρόας παρηλλαγμένον ἐνέφαινε τὴν κατὰ ψυχὴν ἀγωνίαν."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "15.19",
+    "form": "ἀγωνία",
+    "postag": "n-s---fn-",
+    "sentence": "ἦν δὲ καὶ τοῖς ἐν τῇ πόλει κατειλημμένοις οὐ πάρεργος ἀγωνία ταρασσομένοις τῆς ἐν ὑπαίθρῳ προσβολῆς."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ** ἀγωνία, -ας, ἡ     (< ἀγών),   [in LXX: II Mac 3:14, 16 15:19*;]         a contest, wrestling (Eur., Xen.).      Of the mind, great fear, agony, anguish (Dem., Arist.): Lk 22:44 (cf . Field, Notes, 77 f. ; Abbott, Essays, 101 f. ; MM, VGT, s.v.).†"
+}

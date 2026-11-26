@@ -1,0 +1,53 @@
+{
+ "strong": "G5380",
+ "lemma": "φιλόνεικος",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 11:16",
+   "form": "φιλόνεικος",
+   "morph": "A-NSM",
+   "gloss_en": "contentious",
+   "gloss_ja": "争い好きな",
+   "verse": "εἰ δέ τις δοκεῖ φιλόνεικος εἶναι, ἡμεῖς τοιαύτην συνήθειαν οὐκ ἔχομεν, οὐδὲ αἱ ἐκκλησίαι τοῦ θεοῦ."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Ezechiel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "3.7",
+    "form": "φιλόνεικοί",
+    "postag": "a-p---mn-",
+    "sentence": "ὅτι πᾶς ὁ οἶκος Ἰσραὴλ φιλόνεικοί εἰσι καὶ σκληροκάρδιοι."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "1 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "45.1",
+    "form": "φιλόνεικοι",
+    "postag": "a-p---mn-",
+    "sentence": "φιλόνεικοι ἔστε, ἀδελφοί, καὶ ζηλωταὶ περὶ τῶν ἀνηκόντων εἰς σωτηρίαν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1 φιλό-νεικος, -ον    (< νεῖκος, strife)    [in LXX: Ez 3:7 (מֵצַח־חָזָק)* ;]     fond of strife, contentious: I Co 11:16.†"
+}

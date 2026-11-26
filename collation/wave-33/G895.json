@@ -1,0 +1,62 @@
+{
+ "strong": "G895",
+ "lemma": "ἄψυχος",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 14:7",
+   "form": "ἄψυχα",
+   "morph": "A-NPN",
+   "gloss_en": "lifeless",
+   "gloss_ja": "命のない",
+   "verse": "ὅμως τὰ ἄψυχα φωνὴν διδόντα, εἴτε αὐλὸς εἴτε κιθάρα, ἐὰν διαστολὴν τοῖς φθόγγοις μὴ δῷ, πῶς γνωσθήσεται τὸ αὐλούμενον ἢ τὸ κιθαριζόμενον;"
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Sapientia Salomonis": 2
+  },
+  "representatives": [
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "14.29",
+    "form": "ἀψύχοις",
+    "postag": "a-p---nd-",
+    "sentence": "ἀψύχοις γὰρ πεποιθότες εἰδώλοις κακῶς ὀμόσαντες, ἀδικηθῆναι οὐ προσδέχονται."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "13.17",
+    "form": "ἀψύχῳ",
+    "postag": "a-s---md-",
+    "sentence": "περὶ δὲ κτημάτων καὶ γάμων αὐτοῦ καὶ τέκνων προσευχόμενος, οὐκ αἰσχύνεται τῷ ἀψύχῳ προσλαλῶν καὶ περὶ μὲν ὑγιείας τὸ ἀσθενὲς ἐπικαλεῖται, περὶ δὲ ζωῆς τὸν νεκρὸν ἀξιοῖ, περὶ δὲ ἐπικουρίας τὸ ἀπειρότατον ἱκετεύει, περὶ δὲ ὁδοιπορίας τὸ μη-δὲ βάσει χρῆσθαι δυνάμενον, περὶ δὲ πορισμοῦ καὶ ἐργασίας καὶ χειρῶν ἐπιτυχίας τὸ ἀδρανέστατον ταῖς χερσὶν εὐδράνειαν αἰτεῖται."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "To Diognetus": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "2",
+    "form": "ἄψυχα",
+    "postag": "a-p---nn-",
+    "sentence": "οὐκ ἄψυχα;"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   ** ἄψυχος, -ον    (< ψυχή),   [in LXX: Wi 13:17 14:29*;]    inanimate, lifeless: I Co 14:7.†"
+}

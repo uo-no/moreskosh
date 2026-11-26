@@ -1,0 +1,229 @@
+{
+ "strong": "G977",
+ "lemma": "βιβρώσκω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JHN 6:13",
+   "form": "βεβρωκόσιν",
+   "morph": "V-RAP-DPM",
+   "gloss_en": "eaten",
+   "gloss_ja": "食べる",
+   "verse": "συνήγαγον οὖν, καὶ ἐγέμισαν δώδεκα κοφίνους κλασμάτων ἐκ τῶν πέντε ἄρτων τῶν κριθίνων ἃ ἐπερίσσευσαν τοῖς βεβρωκόσιν."
+  }
+ ],
+ "lxx": {
+  "total": 43,
+  "works": {
+   "Exodus": 4,
+   "Leviticus": 14,
+   "Deuteronomium": 1,
+   "Josue": 3,
+   "Judices": 1,
+   "Regnorum i": 1,
+   "Machabaeorum ii": 1,
+   "Job": 3,
+   "Nahum": 1,
+   "Isaias": 4,
+   "Jeremias": 4,
+   "Epistula Jeremiae": 1,
+   "Ezechiel": 2,
+   "Bel et Draco": 3
+  },
+  "representatives": [
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "19.6",
+    "form": "βρωθήσεται",
+    "postag": "v3sfip---",
+    "sentence": "ᾗ ἂν ἡμέρᾳ θύσετε, βρωθήσεται καὶ τῇ αὔριον ·"
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "29.34",
+    "form": "βρωθήσεται",
+    "postag": "v3sfip---",
+    "sentence": "οὐ βρωθήσεται, ἁγίασμα γάρ ἐστι."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "51.8",
+    "form": "βρωθήσεται",
+    "postag": "v3sfip---",
+    "sentence": "ὡς γὰρ ἱμάτιον βρωθήσεται ὑπὸ χρόνου καὶ ὡς ἔρια βρωθήσεται ὑπὸ σητός ·"
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "37.16",
+    "form": "βρωθήσονται",
+    "postag": "v3pfip---",
+    "sentence": "διὰ τοῦτο πάντες οἱ ἔσθοντές σε βρωθήσονται, καὶ πάντες οἱ ἐχθροί σου κρέας αὐτῶν πᾶν ἔδονται ·"
+   },
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "9.12",
+    "form": "βεβρωμένοι",
+    "postag": "v-prpmmn-",
+    "sentence": "νῦν δὲ ἐξηράνθησαν καὶ γεγόνασι βεβρωμένοι."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "18.13",
+    "form": "βρωθείησαν",
+    "postag": "v3paop---",
+    "sentence": "βρωθείησαν αὐτοῦ κλῶνες ποδῶν, κατέδεται δὲ αὐτοῦ τὰ ὡραῖα θάνατος."
+   },
+   {
+    "work_code": "BEL",
+    "work_ja": "ベルと竜（Th）",
+    "work_src": "Bel et Draco",
+    "ref": "7",
+    "form": "βέβρωκε",
+    "postag": "v3sria---",
+    "sentence": "ὀμνύω δέ σοι κύριον τὸν θεὸν τῶν θεῶν, ὅτι οὐθὲν βέβρωκε πώποτε οὗτος."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "4.14",
+    "form": "βέβρωκα",
+    "postag": "v1sria---",
+    "sentence": "ἰδοὺ ἡ ψυχή μου σὺ μεμίανται ἐν ἀκαθαρσίᾳ, καὶ θνησιμαῖον καὶ θηριάλωτον οὐ βέβρωκα ἀπὸ γενέσεώς μου ἕως τοῦ νῦν, οὐ-δὲ εἰσελήλυθεν εἰς τὸ στόμα μου πᾶν κρέας ἕωλον."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "12.23",
+    "form": "βρωθήσεται",
+    "postag": "v3sfip---",
+    "sentence": "οὐ βρωθήσεται ψυχὴ μετὰ τῶν κρεῶν, οὐ φάγεσθε, ἐπὶ τὴν γῆν ἐκχεεῖτε αὐτὸ ὡς ὕδωρ ·"
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "14.14",
+    "form": "βιβρώσκοντος",
+    "postag": "v-sppamg-",
+    "sentence": "τί βρωτὸν ἐξῆλθεν ἐκ βιβρώσκοντος καὶ ἀπὸ ἰσχυροῦ γλυκύ;"
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "30.12",
+    "form": "βεβρώκει",
+    "postag": "v3slia---",
+    "sentence": "καὶ διδόασιν αὐτῷ κλάσμα παλάθης, καὶ ἔφαγε, καὶ κατέστη τὸ πνεῦμα αὐτοῦ ἐν αὐτῷ, ὅτι οὐ βεβρώκει ἄρτον καὶ οὐ πεπώκει ὕδωρ τρεῖς ἡμέρας καὶ τρεῖς νύκτας."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "2.11",
+    "form": "βεβρῶσθαι",
+    "postag": "v--rnm---",
+    "sentence": "διὰ τὸ μὴ βεβρῶσθαι τὸ περὶ τῆς ἁμαρτίας, ἀνηλώθη."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 8,
+  "works": {
+   "1 Clement": 1,
+   "Hermas, Pastor": 7
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "25.1.7",
+    "form": "βεβρωμέναι",
+    "postag": "v-prpmfn-",
+    "sentence": "ἕτεροι δὲ ἐπεδίδοσαν ξηράς, ἀλλ’ οὐκ ἦσαν βεβρωμέναι ὑπὸ σητός ·"
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "39.8",
+    "form": "ἐβρώθη",
+    "postag": "v3saip---",
+    "sentence": "ἐγὼ δὲ ἑώρακα ἄφρονας ῥίζας βάλλοντας, ἀλλ’ εὐθέως ἐβρώθη αὐτῶν ἡ δίαιτα."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "25.1.6",
+    "form": "βεβρωμένας",
+    "postag": "v-prpmfa-",
+    "sentence": "παρά τινων ἐλάμβανε τὰς ῥάβδους ξηρὰς καὶ βεβρωμένας ὡς ὑπὸ σητός ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "25.5.3",
+    "form": "βεβρωμένας",
+    "postag": "v-prpmfa-",
+    "sentence": "πολλοὶ ἐξ αὐτῶν χλωρὰς ἐπέδωκαν, πολλοὶ δὲ ἡμιξήρους, ἕτεροι δὲ ξηρὰς καὶ βεβρωμένας ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "25.4.6",
+    "form": "βεβρωμένας",
+    "postag": "v-prpmfa-",
+    "sentence": "τινὲς δὲ ἐπέδωκαν ξηρὰς καὶ βεβρωμένας, τινὲς δὲ ξηρὰς καὶ ἀβρώτους, τινὲς δὲ οἷαι ἦσαν ἡμίξηροι καὶ σχισμὰς ἔχουσαι."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "25.5.4",
+    "form": "βεβρωμένας",
+    "postag": "v-prpmfa-",
+    "sentence": "πολλοὶ ἐξ αὐτῶν ἡμιξήρους ἐπέδωκαν, τινὲς δὲ ξηρὰς καὶ βεβρωμένας, ἕτεροι δὲ ἡμιξήρους, καὶ σχισμὰς ἐχούσας, ὀλίγοι δὲ χλωράς ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "25.5.2",
+    "form": "βεβρωμέναι",
+    "postag": "v-prpmfn-",
+    "sentence": "τινῶν οὖν εὑρέθησαν αἱ ῥάβδοι ὁλοτελῶς χλωραί, τινῶν ἡμίξηροι, τινῶν ξηραὶ καὶ βεβρωμέναι, τινῶν δὲ χλωραὶ καὶ παραφυάδας ἔχουσαι ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "25.6.4",
+    "form": "βεβρωμέναι",
+    "postag": "v-prpmfn-",
+    "sentence": "ὧν αἱ ῥάβδοι ξηραὶ καὶ βεβρωμέναι ὑπὸ σητὸς εὑρέθησαν, οὗτοί εἰσιν οἱ ἀποστάται καὶ προδόται τῆς ἐκκλησίας καὶ βλασφημήσαντες ἐν ταῖς ἁμαρτίαις αὐτῶν τὸν κύριον, ἔτι δὲ καὶ ἐπαισχυνθέντες τὸ ὄνομα κυρίου τὸ ἐπικληθὲν ἐπ’ αὐτούς."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   βιβρώσκω, poët, and late prose,    [in LXX for אכל;]    to eat: Jo 6:13.†"
+}

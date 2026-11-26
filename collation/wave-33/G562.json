@@ -1,0 +1,63 @@
+{
+ "strong": "G562",
+ "lemma": "ἀπέραντος",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1TI 1:4",
+   "form": "ἀπεράντοις",
+   "morph": "A-DPF",
+   "gloss_en": "endless",
+   "gloss_ja": "果てしない",
+   "verse": "μηδὲ προσέχειν μύθοις καὶ γενεαλογίαις ἀπεράντοις, αἵτινες ἐκζητήσεις παρέχουσι μᾶλλον ἢ οἰκονομίαν θεοῦ τὴν ἐν πίστει"
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Machabaeorum iii": 1,
+   "Job": 1
+  },
+  "representatives": [
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "2.9",
+    "form": "ἀπέραντον",
+    "postag": "a-s---fa-",
+    "sentence": "σύ, βασιλεῦ, κτίσας τὴν ἀπέραντον καὶ ἀμέτρητον γῆν, ἐξελέξω τὴν πόλιν ταύτην καὶ ἁγιάσας τὸν τόπον τοῦτον εἰς ὄνομά σοι τῷ τῶν ἁπάντων ἀπροσδεεῖ καὶ παρεδόξασας ἐν ἐπιφανείᾳ μεγαλοπρεπεῖ, σύστασιν ποιησάμενος αὐτοῦ πρὸς δόξαν τοῦ μεγάλου καὶ ἐντίμου ὀνόματός σου."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "36.26",
+    "form": "ἀπέραντος",
+    "postag": "a-s---mn-",
+    "sentence": "ἀριθμὸς ἐτῶν αὐτοῦ, καὶ ἀπέραντος."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "1 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "20.8",
+    "form": "ἀπέραντος",
+    "postag": "a-s---mn-",
+    "sentence": "ὠκεανὸς ἀπέραντος ἀνθρώποις καὶ οἱ μετ’ αὐτὸν κόσμοι ταῖς αὐταῖς ταγαῖς τοῦ δεσπότου διευθύνονται."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   ἀπέραντος, -ον    (< περαίνω, to complete, finish),   [in LXX: Jb 36:26 (חֵקֶר אֵין), III Mac 2:9*;]    endless, interminable: I Ti 1:4.†"
+}

@@ -1,0 +1,97 @@
+{
+ "strong": "G898",
+ "lemma": "βαθμός",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1TI 3:13",
+   "form": "βαθμὸν",
+   "morph": "N-ASM",
+   "gloss_en": "standing",
+   "gloss_ja": "位階",
+   "verse": "οἱ γὰρ καλῶς διακονήσαντες βαθμὸν ἑαυτοῖς καλὸν περιποιοῦνται καὶ πολλὴν παρρησίαν ἐν πίστει τῇ ἐν Χριστῷ Ἰησοῦ."
+  }
+ ],
+ "lxx": {
+  "total": 7,
+  "works": {
+   "Regnorum i": 1,
+   "Regnorum iv": 5,
+   "Ecclesiasticus sive Siracides": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "20.10",
+    "form": "βαθμούς",
+    "postag": "n-p---ma-",
+    "sentence": "κοῦφον τὴν σκιὰν κλῖναι δέκα βαθμούς ·"
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "5.5",
+    "form": "βαθμὸν",
+    "postag": "n-s---ma-",
+    "sentence": "διὰ τοῦτο οὐκ ἐπιβαίνουσιν οἱ ἱερεῖς Δαγὼν καὶ πᾶς ὁ εἰσπορευόμενος εἰς οἶκον Δαγὼν ἐπὶ βαθμὸν οἴκου Δαγὼν ἐν Ἀζώτῳ ἕως τῆς ἡμέρας ταύτης, ὅτι ὑπερβαίνοντες ὑπερβαίνουσι."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "6.36",
+    "form": "βαθμοὺς",
+    "postag": "n-p---ma-",
+    "sentence": "ἐὰν ἴδῃς συνετόν, ὄρθριζε πρὸς αὐτόν, καὶ βαθμοὺς θυρῶν αὐτοῦ ἐκτριβέτω ὁ πούς σου."
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "20.9",
+    "form": "βαθμούς",
+    "postag": "n-p---ma-",
+    "sentence": "πορεύσεται ἡ σκιὰ δέκα βαθμούς, ἐὰν ἐπιστρέψῃ δέκα βαθμούς."
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "20.9",
+    "form": "βαθμούς",
+    "postag": "n-p---ma-",
+    "sentence": "πορεύσεται ἡ σκιὰ δέκα βαθμούς, ἐὰν ἐπιστρέψῃ δέκα βαθμούς."
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "20.10",
+    "form": "βαθμοὺς",
+    "postag": "n-p---ma-",
+    "sentence": "οὐχί, ἀλλ’ ἐπιστραφήτω ἡ σκιὰ ἐν τοῖς ἀναβαθμοῖς δέκα βαθμοὺς εἰς τὰ ὀπίσω."
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "20.11",
+    "form": "βαθμούς",
+    "postag": "n-p---ma-",
+    "sentence": "καὶ ἐβόησεν Ἡσαΐας ὁ προφήτης πρὸς Κύριον, καὶ ἐπέστρεψεν ἡ σκιὰ ἐν τοῖς ἀναβαθμοῖς εἰς τὰ ὀπίσω δέκα βαθμούς."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   † βαθμός, -οῦ, ὁ, Ion. form of βασμός    (< βαίνω, to step),   [in LXX I Ki 5:5 (מִפְתָּן), IV Ki 20:9,  10, 11 (מַעֲלָה), Si 6:36*;]    a step (IV Ki 20:9,  10, 11, of degrees of a dial); metaph., a degree, standing: I Ti 3:13.†"
+}

@@ -1,0 +1,71 @@
+{
+ "strong": "G5541",
+ "lemma": "χρηστεύομαι",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 13:4",
+   "form": "χρηστεύεται",
+   "morph": "V-PNI-3S",
+   "gloss_en": "kind",
+   "gloss_ja": "親切にする",
+   "verse": "Ἡ ἀγάπη μακροθυμεῖ, χρηστεύεται ἡ ἀγάπη, οὐ ζηλοῖ ἡ ἀγάπη, οὐ περπερεύεται, οὐ φυσιοῦται,"
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Psalmi Salomonis": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "9.6",
+    "form": "χρηστεύσῃ",
+    "postag": "v2sfim---",
+    "sentence": "τίνι χρηστεύσῃ, ὁ θεός, εἰ μὴ τοῖς ἐπικαλουμένοις τὸν κύριον;"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 3,
+  "works": {
+   "1 Clement": 3
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "13.2",
+    "form": "χρηστεύεσθε",
+    "postag": "v2ppim---",
+    "sentence": "ὡς χρηστεύεσθε, οὕτως χρηστευθήσεται ὑμῖν ·"
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "13.2",
+    "form": "χρηστευθήσεται",
+    "postag": "v3sfip---",
+    "sentence": "ὡς χρηστεύεσθε, οὕτως χρηστευθήσεται ὑμῖν ·"
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "14.3",
+    "form": "χρηστευσώμεθα",
+    "postag": "v1pasm---",
+    "sentence": "χρηστευσώμεθα ἑαυτοῖς κατὰ τὴν εὐσπλαγχνίαν καὶ γλυκύτητα τοῦ ποιήσαντος ἡμᾶς."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1 *† χρηστεύομαι    (< χρηστός),     to be kind: I Co 13:4 (eccl.).†"
+}
