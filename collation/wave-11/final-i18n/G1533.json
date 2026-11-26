@@ -1,0 +1,53 @@
+{
+  "strong": "G1533",
+  "lemma": "εἰσφέρω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "持ち込む／連れ込む",
+      "def_ja": "中に持ち込む、連れ込む。『この世に何も持って来なかった』『珍しいことをわたしたちの耳に入れる』『その血が聖所に持ち込まれ』『人々があなたがたを会堂に連れて行くとき』『中に運び込もうとして』『人々の中を運び込もうとして』。",
+      "label_en": "to bring in",
+      "def_en": "To carry or lead inside: “we brought nothing into the world”, “you bring some strange things to our ears”, “whose blood is brought into the holy places”, “when they bring you before the synagogues”, “seeking to bring him in”, “trying to carry him in through the crowd”.",
+      "label_es": "meter / introducir",
+      "def_es": "Llevar o meter dentro: «nada hemos traído a este mundo», «traes a nuestros oídos cosas extrañas», «cuya sangre es introducida en el santuario», «cuando os trajeren a las sinagogas», «procuraban llevarle adentro», «procuraban meterlo entre la gente».",
+      "label_sv": "att föra in / bära in",
+      "def_sv": "Att bära eller leda in: ”vi har inte fört något med oss in i världen”, ”du för främmande ting till våra öron”, ”vars blod bärs in i helgedomen”, ”när man för er inför synagogorna”, ”försökte bära in honom”, ”försökte komma in med honom genom folkmassan”.",
+      "layers": {
+        "nt": 6,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰテモ6:7、使徒17:20、ヘブル13:11、ルカ5:18・5:19・12:11。LXX Ⅱ歴代誌34:16・創世記、教父（4.1）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "（試みに）導き入れる",
+      "def_ja": "試みの中に導き入れる。『わたしたちを試みに会わせないでください』。",
+      "label_en": "to lead into (temptation)",
+      "def_en": "To bring into temptation: “lead us not into temptation”.",
+      "label_es": "meter (en tentación)",
+      "def_es": "Introducir en la tentación: «no nos metas en tentación».",
+      "label_sv": "att föra in i (frestelse)",
+      "def_sv": "Att leda in i prövning: ”för oss inte in i frestelse”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ルカ11:4、マタイ6:13。語義1との境界は連続的。LXX 代表例・教父（8.2）に並行。"
+    }
+  ],
+  "assignments": {
+    "1TI 6:7": 1,
+    "ACT 17:20": 1,
+    "HEB 13:11": 1,
+    "LUK 11:4": 2,
+    "LUK 12:11": 1,
+    "LUK 5:18": 1,
+    "LUK 5:19": 1,
+    "MAT 6:13": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（持ち込む／試みに導く）による。"
+}

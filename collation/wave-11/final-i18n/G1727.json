@@ -1,0 +1,70 @@
+{
+  "strong": "G1727",
+  "lemma": "ἐναντίος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "逆の／反対の／敵対する",
+      "def_ja": "逆の、反対の、敵対する。『すべての人に敵対し』『ナザレ人イエスの名に強く反対する』『逆風』『風が逆であった』『民や父祖の慣習に反することは何もしていない』『行く手をさえぎる風のため』。",
+      "label_en": "opposite / against / hostile",
+      "def_en": "Contrary, opposed, hostile: “opposing all mankind”, “many things in opposing the name of Jesus of Nazareth”, “a headwind”, “the winds were against us”, “I had done nothing against our people or the customs of our fathers”, “because the wind was against us”.",
+      "label_es": "contrario / opuesto / hostil",
+      "def_es": "Contrario, opuesto, enemigo: «se oponen a todos los hombres», «hacer muchas cosas contra el nombre de Jesús de Nazaret», «viento contrario», «porque los vientos eran contrarios», «no habiendo hecho nada contra el pueblo ni contra las costumbres de nuestros padres», «por causa del viento en contra».",
+      "label_sv": "motsatt / fientlig",
+      "def_sv": "Motsatt, emot, fientlig: ”fientliga mot alla människor”, ”göra mycket mot nasaren Jesu namn”, ”motvind”, ”vinden låg emot”, ”inte gjort något mot vårt folk eller fädernas seder”, ”på grund av vinden som låg emot”.",
+      "layers": {
+        "nt": 6,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰテサ2:15、使徒26:9・28:17・27:4、マタイ14:24、マルコ6:48。LXX 出エジプト記・民数記2:2、教父（16.7、4.3）に並行。語義2・3との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "向かい側の",
+      "def_ja": "向かい側の、正面の。『イエスの向かいに立っていた百人隊長』（マルコ15:39）。",
+      "label_en": "facing",
+      "def_en": "Opposite, in front: “the centurion who stood facing him” (Mark 15:39).",
+      "label_es": "frente a",
+      "def_es": "Que está enfrente: «el centurión que estaba frente a él» (Mr 15:39).",
+      "label_sv": "mittemot",
+      "def_sv": "Som står mittemot: ”officeren som stod vänd mot honom” (Mark 15:39).",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "マルコ15:39 の1例のみ。語義1との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "反対者",
+      "def_ja": "反対する者（名詞的）。『反対者が恥じ入るように』（テトス2:8）。",
+      "label_en": "opponent",
+      "def_en": "One who opposes (as a noun): “so that an opponent may be put to shame” (Titus 2:8).",
+      "label_es": "adversario",
+      "def_es": "El que se opone (sustantivado): «de modo que el adversario se avergüence» (Tit 2:8).",
+      "label_sv": "motståndare",
+      "def_sv": "Den som står emot (substantiverat): ”så att motståndaren får skämmas” (Tit 2:8).",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "テトス2:8 の1例のみ。語義1との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1TH 2:15": 1,
+    "ACT 26:9": 1,
+    "ACT 28:17": 1,
+    "ACT 27:4": 1,
+    "MAT 14:24": 1,
+    "MRK 15:39": 2,
+    "MRK 6:48": 1,
+    "TIT 2:8": 3
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（敵対／向かい側／反対者）による。"
+}

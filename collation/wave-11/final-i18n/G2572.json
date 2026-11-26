@@ -1,0 +1,70 @@
+{
+  "strong": "G2572",
+  "lemma": "καλύπτω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "覆う",
+      "def_ja": "覆う、かぶせる。『ともし火を器で覆い』『山々よ、われわれを覆え』『舟は波に覆われそうになった』。",
+      "label_en": "to cover",
+      "def_en": "To cover, to put over: “cover a lamp with a vessel”, “say to the hills, ‘Cover us’”, “the boat was being covered by the waves”.",
+      "label_es": "cubrir",
+      "def_es": "Cubrir, tapar: «ninguno enciende la luz para cubrirla con una vasija», «decid a los montes: cubridnos», «las olas cubrían la barca».",
+      "label_sv": "att täcka",
+      "def_sv": "Att täcka över: ”täcker lampan med ett kärl”, ”säga till höjderna: göm oss”, ”båten höll på att överspolas av vågorna”.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ8:16・23:30、マタイ8:24。LXX（10.15・54.6）に並行。教父の代表例は罪の覆いの用法で、この語義としては確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "覆い隠される（比喩）",
+      "def_ja": "隠されている、覆いがかかっている。『隠されているもので現れないものはない』『わたしたちの福音に覆いがかかっているとすれば、滅びる者にとって覆いがかかっている』。",
+      "label_en": "to be veiled (figurative)",
+      "def_en": "To be hidden, to have a veil over: “nothing is covered that will not be revealed”, “if our gospel is veiled, it is veiled to those who are perishing”.",
+      "label_es": "estar encubierto (figurado)",
+      "def_es": "Estar oculto, tener un velo: «nada hay encubierto que no haya de ser manifestado», «si nuestro evangelio está encubierto, entre los que se pierden está encubierto».",
+      "label_sv": "att vara dold (bildligt)",
+      "def_sv": "Att vara gömd, ha en slöja över: ”ingenting är dolt som inte ska uppenbaras”, ”är vårt evangelium dolt så är det dolt för dem som går förlorade”.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マタイ10:26、コリント第二4:3（2回）。語義1・3との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "罪を覆う",
+      "def_ja": "罪を覆う。『愛は多くの罪を覆う』『多くの罪を覆うことになる』。",
+      "label_en": "to cover sins",
+      "def_en": "To cover sins: “love covers a multitude of sins”, “will cover a multitude of sins”.",
+      "label_es": "cubrir pecados",
+      "def_es": "Cubrir los pecados: «el amor cubrirá multitud de pecados», «cubrirá multitud de pecados».",
+      "label_sv": "att överskyla synder",
+      "def_sv": "Att skyla synder: ”kärleken överskyler många synder”, ”kommer att skyla många synder”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "ペテロ第一4:8、ヤコブ5:20。教父（16.4・49.5）に並行。LXX の代表例は物理的な覆いの用法で、この語義としては確認していない。"
+    }
+  ],
+  "assignments": {
+    "1PE 4:8": 3,
+    "2CO 4:3#1": 2,
+    "2CO 4:3#2": 2,
+    "JAS 5:20": 3,
+    "LUK 23:30": 1,
+    "LUK 8:16": 1,
+    "MAT 10:26": 2,
+    "MAT 8:24": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は対象（物の覆い／隠蔽／罪の覆い）による。"
+}

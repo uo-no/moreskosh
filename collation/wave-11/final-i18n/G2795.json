@@ -1,0 +1,70 @@
+{
+  "strong": "G2795",
+  "lemma": "κινέω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "動かす・動く",
+      "def_ja": "動かす、揺する、動く。『指一本さえ動かそうとはしない』『頭を振って』『頭を振りながら』『わたしたちは動いている』。",
+      "label_en": "to move",
+      "def_en": "To move, to shake, to stir: “not willing to move them with their finger”, “wagging their heads”, “shaking their heads”, “in him we move”.",
+      "label_es": "mover / moverse",
+      "def_es": "Mover, menear, moverse: «ni con un dedo quieren moverlas», «meneando la cabeza», «moviendo la cabeza», «en él nos movemos».",
+      "label_sv": "att röra / röra sig",
+      "def_sv": "Att flytta, skaka, röra sig: ”vill inte rubba dem med ett finger”, ”skakade på huvudet”, ”skakande på huvudet”, ”i honom rör vi oss”.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "マタイ23:4・27:39、マルコ15:29、使徒17:28。LXX（11.2・41.7）、教父（16.16）に並行。語義2・3との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "取り除く・移される",
+      "def_ja": "場所から取り除く、移される。『あなたの燭台をその場所から取りのける』『山も島もその場所から移された』。",
+      "label_en": "to remove / be moved",
+      "def_en": "To remove from a place, to be moved: “remove your lampstand from its place”, “every mountain and island was removed from its place”.",
+      "label_es": "quitar / ser removido",
+      "def_es": "Quitar de su lugar, ser removido: «quitaré tu candelero de su lugar», «todo monte y toda isla se removió de su lugar».",
+      "label_sv": "att flytta / flyttas",
+      "def_sv": "Att ta bort från en plats, att flyttas: ”flytta ditt lampställ från dess plats”, ”berg och öar flyttades från sina platser”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "黙示録2:5・6:14。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "騒ぎ立てる・扇動する",
+      "def_ja": "騒ぎを起こす、扇動する。『世界中のユダヤ人の間に騒ぎを起こし』『町中が騒ぎだし』。",
+      "label_en": "to stir up / agitate",
+      "def_en": "To cause a commotion, to incite: “stirs up riots among all the Jews throughout the world”, “the whole city was stirred up”.",
+      "label_es": "alborotar / incitar",
+      "def_es": "Causar alboroto, instigar: «promotor de sediciones entre todos los judíos por todo el mundo», «toda la ciudad se conmovió».",
+      "label_sv": "att väcka oro / uppvigla",
+      "def_sv": "Att skapa tumult, att hetsa: ”anstiftar oroligheter bland judar över hela världen”, ”hela staden kom i uppror”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒24:5・21:30。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 17:28": 1,
+    "ACT 24:5": 3,
+    "ACT 21:30": 3,
+    "MAT 23:4": 1,
+    "MAT 27:39": 1,
+    "MRK 15:29": 1,
+    "REV 2:5": 2,
+    "REV 6:14": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（動かす／取り除く／騒ぎ立てる）による。"
+}

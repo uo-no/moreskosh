@@ -1,0 +1,36 @@
+{
+  "strong": "G2782",
+  "lemma": "κήρυγμα",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "宣言・宣べ伝え",
+      "def_ja": "宣べ伝えられること、宣言。『愚かな宣教によって、信じる者を救う』『わたしの宣教は』『わたしたちの宣教も空しい』『ヨナの宣教によって悔い改めた』『宣教がわたしを通して成し遂げられ』『定められた時に宣教によって』。",
+      "label_en": "proclamation / preaching",
+      "def_en": "What is preached, a proclamation: “through the folly of what we preach to save those who believe”, “my preaching”, “our preaching is in vain”, “repented at the preaching of Jonah”, “that through me the message might be fully proclaimed”, “at the proper time through the preaching”.",
+      "label_es": "proclamación / predicación",
+      "def_es": "Lo predicado, la proclamación: «salvar a los creyentes por la locura de la predicación», «mi predicación», «vana es nuestra predicación», «se arrepintieron a la predicación de Jonás», «para que por mí fuese cumplida la predicación», «a su debido tiempo por medio de la predicación».",
+      "label_sv": "förkunnelse",
+      "def_sv": "Det som förkunnas, kungörelsen: ”genom förkunnelsens dårskap rädda dem som tror”, ”min förkunnelse”, ”vår förkunnelse är tom”, ”omvände sig vid Jonas förkunnelse”, ”så att budskapet genom mig skulle förkunnas fullt ut”, ”i rätt tid genom förkunnelsen”.",
+      "layers": {
+        "nt": 8,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "コリント第一2:4・1:21・15:14、テモテ第二4:17、ルカ11:32、マタイ12:41、マルコ16:8、テトス1:3。LXX（30.5・9.3）、教父（26.15.4・12.6）に並行。宣べ伝える行為と宣べ伝えられた内容の区別は連続的で、語義としては分けない。マルコ16:8は写本上の扱いが分かれる箇所だが、ここでは割り当てるのみ。"
+    }
+  ],
+  "assignments": {
+    "1CO 2:4": 1,
+    "1CO 1:21": 1,
+    "1CO 15:14": 1,
+    "2TI 4:17": 1,
+    "LUK 11:32": 1,
+    "MAT 12:41": 1,
+    "MRK 16:8": 1,
+    "TIT 1:3": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。行為／内容の区別は決定しない。"
+}

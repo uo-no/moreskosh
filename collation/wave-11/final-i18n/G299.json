@@ -1,0 +1,53 @@
+{
+  "strong": "G299",
+  "lemma": "ἄμωμος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "傷のない（いけにえ）",
+      "def_ja": "傷のない。『傷もなく汚れもない小羊のようなキリストの尊い血』『傷のないご自身を神にささげた』。",
+      "label_en": "without blemish (sacrifice)",
+      "def_en": "Without blemish: “the precious blood of Christ, like that of a lamb without blemish or spot”, “offered himself without blemish to God”.",
+      "label_es": "sin tacha (víctima)",
+      "def_es": "Sin defecto: «la sangre preciosa de Cristo, como de un cordero sin mancha y sin contaminación», «se ofreció a sí mismo sin mancha a Dios».",
+      "label_sv": "felfri (offerdjur)",
+      "def_sv": "Utan lyte: ”Kristi dyrbara blod, som av ett lamm utan fel och fläck”, ”frambar sig själv som ett felfritt offer åt Gud”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ペテロ第一1:19、ヘブル9:14。LXX（1.3・28.31）に並行。教父の代表例は倫理的用法。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "責められるところのない（倫理的）",
+      "def_ja": "非のうちどころのない、責められない。『御前に聖なる、責められるところのない者』『きずのない者』『とがのない者』『非難されるところのない者として』『傷のない者』。",
+      "label_en": "blameless (ethical)",
+      "def_en": "Beyond reproach, blameless: “holy and blameless before him”, “without blemish”, “faultless”, “above reproach”, “unblemished”.",
+      "label_es": "irreprensible (moral)",
+      "def_es": "Intachable, sin culpa: «santos y sin mancha delante de él», «sin mancha», «sin falta», «irreprensibles», «sin tacha».",
+      "label_sv": "oklanderlig (etiskt)",
+      "def_sv": "Utan klander och skuld: ”heliga och fläckfria inför honom”, ”utan fläck”, ”felfria”, ”så att ingen kan klandra”, ”oförvitliga”.",
+      "layers": {
+        "nt": 6,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "コロサイ1:22、エペソ1:4・5:27、ユダ24、ピリピ2:15、黙示録14:5。教父（6.praef.1）に並行。LXX の代表例は犠牲の用法で、この語義としては確認していない。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "1PE 1:19": 1,
+    "COL 1:22": 2,
+    "EPH 1:4": 2,
+    "EPH 5:27": 2,
+    "HEB 9:14": 1,
+    "JUD 1:24": 2,
+    "PHP 2:15": 2,
+    "REV 14:5": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（いけにえの傷／倫理的な非難のなさ）による。"
+}

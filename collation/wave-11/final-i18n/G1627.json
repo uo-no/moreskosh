@@ -1,0 +1,53 @@
+{
+  "strong": "G1627",
+  "lemma": "ἐκφέρω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "運び出す／連れ出す",
+      "def_ja": "運び出す、持ち出す、連れ出す。『何も持ち出すこともできない』『運び出して葬った』『あなたの夫を葬った人たちが』『病人を通りに運び出し』『最上の衣を出して』『盲人を村の外に連れ出し』。",
+      "label_en": "to carry out / bring out",
+      "def_en": "To carry out, take out, lead out: “we cannot take anything out of the world”, “carried him out and buried him”, “those who have buried your husband”, “carried out the sick into the streets”, “bring out the best robe”, “led the blind man out of the village”.",
+      "label_es": "sacar / llevar fuera",
+      "def_es": "Sacar, llevar fuera, conducir fuera: «nada podremos sacar», «sacándole, le sepultaron», «los pies de los que han sepultado a tu marido», «sacaban los enfermos a las calles», «sacad el mejor vestido», «sacó al ciego fuera de la aldea».",
+      "label_sv": "att bära ut / föra ut",
+      "def_sv": "Att bära ut, ta med ut, leda ut: ”kan inte heller bära med oss något ut”, ”bar ut honom och begravde honom”, ”de som begravt din man”, ”bar ut de sjuka på gatorna”, ”ta fram den finaste dräkten”, ”förde den blinde ut ur byn”.",
+      "layers": {
+        "nt": 7,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰテモ6:7、使徒5:6・5:9・5:10・5:15、ルカ15:22、マルコ8:23。LXX 創世記・申命記26:10、教父（52.2、4.1）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "産出する（地が）",
+      "def_ja": "産み出す、実らせる。『いばらとあざみを生ずる地』（ヘブル6:8）。",
+      "label_en": "to produce (the earth)",
+      "def_en": "To bring forth, to bear: “if it bears thorns and thistles” (Heb 6:8).",
+      "label_es": "producir (la tierra)",
+      "def_es": "Producir, dar fruto: «la que produce espinos y abrojos» (He 6:8).",
+      "label_sv": "att frambringa (jorden)",
+      "def_sv": "Att bära och ge: ”om den bär törne och tistel” (Heb 6:8).",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヘブル6:8 の1例のみ。語義1との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1TI 6:7": 1,
+    "ACT 5:6": 1,
+    "ACT 5:9": 1,
+    "ACT 5:10": 1,
+    "ACT 5:15": 1,
+    "HEB 6:8": 2,
+    "LUK 15:22": 1,
+    "MRK 8:23": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（運び出す／産出）による。"
+}

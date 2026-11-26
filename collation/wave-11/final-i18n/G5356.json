@@ -1,0 +1,54 @@
+{
+  "strong": "G5356",
+  "lemma": "φθορά",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "朽ちること／腐敗",
+      "def_ja": "朽ちること、腐敗、朽ちやすさ。『朽ちるものとして蒔かれ』『朽ちるものは朽ちないものを受け継ぐことはできない』『滅びの束縛から解放され』『腐敗を逃れ』『肉に蒔く者は肉から滅びを刈り取る』『使えば消えてなくなるもの』。",
+      "label_en": "perishability / decay",
+      "def_en": "Perishing, corruption, perishableness: “sown perishable”, “the perishable cannot inherit the imperishable”, “set free from its bondage to corruption”, “having escaped from corruption”, “the one who sows to the flesh will from the flesh reap corruption”, “things that perish with use”.",
+      "label_es": "corrupción",
+      "def_es": "El corromperse, la podredumbre, lo perecedero: «se siembra en corrupción», «ni la corrupción hereda la incorrupción», «libertada de la esclavitud de corrupción», «habiendo huido de la corrupción», «el que siembra para su carne, de la carne segará corrupción», «cosas que se destruyen con el uso».",
+      "label_sv": "förgänglighet / förruttnelse",
+      "def_sv": "Att förgå, förruttnelse, förgänglighet: ”det som sås är förgängligt”, ”det förgängliga kan inte ärva det oförgängliga”, ”befriad ur sitt slaveri under förgängelsen”, ”ha undkommit fördärvet”, ”den som sår i sitt kött får skörda undergång”, ”ting som förbrukas när de används”.",
+      "layers": {
+        "nt": 7,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰコリ15:42・15:50、Ⅱペテロ2:19・1:4、コロサイ2:22、ガラテヤ6:8、ローマ8:21。LXX 知恵14:12・Ⅲマカバイ、教父（19.5、6.4）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "滅び／破滅",
+      "def_ja": "滅び、滅亡。『彼らは滅びるために生まれた』『滅びにおいても滅びる』。",
+      "label_en": "destruction / ruin",
+      "def_en": "Destruction, ruin: “born to be destroyed”, “will also be destroyed in their destruction”.",
+      "label_es": "destrucción / perdición",
+      "def_es": "Destrucción, ruina: «nacidos para destrucción», «perecerán en su propia perdición».",
+      "label_sv": "undergång / fördärv",
+      "def_sv": "Förstörelse, undergång: ”födda för att förgås”, ”ska gå under med sitt fördärv”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "Ⅱペテロ2:12（2回）。語義1との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 15:42": 1,
+    "1CO 15:50": 1,
+    "2PE 2:12#1": 2,
+    "2PE 2:12#2": 2,
+    "2PE 2:19": 1,
+    "2PE 1:4": 1,
+    "COL 2:22": 1,
+    "GAL 6:8": 1,
+    "ROM 8:21": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（朽ちること／滅び）による。"
+}

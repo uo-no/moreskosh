@@ -1,0 +1,53 @@
+{
+  "strong": "G1950",
+  "lemma": "ἐπιλανθάνομαι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "忘れる",
+      "def_ja": "忘れる、忘れている。『あなたがたの働きを忘れ』『自分の姿を忘れてしまう』『一羽も神に忘れられてはいない』『パンを持って来るのを忘れた』『後ろのものを忘れ』。",
+      "label_en": "to forget",
+      "def_en": "To forget, to be forgetful of: “overlook your work”, “forgets what he was like”, “not one of them is forgotten before God”, “forgot to bring bread”, “forgetting what lies behind”.",
+      "label_es": "olvidar",
+      "def_es": "Olvidar, no acordarse: «olvidar vuestra obra», «olvida cómo era», «ni uno de ellos está olvidado delante de Dios», «se olvidaron de traer pan», «olvidando lo que queda atrás».",
+      "label_sv": "att glömma",
+      "def_sv": "Att glömma, ha glömt: ”glömma vad ni har gjort”, ”glömmer hur han såg ut”, ”inte en enda av dem är bortglömd av Gud”, ”hade glömt att ta med bröd”, ”jag glömmer det som ligger bakom”.",
+      "layers": {
+        "nt": 6,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヘブル6:10、ヤコブ1:24、ルカ12:6、マタイ16:5、マルコ8:14、ピリピ3:13。LXX 詩篇12:2・イザヤ23:16、教父（10.3、35.11）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "おろそかにする",
+      "def_ja": "おろそかにする、気にかけない。『旅人をもてなすことを忘れてはいけない』『善を行い、施すことを忘れるな』。",
+      "label_en": "to neglect",
+      "def_en": "To neglect, to pay no heed: “do not neglect to show hospitality to strangers”, “do not neglect to do good and to share”.",
+      "label_es": "descuidar",
+      "def_es": "Descuidar, no hacer caso: «no os olvidéis de la hospitalidad», «de hacer bien y de la ayuda mutua no os olvidéis».",
+      "label_sv": "att försumma",
+      "def_sv": "Att försumma, inte bry sig om: ”glöm inte att visa gästfrihet”, ”glöm inte att göra gott och dela med er”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヘブル13:2・13:16。語義1との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "HEB 13:2": 2,
+    "HEB 13:16": 2,
+    "HEB 6:10": 1,
+    "JAS 1:24": 1,
+    "LUK 12:6": 1,
+    "MAT 16:5": 1,
+    "MRK 8:14": 1,
+    "PHP 3:13": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（忘れる／おろそかにする）による。"
+}

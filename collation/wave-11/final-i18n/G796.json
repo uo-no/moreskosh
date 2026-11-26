@@ -1,0 +1,54 @@
+{
+  "strong": "G796",
+  "lemma": "ἀστραπή",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "稲妻",
+      "def_ja": "稲妻、いなびかり。『サタンが稲妻のように天から落ちるのを見た』『人の子は稲妻のように』『その姿は稲妻のよう』『稲妻、声、雷鳴』『稲妻と雷鳴と地震』。",
+      "label_en": "lightning",
+      "def_en": "Lightning: “I saw Satan fall like lightning from heaven”, “the Son of Man like lightning”, “his appearance was like lightning”, “lightning, voices, and peals of thunder”, “lightning, thunder, and an earthquake”.",
+      "label_es": "relámpago",
+      "def_es": "Relámpago: «veía a Satanás caer del cielo como un rayo», «el Hijo del Hombre como el relámpago», «su aspecto era como un relámpago», «relámpagos, voces y truenos», «relámpagos, truenos y un terremoto».",
+      "label_sv": "blixt",
+      "def_sv": "Blixt: ”jag såg Satan falla från himlen som en blixt”, ”Människosonen som blixten”, ”hans utseende var som blixten”, ”blixtar, röster och dunder”, ”blixtar, åska och jordbävning”.",
+      "layers": {
+        "nt": 8,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ10:18・17:24、マタイ28:3・24:27、黙示録4:5・8:5・11:19・16:18。LXX 詩篇96:4 に並行。教父の用例は無い。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "輝き（ともしびの）",
+      "def_ja": "光り輝くこと。『ともしびがその輝きであなたを照らすように』（ルカ11:36）。",
+      "label_en": "brightness (of a lamp)",
+      "def_en": "Bright shining: “as when a lamp with its rays gives you light” (Luke 11:36).",
+      "label_es": "resplandor (de una lámpara)",
+      "def_es": "El brillar con fuerza: «como cuando una lámpara te alumbra con su resplandor» (Lc 11:36).",
+      "label_sv": "sken (lampans)",
+      "def_sv": "Strålande ljus: ”som när lampan lyser upp dig med sitt sken” (Luk 11:36).",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ11:36 の1例のみ。語義1との境界は連続的。LXX 代表例に並行。教父の用例は無い。"
+    }
+  ],
+  "assignments": {
+    "LUK 10:18": 1,
+    "LUK 11:36": 2,
+    "LUK 17:24": 1,
+    "MAT 28:3": 1,
+    "MAT 24:27": 1,
+    "REV 11:19": 1,
+    "REV 16:18": 1,
+    "REV 4:5": 1,
+    "REV 8:5": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。教父の用例は無い。"
+}

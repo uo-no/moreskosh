@@ -1,0 +1,53 @@
+{
+  "strong": "G1272",
+  "lemma": "διανοίγω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "開く／開かれる（文字どおり）",
+      "def_ja": "開く、開かれる。『胎を開く者』『エパタ、開け』『天が開けているのが見える』『彼らの目が開かれ』。",
+      "label_en": "to open (literal)",
+      "def_en": "To open, to be opened: “every male who opens the womb”, “Ephphatha, be opened”, “I see the heavens opened”, “their eyes were opened”.",
+      "label_es": "abrir (en sentido literal)",
+      "def_es": "Abrir, abrirse: «todo varón que abriere la matriz», «Efata, sé abierto», «veo los cielos abiertos», «les fueron abiertos los ojos».",
+      "label_sv": "att öppna (bokstavligt)",
+      "def_sv": "Att öppna, att öppnas: ”varje förstfödd som öppnar moderlivet”, ”Effata, öppna dig”, ”jag ser himlen öppen”, ”deras ögon öppnades”.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ2:23・24:31、マルコ7:34、使徒7:56。LXX 出エジプト記・民数記 に並行。教父の用例は無い。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "（心・知性を）開く／解き明かす",
+      "def_ja": "心・知性を開く、聖書を解き明かす。『心を開いて』『聖書を解き明かしてくださったとき』『聖書を解き明かし、論じ』『心を開かれて悟らせた』。",
+      "label_en": "to open (heart, mind) / explain",
+      "def_en": "To open the heart or mind, to expound Scripture: “opened her heart”, “while he opened to us the Scriptures”, “explaining and reasoning from the Scriptures”, “opened their minds to understand”.",
+      "label_es": "abrir (corazón, entendimiento) / explicar",
+      "def_es": "Abrir el corazón o la mente, declarar las Escrituras: «abrió el corazón de ella», «cuando nos abría las Escrituras», «declarando y exponiendo», «les abrió el entendimiento para que comprendiesen».",
+      "label_sv": "att öppna (hjärta, sinne) / utlägga",
+      "def_sv": "Att öppna hjärtat eller förståndet, att förklara Skriften: ”öppnade hennes hjärta”, ”när han öppnade Skrifterna för oss”, ”utlade Skrifterna och bevisade”, ”öppnade deras sinnen så att de förstod”.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒16:14・17:3、ルカ24:45・24:32。語義1との境界は連続的。LXX 代表例に並行。教父の用例は無い。"
+    }
+  ],
+  "assignments": {
+    "ACT 16:14": 2,
+    "ACT 17:3": 2,
+    "ACT 7:56": 1,
+    "LUK 2:23": 1,
+    "LUK 24:31": 1,
+    "LUK 24:32": 2,
+    "LUK 24:45": 2,
+    "MRK 7:34": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（文字どおり／心・聖書）による。教父の用例は無い。"
+}

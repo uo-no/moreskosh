@@ -1,0 +1,54 @@
+{
+  "strong": "G730",
+  "lemma": "ἄρσην",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "男／雄（性別）",
+      "def_ja": "男、雄。『男と女に造られた』『男も女もない』『男の子を産んだ』『男子の初子』『初めから人を男と女に造られた』『男子である子を産んだ女』。",
+      "label_en": "male (sex)",
+      "def_en": "Male: “male and female he created them”, “there is neither male nor female”, “gave birth to a male”, “every firstborn male”, “from the beginning made them male and female”, “the woman who had given birth to a male child”.",
+      "label_es": "varón / macho (sexo)",
+      "def_es": "Varón, macho: «varón y hembra los creó», «no hay varón ni mujer», «dio a luz un hijo varón», «todo varón que abriere la matriz», «al principio, varón y hembra los hizo», «la mujer que había dado a luz al hijo varón».",
+      "label_sv": "man / hane (kön)",
+      "def_sv": "Man, hankön: ”till man och kvinna skapade han dem”, ”inte man eller kvinna”, ”födde ett gossebarn”, ”varje förstfödd av mankön”, ”från början gjorde dem till man och kvinna”, ”kvinnan som fött gossebarnet”.",
+      "layers": {
+        "nt": 6,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ガラテヤ3:28、ルカ2:23、マタイ19:4、マルコ10:6、黙示録12:5・12:13。LXX 創世記5:2・レビ記6:22、教父（14.2、10.7）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "男たち（男性の人々）",
+      "def_ja": "男たち、男性。『男たちも同様に…男が男と』（ローマ1:27）。",
+      "label_en": "men (male persons)",
+      "def_en": "Men, males: “likewise the men … men with men” (Rom 1:27).",
+      "label_es": "hombres (varones)",
+      "def_es": "Los hombres, los varones: «de igual modo también los hombres … hombres con hombres» (Ro 1:27).",
+      "label_sv": "män (manliga personer)",
+      "def_sv": "Männen: ”på samma sätt männen … män med män” (Rom 1:27).",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ローマ1:27（3回）。語義1との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "GAL 3:28": 1,
+    "LUK 2:23": 1,
+    "MAT 19:4": 1,
+    "MRK 10:6": 1,
+    "REV 12:5": 1,
+    "REV 12:13": 1,
+    "ROM 1:27#1": 2,
+    "ROM 1:27#2": 2,
+    "ROM 1:27#3": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。"
+}

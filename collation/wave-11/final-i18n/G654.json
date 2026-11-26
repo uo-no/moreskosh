@@ -1,0 +1,88 @@
+{
+  "strong": "G654",
+  "lemma": "ἀποστρέφω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "背を向ける／離れる",
+      "def_ja": "背を向ける、離れる、しりぞける。『みな私から離れ去った』『真理から耳をそむけ』『語られる方を拒む者となるな』『真理に背を向ける人々』『頼む者に背を向けるな』。",
+      "label_en": "to turn away from / desert",
+      "def_en": "To turn one's back, leave, repel: “all have turned away from me”, “turn their ears from the truth”, “do not reject him who speaks”, “people who turn away from the truth”, “do not turn away from the one who would borrow”.",
+      "label_es": "volver la espalda / apartarse",
+      "def_es": "Dar la espalda, apartarse, rechazar: «me abandonaron todos», «apartarán de la verdad el oído», «si desechamos al que habla», «hombres que se apartan de la verdad», «al que quiera tomar prestado, no se lo rehúses».",
+      "label_sv": "att vända ryggen / överge",
+      "def_sv": "Att vända ryggen till, lämna, avvisa: ”alla har vänt sig bort från mig”, ”vända öronen från sanningen”, ”avvisa inte den som talar”, ”människor som vänder sig bort från sanningen”, ”vänd inte ryggen åt den som vill låna”.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅱテモ1:15・4:4、ヘブル12:25、テトス1:14、マタイ5:42。LXX 詩篇・箴言、教父（18.9、4.8）に並行。語義3との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "元に戻す",
+      "def_ja": "元に戻す、納める。『剣をもとの所に納めなさい』（マタイ26:52）。",
+      "label_en": "to put back",
+      "def_en": "To return something to its place: “put your sword back into its place” (Matt 26:52).",
+      "label_es": "volver a su sitio",
+      "def_es": "Devolver a su lugar, envainar: «vuelve tu espada a su lugar» (Mt 26:52).",
+      "label_sv": "att sticka tillbaka",
+      "def_sv": "Att lägga tillbaka på sin plats: ”stick tillbaka ditt svärd” (Matt 26:52).",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "マタイ26:52 の1例のみ。LXX 代表例に並行。教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "（罪から）離れさせる",
+      "def_ja": "人を罪・不義から引き離す。『悪から離れさせて祝福を』『ヤコブから不敬虔を取り除く』。",
+      "label_en": "to turn (people) away from sin",
+      "def_en": "To draw people away from sin and iniquity: “to bless you by turning you from your wickedness”, “he will banish ungodliness from Jacob”.",
+      "label_es": "apartar (del pecado)",
+      "def_es": "Sacar a la persona del pecado y la maldad: «para bendeciros, a fin de que cada uno se convierta de su maldad», «apartará de Jacob la impiedad».",
+      "label_sv": "att vända (någon) bort från synden",
+      "def_sv": "Att föra människor bort från synd och orätt: ”välsigna er genom att vända er bort från ondskan”, ”ta bort gudlösheten från Jakob”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒3:26、ローマ11:26。語義1との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+    },
+    {
+      "n": 4,
+      "label_ja": "惑わす／そむかせる",
+      "def_ja": "民を惑わす、そむかせる。『民を惑わす者として』（ルカ23:14）。",
+      "label_en": "to mislead / turn aside",
+      "def_en": "To lead the people astray, to turn them away: “as one who was misleading the people” (Luke 23:14).",
+      "label_es": "descarriar / pervertir",
+      "def_es": "Extraviar al pueblo, hacerlo apartarse: «como uno que perturba al pueblo» (Lc 23:14).",
+      "label_sv": "att förleda",
+      "def_sv": "Att vilseleda och uppvigla folket: ”som en som förleder folket” (Luk 23:14).",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ23:14 の1例のみ。語義1との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "2TI 1:15": 1,
+    "2TI 4:4": 1,
+    "ACT 3:26": 3,
+    "HEB 12:25": 1,
+    "LUK 23:14": 4,
+    "MAT 5:42": 1,
+    "MAT 26:52": 2,
+    "ROM 11:26": 3,
+    "TIT 1:14": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。"
+}

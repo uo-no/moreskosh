@@ -1,0 +1,70 @@
+{
+  "strong": "G1025",
+  "lemma": "βρέφος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "赤子／乳飲み子",
+      "def_ja": "赤子、新生児。『生まれたばかりの乳飲み子のように』『幼子を捨てさせ』『乳飲み子たちを連れて来た』『布にくるまって飼い葉おけに寝ている乳飲み子』『その乳飲み子を捜し当てた』。",
+      "label_en": "infant / baby",
+      "def_en": "A baby, a newborn: “like newborn infants”, “made them expose their infants”, “they were even bringing infants to him”, “a baby wrapped in cloths and lying in a manger”, “found the baby”.",
+      "label_es": "niño de pecho / recién nacido",
+      "def_es": "Bebé, recién nacido: «como niños recién nacidos», «para que expusiesen a sus niños», «traían a él los niños», «un niño envuelto en pañales, acostado en un pesebre», «hallaron al niño».",
+      "label_sv": "spädbarn / nyfött barn",
+      "def_sv": "Ett spädbarn, en nyfödd: ”som nyfödda barn”, ”tvingade dem att sätta ut sina spädbarn”, ”bar fram sina spädbarn till honom”, ”ett nyfött barn som är lindat och ligger i en krubba”, ”fann det nyfödda barnet”.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰペテロ2:2、使徒7:19、ルカ18:15・2:12・2:16。LXX Ⅰマカバイ1:61・Ⅱマカバイ6:10、教父（26.29.3）に並行。語義2・3との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "胎内の子",
+      "def_ja": "胎内の子。『胎内の子が踊り』『胎内で喜びのあまりおどりました』。",
+      "label_en": "child in the womb",
+      "def_en": "A child in the womb: “the baby leaped in her womb”, “the baby in my womb leaped for joy”.",
+      "label_es": "niño en el vientre",
+      "def_es": "La criatura en el seno: «la criatura saltó en su vientre», «la criatura saltó de alegría en mi vientre».",
+      "label_sv": "barnet i moderlivet",
+      "def_sv": "Barnet i moderns liv: ”barnet sparkade till i hennes liv”, ”barnet i mitt liv sparkade till av glädje”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ1:41・1:44。語義1との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "幼いころ（ἀπὸ βρέφους）",
+      "def_ja": "『幼いときから』（Ⅱテモ3:15）。",
+      "label_en": "infancy (ἀπὸ βρέφους)",
+      "def_en": "“From childhood” (2 Tim 3:15).",
+      "label_es": "niñez (ἀπὸ βρέφους)",
+      "def_es": "«Desde la niñez» (2 Ti 3:15).",
+      "label_sv": "barndomen (ἀπὸ βρέφους)",
+      "def_sv": "”Från späda år” (2 Tim 3:15).",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "Ⅱテモ3:15 の1例のみ。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1PE 2:2": 1,
+    "2TI 3:15": 3,
+    "ACT 7:19": 1,
+    "LUK 1:41": 2,
+    "LUK 1:44": 2,
+    "LUK 18:15": 1,
+    "LUK 2:12": 1,
+    "LUK 2:16": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。"
+}

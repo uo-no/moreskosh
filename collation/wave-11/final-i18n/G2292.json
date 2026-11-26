@@ -1,0 +1,53 @@
+{
+  "strong": "G2292",
+  "lemma": "θαρρέω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "確信している・大胆である",
+      "def_ja": "確信している、大胆である。『大胆に振る舞う』『大胆に振る舞うことを』『わたしたちは常に心強い』『心強いのである』『あなたがたに信頼を置いている』『わたしたちは確信をもって言う』。",
+      "label_en": "to be confident / bold",
+      "def_en": "To be confident, to be bold: “to be bold”, “to show such boldness”, “we are always of good courage”, “we are of good courage”, “I have confidence in you”, “we can confidently say”.",
+      "label_es": "estar confiado / ser osado",
+      "def_es": "Tener confianza, ser audaz: «ser atrevido», «usar de aquella osadía», «vivimos confiados siempre», «confiamos», «tengo confianza en vosotros», «podemos decir confiadamente».",
+      "label_sv": "att vara frimodig / ha förtröstan",
+      "def_sv": "Att vara trygg och djärv: ”uppträda djärvt”, ”visa sådan djärvhet”, ”vi är alltid vid gott mod”, ”vi är frimodiga”, ”jag litar på er”, ”vi kan tryggt säga”.",
+      "layers": {
+        "nt": 6,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "コリント第二10:1・10:2・5:6・5:8・7:16、ヘブル13:6。LXX の代表例（θαρσεῖτε）は命令形の用法で、この語義としては確認していない。教父の代表例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "勇気を出す（命令）",
+      "def_ja": "勇気を出しなさい、安心しなさい。『勇気を出しなさい。わたしはすでに世に勝っている』『安心しなさい。わたしだ』。",
+      "label_en": "take courage (command)",
+      "def_en": "Be of good courage, be reassured: “take heart; I have overcome the world”, “take heart; it is I”.",
+      "label_es": "¡ánimo! (mandato)",
+      "def_es": "Cobrad ánimo, tranquilizaos: «confiad, yo he vencido al mundo», «¡tened ánimo; yo soy!».",
+      "label_sv": "var vid gott mod (uppmaning)",
+      "def_sv": "Var modig, var lugn: ”var vid gott mod, jag har övervunnit världen”, ”var lugna, det är jag”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヨハネ16:33、マルコ6:50（いずれも命令形）。LXX（14.13・8.13）に並行。教父の代表例なし。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "2CO 10:1": 1,
+    "2CO 10:2": 1,
+    "2CO 5:6": 1,
+    "2CO 5:8": 1,
+    "2CO 7:16": 1,
+    "HEB 13:6": 1,
+    "JHN 16:33": 2,
+    "MRK 6:50": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（状態の確信／呼びかけの命令）による。"
+}

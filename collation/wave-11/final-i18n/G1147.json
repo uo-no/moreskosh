@@ -1,0 +1,53 @@
+{
+  "strong": "G1147",
+  "lemma": "δάκτυλος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "指",
+      "def_ja": "指。『その指を釘あとに入れ』『指で地面に書いておられた』『荷物に指一本さわらない』『指をその人の耳に差し入れ』『指の先を水に浸して』。",
+      "label_en": "finger",
+      "def_en": "A finger: “place my finger into the mark of the nails”, “wrote with his finger on the ground”, “will not touch the burdens with one of your fingers”, “put his fingers into his ears”, “dip the end of his finger in water”.",
+      "label_es": "dedo",
+      "def_es": "Dedo: «metiere mi dedo en el lugar de los clavos», «escribía en tierra con el dedo», «ni aun con un dedo tocáis las cargas», «metió los dedos en las orejas de él», «que moje la punta de su dedo en agua».",
+      "label_sv": "finger",
+      "def_sv": "Ett finger: ”sticka fingret i spikhålen”, ”skrev på marken med fingret”, ”rör inte bördorna med ett enda finger”, ”stack fingrarna i hans öron”, ”doppa fingerspetsen i vatten”.",
+      "layers": {
+        "nt": 7,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヨハネ20:25・20:27・8:6、ルカ16:24・11:46、マタイ23:4、マルコ7:33。LXX 出エジプト記・レビ記16:14、教父（14.2、4.7）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "神の指",
+      "def_ja": "『神の指』という句の中の語。『神の指で悪霊を追い出しているのなら』（ルカ11:20）。",
+      "label_en": "finger of God",
+      "def_en": "The word in the phrase “the finger of God”: “if it is by the finger of God that I cast out demons” (Luke 11:20).",
+      "label_es": "dedo de Dios",
+      "def_es": "La palabra de la frase «el dedo de Dios»: «si por el dedo de Dios echo yo fuera los demonios» (Lc 11:20).",
+      "label_sv": "Guds finger",
+      "def_sv": "Ordet i uttrycket ”Guds finger”: ”om det är med Guds finger jag driver ut de onda andarna” (Luk 11:20).",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ルカ11:20 の1例のみ。語義1との境界は連続的。LXX 出エジプト記8:19 に並行。教父（14.2、4.7）の用例は神の指による石版の記述。『神の指』が指す内容の解釈は付さない。"
+    }
+  ],
+  "assignments": {
+    "JHN 20:25": 1,
+    "JHN 20:27": 1,
+    "JHN 8:6": 1,
+    "LUK 11:20": 2,
+    "LUK 11:46": 1,
+    "LUK 16:24": 1,
+    "MAT 23:4": 1,
+    "MRK 7:33": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（身体の指／神の指）による。"
+}

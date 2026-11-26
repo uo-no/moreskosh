@@ -1,0 +1,53 @@
+{
+  "strong": "G1807",
+  "lemma": "ἐξαιρέω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "救い出す",
+      "def_ja": "救い出す、取り戻す。『ヘロデの手から救い出し』『わたしは救い出した』『民から救い出しながら』『ヨセフをすべての艱難から救い出し』『わたしは彼らを救い出すために』『この悪の時代から救い出してくださる』。",
+      "label_en": "to rescue / deliver",
+      "def_en": "To rescue, to deliver: “rescued me from Herod's hand”, “I rescued”, “delivering you from the people”, “rescued Joseph out of all his afflictions”, “I have come down to deliver them”, “to deliver us from the present evil age”.",
+      "label_es": "librar / rescatar",
+      "def_es": "Librar, sacar a salvo: «me ha librado de la mano de Herodes», «le libré», «librándote de tu pueblo», «libró a José de todas sus tribulaciones», «he descendido para librarlos», «para librarnos del presente siglo malo».",
+      "label_sv": "att rädda / befria",
+      "def_sv": "Att rädda och befria: ”räddat mig ur Herodes hand”, ”jag räddade honom”, ”jag ska rädda dig undan folket”, ”räddade Josef ur alla hans lidanden”, ”jag har stigit ner för att befria dem”, ”för att befria oss från den nuvarande onda tidsåldern”.",
+      "layers": {
+        "nt": 6,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒12:11・23:27・26:17・7:10・7:34、ガラテヤ1:4。LXX 士師記・詩篇、教父（39.9、56.8）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "えぐり出す／抜き取る",
+      "def_ja": "えぐり出す、抜き取る。『目がつまずかせるなら、えぐり出して捨てなさい』。",
+      "label_en": "to tear out / pluck out",
+      "def_en": "To gouge out, to pull out: “if your eye causes you to sin, tear it out and throw it away”.",
+      "label_es": "sacar / arrancar",
+      "def_es": "Sacar, arrancar: «si tu ojo te es ocasión de caer, sácalo y échalo de ti».",
+      "label_sv": "att riva ut",
+      "def_sv": "Att riva och dra ut: ”om ditt öga förleder dig, riv ut det och kasta det ifrån dig”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "マタイ18:9・5:29。語義1との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 12:11": 1,
+    "ACT 23:27": 1,
+    "ACT 26:17": 1,
+    "ACT 7:10": 1,
+    "ACT 7:34": 1,
+    "GAL 1:4": 1,
+    "MAT 18:9": 2,
+    "MAT 5:29": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（救い出す／えぐり出す）による。"
+}

@@ -1,0 +1,53 @@
+{
+  "strong": "G2945",
+  "lemma": "κύκλῳ",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "周りに（副詞）",
+      "def_ja": "周囲に、周りに。『周りの村々や里へ行って』『ご自分の周りに座っている人々を見回して』『周囲の村々を巡って』『周囲の村々や里へ』『エルサレムから、ぐるりと回って』。",
+      "label_en": "around (adverb)",
+      "def_en": "Round about, around: “the surrounding villages and farms”, “looking about at those who sat around him”, “went about among the villages”, “into the surrounding countryside and villages”, “from Jerusalem and round about”.",
+      "label_es": "alrededor (adverbio)",
+      "def_es": "En derredor: «los campos y aldeas de alrededor», «mirando a los que estaban sentados alrededor de él», «recorría las aldeas de alrededor», «a las aldeas y campos de alrededor», «desde Jerusalén y por los alrededores».",
+      "label_sv": "runt omkring (adverb)",
+      "def_sv": "Runt om, i trakten omkring: ”byarna och gårdarna runt omkring”, ”såg på dem som satt runt omkring honom”, ”gick runt i byarna”, ”till bygden och byarna omkring”, ”från Jerusalem och runt omkring”.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ9:12、マルコ3:34・6:6・6:36、ローマ15:19。LXX（19.12）に並行。教父の代表例は属格を伴う用法。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "…の周りに（属格を伴う）",
+      "def_ja": "属格を伴い、周りに。『御座の周りに』『御座とその周りに』『御座の周りに立っていた』。",
+      "label_en": "around (with genitive)",
+      "def_en": "With the genitive, around: “around the throne”, “the throne and around it”, “stood around the throne”.",
+      "label_es": "alrededor de (con genitivo)",
+      "def_es": "Con genitivo, en torno a: «alrededor del trono», «junto al trono y alrededor de él», «estaban en pie alrededor del trono».",
+      "label_sv": "omkring (med genitiv)",
+      "def_sv": "Med genitiv, omkring: ”runt tronen”, ”tronen och runt omkring den”, ”stod runt omkring tronen”.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "黙示録4:6・5:11・7:11。教父（3.8.2）に並行。LXX の代表例は副詞用法を確認しており、属格を伴う用法としては確認していない。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "LUK 9:12": 1,
+    "MRK 3:34": 1,
+    "MRK 6:6": 1,
+    "MRK 6:36": 1,
+    "REV 4:6": 2,
+    "REV 5:11": 2,
+    "REV 7:11": 2,
+    "ROM 15:19": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は構文（副詞／属格を伴う）による。"
+}

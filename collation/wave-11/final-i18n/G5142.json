@@ -1,0 +1,71 @@
+{
+  "strong": "G5142",
+  "lemma": "τρέφω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "養う／食べさせる",
+      "def_ja": "養う、食べ物を与える、肥やす。『ツロとシドンの人々は王の国から食料を得ていた』『あなたがたは栄華のうちに楽しみ…心を肥やした』『天の父は空の鳥を養われる』『飢えているのを見て食べさせた』『女は養われる所』。",
+      "label_en": "to feed / nourish",
+      "def_en": "To feed, to give food, to fatten: “the country of Tyre and Sidon depended on the king's country for food”, “you have lived in luxury … and fattened your hearts”, “your heavenly Father feeds the birds”, “when did we see you hungry and feed you?”, “a place where the woman is nourished”.",
+      "label_es": "alimentar / sustentar",
+      "def_es": "Alimentar, dar de comer, engordar: «el territorio de Tiro y Sidón se abastecía del del rey», «habéis vivido en deleites … y engordado vuestros corazones», «vuestro Padre celestial las alimenta», «¿cuándo te vimos hambriento y te sustentamos?», «donde la mujer es sustentada».",
+      "label_sv": "att föda / ge mat",
+      "def_sv": "Att nära, ge mat, göda: ”Tyros och Sidons område fick sin försörjning från kungens land”, ”ni har levt i lyx och gött era hjärtan”, ”er himmelske Fader föder dem”, ”när såg vi dig hungrig och gav dig att äta?”, ”där kvinnan får sitt uppehälle”.",
+      "layers": {
+        "nt": 7,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒12:20、ヤコブ5:5、ルカ12:24、マタイ25:37・6:26、黙示録12:6・12:14。LXX 創世記50:20・トビト2:10、教父（1.1.1、10.11）に並行。語義2・3との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "乳を飲ませる",
+      "def_ja": "乳を飲ませる、授乳する。『乳房に乳を飲ませなかった者は幸い』（ルカ23:29）。",
+      "label_en": "to nurse",
+      "def_en": "To suckle, to breast-feed: “blessed are the breasts that never nursed” (Luke 23:29).",
+      "label_es": "amamantar",
+      "def_es": "Dar el pecho: «bienaventurados los pechos que no criaron» (Lc 23:29).",
+      "label_sv": "att amma",
+      "def_sv": "Att ge di: ”saliga de bröst som inte har gett di” (Luk 23:29).",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ23:29 の1例のみ。LXX 代表例に並行。教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "育てる",
+      "def_ja": "育てる、育てられる。『育てられたナザレに行き』（ルカ4:16）。",
+      "label_en": "to bring up",
+      "def_en": "To rear, to be brought up: “came to Nazareth, where he had been brought up” (Luke 4:16).",
+      "label_es": "criar",
+      "def_es": "Criar, ser criado: «vino a Nazaret, donde se había criado» (Lc 4:16).",
+      "label_sv": "att uppfostra",
+      "def_sv": "Att fostra, att växa upp: ”kom till Nasaret, där han hade vuxit upp” (Luk 4:16).",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ4:16 の1例のみ。語義1との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 12:20": 1,
+    "JAS 5:5": 1,
+    "LUK 12:24": 1,
+    "LUK 23:29": 2,
+    "LUK 4:16": 3,
+    "MAT 25:37": 1,
+    "MAT 6:26": 1,
+    "REV 12:6": 1,
+    "REV 12:14": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。"
+}

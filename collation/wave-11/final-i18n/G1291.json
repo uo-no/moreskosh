@@ -1,0 +1,53 @@
+{
+  "strong": "G1291",
+  "lemma": "διαστέλλομαι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "固く命じる／厳しく言い渡す",
+      "def_ja": "厳しく命じる、言い渡す、指示する。『だれにも話すなと戒められた』『〜ことをだれにも知らせるなと命じた』『人々に〜と固く命じられた』『命令に耐えられず』『私たちは何も命じなかった』。",
+      "label_en": "to charge strictly / order",
+      "def_en": "To command strictly, to enjoin, to direct: “warned them to tell no one”, “charged them to tell no one that …”, “strictly charged them …”, “could not endure the order”, “to whom we gave no instructions”.",
+      "label_es": "mandar estrictamente / encargar",
+      "def_es": "Ordenar con rigor, encargar, instruir: «les mandó que no lo dijesen a nadie», «les mandó que a nadie dijesen que …», «les encargó mucho …», «no podían soportar lo que se ordenaba», «a los cuales no dimos orden».",
+      "label_sv": "att strängt befalla / förbjuda",
+      "def_sv": "Att strängt ålägga, inskärpa, instruera: ”förbjöd dem att tala om det för någon”, ”befallde dem att inte säga till någon att …”, ”förbjöd dem strängt …”, ”kunde inte uthärda befallningen”, ”utan att vi gett dem något uppdrag”.",
+      "layers": {
+        "nt": 7,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒15:24、ヘブル12:20、マタイ16:20、マルコ7:36（2回）・5:43・9:9。LXX レビ記・エゼキエル24:14 に並行。教父の用例は無い。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "警告する",
+      "def_ja": "注意を与える、警告する。『パリサイ人のパン種に気をつけなさい』（マルコ8:15）。",
+      "label_en": "to warn",
+      "def_en": "To caution, to warn: “beware of the leaven of the Pharisees” (Mark 8:15).",
+      "label_es": "advertir",
+      "def_es": "Llamar la atención, prevenir: «guardaos de la levadura de los fariseos» (Mr 8:15).",
+      "label_sv": "att varna",
+      "def_sv": "Att uppmana till vaksamhet, varna: ”akta er för fariseernas surdeg” (Mark 8:15).",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "マルコ8:15 の1例のみ。語義1との境界は連続的。LXX 代表例に並行。教父の用例は無い。"
+    }
+  ],
+  "assignments": {
+    "ACT 15:24": 1,
+    "HEB 12:20": 1,
+    "MAT 16:20": 1,
+    "MRK 7:36#1": 1,
+    "MRK 7:36#2": 1,
+    "MRK 5:43": 1,
+    "MRK 8:15": 2,
+    "MRK 9:9": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。教父の用例は無い。"
+}

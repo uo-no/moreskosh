@@ -1,0 +1,53 @@
+{
+  "strong": "G1622",
+  "lemma": "ἐκτός",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "外に／外側に",
+      "def_ja": "外に、外側に。『すべての罪は体の外にある』『体の外であったか、わたしは知らない』『杯と皿の外側を』。",
+      "label_en": "outside",
+      "def_en": "Outside, on the outside: “every other sin is outside the body”, “whether out of the body I do not know”, “the outside of the cup and dish”.",
+      "label_es": "fuera / por fuera",
+      "def_es": "Fuera, por la parte de fuera: «cualquier otro pecado está fuera del cuerpo», «si fuera del cuerpo, no lo sé», «lo de fuera del vaso y del plato».",
+      "label_sv": "utanför / utanpå",
+      "def_sv": "Utanför, på utsidan: ”all annan synd är utanför kroppen”, ”om det var utanför kroppen vet jag inte”, ”utsidan av bägaren och fatet”.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "Ⅰコリ6:18、Ⅱコリ12:2、マタイ23:26。語義2との境界は連続的。パケットの LXX・教父の代表例は序数『第六』（ἕκτος）で、この語の層は確認できない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "〜を除いて／〜のほかは",
+      "def_ja": "〜を除いて、〜でなければ、〜以外に。『ただし解き明かす者がいなければ』『信じたのが無駄でなければ』『二、三人の証人がなければ』『ただし万物を服従させた方を除いて』『預言者やモーセが語ったこと以外には』。",
+      "label_en": "except / apart from",
+      "def_en": "Except, unless, other than: “unless someone interprets”, “unless you believed in vain”, “except on the evidence of two or three witnesses”, “he is excepted who put all things in subjection”, “saying nothing but what the prophets and Moses said”.",
+      "label_es": "excepto / a no ser que",
+      "def_es": "Salvo, a menos que, fuera de: «a no ser que alguien interprete», «si no creísteis en vano», «sino con dos o tres testigos», «se exceptúa aquel que sujetó a él todas las cosas», «no diciendo nada fuera de las cosas que los profetas y Moisés dijeron».",
+      "label_sv": "utom / förutom",
+      "def_sv": "Med undantag för, såvida inte, utöver: ”om inte någon uttyder”, ”såvida ni inte kom till tro förgäves”, ”utom på två eller tre vittnens ord”, ”då är han undantagen som lagt allt under honom”, ”utöver det som profeterna och Mose sagt”.",
+      "layers": {
+        "nt": 5,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "Ⅰコリ14:5・15:2・15:27、Ⅰテモ5:19、使徒26:22。語義1との境界は連続的。層は確認できない。"
+    }
+  ],
+  "assignments": {
+    "1CO 6:18": 1,
+    "1CO 14:5": 2,
+    "1CO 15:2": 2,
+    "1CO 15:27": 2,
+    "1TI 5:19": 2,
+    "2CO 12:2": 1,
+    "ACT 26:22": 2,
+    "MAT 23:26": 1
+  },
+  "unresolved": [],
+  "layer_notes": "パケットの LXX・教父の代表例は序数『第六』（ἕκτος）で、この語の層別確認に不十分。"
+}

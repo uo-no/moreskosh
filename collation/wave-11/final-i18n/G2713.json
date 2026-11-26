@@ -1,0 +1,53 @@
+{
+  "strong": "G2713",
+  "lemma": "κατέναντι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "向かい側に・前方に（場所）",
+      "def_ja": "向かいの、真向かいに。『向こうの村へ行け』『向こうの村に行きなさい』『神殿の庫の向かいに座って』『神殿に向かって座っておられると』。",
+      "label_en": "opposite / ahead (place)",
+      "def_en": "Opposite, facing: “go into the village over there”, “go into the village in front of you”, “sat down opposite the treasury”, “as he sat opposite the temple”.",
+      "label_es": "enfrente / delante (lugar)",
+      "def_es": "Frente a, al otro lado: «id a la aldea de enfrente», «id a la aldea que está delante», «sentado delante del arca de la ofrenda», «se sentó frente al templo».",
+      "label_sv": "mittemot / framför (plats)",
+      "def_sv": "Mitt emot, framför: ”gå in i byn där framme”, ”gå till byn framför er”, ”satte sig mitt emot offerkistan”, ”när han satt mitt emot templet”.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ルカ19:30、マタイ21:2、マルコ11:2・13:3・12:41。LXX（47.20）、教父（3.2.4）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "…の前で・面前で",
+      "def_ja": "人や神の前で。『神の前でキリストにあって語る』『神の前で』『神の御前で』。",
+      "label_en": "before / in the presence of",
+      "def_en": "Before a person or God: “we speak in Christ in the sight of God”, “before God”, “in the presence of God”.",
+      "label_es": "ante / en presencia de",
+      "def_es": "Delante de personas o de Dios: «hablamos delante de Dios en Cristo», «delante de Dios», «en la presencia de Dios».",
+      "label_sv": "inför / i närvaro av",
+      "def_sv": "Inför människor eller Gud: ”vi talar i Kristus inför Gud”, ”inför Gud”, ”inför Guds ansikte”.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "コリント第二2:17・12:19、ローマ4:17。語義1との境界は連続的。LXX・教父の代表例では場所の用法を確認しており、この語義としては確認していない。"
+    }
+  ],
+  "assignments": {
+    "2CO 2:17": 2,
+    "2CO 12:19": 2,
+    "LUK 19:30": 1,
+    "MAT 21:2": 1,
+    "MRK 11:2": 1,
+    "MRK 13:3": 1,
+    "MRK 12:41": 1,
+    "ROM 4:17": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（場所／面前）による。"
+}

@@ -1,0 +1,59 @@
+{
+  "strong": "G2214",
+  "lemma": "ζήτησις",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "論議・論争",
+      "def_ja": "論じ合い、論争、議論。『激しい論争が起こった』『論争の末』『愚かな無学な議論を避けなさい』『論議を避けなさい』『清めのことで論争が起こった』『言い争い』。",
+      "label_en": "debate / controversy",
+      "def_en": "Discussion, controversy, dispute: “a sharp debate arose”, “after much debate”, “avoid foolish, ignorant controversies”, “avoid controversies”, “a discussion arose about purification”, “quarrels over words”.",
+      "label_es": "discusión / controversia",
+      "def_es": "Debate, controversia, disputa: «hubo una gran discusión», «después de mucha discusión», «desecha las cuestiones necias e insensatas», «evita las cuestiones», «hubo discusión acerca de la purificación», «contiendas».",
+      "label_sv": "dispyt / strid",
+      "def_sv": "Diskussion, strid, tvist: ”det uppstod en häftig diskussion”, ”efter mycken diskussion”, ”undvik dumma och meningslösa tvistefrågor”, ”undvik dispyter”, ”det blev en diskussion om reningen”, ”ordstrider”.",
+      "layers": {
+        "nt": 6,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒15:2・15:7、テモテ第二2:23、テトス3:9、ヨハネ3:25、テモテ第一6:4。LXX・教父の代表例では確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "取り調べ・探求",
+      "def_ja": "事柄についての取り調べ、探求。『これらの事柄の取り調べ方に当惑して』。",
+      "label_en": "inquiry / investigation",
+      "def_en": "Inquiry into a matter, investigation: “being at a loss how to investigate these questions”.",
+      "label_es": "indagación / investigación",
+      "def_es": "La averiguación de un asunto: «dudando en cuestión de esta naturaleza».",
+      "label_sv": "undersökning",
+      "def_sv": "Undersökning och utredning av en sak: ”visste inte hur dessa frågor skulle undersökas”.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒25:20。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1TI 6:4": 1,
+    "2TI 2:23": 1,
+    "ACT 15:2": 1,
+    "ACT 15:7": 1,
+    "ACT 25:20": 2,
+    "JHN 3:25": 1,
+    "TIT 3:9": 1
+  },
+  "unresolved": [],
+  "layer_notes": "LXX・教父の代表例なし。語義区分は用法（論議／取り調べ）による。",
+  "excluded": [
+    {
+      "ref": "1TI 1:4",
+      "form": "ἐκζητήσεις",
+      "reason": "形は ἐκζητήσεις で、レンマは ἐκζήτησις（別語）。bible_data の誤配当の疑いとしてユーザー承認待ち。"
+    }
+  ]
+}

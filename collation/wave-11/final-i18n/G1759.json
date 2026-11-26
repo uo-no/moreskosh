@@ -1,0 +1,53 @@
+{
+  "strong": "G1759",
+  "lemma": "ἐνθάδε",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "ここに（静止）",
+      "def_ja": "ここに、ここで。『ここに泊まっているか』『ここにいます』『ここへも来ている』『ここにも』『ここに食べ物があるか』『ここにいるのです』。",
+      "label_en": "here (at rest)",
+      "def_en": "Here: “is lodging here”, “here we are”, “have come here also”, “here also”, “have you anything here to eat?”, “he is here”.",
+      "label_es": "aquí (reposo)",
+      "def_es": "Aquí: «si moraba allí aquí», «estamos aquí», «también han venido acá», «también aquí», «¿tenéis aquí algo de comer?», «está aquí».",
+      "label_sv": "här (befintlighet)",
+      "def_sv": "Här: ”bor han här?”, ”här är vi”, ”har kommit hit också”, ”även här”, ”har ni något att äta här?”, ”han är här”.",
+      "layers": {
+        "nt": 5,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "使徒10:18・16:28・17:6・25:24、ルカ24:41。教父（10.4、10）に並行。語義2との境界は連続的。LXX の代表例（Ⅲマカバイ6:25）は用法確認不十分。"
+    },
+    {
+      "n": 2,
+      "label_ja": "ここへ（動作）",
+      "def_ja": "ここへ。『ここまで水を汲みに来なくてもよいように』『夫を呼んで、ここに来なさい』『ここに集まったとき』。",
+      "label_en": "here (motion)",
+      "def_en": "Hither, to this place: “so that I will not have to come here to draw water”, “call your husband and come here”, “when they had come together here”.",
+      "label_es": "acá (movimiento)",
+      "def_es": "Hacia aquí: «para que no venga aquí a sacarla», «llama a tu marido y ven acá», «habiendo venido ellos juntos acá».",
+      "label_sv": "hit (rörelse)",
+      "def_sv": "Hit, till den här platsen: ”så att jag slipper gå hit och hämta vatten”, ”hämta din man och kom hit”, ”när de samlats här”.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヨハネ4:15・4:16、使徒25:17。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 10:18": 1,
+    "ACT 16:28": 1,
+    "ACT 17:6": 1,
+    "ACT 25:17": 2,
+    "ACT 25:24": 1,
+    "JHN 4:15": 2,
+    "JHN 4:16": 2,
+    "LUK 24:41": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（静止／動作）による。LXX の代表例は1件のみで用法確認不十分。"
+}

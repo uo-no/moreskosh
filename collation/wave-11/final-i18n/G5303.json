@@ -1,0 +1,71 @@
+{
+  "strong": "G5303",
+  "lemma": "ὑστέρημα",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "不足／足りないもの",
+      "def_ja": "不足、欠けているもの、必要。『あなたがたの信仰に欠けているところを補う』『キリストの苦難の欠けたところを満たす』『あなたがたの欠乏を補った』『現在のあなたがたの余裕が彼らの不足を補う』『聖徒たちの必要を満たす』『あなたがたのわたしに対する奉仕の不足を補う』。",
+      "label_en": "lack / what is lacking",
+      "def_en": "A shortfall, what is missing, need: “supply what is lacking in your faith”, “filling up what is lacking in Christ's afflictions”, “supplied your lack”, “your abundance at the present time should supply their need”, “supplying the needs of the saints”, “to complete what was lacking in your service to me”.",
+      "label_es": "falta / lo que falta",
+      "def_es": "Carencia, lo que falta, necesidad: «completar lo que falte a vuestra fe», «cumplo lo que falta de las aflicciones de Cristo», «suplieron vuestra ausencia», «la abundancia vuestra supla la escasez de ellos», «suple lo que a los santos falta», «para suplir lo que faltaba en vuestro servicio por mí».",
+      "label_sv": "brist / det som fattas",
+      "def_sv": "Brist, det som saknas, behov: ”fylla ut vad som brister i er tro”, ”uppfylla det som fattas i Kristi lidanden”, ”fyllde det ni inte kunde”, ”ert överflöd nu ska fylla deras brist”, ”fyller de heligas behov”, ”fylla det som fattades i er tjänst för mig”.",
+      "layers": {
+        "nt": 7,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰテサ3:10、Ⅱコリ11:9・8:14（2回）・9:12、コロサイ1:24、ピリピ2:30。LXX 士師記18:10・詩篇33:10、教父（3.2.2、2.6）に並行。語義2・3との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "貧しさ（乏しい中から）",
+      "def_ja": "貧しさ、乏しさ。『この寡婦は乏しい中から』（ルカ21:4）。",
+      "label_en": "poverty (out of one's want)",
+      "def_en": "Poverty, want: “this widow out of her poverty” (Luke 21:4).",
+      "label_es": "pobreza (desde la escasez)",
+      "def_es": "Pobreza, escasez: «esta viuda, de su pobreza» (Lc 21:4).",
+      "label_sv": "fattigdom (ur sin knapphet)",
+      "def_sv": "Fattigdom, knapphet: ”denna änka gav ur sin fattigdom” (Luk 21:4).",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ21:4 の1例のみ。語義1との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "不在（欠席）",
+      "def_ja": "不在、居ないこと。『あなたがたの不在を補ってくれた』（Ⅰコリ16:17）。",
+      "label_en": "absence",
+      "def_en": "Absence, not being there: “they have made up for your absence” (1 Cor 16:17).",
+      "label_es": "ausencia",
+      "def_es": "El no estar presente: «ellos han suplido vuestra ausencia» (1 Co 16:17).",
+      "label_sv": "frånvaro",
+      "def_sv": "Att inte vara närvarande: ”de har fyllt tomrummet efter er” (1 Kor 16:17).",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "Ⅰコリ16:17 の1例のみ。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 16:17": 3,
+    "1TH 3:10": 1,
+    "2CO 11:9": 1,
+    "2CO 8:14#1": 1,
+    "2CO 8:14#2": 1,
+    "2CO 9:12": 1,
+    "COL 1:24": 1,
+    "LUK 21:4": 2,
+    "PHP 2:30": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。"
+}

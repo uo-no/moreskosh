@@ -1,0 +1,53 @@
+{
+  "strong": "G2592",
+  "lemma": "καρποφορέω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "実をならせる（字義）",
+      "def_ja": "地が実を結ぶ。『地はひとりでに実をならせる』。",
+      "label_en": "to bear fruit (literal)",
+      "def_en": "The land bears fruit: “the earth produces by itself”.",
+      "label_es": "dar fruto (literal)",
+      "def_es": "La tierra da fruto: «de suyo lleva fruto la tierra».",
+      "label_sv": "att bära frukt (bokstavligt)",
+      "def_sv": "Jorden ger skörd: ”av sig själv bär jorden gröda”.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "マルコ4:28。LXX（9.17）に並行。教父の代表例は比喩の用法。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "実を結ぶ（比喩）",
+      "def_ja": "行いや生き方において実を結ぶ。『御言を聞いて悟る人は、実を結ぶ』『神のあらゆる良いわざにおいて実を結び』『福音は全世界で実を結び』『神のために実を結ぶため』。",
+      "label_en": "to bear fruit (figurative)",
+      "def_en": "To bear fruit in conduct and manner of life: “the one who hears the word and understands it bears fruit”, “bearing fruit in every good work of God”, “the gospel is bearing fruit in the whole world”, “that we may bear fruit for God”.",
+      "label_es": "dar fruto (figurado)",
+      "def_es": "Dar fruto en la conducta y la vida: «el que oye y entiende la palabra, da fruto», «llevando fruto en toda buena obra», «el evangelio lleva fruto en todo el mundo», «a fin de que llevemos fruto para Dios».",
+      "label_sv": "att bära frukt (bildligt)",
+      "def_sv": "Att bära frukt i handling och liv: ”den som hör ordet och förstår det bär frukt”, ”bära frukt i allt gott verk”, ”evangeliet bär frukt i hela världen”, ”för att vi ska bära frukt åt Gud”.",
+      "layers": {
+        "nt": 7,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "マタイ13:23、マルコ4:20、ルカ8:15、コロサイ1:6・1:10、ローマ7:4・7:5。教父（21.1.8・11.11）に並行。LXX の代表例は字義の用法で、この語義としては確認していない。"
+    }
+  ],
+  "assignments": {
+    "COL 1:6": 2,
+    "COL 1:10": 2,
+    "LUK 8:15": 2,
+    "MAT 13:23": 2,
+    "MRK 4:20": 2,
+    "MRK 4:28": 1,
+    "ROM 7:4": 2,
+    "ROM 7:5": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（字義の結実／比喩の結実）による。"
+}

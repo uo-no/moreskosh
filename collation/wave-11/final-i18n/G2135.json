@@ -1,0 +1,53 @@
+{
+  "strong": "G2135",
+  "lemma": "εὐνοῦχος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "宦官（官職にある者）",
+      "def_ja": "エチオピヤの女王に仕える高官、宦官。『エチオピヤの女王カンダケの高官である宦官』『この宦官は答えて』『宦官は言った』。",
+      "label_en": "eunuch (court official)",
+      "def_en": "A high official serving the queen of Ethiopia, a eunuch: “a eunuch, a court official of Candace, queen of the Ethiopians”, “the eunuch answered”, “the eunuch said”.",
+      "label_es": "eunuco (funcionario)",
+      "def_es": "Alto funcionario al servicio de la reina de Etiopía, eunuco: «un eunuco, funcionario de Candace reina de los etíopes», «respondiendo el eunuco», «dijo el eunuco».",
+      "label_sv": "eunuck (ämbetsman)",
+      "def_sv": "En hög ämbetsman hos Etiopiens drottning, en eunuck: ”en eunuck, hovman hos den etiopiska drottningen Kandake”, ”eunucken svarade”, ”eunucken sade”.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒8:27・8:34・8:36・8:38・8:39。LXX（7.9・9.32）に並行。教父の代表例は未確認。"
+    },
+    {
+      "n": 2,
+      "label_ja": "去勢された者",
+      "def_ja": "生まれつきの者、人に去勢された者、自分でそうした者に分けて述べる。『母の胎から宦官に生まれついた者』『人から宦官にされた者』『天の国のために自ら宦官となった者』。",
+      "label_en": "one made a eunuch",
+      "def_en": "Stated by distinguishing those born so, those made so by others, and those who made themselves so: “eunuchs who have been so from birth”, “eunuchs who have been made eunuchs by others”, “who have made themselves eunuchs for the sake of the kingdom of heaven”.",
+      "label_es": "el hecho eunuco",
+      "def_es": "Se distingue entre los que lo son de nacimiento, los que fueron hechos por otros y los que se hicieron tales: «eunucos que nacieron así del vientre de su madre», «eunucos que son hechos eunucos por los hombres», «eunucos que a sí mismos se hicieron eunucos por causa del reino de los cielos».",
+      "label_sv": "snöpt",
+      "def_sv": "Man skiljer mellan dem som är så från födseln, dem som gjorts så av människor och dem som gjort sig själva så: ”de som är oförmögna till äktenskap från födseln”, ”de som snöpts av människor”, ”de som gjort sig själva till snöpingar för himmelrikets skull”.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "マタイ19:12（3回）。第三の用法の解釈（比喩の範囲）は決定しない。語義1との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 8:27": 1,
+    "ACT 8:34": 1,
+    "ACT 8:36": 1,
+    "ACT 8:38": 1,
+    "ACT 8:39": 1,
+    "MAT 19:12#1": 2,
+    "MAT 19:12#2": 2,
+    "MAT 19:12#3": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は文脈（使徒8章の人物／マタイ19:12の三区分）による。使徒8章の人物が実際に去勢された者かは決定しない。"
+}
