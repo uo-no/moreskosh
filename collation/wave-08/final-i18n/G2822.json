@@ -1,0 +1,72 @@
+{
+  "strong": "G2822",
+  "lemma": "κλητός",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "召された（使徒として）",
+      "def_ja": "召された。『召された使徒パウロ』『キリスト・イエスの僕、召された使徒パウロ』。",
+      "label_en": "called (as apostle)",
+      "def_en": "Called: “Paul, called to be an apostle”, “Paul, a servant of Christ Jesus, called to be an apostle”.",
+      "label_es": "llamado (a ser apóstol)",
+      "def_es": "Llamado: «Pablo, llamado a ser apóstol», «Pablo, siervo de Jesucristo, llamado a ser apóstol».",
+      "label_sv": "kallad (till apostel)",
+      "def_sv": "Kallad: ”Paulus, kallad till apostel”, ”Paulus, Kristi Jesu tjänare, kallad till apostel”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ローマ1:1、Ⅰコリ1:1。語義2との境界は連続的。LXX・教父の代表例では確認していない（LXX の『召された』は集会などに用いられ別用法）。"
+    },
+    {
+      "n": 2,
+      "label_ja": "召された者（救いに）",
+      "def_ja": "神に召された者。『聖徒として召された人々』『召された者にとってはキリストは神の力』『召されて、愛され、守られている人々』『彼らの内に』『神に召された者』『小羊と共にいる者は召された者』。",
+      "label_en": "those called (to salvation)",
+      "def_en": "Those called by God: “those called to be saints”, “to those who are called, Christ is the power of God”, “called, beloved, and kept”, “among whom you also are”, “those called by God”, “those with the Lamb are called”.",
+      "label_es": "los llamados (a la salvación)",
+      "def_es": "Los llamados por Dios: «llamados a ser santos», «para los llamados, Cristo es poder de Dios», «llamados, amados y guardados», «entre las cuales estáis también vosotros», «los llamados de Dios», «los que están con el Cordero son llamados».",
+      "label_sv": "de kallade (till frälsning)",
+      "def_sv": "De som Gud har kallat: ”kallade att vara heliga”, ”för de kallade är Kristus Guds kraft”, ”kallade, älskade och bevarade”, ”bland dem finns också ni”, ”de av Gud kallade”, ”de som är med Lammet är kallade”.",
+      "layers": {
+        "nt": 7,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰコリ1:2・1:24、ユダ1、ローマ1:6・1:7・8:28、黙示録17:14。LXX レビ記23:35・Ⅲマカバイ5:14、教父（4.14、preface）に並行。"
+    },
+    {
+      "n": 3,
+      "label_ja": "招かれた者",
+      "def_ja": "招かれた者。『招かれる者は多いが、選ばれる者は少ない』（マタイ22:14）。",
+      "label_en": "invited ones",
+      "def_en": "Those invited: “many are called, but few are chosen” (Matt 22:14).",
+      "label_es": "los invitados",
+      "def_es": "Los convidados: «muchos son llamados, y pocos escogidos» (Mt 22:14).",
+      "label_sv": "de inbjudna",
+      "def_sv": "De som bjudits in: ”många är kallade, men få är utvalda” (Matt 22:14).",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "マタイ22:14 の1例のみ。語義2との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 1:1": 1,
+    "1CO 1:2": 2,
+    "1CO 1:24": 2,
+    "JUD 1:1": 2,
+    "MAT 22:14": 3,
+    "REV 17:14": 2,
+    "ROM 1:1": 1,
+    "ROM 1:6": 2,
+    "ROM 1:7": 2,
+    "ROM 8:28": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。"
+}

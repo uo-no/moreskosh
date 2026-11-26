@@ -1,0 +1,55 @@
+{
+  "strong": "G1894",
+  "lemma": "ἐπειδή",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "〜であるから／〜なので（理由）",
+      "def_ja": "理由を示す接続詞『〜なので』『〜であるから』。『神の知恵のゆえに』『ユダヤ人はしるしを求め』『あなたが何を言っているのか分からないので』『死が一人の人によって来たのだから』『パウロが主として語る者であったので』『あなたがたが拒んだので』。",
+      "label_en": "since / because (reason)",
+      "def_en": "A conjunction of reason, “since”, “because”: “since, in the wisdom of God …”, “Jews demand signs”, “since I do not understand what you are saying”, “since death came through a man”, “because Paul was the chief speaker”, “since you thrust it aside”.",
+      "label_es": "puesto que / porque (causa)",
+      "def_es": "Conjunción causal, «puesto que», «ya que»: «pues ya que en la sabiduría de Dios», «los judíos piden señales», «porque no entendemos lo que dices», «por cuanto la muerte entró por un hombre», «porque Pablo era el que llevaba la palabra», «puesto que la desecháis».",
+      "label_sv": "eftersom / då (skäl)",
+      "def_sv": "En kausal konjunktion, ”eftersom”, ”då”: ”ty eftersom i Guds vishet”, ”judarna begär tecken”, ”eftersom jag inte förstår vad du säger”, ”eftersom döden kom genom en människa”, ”eftersom det var Paulus som förde ordet”, ”eftersom ni stöter bort det”.",
+      "layers": {
+        "nt": 9,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰコリ1:21・1:22・14:16・15:21、使徒14:12・15:24・13:46、ピリピ2:26、ルカ11:6。LXX 士師記・サムエル記、教父（7.9、3.5）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "〜したとき（時）",
+      "def_ja": "時を示す『〜したとき』。『これらの言葉を語り終えたとき』（ルカ7:1）。",
+      "label_en": "when (time)",
+      "def_en": "A temporal “when”: “when he had finished all these sayings” (Luke 7:1).",
+      "label_es": "cuando (tiempo)",
+      "def_es": "«Cuando» temporal: «después que hubo terminado todas sus palabras» (Lc 7:1).",
+      "label_sv": "när (tid)",
+      "def_sv": "Temporalt ”när”: ”när han hade slutat tala” (Luk 7:1).",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ルカ7:1 の1例のみ（異読あり）。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 1:21": 1,
+    "1CO 1:22": 1,
+    "1CO 14:16": 1,
+    "1CO 15:21": 1,
+    "ACT 14:12": 1,
+    "ACT 15:24": 1,
+    "ACT 13:46": 1,
+    "LUK 11:6": 1,
+    "LUK 7:1": 2,
+    "PHP 2:26": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（理由／時）による。"
+}

@@ -1,0 +1,55 @@
+{
+  "strong": "G167",
+  "lemma": "ἀκαθαρσία",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "不潔（道徳的）",
+      "def_ja": "道徳的な汚れ、不潔、不品行。『汚れた心で』『聖なるものとして召されたのであって、汚れを行うためではない』『不潔・みだらな行い』『汚れにまかせ』『不品行、汚れ』『あらゆる汚れをむさぼり』。",
+      "label_en": "impurity (moral)",
+      "def_en": "Moral defilement, impurity, immorality: “out of an impure heart”, “God has not called us for impurity but in holiness”, “impurity and sensuality”, “gave them up to impurity”, “immorality and impurity”, “greedy to practise every kind of impurity”.",
+      "label_es": "inmundicia (moral)",
+      "def_es": "Mancha moral, impureza, desenfreno: «de corazón impuro», «no nos ha llamado Dios a inmundicia, sino a santificación», «inmundicia y lascivia», «los entregó a la inmundicia», «fornicación, inmundicia», «cometer con avidez toda clase de impureza».",
+      "label_sv": "orenhet (moralisk)",
+      "def_sv": "Moralisk orenhet, osedlighet: ”av orent uppsåt”, ”Gud har inte kallat oss till orenhet utan till helighet”, ”orenhet och utsvävningar”, ”utlämnade dem åt orenhet”, ”otukt och orenhet”, ”girigt bedriva all slags orenhet”.",
+      "layers": {
+        "nt": 9,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰテサ2:3・4:7、Ⅱコリ12:21、コロサイ3:5、エペソ4:19・5:3、ガラテヤ5:19、ローマ1:24・6:19。LXX 民数記15:3・エゼキエル36:17、教父（19.4、10.8）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "汚れ（物理的）",
+      "def_ja": "物理的な汚れ。『死人の骨とあらゆる汚れ』（マタイ23:27）。",
+      "label_en": "uncleanness (physical)",
+      "def_en": "Physical filth: “dead people's bones and all uncleanness” (Matt 23:27).",
+      "label_es": "suciedad (física)",
+      "def_es": "Inmundicia material: «huesos de muertos y toda inmundicia» (Mt 23:27).",
+      "label_sv": "orenlighet (fysisk)",
+      "def_sv": "Fysisk smuts: ”de dödas ben och allt slags orenhet” (Matt 23:27).",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "マタイ23:27 の1例のみ。LXX 代表例に並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1TH 2:3": 1,
+    "1TH 4:7": 1,
+    "2CO 12:21": 1,
+    "COL 3:5": 1,
+    "EPH 4:19": 1,
+    "EPH 5:3": 1,
+    "GAL 5:19": 1,
+    "MAT 23:27": 2,
+    "ROM 1:24": 1,
+    "ROM 6:19": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（道徳的／物理的）による。"
+}

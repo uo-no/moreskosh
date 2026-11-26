@@ -1,0 +1,55 @@
+{
+  "strong": "G2865",
+  "lemma": "κομίζω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "受ける／受け取る／返してもらう",
+      "def_ja": "受け取る、報いを受ける、取り戻す。『しぼまない栄光の冠を受ける』『信仰の目標、魂の救いを受けている』『善悪の報いを受ける』『不義を行う者は不義の報いを受ける』『主から報いを受ける』『約束のものを受ける』『死者のうちから取り戻した』『利息をつけて返してもらった』。",
+      "label_en": "to receive / get back",
+      "def_en": "To receive, to be recompensed, to get back: “you will receive the unfading crown of glory”, “receiving the outcome of your faith, the salvation of your souls”, “receive what is due for good or evil”, “the wrongdoer will be paid back for the wrong”, “will receive back from the Lord”, “receive what is promised”, “received him back from the dead”, “received back with interest”.",
+      "label_es": "recibir / recobrar",
+      "def_es": "Recibir, obtener la paga, recuperar: «recibiréis la corona incorruptible de gloria», «obteniendo el fin de vuestra fe, la salvación de las almas», «reciba según lo que haya hecho, sea bueno o sea malo», «el que hace injusticia recibirá la injusticia que hizo», «recibirá del Señor», «obtener la promesa», «de entre los muertos le volvió a recibir», «recibir con los intereses».",
+      "label_sv": "att få / få tillbaka",
+      "def_sv": "Att ta emot, få sin lön, återfå: ”ni får härlighetens krans som aldrig vissnar”, ”ni når målet för er tro, era själars frälsning”, ”få igen för det man gjort, gott eller ont”, ”den som gör orätt får igen”, ”få tillbaka av Herren”, ”få det som är utlovat”, ”fick honom tillbaka från de döda”, ”fått igen med ränta”.",
+      "layers": {
+        "nt": 9,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰペテロ5:4・1:9、Ⅱコリ5:10、コロサイ3:25、エペソ6:8、ヘブル10:36・11:19・11:39、マタイ25:27。LXX・教父（7.6.2、4.12）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "持って来る",
+      "def_ja": "持って来る、運ぶ。『香油の入った石膏の壺を持って来て』（ルカ7:37）。",
+      "label_en": "to bring",
+      "def_en": "To bring, to carry: “brought an alabaster flask of ointment” (Luke 7:37).",
+      "label_es": "traer",
+      "def_es": "Traer, llevar: «trajo un frasco de alabastro con perfume» (Lc 7:37).",
+      "label_sv": "att ta med sig",
+      "def_sv": "Att hämta och bära fram: ”kom med en flaska balsam” (Luk 7:37).",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ7:37 の1例のみ。語義1との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1PE 5:4": 1,
+    "1PE 1:9": 1,
+    "2CO 5:10": 1,
+    "COL 3:25": 1,
+    "EPH 6:8": 1,
+    "HEB 10:36": 1,
+    "HEB 11:19": 1,
+    "HEB 11:39": 1,
+    "LUK 7:37": 2,
+    "MAT 25:27": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（受ける／運ぶ）による。"
+}

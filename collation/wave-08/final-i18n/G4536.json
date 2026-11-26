@@ -1,0 +1,56 @@
+{
+  "strong": "G4536",
+  "lemma": "σάλπιγξ",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "ラッパ（楽器）",
+      "def_ja": "ラッパ、角笛。『ラッパがはっきりしない音を出せば』『ラッパの響き』『ラッパのような大きな声』『七人の御使いに七つのラッパ』『ラッパを吹き鳴らそうとしている』。",
+      "label_en": "trumpet (instrument)",
+      "def_en": "A trumpet, a horn: “if the trumpet gives an indistinct sound”, “the sound of a trumpet”, “a loud voice like a trumpet”, “seven trumpets given to the seven angels”, “about to blow the trumpets”.",
+      "label_es": "trompeta (instrumento)",
+      "def_es": "Trompeta, cuerno: «si la trompeta diere sonido incierto», «el sonido de trompeta», «una gran voz como de trompeta», «se les dieron siete trompetas a los siete ángeles», «se disponían a tocarlas».",
+      "label_sv": "basun (instrument)",
+      "def_sv": "En basun eller ett horn: ”om basunen ger en otydlig signal”, ”basunens ljud”, ”en stark röst lik en basun”, ”sju basuner åt de sju änglarna”, ”redo att blåsa i basunerna”.",
+      "layers": {
+        "nt": 8,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰコリ14:8、ヘブル12:19、黙示録1:10・4:1・8:2・8:6・8:13・9:14。LXX 詩篇・出エジプト記、教父（16.6）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "ラッパの響き（終末の合図）",
+      "def_ja": "ラッパの響き、ラッパによる合図。『最後のラッパの響きとともに』『神のラッパが鳴り響くとき』『大きなラッパの響きとともに』。",
+      "label_en": "trumpet blast (end-time signal)",
+      "def_en": "The sound of the trumpet, a signal by trumpet: “at the last trumpet”, “with the sound of the trumpet of God”, “with a loud trumpet call”.",
+      "label_es": "toque de trompeta (señal final)",
+      "def_es": "El son de la trompeta, la señal dada con ella: «a la final trompeta», «con trompeta de Dios», «con gran voz de trompeta».",
+      "label_sv": "basunstöt (den yttersta signalen)",
+      "def_sv": "Basunens ljud och signal: ”vid den sista basunstöten”, ”när Guds basun ljuder”, ”med ljudande basun”.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "Ⅰコリ15:52、Ⅰテサ4:16、マタイ24:31。LXX 代表例に並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 14:8": 1,
+    "1CO 15:52": 2,
+    "1TH 4:16": 2,
+    "HEB 12:19": 1,
+    "MAT 24:31": 2,
+    "REV 1:10": 1,
+    "REV 4:1": 1,
+    "REV 8:2": 1,
+    "REV 8:6": 1,
+    "REV 8:13": 1,
+    "REV 9:14": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（楽器／響き）による。"
+}

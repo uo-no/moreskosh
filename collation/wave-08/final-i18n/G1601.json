@@ -1,0 +1,106 @@
+{
+  "strong": "G1601",
+  "lemma": "ἐκπίπτω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "散る／しぼむ（花が）",
+      "def_ja": "花が散る、しぼむ。『草は枯れ、花は散る』『花は落ちる』。",
+      "label_en": "to fall / wither (flowers)",
+      "def_en": "Flowers fall off, wither: “the grass withers and the flower falls”, “its flower falls”.",
+      "label_es": "caerse / marchitarse (flores)",
+      "def_es": "Las flores caen, se marchitan: «la hierba se seca y la flor se cae», «su flor se cae».",
+      "label_sv": "att falla av / vissna (blommor)",
+      "def_sv": "Blommorna faller av och vissnar: ”gräset vissnar och blomman faller av”, ”dess blomma faller”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "Ⅰペテロ1:24、ヤコブ1:11（イザヤ40:8 の引用）。LXX イザヤ40:8・ヨブ14:2 に並行。教父の用例は無い。"
+    },
+    {
+      "n": 2,
+      "label_ja": "落ちる／外れる",
+      "def_ja": "落ちる、外れる。『鎖が手から外れ落ちた』『小舟を綱から落とした』。",
+      "label_en": "to fall off / drop away",
+      "def_en": "To fall off, to come loose: “the chains fell off his hands”, “let the small boat fall from the ropes”.",
+      "label_es": "caer / soltarse",
+      "def_es": "Caer, desprenderse: «las cadenas se le cayeron de las manos», «dejaron caer el esquife».",
+      "label_sv": "att falla av / lossna",
+      "def_sv": "Att falla bort, lossna: ”kedjorna föll av händerna”, ”lät skeppsbåten falla”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒12:7・27:32。LXX 代表例に並行。教父の用例は無い。"
+    },
+    {
+      "n": 3,
+      "label_ja": "座礁する",
+      "def_ja": "船が座礁する。『浅瀬に乗り上げる』『暗礁に乗り上げる』。",
+      "label_en": "to run aground",
+      "def_en": "A ship runs aground: “to be driven onto the shallows”, “run onto the rocks”.",
+      "label_es": "encallar",
+      "def_es": "La nave encalla: «dar en los bajíos», «dar en escollos».",
+      "label_sv": "att gå på grund",
+      "def_sv": "Skeppet strandar: ”driva upp på grunt vatten”, ”gå på ett skär”.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒27:17・27:26・27:29。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 4,
+      "label_ja": "離れ落ちる（恵み・堅固から）",
+      "def_ja": "恵み・堅固な立場から落ちる、はずれる。『恵みから落ちた』『堅固な立場から落ちないように』。",
+      "label_en": "to fall away (from grace, firmness)",
+      "def_en": "To fall from grace or a firm position, to drop out: “you have fallen from grace”, “lest you fall from your firm position”.",
+      "label_es": "caer (de la gracia, de la firmeza)",
+      "def_es": "Caer de la gracia o de la posición firme: «de la gracia habéis caído», «no sea que caigáis de vuestra firmeza».",
+      "label_sv": "att falla ur (nåden, fastheten)",
+      "def_sv": "Att falla från nåden eller det fasta fästet: ”ni har fallit ur nåden”, ”så att ni inte förlorar ert fäste”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "Ⅱペテロ3:17、ガラテヤ5:4。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 5,
+      "label_ja": "廃れる／無効になる",
+      "def_ja": "無効になる、失われる。『神のことばが無効になったわけではない』（ローマ9:6）。",
+      "label_en": "to fail / become void",
+      "def_en": "To become void, to be lost: “it is not that the word of God has failed” (Rom 9:6).",
+      "label_es": "fallar / quedar sin efecto",
+      "def_es": "Quedar sin valor, perderse: «no que la palabra de Dios haya fallado» (Ro 9:6).",
+      "label_sv": "att slå fel / bli om intet",
+      "def_sv": "Att förlora sin giltighet: ”inte så att Guds ord har slagit fel” (Rom 9:6).",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ローマ9:6 の1例のみ。語義4との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1PE 1:24": 1,
+    "2PE 3:17": 4,
+    "ACT 12:7": 2,
+    "ACT 27:17": 3,
+    "ACT 27:26": 3,
+    "ACT 27:29": 3,
+    "ACT 27:32": 2,
+    "GAL 5:4": 4,
+    "JAS 1:11": 1,
+    "ROM 9:6": 5
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。教父の用例は無い。"
+}

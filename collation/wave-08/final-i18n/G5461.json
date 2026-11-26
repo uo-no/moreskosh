@@ -1,0 +1,73 @@
+{
+  "strong": "G5461",
+  "lemma": "φωτίζω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "照らす",
+      "def_ja": "照らす、光を与える。『ともしびがその輝きであなたを照らす』『地は彼の栄光で明るくなった』『小羊が都の明かり』『主なる神が彼らを照らす』『すべての人を照らすまことの光』。",
+      "label_en": "to illuminate / give light",
+      "def_en": "To light up, to give light: “as when a lamp with its rays gives you light”, “the earth was made bright with his glory”, “the Lamb is the city's lamp”, “the Lord God will give them light”, “the true light, which gives light to everyone”.",
+      "label_es": "alumbrar / iluminar",
+      "def_es": "Alumbrar, dar luz: «como cuando una lámpara te alumbra con su resplandor», «la tierra fue alumbrada con su gloria», «el Cordero es su lumbrera», «Dios el Señor los iluminará», «la luz verdadera que alumbra a todo hombre».",
+      "label_sv": "att lysa upp / ge ljus",
+      "def_sv": "Att belysa och ge ljus: ”som när lampan lyser upp dig med sitt sken”, ”jorden lystes upp av hans härlighet”, ”Lammet är stadens ljus”, ”Herren Gud ska lysa över dem”, ”det sanna ljuset som ger alla människor ljus”.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ11:36、黙示録18:1・21:23・22:5、ヨハネ1:9。LXX 詩篇75:5 に並行。教父の代表例では確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "悟りを与える／啓かれる",
+      "def_ja": "霊的に啓く、悟らせる。『心の目が照らされて』『かつて光に照らされ』『いちど啓かれた者たち』。",
+      "label_en": "to enlighten / be enlightened",
+      "def_en": "To open spiritually, to give understanding: “having the eyes of your hearts enlightened”, “those who have once been enlightened”, “after you were enlightened”.",
+      "label_es": "alumbrar el entendimiento / ser iluminado",
+      "def_es": "Abrir en lo espiritual, dar a entender: «alumbrando los ojos de vuestro entendimiento», «los que una vez fueron iluminados», «después de haber sido iluminados».",
+      "label_sv": "att ge insikt / bli upplyst",
+      "def_sv": "Att andligt öppna och ge förstånd: ”må era hjärtans ögon få ljus”, ”de som en gång tagit emot ljuset”, ”sedan ni blivit upplysta”.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "エペソ1:18、ヘブル10:32・6:4。LXX 詩篇・箴言24:32、教父（4.praef.1）に並行。"
+    },
+    {
+      "n": 3,
+      "label_ja": "明るみに出す",
+      "def_ja": "明るみに出す、明らかにする。『暗闇に隠れたことを明らかにし』『いのちと不滅を明らかにした』『奥義の働きを明らかにする』。",
+      "label_en": "to bring to light",
+      "def_en": "To bring into the light, to make clear: “will bring to light the things now hidden in darkness”, “brought life and immortality to light”, “to bring to light the plan of the mystery”.",
+      "label_es": "sacar a la luz",
+      "def_es": "Poner de manifiesto, aclarar: «aclarará lo oculto de las tinieblas», «sacó a luz la vida y la inmortalidad», «aclarar cuál sea la dispensación del misterio».",
+      "label_sv": "att dra fram i ljuset",
+      "def_sv": "Att uppenbara och klargöra: ”ska dra fram det som är dolt i mörkret”, ”fört liv och oförgänglighet fram i ljuset”, ”visa hur hemlighetens plan genomförs”.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "Ⅰコリ4:5、Ⅱテモ1:10、エペソ3:9。語義2との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 4:5": 3,
+    "2TI 1:10": 3,
+    "EPH 1:18": 2,
+    "EPH 3:9": 3,
+    "HEB 10:32": 2,
+    "HEB 6:4": 2,
+    "JHN 1:9": 1,
+    "LUK 11:36": 1,
+    "REV 18:1": 1,
+    "REV 22:5": 1,
+    "REV 21:23": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（照らす／啓く／明らかにする）による。"
+}

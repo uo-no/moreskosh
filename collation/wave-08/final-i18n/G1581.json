@@ -1,0 +1,89 @@
+{
+  "strong": "G1581",
+  "lemma": "ἐκκόπτω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "切り倒す（木を）",
+      "def_ja": "木を切り倒す。『実を結ばない木は切り倒される』『切り倒してしまいなさい』『来年実を結ばなければ切り倒してください』。",
+      "label_en": "to cut down (a tree)",
+      "def_en": "To cut down a tree: “every tree that does not bear fruit is cut down”, “cut it down”, “if it bears no fruit next year, cut it down”.",
+      "label_es": "cortar (un árbol)",
+      "def_es": "Talar un árbol: «todo árbol que no da buen fruto es cortado», «córtala», «si no da fruto el año que viene, la cortarás».",
+      "label_sv": "att hugga ner (träd)",
+      "def_sv": "Att fälla ett träd: ”varje träd som inte bär frukt blir nedhugget”, ”hugg bort det”, ”bär det ingen frukt nästa år, hugg ner det”.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ13:7・13:9・3:9、マタイ3:10・7:19。LXX 申命記20:19・エレミヤ6:6 に並行。教父の代表例では確認していない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "切り捨てる（体の一部を）",
+      "def_ja": "体の一部を切り捨てる。『目をえぐり出して捨てよ』『手を切って捨てよ』。",
+      "label_en": "to cut off (part of the body)",
+      "def_en": "To cut off a part of the body: “tear out your eye and throw it away”, “cut off your hand and throw it away”.",
+      "label_es": "cortar y echar (parte del cuerpo)",
+      "def_es": "Separar un miembro: «sácate el ojo y échalo de ti», «córtate la mano y échala de ti».",
+      "label_sv": "att hugga av (en kroppsdel)",
+      "def_sv": "Att skära bort en del av kroppen: ”riv ut ögat och kasta det ifrån dig”, ”hugg av handen och kasta den ifrån dig”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "マタイ18:8・5:30。語義1との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "切り取られる（枝が）",
+      "def_ja": "枝が切り取られる。『あなたも切り取られる』『自然の枝を切り取り』。",
+      "label_en": "to be cut off (branches)",
+      "def_en": "A branch is cut off: “you too will be cut off”, “cut off from the natural olive”.",
+      "label_es": "ser cortado (ramas)",
+      "def_es": "La rama es cortada: «tú también serás cortado», «cortado del olivo silvestre».",
+      "label_sv": "att huggas bort (grenar)",
+      "def_sv": "En gren huggs av: ”annars blir också du borthuggen”, ”avskuren från sin naturliga stam”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ローマ11:22・11:24。語義1との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+    },
+    {
+      "n": 4,
+      "label_ja": "断つ（機会を）",
+      "def_ja": "機会を断つ。『機会を絶つため』（Ⅱコリ11:12）。",
+      "label_en": "to cut off (an opportunity)",
+      "def_en": "To remove an opportunity: “to cut off the occasion” (2 Cor 11:12).",
+      "label_es": "quitar (la ocasión)",
+      "def_es": "Eliminar la oportunidad: «para quitar la ocasión» (2 Co 11:12).",
+      "label_sv": "att avskära (tillfället)",
+      "def_sv": "Att ta bort möjligheten: ”för att ta ifrån dem tillfället” (2 Kor 11:12).",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "Ⅱコリ11:12 の1例のみ。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "2CO 11:12": 4,
+    "LUK 13:7": 1,
+    "LUK 13:9": 1,
+    "LUK 3:9": 1,
+    "MAT 18:8": 2,
+    "MAT 3:10": 1,
+    "MAT 7:19": 1,
+    "MAT 5:30": 2,
+    "ROM 11:22": 3,
+    "ROM 11:24": 3
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は対象による。"
+}

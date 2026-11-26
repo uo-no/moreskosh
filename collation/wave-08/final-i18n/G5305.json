@@ -1,0 +1,56 @@
+{
+  "strong": "G5305",
+  "lemma": "ὕστερον",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "のちに／あとで",
+      "def_ja": "のちに、あとで、そののち。『あとで平和に満ちた義の実を結ぶ』『あとでついて来る』『のちに悔いて出かけた』『のちに悔いなかった』『のちになって来て』『のちに彼らの不信を責められ』。",
+      "label_en": "later / afterwards",
+      "def_en": "Later, afterwards, subsequently: “later it yields the peaceful fruit of righteousness”, “you will follow afterwards”, “later changed his mind and went”, “did not afterwards repent”, “came afterwards”, “afterwards he rebuked their unbelief”.",
+      "label_es": "después / más tarde",
+      "def_es": "Más tarde, luego: «después da fruto apacible de justicia», «me seguirás después», «después, arrepentido, fue», «no os arrepentisteis después», «después vinieron», «finalmente les reprochó su incredulidad».",
+      "label_sv": "senare / efteråt",
+      "def_sv": "Senare, efteråt, därpå: ”senare ger den frid och rättfärdighet som frukt”, ”du ska följa mig längre fram”, ”ångrade sig sedan och gick”, ”ångrade er inte efteråt”, ”kom senare”, ”senare förebrådde han dem deras otro”.",
+      "layers": {
+        "nt": 7,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヘブル12:11、ヨハネ13:36、マタイ4:2・21:29・21:32・25:11、マルコ16:14。LXX・教父（18.2）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "最後に",
+      "def_ja": "最後に、しまいには。『最後にその女も死んだ』『最後に自分の子を』『最後に二人の者が来て』。",
+      "label_en": "finally",
+      "def_en": "Finally, in the end: “last of all the woman died”, “finally his own son”, “at last two came forward”.",
+      "label_es": "por último",
+      "def_es": "Por último, al final: «después de todos murió también la mujer», «finalmente les envió su hijo», «al fin vinieron dos».",
+      "label_sv": "till sist",
+      "def_sv": "Sist, till slut: ”sist av alla dog kvinnan”, ”till sist sin egen son”, ”till slut trädde två fram”.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "マタイ22:27・21:37・26:60、ルカ20:32。LXX 列王記下27:17 に並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "HEB 12:11": 1,
+    "JHN 13:36": 1,
+    "LUK 20:32": 2,
+    "MAT 22:27": 2,
+    "MAT 4:2": 1,
+    "MAT 21:29": 1,
+    "MAT 21:32": 1,
+    "MAT 21:37": 2,
+    "MAT 25:11": 1,
+    "MAT 26:60": 2,
+    "MRK 16:14": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（のち／最後）による。"
+}

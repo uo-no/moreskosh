@@ -1,0 +1,89 @@
+{
+  "strong": "G1843",
+  "lemma": "ἐξομολογέω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "罪を告白する",
+      "def_ja": "罪を告白する、告げる。『罪を告白し』『互いに罪を告白し合いなさい』『自分の罪を告白し』『魔術をしていた者の多くが、自分たちの行いを告白し』。",
+      "label_en": "to confess (sins)",
+      "def_en": "To confess sins, to declare them: “confessing their sins”, “confess your sins to one another”, “confessing their own sins”, “many of those who practised magic came confessing their practices”.",
+      "label_es": "confesar (pecados)",
+      "def_es": "Confesar y declarar los pecados: «confesando sus pecados», «confesaos vuestras ofensas unos a otros», «confesando sus pecados», «muchos de los que habían practicado la magia venían confesando sus hechos».",
+      "label_sv": "att bekänna (synder)",
+      "def_sv": "Att bekänna och tala om sina synder: ”bekände sina synder”, ”bekänn era synder för varandra”, ”bekände sina egna synder”, ”många som sysslat med magi kom och bekände vad de gjort”.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒19:18、ヤコブ5:16、マタイ3:6、マルコ1:5。LXX 詩篇・レビ記、教父（26.2、6.16）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "公に告白する／承認する",
+      "def_ja": "公に告白する、承認する。『すべての舌が主と告白する』『すべての舌が神に告白する』。",
+      "label_en": "to confess openly / acknowledge",
+      "def_en": "To confess publicly, to acknowledge: “every tongue confess that he is Lord”, “every tongue shall confess to God”.",
+      "label_es": "confesar públicamente / reconocer",
+      "def_es": "Confesar abiertamente, reconocer: «toda lengua confiese que es Señor», «toda lengua confesará a Dios».",
+      "label_sv": "att offentligt bekänna / erkänna",
+      "def_sv": "Att öppet bekänna och erkänna: ”alla tungor ska bekänna att han är Herren”, ”alla tungor ska bekänna Gud”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ピリピ2:11、ローマ14:11（イザヤ45:23 の引用）。LXX イザヤ45:23 に並行。教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "賛美する／感謝する",
+      "def_ja": "賛美する、感謝を献げる。『父よ、あなたをほめたたえます』『諸国民の間であなたをほめたたえます』。",
+      "label_en": "to praise / give thanks",
+      "def_en": "To praise, to offer thanks: “I praise you, Father”, “I will praise you among the nations”.",
+      "label_es": "alabar / dar gracias",
+      "def_es": "Alabar, rendir gracias: «te alabo, Padre», «te confesaré entre los gentiles».",
+      "label_sv": "att prisa / tacka",
+      "def_sv": "Att lovprisa och frambära tack: ”jag prisar dig, Fader”, ”jag ska prisa dig bland folken”.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ルカ10:21、マタイ11:25、ローマ15:9。LXX 詩篇6:6・51:12、教父に並行。"
+    },
+    {
+      "n": 4,
+      "label_ja": "承諾する",
+      "def_ja": "同意する、約束する。『ユダは承諾して』（ルカ22:6）。",
+      "label_en": "to consent",
+      "def_en": "To agree, to promise: “Judas consented” (Luke 22:6).",
+      "label_es": "comprometerse",
+      "def_es": "Asentir, prometer: «Judas se comprometió» (Lc 22:6).",
+      "label_sv": "att gå med på",
+      "def_sv": "Att samtycka och lova: ”Judas gick med på det” (Luk 22:6).",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ22:6 の1例のみ。LXX 代表例に並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 19:18": 1,
+    "JAS 5:16": 1,
+    "LUK 10:21": 3,
+    "LUK 22:6": 4,
+    "MAT 11:25": 3,
+    "MAT 3:6": 1,
+    "MRK 1:5": 1,
+    "PHP 2:11": 2,
+    "ROM 14:11": 2,
+    "ROM 15:9": 3
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。"
+}

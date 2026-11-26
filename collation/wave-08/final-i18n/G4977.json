@@ -1,0 +1,56 @@
+{
+  "strong": "G4977",
+  "lemma": "σχίζω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "裂く／裂ける",
+      "def_ja": "引き裂く、裂ける。『神殿の幕が真っ二つに裂けた』『岩が裂け』『天が裂けて』『網は破れなかった』『新しい着物を裂いて』『裂かずに、くじ引きで』。",
+      "label_en": "to tear / be torn",
+      "def_en": "To rend, to be torn: “the curtain of the temple was torn in two”, “the rocks were split”, “the heavens being torn open”, “the net was not torn”, “tears a piece from a new garment”, “let us not tear it, but cast lots”.",
+      "label_es": "rasgar / rasgarse",
+      "def_es": "Desgarrar, partirse: «el velo del templo se rasgó en dos», «las rocas se partieron», «vio abrirse los cielos», «la red no se rompió», «rompe un vestido nuevo», «no la partamos, sino echemos suertes».",
+      "label_sv": "att slita itu / rämna",
+      "def_sv": "Att riva sönder, att rämna: ”förhänget i templet rämnade i två delar”, ”klipporna rämnade”, ”himlen delade sig”, ”nätet gick inte sönder”, ”river en lapp ur en ny mantel”, ”låt oss inte skära sönder den utan kasta lott”.",
+      "layers": {
+        "nt": 9,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヨハネ19:24・21:11、ルカ23:45・5:36（2回）、マタイ27:51（2回）、マルコ1:10・15:38。LXX イザヤ48:21・Ⅰ列王記、教父に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "分かれる／分裂する",
+      "def_ja": "意見が分かれる、分裂する。『町の人々は二派に分かれ』『群衆は二つに分かれた』。",
+      "label_en": "to be divided / split",
+      "def_en": "To be divided in opinion, to split: “the people of the city were divided into two parties”, “the assembly was divided”.",
+      "label_es": "dividirse / escindirse",
+      "def_es": "Dividirse en pareceres: «la gente de la ciudad estaba dividida», «la asamblea se dividió».",
+      "label_sv": "att dela sig / splittras",
+      "def_sv": "Att bli oense och splittras: ”stadens folk delade sig i två läger”, ”folkmassan blev splittrad”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒14:4・23:7。LXX 代表例・教父（5.3.3）に並行。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "ACT 14:4": 2,
+    "ACT 23:7": 2,
+    "JHN 19:24": 1,
+    "JHN 21:11": 1,
+    "LUK 23:45": 1,
+    "LUK 5:36#1": 1,
+    "LUK 5:36#2": 1,
+    "MAT 27:51#1": 1,
+    "MAT 27:51#2": 1,
+    "MRK 1:10": 1,
+    "MRK 15:38": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（裂く／分裂）による。"
+}

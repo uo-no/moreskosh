@@ -1,0 +1,73 @@
+{
+  "strong": "G4229",
+  "lemma": "πρᾶγμα",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "行い／なされた事",
+      "def_ja": "行われた事、行為。『成し遂げられた事柄』『その事はどうして』『偽ることのできない二つの事柄』『あらゆる悪い行為』『あなたがたの熱心…その事に』。",
+      "label_en": "deed / thing done",
+      "def_en": "What has been done, an act: “the things that have been accomplished”, “how is it that this thing …”, “two unchangeable things in which it is impossible to lie”, “every vile practice”, “your zeal … in this matter”.",
+      "label_es": "hecho / cosa realizada",
+      "def_es": "Lo hecho, la acción: «las cosas ciertísimas ocurridas», «¿por qué convinisteis en esta cosa?», «dos cosas inmutables en las cuales es imposible mentir», «toda obra perversa», «vuestra solicitud … en el asunto».",
+      "label_sv": "gärning / det som skett",
+      "def_sv": "Det som har gjorts, en handling: ”de händelser som ägt rum”, ”hur kunde ni komma överens om detta?”, ”två orubbliga ting där det är omöjligt att ljuga”, ”all slags ondska”, ”er iver … i denna sak”.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ルカ1:1、使徒5:4、Ⅱコリ7:11、ヘブル6:18、ヤコブ3:16。LXX・教父に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "事柄／訴え事",
+      "def_ja": "事柄、用件、争い事。『一人が他の人に訴え事があるとき』『このことで兄弟を踏みにじり』『どんな事でも二人が心を合わせて』『彼女の必要とするどんな用件でも』。",
+      "label_en": "matter / dispute",
+      "def_en": "A matter, business, or case in dispute: “when one of you has a grievance against another”, “wrong his brother in this matter”, “if two of you agree about anything”, “in whatever she may need”.",
+      "label_es": "asunto / pleito",
+      "def_es": "Asunto, negocio, litigio: «¿osa alguno que tiene algo contra otro?», «ni engañe en nada a su hermano», «de cualquiera cosa que dos se pongan de acuerdo», «en cualquier cosa en que ella necesite de vosotros».",
+      "label_sv": "angelägenhet / tvist",
+      "def_sv": "En sak, ett ärende, en rättstvist: ”när någon har en tvist med en annan”, ”göra sin broder orätt i denna sak”, ”vad det än är två kommer överens om”, ”vilken angelägenhet hon än behöver hjälp med”.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰコリ6:1・Ⅰテサ4:6、マタイ18:19、ローマ16:2。LXX・教父（4.3.1、2.5.1）に並行。"
+    },
+    {
+      "n": 3,
+      "label_ja": "実体／事物（複数）",
+      "def_ja": "実体、事物。『事物の実体』『望んでいることの実体』『まことの形』（ヘブル10:1・11:1）。",
+      "label_en": "reality / things (plural)",
+      "def_en": "Reality, things themselves: “the realities”, “the substance of things hoped for”, “the true form” (Heb 10:1; 11:1).",
+      "label_es": "realidad / cosas (plural)",
+      "def_es": "La realidad, las cosas: «las cosas mismas», «la certeza de lo que se espera», «la imagen misma» (He 10:1; 11:1).",
+      "label_sv": "verklighet / tingen (plural)",
+      "def_sv": "Verkligheten, tingen själva: ”tingens verklighet”, ”det man hoppas på”, ”tingens sanna gestalt” (Heb 10:1; 11:1).",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヘブル10:1・11:1。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 6:1": 2,
+    "1TH 4:6": 2,
+    "2CO 7:11": 1,
+    "ACT 5:4": 1,
+    "HEB 10:1": 3,
+    "HEB 6:18": 1,
+    "HEB 11:1": 3,
+    "JAS 3:16": 1,
+    "LUK 1:1": 1,
+    "MAT 18:19": 2,
+    "ROM 16:2": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。"
+}

@@ -1,0 +1,56 @@
+{
+  "strong": "G5452",
+  "lemma": "φυτεύω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "植える",
+      "def_ja": "植える、植え付ける。『ぶどう園を造り』『いちじくの木が植えてあって』『海に根を下ろせ』『彼らは植えていた』『天の父が植えなかった木』『ぶどう畑を作って』。",
+      "label_en": "to plant",
+      "def_en": "To plant: “planted a vineyard”, “had a fig tree planted”, “be planted in the sea”, “they were planting”, “every plant that my heavenly Father has not planted”, “planting a vineyard”.",
+      "label_es": "plantar",
+      "def_es": "Plantar, sembrar: «plantó una viña», «tenía una higuera plantada», «plántate en el mar», «plantaban», «toda planta que no plantó mi Padre celestial», «plantar viña».",
+      "label_sv": "att plantera",
+      "def_sv": "Att plantera: ”anlade en vingård”, ”hade ett fikonträd planterat”, ”slå rot i havet”, ”de planterade”, ”varje planta som min himmelske Fader inte har planterat”, ”planterar en vingård”.",
+      "layers": {
+        "nt": 8,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ルカ13:6・17:6・17:28・20:9、マタイ15:13・21:33、マルコ12:1、Ⅰコリ9:7。LXX 詩篇・ヨブ・箴言、教父（22.5.2、12）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "植える（宣教の働きとして）",
+      "def_ja": "宣教・奉仕の働きを『植える』と譬えて言う。『わたしは植え、アポロは水を注いだ』『植える者も水を注ぐ者も』。",
+      "label_en": "to plant (as mission work)",
+      "def_en": "Speaking of the work of mission and service figuratively as “planting”: “I planted, Apollos watered”, “neither he who plants nor he who waters”.",
+      "label_es": "plantar (como labor misionera)",
+      "def_es": "Hablar de la misión y el servicio como un «plantar»: «yo planté, Apolos regó», «ni el que planta ni el que riega».",
+      "label_sv": "att plantera (om missionsarbetet)",
+      "def_sv": "Att bildligt tala om mission och tjänst som att ”plantera”: ”jag planterade, Apollos vattnade”, ”varken den som planterar eller den som vattnar”.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰコリ3:6・3:7・3:8。語義1との境界は連続的。LXX 代表例に並行。教父に並行。"
+    }
+  ],
+  "assignments": {
+    "1CO 3:6": 2,
+    "1CO 3:7": 2,
+    "1CO 3:8": 2,
+    "1CO 9:7": 1,
+    "LUK 13:6": 1,
+    "LUK 17:6": 1,
+    "LUK 17:28": 1,
+    "LUK 20:9": 1,
+    "MAT 15:13": 1,
+    "MAT 21:33": 1,
+    "MRK 12:1": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（植える／宣教の比喩）による。"
+}

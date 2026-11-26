@@ -1,0 +1,56 @@
+{
+  "strong": "G533",
+  "lemma": "ἀπαρνέομαι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "知らないと言う／否認する",
+      "def_ja": "否認する、知らないと言う、背を向ける。『わたしを知らないと言う』『三度わたしを知らないと言うであろう』『あなたを知らないなどとは決して言いません』『人の前で否む者は』。",
+      "label_en": "to deny / disown",
+      "def_en": "To deny, to say one does not know, to turn one's back: “to say you do not know me”, “you will deny me three times”, “I will never deny you”, “whoever denies me before people”.",
+      "label_es": "negar / renegar de",
+      "def_es": "Negar, decir que no se conoce, dar la espalda: «negar que me conoces», «me negarás tres veces», «de ninguna manera te negaré», «el que me niegue delante de los hombres».",
+      "label_sv": "att förneka",
+      "def_sv": "Att förneka, säga att man inte känner, vända ryggen: ”förneka att du känner mig”, ”tre gånger ska du förneka mig”, ”jag ska aldrig förneka dig”, ”den som förnekar mig inför människorna”.",
+      "layers": {
+        "nt": 9,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "ルカ12:9・22:34・22:61、マタイ26:34・26:35・26:75、マルコ14:30・14:31・14:72。教父（18.1.5、6.5.2）に並行。LXX 代表例（イザヤ31:7）は『退ける』の用法で、確認できない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "自分を捨てる",
+      "def_ja": "自分を捨てる。『自分を捨て、自分の十字架を負い』。",
+      "label_en": "to deny oneself",
+      "def_en": "To deny oneself: “deny himself and take up his cross”.",
+      "label_es": "negarse a sí mismo",
+      "def_es": "Negarse a uno mismo: «niéguese a sí mismo, y tome su cruz».",
+      "label_sv": "att förneka sig själv",
+      "def_sv": "Att säga nej till sig själv: ”förneka sig själv och ta sitt kors”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マタイ16:24、マルコ8:34。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "LUK 12:9": 1,
+    "LUK 22:34": 1,
+    "LUK 22:61": 1,
+    "MAT 16:24": 2,
+    "MAT 26:34": 1,
+    "MAT 26:35": 1,
+    "MAT 26:75": 1,
+    "MRK 8:34": 2,
+    "MRK 14:30": 1,
+    "MRK 14:31": 1,
+    "MRK 14:72": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は目的語（他者／自分）による。"
+}

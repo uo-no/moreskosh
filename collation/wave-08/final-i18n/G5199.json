@@ -1,0 +1,56 @@
+{
+  "strong": "G5199",
+  "lemma": "ὑγιής",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "健やかな／全き（体が）",
+      "def_ja": "健やかな、丈夫な、全き。『全く健やかにされて』『治りたいか』『その人は元気になり』『手は元どおり丈夫になり』『全身を健やかにした』『あなたの病気は治って』。",
+      "label_en": "healthy / whole (body)",
+      "def_en": "Healthy, sound, whole: “made completely well”, “do you want to be healed?”, “the man became well”, “his hand was restored”, “made a man's whole body well”, “be healed of your disease”.",
+      "label_es": "sano / entero (cuerpo)",
+      "def_es": "Sano, fuerte, íntegro: «sanado por completo», «¿quieres ser sano?», «el hombre fue sanado», «la mano le fue restaurada sana», «sané completamente a un hombre», «queda sana de tu azote».",
+      "label_sv": "frisk / hel (om kroppen)",
+      "def_sv": "Frisk, stark, hel: ”blev helt botad”, ”vill du bli frisk?”, ”mannen blev frisk”, ”handen blev frisk igen”, ”gjort en människas hela kropp frisk”, ”var botad från din plåga”.",
+      "layers": {
+        "nt": 10,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒4:10、ヨハネ5:6・5:9・5:11・5:14・5:15・7:23、マタイ15:31・12:13、マルコ5:34。LXX レビ記13:15・詩篇、教父（26.8.3、26.8.7）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "健全な（言葉が）",
+      "def_ja": "健全な、非の打ちどころのない（言葉）。『非難の余地のない健全なことば』（テトス2:8）。",
+      "label_en": "sound (speech)",
+      "def_en": "Sound, irreproachable (speech): “sound speech that cannot be condemned” (Titus 2:8).",
+      "label_es": "sano (palabra)",
+      "def_es": "Sano, intachable (hablar): «palabra sana e irreprochable» (Tit 2:8).",
+      "label_sv": "sund (om tal)",
+      "def_sv": "Sunt och oklanderligt (tal): ”sunt tal som inte kan klandras” (Tit 2:8).",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "テトス2:8 の1例のみ。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 4:10": 1,
+    "JHN 5:6": 1,
+    "JHN 5:9": 1,
+    "JHN 5:11": 1,
+    "JHN 5:14": 1,
+    "JHN 5:15": 1,
+    "JHN 7:23": 1,
+    "MAT 15:31": 1,
+    "MAT 12:13": 1,
+    "MRK 5:34": 1,
+    "TIT 2:8": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（体／言葉）による。"
+}

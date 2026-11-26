@@ -1,0 +1,72 @@
+{
+  "strong": "G3114",
+  "lemma": "μακροθυμέω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "忍耐する／寛容である",
+      "def_ja": "辛抱する、寛容である、待つ。『愛は寛容であり』『すべての人に対して寛容でありなさい』『神は忍耐しておられる』『主が来られるまで耐え忍びなさい』『忍耐してください、返しますから』。",
+      "label_en": "to be patient / forbearing",
+      "def_en": "To be patient, to be forbearing, to wait: “love is patient”, “be patient with them all”, “God is patient”, “be patient until the coming of the Lord”, “have patience with me, and I will pay you”.",
+      "label_es": "tener paciencia / ser sufrido",
+      "def_es": "Sufrir con paciencia, ser longánimo, esperar: «el amor es sufrido», «que seáis pacientes para con todos», «Dios es paciente», «tened paciencia hasta la venida del Señor», «ten paciencia conmigo, y yo te lo pagaré».",
+      "label_sv": "att ha tålamod / vara tålmodig",
+      "def_sv": "Att tåla, vara långmodig, vänta: ”kärleken är tålmodig”, ”ha tålamod med alla”, ”Gud är tålmodig”, ”vänta tåligt tills Herren kommer”, ”ha tålamod med mig, så ska jag betala”.",
+      "layers": {
+        "nt": 8,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰコリ13:4、Ⅰテサ5:14、Ⅱペテロ3:9、ヤコブ5:7（2回）・5:8、マタイ18:26・18:29。LXX 箴言19:11・シラ2:4、教父（49.5、9）に並行。語義2・3との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "忍び待つ",
+      "def_ja": "じっと忍んで待つ。『アブラハムは忍耐して待ち』（ヘブル6:15）。",
+      "label_en": "to wait patiently",
+      "def_en": "To wait quietly with endurance: “Abraham, having patiently waited” (Heb 6:15).",
+      "label_es": "esperar con paciencia",
+      "def_es": "Aguardar pacientemente: «habiendo esperado con paciencia» (He 6:15).",
+      "label_sv": "att tåligt vänta",
+      "def_sv": "Att stilla och uthålligt vänta: ”Abraham väntade tåligt” (Heb 6:15).",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヘブル6:15 の1例のみ。語義1との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "待たせる／遅らせる",
+      "def_ja": "待たせる、長くかかる。『選ばれた者のために、彼は長く待たれる（忍耐される）か』（ルカ18:7）。",
+      "label_en": "to keep waiting / delay",
+      "def_en": "To make wait, to be long about: “will he delay long over his chosen ones?” (Luke 18:7).",
+      "label_es": "hacer esperar / demorarse",
+      "def_es": "Hacer aguardar, tardar: «¿se tardará en responderles?» (Lc 18:7).",
+      "label_sv": "att dröja / låta vänta",
+      "def_sv": "Att låta vänta, ta lång tid: ”ska han dröja med att hjälpa sina utvalda?” (Luk 18:7).",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ルカ18:7 の1例のみ。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 13:4": 1,
+    "1TH 5:14": 1,
+    "2PE 3:9": 1,
+    "HEB 6:15": 2,
+    "JAS 5:7#1": 1,
+    "JAS 5:7#2": 1,
+    "JAS 5:8": 1,
+    "LUK 18:7": 3,
+    "MAT 18:26": 1,
+    "MAT 18:29": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。"
+}

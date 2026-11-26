@@ -1,0 +1,55 @@
+{
+  "strong": "G102",
+  "lemma": "ἀδύνατος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "不可能な",
+      "def_ja": "不可能な、できない。『人にはできないが』『これはできない』『牛や羊の血は罪を取り除くことができない』『神が偽ることのできない』『信仰がなくては神に喜ばれることはできない』『律法ではできなかったことを』。",
+      "label_en": "impossible",
+      "def_en": "Impossible, unable: “with man this is impossible”, “this cannot be done”, “the blood of bulls and goats cannot take away sins”, “God cannot lie”, “without faith it is impossible to please God”, “what the law could not do”.",
+      "label_es": "imposible",
+      "def_es": "Imposible, que no puede ser: «para los hombres esto es imposible», «esto no puede hacerse», «la sangre de toros y machos cabríos no puede quitar los pecados», «es imposible que Dios mienta», «sin fe es imposible agradar a Dios», «lo que era imposible para la ley».",
+      "label_sv": "omöjlig",
+      "def_sv": "Omöjlig, som inte går: ”för människor är det omöjligt”, ”detta kan inte ske”, ”blod av tjurar och bockar kan inte ta bort synder”, ”Gud kan inte ljuga”, ”utan tro kan ingen behaga Gud”, ”det lagen inte kunde”.",
+      "layers": {
+        "nt": 8,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヘブル10:4・6:4・6:18・11:6、ルカ18:27、マタイ19:26、マルコ10:27、ローマ8:3。LXX 詩篇・Ⅱマカバイ、教父（16.1.19、9）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "力のない（人）",
+      "def_ja": "力のない、弱い。『足の不自由な生まれながらの人』『力の強い者は弱い者の弱さを担う』。",
+      "label_en": "powerless (person)",
+      "def_en": "Without strength, weak: “a man crippled from birth”, “we who are strong ought to bear with the failings of the weak”.",
+      "label_es": "sin fuerzas (persona)",
+      "def_es": "Sin vigor, débil: «un hombre imposibilitado de los pies, cojo de nacimiento», «los que somos fuertes debemos soportar las flaquezas de los débiles».",
+      "label_sv": "kraftlös (människa)",
+      "def_sv": "Utan kraft, svag: ”en man som var förlamad i fötterna från födseln”, ”de starka ska bära de svagas svagheter”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒14:8、ローマ15:1。語義1との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 14:8": 2,
+    "HEB 10:4": 1,
+    "HEB 6:4": 1,
+    "HEB 6:18": 1,
+    "HEB 11:6": 1,
+    "LUK 18:27": 1,
+    "MAT 19:26": 1,
+    "MRK 10:27": 1,
+    "ROM 15:1": 2,
+    "ROM 8:3": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は対象（事柄／人）による。"
+}

@@ -1,0 +1,55 @@
+{
+  "strong": "G2004",
+  "lemma": "ἐπιτάσσω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "命じる（霊・自然に対して）",
+      "def_ja": "霊・風・水に対して命じる、命令する。『汚れた霊にも権威をもって命じる』『風と水を命じる』『底知れぬ所へ行けとお命じにならないように』『汚れた霊よ、出て行け、と命じる』。",
+      "label_en": "to command (spirits, nature)",
+      "def_en": "To command, give orders to spirits, wind, and water: “commands even the unclean spirits with authority”, “commands the winds and water”, “begged him not to command them to depart into the abyss”, commands “come out” to an unclean spirit.",
+      "label_es": "mandar (a espíritus, a la naturaleza)",
+      "def_es": "Ordenar a espíritus, viento y agua: «con autoridad manda aun a los espíritus inmundos», «a los vientos y a las aguas manda», «le rogaban que no los mandase ir al abismo», manda «sal de él» al espíritu inmundo.",
+      "label_sv": "att befalla (andar, naturen)",
+      "def_sv": "Att ge order åt andar, vind och vatten: ”han befaller med makt även de orena andarna”, ”han befaller vindarna och vattnet”, ”bad att han inte skulle befalla dem att fara ner i avgrunden”, befaller en oren ande: ”far ut!”.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ルカ4:36・8:25・8:31、マルコ1:27・9:25。LXX 詩篇・Ⅱ列王記、教父（6.18、20.3）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "命じる（人に）",
+      "def_ja": "人に命じる、命令を下す。『彼を打つように命じた』『しもべは命じたとおりにしました』『首を持って来るように命じ』『人々を草の上に座らせるように命じ』『命じることもできる』。",
+      "label_en": "to order (people)",
+      "def_en": "To command a person, to issue an order: “ordered them to strike him”, “the servant did as commanded”, “ordered that his head be brought”, “commanded the people to sit down on the grass”, “could have ordered you”.",
+      "label_es": "ordenar (a personas)",
+      "def_es": "Mandar a alguien, dar una orden: «mandó golpearle», «se ha hecho como mandaste», «mandó traer la cabeza», «mandó que hiciesen recostar a todos sobre la hierba», «podría mandarte».",
+      "label_sv": "att beordra (människor)",
+      "def_sv": "Att befalla en människa: ”befallde att slå honom”, ”det är gjort som du befallde”, ”befallde att huvudet skulle hämtas”, ”befallde att folket skulle slå sig ner i gräset”, ”kunde befalla dig”.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒23:2、ルカ14:22、マルコ6:27・6:39、ピレモン8。LXX・教父に並行。"
+    }
+  ],
+  "assignments": {
+    "ACT 23:2": 2,
+    "LUK 14:22": 2,
+    "LUK 4:36": 1,
+    "LUK 8:25": 1,
+    "LUK 8:31": 1,
+    "MRK 1:27": 1,
+    "MRK 6:27": 2,
+    "MRK 6:39": 2,
+    "MRK 9:25": 1,
+    "PHM 1:8": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は対象（霊・自然／人）による。"
+}

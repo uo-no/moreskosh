@@ -1,0 +1,72 @@
+{
+  "strong": "G2885",
+  "lemma": "κοσμέω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "飾る",
+      "def_ja": "飾る、装う。『自分を飾った』『着飾る』『神殿が飾られている』『預言者の墓を飾り』『夫のために飾った花嫁』『宝石で飾られ』『神の教えを飾る』。",
+      "label_en": "to adorn",
+      "def_en": "To adorn, to array: “adorned herself”, “to dress up”, “the temple was adorned”, “decorate the tombs of the prophets”, “a bride adorned for her husband”, “adorned with jewels”, “adorn the teaching of God”.",
+      "label_es": "adornar",
+      "def_es": "Adornar, ataviar: «se ataviaban», «ataviarse», «el templo estaba adornado», «adornáis los monumentos de los justos», «una esposa ataviada para su marido», «adornados con piedras preciosas», «adornar la doctrina de Dios».",
+      "label_sv": "att smycka",
+      "def_sv": "Att smycka och pryda: ”smyckade sig”, ”klä sig”, ”templet var prytt”, ”smycka profeternas gravar”, ”en brud som är smyckad för sin man”, ”prydda med ädelstenar”, ”vara en prydnad för Guds lära”.",
+      "layers": {
+        "nt": 7,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰペテロ3:5、Ⅰテモ2:9、ルカ21:5、マタイ23:29、黙示録21:2・21:19、テトス2:10。LXX 箴言16:27・知恵3:5、教父（2.8、26.28.1）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "整える／掃除して飾る",
+      "def_ja": "整頓する、きちんとする。『家はきれいに掃除してかざってあった』『掃除してあった』。",
+      "label_en": "to put in order / sweep and decorate",
+      "def_en": "To tidy, to make neat: “the house was swept and put in order”, “swept”.",
+      "label_es": "arreglar / barrer y adornar",
+      "def_es": "Ordenar, dejar en regla: «la casa barrida y adornada», «barrida».",
+      "label_sv": "att städa / göra fint",
+      "def_sv": "Att göra i ordning och snygga upp: ”huset var städat och pyntat”, ”sopat”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ルカ11:25、マタイ12:44。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "手入れする（灯火を）",
+      "def_ja": "灯火を整える。『ともしびを整えた』（マタイ25:7）。",
+      "label_en": "to trim (lamps)",
+      "def_en": "To put lamps in order: “trimmed their lamps” (Matt 25:7).",
+      "label_es": "arreglar (lámparas)",
+      "def_es": "Preparar las lámparas: «arreglaron sus lámparas» (Mt 25:7).",
+      "label_sv": "att göra i ordning (lampor)",
+      "def_sv": "Att sköta om lamporna: ”gjorde i ordning sina lampor” (Matt 25:7).",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マタイ25:7 の1例のみ。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1PE 3:5": 1,
+    "1TI 2:9": 1,
+    "LUK 11:25": 2,
+    "LUK 21:5": 1,
+    "MAT 12:44": 2,
+    "MAT 23:29": 1,
+    "MAT 25:7": 3,
+    "REV 21:2": 1,
+    "REV 21:19": 1,
+    "TIT 2:10": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（飾る／整える／灯火）による。"
+}

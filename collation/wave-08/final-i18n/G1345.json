@@ -1,0 +1,72 @@
+{
+  "strong": "G1345",
+  "lemma": "δικαίωμα",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "定め／規定",
+      "def_ja": "定め、規定、要求。『礼拝の規定』『肉の規定』『主のすべての戒めと定めを守り』『死に値するという神の定め』『律法の要求を守るなら』『律法の要求が全うされる』。",
+      "label_en": "ordinance / requirement",
+      "def_en": "An ordinance, regulation, requirement: “regulations for worship”, “regulations for the body”, “walking in all the commandments and ordinances of the Lord”, “God's decree that they deserve to die”, “if one keeps the requirements of the law”, “that the requirement of the law might be fulfilled”.",
+      "label_es": "ordenanza / requisito",
+      "def_es": "Ordenanza, norma, exigencia: «ordenanzas de culto», «ordenanzas acerca de la carne», «andando en todos los mandamientos y ordenanzas del Señor», «el juicio de Dios de que son dignos de muerte», «si guarda las ordenanzas de la ley», «para que la justicia de la ley se cumpliese».",
+      "label_sv": "stadga / föreskrift",
+      "def_sv": "Stadga, bestämmelse, krav: ”föreskrifter för gudstjänsten”, ”yttre föreskrifter”, ”levde efter alla Herrens bud och stadgar”, ”Guds rättsordning att de förtjänar döden”, ”om någon håller lagens föreskrifter”, ”för att lagens krav skulle uppfyllas”.",
+      "layers": {
+        "nt": 6,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヘブル9:1・9:10、ルカ1:6、ローマ1:32・2:26・8:4。LXX 詩篇118:8・Ⅰマカバイ、教父（21.5、2.8）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "正しい行い",
+      "def_ja": "正しい行い、義の行為。『聖徒たちの正しい行い』『あなたの正しい裁き』『一つの義の行為によって』。",
+      "label_en": "righteous deed",
+      "def_en": "A right act, a deed of righteousness: “the righteous deeds of the saints”, “your righteous acts have been revealed”, “through one act of righteousness”.",
+      "label_es": "acto justo",
+      "def_es": "Obra recta, acto de justicia: «las acciones justas de los santos», «tus juicios se han manifestado», «por la justicia de uno».",
+      "label_sv": "rättfärdig gärning",
+      "def_sv": "En rätt handling, en rättfärdighetens gärning: ”de heligas rättfärdiga gärningar”, ”dina rättfärdiga domar har uppenbarats”, ”genom en endas rättfärdiga gärning”.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "黙示録15:4・19:8、ローマ5:18。LXX 代表例に並行。教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "義とする判決",
+      "def_ja": "義とする宣告・判決。『さばきは一つの違反のゆえに罪に定められるが、恵みの賜物は義と認められる』（ローマ5:16）。",
+      "label_en": "verdict of justification",
+      "def_en": "A declaration or verdict of being righteous: “judgment following one trespass brought condemnation, but the free gift brought justification” (Rom 5:16).",
+      "label_es": "sentencia de justificación",
+      "def_es": "Declaración o fallo que tiene por justo: «el juicio vino a causa de un solo pecado para condenación, pero el don para justificación» (Ro 5:16).",
+      "label_sv": "frikännande dom",
+      "def_sv": "Ett utslag som förklarar rättfärdig: ”domen efter en enda överträdelse blev fördömelse, men nådegåvan ledde till frikännande” (Rom 5:16).",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ローマ5:16 の1例のみ。語義1・2との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "HEB 9:1": 1,
+    "HEB 9:10": 1,
+    "LUK 1:6": 1,
+    "REV 15:4": 2,
+    "REV 19:8": 2,
+    "ROM 1:32": 1,
+    "ROM 2:26": 1,
+    "ROM 5:16": 3,
+    "ROM 5:18": 2,
+    "ROM 8:4": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。"
+}

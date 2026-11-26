@@ -1,0 +1,56 @@
+{
+  "strong": "G5530",
+  "lemma": "χράομαι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "用いる／活用する",
+      "def_ja": "用いる、利用する、行使する。『この権利を用いなかった』『それを用いなかった』『むしろ自由の身になれ（その機会を用いよ）』『世を用いる者は』『律法を正しく用いるなら』『少量のぶどう酒を用いなさい』『このような希望を持っているので』。",
+      "label_en": "to use / make use of",
+      "def_en": "To use, employ, exercise: “we have not made use of this right”, “have made no use of any of these”, “rather make use of the opportunity (to be free)”, “those who use the world”, “if one uses the law lawfully”, “use a little wine”, “since we have such a hope”.",
+      "label_es": "usar / aprovechar",
+      "def_es": "Usar, valerse de, ejercer: «no hemos usado de este derecho», «de nada de esto me he aprovechado», «procura más bien aprovechar (el hacerte libre)», «los que disfrutan de este mundo», «si uno la usa legítimamente», «usa de un poco de vino», «teniendo tal esperanza».",
+      "label_sv": "att använda / bruka",
+      "def_sv": "Att bruka, utnyttja, utöva: ”vi har inte utnyttjat den rätten”, ”jag har inte utnyttjat något av detta”, ”ta hellre vara på tillfället (att bli fri)”, ”de som använder världen”, ”om man brukar lagen på rätt sätt”, ”använd lite vin”, ”då vi har ett sådant hopp”.",
+      "layers": {
+        "nt": 10,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰコリ9:12・9:15・7:21・7:31、Ⅰテモ1:8・5:23、Ⅱコリ13:10・1:17・3:12、使徒27:17。LXX エステル・詩篇、教父（3.6.7、5.4.1）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "扱う／待遇する",
+      "def_ja": "人を扱う、待遇する。『ユリアスはパウロを親切に扱い』（使徒27:3）。",
+      "label_en": "to treat",
+      "def_en": "To treat or deal with a person: “Julius treated Paul kindly” (Acts 27:3).",
+      "label_es": "tratar",
+      "def_es": "Tratar a alguien: «Julio, tratando humanamente a Pablo» (Hch 27:3).",
+      "label_sv": "att behandla",
+      "def_sv": "Att bemöta en människa: ”Julius behandlade Paulus vänligt” (Apg 27:3).",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒27:3 の1例のみ。LXX 代表例に並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 9:12": 1,
+    "1CO 9:15": 1,
+    "1CO 7:21": 1,
+    "1CO 7:31": 1,
+    "1TI 1:8": 1,
+    "1TI 5:23": 1,
+    "2CO 13:10": 1,
+    "2CO 1:17": 1,
+    "2CO 3:12": 1,
+    "ACT 27:3": 2,
+    "ACT 27:17": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は目的語（物／人）による。"
+}

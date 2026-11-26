@@ -1,0 +1,72 @@
+{
+  "strong": "G3592",
+  "lemma": "ὅδε",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "次のように（τάδε λέγει）",
+      "def_ja": "『次のように言う』という啓示・伝言の定型句。『聖霊はこう言われる』『〜の使いに書き送れ。〜が言われる』。",
+      "label_en": "thus says (τάδε λέγει)",
+      "def_en": "The set formula of revelation or message, “says as follows”: “thus says the Holy Spirit”, “to the angel of … write: ‘These are the words of …’”.",
+      "label_es": "esto dice (τάδε λέγει)",
+      "def_es": "Fórmula fija de revelación o mensaje, «dice así»: «esto dice el Espíritu Santo», «escribe al ángel de …: “El que … dice esto”».",
+      "label_sv": "så säger (τάδε λέγει)",
+      "def_sv": "Den fasta uppenbarelse- och budskapsformeln ”säger följande”: ”så säger den helige Ande”, ”skriv till ängeln för …: ’Så säger …’”.",
+      "layers": {
+        "nt": 8,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒21:11、黙示録2:1・2:8・2:12・2:18・3:1・3:7・3:14。LXX エレミヤ・エゼキエル25:8・9:23、教父（6.8）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "これこれの（τήνδε）",
+      "def_ja": "『これこれの』。『今日か明日、これこれの町へ行き』（ヤコブ4:13）。",
+      "label_en": "such and such (τήνδε)",
+      "def_en": "“Such and such”: “today or tomorrow we will go into such and such a town” (James 4:13).",
+      "label_es": "tal (τήνδε)",
+      "def_es": "«Tal o cual»: «hoy y mañana iremos a tal ciudad» (Stg 4:13).",
+      "label_sv": "den och den (τήνδε)",
+      "def_sv": "”Den och den”: ”i dag eller i morgon ska vi fara till den och den staden” (Jak 4:13).",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヤコブ4:13 の1例のみ。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "この（人）（τῇδε）",
+      "def_ja": "『この（女）』。『この女には妹がいて』（ルカ10:39）。",
+      "label_en": "this (person) (τῇδε)",
+      "def_en": "“This (woman)”: “and she had a sister” (Luke 10:39).",
+      "label_es": "esta (persona) (τῇδε)",
+      "def_es": "«Esta (mujer)»: «esta tenía una hermana» (Lc 10:39).",
+      "label_sv": "denna (person) (τῇδε)",
+      "def_sv": "”Denna (kvinna)”: ”hon hade en syster” (Luk 10:39).",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ルカ10:39 の1例のみ。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 21:11": 1,
+    "JAS 4:13": 2,
+    "LUK 10:39": 3,
+    "REV 2:1": 1,
+    "REV 2:8": 1,
+    "REV 2:12": 1,
+    "REV 2:18": 1,
+    "REV 3:1": 1,
+    "REV 3:7": 1,
+    "REV 3:14": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。"
+}

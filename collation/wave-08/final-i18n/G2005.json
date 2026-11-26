@@ -1,0 +1,72 @@
+{
+  "strong": "G2005",
+  "lemma": "ἐπιτελέω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "成し遂げる／完成する",
+      "def_ja": "成し遂げる、完成する、仕上げる。『聖さを全うし』『やり遂げなさい』『やり遂げる』『御霊で始めたのに、肉で完成する』『良い働きを始められた方が、完成させてくださる』『この実を確実に渡し終えたなら』。",
+      "label_en": "to accomplish / complete",
+      "def_en": "To carry through, complete, finish: “perfecting holiness”, “finish it”, “completing it”, “having begun by the Spirit, are you being completed by the flesh?”, “he who began a good work will complete it”, “when I have completed this and sealed to them the fruit”.",
+      "label_es": "llevar a cabo / perfeccionar",
+      "def_es": "Realizar hasta el fin, completar, rematar: «perfeccionando la santidad», «llevadlo a cabo», «para cumplirlo», «habiendo comenzado por el Espíritu, ¿acabáis por la carne?», «el que comenzó la buena obra la perfeccionará», «cuando haya concluido esto y les haya entregado este fruto».",
+      "label_sv": "att fullborda / slutföra",
+      "def_sv": "Att genomföra, fullborda, göra färdigt: ”fullborda helgelsen”, ”slutför det nu”, ”att genomföra det”, ”ni började i Anden, ska ni sluta i köttet?”, ”han som har börjat ett gott verk ska fullborda det”, ”när jag slutfört detta och överlämnat insamlingen”.",
+      "layers": {
+        "nt": 7,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅱコリ7:1・8:6・8:11（2回）、ガラテヤ3:3、ピリピ1:6、ローマ15:28。LXX 歴代誌下・Ⅱマカバイ、教父に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "行う／作る（祭儀・幕屋を）",
+      "def_ja": "祭儀を行う、幕屋を造る。『奉仕を行い』『幕屋を造るとき』。",
+      "label_en": "to perform / erect (rites, tabernacle)",
+      "def_en": "To perform rites, to make the tabernacle: “performing their ritual duties”, “when about to erect the tent”.",
+      "label_es": "celebrar / erigir (culto, tabernáculo)",
+      "def_es": "Cumplir los ritos, levantar el tabernáculo: «para cumplir los oficios del culto», «cuando iba a erigir el tabernáculo».",
+      "label_sv": "att förrätta / uppföra (kult, tabernakel)",
+      "def_sv": "Att utföra kulttjänsten, att uppföra tältet: ”förrättar sin tjänst”, ”när han skulle uppföra tabernaklet”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヘブル9:6・8:5。LXX 出エジプト記・列王記、教父（3）に並行。語義1との境界は連続的。"
+    },
+    {
+      "n": 3,
+      "label_ja": "同じ苦しみを経験する",
+      "def_ja": "同じ苦しみを受けている。『同じ苦難があなたがたの兄弟たちにも経験されている』（Ⅰペテロ5:9）。",
+      "label_en": "to undergo the same sufferings",
+      "def_en": "To be undergoing the same suffering: “the same sufferings are being experienced by your brothers” (1 Pet 5:9).",
+      "label_es": "experimentar los mismos padecimientos",
+      "def_es": "Estar pasando el mismo sufrimiento: «los mismos padecimientos se van cumpliendo en vuestros hermanos» (1 P 5:9).",
+      "label_sv": "att genomgå samma lidanden",
+      "def_sv": "Att drabbas av samma lidande: ”era bröder får utstå samma lidanden” (1 Pet 5:9).",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "Ⅰペテロ5:9 の1例のみ。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1PE 5:9": 3,
+    "2CO 7:1": 1,
+    "2CO 8:6": 1,
+    "2CO 8:11#1": 1,
+    "2CO 8:11#2": 1,
+    "GAL 3:3": 1,
+    "HEB 8:5": 2,
+    "HEB 9:6": 2,
+    "PHP 1:6": 1,
+    "ROM 15:28": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。"
+}

@@ -1,0 +1,55 @@
+{
+  "strong": "G2844",
+  "lemma": "κοινωνός",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "仲間／同労者／組合員（人の）",
+      "def_ja": "仲間、組合員、共同で働く者。『ヤコブとヨハネ、シモンの仲間』『わたしの仲間であり同労者』『わたしの同労者として彼を迎えてください』『あのような扱いを受けた人々の仲間となった』。",
+      "label_en": "companion / partner (of persons)",
+      "def_en": "A companion, partner, one who works jointly: “James and John, partners with Simon”, “my partner and fellow worker”, “if you count me your partner, receive him”, “became partners with those so treated”.",
+      "label_es": "compañero / socio (de personas)",
+      "def_es": "Compañero, socio, el que trabaja en común: «Jacobo y Juan, compañeros de Simón», «es mi compañero y colaborador», «si me tienes por compañero, recíbele», «os hicisteis compañeros de los que estaban en una situación semejante».",
+      "label_sv": "kamrat / delägare (om människor)",
+      "def_sv": "Kamrat, delägare, en som arbetar tillsammans med andra: ”Jakob och Johannes, Simons kompanjoner”, ”min kamrat och medarbetare”, ”om du räknar mig som din vän, ta emot honom”, ”stod på samma sida som dem som behandlades så”.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ルカ5:10、Ⅱコリ8:23、ピレモン17、ヘブル10:33。LXX イザヤ1:23・箴言28:24、教父（19.1.9）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "あずかる者／分かち合う者",
+      "def_ja": "〜にあずかる者、分け合う者。『祭壇にあずかる者』『悪霊と交わる者になってほしくない』『キリストの苦しみの証人』『苦しみにあずかる者』『神の性質にあずかる者』『預言者の血を流すことに加わらなかった』。",
+      "label_en": "sharer / partaker",
+      "def_en": "One who has a share in …, who partakes: “partakers in the altar”, “I do not want you to be partners with demons”, “witness of Christ's sufferings”, “sharers in the sufferings”, “partakers of the divine nature”, “would not have taken part in shedding the blood of the prophets”.",
+      "label_es": "partícipe / el que comparte",
+      "def_es": "El que participa en …, el que comparte: «partícipes del altar», «no quiero que os hagáis partícipes con los demonios», «testigo de los padecimientos de Cristo», «compañeros en las aflicciones», «participantes de la naturaleza divina», «no habríamos sido sus cómplices en la sangre de los profetas».",
+      "label_sv": "delaktig / medintressent",
+      "def_sv": "En som har del i något och delar det: ”har gemenskap med altaret”, ”jag vill inte att ni ska ha gemenskap med de onda andarna”, ”vittne till Kristi lidanden”, ”delar lidandena”, ”få del av gudomlig natur”, ”inte varit med om att utgjuta profeternas blod”.",
+      "layers": {
+        "nt": 6,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰコリ10:18・10:20、Ⅰペテロ5:1、Ⅱコリ1:7、Ⅱペテロ1:4、マタイ23:30。LXX 箴言・イザヤ、教父（17.3）に並行。"
+    }
+  ],
+  "assignments": {
+    "1CO 10:18": 2,
+    "1CO 10:20": 2,
+    "1PE 5:1": 2,
+    "2CO 1:7": 2,
+    "2CO 8:23": 1,
+    "2PE 1:4": 2,
+    "HEB 10:33": 1,
+    "LUK 5:10": 1,
+    "MAT 23:30": 2,
+    "PHM 1:17": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（仲間／あずかる者）による。"
+}

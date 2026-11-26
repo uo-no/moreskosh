@@ -1,0 +1,72 @@
+{
+  "strong": "G2346",
+  "lemma": "θλίβω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "苦しめる／苦しめられる",
+      "def_ja": "苦しめる、悩ます、苦しみを受ける。『患難を受けることになる』『困窮している者』『四方から患難を受けても』『外に争い、内に恐れがあり』『患難を与える者に患難を』『患難に悩まされた者』『苦しめられている者に』。",
+      "label_en": "to afflict / be afflicted",
+      "def_en": "To afflict, trouble, undergo suffering: “we were going to suffer affliction”, “the afflicted”, “afflicted in every way”, “fighting without and fear within”, “to repay with affliction those who afflict you”, “those who suffered affliction”, “to you who are afflicted”.",
+      "label_es": "afligir / ser atribulado",
+      "def_es": "Afligir, angustiar, sufrir tribulación: «íbamos a pasar tribulaciones», «los atribulados», «atribulados en todo», «de fuera conflictos, de dentro temores», «pagar con tribulación a los que os atribulan», «socorrer a los afligidos», «a vosotros que sois atribulados».",
+      "label_sv": "att ansätta / utsättas för lidande",
+      "def_sv": "Att plåga, trakassera, få lida: ”vi skulle komma att få lida”, ”de nödlidande”, ”på alla sätt ansatta”, ”strider utåt och fruktan inom oss”, ”ge lidande tillbaka åt dem som plågar er”, ”hjälpt dem som varit i nöd”, ”åt er som får lida”.",
+      "layers": {
+        "nt": 8,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰテサ3:4、Ⅰテモ5:10、Ⅱコリ1:6・4:8・7:5、Ⅱテサ1:6・1:7、ヘブル11:37。LXX 詩篇30:10・ホセア、教父（24.1.1、7.11）に並行。語義2・3との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "押し迫る",
+      "def_ja": "押し迫る、押しつぶす。『群衆が押し迫って来ないように』（マルコ3:9）。",
+      "label_en": "to press upon",
+      "def_en": "To press in, to crush: “lest the crowd should crush him” (Mark 3:9).",
+      "label_es": "apretar",
+      "def_es": "Oprimir, estrujar: «para que la gente no le oprimiese» (Mr 3:9).",
+      "label_sv": "att tränga på",
+      "def_sv": "Att trycka på och klämma: ”så att folket inte skulle tränga ihjäl honom” (Mark 3:9).",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "マルコ3:9 の1例のみ。語義1との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "狭い（道が）",
+      "def_ja": "狭い、せまくされた。『命に至る門は狭く、その道は細い』（マタイ7:14）。",
+      "label_en": "narrow (road)",
+      "def_en": "Narrow, constricted: “the gate is narrow and the way is hard that leads to life” (Matt 7:14).",
+      "label_es": "angosto (camino)",
+      "def_es": "Estrecho, apretado: «estrecha es la puerta y angosto el camino que lleva a la vida» (Mt 7:14).",
+      "label_sv": "smal (väg)",
+      "def_sv": "Smal, trång: ”den port är trång och den väg smal som leder till livet” (Matt 7:14).",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マタイ7:14 の1例のみ（完了受動分詞）。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1TH 3:4": 1,
+    "1TI 5:10": 1,
+    "2CO 1:6": 1,
+    "2CO 4:8": 1,
+    "2CO 7:5": 1,
+    "2TH 1:6": 1,
+    "2TH 1:7": 1,
+    "HEB 11:37": 1,
+    "MAT 7:14": 3,
+    "MRK 3:9": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。"
+}
