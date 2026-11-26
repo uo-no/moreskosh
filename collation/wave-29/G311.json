@@ -1,0 +1,61 @@
+{
+ "strong": "G311",
+ "lemma": "ἀναβολή",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 25:17",
+   "form": "ἀναβολὴν",
+   "morph": "N-ASF",
+   "gloss_en": "delay",
+   "gloss_ja": "延期",
+   "verse": "συνελθόντων οὖν ἐνθάδε ἀναβολὴν μηδεμίαν ποιησάμενος τῇ ἑξῆς καθίσας ἐπὶ τοῦ βήματος ἐκέλευσα ἀχθῆναι τὸν ἄνδρα·"
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Paralipomenon i sive Chronicon i": 1,
+   "Esdras ii": 1,
+   "Ezechiel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "19.4",
+    "form": "ἀναβολῆς",
+    "postag": "n-s---fg-",
+    "sentence": "καὶ ἔλαβεν Ἀνὰν τοὺς παῖδας Δαυὶδ καὶ ἐξύρησεν αὐτοὺς καὶ ἀφεῖλε τῶν μανδυῶν αὐτῶν τὸ ἥμισυ ἕως τῆς ἀναβολῆς καὶ ἀπέστειλεν αὐτούς."
+   },
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "15.13",
+    "form": "ἀναβολήν",
+    "postag": "n-s---fa-",
+    "sentence": "καὶ τὴν ἀναβολήν μου ἐξετίναξα καὶ εἶπα ·"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "5.3",
+    "form": "ἀναβολῇ",
+    "postag": "n-s---fd-",
+    "sentence": "καὶ λήψῃ ἐκεῖθεν ὀλίγους ἐν ἀριθμῷ καὶ συμπεριλήψῃ αὐτοὺς τῇ ἀναβολῇ σου."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ἀναβολή, -ῆς, ἡ    (< ά αβάλλω),   [in LXX for כּנף, etc.;]    delay: Ac 25:17 (for exx. of other meanings, v. MM, VGT, s.v.).†"
+}

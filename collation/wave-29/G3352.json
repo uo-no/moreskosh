@@ -1,0 +1,51 @@
+{
+ "strong": "G3352",
+ "lemma": "μετοχή",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2CO 6:14",
+   "form": "μετοχὴ",
+   "morph": "N-NSF",
+   "gloss_en": "partnership",
+   "gloss_ja": "交わり",
+   "verse": "Μὴ γίνεσθε ἑτεροζυγοῦντες ἀπίστοις· τίς γὰρ μετοχὴ δικαιοσύνῃ καὶ ἀνομίᾳ, ἢ τίς κοινωνία φωτὶ πρὸς σκότος;"
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Psalmi": 1,
+   "Psalmi Salomonis": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "121.3",
+    "form": "μετοχὴ",
+    "postag": "n-s---fn-",
+    "sentence": "Ἱερουσαλὴμ οἰκοδομουμένη ὡς πόλις, ἧς ἡ μετοχὴ αὐτῆς ἐπὶ τὸ αὐτό."
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "14.6",
+    "form": "μετοχῇ",
+    "postag": "n-s---fd-",
+    "sentence": "καὶ οὐχ οὕτως οἱ ἁμαρτωλοὶ καὶ παράνομοι, οἳ ἠγάπησαν ἡμέραν ἐν μετοχῇ ἁμαρτίας αὐτῶν ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   μετοχή, -ῆς, ἡ    (< μετέχω),   [in LXX: Ps 121 (122):3 א R (חבר pu.)*;]    sharing, fellowship: II Co 6:14.†"
+}

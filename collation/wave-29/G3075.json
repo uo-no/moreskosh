@@ -1,0 +1,171 @@
+{
+ "strong": "G3075",
+ "lemma": "λυμαίνομαι",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 8:3",
+   "form": "ἐλυμαίνετο",
+   "morph": "V-INI-3S",
+   "gloss_en": "ravaging",
+   "gloss_ja": "傷つける",
+   "verse": "Σαῦλος δὲ ἐλυμαίνετο τὴν ἐκκλησίαν κατὰ τοὺς οἴκους εἰσπορευόμενος, σύρων τε ἄνδρας καὶ γυναῖκας παρεδίδου εἰς φυλακήν."
+  }
+ ],
+ "lxx": {
+  "total": 17,
+  "works": {
+   "Exodus": 1,
+   "Paralipomenon ii sive Chronicon ii": 1,
+   "Machabaeorum iv": 1,
+   "Psalmi": 1,
+   "Proverbia": 5,
+   "Ecclesiasticus sive Siracides": 1,
+   "Amos": 1,
+   "Isaias": 2,
+   "Jeremias": 2,
+   "Ezechiel": 1,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "23.8",
+    "form": "λυμανεῖται",
+    "postag": "v3sfim---",
+    "sentence": "ἐξεμέσει γὰρ αὐτὸν καὶ λυμανεῖται τοὺς λόγους σου τοὺς καλούς."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "65.25",
+    "form": "λυμανοῦνται",
+    "postag": "v3pfim---",
+    "sentence": "οὐκ ἀδικήσουσιν οὐ-δὲ μὴ λυμανοῦνται ἐπὶ τῷ ὄρει τῷ ἁγίῳ μου, λέγει Κύριος."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "31.18",
+    "form": "λυμαινόμενος",
+    "postag": "v-sppmmn-",
+    "sentence": "ἐκτριβήσεται, ὅτι ὤλετο Μωάβ, ἀνέβη εἰς σὲ λυμαινόμενος ὀχύρωμά σου."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "23.8",
+    "form": "λυμαίνεται",
+    "postag": "v3spim---",
+    "sentence": "τὰ γὰρ δῶρα ἐκτυφλοῖ ὀφθαλμοὺς βλεπόντων καὶ λυμαίνεται ρήματα δίκαια."
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "16.10",
+    "form": "ἐλυμήνατο",
+    "postag": "v3saim---",
+    "sentence": "καὶ ἐλυμήνατο Ἀσὰ ἐν τῷ λαῷ ἐν τῷ καιρῷ ἐκείνῳ."
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "18.8",
+    "form": "ἐλυμήνατό",
+    "postag": "v3saim---",
+    "sentence": "οὐ-δὲ ἔφθειρέ με λυμεὼν ἐρημίας φθορεὺς ἐν πεδίῳ, οὐ-δὲ ἐλυμήνατό μου τὰ ἁγνὰ τῆς παρθενίας λυμεὼν ἀπατηλὸς ὄφις ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "79.14",
+    "form": "ἐλυμήνατο",
+    "postag": "v3saim---",
+    "sentence": "ἐλυμήνατο αὐτὴν ὗς ἐκ δρυμοῦ, καὶ μονιὸς ἄγριος κατενεμήσατο αὐτήν."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "28.23",
+    "form": "λυμανεῖται",
+    "postag": "v3sfim---",
+    "sentence": "ἐξαποσταλήσεται ἐπ’ αὐτοῖς ὡς λέων, καὶ ὡς πάρδαλις λυμανεῖται αὐτούς."
+   },
+   {
+    "work_code": "AMO",
+    "work_ja": "アモス書",
+    "work_src": "Amos",
+    "ref": "1.11",
+    "form": "ἐλυμήνατο",
+    "postag": "v3saim---",
+    "sentence": "ἐπὶ ταῖς τρισὶν ἀσεβείαις τῆς Ἰδουμαίας καὶ ἐπὶ ταῖς τέσσαρσιν οὐκ ἀποστραφήσομαι αὐτούς, ἕνεκα τοῦ διῶξαι αὐτοὺς ἐν ρομφαίᾳ τὸν ἀδελφὸν αὐτοῦ καὶ ἐλυμήνατο μητέρα ἐπὶ γῆς καὶ ἥρπασεν εἰς μαρτύριον φρίκην αὐτοῦ καὶ τὸ ὅρμημα αὐτοῦ ἐφύλαξεν εἰς νῖκος."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "16.25",
+    "form": "ἐλυμήνω",
+    "postag": "v2saim---",
+    "sentence": "καὶ ἐγένετο μετὰ πάσας τὰς κακίας σου, λέγει Κύριος, καὶ ᾠκοδόμησας σεαυτῇ οἴκημα πορνικὸν καὶ ἐποίησας σεαυτῇ ἔκθεμα ἐν πάσῃ πλατείᾳ καὶ ἐπ’ ἀρχῆς πάσης ὁδοῦ ᾠκοδόμησας τὰ πορνεῖά σου καὶ ἐλυμήνω τὸ κάλλος σου καὶ διήγαγες τὰ σκέλη σου παντὶ παρόδῳ καὶ ἐπλήθυνας τὴν πορνείαν σου ·"
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "6.23",
+    "form": "ἐλυμήναντό",
+    "postag": "v3paim---",
+    "sentence": "ὁ Θεός μου ἀπέστειλε τὸν ἄγγελον αὐτοῦ, καὶ ἐνέφραξε τὰ στόματα τῶν λεόντων, καὶ οὐκ ἐλυμήναντό με, ὅτι κατέναντι αὐτοῦ εὐθύτης εὑρέθη ἐμοί ·"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "18.9",
+    "form": "λυμαινομένου",
+    "postag": "v-sppmmg-",
+    "sentence": "ὁ μὴ ἰώμενος ἑαυτὸν ἐν τοῖς ἔργοις αὑτοῦ ἀδελφός ἐστι τοῦ λυμαινομένου ἑαυτόν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "Hermas, Pastor": 2
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "3.9.3",
+    "form": "λυμαίνονται",
+    "postag": "v3ppim---",
+    "sentence": "οἱ μὲν γὰρ ἀπὸ τῶν πολλῶν ἐδεσμάτων ἀσθένειαν τῇ σαρκὶ αὐτῶν ἐπισπῶνται καὶ λυμαίνονται τὴν σάρκα αὐτῶν ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "3.9.3",
+    "form": "λυμαίνεται",
+    "postag": "v3spim---",
+    "sentence": "τῶν δὲ μὴ ἐχόντων ἐδέσματα λυμαίνεται ἡ σὰρξ αὐτῶν διὰ τὸ μὴ ἔχειν τὸ ἀρκετὸν τῆς τροφῆς, καὶ διαφθείρεται τὸ σῶμα αὐτῶν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   λυμαίνομαι    (< λύμη, outrage),   [in LXX chiefly for שׁחת pi., hi., also for כִּרְסֵם, etc.;]      to outrage, maltreat: c. acc., Ac 8:3.     to corrupt, defile (Ez 16:25, Pr 23:8, IV Mac 18:8, al.).†"
+}

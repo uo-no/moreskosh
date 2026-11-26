@@ -1,0 +1,60 @@
+{
+ "strong": "G3548",
+ "lemma": "νομοθεσία",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ROM 9:4",
+   "form": "νομοθεσία",
+   "morph": "N-NSF",
+   "gloss_en": "giving of the law",
+   "gloss_ja": "律法授与",
+   "verse": "οἵτινές εἰσιν Ἰσραηλῖται, ὧν ἡ υἱοθεσία καὶ ἡ δόξα καὶ αἱ διαθῆκαι καὶ ἡ νομοθεσία καὶ ἡ λατρεία καὶ αἱ ἐπαγγελίαι,"
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Machabaeorum ii": 1,
+   "Machabaeorum iv": 2
+  },
+  "representatives": [
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "17.16",
+    "form": "νομοθεσίας",
+    "postag": "n-s---fg-",
+    "sentence": "τίνες οὐκ ἐθαύμασαν τοὺς τῆς θείας νομοθεσίας ἀθλητάς;"
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "6.23",
+    "form": "νομοθεσίας",
+    "postag": "n-s---fg-",
+    "sentence": "ὁ δὲ λογισμὸν ἀστεῖον ἀναλαβὼν καὶ ἄξιον τῆς ἡλικίας καὶ τῆς τοῦ γήρως ὑπεροχῆς καὶ τῆς ἐπικτήτου καὶ ἐπιφανοῦς πολιᾶς καὶ τῆς ἐκ παιδὸς καλλίστης ἀναστροφῆς, μᾶλλον δὲ τῆς ἁγίας καὶ θεοκτίστου νομοθεσίας ἀκολούθως ἀπεφῄνατο, ταχέως λέγων προπέμπειν εἰς τὸν ᾅδην."
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "5.34",
+    "form": "νομοθεσίας",
+    "postag": "n-s---fg-",
+    "sentence": "οὐ ψεύσομαί σε, παιδευτὰ νόμε, οὐ-δὲ φεύξομαί σε οὐ-δ’ ἐξομοῦμαί σε, φίλη ἐγκράτεια, οὐ-δὲ καταισχυνῶ σε, φιλόσοφε λόγε, οὐ-δὲ ἐξαρνήσομαί σε, ἱερωσύνη τιμία καὶ νομοθεσίας ἐπιστήμη ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ** νομοθεσία, -ας, ἡ    (< νόμος, τίθημι),   [in LXX: II Mac 6:23, IV Mac 5:35 Mac 17:16*;]    legislation, lawgiving: Ro 9:4.†"
+}

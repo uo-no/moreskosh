@@ -1,0 +1,61 @@
+{
+ "strong": "G3080",
+ "lemma": "λύσις",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 7:27",
+   "form": "λύσιν",
+   "morph": "N-ASF",
+   "gloss_en": "to be released",
+   "gloss_ja": "離婚",
+   "verse": "δέδεσαι γυναικί; μὴ ζήτει λύσιν· λέλυσαι ἀπὸ γυναικός; μὴ ζήτει γυναῖκα·"
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Ecclesiastes": 1,
+   "Sapientia Salomonis": 1,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "ECC",
+    "work_ja": "コヘレトの言葉",
+    "work_src": "Ecclesiastes",
+    "ref": "8.1",
+    "form": "λύσιν",
+    "postag": "n-s---fa-",
+    "sentence": "καὶ τίς οἶδε λύσιν ρήματος;"
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "8.8",
+    "form": "λύσεις",
+    "postag": "n-p---fa-",
+    "sentence": "εἰ δὲ καὶ πολυπειρίαν ποθεῖ τις, οἶδε τὰ ἀρχαῖα καὶ τὰ μέλλοντα εἰκάζειν, ἐπίσταται στροφὰς λόγων καὶ λύσεις αἰνιγμάτων, σημεῖα καὶ τέρατα προγινώσκει καὶ ἐκβάσεις καιρῶν καὶ χρόνων."
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "12.8",
+    "form": "λύσις",
+    "postag": "n-s---fn-",
+    "sentence": "καὶ ἐγὼ ἤκουσα καὶ οὐ διενοήθην παρ’ αὐτὸν τὸν καιρὸν καὶ εἶπα Κύριε, τίς ἡ λύσις τοῦ λόγου τούτου, καὶ τίνος αἱ παραβολαὶ αὗται;"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   λύσις, -εως, ἡ    (< λύω),   [in LXX: Ec 7:30 (8:1) (פֵּשֶׁר), Da LXX 12:8, Wi 8:8*;]    a loosing: of divorce, I Co 7:27.†"
+}

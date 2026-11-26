@@ -1,0 +1,63 @@
+{
+ "strong": "G329",
+ "lemma": "ἀναζωπυρέω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2TI 1:6",
+   "form": "ἀναζωπυρεῖν",
+   "morph": "V-PAN",
+   "gloss_en": "rekindle",
+   "gloss_ja": "燃え立たせる",
+   "verse": "δι’ ἣν αἰτίαν ἀναμιμνῄσκω σε ἀναζωπυρεῖν τὸ χάρισμα τοῦ θεοῦ, ὅ ἐστιν ἐν σοὶ διὰ τῆς ἐπιθέσεως τῶν χειρῶν μου·"
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Genesis": 1
+  },
+  "representatives": [
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "45.27",
+    "form": "ἀνεζωπύρησε",
+    "postag": "v3saia---",
+    "sentence": "ἰδὼν δὲ τὰς ἁμάξας, ἃς ἀπέστειλεν Ἰωσὴφ ὥστε ἀναλαβεῖν αὐτόν, ἀνεζωπύρησε τὸ πνεῦμα Ἰακὼβ τοῦ πατρὸς αὐτῶν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "1 Clement": 1,
+   "Ignatius, Letters": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "27.3",
+    "form": "ἀναζωπυρησάτω",
+    "postag": "v3sama---",
+    "sentence": "ἀναζωπυρησάτω οὖν ἡ πίστις αὐτοῦ ἐν ἡμῖν, καὶ νοήσωμεν ὅτι πάντα ἐγγὺς αὐτῷ ἐστιν."
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "1.1.1",
+    "form": "ἀναζωπυρήσαντες",
+    "postag": "v-papamn-",
+    "sentence": "μιμηταὶ ὄντες θεοῦ, ἀναζωπυρήσαντες ἐν αἵματι θεοῦ τὸ συγγενικὸν ἔργον τελείως ἀπηρτίσατε ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1 ** ἀνα-ζωπυργέω, -ῶ    (< ζωός, πῦρ),   [in LXX: I Mac 13:7*;]    to kindle afresh: metaph., II Ti 1:6 (for vernac. exx., v. MM, VGT, s.v.).†"
+}

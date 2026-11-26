@@ -1,0 +1,176 @@
+{
+ "strong": "G3420",
+ "lemma": "μνήμη",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2PE 1:15",
+   "form": "μνήμην",
+   "morph": "N-ASF",
+   "gloss_en": "reminder",
+   "gloss_ja": "記念",
+   "verse": "σπουδάσω δὲ καὶ ἑκάστοτε ἔχειν ὑμᾶς μετὰ τὴν ἐμὴν ἔξοδον τὴν τούτων μνήμην ποιεῖσθαι."
+  }
+ ],
+ "lxx": {
+  "total": 17,
+  "works": {
+   "Machabaeorum ii": 2,
+   "Psalmi": 3,
+   "Proverbia": 2,
+   "Ecclesiastes": 4,
+   "Sapientia Salomonis": 4,
+   "Psalmi Salomonis": 2
+  },
+  "representatives": [
+   {
+    "work_code": "ECC",
+    "work_ja": "コヘレトの言葉",
+    "work_src": "Ecclesiastes",
+    "ref": "9.5",
+    "form": "μνήμη",
+    "postag": "n-s---fn-",
+    "sentence": "καὶ οὐκ ἔστιν αὐτοῖς ἔτι μισθός, ὅτι ἐπελήσθη ἡ μνήμη αὐτῶν ·"
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "11.12",
+    "form": "μνημῶν",
+    "postag": "n-p---fg-",
+    "sentence": "καὶ στεναγμὸς μνημῶν τῶν παρελθόντων."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "29.5",
+    "form": "μνήμῃ",
+    "postag": "n-s---fd-",
+    "sentence": "ψάλατε τῷ Κυρίῳ, οἱ ὅσιοι αὐτοῦ, καὶ ἐξομολογεῖσθε τῇ μνήμῃ τῆς ἁγιωσύνης αὐτοῦ ·"
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "7.20",
+    "form": "μνήμης",
+    "postag": "n-s---fg-",
+    "sentence": "ὑπεραγόντως δὲ ἡ μήτηρ θαυμαστὴ καὶ μνήμης ἀγαθῆς ἀξία, ἥτις ἀπολλυμένους υἱοὺς ἑπτὰ συνορῶσα μιᾶς ὑπὸ καιρὸν ἡμέρας εὐψύχως ἔφερε διὰ τὰς ἐπὶ Κύριον ἐλπίδας."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "1.12",
+    "form": "μνήμην",
+    "postag": "n-s---fa-",
+    "sentence": "ἐλθὲ μεθ’ ἡμῶν, κοινώνησον αἵματος, κρύψωμεν δὲ εἰς γῆν ἄνδρα δίκαιον ἀδίκως, καταπίωμεν δὲ αὐτὸν ὥσπερ ᾅδης ζῶντα καὶ ἄρωμεν αὐτοῦ τὴν μνήμην ἐκ γῆς ·"
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "16.6",
+    "form": "μνήμην",
+    "postag": "n-s---fa-",
+    "sentence": "μὴ ἀποστήσῃς τὸ ἔλεός σου ἀπ’ ἐμοῦ, ὁ θεός, μη-δὲ τὴν μνήμην σου ἀπὸ καρδίας μου ἕως θανάτου."
+   },
+   {
+    "work_code": "ECC",
+    "work_ja": "コヘレトの言葉",
+    "work_src": "Ecclesiastes",
+    "ref": "2.16",
+    "form": "μνήμη",
+    "postag": "n-s---fn-",
+    "sentence": "ὅτι οὐκ ἔστιν ἡ μνήμη τοῦ σοφοῦ μετὰ τοῦ ἄφρονος εἰς τὸν αἰῶνα, καθότι ἤδη αἱ ἡμέραι ἐρχόμεναι τὰ πάντα ἐπελήσθη ·"
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "8.13",
+    "form": "μνήμην",
+    "postag": "n-s---fa-",
+    "sentence": "ἕξω δι’ αὐτὴν ἀθανασίαν καὶ μνήμην αἰώνιον τοῖς μετ’ ἐμὲ ἀπολείψω."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "96.12",
+    "form": "μνήμῃ",
+    "postag": "n-s---fd-",
+    "sentence": "εὐφράνθητε, δίκαιοι, ἐν τῷ Κυρίῳ, καὶ ἐξομολογεῖσθε τῇ μνήμῃ τῆς ἁγιωσύνης αὐτοῦ."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "2.25",
+    "form": "μνήμης",
+    "postag": "n-s---fg-",
+    "sentence": "συνορῶντες γὰρ τὸ χῦμα τῶν ἀριθμῶν καὶ τὴν οὖσαν δυσχέρειαν τοῖς θέλουσιν εἰσκυκλεῖσθαι τοῖς τῆς ἱστορίας διηγήμασι διὰ τὸ πλῆθος τῆς ὕλης, ἐφροντίσαμεν τοῖς μὲν βουλομένοις ἀναγινώσκειν ψυχαγωγίαν, τοῖς δὲ φιλοφρονοῦσιν εἰς τὸ διὰ μνήμης ἀναλαβεῖν εὐκοπίαν, πᾶσι δὲ τοῖς ἐντυγχάνουσιν ὠφέλειαν."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "10.7",
+    "form": "μνήμη",
+    "postag": "n-s---fn-",
+    "sentence": "μνήμη δικαίων μετ’ ἐγκωμίων, ὄνομα δὲ ἀσεβοῦς σβέννυται."
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "16.9",
+    "form": "μνήμῃ",
+    "postag": "n-s---fd-",
+    "sentence": "τὰ ἔργα τῶν χειρῶν μου κατεύθυνον ἐν τόπῳ σου καὶ τὰ διαβήματά μου ἐν τῇ μνήμῃ σου διαφύλαξον."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 3,
+  "works": {
+   "Hermas, Pastor": 2,
+   "Martyrdom of Polycarp": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "23.5.3",
+    "form": "μνήμας",
+    "postag": "n-p---fa-",
+    "sentence": "μνήμας γὰρ μεγάλας ἔχει ἡ τιμωρία καὶ ἡ βάσανος."
+   },
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "18.3",
+    "form": "μνήμην",
+    "postag": "n-s---fa-",
+    "sentence": "ἔνθα ὡς δυνατὸν ἡμῖν συναγομένοις ἐν ἀγαλλιάσει καὶ χαρᾷ παρέξει ὁ κύριος ἐπιτελεῖν τὴν τοῦ μαρτυρίου αὐτοῦ ἡμέραν γενέθλιον, εἴς τε τὴν τῶν προηθληκότων μνήμην καὶ τῶν μελλόντων ἄσκησίν τε καὶ ἑτοιμασίαν."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "23.5.3",
+    "form": "μνήμας",
+    "postag": "n-p---fa-",
+    "sentence": "ἡ γὰρ τρυφὴ καὶ ἀπάτη μνήμας οὐκ ἔχει διὰ τὴν ἀφροσύνην, ἣν ἐνδέδυται, ἡ δὲ τιμωρία καὶ ἡ βάσανος ὅταν κολληθῇ τῷ ἀνθρώπῳ μίαν ἡμέραν, μέχρις ἐνιαυτοῦ τιμωρεῖται καὶ βασανίζεται ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   μνήμη, -ης, ἡ    (< μνάομαι),   [in LXX for זֵכֶר, זִכָּרוֹן;]    memory, remembrance, mention: μ. ποιεῖσθαι, c. gen., to remember, II Pe 1:15 (but in cl., π., μ. π. more freq. = to make mention, and so perh. here, cf. Mayor, in l.; and for ex. from π., v. Zorell, s.v.).†   SYN.: μνεία, q.v."
+}

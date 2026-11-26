@@ -1,0 +1,41 @@
+{
+ "strong": "G3125",
+ "lemma": "μάμμη",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2TI 1:5",
+   "form": "μάμμῃ",
+   "morph": "N-DSF",
+   "gloss_en": "grandmother",
+   "gloss_ja": "祖母",
+   "verse": "ὑπόμνησιν λαβὼν τῆς ἐν σοὶ ἀνυποκρίτου πίστεως, ἥτις ἐνῴκησεν πρῶτον ἐν τῇ μάμμῃ σου Λωΐδι καὶ τῇ μητρί σου Εὐνίκῃ, πέπεισμαι δὲ ὅτι καὶ ἐν σοί."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Machabaeorum iv": 1
+  },
+  "representatives": [
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "16.9",
+    "form": "μάμμη",
+    "postag": "n-s---fn-",
+    "sentence": "οὐκ ὄψομαι ὑμῶν τέκνα, οὐ-δὲ μάμμη κληθεῖσα μακαρισθήσομαι."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ** μάμμη, -ης, ἡ    (onomatop.),   [in LXX: IV Mac 16:9*;]      in cl., a child's name for mother.     In late Gk. (= cl., τήθη), a grandmother: (LXX, IV Mac 16:9), II Ti 1:5.†"
+}

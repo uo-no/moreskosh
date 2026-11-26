@@ -1,0 +1,51 @@
+{
+ "strong": "G3643",
+ "lemma": "ὀλιγωρέω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "HEB 12:5",
+   "form": "ὀλιγώρει",
+   "morph": "V-PAM-2S",
+   "gloss_en": "regard lightly",
+   "gloss_ja": "軽んじる",
+   "verse": "καὶ ἐκλέλησθε τῆς παρακλήσεως, ἥτις ὑμῖν ὡς υἱοῖς διαλέγεται, Υἱέ μου, μὴ ὀλιγώρει παιδείας κυρίου, μηδὲ ἐκλύου ὑπ’ αὐτοῦ ἐλεγχόμενος·"
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Proverbia": 1,
+   "Psalmi Salomonis": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "3.11",
+    "form": "ὀλιγώρει",
+    "postag": "v2spma---",
+    "sentence": "υἱέ, μὴ ὀλιγώρει παιδείας Κυρίου, μη-δὲ ἐκλύου ὑπ’ αὐτοῦ ἐλεγχόμενος ·"
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "3.4",
+    "form": "ὀλιγωρήσει",
+    "postag": "v3sfia---",
+    "sentence": "οὐκ ὀλιγωρήσει δίκαιος παιδευόμενος ὑπὸ κυρίου, ἡ εὐδοκία αὐτοῦ διὰ παντὸς ἔναντι κυρίου."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ὀλιγωρέω, -ῶ    (< ὀλίγος + ὤρα, care),   [in LXX: Pr 3:11 (מאס)*;]    to esteem lightly, think little of: c. gen., He 12:5(LXX).†"
+}

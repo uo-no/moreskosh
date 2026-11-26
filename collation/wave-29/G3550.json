@@ -1,0 +1,53 @@
+{
+ "strong": "G3550",
+ "lemma": "νομοθέτης",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JAS 4:12",
+   "form": "νομοθέτης",
+   "morph": "N-NSM",
+   "gloss_en": "lawgiver",
+   "gloss_ja": "立法者",
+   "verse": "εἷς ἐστιν νομοθέτης καὶ κριτής, ὁ δυνάμενος σῶσαι καὶ ἀπολέσαι· σὺ δὲ τίς εἶ, ὁ κρίνων τὸν πλησίον;"
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Psalmi": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "9.21",
+    "form": "νομοθέτην",
+    "postag": "n-s---ma-",
+    "sentence": "κατάστησον, Κύριε, νομοθέτην ἐπ’ αὐτούς, γνώτωσαν ἔθνη ὅτι ἄνθρωποί εἰσιν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Barnabas": 1
+  },
+  "representatives": [
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "21.4",
+    "form": "νομοθέται",
+    "postag": "n-p---mn-",
+    "sentence": "ἑαυτῶν γίνεσθε νομοθέται ἀγαθοί, ἑαυτῶν μένετε σύμβουλοι πιστοί, ἄρατε ἐξ ὑμῶν πᾶσαν ὑπόκρισιν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   νομο-θέτης, -ου, ὁ    (< νόμος, τίθημι),   [in LXX: Ps 9:20*;]    a lawgiver: Ja 4:12.†"
+}

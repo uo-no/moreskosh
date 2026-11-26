@@ -1,0 +1,89 @@
+{
+ "strong": "G3130",
+ "lemma": "μανία",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 26:24",
+   "form": "μανίαν",
+   "morph": "N-ASF",
+   "gloss_en": "insane",
+   "gloss_ja": "狂気",
+   "verse": "Ταῦτα δὲ αὐτοῦ ἀπολογουμένου ὁ Φῆστος μεγάλῃ τῇ φωνῇ φησιν· Μαίνῃ, Παῦλε· τὰ πολλά σε γράμματα εἰς μανίαν περιτρέπει."
+  }
+ ],
+ "lxx": {
+  "total": 6,
+  "works": {
+   "Machabaeorum iv": 2,
+   "Psalmi": 1,
+   "Sapientia Salomonis": 1,
+   "Osee": 2
+  },
+  "representatives": [
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "10.13",
+    "form": "μανίαν",
+    "postag": "n-s---fa-",
+    "sentence": "μὴ συμμανῇς καὶ σὺ τοῖς ἀδελφοῖς σου τὴν αὐτὴν μανίαν, ἀλλὰ πεισθεὶς τῷ βασιλεῖ, σῷζε σεαυτόν."
+   },
+   {
+    "work_code": "HOS",
+    "work_ja": "ホセア書",
+    "work_src": "Osee",
+    "ref": "9.7",
+    "form": "μανία",
+    "postag": "n-s---fn-",
+    "sentence": "ὑπὸ τοῦ πλήθους τῶν ἀδικιῶν σου ἐπληθύνθη μανία σου."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "39.5",
+    "form": "μανίας",
+    "postag": "n-p---fa-",
+    "sentence": "μακάριος ἀνήρ, οὗ ἐστι τὸ ὄνομα Κυρίου ἐλπὶς αὐτοῦ, καὶ οὐκ ἐπέβλεψεν εἰς ματαιότητας καὶ μανίας ψευδεῖς."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "5.4",
+    "form": "μανίαν",
+    "postag": "n-s---fa-",
+    "sentence": "τὸν βίον αὐτοῦ ἐλογισάμεθα μανίαν καὶ τὴν τελευτὴν αὐτοῦ ἄτιμον."
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "8.5",
+    "form": "μανίαν",
+    "postag": "n-s---fa-",
+    "sentence": "ὦ νεανίαι, φιλοφρόνως ἐγὼ καθ’ ἑνὸς ἑκάστου ὑμῶν θαυμάζω, τὸ κάλλος καὶ τὸ πλῆθος τοσούτων ἀδελφῶν ὑπερτιμῶν, οὐ μόνον συμβουλεύω μὴ μανῆναι τὴν αὐτὴν τῷ προβασανισθέντι γέροντι μανίαν, ἀλλὰ καὶ παρακαλῶ συνείξαντάς μου τῇ συμβουλίᾳ τῆς ἐμῆς ἀπολαῦσαι φιλίας ·"
+   },
+   {
+    "work_code": "HOS",
+    "work_ja": "ホセア書",
+    "work_src": "Osee",
+    "ref": "9.8",
+    "form": "μανίαν",
+    "postag": "n-s---fa-",
+    "sentence": "μανίαν ἐν οἴκῳ Κυρίου κατέπηξαν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   μανία, -ας, ἡ        (< μαίνομαι),     [in LXX: Ho 9:7, 8 מַשְׂטֵמָה), Wi 5:4, al.;]    frenzy, madness: Ac 26:24.†"
+}

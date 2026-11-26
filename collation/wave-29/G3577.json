@@ -1,0 +1,89 @@
+{
+ "strong": "G3577",
+ "lemma": "νῶτος",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ROM 11:10",
+   "form": "νῶτον",
+   "morph": "N-ASM",
+   "gloss_en": "backs",
+   "gloss_ja": "背",
+   "verse": "σκοτισθήτωσαν οἱ ὀφθαλμοὶ αὐτῶν τοῦ μὴ βλέπειν, καὶ τὸν νῶτον αὐτῶν διὰ παντὸς σύγκαμψον."
+  }
+ ],
+ "lxx": {
+  "total": 6,
+  "works": {
+   "Regnorum i": 1,
+   "Regnorum iii": 1,
+   "Isaias": 1,
+   "Ezechiel": 3
+  },
+  "representatives": [
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "1.18",
+    "form": "νῶτοι",
+    "postag": "n-p---mn-",
+    "sentence": "καὶ εἶδον αὐτά, καὶ οἱ νῶτοι αὐτῶν πλήρεις ὀφθαλμῶν κυκλόθεν τοῖς τέσσαρσι."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "4.18",
+    "form": "νῶτος",
+    "postag": "n-s---mn-",
+    "sentence": "καὶ ἐγένετο ὡς ἐμνήσθη τῆς κιβωτοῦ τοῦ Θεοῦ, καὶ ἔπεσεν ἀπὸ τοῦ δίφρου ὀπισθίως ἐχόμενος τῆς πύλης, καὶ συνετρίβη ὁ νῶτος αὐτοῦ καὶ ἀπέθανεν, ὅτι πρεσβύτης ὁ ἄνθρωπος καὶ βαρύς ·"
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "7.19",
+    "form": "νῶτοι",
+    "postag": "n-p---mn-",
+    "sentence": "αἱ χεῖρες αὐτῶν καὶ οἱ νῶτοι αὐτῶν καὶ ἡ πραγματεία αὐτῶν, τὰ πάντα χωνευτά."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "17.12",
+    "form": "νῶτος",
+    "postag": "n-s---mn-",
+    "sentence": "ὡς θάλασσα κυμαίνουσα οὕτω ταραχθήσεσθε, καὶ νῶτος ἐθνῶν πολλῶν ὡς ὕδωρ ἠχήσει."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "1.18",
+    "form": "νῶτοι",
+    "postag": "n-p---mn-",
+    "sentence": "ἐπὶ τὰ τέσσαρα μέρη αὐτῶν ἐπορεύοντο, οὐκ ἐπέστρεφον ἐν τῷ πορεύεσθαι αὐτά, οὐ-δ’ οἱ νῶτοι αὐτῶν, καὶ ὕψος ἦν αὐτοῖς ·"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "10.12",
+    "form": "νῶτοι",
+    "postag": "n-p---mn-",
+    "sentence": "καὶ οἱ νῶτοι αὐτῶν καὶ αἱ χεῖρες αὐτῶν καὶ αἱ πτέρυγες αὐτῶν καὶ οἱ τροχοὶ πλήρεις ὀφθαλμῶν κυκλόθεν τοῖς τέσσαρσι τροχοῖς αὐτῶν ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   νῶτος, -ου, ὁ,    in Att. most freq. τὸ νῶτον, and in pl. always τὰ νῶτα,   [in LXX, ὁ ν., pl., οἱ νῶτοι, and τὰ νῶτα, chiefly for כָּתֵף, also for עֹרֶף, מָתְנַיִם;]    the back: Ro 11:10(LXX).†"
+}

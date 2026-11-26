@@ -1,0 +1,41 @@
+{
+ "strong": "G3139",
+ "lemma": "μάρμαρος",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "REV 18:12",
+   "form": "μαρμάρου",
+   "morph": "N-GSM",
+   "gloss_en": "marble",
+   "gloss_ja": "大理石",
+   "verse": "γόμον χρυσοῦ καὶ ἀργύρου καὶ λίθου τιμίου καὶ μαργαριτῶν καὶ βυσσίνου καὶ πορφύρας καὶ σιρικοῦ καὶ κοκκίνου, καὶ πᾶν ξύλον θύϊνον καὶ πᾶν σκεῦος ἐλεφάντινον καὶ πᾶν σκεῦος ἐκ ξύλου τιμιωτάτου καὶ χαλκοῦ καὶ σιδήρου καὶ μαρμάρου,"
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Epistula Jeremiae": 1
+  },
+  "representatives": [
+   {
+    "work_code": "LJE",
+    "work_ja": "エレミヤの手紙",
+    "work_src": "Epistula Jeremiae",
+    "ref": "71",
+    "form": "μαρμάρου",
+    "postag": "n-s---mg-",
+    "sentence": "ἀπό τε τῆς πορφύρας καὶ τῆς μαρμάρου τῆς ἐπ’ αὐτοῖς σηπομένης γνωσθήσονται ὅτι οὐκ εἰσὶ θεοί ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ** μάρμαρος, -ου, ὁ    (< μαρμαίρω, to glisten),   [in LXX: Ep. Je 72*;]      any crystalline stone (Hom., Eur., al.).     In later writers, marble: Re 18:12.†"
+}

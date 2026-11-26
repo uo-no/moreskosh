@@ -1,0 +1,70 @@
+{
+ "strong": "G3572",
+ "lemma": "νύσσω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JHN 19:34",
+   "form": "ἔνυξεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "pierced",
+   "gloss_ja": "刺す",
+   "verse": "ἀλλ’ εἷς τῶν στρατιωτῶν λόγχῃ αὐτοῦ τὴν πλευρὰν ἔνυξεν, καὶ ἐξῆλθεν εὐθὺς αἷμα καὶ ὕδωρ."
+  }
+ ],
+ "lxx": {
+  "total": 4,
+  "works": {
+   "Machabaeorum iii": 1,
+   "Ecclesiasticus sive Siracides": 2,
+   "Psalmi Salomonis": 1
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "22.19",
+    "form": "νύσσων",
+    "postag": "v-sppamn-",
+    "sentence": "ὁ νύσσων ὀφθαλμὸν κατάξει δάκρυα, καὶ ὁ νύσσων καρδίαν ἐκφαίνει αἴσθησιν."
+   },
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "5.14",
+    "form": "ἔνυξε",
+    "postag": "v3saia---",
+    "sentence": "μεσούσης δὲ ἤδη τῆς δεκάτης ὥρας σχεδόν, ὁ πρὸς ταῖς κλήσεσι τεταγμένος, ἀθρόους τοὺς κλητοὺς ἰδών, ἔνυξε προσελθὼν τὸν βασιλέα."
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "16.4",
+    "form": "ἔνυξέν",
+    "postag": "v3saia---",
+    "sentence": "ἔνυξέν με ὡς κέντρον ἵππου ἐπὶ τὴν γρηγόρησιν αὐτοῦ, ὁ σωτὴρ καὶ ἀντιλήπτωρ μου ἐν παντὶ καιρῷ ἔσωσέν με."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "22.19",
+    "form": "νύσσων",
+    "postag": "v-sppamn-",
+    "sentence": "ὁ νύσσων ὀφθαλμὸν κατάξει δάκρυα, καὶ ὁ νύσσων καρδίαν ἐκφαίνει αἴσθησιν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ** νύσσω    (Att. -ττω),   [in LXX: Si 22:19, III Mac 5:14*;]    to pierce: τ. πλευρὰν λόγχῃ, Jo 19:34, [Mt 27:49], WH.†"
+}

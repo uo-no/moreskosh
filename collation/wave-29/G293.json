@@ -1,0 +1,79 @@
+{
+ "strong": "G293",
+ "lemma": "ἀμφίβληστρον",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MAT 4:18",
+   "form": "ἀμφίβληστρον",
+   "morph": "N-ASN",
+   "gloss_en": "net",
+   "gloss_ja": "投げ網",
+   "verse": "Περιπατῶν δὲ παρὰ τὴν θάλασσαν τῆς Γαλιλαίας εἶδεν δύο ἀδελφούς, Σίμωνα τὸν λεγόμενον Πέτρον καὶ Ἀνδρέαν τὸν ἀδελφὸν αὐτοῦ, βάλλοντας ἀμφίβληστρον εἰς τὴν θάλασσαν, ἦσαν γὰρ ἁλιεῖς·"
+  }
+ ],
+ "lxx": {
+  "total": 5,
+  "works": {
+   "Psalmi": 1,
+   "Ecclesiastes": 1,
+   "Habacuc": 3
+  },
+  "representatives": [
+   {
+    "work_code": "HAB",
+    "work_ja": "ハバクク書",
+    "work_src": "Habacuc",
+    "ref": "1.17",
+    "form": "ἀμφίβληστρον",
+    "postag": "n-s---na-",
+    "sentence": "διὰ τοῦτο ἀμφιβαλεῖ τὸ ἀμφίβληστρον αὐτοῦ καὶ διὰ παντὸς ἀποκτέννειν ἔθνη οὐ φείσεται."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "140.10",
+    "form": "ἀμφιβλήστρῳ",
+    "postag": "n-s---nd-",
+    "sentence": "πεσοῦνται ἐν ἀμφιβλήστρῳ αὐτῶν οἱ ἁμαρτωλοί ·"
+   },
+   {
+    "work_code": "ECC",
+    "work_ja": "コヘレトの言葉",
+    "work_src": "Ecclesiastes",
+    "ref": "9.12",
+    "form": "ἀμφιβλήστρῳ",
+    "postag": "n-s---nd-",
+    "sentence": "ὡς οἱ ἰχθύες οἱ θηρευόμενοι ἐν ἀμφιβλήστρῳ κακῷ καὶ ὡς ὄρνεα τὰ θηρευόμενα ἐν παγίδι, ὡς αὐτὰ παγιδεύονται οἱ υἱοὶ τοῦ ἀνθρώπου εἰς καιρὸν πονηρόν, ὅταν ἐπιπέσῃ ἐπ’ αὐτοὺς ἄφνω."
+   },
+   {
+    "work_code": "HAB",
+    "work_ja": "ハバクク書",
+    "work_src": "Habacuc",
+    "ref": "1.15",
+    "form": "ἀμφιβλήστρῳ",
+    "postag": "n-s---nd-",
+    "sentence": "συντέλειαν ἐν ἀγκίστρῳ ἀνέσπασε καὶ εἵλκυσεν αὐτὸν ἐν ἀμφιβλήστρῳ καὶ συνήγαγεν αὐτὸν ἐν ταῖς σαγήναις αὐτοῦ."
+   },
+   {
+    "work_code": "HAB",
+    "work_ja": "ハバクク書",
+    "work_src": "Habacuc",
+    "ref": "1.16",
+    "form": "ἀμφιβλήστρῳ",
+    "postag": "n-s---nd-",
+    "sentence": "ἕνεκεν τούτου θύσει τῇ σαγήνῃ αὐτοῦ καὶ θυμιάσει τῷ ἀμφιβλήστρῳ αὐτοῦ, ὅτι ἐν αὐτοῖς ἐλίπανε μερίδα αὐτοῦ, καὶ τὰ βρώματα αὐτοῦ ἐκλεκτά."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ἀμφίβληστρον, -ου, τό    (< ἀμφιβάλλω),   [in LXX chiefly for חֵרֶם;]      something thrown around, as a garment; spec., a casting-net: Mt 4:18.†"
+}

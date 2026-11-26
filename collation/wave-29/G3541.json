@@ -1,0 +1,51 @@
+{
+ "strong": "G3541",
+ "lemma": "νόθος",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "HEB 12:8",
+   "form": "νόθοι",
+   "morph": "A-NPM",
+   "gloss_en": "illegitimate children",
+   "gloss_ja": "私生児",
+   "verse": "εἰ δὲ χωρίς ἐστε παιδείας ἧς μέτοχοι γεγόνασι πάντες, ἄρα νόθοι καὶ οὐχ υἱοί ἐστε."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Machabaeorum iii": 1,
+   "Sapientia Salomonis": 1
+  },
+  "representatives": [
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "3.17",
+    "form": "νόθως",
+    "postag": "d--------",
+    "sentence": "οἱ δὲ λόγῳ μὲν τὴν ἡμετέραν ἀποδεξάμενοι παρουσίαν, τῷ δὲ πράγματι νόθως, προθυμηθέντων ἡμῶν εἰσελθεῖν εἰς τὸν ναὸν αὐτῶν καὶ τοῖς ἐκπρεπέσι καὶ καλλίστοις ἀναθήμασι τιμῆσαι, τύφοις φερόμενοι παλαιοτέροις, εἶρξαν ἡμᾶς τῆς εἰσόδου, ἀπολειπόμενοι τῆς ἡμετέρας ἀλκῆς δι’ ἣν ἔχομεν πρὸς ἅπαντας ἀνθρώπους φιλανθρωπίαν."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "4.3",
+    "form": "νόθων",
+    "postag": "a-p---ng-",
+    "sentence": "πολύγονον δὲ ἀσεβῶν πλῆθος οὐ χρησιμεύσει, καὶ ἐκ νόθων μοσχευμάτων οὐ δώσει ρίζαν εἰς βάθος, οὐ-δὲ ἀσφαλῆ βάσιν ἑδράσει ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ** νόθος, -η, -ον,    [in LXX: Wi 4:3*;]    a bastard, base born, i.e. born of a slave or concubine: He 12:8.†"
+}

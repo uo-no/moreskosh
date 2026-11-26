@@ -1,0 +1,63 @@
+{
+ "strong": "G3394",
+ "lemma": "μιασμός",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2PE 2:10",
+   "form": "μιασμοῦ",
+   "morph": "N-GSM",
+   "gloss_en": "corrupt",
+   "gloss_ja": "汚染",
+   "verse": "μάλιστα δὲ τοὺς ὀπίσω σαρκὸς ἐν ἐπιθυμίᾳ μιασμοῦ πορευομένους καὶ κυριότητος καταφρονοῦντας. Τολμηταὶ, αὐθάδεις, δόξας οὐ τρέμουσιν, βλασφημοῦντες,"
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Machabaeorum i": 1,
+   "Sapientia Salomonis": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "4.43",
+    "form": "μιασμοῦ",
+    "postag": "n-s---mg-",
+    "sentence": "καὶ ἐπέλεξεν ἱερεῖς ἀμώμους θελητὰς νόμου, καὶ ἐκαθάρισαν τὰ ἅγια καὶ ᾖραν τοὺς λίθους τοῦ μιασμοῦ εἰς τόπον ἀκάθαρτον."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "14.26",
+    "form": "μιασμός",
+    "postag": "n-s---mn-",
+    "sentence": "πάντας δ’ ἐπιμὶξ ἔχει αἷμα καὶ φόνος, κλοπὴ καὶ δόλος, φθορά, ἀπιστία, ταραχή, ἐπιορκία, θόρυβος ἀγαθῶν, χάριτος ἀμνησία, ψυχῶν μιασμός, γενέσεως ἐναλλαγή, γάμων ἀταξία, μοιχεία καὶ ἀσέλγεια."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "22.7.2",
+    "form": "μιασμῷ",
+    "postag": "n-s---md-",
+    "sentence": "βλέπε, μήποτε ἀναβῇ ἐπὶ τὴν καρδίαν σου τὴν σάρκα σου ταύτην φθαρτὴν εἶναι καὶ παραχρήσῃ αὐτῇ ἐν μιασμῷ τινί."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   **† μιασμός, -οῦ, ὁ    (< μιαίνω),   [in LXX: Wi 14:26, I Mac 4:43*;]       prop., the act of defiling.     = μίασμα (q.v.): II Pe 2:10 (cf. Plut., Mor., 393c).†"
+}

@@ -1,0 +1,73 @@
+{
+ "strong": "G3357",
+ "lemma": "μετρίως",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": "μετριος",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 20:12",
+   "form": "μετρίως",
+   "morph": "ADV",
+   "gloss_en": "a little",
+   "gloss_ja": "適度に",
+   "verse": "ἤγαγον δὲ τὸν παῖδα ζῶντα, καὶ παρεκλήθησαν οὐ μετρίως."
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Machabaeorum ii": 1,
+   "Ecclesiasticus sive Siracides": 1,
+   "Psalmi Salomonis": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "15.38",
+    "form": "μετρίως",
+    "postag": "d--------",
+    "sentence": "εἰ δὲ εὐτελῶς καὶ μετρίως, τοῦτο ἐφικτὸν ἦν μοι."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "31.20",
+    "form": "μετρίῳ",
+    "postag": "a-s---nd-",
+    "sentence": "ὕπνος ὑγιείας ἐπὶ ἐντέρῳ μετρίῳ, ἀνέστη πρωΐ, καὶ ἡ ψυχὴ αὐτοῦ μετ’ αὐτοῦ."
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "5.17",
+    "form": "μέτριον",
+    "postag": "a-s---nn-",
+    "sentence": "ἱκανὸν τὸ μέτριον ἐν δικαιοσύνῃ, καὶ ἐν τούτῳ ἡ εὐλογία κυρίου εἰς πλησμονὴν ἐν δικαιοσύνῃ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "1 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "1.3",
+    "form": "μέτρια",
+    "postag": "a-p---na-",
+    "sentence": "νέοις τε μέτρια καὶ σεμνὰ νοεῖν ἐπετρέπετε ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   ** μετρίως,     adv.    (μέτριος, moderate),   [in LXX: II Mac 15:38*;]    moderately: litotes, οὐ μ., exceedingly, Ac 20:12.†"
+}

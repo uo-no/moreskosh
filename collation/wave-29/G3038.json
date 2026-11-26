@@ -1,0 +1,61 @@
+{
+ "strong": "G3038",
+ "lemma": "λιθόστρωτος",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JHN 19:13",
+   "form": "Λιθόστρωτον",
+   "morph": "A-ASN",
+   "gloss_en": "pavement",
+   "gloss_ja": "石畳",
+   "verse": "Ὁ οὖν Πιλᾶτος ἀκούσας τῶν λόγων τούτων ἤγαγεν ἔξω τὸν Ἰησοῦν, καὶ ἐκάθισεν ἐπὶ βήματος εἰς τόπον λεγόμενον Λιθόστρωτον, Ἑβραϊστὶ δὲ Γαββαθα."
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Paralipomenon ii sive Chronicon ii": 1,
+   "Esther": 1,
+   "Canticum": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "7.3",
+    "form": "λιθόστρωτον",
+    "postag": "a-s---na-",
+    "sentence": "καὶ πάντες οἱ υἱοὶ Ἰσραὴλ ἑώρων καταβαῖνον τὸ πῦρ, καὶ ἡ δόξα Κυρίου ἐπὶ τὸν οἶκον, καὶ ἔπεσον ἐπὶ πρόσωπον ἐπὶ τὴν γῆν ἐπὶ τὸ λιθόστρωτον καὶ προσεκύνησαν καὶ ᾔνουν τῷ Κυρίῳ, ὅτι ἀγαθόν, ὅτι εἰς τὸν αἰῶνα τὸ ἔλεος αὐτοῦ."
+   },
+   {
+    "work_code": "EST",
+    "work_ja": "エステル記",
+    "work_src": "Esther",
+    "ref": "1.6",
+    "form": "λιθοστρώτου",
+    "postag": "a-s---mg-",
+    "sentence": "κλῖναι χρυσαῖ καὶ ἀργυραῖ ἐπὶ λιθοστρώτου σμαραγδίτου λίθου καὶ πιννίνου καὶ παρίνου λίθου καὶ στρώμναι διαφανεῖς ποικίλως διηνθισμέναι, κύκλῳ ρόδα πεπασμένα ·"
+   },
+   {
+    "work_code": "SNG",
+    "work_ja": "雅歌",
+    "work_src": "Canticum",
+    "ref": "3.10",
+    "form": "λιθόστρωτον",
+    "postag": "a-s---na-",
+    "sentence": "ἐπίβασις αὐτοῦ πορφυρᾶ, ἐντὸς αὐτοῦ λιθόστρωτον, ἀγάπην ἀπὸ θυγατέρων Ἱερουσαλήμ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   λιθό-στρωτος, -ον    (< στρώννυμι),   [in LXX: II Ch 7:3, Es 1:6, Ca 3:10 (רִצְפָּה, רָצַף)*;]    paved with stones, esp. of tessallated work (Ca 3:10); as subst., τὸ λ., a tessallated pavement: Jo 19:13 (cf. Γαββαθᾶ).†"
+}

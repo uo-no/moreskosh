@@ -1,0 +1,60 @@
+{
+ "strong": "G3373",
+ "lemma": "μηκύνομαι",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": "μηκυνω",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MRK 4:27",
+   "form": "μηκύνηται",
+   "morph": "V-PPS-3S",
+   "gloss_en": "grows",
+   "gloss_ja": "伸びる",
+   "verse": "καὶ καθεύδῃ καὶ ἐγείρηται νύκτα καὶ ἡμέραν, καὶ ὁ σπόρος βλαστᾷ καὶ μηκύνηται ὡς οὐκ οἶδεν αὐτός."
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Isaias": 1,
+   "Ezechiel": 2
+  },
+  "representatives": [
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "12.28",
+    "form": "μηκύνωσιν",
+    "postag": "v3ppsa---",
+    "sentence": "οὐ μὴ μηκύνωσιν οὐκέτι πάντες οἱ λόγοι μου, οὓς ἂν λαλήσω ·"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "44.14",
+    "form": "ἐμήκυνεν",
+    "postag": "v3saia---",
+    "sentence": "ἔκοψε ξύλον ἐκ τοῦ δρυμοῦ, ὃ ἐφύτευσε Κύριος καὶ ὑετὸς ἐμήκυνεν, ἵνα ᾖ ἀνθρώποις εἰς καῦσιν ·"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "12.25",
+    "form": "μηκύνω",
+    "postag": "v1spsa---",
+    "sentence": "ὅτι οὐκ ἔσται ἔτι πᾶσα ὅρασις ψευδὴς καὶ μαντευόμενος τὰ πρὸς χάριν ἐν μέσῳ τῶν υἱῶν Ἰσραήλ, διότι ἐγὼ Κύριος λαλήσω τοὺς λόγους μου, λαλήσω καὶ ποιήσω καὶ οὐ μὴ μηκύνω ἔτι ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1 μηκύνω    (< μῆκος),   [in LXX: Is 44:14 (גּדל pi.), Ez 12:25, 28 (משׁךְ ni.)*;]    to lengthen, extend: of causing plants to grow, Is 44:14; pass. (mid., Swete, in l.), to grow: Mk 4:27.†"
+}

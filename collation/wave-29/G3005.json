@@ -1,0 +1,51 @@
+{
+ "strong": "G3005",
+ "lemma": "λεῖμμα",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ROM 11:5",
+   "form": "λεῖμμα",
+   "morph": "N-NSN",
+   "gloss_en": "remnant",
+   "gloss_ja": "残り",
+   "verse": "οὕτως οὖν καὶ ἐν τῷ νῦν καιρῷ λεῖμμα κατ’ ἐκλογὴν χάριτος γέγονεν·"
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Regnorum ii": 1,
+   "Regnorum iv": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "21.2",
+    "form": "λείμματος",
+    "postag": "n-s---ng-",
+    "sentence": "καὶ οἱ Γαβαωνῖται οὐχ υἱοὶ Ἰσραήλ εἰσιν, ὅτι ἀλλ’ ἢ ἐκ τοῦ λείμματος τοῦ Ἀμορραίου, καὶ οἱ υἱοὶ Ἰσραὴλ ὤμοσαν αὐτοῖς ·"
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "19.4",
+    "form": "λείμματος",
+    "postag": "n-s---ng-",
+    "sentence": "εἴ πως εἰσακούσεται Κύριος ὁ Θεός σου πάντας τοὺς λόγους Ῥαψάκου, ὃν ἀπέστειλεν αὐτὸν βασιλεὺς Ἀσσυρίων ὁ κύριος αὐτοῦ ὀνειδίζειν Θεὸν ζῶντα καὶ βασφημεῖν ἐν λόγοις, οἷς ἤκουσε Κύριος ὁ Θεός σου, καὶ λήψῃ προσευχὴν περὶ τοῦ λείμματος τοῦ εὑρισκομένου."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   λεῖμμα (WH, λίμμα, v. their App., 154), -τος, τό    (< λείπω),   [in LXX: IV Ki 19:4 A (שְׁאֵרִית)*;]      a remnant: Ro 11:5.†"
+}

@@ -1,0 +1,61 @@
+{
+ "strong": "G3621",
+ "lemma": "οἰκονομέω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 16:2",
+   "form": "οἰκονομεῖν",
+   "morph": "V-PAN",
+   "gloss_en": "manager",
+   "gloss_ja": "管理する",
+   "verse": "καὶ φωνήσας αὐτὸν εἶπεν αὐτῷ· Τί τοῦτο ἀκούω περὶ σοῦ; ἀπόδος τὸν λόγον τῆς οἰκονομίας σου, οὐ γὰρ δύνῃ ἔτι οἰκονομεῖν."
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Machabaeorum ii": 1,
+   "Machabaeorum iii": 1,
+   "Psalmi": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "3.14",
+    "form": "οἰκονομήσων",
+    "postag": "v-sfpamn-",
+    "sentence": "ταξάμενος δὲ ἡμέραν εἰσήει τὴν περὶ τούτων ἐπίσκεψιν οἰκονομήσων ·"
+   },
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "3.2",
+    "form": "οἰκονομουμένων",
+    "postag": "v-pppmng-",
+    "sentence": "τούτων δὲ οἰκονομουμένων φήμη δυσμενὴς ἐξηχεῖτο κατὰ τοῦ γένους ἀνθρώποις συμφρονοῦσιν εἰς κακοποίησιν, ἀφορμῆς διδομένης εἰς διάθεσιν, ὡς ἂν ἀπὸ τῶν νομίμων αὐτοὺς κωλυόντων."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "111.5",
+    "form": "οἰκονομήσει",
+    "postag": "v3sfia---",
+    "sentence": "οἰκονομήσει τοὺς λόγους αὐτοῦ ἐν κρίσει, ὅτι εἰς τὸν αἰῶνα οὐ σαλευθήσεται, εἰς μνημόσυνον αἰώνιον ἔσται δίκαιος."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   οἰκονομέω, -ῶ    (< οἰκονόμος),   [in LXX: Ps 111 (112):5 (כּוּל pilp.), II Mac 3:14*;]    to manage as house-steward, be a steward: absol., Lk 16:2; hence, generally (v.s. οἰκονομία), to manage, regulate, arrange (cl., II Mac 3:14, III Mac 3:2 R).†"
+}

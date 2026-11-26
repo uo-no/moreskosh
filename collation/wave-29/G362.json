@@ -1,0 +1,158 @@
+{
+ "strong": "G362",
+ "lemma": "ἀναμένω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1TH 1:10",
+   "form": "ἀναμένειν",
+   "morph": "V-PAN",
+   "gloss_en": "wait for",
+   "gloss_ja": "待ち望む",
+   "verse": "καὶ ἀναμένειν τὸν υἱὸν αὐτοῦ ἐκ τῶν οὐρανῶν, ὃν ἤγειρεν ἐκ τῶν νεκρῶν, Ἰησοῦν τὸν ῥυόμενον ἡμᾶς ἐκ τῆς ὀργῆς τῆς ἐρχομένης."
+  }
+ ],
+ "lxx": {
+  "total": 10,
+  "works": {
+   "Judith": 2,
+   "Machabaeorum ii": 1,
+   "Job": 2,
+   "Ecclesiasticus sive Siracides": 3,
+   "Isaias": 1,
+   "Jeremias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "5.7",
+    "form": "ἀνάμενε",
+    "postag": "v2spma---",
+    "sentence": "μὴ ἀνάμενε ἐπιστρέψαι πρὸς Κύριον καὶ μὴ ὑπερβάλλου ἡμέραν ἐξ ἡμέρας ·"
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "8.17",
+    "form": "ἀναμένοντες",
+    "postag": "v-pppamn-",
+    "sentence": "διόπερ ἀναμένοντες τὴν παρ’ αὐτοῦ σωτηρίαν ἐπικαλεσώμεθα αὐτὸν εἰς βοήθειαν ἡμῶν, καὶ εἰσακούσεται τῆς φωνῆς ἡμῶν, ἐὰν ᾖ αὐτῷ ἀρεστόν."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "7.2",
+    "form": "ἀναμένων",
+    "postag": "v-sppamn-",
+    "sentence": "ἢ ὥσπερ μισθωτὸς ἀναμένων τὸν μισθὸν αὐτοῦ;"
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "6.14",
+    "form": "ἀναμένει",
+    "postag": "v3spia---",
+    "sentence": "οὐ γὰρ καθάπερ καὶ ἐπὶ τῶν ἄλλων ἐθνῶν ἀναμένει μακροθυμῶν ὁ δεσπότης μέχρι τοῦ καταντήσαντας αὐτοὺς πρὸς ἐκπλήρωσιν ἁμαρτιῶν κολάσαι, οὕτω καὶ ἐφ’ ἡμῶν ἔκρινεν εἶναι, ἵνα μὴ πρὸς τέλος ἀφικομένων ἡμῶν τῶν ἁμαρτιῶν ὕστερον ἡμᾶς ἐκδικᾷ."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "59.11",
+    "form": "ἀνεμείναμεν",
+    "postag": "v1paia---",
+    "sentence": "ἀνεμείναμεν κρίσιν, καὶ οὐκ ἔστι ·"
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "13.16",
+    "form": "ἀναμενεῖτε",
+    "postag": "v2pfia---",
+    "sentence": "δότε τῷ Κυρίῳ Θεῷ ὑμῶν δόξαν πρὸ τοῦ συσκοτάσαι καὶ πρὸ τοῦ προσκόψαι πόδας ὑμῶν ἐπ’ ὄρη σκοτεινά, καὶ ἀναμενεῖτε εἰς φῶς, καὶ ἐκεῖ σκιὰ θανάτου, καὶ τεθήσονται εἰς σκότος."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "2.7",
+    "form": "ἀναμείνατε",
+    "postag": "v2pama---",
+    "sentence": "οἱ φοβούμενοι τὸν Κύριον ἀναμείνατε τὸ ἔλεος αὐτοῦ καὶ μὴ ἐκκλίνητε, ἵνα μὴ πέσητε."
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "7.12",
+    "form": "ἀνάμεινον",
+    "postag": "v2sama---",
+    "sentence": "ἀνάμεινον ἐπὶ τῆς παρεμβολῆς σου διαφυλάσσων πάντα ἄνδρα ἐκ τῆς δυνάμεώς σου, καὶ ἐπικρατησάτωσαν οἱ παῖδές σου τῆς πηγῆς τοῦ ὕδατος, ἣ ἐκπορεύεται ἐκ τῆς ρίζης τοῦ ὄρους, διότι ἐκεῖθεν ὑδρεύονται πάντες οἱ κατοικοῦντες Βαιτυλούα, καὶ ἀνελεῖ αὐτοὺς ἡ δίψα, καὶ ἐκδώσουσι τὴν πόλιν ἑαυτῶν ·"
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "2.9α",
+    "form": "ἀναμένω",
+    "postag": "v1spia---",
+    "sentence": "ἰδοὺ ἀναμένω χρόνον ἔτι μικρὸν προσδεχόμενος τὴν ἐλπίδα τῆς σωτηρίας μου;"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "6.19",
+    "form": "ἀνάμενε",
+    "postag": "v2spma---",
+    "sentence": "ὡς ὁ ἀροτριῶν καὶ ὁ σπείρων πρόσελθε αὐτῇ καὶ ἀνάμενε τοὺς ἀγαθοὺς καρποὺς αὐτῆς ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 3,
+  "works": {
+   "2 Clement": 1,
+   "Ignatius, Letters": 2
+  },
+  "representatives": [
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "2.9.2",
+    "form": "ἀνέμενον",
+    "postag": "v3piia---",
+    "sentence": "καὶ διὰ τοῦτο, ὃν δικαίως ἀνέμενον, παρὼν ἤγειρεν αὐτοὺς ἐκ νεκρῶν."
+   },
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "19.4",
+    "form": "ἀναμένει",
+    "postag": "v3spia---",
+    "sentence": "μακάριος αὐτὸν ἀναμένει χρόνος ·"
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "5.5.2",
+    "form": "ἀναμένειν",
+    "postag": "v--pna---",
+    "sentence": "καὶ τοὺς προφήτας δὲ ἀγαπῶμεν, διὰ τὸ καὶ αὐτοὺς εἰς τὸ εὐαγγέλιον κατηγγελκέναι καὶ εἰς αὐτὸν ἐλπίζειν καὶ αὐτὸν ἀναμένειν, ἐν ᾦ καὶ πιστεύσαντες ἐσώθησαν, ἐν ἑνότητι Ἰησοῦ Χριστοῦ ὄντες, ἀξιαγάπητοι καὶ ἀξιοθαύμαστοι ἅγιοι, ὑπὸ Ἰησοῦ Χριστοῦ μεμαρτυρημένοι καὶ συνηριθμημένοι ἐν τῷ εὐαγγελίῳ τῆς κοινῆς ἐλπίδος."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   ἀνα-μένω     [in LXX for קוה pi.;]    to await \"one whose coming is expected, perhaps with the added idea of patience and confidence\" c. acc., I Th 1:10 (v. M, Th., in l.; MM, VGT, s.v.).†"
+}

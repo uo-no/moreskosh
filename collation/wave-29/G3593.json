@@ -1,0 +1,82 @@
+{
+ "strong": "G3593",
+ "lemma": "ὁδεύω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 10:33",
+   "form": "ὁδεύων",
+   "morph": "V-PAP-NSM",
+   "gloss_en": "traveling",
+   "gloss_ja": "旅する",
+   "verse": "Σαμαρίτης δέ τις ὁδεύων ἦλθεν κατ’ αὐτὸν καὶ ἰδὼν ἐσπλαγχνίσθη,"
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Regnorum iii": 1,
+   "Tobias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "6.12",
+    "form": "ὁδεύῃς",
+    "postag": "v2spsa---",
+    "sentence": "ὁ οἶκος οὗτος, ὃν σὺ οἰκοδομεῖς, ἐὰν ὁδεύῃς τοῖς προστάγμασί μου καὶ τὰ κρίματά μου ποιῇς καὶ φυλάσσῃς πάσας τὰς ἐντολάς μου ἀναστρέφεσθαι ἐν αὐταῖς, στήσω τὸν λόγον μου, ὃν ἐλάλησα πρὸς Δαυὶδ τὸν πατέρα σου καὶ κατασκηνώσω ἐν μέσῳ υἱῶν Ἰσραὴλ καὶ οὐκ ἐγκαταλείψω τὸν λαόν μου Ἰσραήλ."
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "6.6",
+    "form": "ὥδευον",
+    "postag": "v3piia---",
+    "sentence": "καὶ ὥδευον ἀμφότεροι, ἕως οὗ ἤγγισαν ἐν Ἐκβατάνοις."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 3,
+  "works": {
+   "Barnabas": 1,
+   "Hermas, Pastor": 2
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "4.1.2",
+    "form": "ὁδεύεται",
+    "postag": "v3spim---",
+    "sentence": "ῥᾳδίως δὲ ὁδεύεται ὁ τόπος."
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "19.1",
+    "form": "ὁδεύειν",
+    "postag": "v--pna---",
+    "sentence": "ἐάν τις θέλων ὁδὸν ὁδεύειν ἐπὶ τὸν ὡρισμένον τόπον, σπεύσῃ τοῖς ἔργοις αὐτοῦ."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "1.1.3",
+    "form": "ὁδεῦσαι",
+    "postag": "v--ana---",
+    "sentence": "καὶ πνεῦμά με ἔλαβεν καὶ ἀπήνεγκέ με δι’ ἀνοδίας τινός, δι’ ἧς ἄνθρωπος οὐκ ἐδύνατο ὁδεῦσαι ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   ὁδεύω    (< ὁδός),   [in LXX : III Ki 6:12 A (metaph., הלךְ), To 6:5, Wi 5:7 (fig.)*;]    to travel, journey: Lk 10:33 (cf.δι-, συν-οδεύω).†"
+}

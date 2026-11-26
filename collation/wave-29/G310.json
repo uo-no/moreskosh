@@ -1,0 +1,160 @@
+{
+ "strong": "G310",
+ "lemma": "ἀναβοάω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MAT 27:46",
+   "form": "ἀνεβόησεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "cried out",
+   "gloss_ja": "叫ぶ",
+   "verse": "περὶ δὲ τὴν ἐνάτην ὥραν ἀνεβόησεν ὁ Ἰησοῦς φωνῇ μεγάλῃ λέγων· Ἠλὶ ἠλὶ λεμὰ σαβαχθάνι; τοῦτ’ ἔστιν· Θεέ μου θεέ μου, ἱνατί με ἐγκατέλιπες;"
+  }
+ ],
+ "lxx": {
+  "total": 48,
+  "works": {
+   "Genesis": 3,
+   "Exodus": 2,
+   "Numeri": 1,
+   "Deuteronomium": 1,
+   "Josue": 3,
+   "Regnorum i": 5,
+   "Regnorum ii": 1,
+   "Regnorum iii": 3,
+   "Regnorum iv": 2,
+   "Esdras ii": 2,
+   "Judith": 4,
+   "Machabaeorum ii": 1,
+   "Machabaeorum iii": 1,
+   "Machabaeorum iv": 2,
+   "Jonas": 3,
+   "Zacharias": 1,
+   "Isaias": 3,
+   "Ezechiel": 2,
+   "Susanna": 4,
+   "Daniel": 2,
+   "Bel et Draco": 2
+  },
+  "representatives": [
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "20.38",
+    "form": "ἀνεβόησεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἀνεβόησεν Ἰωνάθαν ὀπίσω τοῦ παιδαρίου αὐτοῦ λέγων ·"
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "5.12",
+    "form": "ἀνεβόησαν",
+    "postag": "v3paia---",
+    "sentence": "καὶ ἀνεβόησαν πρὸς τὸν Θεὸν αὐτῶν, καὶ ἐπάταξε πᾶσαν τὴν γῆν Αἰγύπτου πληγαῖς, ἐν αἷς οὐκ ἦν ἴασις ·"
+   },
+   {
+    "work_code": "SUS",
+    "work_ja": "スザンナ（Th）",
+    "work_src": "Susanna",
+    "ref": "24",
+    "form": "ἀνεβόησε",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἀνεβόησε φωνῇ μεγάλῃ Σουσάννα, ἐβόησαν δὲ καὶ οἱ δύο πρεσβῦται κατέναντι αὐτῆς."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "21.16",
+    "form": "ἀναβοῆσαν",
+    "postag": "v-sapann-",
+    "sentence": "καὶ ἐκάθισεν ἀπέναντι αὐτοῦ, ἀναβοῆσαν δὲ τὸ παιδίον ἔκλαυσεν."
+   },
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "6.10",
+    "form": "ἀναβοῆσαι",
+    "postag": "v--ana---",
+    "sentence": "μὴ βοᾶτε, μη-δὲ ἀκουσάτω μηδεὶς τὴν φωνὴν ὑμῶν, ἕως ἂν ἡμέραν διαγγείλῃ αὐτὸς ἀναβοῆσαι, καὶ τότε ἀναβοήσετε."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "17.20",
+    "form": "ἀνεβόησεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἀνεβόησεν Ἠλιού, καὶ εἶπεν ·"
+   },
+   {
+    "work_code": "JON",
+    "work_ja": "ヨナ書",
+    "work_src": "Jonas",
+    "ref": "1.14",
+    "form": "ἀνεβόησαν",
+    "postag": "v3paia---",
+    "sentence": "καὶ ἀνεβόησαν πρὸς Κύριον καὶ εἶπαν ·"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "57.13",
+    "form": "ἀναβοήσῃς",
+    "postag": "v2sasa---",
+    "sentence": "ὅταν ἀναβοήσῃς, ἐξελέσθωσάν σε ἐν τῇ θλίψει σου ·"
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "14.10",
+    "form": "ἀνεβόησαν",
+    "postag": "v3paia---",
+    "sentence": "ἀνεβόησαν δὲ οἱ υἱοὶ Ἰσραὴλ πρὸς Κύριον, καὶ εἶπαν πρὸς Μωυσῆν ·"
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "4.40",
+    "form": "ἀνεβόησαν",
+    "postag": "v3paia---",
+    "sentence": "καὶ ἐνέχει τοῖς ἀνδράσι φαγεῖν, καὶ ἐγένετο ἐν τῷ ἐσθίειν αὐτοὺς ἐκ τοῦ ἑψέματος καὶ ἰδοὺ ἀνεβόησαν καὶ εἶπαν ·"
+   },
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "19.28",
+    "form": "ἀνεβόησαν",
+    "postag": "v3paia---",
+    "sentence": "καὶ πάλιν ἀνεβόησαν πρός σε, καὶ σὺ ἐξ οὐρανοῦ εἰσήκουσας καὶ ἐρρύσω αὐτοὺς ἐν οἰκτιρμοῖς σου πολλοῖς."
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "10.2",
+    "form": "ἀναβοήσας",
+    "postag": "v-sapamn-",
+    "sentence": "ὁ δὲ ἀναβοήσας ἔφη ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ἀνα-βοάω, -ῶ     [in LXX for צעק, זעק, קרא, etc.;]    to cry out: Mt 27:46 (WH, ἐβόησεν; v. MM, VGT, s.v.).†"
+}

@@ -1,0 +1,71 @@
+{
+ "strong": "G289",
+ "lemma": "ἀμπελουργός",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 13:7",
+   "form": "ἀμπελουργόν",
+   "morph": "N-ASM",
+   "gloss_en": "gardener",
+   "gloss_ja": "ぶどう園の番人",
+   "verse": "εἶπεν δὲ πρὸς τὸν ἀμπελουργόν· Ἰδοὺ τρία ἔτη ἀφ’ οὗ ἔρχομαι ζητῶν καρπὸν ἐν τῇ συκῇ ταύτῃ καὶ οὐχ εὑρίσκω· ἔκκοψον αὐτήν· ἱνατί καὶ τὴν γῆν καταργεῖ;"
+  }
+ ],
+ "lxx": {
+  "total": 4,
+  "works": {
+   "Regnorum iv": 1,
+   "Paralipomenon ii sive Chronicon ii": 1,
+   "Isaias": 1,
+   "Jeremias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "25.12",
+    "form": "ἀμπελουργοὺς",
+    "postag": "n-p---ma-",
+    "sentence": "καὶ ἀπὸ τῶν πτωχῶν τῆς γῆς ὑπέλιπεν ὁ ἀρχιμάγειρος εἰς ἀμπελουργοὺς καὶ εἰς γαβίν."
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "26.10",
+    "form": "ἀμπελουργοὶ",
+    "postag": "n-p---mn-",
+    "sentence": "καὶ ᾠκοδόμησε πύργους ἐν τῇ ἐρήμῳ καὶ ἐλατόμησε λάκκους πολλούς, ὅτι κτήνη πολλὰ ὑπῆρχεν αὐτῷ ἐν Σεφηλᾷ καὶ ἐν τῇ πεδινῇ καὶ ἀμπελουργοὶ ἐν τῇ ὀρεινῇ καὶ ἐν τῷ Καρμήλῳ, ὅτι γεωργὸς ἦν."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "61.5",
+    "form": "ἀμπελουργοί",
+    "postag": "n-p---mn-",
+    "sentence": "καὶ ἥξουσι ἀλλογενεῖς ποιμαίνοντες τὰ πρόβατά σου, καὶ ἀλλόφυλοι ἀροτῆρες καὶ ἀμπελουργοί."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "52.16",
+    "form": "ἀμπελουργοὺς",
+    "postag": "n-p---ma-",
+    "sentence": "καὶ τοὺς καταλοίπους τοῦ λαοῦ κατέλιπεν ὁ ἀρχιμάγειρος εἰς ἀμπελουργοὺς καὶ εἰς γεωργούς."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ἀμπελουργός, -οῦ, ὁ, ἡ,    [in LXX for כֹּרֵם;]    a vine dresser: Lk 13:7.†"
+}

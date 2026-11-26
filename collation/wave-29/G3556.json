@@ -1,0 +1,41 @@
+{
+ "strong": "G3556",
+ "lemma": "νοσσίον",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": "νεοσσιον",
+ "mapping_note": "Determined 2026-11-25 (user approved): attach only νεόσσιον examples (Ps 83:4 LXX) by NT sense \"young/brood\" (Luke 13:34); GLAUx fem. νοσσιά \"nest\" examples NOT attached; split recorded here. General rule: when GLAUx splits by form and the NT lemma straddles, map by NT sense and note the split.",
+ "nt_occurrences": [
+  {
+   "ref": "MAT 23:37",
+   "form": "νοσσία",
+   "morph": "N-APN",
+   "gloss_en": "chicks",
+   "gloss_ja": "雛",
+   "verse": "Ἰερουσαλὴμ Ἰερουσαλήμ, ἡ ἀποκτείνουσα τοὺς προφήτας καὶ λιθοβολοῦσα τοὺς ἀπεσταλμένους πρὸς αὐτήν ποσάκις ἠθέλησα ἐπισυναγαγεῖν τὰ τέκνα σου, ὃν τρόπον ὄρνις ἐπισυνάγει τὰ νοσσία αὐτῆς ὑπὸ τὰς πτέρυγας, καὶ οὐκ ἠθελήσατε;"
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Psalmi": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "83.4",
+    "form": "νοσσία",
+    "postag": "n-p---na-",
+    "sentence": "καὶ γὰρ στρουθίον εὗρεν ἑαυτῷ οἰκίαν καὶ τρυγὼν νοσσιὰν ἑαυτῇ, οὗ θήσει τὰ νοσσία ἑαυτῆς, τὰ θυσιαστήριά σου, Κύριε τῶν δυνάμεων, ὁ Βασιλεύς μου καὶ ὁ Θεός μου."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   νοσσίον, -ου, τό, dimin. of νοσσός, q.v.,    [in LXX: Ps 83 (84):3 (אֶפְרֹחַ)*;]    a young bird: Mt 23:37.†"
+}

@@ -1,0 +1,41 @@
+{
+ "strong": "G3400",
+ "lemma": "μίλιον",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MAT 5:41",
+   "form": "μίλιον",
+   "morph": "N-ASN",
+   "gloss_en": "mile",
+   "gloss_ja": "ローママイル",
+   "verse": "καὶ ὅστις σε ἀγγαρεύσει μίλιον ἕν, ὕπαγε μετ’ αὐτοῦ δύο."
+  }
+ ],
+ "lxx": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Didache": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DID",
+    "work_ja": "ディダケー",
+    "work_src": "Didache",
+    "ref": "1.4",
+    "form": "μίλιον",
+    "postag": "n-s---na-",
+    "sentence": "ἐὰν ἀγγαρεύσῃ σέ τις μίλιον ἕν, ὕπαγε μετ’ αὐτοῦ δύο ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   *† μίλιον, -ου, τό,     a Roman mile (1680 yds.): Mt 5:41.†"
+}

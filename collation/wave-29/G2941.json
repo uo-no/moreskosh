@@ -1,0 +1,59 @@
+{
+ "strong": "G2941",
+ "lemma": "κυβέρνησις",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 12:28",
+   "form": "κυβερνήσεις",
+   "morph": "N-APF",
+   "gloss_en": "administrations",
+   "gloss_ja": "統治",
+   "verse": "καὶ οὓς μὲν ἔθετο ὁ θεὸς ἐν τῇ ἐκκλησίᾳ πρῶτον ἀποστόλους, δεύτερον προφήτας, τρίτον διδασκάλους, ἔπειτα δυνάμεις, ἔπειτα χαρίσματα ἰαμάτων, ἀντιλήμψεις, κυβερνήσεις, γένη γλωσσῶν."
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Proverbia": 3
+  },
+  "representatives": [
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "24.6",
+    "form": "κυβερνήσεως",
+    "postag": "n-s---fg-",
+    "sentence": "μετὰ κυβερνήσεως γίνεται πόλεμος, βοήθεια δὲ μετὰ καρδίας βουλευτικῆς."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "1.5",
+    "form": "κυβέρνησιν",
+    "postag": "n-s---fa-",
+    "sentence": "τῶνδε γὰρ ἀκούσας σοφὸς σοφώτερος ἔσται, ὁ δὲ νοήμων κυβέρνησιν κτήσεται."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "11.14",
+    "form": "κυβέρνησις",
+    "postag": "n-s---fn-",
+    "sentence": "οἷς μὴ ὑπάρχει κυβέρνησις, πίπτουσιν ὥπερ φύλλα, σωτηρία δὲ ὑπάρχει ἐν πολλῇ βουλῇ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   κυβέρνησις, -εως, ἡ    (< κυβερνάω, Lat. gubernare, to guide),   [in LXX: Pr 1:5 11:14 24:6 (תַּחְבֻּלוֹת)*;]      steering, pilotage (Plat.).     Metaph., government: pl., I Co 12:28.†"
+}

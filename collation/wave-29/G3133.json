@@ -1,0 +1,108 @@
+{
+ "strong": "G3133",
+ "lemma": "μαραίνομαι",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": "μαραινω",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JAS 1:11",
+   "form": "μαρανθήσεται",
+   "morph": "V-FPI-3S",
+   "gloss_en": "fade away",
+   "gloss_ja": "しおれる",
+   "verse": "ἀνέτειλεν γὰρ ὁ ἥλιος σὺν τῷ καύσωνι καὶ ἐξήρανεν τὸν χόρτον, καὶ τὸ ἄνθος αὐτοῦ ἐξέπεσεν καὶ ἡ εὐπρέπεια τοῦ προσώπου αὐτοῦ ἀπώλετο· οὕτως καὶ ὁ πλούσιος ἐν ταῖς πορείαις αὐτοῦ μαρανθήσεται."
+  }
+ ],
+ "lxx": {
+  "total": 4,
+  "works": {
+   "Job": 2,
+   "Sapientia Salomonis": 2
+  },
+  "representatives": [
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "15.30",
+    "form": "μαράναι",
+    "postag": "v3saoa---",
+    "sentence": "τὸν βλαστὸν αὐτοῦ μαράναι ἄνεμος, ἐκπέσοι δὲ αὐτοῦ τὸ ἄνθος."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "2.8",
+    "form": "μαρανθῆναι",
+    "postag": "v--anp---",
+    "sentence": "στεψώμεθα ρόδων κάλυξι πρὶν ἢ μαρανθῆναι."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "24.24",
+    "form": "ἐμαράνθη",
+    "postag": "v3saip---",
+    "sentence": "πολλοὺς γὰρ ἐκάκωσε τὸ ὕψωμα αὐτοῦ, ἐμαράνθη δὲ ὥσπερ μολόχη ἐν καύματι ἢ ὥσπερ στάχυς ἀπὸ καλάμης αὐτόματος ἀποπεσών."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "19.21",
+    "form": "ἐμάραναν",
+    "postag": "v3paia---",
+    "sentence": "φλόγες ἀνάπαλιν εὐφθάρτων ζῴων οὐκ ἐμάραναν σάρκας ἐμπεριπατούντων, οὐ-δὲ τηκτὸν κρυσταλλοειδὲς εὔτηκτον γένος ἀμβροσίας τροφῆς."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 4,
+  "works": {
+   "Hermas, Pastor": 4
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.1.7",
+    "form": "μεμαραμμέναι",
+    "postag": "v-prpmfn-",
+    "sentence": "εἶχον δὲ βοτάνας αἱ σχισμαί, οὐ λίαν δὲ ἦσαν εὐθαλεῖς αἱ βοτάναι, μᾶλλον δὲ ὡς μεμαραμμέναι ἦσαν."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "3.11.2",
+    "form": "μεμαραμμένον",
+    "postag": "v-srpmnn-",
+    "sentence": "ὅτι τὸ πνεῦμα ὑμῶν πρεσβύτερον καὶ ἤδη μεμαραμμένον καὶ μὴ ἔχον δύναμιν ἀπὸ τῶν μαλακιῶν ὑμῶν καὶ διψυχιῶν ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.23.1",
+    "form": "μεμαραμμένας",
+    "postag": "v-prpmfa-",
+    "sentence": "οἱ δὲ ἐκ τοῦ ὄρους τοῦ ἕκτου τοῦ ἔχοντος σχισμὰς μεγάλας καὶ μικρὰς καὶ ἐν ταῖς σχισμαῖς βοτάνας μεμαραμμένας πιστεύσαντες τοιοῦτοί εἰσιν."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.23.2",
+    "form": "μεμαραμμένοι",
+    "postag": "v-prpmmn-",
+    "sentence": "οἱ μὲν τὰς σχισμὰς τὰς μικρὰς ἔχοντες, οὗτοί εἰσιν οἱ κατ’ ἀλλήλων ἔχοντες, καὶ ἀπὸ τῶν καταλαλιῶν ἑαυτῶν μεμαραμμένοι εἰσὶν ἐν τῇ πίστει ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1 μαραίνω,    [in LXX: Jb 15:30 (יָבֵשׁ pi.), 24:24, Wi 2:8 19:21*;]  in cl.,     prop., to quench fire; pass., of fire, to die away, go out.     In various relations, to quench, waste, wear out (cf. Wi 19:21); pass., to waste away; in later writers (Plut., Luc., al.), of the withering of flowers and herbage (act., Jb 15:30; pass., Jb 24:24, Wi 2:8): Ja 1:11 (cf. ἀμάραντον).†"
+}

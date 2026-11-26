@@ -1,0 +1,50 @@
+{
+ "strong": "G3552",
+ "lemma": "νοσέω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1TI 6:4",
+   "form": "νοσῶν",
+   "morph": "V-PAP-NSM",
+   "gloss_en": "has a morbid craving",
+   "gloss_ja": "病む",
+   "verse": "τετύφωται, μηδὲν ἐπιστάμενος, ἀλλὰ νοσῶν περὶ ζητήσεις καὶ λογομαχίας, ἐξ ὧν γίνεται φθόνος, ἔρις, βλασφημίαι, ὑπόνοιαι πονηραί,"
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Sapientia Salomonis": 2
+  },
+  "representatives": [
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "17.8",
+    "form": "νοσούσης",
+    "postag": "v-sppafg-",
+    "sentence": "οἱ γὰρ ὑπισχνούμενοι δείματα καὶ ταραχὰς ἀπελαύνειν ψυχῆς νοσούσης, οὗτοι καταγέλαστον εὐλάβειαν ἐνόσουν."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "17.8",
+    "form": "ἐνόσουν",
+    "postag": "v3piia---",
+    "sentence": "οἱ γὰρ ὑπισχνούμενοι δείματα καὶ ταραχὰς ἀπελαύνειν ψυχῆς νοσούσης, οὗτοι καταγέλαστον εὐλάβειαν ἐνόσουν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ** νοσέω, -ῶ    (< νόσος),   [in LXX (metaph.): Wi 17:8*;]    to be sick: metaph., of mental ailment, seq. περί, I Ti 6:4 (cf. Plat., Mor., 546 d).†"
+}

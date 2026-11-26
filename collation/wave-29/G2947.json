@@ -1,0 +1,100 @@
+{
+ "strong": "G2947",
+ "lemma": "κυλίομαι",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": "κυλιω",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MRK 9:20",
+   "form": "ἐκυλίετο",
+   "morph": "V-IEI-3S",
+   "gloss_en": "rolled around",
+   "gloss_ja": "転がる",
+   "verse": "καὶ ἤνεγκαν αὐτὸν πρὸς αὐτόν. καὶ ἰδὼν αὐτὸν τὸ πνεῦμα εὐθὺς συνεσπάραξεν αὐτόν, καὶ πεσὼν ἐπὶ τῆς γῆς ἐκυλίετο ἀφρίζων."
+  }
+ ],
+ "lxx": {
+  "total": 5,
+  "works": {
+   "Proverbia": 2,
+   "Amos": 2,
+   "Zacharias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "26.27",
+    "form": "κυλίων",
+    "postag": "v-sppamn-",
+    "sentence": "ὁ ὀρύσσων βόθρον τῷ πλησίον ἐμπεσεῖται εἰς αὐτόν, ὁ δὲ κυλίων λίθον ἐφ’ ἑαυτὸν κυλίει."
+   },
+   {
+    "work_code": "AMO",
+    "work_ja": "アモス書",
+    "work_src": "Amos",
+    "ref": "2.13",
+    "form": "κυλίω",
+    "postag": "v1spia---",
+    "sentence": "διὰ τοῦτο ἰδοὺ ἐγὼ κυλίω ὑποκάτω ὑμῶν, ὃν τρόπον κυλίεται ἡ ἅμαξα ἡ γέμουσα καλάμης ·"
+   },
+   {
+    "work_code": "ZEC",
+    "work_ja": "ゼカリヤ書",
+    "work_src": "Zacharias",
+    "ref": "9.16",
+    "form": "κυλίονται",
+    "postag": "v3ppim---",
+    "sentence": "καὶ σώσει αὐτοὺς Κύριος ὁ Θεὸς αὐτῶν ἐν τῇ ἡμέρᾳ ἐκείνῃ, ὡς πρόβατα λαὸν αὐτοῦ, διότι λίθοι ἅγιοι κυλίονται ἐπὶ γῆς αὐτοῦ."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "26.27",
+    "form": "κυλίει",
+    "postag": "v3spia---",
+    "sentence": "ὁ ὀρύσσων βόθρον τῷ πλησίον ἐμπεσεῖται εἰς αὐτόν, ὁ δὲ κυλίων λίθον ἐφ’ ἑαυτὸν κυλίει."
+   },
+   {
+    "work_code": "AMO",
+    "work_ja": "アモス書",
+    "work_src": "Amos",
+    "ref": "2.13",
+    "form": "κυλίεται",
+    "postag": "v3spim---",
+    "sentence": "διὰ τοῦτο ἰδοὺ ἐγὼ κυλίω ὑποκάτω ὑμῶν, ὃν τρόπον κυλίεται ἡ ἅμαξα ἡ γέμουσα καλάμης ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "Hermas, Pastor": 2
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "3.7.1",
+    "form": "κυλιομένους",
+    "postag": "v-pppmma-",
+    "sentence": "τοὺς δὲ ἑτέρους λίθους, οὓς εἶδες μακρὰν ἀπὸ τοῦ πύργου ῥιπτομένους καὶ πίπτοντας εἰς τὴν ὁδὸν καὶ κυλιομένους ἐκ τῆς ὁδοῦ εἰς τὰς ἀνοδίας ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "3.2.9",
+    "form": "κυλιομένους",
+    "postag": "v-pppmma-",
+    "sentence": "ἔβλεπον δὲ ἑτέρους λίθους ῥιπτομένους μακρὰν ἀπὸ τοῦ πύργου καὶ ἐρχομένους εἰς τὴν ὁδὸν καὶ μὴ μένοντας ἐν τῇ ὁδῷ, ἀλλὰ κυλιομένους ἐκ τῆς ὁδοῦ εἰς τὴν ἀνοδίαν ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1 κυλίω late form of κυλίνδω,    [in LXX: Jos 10:18, I Ki 14:33, al.   (גּלל), IV Ki 9:33 (שׁמט), al.;]    to roll, roll along. Pass., to be rolled; of persons (in Hom, as sign of grief), to roll or wallow: Mk 9:20.†"
+}

@@ -1,0 +1,118 @@
+{
+ "strong": "G3635",
+ "lemma": "ὀκνέω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 9:38",
+   "form": "ὀκνήσῃς",
+   "morph": "V-AAS-2S",
+   "gloss_en": "delay",
+   "gloss_ja": "ためらう",
+   "verse": "ἐγγὺς δὲ οὔσης Λύδδας τῇ Ἰόππῃ οἱ μαθηταὶ ἀκούσαντες ὅτι Πέτρος ἐστὶν ἐν αὐτῇ ἀπέστειλαν δύο ἄνδρας πρὸς αὐτὸν παρακαλοῦντες· Μὴ ὀκνήσῃς διελθεῖν ἕως ἡμῶν·"
+  }
+ ],
+ "lxx": {
+  "total": 9,
+  "works": {
+   "Numeri": 1,
+   "Judices": 1,
+   "Judith": 1,
+   "Tobias": 4,
+   "Machabaeorum iv": 1,
+   "Ecclesiasticus sive Siracides": 1
+  },
+  "representatives": [
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "12.6",
+    "form": "ὀκνεῖτε",
+    "postag": "v2ppma---",
+    "sentence": "τοὺς λόγους τοῦ θεοῦ ὑποδείκνυτε πᾶσιν ἀνθρώποις ἐντίμως καὶ μὴ ὀκνεῖτε ἐξομολογεῖσθαι αὐτῷ."
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "22.16",
+    "form": "ὀκνήσῃς",
+    "postag": "v2sasa---",
+    "sentence": "ἀξιῶ σε, μὴ ὀκνήσῃς ἐλθεῖν πρός με ·"
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "18.9",
+    "form": "ὀκνήσητε",
+    "postag": "v2pasa---",
+    "sentence": "μὴ ὀκνήσητε τοῦ πορευθῆναι καὶ εἰσελθεῖν τοῦ κληρονομῆσαι τὴν γῆν."
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "12.13",
+    "form": "ὀκνησάτω",
+    "postag": "v3sama---",
+    "sentence": "μὴ ὀκνησάτω δὴ ἡ παιδίσκη ἡ καλὴ αὕτη ἐλθοῦσα πρὸς τὸν κύριόν μου δοξασθῆναι κατὰ πρόσωπον αὐτοῦ καὶ πιεῖν μεθ’ ἡμῶν εἰς εὐφροσύνην οἶνον καὶ γενηθῆναι ἐν τῇ ἡμέρᾳ ταύτῃ ὡς θυγάτηρ μία τῶν υἱῶν Ἀσσούρ, αἳ παρεστήκασιν ἐν οἴκῳ Ναβουχοδονόσορ."
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "14.4",
+    "form": "ὤκνησεν",
+    "postag": "v3saia---",
+    "sentence": "οὐδεὶς ἐκ τῶν ἑπτὰ μειρακίων ἐδειλίασεν οὐ-δὲ πρὸς τὸν θάνατον ὤκνησεν, ἀλλὰ πάντες ὥσπερ ἐπ’ ἀθανασίας ὁδὸν τρέχοντες, ἐπὶ τὸν διὰ τῶν βασάνων θάνατον ἔσπευδον."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "7.35",
+    "form": "ὄκνει",
+    "postag": "v2spma---",
+    "sentence": "μὴ ὄκνει ἐπισκέπτεσθαι ἄρρωστον, ἐκ γὰρ τῶν τοιούτων ἀγαπηθήσῃ."
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "12.13",
+    "form": "ὤκνησας",
+    "postag": "v2saia---",
+    "sentence": "καὶ ὅτε οὐκ ὤκνησας ἀναστῆναι καὶ καταλιπεῖν σου τὸ ἄριστον καὶ ᾤχου καὶ περιέστειλες τὸν νεκρόν, τότε ἀπέσταλμαι ἐπὶ σὲ πειράσαι σε."
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "12.13",
+    "form": "ὤκνησας",
+    "postag": "v2saia---",
+    "sentence": "καὶ ὅτε οὐκ ὤκνησας ἀναστῆναι καὶ καταλιπεῖν τὸ ἄριστόν σου, ὅπως ἀπελθὼν περιστείλῃς τὸν νεκρόν, οὐκ ἔλαθές με ἀγαθοποιῶν, ἀλλὰ σὺν σοὶ ἤμην."
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "12.6",
+    "form": "ὀκνεῖτε",
+    "postag": "v2ppma---",
+    "sentence": "ἀγαθὸν τὸ εὐλογεῖν τὸν Θεὸν καὶ ὑψοῦν τὸ ὄνομα αὐτοῦ, τοὺς λόγους τῶν ἔργων τοῦ Θεοῦ ἐντίμως ὑποδεικνύοντες, καὶ μὴ ὀκνεῖτε ἐξομολογεῖσθαι αὐτῷ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ὀκνέω, -ῶ    (< ὄκνος, shrinking, hesitation),   [in LXX: Nu 22:16 (מנע ni.), Jg 18:9 (עצל ni.), To 12:6, 13, Jth 12:13, Si 7:35, IV Mac 14:4*;]    to shrink from doing, hesitate to do (Hom., Thuc., al.); hence, to delay c. inf., Ac 9:38 (cf. Nu 22:16, and v. MM, xviii).†"
+}

@@ -1,0 +1,53 @@
+{
+ "strong": "G319",
+ "lemma": "ἀναγνωρίζομαι",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": "αναγνωριζω",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 7:13",
+   "form": "ἀνεγνωρίσθη",
+   "morph": "V-API-3S",
+   "gloss_en": "made ~ known",
+   "gloss_ja": "知らせる",
+   "verse": "καὶ ἐν τῷ δευτέρῳ ἀνεγνωρίσθη Ἰωσὴφ τοῖς ἀδελφοῖς αὐτοῦ, καὶ φανερὸν ἐγένετο τῷ Φαραὼ τὸ γένος Ἰωσήφ."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Genesis": 1
+  },
+  "representatives": [
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "45.1",
+    "form": "ἀνεγνωρίζετο",
+    "postag": "v3siim---",
+    "sentence": "καὶ οὐ παρειστήκει οὐδεὶς τῷ Ἰωσήφ, ἡνίκα ἀνεγνωρίζετο τοῖς ἀδελφοῖς αὐτοῦ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "1.1.1",
+    "form": "ἀνεγνωρισάμην",
+    "postag": "v1saim---",
+    "sentence": "μετὰ πολλὰ ἔτη ταύτην ἀνεγνωρισάμην καὶ ἠρξάμην αὐτὴν ἀγαπᾶν ὡς ἀδελφήν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1 ἀνα-γνωρίζω     [in LXX: Ge 45:1 (ידע hith.)*;]    to recognize: Ac 7:13 (WH, txt., ἐγνωρίσθη).†"
+}

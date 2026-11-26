@@ -1,0 +1,181 @@
+{
+ "strong": "G3456",
+ "lemma": "μυκτηρίζω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "GAL 6:7",
+   "form": "μυκτηρίζεται",
+   "morph": "V-PPI-3S",
+   "gloss_en": "mocked",
+   "gloss_ja": "嘲る",
+   "verse": "μὴ πλανᾶσθε, θεὸς οὐ μυκτηρίζεται· ὃ γὰρ ἐὰν σπείρῃ ἄνθρωπος, τοῦτο καὶ θερίσει·"
+  }
+ ],
+ "lxx": {
+  "total": 16,
+  "works": {
+   "Regnorum iii": 1,
+   "Regnorum iv": 1,
+   "Paralipomenon ii sive Chronicon ii": 1,
+   "Esdras i": 1,
+   "Machabaeorum i": 1,
+   "Psalmi": 1,
+   "Proverbia": 6,
+   "Job": 1,
+   "Isaias": 1,
+   "Jeremias": 1,
+   "Ezechiel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "11.12",
+    "form": "μυκτηρίζει",
+    "postag": "v3spia---",
+    "sentence": "μυκτηρίζει πολίτας ἐνδεὴς φρενῶν, ἀνὴρ δὲ φρόνιμος ἡσυχίαν ἄγει."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "18.27",
+    "form": "ἐμυκτήρισεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἐγένετο μεσημβρία καὶ ἐμυκτήρισεν αὐτοὺς Ἠλιοὺ ὁ Θεσβίτης καὶ εἶπεν ·"
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "19.21",
+    "form": "ἐμυκτήρισέ",
+    "postag": "v3saia---",
+    "sentence": "ἐξουδένωσέ σε καὶ ἐμυκτήρισέ σε παρθένος θυγάτηρ Σιών, ἐπὶ σοὶ κεφαλὴν αὐτῆς ἐκίνησε θυγάτηρ Ἱερουσαλήμ."
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "36.16",
+    "form": "μυκτηρίζοντες",
+    "postag": "v-pppamn-",
+    "sentence": "καὶ ἦσαν μυκτηρίζοντες τοὺς ἀγγέλους αὐτοῦ καὶ ἐξουθενοῦντες τοὺς λόγους αὐτοῦ καὶ ἐμπαίζοντες ἐν τοῖς προφήταις αὐτοῦ, ἕως ἀνέβη ὁ θυμὸς Κυρίου ἐν τῷ λαῷ αὐτοῦ, ἕως οὐκ ἦν ἴαμα."
+   },
+   {
+    "work_code": "1ES",
+    "work_ja": "エズラ記（ギリシャ語）",
+    "work_src": "Esdras i",
+    "ref": "1.49",
+    "form": "ἐμυκτήρισαν",
+    "postag": "v3paia---",
+    "sentence": "αὐτοὶ δὲ ἐμυκτήρισαν ἐν τοῖς ἀγγέλοις αὐτοῦ καὶ ᾗ ἡμέρᾳ ἐλάλησε Κύριος ἦσαν ἐκπαίζοντες τοὺς προφήτας αὐτοῦ, ἕως οὗ θυμωθέντα αὐτὸν ἐπὶ τῷ ἔθνει αὐτοῦ διὰ τὰ δυσσεβήματα προστάξαι ἀναβιβάσαι ἐπ’ αὐτοὺς τοὺς βασιλεῖς τῶν Χαλδαίων."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "7.34",
+    "form": "ἐμυκτήρισεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἐμυκτήρισεν αὐτοὺς καὶ κατεγέλασεν αὐτῶν καὶ ἐμίανεν αὐτοὺς καὶ ἐλάλησεν ὑπερηφάνως ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "79.7",
+    "form": "ἐμυκτήρισαν",
+    "postag": "v3paia---",
+    "sentence": "ἔθου ἡμᾶς εἰς ἀντιλογίαν τοῖς γείτοσιν ἡμῶν, καὶ οἱ ἐχθροὶ ἡμῶν ἐμυκτήρισαν ἡμᾶς."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "22.19",
+    "form": "ἐμυκτήρισεν",
+    "postag": "v3saia---",
+    "sentence": "ἰδόντες δίκαιοι ἐγέλασαν, ἄμεμπτος δὲ ἐμυκτήρισεν."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "37.22",
+    "form": "ἐμυκτήρισέ",
+    "postag": "v3saia---",
+    "sentence": "ἐφαύλισέ σε καὶ ἐμυκτήρισέ σε παρθένος θυγάτηρ Σιών, ἐπὶ σοὶ κεφαλὴν ἐκίνησε θυγάτηρ Ἱερουσαλήμ."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "20.7",
+    "form": "μυκτηριζόμενος",
+    "postag": "v-sppmmn-",
+    "sentence": "ἐγενόμην εἰς γέλωτα, πᾶσαν ἡμέραν διετέλεσα μυκτηριζόμενος ·"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "8.17",
+    "form": "μυκτηρίζοντες",
+    "postag": "v-pppamn-",
+    "sentence": "διότι ἔπλησαν τὴν γῆν ἀνομίας, καὶ ἰδοὺ αὐτοὶ ὡς μυκτηρίζοντες."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "12.8",
+    "form": "μυκτηρίζεται",
+    "postag": "v3spim---",
+    "sentence": "στόμα συνετοῦ ἐγκωμιάζεται ὑπὸ ἀνδρός, νωθροκάρδιος δὲ μυκτηρίζεται."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 3,
+  "works": {
+   "1 Clement": 2,
+   "Polycarp, To the Philippians": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "57.5",
+    "form": "ἐμυκτήριζον",
+    "postag": "v3piia---",
+    "sentence": "ἐμίσησαν γὰρ σοφίαν, τὸν δὲ φόβον τοῦ κυρίου οὐ προείλαντο, οὐ-δὲ ἤθελον ἐμαῖς προσέχειν βουλαῖς, ἐμυκτήριζον δὲ ἐμοὺς ἐλέγχους."
+   },
+   {
+    "work_code": "PPH",
+    "work_ja": "ポリュカルポスのピリピ書簡",
+    "work_src": "Polycarp, To the Philippians",
+    "ref": "5.1",
+    "form": "μυκτηρίζεται",
+    "postag": "v3spim---",
+    "sentence": "εἰδότες, οὖν, ὅτι θεὸς οὐ μυκτηρίζεται, ὀφείλομεν ἀξίως τῆς ἐντολῆς αὐτοῦ καὶ δόξης περιπατεῖν."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "39.1",
+    "form": "μυκτηρίζουσιν",
+    "postag": "v3ppia---",
+    "sentence": "ἅφρονες καὶ ἀσύνετοι καὶ μωροὶ καὶ ἀπαίδευτοι χλευάζουσιν ἡμᾶς καὶ μυκτηρίζουσιν, ἑαυτοὺς βουλόμενοι ἐπαίρεσθαι ταῖς διανοίαις αὐτῶν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   μυκτηρίζω    (< μυκτήρ, the nose),   [in LXX: IV Ki 19:21, Jb 22:19, Ps 79 (80):6, al. (לעג), Pr 1:30 (נאץ) Pr 15:20 (בּזה), I Mac 7:34, al.;]    to turn up the nose or sneer at, mock: pass., Ga 6:7 (cf. ἐκ-μυκτηρίζω).†"
+}

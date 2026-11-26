@@ -1,0 +1,51 @@
+{
+ "strong": "G3118",
+ "lemma": "μακροχρόνιος",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "EPH 6:3",
+   "form": "μακροχρόνιος",
+   "morph": "A-NSM",
+   "gloss_en": "long life",
+   "gloss_ja": "長命の",
+   "verse": "ἵνα εὖ σοι γένηται καὶ ἔσῃ μακροχρόνιος ἐπὶ τῆς γῆς."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Exodus": 1,
+   "Deuteronomium": 1
+  },
+  "representatives": [
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "20.12",
+    "form": "μακροχρόνιος",
+    "postag": "a-s---mn-",
+    "sentence": "τίμα τὸν πατέρα σου καὶ τὴν μητέρα σου, ἵνα εὖ σοι γένηται, καὶ ἵνα μακροχρόνιος γένῃ ἐπὶ τῆς γῆς τῆς ἀγαθῆς, ἧς Κύριος ὁ Θεός σου δίδωσί σοι."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "5.16",
+    "form": "μακροχρόνιος",
+    "postag": "a-s---mn-",
+    "sentence": "τίμα τὸν πατέρα σου καὶ τὴν μητέρα σου, ὃν τρόπον ἐνετείλατό σοι Κύριος ὁ Θεός σου, ἵνα εὖ σοι γένηται καὶ ἵνα μακροχρόνιος γένῃ ἐπὶ τῆς γῆς, ἧς Κύριος ὁ Θεός σου δίδωσί σοι."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   μακρο-χρόνιος, -ον    (μακρός, χρόνος),   [in LXX. μ. γίγνεσθαι, εἶναι (יָמִים הַאֲרִיךְ), Ex 20:12, De 4:40 5:16 17:20*;]    of long duration, longlived: Eph 6:3(LXX).†"
+}

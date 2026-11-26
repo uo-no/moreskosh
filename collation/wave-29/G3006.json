@@ -1,0 +1,89 @@
+{
+ "strong": "G3006",
+ "lemma": "λεῖος",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 3:5",
+   "form": "λείας",
+   "morph": "A-APF",
+   "gloss_en": "smooth",
+   "gloss_ja": "なめらかな",
+   "verse": "πᾶσα φάραγξ πληρωθήσεται καὶ πᾶν ὄρος καὶ βουνὸς ταπεινωθήσεται, καὶ ἔσται τὰ σκολιὰ εἰς εὐθείαν καὶ αἱ τραχεῖαι εἰς ὁδοὺς λείας·"
+  }
+ ],
+ "lxx": {
+  "total": 6,
+  "works": {
+   "Genesis": 1,
+   "Regnorum i": 1,
+   "Proverbia": 3,
+   "Isaias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "26.23",
+    "form": "λεῖα",
+    "postag": "a-p---nn-",
+    "sentence": "χείλη λεῖα καρδίαν καλύπτει λυπηράν."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "27.11",
+    "form": "λεῖος",
+    "postag": "a-s---mn-",
+    "sentence": "ἔστιν Ἡσαῦ ὁ ἀδελφός μου ἀνὴρ δασύς, ἐγὼ δὲ ἀνὴρ λεῖος ·"
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "17.40",
+    "form": "λείους",
+    "postag": "a-p---ma-",
+    "sentence": "καὶ ἔλαβε τὴν βακτηρίαν αὐτοῦ ἐν τῇ χειρὶ αὐτοῦ καὶ ἐξελέξατο ἑαυτῷ πέντε λίθους λείους ἐκ τοῦ χειμάρρου καὶ ἔθετο αὐτοὺς ἐν τῷ καδίῳ τῷ ποιμαινικῷ τῷ ὄντι αὐτῷ εἰς συλλογὴ καὶ σφενδόνην αὐτοῦ ἐν τῇ χειρὶ αὐτοῦ καὶ προσῆλθε πρὸς τὸν ἄνδρα τὸν ἀλλόφυλον."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "40.4",
+    "form": "λείας",
+    "postag": "a-p---fa-",
+    "sentence": "πᾶσα φάραγξ πληρωθήσεται καὶ πᾶν ὄρος καὶ βουνὸς ταπεινωθήσεται, καὶ ἔσται πάντα τὰ σκολιὰ εἰς εὐθεῖαν καὶ ἡ τραχεῖα εἰς ὁδοὺς λείας ·"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "12.13α",
+    "form": "λεῖα",
+    "postag": "a-p---na-",
+    "sentence": "ὁ βλέπων λεῖα ἐλεηθήσεται, ὁ δὲ συναντῶν ἐν πύλαις ἐκθλίψει ψυχάς."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "2.20",
+    "form": "λείας",
+    "postag": "a-p---fa-",
+    "sentence": "εἰ γὰρ ἐπορεύοντο τρίβους ἀγαθάς, εὕροσαν ἂν τρίβους δικαιοσύνης λείας."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   λεῖος, -εία, -εῖον,    [in LXX: Ge 27:11, I Ki 17:40 R (חָלָק, חַלּוּק); ὁδὸς λ., Is 40:4 Α (בִּקְעָה); Pr 2:20 12:13 26:23*;]    smooth: opp. to τραχύς, Lk 3:5(LXX).†"
+}
