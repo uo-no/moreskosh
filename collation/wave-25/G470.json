@@ -1,0 +1,58 @@
+{
+ "strong": "G470",
+ "lemma": "ἀνταποκρίνομαι",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 14:6",
+   "form": "ἀνταποκριθῆναι",
+   "morph": "V-AON",
+   "gloss_en": "reply",
+   "gloss_ja": "言い返す",
+   "verse": "καὶ οὐκ ἴσχυσαν ἀνταποκριθῆναι πρὸς ταῦτα."
+  },
+  {
+   "ref": "ROM 9:20",
+   "form": "ἀνταποκρινόμενος",
+   "morph": "V-PNP-NSM",
+   "gloss_en": "talk back",
+   "gloss_ja": "言い返す",
+   "verse": "ὦ ἄνθρωπε, μενοῦνγε σὺ τίς εἶ ὁ ἀνταποκρινόμενος τῷ θεῷ; μὴ ἐρεῖ τὸ πλάσμα τῷ πλάσαντι Τί με ἐποίησας οὕτως;"
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Job": 2
+  },
+  "representatives": [
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "16.8",
+    "form": "ἀνταπεκρίθη",
+    "postag": "v3saip---",
+    "sentence": "καὶ ἀνέστη ἐν ἐμοὶ τὸ ψεῦδός μου, κατὰ πρόσωπόν μου ἀνταπεκρίθη."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "32.12",
+    "form": "ἀνταποκρινόμενος",
+    "postag": "v-sppmmn-",
+    "sentence": "καὶ ἰδοὺ οὐκ ἦν τῷ Ἰὼβ ἐλέγχων ἀνταποκρινόμενος ρήματα αὐτοῦ ἐξ ὑμῶν, ἵνα μὴ εἴπητε ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   † ἀντ-απο-κρίνομαι    (ἀντί, ἀποκρίνω),   [in LXX: Jg 5:29, Jb 16:9 (8) 32:12 (ענה)*;]    to answer again, reply against: seq. πρός, c. acc. rei, Lk 14:6; c. dat. pers., Ro 9:20.†"
+}

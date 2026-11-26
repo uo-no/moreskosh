@@ -1,0 +1,89 @@
+{
+ "strong": "G4980",
+ "lemma": "σχολάζω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 7:5",
+   "form": "σχολάσητε",
+   "morph": "V-AAS-2P",
+   "gloss_en": "devote",
+   "gloss_ja": "余暇がある",
+   "verse": "μὴ ἀποστερεῖτε ἀλλήλους, εἰ μήτι ἂν ἐκ συμφώνου πρὸς καιρὸν ἵνα σχολάσητε τῇ προσευχῇ καὶ πάλιν ἐπὶ τὸ αὐτὸ ἦτε, ἵνα μὴ πειράζῃ ὑμᾶς ὁ Σατανᾶς διὰ τὴν ἀκρασίαν ὑμῶν."
+  },
+  {
+   "ref": "MAT 12:44",
+   "form": "σχολάζοντα",
+   "morph": "V-PAP-ASM",
+   "gloss_en": "empty",
+   "gloss_ja": "余暇がある",
+   "verse": "τότε λέγει· Εἰς τὸν οἶκόν μου ἐπιστρέψω ὅθεν ἐξῆλθον· καὶ ἐλθὸν εὑρίσκει σχολάζοντα σεσαρωμένον καὶ κεκοσμημένον."
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Exodus": 2,
+   "Psalmi": 1
+  },
+  "representatives": [
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "5.8",
+    "form": "σχολάζουσι",
+    "postag": "v3ppia---",
+    "sentence": "σχολάζουσι γάρ ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "45.11",
+    "form": "σχολάσατε",
+    "postag": "v2pama---",
+    "sentence": "σχολάσατε καὶ γνῶτε ὅτι ἐγώ εἰμι ὁ Θεός ·"
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "5.17",
+    "form": "σχολάζετε",
+    "postag": "v2ppma---",
+    "sentence": "σχολάζετε, σχολασταί ἐστε ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "Ignatius, Letters": 2
+  },
+  "representatives": [
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "7.7.3",
+    "form": "σχολάζει",
+    "postag": "v3spia---",
+    "sentence": "Χριστιανὸς ἑαυτοῦ ἐξουσίαν οὐκ ἔχει, ἀλλὰ θεῷ σχολάζει."
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "7.1.3",
+    "form": "σχόλαζε",
+    "postag": "v2spma---",
+    "sentence": "προσευχαῖς σχόλαζε ἀδιαλείπτοις ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2 σχολάζω    (< σχολή),    [in LXX: Ex 5:8, 17, Ps 45 (46):10 (רפה ni., hi.) * ;]     to be at leisure,  hence, to have time or opportunity for, to devote oneself to, be occupied in: I Co 7:5; of things, to be unoccupied, empty (Plut., Eur., al.): οἶκος, Mt 12:44, Lk 11:25 (T [WH], R, om.).†"
+}

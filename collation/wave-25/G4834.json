@@ -1,0 +1,70 @@
+{
+ "strong": "G4834",
+ "lemma": "συμπαθέω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "HEB 10:34",
+   "form": "συνεπαθήσατε",
+   "morph": "V-AAI-2P",
+   "gloss_en": "had compassion",
+   "gloss_ja": "共に苦しむ",
+   "verse": "καὶ γὰρ τοῖς δεσμίοις συνεπαθήσατε, καὶ τὴν ἁρπαγὴν τῶν ὑπαρχόντων ὑμῶν μετὰ χαρᾶς προσεδέξασθε, γινώσκοντες ἔχειν ἑαυτοὺς κρείττονα ὕπαρξιν καὶ μένουσαν."
+  },
+  {
+   "ref": "HEB 4:15",
+   "form": "συμπαθῆσαι",
+   "morph": "V-AAN",
+   "gloss_en": "sympathize with",
+   "gloss_ja": "共に苦しむ",
+   "verse": "οὐ γὰρ ἔχομεν ἀρχιερέα μὴ δυνάμενον συμπαθῆσαι ταῖς ἀσθενείαις ἡμῶν, πεπειρασμένον δὲ κατὰ πάντα καθ’ ὁμοιότητα χωρὶς ἁμαρτίας."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Machabaeorum iv": 1
+  },
+  "representatives": [
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "5.25",
+    "form": "συμπαθεῖ",
+    "postag": "v3spia---",
+    "sentence": "πιστεύοντες γὰρ Θεοῦ καθεστάναι τὸν νόμον οἴδαμεν ὅτι κατὰ φύσιν ἡμῖν συμπαθεῖ νομοθετῶν ὁ τοῦ κόσμου κτίστης ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "Ignatius, Letters": 2
+  },
+  "representatives": [
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "4.6.3",
+    "form": "συμπαθείτω",
+    "postag": "v3spma---",
+    "sentence": "εἴ τις αὐτὸν ἐν ἑαυτῷ ἔχει, νοησάτω ὃ θέλω, καὶ συμπαθείτω μοι εἰδὼς τὰ συνέχοντά με."
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "6.4.2",
+    "form": "συμπαθεῖν",
+    "postag": "v--pna---",
+    "sentence": "μόνον ἐν τῷ ὀνόματι Ἰησοῦ Χριστοῦ εἰς τὸ συμπαθεῖν αὐτῷ πάντα ὑπομένω, αὐτοῦ με ἐνδυναμοῦντος τοῦ τελείου ἀνθρώπου."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2 ** συν-παθέω    (Rec. συμπ-), -ῶ,    [in LXX: IV Mac 5:25 AR 13:23 * ;]     to have a fellow feeling for or with, sympathize with or in: c. dat. rei, He 4:15; dat. pers., ib. 10:34 (Arist., Plut., al.).†"
+}

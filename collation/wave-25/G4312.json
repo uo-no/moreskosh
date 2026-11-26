@@ -1,0 +1,80 @@
+{
+ "strong": "G4312",
+ "lemma": "προπετής",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2TI 3:4",
+   "form": "προπετεῖς",
+   "morph": "A-NPM",
+   "gloss_en": "reckless",
+   "gloss_ja": "向こう見ずな",
+   "verse": "προδόται, προπετεῖς, τετυφωμένοι, φιλήδονοι μᾶλλον ἢ φιλόθεοι,"
+  },
+  {
+   "ref": "ACT 19:36",
+   "form": "προπετὲς",
+   "morph": "A-ASN",
+   "gloss_en": "rash",
+   "gloss_ja": "向こう見ずな",
+   "verse": "ἀναντιρρήτων οὖν ὄντων τούτων δέον ἐστὶν ὑμᾶς κατεσταλμένους ὑπάρχειν καὶ μηδὲν προπετὲς πράσσειν."
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Proverbia": 2,
+   "Ecclesiasticus sive Siracides": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "10.14",
+    "form": "προπετοῦς",
+    "postag": "a-s---ng-",
+    "sentence": "σοφοὶ κρύψουσιν αἴσθησιν, στόμα δὲ προπετοῦς ἐγγίζει συντριβῇ."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "9.18",
+    "form": "προπετὴς",
+    "postag": "a-s---mn-",
+    "sentence": "φοβερὸς ἐν πόλει αὐτοῦ ἀνὴρ γλωσσώδης, καὶ ὁ προπετὴς ἐν λόγῳ αὐτοῦ μισηθήσεται."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "13.3",
+    "form": "προπετὴς",
+    "postag": "a-s---mn-",
+    "sentence": "ὃς φυλάσσει τὸ ἑαυτοῦ στόμα, τηρεῖ τὴν ἑαυτοῦ ψυχήν, ὁ δὲ προπετὴς χείλεσι πτοήσει ἑαυτόν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "1 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "1.1",
+    "form": "προπετῆ",
+    "postag": "a-p---nn-",
+    "sentence": "διὰ τὰς αἰφνιδίους καὶ ἐπαλλήλους γενομένας ἡμῖν συμφορὰς καὶ περιπτώσεις, βράδιον νομίζομεν ἐπιστροφὴν πεποιῆσθαι περὶ τῶν ἐπιζητουμένων παρ’ ὑμῖν πραγμάτων, ἀγαπητοί, τῆς τε ἀλλοτρίας καὶ ξένης τοῖς ἐκλεκτοῖς τοῦ θεοῦ, μιαρᾶς καὶ ἀνοσίου στάσεως ἣν ὀλίγα πρόσωπα προπετῆ καὶ αὐθάδη ὑπάρχοντα εἰς τοσοῦτον ἀπονοίας ἐξέκαυσαν, ὥστε τὸ σεμνὸν καὶ περιβόητον καὶ πᾶσιν ἀνθρώποις ἀξιαγάπητον ὄνομα ὑμῶν μεγάλως βλασφημηθῆναι."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   προπετής, -ές    (< προπίπτω),   [in LXX: Pr 10:14 (אֱוִיל) 13:3 (פֹּשׂק) Si 9:18*;]    falling forwards, headlong. Metaph., precipitate, rash, reckless: of persons, II Ti 3:4; of things, Ac 19:36.†"
+}

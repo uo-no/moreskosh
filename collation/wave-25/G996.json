@@ -1,0 +1,166 @@
+{
+ "strong": "G996",
+ "lemma": "βοήθεια",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 27:17",
+   "form": "βοηθείαις",
+   "morph": "N-DPF",
+   "gloss_en": "supports",
+   "gloss_ja": "助け",
+   "verse": "ἣν ἄραντες βοηθείαις ἐχρῶντο ὑποζωννύντες τὸ πλοῖον· φοβούμενοί τε μὴ εἰς τὴν Σύρτιν ἐκπέσωσιν, χαλάσαντες τὸ σκεῦος, οὕτως ἐφέροντο."
+  },
+  {
+   "ref": "HEB 4:16",
+   "form": "βοήθειαν",
+   "morph": "N-ASF",
+   "gloss_en": "help",
+   "gloss_ja": "助け",
+   "verse": "προσερχώμεθα οὖν μετὰ παρρησίας τῷ θρόνῳ τῆς χάριτος, ἵνα λάβωμεν ἔλεος καὶ χάριν εὕρωμεν εἰς εὔκαιρον βοήθειαν."
+  }
+ ],
+ "lxx": {
+  "total": 68,
+  "works": {
+   "Judices": 2,
+   "Regnorum ii": 1,
+   "Paralipomenon i sive Chronicon i": 1,
+   "Paralipomenon ii sive Chronicon ii": 1,
+   "Esther": 1,
+   "Judith": 3,
+   "Machabaeorum i": 8,
+   "Machabaeorum ii": 8,
+   "Machabaeorum iii": 1,
+   "Psalmi": 17,
+   "Proverbia": 3,
+   "Job": 2,
+   "Sapientia Salomonis": 1,
+   "Ecclesiasticus sive Siracides": 4,
+   "Psalmi Salomonis": 2,
+   "Isaias": 7,
+   "Jeremias": 3,
+   "Threni seu Lamentationes": 2,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "69.2",
+    "form": "βοήθειάν",
+    "postag": "n-s---fa-",
+    "sentence": "ὁ θεὸς, εἰς τὴν βοήθειάν μου πρόσχες ·"
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "10.24",
+    "form": "βοήθειαν",
+    "postag": "n-s---fa-",
+    "sentence": "γράψω αὐτοῖς κα-κἀγὼ λόγους παρακλήσεως καὶ ὕψους καὶ δογμάτων, ὅπως ὦσι σὺν ἐμοὶ εἰς βοήθειαν."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "15.35",
+    "form": "βοηθείας",
+    "postag": "n-s---fg-",
+    "sentence": "ἐξέδησε δὲ τὴν τοῦ Νικάνορος κεφαλὴν ἐκ τῆς ἄκρας ἐπίδηλον πᾶσι καὶ φανερὸν τῆς τοῦ Κυρίου βοηθείας σημεῖον."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "47.15",
+    "form": "βοήθεια",
+    "postag": "n-s---fn-",
+    "sentence": "οὗτοι ἔσονταί σοι βοήθεια, ἐκοπίασας ἐν τῇ μεταβολῇ ἐκ νεότητος, ἄνθρωπος καθ’ ἑαυτὸν ἐπλανήθη, σοὶ δὲ οὐκ ἔσται σωτηρία."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "40.24",
+    "form": "βοήθεια",
+    "postag": "n-s---fn-",
+    "sentence": "ἀδελφοὶ καὶ βοήθεια εἰς καιρὸν θλίψεως, καὶ ὑπὲρ ἀμφότερα ἐλεημοσύνη ρύσεται."
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "7.31",
+    "form": "βοήθεια",
+    "postag": "n-s---fn-",
+    "sentence": "ἐὰν δὲ διέλθωσιν αὗται καὶ μὴ ἔλθῃ ἐφ’ ἡμᾶς βοήθεια, ποιήσω κατὰ τὰ ρήματα ὑμῶν."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "21.31",
+    "form": "βοήθεια",
+    "postag": "n-s---fn-",
+    "sentence": "ἵππος ἑτοιμάζεται εἰς ἡμέραν πολέμου, παρὰ δὲ Κυρίου ἡ βοήθεια."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "16.19",
+    "form": "βοήθειά",
+    "postag": "n-s---fn-",
+    "sentence": "Κύριε, σὺ ἰσχύς μου καὶ βοήθειά μου καὶ καταφυγή μου ἐν ἡμέρᾳ κακῶν ·"
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "5.23",
+    "form": "βοήθειαν",
+    "postag": "n-s---fa-",
+    "sentence": "καταρᾶσθε Μηρώζ, εἶπεν ἄγγελος Κυρίου, καταρᾶσθε, ἐπικατάρατος πᾶς ὁ κατοικῶν αὐτήν, ὅτι οὐκ ἤλθοσαν εἰς βοήθειαν Κυρίου, εἰς βοήθειαν ἐν δυνατοῖς."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "6.13",
+    "form": "βοήθεια",
+    "postag": "n-s---fn-",
+    "sentence": "βοήθεια δὲ ἀπ’ ἐμοῦ ἄπεστιν."
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "15.1",
+    "form": "βοήθειαν",
+    "postag": "n-s---fa-",
+    "sentence": "ἐν τῷ θλίβεσθαί με ἐπεκαλεσάμην τὸ ὄνομα κυρίου, εἰς βοήθειαν ἤλπισα τοῦ θεοῦ Ιακωβ καὶ ἐσώθην ·"
+   },
+   {
+    "work_code": "LAM",
+    "work_ja": "哀歌",
+    "work_src": "Threni seu Lamentationes",
+    "ref": "3.57",
+    "form": "βοήθειάν",
+    "postag": "n-s---fa-",
+    "sentence": "εἰς τὴν βοήθειάν μου ἤγγισας ἐν ἡμέρᾳ, ᾗ ἐπεκαλεσάμην σε ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   βοήθεια, -ας, ἡ (v.s. βοηθέω),     [in LXX for עֵזֶר, etc. ;]    help: He 4:16; pl., helps, \"frapping,\" a technical nautical term (MM, Exp., x; DB, ext., 367): Ac 27:17.†"
+}

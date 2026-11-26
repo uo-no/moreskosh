@@ -1,0 +1,49 @@
+{
+ "strong": "G5575",
+ "lemma": "ψευδόμαρτυς",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 15:15",
+   "form": "ψευδομάρτυρες",
+   "morph": "N-NPM",
+   "gloss_en": "false witnesses",
+   "gloss_ja": "偽証人",
+   "verse": "εὑρισκόμεθα δὲ καὶ ψευδομάρτυρες τοῦ θεοῦ, ὅτι ἐμαρτυρήσαμεν κατὰ τοῦ θεοῦ ὅτι ἤγειρεν τὸν Χριστόν, ὃν οὐκ ἤγειρεν εἴπερ ἄρα νεκροὶ οὐκ ἐγείρονται."
+  },
+  {
+   "ref": "MAT 26:60",
+   "form": "ψευδομαρτύρων",
+   "morph": "N-GPM",
+   "gloss_en": "false witnesses",
+   "gloss_ja": "偽証人",
+   "verse": "καὶ οὐχ εὗρον πολλῶν προσελθόντων ψευδομαρτύρων. ὕστερον δὲ προσελθόντες δύο"
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Susanna": 1
+  },
+  "representatives": [
+   {
+    "work_code": "SUS",
+    "work_ja": "スザンナ（Th）",
+    "work_src": "Susanna",
+    "ref": "60",
+    "form": "ψευδομάρτυρας",
+    "postag": "n-p---ma-",
+    "sentence": "καὶ πᾶσα ἡ συναγωγὴ ἀνεβόησεν ἐπὶ τῷ νεωτέρῳ, ὡς ἐκ τοῦ ἰδίου στόματος ὁμολόγους αὐτοὺς κατέστησεν ἀμφοτέρους ψευδομάρτυρας ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2 **† ψευδο-μάρτυς, -υρος, ὁ     [in LXX: Da LXX Su 60, TH ib. 61 Bl * ;]    a false witness: Mt 26:60; c. gen. obj. (v. WM, § 30, 1a), I Co 15:15.†"
+}

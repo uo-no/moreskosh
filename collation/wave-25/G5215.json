@@ -1,0 +1,159 @@
+{
+ "strong": "G5215",
+ "lemma": "ὕμνος",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "COL 3:16",
+   "form": "ὕμνοις",
+   "morph": "N-DPM",
+   "gloss_en": "hymns",
+   "gloss_ja": "賛美歌",
+   "verse": "ὁ λόγος τοῦ Χριστοῦ ἐνοικείτω ἐν ὑμῖν πλουσίως ἐν πάσῃ σοφίᾳ· διδάσκοντες καὶ νουθετοῦντες ἑαυτοὺς ψαλμοῖς, ὕμνοις, ᾠδαῖς πνευματικαῖς ἐν χάριτι, ᾄδοντες ἐν ταῖς καρδίαις ὑμῶν τῷ θεῷ·"
+  },
+  {
+   "ref": "EPH 5:19",
+   "form": "ὕμνοις",
+   "morph": "N-DPM",
+   "gloss_en": "hymns",
+   "gloss_ja": "賛美歌",
+   "verse": "λαλοῦντες ἑαυτοῖς ψαλμοῖς καὶ ὕμνοις καὶ ᾠδαῖς πνευματικαῖς, ᾄδοντες καὶ ψάλλοντες τῇ καρδίᾳ ὑμῶν τῷ κυρίῳ,"
+  }
+ ],
+ "lxx": {
+  "total": 34,
+  "works": {
+   "Paralipomenon ii sive Chronicon ii": 1,
+   "Esdras i": 1,
+   "Esdras ii": 2,
+   "Judith": 2,
+   "Machabaeorum i": 2,
+   "Machabaeorum ii": 4,
+   "Machabaeorum iii": 1,
+   "Machabaeorum iv": 1,
+   "Psalmi": 13,
+   "Odae": 2,
+   "Psalmi Salomonis": 4,
+   "Isaias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "53.1",
+    "form": "ὕμνοις",
+    "postag": "n-p---md-",
+    "sentence": "εἰς τὸ τέλος, ἐν ὕμνοις ·"
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "1.30",
+    "form": "ὕμνους",
+    "postag": "n-p---ma-",
+    "sentence": "οἱ δὲ ἱερεῖς ἐπέψαλλον τοὺς ὕμνους."
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "3.1",
+    "form": "ὕμνον",
+    "postag": "n-s---ma-",
+    "sentence": "ὕμνον καινὸν ψάλατε τῷ θεῷ τῷ αἰνετῷ."
+   },
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "22.46",
+    "form": "ὕμνον",
+    "postag": "n-s---ma-",
+    "sentence": "ὅτι ἐν ἡμέραις Δαυὶδ Ἀσὰφ ἀπ’ ἀρχῆς πρῶτος τῶν ᾀδόντων καὶ ὕμνον καὶ αἴνεσιν τῷ Θεῷ."
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "15.13",
+    "form": "ὕμνων",
+    "postag": "n-p---mg-",
+    "sentence": "καὶ ἐστεφανώσαντο τὴν ἐλαίαν, αὐτὴ καὶ αἱ μετ’ αὐτῆς, καὶ προῆλθε παντὸς τοῦ λαοῦ ἐν χορείᾳ ἡγουμένη πασῶν τῶν γυναικῶν, καὶ ἠκολούθει πᾶς ἀνὴρ Ἰσραὴλ ἐνωπλισμένοι μετὰ στεφάνων καὶ ὕμνων ἐν τῷ στόματι αὐτῶν."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "4.33",
+    "form": "ὕμνοις",
+    "postag": "n-p---md-",
+    "sentence": "κατάβαλε αὐτοὺς ρομφαίᾳ ἀγαπώντων σε, καὶ αἰνεσάτωσάν σε πάντες οἱ εἰδότες τὸ ὄνομά σου ἐν ὕμνοις."
+   },
+   {
+    "work_code": "ODE",
+    "work_ja": "頌歌（オード）",
+    "work_src": "Odae",
+    "ref": "",
+    "form": "ὕμνος",
+    "postag": "n-s---mn-",
+    "sentence": "ὕμνος ἑωθινός."
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "7.6",
+    "form": "ὕμνοις",
+    "postag": "n-p---md-",
+    "sentence": "καὶ οἱ ἱερεῖς ἐπὶ τὰς φυλακὰς αὐτῶν ἑστηκότες, καὶ οἱ Λευῖται ἐν ὀργάνοις ᾠδῶν Κυρίου τοῦ Δαυὶδ τοῦ βασιλέως τοῦ ἐξομολογεῖσθαι ἔναντι Κυρίου, ὅτι εἰς τὸν αἰῶνα τὸ ἔλεος αὐτοῦ, ἐν ὕμνοις Δαυὶδ διὰ χειρὸς αὐτῶν, καὶ οἱ ἱερεῖς σαλπίζοντες ταῖς σάλπιγξιν ἐναντίον αὐτῶν, καὶ πᾶς Ἰσραὴλ ἑστηκώς."
+   },
+   {
+    "work_code": "1ES",
+    "work_ja": "エズラ記（ギリシャ語）",
+    "work_src": "Esdras i",
+    "ref": "5.58",
+    "form": "ὕμνων",
+    "postag": "n-p---mg-",
+    "sentence": "καὶ ᾠκοδόμησαν οἱ οἰκοδόμοι τὸν ναὸν τοῦ Κυρίου, καὶ ἔστησαν οἱ ἱερεῖς ἐστολισμένοι μετὰ μουσικῶν καὶ σαλπίγγων καὶ οἱ Λευῖται υἱοὶ Ἀσὰφ ἔχοντες τὰ κύμβαλα ὑμνοῦντες τῷ Κυρίῳ καὶ εὐλογοῦντες κατὰ Δαυὶδ βασιλέα τοῦ Ἰσραὴλ καὶ ἐφώνησαν δι’ ὕμνων εὐλογοῦντες τῷ Κυρίῳ, ὅτι ἡ χρηστότης αὐτοῦ καὶ ἡ δόξα εἰς τοὺς αἰῶνας ἐν παντὶ Ἰσραήλ."
+   },
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "7.16",
+    "form": "ὕμνοις",
+    "postag": "n-p---md-",
+    "sentence": "αὐτοὶ δὲ οἱ μέχρι θανάτου τὸν Θεὸν ἐσχηκότες, παντελῆ σωτηρίας ἀπόλαυσιν εἰληφότες, ἀνέζευξαν ἐκ τῆς πόλεως παντοίοις εὐωδεστάτοις ἄνθεσι κατεστεμμένοι μετ’ εὐφροσύνης καὶ βοῆς, ἐν αἴνοις καὶ παμμελέσιν ὕμνοις εὐχαριστοῦντες τῷ Θεῷ τῶν πατέρων αὐτῶν αἰωνίῳ σωτῆρι τοῦ Ἰσραήλ."
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "10.21",
+    "form": "ὕμνων",
+    "postag": "n-p---mg-",
+    "sentence": "σὲ δὲ ταχέως μετελεύσεται ὁ Θεός, τὴν γὰρ τῶν θείων ὕμνων μελῳδὸν γλῶτταν ἐκτέμνεις."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "42.10",
+    "form": "ὕμνον",
+    "postag": "n-s---ma-",
+    "sentence": "ὑμνήσατε τῷ Κυρίῳ ὕμνον καινόν, ἡ ἀρχὴ αὐτοῦ ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2 ὕμνος, -ου, ὁ     [in LXX for תְּהִלָּה, נְגִינָה, שִׁיר, etc. ;]     a hymn;     in cl. a festal song in praise of gods or heroes;      in LXX and NT a song of praise addressed to God: Eph 5:19, Col 3:16.†          SYN.: ψαλμός, that which is sung to a musical accompaniment; ᾠδή, the generic term for song (cf. Tr., Syn., § lxxviii, Lft. on Col 3:16)"
+}

@@ -1,0 +1,59 @@
+{
+ "strong": "G5353",
+ "lemma": "φθόγγος",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 14:7",
+   "form": "φθόγγοις",
+   "morph": "N-DPM",
+   "gloss_en": "notes",
+   "gloss_ja": "音",
+   "verse": "ὅμως τὰ ἄψυχα φωνὴν διδόντα, εἴτε αὐλὸς εἴτε κιθάρα, ἐὰν διαστολὴν τοῖς φθόγγοις μὴ δῷ, πῶς γνωσθήσεται τὸ αὐλούμενον ἢ τὸ κιθαριζόμενον;"
+  },
+  {
+   "ref": "ROM 10:18",
+   "form": "φθόγγος",
+   "morph": "N-NSM",
+   "gloss_en": "voice",
+   "gloss_ja": "音",
+   "verse": "Ἀλλὰ λέγω, μὴ οὐκ ἤκουσαν; μενοῦνγε· Εἰς πᾶσαν τὴν γῆν ἐξῆλθεν ὁ φθόγγος αὐτῶν, καὶ εἰς τὰ πέρατα τῆς οἰκουμένης τὰ ῥήματα αὐτῶν."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Psalmi": 1,
+   "Sapientia Salomonis": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "18.5",
+    "form": "φθόγγος",
+    "postag": "n-s---mn-",
+    "sentence": "εἰς πᾶσαν τὴν γῆν ἐξῆλθεν ὁ φθόγγος αὐτῶν καὶ εἰς τὰ πέρατα τῆς οἰκουμένης τὰ ρήματα αὐτῶν."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "19.18",
+    "form": "φθόγγοι",
+    "postag": "n-p---mn-",
+    "sentence": "δι’ ἑαυτῶν γὰρ τὰ στοιχεῖα μεθαρμοζόμενα, ὥσπερ ἐν ψαλτηρίῳ φθόγγοι τοῦ ρυθμοῦ τὸ ὄνομα διαλλάσσουσι, πάντοτε μένοντα ἤχῳ, ὅπερ ἐστὶν εἰκάσαι ἐκ τῆς τῶν γεγονότων ὄψεως ἀκριβῶς."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2 φθόγγος, -ου, ὁ    (< φθέγγομαι),    [in LXX: Ps 18 (19):4 (קַו), Wi 19:18 * ;]     a sound: Ro 10:18 (LXX) I Co 14:7.†"
+}

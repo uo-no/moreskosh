@@ -1,0 +1,61 @@
+{
+ "strong": "G5487",
+ "lemma": "χαριτόω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "EPH 1:6",
+   "form": "ἐχαρίτωσεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "freely bestowed",
+   "gloss_ja": "恵みを与える",
+   "verse": "εἰς ἔπαινον δόξης τῆς χάριτος αὐτοῦ ἧς ἐχαρίτωσεν ἡμᾶς ἐν τῷ ἠγαπημένῳ,"
+  },
+  {
+   "ref": "LUK 1:28",
+   "form": "κεχαριτωμένη",
+   "morph": "V-RPP-NSF",
+   "gloss_en": "favored",
+   "gloss_ja": "恵みを与える",
+   "verse": "καὶ εἰσελθὼν πρὸς αὐτὴν εἶπεν· Χαῖρε, κεχαριτωμένη, ὁ κύριος μετὰ σοῦ."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Ecclesiasticus sive Siracides": 1
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "18.17",
+    "form": "κεχαριτωμένῳ",
+    "postag": "v-srpmmd-",
+    "sentence": "καὶ ἀμφότερα παρὰ ἀνδρὶ κεχαριτωμένῳ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.24.3",
+    "form": "ἐχαρίτωσεν",
+    "postag": "v3saia---",
+    "sentence": "ὁ οὖν κύριος ἰδὼν τὴν ἁπλότητα αὐτῶν καὶ πᾶσαν νηπιότητα ἐπλήθυνεν αὐτοὺς ἐν τοῖς κόποις τῶν χειρῶν αὐτῶν καὶ ἐχαρίτωσεν αὐτοὺς ἐν πάσῃ πράξει αὐτῶν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2 † χαριτόω, -ῶ    (< χάρις),    [in LXX: Si 18:17 (ἀνδρί κεχαριτωμένῳ; Vg., justificato; Syr., saintly) * ;]     to endow with χάρις (q.v.), i.e.    (a) to make graceful;    to make gracious (Si, l.c.).      In Hellenistic writings (for exx., v. AR, Eph., 227; Lft., Notes, 315),    to cause to find favour;        to endue with grace (i.e. divine favour): Lk 1:28, Eph 1:6.†"
+}

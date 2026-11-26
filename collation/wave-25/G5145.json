@@ -1,0 +1,193 @@
+{
+ "strong": "G5145",
+ "lemma": "τριακόσιοι",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JHN 12:5",
+   "form": "τριακοσίων",
+   "morph": "A-GPM",
+   "gloss_en": "three hundred",
+   "gloss_ja": "三百",
+   "verse": "Διὰ τί τοῦτο τὸ μύρον οὐκ ἐπράθη τριακοσίων δηναρίων καὶ ἐδόθη πτωχοῖς;"
+  },
+  {
+   "ref": "MRK 14:5",
+   "form": "τριακοσίων",
+   "morph": "A-GPN",
+   "gloss_en": "three hundred",
+   "gloss_ja": "三百",
+   "verse": "ἠδύνατο γὰρ τοῦτο τὸ μύρον πραθῆναι ἐπάνω δηναρίων τριακοσίων καὶ δοθῆναι τοῖς πτωχοῖς· καὶ ἐνεβριμῶντο αὐτῇ."
+  }
+ ],
+ "lxx": {
+  "total": 83,
+  "works": {
+   "Genesis": 8,
+   "Numeri": 6,
+   "Judices": 8,
+   "Regnorum i": 1,
+   "Regnorum ii": 3,
+   "Regnorum iii": 6,
+   "Regnorum iv": 1,
+   "Paralipomenon i sive Chronicon i": 2,
+   "Paralipomenon ii sive Chronicon ii": 9,
+   "Esdras i": 8,
+   "Esdras ii": 18,
+   "Esther": 1,
+   "Machabaeorum i": 2,
+   "Machabaeorum ii": 5,
+   "Machabaeorum iii": 1,
+   "Daniel": 4
+  },
+  "representatives": [
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "17.35",
+    "form": "τριακόσιοι",
+    "postag": "m-p---mn-",
+    "sentence": "υἱοὶ Ἠρὰμ τριακόσιοι εἴκοσι ·"
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "9.16",
+    "form": "τριακοσίας",
+    "postag": "m-p---fa-",
+    "sentence": "καὶ τριακοσίας ἀσπίδας ἐλατὰς χρυσᾶς, τριακοσίων χρυσῶν ἀνεφέρετο ἐπὶ τὴν ἀσπίδα ἑκάστην ·"
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "9.28",
+    "form": "τριακόσια",
+    "postag": "m-p---na-",
+    "sentence": "ἔζησε δὲ Νῶε μετὰ τὸν κατακλυσμὸν τριακόσια πεντήκοντα ἔτη."
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "7.7",
+    "form": "τριακοσίοις",
+    "postag": "m-p---md-",
+    "sentence": "ἐν τοῖς τριακοσίοις ἀνδράσι τοῖς λάψασι σώσω ὑμᾶς καὶ δώσω τὴν Μαδιὰμ ἐν χειρί σου, καὶ πᾶς ὁ λαὸς πορεύσονται ἀνὴρ εἰς τόν τόπον αὐτοῦ."
+   },
+   {
+    "work_code": "1ES",
+    "work_ja": "エズラ記（ギリシャ語）",
+    "work_src": "Esdras i",
+    "ref": "1.8",
+    "form": "τριακοσίους",
+    "postag": "m-p---ma-",
+    "sentence": "καὶ ἔδωκε Χελκίας καὶ Ζαχαρίας καὶ Ἡσκῆλος οἱ ἐπιστάται τοῦ ἱεροῦ τοῖς ἱερεῦσιν εἰς πάσχα πρόβατα δισχίλια ἑξακόσια, μόσχους τριακοσίους."
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "31.36",
+    "form": "τριακόσιαι",
+    "postag": "m-p---fn-",
+    "sentence": "καὶ ἐγενήθη τὸ ἡμίσευμα ἡ μερὶς τῶν ἐκπεπορευμένων εἰς τὸν πόλεμον ἐκ τοῦ ἀριθμοῦ τῶν προβάτων τριακόσιαι καὶ τριάκοντα χιλιάδες καὶ ἑπτακισχίλια καὶ πεντακόσια."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "10.16",
+    "form": "τριακόσια",
+    "postag": "m-p---na-",
+    "sentence": "καὶ ἐποίησε Σαλωμὼν τριακόσια δόρατα χρυσᾶ ἐλατά."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "4.24",
+    "form": "τριακόσια",
+    "postag": "m-p---na-",
+    "sentence": "ὁ δὲ συσταθεὶς τῷ βασιλεῖ καὶ δοξάσας αὐτὸν τῷ προσώπῳ τῆς ἐξουσίας, εἰς ἑαυτὸν κατήντησε τὴν ἀρχιερωσύνην, ὑπερβαλὼν τὸν Ἰάσωνα τάλαντα ἀργυρίου τριακόσια."
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "12.12",
+    "form": "τριακοσίας",
+    "postag": "m-p---fa-",
+    "sentence": "μακάριος ὁ ἐμμένων καὶ συνάξει εἰς ἡμέρας χιλίας τριακοσίας τριάκοντα πέντε."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "21.16",
+    "form": "τριακοσίων",
+    "postag": "m-p---mg-",
+    "sentence": "καὶ Ἰεσβί, ὃς ἦν ἐν τοῖς ἐκγόνοις τοῦ Ῥαφὰ καὶ ὁ σταθμὸς τοῦ δόρατος αὐτοῦ τριακοσίων σίκλων ὁλκὴ χαλκοῦ καὶ αὐτὸς περιεζωσμένος κορύνην, καὶ διενοεῖτο τοῦ πατάξαι τὸν Δαυίδ."
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "11.11",
+    "form": "τριακοσίους",
+    "postag": "m-p---ma-",
+    "sentence": "οὗτος ἐσπάσατο τὴν ρομφαίαν αὐτοῦ ἅπαξ ἐπὶ τριακοσίους τραυματίας ἐν καιρῷ ἑνί."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "8.15",
+    "form": "τριακόσιοι",
+    "postag": "m-p---mn-",
+    "sentence": "καὶ βουλευτήριον ἐποίησαν ἑαυτοῖς, καὶ καθ’ ἡμέραν ἐβουλεύοντο τριακόσιοι καὶ εἴκοσι βουλευόμενοι διαπαντὸς περὶ τοῦ πλήθους τοῦ εὐκοσμεῖν αὐτούς ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 3,
+  "works": {
+   "Barnabas": 3
+  },
+  "representatives": [
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "9.8",
+    "form": "τριακοσίους",
+    "postag": "m-p---ma-",
+    "sentence": "καὶ περιέτεμεν Ἀβραὰμ ἐκ τοῦ οἴκου αὐτοῦ ἄνδρας δεκαοκτὼ καὶ τριακοσίους."
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "9.8",
+    "form": "τριακοσίους",
+    "postag": "m-p---ma-",
+    "sentence": "μάθετε, ὅτι τοὺς δεκαοκτὼ πρώτους, καὶ διάστημα ποιήσας λέγει τριακοσίους."
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "9.8",
+    "form": "τριακοσίους",
+    "postag": "m-p---ma-",
+    "sentence": "ὅτι δὲ ὁ σταυρὸς ἐν τῷ ταῦ ἤμελλεν ἔχειν τὴν χάριν, λέγει καὶ τοὺς τριακοσίους."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2 τριακόσιοι, -αι, -α    three hundred: Mk 14:5, Jo 12:5.†"
+}

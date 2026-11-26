@@ -1,0 +1,69 @@
+{
+ "strong": "G4841",
+ "lemma": "συμπάσχω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 12:26",
+   "form": "συμπάσχει",
+   "morph": "V-PAI-3S",
+   "gloss_en": "suffer together",
+   "gloss_ja": "共に苦しむ",
+   "verse": "καὶ εἴτε πάσχει ἓν μέλος, συμπάσχει πάντα τὰ μέλη· εἴτε δοξάζεται μέλος, συγχαίρει πάντα τὰ μέλη."
+  },
+  {
+   "ref": "ROM 8:17",
+   "form": "συμπάσχομεν",
+   "morph": "V-PAI-1P",
+   "gloss_en": "suffer with",
+   "gloss_ja": "共に苦しむ",
+   "verse": "εἰ δὲ τέκνα, καὶ κληρονόμοι· κληρονόμοι μὲν θεοῦ, συγκληρονόμοι δὲ Χριστοῦ, εἴπερ συμπάσχομεν ἵνα καὶ συνδοξασθῶμεν."
+  }
+ ],
+ "lxx": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "fathers": {
+  "total": 3,
+  "works": {
+   "2 Clement": 1,
+   "Ignatius, Letters": 1,
+   "Polycarp, To the Philippians": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "4.3",
+    "form": "συμπάσχειν",
+    "postag": "v--pna---",
+    "sentence": "καὶ συμπάσχειν ἀλλήλοις ὀφείλομεν, καὶ μὴ φιλαργυρεῖν."
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "7.6.1",
+    "form": "συμπάσχετε",
+    "postag": "v2ppma---",
+    "sentence": "συγκοπιᾶτε ἀλλήλοις, συναθλεῖτε, συντρέχετε, συμπάσχετε, συγκοιμᾶσθε."
+   },
+   {
+    "work_code": "PPH",
+    "work_ja": "ポリュカルポスのピリピ書簡",
+    "work_src": "Polycarp, To the Philippians",
+    "ref": "9.2",
+    "form": "συνέπαθον",
+    "postag": "v3paia---",
+    "sentence": "πεπεισμένους ὅτι οὗτοι πάντες οὐκ εἰς κενὸν ἔδραμον, ἀλλ’ ἐν πίστει καὶ δικαιοσύνῃ, καὶ ὅτι εἰς τὸν ὀφειλόμενον αὐτοῖς τόπον εἰσὶ παρὰ τῷ κυρίῳ, ᾧ καὶ συνέπαθον."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2 ** συν-πάσχω    (Rec. συμπ-),    [in Al.: I Ki 22:8 * ;]    to suffer together or with: Ro 8:17, I Co 12:26.    to sympathize with (Plat., Arist.).†"
+}

@@ -1,0 +1,79 @@
+{
+ "strong": "G4878",
+ "lemma": "συναντιλαμβάνομαι",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": "συναντιλαμβανω",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 10:40",
+   "form": "συναντιλάβηται",
+   "morph": "V-2ADS-3S",
+   "gloss_en": "help",
+   "gloss_ja": "助ける",
+   "verse": "ἡ δὲ Μάρθα περιεσπᾶτο περὶ πολλὴν διακονίαν· ἐπιστᾶσα δὲ εἶπεν· Κύριε, οὐ μέλει σοι ὅτι ἡ ἀδελφή μου μόνην με κατέλειπεν διακονεῖν; εἰπὲ οὖν αὐτῇ ἵνα μοι συναντιλάβηται."
+  },
+  {
+   "ref": "ROM 8:26",
+   "form": "συναντιλαμβάνεται",
+   "morph": "V-PNI-3S",
+   "gloss_en": "helps",
+   "gloss_ja": "助ける",
+   "verse": "Ὡσαύτως δὲ καὶ τὸ πνεῦμα συναντιλαμβάνεται τῇ ἀσθενείᾳ ἡμῶν· τὸ γὰρ τί προσευξώμεθα καθὸ δεῖ οὐκ οἴδαμεν, ἀλλὰ αὐτὸ τὸ πνεῦμα ὑπερεντυγχάνει στεναγμοῖς ἀλαλήτοις,"
+  }
+ ],
+ "lxx": {
+  "total": 4,
+  "works": {
+   "Genesis": 1,
+   "Exodus": 1,
+   "Numeri": 1,
+   "Psalmi": 1
+  },
+  "representatives": [
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "30.8",
+    "form": "συναντελάβετό",
+    "postag": "v3saim---",
+    "sentence": "συναντελάβετό μου ὁ Θεός, καὶ συνανεστράφην τῇ ἀδελφῇ μου καὶ ἠδυνάσθην ·"
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "18.22",
+    "form": "συναντιλήψονταί",
+    "postag": "v3pfim---",
+    "sentence": "τὸ δὲ ρῆμα τὸ ὑπέρογκον ἀνοίσουσιν ἐπὶ σέ, τὰ δὲ βραχέα τῶν κριμάτων κρινοῦσιν αὐτοὶ καὶ κουφιοῦσιν ἀπὸ σοῦ καὶ συναντιλήψονταί σοι."
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "11.17",
+    "form": "συναντιλήψονται",
+    "postag": "v3pfim---",
+    "sentence": "καὶ καταβήσομαι καὶ λαλήσω ἐκεῖ μετὰ σοῦ καὶ ἀφελῶ ἀπὸ τοῦ πνεύματος τοῦ ἐπὶ σοὶ καὶ ἐπιθήσω ἐπ’ αὐτούς, καὶ συναντιλήψονται μετὰ σοῦ τὴν ὁρμὴν τοῦ λαοῦ, καὶ οὐκ οἴσεις αὐτοὺς σὺ μόνος."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "88.22",
+    "form": "συναντιλήψεται",
+    "postag": "v3sfim---",
+    "sentence": "ἡ γὰρ χείρ μου συναντιλήψεται αὐτῷ καὶ ὁ βραχίων μου κατισχύσει αὐτόν ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2 † συν-αντι-λαμβάνομαι     [in LXX: Ge 30:8 R (†), Ex 18:22, Nu 11:17 (נשׂא), Ps 88 (89):21 (כּוּן ni.) * ;]     to take hold with at the side for assistance; hence, to take a share in, help in bearing, and generally, help (with various constructions, v. LXX, ll. c., Deiss., LAE, 83 f.): c. dat., Lk 10:40, Ro 8:26.†"
+}

@@ -1,0 +1,68 @@
+{
+ "strong": "G761",
+ "lemma": "ἀσάλευτος",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 27:41",
+   "form": "ἀσάλευτος",
+   "morph": "A-NSF",
+   "gloss_en": "immovable",
+   "gloss_ja": "揺るがない",
+   "verse": "περιπεσόντες δὲ εἰς τόπον διθάλασσον ἐπέκειλαν τὴν ναῦν, καὶ ἡ μὲν πρῷρα ἐρείσασα ἔμεινεν ἀσάλευτος, ἡ δὲ πρύμνα ἐλύετο ὑπὸ τῆς βίας."
+  },
+  {
+   "ref": "HEB 12:28",
+   "form": "ἀσάλευτον",
+   "morph": "A-ASF",
+   "gloss_en": "cannot be shaken",
+   "gloss_ja": "揺るがない",
+   "verse": "διὸ βασιλείαν ἀσάλευτον παραλαμβάνοντες ἔχωμεν χάριν, δι’ ἧς λατρεύωμεν εὐαρέστως τῷ θεῷ μετὰ εὐλαβείας καὶ δέους,"
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Exodus": 1,
+   "Deuteronomium": 2
+  },
+  "representatives": [
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "6.8",
+    "form": "ἀσάλευτον",
+    "postag": "a-s---nn-",
+    "sentence": "καὶ ἀφάψεις αὐτὰ εἰς σημεῖον ἐπὶ τῆς χειρός σου, καὶ ἔσται ἀσάλευτον πρὸ ὀφθαλμῶν σου ·"
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "13.16",
+    "form": "ἀσάλευτον",
+    "postag": "a-s---nn-",
+    "sentence": "καὶ ἔσται εἰς σημεῖον ἐπὶ τῆς χειρός σου καὶ ἀσάλευτον πρὸ ὀφθαλμῶν σου ·"
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "11.18",
+    "form": "ἀσάλευτον",
+    "postag": "a-s---nn-",
+    "sentence": "καὶ ἀφάψετε αὐτὰ εἰς σημεῖον ἐπὶ τῆς χειρὸς ὑμῶν, καὶ ἔσται ἀσάλευτον πρὸ ὀφθαλμῶν ὑμῶν ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   ἀ-σάλευτος, -ον    (< σαλεύω),   [in LXX: Ex 13:16, De 6:8 11:18 (טוֹטָפָוֹת)*;]    unmoved, immovable: Ac 27:41; metaph., He 12:28.†"
+}

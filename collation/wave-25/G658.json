@@ -1,0 +1,98 @@
+{
+ "strong": "G658",
+ "lemma": "ἀποτελέω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JAS 1:15",
+   "form": "ἀποτελεσθεῖσα",
+   "morph": "V-APP-NSF",
+   "gloss_en": "fully grown",
+   "gloss_ja": "熟する",
+   "verse": "εἶτα ἡ ἐπιθυμία συλλαβοῦσα τίκτει ἁμαρτίαν, ἡ δὲ ἁμαρτία ἀποτελεσθεῖσα ἀποκύει θάνατον."
+  },
+  {
+   "ref": "LUK 13:32",
+   "form": "ἀποτελῶ",
+   "morph": "V-PAI-1S",
+   "gloss_en": "performing",
+   "gloss_ja": "完成する",
+   "verse": "καὶ εἶπεν αὐτοῖς· Πορευθέντες εἴπατε τῇ ἀλώπεκι ταύτῃ· Ἰδοὺ ἐκβάλλω δαιμόνια καὶ ἰάσεις ἀποτελῶ σήμερον καὶ αὔριον, καὶ τῇ τρίτῃ τελειοῦμαι."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Esdras i": 1,
+   "Machabaeorum ii": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1ES",
+    "work_ja": "エズラ記（ギリシャ語）",
+    "work_src": "Esdras i",
+    "ref": "5.70",
+    "form": "ἀποτελεσθῆναι",
+    "postag": "v--anp---",
+    "sentence": "καὶ βουλὰς δημαγωγοῦντες καὶ συστάσεις ποιούμενοι ἀπεκώλυσαν τοῦ ἀποτελεσθῆναι τὴν οἰκοδομὴν πάντα τὸν χρόνον τῆς ζωῆς τοῦ βασιλέως Κύρου."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "15.39",
+    "form": "ἀποτελεῖ",
+    "postag": "v3spia---",
+    "sentence": "ὃν δὲ τρόπον οἶνος ὕδατι συγκερασθεὶς ἡδὺς καὶ ἐπιτερπῆ τὴν χάριν ἀποτελεῖ, οὕτω καὶ τὸ τῆς κατασκευῆς τοῦ λόγου τέρπει τὰς ἀκοὰς τῶν ἐντυγχανόντων τῇ συντάξει."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 4,
+  "works": {
+   "Hermas, Pastor": 4
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.5.1",
+    "form": "ἀπετελέσθη",
+    "postag": "v3saip---",
+    "sentence": "καὶ ἐτελέσθη τῇ ἡμέρᾳ ἐκείνῃ ἡ οἰκοδομή, οὐκ ἀπετελέσθη δὲ ὁ πύργος ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.26.6",
+    "form": "ἀποτελεσθῆναι",
+    "postag": "v--anp---",
+    "sentence": "εἴ τις οὖν μέλλει μετανοεῖν, ταχινὸς γενέσθω πρὶν τὸν πύργον ἀποτελεσθῆναι ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "2.4.2",
+    "form": "ἀποτελέσω",
+    "postag": "v1sasa---",
+    "sentence": "ὅταν οὖν ἀποτελέσω τὰ ῥήματα πάντα, διὰ σοῦ γνωρισθήσεται τοῖς ἐκλεκτοῖς πᾶσιν."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.5.2",
+    "form": "ἀποτελεσθῆναι",
+    "postag": "v--anp---",
+    "sentence": "οὔπω, φησί, δύναται ἀποτελεσθῆναι ὁ πύργος, ἐὰν μὴ ἔλθῃ ὁ κύριος αὐτοῦ καὶ δοκιμάσῃ τὴν οἰκοδομὴν ταύτην, ἵνα, ἐάν τινες λίθοι σαπροὶ εὑρεθῶσιν, ἀλλάξῃ αὐτούς ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   ** ἀπο-τελέω, -ῶ     [in LXX: I Es 5:73, I Mac 15:39*;]    to bring to an end, complete, accomplish (cf. MM, s.v.): Lk 13:32, Ja 1:15.†"
+}

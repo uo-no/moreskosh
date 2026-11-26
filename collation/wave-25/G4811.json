@@ -1,0 +1,126 @@
+{
+ "strong": "G4811",
+ "lemma": "συκοφαντέω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 19:8",
+   "form": "ἐσυκοφάντησα",
+   "morph": "V-AAI-1S",
+   "gloss_en": "defrauded",
+   "gloss_ja": "ゆすり取る",
+   "verse": "σταθεὶς δὲ Ζακχαῖος εἶπεν πρὸς τὸν κύριον· Ἰδοὺ τὰ ἡμίσιά μου τῶν ὑπαρχόντων, κύριε, τοῖς πτωχοῖς δίδωμι, καὶ εἴ τινός τι ἐσυκοφάντησα ἀποδίδωμι τετραπλοῦν."
+  },
+  {
+   "ref": "LUK 3:14",
+   "form": "συκοφαντήσητε",
+   "morph": "V-AAS-2P",
+   "gloss_en": "false accusation",
+   "gloss_ja": "ゆすり取る",
+   "verse": "ἐπηρώτων δὲ αὐτὸν καὶ στρατευόμενοι λέγοντες· Τί ποιήσωμεν καὶ ἡμεῖς; καὶ εἶπεν αὐτοῖς· Μηδένα διασείσητε μηδὲ συκοφαντήσητε, καὶ ἀρκεῖσθε τοῖς ὀψωνίοις ὑμῶν."
+  }
+ ],
+ "lxx": {
+  "total": 9,
+  "works": {
+   "Genesis": 1,
+   "Leviticus": 1,
+   "Psalmi": 1,
+   "Proverbia": 3,
+   "Ecclesiastes": 2,
+   "Job": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "28.3",
+    "form": "συκοφαντεῖ",
+    "postag": "v3spia---",
+    "sentence": "ἀνδρεῖος ἐν ἀσεβείαις συκοφαντεῖ πτωχούς."
+   },
+   {
+    "work_code": "ECC",
+    "work_ja": "コヘレトの言葉",
+    "work_src": "Ecclesiastes",
+    "ref": "4.1",
+    "form": "συκοφαντουμένων",
+    "postag": "v-pppmmg-",
+    "sentence": "καὶ ἰδοὺ δάκρυον τῶν συκοφαντουμένων, καὶ οὐκ ἔστιν αὐτοῖς παρακαλῶν, καὶ ἀπὸ χειρὸς συκοφαντούντων αὐτοῖς ἰσχύς, καὶ οὐκ ἔστιν αὐτοῖς παρακαλῶν."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "43.17",
+    "form": "συκοφαντῆσαι",
+    "postag": "v--ana---",
+    "sentence": "διὰ τὸ ἀργύριον τὸ ἀποστραφὲν ἐν τοῖς μαρσίπποις ἡμῶν τὴν ἀρχὴν ἡμεῖς εἰσαγόμεθα τοῦ συκοφαντῆσαι ἡμᾶς καὶ ἐπιθέσθαι ἡμῖν τοῦ λαβεῖν ἡμᾶς εἰς παῖδας καὶ τοὺς ὄνους ἡμῶν."
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "19.11",
+    "form": "συκοφαντήσει",
+    "postag": "v3sfia---",
+    "sentence": "οὐ κλέψετε, οὐ ψεύσεσθε, οὐ-δὲ συκοφαντήσει ἕκαστος τὸν πλησίον."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "118.122",
+    "form": "συκοφαντησάτωσάν",
+    "postag": "v3pama---",
+    "sentence": "μὴ συκοφαντησάτωσάν με ὑπερήφανοι."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "35.9",
+    "form": "συκοφαντούμενοι",
+    "postag": "v-pppmmn-",
+    "sentence": "ἀπὸ πλήθους συκοφαντούμενοι κεκράξονται, βοήσονται ἀπὸ βραχίονος πολλῶν."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "22.16",
+    "form": "συκοφαντῶν",
+    "postag": "v-sppamn-",
+    "sentence": "ὁ συκοφαντῶν πένητα πολλὰ ποιεῖ τὰ ἑαυτοῦ ·"
+   },
+   {
+    "work_code": "ECC",
+    "work_ja": "コヘレトの言葉",
+    "work_src": "Ecclesiastes",
+    "ref": "4.1",
+    "form": "συκοφαντούντων",
+    "postag": "v-pppamg-",
+    "sentence": "καὶ ἰδοὺ δάκρυον τῶν συκοφαντουμένων, καὶ οὐκ ἔστιν αὐτοῖς παρακαλῶν, καὶ ἀπὸ χειρὸς συκοφαντούντων αὐτοῖς ἰσχύς, καὶ οὐκ ἔστιν αὐτοῖς παρακαλῶν."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "14.31",
+    "form": "συκοφαντῶν",
+    "postag": "v-sppamn-",
+    "sentence": "ὁ συκοφαντῶν πένητα παροξύνει τὸν ποιήσαντα αὐτόν, ὁ δὲ τιμῶν αὐτὸν ἐλεεῖ πτωχόν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2 συκοφαντέω, -ῶ    (< σῦκον, φαίνω),    [in LXX: Ge 43:18 (גּלל hithpo.), Le 19:11 (שׁקר pi.), Jb 35:9, Ps 118 (119):122, Pr 14:31 22:16 28:3, Ec 4:1 (עשׁק) *;]     to act the συκοφάντης (on conjectures as to the origin of the term, v. LS, s.v.), to accuse falsely (Aristoph., Xen., al.): Lk 3:14 (R, mg.) 19:8 (RV, exact wrongfully; but cf. Hatch, Essays, 89 ff., v. also Field, Notes, 56 f.; MM, xxiv).†"
+}

@@ -1,0 +1,128 @@
+{
+ "strong": "G5031",
+ "lemma": "ταχινός",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2PE 2:1",
+   "form": "ταχινὴν",
+   "morph": "A-ASF",
+   "gloss_en": "swift",
+   "gloss_ja": "やがて来る",
+   "verse": "Ἐγένοντο δὲ καὶ ψευδοπροφῆται ἐν τῷ λαῷ, ὡς καὶ ἐν ὑμῖν ἔσονται ψευδοδιδάσκαλοι, οἵτινες παρεισάξουσιν αἱρέσεις ἀπωλείας, καὶ τὸν ἀγοράσαντα αὐτοὺς δεσπότην ἀρνούμενοι, ἐπάγοντες ἑαυτοῖς ταχινὴν ἀπώλειαν·"
+  },
+  {
+   "ref": "2PE 1:14",
+   "form": "ταχινή",
+   "morph": "A-NSF",
+   "gloss_en": "soon",
+   "gloss_ja": "やがて来る",
+   "verse": "εἰδὼς ὅτι ταχινή ἐστιν ἡ ἀπόθεσις τοῦ σκηνώματός μου, καθὼς καὶ ὁ κύριος ἡμῶν Ἰησοῦς Χριστὸς ἐδήλωσέν μοι·"
+  }
+ ],
+ "lxx": {
+  "total": 6,
+  "works": {
+   "Proverbia": 1,
+   "Sapientia Salomonis": 1,
+   "Ecclesiasticus sive Siracides": 2,
+   "Habacuc": 1,
+   "Isaias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "11.22",
+    "form": "ταχινῇ",
+    "postag": "a-s---fd-",
+    "sentence": "εὐλογία Κυρίου ἐν μισθῷ εὐσεβοῦς, καὶ ἐν ὥρᾳ ταχινῇ ἀναθάλλει εὐλογίαν αὐτοῦ."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "1.16",
+    "form": "ταχινοὶ",
+    "postag": "a-p---mn-",
+    "sentence": "οἱ γὰρ πόδες αὐτῶν εἰς κακίαν τρέχουσι καὶ ταχινοὶ τοῦ ἐκχέαι αἷμα ·"
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "13.2",
+    "form": "ταχινὸν",
+    "postag": "a-s---ma-",
+    "sentence": "ἀλλ’ ἢ πῦρ ἢ πνεῦμα ἢ ταχινὸν ἀέρα ἢ κύκλον ἄστρων ἢ βίαιον ὕδωρ ἢ φωστῆρας οὐρανοῦ πρυτάνεις κόσμου θεοὺς ἐνόμισαν."
+   },
+   {
+    "work_code": "HAB",
+    "work_ja": "ハバクク書",
+    "work_src": "Habacuc",
+    "ref": "1.6",
+    "form": "ταχινόν",
+    "postag": "a-s---na-",
+    "sentence": "διότι ἰδοὺ ἐγὼ ἐξεγείρω ἐφ’ ὑμᾶς τοὺς Χαλδαίους τοὺς μαχητάς, τὸ ἔθνος τὸ πικρὸν καὶ τὸ ταχινόν, τὸ πορευόμενον ἐπὶ τὰ πλάτη τῆς γῆς τοῦ κατακληρονομῆσαι σκηνώματα οὐκ αὐτοῦ."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "59.7",
+    "form": "ταχινοὶ",
+    "postag": "a-p---mn-",
+    "sentence": "οἱ δὲ πόδες αὐτῶν ἐπὶ πονηρίαν τρέχουσι, ταχινοὶ ἐκχέαι αἷμα ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "18.26",
+    "form": "ταχινὰ",
+    "postag": "a-p---nn-",
+    "sentence": "ἀπὸ πρωΐθεν ἕως ἑσπέρας μεταβάλλει καιρός, καὶ πάντα ἐστὶ ταχινὰ ἔναντι Κυρίου."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 3,
+  "works": {
+   "Hermas, Pastor": 3
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.26.6",
+    "form": "ταχινὸς",
+    "postag": "a-s---mn-",
+    "sentence": "εἴ τις οὖν μέλλει μετανοεῖν, ταχινὸς γενέσθω πρὶν τὸν πύργον ἀποτελεσθῆναι ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.20.4",
+    "form": "ταχινὴ",
+    "postag": "a-s---fn-",
+    "sentence": "ἀλλὰ τούτοις πᾶσι μετάνοιά ἐστι, ταχινὴ δέ, ἵν’ ὃ τοῖς προτέροις χρόνοις οὐκ εἰργάσαντο νῦν ἀναδράμωσιν ταῖς ἡμέραις καὶ ἀγαθόν τι ποιήσωσιν."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "25.9.4",
+    "form": "ταχινὴ",
+    "postag": "a-s---fn-",
+    "sentence": "ἀλλ’ ἡ μετάνοια αὐτῶν ταχινὴ ὀφείλει εἶναι, ἵνα ἡ κατοικία αὐτῶν γένηται εἰς τὸν πύργον τῶν δὲ μὴ μετανοούντων, ἀλλ’ ἐπιμενόντων ταῖς ἡδοναῖς, ὁ θάνατος ἐγγύς."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2 ταχινός, -ή, -όν     [in LXX: Pr 1:16, Hb 1:6, Is 59:7 (מָהַר), Wi 13:2, Si 11:22 18:26 * ;]    poët. and late for ταχύς, swift: of swift approach, II Pe 1:14 2:1.†"
+}

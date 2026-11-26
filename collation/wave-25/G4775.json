@@ -1,0 +1,59 @@
+{
+ "strong": "G4775",
+ "lemma": "συγκάθημαι",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 26:30",
+   "form": "συγκαθήμενοι",
+   "morph": "V-PNP-NPM",
+   "gloss_en": "sitting with",
+   "gloss_ja": "共に座る",
+   "verse": "Ἀνέστη τε ὁ βασιλεὺς καὶ ὁ ἡγεμὼν ἥ τε Βερνίκη καὶ οἱ συγκαθήμενοι αὐτοῖς,"
+  },
+  {
+   "ref": "MRK 14:54",
+   "form": "συγκαθήμενος",
+   "morph": "V-PNP-NSM",
+   "gloss_en": "sitting",
+   "gloss_ja": "共に座る",
+   "verse": "καὶ ὁ Πέτρος ἀπὸ μακρόθεν ἠκολούθησεν αὐτῷ ἕως ἔσω εἰς τὴν αὐλὴν τοῦ ἀρχιερέως καὶ ἦν συγκαθήμενος μετὰ τῶν ὑπηρετῶν καὶ θερμαινόμενος πρὸς τὸ φῶς."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Psalmi": 1,
+   "Psalmi Salomonis": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "100.6",
+    "form": "συγκαθῆσθαι",
+    "postag": "v--rnm---",
+    "sentence": "οἱ ὀφθαλμοί μου ἐπὶ τοὺς πιστοὺς τῆς γῆς τοῦ συγκαθῆσθαι αὐτοὺς μετ’ ἐμοῦ ·"
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "8.25",
+    "form": "σύνῃ",
+    "postag": "v2spim---",
+    "sentence": "ἰδοὺ δή, ὁ θεός, ἔδειξας ἡμῖν τὸ κρίμα σου ἐν τῇ δικαιο σύνῃ σου, εἴδοσαν οἱ ὀφθαλμοὶ ἡμῶν τὰ κρίματά σου, ὁ θεός."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2 συν-κάθημαι    (Rec. συγκ-),    [in LXX: Ps 100 (101):6 (ישׁב) * ;]    to sit together or with: c. dat., Ac 26:30; seq. μετά, c. gen., Mk 14:54.†"
+}

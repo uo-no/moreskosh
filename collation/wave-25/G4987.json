@@ -1,0 +1,59 @@
+{
+ "strong": "G4987",
+ "lemma": "σωρεύω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2TI 3:6",
+   "form": "σεσωρευμένα",
+   "morph": "V-RPP-APN",
+   "gloss_en": "loaded down",
+   "gloss_ja": "積み上げる",
+   "verse": "ἐκ τούτων γάρ εἰσιν οἱ ἐνδύνοντες εἰς τὰς οἰκίας καὶ αἰχμαλωτίζοντες γυναικάρια σεσωρευμένα ἁμαρτίαις, ἀγόμενα ἐπιθυμίαις ποικίλαις,"
+  },
+  {
+   "ref": "ROM 12:20",
+   "form": "σωρεύσεις",
+   "morph": "V-FAI-2S",
+   "gloss_en": "heap",
+   "gloss_ja": "積み上げる",
+   "verse": "ἀλλὰ ἐὰν πεινᾷ ὁ ἐχθρός σου, ψώμιζε αὐτόν· ἐὰν διψᾷ, πότιζε αὐτόν· τοῦτο γὰρ ποιῶν ἄνθρακας πυρὸς σωρεύσεις ἐπὶ τὴν κεφαλὴν αὐτοῦ."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Judith": 1,
+   "Proverbia": 1
+  },
+  "representatives": [
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "15.11",
+    "form": "ἐσώρευσεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ λαβοῦσα αὕτη ἐπέθηκεν ἐπὶ τὴν ἡμίονον αὐτῆς καὶ ἔζευξε τὰς ἁμάξας αὐτῆς καὶ ἐσώρευσεν αὐτὰ ἐπ’ αὐτῶν."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "25.22",
+    "form": "σωρεύσεις",
+    "postag": "v2sfia---",
+    "sentence": "τοῦτο γὰρ ποιῶν ἄνθρακας πυρὸς σωρεύσεις ἐπὶ τὴν κεφαλὴν αὐτοῦ, ὁ δὲ Κύριος ἀνταποδώσει σοι ἀγαθά."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2 σωρεύω     [in LXX: Pr 25:22 (חתה), Jth 15:11 * ;]     to heap on: c. acc. seq. ἐπί c. acc., Ro 12:20 (LXX) (Arist., al.);    to heap with: c. acc. et dat., metaph., ἁμαρτίαις, II Ti 3:6 (overwhelmed with, Field, Notes, 217) (Polyb.).†"
+}

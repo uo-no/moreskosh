@@ -1,0 +1,79 @@
+{
+ "strong": "G463",
+ "lemma": "ἀνοχή",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ROM 3:26",
+   "form": "ἀνοχῇ",
+   "morph": "N-DSF",
+   "gloss_en": "forbearance",
+   "gloss_ja": "寛容",
+   "verse": "ἐν τῇ ἀνοχῇ τοῦ θεοῦ, πρὸς τὴν ἔνδειξιν τῆς δικαιοσύνης αὐτοῦ ἐν τῷ νῦν καιρῷ, εἰς τὸ εἶναι αὐτὸν δίκαιον καὶ δικαιοῦντα τὸν ἐκ πίστεως Ἰησοῦ."
+  },
+  {
+   "ref": "ROM 2:4",
+   "form": "ἀνοχῆς",
+   "morph": "N-GSF",
+   "gloss_en": "forbearance",
+   "gloss_ja": "寛容",
+   "verse": "ἢ τοῦ πλούτου τῆς χρηστότητος αὐτοῦ καὶ τῆς ἀνοχῆς καὶ τῆς μακροθυμίας καταφρονεῖς, ἀγνοῶν ὅτι τὸ χρηστὸν τοῦ θεοῦ εἰς μετάνοιάν σε ἄγει;"
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Machabaeorum i": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "12.25",
+    "form": "ἀνοχὴν",
+    "postag": "n-s---fa-",
+    "sentence": "οὐ γὰρ ἔδωκεν αὐτοῖς ἀνοχὴν ἐμβατεῦσαι εἰς τὴν χώραν αὐτοῦ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 3,
+  "works": {
+   "Hermas, Pastor": 3
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.5.1",
+    "form": "ἀνοχὴ",
+    "postag": "n-s---fn-",
+    "sentence": "καὶ ἐγένετο ἀνοχὴ τῆς οἰκοδομῆς."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "23.3.1",
+    "form": "ἀνοχὴν",
+    "postag": "n-s---fa-",
+    "sentence": "βλέπων οὖν αὐτὰ οὕτω μαστιγούμενα καὶ ταλαιπωρούμενα ἐλυπούμην ἐπ’ αὐτοῖς, ὅτι οὕτως ἐβασανίζοντο καὶ ἀνοχὴν ὅλως οὐκ εἶχον."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.14.2",
+    "form": "ἀνοχὴ",
+    "postag": "n-s---fn-",
+    "sentence": "διὰ τοῦτο γὰρ καὶ τῆς οἰκοδομῆς ἀνοχὴ ἐγένετο, ἵνα, ἐὰν μετανοήσωσιν οὗτοι, ἀπέλθωσιν εἰς τὴν οἰκοδομὴν τοῦ πύργου."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   ** ἀνοχή, -ῆς, ἡ    (< ἀνέχω, -ομαι),   [in LXX: I Mac 12:25 (RV, respite)*;]      in cl., a holding back, delaying (MM, VGT, s.v.).      forbearance, delay of punishment: Ro 2:4 3:26.†   SYN.: μακροθυμία, ὑπομονή. ἀ., forbearance, is the result and expression of μ., which involves the idea of tolerance, long-suffering, as God with sinners. ὑ. expresses patience with respect to things, as μ. with persons; it is active as well as passive, denotes not merely endurance but perseverance (v. Tr., Syn., § liii; Lft., Notes, 259, 273; DB, ii, 47)."
+}

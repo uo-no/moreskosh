@@ -1,0 +1,194 @@
+{
+ "strong": "G5510",
+ "lemma": "χιών",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MAT 28:3",
+   "form": "χιών",
+   "morph": "N-NSF",
+   "gloss_en": "snow",
+   "gloss_ja": "雪",
+   "verse": "ἦν δὲ ἡ εἰδέα αὐτοῦ ὡς ἀστραπὴ καὶ τὸ ἔνδυμα αὐτοῦ λευκὸν ὡς χιών."
+  },
+  {
+   "ref": "REV 1:14",
+   "form": "χιών",
+   "morph": "N-NSF",
+   "gloss_en": "snow",
+   "gloss_ja": "雪",
+   "verse": "ἡ δὲ κεφαλὴ αὐτοῦ καὶ αἱ τρίχες λευκαὶ ὡς ἔριον λευκόν, ὡς χιών, καὶ οἱ ὀφθαλμοὶ αὐτοῦ ὡς φλὸξ πυρός,"
+  }
+ ],
+ "lxx": {
+  "total": 27,
+  "works": {
+   "Exodus": 1,
+   "Numeri": 1,
+   "Regnorum ii": 1,
+   "Regnorum iv": 1,
+   "Paralipomenon i sive Chronicon i": 1,
+   "Machabaeorum i": 2,
+   "Psalmi": 3,
+   "Odae": 1,
+   "Proverbia": 1,
+   "Job": 4,
+   "Sapientia Salomonis": 1,
+   "Ecclesiasticus sive Siracides": 2,
+   "Isaias": 2,
+   "Jeremias": 1,
+   "Threni seu Lamentationes": 1,
+   "Daniel": 4
+  },
+  "representatives": [
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "37.6",
+    "form": "χιόνι",
+    "postag": "n-s---fd-",
+    "sentence": "ἐποίησε γὰρ μεγάλα ἃ οὐκ ᾔδειμεν, συντάσσων χιόνι ·"
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "3.70",
+    "form": "χιόνες",
+    "postag": "n-p---fv-",
+    "sentence": "εὐλογεῖτε, πάχναι καὶ χιόνες, τὸν κύριον ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "147.5",
+    "form": "χιόνα",
+    "postag": "n-s---fa-",
+    "sentence": "διδόντος χιόνα αὐτοῦ ὡσεὶ ἔριον, ὁμίχλην ὡσεὶ σποδὸν πάσσοντος ·"
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "13.22",
+    "form": "χιὼν",
+    "postag": "n-s---fn-",
+    "sentence": "καὶ ἡτοίμασε Τρύφων πᾶσαν τὴν ἵππον αὐτοῦ ἐλθεῖν ἐν τῇ νυκτὶ ἐκείνῃ, καὶ ἦν χιὼν πολλὴ σφόδρα, καὶ οὐκ ἦλθε διὰ τὴν χιόνα ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "43.13",
+    "form": "χιόνα",
+    "postag": "n-s---fa-",
+    "sentence": "— προστάγματι αὐτοῦ κατέσπευσε χιόνα καὶ ταχύνει ἀστραπὰς κρίματος αὐτοῦ."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "1.18",
+    "form": "χιόνα",
+    "postag": "n-s---fa-",
+    "sentence": "καὶ ἐὰν ὦσιν αἱ ἁμαρτίαι ὑμῶν ὡς φοινικοῦν, ὡς χιόνα λευκανῶ, ἐὰν δὲ ὦσιν ὡς κόκκινον, ὡς ἔριον λευκανῶ."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "4.6",
+    "form": "χιών",
+    "postag": "n-s---fn-",
+    "sentence": "καὶ ἐξήνεγκε τὴν χεῖρα αὐτοῦ ἐκ τοῦ κόλπου αὐτοῦ, καὶ ἐγενήθη ἡ χεὶρ αὐτοῦ ὡσεὶ χιών."
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "12.10",
+    "form": "χιών",
+    "postag": "n-s---fn-",
+    "sentence": "καὶ ἡ νεφέλη ἀπέστη ἀπὸ τῆς σκηνῆς, καὶ ἰδοὺ Μαριὰμ λεπρῶσα ὡσεὶ χιών ·"
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "23.20",
+    "form": "χιόνος",
+    "postag": "n-s---fg-",
+    "sentence": "καὶ αὐτὸς κατέβη καὶ ἐπάταξε τὸν λέοντα ἐν μέσῳ τοῦ λάκκου ἐν τῇ ἡμέρᾳ τῆς χιόνος ·"
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "5.27",
+    "form": "χιών",
+    "postag": "n-s---fn-",
+    "sentence": "καὶ ἐξῆλθεν ἐκ προσώπου αὐτοῦ λελεπρωμένος ὡσεὶ χιών."
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "11.22",
+    "form": "χιόνος",
+    "postag": "n-s---fg-",
+    "sentence": "οὗτος ἐπάταξε τοὺς δύο ἀριὴλ Μωὰβ καὶ οὗτος κατέβη καὶ ἐπάταξε τὸν λέοντα ἐν τῷ λάκκῳ ἐν ἡμέρᾳ χιόνος ·"
+   },
+   {
+    "work_code": "ODE",
+    "work_ja": "頌歌（オード）",
+    "work_src": "Odae",
+    "ref": "11.70",
+    "form": "χιόνες",
+    "postag": "n-p---fv-",
+    "sentence": "εὐλογεῖτε, πάχναι καὶ χιόνες, τὸν κύριον ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 3,
+  "works": {
+   "1 Clement": 2,
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "18.7",
+    "form": "χιόνα",
+    "postag": "n-s---fa-",
+    "sentence": "πλυνεῖς με, καὶ ὑπὲρ χιόνα λευκανθήσομαι."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "25.2.3",
+    "form": "χιόνα",
+    "postag": "n-s---fa-",
+    "sentence": "ἱματισμὸν δὲ τὸν αὐτὸν πάντες εἶχον λευκὸν ὡσεὶ χιόνα, οἱ πορευόμενοι εἰς τὸν πύργον."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "8.4",
+    "form": "χιόνα",
+    "postag": "n-s---fa-",
+    "sentence": "καὶ ἐὰν ὦσιν αἱ ἁμαρτίαι ὑμῶν ὡς φοινικοῦν, ὡς χιόνα λευκανῶ ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2 χιών, -όνος, ἡ     [in LXX chiefly for שֶׁלֶג also (in Da) for תְּלַג ;]    snow: Mt 28:3, Re 1:14.†"
+}

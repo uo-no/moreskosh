@@ -1,0 +1,98 @@
+{
+ "strong": "G815",
+ "lemma": "ἄτεκνος",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 20:28",
+   "form": "ἄτεκνος",
+   "morph": "A-NSM",
+   "gloss_en": "no children",
+   "gloss_ja": "子のない",
+   "verse": "λέγοντες· Διδάσκαλε, Μωϋσῆς ἔγραψεν ἡμῖν, ἐάν τινος ἀδελφὸς ἀποθάνῃ ἔχων γυναῖκα, καὶ οὗτος ἄτεκνος ᾖ, ἵνα λάβῃ ὁ ἀδελφὸς αὐτοῦ τὴν γυναῖκα καὶ ἐξαναστήσῃ σπέρμα τῷ ἀδελφῷ αὐτοῦ."
+  },
+  {
+   "ref": "LUK 20:29",
+   "form": "ἄτεκνος",
+   "morph": "A-NSM",
+   "gloss_en": "childless",
+   "gloss_ja": "子のない",
+   "verse": "ἑπτὰ οὖν ἀδελφοὶ ἦσαν· καὶ ὁ πρῶτος λαβὼν γυναῖκα ἀπέθανεν ἄτεκνος·"
+  }
+ ],
+ "lxx": {
+  "total": 6,
+  "works": {
+   "Genesis": 1,
+   "Leviticus": 2,
+   "Ecclesiasticus sive Siracides": 1,
+   "Isaias": 1,
+   "Jeremias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "20.21",
+    "form": "ἄτεκνοι",
+    "postag": "a-p---mn-",
+    "sentence": "ἀσχημοσύνην τοῦ ἀδελφοῦ αὐτοῦ ἀπεκάλυψεν, ἄτεκνοι ἀποθανοῦνται."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "15.2",
+    "form": "ἄτεκνος",
+    "postag": "a-s---mn-",
+    "sentence": "ἐγὼ δὲ ἀπολύομαι ἄτεκνος ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "16.3",
+    "form": "ἄτεκνον",
+    "postag": "a-s---ma-",
+    "sentence": "κρείσσων γὰρ εἷς ἢ χίλιοι, καὶ ἀποθανεῖν ἄτεκνον ἢ ἔχειν τέκνα ἀσεβῆ."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "49.21",
+    "form": "ἄτεκνος",
+    "postag": "a-s---fn-",
+    "sentence": "ἐγὼ δὲ ἄτεκνος καὶ χήρα, τούτους δὲ τίς ἐξέθρεψέ μοι;"
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "18.21",
+    "form": "ἄτεκνοι",
+    "postag": "a-p---fn-",
+    "sentence": "γενέσθωσαν αἱ γυναῖκες αὐτῶν ἄτεκνοι καὶ χῆραι, καὶ οἱ ἄνδρες αὐτῶν γενέσθωσαν ἀνῃρημένοι θανάτῳ καὶ οἱ νεανίσκοι αὐτῶν πεπτωκότες μαχαίρᾳ ἐν πολέμῳ."
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "20.20",
+    "form": "ἄτεκνοι",
+    "postag": "a-p---mn-",
+    "sentence": "ὃς ἂν κοιμηθῇ μετὰ τῆς συγγενοῦς αὐτοῦ, ἀσχημοσύνην τῆς συγγενείας αὐτοῦ ἀπεκάλυψεν, ἄτεκνοι ἀποθανοῦνται."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   ἄτεκνος, -ον    (< τέκνον),   [in LXX: Ge 15:2, Le 20:20, 21 (עֲרִירִי), Is 49:21, Je 18:21 (שׁכל), Si 16:3*;]    childless: Lk 20:28, 29.†"
+}

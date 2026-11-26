@@ -1,0 +1,59 @@
+{
+ "strong": "G5298",
+ "lemma": "ὑποχωρέω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 5:16",
+   "form": "ὑποχωρῶν",
+   "morph": "V-PAP-NSM",
+   "gloss_en": "withdrew",
+   "gloss_ja": "退く",
+   "verse": "αὐτὸς δὲ ἦν ὑποχωρῶν ἐν ταῖς ἐρήμοις καὶ προσευχόμενος."
+  },
+  {
+   "ref": "LUK 9:10",
+   "form": "ὑπεχώρησεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "withdrew",
+   "gloss_ja": "退く",
+   "verse": "Καὶ ὑποστρέψαντες οἱ ἀπόστολοι διηγήσαντο αὐτῷ ὅσα ἐποίησαν. καὶ παραλαβὼν αὐτοὺς ὑπεχώρησεν κατ’ ἰδίαν εἰς πόλιν καλουμένην Βηθσαϊδά."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Judices": 1,
+   "Ecclesiasticus sive Siracides": 1
+  },
+  "representatives": [
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "20.37",
+    "form": "ὑποχωρῆσαι",
+    "postag": "v--ana---",
+    "sentence": "καὶ ἐν τῷ αὐτοὺς ὑποχωρῆσαι καὶ τὸ ἔνεδρον ἐκινήθη καί ἐξέτειναν ἐπὶ τὴν Γαβαά, καὶ ἐξεχύθη τὸ ἔνεδρον καὶ ἐπάταξαν τὴν πόλιν ἐν στόματι ρομφαίας."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "13.9",
+    "form": "ὑποχωρῶν",
+    "postag": "v-sppamn-",
+    "sentence": "προσκαλεσαμένου σε δυνάστου, ὑποχωρῶν γίνου, καὶ τόσῳ μᾶλλον προσκαλέσεταί σε."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2 (KJV) ὑπο-χωρέω     [in LXX: Jg 20:37 B (—), Si 13:9, II Mac 12:12 * ;]    to go back, retire: seq. ἐν, Lk 5:16; seq. εἰς, Lk 9:10.†"
+}

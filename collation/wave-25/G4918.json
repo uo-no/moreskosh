@@ -1,0 +1,49 @@
+{
+ "strong": "G4918",
+ "lemma": "συνθλίβω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MRK 5:24",
+   "form": "συνέθλιβον",
+   "morph": "V-IAI-3P",
+   "gloss_en": "thronged",
+   "gloss_ja": "圧迫する",
+   "verse": "καὶ ἀπῆλθεν μετ’ αὐτοῦ. Καὶ ἠκολούθει αὐτῷ ὄχλος πολύς, καὶ συνέθλιβον αὐτόν."
+  },
+  {
+   "ref": "MRK 5:31",
+   "form": "συνθλίβοντά",
+   "morph": "V-PAP-ASM",
+   "gloss_en": "pressing in",
+   "gloss_ja": "圧迫する",
+   "verse": "καὶ ἔλεγον αὐτῷ οἱ μαθηταὶ αὐτοῦ· Βλέπεις τὸν ὄχλον συνθλίβοντά σε, καὶ λέγεις· Τίς μου ἥψατο;"
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Ecclesiasticus sive Siracides": 1
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "31.14",
+    "form": "συνθλίβου",
+    "postag": "v2spmm---",
+    "sentence": "οὗ ἐὰν ἐπιβλέψῃ, μὴ ἐκτείνῃς χεῖρα καὶ μὴ συνθλίβου αὐτῷ ἐν τρυβλίῳ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2 συν-θλίβω     [in LXX: Ec 12:6 א A (רצץ), Si 34 (31):14, I Mac 15:14 A * ;]    to press together, press on all sides: Mk 5:24, 31.†"
+}

@@ -1,0 +1,58 @@
+{
+ "strong": "G499",
+ "lemma": "ἀντίτυπος",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1PE 3:21",
+   "form": "ἀντίτυπον",
+   "morph": "A-NSN",
+   "gloss_en": "corresponding",
+   "gloss_ja": "対応する",
+   "verse": "ὃ καὶ ὑμᾶς ἀντίτυπον νῦν σῴζει βάπτισμα, οὐ σαρκὸς ἀπόθεσις ῥύπου ἀλλὰ συνειδήσεως ἀγαθῆς ἐπερώτημα εἰς θεόν, δι’ ἀναστάσεως Ἰησοῦ Χριστοῦ,"
+  },
+  {
+   "ref": "HEB 9:24",
+   "form": "ἀντίτυπα",
+   "morph": "A-APN",
+   "gloss_en": "copy",
+   "gloss_ja": "対応する",
+   "verse": "οὐ γὰρ εἰς χειροποίητα εἰσῆλθεν ἅγια Χριστός, ἀντίτυπα τῶν ἀληθινῶν, ἀλλ’ εἰς αὐτὸν τὸν οὐρανόν, νῦν ἐμφανισθῆναι τῷ προσώπῳ τοῦ θεοῦ ὑπὲρ ἡμῶν·"
+  }
+ ],
+ "lxx": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "2 Clement": 2
+  },
+  "representatives": [
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "14.3",
+    "form": "ἀντίτυπός",
+    "postag": "a-s---fn-",
+    "sentence": "ἡ γὰρ σὰρξ αὕτη ἀντίτυπός ἐστιν τοῦ πνεύματος ·"
+   },
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "14.3",
+    "form": "ἀντίτυπον",
+    "postag": "a-s---na-",
+    "sentence": "οὐδεὶς οὖν τὸ ἀντίτυπον φθείρας τὸ αὐθεντικὸν μεταλήψεται."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   ** ἀντί-τυπος, -ον    (v.s. τύπος),   [in LXX: Es 3:13 A*;]      act. striking back; metaph., resisting, adverse.     Pass. struck back; metaph., corresponding to (MM, VGT, s.v.);     as impression of a seal or copy of an archetype (τύπος) (RV, like in pattern), He 9:24;     as the reality (of which τύπος is the copy or adumbration) (RV, after a true likeness), I Pe 3:21 (Cremer, 357).†"
+}

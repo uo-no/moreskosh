@@ -1,0 +1,49 @@
+{
+ "strong": "G5412",
+ "lemma": "φορτίζω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 11:46",
+   "form": "φορτίζετε",
+   "morph": "V-PAI-2P",
+   "gloss_en": "load",
+   "gloss_ja": "重荷を負わせる",
+   "verse": "ὁ δὲ εἶπεν· Καὶ ὑμῖν τοῖς νομικοῖς οὐαί, ὅτι φορτίζετε τοὺς ἀνθρώπους φορτία δυσβάστακτα, καὶ αὐτοὶ ἑνὶ τῶν δακτύλων ὑμῶν οὐ προσψαύετε τοῖς φορτίοις."
+  },
+  {
+   "ref": "MAT 11:28",
+   "form": "πεφορτισμένοι",
+   "morph": "V-RPP-NPM",
+   "gloss_en": "burdened",
+   "gloss_ja": "重荷を負わせる",
+   "verse": "Δεῦτε πρός με πάντες οἱ κοπιῶντες καὶ πεφορτισμένοι, κἀγὼ ἀναπαύσω ὑμᾶς."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Ezechiel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "16.33",
+    "form": "ἐφόρτιζες",
+    "postag": "v2siia---",
+    "sentence": "πᾶσι τοῖς ἐκπορνεύσασιν αὐτὴν προσεδίδου μισθώματα, καὶ σὺ δέδωκας μισθώματα πᾶσι τοῖς ἐρασταῖς σου καὶ ἐφόρτιζες αὐτοὺς τοῦ ἔρχεσθαι πρός σε κυκλόθεν ἐν τῇ πορνείᾳ σου."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2 φορτίζω    (< φόρτος),    [in LXX: Ez 16:33 (שָׁחַד) * ;]    to load: c. dupl. acc., Lk 11:46; pass., to be laden: metaph. (EV, heavy laden), Mt 11:28.†"
+}

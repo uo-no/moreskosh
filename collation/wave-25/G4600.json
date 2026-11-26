@@ -1,0 +1,181 @@
+{
+ "strong": "G4600",
+ "lemma": "σιαγών",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 6:29",
+   "form": "σιαγόνα",
+   "morph": "N-ASF",
+   "gloss_en": "cheek",
+   "gloss_ja": "ほお",
+   "verse": "τῷ τύπτοντί σε ἐπὶ τὴν σιαγόνα πάρεχε καὶ τὴν ἄλλην, καὶ ἀπὸ τοῦ αἴροντός σου τὸ ἱμάτιον καὶ τὸν χιτῶνα μὴ κωλύσῃς."
+  },
+  {
+   "ref": "MAT 5:39",
+   "form": "σιαγόνα",
+   "morph": "N-ASF",
+   "gloss_en": "cheek",
+   "gloss_ja": "ほお",
+   "verse": "ἐγὼ δὲ λέγω ὑμῖν μὴ ἀντιστῆναι τῷ πονηρῷ· ἀλλ’ ὅστις σε ῥαπίζει εἰς τὴν δεξιὰν σιαγόνα, στρέψον αὐτῷ καὶ τὴν ἄλλην·"
+  }
+ ],
+ "lxx": {
+  "total": 21,
+  "works": {
+   "Judices": 8,
+   "Regnorum iii": 1,
+   "Paralipomenon ii sive Chronicon ii": 1,
+   "Psalmi": 1,
+   "Canticum": 2,
+   "Job": 1,
+   "Ecclesiasticus sive Siracides": 1,
+   "Osee": 1,
+   "Michaeas": 1,
+   "Isaias": 1,
+   "Threni seu Lamentationes": 2,
+   "Ezechiel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "15.14",
+    "form": "Σιαγόνος",
+    "postag": "n-s---fg-",
+    "sentence": "καὶ ἦλθον ἕως Σιαγόνος ·"
+   },
+   {
+    "work_code": "SNG",
+    "work_ja": "雅歌",
+    "work_src": "Canticum",
+    "ref": "5.13",
+    "form": "σιαγόνες",
+    "postag": "n-p---fn-",
+    "sentence": "σιαγόνες αὐτοῦ ὡς φιάλαι τοῦ ἀρώματος φύουσαι μυρεψικά ·"
+   },
+   {
+    "work_code": "LAM",
+    "work_ja": "哀歌",
+    "work_src": "Threni seu Lamentationes",
+    "ref": "3.30",
+    "form": "σιαγόνα",
+    "postag": "n-s---fa-",
+    "sentence": "δώσει τῷ παίοντι αὐτὸν σιαγόνα, χορτασθήσεται ὀνειδισμῶν."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "22.24",
+    "form": "σιαγόνα",
+    "postag": "n-s---fa-",
+    "sentence": "καὶ προσῆλθε Σεδεκίας υἱὸς Χανανὰ καὶ ἐπάταξε τὸν Μιχαίαν ἐπὶ τὴν σιαγόνα καὶ εἶπε ·"
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "18.23",
+    "form": "σιαγόνα",
+    "postag": "n-s---fa-",
+    "sentence": "καὶ ἤγγισε Σεδεκίας υἱὸς Χαναὰν καὶ ἐπάταξε τὸν Μιχαίαν ἐπὶ τὴν σιαγόνα καὶ εἶπεν αὐτῷ ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "31.9",
+    "form": "σιαγόνας",
+    "postag": "n-p---fa-",
+    "sentence": "μὴ γίνεσθε ὡς ἵππος καὶ ἡμίονος, οἷς οὐκ ἔστι σύνεσις, ἐν κημῷ καὶ χαλινῷ τὰς σιαγόνας αὐτῶν ἄγξαις τῶν μὴ ἐγγιζόντων πρὸς σέ."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "21.5",
+    "form": "σιαγόνι",
+    "postag": "n-s---fd-",
+    "sentence": "εἰσβλέψαντες εἰς ἐμὲ θαυμάσετε χεῖρα θέντες ἐπὶ σιαγόνι ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "35.15",
+    "form": "σιαγόνα",
+    "postag": "n-s---fa-",
+    "sentence": "οὐχὶ δάκρυα χήρας ἐπὶ σιαγόνα καταβαίνει καὶ ἡ καταβόησις ἐπὶ τῷ καταγαγόντι αὐτά;"
+   },
+   {
+    "work_code": "HOS",
+    "work_ja": "ホセア書",
+    "work_src": "Osee",
+    "ref": "11.4",
+    "form": "σιαγόνας",
+    "postag": "n-p---fa-",
+    "sentence": "ἐν διαφθορᾷ ἀνθρώπων ἐξέτεινα αὐτοὺς ἐν δεσμοῖς ἀγαπήσεώς μου καὶ ἔσομαι αὐτοῖς ὡς ραπίζων ἄνθρωπος ἐπὶ τὰς σιαγόνας αὐτοῦ ·"
+   },
+   {
+    "work_code": "MIC",
+    "work_ja": "ミカ書",
+    "work_src": "Michaeas",
+    "ref": "4.14",
+    "form": "σιαγόνα",
+    "postag": "n-s---fa-",
+    "sentence": "νῦν ἐμφραχθήσεται θυγάτηρ Ἐφραὶμ ἐν φραγμῷ, συνοχὴν ἔταξεν ἐφ’ ἡμᾶς, ἐν ράβδῳ πατάξουσιν ἐπὶ σιαγόνα τὰς φυλὰς τοῦ Ἰσραήλ."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "50.6",
+    "form": "σιαγόνας",
+    "postag": "n-p---fa-",
+    "sentence": "καὶ ἡ παιδεία Κυρίου Κυρίου ἀνοίγει μου τὰ ὦτα, ἐγὼ δὲ οὐκ ἀπειθῶ οὐ-δὲ ἀντιλέγω, τὸν νῶτόν μου ἔδωκα εἰς μάστιγας, τὰς δὲ σιαγόνας μου εἰς ραπίσματα, τὸ δὲ πρόσωπόν μου οὐκ ἀπέστρεψα ἀπὸ αἰσχύνης ἐμπτυσμάτων ·"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "29.4",
+    "form": "σιαγόνας",
+    "postag": "n-p---fa-",
+    "sentence": "καὶ ἐγὼ δώσω παγίδας εἰς τὰς σιαγόνας σου καὶ προσκολλήσω τοὺς ἰχθύας τοῦ ποταμοῦ σου πρὸς τὰς πτέρυγάς σου καὶ ἀνάξω σε ἐκ μέσου τοῦ ποταμοῦ σου ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "Barnabas": 1,
+   "Didache": 1
+  },
+  "representatives": [
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "5.14",
+    "form": "σιαγόνας",
+    "postag": "n-p---fa-",
+    "sentence": "ἰδού, τέθεικά μου τὸν νῶτον εἰς μάστιγας, τὰς δὲ σιαγόνας εἰς ῥαπίσματα."
+   },
+   {
+    "work_code": "DID",
+    "work_ja": "ディダケー",
+    "work_src": "Didache",
+    "ref": "1.4",
+    "form": "σιαγόνα",
+    "postag": "n-s---fa-",
+    "sentence": "ἐάν τίς σοι δῷ ῥάπισμα εἰς τὴν δεξιὰν σιαγόνα, στρέψον αὐτῷ καὶ τὴν ἄλλην, καὶ ἔσῃ τέλειος ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   σιαγών, -όνος, ἡ     [in LXX for לְחִי ;]     the jawbone, jaw, cheek: Mt 5:39, Lk 6:29 (cf. MM, xxii).†"
+}

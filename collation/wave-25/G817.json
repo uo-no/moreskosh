@@ -1,0 +1,107 @@
+{
+ "strong": "G817",
+ "lemma": "ἄτερ",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 22:6",
+   "form": "ἄτερ",
+   "morph": "PREP",
+   "gloss_en": "no",
+   "gloss_ja": "〜なしに",
+   "verse": "καὶ ἐξωμολόγησεν, καὶ ἐζήτει εὐκαιρίαν τοῦ παραδοῦναι αὐτὸν ἄτερ ὄχλου αὐτοῖς."
+  },
+  {
+   "ref": "LUK 22:35",
+   "form": "ἄτερ",
+   "morph": "PREP",
+   "gloss_en": "without",
+   "gloss_ja": "〜なしに",
+   "verse": "Καὶ εἶπεν αὐτοῖς· Ὅτε ἀπέστειλα ὑμᾶς ἄτερ βαλλαντίου καὶ πήρας καὶ ὑποδημάτων, μή τινος ὑστερήσατε; οἱ δὲ εἶπαν· Οὐθενός."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Machabaeorum ii": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "12.15",
+    "form": "ἄτερ",
+    "postag": "r--------",
+    "sentence": "οἱ δὲ περὶ τὸν Ἰούδαν ἐπικαλεσάμενοι τὸν μέγαν τοῦ κόσμου δυνάστην, τὸν ἄτερ κριῶν καὶ μηχανῶν ὀργανικῶν κατακρημνίσαντα τὴν Ἱεριχὼ κατὰ τοὺς Ἰησοῦ χρόνους, ἐνέσεισαν θηριωδῶς τῷ τείχει."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 6,
+  "works": {
+   "Didache": 1,
+   "Hermas, Pastor": 5
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "22.6.2",
+    "form": "ἄτερ",
+    "postag": "r--------",
+    "sentence": "οὐδεὶς γὰρ ἀμπελὼν δύναται σκαφῆναι ἄτερ κόπου ἢ μόχθου."
+   },
+   {
+    "work_code": "DID",
+    "work_ja": "ディダケー",
+    "work_src": "Didache",
+    "ref": "3.10",
+    "form": "ἄτερ",
+    "postag": "r--------",
+    "sentence": "τὰ συμβαίνοντά σοι ἐνεργήματα ὡς ἀγαθὰ προσδέξῃ, εἰδὼς ὅτι ἄτερ θεοῦ οὐδὲν γίνεται."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "22.7.4",
+    "form": "ἄτερ",
+    "postag": "r--------",
+    "sentence": "ἀμφότερα γὰρ κοινά ἐστι καὶ ἄτερ ἀλλήλων μιανθῆναι οὐ δύναται."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "22.4.5",
+    "form": "ἄτερ",
+    "postag": "r--------",
+    "sentence": "εἰ δὲ ἄτερ σου ἔβλεπον ἢ ἤκουον αὐτά, ἠρώτων ἂν τὸν κύριον, ἵνα μοι δηλωθῇ."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.12.8",
+    "form": "ἄτερ",
+    "postag": "r--------",
+    "sentence": "τούτων, φησί, τῶν ἀγγέλων τῶν ἐνδόξων οὐδεὶς εἰσελεύσεται πρὸς τὸν θεὸν ἄτερ αὐτοῦ ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.27.2",
+    "form": "ἄτερ",
+    "postag": "r--------",
+    "sentence": "ἐπίσκοποι καὶ φιλόξενοι, οἵτινες ἡδέως εἰς τοὺς οἴκους ἑαυτῶν πάντοτε ὑπεδέξαντο τοὺς δούλους τοῦ θεοῦ ἄτερ ὑποκρίσεως ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   ** ἄτερ,     prep.,    [in LXX: II Mac 12:15*;]    in cl. most freq. in poets; without, apart from: c. gen., Lk 22:6, 35 (for exx. from π., v. MM, s.v.).†"
+}

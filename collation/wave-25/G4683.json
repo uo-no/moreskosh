@@ -1,0 +1,59 @@
+{
+ "strong": "G4683",
+ "lemma": "σπαργανόω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 2:7",
+   "form": "ἐσπαργάνωσεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "wrapped ~ incloths",
+   "gloss_ja": "布にくるむ",
+   "verse": "καὶ ἔτεκεν τὸν υἱὸν αὐτῆς τὸν πρωτότοκον, καὶ ἐσπαργάνωσεν αὐτὸν καὶ ἀνέκλινεν αὐτὸν ἐν φάτνῃ, διότι οὐκ ἦν αὐτοῖς τόπος ἐν τῷ καταλύματι."
+  },
+  {
+   "ref": "LUK 2:12",
+   "form": "ἐσπαργανωμένον",
+   "morph": "V-RPP-ASN",
+   "gloss_en": "wrapped in cloths",
+   "gloss_ja": "布にくるむ",
+   "verse": "καὶ τοῦτο ὑμῖν τὸ σημεῖον, εὑρήσετε βρέφος ἐσπαργανωμένον καὶ κείμενον ἐν φάτνῃ."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Job": 1,
+   "Ezechiel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "38.9",
+    "form": "ἐσπαργάνωσα",
+    "postag": "v1saia---",
+    "sentence": "ἐθέμην δὲ αὐτῇ νέφος ἀμφίασιν, ὁμίχλῃ δὲ αὐτὴν ἐσπαργάνωσα."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "16.4",
+    "form": "ἐσπαργανώθης",
+    "postag": "v2saip---",
+    "sentence": "καὶ ἡ γένεσίς σου, ἐν ᾗ ἡμέρᾳ ἐτέχθης, οὐκ ἔδησας τοὺς μαστούς σου καί ἐν ὕδατι οὐκ ἐλούσθης, οὐ-δὲ ἁλὶ ἡλίσθης καὶ ἐν σπαργάνοις οὐκ ἐσπαργανώθης, οὐ-δὲ ἐφείσατο ὁ ὀφθαλμός μου ἐπὶ σοὶ τοῦ ποιῆσαί σοι ἓν ἐκ πάντων τούτων, τοῦ παθεῖν τι ἐπὶ σοί, καὶ ἀπερρίφης ἐπὶ πρόσωπον τοῦ πεδίου τῇ σκολιότητι τῆς ψυχῆς σου ἐν ἡμέρᾳ, ᾗ ἐτέχθης."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2 σπαργανόω, -ῶ    (< σπάργανον, a swathing-band)    [in LXX: Jb 38:9, Ez 16:4 (חתל pu.)* ;]    to swathe, wrap in swaddling-clothes: Lk 2:7, 12 (Hipp., Arist., Plut.).†"
+}

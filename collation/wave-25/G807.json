@@ -1,0 +1,77 @@
+{
+ "strong": "G807",
+ "lemma": "ἀσχημονέω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 13:5",
+   "form": "ἀσχημονεῖ",
+   "morph": "V-PAI-3S",
+   "gloss_en": "rude",
+   "gloss_ja": "見苦しく行動する",
+   "verse": "οὐκ ἀσχημονεῖ, οὐ ζητεῖ τὰ ἑαυτῆς, οὐ παροξύνεται, οὐ λογίζεται τὸ κακόν,"
+  },
+  {
+   "ref": "1CO 7:36",
+   "form": "ἀσχημονεῖν",
+   "morph": "V-PAN",
+   "gloss_en": "acting improperly",
+   "gloss_ja": "見苦しく行動する",
+   "verse": "Εἰ δέ τις ἀσχημονεῖν ἐπὶ τὴν παρθένον αὐτοῦ νομίζει ἐὰν ᾖ ὑπέρακμος, καὶ οὕτως ὀφείλει γίνεσθαι, ὃ θέλει ποιείτω· οὐχ ἁμαρτάνει· γαμείτωσαν."
+  }
+ ],
+ "lxx": {
+  "total": 4,
+  "works": {
+   "Deuteronomium": 1,
+   "Ezechiel": 3
+  },
+  "representatives": [
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "16.7",
+    "form": "ἀσχημονοῦσα",
+    "postag": "v-sppafn-",
+    "sentence": "οἱ μαστοί σου ἀνωρθώθησαν, καὶ ἡ θρίξ σου ἀνέτειλε, σὺ δὲ ἦσθα γυμνὴ καὶ ἀσχημονοῦσα."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "25.3",
+    "form": "ἀσχημονήσει",
+    "postag": "v3sfia---",
+    "sentence": "ἐὰν δὲ προσθῇς μαστιγῶσαι ὑπὲρ ταύτας τὰς πληγὰς πλείους, ἀσχημονήσει ὁ ἀδελφός σου ἐναντίον σου."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "16.39",
+    "form": "ἀσχημονοῦσαν",
+    "postag": "v-sppafa-",
+    "sentence": "καὶ παραδώσω σε εἰς χεῖρας αὐτῶν, καὶ κατασκάψουσι τὸ πορνεῖόν σου καὶ καθελοῦσι τὴν βάσιν σου, καὶ ἐκδύσουσί σε τὰ ἱμάτιά σου καὶ λήψονται τὰ σκεύη τῆς καυχήσεώς σου καί ἀφήσουσί σε γυμνὴν καὶ ἀσχημονοῦσαν."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "16.22",
+    "form": "ἀσχημονοῦσα",
+    "postag": "v-sppafn-",
+    "sentence": "τοῦτο παρὰ πᾶσαν τὴν πορνείαν σου, καὶ οὐκ ἐμνήσθης τῆς νηπιότητός σου, ὅτε ἦσθα γυμνὴ καὶ ἀσχημονοῦσα καὶ πεφυρμένη ἐν τῷ αἵματί σου ἔζησας."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   ἀσχημονέω, -ῶ    (< ἀσχήμαων),   [in LXX: Ez 16:7, 22, 39 23:29 (עֶרְיָה); De 25:3 (קלה ni.)*;]    to act unbecomingly, behave dishonourably: I Co 13:5; seq. ἐπί, I Co 7:36 (MM, s.v.).†"
+}

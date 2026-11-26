@@ -1,0 +1,177 @@
+{
+ "strong": "G971",
+ "lemma": "βιάζω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 16:16",
+   "form": "βιάζεται",
+   "morph": "V-PMI-3S",
+   "gloss_en": "urgently pressed",
+   "gloss_ja": "力ずくで行く",
+   "verse": "Ὁ νόμος καὶ οἱ προφῆται μέχρι Ἰωάννου· ἀπὸ τότε ἡ βασιλεία τοῦ θεοῦ εὐαγγελίζεται καὶ πᾶς εἰς αὐτὴν βιάζεται."
+  },
+  {
+   "ref": "MAT 11:12",
+   "form": "βιάζεται",
+   "morph": "V-PPI-3S",
+   "gloss_en": "suffers violence",
+   "gloss_ja": "力ずくで行く",
+   "verse": "ἀπὸ δὲ τῶν ἡμερῶν Ἰωάννου τοῦ βαπτιστοῦ ἕως ἄρτι ἡ βασιλεία τῶν οὐρανῶν βιάζεται, καὶ βιασταὶ ἁρπάζουσιν αὐτήν."
+  }
+ ],
+ "lxx": {
+  "total": 16,
+  "works": {
+   "Genesis": 1,
+   "Exodus": 1,
+   "Deuteronomium": 2,
+   "Judices": 1,
+   "Regnorum ii": 2,
+   "Esther": 1,
+   "Machabaeorum ii": 1,
+   "Machabaeorum iv": 5,
+   "Ecclesiasticus sive Siracides": 2
+  },
+  "representatives": [
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "8.24",
+    "form": "βιαζώμεθα",
+    "postag": "v1ppsm---",
+    "sentence": "μὴ βιαζώμεθα τὴν ἀνάγκην μη-δὲ φιλοδοξήσωμεν ἐπὶ τῇ ἑαυτῶν στρέβλῃ."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "22.25",
+    "form": "βιασάμενος",
+    "postag": "v-sapmmn-",
+    "sentence": "ἐὰν δὲ ἐν πεδίῳ εὕρῃ ἄνθρωπος τὴν παῖδα τὴν μεμνηστευμένην καὶ βιασάμενος κοιμηθῇ μετ’ αὐτῆς, ἀποκτενεῖτε τὸν κοιμώμεμον μετ’ αὐτῆς μόνον καὶ τῇ νεάνιδι οὐ ποιήσετε οὐδέν ·"
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "13.25",
+    "form": "ἐβιάσατο",
+    "postag": "v3saim---",
+    "sentence": "καὶ ἐβιάσατο αὐτόν, καὶ οὐκ ἠθέλησε τοῦ πορευθῆναι καὶ εὐλόγησεν αὐτόν."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "31.21",
+    "form": "ἐβιάσθης",
+    "postag": "v2saip---",
+    "sentence": "καὶ εἰ ἐβιάσθης ἐν ἐδέσμασιν, ἀνάστα μεσοπωρῶν καὶ ἀναπαύσῃ."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "33.11",
+    "form": "ἐβιάσατο",
+    "postag": "v3saim---",
+    "sentence": "καὶ ἐβιάσατο αὐτὸν καὶ ἔλαβε ·"
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "19.24",
+    "form": "βιαζέσθωσαν",
+    "postag": "v3ppmm---",
+    "sentence": "οἱ δὲ ἱερεῖς καὶ ὁ λαὸς μὴ βιαζέσθωσαν ἀναβῆναι πρὸς τὸν Θεόν, μή ποτε ἀπολέσῃ ἀπ’ αὐτῶν Κύριος."
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "19.7",
+    "form": "ἐβιάσατο",
+    "postag": "v3saim---",
+    "sentence": "καὶ ἐβιάσατο αὐτὸν ὁ γαμβρὸς αὐτοῦ, καὶ ἐκάθισε καὶ ηὐλίσθη ἐκεῖ."
+   },
+   {
+    "work_code": "EST",
+    "work_ja": "エステル記",
+    "work_src": "Esther",
+    "ref": "7.8",
+    "form": "βιάζῃ",
+    "postag": "v2spim---",
+    "sentence": "ὥστε καὶ τὴν γυναῖκα βιάζῃ ἐν τῇ οἰκίᾳ μου;"
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "14.41",
+    "form": "βιαζομένων",
+    "postag": "v-pppmmg-",
+    "sentence": "τῶν δὲ πληθῶν μελλόντων τὸν πύργον καταλαβέσθαι καὶ τὴν αὐλαίαν θύραν βιαζομένων καὶ κελευόντων πῦρ προσάγειν καὶ τὰς θύρας ὑφάπτειν, περικατάληπτος γενόμενος ὑπέθηκε ἑαυτῷ ξίφος, εὐγενῶς θέλων ἀποθανεῖν ἤπερ τοῖς ἀλιτηρίοις ὑποχείριος γενέσθαι καὶ τῆς ἰδίας εὐγενείας ἀναξίως ὑβρισθῆναι."
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "5.22",
+    "form": "βιούντων",
+    "postag": "v-pppamg-",
+    "sentence": "χλευάζεις δὲ ἡμῶν τὴν φιλοσοφίαν, ὥσπερ οὐ μετὰ εὐλογιστίας ἐν αὐτῇ βιούντων ·"
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "22.28",
+    "form": "βιασάμενος",
+    "postag": "v-sapmmn-",
+    "sentence": "ἐὰν δέ τις εὕρῃ τὴν παῖδα τὴν παρθένον, ἥτις οὐ μεμνήστευται, καὶ βιασάμενος κοιμηθῇ μετ’ αὐτῆς καὶ εὑρεθῇ, δώσει ὁ ἄνθρωπος ὁ κοιμηθεὶς μετ’ αὐτῆς τῷ πατρὶ τῆς νεάνιδος πεντήκοντα δίδραχμα ἀργυρίου, καὶ αὐτοῦ ἔσται γυνή, ἀνθ’ ὧν ἐταπείνωσεν αὐτήν ·"
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "13.27",
+    "form": "ἐβιάσατο",
+    "postag": "v3saim---",
+    "sentence": "καὶ ἐβιάσατο αὐτὸν Ἀβεσσαλώμ, καὶ ἀπέστειλε μετ’ αὐτοῦ τὸν Ἀμνὼν καὶ πάντας τοὺς υἱοὺς τοῦ βασιλέως."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "To Diognetus": 2
+  },
+  "representatives": [
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "7",
+    "form": "βιαζόμενος",
+    "postag": "v-sppmmn-",
+    "sentence": "ἀλλ’ ἐν ἐπιεικείᾳ καὶ πραΰτητι ὡς βασιλεὺς πέμπων υἱὸν βασιλέα ἔπεμψεν, ὡς θεὸν ἔπεμψεν, ὡς ἄνθρωπον πρὸς ἀνθρώπους ἔπεμψεν, ὡς σώζων ἔπεμψεν, ὡς πείθων, οὐ βιαζόμενος ·"
+   },
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "10",
+    "form": "βιάζεσθαι",
+    "postag": "v--pnm---",
+    "sentence": "οὐ γὰρ τὸ καταδυναστεύειν τῶν πλησίον οὐ-δὲ τὸ πλέον ἔχειν βούλεσθαι τῶν ἀσθενεστέρων οὐ-δὲ τὸ πλουτεῖν καὶ βιάζεσθαι τοὺς ὑποδεεστέρους εὐδαιμονεῖν ἐστίν, οὐ-δὲ ἐν τούτοις δύναταί τις μιμήσασθαι θεόν, ἀλλὰ ταῦτα ἐκτὸς τῆς ἐκείνου μεγαλειότητος."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   βιάζω (< βία), and depon. -ομαι,    [in LXX for פּרץ, פּצר, etc.;]    to force, constrain, rare in act. (poet, and late prose), but found in cl. in pass., and so perh. βιάζεται, suffereth violence, Mt 11:12, EV (but v. infr.), whether     in good sense, of disciples (Thayer, al.), or     in bad sense, of the enemies of the kingdom (Meyer, in l.; Dalman, Words, 139 ff.; Cremer, 141 ff.). Mid., advanceth violently, Mt 11:12 (Deiss., BS., 258; Banks, v. ref. in DCG, ii, 803 f.); seq. εἰς, to press violently, or force one's way into, Lk 16:16 (v. ICC, in l., and in Mt 11:12; cf. παραβιάζομαι and v. MM, s.v.).†"
+}

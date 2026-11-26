@@ -1,0 +1,58 @@
+{
+ "strong": "G54",
+ "lemma": "ἁγνότης",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2CO 6:6",
+   "form": "ἁγνότητι",
+   "morph": "N-DSF",
+   "gloss_en": "purity",
+   "gloss_ja": "純粋",
+   "verse": "ἐν ἁγνότητι, ἐν γνώσει, ἐν μακροθυμίᾳ, ἐν χρηστότητι, ἐν πνεύματι ἁγίῳ, ἐν ἀγάπῃ ἀνυποκρίτῳ,"
+  },
+  {
+   "ref": "2CO 11:3",
+   "form": "ἁγνότητος",
+   "morph": "N-GSF",
+   "gloss_en": "pure",
+   "gloss_ja": "純粋",
+   "verse": "φοβοῦμαι δὲ μή πως, ὡς ὁ ὄφις ἐξηπάτησεν Εὕαν ἐν τῇ πανουργίᾳ αὐτοῦ, φθαρῇ τὰ νοήματα ὑμῶν ἀπὸ τῆς ἁπλότητος καὶ τῆς ἁγνότητος τῆς εἰς τὸν Χριστόν."
+  }
+ ],
+ "lxx": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "Hermas, Pastor": 2
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "9.4.4",
+    "form": "ἁγνότητι",
+    "postag": "n-s---fd-",
+    "sentence": "καὶ πᾶσι δὲ ἄφεσις ἔσται, ἐὰν τὰς ἐντολάς μου ταύτας φυλάξωσι καὶ πορευθῶσιν ἐν τῇ ἁγνότητι ταύτῃ."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "3.7.3",
+    "form": "ἁγνότης",
+    "postag": "n-s---fn-",
+    "sentence": "εἶτα ὅταν αὐτοῖς ἔλθῃ εἰς μνείαν ἡ ἁγνότης τῆς ἀληθείας, μετανοοῦσιν καὶ πορεύονται πάλιν ὀπίσω τῶν ἐπιθυμιῶν αὐτῶν τῶν πονηρῶν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   ἁγνότης, -τητος, ἡ     (< ἁγνός),    purity, chastity (cf. ἁγιότης): II Co 6:6 11:3.†"
+}

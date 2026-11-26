@@ -1,0 +1,37 @@
+{
+ "strong": "G5331a",
+ "lemma": "φαρμακεία",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": "G5331（φάρμακον）と番号を共有していたため、接尾辞 a で別項目にした。用例は G5331 の抽出から語形の語幹で φαρμακεία のものを切り分けた。",
+ "nt_occurrences": [
+  {
+   "ref": "GAL 5:20",
+   "form": "φαρμακεία",
+   "morph": "N-NSF",
+   "gloss_en": "sorcery",
+   "gloss_ja": "魔術",
+   "verse": "εἰδωλολατρία, φαρμακεία, ἔχθραι, ἔρις, ζῆλος, θυμοί, ἐριθεῖαι, διχοστασίαι, αἱρέσεις,"
+  },
+  {
+   "ref": "REV 18:23",
+   "form": "φαρμακείᾳ",
+   "morph": "N-DSF",
+   "gloss_en": "sorcery",
+   "gloss_ja": "魔術",
+   "verse": "καὶ φῶς λύχνου οὐ μὴ φάνῃ ἐν σοὶ ἔτι, καὶ φωνὴ νυμφίου καὶ νύμφης οὐ μὴ ἀκουσθῇ ἐν σοὶ ἔτι· ὅτι οἱ ἔμποροί σου ἦσαν οἱ μεγιστᾶνες τῆς γῆς, ὅτι ἐν τῇ φαρμακείᾳ σου ἐπλανήθησαν πάντα τὰ ἔθνη,"
+  }
+ ],
+ "lxx": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2 φαρμακία (Rec. -εία), -ας, ἡ    (< φαρμακεύω, to administer drugs)       poët. and late prose form of φαρμακεία,     [in LXX: Ex 7:11, 22 8:7, 18 (3, 14) (לָט, חַרְטֹם), Is 47:9, 12 (כֶּשֶׁף) Wi 12:4 18:13 * ;]    generally, the use of medicine, drugs or spells (Xen.).    (a) poisoning (Plut., Polyb.);    sorcery, witchcraft: Ga 5:20 (v. Lft., in l.), Re 9:21 (WH, txt., φαρμάκων) 18:23 (cf. LXX, ll. c.).†"
+}

@@ -1,0 +1,88 @@
+{
+ "strong": "G4492",
+ "lemma": "ῥιζόομαι",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": "ριζοω",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "COL 2:7",
+   "form": "ἐρριζωμένοι",
+   "morph": "V-RPP-NPM",
+   "gloss_en": "rooted",
+   "gloss_ja": "根付かせる",
+   "verse": "ἐρριζωμένοι καὶ ἐποικοδομούμενοι ἐν αὐτῷ καὶ βεβαιούμενοι τῇ πίστει καθὼς ἐδιδάχθητε, περισσεύοντες ἐν εὐχαριστίᾳ."
+  },
+  {
+   "ref": "EPH 3:17",
+   "form": "ἐρριζωμένοι",
+   "morph": "V-RPP-NPM",
+   "gloss_en": "rooted",
+   "gloss_ja": "根付かせる",
+   "verse": "κατοικῆσαι τὸν Χριστὸν διὰ τῆς πίστεως ἐν ταῖς καρδίαις ὑμῶν ἐν ἀγάπῃ· ἐρριζωμένοι καὶ τεθεμελιωμένοι,"
+  }
+ ],
+ "lxx": {
+  "total": 5,
+  "works": {
+   "Ecclesiasticus sive Siracides": 2,
+   "Psalmi Salomonis": 1,
+   "Isaias": 1,
+   "Jeremias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "24.12",
+    "form": "ἐρρίζωσα",
+    "postag": "v1saia---",
+    "sentence": "καὶ ἐρρίζωσα ἐν λαῷ δεδοξασμένῳ, ἐν μερίδι Κυρίου κληρονομίας αὐτοῦ."
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "14.4",
+    "form": "ἐρριζωμένη",
+    "postag": "v-srpmfn-",
+    "sentence": "ἡ φυτεία αὐτῶν ἐρριζωμένη εἰς τὸν αἰῶνα, οὐκ ἐκτιλήσονται πάσας τὰς ἡμέρας τοῦ οὐρανοῦ ·"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "40.24",
+    "form": "ριζωθῇ",
+    "postag": "v3sasp---",
+    "sentence": "οὐ γὰρ μὴ φυτεύσωσιν, οὐ-δὲ μὴ σπείρωσιν, οὐ-δὲ μὴ ριζωθῇ εἰς τὴν γῆν ἡ ρίζα αὐτῶν ·"
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "12.2",
+    "form": "ἐρριζώθησαν",
+    "postag": "v3paip---",
+    "sentence": "ἐφύτευσας αὐτοὺς καὶ ἐρριζώθησαν ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "3.28",
+    "form": "ἐρρίζωκεν",
+    "postag": "v3sria---",
+    "sentence": "ἐπαγωγὴ ὑπερηφάνου οὐκ ἔστιν ἴασις, φυτὸν γὰρ πονηρίας ἐρρίζωκεν ἐν αὐτῷ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2 ῥιζόω, -ῶ    (< ῥίζα),    [in LXX: Is 40:24, Je 12:2 (שׁרשׁ), Si 3:28 24:12 * ;]     to cause to take root. Metaph., to plant, fix firmly, establish: pass. (EV, rooted), ἐν ἀγάπῃ, Eph 3:18 (17) ; ἐν Χριστῷ, Col 2:7 (cf. ἐκ ριζόω).†"
+}

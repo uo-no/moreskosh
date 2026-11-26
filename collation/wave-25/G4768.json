@@ -1,0 +1,67 @@
+{
+ "strong": "G4768",
+ "lemma": "στυγνάζω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MAT 16:3",
+   "form": "στυγνάζων",
+   "morph": "V-PAP-NSM",
+   "gloss_en": "threatening",
+   "gloss_ja": "暗くなる",
+   "verse": "καὶ πρωΐ· Σήμερον χειμών, πυρράζει γὰρ στυγνάζων ὁ οὐρανός. τὸ μὲν πρόσωπον τοῦ οὐρανοῦ γινώσκετε διακρίνειν, τὰ δὲ σημεῖα τῶν καιρῶν οὐ δύνασθε."
+  },
+  {
+   "ref": "MRK 10:22",
+   "form": "στυγνάσας",
+   "morph": "V-AAP-NSM",
+   "gloss_en": "shocked",
+   "gloss_ja": "暗くなる",
+   "verse": "ὁ δὲ στυγνάσας ἐπὶ τῷ λόγῳ ἀπῆλθεν λυπούμενος, ἦν γὰρ ἔχων κτήματα πολλά."
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Ezechiel": 3
+  },
+  "representatives": [
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "28.19",
+    "form": "στυγνάσουσιν",
+    "postag": "v3pfia---",
+    "sentence": "καὶ πάντες οἱ ἐπιστάμενοί σε ἐν τοῖς ἔθνεσι στυγνάσουσιν ἐπὶ σέ ·"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "27.35",
+    "form": "ἐστύγνασαν",
+    "postag": "v3paia---",
+    "sentence": "πάντες οἱ κατοικοῦντες τὰς νήσους ἐστύγνασαν ἐπὶ σέ, καὶ οἱ βασιλεῖς αὐτῶν ἐκστάσει ἐξέστησαν, καὶ ἐδάκρυσε τὸ πρόσωπον αὐτῶν."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "32.10",
+    "form": "στυγνάσουσιν",
+    "postag": "v3pfia---",
+    "sentence": "καὶ στυγνάσουσιν ἐπὶ σὲ ἔθνη πολλά, καὶ οἱ βασιλεῖς αὐτῶν ἐκστάσει ἐκστήσονται ἐν τῷ πέτασθαι τὴν ρομφαίαν μου ἐπὶ πρόσωπα αὐτῶν, προσδεχόμενοι τὴν πτῶσιν αὐτῶν ἀφ’ ἡμέρας πτώσεώς σου."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2 † στυγνάζω    (< στυγνός, sombre, gloomy, sullen, Is 5:17, Wi 17:5, Da LXX 2:12*),    [in LXX: Ez 27:35 28:19 32:10 (שָׁמֵם)* ;]     to have a sombre, gloomy appearance: of the human countenance (RV, his countenance fell), Mk 10:22; of the sky (so στυγνότης, Polyb., iv, 21, 1), Mt 16:3 (|[WH]|, R, mg., om.).†"
+}

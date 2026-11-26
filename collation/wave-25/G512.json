@@ -1,0 +1,111 @@
+{
+ "strong": "G512",
+ "lemma": "ἀνωφελής",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "HEB 7:18",
+   "form": "ἀνωφελές",
+   "morph": "A-ASN",
+   "gloss_en": "uselessness",
+   "gloss_ja": "無益な",
+   "verse": "ἀθέτησις μὲν γὰρ γίνεται προαγούσης ἐντολῆς διὰ τὸ αὐτῆς ἀσθενὲς καὶ ἀνωφελές,"
+  },
+  {
+   "ref": "TIT 3:9",
+   "form": "ἀνωφελεῖς",
+   "morph": "A-NPF",
+   "gloss_en": "unprofitable",
+   "gloss_ja": "無益な",
+   "verse": "μωρὰς δὲ ζητήσεις καὶ γενεαλογίας καὶ ἔρεις καὶ μάχας νομικὰς περιΐστασο, εἰσὶν γὰρ ἀνωφελεῖς καὶ μάταιοι."
+  }
+ ],
+ "lxx": {
+  "total": 5,
+  "works": {
+   "Proverbia": 1,
+   "Sapientia Salomonis": 1,
+   "Psalmi Salomonis": 1,
+   "Isaias": 1,
+   "Jeremias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "28.3",
+    "form": "ἀνωφελής",
+    "postag": "a-s---mn-",
+    "sentence": "ὥσπερ ὑετὸς λάβρος καὶ ἀνωφελής, οὕτως οἱ ἐγκαταλείποντες τὸν νόμον ἐγκωμιάζουν ἀσέβειαν, οἱ δὲ ἀγαπῶντες τὸν νόμον περιβάλλουσιν ἑαυτοῖς τεῖχος."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "1.11",
+    "form": "ἀνωφελῆ",
+    "postag": "a-s---ma-",
+    "sentence": "φυλάξασθε τοίνυν γογγυσμὸν ἀνωφελῆ καὶ ἀπὸ καταλαλιᾶς φείσασθε γλώσσης ·"
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "16.8",
+    "form": "ἀνωφελοῦς",
+    "postag": "a-s---fg-",
+    "sentence": "καὶ μὴ ἀπατησάτω με κάλλος γυναικὸς παρανομούσης καὶ παντὸς ὑποκειμένου ἀπὸ ἁμαρτίας ἀνωφελοῦς."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "44.10",
+    "form": "ἀνωφελῆ",
+    "postag": "a-p---na-",
+    "sentence": "ἀλλὰ αἰσχυνθήσονται πάντες οἱ πλάσσοντες Θεὸν καὶ γλύφοντες ἀνωφελῆ, καὶ πάντες ὅθεν ἐγένοντο ἐξηράνθησαν, καὶ κωφοὶ ἀπὸ ἀνθρώπων συναχθήτωσαν πάντες καὶ στησάτωσαν ἅμα, ἐντραπήτωσαν καὶ αἰσχυνθήτωσαν ἅμα."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "2.8",
+    "form": "ἀνωφελοῦς",
+    "postag": "a-s---fg-",
+    "sentence": "καὶ οἱ ἀντεχόμενοι τοῦ νόμου οὐκ ἠπίσταντό με, καὶ οἱ ποιμένες ἠσέβουν εἰς ἐμέ, καὶ οἱ προφῆται ἐπροφήτευον τῇ Βάαλ καὶ ὀπίσω ἀνωφελοῦς ἐπορεύθησαν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "Hermas, Pastor": 1,
+   "Ignatius, Letters": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "22.1.3",
+    "form": "ἀνωφελής",
+    "postag": "a-s---fn-",
+    "sentence": "οὐκ οἴδατε, φησί, νηστεύειν τῷ κυρίῳ, οὐ-δέ ἐστιν νηστεία αὕτη ἡ ἀνωφελής, ἣν νηστεύετε αὐτῷ."
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "2.8.1",
+    "form": "ἀνωφελέσιν",
+    "postag": "a-p---nd-",
+    "sentence": "μὴ πλανᾶσθε ταῖς ἑτεροδοξίαις μη-δὲ μυθεύμασιν τοῖς παλαιοῖς ἀνωφελέσιν οὖσιν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   ἀν-ωφελής, -ές    (ἀ- neg., ὄφελος),   [in LXX: Is 44:10 (הוֹעִיל בִּלְתִּי), Je 2:8 (הוֹעִיל לֹא), Pr 28:3, Wi 1:11*;]    unprofitable: Tit 3:9; neut. as subst., unprofitableness: He 7:18.†"
+}

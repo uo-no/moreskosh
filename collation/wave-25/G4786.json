@@ -1,0 +1,71 @@
+{
+ "strong": "G4786",
+ "lemma": "συγκεράννυμι",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 12:24",
+   "form": "συνεκέρασεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "composed",
+   "gloss_ja": "混ぜ合わせる",
+   "verse": "τὰ δὲ εὐσχήμονα ἡμῶν οὐ χρείαν ἔχει. ἀλλὰ ὁ θεὸς συνεκέρασεν τὸ σῶμα, τῷ ὑστεροῦντι περισσοτέραν δοὺς τιμήν,"
+  },
+  {
+   "ref": "HEB 4:2",
+   "form": "συγκεκερασμένους",
+   "morph": "V-RPP-APM",
+   "gloss_en": "united",
+   "gloss_ja": "混ぜ合わせる",
+   "verse": "καὶ γάρ ἐσμεν εὐηγγελισμένοι καθάπερ κἀκεῖνοι, ἀλλ’ οὐκ ὠφέλησεν ὁ λόγος τῆς ἀκοῆς ἐκείνους, μὴ συγκεκερασμένους τῇ πίστει τοῖς ἀκούσασιν."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Machabaeorum ii": 1,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "15.39",
+    "form": "συγκερασθεὶς",
+    "postag": "v-sappmn-",
+    "sentence": "ὃν δὲ τρόπον οἶνος ὕδατι συγκερασθεὶς ἡδὺς καὶ ἐπιτερπῆ τὴν χάριν ἀποτελεῖ, οὕτω καὶ τὸ τῆς κατασκευῆς τοῦ λόγου τέρπει τὰς ἀκοὰς τῶν ἐντυγχανόντων τῇ συντάξει."
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "2.43",
+    "form": "συγκραθῆναι",
+    "postag": "v--anp---",
+    "sentence": "καὶ ὡς εἶδες τὸν σίδηρον ἀναμεμειγμένον ἅμα τῷ πηλίνῳ ὀστράκῳ, συμμειγεῖς ἔσονται εἰς γένεσιν ἀνθρώπων, οὐκ ἔσονται δὲ ὁμονοοῦντες οὔ-τε εὐνοοῦντες ἀλλήλοις, ὥσπερ οὐ-δὲ ὁ σίδηρος δύναται συγκραθῆναι τῷ ὀστράκῳ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "3.9.8",
+    "form": "συνκεράσαι",
+    "postag": "v--ana---",
+    "sentence": "ἐνεσκιρωμένοι ἐστὲ καὶ οὐ θέλετε καθαρίσαι τὰς καρδίας ὑμῶν καὶ συνκεράσαι ὑμῶν τὴν φρόνησιν ἐπὶ τὸ αὐτὸ ἐν καθαρᾷ καρδίᾳ, ἵνα σχῆτε ἔλεος παρὰ τοῦ βασιλέως τοῦ μεγάλου."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2 συν-κεράννυμι    (Rec. συγκ-),    [in LXX: Da LXX 2:43 (עֲרַב ithpa.), II Mac 15:39 * ;]    to mix or blend together, compound: c. acc., I Co 12:24; ptcp. pf. pass., He 4:2, T, WH, mg., R, mg.; id., of persons, c. dat. instr., to be united with, agree with, ib., WH, txt., R, txt. (v. Westc., in l.).†"
+}

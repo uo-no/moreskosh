@@ -1,0 +1,77 @@
+{
+ "strong": "G5313",
+ "lemma": "ὕψωμα",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2CO 10:5",
+   "form": "ὕψωμα",
+   "morph": "N-ASN",
+   "gloss_en": "proud obstacle",
+   "gloss_ja": "高さ",
+   "verse": "καὶ πᾶν ὕψωμα ἐπαιρόμενον κατὰ τῆς γνώσεως τοῦ θεοῦ, καὶ αἰχμαλωτίζοντες πᾶν νόημα εἰς τὴν ὑπακοὴν τοῦ Χριστοῦ,"
+  },
+  {
+   "ref": "ROM 8:39",
+   "form": "ὕψωμα",
+   "morph": "N-NSN",
+   "gloss_en": "height",
+   "gloss_ja": "高さ",
+   "verse": "οὔτε ὕψωμα οὔτε βάθος οὔτε τις κτίσις ἑτέρα δυνήσεται ἡμᾶς χωρίσαι ἀπὸ τῆς ἀγάπης τοῦ θεοῦ τῆς ἐν Χριστῷ Ἰησοῦ τῷ κυρίῳ ἡμῶν."
+  }
+ ],
+ "lxx": {
+  "total": 4,
+  "works": {
+   "Judith": 3,
+   "Job": 1
+  },
+  "representatives": [
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "15.9",
+    "form": "ὕψωμα",
+    "postag": "n-s---nn-",
+    "sentence": "σὺ ὕψωμα Ἰσραήλ, σὺ γαυρίαμα μέγα τοῦ Ἰσραήλ, σὺ καύχημα μέγα τοῦ γένους ἡμῶν ·"
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "24.24",
+    "form": "ὕψωμα",
+    "postag": "n-s---nn-",
+    "sentence": "πολλοὺς γὰρ ἐκάκωσε τὸ ὕψωμα αὐτοῦ, ἐμαράνθη δὲ ὥσπερ μολόχη ἐν καύματι ἢ ὥσπερ στάχυς ἀπὸ καλάμης αὐτόματος ἀποπεσών."
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "13.4",
+    "form": "ὕψωμα",
+    "postag": "n-s---na-",
+    "sentence": "Κύριε ὁ Θεὸς πάσης δυνάμεως, ἐπίβλεψον ἐν τῇ ὥρᾳ ταύτῃ ἐπὶ τὰ ἔργα τῶν χειρῶν μου εἰς ὕψωμα Ἱερουσαλήμ ·"
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "10.8",
+    "form": "ὕψωμα",
+    "postag": "n-s---na-",
+    "sentence": "ὁ Θεὸς ὁ Θεὸς τῶν πατέρων ἡμῶν δῴη σε εἰς χάριν καὶ τελειώσαι τὰ ἐπιτηδεύματά σου εἰς γαυρίαμα υἱῶν Ἰσραὴλ καὶ ὕψωμα Ἱερουσαλήμ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2 ὕψωμα, -τος, τό     [in LXX: Jb 24:24 (†), Jth 10:8 13:4 15:9 * ;]     height: Ro 8:39;    that which is lifted up, a barrier: II Co 10:5.†"
+}

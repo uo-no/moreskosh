@@ -1,0 +1,58 @@
+{
+ "strong": "G5029",
+ "lemma": "τάχα",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "PHM 1:15",
+   "form": "τάχα",
+   "morph": "ADV",
+   "gloss_en": "perhaps",
+   "gloss_ja": "おそらく",
+   "verse": "τάχα γὰρ διὰ τοῦτο ἐχωρίσθη πρὸς ὥραν ἵνα αἰώνιον αὐτὸν ἀπέχῃς,"
+  },
+  {
+   "ref": "ROM 5:7",
+   "form": "τάχα",
+   "morph": "ADV",
+   "gloss_en": "perhaps",
+   "gloss_ja": "おそらく",
+   "verse": "μόλις γὰρ ὑπὲρ δικαίου τις ἀποθανεῖται· ὑπὲρ γὰρ τοῦ ἀγαθοῦ τάχα τις καὶ τολμᾷ ἀποθανεῖν·"
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Sapientia Salomonis": 2
+  },
+  "representatives": [
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "14.19",
+    "form": "τάχα",
+    "postag": "d--------",
+    "sentence": "ὁ μὲν γὰρ τάχα τῷ κρατοῦντι βουλόμενος ἀρέσαι, ἐξεβιάσατο τῇ τέχνῃ τὴν ὁμοιότητα ἐπὶ τὸ κάλλιον ·"
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "13.6",
+    "form": "τάχα",
+    "postag": "d--------",
+    "sentence": "ἀλλ’ ὅμως ἐπὶ τούτοις ἔστι μέμψις ὀλίγη, καὶ γὰρ αὐτοὶ τάχα πλανῶνται Θεὸν ζητοῦντες καὶ θέλοντες εὑρεῖν ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2 ** τάχα     (< ταχύς),   adv.,     [in LXX: Wi 13:6 14:19 * ;]     (chiefly poët.), quickly, presently;      perhaps: Ro 5:7, Phm 15.†"
+}

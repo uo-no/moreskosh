@@ -1,0 +1,81 @@
+{
+ "strong": "G4707",
+ "lemma": "σπουδαῖος",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2CO 8:17",
+   "form": "σπουδαιότερος",
+   "morph": "A-NSM-C",
+   "gloss_en": "earnest",
+   "gloss_ja": "熱心な",
+   "verse": "ὅτι τὴν μὲν παράκλησιν ἐδέξατο, σπουδαιότερος δὲ ὑπάρχων αὐθαίρετος ἐξῆλθεν πρὸς ὑμᾶς."
+  },
+  {
+   "ref": "2CO 8:22",
+   "form": "σπουδαιότερον",
+   "morph": "A-ASM-C",
+   "gloss_en": "more diligent",
+   "gloss_ja": "熱心な",
+   "verse": "συνεπέμψαμεν δὲ αὐτοῖς τὸν ἀδελφὸν ἡμῶν ὃν ἐδοκιμάσαμεν ἐν πολλοῖς πολλάκις σπουδαῖον ὄντα, νυνὶ δὲ πολὺ σπουδαιότερον πεποιθήσει πολλῇ τῇ εἰς ὑμᾶς."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Sapientia Salomonis": 1,
+   "Ezechiel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "2.6",
+    "form": "σπουδαίως",
+    "postag": "d--------",
+    "sentence": "δεῦτε οὖν καὶ ἀπολαύσωμεν τῶν ὄντων ἀγαθῶν καὶ χρησώμεθα τῇ κτίσει ὡς ἐν νεότητι σπουδαίως."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "41.25",
+    "form": "σπουδαῖα",
+    "postag": "a-p---nn-",
+    "sentence": "καὶ γλυφὴ ἐπ’ αὐτῶν, καὶ ἐπὶ τὰ θυρώματα τοῦ ναοῦ Χερουβίμ, καὶ φοίνικες κατὰ τὴν γλυφὴν τῶν ἁγίων, καὶ σπουδαῖα ξύλα κατὰ πρόσωπον τοῦ αἰλὰμ ἔξωθεν καὶ θυρίδες κρυπταί."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "Hermas, Pastor": 1,
+   "Ignatius, Letters": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "3.1.2",
+    "form": "σπουδαῖος",
+    "postag": "a-s---mn-",
+    "sentence": "ἐπεὶ οὕτως ἐνδεὴς εἶ καὶ σπουδαῖος εἰς τὸ γνῶναι πάντα, ἐλθὲ εἰς τὸν ἀγρόν, ὅπου χονδρίζεις, καὶ περὶ ὥραν πέμπτην ἐμφανισθήσομαί σοι καὶ δείξω σοι, ἃ δεῖ σε ἰδεῖν."
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "7.3.2",
+    "form": "σπουδαῖος",
+    "postag": "a-s---mn-",
+    "sentence": "πλέον σπουδαῖος γίνου οὗ εἶ."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": null
+}

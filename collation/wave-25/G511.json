@@ -1,0 +1,59 @@
+{
+ "strong": "G511",
+ "lemma": "ἀνώτερον",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": "ανωτερος",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "HEB 10:8",
+   "form": "ἀνώτερον",
+   "morph": "A-ASN-C",
+   "gloss_en": "above",
+   "gloss_ja": "より高い",
+   "verse": "ἀνώτερον λέγων ὅτι Θυσίας καὶ προσφορὰς καὶ ὁλοκαυτώματα καὶ περὶ ἁμαρτίας οὐκ ἠθέλησας οὐδὲ εὐδόκησας, αἵτινες κατὰ νόμον προσφέρονται,"
+  },
+  {
+   "ref": "LUK 14:10",
+   "form": "ἀνώτερον",
+   "morph": "A-ASN-C",
+   "gloss_en": "higher",
+   "gloss_ja": "より高い",
+   "verse": "ἀλλ’ ὅταν κληθῇς πορευθεὶς ἀνάπεσε εἰς τὸν ἔσχατον τόπον, ἵνα ὅταν ἔλθῃ ὁ κεκληκώς σε ἐρεῖ σοι· Φίλε, προσανάβηθι ἀνώτερον· τότε ἔσται σοι δόξα ἐνώπιον πάντων τῶν συνανακειμένων σοι."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Leviticus": 1,
+   "Esdras ii": 1
+  },
+  "representatives": [
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "11.21",
+    "form": "ἀνώτερον",
+    "postag": "a-s---na-",
+    "sentence": "ἀλλὰ ταῦτα φάγεσθε ἀπὸ τῶν ἑρπετῶν τῶν πετεινῶν, ἃ πορεύεται ἐπὶ τέσσαρα, ἃ ἔχει σκέλη ἀνώτερον τῶν ποδῶν αὐτοῦ, πηδᾶν ἐν αὐτοῖς ἐπὶ τῆς γῆς."
+   },
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "13.28",
+    "form": "ἀνώτερον",
+    "postag": "a-s---na-",
+    "sentence": "ἀνώτερον πύλης τῶν ἵππων ἐκράτησαν οἱ ἱερεῖς, ἀνὴρ ἐξεναντίας οἴκου ἑαυτοῦ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ἀνώτερος, α, -ον,    [in LXX: Ne 3:25 (עֶלְיוֹן), Ez 41:7 (מַעַל), To 8:3*;]     only in neut., as adv. (cf. ἐξώτερος),        of motion, higher: Lk 14:10;     of rest, above, before: He 10:8.†"
+}

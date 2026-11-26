@@ -1,0 +1,70 @@
+{
+ "strong": "G4984",
+ "lemma": "σωματικός",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1TI 4:8",
+   "form": "σωματικὴ",
+   "morph": "A-NSF",
+   "gloss_en": "bodily",
+   "gloss_ja": "肉体の",
+   "verse": "ἡ γὰρ σωματικὴ γυμνασία πρὸς ὀλίγον ἐστὶν ὠφέλιμος, ἡ δὲ εὐσέβεια πρὸς πάντα ὠφέλιμός ἐστιν, ἐπαγγελίαν ἔχουσα ζωῆς τῆς νῦν καὶ τῆς μελλούσης."
+  },
+  {
+   "ref": "LUK 3:22",
+   "form": "σωματικῷ",
+   "morph": "A-DSN",
+   "gloss_en": "bodily",
+   "gloss_ja": "肉体の",
+   "verse": "καὶ καταβῆναι τὸ πνεῦμα τὸ ἅγιον σωματικῷ εἴδει ὡς περιστερὰν ἐπ’ αὐτόν, καὶ φωνὴν ἐξ οὐρανοῦ γενέσθαι· Σὺ εἶ ὁ υἱός μου ὁ ἀγαπητός, ἐν σοὶ εὐδόκησα."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Machabaeorum iv": 2
+  },
+  "representatives": [
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "3.1",
+    "form": "σωματικῶν",
+    "postag": "a-p---ng-",
+    "sentence": "οὐ γὰρ τῶν ἑαυτοῦ παθῶν ὁ λογισμὸς ἐπικρατεῖν φαίνεται, ἀλλὰ τῶν σωματικῶν."
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "1.32",
+    "form": "σωματικαί",
+    "postag": "a-p---fn-",
+    "sentence": "σωφροσύνη δὴ τοίνην ἐστὶν ἐπικράτεια τῶν ἐπιθυμιῶν, τῶν δὲ ἐπιθυμιῶν αἱ μέν εἰσι ψυχικαί, αἱ δὲ σωματικαί, καὶ τούτων ἀμφοτέρων ὁ λογισμὸς ἐπικρατεῖν φαίνεται."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Didache": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DID",
+    "work_ja": "ディダケー",
+    "work_src": "Didache",
+    "ref": "1.4",
+    "form": "σωματικῶν",
+    "postag": "a-p---fg-",
+    "sentence": "ἀπέχου τῶν σαρκικῶν καὶ σωματικῶν ἐπιθυμιῶν ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "3 ** σωματικός, -ή, -όν    (< σῶμα),    [in LXX: IV Mac 1:32 3:1 * ;]     of or for the body, bodily: γυμνασία, I Ti 4:8;    (opp. to ἀσώματος) bodily, corporeal: εἶδος, Lk 3:22.†"
+}

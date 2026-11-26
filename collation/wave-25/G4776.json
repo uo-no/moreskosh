@@ -1,0 +1,89 @@
+{
+ "strong": "G4776",
+ "lemma": "συγκαθίζω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "EPH 2:6",
+   "form": "συνεκάθισεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "seated",
+   "gloss_ja": "共に座る",
+   "verse": "καὶ συνήγειρεν καὶ συνεκάθισεν ἐν τοῖς ἐπουρανίοις ἐν Χριστῷ Ἰησοῦ,"
+  },
+  {
+   "ref": "LUK 22:55",
+   "form": "συγκαθισάντων",
+   "morph": "V-AAP-GPM",
+   "gloss_en": "sat down together",
+   "gloss_ja": "共に座る",
+   "verse": "περιαψάντων δὲ πῦρ ἐν μέσῳ τῆς αὐλῆς καὶ συγκαθισάντων ἐκάθητο ὁ Πέτρος μέσος αὐτῶν."
+  }
+ ],
+ "lxx": {
+  "total": 5,
+  "works": {
+   "Genesis": 1,
+   "Exodus": 1,
+   "Numeri": 1,
+   "Esdras i": 1,
+   "Jeremias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "15.11",
+    "form": "συνεκάθισεν",
+    "postag": "v3saia---",
+    "sentence": "κατέβη δὲ ὄρνεα ἐπὶ τὰ σώματα, τὰ διχοτομήματα αὐτῶν, καὶ συνεκάθισεν αὐτοῖς Ἅβραμ."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "18.13",
+    "form": "συνεκάθισε",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἐγένετο μετὰ τὴν ἐπαύριον συνεκάθισε Μωυσῆς κρίνειν τὸν λαόν ·"
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "22.27",
+    "form": "συνεκάθισεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἰδοῦσα ἡ ὄνος τὸν ἄγγελον τοῦ Θεοῦ συνεκάθισεν ὑποκάτω Βαλαάμ ·"
+   },
+   {
+    "work_code": "1ES",
+    "work_ja": "エズラ記（ギリシャ語）",
+    "work_src": "Esdras i",
+    "ref": "9.6",
+    "form": "συνεκάθισαν",
+    "postag": "v3paia---",
+    "sentence": "καὶ ἐπισυνήχθησαν πάντες οἱ ἐκ τῆς φυλῆς Ἰούδα καὶ Βενιαμὶν ἐν τρισὶν ἡμέραις εἰς Ἱερουσαλήμ ( οὗτος ὁ μὴν ἔννατος τῇ εἰκάδι τοῦ μηνός ), καὶ συνεκάθισαν πᾶν τὸ πλῆθος ἐν τῷ εὐρυχώρῳ τοῦ ἱεροῦ τρέμοντες διὰ τὸν ἐνεστῶτα χειμῶνα."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "16.8",
+    "form": "συγκαθίσαι",
+    "postag": "v--ana---",
+    "sentence": "εἰς οἰκίαν πότου οὐκ εἰσελεύσῃ συγκαθίσαι μετ’ αὐτῶν τοῦ φαγεῖν καὶ πιεῖν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2 περι-καθ-ίζω,    [in LXX for חנה, לחם ni., etc.;]    to invest, besiege (Diod., IV Ki 6:24, I Mac 11:61, al.).     to sit around: Lk 22:55, L, txt.†"
+}

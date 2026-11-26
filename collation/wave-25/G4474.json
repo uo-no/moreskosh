@@ -1,0 +1,69 @@
+{
+ "strong": "G4474",
+ "lemma": "ῥαπίζω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MAT 5:39",
+   "form": "ῥαπίζει",
+   "morph": "V-PAI-3S",
+   "gloss_en": "slaps",
+   "gloss_ja": "平手打ちする",
+   "verse": "ἐγὼ δὲ λέγω ὑμῖν μὴ ἀντιστῆναι τῷ πονηρῷ· ἀλλ’ ὅστις σε ῥαπίζει εἰς τὴν δεξιὰν σιαγόνα, στρέψον αὐτῷ καὶ τὴν ἄλλην·"
+  },
+  {
+   "ref": "MAT 26:67",
+   "form": "ἐράπισαν",
+   "morph": "V-AAI-3P",
+   "gloss_en": "slapped",
+   "gloss_ja": "平手打ちする",
+   "verse": "τότε ἐνέπτυσαν εἰς τὸ πρόσωπον αὐτοῦ καὶ ἐκολάφισαν αὐτόν, οἱ δὲ ἐράπισαν"
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Judices": 1,
+   "Esdras i": 1,
+   "Osee": 1
+  },
+  "representatives": [
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "16.25",
+    "form": "ἐρράπιζον",
+    "postag": "v3piia---",
+    "sentence": "καὶ ἐκάλεσαν τὸν Σαμψὼν ἐξ οἴκου δεσμωτηρίου, και ἔπαιζεν ἐνώπιον αὐτῶν, καὶ ἐρράπιζον αὐτὸν καὶ ἔστησαν αὐτὸν ἀνὰ μέσον τῶν κιόνων."
+   },
+   {
+    "work_code": "1ES",
+    "work_ja": "エズラ記（ギリシャ語）",
+    "work_src": "Esdras i",
+    "ref": "4.30",
+    "form": "ἐρράπιζε",
+    "postag": "v3siia---",
+    "sentence": "ἐθεώρουν αὐτὸν καὶ Ἀπάμην τὴν θυγατέρα Βαρτάκου τοῦ θαυμαστοῦ, τὴν παλλακὴν τοῦ βασιλέως, καθημένην ἐν δεξιᾷ τοῦ βασιλέως καὶ ἀφαιροῦσαν τὸ διάδημα ἀπὸ τῆς κεφαλῆς τοῦ βασιλέως καὶ ἐπιτιθοῦσαν ἑαυτῇ καὶ ἐρράπιζε τὸν βασιλέα τῇ ἀριστερᾷ ·"
+   },
+   {
+    "work_code": "HOS",
+    "work_ja": "ホセア書",
+    "work_src": "Osee",
+    "ref": "11.4",
+    "form": "ραπίζων",
+    "postag": "v-sppamn-",
+    "sentence": "ἐν διαφθορᾷ ἀνθρώπων ἐξέτεινα αὐτοὺς ἐν δεσμοῖς ἀγαπήσεώς μου καὶ ἔσομαι αὐτοῖς ὡς ραπίζων ἄνθρωπος ἐπὶ τὰς σιαγόνας αὐτοῦ ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   ῥαπίζω    (< ῥαπίς, a rod),    [in LXX: Jg 16:25, Ho 11:4, I Es 4:31 * ;]     prop., to strike with a rod.    In late writers, to strike (the face) with the palm of the hand: Mt 26:67; c. acc. pers., seq. εἰς τ. σιαγόνα, Mt 5:39 (cf. Field, Notes, 40, 105).†"
+}

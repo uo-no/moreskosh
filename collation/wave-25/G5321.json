@@ -1,0 +1,49 @@
+{
+ "strong": "G5321",
+ "lemma": "φανέρωσις",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": "φανεροω",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 12:7",
+   "form": "φανέρωσις",
+   "morph": "N-NSF",
+   "gloss_en": "manifestation",
+   "gloss_ja": "現れ",
+   "verse": "ἑκάστῳ δὲ δίδοται ἡ φανέρωσις τοῦ πνεύματος πρὸς τὸ συμφέρον."
+  },
+  {
+   "ref": "2CO 4:2",
+   "form": "φανερώσει",
+   "morph": "N-DSF",
+   "gloss_en": "manifestation",
+   "gloss_ja": "現れ",
+   "verse": "ἀλλὰ ἀπειπάμεθα τὰ κρυπτὰ τῆς αἰσχύνης, μὴ περιπατοῦντες ἐν πανουργίᾳ μηδὲ δολοῦντες τὸν λόγον τοῦ θεοῦ, ἀλλὰ τῇ φανερώσει τῆς ἀληθείας συνιστάνοντες ἑαυτοὺς πρὸς πᾶσαν συνείδησιν ἀνθρώπων ἐνώπιον τοῦ θεοῦ."
+  }
+ ],
+ "lxx": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Ignatius, Letters": 1
+  },
+  "representatives": [
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "4.8.2",
+    "form": "φανερώσει",
+    "postag": "v3sfia---",
+    "sentence": "Ἰησοῦς δὲ Χριστὸς ὑμῖν ταῦτα φανερώσει, ὅτι ἀληθῶς λέγω ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2 † φανέρωσις, -εως, ἡ    (< φανερόω),    [in LXX as v.l. for δήλωσις אוּרִים), Le 8:8, Cod. Ven. (Thayer, s.v.) * ;]    manifestation: I Co 12:7, II Co 4:2.†"
+}

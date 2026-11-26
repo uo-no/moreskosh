@@ -1,0 +1,90 @@
+{
+ "strong": "G4684",
+ "lemma": "σπαταλάω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1TI 5:6",
+   "form": "σπαταλῶσα",
+   "morph": "V-PAP-NSF",
+   "gloss_en": "lives for pleasure",
+   "gloss_ja": "ぜいたくに生きる",
+   "verse": "ἡ δὲ σπαταλῶσα ζῶσα τέθνηκεν."
+  },
+  {
+   "ref": "JAS 5:5",
+   "form": "ἐσπαταλήσατε",
+   "morph": "V-AAI-2P",
+   "gloss_en": "in pleasure",
+   "gloss_ja": "ぜいたくに生きる",
+   "verse": "ἐτρυφήσατε ἐπὶ τῆς γῆς καὶ ἐσπαταλήσατε, ἐθρέψατε τὰς καρδίας ὑμῶν ἐν ἡμέρᾳ σφαγῆς."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Ecclesiasticus sive Siracides": 1,
+   "Ezechiel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "21.15",
+    "form": "σπαταλῶν",
+    "postag": "v-sppamn-",
+    "sentence": "ἤκουσεν ὁ σπαταλῶν καὶ ἀπήρεσεν αὐτῷ, καὶ ἀπέστρεψεν αὐτὸν ὀπίσω τοῦ νώτου αὐτοῦ."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "16.49",
+    "form": "ἐσπατάλων",
+    "postag": "v3piia---",
+    "sentence": "ἐν πλησμονῇ ἄρτων καὶ ἐν εὐθηνίᾳ οἴνου ἐσπατάλων αὐτὴ καὶ αἱ θυγατέρες αὐτῆς."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 3,
+  "works": {
+   "Barnabas": 1,
+   "Hermas, Pastor": 2
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "23.1.6",
+    "form": "σπαταλῶντα",
+    "postag": "v-pppann-",
+    "sentence": "ἔβοσκε δὲ πρόβατα πολλὰ λίαν, καὶ τὰ πρόβατα ταῦτα ὡσεὶ τρυφῶντα ἦν καὶ λίαν σπαταλῶντα καὶ ἱλαρὰ ἦν σκιρτῶντα ὧδε κα-κἀκεῖσε ·"
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "10.3",
+    "form": "σπαταλῶσιν",
+    "postag": "v3ppsa---",
+    "sentence": "τουτέστιν ὅταν σπαταλῶσιν, ἐπιλανθάνονται τοῦ κυρίου, ὅταν δὲ ὑστεροῦνται, ἐπιγινώσκουσιν τὸν κύριον, ὡς καὶ ὁ χοῖρος ὅταν τρώγει τὸν κύριον οὐκ οἶδεν, ὅταν δὲ πεινᾷ κραυγάζει, καὶ λαβὼν πάλιν σιωπᾷ."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "23.2.6",
+    "form": "σπαταλῶντα",
+    "postag": "v-pppana-",
+    "sentence": "οὗτος οὖν ὁ ποιμὴν παρελάμβανε τὰ πρόβατα ἀπὸ τοῦ ποιμένος τοῦ νεανίσκου, ἐκεῖνα τὰ σπαταλῶντα καὶ τρυφῶντα, μὴ σκιρτῶντα δέ, καὶ ἔβαλεν αὐτὰ εἴς τινα τόπον κρημνώδη καὶ ἀκανθώδη καὶ τριβολώδη, ὥστε ἀπὸ τῶν ἀκανθῶν καὶ τριβόλων μὴ δύνασθαι ἐκπλέξαι τὰ πρόβατα, ἀλλ’ ἐμπλέκεσθαι εἰς τὰς ἀκάνθας καὶ τριβόλους."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2 † σπαταλάω, -ῶ    (< σπατάλη, wantonness, luxury, Si 27:13 *),    [in LXX: Ez 16:49 (שׁקט hi.), Si 21:15 * ;]    to live riotously: I Ti 5:6, Ja 5:5 (Polyb.).†   SYN.: στρηνιάω, τρυφάω (v. Tr., Syn., § liv)"
+}

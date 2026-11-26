@@ -1,0 +1,69 @@
+{
+ "strong": "G4508",
+ "lemma": "ῥυπαρός",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JAS 2:2",
+   "form": "ῥυπαρᾷ",
+   "morph": "A-DSF",
+   "gloss_en": "filthy",
+   "gloss_ja": "汚れた",
+   "verse": "ἐὰν γὰρ εἰσέλθῃ εἰς συναγωγὴν ὑμῶν ἀνὴρ χρυσοδακτύλιος ἐν ἐσθῆτι λαμπρᾷ, εἰσέλθῃ δὲ καὶ πτωχὸς ἐν ῥυπαρᾷ ἐσθῆτι,"
+  },
+  {
+   "ref": "REV 22:11",
+   "form": "ῥυπαρὸς",
+   "morph": "A-NSM",
+   "gloss_en": "filthy",
+   "gloss_ja": "汚れた",
+   "verse": "ὁ ἀδικῶν ἀδικησάτω ἔτι, καὶ ὁ ῥυπαρὸς ῥυπαρευθήτω ἔτι, καὶ ὁ δίκαιος δικαιοσύνην ποιησάτω ἔτι, καὶ ὁ ἅγιος ἁγιασθήτω ἔτι."
+  }
+ ],
+ "lxx": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "fathers": {
+  "total": 3,
+  "works": {
+   "Barnabas": 1,
+   "Hermas, Pastor": 1,
+   "Ignatius, Letters": 1
+  },
+  "representatives": [
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "8.6",
+    "form": "ῥυπαραί",
+    "postag": "a-p---fn-",
+    "sentence": "ὅτι ἐν τῇ βασιλείᾳ αὐτοῦ ἡμέραι ἔσονται πονηραὶ καὶ ῥυπαραί, ἐν αἷς ἡμεῖς σωθησόμεθα ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.7.6",
+    "form": "ῥυπαρὰ",
+    "postag": "a-p---na-",
+    "sentence": "τὰ γὰρ κύκλῳ τοῦ πύργου πάντα καθαρισθῆναι δεῖ, μήποτε ὁ δεσπότης ἐξάπινα ἔλθῃ καὶ τὰ περὶ τὸν πύργον ῥυπαρὰ εὕρῃ καὶ προσοχθίσῃ, καὶ οὗτοι οἱ λίθοι οὐκ ἀπελεύσονται εἰς τὴν οἰκοδομὴν τοῦ πύργου, κα-κἀγὼ ἀμελὴς δόξω εἶναι παρὰ τῷ δεσπότῃ."
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "1.16.2",
+    "form": "ῥυπαρὸς",
+    "postag": "a-s---mn-",
+    "sentence": "ὁ τοιοῦτος ῥυπαρὸς γενόμενος, εἰς τὸ πῦρ τὸ ἄσβεστον χωρήσει, ὁμοίως καὶ ὁ ἀκούων αὐτοῦ."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   ῥυπαρός, -ά, -όν    (< ῥύπος),    [in LXX: Za 3:4, 5, (3, 4) (צוֹא)* ;]    filthy, dirty: of old, shabby clothing (Za, l.c.), Ja 2:2; metaph., of moral defilement, Re 22:11.†"
+}

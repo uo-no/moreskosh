@@ -1,0 +1,236 @@
+{
+ "strong": "G5172",
+ "lemma": "τρυφή",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2PE 2:13",
+   "form": "τρυφήν",
+   "morph": "N-ASF",
+   "gloss_en": "revel",
+   "gloss_ja": "ぜいたく",
+   "verse": "ἀδικούμενοι μισθὸν ἀδικίας· ἡδονὴν ἡγούμενοι τὴν ἐν ἡμέρᾳ τρυφήν, σπίλοι καὶ μῶμοι ἐντρυφῶντες ἐν ταῖς ἀπάταις αὐτῶν συνευωχούμενοι ὑμῖν,"
+  },
+  {
+   "ref": "LUK 7:25",
+   "form": "τρυφῇ",
+   "morph": "N-DSF",
+   "gloss_en": "luxury",
+   "gloss_ja": "ぜいたく",
+   "verse": "ἀλλὰ τί ἐξήλθατε ἰδεῖν; ἄνθρωπον ἐν μαλακοῖς ἱματίοις ἠμφιεσμένον; ἰδοὺ οἱ ἐν ἱματισμῷ ἐνδόξῳ καὶ τρυφῇ ὑπάρχοντες ἐν τοῖς βασιλείοις εἰσίν."
+  }
+ ],
+ "lxx": {
+  "total": 25,
+  "works": {
+   "Genesis": 3,
+   "Psalmi": 2,
+   "Proverbia": 2,
+   "Canticum": 1,
+   "Sapientia Salomonis": 1,
+   "Ecclesiasticus sive Siracides": 4,
+   "Michaeas": 1,
+   "Joel": 1,
+   "Jeremias": 1,
+   "Threni seu Lamentationes": 1,
+   "Ezechiel": 6,
+   "Daniel": 2
+  },
+  "representatives": [
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "31.18",
+    "form": "τρυφῆς",
+    "postag": "n-s---fg-",
+    "sentence": "κατάβηθι καὶ καταβιβάσθητι μετὰ τῶν ξύλων τῆς τρυφῆς εἰς γῆς βάθος ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "37.29",
+    "form": "τρυφῇ",
+    "postag": "n-s---fd-",
+    "sentence": "μὴ ἀπληστεύου ἐν πάσῃ τρυφῇ καὶ μὴ ἐκχυθῇς ἐπὶ ἐδεσμάτων ·"
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "49.20",
+    "form": "τρυφὴν",
+    "postag": "n-s---fa-",
+    "sentence": "Ἀσήρ, πίων αὐτοῦ ὁ ἄρτος, καὶ αὐτὸς δώσει τρυφὴν ἄρχουσι."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "138.11",
+    "form": "τρυφῇ",
+    "postag": "n-s---fd-",
+    "sentence": "ἄρα σκότος καταπατήσει με, καὶ νὺξ φωτισμὸς ἐν τῇ τρυφῇ μου ·"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "19.10",
+    "form": "τρυφή",
+    "postag": "n-s---fn-",
+    "sentence": "οὐ συμφέρει ἄφρονι τρυφή, καὶ ἐὰν οἰκέτης ἄρξηται μεθ’ ὕβρεως δυναστεύειν."
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "4.31",
+    "form": "τρυφήν",
+    "postag": "n-s---fa-",
+    "sentence": "ἰδοὺ ἐγὼ καθίστημι αὐτὸν ἐπὶ τῆς βασιλείας σου, καὶ τὴν ἐξουσίαν σου καὶ τὴν δόξαν σου καὶ τὴν τρυφήν σου παραλήψεται, ὅπως ἐπιγνῷς ὅτι ἐξουσίαν ἔχει ὁ θεὸς τοῦ οὐρανοῦ ἐν τῇ βασιλείᾳ τῶν ἀνθρώπων, καὶ ᾧ ἐὰν βούληται δώσει αὐτήν ·"
+   },
+   {
+    "work_code": "SNG",
+    "work_ja": "雅歌",
+    "work_src": "Canticum",
+    "ref": "7.7",
+    "form": "τρυφαῖς",
+    "postag": "n-p---fd-",
+    "sentence": "τί ὡραιώθης καὶ τὶ ἡδύνθης ἀγάπη, ἐν τρυφαῖς σου;"
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "19.11",
+    "form": "τρυφῆς",
+    "postag": "n-s---fg-",
+    "sentence": "ἐφ’ ὑστέ ρῳ δὲ εἶδον καὶ νέαν γένεσιν ὀρνέων, ὅτι ἐπιθυμίᾳ προαχθέντες ᾐτήσαντο ἐδέσματα τρυφῆς ·"
+   },
+   {
+    "work_code": "MIC",
+    "work_ja": "ミカ書",
+    "work_src": "Michaeas",
+    "ref": "2.9",
+    "form": "τρυφῆς",
+    "postag": "n-s---fg-",
+    "sentence": "διὰ τοῦτο ἡγούμενοι λαοῦ μου ἀπορριφήσονται ἐκ τῶν οἰκιῶν τρυφῆς αὐτῶν, διὰ τὰ πονηρὰ ἐπιτηδεύματα αὐτῶν ἐξώσθησαν ·"
+   },
+   {
+    "work_code": "JOL",
+    "work_ja": "ヨエル書",
+    "work_src": "Joel",
+    "ref": "2.3",
+    "form": "τρυφῆς",
+    "postag": "n-s---fg-",
+    "sentence": "ὡς παράδεισος τρυφῆς ἡ γῆ πρὸ προσώπου αὐτοῦ, καὶ τὰ ὄπισθεν αὐτοῦ πεδίον ἀφανισμοῦ, καὶ ἀνασῳζόμενος οὐκ ἔσται αὐτῷ."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "28.34",
+    "form": "τρυφῆς",
+    "postag": "n-s---fg-",
+    "sentence": "κατέπιέ με ὡς δράκων, ἔπλησε τὴν κοιλίαν αὐτοῦ, ἀπὸ τῆς τρυφῆς μου ἔξωσέ με ·"
+   },
+   {
+    "work_code": "LAM",
+    "work_ja": "哀歌",
+    "work_src": "Threni seu Lamentationes",
+    "ref": "4.5",
+    "form": "τρυφὰς",
+    "postag": "n-p---fa-",
+    "sentence": "οἱ ἔσθοντες τὰς τρυφὰς ἠφανίσθησαν ἐν ταῖς ἐξόδοις, οἱ τιθηνούμενοι ἐπὶ κόκκων περιεβάλλοντο κοπρίας."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 20,
+  "works": {
+   "2 Clement": 1,
+   "To Diognetus": 1,
+   "Hermas, Pastor": 18
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "23.5.5",
+    "form": "τρυφαί",
+    "postag": "n-p---fn-",
+    "sentence": "ποῖαι, φημί, κύριε, τρυφαί εἰσι βλαβεραί;"
+   },
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "10.4",
+    "form": "τρυφὴν",
+    "postag": "n-s---fa-",
+    "sentence": "ἀγνοοῦσιν γὰρ ἡλίκην ἔχει βάσανον ἡ ἐνθάδε ἀπόλαυσις, καὶ οἵαν τρυφὴν ἔχει ἡ μέλλουσα ἐπαγγελία."
+   },
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "12",
+    "form": "τρυφῆς",
+    "postag": "n-s---fg-",
+    "sentence": "οἷς ἐντυχόντες καὶ ἀκούσαντες μετὰ σπουδῆς εἴσεσθε, ὅσα παρέχει ὁ Θεὸς τοῖς ἀγαπῶσιν ὀρθῶς, οἱ γενόμενοι παράδεισος τρυφῆς, πάγκαρπον ξύλον εὐθαλοῦν ἀνατείλαντες ἐν ἑαυτοῖς, ποικίλοις καρποῖς κεκοσμημένοι."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "23.5.7",
+    "form": "τρυφαὶ",
+    "postag": "n-p---fn-",
+    "sentence": "εἰσὶν δὲ καὶ τρυφαὶ σώζουσαι τοὺς ἀνθρώπους ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "17.2.1",
+    "form": "τρυφὴ",
+    "postag": "n-s---fn-",
+    "sentence": "πᾶσα γὰρ τρυφὴ μωρά ἐστι καὶ κενὴ τοῖς δούλοις τοῦ θεοῦ."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "23.5.5",
+    "form": "τρυφή",
+    "postag": "n-s---fn-",
+    "sentence": "πᾶσα, φησί, πρᾶξις τρυφή ἐστι τῷ ἀνθρώπῳ, ὃ ἐὰν ἡδέως ποιῇ ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "17.2.1",
+    "form": "τρυφῶν",
+    "postag": "n-p---fg-",
+    "sentence": "πάντων προέχουσα ἐπιθυμία γυναικὸς ἀλλοτρίας ἢ ἀνδρὸς καὶ πολυτελείας πλούτου καὶ ἐδεσμάτων πολλῶν ματαίων καὶ μεθυσμάτων καὶ ἑτέρων τρυφῶν πολλῶν καὶ μωρῶν ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "23.2.4",
+    "form": "τρυφαῖς",
+    "postag": "n-p---fd-",
+    "sentence": "ἃ δὲ εἶδες πρόβατα μὴ σκιρτῶντα, ἀλλ’ ἐν τόπῳ ἑνὶ βοσκόμενα, οὗτοί εἰσιν οἱ παραδεδωκότες μὲν ἑαυτοὺς ταῖς τρυφαῖς καὶ ἀπάταις, εἰς δὲ τὸν κύριον οὐδὲν ἐβλασφήμησαν ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2 τρυφή, -ῆς, ἡ    [in LXX chiefly for עָדַן ;]     softness, daintiness, luxuriousness: Lk 7:25, II Pe 2:13.†"
+}

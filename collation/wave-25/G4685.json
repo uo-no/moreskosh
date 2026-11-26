@@ -1,0 +1,159 @@
+{
+ "strong": "G4685",
+ "lemma": "σπάομαι",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": "σπαω",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 16:27",
+   "form": "σπασάμενος",
+   "morph": "V-AMP-NSM",
+   "gloss_en": "drew",
+   "gloss_ja": "引き抜く",
+   "verse": "ἔξυπνος δὲ γενόμενος ὁ δεσμοφύλαξ καὶ ἰδὼν ἀνεῳγμένας τὰς θύρας τῆς φυλακῆς σπασάμενος τὴν μάχαιραν ἤμελλεν ἑαυτὸν ἀναιρεῖν, νομίζων ἐκπεφευγέναι τοὺς δεσμίους."
+  },
+  {
+   "ref": "MRK 14:47",
+   "form": "σπασάμενος",
+   "morph": "V-AMP-NSM",
+   "gloss_en": "drew",
+   "gloss_ja": "引き抜く",
+   "verse": "εἷς δέ τις τῶν παρεστηκότων σπασάμενος τὴν μάχαιραν ἔπαισεν τὸν δοῦλον τοῦ ἀρχιερέως καὶ ἀφεῖλεν αὐτοῦ τὸ ὠτάριον."
+  }
+ ],
+ "lxx": {
+  "total": 24,
+  "works": {
+   "Numeri": 2,
+   "Josue": 1,
+   "Judices": 3,
+   "Regnorum i": 1,
+   "Regnorum ii": 2,
+   "Regnorum iv": 1,
+   "Paralipomenon i sive Chronicon i": 6,
+   "Esdras i": 1,
+   "Psalmi": 2,
+   "Sapientia Salomonis": 1,
+   "Ecclesiasticus sive Siracides": 1,
+   "Ezechiel": 3
+  },
+  "representatives": [
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "11.11",
+    "form": "ἐσπάσατο",
+    "postag": "v3saim---",
+    "sentence": "οὗτος ἐσπάσατο τὴν ρομφαίαν αὐτοῦ ἅπαξ ἐπὶ τριακοσίους τραυματίας ἐν καιρῷ ἑνί."
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "9.54",
+    "form": "σπάσον",
+    "postag": "v2sama---",
+    "sentence": "σπάσον τὴν ρομφαίαν μου καὶ θανάτωσόν με, μή ποτε εἴπωσι ·"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "26.15",
+    "form": "σπάσαι",
+    "postag": "v--ana---",
+    "sentence": "οὐκ ἀπὸ φωνῆς τῆς πτώσεώς σου ἐν τῷ στενάξαι τραυματίας, ἐν τῷ σπάσαι μάχαιραν ἐν μέσῳ σου σεισθήσονται αἱ νῆσοι;"
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "22.31",
+    "form": "ἐσπασμένην",
+    "postag": "v-srpmfa-",
+    "sentence": "ἀπεκάλυψε δὲ ὁ Θεὸς τοὺς ὀφθαλμοὺς Βαλαάμ, καὶ ὁρᾷ τὸν ἄγγελον Κυρίου ἀνθεστηκότα ἐν τῇ ὁδῷ καὶ τὴν μάχαιραν ἐσπασμένην ἐν τῇ χειρὶ αὐτοῦ καὶ κύψας προσεκύνησε τῷ προσώπῳ αὐτοῦ."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "24.9",
+    "form": "σπωμένων",
+    "postag": "v-pppmmg-",
+    "sentence": "καὶ ἔδωκεν Ἰωὰβ τὸν ἀριθμὸν τῆς ἐπισκέψεως τοῦ λαοῦ πρὸς τὸν βασιλέα, καὶ ἐγένετο Ἰσραὴλ ὀκτακόσιαι χιλιάδες ἀνδρῶν δυνάμεως σπωμένων ρομφαίαν καὶ ἀνὴρ Ἰούδα πεντακόσιαι χιλιάδες ἀνδρῶν μαχητῶν."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "151.7",
+    "form": "σπασάμενος",
+    "postag": "v-sapmmn-",
+    "sentence": "ἐγὼ δέ, σπασάμενος τὴν παρ’ αὐτοῦ μάχαιραν, ἀπεκεφάλισα αὐτὸν καὶ ἦρα ὄνειδος ἐξ υἱῶν Ἰσραήλ."
+   },
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "5.13",
+    "form": "ἐσπασμένη",
+    "postag": "v-srpmfn-",
+    "sentence": "καὶ ἐγένετο ὡς ἦν Ἰησοῦς ἐν Ἱεριχώ, καὶ ἀναβλέψας τοῖς ὀφθαλμοῖς εἶδεν ἄνθρωπον ἑστηκότα ἐναντίον αὐτοῦ, καὶ ἡ ρομφαία ἐσπασμένη ἐν τῇ χειρὶ αὐτοῦ."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "31.4",
+    "form": "σπάσαι",
+    "postag": "v2samm---",
+    "sentence": "σπάσαι τὴν ρομφαίαν σου καὶ ἀποκέντησόν με ἐν αὐτῇ, μὴ ἔλθωσιν οἱ ἀπερίτμητοι οὗτοι καὶ ἀποκεντήσωσί με καὶ ἐμπαίξωσί μοι."
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "3.26",
+    "form": "ἐσπασμένους",
+    "postag": "v-prpmma-",
+    "sentence": "καὶ ἔλαβε μεθ’ ἑαυτοῦ ἑπτακοσίους ἄνδρας ἐσπασμένους ρομφαίαν διακόψαι πρὸς βασιλέα Ἐδώμ, καὶ οὐκ ἠδυνήθησαν."
+   },
+   {
+    "work_code": "1ES",
+    "work_ja": "エズラ記（ギリシャ語）",
+    "work_src": "Esdras i",
+    "ref": "3.21",
+    "form": "σπῶνται",
+    "postag": "v3ppim---",
+    "sentence": "καὶ οὐ μέμνηται, ὅταν πίνωσι, φιλιάζειν φίλοις καὶ ἀδελφοῖς, καὶ μετ’ οὐ πολὺ σπῶνται τὰς μαχαίρας ·"
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "7.3",
+    "form": "ἔσπασα",
+    "postag": "v1saia---",
+    "sentence": "καὶ ἐγώ δὲ γενόμενος ἔσπασα τὸν κοινὸν ἀέρα καὶ ἐπὶ τὴν ὁμοιοπαθῆ κατέπεσον γῆν, πρώτην φωνὴν τὴν ὁμοίαν πᾶσιν ἴσα κλαίων ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "22.21",
+    "form": "σπάσῃς",
+    "postag": "v2sasa---",
+    "sentence": "ἐπὶ φίλον ἐὰν σπάσῃς ρομφαίαν, μὴ ἀπελπίσῃς, ἔστι γὰρ ἐπάνοδος ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2 (KJV) σπάω     [in LXX chiefly for שׁלף, ;]       in cl. poët. for ἕλκω; mostly used in mid. (cf. M, Pr., 157),      to draw: μάχαιραν, Mk 14:47, Ac 16:27,†"
+}

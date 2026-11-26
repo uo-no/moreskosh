@@ -1,0 +1,59 @@
+{
+ "strong": "G439",
+ "lemma": "ἀνθρακιά",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JHN 18:18",
+   "form": "ἀνθρακιὰν",
+   "morph": "N-ASF",
+   "gloss_en": "charcoal fire",
+   "gloss_ja": "炭火",
+   "verse": "εἱστήκεισαν δὲ οἱ δοῦλοι καὶ οἱ ὑπηρέται ἀνθρακιὰν πεποιηκότες, ὅτι ψῦχος ἦν, καὶ ἐθερμαίνοντο· ἦν δὲ καὶ ὁ Πέτρος μετ’ αὐτῶν ἑστὼς καὶ θερμαινόμενος."
+  },
+  {
+   "ref": "JHN 21:9",
+   "form": "ἀνθρακιὰν",
+   "morph": "N-ASF",
+   "gloss_en": "charcoal fire",
+   "gloss_ja": "炭火",
+   "verse": "Ὡς οὖν ἀπέβησαν εἰς τὴν γῆν βλέπουσιν ἀνθρακιὰν κειμένην καὶ ὀψάριον ἐπικείμενον καὶ ἄρτον."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Machabaeorum iv": 1,
+   "Ecclesiasticus sive Siracides": 1
+  },
+  "representatives": [
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "9.20",
+    "form": "ἀνθρακιᾶς",
+    "postag": "n-s---fg-",
+    "sentence": "ἐμολύνετο δὲ πάντοθεν αἵματι ὁ τροχός, καὶ ὁ σωρὸς τῆς ἀνθρακιᾶς τῆς τῶν ἰχώρων ἐσβέννυτο σταλαγμοῖς, καὶ περὶ τοὺς ἄξονας τοῦ ὀργάνου περιέρρεον αἱ σάρκες."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "11.32",
+    "form": "ἀνθρακιά",
+    "postag": "n-s---fn-",
+    "sentence": "ἀπὸ σπινθῆρος πυρὸς πληθύνεται ἀνθρακιά, καὶ ἄνθρωπος ἁμαρτωλὸς εἰς αἷμα ἐνεδρεύει."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   ** ἀνθρακιά, -ᾶς, ἡ    (< ἄνθραξ),   [in LXX: Si 11:32, IV Mac 9:20*;]    a heap of burning coals: Jo 18:18 21:9.†"
+}

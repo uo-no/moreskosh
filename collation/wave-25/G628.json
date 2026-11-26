@@ -1,0 +1,49 @@
+{
+ "strong": "G628",
+ "lemma": "ἀπολούομαι",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": "απολουω",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 6:11",
+   "form": "ἀπελούσασθε",
+   "morph": "V-AMI-2P",
+   "gloss_en": "washed",
+   "gloss_ja": "洗い清める",
+   "verse": "καὶ ταῦτά τινες ἦτε· ἀλλὰ ἀπελούσασθε, ἀλλὰ ἡγιάσθητε, ἀλλὰ ἐδικαιώθητε ἐν τῷ ὀνόματι τοῦ κυρίου Ἰησοῦ καὶ ἐν τῷ πνεύματι τοῦ θεοῦ ἡμῶν."
+  },
+  {
+   "ref": "ACT 22:16",
+   "form": "ἀπόλουσαι",
+   "morph": "V-AMM-2S",
+   "gloss_en": "wash away",
+   "gloss_ja": "洗い清める",
+   "verse": "καὶ νῦν τί μέλλεις; ἀναστὰς βάπτισαι καὶ ἀπόλουσαι τὰς ἁμαρτίας σου ἐπικαλεσάμενος τὸ ὄνομα αὐτοῦ."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Job": 1
+  },
+  "representatives": [
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "9.30",
+    "form": "ἀπολούσωμαι",
+    "postag": "v1sasm---",
+    "sentence": "ἐὰν γὰρ ἀπολούσωμαι χιόνι καὶ ἀποκαθάρωμαι χερσὶ καθαραῖς, ἱκανῶς ἐν ρύπῳ με ἔβαψας, ἐβδελύξατο δέ με ἡ στολή ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2 ἀπο-λούω,    [in LXX: Jb 9:30 (רחץ)*;]    to wash off, wash away; mid., metaph., c. acc. rei, to wash off oneself: ἁμαρτίας, Ac 22:16; absol., ἀπελούσασθε, ye washed yourselves clean (cf. Cremer, 406), I Co 6:11.†"
+}

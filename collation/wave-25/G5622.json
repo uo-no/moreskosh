@@ -1,0 +1,154 @@
+{
+ "strong": "G5622",
+ "lemma": "ὠφέλεια",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JUD 1:16",
+   "form": "ὠφελείας",
+   "morph": "N-GSF",
+   "gloss_en": "advantage",
+   "gloss_ja": "益",
+   "verse": "οὗτοί εἰσιν γογγυσταί, μεμψίμοιροι, κατὰ τὰς ἐπιθυμίας αὐτῶν πορευόμενοι, καὶ τὸ στόμα αὐτῶν λαλεῖ ὑπέρογκα, θαυμάζοντες πρόσωπα ὠφελείας χάριν."
+  },
+  {
+   "ref": "ROM 3:1",
+   "form": "ὠφέλεια",
+   "morph": "N-NSF",
+   "gloss_en": "value",
+   "gloss_ja": "益",
+   "verse": "Τί οὖν τὸ περισσὸν τοῦ Ἰουδαίου, ἢ τίς ἡ ὠφέλεια τῆς περιτομῆς;"
+  }
+ ],
+ "lxx": {
+  "total": 13,
+  "works": {
+   "Regnorum ii": 1,
+   "Machabaeorum ii": 2,
+   "Psalmi": 1,
+   "Job": 2,
+   "Ecclesiasticus sive Siracides": 3,
+   "Isaias": 1,
+   "Jeremias": 3
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "30.23",
+    "form": "ὠφέλεια",
+    "postag": "n-s---fn-",
+    "sentence": "πολλοὺς γὰρ ἀπώλεσεν ἡ λύπη, καὶ οὐκ ἔστιν ὠφέλεια ἐν αὐτῇ."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "37.13",
+    "form": "ὠφέλειά",
+    "postag": "n-s---fn-",
+    "sentence": "οὐκ ἔστι κρίνων κρίσιν σου, εἰς ἀλγηρὸν ἰατρεύθης, ὠφέλειά σοι οὐκ ἔστι."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "2.25",
+    "form": "ὠφέλειαν",
+    "postag": "n-s---fa-",
+    "sentence": "συνορῶντες γὰρ τὸ χῦμα τῶν ἀριθμῶν καὶ τὴν οὖσαν δυσχέρειαν τοῖς θέλουσιν εἰσκυκλεῖσθαι τοῖς τῆς ἱστορίας διηγήμασι διὰ τὸ πλῆθος τῆς ὕλης, ἐφροντίσαμεν τοῖς μὲν βουλομένοις ἀναγινώσκειν ψυχαγωγίαν, τοῖς δὲ φιλοφρονοῦσιν εἰς τὸ διὰ μνήμης ἀναλαβεῖν εὐκοπίαν, πᾶσι δὲ τοῖς ἐντυγχάνουσιν ὠφέλειαν."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "22.3",
+    "form": "ὠφέλεια",
+    "postag": "n-s---fn-",
+    "sentence": "ἢ ὠφέλεια, ὅτι ἁπλώσεις τὴν ὁδόν σου;"
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "18.22",
+    "form": "ὠφέλειαν",
+    "postag": "n-s---fa-",
+    "sentence": "δεῦρο, οὐκ ἔστι σοι εὐαγγέλια εἰς ὠφέλειαν πορευομένῳ."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "29.10",
+    "form": "ὠφέλεια",
+    "postag": "n-s---fn-",
+    "sentence": "τίς ὠφέλεια ἐν τῷ αἵματί μου ἐν τῷ καταβαίνειν με εἰς διαφθοράν;"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "30.5",
+    "form": "ὠφέλειαν",
+    "postag": "n-s---fa-",
+    "sentence": "μάτην κοπιάσουσι πρὸς λαόν, ὃς οὐκ ὠφελήσει αὐτοὺς οὔ-τε εἰς βοήθειαν, οὔ-τε εἰς ὠφέλειαν, ἀλλὰ εἰς αἰσχύνην καὶ ὄνειδος."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "20.30",
+    "form": "ὠφέλεια",
+    "postag": "n-s---fn-",
+    "sentence": "σοφία κεκρυμμένη καὶ θησαυρὸς ἀφανής, τίς ὠφέλεια ἐν ἀμφοτέροις;"
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "26.11",
+    "form": "ὠφέλεια",
+    "postag": "n-s---fn-",
+    "sentence": "εἰς κενὸν ἐπλήθυνας ἰάματά σου, ὠφέλεια οὐκ ἔστιν ἐν σοί."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "8.20",
+    "form": "ὠφέλειαν",
+    "postag": "n-s---fa-",
+    "sentence": "προσαναλεξάμενος δὲ αὐτοῖς καὶ τὰς ἐπὶ τῶν προγόνων γενομένας ἀντιλήψεις καὶ τὴν ἐπὶ Σενναχηρείμ, ἑκατὸν ὀγδοήκοντα πέντε χιλιάδες ὡς ἀπώλοντο, καὶ τὴν ἐν τῇ Βαβυλωνίᾳ τὴν πρὸς αὐτοὺς Γαλάτας παράταξιν γενομένην, ὡς οἱ πάντες ἐπὶ τὴν χρείαν ἦλθον ὀκτακισχίλιοι σὺν Μακεδόσι τετρασχιλίοις, τῶν Μακεδόνων ἀπορουμένων, οἱ ὀκτακισχίλιοι τὰς δώδεκα μυριάδας ἀπώλεσαν διὰ τὴν γενομένην αὐτοῖς ἀπ’ οὐρανοῦ βοήθειαν καὶ ὠφέλειαν πολλὴν ἔλαβον."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "21.15",
+    "form": "ὠφέλεια",
+    "postag": "n-s---fn-",
+    "sentence": "καὶ τίς ὠφέλεια, ὅτι ἀπαντήσομεν αὐτῷ;"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "41.14",
+    "form": "ὠφέλεια",
+    "postag": "n-s---fn-",
+    "sentence": "σοφία δὲ κεκρυμμένη καὶ θησαυρὸς ἀφανής, τίς ὠφέλεια ἐν ἀμφοτέροις;"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2 ὠφέλεια (WH, -λία), -ας, ἡ     [in LXX for יָעַל hi., בֶּצַע, etc. ;]       assistance, help (Thuc., Plat., al.).      profit, advantage, benefit (Hdt., Plat., al.): Ro 3:1, Ju 16.†"
+}

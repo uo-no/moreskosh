@@ -1,0 +1,164 @@
+{
+ "strong": "G4422",
+ "lemma": "πτοέομαι",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": "πτοεω",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 21:9",
+   "form": "πτοηθῆτε",
+   "morph": "V-APS-2P",
+   "gloss_en": "terrified",
+   "gloss_ja": "恐れさせる",
+   "verse": "ὅταν δὲ ἀκούσητε πολέμους καὶ ἀκαταστασίας, μὴ πτοηθῆτε· δεῖ γὰρ ταῦτα γενέσθαι πρῶτον, ἀλλ’ οὐκ εὐθέως τὸ τέλος."
+  },
+  {
+   "ref": "LUK 24:37",
+   "form": "πτοηθέντες",
+   "morph": "V-APP-NPM",
+   "gloss_en": "startled",
+   "gloss_ja": "恐れさせる",
+   "verse": "πτοηθέντες δὲ καὶ ἔμφοβοι γενόμενοι ἐδόκουν πνεῦμα θεωρεῖν."
+  }
+ ],
+ "lxx": {
+  "total": 37,
+  "works": {
+   "Exodus": 1,
+   "Deuteronomium": 1,
+   "Josue": 1,
+   "Paralipomenon i sive Chronicon i": 2,
+   "Paralipomenon ii sive Chronicon ii": 3,
+   "Judith": 1,
+   "Machabaeorum i": 1,
+   "Odae": 2,
+   "Proverbia": 1,
+   "Job": 3,
+   "Psalmi Salomonis": 1,
+   "Amos": 1,
+   "Abdias": 1,
+   "Habacuc": 3,
+   "Isaias": 1,
+   "Jeremias": 11,
+   "Ezechiel": 3
+  },
+  "representatives": [
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "17.18",
+    "form": "πτοηθείησαν",
+    "postag": "v3paop---",
+    "sentence": "πτοηθείησαν αὐτοί, καὶ μὴ πτοηθείην ἐγώ ·"
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "20.17",
+    "form": "πτοηθῆτε",
+    "postag": "v2pasp---",
+    "sentence": "μὴ φοβηθῆτε μη-δὲ πτοηθῆτε αὔριον ἐξελθεῖν εἰς ἀπάντησιν αὐτοῖς, καὶ Κύριος μεθ’ ὑμῶν."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "23.15",
+    "form": "πτοηθήσομαι",
+    "postag": "v1sfip---",
+    "sentence": "κατανοήσω καὶ πτοηθήσομαι ἐξ αὐτοῦ."
+   },
+   {
+    "work_code": "HAB",
+    "work_ja": "ハバクク書",
+    "work_src": "Habacuc",
+    "ref": "3.7",
+    "form": "πτοηθήσονται",
+    "postag": "v3pfip---",
+    "sentence": "σκηνώματα Αἰθιόπων πτοηθήσονται καὶ αἱ σκηναὶ γῆς Μαδιάμ."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "3.9",
+    "form": "πτοηθῇς",
+    "postag": "v2sasp---",
+    "sentence": "μὴ φοβηθῇς ἀπ ’ αὐτῶν μη-δὲ πτοηθῇς ἀπὸ προσώπου αὐτῶν, διότι οἶκος παραπικραίνων ἐστί."
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "22.13",
+    "form": "πτοηθῇς",
+    "postag": "v2sasp---",
+    "sentence": "ἀνδρίζου καὶ ἴσχυε, μὴ φοβοῦ μη-δὲ πτοηθῇς."
+   },
+   {
+    "work_code": "ODE",
+    "work_ja": "頌歌（オード）",
+    "work_src": "Odae",
+    "ref": "9.16",
+    "form": "ἐπτοήθη",
+    "postag": "v3saip---",
+    "sentence": "ἐφυλαξάμην, καὶ ἐπτοήθη ἡ κοιλία μου ἀπὸ φωνῆς προσευχῆς χειλέων μου, καὶ εἰσῆλθεν τρόμος εἰς τὰ ὀστᾶ μου, καὶ ὑποκάτωθέν μου ἐταράχθη ἡ ἕξις μου."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "19.16",
+    "form": "ἐπτοήθη",
+    "postag": "v3saip---",
+    "sentence": "καὶ ἐπτοήθη πᾶς ὁ λαὸς ὁ ἐν τῇ παρεμβολῇ."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "31.6",
+    "form": "πτοηθῇς",
+    "postag": "v2sasp---",
+    "sentence": "ἀνδρίζου καὶ ἴσχυε, μὴ φοβοῦ μη-δὲ δειλιάσης μη-δὲ πτοηθῇς ἀπὸ προσώπου αὐτῶν, ὅτι Κύριος ὁ Θεός σου ὁ προπορευόμενος μεθ’ ὑμῶν ἐν ὑμῖν, οὔ-τε μή σε ἀνῇ, οὔ-τε μή σε ἐγκαταλίπῃ."
+   },
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "7.5",
+    "form": "ἐπτοήθη",
+    "postag": "v3saip---",
+    "sentence": "καὶ ἐπτοήθη ἡ καρδία τοῦ λαοῦ καὶ ἐγένετο ὥσπερ ὕδωρ."
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "16.11",
+    "form": "ἐπτοήθησαν",
+    "postag": "v3paip---",
+    "sentence": "τότε ἠλάλαξαν οἱ ταπεινοί μου, καὶ ἐφοβήθησαν οἱ ἀσθενοῦντές μου καὶ ἐπτοήθησαν, ὕψωσαν τὴν φωνὴν αὐτῶν καὶ ἀνετράπησαν."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "7.30",
+    "form": "ἐπτοήθη",
+    "postag": "v3saip---",
+    "sentence": "καὶ ἐγνώσθη ὁ λόγος τῷ Ἰούδᾳ ὅτι μετὰ δόλου ἦλθεν ἐπ’ αὐτόν, καὶ ἐπτοήθη ἀπ’ αὐτοῦ καὶ οὐκ ἐβουλήθη ἔτι ἰδεῖν τὸ πρόσωπον αὐτοῦ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   πτοέω, -ῶ,    [in LXX chiefly for חתת ni.;]    to terrify. Pass., to be terrified: Lk 21:9 24:37 (WH, mg., θροηθέντες).†"
+}

@@ -1,0 +1,109 @@
+{
+ "strong": "G5394",
+ "lemma": "φλογίζω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JAS 3:6",
+   "form": "φλογίζουσα",
+   "morph": "V-PAP-NSF",
+   "gloss_en": "sets on fire",
+   "gloss_ja": "燃やす",
+   "verse": "καὶ ἡ γλῶσσα πῦρ, ὁ κόσμος τῆς ἀδικίας ἡ γλῶσσα καθίσταται ἐν τοῖς μέλεσιν ἡμῶν, ἡ σπιλοῦσα ὅλον τὸ σῶμα καὶ φλογίζουσα τὸν τροχὸν τῆς γενέσεως καὶ φλογιζομένη ὑπὸ τῆς γεέννης."
+  },
+  {
+   "ref": "JAS 3:6",
+   "form": "φλογιζομένη",
+   "morph": "V-PPP-NSF",
+   "gloss_en": "set on fire",
+   "gloss_ja": "燃やす",
+   "verse": "καὶ ἡ γλῶσσα πῦρ, ὁ κόσμος τῆς ἀδικίας ἡ γλῶσσα καθίσταται ἐν τοῖς μέλεσιν ἡμῶν, ἡ σπιλοῦσα ὅλον τὸ σῶμα καὶ φλογίζουσα τὸν τροχὸν τῆς γενέσεως καὶ φλογιζομένη ὑπὸ τῆς γεέννης."
+  }
+ ],
+ "lxx": {
+  "total": 7,
+  "works": {
+   "Exodus": 1,
+   "Numeri": 1,
+   "Machabaeorum i": 1,
+   "Psalmi": 1,
+   "Ecclesiasticus sive Siracides": 1,
+   "Psalmi Salomonis": 1,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "9.24",
+    "form": "φλογίζον",
+    "postag": "v-sppann-",
+    "sentence": "ἦν δὲ ἡ χάλαζα καὶ τὸ πῦρ φλογίζον ἐν τῇ χαλάζῃ ·"
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "21.14",
+    "form": "ἐφλόγιζε",
+    "postag": "v3siia---",
+    "sentence": "πόλεμος τοῦ Κυρίου τὴν Ζωὸβ ἐφλόγιζε, καὶ τοὺς χειμάρρους Ἀρνῶν, καὶ τοὺς χειμάρρους κατέστησε κατοικίσαι Ἤρ, καὶ πρόσκειται τοῖς ὁρίοις Μωάβ."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "3.5",
+    "form": "ἐφλόγισε",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἐδίωξεν ἀνόμους ἐξερευνῶν καὶ τοὺς ταράσσοντας τὸν λαὸν αὐτοῦ ἐφλόγισε."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "96.3",
+    "form": "φλογιεῖ",
+    "postag": "v3sfia---",
+    "sentence": "πῦρ ἐναντίον αὐτοῦ προπορεύσεται καὶ φλογιεῖ κύκλῳ τοὺς ἐχθροὺς αὐτοῦ ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "3.30",
+    "form": "φλογιζόμενον",
+    "postag": "v-sppmnn-",
+    "sentence": "πῦρ φλογιζόμενον ἀποσβέσει ὕδωρ, καὶ ἐλεημοσύνη ἐξιλάσεται ἁμαρτίας."
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "12.3",
+    "form": "φλογιζούσης",
+    "postag": "v-sppafg-",
+    "sentence": "ἡ παροικία αὐτοῦ ἐμπρῆσαι οἴκους ἐν γλώσσῃ ψευδεῖ, ἐκκόψαι δένδρα εὐφροσύνης φλογιζούσης παρανόμους, συγχέαι οἴκους ἐν πολέμῳ χείλεσιν ψιθύροις."
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "3.94",
+    "form": "ἐφλογίσθη",
+    "postag": "v3saip---",
+    "sentence": "καὶ συνάγονται οἱ σατράπαι καὶ οἱ στρατηγοὶ καὶ οἱ τοπάρχαι καὶ οἱ δυνάσται τοῦ βασιλέως καὶ ἐθεώρουν τοὺς ἄνδρας ὅτι οὐκ ἐκυρίευσε τὸ πῦρ τοῦ σώματος αὐτῶν, καὶ ἡ θρὶξ τῆς κεφαλῆς αὐτῶν οὐκ ἐφλογίσθη, καὶ τὰ σαράβαρα αὐτῶν οὐκ ἠλλοιώθη, καὶ ὀσμὴ πυρὸς οὐκ ἦν ἐν αὐτοῖς."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2 φλογίζω    (< φλόξ),    [in LXX: Ex 9:24 (לקח hith.), Nu 21:14 (†), Ps 96 (97):3 (להט pi.), Da TH 3:27(94) (חֲרַךְ ithp.), Si 3:30, I Mac 3:5 * ;]    to set on fire, burn, burn up: fig., Ja 3:6 (on the meaning of the sentence, v. Hort, in l.).†"
+}

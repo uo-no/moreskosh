@@ -1,0 +1,107 @@
+{
+ "strong": "G4958",
+ "lemma": "συστέλλω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 7:29",
+   "form": "συνεσταλμένος",
+   "morph": "V-RPP-NSM",
+   "gloss_en": "short",
+   "gloss_ja": "縮める",
+   "verse": "τοῦτο δέ φημι, ἀδελφοί, ὁ καιρὸς συνεσταλμένος ἐστίν· τὸ λοιπὸν ἵνα καὶ οἱ ἔχοντες γυναῖκας ὡς μὴ ἔχοντες ὦσιν,"
+  },
+  {
+   "ref": "ACT 5:6",
+   "form": "συνέστειλαν",
+   "morph": "V-AAI-3P",
+   "gloss_en": "wrapped ~ up",
+   "gloss_ja": "縮める",
+   "verse": "ἀναστάντες δὲ οἱ νεώτεροι συνέστειλαν αὐτὸν καὶ ἐξενέγκαντες ἔθαψαν."
+  }
+ ],
+ "lxx": {
+  "total": 7,
+  "works": {
+   "Judices": 2,
+   "Machabaeorum i": 2,
+   "Machabaeorum ii": 1,
+   "Machabaeorum iii": 1,
+   "Ecclesiasticus sive Siracides": 1
+  },
+  "representatives": [
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "8.28",
+    "form": "συνεστάλη",
+    "postag": "v3saip---",
+    "sentence": "καὶ συνεστάλη Μαδιὰμ ἐνώπιον υἱῶν Ἰσραὴλ καὶ οὐ προσέθηκαν ἆραι κεφαλὴν αὐτῶν."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "3.6",
+    "form": "συνεστάλησαν",
+    "postag": "v3paip---",
+    "sentence": "καὶ συνεστάλησαν οἱ ἄνομοι ἀπὸ τοῦ φόβου αὐτοῦ, καὶ πάντες οἱ ἐργάτες τῆς ἀνομίας συνεταράχθησαν, καὶ εὐωδώθη σωτηρία ἐν χειρὶ αὐτοῦ."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "6.12",
+    "form": "συστέλλεσθαι",
+    "postag": "v--pnm---",
+    "sentence": "παρακαλῶ οὖν τοὺς ἐντυγχάνοντας τῇδε τῇ βίβλῳ, μὴ συστέλλεσθαι διὰ τὰς συμφοράς, λογίζεσθαι δὲ τὰς τιμωρίας μὴ πρὸς ὄλεθρον, ἀλλὰ πρὸς παιδείαν τοῦ γένους ἡμῶν εἶναι ·"
+   },
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "5.33",
+    "form": "συνεστάλη",
+    "postag": "v3saip---",
+    "sentence": "οὕτως ὁ Ἕρμων ἀπροσδόκητον καὶ ἐπικίνδυνον ὑπήνεγκεν ἀπειλὴν καὶ τῇ ὁράσει καὶ τῷ προσώπῳ συνεστάλη."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "4.31",
+    "form": "συνεσταλμένη",
+    "postag": "v-srpmfn-",
+    "sentence": "μὴ ἔστω ἡ χείρ σου ἐκτεταμένη εἰς τὸ λαβεῖν καὶ ἐν τῷ ἀποδιδόναι συνεσταλμένη."
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "11.33",
+    "form": "συνεστάλησαν",
+    "postag": "v3paip---",
+    "sentence": "καὶ ἐπάταξεν αὐτοὺς ἀπὸ Ἀροὴρ ἕως ἐλθεῖν ἄχρις Ἀρνὼν ἐν ἀριθμῷ εἴκοσι πόλεις καὶ ἕως Ἐβελχαρμὶμ πληγὴν μεγάλην σφόδρα, καὶ συνεστάλησαν οἱ υἱοὶ Ἀμμὼν ἀπὸ προσώπου υἱῶν Ἰσραήλ."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "5.3",
+    "form": "συνέστειλεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἐπολέμει Ἰούδας πρὸς τοὺς υἱοὺς Ἡσαῦ ἐν τῇ Ἰδουμαίᾳ, τὴν Ἀκραβαττήνην, ὅτι περιεκάθηντο τὸν Ἰσραήλ, καὶ ἐπάταξεν αὐτοὺς πληγὴν μεγάλην καὶ συνέστειλεν αὐτοὺς καὶ ἔλαβε τὰ σκῦλα αὐτῶν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2 συν-στέλλω    (Rec. συσ-),    [in LXX: Jg 8:28 11:33 (כּנע ni.), Si 4:31, al. ;]    to draw together, contract, shorten: of time, I Co 7:29.    to wrap up: of enshrouding a body for burial (Eur.), c. acc., Ac 5:6.†"
+}

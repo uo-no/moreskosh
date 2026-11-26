@@ -1,0 +1,79 @@
+{
+ "strong": "G646",
+ "lemma": "ἀποστασία",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2TH 2:3",
+   "form": "ἀποστασία",
+   "morph": "N-NSF",
+   "gloss_en": "rebellion",
+   "gloss_ja": "背教",
+   "verse": "μή τις ὑμᾶς ἐξαπατήσῃ κατὰ μηδένα τρόπον· ὅτι ἐὰν μὴ ἔλθῃ ἡ ἀποστασία πρῶτον καὶ ἀποκαλυφθῇ ὁ ἄνθρωπος τῆς ἀνομίας, ὁ υἱὸς τῆς ἀπωλείας,"
+  },
+  {
+   "ref": "ACT 21:21",
+   "form": "ἀποστασίαν",
+   "morph": "N-ASF",
+   "gloss_en": "forsake",
+   "gloss_ja": "背教",
+   "verse": "κατηχήθησαν δὲ περὶ σοῦ ὅτι ἀποστασίαν διδάσκεις ἀπὸ Μωϋσέως τοὺς κατὰ τὰ ἔθνη πάντας Ἰουδαίους, λέγων μὴ περιτέμνειν αὐτοὺς τὰ τέκνα μηδὲ τοῖς ἔθεσιν περιπατεῖν."
+  }
+ ],
+ "lxx": {
+  "total": 4,
+  "works": {
+   "Josue": 1,
+   "Paralipomenon ii sive Chronicon ii": 1,
+   "Machabaeorum i": 1,
+   "Jeremias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "22.22",
+    "form": "ἀποστασίᾳ",
+    "postag": "n-s---fd-",
+    "sentence": "εἰ ἐν ἀποστασίᾳ ἐπλημμελήσαμεν ἔναντι τοῦ Κυρίου, μὴ ρύσαιτο ἡμᾶς ἐν τῇ ἡμέρᾳ ταύτῃ ·"
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "29.19",
+    "form": "ἀποστασίᾳ",
+    "postag": "n-s---fd-",
+    "sentence": "καὶ πάντα τὰ σκεύη, ἃ ἐμίανεν ὁ βασιλεὺς Ἄχαζ ἐν τῇ βασιλείᾳ αὐτοῦ ἐν τῇ ἀποστασίᾳ αὐτοῦ, ἡτοιμάκαμεν καὶ ἡγνίκαμεν, ἰδού ἐστιν ἐναντίον τοῦ θυσιαστηρίου Κυρίου."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "2.15",
+    "form": "ἀποστασίαν",
+    "postag": "n-s---fa-",
+    "sentence": "καὶ ἦλθον οἱ παρὰ τοῦ βασιλέως οἱ καταναγκάζοντες τὴν ἀποστασίαν εἰς Μωδεΐν τὴν πόλιν, ἵνα θυσιάσωσι."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "2.19",
+    "form": "ἀποστασία",
+    "postag": "n-s---fn-",
+    "sentence": "παιδεύσει σε ἡ ἀποστασία σου, καὶ ἡ κακία σου ἐλέγξει σε ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2 † ἀποστασία, -ας, ἡ    (< ἀφίστημι),   [in LXX for מַעַל, etc.;]    defection, apostasy, revolt; in late Gk. (MM, Exp., viii; Lft., Notes, 111; Cremer, 308) for cl. ἀπόστασις, freq. in sense of political revolt, in LXX (e.g. Jos 22:22, II Ch 29:19, Je 2:19) and NT always of religious apostasy: Ac 21:21, II Th 2:3.†"
+}

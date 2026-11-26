@@ -1,0 +1,49 @@
+{
+ "strong": "G4391",
+ "lemma": "προϋπάρχω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 8:9",
+   "form": "προϋπῆρχεν",
+   "morph": "V-IAI-3S",
+   "gloss_en": "previously",
+   "gloss_ja": "以前からいる",
+   "verse": "Ἀνὴρ δέ τις ὀνόματι Σίμων προϋπῆρχεν ἐν τῇ πόλει μαγεύων καὶ ἐξιστάνων τὸ ἔθνος τῆς Σαμαρείας, λέγων εἶναί τινα ἑαυτὸν μέγαν,"
+  },
+  {
+   "ref": "LUK 23:12",
+   "form": "προϋπῆρχον",
+   "morph": "V-IAI-3P",
+   "gloss_en": "before",
+   "gloss_ja": "以前からいる",
+   "verse": "ἐγένοντο δὲ φίλοι ὅ τε Ἡρῴδης καὶ ὁ Πιλᾶτος ἐν αὐτῇ τῇ ἡμέρᾳ μετ’ ἀλλήλων· προϋπῆρχον γὰρ ἐν ἔχθρᾳ ὄντες πρὸς αὑτούς."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Job": 1
+  },
+  "representatives": [
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "42.17β",
+    "form": "προϋπῆρχε",
+    "postag": "v3siia---",
+    "sentence": "οὗτος ἑρμηνεύεται ἐκ τῆς Συριακῆς βίβλου ἐν μὲν γῇ κατοικῶν τῇ Αὐσίτιδι, ἐπὶ τοῖς ὁρίοις τῆς Ἰδουμαίας καὶ Ἀραβίας, προϋπῆρχε δὲ αὐτῷ ὄνομα Ἰωβάβ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   ** προ-ϋπ-άρχω,    [in LXX: Jb 42:18*;]      to be beforehand in.     to be before or previously: c. ptcp., Lk 23:12, Ac 8:9.†"
+}

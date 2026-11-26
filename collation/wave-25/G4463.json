@@ -1,0 +1,59 @@
+{
+ "strong": "G4463",
+ "lemma": "ῥαβδίζω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2CO 11:25",
+   "form": "ἐραβδίσθην",
+   "morph": "V-API-1S",
+   "gloss_en": "beaten with rods",
+   "gloss_ja": "むちで打つ",
+   "verse": "τρὶς ἐραβδίσθην, ἅπαξ ἐλιθάσθην, τρὶς ἐναυάγησα, νυχθήμερον ἐν τῷ βυθῷ πεποίηκα·"
+  },
+  {
+   "ref": "ACT 16:22",
+   "form": "ῥαβδίζειν",
+   "morph": "V-PAN",
+   "gloss_en": "beaten with rods",
+   "gloss_ja": "むちで打つ",
+   "verse": "καὶ συνεπέστη ὁ ὄχλος κατ’ αὐτῶν, καὶ οἱ στρατηγοὶ περιρήξαντες αὐτῶν τὰ ἱμάτια ἐκέλευον ῥαβδίζειν,"
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Judices": 1,
+   "Ruth": 1
+  },
+  "representatives": [
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "6.11",
+    "form": "ραβδίζων",
+    "postag": "v-sppamn-",
+    "sentence": "καὶ ἦλθεν ἄγγελος Κυρίου καὶ ἐκάθισεν ὑπὸ τὴν τερέμινθον τὴν ἐν Ἐφραθὰ τὴν Ἰωὰς πατρὸς τοῦ Ἐσδρί, καὶ Γεδεὼν ὁ υἱὸς αὐτοῦ ραβδίζων σῖτον ἐν ληνῷ εἰς ἐκφυγεῖν ἀπὸ προσώπου τοῦ Μαδιάμ."
+   },
+   {
+    "work_code": "RUT",
+    "work_ja": "ルツ記",
+    "work_src": "Ruth",
+    "ref": "2.17",
+    "form": "ἐρράβδισεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἐρράβδισεν ἃ συνέλεξε, καὶ ἐγενήθη ὡς οἰφὶ κριθῶν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   ῥαβδίζω    (< ῥάβδος),    [in LXX: Jg 6:11 Ru 2:17 (חבט) * ;]     to beat with a rod: Ac 16:22, II Co 11:25.†"
+}

@@ -1,0 +1,67 @@
+{
+ "strong": "G5518",
+ "lemma": "χοῖνιξ",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "REV 6:6",
+   "form": "Χοῖνιξ",
+   "morph": "N-NSF",
+   "gloss_en": "quart",
+   "gloss_ja": "升",
+   "verse": "καὶ ἤκουσα ὡς φωνὴν ἐν μέσῳ τῶν τεσσάρων ζῴων λέγουσαν· Χοῖνιξ σίτου δηναρίου, καὶ τρεῖς χοίνικες κριθῶν δηναρίου· καὶ τὸ ἔλαιον καὶ τὸν οἶνον μὴ ἀδικήσῃς."
+  },
+  {
+   "ref": "REV 6:6",
+   "form": "χοίνικες",
+   "morph": "N-NPF",
+   "gloss_en": "quarts",
+   "gloss_ja": "升",
+   "verse": "καὶ ἤκουσα ὡς φωνὴν ἐν μέσῳ τῶν τεσσάρων ζῴων λέγουσαν· Χοῖνιξ σίτου δηναρίου, καὶ τρεῖς χοίνικες κριθῶν δηναρίου· καὶ τὸ ἔλαιον καὶ τὸν οἶνον μὴ ἀδικήσῃς."
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Ezechiel": 3
+  },
+  "representatives": [
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "45.11",
+    "form": "χοῖνιξ",
+    "postag": "n-s---fn-",
+    "sentence": "τὸ μέτρον καὶ ἡ χοῖνιξ ὁμοίως μία ἔσται τοῦ λαμβάνειν ·"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "45.10",
+    "form": "χοῖνιξ",
+    "postag": "n-s---fn-",
+    "sentence": "ζυγὸς δίκαιος καὶ μέτρον δίκαιον καὶ χοῖνιξ δικαία ἔστω ὑμῖν."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "45.11",
+    "form": "χοῖνιξ",
+    "postag": "n-s---fn-",
+    "sentence": "τὸ δέκατον τοῦ γομὸρ ἡ χοῖνιξ, καὶ τὸ δέκατον τοῦ γομὸρ τὸ μέτρον, πρὸς τὸ γομὸρ ἔσται ἴσον."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2 χοῖνιξ, -ικος, ἡ     [in LXX: Ez 45:10, 11 (בַּת) * ;]     a chænix, a dry measure of rather less than a quart: Re 6:6 (EV, measure).†"
+}

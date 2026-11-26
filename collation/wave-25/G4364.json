@@ -1,0 +1,91 @@
+{
+ "strong": "G4364",
+ "lemma": "προσποιέομαι",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": "προσποιεω",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JHN 8:6",
+   "form": "προσποιούμενος",
+   "morph": "V-PMP-NSM",
+   "gloss_en": "",
+   "gloss_ja": "ふりをする",
+   "verse": "τοῦτο δὲ ἔλεγον πειράζοντες αὐτόν, ἵνα ἔχωσιν κατηγορεῖν αὐτοῦ. ὁ δὲ Ἰησοῦς κάτω κύψας τῷ δακτύλῳ ἔγραφεν εἰς τὴν γῆν. μὴ προσποιούμενος"
+  },
+  {
+   "ref": "LUK 24:28",
+   "form": "προσεποιήσατο",
+   "morph": "V-AMI-3S",
+   "gloss_en": "acted as though",
+   "gloss_ja": "ふりをする",
+   "verse": "Καὶ ἤγγισαν εἰς τὴν κώμην οὗ ἐπορεύοντο, καὶ αὐτὸς προσεποιήσατο πορρώτερον πορεύεσθαι."
+  }
+ ],
+ "lxx": {
+  "total": 4,
+  "works": {
+   "Regnorum i": 1,
+   "Job": 1,
+   "Ecclesiasticus sive Siracides": 1,
+   "Susanna": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "21.13",
+    "form": "προσεποιήσατο",
+    "postag": "v3saim---",
+    "sentence": "καὶ ἠλλοίωσε τὸ πρόσωπον αὐτοῦ ἐνώπιον αὐτοῦ καὶ προσεποιήσατο ἐν τῇ ἡμέρᾳ ἐκείνῃ καὶ ἐτυμπάνιζεν ἐπὶ ταῖς θύραις τῆς πόλεως καὶ παρεφέρετο ἐν ταῖς χερσὶν αὐτοῦ καὶ ἔπιπτεν ἐπὶ τὰς θύρας τῆς πύλης, καὶ τὰ σίελα αὐτοῦ κατέρρει ἐπὶ τὸν πώγωνα αὐτοῦ."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "19.14",
+    "form": "προσεποιήσαντό",
+    "postag": "v3paim---",
+    "sentence": "οὐ προσεποιήσαντό με οἱ ἐγγύτατοί μου, καὶ οἱ εἰδότες μου τὸ ὄνομα ἐπελάθοντό μου."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "31.30",
+    "form": "προσποιῶν",
+    "postag": "v-sppamn-",
+    "sentence": "πληθύνει μέθη θυμὸν ἄφρονος εἰς πρόσκομμα, ἐλαττῶν ἰσχὺν καὶ προσποιῶν τραύματα."
+   },
+   {
+    "work_code": "SUS",
+    "work_ja": "スザンナ（Th）",
+    "work_src": "Susanna",
+    "ref": "10",
+    "form": "προσεποιεῖτο",
+    "postag": "v3siim---",
+    "sentence": "καὶ ἀμφότεροι ἦσαν κατανενυγμένοι περὶ αὐτῆς, καὶ ἕτερος τῷ ἑτέρῳ οὐ προσεποιεῖτο τὸ κακὸν τὸ ἔχον αὐτοὺς περὶ αὐτῆς, οὐ-δὲ ἡ γυνὴ ἔγνω τὸ πρᾶγμα τοῦτο."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Martyrdom of Polycarp": 1
+  },
+  "representatives": [
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "10.1",
+    "form": "προσποιεῖ",
+    "postag": "v2spim---",
+    "sentence": "εἰ κενοδοξεῖς, ἵνα ὀμόσω τὴν καίσαρος τύχην, ὡς σὺ λέγεις, προσποιεῖ δὲ ἀγνοεῖν με, τίς εἰμι, μετὰ παρρησίας ἄκουε ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1 προσ-ποιέω, -ῶ,    [in LXX: I Ki 21:13 (14) (הלל hithpo.), Jb 19:14, Si 34 (31):30, Da LXX Su 11*;]    to make over to, add or attach to. Mid., to take to oneself, claim; hence, to pretend; c. inf. (cf. Xen., Anab., iv, 3, 20), to make as if: Lk 24:28.†"
+}

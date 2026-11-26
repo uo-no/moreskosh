@@ -1,0 +1,177 @@
+{
+ "strong": "G953",
+ "lemma": "βεβηλόω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 24:6",
+   "form": "βεβηλῶσαι",
+   "morph": "V-AAN",
+   "gloss_en": "desecrate",
+   "gloss_ja": "汚す",
+   "verse": "ὃς καὶ τὸ ἱερὸν ἐπείρασεν βεβηλῶσαι, ὃν καὶ ἐκρατήσαμεν,"
+  },
+  {
+   "ref": "MAT 12:5",
+   "form": "βεβηλοῦσιν",
+   "morph": "V-PAI-3P",
+   "gloss_en": "break",
+   "gloss_ja": "汚す",
+   "verse": "ἢ οὐκ ἀνέγνωτε ἐν τῷ νόμῳ ὅτι τοῖς σάββασιν οἱ ἱερεῖς ἐν τῷ ἱερῷ τὸ σάββατον βεβηλοῦσιν καὶ ἀναίτιοί εἰσιν;"
+  }
+ ],
+ "lxx": {
+  "total": 87,
+  "works": {
+   "Exodus": 1,
+   "Leviticus": 17,
+   "Numeri": 3,
+   "Esdras ii": 2,
+   "Judith": 2,
+   "Machabaeorum i": 9,
+   "Machabaeorum ii": 2,
+   "Psalmi": 6,
+   "Ecclesiasticus sive Siracides": 2,
+   "Psalmi Salomonis": 2,
+   "Amos": 1,
+   "Sophonias": 1,
+   "Malachias": 3,
+   "Isaias": 3,
+   "Jeremias": 2,
+   "Threni seu Lamentationes": 1,
+   "Ezechiel": 29,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "23.38",
+    "form": "ἐβεβήλουν",
+    "postag": "v3piia---",
+    "sentence": "τὰ ἅγιά μου ἐμίαινον καὶ τὰ σάββατά μου ἐβεβήλουν ·"
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "21.15",
+    "form": "βεβηλώσει",
+    "postag": "v3sfia---",
+    "sentence": "καὶ οὐ βεβηλώσει τὸ σπέρμα αὐτοῦ ἐν τῷ λαῷ αὐτοῦ ·"
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "3.51",
+    "form": "βεβήλωται",
+    "postag": "v3srim---",
+    "sentence": "καὶ τὰ ἅγιά σου καταπεπάτηται καὶ βεβήλωται καὶ οἱ ἱερεῖς σου ἐν πένθει καὶ ταπεινώσει."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "88.40",
+    "form": "ἐβεβήλωσας",
+    "postag": "v2saia---",
+    "sentence": "κατέστρεψας τὴν διαθήκην τοῦ δούλου σου, ἐβεβήλωσας εἰς τὴν γῆν τὸ ἁγίασμα αὐτοῦ."
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "25.1",
+    "form": "ἐβεβηλώθη",
+    "postag": "v3saip---",
+    "sentence": "καὶ ἐβεβηλώθη ὁ λαὸς ἐκπορνεῦσαι εἰς τὰς θυγατέρας Μωάβ."
+   },
+   {
+    "work_code": "MAL",
+    "work_ja": "マラキ書",
+    "work_src": "Malachias",
+    "ref": "1.12",
+    "form": "βεβηλοῦτε",
+    "postag": "v2ppia---",
+    "sentence": "ὑμεῖς δὲ βεβηλοῦτε αὐτὸ ἐν τῷ λέγειν ὑμᾶς ·"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "48.11",
+    "form": "βεβηλοῦται",
+    "postag": "v3spim---",
+    "sentence": "ἕνεκεν ἐμοῦ ποιήσω σοι, ὅτι τὸ ἐμὸν ὄνομα βεβηλοῦται, καὶ τὴν δόξαν μου ἑτέρῳ οὐ δώσω."
+   },
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "23.18",
+    "form": "βεβηλῶσαι",
+    "postag": "v--ana---",
+    "sentence": "καὶ ὑμεῖς προστίθετε ὀργὴν ἐπὶ Ἰσραὴλ βεβηλῶσαι τὸ σάββατον;"
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "9.2",
+    "form": "ἐβεβήλωσαν",
+    "postag": "v3paia---",
+    "sentence": "Κύριε ὁ Θεὸς τοῦ πατρός μου Συμεών, ᾧ ἔδωκας ἐν χειρὶ ρομφαίαν εἰς ἐκδίκησιν ἀλλογενῶν, οἳ ἔλυσαν μήτραν παρθένου εἰς μίασμα καὶ ἐγύμνωσαν μηρὸν εἰς αἰσχύνην καὶ ἐβεβήλωσαν μήτραν εἰς ὄνειδος ·"
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "8.2",
+    "form": "βεβηλωθέντα",
+    "postag": "v-sappma-",
+    "sentence": "καὶ ἐπεκαλοῦντο τὸν Κύριον ἐπιδεῖν ἐπὶ τὸν ὑπὸ πάντων καταπατούμενον λαόν, οἰκτεῖραι δὲ καὶ τὸν ναὸν τὸν ὑπὸ τῶν ἀσεβῶν ἀνθρώπων βεβηλωθέντα, ἐλεῆσαι δὲ καὶ τὴν καταφθειρομένην πόλιν καὶ μέλλουσαν ἰσόπεδον γίνεσθαι καὶ τῶν καταβοώντων πρὸς αὐτὸν αἱμάτων εἰσακοῦσαι, μνησθῆναι δὲ καὶ τῆς τῶν ἀναμαρτήτων νηπίων παρανόμου ἀπωλείας καὶ περὶ τῶν γενομένων εἰς τὸ ὄνομα αὐτοῦ βλασφημιῶν καὶ μισοπονηρῆσαι."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "42.10",
+    "form": "βεβηλωθῇ",
+    "postag": "v3sasp---",
+    "sentence": "ἐν παρθενίᾳ μήποτε βεβηλωθῇ καὶ ἐν τοῖς πατρικοῖς αὐτῆς ἔγκυος γένηται ·"
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "2.3",
+    "form": "ἐβεβηλοῦσαν",
+    "postag": "v3paia---",
+    "sentence": "ἀνέβησαν ἐπὶ τὸ θυσιαστήριόν σου ἔθνη ἀλλότρια, κατεπατοῦσαν ἐν ὑποδήμασιν αὐτῶν ἐν ὑπερηφανίᾳ, ἀνθ’ ὧν οἱ υἱοὶ Ιερουσαλημ ἐμίαναν τὰ ἅγια κυρίου, ἐβεβηλοῦσαν τὰ δῶρα τοῦ θεοῦ ἐν ἀνομίαις."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "25.6.2",
+    "form": "βεβηλώσωσι",
+    "postag": "v3pasa---",
+    "sentence": "ὧν δὲ εἶδε τὴν δολιότητα καὶ πονηρίαν, μελλόντων ἐν ὑποκρίσει μετανοεῖν, ἐκείνοις οὐκ ἔδωκε μετάνοιαν, μήποτε πάλιν βεβηλώσωσι τὸ ὄνομα αὐτοῦ."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   † βεβηλόω, -ῶ    (< βέβηλος),   [in LXX chiefly for חלל;]    to profane: τ. σάββατον, Mt 12:5; τ. ἱερόν, Ac 24:6 (Cremer, 141).†   SYN.: κοινόω, q.v."
+}

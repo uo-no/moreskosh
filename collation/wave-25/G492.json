@@ -1,0 +1,49 @@
+{
+ "strong": "G492",
+ "lemma": "ἀντιπαρέρχομαι",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 10:31",
+   "form": "ἀντιπαρῆλθεν",
+   "morph": "V-2AAI-3S",
+   "gloss_en": "passed by on the other side",
+   "gloss_ja": "通り過ぎる",
+   "verse": "κατὰ συγκυρίαν δὲ ἱερεύς τις κατέβαινεν ἐν τῇ ὁδῷ ἐκείνῃ, καὶ ἰδὼν αὐτὸν ἀντιπαρῆλθεν·"
+  },
+  {
+   "ref": "LUK 10:32",
+   "form": "ἀντιπαρῆλθεν",
+   "morph": "V-2AAI-3S",
+   "gloss_en": "passed by on the other side",
+   "gloss_ja": "通り過ぎる",
+   "verse": "ὁμοίως δὲ καὶ Λευίτης κατὰ τὸν τόπον ἐλθὼν καὶ ἰδὼν ἀντιπαρῆλθεν."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Sapientia Salomonis": 1
+  },
+  "representatives": [
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "16.10",
+    "form": "ἀντιπαρῆλθε",
+    "postag": "v3saia---",
+    "sentence": "τοὺς δὲ υἱούς σου οὐ-δὲ ἰοβόλων δρακόντων ἐνίκησαν ὀδόντες, τὸ ἔλεος γάρ σου ἀντιπαρῆλθε καὶ ἰάσατο αὐτούς."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   **† ἀντι-παρ-έρχομαι,    [in LXX: Wi 16:10*;]    to pass by opposite to: Lk 10:31, 32 (MM, VGT, s.v.).†"
+}

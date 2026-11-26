@@ -1,0 +1,183 @@
+{
+ "strong": "G835",
+ "lemma": "αὐλίζομαι",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 21:37",
+   "form": "ηὐλίζετο",
+   "morph": "V-INI-3S",
+   "gloss_en": "spend the night",
+   "gloss_ja": "宿る",
+   "verse": "Ἦν δὲ τὰς ἡμέρας ἐν τῷ ἱερῷ διδάσκων, τὰς δὲ νύκτας ἐξερχόμενος ηὐλίζετο εἰς τὸ ὄρος τὸ καλούμενον Ἐλαιῶν·"
+  },
+  {
+   "ref": "MAT 21:17",
+   "form": "ηὐλίσθη",
+   "morph": "V-AOI-3S",
+   "gloss_en": "spent the night",
+   "gloss_ja": "宿る",
+   "verse": "καὶ καταλιπὼν αὐτοὺς ἐξῆλθεν ἔξω τῆς πόλεως εἰς Βηθανίαν, καὶ ηὐλίσθη ἐκεῖ."
+  }
+ ],
+ "lxx": {
+  "total": 57,
+  "works": {
+   "Judices": 12,
+   "Ruth": 3,
+   "Regnorum ii": 3,
+   "Esdras i": 1,
+   "Esdras ii": 3,
+   "Tobias": 11,
+   "Psalmi": 4,
+   "Proverbia": 1,
+   "Canticum": 2,
+   "Job": 8,
+   "Ecclesiasticus sive Siracides": 3,
+   "Psalmi Salomonis": 2,
+   "Jeremias": 1,
+   "Daniel": 3
+  },
+  "representatives": [
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "19.20",
+    "form": "αὐλισθήσῃ",
+    "postag": "v2sfip---",
+    "sentence": "πλὴν ἐν τῇ πλατείᾳ οὐ μὴ αὐλισθήσῃ."
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "9.5",
+    "form": "ηὐλίσθη",
+    "postag": "v3saip---",
+    "sentence": "καὶ ἐπορεύθη Ῥαφαὴλ καὶ ηὐλίσθη παρὰ Γαβαήλ, καὶ ἔδωκεν αὐτῷ τὸ χειρόγραφον ·"
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "38.19",
+    "form": "αὐλίζεται",
+    "postag": "v3spim---",
+    "sentence": "ἐν ποίᾳ δὲ γῇ αὐλίζεται τὸ φῶς;"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "54.8",
+    "form": "ηὐλίσθην",
+    "postag": "v1saip---",
+    "sentence": "ἰδοὺ ἐμάκρυνα φυγαδεύων καὶ ηὐλίσθην ἐν τῇ ἐρήμῳ."
+   },
+   {
+    "work_code": "RUT",
+    "work_ja": "ルツ記",
+    "work_src": "Ruth",
+    "ref": "1.16",
+    "form": "αὐλισθῇς",
+    "postag": "v2sasp---",
+    "sentence": "ὅτι σὺ ὅπου ἐὰν πορευθῇς, πορεύσομαι, καὶ οὗ ἐὰν αὐλισθῇς, αὐλισθήσομαι ·"
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "19.7",
+    "form": "αὐλισθήσεται",
+    "postag": "v3sfip---",
+    "sentence": "καὶ νῦν ἀναστὰς ἔξελθε καὶ λάλησον εἰς τὴν καρδίαν τῶν δούλων σου, ὅτι ἐν Κυρίῳ ὤμοσα ὅτι εἰ μὴ ἐκπορεύσῃ σήμερον, εἰ αὐλισθήσεται ἀνὴρ μετὰ σοῦ τὴν νύκτα ταύτην ·"
+   },
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "23.21",
+    "form": "αὐλίζεσθε",
+    "postag": "v2ppim---",
+    "sentence": "διατί ὑμεῖς αὐλίζεσθε ἀπέναντι τοῦ τείχους;"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "24.7",
+    "form": "αὐλισθήσομαι",
+    "postag": "v1sfip---",
+    "sentence": "μετὰ τούτων πάντων ἀνάπαυσιν ἐζήτησα καὶ ἐν κληρονομίᾳ τίνος αὐλισθήσομαι."
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "6.19",
+    "form": "ηὐλίσθη",
+    "postag": "v3saip---",
+    "sentence": "τότε ὑπέστρεψεν ὁ βασιλεὺς εἰς τὰ βασίλεια αὐτοῦ καὶ ηὐλίσθη νῆστις καὶ ἦν λυπούμενος περὶ τοῦ Δανιηλ."
+   },
+   {
+    "work_code": "SNG",
+    "work_ja": "雅歌",
+    "work_src": "Canticum",
+    "ref": "7.12",
+    "form": "αὐλισθῶμεν",
+    "postag": "v1pasp---",
+    "sentence": "ἐλθέ, ἀδελφιδέ μου, ἐξέλθωμεν εἰς ἀγρόν, αὐλισθῶμεν ἐν κώμαις ·"
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "17.27",
+    "form": "αὐλισθῆναι",
+    "postag": "v--anp---",
+    "sentence": "καὶ οὐκ ἀφήσει ἀδικίαν ἐν μέσῳ αὐτῶν αὐλισθῆναι ἔτι, καὶ οὐ κατοικήσει πᾶς ἄνθρωπος μετ’ αὐτῶν εἰδὼς κακίαν ·"
+   },
+   {
+    "work_code": "1ES",
+    "work_ja": "エズラ記（ギリシャ語）",
+    "work_src": "Esdras i",
+    "ref": "9.2",
+    "form": "αὐλισθεὶς",
+    "postag": "v-sappmn-",
+    "sentence": "καὶ ἀναστὰς Ἔσδρας ἀπὸ τῆς αὐλῆς τοῦ ἱεροῦ ἐπορεύθη εἰς τὸ παστοφόριον Ἰωνὰν τοῦ Ἐλιασίβου, καὶ αὐλισθεὶς ἐκεῖ ἄρτου οὐκ ἐγεύσατο οὐ-δὲ ὕδωρ ἔπιε, πενθῶν ἐπὶ τῶν ἀνομιῶν τῶν μεγάλων τοῦ πλήθους."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "1 Clement": 1,
+   "Didache": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "4.11",
+    "form": "ηὐλίσθησαν",
+    "postag": "v3paip---",
+    "sentence": "διὰ ζῆλος ’Λαρὼν καὶ Μαριὰμ ἔξω τῆς παρεμβολῆς ηὐλίσθησαν."
+   },
+   {
+    "work_code": "DID",
+    "work_ja": "ディダケー",
+    "work_src": "Didache",
+    "ref": "11.6",
+    "form": "αὐλισθῇ",
+    "postag": "v3sasp---",
+    "sentence": "ἐξερχόμενος δὲ ὁ ἀπόστολος μηδὲν λαμβανέτω εἰ μὴ ἄρτον, ἕως οὖ αὐλισθῇ ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   αὐλίζομαι    (< αὐλή),   [in LXX chiefly for לון, לון;]      prop., to lodge in a courtyard.     to lodge in the open.     to pass the night, lodge (LXX; MM, s.v.): Mt 21:17, Lk 21:37.†"
+}

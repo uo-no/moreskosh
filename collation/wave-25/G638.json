@@ -1,0 +1,59 @@
+{
+ "strong": "G638",
+ "lemma": "ἀποπνίγω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 8:7",
+   "form": "ἀπέπνιξαν",
+   "morph": "V-AAI-3P",
+   "gloss_en": "choked",
+   "gloss_ja": "窒息させる",
+   "verse": "καὶ ἕτερον ἔπεσεν ἐν μέσῳ τῶν ἀκανθῶν, καὶ συμφυεῖσαι αἱ ἄκανθαι ἀπέπνιξαν αὐτό."
+  },
+  {
+   "ref": "LUK 8:33",
+   "form": "ἀπεπνίγη",
+   "morph": "V-2API-3S",
+   "gloss_en": "drowned",
+   "gloss_ja": "窒息させる",
+   "verse": "ἐξελθόντα δὲ τὰ δαιμόνια ἀπὸ τοῦ ἀνθρώπου εἰσῆλθον εἰς τοὺς χοίρους, καὶ ὥρμησεν ἡ ἀγέλη κατὰ τοῦ κρημνοῦ εἰς τὴν λίμνην καὶ ἀπεπνίγη."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Tobias": 1,
+   "Nahum": 1
+  },
+  "representatives": [
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "3.8",
+    "form": "ἀποπνίγουσά",
+    "postag": "v-sppafn-",
+    "sentence": "οὐ συνιεῖς ἀποπνίγουσά σου τοὺς ἄνδρας;"
+   },
+   {
+    "work_code": "NAH",
+    "work_ja": "ナホム書",
+    "work_src": "Nahum",
+    "ref": "2.13",
+    "form": "ἀπέπνιξε",
+    "postag": "v3saia---",
+    "sentence": "λέων ἥρπασε τὰ ἱκανὰ τοῖς σκύμνοις αὐτοῦ καὶ ἀπέπνιξε τοῖς λέουσιν αὐτοῦ καὶ ἔπλησε θήρας νοσσιὰν αὐτοῦ καὶ τὸ κατοικητήριον αὐτοῦ ἁρπαγῆς."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   ἀπο-πνίγω,    [in LXX: Na 2:12 (13) (חנק pi.), To 3:8*;]    to choke: Mt 13:7, Lk 8:7; pass., of drowning (= καταποντίζομαι), Lk 8:33.†"
+}

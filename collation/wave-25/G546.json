@@ -1,0 +1,141 @@
+{
+ "strong": "G546",
+ "lemma": "ἀπειλέω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1PE 2:23",
+   "form": "ἠπείλει",
+   "morph": "V-IAI-3S",
+   "gloss_en": "threaten",
+   "gloss_ja": "脅す",
+   "verse": "ὃς λοιδορούμενος οὐκ ἀντελοιδόρει, πάσχων οὐκ ἠπείλει, παρεδίδου δὲ τῷ κρίνοντι δικαίως·"
+  },
+  {
+   "ref": "ACT 4:17",
+   "form": "ἀπειλησώμεθα",
+   "morph": "V-AMS-1P",
+   "gloss_en": "warn",
+   "gloss_ja": "脅す",
+   "verse": "ἀλλ’ ἵνα μὴ ἐπὶ πλεῖον διανεμηθῇ εἰς τὸν λαόν, ἀπειλησώμεθα αὐτοῖς μηκέτι λαλεῖν ἐπὶ τῷ ὀνόματι τούτῳ μηδενὶ ἀνθρώπων."
+  }
+ ],
+ "lxx": {
+  "total": 9,
+  "works": {
+   "Genesis": 1,
+   "Numeri": 1,
+   "Judith": 1,
+   "Machabaeorum iii": 1,
+   "Machabaeorum iv": 1,
+   "Ecclesiasticus sive Siracides": 1,
+   "Nahum": 1,
+   "Isaias": 1,
+   "Susanna": 1
+  },
+  "representatives": [
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "27.42",
+    "form": "ἀπειλεῖ",
+    "postag": "v3spia---",
+    "sentence": "ἰδοὺ Ἡσαῦ ὁ ἀδελφός σου ἀπειλεῖ σοι τοῦ ἀποκτεῖναί σε ·"
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "23.19",
+    "form": "ἀπειληθῆναι",
+    "postag": "v--anp---",
+    "sentence": "οὐχ ὡς ἄνθρωπος ὁ Θεὸς διαρτηθῆναι, οὐ-δ’ ὡς υἱὸς ἀνθρώπου ἀπειληθῆναι ·"
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "8.16",
+    "form": "ἀπειληθῆναι",
+    "postag": "v--anp---",
+    "sentence": "ὑμεῖς δὲ μὴ ἐνεχυράζετε τὰς βουλὰς Κυρίου τοῦ Θεοῦ ἡμῶν, ὅτι οὐχ ὡς ἄνθρωπος ὁ Θεὸς ἀπειληθῆναι, οὐ-δὲ ὡς υἱὸς ἀνθρώπου διαιτηθῆναι."
+   },
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "4.19",
+    "form": "ἀπειλήσαντος",
+    "postag": "v-sapamg-",
+    "sentence": "ἀπειλήσαντος δὲ αὐτοῖς σκληρότερον ὡς δεδωροκοπημένοις εἰς μηχανὴν τῆς ἐκφυγῆς, συνέβη σαφῶς αὐτὸν περὶ τούτου πεισθῆναι, λεγόντων μετὰ ἀποδείξεως καὶ τὴν χαρτηρίαν ἤδη καὶ τοὺς γραφικοὺς καλάμους, ἐν οἷς ἐχρῶντο, ἐκλελοιπέναι."
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "9.5",
+    "form": "ἀπειλῶν",
+    "postag": "v-sppamn-",
+    "sentence": "ἐκφοβεῖς δὲ ἡμᾶς τὸν διὰ τῶν βασάνων ἡμῖν θάνατον ἀπειλῶν, ὥσπερ οὐχὶ πρὸ βραχέος παρὰ Ἐλεαζάρου μαθών."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "19.17",
+    "form": "ἀπειλῆσαι",
+    "postag": "v--ana---",
+    "sentence": "ἔλεγξον τὸν πλησίον σου πρὶν ἢ ἀπειλῆσαι, καὶ δὸς τόπον νόμῳ Ὑψίστου."
+   },
+   {
+    "work_code": "NAH",
+    "work_ja": "ナホム書",
+    "work_src": "Nahum",
+    "ref": "1.4",
+    "form": "ἀπειλῶν",
+    "postag": "v-sppamn-",
+    "sentence": "ἀπειλῶν θαλάσσῃ καὶ ξηραίνων αὐτὴν καὶ πάντας τοὺς ποταμοὺς ἐξερημῶν ·"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "66.14",
+    "form": "ἀπειλήσει",
+    "postag": "v3sfia---",
+    "sentence": "καὶ γνωσθήσεται ἡ χεὶρ Κυρίου τοῖς φοβουμένοις αὐτόν, καὶ ἀπειλήσει τοῖς ἀπειθοῦσιν."
+   },
+   {
+    "work_code": "SUS",
+    "work_ja": "スザンナ（Th）",
+    "work_src": "Susanna",
+    "ref": "28",
+    "form": "ἀπειλοῦντες",
+    "postag": "v-pppamn-",
+    "sentence": "οἱ δὲ παράνομοι ἄνδρες ἀπέστρεψαν ἀπειλοῦντες ἐν ἑαυτοῖς καὶ ἐνεδρεύοντες ἵνα θανατώσουσιν αὐτήν ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Martyrdom of Polycarp": 1
+  },
+  "representatives": [
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "11.2",
+    "form": "ἀπειλεῖς",
+    "postag": "v2spia---",
+    "sentence": "πῦρ ἀπειλεῖς τὸ πρὸς ὥραν καιόμενον καὶ μετ’ ὀλίγον σβεννύμενον ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   ἀπειλέω, -ῶ        (ἀπειλή),   [in LXX: Na 1:4 (גּער), Is 66:14 (זעם), Si 19:17, al.;]    to threaten: I Pe 2:23; mid., Ac 4:17 (v. MM, VGT, s.v., and cf. προσαπειλέω).†"
+}

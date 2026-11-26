@@ -1,0 +1,189 @@
+{
+ "strong": "G471",
+ "lemma": "ἀντιλέγω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 4:14",
+   "form": "ἀντειπεῖν",
+   "morph": "V-2AAN",
+   "gloss_en": "say in opposition",
+   "gloss_ja": "反論する",
+   "verse": "τόν τε ἄνθρωπον βλέποντες σὺν αὐτοῖς ἑστῶτα τὸν τεθεραπευμένον οὐδὲν εἶχον ἀντειπεῖν."
+  },
+  {
+   "ref": "LUK 21:15",
+   "form": "ἀντειπεῖν",
+   "morph": "V-2AAN",
+   "gloss_en": "contradict",
+   "gloss_ja": "反論する",
+   "verse": "ἐγὼ γὰρ δώσω ὑμῖν στόμα καὶ σοφίαν ᾗ οὐ δυνήσονται ἀντιστῆναι ἢ ἀντειπεῖν ἅπαντες οἱ ἀντικείμενοι ὑμῖν."
+  }
+ ],
+ "lxx": {
+  "total": 19,
+  "works": {
+   "Genesis": 1,
+   "Josue": 1,
+   "Esther": 3,
+   "Machabaeorum i": 1,
+   "Machabaeorum iii": 1,
+   "Machabaeorum iv": 2,
+   "Job": 4,
+   "Ecclesiasticus sive Siracides": 1,
+   "Osee": 1,
+   "Isaias": 4
+  },
+  "representatives": [
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "23.13",
+    "form": "ἀντειπὼν",
+    "postag": "v-sapamn-",
+    "sentence": "εἰ δὲ καὶ αὐτὸς ἔκρινεν οὕτως, τίς ἐστιν ὁ ἀντειπὼν αὐτῷ;"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "22.22",
+    "form": "ἀντιλέγων",
+    "postag": "v-sppamn-",
+    "sentence": "καὶ δώσω τὴν δόξαν Δαυὶδ αὐτῷ, καὶ ἄρξει, καὶ οὐκ ἔσται ὁ ἀντιλέγων."
+   },
+   {
+    "work_code": "EST",
+    "work_ja": "エステル記",
+    "work_src": "Esther",
+    "ref": "8.8",
+    "form": "ἀντειπεῖν",
+    "postag": "v--ana---",
+    "sentence": "ὅσα γὰρ γράφετε τοῦ βασιλέως ἐπιτάξαντος καὶ σφραγισθῇ τῷ δακτυλίω μου, οὐκ ἔστιν αὐτοῖς ἀντειπεῖν."
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "4.7",
+    "form": "ἀντιλέγοντός",
+    "postag": "v-sppang-",
+    "sentence": "καὶ τοῦ ἔθνους πρὸς τὸν λόγον σχετλιάζοντος ἀντιλέγοντός τε, πάνδεινον εἶναι νομίσαντες, εἰ οἱ τὰς παρακαταθήκας πιστεύσαντες τῷ ἱερῷ θησαυρῷ στερηθήσονται, ὡς οἷόν τε ἦν, ἐκώλυον."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "24.50",
+    "form": "ἀντειπεῖν",
+    "postag": "v--ana---",
+    "sentence": "οὐ δυνησόμεθα οὖν σοι ἀντειπεῖν κακὸν καλῷ."
+   },
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "17.14",
+    "form": "ἀντεῖπαν",
+    "postag": "v3paia---",
+    "sentence": "ἀντεῖπαν δὲ οἱ υἱοὶ Ἰωσὴφ τῷ Ἰησοῖ λέγοντες ·"
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "14.44",
+    "form": "ἀντειπεῖν",
+    "postag": "v--ana---",
+    "sentence": "καὶ οὐκ ἐξέσται οὐδενὶ τοῦ λαοῦ καὶ τῶν ἱερέων ἀθετῆσαί τι τούτων καὶ ἀντειπεῖν τοῖς ὑπ’ αὐτοῦ ρηθησομένοις καὶ ἐπισυστρέψαι συστροφὴν ἐν τῇ χώρᾳ ἄνευ αὐτοῦ καὶ περιβάλλεσθαι πορφύραν καὶ ἐμπορποῦσθαι πόρπην χρυσῆν ·"
+   },
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "2.28",
+    "form": "ἀντιλέγοντας",
+    "postag": "v-pppama-",
+    "sentence": "καὶ ἐπὶ τοῦ κατὰ τὴν αὐλὴν πύργου στήλην ἀναστήσας ἐξεκόλαψε γραφήν, μηδένα τῶν μὴ θυόντων εἰς τὰ ἱερὰ αὐτῶν εἰσιέναι, πάντας δὲ τοὺς Ἰουδαίους εἰς λαογραφίαν καὶ οἰκετικὴν διάθεσιν ἀχθῆναι, τοὺς δὲ ἀντιλέγοντας βίᾳ φερομένους τοῦ ζῆν μεταστῆσαι, τούς τε ἀπογραφομένους χαράσσεσθαι καὶ διὰ πυρὸς εἰς τὸ σῶμα παρασήμῳ Διονύσου κισσοφύλλῳ, οὓς καὶ καταχωρίσαι εἰς τὴν προσυνεσταλμένην αὐθεντίαν."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "4.25",
+    "form": "ἀντίλεγε",
+    "postag": "v2spma---",
+    "sentence": "μὴ ἀντίλεγε τῇ ἀληθείᾳ καὶ περὶ τῆς ἀπαιδευσίας σου ἐντράπηθι."
+   },
+   {
+    "work_code": "HOS",
+    "work_ja": "ホセア書",
+    "work_src": "Osee",
+    "ref": "4.4",
+    "form": "ἀντιλεγόμενος",
+    "postag": "v-sppmmn-",
+    "sentence": "ὁ δὲ λαός μου ὡς ἀντιλεγόμενος ἱερεύς."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "20.2",
+    "form": "ἀντερεῖν",
+    "postag": "v--fna---",
+    "sentence": "οὐχ οὕτως ὑπελάμβανον ἀντερεῖν σε ταῦτα, καὶ οὐχὶ συνίετε μᾶλλον ἢ καὶ ἐγώ."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "65.2",
+    "form": "ἀντιλέγοντα",
+    "postag": "v-sppama-",
+    "sentence": "ἐξεπέτασα τὰς χεῖράς μου ὅλην τὴν ἡμέραν πρὸς λαὸν ἀπειθοῦντα καὶ ἀντιλέγοντα, οἳ οὐκ ἐπορεύθησαν ὁδῷ ἀληθινῇ, ἀλλ’ ὀπίσω τῶν ἁμαρτιῶν αὐτῶν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 3,
+  "works": {
+   "Barnabas": 1,
+   "Hermas, Pastor": 1,
+   "Ignatius, Letters": 1
+  },
+  "representatives": [
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "12.4",
+    "form": "ἀντιλέγοντα",
+    "postag": "v-sppama-",
+    "sentence": "ὅλην τὴν ἡμέραν ἐξεπέτασα τὰς χεῖράς μου πρὸς λαὸν ἀπειθῆ καὶ ἀντιλέγοντα ὁδῷ δικαίᾳ μου."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "8.1.3",
+    "form": "ἀντεῖπεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ οὐδέποτέ μοι οὐδεὶς ἀντεῖπεν, ἀλλ’ ἐπιστεύθη τῷ λόγῳ μου."
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "6.7.1",
+    "form": "ἀντιλέγοντες",
+    "postag": "v-pppamn-",
+    "sentence": "οἱ οὖν ἀντιλέγοντες τῇ δωρεᾷ τοῦ θεοῦ συζητοῦντες ἀποθνήσκουσιν ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2 (KJV) ἀντ-ε͂ιπον    (ἀντί, εἶπον),   [in LXX for שׁוּב hi., דבר pi., ענה, etc.;]    2 aor., without present in use, to speak against, gainsay: Lk 21:15, Ac 4:14.†"
+}

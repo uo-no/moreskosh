@@ -1,0 +1,49 @@
+{
+ "strong": "G4866",
+ "lemma": "συναθλέω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "PHP 4:3",
+   "form": "συνήθλησάν",
+   "morph": "V-AAI-3P",
+   "gloss_en": "struggled beside",
+   "gloss_ja": "共に戦う",
+   "verse": "ναὶ ἐρωτῶ καὶ σέ, γνήσιε σύζυγε, συλλαμβάνου αὐταῖς, αἵτινες ἐν τῷ εὐαγγελίῳ συνήθλησάν μοι μετὰ καὶ Κλήμεντος καὶ τῶν λοιπῶν συνεργῶν μου, ὧν τὰ ὀνόματα ἐν βίβλῳ ζωῆς."
+  },
+  {
+   "ref": "PHP 1:27",
+   "form": "συναθλοῦντες",
+   "morph": "V-PAP-NPM",
+   "gloss_en": "contending",
+   "gloss_ja": "共に戦う",
+   "verse": "Μόνον ἀξίως τοῦ εὐαγγελίου τοῦ Χριστοῦ πολιτεύεσθε, ἵνα εἴτε ἐλθὼν καὶ ἰδὼν ὑμᾶς εἴτε ἀπὼν ἀκούω τὰ περὶ ὑμῶν, ὅτι στήκετε ἐν ἑνὶ πνεύματι, μιᾷ ψυχῇ συναθλοῦντες τῇ πίστει τοῦ εὐαγγελίου,"
+  }
+ ],
+ "lxx": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Ignatius, Letters": 1
+  },
+  "representatives": [
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "7.6.1",
+    "form": "συναθλεῖτε",
+    "postag": "v2ppma---",
+    "sentence": "συγκοπιᾶτε ἀλλήλοις, συναθλεῖτε, συντρέχετε, συμπάσχετε, συγκοιμᾶσθε."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2 * συν-αθλέω, -ῶ      = συναγωνίζομαι: c. dat. commod., Phl 1:27; c. dat. pers., seq. ἐν, Phl 4:3.†"
+}

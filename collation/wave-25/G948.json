@@ -1,0 +1,166 @@
+{
+ "strong": "G948",
+ "lemma": "βδελύσσομαι",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "REV 21:8",
+   "form": "ἐβδελυγμένοις",
+   "morph": "V-RPP-DPM",
+   "gloss_en": "detestable",
+   "gloss_ja": "忌み嫌う",
+   "verse": "τοῖς δὲ δειλοῖς καὶ ἀπίστοις καὶ ἐβδελυγμένοις καὶ φονεῦσι καὶ πόρνοις καὶ φαρμάκοις καὶ εἰδωλολάτραις καὶ πᾶσι τοῖς ψευδέσιν τὸ μέρος αὐτῶν ἐν τῇ λίμνῃ τῇ καιομένῃ πυρὶ καὶ θείῳ, ὅ ἐστιν ὁ θάνατος ὁ δεύτερος."
+  },
+  {
+   "ref": "ROM 2:22",
+   "form": "βδελυσσόμενος",
+   "morph": "V-PNP-NSM",
+   "gloss_en": "abhor",
+   "gloss_ja": "忌み嫌う",
+   "verse": "ὁ λέγων μὴ μοιχεύειν μοιχεύεις; ὁ βδελυσσόμενος τὰ εἴδωλα ἱεροσυλεῖς;"
+  }
+ ],
+ "lxx": {
+  "total": 44,
+  "works": {
+   "Exodus": 1,
+   "Leviticus": 5,
+   "Deuteronomium": 3,
+   "Regnorum iii": 1,
+   "Esther": 3,
+   "Judith": 1,
+   "Machabaeorum ii": 1,
+   "Machabaeorum iii": 3,
+   "Machabaeorum iv": 1,
+   "Psalmi": 7,
+   "Proverbia": 2,
+   "Job": 4,
+   "Sapientia Salomonis": 1,
+   "Ecclesiasticus sive Siracides": 3,
+   "Psalmi Salomonis": 1,
+   "Osee": 1,
+   "Amos": 2,
+   "Michaeas": 1,
+   "Isaias": 3
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "5.7",
+    "form": "βδελύσσεται",
+    "postag": "v3spim---",
+    "sentence": "ἄνδρα αἱμάτων καὶ δόλιον βδελύσσεται Κύριος."
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "20.23",
+    "form": "ἐβδελυξάμην",
+    "postag": "v1saim---",
+    "sentence": "ὅτι ταῦτα πάντα ἐποίησαν, καὶ ἐβδελυξάμην αὐτούς."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "19.19",
+    "form": "ἐβδελύξαντό",
+    "postag": "v3paim---",
+    "sentence": "ἐβδελύξαντό με οἱ ἰδόντες με ·"
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "23.8",
+    "form": "βδελύξῃ",
+    "postag": "v2sfim---",
+    "sentence": "οὐ βδελύξῃ Ἰδουμαῖον, ὅτι ἀδελφός σού ἐστιν ·"
+   },
+   {
+    "work_code": "EST",
+    "work_ja": "エステル記",
+    "work_src": "Esther",
+    "ref": "4.17φ",
+    "form": "βδελύσσομαι",
+    "postag": "v1spim---",
+    "sentence": "βδελύσσομαι αὐτὸ ὡς ράκος καταμηνίων καὶ οὐ φορῶ αὐτὸ ἐν ἡμέραις ἡσυχίας μου."
+   },
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "2.33",
+    "form": "ἐβδελύσσοντο",
+    "postag": "v3piim---",
+    "sentence": "καὶ τοὺς ἀποχωροῦντας ἐξ αὐτῶν ἐβδελύσσοντο καὶ ὡς πολεμίους τοῦ ἔθνους ἔκρινον καὶ τῆς κοινῆς συναναστροφῆς καὶ εὐχρηστίας ἐστέρουν."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "20.8",
+    "form": "βδελυχθήσεται",
+    "postag": "v3sfip---",
+    "sentence": "ὁ πλεονάζων λόγῳ βδελυχθήσεται, καὶ ὁ ἐνεξουσιαζόμενος μισηθήσεται."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "49.7",
+    "form": "βδελυσσόμενον",
+    "postag": "v-sppmma-",
+    "sentence": "ἁγιάσατε τὸν φαυλίζοντα τὴν ψυχὴν αὐτοῦ, τὸν βδελυσσόμενον ὑπὸ τῶν ἐθνῶν τῶν δούλων τῶν ἀρχόντων ·"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "8.7",
+    "form": "ἐβδελυγμένα",
+    "postag": "v-prpmnn-",
+    "sentence": "ὅτι ἀλήθειαν μελετήσει ὁ φάρυγξ μου, ἐβδελυγμένα δὲ ἐναντίον ἐμοῦ χείλη ψευδῆ."
+   },
+   {
+    "work_code": "AMO",
+    "work_ja": "アモス書",
+    "work_src": "Amos",
+    "ref": "5.10",
+    "form": "ἐβδελύξαντο",
+    "postag": "v3paim---",
+    "sentence": "ἐμίσησαν ἐν πύλαις ἐλέγχοντα καὶ λόγον ὅσιον ἐβδελύξαντο."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "1.12",
+    "form": "ἐβδελύσσοντο",
+    "postag": "v3piim---",
+    "sentence": "καὶ ἐβδελύσσοντο οἱ Αἰγύπτιοι ἀπὸ τῶν υἱῶν Ἰσραήλ."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "20.26",
+    "form": "ἐβδελύχθη",
+    "postag": "v3saip---",
+    "sentence": "καὶ ἐβδελύχθη σφόδρα πορεύεσθαι ὀπίσω τῶν βδελυγμάτων κατὰ πάντα, ἃ ἐποίησεν ὁ Ἀμορραῖος, ὃν ἐξωλόθρευσε Κύριος ἀπὸ προσώπου υἱῶν Ἰσραήλ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   βδελύσσω    (< βδέω, to stink),   [in LXX chiefly for תּעב, שׁקץ;]   >in cl., mid. only (Attic, -ττομαι);      to make foul; pass., Re 21:8; mid., to turn away in disgust from, to detest: Ro 2:22 (Cremer, 137).†"
+}

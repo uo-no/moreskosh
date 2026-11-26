@@ -1,0 +1,49 @@
+{
+ "strong": "G616",
+ "lemma": "ἀποκυέω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JAS 1:15",
+   "form": "ἀποκύει",
+   "morph": "V-PAI-3S",
+   "gloss_en": "brings forth",
+   "gloss_ja": "生み出す",
+   "verse": "εἶτα ἡ ἐπιθυμία συλλαβοῦσα τίκτει ἁμαρτίαν, ἡ δὲ ἁμαρτία ἀποτελεσθεῖσα ἀποκύει θάνατον."
+  },
+  {
+   "ref": "JAS 1:18",
+   "form": "ἀπεκύησεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "brought ~ forth",
+   "gloss_ja": "生み出す",
+   "verse": "βουληθεὶς ἀπεκύησεν ἡμᾶς λόγῳ ἀληθείας, εἰς τὸ εἶναι ἡμᾶς ἀπαρχήν τινα τῶν αὐτοῦ κτισμάτων."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Machabaeorum iv": 1
+  },
+  "representatives": [
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "15.17",
+    "form": "ἀποκυήσασα",
+    "postag": "v-sapafn-",
+    "sentence": "ὦ μόνη γύναι τὴν εὐσέβειαν ὁλόκληρον ἀποκυήσασα."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   ** ἀπο-κυέω (Rec. -κύω), -ῶ      (< ἀπό, κυέω or κύω, to be pregnant),   [in LXX: IV Mac 15:17*;]      prop., \"the medical word for birth as the close of pregnancy\" (Hort, Ja., 26 f.). In κοινή, \"an ordinary syn. of τίκτω, but definitely 'perfectivised' (M, Pr., 111 ff.; MM, s.v.) by the   ἀπό, and so implying safe delivery,\" to bring forth, give birth to: Ja 1:15, 18.†"
+}

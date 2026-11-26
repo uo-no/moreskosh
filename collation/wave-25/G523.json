@@ -1,0 +1,194 @@
+{
+ "strong": "G523",
+ "lemma": "ἀπαιτέω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 12:20",
+   "form": "ἀπαιτοῦσιν",
+   "morph": "V-PAI-3P",
+   "gloss_en": "demanded",
+   "gloss_ja": "取り戻す",
+   "verse": "εἶπεν δὲ αὐτῷ ὁ θεός· Ἄφρων, ταύτῃ τῇ νυκτὶ τὴν ψυχήν σου ἀπαιτοῦσιν ἀπὸ σοῦ· ἃ δὲ ἡτοίμασας, τίνι ἔσται;"
+  },
+  {
+   "ref": "LUK 6:30",
+   "form": "ἀπαίτει",
+   "morph": "V-PAM-2S",
+   "gloss_en": "demand ~ back",
+   "gloss_ja": "取り戻す",
+   "verse": "παντὶ αἰτοῦντί σε δίδου, καὶ ἀπὸ τοῦ αἴροντος τὰ σὰ μὴ ἀπαίτει."
+  }
+ ],
+ "lxx": {
+  "total": 12,
+  "works": {
+   "Deuteronomium": 2,
+   "Paralipomenon ii sive Chronicon ii": 1,
+   "Esdras ii": 2,
+   "Sapientia Salomonis": 1,
+   "Ecclesiasticus sive Siracides": 2,
+   "Isaias": 4
+  },
+  "representatives": [
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "30.33",
+    "form": "ἀπαιτηθήσῃ",
+    "postag": "v2sfip---",
+    "sentence": "σὺ γὰρ πρὸ ἡμερῶν ἀπαιτηθήσῃ ·"
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "15.3",
+    "form": "ἀπαιτήσεις",
+    "postag": "v2sfia---",
+    "sentence": "τὸν ἀλλότριον ἀπαιτήσεις ὅσα ἐὰν ᾖ σοι παρ’ αὐτῷ, τῷ δὲ ἀδελφῷ σου ἄφεσιν ποιήσεις τοῦ χρέους σου ·"
+   },
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "15.7",
+    "form": "ἀπαιτήσει",
+    "postag": "v3sfia---",
+    "sentence": "ἀπαιτήσει ἀνὴρ τὸν ἀδελφὸν αὐτοῦ, ἃ ὑμεῖς ἀπαιτεῖτε."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "20.15",
+    "form": "ἀπαιτήσει",
+    "postag": "v3sfia---",
+    "sentence": "σήμερον δανιεῖ καὶ αὔριον ἀπαιτήσει, μισητὸς ἄνθρωπος ὁ τοιοῦτος."
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "36.4α",
+    "form": "ἀπῄτει",
+    "postag": "v3siia---",
+    "sentence": "τότε ἤρξατο ἡ γῆ φορολογεῖσθαι τοῦ δοῦναι τὸ ἀργύριον ἐπὶ στόμα φαραώ, καὶ ἕκαστος κατὰ δύναμιν ἀπῄτει τὸ ἀργύριον καὶ τὸ χρυσίον παρὰ τοῦ λαοῦ τῆς γῆς δοῦναι φαραῷ Νεχαῷ."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "15.8",
+    "form": "ἀπαιτηθεὶς",
+    "postag": "v-sappmn-",
+    "sentence": "καὶ κακόμοχθος θεὸν μάταιον ἐκ τοῦ αὐτοῦ πλάσσει πηλοῦ, ὃς πρὸ μικροῦ γῆς γεννηθεὶς μετ’ ὀλίγον πορεύεται ἐξ ἧς ἐλήφθη, τὸ τῆς ψυχῆς ἀπαιτηθεὶς χρέος."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "14.4",
+    "form": "ἀπαιτῶν",
+    "postag": "v-sppamn-",
+    "sentence": "πῶς ἀναπέπαυται ὁ ἀπαιτῶν καὶ ἀναπέπαυται ὁ ἐπισπουδαστής;"
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "15.2",
+    "form": "ἀπαιτήσεις",
+    "postag": "v2sfia---",
+    "sentence": "ἀφήσεις πᾶν χρέος ἴδιον, ὃ ὀφείλει σοι ὁ πλησίον, καὶ τὸν ἀδελφόν σου οὐκ ἀπαιτήσεις, ἐπικέκληται γὰρ ἄφεσις Κυρίῳ τῷ Θεῷ σου."
+   },
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "15.7",
+    "form": "ἀπαιτεῖτε",
+    "postag": "v2ppia---",
+    "sentence": "ἀπαιτήσει ἀνὴρ τὸν ἀδελφὸν αὐτοῦ, ἃ ὑμεῖς ἀπαιτεῖτε."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "31.2",
+    "form": "ἀπαιτήσει",
+    "postag": "v3sfia---",
+    "sentence": "μέριμνα ἀγρυπνίας ἀπαιτήσει νυσταγμόν, καὶ ἀρρώστημα βαρὺ ἐκνήψει ὕπνος."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "9.4",
+    "form": "ἀπαιτούντων",
+    "postag": "v-pppamg-",
+    "sentence": "τὴν γὰρ ράβδον τῶν ἀπαιτούντων διεσκέδασε Κύριος, ὡς τῇ ἡμέρᾳ τῇ ἐπὶ Μαδιάμ."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "3.12",
+    "form": "ἀπαιτοῦντες",
+    "postag": "v-pppamn-",
+    "sentence": "λαός μου, οἱ πράκτορες ὑμῶν καλαμῶνται ὑμᾶς, καὶ οἱ ἀπαιτοῦντες κυριεύουσιν ὑμῶν ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 4,
+  "works": {
+   "Didache": 2,
+   "Hermas, Pastor": 1,
+   "Ignatius, Letters": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DID",
+    "work_ja": "ディダケー",
+    "work_src": "Didache",
+    "ref": "1.4",
+    "form": "ἀπαίτει",
+    "postag": "v2spma---",
+    "sentence": "ἐὰν λάβῃ τις ἀπὸ σοῦ τὸ σόν, μὴ ἀπαίτει ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "25.1.5",
+    "form": "ἀπῄτει",
+    "postag": "v3siia---",
+    "sentence": "ὁ ἄγγελος ὁ ἐπιδεδωκὼς τῷ λαῷ τὰς ῥάβδους πάλιν ἀπῄτει αὐτούς ·"
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "7.2.3",
+    "form": "ἀπαιτεῖ",
+    "postag": "v3spia---",
+    "sentence": "ὁ καιρὸς ἀπαιτεῖ σε, ὡς κυβερνῆται ἀνέμους καὶ ὡς χειμαζόμενος λιμένα, εἰς τὸ θεοῦ ἐπιτυχεῖν."
+   },
+   {
+    "work_code": "DID",
+    "work_ja": "ディダケー",
+    "work_src": "Didache",
+    "ref": "1.5",
+    "form": "ἀπαίτει",
+    "postag": "v2spma---",
+    "sentence": "παντὶ τῷ αἰτοῦντί σε δίδου καὶ μὴ ἀπαίτει ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "4   ἀπ-αιτέω, -ῶ,    [in LXX: De 15:2, 3, al. (נגשׂ), Si 20:15, Wi 15:8, al.;]    to ask back, demand back: Lk 6:30 12:20 (MM, VGT, s.v.).†"
+}

@@ -1,0 +1,59 @@
+{
+ "strong": "G951",
+ "lemma": "βεβαίωσις",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "HEB 6:16",
+   "form": "βεβαίωσιν",
+   "morph": "N-ASF",
+   "gloss_en": "confirmation",
+   "gloss_ja": "確証",
+   "verse": "ἄνθρωποι γὰρ κατὰ τοῦ μείζονος ὀμνύουσιν, καὶ πάσης αὐτοῖς ἀντιλογίας πέρας εἰς βεβαίωσιν ὁ ὅρκος·"
+  },
+  {
+   "ref": "PHP 1:7",
+   "form": "βεβαιώσει",
+   "morph": "N-DSF",
+   "gloss_en": "confirmation",
+   "gloss_ja": "確証",
+   "verse": "καθώς ἐστιν δίκαιον ἐμοὶ τοῦτο φρονεῖν ὑπὲρ πάντων ὑμῶν, διὰ τὸ ἔχειν με ἐν τῇ καρδίᾳ ὑμᾶς, ἔν τε τοῖς δεσμοῖς μου καὶ ἐν τῇ ἀπολογίᾳ καὶ βεβαιώσει τοῦ εὐαγγελίου συγκοινωνούς μου τῆς χάριτος πάντας ὑμᾶς ὄντας·"
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Leviticus": 1,
+   "Sapientia Salomonis": 1
+  },
+  "representatives": [
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "25.23",
+    "form": "βεβαίωσιν",
+    "postag": "n-s---fa-",
+    "sentence": "καὶ ἡ γῆ οὐ πραθήσεται εἰς βεβαίωσιν."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "6.18",
+    "form": "βεβαίωσις",
+    "postag": "n-s---fn-",
+    "sentence": "ἀρχὴ γὰρ αὐτῆς ἡ ἀληθεστάτη παιδείας ἐπιθυμία, φροντὶς δὲ παιδείας ἀγάπη, ἀγάπη δέ τήρησις νόμων αὐτῆς, προσοχὴ δὲ νόμων βεβαίωσις ἀφθαρσίας, ἀφθαρσία δὲ ἐγγὺς εἶναι ποιεῖ Θεοῦ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   βεβαίωσις, -εως, ἡ    (< βεβαιόω, q.v.),   [in LXX: Le 25:23 (צְמִיתֻת), Wi 6:19*;]    confirmation: τ. εὐαγγελίου, Phl 1:7; εἰς β., He 6:16, a phrase freq. in π. of guarantee in a business transaction (Deiss., BS, 104 ff.; Cremer, 140).†"
+}

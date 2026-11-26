@@ -1,0 +1,107 @@
+{
+ "strong": "G4724",
+ "lemma": "στέλλομαι",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": "στελλω",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2CO 8:20",
+   "form": "στελλόμενοι",
+   "morph": "V-PMP-NPM",
+   "gloss_en": "avoid",
+   "gloss_ja": "避ける",
+   "verse": "στελλόμενοι τοῦτο μή τις ἡμᾶς μωμήσηται ἐν τῇ ἁδρότητι ταύτῃ τῇ διακονουμένῃ ὑφ’ ἡμῶν,"
+  },
+  {
+   "ref": "2TH 3:6",
+   "form": "στέλλεσθαι",
+   "morph": "V-PMN",
+   "gloss_en": "keep away",
+   "gloss_ja": "避ける",
+   "verse": "Παραγγέλλομεν δὲ ὑμῖν, ἀδελφοί, ἐν ὀνόματι τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ στέλλεσθαι ὑμᾶς ἀπὸ παντὸς ἀδελφοῦ ἀτάκτως περιπατοῦντος καὶ μὴ κατὰ τὴν παράδοσιν ἣν παρελάβοσαν παρ’ ἡμῶν."
+  }
+ ],
+ "lxx": {
+  "total": 7,
+  "works": {
+   "Machabaeorum ii": 1,
+   "Machabaeorum iii": 2,
+   "Proverbia": 1,
+   "Sapientia Salomonis": 2,
+   "Malachias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "1.19",
+    "form": "ἐσταλμέναι",
+    "postag": "v-prpmfn-",
+    "sentence": "αἱ δὲ καὶ προσαρτίως ἐσταλμέναι τοὺς πρὸς ἀπάντησιν διατεταγμένους παστοὺς καὶ τὴν ἁρμόζουσαν αἰδὼ παραλείπουσαι, δρόμον ἄτακτον ἐν τῇ πόλει συνίσταντο."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "14.1",
+    "form": "στελλόμενος",
+    "postag": "v-sppmmn-",
+    "sentence": "πλοῦν τις πάλιν στελλόμενος καὶ ἄγρια μέλλων διοδεύειν κύματα, τοῦ φέροντος αὐτὸν πλοίου σαθρότερον ξύλον ἐπιβοᾶται."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "5.1",
+    "form": "ἐστείλατο",
+    "postag": "v3saim---",
+    "sentence": "περὶ δὲ τὸν καιρὸν τοῦτον τὴν δευτέραν ἔφοδον ὁ Ἀντίοχος εἰς Αἴγυπτον ἐστείλατο."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "31b.26",
+    "form": "ἐστείλατο",
+    "postag": "v3saim---",
+    "sentence": "στόμα αὐτῆς διήνοιξε προσεχόντως καὶ ἐννόμως, καὶ τάξιν ἐστείλατο τῇ γλώσσῃ αὐτῆς."
+   },
+   {
+    "work_code": "MAL",
+    "work_ja": "マラキ書",
+    "work_src": "Malachias",
+    "ref": "2.5",
+    "form": "στέλλεσθαι",
+    "postag": "v--pnm---",
+    "sentence": "ἡ διαθήκη μου ἦν μετ’ αὐτοῦ τῆς ζωῆς καὶ τῆς εἰρήνης, καὶ ἔδωκα αὐτῷ ἐν φόβῳ φοβεῖσθαί με καὶ ἀπὸ προσώπου ὀνόματός μου στέλλεσθαι αὐτόν."
+   },
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "4.11",
+    "form": "στελλομένοις",
+    "postag": "v-pppmmd-",
+    "sentence": "τούτων δὲ ἐπὶ τὴν λεγομένην Σχεδίαν ἀχθέντων καὶ τοῦ παράπλου περανθέντος, καθὼς ἦν δεδογματισμένον τῷ βασιλεῖ, προσέταξεν αὐτοὺς ἐν τῷ πρὸ τῆς πόλεως ἱπποδρόμῳ παρεμβαλεῖν ἀπλέτῳ καθεστῶτι περιμέτρῳ καὶ πρὸς παραδειγματισμὸν ἄγαν εὐκαιροτάτῳ καθεστῶτι πᾶσι τοῖς καταπορευομένοις εἰς τὴν πόλιν καὶ τοῖς ἐκ τούτων εἰς τὴν χώραν στελλομένοις πρὸς ἐκδημίαν πρὸς τὸ μη-δὲ ταῖς δυνάμεσιν αὐτοῦ κοινωνεῖν, μη-δὲ τὸ σύνολον καταξιῶσαι περιβόλων."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "7.14",
+    "form": "ἐστείλαντο",
+    "postag": "v3paim---",
+    "sentence": "ἀνεκλιπὴς γὰρ θησαυρός ἐστιν ἀνθρώποις, ὃν οἱ χρησάμενοι πρὸς Θεὸν ἐστείλαντο φιλίαν διὰ τὰς ἐκ παιδείας δωρεὰς συσταθέντες."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2 στέλλω     [in LXX (mid.): Ma 2:5 (חתת ni.), Pr 31:24 (26), Wi 7:14 14:1, II Mac 5:1, III Mac 1:19 4:11 * ;]     prop., to set, place, arrange, fit out; hence, mid., to set oneself for, prepare (Wi, II Mac, ll. c.).    to bring together, gather up (in Hom. of furling sails), hence to restrain, check; mid., to restrain or withdraw oneself, hold aloof, avoid: II Co 8:20; seq. ἀπό, II Th 3:6      (cf. ἀπο-, ἐξ-απο-, συν-απο-, δια-, ἐπι-, κατα-, συ(ν)-, ὑπο-στέλλω).†"
+}

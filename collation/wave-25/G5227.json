@@ -1,0 +1,168 @@
+{
+ "strong": "G5227",
+ "lemma": "ὑπεναντίος",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "COL 2:14",
+   "form": "ὑπεναντίον",
+   "morph": "A-NSN",
+   "gloss_en": "hostile",
+   "gloss_ja": "反対の",
+   "verse": "ἐξαλείψας τὸ καθ’ ἡμῶν χειρόγραφον τοῖς δόγμασιν ὃ ἦν ὑπεναντίον ἡμῖν, καὶ αὐτὸ ἦρκεν ἐκ τοῦ μέσου προσηλώσας αὐτὸ τῷ σταυρῷ·"
+  },
+  {
+   "ref": "HEB 10:27",
+   "form": "ὑπεναντίους",
+   "morph": "A-APM",
+   "gloss_en": "adversaries",
+   "gloss_ja": "反対の",
+   "verse": "φοβερὰ δέ τις ἐκδοχὴ κρίσεως καὶ πυρὸς ζῆλος ἐσθίειν μέλλοντος τοὺς ὑπεναντίους."
+  }
+ ],
+ "lxx": {
+  "total": 43,
+  "works": {
+   "Genesis": 2,
+   "Exodus": 4,
+   "Leviticus": 1,
+   "Numeri": 1,
+   "Deuteronomium": 1,
+   "Josue": 1,
+   "Paralipomenon ii sive Chronicon ii": 3,
+   "Esther": 1,
+   "Judith": 1,
+   "Machabaeorum i": 4,
+   "Machabaeorum ii": 3,
+   "Machabaeorum iii": 2,
+   "Psalmi": 1,
+   "Odae": 3,
+   "Job": 2,
+   "Sapientia Salomonis": 2,
+   "Ecclesiasticus sive Siracides": 2,
+   "Nahum": 1,
+   "Isaias": 6,
+   "Baruch": 1,
+   "Threni seu Lamentationes": 1
+  },
+  "representatives": [
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "26.11",
+    "form": "ὑπεναντίους",
+    "postag": "a-p---ma-",
+    "sentence": "ζῆλος λήψεται λαὸν ἀπαίδευτον, καὶ νῦν πῦρ τοὺς ὑπεναντίους ἔδεται."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "32.25",
+    "form": "ὑπεναντίοις",
+    "postag": "a-p---md-",
+    "sentence": "καὶ ἰδὼν Μωυσῆς τὸν λαὸν ὅτι διεσκέδασται, διεσκέδασε γὰρ αὐτοὺς Ἀαρὼν ἐπίχαρμα τοῖς ὑπεναντίοις αὐτῶν, ἔστη δὲ Μωυσῆς ἐπὶ τῆς πύλης τῆς παρεμβολῆς καὶ εἶπε ·"
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "16.7",
+    "form": "ὑπεναντίων",
+    "postag": "a-p---mg-",
+    "sentence": "ἡ δὲ ἵππος τῶν ὑπεναντίων πολλὴ σφόδρα."
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "26.13",
+    "form": "ὑπεναντίους",
+    "postag": "a-p---ma-",
+    "sentence": "οὗτοι οἱ ποιοῦντες πόλεμον ἐν δυνάμει ἰσχύος βοηθῆσαι τῷ βασιλεῖ ἐπὶ τοὺς ὑπεναντίους."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "15.16",
+    "form": "ὑπεναντίους",
+    "postag": "a-p---ma-",
+    "sentence": "λάβε τὴν ἁγίαν ρομφαίαν δῶρον παρὰ τοῦ Θεοῦ, δι’ ἧς θραύσεις τοὺς ὑπεναντίους."
+   },
+   {
+    "work_code": "ODE",
+    "work_ja": "頌歌（オード）",
+    "work_src": "Odae",
+    "ref": "2.27",
+    "form": "ὑπεναντίοι",
+    "postag": "a-p---mn-",
+    "sentence": "εἶπα Διασπερῶ αὐτούς, παύσω δὴ ἐξ ἀνθρώπων τὸ μνημόσυνον αὐτῶν, εἰ μὴ δι’ ὀργὴν ἐχθρῶν, ἵνα μὴ μακροχρονίσωσιν, καὶ ἵνα μὴ συνεπιθῶνται οἱ ὑπεναντίοι, μὴ εἴπωσιν Ἡ χεὶρ ἡμῶν ὑψηλή, καὶ οὐχὶ κύριος ἐποίησεν ταῦτα πάντα."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "24.60",
+    "form": "ὑπεναντίων",
+    "postag": "a-p---mg-",
+    "sentence": "γίνου εἰς χιλιάδας μυριάδων, καὶ κληρονομησάτω τὸ σπέρμα σου τὰς πόλεις τῶν ὑπεναντίων."
+   },
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "6.6",
+    "form": "ὑπεναντίοις",
+    "postag": "a-p---md-",
+    "sentence": "σὺ τοὺς κατὰ τὴν Βαβυλωνίαν τρεῖς ἑταίρους, πυρὶ τὴν ψυχὴν αὐθαιρέτως δεδωκότας εἰς τὸ μὴ λατρεῦσαι τοῖς κενοῖς, διάπυρον δροσίσας κάμινον ἐρρύσω μέχρι τριχὸς ἀπημάντους, φλόγα πᾶσιν ἐπιπέμψας τοῖς ὑπεναντίοις."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "13.24",
+    "form": "ὑπεναντίον",
+    "postag": "a-s---ma-",
+    "sentence": "διατί ἀπ’ ἐμοῦ κρύπτῃ, ἥγησαι δέ με ὑπεναντίον σοι;"
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "18.8",
+    "form": "ὑπεναντίους",
+    "postag": "a-p---ma-",
+    "sentence": "ᾧ γὰρ ἐτιμωρήσω τοὺς ὑπεναντίους, τοῦτο ἡμᾶς προσκαλεσάμενος ἐδόξασας."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "47.7",
+    "form": "ὑπεναντίους",
+    "postag": "a-p---ma-",
+    "sentence": "ἐξέτριψε γὰρ ἐχθροὺς κυκλόθεν καὶ ἐξουδένωσε Φυλιστιεὶμ τοὺς ὑπεναντίους ·"
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "26.16",
+    "form": "ὑπεναντίοι",
+    "postag": "a-p---mn-",
+    "sentence": "καὶ ἐπιστήσω ἐφ’ ὑμᾶς τὴν ἀπορίαν, τήν τε ψώραν, καὶ τὸν ἴκτερα σφακελίζοντα τοὺς ὀφθαλμοὺς ὑμῶν, καὶ τὴν ψυχὴν ὑμῶν ἐκτήκουσαν, καὶ σπερεῖτε διακενῆς τὰ σπέρματα ὑμῶν, καὶ ἔδονται οἱ ὑπεναντίοι ὑμῶν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2 ὑπ-εναντίος, -α, -ον     [in LXX for אָיַב, צַר, etc. ;]    set over against, opposite. Metaph. (Plat., Arist., al.), opposed to, contrary to: c. dat. pers., Col 2:14; absol., as subst., ὁ ὑ., He 10:27 (cf. Is 26:11).†"
+}

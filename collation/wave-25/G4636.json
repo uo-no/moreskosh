@@ -1,0 +1,49 @@
+{
+ "strong": "G4636",
+ "lemma": "σκῆνος",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2CO 5:1",
+   "form": "σκήνους",
+   "morph": "N-GSN",
+   "gloss_en": "tent",
+   "gloss_ja": "天幕",
+   "verse": "Οἴδαμεν γὰρ ὅτι ἐὰν ἡ ἐπίγειος ἡμῶν οἰκία τοῦ σκήνους καταλυθῇ, οἰκοδομὴν ἐκ θεοῦ ἔχομεν οἰκίαν ἀχειροποίητον αἰώνιον ἐν τοῖς οὐρανοῖς."
+  },
+  {
+   "ref": "2CO 5:4",
+   "form": "σκήνει",
+   "morph": "N-DSN",
+   "gloss_en": "tent",
+   "gloss_ja": "天幕",
+   "verse": "καὶ γὰρ οἱ ὄντες ἐν τῷ σκήνει στενάζομεν βαρούμενοι ἐφ’ ᾧ οὐ θέλομεν ἐκδύσασθαι ἀλλ’ ἐπενδύσασθαι, ἵνα καταποθῇ τὸ θνητὸν ὑπὸ τῆς ζωῆς."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Sapientia Salomonis": 1
+  },
+  "representatives": [
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "9.15",
+    "form": "σκῆνος",
+    "postag": "n-s---nn-",
+    "sentence": "φθαρτὸν γὰρ σῶμα βαρύνει ψυχήν, καὶ βρίθει τὸ γεῶδες σκῆνος νοῦν πολυφρόντιδα."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   ** σκῆνος, -ους, τό     [in LXX: Wi 9:15 * ;]       = σκηνή,    a tent, tabernacle (C.I., 3071). Metaph., of the body as the tabernacle of the soul: II Co 5:1, 4.†"
+}

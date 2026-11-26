@@ -1,0 +1,116 @@
+{
+ "strong": "G465",
+ "lemma": "ἀντάλλαγμα",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MAT 16:26",
+   "form": "ἀντάλλαγμα",
+   "morph": "N-ASN",
+   "gloss_en": "in exchange",
+   "gloss_ja": "代価",
+   "verse": "τί γὰρ ὠφεληθήσεται ἄνθρωπος ἐὰν τὸν κόσμον ὅλον κερδήσῃ τὴν δὲ ψυχὴν αὐτοῦ ζημιωθῇ; ἢ τί δώσει ἄνθρωπος ἀντάλλαγμα τῆς ψυχῆς αὐτοῦ;"
+  },
+  {
+   "ref": "MRK 8:37",
+   "form": "ἀντάλλαγμα",
+   "morph": "N-ASN",
+   "gloss_en": "in exchange",
+   "gloss_ja": "代価",
+   "verse": "τί γὰρ δοῖ ἄνθρωπος ἀντάλλαγμα τῆς ψυχῆς αὐτοῦ;"
+  }
+ ],
+ "lxx": {
+  "total": 8,
+  "works": {
+   "Ruth": 1,
+   "Psalmi": 2,
+   "Job": 1,
+   "Ecclesiasticus sive Siracides": 3,
+   "Jeremias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "44.17",
+    "form": "ἀντάλλαγμα",
+    "postag": "n-s---nn-",
+    "sentence": "Νῶε εὑρέθη τέλειος δίκαιος, ἐν καιρῷ ὀργῆς ἐγένετο ἀντάλλαγμα ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "54.20",
+    "form": "ἀντάλλαγμα",
+    "postag": "n-s---nn-",
+    "sentence": "οὐ γάρ ἐστιν αὐτοῖς ἀντάλλαγμα, ὅτι οὐκ ἐφοβήθησαν τὸν Θεόν."
+   },
+   {
+    "work_code": "RUT",
+    "work_ja": "ルツ記",
+    "work_src": "Ruth",
+    "ref": "4.7",
+    "form": "ἀντάλλαγμα",
+    "postag": "n-s---na-",
+    "sentence": "καὶ τοῦτο τὸ δικαίωμα ἔμπροσθεν ἐν τῷ Ἰσραὴλ ἐπὶ τὴν ἀγχιστείαν καὶ ἐπὶ τὸ ἀντάλλαγμα τοῦ στῆσαι πάντα λόγον, καὶ ὑπελύετο ἀνὴρ τὸ ὑπόδημα αὐτοῦ καὶ ἐδίδου τῷ πλησίον αὐτοῦ τῷ ἀγχιστεύοντι τὴν ἀγχιστείαν αὐτοῦ, καὶ τοῦτο ἦν μαρτύριον ἐν Ἰσραήλ."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "28.15",
+    "form": "ἀντάλλαγμα",
+    "postag": "n-s---nn-",
+    "sentence": "οὐ δώσει συγκλεισμὸν ἀντ’ αὐτῆς, καὶ οὐ σταθήσεται ἀργύριον ἀντάλλαγμα αὐτῆς ·"
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "15.13",
+    "form": "ἀντάλλαγμα",
+    "postag": "n-s---na-",
+    "sentence": "καὶ τοὺς θησαυρούς σου εἰς προνομὴν δώσω ἀντάλλαγμα διὰ πάσας τὰς ἁμαρτίας σου καὶ ἐν πᾶσι τοῖς ὁρίοις σου."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "26.14",
+    "form": "ἀντάλλαγμα",
+    "postag": "n-s---nn-",
+    "sentence": "δόσις Κυρίου γυνὴ σιγηρά, καὶ οὐκ ἔστιν ἀντάλλαγμα πεπαιδευμένης ψυχῆς."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "88.52",
+    "form": "ἀντάλλαγμα",
+    "postag": "n-s---na-",
+    "sentence": "μνήσθητι, Κύριε, τοῦ ὀνειδισμοῦ τῶν δούλων σου, οὗ ὑπέσχον ἐν τῷ κόλπῳ πολλῶν ἐθνῶν, οὗ ὠνείδισαν οἱ ἐχθροί σου, Κύριε, οὗ ὠνείδισαν τὸ ἀντάλλαγμα τοῦ χριστοῦ σου."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "6.15",
+    "form": "ἀντάλλαγμα",
+    "postag": "n-s---nn-",
+    "sentence": "φίλου πιστοῦ οὐκ ἔστιν ἀντάλλαγμα, καὶ οὐκ ἔστι σταθμὸς τῆς καλλονῆς αὐτοῦ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   ἀντ-άλλαγμα, -τος, τό    (ἀντί, ἄλλαγμα; < ἀλλάσσω),   [in LXX chiefly for מְחִיר;]    an exchange, the price received as an equivalent for an article of commerce: Mt 16:26, Mk 8:37 (cf. Si 26:14; and v. Swete, Mk. 8:37; Cremer, 90).†"
+}

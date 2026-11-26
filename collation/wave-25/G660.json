@@ -1,0 +1,59 @@
+{
+ "strong": "G660",
+ "lemma": "ἀποτινάσσω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 28:5",
+   "form": "ἀποτινάξας",
+   "morph": "V-AAP-NSM",
+   "gloss_en": "shook off",
+   "gloss_ja": "払い落とす",
+   "verse": "ὁ μὲν οὖν ἀποτινάξας τὸ θηρίον εἰς τὸ πῦρ ἔπαθεν οὐδὲν κακόν·"
+  },
+  {
+   "ref": "LUK 9:5",
+   "form": "ἀποτινάσσετε",
+   "morph": "V-PAM-2P",
+   "gloss_en": "shake off",
+   "gloss_ja": "払い落とす",
+   "verse": "καὶ ὅσοι ἂν μὴ δέχωνται ὑμᾶς, ἐξερχόμενοι ἀπὸ τῆς πόλεως ἐκείνης τὸν κονιορτὸν ἀπὸ τῶν ποδῶν ὑμῶν ἀποτινάσσετε εἰς μαρτύριον ἐπ’ αὐτούς."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Regnorum i": 1,
+   "Threni seu Lamentationes": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "10.2",
+    "form": "ἀποτετίνακται",
+    "postag": "v3srim---",
+    "sentence": "εὕρηνται αἱ ὄνοι, ἃς ἐπορεύθητε ζητεῖν, καὶ ἰδοὺ ὁ πατήρ σου ἀποτετίνακται τὸ ρῆμα τῶν ὄνων καὶ ἐδαψιλεύσατο δι’ ὑμᾶς λέγων ·"
+   },
+   {
+    "work_code": "LAM",
+    "work_ja": "哀歌",
+    "work_src": "Threni seu Lamentationes",
+    "ref": "2.7",
+    "form": "ἀπετίναξεν",
+    "postag": "v3saia---",
+    "sentence": "ἀπώσατο Κύριος θυσιαστήριον αὐτοῦ, ἀπετίναξεν ἁγίασμα αὐτοῦ, συνέτριψεν ἐν χειρὶ ἐχθροῦ τεῖχος βάρεων αὐτῆς ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   ἀπο-τινάσσω,    [in LXX: Jg 16:20 A (נער ni.), I Ki 10:2 (נטשׁ), La 2:7 (נאר pi.)*;]    to shake of: Lk 9:5, Ac 28:5.†"
+}

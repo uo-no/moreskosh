@@ -1,0 +1,172 @@
+{
+ "strong": "G5595",
+ "lemma": "ψωμίζω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 13:3",
+   "form": "ψωμίσω",
+   "morph": "V-AAS-1S",
+   "gloss_en": "give away",
+   "gloss_ja": "食べ物を与える",
+   "verse": "καὶ ἐὰν ψωμίσω πάντα τὰ ὑπάρχοντά μου, καὶ ἐὰν παραδῶ τὸ σῶμά μου, ἵνα καυθήσομαι, ἀγάπην δὲ μὴ ἔχω, οὐδὲν ὠφελοῦμαι."
+  },
+  {
+   "ref": "ROM 12:20",
+   "form": "ψώμιζε",
+   "morph": "V-PAM-2S",
+   "gloss_en": "feed",
+   "gloss_ja": "食べ物を与える",
+   "verse": "ἀλλὰ ἐὰν πεινᾷ ὁ ἐχθρός σου, ψώμιζε αὐτόν· ἐὰν διψᾷ, πότιζε αὐτόν· τοῦτο γὰρ ποιῶν ἄνθρακας πυρὸς σωρεύσεις ἐπὶ τὴν κεφαλὴν αὐτοῦ."
+  }
+ ],
+ "lxx": {
+  "total": 24,
+  "works": {
+   "Numeri": 2,
+   "Deuteronomium": 3,
+   "Regnorum ii": 1,
+   "Psalmi": 2,
+   "Odae": 1,
+   "Proverbia": 1,
+   "Sapientia Salomonis": 1,
+   "Ecclesiasticus sive Siracides": 2,
+   "Isaias": 1,
+   "Jeremias": 2,
+   "Threni seu Lamentationes": 1,
+   "Ezechiel": 2,
+   "Daniel": 5
+  },
+  "representatives": [
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "4.33a",
+    "form": "ἐψώμισάν",
+    "postag": "v3paia---",
+    "sentence": "χόρτον ὡς βοῦν ἐψώμισάν με, καὶ ἀπὸ τῆς χλόης τῆς γῆς ἤσθιον."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "32.13",
+    "form": "ἐψώμισεν",
+    "postag": "v3saia---",
+    "sentence": "ἀνεβίβασεν αὐτοὺς ἐπὶ τὴν ἰσχὺν τῆς γῆς, ἐψώμισεν αὐτοὺς γενήματα ἀγρῶν ·"
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "11.4",
+    "form": "ψωμιεῖ",
+    "postag": "v3sfia---",
+    "sentence": "τίς ἡμᾶς ψωμιεῖ κρέα;"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "79.6",
+    "form": "ψωμιεῖς",
+    "postag": "v2sfia---",
+    "sentence": "ψωμιεῖς ἡμᾶς ἄρτον δακρύων;"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "29.26",
+    "form": "ψώμισόν",
+    "postag": "v2sama---",
+    "sentence": "πάρελθε, πάροικε, κόσμησον τράπεζαν, καὶ εἴτι ἐν τῇ χειρί σου, ψώμισόν με."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "23.15",
+    "form": "ψωμιῶ",
+    "postag": "v1sfia---",
+    "sentence": "ἰδοὺ ἐγὼ ψωμιῶ αὐτοὺς ὀδύνην καὶ ποτιῶ αὐτοὺς ὕδωρ πικρόν, ὅτι ἀπὸ τῶν προφητῶν Ἱερουσαλὴμ ἐξῆλθε μολυσμὸς πάσῃ τῇ γῇ."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "3.2",
+    "form": "ἐψώμισέ",
+    "postag": "v3saia---",
+    "sentence": "καὶ διήνοιξε τὸ στόμα μου, καὶ ἐψώμισέ με τὴν κεφαλίδα καὶ εἶπε πρός με ·"
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "13.5",
+    "form": "ψωμισάτω",
+    "postag": "v3sama---",
+    "sentence": "ἐλθέτω δὴ Θημὰρ ἡ ἀδελφή μου καὶ ψωμισάτω με καὶ ποιησάτω κατ’ ὀφθαλμούς μου βρῶμα, ὅπως ἴδω καὶ φάγω ἐκ τῶν χειρῶν αὐτῆς."
+   },
+   {
+    "work_code": "ODE",
+    "work_ja": "頌歌（オード）",
+    "work_src": "Odae",
+    "ref": "2.13",
+    "form": "ἐψώμισεν",
+    "postag": "v3saia---",
+    "sentence": "ἀνεβίβασεν αὐτοὺς ἐπὶ τὴν ἰσχὺν τῆς γῆς, ἐψώμισεν αὐτοὺς γενήματα ἀγρῶν ·"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "25.21",
+    "form": "ψώμιζε",
+    "postag": "v2spma---",
+    "sentence": "ἐὰν πεινᾷ ὁ ἐχθρός σου, ψώμιζε αὐτόν, ἐὰν διψᾷ, πότιζε αὐτόν ·"
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "16.20",
+    "form": "ἐψώμισας",
+    "postag": "v2saia---",
+    "sentence": "ἀνθ’ ὧν ἀγγέλων τροφὴν ἐψώμισας τὸν λαόν σου καὶ ἕτοιμον ἄρτον αὐτοῖς ἀπ’ οὐρανοῦ ἔπεμψας ἀκοπιάτως πᾶσαν ἡδονὴν ἰσχύοντα καὶ πρὸς πᾶσαν ἁρμόνιον γεῦσιν ·"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "58.14",
+    "form": "ψωμιεῖ",
+    "postag": "v3sfia---",
+    "sentence": "ἐὰν ἀποστρέψῃς τὸν πόδα σου ἀπὸ τῶν σαββάτων τοῦ μὴ ποιεῖν τὰ θελήματά σου ἐν τῇ ἡμέρα τῇ ἁγίᾳ καὶ καλέσεις τὰ σάββατα τρυφερά, ἅγια τῷ Θεῷ σου, οὐκ ἀρεῖς τὸν πόδα σου ἐπ’ ἔργῳ, οὐ-δὲ λαλήσεις λόγον ἐν ὀργῇ ἐκ τοῦ στόματός σου, καὶ ἔσῃ πεποιθὼς ἐπὶ Κύριον, καὶ ἀναβιβάσει σε ἐπὶ τὰ ἀγαθὰ τῆς γῆς καὶ ψωμιεῖ σε τὴν κληρονομίαν Ἰακὼβ τοῦ πατρός σου ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "1 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "55.2",
+    "form": "ἐψώμισαν",
+    "postag": "v3paia---",
+    "sentence": "καὶ λαβόντες τὰς τιμὰς αὐτῶν ἑτέρους ἐψώμισαν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2 ψωμίζω    (< ψωμός, a morsel),    [in LXX chiefly for אכל hi. ;]     to feed with morsels (as children or the sick; Hippocr.), hence, generally, in late writers, to feed, nourish: c. acc. pers., Ro 12:20 (LXX); c. acc rei, to give out for food, I Co 13:3 (cf. WM, § 32, 4an; for dupl. acc., cf. Nu 11:4, Si 15:3, al.).†"
+}

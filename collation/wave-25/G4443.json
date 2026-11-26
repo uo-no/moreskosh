@@ -1,0 +1,49 @@
+{
+ "strong": "G4443",
+ "lemma": "πυρά",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": "πυρη",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 28:2",
+   "form": "πυρὰν",
+   "morph": "N-ASF",
+   "gloss_en": "fire",
+   "gloss_ja": "たき火",
+   "verse": "οἵ τε βάρβαροι παρεῖχον οὐ τὴν τυχοῦσαν φιλανθρωπίαν ἡμῖν, ἅψαντες γὰρ πυρὰν προσελάβοντο πάντας ἡμᾶς διὰ τὸν ὑετὸν τὸν ἐφεστῶτα καὶ διὰ τὸ ψῦχος."
+  },
+  {
+   "ref": "ACT 28:3",
+   "form": "πυράν",
+   "morph": "N-ASF",
+   "gloss_en": "fire",
+   "gloss_ja": "たき火",
+   "verse": "συστρέψαντος δὲ τοῦ Παύλου φρυγάνων τι πλῆθος καὶ ἐπιθέντος ἐπὶ τὴν πυράν, ἔχιδνα ἀπὸ τῆς θέρμης ἐξελθοῦσα καθῆψε τῆς χειρὸς αὐτοῦ."
+  }
+ ],
+ "lxx": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Martyrdom of Polycarp": 1
+  },
+  "representatives": [
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "13.3",
+    "form": "πυρὰν",
+    "postag": "n-s---fa-",
+    "sentence": "εὐθέως οὖν αὐτῷ περιετίθετο τὰ πρὸς τὴν πυρὰν ἡρμοσμένα ὄργανα."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   ** πυρά, -ᾶς, ἡ    (< πῦρ),   [in LXX: Jth 7:5, Wi 17:6, al.;]    a fire: Ac 28:2, 3.†"
+}

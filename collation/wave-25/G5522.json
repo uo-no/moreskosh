@@ -1,0 +1,171 @@
+{
+ "strong": "G5522",
+ "lemma": "χοῦς",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MRK 6:11",
+   "form": "χοῦν",
+   "morph": "N-ASM",
+   "gloss_en": "dust",
+   "gloss_ja": "土ぼこり",
+   "verse": "καὶ ὃς ἂν τόπος μὴ δέξηται ὑμᾶς μηδὲ ἀκούσωσιν ὑμῶν, ἐκπορευόμενοι ἐκεῖθεν ἐκτινάξατε τὸν χοῦν τὸν ὑποκάτω τῶν ποδῶν ὑμῶν εἰς μαρτύριον αὐτοῖς."
+  },
+  {
+   "ref": "REV 18:19",
+   "form": "χοῦν",
+   "morph": "N-ASM",
+   "gloss_en": "dust",
+   "gloss_ja": "土ぼこり",
+   "verse": "καὶ ἔβαλον χοῦν ἐπὶ τὰς κεφαλὰς αὐτῶν καὶ ἔκραξαν κλαίοντες καὶ πενθοῦντες λέγοντες· Οὐαὶ οὐαί, ἡ πόλις ἡ μεγάλη, ἐν ᾗ ἐπλούτησαν πάντες οἱ ἔχοντες τὰ πλοῖα ἐν τῇ θαλάσσῃ ἐκ τῆς τιμιότητος αὐτῆς, ὅτι μιᾷ ὥρᾳ ἠρημώθη."
+  }
+ ],
+ "lxx": {
+  "total": 76,
+  "works": {
+   "Genesis": 4,
+   "Leviticus": 4,
+   "Deuteronomium": 1,
+   "Josue": 1,
+   "Regnorum ii": 21,
+   "Regnorum iii": 3,
+   "Regnorum iv": 6,
+   "Paralipomenon i sive Chronicon i": 4,
+   "Paralipomenon ii sive Chronicon ii": 1,
+   "Esdras ii": 1,
+   "Judith": 1,
+   "Machabaeorum i": 1,
+   "Psalmi": 10,
+   "Ecclesiastes": 3,
+   "Job": 2,
+   "Ecclesiasticus sive Siracides": 1,
+   "Amos": 1,
+   "Michaeas": 1,
+   "Sophonias": 2,
+   "Zacharias": 1,
+   "Isaias": 3,
+   "Jeremias": 1,
+   "Threni seu Lamentationes": 1,
+   "Ezechiel": 2
+  },
+  "representatives": [
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "18.32",
+    "form": "Χουσί",
+    "postag": "n-p---md-",
+    "sentence": "καὶ εἶπεν ὁ Χουσί ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "29.10",
+    "form": "χοῦς",
+    "postag": "n-s---mn-",
+    "sentence": "μὴ ἐξομολογήσεταί σοι χοῦς ἢ ἀναγγελεῖ τὴν ἀλήθειάν σου;"
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "13.7",
+    "form": "χοῦν",
+    "postag": "n-s---ma-",
+    "sentence": "ὅτι οὐχ ὑπελείφθη τῷ Ἰωάχαζ λαός, ἀλλ’ ἢ πεντήκοντα ἱππεῖς καὶ δέκα ἅρματα καὶ δέκα χιλιάδες πεζῶν, ὅτι ἀπώλεσεν αὐτοὺς βασιλεὺς Συρίας, καὶ ἔθεντο αὐτοὺς ὡς χοῦν εἰς καταπάτησιν."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "10.8",
+    "form": "Χοὺς",
+    "postag": "n-s---mn-",
+    "sentence": "Χοὺς δὲ ἐγέννησε τὸν Νεβρώδ."
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "19.36",
+    "form": "χοῦς",
+    "postag": "n-s---mn-",
+    "sentence": "ζυγὰ δίκαια καὶ σταθμία δίκαια καὶ χοῦς δίκαιος ἔσται ἐν ὑμῖν ·"
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "1.9",
+    "form": "Χούς",
+    "postag": "n-s---mg-",
+    "sentence": "καὶ υἱοὶ Χούς ·"
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "4.16",
+    "form": "Χουσὶ",
+    "postag": "n-p---md-",
+    "sentence": "Βαανᾶ υἱὸς Χουσὶ ἐν Ἀσὴρ καὶ ἐν Βααλώθ, εἷς ·"
+   },
+   {
+    "work_code": "ECC",
+    "work_ja": "コヘレトの言葉",
+    "work_src": "Ecclesiastes",
+    "ref": "3.20",
+    "form": "χοός",
+    "postag": "n-s---mg-",
+    "sentence": "τὰ πάντα ἐγένετο ἀπὸ τοῦ χοός, καὶ τὰ πάντα ἐπιστρέψει εἰς τὸν χοῦν."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "52.2",
+    "form": "χοῦν",
+    "postag": "n-s---ma-",
+    "sentence": "ἐκτίναξαι τὸν χοῦν καὶ ἀνάστηθι, κάθισον, Ἱερουσαλήμ ·"
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "39.14",
+    "form": "χοῦν",
+    "postag": "n-s---ma-",
+    "sentence": "ὅτι ἀφήσει εἰς γῆν τὰ ὠὰ αὐτῆς καὶ ἐπὶ χοῦν θάλψει καὶ ἐπελάθετο ὅτι ποὺς σκορπιεῖ καὶ θηρία ἀγροῦ καταπατήσει ·"
+   },
+   {
+    "work_code": "ZEP",
+    "work_ja": "ゼファニヤ書",
+    "work_src": "Sophonias",
+    "ref": "1.17",
+    "form": "χοῦν",
+    "postag": "n-s---ma-",
+    "sentence": "καὶ ἐκχεεῖ τὸ αἷμα αὐτῶν ὡς χοῦν καὶ τὰς σάρκας αὐτῶν ὡς βόλβιτα."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "26.4",
+    "form": "χοῦν",
+    "postag": "n-s---ma-",
+    "sentence": "καὶ καταβαλοῦσι τὰ τείχη Σὸρ καὶ καταβαλοῦσι τοὺς πύργους σου, καὶ λικμήσω τὸν χοῦν αὐτῆς ἀπ’ αὐτῆς καὶ δώσω αὐτὴν εἰς λεωπετρίαν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2 (KJV) χοῦς, -οός  acc., οῦν, ὁ, (contr. from χόος),     [in LXX chiefly for עָפָר ;]     earth, soil.    In later writers (Plut., LXX), = κονιορτός, dust: Mk 6:11, Re 18:19.†"
+}

@@ -1,0 +1,157 @@
+{
+ "strong": "G5110",
+ "lemma": "τόκος",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 19:23",
+   "form": "τόκῳ",
+   "morph": "N-DSM",
+   "gloss_en": "interest",
+   "gloss_ja": "利子",
+   "verse": "καὶ διὰ τί οὐκ ἔδωκάς μου τὸ ἀργύριον ἐπὶ τράπεζαν; κἀγὼ ἐλθὼν σὺν τόκῳ ἂν αὐτὸ ἔπραξα."
+  },
+  {
+   "ref": "MAT 25:27",
+   "form": "τόκῳ",
+   "morph": "N-DSM",
+   "gloss_en": "interest",
+   "gloss_ja": "利子",
+   "verse": "ἔδει σε οὖν βαλεῖν τὰ ἀργύριά μου τοῖς τραπεζίταις, καὶ ἐλθὼν ἐγὼ ἐκομισάμην ἂν τὸ ἐμὸν σὺν τόκῳ."
+  }
+ ],
+ "lxx": {
+  "total": 19,
+  "works": {
+   "Exodus": 1,
+   "Leviticus": 2,
+   "Deuteronomium": 3,
+   "Regnorum iv": 1,
+   "Machabaeorum iv": 1,
+   "Psalmi": 3,
+   "Proverbia": 1,
+   "Osee": 1,
+   "Jeremias": 2,
+   "Ezechiel": 4
+  },
+  "representatives": [
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "22.12",
+    "form": "τόκον",
+    "postag": "n-s---ma-",
+    "sentence": "δῶρα ἐλαμβάνοσαν ἐν σοί, ὅπως ἐκχέωσιν αἷμα, τόκον καὶ πλεονασμὸν ἐλαμβάνοσαν ἐν σοί ·"
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "23.20",
+    "form": "τόκον",
+    "postag": "n-s---ma-",
+    "sentence": "οὐκ ἐκτοκιεῖς τῷ ἀδελφῷ σου τόκον ἀργυρίου καὶ τόκον βρωμάτων καὶ τόκον παντὸς πράγματος, οὗ ἐὰν ἐκδανείσῃς."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "14.5",
+    "form": "τόκῳ",
+    "postag": "n-s---md-",
+    "sentence": "τὸ ἀργύριον αὐτοῦ οὐκ ἔδωκεν ἐπὶ τόκῳ καὶ δῶρα ἐπ’ ἀθῴοις οὐκ ἔλαβεν."
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "25.36",
+    "form": "τόκον",
+    "postag": "n-s---ma-",
+    "sentence": "οὐ λήψῃ παρ’ αὐτοῦ τόκον, οὐ-δὲ ἐπὶ πλήθει ·"
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "9.6",
+    "form": "τόκος",
+    "postag": "n-s---mn-",
+    "sentence": "τόκος ἐπὶ τόκῳ καὶ δόλος ἐπὶ δόλῳ ·"
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "22.25",
+    "form": "τόκον",
+    "postag": "n-s---ma-",
+    "sentence": "ἐὰν δὲ ἀργύριον ἐκδανείσῃς τῷ ἀδελφῷ τῷ πενιχρῷ παρὰ σοί, οὐκ ἔσῃ αὐτὸν κατεπείγων, οὐκ ἐπιθήσεις αὐτῷ τόκον."
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "4.7",
+    "form": "τόκους",
+    "postag": "n-p---ma-",
+    "sentence": "δεῦρο καὶ ἀπόδου τὸ ἔλαιον καὶ ἀποτίσεις τοὺς τόκους σου, καὶ σὺ καὶ οἱ υἱοί σου ζήσεσθε ἐν τῷ ἐπιλοίπῳ ἐλαίῳ."
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "2.8",
+    "form": "τόκων",
+    "postag": "n-p---mg-",
+    "sentence": "αὐτίκα γοῦν τῷ νόμῳ πολιτευόμενος, κα-κἂν φιλάργυρός τις ᾖ, βιάζεται τὸν ἑαυτοῦ τρόπον τοῖς δεομένοις δανείζων χωρὶς τόκων, καὶ τὸ δάνειον τῶν ἑβδομάδων ἐνστασῶν χρεοκοπούμενος."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "28.8",
+    "form": "τόκων",
+    "postag": "n-p---mg-",
+    "sentence": "ὁ πληθύνων τὸν πλοῦτον αὐτοῦ μετὰ τόκων καὶ πλεονασμῶν, τῷ ἐλεῶντι πτωχοὺς συνάγει αὐτόν."
+   },
+   {
+    "work_code": "HOS",
+    "work_ja": "ホセア書",
+    "work_src": "Osee",
+    "ref": "9.11",
+    "form": "τόκων",
+    "postag": "n-p---mg-",
+    "sentence": "Ἐφραὶμ ὡς ὄρνεον ἐξεπετάσθη, αἱ δόξαι αὐτῶν ἐκ τόκων καὶ ὠδίνων καὶ συλλήψεων ·"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "18.13",
+    "form": "τόκου",
+    "postag": "n-s---mg-",
+    "sentence": "— καὶ ἐὰν γεννήσῃ υἱὸν λοιμὸν ἐκχέοντα αἷμα καὶ ποιοῦντα ἁμαρτήματα, ἐν τῇ ὁδῷ τοῦ πατρὸς αὐτοῦ τοῦ δικαίου οὐκ ἐπορεύθη, ἀλλὰ καὶ ἐπὶ τῶν ὀρέων ἔφαγε καὶ τὴν γυναῖκα τοῦ πλησίον αὐτοῦ ἐμίανε καὶ πτωχὸν καὶ πένητα κατεδυνάστευσε καὶ ἅρπαγμα ἥρπασε καὶ ἐνεχυρασμὸν οὐκ ἀπέδωκε καὶ εἰς τὰ εἴδωλα ἔθετο τοὺς ὀφθαλμοὺς αὐτοῦ, ἀνομίαν πεποίηκε, μετὰ τόκου ἔδωκε καὶ πλεονασμὸν ἔλαβεν, οὗτος ζωῇ οὐ ζήσεται, πάσας τὰς ἀνομίας ταύτας ἐποίησε, θανάτῳ θανατωθήσεται, τὸ αἷμα αὐτοῦ ἐπ’ αὐτὸν ἔσται."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "23.20",
+    "form": "τόκον",
+    "postag": "n-s---ma-",
+    "sentence": "οὐκ ἐκτοκιεῖς τῷ ἀδελφῷ σου τόκον ἀργυρίου καὶ τόκον βρωμάτων καὶ τόκον παντὸς πράγματος, οὗ ἐὰν ἐκδανείσῃς."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2 τόκος, -ου, ὁ    (< τίκτω),    [in LXX for נֶשֶׁךְ, etc. ;]    a bringing forth, birth;    offspring. Metaph., of the produce of money lent out, interest, usury (cf. Merch. of Venice, I, iii, \"a breed of barren metal \"): Mt 25:27, Lk 19:23 (Soph., Plat., al.).†"
+}

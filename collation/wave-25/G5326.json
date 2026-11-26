@@ -1,0 +1,49 @@
+{
+ "strong": "G5326",
+ "lemma": "φάντασμα",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MAT 14:26",
+   "form": "Φάντασμά",
+   "morph": "N-NSN",
+   "gloss_en": "ghost",
+   "gloss_ja": "幽霊",
+   "verse": "οἱ δὲ μαθηταὶ ἰδόντες αὐτὸν ἐπὶ τῆς θαλάσσης περιπατοῦντα ἐταράχθησαν λέγοντες ὅτι Φάντασμά ἐστιν, καὶ ἀπὸ τοῦ φόβου ἔκραξαν."
+  },
+  {
+   "ref": "MRK 6:49",
+   "form": "φάντασμά",
+   "morph": "N-NSN",
+   "gloss_en": "ghost",
+   "gloss_ja": "幽霊",
+   "verse": "οἱ δὲ ἰδόντες αὐτὸν ἐπὶ τῆς θαλάσσης περιπατοῦντα ἔδοξαν ὅτι φάντασμά ἐστιν καὶ ἀνέκραξαν,"
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Sapientia Salomonis": 1
+  },
+  "representatives": [
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "17.14",
+    "form": "φαντασμάτων",
+    "postag": "n-p---ng-",
+    "sentence": "οἱ δὲ τὴν ἀδύνατον ὄντως νύκτα καὶ ἐξ ἀδυνάτου ᾅδου μυχῶν ἐπελθοῦσαν, τὸν αὐτὸν ὕπνον κοιμώμενοι, τὰ μὲν τέρασιν ἠλαύνοντο φαντασμάτων, τὰ δὲ τῆς ψυχῆς παρελύοντο προδοσίᾳ ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2 φάντασμα, -τος, τό    (< φαντάζω),    [in LXX: Jb 20:8 A (חִזָּיוֹן), Is 28:7 A, Wi 17:15 * ;]    = φάσμα, an appearance, apparition (Æsch., al.): Mt 14:26, Mk 6:49 (v. DCG, i, 111b).†"
+}

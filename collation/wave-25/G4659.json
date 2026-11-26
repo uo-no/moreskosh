@@ -1,0 +1,79 @@
+{
+ "strong": "G4659",
+ "lemma": "σκυθρωπός",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 24:17",
+   "form": "σκυθρωποί",
+   "morph": "A-NPM",
+   "gloss_en": "looking sad",
+   "gloss_ja": "暗い顔をした",
+   "verse": "εἶπεν δὲ πρὸς αὐτούς· Τίνες οἱ λόγοι οὗτοι οὓς ἀντιβάλλετε πρὸς ἀλλήλους περιπατοῦντες; καὶ ἐστάθησαν σκυθρωποί."
+  },
+  {
+   "ref": "MAT 6:16",
+   "form": "σκυθρωποί",
+   "morph": "A-NPM",
+   "gloss_en": "gloomy",
+   "gloss_ja": "暗い顔をした",
+   "verse": "Ὅταν δὲ νηστεύητε, μὴ γίνεσθε ὡς οἱ ὑποκριταὶ σκυθρωποί, ἀφανίζουσιν γὰρ τὰ πρόσωπα αὐτῶν ὅπως φανῶσιν τοῖς ἀνθρώποις νηστεύοντες· ἀμὴν λέγω ὑμῖν, ἀπέχουσιν τὸν μισθὸν αὐτῶν."
+  }
+ ],
+ "lxx": {
+  "total": 4,
+  "works": {
+   "Genesis": 1,
+   "Machabaeorum iii": 1,
+   "Ecclesiasticus sive Siracides": 1,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "40.7",
+    "form": "σκυθρωπὰ",
+    "postag": "a-p---nn-",
+    "sentence": "τί ὅτι τὰ πρόσωπα ὑμῶν σκυθρωπὰ σήμερον;"
+   },
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "5.34",
+    "form": "σκυθρωπῶς",
+    "postag": "d--------",
+    "sentence": "ὁ καθεὶς δὲ τῶν φίλων σκυθρωπῶς ὑπεκρέων, τοὺς συνηθροισμένους ἀπέλυσαν ἕκαστον ἐπὶ τὴν ἰδίαν ἀσχολίαν."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "25.23",
+    "form": "σκυθρωπὸν",
+    "postag": "a-s---nn-",
+    "sentence": "καρδία ταπεινὴ καὶ πρόσωπον σκυθρωπὸν καὶ πληγὴ καρδίας γυνὴ πονηρά ·"
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "1.10",
+    "form": "σκυθρωπὰ",
+    "postag": "a-p---na-",
+    "sentence": "φοβοῦμαι ἐγὼ τὸν κύριόν μου τὸν βασιλέα τὸν ἐκτάξαντα τὴν βρῶσιν ὑμῶν καὶ τὴν πόσιν ὑμῶν, μή ποτε ἴδῃ τὰ πρόσωπα ὑμῶν σκυθρωπὰ παρὰ τὰ παιδάρια τὰ συνήλικα ὑμῶν καὶ καταδικάσητε τὴν κεφαλήν μου τῷ βασιλεῖ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   σκυθρωπός, -όν (also -ή, -όν)     (< σκυθρός, sullen, + ὤψ),    [in LXX: Ge 40:7 (רַע), etc. ;]    of a gloomy countenance: Mt 6:16, Lk 24:17.†"
+}

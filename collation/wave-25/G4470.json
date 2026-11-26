@@ -1,0 +1,69 @@
+{
+ "strong": "G4470",
+ "lemma": "ῥάκος",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MAT 9:16",
+   "form": "ῥάκους",
+   "morph": "N-GSN",
+   "gloss_en": "cloth",
+   "gloss_ja": "布切れ",
+   "verse": "οὐδεὶς δὲ ἐπιβάλλει ἐπίβλημα ῥάκους ἀγνάφου ἐπὶ ἱματίῳ παλαιῷ· αἴρει γὰρ τὸ πλήρωμα αὐτοῦ ἀπὸ τοῦ ἱματίου, καὶ χεῖρον σχίσμα γίνεται."
+  },
+  {
+   "ref": "MRK 2:21",
+   "form": "ῥάκους",
+   "morph": "N-GSN",
+   "gloss_en": "cloth",
+   "gloss_ja": "布切れ",
+   "verse": "Οὐδεὶς ἐπίβλημα ῥάκους ἀγνάφου ἐπιράπτει ἐπὶ ἱμάτιον παλαιόν· εἰ δὲ μή, αἴρει τὸ πλήρωμα ἀπ’ αὐτοῦ τὸ καινὸν τοῦ παλαιοῦ, καὶ χεῖρον σχίσμα γίνεται."
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Esther": 1,
+   "Isaias": 1,
+   "Jeremias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "EST",
+    "work_ja": "エステル記",
+    "work_src": "Esther",
+    "ref": "4.17φ",
+    "form": "ράκος",
+    "postag": "n-s---mn-",
+    "sentence": "βδελύσσομαι αὐτὸ ὡς ράκος καταμηνίων καὶ οὐ φορῶ αὐτὸ ἐν ἡμέραις ἡσυχίας μου."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "64.6",
+    "form": "ράκος",
+    "postag": "n-s---mn-",
+    "sentence": "καὶ ἐγενήθημεν ὡς ἀκάθαρτοι πάντες ἡμεῖς, ὡς ράκος ἀποκαθημένης πᾶσα ἡ δικαιοσύνη ἡμῶν ·"
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "45.11",
+    "form": "ράκη",
+    "postag": "n-p---na-",
+    "sentence": "καὶ ἔλαβεν Ἀβδεμέλεχ τοὺς ἀνθρώπους καὶ εἰσῆλθεν εἰς τὴν οἰκίαν τοῦ βασιλέως τὴν ὑπόγαιον καὶ ἔλαβεν ἐκεῖθεν παλαιὰ ράκη καὶ παλαιὰ σχοινία καὶ ἔρριψεν αὐτὰ πρὸς Ἱερεμίαν εἰς τὸν λάκκον καὶ εἶπε ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2   ῥάκος, -ους, τό     [in LXX: Is 64:6 (5) (בֶּגֶד), Je 45 (38):11 (סְחָבָה), Es 4:17 * ;]     a ragged garment (Hom.).    a rag, remnant, piece of cloth: Mt 9:16, Mk 2:21.†"
+}

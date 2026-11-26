@@ -1,0 +1,158 @@
+{
+ "strong": "G822",
+ "lemma": "ἀτμίς",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 2:19",
+   "form": "ἀτμίδα",
+   "morph": "N-ASF",
+   "gloss_en": "vapor",
+   "gloss_ja": "蒸気",
+   "verse": "καὶ δώσω τέρατα ἐν τῷ οὐρανῷ ἄνω καὶ σημεῖα ἐπὶ τῆς γῆς κάτω, αἷμα καὶ πῦρ καὶ ἀτμίδα καπνοῦ·"
+  },
+  {
+   "ref": "JAS 4:14",
+   "form": "ἀτμὶς",
+   "morph": "N-NSF",
+   "gloss_en": "mist",
+   "gloss_ja": "蒸気",
+   "verse": "οἵτινες οὐκ ἐπίστασθε τὸ τῆς αὔριον ποία ἡ ζωὴ ὑμῶν· ἀτμὶς γάρ ἐστε ἡ πρὸς ὀλίγον φαινομένη, ἔπειτα καὶ ἀφανιζομένη·"
+  }
+ ],
+ "lxx": {
+  "total": 11,
+  "works": {
+   "Genesis": 1,
+   "Leviticus": 1,
+   "Machabaeorum ii": 1,
+   "Sapientia Salomonis": 1,
+   "Ecclesiasticus sive Siracides": 4,
+   "Osee": 1,
+   "Joel": 1,
+   "Ezechiel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "22.24",
+    "form": "ἀτμὶς",
+    "postag": "n-s---fn-",
+    "sentence": "πρὸ πυρὸς ἀτμὶς καμίνου καὶ καπνός ·"
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "19.28",
+    "form": "ἀτμὶς",
+    "postag": "n-s---fn-",
+    "sentence": "ὤρθρισε δὲ Ἁβραὰμ τὸ πρωῒ εἰς τὸν τόπον, οὗ εἱστήκει ἐναντίον Κυρίου, καὶ ἐπέβλεψεν ἐπὶ πρόσωπον Σοδόμων καὶ Γομόρρας καὶ ἐπὶ πρόσωπον τῆς γῆς τῆς περιχώρου καὶ εἶδε, καὶ ἰδοὺ ἀνέβαινε φλὸξ τῆς γῆς, ὡσεὶ ἀτμὶς καμίνου."
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "16.13",
+    "form": "ἀτμὶς",
+    "postag": "n-s---fn-",
+    "sentence": "καὶ καλύψει ἡ ἀτμὶς τοῦ θυμιάματος τὸ ἱλαστήριον τὸ ἐπὶ τῶν μαρτυρίων, καὶ οὐκ ἀποθανεῖται."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "7.5",
+    "form": "ἀτμίδος",
+    "postag": "n-s---fg-",
+    "sentence": "τῆς δὲ ἀτμίδος ἐφ’ ἱκανὸν διαδιδούσης τοῦ τηγάνου, ἀλλήλους παρεκάλουν σὺν τῇ μητρὶ γενναίως τελευτᾶν λέγοντες οὕτως ·"
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "7.25",
+    "form": "ἀτμὶς",
+    "postag": "n-s---fn-",
+    "sentence": "ἀτμὶς γάρ ἐστι τῆς τοῦ Θεοῦ δυνάμεως καὶ ἀπόρροια τῆς τοῦ Παντοκράτορος δόξης εἰλικρινής ·"
+   },
+   {
+    "work_code": "HOS",
+    "work_ja": "ホセア書",
+    "work_src": "Osee",
+    "ref": "13.3",
+    "form": "ἀτμὶς",
+    "postag": "n-s---fn-",
+    "sentence": "διὰ τοῦτο ἔσονται ὡς νεφέλη πρωϊνὴ καὶ ὡς δρόσος ὀρθρινὴ πορευομένη, ὥσπερ χνοῦς ἀποφυσώμενος ἀφ’ ἅλωνος καὶ ὡς ἀτμὶς ἀπό δακρύων."
+   },
+   {
+    "work_code": "JOL",
+    "work_ja": "ヨエル書",
+    "work_src": "Joel",
+    "ref": "3.3",
+    "form": "ἀτμίδα",
+    "postag": "n-s---fa-",
+    "sentence": "καὶ δώσω τέρατα ἐν οὐρανῷ καὶ ἐπὶ τῆς γῆς, αἷμα καὶ πῦρ καὶ ἀτμίδα καπνοῦ ·"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "8.11",
+    "form": "ἀτμὶς",
+    "postag": "n-s---fn-",
+    "sentence": "καὶ εἰσῆλθον καὶ εἶδον καὶ ἰδοὺ μάταια βδελύγματα καὶ πάντα τὰ εἴδωλα οἴκου Ἰσραὴλ διαγεγραμμένα ἐπ’ αὐτοῦ κύκλῳ, καὶ ἑβδομήκοντα ἄνδρες ἐκ τῶν πρεσβυτέρων οἴκου Ἰσραήλ, καὶ Ἰεζονίας ὁ τοῦ Σαφὰν ἐν μέσῳ αὐτῶν εἱστήκει πρὸ προσώπου αὐτῶν, καὶ ἕκαστος θυμιατήριον αὐτοῦ εἶχεν ἐν τῇ χειρί, καὶ ἡ ἀτμὶς τοῦ θυμιάματος ἀνέβαινε."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "43.4",
+    "form": "ἀτμίδας",
+    "postag": "n-p---fa-",
+    "sentence": "ἀτμίδας πυρώδεις ἐκφυσῶν καὶ ἐκλάμπων ἀκτῖνας ἀμαυροῖ ὀφθαλμούς."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "38.28",
+    "form": "ἀτμὶς",
+    "postag": "n-s---fn-",
+    "sentence": "ἀτμὶς πυρὸς πήξει σάρκας αὐτοῦ, καὶ ἐν θέρμῃ καμίνου διαμαχήσεται ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "24.15",
+    "form": "ἀτμὶς",
+    "postag": "n-s---fn-",
+    "sentence": "ὡς κιννάμωμον καὶ ἀσπάλαθος ἀρωμάτων δέδωκα ὀσμὴν καὶ ὡς σμύρνα ἐκλεκτὴ διέδωκα εὐωδίαν, ὡς χαλβάνη καὶ ὄνυξ καὶ στακτὴ καὶ ὡς λιβάνου ἀτμὶς ἐν σκηνῇ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "1 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "17.6",
+    "form": "ἀτμὶς",
+    "postag": "n-s---fn-",
+    "sentence": "ἐγὼ δέ εἰμι ἀτμὶς ἀπὸ κύθρας."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "2   ἀτμίς, -ίδος, ἡ,    [in LXX for עָנָן, תִּימָרָה, etc.;]    vapour: Ja 4:14; ἀ. καπνοῦ, Ac 2:19(LXX).†"
+}

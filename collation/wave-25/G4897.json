@@ -1,0 +1,79 @@
+{
+ "strong": "G4897",
+ "lemma": "συνεισέρχομαι",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JHN 18:15",
+   "form": "συνεισῆλθεν",
+   "morph": "V-2AAI-3S",
+   "gloss_en": "went with",
+   "gloss_ja": "共に入る",
+   "verse": "Ἠκολούθει δὲ τῷ Ἰησοῦ Σίμων Πέτρος καὶ ἄλλος μαθητής. ὁ δὲ μαθητὴς ἐκεῖνος ἦν γνωστὸς τῷ ἀρχιερεῖ καὶ συνεισῆλθεν τῷ Ἰησοῦ εἰς τὴν αὐλὴν τοῦ ἀρχιερέως,"
+  },
+  {
+   "ref": "JHN 6:22",
+   "form": "συνεισῆλθεν",
+   "morph": "V-2AAI-3S",
+   "gloss_en": "entered",
+   "gloss_ja": "共に入る",
+   "verse": "Τῇ ἐπαύριον ὁ ὄχλος ὁ ἑστηκὼς πέραν τῆς θαλάσσης εἶδον ὅτι πλοιάριον ἄλλο οὐκ ἦν ἐκεῖ εἰ μὴ ἕν, καὶ ὅτι οὐ συνεισῆλθεν τοῖς μαθηταῖς αὐτοῦ ὁ Ἰησοῦς εἰς τὸ πλοῖον ἀλλὰ μόνοι οἱ μαθηταὶ αὐτοῦ ἀπῆλθον·"
+  }
+ ],
+ "lxx": {
+  "total": 4,
+  "works": {
+   "Exodus": 1,
+   "Esther": 1,
+   "Job": 1,
+   "Ecclesiasticus sive Siracides": 1
+  },
+  "representatives": [
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "21.3",
+    "form": "συνεισέλθῃ",
+    "postag": "v3sasa---",
+    "sentence": "ἐὰν δὲ γυνὴ συνεισέλθῃ μετ’ αὐτοῦ, ἐξελεύσεται καὶ ἡ γυνὴ αὐτοῦ."
+   },
+   {
+    "work_code": "EST",
+    "work_ja": "エステル記",
+    "work_src": "Esther",
+    "ref": "2.13",
+    "form": "συνεισέρχεσθαι",
+    "postag": "v--pnm---",
+    "sentence": "καὶ ᾧ ἐὰν εἴπῃ, παραδώσει αὐτὴν συνεισέρχεσθαι αὐτῷ ἀπὸ τοῦ γυναικῶνος ἕως τῶν βασιλείων."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "22.4",
+    "form": "συνεισελεύσεταί",
+    "postag": "v3sfim---",
+    "sentence": "ἦ λόγον σου ποιούμενος ἐλέγξει σε, καὶ συνεισελεύσεταί σοι εἰς κρίσιν;"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "39.2",
+    "form": "συνεισελεύσεται",
+    "postag": "v3sfim---",
+    "sentence": "διηγήσεις ἀνδρῶν ὀνομαστῶν συντηρήσει καὶ ἐν στροφαῖς παραβολῶν συνεισελεύσεται."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2 συν-εισ-έρχομαι     [in LXX: Jb 22:4 (עִם בּוֹא), etc. ;]     to enter together: c. dat. pers., seq. εἰς, c. acc. loc., Jo 6:22 18:15.†"
+}

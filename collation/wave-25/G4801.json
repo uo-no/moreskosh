@@ -1,0 +1,58 @@
+{
+ "strong": "G4801",
+ "lemma": "συζεύγνυμι",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MAT 19:6",
+   "form": "συνέζευξεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "joined together",
+   "gloss_ja": "くびきにつなぐ",
+   "verse": "ὥστε οὐκέτι εἰσὶν δύο ἀλλὰ σὰρξ μία. ὃ οὖν ὁ θεὸς συνέζευξεν ἄνθρωπος μὴ χωριζέτω."
+  },
+  {
+   "ref": "MRK 10:9",
+   "form": "συνέζευξεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "joined together",
+   "gloss_ja": "くびきにつなぐ",
+   "verse": "ὃ οὖν ὁ θεὸς συνέζευξεν ἄνθρωπος μὴ χωριζέτω."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Ezechiel": 2
+  },
+  "representatives": [
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "1.11",
+    "form": "συνεζευγμέναι",
+    "postag": "v-prpmfn-",
+    "sentence": "καὶ αἱ πτέρυγες αὐτῶν ἐκτεταμέναι ἄνωθεν τοῖς τέσσαρσιν, ἑκατέρῳ δύο συνεζευγμέναι πρὸς ἀλλήλας, καὶ δύο ἐπεκάλυπτον ἐπάνω τοῦ σώματος αὐτῶν."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "1.23",
+    "form": "συνεζευγμέναι",
+    "postag": "v-prpmfn-",
+    "sentence": "καὶ ὑποκάτωθεν τοῦ στερεώματος αἱ πτέρυγες αὐτῶν ἐκτεταμέναι, πτερυσσόμεναι ἑτέρα τῇ ἑτέρᾳ, ἑκάστῳ δύο συνεζευγμέναι ἐπικαλύπτουσαι τὰ σώματα αὐτῶν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2 συν-ζεύγνυμι    (Rec. συζ-),    [in LXX: Ez 1:11, 23 (חבר) * ;]     to yoke to­gether: metaph., of union in wedlock, Mt 19:6, Mk 10:9.†"
+}

@@ -1,0 +1,49 @@
+{
+ "strong": "G673",
+ "lemma": "ἀποχωρίζομαι",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": "αποχωριζω",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 15:39",
+   "form": "ἀποχωρισθῆναι",
+   "morph": "V-APN",
+   "gloss_en": "separated",
+   "gloss_ja": "引き離す",
+   "verse": "ἐγένετο δὲ παροξυσμὸς ὥστε ἀποχωρισθῆναι αὐτοὺς ἀπ’ ἀλλήλων, τόν τε Βαρναβᾶν παραλαβόντα τὸν Μᾶρκον ἐκπλεῦσαι εἰς Κύπρον,"
+  },
+  {
+   "ref": "REV 6:14",
+   "form": "ἀπεχωρίσθη",
+   "morph": "V-API-3S",
+   "gloss_en": "vanished",
+   "gloss_ja": "引き離す",
+   "verse": "καὶ ὁ οὐρανὸς ἀπεχωρίσθη ὡς βιβλίον ἑλισσόμενον, καὶ πᾶν ὄρος καὶ νῆσος ἐκ τῶν τόπων αὐτῶν ἐκινήθησαν."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Ezechiel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "43.21",
+    "form": "ἀποκεχωρισμένῳ",
+    "postag": "v-srpmmd-",
+    "sentence": "καὶ λήψονται τὸν μόσχον τὸν περὶ ἁμαρτίας, καὶ κατακαυθήσεται ἐν τῷ ἀποκεχωρισμένῳ τοῦ οἴκου ἔξωθεν τῶν ἁγίων."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "2 ἀπο-χωρίζω,    [in LXX: Ez 43:21 (מִפְקָד)*;]    to separate, part asunder: pass., Re 6:14; reflexively, to separate oneself: Ac 15:39.†"
+}

@@ -1,0 +1,187 @@
+{
+ "strong": "G528",
+ "lemma": "ἀπαντάω",
+ "nt_freq": 2,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 17:12",
+   "form": "ἀπήντησαν",
+   "morph": "V-AAI-3P",
+   "gloss_en": "met",
+   "gloss_ja": "出会う",
+   "verse": "καὶ εἰσερχομένου αὐτοῦ εἴς τινα κώμην ἀπήντησαν δέκα λεπροὶ ἄνδρες, οἳ ἔστησαν πόρρωθεν,"
+  },
+  {
+   "ref": "MRK 14:13",
+   "form": "ἀπαντήσει",
+   "morph": "V-FAI-3S",
+   "gloss_en": "meet",
+   "gloss_ja": "出会う",
+   "verse": "καὶ ἀποστέλλει δύο τῶν μαθητῶν αὐτοῦ καὶ λέγει αὐτοῖς· Ὑπάγετε εἰς τὴν πόλιν, καὶ ἀπαντήσει ὑμῖν ἄνθρωπος κεράμιον ὕδατος βαστάζων· ἀκολουθήσατε αὐτῷ,"
+  }
+ ],
+ "lxx": {
+  "total": 45,
+  "works": {
+   "Genesis": 3,
+   "Ruth": 2,
+   "Regnorum i": 6,
+   "Regnorum ii": 1,
+   "Regnorum iii": 2,
+   "Esdras i": 1,
+   "Judith": 2,
+   "Tobias": 2,
+   "Machabaeorum i": 11,
+   "Machabaeorum ii": 1,
+   "Machabaeorum iii": 1,
+   "Proverbia": 1,
+   "Job": 3,
+   "Ecclesiasticus sive Siracides": 4,
+   "Psalmi Salomonis": 1,
+   "Osee": 1,
+   "Jeremias": 2,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "12.25",
+    "form": "ἀπήντησεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἀπῇρεν ἐξ Ἱερουσαλὴμ καὶ ἀπήντησεν αὐτοῖς εἰς τὴν Ἀμαθῖτιν χώραν ·"
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "22.18",
+    "form": "ἀπάντα",
+    "postag": "v2spma---",
+    "sentence": "ἐπιστρέφου σὺ καὶ ἀπάντα εἰς τοὺς ἱερεῖς."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "43.22",
+    "form": "ἀπαντῶσα",
+    "postag": "v-sppafn-",
+    "sentence": "ἴασις πάντων κατὰ σπουδὴν ὁμίχλη, δρόσος ἀπαντῶσα ἀπὸ καύσωνος ἱλαρώσει."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "28.11",
+    "form": "ἀπήντησε",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἀπήντησε τόπῳ καὶ ἐκοιμήθη ἐκεῖ ·"
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "21.15",
+    "form": "ἀπαντήσομεν",
+    "postag": "v1pfia---",
+    "sentence": "καὶ τίς ὠφέλεια, ὅτι ἀπαντήσομεν αὐτῷ;"
+   },
+   {
+    "work_code": "RUT",
+    "work_ja": "ルツ記",
+    "work_src": "Ruth",
+    "ref": "1.16",
+    "form": "ἀπάντησαί",
+    "postag": "v2samm---",
+    "sentence": "μὴ ἀπάντησαί μοι τοῦ καταλιπεῖν σε ἢ ἀποστρέψαι ὄπισθέν σου ·"
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "2.34",
+    "form": "ἀπήντησε",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἀνέβη Βαναίας υἱὸς Ἰωδαὲ καὶ ἀπήντησε αὐτῷ καὶ ἐθανάτωσεν αὐτὸν καὶ ἔθαψεν αὐτὸν ἐν τῷ οἴκῳ αὐτοῦ ἐν τῇ ἐρήμῳ."
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "3.4",
+    "form": "ἀπάντησον",
+    "postag": "v2sama---",
+    "sentence": "ἐλθὼν ἀπάντησον αὐταῖς ὡς ἔστιν ἀγαθὸν ἐν ὀφθαλμοῖς σου."
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "14.4",
+    "form": "ἀπαντήσει",
+    "postag": "v3sfia---",
+    "sentence": "καὶ ὅτε ἀπέθνῃσκεν, ἐκάλεσεν Τωβιαν τὸν υἱὸν αὐτοῦ καὶ ἐνετείλατο αὐτῷ λέγων Παιδίον, ἀπάγαγε τὰ παιδία σου καὶ ἀπότρεχε εἰς Μηδίαν, ὅτι πιστεύω ἐγὼ τῷ ῥήματι τοῦ θεοῦ ἐπὶ Νινευη, ἃ ἐλάλησεν Ναουμ, ὅτι πάντα ἔσται καὶ ἀπαντήσει ἐπὶ Αθουρ καὶ Νινευη, καὶ ὅσα ἐλάλησαν οἱ προφῆται τοῦ Ισραηλ, οὓς ἀπέστειλεν ὁ θεός, πάντα ἀπαντήσει, καὶ οὐ μηθὲν ἐλαττονωθῇ ἐκ πάντων τῶν ῥημάτων, καὶ πάντα συμβήσεται τοῖς καιροῖς αὐτῶν, καὶ ἐν τῇ Μηδίᾳ ἔσται σωτηρία μᾶλλον ἤπερ ἐν Ἀσσυρίοις καὶ ἐν Βαβυλῶνι ·"
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "34.18",
+    "form": "ἀπαντησάτωσάν",
+    "postag": "v3pama---",
+    "sentence": "εἰ προφῆταί εἰσι καὶ εἰ ἔστι λόγος Κυρίου ἐν αὐτοῖς, ἀπαντησάτωσάν μοι ·"
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "1.15",
+    "form": "ἀπάντησον",
+    "postag": "v2sama---",
+    "sentence": "προσελθὼν ἀπάντησον αὐτῷ ·"
+   },
+   {
+    "work_code": "1ES",
+    "work_ja": "エズラ記（ギリシャ語）",
+    "work_src": "Esdras i",
+    "ref": "9.4",
+    "form": "ἀπαντήσωσιν",
+    "postag": "v3pasa---",
+    "sentence": "καὶ ὅσοι ἂν μὴ ἀπαντήσωσιν ἐν δυσὶν ἢ τρισὶν ἡμέραις κατὰ τὸ κρίμα τῶν προκαθημένων πρεσβυτέρων, ἀνιερωθήσονται τὰ κτήνη αὐτῶν, καὶ αὐτὸς ἀλλοτριωθήσεται ἀπὸ τοῦ πλήθους τῆς αἰχμαλωσίας."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "Didache": 1,
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DID",
+    "work_ja": "ディダケー",
+    "work_src": "Didache",
+    "ref": "3.6",
+    "form": "ἀπάντων",
+    "postag": "v3piia---",
+    "sentence": "ἐκ γὰρ τούτων ἀπάντων βλασφημίαι γεννῶνται, ἴσθι δὲ πραΰς, ἐπεὶ οἱ πραεῖς κληρονομήσουσι τὴν γῆν ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "4.2.3",
+    "form": "ἀπήντησεν",
+    "postag": "v3saia---",
+    "sentence": "οὐδέν σοι ἀπήντησεν;"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "7   ἀπαντάω, -ῶ,    [in LXX chiefly for פּגע;]      to go to meet.     to meet; c. dat.: Mk 14:13, Lk 17:12 (WH, mg., ὑπ-; in Rec. freq. as v.1. for ὑπ-, q.v.).†"
+}
