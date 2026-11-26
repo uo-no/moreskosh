@@ -1,0 +1,33 @@
+{
+  "strong": "G801",
+  "lemma": "ἀσύνετος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "悟りのない",
+      "def_ja": "理解のない、悟りのない。『あなたがたもまだ悟りがないのか』『愚かな心』『愚かな民』『無分別な』。",
+      "label_en": "without understanding",
+      "def_en": "Lacking understanding, undiscerning.",
+      "label_es": "sin entendimiento",
+      "def_es": "Falto de comprensión, sin discernimiento.",
+      "label_sv": "oförståndig",
+      "def_sv": "Utan förstånd, utan insikt.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "マタイ15:16、マルコ7:18、ローマ10:19・1:21・1:31。LXX、教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "MAT 15:16": 1,
+    "MRK 7:18": 1,
+    "ROM 10:19": 1,
+    "ROM 1:21": 1,
+    "ROM 1:31": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

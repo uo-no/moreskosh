@@ -1,0 +1,32 @@
+{
+  "strong": "G1554",
+  "lemma": "ἐκδίδωμι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "貸し出す",
+      "def_ja": "土地を貸し出す、小作に出す。『農夫たちに貸して』『他の農夫たちに貸し与える』。",
+      "label_en": "to let out, to lease",
+      "def_en": "To lease out land, to let it to tenants.",
+      "label_es": "arrendar",
+      "def_es": "Arrendar una tierra, darla a labradores.",
+      "label_sv": "att arrendera ut",
+      "def_sv": "Att lämna ut mark på arrende.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ20:9、マタイ21:33・21:41、マルコ12:1。LXX の代表例は「引き渡す・嫁がせる」などの別用法を含み、この語義の用法としての対応は確認していない。教父の用例なし。単一語義。"
+    }
+  ],
+  "assignments": {
+    "LUK 20:9": 1,
+    "MAT 21:33": 1,
+    "MAT 21:41": 1,
+    "MRK 12:1": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

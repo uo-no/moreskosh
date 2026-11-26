@@ -1,0 +1,47 @@
+{
+  "strong": "G757",
+  "lemma": "ἄρχω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "治める・支配する",
+      "def_ja": "支配する、治める。『諸国民を治める者として認められている人々』『異邦人を治めるために立つ者』。",
+      "label_en": "to rule",
+      "def_en": "To rule, to govern.",
+      "label_es": "gobernar, regir",
+      "def_es": "Gobernar, ejercer dominio.",
+      "label_sv": "att härska",
+      "def_sv": "Att härska, att styra.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "マルコ10:42、ローマ15:12。LXX に並行。教父の代表例では確認していない。単一語義。"
+    }
+  ],
+  "assignments": {
+    "MRK 10:42": 1,
+    "ROM 15:12": 1
+  },
+  "unresolved": [],
+  "layer_notes": "packet の ἤρχοντο／ἤρχετο の3件は ἔρχομαι の形の疑いで、本レンマへ割り当てない。",
+  "excluded": [
+    {
+      "ref": "JHN 4:30",
+      "form": "ἤρχοντο",
+      "reason": "形は ἄρχω の未完了と同形だが、文脈上は ἔρχομαι G2064 の形。データの付け替えは別途データ修正で扱う。"
+    },
+    {
+      "ref": "JHN 8:2",
+      "form": "ἤρχετο",
+      "reason": "形は ἄρχω の未完了と同形だが、文脈上は ἔρχομαι G2064 の形。データの付け替えは別途データ修正で扱う。"
+    },
+    {
+      "ref": "JHN 6:17",
+      "form": "ἤρχοντο",
+      "reason": "形は ἄρχω の未完了と同形だが、文脈上は ἔρχομαι G2064 の形。データの付け替えは別途データ修正で扱う。"
+    }
+  ]
+}

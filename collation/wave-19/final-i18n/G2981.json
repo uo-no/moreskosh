@@ -1,0 +1,49 @@
+{
+  "strong": "G2981",
+  "lemma": "λαλιά",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "話・語ること",
+      "def_ja": "語られたこと、話。『あなたの話によるのではない』『わたしの話がわからないのか』。",
+      "label_en": "talk, what is said",
+      "def_en": "What is spoken; talk.",
+      "label_es": "dicho, palabra",
+      "def_es": "Lo hablado, la conversación.",
+      "label_sv": "tal, det sagda",
+      "def_sv": "Det som sägs, pratet.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヨハネ4:42・8:43。LXX、教父に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "なまり・話しぶり",
+      "def_ja": "話しぶり、なまり。『言葉づかいでわかる』『言葉のなまりで』。",
+      "label_en": "accent, manner of speech",
+      "def_en": "A way of speaking, an accent.",
+      "label_es": "habla, acento",
+      "def_es": "Manera de hablar, acento.",
+      "label_sv": "dialekt, uttal",
+      "def_sv": "Sätt att tala, brytning.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マタイ26:73、マルコ14:70。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "JHN 4:42": 1,
+    "JHN 8:43": 1,
+    "MAT 26:73": 2,
+    "MRK 14:70": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（語られたこと／なまり）による。"
+}

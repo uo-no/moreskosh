@@ -1,0 +1,50 @@
+{
+  "strong": "G937",
+  "lemma": "βασιλικός",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "王の・王家の",
+      "def_ja": "王の、王家の。『王の領地』『王の衣服』『最高の律法』（νόμος βασιλικός）。",
+      "label_en": "royal",
+      "def_en": "Of a king, royal.",
+      "label_es": "real, regio",
+      "def_es": "Del rey, de la casa real.",
+      "label_sv": "kunglig",
+      "def_sv": "Som hör till konungen eller kungahuset.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒12:20・12:21、ヤコブ2:8。LXX に並行。教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "王の役人",
+      "def_ja": "王に仕える役人（名詞的）。『ある王の役人』『その役人は』。",
+      "label_en": "royal official",
+      "def_en": "An official in the king’s service (as a noun).",
+      "label_es": "funcionario real",
+      "def_es": "Oficial al servicio del rey (uso sustantivo).",
+      "label_sv": "kunglig ämbetsman",
+      "def_sv": "En tjänsteman hos konungen (substantiverat).",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヨハネ4:46・4:49。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 12:20": 1,
+    "ACT 12:21": 1,
+    "JAS 2:8": 1,
+    "JHN 4:46": 2,
+    "JHN 4:49": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（形容詞／王の役人）による。"
+}

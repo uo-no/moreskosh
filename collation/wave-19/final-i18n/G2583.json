@@ -1,0 +1,49 @@
+{
+  "strong": "G2583",
+  "lemma": "κανών",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "範囲・領域",
+      "def_ja": "分担された領域、範囲。『限度を越えてではなく、神が定められた範囲に』『範囲に従って』『わたしたちの定められた領域内で』。",
+      "label_en": "sphere, assigned area",
+      "def_en": "The area assigned to one, one’s sphere.",
+      "label_es": "límite, campo asignado",
+      "def_es": "Zona que se ha repartido a cada uno, ámbito.",
+      "label_sv": "område, tilldelat gebit",
+      "def_sv": "Det område man fått sig tillmätt.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "コリント第二10:13・10:15・10:16。語義2との境界は連続的。LXX・教父の代表例は「規準」の用法で、この語義としては確認していない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "規準・原則",
+      "def_ja": "規準、尺度、原則。『この規準に従って歩む人々』。",
+      "label_en": "rule, standard",
+      "def_en": "A rule, measure or principle.",
+      "label_es": "regla, norma",
+      "def_es": "Regla, medida, principio.",
+      "label_sv": "rättesnöre",
+      "def_sv": "Regel, måttstock, grundsats.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ガラテヤ6:16。LXX、教父に並行。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "2CO 10:13": 1,
+    "2CO 10:15": 1,
+    "2CO 10:16": 1,
+    "GAL 6:16": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（範囲・領域／規準）による。"
+}

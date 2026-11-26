@@ -1,0 +1,32 @@
+{
+  "strong": "G2788",
+  "lemma": "κιθάρα",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "竪琴",
+      "def_ja": "竪琴、琴。『笛や竪琴』『神の竪琴』『竪琴を持ち』『竪琴の音』。",
+      "label_en": "harp",
+      "def_en": "A harp, a lyre.",
+      "label_es": "arpa",
+      "def_es": "Arpa, cítara.",
+      "label_sv": "harpa",
+      "def_sv": "Harpa, lyra.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "コリント第一14:7、黙示録15:2・14:2・5:8。LXX、教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "1CO 14:7": 1,
+    "REV 15:2": 1,
+    "REV 14:2": 1,
+    "REV 5:8": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

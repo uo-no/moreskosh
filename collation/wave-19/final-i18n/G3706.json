@@ -1,0 +1,49 @@
+{
+  "strong": "G3706",
+  "lemma": "ὅρασις",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "幻・示現",
+      "def_ja": "幻、示現。『若者たちは幻を見』『その火の幻の中の馬』。",
+      "label_en": "vision",
+      "def_en": "A vision, an appearance.",
+      "label_es": "visión",
+      "def_es": "Visión, aparición.",
+      "label_sv": "syn",
+      "def_sv": "Syn, uppenbarelse.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒2:17、黙示録9:17。LXX、教父に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "見かけ・姿",
+      "def_ja": "見かけ、外観、姿。『碧玉や赤めのうのように見え』（2回）。",
+      "label_en": "appearance, look",
+      "def_en": "Appearance, outward look.",
+      "label_es": "aspecto",
+      "def_es": "Apariencia, aspecto.",
+      "label_sv": "utseende",
+      "def_sv": "Utseende, yttre.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "黙示録4:3（2回）。LXX、教父に並行。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "ACT 2:17": 1,
+    "REV 4:3#1": 2,
+    "REV 4:3#2": 2,
+    "REV 9:17": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（幻／見かけ）による。"
+}

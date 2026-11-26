@@ -1,0 +1,49 @@
+{
+  "strong": "G1850",
+  "lemma": "ἐξουσιάζω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "権威を持つ・支配する",
+      "def_ja": "権威を持つ、支配する、権利を持つ。『その上に権力をふるう者』『夫のからだは妻が権利をもっている』『妻のからだは夫が権利をもっている』。",
+      "label_en": "to have authority, to rule",
+      "def_en": "To have authority, to exercise rule, to have a right.",
+      "label_es": "tener autoridad, dominar",
+      "def_es": "Tener potestad, gobernar, tener derecho.",
+      "label_sv": "att ha makt, att råda",
+      "def_sv": "Att ha myndighet, härska, ha rätt över.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ22:25、コリント第一7:4（2回）。LXX に並行。教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "支配される",
+      "def_ja": "支配される、とりこにされる（受動）。『何ものにも支配されはしない』。",
+      "label_en": "to be mastered",
+      "def_en": "To be brought under power, to be enslaved (passive).",
+      "label_es": "dejarse dominar",
+      "def_es": "Ser dominado, quedar cautivado (pasiva).",
+      "label_sv": "att låta sig behärskas",
+      "def_sv": "Att bli behärskad, att bli fångad (passiv).",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "コリント第一6:12。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 6:12": 2,
+    "1CO 7:4#1": 1,
+    "1CO 7:4#2": 1,
+    "LUK 22:25": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（権威を持つ／支配される）による。"
+}

@@ -1,0 +1,49 @@
+{
+  "strong": "G1099",
+  "lemma": "γλυκύς",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "甘い",
+      "def_ja": "味が甘い。『口には蜜のように甘かった』『食べると甘かった』。",
+      "label_en": "sweet",
+      "def_en": "Sweet to the taste.",
+      "label_es": "dulce",
+      "def_es": "De sabor dulce.",
+      "label_sv": "söt",
+      "def_sv": "Söt i smaken.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "黙示録10:9・10:10。教父に並行。LXX の代表例（甘い喉）は比喩的で、この語義としては確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "真水の・甘い水",
+      "def_ja": "塩辛くない水、真水。『甘い水と苦い水』『塩水が甘い水を出す』。",
+      "label_en": "fresh (water)",
+      "def_en": "Water that is not salt; fresh water.",
+      "label_es": "dulce (agua)",
+      "def_es": "Agua no salada, agua dulce.",
+      "label_sv": "söt (om vatten)",
+      "def_sv": "Vatten som inte är salt, sötvatten.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヤコブ3:11・3:12。LXX に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "JAS 3:11": 2,
+    "JAS 3:12": 2,
+    "REV 10:9": 1,
+    "REV 10:10": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（味の甘さ／真水）による。"
+}

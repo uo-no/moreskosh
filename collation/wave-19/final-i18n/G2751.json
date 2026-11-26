@@ -1,0 +1,49 @@
+{
+  "strong": "G2751",
+  "lemma": "κείρω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "毛を刈る（羊の）",
+      "def_ja": "羊の毛を刈る。『毛を刈る者の前に』。",
+      "label_en": "to shear (sheep)",
+      "def_en": "To shear the wool of sheep.",
+      "label_es": "trasquilar",
+      "def_es": "Esquilar las ovejas.",
+      "label_sv": "att klippa (får)",
+      "def_sv": "Att klippa ullen av får.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒8:32。LXX、教父に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "髪を切る・剃る",
+      "def_ja": "髪を切る、剃る。『髪の毛を切るか剃るかは』『髪を剃り』『頭を剃った』。",
+      "label_en": "to cut or shave the hair",
+      "def_en": "To cut the hair, to shave.",
+      "label_es": "cortarse o raparse el pelo",
+      "def_es": "Cortar el cabello, rapar.",
+      "label_sv": "att klippa eller raka håret",
+      "def_sv": "Att klippa håret, att raka.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "コリント第一11:6（2回）、使徒18:18。LXX に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "1CO 11:6#1": 2,
+    "1CO 11:6#2": 2,
+    "ACT 18:18": 2,
+    "ACT 8:32": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は対象（羊の毛／髪）による。"
+}

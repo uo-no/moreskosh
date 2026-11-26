@@ -1,0 +1,49 @@
+{
+  "strong": "G2356",
+  "lemma": "θρησκεία",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "宗教・信心",
+      "def_ja": "宗教、信心の形。『われわれの宗教の最も厳格な派』『むなしい信心』『きよい信心』。",
+      "label_en": "religion, piety",
+      "def_en": "Religion, a form of devotion.",
+      "label_es": "religión",
+      "def_es": "Religión, forma de piedad.",
+      "label_sv": "religion, fromhet",
+      "def_sv": "Religion, gudsdyrkans form.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒26:5、ヤコブ1:26・1:27。語義2との境界は連続的。LXX・教父の代表例では礼拝の用法を確認しており、この語義としては確認していない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "礼拝",
+      "def_ja": "礼拝、崇拝。『御使い礼拝』。",
+      "label_en": "worship",
+      "def_en": "Worship, veneration.",
+      "label_es": "culto",
+      "def_es": "Culto, veneración.",
+      "label_sv": "tillbedjan",
+      "def_sv": "Dyrkan, tillbedjan.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "コロサイ2:18。LXX、教父に並行。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "ACT 26:5": 1,
+    "COL 2:18": 2,
+    "JAS 1:26": 1,
+    "JAS 1:27": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（宗教・信心／礼拝）による。"
+}

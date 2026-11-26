@@ -1,0 +1,49 @@
+{
+  "strong": "G4116",
+  "lemma": "πλατεῖα",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "広い通り・街路",
+      "def_ja": "広い通り、街路。『大通り』『町の広場』『広場で』。",
+      "label_en": "broad street",
+      "def_en": "A wide street.",
+      "label_es": "plaza, calle ancha",
+      "def_es": "Calle ancha.",
+      "label_sv": "gata, bred väg",
+      "def_sv": "En bred gata.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ13:26、マタイ12:19・6:5。LXX に並行。教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "広い（門・道）",
+      "def_ja": "広い（形容詞）。『広い道』。",
+      "label_en": "broad (gate, way)",
+      "def_en": "Broad (adjective).",
+      "label_es": "ancho (puerta, camino)",
+      "def_es": "Ancho (adjetivo).",
+      "label_sv": "bred (port, väg)",
+      "def_sv": "Bred (adjektiv).",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マタイ7:13。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "LUK 13:26": 1,
+    "MAT 12:19": 1,
+    "MAT 7:13": 2,
+    "MAT 6:5": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（広い通り／広い門・道）による。"
+}

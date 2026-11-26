@@ -1,0 +1,49 @@
+{
+  "strong": "G2759",
+  "lemma": "κέντρον",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "とげ・針",
+      "def_ja": "とげ、針。『死よ、おまえのとげはどこにあるのか』『さそりのような尾と針』。",
+      "label_en": "sting",
+      "def_en": "A sting, a prick.",
+      "label_es": "aguijón",
+      "def_es": "Aguijón, pincho.",
+      "label_sv": "gadd",
+      "def_sv": "Gadd, udd.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "コリント第一15:55・15:56、黙示録9:10。LXX に並行。教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "突き棒",
+      "def_ja": "家畜を駆る突き棒。『とげのついた棒を蹴るのは』。",
+      "label_en": "goad",
+      "def_en": "A goad for driving cattle.",
+      "label_es": "aguijada",
+      "def_es": "Vara con punta para arrear el ganado.",
+      "label_sv": "pikstav",
+      "def_sv": "Pikstav att driva på boskap med.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒26:14。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 15:55": 1,
+    "1CO 15:56": 1,
+    "ACT 26:14": 2,
+    "REV 9:10": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（とげ・針／突き棒）による。"
+}

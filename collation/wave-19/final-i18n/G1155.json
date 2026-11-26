@@ -1,0 +1,49 @@
+{
+  "strong": "G1155",
+  "lemma": "δανείζω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "貸す",
+      "def_ja": "金を貸す。『返してもらうつもりで貸すなら』『貸すがよい』『貸したり』。",
+      "label_en": "to lend",
+      "def_en": "To lend money.",
+      "label_es": "prestar",
+      "def_es": "Prestar dinero.",
+      "label_sv": "att låna ut",
+      "def_sv": "Att låna ut pengar.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ6:34（2回）・6:35。LXX に並行。教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "借りる（中動）",
+      "def_ja": "中動態で、金を借りる。『借りようとする者を断るな』。",
+      "label_en": "to borrow (middle)",
+      "def_en": "In the middle voice: to borrow money.",
+      "label_es": "tomar prestado (voz media)",
+      "def_es": "En voz media: pedir dinero prestado.",
+      "label_sv": "att låna (medium)",
+      "def_sv": "I medium: att låna pengar av någon.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マタイ5:42。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "LUK 6:34#1": 1,
+    "LUK 6:34#2": 1,
+    "LUK 6:35": 1,
+    "MAT 5:42": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（貸す／借りる）による。"
+}

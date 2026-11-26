@@ -1,0 +1,49 @@
+{
+  "strong": "G4087",
+  "lemma": "πικραίνω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "苦くする・つらく当たる",
+      "def_ja": "苦くする、辛く当たる。『つらく当たってはいけない』。",
+      "label_en": "to embitter, to treat harshly",
+      "def_en": "To make bitter, to deal harshly with.",
+      "label_es": "amargar, ser áspero",
+      "def_es": "Agriar, tratar con dureza.",
+      "label_sv": "att förbittra, att vara hård mot",
+      "def_sv": "Att göra bitter, att behandla hårt.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "コロサイ3:19。語義2との境界は連続的。LXX・教父の代表例は「苦くなる」の用法で、この語義としては確認していない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "苦くなる・苦くする（味）",
+      "def_ja": "味が苦くなる、苦くする。『腹には苦いが』『腹には苦くなった』『水の三分の一は苦くなり』。",
+      "label_en": "to turn bitter (taste)",
+      "def_en": "To become or make bitter to the taste.",
+      "label_es": "amargar (sabor)",
+      "def_es": "Volverse o hacer amargo al gusto.",
+      "label_sv": "att bli besk (smak)",
+      "def_sv": "Att få besk smak, att göra besk.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "黙示録10:9・10:10・8:11。LXX、教父に並行。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "COL 3:19": 1,
+    "REV 10:9": 2,
+    "REV 10:10": 2,
+    "REV 8:11": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（つらく当たる／味が苦い）による。"
+}

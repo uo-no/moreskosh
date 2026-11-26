@@ -1,0 +1,49 @@
+{
+  "strong": "G3100",
+  "lemma": "μαθητεύω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "弟子にする",
+      "def_ja": "弟子にする、弟子とする。『すべての国民を弟子としなさい』『多くの人を弟子とした』。",
+      "label_en": "to make disciples",
+      "def_en": "To make someone a disciple.",
+      "label_es": "hacer discípulos",
+      "def_es": "Hacer de alguien un discípulo.",
+      "label_sv": "att göra till lärjungar",
+      "def_sv": "Att göra någon till lärjunge.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "マタイ28:19、使徒14:21。教父に並行。LXX の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "弟子となる・訓練される",
+      "def_ja": "弟子となる、訓練を受ける。『天国のことを学んだ律法学者』『イエスの弟子になっていた』。",
+      "label_en": "to become a disciple, to be trained",
+      "def_en": "To become a disciple, to receive training.",
+      "label_es": "hacerse discípulo, ser instruido",
+      "def_es": "Llegar a ser discípulo, recibir formación.",
+      "label_sv": "att bli lärjunge, att få undervisning",
+      "def_sv": "Att bli en lärjunge, att skolas.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マタイ13:52・27:57。語義1との境界は連続的。LXX の用例なし。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 14:21": 1,
+    "MAT 13:52": 2,
+    "MAT 28:19": 1,
+    "MAT 27:57": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（弟子にする／弟子となる）による。"
+}

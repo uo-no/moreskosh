@@ -1,0 +1,56 @@
+{
+  "strong": "G645",
+  "lemma": "ἀποσπάω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "引き抜く・引き離す",
+      "def_ja": "剣を引き抜く、弟子たちを引き離す。『剣を抜いて』『弟子たちを引き込んで』。",
+      "label_en": "to draw out, to draw away",
+      "def_en": "To draw a sword; to draw disciples away.",
+      "label_es": "sacar, arrastrar tras sí",
+      "def_es": "Desenvainar la espada; arrastrar a los discípulos.",
+      "label_sv": "att dra ut, att dra bort",
+      "def_sv": "Att dra svärdet; att dra lärjungar till sig.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "マタイ26:51、使徒20:30。LXX、教父に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "離れる・別れる",
+      "def_ja": "別れる、離れる。『彼らから別れて』『石を投げて届くほど離れて』。",
+      "label_en": "to withdraw, to part",
+      "def_en": "To part from, to separate.",
+      "label_es": "apartarse, separarse",
+      "def_es": "Alejarse, separarse de otros.",
+      "label_sv": "att skiljas, att avlägsna sig",
+      "def_sv": "Att skilja sig från, att dra sig undan.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒21:1、ルカ22:41。LXX に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "ACT 20:30": 1,
+    "ACT 21:1": 2,
+    "LUK 22:41": 2,
+    "MAT 26:51": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（引き抜く・引き離す／離れる）による。ἀπησπασάμεθα の形は本レンマへ割り当てない。",
+  "excluded": [
+    {
+      "ref": "ACT 21:6",
+      "form": "ἀπησπασάμεθα",
+      "reason": "形 ἀπησπασάμεθα は ἀπασπάζομαι のアオリスト中態の形で、本レンマの形ではない。底本の読み自体が NA28 と異なる点も含め、データ側の扱いは別途データ修正で扱う。"
+    }
+  ]
+}

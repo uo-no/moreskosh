@@ -1,0 +1,32 @@
+{
+  "strong": "G1587",
+  "lemma": "ἐκλείπω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "絶える・尽きる",
+      "def_ja": "絶える、尽きる、欠ける（日食を含む）。『それらは尽きる』『富がなくなる時』『太陽は光を失い』『あなたの信仰がなくならないように』。",
+      "label_en": "to fail, to come to an end",
+      "def_en": "To cease, to run out, to fail (including an eclipse of the sun).",
+      "label_es": "faltar, acabarse",
+      "def_es": "Cesar, agotarse, fallar (incluido el eclipse del sol).",
+      "label_sv": "att upphöra, att ta slut",
+      "def_sv": "Att sina, tryta, svika (även om solförmörkelse).",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヘブル1:12、ルカ16:9・23:45・22:32。LXX に並行。教父の代表例は用法の対応が確認できず、確認していない。単一語義。"
+    }
+  ],
+  "assignments": {
+    "HEB 1:12": 1,
+    "LUK 16:9": 1,
+    "LUK 23:45": 1,
+    "LUK 22:32": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

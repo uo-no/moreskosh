@@ -1,0 +1,32 @@
+{
+  "strong": "G2554",
+  "lemma": "κακοποιέω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "悪を行う・害する",
+      "def_ja": "悪を行う、害を加える。『悪を行って苦しむ』『悪を行う者は』『悪を行うことか』『悪を行う者は神を見ていない』。",
+      "label_en": "to do evil, to harm",
+      "def_en": "To do wrong, to do harm.",
+      "label_es": "hacer el mal, dañar",
+      "def_es": "Obrar mal, causar daño.",
+      "label_sv": "att göra ont, att skada",
+      "def_sv": "Att handla illa, att tillfoga skada.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ペテロ第一3:17、ヨハネ第三11、ルカ6:9、マルコ3:4。LXX に並行。教父の用例なし。単一語義。"
+    }
+  ],
+  "assignments": {
+    "1PE 3:17": 1,
+    "3JN 1:11": 1,
+    "LUK 6:9": 1,
+    "MRK 3:4": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

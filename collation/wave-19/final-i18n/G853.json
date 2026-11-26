@@ -1,0 +1,67 @@
+{
+  "strong": "G853",
+  "lemma": "ἀφανίζω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "滅ぼす・損なう",
+      "def_ja": "滅ぼす、損なう（虫や錆びが）。『虫が食い、さびがつき』『虫もさびもつかず』。",
+      "label_en": "to destroy, to spoil",
+      "def_en": "To destroy or spoil (as moth and rust do).",
+      "label_es": "destruir, corromper",
+      "def_es": "Destruir, dañar (la polilla o el orín).",
+      "label_sv": "att förstöra",
+      "def_sv": "Att förstöra, fördärva (om mal och rost).",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "マタイ6:19・6:20。LXX に並行。教父の代表例では確認していない。語義2・3との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "やつれさせる",
+      "def_ja": "顔を損なう（断食で）。『顔を見苦しくして』。",
+      "label_en": "to disfigure",
+      "def_en": "To disfigure the face (in fasting).",
+      "label_es": "demudar",
+      "def_es": "Desfigurar el rostro (al ayunar).",
+      "label_sv": "att vanställa",
+      "def_sv": "Att vanställa ansiktet (vid fasta).",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マタイ6:16。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "滅びる・消える",
+      "def_ja": "消え失せる、滅びる。『滅びよ』『しばらくの間あらわれて消えてしまう霧』。",
+      "label_en": "to perish, to vanish",
+      "def_en": "To vanish away, to perish.",
+      "label_es": "perecer, desvanecerse",
+      "def_es": "Desaparecer, perecer.",
+      "label_sv": "att förgås, att försvinna",
+      "def_sv": "Att försvinna, att gå under.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒13:41、ヤコブ4:14。LXX に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "ACT 13:41": 3,
+    "JAS 4:14": 3,
+    "MAT 6:16": 2,
+    "MAT 6:19": 1,
+    "MAT 6:20": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（滅ぼす／やつれさせる／滅びる）による。"
+}

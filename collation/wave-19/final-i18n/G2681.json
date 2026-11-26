@@ -1,0 +1,49 @@
+{
+  "strong": "G2681",
+  "lemma": "κατασκηνόω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "巣を作る・宿る",
+      "def_ja": "巣を作る、宿る、住む。『空の鳥が来てその枝に宿る』『その枝に巣をつくる』『巣をつくるほどになる』。",
+      "label_en": "to nest, to lodge",
+      "def_en": "To make a nest, to lodge, to dwell.",
+      "label_es": "anidar, morar",
+      "def_es": "Hacer nido, alojarse, habitar.",
+      "label_sv": "att bygga bo, att bo",
+      "def_sv": "Att göra sig ett bo, att ta in, att bo.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ルカ13:19、マタイ13:32、マルコ4:32。LXX、教父に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "住まう（望みのうちに）",
+      "def_ja": "住まう、宿る。『わたしの肉体も望みのうちに安らう』。",
+      "label_en": "to dwell (in hope)",
+      "def_en": "To dwell, to lodge.",
+      "label_es": "reposar (en esperanza)",
+      "def_es": "Habitar, descansar.",
+      "label_sv": "att vila (i hoppet)",
+      "def_sv": "Att bo, att vistas.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒2:26。LXX、教父に並行。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "ACT 2:26": 2,
+    "LUK 13:19": 1,
+    "MAT 13:32": 1,
+    "MRK 4:32": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（鳥の巣作り／住まう）による。"
+}

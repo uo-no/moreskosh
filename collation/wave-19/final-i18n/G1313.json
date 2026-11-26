@@ -1,0 +1,49 @@
+{
+  "strong": "G1313",
+  "lemma": "διάφορος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "まさる・すぐれた",
+      "def_ja": "まさった、すぐれた。『彼らよりもまさった名』『いっそうすぐれた務め』。",
+      "label_en": "superior, more excellent",
+      "def_en": "Surpassing, more excellent.",
+      "label_es": "superior, más excelente",
+      "def_es": "Que aventaja, mejor.",
+      "label_sv": "förmer, förträffligare",
+      "def_sv": "Överlägsen, ypperligare.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヘブル1:4・8:6。LXX、教父に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "さまざまな・異なる",
+      "def_ja": "さまざまな、異なる。『さまざまな洗い』『与えられた恵みによって異なる賜物』。",
+      "label_en": "various, different",
+      "def_en": "Various, differing.",
+      "label_es": "diverso, diferente",
+      "def_es": "De varias clases, distinto.",
+      "label_sv": "olika",
+      "def_sv": "Olikartad, skiftande.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヘブル9:10、ローマ12:6。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "HEB 1:4": 1,
+    "HEB 8:6": 1,
+    "HEB 9:10": 2,
+    "ROM 12:6": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（すぐれた／さまざまな）による。"
+}

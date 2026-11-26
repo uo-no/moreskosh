@@ -1,0 +1,49 @@
+{
+  "strong": "G3822",
+  "lemma": "παλαιόω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "古びる・すり切れる",
+      "def_ja": "古くなる、すり切れる。『衣のように古びる』『古びない財布』。",
+      "label_en": "to grow old, to wear out",
+      "def_en": "To become old, to wear out.",
+      "label_es": "envejecer, gastarse",
+      "def_es": "Hacerse viejo, desgastarse.",
+      "label_sv": "att åldras, att nötas ut",
+      "def_sv": "Att bli gammal, att bli utsliten.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヘブル1:11、ルカ12:33。LXX、教父に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "古くする・時代遅れにする",
+      "def_ja": "古いものとする、廃れさせる。『初めの契約を古いものとされた』『古びて衰えるものは』。",
+      "label_en": "to make obsolete",
+      "def_en": "To treat as old, to render out of date.",
+      "label_es": "dar por viejo, hacer anticuado",
+      "def_es": "Declarar antiguo, dejar en desuso.",
+      "label_sv": "att förklara föråldrad",
+      "def_sv": "Att göra till något gammalt, att göra överspelad.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヘブル8:13（2回）。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "HEB 1:11": 1,
+    "HEB 8:13#1": 2,
+    "HEB 8:13#2": 2,
+    "LUK 12:33": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（古びる／古いものとする）による。"
+}

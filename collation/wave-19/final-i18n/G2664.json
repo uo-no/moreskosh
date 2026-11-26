@@ -1,0 +1,49 @@
+{
+  "strong": "G2664",
+  "lemma": "καταπαύω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "休ませる・休む",
+      "def_ja": "休ませる、休む、安息を与える。『神は…休まれた』『ヨシュアが彼らに安息を与えたのであれば』『神がみわざを終えて休まれたように』。",
+      "label_en": "to give rest, to rest",
+      "def_en": "To give rest, to rest, to grant repose.",
+      "label_es": "dar reposo, descansar",
+      "def_es": "Hacer descansar, reposar, conceder descanso.",
+      "label_sv": "att ge vila, att vila",
+      "def_sv": "Att låta vila, att vila, att skänka ro.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヘブル4:4・4:8・4:10。LXX、教父に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "やめさせる・制止する",
+      "def_ja": "やめさせる、制止する。『群衆をやっとのことで押しとどめた』。",
+      "label_en": "to stop, to restrain",
+      "def_en": "To make someone cease, to restrain.",
+      "label_es": "hacer desistir, contener",
+      "def_es": "Hacer que se deje de hacer algo, refrenar.",
+      "label_sv": "att hindra, att avhålla",
+      "def_sv": "Att få att upphöra, att hejda.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒14:18。LXX に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "ACT 14:18": 2,
+    "HEB 4:4": 1,
+    "HEB 4:8": 1,
+    "HEB 4:10": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（休む／やめさせる）による。"
+}

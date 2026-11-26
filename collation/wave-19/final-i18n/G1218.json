@@ -1,0 +1,32 @@
+{
+  "strong": "G1218",
+  "lemma": "δῆμος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "民衆",
+      "def_ja": "民衆、群衆（集会に集まる民）。『群衆は…叫んだ』『民衆を煽動し』『民衆に向かって弁明しようとした』『群衆の前で』。",
+      "label_en": "the people, crowd",
+      "def_en": "The populace, a crowd (people gathered in assembly).",
+      "label_es": "pueblo",
+      "def_es": "El pueblo, la multitud (reunida en asamblea).",
+      "label_sv": "folket, folkmassan",
+      "def_sv": "Folket, mängden (samlad till möte).",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒12:22・17:5・19:30・19:33。LXX、教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "ACT 12:22": 1,
+    "ACT 17:5": 1,
+    "ACT 19:30": 1,
+    "ACT 19:33": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

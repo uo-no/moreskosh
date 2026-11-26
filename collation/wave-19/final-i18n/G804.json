@@ -1,0 +1,50 @@
+{
+  "strong": "G804",
+  "lemma": "ἀσφαλής",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "正確な・確かな",
+      "def_ja": "確かな事実、正確なこと。『確かな事実を知りたくて』『確かなことを…書くこと』『確かなことを知ろうとして』。",
+      "label_en": "certain, accurate",
+      "def_en": "What is certain, the exact facts.",
+      "label_es": "cierto, exacto",
+      "def_es": "Hechos seguros, lo exacto.",
+      "label_sv": "säker, tillförlitlig",
+      "def_sv": "Säkra fakta, det exakta förhållandet.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "使徒22:30・25:26・21:34。教父に並行。LXX の代表例は用法の対応が確認できず、確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "安全な・堅固な",
+      "def_ja": "確かな、堅固な。『安全で確かな錨』『あなたがたには安全なことです』。",
+      "label_en": "safe, firm",
+      "def_en": "Sure, firm.",
+      "label_es": "seguro, firme",
+      "def_es": "Firme, sólido.",
+      "label_sv": "trygg, fast",
+      "def_sv": "Säker, stadig.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヘブル6:19、ピリピ3:1。LXX に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "ACT 22:30": 1,
+    "ACT 25:26": 1,
+    "ACT 21:34": 1,
+    "HEB 6:19": 2,
+    "PHP 3:1": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（確かな事実／安全・堅固）による。"
+}

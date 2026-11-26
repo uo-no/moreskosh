@@ -1,0 +1,50 @@
+{
+  "strong": "G727",
+  "lemma": "ἅρπαξ",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "強奪する者",
+      "def_ja": "強奪する者、略奪者。『貪欲な者、略奪する者』『強奪する者』『貪欲な者、略奪する者』『強奪する者』。",
+      "label_en": "swindler, robber",
+      "def_en": "One who seizes by force, a plunderer.",
+      "label_es": "ladrón, rapaz",
+      "def_es": "El que arrebata, saqueador.",
+      "label_sv": "rövare, utsugare",
+      "def_sv": "En som roffar åt sig, plundrare.",
+      "layers": {
+        "nt": 4,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "コリント第一5:10・5:11・6:10、ルカ18:11。教父に並行。語義2との境界は連続的。LXX の代表例は「獰猛な」の用法で、この語義としては確認していない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "貪り食う・強欲な（形容詞）",
+      "def_ja": "貪欲な、強欲な。『内側は貪欲なおおかみ』。",
+      "label_en": "ravenous, greedy (adjective)",
+      "def_en": "Rapacious, grasping.",
+      "label_es": "rapaz, voraz (adjetivo)",
+      "def_es": "Codicioso, rapaz.",
+      "label_sv": "glupsk, rovlysten (adjektiv)",
+      "def_sv": "Rovgirig, lysten.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "マタイ7:15。LXX（獰猛な狼）に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "1CO 5:10": 1,
+    "1CO 5:11": 1,
+    "1CO 6:10": 1,
+    "LUK 18:11": 1,
+    "MAT 7:15": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（強奪者／貪欲な）による。"
+}

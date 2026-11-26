@@ -1,0 +1,66 @@
+{
+  "strong": "G2845",
+  "lemma": "κοίτη",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "寝床",
+      "def_ja": "寝床、床。『寝床を汚してはならない』『子供たちもわたしと一緒に寝床に』。",
+      "label_en": "bed",
+      "def_en": "A bed, a couch.",
+      "label_es": "lecho",
+      "def_es": "Cama, lecho.",
+      "label_sv": "säng",
+      "def_sv": "Säng, bädd.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヘブル13:4、ルカ11:7。LXX、教父に並行。語義2・3との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "放蕩（寝床の）",
+      "def_ja": "不品行を指す寝床の用法。『みだらな行為』。",
+      "label_en": "licentiousness (of the bed)",
+      "def_en": "A use of “bed” for sexual immorality.",
+      "label_es": "lujuria (del lecho)",
+      "def_es": "Uso de «lecho» para designar la inmoralidad sexual.",
+      "label_sv": "otukt (sängens)",
+      "def_sv": "Bruk av ”säng” om sexuell omoral.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ローマ13:13。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "身ごもること",
+      "def_ja": "身ごもること、懐胎。『ひとりの人によって身ごもり』。",
+      "label_en": "conception",
+      "def_en": "Conceiving a child.",
+      "label_es": "concepción",
+      "def_es": "El concebir.",
+      "label_sv": "havandeskap",
+      "def_sv": "Att bli havande, avlelse.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ローマ9:10。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "HEB 13:4": 1,
+    "LUK 11:7": 1,
+    "ROM 13:13": 2,
+    "ROM 9:10": 3
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（寝床／放蕩／身ごもる）による。"
+}

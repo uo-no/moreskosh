@@ -1,0 +1,32 @@
+{
+  "strong": "G2898",
+  "lemma": "κρανίον",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "頭蓋骨",
+      "def_ja": "どくろ、頭蓋骨（「されこうべの場所」）。『されこうべという場所』『ゴルゴタ』『ゴルゴタ、すなわち頭蓋骨の場所』。",
+      "label_en": "skull",
+      "def_en": "A skull (“the Place of the Skull”).",
+      "label_es": "calavera",
+      "def_es": "Cráneo, calavera («el lugar de la Calavera»).",
+      "label_sv": "skalle",
+      "def_sv": "Huvudskalle (”Huvudskalleplatsen”).",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヨハネ19:17、ルカ23:33、マタイ27:33、マルコ15:22。LXX に並行。教父の用例なし。単一語義。"
+    }
+  ],
+  "assignments": {
+    "JHN 19:17": 1,
+    "LUK 23:33": 1,
+    "MAT 27:33": 1,
+    "MRK 15:22": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

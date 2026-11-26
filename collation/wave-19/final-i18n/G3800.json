@@ -1,0 +1,49 @@
+{
+  "strong": "G3800",
+  "lemma": "ὀψώνιον",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "費用・兵糧",
+      "def_ja": "兵士の費用、支給。『自費で兵役に服する者がいようか』『わたしは…援助を受け』『自分の給料で満足せよ』。",
+      "label_en": "pay, provisions",
+      "def_en": "A soldier’s expenses, allowance.",
+      "label_es": "paga, provisiones",
+      "def_es": "Gastos del soldado, estipendio.",
+      "label_sv": "underhåll, sold",
+      "def_sv": "Soldatens underhåll, anslag.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "コリント第一9:7、コリント第二11:8、ルカ3:14。LXX、教父に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "報酬",
+      "def_ja": "罪が支払う報酬。『罪の支払う報酬は死である』。",
+      "label_en": "wages",
+      "def_en": "The wages that sin pays.",
+      "label_es": "salario, paga",
+      "def_es": "La paga que da el pecado.",
+      "label_sv": "lön",
+      "def_sv": "Den lön som synden ger.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ローマ6:23。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 9:7": 1,
+    "2CO 11:8": 1,
+    "LUK 3:14": 1,
+    "ROM 6:23": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（費用・給与／報酬）による。"
+}

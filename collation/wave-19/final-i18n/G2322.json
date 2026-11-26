@@ -1,0 +1,55 @@
+{
+  "strong": "G2322",
+  "lemma": "θεραπεία",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "癒し",
+      "def_ja": "病を癒すこと。『病気の者をいやしておられた』『木の葉は諸国民をいやす』。",
+      "label_en": "healing",
+      "def_en": "The healing of sickness.",
+      "label_es": "curación",
+      "def_es": "El sanar enfermedades.",
+      "label_sv": "helande, läkedom",
+      "def_sv": "Att bota sjukdom.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ルカ9:11、黙示録22:2。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "召使いたち・家の者",
+      "def_ja": "召使いたち、家の者。『その家の者たちの上に』。",
+      "label_en": "household servants",
+      "def_en": "Servants, the members of a household.",
+      "label_es": "servidumbre",
+      "def_es": "Los criados, la gente de la casa.",
+      "label_sv": "tjänstefolk",
+      "def_sv": "Tjänarna, husfolket.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ルカ12:42。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "LUK 12:42": 2,
+    "LUK 9:11": 1,
+    "REV 22:2": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（癒し／召使いたち）による。οἰκετείας の形は本レンマへ割り当てない。",
+  "excluded": [
+    {
+      "ref": "MAT 24:45",
+      "form": "οἰκετείας",
+      "reason": "形 οἰκετείας の lemma はデータの lemma 欄でも οἰκετεία で、本レンマの形ではない。番号の扱いは別途データ修正で扱う。"
+    }
+  ]
+}

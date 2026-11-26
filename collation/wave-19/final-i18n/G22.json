@@ -1,0 +1,32 @@
+{
+  "strong": "G22",
+  "lemma": "ἄγαμος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "未婚の",
+      "def_ja": "未婚の（独身の）。『未婚者』『独身のままでいなさい』『未婚の男』『未婚の女』。",
+      "label_en": "unmarried",
+      "def_en": "Not married, single.",
+      "label_es": "no casado, soltero",
+      "def_es": "Que no está casado.",
+      "label_sv": "ogift",
+      "def_sv": "Ogift, ensamstående.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "コリント第一7:8・7:11・7:32・7:34。LXX に並行。教父の用例なし。単一語義。"
+    }
+  ],
+  "assignments": {
+    "1CO 7:8": 1,
+    "1CO 7:11": 1,
+    "1CO 7:32": 1,
+    "1CO 7:34": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

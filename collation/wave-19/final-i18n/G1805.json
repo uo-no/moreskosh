@@ -1,0 +1,49 @@
+{
+  "strong": "G1805",
+  "lemma": "ἐξαγοράζω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "買い戻す・贖い出す",
+      "def_ja": "買い戻す、贖い出す。『律法の下にある者を贖い出して』『わたしたちを贖い出してくださった』。",
+      "label_en": "to redeem",
+      "def_en": "To buy back, to redeem.",
+      "label_es": "redimir, rescatar",
+      "def_es": "Recomprar, rescatar.",
+      "label_sv": "att friköpa",
+      "def_sv": "Att köpa tillbaka, att lösköpa.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ガラテヤ4:5・3:13。語義2との境界は連続的。LXX・教父の代表例は「時を買い取る」の用法で、この語義としては確認していない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "時を生かして用いる",
+      "def_ja": "時を買い取る（有効に用いる）。『時をよく用いなさい』『機会を十分に生かし』。",
+      "label_en": "to make the most of the time",
+      "def_en": "To buy up the time (to use it well).",
+      "label_es": "aprovechar el tiempo",
+      "def_es": "Rescatar el tiempo (emplearlo bien).",
+      "label_sv": "att ta vara på tiden",
+      "def_sv": "Att köpa upp tiden (att bruka den väl).",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "コロサイ4:5、エペソ5:16。LXX、教父に並行。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "COL 4:5": 2,
+    "EPH 5:16": 2,
+    "GAL 4:5": 1,
+    "GAL 3:13": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（贖い出す／時を買い取る）による。"
+}

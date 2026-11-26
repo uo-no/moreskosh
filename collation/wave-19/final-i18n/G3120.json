@@ -1,0 +1,49 @@
+{
+  "strong": "G3120",
+  "lemma": "μαλακός",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "柔らかい（衣）",
+      "def_ja": "柔らかい（衣）。『柔らかい着物を着た人』『柔らかい着物』。",
+      "label_en": "soft (clothing)",
+      "def_en": "Soft (of clothing).",
+      "label_es": "delicado (vestido)",
+      "def_es": "Suave, delicado (dicho de la ropa).",
+      "label_sv": "mjuk (om kläder)",
+      "def_sv": "Mjuk, fin (om klädnad).",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ7:25、マタイ11:8（2回）。LXX に並行（穏やかな）。教父の代表例では確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "男娼／受動の者",
+      "def_ja": "同性間の関係で受動の側に立つ男、男娼を指す語。コリント第一6:9 で ἀρσενοκοῖται（能動の側）と対をなす。より広く『柔弱な者』と取る解釈もあるが、語の用例と対の構造から、BDAG と同じく性的な受動の語義として立てる。",
+      "label_en": "male prostitute, passive partner",
+      "def_en": "A word for a man who takes the passive side in a same-sex relation, a male prostitute. In 1 Corinthians 6:9 it forms a pair with ἀρσενοκοῖται (the active side). Some take it more broadly as “a soft, effeminate person”, but on the evidence of usage and the paired structure it is set up, as in BDAG, as a sense denoting the sexually passive party.",
+      "label_es": "prostituto, parte pasiva",
+      "def_es": "Término para el varón que ocupa el papel pasivo en una relación entre personas del mismo sexo, o prostituto. En 1 Corintios 6:9 forma pareja con ἀρσενοκοῖται (el papel activo). Hay quien lo entiende más ampliamente como «persona blanda o afeminada», pero, por el uso del vocablo y la estructura en pareja, se establece, como en BDAG, la acepción de parte sexualmente pasiva.",
+      "label_sv": "manlig prostituerad, den mottagande parten",
+      "def_sv": "Ett ord för en man som intar den passiva rollen i en samkönad förbindelse, en manlig prostituerad. I 1 Korintierbrevet 6:9 bildar det par med ἀρσενοκοῖται (den aktiva rollen). Det finns även en vidare tolkning, ”en vek, veklig person”, men utifrån ordets användning och parkonstruktionen uppställs det, liksom i BDAG, som en betydelse för den sexuellt mottagande parten.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "コリント第一6:9。BDAG 最終パス（2026-11-26）で、BDAG がこの語義を独立させることを確認し、定義を明確化した（下書きの定義は『指す対象の範囲は決定しない』としていた）。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 6:9": 2,
+    "LUK 7:25": 1,
+    "MAT 11:8#1": 1,
+    "MAT 11:8#2": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（柔らかい衣／コリント第一6:9）による。コリント第一6:9 は決定しない。"
+}

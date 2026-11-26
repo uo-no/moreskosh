@@ -1,0 +1,49 @@
+{
+  "strong": "G1620",
+  "lemma": "ἐκτίθημι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "説明する・述べる",
+      "def_ja": "事を説明する、詳しく述べる。『事のいきさつを順序正しく説明した』『さらに詳しく説明した』『説明して』。",
+      "label_en": "to explain, to set forth",
+      "def_en": "To explain a matter, to expound in detail.",
+      "label_es": "exponer, explicar",
+      "def_es": "Explicar un asunto, exponerlo con detalle.",
+      "label_sv": "att förklara, att lägga fram",
+      "def_sv": "Att redogöra för en sak, att utförligt framställa.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒11:4・18:26・28:23。LXX（「布告する・述べる」）に並行。教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "捨てる・放置する",
+      "def_ja": "捨てる、野に置く。『捨てられた時』。",
+      "label_en": "to expose, to abandon",
+      "def_en": "To put out, to leave exposed.",
+      "label_es": "exponer, abandonar",
+      "def_es": "Desechar, dejar expuesto.",
+      "label_sv": "att sätta ut, att överge",
+      "def_sv": "Att kasta ut, att lämna ute.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒7:21。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 11:4": 1,
+    "ACT 18:26": 1,
+    "ACT 28:23": 1,
+    "ACT 7:21": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（説明する／捨てる）による。"
+}

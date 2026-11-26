@@ -1,0 +1,49 @@
+{
+  "strong": "G3471",
+  "lemma": "μωραίνω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "愚かにする・愚かになる",
+      "def_ja": "愚かにする、愚かになる。『この世の知恵を愚かにされたではないか』『愚かな者となり』。",
+      "label_en": "to make foolish, to become foolish",
+      "def_en": "To make foolish; to become a fool.",
+      "label_es": "enloquecer, volverse necio",
+      "def_es": "Hacer necio; hacerse necio.",
+      "label_sv": "att göra till dårskap, att bli dåraktig",
+      "def_sv": "Att göra dåraktig; att bli en dåre.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "コリント第一1:20、ローマ1:22。LXX に並行。教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "味を失う",
+      "def_ja": "塩が塩気を失う。『塩がもしききめがなくなったら』『塩けがなくなったら』。",
+      "label_en": "to lose its taste",
+      "def_en": "For salt to lose its saltiness.",
+      "label_es": "desvanecerse (la sal)",
+      "def_es": "Perder la sal su sabor.",
+      "label_sv": "att mista sin sälta",
+      "def_sv": "Att saltet förlorar sin kraft.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ルカ14:34、マタイ5:13。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 1:20": 1,
+    "LUK 14:34": 2,
+    "MAT 5:13": 2,
+    "ROM 1:22": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（愚かになる／味を失う）による。"
+}

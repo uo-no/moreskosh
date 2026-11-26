@@ -1,0 +1,50 @@
+{
+  "strong": "G916",
+  "lemma": "βαρέω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "重荷を負わせる",
+      "def_ja": "重荷を負わせる、圧迫する（受動：重荷を負う）。『教会に負担をかけず』『非常に重荷を負って』『重荷を負ってうめいている』。",
+      "label_en": "to burden",
+      "def_en": "To lay a burden on, to weigh down (passive: to be burdened).",
+      "label_es": "cargar, agobiar",
+      "def_es": "Oprimir con una carga (pasiva: estar abrumado).",
+      "label_sv": "att betunga",
+      "def_sv": "Att tynga, trycka ner (passiv: att vara betungad).",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "テモテ第一5:16、コリント第二1:8・5:4。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "重くなる（目・心が）",
+      "def_ja": "目や心が重くなる。『ひどく眠くなっていた』『目が重くなっていた』。",
+      "label_en": "to grow heavy (eyes, heart)",
+      "def_en": "For eyes or heart to become heavy.",
+      "label_es": "cargarse (ojos, corazón)",
+      "def_es": "Ponerse pesados los ojos o el corazón.",
+      "label_sv": "att bli tung (ögon, hjärta)",
+      "def_sv": "Att ögon eller hjärta tyngs.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ9:32、マタイ26:43。LXX（「心が重い」）に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "1TI 5:16": 1,
+    "2CO 1:8": 1,
+    "2CO 5:4": 1,
+    "LUK 9:32": 2,
+    "MAT 26:43": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（重荷を負わせる／重くなる）による。"
+}

@@ -1,0 +1,50 @@
+{
+  "strong": "G703",
+  "lemma": "ἀρετή",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "徳・卓越",
+      "def_ja": "徳、卓越、すぐれた性質。『信仰に徳を加え』『徳によって召された』『徳があり』『何かほめるべきことがあれば』。",
+      "label_en": "virtue, excellence",
+      "def_en": "Virtue, excellence, a fine quality.",
+      "label_es": "virtud, excelencia",
+      "def_es": "Virtud, excelencia, cualidad sobresaliente.",
+      "label_sv": "dygd, förträfflighet",
+      "def_sv": "Dygd, förträfflighet, god egenskap.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ペテロ第二1:3・1:5（2回）、ピリピ4:8。LXX、教父に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "みわざ・栄誉",
+      "def_ja": "神のみわざ、栄誉をたたえるべきもの。『その驚くべき御業を宣べ伝える』。",
+      "label_en": "mighty deeds, praises",
+      "def_en": "God’s deeds, that for which God is to be praised.",
+      "label_es": "proezas, alabanzas",
+      "def_es": "Las obras de Dios, aquello por lo que merece alabanza.",
+      "label_sv": "väldiga gärningar, lovvärdhet",
+      "def_sv": "Guds gärningar, det för vilket Gud skall prisas.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ペテロ第一2:9。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1PE 2:9": 2,
+    "2PE 1:3": 1,
+    "2PE 1:5#1": 1,
+    "2PE 1:5#2": 1,
+    "PHP 4:8": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（徳・卓越／みわざ）による。"
+}

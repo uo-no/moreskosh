@@ -1,0 +1,49 @@
+{
+  "strong": "G1984",
+  "lemma": "ἐπισκοπή",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "訪れ・顧み",
+      "def_ja": "神の訪れ、顧み。『神が訪れる日に』『訪れの時』。",
+      "label_en": "visitation",
+      "def_en": "God’s visitation, God’s attentive care.",
+      "label_es": "visitación",
+      "def_es": "La visita de Dios, su atención.",
+      "label_sv": "besökelse",
+      "def_sv": "Guds besökelse, Guds omsorg.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ペテロ第一2:12、ルカ19:44。LXX に並行。教父の代表例は用法の対応が確認できず、確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "監督の職務",
+      "def_ja": "監督の職務、務め。『監督の職を望む』『その職は他人に取らせよ』。",
+      "label_en": "office of overseer",
+      "def_en": "The office or duty of an overseer.",
+      "label_es": "cargo de supervisor, obispado",
+      "def_es": "El oficio y ministerio del que supervisa.",
+      "label_sv": "föreståndarämbete",
+      "def_sv": "Tillsyningsmannens ämbete och uppgift.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "テモテ第一3:1、使徒1:20。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1PE 2:12": 1,
+    "1TI 3:1": 2,
+    "ACT 1:20": 2,
+    "LUK 19:44": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（訪れ／監督の職務）による。"
+}

@@ -1,0 +1,49 @@
+{
+  "strong": "G3339",
+  "lemma": "μεταμορφόομαι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "変貌する",
+      "def_ja": "姿が変わる（イエスの変貌）。『彼らの目の前で姿が変わり』『姿が変わった』。",
+      "label_en": "to be transfigured",
+      "def_en": "For one’s appearance to change (the transfiguration of Jesus).",
+      "label_es": "transfigurarse",
+      "def_es": "Cambiar de aspecto (la transfiguración de Jesús).",
+      "label_sv": "att förklaras, att förvandlas (till utseendet)",
+      "def_sv": "Att utseendet förvandlas (Jesu förklaring).",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マタイ17:2、マルコ9:2。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "造り変えられる",
+      "def_ja": "内面が造り変えられる。『主と同じ姿に変えられていく』『心を新たにして造りかえられなさい』。",
+      "label_en": "to be transformed",
+      "def_en": "To be changed inwardly.",
+      "label_es": "ser transformado",
+      "def_es": "Ser cambiado interiormente.",
+      "label_sv": "att förvandlas",
+      "def_sv": "Att omskapas i sitt inre.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "コリント第二3:18、ローマ12:2。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "2CO 3:18": 2,
+    "MAT 17:2": 1,
+    "MRK 9:2": 1,
+    "ROM 12:2": 2
+  },
+  "unresolved": [],
+  "layer_notes": "LXX の用例なし。語義区分は用法（イエスの変貌／造り変え）による。"
+}

@@ -1,0 +1,66 @@
+{
+  "strong": "G1640",
+  "lemma": "ἐλάσσων",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "劣った・少ない",
+      "def_ja": "劣った、少ない。『それよりも劣る者』『劣悪なぶどう酒』。",
+      "label_en": "lesser, inferior",
+      "def_en": "Inferior, less.",
+      "label_es": "menor, inferior",
+      "def_es": "Inferior, menos.",
+      "label_sv": "ringare, sämre",
+      "def_sv": "Underlägsen, mindre.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヘブル7:7、ヨハネ2:10。LXX に並行。教父の代表例では確認していない。語義2・3との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "年下の",
+      "def_ja": "年下の、若い方の。『兄は弟に仕える』。",
+      "label_en": "younger",
+      "def_en": "Younger in age.",
+      "label_es": "menor (de edad)",
+      "def_es": "El de menos años.",
+      "label_sv": "yngre",
+      "def_sv": "Den yngre till åren.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ローマ9:12。LXX、教父に並行。語義1との境界は連続的。"
+    },
+    {
+      "n": 3,
+      "label_ja": "〜未満の",
+      "def_ja": "基準に満たない。『六十歳未満ではない』。",
+      "label_en": "under (a minimum)",
+      "def_en": "Not reaching the standard.",
+      "label_es": "de menos de",
+      "def_es": "Que no alcanza la medida.",
+      "label_sv": "under",
+      "def_sv": "Som inte når upp till gränsen.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "テモテ第一5:9。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1TI 5:9": 3,
+    "HEB 7:7": 1,
+    "JHN 2:10": 1,
+    "ROM 9:12": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（劣る／年下／未満）による。"
+}

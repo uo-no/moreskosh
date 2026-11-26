@@ -1,0 +1,49 @@
+{
+  "strong": "G2014",
+  "lemma": "ἐπιφαίνω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "現れる",
+      "def_ja": "現れる、姿を現す。『太陽も星も見えず』『神の恵みが現れて』『救い主なる神の慈しみと人への愛とが現れた時』。",
+      "label_en": "to appear",
+      "def_en": "To appear, to show oneself.",
+      "label_es": "aparecer, manifestarse",
+      "def_es": "Aparecer, mostrarse.",
+      "label_sv": "att visa sig",
+      "def_sv": "Att framträda, att uppenbara sig.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒27:20、テトス2:11・3:4。LXX、教父に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "照らす",
+      "def_ja": "光を与える、照らす。『暗やみと死の影にすわる者を照らし』。",
+      "label_en": "to shine upon",
+      "def_en": "To give light, to shine on.",
+      "label_es": "alumbrar",
+      "def_es": "Dar luz, resplandecer sobre.",
+      "label_sv": "att lysa över",
+      "def_sv": "Att ge ljus, att skina på.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ルカ1:79。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 27:20": 1,
+    "LUK 1:79": 2,
+    "TIT 2:11": 1,
+    "TIT 3:4": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（現れる／照らす）による。"
+}

@@ -1,0 +1,49 @@
+{
+  "strong": "G2279",
+  "lemma": "ἦχος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "音・響き",
+      "def_ja": "音、響き、とどろき。『激しい風が吹いて来るような響き』『ラッパの響き』『海と波のとどろき』。",
+      "label_en": "sound, roar",
+      "def_en": "A sound, a noise, a roaring.",
+      "label_es": "estruendo, sonido",
+      "def_es": "Sonido, eco, bramido.",
+      "label_sv": "dån, ljud",
+      "def_sv": "Ljud, klang, dån.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒2:2、ヘブル12:19、ルカ21:25。LXX、教父に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "評判・うわさ",
+      "def_ja": "うわさ、評判。『イエスのうわさは』。",
+      "label_en": "report, rumor",
+      "def_en": "A rumor, a report.",
+      "label_es": "fama, noticia",
+      "def_es": "Rumor, lo que se cuenta.",
+      "label_sv": "rykte",
+      "def_sv": "Rykte, tal om någon.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ルカ4:37。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 2:2": 1,
+    "HEB 12:19": 1,
+    "LUK 21:25": 1,
+    "LUK 4:37": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（音・響き／評判）による。"
+}

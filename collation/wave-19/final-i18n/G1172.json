@@ -1,0 +1,32 @@
+{
+  "strong": "G1172",
+  "lemma": "δειπνέω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "食事をする",
+      "def_ja": "食事をする（夕食をとる）。『食事を共にし』『食事の用意をさせ』『食事のあとで』『共に食事をしよう』。",
+      "label_en": "to dine, to have supper",
+      "def_en": "To take a meal (to have supper).",
+      "label_es": "cenar",
+      "def_es": "Tomar una comida (la cena).",
+      "label_sv": "att äta kvällsmåltid",
+      "def_sv": "Att äta (hålla aftonmåltid).",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "コリント第一11:25、ルカ17:8・22:20、黙示録3:20。LXX、教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "1CO 11:25": 1,
+    "LUK 17:8": 1,
+    "LUK 22:20": 1,
+    "REV 3:20": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

@@ -1,0 +1,49 @@
+{
+  "strong": "G4083",
+  "lemma": "πῆχυς",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "キュビト（長さの単位）",
+      "def_ja": "長さの単位、キュビト（約45センチ）。『二百キュビトばかり』『百四十四キュビト』。",
+      "label_en": "cubit (unit of length)",
+      "def_en": "A unit of length, the cubit (about 45 centimeters).",
+      "label_es": "codo (medida de longitud)",
+      "def_es": "Medida de longitud, el codo (unos 45 centímetros).",
+      "label_sv": "aln (längdmått)",
+      "def_sv": "Ett längdmått, alnen (omkring 45 centimeter).",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヨハネ21:8、黙示録21:17。LXX に並行。教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "寿命・背丈に加える一キュビト（解釈が分かれる）",
+      "def_ja": "『寿命をわずかでも延ばすことができようか』（πῆχυν ἕνα）。「寿命」か「背丈」かの読みは決定しない。",
+      "label_en": "a cubit added to life or stature (disputed)",
+      "def_en": "“To add a single cubit” (πῆχυν ἕνα); whether it refers to length of life or to height is not decided.",
+      "label_es": "un codo añadido a la vida o a la estatura (discutido)",
+      "def_es": "«Añadir un codo» (πῆχυν ἕνα); no se decide si se refiere a la duración de la vida o a la estatura.",
+      "label_sv": "en aln till livet eller längden (omtvistat)",
+      "def_sv": "”Att lägga en enda aln till” (πῆχυν ἕνα); om det avser livslängd eller kroppslängd avgörs inte.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ルカ12:25、マタイ6:27。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "JHN 21:8": 1,
+    "LUK 12:25": 2,
+    "MAT 6:27": 2,
+    "REV 21:17": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（長さの単位／ルカ12:25・マタイ6:27）による。後者の読みは決定しない。"
+}
