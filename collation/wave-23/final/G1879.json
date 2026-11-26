@@ -1,0 +1,35 @@
+{
+  "strong": "G1879",
+  "lemma": "ἐπαναπαύομαι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "とどまる",
+      "def_ja": "その上にとどまる、休む。『平安があなたがたに…とどまる』。",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ10:6。LXX に並行。教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "頼る",
+      "def_ja": "頼る、寄りかかる。『律法に安んじ』。",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ローマ2:17。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "LUK 10:6": 1,
+    "ROM 2:17": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。"
+}
