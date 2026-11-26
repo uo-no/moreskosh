@@ -1,0 +1,41 @@
+{
+ "strong": "G3999",
+ "lemma": "πεντάκις",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2CO 11:24",
+   "form": "πεντάκις",
+   "morph": "ADV",
+   "gloss_en": "five times",
+   "gloss_ja": "五度",
+   "verse": "ὑπὸ Ἰουδαίων πεντάκις τεσσεράκοντα παρὰ μίαν ἔλαβον,"
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Regnorum iv": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "13.19",
+    "form": "πεντάκις",
+    "postag": "d--------",
+    "sentence": "εἰ ἐπάταξας πεντάκις ἢ ἑξάκις, τότε ἂν ἐπάταξας τὴν Συρίαν ἕως συντελείας ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   πεντάκις,     adv.,     five times: II Co 11:24.†"
+}

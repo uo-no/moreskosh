@@ -1,0 +1,41 @@
+{
+ "strong": "G4107",
+ "lemma": "πλανήτης",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JUD 1:13",
+   "form": "πλανῆται",
+   "morph": "N-NPM",
+   "gloss_en": "wandering",
+   "gloss_ja": "さまよう星",
+   "verse": "κύματα ἄγρια θαλάσσης ἐπαφρίζοντα τὰς ἑαυτῶν αἰσχύνας, ἀστέρες πλανῆται οἷς ὁ ζόφος τοῦ σκότους εἰς αἰῶνα τετήρηται."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Osee": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HOS",
+    "work_ja": "ホセア書",
+    "work_src": "Osee",
+    "ref": "9.17",
+    "form": "πλανῆται",
+    "postag": "n-p---mn-",
+    "sentence": "ἀπώσεται αὐτοὺς ὁ Θεός, ὅτι οὐκ εἰσήκουσαν αὐτοῦ, καὶ ἔσονται πλανῆται ἐν τοῖς ἔθνεσιν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   πλανήτης, -ου, ὁ    (< πλανάω),   [in LXX: Ho 9:17 (נדד)*;]      = πλάνης, a wanderer: ἀστέρες π. (cl. planets), wandering stars, Ju 13 (WH, mg., -τες).†"
+}

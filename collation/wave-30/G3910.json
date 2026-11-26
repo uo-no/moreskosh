@@ -1,0 +1,51 @@
+{
+ "strong": "G3910",
+ "lemma": "παραυτίκα",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2CO 4:17",
+   "form": "παραυτίκα",
+   "morph": "ADV",
+   "gloss_en": "momentary",
+   "gloss_ja": "一時の",
+   "verse": "τὸ γὰρ παραυτίκα ἐλαφρὸν τῆς θλίψεως ἡμῶν καθ’ ὑπερβολὴν εἰς ὑπερβολὴν αἰώνιον βάρος δόξης κατεργάζεται ἡμῖν,"
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Tobias": 1,
+   "Psalmi": 1
+  },
+  "representatives": [
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "4.14",
+    "form": "παραυτίκα",
+    "postag": "d--------",
+    "sentence": "μισθὸς παντὸς ἀνθρώπου, ὃς ἐὰν ἐργάσηται παρὰ σοί, μὴ αὐλισθήτω, ἀλλ’ ἀπόδος αὐτῷ παραυτίκα, καὶ ἐὰν δουλεύσῃς τῷ Θεῷ, ἀποδοθήσεταί σοι."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "69.4",
+    "form": "παραυτίκα",
+    "postag": "d--------",
+    "sentence": "ἀποστραφήτωσαν παραυτίκα αἰσχυνόμενοι οἱ λέγοντές μοι ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   παρ-αυτίκα,   adv.    (< πάραυτα = παρ’ αὐτά, sc. τὰ πράγματα),   [in LXX: Ps 69 (70):3, To 4:14*;]      immediately.     C. subst., to express brief duration (cf. ἡ π. λαμπρότης, Thuc., ii, 64), momentary, for a moment: II Co 4:17.†"
+}

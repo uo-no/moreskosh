@@ -1,0 +1,167 @@
+{
+ "strong": "G4104",
+ "lemma": "πιστόομαι",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": "πιστοω",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2TI 3:14",
+   "form": "ἐπιστώθης",
+   "morph": "V-API-2S",
+   "gloss_en": "firmly believed",
+   "gloss_ja": "確信する",
+   "verse": "σὺ δὲ μένε ἐν οἷς ἔμαθες καὶ ἐπιστώθης, εἰδὼς παρὰ τίνων ἔμαθες,"
+  }
+ ],
+ "lxx": {
+  "total": 16,
+  "works": {
+   "Regnorum ii": 2,
+   "Regnorum iii": 2,
+   "Paralipomenon i sive Chronicon i": 3,
+   "Paralipomenon ii sive Chronicon ii": 2,
+   "Machabaeorum ii": 2,
+   "Psalmi": 3,
+   "Ecclesiasticus sive Siracides": 2
+  },
+  "representatives": [
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "17.24",
+    "form": "πιστωθήτω",
+    "postag": "v3samp---",
+    "sentence": "καὶ ποίησον καθὼς ἐλάλησας, καὶ πιστωθήτω καὶ μεγαλυνθήτω τὸ ὄνομά σου ἕως αἰῶνος λεγόντων ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "92.5",
+    "form": "ἐπιστώθησαν",
+    "postag": "v3paip---",
+    "sentence": "τὰ μαρτύριά σου ἐπιστώθησαν σφόδρα ·"
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "7.16",
+    "form": "πιστωθήσεται",
+    "postag": "v3sfip---",
+    "sentence": "καὶ πιστωθήσεται ὁ οἶκος αὐτοῦ καὶ ἡ βασιλεία αὐτοῦ ἕως αἰῶνος ἐνώπιόν μου."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "1.36",
+    "form": "πιστώσαι",
+    "postag": "v3saoa---",
+    "sentence": "πιστώσαι Κύριος ὁ Θεὸς τοῦ κυρίου μου τοῦ βασιλέως."
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "1.9",
+    "form": "πιστωθήτω",
+    "postag": "v3samp---",
+    "sentence": "καὶ νῦν, Κύριε ὁ Θεός, πιστωθήτω δὴ τὸ ὄνομά σου ἐπὶ Δαυὶδ τὸν πατέρα μου, ὅτι σὺ ἐβασίλευσάς με ἐπὶ λαὸν πολύν, ὡς ὁ χοῦς τῆς γῆς ·"
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "12.25",
+    "form": "πιστώσαντος",
+    "postag": "v-sapamg-",
+    "sentence": "πιστώσαντος δὲ αὐτοῦ διὰ πλειόνων τὸν ὁρισμὸν ἀποκαταστήσειν τούτους ἀπημάντους, ἀπέλυσαν αὐτὸν ἕνεκα τῆς τῶν ἀδελφῶν σωτηρίας."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "27.17",
+    "form": "πιστώθητι",
+    "postag": "v2samp---",
+    "sentence": "στέρξον φίλον καὶ πιστώθητι μετ’ αὐτοῦ ·"
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "17.14",
+    "form": "πιστώσω",
+    "postag": "v1sfia---",
+    "sentence": "καὶ πιστώσω αὐτὸν ἐν οἴκῳ μου καὶ ἐν βασιλείᾳ αὐτοῦ ἕως αἰῶνος, καὶ ὁ θρόνος αὐτοῦ ἔσται ἀνωρθωμένος ἕως αἰῶνος."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "77.8",
+    "form": "ἐπιστώθη",
+    "postag": "v3saip---",
+    "sentence": "ἵνα μὴ γένωνται ὡς οἱ πατέρες αὐτῶν, γενεὰ σκολιὰ καὶ παραπικραίνουσα, γενεά, ἥτις οὐ κατηύθυνε τὴν καρδίαν ἑαυτῆς καὶ οὐκ ἐπιστώθη μετὰ τοῦ Θεοῦ τὸ πνεῦμα αὐτῆς."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "7.25",
+    "form": "πίστωσον",
+    "postag": "v2sama---",
+    "sentence": "καὶ νῦν, Κύριέ μου Κύριε, τὸ ρῆμα, ὃ ἐλάλησας περὶ τοῦ δούλου σου καὶ τοῦ οἴκου αὐτοῦ, πίστωσον ἕως τοῦ αἰῶνος, Κύριε παντοκράτωρ Θεὲ τοῦ Ἰσραήλ ·"
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "8.26",
+    "form": "πιστωθήτω",
+    "postag": "v3samp---",
+    "sentence": "καὶ νῦν, Κύριε ὁ Θεὸς Ἰσραήλ, πιστωθήτω δὴ τὸ ρῆμά σου τῷ Δαυὶδ τῷ πατρί μου."
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "6.17",
+    "form": "πιστωθήτω",
+    "postag": "v3samp---",
+    "sentence": "καὶ νῦν, Κύριε ὁ Θεὸς Ἰσραήλ, πιστωθήτω δὴ τὸ ρῆμά σου, ὃ ἐλάλησας τῷ παιδί σου τῷ Δαυίδ, ὅτι εἰ ἀληθῶς κατοικήσει Θεὸς μετὰ ἀνθρώπων ἐπὶ τῆς γῆς;"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "1 Clement": 2
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "15.4",
+    "form": "ἐπιστώθησαν",
+    "postag": "v3paip---",
+    "sentence": "ἠγάπησαν αὐτὸν τῷ στόματι αὐτῶν καὶ τῇ γλώσσῃ αὐτῶν ἐψεύσαντο αὐτόν, ἡ δὲ καρδία αὐτῶν οὐκ εὐθεῖα μετ’ αὐτοῦ, οὐ-δὲ ἐπιστώθησαν ἐν τῇ διαθήκῃ αὐτοῦ."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "42.3",
+    "form": "πιστωθέντες",
+    "postag": "v-pappmn-",
+    "sentence": "παραγγελίας οὖν λαβόντες καὶ πληροφορηθέντες διὰ τῆς ἀναστάσεως τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ καὶ πιστωθέντες ἐν τῷ λόγῳ τοῦ θεοῦ, μετὰ πληροφορίας πνεύματος ἁγίου ἐξῆλθον εὐαγγελιζόμενοι, τὴν βασιλείαν τοῦ θεοῦ μέλλειν ἔρχεσθαι, κατὰ χώρας οὖν καὶ πόλεις κηρύσσοντες καθίστανον τὰς ἀπαρχὰς αὐτῶν, δοκιμάσαντες τῷ πνεύματι, εἰς ἐπισκόπους καὶ διακόνους τῶν μελλόντων πιστεύειν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1 πιστόω, -ῶ    (< πιστός),   [in LXX chiefly for אמן ni.;]    to make   trustworthy (Thuc., III Ki 1:36), hence, to establish (I Ch 17:14). Pass. and mid., to be assured of: c. acc. rei, II Ti 3:14.†"
+}

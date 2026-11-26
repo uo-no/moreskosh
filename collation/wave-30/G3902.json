@@ -1,0 +1,41 @@
+{
+ "strong": "G3902",
+ "lemma": "παράσημος",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 28:11",
+   "form": "παρασήμῳ",
+   "morph": "N-DSN",
+   "gloss_en": "figurehead",
+   "gloss_ja": "船首像",
+   "verse": "Μετὰ δὲ τρεῖς μῆνας ἀνήχθημεν ἐν πλοίῳ παρακεχειμακότι ἐν τῇ νήσῳ Ἀλεξανδρίνῳ, παρασήμῳ Διοσκούροις."
+  }
+ ],
+ "lxx": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "To Diognetus": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "5",
+    "form": "παράσημον",
+    "postag": "a-s---ma-",
+    "sentence": "οὔ-τε γάρ που πόλεις ἰδίας κατοικοῦσι οὔ-τε διαλέκτῳ τινὶ παρηλλαγμένῃ χρῶνται οὔ-τε βίον παράσημον ἀσκοῦσιν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   ** παράσημος, -ον    (< σῆμα, a mark),   [in LXX: III Mac 2:29*;]      in cl., marked amiss, spurious, counterfeit. Later,     marked at the side, annotated (Plut.).     marked with a sign (LXX); as subst., a figurehead: Ac 28:11 (v. MM, xix).†"
+}

@@ -1,0 +1,51 @@
+{
+ "strong": "G3901",
+ "lemma": "παραρρέω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "HEB 2:1",
+   "form": "παραρυῶμεν",
+   "morph": "V-2APS-1P",
+   "gloss_en": "drift away",
+   "gloss_ja": "流れ去る",
+   "verse": "Διὰ τοῦτο δεῖ περισσοτέρως προσέχειν ἡμᾶς τοῖς ἀκουσθεῖσιν, μήποτε παραρυῶμεν."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Proverbia": 1,
+   "Isaias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "3.21",
+    "form": "παραρρυῇς",
+    "postag": "v2sasp---",
+    "sentence": "υἱέ, μὴ παραρρυῇς, τήρησον δὲ ἐμὴν βουλὴν καὶ ἔννοιαν, ἵνα ζήσῃ ἡ ψυχή σου, καὶ χάρις ᾖ περὶ σῷ τραχήλῳ."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "44.4",
+    "form": "παραρρέον",
+    "postag": "v-sppana-",
+    "sentence": "ὅτι ἐγὼ δώσω ὕδωρ ἐν δίψει τοῖς πορευομένοις ἐν ἀνύδρῳ, ἐπιθήσω τὸ πνεῦμά μου ἐπὶ τὸ σπέρμα σου καὶ τὰς εὐλογίας μου ἐπὶ τὰ τέκνα σου, καὶ ἀνατελοῦσιν ὡς ἀναμέσον ὕδατος χόρτος καὶ ὡς ἰτέα ἐπὶ παραρρέον ὕδωρ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   παρα-ρρέω,    [in LXX: Is 44:4 (יבל), Pr 3:21*;]    to flow by, drift away, slip away: He 2:1.†"
+}

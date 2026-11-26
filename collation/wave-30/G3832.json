@@ -1,0 +1,41 @@
+{
+ "strong": "G3832",
+ "lemma": "πανοικεί",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 16:34",
+   "form": "πανοικεὶ",
+   "morph": "ADV",
+   "gloss_en": "with his whole household",
+   "gloss_ja": "家族全員で",
+   "verse": "ἀναγαγών τε αὐτοὺς εἰς τὸν οἶκον παρέθηκεν τράπεζαν καὶ ἠγαλλιάσατο πανοικεὶ πεπιστευκὼς τῷ θεῷ."
+  }
+ ],
+ "lxx": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Martyrdom of Polycarp": 1
+  },
+  "representatives": [
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "20.2",
+    "form": "πανοικεί",
+    "postag": "d--------",
+    "sentence": "ὑμᾶς οἱ σὺν ἡμῖν προσαγορεύουσιν καὶ Εὐάρεστος ὁ γράψας πανοικεί."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   πανοικεί (Rec., LTr., -κί),   adv.    (< πᾶς, οἶκος), a word rejected by strict Atticists, though found once in Plat. (Eryx., 392 c);   [in LXX: Ex 1:1 (בַּיִת), III Mac 3:27 (where A in each case reads -κίᾳ, the Attic form, cf. Ge 50:8, al.)*;]    with all the household: Ac 16:34.†"
+}

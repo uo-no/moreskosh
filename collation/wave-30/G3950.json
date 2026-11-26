@@ -1,0 +1,89 @@
+{
+ "strong": "G3950",
+ "lemma": "παροργισμός",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "EPH 4:26",
+   "form": "παροργισμῷ",
+   "morph": "N-DSM",
+   "gloss_en": "anger",
+   "gloss_ja": "怒り",
+   "verse": "ὀργίζεσθε καὶ μὴ ἁμαρτάνετε· ὁ ἥλιος μὴ ἐπιδυέτω ἐπὶ παροργισμῷ ὑμῶν,"
+  }
+ ],
+ "lxx": {
+  "total": 6,
+  "works": {
+   "Regnorum iii": 1,
+   "Regnorum iv": 2,
+   "Esdras ii": 2,
+   "Psalmi Salomonis": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "19.3",
+    "form": "παροργισμοῦ",
+    "postag": "n-s---mg-",
+    "sentence": "ἡμέρα θλίψεως καὶ ἐλεγμοῦ καὶ παροργισμοῦ ἡ ἡμέρα αὕτη ·"
+   },
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "19.18",
+    "form": "παροργισμοὺς",
+    "postag": "n-p---ma-",
+    "sentence": "καὶ ἐποίησαν παροργισμοὺς μεγάλους."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "15.30",
+    "form": "παροργισμῷ",
+    "postag": "n-s---md-",
+    "sentence": "καὶ ἐγένετο ὡς ἐβασίλευσε, καὶ ἐπάταξεν ὅλον τὸν οἶκον Ἱεροβοὰμ καὶ οὐχ ὑπελίπετο πᾶσαν πνοὴν τοῦ Ἱεροβοὰμ ἕως τοῦ ἐξολοθρεῦσαι αὐτὸν κατὰ τὸ ρῆμα Κυρίου, ὃ ἐλάλησεν ἐν χειρὶ δούλου αὐτοῦ Ἀχιὰ τοῦ Σηλωνίτου περὶ τῶν ἁμαρτιῶν Ἱεροβοάμ, ὡς ἐξήμαρτε τὸν Ἰσραήλ, καὶ ἐν τῷ παροργισμῷ αὐτοῦ, ᾧ παρώργισε τὸν Κύριον Θεὸν τοῦ Ἰσραήλ."
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "8.9",
+    "form": "παροργισμῷ",
+    "postag": "n-s---md-",
+    "sentence": "ἐν καταγαίοις κρυφίοις αἱ παρανομίαι αὐτῶν ἐν παροργισμῷ ·"
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "23.26",
+    "form": "παροργισμούς",
+    "postag": "n-p---ma-",
+    "sentence": "πλὴν οὐκ ἀπεστράφη Κύριος ἀπὸ θυμοῦ τῆς ὀργῆς αὐτοῦ τῆς μεγάλης, οὗ ἐθυμώθη ὀργῇ αὐτοῦ ἐν τῷ Ἰούδᾳ ἐπὶ τοὺς παροργισμούς, οὓς παρώργισεν αὐτὸν Μανασσῆς."
+   },
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "19.26",
+    "form": "παροργισμοὺς",
+    "postag": "n-p---ma-",
+    "sentence": "καὶ ἤλλαξαν καὶ ἀπέστησαν ἀπὸ σοῦ καὶ ἔρριψαν τὸν νόμον σου ὀπίσω σώματος αὐτῶν καὶ τοὺς προφήτας σου ἀπέκτειναν, οἳ διεμαρτύραντο ἐν αὐτοῖς ἐπιστρέψαι αὐτοὺς πρός σε, καὶ ἐποίησαν παροργισμοὺς μεγάλους."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   † παρ-οργισμός, -οῦ, ὁ    (< παροργίζω),   [in LXX: III Ki 15:30, IV Ki 23:26 (כַּעַס); IV Ki 19:3, Ne 9:18, 26 (נְאָצָה); Je 21:5 A (קֶצֶף)*;]    irritation (\"distinguished from ὀργή as implying a less permanent state\"; ICC, Eph., 140; and v. Tr., Syn., § xxxvii): Eph 4:26.†"
+}

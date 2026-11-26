@@ -1,0 +1,102 @@
+{
+ "strong": "G404",
+ "lemma": "ἀναψύχω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2TI 1:16",
+   "form": "ἀνέψυξεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "refreshed",
+   "gloss_ja": "元気づける",
+   "verse": "δῴη ἔλεος ὁ κύριος τῷ Ὀνησιφόρου οἴκῳ, ὅτι πολλάκις με ἀνέψυξεν, καὶ τὴν ἅλυσίν μου οὐκ ἐπαισχύνθη·"
+  }
+ ],
+ "lxx": {
+  "total": 5,
+  "works": {
+   "Exodus": 1,
+   "Regnorum i": 1,
+   "Regnorum ii": 1,
+   "Machabaeorum ii": 1,
+   "Psalmi": 1
+  },
+  "representatives": [
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "23.12",
+    "form": "ἀναψύξῃ",
+    "postag": "v3sasa---",
+    "sentence": "ἓξ ἡμέρας ποιήσεις τὰ ἔργα σου, τῇ δὲ ἡμέρᾳ τῇ ἑβδόμῃ ἀνάπαυσις, ἵνα ἀναπαύσηται ὁ βοῦς σου καὶ τὸ ὑποζύγιόν σου, καὶ ἵνα ἀναψύξῃ ὁ υἱὸς τῆς παιδίσκης σου καὶ ὁ προσήλυτος."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "16.23",
+    "form": "ἀνέψυχε",
+    "postag": "v3siia---",
+    "sentence": "καὶ ἀνέψυχε Σαούλ, καὶ ἀγαθὸν αὐτῷ."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "16.14",
+    "form": "ἀνέψυξαν",
+    "postag": "v3paia---",
+    "sentence": "καὶ ἦλθεν ὁ βασιλεὺς καὶ πᾶς ὁ λαὸς μετ’ αὐτοῦ ἐκλελυμένοι καὶ ἀνέψυξαν ἐκεῖ."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "4.46",
+    "form": "ἀναψύξοντα",
+    "postag": "v-sfpama-",
+    "sentence": "ὅθεν ἀπολαβὼν ὁ Πτολεμαῖος εἴς τι περίστυλον ὡς ἀναψύξοντα τὸν βασιλέα μετέθηκε, καὶ τὸν μὲν τῆς ὅλης κακίας Μενέλαον ἀπέλυσε τῶν κατηγορημάτων, τοῖς δὲ ταλαιπώροις, οἵτινες, εἰ καὶ ἐπὶ Σκυθῶν ἔλεγον, ἀπελύθησαν ἂν ἀκατάγνωστοι, τούτοις θάνατον ἐπέκρινε."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "38.14",
+    "form": "ἀναψύξω",
+    "postag": "v1sasa---",
+    "sentence": "ἄνες μοι, ἵνα ἀναψύξω πρὸ τοῦ με ἀπελθεῖν καὶ οὐκέτι μὴ ὑπάρξω."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "Ignatius, Letters": 2
+  },
+  "representatives": [
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "3.12.2",
+    "form": "ἀναψύχειν",
+    "postag": "v--pna---",
+    "sentence": "πρέπει γὰρ ὑμῖν τοῖς καθ’ ἕνα, ἐξαιρέτως καὶ τοῖς πρεσβυτέροις, ἀναψύχειν τὸν ἐπίσκοπον εἰς τιμὴν πατρός, Ἰησοῦ Χριστοῦ καὶ τῶν ἀποστόλων."
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "1.2.1",
+    "form": "ἀναψύξαι",
+    "postag": "v3saoa---",
+    "sentence": "καὶ Κρόκος δέ, ὁ θεοῦ ἄξιος καὶ ὑμῶν, ὅν ἐξεμπλάριον τῆς ἀφ’ ὑμῶν ἀγάπης ἀπέλαβον, κατὰ πάντα με ἀνέπαυσεν, ὡς καὶ αὐτὸν ὁ πατὴρ Ἰησοῦ Χριστοῦ ἀναψύξαι, ἅμα Ὀνησίμῳ καὶ Βούρρῳ καὶ Εὔπλῳ καὶ Φρόντωνι, δι’ ὦν πάντας ὑμᾶς κατὰ ἀγάπην εἶδον."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   ἀνα-ψύχω,    [in LXX for נפשׁ ni., חיה, etc. (freq. in sense of revive, refresh oneself);]    to refresh: c. acc. pers., II Ti 1:16 (MM, VGT, s.v.; Cremer, 588).†"
+}

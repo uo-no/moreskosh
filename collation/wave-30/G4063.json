@@ -1,0 +1,72 @@
+{
+ "strong": "G4063",
+ "lemma": "περιτρέχω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MRK 6:55",
+   "form": "περιέδραμον",
+   "morph": "V-AAI-3P",
+   "gloss_en": "ran about",
+   "gloss_ja": "走り回る",
+   "verse": "περιέδραμον ὅλην τὴν χώραν ἐκείνην καὶ ἤρξαντο ἐπὶ τοῖς κραβάττοις τοὺς κακῶς ἔχοντας περιφέρειν ὅπου ἤκουον ὅτι ἐστίν."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Amos": 1,
+   "Jeremias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "AMO",
+    "work_ja": "アモス書",
+    "work_src": "Amos",
+    "ref": "8.12",
+    "form": "περιδραμοῦνται",
+    "postag": "v3pfim---",
+    "sentence": "καὶ σαλευθήσονται ὕδατα ἀπὸ τῆς θαλάσσης ἕως θαλάσσης, καὶ ἀπὸ βορρᾶ ἕως ἀνατολῶν περιδραμοῦνται ζητοῦντες τὸν λόγον τοῦ Κυρίου καὶ οὐ μὴ εὕρωσιν."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "5.1",
+    "form": "περιδράμετε",
+    "postag": "v2pama---",
+    "sentence": "περιδράμετε ἐν ταῖς ὁδοῖς Ἱερουσαλὴμ καὶ ἴδετε καὶ γνῶτε καὶ ζητήσατε ἐν ταῖς πλατείαις αὐτῆς, ἐὰν εὕρητε ἄνδρα, εἰ ἔστι ποιῶν κρίμα καὶ ζητῶν πίστιν, καὶ ἵλεως ἔσομαι αὐτοῖς, λέγει Κύριος."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "Hermas, Pastor": 2
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "23.1.6",
+    "form": "περιέτρεχε",
+    "postag": "v3siia---",
+    "sentence": "καὶ αὐτὴ ἡ ἰδέα τοῦ ποιμένος ἱλαρὰ ἦν λίαν, καὶ ἐν τοῖς προβάτοις περιέτρεχε."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.3.1",
+    "form": "περιτρεχόντων",
+    "postag": "v-pppamg-",
+    "sentence": "ἦν δὲ θόρυβος τῶν ἀνδρῶν ἐκείνων μέγας τῶν ἐληλυθότων οἰκοδομεῖν τὸν πύργον ὧδε κα-κἀκεῖσε περιτρεχόντων κύκλῳ τῆς πύλης."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   περι-τρέχω,    [in LXX: Am 8:12, Je 5:1 (שׁוּט pi.)*;]    to run about: c. acc. loc., Mk 6:55.†"
+}

@@ -1,0 +1,101 @@
+{
+ "strong": "G3711",
+ "lemma": "ὀργίλος",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "TIT 1:7",
+   "form": "ὀργίλον",
+   "morph": "A-ASM",
+   "gloss_en": "quick-tempered",
+   "gloss_ja": "怒りっぽい",
+   "verse": "δεῖ γὰρ τὸν ἐπίσκοπον ἀνέγκλητον εἶναι ὡς θεοῦ οἰκονόμον, μὴ αὐθάδη, μὴ ὀργίλον, μὴ πάροινον, μὴ πλήκτην, μὴ αἰσχροκερδῆ,"
+  }
+ ],
+ "lxx": {
+  "total": 5,
+  "works": {
+   "Machabaeorum iv": 1,
+   "Psalmi": 1,
+   "Proverbia": 3
+  },
+  "representatives": [
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "29.22",
+    "form": "ὀργίλος",
+    "postag": "a-s---mn-",
+    "sentence": "ἀνὴρ θυμώδης ὀρύσσει νεῖκος, ἀνὴρ δὲ ὀργίλος ἐξώρυξεν ἁμαρτίαν."
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "8.9",
+    "form": "ὀργίλως",
+    "postag": "d--------",
+    "sentence": "ἐπεὶ ἐὰν ὀργίλως με διάθησθε διὰ τῆς ἀπειθείας ὑμῶν, ἀναγκάσετέ με ἐπὶ δειναῖς κολάσεσιν ἕνα ἕκαστον ὑμῶν διὰ τῶν βασάνων ἀπολέσαι."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "17.49",
+    "form": "ὀργίλων",
+    "postag": "a-p---mg-",
+    "sentence": "ζῇ Κύριος, καὶ εὐλογητὸς ὁ Θεός μου καὶ ὑψωθήτω ὁ Θεὸς τῆς σωτηρίας μου, ὁ Θεὸς ὁ διδοὺς ἐκδικήσεις ἐμοί, καὶ ὑποτάξας λαοὺς ὑπ’ ἐμέ, ὁ ρύστης μου ἐξ ἐχθρῶν μου ὀργίλων, ἀπὸ τῶν ἐπανισταμένων ἐπ’ ἐμὲ ὑψώσεις με, ἀπὸ ἀνδρὸς ἀδίκου ρῦσαί με."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "21.19",
+    "form": "ὀργίλου",
+    "postag": "a-s---mg-",
+    "sentence": "κρεῖσσον οἰκεῖν ἐν γῇ ἐρήμῳ ἢ μετὰ γυναικὸς μαχίμου καὶ γλωσσώδους καὶ ὀργίλου."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "22.24",
+    "form": "ὀργίλῳ",
+    "postag": "a-s---md-",
+    "sentence": "μὴ ἴσθι ἑταῖρος ἀνδρὶ θυμώδει, φίλῳ δὲ ὀργίλῳ μὴ συναυλίζου, μήποτε μάθῃς τῶν ὁδῶν αὐτοῦ καὶ λάβῃς βρόχους τῇ σῇ ψυχῇ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "Didache": 1,
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DID",
+    "work_ja": "ディダケー",
+    "work_src": "Didache",
+    "ref": "3.2",
+    "form": "ὀργίλος",
+    "postag": "a-s---mn-",
+    "sentence": "μὴ γίνου ὀργίλος, ὁδηγεῖ γὰρ ἡ ὀργὴ πρὸς τὸν φόνον, μη-δὲ ζηλωτὴς μη-δὲ ἐριστικὸς μη-δὲ θυμικός ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "17.4.1",
+    "form": "ὀργίλως",
+    "postag": "d--------",
+    "sentence": "καὶ ταῦτά μοι λίαν ὀργίλως ἐλάλησεν, ὥστε με συγχυθῆναι καὶ λίαν αὐτὸν φοβηθῆναι ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   ὀργίλος, -η, -ον    (< ὀργή),   [in LXX: Pr 22:24 29:22 (חֵמָה), etc.;]    inclined to anger, passionate: Tit 1:7.†"
+}

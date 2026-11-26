@@ -1,0 +1,60 @@
+{
+ "strong": "G3998",
+ "lemma": "πενιχρός",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 21:2",
+   "form": "πενιχρὰν",
+   "morph": "A-ASF",
+   "gloss_en": "poor",
+   "gloss_ja": "貧しい",
+   "verse": "εἶδεν δέ τινα χήραν πενιχρὰν βάλλουσαν ἐκεῖ λεπτὰ δύο,"
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Exodus": 1,
+   "Proverbia": 2
+  },
+  "representatives": [
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "28.15",
+    "form": "πενιχροῦ",
+    "postag": "a-s---ng-",
+    "sentence": "λέων πεινῶν καὶ λύκος διψῶν, ὃς τυραννεῖ, πτωχὸς ὤν, ἔθνους πενιχροῦ."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "22.25",
+    "form": "πενιχρῷ",
+    "postag": "a-s---md-",
+    "sentence": "ἐὰν δὲ ἀργύριον ἐκδανείσῃς τῷ ἀδελφῷ τῷ πενιχρῷ παρὰ σοί, οὐκ ἔσῃ αὐτὸν κατεπείγων, οὐκ ἐπιθήσεις αὐτῷ τόκον."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "29.7",
+    "form": "πενιχροῖς",
+    "postag": "a-p---md-",
+    "sentence": "ἐπίσταται δίκαιος κρίνειν πενιχροῖς, ὁ δὲ ἀσεβὴς οὐ νοεῖ γνῶσιν, καὶ πτωχῷ οὐχ ὑπάρχει νοῦς ἐπιγνώμων."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   πενιχρός, -ά, -όν    (< πένομαι, v.s. πένης),   [in LXX: Ex 22:25 (עָנִי), Pr 28:15 29:7 (דַּל)*;]   chiefly in Comic poets and late prose (but Plato, Rep., 578 A), = πένης,     needy, poor: Lk 21:2 (for ex. in π., v. MM, xix).†"
+}

@@ -1,0 +1,51 @@
+{
+ "strong": "G4249",
+ "lemma": "πρίζω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "HEB 11:37",
+   "form": "ἐπρίσθησαν",
+   "morph": "V-API-3P",
+   "gloss_en": "sawn in two",
+   "gloss_ja": "のこぎりで引く",
+   "verse": "ἐλιθάσθησαν, ἐπρίσθησαν, ἐν φόνῳ μαχαίρης ἀπέθανον, περιῆλθον ἐν μηλωταῖς, ἐν αἰγείοις δέρμασιν, ὑστερούμενοι, θλιβόμενοι, κακουχούμενοι,"
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Amos": 1,
+   "Susanna": 1
+  },
+  "representatives": [
+   {
+    "work_code": "AMO",
+    "work_ja": "アモス書",
+    "work_src": "Amos",
+    "ref": "1.3",
+    "form": "ἔπριζον",
+    "postag": "v1siia---",
+    "sentence": "ἐπὶ ταῖς τρισὶν ἀσεβείαις Δαμασκοῦ καὶ ἐπὶ ταῖς τέσσαρσιν οὐκ ἀποστραφήσομαι αὐτόν, ἀνθ’ ὧν ἔπριζον πρίοσι σιδηροῖς τὰς ἐν γαστρὶ ἐχούσας τῶν ἐν Γαλαάδ ·"
+   },
+   {
+    "work_code": "SUS",
+    "work_ja": "スザンナ（Th）",
+    "work_src": "Susanna",
+    "ref": "59",
+    "form": "πρίσαι",
+    "postag": "v--ana---",
+    "sentence": "μένει γὰρ ὁ ἄγγελος τοῦ Θεοῦ τὴν ῥομφαίαν ἔχων πρίσαι σε μέσον, ὅπως ἐξολεθρεύσῃ ὑμᾶς."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   πρίζω = πρίω,    [in LXX: Am 1:3, Da TH Su 59*;]      to saw, saw asunder (= π. δίχα, Thuc., iv, 100): pass, He 11:37 (cf. δια-πρίω).†"
+}

@@ -1,0 +1,51 @@
+{
+ "strong": "G3889",
+ "lemma": "παραμυθία",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 14:3",
+   "form": "παραμυθίαν",
+   "morph": "N-ASF",
+   "gloss_en": "consolation",
+   "gloss_ja": "慰め",
+   "verse": "ὁ δὲ προφητεύων ἀνθρώποις λαλεῖ οἰκοδομὴν καὶ παράκλησιν καὶ παραμυθίαν."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Esther": 1,
+   "Sapientia Salomonis": 1
+  },
+  "representatives": [
+   {
+    "work_code": "EST",
+    "work_ja": "エステル記",
+    "work_src": "Esther",
+    "ref": "8.12ε",
+    "form": "παραμυθία",
+    "postag": "n-s---fn-",
+    "sentence": "πολλάκις δὲ καὶ πολλοὺς τῶν ἐπ’ ἐξουσίαις τεταγμένων τῶν πιστευθέντων χειρίζειν φίλων τὰ πράγματα παραμυθία μετόχους αἱμάτων ἀθώων καταστήσασα, περιέβαλε συμφοραῖς ἀνηκέστοις, τῷ τῆς κακοηθείας ψευδεῖ παραλογισμῷ παραλογισαμένων τὴν τῶν ἐπικρατούντων ἀκέραιον εὐγνωμοσύνην."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "19.12",
+    "form": "παραμυθίαν",
+    "postag": "n-s---fa-",
+    "sentence": "εἰς γὰρ παραμυθίαν ἀνέβη αὐτοῖς ἀπὸ θαλάσσης ὀρτυγομήτρα."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ** παραμυθία, -ας, ἡ    (< παραμυθέομαι),   [in LXX: Es 8:13, Wi 19:12*;]      encouragement, exhortation.     comfort, consolation: I Co 14:3.†   SYN.: παράκλησις."
+}

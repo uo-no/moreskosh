@@ -1,0 +1,59 @@
+{
+ "strong": "G411",
+ "lemma": "ἀνεκδιήγητος",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2CO 9:15",
+   "form": "ἀνεκδιηγήτῳ",
+   "morph": "A-DSF",
+   "gloss_en": "indescribable",
+   "gloss_ja": "言い尽くせない",
+   "verse": "χάρις τῷ θεῷ ἐπὶ τῇ ἀνεκδιηγήτῳ αὐτοῦ δωρεᾷ."
+  }
+ ],
+ "lxx": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "fathers": {
+  "total": 3,
+  "works": {
+   "1 Clement": 3
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "49.4",
+    "form": "ἀνεκδιήγητόν",
+    "postag": "a-s---nn-",
+    "sentence": "τὸ ὕψος, εἰς ὃ ἀνάγει ἡ ἀγάπη, ἀνεκδιήγητόν ἐστιν."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "20.5",
+    "form": "ἀνεκδιήγητα",
+    "postag": "a-p---nn-",
+    "sentence": "ἀβύσσων τε ἀνεξιχνίαστα καὶ νερτέρων ἀνεκδιήγητα κλίματα τοῖς αὐτοῖς συνέχεται προστάγμασιν."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "61.1",
+    "form": "ἀνεκδιηγήτου",
+    "postag": "a-s---ng-",
+    "sentence": "σύ, δεσποτα, ἔδωκας τὴν ἐξουσίαν τῆς βασιλείας αὐτοῖς διὰ τοῦ μεγαλοπρεποῦς καὶ ἀνεκδιηγήτου κράτους σου, εἰς τὸ γινώσκοντας ἡμᾶς τὴν ὑπὸ σοῦ αὐτοῖς δεδομένην δόξαν καὶ τιμὴν ὑποτάσσεσθαι αὐτοῖς, μηδὲν ἐναντιουμένους τῷ θελήματί σου ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   *† ἀν-εκδιήγητος, -ον    (< ἀ-, ἐκδιηγέομαι),    inexpressible: II Co 9:15 (MM, VGT, s.v.).†"
+}

@@ -1,0 +1,154 @@
+{
+ "strong": "G4141",
+ "lemma": "πλήσσω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "REV 8:12",
+   "form": "ἐπλήγη",
+   "morph": "V-2API-3S",
+   "gloss_en": "struck",
+   "gloss_ja": "打つ",
+   "verse": "Καὶ ὁ τέταρτος ἄγγελος ἐσάλπισεν· καὶ ἐπλήγη τὸ τρίτον τοῦ ἡλίου καὶ τὸ τρίτον τῆς σελήνης καὶ τὸ τρίτον τῶν ἀστέρων, ἵνα σκοτισθῇ τὸ τρίτον αὐτῶν καὶ ἡ ἡμέρα μὴ φάνῃ τὸ τρίτον αὐτῆς, καὶ ἡ νὺξ ὁμοίως."
+  }
+ ],
+ "lxx": {
+  "total": 34,
+  "works": {
+   "Exodus": 4,
+   "Numeri": 4,
+   "Judices": 1,
+   "Regnorum i": 2,
+   "Regnorum ii": 6,
+   "Regnorum iii": 2,
+   "Paralipomenon ii sive Chronicon ii": 1,
+   "Machabaeorum i": 1,
+   "Machabaeorum iv": 1,
+   "Psalmi": 1,
+   "Proverbia": 2,
+   "Job": 1,
+   "Sapientia Salomonis": 4,
+   "Zacharias": 1,
+   "Isaias": 3
+  },
+  "representatives": [
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "11.22",
+    "form": "πληγήσεσθε",
+    "postag": "v2pfip---",
+    "sentence": "οὐκ ᾔδειτε ὅτι πληγήσεσθε ἀπὸ τοῦ τείχους;"
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "9.31",
+    "form": "ἐπλήγη",
+    "postag": "v3saip---",
+    "sentence": "τὸ δὲ λίνον καὶ ἡ κριθὴ ἐπλήγη ·"
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "25.15",
+    "form": "πεπληγυίᾳ",
+    "postag": "v-srpafd-",
+    "sentence": "καὶ ὄνομα τῇ γυναικὶ τῇ Μαδιανίτιδι τῇ πεπληγυίᾳ Χασβί, θυγάτηρ Σοὺρ ἄρχοντος ἔθνους Ὀμμώθ, οἴκου πατριᾶς ἐστι τῶν Μαδιάμ."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "15.7",
+    "form": "πλάσσει",
+    "postag": "v3spia---",
+    "sentence": "καὶ γὰρ κεραμεὺς ἁπαλὴν γῆν θλίβων ἐπίμοχθον πλάσσει πρὸς ὑπηρεσίαν ἡμῶν ἓν ἕκαστον ·"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "1.5",
+    "form": "πληγῆτε",
+    "postag": "v2pasp---",
+    "sentence": "τί ἔτι πληγῆτε προστιθέντες ἀνομίαν;"
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "4.2",
+    "form": "ἐπλήγησαν",
+    "postag": "v3paip---",
+    "sentence": "καὶ ἔκλινεν ὁ πόλεμος, καὶ ἔπταισεν ἀνὴρ Ἰσραὴλ ἐνώπιον ἀλλοφύλων, καὶ ἐπλήγησαν ἐν τῇ παρατάξει ἐν ἀγρῷ τέσσαρες χιλιάδες ἀνδρῶν."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "14.14",
+    "form": "πλήξει",
+    "postag": "v3sfia---",
+    "sentence": "καὶ ἀναστήσει Κύριος ἑαυτῷ βασιλέα ἐπὶ Ἰσραήλ, ὃς πλήξει τὸν οἶκον Ἱεροβοάμ ταύτῃ τῇ ἡμέρᾳ ·"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "23.32",
+    "form": "πεπληγὼς",
+    "postag": "v-srpamn-",
+    "sentence": "τὸ δὲ ἔσχατον ὥσπερ ὑπὸ ὄφεως πεπληγὼς ἐκτείνεται, καὶ ὥσπερ ὑπὸ κεράστου διαχεῖται αὐτῷ ὁ ἰός."
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "20.36",
+    "form": "ἐπλήγησαν",
+    "postag": "v3paip---",
+    "sentence": "καὶ εἶδον οἱ υἱοὶ Βενιαμὶν ὅτι ἐπλήγησαν ·"
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "29.9",
+    "form": "πεπλήγασιν",
+    "postag": "v3pria---",
+    "sentence": "καὶ ἰδοὺ πεπλήγασιν οἱ πατέρες ὑμῶν ἐν μαχαίρᾳ, καὶ οἱ υἱοὶ ὑμῶν καὶ αἱ θυγατέρες ὑμῶν καὶ αἱ γυναῖκες ὑμῶν ἐν αἰχμαλωσίᾳ ἐν γῇ οὐκ αὐτῶν, ὃ καὶ νῦν ἐστιν."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "9.55",
+    "form": "ἐπλήγη",
+    "postag": "v3saip---",
+    "sentence": "ἐν τῷ καιρῷ ἐκείνῳ ἐπλήγη Ἄλκιμος καὶ ἐνεποδίσθη τὰ ἔργα αὐτοῦ, καὶ ἀπεφράγη τὸ στόμα αὐτοῦ, καὶ παρελύθη καὶ οὐκ ἐδύνατο ἔτι λαλῆσαι λόγον καὶ ἐντείλασθαι περὶ τοῦ οἴκου αὐτοῦ."
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "14.19",
+    "form": "πλήσσουσι",
+    "postag": "v3ppia---",
+    "sentence": "ὅπου γε καὶ μέλισσαι περὶ τὸν τῆς κηρογονίας καιρὸν ἐπαμύνονται τοὺς προσιόντας καὶ καθάπερ σιδήρῳ τῷ κέντρῳ πλήσσουσι τοὺς προσιόντας τῇ νοσσιᾷ αὐτῶν καὶ ἐπαμύνουσιν ἕως θανάτου;"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   πλήσσω,    [in LXX chiefly for נכה hi., ho.;]    to strike, smite: pass., Re 8:12 (cf. ἐκ-, ἐπι-πλήσσω).†"
+}

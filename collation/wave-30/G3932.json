@@ -1,0 +1,82 @@
+{
+ "strong": "G3932",
+ "lemma": "παρθενία",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 2:36",
+   "form": "παρθενίας",
+   "morph": "N-GSF",
+   "gloss_en": "marriage",
+   "gloss_ja": "処女性",
+   "verse": "Καὶ ἦν Ἅννα προφῆτις, θυγάτηρ Φανουήλ, ἐκ φυλῆς Ἀσήρ αὕτη προβεβηκυῖα ἐν ἡμέραις πολλαῖς, ζήσασα μετὰ ἀνδρὸς ἔτη ἑπτὰ ἀπὸ τῆς παρθενίας αὐτῆς,"
+  }
+ ],
+ "lxx": {
+  "total": 4,
+  "works": {
+   "Machabaeorum iv": 1,
+   "Ecclesiasticus sive Siracides": 2,
+   "Jeremias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "15.2",
+    "form": "παρθενίας",
+    "postag": "n-s---fg-",
+    "sentence": "καὶ ὑπαντήσεται αὐτῷ ὡς μήτηρ καὶ ὡς γυνὴ παρθενίας προσδέξεται αὐτόν."
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "18.8",
+    "form": "παρθενίας",
+    "postag": "n-s---fg-",
+    "sentence": "οὐ-δὲ ἔφθειρέ με λυμεὼν ἐρημίας φθορεὺς ἐν πεδίῳ, οὐ-δὲ ἐλυμήνατό μου τὰ ἁγνὰ τῆς παρθενίας λυμεὼν ἀπατηλὸς ὄφις ·"
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "3.4",
+    "form": "παρθενίας",
+    "postag": "n-s---fg-",
+    "sentence": "οὐχ ὡς οἶκόν με ἐκάλεσας καὶ πατέρα καὶ ἀρχηγὸν τῆς παρθενίας σου;"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "42.10",
+    "form": "παρθενίᾳ",
+    "postag": "n-s---fd-",
+    "sentence": "ἐν παρθενίᾳ μήποτε βεβηλωθῇ καὶ ἐν τοῖς πατρικοῖς αὐτῆς ἔγκυος γένηται ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Ignatius, Letters": 1
+  },
+  "representatives": [
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "1.19.1",
+    "form": "παρθενία",
+    "postag": "n-s---fn-",
+    "sentence": "καὶ ἔλαθεν τὸν ἄρχοντα τοῦ αἰῶνος τούτου ἡ παρθενία Μαρίας καὶ ὁ τοκετὸς αὐτῆς, ὁμοίως καὶ ὁ θάνατος τοῦ κυρίου ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   παρθενία, -ας, ἡ    (< παρθένος),   [in LXX: Je 3:4 (נְעוּרִים), Si 15:2 42:10, IV Mac 18:8*;]    virginity: Lk 2:36.†"
+}

@@ -1,0 +1,157 @@
+{
+ "strong": "G3794",
+ "lemma": "ὀχύρωμα",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2CO 10:4",
+   "form": "ὀχυρωμάτων",
+   "morph": "N-GPN",
+   "gloss_en": "strongholds",
+   "gloss_ja": "要塞",
+   "verse": "τὰ γὰρ ὅπλα τῆς στρατείας ἡμῶν οὐ σαρκικὰ ἀλλὰ δυνατὰ τῷ θεῷ πρὸς καθαίρεσιν ὀχυρωμάτων λογισμοὺς καθαιροῦντες"
+  }
+ ],
+ "lxx": {
+  "total": 68,
+  "works": {
+   "Genesis": 4,
+   "Regnorum ii": 1,
+   "Regnorum iv": 1,
+   "Machabaeorum i": 27,
+   "Machabaeorum ii": 7,
+   "Machabaeorum iii": 1,
+   "Psalmi": 1,
+   "Proverbia": 5,
+   "Job": 1,
+   "Amos": 1,
+   "Michaeas": 1,
+   "Nahum": 2,
+   "Habacuc": 1,
+   "Zacharias": 2,
+   "Isaias": 4,
+   "Jeremias": 4,
+   "Threni seu Lamentationes": 2,
+   "Daniel": 3
+  },
+  "representatives": [
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "6.61",
+    "form": "ὀχυρώματος",
+    "postag": "n-s---ng-",
+    "sentence": "ἐπὶ τούτοις ἐξῆλθον ἐκ τοῦ ὀχυρώματος."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "10.32",
+    "form": "ὀχύρωμα",
+    "postag": "n-s---na-",
+    "sentence": "αὐτὸς δὲ ὁ Τιμόθεος συνέφυγεν εἰς Γάζαρα λεγόμενον ὀχύρωμα, εὖ μάλα φρούριον, στρατηγοῦντος ἐκεῖ Χαιρέου."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "12.12",
+    "form": "ὀχυρώμασι",
+    "postag": "n-p---nd-",
+    "sentence": "ἐπιθυμίαι ἀσεβῶν κακαί, αἱ δὲ ρίζαι τῶν εὐσεβῶν ἐν ὀχυρώμασι."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "39.20",
+    "form": "ὀχυρώματι",
+    "postag": "n-s---nd-",
+    "sentence": "καὶ λαβὼν ὁ κύριος Ἰωσὴφ ἐνέβαλεν αὐτὸν εἰς τὸ ὀχύρωμα, εἰς τὸν τόπον, ἐν ᾦ οἱ δεσμῶται τοῦ βασιλέως κατέχονται ἐκεῖ ἐν τῷ ὀχυρώματι."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "34.13",
+    "form": "ὀχυρώματα",
+    "postag": "n-p---na-",
+    "sentence": "καὶ ἀναφύσει εἰς τὰς πόλεις αὐτῶν ἀκάνθινα ξύλα καὶ εἰς τὰ ὀχυρώματα αὐτῆς, καὶ ἔσται ἔπαυλις σειρήνων καὶ αὐλὴ στρουθῶν."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "31.7",
+    "form": "ὀχυρώμασί",
+    "postag": "n-p---nd-",
+    "sentence": "ἐπειδὴ ἐπεποίθεις ἐν ὀχυρώμασί σου, καὶ σὺ συλληφθήσῃ ·"
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "11.43",
+    "form": "ὀχυρώμασιν",
+    "postag": "n-p---nd-",
+    "sentence": "καὶ κυριεύσει ἐν τοῖς ἀποκρύφοις τοῦ χρυσοῦ καὶ τοῦ ἀργύρου καὶ ἐν πᾶσιν ἐπιθυμητοῖς Αἰγύπτου καὶ Λιβύων καὶ Αἰθιόπων ἐν τοῖς ὀχυρώμασιν αὐτῶν."
+   },
+   {
+    "work_code": "NAH",
+    "work_ja": "ナホム書",
+    "work_src": "Nahum",
+    "ref": "3.12",
+    "form": "ὀχυρώματά",
+    "postag": "n-p---nn-",
+    "sentence": "πάντα τὰ ὀχυρώματά σου συκαῖ σκοποὺς ἔχουσαι ·"
+   },
+   {
+    "work_code": "ZEC",
+    "work_ja": "ゼカリヤ書",
+    "work_src": "Zacharias",
+    "ref": "9.3",
+    "form": "ὀχυρώματα",
+    "postag": "n-p---na-",
+    "sentence": "καὶ ᾠκοδόμησε Τύρος ὀχυρώματα ἑαυτῇ καὶ ἐθησαύρισεν ἀργύριον ὡς χοῦν καὶ συνήγαγε χρυσίον ὡς πηλὸν ὁδῶν."
+   },
+   {
+    "work_code": "LAM",
+    "work_ja": "哀歌",
+    "work_src": "Threni seu Lamentationes",
+    "ref": "2.5",
+    "form": "ὀχυρώματα",
+    "postag": "n-p---na-",
+    "sentence": "ἐγενήθη Κύριος ὡς ἐχθρός, κατεπόντισεν Ἰσραήλ, κατεπόντισε πάσας τὰς βάρεις αὐτῆς, διέφθειρε τὰ ὀχυρώματα αὐτοῦ καὶ ἐπλήθυνε τῇ θυγατρὶ Ἰούδα ταπεινουμένην καὶ τεταπεινωμένην."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "22.2",
+    "form": "ὀχύρωμά",
+    "postag": "n-s---nn-",
+    "sentence": "Κύριε, πέτρα μου καὶ ὀχύρωμά μου καὶ ἐξαιρούμενός με ἐμοί, ὁ Θεός μου φύλαξ μου ἔσται μοι, πεποιθὼς ἔσομαι ἐπ’ αὐτῷ, ὑπερασπιστής μου καὶ κέρας σωτηρίας μου, ἀντιλήπτωρ μου καὶ καταφυγή μου σωτηρίας μου, ἐξ ἀδίκου σώσεις με."
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "8.12",
+    "form": "ὀχυρώματα",
+    "postag": "n-p---na-",
+    "sentence": "τὰ ὀχυρώματα αὐτῶν ἐξαποστελεῖς ἐν πυρὶ καὶ τοὺς ἐκλεκτοὺς αὐτῶν ἐν ρομφαίᾳ ἀποκτενεῖς καὶ τὰ νήπια αὐτῶν ἐνσείσεις καὶ τὰς ἐν γαστρὶ ἐχούσας αὐτῶν ἀναρρήξεις."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ὀχύρωμα, -τος, τό    (< ὀχυρόω, to fortify, make firm),   [in LXX for מִבְצָר, etc.;]    a stronghold, fortress (Ps 88 (89):40, Na 3:12, 14 al.); in LXX and NT, also metaph. of that in which confidence is placed (Pr 10:29 21:22, al.): II Co 10:4.†"
+}

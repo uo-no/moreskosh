@@ -1,0 +1,99 @@
+{
+ "strong": "G3655",
+ "lemma": "ὄμβρος",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 12:54",
+   "form": "Ὄμβρος",
+   "morph": "N-NSM",
+   "gloss_en": "shower",
+   "gloss_ja": "豪雨",
+   "verse": "Ἔλεγεν δὲ καὶ τοῖς ὄχλοις· Ὅταν ἴδητε νεφέλην ἀνατέλλουσαν ἐπὶ δυσμῶν, εὐθέως λέγετε ὅτι Ὄμβρος ἔρχεται, καὶ γίνεται οὕτως·"
+  }
+ ],
+ "lxx": {
+  "total": 7,
+  "works": {
+   "Deuteronomium": 1,
+   "Odae": 2,
+   "Sapientia Salomonis": 1,
+   "Ecclesiasticus sive Siracides": 1,
+   "Daniel": 2
+  },
+  "representatives": [
+   {
+    "work_code": "ODE",
+    "work_ja": "頌歌（オード）",
+    "work_src": "Odae",
+    "ref": "11.64",
+    "form": "ὄμβρος",
+    "postag": "n-s---mn-",
+    "sentence": "εὐλογεῖτε, πᾶς ὄμβρος καὶ δρόσος, τὸν κύριον ·"
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "3.64",
+    "form": "ὄμβρος",
+    "postag": "n-s---mn-",
+    "sentence": "εὐλογείτω πᾶς ὄμβρος καὶ δρόσος τὸν Κύριον ·"
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "32.2",
+    "form": "ὄμβρος",
+    "postag": "n-s---mn-",
+    "sentence": "προσδοκάσθω ὡς ὑετὸς τὸ ἀπόφθεγμά μου, καὶ καταβήτω ὡς δρόσος τὰ ρήματά μου, ὡσεὶ ὄμβρος ἐπ’ ἄγνωστιν καὶ ὡσεὶ νιφετὸς ἐπὶ χόρτον."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "16.16",
+    "form": "ὄμβροις",
+    "postag": "n-p---md-",
+    "sentence": "ἀρνούμενοι γάρ σε εἰδέναι ἀσεβεῖς, ἐν ἰσχύϊ βραχίονός σου ἐμαστιγώθησαν, ξένοις ὑετοῖς καὶ χαλάζαις καὶ ὄμβροις διωκόμενοι ἀπαραιτήτοις καὶ πυρὶ καταναλισκόμενοι."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "49.9",
+    "form": "ὄμβρῳ",
+    "postag": "n-s---md-",
+    "sentence": "καὶ γὰρ ἐμνήσθη τῶν ἐχθρῶν ἐν ὄμβρῳ καὶ ἀγαθῶσαι τοὺς εὐθύνοντας ὁδούς."
+   },
+   {
+    "work_code": "ODE",
+    "work_ja": "頌歌（オード）",
+    "work_src": "Odae",
+    "ref": "2.2",
+    "form": "ὄμβρος",
+    "postag": "n-s---mn-",
+    "sentence": "προσδοκάσθω ὡς ὑετὸς τὸ ἀπόφθεγμά μου, καὶ καταβήτω ὡς δρόσος τὰ ῥήματά μου, ὡσεὶ ὄμβρος ἐπ’ ἄγρωστιν καὶ ὡσεὶ νιφετὸς ἐπὶ χόρτον."
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "3.64",
+    "form": "ὄμβρος",
+    "postag": "n-s---mn-",
+    "sentence": "εὐλογεῖτε, πᾶς ὄμβρος καὶ δρόσος, τὸν κύριον ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ὄμβρος, -ου, ὁ,    [in LXX: De 32:2 (שָׂעִיר), Wi 16:16, al.;]    a storm of rain, a shower: Lk 12:54.†"
+}

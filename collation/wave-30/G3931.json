@@ -1,0 +1,50 @@
+{
+ "strong": "G3931",
+ "lemma": "παρηγορία",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "COL 4:11",
+   "form": "παρηγορία",
+   "morph": "N-NSF",
+   "gloss_en": "comfort",
+   "gloss_ja": "慰め",
+   "verse": "καὶ Ἰησοῦς ὁ λεγόμενος Ἰοῦστος, οἱ ὄντες ἐκ περιτομῆς, οὗτοι μόνοι συνεργοὶ εἰς τὴν βασιλείαν τοῦ θεοῦ, οἵτινες ἐγενήθησάν μοι παρηγορία."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Machabaeorum iv": 2
+  },
+  "representatives": [
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "6.1",
+    "form": "παρηγορίαις",
+    "postag": "n-p---fd-",
+    "sentence": "τοῦτον τὸν τρόπον ἀντιρρητορεύσαντα ταῖς τοῦ τυράννου παρηγορίαις, παραστάντες οἱ δορυφόροι πικρῶς ἔσυραν ἐπὶ τὰ βασανιστήρια τὸν Ἐλεάζαρον."
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "5.12",
+    "form": "παρηγορίαν",
+    "postag": "n-s---fa-",
+    "sentence": "οὐκ ἐξυπνώσεις ἀπὸ τῆς φλυάρου φιλοσοφίας ὑμῶν καὶ ἀποσκεδάσεις τῶν λογισμῶν σου τὸν λῆρον καὶ ἄξιον τῆς ἡλικίας ἀναλαβὼν νοῦν φιλοσοφήσεις τὴν τοῦ συμφέροντος ἀλήθειαν καὶ προσκυνήσας μου τὴν φιλάνθρωπον παρηγορίαν οἰκτειρήσεις τὸ σεαυτοῦ γῆρας;"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ** παρηγορία, -ας, ἡ    (< παρηγορέω, to address, exhort, console),   [in LXX: IV Mac 5:12 6:1*;]      an address, exhortation (LXX, IV Mac 5:12 6:1).     comfort, consolation: Col 4:11.†"
+}

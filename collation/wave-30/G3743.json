@@ -1,0 +1,229 @@
+{
+ "strong": "G3743",
+ "lemma": "ὁσίως",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": "οσιος",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1TH 2:10",
+   "form": "ὁσίως",
+   "morph": "ADV",
+   "gloss_en": "devoutly",
+   "gloss_ja": "敬虔に",
+   "verse": "ὑμεῖς μάρτυρες καὶ ὁ θεός, ὡς ὁσίως καὶ δικαίως καὶ ἀμέμπτως ὑμῖν τοῖς πιστεύουσιν ἐγενήθημεν,"
+  }
+ ],
+ "lxx": {
+  "total": 82,
+  "works": {
+   "Deuteronomium": 3,
+   "Regnorum ii": 1,
+   "Regnorum iii": 1,
+   "Machabaeorum i": 1,
+   "Machabaeorum ii": 1,
+   "Psalmi": 26,
+   "Odae": 2,
+   "Proverbia": 9,
+   "Sapientia Salomonis": 10,
+   "Ecclesiasticus sive Siracides": 3,
+   "Psalmi Salomonis": 21,
+   "Amos": 1,
+   "Isaias": 1,
+   "Daniel": 2
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "85.2",
+    "form": "ὅσιός",
+    "postag": "a-s---mn-",
+    "sentence": "φύλαξον τὴν ψυχήν μου, ὅτι ὅσιός εἰμι ·"
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "14.3",
+    "form": "ὅσιοι",
+    "postag": "a-p---mn-",
+    "sentence": "ὅσιοι κυρίου ζήσονται ἐν αὐτῷ εἰς τὸν αἰῶνα ·"
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "18.1",
+    "form": "ὁσίοις",
+    "postag": "a-p---nd-",
+    "sentence": "τοῖς δὲ ὁσίοις σου μέγιστον ἦν φῶς ·"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "22.11",
+    "form": "ὁσίας",
+    "postag": "a-p---fa-",
+    "sentence": "ἀγαπᾷ Κύριος ὁσίας καρδίας, δεκτοὶ δὲ αὐτῷ πάντες ἄμωμοι ·"
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "32.4",
+    "form": "ὅσιος",
+    "postag": "a-s---mn-",
+    "sentence": "Θεὸς πιστός, καὶ οὐκ ἔστιν ἀδικία, δίκαιος καὶ ὅσιος Κύριος."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "39.24",
+    "form": "ὁσίοις",
+    "postag": "a-p---md-",
+    "sentence": "αἱ ὁδοὶ αὐτοῦ τοῖς ὁσίοις εὐθεῖαι, οὕτως τοῖς ἀνόμοις προσκόμματα."
+   },
+   {
+    "work_code": "ODE",
+    "work_ja": "頌歌（オード）",
+    "work_src": "Odae",
+    "ref": "11.87",
+    "form": "ὅσιοι",
+    "postag": "a-p---mv-",
+    "sentence": "εὐλογεῖτε, ὅσιοι καὶ ταπεινοὶ τῇ καρδίᾳ, τὸν κύριον ·"
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "3.87",
+    "form": "ὅσιοι",
+    "postag": "a-p---mv-",
+    "sentence": "εὐλογεῖτε, ὅσιοι καὶ ταπεινοὶ καρδίᾳ, τὸν κύριον ·"
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "22.26",
+    "form": "ὁσίου",
+    "postag": "a-s---mg-",
+    "sentence": "μετὰ ὁσίου ὁσιωθήσῃ καὶ μετὰ ἀνδρὸς τελείου τελειωθήσῃ καὶ μετὰ ἐκλεκτοῦ ἐκλεκτὸς ἔσῃ καὶ μετὰ στρεβλοῦ στρεβλωθήσῃ."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "8.61",
+    "form": "ὁσίως",
+    "postag": "d--------",
+    "sentence": "καὶ ἔστρωσαν οἱ καρδίαι ἡμῶν τέλειαι πρὸς Κύριον Θεὸν ἡμῶν καὶ ὁσίως πορεύεσθαι ἐν τοῖς προστάγμασιν αὐτοῦ καὶ φυλάσσειν ἐντολὰς αὐτοῦ ὡς ἡ ἡμέρα αὕτη."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "7.17",
+    "form": "ὁσίων",
+    "postag": "a-p---mg-",
+    "sentence": "σάρκας ὁσίων σου καὶ αἵματα αὐτῶν ἐξέχεαν κύκλῳ Ἱερουσαλήμ, καὶ οὐκ ἦν αὐτοῖς ὁ θάπτων."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "12.45",
+    "form": "ὁσία",
+    "postag": "a-s---fn-",
+    "sentence": "εἶτ’ ἐμβλέπων τοῖς μετ’ εὐσεβείας κοιμωμένοις κάλλιστον ἀποκείμενον χαριστήριον, ὁσία καὶ εὐσεβὴς ἡ ἐπίνοια ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 18,
+  "works": {
+   "1 Clement": 14,
+   "2 Clement": 4
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "45.3",
+    "form": "ὁσίων",
+    "postag": "a-p---mg-",
+    "sentence": "οὐχ εὑρήσετε δικαίους ἀποβεβλημένους ἀπὸ ὁσίων ἀνδρῶν."
+   },
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "1.3",
+    "form": "ὅσια",
+    "postag": "a-p---na-",
+    "sentence": "πόσα δὲ αὐτῷ ὀφείλομεν ὅσια;"
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "40.3",
+    "form": "ὁσίως",
+    "postag": "d--------",
+    "sentence": "ἵν’ ὁσίως πάντα γινόμενα ἐν εὐδοκήσει εὐπρόσδεκτα εἴη τῷ θελήματι αὐτοῦ."
+   },
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "15.3",
+    "form": "ὅσιοι",
+    "postag": "a-p---mn-",
+    "sentence": "ἐμμείνωμεν οὖν ἐφ’ οἷς ἐπιστεύσαμεν δίκαιοι καὶ ὅσιοι, ἵνα μετὰ παρρησίας αἰτῶμεν τὸν θεὸν τὸν λέγοντα ·"
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "56.16",
+    "form": "ὁσίας",
+    "postag": "a-s---fg-",
+    "sentence": "πατὴρ γὰρ ἀγαθὸς ὢν παιδεύει εἰς τὸ ἐλεηθῆναι ἡμᾶς διὰ τῆς ὁσίας παιδείας αὐτοῦ."
+   },
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "6.9",
+    "form": "ὅσια",
+    "postag": "a-p---na-",
+    "sentence": "ἣ τίς ἡμῶν παράκλητος ἔσται, ἐὰν μὴ εὑρεθῶμεν ἔργα ἔχοντες ὅσια καὶ δίκαια;"
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "14.1",
+    "form": "ὅσιον",
+    "postag": "a-s---nn-",
+    "sentence": "δίκαιον οὖν καὶ ὅσιον, ἄνδρες ἀδελφοί, ὑπηκόους ἡμᾶς μᾶλλον γενέσθαι τῷ θεῷ ἡ τοῖς ἐν ἀλαζονείᾳ καὶ ἀκαταστασίᾳ μυσεροῦ ζήλους ἀρχηγοῖς ἐξακολουθεῖν."
+   },
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "5.6",
+    "form": "ὁσίως",
+    "postag": "d--------",
+    "sentence": "τί οὖν ἐστὶν ποιήσαντας ἐπιτυχεῖν αὐτῶν, εἰ μὴ τὸ ὁσίως καὶ δικαίως ἀναστρέφεσθαι καὶ τὰ κοσμικὰ ταῦτα ὡς ἀλλότρια ἡγεῖσθαι καὶ μὴ ἐπιθυμεῖν αὐτῶν;"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   ὁσίως    (< ὅσιος),      adv.,    [in LXX: III Ki 8:61, Wi 6:10*;]    piously, holily: ὁ. καὶ δικαίως κ. ἀμέμπτως (on the distinction here between these synonyms, v. M, Th., 24 f.), I Th 2:10.†"
+}

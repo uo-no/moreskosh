@@ -1,0 +1,83 @@
+{
+ "strong": "G3657",
+ "lemma": "ὁμιλία",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 15:33",
+   "form": "ὁμιλίαι",
+   "morph": "N-NPF",
+   "gloss_en": "company",
+   "gloss_ja": "交わり",
+   "verse": "μὴ πλανᾶσθε· φθείρουσιν ἤθη χρηστὰ ὁμιλίαι κακαί."
+  }
+ ],
+ "lxx": {
+  "total": 4,
+  "works": {
+   "Exodus": 1,
+   "Machabaeorum iii": 1,
+   "Proverbia": 1,
+   "Sapientia Salomonis": 1
+  },
+  "representatives": [
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "21.10",
+    "form": "ὁμιλίαν",
+    "postag": "n-s---fa-",
+    "sentence": "ἐὰν δὲ ἄλλην λάβῃ ἑαυτῷ, τὰ δέοντα καὶ τὸν ἱματισμὸν καὶ τὴν ὁμιλίαν αὐτῆς οὐκ ἀποστερήσει."
+   },
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "5.18",
+    "form": "ὁμιλίας",
+    "postag": "n-s---fg-",
+    "sentence": "ἐπὶ πλεῖον δὲ προβαινούσης τῆς ὁμιλίας, τὸν Ἕρμωνα μεταπεμψάμενος ὁ βασιλεύς, μετὰ πικρᾶς ἀπειλῆς ἐπυνθάνετο, τίνος ἕνεκεν αἰτίας εἰάθησαν οἱ Ἰουδαῖοι τὴν παροῦσαν ἡμέραν περιβεβιωκότες;"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "7.21",
+    "form": "ὁμιλίᾳ",
+    "postag": "n-s---fd-",
+    "sentence": "ἀπεπλάνησε δὲ αὐτὸν πολλῇ ὁμιλίᾳ βρόχοις τε τοῖς ἀπὸ χειλέων ἐξώκειλεν αὐτόν."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "8.18",
+    "form": "ὁμιλίας",
+    "postag": "n-s---fg-",
+    "sentence": "ταῦτα λογισάμενος ἐν ἐμαυτῷ καὶ φροντίσας ἐν καρδίᾳ μου ὅτι ἐστιν ἀθανασία ἐν συγγενείᾳ σοφίας καὶ ἐν φιλίᾳ αὐτῆς τέρψις ἀγαθὴ καὶ ἐν πόνοις χειρῶν αὐτῆς πλοῦτος ἀνεκλιπὴς καὶ ἐν συγγυμνασίᾳ ὁμιλίας αὐτῆς φρόνησις καὶ εὔκλεια ἐν κοινωνίᾳ λόγων αὐτῆς, περιῄειν ζητῶν ὅπως λάβω αὐτὴν εἰς ἐμαυτόν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Ignatius, Letters": 1
+  },
+  "representatives": [
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "7.5.1",
+    "form": "ὁμιλίαν",
+    "postag": "n-s---fa-",
+    "sentence": "τὰς κακοτεχνίας φεῦγε, μᾶλλον δὲ περὶ τούτων ὁμιλίαν ποιοῦ."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1 ὁμιλία, -ας, ἡ    (< ὅμιλος),   [in LXX: Ex 21:10 (עֹנָה), al.;]    company, association: I Co 15:33.†"
+}

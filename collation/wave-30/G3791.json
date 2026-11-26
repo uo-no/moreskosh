@@ -1,0 +1,60 @@
+{
+ "strong": "G3791",
+ "lemma": "ὀχλέομαι",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": "οχλεω",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 5:16",
+   "form": "ὀχλουμένους",
+   "morph": "V-PPP-APM",
+   "gloss_en": "tormented",
+   "gloss_ja": "悩ます",
+   "verse": "συνήρχετο δὲ καὶ τὸ πλῆθος τῶν πέριξ πόλεων Ἰερουσαλήμ, φέροντες ἀσθενεῖς καὶ ὀχλουμένους ὑπὸ πνευμάτων ἀκαθάρτων, οἵτινες ἐθεραπεύοντο ἅπαντες."
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Tobias": 2,
+   "Machabaeorum iii": 1
+  },
+  "representatives": [
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "6.8",
+    "form": "ὀχλῇ",
+    "postag": "v3spsa---",
+    "sentence": "ἡ καρδία καὶ τὸ ἧπαρ, ἐάν τινα ὀχλῇ δαιμόνιον ἢ πνεῦμα πονηρόν, ταῦτα δεῖ καπνίσαι ἐνώπιον ἀνθρώπου ἢ γυναικός, καὶ οὐκέτι οὐ μὴ ὀχληθῇ ·"
+   },
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "5.41",
+    "form": "ὀχλεῖ",
+    "postag": "v3spia---",
+    "sentence": "ὧν χάριν ἡ πόλις διὰ τὴν προσδοκίαν ὀχλεῖ καὶ πληθύουσα συστροφαῖς, ἤδη καὶ κινδυνεύει πολλάκις διαρπασθῆναι."
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "6.8",
+    "form": "ὀχληθῇ",
+    "postag": "v3sasp---",
+    "sentence": "ἡ καρδία καὶ τὸ ἧπαρ, ἐάν τινα ὀχλῇ δαιμόνιον ἢ πνεῦμα πονηρόν, ταῦτα δεῖ καπνίσαι ἐνώπιον ἀνθρώπου ἢ γυναικός, καὶ οὐκέτι οὐ μὴ ὀχληθῇ ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1 ** ὀχλέω, -ῶ    (< ὄχλος),   [in LXX: To 6:7, III Mac 5:41*;]    to move, disturb; hence, generally, to trouble, vex: pass., Ac 5:16 (act. absol., = pass., to be in a tumult, III Mac 5.41; cf. ἐν-, παρ-εν-οχλέω, and v. MM, xviii).†"
+}

@@ -1,0 +1,82 @@
+{
+ "strong": "G3721",
+ "lemma": "ὀρθρινός",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 24:22",
+   "form": "ὀρθριναὶ",
+   "morph": "A-NPF",
+   "gloss_en": "early in the morning",
+   "gloss_ja": "夜明けの",
+   "verse": "ἀλλὰ καὶ γυναῖκές τινες ἐξ ἡμῶν ἐξέστησαν ἡμᾶς, γενόμεναι ὀρθριναὶ ἐπὶ τὸ μνημεῖον"
+  }
+ ],
+ "lxx": {
+  "total": 4,
+  "works": {
+   "Sapientia Salomonis": 1,
+   "Osee": 2,
+   "Aggaeus": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HOS",
+    "work_ja": "ホセア書",
+    "work_src": "Osee",
+    "ref": "6.4",
+    "form": "ὀρθρινὴ",
+    "postag": "a-s---fn-",
+    "sentence": "τὸ δὲ ἔλεος ὑμῶν ὡς νεφέλη πρωϊνὴ καὶ ὡς δρόσος ὀρθρινὴ πορευομένη."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "11.22",
+    "form": "ὀρθρινὴ",
+    "postag": "a-s---fn-",
+    "sentence": "ὅτι ὡς ροπὴ ἐκ πλαστίγγων ὅλος ὁ κόσμος ἐναντίον σου καὶ ὡς ρανὶς δρόσου ὀρθρινὴ κατελθοῦσα ἐπὶ γῆν."
+   },
+   {
+    "work_code": "HAG",
+    "work_ja": "ハガイ書",
+    "work_src": "Aggaeus",
+    "ref": "2.14",
+    "form": "ὀρθρινῶν",
+    "postag": "a-p---mg-",
+    "sentence": "οὕτως ὁ λαὸς οὗτος καὶ οὕτως τὸ ἔθνος τοῦτο ἐνώπιον ἐμοῦ, λέγει Κύριος, καὶ οὕτως πάντα τὰ ἔργα τῶν χειρῶν αὐτῶν, καὶ ὃς ἐὰν ἐγγίσῃ ἐκεῖ, μιανθήσεται ἕνεκεν τῶν λημμάτων αὐτῶν τῶν ὀρθρινῶν, ὀδυνηθήσονται ἀπὸ προσώπου πόνων αὐτῶν ·"
+   },
+   {
+    "work_code": "HOS",
+    "work_ja": "ホセア書",
+    "work_src": "Osee",
+    "ref": "13.3",
+    "form": "ὀρθρινὴ",
+    "postag": "a-s---fn-",
+    "sentence": "διὰ τοῦτο ἔσονται ὡς νεφέλη πρωϊνὴ καὶ ὡς δρόσος ὀρθρινὴ πορευομένη, ὥσπερ χνοῦς ἀποφυσώμενος ἀφ’ ἅλωνος καὶ ὡς ἀτμὶς ἀπό δακρύων."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "22.1.1",
+    "form": "ὀρθρινὸς",
+    "postag": "a-s---mn-",
+    "sentence": "τί ὀρθρινὸς ὧδε ἐλήλυθας;"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   ὄρθριος, -α, -ον    (< ὄρθρος),   [in LXX: I Ki 28:14, Jb 29:7, III Mac 5:10, 23*;]    early, in the early morning: Lk 24:22, Rec. (v.s. ὀρθρινός).†"
+}

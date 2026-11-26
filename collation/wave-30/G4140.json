@@ -1,0 +1,155 @@
+{
+ "strong": "G4140",
+ "lemma": "πλησμονή",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "COL 2:23",
+   "form": "πλησμονὴν",
+   "morph": "N-ASF",
+   "gloss_en": "indulgence",
+   "gloss_ja": "満腹",
+   "verse": "ἅτινά ἐστιν λόγον μὲν ἔχοντα σοφίας ἐν ἐθελοθρησκίᾳ καὶ ταπεινοφροσύνῃ καὶ ἀφειδίᾳ σώματος, οὐκ ἐν τιμῇ τινι πρὸς πλησμονὴν τῆς σαρκός."
+  }
+ ],
+ "lxx": {
+  "total": 28,
+  "works": {
+   "Genesis": 1,
+   "Exodus": 2,
+   "Leviticus": 2,
+   "Deuteronomium": 1,
+   "Judith": 1,
+   "Psalmi": 2,
+   "Proverbia": 3,
+   "Ecclesiasticus sive Siracides": 3,
+   "Psalmi Salomonis": 1,
+   "Osee": 1,
+   "Habacuc": 1,
+   "Aggaeus": 1,
+   "Isaias": 5,
+   "Jeremias": 1,
+   "Threni seu Lamentationes": 1,
+   "Ezechiel": 2
+  },
+  "representatives": [
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "56.11",
+    "form": "πλησμονήν",
+    "postag": "n-s---fa-",
+    "sentence": "καὶ οἱ κύνες ἀναιδεῖς τῇ ψυχῇ, οὐκ εἰδότες πλησμονήν ·"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "26.16",
+    "form": "πλησμονῇ",
+    "postag": "n-s---fd-",
+    "sentence": "σοφώτερος ἑαυτῷ ὀκνηρὸς φαίνεται τοῦ ἐν πλησμονῇ ἀποκομίζοντος ἀγγελίαν."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "1.16",
+    "form": "πλησμονὴ",
+    "postag": "n-s---fn-",
+    "sentence": "πλησμονὴ σοφίας φοβεῖσθαι τὸν Κύριον καὶ μεθύσκει αὐτοὺς ἀπὸ τῶν καρπῶν αὐτῆς ·"
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "16.8",
+    "form": "πλησμονὴν",
+    "postag": "n-s---fa-",
+    "sentence": "ἐν τῷ διδόναι Κύριον ὑμῖν ἑσπέρας κρέα φαγεῖν καὶ ἄρτους τὸ πρωΐ εἰς πλησμονὴν διὰ τὸ εἰσακοῦσαι Κύριον τὸν γογγυσμὸν ὑμῶν, ὃν ὑμεῖς διαγογγύζετε καθ’ ἡμῶν ·"
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "25.19",
+    "form": "πλησμονὴν",
+    "postag": "n-s---fa-",
+    "sentence": "καὶ δώσει ἡ γῆ τὰ ἐκφόρια αὐτῆς καὶ φάγεσθε εἰς πλησμονὴν καὶ κατοικήσετε πεποιθότες ἐπ’ αὐτῆς."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "77.25",
+    "form": "πλησμονήν",
+    "postag": "n-s---fa-",
+    "sentence": "ἄρτον ἀγγέλων ἔφαγεν ἄνθρωπος, ἐπισιτισμὸν ἀπέστειλεν αὐτοῖς εἰς πλησμονήν."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "16.49",
+    "form": "πλησμονῇ",
+    "postag": "n-s---fd-",
+    "sentence": "ἐν πλησμονῇ ἄρτων καὶ ἐν εὐθηνίᾳ οἴνου ἐσπατάλων αὐτὴ καὶ αἱ θυγατέρες αὐτῆς."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "41.30",
+    "form": "πλησμονῆς",
+    "postag": "n-s---fg-",
+    "sentence": "ἥξει δὲ ἑπτὰ ἔτη λιμοῦ μετὰ ταῦτα, καὶ ἐπιλήσονται τῆς πλησμονῆς τῆς ἐσομένης ἐν ὅλῃ Αἰγύπτῳ, καὶ ἀναλώσει ὁ λιμὸς τὴν γῆν, καὶ οὐκ ἐπιγνωσθήσεται ἡ εὐθηνία ἐπὶ τῆς γῆς ἀπὸ τοῦ λιμοῦ τοῦ ἐσομένου μετὰ ταῦτα ·"
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "33.23",
+    "form": "πλησμονὴ",
+    "postag": "n-s---fn-",
+    "sentence": "Νεφθαλὶ πλησμονὴ δεκτῶν καὶ ἐμπλησθήτω εὐλογίας παρὰ Κυρίου ·"
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "7.21",
+    "form": "πλησμονὴν",
+    "postag": "n-s---fa-",
+    "sentence": "καὶ ἐξέλιπε πάντας τοὺς κατοικοῦντας Βαιτυλούα πάντα τὰ ἀγγεῖα αὐτῶν τῶν ὑδάτων, καὶ οἱ λάκκοι ἐξεκενοῦντο, καὶ οὐκ εἶχον πιεῖν εἰς πλησμονὴν ὕδωρ ἡμέραν μίαν, ὅτι ἐν μέτρῳ ἐδίδοσαν αὐτοῖς πιεῖν."
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "5.17",
+    "form": "πλησμονὴν",
+    "postag": "n-s---fa-",
+    "sentence": "ἱκανὸν τὸ μέτριον ἐν δικαιοσύνῃ, καὶ ἐν τούτῳ ἡ εὐλογία κυρίου εἰς πλησμονὴν ἐν δικαιοσύνῃ."
+   },
+   {
+    "work_code": "HOS",
+    "work_ja": "ホセア書",
+    "work_src": "Osee",
+    "ref": "13.6",
+    "form": "πλησμονὴν",
+    "postag": "n-s---fa-",
+    "sentence": "καὶ ἐνεπλήσθησαν εἰς πλησμονὴν καὶ ὑψώθησαν αἱ καρδίαι αὐτῶν ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   πλησμονή, -ῆς, ἡ    (< πίμπλημι),   [in LXX chiefly for שׂבע and cognate forms;]    a filling up, satiety: πρὸς π. σαρκός (RV, against the indulgence of the flesh; but ICC, in l., for the full satisfaction of the flesh, op. cit., 276 ff.), Col 2:23.†"
+}

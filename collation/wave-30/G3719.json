@@ -1,0 +1,162 @@
+{
+ "strong": "G3719",
+ "lemma": "ὀρθρίζω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 21:38",
+   "form": "ὤρθριζεν",
+   "morph": "V-IAI-3S",
+   "gloss_en": "get up early in the morning",
+   "gloss_ja": "早起きする",
+   "verse": "καὶ πᾶς ὁ λαὸς ὤρθριζεν πρὸς αὐτὸν ἐν τῷ ἱερῷ ἀκούειν αὐτοῦ."
+  }
+ ],
+ "lxx": {
+  "total": 59,
+  "works": {
+   "Genesis": 3,
+   "Exodus": 5,
+   "Numeri": 1,
+   "Josue": 3,
+   "Judices": 8,
+   "Regnorum i": 10,
+   "Regnorum ii": 1,
+   "Regnorum iv": 3,
+   "Paralipomenon ii sive Chronicon ii": 3,
+   "Tobias": 1,
+   "Machabaeorum i": 3,
+   "Psalmi": 3,
+   "Odae": 1,
+   "Canticum": 1,
+   "Job": 2,
+   "Sapientia Salomonis": 1,
+   "Ecclesiasticus sive Siracides": 4,
+   "Osee": 1,
+   "Sophonias": 1,
+   "Isaias": 1,
+   "Jeremias": 1,
+   "Daniel": 1,
+   "Bel et Draco": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "29.10",
+    "form": "ὀρθρίσατε",
+    "postag": "v2pama---",
+    "sentence": "καὶ ὀρθρίσατε ἐν τῇ ὁδῷ, καὶ φωτισάτω ὑμῖν, καὶ πορεύθητε."
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "19.8",
+    "form": "ὤρθρισε",
+    "postag": "v3saia---",
+    "sentence": "καὶ ὤρθρισε τὸ πρωΐ τῇ ἡμέρᾳ τῇ πέμπτῃ τοῦ πορευθῆναι ·"
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "8.16",
+    "form": "ὄρθρισον",
+    "postag": "v2sama---",
+    "sentence": "ὄρθρισον τὸ πρωΐ καὶ στῆθι ἐναντίον Φαραώ ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "32.14",
+    "form": "ὀρθρίζοντες",
+    "postag": "v-pppamn-",
+    "sentence": "ὁ φοβούμενος Κύριον ἐκδέξεται παιδείαν, καὶ οἱ ὀρθρίζοντες εὑρήσουσιν εὐδοκίαν."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "19.2",
+    "form": "ὀρθρίσαντες",
+    "postag": "v-papamn-",
+    "sentence": "ἰδοὺ κύριοι, ἐκκλίνατε εἰς τὸν οἶκον τοῦ παιδὸς ὑμῶν καὶ καταλύσατε καὶ νίψασθε τοὺς πόδας ὑμῶν, καὶ ὀρθρίσαντες ἀπελεύσεσθε εἰς τὴν ὁδὸν ὑμῶν."
+   },
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "8.10",
+    "form": "ὀρθρίσας",
+    "postag": "v-sapamn-",
+    "sentence": "καὶ ὀρθρίσας Ἰησοῦς τὸ πρωΐ ἐπεσκέψατο τὸν λαόν ·"
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "19.35",
+    "form": "ὤρθρισαν",
+    "postag": "v3paia---",
+    "sentence": "καὶ ὤρθρισαν τὸ πρωΐ, καὶ ἰδοὺ πάντες σώματα νεκρά."
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "36.15",
+    "form": "ὀρθρίζων",
+    "postag": "v-sppamn-",
+    "sentence": "καὶ ἐξαπέστειλε Κύριος ὁ Θεὸς τῶν πατέρων αὐτῶν ἐν χειρὶ τῶν προφητῶν αὐτοῦ ὀρθρίζων καὶ ἀποστέλλων τοὺς ἀγγέλους αὐτοῦ, ὅτι ἦν φειδόμενος τοῦ λαοῦ αὐτοῦ καὶ τοῦ ἁγιάσματος αὐτοῦ ·"
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "6.33",
+    "form": "ὤρθρισεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ ὤρθρισεν ὁ βασιλεὺς τὸ πρωΐ καὶ ἀπῇρε τὴν παρεμβολὴν ἐν ὁρμήματι αὐτῆς κατὰ τὴν ὁδὸν Βαιθζαχαρία, καὶ διεσκευάσθησαν αἱ δυνάμεις εἰς τὸν πόλεμον καὶ ἐσάλπισαν ταῖς σάλπιγξι."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "62.2",
+    "form": "ὀρθρίζω",
+    "postag": "v1spia---",
+    "sentence": "ὁ θεὸς ὁ Θεός μου, πρὸς σὲ ὀρθρίζω ·"
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "8.5",
+    "form": "ὄρθριζε",
+    "postag": "v2spma---",
+    "sentence": "σὺ δὲ ὄρθριζε πρὸς Κύριον παντοκράτορα δεόμενος."
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "14.40",
+    "form": "ὀρθρίσαντες",
+    "postag": "v-papamn-",
+    "sentence": "καὶ ὀρθρίσαντες τὸ πρωΐ ἀνέβησαν εἰς τὴν κορυφὴν τοῦ ὄρους λέγοντες ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   † ὀρθρίζω    (< ὄρθρος),   [in LXX chiefly for שׁכם hi., Ge 19:2, al.; also   for שׁחר pi., Ps 62:1 (63), al., etc.;]    = cl. poët., ὀρθρεύω, to rise early: seq. πρός, c. acc. pers. (as Ps 62:1 (63), al.), Lk 21:38 (v. Thumb, Hellen., 123).†"
+}

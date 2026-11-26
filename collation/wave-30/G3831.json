@@ -1,0 +1,70 @@
+{
+ "strong": "G3831",
+ "lemma": "πανήγυρις",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "HEB 12:22",
+   "form": "πανηγύρει",
+   "morph": "N-DSF",
+   "gloss_en": "festal gathering",
+   "gloss_ja": "祭りの集会",
+   "verse": "ἀλλὰ προσεληλύθατε Σιὼν ὄρει καὶ πόλει θεοῦ ζῶντος, Ἰερουσαλὴμ ἐπουρανίῳ, καὶ μυριάσιν ἀγγέλων, πανηγύρει"
+  }
+ ],
+ "lxx": {
+  "total": 4,
+  "works": {
+   "Osee": 2,
+   "Amos": 1,
+   "Ezechiel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HOS",
+    "work_ja": "ホセア書",
+    "work_src": "Osee",
+    "ref": "9.5",
+    "form": "πανηγύρεως",
+    "postag": "n-s---fg-",
+    "sentence": "τί ποιήσετε ἐν ἡμέραις πανηγύρεως καὶ ἐν ἡμέρᾳ ἑορτῆς τοῦ Κυρίου;"
+   },
+   {
+    "work_code": "AMO",
+    "work_ja": "アモス書",
+    "work_src": "Amos",
+    "ref": "5.21",
+    "form": "πανηγύρεσιν",
+    "postag": "n-p---fd-",
+    "sentence": "μεμίσηκα, ἀπῶσμαι ἑορτὰς ὑμῶν καὶ οὐ μὴ ὀσφρανθῶ θυσίας ἐν ταῖς πανηγύρεσιν ὑμῶν ·"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "46.11",
+    "form": "πανηγύρεσιν",
+    "postag": "n-p---fd-",
+    "sentence": "καὶ ἐν ταῖς ἑορταῖς καὶ ἐν ταῖς πανηγύρεσιν ἔσται τὸ μαναὰ πέμμα τῷ μόσχῳ καὶ πέμμα τῷ κριῷ καὶ τοῖς ἀμνοῖς καθὼς ἂν ἐκποιῇ ἡ χεὶρ αὐτοῦ καὶ ἐλαίου τὸ εἲν τῷ πέμματι."
+   },
+   {
+    "work_code": "HOS",
+    "work_ja": "ホセア書",
+    "work_src": "Osee",
+    "ref": "2.13",
+    "form": "πανηγύρεις",
+    "postag": "n-p---fa-",
+    "sentence": "καὶ ἀποστρέψω πάσας τὰς εὐφροσύνας αὐτῆς, ἑορτὰς αὐτῆς καὶ τὰς νουμηνίας αὐτῆς καὶ τὰ σάββατα αὐτῆς καὶ πάσας τὰς πανηγύρεις αὐτῆς."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   πανήγυρις, -εως, ἡ    (< πᾶς + ἄγυρας = ἀγορά),   [in LXX: Ho 2:11 (13) 9:5, Ez 46:11 (מוֹעֵד), Am 5:21 (עֲצָרָה)*;]      prop., a national festal assembly in honour of a god; hence, generally, any festal assembly: He 12:23 (for exx. in π., v. MM, xviii).†   SYN.: ἐκκλησία (q.v.), συναγωγή."
+}

@@ -1,0 +1,51 @@
+{
+ "strong": "G412",
+ "lemma": "ἀνεκλάλητος",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1PE 1:8",
+   "form": "ἀνεκλαλήτῳ",
+   "morph": "A-DSF",
+   "gloss_en": "inexpressible",
+   "gloss_ja": "言い表せない",
+   "verse": "ὃν οὐκ ἰδόντες ἀγαπᾶτε, εἰς ὃν ἄρτι μὴ ὁρῶντες πιστεύοντες δὲ ἀγαλλιᾶσθε χαρᾷ ἀνεκλαλήτῳ καὶ δεδοξασμένῃ,"
+  }
+ ],
+ "lxx": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "Ignatius, Letters": 1,
+   "Polycarp, To the Philippians": 1
+  },
+  "representatives": [
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "1.19.2",
+    "form": "ἀνεκλάλητον",
+    "postag": "a-s---nn-",
+    "sentence": "ἀστὴρ ἐν οὐρανῷ ἔλαμψεν ὑπὲρ πάντας τοὺς ἀστέρας, καὶ τὸ φῶς αὐτοῦ ἀνεκλάλητον ἦν καὶ ξενισμὸν παρεῖχεν ἡ καινότης αὐτοῦ, τὰ δὲ λοιπὰ πάντα ἄστρα ἅμα ἡλίῳ καὶ σελήνῃ χορὸς ἐγένετο τῷ ἀστέρι, αὐτὸς δὲ ἦν ὑπερβάλλων τὸ φῶς αὐτοῦ ὑπὲρ πάντα ·"
+   },
+   {
+    "work_code": "PPH",
+    "work_ja": "ポリュカルポスのピリピ書簡",
+    "work_src": "Polycarp, To the Philippians",
+    "ref": "1.3",
+    "form": "ἀνεκλαλήτῳ",
+    "postag": "a-s---fd-",
+    "sentence": "εἰς ὃν οὐκ ἰδόντες πιστεύετε χαρᾷ ἀνεκλαλήτῳ καὶ δεδοξασμένῃ, εἰς ἣν πολλοὶ ἐπιθυμοῦσιν εἰσελθεῖν, εἰδότες, ὅτι χάριτί ἐστε σεσωσμένοι, οὐκ ἐξ ἔργων, ἀλλὰ θελήματι θεοῦ διὰ Ἰησοῦ Χριστοῦ."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   *† ἀν-εκ-λάλητος, -ον    (< ἀ-, ἐκλαλέω),    unspeakable: I Pe 1:8.†"
+}

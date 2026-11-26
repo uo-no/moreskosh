@@ -1,0 +1,61 @@
+{
+ "strong": "G4085",
+ "lemma": "πιέζω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 6:38",
+   "form": "πεπιεσμένον",
+   "morph": "V-RPP-ASN",
+   "gloss_en": "pressed down",
+   "gloss_ja": "押す",
+   "verse": "δίδοτε, καὶ δοθήσεται ὑμῖν· μέτρον καλὸν πεπιεσμένον σεσαλευμένον ὑπερεκχυννόμενον δώσουσιν εἰς τὸν κόλπον ὑμῶν· ᾧ γὰρ μέτρῳ μετρεῖτε ἀντιμετρηθήσεται ὑμῖν."
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Canticum": 1,
+   "Ecclesiasticus sive Siracides": 1,
+   "Michaeas": 1
+  },
+  "representatives": [
+   {
+    "work_code": "SNG",
+    "work_ja": "雅歌",
+    "work_src": "Canticum",
+    "ref": "2.15",
+    "form": "πιάσατε",
+    "postag": "v2pama---",
+    "sentence": "πιάσατε ἡμῖν ἀλώπεκας μικροὺς ἀφανίζοντας ἀμπελῶνας, καὶ αἱ ἄμπελοι ἡμῶν κυπρίζουσιν."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "23.21",
+    "form": "πιασθήσεται",
+    "postag": "v3sfip---",
+    "sentence": "οὗτος ἐν πλατείαις πόλεως ἐκδικηθήσεται, καὶ οὗ οὐχ ὑπενόησεν πιασθήσεται."
+   },
+   {
+    "work_code": "MIC",
+    "work_ja": "ミカ書",
+    "work_src": "Michaeas",
+    "ref": "6.15",
+    "form": "πιέσεις",
+    "postag": "v2sfia---",
+    "sentence": "σὺ σπερεῖς καὶ οὐ μὴ ἀμήσῃς, σὺ πιέσεις ἐλαίαν καὶ οὐ μὴ ἀλείψῃ ἔλαιον, καὶ οἶνον καὶ οὐ μὴ πίητε, καὶ ἀφανισθήσεται νόμιμα λαοῦ μου."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "13   πιέζω,    [in LXX: Mi 6:15 (דּרךְ)*;]      to press, press down or together: Lk 6:38 (cl).     Later, to seize (v.s. πιάζω).†"
+}

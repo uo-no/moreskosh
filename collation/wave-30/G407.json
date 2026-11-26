@@ -1,0 +1,191 @@
+{
+ "strong": "G407",
+ "lemma": "ἀνδρίζομαι",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": "ανδριζω",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 16:13",
+   "form": "ἀνδρίζεσθε",
+   "morph": "V-PNM-2P",
+   "gloss_en": "act like men",
+   "gloss_ja": "男らしく行動する",
+   "verse": "Γρηγορεῖτε, στήκετε ἐν τῇ πίστει, ἀνδρίζεσθε, κραταιοῦσθε."
+  }
+ ],
+ "lxx": {
+  "total": 25,
+  "works": {
+   "Deuteronomium": 3,
+   "Josue": 5,
+   "Regnorum ii": 2,
+   "Paralipomenon i sive Chronicon i": 3,
+   "Paralipomenon ii sive Chronicon ii": 1,
+   "Machabaeorum i": 1,
+   "Psalmi": 2,
+   "Ecclesiasticus sive Siracides": 1,
+   "Michaeas": 1,
+   "Nahum": 1,
+   "Jeremias": 2,
+   "Daniel": 3
+  },
+  "representatives": [
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "1.6",
+    "form": "ἀνδρίζου",
+    "postag": "v2spmm---",
+    "sentence": "ἴσχυε καὶ ἀνδρίζου, σὺ γὰρ ἀποδιελεῖς τῷ λαῷ τούτῳ τὴν γῆν, ἣν ὤμοσα τοῖς πατράσιν ὑμῶν δοῦναι αὐτοῖς."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "31.23",
+    "form": "ἀνδρίζου",
+    "postag": "v2spmm---",
+    "sentence": "ἀνδρίζου καὶ ἴσχυε, σὺ γὰρ εἰσάξεις τοὺς υἱοὺς Ἰσραὴλ εἰς τὴν γῆν, ἣν ὤμοσεν αὐτοῖς Κύριος, καὶ αὐτὸς ἔσται μετὰ σοῦ."
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "22.13",
+    "form": "ἀνδρίζου",
+    "postag": "v2spmm---",
+    "sentence": "ἀνδρίζου καὶ ἴσχυε, μὴ φοβοῦ μη-δὲ πτοηθῇς."
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "11.1",
+    "form": "ἀνδρίζεσθαι",
+    "postag": "v--pnm---",
+    "sentence": "καὶ ἐν τῷ ἐνιαυτῷ τῷ πρώτῳ Κύρου τοῦ βασιλέως εἶπέν μοι ἐνισχῦσαι καὶ ἀνδρίζεσθαι."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "13.28",
+    "form": "ἀνδρίζεσθε",
+    "postag": "v2ppmm---",
+    "sentence": "ἀνδρίζεσθε καὶ γίνεσθε εἰς υἱοὺς δυνάμεως."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "26.14",
+    "form": "ἀνδρίζου",
+    "postag": "v2spmm---",
+    "sentence": "ἀνδρίζου, καὶ κραταιούσθω ἡ καρδία σου, καὶ ὑπόμεινον τὸν Κύριον."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "18.12",
+    "form": "ἀνδριούμεθα",
+    "postag": "v1pfim---",
+    "sentence": "ἀνδριούμεθα, ὅτι ὀπίσω τῶν ἀποστροφῶν ἡμῶν πορευσόμεθα καὶ ἕκαστος τὰ ἀρεστά τῆς καρδίας αὐτοῦ τῆς πονηρᾶς ποιήσομεν."
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "32.7",
+    "form": "ἀνδρίζεσθε",
+    "postag": "v2ppmm---",
+    "sentence": "ἰσχύσατε καὶ ἀνδρίζεσθε καὶ μὴ φοβηθῆτε, μη-δὲ πτοηθῆτε ἀπὸ προσώπου βασιλέως Ἀσσοὺρ καὶ ἀπὸ προσώπου παντὸς τοῦ ἔθνους τοῦ μετ’ αὐτοῦ, ὅτι μεθ’ ἡμῶν πλείονες ἢ μετ’ αὐτοῦ ·"
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "2.64",
+    "form": "ἀνδρίζεσθε",
+    "postag": "v2ppmm---",
+    "sentence": "καὶ ὑμεῖς τέκνα ἰσχύσατε καὶ ἀνδρίζεσθε ἐν τῷ νόμῳ, ὅτι ἐν αὐτῷ δοξασθήσεσθε."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "31.25",
+    "form": "ἀνδρίζου",
+    "postag": "v2spmm---",
+    "sentence": "ἐν οἴνῳ μὴ ἀνδρίζου, πολλοὺς γὰρ ἀπώλεσεν ὁ οἶνος."
+   },
+   {
+    "work_code": "MIC",
+    "work_ja": "ミカ書",
+    "work_src": "Michaeas",
+    "ref": "4.10",
+    "form": "ἀνδρίζου",
+    "postag": "v2spmm---",
+    "sentence": "ὤδινε καὶ ἀνδρίζου καὶ ἔγγιζε, θύγατερ Σιών, ὡς τίκτουσα ·"
+   },
+   {
+    "work_code": "NAH",
+    "work_ja": "ナホム書",
+    "work_src": "Nahum",
+    "ref": "2.2",
+    "form": "ἄνδρισαι",
+    "postag": "v2samm---",
+    "sentence": "σκόπευσον ὁδόν, κράτησον ὀσφύος, ἄνδρισαι τῇ ἰσχύϊ σφόδρα, διότι ἀπέστρεψε Κύριος τὴν ὕβριν Ἰακώβ, καθὼς ὕβριν τοῦ Ἰσραήλ, διότι ἐκτινάσσοντες ἐξετίναξαν αὐτοὺς καὶ τὰ κλήματα αὐτῶν, διέφθειραν ὅπλα δυναστείας αὐτῶν ἐξ ἀνθρώπων, ἄνδρας δυνατοὺς ἐμπαίζοντας ἐν πυρί ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 4,
+  "works": {
+   "Hermas, Pastor": 3,
+   "Martyrdom of Polycarp": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "3.8.4",
+    "form": "ἀνδριζομένη",
+    "postag": "v-sppmfn-",
+    "sentence": "ἡ δὲ ἑτέρα, ἡ περιεζωσμένη καὶ ἀνδριζομένη, Ἐγκράτεια καλεῖται ·"
+   },
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "9.1",
+    "form": "ἀνδρίζου",
+    "postag": "v2spmm---",
+    "sentence": "ἴσχυε, Πολύκαρπε, καὶ ἀνδρίζου."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "3.12.2",
+    "form": "ἀνδρίζεται",
+    "postag": "v3spim---",
+    "sentence": "καὶ οὐκέτι ἀνακεῖται, ἀλλὰ ἕστηκεν, καὶ ἀνανεοῦται αὐτοῦ τὸ πνεῦμα τὸ ἤδη ἐφθαρμένον ἀπὸ τῶν προτέρων αὐτοῦ πράξεων, καὶ οὐκέτι κάθηται, ἀλλὰ ἀνδρίζεται ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "1.4.3",
+    "form": "ἀνδρίζου",
+    "postag": "v2spmm---",
+    "sentence": "ἀνδρίζου, Ἑρμᾶ."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1 ἀνδρίζω,    [in LXX for חזק, אמץ (Jos 1:6 ff., I Ch 22:19, al.; in II Ki 10:12, Ps 27:14 31:25 combined with κρατιοῦσθαι, as in I Co 16:13);]    to make a man of. Mid., to play the man (cf. MM, VGT, s.v.): I Co 16:13.†"
+}

@@ -1,0 +1,53 @@
+{
+ "strong": "G4247",
+ "lemma": "πρεσβῦτις",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "TIT 2:3",
+   "form": "Πρεσβύτιδας",
+   "morph": "N-APF",
+   "gloss_en": "older women",
+   "gloss_ja": "老女",
+   "verse": "Πρεσβύτιδας ὡσαύτως ἐν καταστήματι ἱεροπρεπεῖς, μὴ διαβόλους μηδὲ οἴνῳ πολλῷ δεδουλωμένας, καλοδιδασκάλους,"
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Machabaeorum iv": 1
+  },
+  "representatives": [
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "16.14",
+    "form": "πρεσβῦτι",
+    "postag": "n-s---fv-",
+    "sentence": "ὦ μῆτερ δι’ εὐσέβειαν Θεοῦ στρατιῶτι, πρεσβῦτι, καὶ γύναι, διὰ καρτερίαν καὶ τύραννον ἐνίκησας καὶ ἔργοις δυνατωτέρα καὶ λόγοις εὑρέθης ἀνδρός."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "1.2.2",
+    "form": "πρεσβῦτις",
+    "postag": "n-s---fn-",
+    "sentence": "καὶ ἦλθεν γυνὴ πρεσβῦτις ἐν ἱματισμῷ λαμπροτάτῳ, ἔχουσα βιβλίον εἰς τὰς χεῖρας, καὶ ἐκάθισεν μόνη καὶ ἀσπάζεταί με ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   ** πρεσβῦτις, -ιδος, ἡ, fem, of πρεσβύτης,    [in LXX: IV Mac 16:14*;]    an aged woman: Tit 2:3.†"
+}

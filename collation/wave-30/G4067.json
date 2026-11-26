@@ -1,0 +1,90 @@
+{
+ "strong": "G4067",
+ "lemma": "περίψημα",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 4:13",
+   "form": "περίψημα",
+   "morph": "N-NSN",
+   "gloss_en": "offscouring",
+   "gloss_ja": "かす",
+   "verse": "δυσφημούμενοι παρακαλοῦμεν· ὡς περικαθάρματα τοῦ κόσμου ἐγενήθημεν, πάντων περίψημα ἕως ἄρτι."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Tobias": 2
+  },
+  "representatives": [
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "5.19",
+    "form": "περίψημα",
+    "postag": "n-s---nn-",
+    "sentence": "ἀργύριον τῷ ἀργυρίῳ μὴ φθάσαι, ἀλλὰ περίψημα τοῦ παιδίου ἡμῶν γένοιτο."
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "5.19",
+    "form": "περίψημα",
+    "postag": "n-s---nn-",
+    "sentence": "ἀργύριον τῷ ἀργυρίῳ μὴ φθάσαι, ἀλλὰ περίψημα τοῦ παιδίου ἡμῶν γένοιτο ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 4,
+  "works": {
+   "Barnabas": 2,
+   "Ignatius, Letters": 2
+  },
+  "representatives": [
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "6.5",
+    "form": "περίψημα",
+    "postag": "n-s---nn-",
+    "sentence": "ἐγὼ περίψημα τῆς ἀγάπης ὑμῶν."
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "1.8.1",
+    "form": "περίψημα",
+    "postag": "n-s---na-",
+    "sentence": "περίψημα ὑμῶν καὶ ἁγνίζομαι ὑμῶν Ἐφεσίων, ἐκκλησίας τῆς διαβοήτου τοῖς αἰῶσιν."
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "4.9",
+    "form": "περίψημα",
+    "postag": "n-s---na-",
+    "sentence": "πολλὰ δὲ θέλων γράφειν, οὐχ ὡς διδάσκαλος, ἀλλ’ ὡς πρέπει ἀγαπῶντι ἀφ’ ὧν ἔχομεν μὴ ἐλλείπειν, γράφειν ἐσπούδασα, περίψημα ὑμῶν."
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "1.18.1",
+    "form": "περίψημα",
+    "postag": "n-s---nn-",
+    "sentence": "περίψημα τὸ ἐμὸν πνεῦμα τοῦ σταυροῦ, ὅ ἐστιν σκάνδαλον τοῖς ἀπιστοῦσιν, ἡμῖν δὲ σωτηρία καὶ ζωὴ αἰώνιος, ποῦ σοφός;"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   **† περί-ψημα, -τος, τό    (< περιψράω, to wipe off all round),   [in LXX:   To 5:18*;]    that which is wiped off, offscouring: metaph. (assoc. with περικάθαρμα, q.v.), I Co 4:13 (and so prob., To 5:18, as EV; but v. Thayer, s.v., for the meaning expiation, ransom, in To; and cf. LS, s.v. κάθαρμα; Lft., Notes, 200 f., and on Ign., Eph., 8).†"
+}

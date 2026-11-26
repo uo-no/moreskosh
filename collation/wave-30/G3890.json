@@ -1,0 +1,41 @@
+{
+ "strong": "G3890",
+ "lemma": "παραμύθιον",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "PHP 2:1",
+   "form": "παραμύθιον",
+   "morph": "N-NSN",
+   "gloss_en": "consolation",
+   "gloss_ja": "慰め",
+   "verse": "Εἴ τις οὖν παράκλησις ἐν Χριστῷ, εἴ τι παραμύθιον ἀγάπης, εἴ τις κοινωνία πνεύματος, εἴ τις σπλάγχνα καὶ οἰκτιρμοί,"
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Sapientia Salomonis": 1
+  },
+  "representatives": [
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "3.18",
+    "form": "παραμύθιον",
+    "postag": "n-s---na-",
+    "sentence": "ἐάν τε ὀξέως τελευτήσωσιν, οὐχ ἕξουσιν ἐλπίδα, οὐ-δὲ ἐν ἡμέρᾳ διαγνώσεως παραμύθιον ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ** παραμύθιον, -ου, τό    (< παραμυθέομαι),   [in LXX: Wi 3:18*;]      an exhortation, persuasion, encouragement: Phl 2:1 (cf. Plat., Legg., vi, 773 E, al.; v. Lft. and ICC, Phl 2:1).     assuagement, abatement, hence, consolation (Wi 3:18, and freq. in cl.).†"
+}

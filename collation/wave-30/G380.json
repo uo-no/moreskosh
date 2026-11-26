@@ -1,0 +1,80 @@
+{
+ "strong": "G380",
+ "lemma": "ἀναπτύσσω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 4:17",
+   "form": "ἀναπτύξας",
+   "morph": "V-AAP-NSM",
+   "gloss_en": "unrolling",
+   "gloss_ja": "巻物を開く",
+   "verse": "καὶ ἐπεδόθη αὐτῷ βιβλίον τοῦ προφήτου Ἠσαΐου καὶ ἀναπτύξας τὸ βιβλίον εὗρεν τὸν τόπον οὗ ἦν γεγραμμένον·"
+  }
+ ],
+ "lxx": {
+  "total": 5,
+  "works": {
+   "Deuteronomium": 1,
+   "Judices": 1,
+   "Regnorum iv": 1,
+   "Ezechiel": 2
+  },
+  "representatives": [
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "41.21",
+    "form": "ἀναπτυσσόμενος",
+    "postag": "v-sppmmn-",
+    "sentence": "καὶ τὸ ἅγιον καὶ ὁ ναὸς ἀναπτυσσόμενος τετράγωνα."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "22.17",
+    "form": "ἀναπτύξουσι",
+    "postag": "v3pfia---",
+    "sentence": "καὶ ἀναπτύξουσι τὸ ἱμάτιον ἐναντίον τῆς γερουσίας τῆς πόλεως."
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "8.25",
+    "form": "ἀνέπτυξε",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἀνέπτυξε τὸ ἱμάτιον αὐτοῦ, καὶ ἔβαλεν ἐκεῖ ἀνὴρ ἐνώτιον σκύλων αὐτοῦ."
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "19.14",
+    "form": "ἀνέπτυξεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἀνέβη εἰς οἶκον Κυρίου καὶ ἀνέπτυξεν αὐτὰ Ἐζεκίας ἐναντίον Κυρίου καὶ εἶπε ·"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "41.16",
+    "form": "ἀναπτυσσόμεναι",
+    "postag": "v-pppmfn-",
+    "sentence": "καὶ ὁ οἶκος καὶ τὰ πλησίον ἐξυλωμένα κύκλῳ καὶ τὸ ἔδαφος καὶ ἐκ τοῦ ἐδάφους ἕως τῶν θυρίδων, καὶ αἱ θυρίδες ἀναπτυσσόμεναι τρισσῶς εἰς τὸ διακύπτειν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ἀνα-πτύσσω,    [in LXX for פּרשׂ, etc.;]    to unroll: τ. βιβλίον, Lk 4:17 (WH, R, ἀνοίξας).†"
+}

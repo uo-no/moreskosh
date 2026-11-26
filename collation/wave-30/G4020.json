@@ -1,0 +1,53 @@
+{
+ "strong": "G4020",
+ "lemma": "περιεργάζομαι",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2TH 3:11",
+   "form": "περιεργαζομένους",
+   "morph": "V-PNP-APM",
+   "gloss_en": "busybodies",
+   "gloss_ja": "おせっかいをする",
+   "verse": "ἀκούομεν γάρ τινας περιπατοῦντας ἐν ὑμῖν ἀτάκτως, μηδὲν ἐργαζομένους ἀλλὰ περιεργαζομένους·"
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Ecclesiasticus sive Siracides": 1
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "3.23",
+    "form": "περιεργάζου",
+    "postag": "v2spmm---",
+    "sentence": "ἐν τοῖς περισσοῖς τῶν ἔργων σου μὴ περιεργάζου ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.2.7",
+    "form": "περιεργάζου",
+    "postag": "v2spmm---",
+    "sentence": "ἃ δὲ βλέπεις, ἐκείνων κατακυρίευε καὶ περὶ τῶν λοιπῶν μὴ περιεργάζου ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   ** περι-εργάζομαι,    [in LXX: Wi 8:5 א1, Si 3:23*;]      to waste one's labour about a thing.     to be a busybody: II Th 3:11 (cf. Plat., Apol., 19 B).†"
+}

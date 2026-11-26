@@ -1,0 +1,50 @@
+{
+ "strong": "G3805",
+ "lemma": "παθητός",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 26:23",
+   "form": "παθητὸς",
+   "morph": "A-NSM",
+   "gloss_en": "suffer",
+   "gloss_ja": "苦しみを受ける",
+   "verse": "εἰ παθητὸς ὁ χριστός, εἰ πρῶτος ἐξ ἀναστάσεως νεκρῶν φῶς μέλλει καταγγέλλειν τῷ τε λαῷ καὶ τοῖς ἔθνεσιν."
+  }
+ ],
+ "lxx": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "Ignatius, Letters": 2
+  },
+  "representatives": [
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "7.3.2",
+    "form": "παθητόν",
+    "postag": "a-s---ma-",
+    "sentence": "τὸν ὑπὲρ καιρὸν προσδόκα, τὸν ἄχρονον, τὸν ἀόρατον, τὸν δι’ ἡμᾶς ὁρατόν, τὸν ἀψηλάφητον, τὸν ἀπαθῆ, τὸν δι’ ἡμᾶς παθητόν, τὸν κατὰ πάντα τρόπον δι’ ἡμᾶς ὑπομείναντα."
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "1.7.2",
+    "form": "παθητὸς",
+    "postag": "a-s---mn-",
+    "sentence": "εἷς ἰατρός ἐστιν, σαρκικός τε καὶ πνευματικός, γεννητὸς καὶ ἀγέννητος, ἐν ἀνθρώπῳ θεός, ἐν θανάτῳ ζωὴ ἀληθινή, καὶ ἐκ Μαρίας καὶ ἐκ θεοῦ, πρῶτον παθητὸς καὶ τότε ἀπαθής."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   * παθητός, -ή, -όν    (< πάσχω),      one who has suffered.     subject to suffering (R, mg., v. M, Pr., 222) or destined to suffer (AV, R, txt.): Ac 26:23.†"
+}

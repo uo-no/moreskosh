@@ -1,0 +1,51 @@
+{
+ "strong": "G3871",
+ "lemma": "παρακαλύπτομαι",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": "παρακαλυπτω",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 9:45",
+   "form": "παρακεκαλυμμένον",
+   "morph": "V-RPP-NSN",
+   "gloss_en": "concealed",
+   "gloss_ja": "隠す",
+   "verse": "οἱ δὲ ἠγνόουν τὸ ῥῆμα τοῦτο, καὶ ἦν παρακεκαλυμμένον ἀπ’ αὐτῶν ἵνα μὴ αἴσθωνται αὐτό, καὶ ἐφοβοῦντο ἐρωτῆσαι αὐτὸν περὶ τοῦ ῥήματος τούτου."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Isaias": 1,
+   "Ezechiel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "44.8",
+    "form": "παρακαλύπτεσθε",
+    "postag": "v2ppmm---",
+    "sentence": "μὴ παρακαλύπτεσθε μη-δὲ πλανᾶσθε ·"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "22.26",
+    "form": "παρεκάλυπτον",
+    "postag": "v3piia---",
+    "sentence": "ἀναμέσον ἁγίου καὶ βεβήλου οὐ διέστελλον καὶ ἀναμέσον ἀκαθάρτου καὶ τοῦ καθαροῦ οὐ διέστελλον καὶ ἀπὸ τῶν σαββάτων μου παρεκάλυπτον τοὺς ὀφθαλμοὺς αὐτῶν, καὶ ἐβεβηλούμην ἐν μέσῳ αὐτῶν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1 παρα-καλύπτω,    [in LXX: Is 44:8 (פּחד), Ez 22:26 (עלם hi.)*;]    to cover by hanging something beside, to hide: metaph. (as Plat., al.), Lk 9:45.†"
+}

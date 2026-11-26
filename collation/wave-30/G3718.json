@@ -1,0 +1,50 @@
+{
+ "strong": "G3718",
+ "lemma": "ὀρθοτομέω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2TI 2:15",
+   "form": "ὀρθοτομοῦντα",
+   "morph": "V-PAP-ASM",
+   "gloss_en": "rightly explaining",
+   "gloss_ja": "正しく扱う",
+   "verse": "σπούδασον σεαυτὸν δόκιμον παραστῆσαι τῷ θεῷ, ἐργάτην ἀνεπαίσχυντον, ὀρθοτομοῦντα τὸν λόγον τῆς ἀληθείας."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Proverbia": 2
+  },
+  "representatives": [
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "11.5",
+    "form": "ὀρθοτομεῖ",
+    "postag": "v3spia---",
+    "sentence": "δικαιοσύνη ἀμώμους ὀρθοτομεῖ ὁδούς, ἀσέβεια δὲ περιπίπτει ἀδικίᾳ."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "3.6",
+    "form": "ὀρθοτομῇ",
+    "postag": "v3spsa---",
+    "sentence": "ἐν πάσαις ὁδοῖς σου γνώριζε αὐτήν, ἵνα ὀρθοτομῇ τὰς ὁδούς σου, ὁ δὲ πούς σου μὴ προσκόψῃ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   † ὀρθοτομέω, -ῶ    (< ὀρθός, τέμνω),   [in LXX: Pr 3:6 11:6 (ישׁר pi.)*;]    to cut straight, as a road (τ. ὁδούς, fig., Pr 3:6 11:6). Metaph., τ. λόγον τ. ἀληθείας, II Ti 2:15 (V. Ellic. and CGT, in l.; not found elsewhere).†"
+}

@@ -1,0 +1,51 @@
+{
+ "strong": "G3839",
+ "lemma": "πάντῃ",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 24:3",
+   "form": "πάντῃ",
+   "morph": "ADV",
+   "gloss_en": "in every way",
+   "gloss_ja": "あらゆる点で",
+   "verse": "πάντῃ τε καὶ πανταχοῦ ἀποδεχόμεθα, κράτιστε Φῆλιξ, μετὰ πάσης εὐχαριστίας."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Machabaeorum iii": 1,
+   "Ecclesiasticus sive Siracides": 1
+  },
+  "representatives": [
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "4.1",
+    "form": "πάντῃ",
+    "postag": "d--------",
+    "sentence": "πάντῃ δέ, ὅπου προσέπιπτε τοῦτο τὸ πρόσταγμα, δημοτελὴς συνίστατο τοῖς ἔθνεσιν εὐωχία μετὰ ἀλαλαγμῶν καὶ χαρᾶς, ὡς ἂν τῆς προκατεσκιρρωμένης αὐτοῖς πάλαι κατὰ διάνοιαν μετὰ παρρησίας συνεκφαινομένης ἀπεχθείας."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "50.22",
+    "form": "πάντη",
+    "postag": "d--------",
+    "sentence": "καὶ νῦν εὐλογήσατε τῷ Θεῷ πάντων τῷ μεγαλοποιοῦντι πάντη, τὸν ὑψοῦντα ἡμέρας ἡμῶν ἐκ μήτρας καὶ ποιοῦντα μεθ’ ἡμῶν κατὰ τὸ ἔλεος αὐτοῦ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ** πάντῃ (Rec. -τη),     adv.    (< πᾶς),   [in LXX: Si 50:22, III Mac 4:1*;]    every way, entirely: Ac 24:3.†"
+}

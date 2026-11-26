@@ -1,0 +1,51 @@
+{
+ "strong": "G3802",
+ "lemma": "παγιδεύω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MAT 22:15",
+   "form": "παγιδεύσωσιν",
+   "morph": "V-AAS-3P",
+   "gloss_en": "trap",
+   "gloss_ja": "罠にかける",
+   "verse": "Τότε πορευθέντες οἱ Φαρισαῖοι συμβούλιον ἔλαβον ὅπως αὐτὸν παγιδεύσωσιν ἐν λόγῳ."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Regnorum i": 1,
+   "Ecclesiastes": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "28.9",
+    "form": "παγιδεύεις",
+    "postag": "v2spia---",
+    "sentence": "καὶ ἱνατί σὺ παγιδεύεις τὴν ψυχήν μου θανατῶσαι αὐτήν;"
+   },
+   {
+    "work_code": "ECC",
+    "work_ja": "コヘレトの言葉",
+    "work_src": "Ecclesiastes",
+    "ref": "9.12",
+    "form": "παγιδεύονται",
+    "postag": "v3ppim---",
+    "sentence": "ὡς οἱ ἰχθύες οἱ θηρευόμενοι ἐν ἀμφιβλήστρῳ κακῷ καὶ ὡς ὄρνεα τὰ θηρευόμενα ἐν παγίδι, ὡς αὐτὰ παγιδεύονται οἱ υἱοὶ τοῦ ἀνθρώπου εἰς καιρὸν πονηρόν, ὅταν ἐπιπέσῃ ἐπ’ αὐτοὺς ἄφνω."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   † παγιδεύω    (< παγίς),   [in LXX: I Ki 28:9 (נקשׁ hith.), Ec 9:12 (יקשׁ pu.)*;]    to ensnare: metaph., c. acc., ἐν λόγῳ, Mt 22:15 (not elsewhere).†"
+}
