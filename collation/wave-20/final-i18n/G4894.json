@@ -1,0 +1,49 @@
+{
+  "strong": "G4894",
+  "lemma": "σύνοιδα",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "知っている・自覚している",
+      "def_ja": "身に覚えがある、自覚している、知っている。『わたしは何もやましいところを覚えない』『妻も承知の上で』。",
+      "label_en": "to know, to be aware",
+      "def_en": "To be conscious of something against oneself, to be aware, to know.",
+      "label_es": "saber, tener conciencia",
+      "def_es": "Tener algo sobre la conciencia, ser consciente, saber.",
+      "label_sv": "att vara medveten om",
+      "def_sv": "Att veta med sig, vara medveten, känna till.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "コリント第一4:4、使徒5:2。LXX、教父に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "悟る・気づく",
+      "def_ja": "事に気づく、悟る（アオリスト分詞）。『それを悟って』『これに気づいて』。パケットの語形（συνιδών／συνιδόντες）は συνοράω の形とも見えるが、同じ番号の下にあるものとして割り当てる。",
+      "label_en": "to realize, to notice",
+      "def_en": "To become aware of a matter (aorist participle).",
+      "label_es": "percatarse",
+      "def_es": "Darse cuenta de un asunto (participio aoristo).",
+      "label_sv": "att inse, att märka",
+      "def_sv": "Att bli varse en sak (aoristparticip).",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒12:12・14:6。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 4:4": 1,
+    "ACT 12:12": 2,
+    "ACT 14:6": 2,
+    "ACT 5:2": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（自覚している／悟る）による。"
+}

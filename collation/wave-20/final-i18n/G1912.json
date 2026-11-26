@@ -1,0 +1,48 @@
+{
+  "strong": "G1912",
+  "lemma": "ἐπιβαρέω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "重荷になる",
+      "def_ja": "重荷になる、負担をかける。『だれにも負担をかけまいとして』『あなたがたのだれにも負担をかけまいと』。",
+      "label_en": "to be a burden",
+      "def_en": "To weigh upon, to lay a burden on.",
+      "label_es": "ser gravoso",
+      "def_es": "Ser una carga, imponer peso.",
+      "label_sv": "att ligga till last",
+      "def_sv": "Att vara en börda, att betunga.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "テサロニケ第一2:9、テサロニケ第二3:8。語義2との境界は連続的。LXX・教父の用例なし。"
+    },
+    {
+      "n": 2,
+      "label_ja": "言い過ぎる・重く負わせる（解釈が分かれる）",
+      "def_ja": "『あなたがたすべてに言い過ぎないようにするため』（ἐπιβαρῶ）。「負担をかける」か「言い過ぎる」かの読みは決定しない。",
+      "label_en": "to overstate, to bear too hard (disputed)",
+      "def_en": "“So as not to ἐπιβαρῶ you all”; whether it means “to be a burden” or “to say too much” is not decided.",
+      "label_es": "exagerar, cargar demasiado (discutido)",
+      "def_es": "«Para no ἐπιβαρῶ a todos vosotros»; no se decide si es «ser gravoso» o «exagerar».",
+      "label_sv": "att säga för mycket, att lägga för tung börda (omtvistat)",
+      "def_sv": "”För att inte ἐπιβαρῶ er alla”; om det betyder ”att betunga” eller ”att överdriva” avgörs inte.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "コリント第二2:5。語義1との境界は連続的。LXX・教父の用例なし。"
+    }
+  ],
+  "assignments": {
+    "1TH 2:9": 1,
+    "2CO 2:5": 2,
+    "2TH 3:8": 1
+  },
+  "unresolved": [],
+  "layer_notes": "LXX・教父の用例なし。語義区分は用法（重荷になる／コリント第二2:5）による。コリント第二2:5 は決定しない。"
+}

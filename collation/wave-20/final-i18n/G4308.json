@@ -1,0 +1,49 @@
+{
+  "strong": "G4308",
+  "lemma": "προοράω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "前に見る・見かける",
+      "def_ja": "前に見る、すでに見かける。『わたしは常に主を前に見ていた』『エペソ人トロピモが…いっしょにいるのを見かけていた』。",
+      "label_en": "to see before",
+      "def_en": "To have seen previously.",
+      "label_es": "haber visto antes",
+      "def_es": "Haber visto con anterioridad.",
+      "label_sv": "att förut ha sett",
+      "def_sv": "Att redan tidigare ha sett.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒2:25・21:29。LXX、教父に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "あらかじめ見る・予見する",
+      "def_ja": "予見する。『キリストの復活を予見して』『聖書は…あらかじめ見て』。",
+      "label_en": "to foresee",
+      "def_en": "To see beforehand, to foresee.",
+      "label_es": "prever",
+      "def_es": "Ver de antemano.",
+      "label_sv": "att förutse",
+      "def_sv": "Att se i förväg.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒2:31、ガラテヤ3:8。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 2:25": 1,
+    "ACT 2:31": 2,
+    "ACT 21:29": 1,
+    "GAL 3:8": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（前に見る／予見する）による。"
+}

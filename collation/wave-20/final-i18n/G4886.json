@@ -1,0 +1,66 @@
+{
+  "strong": "G4886",
+  "lemma": "σύνδεσμος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "結び・きずな",
+      "def_ja": "結び目、きずな。『平和のきずなで結ばれ』『愛、…完全なきずな』。",
+      "label_en": "bond, tie",
+      "def_en": "A knot, a bond.",
+      "label_es": "vínculo, lazo",
+      "def_es": "Atadura, vínculo.",
+      "label_sv": "band",
+      "def_sv": "Knut, sammanhållande band.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "コロサイ3:14、エペソ4:3。LXX に並行。教父の代表例は「不義の束縛」の用法で、この語義としては確認していない。語義2・3との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "靭帯・つなぎ",
+      "def_ja": "からだをつなぐ靭帯、つなぎ。『節々や筋によって』。",
+      "label_en": "ligament",
+      "def_en": "The ligaments that join the body together.",
+      "label_es": "ligamento",
+      "def_es": "Las coyunturas o ligamentos que unen el cuerpo.",
+      "label_sv": "ledband",
+      "def_sv": "De band som håller samman kroppen.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "コロサイ2:19。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "束縛・なわめ",
+      "def_ja": "縛るもの、束縛。『不義のなわめ』。",
+      "label_en": "fetter, chain",
+      "def_en": "That which binds; bondage.",
+      "label_es": "prisión, cadena",
+      "def_es": "Lo que ata, sujeción.",
+      "label_sv": "boja",
+      "def_sv": "Det som binder, fjättrar.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "使徒8:23。教父（「不義のあらゆる束縛を解け」）に並行。LXX の代表例では確認していない。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "ACT 8:23": 3,
+    "COL 2:19": 2,
+    "COL 3:14": 1,
+    "EPH 4:3": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（きずな／靭帯／束縛）による。"
+}

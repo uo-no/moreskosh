@@ -1,0 +1,48 @@
+{
+  "strong": "G1758",
+  "lemma": "ἐνέχω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "つながれる・縛られる",
+      "def_ja": "束縛される、くびきにつながれる。『奴隷のくびきに…つながれてはならない』。",
+      "label_en": "to be bound, to be subjected",
+      "def_en": "To be held fast, to be tied to a yoke.",
+      "label_es": "estar sujeto",
+      "def_es": "Quedar atado, estar uncido a un yugo.",
+      "label_sv": "att vara fångad, att vara bunden",
+      "def_sv": "Att vara fjättrad, att bli spänd i ett ok.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ガラテヤ5:1。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "恨む・敵意を抱く",
+      "def_ja": "恨む、敵意を抱く。『ヘロデヤは…恨み』『激しく迫り』。",
+      "label_en": "to bear a grudge",
+      "def_en": "To harbor resentment or hostility.",
+      "label_es": "guardar rencor",
+      "def_es": "Tener ojeriza, ser hostil.",
+      "label_sv": "att hysa agg",
+      "def_sv": "Att bära groll, att vara fientlig.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ11:53、マルコ6:19。LXX に並行。教父の用例なし。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "GAL 5:1": 1,
+    "LUK 11:53": 2,
+    "MRK 6:19": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（束縛／敵意）による。"
+}

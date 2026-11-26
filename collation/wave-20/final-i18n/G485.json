@@ -1,0 +1,49 @@
+{
+  "strong": "G485",
+  "lemma": "ἀντιλογία",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "論争・反論",
+      "def_ja": "論争、反論、言い争い。『誓いはあらゆる論争の終わり』『小なる者が大なる者から祝福される…反論の余地はない』。",
+      "label_en": "dispute, contradiction",
+      "def_en": "Dispute, contradiction, wrangling.",
+      "label_es": "disputa, contradicción",
+      "def_es": "Controversia, contradicción, discusión.",
+      "label_sv": "tvist, motsägelse",
+      "def_sv": "Tvist, invändning, ordstrid.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヘブル6:16・7:7。LXX に並行。教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "敵対・反逆",
+      "def_ja": "敵対、反逆。『罪人たちの…敵対』『コラのように反逆して』。",
+      "label_en": "hostility, rebellion",
+      "def_en": "Hostility, rebellion.",
+      "label_es": "hostilidad, rebelión",
+      "def_es": "Oposición, rebelión.",
+      "label_sv": "motstånd, uppror",
+      "def_sv": "Fientlighet, uppror.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヘブル12:3、ユダ11。LXX に並行。教父の用例なし。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "HEB 12:3": 2,
+    "HEB 6:16": 1,
+    "HEB 7:7": 1,
+    "JUD 1:11": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（論争／敵対・反逆）による。"
+}

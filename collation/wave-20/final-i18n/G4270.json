@@ -1,0 +1,66 @@
+{
+  "strong": "G4270",
+  "lemma": "προγράφω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "前もって書く",
+      "def_ja": "前もって書く、あらかじめ記す。『前に簡単に書いたとおり』『昔のことで書かれたことは』。",
+      "label_en": "to write beforehand",
+      "def_en": "To write previously, to record in advance.",
+      "label_es": "escribir antes",
+      "def_es": "Escribir con anterioridad, consignar de antemano.",
+      "label_sv": "att skriva förut",
+      "def_sv": "Att tidigare skriva, att i förväg uppteckna.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "エペソ3:3、ローマ15:4。LXX（「前述の」）、教父に並行。語義2・3との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "公に描き示す",
+      "def_ja": "公然と描き示す、はっきり示す。『十字架につけられた姿が…描き示された』。",
+      "label_en": "to portray publicly",
+      "def_en": "To depict openly, to set forth clearly.",
+      "label_es": "presentar públicamente",
+      "def_es": "Pintar a la vista de todos, exponer con claridad.",
+      "label_sv": "att offentligt framställa",
+      "def_sv": "Att öppet måla fram, att tydligt visa.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ガラテヤ3:1。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "あらかじめ記される（解釈が分かれる）",
+      "def_ja": "『この裁きに…前から記されていた者たち』。「あらかじめ記される」か「あらかじめ定められる」かの解釈は決定しない。",
+      "label_en": "to be written down beforehand (disputed)",
+      "def_en": "Those “long ago written down for this judgment”; whether it means recorded beforehand or appointed beforehand is not decided.",
+      "label_es": "estar inscrito de antemano (discutido)",
+      "def_es": "Los que «desde antes habían sido anotados para este juicio»; no se decide si es «escritos de antemano» o «destinados de antemano».",
+      "label_sv": "att vara förut upptecknad (omtvistat)",
+      "def_sv": "De som ”sedan länge är uppskrivna för denna dom”; om det betyder förut upptecknade eller förutbestämda avgörs inte.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ユダ4。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "EPH 3:3": 1,
+    "GAL 3:1": 2,
+    "JUD 1:4": 3,
+    "ROM 15:4": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（前もって書く／公に描き示す／ユダ4）による。ユダ4は決定しない。"
+}

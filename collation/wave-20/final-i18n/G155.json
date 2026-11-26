@@ -1,0 +1,31 @@
+{
+  "strong": "G155",
+  "lemma": "αἴτημα",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "願い・要求",
+      "def_ja": "願い、要求。『願い事』『要求』『あなたがたの願いを』。",
+      "label_en": "request, demand",
+      "def_en": "A request, a demand.",
+      "label_es": "petición",
+      "def_es": "Petición, demanda.",
+      "label_sv": "begäran",
+      "def_sv": "Önskan, begäran, krav.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヨハネ第一5:15、ルカ23:24、ピリピ4:6。LXX、教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "1JN 5:15": 1,
+    "LUK 23:24": 1,
+    "PHP 4:6": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

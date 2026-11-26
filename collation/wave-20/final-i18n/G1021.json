@@ -1,0 +1,31 @@
+{
+  "strong": "G1021",
+  "lemma": "βραδύς",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "遅い",
+      "def_ja": "遅い、鈍い。『聞くに早く、語るに遅く、怒るに遅く』『信じるのに心の鈍い者たち』。",
+      "label_en": "slow",
+      "def_en": "Slow, sluggish.",
+      "label_es": "tardo, lento",
+      "def_es": "Lento, torpe.",
+      "label_sv": "sen, trög",
+      "def_sv": "Långsam, trög.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "ヤコブ1:19（2回）、ルカ24:25。LXX の用例なし。教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "JAS 1:19#1": 1,
+    "JAS 1:19#2": 1,
+    "LUK 24:25": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

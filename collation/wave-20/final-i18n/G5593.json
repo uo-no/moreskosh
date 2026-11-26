@@ -1,0 +1,32 @@
+{
+  "strong": "G5593",
+  "lemma": "ψυχρός",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "冷たい",
+      "def_ja": "冷たい。『冷たい水一杯』『熱くも冷たくもなく』『あなたは冷たくもなく』『冷たいか熱いか』。",
+      "label_en": "cold",
+      "def_en": "Cold.",
+      "label_es": "frío",
+      "def_es": "Frío.",
+      "label_sv": "kall",
+      "def_sv": "Kall.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "マタイ10:42、黙示録3:15（2回）・3:16。LXX、教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "MAT 10:42": 1,
+    "REV 3:15#1": 1,
+    "REV 3:15#2": 1,
+    "REV 3:16": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

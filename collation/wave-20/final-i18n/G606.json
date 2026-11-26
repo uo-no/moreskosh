@@ -1,0 +1,49 @@
+{
+  "strong": "G606",
+  "lemma": "ἀπόκειμαι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "蓄えられている・備えられている",
+      "def_ja": "しまってある、備えられている。『義の冠が用意されている』『天に蓄えられている望み』『布に包んでしまって置いた』。",
+      "label_en": "to be laid up, to be in store",
+      "def_en": "To be put away, to be kept ready.",
+      "label_es": "estar guardado, estar reservado",
+      "def_es": "Estar depositado, estar preparado.",
+      "label_sv": "att vara förvarad",
+      "def_sv": "Att ligga undanlagd, att vara i beredskap.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "テモテ第二4:8、コロサイ1:5、ルカ19:20。LXX に並行。教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "定められている",
+      "def_ja": "定められている。『人間には…一度死ぬことが定まっている』。",
+      "label_en": "to be appointed",
+      "def_en": "To be appointed, to be destined.",
+      "label_es": "estar establecido",
+      "def_es": "Estar determinado.",
+      "label_sv": "att vara bestämd",
+      "def_sv": "Att vara fastställd.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヘブル9:27。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "2TI 4:8": 1,
+    "COL 1:5": 1,
+    "HEB 9:27": 2,
+    "LUK 19:20": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（蓄えられている／定められている）による。"
+}

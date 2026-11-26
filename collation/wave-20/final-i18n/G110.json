@@ -1,0 +1,31 @@
+{
+  "strong": "G110",
+  "lemma": "ἀθανασία",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "不死",
+      "def_ja": "不死、死なないこと。『不死を着る』『不死を着るとき』『ただひとり不死を保ち』『不死をまとい』。",
+      "label_en": "immortality",
+      "def_en": "Not dying; immortality.",
+      "label_es": "inmortalidad",
+      "def_es": "El no morir; inmortalidad.",
+      "label_sv": "odödlighet",
+      "def_sv": "Att inte dö; odödlighet.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "コリント第一15:53・15:54、テモテ第一6:16。LXX、教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "1CO 15:53": 1,
+    "1CO 15:54": 1,
+    "1TI 6:16": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

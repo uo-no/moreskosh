@@ -1,0 +1,32 @@
+{
+  "strong": "G69",
+  "lemma": "ἀγρυπνέω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "目を覚ましている",
+      "def_ja": "目を覚ましている、寝ずに見張る。『目をさまして、常に祈りつつ』『見張りをしている』『目をさましていなさい』『目を覚ましていなさい』。",
+      "label_en": "to keep watch, to be alert",
+      "def_en": "To be awake, to keep sleepless watch.",
+      "label_es": "velar",
+      "def_es": "Estar despierto, vigilar sin dormir.",
+      "label_sv": "att vaka",
+      "def_sv": "Att hålla sig vaken, att stå på vakt utan sömn.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "エペソ6:18、ヘブル13:17、ルカ21:36、マルコ13:33。LXX、教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "EPH 6:18": 1,
+    "HEB 13:17": 1,
+    "LUK 21:36": 1,
+    "MRK 13:33": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

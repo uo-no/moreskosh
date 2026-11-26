@@ -1,0 +1,49 @@
+{
+  "strong": "G4934",
+  "lemma": "συντίθεμαι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "申し合わせる・同意する",
+      "def_ja": "申し合わせる、取り決める、同意する。『彼らは…と申し合わせて』『定めていた』『彼らは…とりきめた』『彼を出してやることに同意した』。",
+      "label_en": "to agree",
+      "def_en": "To agree among themselves, to arrange, to consent.",
+      "label_es": "convenir, acordar",
+      "def_es": "Concertarse, pactar, consentir.",
+      "label_sv": "att komma överens",
+      "def_sv": "Att göra upp, avtala, samtycka.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒23:20、ヨハネ9:22、ルカ22:5。LXX に並行（姦淫の用例の中で）。教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "共に襲う",
+      "def_ja": "共に攻撃に加わる。『ユダヤ人たちも…攻撃に加わった』。",
+      "label_en": "to join in the attack",
+      "def_en": "To take part together in an assault.",
+      "label_es": "sumarse al ataque",
+      "def_es": "Unirse a una acometida.",
+      "label_sv": "att förena sig i angreppet",
+      "def_sv": "Att gå till anfall tillsammans med andra.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒24:9。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 24:9": 2,
+    "ACT 23:20": 1,
+    "JHN 9:22": 1,
+    "LUK 22:5": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（申し合わせ／共に襲う）による。使徒24:9 の語形は別語の形とも見えるが、同じ番号の下にあるものとして割り当てる。"
+}

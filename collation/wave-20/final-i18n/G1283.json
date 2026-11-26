@@ -1,0 +1,31 @@
+{
+  "strong": "G1283",
+  "lemma": "διαρπάζω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "略奪する",
+      "def_ja": "略奪する、分捕る。『その家財を略奪する』『強い人を…略奪する』『縛ってから…略奪できる』。",
+      "label_en": "to plunder",
+      "def_en": "To plunder, to seize as spoil.",
+      "label_es": "saquear",
+      "def_es": "Saquear, tomar como botín.",
+      "label_sv": "att plundra",
+      "def_sv": "Att plundra, att ta som byte.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "マタイ12:29、マルコ3:27（2回）。LXX、教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "MAT 12:29": 1,
+    "MRK 3:27#1": 1,
+    "MRK 3:27#2": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

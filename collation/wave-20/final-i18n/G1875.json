@@ -1,0 +1,31 @@
+{
+  "strong": "G1875",
+  "lemma": "ἐπάν",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "〜するとき・〜したら",
+      "def_ja": "時を表す小辞、〜するとき、〜したら。『もっと強い者が襲って』『目が澄んでいれば』『見つけたら』。",
+      "label_en": "when, as soon as",
+      "def_en": "A temporal particle: when, once.",
+      "label_es": "cuando",
+      "def_es": "Partícula temporal: cuando, en cuanto.",
+      "label_sv": "när, så snart",
+      "def_sv": "Tidspartikel: när, så snart som.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ11:22・11:34、マタイ2:8。LXX に並行。教父の用例なし。単一語義。"
+    }
+  ],
+  "assignments": {
+    "LUK 11:22": 1,
+    "LUK 11:34": 1,
+    "MAT 2:8": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

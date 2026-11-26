@@ -1,0 +1,49 @@
+{
+  "strong": "G5288",
+  "lemma": "ὑποστέλλω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "差し控える・隠す",
+      "def_ja": "言うべきことを差し控える。『有益なことは何一つ差し控えず』『神の計画の全体を…差し控えず』。",
+      "label_en": "to hold back",
+      "def_en": "To keep back what ought to be said.",
+      "label_es": "retraerse, callar",
+      "def_es": "Omitir lo que se debe decir.",
+      "label_sv": "att hålla tillbaka",
+      "def_sv": "Att underlåta att säga något.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒20:20・20:27。語義2との境界は連続的。LXX・教父の代表例は「たじろぐ」の用法で、この語義としては確認していない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "身を引く・たじろぐ",
+      "def_ja": "身を引く、尻込みする。『身を引き』『もし恐れ退くなら』。",
+      "label_en": "to draw back, to shrink back",
+      "def_en": "To withdraw, to shrink.",
+      "label_es": "retroceder",
+      "def_es": "Echarse atrás, acobardarse.",
+      "label_sv": "att dra sig undan",
+      "def_sv": "Att vika tillbaka, att rygga.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ガラテヤ2:12、ヘブル10:38。LXX に並行。教父の用例なし。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "ACT 20:20": 1,
+    "ACT 20:27": 1,
+    "GAL 2:12": 2,
+    "HEB 10:38": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（差し控える／身を引く）による。"
+}

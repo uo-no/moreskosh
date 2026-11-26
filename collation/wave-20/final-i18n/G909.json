@@ -1,0 +1,49 @@
+{
+  "strong": "G909",
+  "lemma": "βαπτισμός",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "洗い・洗浄",
+      "def_ja": "儀式的な洗い、洗浄。『洗い清め』『食物と飲み物と種々の洗いに関するもの』。",
+      "label_en": "washing",
+      "def_en": "Ceremonial washing, ablution.",
+      "label_es": "lavamiento, ablución",
+      "def_es": "Lavado ritual, purificación.",
+      "label_sv": "tvagning",
+      "def_sv": "Rituell tvagning, rening.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マルコ7:4、ヘブル9:10。語義2との境界は連続的。LXX・教父の用例なし。"
+    },
+    {
+      "n": 2,
+      "label_ja": "バプテスマ（洗礼）",
+      "def_ja": "バプテスマ、洗礼。『バプテスマにおいて彼と共に葬られ』『洗礼についての教え』。ヘブル6:2 の複数形の指す内容は決定しない。",
+      "label_en": "baptism",
+      "def_en": "Baptism.",
+      "label_es": "bautismo",
+      "def_es": "Bautismo.",
+      "label_sv": "dop",
+      "def_sv": "Dop.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "コロサイ2:12、ヘブル6:2。語義1との境界は連続的。LXX・教父の用例なし。"
+    }
+  ],
+  "assignments": {
+    "COL 2:12": 2,
+    "HEB 6:2": 2,
+    "HEB 9:10": 1,
+    "MRK 7:4": 1
+  },
+  "unresolved": [],
+  "layer_notes": "LXX・教父の用例なし。語義区分は用法（洗い／バプテスマ）による。ヘブル6:2 は決定しない。"
+}

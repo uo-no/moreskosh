@@ -1,0 +1,32 @@
+{
+  "strong": "G501",
+  "lemma": "ἀντλέω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "汲む",
+      "def_ja": "水を汲む。『今それを汲んで』『水を汲んだ僕たち』『水を汲みに来た』『汲みに来なくてもよいように』。",
+      "label_en": "to draw (water)",
+      "def_en": "To draw water.",
+      "label_es": "sacar (agua)",
+      "def_es": "Sacar agua.",
+      "label_sv": "att ösa (vatten)",
+      "def_sv": "Att hämta upp vatten.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヨハネ2:8・2:9・4:7・4:15。LXX、教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "JHN 2:8": 1,
+    "JHN 2:9": 1,
+    "JHN 4:7": 1,
+    "JHN 4:15": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

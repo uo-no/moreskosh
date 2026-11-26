@@ -1,0 +1,49 @@
+{
+  "strong": "G4823",
+  "lemma": "συμβουλεύω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "助言する",
+      "def_ja": "助言する、勧める。『ひとりの人が民のために死ぬ方がよいと』『わたしはあなたに勧める』。",
+      "label_en": "to advise",
+      "def_en": "To advise, to counsel.",
+      "label_es": "aconsejar",
+      "def_es": "Dar consejo, recomendar.",
+      "label_sv": "att råda",
+      "def_sv": "Att ge råd, att tillråda.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヨハネ18:14、黙示録3:18。LXX、教父に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "謀る・協議する",
+      "def_ja": "共に謀る、相談する。『彼を殺そうと謀った』『イエスをひそかに捕えて殺そうと相談した』。",
+      "label_en": "to plot, to consult together",
+      "def_en": "To plan together, to take counsel.",
+      "label_es": "tramar, consultar entre sí",
+      "def_es": "Maquinar juntos, deliberar.",
+      "label_sv": "att rådslå",
+      "def_sv": "Att lägga råd, att överlägga tillsammans.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒9:23、マタイ26:4。LXX に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "ACT 9:23": 2,
+    "JHN 18:14": 1,
+    "MAT 26:4": 2,
+    "REV 3:18": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（助言する／謀る）による。"
+}

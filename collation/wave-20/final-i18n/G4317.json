@@ -1,0 +1,49 @@
+{
+  "strong": "G4317",
+  "lemma": "προσάγω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "連れて来る・導く",
+      "def_ja": "連れて来る、導く。『神のみもとへ導くため』『役人たちの前に引き出し』『ここに連れて来なさい』。",
+      "label_en": "to bring, to lead to",
+      "def_en": "To bring, to lead to.",
+      "label_es": "traer, llevar",
+      "def_es": "Traer, conducir.",
+      "label_sv": "att föra fram",
+      "def_sv": "Att föra till, att leda fram.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ペテロ第一3:18、使徒16:20、ルカ9:41。LXX、教父に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "近づく",
+      "def_ja": "近づく。『陸地に近づいていると』。",
+      "label_en": "to draw near",
+      "def_en": "To approach.",
+      "label_es": "acercarse",
+      "def_es": "Aproximarse.",
+      "label_sv": "att närma sig",
+      "def_sv": "Att komma nära.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒27:27。LXX に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "1PE 3:18": 1,
+    "ACT 16:20": 1,
+    "ACT 27:27": 2,
+    "LUK 9:41": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（連れて来る／近づく）による。"
+}

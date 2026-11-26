@@ -1,0 +1,49 @@
+{
+  "strong": "G4788",
+  "lemma": "συγκλείω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "閉じ込める・拘束する",
+      "def_ja": "閉じ込める、拘束する。『聖書は…すべてのものを罪の下に閉じ込めた』『閉じ込められていた』『すべての人を不従順のうちに閉じ込められた』。",
+      "label_en": "to shut up, to confine",
+      "def_en": "To shut in, to confine.",
+      "label_es": "encerrar",
+      "def_es": "Encerrar, tener recluido.",
+      "label_sv": "att innesluta",
+      "def_sv": "Att stänga in, att hålla fången.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ガラテヤ3:22・3:23、ローマ11:32。LXX に並行。教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "取り囲む（魚を）",
+      "def_ja": "取り囲む、囲い込む。『おびただしい魚の群れを囲み入れた』。",
+      "label_en": "to enclose (fish)",
+      "def_en": "To surround, to enclose.",
+      "label_es": "encerrar (peces)",
+      "def_es": "Rodear, atrapar dentro.",
+      "label_sv": "att stänga in (fisk)",
+      "def_sv": "Att omringa, att fånga in.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ5:6。LXX に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "GAL 3:22": 1,
+    "GAL 3:23": 1,
+    "LUK 5:6": 2,
+    "ROM 11:32": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（閉じ込める／取り囲む）による。"
+}

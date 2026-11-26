@@ -1,0 +1,49 @@
+{
+  "strong": "G901",
+  "lemma": "βαθύς",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "深い",
+      "def_ja": "深い。『その井戸は深い』『深い眠り』『サタンの深み』。",
+      "label_en": "deep",
+      "def_en": "Deep.",
+      "label_es": "hondo, profundo",
+      "def_es": "Profundo.",
+      "label_sv": "djup",
+      "def_sv": "Djup.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒20:9、ヨハネ4:11、黙示録2:24。LXX、教父に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "朝まだき（βαθέως）",
+      "def_ja": "ごく早朝に。『明け方早く』（ὄρθρου βαθέως）。",
+      "label_en": "early at dawn (βαθέως)",
+      "def_en": "Very early in the morning.",
+      "label_es": "muy de mañana (βαθέως)",
+      "def_es": "A primerísima hora.",
+      "label_sv": "tidigt i gryningen (βαθέως)",
+      "def_sv": "Mycket tidigt på morgonen.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ルカ24:1。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 20:9": 1,
+    "JHN 4:11": 1,
+    "LUK 24:1": 2,
+    "REV 2:24": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（深い／ごく早い）による。"
+}

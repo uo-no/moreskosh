@@ -1,0 +1,49 @@
+{
+  "strong": "G4192",
+  "lemma": "πόνος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "痛み・苦痛",
+      "def_ja": "痛み、苦痛。『苦痛のあまり舌をかみ』『その苦痛と傷とのゆえに』『もはや悲しみも…苦痛もない』。",
+      "label_en": "pain, anguish",
+      "def_en": "Pain, suffering.",
+      "label_es": "dolor",
+      "def_es": "Dolor, sufrimiento.",
+      "label_sv": "smärta, plåga",
+      "def_sv": "Smärta, kval.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "黙示録16:10・16:11・21:4。LXX、教父に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "労苦・熱心",
+      "def_ja": "労苦、熱心な働き。『あなたがたのために…熱心に労している』。",
+      "label_en": "toil, zeal",
+      "def_en": "Toil, earnest labor.",
+      "label_es": "trabajo, solicitud",
+      "def_es": "Esfuerzo, labor afanosa.",
+      "label_sv": "möda, iver",
+      "def_sv": "Möda, ivrigt arbete.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "コロサイ4:13。LXX に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "COL 4:13": 2,
+    "REV 16:10": 1,
+    "REV 16:11": 1,
+    "REV 21:4": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（苦痛／労苦）による。"
+}

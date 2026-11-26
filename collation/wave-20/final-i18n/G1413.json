@@ -1,0 +1,48 @@
+{
+  "strong": "G1413",
+  "lemma": "δυνάστης",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "権力者・支配者",
+      "def_ja": "権力者、支配者。『ただひとりの祝福された主権者』『権力ある者を王座から引きおろし』。",
+      "label_en": "ruler, potentate",
+      "def_en": "One who holds power, a ruler.",
+      "label_es": "poderoso, soberano",
+      "def_es": "El que tiene poder, gobernante.",
+      "label_sv": "makthavare, härskare",
+      "def_sv": "En maktägande, en härskare.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "テモテ第一6:15、ルカ1:52。LXX に並行。教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "高官",
+      "def_ja": "高官、宮廷の役人。『エチオピヤの女王に仕える高官』。",
+      "label_en": "high official",
+      "def_en": "A high official, a court officer.",
+      "label_es": "alto funcionario",
+      "def_es": "Dignatario, ministro de la corte.",
+      "label_sv": "hög ämbetsman",
+      "def_sv": "Hovman, hög tjänsteman.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒8:27。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1TI 6:15": 1,
+    "ACT 8:27": 2,
+    "LUK 1:52": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（権力者／高官）による。"
+}

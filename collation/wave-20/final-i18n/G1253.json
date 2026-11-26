@@ -1,0 +1,48 @@
+{
+  "strong": "G1253",
+  "lemma": "διάκρισις",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "見分け・識別",
+      "def_ja": "見分けること、識別。『霊を見分ける力』『善悪を見分ける力』。",
+      "label_en": "discernment",
+      "def_en": "Distinguishing, discernment.",
+      "label_es": "discernimiento",
+      "def_es": "El distinguir, discernir.",
+      "label_sv": "urskiljning",
+      "def_sv": "Att skilja mellan, att pröva.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "コリント第一12:10、ヘブル5:14。LXX、教父に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "論争（解釈が分かれる）",
+      "def_ja": "『意見を批判するためであってはならない』（διακρίσεις διαλογισμῶν）。「意見の論争」か「判断」かの読みは決定しない。",
+      "label_en": "disputing (disputed)",
+      "def_en": "“Disputes over opinions” (διακρίσεις διαλογισμῶν); whether it means quarrelling over opinions or passing judgment on them is not decided.",
+      "label_es": "contienda (discutido)",
+      "def_es": "«Discusiones sobre opiniones» (διακρίσεις διαλογισμῶν); no se decide si es disputa de pareceres o juicio sobre ellos.",
+      "label_sv": "tvist (omtvistat)",
+      "def_sv": "”Dispyter om meningar” (διακρίσεις διαλογισμῶν); om det avser ordstrid eller bedömning avgörs inte.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ローマ14:1。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 12:10": 1,
+    "HEB 5:14": 1,
+    "ROM 14:1": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（見分け／ローマ14:1）による。ローマ14:1 は決定しない。"
+}

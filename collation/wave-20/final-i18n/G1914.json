@@ -1,0 +1,48 @@
+{
+  "strong": "G1914",
+  "lemma": "ἐπιβλέπω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "目を注ぐ・顧みる",
+      "def_ja": "目を注ぐ、顧みる、哀れむ。『目をとめて』『はしためのような…身分の低い者を顧みて』『わたしの子を顧みてください』。",
+      "label_en": "to look upon with favor",
+      "def_en": "To turn one’s eyes to, to regard with compassion.",
+      "label_es": "mirar con favor",
+      "def_es": "Poner los ojos en alguien, compadecerse.",
+      "label_sv": "att se till",
+      "def_sv": "Att vända blicken till, förbarma sig över.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ルカ1:48・9:38。LXX、教父に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "注目する・気を配る",
+      "def_ja": "目を向ける、注目する、特別に扱う。『りっぱな服装の人に目をとめて』。",
+      "label_en": "to pay attention to",
+      "def_en": "To fix the eyes on, to give special treatment.",
+      "label_es": "fijarse en",
+      "def_es": "Dirigir la mirada, dar un trato especial.",
+      "label_sv": "att se upp till",
+      "def_sv": "Att fästa blicken vid, att särbehandla.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヤコブ2:3。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "JAS 2:3": 2,
+    "LUK 1:48": 1,
+    "LUK 9:38": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（顧みる／特別に注目する）による。"
+}

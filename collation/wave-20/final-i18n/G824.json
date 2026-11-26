@@ -1,0 +1,49 @@
+{
+  "strong": "G824",
+  "lemma": "ἄτοπος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "不当な・悪い",
+      "def_ja": "不当な、悪い、よこしまな。『この人は何も悪いことをしていない』『この人に何か不当なことが』『よこしまな悪人ども』。",
+      "label_en": "improper, wrong",
+      "def_en": "Improper, bad, wicked.",
+      "label_es": "indebido, malo",
+      "def_es": "Impropio, malo, perverso.",
+      "label_sv": "orätt, ond",
+      "def_sv": "Otillbörlig, ond, förvänd.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ルカ23:41、使徒25:5、テサロニケ第二3:2。LXX、教父に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "異常な",
+      "def_ja": "異常な、常でない。『この人には何の異常もない』。",
+      "label_en": "unusual",
+      "def_en": "Out of the ordinary, strange.",
+      "label_es": "anormal",
+      "def_es": "Extraño, fuera de lo común.",
+      "label_sv": "onormal",
+      "def_sv": "Ovanlig, underlig.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒28:6。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "2TH 3:2": 1,
+    "ACT 25:5": 1,
+    "ACT 28:6": 2,
+    "LUK 23:41": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（不当な／異常な）による。"
+}

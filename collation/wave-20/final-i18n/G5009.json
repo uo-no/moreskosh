@@ -1,0 +1,32 @@
+{
+  "strong": "G5009",
+  "lemma": "ταμεῖον",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "奥の部屋・納屋",
+      "def_ja": "奥の部屋、納戸、倉。『奥まった部屋で』『倉も納屋もない』『荒野に』『奥の部屋にいる』『自分の部屋にはいり』。",
+      "label_en": "inner room, storeroom",
+      "def_en": "An inner room, a closet, a storehouse.",
+      "label_es": "aposento interior, despensa",
+      "def_es": "Cuarto interior, alacena, granero.",
+      "label_sv": "kammare, förrådsrum",
+      "def_sv": "Inre rum, visthus, förråd.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ルカ12:3・12:24、マタイ24:26・6:6。LXX、教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "LUK 12:3": 1,
+    "LUK 12:24": 1,
+    "MAT 24:26": 1,
+    "MAT 6:6": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

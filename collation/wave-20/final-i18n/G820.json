@@ -1,0 +1,32 @@
+{
+  "strong": "G820",
+  "lemma": "ἄτιμος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "名誉のない",
+      "def_ja": "名誉のない、卑しい。『わたしたちは卑しめられ』『見劣りのする部分』『預言者は…敬われないことはない』『尊ばれないことはない』。",
+      "label_en": "without honor",
+      "def_en": "Without honor, lowly.",
+      "label_es": "sin honra",
+      "def_es": "Sin honor, despreciado.",
+      "label_sv": "oärad, ringa",
+      "def_sv": "Utan ära, ringaktad.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "コリント第一4:10・12:23、マタイ13:57、マルコ6:4。LXX、教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "1CO 4:10": 1,
+    "1CO 12:23": 1,
+    "MAT 13:57": 1,
+    "MRK 6:4": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

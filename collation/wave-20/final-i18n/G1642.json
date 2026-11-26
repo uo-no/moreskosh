@@ -1,0 +1,48 @@
+{
+  "strong": "G1642",
+  "lemma": "ἐλαττόω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "低くする",
+      "def_ja": "低くする、劣ったものとする。『天使よりも少し低くされた』『御使たちよりも低くされた』。",
+      "label_en": "to make lower",
+      "def_en": "To make lower, to make inferior.",
+      "label_es": "hacer menor",
+      "def_es": "Rebajar, hacer inferior.",
+      "label_sv": "att göra ringare",
+      "def_sv": "Att göra lägre, att ställa under.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヘブル2:7・2:9。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "衰える・小さくなる",
+      "def_ja": "衰える、小さくなる。『彼は必ず栄え、わたしは衰える』。",
+      "label_en": "to decrease, to diminish",
+      "def_en": "To decline, to become less.",
+      "label_es": "menguar",
+      "def_es": "Decaer, disminuir.",
+      "label_sv": "att avta",
+      "def_sv": "Att förminskas, att bli mindre.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヨハネ3:30。LXX に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "HEB 2:7": 1,
+    "HEB 2:9": 1,
+    "JHN 3:30": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（低くする／衰える）による。"
+}

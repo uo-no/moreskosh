@@ -1,0 +1,32 @@
+{
+  "strong": "G911",
+  "lemma": "βάπτω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "浸す",
+      "def_ja": "浸す、ひたす。『パンきれを浸して』『指先を水に浸して』『血に染まった衣』『浸したパンを』。",
+      "label_en": "to dip",
+      "def_en": "To dip, to immerse.",
+      "label_es": "mojar",
+      "def_es": "Mojar, sumergir.",
+      "label_sv": "att doppa",
+      "def_sv": "Att doppa, att sänka ner.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヨハネ13:26（2回）、ルカ16:24、黙示録19:13。LXX に並行。教父の用例なし。単一語義。"
+    }
+  ],
+  "assignments": {
+    "JHN 13:26#1": 1,
+    "JHN 13:26#2": 1,
+    "LUK 16:24": 1,
+    "REV 19:13": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

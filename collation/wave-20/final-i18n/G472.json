@@ -1,0 +1,49 @@
+{
+  "strong": "G472",
+  "lemma": "ἀντέχομαι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "しっかり保つ・忠実に仕える",
+      "def_ja": "しっかりと保つ、忠実に仕える。『一方に忠実に仕えて』『教えのとおり…しっかり守る』。",
+      "label_en": "to hold fast, to be devoted",
+      "def_en": "To hold on firmly, to serve faithfully.",
+      "label_es": "adherirse, retener",
+      "def_es": "Asirse con firmeza, servir fielmente.",
+      "label_sv": "att hålla sig till",
+      "def_sv": "Att hålla fast, att troget tjäna.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ルカ16:13、マタイ6:24、テトス1:9。LXX、教父に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "助ける・支える",
+      "def_ja": "弱い者を支える、助ける。『弱い者を助けなさい』。",
+      "label_en": "to help, to support",
+      "def_en": "To support the weak, to help.",
+      "label_es": "sostener, ayudar",
+      "def_es": "Apoyar a los débiles, socorrer.",
+      "label_sv": "att stödja, att hjälpa",
+      "def_sv": "Att ta sig an de svaga, att bistå.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "テサロニケ第一5:14。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1TH 5:14": 2,
+    "LUK 16:13": 1,
+    "MAT 6:24": 1,
+    "TIT 1:9": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（しっかり保つ／助ける）による。"
+}

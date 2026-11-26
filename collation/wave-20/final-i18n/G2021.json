@@ -1,0 +1,31 @@
+{
+  "strong": "G2021",
+  "lemma": "ἐπιχειρέω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "企てる・試みる",
+      "def_ja": "企てる、試みる、手を出す。『試みた』『しようとした』『多くの人が…書き連ねようと企てた』。",
+      "label_en": "to undertake, to attempt",
+      "def_en": "To undertake, to try, to set one’s hand to.",
+      "label_es": "intentar, emprender",
+      "def_es": "Emprender, tratar de, poner mano a.",
+      "label_sv": "att företa sig, att försöka",
+      "def_sv": "Att företaga, försöka, ta sig för.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒19:13・9:29、ルカ1:1。LXX、教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "ACT 19:13": 1,
+    "ACT 9:29": 1,
+    "LUK 1:1": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

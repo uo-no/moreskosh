@@ -1,0 +1,49 @@
+{
+  "strong": "G5432",
+  "lemma": "φρουρέω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "守る・保護する",
+      "def_ja": "守る、保護する。『神の力によって守られている』『あなたがたの心…を守る』。",
+      "label_en": "to guard, to keep",
+      "def_en": "To guard, to protect.",
+      "label_es": "guardar",
+      "def_es": "Guardar, proteger.",
+      "label_sv": "att bevara",
+      "def_sv": "Att vakta, att skydda.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ペテロ第一1:5、ピリピ4:7。語義2との境界は連続的。LXX・教父の代表例は「見張る」の用法で、この語義としては確認していない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "見張る・監視下に置く",
+      "def_ja": "見張る、閉じ込める。『ダマスコの町を…守備し』『律法の下に閉じ込められていた』。",
+      "label_en": "to keep watch over, to hold in custody",
+      "def_en": "To keep under watch, to shut in.",
+      "label_es": "vigilar, tener bajo custodia",
+      "def_es": "Montar guardia, tener encerrado.",
+      "label_sv": "att bevaka, att hålla i förvar",
+      "def_sv": "Att hålla under uppsikt, att hålla instängd.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "コリント第二11:32、ガラテヤ3:23。LXX、教父に並行。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "1PE 1:5": 1,
+    "2CO 11:32": 2,
+    "GAL 3:23": 2,
+    "PHP 4:7": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（守る／見張る）による。"
+}

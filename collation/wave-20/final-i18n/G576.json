@@ -1,0 +1,49 @@
+{
+  "strong": "G576",
+  "lemma": "ἀποβαίνω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "降りる・出る",
+      "def_ja": "降りる、上がる、出る。『上陸してみると』『舟から出て』。",
+      "label_en": "to disembark, to get out",
+      "def_en": "To get down, to go ashore, to get out.",
+      "label_es": "desembarcar, bajar",
+      "def_es": "Bajar, salir a tierra.",
+      "label_sv": "att stiga i land",
+      "def_sv": "Att stiga ur, att gå i land.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヨハネ21:9、ルカ5:2。語義2との境界は連続的。LXX の代表例は「〜になる」の用法で、この語義としては確認していない。教父の用例なし。"
+    },
+    {
+      "n": 2,
+      "label_ja": "〜となる・結果になる",
+      "def_ja": "結果として〜となる。『それはあなたがたにとって証しをする機会となる』『それが救いとなる』。",
+      "label_en": "to turn out, to result in",
+      "def_en": "To result in something.",
+      "label_es": "resultar, redundar en",
+      "def_es": "Venir a parar en algo.",
+      "label_sv": "att leda till",
+      "def_sv": "Att till slut bli till något.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ21:13、ピリピ1:19。LXX に並行。教父の用例なし。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "JHN 21:9": 1,
+    "LUK 21:13": 2,
+    "LUK 5:2": 1,
+    "PHP 1:19": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（降りる／結果となる）による。"
+}

@@ -1,0 +1,31 @@
+{
+  "strong": "G185",
+  "lemma": "ἀκέραιος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "純真な・混じりけのない",
+      "def_ja": "純真な、混じりけのない、害のない。『はとのように素直で』『純真で』『悪にはうとく』。",
+      "label_en": "innocent, unmixed",
+      "def_en": "Pure, unmixed, harmless.",
+      "label_es": "sencillo, puro",
+      "def_es": "Puro, sin mezcla, inofensivo.",
+      "label_sv": "oskyldig, oblandad",
+      "def_sv": "Ren, oblandad, ofarlig.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "マタイ10:16、ピリピ2:15、ローマ16:19。LXX、教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "MAT 10:16": 1,
+    "PHP 2:15": 1,
+    "ROM 16:19": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

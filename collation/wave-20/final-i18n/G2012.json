@@ -1,0 +1,48 @@
+{
+  "strong": "G2012",
+  "lemma": "ἐπίτροπος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "後見人・保護者",
+      "def_ja": "未成年者の後見人、保護者。『後見人や管理人の監督の下に』。",
+      "label_en": "guardian",
+      "def_en": "The guardian of a minor, a protector.",
+      "label_es": "tutor",
+      "def_es": "Tutor o protector de un menor.",
+      "label_sv": "förmyndare",
+      "def_sv": "En omyndigs förmyndare.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ガラテヤ4:2。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "管理人・執事",
+      "def_ja": "家や所有地の管理人。『ヘロデの家令クーザ』『管理人に』。",
+      "label_en": "steward, manager",
+      "def_en": "The manager of a household or estate.",
+      "label_es": "administrador, intendente",
+      "def_es": "El que administra la casa o las tierras.",
+      "label_sv": "förvaltare",
+      "def_sv": "Förvaltare av hus eller gods.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ルカ8:3、マタイ20:8。LXX、教父に並行。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "GAL 4:2": 1,
+    "LUK 8:3": 2,
+    "MAT 20:8": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（後見人／管理人）による。"
+}

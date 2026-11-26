@@ -1,0 +1,66 @@
+{
+  "strong": "G447",
+  "lemma": "ἀνίημι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "緩める・解く",
+      "def_ja": "縛りを緩める、解く。『みなの者の鎖が解けた』『綱を解き放して』。",
+      "label_en": "to loosen, to unfasten",
+      "def_en": "To loosen bonds, to unfasten.",
+      "label_es": "soltar, desatar",
+      "def_es": "Aflojar las ataduras, soltar.",
+      "label_sv": "att lossa",
+      "def_sv": "Att lösa upp band, att släppa.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒16:26・27:40。LXX に並行。教父の用例なし。語義2・3との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "やめる・控える",
+      "def_ja": "手をゆるめる、やめる。『おどすことをやめなさい』。",
+      "label_en": "to give up, to refrain",
+      "def_en": "To slacken, to stop doing something.",
+      "label_es": "dejar, desistir",
+      "def_es": "Aflojar, dejar de hacer.",
+      "label_sv": "att upphöra, att låta bli",
+      "def_sv": "Att släppa efter, att sluta med.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "エペソ6:9。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "見捨てる",
+      "def_ja": "見捨てる、離れる。『あなたを離れず、あなたを捨てない』。",
+      "label_en": "to forsake",
+      "def_en": "To abandon, to leave.",
+      "label_es": "desamparar",
+      "def_es": "Abandonar, apartarse.",
+      "label_sv": "att överge",
+      "def_sv": "Att svika, att lämna.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヘブル13:5。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 16:26": 1,
+    "ACT 27:40": 1,
+    "EPH 6:9": 2,
+    "HEB 13:5": 3
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（緩める／やめる／見捨てる）による。"
+}

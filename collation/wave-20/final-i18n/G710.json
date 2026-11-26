@@ -1,0 +1,32 @@
+{
+  "strong": "G710",
+  "lemma": "ἀριστερός",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "左の",
+      "def_ja": "左の。『左の手』『左に』『左側に』『左の側』。",
+      "label_en": "left",
+      "def_en": "On the left.",
+      "label_es": "izquierdo",
+      "def_es": "De la izquierda.",
+      "label_sv": "vänster",
+      "def_sv": "Till vänster.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "コリント第二6:7、ルカ23:33、マタイ6:3、マルコ10:37。LXX、教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "2CO 6:7": 1,
+    "LUK 23:33": 1,
+    "MAT 6:3": 1,
+    "MRK 10:37": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

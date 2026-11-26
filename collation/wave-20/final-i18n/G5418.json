@@ -1,0 +1,49 @@
+{
+  "strong": "G5418",
+  "lemma": "φραγμός",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "垣・囲い",
+      "def_ja": "垣、囲い。『垣をめぐらし』『垣根のあたり』『垣をめぐらし』。",
+      "label_en": "fence, hedge",
+      "def_en": "A fence, an enclosure.",
+      "label_es": "cerca, vallado",
+      "def_es": "Cerca, seto.",
+      "label_sv": "gärdesgård, stängsel",
+      "def_sv": "Stängsel, inhägnad.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "マタイ21:33、マルコ12:1、ルカ14:23。LXX、教父に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "隔ての壁",
+      "def_ja": "隔てるもの、隔ての壁。『隔ての中垣』。",
+      "label_en": "dividing wall",
+      "def_en": "That which separates, a wall of partition.",
+      "label_es": "pared de separación",
+      "def_es": "Lo que separa, muro divisorio.",
+      "label_sv": "skiljemur",
+      "def_sv": "Det som skiljer åt, en mellanvägg.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "エペソ2:14。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "EPH 2:14": 2,
+    "LUK 14:23": 1,
+    "MAT 21:33": 1,
+    "MRK 12:1": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（垣／隔ての壁）による。"
+}
