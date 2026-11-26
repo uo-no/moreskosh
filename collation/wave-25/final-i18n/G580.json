@@ -1,0 +1,47 @@
+{
+  "strong": "G580",
+  "lemma": "ἀποβολή",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "喪失",
+      "def_ja": "喪失、失われること。『だれも命を失わない』。",
+      "label_en": "loss",
+      "def_en": "Loss, being lost.",
+      "label_es": "pérdida",
+      "def_es": "El perderse.",
+      "label_sv": "förlust",
+      "def_sv": "Att gå förlorad.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒27:22。LXX・教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "拒絶",
+      "def_ja": "拒絶、退けること。『彼らが退けられること』。",
+      "label_en": "rejection",
+      "def_en": "Rejection, casting aside.",
+      "label_es": "rechazo",
+      "def_es": "Exclusión, el desechar.",
+      "label_sv": "förkastande",
+      "def_sv": "Att bli bortstött.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ローマ11:15。LXX・教父の用例なし。"
+    }
+  ],
+  "assignments": {
+    "ACT 27:22": 1,
+    "ROM 11:15": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（喪失／拒絶）による。"
+}

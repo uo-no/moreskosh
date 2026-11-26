@@ -1,0 +1,30 @@
+{
+  "strong": "G70",
+  "lemma": "ἀγρυπνία",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "不眠",
+      "def_ja": "不眠、眠らずにいること。『眠れない夜』（2回）。",
+      "label_en": "sleeplessness",
+      "def_en": "Sleeplessness, going without sleep.",
+      "label_es": "desvelo",
+      "def_es": "Falta de sueño.",
+      "label_sv": "sömnlöshet",
+      "def_sv": "Att vaka utan sömn.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "コリント第二6:5・11:27。LXX、教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "2CO 6:5": 1,
+    "2CO 11:27": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

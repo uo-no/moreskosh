@@ -1,0 +1,47 @@
+{
+  "strong": "G673",
+  "lemma": "ἀποχωρίζομαι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "別れる",
+      "def_ja": "別れる、離れる。『互いに別れ別れになった』。",
+      "label_en": "to part",
+      "def_en": "To separate, to depart from one another.",
+      "label_es": "separarse",
+      "def_es": "Apartarse uno de otro.",
+      "label_sv": "att skiljas",
+      "def_sv": "Att gå isär.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒15:39。LXX・教父の代表例では確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "取り去られる",
+      "def_ja": "取り去られる、消え去る。『巻物が巻かれるように消え去り』。",
+      "label_en": "to be removed",
+      "def_en": "To be taken away, to vanish.",
+      "label_es": "ser quitado",
+      "def_es": "Retirarse, desaparecer.",
+      "label_sv": "att vika undan",
+      "def_sv": "Att försvinna bort.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "黙示録6:14。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 15:39": 1,
+    "REV 6:14": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。"
+}

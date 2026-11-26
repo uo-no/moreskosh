@@ -1,0 +1,30 @@
+{
+  "strong": "G971",
+  "lemma": "βιάζω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "力を加える",
+      "def_ja": "力を加える、押し入る。『激しく攻められている』『押し寄せている』。態（中動・受動）の読みは決定しない。",
+      "label_en": "to use force",
+      "def_en": "To apply force, to press in.",
+      "label_es": "hacer violencia",
+      "def_es": "Emplear la fuerza, abrirse paso.",
+      "label_sv": "att bruka våld",
+      "def_sv": "Att tränga sig fram, att öva våld.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ルカ16:16、マタイ11:12。LXX、教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "LUK 16:16": 1,
+    "MAT 11:12": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

@@ -1,0 +1,30 @@
+{
+  "strong": "G82",
+  "lemma": "ἄδηλος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "不明瞭な",
+      "def_ja": "はっきりしない、見えない。『不明瞭な音』『あらわでない墓』。",
+      "label_en": "indistinct",
+      "def_en": "Not clear, unseen.",
+      "label_es": "incierto",
+      "def_es": "No claro, que no se ve.",
+      "label_sv": "otydlig",
+      "def_sv": "Oklar, osynlig.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "コリント第一14:8、ルカ11:44。LXX、教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "1CO 14:8": 1,
+    "LUK 11:44": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

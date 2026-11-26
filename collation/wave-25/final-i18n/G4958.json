@@ -1,0 +1,47 @@
+{
+  "strong": "G4958",
+  "lemma": "συστέλλω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "縮まる",
+      "def_ja": "縮まる、短くされる。『時は縮まっている』。",
+      "label_en": "to be shortened",
+      "def_en": "To be drawn together, to be made short.",
+      "label_es": "acortarse",
+      "def_es": "Quedar reducido, abreviarse.",
+      "label_sv": "att förkortas",
+      "def_sv": "Att dras samman, att bli kort.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "コリント第一7:29。LXX・教父の代表例では確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "包む",
+      "def_ja": "包む、くるむ。『屍を包んで』。",
+      "label_en": "to wrap up",
+      "def_en": "To wrap, to shroud.",
+      "label_es": "envolver",
+      "def_es": "Amortajar, cubrir.",
+      "label_sv": "att svepa in",
+      "def_sv": "Att linda in.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒5:6。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 7:29": 1,
+    "ACT 5:6": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。LXX の代表例は『屈する』の用法で、この二つの用法は確認していない。"
+}

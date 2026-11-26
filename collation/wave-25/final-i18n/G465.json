@@ -1,0 +1,30 @@
+{
+  "strong": "G465",
+  "lemma": "ἀντάλλαγμα",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "代価",
+      "def_ja": "代価、引き換えのもの。『自分のいのちと引き換えに』（2回）。",
+      "label_en": "price in exchange",
+      "def_en": "A price, that which is given in exchange.",
+      "label_es": "precio de rescate",
+      "def_es": "Lo que se da a cambio.",
+      "label_sv": "lösen, bytesvärde",
+      "def_sv": "Det man ger i utbyte.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "マタイ16:26、マルコ8:37。LXX に並行。教父の用例なし。単一語義。"
+    }
+  ],
+  "assignments": {
+    "MAT 16:26": 1,
+    "MRK 8:37": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

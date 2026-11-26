@@ -1,0 +1,47 @@
+{
+  "strong": "G5313",
+  "lemma": "ὕψωμα",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "高ぶり",
+      "def_ja": "高ぶり、傲慢な砦。『高ぶり』。",
+      "label_en": "lofty thing, pretension",
+      "def_en": "Haughtiness, a proud stronghold.",
+      "label_es": "altivez",
+      "def_es": "Soberbia, baluarte arrogante.",
+      "label_sv": "högt bålverk",
+      "def_sv": "Högmod, ett stolt fäste.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "コリント第二10:5。LXX に並行。教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "高み",
+      "def_ja": "高み、高さ。『高さも深さも』。",
+      "label_en": "height",
+      "def_en": "A high place, height.",
+      "label_es": "altura",
+      "def_es": "Lo alto.",
+      "label_sv": "höjd",
+      "def_sv": "Det höga.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ローマ8:39。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "2CO 10:5": 1,
+    "ROM 8:39": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。"
+}

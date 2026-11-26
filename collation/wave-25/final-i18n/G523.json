@@ -1,0 +1,30 @@
+{
+  "strong": "G523",
+  "lemma": "ἀπαιτέω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "要求する",
+      "def_ja": "要求する、返すよう求める。『取り返される』『返してもらおうとしてはならない』。",
+      "label_en": "to demand back",
+      "def_en": "To require, to ask to have returned.",
+      "label_es": "reclamar",
+      "def_es": "Exigir, pedir la devolución.",
+      "label_sv": "att kräva tillbaka",
+      "def_sv": "Att fordra, att begära åter.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ルカ12:20・6:30。LXX、教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "LUK 12:20": 1,
+    "LUK 6:30": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

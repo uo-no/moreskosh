@@ -1,0 +1,30 @@
+{
+  "strong": "G4568",
+  "lemma": "σάτον",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "サトン",
+      "def_ja": "容量の単位、サトン（約13リットル）。『三サトン』（2回）。LXX の代表例は同じ語ではない。",
+      "label_en": "seah",
+      "def_en": "A unit of capacity, the saton (about 13 liters).",
+      "label_es": "sato",
+      "def_es": "Medida de capacidad, el saton (unos 13 litros).",
+      "label_sv": "sea-mått",
+      "def_sv": "Ett rymdmått, saton (omkring 13 liter).",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ルカ13:21、マタイ13:33。LXX・教父の代表例では確認していない。単一語義。"
+    }
+  ],
+  "assignments": {
+    "LUK 13:21": 1,
+    "MAT 13:33": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

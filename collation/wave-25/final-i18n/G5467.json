@@ -1,0 +1,47 @@
+{
+  "strong": "G5467",
+  "lemma": "χαλεπός",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "困難な",
+      "def_ja": "困難な、厄介な。『困難な時代』。",
+      "label_en": "difficult",
+      "def_en": "Hard, troublesome.",
+      "label_es": "difícil",
+      "def_es": "Arduo, penoso.",
+      "label_sv": "svår",
+      "def_sv": "Besvärlig.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "テモテ第二3:1。LXX、教父に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "凶暴な",
+      "def_ja": "凶暴な、荒々しい。『非常に凶暴で』。",
+      "label_en": "fierce",
+      "def_en": "Violent, savage.",
+      "label_es": "feroz",
+      "def_es": "Violento, bravo.",
+      "label_sv": "vild",
+      "def_sv": "Våldsam, farlig.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "マタイ8:28。LXX の代表例では確認していない。教父に並行（凶暴な獣）。"
+    }
+  ],
+  "assignments": {
+    "2TI 3:1": 1,
+    "MAT 8:28": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。"
+}

@@ -1,0 +1,30 @@
+{
+  "strong": "G984",
+  "lemma": "βλάπτω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "害する",
+      "def_ja": "害する、傷つける。『傷を負わせず』『害を与えない』。",
+      "label_en": "to harm",
+      "def_en": "To injure, to hurt.",
+      "label_es": "dañar",
+      "def_es": "Hacer daño, herir.",
+      "label_sv": "att skada",
+      "def_sv": "Att göra illa.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ルカ4:35、マルコ16:18。LXX、教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "LUK 4:35": 1,
+    "MRK 16:18": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

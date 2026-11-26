@@ -1,0 +1,30 @@
+{
+  "strong": "G4724",
+  "lemma": "στέλλομαι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "避ける・引き下がる",
+      "def_ja": "避ける、身を引く。『避けようとして』『離れなさい』。LXX の代表例は『装う』『航行する』の用法で、この用法は確認していない。",
+      "label_en": "to avoid, to keep away",
+      "def_en": "To avoid, to draw back from.",
+      "label_es": "evitar, apartarse",
+      "def_es": "Esquivar, retirarse.",
+      "label_sv": "att undvika, att dra sig undan",
+      "def_sv": "Att akta sig för, att hålla sig borta.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "コリント第二8:20、テサロニケ第二3:6。LXX・教父の代表例では確認していない。単一語義。"
+    }
+  ],
+  "assignments": {
+    "2CO 8:20": 1,
+    "2TH 3:6": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

@@ -1,0 +1,47 @@
+{
+  "strong": "G4323",
+  "lemma": "προσανατίθημι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "相談する",
+      "def_ja": "相談する、意見を求める。『人に相談せず』。",
+      "label_en": "to consult",
+      "def_en": "To consult, to seek an opinion.",
+      "label_es": "consultar",
+      "def_es": "Pedir parecer.",
+      "label_sv": "att rådfråga",
+      "def_sv": "Att söka råd hos.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ガラテヤ1:16。LXX・教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "付け加える",
+      "def_ja": "付け加える、さらに教える。『何も付け加えなかった』。",
+      "label_en": "to add",
+      "def_en": "To add, to teach in addition.",
+      "label_es": "añadir",
+      "def_es": "Agregar, enseñar además.",
+      "label_sv": "att tillägga",
+      "def_sv": "Att lägga till, att därutöver lära.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ガラテヤ2:6。LXX・教父の用例なし。"
+    }
+  ],
+  "assignments": {
+    "GAL 1:16": 1,
+    "GAL 2:6": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。"
+}

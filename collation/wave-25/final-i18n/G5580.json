@@ -1,0 +1,30 @@
+{
+  "strong": "G5580",
+  "lemma": "ψευδόχριστος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "偽キリスト",
+      "def_ja": "偽キリスト。『にせキリスト』（2回）。",
+      "label_en": "false Christ",
+      "def_en": "A false Christ.",
+      "label_es": "falso Cristo",
+      "def_es": "Un Cristo fingido.",
+      "label_sv": "falsk messias",
+      "def_sv": "En falsk Kristus.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マタイ24:24、マルコ13:22。LXX・教父の用例なし。単一語義。"
+    }
+  ],
+  "assignments": {
+    "MAT 24:24": 1,
+    "MRK 13:22": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

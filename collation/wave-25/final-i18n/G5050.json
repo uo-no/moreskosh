@@ -1,0 +1,47 @@
+{
+  "strong": "G5050",
+  "lemma": "τελείωσις",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "完全にすること",
+      "def_ja": "完全にすること、完成。『もし完全にされるのが』。",
+      "label_en": "perfecting",
+      "def_en": "Making perfect, completion.",
+      "label_es": "perfección",
+      "def_es": "El perfeccionar, consumación.",
+      "label_sv": "fullkomnande",
+      "def_sv": "Att göra fullkomlig.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヘブル7:11。LXX の代表例は祭司任職の用法で、この用法は確認していない。教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "成就",
+      "def_ja": "成就、実現。『語られたことが成就する』。",
+      "label_en": "fulfillment",
+      "def_en": "Accomplishment, realization.",
+      "label_es": "cumplimiento",
+      "def_es": "Realización.",
+      "label_sv": "fullbordan",
+      "def_sv": "Uppfyllelse.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ルカ1:45。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "HEB 7:11": 1,
+    "LUK 1:45": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（完全にすること／成就）による。"
+}

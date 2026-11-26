@@ -1,0 +1,36 @@
+{
+  "strong": "G5512",
+  "lemma": "διαχλευάζω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "あざける",
+      "def_ja": "あざける、嘲笑する。『あざ笑った』『あざけって』。使徒17:32 の語形 ἐχλεύαζον は χλευάζω の語形で見出し語 διαχλευάζω と別レンマの疑いがあり未割当て。",
+      "label_en": "to mock",
+      "def_en": "To deride, to scoff.",
+      "label_es": "burlarse",
+      "def_es": "Mofarse.",
+      "label_sv": "att håna",
+      "def_sv": "Att göra narr.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒2:13。LXX・教父の用例なし。"
+    }
+  ],
+  "assignments": {
+    "ACT 2:13": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。",
+  "excluded": [
+    {
+      "ref": "ACT 17:32",
+      "form": "ἐχλεύαζον",
+      "reason": "形 ἐχλεύαζον の lemma はデータの lemma 欄でも χλευάζω で別語。χλευάζω は頻度1の別項目として扱う。"
+    }
+  ]
+}

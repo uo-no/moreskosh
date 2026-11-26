@@ -1,0 +1,47 @@
+{
+  "strong": "G511",
+  "lemma": "ἀνώτερον",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "もっと上に",
+      "def_ja": "もっと上の席に。『もっと上席に進みなさい』。",
+      "label_en": "higher up",
+      "def_en": "To a higher place.",
+      "label_es": "más arriba",
+      "def_es": "A un puesto superior.",
+      "label_sv": "högre upp",
+      "def_sv": "Till en förnämligare plats.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ14:10。LXX に並行。教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "前に（上述）",
+      "def_ja": "前に、上で（前の箇所で）。『前に言われている』。",
+      "label_en": "above, earlier",
+      "def_en": "Previously, in an earlier passage.",
+      "label_es": "arriba (antes)",
+      "def_es": "Anteriormente, en un lugar precedente.",
+      "label_sv": "ovan",
+      "def_sv": "Förut, längre upp i texten.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヘブル10:8。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "HEB 10:8": 2,
+    "LUK 14:10": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。"
+}

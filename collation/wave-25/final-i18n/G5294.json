@@ -1,0 +1,47 @@
+{
+  "strong": "G5294",
+  "lemma": "ὑποτίθημι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "示す・差し出す",
+      "def_ja": "示す、教える。『これらのことを兄弟たちに示す』。",
+      "label_en": "to point out",
+      "def_en": "To set before, to teach.",
+      "label_es": "indicar",
+      "def_es": "Exponer, enseñar.",
+      "label_sv": "att framhålla",
+      "def_sv": "Att lägga fram, att lära.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "テモテ第一4:6。LXX・教父の代表例では確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "危険にさらす",
+      "def_ja": "（首を）差し出す、危険にさらす。『自分の首を差し出した』。",
+      "label_en": "to risk",
+      "def_en": "To lay down (one’s neck), to endanger.",
+      "label_es": "exponer",
+      "def_es": "Arriesgar (el cuello).",
+      "label_sv": "att sätta på spel",
+      "def_sv": "Att våga (sin hals), att utsätta för fara.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ローマ16:4。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1TI 4:6": 1,
+    "ROM 16:4": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。LXX の代表例は『下に置く』の用法で、この二つの用法は確認していない。"
+}

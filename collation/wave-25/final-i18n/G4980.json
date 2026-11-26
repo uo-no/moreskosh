@@ -1,0 +1,47 @@
+{
+  "strong": "G4980",
+  "lemma": "σχολάζω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "専念する",
+      "def_ja": "専念する、暇をつくる。『祈りに専念できるように』。",
+      "label_en": "to devote oneself",
+      "def_en": "To give oneself to, to have leisure for.",
+      "label_es": "dedicarse",
+      "def_es": "Consagrarse, procurarse tiempo.",
+      "label_sv": "att ägna sig åt",
+      "def_sv": "Att ta sig tid för.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "コリント第一7:5。LXX の代表例は『暇である』の用法で、この用法は確認していない。教父に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "空いている",
+      "def_ja": "空いている、住む者がいない。『空き家で』。",
+      "label_en": "to be unoccupied",
+      "def_en": "To be empty, to have no occupant.",
+      "label_es": "estar desocupado",
+      "def_es": "Estar vacío, sin morador.",
+      "label_sv": "att stå tom",
+      "def_sv": "Att vara ledig, obebodd.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マタイ12:44。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 7:5": 1,
+    "MAT 12:44": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。"
+}

@@ -1,0 +1,30 @@
+{
+  "strong": "G5045",
+  "lemma": "τέκτων",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "大工",
+      "def_ja": "大工、職人。『大工の子』『大工』。",
+      "label_en": "carpenter",
+      "def_en": "A carpenter, a craftsman.",
+      "label_es": "carpintero",
+      "def_es": "Artesano de la madera, artífice.",
+      "label_sv": "timmerman",
+      "def_sv": "Snickare, hantverkare.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "マタイ13:55、マルコ6:3。LXX に並行。教父の用例なし。単一語義。"
+    }
+  ],
+  "assignments": {
+    "MAT 13:55": 1,
+    "MRK 6:3": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

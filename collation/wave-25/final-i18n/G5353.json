@@ -1,0 +1,30 @@
+{
+  "strong": "G5353",
+  "lemma": "φθόγγος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "音",
+      "def_ja": "音、声。『楽器の音』『その声』。",
+      "label_en": "sound",
+      "def_en": "A sound, a voice.",
+      "label_es": "sonido",
+      "def_es": "Son, voz.",
+      "label_sv": "ljud",
+      "def_sv": "Ton, röst.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "コリント第一14:7、ローマ10:18。LXX に並行。教父の用例なし。単一語義。"
+    }
+  ],
+  "assignments": {
+    "1CO 14:7": 1,
+    "ROM 10:18": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

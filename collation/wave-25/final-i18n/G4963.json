@@ -1,0 +1,47 @@
+{
+  "strong": "G4963",
+  "lemma": "συστροφή",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "騒ぎ",
+      "def_ja": "騒ぎ、集まり。『この騒ぎ』。",
+      "label_en": "commotion",
+      "def_en": "An uproar, a mob gathering.",
+      "label_es": "tumulto",
+      "def_es": "Alboroto, reunión turbulenta.",
+      "label_sv": "tumult",
+      "def_sv": "Upplopp, folksamling.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒19:40。LXX・教父の代表例では確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "共謀",
+      "def_ja": "共謀、陰謀。『陰謀を企て』。",
+      "label_en": "conspiracy",
+      "def_en": "A plot, a conspiracy.",
+      "label_es": "conjura",
+      "def_es": "Conspiración.",
+      "label_sv": "sammansvärjning",
+      "def_sv": "Komplott.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒23:12。LXX に並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 19:40": 1,
+    "ACT 23:12": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（騒ぎ／共謀）による。"
+}

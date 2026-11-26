@@ -1,0 +1,30 @@
+{
+  "strong": "G5500",
+  "lemma": "χειροτονέω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "任命する",
+      "def_ja": "挙手で選ぶ、任命する。『教会によって選ばれ』『長老を任命し』。",
+      "label_en": "to appoint",
+      "def_en": "To choose by show of hands, to appoint.",
+      "label_es": "designar",
+      "def_es": "Elegir a mano alzada, nombrar.",
+      "label_sv": "att utse",
+      "def_sv": "Att välja genom handuppräckning, att tillsätta.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "コリント第二8:19、使徒14:23。LXX の用例なし。教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "2CO 8:19": 1,
+    "ACT 14:23": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

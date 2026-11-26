@@ -1,0 +1,30 @@
+{
+  "strong": "G4987",
+  "lemma": "σωρεύω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "積み重ねる",
+      "def_ja": "積み重ねる、積む。『罪に罪を積み』『燃える炭火を積む』。",
+      "label_en": "to heap up",
+      "def_en": "To pile up, to load.",
+      "label_es": "amontonar",
+      "def_es": "Acumular, cargar.",
+      "label_sv": "att hopa",
+      "def_sv": "Att lägga i hög, att samla på.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "テモテ第二3:6、ローマ12:20。LXX に並行。教父の用例なし。単一語義。"
+    }
+  ],
+  "assignments": {
+    "2TI 3:6": 1,
+    "ROM 12:20": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

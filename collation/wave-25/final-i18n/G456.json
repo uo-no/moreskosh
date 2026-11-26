@@ -1,0 +1,30 @@
+{
+  "strong": "G456",
+  "lemma": "ἀνοικοδομέω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "建て直す",
+      "def_ja": "建て直す、再建する。『建て直す』（2回）。",
+      "label_en": "to rebuild",
+      "def_en": "To build again, to reconstruct.",
+      "label_es": "reedificar",
+      "def_es": "Volver a construir.",
+      "label_sv": "att bygga upp igen",
+      "def_sv": "Att återuppbygga.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒15:16（2回）。LXX、教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "ACT 15:16#1": 1,
+    "ACT 15:16#2": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

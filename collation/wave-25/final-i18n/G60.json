@@ -1,0 +1,47 @@
+{
+  "strong": "G60",
+  "lemma": "ἀγοραῖος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "市場にたむろする",
+      "def_ja": "市場にたむろする（者）。『広場のならず者』。",
+      "label_en": "market loafer",
+      "def_en": "One who hangs about the marketplace.",
+      "label_es": "ocioso de plaza",
+      "def_es": "El que vagabundea por la plaza.",
+      "label_sv": "dagdrivare på torget",
+      "def_sv": "En som driver omkring på torget.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒17:5。LXX・教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "法廷の（日）",
+      "def_ja": "法廷の、開廷日の。『裁判の日』。",
+      "label_en": "of court (days)",
+      "def_en": "Belonging to the courts; a court day.",
+      "label_es": "judicial (días)",
+      "def_es": "Propio de los tribunales; día de audiencia.",
+      "label_sv": "ting- (dagar)",
+      "def_sv": "Som hör till domstolen; rättegångsdag.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒19:38。LXX・教父の用例なし。"
+    }
+  ],
+  "assignments": {
+    "ACT 17:5": 1,
+    "ACT 19:38": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。"
+}

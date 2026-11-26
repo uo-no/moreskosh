@@ -1,0 +1,30 @@
+{
+  "strong": "G5029",
+  "lemma": "τάχα",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "たぶん",
+      "def_ja": "おそらく、もしかすると。『おそらく』（2回）。",
+      "label_en": "perhaps",
+      "def_en": "Perhaps, possibly.",
+      "label_es": "quizá",
+      "def_es": "Tal vez, acaso.",
+      "label_sv": "kanske",
+      "def_sv": "Möjligen.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ピレモン15、ローマ5:7。LXX に並行。教父の用例なし。単一語義。"
+    }
+  ],
+  "assignments": {
+    "PHM 1:15": 1,
+    "ROM 5:7": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

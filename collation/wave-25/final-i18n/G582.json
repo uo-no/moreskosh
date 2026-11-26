@@ -1,0 +1,30 @@
+{
+  "strong": "G582",
+  "lemma": "ἀπογραφή",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "登録",
+      "def_ja": "登録、人口調査。『戸籍登録』『人口調査』。",
+      "label_en": "registration",
+      "def_en": "A registration, a census.",
+      "label_es": "empadronamiento",
+      "def_es": "Inscripción, censo.",
+      "label_sv": "skattskrivning",
+      "def_sv": "Mantalsskrivning, folkräkning.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒5:37、ルカ2:2。LXX に並行。教父の用例なし。単一語義。"
+    }
+  ],
+  "assignments": {
+    "ACT 5:37": 1,
+    "LUK 2:2": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

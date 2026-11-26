@@ -1,0 +1,30 @@
+{
+  "strong": "G4391",
+  "lemma": "προϋπάρχω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "以前から存在する",
+      "def_ja": "以前からある、前から～していた。『以前から』『以前は』。",
+      "label_en": "to exist previously",
+      "def_en": "To be there before, to have been doing something.",
+      "label_es": "existir antes",
+      "def_es": "Estar desde antes, venir haciendo algo.",
+      "label_sv": "att förut finnas",
+      "def_sv": "Att tidigare vara, att förut ha gjort något.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒8:9、ルカ23:12。LXX に並行。教父の用例なし。単一語義。"
+    }
+  ],
+  "assignments": {
+    "ACT 8:9": 1,
+    "LUK 23:12": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

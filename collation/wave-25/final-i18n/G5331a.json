@@ -1,0 +1,30 @@
+{
+  "strong": "G5331a",
+  "lemma": "φαρμακεία",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "魔術",
+      "def_ja": "魔術、呪術。『魔術』（2回）。パケットの mapping_note のとおり、層の用例は G5331 の抽出に含まれず、新約のみ。",
+      "label_en": "sorcery",
+      "def_en": "Magic, sorcery.",
+      "label_es": "hechicería",
+      "def_es": "Magia, brujería.",
+      "label_sv": "trolldom",
+      "def_sv": "Magi, häxkonster.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ガラテヤ5:20、黙示録18:23。LXX・教父の用例なし（パケットの mapping_note による）。単一語義。"
+    }
+  ],
+  "assignments": {
+    "GAL 5:20": 1,
+    "REV 18:23": 1
+  },
+  "unresolved": [],
+  "layer_notes": "G5331（φάρμακον）から切り分けた別項目。層の用例はなく新約のみ。"
+}

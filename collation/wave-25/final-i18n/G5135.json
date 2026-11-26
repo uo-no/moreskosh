@@ -1,0 +1,30 @@
+{
+  "strong": "G5135",
+  "lemma": "τραυματίζω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "傷つける",
+      "def_ja": "傷を負わせる。『傷を負って』『傷つけて』。",
+      "label_en": "to wound",
+      "def_en": "To inflict wounds.",
+      "label_es": "herir",
+      "def_es": "Causar heridas.",
+      "label_sv": "att såra",
+      "def_sv": "Att tillfoga sår.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒19:16、ルカ20:12。LXX、教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "ACT 19:16": 1,
+    "LUK 20:12": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

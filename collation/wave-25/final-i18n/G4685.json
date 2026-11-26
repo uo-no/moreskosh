@@ -1,0 +1,30 @@
+{
+  "strong": "G4685",
+  "lemma": "σπάομαι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "抜く",
+      "def_ja": "抜く、引き抜く。『剣を抜いて』（2回）。",
+      "label_en": "to draw (a sword)",
+      "def_en": "To draw, to pull out.",
+      "label_es": "desenvainar",
+      "def_es": "Sacar, tirar de.",
+      "label_sv": "att dra (svärdet)",
+      "def_sv": "Att dra ut.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒16:27、マルコ14:47。LXX に並行。教父の用例なし。単一語義。"
+    }
+  ],
+  "assignments": {
+    "ACT 16:27": 1,
+    "MRK 14:47": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

@@ -1,0 +1,30 @@
+{
+  "strong": "G46",
+  "lemma": "ἄγναφος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "縮絨していない",
+      "def_ja": "縮絨していない、新しい。『まだ縮んでいない布切れ』（2回）。",
+      "label_en": "unshrunk",
+      "def_en": "Not yet shrunk, new.",
+      "label_es": "sin tundir, nuevo",
+      "def_es": "No encogido todavía, nuevo.",
+      "label_sv": "okrympt",
+      "def_sv": "Ännu inte krympt, ny.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マタイ9:16、マルコ2:21。LXX・教父の用例なし。単一語義。"
+    }
+  ],
+  "assignments": {
+    "MAT 9:16": 1,
+    "MRK 2:21": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

@@ -1,0 +1,30 @@
+{
+  "strong": "G4895",
+  "lemma": "σύνειμι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "共にいる",
+      "def_ja": "共にいる、一緒にいる。『共にいた人々』（2回）。",
+      "label_en": "to be with",
+      "def_en": "To be together with.",
+      "label_es": "estar con",
+      "def_es": "Hallarse juntos.",
+      "label_sv": "att vara tillsammans med",
+      "def_sv": "Att vara hos.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒22:11、ルカ9:18。LXX に並行。教父の用例なし。単一語義。"
+    }
+  ],
+  "assignments": {
+    "ACT 22:11": 1,
+    "LUK 9:18": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

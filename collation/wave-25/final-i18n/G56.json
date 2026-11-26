@@ -1,0 +1,30 @@
+{
+  "strong": "G56",
+  "lemma": "ἀγνωσία",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "無知",
+      "def_ja": "無知、知識のなさ。『神についての知識がない』『愚かな人々の無知』。",
+      "label_en": "ignorance",
+      "def_en": "Ignorance, want of knowledge.",
+      "label_es": "ignorancia",
+      "def_es": "Desconocimiento, falta de saber.",
+      "label_sv": "okunnighet",
+      "def_sv": "Okunskap, brist på kunskap.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "コリント第一15:34、ペテロ第一2:15。LXX、教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "1CO 15:34": 1,
+    "1PE 2:15": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

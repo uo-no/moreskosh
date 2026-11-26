@@ -1,0 +1,47 @@
+{
+  "strong": "G4679",
+  "lemma": "σοφίζω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "巧みに作る",
+      "def_ja": "巧みに作り上げる。『巧みに作り上げた作り話』。",
+      "label_en": "to devise cleverly",
+      "def_en": "To contrive artfully.",
+      "label_es": "inventar con astucia",
+      "def_es": "Urdir hábilmente.",
+      "label_sv": "att listigt uttänka",
+      "def_sv": "Att konstfullt sätta ihop.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ペテロ第二1:16。LXX・教父の代表例では確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "賢くする",
+      "def_ja": "賢くする、知恵を与える。『救いに至る知恵を与え』。",
+      "label_en": "to make wise",
+      "def_en": "To make wise, to give wisdom.",
+      "label_es": "hacer sabio",
+      "def_es": "Dar sabiduría.",
+      "label_sv": "att göra vis",
+      "def_sv": "Att ge vishet.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "テモテ第二3:15。LXX、教父に並行。"
+    }
+  ],
+  "assignments": {
+    "2PE 1:16": 1,
+    "2TI 3:15": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。"
+}
