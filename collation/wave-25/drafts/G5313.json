@@ -1,0 +1,35 @@
+{
+  "strong": "G5313",
+  "lemma": "ὕψωμα",
+  "status": "拡張照合・下書き",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "高ぶり",
+      "def_ja": "高ぶり、傲慢な砦。『高ぶり』。",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "コリント第二10:5。LXX に並行。教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "高み",
+      "def_ja": "高み、高さ。『高さも深さも』。",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ローマ8:39。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "2CO 10:5": 1,
+    "ROM 8:39": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。"
+}
