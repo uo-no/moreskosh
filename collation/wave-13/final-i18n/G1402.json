@@ -1,0 +1,52 @@
+{
+  "strong": "G1402",
+  "lemma": "δουλόω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "奴隷にする・束縛される",
+      "def_ja": "奴隷にする、隷属させる。『彼らを奴隷にし』『人は、征服した者の奴隷となる』『このような場合、兄弟または姉妹は束縛されない』『大酒の奴隷にならず』。",
+      "label_en": "to enslave, to be bound",
+      "def_en": "To enslave, to bring into subjection.",
+      "label_es": "esclavizar, estar sujeto a servidumbre",
+      "def_es": "Esclavizar, someter a servidumbre.",
+      "label_sv": "att förslava, att vara bunden",
+      "def_sv": "Att förslava, att göra till träl.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒7:6、ペテロ第二2:19、コリント第一7:15、テトス2:3。LXX（15.13・13.2）に並行。教父の代表例では確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "仕える者となる（義・神・人に）",
+      "def_ja": "自ら、または解放されて仕える者となる。『義の僕とされた』『神の僕となり』『できるだけ多くの人を得るために、すべての人の奴隷となった』。",
+      "label_en": "to become a servant (of righteousness, God, people)",
+      "def_en": "To become a servant, whether by one’s own act or by being set free.",
+      "label_es": "hacerse siervo (de la justicia, de Dios, de los hombres)",
+      "def_es": "Pasar a ser alguien que sirve, por decisión propia o por haber sido liberado.",
+      "label_sv": "att bli tjänare (åt rättfärdigheten, Gud, människor)",
+      "def_sv": "Att bli en som tjänar, av egen vilja eller genom befrielse.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ローマ6:18・6:22、コリント第一9:19。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 9:19": 2,
+    "1CO 7:15": 1,
+    "2PE 2:19": 1,
+    "ACT 7:6": 1,
+    "ROM 6:18": 2,
+    "ROM 6:22": 2,
+    "TIT 2:3": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（束縛される／仕える者となる）による。"
+}

@@ -1,0 +1,69 @@
+{
+  "strong": "G2827",
+  "lemma": "κλίνω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "傾ける・横たえる",
+      "def_ja": "頭などを傾ける、横たえる。『頭を垂れて、息をひきとられた』『顔を地に伏せている』『頭を横たえる所もない』『枕するところもない』。",
+      "label_en": "to bow, to lay down",
+      "def_en": "To incline or lay down the head or the like.",
+      "label_es": "inclinar, recostar",
+      "def_es": "Inclinar o recostar la cabeza u otra cosa.",
+      "label_sv": "att böja, att luta",
+      "def_sv": "Att böja eller vila huvudet och liknande.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヨハネ19:30、ルカ24:5・9:58、マタイ8:20。LXX（42.15）、教父（12.1）に並行。語義2・3との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "日が傾く",
+      "def_ja": "日が傾く、夕方になる。『日が傾きはじめたので』『日もすでに傾いています』。",
+      "label_en": "(of the day) to decline",
+      "def_en": "The day declining, evening drawing on.",
+      "label_es": "declinar (el día)",
+      "def_es": "Declinar el día, atardecer.",
+      "label_sv": "(om dagen) att lida mot sitt slut",
+      "def_sv": "Att dagen lider mot kväll.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ルカ9:12・24:29。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "敗走させる",
+      "def_ja": "敵の軍隊を敗走させる。『他国の陣営を敗走させ』。",
+      "label_en": "to put to flight",
+      "def_en": "To put an enemy army to flight.",
+      "label_es": "poner en fuga",
+      "def_es": "Hacer huir al ejército enemigo.",
+      "label_sv": "att slå på flykten",
+      "def_sv": "Att driva en fiendehär på flykten.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヘブル11:34。語義1との境界は連続的。LXX の代表例（45.7）は用法が異なり、この語義としては確認していない。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "HEB 11:34": 3,
+    "JHN 19:30": 1,
+    "LUK 24:5": 1,
+    "LUK 24:29": 2,
+    "LUK 9:12": 2,
+    "LUK 9:58": 1,
+    "MAT 8:20": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（傾ける／日の傾き／敗走させる）による。"
+}

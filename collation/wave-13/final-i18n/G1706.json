@@ -1,0 +1,52 @@
+{
+  "strong": "G1706",
+  "lemma": "ἐμπίπτω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "落ち込む・陥る（字義）",
+      "def_ja": "穴・場所の中に落ちる、襲われる者の中に落ちる。『穴に落ちたなら』『二人とも穴に落ち込む』『強盗に襲われた人』。",
+      "label_en": "to fall into (literal)",
+      "def_en": "To fall into a pit or place; to fall among attackers.",
+      "label_es": "caer en (literal)",
+      "def_es": "Caer dentro de un hoyo o lugar; caer en manos de atacantes.",
+      "label_sv": "att falla i (bokstavligt)",
+      "def_sv": "Att falla ner i en grop eller plats; att råka ut för angripare.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "マタイ12:11、ルカ6:39・10:36。LXX（28.10）、教父（3.2.9）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "陥る・手に落ちる（比喩）",
+      "def_ja": "罪・罠・試練・神の手に陥る。『悪魔のさばきを受けることになる』『そしりを受け、悪魔のわなに陥らないため』『誘惑とわなに陥り』『生ける神の手に落ちるのは恐ろしい』。",
+      "label_en": "to fall into (figurative)",
+      "def_en": "To fall into sin, a snare, temptation, or the hands of God.",
+      "label_es": "caer en, caer en manos de (figurado)",
+      "def_es": "Caer en pecado, lazo, tentación o en las manos de Dios.",
+      "label_sv": "att råka i, att falla i händerna på (bildligt)",
+      "def_sv": "Att råka i synd, snara eller frestelse, eller falla i Guds händer.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "テモテ第一3:6・3:7・6:9、ヘブル10:31。LXX（2.18）、教父（43.2）に並行。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "1TI 3:6": 2,
+    "1TI 3:7": 2,
+    "1TI 6:9": 2,
+    "HEB 10:31": 2,
+    "LUK 10:36": 1,
+    "LUK 6:39": 1,
+    "MAT 12:11": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（字義の落下／比喩的に陥る）による。"
+}

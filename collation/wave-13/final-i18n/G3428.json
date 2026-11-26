@@ -1,0 +1,52 @@
+{
+  "strong": "G3428",
+  "lemma": "μοιχαλίς",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "姦婦・不貞の女",
+      "def_ja": "姦淫を行う女、不貞の女。『もし夫が生きている間に他の男のものとなるなら、姦婦と呼ばれる』『姦婦ではない』『姦淫に満ちた目』『姦淫を行う者たちよ』。",
+      "label_en": "adulteress",
+      "def_en": "A woman who commits adultery, an unfaithful woman.",
+      "label_es": "adúltera",
+      "def_es": "Mujer que comete adulterio, mujer infiel.",
+      "label_sv": "äktenskapsbryterska",
+      "def_sv": "En kvinna som begår äktenskapsbrott, en trolös kvinna.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ローマ7:3（2回）、ペテロ第二2:14、ヤコブ4:4。ヤコブ4:4 を字義の不貞とみるか神への不忠実の比喩とみるかは決定しない。LXX（16.38・18.22α）に並行。教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "姦淫の（世代について）",
+      "def_ja": "世代について、神への不忠実を指して姦淫の。『悪い、姦淫の時代はしるしを求める』『この姦淫の時代』『この姦淫と罪深い時代に』。",
+      "label_en": "adulterous (of a generation)",
+      "def_en": "Adulterous, said of a generation with reference to unfaithfulness to God.",
+      "label_es": "adúltera (de una generación)",
+      "def_es": "Adúltera, dicho de una generación por su infidelidad a Dios.",
+      "label_sv": "trolös, äktenskapsbrytande (om ett släkte)",
+      "def_sv": "Äktenskapsbrytande, om ett släktes otrohet mot Gud.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マタイ12:39・16:4、マルコ8:38。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "2PE 2:14": 1,
+    "JAS 4:4": 1,
+    "MAT 16:4": 2,
+    "MAT 12:39": 2,
+    "MRK 8:38": 2,
+    "ROM 7:3#1": 1,
+    "ROM 7:3#2": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（姦婦／世代を形容する用法）による。"
+}

@@ -1,0 +1,69 @@
+{
+  "strong": "G3781",
+  "lemma": "ὀφειλέτης",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "負債者",
+      "def_ja": "借金を負う者。『一万タラントの借金のある者』『わたしたちに負債のある人々を赦しましたように』。",
+      "label_en": "debtor",
+      "def_en": "One who owes a debt.",
+      "label_es": "deudor",
+      "def_es": "El que tiene una deuda.",
+      "label_sv": "gäldenär",
+      "def_sv": "En som står i skuld.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "マタイ18:24・6:12。マタイ6:12 を金銭の負債とみるか罪責とみるかは決定しない。教父（8.2）に並行。LXX の用例なし。語義2・3との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "義務を負う者",
+      "def_ja": "義務・責任を負う者。『ギリシヤ人にも未開人にも…責任がある』『肉に従って生きる義務はない』『彼らは負債者』『律法の全体を行う義務がある』。",
+      "label_en": "one under obligation",
+      "def_en": "One who is under a duty or responsibility.",
+      "label_es": "el que está obligado",
+      "def_es": "El que tiene una obligación o responsabilidad.",
+      "label_sv": "förpliktad",
+      "def_sv": "En som har en skyldighet eller ett ansvar.",
+      "layers": {
+        "nt": 4,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ローマ1:14・8:12・15:27、ガラテヤ5:3。語義1との境界は連続的。LXX の用例なし。教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "罪責のある者",
+      "def_ja": "罪を負う者。『彼らがほかのすべてのガリラヤ人より罪深い者だったと思うか』。",
+      "label_en": "one who is guilty",
+      "def_en": "One who bears guilt.",
+      "label_es": "culpable",
+      "def_es": "El que carga con culpa.",
+      "label_sv": "skyldig, brottslig",
+      "def_sv": "En som bär på skuld till synd.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ルカ13:4。語義1との境界は連続的。LXX の用例なし。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "GAL 5:3": 2,
+    "LUK 13:4": 3,
+    "MAT 18:24": 1,
+    "MAT 6:12": 1,
+    "ROM 1:14": 2,
+    "ROM 15:27": 2,
+    "ROM 8:12": 2
+  },
+  "unresolved": [],
+  "layer_notes": "LXX の用例なし。語義区分は用法（負債／義務／罪責）による。"
+}

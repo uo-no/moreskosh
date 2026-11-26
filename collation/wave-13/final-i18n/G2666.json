@@ -1,0 +1,52 @@
+{
+  "strong": "G2666",
+  "lemma": "καταπίνω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "飲み込む・食い尽くす",
+      "def_ja": "飲み込む、食い尽くす、のみ込む（水・地・獣などが）。『らくだはのみ込む』『地はその口をあけて…飲み込んだ』『ほえたける獅子のように…食い尽くそうとして』『エジプト人は溺れた』。",
+      "label_en": "to swallow, to devour",
+      "def_en": "To swallow, devour or engulf (said of water, the earth, beasts and the like).",
+      "label_es": "tragar, devorar",
+      "def_es": "Tragar, devorar, engullir (dicho del agua, la tierra, fieras, etc.).",
+      "label_sv": "att svälja, att sluka",
+      "def_sv": "Att svälja, sluka, uppsluka (om vatten, jorden, djur och liknande).",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "マタイ23:24、黙示録12:16、ペテロ第一5:8、ヘブル11:29。LXX（140.6・16.8）に並行。教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "のみ尽くされる（比喩）",
+      "def_ja": "のみ込まれる、圧倒される。『死は勝利にのまれた』『悲しみに押しつぶされることのないように』『死ぬものがいのちにのまれてしまうために』。",
+      "label_en": "to be swallowed up (figurative)",
+      "def_en": "To be swallowed up, to be overwhelmed.",
+      "label_es": "ser consumido, ser absorbido (figurado)",
+      "def_es": "Ser absorbido, quedar abrumado.",
+      "label_sv": "att bli uppslukad (bildligt)",
+      "def_sv": "Att bli uppslukad, att bli överväldigad.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "コリント第一15:54、コリント第二2:7・5:4。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 15:54": 2,
+    "1PE 5:8": 1,
+    "2CO 2:7": 2,
+    "2CO 5:4": 2,
+    "HEB 11:29": 1,
+    "MAT 23:24": 1,
+    "REV 12:16": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（字義の飲み込み／比喩的にのまれる）による。"
+}

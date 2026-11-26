@@ -1,0 +1,52 @@
+{
+  "strong": "G2932",
+  "lemma": "κτάομαι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "手に入れる・獲得する",
+      "def_ja": "得る、獲得する、買い取る。『金や銀や銅を財布に入れて行くな』『わたしは得るもののすべてに十一を納めています』『神の賜物を金で手に入れようと』『その人は不義の報酬で土地を手に入れ』『わたしはこの市民権を多額の金で買った』『忍耐によって、あなたがたは自分のいのちを獲得する』。",
+      "label_en": "to get, to acquire",
+      "def_en": "To get, to acquire, to buy.",
+      "label_es": "adquirir, obtener",
+      "def_es": "Obtener, adquirir, comprar.",
+      "label_sv": "att skaffa, att förvärva",
+      "def_sv": "Att få, att förvärva, att köpa.",
+      "layers": {
+        "nt": 6,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "マタイ10:9、ルカ18:12・21:19、使徒8:20・1:18・22:28。LXX（4.1・33.31）、教父（1.14.2・5.7）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "自分のものとする・制する（解釈が分かれる）",
+      "def_ja": "『自分の器を…保つ』（σκεῦος の解釈：からだ／妻）。",
+      "label_en": "to make one’s own, to control (disputed)",
+      "def_en": "Keeping “one’s own vessel” (σκεῦος read either as the body or as a wife).",
+      "label_es": "hacer suyo, dominar (discutido)",
+      "def_es": "Mantener «su propio vaso» (σκεῦος entendido como el cuerpo o como la esposa).",
+      "label_sv": "att göra till sin, att behärska (omtvistat)",
+      "def_sv": "Att hålla ”sitt eget kärl” (σκεῦος tolkat antingen som kroppen eller som hustrun).",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "テサロニケ第一4:4。κτᾶσθαι τὸ ἑαυτοῦ σκεῦος の解釈（「獲得する」か「制する・保つ」か、σκεῦος がからだか妻か）は争われており決定しない。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1TH 4:4": 2,
+    "ACT 1:18": 1,
+    "ACT 22:28": 1,
+    "ACT 8:20": 1,
+    "LUK 18:12": 1,
+    "LUK 21:19": 1,
+    "MAT 10:9": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（獲得／テサロニケ第一4:4）による。テサロニケ第一4:4 は解釈が分かれるため独立させ、決定しない。"
+}

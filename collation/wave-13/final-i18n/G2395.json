@@ -1,0 +1,35 @@
+{
+  "strong": "G2395",
+  "lemma": "ἰατρός",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "医者",
+      "def_ja": "医者。『愛する医者ルカ』『医者を必要とするのは丈夫な人ではなく病人である』『医者よ、自分自身を治せ』『多くの医者にかかって』『医者は病人には必要だが』。",
+      "label_en": "physician",
+      "def_en": "A physician.",
+      "label_es": "médico",
+      "def_es": "Médico.",
+      "label_sv": "läkare",
+      "def_sv": "Läkare.",
+      "layers": {
+        "nt": 7,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "コロサイ4:14、ルカ5:31・4:23・8:43、マタイ9:12、マルコ2:17・5:26。LXX（10.10・2.10）、教父（9・1.7.2）に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "COL 4:14": 1,
+    "LUK 5:31": 1,
+    "LUK 4:23": 1,
+    "LUK 8:43": 1,
+    "MAT 9:12": 1,
+    "MRK 2:17": 1,
+    "MRK 5:26": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

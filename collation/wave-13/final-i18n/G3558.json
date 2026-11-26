@@ -1,0 +1,52 @@
+{
+  "strong": "G3558",
+  "lemma": "νότος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "南風",
+      "def_ja": "南風。『南風が静かに吹いて』『南風が吹き始めたので』『南風が吹いているのを見ると』。",
+      "label_en": "south wind",
+      "def_en": "The south wind.",
+      "label_es": "viento del sur",
+      "def_es": "El viento del sur.",
+      "label_sv": "sunnanvind",
+      "def_sv": "Sydlig vind.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒27:13・28:13、ルカ12:55。LXX の代表例は方角・地方の用法で、この語義としては確認していない。教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "南（方角・地方）",
+      "def_ja": "南、南の方角・地方。『南から来て』『南の女王』『南の女王は…』『南に面して三つの門』。",
+      "label_en": "south (direction, region)",
+      "def_en": "The south, as a direction or region.",
+      "label_es": "sur (punto cardinal, región)",
+      "def_es": "El sur, como dirección o región.",
+      "label_sv": "söder (väderstreck, område)",
+      "def_sv": "Söder, som väderstreck eller område.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ13:29・11:31、マタイ12:42、黙示録21:13。LXX（47.20・11.5）に並行。教父の用例なし。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "ACT 28:13": 1,
+    "ACT 27:13": 1,
+    "LUK 13:29": 2,
+    "LUK 11:31": 2,
+    "LUK 12:55": 1,
+    "MAT 12:42": 2,
+    "REV 21:13": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（南風／南の方角・地方）による。"
+}

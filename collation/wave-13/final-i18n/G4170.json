@@ -1,0 +1,52 @@
+{
+  "strong": "G4170",
+  "lemma": "πολεμέω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "戦う・戦争する",
+      "def_ja": "戦争をする、戦う。『ミカエルとその使いたちは竜と戦った』『竜とその使いたちも戦ったが』『だれがこの獣と戦えようか』『彼らは小羊と戦うが』『義によってさばき、また戦われる』『わたしの口の剣をもって彼らと戦う』。",
+      "label_en": "to make war, to fight",
+      "def_en": "To wage war, to fight.",
+      "label_es": "pelear, hacer guerra",
+      "def_es": "Hacer la guerra, combatir.",
+      "label_sv": "att strida, att föra krig",
+      "def_sv": "Att föra krig, att strida.",
+      "layers": {
+        "nt": 6,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "黙示録12:7（2回）・13:4・17:14・19:11・2:16。LXX（11.41・17.32）、教父（16.4・5）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "争う（私的な争い）",
+      "def_ja": "私的に争う、いさかう。『あなたがたは…争い、戦っている』。",
+      "label_en": "to quarrel (private strife)",
+      "def_en": "To contend privately, to quarrel.",
+      "label_es": "contender (pleitos privados)",
+      "def_es": "Pelearse en privado, reñir.",
+      "label_sv": "att tvista (privat strid)",
+      "def_sv": "Att strida i det privata, att träta.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヤコブ4:2。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "JAS 4:2": 2,
+    "REV 12:7#1": 1,
+    "REV 12:7#2": 1,
+    "REV 13:4": 1,
+    "REV 17:14": 1,
+    "REV 19:11": 1,
+    "REV 2:16": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（戦争／私的な争い）による。"
+}

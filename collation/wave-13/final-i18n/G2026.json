@@ -1,0 +1,52 @@
+{
+  "strong": "G2026",
+  "lemma": "ἐποικοδομέω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "上に建てる",
+      "def_ja": "土台の上に建てる。『他の人がその上に家を建てる』『その上に建てるか』『その上に建てた者の働きが残れば』『使徒たちと預言者たちの土台の上に建てられ』。",
+      "label_en": "to build upon",
+      "def_en": "To build on a foundation.",
+      "label_es": "edificar sobre",
+      "def_es": "Edificar sobre un fundamento.",
+      "label_sv": "att bygga på",
+      "def_sv": "Att bygga på en grund.",
+      "layers": {
+        "nt": 5,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "コリント第一3:10（2回）・3:12・3:14、エペソ2:20。教父（26.5.1・3.8.9）に並行。LXX の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "建て上げる",
+      "def_ja": "信仰のうえに建て上げる、築き上げる。『彼の中に根を下ろし、建てられ』『最も聖なる信仰の上に自分自身を築き上げ』。",
+      "label_en": "to build up",
+      "def_en": "To build up and establish in faith.",
+      "label_es": "sobreedificar, edificar",
+      "def_es": "Edificar y consolidar en la fe.",
+      "label_sv": "att uppbygga",
+      "def_sv": "Att bygga upp i tron.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "コロサイ2:7、ユダ20。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 3:10#1": 1,
+    "1CO 3:10#2": 1,
+    "1CO 3:12": 1,
+    "1CO 3:14": 1,
+    "COL 2:7": 2,
+    "EPH 2:20": 1,
+    "JUD 1:20": 2
+  },
+  "unresolved": [],
+  "layer_notes": "LXX の用例なし。語義区分は用法（上に建てる／建て上げる）による。"
+}

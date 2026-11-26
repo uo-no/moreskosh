@@ -1,0 +1,52 @@
+{
+  "strong": "G3184",
+  "lemma": "μεθύω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "酔う",
+      "def_ja": "酒に酔う。『ある者は飢え、ある者は酔っている』『酔う者は夜、酔う』『酔っているのではない』『人々が十分飲んだころに』『酔いどれたちと一緒に』。",
+      "label_en": "to be drunk",
+      "def_en": "To be drunk with wine.",
+      "label_es": "embriagarse",
+      "def_es": "Estar ebrio de vino.",
+      "label_sv": "att vara drucken",
+      "def_sv": "Att vara berusad av vin.",
+      "layers": {
+        "nt": 5,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "コリント第一11:21、テサロニケ第一5:7、使徒2:15、ヨハネ2:10、マタイ24:49。LXX の代表例（34.5・31.26）は比喩的な用法で、この語義としては確認していない。教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "酔う（比喩・黙示録）",
+      "def_ja": "『地に住む者たちはその淫行のぶどう酒に酔った』『聖徒の血に酔った女』。",
+      "label_en": "to be drunk (figurative, Revelation)",
+      "def_en": "To be drunk in a figurative sense, as in Revelation.",
+      "label_es": "embriagarse (figurado, Apocalipsis)",
+      "def_es": "Estar ebrio en sentido figurado, como en el Apocalipsis.",
+      "label_sv": "att vara drucken (bildligt, Uppenbarelseboken)",
+      "def_sv": "Att vara drucken i bildlig mening, som i Uppenbarelseboken.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "黙示録17:2・17:6。LXX（34.5・31.26）に並行。教父の用例なし。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "1CO 11:21": 1,
+    "1TH 5:7": 1,
+    "ACT 2:15": 1,
+    "JHN 2:10": 1,
+    "MAT 24:49": 1,
+    "REV 17:2": 2,
+    "REV 17:6": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（字義の酩酊／比喩的な酩酊）による。"
+}

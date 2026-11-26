@@ -1,0 +1,69 @@
+{
+  "strong": "G1303",
+  "lemma": "διατίθεμαι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "契約を結ぶ（διαθήκην とともに）",
+      "def_ja": "契約を結ぶ、契約を立てる。『神が先祖たちと結ばれた契約』『わたしが彼らと結ぶ契約』『わたしがイスラエルの家と結ぶ契約』。",
+      "label_en": "to make a covenant (with διαθήκην)",
+      "def_en": "To make or establish a covenant.",
+      "label_es": "hacer un pacto (con διαθήκην)",
+      "def_es": "Hacer o establecer un pacto.",
+      "label_sv": "att sluta förbund (med διαθήκην)",
+      "def_sv": "Att sluta eller upprätta ett förbund.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒3:25、ヘブル10:16・8:10。LXX（5.2・11.17）、教父（10.2）に並行。語義2・3との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "遺言をする",
+      "def_ja": "遺言を残す、遺言として定める。『遺言した者の死が』『遺言した者が生きている間は』。",
+      "label_en": "to make a will",
+      "def_en": "To leave a will, to establish something as a testament.",
+      "label_es": "hacer testamento",
+      "def_es": "Dejar testamento, disponer algo como testamento.",
+      "label_sv": "att upprätta ett testamente",
+      "def_sv": "Att efterlämna ett testamente, att förordna genom testamente.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヘブル9:16・9:17。遺言か契約かの語義の読みは決定しない。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "授ける・与える",
+      "def_ja": "国などを授ける。『わたしの父がわたしに国を授けてくださったように、わたしもあなたがたに授ける』。",
+      "label_en": "to bestow, to assign",
+      "def_en": "To bestow something such as a kingdom.",
+      "label_es": "otorgar, asignar",
+      "def_es": "Otorgar algo, como un reino.",
+      "label_sv": "att tilldela, att ge",
+      "def_sv": "Att tilldela något, till exempel ett rike.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ルカ22:29（2回）。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 3:25": 1,
+    "HEB 10:16": 1,
+    "HEB 8:10": 1,
+    "HEB 9:16": 2,
+    "HEB 9:17": 2,
+    "LUK 22:29#1": 3,
+    "LUK 22:29#2": 3
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（契約／遺言／授与）による。ヘブル9:16–17 を遺言とみるか契約とみるかは決定しない。"
+}

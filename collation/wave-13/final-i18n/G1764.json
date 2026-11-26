@@ -1,0 +1,52 @@
+{
+  "strong": "G1764",
+  "lemma": "ἐνίστημι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "今ある・現在の（完了分詞）",
+      "def_ja": "現在の、今ある（完了分詞）。『現在のものも、将来のものも』『今ある危急のゆえに』『現在の悪の世』『現在を指すたとえ』『現在のものも、後に来るものも』。",
+      "label_en": "present, now existing (perfect participle)",
+      "def_en": "Present, now existing (perfect participle).",
+      "label_es": "presente, actual (participio perfecto)",
+      "def_es": "Presente, actual (participio perfecto).",
+      "label_sv": "nuvarande, nu förhandenvarande (perfekt particip)",
+      "def_sv": "Nuvarande, som nu finns (perfekt particip).",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "コリント第一3:22・7:26、ガラテヤ1:4、ヘブル9:9、ローマ8:38。LXX（6.9）、教父（4.1）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "来る・迫る",
+      "def_ja": "到来する、迫る（完了・未来）。『主の日がすでに来たかのように』『困難な時代が来る』。",
+      "label_en": "to come, to be at hand",
+      "def_en": "To arrive, to be impending (perfect and future).",
+      "label_es": "llegar, estar encima",
+      "def_es": "Llegar, ser inminente (perfecto y futuro).",
+      "label_sv": "att komma, att stå för dörren",
+      "def_sv": "Att inträda, att förestå (perfekt och futurum).",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "テサロニケ第二2:2、テモテ第二3:1。LXX（5.46）、教父（55.1）に並行。語義1との境界は連続的。テサロニケ第二2:2 は「来た」か「迫っている」かの読みが分かれ、決定しない。"
+    }
+  ],
+  "assignments": {
+    "1CO 3:22": 1,
+    "1CO 7:26": 1,
+    "2TH 2:2": 2,
+    "2TI 3:1": 2,
+    "GAL 1:4": 1,
+    "HEB 9:9": 1,
+    "ROM 8:38": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（現在の状態／到来・切迫）による。"
+}

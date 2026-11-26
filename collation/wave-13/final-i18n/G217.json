@@ -1,0 +1,52 @@
+{
+  "strong": "G217",
+  "lemma": "ἅλας",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "塩",
+      "def_ja": "塩（字義・比喩）。『あなたがたは地の塩である。もし塩の味がなくなったら』『塩は良いものだ。しかし塩に塩けがなくなったら』『自分自身の中に塩を持ち』。",
+      "label_en": "salt",
+      "def_en": "Salt (literal and figurative).",
+      "label_es": "sal",
+      "def_es": "Sal (en sentido literal y figurado).",
+      "label_sv": "salt",
+      "def_sv": "Salt (bokstavligt och bildligt).",
+      "layers": {
+        "nt": 6,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "マタイ5:13（2回）、マルコ9:50（2回）、ルカ14:34（2回）。LXX（2.13）に並行。教父の代表例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "塩味のある言葉（比喩）",
+      "def_ja": "言葉に塩で味をつける。『あなたがたの言葉が、いつも塩で味つけられた、恵み深いものであるように』。",
+      "label_en": "speech seasoned with salt (figurative)",
+      "def_en": "Seasoning one’s speech with salt.",
+      "label_es": "palabras sazonadas con sal (figurado)",
+      "def_es": "Sazonar con sal las propias palabras.",
+      "label_sv": "tal kryddat med salt (bildligt)",
+      "def_sv": "Att krydda sina ord med salt.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "コロサイ4:6。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "COL 4:6": 2,
+    "LUK 14:34#1": 1,
+    "LUK 14:34#2": 1,
+    "MAT 5:13#1": 1,
+    "MAT 5:13#2": 1,
+    "MRK 9:50#1": 1,
+    "MRK 9:50#2": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（塩そのもの／言葉の味つけ）による。"
+}

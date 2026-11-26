@@ -1,0 +1,69 @@
+{
+  "strong": "G1589",
+  "lemma": "ἐκλογή",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "選び（行為）",
+      "def_ja": "神が選ぶこと、選び。『あなたがたが神に選ばれた者であることを知っている』『召されたこと、選ばれたことを確かなものとしなさい』『選びによる神の計画』『恵みの選びによって残された者』『選びの福音による愛された者』。",
+      "label_en": "election (the act)",
+      "def_en": "God’s act of choosing; election.",
+      "label_es": "elección (el acto)",
+      "def_es": "El acto de elegir por parte de Dios; elección.",
+      "label_sv": "utkorelse (handlingen)",
+      "def_sv": "Guds utväljande; utkorelse.",
+      "layers": {
+        "nt": 5,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "テサロニケ第一1:4、ペテロ第二1:10、ローマ9:11・11:5・11:28。教父（29.1）に並行。LXX の代表例（18.5・9.4）は一般的な「選択」の用法で、この語義としては確認していない。語義2・3との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "選ばれた者たち",
+      "def_ja": "選ばれた人々の集合。『選びにあずかった者は得たが、他の者はかたくなにされた』。",
+      "label_en": "the elect, the chosen group",
+      "def_en": "The body of those who have been chosen.",
+      "label_es": "los elegidos",
+      "def_es": "El conjunto de las personas elegidas.",
+      "label_sv": "de utvalda",
+      "def_sv": "Skaran av de utvalda.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ローマ11:7。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "選びの器",
+      "def_ja": "『わたしの選んだ器』（σκεῦος ἐκλογῆς）。",
+      "label_en": "chosen vessel",
+      "def_en": "A chosen vessel (σκεῦος ἐκλογῆς).",
+      "label_es": "vaso escogido",
+      "def_es": "Un vaso escogido (σκεῦος ἐκλογῆς).",
+      "label_sv": "utvalt redskap",
+      "def_sv": "Ett utvalt redskap (σκεῦος ἐκλογῆς).",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒9:15。属格の性質用法。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1TH 1:4": 1,
+    "2PE 1:10": 1,
+    "ACT 9:15": 3,
+    "ROM 11:5": 1,
+    "ROM 11:7": 2,
+    "ROM 11:28": 1,
+    "ROM 9:11": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（選びの行為／選ばれた者たち／属格の用法）による。"
+}

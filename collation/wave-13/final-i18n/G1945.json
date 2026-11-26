@@ -1,0 +1,69 @@
+{
+  "strong": "G1945",
+  "lemma": "ἐπίκειμαι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "上にある・置かれている",
+      "def_ja": "物が上に置かれている、横たわる。『石がふさいであった』『炭火が起こされていて、その上に魚がのせてあり』『課せられた規定』。",
+      "label_en": "to lie on, to be placed on",
+      "def_en": "For an object to lie or be placed on something.",
+      "label_es": "estar encima, estar puesto sobre",
+      "def_es": "Estar un objeto puesto o tendido sobre algo.",
+      "label_sv": "att ligga på, att vara lagd på",
+      "def_sv": "Att något ligger eller är lagt ovanpå.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヨハネ11:38・21:9、ヘブル9:10。LXX（36.40）に並行。教父の代表例では確認していない。語義2・3との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "迫る・のしかかる",
+      "def_ja": "圧力がかかる、迫る。『そうしなければならない義務がわたしに課せられている』『暴風が激しく吹きつけ』『人々が押しかけて』。",
+      "label_en": "to press upon",
+      "def_en": "For pressure to bear down; to press in.",
+      "label_es": "apremiar, acosar",
+      "def_es": "Ejercer presión; apremiar.",
+      "label_sv": "att tränga på, att ligga över",
+      "def_sv": "Att ett tryck anbringas; att pressa på.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "コリント第一9:16、使徒27:20、ルカ5:1。LXX（21.27）、教父（7.1）に並行。語義1との境界は連続的。"
+    },
+    {
+      "n": 3,
+      "label_ja": "しつこく迫る",
+      "def_ja": "声高に要求し続ける。『彼らは大声で迫り続け』。",
+      "label_en": "to keep demanding insistently",
+      "def_en": "To go on demanding loudly.",
+      "label_es": "insistir con vehemencia",
+      "def_es": "Seguir exigiendo a voces.",
+      "label_sv": "att envist ansätta",
+      "def_sv": "Att fortsätta kräva med höga rop.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ルカ23:23。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 9:16": 2,
+    "ACT 27:20": 2,
+    "HEB 9:10": 1,
+    "JHN 11:38": 1,
+    "JHN 21:9": 1,
+    "LUK 23:23": 3,
+    "LUK 5:1": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（置かれている／のしかかる／しつこく迫る）による。"
+}

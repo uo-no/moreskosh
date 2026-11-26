@@ -1,0 +1,69 @@
+{
+  "strong": "G1382",
+  "lemma": "δοκιμή",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "試し・試練",
+      "def_ja": "試されること、吟味。『苦難による激しい試練の中にあっても』『あなたがたを試して、すべてのことに従順かどうかを知るため』。",
+      "label_en": "testing, trial",
+      "def_en": "Being tested, scrutiny.",
+      "label_es": "prueba, examen",
+      "def_es": "El hecho de ser probado; examen.",
+      "label_sv": "prövning",
+      "def_sv": "Att bli prövad; granskning.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "コリント第二8:2・2:9。語義2・3との境界は連続的。LXX・教父の用例なし。"
+    },
+    {
+      "n": 2,
+      "label_ja": "証拠・証明",
+      "def_ja": "試された結果としての証拠、証し。『キリストがわたしにあって語っておられる証拠』『この奉仕の証拠によって』。",
+      "label_en": "proof, evidence",
+      "def_en": "Proof or evidence resulting from a test.",
+      "label_es": "prueba, demostración",
+      "def_es": "Evidencia o testimonio que resulta de haber sido probado.",
+      "label_sv": "bevis, belägg",
+      "def_sv": "Bevis eller vittnesbörd som kommer av prövning.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "コリント第二13:3・9:13。語義1・3との境界は連続的。LXX・教父の用例なし。"
+    },
+    {
+      "n": 3,
+      "label_ja": "練られた品性・練達",
+      "def_ja": "試されて確かめられた状態、練達。『忍耐は練達を生み、練達は希望を生む』『テモテの練達を知っている』。",
+      "label_en": "proven character",
+      "def_en": "The condition of having been tested and found sound; proven character.",
+      "label_es": "carácter probado",
+      "def_es": "Estado de lo que ha sido probado y confirmado; carácter probado.",
+      "label_sv": "beprövad karaktär",
+      "def_sv": "Tillståndet att vara prövad och bekräftad; fasthet som bestått provet.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ローマ5:4（2回）、ピリピ2:22。語義2との境界は連続的。LXX・教父の用例なし。"
+    }
+  ],
+  "assignments": {
+    "2CO 13:3": 2,
+    "2CO 2:9": 1,
+    "2CO 8:2": 1,
+    "2CO 9:13": 2,
+    "PHP 2:22": 3,
+    "ROM 5:4#1": 3,
+    "ROM 5:4#2": 3
+  },
+  "unresolved": [],
+  "layer_notes": "LXX・教父の用例なし。語義区分は用法（試し／証拠／練られた品性）による。"
+}

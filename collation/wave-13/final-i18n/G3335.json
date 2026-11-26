@@ -1,0 +1,69 @@
+{
+  "strong": "G3335",
+  "lemma": "μεταλαμβάνω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "食物にあずかる",
+      "def_ja": "食物を取る、食事をする。『食事を共にし』『食事をするようにと勧めて』『ともに食物を取るように勧め』。",
+      "label_en": "to partake of food",
+      "def_en": "To take food, to have a meal.",
+      "label_es": "tomar alimento",
+      "def_es": "Tomar alimento, comer.",
+      "label_sv": "att ta till sig föda",
+      "def_sv": "Att ta föda, att äta en måltid.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒2:46・27:33・27:34。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "分け前にあずかる・受ける",
+      "def_ja": "分け前にあずかる、受ける。『まず作物にあずかるのは』『神の祝福にあずかり』『神の聖さにあずかる』。",
+      "label_en": "to share in, to receive",
+      "def_en": "To have a share, to receive.",
+      "label_es": "participar, recibir",
+      "def_es": "Participar de una parte, recibir.",
+      "label_sv": "att få del, att ta emot",
+      "def_sv": "Att få sin del, att ta emot.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "テモテ第二2:6、ヘブル6:7・12:10。教父（14.3・21.8）に並行。LXX の代表例では確認していない。語義1・3との境界は連続的。"
+    },
+    {
+      "n": 3,
+      "label_ja": "得る（機会を）",
+      "def_ja": "機会を得る。『都合のよい時を得たなら』。",
+      "label_en": "to find (an opportunity)",
+      "def_en": "To get an opportunity.",
+      "label_es": "hallar (oportunidad)",
+      "def_es": "Obtener una ocasión.",
+      "label_sv": "att få (tillfälle)",
+      "def_sv": "Att få ett tillfälle.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒24:25。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "2TI 2:6": 2,
+    "ACT 2:46": 1,
+    "ACT 24:25": 3,
+    "ACT 27:33": 1,
+    "ACT 27:34": 1,
+    "HEB 12:10": 2,
+    "HEB 6:7": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（食物／分け前／機会を得る）による。"
+}

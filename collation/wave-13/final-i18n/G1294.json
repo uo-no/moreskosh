@@ -1,0 +1,52 @@
+{
+  "strong": "G1294",
+  "lemma": "διαστρέφω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "曲げる・そむかせる（能動）",
+      "def_ja": "人や物事をゆがめる、そむかせる。『総督を信仰からそむかせようとして』『主のまっすぐな道を曲げ』『民を惑わしている』。",
+      "label_en": "to pervert, to turn away (active)",
+      "def_en": "To distort a person or thing, to turn someone away.",
+      "label_es": "torcer, apartar (voz activa)",
+      "def_es": "Torcer a una persona o cosa, apartarla.",
+      "label_sv": "att förvränga, att vända bort (aktivum)",
+      "def_sv": "Att förvränga en person eller sak, att vända någon bort.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒13:8・13:10、ルカ23:2。LXX（13.18）、教父（46.9・47.5）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "ねじ曲がった（分詞形容詞）",
+      "def_ja": "ねじ曲がった、曲がった（世代・言葉について）。『不信仰な曲がった時代よ』『曲がった世代』『曲がった事を語り』『曲がった邪悪な時代の中で』。",
+      "label_en": "crooked, perverse (participial adjective)",
+      "def_en": "Crooked, perverted (of a generation or of words).",
+      "label_es": "torcido, perverso (participio adjetival)",
+      "def_es": "Torcido, perverso (dicho de una generación o de palabras).",
+      "label_sv": "förvänd, vrång (adjektiviskt particip)",
+      "def_sv": "Förvänd, vrång (om ett släkte eller om ord).",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒20:30、ルカ9:41、マタイ17:17、ピリピ2:15。LXX（8.13）に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "ACT 13:8": 1,
+    "ACT 13:10": 1,
+    "ACT 20:30": 2,
+    "LUK 23:2": 1,
+    "LUK 9:41": 2,
+    "MAT 17:17": 2,
+    "PHP 2:15": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（能動でゆがめる／受動分詞のねじ曲がった）による。"
+}

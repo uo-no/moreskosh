@@ -1,0 +1,52 @@
+{
+  "strong": "G3146",
+  "lemma": "μαστιγόω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "むち打つ",
+      "def_ja": "むちで打つ（刑罰として）。『会堂で彼らをむち打つ』『ピラトはイエスを捕えてむち打たせた』『彼を侮辱し、むち打ち』『彼を異邦人に引き渡して、あざけり、むち打ち』『会堂でむち打ち』『彼らはむち打ち、殺す』。",
+      "label_en": "to flog, to scourge",
+      "def_en": "To beat with a whip (as a punishment).",
+      "label_es": "azotar",
+      "def_es": "Golpear con azotes (como castigo).",
+      "label_sv": "att gissla",
+      "def_sv": "Att slå med gissel (som straff).",
+      "layers": {
+        "nt": 6,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヨハネ19:1、ルカ18:33、マタイ10:17・20:19・23:34、マルコ10:34。LXX（3.9・3.34）に並行。教父の代表例は懲らしめの用法で、この語義としては確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "懲らしめる（神が子を）",
+      "def_ja": "神が愛する者をむちで懲らしめる。『主はその愛する者を訓練し、受け入れるすべての子を懲らしめられる』。",
+      "label_en": "to chastise (God, of a son)",
+      "def_en": "God disciplining with the rod the one God loves.",
+      "label_es": "castigar (Dios al hijo)",
+      "def_es": "Dios corrige con azote a quien ama.",
+      "label_sv": "att tukta (Gud sin son)",
+      "def_sv": "Gud tuktar med riset den han älskar.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "ヘブル12:6（箴言3:12の引用）。教父（56.4）に並行。語義1との境界は連続的。LXX の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "HEB 12:6": 2,
+    "JHN 19:1": 1,
+    "LUK 18:33": 1,
+    "MAT 10:17": 1,
+    "MAT 20:19": 1,
+    "MAT 23:34": 1,
+    "MRK 10:34": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（むち打ちの刑／懲らしめ）による。"
+}

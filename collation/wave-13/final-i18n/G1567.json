@@ -1,0 +1,69 @@
+{
+  "strong": "G1567",
+  "lemma": "ἐκζητέω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "探し求める",
+      "def_ja": "探し求める、求める。『人の残りの者が主を求めるようになるため』『神を求める者はいない』『神を求める者に報いてくださる』『涙を流して祝福を求めた』。",
+      "label_en": "to seek out",
+      "def_en": "To seek, to search for.",
+      "label_es": "buscar",
+      "def_es": "Buscar, procurar.",
+      "label_sv": "att söka",
+      "def_sv": "Att söka, att söka efter.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒15:17、ローマ3:11、ヘブル11:6・12:17。LXX（26.8・28.23）、教父（14.5）に並行。語義2・3との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "探り調べる",
+      "def_ja": "事柄を詳しく探り調べる。『この救いについて預言者たちは詳しく尋ね調べた』。",
+      "label_en": "to search carefully, to investigate",
+      "def_en": "To examine a matter closely.",
+      "label_es": "indagar, investigar",
+      "def_es": "Investigar a fondo un asunto.",
+      "label_sv": "att forska, att undersöka",
+      "def_sv": "Att noga utforska en sak.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "ペテロ第一1:10。教父（4.1）に並行。LXX の代表例では確認していない。語義1との境界は連続的。"
+    },
+    {
+      "n": 3,
+      "label_ja": "責任を問われる",
+      "def_ja": "血や責任が問われる、報いを受ける。『すべての預言者の血の責任がこの時代に問われる』『この時代の人々が問われるであろう』。",
+      "label_en": "to be held accountable, to require",
+      "def_en": "Blood or responsibility being required; to receive retribution.",
+      "label_es": "demandar responsabilidad",
+      "def_es": "Que se demande cuenta de la sangre o de la culpa; recibir retribución.",
+      "label_sv": "att utkrävas, att ställas till ansvar",
+      "def_sv": "Att blod eller ansvar utkrävs, att få vedergällning.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ルカ11:50・11:51。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1PE 1:10": 2,
+    "ACT 15:17": 1,
+    "HEB 12:17": 1,
+    "HEB 11:6": 1,
+    "LUK 11:50": 3,
+    "LUK 11:51": 3,
+    "ROM 3:11": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（探し求める／探り調べる／責任を問われる）による。"
+}

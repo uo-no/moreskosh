@@ -1,0 +1,52 @@
+{
+  "strong": "G3819",
+  "lemma": "πάλαι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "昔・以前に",
+      "def_ja": "昔、はるか以前に（副詞・形容詞的用法を含む）。『昔から』『もうずっと前に悔い改めたであろう』『古くは…語られた』『昔から前もって記されている』『以前の罪』。",
+      "label_en": "long ago, formerly",
+      "def_en": "Long ago, in former times (including adverbial and adjectival uses).",
+      "label_es": "antiguamente, en otro tiempo",
+      "def_es": "Antaño, mucho tiempo atrás (incluidos los usos adverbiales y adjetivales).",
+      "label_sv": "fordom, förr",
+      "def_sv": "Förr, för länge sedan (även i adverbiell och adjektivisk användning).",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヘブル1:1、ユダ4、ルカ10:13、マタイ11:21、ペテロ第二1:9。LXX（37.26）、教父（11.2・26.26.6）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "すでに・ずっと",
+      "def_ja": "すでに、ずっと前から。『もう死んだのか』『あなたがたは、ずっと前から弁明しているのだと考えているのか』。",
+      "label_en": "already, all this time",
+      "def_en": "Already, for a long time now.",
+      "label_es": "ya, desde hace tiempo",
+      "def_es": "Ya, desde hace mucho.",
+      "label_sv": "redan, hela tiden",
+      "def_sv": "Redan, sedan länge.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マルコ15:44、コリント第二12:19。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "2CO 12:19": 2,
+    "2PE 1:9": 1,
+    "HEB 1:1": 1,
+    "JUD 1:4": 1,
+    "LUK 10:13": 1,
+    "MAT 11:21": 1,
+    "MRK 15:44": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（昔／すでに）による。"
+}

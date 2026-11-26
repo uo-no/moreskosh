@@ -1,0 +1,52 @@
+{
+  "strong": "G3693",
+  "lemma": "ὄπισθεν",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "後ろに・後ろから",
+      "def_ja": "後ろに、後ろから。『彼の後ろからついて行った』『後ろから来て』『後ろから御衣のふさに触れた』『私たちの後ろから叫んでいる』『前も後ろも目で満ちた』『彼につけて、後ろから十字架を負わせ』。",
+      "label_en": "behind, from behind",
+      "def_en": "Behind, from behind.",
+      "label_es": "detrás, por detrás",
+      "def_es": "Detrás, por detrás.",
+      "label_sv": "bakom, bakifrån",
+      "def_sv": "Bakom, bakifrån.",
+      "layers": {
+        "nt": 6,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ルカ23:26・8:44、マタイ15:23・9:20、マルコ5:27、黙示録4:6。LXX（2.21）、教父（4.4）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "裏側に",
+      "def_ja": "巻物の裏側に。『内側にも外側（裏）にも字が書かれている』。",
+      "label_en": "on the back",
+      "def_en": "On the back side of a scroll.",
+      "label_es": "por el dorso",
+      "def_es": "Por el reverso de un rollo.",
+      "label_sv": "på baksidan",
+      "def_sv": "På baksidan av en bokrulle.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "黙示録5:1。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "LUK 23:26": 1,
+    "LUK 8:44": 1,
+    "MAT 15:23": 1,
+    "MAT 9:20": 1,
+    "MRK 5:27": 1,
+    "REV 4:6": 1,
+    "REV 5:1": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（後ろ／裏側）による。"
+}
