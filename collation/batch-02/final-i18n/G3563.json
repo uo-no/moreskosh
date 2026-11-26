@@ -1,0 +1,86 @@
+{
+  "strong": "G3563",
+  "lemma": "νοῦς",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "心／思考する力（知性）",
+      "def_ja": "人の考え、判断し、理解し、方向づける働きの座・能力。霊・肉・舌などと対比されることも、堕落や更新の対象として語られることもある。",
+      "label_en": "mind / faculty of thought (intellect)",
+      "def_en": "The seat and capacity of a person's thinking, judging, understanding, and directing. It may be contrasted with spirit, flesh, tongue, etc., or spoken of as the object of corruption or renewal.",
+      "label_es": "mente / facultad de pensar (intelecto)",
+      "def_es": "Sede y capacidad del pensar, juzgar, entender y orientar de la persona. Puede contraponerse al espíritu, la carne o la lengua, o ser objeto de corrupción o de renovación.",
+      "label_sv": "sinne / tankeförmåga (förstånd)",
+      "def_sv": "Säte och förmåga för människans tänkande, omdöme, förståelse och inriktning. Kan ställas mot ande, kött eller tunga, eller omtalas som föremål för fördärv och förnyelse.",
+      "layers": {
+        "nt": 17,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ローマ書の「心の法則」「心の一新」「無価値な心」、エペソ4:17・23、コロサイ2:18（肉の思い）、Ⅰテモ6:5、Ⅱテモ3:8、テト1:15、ルカ24:45（心を開く）、Ⅱテサ2:2、Ⅰコリ14:14–19（霊と対比された「心」）。ローマ14:5（「自分の心で」確信する）もこの型。"
+    },
+    {
+      "n": 2,
+      "label_ja": "理解／洞察（理解を働かせる力）",
+      "def_ja": "ことがらを見抜く理解力。ここでは『知恵』と並べられたり、人知を超えるものとして述べられたりする。",
+      "label_en": "understanding / insight (the power that applies understanding)",
+      "def_en": "The power of understanding that sees into things. Here it is placed alongside “wisdom” or stated as surpassing human knowledge.",
+      "label_es": "entendimiento / perspicacia (poder de comprender)",
+      "def_es": "La capacidad de comprensión que penetra las cosas. Aquí se coloca junto a la «sabiduría» o se presenta como aquello que sobrepasa el conocimiento humano.",
+      "label_sv": "förstånd / insikt (förmågan att förstå)",
+      "def_sv": "Den fattningsförmåga som genomskådar saker. Här nämns den vid sidan av ”vishet” eller beskrivs som övergående mänsklig kunskap.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "ピリ4:7（すべての理解を超える平和）、黙示録13:18・17:9（知恵とともに『νοῦν を持つ者』）。語義1との境界は連続的。LXX の代表例では、この用法として確認できるものは見当たらない。教父にバルナバ6:10（知恵と理解）の並行がある。"
+    },
+    {
+      "n": 3,
+      "label_ja": "思い／考え（引用句の「主の思い」など）",
+      "def_ja": "ある者の考え・思惑・意向。誰かの『思い』として名指しで述べられる用法。",
+      "label_en": "thought / mind (as in “the mind of the Lord” in quotations)",
+      "def_en": "Someone's thought, purpose, or intention. A use in which it is named as someone's “mind”.",
+      "label_es": "pensamiento / parecer (como «la mente del Señor» en citas)",
+      "def_es": "El pensamiento, propósito o intención de alguien. Uso en que se nombra como la «mente» de alguien.",
+      "label_sv": "tanke / mening (som ”Herrens sinne” i citat)",
+      "def_sv": "Någons tanke, avsikt eller vilja. Ett bruk där det uttryckligen nämns som någons ”sinne”.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ローマ11:34・Ⅰコリ2:16（イザヤ40:13 の引用）。Ⅰコリ1:10（「同じ思いと同じ判断で」）も同系。Ⅰコリ2:16 は同一節に2回（#1 は引用の『主の思い』、#2 は『キリストの思い』）。LXX イザヤ40:13 に並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 2:16#1": 3,
+    "1CO 2:16#2": 3,
+    "1CO 1:10": 3,
+    "1CO 14:14": 1,
+    "1CO 14:15#1": 1,
+    "1CO 14:15#2": 1,
+    "1CO 14:19": 1,
+    "1TI 6:5": 1,
+    "2TH 2:2": 1,
+    "2TI 3:8": 1,
+    "COL 2:18": 1,
+    "EPH 4:17": 1,
+    "EPH 4:23": 1,
+    "LUK 24:45": 1,
+    "PHP 4:7": 2,
+    "REV 13:18": 2,
+    "REV 17:9": 2,
+    "ROM 12:2": 1,
+    "ROM 1:28": 1,
+    "ROM 11:34": 3,
+    "ROM 14:5": 1,
+    "ROM 7:23": 1,
+    "ROM 7:25": 1,
+    "TIT 1:15": 1
+  },
+  "unresolved": [],
+  "layer_notes": "LXX の代表例（箴言・シラ書・Ⅳマカバイ記）に理性的な能力を指す用例が多いが、新約に無い用法は代表例の範囲では見当たらない。"
+}

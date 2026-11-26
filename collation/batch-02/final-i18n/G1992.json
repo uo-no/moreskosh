@@ -1,0 +1,86 @@
+{
+  "strong": "G1992",
+  "lemma": "ἐπιστολή",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "手紙／書簡",
+      "def_ja": "書かれて送られる文書、またはそれが読み上げられる一通の手紙。パウロ書簡・使徒会議の手紙・総督宛の文書など。",
+      "label_en": "letter / epistle",
+      "def_en": "A document written and sent, or a single letter that is read out: Paul's letters, the letter of the apostolic council, a document addressed to a governor, and so on.",
+      "label_es": "carta / epístola",
+      "def_es": "Documento escrito y enviado, o una carta que se lee en voz alta: las cartas de Pablo, la del concilio apostólico, el escrito dirigido al gobernador, etc.",
+      "label_sv": "brev",
+      "def_sv": "En skriven och avsänd handling, eller ett brev som läses upp: Paulus brev, apostlamötets brev, skrivelser till ståthållaren m.m.",
+      "layers": {
+        "nt": 18,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰコリ5:9、Ⅱコリ7:8・10:9–11、ローマ16:22、コロサイ4:16、Ⅰテサ5:27、Ⅱテサ2:2・15・3:14・17、Ⅱペテロ3:1・3:16、使徒15:30・23:25・23:33。Ⅱペテロ3:16（『パウロのすべての手紙』）の複数もこの語義。LXX の王や官吏の手紙（Ⅰマカ・Ⅱマカ）、教父（Ⅰクレメンス65.2、イグナティオスの手紙13.2）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "紹介状／委任の手紙",
+      "def_ja": "人の身元・権限・資格を証する文書としての手紙（推薦状、大祭司の許可状、教会の承認の手紙）。",
+      "label_en": "letter of introduction / commission",
+      "def_en": "A letter as a document attesting a person's identity, authority, or qualification (letter of recommendation, the high priest's authorization, the church's letter of approval).",
+      "label_es": "carta de recomendación / de autorización",
+      "def_es": "Carta como documento que acredita la identidad, la autoridad o la aptitud de alguien (carta de recomendación, autorización del sumo sacerdote, carta de aprobación de la iglesia).",
+      "label_sv": "rekommendationsbrev / fullmaktsbrev",
+      "def_sv": "Ett brev som intygar en människas identitet, befogenhet eller behörighet (rekommendationsbrev, översteprästens tillstånd, församlingens godkännandebrev).",
+      "layers": {
+        "nt": 4,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒9:2・22:5（ダマスコの会堂宛の許可状）、Ⅱコリ3:1（συστατικῶν ἐπιστολῶν＝推薦状）、Ⅰコリ16:3（承認した者に託す手紙）。語義1との境界は連続的（機能による区別）。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "（比喩としての）手紙",
+      "def_ja": "人そのものを『手紙』にたとえる。インクでなく霊で心に書かれた手紙。",
+      "label_en": "letter (as metaphor)",
+      "def_en": "People themselves likened to a “letter”: a letter written not with ink but with the Spirit, on hearts.",
+      "label_es": "carta (en metáfora)",
+      "def_es": "Las personas mismas comparadas con una «carta»: escrita no con tinta, sino con el Espíritu, en los corazones.",
+      "label_sv": "brev (som metafor)",
+      "def_sv": "Människor liknade vid ett ”brev”: skrivet inte med bläck utan med Anden, i hjärtan.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "Ⅱコリ3:2・3（『あなたがたはわたしたちの手紙』『キリストの手紙』）。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 5:9": 1,
+    "1CO 16:3": 2,
+    "1TH 5:27": 1,
+    "2CO 10:9": 1,
+    "2CO 10:10": 1,
+    "2CO 10:11": 1,
+    "2CO 3:1": 2,
+    "2CO 3:2": 3,
+    "2CO 3:3": 3,
+    "2CO 7:8#1": 1,
+    "2CO 7:8#2": 1,
+    "2PE 3:1": 1,
+    "2PE 3:16": 1,
+    "2TH 3:14": 1,
+    "2TH 3:17": 1,
+    "2TH 2:2": 1,
+    "2TH 2:15": 1,
+    "ACT 15:30": 1,
+    "ACT 22:5": 2,
+    "ACT 23:25": 1,
+    "ACT 23:33": 1,
+    "ACT 9:2": 2,
+    "COL 4:16": 1,
+    "ROM 16:22": 1
+  },
+  "unresolved": [],
+  "layer_notes": "LXX 代表例は書簡の写しの導入（『この手紙の写し』）が多く、新約に無い用法は見当たらない。"
+}

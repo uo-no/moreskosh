@@ -1,0 +1,103 @@
+{
+  "strong": "G189",
+  "lemma": "ἀκοή",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "聞くこと／聴覚",
+      "def_ja": "聞く働き、またその感覚。『ἀκοῇ ἀκούειν』（聞くには聞くが）のヘブライ語法の与格もここ。",
+      "label_en": "hearing / the sense of hearing",
+      "def_en": "The act of hearing, and that sense. Also the Hebraic dative in “ἀκοῇ ἀκούειν” (you will indeed hear, but …).",
+      "label_es": "oír / sentido del oído",
+      "def_es": "La función de oír y ese sentido. También el dativo hebraizante de «ἀκοῇ ἀκούειν» (oiréis bien, pero …).",
+      "label_sv": "hörande / hörsel",
+      "def_sv": "Förmågan att höra och det sinnet. Även den hebraiserande dativen i ”ἀκοῇ ἀκούειν” (ni ska höra och höra, men …).",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰコリ12:17（聴覚）、Ⅱペテロ2:8（見ることと聞くこと）、マタイ13:14・使徒28:26（イザヤ6:9 の引用『聞くには聞く』）。LXX 出エジプト19:5 の ἀκοῇ ἀκούσητε、教父にバルナバ9.2 の並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "耳（聞く器官）",
+      "def_ja": "聞く器官としての耳。多く複数形（τὰς ἀκοάς）で用いられる。",
+      "label_en": "ear (organ of hearing)",
+      "def_en": "The ear as the organ that hears. Mostly used in the plural (τὰς ἀκοάς).",
+      "label_es": "oído (órgano)",
+      "def_es": "El oído como órgano que oye. Se usa sobre todo en plural (τὰς ἀκοάς).",
+      "label_sv": "öra (hörselorganet)",
+      "def_sv": "Örat som organet som hör. Används mest i plural (τὰς ἀκοάς).",
+      "layers": {
+        "nt": 6,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅱテモ4:3・4（耳を真理から背ける）、使徒17:20（耳に入る）、マルコ7:35（耳が開く）、ルカ7:1（人々の耳に）、ヘブル5:11（耳が鈍い）。LXX・教父（バルナバ9.3・10.12『耳を割礼した』）に並行。"
+    },
+    {
+      "n": 3,
+      "label_ja": "聞かされたこと／知らせ（宣べ伝えられた言葉）",
+      "def_ja": "聞かされた内容、すなわち伝えられたメッセージ・教え。『わたしたちの知らせ』『聞かされた言葉』の形。",
+      "label_en": "what was heard / report (the proclaimed word)",
+      "def_en": "The content that was heard, that is, the message or teaching conveyed. In forms such as “our report” and “the word heard”.",
+      "label_es": "lo oído / anuncio (la palabra proclamada)",
+      "def_es": "El contenido que se ha oído, es decir, el mensaje o la enseñanza transmitidos. En formas como «nuestro anuncio» y «la palabra oída».",
+      "label_sv": "det man fått höra / budskap (det förkunnade ordet)",
+      "def_sv": "Innehållet i det man hört, det vill säga det förmedlade budskapet eller den förmedlade undervisningen. I former som ”vårt budskap” och ”det hörda ordet”.",
+      "layers": {
+        "nt": 8,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "ヨハネ12:38・ローマ10:16（イザヤ53:1『わたしたちの知らせ』）、ヘブル4:2（聞かされた言葉）、Ⅰテサ2:13（λόγος ἀκοῆς＝聞かされた言葉）。教父にⅠクレメンス16.3（イザヤ53:1 の引用）。 ローマ10:16–17 とガラテヤ3:2・5（ἐξ ἀκοῆς πίστεως）もこの語義（BDAG 語義❹b が明示して裏づけ）。BDAG は Williams の別解（聞くこと）を併記するが、多数は知らせの読みを取る。"
+    },
+    {
+      "n": 4,
+      "label_ja": "うわさ／評判",
+      "def_ja": "人や事柄について聞こえてくる風聞・評判。『戦争のうわさ』『イエスの評判』のように属格を伴う。",
+      "label_en": "rumour / reputation",
+      "def_en": "Hearsay or reputation that reaches the ear about a person or matter. Accompanied by a genitive, as in “rumours of wars” or “the fame of Jesus”.",
+      "label_es": "rumor / fama",
+      "def_es": "Noticias o fama que llegan a oídos sobre una persona o un asunto. Con genitivo, como «rumores de guerras» o «la fama de Jesús».",
+      "label_sv": "rykte / anseende",
+      "def_sv": "Hörsägen och rykte som når öronen om en människa eller sak. Med genitiv, som ”rykten om krig” och ”ryktet om Jesus”.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "マタイ4:24・14:1、マルコ1:28（イエスの評判）、マタイ24:6・マルコ13:7（戦争のうわさ）。LXX イザヤ・サムエル記、教父にⅠクレメンス47.7 の並行。"
+    }
+  ],
+  "assignments": {
+    "1CO 12:17#1": 1,
+    "1CO 12:17#2": 1,
+    "1TH 2:13": 3,
+    "2PE 2:8": 1,
+    "2TI 4:3": 2,
+    "2TI 4:4": 2,
+    "ACT 17:20": 2,
+    "ACT 28:26": 1,
+    "HEB 5:11": 2,
+    "HEB 4:2": 3,
+    "JHN 12:38": 3,
+    "LUK 7:1": 2,
+    "MAT 14:1": 4,
+    "MAT 13:14": 1,
+    "MAT 4:24": 4,
+    "MAT 24:6": 4,
+    "MRK 1:28": 4,
+    "MRK 13:7": 4,
+    "MRK 7:35": 2,
+    "ROM 10:16": 3,
+    "ROM 10:17#1": 3,
+    "ROM 10:17#2": 3,
+    "GAL 3:2": 3,
+    "GAL 3:5": 3
+  },
+  "unresolved": [],
+  "layer_notes": "LXX・教父の代表例で、新約に無い用法は見当たらない。"
+}

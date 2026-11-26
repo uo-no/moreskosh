@@ -1,0 +1,86 @@
+{
+  "strong": "G2749",
+  "lemma": "κεῖμαι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "横たわっている／置かれている",
+      "def_ja": "物や人が、ある場所に置かれて（据えられて）そこにある状態を表す。τίθημι の受動に当たる状態で、位置・配置を述べる。",
+      "label_en": "to lie / be placed",
+      "def_en": "States that a thing or person is there, put (set) in a certain place. A state corresponding to the passive of τίθημι, expressing position or arrangement.",
+      "label_es": "yacer / estar colocado",
+      "def_es": "Expresa que una cosa o persona está puesta (asentada) en un lugar. Es el estado correspondiente a la pasiva de τίθημι e indica posición o disposición.",
+      "label_sv": "att ligga / vara placerad",
+      "def_sv": "Anger att ett ting eller en människa är lagd eller uppställd på en viss plats. Ett tillstånd som motsvarar passiv av τίθημι och uttrycker läge.",
+      "layers": {
+        "nt": 18,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "亜麻布・香油の器・乳飲み子・遺体・座・町など具体物の位置。ルカ12:19（蓄えられた財）、マタイ3:10／ルカ3:9（斧が木の根もとに置かれている）、Ⅰコリ3:11（据えられた土台）もこの型に置いた（後三者は比喩的な含みがあるが、語としては位置の述べ方）。"
+    },
+    {
+      "n": 2,
+      "label_ja": "（ある状態・力のもとに）置かれている",
+      "def_ja": "人や世界が、ある状態や力のもとにあるという比喩的な位置を表す。",
+      "label_en": "to lie (under a state or power)",
+      "def_en": "A figurative position: a person or the world lies under a certain state or power.",
+      "label_es": "estar puesto (bajo un estado o poder)",
+      "def_es": "Posición figurada: una persona o el mundo está bajo cierto estado o poder.",
+      "label_sv": "att ligga (i ett tillstånd eller under en makt)",
+      "def_sv": "En bildlig placering: en människa eller världen befinner sig i ett visst tillstånd eller under en viss makt.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "Ⅱコリ3:15（覆いが心の上にある）、Ⅰヨハ5:19（世界は悪しき者のうちにある）。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "定められている／据えられている",
+      "def_ja": "ある目的・運命・立場のために定められ、課されていることを表す（多く εἰς＋対格、または与格を伴う）。",
+      "label_en": "to be appointed / be set",
+      "def_en": "States being set and laid upon for a certain purpose, destiny, or position (mostly with εἰς + accusative, or with the dative).",
+      "label_es": "estar destinado / establecido",
+      "def_es": "Expresa estar puesto e impuesto para un fin, destino o posición (por lo general con εἰς + acusativo, o con dativo).",
+      "label_sv": "att vara bestämd / satt",
+      "def_sv": "Anger att vara satt och bestämd för ett visst syfte, öde eller en viss ställning (oftast med εἰς + ackusativ eller med dativ).",
+      "layers": {
+        "nt": 4,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "Ⅰテサ3:3、ルカ2:34、ピリ1:16（εἰς＋対格の目的）、Ⅰテモ1:9（律法は義人のために置かれていない）。教父に ἐπὶ τῆς τιμωρίας κείμενος（処罰に定められた者）の並行がある。LXX の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 3:11": 1,
+    "1JN 5:19": 2,
+    "1TH 3:3": 3,
+    "1TI 1:9": 3,
+    "2CO 3:15": 2,
+    "JHN 2:6": 1,
+    "JHN 19:29": 1,
+    "JHN 21:9": 1,
+    "JHN 20:5": 1,
+    "JHN 20:6": 1,
+    "JHN 20:7": 1,
+    "JHN 20:12": 1,
+    "LUK 12:19": 1,
+    "LUK 2:12": 1,
+    "LUK 2:16": 1,
+    "LUK 2:34": 3,
+    "LUK 3:9": 1,
+    "LUK 23:53": 1,
+    "MAT 28:6": 1,
+    "MAT 3:10": 1,
+    "MAT 5:14": 1,
+    "PHP 1:16": 3,
+    "REV 4:2": 1,
+    "REV 21:16": 1
+  },
+  "unresolved": [],
+  "layer_notes": "LXX・教父の代表例で、新約に無い用法は確認していない（位置・配置の用法が中心）。"
+}

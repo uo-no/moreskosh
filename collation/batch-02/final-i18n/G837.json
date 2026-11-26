@@ -1,0 +1,102 @@
+{
+  "strong": "G837",
+  "lemma": "αὐξάνω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "成長させる／増し加える（他動）",
+      "def_ja": "育てる、増し加える。成長・増加を起こさせる主体（神）を述べる。",
+      "label_en": "to make grow / increase (transitive)",
+      "def_en": "To bring up, to increase. States the one (God) who causes growth or increase.",
+      "label_es": "hacer crecer / aumentar (transitivo)",
+      "def_es": "Hacer crecer, aumentar. Se refiere al sujeto (Dios) que produce el crecimiento o el aumento.",
+      "label_sv": "att ge växt / föröka (transitivt)",
+      "def_sv": "Att få att växa, att föröka. Anger den (Gud) som åstadkommer tillväxt eller ökning.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "Ⅰコリ3:6・7（『成長させてくださるのは神』）、Ⅱコリ9:10（義の実を増し加える）。LXX の代表例では他動の用例は確認していない。教父にヘルマス3.4.1・クレメンス24.5 の並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "育つ／成長する（植物・子ども）",
+      "def_ja": "植物や子どもが育つ、大きくなる。",
+      "label_en": "to grow (plants, children)",
+      "def_en": "A plant or child grows up, becomes larger.",
+      "label_es": "crecer (plantas, niños)",
+      "def_es": "Una planta o un niño crece, se hace grande.",
+      "label_sv": "att växa upp (växter, barn)",
+      "def_sv": "En växt eller ett barn växer upp och blir större.",
+      "layers": {
+        "nt": 7,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "マタイ6:28・13:32、マルコ4:8、ルカ12:27・13:19（植物）、ルカ1:80・2:40（幼い者）。LXX（創世記・ヨブ記の例）に並行。教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "増える／広がる（群れ・言葉・影響）",
+      "def_ja": "数や範囲が増える、広まる。群衆、神のことば、指導者の盛んさを主語とする。",
+      "label_en": "to increase / spread (groups, the word, influence)",
+      "def_en": "To increase or spread in number or range. The subject is a crowd, the word of God, or the greatness of a leader.",
+      "label_es": "aumentar / extenderse (multitudes, la palabra, influencia)",
+      "def_es": "Crecer en número o alcance, extenderse. El sujeto es la multitud, la palabra de Dios o la preeminencia de un guía.",
+      "label_sv": "att öka / spridas (skaror, ordet, inflytande)",
+      "def_sv": "Att öka eller spridas i antal eller räckvidd. Subjektet är en folkskara, Guds ord eller en ledares framgång.",
+      "layers": {
+        "nt": 7,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒6:7・12:24・19:20（神のことばが広がる）、使徒7:17（民が増える）、コロサイ1:6（福音が実を結び広がる）、Ⅱコリ10:15（信仰が増す）、ヨハネ3:30（『あの方は盛んになり』）。LXX 創世記1:28 型（増える）、教父に創世記引用（バルナバ6.12）・ディダケー的用例（16.4 『不法が増す』）の並行。"
+    },
+    {
+      "n": 4,
+      "label_ja": "（信仰・品性・共同体が）成長する",
+      "def_ja": "人や共同体が霊的・人格的に成熟へ向かって成長する。εἰς＋対格、ἐν＋与格で方向・領域を示す。",
+      "label_en": "to grow (faith, character, community)",
+      "def_en": "A person or community grows spiritually and personally toward maturity. Direction or sphere is shown by εἰς + accusative or ἐν + dative.",
+      "label_es": "crecer (la fe, el carácter, la comunidad)",
+      "def_es": "Una persona o comunidad crece espiritual y personalmente hacia la madurez. La dirección o el ámbito se indica con εἰς + acusativo o ἐν + dativo.",
+      "label_sv": "att växa till (tro, karaktär, gemenskap)",
+      "def_sv": "En människa eller gemenskap växer andligen och som person mot mognad. Riktning eller område anges med εἰς + ackusativ eller ἐν + dativ.",
+      "layers": {
+        "nt": 6,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "Ⅰペテロ2:2（救いに至るまで成長する）、Ⅱペテロ3:18（恵みと知識において）、エペソ2:21（神殿へ向かって）・4:15（キリストへ向かって）、コロサイ1:10（神を知る知識において）・2:19（神の成長で成長する）。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 3:6": 1,
+    "1CO 3:7": 1,
+    "1PE 2:2": 4,
+    "2CO 10:15": 3,
+    "2CO 9:10": 1,
+    "2PE 3:18": 4,
+    "ACT 12:24": 3,
+    "ACT 19:20": 3,
+    "ACT 6:7": 3,
+    "ACT 7:17": 3,
+    "COL 2:19": 4,
+    "COL 1:6": 3,
+    "COL 1:10": 4,
+    "EPH 2:21": 4,
+    "EPH 4:15": 4,
+    "JHN 3:30": 3,
+    "LUK 13:19": 2,
+    "LUK 12:27": 2,
+    "LUK 1:80": 2,
+    "LUK 2:40": 2,
+    "MAT 13:32": 2,
+    "MAT 6:28": 2,
+    "MRK 4:8": 2
+  },
+  "unresolved": [],
+  "layer_notes": "Abbott は自動詞の用法は LXX に無いとするが、パケットの代表例には受動形で同義の例（増える・育つ）が見える。新約に無い用法は代表例の範囲では見当たらない。"
+}

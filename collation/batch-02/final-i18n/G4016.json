@@ -1,0 +1,93 @@
+{
+  "strong": "G4016",
+  "lemma": "περιβάλλω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "着せる／衣をかける",
+      "def_ja": "他者に衣を着せかける。能動で、人（対格）に衣（対格）を着せる、または裸の人に衣を与える。",
+      "label_en": "to clothe / put a garment on",
+      "def_en": "To put clothing on another. Active: to put a garment (accusative) on a person (accusative), or to give clothing to the naked.",
+      "label_es": "vestir / cubrir con ropa",
+      "def_es": "Poner ropa a otro. En activa: vestir a una persona (acusativo) con una prenda (acusativo), o dar ropa al desnudo.",
+      "label_sv": "att klä / sätta kläder på",
+      "def_sv": "Att klä på någon annan. Aktivt: att klä en människa (ackusativ) i ett plagg (ackusativ), eller ge kläder åt den nakne.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヨハネ19:2・ルカ23:11（嘲りの衣を着せる）、マタイ25:36・38・43（裸の者に着せる）。LXX イザヤ58:7、教父にバルナバ3:3 の並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "身にまとう／着る",
+      "def_ja": "中動相で、自分の身に衣をまとう（これから着る、またその都度着る）。着るもの・約束された衣の授与（未来・接続法）も含む。",
+      "label_en": "to put on / wear",
+      "def_en": "Middle voice: to wrap oneself in a garment (about to put it on, or putting it on each time). Includes what one will wear and the granting of promised garments (future, subjunctive).",
+      "label_es": "ponerse / vestirse",
+      "def_es": "Voz media: cubrirse con una prenda (al ir a ponérsela o cada vez). Incluye lo que se ha de vestir y la entrega de las vestiduras prometidas (futuro, subjuntivo).",
+      "label_sv": "att ta på sig / klä sig i",
+      "def_sv": "Medium: att svepa in sig i ett plagg (när man ska ta på sig eller varje gång). Omfattar också vad man ska klä sig i och tilldelningen av utlovade kläder (futurum, konjunktiv).",
+      "layers": {
+        "nt": 7,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒12:8、マタイ6:29・31、ルカ12:27、黙示録3:5・3:18・19:8。LXX の例として創世記24:65 の中動。教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "〜をまとっている（状態）",
+      "def_ja": "完了受動分詞で、すでに身にまとっている状態を述べる（衣・雲・太陽などを対格または与格で示す）。",
+      "label_en": "to be clothed in (state)",
+      "def_en": "Perfect passive participle: states being already wrapped in something (garment, cloud, sun, etc., shown by the accusative or dative).",
+      "label_es": "estar vestido de (estado)",
+      "def_es": "Participio perfecto pasivo: expresa el estado de estar ya cubierto con algo (ropa, nube, sol, etc., en acusativo o dativo).",
+      "label_sv": "att vara klädd i (tillstånd)",
+      "def_sv": "Perfekt passivt particip: anger att man redan är iklädd något (kläder, moln, sol m.m. i ackusativ eller dativ).",
+      "layers": {
+        "nt": 11,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "マルコ14:51・16:5、黙示録の多数（4:4、7:9・13、10:1、11:3、12:1、17:4、18:16、19:13）。LXX の代表例に完了受動分詞の用例（Ⅰマカ10:64 型）。"
+    }
+  ],
+  "assignments": {
+    "ACT 12:8": 2,
+    "JHN 19:2": 1,
+    "LUK 12:27": 2,
+    "LUK 23:11": 1,
+    "MAT 25:36": 1,
+    "MAT 25:38": 1,
+    "MAT 25:43": 1,
+    "MAT 6:29": 2,
+    "MAT 6:31": 2,
+    "MRK 16:5": 3,
+    "MRK 14:51": 3,
+    "REV 10:1": 3,
+    "REV 12:1": 3,
+    "REV 11:3": 3,
+    "REV 17:4": 3,
+    "REV 18:16": 3,
+    "REV 19:8": 2,
+    "REV 19:13": 3,
+    "REV 4:4": 3,
+    "REV 3:5": 2,
+    "REV 3:18": 2,
+    "REV 7:9": 3,
+    "REV 7:13": 3
+  },
+  "unresolved": [],
+  "layer_notes": "LXX に『網を投げかける』『（恥や不義を）まとう』の比喩的な用法（Ez 32:3、Ps 72:6）があるが、新約に無い用法は語義にしない。",
+  "excluded": [
+    {
+      "ref": "LUK 19:43",
+      "form": "παρεμβαλοῦσιν",
+      "reason": "παρεμβάλλω の未来形で、περιβάλλω に誤配当されている（英語グロス build は παρεμβάλλω 側と一致）。bible_data の修正は別アクション。動詞の Strong 番号はデータ修正時に確定するため、ここでは断定しない。"
+    }
+  ],
+  "note": "確定頻度は新約23件。ルカ19:43 のトークン παρεμβαλοῦσιν は παρεμβάλλω の形で誤配当のため、この語の用例から除外した（下書きでは新約24件・未解決1件）。"
+}

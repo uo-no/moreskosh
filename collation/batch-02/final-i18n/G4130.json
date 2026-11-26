@@ -1,0 +1,103 @@
+{
+  "strong": "G4130",
+  "lemma": "πίμπλημι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "満たす／満ちる（物・場所を）",
+      "def_ja": "容れ物・場所・網などをいっぱいにする、または人や物で満ちる。内容物は属格（または＋ἐκ）で示す。",
+      "label_en": "to fill / become full (things, places)",
+      "def_en": "To make a container, place, net, etc. full, or to become full of people or things. The contents are in the genitive (or also with ἐκ).",
+      "label_es": "llenar / llenarse (objetos, lugares)",
+      "def_es": "Llenar un recipiente, lugar, red, etc., o llenarse de personas o cosas. El contenido va en genitivo (o con ἐκ).",
+      "label_sv": "att fylla / bli full (ting, platser)",
+      "def_sv": "Att göra ett kärl, en plats eller ett nät fullt, eller fyllas av människor eller ting. Innehållet anges i genitiv (eller med ἐκ).",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "広間が客で満ちる（マタイ22:10）、舟に魚を満たす（ルカ5:7）、海綿に酸いぶどう酒を含ませる（マタイ27:48）。"
+    },
+    {
+      "n": 2,
+      "label_ja": "聖霊に満たされる",
+      "def_ja": "πνεύματος ἁγίου（属格）を伴い、聖霊に満たされることを述べる。",
+      "label_en": "to be filled with the Holy Spirit",
+      "def_en": "With πνεύματος ἁγίου (genitive), states being filled with the Holy Spirit.",
+      "label_es": "ser lleno del Espíritu Santo",
+      "def_es": "Con πνεύματος ἁγίου (genitivo), expresa el ser llenado del Espíritu Santo.",
+      "label_sv": "att uppfyllas av den helige Ande",
+      "def_sv": "Med πνεύματος ἁγίου (genitiv) anger att bli uppfylld av den helige Ande.",
+      "layers": {
+        "nt": 8,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒行伝（2:4、4:8、4:31、9:17、13:9）とルカの幼児物語（1:15、1:41、1:67）に集中する。LXX・教父の代表例では、この用法として確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "（感情・状態で）満たされる",
+      "def_ja": "妬み・怒り・恐れ・驚き・無分別・混乱など、感情や状態に人々や町が満たされる。属格を伴う受動。",
+      "label_en": "to be filled (with an emotion or state)",
+      "def_en": "People or a town are filled with an emotion or state: envy, anger, fear, amazement, senselessness, confusion, and so on. Passive with the genitive.",
+      "label_es": "llenarse (de un sentimiento o estado)",
+      "def_es": "Las personas o la ciudad se llenan de un sentimiento o estado: envidia, ira, temor, asombro, insensatez, confusión, etc. Pasiva con genitivo.",
+      "label_sv": "att fyllas (av en känsla eller ett tillstånd)",
+      "def_sv": "Människor eller en stad fylls av en känsla eller ett tillstånd: avund, vrede, fruktan, häpnad, oförnuft, förvirring m.m. Passiv med genitiv.",
+      "layers": {
+        "nt": 7,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "ζήλου（使徒5:17、13:45）、θυμοῦ（ルカ4:28）、φόβου（ルカ5:26）、ἀνοίας（ルカ6:11）、θάμβους 型の驚き（使徒3:10）、συγχύσεως（使徒19:29）。語義1・2 との境界は属格の内容による区別で、連続的。教父にヘルマスの『彼らは満たされた』の類例がある。"
+    },
+    {
+      "n": 4,
+      "label_ja": "（時が）満ちる／（ことが）成就する",
+      "def_ja": "日・時が満ち、定められた期限に達する。また、書かれたことが成就する。",
+      "label_en": "to be fulfilled (time) / (events) come to pass",
+      "def_en": "Days or time become full and reach the appointed limit. Also, what has been written is fulfilled.",
+      "label_es": "cumplirse (el tiempo) / realizarse",
+      "def_es": "Los días o el tiempo se cumplen y llegan al plazo fijado. También se cumple lo que está escrito.",
+      "label_sv": "att fullbordas (tiden) / gå i uppfyllelse",
+      "def_sv": "Dagarna eller tiden blir fulla och når den fastställda gränsen. Även att det som står skrivet går i uppfyllelse.",
+      "layers": {
+        "nt": 6,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ルカの幼児物語（1:23、1:57、2:6、2:21、2:22）の『日が満ちた』、ルカ21:22（書かれたすべてが成就する）。LXX では『日が満ちる』の並行が考えられるが、パケットの代表例では確認できなかった。"
+    }
+  ],
+  "assignments": {
+    "ACT 13:9": 2,
+    "ACT 13:45": 3,
+    "ACT 19:29": 3,
+    "ACT 2:4": 2,
+    "ACT 3:10": 3,
+    "ACT 4:8": 2,
+    "ACT 4:31": 2,
+    "ACT 5:17": 3,
+    "ACT 9:17": 2,
+    "LUK 1:15": 2,
+    "LUK 1:23": 4,
+    "LUK 1:41": 2,
+    "LUK 1:57": 4,
+    "LUK 1:67": 2,
+    "LUK 21:22": 4,
+    "LUK 2:6": 4,
+    "LUK 2:21": 4,
+    "LUK 2:22": 4,
+    "LUK 5:7": 1,
+    "LUK 5:26": 3,
+    "LUK 4:28": 3,
+    "LUK 6:11": 3,
+    "MAT 22:10": 1,
+    "MAT 27:48": 1
+  },
+  "unresolved": [],
+  "layer_notes": "LXX 代表例には『地を悪で満たす』『血で満たす』など、新約の受動中心の用法とは別の能動の用例が多いが、新約に無い用法は語義にしない。"
+}

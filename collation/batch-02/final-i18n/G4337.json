@@ -1,0 +1,86 @@
+{
+  "strong": "G4337",
+  "lemma": "προσέχω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "注意を向ける／耳を傾ける",
+      "def_ja": "心・注意を向けて聞く、従う、聞き入れる。向ける対象は与格で示す。",
+      "label_en": "to pay attention / give heed",
+      "def_en": "To turn one's mind and attention to hear, follow, and accept. The object is in the dative.",
+      "label_es": "prestar atención / escuchar",
+      "def_es": "Dirigir la mente y la atención para oír, seguir y aceptar. El objeto va en dativo.",
+      "label_sv": "att ge akt på / lyssna till",
+      "def_sv": "Att rikta sinne och uppmärksamhet för att höra, följa och ta till sig. Föremålet står i dativ.",
+      "layers": {
+        "nt": 9,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒8:6・10・11、16:14（語られることに心を向ける）、ヘブル2:1、Ⅱペテロ1:19、Ⅰテモ1:4・4:1、テト1:14（『作り話・惑わす霊』に気を取られる）。Ⅰテモ4:1・テト1:14 は否定的な対象への傾倒で、語義3との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "気をつける／用心する",
+      "def_ja": "自分や他者に対する危険を意識して警戒する。再帰与格（ἑαυτοῖς）、ἀπό＋属格（〜から）、μή＋不定詞などを伴う。",
+      "label_en": "to beware / take care",
+      "def_en": "To be on guard, aware of danger to oneself or others. With a reflexive dative (ἑαυτοῖς), ἀπό + genitive (“of”), μή + infinitive, and so on.",
+      "label_es": "tener cuidado / guardarse",
+      "def_es": "Estar alerta, consciente de un peligro para uno mismo o para otros. Con dativo reflexivo (ἑαυτοῖς), ἀπό + genitivo («de»), μή + infinitivo, etc.",
+      "label_sv": "att ta sig i akt / vara på sin vakt",
+      "def_sv": "Att vara vaksam för en fara för sig själv eller andra. Med reflexiv dativ (ἑαυτοῖς), ἀπό + genitiv (”för”), μή + infinitiv m.m.",
+      "layers": {
+        "nt": 12,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ルカ17:3・21:34、使徒5:35（ἑαυτοῖς）、ルカ12:1・20:46、マタイ7:15・10:17・16:6・11・12（ἀπό）、マタイ6:1（μή＋不定詞の内容）。使徒20:28（自分自身と群れ全体に気を配る）は警戒と世話のあいだにあり、ここに置いた。"
+    },
+    {
+      "n": 3,
+      "label_ja": "身を捧げる／専念する／仕える",
+      "def_ja": "ある務め・対象に身を寄せて従事する、あるいは溺れる。与格を伴う。",
+      "label_en": "to devote oneself / serve",
+      "def_en": "To attach oneself to and engage in a duty or object, or to be given over to it. With the dative.",
+      "label_es": "entregarse / dedicarse / servir",
+      "def_es": "Aplicarse y ocuparse en una tarea u objeto, o entregarse a él. Con dativo.",
+      "label_sv": "att ägna sig åt / hänge sig / tjäna",
+      "def_sv": "Att sluta sig till och syssla med en uppgift eller sak, eller vara hemfallen åt den. Med dativ.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヘブル7:13（祭壇に仕える）、Ⅰテモ3:8（多くの酒に溺れる）、Ⅰテモ4:13（朗読・勧め・教えに専念する）。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1TI 3:8": 3,
+    "1TI 4:1": 1,
+    "1TI 4:13": 3,
+    "1TI 1:4": 1,
+    "2PE 1:19": 1,
+    "ACT 16:14": 1,
+    "ACT 20:28": 2,
+    "ACT 8:6": 1,
+    "ACT 8:10": 1,
+    "ACT 8:11": 1,
+    "ACT 5:35": 2,
+    "HEB 2:1": 1,
+    "HEB 7:13": 3,
+    "LUK 12:1": 2,
+    "LUK 17:3": 2,
+    "LUK 21:34": 2,
+    "LUK 20:46": 2,
+    "MAT 10:17": 2,
+    "MAT 16:6": 2,
+    "MAT 16:11": 2,
+    "MAT 16:12": 2,
+    "MAT 7:15": 2,
+    "MAT 6:1": 2,
+    "TIT 1:14": 1
+  },
+  "unresolved": [],
+  "layer_notes": "LXX・教父の代表例に新約に無い用法（船を寄せる、等）は見当たらない。"
+}
