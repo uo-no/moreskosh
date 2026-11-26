@@ -1,0 +1,186 @@
+{
+ "strong": "G5003",
+ "lemma": "ταλαιπωρέω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JAS 4:9",
+   "form": "ταλαιπωρήσατε",
+   "morph": "V-AAM-2P",
+   "gloss_en": "lament",
+   "gloss_ja": "苦しむ",
+   "verse": "ταλαιπωρήσατε καὶ πενθήσατε καὶ κλαύσατε· ὁ γέλως ὑμῶν εἰς πένθος μετατραπήτω καὶ ἡ χαρὰ εἰς κατήφειαν·"
+  }
+ ],
+ "lxx": {
+  "total": 16,
+  "works": {
+   "Psalmi": 2,
+   "Osee": 1,
+   "Michaeas": 1,
+   "Joel": 2,
+   "Zacharias": 3,
+   "Isaias": 1,
+   "Jeremias": 6
+  },
+  "representatives": [
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "4.20",
+    "form": "τεταλαιπώρηκεν",
+    "postag": "v3sria---",
+    "sentence": "ἄφνω τεταλαιπώρηκεν ἡ σκηνή, διεσπάσθησαν αἱ δέρρεις μου."
+   },
+   {
+    "work_code": "ZEC",
+    "work_ja": "ゼカリヤ書",
+    "work_src": "Zacharias",
+    "ref": "11.3",
+    "form": "τεταλαιπώρηκε",
+    "postag": "v3sria---",
+    "sentence": "φωνὴ ὠρυομένων λεόντων, ὅτι τεταλαιπώρηκε τὸ φρύαγμα τοῦ Ἰορδάνου."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "37.7",
+    "form": "ἐταλαιπώρησα",
+    "postag": "v1saia---",
+    "sentence": "ἐταλαιπώρησα καὶ κατεκάμφθην ἕως τέλους, ὅλην τὴν ἡμέραν σκυθρωπάζων ἐπορευόμην."
+   },
+   {
+    "work_code": "JOL",
+    "work_ja": "ヨエル書",
+    "work_src": "Joel",
+    "ref": "1.10",
+    "form": "τεταλαιπώρηκε",
+    "postag": "v3sria---",
+    "sentence": "πενθείτω ἡ γῆ, ὅτι τεταλαιπώρηκε σῖτος, ἐξηράνθη οἶνος, ὠλιγώθη ἔλαιον."
+   },
+   {
+    "work_code": "HOS",
+    "work_ja": "ホセア書",
+    "work_src": "Osee",
+    "ref": "10.2",
+    "form": "ταλαιπωρήσουσιν",
+    "postag": "v3pfia---",
+    "sentence": "αὐτὸς κατασκάψει τὰ θυσιαστήρια αὐτῶν, ταλαιπωρήσουσιν αἱ στῆλαι αὐτῶν."
+   },
+   {
+    "work_code": "MIC",
+    "work_ja": "ミカ書",
+    "work_src": "Michaeas",
+    "ref": "2.4",
+    "form": "ἐταλαιπωρήσαμεν",
+    "postag": "v1paia---",
+    "sentence": "ταλαιπωρίᾳ ἐταλαιπωρήσαμεν ·"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "33.1",
+    "form": "ταλαιπωροῦσιν",
+    "postag": "v-pppamd-",
+    "sentence": "οὐαὶ τοῖς ταλαιπωροῦσιν ὑμᾶς, ὑμᾶς δὲ οὐδεὶς ποιεῖ ταλαιπώρους, καὶ ὁ ἀθετῶν ὑμᾶς οὐκ ἀθετεῖ ·"
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "10.20",
+    "form": "ἐταλαιπώρησεν",
+    "postag": "v3saia---",
+    "sentence": "ἡ σκηνή μου ἐταλαιπώρησεν, ὤλετο, καὶ πᾶσαι αἱ δέρρεις μου διεσπάσθησαν ·"
+   },
+   {
+    "work_code": "ZEC",
+    "work_ja": "ゼカリヤ書",
+    "work_src": "Zacharias",
+    "ref": "11.2",
+    "form": "ἐταλαιπώρησαν",
+    "postag": "v3paia---",
+    "sentence": "ὀλολυξάτω πίτυς, διότι πέπτωκε κέδρος, ὅτι μεγάλως μεγιστᾶνες ἐταλαιπώρησαν ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "16.9",
+    "form": "ταλαιπωρησάντων",
+    "postag": "v-papamg-",
+    "sentence": "ἐν σκέπῃ τῶν πτερύγων σου σκεπάσεις με ἀπὸ προσώπου ἀσεβῶν τῶν ταλαιπωρησάντων με."
+   },
+   {
+    "work_code": "JOL",
+    "work_ja": "ヨエル書",
+    "work_src": "Joel",
+    "ref": "1.10",
+    "form": "τεταλαιπώρηκε",
+    "postag": "v3sria---",
+    "sentence": "πενθεῖτε, οἱ ἱερεῖς οἱ λειτουργοῦντες θυσιαστηρίῳ Κυρίου, ὅτι τεταλαιπώρηκε τὰ πεδία ·"
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "12.12",
+    "form": "ταλαιπωροῦντες",
+    "postag": "v-pppamn-",
+    "sentence": "ἐπὶ πᾶσαν διεκβολὴν ἐν τῇ ἐρήμῳ ἦλθον ταλαιπωροῦντες, ὅτι μάχαιρα τοῦ Κυρίου καταφάγεται ἀπ’ ἄκρου τῆς γῆς ἕως ἄκρου τῆς γῆς, οὐκ ἔστιν εἰρήνη πάσῃ σαρκί."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 4,
+  "works": {
+   "2 Clement": 1,
+   "Hermas, Pastor": 3
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "3.7.1",
+    "form": "ταλαιπωροῦσιν",
+    "postag": "v3ppia---",
+    "sentence": "δοκοῦντες οὖν βελτίονα ὁδὸν δύνασθαι εὑρεῖν, πλανῶνται καὶ ταλαιπωροῦσιν περιπατοῦντες ἐν ταῖς ἀνοδίαις."
+   },
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "19.4",
+    "form": "ταλαιπωρῇ",
+    "postag": "v3spsa---",
+    "sentence": "ἐὰν ἐπὶ τοῖς νῦν χρόνοις ταλαιπωρῇ ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "23.2.7",
+    "form": "ἐταλαιπώρουν",
+    "postag": "v3piia---",
+    "sentence": "ταῦτα οὖν ἐμπεπλεγμένα ἐβόσκοντο ἐν ταῖς ἀκάνθαις καὶ τριβόλοις καὶ λίαν ἐταλαιπώρουν δαιρόμενα ὑπ’ αὐτοῦ ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "23.3.1",
+    "form": "ταλαιπωρούμενα",
+    "postag": "v-pppmna-",
+    "sentence": "βλέπων οὖν αὐτὰ οὕτω μαστιγούμενα καὶ ταλαιπωρούμενα ἐλυπούμην ἐπ’ αὐτοῖς, ὅτι οὕτως ἐβασανίζοντο καὶ ἀνοχὴν ὅλως οὐκ εἶχον."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1 ταλαιπωρέω, -ῶ    (< ταλαίπωρος),    [in LXX Chiefly for שָׁדַד pu. ;]     to do hard labour, suffer hardship or distress: Ja 4:9.    In cl. occasionally trans., to weary, distress (so Ps 16 (17):9, Is 33:1).†"
+}

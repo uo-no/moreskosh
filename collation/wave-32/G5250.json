@@ -1,0 +1,53 @@
+{
+ "strong": "G5250",
+ "lemma": "ὑπερπλεονάζω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1TI 1:14",
+   "form": "ὑπερεπλεόνασεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "overflowed",
+   "gloss_ja": "넘치도록 豊かになる",
+   "verse": "ὑπερεπλεόνασεν δὲ ἡ χάρις τοῦ κυρίου ἡμῶν μετὰ πίστεως καὶ ἀγάπης τῆς ἐν Χριστῷ Ἰησοῦ."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Psalmi Salomonis": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "5.16",
+    "form": "ὑπερπλεονάσῃ",
+    "postag": "v3sasa---",
+    "sentence": "ἐὰν ὑπερπλεονάσῃ ὁ ἄνθρωπος, ἐξαμαρτάνει."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "10.2.5",
+    "form": "ὑπερπλεονάζει",
+    "postag": "v3spia---",
+    "sentence": "ὅταν γὰρ ταῦτα τὰ πνεύματα ἐν ἑνὶ ἀγγείῳ κατοικῇ, οὗ καὶ τὸ πνεῦμα τὸ ἅγιον κατοικεῖ, οὐ χωρεῖ τὸ ἄγγος ἐκεῖνο, ἀλλ’ ὑπερπλεονάζει."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1 *† ὑπερ-πλεονάζω    to abound exceedingly: I Ti 1:14 (Ps Sol 5:19; Herm., Mand., v, 2, 5).†"
+}

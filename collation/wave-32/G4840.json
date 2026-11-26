@@ -1,0 +1,63 @@
+{
+ "strong": "G4840",
+ "lemma": "συμπάρειμι",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 25:24",
+   "form": "συμπαρόντες",
+   "morph": "V-PAP-NPM",
+   "gloss_en": "present with",
+   "gloss_ja": "共にいる",
+   "verse": "καί φησιν ὁ Φῆστος· Ἀγρίππα βασιλεῦ καὶ πάντες οἱ συμπαρόντες ἡμῖν ἄνδρες, θεωρεῖτε τοῦτον περὶ οὗ ἅπαν τὸ πλῆθος τῶν Ἰουδαίων ἐνέτυχόν μοι ἔν τε Ἱεροσολύμοις καὶ ἐνθάδε, βοῶντες μὴ δεῖν αὐτὸν ζῆν μηκέτι."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Proverbia": 1,
+   "Sapientia Salomonis": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "8.27",
+    "form": "συμπαρήμην",
+    "postag": "v1siim---",
+    "sentence": "ἡνίκα ἡτοίμαζε τὸν οὐρανόν, συμπαρήμην αὐτῷ, καὶ ὅτε ἀφώριζε τὸν ἑαυτοῦ θρόνον ἐπ’ ἀνέμων ·"
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "9.10",
+    "form": "συμπαροῦσά",
+    "postag": "v-sppafn-",
+    "sentence": "ἐξαπόστειλον αὐτὴν ἐξ ἁγίων οὐρανῶν καὶ ἀπὸ θρόνου δόξης σου πέμψον αὐτήν, ἵνα συμπαροῦσά μοι κοπιάσῃ καὶ γνῶ τί εὐάρεστόν ἐστι παρά σοί."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Ignatius, Letters": 1
+  },
+  "representatives": [
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "3.12.1",
+    "form": "συμπαρούσαις",
+    "postag": "v-pppafd-",
+    "sentence": "ἀσπάζομαι ὑμᾶς ἀπὸ Σμύρνης ἅμα ταῖς συμπαρούσαις μοι ἐκκλησίαις τοῦ θεοῦ, οἲ κατὰ πάντα με ἀνέπαυσαν σαρκί τε καὶ πνεύματι."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1 συν-πάρειμι    (Rec. σνμπ-),    [in LXX: To 12:12 ΑΒ, Pr 8:27 (?), Wi 9:10 * ;]     to be present together or with: c. dat. pers., Ac 25:24.†"
+}

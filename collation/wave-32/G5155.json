@@ -1,0 +1,51 @@
+{
+ "strong": "G5155",
+ "lemma": "τρίχινος",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "REV 6:12",
+   "form": "τρίχινος",
+   "morph": "A-NSM",
+   "gloss_en": "made of hair",
+   "gloss_ja": "毛の",
+   "verse": "Καὶ εἶδον ὅτε ἤνοιξεν τὴν σφραγῖδα τὴν ἕκτην, καὶ σεισμὸς μέγας ἐγένετο, καὶ ὁ ἥλιος ἐγένετο μέλας ὡς σάκκος τρίχινος, καὶ ἡ σελήνη ὅλη ἐγένετο ὡς αἷμα,"
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Exodus": 1,
+   "Zacharias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "26.7",
+    "form": "τριχίνας",
+    "postag": "a-p---fa-",
+    "sentence": "καὶ ποιήσεις δέρρεις τριχίνας σκέπην ἐπὶ τῆς σκηνῆς, ἕνδεκα δέρρεις ποιήσεις αὐτάς."
+   },
+   {
+    "work_code": "ZEC",
+    "work_ja": "ゼカリヤ書",
+    "work_src": "Zacharias",
+    "ref": "13.4",
+    "form": "τριχίνην",
+    "postag": "a-s---fa-",
+    "sentence": "καὶ ἔσται ἐν τῇ ἡμέρᾳ ἐκείνῃ καταισχυνθήσονται οἱ προφῆται, ἕκαστος ἐκ τῆς ὁράσεως αὐτοῦ, ἐν τῷ προφητεύειν αὐτόν, καὶ ἐνδύσονται δέρριν τριχίνην ἀνθ’ ὧν ἐψεύσαντο."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1 τρίχινος, -η, -ον    (< θρίξ),    [in LXX: Za 13:4 (שֵׂעָר), Ex 26:7 * ;]     of hair: στόκος, Re 6:12 (Xen., Plat., al.).†"
+}

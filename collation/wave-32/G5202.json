@@ -1,0 +1,41 @@
+{
+ "strong": "G5202",
+ "lemma": "ὑδροποτέω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1TI 5:23",
+   "form": "ὑδροπότει",
+   "morph": "V-PAM-2S",
+   "gloss_en": "drink ~ water",
+   "gloss_ja": "水を飲む",
+   "verse": "μηκέτι ὑδροπότει, ἀλλὰ οἴνῳ ὀλίγῳ χρῶ διὰ τὸν στόμαχον καὶ τὰς πυκνάς σου ἀσθενείας."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "1.12",
+    "form": "ὑδροποτεῖν",
+    "postag": "v--pna---",
+    "sentence": "καὶ εἶπεν Δανιηλ Αβιεσδρι τῷ ἀναδειχθέντι ἀρχιευνούχῳ ἐπὶ τὸν Δανιηλ, Ανανιαν, Μισαηλ, Αζαριαν Πείρασον δὴ τοὺς παῖδάς σου ἐφ’ ἡμέρας δέκα, καὶ δοθήτω ἡμῖν ἀπὸ τῶν ὀσπρίων τῆς γῆς, ὥστε κάπτειν καὶ ὑδροποτεῖν ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1 ὑδροποτίω, -ῶ    (< ὕδωρ, πίνω),    [in LXX: Da LXX 1:12 שָׁתָה מַיִם) * ;]     to drink water, opp. to οἴνῳ χρῆσθαι: I Ti 5:23 (Hdt., i, 71; Plat., Rep., 561 c, al.).†"
+}

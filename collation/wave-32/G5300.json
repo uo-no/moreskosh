@@ -1,0 +1,128 @@
+{
+ "strong": "G5300",
+ "lemma": "ὗς",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2PE 2:22",
+   "form": "Ὗς",
+   "morph": "N-NSF",
+   "gloss_en": "sow",
+   "gloss_ja": "豚",
+   "verse": "συμβέβηκεν αὐτοῖς τὸ τῆς ἀληθοῦς παροιμίας· Κύων ἐπιστρέψας ἐπὶ τὸ ἴδιον ἐξέραμα, καί· Ὗς λουσαμένη εἰς κυλισμὸν βορβόρου."
+  }
+ ],
+ "lxx": {
+  "total": 10,
+  "works": {
+   "Leviticus": 1,
+   "Deuteronomium": 1,
+   "Regnorum ii": 1,
+   "Regnorum iii": 2,
+   "Psalmi": 1,
+   "Proverbia": 3,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "11.22",
+    "form": "ὑός",
+    "postag": "n-s---mg-",
+    "sentence": "ὥσπερ ἐνώτιον ἐν ρινὶ ὑός, οὕτως γυναικὶ κακόφρονι κάλλος."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "20.19",
+    "form": "ὕες",
+    "postag": "n-p---fn-",
+    "sentence": "ἐν παντὶ τόπῳ, ᾧ ἔλειξαν αἱ ὕες καὶ οἱ κύνες τὸ αἷμα Ναβουθαί, ἐκεῖ λείξουσιν οἱ κύνες τὸ αἷμα σου, καὶ αἱ πόρναι λούσονται ἐν τῷ αἵματί σου."
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "11.7",
+    "form": "ὗν",
+    "postag": "n-s---ma-",
+    "sentence": "καὶ τὸν ὗν, ὅτι διχηλεῖ ὁπλὴν τοῦτο, καὶ ὀνυχίζει ὄνυχας ὁπλῆς, καὶ τοῦτο οὐκ ἀνάγει μηρυκισμόν, ἀκάθαρτον τοῦτο ὑμῖν ·"
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "14.8",
+    "form": "ὗν",
+    "postag": "n-s---ma-",
+    "sentence": "καὶ τὸν ὗν, ὅτι διχηλεῖ ὁπλὴν τοῦτο καὶ ὀνυχίζει ὀνυχιστῆρας ὁπλῆς, καὶ τοῦτο μηρυκισμὸν οὐ μηρυκᾶται, ἀκάθαρτον τοῦτο ὑμῖν ·"
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "17.8",
+    "form": "ὗς",
+    "postag": "n-s---fn-",
+    "sentence": "σὺ οἶδας τὸν πατέρα σου καὶ τοὺς ἄνδρας αὐτοῦ, ὅτι δυνατοί εἰσι σφόδρα καὶ κατάπικροι τῇ ψυχῇ αὐτῶν, ὡς ἄρκος ἠτεκνωμένη ἐν ἀγρῷ καὶ ὡς ὗς τραχεῖα ἐν τῷ πεδίῳ, καὶ ὁ πατήρ σου ἀνὴρ πολεμιστὴς καὶ οὐ μὴ καταλύσῃ τὸν λαόν ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "79.14",
+    "form": "ὗς",
+    "postag": "n-s---mn-",
+    "sentence": "ἐλυμήνατο αὐτὴν ὗς ἐκ δρυμοῦ, καὶ μονιὸς ἄγριος κατενεμήσατο αὐτήν."
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "9.18",
+    "form": "οὗς",
+    "postag": "n-s---mn-",
+    "sentence": "κλῖνον ὁ Θεός μου τὸ οὗς σου καὶ ἄκουσον ·"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "5.1",
+    "form": "οὗς",
+    "postag": "n-p---mn-",
+    "sentence": "υἱὲ, ἐμῇ σοφίᾳ πρόσεχε, ἐμοῖς δὲ λόγοις παράβαλλε σὸν οὗς, ἵνα φυλάξῃς ἔννοιαν ἀγαθήν ·"
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "22.38",
+    "form": "ὕες",
+    "postag": "n-p---fn-",
+    "sentence": "καὶ ἀπένιψαν τὸ αἷμα ἐπὶ τὴν κρήνην Σαμαρείας, καὶ ἐξέλειξαν αἱ ὕες καὶ οἱ κύνες τὸ αἷμα, καὶ αἱ πόρναι ἐλούσαντο ἐν τῷ αἵματι κατὰ τὸ ρῆμα Κυρίου, ὃ ἐλάλησε."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "22.17",
+    "form": "οὗς",
+    "postag": "n-p---mn-",
+    "sentence": "λόγοις σοφῶν παράβαλλε σὸν οὗς καὶ ἄκουε ἐμὸν λόγον, τὴν δὲ σὴν καρδίαν ἐπίστησον, ἵνα γνῷς, ὅτι καλοί εἰσι ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1 ὗς, ὑός, ὁ, ἡ    [in LXX for חֲזִיר ;]     swine: fem. (sow), II Pe 2:22,†"
+}

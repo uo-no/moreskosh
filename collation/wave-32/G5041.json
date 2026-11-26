@@ -1,0 +1,41 @@
+{
+ "strong": "G5041",
+ "lemma": "τεκνογονέω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1TI 5:14",
+   "form": "τεκνογονεῖν",
+   "morph": "V-PAN",
+   "gloss_en": "bear children",
+   "gloss_ja": "子を産む",
+   "verse": "βούλομαι οὖν νεωτέρας γαμεῖν, τεκνογονεῖν, οἰκοδεσποτεῖν, μηδεμίαν ἀφορμὴν διδόναι τῷ ἀντικειμένῳ λοιδορίας χάριν·"
+  }
+ ],
+ "lxx": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "To Diognetus": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "5",
+    "form": "τεκνογονοῦσιν",
+    "postag": "v3ppia---",
+    "sentence": "γαμοῦσιν ὡς πάντες, τεκνογονοῦσιν ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1 *† τεκνογονέω, -ῶ    to beget or bear children: I Ti 5:14 (Anthol.).†"
+}

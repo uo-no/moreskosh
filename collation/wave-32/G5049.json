@@ -1,0 +1,235 @@
+{
+ "strong": "G5049",
+ "lemma": "τελείως",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": "τελειος",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1PE 1:13",
+   "form": "τελείως",
+   "morph": "ADV",
+   "gloss_en": "fully",
+   "gloss_ja": "完全に",
+   "verse": "Διὸ ἀναζωσάμενοι τὰς ὀσφύας τῆς διανοίας ὑμῶν, νήφοντες τελείως, ἐλπίσατε ἐπὶ τὴν φερομένην ὑμῖν χάριν ἐν ἀποκαλύψει Ἰησοῦ Χριστοῦ."
+  }
+ ],
+ "lxx": {
+  "total": 25,
+  "works": {
+   "Genesis": 1,
+   "Exodus": 1,
+   "Deuteronomium": 1,
+   "Judices": 2,
+   "Regnorum ii": 1,
+   "Regnorum iii": 5,
+   "Paralipomenon i sive Chronicon i": 2,
+   "Esdras ii": 1,
+   "Judith": 1,
+   "Machabaeorum ii": 1,
+   "Machabaeorum iii": 3,
+   "Psalmi": 1,
+   "Canticum": 2,
+   "Sapientia Salomonis": 1,
+   "Ecclesiasticus sive Siracides": 1,
+   "Jeremias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "15.14",
+    "form": "τελεία",
+    "postag": "a-s---fn-",
+    "sentence": "πλὴν ἡ καρδία Ἀσὰ ἦν τελεία μετὰ Κυρίου πάσας τὰς ἡμέρας αὐτοῦ."
+   },
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "1.22",
+    "form": "τέλεον",
+    "postag": "a-s---na-",
+    "sentence": "σύν τε τούτοις οἱ τῶν πολιτῶν θρασυνθέντες οὐκ ἠνείχοντο τέλεον αὐτοῦ ἐπικειμένου καὶ τὸ τῆς προθέσεως αὐτοῦ ἐκπληροῦν διανοουμένου."
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "21.4",
+    "form": "τελείας",
+    "postag": "a-p---fa-",
+    "sentence": "καὶ ἐγένετο τῇ ἐπαύριον καὶ ὤρθρισεν ὁ λαὸς καὶ ᾠκοδόμησαν ἐκεῖ θυσιαστήριον, καὶ ἀνήνεγκαν ὁλοκαυτώσεις καὶ τελείας."
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "25.8",
+    "form": "τελείων",
+    "postag": "a-p---mg-",
+    "sentence": "καὶ ἔλαβον καὶ αὐτοὶ κλήρους ἐφημεριῶν κατὰ τὸν μικρὸν καὶ κατὰ τὸν μέγαν, τελείων καὶ μανθανόντων."
+   },
+   {
+    "work_code": "SNG",
+    "work_ja": "雅歌",
+    "work_src": "Canticum",
+    "ref": "6.9",
+    "form": "τελεία",
+    "postag": "a-s---fn-",
+    "sentence": "μία ἐστὶ περιστερά μου, τελεία μου, μία ἐστὶ τῇ μητρὶ αὐτῆς, ἐκλεκτή ἐστι τῇ τεκούσῃ αὐτήν."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "6.9",
+    "form": "τέλειος",
+    "postag": "a-s---mn-",
+    "sentence": "Νῶε ἄνθρωπος δίκαιος, τέλειος ὢν ἐν τῇ γενεᾷ αὐτοῦ ·"
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "12.5",
+    "form": "τέλειον",
+    "postag": "a-s---nn-",
+    "sentence": "πρόβατον τέλειον, ἄρσεν, ἐνιαύσιον ἔσται ὑμῖν ·"
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "18.13",
+    "form": "τέλειος",
+    "postag": "a-s---mn-",
+    "sentence": "τέλειος ἔσῃ ἐναντίον Κυρίου τοῦ Θεοῦ σου ·"
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "22.26",
+    "form": "τελείου",
+    "postag": "a-s---mg-",
+    "sentence": "μετὰ ὁσίου ὁσιωθήσῃ καὶ μετὰ ἀνδρὸς τελείου τελειωθήσῃ καὶ μετὰ ἐκλεκτοῦ ἐκλεκτὸς ἔσῃ καὶ μετὰ στρεβλοῦ στρεβλωθήσῃ."
+   },
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "2.63",
+    "form": "τελείοις",
+    "postag": "a-p---md-",
+    "sentence": "καὶ εἶπεν Ἀθερσασθὰ αὐτοῖς τοῦ μὴ φαγεῖν ἀπὸ τοῦ ἁγίου τῶν ἁγίων ἕως ἀναστῇ ἱερεὺς τοῖς φωτίζουσι καὶ τοῖς τελείοις."
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "11.6",
+    "form": "τελείως",
+    "postag": "d--------",
+    "sentence": "καὶ ἐὰν κατακολουθήσῃς τοῖς λόγοις τῆς παιδίσκης σου, τελείως πρᾶγμα ποιήσει μετὰ σοῦ ὁ Θεός, καὶ οὐκ ἀποπεσεῖται ὁ κύριός μου τῶν ἐπιτηδευμάτων αὐτοῦ ·"
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "12.42",
+    "form": "τελείως",
+    "postag": "d--------",
+    "sentence": "πάντες οὖν εὐλογήσαντες τὰ τοῦ δικαιοκρίτου Κυρίου τοῦ τὰ κεκρυμμένα φανερὰ ποιοῦντος, εἰς ἱκετείαν ἐτράπησαν ἀξιώσαντες τὸ γεγονὸς ἁμάρτημα τελείως ἐξαλειφθῆναι."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 33,
+  "works": {
+   "Barnabas": 9,
+   "1 Clement": 6,
+   "Didache": 2,
+   "To Diognetus": 2,
+   "Hermas, Pastor": 2,
+   "Ignatius, Letters": 12
+  },
+  "representatives": [
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "6.11.3",
+    "form": "τέλειοι",
+    "postag": "a-p---mn-",
+    "sentence": "τέλειοι ὄντες τέλεια καὶ φρονεῖτε."
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "10.10",
+    "form": "τελείως",
+    "postag": "d--------",
+    "sentence": "ἔχετε τελείως καὶ περὶ τῆς βρώσεως."
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "1.2",
+    "form": "τελείαν",
+    "postag": "a-s---fa-",
+    "sentence": "καὶ τὴν τελείαν καὶ ἀσφαλῆ γνῶσιν οὐκ ἐμακάρισεν;"
+   },
+   {
+    "work_code": "DID",
+    "work_ja": "ディダケー",
+    "work_src": "Didache",
+    "ref": "6.2",
+    "form": "τέλειος",
+    "postag": "a-s---mn-",
+    "sentence": "εἰ μὲν γὰρ δύνασαι βαστάσαι ὅλον τὸν ζυγὸν τοῦ κυρίου, τέλειος ἔσῃ ·"
+   },
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "2",
+    "form": "τέλεον",
+    "postag": "a-s---na-",
+    "sentence": "ταῦτα θεοὺς καλεῖτε, τούτοις δουλεύετε, τούτοις προσκυνεῖτε, τέλεον δ’ αὐτοῖς ἐξομοιοῦσθε."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "22.3.6",
+    "form": "τελεία",
+    "postag": "a-s---fn-",
+    "sentence": "ἐὰν ταῦτα φυλάξῃς, ἔσται σοι αὕτη ἡ νηστεία τελεία."
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "6.11.3",
+    "form": "τέλεια",
+    "postag": "a-p---na-",
+    "sentence": "τέλειοι ὄντες τέλεια καὶ φρονεῖτε."
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "4.3",
+    "form": "τέλειον",
+    "postag": "a-s---na-",
+    "sentence": "τὸ τέλειον σκάνδαλον ἤγγικεν, περὶ οὖ γέγραπται, ὡς Ἐνὼχ λέγει."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1 ** τελείως    (< τέλειος),       adv.,     [in LXX: Jth 11:6, II Mac 12:42, III Mac 3:26 Mac 7:22, R* ;]     completely, perfectly: I Pe 1:13.†"
+}

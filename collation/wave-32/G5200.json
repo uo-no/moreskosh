@@ -1,0 +1,70 @@
+{
+ "strong": "G5200",
+ "lemma": "ὑγρός",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "LUK 23:31",
+   "form": "ὑγρῷ",
+   "morph": "A-DSN",
+   "gloss_en": "green",
+   "gloss_ja": "湿った",
+   "verse": "ὅτι εἰ ἐν τῷ ὑγρῷ ξύλῳ ταῦτα ποιοῦσιν, ἐν τῷ ξηρῷ τί γένηται;"
+  }
+ ],
+ "lxx": {
+  "total": 4,
+  "works": {
+   "Judices": 2,
+   "Job": 1,
+   "Ecclesiasticus sive Siracides": 1
+  },
+  "representatives": [
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "16.7",
+    "form": "ὑγραῖς",
+    "postag": "a-p---fd-",
+    "sentence": "ἐὰν δήσωσί με ἐν ἑπτὰ νευραῖς ὑγραῖς μὴ διεφθαρμέναις, καὶ ἀσθενήσω καὶ ἔσομαι ὡς εἷς τῶν ἀνθρώπων."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "8.16",
+    "form": "ὑγρὸς",
+    "postag": "a-s---mn-",
+    "sentence": "ὑγρὸς γάρ ἐστιν ὑπὸ ἡλίου, καὶ ἐκ σαπρίας αὐτοῦ ὁ ράδαμνος αὐτοῦ ἐξελεύσεται."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "39.13",
+    "form": "ὑγροῦ",
+    "postag": "a-s---ng-",
+    "sentence": "εἰσακούσατέ μου, υἱοὶ ὅσιοι, καὶ βλαστήσατε ὡς ρόδον φυόμενον ἐπὶ ρεύματος ὑγροῦ καὶ ὡς λίβανος εὐωδιάσατε ὀσμὴν καὶ ἀνθήσατε ἄνθος ὡς κρίνον, διάδοτε ὀσμὴν καὶ αἰνέσατε ᾆσμα."
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "16.8",
+    "form": "ὑγρὰς",
+    "postag": "a-p---fa-",
+    "sentence": "καὶ ἀνήνεγκαν αὐτῇ οἱ ἄρχοντες τῶν ἀλλοφύλων ἑπτὰ νευρὰς ὑγρὰς μὴ διεφθαρμένας, καὶ ἔδησεν αὐτὸν ἐν αὐταῖς ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ὑγρός, -ά, -όν,     [in LXX: Jg 16:7, 8 (לַח), Jb 8:16 (‮רָטֹב), Si 39:13אA *;]    wet, moist, opp. to ξηρός: of wood, sappy, green: Lk 23:31.†"
+}

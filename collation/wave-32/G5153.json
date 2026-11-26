@@ -1,0 +1,153 @@
+{
+ "strong": "G5153",
+ "lemma": "τρισχίλιοι",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 2:41",
+   "form": "τρισχίλιαι",
+   "morph": "A-NPF",
+   "gloss_en": "three thousand",
+   "gloss_ja": "三千",
+   "verse": "οἱ μὲν οὖν ἀποδεξάμενοι τὸν λόγον αὐτοῦ ἐβαπτίσθησαν, καὶ προσετέθησαν ἐν τῇ ἡμέρᾳ ἐκείνῃ ψυχαὶ ὡσεὶ τρισχίλιαι."
+  }
+ ],
+ "lxx": {
+  "total": 36,
+  "works": {
+   "Exodus": 2,
+   "Numeri": 3,
+   "Josue": 2,
+   "Judices": 2,
+   "Regnorum i": 1,
+   "Regnorum iii": 1,
+   "Paralipomenon i sive Chronicon i": 1,
+   "Paralipomenon ii sive Chronicon ii": 5,
+   "Esdras i": 3,
+   "Esdras ii": 2,
+   "Machabaeorum i": 10,
+   "Machabaeorum ii": 2,
+   "Machabaeorum iv": 1,
+   "Job": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "7.40",
+    "form": "τρισχιλίοις",
+    "postag": "m-p---md-",
+    "sentence": "καὶ Ἰούδας παρενέβαλεν ἐν Ἀδασὰ ἐν τρισχιλίοις ἀνδράσι ·"
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "29.33",
+    "form": "τρισχίλια",
+    "postag": "m-p---nn-",
+    "sentence": "καὶ οἱ ἡγιασμένοι μόσχοι ἑξακόσιοι, πρόβατα τρισχίλια."
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "4.44",
+    "form": "τρισχίλιοι",
+    "postag": "m-p---mn-",
+    "sentence": "καὶ ἐγενήθη ἡ ἐπίσκεψις αὐτῶν κατὰ δήμους αὐτῶν, κατ’ οἴκους πατριῶν αὐτῶν, τρισχίλιοι καὶ διακόσιοι ·"
+   },
+   {
+    "work_code": "1ES",
+    "work_ja": "エズラ記（ギリシャ語）",
+    "work_src": "Esdras i",
+    "ref": "1.7",
+    "form": "τρισχιλίους",
+    "postag": "m-p---ma-",
+    "sentence": "καὶ ἐδωρήσατο Ἰωσίας τῷ λαῷ τῷ εὑρεθέντι ἀρνῶν καὶ ἐρίφων τριάκοντα χιλιάδας, μόσχους τρισχιλίους ·"
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "32.28",
+    "form": "τρισχιλίους",
+    "postag": "m-p---ma-",
+    "sentence": "καὶ ἐποίησαν οἱ υἱοὶ Λευὶ καθὰ ἐλάλησεν αὐτοῖς Μωυσῆς, καὶ ἔπεσαν ἐκ τοῦ λαοῦ ἐν ἐκείνῃ τῇ ἡμέρᾳ εἰς τρισχιλίους ἄνδρας."
+   },
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "7.4",
+    "form": "τρισχίλιοι",
+    "postag": "m-p---mn-",
+    "sentence": "καὶ ἀνέβησαν ὡσεὶ τρισχίλιοι ἄνδρες καὶ ἔφυγον ἀπὸ προσώπου ἀνδρῶν Γαί."
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "15.11",
+    "form": "τρισχίλιοι",
+    "postag": "m-p---mn-",
+    "sentence": "καὶ κατέβησαν τρισχίλιοι ἀπὸ Ἰούδα ἄνδρες εἰς τρυμαλιὰν πέτρας Ἠτὰμ καὶ εἶπαν πρὸς Σαμψών ·"
+   },
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "2.35",
+    "form": "τρισχίλιοι",
+    "postag": "m-p---mn-",
+    "sentence": "υἱοὶ Σεναὰ τρισχίλιοι ἑξακόσιοι τριάκοντα ·"
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "12.33",
+    "form": "τρισχιλίων",
+    "postag": "m-p---mg-",
+    "sentence": "ἐξῆλθε δὲ μετὰ πεζῶν τρισχιλίων, ἱππέων δὲ τετρακοσίων, καὶ παραταξαμένων συνέβη πεσεῖν ὀλίγους τῶν Ἰουδαίων."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "25.2",
+    "form": "τρισχίλια",
+    "postag": "m-p---nn-",
+    "sentence": "καὶ ὁ ἄνθρωπος μέγας σφόδρα, καὶ τούτῳ ποίμνια τρισχίλια καὶ αἶγες χίλιαι ·"
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "5.12",
+    "form": "τρισχιλίας",
+    "postag": "m-p---fa-",
+    "sentence": "καὶ ἐλάλησε Σαλωμὼν τρισχιλίας παραβολάς, καὶ ἦσαν ᾠδαὶ αὐτοῦ πεντακισχίλιαι."
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "29.4",
+    "form": "τρισχίλια",
+    "postag": "m-p---na-",
+    "sentence": "καὶ ἔτι ἐν τῷ εὐδοκῆσαί με ἐν οἴκῳ Θεοῦ μου ἔστι μοι ὃ περιπεποίημαι χρυσίον καὶ ἀργύριον, καὶ ἰδοὺ δέδωκα εἰς οἶκον Θεοῦ μου εἰς ὕψος, ἐκτὸς ὧν ἡτοίμακα εἰς τὸν οἶκον τῶν ἁγίων, τρισχίλια τάλαντα χρυσίου τοῦ ἐκ Σουφὶρ καὶ ἑπτακισχίλια τάλαντα ἀργυρίου δοκίμου ἐξαλειφῆναι ἐν αὐτοῖς τοὺς τοίχους τοῦ ἱεροῦ, εἰς τὸ χρυσίον τῷ χρυσίῳ καὶ εἰς τὸ ἀργύριον τῷ ἀργυρίῳ, καὶ εἰς πᾶν ἔργον διὰ χειρὸς τῶν τεχνιτῶν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1 τρισ-χίλιοι, -αι, -α    three thousand: Ac 2:41.†"
+}

@@ -1,0 +1,162 @@
+{
+ "strong": "G5109",
+ "lemma": "τοῖχος",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 23:3",
+   "form": "τοῖχε",
+   "morph": "N-VSM",
+   "gloss_en": "wall",
+   "gloss_ja": "壁",
+   "verse": "τότε ὁ Παῦλος πρὸς αὐτὸν εἶπεν· Τύπτειν σε μέλλει ὁ θεός, τοῖχε κεκονιαμένε· καὶ σὺ κάθῃ κρίνων με κατὰ τὸν νόμον, καὶ παρανομῶν κελεύεις με τύπτεσθαι;"
+  }
+ ],
+ "lxx": {
+  "total": 81,
+  "works": {
+   "Exodus": 1,
+   "Leviticus": 4,
+   "Numeri": 2,
+   "Judices": 3,
+   "Regnorum i": 5,
+   "Regnorum iii": 12,
+   "Regnorum iv": 4,
+   "Paralipomenon i sive Chronicon i": 1,
+   "Paralipomenon ii sive Chronicon ii": 3,
+   "Esdras i": 1,
+   "Esdras ii": 1,
+   "Tobias": 4,
+   "Psalmi": 1,
+   "Odae": 1,
+   "Canticum": 1,
+   "Job": 1,
+   "Sapientia Salomonis": 1,
+   "Ecclesiasticus sive Siracides": 3,
+   "Amos": 1,
+   "Habacuc": 1,
+   "Isaias": 5,
+   "Ezechiel": 22,
+   "Daniel": 3
+  },
+  "representatives": [
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "41.9",
+    "form": "τοίχου",
+    "postag": "n-s---mg-",
+    "sentence": "καὶ εὖρος τοῦ τοίχου τῆς πλευρᾶς ἔξωθεν πηχῶν πέντε ·"
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "6.6",
+    "form": "τοίχων",
+    "postag": "n-p---mg-",
+    "sentence": "ὅτι διάστημα ἔδωκε τῷ οἴκῳ κυκλόθεν ἔξωθεν τοῦ οἴκου, ὅπως μὴ ἐπιλαμβάνωνται τῶν τοίχων τοῦ οἴκου."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "18.11",
+    "form": "τοίχῳ",
+    "postag": "n-s---md-",
+    "sentence": "πατάξω ἐν Δαυὶδ καὶ ἐν τῷ τοίχῳ ·"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "59.10",
+    "form": "τοῖχον",
+    "postag": "n-s---ma-",
+    "sentence": "ψηλαφήσουσιν ὡς τυφλοὶ τοῖχον καὶ ὡς οὐχ ὑπαρχόντων ὀφθαλμῶν ψηλαφήσουσι ·"
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "14.39",
+    "form": "τοίχοις",
+    "postag": "n-p---md-",
+    "sentence": "καὶ ἐπανήξει ὁ ἱερεὺς τῇ ἑβδόμῃ καὶ ὄψεται τὴν οἰκίαν, καὶ ἰδοὺ διεχύθη ἡ ἁφὴ ἐν τοῖς τοίχοις τῆς οἰκίας, καὶ προστάξει ὁ ἱερεύς, καὶ ἐξελοῦσι τοὺς λίθους, ἐν οἷς ἐστιν ἡ ἁφή, καὶ ἐκβαλοῦσιν αὐτοὺς ἔξω τῆς πόλεως εἰς τόπον ἀκάθαρτον."
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "20.2",
+    "form": "τοῖχον",
+    "postag": "n-s---ma-",
+    "sentence": "καὶ ἀπέστρεψεν Ἐζεκίας πρὸς τὸν τοῖχον καὶ ηὔξατο πρὸς Κύριον λέγων ·"
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "2.9",
+    "form": "τοῖχον",
+    "postag": "n-s---ma-",
+    "sentence": "καὶ ἐν αὐτῇ τῇ νυκτὶ ἀνέλυσα θάψας καὶ ἐκοιμήθην μεμιαμμένος παρὰ τὸν τοῖχον τῆς αὐλῆς, καὶ τὸ πρόσωπόν μου ἀκάλυπτον ἦν."
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "16.14",
+    "form": "τοίχου",
+    "postag": "n-s---mg-",
+    "sentence": "καὶ ἐξυπνίσθη ἀπὸ τοῦ ὕπνου αὐτοῦ καὶ ἐξῇρε τὸν πάσσαλον τοῦ ὑφάσματος ἐκ τοῦ τοίχου."
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "3.7",
+    "form": "τοίχους",
+    "postag": "n-p---ma-",
+    "sentence": "καὶ ἐκόσμησε τὸν οἶκον λίθοις τιμίοις εἰς δόξαν καὶ ἐχρύσωσε χρυσίῳ χρυσίου τοῦ ἐκ Φαρουΐμ καὶ ἐχρύσωσε τὸν οἶκον καὶ τοὺς τοίχους αὐτοῦ καὶ τοὺς πυλῶνας καὶ τὰ ὀροφώματα καὶ τὰ θυρώματα χρυσίῳ καὶ ἔγλυψε Χερουβὶμ ἐπὶ τῶν τοίχων."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "23.18",
+    "form": "τοῖχοί",
+    "postag": "n-p---mn-",
+    "sentence": "σκότος κύκλῳ μου, καὶ οἱ τοῖχοί με καλύπτουσι, καὶ οὐθείς με ὁρᾷ ·"
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "5.1t",
+    "form": "τοίχου",
+    "postag": "n-s---mg-",
+    "sentence": "ἐν αὐτῇ τῇ νυκτὶ ἐξῆλθον δάκτυλοι ὡσεὶ ἀνθρώπου καὶ ἐπέγραψαν ἐπὶ τοῦ τοίχου οἴκου αὐτοῦ ἐπὶ τοῦ κονιάματος κατέναντι τοῦ λύχνους Μανη φαρες θεκελ."
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "22.25",
+    "form": "τοῖχον",
+    "postag": "n-s---ma-",
+    "sentence": "καὶ ἰδοῦσα ἡ ὄνος τὸν ἄγγελον τοῦ Θεοῦ προσέθλιψεν ἑαυτὴν πρὸς τὸν τοῖχον καὶ ἀπέθλιψε τὸν πόδα Βαλαὰμ πρὸς τὸν τοῖχον ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1 τοῖχος, -ου, ὁ     [in LXX chiefly for קִיר ;]     a wall, esp. of a house: fig., Ac 23:3 (cf. τεῖχος).†"
+}

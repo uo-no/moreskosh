@@ -1,0 +1,177 @@
+{
+ "strong": "G5275",
+ "lemma": "ὑπολείπω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ROM 11:3",
+   "form": "ὑπελείφθην",
+   "morph": "V-API-1S",
+   "gloss_en": "left",
+   "gloss_ja": "残す",
+   "verse": "Κύριε, τοὺς προφήτας σου ἀπέκτειναν, τὰ θυσιαστήριά σου κατέσκαψαν, κἀγὼ ὑπελείφθην μόνος, καὶ ζητοῦσιν τὴν ψυχήν μου."
+  }
+ ],
+ "lxx": {
+  "total": 89,
+  "works": {
+   "Genesis": 7,
+   "Exodus": 10,
+   "Leviticus": 1,
+   "Josue": 5,
+   "Judices": 2,
+   "Regnorum i": 7,
+   "Regnorum ii": 4,
+   "Regnorum iii": 8,
+   "Regnorum iv": 7,
+   "Paralipomenon i sive Chronicon i": 2,
+   "Judith": 3,
+   "Machabaeorum i": 2,
+   "Machabaeorum iv": 1,
+   "Psalmi": 1,
+   "Proverbia": 3,
+   "Amos": 4,
+   "Joel": 1,
+   "Abdias": 1,
+   "Habacuc": 1,
+   "Sophonias": 2,
+   "Zacharias": 4,
+   "Malachias": 1,
+   "Isaias": 1,
+   "Jeremias": 4,
+   "Ezechiel": 3,
+   "Daniel": 4
+  },
+  "representatives": [
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "10.26",
+    "form": "ὑπολειψόμεθα",
+    "postag": "v1pfim---",
+    "sentence": "καὶ τὰ κτήνη ἡμῶν πορεύσεται μεθ’ ἡμῶν, καὶ οὐχ ὑπολειψόμεθα ὁπλήν ·"
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "22.47",
+    "form": "ὑπελείφθη",
+    "postag": "v3saip---",
+    "sentence": "καὶ περισσὸν τοῦ ἐνδιηλλαγμένου, ὃ ὑπελείφθη ἐν ἡμέραις Ἀσὰ τοῦ πατρὸς αὐτοῦ, ἐπέλεξεν ἀπὸ τῆς γῆς."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "27.36",
+    "form": "ὑπελίπω",
+    "postag": "v2saim---",
+    "sentence": "οὐχ ὑπελίπω μοι εὐλογίαν, πάτερ;"
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "25.34",
+    "form": "ὑπολειφθήσεται",
+    "postag": "v3sfip---",
+    "sentence": "εἰ ὑπολειφθήσεται τῷ Νάβαλ ἕως φωτὸς τοῦ πρωΐ οὐρῶν πρὸς τοῖχον."
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "25.12",
+    "form": "ὑπέλιπεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἀπὸ τῶν πτωχῶν τῆς γῆς ὑπέλιπεν ὁ ἀρχιμάγειρος εἰς ἀμπελουργοὺς καὶ εἰς γαβίν."
+   },
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "13.1",
+    "form": "ὑπολέλειπται",
+    "postag": "v3srim---",
+    "sentence": "σὺ προβέβηκας τῶν ἡμερῶν, καὶ ἡ γῆ ὑπολέλειπται πολλὴ εἰς κληρονομίαν."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "9.1",
+    "form": "ὑπολελειμμένος",
+    "postag": "v-srpmmn-",
+    "sentence": "εἰ ἔστιν ἔτι ὑπολελειμμένος ἐν τῷ οἴκῳ Σαοὺλ καὶ ποιήσω μετ’ αὐτοῦ ἔλεος ἕνεκεν Ἰωνάθαν;"
+   },
+   {
+    "work_code": "AMO",
+    "work_ja": "アモス書",
+    "work_src": "Amos",
+    "ref": "5.3",
+    "form": "ὑπολειφθήσονται",
+    "postag": "v3pfip---",
+    "sentence": "ἡ πόλις ἐξ ἧς ἐξεπορεύοντο χίλιοι, ὑπολειφθήσονται ἑκατόν, καὶ ἐξ ἧς ἐξεπορεύοντο ἑκατόν, ὑπολειφθήσονται δέκα τῷ οἴκῳ Ἰσραήλ."
+   },
+   {
+    "work_code": "ZEC",
+    "work_ja": "ゼカリヤ書",
+    "work_src": "Zacharias",
+    "ref": "12.14",
+    "form": "ὑπολελειμμέναι",
+    "postag": "v-prpmfn-",
+    "sentence": "πᾶσαι αἱ ὑπολελειμμέναι φυλαί, φυλὴ καθ’ ἑαυτὴν καὶ αἱ γυναῖκες αὐτῶν καθ’ ἑαυτάς."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "5.10",
+    "form": "ὑπολίπεσθε",
+    "postag": "v2pamm---",
+    "sentence": "ὑπολίπεσθε τὰ ὑποστηρίγματα αὐτῆς, ὅτι τοῦ Κυρίου εἰσίν."
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "10.8",
+    "form": "ὑπελείφθην",
+    "postag": "v1saip---",
+    "sentence": "καὶ ἐγὼ ὑπελείφθην μόνος, καὶ εἶδον τὴν ὀπτασίαν τὴν μεγάλην ταύτην, καὶ οὐχ ὑπελείφθη ἐν ἐμοὶ ἰσχύς, καὶ ἡ δόξα μου μετεστράφη εἰς διαφθοράν, καὶ οὐκ ἐκράτησα ἰσχύος."
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "10.19",
+    "form": "ὑπολείπεσθαι",
+    "postag": "v--pnm---",
+    "sentence": "ὅτι οὐ καλόν ἐστιν ὑπολείπεσθαι ἐξ αὐτῶν ἄνδρα ἕνα, οἳ ἀφεθέντες δυνήσονται κατασοφίσασθαι πᾶσαν τὴν γῆν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "1 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "14.4",
+    "form": "ὑπολειφθήσονται",
+    "postag": "v3pfip---",
+    "sentence": "χρηστοὶ ἔσονται οἰκήτορες γῆς, ἄκακοι δὲ ὑπολειφθήσονται ἐπ αὐτῆς ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1 (KJV) ὑπο-λείπω     [in LXX chiefly (pass.) for יָתַר ni., שָׁאַר ni. ;]     to leave remaining (Hom., Thuc., al.): pass., of survivors, Ro 11:3.†"
+}

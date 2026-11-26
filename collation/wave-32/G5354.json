@@ -1,0 +1,62 @@
+{
+ "strong": "G5354",
+ "lemma": "φθονέω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "GAL 5:26",
+   "form": "φθονοῦντες",
+   "morph": "V-PAP-NPM",
+   "gloss_en": "envying",
+   "gloss_ja": "ねたむ",
+   "verse": "μὴ γινώμεθα κενόδοξοι, ἀλλήλους προκαλούμενοι, ἀλλήλοις φθονοῦντες."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Tobias": 2
+  },
+  "representatives": [
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "4.7",
+    "form": "φθονεσάτω",
+    "postag": "v3sama---",
+    "sentence": "ἐκ τῶν ὑπαρχόντων σοι ποίει ἐλεημοσύνην, καὶ μὴ φθονεσάτω σου ὁ ὀφθαλμὸς ἐν τῷ ποιεῖν σε ἐλεημοσύνην ·"
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "4.16",
+    "form": "φθονεσάτω",
+    "postag": "v3sama---",
+    "sentence": "πᾶν, ὃ ἐὰν περισσεύσῃ σοι, ποίει ἐλεημοσύνην, καὶ μὴ φθονεσάτω σου ὁ ὀφθαλμὸς ἐν τῷ ποιεῖν σε ἐλεημοσύνην."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "2 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "15.5",
+    "form": "φθονήσωμεν",
+    "postag": "v1pasa---",
+    "sentence": "τοσαύτης οὖν χρηστότητος μεταλαμβάνοντες μὴ φθονήσωμεν ἑαυτοῖς τυχεῖν τοσούτων ἀγαθῶν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1 ** φθονέω, -ῶ    (< φθόνος),    [in LXX: To 4:7, 16 AB * ;]     to envy: c. dat. (L, txt., Tr., mg., WH, mg., acc.), as in cl., Ga 5:26.†"
+}

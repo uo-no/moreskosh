@@ -1,0 +1,79 @@
+{
+ "strong": "G5150",
+ "lemma": "τρίμηνον",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": "τριμηνος",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "HEB 11:23",
+   "form": "τρίμηνον",
+   "morph": "A-ASN",
+   "gloss_en": "three months",
+   "gloss_ja": "三ヶ月",
+   "verse": "Πίστει Μωϋσῆς γεννηθεὶς ἐκρύβη τρίμηνον ὑπὸ τῶν πατέρων αὐτοῦ, διότι εἶδον ἀστεῖον τὸ παιδίον καὶ οὐκ ἐφοβήθησαν τὸ διάταγμα τοῦ βασιλέως."
+  }
+ ],
+ "lxx": {
+  "total": 5,
+  "works": {
+   "Genesis": 1,
+   "Regnorum iv": 2,
+   "Paralipomenon ii sive Chronicon ii": 2
+  },
+  "representatives": [
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "24.8",
+    "form": "τρίμηνον",
+    "postag": "a-s---na-",
+    "sentence": "υἱὸς ὀκτωκαίδεκα ἐτῶν Ἰωαχὶμ ἐν τῷ βασιλεύειν αὐτὸν καὶ τρίμηνον ἐβασίλευσεν ἐν Ἱερουσαλήμ, καὶ ὄνομα τῇ μητρὶ αὐτοῦ Νέσθα, θυγάτηρ Ἐλλαναθὰν ἐξ Ἱερουσαλήμ."
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "36.9",
+    "form": "τρίμηνον",
+    "postag": "a-s---na-",
+    "sentence": "ὀκτὼ ἐτῶν Ἰεχονίας ἐν τῷ βασιλεύειν αὐτὸν καὶ τρίμηνον καὶ δέκα ἡμέρας ἐβασίλευσεν ἐν Ἱερουσαλὴμ καὶ ἐποίησε τὸ πονηρὸν ἐνώπιον Κυρίου."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "38.24",
+    "form": "τρίμηνον",
+    "postag": "a-s---na-",
+    "sentence": "ἐγένετο δὲ μετὰ τρίμηνον ἀνηγγέλη τῷ Ἰούδᾳ λέγοντες ·"
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "23.31",
+    "form": "τρίμηνον",
+    "postag": "a-s---na-",
+    "sentence": "υἱὸς εἴκοσι καὶ τριῶν ἐτῶν ἦν Ἰωάχαζ ἐν τῷ βασιλεύειν αὐτὸν καὶ τρίμηνον ἐβασίλευσεν ἐν Ἱερουσαλήμ, καὶ ὄνομα τῇ μητρὶ αὐτοῦ Ἀμιτὰλ θυγάτηρ Ἱερεμίου ἐκ Λοβνά."
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "36.2",
+    "form": "τρίμηνον",
+    "postag": "a-s---na-",
+    "sentence": "υἱὸς εἴκοσι καὶ τριῶν ἐτῶν Ἰωάχαζ ἐν τῷ βασιλεύειν αὐτὸν καὶ τρίμηνον ἐβασίλευσεν ἐν Ἱερουσαλήμ, καὶ ὄνομα τῆς μητρὸς αὐτοῦ Ἀμιτὰλ θυγάτηρ Ἱερεμίου ἐκ Λοβενά."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1 τρίμηνος, -ον    (< τρεῖς, μήν)    [in LXX (neut.): Ge 38:24, IV Ki 23:31 B 24:8, II Ch 36:2, 9 (חֳדָשִׁים  שָׁלוֹשׁ) * ;]     of three months; as subst., τὸ τ. (= cl. ἡ τ.), a space of three months (Polyb., al.; LXX): He 11:23.†"
+}

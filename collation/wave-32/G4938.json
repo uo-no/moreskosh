@@ -1,0 +1,151 @@
+{
+ "strong": "G4938",
+ "lemma": "σύντριμμα",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ROM 3:16",
+   "form": "σύντριμμα",
+   "morph": "N-NSN",
+   "gloss_en": "ruin",
+   "gloss_ja": "破滅",
+   "verse": "σύντριμμα καὶ ταλαιπωρία ἐν ταῖς ὁδοῖς αὐτῶν,"
+  }
+ ],
+ "lxx": {
+  "total": 35,
+  "works": {
+   "Leviticus": 4,
+   "Numeri": 1,
+   "Machabaeorum i": 2,
+   "Psalmi": 3,
+   "Proverbia": 2,
+   "Job": 1,
+   "Sapientia Salomonis": 1,
+   "Ecclesiasticus sive Siracides": 1,
+   "Amos": 1,
+   "Isaias": 8,
+   "Jeremias": 9,
+   "Threni seu Lamentationes": 2
+  },
+  "representatives": [
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "37.12",
+    "form": "σύντριμμα",
+    "postag": "n-s---na-",
+    "sentence": "ἀνέστησα σύντριμμα, ἀλγηρὰ ἡ πληγή σου ·"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "51.19",
+    "form": "σύντριμμα",
+    "postag": "n-s---nn-",
+    "sentence": "πτῶμα καὶ σύντριμμα, λιμὸς καὶ μάχαιρα."
+   },
+   {
+    "work_code": "LEV",
+    "work_ja": "レビ記",
+    "work_src": "Leviticus",
+    "ref": "24.20",
+    "form": "συντρίμματος",
+    "postag": "n-s---ng-",
+    "sentence": "σύντριμμα ἀντὶ συντρίμματος, ὀφθαλμὸν ἀντὶ ὀφθαλμοῦ, ὀδόντα ἀντὶ ὀδόντος, καθότι ἂν δῷ μῶμον τῷ ἀνθρώπῳ, οὕτω δοθήσεται αὐτῷ."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "59.4",
+    "form": "συντρίμματα",
+    "postag": "n-p---na-",
+    "sentence": "ἴασαι τὰ συντρίμματα αὐτῆς ὅτι ἐσαλεύθη."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "2.7",
+    "form": "σύντριμμα",
+    "postag": "n-s---na-",
+    "sentence": "οἴμοι, ἱνατί τοῦτο ἐγεννήθην ἰδεῖν τὸ σύντριμμα τοῦ λαοῦ μου καὶ τὸ σύντριμμα τῆς πόλεως τῆς ἁγίας καὶ καθίσαι ἐκεῖ ἐν τῷ δοθῆναι αὐτὴν ἐν χειρὶ ἐχθρῶν καὶ τὸ ἁγίασμα ἐν χειρὶ ἀλλοτρίων;"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "20.30",
+    "form": "συντρίμματα",
+    "postag": "n-p---nn-",
+    "sentence": "ὑπώπια καὶ συντρίμματα συναντᾷ κακοῖς, πληγαὶ δὲ εἰς ταμιεῖα κοιλίας."
+   },
+   {
+    "work_code": "LAM",
+    "work_ja": "哀歌",
+    "work_src": "Threni seu Lamentationes",
+    "ref": "3.48",
+    "form": "σύντριμμα",
+    "postag": "n-s---na-",
+    "sentence": "ἀφέσεις ὑδάτων κατάξει ὁ ὀφθαλμός μου ἐπὶ τὸ σύντριμμα τῆς θυγατρὸς τοῦ λαοῦ μου."
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "32.14",
+    "form": "σύντριμμα",
+    "postag": "n-s---nv-",
+    "sentence": "ἰδοὺ ἀνέστητε ἀντὶ τῶν πατέρων ὑμῶν, σύντριμμα ἀνθρώπων ἁμαρτωλῶν, προσθεῖναι ἔτι ἐπὶ τὸν θυμὸν τῆς ὀργῆς Κυρίου ἐπὶ Ἰσραήλ, ὅτι ἀποστραφήσεσθε ἀπ’ αὐτοῦ προσθεῖναι ἔτι καταλιπεῖν αὐτὸν ἐν τῇ ἐρήμῳ καὶ ἀνομήσετε εἰς ὅλην τὴν συναγωγὴν ταύτην."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "9.17",
+    "form": "συντρίμματα",
+    "postag": "n-p---nn-",
+    "sentence": "πολλὰ δέ μου τὰ συντρίμματα πεποίηκε διακενῆς ·"
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "3.3",
+    "form": "σύντριμμα",
+    "postag": "n-s---nn-",
+    "sentence": "ἔδοξαν ἐν ὀφθαλμοῖς ἀφρόνων τεθνάναι, καὶ ἐλογίσθη κάκωσις ἡ ἔξοδος αὐτῶν καί ἡ ἀφ’ ἡμῶν πορεία σύντριμμα, οἱ δέ εἰσιν ἐν εἰρήνῃ."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "40.9",
+    "form": "σύντριμμα",
+    "postag": "n-s---nn-",
+    "sentence": "θάνατος καὶ αἷμα καὶ ἔρις καὶ ρομφαία, ἐπαγωγαί, λιμὸς καὶ σύντριμμα καὶ μάστιξ, ἐπὶ τοὺς ἀνόμους ἐκτίσθη ταῦτα πάντα, καὶ δι’ αὐτοὺς ἐγένετο ὁ κατακλυσμός."
+   },
+   {
+    "work_code": "AMO",
+    "work_ja": "アモス書",
+    "work_src": "Amos",
+    "ref": "9.9",
+    "form": "σύντριμμα",
+    "postag": "n-s---nn-",
+    "sentence": "διότι ἰδοὺ ἐγὼ ἐντέλλομαι καὶ λικμήσω ἐν πᾶσι τοῖς ἔθνεσι τὸν οἶκον Ἰσραήλ, ὃν τρόπον λικμᾶται ἐν τῷ λικμῷ καὶ οὐ μὴ πέσῃ σύντριμμα ἐπὶ τὴν γῆν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1 σύν-τριμμα, -τος, τό    (< συντρίβω),    [in LXX (Le 21:19, al.) chiefly for שֶׁבֶר; also for שֹׁד (Is 59:7), etc. ;]     a fracture (Arist.; Le, l.c., al.). Metaph., calamity, destruction (Isa, l.c., Wi 3:3, al.): Ro 3:16 (LXX).†"
+}

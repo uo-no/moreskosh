@@ -1,0 +1,72 @@
+{
+ "strong": "G5260",
+ "lemma": "ὑποβάλλω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 6:11",
+   "form": "ὑπέβαλον",
+   "morph": "V-2AAI-3P",
+   "gloss_en": "secretly instigated",
+   "gloss_ja": "そそのかす",
+   "verse": "τότε ὑπέβαλον ἄνδρας λέγοντας ὅτι Ἀκηκόαμεν αὐτοῦ λαλοῦντος ῥήματα βλάσφημα εἰς Μωϋσῆν καὶ τὸν θεόν·"
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Esdras i": 1,
+   "Machabaeorum i": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1ES",
+    "work_ja": "エズラ記（ギリシャ語）",
+    "work_src": "Esdras i",
+    "ref": "2.17",
+    "form": "ὑποβάλλονται",
+    "postag": "v3ppim---",
+    "sentence": "καὶ νῦν γνωστὸν ἔστω τῷ κυρίῳ βασιλεῖ, ὅτι οἱ Ἰουδαῖοι ἀναβάντες παρ’ ὑμῶν πρὸς ἡμᾶς ἐλθόντες εἰς Ἱερουσαλήμ, τὴν πόλιν τὴν ἀποστάτιν καὶ πονηρὰν οἰκοδομοῦσι, τάς τε ἀγορὰς αὐτῆς καὶ τὰ τείχη θεραπεύουσι καὶ ναὸν ὑποβάλλονται."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "1.16",
+    "form": "ὑπέβαλε",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἡτοιμάσθη ἡ βασιλεία ἐναντίον Ἀντιόχου, καὶ ὑπέβαλε βασιλεῦσαι τῆς Αἰγύπτου, ὅπως βασιλεύσῃ ἐπὶ τὰς δύο βασιλείας."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "Martyrdom of Polycarp": 2
+  },
+  "representatives": [
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "17.2",
+    "form": "ὑπέβαλεν",
+    "postag": "v3saia---",
+    "sentence": "ὑπέβαλεν γοῦν Νικήτην τὸν τοῦ Ἡρώδου πατέρα, ἀδελφὸν δὲ Ἄλκης, ἐντυχεῖν τῷ ἄρχοντι, ὥστε μὴ δοῦναι αὐτοῦ τὸ σῶμα ·"
+   },
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "17.2",
+    "form": "ὑποβαλλόντων",
+    "postag": "v-pppamg-",
+    "sentence": "καὶ ταῦτα εἶπον ὑποβαλλόντων καὶ ἐνισχυόντων τῶν Ἰουδαίων, οἳ καὶ ἐτήρησαν, μελλόντων ἡμῶν ἐκ τοῦ πυρὸς αὐτὸν λαμβάνειν ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1 (KJV) ** ὑπο-βάλλω     [in LXX: Da TH 3:9 A, I Es 2:18 * ;]     to throw or put under. Metaph.,    to subject, submit;    to suggest, whisper, prompt;    to suborn (v. Field, Notes, 113), instigate: c. acc pers., Ac 6:11.†"
+}

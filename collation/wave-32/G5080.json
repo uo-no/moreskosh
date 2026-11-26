@@ -1,0 +1,182 @@
+{
+ "strong": "G5080",
+ "lemma": "τήκομαι",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": "τηκω",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2PE 3:12",
+   "form": "τήκεται",
+   "morph": "V-PPI-3S",
+   "gloss_en": "melt",
+   "gloss_ja": "溶ける",
+   "verse": "προσδοκῶντας καὶ σπεύδοντας τὴν παρουσίαν τῆς τοῦ θεοῦ ἡμέρας, δι’ ἣν οὐρανοὶ πυρούμενοι λυθήσονται καὶ στοιχεῖα καυσούμενα τήκεται·"
+  }
+ ],
+ "lxx": {
+  "total": 57,
+  "works": {
+   "Exodus": 3,
+   "Leviticus": 1,
+   "Deuteronomium": 2,
+   "Josue": 1,
+   "Judices": 1,
+   "Regnorum ii": 2,
+   "Judith": 2,
+   "Machabaeorum i": 1,
+   "Machabaeorum iii": 1,
+   "Machabaeorum iv": 2,
+   "Psalmi": 8,
+   "Odae": 5,
+   "Job": 6,
+   "Sapientia Salomonis": 5,
+   "Michaeas": 1,
+   "Nahum": 1,
+   "Habacuc": 2,
+   "Zacharias": 3,
+   "Isaias": 4,
+   "Jeremias": 1,
+   "Ezechiel": 4,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "57.9",
+    "form": "τακεὶς",
+    "postag": "v-sappmn-",
+    "sentence": "ὡσεὶ κηρὸς τακεὶς ἀνταναιρεθήσονται ·"
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "36.13",
+    "form": "τάξουσι",
+    "postag": "v3pfia---",
+    "sentence": "καὶ ὑποκριταὶ καρδίᾳ τάξουσι θυμόν ·"
+   },
+   {
+    "work_code": "ODE",
+    "work_ja": "頌歌（オード）",
+    "work_src": "Odae",
+    "ref": "9.6",
+    "form": "ἐτάκησαν",
+    "postag": "v3paip---",
+    "sentence": "διεθρύβη τὰ ὄρη βίᾳ, ἐτάκησαν βουνοὶ αἰώνιοι."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "6.23",
+    "form": "τετηκότι",
+    "postag": "v-srpamd-",
+    "sentence": "οὔ-τε μὴν φθόνῳ τετηκότι συνοδεύσω, ὅτι οὗτος οὐ κοινωνήσει σοφίᾳ."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "24.23",
+    "form": "τακήσεται",
+    "postag": "v3sfip---",
+    "sentence": "καὶ τακήσεται ἡ πλίνθος, καὶ πεσεῖται τὸ τεῖχος, ὅτι βασιλεύσει Κύριος ἐν Σιὼν καὶ ἐν Ἱερουσαλήμ, καὶ ἐνώπιον τῶν πρεσβυτέρων δοξασθήσεται."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "33.10",
+    "form": "τηκόμεθα",
+    "postag": "v1ppim---",
+    "sentence": "αἱ πλάναι ἡμῶν καὶ αἱ ἀνομίαι ἡμῶν ἐφ’ ἡμῖν εἰσι καὶ ἐν αὐταῖς ἡμεῖς τηκόμεθα ·"
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "16.21",
+    "form": "ἐτήκετο",
+    "postag": "v3siim---",
+    "sentence": "ἡνίκα δὲ διεθέρμαινεν ὁ ἥλιος, ἐτήκετο."
+   },
+   {
+    "work_code": "ZEC",
+    "work_ja": "ゼカリヤ書",
+    "work_src": "Zacharias",
+    "ref": "10.3",
+    "form": "τάξει",
+    "postag": "v3sfia---",
+    "sentence": "καὶ ἐπισκέψεται Κύριος ὁ Θεὸς ὁ παντοκράτωρ τὸ ποίμνιον αὐτοῦ τὸν οἶκον Ἰούδα καὶ τάξει αὐτοὺς ὡς ἵππον εὐπρεπῆ αὐτοῦ ἐν πολέμῳ."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "32.24",
+    "form": "τηκόμενοι",
+    "postag": "v-pppmmn-",
+    "sentence": "τηκόμενοι λιμῷ καὶ βρώσει ὀρνέων καὶ ὀπισθότονος ἀνίατος ·"
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "17.10",
+    "form": "τηκομένη",
+    "postag": "v-sppmfn-",
+    "sentence": "ἐγενήθη θραῦσις ἐν τῷ λαῷ τῷ ὀπίσω Ἀβεσσαλώμ, καί γε αὐτὸς υἱὸς δυνάμεως, οὗ ἡ καρδία καθὼς ἡ καρδία τοῦ λέοντος, τηκομένη τακήσεται, ὅτι οἶδε πᾶς Ἰσραὴλ ὅτι δυνατὸς ὁ πατήρ σου καὶ υἱοὶ δυνάμεως οἱ μετ’ αὐτοῦ."
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "16.15",
+    "form": "τακήσονται",
+    "postag": "v3pfip---",
+    "sentence": "ὄρη γὰρ ἐκ θεμελίων σὺν ὕδασι σαλευθήσεται, πέτραι δὲ ἀπὸ προσώπου σου ὡς κηρὸς τακήσονται, ἔτι δὲ τοῖς φοβουμένοις σε, σὺ εὐιλατεύεις αὐτοῖς."
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "5.29",
+    "form": "τήξειας",
+    "postag": "v2saoa---",
+    "sentence": "ἀλλ’ οὐ γελάσεις κατ’ ἐμοῦ τοῦτον τὸν γέλωτα, οὔ-τε τοὺς ἱεροὺς τῶν προγόνων περὶ τοῦ φυλάξαι τὸν νόμον ὅρκους οὐ παρήσω, οὐ-δ’ ἂν ἐκκόψειάς μου τὰ ὄμματα καὶ τὰ σπλάγχνα μου τήξειας."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "2 Clement": 2
+  },
+  "representatives": [
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "16.3",
+    "form": "τακήσονταί",
+    "postag": "v3pfip---",
+    "sentence": "γινώσκετε δέ, ὅτι ἔρχεται ἤδη ἡ ἡμέρα τῆς κρίσεως ὡς κλίβανος καιόμενος, καὶ τακήσονταί τινες τῶν οὐρανῶν καὶ πᾶσα ἡ γῆ ὡς μόλιβος ἐπὶ πυρὶ τηκόμενος ·"
+   },
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "16.3",
+    "form": "τηκόμενος",
+    "postag": "v-sppmmn-",
+    "sentence": "γινώσκετε δέ, ὅτι ἔρχεται ἤδη ἡ ἡμέρα τῆς κρίσεως ὡς κλίβανος καιόμενος, καὶ τακήσονταί τινες τῶν οὐρανῶν καὶ πᾶσα ἡ γῆ ὡς μόλιβος ἐπὶ πυρὶ τηκόμενος ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1 (KJV) τήκω     [in LXX for מָסַס ni., מָקַק ni., מוּג ni., etc. ;]       trans.,    to melt, melt down; pass., to melt, melt away: II Pe 3:12.†"
+}

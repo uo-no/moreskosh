@@ -1,0 +1,71 @@
+{
+ "strong": "G5276",
+ "lemma": "ὑπολήνιον",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MRK 12:1",
+   "form": "ὑπολήνιον",
+   "morph": "N-ASN",
+   "gloss_en": "pit for the winepress",
+   "gloss_ja": "搾り桶",
+   "verse": "Καὶ ἤρξατο αὐτοῖς ἐν παραβολαῖς λαλεῖν· Ἀμπελῶνα ἄνθρωπος ἐφύτευσεν, καὶ περιέθηκεν φραγμὸν καὶ ὤρυξεν ὑπολήνιον καὶ ᾠκοδόμησεν πύργον, καὶ ἐξέδετο αὐτὸν γεωργοῖς, καὶ ἀπεδήμησεν."
+  }
+ ],
+ "lxx": {
+  "total": 4,
+  "works": {
+   "Joel": 1,
+   "Aggaeus": 1,
+   "Zacharias": 1,
+   "Isaias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "JOL",
+    "work_ja": "ヨエル書",
+    "work_src": "Joel",
+    "ref": "4.13",
+    "form": "ὑπολήνια",
+    "postag": "n-p---na-",
+    "sentence": "ὑπερεκχεῖτε τὰ ὑπολήνια, ὅτι πεπλήθυνται τὰ κακὰ αὐτῶν."
+   },
+   {
+    "work_code": "HAG",
+    "work_ja": "ハガイ書",
+    "work_src": "Aggaeus",
+    "ref": "2.16",
+    "form": "ὑπολήνιον",
+    "postag": "n-s---na-",
+    "sentence": "καὶ εἰσεπορεύεσθε εἰς τὸ ὑπολήνιον ἐξαντλῆσαι πεντήκοντα μετρητάς, καὶ ἐγένοντο εἴκοσι."
+   },
+   {
+    "work_code": "ZEC",
+    "work_ja": "ゼカリヤ書",
+    "work_src": "Zacharias",
+    "ref": "14.10",
+    "form": "ὑποληνίων",
+    "postag": "n-p---ng-",
+    "sentence": "Ῥαμὰ δὲ ἐπὶ τόπου μενεῖ ἀπὸ τῆς πύλης Βενιαμὶν ἕως τοῦ τόπου τῆς πύλης τῆς πρώτης, ἕως τῆς πύλης τῶν γωνιῶν καὶ ἕως τοῦ πύργου Ἀναμεήλ, ἕως τῶν ὑποληνίων τοῦ βασιλέως."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "16.10",
+    "form": "ὑπολήνια",
+    "postag": "n-p---na-",
+    "sentence": "καὶ ἀρθήσεται εὐφροσύνη καὶ ἀγαλλίαμα ἐκ τῶν ἀμπελώνων σου, καὶ ἐν τοῖς ἀμπελῶσί σου οὐ μὴ εὐφρανθήσονται καὶ οὐ μὴ πατήσουσιν οἶνον εἰς τὰ ὑπολήνια, πέπαυται γάρ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1 † ὑπολήνιον, -ου, τό    (< ὑπό, ληνός),    [in LXX: Jl 3 (4):13, Ha 2:17(16), Za 14:10, Is 16:10 (יֶקֶב) * ;]     a vessel or trough beneath a winepress to   receive the juice (RV, a pit for the winepress) Mk 12:1 (v. Swete, in l, and cf. ληνός).†"
+}

@@ -1,0 +1,79 @@
+{
+ "strong": "G4939",
+ "lemma": "σύντροφος",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 13:1",
+   "form": "σύντροφος",
+   "morph": "A-NSM",
+   "gloss_en": "who had been brought up with",
+   "gloss_ja": "一緒に育った者",
+   "verse": "Ἦσαν δὲ ἐν Ἀντιοχείᾳ κατὰ τὴν οὖσαν ἐκκλησίαν προφῆται καὶ διδάσκαλοι ὅ τε Βαρναβᾶς καὶ Συμεὼν ὁ καλούμενος Νίγερ, καὶ Λούκιος ὁ Κυρηναῖος, Μαναήν τε Ἡρῴδου τοῦ τετραάρχου σύντροφος καὶ Σαῦλος."
+  }
+ ],
+ "lxx": {
+  "total": 5,
+  "works": {
+   "Regnorum iii": 3,
+   "Machabaeorum i": 1,
+   "Machabaeorum ii": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "12.24ρ",
+    "form": "σύντροφοι",
+    "postag": "a-p---mn-",
+    "sentence": "καὶ εἶπαν οἱ σύντροφοι αὐτοῦ ·"
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "1.6",
+    "form": "συντρόφους",
+    "postag": "a-p---ma-",
+    "sentence": "καὶ ἐκάλεσε τοὺς παῖδας αὐτοῦ τοὺς ἐνδόξους τοὺς συντρόφους αὐτοῦ ἀπὸ νεότητος καὶ διεῖλεν αὐτοῖς τὴν βασιλείαν αὐτοῦ ἔτι ζῶντος αὐτοῦ."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "9.29",
+    "form": "σύντροφος",
+    "postag": "a-s---mn-",
+    "sentence": "παρεκομίζετο δὲ τὸ σῶμα Φίλιππος ὁ σύντροφος αὐτοῦ, ὃς καὶ διευλαβηθεὶς τὸν υἱὸν Ἀντιόχου, πρὸς Πτολεμαῖον τὸν Φιλομήτορα εἰς Αἴγυπτον διεκομίσθη."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "12.24ρ",
+    "form": "συντρόφους",
+    "postag": "a-p---ma-",
+    "sentence": "καὶ ἀπέστειλε καὶ εἰσήγαγε τοὺς συντρόφους αὐτοῦ καὶ ἐλάλησεν αὐτοῖς ·"
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "12.24σ",
+    "form": "σύντροφοι",
+    "postag": "a-p---mn-",
+    "sentence": "καὶ ἤρεσε τὸ ρῆμα ἐνώπιον Ῥοβοάμ, καὶ ἀπεκρίθη τῷ λαῷ καθὼς συνεβούλευσαν αὐτῷ οἱ σύντροφοι αὐτοῦ τά παιδάρια."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1 σύν-τροφος, -ου, ὁ    (< συντρέφομαι, to be brought up together)    [in LXX: III Ki 12:24, I Mac 1:6 R, II Mac 9:29 * ;]    prop., one nourished or brought up with, a foster-brother: Ac 13:1 EV.    In Hellenistic usage, as a court term, an intimate friend of a king (v. Deiss., BS, 305, 310 f.): Ac 13:1 (cf. also MM, xxiv).†"
+}

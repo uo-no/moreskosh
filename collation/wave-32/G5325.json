@@ -1,0 +1,89 @@
+{
+ "strong": "G5325",
+ "lemma": "φαντασία",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 25:23",
+   "form": "φαντασίας",
+   "morph": "N-GSF",
+   "gloss_en": "pomp",
+   "gloss_ja": "見せかけ",
+   "verse": "Τῇ οὖν ἐπαύριον ἐλθόντος τοῦ Ἀγρίππα καὶ τῆς Βερνίκης μετὰ πολλῆς φαντασίας καὶ εἰσελθόντων εἰς τὸ ἀκροατήριον σύν τε χιλιάρχοις καὶ ἀνδράσιν τοῖς κατ’ ἐξοχὴν τῆς πόλεως καὶ κελεύσαντος τοῦ Φήστου ἤχθη ὁ Παῦλος."
+  }
+ ],
+ "lxx": {
+  "total": 6,
+  "works": {
+   "Odae": 1,
+   "Sapientia Salomonis": 1,
+   "Habacuc": 3,
+   "Zacharias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HAB",
+    "work_ja": "ハバクク書",
+    "work_src": "Habacuc",
+    "ref": "3.10",
+    "form": "φαντασίας",
+    "postag": "n-s---fg-",
+    "sentence": "ἔδωκεν ἡ ἄβυσσος φωνὴν αὐτῆς, ὕψος φαντασίας αὐτῆς."
+   },
+   {
+    "work_code": "ODE",
+    "work_ja": "頌歌（オード）",
+    "work_src": "Odae",
+    "ref": "9.10",
+    "form": "φαντασίας",
+    "postag": "n-s---fg-",
+    "sentence": "ὕψος φαντασίας αὐτῆς ἐπήρθη."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "18.17",
+    "form": "φαντασίαι",
+    "postag": "n-p---fn-",
+    "sentence": "τότε παραχρῆμα φαντασίαι μὲν ὀνείρων δεινῶς ἐξετάραξαν αὐτούς, φόβοι δὲ ἐπέστησαν ἀδόκητοι, καὶ ἄλλος ἀλλαχῇ ριφεὶς ἡμίθνητος δι’ ἣν ἔθνησκεν αἰτίαν ἐνεφάνιζεν ·"
+   },
+   {
+    "work_code": "ZEC",
+    "work_ja": "ゼカリヤ書",
+    "work_src": "Zacharias",
+    "ref": "10.1",
+    "form": "φαντασίας",
+    "postag": "n-p---fa-",
+    "sentence": "Κύριος ἐποίησε φαντασίας, καὶ ὑετὸν χειμερινὸν δώσει αὐτοῖς, ἑκάστῳ βοτάνην ἐν ἀγρῷ."
+   },
+   {
+    "work_code": "HAB",
+    "work_ja": "ハバクク書",
+    "work_src": "Habacuc",
+    "ref": "2.19",
+    "form": "φαντασία",
+    "postag": "n-s---fn-",
+    "sentence": "καὶ αὐτό ἐστι φαντασία, τοῦτο δέ ἐστιν ἔλασμα χρυσίου καὶ ἀργυρίου, καὶ πᾶν πνεῦμα οὐκ ἔστιν ἐν αὐτῷ."
+   },
+   {
+    "work_code": "HAB",
+    "work_ja": "ハバクク書",
+    "work_src": "Habacuc",
+    "ref": "2.18",
+    "form": "φαντασίαν",
+    "postag": "n-s---fa-",
+    "sentence": "ἔπλασεν αὐτὸ χώνευμα, φαντασίαν ψευδῆ, ὅτι πέποιθεν ὁ πλάσας ἐπὶ τὸ πλάσμα αὐτοῦ τοῦ ποιῆσαι εἴδωλα κωφά."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1 φαντασία, -ας, ἡ    (< φαντάζω),    [in LXX: Za 10:1 (חָזִיז), חֲזִיז), Hb 2:18, 19 3:10, Wi 18:17 * ;]       as philos. term,    imagination;      = φάντασμα (Plat., Arist.).    In later writers (Polyb., al.), show, display: Ac 25:23.†"
+}

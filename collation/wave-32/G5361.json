@@ -1,0 +1,60 @@
+{
+ "strong": "G5361",
+ "lemma": "φιλάδελφος",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1PE 3:8",
+   "form": "φιλάδελφοι",
+   "morph": "A-NPM",
+   "gloss_en": "love as brothers",
+   "gloss_ja": "兄弟愛の",
+   "verse": "Τὸ δὲ τέλος πάντες ὁμόφρονες, συμπαθεῖς, φιλάδελφοι, εὔσπλαγχνοι, ταπεινόφρονες,"
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Machabaeorum ii": 1,
+   "Machabaeorum iv": 2
+  },
+  "representatives": [
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "15.10",
+    "form": "φιλάδελφοι",
+    "postag": "a-p---mn-",
+    "sentence": "δίκαιοί τε γὰρ ἦσαν καὶ σώφρονες καὶ ἀνδρεῖοι καὶ μεγαλόψυχοι καὶ φιλάδελφοι καὶ φιλομήτορες οὕτως, ὥστε καὶ μέχρι θανάτου τὰ νόμιμα φυλάσσοντας πείθεσθαι αὐτῇ."
+   },
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "15.14",
+    "form": "φιλάδελφος",
+    "postag": "a-s---mn-",
+    "sentence": "ὁ φιλάδελφος οὗτός ἐστιν ὁ πολλὰ προσευχόμενος περὶ τοῦ λαοῦ καὶ τῆς ἁγίας πόλεως Ἱερεμίας ὁ τοῦ Θεοῦ προφήτης."
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "13.21",
+    "form": "φιλάδελφοι",
+    "postag": "a-p---fn-",
+    "sentence": "οὐκ ἀγνοεῖτε δὲ τὰ τῆς ἀδελφότητος φίλτρα, ἅπερ ἡ θεία καὶ πάνσοφος πρόνοια διὰ τῶν πατέρων τοῖς γενομένοις ἐμέρισε καὶ διὰ τῆς μητρῴας φυτεύσασα γαστρός, ἐν ᾗ τὸν ἴσον ἀδελφοὶ κατοικήσαντες χρόνον καὶ ἐν τῷ αὐτῷ χρόνῳ πλασθέντες καὶ ἀπὸ τοῦ αὐτοῦ αἵματος αὐξηθέντες καὶ διὰ τῆς αὐτῆς ψυχῆς τελεσφορηθέντες καὶ διὰ τῶν ἴσων ἀποτεχθέντες χρόνων καὶ ἀπὸ τῶν αὐτῶν γαλακτοποτοῦντες πηγῶν, ἀφ’ ὧν συστρέφονται ἐναγκαλισμάτων φιλάδελφοι ψυχαί ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1 * φιλ-άδελφος, -ον     [in LXX: II Mac 15:14, IV Mac 13:21 15:10 * ;]    loving one's brother, loving like a brother (Soph., Xen., al.): of Christians' love for one another (EV, loving as brethren), I Pe 3:8.†"
+}

@@ -1,0 +1,78 @@
+{
+ "strong": "G519",
+ "lemma": "ἀπάγχομαι",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": "απαγχω",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "MAT 27:5",
+   "form": "ἀπήγξατο",
+   "morph": "V-AMI-3S",
+   "gloss_en": "hanged himself",
+   "gloss_ja": "首をつる",
+   "verse": "καὶ ῥίψας τὰ ἀργύρια εἰς τὸν ναὸν ἀνεχώρησεν, καὶ ἀπελθὼν ἀπήγξατο."
+  }
+ ],
+ "lxx": {
+  "total": 5,
+  "works": {
+   "Regnorum ii": 1,
+   "Tobias": 4
+  },
+  "representatives": [
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "3.10",
+    "form": "ἀπάγξασθαι",
+    "postag": "v--anm---",
+    "sentence": "ταῦτα ἀκούσασα ἐλυπήθη σφόδρα ὥστε ἀπάγξασθαι."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "17.23",
+    "form": "ἀπήγξατο",
+    "postag": "v3saim---",
+    "sentence": "καὶ ἐνετείλατο τῷ οἴκῳ αὐτοῦ καὶ ἀπήγξατο καὶ ἀπέθανε καὶ ἐτάφη ἐν τῷ τάφῳ τοῦ πατρὸς αὐτοῦ."
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "3.10",
+    "form": "ἀπάγξασθαι",
+    "postag": "v--anm---",
+    "sentence": "ἐν τῇ ἡμέρᾳ ἐκείνῃ ἐλυπήθη ἐν τῇ ψυχῇ καὶ ἔκλαυσεν καὶ ἀναβᾶσα εἰς τὸ ὑπερῷον τοῦ πατρὸς αὐτῆς ἠθέλησεν ἀπάγξασθαι."
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "3.10",
+    "form": "ἀπάγξασθαι",
+    "postag": "v--anm---",
+    "sentence": "χρησιμώτερόν μοί ἐστιν μὴ ἀπάγξασθαι, ἀλλὰ δεηθῆναι τοῦ κυρίου ὅπως ἀποθάνω καὶ μηκέτι ὀνειδισμοὺς ἀκούσω ἐν τῇ ζωῇ μου."
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "3.10",
+    "form": "ἀπήγξατο",
+    "postag": "v3saim---",
+    "sentence": "καὶ πάλιν ἐλογίσατο καὶ λέγει Μήποτε ὀνειδίσωσιν τὸν πατέρα μου καὶ ἐροῦσιν αὐτῷ Μία σοι ὑπῆρχεν θυγάτηρ ἀγαπητὴ καὶ αὐτὴ ἀπήγξατο ἀπὸ τῶν κακῶν ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1 ἀπ-άγχω    (< ἄγχω, to press, strangle),   [in LXX: II Ki 17:23 (חנק), To 3:10*;]    to strangle; mid., to hang oneself (or, to choke; v. M, Pr., 155): Mt 27:5.†"
+}

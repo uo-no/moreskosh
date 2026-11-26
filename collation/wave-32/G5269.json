@@ -1,0 +1,51 @@
+{
+ "strong": "G5269",
+ "lemma": "ὑποζώννυμι",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 27:17",
+   "form": "ὑποζωννύντες",
+   "morph": "V-PAP-NPM",
+   "gloss_en": "undergird",
+   "gloss_ja": "締め固める",
+   "verse": "ἣν ἄραντες βοηθείαις ἐχρῶντο ὑποζωννύντες τὸ πλοῖον· φοβούμενοί τε μὴ εἰς τὴν Σύρτιν ἐκπέσωσιν, χαλάσαντες τὸ σκεῦος, οὕτως ἐφέροντο."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Machabaeorum ii": 1,
+   "Psalmi Salomonis": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "3.19",
+    "form": "ὑπεζωσμέναι",
+    "postag": "v-prpmfn-",
+    "sentence": "ὑπεζωσμέναι δὲ ὑπὸ τοὺς μαστοὺς αἱ γυναῖκες σάκκους κατὰ τὰς ὁδοὺς ἐπλήθυον ·"
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "17.22",
+    "form": "ὑπόζωσον",
+    "postag": "v2sama---",
+    "sentence": "καὶ ὑπόζωσον αὐτὸν ἰσχὺν τοῦ θραῦσαι ἄρχοντας ἀδίκους, καθαρίσαι Ιερουσαλημ ἀπὸ ἐθνῶν καταπατούντων ἐν ἀπωλείᾳ, ἐν σοφίᾳ δικαιοσύνης ἐξῶσαι ἁμαρτωλοὺς ἀπὸ κληρονομίας, ἐκτρῖψαι ὑπερηφανίαν ἁμαρτωλοῦ ὡς σκεύη κεραμέως, ἐν ῥάβδῳ σιδηρᾷ συντρῖψαι πᾶσαν ὑπόστασιν αὐτῶν, ὀλεθρεῦσαι ἔθνη παράνομα ἐν λόγῳ στόματος αὐτοῦ, ἐν ἀπειλῇ αὐτοῦ φυγεῖν ἔθνη ἀπὸ προσώπου αὐτοῦ καὶ ἐλέγξαι ἁμαρτωλοὺς ἐν λόγῳ καρδίας αὐτῶν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1 ** ὑπο-ζώννυμι     [in LXX: II Mac 3:19 * ;]    to undergird (Hdt., al.; ὑπὸ τ. μάστους, II Mac, l.c.); of a ship, to undergird or frap: Ac 27:17 (v. DB, ext. 367a).†"
+}

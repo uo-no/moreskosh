@@ -1,0 +1,50 @@
+{
+ "strong": "G4911",
+ "lemma": "συνεφίστημι",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 16:22",
+   "form": "συνεπέστη",
+   "morph": "V-2AAI-3S",
+   "gloss_en": "joined in the attack",
+   "gloss_ja": "共に立ち上がる",
+   "verse": "καὶ συνεπέστη ὁ ὄχλος κατ’ αὐτῶν, καὶ οἱ στρατηγοὶ περιρήξαντες αὐτῶν τὰ ἱμάτια ἐκέλευον ῥαβδίζειν,"
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Job": 2
+  },
+  "representatives": [
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "19.27",
+    "form": "συνεπίσταμαι",
+    "postag": "v1spim---",
+    "sentence": "παρὰ γὰρ Κυρίου ταῦτά μοι συνετελέσθη, ἃ ἐγὼ ἐμαυτῷ συνεπίσταμαι, ἃ ὁ ὀφθαλμός μου ἑώρακε καὶ οὐκ ἄλλος, πάντα δέ μοι συντετέλεσθαι ἐν κόλπῳ."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "9.35",
+    "form": "συνεπίσταμαι",
+    "postag": "v1spim---",
+    "sentence": "οὐ γὰρ οὕτω συνεπίσταμαι."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1 * συν-εφ-ίστημι    to place over. Pass.,    to stand over (Thuc.).    to rise together: seq. κατά, c. gen. pers. (against), Ac 16:22.†"
+}

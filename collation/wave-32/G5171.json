@@ -1,0 +1,136 @@
+{
+ "strong": "G5171",
+ "lemma": "τρυφάω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JAS 5:5",
+   "form": "ἐτρυφήσατε",
+   "morph": "V-AAI-2P",
+   "gloss_en": "lived ~ inluxury",
+   "gloss_ja": "贅沢に生きる",
+   "verse": "ἐτρυφήσατε ἐπὶ τῆς γῆς καὶ ἐσπαταλήσατε, ἐθρέψατε τὰς καρδίας ὑμῶν ἐν ἡμέρᾳ σφαγῆς."
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Esdras ii": 1,
+   "Ecclesiasticus sive Siracides": 1,
+   "Isaias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "19.25",
+    "form": "ἐτρύφησαν",
+    "postag": "v3paip---",
+    "sentence": "καὶ ἐφάγοσαν καὶ ἐνεπλήσθησαν καὶ ἐλιπάνθησαν καὶ ἐτρύφησαν ἐν ἀγαθωσύνῃ σου τῇ μεγάλῃ."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "14.4",
+    "form": "τρυφήσουσιν",
+    "postag": "v3pfia---",
+    "sentence": "ὁ συνάγων ἀπὸ τῆς ψυχῆς αὐτοῦ συνάγει ἄλλοις, καὶ ἐν τοῖς ἀγαθοῖς αὐτοῦ τρυφήσουσιν ἕτεροι."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "66.11",
+    "form": "τρυφήσητε",
+    "postag": "v2pasa---",
+    "sentence": "εὐφράνθητι, Ἱερουσαλήμ, καὶ πανηγυρίσατε ἐν αὐτῇ, πάντες οἱ ἀγαπῶντες αὐτήν, χάρητε ἅμα αὐτῇ χαρᾷ, πάντες ὅσοι πενθεῖτε ἐπ’ αὐτῇ, ἵνα θηλάσητε καὶ ἐμπλησθῆτε ἀπὸ μαστοῦ παρακλήσεως αὐτῆς, ἵνα ἐκθηλάσαντες τρυφήσητε ἀπὸ εἰσόδου δόξης αὐτῆς."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 12,
+  "works": {
+   "Hermas, Pastor": 12
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "23.5.5",
+    "form": "τρυφᾷ",
+    "postag": "v3spia---",
+    "sentence": "τρυφᾷ οὖν ἐπὶ τῇ πράξει αὐτοῦ."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "23.4.4",
+    "form": "τρυφήσῃ",
+    "postag": "v3sasa---",
+    "sentence": "ὅσας οὖν ἡμέρας τρυφήσῃ τις, τοσούτους ἐνιαυτοὺς βασανίζεται."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "23.5.7",
+    "form": "τρυφῶσι",
+    "postag": "v3ppia---",
+    "sentence": "πολλοὶ γὰρ ἀγαθὸν ἐργαζόμενοι τρυφῶσι τῇ ἑαυτῶν ἡδονῇ φερόμενοι."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "23.4.2",
+    "form": "τρυφῶντας",
+    "postag": "v-pppama-",
+    "sentence": "ἔδει γὰρ τοὺς οὕτω τρυφῶντας καὶ ἐπιλανθανομένους τοῦ θεοῦ ἑπταπλασίως βασανίζεσθαι."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "23.4.1",
+    "form": "τρυφῶντες",
+    "postag": "v-pppamn-",
+    "sentence": "εἰ ἄρα, φημί, κύριε, τὸν αὐτὸν χρόνον βασανίζονται οἱ τρυφῶντες καὶ ἀπατώμενοι, ὅσον τρυφῶσι καὶ ἀπατῶνται;"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "23.5.4",
+    "form": "τρυφῶν",
+    "postag": "v-sppamn-",
+    "sentence": "πᾶς οὖν ἄνθρωπος ὁ τρυφῶν καὶ ἀπατώμενος οὕτω βασανίζεται, ὅτι ἔχοντες ζωὴν εἰς θάνατον ἑαυτοὺς παραδεδώκασι."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "23.1.6",
+    "form": "τρυφῶντα",
+    "postag": "v-pppann-",
+    "sentence": "ἔβοσκε δὲ πρόβατα πολλὰ λίαν, καὶ τὰ πρόβατα ταῦτα ὡσεὶ τρυφῶντα ἦν καὶ λίαν σπαταλῶντα καὶ ἱλαρὰ ἦν σκιρτῶντα ὧδε κα-κἀκεῖσε ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "23.5.5",
+    "form": "τρυφᾷ",
+    "postag": "v3spia---",
+    "sentence": "καὶ γὰρ ὁ ὀξύχολος τῷ ἑαυτοῦ πάθει τὸ ἱκανὸν ποιῶν τρυφᾷ ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1 τρυφάω, -ῶ    (< τρυφή),    [in LXX: Ne 9:25 (עָדַן hithp.), Is 66:11 (עָנַג hithp.), Si 14:4 * ;]    to live daintily, luxuriously, to fare sumptuously: Ja 5:5 (cf. ἐν-τρυφάω).†   SYN.: σπαταλάω (q.v.), στρηνιάω"
+}

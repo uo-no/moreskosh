@@ -1,0 +1,51 @@
+{
+ "strong": "G5324",
+ "lemma": "φαντάζομαι",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": "φανταζω",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "HEB 12:21",
+   "form": "φανταζόμενον",
+   "morph": "V-PPP-NSN",
+   "gloss_en": "sight",
+   "gloss_ja": "現れる",
+   "verse": "καί, οὕτω φοβερὸν ἦν τὸ φανταζόμενον, Μωϋσῆς εἶπεν· Ἔκφοβός εἰμι καὶ ἔντρομος."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Sapientia Salomonis": 1,
+   "Ecclesiasticus sive Siracides": 1
+  },
+  "representatives": [
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "6.16",
+    "form": "φαντάζεται",
+    "postag": "v3spim---",
+    "sentence": "ὅτι τοὺς ἀξίους αὐτῆς αὕτη περιέρχεται ζητοῦσα καὶ ἐν ταῖς τρίβοις φαντάζεται αὐτοῖς εὐμενῶς καὶ ἐν πάσῃ ἐπινοίᾳ ὑπαντᾷ αὐτοῖς."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "34.5",
+    "form": "φαντάζεται",
+    "postag": "v3spim---",
+    "sentence": "μαντεῖαι καὶ οἰωνισμοὶ καὶ ἐνύπνια μάταιά ἐστι, καὶ ὡς ὠδινούσης φαντάζεται καρδία."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1 ** φαντάζω        (< φαίνω)    [in LXX: Wi 6:16, Si 31 (34):5* ;]     to make visible. In cl. used in pass. only, = φαίνομαι, to become visible, appear: ptcp., He 12:21.†"
+}

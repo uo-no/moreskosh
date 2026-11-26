@@ -1,0 +1,61 @@
+{
+ "strong": "G4981",
+ "lemma": "σχολή",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 19:9",
+   "form": "σχολῇ",
+   "morph": "N-DSF",
+   "gloss_en": "lecture hall",
+   "gloss_ja": "学校",
+   "verse": "ὡς δέ τινες ἐσκληρύνοντο καὶ ἠπείθουν κακολογοῦντες τὴν ὁδὸν ἐνώπιον τοῦ πλήθους, ἀποστὰς ἀπ’ αὐτῶν ἀφώρισεν τοὺς μαθητάς, καθ’ ἡμέραν διαλεγόμενος ἐν τῇ σχολῇ Τυράννου."
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Genesis": 1,
+   "Proverbia": 1,
+   "Ecclesiasticus sive Siracides": 1
+  },
+  "representatives": [
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "33.14",
+    "form": "σχολὴν",
+    "postag": "n-s---fa-",
+    "sentence": "προελθέτω ὁ κύριός μου ἔμπροσθεν τοῦ παιδὸς αὐτοῦ, ἐγὼ δὲ ἐνισχύσω ἐν τῇ ὁδῷ κατὰ σχολὴν τῆς πορεύσεως τῆς ἐναντίον μου καὶ κατὰ πόδα τῶν παιδαρίων, ἕως τοῦ ἐλθεῖν με πρὸς τὸν κύριόν μου εἰς Σηείρ."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "28.19",
+    "form": "σχολὴν",
+    "postag": "n-s---fa-",
+    "sentence": "ὁ ἐργαζόμενος τὴν ἑαυτοῦ γῆν πλησθήσεται ἄρτων, ὁ δὲ διώκων σχολὴν πλησθήσεται πενίας."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "38.24",
+    "form": "σχολῆς",
+    "postag": "n-s---fg-",
+    "sentence": "σοφία γραμματέως ἐν εὐκαιρίᾳ σχολῆς, καὶ ὁ ἐλασσούμενος πράξει αὐτοῦ σοφισθήσεται."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1 σχολή, -ῆς, ἡ     [in LXX: Ge 33:14 (κατὰ σ., לְאִטִּי), Pr 28:19, Si 38:24 * ;]     leisure.      Later (from Plato on),    that for which leisure is employed, a disputation, lecture;    the place where lectures are delivered, a school: Ac 19:9 (for the later sense of employment, v. MM, xxiv).†"
+}

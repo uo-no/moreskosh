@@ -1,0 +1,60 @@
+{
+ "strong": "G496",
+ "lemma": "ἀντιπίπτω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 7:51",
+   "form": "ἀντιπίπτετε",
+   "morph": "V-PAI-2P",
+   "gloss_en": "resist",
+   "gloss_ja": "逆らう",
+   "verse": "Σκληροτράχηλοι καὶ ἀπερίτμητοι καρδίαις καὶ τοῖς ὠσίν, ὑμεῖς ἀεὶ τῷ πνεύματι τῷ ἁγίῳ ἀντιπίπτετε, ὡς οἱ πατέρες ὑμῶν καὶ ὑμεῖς."
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Exodus": 2,
+   "Numeri": 1
+  },
+  "representatives": [
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "26.17",
+    "form": "ἀντιπίπτοντας",
+    "postag": "v-pppama-",
+    "sentence": "δύο ἀγκωνίσκους τῷ στύλῳ τῷ ἑνί, ἀντιπίπτοντας ἕτερον τῷ ἑτέρῳ."
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "27.14",
+    "form": "ἀντιπίπτειν",
+    "postag": "v--pna---",
+    "sentence": "καὶ ὄψῃ αὐτὴν καὶ προστεθήσῃ πρὸς τὸν λαόν σου καὶ σύ, καθὰ προσετέθη Ἀαρὼν ὁ ἀδελφός σου ἐν Ὢρ τῷ ὄρει, διότι παρέβητε τὸ ρῆμά μου ἐν τῇ ἐρήμῳ Σὶν ἐν τῷ ἀντιπίπτειν τὴν συναγωγὴν ἁγιάσαι με ·"
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "26.5",
+    "form": "ἀντιπίπτουσαι",
+    "postag": "v-pppafn-",
+    "sentence": "πεντήκοντα ἀγκύλας ποιήσεις τῇ αὐλαίᾳ τῇ μιᾷ, καὶ πεντήκοντα ἀγκύλας ποιήσεις ἐκ τοῦ μέρους τῆς αὐλαίας κατὰ τὴν συμβολὴν τῆς δευτέρας, ἀντιπρόσωποι ἀντιπίπτουσαι ἀλλήλαις εἰς ἑκάστην."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1   ἀντι-πίπτω,    [in LXX: Ex 26:5 (קבל), Ex 26:17 (שׁלב), Nu 27:14 (מְרִיבָה), Jb 23:13 (שׁוּב hi.)*;]      to fall against or upon (Arist., Polyb.).     to strive against, resist (Arist.): c. dat., Ac 7:51."
+}

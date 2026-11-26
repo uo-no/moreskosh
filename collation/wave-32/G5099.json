@@ -1,0 +1,99 @@
+{
+ "strong": "G5099",
+ "lemma": "τίνω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2TH 1:9",
+   "form": "τίσουσιν",
+   "morph": "V-FAI-3P",
+   "gloss_en": "pay",
+   "gloss_ja": "罰を受ける",
+   "verse": "οἵτινες δίκην τίσουσιν ὄλεθρον αἰώνιον ἀπὸ προσώπου τοῦ κυρίου καὶ ἀπὸ τῆς δόξης τῆς ἰσχύος αὐτοῦ,"
+  }
+ ],
+ "lxx": {
+  "total": 4,
+  "works": {
+   "Proverbia": 4
+  },
+  "representatives": [
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "20.9γ",
+    "form": "τίσομαι",
+    "postag": "v1sfim---",
+    "sentence": "τίσομαι τὸν ἐχθρόν, ἀλλ’ ὑπόμεινον τὸν Κύριον, ἵνα σοι βοηθήσῃ."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "24.22",
+    "form": "τίσονται",
+    "postag": "v3pfim---",
+    "sentence": "ἐξαίφνης γὰρ τίσονται τοὺς ἀσεβεῖς, τὰς δὲ τιμωρίας ἀμφοτέρων τίς γνώσεται;"
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "27.12",
+    "form": "τίσουσιν",
+    "postag": "v3pfia---",
+    "sentence": "πανοῦργος κακῶν ἐπερχομένων ἀπεκρύβη, ἄφρονες δὲ ἐπελθόντες ζημίαν τίσουσιν."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "24b.29",
+    "form": "τίσομαι",
+    "postag": "v1sfim---",
+    "sentence": "ὃν τρόπον ἐχρήσατό μοι, χρήσομαι αὐτῷ, τίσομαι δὲ αὐτὸν ἅ με ἠδίκησεν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 3,
+  "works": {
+   "1 Clement": 1,
+   "Hermas, Pastor": 2
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.19.3",
+    "form": "τίσουσι",
+    "postag": "v3pfia---",
+    "sentence": "ἀλλὰ τίσουσι δίκην τινά ·"
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "46.8",
+    "form": "τισθῆναι",
+    "postag": "v--anp---",
+    "sentence": "καλὸν ἦν αὐτῷ, εἰ οὐκ ἐγεννήθη, ἦ ἕνα τῶν ἐκλεκτῶν μου σκανδαλίσαι κρεῖττον ἢν αὐτῷ περιτεθῆναι μύλον καὶ καταπον τισθῆναι εἰς τὴν θάλασσαν, ἢ ἕνα τῶν ἐκλεκτῶν μου διαστρέψαι."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "7.1.5",
+    "form": "τίσουσιν",
+    "postag": "v3pfia---",
+    "sentence": "οἱ μὲν γὰρ λαμβάνοντες θλιβόμενοι οὐ δικασθήσονται, οἱ δὲ ἐν ὑποκρίσει λαμβάνοντες τίσουσιν δίκην."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1 τίνω     [in LXX: Pr 27:12 (τ. ζημίαν, for עָנַשׁ ni.), etc. ;]    to pay: τ. δίκην (cf. Pr, l.c.), to pay penalty, II Th 1:9 (v. M, Th., in l.).†"
+}

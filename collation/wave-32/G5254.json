@@ -1,0 +1,83 @@
+{
+ "strong": "G5254",
+ "lemma": "ὑπέχω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "JUD 1:7",
+   "form": "ὑπέχουσαι",
+   "morph": "V-PAP-NPF",
+   "gloss_en": "undergoing",
+   "gloss_ja": "受ける",
+   "verse": "ὡς Σόδομα καὶ Γόμορρα καὶ αἱ περὶ αὐτὰς πόλεις, τὸν ὅμοιον τρόπον τούτοις ἐκπορνεύσασαι καὶ ἀπελθοῦσαι ὀπίσω σαρκὸς ἑτέρας, πρόκεινται δεῖγμα πυρὸς αἰωνίου δίκην ὑπέχουσαι."
+  }
+ ],
+ "lxx": {
+  "total": 4,
+  "works": {
+   "Machabaeorum ii": 1,
+   "Psalmi": 1,
+   "Psalmi Salomonis": 1,
+   "Threni seu Lamentationes": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "4.48",
+    "form": "ὑπέσχον",
+    "postag": "v3paia---",
+    "sentence": "ταχέως οὖν τὴν ἄδικον ζημίαν ὑπέσχον οἱ ὑπὲρ πόλεως καὶ δήμων καὶ τῶν ἱερῶν σκευῶν προαγορεύσαντες."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "88.51",
+    "form": "ὑπέσχον",
+    "postag": "v3paia---",
+    "sentence": "μνήσθητι, Κύριε, τοῦ ὀνειδισμοῦ τῶν δούλων σου, οὗ ὑπέσχον ἐν τῷ κόλπῳ πολλῶν ἐθνῶν, οὗ ὠνείδισαν οἱ ἐχθροί σου, Κύριε, οὗ ὠνείδισαν τὸ ἀντάλλαγμα τοῦ χριστοῦ σου."
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "16.13",
+    "form": "ὑφέξεται",
+    "postag": "v3sfim---",
+    "sentence": "ὅτι ἐὰν μὴ σὺ ἐνισχύσῃς, τίς ὑφέξεται παιδείαν ἐν πενίᾳ;"
+   },
+   {
+    "work_code": "LAM",
+    "work_ja": "哀歌",
+    "work_src": "Threni seu Lamentationes",
+    "ref": "5.7",
+    "form": "ὑπέσχομεν",
+    "postag": "v1paia---",
+    "sentence": "ἡμεῖς τὰ ἀνομήματα αὐτῶν ὑπέσχομεν."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Martyrdom of Polycarp": 1
+  },
+  "representatives": [
+   {
+    "work_code": "MPO",
+    "work_ja": "ポリュカルポスの殉教",
+    "work_src": "Martyrdom of Polycarp",
+    "ref": "6.2",
+    "form": "ὑπόσχοιεν",
+    "postag": "v3paoa---",
+    "sentence": "ἦν γὰρ καὶ ἀδύνατον λαθεῖν αὐτόν, ἐπεὶ καὶ οἱ προδιδόντες αὐτὸν οἰκεῖοι ὑπῆρχον, καὶ ὁ εἰρήναρχος, ὁ κεκληρωμένος τὸ αὐτὸ ὄνομα, Ἡρώδης ἐπιλεγόμενος, ἔσπευδεν εἰς τὸ στάδιον αὐτὸν εἰσαγαγεῖν, ἵνα ἐκεῖνος μὲν τὸν ἴδιον κλῆρον ἀπαρτίσῃ Χριστοῦ κοινωνὸς γενόμενος, οἱ δὲ προδόντες αὐτὸν τὴν αὐτοῦ τοῦ Ἰούδα ὑπόσχοιεν τιμωρίαν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1 (KJV) ὑπ-έχω     [in LXX: Ps 88 (89):50 (נָשָׂא), La 5:7 (סָבַל), Wi 12:21, II Mac 4:48 * ;]     to hold or put under. Metaph., to undergo, suffer: δίκην, Ju 7 (Soph., Eur., al.).†"
+}

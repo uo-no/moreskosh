@@ -1,0 +1,53 @@
+{
+ "strong": "G4925",
+ "lemma": "συνοικοδομέω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "EPH 2:22",
+   "form": "συνοικοδομεῖσθε",
+   "morph": "V-PPI-2P",
+   "gloss_en": "built together",
+   "gloss_ja": "共に建てる",
+   "verse": "ἐν ᾧ καὶ ὑμεῖς συνοικοδομεῖσθε εἰς κατοικητήριον τοῦ θεοῦ ἐν πνεύματι."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Esdras i": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1ES",
+    "work_ja": "エズラ記（ギリシャ語）",
+    "work_src": "Esdras i",
+    "ref": "5.65",
+    "form": "συνοικοδομήσωμεν",
+    "postag": "v1pasa---",
+    "sentence": "συνοικοδομήσωμεν ὑμῖν ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Hermas, Pastor": 1
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.16.7",
+    "form": "συνῳκοδομήθησαν",
+    "postag": "v3paip---",
+    "sentence": "διὰ τοῦτο καὶ συνανέβησαν μετ’ αὐτῶν, καὶ συνηρμόσθησαν εἰς τὴν οἰκοδομὴν τοῦ πύργου, καὶ ἀλατόμητοι συνῳκοδομήθησαν ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1 ** συν-οικοδομέω, -ῶ     [in LXX: I Es 5:68 * ;]     to build together or with (c. dat. pers., I Es, l.c.).    Of various materials, to build up together (Thuc., al.): metaph., of Christians, Eph 2:22.†"
+}

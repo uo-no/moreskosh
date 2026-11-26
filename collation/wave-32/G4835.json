@@ -1,0 +1,59 @@
+{
+ "strong": "G4835",
+ "lemma": "συμπαθής",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1PE 3:8",
+   "form": "συμπαθεῖς",
+   "morph": "A-NPM",
+   "gloss_en": "sympathetic",
+   "gloss_ja": "同情する",
+   "verse": "Τὸ δὲ τέλος πάντες ὁμόφρονες, συμπαθεῖς, φιλάδελφοι, εὔσπλαγχνοι, ταπεινόφρονες,"
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Machabaeorum iv": 3
+  },
+  "representatives": [
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "13.23",
+    "form": "συμπαθοῦς",
+    "postag": "a-s---fg-",
+    "sentence": "οὕτως δὴ τοίνυν καθεστηκυίας συμπαθοῦς τῆς φιλαδελφίας, οἱ ἑπτὰ ἀδελφοὶ συμπαθέστερον ἔσχον τὴν πρὸς ἀλλήλους ὁμόνοιαν."
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "13.23",
+    "form": "συμπαθέστερον",
+    "postag": "a-s---nac",
+    "sentence": "οὕτως δὴ τοίνυν καθεστηκυίας συμπαθοῦς τῆς φιλαδελφίας, οἱ ἑπτὰ ἀδελφοὶ συμπαθέστερον ἔσχον τὴν πρὸς ἀλλήλους ὁμόνοιαν."
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "15.4",
+    "form": "συμπαθεστέρας",
+    "postag": "a-p---fac",
+    "sentence": "ψυχῆς τε καὶ μορφῆς ὁμοιότητα εἰς μικρὸν παιδὸς χαρακτῆρα θαυμάσιον ἐναποσφραγίζομεν, μάλιστα διὰ τὸ τῶν παθῶν τοῖς γεννηθεῖσι τὰς μητέρας τῶν πατέρων καθεστάναι συμπαθεστέρας."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1 συμπαθής, -ές        (< σύν, πάσχω)      [in LXX: Jb 29:25 A (אֹבֵל), IV Mac 5:25א, 13:23 15:4 * ;]     affected by like feelings, sympathetic: I Pe 3:8.    exciting sympathy (Jb, l.c.; Dion. H.).†"
+}

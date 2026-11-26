@@ -1,0 +1,60 @@
+{
+ "strong": "G4882",
+ "lemma": "συναποστέλλω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2CO 12:18",
+   "form": "συναπέστειλα",
+   "morph": "V-AAI-1S",
+   "gloss_en": "sent ~ with",
+   "gloss_ja": "共に遣わす",
+   "verse": "παρεκάλεσα Τίτον καὶ συναπέστειλα τὸν ἀδελφόν· μήτι ἐπλεονέκτησεν ὑμᾶς Τίτος; οὐ τῷ αὐτῷ πνεύματι περιεπατήσαμεν; οὐ τοῖς αὐτοῖς ἴχνεσιν;"
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Exodus": 2,
+   "Esdras i": 1
+  },
+  "representatives": [
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "33.12",
+    "form": "συναποστελεῖς",
+    "postag": "v2sfia---",
+    "sentence": "ἀνάγαγε τὸν λαὸν τοῦτον, σὺ δὲ οὐκ ἐδήλωσάς μοι, ὃν συναποστελεῖς μετ’ ἐμοῦ ·"
+   },
+   {
+    "work_code": "1ES",
+    "work_ja": "エズラ記（ギリシャ語）",
+    "work_src": "Esdras i",
+    "ref": "5.2",
+    "form": "συναπέστειλε",
+    "postag": "v3saia---",
+    "sentence": "καὶ Δαρεῖος συναπέστειλε μετ’ αὐτῶν ἱππεῖς χιλίους ἕως τοῦ ἀποκαταστῆσαι αὐτούς εἰς Ἱερουσαλὴμ μετ’ εἰρήνης καὶ μετὰ μουσικῶν τυμπάνων καὶ αὐλῶν ·"
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "33.2",
+    "form": "συναποστελῶ",
+    "postag": "v1sfia---",
+    "sentence": "καὶ συναποστελῶ τὸν ἄγγελόν μου πρὸ προσώπου σου, καὶ ἐκβαλεῖ τὸν Ἀμορραῖον καὶ Χετταῖον καὶ Φερεζαῖον καὶ Γεργεσαῖον καὶ Εὐαῖον καὶ Ἰεβουσαῖον καὶ Χαναναῖον."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1 συν-απο-στέλλω     [in LXX: Ex 33:2, 12 (שׁלח), I Es 5:2 * ;]     to send along with: c. acc., II Co 12:18 (cf. MM, xxiv).†"
+}

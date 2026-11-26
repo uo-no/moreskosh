@@ -1,0 +1,62 @@
+{
+ "strong": "G4985",
+ "lemma": "σωματικῶς",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": "σωματικος",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "COL 2:9",
+   "form": "σωματικῶς",
+   "morph": "ADV",
+   "gloss_en": "bodily",
+   "gloss_ja": "肉体的に",
+   "verse": "ὅτι ἐν αὐτῷ κατοικεῖ πᾶν τὸ πλήρωμα τῆς θεότητος σωματικῶς,"
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Machabaeorum iv": 2
+  },
+  "representatives": [
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "3.1",
+    "form": "σωματικῶν",
+    "postag": "a-p---ng-",
+    "sentence": "οὐ γὰρ τῶν ἑαυτοῦ παθῶν ὁ λογισμὸς ἐπικρατεῖν φαίνεται, ἀλλὰ τῶν σωματικῶν."
+   },
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "1.32",
+    "form": "σωματικαί",
+    "postag": "a-p---fn-",
+    "sentence": "σωφροσύνη δὴ τοίνην ἐστὶν ἐπικράτεια τῶν ἐπιθυμιῶν, τῶν δὲ ἐπιθυμιῶν αἱ μέν εἰσι ψυχικαί, αἱ δὲ σωματικαί, καὶ τούτων ἀμφοτέρων ὁ λογισμὸς ἐπικρατεῖν φαίνεται."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Didache": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DID",
+    "work_ja": "ディダケー",
+    "work_src": "Didache",
+    "ref": "1.4",
+    "form": "σωματικῶν",
+    "postag": "a-p---fg-",
+    "sentence": "ἀπέχου τῶν σαρκικῶν καὶ σωματικῶν ἐπιθυμιῶν ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1 * σωματικῶς      adv.,    bodily, corporeally: Col 2:9 (v. ICC, Lft., in l.).†"
+}

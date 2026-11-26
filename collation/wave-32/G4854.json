@@ -1,0 +1,61 @@
+{
+ "strong": "G4854",
+ "lemma": "σύμφυτος",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ROM 6:5",
+   "form": "σύμφυτοι",
+   "morph": "A-NPM",
+   "gloss_en": "united with",
+   "gloss_ja": "一体となった",
+   "verse": "Εἰ γὰρ σύμφυτοι γεγόναμεν τῷ ὁμοιώματι τοῦ θανάτου αὐτοῦ, ἀλλὰ καὶ τῆς ἀναστάσεως ἐσόμεθα·"
+  }
+ ],
+ "lxx": {
+  "total": 3,
+  "works": {
+   "Machabaeorum iii": 1,
+   "Amos": 1,
+   "Zacharias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "3.22",
+    "form": "συμφύτῳ",
+    "postag": "a-s---fd-",
+    "sentence": "οἱ δὲ το-τοὐναντίον ἐκδεχόμενοι καὶ τῇ συμφύτῳ κακοηθείᾳ τὸ καλὸν ἀπωσάμενοι, διηνεκῶς δὲ εἰς τὸ φαῦλον ἐκνεύοντες, οὐ μόνον ἀπεστρέψαντο τὴν ἀτίμητον πολιτείαν, ἀλλὰ καὶ βδελύσσονται λόγῳ τε καὶ σιγῇ τοὺς ἐν αὐτοῖς ὀλίγους πρὸς ἡμᾶς γνησίως διακειμένους, παρέκαστα ὑφορώμενοι διὰ τῆς δυσκλεεστάτης ἐμβιώσεως διὰ τάχους ἡμᾶς καταστρέψαι τὰ κατορθώματα."
+   },
+   {
+    "work_code": "AMO",
+    "work_ja": "アモス書",
+    "work_src": "Amos",
+    "ref": "9.13",
+    "form": "σύμφυτοι",
+    "postag": "a-p---mn-",
+    "sentence": "ἰδοὺ ἡμέραι ἔρχονται, λέγει Κύριος, καὶ καταλήψεται ὁ ἀμητὸς τὸν τρυγητόν, καὶ περκάσει ἡ σταφυλὴ ἐν τῷ σπόρῳ, καὶ ἀποσταλάξει τὰ ὄρη γλυκασμόν, καὶ πάντες οἱ βουνοὶ σύμφυτοι ἔσονται ·"
+   },
+   {
+    "work_code": "ZEC",
+    "work_ja": "ゼカリヤ書",
+    "work_src": "Zacharias",
+    "ref": "11.2",
+    "form": "σύμφυτος",
+    "postag": "a-s---mn-",
+    "sentence": "ὀλολύξατε, δρύες τῆς Βασανίτιδος, ὅτι κατεσπάσθη ὁ δρυμὸς ὁ σύμφυτος."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "1 σύμ-φυτος, -ον    (< συμφύω, to make to grow together)    [in LXX: Za 11:2 (בּצר), Es 7:7, 8א2, Am 9:13, III Mac 3:22 * ;]    congenital, innate (Plat., al.; III Mac, l.c.).    grown along with, united with: τ. ὁμοιώματι τ. θανάτου αὐτσῦ (v. Field, Notes, 155 f.), Ro 6:5.†"
+}

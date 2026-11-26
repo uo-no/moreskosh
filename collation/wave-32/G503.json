@@ -1,0 +1,63 @@
+{
+ "strong": "G503",
+ "lemma": "ἀντοφθαλμέω",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 27:15",
+   "form": "ἀντοφθαλμεῖν",
+   "morph": "V-PAN",
+   "gloss_en": "head into",
+   "gloss_ja": "直視する",
+   "verse": "συναρπασθέντος δὲ τοῦ πλοίου καὶ μὴ δυναμένου ἀντοφθαλμεῖν τῷ ἀνέμῳ ἐπιδόντες ἐφερόμεθα."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Sapientia Salomonis": 1
+  },
+  "representatives": [
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "12.14",
+    "form": "ἀντοφθαλμῆσαι",
+    "postag": "v--ana---",
+    "sentence": "οὔ-τε γὰρ Θεός ἐστι πλὴν σοῦ, ᾧ μέλει περὶ πάντων, ἵνα δείξῃς ὅτι οὐκ ἀδίκως ἔκρινας, οὔ-τε βασιλεὺς ἢ τύραννος ἀντοφθαλμῆσαι δυνήσεταί σοι περὶ ὧν ἐκόλασας."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 2,
+  "works": {
+   "Barnabas": 1,
+   "1 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "5.10",
+    "form": "ἀντοφθαλμῆσαι",
+    "postag": "v--ana---",
+    "sentence": "εἰ γὰρ μὴ ἦλθεν ἐν σαρκί, οὐ-δ’ ἄν πως οἱ ἄνθρωποι ἐσώθησαν βλέποντες αὐτόν, ὅτε τὸν μέλλοντα μὴ εἶναι ἥλιον, ἔργου τῶν χειρῶν αὐτοῦ ὑπάρχοντα, ἐμβλέποντες οὐκ ἰσχύουσιν εἰς τὰς ἀκτῖνας αὐτοῦ ἀντοφθαλμῆσαι ·"
+   },
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "34.1",
+    "form": "ἀντοφθαλμεῖ",
+    "postag": "v3spia---",
+    "sentence": "ὁ ἀγαθὸς ἐργάτης μετὰ παρρησίας λαμβάνει τὸν ἄρτον τοῦ ἔργου αὐτοῦ, ὁ νωθρὸς καὶ παρειμένος οὐκ ἀντοφθαλμεῖ τῷ ἐργοπαρέκτῃ αὐτοῦ, δέον οὖν ἐστὶν προθύμους ἡμᾶς εἶναι εἰς ἀγαθοποιΐαν ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   **† ἀντοφθαλμέω, -ῶ    (ἀντί, ὀφθαλμός),   [in LXX: Wi 12:14*;]    to look in the face, look straight at (Polyb.). Metaph., to face, withstand (Wi 12:14, Polyb.): c. dat., ἀ. τ. ἀνέμῳ, as nautical term, to beat up against the wind (v. DB, ext., 366 f.; MM, VGT, s.v.): Ac 27:15.†"
+}

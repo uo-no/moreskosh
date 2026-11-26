@@ -1,0 +1,157 @@
+{
+ "strong": "G521",
+ "lemma": "ἀπαίδευτος",
+ "nt_freq": 1,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2TI 2:23",
+   "form": "ἀπαιδεύτους",
+   "morph": "A-APF",
+   "gloss_en": "ignorant",
+   "gloss_ja": "無知な",
+   "verse": "τὰς δὲ μωρὰς καὶ ἀπαιδεύτους ζητήσεις παραιτοῦ, εἰδὼς ὅτι γεννῶσι μάχας·"
+  }
+ ],
+ "lxx": {
+  "total": 18,
+  "works": {
+   "Odae": 1,
+   "Proverbia": 7,
+   "Sapientia Salomonis": 1,
+   "Ecclesiasticus sive Siracides": 7,
+   "Sophonias": 1,
+   "Isaias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "8.5",
+    "form": "ἀπαίδευτοι",
+    "postag": "a-p---mn-",
+    "sentence": "νοήσατε, ἄκακοι, πανουργίαν, οἱ δὲ ἀπαίδευτοι ἔνθεσθε καρδίαν."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "8.4",
+    "form": "ἀπαιδεύτῳ",
+    "postag": "a-s---md-",
+    "sentence": "μὴ πρόσπαιζε ἀπαιδεύτῳ, ἵνα μὴ ἀτιμάζωνται οἱ πρόγονοί σου."
+   },
+   {
+    "work_code": "ODE",
+    "work_ja": "頌歌（オード）",
+    "work_src": "Odae",
+    "ref": "6.11",
+    "form": "ἀπαίδευτον",
+    "postag": "a-s---ma-",
+    "sentence": "ζῆλος λήμψεται λαὸν ἀπαίδευτον, καὶ νῦν πῦρ τοὺς ὑπεναντίους ἔδεται."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "17.1",
+    "form": "ἀπαίδευτοι",
+    "postag": "a-p---fn-",
+    "sentence": "διὰ τοῦτο ἀπαίδευτοι ψυχαὶ ἐπλανήθησαν."
+   },
+   {
+    "work_code": "ZEP",
+    "work_ja": "ゼファニヤ書",
+    "work_src": "Sophonias",
+    "ref": "2.1",
+    "form": "ἀπαίδευτον",
+    "postag": "a-s---nn-",
+    "sentence": "συνάχθητε καὶ συνδέθητε, τὸ ἔθνος τὸ ἀπαίδευτον, πρὸ τοῦ γενέσθαι ὑμᾶς ὡς ἄνθος παραπορευόμενον, πρὸ τοῦ ἐπελθεῖν ἐφ’ ὑμᾶς ὀργὴν Κυρίου, πρὸ τοῦ ἐπελθεῖν ἐφ’ ὑμᾶς ἡμέραν θυμοῦ Κυρίου."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "26.11",
+    "form": "ἀπαίδευτον",
+    "postag": "a-s---ma-",
+    "sentence": "ζῆλος λήψεται λαὸν ἀπαίδευτον, καὶ νῦν πῦρ τοὺς ὑπεναντίους ἔδεται."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "15.14",
+    "form": "ἀπαιδεύτων",
+    "postag": "a-p---mg-",
+    "sentence": "καρδία ὀρθὴ ζητεῖ αἴσθησιν, στόμα δὲ ἀπαιδεύτων γνώσεται κακά."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "22.3",
+    "form": "ἀπαιδεύτου",
+    "postag": "a-s---mg-",
+    "sentence": "αἰσχύνη πατρὸς ἐν γεννήσει ἀπαιδεύτου, θυγάτηρ δὲ ἐπ’ ἐλαττώσει γίνεται."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "24.8",
+    "form": "ἀπαιδεύτοις",
+    "postag": "a-p---md-",
+    "sentence": "ἀπαιδεύτοις συναντᾷ θάνατος, ἀποθνήσκει δὲ ἄφρων ἐν ἁμαρτίαις."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "10.3",
+    "form": "ἀπαίδευτος",
+    "postag": "a-s---mn-",
+    "sentence": "βασιλεὺς ἀπαίδευτος ἀπολεῖ τὸν λαὸν αὐτοῦ, καὶ πόλις οἰκισθήσεται ἐν συνέσει δυναστῶν."
+   },
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "27.20α",
+    "form": "ἀπαίδευτοι",
+    "postag": "a-p---mn-",
+    "sentence": "βδέλυγμα Κυρίῳ στηρίζων ὀφθαλμόν, καὶ οἱ ἀπαίδευτοι ἀκρατεῖς γλώσσῃ."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "20.24",
+    "form": "ἀπαιδεύτων",
+    "postag": "a-p---mg-",
+    "sentence": "— μῶμος πονηρὸς ἐν ἀνθρώπῳ ψεῦδος, ἐν στόματι ἀπαιδεύτων ἐνδελεχισθήσεται."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "1 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "39.1",
+    "form": "ἀπαίδευτοι",
+    "postag": "a-p---mn-",
+    "sentence": "ἅφρονες καὶ ἀσύνετοι καὶ μωροὶ καὶ ἀπαίδευτοι χλευάζουσιν ἡμᾶς καὶ μυκτηρίζουσιν, ἑαυτοὺς βουλόμενοι ἐπαίρεσθαι ταῖς διανοίαις αὐτῶν."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "1   ἀ-παίδευτος, -ον    (< παιδεύω),   [in LXX for כְּסִיל, etc., chiefly in Wi. lit.;]    uninstructed, ignorant: II Ti 2:23.†"
+}
