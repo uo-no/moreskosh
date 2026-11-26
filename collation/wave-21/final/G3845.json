@@ -1,0 +1,36 @@
+{
+  "strong": "G3845",
+  "lemma": "παραβαίνω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "違反する・踏み越える",
+      "def_ja": "踏み越える、違反する。『言い伝えに背くのか』『神の戒めを破るのか』。",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "マタイ15:2・15:3。LXX、教父に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "離れ去る",
+      "def_ja": "道から外れて去る。『ユダが…離れて』。",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒1:25。LXX、教父に並行。"
+    }
+  ],
+  "assignments": {
+    "ACT 1:25": 2,
+    "MAT 15:2": 1,
+    "MAT 15:3": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（違反／離反）による。"
+}
