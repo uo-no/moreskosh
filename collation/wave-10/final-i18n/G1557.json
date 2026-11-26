@@ -1,0 +1,71 @@
+{
+  "strong": "G1557",
+  "lemma": "ἐκδίκησις",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "報復／罰（悪に対する）",
+      "def_ja": "悪に対する報い、罰、報復。『主は罰を下される』『復讐は神のもの』『悪を行う者を罰する』『神を知らない者たちに報復する』『エルサレムの報復の日』。",
+      "label_en": "vengeance / punishment (for evil)",
+      "def_en": "Recompense, punishment, retribution for evil: “the Lord is an avenger”, “vengeance is God's”, “to punish those who do evil”, “inflicting vengeance on those who do not know God”, “the days of vengeance on Jerusalem”.",
+      "label_es": "venganza / castigo (del mal)",
+      "def_es": "Retribución, castigo por el mal: «el Señor es vengador», «mía es la venganza», «para castigo de los malhechores», «para dar retribución a los que no conocieron a Dios», «días de retribución sobre Jerusalén».",
+      "label_sv": "vedergällning / straff (för det onda)",
+      "def_sv": "Vedergällning och straff för ont: ”Herren är en hämnare”, ”hämnden är Guds”, ”straffa dem som gör ont”, ”straffa dem som inte känner Gud”, ”vedergällningens dagar över Jerusalem”.",
+      "layers": {
+        "nt": 5,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "Ⅱテサ1:8、ヘブル10:30、ルカ21:22、ローマ12:19、Ⅰペテロ2:14。語義2との境界は連続的。LXX の代表例（士師記9:1・Ⅰマカバイ）は用法の確認が不十分。教父の用例は無い。"
+    },
+    {
+      "n": 2,
+      "label_ja": "正しい裁き／申し立ての救済",
+      "def_ja": "不当な目に遭った者のための正義、仇を討つこと。『選民のために正当な裁きをしてくださる』『彼らのために速やかに裁いてくださる』『虐げられていた者の仇を討ち』。",
+      "label_en": "just judgment / vindication",
+      "def_en": "Justice for one who has been wronged, avenging: “will not God give justice to his elect?”, “he will give justice to them speedily”, “avenged the oppressed man”.",
+      "label_es": "justa sentencia / vindicación",
+      "def_es": "Justicia para el agraviado, vengar su causa: «¿acaso Dios no hará justicia a sus escogidos?», «pronto les hará justicia», «vengando al oprimido».",
+      "label_sv": "rättvis dom / upprättelse",
+      "def_sv": "Rättvisa åt den som lidit orätt: ”skulle inte Gud ge sina utvalda rätt?”, ”han ska snart skaffa dem rätt”, ”gav den misshandlade upprättelse”.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ルカ18:7・18:8、使徒7:24。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "正義を求める熱意",
+      "def_ja": "不正を正そうとする熱意。『報復を果たした』『正しくしようという熱心』（Ⅱコリ7:11）。",
+      "label_en": "zeal for justice",
+      "def_en": "Eagerness to set a wrong right: “what vengeance”, “what zeal to see justice done” (2 Cor 7:11).",
+      "label_es": "celo por la justicia",
+      "def_es": "Ardor por enderezar el agravio: «qué vindicación», «qué celo por hacer lo debido» (2 Co 7:11).",
+      "label_sv": "iver för rättvisa",
+      "def_sv": "Iver att rätta till det orätta: ”vilket krav på upprättelse” (2 Kor 7:11).",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "Ⅱコリ7:11 の1例のみ。語義1・2との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1PE 2:14": 1,
+    "2CO 7:11": 3,
+    "2TH 1:8": 1,
+    "ACT 7:24": 2,
+    "HEB 10:30": 1,
+    "LUK 18:7": 2,
+    "LUK 18:8": 2,
+    "LUK 21:22": 1,
+    "ROM 12:19": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（報復／正義／熱意）による。LXX の代表例は用法確認不十分、教父の用例は無い。"
+}

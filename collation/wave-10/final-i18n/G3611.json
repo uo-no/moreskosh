@@ -1,0 +1,54 @@
+{
+  "strong": "G3611",
+  "lemma": "οἰκέω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "住む／宿る",
+      "def_ja": "住む、宿る。『神の御霊があなたがたのうちに住んでいる』『わたしの内に住んでいる罪』『わたしの内に住んでいる善』『ひとり不死を保ち、近づけない光の中に住まわれる』『キリストを死人の中から復活させた方の御霊が住んでいる』。",
+      "label_en": "to dwell / live in",
+      "def_en": "To live, to dwell: “God's Spirit dwells in you”, “sin that dwells within me”, “good dwells in me”, “who alone has immortality, who dwells in unapproachable light”, “the Spirit of him who raised Christ from the dead dwells”.",
+      "label_es": "habitar / morar",
+      "def_es": "Vivir, morar: «el Espíritu de Dios mora en vosotros», «el pecado que mora en mí», «el bien mora en mí», «el único que tiene inmortalidad, que habita en luz inaccesible», «el Espíritu de aquel que levantó a Cristo de los muertos mora».",
+      "label_sv": "att bo / ha sin boning",
+      "def_sv": "Att bo och dväljas: ”Guds Ande bor i er”, ”synden som bor i mig”, ”det goda bor i mig”, ”han som ensam är odödlig och bor i ett ljus dit ingen kan komma”, ”Anden från honom som uppväckte Kristus från de döda bor”.",
+      "layers": {
+        "nt": 7,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰコリ3:16、ローマ7:17・7:18・7:20・8:9・8:11、Ⅰテモ6:16。LXX 士師記9:41・創世記、教父（6、5.1.2）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "共に暮らす（夫婦として）",
+      "def_ja": "共に暮らす、同居する。『妻が共に暮らすことを承知しているなら』『夫が共に暮らすことを承知しているなら』。",
+      "label_en": "to live together (as spouses)",
+      "def_en": "To live together, to share a home: “if she consents to live with him”, “if he consents to live with her”.",
+      "label_es": "cohabitar (como cónyuges)",
+      "def_es": "Vivir juntos, convivir: «si ella consiente en vivir con él», «si él consiente en vivir con ella».",
+      "label_sv": "att leva tillsammans (som makar)",
+      "def_sv": "Att sammanbo: ”om hustrun är villig att leva med honom”, ”om mannen är villig att leva med henne”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "Ⅰコリ7:12・7:13。語義1との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 3:16": 1,
+    "1CO 7:12": 2,
+    "1CO 7:13": 2,
+    "1TI 6:16": 1,
+    "ROM 7:17": 1,
+    "ROM 7:18": 1,
+    "ROM 7:20": 1,
+    "ROM 8:9": 1,
+    "ROM 8:11": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（住む／共に暮らす）による。"
+}

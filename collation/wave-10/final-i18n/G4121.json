@@ -1,0 +1,54 @@
+{
+  "strong": "G4121",
+  "lemma": "πλεονάζω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "増す／あふれる",
+      "def_ja": "増し加わる、あふれる、豊かになる。『互いの愛を増し加え』『感謝があふれ』『これらが豊かにあるなら』『互いの愛が増し加わり』『あなたがたの勘定に増し加えられる利益』『罪の増し加わるところには恵みも満ちあふれた』『罪にとどまるべきか』。",
+      "label_en": "to increase / abound",
+      "def_en": "To increase, overflow, grow rich: “make your love increase”, “thanksgiving abounds”, “if these things are yours and abound”, “your love for one another is increasing”, “the fruit that increases to your credit”, “where sin increased, grace abounded all the more”, “are we to continue in sin?”",
+      "label_es": "abundar / crecer",
+      "def_es": "Aumentar, rebosar, enriquecerse: «haga crecer vuestro amor», «la acción de gracias sobreabunde», «si estas cosas están en vosotros y abundan», «el amor de unos para con otros abunda», «fruto que abunde en vuestra cuenta», «cuando el pecado abundó, sobreabundó la gracia», «¿perseveraremos en el pecado?».",
+      "label_sv": "att öka / överflöda",
+      "def_sv": "Att tillta, flöda över, bli rik: ”låta er kärlek växa”, ”tacksägelsen överflödar”, ”om detta finns hos er och växer till”, ”er kärlek till varandra ökar”, ”vinsten som ökar er behållning”, ”där synden blev större överflödade nåden ännu mer”, ”ska vi bli kvar i synden?”.",
+      "layers": {
+        "nt": 8,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰテサ3:12、Ⅱコリ4:15・Ⅱペテロ1:8・Ⅱテサ1:3・ピリピ4:17、ローマ5:20（2回）・6:1。LXX 民数記26:54・出エジプト記26:12、教父（6、35.8）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "多く持つ（余る）",
+      "def_ja": "多すぎる、余る。『多く集めた者も余らず』（Ⅱコリ8:15）。",
+      "label_en": "to have too much (surplus)",
+      "def_en": "To have an excess, something left over: “whoever gathered much had nothing left over” (2 Cor 8:15).",
+      "label_es": "tener de más (sobrar)",
+      "def_es": "Tener en exceso: «el que recogió mucho no tuvo más» (2 Co 8:15).",
+      "label_sv": "att ha för mycket (överskott)",
+      "def_sv": "Att få något över: ”den som samlat mycket hade inget överflöd” (2 Kor 8:15).",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "Ⅱコリ8:15 の1例のみ。語義1との境界は連続的。LXX 出エジプト記16:18 に並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1TH 3:12": 1,
+    "2CO 4:15": 1,
+    "2CO 8:15": 2,
+    "2PE 1:8": 1,
+    "2TH 1:3": 1,
+    "PHP 4:17": 1,
+    "ROM 5:20#1": 1,
+    "ROM 5:20#2": 1,
+    "ROM 6:1": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。"
+}

@@ -1,0 +1,54 @@
+{
+  "strong": "G1788",
+  "lemma": "ἐντρέπω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "恥じ入らせる／恥ずかしく思う",
+      "def_ja": "恥じ入らせる、恥ずかしく思わせる、はずかしめる。『あなたがたに恥をかかせるためではない』『彼が恥じ入るように』『反対する者が恥じ入って』。",
+      "label_en": "to put to shame / be ashamed",
+      "def_en": "To make ashamed, to shame: “I do not write this to make you ashamed”, “that he may be ashamed”, “so that an opponent may be put to shame”.",
+      "label_es": "avergonzar / tener vergüenza",
+      "def_es": "Hacer sentir vergüenza, avergonzar: «no escribo esto para avergonzaros», «para que se avergüence», «de modo que el adversario se avergüence».",
+      "label_sv": "att få att skämmas / blygas",
+      "def_sv": "Att få någon att skämmas: ”jag skriver inte detta för att få er att skämmas”, ”så att han får skämmas”, ”så att motståndaren får stå med skam”.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰコリ4:14、Ⅱテサ3:14、テトス2:8。LXX 代表例（ホセア・イザヤ）・教父（3.3.2）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "敬う／重んじる",
+      "def_ja": "敬う、重んじる、恐れ敬う。『神も人も敬わない裁判官』『わたしの息子は敬うだろう』『肉の父がわたしたちを懲らしめたとき、これを敬った』『人を人とも思わない』。",
+      "label_en": "to respect / regard",
+      "def_en": "To respect, esteem, reverence: “a judge who neither feared God nor respected man”, “they will respect my son”, “we had earthly fathers who disciplined us and we respected them”, “has no regard for anyone”.",
+      "label_es": "respetar / tener en cuenta",
+      "def_es": "Respetar, estimar, reverenciar: «un juez que ni temía a Dios ni respetaba a hombre», «tendrán respeto a mi hijo», «nuestros padres terrenales nos disciplinaban y los venerábamos», «ni tengo respeto a hombre».",
+      "label_sv": "att respektera / ha aktning för",
+      "def_sv": "Att respektera, akta, vörda: ”en domare som varken fruktade Gud eller brydde sig om människor”, ”min son kommer de att ha respekt för”, ”våra jordiska fäder fostrade oss och vi hade respekt för dem”, ”inte bryr mig om någon människa”.",
+      "layers": {
+        "nt": 6,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヘブル12:9、ルカ18:2・18:4・20:13、マタイ21:37、マルコ12:6。LXX 代表例・教父（38.2）に並行。"
+    }
+  ],
+  "assignments": {
+    "1CO 4:14": 1,
+    "2TH 3:14": 1,
+    "HEB 12:9": 2,
+    "LUK 18:2": 2,
+    "LUK 18:4": 2,
+    "LUK 20:13": 2,
+    "MAT 21:37": 2,
+    "MRK 12:6": 2,
+    "TIT 2:8": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（恥じ入らせる／敬う）による。"
+}

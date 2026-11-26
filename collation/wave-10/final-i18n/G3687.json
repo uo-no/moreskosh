@@ -1,0 +1,54 @@
+{
+  "strong": "G3687",
+  "lemma": "ὀνομάζω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "名づける／名で呼ぶ",
+      "def_ja": "名づける、名で呼ぶ。『使徒と名づけられた』『すべての名にまさる名』『天と地にあるすべての家族がその名をつけられている』『名も口にしてはならない』『兄弟と呼ばれる者』『キリストの御名がまだ呼ばれていない所に』。",
+      "label_en": "to name / call by name",
+      "def_en": "To give a name, to call by name: “whom he named apostles”, “the name that is above every name”, “every family in heaven and on earth is named”, “must not even be named”, “one who bears the name of brother”, “where Christ has not already been named”.",
+      "label_es": "nombrar / llamar por nombre",
+      "def_es": "Dar nombre, llamar por el nombre: «a los cuales llamó apóstoles», «sobre todo nombre que se nombra», «toda familia en los cielos y en la tierra toma nombre», «ni aun se nombre», «el que llamándose hermano», «donde Cristo no hubiese sido nombrado».",
+      "label_sv": "att benämna / kalla vid namn",
+      "def_sv": "Att ge namn, kalla vid namn: ”som han gav namnet apostlar”, ”över alla namn som kan nämnas”, ”allt vad fader heter i himlen och på jorden har sitt namn”, ”får inte ens nämnas”, ”en som kallas broder”, ”där Kristi namn inte redan är känt”.",
+      "layers": {
+        "nt": 7,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ6:13・6:14、Ⅰコリ5:11、エペソ1:21・3:15・5:3、ローマ15:20。LXX 創世記・出エジプト記20:9 に並行。教父の用例は無い。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "名を唱える／呼び求める",
+      "def_ja": "名を唱える、名を唱えて呼ぶ。『主の名を唱える者』『悪霊につかれた者たちに主イエスの名を唱え』。",
+      "label_en": "to pronounce the name / invoke",
+      "def_en": "To utter a name, to call by invoking it: “everyone who names the name of the Lord”, “tried to invoke the name of the Lord Jesus over those who had evil spirits”.",
+      "label_es": "pronunciar el nombre / invocar",
+      "def_es": "Pronunciar el nombre, invocarlo: «todo aquel que invoca el nombre de Cristo», «intentaron invocar el nombre del Señor Jesús sobre los que tenían espíritus malos».",
+      "label_sv": "att nämna namnet / åkalla",
+      "def_sv": "Att uttala namnet och åkalla det: ”var och en som nämner Herrens namn”, ”försökte uttala Herren Jesu namn över dem som hade onda andar”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒19:13、Ⅱテモ2:19。語義1との境界は連続的。LXX 代表例に並行。教父の用例は無い。"
+    }
+  ],
+  "assignments": {
+    "1CO 5:11": 1,
+    "2TI 2:19": 2,
+    "ACT 19:13": 2,
+    "EPH 1:21": 1,
+    "EPH 3:15": 1,
+    "EPH 5:3": 1,
+    "LUK 6:13": 1,
+    "LUK 6:14": 1,
+    "ROM 15:20": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（名づける／名を唱える）による。教父の用例は無い。"
+}

@@ -1,0 +1,54 @@
+{
+  "strong": "G3544",
+  "lemma": "νομικός",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "律法の専門家",
+      "def_ja": "律法に通じた人、律法の専門家。『律法の専門家が立って』『律法学者たちやパリサイ人たちに』『律法の専門家たちも』『律法の専門家たち、あなたがたも災いだ』『律法の専門家は知識のかぎを取り上げた』『パリサイ派と律法の専門家』『ゼナスと律法の専門家』。",
+      "label_en": "lawyer / expert in the law",
+      "def_en": "One versed in the law, an expert in the law: “a lawyer stood up”, “the Pharisees and the lawyers”, “the lawyers also”, “woe to you lawyers”, “the lawyers have taken away the key of knowledge”, “Pharisees and lawyers”, “Zenas the lawyer”.",
+      "label_es": "intérprete de la ley",
+      "def_es": "Entendido en la ley, doctor de la ley: «un intérprete de la ley se levantó», «los fariseos y los intérpretes de la ley», «también los intérpretes de la ley», «¡ay de vosotros, intérpretes de la ley!», «habéis quitado la llave de la ciencia», «fariseos e intérpretes de la ley», «Zenas, intérprete de la ley».",
+      "label_sv": "laglärd",
+      "def_sv": "En som är kunnig i lagen: ”en laglärd reste sig”, ”fariseerna och de laglärda”, ”också de laglärda”, ”ve er, ni laglärda”, ”de laglärda har tagit bort nyckeln till kunskapen”, ”fariseer och laglärda”, ”Zenas, den laglärde”.",
+      "layers": {
+        "nt": 8,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ10:25・14:3・11:45・11:46・11:52・7:30、マタイ22:35、テトス3:13。LXX Ⅳマカバイ5:4 に並行。教父の用例は無い。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "律法に関する（形容）",
+      "def_ja": "律法に関する、律法をめぐる。『律法についての争い』（テトス3:9）。",
+      "label_en": "about the law (adjective)",
+      "def_en": "Concerning the law, about the law: “quarrels about the law” (Titus 3:9).",
+      "label_es": "acerca de la ley (adjetivo)",
+      "def_es": "Relativo a la ley: «discusiones acerca de la ley» (Tit 3:9).",
+      "label_sv": "rörande lagen (adjektiv)",
+      "def_sv": "Som gäller lagen: ”tvister om lagen” (Tit 3:9).",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "テトス3:9 の1例のみ。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "LUK 10:25": 1,
+    "LUK 14:3": 1,
+    "LUK 11:45": 1,
+    "LUK 11:46": 1,
+    "LUK 11:52": 1,
+    "LUK 7:30": 1,
+    "MAT 22:35": 1,
+    "TIT 3:9": 2,
+    "TIT 3:13": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（人／形容）による。教父の用例は無い。"
+}

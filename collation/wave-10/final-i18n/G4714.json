@@ -1,0 +1,54 @@
+{
+  "strong": "G4714",
+  "lemma": "στάσις",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "紛争／暴動／反乱",
+      "def_ja": "争い、暴動、反乱、反逆。『激しい対立と論争が起こった』『暴動の罪に問われる』『騒ぎを起こしている』『パリサイ人とサドカイ人との間に争いが起こり』『争いが激しくなった』『暴動と殺人のかどで投獄されていた』『暴動を起こした者たち』。",
+      "label_en": "strife / riot / rebellion",
+      "def_en": "Dispute, riot, rebellion, revolt: “a sharp dissension and debate arose”, “in danger of being charged with rioting”, “one who stirs up riots”, “a dissension arose between Pharisees and Sadducees”, “the dissension became violent”, “thrown into prison for insurrection and murder”, “the rebels who had committed insurrection”.",
+      "label_es": "disensión / motín / insurrección",
+      "def_es": "Contienda, motín, rebelión, alzamiento: «una discusión y contienda no pequeña», «peligro de ser acusados de sedición», «promotor de sediciones», «se produjo disensión entre los fariseos y los saduceos», «habiendo grande disensión», «encarcelado por sedición y homicidio», «los amotinados».",
+      "label_sv": "strid / upplopp / uppror",
+      "def_sv": "Tvist, upplopp, uppror, revolt: ”det uppstod en häftig strid och diskussion”, ”risk att anklagas för upplopp”, ”en som anstiftar oroligheter”, ”det blev strid mellan fariseer och saddukeer”, ”striden blev häftig”, ”fängslad för upplopp och mord”, ”upprorsmännen”.",
+      "layers": {
+        "nt": 8,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒15:2・19:40・24:5・23:7・23:10、ルカ23:19・23:25、マルコ15:7。LXX 詩篇・Ⅱマカバイ、教父（46.9、51.1）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "立つこと／立場",
+      "def_ja": "立っていること、存立。『最初の幕屋が存続している間は』（ヘブル9:8）。",
+      "label_en": "standing / position",
+      "def_en": "Standing, continued existence: “as long as the first tent is still standing” (Heb 9:8).",
+      "label_es": "estar en pie / existencia",
+      "def_es": "El estar en pie, subsistir: «entre tanto que la primera parte del tabernáculo estuviese en pie» (He 9:8).",
+      "label_sv": "att bestå / stå kvar",
+      "def_sv": "Att stå och äga bestånd: ”så länge det främre tältet står kvar” (Heb 9:8).",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヘブル9:8 の1例のみ。語義1との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 15:2": 1,
+    "ACT 19:40": 1,
+    "ACT 24:5": 1,
+    "ACT 23:7": 1,
+    "ACT 23:10": 1,
+    "HEB 9:8": 2,
+    "LUK 23:19": 1,
+    "LUK 23:25": 1,
+    "MRK 15:7": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（紛争／存立）による。"
+}

@@ -1,0 +1,54 @@
+{
+  "strong": "G4376",
+  "lemma": "προσφορά",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "ささげ物（いけにえ）",
+      "def_ja": "ささげ物、いけにえ。『それぞれのために供え物がささげられるまで』『香ばしいかおりのいけにえ』『供え物と献げ物』『一つのささげ物によって』『罪のためのささげ物はもうない』。",
+      "label_en": "offering (sacrifice)",
+      "def_en": "An offering, a sacrifice: “until the offering was presented for each one”, “a fragrant offering and sacrifice”, “sacrifices and offerings”, “by a single offering”, “there is no longer any offering for sin”.",
+      "label_es": "ofrenda (sacrificio)",
+      "def_es": "Ofrenda, sacrificio: «cuando había de presentarse la ofrenda por cada uno», «ofrenda y sacrificio a Dios en olor fragante», «sacrificio y ofrenda», «con una sola ofrenda», «no hay más ofrenda por el pecado».",
+      "label_sv": "offer (offergåva)",
+      "def_sv": "En offergåva, ett offer: ”tills offret hade burits fram för var och en”, ”en väldoftande offergåva”, ”offer och gåvor”, ”med ett enda offer”, ”det finns inte längre något offer för synd”.",
+      "layers": {
+        "nt": 7,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒21:26、エペソ5:2、ヘブル10:5・10:8・10:10・10:14・10:18。LXX 箴言35:5・Ⅲ列王記7:48、教父（40.4、2.4）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "献金／奉納物",
+      "def_ja": "施し・奉納物。『施しと供え物をするため』『異邦人がささげる供え物』。",
+      "label_en": "contribution / offering of money",
+      "def_en": "Alms, a gift presented: “to bring alms and offerings”, “the offering of the Gentiles”.",
+      "label_es": "limosna / contribución",
+      "def_es": "Dádivas y ofrendas: «a hacer limosnas y presentar ofrendas», «la ofrenda de los gentiles».",
+      "label_sv": "gåva / offergåva i pengar",
+      "def_sv": "Allmosor och gåvor: ”för att överlämna gåvor och frambära offer”, ”hedningarnas offergåva”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒24:17、ローマ15:16。語義1との境界は連続的。LXX 代表例・教父に並行。"
+    }
+  ],
+  "assignments": {
+    "ACT 24:17": 2,
+    "ACT 21:26": 1,
+    "EPH 5:2": 1,
+    "HEB 10:5": 1,
+    "HEB 10:8": 1,
+    "HEB 10:10": 1,
+    "HEB 10:14": 1,
+    "HEB 10:18": 1,
+    "ROM 15:16": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（いけにえ／献金・奉納）による。"
+}

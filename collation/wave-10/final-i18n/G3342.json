@@ -1,0 +1,54 @@
+{
+  "strong": "G3342",
+  "lemma": "μεταξύ",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "〜の間に／〜の間で",
+      "def_ja": "〜の間に、〜の間で。『二人の兵士の間』『わたしたちと彼らとの間』『聖所と祭壇の間』『二人だけのところで』『大きな淵が置かれて』『互いに責めたり弁護し合ったり』。",
+      "label_en": "between / among",
+      "def_en": "Between, among: “between two soldiers”, “between us and you”, “between the sanctuary and the altar”, “between you and him alone”, “a great chasm has been fixed”, “their thoughts accusing or excusing between themselves”.",
+      "label_es": "entre",
+      "def_es": "Entre, en medio de: «entre dos soldados», «entre nosotros y vosotros», «entre el templo y el altar», «estando tú y él solos», «una gran sima está puesta», «acusándoles o defendiéndoles entre sí».",
+      "label_sv": "mellan",
+      "def_sv": "Mellan, emellan: ”mellan två soldater”, ”mellan oss och er”, ”mellan templet och altaret”, ”mellan fyra ögon”, ”en stor klyfta är satt”, ”anklagar eller försvarar dem sinsemellan”.",
+      "layers": {
+        "nt": 7,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒12:6・15:9、ルカ11:51・16:26、マタイ18:15・23:35、ローマ2:15。LXX 創世記31:50・Ⅱマカバイ、教父（5.7.1、63.3）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "その間に／次の（時）",
+      "def_ja": "時間的な『その間に』『次の』。『その間に弟子たちは〜と頼んだ』『次の安息日にもこのことを話してくれるように』。",
+      "label_en": "meanwhile / next (time)",
+      "def_en": "A temporal “meanwhile”, “next”: “meanwhile the disciples urged him”, “that these things might be told them the next Sabbath”.",
+      "label_es": "entretanto / siguiente (tiempo)",
+      "def_es": "«Entretanto», «siguiente» en sentido temporal: «entretanto los discípulos le rogaban», «que el siguiente sábado les hablasen de estas cosas».",
+      "label_sv": "under tiden / nästa (om tid)",
+      "def_sv": "Temporalt ”under tiden”, ”nästa”: ”under tiden bad lärjungarna honom”, ”att de skulle tala om detta även nästa sabbat”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヨハネ4:31、使徒13:42。語義1との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 12:6": 1,
+    "ACT 15:9": 1,
+    "ACT 13:42": 2,
+    "JHN 4:31": 2,
+    "LUK 11:51": 1,
+    "LUK 16:26": 1,
+    "MAT 18:15": 1,
+    "MAT 23:35": 1,
+    "ROM 2:15": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（場所／時）による。"
+}

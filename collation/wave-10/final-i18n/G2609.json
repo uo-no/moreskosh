@@ -1,0 +1,54 @@
+{
+  "strong": "G2609",
+  "lemma": "κατάγω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "連れ降ろす／導き降ろす",
+      "def_ja": "人を連れて降りる、連れ降ろす。『パウロを連れ降ろして議会の前に立たせた』『パウロを議会に連れ降ろすよう願い』『パウロを連れ降ろし』『カイザリヤに連れ降ろし』『キリストを下らせるため』。",
+      "label_en": "to bring down",
+      "def_en": "To lead a person down, to take down: “brought Paul down and set him before the council”, “to bring Paul down to the council”, “bring Paul down”, “brought him down to Caesarea”, “to bring Christ down”.",
+      "label_es": "hacer bajar / llevar abajo",
+      "def_es": "Bajar con una persona, hacerla descender: «sacando a Pablo, le presentó ante ellos», «que le traiga mañana ante vosotros», «que trajesen a Pablo», «le llevaron a Cesarea», «para traer abajo a Cristo».",
+      "label_sv": "att föra ner",
+      "def_sv": "Att ta ner en människa: ”förde ner Paulus och ställde honom inför rådet”, ”föra ner Paulus till rådet”, ”att föra ner Paulus”, ”förde honom ner till Caesarea”, ”för att hämta ner Kristus”.",
+      "layers": {
+        "nt": 6,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒22:30・23:15・23:20・23:28・9:30、ローマ10:6。LXX 創世記37:25・サムエル記下17:23、教父（4.12）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "入港する／舟を陸に着ける",
+      "def_ja": "船が入港する、陸に着ける。『シラクサに寄港し』『船を陸に着け』『ミラに着いた』。",
+      "label_en": "to put in / bring to land",
+      "def_en": "A ship puts into port, is brought to land: “putting in at Syracuse”, “when they had brought their boats to land”, “arrived at Myra”.",
+      "label_es": "arribar / sacar la barca a tierra",
+      "def_es": "La nave arriba, se lleva a tierra: «llegados a Siracusa», «cuando trajeron a tierra las barcas», «arribamos a Mira».",
+      "label_sv": "att lägga till / dra iland",
+      "def_sv": "Skeppet går in i hamn eller förs iland: ”lade till i Syrakusa”, ”drog båtarna iland”, ”kom till Myra”.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒28:12・27:3、ルカ5:11。語義1との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 22:30": 1,
+    "ACT 23:15": 1,
+    "ACT 23:20": 1,
+    "ACT 23:28": 1,
+    "ACT 28:12": 2,
+    "ACT 27:3": 2,
+    "ACT 9:30": 1,
+    "LUK 5:11": 2,
+    "ROM 10:6": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は目的語（人／船）による。"
+}

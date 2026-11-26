@@ -1,0 +1,71 @@
+{
+  "strong": "G288",
+  "lemma": "ἄμπελος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "ぶどうの木／ぶどう",
+      "def_ja": "ぶどうの木。『ぶどうの木がいちじくの実を結べようか』『わたしはまことのぶどうの木』『わたしにつながっていなさい』『ぶどうの木は幹』。",
+      "label_en": "vine",
+      "def_en": "A grapevine: “can a fig tree or a vine yield figs?”, “I am the true vine”, “abide in me”, “I am the vine, you are the branches”.",
+      "label_es": "vid / parra",
+      "def_es": "La vid: «¿puede la vid producir higos?», «yo soy la vid verdadera», «permaneced en mí», «la vid».",
+      "label_sv": "vinstock",
+      "def_sv": "Vinstocken: ”kan en vinstock bära fikon?”, ”jag är den sanna vinstocken”, ”bli kvar i mig”, ”jag är vinstocken, ni är grenarna”.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヤコブ3:12、ヨハネ15:1・15:4・15:5。LXX 詩篇・創世記、教父（19.1.2、23.4）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "ぶどうの実（ぶどうの産物）",
+      "def_ja": "ぶどうの実から作ったもの。『ぶどうの実から作ったものを飲む』『この杯』（ルカ22:18・マタイ26:29・マルコ14:25）。",
+      "label_en": "fruit of the vine",
+      "def_en": "What is made from the fruit of the vine: “drink of the fruit of the vine”, “this cup” (Luke 22:18; Matt 26:29; Mark 14:25).",
+      "label_es": "fruto de la vid",
+      "def_es": "Lo que se hace del fruto de la vid: «beber del fruto de la vid», «esta copa» (Lc 22:18; Mt 26:29; Mr 14:25).",
+      "label_sv": "vinstockens frukt",
+      "def_sv": "Det som görs av vinstockens frukt: ”dricka av det vinstocken ger”, ”denna bägare” (Luk 22:18; Matt 26:29; Mark 14:25).",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ルカ22:18、マタイ26:29、マルコ14:25。LXX・教父に並行。語義1との境界は連続的。"
+    },
+    {
+      "n": 3,
+      "label_ja": "地のぶどうの木（収穫）",
+      "def_ja": "収穫される地のぶどうの木。『地のぶどうの木のぶどうを刈り集めよ』。",
+      "label_en": "vine of the earth (harvest)",
+      "def_en": "The vine of the earth that is harvested: “gather the clusters from the vine of the earth”.",
+      "label_es": "vid de la tierra (vendimia)",
+      "def_es": "La vid de la tierra que se vendimia: «vendimia los racimos de la vid de la tierra».",
+      "label_sv": "jordens vinstock (skörden)",
+      "def_sv": "Jordens vinstock som skördas: ”skörda klasarna från jordens vinstock”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "黙示録14:18・14:19。LXX 代表例に並行。教父の代表例では確認していない。指す対象の同定は付さない。"
+    }
+  ],
+  "assignments": {
+    "JAS 3:12": 1,
+    "JHN 15:1": 1,
+    "JHN 15:4": 1,
+    "JHN 15:5": 1,
+    "LUK 22:18": 2,
+    "MAT 26:29": 2,
+    "MRK 14:25": 2,
+    "REV 14:18": 3,
+    "REV 14:19": 3
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（ぶどうの木／産物／黙示録）による。"
+}

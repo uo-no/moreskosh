@@ -1,0 +1,71 @@
+{
+  "strong": "G393",
+  "lemma": "ἀνατέλλω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "昇る（日・光・星が）",
+      "def_ja": "昇る、現れる、さし昇る。『日が昇ったとき』『日が昇ると』『明けの明星が心の中に昇る』『草花を枯らす太陽が昇る』『光がさし昇った』『西に雲が昇るのを見たとき』『日が出てから』。",
+      "label_en": "to rise (sun, light, star)",
+      "def_en": "To rise, to appear, to come up: “when the sun had risen”, “when the sun rose”, “the morning star rises in your hearts”, “the sun rises with its scorching heat and withers the grass”, “a light has dawned”, “when you see a cloud rising in the west”, “after the sun was up”.",
+      "label_es": "salir (sol, luz, estrella)",
+      "def_es": "Salir, aparecer, levantarse: «salido el sol», «cuando salió el sol», «el lucero de la mañana salga en vuestros corazones», «cuando sale el sol con calor abrasador, la hierba se seca», «luz les resplandeció», «cuando veis la nube que sale del poniente», «salido ya el sol».",
+      "label_sv": "att gå upp (sol, ljus, stjärna)",
+      "def_sv": "Att stiga upp, visa sig, gå upp: ”när solen hade gått upp”, ”när solen steg”, ”morgonstjärnan går upp i era hjärtan”, ”solen går upp med sin hetta och gräset vissnar”, ”ett ljus har gått upp”, ”när ni ser ett moln stiga upp i väster”, ”efter soluppgången”.",
+      "layers": {
+        "nt": 7,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "マタイ13:6・4:16、マルコ16:2・4:6、ヤコブ1:11、ルカ12:54、Ⅱペテロ1:19。LXX 詩篇96:11・イザヤ、教父（3.4、4.2.2）に並行。語義3との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "昇らせる（日を）",
+      "def_ja": "日を昇らせる。『父は悪い者にも良い者にも太陽を昇らせ』（マタイ5:45）。",
+      "label_en": "to make rise (the sun)",
+      "def_en": "To cause the sun to rise: “your Father makes his sun rise on the evil and on the good” (Matt 5:45).",
+      "label_es": "hacer salir (el sol)",
+      "def_es": "Hacer que salga el sol: «vuestro Padre hace salir su sol sobre malos y buenos» (Mt 5:45).",
+      "label_sv": "att låta gå upp (solen)",
+      "def_sv": "Att låta solen gå upp: ”er Fader låter sin sol gå upp över onda och goda” (Matt 5:45).",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "マタイ5:45 の1例のみ。語義1との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "出る（血筋から）",
+      "def_ja": "〜から出る、起こる。『わたしたちの主はユダ族から出られた』（ヘブル7:14）。",
+      "label_en": "to spring from (a lineage)",
+      "def_en": "To come from, to arise from: “our Lord was descended from Judah” (Heb 7:14).",
+      "label_es": "proceder (de un linaje)",
+      "def_es": "Venir de, surgir de: «nuestro Señor vino de la tribu de Judá» (He 7:14).",
+      "label_sv": "att härstamma (om släkt)",
+      "def_sv": "Att komma ur, uppstå ur: ”vår Herre har utgått från Juda stam” (Heb 7:14).",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヘブル7:14 の1例のみ。語義1との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "2PE 1:19": 1,
+    "HEB 7:14": 3,
+    "JAS 1:11": 1,
+    "LUK 12:54": 1,
+    "MAT 13:6": 1,
+    "MAT 4:16": 1,
+    "MAT 5:45": 2,
+    "MRK 16:2": 1,
+    "MRK 4:6": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。"
+}

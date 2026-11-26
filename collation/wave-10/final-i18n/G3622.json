@@ -1,0 +1,54 @@
+{
+  "strong": "G3622",
+  "lemma": "οἰκονομία",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "管理／管理の務め",
+      "def_ja": "管理、管理の務め（家令の）。『もう管理を任せておけない』『管理の務めをわたしから取り上げる』『管理の務めを授けられている』『神が授けた務め（管理）』『委ねられた務め』。",
+      "label_en": "management / stewardship",
+      "def_en": "Management, the office of a steward: “you can no longer be manager”, “is taking the management away from me”, “entrusted with a stewardship”, “the stewardship from God given to me”, “the commission entrusted to me”.",
+      "label_es": "mayordomía / administración",
+      "def_es": "Administración, cargo del mayordomo: «ya no podrás más ser mayordomo», «me quita la mayordomía», «la comisión me ha sido encomendada», «la administración de Dios que me fue dada», «el encargo confiado».",
+      "label_sv": "förvaltning / förvaltaruppdrag",
+      "def_sv": "Förvaltning, förvaltarens uppdrag: ”du kan inte längre vara förvaltare”, ”tar ifrån mig förvaltningen”, ”ett förvaltaruppdrag har anförtrotts mig”, ”det uppdrag Gud gav mig”, ”den anförtrodda uppgiften”.",
+      "layers": {
+        "nt": 6,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ルカ16:2・16:3・16:4、Ⅰコリ9:17、コロサイ1:25、エペソ3:2。LXX イザヤ22:19・22:21、教父（1.18.2、4）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "経綸／計画（神の）",
+      "def_ja": "神の計画、経綸、秩序だった実行。『時の満ちるときの計画』『奥義の実行』『信仰による神の務め（計画）』。",
+      "label_en": "economy / plan (of God)",
+      "def_en": "God's plan, economy, orderly carrying out: “a plan for the fullness of time”, “the carrying out of the mystery”, “God's stewardship (plan) that is by faith”.",
+      "label_es": "dispensación / plan (de Dios)",
+      "def_es": "El plan de Dios, su disposición y ejecución ordenada: «la dispensación del cumplimiento de los tiempos», «la dispensación del misterio», «la edificación (plan) de Dios que es por fe».",
+      "label_sv": "hushållning / plan (Guds)",
+      "def_sv": "Guds plan, hans ordning och dess genomförande: ”planen för tidernas fullbordan”, ”hur hemligheten genomförs”, ”Guds plan som förverkligas genom tro”.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "エペソ1:10・3:9、Ⅰテモ1:4。教父（1.18.2）に並行。LXX の代表例では確認していない。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "1CO 9:17": 1,
+    "1TI 1:4": 2,
+    "COL 1:25": 1,
+    "EPH 1:10": 2,
+    "EPH 3:2": 1,
+    "EPH 3:9": 2,
+    "LUK 16:2": 1,
+    "LUK 16:3": 1,
+    "LUK 16:4": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（管理／神の計画）による。"
+}

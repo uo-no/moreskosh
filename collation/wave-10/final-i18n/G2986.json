@@ -1,0 +1,71 @@
+{
+  "strong": "G2986",
+  "lemma": "λαμπρός",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "輝く／きよらかな",
+      "def_ja": "輝く、明るい、澄んだ。『輝く清い麻布の衣』『水晶のように輝く命の水の川』『輝く明けの明星』『輝くよい衣』『輝く衣を着た人』『輝く清い麻の衣』。",
+      "label_en": "shining / bright and clean",
+      "def_en": "Shining, bright, clear: “bright, pure linen”, “the river of the water of life, bright as crystal”, “the bright morning star”, “bright clothing”, “a man in bright apparel”, “fine linen, bright and pure”.",
+      "label_es": "resplandeciente / limpio",
+      "def_es": "Brillante, claro, límpido: «lino limpio y resplandeciente», «el río de agua de vida, resplandeciente como cristal», «la estrella resplandeciente de la mañana», «ropa espléndida», «un varón con vestido resplandeciente», «lino fino, limpio y resplandeciente».",
+      "label_sv": "skinande / ren",
+      "def_sv": "Lysande, ljus, klar: ”skinande rent linne”, ”floden med livets vatten, klar som kristall”, ”den strålande morgonstjärnan”, ”glänsande kläder”, ”en man i skinande dräkt”, ”fint linne, skinande och rent”.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "黙示録15:6・19:8・22:1・22:16、使徒10:30。LXX トビト13:11・知恵6:12、教父（3.2.4、26.8.7）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "りっぱな／華やかな（衣）",
+      "def_ja": "華やかな、りっぱな衣。『りっぱな装いをした人』『りっぱな衣を着た者』『りっぱな衣をまとわせ』。",
+      "label_en": "fine / splendid (clothing)",
+      "def_en": "Splendid, fine clothing: “a person in fine apparel”, “one who wears fine clothing”, “arrayed him in a splendid robe”.",
+      "label_es": "espléndido / lujoso (ropa)",
+      "def_es": "Vestido lujoso, magnífico: «un hombre con ropa espléndida», «el que trae la ropa espléndida», «vistiéndole de una ropa espléndida».",
+      "label_sv": "praktfull / grann (om kläder)",
+      "def_sv": "Praktfulla, fina kläder: ”en man i fina kläder”, ”den som bär den praktfulla dräkten”, ”klädde honom i en praktfull mantel”.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヤコブ2:2・2:3、ルカ23:11。LXX シラ29:22 に並行。教父に並行。語義1との境界は連続的。"
+    },
+    {
+      "n": 3,
+      "label_ja": "華やかな（物）",
+      "def_ja": "華やかな（贅沢品）。『ぜいたくなものや華やかなものはなくなった』（黙示録18:14）。",
+      "label_en": "splendid (things)",
+      "def_en": "Splendid (luxuries): “all your delicacies and splendours are lost to you” (Rev 18:14).",
+      "label_es": "espléndido (cosas)",
+      "def_es": "Lo suntuoso (los lujos): «todas las cosas exquisitas y espléndidas te han faltado» (Ap 18:14).",
+      "label_sv": "glänsande (ting)",
+      "def_sv": "Det praktfulla (lyxvaror): ”all din glans och prakt är borta” (Upp 18:14).",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "黙示録18:14 の1例のみ。語義2との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 10:30": 1,
+    "JAS 2:2": 2,
+    "JAS 2:3": 2,
+    "LUK 23:11": 2,
+    "REV 15:6": 1,
+    "REV 18:14": 3,
+    "REV 19:8": 1,
+    "REV 22:1": 1,
+    "REV 22:16": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は対象による。"
+}

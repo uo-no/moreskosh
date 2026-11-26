@@ -1,0 +1,54 @@
+{
+  "strong": "G3023",
+  "lemma": "λέων",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "ライオン",
+      "def_ja": "ライオン、獅子。『ほえたける獅子のように』『獅子の口から救い出された』『獅子の口をふさぎ』『第四の生き物は飛ぶ鷲のよう』『獅子のような顔』『馬の頭は獅子の頭のよう』『獅子のような口』『獅子のような獣』。",
+      "label_en": "lion",
+      "def_en": "A lion: “like a roaring lion”, “rescued from the lion's mouth”, “stopped the mouths of lions”, “the first living creature like a lion”, “faces like lions”, “the heads of the horses like lions' heads”, “like a lion's mouth”, “a beast like a lion”.",
+      "label_es": "león",
+      "def_es": "León: «como león rugiente», «librado de la boca del león», «taparon bocas de leones», «el primer ser viviente semejante a un león», «rostros como de leones», «las cabezas de los caballos eran como de leones», «como boca de león», «una bestia semejante a un león».",
+      "label_sv": "lejon",
+      "def_sv": "Ett lejon: ”som ett rytande lejon”, ”räddad ur lejonets gap”, ”tillslöt lejons gap”, ”det första väsendet liknade ett lejon”, ”ansikten som lejon”, ”hästarnas huvuden var som lejonhuvuden”, ”ett gap som ett lejons”, ”ett vilddjur likt ett lejon”.",
+      "layers": {
+        "nt": 8,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰペテロ5:8、Ⅱテモ4:17、ヘブル11:33、黙示録4:7・9:8・9:17・10:3・13:2。LXX ダニエル6:13・イザヤ、教父（35.11、12.2）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "獅子（ユダ族の）",
+      "def_ja": "『ユダ族の獅子』という称号。『ユダ族の獅子、ダビデの根が勝利を得た』（黙示録5:5）。",
+      "label_en": "Lion (of Judah)",
+      "def_en": "The title “the Lion of the tribe of Judah”: “the Lion of the tribe of Judah, the Root of David, has conquered” (Rev 5:5).",
+      "label_es": "León (de la tribu de Judá)",
+      "def_es": "El título «el León de la tribu de Judá»: «el León de la tribu de Judá, la raíz de David, ha vencido» (Ap 5:5).",
+      "label_sv": "Lejonet (av Juda stam)",
+      "def_sv": "Titeln ”Lejonet av Juda stam”: ”Lejonet av Juda stam, Davids rotskott, har segrat” (Upp 5:5).",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "黙示録5:5 の1例のみ。語義1との境界は連続的。LXX 創世記49:9 に並行。教父の代表例では確認していない。指す対象の同定は付さない。"
+    }
+  ],
+  "assignments": {
+    "1PE 5:8": 1,
+    "2TI 4:17": 1,
+    "HEB 11:33": 1,
+    "REV 10:3": 1,
+    "REV 13:2": 1,
+    "REV 4:7": 1,
+    "REV 5:5": 2,
+    "REV 9:8": 1,
+    "REV 9:17": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（動物／称号）による。"
+}

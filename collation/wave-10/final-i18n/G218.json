@@ -1,0 +1,88 @@
+{
+  "strong": "G218",
+  "lemma": "ἀλείφω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "（香油・油を）塗る／注ぐ（敬意として）",
+      "def_ja": "敬意・愛情として香油を塗る。『主に香油を塗り』『主に香油を塗って』『足にくちづけして香油を塗った』『わたしの足に香油を塗ってくれた』『わたしの足に香油を塗った』。",
+      "label_en": "to anoint (as an honour)",
+      "def_en": "To anoint with ointment out of respect and love: “anointed the Lord with ointment”, “who had anointed the Lord”, “kissed his feet and anointed them”, “she has anointed my feet”, “anointed my feet”.",
+      "label_es": "ungir (como honra)",
+      "def_es": "Ungir con perfume por respeto y afecto: «ungió al Señor con perfume», «la que ungió al Señor», «besaba sus pies y los ungía», «esta ha ungido mis pies», «ungió mis pies».",
+      "label_sv": "att smörja (som hedersbetygelse)",
+      "def_sv": "Att smörja med balsam av vördnad och kärlek: ”smorde Herren med balsam”, ”hon som smorde Herren”, ”kysste hans fötter och smorde dem”, ”hon har smort mina fötter”, ”smorde mina fötter”.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヨハネ12:3・11:2、ルカ7:38・7:46（2回）。LXX ルツ記3:3・Ⅱ歴代誌28:15、教父（1.17.1）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "（病人に）油を塗る",
+      "def_ja": "病人に油を塗る、いやしのために塗る。『主の名によって油を塗り』『多くの病人に油を塗っていやした』。",
+      "label_en": "to anoint (the sick)",
+      "def_en": "To anoint the sick with oil, to apply it for healing: “anointing in the name of the Lord”, “anointed many sick people with oil and healed them”.",
+      "label_es": "ungir (a enfermos)",
+      "def_es": "Ungir a los enfermos con aceite para sanarlos: «ungiéndole en el nombre del Señor», «ungían con aceite a muchos enfermos y los sanaban».",
+      "label_sv": "att smörja (sjuka)",
+      "def_sv": "Att smörja sjuka med olja för helande: ”smörja honom i Herrens namn”, ”smorde många sjuka med olja och botade dem”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヤコブ5:14、マルコ6:13。LXX 代表例に並行。教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "（頭に）油を塗る／顔を洗う（断食時）",
+      "def_ja": "断食のときに頭に油を塗る。『頭に油を塗りなさい』（マタイ6:17）。",
+      "label_en": "to anoint one's head (when fasting)",
+      "def_en": "To anoint the head with oil when fasting: “anoint your head” (Matt 6:17).",
+      "label_es": "ungir la cabeza (en el ayuno)",
+      "def_es": "Ungir con aceite la cabeza al ayunar: «unge tu cabeza» (Mt 6:17).",
+      "label_sv": "att smörja huvudet (vid fasta)",
+      "def_sv": "Att smörja huvudet med olja när man fastar: ”smörj in ditt hår” (Matt 6:17).",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "マタイ6:17 の1例のみ。LXX 代表例に並行。教父の代表例では確認していない。"
+    },
+    {
+      "n": 4,
+      "label_ja": "（死者に）油を塗る",
+      "def_ja": "遺体に香料を塗る。『イエスに塗りに行くために香料を買った』（マルコ16:1）。",
+      "label_en": "to anoint (the dead)",
+      "def_en": "To apply spices to a body: “bought spices so that they might go and anoint Jesus” (Mark 16:1).",
+      "label_es": "ungir (a un muerto)",
+      "def_es": "Aplicar aromas al cadáver: «compraron especias aromáticas para ir a ungir a Jesús» (Mr 16:1).",
+      "label_sv": "att smörja (en död)",
+      "def_sv": "Att smörja en död kropp med väldoftande kryddor: ”köpte kryddor för att gå och smörja honom” (Mark 16:1).",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "マルコ16:1 の1例のみ。LXX 代表例に並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "JAS 5:14": 2,
+    "JHN 12:3": 1,
+    "JHN 11:2": 1,
+    "LUK 7:38": 1,
+    "LUK 7:46#1": 1,
+    "LUK 7:46#2": 1,
+    "MAT 6:17": 3,
+    "MRK 16:1": 4,
+    "MRK 6:13": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は目的（敬意／いやし／断食／埋葬）による。"
+}

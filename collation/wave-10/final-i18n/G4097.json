@@ -1,0 +1,71 @@
+{
+  "strong": "G4097",
+  "lemma": "πιπράσκω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "売る",
+      "def_ja": "売る、売られる。『持ち物を売って』『畑を売って』『売ったときも』『高く売れて』『彼は持ち物をすべて売って』『三百デナリで売れたのに』『持ち物を売って返済するよう命じ』。",
+      "label_en": "to sell",
+      "def_en": "To sell, to be sold: “sell your possessions”, “sold a field”, “and after it was sold”, “sold for a large sum”, “sold all that he had”, “could have been sold for three hundred denarii”, “ordered him to be sold with all he had and payment to be made”.",
+      "label_es": "vender",
+      "def_es": "Vender, ser vendido: «vendiendo sus posesiones», «vendiendo una heredad», «y vendida», «haberse vendido a gran precio», «vendió todo lo que tenía», «podía haberse vendido por trescientos denarios», «mandó venderle con cuanto tenía para que se pagase».",
+      "label_sv": "att sälja",
+      "def_sv": "Att sälja, att säljas: ”sålde sina ägodelar”, ”sålde en åker”, ”även sedan den sålts”, ”kunde ha sålts dyrt”, ”sålde allt han ägde”, ”kunde ha sålts för trehundra denarer”, ”befallde att han skulle säljas med allt han ägde för att betala”.",
+      "layers": {
+        "nt": 7,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒2:45・4:34・5:4、ヨハネ12:5、マタイ13:46・26:9、マルコ14:5。LXX レビ記25:42・Ⅱマカバイ、教父（1.1.1）に並行。語義2・3との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "身売りされる（奴隷として）",
+      "def_ja": "奴隷として売られる。『妻や子と持ち物をすべて売って返済するように命じた』（マタイ18:25）。",
+      "label_en": "to be sold (as a slave)",
+      "def_en": "To be sold as a slave: “ordered him to be sold, with his wife and children and all he had, and payment to be made” (Matt 18:25).",
+      "label_es": "ser vendido (como esclavo)",
+      "def_es": "Ser vendido en esclavitud: «mandó venderle, y a su mujer e hijos, y todo lo que tenía, para que se le pagase» (Mt 18:25).",
+      "label_sv": "att säljas (som slav)",
+      "def_sv": "Att säljas till slav: ”befallde att han med hustru och barn och allt han ägde skulle säljas och skulden betalas” (Matt 18:25).",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "マタイ18:25 の1例のみ。語義1との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "売られている（罪の下に）",
+      "def_ja": "罪の下に売られている。『わたしは罪の下に売られた者』（ローマ7:14）。",
+      "label_en": "to be sold (under sin)",
+      "def_en": "Sold under sin: “I am sold under sin” (Rom 7:14).",
+      "label_es": "estar vendido (al pecado)",
+      "def_es": "Vendido bajo el pecado: «yo soy vendido al pecado» (Ro 7:14).",
+      "label_sv": "att vara såld (under synden)",
+      "def_sv": "Såld under synden: ”jag är såld som slav under synden” (Rom 7:14).",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ローマ7:14 の1例のみ。語義2との境界は連続的。LXX 列王記下17:17 に並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 2:45": 1,
+    "ACT 4:34": 1,
+    "ACT 5:4": 1,
+    "JHN 12:5": 1,
+    "MAT 13:46": 1,
+    "MAT 18:25": 2,
+    "MAT 26:9": 1,
+    "MRK 14:5": 1,
+    "ROM 7:14": 3
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（売る／身売り／罪の下）による。"
+}
