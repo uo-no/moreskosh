@@ -1,0 +1,53 @@
+{
+  "strong": "G3968",
+  "lemma": "πατρίς",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "郷里・故郷の町",
+      "def_ja": "生まれ育った町、郷里。『自分の郷里に帰った』『預言者は自分の郷里では尊ばれない』『郷里にはいって』『預言者は自分の郷里では』。",
+      "label_en": "hometown",
+      "def_en": "The town where one was born and raised: “returned to his hometown”, “a prophet is not without honour except in his hometown”, “coming to his hometown”, “a prophet in his own hometown”.",
+      "label_es": "su tierra / pueblo natal",
+      "def_es": "El pueblo donde uno nació y creció: «vino a su tierra», «no hay profeta sin honra sino en su propia tierra», «venido a su tierra», «el profeta en su propia tierra».",
+      "label_sv": "hemstad",
+      "def_sv": "Den ort där man är född och uppvuxen: ”återvände till sin hemstad”, ”en profet föraktas bara i sin hemstad”, ”kom till sin hemstad”, ”en profet i sin egen hemstad”.",
+      "layers": {
+        "nt": 7,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ルカ4:23・4:24、マタイ13:54・13:57、マルコ6:1・6:4、ヨハネ4:44。ヨハネ4:44 の「自分の故郷」の指示対象（ガリラヤかユダヤかナザレか）は争われており決定しない。LXX・教父の代表例は国土の用法で、この語義としては確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "故国・祖国",
+      "def_ja": "故国、祖国。『故郷を求めていることを示している』。",
+      "label_en": "homeland / fatherland",
+      "def_en": "Homeland, fatherland: “make it clear that they are seeking a homeland”.",
+      "label_es": "patria",
+      "def_es": "Patria, país de origen: «dan a entender que buscan una patria».",
+      "label_sv": "fädernesland",
+      "def_sv": "Hemland, fädernesland: ”visar att de söker ett hemland”.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヘブル11:14。天の故国か否かの指示対象は決定しない。LXX（8.33）、教父（5）に並行。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "HEB 11:14": 2,
+    "JHN 4:44": 1,
+    "LUK 4:23": 1,
+    "LUK 4:24": 1,
+    "MAT 13:54": 1,
+    "MAT 13:57": 1,
+    "MRK 6:1": 1,
+    "MRK 6:4": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は規模（郷里の町／祖国）による。"
+}

@@ -1,0 +1,53 @@
+{
+  "strong": "G569",
+  "lemma": "ἀπιστέω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "信じない",
+      "def_ja": "信じない、信用しない。『信じない者たちには』『ある人々は信じたが、ある人々は信じなかった』『それを信じなかった』『喜びのあまり信じられず』『彼らは信じなかった』『信じない者は罪に定められる』。",
+      "label_en": "to disbelieve",
+      "def_en": "Not to believe, not to trust: “to those who do not believe”, “some were convinced, others disbelieved”, “they would not believe it”, “still disbelieved for joy”, “they did not believe”, “whoever does not believe will be condemned”.",
+      "label_es": "no creer",
+      "def_es": "No creer, no fiarse: «para los que no creen», «algunos asentían, pero otros no creían», «no lo creyeron», «de gozo, todavía no lo creían», «ellos no creyeron», «el que no creyere será condenado».",
+      "label_sv": "att inte tro",
+      "def_sv": "Att inte tro, inte lita på: ”för dem som inte tror”, ”somliga lät sig övertygas, andra ville inte tro”, ”de trodde det inte”, ”för glädjens skull kunde de ännu inte tro”, ”de trodde inte”, ”den som inte tror ska bli fördömd”.",
+      "layers": {
+        "nt": 6,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ペテロ第一2:7、使徒28:24、ルカ24:11・24:41、マルコ16:11・16:16。LXX（1.2）、教父（1.18.1）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "不誠実である・信じない（解釈が分かれる）",
+      "def_ja": "『彼らのある者が不真実であったとしても』『わたしたちが不真実であっても』。",
+      "label_en": "to be unfaithful / not believe (disputed)",
+      "def_en": "“What if some of them were unfaithful?”, “if we are faithless”.",
+      "label_es": "ser infiel / no creer (discutido)",
+      "def_es": "«¿Qué si algunos de ellos han sido incrédulos?», «si fuéremos infieles».",
+      "label_sv": "att vara trolös / inte tro (omtvistat)",
+      "def_sv": "”Om några av dem har varit trolösa”, ”om vi är trolösa”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ローマ3:3、テモテ第二2:13。「信じない」か「不誠実である」かは争われており決定しない。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1PE 2:7": 1,
+    "2TI 2:13": 2,
+    "ACT 28:24": 1,
+    "LUK 24:11": 1,
+    "LUK 24:41": 1,
+    "MRK 16:11": 1,
+    "MRK 16:16": 1,
+    "ROM 3:3": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（信じない／解釈の分かれる箇所）による。"
+}

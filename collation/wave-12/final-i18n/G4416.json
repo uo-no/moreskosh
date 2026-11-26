@@ -1,0 +1,70 @@
+{
+  "strong": "G4416",
+  "lemma": "πρωτότοκος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "初子・初めに生まれた者（字義）",
+      "def_ja": "最初に生まれた子。『初子を産み』『初子を滅ぼす者』。",
+      "label_en": "firstborn (literal)",
+      "def_en": "The first child born: “gave birth to her firstborn son”, “the destroyer of the firstborn”.",
+      "label_es": "primogénito (literal)",
+      "def_es": "El primer hijo que nace: «dio a luz a su hijo primogénito», «el que destruía a los primogénitos».",
+      "label_sv": "förstfödd (bokstavligt)",
+      "def_sv": "Det först födda barnet: ”födde sin son, den förstfödde”, ”fördärvaren av de förstfödda”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ルカ2:7、ヘブル11:28。LXX（2.50・3.13）、教父（13.5・4.1）に並行。語義2・3との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "長子（キリストについて）",
+      "def_ja": "キリストを指して「長子」と呼ぶ。『すべての造られたものに先だって生まれた方』『死人の中から最初に生まれた方』『長子を世界に送るとき』『多くの兄弟の中で長子となるため』『死者の中から最初に生まれた方』。",
+      "label_en": "firstborn (of Christ)",
+      "def_en": "Christ is called “firstborn”: “the firstborn of all creation”, “the firstborn from the dead”, “when he brings the firstborn into the world”, “that he might be the firstborn among many brothers”, “the firstborn of the dead”.",
+      "label_es": "primogénito (Cristo)",
+      "def_es": "Se llama a Cristo «primogénito»: «el primogénito de toda creación», «el primogénito de entre los muertos», «cuando introduce al Primogénito en el mundo», «para que él sea el primogénito entre muchos hermanos», «el primogénito de los muertos».",
+      "label_sv": "den förstfödde (om Kristus)",
+      "def_sv": "Kristus kallas ”den förstfödde”: ”förstfödd före allt skapat”, ”den förstfödde från de döda”, ”när han för in den förstfödde i världen”, ”den förstfödde bland många bröder”, ”de dödas förstfödde”.",
+      "layers": {
+        "nt": 5,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "コロサイ1:15・1:18、ヘブル1:6、ローマ8:29、黙示録1:5。時間的な先行か優先・主権かの解釈は争われており決定しない。LXX・教父の代表例ではキリストを指す用法は確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "長子たち（教会について）",
+      "def_ja": "『天に登録されている長子たちの教会』。",
+      "label_en": "the firstborn (the church)",
+      "def_en": "“The assembly of the firstborn who are enrolled in heaven.”",
+      "label_es": "los primogénitos (la iglesia)",
+      "def_es": "«La congregación de los primogénitos que están inscritos en los cielos».",
+      "label_sv": "de förstfödda (församlingen)",
+      "def_sv": "”De förstföddas församling, vilkas namn är skrivna i himlen.”",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヘブル12:23。指示対象（信者たちか天使か）は決定しない。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "COL 1:15": 2,
+    "COL 1:18": 2,
+    "HEB 1:6": 2,
+    "HEB 12:23": 3,
+    "HEB 11:28": 1,
+    "LUK 2:7": 1,
+    "REV 1:5": 2,
+    "ROM 8:29": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は指示対象（字義の初子／キリスト／長子たちの教会）による。語義2・3の内容は決定しない。"
+}

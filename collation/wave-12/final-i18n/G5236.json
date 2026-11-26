@@ -1,0 +1,53 @@
+{
+  "strong": "G5236",
+  "lemma": "ὑπερβολή",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "καθ’ ὑπερβολήν（度を越して・はるかに）",
+      "def_ja": "副詞句 καθ’ ὑπερβολήν。度を越して、はるかに。『さらにすぐれた道』『度を過ごして』『極度に圧迫され』『限りなく大きな永遠の重い栄光』『激しく教会を迫害し』『罪が極度に罪深く』。",
+      "label_en": "beyond measure (καθ’ ὑπερβολήν)",
+      "def_en": "The adverbial phrase καθ’ ὑπερβολήν: to excess, far beyond: “a still more excellent way”, “violently”, “utterly burdened”, “an eternal weight of glory beyond all comparison”, “persecuted the church violently”, “sinful beyond measure”.",
+      "label_es": "sobremanera (καθ’ ὑπερβολήν)",
+      "def_es": "Locución adverbial καθ’ ὑπερβολήν: sin medida, con mucho: «un camino aún más excelente», «sobremanera», «abrumados en gran manera», «un cada vez más excelente y eterno peso de gloria», «perseguía sobremanera a la iglesia», «sobremanera pecaminoso».",
+      "label_sv": "övermåttan (καθ’ ὑπερβολήν)",
+      "def_sv": "Det adverbiella uttrycket καθ’ ὑπερβολήν: över all måtta, långt mer: ”en väg som är långt bättre”, ”utöver det vanliga”, ”tyngda långt över vår förmåga”, ”en omätligt stor, evig härlighet”, ”förföljde våldsamt församlingen”, ”syndig i högsta grad”.",
+      "layers": {
+        "nt": 6,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "コリント第一12:31、コリント第二1:8・4:17（2回）、ガラテヤ1:13、ローマ7:13。LXX・教父の代表例（4マカバイ3:18、1.2・13.4）は形・用法の対応が確認できず、この語義としては確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "卓越・過大さ（名詞）",
+      "def_ja": "並外れた大きさ、卓越。『この宝は土の器に入れられている。それは、この測り知れない力が神のものであって』『啓示の卓越さのゆえに』。",
+      "label_en": "surpassing greatness (noun)",
+      "def_en": "Extraordinary greatness, excellence: “we have this treasure in jars of clay, to show that the surpassing power belongs to God”, “because of the surpassing greatness of the revelations”.",
+      "label_es": "excelencia / grandeza sin medida (sustantivo)",
+      "def_es": "Grandeza extraordinaria: «tenemos este tesoro en vasos de barro, para que la excelencia del poder sea de Dios», «por la grandeza de las revelaciones».",
+      "label_sv": "överväldigande storhet (substantiv)",
+      "def_sv": "Ovanlig storhet, överflöd: ”vi har denna skatt i lerkärl, för att den väldiga kraften ska vara Guds”, ”på grund av de överväldigande uppenbarelserna”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "コリント第二4:7・12:7。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 12:31": 1,
+    "2CO 1:8": 1,
+    "2CO 12:7": 2,
+    "2CO 4:7": 2,
+    "2CO 4:17#1": 1,
+    "2CO 4:17#2": 1,
+    "GAL 1:13": 1,
+    "ROM 7:13": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（副詞句／名詞）による。LXX・教父の代表例は用法の対応が確認できず、いずれも「なし」とする。"
+}

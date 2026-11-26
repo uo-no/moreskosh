@@ -1,0 +1,70 @@
+{
+  "strong": "G5021",
+  "lemma": "τάσσω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "定める・割り当てる・指示する",
+      "def_ja": "位置・任務・日などを定める、命じる。『ほかの数人を使節に任命して』『あなたがするように定められたことが』『存在している権威は神によって立てられている』『わたしも権威の下に置かれた者で』『イエスの指示された山に行った』『彼のために日を定めて』。",
+      "label_en": "to appoint / assign / direct",
+      "def_en": "To fix or assign a place, task, or day, to order: “appointed some others to go as delegates”, “all that has been appointed for you to do”, “the authorities that exist have been instituted by God”, “I too am a man set under authority”, “the mountain to which Jesus had directed them”, “appointed a day for him”.",
+      "label_es": "ordenar / asignar / señalar",
+      "def_es": "Fijar o asignar puesto, tarea o día, mandar: «se dispuso que subiesen algunos otros como delegados», «lo que está ordenado que hagas», «las autoridades que hay, por Dios han sido establecidas», «yo soy hombre puesto bajo autoridad», «al monte donde Jesús les había ordenado», «habiéndole señalado un día».",
+      "label_sv": "att förordna / tilldela / anvisa",
+      "def_sv": "Att bestämma plats, uppgift eller dag, att befalla: ”utsåg några andra att resa som ombud”, ”allt som är bestämt att du ska göra”, ”den överhet som finns är insatt av Gud”, ”jag står själv under befäl”, ”det berg dit Jesus befallt dem att gå”, ”avtalade en dag med honom”.",
+      "layers": {
+        "nt": 6,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒15:2・22:10・28:23、ローマ13:1、ルカ7:8、マタイ28:16。LXX（19.8・24.7）、教父（20.2・18.1）に並行。語義2・3との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "身をささげる",
+      "def_ja": "自分自身を奉仕に当てる、ささげる。『聖徒たちに仕えるために身をささげた』。",
+      "label_en": "to devote oneself",
+      "def_en": "To give oneself to a service, to devote: “they have devoted themselves to the service of the saints”.",
+      "label_es": "dedicarse",
+      "def_es": "Aplicarse uno mismo a un servicio: «se han dedicado al servicio de los santos».",
+      "label_sv": "att ägna sig",
+      "def_sv": "Att ställa sig själv i en tjänst: ”har ägnat sig åt att tjäna de heliga”.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "コリント第一16:15。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "定められた（解釈が分かれる）",
+      "def_ja": "『永遠のいのちにあずかるように定められていた者はみな信じた』。",
+      "label_en": "appointed (disputed)",
+      "def_en": "“As many as were appointed to eternal life believed.”",
+      "label_es": "ordenados (discutido)",
+      "def_es": "«Creyeron todos los que estaban ordenados para vida eterna».",
+      "label_sv": "bestämda (omtvistat)",
+      "def_sv": "”Alla som var bestämda till evigt liv kom till tro.”",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒13:48。「定められた」か「心を向けていた」かの解釈は争われており決定しない。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 16:15": 2,
+    "ACT 15:2": 1,
+    "ACT 13:48": 3,
+    "ACT 22:10": 1,
+    "ACT 28:23": 1,
+    "LUK 7:8": 1,
+    "MAT 28:16": 1,
+    "ROM 13:1": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（定める・命じる／身をささげる／使徒13:48）による。使徒13:48 は解釈が分かれるため独立させ、決定しない。"
+}

@@ -1,0 +1,53 @@
+{
+  "strong": "G3691",
+  "lemma": "ὀξύς",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "鋭い",
+      "def_ja": "刃物の鋭い。『鋭い両刃の剣』『鋭いかま』『鋭いかまを持つ者』『鋭いかま』『その口から鋭い剣』。",
+      "label_en": "sharp",
+      "def_en": "Sharp (of a blade): “a sharp two-edged sword”, “a sharp sickle”, “the one who has a sharp sickle”, “a sharp sickle”, “a sharp sword from his mouth”.",
+      "label_es": "agudo / afilado",
+      "def_es": "Afilado (de un filo): «una espada aguda de dos filos», «una hoz aguda», «el que tenía la hoz aguda», «una hoz afilada», «de su boca sale una espada aguda».",
+      "label_sv": "vass / skarp",
+      "def_sv": "Vass (om en egg): ”ett skarpt tveeggat svärd”, ”en vass skära”, ”den som hade den vassa skäran”, ”en skarp skära”, ”ur hans mun ett skarpt svärd”.",
+      "layers": {
+        "nt": 7,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "黙示録1:16・2:12・14:14・14:17・14:18（2回）・19:15。LXX の代表例（8.11・8.1）は用法・形が異なり、この語義としては確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "速い",
+      "def_ja": "足が速い。『その足は血を流すのに速く』。",
+      "label_en": "swift",
+      "def_en": "Swift of foot: “their feet are swift to shed blood”.",
+      "label_es": "veloz",
+      "def_es": "Rápido de pies: «sus pies se apresuran para derramar sangre».",
+      "label_sv": "snabb",
+      "def_sv": "Snabb till fots: ”deras fötter är snara att spilla blod”.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ローマ3:15。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "REV 1:16": 1,
+    "REV 14:14": 1,
+    "REV 14:17": 1,
+    "REV 14:18#1": 1,
+    "REV 14:18#2": 1,
+    "REV 19:15": 1,
+    "REV 2:12": 1,
+    "ROM 3:15": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（鋭さ／速さ）による。LXX の代表例は用法の対応を確認していない。"
+}

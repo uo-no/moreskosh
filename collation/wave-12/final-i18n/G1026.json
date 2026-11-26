@@ -1,0 +1,52 @@
+{
+  "strong": "G1026",
+  "lemma": "βρέχω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "雨を降らせる・降る",
+      "def_ja": "雨を降らせる、（火や硫黄が）降る。『雨が降らないように祈ったところ』『再び祈ると、天は雨を降らせ』『火と硫黄が天から降って』『正しい者にも正しくない者にも雨を降らせる』『預言をしている期間、雨を降らせない』。",
+      "label_en": "to send rain / rain down",
+      "def_en": "To make it rain, (of fire and sulfur) to rain down: “prayed that it might not rain”, “prayed again, and heaven gave rain”, “fire and sulfur rained from heaven”, “sends rain on the just and on the unjust”, “no rain may fall during the days of their prophesying”.",
+      "label_es": "hacer llover / llover",
+      "def_es": "Enviar lluvia, caer (fuego y azufre): «oró para que no lloviese», «otra vez oró, y el cielo dio lluvia», «llovió del cielo fuego y azufre», «hace llover sobre justos e injustos», «que no llueva en los días de su profecía».",
+      "label_sv": "att låta regna / regna",
+      "def_sv": "Att sända regn, (om eld och svavel) regna ner: ”bad att det inte skulle regna”, ”bad igen, och himlen gav regn”, ”eld och svavel regnade från himlen”, ”låter det regna över rättfärdiga och orättfärdiga”, ”så att inget regn faller medan de profeterar”.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヤコブ5:17（2回）、ルカ17:29、マタイ5:45、黙示録11:6。LXX（4.7・77.24）に並行。教父の代表例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "濡らす",
+      "def_ja": "濡らす。『涙でわたしの足をぬらし』『涙でわたしの足をぬらし』。",
+      "label_en": "to wet",
+      "def_en": "To make wet: “wet my feet with tears”, “wet my feet with her tears”.",
+      "label_es": "mojar",
+      "def_es": "Humedecer: «regaba mis pies con lágrimas», «ha regado mis pies con lágrimas».",
+      "label_sv": "att väta",
+      "def_sv": "Att göra våt: ”vätte mina fötter med tårar”, ”har vätt mina fötter med sina tårar”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ルカ7:38・7:44。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "JAS 5:17#1": 1,
+    "JAS 5:17#2": 1,
+    "LUK 17:29": 1,
+    "LUK 7:38": 2,
+    "LUK 7:44": 2,
+    "MAT 5:45": 1,
+    "REV 11:6": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（降らせる／濡らす）による。"
+}

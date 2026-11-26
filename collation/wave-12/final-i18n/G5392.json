@@ -1,0 +1,53 @@
+{
+  "strong": "G5392",
+  "lemma": "φιμόω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "口にかごをかける",
+      "def_ja": "動物に口かごをはめる。『穀物をこなしている牛に口かごをかけてはならない』。",
+      "label_en": "to muzzle",
+      "def_en": "To put a muzzle on an animal: “you shall not muzzle an ox while it treads out the grain”.",
+      "label_es": "poner bozal",
+      "def_es": "Poner bozal a un animal: «no pondrás bozal al buey que trilla».",
+      "label_sv": "att binda för munnen",
+      "def_sv": "Att sätta munkorg på ett djur: ”du ska inte binda för munnen på oxen som tröskar”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "コリント第一9:9、テモテ第一5:18（申命記25:4の引用）。LXX（25.4）に並行。教父の代表例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "黙らせる・黙る",
+      "def_ja": "口を封じる、黙らせる（受動：黙る、静まる）。『黙れ』『黙れ、静まれ』『静まれ』『黙っていた』『サドカイ人を黙らせた』『無知な人々の口を封じる』。",
+      "label_en": "to silence / be silent",
+      "def_en": "To stop the mouth, to silence (passive: to be silent, be still): “be silent”, “Peace! Be still!”, “be still”, “he was speechless”, “had silenced the Sadducees”, “put to silence the ignorance of foolish people”.",
+      "label_es": "hacer callar / callar",
+      "def_es": "Tapar la boca, hacer callar (pasiva: callar, calmarse): «cállate», «calla, enmudece», «enmudece», «enmudeció», «había hecho callar a los saduceos», «hacer callar la ignorancia de los insensatos».",
+      "label_sv": "att tysta / tiga",
+      "def_sv": "Att täppa till munnen, tysta (passivum: tiga, bli stilla): ”tig”, ”tig, var stilla”, ”var stilla”, ”han hade inget att svara”, ”hade gjort saddukeerna svarslösa”, ”tysta dåraktiga människors okunnighet”.",
+      "layers": {
+        "nt": 6,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ペテロ第一2:15、ルカ4:35、マタイ22:12・22:34、マルコ1:25・4:39。LXX（1.35）に並行。教父の代表例なし。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "1CO 9:9": 1,
+    "1PE 2:15": 2,
+    "1TI 5:18": 1,
+    "LUK 4:35": 2,
+    "MAT 22:12": 2,
+    "MAT 22:34": 2,
+    "MRK 1:25": 2,
+    "MRK 4:39": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（字義の口かご／黙らせる・黙る）による。"
+}

@@ -1,0 +1,70 @@
+{
+  "strong": "G4060",
+  "lemma": "περιτίθημι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "周りに置く・巡らす",
+      "def_ja": "周囲に置く、取り付ける。『葦の棒に付け』『海綿を葦に付けて』『垣をめぐらし』『垣をめぐらして』『海綿に酢を含ませ』『海綿をヒソプに付け』。",
+      "label_en": "to put around",
+      "def_en": "To put around, to attach: “put it on a reed”, “put a sponge on a reed”, “put a fence around it”, “set a hedge around”, “filled a sponge with sour wine”, “put a sponge on hyssop”.",
+      "label_es": "poner alrededor",
+      "def_es": "Colocar en torno, sujetar: «poniéndola en una caña», «puso la esponja en una caña», «la cercó de vallado», «cercó con vallado», «empapó una esponja en vinagre», «poniendo la esponja en un hisopo».",
+      "label_sv": "att sätta runt",
+      "def_sv": "Att sätta omkring, fästa: ”satte den på en käpp”, ”satte svampen på en käpp”, ”satte upp ett stängsel omkring”, ”hägnade in”, ”fyllde en svamp med ättiksvin”, ”satte svampen på en isopstjälk”.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヨハネ19:29、マタイ21:33・27:48、マルコ12:1・15:36。LXX（38.10）、教父（20.6）に並行。語義2・3との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "着せる・かぶせる",
+      "def_ja": "衣や冠を着せる、かぶせる。『赤い上着を着せ』『紫の衣を着せ、いばらの冠を編んで』。",
+      "label_en": "to put on (a garment, crown)",
+      "def_en": "To put a garment or crown on someone: “put a scarlet robe on him”, “clothed him in purple and, weaving a crown of thorns …”.",
+      "label_es": "vestir / poner",
+      "def_es": "Poner a alguien un vestido o una corona: «le echaron encima un manto de escarlata», «le vistieron de púrpura, y poniéndole una corona tejida de espinas».",
+      "label_sv": "att klä på / sätta på",
+      "def_sv": "Att sätta en dräkt eller krona på någon: ”hängde på honom en röd mantel”, ”klädde honom i purpur och satte på honom en törnekrona”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "マタイ27:28、マルコ15:17。教父（7.8）に並行。LXX の代表例は用法の対応が確認できず、この語義としては確認していない。語義1との境界は連続的。"
+    },
+    {
+      "n": 3,
+      "label_ja": "与える・身にまとわせる（比喩）",
+      "def_ja": "（名誉などを）与える、まとわせる。『いっそう豊かな誉れを着せる』。",
+      "label_en": "to bestow (figurative)",
+      "def_en": "To bestow or array with (honour and the like): “we bestow the greater honour”.",
+      "label_es": "conceder / revestir (figurado)",
+      "def_es": "Dar, revestir de (honra, etc.): «a ellos vestimos más dignamente».",
+      "label_sv": "att förläna (bildligt)",
+      "def_sv": "Att ge, ikläda (ära och liknande): ”dem ger vi desto större ära”.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "コリント第一12:23。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 12:23": 3,
+    "JHN 19:29": 1,
+    "MAT 21:33": 1,
+    "MAT 27:28": 2,
+    "MAT 27:48": 1,
+    "MRK 12:1": 1,
+    "MRK 15:17": 2,
+    "MRK 15:36": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（周りに置く／着せる／与える）による。"
+}

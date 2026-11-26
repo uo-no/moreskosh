@@ -1,0 +1,53 @@
+{
+  "strong": "G3305",
+  "lemma": "μέντοι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "しかし・それでも",
+      "def_ja": "対比・譲歩を表す接続詞。『それにもかかわらず』『しかしながら』『それでも』。",
+      "label_en": "but / nevertheless",
+      "def_en": "A conjunction of contrast or concession: “nevertheless”, “however”, “yet”.",
+      "label_es": "sin embargo / con todo",
+      "def_es": "Conjunción adversativa o concesiva: «no obstante», «sin embargo», «aun así».",
+      "label_sv": "dock / ändå",
+      "def_sv": "En konjunktion för motsättning eller medgivande: ”likväl”, ”emellertid”, ”ändå”.",
+      "layers": {
+        "nt": 7,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヨハネ4:27・7:13・12:42・20:5・21:4、ユダ8、テモテ第二2:19。LXX の代表例（26.12・38.7）は語形・用法が異なる（μέντοιγε を含む）ため、この語義としては確認していない。教父の代表例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "εἰ μέντοι（もし本当に〜なら）",
+      "def_ja": "εἰ とともに「もし本当に〜ならば」の条件を述べる。『もしあなたがたが、聖書にあるとおり…最高の律法を守るなら』。",
+      "label_en": "if indeed (εἰ μέντοι)",
+      "def_en": "With εἰ, states the condition “if really …”: “if you really fulfil the royal law according to the Scripture”.",
+      "label_es": "si en verdad (εἰ μέντοι)",
+      "def_es": "Con εἰ expresa la condición «si de veras …»: «si en verdad cumplís la ley real, conforme a la Escritura».",
+      "label_sv": "om verkligen (εἰ μέντοι)",
+      "def_sv": "Tillsammans med εἰ anger villkoret ”om verkligen …”: ”om ni verkligen uppfyller den kungliga lagen enligt Skriften”.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヤコブ2:8。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "2TI 2:19": 1,
+    "JAS 2:8": 2,
+    "JHN 12:42": 1,
+    "JHN 21:4": 1,
+    "JHN 20:5": 1,
+    "JHN 4:27": 1,
+    "JHN 7:13": 1,
+    "JUD 1:8": 1
+  },
+  "unresolved": [],
+  "layer_notes": "LXX の代表例は μέντοιγε の形を含み、用法の対応は未確認。語義区分は構文（単独／εἰ とともに）による。"
+}

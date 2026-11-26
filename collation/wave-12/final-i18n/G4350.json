@@ -1,0 +1,70 @@
+{
+  "strong": "G4350",
+  "lemma": "προσκόπτω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "つまずく",
+      "def_ja": "つまずく（比喩を含む）。『彼らはつまずく』『つまずくことがない』『つまずくから』『兄弟をつまずかせる』『石につまずいた』。",
+      "label_en": "to stumble",
+      "def_en": "To stumble (including figurative uses): “they stumble”, “do not stumble”, “because they stumble”, “makes a brother stumble”, “stumbled over the stone”.",
+      "label_es": "tropezar",
+      "def_es": "Tropezar (incluido el sentido figurado): «tropiezan», «no tropieza», «porque tropieza», «en que tu hermano tropiece», «tropezaron en la piedra».",
+      "label_sv": "att snava / ta anstöt",
+      "def_sv": "Att snubbla (även bildligt): ”de snubblar”, ”snubblar inte”, ”därför att han snubblar”, ”får en broder att komma på fall”, ”stötte mot stenen”.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ペテロ第一2:8、ヨハネ11:9・11:10、ローマ14:21・9:32。LXX（32.20・4.19）に並行。教父の代表例では確認していない。語義2・3との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "打ちつける（足を石に）",
+      "def_ja": "足を石に打ちつける。『足を石に打ちつけることのないように』。",
+      "label_en": "to strike (a foot on a stone)",
+      "def_en": "To dash one's foot against a stone: “lest you strike your foot against a stone”.",
+      "label_es": "golpear (el pie contra piedra)",
+      "def_es": "Dar con el pie en una piedra: «no tropieces con tu pie en piedra».",
+      "label_sv": "att stöta (foten mot en sten)",
+      "def_sv": "Att slå foten mot en sten: ”så att du inte stöter foten mot någon sten”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マタイ4:6、ルカ4:11（詩篇91篇の引用）。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "吹きつける・打ちつける（風・水）",
+      "def_ja": "家に風や水が吹きつける。『その家に襲いかかっても』。",
+      "label_en": "to beat against (wind, water)",
+      "def_en": "Wind or water beats on a house: “though they beat on that house”.",
+      "label_es": "batir contra (viento, agua)",
+      "def_es": "El viento o el agua golpean la casa: «aunque dieron con ímpetu contra aquella casa».",
+      "label_sv": "att kasta sig mot (vind, vatten)",
+      "def_sv": "Vind eller vatten slår mot ett hus: ”fastän de kastade sig mot huset”.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マタイ7:27。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1PE 2:8": 1,
+    "JHN 11:9": 1,
+    "JHN 11:10": 1,
+    "LUK 4:11": 2,
+    "MAT 4:6": 2,
+    "MAT 7:27": 3,
+    "ROM 14:21": 1,
+    "ROM 9:32": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（つまずく／足を打つ／家への吹きつけ）による。"
+}

@@ -1,0 +1,53 @@
+{
+  "strong": "G3741",
+  "lemma": "ὅσιος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "敬虔な・聖なる",
+      "def_ja": "神の前に清く敬虔な、聖なる。『きよい手をあげて祈る』『あなたの聖者を』『聖なる者を朽ち果てさせず』『聖であり、悪も汚れもなく』『あなただけが聖なる方』『聖なる方』『敬虔で』。",
+      "label_en": "devout / holy",
+      "def_en": "Pure, devout, holy before God: “lifting holy hands in prayer”, “your Holy One”, “not let your Holy One see corruption”, “holy, innocent, unstained”, “you alone are holy”, “the Holy One”, “devout”.",
+      "label_es": "piadoso / santo",
+      "def_es": "Puro, devoto y santo delante de Dios: «orar levantando manos santas», «tu Santo», «ni permitirás que tu Santo vea corrupción», «santo, inocente, sin mancha», «solo tú eres santo», «el Santo», «piadoso».",
+      "label_sv": "from / helig",
+      "def_sv": "Ren, from och helig inför Gud: ”lyfta heliga händer i bön”, ”din helige”, ”inte låta din helige se förgängelsen”, ”helig, oskyldig, obefläckad”, ”du ensam är helig”, ”du Helige”, ”from”.",
+      "layers": {
+        "nt": 7,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒2:27・13:35、ヘブル7:26、黙示録15:4・16:5、テトス1:8、テモテ第一2:8。LXX（85.2・14.3）に並行。教父の代表例は用法未確認。人・方を指す用法で、語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "聖なるもの（中性名詞用法）",
+      "def_ja": "『ダビデに約束した聖なる確かな恵み』。",
+      "label_en": "holy things (neuter as noun)",
+      "def_en": "“The holy and sure blessings promised to David.”",
+      "label_es": "las cosas santas (neutro sustantivado)",
+      "def_es": "«Las misericordias santas y fieles prometidas a David».",
+      "label_sv": "det heliga (substantiverat neutrum)",
+      "def_sv": "”De heliga och säkra löftena till David.”",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "使徒13:34（τὰ ὅσια）。教父（1.3）に並行。語義1との境界は連続的。LXX の代表例は人を指す用法で、この語義としては確認していない。"
+    }
+  ],
+  "assignments": {
+    "1TI 2:8": 1,
+    "ACT 13:34": 2,
+    "ACT 13:35": 1,
+    "ACT 2:27": 1,
+    "HEB 7:26": 1,
+    "REV 15:4": 1,
+    "REV 16:5": 1,
+    "TIT 1:8": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（人・方の形容／中性名詞）による。"
+}

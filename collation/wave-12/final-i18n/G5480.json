@@ -1,0 +1,53 @@
+{
+  "strong": "G5480",
+  "lemma": "χάραγμα",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "刻印・しるし",
+      "def_ja": "刻まれたしるし、刻印。『右の手あるいは額にしるしを受け』『このしるしのある者でなければ』『獣のしるしを持つ人々』『獣のしるしを受けた者たち』『その額にも手にもしるしを受けなかった』『獣のしるしを受けた者』。",
+      "label_en": "mark / stamp",
+      "def_en": "An engraved sign, a stamp: “receive a mark on the right hand or the forehead”, “unless one has the mark”, “those who bear the mark of the beast”, “those who receive the mark of the beast”, “had not received its mark on their foreheads or hands”, “whoever receives the mark”.",
+      "label_es": "marca / señal",
+      "def_es": "Señal grabada, marca: «que se pusiese una marca en la mano derecha o en la frente», «sino el que tuviese la marca», «los que tienen la marca de la bestia», «los que recibieron la marca», «no recibieron la marca en sus frentes ni en sus manos», «cualquiera que reciba la marca».",
+      "label_sv": "märke / tecken",
+      "def_sv": "Ett inristat märke, en stämpel: ”få ett märke på högra handen eller pannan”, ”utom den som har märket”, ”de som bär vilddjurets märke”, ”de som tagit emot märket”, ”inte fått märket på pannan eller handen”, ”den som tar emot märket”.",
+      "layers": {
+        "nt": 7,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "黙示録13:16・13:17・16:2・14:9・14:11・20:4・19:20。LXX・教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "彫刻された像",
+      "def_ja": "彫り刻まれたもの、像。『人間の技巧や考案で刻まれた金や銀や石のようなもの』。",
+      "label_en": "carved image",
+      "def_en": "Something engraved, an image: “like gold or silver or stone, an image formed by human art and imagination”.",
+      "label_es": "imagen esculpida",
+      "def_es": "Cosa tallada, imagen: «semejante a oro, o plata, o piedra, escultura de arte y de imaginación de hombres».",
+      "label_sv": "huggen bild",
+      "def_sv": "Något inristat, en bild: ”som guld, silver eller sten, format av människors konst och fantasi”.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒17:29。語義1との境界は連続的。LXX・教父の用例なし。"
+    }
+  ],
+  "assignments": {
+    "ACT 17:29": 2,
+    "REV 13:16": 1,
+    "REV 13:17": 1,
+    "REV 16:2": 1,
+    "REV 14:9": 1,
+    "REV 14:11": 1,
+    "REV 20:4": 1,
+    "REV 19:20": 1
+  },
+  "unresolved": [],
+  "layer_notes": "LXX・教父の用例なし。語義区分は用法（刻印のしるし／彫刻物）による。"
+}

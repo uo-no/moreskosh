@@ -1,0 +1,38 @@
+{
+ "strong": "G3837",
+ "lemma": "πανταχοῦ",
+ "status": "拡張照合・確定",
+ "senses": [
+  {
+   "n": 1,
+   "label_ja": "至るところに",
+   "def_ja": "あらゆる場所に、至るところで。『至るところの教会で』『至るところにいるすべての人に』『あらゆる点で、あらゆる所で』『至るところで言われている』『至るところで宣べ伝えた』『主も共に働き』『その評判は至るところに』。",
+   "label_en": "everywhere",
+   "def_en": "In every place, everywhere: “in every church everywhere”, “all people everywhere”, “in every way and everywhere”, “spoken against everywhere”, “preaching everywhere”, “the Lord worked with them”, “his fame everywhere”.",
+   "label_es": "en todas partes",
+   "def_es": "En todo lugar, por doquier: «en todas las iglesias, en todas partes», «a todos los hombres en todo lugar», «en todo y en todas partes», «en todas partes se habla», «predicaron en todas partes», «ayudándoles el Señor», «su fama por todas partes».",
+   "label_sv": "överallt",
+   "def_sv": "På alla platser: ”i alla församlingar överallt”, ”alla människor överallt”, ”på allt sätt och överallt”, ”det talas överallt”, ”förkunnade överallt”, ”Herren verkade med dem”, ”ryktet gick överallt”.",
+   "layers": {
+    "nt": 8,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "コリント第一4:17、使徒17:30・21:28・24:3・28:22、ルカ9:6、マルコ1:28・16:20。LXX（42.22）、教父（41.2）に並行。単一語義。"
+  }
+ ],
+ "assignments": {
+  "1CO 4:17": 1,
+  "ACT 17:30": 1,
+  "ACT 24:3": 1,
+  "ACT 28:22": 1,
+  "LUK 9:6": 1,
+  "MRK 1:28": 1,
+  "MRK 16:20": 1,
+  "ACT 21:28": 1
+ },
+ "unresolved": [],
+ "layer_notes": "単一語義。使徒21:28 の形 πανταχῇ は、BDAG が πανταχοῦ の異形として同項の用例に挙げる形で、本レンマに含む。",
+ "excluded": [],
+ "note": "ACT 21:28 の形 πανταχῇ は、BDAG が πανταχοῦ の異形として同項の用例に挙げるため本レンマに割り当てる（2026-11-26 BDAG 照合で確定。当初は別レンマ G3836 の疑いで除外していた）。"
+}

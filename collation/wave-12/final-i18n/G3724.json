@@ -1,0 +1,53 @@
+{
+  "strong": "G3724",
+  "lemma": "ὁρίζω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "定める・指定する",
+      "def_ja": "日時・人・定めを決める、指定する。『それぞれの力に応じて援助を送ることに決めた』『神によって定められた者』『時代と境界を定め』『お定めになった方によって』『神の定めた計画』『またある日を定めて』『定められたとおりに去って行く』。",
+      "label_en": "to determine / appoint",
+      "def_en": "To fix or appoint a time, person, or decree: “determined to send relief, each according to his ability”, “the one appointed by God”, “having determined times and boundaries”, “by a man whom he has appointed”, “the definite plan of God”, “appoints a certain day”, “goes as it has been determined”.",
+      "label_es": "determinar / designar",
+      "def_es": "Fijar o designar fecha, persona o decreto: «determinaron enviar socorro, cada uno conforme a lo que tenía», «el que Dios ha puesto», «les ha prefijado el orden de los tiempos y los límites», «por aquel varón a quien designó», «el determinado consejo de Dios», «determina un día», «va, según lo que está determinado».",
+      "label_sv": "att bestämma / utse",
+      "def_sv": "Att fastställa tid, person eller ordning: ”beslöt att sända hjälp, var och en efter förmåga”, ”den som Gud har insatt”, ”fastställt tider och gränser”, ”genom en man som han bestämt därtill”, ”Guds fastställda plan”, ”bestämmer en viss dag”, ”går bort så som det är bestämt”.",
+      "layers": {
+        "nt": 7,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "使徒11:29・10:42・17:26・17:31・2:23、ヘブル4:7、ルカ22:22。教父（40.2）に並行。LXX の代表例（34.6・15.11）は境界を画する用法で、この語義としては確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "定められた／宣言された（解釈が分かれる）",
+      "def_ja": "『死人からの復活により、力をもって神の御子と定められた（宣言された）』。",
+      "label_en": "appointed / declared (disputed)",
+      "def_en": "“Appointed (declared) Son of God in power by the resurrection from the dead.”",
+      "label_es": "constituido / declarado (discutido)",
+      "def_es": "«Declarado (constituido) Hijo de Dios con poder, por la resurrección de entre los muertos».",
+      "label_sv": "insatt / förklarad (omtvistat)",
+      "def_sv": "”Genom uppståndelsen från de döda insatt (förklarad) som Guds Son med makt.”",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ローマ1:4。「定められた」か「宣言された」かの解釈は争われており決定しない。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 11:29": 1,
+    "ACT 10:42": 1,
+    "ACT 17:26": 1,
+    "ACT 17:31": 1,
+    "ACT 2:23": 1,
+    "HEB 4:7": 1,
+    "LUK 22:22": 1,
+    "ROM 1:4": 2
+  },
+  "unresolved": [],
+  "layer_notes": "LXX の代表例は境界を画する用法（語義に立てない）。ローマ1:4 は解釈が分かれるため独立させ、決定しない。"
+}

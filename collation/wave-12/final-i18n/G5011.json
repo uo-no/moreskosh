@@ -1,0 +1,53 @@
+{
+  "strong": "G5011",
+  "lemma": "ταπεινός",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "低い・卑しい・打ち沈んだ",
+      "def_ja": "身分が低い、卑しい、気落ちした。『身分の低い者は、自分が高くされたことを誇れ』『気落ちした者を慰める神』『身分の低い者を引き上げ』『低い者たちと交わりなさい』。",
+      "label_en": "lowly / humble / downcast",
+      "def_en": "Low in station, humble, downhearted: “let the lowly brother boast in his exaltation”, “God, who comforts the downcast”, “lifted up the lowly”, “associate with the lowly”.",
+      "label_es": "humilde / de baja condición / abatido",
+      "def_es": "De condición baja, desanimado: «el hermano de humilde condición gloríese en su exaltación», «Dios, que consuela a los humildes», «exaltó a los humildes», «asociaos con los humildes».",
+      "label_sv": "ringa / låg / nedslagen",
+      "def_sv": "Av låg ställning, modfälld: ”den ringe ska berömma sig av sin upphöjelse”, ”Gud som tröstar de nedslagna”, ”upphöjt de ringa”, ”håll er till det ringa”.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヤコブ1:9、コリント第二7:6、ルカ1:52、ローマ12:16。ローマ12:16 が男性（低い人々）か中性（低いこと）かは決定しない。LXX（2.11・12.5）に並行。教父の代表例は謙遜の用法で、この語義としては確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "へりくだった・謙遜な",
+      "def_ja": "高ぶらず、へりくだった。『謙遜な者に恵みを授ける』『面と向かってはへりくだり』『神は高ぶる者を退け、へりくだる者に恵みを与える』『わたしは柔和で心のへりくだった者』。",
+      "label_en": "humble / lowly in heart",
+      "def_en": "Not proud, humble: “gives grace to the humble”, “humble when face to face”, “God opposes the proud but gives grace to the humble”, “I am gentle and lowly in heart”.",
+      "label_es": "humilde / modesto",
+      "def_es": "Sin altivez, humilde: «da gracia a los humildes», «estando presente soy humilde», «Dios resiste a los soberbios, y da gracia a los humildes», «soy manso y humilde de corazón».",
+      "label_sv": "ödmjuk",
+      "def_sv": "Utan högmod, ödmjuk: ”ger nåd åt de ödmjuka”, ”ödmjuk när jag står inför er”, ”Gud står emot de högmodiga men ger nåd åt de ödmjuka”, ”jag är mild och ödmjuk i hjärtat”.",
+      "layers": {
+        "nt": 4,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "ペテロ第一5:5、コリント第二10:1、ヤコブ4:6、マタイ11:29。教父（30.2）に並行。LXX の代表例では態度の用法を確認していない。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "1PE 5:5": 2,
+    "2CO 10:1": 2,
+    "2CO 7:6": 1,
+    "JAS 4:6": 2,
+    "JAS 1:9": 1,
+    "LUK 1:52": 1,
+    "MAT 11:29": 2,
+    "ROM 12:16": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（身分・状態の低さ／態度の謙遜）による。"
+}

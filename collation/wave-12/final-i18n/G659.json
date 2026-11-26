@@ -1,0 +1,70 @@
+{
+  "strong": "G659",
+  "lemma": "ἀποτίθημι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "脱ぎ置く",
+      "def_ja": "衣を脱ぎ置く。『証人たちは自分たちの上着をぬいで』。",
+      "label_en": "to lay down (garments)",
+      "def_en": "To take off and put down garments: “the witnesses laid down their garments”.",
+      "label_es": "dejar (la ropa)",
+      "def_es": "Quitarse la ropa y dejarla: «los testigos pusieron sus ropas».",
+      "label_sv": "att lägga av (kläder)",
+      "def_sv": "Att ta av och lägga ner plagg: ”vittnena lade av sig sina mantlar”.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒7:58。語義2との境界は連続的。LXX・教父の代表例は比喩的用法・別用法で、この語義としては確認していない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "捨て去る・脱ぎ捨てる（比喩）",
+      "def_ja": "悪い性質・習慣を脱ぎ捨てる、捨て去る。『すべての悪意を捨て去り』『これらすべてを捨て去りなさい』『古い人を脱ぎ捨て』『偽りを捨て』『すべての重荷を捨て』『すべての汚れを捨て去り』。",
+      "label_en": "to put off / cast off (figurative)",
+      "def_en": "To strip off and cast away bad qualities and habits: “put away all malice”, “put them all away”, “put off the old self”, “having put away falsehood”, “lay aside every weight”, “put away all filthiness”.",
+      "label_es": "despojarse / desechar (figurado)",
+      "def_es": "Quitarse y arrojar malas cualidades y hábitos: «desechando toda malicia», «dejad todas estas cosas», «despojaos del viejo hombre», «desechando la mentira», «despojémonos de todo peso», «desechando toda inmundicia».",
+      "label_sv": "att lägga bort / avlägga (bildligt)",
+      "def_sv": "Att ta av sig och kasta bort dåliga egenskaper och vanor: ”lägg bort all elakhet”, ”lägg bort allt detta”, ”lägg av den gamla människan”, ”lägg bort lögnen”, ”lägg av allt som tynger”, ”lägg bort all orenhet”.",
+      "layers": {
+        "nt": 6,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "ペテロ第一2:1、コロサイ3:8、エペソ4:22・4:25、ヘブル12:1、ヤコブ1:21。教父（26.16.3・57.2）に並行。LXX の代表例は別用法で、この語義としては確認していない。語義1との境界は連続的。"
+    },
+    {
+      "n": 3,
+      "label_ja": "置く・入れる",
+      "def_ja": "人や物をある場所に置く、入れる。『ヘロデは…ヨハネを捕えて縛り、獄に入れた』。",
+      "label_en": "to put / place into",
+      "def_en": "To put or place a person or thing somewhere: “Herod had seized John, bound him, and put him in prison”.",
+      "label_es": "poner / meter",
+      "def_es": "Poner o meter a alguien o algo en un lugar: «Herodes había prendido a Juan, y le había encadenado y metido en la cárcel».",
+      "label_sv": "att sätta / lägga in",
+      "def_sv": "Att sätta en människa eller sak på en plats: ”Herodes hade gripit Johannes, bundit honom och satt honom i fängelse”.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "マタイ14:3。LXX（15.34・16.34）に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "1PE 2:1": 2,
+    "ACT 7:58": 1,
+    "COL 3:8": 2,
+    "EPH 4:22": 2,
+    "EPH 4:25": 2,
+    "HEB 12:1": 2,
+    "JAS 1:21": 2,
+    "MAT 14:3": 3
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（衣を脱ぐ／比喩的に捨てる／置く）による。"
+}

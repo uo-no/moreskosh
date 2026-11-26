@@ -1,0 +1,53 @@
+{
+  "strong": "G4978",
+  "lemma": "σχίσμα",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "裂け目・破れ",
+      "def_ja": "布の裂け目、破れ。『新しい布切れを古い着物に当てる者はない。そうすれば破れがもっとひどくなる』。",
+      "label_en": "tear / rent",
+      "def_en": "A tear in cloth: “no one puts a patch of new cloth on an old garment, for a worse tear is made”.",
+      "label_es": "rotura / desgarrón",
+      "def_es": "Rasgadura de la tela: «nadie pone remiendo de paño nuevo en vestido viejo, porque se hace peor la rotura».",
+      "label_sv": "reva",
+      "def_sv": "En reva i tyget: ”ingen syr en ny lapp på en gammal mantel, för då blir revan värre”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マタイ9:16、マルコ2:21。LXX の用例なし。教父の代表例は分裂の用法で、この語義としては確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "分裂・分派",
+      "def_ja": "人々の間の分裂、分かれ。『群衆の間に分裂が生じた』『分裂が生じた』『彼らの間に分裂が生じた』『あなたがたの間に分争がないように』『あなたがたの間に分裂があると聞いている』『からだの中に分裂がなく』。",
+      "label_en": "division / split",
+      "def_en": "A division among people: “there was a division among the crowd”, “a division arose”, “there was again a division among them”, “that there be no divisions among you”, “I hear that there are divisions among you”, “that there may be no division in the body”.",
+      "label_es": "división / disensión",
+      "def_es": "Escisión entre las personas: «hubo disensión entre la gente», «había disensión», «volvió a haber disensión entre ellos», «que no haya entre vosotros divisiones», «oigo que hay entre vosotros divisiones», «para que no haya desavenencia en el cuerpo».",
+      "label_sv": "splittring",
+      "def_sv": "Splittring bland människor: ”det uppstod oenighet bland folket”, ”det blev splittring”, ”åter blev det oenighet bland dem”, ”låt det inte finnas splittringar bland er”, ”jag hör att det finns splittringar bland er”, ”så att ingen splittring uppstår i kroppen”.",
+      "layers": {
+        "nt": 6,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "ヨハネ10:19・9:16・7:43、コリント第一1:10・11:18・12:25。教父（2.6・25.9.4）に並行。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "1CO 12:25": 2,
+    "1CO 1:10": 2,
+    "1CO 11:18": 2,
+    "JHN 10:19": 2,
+    "JHN 9:16": 2,
+    "JHN 7:43": 2,
+    "MAT 9:16": 1,
+    "MRK 2:21": 1
+  },
+  "unresolved": [],
+  "layer_notes": "LXX の用例なし。語義区分は用法（布の裂け目／人々の分裂）による。"
+}

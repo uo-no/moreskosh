@@ -1,0 +1,53 @@
+{
+  "strong": "G3170",
+  "lemma": "μεγαλύνω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "大きくする・長くする",
+      "def_ja": "大きくする、増し加える。『衣のふさを長くし』『主が大きなあわれみを示されたので』『あなたがたの間で大きく増し加えられ』。",
+      "label_en": "to enlarge / lengthen",
+      "def_en": "To make large, to increase: “make their fringes long”, “the Lord had shown great mercy”, “our area of influence among you may be greatly enlarged”.",
+      "label_es": "agrandar / alargar",
+      "def_es": "Hacer grande, aumentar: «extienden los flecos de sus mantos», «Dios había engrandecido para con ella su misericordia», «ser muy engrandecidos entre vosotros».",
+      "label_sv": "att göra stor / förlänga",
+      "def_sv": "Att förstora, utöka: ”gör tofsarna på mantlarna stora”, ”Herren hade visat stor barmhärtighet”, ”vårt arbetsfält hos er utvidgas”.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "マタイ23:5、ルカ1:58、コリント第二10:15。教父（10.3）に並行。LXX の代表例は称賛と区別しがたく、この語義としては確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "あがめる・大いにたたえる",
+      "def_ja": "大いなるものとして称える、あがめる。『わたしの魂は主をあがめ』『民は彼らを尊敬していた』『神をあがめるのを聞いた』『主イエスの名はあがめられた』『キリストがあがめられるように』。",
+      "label_en": "to magnify / extol",
+      "def_en": "To praise as great, to magnify: “my soul magnifies the Lord”, “the people held them in high honour”, “heard them extolling God”, “the name of the Lord Jesus was extolled”, “that Christ will be honoured”.",
+      "label_es": "engrandecer / ensalzar",
+      "def_es": "Celebrar como grande, ensalzar: «engrandece mi alma al Señor», «el pueblo los alababa grandemente», «los oían que magnificaban a Dios», «era magnificado el nombre del Señor Jesús», «será magnificado Cristo».",
+      "label_sv": "att prisa / upphöja",
+      "def_sv": "Att lovprisa som stor: ”min själ prisar Herrens storhet”, ”folket satte dem högt”, ”hörde dem prisa Gud”, ”Herren Jesu namn blev prisat”, ”att Kristus ska bli förhärligad”.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ルカ1:46、使徒5:13・10:46・19:17、ピリピ1:20。LXX（91.6・11.37）、教父（15.5）に並行。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "2CO 10:15": 1,
+    "ACT 10:46": 2,
+    "ACT 19:17": 2,
+    "ACT 5:13": 2,
+    "LUK 1:46": 2,
+    "LUK 1:58": 1,
+    "MAT 23:5": 1,
+    "PHP 1:20": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（大きくする／称える）による。"
+}

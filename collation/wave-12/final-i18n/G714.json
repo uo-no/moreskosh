@@ -1,0 +1,53 @@
+{
+  "strong": "G714",
+  "lemma": "ἀρκέω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "足りる",
+      "def_ja": "十分である、足りる。『わたしの恵みはあなたに対して十分である』『わたしたちには足りない』『わたしたちにも、あなたがたにも足りないといけないから』『わたしたちには、それで十分です』。",
+      "label_en": "to be sufficient",
+      "def_en": "To be enough, to suffice: “my grace is sufficient for you”, “not enough for us”, “there will not be enough for us and for you”, “show us the Father, and it is enough for us”.",
+      "label_es": "bastar",
+      "def_es": "Ser suficiente, bastar: «bástate mi gracia», «no nos bastarían», «para que no nos falte a nosotras y a vosotras», «y nos basta».",
+      "label_sv": "att räcka / vara nog",
+      "def_sv": "Att vara tillräckligt: ”min nåd är nog för dig”, ”det räcker inte för oss”, ”det räcker inte till både oss och er”, ”så är det nog för oss”.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヨハネ14:8・6:7、コリント第二12:9、マタイ25:9。LXX（22.34）、教父（3.10.8）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "満足する・足れりとする",
+      "def_ja": "受け身で、それで満足する。『衣食があれば、それで足れりとすべきである』『それで満足せず』『今持っているもので満足しなさい』『自分の給料で満足していなさい』。",
+      "label_en": "to be content",
+      "def_en": "In the passive, to be satisfied with something: “if we have food and clothing, with these we will be content”, “not satisfied with that”, “be content with what you have”, “be content with your wages”.",
+      "label_es": "contentarse",
+      "def_es": "En pasiva, quedar satisfecho con algo: «teniendo sustento y abrigo, estemos contentos con esto», «no contento con estas cosas», «contentos con lo que tenéis ahora», «contentaos con vuestro salario».",
+      "label_sv": "att nöja sig",
+      "def_sv": "I passiv att vara nöjd med något: ”har vi mat och kläder ska vi nöja oss med det”, ”inte nöjd med detta”, ”nöj er med det ni har”, ”nöj er med er lön”.",
+      "layers": {
+        "nt": 4,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "テモテ第一6:8、ヨハネ第三10、ヘブル13:5、ルカ3:14。教父（2.1）に並行。LXX の代表例では確認していない。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "1TI 6:8": 2,
+    "2CO 12:9": 1,
+    "3JN 1:10": 2,
+    "HEB 13:5": 2,
+    "JHN 14:8": 1,
+    "JHN 6:7": 1,
+    "LUK 3:14": 2,
+    "MAT 25:9": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（足りる／満足する）による。"
+}

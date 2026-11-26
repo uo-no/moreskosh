@@ -1,0 +1,70 @@
+{
+  "strong": "G3843",
+  "lemma": "πάντως",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "まったく〜ない（否定とともに）",
+      "def_ja": "否定とともに、まったく〜というわけではない。『世の人々を全く交際するなと言うのではない』『彼が今行くことは全く御心ではなかった』『わたしたちには何か優っているのか。全くそうではない』。",
+      "label_en": "not at all (with negative)",
+      "def_en": "With a negative, “not altogether”, “not at all”: “not at all meaning that you should not associate with the people of this world”, “it was not at all his will to go now”, “are we any better off? Not at all”.",
+      "label_es": "de ningún modo (con negación)",
+      "def_es": "Con negación, «no del todo», «de ninguna manera»: «no absolutamente con los fornicarios de este mundo», «de ninguna manera tuvo voluntad de ir por ahora», «¿somos nosotros mejores? En ninguna manera».",
+      "label_sv": "alls inte (med negation)",
+      "def_sv": "Med negation, ”inte helt och hållet”, ”alls inte”: ”jag menar inte alls all världens människor”, ”han ville absolut inte komma nu”, ”har vi något företräde? Inte alls”.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "コリント第一5:10・16:12、ローマ3:9。否定詞との結びつきで、「まったく〜ない」か「必ずしも〜ない」かの強さは文脈により、決定しない。LXX・教父の代表例では否定との用法は確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "確かに・きっと",
+      "def_ja": "強い確信を表す。『確かにもうすぐ（人々が）聞くに違いない』『きっとこの人は人殺しだ』『あなたはきっと、医者よ自分を治せ、という諺を』『確かにわたしたちのために言っているのだ』。",
+      "label_en": "surely / certainly",
+      "def_en": "Expresses strong conviction: “they will certainly hear”, “no doubt this man is a murderer”, “doubtless you will quote me the proverb, ‘Physician, heal yourself’”, “surely he says it for our sake”.",
+      "label_es": "sin duda / seguramente",
+      "def_es": "Expresa fuerte convicción: «de cierto oirán», «ciertamente este hombre es homicida», «sin duda me diréis este refrán: Médico, cúrate a ti mismo», «lo dice enteramente por nosotros».",
+      "label_sv": "säkert / förvisso",
+      "def_sv": "Uttrycker stark övertygelse: ”de kommer säkert att få höra”, ”den mannen är säkert en mördare”, ”ni kommer säkert att säga: Läkare, bota dig själv”, ”visst säger han det för vår skull”.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒21:22・28:4、ルカ4:23、コリント第一9:10。LXX（5.11・14.8）、教父（1.2.4）に並行。語義1・3との境界は連続的。"
+    },
+    {
+      "n": 3,
+      "label_ja": "どうにかして・ぜひとも",
+      "def_ja": "『何とかして幾人かを救うためである』。",
+      "label_en": "by all means",
+      "def_en": "“That by all means I might save some.”",
+      "label_es": "de todos modos",
+      "def_es": "«Para que de todos modos salve a algunos».",
+      "label_sv": "till varje pris",
+      "def_sv": "”För att till varje pris rädda några.”",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "コリント第一9:22。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 5:10": 1,
+    "1CO 16:12": 1,
+    "1CO 9:10": 2,
+    "1CO 9:22": 3,
+    "ACT 21:22": 2,
+    "ACT 28:4": 2,
+    "LUK 4:23": 2,
+    "ROM 3:9": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（否定とともに／確信／手段）による。"
+}
