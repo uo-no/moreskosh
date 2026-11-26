@@ -1,0 +1,214 @@
+{
+ "strong": "G2559",
+ "lemma": "κακόω",
+ "nt_freq": 6,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1PE 3:13",
+   "form": "κακώσων",
+   "morph": "V-FAP-NSM",
+   "gloss_en": "harm",
+   "gloss_ja": "苦しめる",
+   "verse": "Καὶ τίς ὁ κακώσων ὑμᾶς ἐὰν τοῦ ἀγαθοῦ ζηλωταὶ γένησθε;"
+  },
+  {
+   "ref": "ACT 12:1",
+   "form": "κακῶσαί",
+   "morph": "V-AAN",
+   "gloss_en": "violent",
+   "gloss_ja": "苦しめる",
+   "verse": "Κατ’ ἐκεῖνον δὲ τὸν καιρὸν ἐπέβαλεν Ἡρῴδης ὁ βασιλεὺς τὰς χεῖρας κακῶσαί τινας τῶν ἀπὸ τῆς ἐκκλησίας."
+  },
+  {
+   "ref": "ACT 14:2",
+   "form": "ἐκάκωσαν",
+   "morph": "V-AAI-3P",
+   "gloss_en": "poisoned",
+   "gloss_ja": "苦しめる",
+   "verse": "οἱ δὲ ἀπειθήσαντες Ἰουδαῖοι ἐπήγειραν καὶ ἐκάκωσαν τὰς ψυχὰς τῶν ἐθνῶν κατὰ τῶν ἀδελφῶν."
+  },
+  {
+   "ref": "ACT 18:10",
+   "form": "κακῶσαί",
+   "morph": "V-AAN",
+   "gloss_en": "harm",
+   "gloss_ja": "苦しめる",
+   "verse": "διότι ἐγώ εἰμι μετὰ σοῦ καὶ οὐδεὶς ἐπιθήσεταί σοι τοῦ κακῶσαί σε, διότι λαός ἐστί μοι πολὺς ἐν τῇ πόλει ταύτῃ."
+  },
+  {
+   "ref": "ACT 7:6",
+   "form": "κακώσουσιν",
+   "morph": "V-FAI-3P",
+   "gloss_en": "mistreat",
+   "gloss_ja": "苦しめる",
+   "verse": "ἐλάλησεν δὲ οὕτως ὁ θεὸς ὅτι ἔσται τὸ σπέρμα αὐτοῦ πάροικον ἐν γῇ ἀλλοτρίᾳ, καὶ δουλώσουσιν αὐτὸ καὶ κακώσουσιν ἔτη τετρακόσια·"
+  },
+  {
+   "ref": "ACT 7:19",
+   "form": "ἐκάκωσεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "oppressed",
+   "gloss_ja": "苦しめる",
+   "verse": "οὗτος κατασοφισάμενος τὸ γένος ἡμῶν ἐκάκωσεν τοὺς πατέρας τοῦ ποιεῖν τὰ βρέφη ἔκθετα αὐτῶν εἰς τὸ μὴ ζῳογονεῖσθαι."
+  }
+ ],
+ "lxx": {
+  "total": 64,
+  "works": {
+   "Genesis": 3,
+   "Exodus": 6,
+   "Numeri": 7,
+   "Deuteronomium": 4,
+   "Josue": 2,
+   "Ruth": 1,
+   "Regnorum iii": 1,
+   "Judith": 1,
+   "Machabaeorum ii": 1,
+   "Machabaeorum iv": 1,
+   "Psalmi": 7,
+   "Ecclesiastes": 2,
+   "Job": 5,
+   "Sapientia Salomonis": 1,
+   "Ecclesiasticus sive Siracides": 8,
+   "Osee": 1,
+   "Sophonias": 1,
+   "Zacharias": 2,
+   "Isaias": 3,
+   "Jeremias": 4,
+   "Baruch": 1,
+   "Ezechiel": 1,
+   "Daniel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "11.24",
+    "form": "κακωθήσομαι",
+    "postag": "v1sfip---",
+    "sentence": "αὐτάρκη μοί ἐστι, καὶ τί ἀπὸ τοῦ νῦν κακωθήσομαι;"
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "16.15",
+    "form": "ἐκάκωσα",
+    "postag": "v1saia---",
+    "sentence": "οὐκ ἐπιθύμημα οὐδενὸς αὐτῶν εἴληφα, οὐ-δὲ ἐκάκωσα οὐδένα αὐτῶν."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "106.39",
+    "form": "ἐκακώθησαν",
+    "postag": "v3paip---",
+    "sentence": "καὶ ὠλιγώθησαν καὶ ἐκακώθησαν ἀπὸ θλίψεως κακῶν καὶ ὀδύνης."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "5.22",
+    "form": "ἐκάκωσας",
+    "postag": "v2saia---",
+    "sentence": "τί ἐκάκωσας τὸν λαὸν τοῦτον;"
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "20.26",
+    "form": "κακώσαι",
+    "postag": "v3saoa---",
+    "sentence": "κατέδεται αὐτὸν πῦρ ἄκαυστον, κακώσαι δὲ αὐτοῦ ἐπήλυτος τὸν οἶκον."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "26.6",
+    "form": "ἐκάκωσαν",
+    "postag": "v3paia---",
+    "sentence": "καὶ ἐκάκωσαν ἡμᾶς οἱ Αἰγύπτιοι καὶ ἐταπείνωσαν ἡμᾶς καὶ ἐπέθηκαν ἡμῖν ἔργα σκληρά ·"
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "38.28",
+    "form": "κακοῦν",
+    "postag": "v--pna---",
+    "sentence": "καὶ ἔσται ὥσπερ ἐγρηγόρουν ἐπ’ αὐτοὺς καθαιρεῖν καὶ κακοῦν, οὕτως γρηγορήσω ἐπ’ αὐτοὺς τοῦ οἰκοδομεῖν καὶ καταφυτεύειν, φησὶ Κύριος."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "19.9",
+    "form": "κακώσομεν",
+    "postag": "v1pfia---",
+    "sentence": "νῦν οὖν σὲ κακώσομεν μᾶλλον ἢ ἐκείνους."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "53.7",
+    "form": "κεκακῶσθαι",
+    "postag": "v--rnm---",
+    "sentence": "καὶ αὐτὸς διὰ τὸ κεκακῶσθαι οὐκ ἀνοίγει τὸ στόμα αὐτοῦ ·"
+   },
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "24.20",
+    "form": "κακώσει",
+    "postag": "v3sfia---",
+    "sentence": "ἡνίκα ἂν ἐγκαταλίπητε Κύριον καὶ λατρεύσητε θεοῖς ἑτέροις, καὶ ἐπελθὼν κακώσει ὑμᾶς καὶ ἐξαναλώσει ὑμᾶς ἀνθ’ ὧν εὖ ἐποίησεν ὑμᾶς."
+   },
+   {
+    "work_code": "ECC",
+    "work_ja": "コヘレトの言葉",
+    "work_src": "Ecclesiastes",
+    "ref": "8.9",
+    "form": "κακῶσαι",
+    "postag": "v--ana---",
+    "sentence": "καὶ σὺν πᾶν τοῦτο εἶδον καὶ ἔδωκα τὴν καρδίαν μου εἰς πᾶν τὸ ποίημα, ὃ πεποίηται ὑπὸ τὸν ἥλιον, τὰ ὅσα ἐξουσιάσατο ὁ ἄνθρωπος ἐν ἀνθρώπῳ τοῦ κακῶσαι αὐτόν."
+   },
+   {
+    "work_code": "ZEC",
+    "work_ja": "ゼカリヤ書",
+    "work_src": "Zacharias",
+    "ref": "10.2",
+    "form": "ἐκακώθησαν",
+    "postag": "v3paip---",
+    "sentence": "διὰ τοῦτο ἐξηράνθησαν ὡς πρόβατα καὶ ἐκακώθησαν, διότι οὐκ ἦν ἴασις."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "1 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "16.7",
+    "form": "κεκακῶσθαι",
+    "postag": "v--rnm---",
+    "sentence": "καὶ κύριος παρέδωκεν αὐτὸν ὑπὲρ τῶν ἁμαρτιῶν ἡμῶν, καὶ αὐτὸς διὰ τὸ κεκακῶσθαι οὐκ ἀνοίγει τὸ στόμα."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "6   κακόω, -ῶ    (< κακός),   [in LXX chiefly for רעע hi., ענה pi.;]      to ill-treat, afflict, distress: c. acc. pers., Ac 7:6, 19 12:1 18:10, I Pe 3:13.     (not in cl.), to embitter (Ps 105 (106):32): Ac 14:2.†"
+}

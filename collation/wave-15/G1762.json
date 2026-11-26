@@ -1,0 +1,91 @@
+{
+ "strong": "G1762",
+ "lemma": "ἔνι",
+ "nt_freq": 6,
+ "status": "expanded-covered",
+ "glaux_lemma": "ενειμι",
+ "mapping_note": "ἔνι = contracted ἔνεστι; GLAUx files under ἔνειμι (13 tokens). GLAUx tokens of stripped ενι are ἑνί \"one\" — a collision, not this lexeme",
+ "nt_occurrences": [
+  {
+   "ref": "1CO 6:5",
+   "form": "ἔνι",
+   "morph": "V-PAI-3S",
+   "gloss_en": "is",
+   "gloss_ja": "ある",
+   "verse": "πρὸς ἐντροπὴν ὑμῖν λέγω. οὕτως οὐκ ἔνι ἐν ὑμῖν οὐδεὶς σοφὸς ὃς δυνήσεται διακρῖναι ἀνὰ μέσον τοῦ ἀδελφοῦ αὐτοῦ,"
+  },
+  {
+   "ref": "COL 3:11",
+   "form": "ἔνι",
+   "morph": "V-PAI-3S",
+   "gloss_en": "is",
+   "gloss_ja": "ある",
+   "verse": "ὅπου οὐκ ἔνι Ἕλλην καὶ Ἰουδαῖος, περιτομὴ καὶ ἀκροβυστία, βάρβαρος, Σκύθης, δοῦλος, ἐλεύθερος, ἀλλὰ τὰ πάντα καὶ ἐν πᾶσιν Χριστός."
+  },
+  {
+   "ref": "GAL 3:28",
+   "form": "ἔνι",
+   "morph": "V-PAI-3S",
+   "gloss_en": "is",
+   "gloss_ja": "ある",
+   "verse": "οὐκ ἔνι Ἰουδαῖος οὐδὲ Ἕλλην, οὐκ ἔνι δοῦλος οὐδὲ ἐλεύθερος, οὐκ ἔνι ἄρσεν καὶ θῆλυ· πάντες γὰρ ὑμεῖς εἷς ἐστε ἐν Χριστῷ Ἰησοῦ."
+  },
+  {
+   "ref": "GAL 3:28",
+   "form": "ἔνι",
+   "morph": "V-PAI-3S",
+   "gloss_en": "is",
+   "gloss_ja": "ある",
+   "verse": "οὐκ ἔνι Ἰουδαῖος οὐδὲ Ἕλλην, οὐκ ἔνι δοῦλος οὐδὲ ἐλεύθερος, οὐκ ἔνι ἄρσεν καὶ θῆλυ· πάντες γὰρ ὑμεῖς εἷς ἐστε ἐν Χριστῷ Ἰησοῦ."
+  },
+  {
+   "ref": "GAL 3:28",
+   "form": "ἔνι",
+   "morph": "V-PAI-3S",
+   "gloss_en": "is",
+   "gloss_ja": "ある",
+   "verse": "οὐκ ἔνι Ἰουδαῖος οὐδὲ Ἕλλην, οὐκ ἔνι δοῦλος οὐδὲ ἐλεύθερος, οὐκ ἔνι ἄρσεν καὶ θῆλυ· πάντες γὰρ ὑμεῖς εἷς ἐστε ἐν Χριστῷ Ἰησοῦ."
+  },
+  {
+   "ref": "JAS 1:17",
+   "form": "ἔνι",
+   "morph": "V-PAI-3S",
+   "gloss_en": "is",
+   "gloss_ja": "ある",
+   "verse": "Πᾶσα δόσις ἀγαθὴ καὶ πᾶν δώρημα τέλειον ἄνωθέν ἐστιν, καταβαῖνον ἀπὸ τοῦ πατρὸς τῶν φώτων, παρ’ ᾧ οὐκ ἔνι παραλλαγὴ ἢ τροπῆς ἀποσκίασμα."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Machabaeorum iv": 1,
+   "Ecclesiasticus sive Siracides": 1
+  },
+  "representatives": [
+   {
+    "work_code": "4MA",
+    "work_ja": "マカバイ記四",
+    "work_src": "Machabaeorum iv",
+    "ref": "4.22",
+    "form": "ἔνι",
+    "postag": "v3spia---",
+    "sentence": "ἐπειδὴ γὰρ πολεμῶν ἦν κατ’ Αἴγυπτον Πτολεμαίῳ, ἤκουσέ τε ὅτι φήμης διαδοθείσης περὶ τοῦ τεθνᾶναι αὐτόν, ὡς ἔνι μάλιστα χαίροιεν οἱ Ἱεροσολυμῖται, ταχέως ἐπ’ αὐτοὺς ἀνέζευξεν, καὶ ὡς ἐπόρθησεν αὐτούς, δόγμα ἔθετο ὅπως, εἴ τινες αὐτῶν φάνοιεν τῷ πατρίῳ πολιτευόμενοι νόμῳ, θάνοιεν."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "37.2",
+    "form": "ἔνι",
+    "postag": "v3spia---",
+    "sentence": "οὐχὶ λύπη ἔνι ἕως θανάτου ἑταῖρος καὶ φίλος τρεπόμενος εἰς ἔχθραν;"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "6   ** ἔνι  Ionic form of ἐν (ἐνί), with strengthened accent;     [in LXX: Si 37:2, IV Mac 4:22 * ;]       = ἔνεστι,    is in, has place, can be: I Co 6:5, Ga 3:28 (tris) Col 3:11, Ja 1:17 (cf. Lft., Ga.; Hort and Mayor, Ja., ll. c.).†"
+}

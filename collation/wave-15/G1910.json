@@ -1,0 +1,205 @@
+{
+ "strong": "G1910",
+ "lemma": "ἐπιβαίνω",
+ "nt_freq": 6,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 20:18",
+   "form": "ἐπέβην",
+   "morph": "V-2AAI-1S",
+   "gloss_en": "set foot",
+   "gloss_ja": "乗る",
+   "verse": "ὡς δὲ παρεγένοντο πρὸς αὐτὸν εἶπεν αὐτοῖς· Ὑμεῖς ἐπίστασθε ἀπὸ πρώτης ἡμέρας ἀφ’ ἧς ἐπέβην εἰς τὴν Ἀσίαν πῶς μεθ’ ὑμῶν τὸν πάντα χρόνον ἐγενόμην,"
+  },
+  {
+   "ref": "ACT 25:1",
+   "form": "ἐπιβὰς",
+   "morph": "V-2AAP-NSM",
+   "gloss_en": "arrived",
+   "gloss_ja": "乗る",
+   "verse": "Φῆστος οὖν ἐπιβὰς τῇ ἐπαρχείᾳ μετὰ τρεῖς ἡμέρας ἀνέβη εἰς Ἱεροσόλυμα ἀπὸ Καισαρείας,"
+  },
+  {
+   "ref": "ACT 21:2",
+   "form": "ἐπιβάντες",
+   "morph": "V-2AAP-NPM",
+   "gloss_en": "went aboard",
+   "gloss_ja": "乗る",
+   "verse": "καὶ εὑρόντες πλοῖον διαπερῶν εἰς Φοινίκην ἐπιβάντες ἀνήχθημεν."
+  },
+  {
+   "ref": "ACT 21:4",
+   "form": "ἐπιβαίνειν",
+   "morph": "V-PAN",
+   "gloss_en": "go on",
+   "gloss_ja": "乗る",
+   "verse": "ἀνευρόντες δὲ τοὺς μαθητὰς ἐπεμείναμεν αὐτοῦ ἡμέρας ἑπτά, οἵτινες τῷ Παύλῳ ἔλεγον διὰ τοῦ πνεύματος μὴ ἐπιβαίνειν εἰς Ἱεροσόλυμα."
+  },
+  {
+   "ref": "ACT 27:2",
+   "form": "ἐπιβάντες",
+   "morph": "V-2AAP-NPM",
+   "gloss_en": "embarking",
+   "gloss_ja": "乗る",
+   "verse": "ἐπιβάντες δὲ πλοίῳ Ἀδραμυττηνῷ μέλλοντι πλεῖν εἰς τοὺς κατὰ τὴν Ἀσίαν τόπους ἀνήχθημεν ὄντος σὺν ἡμῖν Ἀριστάρχου Μακεδόνος Θεσσαλονικέως·"
+  },
+  {
+   "ref": "MAT 21:5",
+   "form": "ἐπιβεβηκὼς",
+   "morph": "V-RAP-NSM",
+   "gloss_en": "mounted",
+   "gloss_ja": "乗る",
+   "verse": "Εἴπατε τῇ θυγατρὶ Σιών· Ἰδοὺ ὁ βασιλεύς σου ἔρχεταί σοι πραῢς καὶ ἐπιβεβηκὼς ἐπὶ ὄνον καὶ ἐπὶ πῶλον υἱὸν ὑποζυγίου."
+  }
+ ],
+ "lxx": {
+  "total": 57,
+  "works": {
+   "Genesis": 1,
+   "Leviticus": 1,
+   "Numeri": 2,
+   "Deuteronomium": 4,
+   "Josue": 3,
+   "Judices": 3,
+   "Regnorum i": 4,
+   "Regnorum ii": 1,
+   "Regnorum iii": 1,
+   "Regnorum iv": 2,
+   "Esdras ii": 1,
+   "Esther": 1,
+   "Psalmi": 5,
+   "Odae": 1,
+   "Proverbia": 1,
+   "Job": 2,
+   "Sapientia Salomonis": 1,
+   "Ecclesiasticus sive Siracides": 4,
+   "Amos": 1,
+   "Michaeas": 3,
+   "Nahum": 1,
+   "Habacuc": 2,
+   "Zacharias": 2,
+   "Jeremias": 7,
+   "Baruch": 2,
+   "Ezechiel": 1
+  },
+  "representatives": [
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "10.5",
+    "form": "ἐπιβήσονται",
+    "postag": "v3pfim---",
+    "sentence": "αἰρόμενα ἀρθήσονται, ὅτι οὐκ ἐπιβήσονται."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "17.11",
+    "form": "ἐπέβη",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἐπέβη ἐπὶ Χερουβὶμ καὶ ἐπετάσθη, ἐπετάσθη ἐπὶ πτερύγων ἀνέμων."
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "33.29",
+    "form": "ἐπιβήσῃ",
+    "postag": "v2sfim---",
+    "sentence": "καὶ ψεύσονταί σε οἱ ἐχθροί σου, καὶ σὺ ἐπὶ τὸν τράχηλον αὐτῶν ἐπιβήσῃ."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "5.5",
+    "form": "ἐπιβαίνουσιν",
+    "postag": "v3ppia---",
+    "sentence": "διὰ τοῦτο οὐκ ἐπιβαίνουσιν οἱ ἱερεῖς Δαγὼν καὶ πᾶς ὁ εἰσπορευόμενος εἰς οἶκον Δαγὼν ἐπὶ βαθμὸν οἴκου Δαγὼν ἐν Ἀζώτῳ ἕως τῆς ἡμέρας ταύτης, ὅτι ὑπερβαίνοντες ὑπερβαίνουσι."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "9.2",
+    "form": "ἐπιβῆναι",
+    "postag": "v--ana---",
+    "sentence": "μὴ δῷς γυναικὶ τὴν ψυχήν σου ἐπιβῆναι αὐτὴν ἐπὶ τὴν ἰσχύν σου."
+   },
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "14.9",
+    "form": "ἐπέβης",
+    "postag": "v2saia---",
+    "sentence": "ἡ γῆ, ἐφ’ ἣν ἐπέβης, σοὶ ἔσται ἐν κλήρῳ καὶ τοῖς τέκνοις σου εἰς τὸν αἰῶνα, ὅτι προσετέθης ἐπακολουθῆσαι ὀπίσω Κυρίου τοῦ Θεοῦ ἡμῶν."
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "10.4",
+    "form": "ἐπιβαίνοντες",
+    "postag": "v-pppamn-",
+    "sentence": "καὶ ἦσαν αὐτῷ τριάκοντα καὶ δύο υἱοὶ ἐπιβαίνοντες ἐπὶ τριάκοντα δύο πώλους ·"
+   },
+   {
+    "work_code": "MIC",
+    "work_ja": "ミカ書",
+    "work_src": "Michaeas",
+    "ref": "5.5",
+    "form": "ἐπιβῇ",
+    "postag": "v3sasa---",
+    "sentence": "καὶ ρύσεται ἐκ τοῦ Ἀσσούρ, ὅταν ἐπέλθῃ ἐπὶ τὴν γῆν ὑμῶν καὶ ὅταν ἐπιβῇ ἐπὶ τὰ ὅρια ὑμῶν."
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "22.30",
+    "form": "ἐπέβαινες",
+    "postag": "v2siia---",
+    "sentence": "οὐκ ἐγὼ ἡ ὄνος σου, ἐφ’ ἧς ἐπέβαινες ἀπὸ νεότητός σου ἕως τῆς σήμερον ἡμέρας;"
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "9.25",
+    "form": "ἐπιβεβηκότες",
+    "postag": "v-prpamn-",
+    "sentence": "ὅτι μνημονεύω, ἐγὼ καὶ σὺ ἐπιβεβηκότες ἐπὶ ζεύγη ὀπίσω Ἀχαὰβ τοῦ πατρὸς αὐτοῦ, καὶ Κύριος ἔλαβεν ἐπ’ αὐτὸν τὸ λῆμμα τοῦτο λέγων ·"
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "6.21",
+    "form": "ἐπέβητέ",
+    "postag": "v2paia---",
+    "sentence": "ἀτὰρ δὲ καὶ ὑμεῖς ἐπέβητέ μοι ἀνελεημόνως, ὥστε ἰδόντες τὸ ἐμὸν τραῦμα φοβήθητε ·"
+   },
+   {
+    "work_code": "HAB",
+    "work_ja": "ハバクク書",
+    "work_src": "Habacuc",
+    "ref": "2.1",
+    "form": "ἐπιβήσομαι",
+    "postag": "v1sfim---",
+    "sentence": "επὶ τῆς φυλακῆς μου στήσομαι καὶ ἐπιβήσομαι ἐπὶ πέτραν καὶ ἀποσκοπεύσω τοῦ ἰδεῖν τί λαλήσει ἐν ἐμοὶ καὶ τί ἀποκριθῶ ἐπὶ τὸν ἔλεγχόν μου."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "6   ἐπι-βαίνω     [in LXX chiefly for רָכַב ;]     to get up on, mount: seq. ἐπί, c. acc, Mt 21:5 (LXX); to embark in (a boat), go aboard: c. dat., Ac 27:2; seq. εἰς, Ac 21:6 (Rec.); absol., Ac 21:2.    to go up to, go on to, enter: seq. εἰς, Ac 20:18 21:4; c. dat., Ac 25:1.†"
+}

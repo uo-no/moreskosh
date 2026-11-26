@@ -1,0 +1,121 @@
+{
+ "strong": "G3338",
+ "lemma": "μεταμέλομαι",
+ "nt_freq": 6,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2CO 7:8",
+   "form": "μεταμέλομαι",
+   "morph": "V-PNI-1S",
+   "gloss_en": "regret",
+   "gloss_ja": "後悔する",
+   "verse": "ὅτι εἰ καὶ ἐλύπησα ὑμᾶς ἐν τῇ ἐπιστολῇ, οὐ μεταμέλομαι· εἰ καὶ μετεμελόμην βλέπω ὅτι ἡ ἐπιστολὴ ἐκείνη εἰ καὶ πρὸς ὥραν ἐλύπησεν ὑμᾶς,"
+  },
+  {
+   "ref": "2CO 7:8",
+   "form": "μετεμελόμην",
+   "morph": "V-INI-1S",
+   "gloss_en": "regret",
+   "gloss_ja": "後悔する",
+   "verse": "ὅτι εἰ καὶ ἐλύπησα ὑμᾶς ἐν τῇ ἐπιστολῇ, οὐ μεταμέλομαι· εἰ καὶ μετεμελόμην βλέπω ὅτι ἡ ἐπιστολὴ ἐκείνη εἰ καὶ πρὸς ὥραν ἐλύπησεν ὑμᾶς,"
+  },
+  {
+   "ref": "HEB 7:21",
+   "form": "μεταμεληθήσεται",
+   "morph": "V-FOI-3S",
+   "gloss_en": "change his mind",
+   "gloss_ja": "後悔する",
+   "verse": "ὁ δὲ μετὰ ὁρκωμοσίας διὰ τοῦ λέγοντος πρὸς αὐτόν· Ὤμοσεν κύριος, καὶ οὐ μεταμεληθήσεται, Σὺ ἱερεὺς εἰς τὸν αἰῶνα,"
+  },
+  {
+   "ref": "MAT 21:29",
+   "form": "μεταμεληθεὶς",
+   "morph": "V-AOP-NSM",
+   "gloss_en": "changed ~ mind",
+   "gloss_ja": "後悔する",
+   "verse": "ὁ δὲ ἀποκριθεὶς εἶπεν· Οὐ θέλω· ὕστερον δὲ μεταμεληθεὶς ἀπῆλθεν."
+  },
+  {
+   "ref": "MAT 21:32",
+   "form": "μετεμελήθητε",
+   "morph": "V-AOI-2P",
+   "gloss_en": "change ~ minds",
+   "gloss_ja": "後悔する",
+   "verse": "ἦλθεν γὰρ Ἰωάννης πρὸς ὑμᾶς ἐν ὁδῷ δικαιοσύνης, καὶ οὐκ ἐπιστεύσατε αὐτῷ· οἱ δὲ τελῶναι καὶ αἱ πόρναι ἐπίστευσαν αὐτῷ· ὑμεῖς δὲ ἰδόντες οὐδὲ μετεμελήθητε ὕστερον τοῦ πιστεῦσαι αὐτῷ."
+  },
+  {
+   "ref": "MAT 27:3",
+   "form": "μεταμεληθεὶς",
+   "morph": "V-AOP-NSM",
+   "gloss_en": "repented",
+   "gloss_ja": "後悔する",
+   "verse": "Τότε ἰδὼν Ἰούδας ὁ παραδιδοὺς αὐτὸν ὅτι κατεκρίθη μεταμεληθεὶς ἔστρεψεν τὰ τριάκοντα ἀργύρια τοῖς ἀρχιερεῦσιν καὶ πρεσβυτέροις"
+  }
+ ],
+ "lxx": {
+  "total": 5,
+  "works": {
+   "Exodus": 1,
+   "Machabaeorum i": 1,
+   "Psalmi": 1,
+   "Ecclesiasticus sive Siracides": 1,
+   "Zacharias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "13.17",
+    "form": "μεταμελήσῃ",
+    "postag": "v3sasa---",
+    "sentence": "μήποτε μεταμελήσῃ τῷ λαῷ ἰδόντι πόλεμον, καὶ ἀποστρέψῃ εἰς Αἴγυπτον."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "11.10",
+    "form": "μεταμεμέλημαι",
+    "postag": "v1srim---",
+    "sentence": "μεταμεμέλημαι γὰρ δοὺς αὐτῷ τὴν θυγατέρα μου, ἐζήτησε γὰρ ἀποκτεῖναί με."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "109.4",
+    "form": "μεταμεληθήσεται",
+    "postag": "v3sfip---",
+    "sentence": "ὤμοσε Κύριος καὶ οὐ μεταμεληθήσεται ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "33.20",
+    "form": "μεταμεληθεὶς",
+    "postag": "v-sappmn-",
+    "sentence": "καὶ μὴ δῷς ἑτέρῳ τὰ χρήματά σου, ἵνα μὴ μεταμεληθεὶς δέῃ περὶ αὐτῶν."
+   },
+   {
+    "work_code": "ZEC",
+    "work_ja": "ゼカリヤ書",
+    "work_src": "Zacharias",
+    "ref": "11.5",
+    "form": "μετεμέλοντο",
+    "postag": "v3piim---",
+    "sentence": "ποιμαίνετε τὰ πρόβατα τῆς σφαγῆς, ἃ οἱ κτησάμενοι κατέσφαζον καὶ οὐ μετεμέλοντο, καὶ οἱ πωλοῦντες αὐτὰ ἔλεγον ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "6   μετα-μέλομαι,    [in LXX chiefly for נחם: ni.;]      depon., pass., to regret, repent one: Mt 21:30, 32 27:3, II Co 7:8, He 7:21(LXX).†   SYN.: μετανοέω, to change one's mind, repent. On the distinction, difficult to maintain by usage, between these words, v. Thayer, s.v.; Tr., Syn., § lxix."
+}

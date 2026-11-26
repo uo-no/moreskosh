@@ -1,0 +1,81 @@
+{
+ "strong": "G3316",
+ "lemma": "μεσίτης",
+ "nt_freq": 6,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1TI 2:5",
+   "form": "μεσίτης",
+   "morph": "N-NSM",
+   "gloss_en": "mediator",
+   "gloss_ja": "仲介者",
+   "verse": "εἷς γὰρ θεός, εἷς καὶ μεσίτης θεοῦ καὶ ἀνθρώπων ἄνθρωπος Χριστὸς Ἰησοῦς,"
+  },
+  {
+   "ref": "GAL 3:19",
+   "form": "μεσίτου",
+   "morph": "N-GSM",
+   "gloss_en": "mediator",
+   "gloss_ja": "仲介者",
+   "verse": "Τί οὖν ὁ νόμος; τῶν παραβάσεων χάριν προσετέθη, ἄχρις οὗ ἔλθῃ τὸ σπέρμα ᾧ ἐπήγγελται, διαταγεὶς δι’ ἀγγέλων ἐν χειρὶ μεσίτου·"
+  },
+  {
+   "ref": "GAL 3:20",
+   "form": "μεσίτης",
+   "morph": "N-NSM",
+   "gloss_en": "mediator",
+   "gloss_ja": "仲介者",
+   "verse": "ὁ δὲ μεσίτης ἑνὸς οὐκ ἔστιν, ὁ δὲ θεὸς εἷς ἐστιν."
+  },
+  {
+   "ref": "HEB 12:24",
+   "form": "μεσίτῃ",
+   "morph": "N-DSM",
+   "gloss_en": "mediator",
+   "gloss_ja": "仲介者",
+   "verse": "καὶ διαθήκης νέας μεσίτῃ Ἰησοῦ, καὶ αἵματι ῥαντισμοῦ κρεῖττον λαλοῦντι παρὰ τὸν Ἅβελ."
+  },
+  {
+   "ref": "HEB 8:6",
+   "form": "μεσίτης",
+   "morph": "N-NSM",
+   "gloss_en": "mediator",
+   "gloss_ja": "仲介者",
+   "verse": "νυνὶ δὲ διαφορωτέρας τέτυχεν λειτουργίας, ὅσῳ καὶ κρείττονός ἐστιν διαθήκης μεσίτης, ἥτις ἐπὶ κρείττοσιν ἐπαγγελίαις νενομοθέτηται."
+  },
+  {
+   "ref": "HEB 9:15",
+   "form": "μεσίτης",
+   "morph": "N-NSM",
+   "gloss_en": "mediator",
+   "gloss_ja": "仲介者",
+   "verse": "Καὶ διὰ τοῦτο διαθήκης καινῆς μεσίτης ἐστίν, ὅπως θανάτου γενομένου εἰς ἀπολύτρωσιν τῶν ἐπὶ τῇ πρώτῃ διαθήκῃ παραβάσεων τὴν ἐπαγγελίαν λάβωσιν οἱ κεκλημένοι τῆς αἰωνίου κληρονομίας."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Job": 1
+  },
+  "representatives": [
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "9.33",
+    "form": "μεσίτης",
+    "postag": "n-s---mn-",
+    "sentence": "εἴθε ἦν ὁ μεσίτης ἡμῶν καὶ ἐλέγχων καὶ διακούων ἀνὰ μέσον ἀμφοτέρων ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "6   † μεσίτης, -ου, ὁ    (< μέσος),   [in LXX: Jb 9:33 (בַּיִן)*;]    an arbitrator, mediator: Ga 3:19; c. dupl. gen. pers., θεοῦ κ. ἀνθρώπων, I Ti 2:5; c. gen. rei, διαθήκης, He 8:6 9:15 12:24; ὁ δε μ. ἑνὸς οὐκ ἔστιν, Ga 3:20 (v. Lft., in l.; and for exx. of this word in π., v. MM, xvi).†"
+}

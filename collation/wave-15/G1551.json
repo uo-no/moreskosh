@@ -1,0 +1,227 @@
+{
+ "strong": "G1551",
+ "lemma": "ἐκδέχομαι",
+ "nt_freq": 6,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 16:11",
+   "form": "ἐκδέχομαι",
+   "morph": "V-PNI-1S",
+   "gloss_en": "expecting",
+   "gloss_ja": "待つ",
+   "verse": "μή τις οὖν αὐτὸν ἐξουθενήσῃ. προπέμψατε δὲ αὐτὸν ἐν εἰρήνῃ, ἵνα ἔλθῃ πρός με, ἐκδέχομαι γὰρ αὐτὸν μετὰ τῶν ἀδελφῶν."
+  },
+  {
+   "ref": "1CO 11:33",
+   "form": "ἐκδέχεσθε",
+   "morph": "V-PNM-2P",
+   "gloss_en": "wait for",
+   "gloss_ja": "待つ",
+   "verse": "Ὥστε, ἀδελφοί μου, συνερχόμενοι εἰς τὸ φαγεῖν ἀλλήλους ἐκδέχεσθε."
+  },
+  {
+   "ref": "ACT 17:16",
+   "form": "ἐκδεχομένου",
+   "morph": "V-PNP-GSM",
+   "gloss_en": "waiting for",
+   "gloss_ja": "待つ",
+   "verse": "Ἐν δὲ ταῖς Ἀθήναις ἐκδεχομένου αὐτοὺς τοῦ Παύλου, παρωξύνετο τὸ πνεῦμα αὐτοῦ ἐν αὐτῷ θεωροῦντος κατείδωλον οὖσαν τὴν πόλιν."
+  },
+  {
+   "ref": "HEB 10:13",
+   "form": "ἐκδεχόμενος",
+   "morph": "V-PNP-NSM",
+   "gloss_en": "waiting",
+   "gloss_ja": "待つ",
+   "verse": "τὸ λοιπὸν ἐκδεχόμενος ἕως τεθῶσιν οἱ ἐχθροὶ αὐτοῦ ὑποπόδιον τῶν ποδῶν αὐτοῦ,"
+  },
+  {
+   "ref": "HEB 11:10",
+   "form": "ἐξεδέχετο",
+   "morph": "V-INI-3S",
+   "gloss_en": "looking forward to",
+   "gloss_ja": "待つ",
+   "verse": "ἐξεδέχετο γὰρ τὴν τοὺς θεμελίους ἔχουσαν πόλιν, ἧς τεχνίτης καὶ δημιουργὸς ὁ θεός."
+  },
+  {
+   "ref": "JAS 5:7",
+   "form": "ἐκδέχεται",
+   "morph": "V-PNI-3S",
+   "gloss_en": "waits for",
+   "gloss_ja": "待つ",
+   "verse": "Μακροθυμήσατε οὖν, ἀδελφοί, ἕως τῆς παρουσίας τοῦ κυρίου. ἰδοὺ ὁ γεωργὸς ἐκδέχεται τὸν τίμιον καρπὸν τῆς γῆς, μακροθυμῶν ἐπ’ αὐτῷ ἕως λάβῃ πρόϊμον καὶ ὄψιμον."
+  }
+ ],
+ "lxx": {
+  "total": 11,
+  "works": {
+   "Genesis": 2,
+   "Machabaeorum iii": 2,
+   "Psalmi": 1,
+   "Ecclesiasticus sive Siracides": 2,
+   "Michaeas": 2,
+   "Nahum": 1,
+   "Isaias": 1
+  },
+  "representatives": [
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "43.8",
+    "form": "ἐκδέχομαι",
+    "postag": "v1spim---",
+    "sentence": "ἐγὼ δὲ ἐκδέχομαι αὐτόν, ἐκ χειρός μου ζήτησον αὐτόν ·"
+   },
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "5.26",
+    "form": "ἐκδεχομένου",
+    "postag": "v-sppmmg-",
+    "sentence": "οὔπω δὲ ἡλίου βολαὶ κατεσπείροντο, καὶ τοῦ βασιλέως τοὺς φίλους ἐκδεχομένου, ὁ Ἕρμων παραστὰς ἐκάλει πρὸς τὴν ἔξοδον, ὑποδεικνύων τὸ πρόθυμον τοῦ βασιλέως ἐν ἑτοίμῳ κεῖσθαι."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "6.33",
+    "form": "ἐκδέξῃ",
+    "postag": "v2sfim---",
+    "sentence": "ἐὰν ἀγαπήσῃς ἀκούειν, ἐκδέξῃ, καὶ ἐὰν κλίνῃς τὸ οὖς σου, σοφὸς ἔσῃ."
+   },
+   {
+    "work_code": "MIC",
+    "work_ja": "ミカ書",
+    "work_src": "Michaeas",
+    "ref": "2.12",
+    "form": "ἐκδεχόμενος",
+    "postag": "v-sppmmn-",
+    "sentence": "ἐκδεχόμενος ἐκδέξομαι τοὺς καταλοίπους τοῦ Ἰσραήλ, ἐπὶ τὸ αὐτὸ θήσομαι τὴν ἀποστροφὴν αὐτοῦ ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "118.122",
+    "form": "ἔκδεξαι",
+    "postag": "v2samm---",
+    "sentence": "ἔκδεξαι τὸν δοῦλόν σου εἰς ἀγαθόν ·"
+   },
+   {
+    "work_code": "NAH",
+    "work_ja": "ナホム書",
+    "work_src": "Nahum",
+    "ref": "3.18",
+    "form": "ἐκδεχόμενος",
+    "postag": "v-sppmmn-",
+    "sentence": "ἀπῇρεν ὁ λαός σου ἐπὶ τὰ ὄρη, καὶ οὐκ ἦν ὁ ἐκδεχόμενος."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "57.1",
+    "form": "ἐκδέχεται",
+    "postag": "v3spim---",
+    "sentence": "ἴδετε ὡς ὁ δίκαιος ἀπώλετο, καὶ οὐδεὶς ἐκδέχεται τῇ καρδίᾳ, καὶ ἄνδρες δίκαιοι αἴρονται, καὶ οὐδεὶς κατανοεῖ."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "44.32",
+    "form": "ἐκδέδεκται",
+    "postag": "v3srim---",
+    "sentence": "ὁ γὰρ παῖς σου παρὰ τοῦ πατρὸς ἐκδέδεκται τὸ παιδίον λέγων ·"
+   },
+   {
+    "work_code": "3MA",
+    "work_ja": "マカバイ記三",
+    "work_src": "Machabaeorum iii",
+    "ref": "3.22",
+    "form": "ἐκδεχόμενοι",
+    "postag": "v-pppmmn-",
+    "sentence": "οἱ δὲ το-τοὐναντίον ἐκδεχόμενοι καὶ τῇ συμφύτῳ κακοηθείᾳ τὸ καλὸν ἀπωσάμενοι, διηνεκῶς δὲ εἰς τὸ φαῦλον ἐκνεύοντες, οὐ μόνον ἀπεστρέψαντο τὴν ἀτίμητον πολιτείαν, ἀλλὰ καὶ βδελύσσονται λόγῳ τε καὶ σιγῇ τοὺς ἐν αὐτοῖς ὀλίγους πρὸς ἡμᾶς γνησίως διακειμένους, παρέκαστα ὑφορώμενοι διὰ τῆς δυσκλεεστάτης ἐμβιώσεως διὰ τάχους ἡμᾶς καταστρέψαι τὰ κατορθώματα."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "18.14",
+    "form": "ἐκδεχομένους",
+    "postag": "v-pppmma-",
+    "sentence": "τοὺς ἐκδεχομένους παιδείαν ἐλεᾷ καὶ τοὺς κατασπεύδοντας ἐπὶ τὰ κρίματα αὐτοῦ."
+   },
+   {
+    "work_code": "MIC",
+    "work_ja": "ミカ書",
+    "work_src": "Michaeas",
+    "ref": "2.12",
+    "form": "ἐκδέξομαι",
+    "postag": "v1sfim---",
+    "sentence": "ἐκδεχόμενος ἐκδέξομαι τοὺς καταλοίπους τοῦ Ἰσραήλ, ἐπὶ τὸ αὐτὸ θήσομαι τὴν ἀποστροφὴν αὐτοῦ ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 5,
+  "works": {
+   "Barnabas": 1,
+   "2 Clement": 2,
+   "Hermas, Pastor": 2
+  },
+  "representatives": [
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "20.3",
+    "form": "ἐκδέχεται",
+    "postag": "v3spim---",
+    "sentence": "οὐδεὶς τῶν δικαίων ταχὺν καρπὸν ἔλαβεν, ἀλλ’ ἐκδέχεται αὐτόν."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.11.2",
+    "form": "ἐκδέξομαι",
+    "postag": "v1sfim---",
+    "sentence": "ἐκδέξομαι αὐτὸν ἕως ὀψέ ·"
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "10.11",
+    "form": "ἐκδέχεται",
+    "postag": "v3spim---",
+    "sentence": "ὅτι ὁ δίκαιος καὶ ἐν τούτῳ τῷ κόσμῳ περιπατεῖ καὶ τὸν ἅγιον αἰῶνα ἐκδέχεται."
+   },
+   {
+    "work_code": "2CL",
+    "work_ja": "第二クレメンス書簡",
+    "work_src": "2 Clement",
+    "ref": "12.1",
+    "form": "ἐκδεχώμεθα",
+    "postag": "v1ppsm---",
+    "sentence": "ἐκδεχώμεθα οὖν καθ’ ὥραν τὴν βασιλείαν τοῦ θεοῦ ἐν ἀγάπῃ καὶ δικαιοσύνῃ, ἐπειδὴ οὐκ οἴδαμεν τὴν ἡμέραν τῆς ἐπιφανείας τοῦ θεοῦ."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.10.5",
+    "form": "ἔκδεξαί",
+    "postag": "v2samm---",
+    "sentence": "ἔκδεξαί με ὧδε, ἕως ἔρχομαι."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "6   ἐκ-δέχομαι     [in LXX for עֶרֶב, קָבַץ, etc. ;]      to take or receive from (Hom., Hdt., a1.).      (Rare in cl.), to expect, await: c. acc rei, Jo 5:3, He 11:10, Ja 5:7; c. acc pers., Ac 17:16, I Co 11:33 16:11; seq. ἕως, He 10:13 (Cremer, 687).†"
+}

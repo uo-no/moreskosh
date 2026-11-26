@@ -1,0 +1,218 @@
+{
+ "strong": "G1556",
+ "lemma": "ἐκδικέω",
+ "nt_freq": 6,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2CO 10:6",
+   "form": "ἐκδικῆσαι",
+   "morph": "V-AAN",
+   "gloss_en": "punish",
+   "gloss_ja": "復讐する",
+   "verse": "καὶ ἐν ἑτοίμῳ ἔχοντες ἐκδικῆσαι πᾶσαν παρακοήν, ὅταν πληρωθῇ ὑμῶν ἡ ὑπακοή."
+  },
+  {
+   "ref": "LUK 18:3",
+   "form": "Ἐκδίκησόν",
+   "morph": "V-AAM-2S",
+   "gloss_en": "grant ~ justice",
+   "gloss_ja": "復讐する",
+   "verse": "χήρα δὲ ἦν ἐν τῇ πόλει ἐκείνῃ καὶ ἤρχετο πρὸς αὐτὸν λέγουσα· Ἐκδίκησόν με ἀπὸ τοῦ ἀντιδίκου μου."
+  },
+  {
+   "ref": "LUK 18:5",
+   "form": "ἐκδικήσω",
+   "morph": "V-FAI-1S",
+   "gloss_en": "grant ~ justice",
+   "gloss_ja": "復讐する",
+   "verse": "διά γε τὸ παρέχειν μοι κόπον τὴν χήραν ταύτην ἐκδικήσω αὐτήν ἵνα μὴ εἰς τέλος ἐρχομένη ὑπωπιάζῃ με."
+  },
+  {
+   "ref": "REV 19:2",
+   "form": "ἐξεδίκησεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "avenged",
+   "gloss_ja": "復讐する",
+   "verse": "ὅτι ἀληθιναὶ καὶ δίκαιαι αἱ κρίσεις αὐτοῦ· ὅτι ἔκρινεν τὴν πόρνην τὴν μεγάλην ἥτις ἔφθειρεν τὴν γῆν ἐν τῇ πορνείᾳ αὐτῆς, καὶ ἐξεδίκησεν τὸ αἷμα τῶν δούλων αὐτοῦ ἐκ χειρὸς αὐτῆς."
+  },
+  {
+   "ref": "REV 6:10",
+   "form": "ἐκδικεῖς",
+   "morph": "V-PAI-2S",
+   "gloss_en": "avenge",
+   "gloss_ja": "復讐する",
+   "verse": "καὶ ἔκραξαν φωνῇ μεγάλῃ λέγοντες· Ἕως πότε, ὁ δεσπότης ὁ ἅγιος καὶ ἀληθινός, οὐ κρίνεις καὶ ἐκδικεῖς τὸ αἷμα ἡμῶν ἐκ τῶν κατοικούντων ἐπὶ τῆς γῆς;"
+  },
+  {
+   "ref": "ROM 12:19",
+   "form": "ἐκδικοῦντες",
+   "morph": "V-PAP-NPM",
+   "gloss_en": "avenge",
+   "gloss_ja": "復讐する",
+   "verse": "μὴ ἑαυτοὺς ἐκδικοῦντες, ἀγαπητοί, ἀλλὰ δότε τόπον τῇ ὀργῇ, γέγραπται γάρ· Ἐμοὶ ἐκδίκησις, ἐγὼ ἀνταποδώσω, λέγει κύριος."
+  }
+ ],
+ "lxx": {
+  "total": 95,
+  "works": {
+   "Genesis": 2,
+   "Exodus": 2,
+   "Leviticus": 1,
+   "Numeri": 1,
+   "Deuteronomium": 2,
+   "Judices": 1,
+   "Regnorum i": 6,
+   "Regnorum ii": 1,
+   "Regnorum iv": 1,
+   "Paralipomenon ii sive Chronicon ii": 1,
+   "Judith": 6,
+   "Tobias": 2,
+   "Machabaeorum i": 6,
+   "Machabaeorum iii": 1,
+   "Machabaeorum iv": 1,
+   "Psalmi": 2,
+   "Odae": 2,
+   "Ecclesiasticus sive Siracides": 7,
+   "Osee": 6,
+   "Amos": 2,
+   "Abdias": 1,
+   "Nahum": 4,
+   "Sophonias": 4,
+   "Zacharias": 2,
+   "Isaias": 1,
+   "Jeremias": 16,
+   "Ezechiel": 14
+  },
+  "representatives": [
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "5.9",
+    "form": "ἐκδικήσει",
+    "postag": "v3sfia---",
+    "sentence": "ἢ ἐν ἔθνει τοιούτῳ οὐκ ἐκδικήσει ἡ ψυχή μου;"
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "19.12",
+    "form": "ἐξεδικήθη",
+    "postag": "v3saip---",
+    "sentence": "ἐξεδικήθη καὶ ἐξηράνθη ἡ ράβδος ἰσχύος αὐτῆς, πῦρ ἀνήλωσεν αὐτήν."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "5.3",
+    "form": "ἐκδικῶν",
+    "postag": "v-sppamn-",
+    "sentence": "ὁ γὰρ Κύριος ἐκδικῶν ἐκδικήσει σε."
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "24.13",
+    "form": "ἐκδικήσαι",
+    "postag": "v3saoa---",
+    "sentence": "δικάσαι Κύριος ἀνὰ μέσον ἐμοῦ καὶ σοῦ, καὶ ἐκδικήσαι με Κύριος ἐκ σοῦ ·"
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "8.27",
+    "form": "ἐξεδίκησεν",
+    "postag": "v3saia---",
+    "sentence": "ὅτι οὐ καθὼς ἐκείνους ἐπύρωσεν εἰς ἐτασμὸν τῆς καρδίας αὐτῶν, καὶ ἡμᾶς οὐκ ἐξεδίκησεν, ἀλλ’ εἰς νουθέτησιν μαστιγοῖ Κύριος τοὺς ἐγγίζοντας αὐτῷ."
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "6.22",
+    "form": "ἐκδικήσεις",
+    "postag": "v2sfia---",
+    "sentence": "ἕως πότε οὐ ποιήσῃ κρίσιν καὶ ἐκδικήσεις τοὺς ἀδελφοὺς ἡμῶν;"
+   },
+   {
+    "work_code": "HOS",
+    "work_ja": "ホセア書",
+    "work_src": "Osee",
+    "ref": "12.3",
+    "form": "ἐκδικῆσαι",
+    "postag": "v--ana---",
+    "sentence": "καὶ κρίσις τῷ Κυρίῳ πρὸς Ἰούδαν τοῦ ἐκδικῆσαι τὸν Ἰακώβ ·"
+   },
+   {
+    "work_code": "NAH",
+    "work_ja": "ナホム書",
+    "work_src": "Nahum",
+    "ref": "1.9",
+    "form": "ἐκδικήσει",
+    "postag": "v3sfia---",
+    "sentence": "συντέλειαν αὐτὸς ποιήσεται, οὐκ ἐκδικήσει δὶς ἐπὶ τὸ αὐτὸ ἐν θλίψει ·"
+   },
+   {
+    "work_code": "ZEP",
+    "work_ja": "ゼファニヤ書",
+    "work_src": "Sophonias",
+    "ref": "3.7",
+    "form": "ἐξεδίκησα",
+    "postag": "v1saia---",
+    "sentence": "πλὴν φοβεῖσθέ με καὶ δέξασθε παιδείαν, καὶ οὐ μὴ ἐξολοθρευθῆτε ἐξ ὀφθαλμῶν αὐτῆς, πάντα ὅσα ἐξεδίκησα ἐπ’ αὐτήν ·"
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "4.15",
+    "form": "ἐκδικούμενα",
+    "postag": "v-pppmna-",
+    "sentence": "πᾶς ὁ ἀποκτείνας Κάϊν ἑπτὰ ἐκδικούμενα παραλύσει."
+   },
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "21.21",
+    "form": "ἐκδικηθήσεται",
+    "postag": "v3sfip---",
+    "sentence": "ἐὰν δὲ διαβιώσῃ ἡμέραν μίαν ἢ δύο, οὐκ ἐκδικηθήσεται ·"
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "18.19",
+    "form": "ἐκδικήσω",
+    "postag": "v1sfia---",
+    "sentence": "καὶ ὁ ἄνθρωπος, ὃς ἐὰν μὴ ἀκούσῃ ὅσα ἂν λαλήσῃ ὁ προφήτης ἐκεῖνος ἐπὶ τῷ ὀνόματί μου, ἐγὼ ἐκδικήσω ἐξ αὐτοῦ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "Ignatius, Letters": 1
+  },
+  "representatives": [
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "7.1.2",
+    "form": "ἐκδίκει",
+    "postag": "v2spma---",
+    "sentence": "ἐκδίκει σου τὸν τόπον ἐν πάσῃ ἐπιμελείᾳ σαρκικῇ τε καὶ πνευματικῇ."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "6   † ἐκδικέω, -ῶ    (< ἔκδικος),    [in LXX for פָּקַד, נָקַם, שָׁפַט, etc. ;]      to vindicate: c. acc pers., Lk 18:3, 5.      to avenge: c. acc pers., ἑαυτούς, Ro 12:19; c. acc rei, παρακοήν, II Co 10:6; αἷμα, Re 6:10 19:2 (Cremer, 203; for exx. from π. in both senses, v. MM, Exp., xii).†"
+}

@@ -1,0 +1,93 @@
+{
+ "strong": "G1500",
+ "lemma": "εἰκῇ",
+ "nt_freq": 6,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 15:2",
+   "form": "εἰκῇ",
+   "morph": "ADV",
+   "gloss_en": "in vain",
+   "gloss_ja": "無益に",
+   "verse": "δι’ οὗ καὶ σῴζεσθε, τίνι λόγῳ εὐηγγελισάμην ὑμῖν, εἰ κατέχετε, ἐκτὸς εἰ μὴ εἰκῇ ἐπιστεύσατε."
+  },
+  {
+   "ref": "COL 2:18",
+   "form": "εἰκῇ",
+   "morph": "ADV",
+   "gloss_en": "without cause",
+   "gloss_ja": "無益に",
+   "verse": "μηδεὶς ὑμᾶς καταβραβευέτω θέλων ἐν ταπεινοφροσύνῃ καὶ θρησκείᾳ τῶν ἀγγέλων, ἃ ἑόρακεν ἐμβατεύων, εἰκῇ φυσιούμενος ὑπὸ τοῦ νοὸς τῆς σαρκὸς αὐτοῦ,"
+  },
+  {
+   "ref": "GAL 4:11",
+   "form": "εἰκῇ",
+   "morph": "ADV",
+   "gloss_en": "in vain",
+   "gloss_ja": "無益に",
+   "verse": "φοβοῦμαι ὑμᾶς μή πως εἰκῇ κεκοπίακα εἰς ὑμᾶς."
+  },
+  {
+   "ref": "GAL 3:4",
+   "form": "εἰκῇ",
+   "morph": "ADV",
+   "gloss_en": "for nothing",
+   "gloss_ja": "無益に",
+   "verse": "τοσαῦτα ἐπάθετε εἰκῇ; εἴ γε καὶ εἰκῇ."
+  },
+  {
+   "ref": "GAL 3:4",
+   "form": "εἰκῇ",
+   "morph": "ADV",
+   "gloss_en": "for nothing",
+   "gloss_ja": "無益に",
+   "verse": "τοσαῦτα ἐπάθετε εἰκῇ; εἴ γε καὶ εἰκῇ."
+  },
+  {
+   "ref": "ROM 13:4",
+   "form": "εἰκῇ",
+   "morph": "ADV",
+   "gloss_en": "in vain",
+   "gloss_ja": "無益に",
+   "verse": "θεοῦ γὰρ διάκονός ἐστιν σοὶ εἰς τὸ ἀγαθόν. ἐὰν δὲ τὸ κακὸν ποιῇς, φοβοῦ· οὐ γὰρ εἰκῇ τὴν μάχαιραν φορεῖ· θεοῦ γὰρ διάκονός ἐστιν, ἔκδικος εἰς ὀργὴν τῷ τὸ κακὸν πράσσοντι."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Proverbia": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "28.25",
+    "form": "εἰκῆ",
+    "postag": "d--------",
+    "sentence": "ἄπιστος ἀνὴρ κρίνει εἰκῆ, ὃς δὲ πέποιθεν ἐπὶ Κύριον ἐν ἐπιμελείᾳ ἔσται."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "1 Clement": 1
+  },
+  "representatives": [
+   {
+    "work_code": "1CL",
+    "work_ja": "第一クレメンス書簡",
+    "work_src": "1 Clement",
+    "ref": "40.2",
+    "form": "εἰκῆ",
+    "postag": "d--------",
+    "sentence": "τάς τε προσφορὰς καὶ λειτουργίας ἐπιτελεῖσθαι, καὶ οὐκ εἰκῆ ἢ ἀτάκτως ἐκέλευσεν γίνεσθαι, ἀλλ’ ὡρισμένοις καιροῖς καὶ ὥραις."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "6     εἰκῇ (-ῆ, Rec., as in cl.), adv.,     [in LXX: Pr 28:25 (εἰκῇ)* ;]               without cause or reason: Mt 5:22 (E, mg.), Col 2:18 (ICC).          vainly, fruitlessly, to no purpose: Ro 13:4, I Co 15:2, Ga 3:4  4:11, Col 2:18.†"
+}

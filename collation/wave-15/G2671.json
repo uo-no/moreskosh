@@ -1,0 +1,238 @@
+{
+ "strong": "G2671",
+ "lemma": "κατάρα",
+ "nt_freq": 6,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2PE 2:14",
+   "form": "κατάρας",
+   "morph": "N-GSF",
+   "gloss_en": "accursed",
+   "gloss_ja": "呪い",
+   "verse": "ὀφθαλμοὺς ἔχοντες μεστοὺς μοιχαλίδος καὶ ἀκαταπαύστους ἁμαρτίας, δελεάζοντες ψυχὰς ἀστηρίκτους, καρδίαν γεγυμνασμένην πλεονεξίας ἔχοντες, κατάρας τέκνα,"
+  },
+  {
+   "ref": "GAL 3:10",
+   "form": "κατάραν",
+   "morph": "N-ASF",
+   "gloss_en": "curse",
+   "gloss_ja": "呪い",
+   "verse": "Ὅσοι γὰρ ἐξ ἔργων νόμου εἰσὶν ὑπὸ κατάραν εἰσίν, γέγραπται γὰρ ὅτι Ἐπικατάρατος πᾶς ὃς οὐκ ἐμμένει πᾶσιν τοῖς γεγραμμένοις ἐν τῷ βιβλίῳ τοῦ νόμου τοῦ ποιῆσαι αὐτά."
+  },
+  {
+   "ref": "GAL 3:13",
+   "form": "κατάρας",
+   "morph": "N-GSF",
+   "gloss_en": "curse",
+   "gloss_ja": "呪い",
+   "verse": "Χριστὸς ἡμᾶς ἐξηγόρασεν ἐκ τῆς κατάρας τοῦ νόμου γενόμενος ὑπὲρ ἡμῶν κατάρα, ὅτι γέγραπται· Ἐπικατάρατος πᾶς ὁ κρεμάμενος ἐπὶ ξύλου,"
+  },
+  {
+   "ref": "GAL 3:13",
+   "form": "κατάρα",
+   "morph": "N-NSF",
+   "gloss_en": "curse",
+   "gloss_ja": "呪い",
+   "verse": "Χριστὸς ἡμᾶς ἐξηγόρασεν ἐκ τῆς κατάρας τοῦ νόμου γενόμενος ὑπὲρ ἡμῶν κατάρα, ὅτι γέγραπται· Ἐπικατάρατος πᾶς ὁ κρεμάμενος ἐπὶ ξύλου,"
+  },
+  {
+   "ref": "HEB 6:8",
+   "form": "κατάρας",
+   "morph": "N-GSF",
+   "gloss_en": "cursed",
+   "gloss_ja": "呪い",
+   "verse": "ἐκφέρουσα δὲ ἀκάνθας καὶ τριβόλους ἀδόκιμος καὶ κατάρας ἐγγύς, ἧς τὸ τέλος εἰς καῦσιν."
+  },
+  {
+   "ref": "JAS 3:10",
+   "form": "κατάρα",
+   "morph": "N-NSF",
+   "gloss_en": "cursing",
+   "gloss_ja": "呪い",
+   "verse": "ἐκ τοῦ αὐτοῦ στόματος ἐξέρχεται εὐλογία καὶ κατάρα. οὐ χρή, ἀδελφοί μου, ταῦτα οὕτως γίνεσθαι."
+  }
+ ],
+ "lxx": {
+  "total": 41,
+  "works": {
+   "Genesis": 2,
+   "Numeri": 1,
+   "Deuteronomium": 10,
+   "Josue": 1,
+   "Judices": 1,
+   "Regnorum ii": 1,
+   "Regnorum iii": 2,
+   "Regnorum iv": 1,
+   "Esdras ii": 1,
+   "Psalmi": 2,
+   "Proverbia": 1,
+   "Job": 1,
+   "Ecclesiasticus sive Siracides": 6,
+   "Zacharias": 1,
+   "Malachias": 1,
+   "Isaias": 2,
+   "Jeremias": 5,
+   "Daniel": 2
+  },
+  "representatives": [
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "27.13",
+    "form": "κατάρας",
+    "postag": "n-s---fg-",
+    "sentence": "καὶ οὗτοι στήσονται ἐπὶ τῆς κατάρας ἐν ὄρει Γαιβάλ ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "3.9",
+    "form": "κατάρα",
+    "postag": "n-s---fn-",
+    "sentence": "εὐλογία γὰρ πατρὸς στηρίζει οἴκους τέκνων, κατάρα δὲ μητρὸς ἐκριζοῖ θεμέλια."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "36.22",
+    "form": "κατάραν",
+    "postag": "n-s---fa-",
+    "sentence": "καὶ λήψονται ἀπ’ αὐτῶν κατάραν ἐν πάσῃ τῇ ἀποικίᾳ Ἰούδα ἐν Βαβυλῶνι λέγοντες ·"
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "27.13",
+    "form": "κατάρα",
+    "postag": "n-s---fn-",
+    "sentence": "ἐπ’ ἐμὲ ἡ κατάρα σου, τέκνον ·"
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "2.35μ",
+    "form": "κατάραν",
+    "postag": "n-s---fa-",
+    "sentence": "οὗτος κατηράσατό με κατάραν ὀδυνηρὰν ἐν ᾗ ἡμέρᾳ ἐπορευόμην εἰς Παρεμβολάς, καὶ αὐτὸς κατέβαινεν εἰς ἀπαντὴν μοι ἐπὶ τὸν Ἰορδάνην καὶ ὤμοσα αὐτῷ κατὰ τοῦ Κυρίου λέγων ·"
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "108.17",
+    "form": "κατάραν",
+    "postag": "n-s---fa-",
+    "sentence": "καὶ ἠγάπησε κατάραν, καὶ ἥξει αὐτῷ ·"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "64.10",
+    "form": "κατάραν",
+    "postag": "n-s---fa-",
+    "sentence": "πόλις τοῦ ἁγίου σου ἐγενήθη ἔρημος, Σιὼν ὡς ἔρημος ἐγενήθη, Ἱερουσαλὴμ εἰς κατάραν."
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "9.11",
+    "form": "κατάρα",
+    "postag": "n-s---fn-",
+    "sentence": "καὶ πᾶς Ἰσραὴλ παρέβησαν τὸν νόμον σου καὶ ἐξέκλιναν τοῦ μὴ ἀκοῦσαι τῆς φωνῆς σου, καὶ ἐπῆλθεν ἐφ’ ἡμᾶς ἡ κατάρα καὶ ὁ ὅρκος ὁ γεγραμμένος ἐν νόμῳ Μωυσέως δούλου τοῦ Θεοῦ, ὅτι ἡμάρτομεν αὐτῷ."
+   },
+   {
+    "work_code": "NUM",
+    "work_ja": "民数記",
+    "work_src": "Numeri",
+    "ref": "23.25",
+    "form": "κατάραις",
+    "postag": "n-p---fd-",
+    "sentence": "οὔ-τε κατάραις καταράσῃ μοι αὐτὸν οὔ-τε εὐλογῶν μὴ εὐλογήσῃς αὐτόν."
+   },
+   {
+    "work_code": "JOS",
+    "work_ja": "ヨシュア記",
+    "work_src": "Josue",
+    "ref": "9.2ε",
+    "form": "κατάρας",
+    "postag": "n-p---fa-",
+    "sentence": "καὶ μετὰ ταῦτα οὕτως ἀνέγνω Ἰησοῦς πάντα τὰ ρήματα τοῦ νόμου τούτου, τὰς εὐλογίας καὶ τὰς κατάρας, κατὰ πάντα τὰ γεγραμμένα ἐν τῷ νόμῳ Μωυσῆ ·"
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "9.57",
+    "form": "κατάρα",
+    "postag": "n-s---fn-",
+    "sentence": "καὶ τὴν πᾶσαν πονηρίαν ἀνδρῶν Συχὲμ ἐπέστρεψεν ὁ Θεὸς εἰς κεφαλὴν αὐτῶν, καὶ ἐπῆλθεν ἐπ’ αὐτοὺς ἡ κατάρα Ἰωάθαμ υἱοῦ Ἱεροβάαλ."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "16.12",
+    "form": "κατάρας",
+    "postag": "n-s---fg-",
+    "sentence": "εἴπως ἴδοι Κύριος ἐν τῇ ταπεινώσει μου καὶ ἐπιστρέψει μοι ἀγαθὰ ἀντὶ τῆς κατάρας αὐτοῦ τῇ ἡμέρᾳ ταύτῃ."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 4,
+  "works": {
+   "Barnabas": 1,
+   "Didache": 1,
+   "Polycarp, To the Philippians": 2
+  },
+  "representatives": [
+   {
+    "work_code": "PPH",
+    "work_ja": "ポリュカルポスのピリピ書簡",
+    "work_src": "Polycarp, To the Philippians",
+    "ref": "2.2",
+    "form": "κατάραν",
+    "postag": "n-s---fa-",
+    "sentence": "μὴ ἀποδιδόντες κακὸν ἀντὶ κακοῦ ἢ λοιδορίαν ἀντὶ λοιδορίας ἢ γρόνθον ἀντὶ γρόνθον ἢ κατάραν ἀντὶ κατάρας ·"
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "20.1",
+    "form": "κατάρας",
+    "postag": "n-s---fg-",
+    "sentence": "ἡ δὲ τοῦ μέλανος ὁδός ἐστιν σκολιὰ καὶ κατάρας μεστή."
+   },
+   {
+    "work_code": "DID",
+    "work_ja": "ディダケー",
+    "work_src": "Didache",
+    "ref": "5.1",
+    "form": "κατάρας",
+    "postag": "n-s---fg-",
+    "sentence": "πρῶτον πάντων πονηρά ἐστι καὶ κατάρας μεστή ·"
+   },
+   {
+    "work_code": "PPH",
+    "work_ja": "ポリュカルポスのピリピ書簡",
+    "work_src": "Polycarp, To the Philippians",
+    "ref": "2.2",
+    "form": "κατάρας",
+    "postag": "n-s---fg-",
+    "sentence": "μὴ ἀποδιδόντες κακὸν ἀντὶ κακοῦ ἢ λοιδορίαν ἀντὶ λοιδορίας ἢ γρόνθον ἀντὶ γρόνθον ἢ κατάραν ἀντὶ κατάρας ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "6   κατ-άρα, -ας, -ἡ,    [in LXX chiefly for קְלָלָה;]    a curse: Ga 3:10, 13, He 6:8, II Pe 2:14; opp. to εὐλογία, Ja 3:10; concrete, of Christ, Ga 3:13 (v. Lft. in l.).†"
+}

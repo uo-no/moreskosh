@@ -1,0 +1,121 @@
+{
+ "strong": "G1818",
+ "lemma": "ἐξαπατάω",
+ "nt_freq": 6,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 3:18",
+   "form": "ἐξαπατάτω",
+   "morph": "V-PAM-3S",
+   "gloss_en": "deceive",
+   "gloss_ja": "欺く",
+   "verse": "Μηδεὶς ἑαυτὸν ἐξαπατάτω· εἴ τις δοκεῖ σοφὸς εἶναι ἐν ὑμῖν ἐν τῷ αἰῶνι τούτῳ, μωρὸς γενέσθω, ἵνα γένηται σοφός,"
+  },
+  {
+   "ref": "1TI 2:14",
+   "form": "ἐξαπατηθεῖσα",
+   "morph": "V-APP-NSF",
+   "gloss_en": "deceived",
+   "gloss_ja": "欺く",
+   "verse": "καὶ Ἀδὰμ οὐκ ἠπατήθη, ἡ δὲ γυνὴ ἐξαπατηθεῖσα ἐν παραβάσει γέγονεν."
+  },
+  {
+   "ref": "2CO 11:3",
+   "form": "ἐξηπάτησεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "deceived",
+   "gloss_ja": "欺く",
+   "verse": "φοβοῦμαι δὲ μή πως, ὡς ὁ ὄφις ἐξηπάτησεν Εὕαν ἐν τῇ πανουργίᾳ αὐτοῦ, φθαρῇ τὰ νοήματα ὑμῶν ἀπὸ τῆς ἁπλότητος καὶ τῆς ἁγνότητος τῆς εἰς τὸν Χριστόν."
+  },
+  {
+   "ref": "2TH 2:3",
+   "form": "ἐξαπατήσῃ",
+   "morph": "V-AAS-3S",
+   "gloss_en": "deceive",
+   "gloss_ja": "欺く",
+   "verse": "μή τις ὑμᾶς ἐξαπατήσῃ κατὰ μηδένα τρόπον· ὅτι ἐὰν μὴ ἔλθῃ ἡ ἀποστασία πρῶτον καὶ ἀποκαλυφθῇ ὁ ἄνθρωπος τῆς ἀνομίας, ὁ υἱὸς τῆς ἀπωλείας,"
+  },
+  {
+   "ref": "ROM 16:18",
+   "form": "ἐξαπατῶσι",
+   "morph": "V-PAI-3P",
+   "gloss_en": "deceive",
+   "gloss_ja": "欺く",
+   "verse": "οἱ γὰρ τοιοῦτοι τῷ κυρίῳ ἡμῶν Χριστῷ οὐ δουλεύουσιν ἀλλὰ τῇ ἑαυτῶν κοιλίᾳ, καὶ διὰ τῆς χρηστολογίας καὶ εὐλογίας ἐξαπατῶσι τὰς καρδίας τῶν ἀκάκων."
+  },
+  {
+   "ref": "ROM 7:11",
+   "form": "ἐξηπάτησέν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "deceived",
+   "gloss_ja": "欺く",
+   "verse": "ἡ γὰρ ἁμαρτία ἀφορμὴν λαβοῦσα διὰ τῆς ἐντολῆς ἐξηπάτησέν με καὶ δι’ αὐτῆς ἀπέκτεινεν."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Exodus": 1,
+   "Susanna": 1
+  },
+  "representatives": [
+   {
+    "work_code": "EXO",
+    "work_ja": "出エジプト記",
+    "work_src": "Exodus",
+    "ref": "8.25",
+    "form": "ἐξαπατῆσαι",
+    "postag": "v--ana---",
+    "sentence": "μὴ προσθῇς ἔτι, Φαραώ, ἐξαπατῆσαι τοῦ μὴ ἐξαποστεῖλαι τὸν λαὸν θῦσαι Κυρίῳ."
+   },
+   {
+    "work_code": "SUS",
+    "work_ja": "スザンナ（Th）",
+    "work_src": "Susanna",
+    "ref": "56",
+    "form": "ἐξηπάτησέ",
+    "postag": "v3saia---",
+    "sentence": "καὶ εἶπεν αὐτῷ, σπέρμα Χαναὰν καὶ οὐκ Ἰούδα, τὸ κάλλος ἐξηπάτησέ σε, καὶ ἡ ἐπιθυμία διέστρεψε τὴν καρδίαν σου ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 3,
+  "works": {
+   "Ignatius, Letters": 3
+  },
+  "representatives": [
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "1.8.1",
+    "form": "ἐξαπατάτω",
+    "postag": "v3spma---",
+    "sentence": "μὴ οὖν τις ὑμᾶς ἐξαπατάτω, ὥσπερ οὐ-δὲ ἐξαπατᾶσθε, ὅλοι ὄντες θεοῦ."
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "1.8.1",
+    "form": "ἐξαπατᾶσθε",
+    "postag": "v2ppim---",
+    "sentence": "μὴ οὖν τις ὑμᾶς ἐξαπατάτω, ὥσπερ οὐ-δὲ ἐξαπατᾶσθε, ὅλοι ὄντες θεοῦ."
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "4.6.2",
+    "form": "ἐξαπατήσητε",
+    "postag": "v2pasa---",
+    "sentence": "τὸν τοῦ θεοῦ θέλοντα εἶναι κόσμῳ μὴ χαρίσησθε, μη-δὲ ὕλῃ ἐξαπατήσητε ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "6   ἐξ -απατάω, -ῶ  strengthened form of ἀπατάω,     [in LXX: Ex 8:29 (הָתַל hi.), Da TH Sus 56* ;]     to deceive: c. acc, Ro 7:11 Ro 16:18, I Co 3:18, II Co 11:3, II Th 2:3; pass., I Ti 2:14.†"
+}
