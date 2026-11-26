@@ -1,0 +1,30 @@
+{
+  "strong": "G2623",
+  "lemma": "κατακλείω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "閉じ込める",
+      "def_ja": "閉じ込める、監禁する。『牢に閉じ込め』『ヨハネを牢に閉じ込めた』。",
+      "label_en": "to shut up",
+      "def_en": "To shut in, to confine.",
+      "label_es": "encerrar",
+      "def_es": "Meter preso, recluir.",
+      "label_sv": "att spärra in",
+      "def_sv": "Att stänga in, att fängsla.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒26:10、ルカ3:20。LXX に並行。教父の用例なし。単一語義。"
+    }
+  ],
+  "assignments": {
+    "ACT 26:10": 1,
+    "LUK 3:20": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

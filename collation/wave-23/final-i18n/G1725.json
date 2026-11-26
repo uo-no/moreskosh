@@ -1,0 +1,30 @@
+{
+  "strong": "G1725",
+  "lemma": "ἔναντι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "～の前で",
+      "def_ja": "～の前で、～の面前で。『神の前で』『主の前で』。",
+      "label_en": "before",
+      "def_en": "Before, in the presence of.",
+      "label_es": "delante de",
+      "def_es": "Ante, en presencia de.",
+      "label_sv": "inför",
+      "def_sv": "Framför, i närvaro av.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒8:21、ルカ1:8。LXX、教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "ACT 8:21": 1,
+    "LUK 1:8": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

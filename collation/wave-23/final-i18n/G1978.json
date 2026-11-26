@@ -1,0 +1,30 @@
+{
+  "strong": "G1978",
+  "lemma": "ἐπίσημος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "著名な",
+      "def_ja": "名の知られた、目立つ。『名高い囚人』『使徒たちの間で目立っている』。ローマ16:7 の『使徒たちの間で』か『使徒たちに』かは決定しない。",
+      "label_en": "well known, prominent",
+      "def_en": "Of note, conspicuous.",
+      "label_es": "notorio, destacado",
+      "def_es": "Conocido, que sobresale.",
+      "label_sv": "välkänd, framstående",
+      "def_sv": "Ryktbar, som utmärker sig.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "マタイ27:16、ローマ16:7。LXX、教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "MAT 27:16": 1,
+    "ROM 16:7": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

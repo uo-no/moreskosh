@@ -1,0 +1,30 @@
+{
+  "strong": "G1787",
+  "lemma": "ἐντός",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "内に",
+      "def_ja": "内に、内側に。『あなたがたのただ中に』『杯の内側』。ルカ17:21 の『内に』か『間に』かは決定しない。",
+      "label_en": "within",
+      "def_en": "Within, inside.",
+      "label_es": "dentro",
+      "def_es": "Dentro, en el interior.",
+      "label_sv": "inom, inuti",
+      "def_sv": "Inne i, på insidan.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ルカ17:21、マタイ23:26。LXX、教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "LUK 17:21": 1,
+    "MAT 23:26": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

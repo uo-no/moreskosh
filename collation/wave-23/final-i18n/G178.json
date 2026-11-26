@@ -1,0 +1,30 @@
+{
+  "strong": "G178",
+  "lemma": "ἀκατάκριτος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "罪に定められていない",
+      "def_ja": "まだ罪に定められていない。『裁判にもかけず』（2回）。",
+      "label_en": "uncondemned",
+      "def_en": "Not yet found guilty.",
+      "label_es": "sin haber sido condenado",
+      "def_es": "Todavía no declarado culpable.",
+      "label_sv": "odömd",
+      "def_sv": "Ännu inte fälld till ansvar.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒16:37・22:25。LXX・教父の用例なし。単一語義。"
+    }
+  ],
+  "assignments": {
+    "ACT 16:37": 1,
+    "ACT 22:25": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

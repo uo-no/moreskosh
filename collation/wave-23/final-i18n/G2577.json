@@ -1,0 +1,47 @@
+{
+  "strong": "G2577",
+  "lemma": "κάμνω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "疲れる",
+      "def_ja": "疲れ果てる、弱る。『気落ちして疲れ果てないために』。",
+      "label_en": "to grow weary",
+      "def_en": "To be worn out, to grow faint.",
+      "label_es": "cansarse",
+      "def_es": "Fatigarse, desfallecer.",
+      "label_sv": "att tröttna",
+      "def_sv": "Att bli utmattad, att mattas.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヘブル12:3。LXX・教父の代表例では確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "病む",
+      "def_ja": "病む、病気である。『病んでいる人を救い』。",
+      "label_en": "to be sick",
+      "def_en": "To be ill.",
+      "label_es": "estar enfermo",
+      "def_es": "Padecer enfermedad.",
+      "label_sv": "att vara sjuk",
+      "def_sv": "Att ligga sjuk.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヤコブ5:15。LXX に並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "HEB 12:3": 1,
+    "JAS 5:15": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（疲れる／病む）による。"
+}

@@ -1,0 +1,30 @@
+{
+  "strong": "G1599",
+  "lemma": "ἐκπέμπω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "送り出す",
+      "def_ja": "送り出す、派遣する。『送り出した』『遣わされて』。",
+      "label_en": "to send out",
+      "def_en": "To send out, to dispatch.",
+      "label_es": "enviar",
+      "def_es": "Hacer salir, despachar.",
+      "label_sv": "att sända ut",
+      "def_sv": "Att skicka i väg.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒17:10・13:4。LXX、教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "ACT 17:10": 1,
+    "ACT 13:4": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

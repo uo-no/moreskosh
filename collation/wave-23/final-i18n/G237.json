@@ -1,0 +1,30 @@
+{
+  "strong": "G237",
+  "lemma": "ἀλλαχοῦ",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "他の所",
+      "def_ja": "他の所へ、他の所から。『ほかの所へ行こう』『ほかの所から』。語形の違いで語義は分けない。",
+      "label_en": "elsewhere",
+      "def_en": "To another place, from another place.",
+      "label_es": "a otra parte",
+      "def_es": "A otro lugar, de otro lugar.",
+      "label_sv": "annanstans",
+      "def_sv": "Till en annan plats, från ett annat håll.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "マルコ1:38、ヨハネ10:1。LXX に並行。教父の用例なし。単一語義。"
+    }
+  ],
+  "assignments": {
+    "JHN 10:1": 1,
+    "MRK 1:38": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

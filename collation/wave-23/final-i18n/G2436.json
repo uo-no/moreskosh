@@ -1,0 +1,47 @@
+{
+  "strong": "G2436",
+  "lemma": "ἵλεως",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "憐れみ深い",
+      "def_ja": "憐れみ深い、寛大な。『彼らの不義にあわれみをかけ』。",
+      "label_en": "merciful",
+      "def_en": "Merciful, forbearing.",
+      "label_es": "propicio",
+      "def_es": "Misericordioso, indulgente.",
+      "label_sv": "nådig",
+      "def_sv": "Barmhärtig, överseende.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヘブル8:12。LXX、教父に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "（神が）許さない",
+      "def_ja": "『とんでもない』『決してあってはならない』。『主よ、そんなことがあってはなりません』。",
+      "label_en": "God forbid",
+      "def_en": "“Far from it”, “may it never be”.",
+      "label_es": "¡Dios no lo permita!",
+      "def_es": "«De ninguna manera», «que jamás suceda».",
+      "label_sv": "Gud bevare!",
+      "def_sv": "”Aldrig i livet”, ”det får inte ske”.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マタイ16:22。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "HEB 8:12": 1,
+    "MAT 16:22": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。"
+}

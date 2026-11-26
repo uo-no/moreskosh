@@ -1,0 +1,30 @@
+{
+  "strong": "G1881",
+  "lemma": "ἐπανίσταμαι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "立ち向かう",
+      "def_ja": "立ち上がる、逆らう。『子は親に逆らい』（2回）。",
+      "label_en": "to rise up against",
+      "def_en": "To rise up, to rebel.",
+      "label_es": "levantarse contra",
+      "def_es": "Alzarse, rebelarse.",
+      "label_sv": "att resa sig mot",
+      "def_sv": "Att sätta sig upp emot, att göra uppror.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "マタイ10:21、マルコ13:12。LXX に並行。教父の用例なし。単一語義。"
+    }
+  ],
+  "assignments": {
+    "MAT 10:21": 1,
+    "MRK 13:12": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

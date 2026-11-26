@@ -1,0 +1,30 @@
+{
+  "strong": "G2120",
+  "lemma": "εὐκαιρία",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "機会",
+      "def_ja": "機会、好機。『機会をねらっていた』『よい機会を』。",
+      "label_en": "opportunity",
+      "def_en": "An opportunity, a good chance.",
+      "label_es": "oportunidad",
+      "def_es": "Ocasión propicia.",
+      "label_sv": "tillfälle",
+      "def_sv": "Lägligt ögonblick.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ22:6、マタイ26:16。LXX に並行。教父の用例なし。単一語義。"
+    }
+  ],
+  "assignments": {
+    "LUK 22:6": 1,
+    "MAT 26:16": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

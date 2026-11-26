@@ -1,0 +1,47 @@
+{
+  "strong": "G1545",
+  "lemma": "ἔκβασις",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "逃れ道",
+      "def_ja": "出口、逃れ道。『耐えられるように、のがれる道』。",
+      "label_en": "way out",
+      "def_en": "An exit, a way of escape.",
+      "label_es": "salida",
+      "def_es": "Vía de escape.",
+      "label_sv": "utväg",
+      "def_sv": "Utgång, räddning.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "コリント第一10:13。LXX・教父の代表例では確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "結末",
+      "def_ja": "結末、成り行き。『その生活の結末をよく見て』。",
+      "label_en": "outcome",
+      "def_en": "The end, the result.",
+      "label_es": "resultado",
+      "def_es": "El fin, el desenlace.",
+      "label_sv": "utgång",
+      "def_sv": "Slutet, resultatet.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヘブル13:7。LXX に並行。教父の用例なし。"
+    }
+  ],
+  "assignments": {
+    "1CO 10:13": 1,
+    "HEB 13:7": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（出口／結末）による。"
+}

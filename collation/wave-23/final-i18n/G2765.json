@@ -1,0 +1,30 @@
+{
+  "strong": "G2765",
+  "lemma": "κεράμιον",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "壺",
+      "def_ja": "壺、水がめ。『水がめ』（2回）。",
+      "label_en": "jar",
+      "def_en": "A jar, a water pot.",
+      "label_es": "cántaro",
+      "def_es": "Vasija de barro para agua.",
+      "label_sv": "krus",
+      "def_sv": "Lerkrus, vattenkruka.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ルカ22:10、マルコ14:13。LXX、教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "LUK 22:10": 1,
+    "MRK 14:13": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

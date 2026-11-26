@@ -1,0 +1,30 @@
+{
+  "strong": "G2275",
+  "lemma": "ἥττημα",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "敗北・欠け",
+      "def_ja": "敗北、失敗、欠け。『すでに敗北』『彼らの失敗』。ローマ11:12 の『敗北』か『減少』かは決定しない。",
+      "label_en": "defeat, shortfall",
+      "def_en": "Defeat, failure, deficiency.",
+      "label_es": "derrota, falta",
+      "def_es": "Derrota, fracaso, mengua.",
+      "label_sv": "nederlag, brist",
+      "def_sv": "Nederlag, misslyckande, förlust.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "コリント第一6:7、ローマ11:12。LXX に並行。教父の用例なし。単一語義。"
+    }
+  ],
+  "assignments": {
+    "1CO 6:7": 1,
+    "ROM 11:12": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

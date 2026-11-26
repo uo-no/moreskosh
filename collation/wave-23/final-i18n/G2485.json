@@ -1,0 +1,30 @@
+{
+  "strong": "G2485",
+  "lemma": "ἰχθύδιον",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "小魚",
+      "def_ja": "小魚。『小さい魚』（2回）。",
+      "label_en": "small fish",
+      "def_en": "A little fish.",
+      "label_es": "pececillo",
+      "def_es": "Pez pequeño.",
+      "label_sv": "småfisk",
+      "def_sv": "Liten fisk.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "マタイ15:34、マルコ8:7。LXX の用例なし。教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "MAT 15:34": 1,
+    "MRK 8:7": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

@@ -1,0 +1,30 @@
+{
+  "strong": "G2277",
+  "lemma": "εἰμί",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "～であれ（命令法）",
+      "def_ja": "『ある』の三人称単数命令形。『のろわれよ』『「はい」は「はい」であれ』。パケットの番号は G2277 で、見出し語 εἰμί の一般の番号とは異なる。",
+      "label_en": "let it be (imperative)",
+      "def_en": "Third person singular imperative of the verb “to be”.",
+      "label_es": "sea (imperativo)",
+      "def_es": "Imperativo de tercera persona del singular del verbo «ser».",
+      "label_sv": "må vara (imperativ)",
+      "def_sv": "Imperativ i tredje person singular av verbet ”vara”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "コリント第一16:22、ヤコブ5:12。LXX、教父の代表例は εἰμί の他の語形（直説法など）で、命令形 ἤτω は確認していない。単一語義。"
+    }
+  ],
+  "assignments": {
+    "1CO 16:22": 1,
+    "JAS 5:12": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

@@ -1,0 +1,30 @@
+{
+  "strong": "G2690",
+  "lemma": "καταστρέφω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "ひっくり返す",
+      "def_ja": "ひっくり返す、覆す。『台をひっくり返し』（2回）。",
+      "label_en": "to overturn",
+      "def_en": "To turn over, to upset.",
+      "label_es": "volcar",
+      "def_es": "Trastornar, derribar.",
+      "label_sv": "att välta omkull",
+      "def_sv": "Att vända upp och ner.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "マタイ21:12、マルコ11:15。LXX、教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "MAT 21:12": 1,
+    "MRK 11:15": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

@@ -1,0 +1,47 @@
+{
+  "strong": "G1822",
+  "lemma": "ἐξαρτίζω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "整える",
+      "def_ja": "整える、備えさせる。『あらゆる良いわざにふさわしく整えられる』。",
+      "label_en": "to equip",
+      "def_en": "To make complete, to make ready.",
+      "label_es": "equipar",
+      "def_es": "Preparar, capacitar.",
+      "label_sv": "att utrusta",
+      "def_sv": "Att göra färdig, att rusta.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "テモテ第二3:17。LXX・教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "終える",
+      "def_ja": "（期間を）終える。『滞在の日数が終わったとき』。",
+      "label_en": "to complete",
+      "def_en": "To finish (a period of time).",
+      "label_es": "completar",
+      "def_es": "Terminar (un período).",
+      "label_sv": "att fullborda",
+      "def_sv": "Att avsluta (en tidsperiod).",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒21:5。LXX・教父の用例なし。"
+    }
+  ],
+  "assignments": {
+    "2TI 3:17": 1,
+    "ACT 21:5": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。"
+}

@@ -1,0 +1,30 @@
+{
+  "strong": "G1989",
+  "lemma": "ἐπιστέλλω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "書き送る",
+      "def_ja": "書き送る、書面で指示する。『書き送る』『簡単に書いた』。",
+      "label_en": "to write to",
+      "def_en": "To send word in writing, to instruct by letter.",
+      "label_es": "escribir",
+      "def_es": "Enviar por escrito, dar instrucciones por carta.",
+      "label_sv": "att skriva till",
+      "def_sv": "Att sända brev, att ge föreskrifter skriftligt.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒15:20、ヘブル13:22。LXX、教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "ACT 15:20": 1,
+    "HEB 13:22": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

@@ -1,0 +1,30 @@
+{
+  "strong": "G2622",
+  "lemma": "κατακλάω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "裂く",
+      "def_ja": "裂く、砕く。『パンを裂き』（2回）。",
+      "label_en": "to break",
+      "def_en": "To break, to break in pieces.",
+      "label_es": "partir",
+      "def_es": "Partir, romper en pedazos.",
+      "label_sv": "att bryta",
+      "def_sv": "Att bryta i stycken.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ9:16、マルコ6:41。LXX に並行（砕く）。教父の用例なし。単一語義。"
+    }
+  ],
+  "assignments": {
+    "LUK 9:16": 1,
+    "MRK 6:41": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

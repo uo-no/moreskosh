@@ -1,0 +1,47 @@
+{
+  "strong": "G1710",
+  "lemma": "ἐμπορεύομαι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "商売をする",
+      "def_ja": "商売をする、取引する。『商売をして』。",
+      "label_en": "to do business",
+      "def_en": "To trade, to do business.",
+      "label_es": "comerciar",
+      "def_es": "Negociar, traficar.",
+      "label_sv": "att driva handel",
+      "def_sv": "Att göra affärer.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヤコブ4:13。LXX に並行。教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "食い物にする",
+      "def_ja": "利用する、もうけの種にする。『作り話であなたがたを食い物にする』。",
+      "label_en": "to exploit",
+      "def_en": "To make use of someone, to make profit out of them.",
+      "label_es": "explotar",
+      "def_es": "Aprovecharse de alguien, hacer de él ganancia.",
+      "label_sv": "att utnyttja",
+      "def_sv": "Att sko sig på någon.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ペテロ第二2:3。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "2PE 2:3": 2,
+    "JAS 4:13": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（商売／食い物にする）による。"
+}

@@ -1,0 +1,30 @@
+{
+  "strong": "G233",
+  "lemma": "ἁλίζω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "塩づけにする",
+      "def_ja": "塩で味つけする、塩づけにする。『塩気がなくなったら』『火で塩づけられる』。",
+      "label_en": "to salt",
+      "def_en": "To season or preserve with salt.",
+      "label_es": "salar",
+      "def_es": "Sazonar o conservar con sal.",
+      "label_sv": "att salta",
+      "def_sv": "Att krydda eller konservera med salt.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "マタイ5:13、マルコ9:49。LXX、教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "MAT 5:13": 1,
+    "MRK 9:49": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

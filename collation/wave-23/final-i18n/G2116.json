@@ -1,0 +1,47 @@
+{
+  "strong": "G2116",
+  "lemma": "εὐθύνω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "まっすぐにする",
+      "def_ja": "まっすぐにする、整える。『主の道をまっすぐにせよ』。",
+      "label_en": "to make straight",
+      "def_en": "To straighten, to set right.",
+      "label_es": "enderezar",
+      "def_es": "Hacer recto, allanar.",
+      "label_sv": "att göra rak",
+      "def_sv": "Att räta, att jämna.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヨハネ1:23。LXX に並行。教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "操る・舵を取る",
+      "def_ja": "操る、舵を取る。『舵取りの思いのままに』。",
+      "label_en": "to steer",
+      "def_en": "To guide, to pilot.",
+      "label_es": "gobernar el timón",
+      "def_es": "Dirigir, timonear.",
+      "label_sv": "att styra",
+      "def_sv": "Att manövrera, att hålla rodret.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヤコブ3:4。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "JAS 3:4": 2,
+    "JHN 1:23": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。"
+}

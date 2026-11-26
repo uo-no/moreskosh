@@ -1,0 +1,30 @@
+{
+  "strong": "G1748",
+  "lemma": "ἐνεδρεύω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "待ち伏せる",
+      "def_ja": "待ち伏せる、ねらう。『待ち伏せしている』『待ち構えて』。",
+      "label_en": "to lie in wait",
+      "def_en": "To lie in ambush, to watch for.",
+      "label_es": "acechar",
+      "def_es": "Estar al acecho, tender emboscada.",
+      "label_sv": "att ligga i bakhåll",
+      "def_sv": "Att lura på, att vakta på tillfälle.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒23:21、ルカ11:54。LXX に並行。教父の用例なし。単一語義。"
+    }
+  ],
+  "assignments": {
+    "ACT 23:21": 1,
+    "LUK 11:54": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

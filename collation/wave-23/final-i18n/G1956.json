@@ -1,0 +1,47 @@
+{
+  "strong": "G1956",
+  "lemma": "ἐπιλύω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "解決する",
+      "def_ja": "解決する、決着をつける。『正規の議会で決着がつける』。",
+      "label_en": "to settle",
+      "def_en": "To resolve, to decide a matter.",
+      "label_es": "resolver",
+      "def_es": "Decidir, zanjar un asunto.",
+      "label_sv": "att avgöra",
+      "def_sv": "Att lösa, att slita en sak.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒19:39。LXX・教父の代表例では確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "解き明かす",
+      "def_ja": "解き明かす、説明する。『弟子たちには…解き明かされた』。",
+      "label_en": "to explain",
+      "def_en": "To expound, to make clear.",
+      "label_es": "explicar",
+      "def_es": "Aclarar, interpretar.",
+      "label_sv": "att uttyda",
+      "def_sv": "Att förklara.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "マルコ4:34。LXX の用例なし。教父に並行。"
+    }
+  ],
+  "assignments": {
+    "ACT 19:39": 1,
+    "MRK 4:34": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（解決／解き明かし）による。"
+}

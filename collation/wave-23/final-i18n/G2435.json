@@ -1,0 +1,47 @@
+{
+  "strong": "G2435",
+  "lemma": "ἱλαστήριον",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "贖いの蓋",
+      "def_ja": "契約の箱の蓋、贖いの座。『贖いの蓋』。",
+      "label_en": "mercy seat",
+      "def_en": "The cover of the ark of the covenant, the seat of atonement.",
+      "label_es": "propiciatorio",
+      "def_es": "La cubierta del arca del pacto.",
+      "label_sv": "nådastol",
+      "def_sv": "Locket på förbundsarken, försoningens plats.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヘブル9:5。LXX に並行。教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "宥めの手段",
+      "def_ja": "宥め・贖いの手段。ローマ3:25 を『贖いの蓋』と読むか『宥めの供え物』と読むかは決定しない。",
+      "label_en": "means of propitiation",
+      "def_en": "A means of propitiation or atonement.",
+      "label_es": "medio de propiciación",
+      "def_es": "Medio por el que se obtiene la expiación.",
+      "label_sv": "försoningsmedel",
+      "def_sv": "Ett medel för försoning.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ローマ3:25。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "HEB 9:5": 1,
+    "ROM 3:25": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。ローマ3:25 の解釈は決定しない。"
+}

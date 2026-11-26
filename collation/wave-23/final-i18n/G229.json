@@ -1,0 +1,30 @@
+{
+  "strong": "G229",
+  "lemma": "ἀλήθω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "臼でひく",
+      "def_ja": "臼でひく、粉にひく。『臼をひいている二人の女』（2回）。",
+      "label_en": "to grind",
+      "def_en": "To grind with a mill, to grind to flour.",
+      "label_es": "moler",
+      "def_es": "Moler con el molino.",
+      "label_sv": "att mala",
+      "def_sv": "Att mala på kvarn.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ルカ17:35、マタイ24:41。LXX、教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "LUK 17:35": 1,
+    "MAT 24:41": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

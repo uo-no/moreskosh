@@ -1,0 +1,47 @@
+{
+  "strong": "G2774",
+  "lemma": "κεφάλαιον",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "金額",
+      "def_ja": "金額、総額。『多額の金を出して』。",
+      "label_en": "sum of money",
+      "def_en": "A sum, a total amount.",
+      "label_es": "suma de dinero",
+      "def_es": "Cantidad, importe total.",
+      "label_sv": "penningsumma",
+      "def_sv": "Belopp, totalsumma.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒22:28。LXX に並行。教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "要点",
+      "def_ja": "要点、主要な点。ヘブル8:1 を『要点』と読むか『総括』と読むかは決定しない。",
+      "label_en": "main point",
+      "def_en": "The chief point.",
+      "label_es": "punto principal",
+      "def_es": "Lo esencial.",
+      "label_sv": "huvudsak",
+      "def_sv": "Den viktigaste punkten.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヘブル8:1。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 22:28": 1,
+    "HEB 8:1": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（金額／要点）による。"
+}

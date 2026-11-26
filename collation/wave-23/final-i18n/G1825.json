@@ -1,0 +1,30 @@
+{
+  "strong": "G1825",
+  "lemma": "ἐξεγείρω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "起こす",
+      "def_ja": "起こす、よみがえらせる。『わたしたちをもよみがえらせる』『あなたを立てた』。",
+      "label_en": "to raise up",
+      "def_en": "To raise, to raise from the dead.",
+      "label_es": "levantar, resucitar",
+      "def_es": "Alzar, hacer resucitar.",
+      "label_sv": "att uppresa",
+      "def_sv": "Att resa upp, att uppväcka.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "コリント第一6:14、ローマ9:17。LXX、教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "1CO 6:14": 1,
+    "ROM 9:17": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

@@ -1,0 +1,47 @@
+{
+  "strong": "G1650",
+  "lemma": "ἔλεγχος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "戒め・論駁",
+      "def_ja": "戒め、論駁。『戒めのために有益』。",
+      "label_en": "reproof, refutation",
+      "def_en": "Reproof, refutation.",
+      "label_es": "reprensión, refutación",
+      "def_es": "Reprensión, el rebatir.",
+      "label_sv": "tillrättavisning",
+      "def_sv": "Bestraffning, vederläggning.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "テモテ第二3:16。LXX、教父に並行。語義2との境界は連続的。語形 ἐλεγμόν は ἔλεγχος の別形か異形かを決定しない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "確証",
+      "def_ja": "確証、確信を与えるもの。『目に見えないものを確信させるもの』。",
+      "label_en": "proof, conviction",
+      "def_en": "Proof, that which gives certainty.",
+      "label_es": "convicción",
+      "def_es": "Prueba, lo que da certeza.",
+      "label_sv": "bevis, övertygelse",
+      "def_sv": "Det som ger visshet.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヘブル11:1。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "2TI 3:16": 1,
+    "HEB 11:1": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（戒め／確証）による。"
+}

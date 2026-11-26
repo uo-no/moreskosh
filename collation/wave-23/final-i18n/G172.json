@@ -1,0 +1,47 @@
+{
+  "strong": "G172",
+  "lemma": "ἄκακος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "無垢な",
+      "def_ja": "悪意のない、無垢な。『罪なく』。",
+      "label_en": "innocent",
+      "def_en": "Without malice, innocent.",
+      "label_es": "inocente",
+      "def_es": "Sin malicia, inocente.",
+      "label_sv": "oskyldig",
+      "def_sv": "Utan ondska, oskyldig.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヘブル7:26。LXX、教父に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "純朴な・疑いを知らない",
+      "def_ja": "疑いを知らない、純朴な。『素朴な人たち』。",
+      "label_en": "guileless, unsuspecting",
+      "def_en": "Unsuspecting, simple-hearted.",
+      "label_es": "ingenuo",
+      "def_es": "Que no sospecha, sencillo.",
+      "label_sv": "godtrogen, enfaldig",
+      "def_sv": "Intet ont anande, troskyldig.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ローマ16:18。LXX に並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "HEB 7:26": 1,
+    "ROM 16:18": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。"
+}

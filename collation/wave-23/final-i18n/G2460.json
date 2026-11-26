@@ -1,0 +1,30 @@
+{
+  "strong": "G2460",
+  "lemma": "ἱππεύς",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "騎兵",
+      "def_ja": "騎兵。『騎兵七十人』『騎兵たち』。",
+      "label_en": "horseman",
+      "def_en": "A cavalryman, a horseman.",
+      "label_es": "jinete",
+      "def_es": "Soldado de caballería.",
+      "label_sv": "ryttare",
+      "def_sv": "Kavallerist, soldat till häst.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒23:23・23:32。LXX、教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "ACT 23:23": 1,
+    "ACT 23:32": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}
