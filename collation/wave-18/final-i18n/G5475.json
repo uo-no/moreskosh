@@ -1,0 +1,67 @@
+{
+  "strong": "G5475",
+  "lemma": "χαλκός",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "銅・青銅",
+      "def_ja": "金属としての銅・青銅。『銅…の商品』。",
+      "label_en": "copper, bronze",
+      "def_en": "Copper or bronze as a metal.",
+      "label_es": "cobre, bronce",
+      "def_es": "El cobre o bronce como metal.",
+      "label_sv": "koppar, brons",
+      "def_sv": "Koppar eller brons som metall.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "黙示録18:12。LXX、教父に並行。語義2・3との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "銅貨・小銭",
+      "def_ja": "銅貨、小銭。『財布に銅貨を』『お金も袋に入れず』『銅貨を入れて』『金や銀や銅貨』。",
+      "label_en": "copper coin, small change",
+      "def_en": "Copper money, small coin.",
+      "label_es": "moneda de cobre",
+      "def_es": "Calderilla, dinero suelto.",
+      "label_sv": "kopparmynt, småpengar",
+      "def_sv": "Kopparslantar, småmynt.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マタイ10:9、マルコ6:8・12:41。語義1との境界は連続的。LXX・教父の代表例は金属の用法で、この語義としては確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "鳴り響く青銅（楽器）",
+      "def_ja": "鳴る青銅、どら。『鳴る銅鑼』。",
+      "label_en": "sounding brass (instrument)",
+      "def_en": "Sounding bronze, a gong.",
+      "label_es": "bronce que resuena (instrumento)",
+      "def_es": "Metal que suena, gong.",
+      "label_sv": "ljudande malm (instrument)",
+      "def_sv": "Klingande malm, en gonggong.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "コリント第一13:1。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 13:1": 3,
+    "MAT 10:9": 2,
+    "MRK 12:41": 2,
+    "MRK 6:8": 2,
+    "REV 18:12": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（銅・青銅／銅貨／楽器）による。"
+}

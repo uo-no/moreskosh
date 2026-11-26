@@ -1,0 +1,50 @@
+{
+  "strong": "G1624",
+  "lemma": "ἐκτρέπομαι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "それる・離れる",
+      "def_ja": "道からそれる、離れる、避ける。『これからそれて』『サタンの方へそれて行った』『俗悪な話を避け』『作り話にそれて行く』。",
+      "label_en": "to turn aside, to turn away",
+      "def_en": "To turn off the path, to depart, to avoid.",
+      "label_es": "desviarse, apartarse",
+      "def_es": "Salirse del camino, alejarse, evitar.",
+      "label_sv": "att vika av, att vända sig bort",
+      "def_sv": "Att lämna vägen, att avlägsna sig, att undvika.",
+      "layers": {
+        "nt": 4,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "テモテ第一1:6・5:15・6:20、テモテ第二4:4。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "脱臼する",
+      "def_ja": "足の関節がはずれる。『足の不自由な者が関節をはずされることのないように』。",
+      "label_en": "to be dislocated",
+      "def_en": "For a joint of the foot to be put out of place.",
+      "label_es": "dislocarse",
+      "def_es": "Salirse de su sitio la articulación del pie.",
+      "label_sv": "att gå ur led",
+      "def_sv": "Att en fotled går ur led.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヘブル12:13。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1TI 1:6": 1,
+    "1TI 5:15": 1,
+    "1TI 6:20": 1,
+    "2TI 4:4": 1,
+    "HEB 12:13": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（それる・離れる／脱臼）による。"
+}

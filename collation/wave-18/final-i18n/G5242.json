@@ -1,0 +1,50 @@
+{
+  "strong": "G5242",
+  "lemma": "ὑπερέχω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "まさる・優れる",
+      "def_ja": "まさる、すぐれる。『知識にすぐれていること』『人知を越えた神の平安』『互いに人を自分よりすぐれた者と思い』。",
+      "label_en": "to surpass, to be better",
+      "def_en": "To excel, to be superior.",
+      "label_es": "superar, aventajar",
+      "def_es": "Sobresalir, ser superior.",
+      "label_sv": "att överträffa, att vara förmer",
+      "def_sv": "Att vara överlägsen, att stå högre.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ピリピ3:8・4:7・2:3。LXX、教父に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "上に立つ・支配する",
+      "def_ja": "上位にある、治める。『最高の権威者としての王』『上に立つ権威』。",
+      "label_en": "to be over, to govern",
+      "def_en": "To be in a higher position, to rule.",
+      "label_es": "estar en autoridad, gobernar",
+      "def_es": "Ocupar un puesto superior, regir.",
+      "label_sv": "att vara överordnad, att styra",
+      "def_sv": "Att stå över, att regera.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ペテロ第一2:13、ローマ13:1。LXX、教父に並行。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "1PE 2:13": 2,
+    "PHP 3:8": 1,
+    "PHP 4:7": 1,
+    "PHP 2:3": 1,
+    "ROM 13:1": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（まさる／上に立つ）による。"
+}

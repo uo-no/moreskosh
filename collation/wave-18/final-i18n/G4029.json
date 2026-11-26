@@ -1,0 +1,67 @@
+{
+  "strong": "G4029",
+  "lemma": "περίκειμαι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "掛けられている・身につけている",
+      "def_ja": "首などに掛けられている、身につけている。『首にひき臼をかけられて』『この鎖につながれている』。",
+      "label_en": "to be hung around, to wear",
+      "def_en": "To be hung about the neck or the like; to be wearing.",
+      "label_es": "llevar puesto, estar colgado",
+      "def_es": "Tener algo colgado al cuello o puesto encima.",
+      "label_sv": "att vara hängd om, att bära",
+      "def_sv": "Att ha något hängande om halsen eller på sig.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ17:2、マルコ9:42、使徒28:20。LXX に並行。教父の代表例では確認していない。語義2・3との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "取り巻かれている",
+      "def_ja": "雲のように取り巻かれている。『このように多くの証人に囲まれている』。",
+      "label_en": "to be surrounded",
+      "def_en": "To be surrounded as by a cloud.",
+      "label_es": "estar rodeado",
+      "def_es": "Estar rodeado como por una nube.",
+      "label_sv": "att vara omgiven",
+      "def_sv": "Att vara omsluten som av en sky.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヘブル12:1。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "弱さを負う",
+      "def_ja": "弱さを身にまとう、弱さの中にある。『自分自身も弱さを負うているので』。",
+      "label_en": "to be beset with weakness",
+      "def_en": "To be clothed in weakness, to be subject to it.",
+      "label_es": "estar rodeado de debilidad",
+      "def_es": "Estar revestido de flaqueza.",
+      "label_sv": "att vara behäftad med svaghet",
+      "def_sv": "Att bära svagheten på sig, att vara svag.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヘブル5:2。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 28:20": 1,
+    "HEB 5:2": 3,
+    "HEB 12:1": 2,
+    "LUK 17:2": 1,
+    "MRK 9:42": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（身につける／取り巻かれる／弱さを負う）による。"
+}

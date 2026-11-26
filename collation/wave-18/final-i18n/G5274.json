@@ -1,0 +1,67 @@
+{
+  "strong": "G5274",
+  "lemma": "ὑπολαμβάνω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "思う",
+      "def_ja": "思う、考える。『あなたがたの思っているように、この人たちは酔っているのではない』『わたしは…だと思います』。",
+      "label_en": "to suppose",
+      "def_en": "To think, to suppose.",
+      "label_es": "suponer, pensar",
+      "def_es": "Pensar, considerar.",
+      "label_sv": "att förmoda, att tro",
+      "def_sv": "Att mena, att anta.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒2:15、ルカ7:43。LXX、教父に並行。語義2・3との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "答える",
+      "def_ja": "会話に答える、受けて言う。『イエスは答えて言われた』。",
+      "label_en": "to answer",
+      "def_en": "To respond in conversation, to take up and say.",
+      "label_es": "responder",
+      "def_es": "Replicar en una conversación, tomar la palabra.",
+      "label_sv": "att svara",
+      "def_sv": "Att genmäla, att ta till orda.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ10:30。LXX に並行。教父の代表例では確認していない。語義1・3との境界は連続的。"
+    },
+    {
+      "n": 3,
+      "label_ja": "受け入れる・迎える",
+      "def_ja": "受け取る、迎える、支援する。『雲に迎えられて見えなくなった』『こうした人々を援助すべきである』。",
+      "label_en": "to take up, to receive, to support",
+      "def_en": "To take up, to welcome, to give support.",
+      "label_es": "recibir, acoger",
+      "def_es": "Tomar, acoger, sostener.",
+      "label_sv": "att ta emot, att ta upp",
+      "def_sv": "Att motta, välkomna, understödja.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒1:9、ヨハネ第三8。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "3JN 1:8": 3,
+    "ACT 1:9": 3,
+    "ACT 2:15": 1,
+    "LUK 10:30": 2,
+    "LUK 7:43": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（思う／答える／迎える）による。"
+}

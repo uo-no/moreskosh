@@ -1,0 +1,50 @@
+{
+  "strong": "G3875",
+  "lemma": "παράκλητος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "弁護者・とりなす者",
+      "def_ja": "弁護者、とりなす者。『わたしたちには、父のみもとに弁護者がある』。",
+      "label_en": "advocate, intercessor",
+      "def_en": "An advocate, one who pleads for another.",
+      "label_es": "abogado, intercesor",
+      "def_es": "Abogado, el que intercede.",
+      "label_sv": "försvarare, förespråkare",
+      "def_sv": "Försvarare, en som för någons talan.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヨハネ第一2:1。LXX（「παράκλητος」の用例）、教父に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "助け主・保惠師",
+      "def_ja": "助け主（聖霊）。『もうひとりの助け主』『助け主、すなわち真理の御霊』『助け主が来る』『助け主が…あなたがたに来ない』。「助け主」の語義（弁護者・慰め主・助け手）の範囲は決定しない。",
+      "label_en": "Helper, Paraclete",
+      "def_en": "The Helper (the Holy Spirit).",
+      "label_es": "Consolador, Ayudador",
+      "def_es": "El Ayudador (el Espíritu Santo).",
+      "label_sv": "Hjälparen",
+      "def_sv": "Hjälparen (den helige Ande).",
+      "layers": {
+        "nt": 4,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヨハネ14:16・14:26・15:26・16:7。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1JN 2:1": 1,
+    "JHN 15:26": 2,
+    "JHN 14:16": 2,
+    "JHN 14:26": 2,
+    "JHN 16:7": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（ヨハネ第一の弁護者／ヨハネ福音書の助け主）による。ヨハネ福音書の語義の範囲は決定しない。"
+}

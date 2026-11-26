@@ -1,0 +1,50 @@
+{
+  "strong": "G3817",
+  "lemma": "παίω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "打つ・撃つ",
+      "def_ja": "打つ、たたく。『剣を抜いて…耳を切り落とした』『彼を打って』『彼を打ち、』『剣で打ちかかり』『打ちなさい』。",
+      "label_en": "to strike",
+      "def_en": "To strike, to hit.",
+      "label_es": "herir, golpear",
+      "def_es": "Golpear, dar golpes.",
+      "label_sv": "att slå",
+      "def_sv": "Att slå, att hugga till.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヨハネ18:10、ルカ22:64、マタイ26:68、マルコ14:47。LXX、教父に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "刺す",
+      "def_ja": "さそりなどが刺す。『さそりが人を刺す時の苦痛』。",
+      "label_en": "to sting",
+      "def_en": "For a scorpion or the like to sting.",
+      "label_es": "picar",
+      "def_es": "Picar un escorpión u otro animal.",
+      "label_sv": "att sticka",
+      "def_sv": "Att en skorpion eller liknande sticker.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "黙示録9:5。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "JHN 18:10": 1,
+    "LUK 22:64": 1,
+    "MAT 26:68": 1,
+    "MRK 14:47": 1,
+    "REV 9:5": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（打つ／刺す）による。"
+}

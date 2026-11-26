@@ -1,0 +1,33 @@
+{
+  "strong": "G476",
+  "lemma": "ἀντίδικος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "訴訟の相手・敵対者",
+      "def_ja": "訴訟の相手、敵対者。『あなたがたの敵である悪魔』『訴える者』『敵対者』『あなたを訴える者』『わたしの敵』。ペテロ第一5:8 の用法は同語義とし、悪魔を指す。",
+      "label_en": "opponent at law, adversary",
+      "def_en": "An opponent in a lawsuit, an adversary.",
+      "label_es": "adversario (en un pleito)",
+      "def_es": "Parte contraria en un juicio, adversario.",
+      "label_sv": "motpart, motståndare",
+      "def_sv": "Motpart i en rättegång, motståndare.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ペテロ第一5:8、ルカ12:58・18:3、マタイ5:25（2回）。LXX に並行。教父の用例なし。単一語義。"
+    }
+  ],
+  "assignments": {
+    "1PE 5:8": 1,
+    "LUK 12:58": 1,
+    "LUK 18:3": 1,
+    "MAT 5:25#1": 1,
+    "MAT 5:25#2": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

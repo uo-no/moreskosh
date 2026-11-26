@@ -1,0 +1,50 @@
+{
+  "strong": "G1465",
+  "lemma": "ἐγκόπτω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "妨げる",
+      "def_ja": "妨げる、阻む。『祈りが妨げられないように』『サタンがわたしたちを妨げた』『真理に従うことを妨げたのか』『あなたがたのところに行くのを妨げられていた』。",
+      "label_en": "to hinder",
+      "def_en": "To hinder, to obstruct.",
+      "label_es": "estorbar, impedir",
+      "def_es": "Estorbar, cortar el paso.",
+      "label_sv": "att hindra",
+      "def_sv": "Att hindra, att hejda.",
+      "layers": {
+        "nt": 4,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ペテロ第一3:7、テサロニケ第一2:18、ガラテヤ5:7、ローマ15:22。語義2との境界は連続的。LXX・教父の用例なし。"
+    },
+    {
+      "n": 2,
+      "label_ja": "煩わせる",
+      "def_ja": "長く煩わせる、手を煩わせる。『これ以上あなたを煩わさないように』。",
+      "label_en": "to detain, to weary",
+      "def_en": "To trouble someone at length, to take up their time.",
+      "label_es": "molestar, importunar",
+      "def_es": "Detener a alguien demasiado, ser una molestia.",
+      "label_sv": "att uppehålla, att besvära",
+      "def_sv": "Att länge uppta någons tid, att vara till besvär.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒24:4。語義1との境界は連続的。LXX・教父の用例なし。"
+    }
+  ],
+  "assignments": {
+    "1PE 3:7": 1,
+    "1TH 2:18": 1,
+    "ACT 24:4": 2,
+    "GAL 5:7": 1,
+    "ROM 15:22": 1
+  },
+  "unresolved": [],
+  "layer_notes": "LXX・教父の用例なし。語義区分は用法（妨げる／煩わせる）による。"
+}

@@ -1,0 +1,50 @@
+{
+  "strong": "G2158",
+  "lemma": "εὐσχήμων",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "見苦しくない・上品な",
+      "def_ja": "見よい、礼にかなった。『見よいところは』『品位のあること』。",
+      "label_en": "presentable, proper",
+      "def_en": "Seemly, decorous.",
+      "label_es": "decoroso",
+      "def_es": "De buen parecer, conveniente.",
+      "label_sv": "anständig, ansenlig",
+      "def_sv": "Som tar sig väl ut, passande.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "コリント第一12:24・7:35。LXX に並行。教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "身分のある・名のある",
+      "def_ja": "身分の高い、名の通った。『身分の高いギリシヤの婦人たち』『名のある婦人たち』『身分の高い議員』。",
+      "label_en": "of high standing, prominent",
+      "def_en": "Of high rank, well known.",
+      "label_es": "distinguido, de posición",
+      "def_es": "De alta posición, de renombre.",
+      "label_sv": "ansedd, förnäm",
+      "def_sv": "Av hög rang, välkänd.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒17:12・13:50、マルコ15:43。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 12:24": 1,
+    "1CO 7:35": 1,
+    "ACT 17:12": 2,
+    "ACT 13:50": 2,
+    "MRK 15:43": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（品位／身分）による。"
+}

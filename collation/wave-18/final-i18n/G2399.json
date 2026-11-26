@@ -1,0 +1,50 @@
+{
+  "strong": "G2399",
+  "lemma": "ἰδιώτης",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "一般の人・部外者",
+      "def_ja": "専門家・内部の者でない人、一般の者。『素人の席にいる者』『初心者や不信者』『信者でない者または未信者』。",
+      "label_en": "ordinary person, outsider",
+      "def_en": "One who is not a specialist or an insider; an ordinary person.",
+      "label_es": "persona no iniciada, de fuera",
+      "def_es": "El que no es experto ni de dentro; persona corriente.",
+      "label_sv": "utomstående, oinvigd",
+      "def_sv": "En som inte är fackman eller hör till kretsen; en vanlig människa.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "コリント第一14:16・14:23・14:24。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "無学な者・素人",
+      "def_ja": "訓練を受けていない者、素人。『話は素人でも』『無学な、ただの人』。",
+      "label_en": "unlearned, amateur",
+      "def_en": "One without training, a layman.",
+      "label_es": "persona sin instrucción, lego",
+      "def_es": "El que no ha sido adiestrado, profano.",
+      "label_sv": "olärd, lekman",
+      "def_sv": "En som saknar skolning, en amatör.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "コリント第二11:6、使徒4:13。LXX に並行（一般人の用法）。教父の用例なし。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "1CO 14:16": 1,
+    "1CO 14:23": 1,
+    "1CO 14:24": 1,
+    "2CO 11:6": 2,
+    "ACT 4:13": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（部外者／無学な者）による。"
+}

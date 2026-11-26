@@ -1,0 +1,67 @@
+{
+  "strong": "G5287",
+  "lemma": "ὑπόστασις",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "確信・自信",
+      "def_ja": "確信、自信、心構え。『その自慢が…確信をもって』『この誇りの確信において』『初めの確信を』。",
+      "label_en": "confidence, assurance",
+      "def_en": "Confidence, assurance, an undertaking spirit.",
+      "label_es": "confianza, seguridad",
+      "def_es": "Seguridad, confianza, disposición de ánimo.",
+      "label_sv": "tillförsikt",
+      "def_sv": "Visshet, tillit, hållning.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "コリント第二9:4・11:17、ヘブル3:14。LXX に並行。教父の代表例では確認していない。語義2・3との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "本質・実体",
+      "def_ja": "本質、実体、存在の裏づけ。『神の本質の刻印』（ヘブル1:3）。",
+      "label_en": "substance, being",
+      "def_en": "Essence, substance, that which underlies existence.",
+      "label_es": "sustancia, realidad esencial",
+      "def_es": "Esencia, sustancia, lo que da fundamento a la existencia.",
+      "label_sv": "väsen, substans",
+      "def_sv": "Väsen, substans, det som ligger till grund.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヘブル1:3。「本質・実体・位格」の読みは決定しない。語義1・3との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "確かなもの・保証（解釈が分かれる）",
+      "def_ja": "望むことの『確信』『実体』『保証』。",
+      "label_en": "certainty or guarantee (disputed)",
+      "def_en": "The “assurance”, “substance” or “guarantee” of things hoped for.",
+      "label_es": "certeza o garantía (discutido)",
+      "def_es": "La «seguridad», «sustancia» o «garantía» de lo que se espera.",
+      "label_sv": "visshet eller garanti (omtvistat)",
+      "def_sv": "”Visshet”, ”verklighet” eller ”underpant” för det man hoppas.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヘブル11:1。「確信」「実体」「保証」のいずれかは争われており決定しない。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "2CO 11:17": 1,
+    "2CO 9:4": 1,
+    "HEB 1:3": 2,
+    "HEB 3:14": 1,
+    "HEB 11:1": 3
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（確信／ヘブル1:3／ヘブル11:1）による。ヘブル1:3・11:1 は決定しない。"
+}

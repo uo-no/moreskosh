@@ -1,0 +1,33 @@
+{
+  "strong": "G2965",
+  "lemma": "κύων",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "犬",
+      "def_ja": "犬（比喩的な用法を含む）。『犬が自分の吐いた物に帰る』『犬もやって来て』『聖なるものを犬に与えるな』『犬に注意しなさい』『犬ども…は外に』。",
+      "label_en": "dog",
+      "def_en": "A dog (including figurative uses).",
+      "label_es": "perro",
+      "def_es": "Perro (incluidos los usos figurados).",
+      "label_sv": "hund",
+      "def_sv": "Hund (även bildligt).",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ペテロ第二2:22、ルカ16:21、マタイ7:6、ピリピ3:2、黙示録22:15。LXX、教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "2PE 2:22": 1,
+    "LUK 16:21": 1,
+    "MAT 7:6": 1,
+    "PHP 3:2": 1,
+    "REV 22:15": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

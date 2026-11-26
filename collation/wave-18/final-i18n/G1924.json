@@ -1,0 +1,50 @@
+{
+  "strong": "G1924",
+  "lemma": "ἐπιγράφω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "銘を刻む・書き記す（物に）",
+      "def_ja": "物に銘や文字を記す。『「知られていない神に」と刻まれた祭壇』『罪状書き』『その上に十二の門の名が書かれて』。",
+      "label_en": "to inscribe",
+      "def_en": "To mark names or letters on an object.",
+      "label_es": "inscribir, escribir sobre (un objeto)",
+      "def_es": "Grabar nombres o letras en algo.",
+      "label_sv": "att skriva på, att inrista",
+      "def_sv": "Att förse ett föremål med namn eller skrift.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒17:23、マルコ15:26、黙示録21:12。LXX に並行。教父の代表例では確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "心に書き記す",
+      "def_ja": "律法を心に書き記す。『彼らの心に書きつける』『彼らの思いに書きつける』。",
+      "label_en": "to write on the heart",
+      "def_en": "To write the law on the heart.",
+      "label_es": "escribir en el corazón",
+      "def_es": "Escribir la ley en el corazón.",
+      "label_sv": "att skriva i hjärtat",
+      "def_sv": "Att skriva lagen i hjärtat.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヘブル10:16・8:10。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 17:23": 1,
+    "HEB 10:16": 2,
+    "HEB 8:10": 2,
+    "MRK 15:26": 1,
+    "REV 21:12": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（物への銘／心に書き記す）による。"
+}

@@ -1,0 +1,50 @@
+{
+  "strong": "G1643",
+  "lemma": "ἐλαύνω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "駆られる・追われる",
+      "def_ja": "風や霊に駆り立てられる、追い立てられる。『あらしに追われる霧』『強い風に追われて』『悪霊にひきまわされて』。",
+      "label_en": "to be driven",
+      "def_en": "To be driven or impelled by wind or spirit.",
+      "label_es": "ser impulsado, ser arrastrado",
+      "def_es": "Ser empujado o llevado por el viento o por un espíritu.",
+      "label_sv": "att drivas",
+      "def_sv": "Att drivas eller jagas av vind eller ande.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ペテロ第二2:17、ヤコブ3:4、ルカ8:29。LXX に並行。教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "漕ぐ",
+      "def_ja": "舟を漕ぐ。『二十五、六スタディオンほど漕ぎ出したとき』『漕ぎあぐねているのを見て』。",
+      "label_en": "to row",
+      "def_en": "To row a boat.",
+      "label_es": "remar",
+      "def_es": "Mover una barca a remo.",
+      "label_sv": "att ro",
+      "def_sv": "Att ro en båt.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヨハネ6:19、マルコ6:48。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "2PE 2:17": 1,
+    "JAS 3:4": 1,
+    "JHN 6:19": 2,
+    "LUK 8:29": 1,
+    "MRK 6:48": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（駆られる／漕ぐ）による。"
+}

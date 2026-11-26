@@ -1,0 +1,50 @@
+{
+  "strong": "G3179",
+  "lemma": "μεθίστημι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "移す・取り除く",
+      "def_ja": "移す、取り除く、廃する。『山を動かすほどの』『サウルを退けた』『暗やみの力から救い出して』『管理の職を取り去られても』。",
+      "label_en": "to move, to remove",
+      "def_en": "To move, to remove, to depose.",
+      "label_es": "trasladar, quitar",
+      "def_es": "Mudar, apartar, destituir.",
+      "label_sv": "att flytta, att avlägsna",
+      "def_sv": "Att förflytta, ta bort, avsätta.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "コリント第一13:2、使徒13:22、コロサイ1:13、ルカ16:4。LXX に並行。教父の代表例では確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "そむかせる・転向させる",
+      "def_ja": "人を信仰から転向させる。『多くの人々を説き伏せて…そむかせた』。",
+      "label_en": "to turn away, to win over",
+      "def_en": "To turn a person away from the faith.",
+      "label_es": "apartar, desviar",
+      "def_es": "Hacer que alguien se aparte de la fe.",
+      "label_sv": "att förleda",
+      "def_sv": "Att få någon att vända sig från tron.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒19:26。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 13:2": 1,
+    "ACT 13:22": 1,
+    "ACT 19:26": 2,
+    "COL 1:13": 1,
+    "LUK 16:4": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（移す・取り除く／そむかせる）による。"
+}

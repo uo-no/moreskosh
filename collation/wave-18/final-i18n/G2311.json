@@ -1,0 +1,50 @@
+{
+  "strong": "G2311",
+  "lemma": "θεμελιόω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "土台を据える",
+      "def_ja": "土台を据える、基礎の上に建てる。『あなたがはじめに地の基を置かれた』『岩を土台としていたから』。",
+      "label_en": "to lay a foundation",
+      "def_en": "To lay a foundation, to build on a base.",
+      "label_es": "poner cimientos, fundar",
+      "def_es": "Echar los cimientos, edificar sobre una base.",
+      "label_sv": "att lägga grunden",
+      "def_sv": "Att grundlägga, att bygga på en grund.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヘブル1:10、マタイ7:25。LXX に並行。教父の代表例は比喩の用法で、この語義としては確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "堅くする・基礎づける（比喩）",
+      "def_ja": "揺るがないものにする、基礎づける。『あなたがたを強め、揺るがない者とし』『しっかりと立って』『愛に根ざし、愛に基礎を置く』。",
+      "label_en": "to establish, to ground (figurative)",
+      "def_en": "To make firm and unshakable.",
+      "label_es": "afirmar, fundamentar (figurado)",
+      "def_es": "Hacer inconmovible, cimentar.",
+      "label_sv": "att befästa, att grunda (bildligt)",
+      "def_sv": "Att göra orubblig, att ge fast grund.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "ペテロ第一5:10、コロサイ1:23、エペソ3:17。教父に並行。LXX の代表例では確認していない。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "1PE 5:10": 2,
+    "COL 1:23": 2,
+    "EPH 3:17": 2,
+    "HEB 1:10": 1,
+    "MAT 7:25": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（土台を据える／堅くする）による。"
+}

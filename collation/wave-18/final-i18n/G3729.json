@@ -1,0 +1,33 @@
+{
+  "strong": "G3729",
+  "lemma": "ὁρμάω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "突進する・飛び出す",
+      "def_ja": "突進する、勢いよく向かう。『一同は…劇場になだれ込み』『一斉に彼に殺到し』『豚の群れは…がけを駆け下り』『群れ全体が突進して』。",
+      "label_en": "to rush",
+      "def_en": "To rush, to move headlong toward.",
+      "label_es": "precipitarse, lanzarse",
+      "def_es": "Abalanzarse, dirigirse con ímpetu.",
+      "label_sv": "att rusa, att störta",
+      "def_sv": "Att storma fram, att kasta sig mot något.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒19:29・7:57、ルカ8:33、マタイ8:32、マルコ5:13。LXX に並行。教父の用例なし。単一語義。"
+    }
+  ],
+  "assignments": {
+    "ACT 19:29": 1,
+    "ACT 7:57": 1,
+    "LUK 8:33": 1,
+    "MAT 8:32": 1,
+    "MRK 5:13": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

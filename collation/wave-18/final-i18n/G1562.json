@@ -1,0 +1,50 @@
+{
+  "strong": "G1562",
+  "lemma": "ἐκδύω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "はぎ取る",
+      "def_ja": "衣をはぎ取る。『裸にし、半殺しにして』『着物をはぎ取り』『着物をはぎ取って』『その着物を着せた』。",
+      "label_en": "to strip",
+      "def_en": "To strip a person of clothing.",
+      "label_es": "despojar (de la ropa)",
+      "def_es": "Quitarle a alguien el vestido.",
+      "label_sv": "att klä av",
+      "def_sv": "Att slita kläderna av någon.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ10:30、マタイ27:28・27:31、マルコ15:20。LXX に並行。教父の代表例では確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "脱ぐ（比喩）",
+      "def_ja": "衣を脱ぐ。『むしろ、脱ぎたいのではなく』（死を指す比喩）。",
+      "label_en": "to take off (figurative)",
+      "def_en": "To put off a garment.",
+      "label_es": "desnudarse (figurado)",
+      "def_es": "Quitarse el vestido.",
+      "label_sv": "att kläda av sig (bildligt)",
+      "def_sv": "Att ta av sig klädnaden.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "コリント第二5:4。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "2CO 5:4": 2,
+    "LUK 10:30": 1,
+    "MAT 27:28": 1,
+    "MAT 27:31": 1,
+    "MRK 15:20": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（衣をはぎ取る／脱ぐ）による。"
+}

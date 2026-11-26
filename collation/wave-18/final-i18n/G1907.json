@@ -1,0 +1,67 @@
+{
+  "strong": "G1907",
+  "lemma": "ἐπέχω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "注意する・目を注ぐ",
+      "def_ja": "注意を払う、目を注ぐ、気づく。『自分自身と教えとに気をつけなさい』『彼らに目を注いで』『上座を選ぶのを見て』。",
+      "label_en": "to pay attention, to notice",
+      "def_en": "To give heed, to fix one’s attention, to notice.",
+      "label_es": "tener cuidado, estar atento",
+      "def_es": "Prestar atención, fijar la mirada, observar.",
+      "label_sv": "att ge akt",
+      "def_sv": "Att vara uppmärksam, att fästa blicken, att lägga märke till.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "テモテ第一4:16、使徒3:5、ルカ14:7。LXX に並行。教父の用例なし。語義2・3との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "とどまる",
+      "def_ja": "その場にとどまる。『自分はなお暫くアジヤにとどまっていた』。",
+      "label_en": "to stay on",
+      "def_en": "To remain in a place.",
+      "label_es": "quedarse",
+      "def_es": "Permanecer en el lugar.",
+      "label_sv": "att dröja kvar",
+      "def_sv": "Att stanna på platsen.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒19:22。LXX に並行。教父の用例なし。語義1との境界は連続的。"
+    },
+    {
+      "n": 3,
+      "label_ja": "保つ・差し出す（解釈が分かれる）",
+      "def_ja": "『命の言葉を堅く保って』『命の言葉をかざして』。",
+      "label_en": "to hold fast or to hold forth (disputed)",
+      "def_en": "Holding fast, or holding out, the word of life.",
+      "label_es": "asir o presentar (discutido)",
+      "def_es": "Retener firmemente la palabra de vida, o mantenerla en alto.",
+      "label_sv": "att hålla fast eller att hålla fram (omtvistat)",
+      "def_sv": "Att hålla fast vid livets ord, eller att hålla fram det.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ピリピ2:16。「堅く保つ」か「差し出す」かの読みは争われており決定しない。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1TI 4:16": 1,
+    "ACT 19:22": 2,
+    "ACT 3:5": 1,
+    "LUK 14:7": 1,
+    "PHP 2:16": 3
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（注意／とどまる／ピリピ2:16）による。ピリピ2:16 は決定しない。"
+}

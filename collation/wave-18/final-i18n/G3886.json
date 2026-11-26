@@ -1,0 +1,50 @@
+{
+  "strong": "G3886",
+  "lemma": "παραλύομαι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "麻痺する",
+      "def_ja": "体が麻痺する、中風になる。『中風の者』『中風で寝たきりの者』『中風の人に』『中風の人を床に載せ』。",
+      "label_en": "to be paralyzed",
+      "def_en": "For the body to be paralyzed; to suffer palsy.",
+      "label_es": "estar paralítico",
+      "def_es": "Tener el cuerpo paralizado.",
+      "label_sv": "att vara förlamad",
+      "def_sv": "Att kroppen är förlamad.",
+      "layers": {
+        "nt": 4,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒8:7・9:33、ルカ5:18・5:24。語義2との境界は連続的。LXX・教父の代表例は「弱る」の用法で、この語義としては確認していない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "弱る・力を失う",
+      "def_ja": "弱る、力を失う。『なえた膝をまっすぐにしなさい』。",
+      "label_en": "to grow weak",
+      "def_en": "To become weak, to lose strength.",
+      "label_es": "debilitarse",
+      "def_es": "Flaquear, perder las fuerzas.",
+      "label_sv": "att bli kraftlös",
+      "def_sv": "Att försvagas, att förlora kraften.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヘブル12:12。LXX に並行（弱る）。教父の用例なし。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "ACT 8:7": 1,
+    "ACT 9:33": 1,
+    "HEB 12:12": 2,
+    "LUK 5:18": 1,
+    "LUK 5:24": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（麻痺／弱り）による。"
+}

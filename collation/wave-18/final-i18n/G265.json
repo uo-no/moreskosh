@@ -1,0 +1,33 @@
+{
+  "strong": "G265",
+  "lemma": "ἁμάρτημα",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "罪・過ち",
+      "def_ja": "罪、過ち、犯した事。『不品行の罪は…』『以前の罪が清められた』『すべての罪は赦される』『永遠の罪過』『以前に犯された罪を見のがして』。",
+      "label_en": "sin, wrong",
+      "def_en": "A sin, a wrong, a thing done amiss.",
+      "label_es": "pecado, falta",
+      "def_es": "Pecado, falta, acto cometido.",
+      "label_sv": "synd, förseelse",
+      "def_sv": "Synd, felsteg, begången gärning.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "コリント第一6:18、ペテロ第二1:9、マルコ3:28・3:29、ローマ3:25。LXX、教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "1CO 6:18": 1,
+    "2PE 1:9": 1,
+    "MRK 3:28": 1,
+    "MRK 3:29": 1,
+    "ROM 3:25": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

@@ -1,0 +1,67 @@
+{
+  "strong": "G1690",
+  "lemma": "ἐμβριμάομαι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "厳しく戒める",
+      "def_ja": "厳しく命じる、きびしく戒める。『だれにも知れないように、きびしく戒めた』『厳しく戒めて』。",
+      "label_en": "to charge sternly",
+      "def_en": "To command strictly, to warn severely.",
+      "label_es": "encargar rigurosamente",
+      "def_es": "Ordenar con severidad, advertir con rigor.",
+      "label_sv": "att strängt befalla",
+      "def_sv": "Att ge en sträng befallning, att skarpt förmana.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "マタイ9:30、マルコ1:43。LXX に並行（威嚇の用法）。教父の用例なし。語義2・3との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "憤り・心を動かされる",
+      "def_ja": "心が強く動く、憤る。『激しく感動し』『また激しく感動して』。ヨハネ11:33・11:38 の語感（憤りか深い感動か）は決定しない。",
+      "label_en": "to be deeply moved, to be indignant",
+      "def_en": "For the heart to be strongly stirred; to be indignant.",
+      "label_es": "conmoverse, indignarse",
+      "def_es": "Agitarse intensamente el ánimo; indignarse.",
+      "label_sv": "att bli upprörd",
+      "def_sv": "Att bli starkt skakad i sitt inre, att förtörnas.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヨハネ11:33・11:38。語義1・3との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "とがめる",
+      "def_ja": "とがめる、責める。『その女を責めた』。",
+      "label_en": "to reproach",
+      "def_en": "To reproach, to blame.",
+      "label_es": "reprender",
+      "def_es": "Reprender, censurar.",
+      "label_sv": "att klandra",
+      "def_sv": "Att förebrå, att klandra.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マルコ14:5。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "JHN 11:33": 2,
+    "JHN 11:38": 2,
+    "MAT 9:30": 1,
+    "MRK 1:43": 1,
+    "MRK 14:5": 3
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（戒める／心の動き／とがめる）による。ヨハネ11章の語感は決定しない。"
+}

@@ -1,0 +1,50 @@
+{
+  "strong": "G3310",
+  "lemma": "μερίς",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "分け前・分",
+      "def_ja": "分け前、受ける分。『信者と不信者とが何の分け前があるか』『この事にはあなたの分も権利もない』『光の中にある聖徒の分け前』『良い方を選んだ』。",
+      "label_en": "share, portion",
+      "def_en": "A share, the portion received.",
+      "label_es": "parte, porción",
+      "def_es": "La parte que corresponde.",
+      "label_sv": "del, lott",
+      "def_sv": "Andel, den del man får.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "コリント第二6:15、使徒8:21、コロサイ1:12、ルカ10:42。LXX、教父に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "地区・地方",
+      "def_ja": "地区、地方。『マケドニヤのその地区第一の町』。",
+      "label_en": "district, region",
+      "def_en": "A district or region.",
+      "label_es": "región, distrito",
+      "def_es": "Distrito, comarca.",
+      "label_sv": "område, distrikt",
+      "def_sv": "Distrikt, trakt.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒16:12。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "2CO 6:15": 1,
+    "ACT 16:12": 2,
+    "ACT 8:21": 1,
+    "COL 1:12": 1,
+    "LUK 10:42": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（分け前／地区）による。"
+}

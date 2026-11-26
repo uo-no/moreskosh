@@ -1,0 +1,50 @@
+{
+  "strong": "G3521",
+  "lemma": "νηστεία",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "断食",
+      "def_ja": "断食。『祈りと断食をして』『断食の期節もすでに過ぎていた』『断食と祈りをして夜昼神に仕え』。",
+      "label_en": "fasting",
+      "def_en": "Fasting.",
+      "label_es": "ayuno",
+      "def_es": "Ayuno.",
+      "label_sv": "fasta",
+      "def_sv": "Fasta.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒14:23・27:9、ルカ2:37。LXX、教父に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "食物を欠くこと・飢え",
+      "def_ja": "食物をとらないこと、飢え。『飢えにも』『しばしば断食し』。自発的な断食か、やむをえない欠食かは決定しない。",
+      "label_en": "going without food, hunger",
+      "def_en": "Not taking food; hunger.",
+      "label_es": "falta de comida, hambre",
+      "def_es": "No tomar alimento; hambre.",
+      "label_sv": "att vara utan mat, hunger",
+      "def_sv": "Att inte få föda; svält.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "コリント第二6:5・11:27。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "2CO 6:5": 2,
+    "2CO 11:27": 2,
+    "ACT 14:23": 1,
+    "ACT 27:9": 1,
+    "LUK 2:37": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（断食／食物を欠くこと）による。コリント第二の用例は決定しない。"
+}

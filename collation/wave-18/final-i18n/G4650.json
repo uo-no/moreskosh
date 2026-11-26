@@ -1,0 +1,33 @@
+{
+  "strong": "G4650",
+  "lemma": "σκορπίζω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "散らす",
+      "def_ja": "散らす、まき散らす。『彼は惜しみなく施し』『おおかみは羊を奪い、また散らす』『あなたがたは散らされ』『散らす者である』『わたしと共に集めない者は散らす』。",
+      "label_en": "to scatter",
+      "def_en": "To scatter, to disperse.",
+      "label_es": "esparcir, dispersar",
+      "def_es": "Esparcir, desparramar.",
+      "label_sv": "att skingra, att förströ",
+      "def_sv": "Att skingra, att strö ut.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "コリント第二9:9、ヨハネ10:12・16:32、ルカ11:23、マタイ12:30。LXX に並行。教父の用例なし。単一語義。"
+    }
+  ],
+  "assignments": {
+    "2CO 9:9": 1,
+    "JHN 10:12": 1,
+    "JHN 16:32": 1,
+    "LUK 11:23": 1,
+    "MAT 12:30": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

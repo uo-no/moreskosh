@@ -1,0 +1,50 @@
+{
+  "strong": "G4260",
+  "lemma": "προβαίνω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "年を重ねる",
+      "def_ja": "年が進む、年老いる。『年をとっていた』『妻も年をとっています』『年をとり』。",
+      "label_en": "to be advanced in years",
+      "def_en": "To be getting on in years, to grow old.",
+      "label_es": "ser de edad avanzada",
+      "def_es": "Avanzar en años, envejecer.",
+      "label_sv": "att vara till åren",
+      "def_sv": "Att åren går, att bli gammal.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ1:7・1:18・2:36。LXX に並行。教父の代表例では確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "さらに進む・先へ進む",
+      "def_ja": "少し先へ進む、前進する。『少し行くと』『少し進んで行くと』。",
+      "label_en": "to go farther",
+      "def_en": "To go a little farther, to advance.",
+      "label_es": "ir más adelante",
+      "def_es": "Adelantarse un poco, avanzar.",
+      "label_sv": "att gå längre fram",
+      "def_sv": "Att gå ett stycke vidare.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "マタイ4:21、マルコ1:19。教父に並行。LXX の代表例では確認していない。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "LUK 1:7": 1,
+    "LUK 1:18": 1,
+    "LUK 2:36": 1,
+    "MAT 4:21": 2,
+    "MRK 1:19": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（年を重ねる／先へ進む）による。"
+}

@@ -1,0 +1,67 @@
+{
+  "strong": "G3345",
+  "lemma": "μετασχηματίζω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "装う・変装する",
+      "def_ja": "自分を別のものに見せかける、装う。『キリストの使徒に変装して』『サタンさえ光の御使に変装する』『義の僕を装う』。",
+      "label_en": "to disguise oneself",
+      "def_en": "To make oneself appear as something else, to masquerade.",
+      "label_es": "disfrazarse",
+      "def_es": "Hacerse pasar por otra cosa, fingirse.",
+      "label_sv": "att förklä sig",
+      "def_sv": "Att ge sig sken av att vara något annat.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "コリント第二11:13・11:14・11:15。語義2・3との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "変える・変貌させる",
+      "def_ja": "姿・形を変える。『われわれの卑しい体を…栄光のからだに変えて』。",
+      "label_en": "to transform",
+      "def_en": "To change the form or appearance.",
+      "label_es": "transformar",
+      "def_es": "Cambiar la forma o el aspecto.",
+      "label_sv": "att förvandla",
+      "def_sv": "Att ändra gestalt eller utseende.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ピリピ3:21。LXX に並行（元素の変化）。教父の用例なし。語義1との境界は連続的。"
+    },
+    {
+      "n": 3,
+      "label_ja": "当てはめる（比喩として）",
+      "def_ja": "自分の事柄として当てはめて述べる。『これらのことを…あなたがたのために当てはめて語った』。",
+      "label_en": "to apply (as a figure)",
+      "def_en": "To state something by applying it to one’s own case.",
+      "label_es": "aplicar (como figura)",
+      "def_es": "Exponer algo aplicándolo a la propia persona.",
+      "label_sv": "att tillämpa (bildligt)",
+      "def_sv": "Att framställa något genom att tillämpa det på sig själv.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "コリント第一4:6。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 4:6": 3,
+    "2CO 11:13": 1,
+    "2CO 11:14": 1,
+    "2CO 11:15": 1,
+    "PHP 3:21": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（装う／変える／当てはめる）による。"
+}

@@ -1,0 +1,50 @@
+{
+  "strong": "G1529",
+  "lemma": "εἴσοδος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "入口・入ること",
+      "def_ja": "入口、入る権利、入ること。『わが国の永遠の国に入る入口』『聖所にはいる確信』。",
+      "label_en": "entrance, entry",
+      "def_en": "An entrance, the right to enter, entering.",
+      "label_es": "entrada",
+      "def_es": "Entrada, derecho de entrar, acto de entrar.",
+      "label_sv": "ingång, inträde",
+      "def_sv": "Ingång, tillträde, att gå in.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ペテロ第二1:11、ヘブル10:19。LXX、教父に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "来訪・到来",
+      "def_ja": "来ること、訪れ。『あなたがたの所にはいって行った時』『あなたがたの所におもむいたこと』『イエスの出現に先だって』。",
+      "label_en": "coming, arrival",
+      "def_en": "A coming, a visit.",
+      "label_es": "llegada, venida",
+      "def_es": "Venida, visita.",
+      "label_sv": "ankomst",
+      "def_sv": "Att komma, besök.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "テサロニケ第一1:9・2:1、使徒13:24。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1TH 1:9": 2,
+    "1TH 2:1": 2,
+    "2PE 1:11": 1,
+    "ACT 13:24": 2,
+    "HEB 10:19": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（入口／来訪）による。"
+}

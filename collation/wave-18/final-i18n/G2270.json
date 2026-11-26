@@ -1,0 +1,50 @@
+{
+  "strong": "G2270",
+  "lemma": "ἡσυχάζω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "黙る・静まる",
+      "def_ja": "沈黙する、静まる、やめる。『これを聞いて黙ってしまった』『何も言うことができず』『主の御旨がなりますように、と言って静かになった』。",
+      "label_en": "to keep silent, to be quiet",
+      "def_en": "To fall silent, to grow quiet, to stop.",
+      "label_es": "callar",
+      "def_es": "Guardar silencio, aquietarse, desistir.",
+      "label_sv": "att tiga, att lugna sig",
+      "def_sv": "Att tystna, att bli stilla, att ge sig till tåls.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "使徒11:18・21:14、ルカ14:4。教父（「ἡσύχασον」）に並行。LXX の代表例は休息の用法で、この語義としては確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "休む・静かに暮らす",
+      "def_ja": "休む、安息する、静かに暮らす。『安息日であったので休んだ』『落ち着いて生活するように努め』。",
+      "label_en": "to rest, to live quietly",
+      "def_en": "To rest, to keep the sabbath rest, to live a quiet life.",
+      "label_es": "descansar, vivir en sosiego",
+      "def_es": "Descansar, reposar, llevar una vida tranquila.",
+      "label_sv": "att vila, att leva stilla",
+      "def_sv": "Att vila, hålla vilodag, leva i stillhet.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ23:56、テサロニケ第一4:11。LXX に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "1TH 4:11": 2,
+    "ACT 11:18": 1,
+    "ACT 21:14": 1,
+    "LUK 14:4": 1,
+    "LUK 23:56": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（黙る・静まる／休む・静かに暮らす）による。"
+}

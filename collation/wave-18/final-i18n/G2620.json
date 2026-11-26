@@ -1,0 +1,39 @@
+{
+  "strong": "G2620",
+  "lemma": "κατακαυχάομαι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "誇る・勝ち誇る",
+      "def_ja": "他に対して誇る、勝ち誇る。『その枝に向かって誇ってはならない』『もし誇るなら』『誇ってはならない』『誇り顔でいる』『あわれみはさばきに対して勝ち誇る』。",
+      "label_en": "to boast over, to triumph over",
+      "def_en": "To boast against another, to triumph.",
+      "label_es": "jactarse contra, triunfar sobre",
+      "def_es": "Gloriarse frente a otro, vencer con aire triunfal.",
+      "label_sv": "att förhäva sig över, att triumfera",
+      "def_sv": "Att berömma sig mot någon, att segra jublande.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ローマ11:18（2回）、ヤコブ3:14・2:13。LXX に並行。教父の用例なし。単一語義。"
+    }
+  ],
+  "assignments": {
+    "JAS 3:14": 1,
+    "JAS 2:13": 1,
+    "ROM 11:18#1": 1,
+    "ROM 11:18#2": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。ἐγκαυχᾶσθαι の形は本レンマへ割り当てない。",
+  "excluded": [
+    {
+      "ref": "2TH 1:4",
+      "form": "ἐγκαυχᾶσθαι",
+      "reason": "形 ἐγκαυχᾶσθαι の lemma は ἐγκαυχάομαι で、κατακαυχάομαι とは別語。番号の扱いは別途データ修正で扱う。"
+    }
+  ]
+}

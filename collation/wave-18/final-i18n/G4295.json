@@ -1,0 +1,50 @@
+{
+  "strong": "G4295",
+  "lemma": "πρόκειμαι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "前に置かれている",
+      "def_ja": "目の前にある、置かれている。『わたしたちの前に置かれている競走』『その前にある喜びのゆえに』『前に置かれた望み』『見せしめとして』。",
+      "label_en": "to be set before",
+      "def_en": "To lie before one, to be placed there.",
+      "label_es": "estar puesto delante",
+      "def_es": "Hallarse delante, estar propuesto.",
+      "label_sv": "att ligga framför",
+      "def_sv": "Att finnas framför en, att vara förelagd.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヘブル12:1・12:2・6:18、ユダ7。LXX、教父に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "備わっている・ある",
+      "def_ja": "心構えがある、備わっている。『もし心構えがあれば』。",
+      "label_en": "to be present (of readiness)",
+      "def_en": "For a willing disposition to be present.",
+      "label_es": "haber (disposición)",
+      "def_es": "Estar presente la disposición de ánimo.",
+      "label_sv": "att finnas (om villighet)",
+      "def_sv": "Att viljan finns till hands.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "コリント第二8:12。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "2CO 8:12": 2,
+    "HEB 12:1": 1,
+    "HEB 12:2": 1,
+    "HEB 6:18": 1,
+    "JUD 1:7": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（前に置かれる／備わっている）による。"
+}

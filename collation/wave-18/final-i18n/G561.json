@@ -1,0 +1,67 @@
+{
+  "strong": "G561",
+  "lemma": "ἀπέναντι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "面前で・前で",
+      "def_ja": "目の前で、面前で。『この人はあなたがたの目の前で』『ピラトは群衆の前で』『神への恐れが彼らの目の前にない』。",
+      "label_en": "in the presence of, before",
+      "def_en": "Before the eyes of, in the presence of.",
+      "label_es": "delante de, en presencia de",
+      "def_es": "Ante los ojos, en presencia de.",
+      "label_sv": "inför",
+      "def_sv": "Inför ögonen, i närvaro av.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒3:16、マタイ27:24、ローマ3:18。語義2・3との境界は連続的。LXX・教父の代表例は向かい側の用法で、この語義としては確認していない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "向かい側に",
+      "def_ja": "向かいに、反対側に。『墓の向かいにすわっていた』。",
+      "label_en": "opposite",
+      "def_en": "Facing, on the opposite side.",
+      "label_es": "enfrente de",
+      "def_es": "Frente a, al otro lado.",
+      "label_sv": "mitt emot",
+      "def_sv": "Mitt emot, på motsatta sidan.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "マタイ27:61。LXX に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+    },
+    {
+      "n": 3,
+      "label_ja": "〜に反して",
+      "def_ja": "〜に反して、逆らって。『カイザルの詔勅に背いて行動している』。",
+      "label_en": "against, contrary to",
+      "def_en": "Against, in opposition to.",
+      "label_es": "en contra de",
+      "def_es": "Contrariamente a, en oposición a.",
+      "label_sv": "emot, i strid med",
+      "def_sv": "Tvärtemot, i motsats till.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒17:7。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 17:7": 3,
+    "ACT 3:16": 1,
+    "MAT 27:24": 1,
+    "MAT 27:61": 2,
+    "ROM 3:18": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（面前／向かい側／〜に反して）による。"
+}

@@ -1,0 +1,50 @@
+{
+  "strong": "G1378",
+  "lemma": "δόγμα",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "決定・勅令",
+      "def_ja": "公の決定、勅令。『エルサレムの使徒たちと長老たちが決めた規定』『カイザルの勅令』『カイザルの詔勅に背いて』。",
+      "label_en": "decree, decision",
+      "def_en": "An official decision, a decree.",
+      "label_es": "decreto, decisión",
+      "def_es": "Resolución oficial, edicto.",
+      "label_sv": "beslut, påbud",
+      "def_sv": "Offentligt beslut, förordning.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒16:4・17:7、ルカ2:1。LXX に並行。教父の代表例では確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "規定・掟",
+      "def_ja": "律法の規定、掟。『さまざまの規定から成っている律法』『規定による証書』。",
+      "label_en": "ordinance, regulation",
+      "def_en": "A statute of the law, a rule.",
+      "label_es": "ordenanza, mandato",
+      "def_es": "Precepto de la ley, norma.",
+      "label_sv": "stadga, bud",
+      "def_sv": "Lagens föreskrift, stadgande.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "エペソ2:15、コロサイ2:14。教父（「主の三つの定め」）に並行。LXX の代表例では確認していない。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "ACT 16:4": 1,
+    "ACT 17:7": 1,
+    "COL 2:14": 2,
+    "EPH 2:15": 2,
+    "LUK 2:1": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（公の決定／規定・掟）による。"
+}

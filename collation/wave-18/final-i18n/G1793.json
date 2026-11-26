@@ -1,0 +1,50 @@
+{
+  "strong": "G1793",
+  "lemma": "ἐντυγχάνω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "とりなす",
+      "def_ja": "とりなす、代わって願う。『御霊は聖徒のためにとりなして』『彼は…とりなしておられる』『とりなして下さる』。",
+      "label_en": "to intercede",
+      "def_en": "To intercede, to plead on another’s behalf.",
+      "label_es": "interceder",
+      "def_es": "Interceder, pedir en favor de otro.",
+      "label_sv": "att gå i förbön",
+      "def_sv": "Att mana gott, att bedja för någon.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "ローマ8:27・8:34、ヘブル7:25。教父（6.1・11.2）に並行。LXX の代表例では確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "訴える・嘆願する",
+      "def_ja": "訴える、願い出る。『イスラエルを神に訴えて』『ユダヤ人の全群衆がわたしに訴え』。",
+      "label_en": "to appeal, to petition",
+      "def_en": "To lodge an appeal, to petition.",
+      "label_es": "acudir en queja, suplicar",
+      "def_es": "Presentar una demanda, apelar.",
+      "label_sv": "att anklaga, att vädja",
+      "def_sv": "Att föra klagan, att göra framställning.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ローマ11:2、使徒25:24。LXX に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "ACT 25:24": 2,
+    "HEB 7:25": 1,
+    "ROM 11:2": 2,
+    "ROM 8:27": 1,
+    "ROM 8:34": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（とりなし／訴え）による。"
+}

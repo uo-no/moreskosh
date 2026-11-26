@@ -1,0 +1,67 @@
+{
+  "strong": "G1491",
+  "lemma": "εἶδος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "姿・形",
+      "def_ja": "姿、形、外見。『鳩のような形をして』『みかたが変わり』『その形を見たこともない』。",
+      "label_en": "form, appearance",
+      "def_en": "Form, figure, outward appearance.",
+      "label_es": "forma, aspecto",
+      "def_es": "Forma, figura, apariencia exterior.",
+      "label_sv": "gestalt, utseende",
+      "def_sv": "Form, gestalt, yttre.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ルカ3:22・9:29、ヨハネ5:37。LXX、教父に並行。語義2・3との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "種類",
+      "def_ja": "種類、様態。『あらゆる悪い種類のものを避けなさい』。",
+      "label_en": "kind",
+      "def_en": "A kind or sort.",
+      "label_es": "especie, clase",
+      "def_es": "Clase, género.",
+      "label_sv": "slag",
+      "def_sv": "Slag, art.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "テサロニケ第一5:22。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "見えるところ",
+      "def_ja": "目に見えるところ。『見えるところによらず、信仰によって歩いている』。",
+      "label_en": "sight",
+      "def_en": "What is seen with the eyes.",
+      "label_es": "vista",
+      "def_es": "Lo que se ve con los ojos.",
+      "label_sv": "det synliga",
+      "def_sv": "Det man ser med ögonen.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "コリント第二5:7。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1TH 5:22": 2,
+    "2CO 5:7": 3,
+    "JHN 5:37": 1,
+    "LUK 3:22": 1,
+    "LUK 9:29": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（姿・形／種類／見えるところ）による。"
+}

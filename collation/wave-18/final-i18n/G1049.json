@@ -1,0 +1,33 @@
+{
+  "strong": "G1049",
+  "lemma": "γαζοφυλάκιον",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "宝物庫",
+      "def_ja": "神殿の宝物庫、献金箱のある所。『宝物殿で教えておられた』『賽銭箱』『宝庫の向かいに座って』『宝庫に投げ入れる』。",
+      "label_en": "treasury",
+      "def_en": "The temple treasury, the place of the offering chests.",
+      "label_es": "tesorería, arca de las ofrendas",
+      "def_es": "El tesoro del templo, donde estaban las arcas de las ofrendas.",
+      "label_sv": "skattkammare, offerkista",
+      "def_sv": "Templets skattkammare, platsen med offerkistorna.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヨハネ8:20、ルカ21:1、マルコ12:41（2回）・12:43。LXX（13.30・4.42）に並行。教父の用例なし。単一語義。"
+    }
+  ],
+  "assignments": {
+    "JHN 8:20": 1,
+    "LUK 21:1": 1,
+    "MRK 12:41#1": 1,
+    "MRK 12:41#2": 1,
+    "MRK 12:43": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

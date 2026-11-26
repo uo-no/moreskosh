@@ -1,0 +1,33 @@
+{
+  "strong": "G1180",
+  "lemma": "δεκατέσσαρες",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "十四",
+      "def_ja": "数詞の十四。『十四年前』『十四年たってから』『十四代』『バビロン移住から…十四代』。",
+      "label_en": "fourteen",
+      "def_en": "The numeral fourteen.",
+      "label_es": "catorce",
+      "def_es": "El numeral catorce.",
+      "label_sv": "fjorton",
+      "def_sv": "Räkneordet fjorton.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "コリント第二12:2、ガラテヤ2:1、マタイ1:17（3回）。LXX に並行。教父の用例なし。単一語義。"
+    }
+  ],
+  "assignments": {
+    "2CO 12:2": 1,
+    "GAL 2:1": 1,
+    "MAT 1:17#1": 1,
+    "MAT 1:17#2": 1,
+    "MAT 1:17#3": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

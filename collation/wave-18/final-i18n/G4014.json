@@ -1,0 +1,67 @@
+{
+  "strong": "G4014",
+  "lemma": "περιαιρέω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "取り除く",
+      "def_ja": "取り除く、覆いを除く。『主に向かう時には、そのおおいは取り除かれる』『罪を除き去る』。",
+      "label_en": "to take away, to remove",
+      "def_en": "To take away, to remove a covering.",
+      "label_es": "quitar",
+      "def_es": "Quitar, retirar un velo.",
+      "label_sv": "att ta bort",
+      "def_sv": "Att avlägsna, att ta bort ett täckelse.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "コリント第二3:16、ヘブル10:11。LXX に並行。教父の用例なし。語義2・3との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "錨を外す・切り離す",
+      "def_ja": "錨を外す、切り離す。『錨を切り放して』『錨を揚げて』。",
+      "label_en": "to cast off (anchors)",
+      "def_en": "To remove the anchors, to cut them loose.",
+      "label_es": "soltar (anclas)",
+      "def_es": "Soltar las anclas, desprenderlas.",
+      "label_sv": "att kapa (ankarna)",
+      "def_sv": "Att lossa ankarna, att hugga av dem.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒27:40・28:13。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "取り去られる（望みが）",
+      "def_ja": "望みが取り去られる、失われる。『助かる望みも…ついに消え去ろうとしていた』。",
+      "label_en": "to be taken away (hope)",
+      "def_en": "For hope to be taken away, to be lost.",
+      "label_es": "desvanecerse (la esperanza)",
+      "def_es": "Perderse, quitarse la esperanza.",
+      "label_sv": "att tas ifrån (om hoppet)",
+      "def_sv": "Att hoppet berövas, går förlorat.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒27:20。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "2CO 3:16": 1,
+    "ACT 28:13": 2,
+    "ACT 27:20": 3,
+    "ACT 27:40": 2,
+    "HEB 10:11": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（取り除く／錨を切り離す／望みが失われる）による。"
+}

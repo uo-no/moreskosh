@@ -1,0 +1,50 @@
+{
+  "strong": "G3942",
+  "lemma": "παροιμία",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "ことわざ",
+      "def_ja": "ことわざ、格言。『真実のことわざ』。",
+      "label_en": "proverb",
+      "def_en": "A proverb, a maxim.",
+      "label_es": "refrán, proverbio",
+      "def_es": "Refrán, máxima.",
+      "label_sv": "ordspråk",
+      "def_sv": "Ordspråk, tänkespråk.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ペテロ第二2:22。LXX に並行。教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "たとえ・謎めいた話",
+      "def_ja": "たとえ、比喩的な話。『このたとえを話された』『たとえで話した』『もうたとえでは話さず』『もうたとえでは話されません』。",
+      "label_en": "figure of speech, veiled saying",
+      "def_en": "A figure, a metaphorical way of speaking.",
+      "label_es": "alegoría, dicho enigmático",
+      "def_es": "Comparación, lenguaje figurado.",
+      "label_sv": "liknelse, förtäckt tal",
+      "def_sv": "Bildtal, ett bildligt sätt att tala.",
+      "layers": {
+        "nt": 4,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヨハネ10:6・16:25（2回）・16:29。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "2PE 2:22": 1,
+    "JHN 10:6": 2,
+    "JHN 16:25#1": 2,
+    "JHN 16:25#2": 2,
+    "JHN 16:29": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（ことわざ／たとえ）による。"
+}

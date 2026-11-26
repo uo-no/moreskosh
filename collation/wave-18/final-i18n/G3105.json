@@ -1,0 +1,33 @@
+{
+  "strong": "G3105",
+  "lemma": "μαίνομαι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "気が狂っている",
+      "def_ja": "気が狂う、理性を失う。『気が狂っていると言わないだろうか』『あなたは気が狂っている』『パウロ、気が狂っている』『わたしは気が狂ってはいない』『彼は…気が狂っている』。",
+      "label_en": "to be out of one’s mind",
+      "def_en": "To be mad, to lose one’s reason.",
+      "label_es": "estar loco",
+      "def_es": "Enloquecer, perder el juicio.",
+      "label_sv": "att vara från vettet",
+      "def_sv": "Att vara galen, att ha förlorat förståndet.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "コリント第一14:23、使徒12:15・26:24・26:25、ヨハネ10:20。LXX に並行。教父の用例なし。単一語義。"
+    }
+  ],
+  "assignments": {
+    "1CO 14:23": 1,
+    "ACT 12:15": 1,
+    "ACT 26:24": 1,
+    "ACT 26:25": 1,
+    "JHN 10:20": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

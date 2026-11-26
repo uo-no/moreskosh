@@ -1,0 +1,67 @@
+{
+  "strong": "G4047",
+  "lemma": "περιποίησις",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "所有・神の民",
+      "def_ja": "所有、取得した物。『神の所有とされた民』『御国を継ぐ者となる』。",
+      "label_en": "possession, God’s own people",
+      "def_en": "A possession, a thing acquired.",
+      "label_es": "posesión, pueblo adquirido",
+      "def_es": "Posesión, lo adquirido.",
+      "label_sv": "egendom, Guds egendomsfolk",
+      "def_sv": "Egendom, det förvärvade.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ペテロ第一2:9、エペソ1:14。語義2・3との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "得ること",
+      "def_ja": "獲得すること。『救いを得るように』『栄光を得るために』。",
+      "label_en": "obtaining",
+      "def_en": "The act of acquiring.",
+      "label_es": "obtención",
+      "def_es": "El adquirir.",
+      "label_sv": "vinnande",
+      "def_sv": "Att förvärva.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "テサロニケ第一5:9、テサロニケ第二2:14。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "保つこと・救い",
+      "def_ja": "保つこと、保全。『魂を保って（救い）』。",
+      "label_en": "preservation, saving",
+      "def_en": "Keeping, preservation.",
+      "label_es": "preservación, salvación",
+      "def_es": "El conservar, preservación.",
+      "label_sv": "bevarande, räddning",
+      "def_sv": "Att bevara, att rädda.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヘブル10:39。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1PE 2:9": 1,
+    "1TH 5:9": 2,
+    "2TH 2:14": 2,
+    "EPH 1:14": 1,
+    "HEB 10:39": 3
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（所有／獲得／保全）による。LXX の代表例は用法の対応が確認できず、いずれも「なし」とする。"
+}

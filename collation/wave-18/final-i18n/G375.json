@@ -1,0 +1,33 @@
+{
+  "strong": "G375",
+  "lemma": "ἀναπέμπω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "送り返す・送り上げる",
+      "def_ja": "送り返す、上位の者へ送る。『カイザルのもとに送るまで』『ヘロデのもとに送り返し』『ヘロデは…送り返してきた』『あなたがたのところに送り返す』。",
+      "label_en": "to send back, to send up",
+      "def_en": "To send back; to send on to a higher authority.",
+      "label_es": "devolver, remitir",
+      "def_es": "Enviar de vuelta; remitir a una autoridad superior.",
+      "label_sv": "att skicka tillbaka, att skicka vidare",
+      "def_sv": "Att sända tillbaka; att sända till en högre instans.",
+      "layers": {
+        "nt": 5,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "使徒25:21、ルカ23:7・23:11・23:15、ピレモン12。LXX の用例なし。教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "ACT 25:21": 1,
+    "LUK 23:7": 1,
+    "LUK 23:11": 1,
+    "LUK 23:15": 1,
+    "PHM 1:12": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

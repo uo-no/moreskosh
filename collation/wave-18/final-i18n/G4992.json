@@ -1,0 +1,50 @@
+{
+  "strong": "G4992",
+  "lemma": "σωτήριος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "救い（名詞用法）",
+      "def_ja": "救い、救いをもたらすもの。『あなたの救いを見た』『神の救いを見るであろう』『この神の救いは異邦人に送られた』『救いのかぶと』。",
+      "label_en": "salvation (as a noun)",
+      "def_en": "Salvation, that which brings salvation.",
+      "label_es": "salvación (uso sustantivo)",
+      "def_es": "La salvación, lo que trae salvación.",
+      "label_sv": "frälsning (substantiverat)",
+      "def_sv": "Frälsningen, det som för med sig frälsning.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ルカ2:30・3:6、使徒28:28、エペソ6:17。LXX、教父に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "救いをもたらす（形容詞）",
+      "def_ja": "救いをもたらす。『救いをもたらす神の恵み』。",
+      "label_en": "bringing salvation (adjective)",
+      "def_en": "Bringing salvation.",
+      "label_es": "salvador (adjetivo)",
+      "def_es": "Que trae salvación.",
+      "label_sv": "frälsande (adjektiv)",
+      "def_sv": "Som bringar frälsning.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "テトス2:11。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 28:28": 1,
+    "EPH 6:17": 1,
+    "LUK 2:30": 1,
+    "LUK 3:6": 1,
+    "TIT 2:11": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（名詞的用法／形容詞）による。"
+}

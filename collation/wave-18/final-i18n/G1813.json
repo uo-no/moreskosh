@@ -1,0 +1,50 @@
+{
+  "strong": "G1813",
+  "lemma": "ἐξαλείφω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "ぬぐい去る（涙を）",
+      "def_ja": "涙をぬぐい去る。『神は彼らの目から涙をことごとくぬぐい去って下さる』『神は…涙を拭い去ってくださる』。",
+      "label_en": "to wipe away (tears)",
+      "def_en": "To wipe away tears.",
+      "label_es": "enjugar (lágrimas)",
+      "def_es": "Secar las lágrimas.",
+      "label_sv": "att torka bort (tårar)",
+      "def_sv": "Att torka bort tårarna.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "黙示録7:17・21:4。語義2との境界は連続的。LXX・教父の代表例では涙の用法を確認していない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "消し去る・赦す",
+      "def_ja": "名や罪や証書を消し去る。『あなたがたの罪が消し去られるように』『負債証書を破棄し』『その名を命の書から消すことはしない』。",
+      "label_en": "to blot out, to erase",
+      "def_en": "To blot out a name, sins or a record of debt.",
+      "label_es": "borrar",
+      "def_es": "Borrar un nombre, los pecados o un acta.",
+      "label_sv": "att utplåna, att stryka ut",
+      "def_sv": "Att stryka ut namn, synder eller skuldebrev.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒3:19、コロサイ2:14、黙示録3:5。LXX、教父に並行。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "ACT 3:19": 2,
+    "COL 2:14": 2,
+    "REV 21:4": 1,
+    "REV 3:5": 2,
+    "REV 7:17": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（涙をぬぐう／罪・名を消す）による。"
+}

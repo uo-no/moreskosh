@@ -1,0 +1,50 @@
+{
+  "strong": "G2758",
+  "lemma": "κενόω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "空にする",
+      "def_ja": "自らを空にする。『自分を無にして』（κενόω の再帰的用法）。",
+      "label_en": "to empty",
+      "def_en": "To empty oneself.",
+      "label_es": "despojar, vaciar",
+      "def_es": "Vaciarse a sí mismo.",
+      "label_sv": "att utblotta, att tömma",
+      "def_sv": "Att utge sig själv, att tömma sig.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ピリピ2:7。何を空にしたかの解釈は決定しない。語義2との境界は連続的。LXX に並行（空になる）。教父の代表例では確認していない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "むなしくする・無効にする",
+      "def_ja": "無効にする、むなしくする、奪う。『キリストの十字架がむなしくならないため』『その誇りを…むなしくする』『あなたがたについての誇りが空しいものとならないように』『信仰はむなしくなり』。",
+      "label_en": "to make void, to nullify",
+      "def_en": "To nullify, to make empty, to deprive.",
+      "label_es": "hacer vano, anular",
+      "def_es": "Invalidar, dejar vacío, quitar.",
+      "label_sv": "att göra om intet",
+      "def_sv": "Att upphäva, göra tom, beröva.",
+      "layers": {
+        "nt": 4,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "コリント第一1:17・9:15、コリント第二9:3、ローマ4:14。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 1:17": 2,
+    "1CO 9:15": 2,
+    "2CO 9:3": 2,
+    "PHP 2:7": 1,
+    "ROM 4:14": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（自らを空にする／無効にする）による。ピリピ2:7 の解釈は決定しない。"
+}

@@ -1,0 +1,50 @@
+{
+  "strong": "G1284",
+  "lemma": "διαρρήγνυμι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "引き裂く（衣を）",
+      "def_ja": "衣を引き裂く。『衣を引き裂き』『衣を引き裂いて』。",
+      "label_en": "to tear (one’s clothes)",
+      "def_en": "To tear one’s garments.",
+      "label_es": "rasgar (las vestiduras)",
+      "def_es": "Rasgar la ropa.",
+      "label_sv": "att riva sönder (kläderna)",
+      "def_sv": "Att riva sönder sina kläder.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒14:14、マタイ26:65、マルコ14:63。LXX に並行。教父の代表例では確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "破れる・引きちぎる",
+      "def_ja": "網が破れる、鎖を断ち切る。『網が破れそうになった』『鎖を断ち切り』。",
+      "label_en": "to break, to snap",
+      "def_en": "For nets to break; to snap chains.",
+      "label_es": "romperse, hacer pedazos",
+      "def_es": "Romperse las redes; romper cadenas.",
+      "label_sv": "att brista, att slita sönder",
+      "def_sv": "Att nät går sönder; att slita av kedjor.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ルカ5:6・8:29。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 14:14": 1,
+    "LUK 5:6": 2,
+    "LUK 8:29": 2,
+    "MAT 26:65": 1,
+    "MRK 14:63": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（衣を引き裂く／網・鎖が破れる）による。"
+}
