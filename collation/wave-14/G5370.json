@@ -1,0 +1,99 @@
+{
+ "strong": "G5370",
+ "lemma": "φίλημα",
+ "nt_freq": 7,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 16:20",
+   "form": "φιλήματι",
+   "morph": "N-DSN",
+   "gloss_en": "kiss",
+   "gloss_ja": "口づけ",
+   "verse": "ἀσπάζονται ὑμᾶς οἱ ἀδελφοὶ πάντες. ἀσπάσασθε ἀλλήλους ἐν φιλήματι ἁγίῳ."
+  },
+  {
+   "ref": "1PE 5:14",
+   "form": "φιλήματι",
+   "morph": "N-DSN",
+   "gloss_en": "kiss",
+   "gloss_ja": "口づけ",
+   "verse": "ἀσπάσασθε ἀλλήλους ἐν φιλήματι ἀγάπης. εἰρήνη ὑμῖν πᾶσιν τοῖς ἐν Χριστῷ."
+  },
+  {
+   "ref": "1TH 5:26",
+   "form": "φιλήματι",
+   "morph": "N-DSN",
+   "gloss_en": "kiss",
+   "gloss_ja": "口づけ",
+   "verse": "ἀσπάσασθε τοὺς ἀδελφοὺς πάντας ἐν φιλήματι ἁγίῳ."
+  },
+  {
+   "ref": "2CO 13:12",
+   "form": "φιλήματι",
+   "morph": "N-DSN",
+   "gloss_en": "kiss",
+   "gloss_ja": "口づけ",
+   "verse": "ἀσπάσασθε ἀλλήλους ἐν ἁγίῳ φιλήματι. ἀσπάζονται ὑμᾶς οἱ ἅγιοι πάντες."
+  },
+  {
+   "ref": "LUK 22:48",
+   "form": "φιλήματι",
+   "morph": "N-DSN",
+   "gloss_en": "kiss",
+   "gloss_ja": "口づけ",
+   "verse": "Ἰησοῦς δὲ εἶπεν αὐτῷ· Ἰούδα, φιλήματι τὸν υἱὸν τοῦ ἀνθρώπου παραδίδως;"
+  },
+  {
+   "ref": "LUK 7:45",
+   "form": "φίλημά",
+   "morph": "N-ASN",
+   "gloss_en": "kiss",
+   "gloss_ja": "口づけ",
+   "verse": "φίλημά μοι οὐκ ἔδωκας· αὕτη δὲ ἀφ’ ἧς εἰσῆλθον οὐ διέλιπεν καταφιλοῦσά μου τοὺς πόδας."
+  },
+  {
+   "ref": "ROM 16:16",
+   "form": "φιλήματι",
+   "morph": "N-DSN",
+   "gloss_en": "kiss",
+   "gloss_ja": "口づけ",
+   "verse": "Ἀσπάσασθε ἀλλήλους ἐν φιλήματι ἁγίῳ. Ἀσπάζονται ὑμᾶς αἱ ἐκκλησίαι πᾶσαι τοῦ Χριστοῦ."
+  }
+ ],
+ "lxx": {
+  "total": 2,
+  "works": {
+   "Proverbia": 1,
+   "Canticum": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "27.6",
+    "form": "φιλήματα",
+    "postag": "n-p---nn-",
+    "sentence": "ἀξιοπιστόστερά εἰσι τραύματα φίλου ἢ ἐκούσια φιλήματα ἐχθροῦ."
+   },
+   {
+    "work_code": "SNG",
+    "work_ja": "雅歌",
+    "work_src": "Canticum",
+    "ref": "1.2",
+    "form": "φιλημάτων",
+    "postag": "n-p---ng-",
+    "sentence": "φιλησάτω με ἀπὸ φιλημάτων στόματος αὐτοῦ, ὅτι ἀγαθοὶ μαστοί σου ὑπὲρ οἶνον, καὶ ὀσμὴ μύρων σου ὑπὲρ πάντα τὰ ἀρώματα ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "7 φίλημα, -τος, τό    (< φιλέω),    [in LXX: Pr 27:6, Ca 1:2 (נְשִׁיקָה) * ;]     a kiss: Lk 7:45 22:48; as a token of Christian brotherhood, φ. ἅγιον, Ro 16:16, I Co 16:20, II Co 13:12, I Th 5:26; φ. ἀγάπης, I Pe 5:14 (v. Lft., Notes, 90; DB, DCA, s.v. \"Kiss\").†"
+}

@@ -1,0 +1,211 @@
+{
+ "strong": "G467",
+ "lemma": "ἀνταποδίδωμι",
+ "nt_freq": 7,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1TH 3:9",
+   "form": "ἀνταποδοῦναι",
+   "morph": "V-2AAN",
+   "gloss_en": "return",
+   "gloss_ja": "報いる",
+   "verse": "τίνα γὰρ εὐχαριστίαν δυνάμεθα τῷ θεῷ ἀνταποδοῦναι περὶ ὑμῶν ἐπὶ πάσῃ τῇ χαρᾷ ᾗ χαίρομεν δι’ ὑμᾶς ἔμπροσθεν τοῦ θεοῦ ἡμῶν,"
+  },
+  {
+   "ref": "2TH 1:6",
+   "form": "ἀνταποδοῦναι",
+   "morph": "V-2AAN",
+   "gloss_en": "repay",
+   "gloss_ja": "報いる",
+   "verse": "εἴπερ δίκαιον παρὰ θεῷ ἀνταποδοῦναι τοῖς θλίβουσιν ὑμᾶς θλῖψιν"
+  },
+  {
+   "ref": "HEB 10:30",
+   "form": "ἀνταποδώσω",
+   "morph": "V-FAI-1S",
+   "gloss_en": "repay",
+   "gloss_ja": "報いる",
+   "verse": "οἴδαμεν γὰρ τὸν εἰπόντα· Ἐμοὶ ἐκδίκησις, ἐγὼ ἀνταποδώσω· καὶ πάλιν· Κρινεῖ κύριος τὸν λαὸν αὐτοῦ."
+  },
+  {
+   "ref": "LUK 14:14",
+   "form": "ἀνταποδοῦναί",
+   "morph": "V-2AAN",
+   "gloss_en": "repay",
+   "gloss_ja": "報いる",
+   "verse": "καὶ μακάριος ἔσῃ, ὅτι οὐκ ἔχουσιν ἀνταποδοῦναί σοι, ἀνταποδοθήσεται γάρ σοι ἐν τῇ ἀναστάσει τῶν δικαίων."
+  },
+  {
+   "ref": "LUK 14:14",
+   "form": "ἀνταποδοθήσεται",
+   "morph": "V-FPI-3S",
+   "gloss_en": "repaid",
+   "gloss_ja": "報いる",
+   "verse": "καὶ μακάριος ἔσῃ, ὅτι οὐκ ἔχουσιν ἀνταποδοῦναί σοι, ἀνταποδοθήσεται γάρ σοι ἐν τῇ ἀναστάσει τῶν δικαίων."
+  },
+  {
+   "ref": "ROM 12:19",
+   "form": "ἀνταποδώσω",
+   "morph": "V-FAI-1S",
+   "gloss_en": "repay",
+   "gloss_ja": "報いる",
+   "verse": "μὴ ἑαυτοὺς ἐκδικοῦντες, ἀγαπητοί, ἀλλὰ δότε τόπον τῇ ὀργῇ, γέγραπται γάρ· Ἐμοὶ ἐκδίκησις, ἐγὼ ἀνταποδώσω, λέγει κύριος."
+  },
+  {
+   "ref": "ROM 11:35",
+   "form": "ἀνταποδοθήσεται",
+   "morph": "V-FPI-3S",
+   "gloss_en": "repaid",
+   "gloss_ja": "報いる",
+   "verse": "ἢ τίς προέδωκεν αὐτῷ, καὶ ἀνταποδοθήσεται αὐτῷ;"
+  }
+ ],
+ "lxx": {
+  "total": 85,
+  "works": {
+   "Genesis": 2,
+   "Leviticus": 1,
+   "Deuteronomium": 5,
+   "Judices": 2,
+   "Regnorum i": 3,
+   "Regnorum ii": 3,
+   "Regnorum iii": 1,
+   "Regnorum iv": 1,
+   "Paralipomenon ii sive Chronicon ii": 1,
+   "Judith": 1,
+   "Tobias": 1,
+   "Machabaeorum i": 4,
+   "Psalmi": 18,
+   "Odae": 6,
+   "Proverbia": 2,
+   "Job": 2,
+   "Ecclesiasticus sive Siracides": 10,
+   "Osee": 3,
+   "Joel": 4,
+   "Abdias": 1,
+   "Zacharias": 1,
+   "Isaias": 5,
+   "Jeremias": 7,
+   "Epistula Jeremiae": 1
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "118.17",
+    "form": "ἀνταπόδος",
+    "postag": "v2sama---",
+    "sentence": "ἀνταπόδος τῷ δούλῳ σου ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "35.10",
+    "form": "ἀνταποδιδούς",
+    "postag": "v-sppamn-",
+    "sentence": "ὅτι Κύριος ἀνταποδιδούς ἐστι καὶ ἑπταπλάσια ἀνταποδώσει σοι."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "18.20",
+    "form": "ἀνταποδίδοται",
+    "postag": "v3spim---",
+    "sentence": "εἰ ἀνταποδίδοται ἀντὶ ἀγαθῶν κακά;"
+   },
+   {
+    "work_code": "ODE",
+    "work_ja": "頌歌（オード）",
+    "work_src": "Odae",
+    "ref": "2.6",
+    "form": "ἀνταποδίδοτε",
+    "postag": "v2ppia---",
+    "sentence": "ταῦτα κυρίῳ ἀνταποδίδοτε οὕτω, λαὸς μωρὸς καὶ οὐχὶ σοφός;"
+   },
+   {
+    "work_code": "DEU",
+    "work_ja": "申命記",
+    "work_src": "Deuteronomium",
+    "ref": "32.35",
+    "form": "ἀνταποδώσω",
+    "postag": "v1sfia---",
+    "sentence": "ἐν ἡμέρᾳ ἐκδικήσεως ἀνταποδώσω, ἐν καιρῷ, ὅταν σφαλῇ ὁ ποῦς αὐτῶν, ὅτι ἐγγὺς ἡμέρα ἀπωλείας αὐτοῖς, καὶ πάρεστιν ἕτοιμα ὑμῖν."
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "63.7",
+    "form": "ἀνταποδίδωσι",
+    "postag": "v3spia---",
+    "sentence": "— τὸν ἔλεον Κυρίου ἐμνήσθην, τὰς ἀρετὰς Κυρίου ἐν πᾶσιν, οἷς ἡμῖν ἀνταποδίδωσι ·"
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "2.68",
+    "form": "ἀνταπόδοτε",
+    "postag": "v2pama---",
+    "sentence": "ἀνταπόδοτε ἀνταπόδομα τοῖς ἔθνεσι καὶ προσέχετε εἰς τὰ προστάγματα τοῦ νόμου."
+   },
+   {
+    "work_code": "JOL",
+    "work_ja": "ヨエル書",
+    "work_src": "Joel",
+    "ref": "4.4",
+    "form": "ἀνταποδίδοτέ",
+    "postag": "v2ppia---",
+    "sentence": "μὴ ἀνταπόδομα ὑμεῖς ἀνταποδίδοτέ μοι;"
+   },
+   {
+    "work_code": "1SA",
+    "work_ja": "サムエル記上",
+    "work_src": "Regnorum i",
+    "ref": "24.18",
+    "form": "ἀνταπέδωκάς",
+    "postag": "v2saia---",
+    "sentence": "δίκαιος σὺ ὑπὲρ ἐμέ, ὅτι σὺ ἀνταπέδωκάς μοι ἀγαθά, ἐγὼ δὲ ἀνταπέδωκά σοι κακά."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "19.36",
+    "form": "ἀνταποδίδωσί",
+    "postag": "v3spia---",
+    "sentence": "καὶ ἱνατί ἀνταποδίδωσί μοι ὁ βασιλεὺς τὴν ἀνταπόδοσιν ταύτην;"
+   },
+   {
+    "work_code": "HOS",
+    "work_ja": "ホセア書",
+    "work_src": "Osee",
+    "ref": "14.3",
+    "form": "ἀνταποδώσομεν",
+    "postag": "v1pfia---",
+    "sentence": "εἴπατε αὐτῷ, ὅπως μὴ λάβητε ἀδικίαν καὶ λάβητε ἀγαθά, καὶ ἀνταποδώσομεν καρπὸν χειλέων ἡμῶν."
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "44.4",
+    "form": "ἀνταπεδώκατε",
+    "postag": "v2paia---",
+    "sentence": "τί ὅτι ἀνταπεδώκατε πονηρὰ ἀντὶ καλῶν;"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "7   ἀντ-απο-δίδωμι    (ἀντί, ἀποδίδωμι),   [in LXX for שׁלם pi., גּמל, שׁוּב hi., etc.;]      to give back as an equivalent, recompense, requital (the ἀντί expressing the idea of full, complete return; v. Lft., Notes, 46);     in favourable sense: Lk 14:14, Ro 11:35, I Th 3:9;     in unfavourable sense: Ro 12:19, II Th 1:6, He 10:30.†"
+}

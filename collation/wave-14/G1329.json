@@ -1,0 +1,81 @@
+{
+ "strong": "G1329",
+ "lemma": "διερμηνεύω",
+ "nt_freq": 6,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 12:30",
+   "form": "διερμηνεύουσιν",
+   "morph": "V-PAI-3P",
+   "gloss_en": "interpret",
+   "gloss_ja": "通訳する",
+   "verse": "μὴ πάντες χαρίσματα ἔχουσιν ἰαμάτων; μὴ πάντες γλώσσαις λαλοῦσιν; μὴ πάντες διερμηνεύουσιν;"
+  },
+  {
+   "ref": "1CO 14:5",
+   "form": "διερμηνεύῃ",
+   "morph": "V-PAS-3S",
+   "gloss_en": "interprets",
+   "gloss_ja": "通訳する",
+   "verse": "θέλω δὲ πάντας ὑμᾶς λαλεῖν γλώσσαις, μᾶλλον δὲ ἵνα προφητεύητε· μείζων δὲ ὁ προφητεύων ἢ ὁ λαλῶν γλώσσαις, ἐκτὸς εἰ μὴ διερμηνεύῃ, ἵνα ἡ ἐκκλησία οἰκοδομὴν λάβῃ."
+  },
+  {
+   "ref": "1CO 14:13",
+   "form": "διερμηνεύῃ",
+   "morph": "V-PAS-3S",
+   "gloss_en": "interpret",
+   "gloss_ja": "通訳する",
+   "verse": "Διὸ ὁ λαλῶν γλώσσῃ προσευχέσθω ἵνα διερμηνεύῃ."
+  },
+  {
+   "ref": "1CO 14:27",
+   "form": "διερμηνευέτω",
+   "morph": "V-PAM-3S",
+   "gloss_en": "interpret",
+   "gloss_ja": "通訳する",
+   "verse": "εἴτε γλώσσῃ τις λαλεῖ, κατὰ δύο ἢ τὸ πλεῖστον τρεῖς, καὶ ἀνὰ μέρος, καὶ εἷς διερμηνευέτω·"
+  },
+  {
+   "ref": "ACT 9:36",
+   "form": "διερμηνευομένη",
+   "morph": "V-PPP-NSF",
+   "gloss_en": "translated",
+   "gloss_ja": "通訳する",
+   "verse": "Ἐν Ἰόππῃ δέ τις ἦν μαθήτρια ὀνόματι Ταβιθά, ἣ διερμηνευομένη λέγεται Δορκάς· αὕτη ἦν πλήρης ἔργων ἀγαθῶν καὶ ἐλεημοσυνῶν ὧν ἐποίει."
+  },
+  {
+   "ref": "LUK 24:27",
+   "form": "διερμήνευσεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "interpreted",
+   "gloss_ja": "通訳する",
+   "verse": "καὶ ἀρξάμενος ἀπὸ Μωϋσέως καὶ ἀπὸ πάντων τῶν προφητῶν διερμήνευσεν αὐτοῖς ἐν πάσαις ταῖς γραφαῖς τὰ περὶ ἑαυτοῦ."
+  }
+ ],
+ "lxx": {
+  "total": 1,
+  "works": {
+   "Machabaeorum ii": 1
+  },
+  "representatives": [
+   {
+    "work_code": "2MA",
+    "work_ja": "マカバイ記二",
+    "work_src": "Machabaeorum ii",
+    "ref": "1.36",
+    "form": "διερμηνεύεται",
+    "postag": "v3spim---",
+    "sentence": "προσηγόρευσαν δὲ οἱ περὶ τὸν Νεεμίαν τοῦτο νέφθαρ, ὃ διερμηνεύεται Καθαρισμός ·"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "6   **† δι-ερμηνεύω     [in LXX: II Mac 1:36 * ;]       intensive of ἐρμηνεύω, to interpret;      to explain, expound: c. acc, Lk 24:27; absol., I Co 12:30 14:5, 13, 27;      to translate: Ac 9:36.†"
+}

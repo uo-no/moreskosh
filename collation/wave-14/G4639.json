@@ -1,0 +1,204 @@
+{
+ "strong": "G4639",
+ "lemma": "σκιά",
+ "nt_freq": 7,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "ACT 5:15",
+   "form": "σκιὰ",
+   "morph": "N-NSF",
+   "gloss_en": "shadow",
+   "gloss_ja": "影",
+   "verse": "ὥστε καὶ εἰς τὰς πλατείας ἐκφέρειν τοὺς ἀσθενεῖς καὶ τιθέναι ἐπὶ κλιναρίων καὶ κραβάττων, ἵνα ἐρχομένου Πέτρου κἂν ἡ σκιὰ ἐπισκιάσῃ τινὶ αὐτῶν."
+  },
+  {
+   "ref": "COL 2:17",
+   "form": "σκιὰ",
+   "morph": "N-NSF",
+   "gloss_en": "shadow",
+   "gloss_ja": "影",
+   "verse": "ἅ ἐστιν σκιὰ τῶν μελλόντων, τὸ δὲ σῶμα τοῦ Χριστοῦ."
+  },
+  {
+   "ref": "HEB 10:1",
+   "form": "Σκιὰν",
+   "morph": "N-ASF",
+   "gloss_en": "shadow",
+   "gloss_ja": "影",
+   "verse": "Σκιὰν γὰρ ἔχων ὁ νόμος τῶν μελλόντων ἀγαθῶν, οὐκ αὐτὴν τὴν εἰκόνα τῶν πραγμάτων, κατ’ ἐνιαυτὸν ταῖς αὐταῖς θυσίαις ἃς προσφέρουσιν εἰς τὸ διηνεκὲς οὐδέποτε δύναται τοὺς προσερχομένους τελειῶσαι·"
+  },
+  {
+   "ref": "HEB 8:5",
+   "form": "σκιᾷ",
+   "morph": "N-DSF",
+   "gloss_en": "shadow",
+   "gloss_ja": "影",
+   "verse": "οἵτινες ὑποδείγματι καὶ σκιᾷ λατρεύουσιν τῶν ἐπουρανίων, καθὼς κεχρημάτισται Μωϋσῆς μέλλων ἐπιτελεῖν τὴν σκηνήν, Ὅρα γάρ, φησίν, ποιήσεις πάντα κατὰ τὸν τύπον τὸν δειχθέντα σοι ἐν τῷ ὄρει·"
+  },
+  {
+   "ref": "LUK 1:79",
+   "form": "σκιᾷ",
+   "morph": "N-DSF",
+   "gloss_en": "shadow",
+   "gloss_ja": "影",
+   "verse": "ἐπιφᾶναι τοῖς ἐν σκότει καὶ σκιᾷ θανάτου καθημένοις, τοῦ κατευθῦναι τοὺς πόδας ἡμῶν εἰς ὁδὸν εἰρήνης."
+  },
+  {
+   "ref": "MAT 4:16",
+   "form": "σκιᾷ",
+   "morph": "N-DSF",
+   "gloss_en": "shadow",
+   "gloss_ja": "影",
+   "verse": "ὁ λαὸς ὁ καθήμενος ἐν σκοτίᾳ φῶς εἶδεν μέγα, καὶ τοῖς καθημένοις ἐν χώρᾳ καὶ σκιᾷ θανάτου φῶς ἀνέτειλεν αὐτοῖς."
+  },
+  {
+   "ref": "MRK 4:32",
+   "form": "σκιὰν",
+   "morph": "N-ASF",
+   "gloss_en": "shade",
+   "gloss_ja": "影",
+   "verse": "καὶ ὅταν σπαρῇ, ἀναβαίνει καὶ γίνεται μεῖζον πάντων τῶν λαχάνων καὶ ποιεῖ κλάδους μεγάλους, ὥστε δύνασθαι ὑπὸ τὴν σκιὰν αὐτοῦ τὰ πετεινὰ τοῦ οὐρανοῦ κατασκηνοῦν."
+  }
+ ],
+ "lxx": {
+  "total": 52,
+  "works": {
+   "Judices": 2,
+   "Regnorum iv": 4,
+   "Paralipomenon i sive Chronicon i": 1,
+   "Psalmi": 10,
+   "Odae": 1,
+   "Ecclesiastes": 4,
+   "Canticum": 3,
+   "Job": 10,
+   "Sapientia Salomonis": 2,
+   "Ecclesiasticus sive Siracides": 1,
+   "Amos": 1,
+   "Jonas": 1,
+   "Isaias": 5,
+   "Jeremias": 2,
+   "Baruch": 2,
+   "Threni seu Lamentationes": 1,
+   "Ezechiel": 2
+  },
+  "representatives": [
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "87.7",
+    "form": "σκιᾷ",
+    "postag": "n-s---fd-",
+    "sentence": "ἔθεντό με ἐν λάκκῳ κατωτάτῳ, ἐν σκοτεινοῖς καὶ ἐν σκιᾷ θανάτου."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "7.2",
+    "form": "σκιᾶς",
+    "postag": "n-s---fg-",
+    "sentence": "ἢ ὥσπερ θεράπων δεδοικὼς τὸν Κύριον αὐτοῦ καὶ τετευχὼς σκιᾶς;"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "38.8",
+    "form": "σκιά",
+    "postag": "n-s---fn-",
+    "sentence": "καὶ ἀνέβη ὁ ἥλιος τοὺς δέκα ἀναβαθμούς, οὓς κατέβη ἡ σκιά."
+   },
+   {
+    "work_code": "2KI",
+    "work_ja": "列王記下",
+    "work_src": "Regnorum iv",
+    "ref": "20.10",
+    "form": "σκιὰν",
+    "postag": "n-s---fa-",
+    "sentence": "κοῦφον τὴν σκιὰν κλῖναι δέκα βαθμούς ·"
+   },
+   {
+    "work_code": "ECC",
+    "work_ja": "コヘレトの言葉",
+    "work_src": "Ecclesiastes",
+    "ref": "7.12",
+    "form": "σκιὰ",
+    "postag": "n-s---fn-",
+    "sentence": "ὅτι ἐν σκιᾷ αὐτῆς ἡ σοφία ὡς σκιὰ ἀργυρίου, καὶ περισσεία γνώσεως τῆς σοφίας ζωοποιήσει τὸν παρ’ αὐτῆς."
+   },
+   {
+    "work_code": "SNG",
+    "work_ja": "雅歌",
+    "work_src": "Canticum",
+    "ref": "2.17",
+    "form": "σκιαί",
+    "postag": "n-p---fn-",
+    "sentence": "ἀδελφιδός μου ἐμοί, κα-κἀγὼ αὐτῷ, ὁ ποιμαίνων ἐν τοῖς κρίνοις, ἕως οὗ διαπνεύσῃ ἡ ἡμέρα καὶ κινηθῶσιν αἱ σκιαί."
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "9.36",
+    "form": "σκιὰν",
+    "postag": "n-s---fa-",
+    "sentence": "τὴν σκιὰν τῶν ὀρέων σὺ βλέπεις ὡς ἄνδρας."
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "5.9",
+    "form": "σκιὰ",
+    "postag": "n-s---fn-",
+    "sentence": "παρῆλθεν ἐκεῖναι πάντα ὡς σκιὰ καὶ ὡς ἀγγελία παρατρέχουσα ·"
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "6.4",
+    "form": "σκιαὶ",
+    "postag": "n-p---fn-",
+    "sentence": "οὐαὶ ἡμῖν, ὅτι κέκλικεν ἡ ἡμέρα, ὅτι ἐκλείπουσιν αἱ σκιαὶ τῆς ἑσπέρας."
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルク書",
+    "work_src": "Baruch",
+    "ref": "1.12",
+    "form": "σκιὰν",
+    "postag": "n-s---fa-",
+    "sentence": "καὶ δώσει Κύριος ἰσχὺν ἡμῖν καὶ φωτίσει τοὺς ὀφθαλμοὺς ἡμῶν, καὶ ζησόμεθα ὑπὸ τὴν σκιὰν Ναβουχοδονόσορ βασιλέως Βαβυλῶνος καὶ ὑπὸ τὴν σκιὰν Βαλτάσαρ υἱοῦ αὐτοῦ καὶ δουλεύσομεν αὐτοῖς ἡμέρας πολλὰς καὶ εὑρήσομεν χάριν ἐναντίον αὐτῶν."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "31.6",
+    "form": "σκιᾷ",
+    "postag": "n-s---fd-",
+    "sentence": "ἐν ταῖς παραφυάσιν αὐτοῦ ἐνόσσευσαν πάντα τὰ πετεινὰ τοῦ οὐρανοῦ, καὶ ὑποκάτω τῶν κλάδων αὐτοῦ ἐγεννῶσαν πάντα τὰ θηρία τοῦ πεδίου, ἐν τῇ σκιᾷ αὐτοῦ κατῴκησε πᾶν πλῆθος ἐθνῶν."
+   },
+   {
+    "work_code": "1CH",
+    "work_ja": "歴代誌上",
+    "work_src": "Paralipomenon i sive Chronicon i",
+    "ref": "29.15",
+    "form": "σκιὰ",
+    "postag": "n-s---fn-",
+    "sentence": "ὡς σκιὰ αἱ ἡμέραι ἡμῶν ἐπὶ γῆς, καὶ οὐκ ἔστιν ὑπομονή."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "7   σκιά, -ᾶς, ἡ     [in LXX chiefly for צֵל, IV Ki 20:9 ff., Ps 56 (57):1, al.; but σ. and σ. θανάτου are also used for צַלְמָוֶת, Jb 3:5, Ps 22 (23):4, Is 9:2 (1) (v. ICC, in l.), al. ;]     shadow, shade, caused by interception of light: Mk 4:32, Ac 5:15; metaph., σ. θανάτου, of ignorance and error, Mt 4:16, Lk 1:79 (LXX).    a shadow, the image or outline cast by an object: fig., ὑπόδειγμα καὶ σ., He 8:5; opp. to σῶμα, Col 2:17; opp. to εἰκών, He 10:1.†"
+}

@@ -1,0 +1,135 @@
+{
+ "strong": "G5448",
+ "lemma": "φυσιόω",
+ "nt_freq": 7,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 5:2",
+   "form": "πεφυσιωμένοι",
+   "morph": "V-RPP-NPM",
+   "gloss_en": "arrogant",
+   "gloss_ja": "高ぶる",
+   "verse": "καὶ ὑμεῖς πεφυσιωμένοι ἐστέ, καὶ οὐχὶ μᾶλλον ἐπενθήσατε, ἵνα ἀρθῇ ἐκ μέσου ὑμῶν ὁ τὸ ἔργον τοῦτο ποιήσας;"
+  },
+  {
+   "ref": "1CO 13:4",
+   "form": "φυσιοῦται",
+   "morph": "V-PPI-3S",
+   "gloss_en": "arrogant",
+   "gloss_ja": "高ぶる",
+   "verse": "Ἡ ἀγάπη μακροθυμεῖ, χρηστεύεται ἡ ἀγάπη, οὐ ζηλοῖ ἡ ἀγάπη, οὐ περπερεύεται, οὐ φυσιοῦται,"
+  },
+  {
+   "ref": "1CO 4:6",
+   "form": "φυσιοῦσθε",
+   "morph": "V-PPS-2P",
+   "gloss_en": "puffed up",
+   "gloss_ja": "高ぶる",
+   "verse": "Ταῦτα δέ, ἀδελφοί, μετεσχημάτισα εἰς ἐμαυτὸν καὶ Ἀπολλῶν δι’ ὑμᾶς, ἵνα ἐν ἡμῖν μάθητε τό· Μὴ ὑπὲρ ἃ γέγραπται, ἵνα μὴ εἷς ὑπὲρ τοῦ ἑνὸς φυσιοῦσθε κατὰ τοῦ ἑτέρου."
+  },
+  {
+   "ref": "1CO 4:18",
+   "form": "ἐφυσιώθησάν",
+   "morph": "V-API-3P",
+   "gloss_en": "become arrogant",
+   "gloss_ja": "高ぶる",
+   "verse": "ὡς μὴ ἐρχομένου δέ μου πρὸς ὑμᾶς ἐφυσιώθησάν τινες·"
+  },
+  {
+   "ref": "1CO 4:19",
+   "form": "πεφυσιωμένων",
+   "morph": "V-RPP-GPM",
+   "gloss_en": "arrogant",
+   "gloss_ja": "高ぶる",
+   "verse": "ἐλεύσομαι δὲ ταχέως πρὸς ὑμᾶς, ἐὰν ὁ κύριος θελήσῃ, καὶ γνώσομαι οὐ τὸν λόγον τῶν πεφυσιωμένων ἀλλὰ τὴν δύναμιν,"
+  },
+  {
+   "ref": "1CO 8:1",
+   "form": "φυσιοῖ",
+   "morph": "V-PAI-3S",
+   "gloss_en": "puffs up",
+   "gloss_ja": "高ぶる",
+   "verse": "Περὶ δὲ τῶν εἰδωλοθύτων, οἴδαμεν ὅτι πάντες γνῶσιν ἔχομεν. ἡ γνῶσις φυσιοῖ, ἡ δὲ ἀγάπη οἰκοδομεῖ."
+  },
+  {
+   "ref": "COL 2:18",
+   "form": "φυσιούμενος",
+   "morph": "V-PPP-NSM",
+   "gloss_en": "puffed up",
+   "gloss_ja": "高ぶる",
+   "verse": "μηδεὶς ὑμᾶς καταβραβευέτω θέλων ἐν ταπεινοφροσύνῃ καὶ θρησκείᾳ τῶν ἀγγέλων, ἃ ἑόρακεν ἐμβατεύων, εἰκῇ φυσιούμενος ὑπὸ τοῦ νοὸς τῆς σαρκὸς αὐτοῦ,"
+  }
+ ],
+ "lxx": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "fathers": {
+  "total": 6,
+  "works": {
+   "To Diognetus": 1,
+   "Ignatius, Letters": 5
+  },
+  "representatives": [
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "2.12.1",
+    "form": "φυσιοῦσθε",
+    "postag": "v2ppim---",
+    "sentence": "οἶδα ὅτι οὐ φυσιοῦσθε ·"
+   },
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "12",
+    "form": "φυσιοῖ",
+    "postag": "v3spia---",
+    "sentence": "ἡ γνῶσις φυσιοῖ, ἡ δὲ ἀγάπη οἰκοδομεῖ."
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "3.4.1",
+    "form": "φυσιοῦσίν",
+    "postag": "v-pppamd-",
+    "sentence": "νῦν γάρ με δεῖ πλέον φοβεῖσθαι καὶ μὴ προσέχειν τοῖς φυσιοῦσίν με."
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "7.4.3",
+    "form": "φυσιούσθωσαν",
+    "postag": "v3ppmm---",
+    "sentence": "ἀλλὰ μη-δὲ αὐτοὶ φυσιούσθωσαν, ἀλλ’ εἰς δόξαν θεοῦ πλέον δουλευέτωσαν, ἵνα κρείττονος ἐλευθερίας ἀπὸ θεοῦ τύχωσιν."
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "3.7.1",
+    "form": "φυσιουμένοις",
+    "postag": "v-pppmmd-",
+    "sentence": "τοῦτο δὲ ἔσται ὑμῖν μὴ φυσιουμένοις καὶ οὖσιν ἀχωρίστοις θεοῦ Ἰησοῦ Χριστοῦ καὶ τοῦ ἐπισκόπου καὶ τῶν διαταγμάτων τῶν ἀποστόλων."
+   },
+   {
+    "work_code": "IGN",
+    "work_ja": "イグナティオス書簡",
+    "work_src": "Ignatius, Letters",
+    "ref": "6.6.1",
+    "form": "φυσιούτω",
+    "postag": "v3spma---",
+    "sentence": "τόπος μηδένα φυσιούτω ·"
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "7 *† φυσιόω, -ῶ    (< φῦσα, bellows), = cl. φυσάω,     to puff or blow up, inflate. Metaph., to puff up, make proud: I Co 8:1. Pass., to be puffed up with pride: I Co 4:18, 19 5:2 13:4; seq. ὑπό, Col 2:18; seq. ὑπὲρ . . . κατά, I Co 4:6 (on the form of the subjc., v. M, Pr., 54; Bl., § 22, 3).†"
+}

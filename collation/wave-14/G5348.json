@@ -1,0 +1,198 @@
+{
+ "strong": "G5348",
+ "lemma": "φθάνω",
+ "nt_freq": 7,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1TH 2:16",
+   "form": "ἔφθασεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "come",
+   "gloss_ja": "先んじる",
+   "verse": "κωλυόντων ἡμᾶς τοῖς ἔθνεσιν λαλῆσαι ἵνα σωθῶσιν, εἰς τὸ ἀναπληρῶσαι αὐτῶν τὰς ἁμαρτίας πάντοτε. ἔφθασεν δὲ ἐπ’ αὐτοὺς ἡ ὀργὴ εἰς τέλος."
+  },
+  {
+   "ref": "1TH 4:15",
+   "form": "φθάσωμεν",
+   "morph": "V-AAS-1P",
+   "gloss_en": "precede",
+   "gloss_ja": "先んじる",
+   "verse": "τοῦτο γὰρ ὑμῖν λέγομεν ἐν λόγῳ κυρίου, ὅτι ἡμεῖς οἱ ζῶντες οἱ περιλειπόμενοι εἰς τὴν παρουσίαν τοῦ κυρίου οὐ μὴ φθάσωμεν τοὺς κοιμηθέντας·"
+  },
+  {
+   "ref": "2CO 10:14",
+   "form": "ἐφθάσαμεν",
+   "morph": "V-AAI-1P",
+   "gloss_en": "the first to come",
+   "gloss_ja": "先んじる",
+   "verse": "οὐ γὰρ ὡς μὴ ἐφικνούμενοι εἰς ὑμᾶς ὑπερεκτείνομεν ἑαυτούς, ἄχρι γὰρ καὶ ὑμῶν ἐφθάσαμεν ἐν τῷ εὐαγγελίῳ τοῦ Χριστοῦ"
+  },
+  {
+   "ref": "LUK 11:20",
+   "form": "ἔφθασεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "come",
+   "gloss_ja": "先んじる",
+   "verse": "εἰ δὲ ἐν δακτύλῳ θεοῦ ἐκβάλλω τὰ δαιμόνια, ἄρα ἔφθασεν ἐφ’ ὑμᾶς ἡ βασιλεία τοῦ θεοῦ."
+  },
+  {
+   "ref": "MAT 12:28",
+   "form": "ἔφθασεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "come",
+   "gloss_ja": "先んじる",
+   "verse": "εἰ δὲ ἐν πνεύματι θεοῦ ἐγὼ ἐκβάλλω τὰ δαιμόνια, ἄρα ἔφθασεν ἐφ’ ὑμᾶς ἡ βασιλεία τοῦ θεοῦ."
+  },
+  {
+   "ref": "PHP 3:16",
+   "form": "ἐφθάσαμεν",
+   "morph": "V-AAI-1P",
+   "gloss_en": "attained",
+   "gloss_ja": "先んじる",
+   "verse": "πλὴν εἰς ὃ ἐφθάσαμεν, τῷ αὐτῷ στοιχεῖν."
+  },
+  {
+   "ref": "ROM 9:31",
+   "form": "ἔφθασεν",
+   "morph": "V-AAI-3S",
+   "gloss_en": "attained",
+   "gloss_ja": "先んじる",
+   "verse": "Ἰσραὴλ δὲ διώκων νόμον δικαιοσύνης εἰς νόμον οὐκ ἔφθασεν."
+  }
+ ],
+ "lxx": {
+  "total": 27,
+  "works": {
+   "Judices": 2,
+   "Regnorum ii": 1,
+   "Regnorum iii": 1,
+   "Paralipomenon ii sive Chronicon ii": 1,
+   "Esdras ii": 2,
+   "Tobias": 2,
+   "Ecclesiastes": 3,
+   "Canticum": 1,
+   "Sapientia Salomonis": 3,
+   "Ecclesiasticus sive Siracides": 1,
+   "Daniel": 10
+  },
+  "representatives": [
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "4.28",
+    "form": "ἔφθασεν",
+    "postag": "v3saia---",
+    "sentence": "— ταῦτα πάντα ἔφθασεν ἐπὶ Ναβουχοδονόσορ τὸν βασιλέα."
+   },
+   {
+    "work_code": "ECC",
+    "work_ja": "コヘレトの言葉",
+    "work_src": "Ecclesiastes",
+    "ref": "12.1",
+    "form": "φθάσωσιν",
+    "postag": "v3pasa---",
+    "sentence": "καὶ μνήσθητι τοῦ κτίσαντός σε ἐν ἡμέραις νεότητός σου, ἕως ὅτου μὴ ἔλθωσιν ἡμέραι τῆς κακίας καὶ φθάσωσιν ἔτη, ἐν οἷς ἐρεῖς ·"
+   },
+   {
+    "work_code": "WIS",
+    "work_ja": "知恵の書",
+    "work_src": "Sapientia Salomonis",
+    "ref": "4.7",
+    "form": "φθάσῃ",
+    "postag": "v3sasa---",
+    "sentence": "δίκαιος δὲ ἐὰν φθάσῃ τελευτῆσαι, ἐν ἀναπαύσει ἔσται ·"
+   },
+   {
+    "work_code": "JDG",
+    "work_ja": "士師記",
+    "work_src": "Judices",
+    "ref": "20.34",
+    "form": "φθάνει",
+    "postag": "v3spia---",
+    "sentence": "καὶ αὐτοὶ οὐ ἔγνωσαν, ὅτι φθάνει ἐπ’ αὐτοὺς ἡ κακία."
+   },
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "3.1",
+    "form": "ἔφθασεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ ἔφθασεν ὁ μὴν ὁ ἕβδομος — καὶ οἱ υἱοὶ Ἰσραὴλ ἐν πόλεσιν αὐτῶν — καὶ συνήχθη ὁ λαὸς ὡς ἀνὴρ εἷς εἰς Ἱερουσαλήμ."
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "5.19",
+    "form": "φθάσαι",
+    "postag": "v--ana---",
+    "sentence": "ἀργύριον τῷ ἀργυρίῳ μὴ φθάσαι, ἀλλὰ περίψημα τοῦ παιδίου ἡμῶν γένοιτο."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "20.13",
+    "form": "ἔφθασεν",
+    "postag": "v3saia---",
+    "sentence": "ἡνίκα δὲ ἔφθασεν ἐκ τῆς τρίβου, παρῆλθε πᾶς ἀνὴρ Ἰσραὴλ ὀπίσω Ἰωάβ τοῦ διῶξαι ὀπίσω Σαβεὲ υἱοῦ Βοχορί."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "12.18",
+    "form": "ἔφθασεν",
+    "postag": "v3saia---",
+    "sentence": "καὶ ὁ βασιλεὺς Ῥοβοὰμ ἔφθασεν ἀναβῆναι τοῦ φυγεῖν εἰς Ἱερουσαλήμ."
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "28.9",
+    "form": "ἔφθακε",
+    "postag": "v3sria---",
+    "sentence": "καὶ ἕως τῶν οὐρανῶν ἔφθακε."
+   },
+   {
+    "work_code": "SNG",
+    "work_ja": "雅歌",
+    "work_src": "Canticum",
+    "ref": "2.12",
+    "form": "ἔφθακε",
+    "postag": "v3sria---",
+    "sentence": "ἀνάστα, ἐλθὲ ἡ πλησίον μου, καλή μου, περιστερά μου, ὅτι ἰδοὺ ὁ χειμὼν παρῆλθεν, ὁ ὑετὸς ἀπῆλθεν, ἐπορεύθη ἑαυτῷ, τὰ ἄνθη ὤφθη ἐν τῇ γῇ, καιρὸς τῆς τομῆς ἔφθακε, φωνὴ τῆς τρυγόνος ἠκούσθη ἐν τῇ γῇ ἡμῶν, ἡ συκῆ ἐξήνεγκεν ὀλύνθους αὐτῆς, αἱ ἄμπελοι κυπρίζουσιν, ἔδωκαν ὀσμήν."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "33.17",
+    "form": "ἔφθασα",
+    "postag": "v1saia---",
+    "sentence": "ἐν εὐλογίᾳ Κυρίου ἔφθασα καὶ ὡς τρυγῶν ἐπλήρωσα ληνόν."
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "12.12",
+    "form": "φθάσας",
+    "postag": "v-sapamn-",
+    "sentence": "μακάριος ὁ ὑπομένων καὶ φθάσας εἰς ἡμέρας χιλίας τριακοσίας τριάκοντα πέντε."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 0,
+  "works": {},
+  "representatives": []
+ },
+ "abbott_hypothesis_en": "7 φθάνω     [in LXX for נגע hi., מטא, etc. ;]     to come before another, anticipate (cl.): c. acc. pers., I Th 4:15.    In late writers and MGr. (v. Kennedy, Sources, 156; Lft., Notes, 35), to come, arrive: Ro 9:31; seq. εἰς, Phl 3:16; ἄχρι, II Co 10:14; ἐπί (cf. Da TH 4:21, and v. Dalman, Words, 107), Mt 12:28, Lk 11:20, I Th 2:16 (cf. προ-φθάνω).†"
+}

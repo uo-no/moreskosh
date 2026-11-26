@@ -1,0 +1,261 @@
+{
+ "strong": "G1011",
+ "lemma": "βουλεύομαι",
+ "nt_freq": 6,
+ "status": "expanded-covered",
+ "glaux_lemma": "βουλευω",
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "2CO 1:17",
+   "form": "βουλεύομαι",
+   "morph": "V-PNI-1S",
+   "gloss_en": "plan",
+   "gloss_ja": "議する",
+   "verse": "τοῦτο οὖν βουλόμενος μήτι ἄρα τῇ ἐλαφρίᾳ ἐχρησάμην; ἢ ἃ βουλεύομαι κατὰ σάρκα βουλεύομαι, ἵνα ᾖ παρ’ ἐμοὶ τὸ Ναὶ ναὶ καὶ τὸ Οὒ οὔ;"
+  },
+  {
+   "ref": "2CO 1:17",
+   "form": "βουλεύομαι",
+   "morph": "V-PNI-1S",
+   "gloss_en": "plan",
+   "gloss_ja": "議する",
+   "verse": "τοῦτο οὖν βουλόμενος μήτι ἄρα τῇ ἐλαφρίᾳ ἐχρησάμην; ἢ ἃ βουλεύομαι κατὰ σάρκα βουλεύομαι, ἵνα ᾖ παρ’ ἐμοὶ τὸ Ναὶ ναὶ καὶ τὸ Οὒ οὔ;"
+  },
+  {
+   "ref": "ACT 27:39",
+   "form": "ἐβουλεύοντο",
+   "morph": "V-INI-3P",
+   "gloss_en": "planned",
+   "gloss_ja": "議する",
+   "verse": "Ὅτε δὲ ἡμέρα ἐγένετο, τὴν γῆν οὐκ ἐπεγίνωσκον, κόλπον δέ τινα κατενόουν ἔχοντα αἰγιαλὸν εἰς ὃν ἐβουλεύοντο εἰ δύναιντο ἐξῶσαι τὸ πλοῖον."
+  },
+  {
+   "ref": "JHN 12:10",
+   "form": "ἐβουλεύσαντο",
+   "morph": "V-ADI-3P",
+   "gloss_en": "decided",
+   "gloss_ja": "議する",
+   "verse": "ἐβουλεύσαντο δὲ οἱ ἀρχιερεῖς ἵνα καὶ τὸν Λάζαρον ἀποκτείνωσιν,"
+  },
+  {
+   "ref": "JHN 11:53",
+   "form": "ἐβουλεύσαντο",
+   "morph": "V-ADI-3P",
+   "gloss_en": "plotted",
+   "gloss_ja": "議する",
+   "verse": "ἀπ’ ἐκείνης οὖν τῆς ἡμέρας ἐβουλεύσαντο ἵνα ἀποκτείνωσιν αὐτόν."
+  },
+  {
+   "ref": "LUK 14:31",
+   "form": "βουλεύσεται",
+   "morph": "V-FDI-3S",
+   "gloss_en": "consider",
+   "gloss_ja": "議する",
+   "verse": "ἢ τίς βασιλεὺς πορευόμενος ἑτέρῳ βασιλεῖ συμβαλεῖν εἰς πόλεμον οὐχὶ καθίσας πρῶτον βουλεύσεται εἰ δυνατός ἐστιν ἐν δέκα χιλιάσιν ὑπαντῆσαι τῷ μετὰ εἴκοσι χιλιάδων ἐρχομένῳ ἐπ’ αὐτόν;"
+  }
+ ],
+ "lxx": {
+  "total": 87,
+  "works": {
+   "Genesis": 2,
+   "Regnorum ii": 3,
+   "Regnorum iii": 2,
+   "Regnorum iv": 1,
+   "Paralipomenon i sive Chronicon i": 1,
+   "Paralipomenon ii sive Chronicon ii": 7,
+   "Esdras ii": 3,
+   "Esther": 2,
+   "Judith": 5,
+   "Machabaeorum i": 14,
+   "Machabaeorum ii": 2,
+   "Machabaeorum iii": 1,
+   "Psalmi": 5,
+   "Proverbia": 1,
+   "Sapientia Salomonis": 2,
+   "Ecclesiasticus sive Siracides": 4,
+   "Michaeas": 1,
+   "Nahum": 1,
+   "Habacuc": 1,
+   "Isaias": 20,
+   "Jeremias": 3,
+   "Epistula Jeremiae": 1,
+   "Ezechiel": 1,
+   "Daniel": 4
+  },
+  "representatives": [
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "23.8",
+    "form": "ἐβούλευσεν",
+    "postag": "v3saia---",
+    "sentence": "τίς ταῦτα ἐβούλευσεν ἐπὶ Τύρον;"
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "2.41",
+    "form": "ἐβουλεύσαντο",
+    "postag": "v3paim---",
+    "sentence": "καὶ ἐβουλεύσαντο τῇ ἡμέρᾳ ἐκείνῃ λέγοντες ·"
+   },
+   {
+    "work_code": "2CH",
+    "work_ja": "歴代誌下",
+    "work_src": "Paralipomenon ii sive Chronicon ii",
+    "ref": "10.6",
+    "form": "βουλεύεσθε",
+    "postag": "v2ppim---",
+    "sentence": "πῶς ὑμεῖς βουλεύεσθε τοῦ ἀποκριθῆναι τῷ λαῷ τούτῳ λόγον;"
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "12.4",
+    "form": "ἐβουλεύσατο",
+    "postag": "v3saim---",
+    "sentence": "ζῇ ἡ ψυχή σου, κύριέ μου, ὅτι οὐ δαπανήσει ἡ δούλη σου τὰ ὄντα μετ’ ἐμοῦ, ἕως ἂν ποιήσῃ Κύριος ἐν χειρί μου ἃ ἐβουλεύσατο."
+   },
+   {
+    "work_code": "PSA",
+    "work_ja": "詩編",
+    "work_src": "Psalmi",
+    "ref": "30.14",
+    "form": "ἐβουλεύσαντο",
+    "postag": "v3paim---",
+    "sentence": "ἐν τῷ ἐπισυναχθῆναι αὐτοὺς ἅμα ἐπ’ ἐμὲ τοῦ λαβεῖν τὴν ψυχήν μου ἐβουλεύσαντο."
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "44.3",
+    "form": "βουλεύοντες",
+    "postag": "v-pppamn-",
+    "sentence": "βουλεύοντες ἐν συνέσει αὐτῶν, ἀπηγγελκότες ἐν προφητείαις ·"
+   },
+   {
+    "work_code": "DAN",
+    "work_ja": "ダニエル書（Th）",
+    "work_src": "Daniel",
+    "ref": "7.26",
+    "form": "βουλεύσονται",
+    "postag": "v3pfim---",
+    "sentence": "καὶ ἡ κρίσις καθίσεται καὶ τὴν ἐξουσίαν ἀπολοῦσι καὶ βουλεύσονται μιᾶναι καὶ ἀπολέσαι ἕως τέλους."
+   },
+   {
+    "work_code": "2SA",
+    "work_ja": "サムエル記下",
+    "work_src": "Regnorum ii",
+    "ref": "17.7",
+    "form": "ἐβουλεύσατο",
+    "postag": "v3saim---",
+    "sentence": "οὐκ ἀγαθὴ αὕτη ἡ βουλή, ἣν ἐβουλεύσατο Ἀχιτόφελ τὸ ἅπαξ τοῦτο."
+   },
+   {
+    "work_code": "EZR",
+    "work_ja": "エズラ記・ネヘミヤ記",
+    "work_src": "Esdras ii",
+    "ref": "16.7",
+    "form": "βουλευσώμεθα",
+    "postag": "v1pasm---",
+    "sentence": "καὶ νῦν δεῦρο βουλευσώμεθα ἐπὶ τὸ αὐτό."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "27.45",
+    "form": "βεβούλευται",
+    "postag": "v3srim---",
+    "sentence": "διὰ τοῦτο ἀκούσατε τὴν βουλὴν Κυρίου, ἣν βεβούλευται ἐπὶ Βαβυλῶνα, καὶ λογισμοὺς αὐτοῦ, οὓς ἐλογίσατο ἐπὶ τοὺς κατοικοῦντας Χαλδαίους ·"
+   },
+   {
+    "work_code": "GEN",
+    "work_ja": "創世記",
+    "work_src": "Genesis",
+    "ref": "50.20",
+    "form": "ἐβουλεύσασθε",
+    "postag": "v2paim---",
+    "sentence": "ὑμεῖς ἐβουλεύσασθε κατ’ ἐμοῦ εἰς πονηρά, ὁ δὲ Θεὸς ἐβουλεύσατο περὶ ἐμοῦ εἰς ἀγαθά, ὅπως ἂν γενηθῇ ὡς σήμερον καὶ τραφῇ λαὸς πολύς."
+   },
+   {
+    "work_code": "1KI",
+    "work_ja": "列王記上",
+    "work_src": "Regnorum iii",
+    "ref": "12.6",
+    "form": "βουλεύεσθε",
+    "postag": "v2ppim---",
+    "sentence": "πῶς ὑμεῖς βουλεύεσθε καὶ ἀποκριθῶ τῷ λαῷ τούτῳ λόγον;"
+   }
+  ]
+ },
+ "fathers": {
+  "total": 6,
+  "works": {
+   "Barnabas": 1,
+   "Hermas, Pastor": 5
+  },
+  "representatives": [
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "1.1.8",
+    "form": "βουλεύεται",
+    "postag": "v3spim---",
+    "sentence": "ὁ γὰρ δίκαιος ἀνὴρ δίκαια βουλεύεται."
+   },
+   {
+    "work_code": "BAR",
+    "work_ja": "バルナバ書簡",
+    "work_src": "Barnabas",
+    "ref": "6.7",
+    "form": "βεβούλευνται",
+    "postag": "v3prim---",
+    "sentence": "οὐαὶ τῇ ψυχῇ αὐτῶν, ὅτι βεβούλευνται βουλὴν πονηρὰν καθ’ ἑαυτῶν, εἰπόντες ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "1.1.2",
+    "form": "ἐβουλευσάμην",
+    "postag": "v1saim---",
+    "sentence": "μόνον τοῦτο ἐβουλευσάμην, ἕτερον δὲ οὐ-δὲ ἕν."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "26.28.5",
+    "form": "βουλευόμενοι",
+    "postag": "v-pppmmn-",
+    "sentence": "βλέπετε οὖν ὑμεῖς οἱ ταῦτα βουλευόμενοι, μήποτε ἡ βουλὴ αὕτη διαμείνῃ ἐν ταῖς καρδίαις ὑμῶν καὶ ἀποθάνητε τῷ θεῷ."
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "1.1.8",
+    "form": "βουλεύεσθαι",
+    "postag": "v--pnm---",
+    "sentence": "ἐν τῷ οὖν δίκαια βουλεύεσθαι αὐτὸν κατορθοῦται ἡ δόξα αὐτοῦ ἐν τοῖς οὐρανοῖς καὶ εὐκατάλλακτον ἔχει τὸν κύριον ἐν παντὶ πράγματι αὐτοῦ ·"
+   },
+   {
+    "work_code": "HER",
+    "work_ja": "ヘルマス『牧者』",
+    "work_src": "Hermas, Pastor",
+    "ref": "1.1.8",
+    "form": "βουλευόμενοι",
+    "postag": "v-pppmmn-",
+    "sentence": "οἱ δὲ πονηρὰ βουλευόμενοι ἐν ταῖς καρδίαις αὐτῶν θάνατον καὶ αἰχμαλωτισμὸν ἑαυτοῖς ἐπισπῶνται, μάλιστα οἱ τὸν αἰῶνα τοῦτον περιποιούμενοι καὶ γαυριῶντες ἐν τῷ πλούτῳ αὐτῶν καὶ μὴ ἀντεχόμενοι τῶν ἀγαθῶν τῶν μελλόντων."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "6   βουλεύω     (< βουλή),    [in LXX chiefly for יעץ;]    to take counsel, deliberate, resolve.     In mid.,     to take counsel with oneself, consider: seq. εἰ, Lk 14:31.      to determine with oneself, resolve: c. inf., Ac 5:33  27:39; c. acc., II Co 1:17; seq. ἵνα, Jo 11:53  12:10 (cf. παρα-, συμ-).†"
+}

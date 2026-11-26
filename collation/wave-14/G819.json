@@ -1,0 +1,214 @@
+{
+ "strong": "G819",
+ "lemma": "ἀτιμία",
+ "nt_freq": 7,
+ "status": "expanded-covered",
+ "glaux_lemma": null,
+ "mapping_note": null,
+ "nt_occurrences": [
+  {
+   "ref": "1CO 11:14",
+   "form": "ἀτιμία",
+   "morph": "N-NSF",
+   "gloss_en": "disgrace",
+   "gloss_ja": "不名誉",
+   "verse": "οὐδὲ ἡ φύσις αὐτὴ διδάσκει ὑμᾶς ὅτι ἀνὴρ μὲν ἐὰν κομᾷ, ἀτιμία αὐτῷ ἐστιν,"
+  },
+  {
+   "ref": "1CO 15:43",
+   "form": "ἀτιμίᾳ",
+   "morph": "N-DSF",
+   "gloss_en": "dishonor",
+   "gloss_ja": "不名誉",
+   "verse": "σπείρεται ἐν ἀτιμίᾳ, ἐγείρεται ἐν δόξῃ· σπείρεται ἐν ἀσθενείᾳ, ἐγείρεται ἐν δυνάμει·"
+  },
+  {
+   "ref": "2CO 6:8",
+   "form": "ἀτιμίας",
+   "morph": "N-GSF",
+   "gloss_en": "dishonor",
+   "gloss_ja": "不名誉",
+   "verse": "διὰ δόξης καὶ ἀτιμίας, διὰ δυσφημίας καὶ εὐφημίας· ὡς πλάνοι καὶ ἀληθεῖς,"
+  },
+  {
+   "ref": "2CO 11:21",
+   "form": "ἀτιμίαν",
+   "morph": "N-ASF",
+   "gloss_en": "shame",
+   "gloss_ja": "不名誉",
+   "verse": "κατὰ ἀτιμίαν λέγω, ὡς ὅτι ἡμεῖς ἠσθενήκαμεν· ἐν ᾧ δ’ ἄν τις τολμᾷ, ἐν ἀφροσύνῃ λέγω, τολμῶ κἀγώ."
+  },
+  {
+   "ref": "2TI 2:20",
+   "form": "ἀτιμίαν",
+   "morph": "N-ASF",
+   "gloss_en": "dishonor",
+   "gloss_ja": "不名誉",
+   "verse": "Ἐν μεγάλῃ δὲ οἰκίᾳ οὐκ ἔστιν μόνον σκεύη χρυσᾶ καὶ ἀργυρᾶ ἀλλὰ καὶ ξύλινα καὶ ὀστράκινα, καὶ ἃ μὲν εἰς τιμὴν ἃ δὲ εἰς ἀτιμίαν·"
+  },
+  {
+   "ref": "ROM 1:26",
+   "form": "ἀτιμίας",
+   "morph": "N-GSF",
+   "gloss_en": "degrading",
+   "gloss_ja": "不名誉",
+   "verse": "Διὰ τοῦτο παρέδωκεν αὐτοὺς ὁ θεὸς εἰς πάθη ἀτιμίας· αἵ τε γὰρ θήλειαι αὐτῶν μετήλλαξαν τὴν φυσικὴν χρῆσιν εἰς τὴν παρὰ φύσιν,"
+  },
+  {
+   "ref": "ROM 9:21",
+   "form": "ἀτιμίαν",
+   "morph": "N-ASF",
+   "gloss_en": "dishonor",
+   "gloss_ja": "不名誉",
+   "verse": "ἢ οὐκ ἔχει ἐξουσίαν ὁ κεραμεὺς τοῦ πηλοῦ ἐκ τοῦ αὐτοῦ φυράματος ποιῆσαι ὃ μὲν εἰς τιμὴν σκεῦος ὃ δὲ εἰς ἀτιμίαν;"
+  }
+ ],
+ "lxx": {
+  "total": 56,
+  "works": {
+   "Judith": 2,
+   "Tobias": 1,
+   "Machabaeorum i": 1,
+   "Psalmi": 1,
+   "Proverbia": 11,
+   "Job": 3,
+   "Ecclesiasticus sive Siracides": 9,
+   "Psalmi Salomonis": 8,
+   "Osee": 2,
+   "Nahum": 1,
+   "Habacuc": 2,
+   "Isaias": 2,
+   "Jeremias": 6,
+   "Epistula Jeremiae": 1,
+   "Ezechiel": 6
+  },
+  "representatives": [
+   {
+    "work_code": "PRO",
+    "work_ja": "箴言",
+    "work_src": "Proverbia",
+    "ref": "11.2",
+    "form": "ἀτιμία",
+    "postag": "n-s---fn-",
+    "sentence": "οὗ ἐὰν εἰσέλθῃ ὕβρις, ἐκεῖ καὶ ἀτιμία ·"
+   },
+   {
+    "work_code": "SIR",
+    "work_ja": "シラ書",
+    "work_src": "Ecclesiasticus sive Siracides",
+    "ref": "3.10",
+    "form": "ἀτιμίᾳ",
+    "postag": "n-s---fd-",
+    "sentence": "μὴ δοξάζου ἐν ἀτιμίᾳ πατρός σου, οὐ γάρ ἐστί σοι δόξα πατρὸς ἀτιμία ·"
+   },
+   {
+    "work_code": "PSS",
+    "work_ja": "ソロモンの詩編",
+    "work_src": "Psalmi Salomonis",
+    "ref": "2.21",
+    "form": "ἀτιμίᾳ",
+    "postag": "n-s---fd-",
+    "sentence": "ἐν ἀτιμίᾳ τὸ κάλλος αὐτῆς, ἀπερρίφη ἐπὶ τὴν γῆν."
+   },
+   {
+    "work_code": "JER",
+    "work_ja": "エレミヤ書",
+    "work_src": "Jeremias",
+    "ref": "6.15",
+    "form": "ἀτιμίαν",
+    "postag": "n-s---fa-",
+    "sentence": "καὶ οὐ-δ’ ὡς καταισχυνόμενοι κατῃσχύνθησαν καὶ τὴν ἀτιμίαν αὐτῶν οὐκ ἔγνωσαν."
+   },
+   {
+    "work_code": "EZK",
+    "work_ja": "エゼキエル書",
+    "work_src": "Ezechiel",
+    "ref": "16.63",
+    "form": "ἀτιμίας",
+    "postag": "n-s---fg-",
+    "sentence": "καὶ ἀναστήσω ἐγὼ τὴν διαθήκην μου μετὰ σοῦ, καὶ ἐπιγνώσῃ ὅτι ἐγὼ Κύριος, ὅπως μνησθῇς καὶ αἰσχυνθῆς, καὶ μὴ ᾖ σοι ἔτι ἀνοῖξαι τὸ στόμα σου ἀπὸ προσώπου τῆς ἀτιμίας σου ἐν τῷ ἐξιλάσκεσθαί μέ σοι κατὰ πάντα, ὅσα ἐποίησας, λέγει Κύριος."
+   },
+   {
+    "work_code": "JOB",
+    "work_ja": "ヨブ記",
+    "work_src": "Job",
+    "ref": "12.21",
+    "form": "ἀτιμίαν",
+    "postag": "n-s---fa-",
+    "sentence": "ἐκχέων ἀτιμίαν ἐπ’ ἄρχοντας, ταπεινοὺς δὲ ἰάσατο."
+   },
+   {
+    "work_code": "JDT",
+    "work_ja": "ユディト記",
+    "work_src": "Judith",
+    "ref": "8.23",
+    "form": "ἀτιμίαν",
+    "postag": "n-s---fa-",
+    "sentence": "ὅτι οὐ κατευθυνθήσεται ἡ δουλεία ἡμῶν εἰς χάριν, ἀλλ’ εἰς ἀτιμίαν θήσει αὐτὴν Κύριος ὁ Θεὸς ἡμῶν."
+   },
+   {
+    "work_code": "HOS",
+    "work_ja": "ホセア書",
+    "work_src": "Osee",
+    "ref": "4.7",
+    "form": "ἀτιμίαν",
+    "postag": "n-s---fa-",
+    "sentence": "τὴν δόξαν αὐτῶν εἰς ἀτιμίαν θήσομαι."
+   },
+   {
+    "work_code": "HAB",
+    "work_ja": "ハバクク書",
+    "work_src": "Habacuc",
+    "ref": "2.16",
+    "form": "ἀτιμίας",
+    "postag": "n-s---fg-",
+    "sentence": "πλησμονὴν ἀτιμίας ἐκ δόξης πίε καὶ σύ, καρδία σαλεύθητι καὶ σείσθητι ·"
+   },
+   {
+    "work_code": "ISA",
+    "work_ja": "イザヤ書",
+    "work_src": "Isaias",
+    "ref": "22.18",
+    "form": "ἀτιμίαν",
+    "postag": "n-s---fa-",
+    "sentence": "καὶ θήσει τὸ ἅρμα σου τὸ καλὸν εἰς ἀτιμίαν καὶ τὸν οἶκον τοῦ ἄρχοντός σου εἰς καταπάτημα ·"
+   },
+   {
+    "work_code": "TOB",
+    "work_ja": "トビト記（S）",
+    "work_src": "Tobias",
+    "ref": "14.10",
+    "form": "ἀτιμίαν",
+    "postag": "n-s---fa-",
+    "sentence": "καὶ ἀπέδωκεν ὁ θεὸς τὴν ἀτιμίαν κατὰ πρόσωπον αὐτοῦ, καὶ ἐξῆλθεν εἰς τὸ φῶς Αχικαρος, καὶ Ναδαβ εἰσῆλθεν εἰς τὸ σκότος τοῦ αἰῶνος, ὅτι ἐζήτησεν ἀποκτεῖναι Αχικαρον ·"
+   },
+   {
+    "work_code": "1MA",
+    "work_ja": "マカバイ記一",
+    "work_src": "Machabaeorum i",
+    "ref": "1.40",
+    "form": "ἀτιμία",
+    "postag": "n-s---fn-",
+    "sentence": "κατὰ τὴν δόξαν αὐτῆς ἐπληθύνθη ἡ ἀτιμία αὐτῆς, καὶ τὸ ὕψος αὐτῆς ἐστράφη εἰς πένθος."
+   }
+  ]
+ },
+ "fathers": {
+  "total": 1,
+  "works": {
+   "To Diognetus": 1
+  },
+  "representatives": [
+   {
+    "work_code": "DIO",
+    "work_ja": "ディオグネトス宛て書簡",
+    "work_src": "To Diognetus",
+    "ref": "5",
+    "form": "ἀτιμίαις",
+    "postag": "n-p---fd-",
+    "sentence": "ἀτιμοῦνται, καὶ ἐν ταῖς ἀτιμίαις δοξάζονται."
+   }
+  ]
+ },
+ "abbott_hypothesis_en": "7   ἀτιμία, -ας, ἡ    (ἄτιμος),   [in LXX for כְּלִמָּה, קָלוֹן, etc.;]    dishonour, disgrace: I Co 11:14, II Co 6:8; εἰς ἀ., Ro 9:21, II Ti 2:20; ἐν ἀ., I Co 15:43; κατ᾽ ἀ., II Co 11:21; πάθη ἀτιμίας, base passions, Ro 1:26.†"
+}
