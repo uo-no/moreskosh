@@ -1,0 +1,35 @@
+{
+  "strong": "G2433",
+  "lemma": "ἱλάσκομαι",
+  "status": "拡張照合・下書き",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "宥めをする",
+      "def_ja": "罪を宥める、贖う。『民の罪のために宥めをする』。",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヘブル2:17。LXX に並行。教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "憐れみを施す",
+      "def_ja": "憐れむ、赦す。『罪人のわたしをお赦しください』。",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ18:13。LXX に並行（赦す）。教父の用例なし。"
+    }
+  ],
+  "assignments": {
+    "HEB 2:17": 1,
+    "LUK 18:13": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。"
+}
