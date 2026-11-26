@@ -1,0 +1,31 @@
+{
+  "strong": "G2606",
+  "lemma": "καταγελάω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "あざ笑う",
+      "def_ja": "嘲笑する、あざ笑う。『人々はイエスをあざ笑った』。",
+      "label_en": "to laugh to scorn",
+      "def_en": "To deride, to laugh at.",
+      "label_es": "burlarse",
+      "def_es": "Mofarse, reírse de alguien.",
+      "label_sv": "att håna, att skratta åt",
+      "def_sv": "Att förlöjliga, att göra narr av.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "マタイ9:24、マルコ5:40、ルカ8:53。LXX、教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "LUK 8:53": 1,
+    "MAT 9:24": 1,
+    "MRK 5:40": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

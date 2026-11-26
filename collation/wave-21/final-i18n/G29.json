@@ -1,0 +1,31 @@
+{
+  "strong": "G29",
+  "lemma": "ἀγγαρεύω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "強制徴用する",
+      "def_ja": "強制的に行かせる、徴用する。『強いて一ミリオン行かせるなら』『シモンを無理に負わせた』。",
+      "label_en": "to press into service",
+      "def_en": "To compel to go, to requisition.",
+      "label_es": "obligar (a prestar servicio)",
+      "def_es": "Forzar a ir, requisar para un servicio.",
+      "label_sv": "att tvångsrekvirera",
+      "def_sv": "Att tvinga någon att gå, att ta ut i tvångstjänst.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "マタイ5:41・27:32、マルコ15:21。LXX の用例なし。教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "MAT 5:41": 1,
+    "MAT 27:32": 1,
+    "MRK 15:21": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

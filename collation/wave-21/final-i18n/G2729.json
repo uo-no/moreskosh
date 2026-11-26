@@ -1,0 +1,48 @@
+{
+  "strong": "G2729",
+  "lemma": "κατισχύω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "力を得る・耐えうる",
+      "def_ja": "力を持つ、耐える力がある。『これらすべての起こることを免れる力を持つように』。",
+      "label_en": "to have strength to",
+      "def_en": "To have power, to be strong enough to endure.",
+      "label_es": "tener fuerzas, poder resistir",
+      "def_es": "Tener vigor, ser capaz de resistir.",
+      "label_sv": "att få kraft, att förmå",
+      "def_sv": "Att ha styrka, att orka stå emot.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ルカ21:36。LXX、教父に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "打ち勝つ",
+      "def_ja": "優勢になる、打ち勝つ。『大声で押し切った』『陰府の門もこれに打ち勝てない』。マタイ16:18 の指示対象・解釈は決定しない。",
+      "label_en": "to prevail",
+      "def_en": "To get the upper hand, to overcome.",
+      "label_es": "prevalecer",
+      "def_es": "Imponerse, vencer.",
+      "label_sv": "att få överhand",
+      "def_sv": "Att segra, att bli övermäktig.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "マタイ16:18、ルカ23:23。LXX、教父に並行。"
+    }
+  ],
+  "assignments": {
+    "LUK 21:36": 1,
+    "LUK 23:23": 2,
+    "MAT 16:18": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（力を持つ／打ち勝つ）による。"
+}

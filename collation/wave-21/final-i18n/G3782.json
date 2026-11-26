@@ -1,0 +1,48 @@
+{
+  "strong": "G3782",
+  "lemma": "ὀφειλή",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "負債・借り",
+      "def_ja": "負債、借り。『その負債を免除してやった』『だれにでも、返すべきものを返しなさい』。",
+      "label_en": "debt",
+      "def_en": "A debt, what is owed.",
+      "label_es": "deuda",
+      "def_es": "Deuda, lo que se debe.",
+      "label_sv": "skuld",
+      "def_sv": "Skuld, det man är skyldig.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マタイ18:32、ローマ13:7。LXX・教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "果たすべき務め",
+      "def_ja": "果たすべき務め。『夫は妻に務めを果たし』。",
+      "label_en": "duty",
+      "def_en": "The duty to be fulfilled.",
+      "label_es": "deber",
+      "def_es": "La obligación que se ha de cumplir.",
+      "label_sv": "skyldighet",
+      "def_sv": "Den plikt som skall fullgöras.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "コリント第一7:3。LXX・教父の用例なし。"
+    }
+  ],
+  "assignments": {
+    "1CO 7:3": 2,
+    "MAT 18:32": 1,
+    "ROM 13:7": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（負債／務め）による。教父の代表例は別語形の可能性があり確認していない。"
+}

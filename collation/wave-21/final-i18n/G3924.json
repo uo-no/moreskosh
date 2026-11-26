@@ -1,0 +1,38 @@
+{
+  "strong": "G3924",
+  "lemma": "παρεκτός",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "～を除いて・外のこと",
+      "def_ja": "～を除いて、～の外。『外のこと』（コリント第二11:28）、『～を除いて』（使徒26:29、マタイ5:32）。ルカ19:43 の語形は παρεμβάλλω のもので別レンマ（excluded）。",
+      "label_en": "apart from, things left out",
+      "def_en": "Except; what lies outside.",
+      "label_es": "excepto, lo de fuera",
+      "def_es": "Fuera de, aparte de.",
+      "label_sv": "förutom, det därutöver",
+      "def_sv": "Utom, utanför.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "コリント第二11:28、使徒26:29、マタイ5:32。LXX の用例なし。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "2CO 11:28": 1,
+    "ACT 26:29": 1,
+    "MAT 5:32": 1
+  },
+  "unresolved": [],
+  "excluded": [
+    {
+      "ref": "LUK 19:43",
+      "form": "παρεμβαλοῦσιν",
+      "reason": "形 παρεμβαλοῦσιν の lemma は παρεμβάλλω で別語。παρεμβάλλω は頻度1の別項目として扱う。パケットの nt_freq（3）にも含まれない。"
+    }
+  ],
+  "layer_notes": "語義は立てず用法を単一とした（除外／外側の境界は連続的）。"
+}

@@ -1,0 +1,37 @@
+{
+  "strong": "G4319",
+  "lemma": "προσαίτης",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "物乞い",
+      "def_ja": "物乞い、乞食。『物乞いをしていた者』『道ばたに座って物乞いをしていた』。ヨハネ9:8 の2つ目の語形 προσαιτῶν は動詞 προσαιτέω の分詞で別レンマの疑いがあり未割当て。",
+      "label_en": "beggar",
+      "def_en": "One who begs.",
+      "label_es": "mendigo",
+      "def_es": "El que pide limosna.",
+      "label_sv": "tiggare",
+      "def_sv": "En som tigger.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヨハネ9:8（1つ目）、マルコ10:46。LXX・教父の用例なし。"
+    }
+  ],
+  "assignments": {
+    "JHN 9:8#1": 1,
+    "MRK 10:46": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。",
+  "excluded": [
+    {
+      "ref": "JHN 9:8#2",
+      "form": "προσαιτῶν",
+      "reason": "lemma はデータの lemma 欄でも προσαιτέω で別語。"
+    }
+  ]
+}

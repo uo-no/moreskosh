@@ -1,0 +1,48 @@
+{
+  "strong": "G249",
+  "lemma": "ἄλογος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "筋の通らない",
+      "def_ja": "道理に合わない。『囚人を送りながら…示さないのは筋が通らない』。",
+      "label_en": "unreasonable",
+      "def_en": "Contrary to reason.",
+      "label_es": "irrazonable",
+      "def_es": "Que no está conforme a razón.",
+      "label_sv": "orimlig",
+      "def_sv": "Som strider mot förnuftet.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒25:27。語義2との境界は連続的。教父の用例なし。"
+    },
+    {
+      "n": 2,
+      "label_ja": "理性のない",
+      "def_ja": "理性を欠いた。『理性のない動物のように』『理性のない獣のように』。",
+      "label_en": "irrational",
+      "def_en": "Without reason.",
+      "label_es": "irracional",
+      "def_es": "Carente de razón.",
+      "label_sv": "oförnuftig",
+      "def_sv": "Utan förnuft.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ペテロ第二2:12、ユダ10。教父の用例なし。"
+    }
+  ],
+  "assignments": {
+    "2PE 2:12": 2,
+    "ACT 25:27": 1,
+    "JUD 1:10": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。"
+}

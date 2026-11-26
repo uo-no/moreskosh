@@ -1,0 +1,48 @@
+{
+  "strong": "G4028",
+  "lemma": "περικαλύπτω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "覆う",
+      "def_ja": "覆う、包む。『金で覆われた契約の箱』。",
+      "label_en": "to cover",
+      "def_en": "To cover, to overlay.",
+      "label_es": "cubrir",
+      "def_es": "Cubrir, revestir.",
+      "label_sv": "att täcka",
+      "def_sv": "Att överdra, att hölja.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヘブル9:4。LXX に並行。教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "目隠しする・顔を覆う",
+      "def_ja": "顔を覆う、目隠しをする。『目隠しをして』『顔に覆いを』。",
+      "label_en": "to blindfold, to cover the face",
+      "def_en": "To cover someone’s face, to blindfold.",
+      "label_es": "vendar, cubrir el rostro",
+      "def_es": "Tapar el rostro, vendar los ojos.",
+      "label_sv": "att binda för ögonen",
+      "def_sv": "Att täcka ansiktet, att förbinda ögonen.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ22:64、マルコ14:65。LXX に並行（覆う）。教父の用例なし。"
+    }
+  ],
+  "assignments": {
+    "HEB 9:4": 1,
+    "LUK 22:64": 2,
+    "MRK 14:65": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。"
+}

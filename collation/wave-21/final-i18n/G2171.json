@@ -1,0 +1,48 @@
+{
+  "strong": "G2171",
+  "lemma": "εὐχή",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "誓願・願掛け",
+      "def_ja": "誓願、神への約束。『誓願を立てていたので』『誓願を立てている者が四人います』。",
+      "label_en": "vow",
+      "def_en": "A vow, a promise made to God.",
+      "label_es": "voto",
+      "def_es": "Voto, promesa hecha a Dios.",
+      "label_sv": "löfte",
+      "def_sv": "Ett löfte till Gud.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒18:18・21:23。LXX、教父に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "祈り",
+      "def_ja": "祈り。『信仰による祈り』。",
+      "label_en": "prayer",
+      "def_en": "Prayer.",
+      "label_es": "oración",
+      "def_es": "Oración.",
+      "label_sv": "bön",
+      "def_sv": "Bön.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヤコブ5:15。語義1との境界は連続的。LXX・教父の代表例は誓願の用法で、この語義としては確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 18:18": 1,
+    "ACT 21:23": 1,
+    "JAS 5:15": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（誓願／祈り）による。"
+}

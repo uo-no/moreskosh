@@ -1,0 +1,31 @@
+{
+  "strong": "G4005",
+  "lemma": "πεντηκοστή",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "五旬節",
+      "def_ja": "五旬節（ペンテコステ）。『五旬節までは』『五旬節の日が来て』『五旬節までにエルサレムに』。",
+      "label_en": "Pentecost",
+      "def_en": "The feast of the fiftieth day (Pentecost).",
+      "label_es": "Pentecostés",
+      "def_es": "La fiesta de Pentecostés.",
+      "label_sv": "pingst",
+      "def_sv": "Pingstdagen.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "コリント第一16:8、使徒2:1・20:16。LXX に並行。教父の用例なし。単一語義。"
+    }
+  ],
+  "assignments": {
+    "1CO 16:8": 1,
+    "ACT 2:1": 1,
+    "ACT 20:16": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

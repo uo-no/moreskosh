@@ -1,0 +1,48 @@
+{
+  "strong": "G2646",
+  "lemma": "κατάλυμα",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "宿",
+      "def_ja": "宿、宿泊所。『宿屋に場所がなかった』。",
+      "label_en": "lodging place, inn",
+      "def_en": "A place to stay, lodging.",
+      "label_es": "mesón, alojamiento",
+      "def_es": "Posada, lugar donde hospedarse.",
+      "label_sv": "härbärge",
+      "def_sv": "Härbärge, nattkvarter.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ2:7。LXX に並行。教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "客間",
+      "def_ja": "客を迎える部屋、客間。『客間はどこか』。",
+      "label_en": "guest room",
+      "def_en": "A room for receiving guests.",
+      "label_es": "aposento de huéspedes",
+      "def_es": "Sala para recibir invitados.",
+      "label_sv": "gästsal",
+      "def_sv": "Ett rum för att ta emot gäster.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ22:11、マルコ14:14。LXX に並行。教父の用例なし。"
+    }
+  ],
+  "assignments": {
+    "LUK 2:7": 1,
+    "LUK 22:11": 2,
+    "MRK 14:14": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（宿／客間）による。"
+}

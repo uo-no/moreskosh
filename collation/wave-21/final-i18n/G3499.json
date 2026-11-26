@@ -1,0 +1,48 @@
+{
+  "strong": "G3499",
+  "lemma": "νεκρόω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "死なせる",
+      "def_ja": "死なせる、殺す。『地上の肢体を殺せ』。",
+      "label_en": "to put to death",
+      "def_en": "To make dead, to kill.",
+      "label_es": "hacer morir",
+      "def_es": "Dar muerte, matar.",
+      "label_sv": "att döda",
+      "def_sv": "Att låta dö, att döda.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "コロサイ3:5。語義2との境界は連続的。LXX・教父の用例なし。"
+    },
+    {
+      "n": 2,
+      "label_ja": "死んだようになる",
+      "def_ja": "死んだも同然になる、衰える。『死んだようなからだ』『からだが死んだも同然であるのを』。",
+      "label_en": "to be as good as dead",
+      "def_en": "To become as if dead, to be worn out.",
+      "label_es": "estar como muerto",
+      "def_es": "Quedar casi muerto, decaer.",
+      "label_sv": "att vara så gott som död",
+      "def_sv": "Att vara som död, vara utlevad.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヘブル11:12、ローマ4:19。LXX・教父の用例なし。"
+    }
+  ],
+  "assignments": {
+    "COL 3:5": 1,
+    "HEB 11:12": 2,
+    "ROM 4:19": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（能動／受動完了）による。"
+}

@@ -1,0 +1,37 @@
+{
+  "strong": "G4450",
+  "lemma": "πυρρός",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "赤い",
+      "def_ja": "赤い、火のような赤。『火のように赤い竜』『赤い馬』。使徒20:4 の語形 Πύρρου は人名 Πύρρος の語形で別レンマ。",
+      "label_en": "red",
+      "def_en": "Red, red like fire.",
+      "label_es": "rojo",
+      "def_es": "Rojo, del color del fuego.",
+      "label_sv": "röd",
+      "def_sv": "Röd, eldröd.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "黙示録12:3・6:4。LXX、教父に並行。"
+    }
+  ],
+  "assignments": {
+    "REV 12:3": 1,
+    "REV 6:4": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。",
+  "excluded": [
+    {
+      "ref": "ACT 20:4",
+      "form": "Πύρρου",
+      "reason": "人名 Πύρρος（ソパテロの父）で、固有名詞は本照合の対象外。"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "strong": "G320",
+  "lemma": "ἀνάγνωσις",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "朗読",
+      "def_ja": "朗読、読むこと。『聖書の朗読に専念せよ』『旧約の朗読のとき』『律法と預言者の朗読の後』。",
+      "label_en": "public reading",
+      "def_en": "Reading aloud, reading.",
+      "label_es": "lectura pública",
+      "def_es": "Lectura en voz alta, el leer.",
+      "label_sv": "föreläsning, uppläsning",
+      "def_sv": "Högläsning, läsning.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "テモテ第一4:13、コリント第二3:14、使徒13:15。LXX、教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "1TI 4:13": 1,
+    "2CO 3:14": 1,
+    "ACT 13:15": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

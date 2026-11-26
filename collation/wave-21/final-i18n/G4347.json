@@ -1,0 +1,37 @@
+{
+  "strong": "G4347",
+  "lemma": "προσκολλάομαι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "結びつく",
+      "def_ja": "結びつく、固く付く。『妻と結ばれ』。使徒5:36 の語形 προσεκλίθη は προσκλίνω の語形で別レンマ。",
+      "label_en": "to cleave to",
+      "def_en": "To be joined to, to cling firmly.",
+      "label_es": "unirse a",
+      "def_es": "Adherirse, quedar firmemente unido.",
+      "label_sv": "att hålla sig till",
+      "def_sv": "Att förenas med, att hålla sig tätt intill.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "エペソ5:31、マルコ10:7。LXX に並行。教父の用例なし。"
+    }
+  ],
+  "assignments": {
+    "EPH 5:31": 1,
+    "MRK 10:7": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。",
+  "excluded": [
+    {
+      "ref": "ACT 5:36",
+      "form": "προσεκλίθη",
+      "reason": "形 προσεκλίθη の lemma はデータの lemma 欄でも προσκλίνομαι で別語。"
+    }
+  ]
+}

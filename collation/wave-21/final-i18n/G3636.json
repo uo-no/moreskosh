@@ -1,0 +1,48 @@
+{
+  "strong": "G3636",
+  "lemma": "ὀκνηρός",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "怠惰な・ぐずぐずする",
+      "def_ja": "怠惰な、ぐずぐずする。『悪い怠け者のしもべ』『勤勉で怠らず』。",
+      "label_en": "lazy, sluggish",
+      "def_en": "Lazy, hesitating to act.",
+      "label_es": "perezoso",
+      "def_es": "Holgazán, remolón.",
+      "label_sv": "lat, trög",
+      "def_sv": "Lat, senfärdig.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "マタイ25:26、ローマ12:11。LXX に並行。教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "面倒な",
+      "def_ja": "おっくうな、面倒な。『同じことを書くのはわたしには面倒でなく』。",
+      "label_en": "irksome",
+      "def_en": "Tiresome, bothersome.",
+      "label_es": "molesto",
+      "def_es": "Pesado, enojoso.",
+      "label_sv": "besvärlig",
+      "def_sv": "Motbjudande, betungande.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ピリピ3:1。LXX に並行（怠惰）。教父の用例なし。"
+    }
+  ],
+  "assignments": {
+    "MAT 25:26": 1,
+    "PHP 3:1": 2,
+    "ROM 12:11": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。"
+}

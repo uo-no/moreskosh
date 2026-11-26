@@ -1,0 +1,48 @@
+{
+  "strong": "G3799",
+  "lemma": "ὄψις",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "顔・姿",
+      "def_ja": "顔、顔つき。『顔は布で包まれ』『その顔は太陽のように』。",
+      "label_en": "face, countenance",
+      "def_en": "The face, the look of the face.",
+      "label_es": "rostro",
+      "def_es": "La cara, el semblante.",
+      "label_sv": "ansikte",
+      "def_sv": "Ansikte, anletsdrag.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヨハネ11:44、黙示録1:16。LXX、教父に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "外見",
+      "def_ja": "外見、見かけ。『外見で裁くな』。",
+      "label_en": "outward appearance",
+      "def_en": "Appearance, what is seen outwardly.",
+      "label_es": "apariencia",
+      "def_es": "Aspecto, lo que se ve por fuera.",
+      "label_sv": "yttre",
+      "def_sv": "Utseende, det yttre skenet.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヨハネ7:24。LXX、教父に並行。"
+    }
+  ],
+  "assignments": {
+    "JHN 11:44": 1,
+    "JHN 7:24": 2,
+    "REV 1:16": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（顔／外見）による。"
+}

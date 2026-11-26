@@ -1,0 +1,37 @@
+{
+  "strong": "G4476",
+  "lemma": "ῥαφίς",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "針",
+      "def_ja": "縫い針。『針の穴』。ルカ18:25 の語形 βελόνης は βελόνη の語形で別レンマ。",
+      "label_en": "needle",
+      "def_en": "A sewing needle.",
+      "label_es": "aguja",
+      "def_es": "Aguja de coser.",
+      "label_sv": "nål",
+      "def_sv": "Synål.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "マタイ19:24、マルコ10:25。LXX に並行。教父の用例なし。"
+    }
+  ],
+  "assignments": {
+    "MAT 19:24": 1,
+    "MRK 10:25": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。",
+  "excluded": [
+    {
+      "ref": "LUK 18:25",
+      "form": "βελόνης",
+      "reason": "形 βελόνης の lemma はデータの lemma 欄でも βελόνη で別語。番号の扱いは別途データ修正で扱う。"
+    }
+  ]
+}

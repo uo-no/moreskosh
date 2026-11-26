@@ -1,0 +1,48 @@
+{
+  "strong": "G4388",
+  "lemma": "προτίθεμαι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "あらかじめ心に定める",
+      "def_ja": "あらかじめ心に定める、計画する。『ご自身で定められた』『何度もあなたがたのところに行こうと計画した』。",
+      "label_en": "to purpose beforehand",
+      "def_en": "To determine in one’s heart beforehand, to plan.",
+      "label_es": "proponerse de antemano",
+      "def_es": "Resolver con anterioridad, planear.",
+      "label_sv": "att föresätta sig",
+      "def_sv": "Att i förväg bestämma, att planera.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "エペソ1:9、ローマ1:13。LXX・教父の代表例では確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "公に示す",
+      "def_ja": "公に示す、前に据える。ローマ3:25 の『公に示した』か『前もって定めた』かは決定しない。",
+      "label_en": "to set forth publicly",
+      "def_en": "To display openly, to set before.",
+      "label_es": "presentar públicamente",
+      "def_es": "Exponer a la vista, poner delante.",
+      "label_sv": "att offentligt framställa",
+      "def_sv": "Att öppet ställa fram.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ローマ3:25。LXX に並行（前に据える・公に示す）。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "EPH 1:9": 1,
+    "ROM 1:13": 1,
+    "ROM 3:25": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。ローマ3:25 の解釈は決定しない。"
+}

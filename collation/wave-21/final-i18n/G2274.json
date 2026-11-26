@@ -1,0 +1,48 @@
+{
+  "strong": "G2274",
+  "lemma": "ἡττάομαι",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "劣る",
+      "def_ja": "劣っている。『ほかの諸教会より劣っている点』。",
+      "label_en": "to be inferior",
+      "def_en": "To be worse off, to be inferior.",
+      "label_es": "ser inferior",
+      "def_es": "Ser menos, estar por debajo.",
+      "label_sv": "att stå tillbaka",
+      "def_sv": "Att vara sämre ställd, vara underlägsen.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "コリント第二12:13。語義2との境界は連続的。LXX・教父の用例なし。"
+    },
+    {
+      "n": 2,
+      "label_ja": "打ち負かされる・支配される",
+      "def_ja": "打ち負かされる、屈服する。『人は…に負かされる』『…に負け』。",
+      "label_en": "to be overcome",
+      "def_en": "To be defeated, to succumb.",
+      "label_es": "ser vencido",
+      "def_es": "Ser derrotado, rendirse.",
+      "label_sv": "att bli övervunnen",
+      "def_sv": "Att bli besegrad, att duka under.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ペテロ第二2:19・2:20。語義1との境界は連続的。LXX・教父の用例なし。"
+    }
+  ],
+  "assignments": {
+    "2CO 12:13": 1,
+    "2PE 2:19": 2,
+    "2PE 2:20": 2
+  },
+  "unresolved": [],
+  "layer_notes": "LXX・教父の用例なし。語義区分は用法（劣る／打ち負かされる）による。"
+}

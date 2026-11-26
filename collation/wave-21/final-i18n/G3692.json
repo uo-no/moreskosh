@@ -1,0 +1,37 @@
+{
+  "strong": "G3692",
+  "lemma": "ὀπή",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "穴・開口部",
+      "def_ja": "穴、開口部。『地の穴』『同じ穴から』。",
+      "label_en": "hole, opening",
+      "def_en": "A hole, an opening.",
+      "label_es": "agujero, abertura",
+      "def_es": "Orificio, hendidura.",
+      "label_sv": "hål, öppning",
+      "def_sv": "Hål, springa.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヘブル11:38、ヤコブ3:11。パケットの見出し語は πατήρ だが、これらの語形は ὀπή（ὀπαῖς・ὀπῆς）。LXX・教父の代表例はすべて πατήρ の用例で、ὀπή の用例は確認していない。"
+    }
+  ],
+  "assignments": {
+    "HEB 11:38": 1,
+    "JAS 3:11": 1
+  },
+  "unresolved": [],
+  "layer_notes": "見出し語の誤りは材料側にあった（パケットの見出し語は πατήρ だが、G3692 の本来のレンマは ὀπή）。ὀπή の LXX・教父の用例は未確認のため、層は none とする。代表例はすべて πατήρ の用例。",
+  "excluded": [
+    {
+      "ref": "LUK 23:34",
+      "form": "Πάτερ",
+      "reason": "πατήρ G3962 の呼格。番号が数字の入れ替わりで本レンマに付いたもので、データ側の扱いは別途データ修正で扱う。"
+    }
+  ]
+}

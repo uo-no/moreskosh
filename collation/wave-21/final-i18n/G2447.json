@@ -1,0 +1,48 @@
+{
+  "strong": "G2447",
+  "lemma": "ἰός",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "毒",
+      "def_ja": "毒。『死の毒に満ちている』『まむしの毒』。",
+      "label_en": "poison",
+      "def_en": "Poison.",
+      "label_es": "veneno",
+      "def_es": "Veneno, ponzoña.",
+      "label_sv": "gift",
+      "def_sv": "Gift, etter.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヤコブ3:8、ローマ3:13。LXX、教父に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "さび",
+      "def_ja": "金属のさび、腐食。『さびは…あなたがたに対する証拠となり』。",
+      "label_en": "rust",
+      "def_en": "The rust on metal, corrosion.",
+      "label_es": "herrumbre",
+      "def_es": "Óxido del metal, corrosión.",
+      "label_sv": "rost",
+      "def_sv": "Rost på metall, frätning.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヤコブ5:3。LXX に並行（さびた釜）。教父の代表例では確認していない。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "JAS 3:8": 1,
+    "JAS 5:3": 2,
+    "ROM 3:13": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（毒／さび）による。"
+}

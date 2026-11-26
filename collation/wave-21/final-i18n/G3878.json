@@ -1,0 +1,48 @@
+{
+  "strong": "G3878",
+  "lemma": "παρακούω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "聞き入れない",
+      "def_ja": "聞き入れない、聞き従わない。『教会の言うことを聞き入れないなら』。",
+      "label_en": "to refuse to listen",
+      "def_en": "To pay no heed, to disobey.",
+      "label_es": "desoír",
+      "def_es": "No hacer caso, no obedecer.",
+      "label_sv": "att vägra lyssna",
+      "def_sv": "Att inte höra på, att inte lyda.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "マタイ18:17（2回）。LXX、教父に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "聞き流す・小耳にはさむ",
+      "def_ja": "耳に入れる、聞き流す。マルコ5:36 を『聞き流して』と読むか『小耳にはさんで』と読むかは決定しない。",
+      "label_en": "to overhear, to ignore",
+      "def_en": "To catch with the ear, or to let pass unheeded.",
+      "label_es": "oír de paso, no hacer caso",
+      "def_es": "Percibir de pasada, o dejar pasar lo oído.",
+      "label_sv": "att råka höra, att inte bry sig om",
+      "def_sv": "Att uppsnappa, eller att låta gå förbi.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "マルコ5:36。LXX、教父に並行。"
+    }
+  ],
+  "assignments": {
+    "MAT 18:17#1": 1,
+    "MAT 18:17#2": 1,
+    "MRK 5:36": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。"
+}

@@ -1,0 +1,48 @@
+{
+  "strong": "G2104",
+  "lemma": "εὐγενής",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "身分の高い・高貴な",
+      "def_ja": "身分の高い、家柄のよい。『身分の高い者』『ある身分の高い人』。",
+      "label_en": "of noble birth",
+      "def_en": "Of high rank, well born.",
+      "label_es": "noble",
+      "def_es": "De alta alcurnia, de buena familia.",
+      "label_sv": "högättad, förnäm",
+      "def_sv": "Av hög börd, av god familj.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "コリント第一1:26、ルカ19:12。語義2との境界は連続的。LXX・教父の代表例は副詞形（立派に）の用法で、この語義としては確認していない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "心の広い・素直な",
+      "def_ja": "心の広い、素直な。『ここの人たちは…素直で』。",
+      "label_en": "noble-minded, open",
+      "def_en": "Large-hearted, ingenuous.",
+      "label_es": "de ánimo noble",
+      "def_es": "Generoso y dispuesto a escuchar.",
+      "label_sv": "ädelsinnad",
+      "def_sv": "Öppen och högsint.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒17:11。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 1:26": 1,
+    "ACT 17:11": 2,
+    "LUK 19:12": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（身分の高さ／心の広さ）による。"
+}

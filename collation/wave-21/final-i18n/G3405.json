@@ -1,0 +1,48 @@
+{
+  "strong": "G3405",
+  "lemma": "μισθαποδοσία",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "褒賞",
+      "def_ja": "報い、褒賞。『大きな報い』『報いを望み見ていた』。",
+      "label_en": "reward",
+      "def_en": "Recompense, reward.",
+      "label_es": "galardón",
+      "def_es": "Recompensa, premio.",
+      "label_sv": "lön, belöning",
+      "def_sv": "Vedergällning, belöning.",
+      "layers": {
+        "nt": 2,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヘブル10:35・11:26。LXX・教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "罰",
+      "def_ja": "報い（罰）。『義にかなった報いを受けた』。",
+      "label_en": "punishment",
+      "def_en": "A recompense in the sense of punishment.",
+      "label_es": "retribución (castigo)",
+      "def_es": "Paga en el sentido de castigo.",
+      "label_sv": "straff",
+      "def_sv": "Vedergällning i betydelsen straff.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヘブル2:2。LXX・教父の用例なし。"
+    }
+  ],
+  "assignments": {
+    "HEB 2:2": 2,
+    "HEB 10:35": 1,
+    "HEB 11:26": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（褒賞／罰）による。"
+}

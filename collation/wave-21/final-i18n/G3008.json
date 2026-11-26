@@ -1,0 +1,48 @@
+{
+  "strong": "G3008",
+  "lemma": "λειτουργέω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "祭儀・礼拝の奉仕をする",
+      "def_ja": "祭儀にたずさわる、礼拝の務めをする。『主を礼拝し、断食していると』『日ごとに立って務めを行い』。",
+      "label_en": "to perform ritual service",
+      "def_en": "To be engaged in rites, to carry out the duties of worship.",
+      "label_es": "oficiar el culto",
+      "def_es": "Ocuparse en el servicio ritual, desempeñar el ministerio cultual.",
+      "label_sv": "att förrätta tempeltjänst",
+      "def_sv": "Att sköta kulten, att göra gudstjänstlig tjänst.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒13:2、ヘブル10:11。LXX、教父に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "奉仕する・仕える",
+      "def_ja": "物質的な援助などで奉仕する。『肉のもので仕える』。",
+      "label_en": "to serve, to minister",
+      "def_en": "To serve, as by material help.",
+      "label_es": "servir, ayudar",
+      "def_es": "Prestar servicio, como con ayuda material.",
+      "label_sv": "att tjäna",
+      "def_sv": "Att bistå, till exempel med materiell hjälp.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ローマ15:27。LXX、教父に並行。"
+    }
+  ],
+  "assignments": {
+    "ACT 13:2": 1,
+    "HEB 10:11": 1,
+    "ROM 15:27": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（祭儀／一般の奉仕）による。"
+}
