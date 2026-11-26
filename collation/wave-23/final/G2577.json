@@ -1,0 +1,35 @@
+{
+  "strong": "G2577",
+  "lemma": "κάμνω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "疲れる",
+      "def_ja": "疲れ果てる、弱る。『気落ちして疲れ果てないために』。",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヘブル12:3。LXX・教父の代表例では確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "病む",
+      "def_ja": "病む、病気である。『病んでいる人を救い』。",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヤコブ5:15。LXX に並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "HEB 12:3": 1,
+    "JAS 5:15": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（疲れる／病む）による。"
+}
