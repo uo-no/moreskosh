@@ -1,0 +1,35 @@
+{
+  "strong": "G580",
+  "lemma": "ἀποβολή",
+  "status": "拡張照合・下書き",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "喪失",
+      "def_ja": "喪失、失われること。『だれも命を失わない』。",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒27:22。LXX・教父の用例なし。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "拒絶",
+      "def_ja": "拒絶、退けること。『彼らが退けられること』。",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ローマ11:15。LXX・教父の用例なし。"
+    }
+  ],
+  "assignments": {
+    "ACT 27:22": 1,
+    "ROM 11:15": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（喪失／拒絶）による。"
+}
