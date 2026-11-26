@@ -1,0 +1,72 @@
+{
+  "strong": "G873",
+  "lemma": "ἀφορίζω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "分ける／分離する",
+      "def_ja": "分ける、区別する、引き離す。『羊飼いが羊と山羊を分けるように』『彼らから離れて弟子たちを引き離し』『彼らの中から出て行き』『異邦人たちから身を引いて』『義人のうちから悪人を分け』。",
+      "label_en": "to separate",
+      "def_en": "To separate, set apart, withdraw: “as a shepherd separates sheep from goats”, “withdrew from them and took the disciples”, “come out from among them and be separate”, “drew back from the Gentiles”, “separate the evil from the righteous”.",
+      "label_es": "apartar / separar",
+      "def_es": "Separar, distinguir, retirar: «como aparta el pastor las ovejas de los cabritos», «se apartó de ellos y separó a los discípulos», «salid de en medio de ellos y apartaos», «se retraía de los gentiles», «apartarán a los malos de entre los justos».",
+      "label_sv": "att skilja / avskilja",
+      "def_sv": "Att skilja åt, särskilja, dra bort: ”som herden skiljer fåren från getterna”, ”lämnade dem och tog lärjungarna avsides”, ”gå ut från dem och avskilj er”, ”drog sig undan från hedningarna”, ”skilja de onda från de rättfärdiga”.",
+      "layers": {
+        "nt": 6,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "マタイ13:49・25:32（2回）、Ⅱコリ6:17、ガラテヤ2:12、使徒19:9。LXX レビ記13:50 ほか、教父の用例は無い。語義2・3との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "選び分ける／任務に任ずる",
+      "def_ja": "ある務めのために選び分ける。『バルナバとサウロをわたしのために選び分けなさい』『母の胎にあるときから選び分け』『福音のために選び分けられた』。",
+      "label_en": "to set apart (for a task)",
+      "def_en": "To set apart for a certain ministry: “set apart for me Barnabas and Saul”, “who set me apart before I was born”, “set apart for the gospel”.",
+      "label_es": "apartar / designar para una tarea",
+      "def_es": "Escoger para un ministerio: «apartadme a Bernabé y a Saulo», «me apartó desde el vientre de mi madre», «apartado para el evangelio».",
+      "label_sv": "att avskilja för en uppgift",
+      "def_sv": "Att utse till en tjänst: ”avskilj åt mig Barnabas och Saul”, ”han som utvalde mig redan i moderlivet”, ”avskild för evangeliet”.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒13:2、ガラテヤ1:15、ローマ1:1。LXX 代表例に並行。教父の用例は無い。語義1との境界は連続的。"
+    },
+    {
+      "n": 3,
+      "label_ja": "除外する／のけ者にする",
+      "def_ja": "仲間から除く、のけ者にする。『人々があなたがたを憎み、除外し』（ルカ6:22）。",
+      "label_en": "to exclude / shun",
+      "def_en": "To put out of the company, to shun: “when people hate you and exclude you” (Luke 6:22).",
+      "label_es": "excluir / marginar",
+      "def_es": "Echar del grupo, rechazar: «cuando los hombres os aborrezcan y os aparten de sí» (Lc 6:22).",
+      "label_sv": "att utesluta / stöta ut",
+      "def_sv": "Att stänga ute ur gemenskapen: ”när människor hatar er och stöter ut er” (Luk 6:22).",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ6:22 の1例のみ。語義1との境界は連続的。LXX 代表例に並行。教父の用例は無い。"
+    }
+  ],
+  "assignments": {
+    "2CO 6:17": 1,
+    "ACT 13:2": 2,
+    "ACT 19:9": 1,
+    "GAL 1:15": 2,
+    "GAL 2:12": 1,
+    "LUK 6:22": 3,
+    "MAT 13:49": 1,
+    "MAT 25:32#1": 1,
+    "MAT 25:32#2": 1,
+    "ROM 1:1": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（分ける／選び分ける／除外）による。教父の用例は無い。"
+}

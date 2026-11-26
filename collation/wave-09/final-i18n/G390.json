@@ -1,0 +1,89 @@
+{
+  "strong": "G390",
+  "lemma": "ἀναστρέφω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "生活する／振る舞う",
+      "def_ja": "生活する、行動する、身を処する。『この世にいる間、恐れの心をもって過ごせ』『神の家でどう行動すべきか』『世の中で身を処してきた』『誤りの中に生きている者』『かつては肉の欲の中で生き』『すべてにおいて正しく生きたい』。",
+      "label_en": "to live / conduct oneself",
+      "def_en": "To live, act, conduct oneself: “conduct yourselves with fear during your time of exile”, “how one ought to behave in the household of God”, “we have behaved in the world”, “those who live in error”, “we once lived in the passions of our flesh”, “desiring to act honourably in all things”.",
+      "label_es": "vivir / comportarse",
+      "def_es": "Vivir, actuar, conducirse: «conducíos en temor todo el tiempo de vuestra peregrinación», «cómo debes conducirte en la casa de Dios», «nos hemos conducido en el mundo», «los que viven en error», «vivimos en otro tiempo en los deseos de la carne», «deseando conducirnos bien en todo».",
+      "label_sv": "att leva / uppföra sig",
+      "def_sv": "Att leva, handla, föra sig: ”lev i gudsfruktan under er tid som främlingar”, ”hur man ska uppföra sig i Guds hus”, ”vi har uppträtt i världen”, ”de som lever i villfarelse”, ”vi levde en gång efter köttets begär”, ”vill i allt handla rätt”.",
+      "layers": {
+        "nt": 6,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰペテロ1:17、Ⅰテモ3:15、Ⅱコリ1:12、Ⅱペテロ2:18、エペソ2:3、ヘブル13:18。LXX 箴言・知恵、教父（63.3、26.27.2）に並行。語義3との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "戻る／帰る",
+      "def_ja": "戻る、帰る。『ダビデの倒れた幕屋を再び建て』『帰って来て報告した』。",
+      "label_en": "to return",
+      "def_en": "To go back, to return: “I will return and rebuild the fallen tent of David”, “returned and reported”.",
+      "label_es": "volver / regresar",
+      "def_es": "Volver, regresar: «volveré y reedificaré el tabernáculo caído de David», «volvieron y dieron aviso».",
+      "label_sv": "att vända tillbaka",
+      "def_sv": "Att gå tillbaka, återvända: ”jag ska vända tillbaka och bygga upp Davids fallna hydda”, ”kom tillbaka och rapporterade”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒15:16・5:22。LXX 列王記上11:22、教父に並行。"
+    },
+    {
+      "n": 3,
+      "label_ja": "扱われる",
+      "def_ja": "扱いを受ける。『そのような扱いを受けている人々の仲間となった』（ヘブル10:33）。",
+      "label_en": "to be treated",
+      "def_en": "To receive treatment: “became partners with those so treated” (Heb 10:33).",
+      "label_es": "ser tratado",
+      "def_es": "Recibir un trato: «compañeros de los que estaban en una situación semejante» (He 10:33).",
+      "label_sv": "att behandlas",
+      "def_sv": "Att utsättas för en behandling: ”stod på samma sida som dem som behandlades så” (Heb 10:33).",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヘブル10:33 の1例のみ。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    },
+    {
+      "n": 4,
+      "label_ja": "ひっくり返す",
+      "def_ja": "ひっくり返す、倒す。『両替人の台を倒し』（ヨハネ2:15）。",
+      "label_en": "to overturn",
+      "def_en": "To overturn, to knock over: “overturned the tables of the money changers” (John 2:15).",
+      "label_es": "volcar",
+      "def_es": "Volcar, derribar: «volcó las mesas de los cambistas» (Jn 2:15).",
+      "label_sv": "att välta",
+      "def_sv": "Att välta och slå omkull: ”välte växlarnas bord” (Joh 2:15).",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ヨハネ2:15 の1例のみ。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1PE 1:17": 1,
+    "1TI 3:15": 1,
+    "2CO 1:12": 1,
+    "2PE 2:18": 1,
+    "ACT 15:16": 2,
+    "ACT 5:22": 2,
+    "EPH 2:3": 1,
+    "HEB 13:18": 1,
+    "HEB 10:33": 3,
+    "JHN 2:15": 4
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。"
+}

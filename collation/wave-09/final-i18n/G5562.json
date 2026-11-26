@@ -1,0 +1,72 @@
+{
+  "strong": "G5562",
+  "lemma": "χωρέω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "入れる／収容する（容量）",
+      "def_ja": "収容できる、入る容量がある。『水がめは二、三メトレテスを入れる』『世界もその書かれた書物を収めきれない』『戸口のあたりまでも余地がなく』。",
+      "label_en": "to hold (capacity)",
+      "def_en": "To be able to contain, to have room for: “the jars hold two or three measures”, “the world itself could not contain the books that would be written”, “there was no more room, not even at the door”.",
+      "label_es": "caber / contener (capacidad)",
+      "def_es": "Poder contener, tener cabida: «en cada una cabían dos o tres cántaros», «ni en el mundo cabrían los libros», «ya no cabían ni aun a la puerta».",
+      "label_sv": "att rymma",
+      "def_sv": "Att kunna innehålla, ha plats för: ”krukorna rymde två eller tre mått”, ”inte ens världen kunde rymma böckerna”, ”det fanns inte plats ens vid dörren”.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヨハネ2:6・21:25、マルコ2:2。LXX 列王記上7:26・歴代誌下4:5、教父に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "受け入れる／場所を空ける",
+      "def_ja": "受け入れる、場所を空ける、理解する。『わたしたちに場所を空けてください』『このことばはだれでも受け入れられるものではない』『受け入れられる者は受け入れよ』『わたしの言葉があなたがたの内に入らない』。",
+      "label_en": "to receive / make room for",
+      "def_en": "To accept, make room, understand: “make room for us in your hearts”, “not everyone can receive this saying”, “let the one who is able to receive it receive it”, “my word finds no place in you”.",
+      "label_es": "admitir / dar cabida",
+      "def_es": "Aceptar, hacer sitio, comprender: «admitidnos», «no todos son capaces de recibir esto», «el que sea capaz de recibirlo, que lo reciba», «mi palabra no halla cabida en vosotros».",
+      "label_sv": "att ta emot / ge rum",
+      "def_sv": "Att ta emot, ge plats, förstå: ”ge oss rum i era hjärtan”, ”alla kan inte ta emot detta ord”, ”den som kan ta emot det må göra det”, ”mitt ord får inte rum i er”.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅱコリ7:2、マタイ19:11・19:12（2回）、ヨハネ8:37。LXX 創世記13:6・知恵7:23、教父（3.5.1）に並行。"
+    },
+    {
+      "n": 3,
+      "label_ja": "通る／至る",
+      "def_ja": "通って行く、至る。『口に入るものは腹を通って』『みなが悔い改めに至るように』。",
+      "label_en": "to pass / reach",
+      "def_en": "To pass through, to come to: “whatever goes into the mouth passes into the stomach”, “that all should reach repentance”.",
+      "label_es": "pasar / llegar",
+      "def_es": "Pasar, llegar a: «lo que entra en la boca va al vientre», «que todos procedan al arrepentimiento».",
+      "label_sv": "att gå / nå fram",
+      "def_sv": "Att passera, nå fram till: ”det som går in i munnen går ner i magen”, ”att alla ska få tid att omvända sig”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "マタイ15:17、Ⅱペテロ3:9。LXX・教父（10.2.5）に並行。語義2との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "2CO 7:2": 2,
+    "2PE 3:9": 3,
+    "JHN 2:6": 1,
+    "JHN 21:25": 1,
+    "JHN 8:37": 2,
+    "MAT 15:17": 3,
+    "MAT 19:11": 2,
+    "MAT 19:12#1": 2,
+    "MAT 19:12#2": 2,
+    "MRK 2:2": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（容量／受け入れる／通る）による。"
+}

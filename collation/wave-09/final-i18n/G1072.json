@@ -1,0 +1,54 @@
+{
+  "strong": "G1072",
+  "lemma": "γεμίζω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "満たす",
+      "def_ja": "満たす、いっぱいにする。『かめに水を満たしなさい』『パン切れを集めると十二のかごがいっぱいになった』『豚の食べるいなご豆で腹を満たしたい』『婚宴の席が客でいっぱいになる』『海綿に酢を含ませ』『神殿は煙で満たされ』『香炉に火を満たし』。",
+      "label_en": "to fill",
+      "def_en": "To fill, to make full: “fill the jars with water”, “filled twelve baskets with fragments”, “longing to fill his stomach with the pods the pigs ate”, “that the wedding hall be filled with guests”, “filled a sponge with sour wine”, “the temple was filled with smoke”, “filled the censer with fire”.",
+      "label_es": "llenar",
+      "def_es": "Llenar, colmar: «llenad estas tinajas de agua», «llenaron doce cestas de pedazos», «deseaba llenar su vientre de las algarrobas», «las bodas se llenaron de convidados», «empapó una esponja en vinagre», «el templo se llenó de humo», «llenó el incensario del fuego».",
+      "label_sv": "att fylla",
+      "def_sv": "Att göra full: ”fyll kärlen med vatten”, ”fyllde tolv korgar med bitar”, ”längtade efter att få fylla magen med fröskidorna”, ”så att bröllopssalen blir full av gäster”, ”fyllde en svamp med ättiksvin”, ”templet fylldes av rök”, ”fyllde rökelsekaret med eld”.",
+      "layers": {
+        "nt": 8,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヨハネ2:7（2回）・6:13、ルカ15:16・14:23、マルコ15:36、黙示録15:8・8:5。LXX 創世記45:17・Ⅲマカバイ、教父（17.5.3）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "水をかぶる",
+      "def_ja": "水を含んで満ちる（舟が）。『舟は水でいっぱいになり』（マルコ4:37）。",
+      "label_en": "to take on water",
+      "def_en": "To fill with water (a boat): “the boat was already filling” (Mark 4:37).",
+      "label_es": "anegarse",
+      "def_es": "Llenarse de agua (la barca): «la barca ya se anegaba» (Mr 4:37).",
+      "label_sv": "att ta in vatten",
+      "def_sv": "Att fyllas av vatten (båten): ”båten höll redan på att fyllas” (Mark 4:37).",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マルコ4:37 の1例のみ。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "JHN 2:7#1": 1,
+    "JHN 2:7#2": 1,
+    "JHN 6:13": 1,
+    "LUK 15:16": 1,
+    "LUK 14:23": 1,
+    "MRK 15:36": 1,
+    "MRK 4:37": 2,
+    "REV 15:8": 1,
+    "REV 8:5": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。"
+}

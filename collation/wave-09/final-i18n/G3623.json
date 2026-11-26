@@ -1,0 +1,72 @@
+{
+  "strong": "G3623",
+  "lemma": "οἰκονόμος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "家令／管理人（財産の）",
+      "def_ja": "家や財産の管理人、家令。『忠実で賢い管理人』『ある金持ちに管理人がいた』『不正な管理人』『後見人や管理人の監督のもとにある』。",
+      "label_en": "steward / manager (of property)",
+      "def_en": "The manager of a house or property, a steward: “the faithful and wise steward”, “a rich man had a steward”, “the dishonest manager”, “under guardians and managers”.",
+      "label_es": "mayordomo / administrador (de bienes)",
+      "def_es": "Administrador de casa o hacienda: «el mayordomo fiel y prudente», «había un hombre rico que tenía un mayordomo», «el mayordomo malo», «bajo tutores y curadores».",
+      "label_sv": "förvaltare (av egendom)",
+      "def_sv": "Förvaltaren av ett hus eller en egendom: ”den trogne och kloke förvaltaren”, ”en rik man hade en förvaltare”, ”den ohederlige förvaltaren”, ”under förmyndare och förvaltare”.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ12:42・16:1・16:3・16:8、ガラテヤ4:2。LXX 列王記上18:3・Ⅱ列王記18:18 に並行。教父の代表例では確認していない。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "神の奥義・恵みの管理人",
+      "def_ja": "神の奥義・恵みを託された管理人。『神の奥義の管理人』『管理者に求められるのは忠実』『神のさまざまな恵みの良い管理者』『神の家令』。",
+      "label_en": "steward of God's mysteries and grace",
+      "def_en": "A steward entrusted with God's mysteries and grace: “stewards of the mysteries of God”, “it is required of stewards that they be faithful”, “good stewards of God's varied grace”, “God's steward”.",
+      "label_es": "administrador de los misterios y la gracia de Dios",
+      "def_es": "Aquel a quien se confían los misterios y la gracia: «administradores de los misterios de Dios», «se requiere de los administradores que sean fieles», «buenos administradores de la multiforme gracia de Dios», «administrador de Dios».",
+      "label_sv": "förvaltare av Guds hemligheter och nåd",
+      "def_sv": "En som anförtrotts Guds hemligheter och nåd: ”förvaltare av Guds hemligheter”, ”av förvaltare krävs trohet”, ”goda förvaltare av Guds mångfaldiga nåd”, ”Guds förvaltare”.",
+      "layers": {
+        "nt": 4,
+        "lxx": "none",
+        "fathers": "attested"
+      },
+      "note": "Ⅰコリ4:1・4:2、Ⅰペテロ4:10、テトス1:7。教父（7.6.1）に並行。LXX の代表例では確認していない。語義1との境界は連続的。"
+    },
+    {
+      "n": 3,
+      "label_ja": "市の会計係",
+      "def_ja": "市の財務を扱う者。『市の会計係エラスト』（ローマ16:23）。",
+      "label_en": "city treasurer",
+      "def_en": "One who handles a city's finances: “Erastus, the city treasurer” (Rom 16:23).",
+      "label_es": "tesorero de la ciudad",
+      "def_es": "El que maneja las finanzas de la ciudad: «Erasto, tesorero de la ciudad» (Ro 16:23).",
+      "label_sv": "stadens kassör",
+      "def_sv": "Den som sköter stadens ekonomi: ”Erastos, stadens kassör” (Rom 16:23).",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ローマ16:23 の1例のみ。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 4:1": 2,
+    "1CO 4:2": 2,
+    "1PE 4:10": 2,
+    "GAL 4:2": 1,
+    "LUK 12:42": 1,
+    "LUK 16:1": 1,
+    "LUK 16:3": 1,
+    "LUK 16:8": 1,
+    "ROM 16:23": 3,
+    "TIT 1:7": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は対象（財産／神の奥義／市の会計）による。"
+}

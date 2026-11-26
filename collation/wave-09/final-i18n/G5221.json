@@ -1,0 +1,55 @@
+{
+  "strong": "G5221",
+  "lemma": "ὑπαντάω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "出迎える／出会う",
+      "def_ja": "出迎える、出会う、行き合う。『占いの霊につかれた女奴隷がわたしたちに出会った』『群衆が出迎えに来た』『マルタが出迎え』『しもべたちが迎えに出て』『悪霊につかれた者が出迎えた』『イエスは彼らに出会い』。",
+      "label_en": "to meet / go out to meet",
+      "def_en": "To go to meet, to come upon, to encounter: “a slave girl with a spirit of divination met us”, “a crowd met him”, “Martha went to meet him”, “his servants met him”, “a demon-possessed man met him”, “Jesus met them”.",
+      "label_es": "salir al encuentro / encontrarse con",
+      "def_es": "Salir a recibir, encontrar, toparse: «nos salió al encuentro una muchacha con espíritu de adivinación», «una gran multitud le salió al encuentro», «Marta salió a encontrarle», «sus siervos salieron a recibirle», «le salió al encuentro un endemoniado», «Jesús les salió al encuentro».",
+      "label_sv": "att möta / gå till mötes",
+      "def_sv": "Att gå någon till mötes, träffa, stöta på: ”en slavflicka med en spådomsande mötte oss”, ”en folkskara kom emot honom”, ”Marta gick honom till mötes”, ”tjänarna mötte honom”, ”en besatt kom emot honom”, ”Jesus mötte dem”.",
+      "layers": {
+        "nt": 9,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒16:16、ヨハネ12:18・11:20・11:30・4:51、ルカ8:27、マタイ28:9・8:28、マルコ5:2。LXX シラ9:3・ダニエル10:14、教父（4.2.1、8.2）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "立ち向かう（戦いで）",
+      "def_ja": "戦いで立ち向かう。『二万の敵を一万の兵で迎え撃つ』（ルカ14:31）。",
+      "label_en": "to confront (in battle)",
+      "def_en": "To face in battle: “to meet him who comes against him with twenty thousand, with ten thousand” (Luke 14:31).",
+      "label_es": "hacer frente (en la guerra)",
+      "def_es": "Plantar cara en combate: «hacer frente con diez mil al que viene contra él con veinte mil» (Lc 14:31).",
+      "label_sv": "att möta (i strid)",
+      "def_sv": "Att gå emot i strid: ”med tiotusen möta den som kommer med tjugotusen” (Luk 14:31).",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ルカ14:31 の1例のみ。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 16:16": 1,
+    "JHN 12:18": 1,
+    "JHN 11:20": 1,
+    "JHN 11:30": 1,
+    "JHN 4:51": 1,
+    "LUK 14:31": 2,
+    "LUK 8:27": 1,
+    "MAT 28:9": 1,
+    "MAT 8:28": 1,
+    "MRK 5:2": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（出迎え／迎撃）による。"
+}

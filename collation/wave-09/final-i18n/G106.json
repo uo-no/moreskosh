@@ -1,0 +1,54 @@
+{
+  "strong": "G106",
+  "lemma": "ἄζυμος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "種なしパン（祭り）",
+      "def_ja": "『種なしパン』、その祭り。『種入れぬパンの祭りの日』『過越と種入れぬパンの祭り』『種入れぬパンの日々』。",
+      "label_en": "Unleavened Bread (festival)",
+      "def_en": "“Unleavened bread” and its festival: “the day of Unleavened Bread”, “the Passover and Unleavened Bread”, “the days of Unleavened Bread”.",
+      "label_es": "Panes sin levadura (fiesta)",
+      "def_es": "«Los panes sin levadura» y su fiesta: «el primer día de la fiesta de los panes sin levadura», «la pascua y los panes sin levadura», «los días de los panes sin levadura».",
+      "label_sv": "det osyrade brödet (högtiden)",
+      "def_sv": "”Det osyrade brödet” och dess högtid: ”det osyrade brödets dag”, ”påsken och det osyrade brödets högtid”, ”det osyrade brödets dagar”.",
+      "layers": {
+        "nt": 7,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒12:3・20:6、ルカ22:1・22:7、マタイ26:17、マルコ14:1・14:12。LXX 出エジプト記34:18・レビ記6:9 に並行。教父の用例は無い。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "種なしの（比喩）",
+      "def_ja": "混ぜ物のない、種なしの（真実・純粋さの比喩）。『あなたがたはパン種のない者』『純粋で真実の種なしパンで祭りをしよう』。",
+      "label_en": "unleavened (figurative)",
+      "def_en": "Unmixed, unleavened (a figure of truth and purity): “you really are unleavened”, “let us celebrate the festival with the unleavened bread of sincerity and truth”.",
+      "label_es": "sin levadura (figurado)",
+      "def_es": "Sin mezcla, sin levadura (figura de verdad y pureza): «como sois, sin levadura», «celebremos la fiesta con panes sin levadura, de sinceridad y de verdad».",
+      "label_sv": "osyrad (bildligt)",
+      "def_sv": "Oblandad, osyrad (bild för sanning och renhet): ”ni är ju osyrade”, ”låt oss fira högtiden med renhetens och sanningens osyrade bröd”.",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "Ⅰコリ5:7・5:8。語義1との境界は連続的。LXX 代表例に並行。教父の用例は無い。"
+    }
+  ],
+  "assignments": {
+    "1CO 5:7": 2,
+    "1CO 5:8": 2,
+    "ACT 12:3": 1,
+    "ACT 20:6": 1,
+    "LUK 22:1": 1,
+    "LUK 22:7": 1,
+    "MAT 26:17": 1,
+    "MRK 14:1": 1,
+    "MRK 14:12": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（種なしパン／比喩）による。教父の用例は無い。"
+}

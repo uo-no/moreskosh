@@ -1,0 +1,54 @@
+{
+  "strong": "G1137",
+  "lemma": "γωνία",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "隅／要石（κεφαλὴ γωνίας）",
+      "def_ja": "『隅のかしら石』の句の中の語。『隅のかしら石となった』『家を建てる者の捨てた石が、隅のかしら石となった』『生ける石』。",
+      "label_en": "corner / cornerstone (κεφαλὴ γωνίας)",
+      "def_en": "The word in the phrase “the head of the corner”: “has become the cornerstone”, “the stone that the builders rejected has become the cornerstone”, “living stone”.",
+      "label_es": "ángulo / piedra angular (κεφαλὴ γωνίας)",
+      "def_es": "La palabra de la frase «cabeza del ángulo»: «ha venido a ser cabeza del ángulo», «la piedra que desecharon los edificadores ha venido a ser la principal», «piedra viva».",
+      "label_sv": "hörn / hörnsten (κεφαλὴ γωνίας)",
+      "def_sv": "Ordet i uttrycket ”hörnets huvudsten”: ”har blivit en hörnsten”, ”stenen som byggarna ratade har blivit en hörnsten”, ”den levande stenen”.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰペテロ2:7、使徒4:11、ルカ20:17、マタイ21:42、マルコ12:10（詩篇117:22 の引用）。LXX 詩篇117:22・教父（6.4）に並行。指す対象の解釈は付さない。"
+    },
+    {
+      "n": 2,
+      "label_ja": "隅／角（場所）",
+      "def_ja": "隅、角、四隅。『会堂や大通りの角に立って』『この事は片隅で行われたのではない』『地の四隅』『地の四方』。",
+      "label_en": "corner (place)",
+      "def_en": "A corner, the four corners: “standing in synagogues and at street corners”, “this was not done in a corner”, “the four corners of the earth”, “the four quarters of the earth”.",
+      "label_es": "esquina / rincón (lugar)",
+      "def_es": "Esquina, rincón, los cuatro ángulos: «en pie en las sinagogas y en las esquinas de las calles», «no se ha hecho en algún rincón», «los cuatro ángulos de la tierra», «los cuatro puntos de la tierra».",
+      "label_sv": "hörn / vrå (plats)",
+      "def_sv": "Hörn, vrå, de fyra hörnen: ”stå i synagogorna och i gathörnen”, ”detta har inte skett i en vrå”, ”jordens fyra hörn”, ”jordens fyra väderstreck”.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒26:26、マタイ6:5、黙示録20:8・7:1。LXX 詩篇・ゼカリヤ、教父（26.2.3）に並行。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "1PE 2:7": 1,
+    "ACT 26:26": 2,
+    "ACT 4:11": 1,
+    "LUK 20:17": 1,
+    "MAT 21:42": 1,
+    "MAT 6:5": 2,
+    "MRK 12:10": 1,
+    "REV 20:8": 2,
+    "REV 7:1": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（隅の石の句／場所）による。"
+}

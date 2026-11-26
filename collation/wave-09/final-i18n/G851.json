@@ -1,0 +1,55 @@
+{
+  "strong": "G851",
+  "lemma": "ἀφαιρέω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "取り除く／奪う",
+      "def_ja": "取り除く、取り去る、奪う。『罪を除くことはできない』『彼女から取り去られることはない』『管理の務めをわたしから取り上げる』『わたしの恥を取り除いて』『この書の預言のことばから取り除くなら』『彼らの罪を取り除く』。",
+      "label_en": "to take away / remove",
+      "def_en": "To take away, remove, deprive of: “cannot take away sins”, “will not be taken away from her”, “is taking the management away from me”, “to take away my reproach”, “if anyone takes away from the words of the book of this prophecy”, “when I take away their sins”.",
+      "label_es": "quitar / arrebatar",
+      "def_es": "Quitar, apartar, privar: «no puede quitar los pecados», «no le será quitada», «me quita la mayordomía», «para quitar mi afrenta», «si alguno quitare de las palabras del libro de esta profecía», «cuando yo quite sus pecados».",
+      "label_sv": "att ta bort / ta ifrån",
+      "def_sv": "Att avlägsna, ta ifrån: ”kan inte ta bort synder”, ”ska inte tas ifrån henne”, ”tar ifrån mig förvaltningen”, ”ta bort min skam”, ”om någon tar bort något av orden i denna boks profetia”, ”när jag tar bort deras synder”.",
+      "layers": {
+        "nt": 7,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヘブル10:4、ルカ10:42・16:3・1:25、黙示録22:19（2回）、ローマ11:27。LXX 申命記・イザヤ、教父（19.11、8.4）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "切り落とす",
+      "def_ja": "切り落とす、切り離す。『その耳を切り落とした』『右の耳を切り落とした』。",
+      "label_en": "to cut off",
+      "def_en": "To cut off, to sever: “cut off his ear”, “cut off his right ear”.",
+      "label_es": "cortar",
+      "def_es": "Cortar, separar: «le cortó la oreja», «le cortó la oreja derecha».",
+      "label_sv": "att hugga av",
+      "def_sv": "Att skära eller hugga av: ”högg av örat på honom”, ”högg av hans högra öra”.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ルカ22:50、マタイ26:51、マルコ14:47。語義1との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "HEB 10:4": 1,
+    "LUK 10:42": 1,
+    "LUK 16:3": 1,
+    "LUK 1:25": 1,
+    "LUK 22:50": 2,
+    "MAT 26:51": 2,
+    "MRK 14:47": 2,
+    "REV 22:19#1": 1,
+    "REV 22:19#2": 1,
+    "ROM 11:27": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（取り除く／切り落とす）による。"
+}

@@ -1,0 +1,55 @@
+{
+  "strong": "G618",
+  "lemma": "ἀπολαμβάνω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "受ける／受け取る／取り戻す",
+      "def_ja": "受け取る、報いを受ける、取り戻す。『満ちた報いを受けるために』『報いとして嗣業を受ける』『子としての身分を受けるため』『彼が無事で戻ったのを迎えたから』『あなたは生きている間に良いものを受けた』『百倍を受け』『当然の報いを受けている』『同じだけを返してもらう』『その誤りの当然の報いを身に受け』。",
+      "label_en": "to receive / get back",
+      "def_en": "To receive, to be recompensed, to get back: “that you may receive a full reward”, “receive the inheritance as your reward”, “receive adoption as sons”, “because he has received him back safe and sound”, “in your lifetime you received good things”, “receive a hundredfold”, “receiving the due reward”, “to get back as much”, “receiving in themselves the due penalty for their error”.",
+      "label_es": "recibir / recobrar",
+      "def_es": "Recibir, obtener la paga, recuperar: «para que recibáis galardón completo», «recibiréis la recompensa de la herencia», «recibir la adopción de hijos», «por haberlo recibido bueno y sano», «recibiste tus bienes en tu vida», «recibir cien veces más», «recibimos lo que merecieron nuestros hechos», «para recibir otro tanto», «recibiendo en sí mismos la retribución debida a su extravío».",
+      "label_sv": "att få / få tillbaka",
+      "def_sv": "Att ta emot, få sin lön, återfå: ”så att ni får full lön”, ”få arvet som lön”, ”få söners rätt”, ”för att han fått honom välbehållen tillbaka”, ”du fick ditt goda under livstiden”, ”få hundrafalt”, ”vi får vad våra gärningar förtjänar”, ”för att få lika mycket tillbaka”, ”fick själva ta det straff villfarelsen förtjänade”.",
+      "layers": {
+        "nt": 9,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅱヨハネ8、コロサイ3:24、ガラテヤ4:5、ルカ15:27・16:25・18:30・23:41・6:34、ローマ1:27。LXX 民数記34:14・Ⅱマカバイ、教父（26.18.4、9.5）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "脇に連れて行く",
+      "def_ja": "脇へ連れて行く。『群衆の中から彼をひとり連れ出し』（マルコ7:33）。",
+      "label_en": "to take aside",
+      "def_en": "To lead to one side: “taking him aside from the crowd privately” (Mark 7:33).",
+      "label_es": "llevar aparte",
+      "def_es": "Apartar con alguien: «tomándole aparte de la gente» (Mr 7:33).",
+      "label_sv": "att ta avsides",
+      "def_sv": "Att föra åt sidan: ”tog honom avsides från folket” (Mark 7:33).",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "マルコ7:33 の1例のみ。語義1との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "2JN 1:8": 1,
+    "COL 3:24": 1,
+    "GAL 4:5": 1,
+    "LUK 15:27": 1,
+    "LUK 16:25": 1,
+    "LUK 18:30": 1,
+    "LUK 23:41": 1,
+    "LUK 6:34": 1,
+    "MRK 7:33": 2,
+    "ROM 1:27": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。"
+}

@@ -1,0 +1,54 @@
+{
+  "strong": "G1204",
+  "lemma": "δεῦρο",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "さあ来なさい／ここへ来なさい",
+      "def_ja": "『来なさい』『ここへ』。『わたしが示す地へ行きなさい』『さあ、あなたをエジプトに遣わす』『ラザロよ、出て来なさい』『わたしについて来なさい』『ここに来なさい』。",
+      "label_en": "come / come here",
+      "def_en": "“Come”, “here”: “go into the land that I will show you”, “now come, I will send you to Egypt”, “Lazarus, come out”, “follow me”, “come here”.",
+      "label_es": "ven / ven acá",
+      "def_es": "«Ven», «acá»: «ven a la tierra que yo te mostraré», «ahora, pues, ven, te enviaré a Egipto», «¡Lázaro, ven fuera!», «ven y sígueme», «ven acá».",
+      "label_sv": "kom / kom hit",
+      "def_sv": "”Kom”, ”hit”: ”gå till det land jag ska visa dig”, ”kom nu, jag sänder dig till Egypten”, ”Lasarus, kom ut”, ”kom och följ mig”, ”kom hit”.",
+      "layers": {
+        "nt": 8,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒7:3・7:34、ヨハネ11:43、ルカ18:22、マタイ19:21、マルコ10:21、黙示録17:1・21:9。LXX 創世記・出エジプト記、教父（4.7.2）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "今まで（時）",
+      "def_ja": "今まで、これまで。『今までは妨げられてきた』（ローマ1:13）。",
+      "label_en": "until now (time)",
+      "def_en": "Until now, so far: “I have been prevented thus far” (Rom 1:13).",
+      "label_es": "hasta ahora (tiempo)",
+      "def_es": "Hasta el presente: «hasta ahora he sido estorbado» (Ro 1:13).",
+      "label_sv": "hittills (tid)",
+      "def_sv": "Fram till nu: ”hittills har jag blivit hindrad” (Rom 1:13).",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ローマ1:13 の1例のみ（時の用法）。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 7:3": 1,
+    "ACT 7:34": 1,
+    "JHN 11:43": 1,
+    "LUK 18:22": 1,
+    "MAT 19:21": 1,
+    "MRK 10:21": 1,
+    "REV 17:1": 1,
+    "REV 21:9": 1,
+    "ROM 1:13": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（場所／時）による。"
+}

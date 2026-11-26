@@ -1,0 +1,55 @@
+{
+  "strong": "G5564",
+  "lemma": "χωρίον",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "地所／畑",
+      "def_ja": "土地、地所、畑。『その地所は〈血の地所〉と呼ばれ』『畑を買い』『その島の第一人者の領地』『地所や家を持つ者』『その地所の代金』『ヤコブがヨセフに与えた地所』。",
+      "label_en": "plot of land / field",
+      "def_en": "Land, a plot of ground: “that field was called the Field of Blood”, “bought a field”, “lands belonging to the chief man of the island”, “owners of lands or houses”, “the price of the land”, “the field Jacob had given to Joseph”.",
+      "label_es": "terreno / heredad",
+      "def_es": "Tierra, parcela: «aquella heredad se llama Campo de Sangre», «adquirió un campo», «las propiedades del hombre principal de la isla», «los que poseían heredades o casas», «el precio de la heredad», «la heredad que Jacob dio a José».",
+      "label_sv": "jordstycke / åker",
+      "def_sv": "Mark, ett stycke jord: ”åkern kallas Blodsåkern”, ”köpte en åker”, ”egendomen som tillhörde den främste mannen på ön”, ”de som ägde jord eller hus”, ”betalningen för jorden”, ”marken som Jakob gav Josef”.",
+      "layers": {
+        "nt": 8,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "使徒1:18・1:19（2回）・28:7・4:34・5:3・5:8、ヨハネ4:5。LXX Ⅰ歴代誌27:27・Ⅱマカバイ、教父に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "場所（ゲツセマネ）",
+      "def_ja": "場所。『ゲツセマネという所』（マタイ26:36、マルコ14:32）。",
+      "label_en": "place (Gethsemane)",
+      "def_en": "A place: “a place called Gethsemane” (Matt 26:36; Mark 14:32).",
+      "label_es": "lugar (Getsemaní)",
+      "def_es": "Lugar: «un lugar que se llama Getsemaní» (Mt 26:36; Mr 14:32).",
+      "label_sv": "ställe (Getsemane)",
+      "def_sv": "Ett ställe: ”en plats som heter Getsemane” (Matt 26:36; Mark 14:32).",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "マタイ26:36、マルコ14:32。LXX Ⅱマカバイ12:21・教父（4.praef.1）に並行。語義1との境界は連続的。"
+    }
+  ],
+  "assignments": {
+    "ACT 1:18": 1,
+    "ACT 1:19#1": 1,
+    "ACT 1:19#2": 1,
+    "ACT 28:7": 1,
+    "ACT 4:34": 1,
+    "ACT 5:3": 1,
+    "ACT 5:8": 1,
+    "JHN 4:5": 1,
+    "MAT 26:36": 2,
+    "MRK 14:32": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（地所／場所）による。"
+}

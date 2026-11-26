@@ -1,0 +1,55 @@
+{
+  "strong": "G5544",
+  "lemma": "χρηστότης",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "親切／慈愛／善意",
+      "def_ja": "親切、慈愛、善意。『純潔と知識と寛容と親切』『慈愛、柔和、寛容』『キリスト・イエスにあって与えられた慈愛』『御霊の実は親切』『神の慈愛と厳しさ』『神の慈愛があなたを悔い改めに導く』『救い主なる神の慈愛』。",
+      "label_en": "kindness / goodness",
+      "def_en": "Kindness, benevolence, goodwill: “purity, knowledge, patience, kindness”, “kindness, gentleness, patience”, “kindness toward us in Christ Jesus”, “the fruit of the Spirit is kindness”, “the kindness and severity of God”, “God's kindness leads you to repentance”, “the goodness of God our Saviour”.",
+      "label_es": "bondad / benignidad",
+      "def_es": "Amabilidad, benignidad, buena voluntad: «en pureza, en ciencia, en longanimidad, en bondad», «benignidad, mansedumbre, paciencia», «su bondad para con nosotros en Cristo Jesús», «el fruto del Espíritu es benignidad», «la bondad y la severidad de Dios», «su benignidad te guía al arrepentimiento», «la bondad de Dios nuestro Salvador».",
+      "label_sv": "godhet / mildhet",
+      "def_sv": "Vänlighet, godhet, välvilja: ”renhet, insikt, tålamod, vänlighet”, ”godhet, mildhet, tålamod”, ”godhet mot oss i Kristus Jesus”, ”Andens frukt är vänlighet”, ”Guds godhet och stränghet”, ”Guds godhet för dig till omvändelse”, ”Guds, vår Frälsares, godhet”.",
+      "layers": {
+        "nt": 9,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅱコリ6:6、コロサイ3:12、エペソ2:7、ガラテヤ5:22、ローマ11:22（3回）・2:4、テトス3:4。LXX 詩篇67:11・5:15、教父（10、19.1）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "善（善を行うこと）",
+      "def_ja": "善、善行。『善を行う者はいない』（ローマ3:12、詩篇14:3 の引用）。",
+      "label_en": "good (doing good)",
+      "def_en": "Good, the doing of good: “no one does good” (Rom 3:12, quoting Ps 14:3).",
+      "label_es": "lo bueno (hacer el bien)",
+      "def_es": "El bien, las buenas obras: «no hay quien haga lo bueno» (Ro 3:12, cita de Sal 14:3).",
+      "label_sv": "det goda (att göra gott)",
+      "def_sv": "Det goda, goda gärningar: ”ingen finns som gör det goda” (Rom 3:12, citat av Ps 14:3).",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ローマ3:12 の1例のみ。語義1との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "2CO 6:6": 1,
+    "COL 3:12": 1,
+    "EPH 2:7": 1,
+    "GAL 5:22": 1,
+    "ROM 11:22#1": 1,
+    "ROM 11:22#2": 1,
+    "ROM 11:22#3": 1,
+    "ROM 3:12": 2,
+    "ROM 2:4": 1,
+    "TIT 3:4": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。"
+}

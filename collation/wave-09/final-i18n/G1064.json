@@ -1,0 +1,54 @@
+{
+  "strong": "G1064",
+  "lemma": "γαστήρ",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "胎／腹（ἐν γαστρὶ ἔχειν：身ごもる）",
+      "def_ja": "胎内。『身ごもっている』『身ごもって』『胎内に宿し』『身重の女たち』『妊娠している女は災いだ』『産みの苦しみが妊婦に臨むように』『身ごもっていて』。",
+      "label_en": "womb (ἐν γαστρὶ ἔχειν: to be pregnant)",
+      "def_en": "The womb: “is with child”, “being pregnant”, “shall conceive in the womb”, “women who are with child”, “woe to those who are pregnant”, “as labour pains come upon a pregnant woman”, “was pregnant”.",
+      "label_es": "vientre (ἐν γαστρὶ ἔχειν: estar encinta)",
+      "def_es": "El seno materno: «está encinta», «habiendo concebido», «concebirás en tu vientre», «las que estén encintas», «¡ay de las que estén encintas!», «como dolores a la mujer encinta», «estando encinta».",
+      "label_sv": "moderliv (ἐν γαστρὶ ἔχειν: vara havande)",
+      "def_sv": "Moderlivet: ”är havande”, ”hade blivit med barn”, ”ska bli havande”, ”de havande kvinnorna”, ”ve dem som väntar barn”, ”som värkarna kommer över en havande kvinna”, ”var havande”.",
+      "layers": {
+        "nt": 8,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰテサ5:3、ルカ1:31・21:23、マタイ1:18・1:23・24:19、マルコ13:17、黙示録12:2。LXX 創世記25:23・箴言、教父（13.2）に並行。"
+    },
+    {
+      "n": 2,
+      "label_ja": "大食らい（腹）",
+      "def_ja": "腹、大食らい。『怠け者の大食らい』（テトス1:12）。",
+      "label_en": "glutton (belly)",
+      "def_en": "Belly, glutton: “lazy gluttons” (Titus 1:12).",
+      "label_es": "glotón (vientre)",
+      "def_es": "Vientre, comilón: «glotones ociosos» (Tit 1:12).",
+      "label_sv": "frossare (buk)",
+      "def_sv": "Buk, storätare: ”lata frossare” (Tit 1:12).",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "テトス1:12 の1例のみ。語義1との境界は連続的。LXX・教父（21.2）に並行。"
+    }
+  ],
+  "assignments": {
+    "1TH 5:3": 1,
+    "LUK 1:31": 1,
+    "LUK 21:23": 1,
+    "MAT 1:18": 1,
+    "MAT 1:23": 1,
+    "MAT 24:19": 1,
+    "MRK 13:17": 1,
+    "REV 12:2": 1,
+    "TIT 1:12": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（胎／腹）による。"
+}

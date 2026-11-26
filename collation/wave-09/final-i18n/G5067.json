@@ -1,0 +1,55 @@
+{
+  "strong": "G5067",
+  "lemma": "τέταρτος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "第四（時刻・夜警）",
+      "def_ja": "夜の第四の見張り、第四の時。『夜の明けるころ』『四日前のこの時刻』『夜の第四の刻に』。",
+      "label_en": "fourth (hour, watch of the night)",
+      "def_en": "The fourth watch of the night, the fourth hour: “as dawn drew near”, “four days ago at this hour”, “in the fourth watch of the night”.",
+      "label_es": "cuarta (hora, vigilia)",
+      "def_es": "La cuarta vigilia de la noche, la cuarta hora: «al acercarse el alba», «hace cuatro días a esta hora», «a la cuarta vigilia de la noche».",
+      "label_sv": "fjärde (timmen, nattväkten)",
+      "def_sv": "Nattens fjärde väkt, den fjärde stunden: ”mot gryningen”, ”för fyra dagar sedan vid den här tiden”, ”vid fjärde nattväkten”.",
+      "layers": {
+        "nt": 3,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マタイ14:25、マルコ6:48、使徒10:30。LXX・教父の代表例では確認していない（序数としての『第四』は語義2に並行）。"
+    },
+    {
+      "n": 2,
+      "label_ja": "第四（順序）",
+      "def_ja": "順序としての第四。『第四の御使いが鉢を』『第四の生き物』『第四は緑玉髄』『第四の封印』『第四の馬』。",
+      "label_en": "fourth (order)",
+      "def_en": "Fourth in sequence: “the fourth angel poured out his bowl”, “the fourth living creature”, “the fourth chrysoprase”, “the fourth seal”, “the fourth horse”.",
+      "label_es": "cuarto (orden)",
+      "def_es": "El cuarto en una serie: «el cuarto ángel derramó su copa», «el cuarto ser viviente», «el cuarto, crisoprasa», «el cuarto sello», «el cuarto caballo».",
+      "label_sv": "fjärde (i ordningen)",
+      "def_sv": "Den fjärde i en följd: ”den fjärde ängeln tömde sin skål”, ”det fjärde väsendet”, ”den fjärde krysopras”, ”det fjärde sigillet”, ”den fjärde hästen”.",
+      "layers": {
+        "nt": 7,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "黙示録16:8・4:7・21:19・8:12・6:7（2回）・6:8。LXX ダニエル2:40、教父（26.15.3、4.5）に並行。"
+    }
+  ],
+  "assignments": {
+    "ACT 10:30": 1,
+    "MAT 14:25": 1,
+    "MRK 6:48": 1,
+    "REV 16:8": 2,
+    "REV 4:7": 2,
+    "REV 21:19": 2,
+    "REV 8:12": 2,
+    "REV 6:7#1": 2,
+    "REV 6:7#2": 2,
+    "REV 6:8": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（時刻／順序）による。"
+}

@@ -1,0 +1,71 @@
+{
+  "strong": "G1006",
+  "lemma": "βόσκω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "（羊を）養う（ヨハネ21章）",
+      "def_ja": "養う、えさをやる。『わたしの小羊を飼いなさい』『わたしの羊を飼いなさい』（ヨハネ21:15・21:17）。",
+      "label_en": "to feed (sheep, John 21)",
+      "def_en": "To feed, to give pasture: “Feed my lambs”, “Feed my sheep” (John 21:15, 17).",
+      "label_es": "apacentar (ovejas, Juan 21)",
+      "def_es": "Alimentar, dar de comer: «Apacienta mis corderos», «Apacienta mis ovejas» (Jn 21:15, 17).",
+      "label_sv": "att föra i bet (får, Joh 21)",
+      "def_sv": "Att nära och ge föda: ”För mina lamm i bet”, ”För mina får i bet” (Joh 21:15, 17).",
+      "layers": {
+        "nt": 2,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヨハネ21:15・21:17。LXX エゼキエル34:2・創世記29:7、教父に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "飼う（豚飼い）",
+      "def_ja": "家畜を飼う、飼い主。『豚の番をさせた』『飼っていた者たちが逃げ去り』『豚を飼っていた者たちは逃げて』。",
+      "label_en": "to tend (swineherd)",
+      "def_en": "To keep livestock, the keeper: “sent him to feed pigs”, “the herdsmen fled”, “those who fed the pigs fled”.",
+      "label_es": "apacentar (porquerizo)",
+      "def_es": "Cuidar ganado, el porquero: «le envió a apacentar cerdos», «los que los apacentaban huyeron», «los que apacentaban los cerdos huyeron».",
+      "label_sv": "att valla (svinherde)",
+      "def_sv": "Att vakta boskap, herden: ”skickade honom att valla svin”, ”de som vaktade flydde”, ”svinaherdarna flydde”.",
+      "layers": {
+        "nt": 4,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ルカ15:15・8:34、マタイ8:33、マルコ5:14。LXX・教父に並行。"
+    },
+    {
+      "n": 3,
+      "label_ja": "草を食う（家畜が）",
+      "def_ja": "草を食う、えさを食べる。『豚の大群が飼われていた』『そこに大きな豚の群れがえさを食べていた』。",
+      "label_en": "to graze (animals)",
+      "def_en": "To graze, to feed: “a great herd of pigs was feeding”, “a large herd of pigs was feeding there”.",
+      "label_es": "pacer (el ganado)",
+      "def_es": "Pacer, comer: «un hato de muchos cerdos que pacía», «había allí un gran hato de cerdos paciendo».",
+      "label_sv": "att beta (om boskap)",
+      "def_sv": "Att beta och söka föda: ”en stor svinhjord gick och betade”, ”där gick en stor svinhjord på bete”.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ルカ8:32、マタイ8:30、マルコ5:11。LXX 代表例・教父（26.1.8）に並行。"
+    }
+  ],
+  "assignments": {
+    "JHN 21:15": 1,
+    "JHN 21:17": 1,
+    "LUK 15:15": 2,
+    "LUK 8:32": 3,
+    "LUK 8:34": 2,
+    "MAT 8:30": 3,
+    "MAT 8:33": 2,
+    "MRK 5:11": 3,
+    "MRK 5:14": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（養う／飼う／草を食う）による。"
+}

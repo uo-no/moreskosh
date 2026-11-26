@@ -1,0 +1,55 @@
+{
+  "strong": "G4124",
+  "lemma": "πλεονεξία",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "貪欲／強欲",
+      "def_ja": "貪欲、むさぼり、強欲。『貪欲の口実』『貪欲に走り』『貪欲』『貪欲を警戒せよ』『悪意・貪欲』『貪欲であって偶像礼拝』『むさぼりの心』『貪欲に走って』。",
+      "label_en": "greed / covetousness",
+      "def_en": "Greed, covetousness, avarice: “a pretext for greed”, “trained in greed”, “greed”, “be on guard against covetousness”, “malice, greed”, “covetousness, which is idolatry”, “a covetous heart”, “greedy to practise”.",
+      "label_es": "avaricia / codicia",
+      "def_es": "Codicia, avidez, avaricia: «pretexto para la avaricia», «habituado a la codicia», «avaricia», «guardaos de toda avaricia», «maldad, avaricia», «avaricia, que es idolatría», «un corazón codicioso», «con avidez».",
+      "label_sv": "girighet / vinningslystnad",
+      "def_sv": "Girighet, habegär, snikenhet: ”förevändning för vinningslystnad”, ”övade i girighet”, ”habegär”, ”akta er för allt slags habegär”, ”elakhet, girighet”, ”girigheten, som är avgudadyrkan”, ”ett girigt hjärta”, ”med glupskt begär”.",
+      "layers": {
+        "nt": 9,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰテサ2:5、Ⅱペテロ2:3・2:14、コロサイ3:5、エペソ4:19・5:3、ルカ12:15、マルコ7:22、ローマ1:29。LXX 詩篇118:36・Ⅱマカバイ4:50、教父（20.1、11.2.5）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "しぶしぶの贈り物（取り立て）",
+      "def_ja": "しぶしぶ差し出す形の贈り物、取り立て。『惜しみながらの贈り物ではなく』（Ⅱコリ9:5）。",
+      "label_en": "grudging gift (exaction)",
+      "def_en": "A gift offered reluctantly, an exaction: “not as something grudgingly given” (2 Cor 9:5).",
+      "label_es": "dádiva a regañadientes (exigencia)",
+      "def_es": "Dádiva entregada de mala gana, como exacción: «no como de exigencia» (2 Co 9:5).",
+      "label_sv": "motvillig gåva (påtvingad)",
+      "def_sv": "En gåva som lämnas motvilligt, en utpressning: ”inte som något man snålt tvingas till” (2 Kor 9:5).",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "Ⅱコリ9:5 の1例のみ。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1TH 2:5": 1,
+    "2CO 9:5": 2,
+    "2PE 2:3": 1,
+    "2PE 2:14": 1,
+    "COL 3:5": 1,
+    "EPH 4:19": 1,
+    "EPH 5:3": 1,
+    "LUK 12:15": 1,
+    "MRK 7:22": 1,
+    "ROM 1:29": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法による。"
+}

@@ -1,0 +1,55 @@
+{
+  "strong": "G3855",
+  "lemma": "παράγω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "通り過ぎる／通りかかる",
+      "def_ja": "通りかかる、そこを通って行く。『通りがかりに生まれつきの盲人を見られた』『イエスが通っておられる』『そこから進んで行かれたとき』『通りかかったシモンを』『ガリラヤの海べを通りながら』。",
+      "label_en": "to pass by",
+      "def_en": "To pass by, to go through: “as he passed by, he saw a man blind from birth”, “Jesus was passing by”, “as he went on from there”, “a passer-by, Simon”, “passing alongside the Sea of Galilee”.",
+      "label_es": "pasar / ir de paso",
+      "def_es": "Pasar por un lugar: «al pasar vio a un hombre ciego de nacimiento», «Jesús pasaba», «pasando de allí», «a Simón, que pasaba», «andando junto al mar de Galilea».",
+      "label_sv": "att gå förbi / komma förbi",
+      "def_sv": "Att passera, gå sin väg förbi: ”när han kom förbi såg han en man som varit blind från födseln”, ”Jesus gick förbi”, ”när han gick vidare därifrån”, ”Simon, som kom förbi”, ”när han gick längs Galileiska sjön”.",
+      "layers": {
+        "nt": 7,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヨハネ9:1、マタイ20:30・9:9・9:27、マルコ1:16・2:14・15:21。LXX 士師記・サムエル記上16:9、教父に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "過ぎ去る",
+      "def_ja": "過ぎ去る、消えゆく。『この世の有様は過ぎ去る』『闇は過ぎ去り』『世も世の欲も過ぎ去る』。",
+      "label_en": "to pass away",
+      "def_en": "To pass away, to vanish: “the present form of this world is passing away”, “the darkness is passing away”, “the world is passing away along with its desires”.",
+      "label_es": "pasar / desvanecerse",
+      "def_es": "Pasar, ir desapareciendo: «la apariencia de este mundo se pasa», «las tinieblas van pasando», «el mundo pasa, y sus deseos».",
+      "label_sv": "att förgå",
+      "def_sv": "Att gå över, försvinna: ”den nuvarande världsordningen går mot sitt slut”, ”mörkret viker”, ”världen och dess begär förgår”.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "Ⅰコリ7:31、Ⅰヨハネ2:8・2:17。語義1との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "1CO 7:31": 2,
+    "1JN 2:8": 2,
+    "1JN 2:17": 2,
+    "JHN 9:1": 1,
+    "MAT 20:30": 1,
+    "MAT 9:9": 1,
+    "MAT 9:27": 1,
+    "MRK 1:16": 1,
+    "MRK 2:14": 1,
+    "MRK 15:21": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（通る／過ぎ去る）による。"
+}

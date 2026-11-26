@@ -1,0 +1,55 @@
+{
+  "strong": "G4755",
+  "lemma": "στρατηγός",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "長官（ピリピの）／行政官",
+      "def_ja": "市の行政官、長官。『長官たちのもとに連れて行き』『長官たちは衣をはがせ』『長官たちは役人たちを遣わして』『長官たちに報告した』『長官たちは恐れた』。",
+      "label_en": "magistrate (of Philippi)",
+      "def_en": "A city magistrate, a chief official: “brought them to the magistrates”, “the magistrates tore off their garments”, “the magistrates sent the officers”, “reported to the magistrates”, “the magistrates were afraid”.",
+      "label_es": "magistrado (de Filipos)",
+      "def_es": "Magistrado de la ciudad, gobernante local: «presentándolos a los magistrados», «los magistrados mandaron desnudarlos», «los magistrados enviaron alguaciles», «hicieron saber a los magistrados», «tuvieron miedo».",
+      "label_sv": "stadsdomare (i Filippi)",
+      "def_sv": "Stadens ämbetsman eller domare: ”förde dem till stadsdomarna”, ”domarna lät slita av dem kläderna”, ”domarna skickade rättstjänare”, ”rapporterade till domarna”, ”domarna blev rädda”.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒16:20・16:22・16:35・16:36・16:38。LXX Ⅰマカバイ・ネヘミヤ（軍の司令官）に並行する語。教父の用例は無い。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "宮守がしら／隊長",
+      "def_ja": "神殿を守る隊長、守備隊の長。『宮の守衛長』『祭司長や宮守がしらたち』『護衛長は部下とともに』。",
+      "label_en": "captain of the temple / commander",
+      "def_en": "The captain who guards the temple, the head of the guard: “the captain of the temple guard”, “the chief priests and officers of the temple”, “the captain with the officers”.",
+      "label_es": "jefe de la guardia del templo / capitán",
+      "def_es": "El jefe que guarda el templo, el capitán de la guardia: «el jefe de la guardia del templo», «los principales sacerdotes y los jefes de la guardia», «el jefe de la guardia con los alguaciles».",
+      "label_sv": "tempelkommendant / befälhavare",
+      "def_sv": "Befälhavaren för tempelvakten: ”tempelvaktens befälhavare”, ”översteprästerna och tempelvaktens officerare”, ”befälhavaren med sina män”.",
+      "layers": {
+        "nt": 5,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒4:1・5:24・5:26、ルカ22:4・22:52。LXX 代表例に並行。教父の用例は無い。"
+    }
+  ],
+  "assignments": {
+    "ACT 16:20": 1,
+    "ACT 16:22": 1,
+    "ACT 16:35": 1,
+    "ACT 16:36": 1,
+    "ACT 16:38": 1,
+    "ACT 4:1": 2,
+    "ACT 5:24": 2,
+    "ACT 5:26": 2,
+    "LUK 22:4": 2,
+    "LUK 22:52": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用例（行政官／宮守がしら）による。教父の用例は無い。"
+}

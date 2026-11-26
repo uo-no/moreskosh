@@ -1,0 +1,55 @@
+{
+  "strong": "G4386",
+  "lemma": "πρότερος",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "以前に／かつて",
+      "def_ja": "以前に、かつて、昔。『無知であったころの以前の欲望』『以前は冒瀆する者』『以前に光を受けた後』『前に福音を聞いた者たち』『前に盲人であった人』『前に夜イエスのところに行った』『以前にいたところに』。",
+      "label_en": "formerly / before",
+      "def_en": "Previously, once, in former times: “the passions of your former ignorance”, “formerly a blasphemer”, “after you were first enlightened”, “those who formerly received the good news”, “who had formerly been blind”, “who had gone to Jesus before”, “where he was before”.",
+      "label_es": "antes / en otro tiempo",
+      "def_es": "Anteriormente, antaño: «los deseos que antes teníais en vuestra ignorancia», «habiendo sido antes blasfemo», «después de haber sido iluminados», «a quienes primero se les anunció», «el que antes era ciego», «el que vino a él de noche», «donde estaba primero».",
+      "label_sv": "förut / tidigare",
+      "def_sv": "Förr, en gång, tidigare: ”begären från er förra okunnighet”, ”jag som förut var en hädare”, ”sedan ni först tagit emot ljuset”, ”de som först fick höra budskapet”, ”han som förut var blind”, ”han som tidigare kommit till Jesus”, ”dit där han var förut”.",
+      "layers": {
+        "nt": 7,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅰペテロ1:14、Ⅰテモ1:13、ヘブル10:32・4:6、ヨハネ9:8・7:50・6:62。LXX 士師記・イザヤ48:7、教父（3.10.4、13.1）に並行。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "まず／初めに",
+      "def_ja": "まず、初めに、先に。『まずあなたがたのところに行って』『初めて福音を告げ知らせたとき』『まず自分の罪のために』。",
+      "label_en": "first",
+      "def_en": "First, at the outset: “to come to you first”, “when I preached the gospel to you the first time”, “first for his own sins”.",
+      "label_es": "primero / al principio",
+      "def_es": "Primero, en primer lugar: «ir primero a vosotros», «os anuncié el evangelio al principio», «primero por sus propios pecados».",
+      "label_sv": "först",
+      "def_sv": "Först, till att börja med: ”komma till er först”, ”första gången jag förkunnade evangeliet”, ”först för sina egna synder”.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "Ⅱコリ1:15、ガラテヤ4:13、ヘブル7:27。LXX・教父に並行。"
+    }
+  ],
+  "assignments": {
+    "1PE 1:14": 1,
+    "1TI 1:13": 1,
+    "2CO 1:15": 2,
+    "GAL 4:13": 2,
+    "HEB 10:32": 1,
+    "HEB 4:6": 1,
+    "HEB 7:27": 2,
+    "JHN 9:8": 1,
+    "JHN 7:50": 1,
+    "JHN 6:62": 1
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（以前／まず）による。"
+}

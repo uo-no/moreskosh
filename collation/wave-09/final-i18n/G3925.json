@@ -1,0 +1,72 @@
+{
+  "strong": "G3925",
+  "lemma": "παρεμβολή",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "兵営",
+      "def_ja": "兵営、城塞（兵が駐屯する所）。『パウロを兵営に連れて行くように命じた』『兵営の中にいた』『兵営に入って』『兵営に戻った』。",
+      "label_en": "barracks",
+      "def_en": "A barracks, a fortress (where soldiers are stationed): “ordered Paul to be brought into the barracks”, “was in the barracks”, “entered the barracks”, “returned to the barracks”.",
+      "label_es": "cuartel / fortaleza",
+      "def_es": "Cuartel, ciudadela (donde se aloja la tropa): «mandó que le metiesen en la fortaleza», «estaba en la fortaleza», «entrando en la fortaleza», «volvieron a la fortaleza».",
+      "label_sv": "kasern / fästning",
+      "def_sv": "En kasern eller borg där soldater är förlagda: ”befallde att Paulus skulle föras in i fästningen”, ”var i fästningen”, ”gick in i fästningen”, ”återvände till fästningen”.",
+      "layers": {
+        "nt": 6,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "使徒22:24・23:10・23:16・23:32・21:34・21:37。LXX 代表例（陣営）に並行する語。教父の用例は無い。語義2との境界は連続的。"
+    },
+    {
+      "n": 2,
+      "label_ja": "陣営／宿営",
+      "def_ja": "宿営、陣営（イスラエルの）。『宿営の外で焼かれる』『宿営の外に出て』『聖徒たちの陣営、愛された都を囲んだ』。",
+      "label_en": "camp",
+      "def_en": "The camp, the encampment (of Israel): “burned outside the camp”, “go to him outside the camp”, “surrounded the camp of the saints and the beloved city”.",
+      "label_es": "campamento",
+      "def_es": "El campamento, el real (de Israel): «quemados fuera del campamento», «salgamos a él fuera del campamento», «rodearon el campamento de los santos y la ciudad amada».",
+      "label_sv": "läger",
+      "def_sv": "Lägret (Israels): ”bränns utanför lägret”, ”gå ut till honom utanför lägret”, ”omringade de heligas läger och den älskade staden”.",
+      "layers": {
+        "nt": 3,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "ヘブル13:11・13:13、黙示録20:9。LXX 民数記11:26・出エジプト記、教父（4.11、55.4）に並行。指す対象の同定は付さない。"
+    },
+    {
+      "n": 3,
+      "label_ja": "軍勢",
+      "def_ja": "戦陣を整えた軍勢。『他国の軍勢を敗走させ』（ヘブル11:34）。",
+      "label_en": "army",
+      "def_en": "An army drawn up for battle: “put foreign armies to flight” (Heb 11:34).",
+      "label_es": "ejército",
+      "def_es": "Ejército en orden de batalla: «pusieron en fuga ejércitos extranjeros» (He 11:34).",
+      "label_sv": "här",
+      "def_sv": "En stridsberedd här: ”drev främmande härar på flykten” (Heb 11:34).",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "ヘブル11:34 の1例のみ。語義2との境界は連続的。LXX 出エジプト記14:19 に並行。教父の代表例では確認していない。"
+    }
+  ],
+  "assignments": {
+    "ACT 22:24": 1,
+    "ACT 23:10": 1,
+    "ACT 23:16": 1,
+    "ACT 23:32": 1,
+    "ACT 21:34": 1,
+    "ACT 21:37": 1,
+    "HEB 13:11": 2,
+    "HEB 13:13": 2,
+    "HEB 11:34": 3,
+    "REV 20:9": 2
+  },
+  "unresolved": [],
+  "layer_notes": "語義区分は用法（兵営／陣営／軍勢）による。"
+}
