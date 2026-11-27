@@ -1300,8 +1300,31 @@ border-radius: var(--radius-s); cursor: pointer; transition: all var(--transitio
     border-radius: 16px;
     box-shadow: -10px 0 30px rgba(0,0,0,0.12);
 }
-.app-header { padding: 18px 40px; border-bottom: 1px solid var(--border-soft); background: var(--bg-paper); flex-shrink: 0; position: sticky; top: 0; z-index: 20; }
-.header-content { display: flex; align-items: center; justify-content: space-between; }
+/* #377（2026-11-27）: ヘッダーを薄くする。高さ = 上下パディング 3px×2 + 操作行 44px + 下線 1px = 51px
+   （PC は従来 74px、モバイルは 53px）。操作行の 44px は各ボタンのタップ領域の確保に使う（下の PC 用ブロック）。 */
+.app-header { padding: 3px 40px; border-bottom: 1px solid var(--border-soft); background: var(--bg-paper); flex-shrink: 0; position: sticky; top: 0; z-index: 20; }
+.header-content { display: flex; align-items: center; justify-content: space-between; min-height: 44px; }
+/* #377: PC ヘッダーのタップ領域を実質 44px 以上にする。
+   アイコンだけのボタン（メニュー・章の前後・章番号）は実寸を 44px 四方に広げ、
+   文字のボタン（書名・訳・言語）は見た目を変えず ::before で当たり判定だけ上下に広げる。 */
+@media (min-width: 901px) {
+    #mobile-menu-btn { width: 44px; height: 44px; margin-left: -12px; }
+    .app-header .gbc-chapter-nav { padding-top: 0; padding-bottom: 0; border-bottom: 0; }
+    .app-header .gbc-ch-arrow,
+    .app-header .gbc-ch-label { min-width: 44px; min-height: 44px; }
+    .app-header button.gbc-item,
+    #header-lang-toggle .lang-dd-btn { position: relative; }
+    .app-header button.gbc-item::before,
+    #header-lang-toggle .lang-dd-btn::before {
+        content: '';
+        position: absolute;
+        left: 0;
+        right: 0;
+        top: 50%;
+        height: 44px;
+        transform: translateY(-50%);
+    }
+}
 /* ヘッダー右クラスタ（条件付きボタン＋言語トグル）。右端に寄せて位置を固定する */
 .header-actions { display: flex; align-items: center; gap: var(--space-md); }
 #global-breadcrumb {
@@ -5712,8 +5735,8 @@ a.wlv-detail-study-btn .wlv-action-icon { background: var(--hover-veil); color: 
     #research-open-btn   { display: none; }
     #open-panel-btn      { display: none !important; }
 
-    /* Mobile header compact（base rule padding: 18px 40px を上書き） */
-    .app-header { padding: 4px 16px; }
+    /* Mobile header compact（base rule padding: 3px 40px の左右を上書き。#377 で上下 4px → 3px、高さ 53px → 51px） */
+    .app-header { padding: 3px 16px; }
 
     /* Mobile header 要素を有効化 */
     #mobile-location-btn {
