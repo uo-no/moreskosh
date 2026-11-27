@@ -103,14 +103,36 @@
     "ACT 26:5",
     "PHP 3:5"
    ],
-   "renderings": [
-    {
-     "lang": "ja",
-     "form": "パリサイ人",
-     "source": "口語訳（1955）",
-     "checked_in": "MAT 3:7"
-    }
-   ]
+   "variants": {
+    "ja": [
+     {
+      "form": "パリサイ人",
+      "sources": [
+       {
+        "source": "口語訳（1955）",
+        "checked_in": "MAT 3:7"
+       },
+       {
+        "source": "文語訳（1917年改訳）",
+        "checked_in": "MAT 3:7"
+       }
+      ]
+     },
+     {
+      "form": "パリサイ派",
+      "sources": [
+       {
+        "source": "口語訳（1955）",
+        "checked_in": "MRK 2:16"
+       },
+       {
+        "source": "文語訳（1917年改訳）",
+        "checked_in": "ACT 15:5"
+       }
+      ]
+     }
+    ]
+   }
   }
  ]
 }

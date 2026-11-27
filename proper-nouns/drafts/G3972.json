@@ -164,14 +164,23 @@
     "PHM 1:19",
     "2PE 3:15"
    ],
-   "renderings": [
-    {
-     "lang": "ja",
-     "form": "パウロ",
-     "source": "口語訳（1955）",
-     "checked_in": "ACT 13:9"
-    }
-   ]
+   "variants": {
+    "ja": [
+     {
+      "form": "パウロ",
+      "sources": [
+       {
+        "source": "口語訳（1955）",
+        "checked_in": "ACT 13:9"
+       },
+       {
+        "source": "文語訳（1917年改訳）",
+        "checked_in": "ACT 13:9"
+       }
+      ]
+     }
+    ]
+   }
   },
   {
    "id": "2",
@@ -180,14 +189,23 @@
    "refs": [
     "ACT 13:7"
    ],
-   "renderings": [
-    {
-     "lang": "ja",
-     "form": "パウロ",
-     "source": "口語訳（1955）",
-     "checked_in": "ACT 13:7"
-    }
-   ]
+   "variants": {
+    "ja": [
+     {
+      "form": "パウロ",
+      "sources": [
+       {
+        "source": "口語訳（1955）",
+        "checked_in": "ACT 13:7"
+       },
+       {
+        "source": "文語訳（1917年改訳）",
+        "checked_in": "ACT 13:7"
+       }
+      ]
+     }
+    ]
+   }
   }
  ],
  "note_ja": "使徒パウロは使徒13:9 で「サウロ、またの名はパウロ」と紹介され、それ以前はサウロ（Σαῦλος／Σαούλ、別の lemmaId）の名で出る。"

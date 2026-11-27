@@ -29,14 +29,23 @@
     "HEB 11:20",
     "JAS 2:21"
    ],
-   "renderings": [
-    {
-     "lang": "ja",
-     "form": "イサク",
-     "source": "口語訳（1955）",
-     "checked_in": "MAT 1:2"
-    }
-   ]
+   "variants": {
+    "ja": [
+     {
+      "form": "イサク",
+      "sources": [
+       {
+        "source": "口語訳（1955）",
+        "checked_in": "MAT 1:2"
+       },
+       {
+        "source": "文語訳（1917年改訳）",
+        "checked_in": "MAT 1:2"
+       }
+      ]
+     }
+    ]
+   }
   }
  ]
 }

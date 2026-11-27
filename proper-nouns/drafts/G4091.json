@@ -64,14 +64,23 @@
     "ACT 13:28",
     "1TI 6:13"
    ],
-   "renderings": [
-    {
-     "lang": "ja",
-     "form": "ピラト",
-     "source": "口語訳（1955）",
-     "checked_in": "MAT 27:2"
-    }
-   ]
+   "variants": {
+    "ja": [
+     {
+      "form": "ピラト",
+      "sources": [
+       {
+        "source": "口語訳（1955）",
+        "checked_in": "MAT 27:2"
+       },
+       {
+        "source": "文語訳（1917年改訳）",
+        "checked_in": "MAT 27:2"
+       }
+      ]
+     }
+    ]
+   }
   }
  ]
 }

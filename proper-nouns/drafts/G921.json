@@ -38,14 +38,23 @@
     "GAL 2:13",
     "COL 4:10"
    ],
-   "renderings": [
-    {
-     "lang": "ja",
-     "form": "バルナバ",
-     "source": "口語訳（1955）",
-     "checked_in": "ACT 4:36"
-    }
-   ]
+   "variants": {
+    "ja": [
+     {
+      "form": "バルナバ",
+      "sources": [
+       {
+        "source": "口語訳（1955）",
+        "checked_in": "ACT 4:36"
+       },
+       {
+        "source": "文語訳（1917年改訳）",
+        "checked_in": "ACT 4:36"
+       }
+      ]
+     }
+    ]
+   }
   }
  ],
  "note_ja": "使徒4:36 で、ヨセフ（G2501）の呼び名として紹介される（別の lemmaId。項目は統合しない）。"

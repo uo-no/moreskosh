@@ -40,14 +40,23 @@
     "LUK 2:34",
     "ACT 1:14"
    ],
-   "renderings": [
-    {
-     "lang": "ja",
-     "form": "マリヤ",
-     "source": "口語訳（1955）",
-     "checked_in": "MAT 1:16"
-    }
-   ]
+   "variants": {
+    "ja": [
+     {
+      "form": "マリヤ",
+      "sources": [
+       {
+        "source": "口語訳（1955）",
+        "checked_in": "MAT 1:16"
+       },
+       {
+        "source": "文語訳（1917年改訳）",
+        "checked_in": "MAT 1:16"
+       }
+      ]
+     }
+    ]
+   }
   },
   {
    "id": "2",
@@ -69,14 +78,23 @@
     "JHN 20:16",
     "JHN 20:18"
    ],
-   "renderings": [
-    {
-     "lang": "ja",
-     "form": "マリヤ",
-     "source": "口語訳（1955）",
-     "checked_in": "MRK 16:9"
-    }
-   ]
+   "variants": {
+    "ja": [
+     {
+      "form": "マリヤ",
+      "sources": [
+       {
+        "source": "口語訳（1955）",
+        "checked_in": "MAT 27:56"
+       },
+       {
+        "source": "文語訳（1917年改訳）",
+        "checked_in": "MAT 27:56"
+       }
+      ]
+     }
+    ]
+   }
   },
   {
    "id": "3",
@@ -91,7 +109,23 @@
     "MRK 16:1",
     "LUK 24:10"
    ],
-   "renderings": []
+   "variants": {
+    "ja": [
+     {
+      "form": "マリヤ",
+      "sources": [
+       {
+        "source": "口語訳（1955）",
+        "checked_in": "MAT 27:56"
+       },
+       {
+        "source": "文語訳（1917年改訳）",
+        "checked_in": "MAT 27:56"
+       }
+      ]
+     }
+    ]
+   }
   },
   {
    "id": "4",
@@ -110,14 +144,23 @@
     "JHN 11:45",
     "JHN 12:3"
    ],
-   "renderings": [
-    {
-     "lang": "ja",
-     "form": "マリヤ",
-     "source": "口語訳（1955）",
-     "checked_in": "LUK 10:39"
-    }
-   ]
+   "variants": {
+    "ja": [
+     {
+      "form": "マリヤ",
+      "sources": [
+       {
+        "source": "口語訳（1955）",
+        "checked_in": "LUK 10:39"
+       },
+       {
+        "source": "文語訳（1917年改訳）",
+        "checked_in": "LUK 10:39"
+       }
+      ]
+     }
+    ]
+   }
   },
   {
    "id": "5",
@@ -126,7 +169,23 @@
    "refs": [
     "JHN 19:25"
    ],
-   "renderings": []
+   "variants": {
+    "ja": [
+     {
+      "form": "マリヤ",
+      "sources": [
+       {
+        "source": "口語訳（1955）",
+        "checked_in": "JHN 19:25"
+       },
+       {
+        "source": "文語訳（1917年改訳）",
+        "checked_in": "JHN 19:25"
+       }
+      ]
+     }
+    ]
+   }
   },
   {
    "id": "6",
@@ -135,14 +194,23 @@
    "refs": [
     "ACT 12:12"
    ],
-   "renderings": [
-    {
-     "lang": "ja",
-     "form": "マリヤ",
-     "source": "口語訳（1955）",
-     "checked_in": "ACT 12:12"
-    }
-   ]
+   "variants": {
+    "ja": [
+     {
+      "form": "マリヤ",
+      "sources": [
+       {
+        "source": "口語訳（1955）",
+        "checked_in": "ACT 12:12"
+       },
+       {
+        "source": "文語訳（1917年改訳）",
+        "checked_in": "ACT 12:12"
+       }
+      ]
+     }
+    ]
+   }
   },
   {
    "id": "7",
@@ -151,14 +219,23 @@
    "refs": [
     "ROM 16:6"
    ],
-   "renderings": [
-    {
-     "lang": "ja",
-     "form": "マリヤ",
-     "source": "口語訳（1955）",
-     "checked_in": "ROM 16:6"
-    }
-   ]
+   "variants": {
+    "ja": [
+     {
+      "form": "マリヤ",
+      "sources": [
+       {
+        "source": "口語訳（1955）",
+        "checked_in": "ROM 16:6"
+       },
+       {
+        "source": "文語訳（1917年改訳）",
+        "checked_in": "ROM 16:6"
+       }
+      ]
+     }
+    ]
+   }
   }
  ],
  "note_ja": "Μαριάμ と Μαρία の二つの形がこの lemmaId にまとまっている。ルカ10章のマリアはヨハネ11章によってベタニヤのマリアとした。",

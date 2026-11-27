@@ -80,14 +80,23 @@
     "JAS 2:23",
     "1PE 3:6"
    ],
-   "renderings": [
-    {
-     "lang": "ja",
-     "form": "アブラハム",
-     "source": "口語訳（1955）",
-     "checked_in": "MAT 1:1"
-    }
-   ]
+   "variants": {
+    "ja": [
+     {
+      "form": "アブラハム",
+      "sources": [
+       {
+        "source": "口語訳（1955）",
+        "checked_in": "MAT 1:1"
+       },
+       {
+        "source": "文語訳（1917年改訳）",
+        "checked_in": "MAT 1:1"
+       }
+      ]
+     }
+    ]
+   }
   }
  ]
 }

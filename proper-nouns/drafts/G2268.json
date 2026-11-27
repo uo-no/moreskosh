@@ -33,14 +33,23 @@
     "ROM 10:20",
     "ROM 15:12"
    ],
-   "renderings": [
-    {
-     "lang": "ja",
-     "form": "イザヤ",
-     "source": "口語訳（1955）",
-     "checked_in": "MAT 3:3"
-    }
-   ]
+   "variants": {
+    "ja": [
+     {
+      "form": "イザヤ",
+      "sources": [
+       {
+        "source": "口語訳（1955）",
+        "checked_in": "MAT 3:3"
+       },
+       {
+        "source": "文語訳（1917年改訳）",
+        "checked_in": "MAT 3:3"
+       }
+      ]
+     }
+    ]
+   }
   }
  ],
  "note_ja": "「預言者イザヤの書」（ルカ4:17）や「イザヤが言っている」のように、書を名で指す箇所も同じ対象に入れた。"

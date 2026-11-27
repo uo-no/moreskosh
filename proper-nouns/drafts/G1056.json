@@ -71,14 +71,23 @@
     "ACT 10:37",
     "ACT 13:31"
    ],
-   "renderings": [
-    {
-     "lang": "ja",
-     "form": "ガリラヤ",
-     "source": "口語訳（1955）",
-     "checked_in": "MAT 2:22"
-    }
-   ]
+   "variants": {
+    "ja": [
+     {
+      "form": "ガリラヤ",
+      "sources": [
+       {
+        "source": "口語訳（1955）",
+        "checked_in": "MAT 2:22"
+       },
+       {
+        "source": "文語訳（1917年改訳）",
+        "checked_in": "MAT 2:22"
+       }
+      ]
+     }
+    ]
+   }
   }
  ],
  "note_ja": "「ガリラヤの海」の名に含まれるものも同じ対象に入れた。"

@@ -32,14 +32,23 @@
     "ACT 28:19",
     "PHP 4:22"
    ],
-   "renderings": [
-    {
-     "lang": "ja",
-     "form": "カイザル",
-     "source": "口語訳（1955）",
-     "checked_in": "MAT 22:17"
-    }
-   ]
+   "variants": {
+    "ja": [
+     {
+      "form": "カイザル",
+      "sources": [
+       {
+        "source": "口語訳（1955）",
+        "checked_in": "MAT 22:17"
+       },
+       {
+        "source": "文語訳（1917年改訳）",
+        "checked_in": "MAT 22:17"
+       }
+      ]
+     }
+    ]
+   }
   },
   {
    "id": "2",
@@ -48,14 +57,28 @@
    "refs": [
     "LUK 2:1"
    ],
-   "renderings": [
-    {
-     "lang": "ja",
-     "form": "皇帝",
-     "source": "口語訳（1955）",
-     "checked_in": "LUK 2:1"
-    }
-   ]
+   "variants": {
+    "ja": [
+     {
+      "form": "皇帝",
+      "sources": [
+       {
+        "source": "口語訳（1955）",
+        "checked_in": "LUK 2:1"
+       }
+      ]
+     },
+     {
+      "form": "カイザル",
+      "sources": [
+       {
+        "source": "文語訳（1917年改訳）",
+        "checked_in": "LUK 2:1"
+       }
+      ]
+     }
+    ]
+   }
   },
   {
    "id": "3",
@@ -64,14 +87,28 @@
    "refs": [
     "LUK 3:1"
    ],
-   "renderings": [
-    {
-     "lang": "ja",
-     "form": "皇帝",
-     "source": "口語訳（1955）",
-     "checked_in": "LUK 3:1"
-    }
-   ]
+   "variants": {
+    "ja": [
+     {
+      "form": "皇帝",
+      "sources": [
+       {
+        "source": "口語訳（1955）",
+        "checked_in": "LUK 3:1"
+       }
+      ]
+     },
+     {
+      "form": "カイザル",
+      "sources": [
+       {
+        "source": "文語訳（1917年改訳）",
+        "checked_in": "LUK 3:1"
+       }
+      ]
+     }
+    ]
+   }
   }
  ],
  "note_ja": "カイサルはローマ皇帝の称号として用いられる。福音書の納税の問答や使徒行伝の「カイサルに上訴する」では、個人名は出ない。"

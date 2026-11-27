@@ -44,14 +44,23 @@
     "REV 20:2",
     "REV 20:7"
    ],
-   "renderings": [
-    {
-     "lang": "ja",
-     "form": "サタン",
-     "source": "口語訳（1955）",
-     "checked_in": "MAT 4:10"
-    }
-   ]
+   "variants": {
+    "ja": [
+     {
+      "form": "サタン",
+      "sources": [
+       {
+        "source": "口語訳（1955）",
+        "checked_in": "MAT 4:10"
+       },
+       {
+        "source": "文語訳（1917年改訳）",
+        "checked_in": "MAT 4:10"
+       }
+      ]
+     }
+    ]
+   }
   }
  ],
  "flagged": [

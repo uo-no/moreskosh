@@ -65,14 +65,23 @@
     "REV 5:5",
     "REV 22:16"
    ],
-   "renderings": [
-    {
-     "lang": "ja",
-     "form": "ダビデ",
-     "source": "口語訳（1955）",
-     "checked_in": "MAT 1:1"
-    }
-   ]
+   "variants": {
+    "ja": [
+     {
+      "form": "ダビデ",
+      "sources": [
+       {
+        "source": "口語訳（1955）",
+        "checked_in": "MAT 1:1"
+       },
+       {
+        "source": "文語訳（1917年改訳）",
+        "checked_in": "MAT 1:1"
+       }
+      ]
+     }
+    ]
+   }
   }
  ],
  "note_ja": "「ダビデの子」（メシアの呼び名）や「ダビデにおいて」（詩篇を指す。ヘブル4:7）の中の名も同じ対象に入れた。"

@@ -872,14 +872,23 @@
     "REV 22:20",
     "REV 22:21"
    ],
-   "renderings": [
-    {
-     "lang": "ja",
-     "form": "イエス",
-     "source": "口語訳（1955）",
-     "checked_in": "MAT 1:1"
-    }
-   ]
+   "variants": {
+    "ja": [
+     {
+      "form": "イエス",
+      "sources": [
+       {
+        "source": "口語訳（1955）",
+        "checked_in": "MAT 1:1"
+       },
+       {
+        "source": "文語訳（1917年改訳）",
+        "checked_in": "MAT 1:1"
+       }
+      ]
+     }
+    ]
+   }
   },
   {
    "id": "2",
@@ -889,7 +898,9 @@
     "MAT 27:16",
     "MAT 27:17"
    ],
-   "renderings": []
+   "variants": {
+    "ja": []
+   }
   },
   {
    "id": "3",
@@ -899,14 +910,23 @@
     "ACT 7:45",
     "HEB 4:8"
    ],
-   "renderings": [
-    {
-     "lang": "ja",
-     "form": "ヨシュア",
-     "source": "口語訳（1955）",
-     "checked_in": "ACT 7:45"
-    }
-   ]
+   "variants": {
+    "ja": [
+     {
+      "form": "ヨシュア",
+      "sources": [
+       {
+        "source": "口語訳（1955）",
+        "checked_in": "ACT 7:45"
+       },
+       {
+        "source": "文語訳（1917年改訳）",
+        "checked_in": "HEB 4:8"
+       }
+      ]
+     }
+    ]
+   }
   },
   {
    "id": "4",
@@ -915,14 +935,23 @@
    "refs": [
     "COL 4:11"
    ],
-   "renderings": [
-    {
-     "lang": "ja",
-     "form": "イエス",
-     "source": "口語訳（1955）",
-     "checked_in": "COL 4:11"
-    }
-   ]
+   "variants": {
+    "ja": [
+     {
+      "form": "イエス",
+      "sources": [
+       {
+        "source": "口語訳（1955）",
+        "checked_in": "COL 4:11"
+       },
+       {
+        "source": "文語訳（1917年改訳）",
+        "checked_in": "COL 4:11"
+       }
+      ]
+     }
+    ]
+   }
   }
  ],
  "note_ja": "Ἰησοῦς はヘブライ語のヨシュアにあたる名で、使徒7:45・ヘブル4:8 では文脈からヨシュアを指す。マタイ27:16・17 の囚人の名「イエス・バラバ」は SBLGNT の本文による。ルカ3:29 の系図中の同名の人物は別の lemmaId（G2499）。"

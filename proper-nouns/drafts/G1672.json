@@ -35,14 +35,23 @@
     "GAL 3:28",
     "COL 3:11"
    ],
-   "renderings": [
-    {
-     "lang": "ja",
-     "form": "ギリシヤ人",
-     "source": "口語訳（1955）",
-     "checked_in": "JHN 7:35"
-    }
-   ]
+   "variants": {
+    "ja": [
+     {
+      "form": "ギリシヤ人",
+      "sources": [
+       {
+        "source": "口語訳（1955）",
+        "checked_in": "JHN 7:35"
+       },
+       {
+        "source": "文語訳（1917年改訳）",
+        "checked_in": "JHN 7:35"
+       }
+      ]
+     }
+    ]
+   }
   }
  ]
 }

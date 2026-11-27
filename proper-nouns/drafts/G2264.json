@@ -22,14 +22,23 @@
     "LUK 1:5",
     "ACT 23:35"
    ],
-   "renderings": [
-    {
-     "lang": "ja",
-     "form": "ヘロデ",
-     "source": "口語訳（1955）",
-     "checked_in": "MAT 2:1"
-    }
-   ]
+   "variants": {
+    "ja": [
+     {
+      "form": "ヘロデ",
+      "sources": [
+       {
+        "source": "口語訳（1955）",
+        "checked_in": "MAT 2:1"
+       },
+       {
+        "source": "文語訳（1917年改訳）",
+        "checked_in": "MAT 2:1"
+       }
+      ]
+     }
+    ]
+   }
   },
   {
    "id": "2",
@@ -61,14 +70,23 @@
     "ACT 4:27",
     "ACT 13:1"
    ],
-   "renderings": [
-    {
-     "lang": "ja",
-     "form": "ヘロデ",
-     "source": "口語訳（1955）",
-     "checked_in": "MAT 14:1"
-    }
-   ]
+   "variants": {
+    "ja": [
+     {
+      "form": "ヘロデ",
+      "sources": [
+       {
+        "source": "口語訳（1955）",
+        "checked_in": "MAT 14:1"
+       },
+       {
+        "source": "文語訳（1917年改訳）",
+        "checked_in": "MAT 14:1"
+       }
+      ]
+     }
+    ]
+   }
   },
   {
    "id": "3",
@@ -81,14 +99,23 @@
     "ACT 12:19",
     "ACT 12:21"
    ],
-   "renderings": [
-    {
-     "lang": "ja",
-     "form": "ヘロデ",
-     "source": "口語訳（1955）",
-     "checked_in": "ACT 12:1"
-    }
-   ]
+   "variants": {
+    "ja": [
+     {
+      "form": "ヘロデ",
+      "sources": [
+       {
+        "source": "口語訳（1955）",
+        "checked_in": "ACT 12:1"
+       },
+       {
+        "source": "文語訳（1917年改訳）",
+        "checked_in": "ACT 12:1"
+       }
+      ]
+     }
+    ]
+   }
   }
  ],
  "note_ja": "Abbott-Smith はそれぞれをヘロデ大王・ヘロデ・アンティパス・ヘロデ・アグリッパ1世とする（出発点の仮説として参照）。マルコ6:14 は領主ヘロデを「王」と呼ぶが、同じ人物として2に入れた。使徒4:27 はルカ23章の裁判を指すので2に入れた。",

@@ -76,14 +76,23 @@
     "REV 2:14",
     "REV 7:4"
    ],
-   "renderings": [
-    {
-     "lang": "ja",
-     "form": "イスラエル",
-     "source": "口語訳（1955）",
-     "checked_in": "MAT 2:6"
-    }
-   ]
+   "variants": {
+    "ja": [
+     {
+      "form": "イスラエル",
+      "sources": [
+       {
+        "source": "口語訳（1955）",
+        "checked_in": "MAT 2:6"
+       },
+       {
+        "source": "文語訳（1917年改訳）",
+        "checked_in": "MAT 2:6"
+       }
+      ]
+     }
+    ]
+   }
   }
  ],
  "note_ja": "「イスラエルの家」「イスラエルの子ら」「イスラエルの地」など、民とその国・地を指す用法をまとめた。",

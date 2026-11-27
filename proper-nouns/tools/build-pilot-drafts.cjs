@@ -52,13 +52,14 @@ function verseText(dir, ref) {
 const renderMiss = [];
 /* 候補の形が独立して出るか（前後がカタカナで続く一致は数えない。例：「ユダ」が「ユダヤ」の一部に当たらないように） */
 const KATA = /[\u30A1-\u30FA\u30FC]/;
-function hasWord(text, w) {
+function countWord(text, w) {
+  let n = 0;
   for (let i = text.indexOf(w); i >= 0; i = text.indexOf(w, i + 1)) {
     const prev = text[i - 1] || '', next = text[i + w.length] || '';
     const kStart = KATA.test(w[0]), kEnd = KATA.test(w[w.length - 1]);
-    if (!(kStart && KATA.test(prev)) && !(kEnd && KATA.test(next))) return true;
+    if (!(kStart && KATA.test(prev)) && !(kEnd && KATA.test(next))) n++;
   }
-  return false;
+  return n;
 }
 
 const errs = [];
@@ -101,21 +102,36 @@ for (const lemmaId of pilotIds) {
   });
   for (const x of identifications) if (!x.count) errs.push(`${lemmaId}: 対象 ${x.id}「${x.label_ja}」に割り当てがない`);
 
-  /* 各訳での表記：その対象だけを指す節の訳文に候補の形が出るものだけを載せる（renderings-ja.cjs） */
+  /* 表記のバリエーション（variants.ja）：確認元の訳の本文で確かめた形だけを載せる（renderings-ja.cjs）。
+     ある節を、この同定の形の裏づけに使えるのは次のどちらかのとき：
+       (a) その節の同じ lemmaId のトークンがすべてこの同定に属し、候補の形がちょうど1種類だけ出る
+       (b) 別の同定のトークンも同じ節にあるが、関係する同定の候補を合わせても1種類の形しか出ず、
+           その形の出現回数が節内のトークン数以上（＝どのトークンもその形で訳されている）
+     確認元ごとに、裏づけの取れた形をすべて集める（同じ訳の中で形が揺れていれば両方載る）。 */
+  const candsAll = R.CANDIDATES[lemmaId] || [];
   identifications.forEach((x, k) => {
-    const exclusive = x.refs.filter((r) => toks.every((t, i) => t.ref !== r || assigned[i] === k));
-    x.renderings = [];
-    for (const [src, def] of Object.entries(R.SOURCES)) {
-      const cands = ((R.CANDIDATES[src] || {})[lemmaId] || [])[k] || [];
-      let hit = null;
-      for (const r of exclusive) {
+    const found = new Map(); // form → Map(sourceLabel → checked_in)
+    for (const def of Object.values(R.SOURCES)) {
+      for (const r of x.refs) {
+        const ks = new Set(toks.map((t, i) => (t.ref === r ? assigned[i] : null)).filter((v) => v !== null));
+        const nTok = toks.filter((t) => t.ref === r).length;
         const text = verseText(def.dir, r);
-        const form = cands.find((c) => hasWord(text, c));
-        if (form) { hit = { lang: 'ja', form, source: def.label, checked_in: r }; break; }
+        const pool = [...new Set([...ks].flatMap((kk) => candsAll[kk] || []))];
+        const hits = pool.filter((c) => countWord(text, c) > 0);
+        const formsHit = hits.filter((c) => !hits.some((o) => o !== c && o.includes(c))); // 「パリサイ人」と「パリサイ」は長い方
+        if (formsHit.length !== 1 || !(candsAll[k] || []).includes(formsHit[0])) continue;
+        const f = formsHit[0];
+        if (ks.size > 1 && countWord(text, f) < nTok) continue;
+        if (!found.has(f)) found.set(f, new Map());
+        if (!found.get(f).has(def.label)) found.get(f).set(def.label, r);
       }
-      if (hit) x.renderings.push(hit);
-      else renderMiss.push(`${lemmaId} ${x.id}「${x.label_ja}」: ${def.label} で確認できず（対象だけの節 ${exclusive.length}）`);
     }
+    const srcOrder = Object.values(R.SOURCES).map((d) => d.label);
+    const ja = [...found.entries()]
+      .map(([form, m]) => ({ form, sources: srcOrder.filter((s) => m.has(s)).map((s) => ({ source: s, checked_in: m.get(s) })) }))
+      .sort((a, b) => b.sources.length - a.sources.length || srcOrder.indexOf(a.sources[0].source) - srcOrder.indexOf(b.sources[0].source));
+    x.variants = { ja };
+    for (const s of srcOrder) if (!ja.some((v) => v.sources.some((y) => y.source === s))) renderMiss.push(`${lemmaId} ${x.id}「${x.label_ja}」: ${s} で確認できず`);
   });
   const total = toks.length;
   const csum = identifications.reduce((s, x) => s + x.count, 0);

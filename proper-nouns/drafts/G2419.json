@@ -79,14 +79,23 @@
     "1CO 16:3",
     "GAL 4:25"
    ],
-   "renderings": [
-    {
-     "lang": "ja",
-     "form": "エルサレム",
-     "source": "口語訳（1955）",
-     "checked_in": "MAT 23:37"
-    }
-   ]
+   "variants": {
+    "ja": [
+     {
+      "form": "エルサレム",
+      "sources": [
+       {
+        "source": "口語訳（1955）",
+        "checked_in": "MAT 23:37"
+       },
+       {
+        "source": "文語訳（1917年改訳）",
+        "checked_in": "MAT 23:37"
+       }
+      ]
+     }
+    ]
+   }
   },
   {
    "id": "2",
@@ -99,14 +108,23 @@
     "REV 21:2",
     "REV 21:10"
    ],
-   "renderings": [
-    {
-     "lang": "ja",
-     "form": "エルサレム",
-     "source": "口語訳（1955）",
-     "checked_in": "GAL 4:26"
-    }
-   ]
+   "variants": {
+    "ja": [
+     {
+      "form": "エルサレム",
+      "sources": [
+       {
+        "source": "口語訳（1955）",
+        "checked_in": "GAL 4:26"
+       },
+       {
+        "source": "文語訳（1917年改訳）",
+        "checked_in": "GAL 4:26"
+       }
+      ]
+     }
+    ]
+   }
   }
  ],
  "note_ja": "同じ都を Ἱεροσόλυμα（G2414）でも指す（別の lemmaId。項目は統合しない）。ガラテヤ4:25 の「今のエルサレム」は地上の都として1に入れた。"

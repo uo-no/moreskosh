@@ -162,14 +162,23 @@
     "1PE 1:1",
     "2PE 1:1"
    ],
-   "renderings": [
-    {
-     "lang": "ja",
-     "form": "ペテロ",
-     "source": "口語訳（1955）",
-     "checked_in": "MAT 4:18"
-    }
-   ]
+   "variants": {
+    "ja": [
+     {
+      "form": "ペテロ",
+      "sources": [
+       {
+        "source": "口語訳（1955）",
+        "checked_in": "MAT 4:18"
+       },
+       {
+        "source": "文語訳（1917年改訳）",
+        "checked_in": "MAT 4:18"
+       }
+      ]
+     }
+    ]
+   }
   }
  ],
  "note_ja": "同じ人物を Σίμων（G4613）の「シモン」、Κηφᾶς（G2786）の「ケパ」でも指す（別の lemmaId。項目は統合しない）。"

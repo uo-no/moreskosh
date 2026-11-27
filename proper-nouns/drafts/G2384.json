@@ -33,14 +33,23 @@
     "HEB 11:20",
     "HEB 11:21"
    ],
-   "renderings": [
-    {
-     "lang": "ja",
-     "form": "ヤコブ",
-     "source": "口語訳（1955）",
-     "checked_in": "MAT 1:2"
-    }
-   ]
+   "variants": {
+    "ja": [
+     {
+      "form": "ヤコブ",
+      "sources": [
+       {
+        "source": "口語訳（1955）",
+        "checked_in": "MAT 1:2"
+       },
+       {
+        "source": "文語訳（1917年改訳）",
+        "checked_in": "MAT 1:2"
+       }
+      ]
+     }
+    ]
+   }
   },
   {
    "id": "2",
@@ -50,14 +59,23 @@
     "MAT 1:15",
     "MAT 1:16"
    ],
-   "renderings": [
-    {
-     "lang": "ja",
-     "form": "ヤコブ",
-     "source": "口語訳（1955）",
-     "checked_in": "MAT 1:15"
-    }
-   ]
+   "variants": {
+    "ja": [
+     {
+      "form": "ヤコブ",
+      "sources": [
+       {
+        "source": "口語訳（1955）",
+        "checked_in": "MAT 1:15"
+       },
+       {
+        "source": "文語訳（1917年改訳）",
+        "checked_in": "MAT 1:15"
+       }
+      ]
+     }
+    ]
+   }
   },
   {
    "id": "3",
@@ -66,14 +84,23 @@
    "refs": [
     "ROM 11:26"
    ],
-   "renderings": [
-    {
-     "lang": "ja",
-     "form": "ヤコブ",
-     "source": "口語訳（1955）",
-     "checked_in": "ROM 11:26"
-    }
-   ]
+   "variants": {
+    "ja": [
+     {
+      "form": "ヤコブ",
+      "sources": [
+       {
+        "source": "口語訳（1955）",
+        "checked_in": "ROM 11:26"
+       },
+       {
+        "source": "文語訳（1917年改訳）",
+        "checked_in": "ROM 11:26"
+       }
+      ]
+     }
+    ]
+   }
   }
  ],
  "note_ja": "ルカ1:33「ヤコブの家」のように父祖の名で民をいう箇所は、父祖ヤコブとして1に入れた。ローマ11:26 は預言の引用で「ヤコブ」が民そのものを指すため分けた。",

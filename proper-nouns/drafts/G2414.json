@@ -74,14 +74,23 @@
     "GAL 1:18",
     "GAL 2:1"
    ],
-   "renderings": [
-    {
-     "lang": "ja",
-     "form": "エルサレム",
-     "source": "口語訳（1955）",
-     "checked_in": "MAT 2:1"
-    }
-   ]
+   "variants": {
+    "ja": [
+     {
+      "form": "エルサレム",
+      "sources": [
+       {
+        "source": "口語訳（1955）",
+        "checked_in": "MAT 2:1"
+       },
+       {
+        "source": "文語訳（1917年改訳）",
+        "checked_in": "MAT 2:1"
+       }
+      ]
+     }
+    ]
+   }
   }
  ],
  "note_ja": "同じ都を Ἰερουσαλήμ（G2419）でも指す（別の lemmaId。項目は統合しない）。"
