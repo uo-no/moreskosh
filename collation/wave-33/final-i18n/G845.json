@@ -1,0 +1,29 @@
+{
+  "strong": "G845",
+  "lemma": "αὐτόπτης",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "目撃者",
+      "def_ja": "自分の目で見た人、目撃者。『目撃者』。",
+      "label_en": "eyewitness",
+      "def_en": "One who has seen with their own eyes, a witness.",
+      "label_es": "testigo de vista",
+      "def_es": "El que ha visto con sus propios ojos.",
+      "label_sv": "ögonvittne",
+      "def_sv": "En som har sett med egna ögon.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ルカ1:2。用例は新約のみ。語義は新約の文脈と関連語（αὐτός・ὀπτάνομαι）からの派生。単一語義。"
+    }
+  ],
+  "assignments": {
+    "LUK 1:2": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

@@ -1,0 +1,29 @@
+{
+  "strong": "G666",
+  "lemma": "ἀπουσία",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "不在",
+      "def_ja": "不在、いないこと。『わたしのいない今』。",
+      "label_en": "absence",
+      "def_en": "Being absent, not being there.",
+      "label_es": "ausencia",
+      "def_es": "El no estar presente.",
+      "label_sv": "frånvaro",
+      "def_sv": "Att inte vara där.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "ピリピ2:12。用例は新約のみ。語義は新約の文脈と関連語（ἀπών）からの派生。単一語義。"
+    }
+  ],
+  "assignments": {
+    "PHP 2:12": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}
