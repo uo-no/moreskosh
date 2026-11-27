@@ -13,7 +13,7 @@ IGSD の lemma 正本データ `public/assets/data/igsd/lemmas/*.json`（1ファ
 | `public/assets/data/igsd/sense-map.json` | 全見出し語通算の対応表。`{ "<verseId>": "<Strong>:<senseId>" }`。`<Strong>` は、そのトークン自身の Strong ではなく、割り当て元の見出し語の `strong`（例：G2036 のトークンは `G3004:<senseId>`）。 |
 | `public/assets/data/igsd/sense-map-gi.json` | `sense-map.json` と同じ対応を globalIdx で持ち直した表。`{ "<globalIdx>": "<Strong>:<senseId>" }`（キーは文字列）。globalIdx は bible_data の各トークンの `globalIdx`（NT の書物・章・語順の通し番号。`scripts/build-search-index.js` の globalIdx と同じ並び）。検索ツールは事前生成インデックス経由のトークンに verseId を持たないため、こちらで引く。 |
 
-- 入力として読む lemma ファイルは、ファイル名が `G<数字>.json`（例 `G3056.json`）に一致するものだけ。
+- 入力として読む lemma ファイルは、ファイル名が `G<数字>[a-z]?(+<数字>[a-z]?)*.json`（例 `G3056.json`・a 番号 `G127a.json`・複合番号 `G5228+3029.json`）に一致するものだけ。
 - ファイルの形式：1ファイルが複数の Strong 番号を束ねる場合は `strongs` 配列を持つ（例：`G3004.json` は λέγω で `strongs` が G3004・G2036・G2046）。`strongs` が無いファイルは `strong` 単独として扱い、index の `strongs` は `[strong]` になる。
 - 同時に `public/bible_data/nt/**/*.json` の各トークンを読み、`verseId` の実在確認と、`strong` ごとの全トークン集合の取得に使う（読むだけで、bible_data は変更しない）。
 - 語義の選択・補完は行わない。lemma ファイルに書かれた割り当てを集計・検証するだけ。
