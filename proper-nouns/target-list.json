@@ -1,0 +1,3928 @@
+{
+ "description": "新約本文（public/bible_data/nt、全260章）で type が proper のトークンを lemmaId 単位で数えた対象リスト。キュー #412。",
+ "source": "public/bible_data/nt",
+ "counted_by": "lemmaId",
+ "totals": {
+  "lemmas": 540,
+  "tokens": 4626,
+  "bands": {
+   "1": {
+    "lemmas": 252,
+    "tokens": 252
+   },
+   "20+": {
+    "lemmas": 33,
+    "tokens": 3169
+   },
+   "10-19": {
+    "lemmas": 33,
+    "tokens": 426
+   },
+   "5-9": {
+    "lemmas": 50,
+    "tokens": 340
+   },
+   "2-4": {
+    "lemmas": 172,
+    "tokens": 439
+   }
+  }
+ },
+ "pilot": "band 20+（33レンマ）",
+ "items": [
+  {
+   "lemmaId": "grc:G2424",
+   "lemma": "Ἰησοῦς",
+   "strong": "G2424",
+   "total": 904,
+   "band": "20+"
+  },
+  {
+   "lemmaId": "grc:G5547",
+   "lemma": "Χριστός",
+   "strong": "G5547",
+   "total": 528,
+   "band": "20+"
+  },
+  {
+   "lemmaId": "grc:G3972",
+   "lemma": "Παῦλος",
+   "strong": "G3972",
+   "total": 158,
+   "band": "20+"
+  },
+  {
+   "lemmaId": "grc:G4074",
+   "lemma": "Πέτρος",
+   "strong": "G4074",
+   "total": 156,
+   "band": "20+"
+  },
+  {
+   "lemmaId": "grc:G2491",
+   "lemma": "Ἰωάννης",
+   "strong": "G2491",
+   "total": 135,
+   "band": "20+"
+  },
+  {
+   "lemmaId": "grc:G5330",
+   "lemma": "Φαρισαῖος",
+   "strong": "G5330",
+   "total": 97,
+   "band": "20+"
+  },
+  {
+   "lemmaId": "grc:G3475",
+   "lemma": "Μωϋσῆς",
+   "strong": "G3475",
+   "total": 80,
+   "band": "20+"
+  },
+  {
+   "lemmaId": "grc:G2419",
+   "lemma": "Ἰερουσαλήμ",
+   "strong": "G2419",
+   "total": 76,
+   "band": "20+"
+  },
+  {
+   "lemmaId": "grc:G4613",
+   "lemma": "Σίμων",
+   "strong": "G4613",
+   "total": 75,
+   "band": "20+"
+  },
+  {
+   "lemmaId": "grc:G11",
+   "lemma": "Ἀβραάμ",
+   "strong": "G11",
+   "total": 73,
+   "band": "20+"
+  },
+  {
+   "lemmaId": "grc:G2474",
+   "lemma": "Ἰσραήλ",
+   "strong": "G2474",
+   "total": 67,
+   "band": "20+"
+  },
+  {
+   "lemmaId": "grc:G2414",
+   "lemma": "Ἱεροσόλυμα",
+   "strong": "G2414",
+   "total": 63,
+   "band": "20+"
+  },
+  {
+   "lemmaId": "grc:G1056",
+   "lemma": "Γαλιλαία",
+   "strong": "G1056",
+   "total": 61,
+   "band": "20+"
+  },
+  {
+   "lemmaId": "grc:G1138",
+   "lemma": "Δαυίδ",
+   "strong": "G1138",
+   "total": 59,
+   "band": "20+"
+  },
+  {
+   "lemmaId": "grc:G4091",
+   "lemma": "Πιλᾶτος",
+   "strong": "G4091",
+   "total": 55,
+   "band": "20+"
+  },
+  {
+   "lemmaId": "grc:G3137",
+   "lemma": "Μαρία",
+   "forms": [
+    {
+     "form": "Μαρία",
+     "count": 28
+    },
+    {
+     "form": "Μαριάμ",
+     "count": 26
+    }
+   ],
+   "strong": "G3137",
+   "total": 54,
+   "band": "20+"
+  },
+  {
+   "lemmaId": "grc:G2264",
+   "lemma": "Ἡρῴδης",
+   "strong": "G2264",
+   "total": 43,
+   "band": "20+"
+  },
+  {
+   "lemmaId": "grc:G2449",
+   "lemma": "Ἰουδαία",
+   "strong": "G2449",
+   "total": 43,
+   "band": "20+"
+  },
+  {
+   "lemmaId": "grc:G2385",
+   "lemma": "Ἰάκωβος",
+   "strong": "G2385",
+   "total": 42,
+   "band": "20+"
+  },
+  {
+   "lemmaId": "grc:G2455",
+   "lemma": "Ἰούδας",
+   "forms": [
+    {
+     "form": "Ἰούδας",
+     "count": 41
+    },
+    {
+     "form": "Ἰωδά",
+     "count": 1
+    }
+   ],
+   "strong": "G2455",
+   "total": 42,
+   "band": "20+"
+  },
+  {
+   "lemmaId": "grc:G2501",
+   "lemma": "Ἰωσήφ",
+   "forms": [
+    {
+     "form": "Ἰωσήφ",
+     "count": 35
+    },
+    {
+     "form": "Ἰωσήχ",
+     "count": 1
+    }
+   ],
+   "strong": "G2501",
+   "total": 36,
+   "band": "20+"
+  },
+  {
+   "lemmaId": "grc:G4567",
+   "lemma": "Σατανᾶς",
+   "strong": "G4567",
+   "total": 36,
+   "band": "20+"
+  },
+  {
+   "lemmaId": "grc:G5376",
+   "lemma": "Φίλιππος",
+   "strong": "G5376",
+   "total": 36,
+   "band": "20+"
+  },
+  {
+   "lemmaId": "grc:G2243",
+   "lemma": "Ἠλίας",
+   "strong": "G2243",
+   "total": 29,
+   "band": "20+"
+  },
+  {
+   "lemmaId": "grc:G2541",
+   "lemma": "Καῖσαρ",
+   "strong": "G2541",
+   "total": 29,
+   "band": "20+"
+  },
+  {
+   "lemmaId": "grc:G921",
+   "lemma": "Βαρναβᾶς",
+   "strong": "G921",
+   "total": 28,
+   "band": "20+"
+  },
+  {
+   "lemmaId": "grc:G2384",
+   "lemma": "Ἰακώβ",
+   "strong": "G2384",
+   "total": 27,
+   "band": "20+"
+  },
+  {
+   "lemmaId": "grc:G1672",
+   "lemma": "Ἕλλην",
+   "strong": "G1672",
+   "total": 25,
+   "band": "20+"
+  },
+  {
+   "lemmaId": "grc:G125",
+   "lemma": "Αἴγυπτος",
+   "strong": "G125",
+   "total": 24,
+   "band": "20+"
+  },
+  {
+   "lemmaId": "grc:G5095",
+   "lemma": "Τιμόθεος",
+   "strong": "G5095",
+   "total": 24,
+   "band": "20+"
+  },
+  {
+   "lemmaId": "grc:G2268",
+   "lemma": "Ἠσαΐας",
+   "strong": "G2268",
+   "total": 22,
+   "band": "20+"
+  },
+  {
+   "lemmaId": "grc:G3109",
+   "lemma": "Μακεδονία",
+   "strong": "G3109",
+   "total": 22,
+   "band": "20+"
+  },
+  {
+   "lemmaId": "grc:G2464",
+   "lemma": "Ἰσαάκ",
+   "strong": "G2464",
+   "total": 20,
+   "band": "20+"
+  },
+  {
+   "lemmaId": "grc:G490",
+   "lemma": "Ἀντιόχεια",
+   "strong": "G490",
+   "total": 18,
+   "band": "10-19"
+  },
+  {
+   "lemmaId": "grc:G773",
+   "lemma": "Ἀσία",
+   "strong": "G773",
+   "total": 18,
+   "band": "10-19"
+  },
+  {
+   "lemmaId": "grc:G2542",
+   "lemma": "Καισάρεια",
+   "strong": "G2542",
+   "total": 17,
+   "band": "10-19"
+  },
+  {
+   "lemmaId": "grc:G2181",
+   "lemma": "Ἔφεσος",
+   "strong": "G2181",
+   "total": 16,
+   "band": "10-19"
+  },
+  {
+   "lemmaId": "grc:G2584",
+   "lemma": "Καφαρναούμ",
+   "strong": "G2584",
+   "total": 16,
+   "band": "10-19"
+  },
+  {
+   "lemmaId": "grc:G1154",
+   "lemma": "Δαμασκός",
+   "strong": "G1154",
+   "total": 15,
+   "band": "10-19"
+  },
+  {
+   "lemmaId": "grc:G2446",
+   "lemma": "Ἰορδάνης",
+   "strong": "G2446",
+   "total": 15,
+   "band": "10-19"
+  },
+  {
+   "lemmaId": "grc:G2976",
+   "lemma": "Λάζαρος",
+   "strong": "G2976",
+   "total": 15,
+   "band": "10-19"
+  },
+  {
+   "lemmaId": "grc:G4569",
+   "lemma": "Σαῦλος",
+   "strong": "G4569",
+   "total": 15,
+   "band": "10-19"
+  },
+  {
+   "lemmaId": "grc:G4523",
+   "lemma": "Σαδδουκαῖος",
+   "strong": "G4523",
+   "total": 14,
+   "band": "10-19"
+  },
+  {
+   "lemmaId": "grc:G406",
+   "lemma": "Ἀνδρέας",
+   "strong": "G406",
+   "total": 13,
+   "band": "10-19"
+  },
+  {
+   "lemmaId": "grc:G3136",
+   "lemma": "Μάρθα",
+   "strong": "G3136",
+   "total": 13,
+   "band": "10-19"
+  },
+  {
+   "lemmaId": "grc:G3480",
+   "lemma": "Ναζωραῖος",
+   "strong": "G3480",
+   "total": 13,
+   "band": "10-19"
+  },
+  {
+   "lemmaId": "grc:G5103",
+   "lemma": "Τίτος",
+   "strong": "G5103",
+   "total": 13,
+   "band": "10-19"
+  },
+  {
+   "lemmaId": "grc:G5347",
+   "lemma": "Φῆστος",
+   "strong": "G5347",
+   "total": 13,
+   "band": "10-19"
+  },
+  {
+   "lemmaId": "grc:G897",
+   "lemma": "Βαβυλών",
+   "strong": "G897",
+   "total": 12,
+   "band": "10-19"
+  },
+  {
+   "lemmaId": "grc:G963",
+   "lemma": "Βηθανία",
+   "strong": "G963",
+   "total": 12,
+   "band": "10-19"
+  },
+  {
+   "lemmaId": "grc:G2199",
+   "lemma": "Ζεβεδαῖος",
+   "strong": "G2199",
+   "total": 12,
+   "band": "10-19"
+  },
+  {
+   "lemmaId": "grc:G3094",
+   "lemma": "Μαγδαληνή",
+   "strong": "G3094",
+   "total": 12,
+   "band": "10-19"
+  },
+  {
+   "lemmaId": "grc:G3478",
+   "lemma": "Ναζαρέθ",
+   "forms": [
+    {
+     "form": "Ναζαρέθ",
+     "count": 6
+    },
+    {
+     "form": "Ναζαρέτ",
+     "count": 4
+    },
+    {
+     "form": "Ναζαρά",
+     "count": 2
+    }
+   ],
+   "strong": "G3478",
+   "total": 12,
+   "band": "10-19"
+  },
+  {
+   "lemmaId": "grc:G4609",
+   "lemma": "Σίλας",
+   "forms": [
+    {
+     "form": "Σίλας",
+     "count": 8
+    },
+    {
+     "form": "Σιλᾶς",
+     "count": 4
+    }
+   ],
+   "strong": "G4609",
+   "total": 12,
+   "band": "10-19"
+  },
+  {
+   "lemmaId": "grc:G4672",
+   "lemma": "Σολομών",
+   "forms": [
+    {
+     "form": "Σολομών",
+     "count": 9
+    },
+    {
+     "form": "Σολομῶν",
+     "count": 3
+    }
+   ],
+   "strong": "G4672",
+   "total": 12,
+   "band": "10-19"
+  },
+  {
+   "lemmaId": "grc:G67",
+   "lemma": "Ἀγρίππας",
+   "strong": "G67",
+   "total": 11,
+   "band": "10-19"
+  },
+  {
+   "lemmaId": "grc:G367",
+   "lemma": "Ἁνανίας",
+   "strong": "G367",
+   "total": 11,
+   "band": "10-19"
+  },
+  {
+   "lemmaId": "grc:G912",
+   "lemma": "Βαραββᾶς",
+   "strong": "G912",
+   "total": 11,
+   "band": "10-19"
+  },
+  {
+   "lemmaId": "grc:G2197",
+   "lemma": "Ζαχαρίας",
+   "strong": "G2197",
+   "total": 11,
+   "band": "10-19"
+  },
+  {
+   "lemmaId": "grc:G2381",
+   "lemma": "Θωμᾶς",
+   "strong": "G2381",
+   "total": 11,
+   "band": "10-19"
+  },
+  {
+   "lemmaId": "grc:G2469",
+   "lemma": "Ἰσκαριώτης",
+   "forms": [
+    {
+     "form": "Ἰσκαριώτης",
+     "count": 8
+    },
+    {
+     "form": "Ἰσκαριώθ",
+     "count": 3
+    }
+   ],
+   "strong": "G2469",
+   "total": 11,
+   "band": "10-19"
+  },
+  {
+   "lemmaId": "grc:G4540",
+   "lemma": "Σαμάρεια",
+   "strong": "G4540",
+   "total": 11,
+   "band": "10-19"
+  },
+  {
+   "lemmaId": "grc:G5184",
+   "lemma": "Τύρος",
+   "strong": "G5184",
+   "total": 11,
+   "band": "10-19"
+  },
+  {
+   "lemmaId": "grc:G625",
+   "lemma": "Ἀπολλῶς",
+   "strong": "G625",
+   "total": 10,
+   "band": "10-19"
+  },
+  {
+   "lemmaId": "grc:G882",
+   "lemma": "Ἀχαΐα",
+   "strong": "G882",
+   "total": 10,
+   "band": "10-19"
+  },
+  {
+   "lemmaId": "grc:G2445",
+   "lemma": "Ἰόππη",
+   "strong": "G2445",
+   "total": 10,
+   "band": "10-19"
+  },
+  {
+   "lemmaId": "grc:G76",
+   "lemma": "Ἀδάμ",
+   "strong": "G76",
+   "total": 9,
+   "band": "5-9"
+  },
+  {
+   "lemmaId": "grc:G1665",
+   "lemma": "Ἐλισάβετ",
+   "strong": "G1665",
+   "total": 9,
+   "band": "5-9"
+  },
+  {
+   "lemmaId": "grc:G2475",
+   "lemma": "Ἰσραηλίτης",
+   "strong": "G2475",
+   "total": 9,
+   "band": "5-9"
+  },
+  {
+   "lemmaId": "grc:G2495",
+   "lemma": "Ἰωνᾶς",
+   "strong": "G2495",
+   "total": 9,
+   "band": "5-9"
+  },
+  {
+   "lemmaId": "grc:G2533",
+   "lemma": "Καϊάφας",
+   "strong": "G2533",
+   "total": 9,
+   "band": "5-9"
+  },
+  {
+   "lemmaId": "grc:G2786",
+   "lemma": "Κηφᾶς",
+   "strong": "G2786",
+   "total": 9,
+   "band": "5-9"
+  },
+  {
+   "lemmaId": "grc:G4541",
+   "lemma": "Σαμαρίτης",
+   "strong": "G4541",
+   "total": 9,
+   "band": "5-9"
+  },
+  {
+   "lemmaId": "grc:G4549",
+   "lemma": "Σαούλ",
+   "strong": "G4549",
+   "total": 9,
+   "band": "5-9"
+  },
+  {
+   "lemmaId": "grc:G4605",
+   "lemma": "Σιδών",
+   "strong": "G4605",
+   "total": 9,
+   "band": "5-9"
+  },
+  {
+   "lemmaId": "grc:G4670",
+   "lemma": "Σόδομα",
+   "strong": "G4670",
+   "total": 9,
+   "band": "5-9"
+  },
+  {
+   "lemmaId": "grc:G5344",
+   "lemma": "Φῆλιξ",
+   "strong": "G5344",
+   "total": 9,
+   "band": "5-9"
+  },
+  {
+   "lemmaId": "grc:G965",
+   "lemma": "Βηθλέεμ",
+   "strong": "G965",
+   "total": 8,
+   "band": "5-9"
+  },
+  {
+   "lemmaId": "grc:G2791",
+   "lemma": "Κιλικία",
+   "strong": "G2791",
+   "total": 8,
+   "band": "5-9"
+  },
+  {
+   "lemmaId": "grc:G2883",
+   "lemma": "Κορνήλιος",
+   "strong": "G2883",
+   "total": 8,
+   "band": "5-9"
+  },
+  {
+   "lemmaId": "grc:G3138",
+   "lemma": "Μᾶρκος",
+   "strong": "G3138",
+   "total": 8,
+   "band": "5-9"
+  },
+  {
+   "lemmaId": "grc:G3198",
+   "lemma": "Μελχισέδεκ",
+   "strong": "G3198",
+   "total": 8,
+   "band": "5-9"
+  },
+  {
+   "lemmaId": "grc:G3575",
+   "lemma": "Νῶε",
+   "strong": "G3575",
+   "total": 8,
+   "band": "5-9"
+  },
+  {
+   "lemmaId": "grc:G4516",
+   "lemma": "Ῥώμη",
+   "strong": "G4516",
+   "total": 8,
+   "band": "5-9"
+  },
+  {
+   "lemmaId": "grc:G4947",
+   "lemma": "Συρία",
+   "strong": "G4947",
+   "total": 8,
+   "band": "5-9"
+  },
+  {
+   "lemmaId": "grc:G954",
+   "lemma": "Βεελζεβούλ",
+   "strong": "G954",
+   "total": 7,
+   "band": "5-9"
+  },
+  {
+   "lemmaId": "grc:G966",
+   "lemma": "Βηθσαϊδά",
+   "forms": [
+    {
+     "form": "Βηθσαϊδά",
+     "count": 5
+    },
+    {
+     "form": "Βηθσαϊδάν",
+     "count": 2
+    }
+   ],
+   "strong": "G966",
+   "total": 7,
+   "band": "5-9"
+  },
+  {
+   "lemmaId": "grc:G2410",
+   "lemma": "Ἰεριχώ",
+   "strong": "G2410",
+   "total": 7,
+   "band": "5-9"
+  },
+  {
+   "lemmaId": "grc:G3017",
+   "lemma": "Λευί",
+   "strong": "G3017",
+   "total": 7,
+   "band": "5-9"
+  },
+  {
+   "lemmaId": "grc:G4622",
+   "lemma": "Σιών",
+   "strong": "G4622",
+   "total": 7,
+   "band": "5-9"
+  },
+  {
+   "lemmaId": "grc:G4826",
+   "lemma": "Συμεών",
+   "strong": "G4826",
+   "total": 7,
+   "band": "5-9"
+  },
+  {
+   "lemmaId": "grc:G207",
+   "lemma": "Ἀκύλας",
+   "strong": "G207",
+   "total": 6,
+   "band": "5-9"
+  },
+  {
+   "lemmaId": "grc:G223",
+   "lemma": "Ἀλέξανδρος",
+   "strong": "G223",
+   "total": 6,
+   "band": "5-9"
+  },
+  {
+   "lemmaId": "grc:G2266",
+   "lemma": "Ἡρῳδιάς",
+   "strong": "G2266",
+   "total": 6,
+   "band": "5-9"
+  },
+  {
+   "lemmaId": "grc:G2430",
+   "lemma": "Ἰκόνιον",
+   "strong": "G2430",
+   "total": 6,
+   "band": "5-9"
+  },
+  {
+   "lemmaId": "grc:G2882",
+   "lemma": "Κόρινθος",
+   "strong": "G2882",
+   "total": 6,
+   "band": "5-9"
+  },
+  {
+   "lemmaId": "grc:G2956",
+   "lemma": "Κυρηναῖος",
+   "strong": "G2956",
+   "total": 6,
+   "band": "5-9"
+  },
+  {
+   "lemmaId": "grc:G2993",
+   "lemma": "Λαοδίκεια",
+   "strong": "G2993",
+   "total": 6,
+   "band": "5-9"
+  },
+  {
+   "lemmaId": "grc:G3082",
+   "lemma": "Λύστρα",
+   "strong": "G3082",
+   "total": 6,
+   "band": "5-9"
+  },
+  {
+   "lemmaId": "grc:G3482",
+   "lemma": "Ναθαναήλ",
+   "strong": "G3482",
+   "total": 6,
+   "band": "5-9"
+  },
+  {
+   "lemmaId": "grc:G5174",
+   "lemma": "Τρῳάς",
+   "strong": "G5174",
+   "total": 6,
+   "band": "5-9"
+  },
+  {
+   "lemmaId": "grc:G2",
+   "lemma": "Ἀαρών",
+   "strong": "G2",
+   "total": 5,
+   "band": "5-9"
+  },
+  {
+   "lemmaId": "grc:G256",
+   "lemma": "Ἁλφαῖος",
+   "strong": "G256",
+   "total": 5,
+   "band": "5-9"
+  },
+  {
+   "lemmaId": "grc:G708",
+   "lemma": "Ἀρίσταρχος",
+   "strong": "G708",
+   "total": 5,
+   "band": "5-9"
+  },
+  {
+   "lemmaId": "grc:G735",
+   "lemma": "Ἄρτεμις",
+   "strong": "G735",
+   "total": 5,
+   "band": "5-9"
+  },
+  {
+   "lemmaId": "grc:G1050",
+   "lemma": "Γάϊος",
+   "strong": "G1050",
+   "total": 5,
+   "band": "5-9"
+  },
+  {
+   "lemmaId": "grc:G2332",
+   "lemma": "Θεσσαλονίκη",
+   "strong": "G2332",
+   "total": 5,
+   "band": "5-9"
+  },
+  {
+   "lemmaId": "grc:G2394",
+   "lemma": "Ἰάσων",
+   "strong": "G2394",
+   "total": 5,
+   "band": "5-9"
+  },
+  {
+   "lemmaId": "grc:G2421",
+   "lemma": "Ἰεσσαί",
+   "strong": "G2421",
+   "total": 5,
+   "band": "5-9"
+  },
+  {
+   "lemmaId": "grc:G2914",
+   "lemma": "Κρήτη",
+   "strong": "G2914",
+   "total": 5,
+   "band": "5-9"
+  },
+  {
+   "lemmaId": "grc:G2954",
+   "lemma": "Κύπρος",
+   "strong": "G2954",
+   "total": 5,
+   "band": "5-9"
+  },
+  {
+   "lemmaId": "grc:G3156",
+   "lemma": "Μαθθαῖος",
+   "strong": "G3156",
+   "total": 5,
+   "band": "5-9"
+  },
+  {
+   "lemmaId": "grc:G3530",
+   "lemma": "Νικόδημος",
+   "strong": "G3530",
+   "total": 5,
+   "band": "5-9"
+  },
+  {
+   "lemmaId": "grc:G3828",
+   "lemma": "Παμφυλία",
+   "strong": "G3828",
+   "total": 5,
+   "band": "5-9"
+  },
+  {
+   "lemmaId": "grc:G5190",
+   "lemma": "Τυχικός",
+   "strong": "G5190",
+   "total": 5,
+   "band": "5-9"
+  },
+  {
+   "lemmaId": "grc:G5328",
+   "lemma": "Φαραώ",
+   "strong": "G5328",
+   "total": 5,
+   "band": "5-9"
+  },
+  {
+   "lemmaId": "grc:G6",
+   "lemma": "Ἅβελ",
+   "strong": "G6",
+   "total": 4,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G116",
+   "lemma": "Ἀθῆναι",
+   "strong": "G116",
+   "total": 4,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G452",
+   "lemma": "Ἅννας",
+   "strong": "G452",
+   "total": 4,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G707",
+   "lemma": "Ἁριμαθαία",
+   "strong": "G707",
+   "total": 4,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G918",
+   "lemma": "Βαρθολομαῖος",
+   "strong": "G918",
+   "total": 4,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G958",
+   "lemma": "Βενιαμίν",
+   "strong": "G958",
+   "total": 4,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G1053",
+   "lemma": "Γαλατία",
+   "strong": "G1053",
+   "total": 4,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G1116",
+   "lemma": "Γόμορρα",
+   "strong": "G1116",
+   "total": 4,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G1445",
+   "lemma": "Ἑβραῖος",
+   "strong": "G1445",
+   "total": 4,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G2331",
+   "lemma": "Θεσσαλονικεύς",
+   "strong": "G2331",
+   "total": 4,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G2363",
+   "lemma": "Θυάτειρα",
+   "strong": "G2363",
+   "total": 4,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G2459",
+   "lemma": "Ἰοῦστος",
+   "forms": [
+    {
+     "form": "Ἰοῦστος",
+     "count": 3
+    },
+    {
+     "form": "Τίτιος",
+     "count": 1
+    }
+   ],
+   "strong": "G2459",
+   "total": 4,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G2482",
+   "lemma": "Ἰταλία",
+   "strong": "G2482",
+   "total": 4,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G2580",
+   "lemma": "Κανά",
+   "strong": "G2580",
+   "total": 4,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G3091",
+   "lemma": "Λώτ",
+   "strong": "G3091",
+   "total": 4,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G3110",
+   "lemma": "Μακεδών",
+   "strong": "G3110",
+   "total": 4,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G4610",
+   "lemma": "Σιλουανός",
+   "strong": "G4610",
+   "total": 4,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G4614",
+   "lemma": "Σινᾶ",
+   "strong": "G4614",
+   "total": 4,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G5375",
+   "lemma": "Φίλιπποι",
+   "strong": "G5375",
+   "total": 4,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G1",
+   "lemma": "Ἄλφα",
+   "strong": "G1",
+   "total": 3,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G7",
+   "lemma": "Ἀβιά",
+   "strong": "G7",
+   "total": 3,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G284",
+   "lemma": "Ἀμιναδάβ",
+   "strong": "G284",
+   "total": 3,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G903",
+   "lemma": "Βαλαάμ",
+   "strong": "G903",
+   "total": 3,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G959",
+   "lemma": "Βερνίκη",
+   "strong": "G959",
+   "total": 3,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G967",
+   "lemma": "Βηθφαγή",
+   "strong": "G967",
+   "total": 3,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G1003",
+   "lemma": "Βόες",
+   "forms": [
+    {
+     "form": "Βόες",
+     "count": 2
+    },
+    {
+     "form": "Βόος",
+     "count": 1
+    }
+   ],
+   "strong": "G1003",
+   "total": 3,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G1058",
+   "lemma": "Γαλλίων",
+   "strong": "G1058",
+   "total": 3,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G1082",
+   "lemma": "Γεννησαρέτ",
+   "strong": "G1082",
+   "total": 3,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G1115",
+   "lemma": "Γολγοθᾶ",
+   "strong": "G1115",
+   "total": 3,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G1179",
+   "lemma": "Δεκάπολις",
+   "strong": "G1179",
+   "total": 3,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G1191",
+   "lemma": "Δέρβη",
+   "strong": "G1191",
+   "total": 3,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G1214",
+   "lemma": "Δημᾶς",
+   "strong": "G1214",
+   "total": 3,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G1216",
+   "lemma": "Δημήτριος",
+   "strong": "G1216",
+   "total": 3,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G1324",
+   "lemma": "Δίδυμος",
+   "strong": "G1324",
+   "total": 3,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G1662",
+   "lemma": "Ἐλιακίμ",
+   "strong": "G1662",
+   "total": 3,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G1675",
+   "lemma": "Ἑλληνιστής",
+   "strong": "G1675",
+   "total": 3,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G1802",
+   "lemma": "Ἑνώχ",
+   "strong": "G1802",
+   "total": 3,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G1889",
+   "lemma": "Ἐπαφρᾶς",
+   "strong": "G1889",
+   "total": 3,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G2037",
+   "lemma": "Ἔραστος",
+   "strong": "G2037",
+   "total": 3,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G2074",
+   "lemma": "Ἑσρώμ",
+   "strong": "G2074",
+   "total": 3,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G2194",
+   "lemma": "Ζαβουλών",
+   "strong": "G2194",
+   "total": 3,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G2195",
+   "lemma": "Ζακχαῖος",
+   "strong": "G2195",
+   "total": 3,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G2216",
+   "lemma": "Ζοροβαβέλ",
+   "strong": "G2216",
+   "total": 3,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G2265",
+   "lemma": "Ἡρῳδιανοί",
+   "strong": "G2265",
+   "total": 3,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G2269",
+   "lemma": "Ἠσαῦ",
+   "strong": "G2269",
+   "total": 3,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G2408",
+   "lemma": "Ἰερεμίας",
+   "strong": "G2408",
+   "total": 3,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G2448",
+   "lemma": "Ἰούδας",
+   "strong": "G2448",
+   "total": 3,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G2500",
+   "lemma": "Ἰωσῆς",
+   "strong": "G2500",
+   "total": 3,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G2535",
+   "lemma": "Κάϊν",
+   "strong": "G2535",
+   "total": 3,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G2804",
+   "lemma": "Κλαύδιος",
+   "strong": "G2804",
+   "total": 3,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G2953",
+   "lemma": "Κύπριος",
+   "strong": "G2953",
+   "total": 3,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G3065",
+   "lemma": "Λουκᾶς",
+   "strong": "G3065",
+   "total": 3,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G3069",
+   "lemma": "Λύδδα",
+   "strong": "G3069",
+   "total": 3,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G3128",
+   "lemma": "Μανασσῆς",
+   "strong": "G3128",
+   "total": 3,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G3399",
+   "lemma": "Μίλητος",
+   "strong": "G3399",
+   "total": 3,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G3476",
+   "lemma": "Ναασσών",
+   "strong": "G3476",
+   "total": 3,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G3508",
+   "lemma": "Νεφθαλίμ",
+   "strong": "G3508",
+   "total": 3,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G4011",
+   "lemma": "Πέργη",
+   "strong": "G4011",
+   "total": 3,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G4194",
+   "lemma": "Πόντιος",
+   "strong": "G4194",
+   "total": 3,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G4251",
+   "lemma": "Πρίσκα",
+   "strong": "G4251",
+   "total": 3,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G4252",
+   "lemma": "Πρίσκιλλα",
+   "strong": "G4252",
+   "total": 3,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G4528",
+   "lemma": "Σαλαθιήλ",
+   "strong": "G4528",
+   "total": 3,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G4545",
+   "lemma": "Σαμουήλ",
+   "strong": "G4545",
+   "total": 3,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G4554",
+   "lemma": "Σάρδεις",
+   "strong": "G4554",
+   "total": 3,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G4564",
+   "lemma": "Σάρρα",
+   "strong": "G4564",
+   "total": 3,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G4611",
+   "lemma": "Σιλωάμ",
+   "strong": "G4611",
+   "total": 3,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G4734",
+   "lemma": "Στεφανᾶς",
+   "strong": "G4734",
+   "total": 3,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G5019",
+   "lemma": "Ταρσός",
+   "strong": "G5019",
+   "total": 3,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G5085",
+   "lemma": "Τιβεριάς",
+   "strong": "G5085",
+   "total": 3,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G5161",
+   "lemma": "Τρόφιμος",
+   "strong": "G5161",
+   "total": 3,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G5329",
+   "lemma": "Φαρές",
+   "strong": "G5329",
+   "total": 3,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G5403",
+   "lemma": "Φοινίκη",
+   "strong": "G5403",
+   "total": 3,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G5435",
+   "lemma": "Φρυγία",
+   "strong": "G5435",
+   "total": 3,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G5546",
+   "lemma": "Χριστιανός",
+   "strong": "G5546",
+   "total": 3,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G5598",
+   "lemma": "Ὦ",
+   "strong": "G5598",
+   "total": 3,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G5601",
+   "lemma": "Ἰωβήδ",
+   "forms": [
+    {
+     "form": "Ἰωβήδ",
+     "count": 2
+    },
+    {
+     "form": "Ἰωβήλ",
+     "count": 1
+    }
+   ],
+   "strong": "G5601",
+   "total": 3,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G10",
+   "lemma": "Ἀβιούδ",
+   "strong": "G10",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G13",
+   "lemma": "Ἅγαβος",
+   "strong": "G13",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G28",
+   "lemma": "Ἁγάρ",
+   "strong": "G28",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G107",
+   "lemma": "Ἀζώρ",
+   "strong": "G107",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G128",
+   "lemma": "Αἰθίοψ",
+   "strong": "G128",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G132",
+   "lemma": "Αἰνέας",
+   "strong": "G132",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G221",
+   "lemma": "Ἀλεξανδρεύς",
+   "strong": "G221",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G300",
+   "lemma": "Ἀμώς",
+   "strong": "G300",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G688",
+   "lemma": "Ἀραβία",
+   "strong": "G688",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G689",
+   "lemma": "Ἀράμ",
+   "strong": "G689",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G751",
+   "lemma": "Ἄρχιππος",
+   "strong": "G751",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G760",
+   "lemma": "Ἀσάφ",
+   "strong": "G760",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G768",
+   "lemma": "Ἀσήρ",
+   "strong": "G768",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G789",
+   "lemma": "Ἆσσος",
+   "strong": "G789",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G881",
+   "lemma": "Ἀχάζ",
+   "strong": "G881",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G885",
+   "lemma": "Ἀχίμ",
+   "strong": "G885",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G923",
+   "lemma": "Βαρσαββᾶς",
+   "strong": "G923",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G960",
+   "lemma": "Βέροια",
+   "strong": "G960",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G978",
+   "lemma": "Βιθυνία",
+   "strong": "G978",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G1043",
+   "lemma": "Γαβριήλ",
+   "strong": "G1043",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G1059",
+   "lemma": "Γαμαλιήλ",
+   "strong": "G1059",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G1068",
+   "lemma": "Γεθσημανί",
+   "strong": "G1068",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G1393",
+   "lemma": "Δορκάς",
+   "strong": "G1393",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G1478",
+   "lemma": "Ἑζεκίας",
+   "strong": "G1478",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G1648",
+   "lemma": "Ἐλεάζαρ",
+   "strong": "G1648",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G1664",
+   "lemma": "Ἐλιούδ",
+   "strong": "G1664",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G1674",
+   "lemma": "Ἑλληνίς",
+   "strong": "G1674",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G1891",
+   "lemma": "Ἐπαφρόδιτος",
+   "strong": "G1891",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G2060",
+   "lemma": "Ἑρμῆς",
+   "strong": "G2060",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G2096",
+   "lemma": "Εὕα",
+   "strong": "G2096",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G2166",
+   "lemma": "Εὐφράτης",
+   "strong": "G2166",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G2203",
+   "lemma": "Ζεύς",
+   "strong": "G2203",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G2241",
+   "lemma": "ἠλί",
+   "strong": "G2241",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G2280",
+   "lemma": "Θαδδαῖος",
+   "strong": "G2280",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G2321",
+   "lemma": "Θεόφιλος",
+   "strong": "G2321",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G2383",
+   "lemma": "Ἰάϊρος",
+   "strong": "G2383",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G2415",
+   "lemma": "Ἱεροσολυμίτης",
+   "strong": "G2415",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G2423",
+   "lemma": "Ἰεχονίας",
+   "strong": "G2423",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G2454",
+   "lemma": "Ἰουδαϊσμός",
+   "strong": "G2454",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G2457",
+   "lemma": "Ἰούλιος",
+   "strong": "G2457",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G2488",
+   "lemma": "Ἰωαθάμ",
+   "strong": "G2488",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G2489",
+   "lemma": "Ἰωάννα",
+   "strong": "G2489",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G2496",
+   "lemma": "Ἰωράμ",
+   "strong": "G2496",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G2498",
+   "lemma": "Ἰωσαφάτ",
+   "strong": "G2498",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G2502",
+   "lemma": "Ἰωσίας",
+   "strong": "G2502",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G2536",
+   "lemma": "Καϊνάμ",
+   "strong": "G2536",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G2581",
+   "lemma": "Καναναῖος",
+   "strong": "G2581",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G2587",
+   "lemma": "Καππαδοκία",
+   "strong": "G2587",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G2747",
+   "lemma": "Κεγχρεαί",
+   "strong": "G2747",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G2881",
+   "lemma": "Κορίνθιος",
+   "strong": "G2881",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G2912",
+   "lemma": "Κρής",
+   "strong": "G2912",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G2921",
+   "lemma": "Κρίσπος",
+   "strong": "G2921",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G3019",
+   "lemma": "Λευίτης",
+   "strong": "G3019",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G3066",
+   "lemma": "Λούκιος",
+   "strong": "G3066",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G3070",
+   "lemma": "Λυδία",
+   "strong": "G3070",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G3079",
+   "lemma": "Λυσίας",
+   "strong": "G3079",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G3157",
+   "lemma": "Ματθάν",
+   "strong": "G3157",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G3158",
+   "lemma": "Μαθθάτ",
+   "strong": "G3158",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G3159",
+   "lemma": "Μαθθίας",
+   "strong": "G3159",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G3161",
+   "lemma": "Ματταθίας",
+   "strong": "G3161",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G3197",
+   "lemma": "Μελχί",
+   "strong": "G3197",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G3318",
+   "lemma": "Μεσοποταμία",
+   "strong": "G3318",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G3323",
+   "lemma": "Μεσσίας",
+   "strong": "G3323",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G3413",
+   "lemma": "Μιχαήλ",
+   "strong": "G3413",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G3465",
+   "lemma": "Μυσία",
+   "strong": "G3465",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G3531",
+   "lemma": "Νικολαΐτης",
+   "strong": "G3531",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G3536",
+   "lemma": "Νινευίτης",
+   "strong": "G3536",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G3604",
+   "lemma": "Ὀζίας",
+   "strong": "G3604",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G3682",
+   "lemma": "Ὀνήσιμος",
+   "strong": "G3682",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G3683",
+   "lemma": "Ὀνησίφορος",
+   "strong": "G3683",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G3974",
+   "lemma": "Πάφος",
+   "strong": "G3974",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G4010",
+   "lemma": "Πέργαμος",
+   "strong": "G4010",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G4099",
+   "lemma": "Πισιδία",
+   "strong": "G4099",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G4195",
+   "lemma": "Πόντος",
+   "strong": "G4195",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G4196",
+   "lemma": "Πόπλιος",
+   "strong": "G4196",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G4460",
+   "lemma": "Ῥαάβ",
+   "strong": "G4460",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G4497",
+   "lemma": "Ῥοβοάμ",
+   "strong": "G4497",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G4504",
+   "lemma": "Ῥοῦφος",
+   "strong": "G4504",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G4519",
+   "lemma": "Σαβαώθ",
+   "strong": "G4519",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G4524",
+   "lemma": "Σαδώκ",
+   "strong": "G4524",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G4527",
+   "lemma": "Σαλά",
+   "strong": "G4527",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G4532",
+   "lemma": "Σαλήμ",
+   "strong": "G4532",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G4533",
+   "lemma": "Σαλμών",
+   "strong": "G4533",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G4539",
+   "lemma": "Σαλώμη",
+   "strong": "G4539",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G4542",
+   "lemma": "Σαμαρῖτις",
+   "strong": "G4542",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G4681",
+   "lemma": "Σπανία",
+   "strong": "G4681",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G4966",
+   "lemma": "Συχέμ",
+   "strong": "G4966",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G4988",
+   "lemma": "Σωσθένης",
+   "strong": "G4988",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G5000",
+   "lemma": "Ταβιθά",
+   "strong": "G5000",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G5018",
+   "lemma": "Ταρσεύς",
+   "strong": "G5018",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G5061",
+   "lemma": "Τέρτυλλος",
+   "strong": "G5061",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G5211",
+   "lemma": "Ὑμέναιος",
+   "strong": "G5211",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G5359",
+   "lemma": "Φιλαδέλφεια",
+   "strong": "G5359",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G5477",
+   "lemma": "Χανάαν",
+   "strong": "G5477",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G5488",
+   "lemma": "Χαρράν",
+   "strong": "G5488",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G5523",
+   "lemma": "Χοραζίν",
+   "strong": "G5523",
+   "total": 2,
+   "band": "2-4"
+  },
+  {
+   "lemmaId": "grc:G0",
+   "lemma": "Ἀρνί",
+   "strong": "G0",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G3",
+   "lemma": "Ἀβαδδών",
+   "strong": "G3",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G8",
+   "lemma": "Ἀβιαθάρ",
+   "strong": "G8",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G9",
+   "lemma": "Ἀβιληνή",
+   "strong": "G9",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G78",
+   "lemma": "Ἀδδί",
+   "strong": "G78",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G99",
+   "lemma": "Ἀδρίας",
+   "strong": "G99",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G108",
+   "lemma": "Ἄζωτος",
+   "strong": "G108",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G137",
+   "lemma": "Αἰνών",
+   "strong": "G137",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G184",
+   "lemma": "Ἁκελδαμάχ",
+   "strong": "G184",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G291",
+   "lemma": "Ἀμπλιᾶτος",
+   "strong": "G291",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G295",
+   "lemma": "Ἀμφίπολις",
+   "strong": "G295",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G301",
+   "lemma": "Ἀμώς",
+   "strong": "G301",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G408",
+   "lemma": "Ἀνδρόνικος",
+   "strong": "G408",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G451",
+   "lemma": "Ἅννα",
+   "strong": "G451",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G491",
+   "lemma": "Ἀντιοχεύς",
+   "strong": "G491",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G493",
+   "lemma": "Ἀντιπᾶς",
+   "strong": "G493",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G494",
+   "lemma": "Ἀντιπατρίς",
+   "strong": "G494",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G559",
+   "lemma": "Ἀπελλῆς",
+   "strong": "G559",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G623",
+   "lemma": "Ἀπολλύων",
+   "strong": "G623",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G624",
+   "lemma": "Ἀπολλωνία",
+   "strong": "G624",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G675",
+   "lemma": "Ἀππίου",
+   "strong": "G675",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G682",
+   "lemma": "Ἀπφία",
+   "strong": "G682",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G690",
+   "lemma": "Ἄραψ",
+   "strong": "G690",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G697",
+   "lemma": "Πάγος",
+   "strong": "G697",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G698",
+   "lemma": "Ἀρεοπαγίτης",
+   "strong": "G698",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G702",
+   "lemma": "Ἁρέτας",
+   "strong": "G702",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G711",
+   "lemma": "Ἀριστόβουλος",
+   "strong": "G711",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G717",
+   "lemma": "Ἁρμαγεδών",
+   "strong": "G717",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G734",
+   "lemma": "Ἀρτεμᾶς",
+   "strong": "G734",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G742",
+   "lemma": "Ἀρφαξάδ",
+   "strong": "G742",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G745",
+   "lemma": "Ἀρχέλαος",
+   "strong": "G745",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G774",
+   "lemma": "Ἀσιανός",
+   "strong": "G774",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G775",
+   "lemma": "Ἀσιάρχης",
+   "strong": "G775",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G799",
+   "lemma": "Ἀσύγκριτος",
+   "strong": "G799",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G825",
+   "lemma": "Ἀττάλεια",
+   "strong": "G825",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G828",
+   "lemma": "Αὐγοῦστος",
+   "strong": "G828",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G883",
+   "lemma": "Ἀχαϊκός",
+   "strong": "G883",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G896",
+   "lemma": "Βάαλ",
+   "strong": "G896",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G904",
+   "lemma": "Βαλάκ",
+   "strong": "G904",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G913",
+   "lemma": "Βαράκ",
+   "strong": "G913",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G914",
+   "lemma": "Βαραχίας",
+   "strong": "G914",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G919",
+   "lemma": "Βαριησοῦς",
+   "strong": "G919",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G920",
+   "lemma": "Βαριωνᾶ",
+   "strong": "G920",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G924",
+   "lemma": "Βαρτιμαῖος",
+   "strong": "G924",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G955",
+   "lemma": "Βελιάρ",
+   "strong": "G955",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G964",
+   "lemma": "Βηθεσδά",
+   "strong": "G964",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G986",
+   "lemma": "Βλάστος",
+   "strong": "G986",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G993",
+   "lemma": "Βοανηργές",
+   "strong": "G993",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G1007",
+   "lemma": "Βοσόρ",
+   "strong": "G1007",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G1042",
+   "lemma": "Γαββαθα",
+   "strong": "G1042",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G1045",
+   "lemma": "Γάδ",
+   "strong": "G1045",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G1048",
+   "lemma": "Γάζα",
+   "strong": "G1048",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G1052",
+   "lemma": "Γαλάτης",
+   "strong": "G1052",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G1066",
+   "lemma": "Γεδεών",
+   "strong": "G1066",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G1136",
+   "lemma": "Γώγ",
+   "strong": "G1136",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G1148",
+   "lemma": "Δαλμανουθά",
+   "strong": "G1148",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G1149",
+   "lemma": "Δαλματία",
+   "strong": "G1149",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G1152",
+   "lemma": "Δάμαρις",
+   "strong": "G1152",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G1158",
+   "lemma": "Δανιήλ",
+   "strong": "G1158",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G1354",
+   "lemma": "Διονύσιος",
+   "strong": "G1354",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G1359",
+   "lemma": "Διόσκουροι",
+   "strong": "G1359",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G1361",
+   "lemma": "Διοτρέφης",
+   "strong": "G1361",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G1409",
+   "lemma": "Δρούσιλλα",
+   "strong": "G1409",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G1443",
+   "lemma": "Ἔβερ",
+   "strong": "G1443",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G1639",
+   "lemma": "Ἐλαμίτης",
+   "strong": "G1639",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G1663",
+   "lemma": "Ἐλιέζερ",
+   "strong": "G1663",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G1666",
+   "lemma": "Ἐλισαῖος",
+   "strong": "G1666",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G1671",
+   "lemma": "Ἑλλάς",
+   "strong": "G1671",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G1678",
+   "lemma": "Ἐλμαδάμ",
+   "strong": "G1678",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G1681",
+   "lemma": "Ἐλύμας",
+   "strong": "G1681",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G1694",
+   "lemma": "Ἐμμανουήλ",
+   "strong": "G1694",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G1695",
+   "lemma": "Ἐμμαοῦς",
+   "strong": "G1695",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G1697",
+   "lemma": "Ἑμμώρ",
+   "strong": "G1697",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G1800",
+   "lemma": "Ἐνώς",
+   "strong": "G1800",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G1866",
+   "lemma": "Ἐπαίνετος",
+   "strong": "G1866",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G1946",
+   "lemma": "Ἐπικούρειος",
+   "strong": "G1946",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G2057",
+   "lemma": "Ἑρμᾶς",
+   "strong": "G2057",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G2061",
+   "lemma": "Ἑρμογένης",
+   "strong": "G2061",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G2069",
+   "lemma": "Ἑσλί",
+   "strong": "G2069",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G2103",
+   "lemma": "Εὔβουλος",
+   "strong": "G2103",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G2131",
+   "lemma": "Εὐνίκη",
+   "strong": "G2131",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G2136",
+   "lemma": "Εὐοδία",
+   "strong": "G2136",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G2148",
+   "lemma": "εὐρακύλων",
+   "strong": "G2148",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G2161",
+   "lemma": "Εὔτυχος",
+   "strong": "G2161",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G2187",
+   "lemma": "Ἐφραίμ",
+   "strong": "G2187",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G2196",
+   "lemma": "Ζάρα",
+   "strong": "G2196",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G2211",
+   "lemma": "Ζηνᾶς",
+   "strong": "G2211",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G2242",
+   "lemma": "Ἠλί",
+   "strong": "G2242",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G2262",
+   "lemma": "Ἤρ",
+   "strong": "G2262",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G2267",
+   "lemma": "Ἡρῳδίων",
+   "strong": "G2267",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G2283",
+   "lemma": "Θαμάρ",
+   "strong": "G2283",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G2291",
+   "lemma": "Θάρα",
+   "strong": "G2291",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G2333",
+   "lemma": "Θευδᾶς",
+   "strong": "G2333",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G2387",
+   "lemma": "Ἰαμβρῆς",
+   "strong": "G2387",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G2388",
+   "lemma": "Ἰανναί",
+   "strong": "G2388",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G2389",
+   "lemma": "Ἰάννης",
+   "strong": "G2389",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G2391",
+   "lemma": "Ἰάρετ",
+   "strong": "G2391",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G2401",
+   "lemma": "Ἰδουμαία",
+   "strong": "G2401",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G2403",
+   "lemma": "Ἰεζάβελ",
+   "strong": "G2403",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G2404",
+   "lemma": "Ἱεράπολις",
+   "strong": "G2404",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G2422",
+   "lemma": "Ἰεφθάε",
+   "strong": "G2422",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G2437",
+   "lemma": "Ἰλλυρικόν",
+   "strong": "G2437",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G2456",
+   "lemma": "Ἰουλία",
+   "strong": "G2456",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G2458",
+   "lemma": "Ἰουνία",
+   "strong": "G2458",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G2466",
+   "lemma": "Ἰσσαχάρ",
+   "strong": "G2466",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G2490",
+   "lemma": "Ἰωανάν",
+   "strong": "G2490",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G2492",
+   "lemma": "Ἰώβ",
+   "strong": "G2492",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G2493",
+   "lemma": "Ἰωήλ",
+   "strong": "G2493",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G2494",
+   "lemma": "Ἰωνάμ",
+   "strong": "G2494",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G2497",
+   "lemma": "Ἰωρίμ",
+   "strong": "G2497",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G2499",
+   "lemma": "Ἰησοῦς",
+   "strong": "G2499",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G2582",
+   "lemma": "Κανδάκη",
+   "strong": "G2582",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G2591",
+   "lemma": "Κάρπος",
+   "strong": "G2591",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G2748",
+   "lemma": "Κεδρών",
+   "strong": "G2748",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G2797",
+   "lemma": "Κίς",
+   "strong": "G2797",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G2802",
+   "lemma": "Καῦδα",
+   "strong": "G2802",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G2803",
+   "lemma": "Κλαυδία",
+   "strong": "G2803",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G2810",
+   "lemma": "Κλεοπᾶς",
+   "strong": "G2810",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G2832",
+   "lemma": "Κλωπᾶς",
+   "strong": "G2832",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G2834",
+   "lemma": "Κνίδος",
+   "strong": "G2834",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G2857",
+   "lemma": "Κολοσσαί",
+   "strong": "G2857",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G2878",
+   "lemma": "κορβανᾶς",
+   "strong": "G2878",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G2879",
+   "lemma": "Κόρε",
+   "strong": "G2879",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G2890",
+   "lemma": "Κούαρτος",
+   "strong": "G2890",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G2913",
+   "lemma": "Κρήσκης",
+   "strong": "G2913",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G2957",
+   "lemma": "Κυρήνη",
+   "strong": "G2957",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G2958",
+   "lemma": "Κυρήνιος",
+   "strong": "G2958",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G2972",
+   "lemma": "Κώς",
+   "strong": "G2972",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G2973",
+   "lemma": "Κωσάμ",
+   "strong": "G2973",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G2984",
+   "lemma": "Λάμεχ",
+   "strong": "G2984",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G2994",
+   "lemma": "Λαοδικεύς",
+   "strong": "G2994",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G2996",
+   "lemma": "Λασαία",
+   "strong": "G2996",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G3018",
+   "lemma": "Λευίς",
+   "strong": "G3018",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G3032",
+   "lemma": "Λιβερτῖνος",
+   "strong": "G3032",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G3033",
+   "lemma": "Λιβύη",
+   "strong": "G3033",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G3044",
+   "lemma": "Λίνος",
+   "strong": "G3044",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G3071",
+   "lemma": "Λυκαονία",
+   "strong": "G3071",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G3073",
+   "lemma": "Λυκία",
+   "strong": "G3073",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G3078",
+   "lemma": "Λυσανίας",
+   "strong": "G3078",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G3090",
+   "lemma": "Λωΐς",
+   "strong": "G3090",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G3092",
+   "lemma": "Μάαθ",
+   "strong": "G3092",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G3093",
+   "lemma": "Μαγαδάν",
+   "strong": "G3093",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G3098",
+   "lemma": "Μαγώγ",
+   "strong": "G3098",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G3099",
+   "lemma": "Μαδιάμ",
+   "strong": "G3099",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G3103",
+   "lemma": "Μαθουσαλά",
+   "strong": "G3103",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G3104",
+   "lemma": "Μεννά",
+   "strong": "G3104",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G3121",
+   "lemma": "Μαλελεήλ",
+   "strong": "G3121",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G3124",
+   "lemma": "Μάλχος",
+   "strong": "G3124",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G3127",
+   "lemma": "Μαναήν",
+   "strong": "G3127",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G3160",
+   "lemma": "Ματταθά",
+   "strong": "G3160",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G3190",
+   "lemma": "Μελεά",
+   "strong": "G3190",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G3194",
+   "lemma": "Μελίτη",
+   "strong": "G3194",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G3370",
+   "lemma": "Μῆδος",
+   "strong": "G3370",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G3412",
+   "lemma": "Μιτυλήνη",
+   "strong": "G3412",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G3416",
+   "lemma": "Μνάσων",
+   "strong": "G3416",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G3434",
+   "lemma": "Μολόχ",
+   "strong": "G3434",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G3477",
+   "lemma": "Ναγγαί",
+   "strong": "G3477",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G3481",
+   "lemma": "Ναθάμ",
+   "strong": "G3481",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G3484",
+   "lemma": "Ναΐν",
+   "strong": "G3484",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G3486",
+   "lemma": "Ναούμ",
+   "strong": "G3486",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G3488",
+   "lemma": "Νάρκισσος",
+   "strong": "G3488",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G3493",
+   "lemma": "Ναχώρ",
+   "strong": "G3493",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G3497",
+   "lemma": "Ναιμάν",
+   "strong": "G3497",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G3517",
+   "lemma": "Νηρεύς",
+   "strong": "G3517",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G3518",
+   "lemma": "Νηρί",
+   "strong": "G3518",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G3526",
+   "lemma": "Νίγερ",
+   "strong": "G3526",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G3527",
+   "lemma": "Νικάνωρ",
+   "strong": "G3527",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G3532",
+   "lemma": "Νικόλαος",
+   "strong": "G3532",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G3533",
+   "lemma": "Νικόπολις",
+   "strong": "G3533",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G3535",
+   "lemma": "Νινευίτης",
+   "strong": "G3535",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G3564",
+   "lemma": "Νύμφας",
+   "strong": "G3564",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G3652",
+   "lemma": "Ὀλυμπᾶς",
+   "strong": "G3652",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G3773",
+   "lemma": "Οὐρβανός",
+   "strong": "G3773",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G3774",
+   "lemma": "Οὐρίας",
+   "strong": "G3774",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G3934",
+   "lemma": "Πάρθος",
+   "strong": "G3934",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G3937",
+   "lemma": "Παρμενᾶς",
+   "strong": "G3937",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G3959",
+   "lemma": "Πάταρα",
+   "strong": "G3959",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G3962",
+   "lemma": "πατήρ",
+   "strong": "G3962",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G3963",
+   "lemma": "Πάτμος",
+   "strong": "G3963",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G3969",
+   "lemma": "Πατροβᾶς",
+   "strong": "G3969",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G4069",
+   "lemma": "Περσίς",
+   "strong": "G4069",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G4201",
+   "lemma": "Πόρκιος",
+   "strong": "G4201",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G4223",
+   "lemma": "Ποτίολοι",
+   "strong": "G4223",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G4227",
+   "lemma": "Πούδης",
+   "strong": "G4227",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G4402",
+   "lemma": "Πρόχορος",
+   "strong": "G4402",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G4424",
+   "lemma": "Πτολεμαΐς",
+   "strong": "G4424",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G4450",
+   "lemma": "Πύρρος",
+   "strong": "G4450",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G4466",
+   "lemma": "Ῥαγαύ",
+   "strong": "G4466",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G4471",
+   "lemma": "Ῥαμά",
+   "strong": "G4471",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G4477",
+   "lemma": "Ῥαχάβ",
+   "strong": "G4477",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G4478",
+   "lemma": "Ῥαχήλ",
+   "strong": "G4478",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G4479",
+   "lemma": "Ῥεβέκκα",
+   "strong": "G4479",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G4481",
+   "lemma": "Ῥαιφάν",
+   "strong": "G4481",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G4484",
+   "lemma": "Ῥήγιον",
+   "strong": "G4484",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G4488",
+   "lemma": "Ῥησά",
+   "strong": "G4488",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G4498",
+   "lemma": "Ῥόδη",
+   "strong": "G4498",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G4499",
+   "lemma": "Ῥόδος",
+   "strong": "G4499",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G4502",
+   "lemma": "Ῥουβήν",
+   "strong": "G4502",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G4503",
+   "lemma": "Ῥούθ",
+   "strong": "G4503",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G4529",
+   "lemma": "Σαλαμίς",
+   "strong": "G4529",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G4530",
+   "lemma": "Σαλείμ",
+   "strong": "G4530",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G4534",
+   "lemma": "Σαλμώνη",
+   "strong": "G4534",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G4543",
+   "lemma": "Σαμοθρᾴκη",
+   "strong": "G4543",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G4544",
+   "lemma": "Σάμος",
+   "strong": "G4544",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G4546",
+   "lemma": "Σαμψών",
+   "strong": "G4546",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G4551",
+   "lemma": "Σάπφιρα",
+   "strong": "G4551",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G4558",
+   "lemma": "Σάρεπτα",
+   "strong": "G4558",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G4562",
+   "lemma": "Σερούχ",
+   "strong": "G4562",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G4565",
+   "lemma": "Σαρών",
+   "strong": "G4565",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G4580",
+   "lemma": "Σεκοῦνδος",
+   "strong": "G4580",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G4581",
+   "lemma": "Σελεύκεια",
+   "strong": "G4581",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G4584",
+   "lemma": "Σεμεΐν",
+   "strong": "G4584",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G4588",
+   "lemma": "Σέργιος",
+   "strong": "G4588",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G4589",
+   "lemma": "Σήθ",
+   "strong": "G4589",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G4590",
+   "lemma": "Σήμ",
+   "strong": "G4590",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G4630",
+   "lemma": "Σκευᾶς",
+   "strong": "G4630",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G4658",
+   "lemma": "Σκύθης",
+   "strong": "G4658",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G4668",
+   "lemma": "Σμύρνα",
+   "strong": "G4668",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G4677",
+   "lemma": "Σουσάννα",
+   "strong": "G4677",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G4941",
+   "lemma": "Συντύχη",
+   "strong": "G4941",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G4946",
+   "lemma": "Συράκουσαι",
+   "strong": "G4946",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G4948",
+   "lemma": "Σύρος",
+   "strong": "G4948",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G4949",
+   "lemma": "Συροφοινίκισσα",
+   "strong": "G4949",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G4950",
+   "lemma": "Σύρτις",
+   "strong": "G4950",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G4965",
+   "lemma": "Συχάρ",
+   "strong": "G4965",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G4986",
+   "lemma": "Σώπατρος",
+   "strong": "G4986",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G4989",
+   "lemma": "Σωσίπατρος",
+   "strong": "G4989",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G5060",
+   "lemma": "Τέρτιος",
+   "strong": "G5060",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G5086",
+   "lemma": "Τιβέριος",
+   "strong": "G5086",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G5090",
+   "lemma": "Τιμαῖος",
+   "strong": "G5090",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G5096",
+   "lemma": "Τίμων",
+   "strong": "G5096",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G5170",
+   "lemma": "Τρύφαινα",
+   "strong": "G5170",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G5173",
+   "lemma": "Τρυφῶσα",
+   "strong": "G5173",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G5181",
+   "lemma": "Τύραννος",
+   "strong": "G5181",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G5183",
+   "lemma": "Τύριος",
+   "strong": "G5183",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G5317",
+   "lemma": "Φάλεκ",
+   "strong": "G5317",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G5323",
+   "lemma": "Φανουήλ",
+   "strong": "G5323",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G5371",
+   "lemma": "Φιλήμων",
+   "strong": "G5371",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G5372",
+   "lemma": "Φίλητος",
+   "strong": "G5372",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G5374",
+   "lemma": "Φιλιππήσιος",
+   "strong": "G5374",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G5378",
+   "lemma": "Φιλόλογος",
+   "strong": "G5378",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G5393",
+   "lemma": "Φλέγων",
+   "strong": "G5393",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G5402",
+   "lemma": "Φοίβη",
+   "strong": "G5402",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G5405",
+   "lemma": "Φοῖνιξ",
+   "strong": "G5405",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G5415",
+   "lemma": "Φορτουνᾶτος",
+   "strong": "G5415",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G5436",
+   "lemma": "Φύγελος",
+   "strong": "G5436",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G5466",
+   "lemma": "Χαλδαῖος",
+   "strong": "G5466",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G5502",
+   "lemma": "Χερούβ",
+   "strong": "G5502",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G5508",
+   "lemma": "Χίος",
+   "strong": "G5508",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G5514",
+   "lemma": "Χλόη",
+   "strong": "G5514",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G5529",
+   "lemma": "Χουζᾶς",
+   "strong": "G5529",
+   "total": 1,
+   "band": "1"
+  },
+  {
+   "lemmaId": "grc:G5617",
+   "lemma": "Ὡσηέ",
+   "strong": "G5617",
+   "total": 1,
+   "band": "1"
+  }
+ ]
+}

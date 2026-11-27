@@ -1,0 +1,51 @@
+# 固有名詞の同定データ（キュー #412・ドラフト）
+
+固有名詞には語義を出さず、「同定」（その名前が誰・何を指すかの一行説明）を出す。そのためのデータで、NGSD の語義とは別の層として作る。表示（語ページ・PDF）への組み込みはデータ確定後の別アクション。**ここにあるものはすべてドラフト（未確定）**で、本番データ・表示には何も反映していない。
+
+## ファイル
+
+| パス | 内容 |
+| --- | --- |
+| `target-list.json` | 対象リスト。新約本文（`public/bible_data/nt`、全260章）で `type` が `proper` のトークンを lemmaId 単位で数えた 540 レンマ・4,626 トークン。各項目は `lemmaId`・`lemma`（最も多い表記）・`forms`（表記が2つ以上あるときの内訳）・`strong`・`total`・`band`（頻度帯） |
+| `drafts/<Strong>.json` | パイロット（頻度20以上・33レンマ）の同定ドラフト。1レンマ＝1ファイル |
+| `tools/build-target-list.cjs` | `target-list.json` を作る。仕様の実測値（540・4,626、頻度帯ごとの内訳）と一致しなければ書かずに止まる。`--check` で再生成結果との一致を確認 |
+| `tools/pilot-judgments.cjs` | 同定の判断表（対象の文言・割り当てる箇所・注記・迷う箇所）。人が書く正本 |
+| `tools/build-pilot-drafts.cjs` | 判断表を本文のトークンに当てて `drafts/` を書く。`--check` で各ドラフトの count 合計＝total を機械確認 |
+
+```sh
+node proper-nouns/tools/build-target-list.cjs          # 対象リスト
+node proper-nouns/tools/build-pilot-drafts.cjs         # ドラフト生成（割り当ての検査つき）
+node proper-nouns/tools/build-pilot-drafts.cjs --check # count 合計＝total の確認
+```
+
+## ドラフトの形式
+
+```jsonc
+{
+  "lemmaId": "grc:G4613",
+  "lemma": "Σίμων",
+  "forms": [{ "form": "…", "count": 0 }],   // 表記が2つ以上ある lemmaId のみ
+  "strong": "G4613",
+  "total": 75,                               // この lemmaId のトークン総数
+  "status": "draft",
+  "identifications": [                       // 指す対象ごと。語義とは呼ばない
+    { "id": "1", "label_ja": "シモン・ペテロ（十二弟子の一人）", "count": 50, "refs": ["MAT 4:18", "…"] }
+  ],
+  "note_ja": "…",                            // 任意：称号の来歴、別 lemmaId が同じ対象を指すこと など
+  "flagged": [                               // 任意：振り分けに迷う箇所（確定はポポの一次判定とユーザーの決定）
+    { "refs": ["GAL 2:9"], "assigned_to": ["2"], "reason_ja": "…" }
+  ]
+}
+```
+
+- `count` はトークン数、`refs` は節単位（重複なし・本文順）。同じ節に同じ名前が2回あれば `count` は2、`refs` は1件。
+- 指す対象が一つの名前は `identifications` が1要素で、`count` ＝ `total`。複数に分かれる名前は `count` の合計 ＝ `total`。
+- `flagged` の箇所も、いったんどこかの対象に割り当ててある（`assigned_to`）。`refs` が `["（全体）"]` のものは、レンマ全体の分け方そのものの判断。
+- 別の lemmaId が同じ対象を指す場合（Ἰερουσαλήμ と Ἱεροσόλυμα、Πέτρος と Σίμων、Ἰωσήφ〈使徒4:36〉と Βαρναβᾶς など）は `note_ja` に書き、項目は統合しない。
+
+## 作り方
+
+- 同定は新約本文そのものに基づいて書いた（各箇所の前後の本文を読んで割り当てた）。Abbott-Smith の固有名詞項目は出発点の仮説としてだけ使った。現代の辞書・事典の文章は写していない。
+- 名の表記は bible_data の `japanese`（パウロ・ペテロ・パリサイ人・ピリポ など）にそろえた。
+- 判断表の ref は、同じ節に同じ lemmaId が2つ以上あるときは `#n` で何番目かを指定しないとエラーになる（取り違え防止）。全トークンがちょうど一度ずつ割り当てられたことを生成時に検査している。
+- 日本語のみ。他言語は JA 確定後の別アクション。
