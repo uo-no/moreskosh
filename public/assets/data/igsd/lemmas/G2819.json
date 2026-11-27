@@ -1,0 +1,94 @@
+{
+ "lemma": "κλῆρος",
+ "lemmaId": "grc:G2819",
+ "strong": "G2819",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "くじ",
+   "label_en": "lot",
+   "label_es": "suerte (sorteo)",
+   "label_sv": "lott",
+   "def": "くじ、くじ引き。『くじを引いた』『くじがマッティアに当たった』『下着を求めてくじを引いた』『その衣を分けようとくじを引いた』。",
+   "def_en": "A lot, the casting of lots: “cast lots”, “the lot fell on Matthias”, “cast lots for my tunic”, “divided his garments by casting lots”.",
+   "def_es": "La suerte, el sorteo: «echaron suertes», «la suerte cayó sobre Matías», «sobre mi ropa echaron suertes», «repartieron sus vestidos echando suertes».",
+   "def_sv": "Lott och lottkastning: ”kastade lott”, ”lotten föll på Mattias”, ”kastade lott om livklädnaden”, ”delade hans kläder genom lottkastning”.",
+   "layers": {
+    "nt": 6,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒1:26（2回）、ヨハネ19:24、ルカ23:34、マタイ27:35、マルコ15:24。LXX ヨシュア19:40・民数記、教父（6.6）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "割り当て／分け前",
+   "label_en": "allotment / share",
+   "label_es": "porción / parte",
+   "label_sv": "andel / tilldelning",
+   "def": "割り当て、分け前。『この務めの割り当てにあずかり』『このことにあずかる分も権利もない』。",
+   "def_en": "An allotment, a share: “obtained a share in this ministry”, “you have neither part nor lot in this matter”.",
+   "def_es": "Asignación, parte: «tenía parte en este ministerio», «no tienes tú parte ni suerte en este asunto».",
+   "def_sv": "Andel och del: ”fick del i detta ämbete”, ”du har varken del eller lott i detta”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒1:17・8:21。LXX 申命記3:18 などに並行。教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "相続分／嗣業（聖徒の）",
+   "label_en": "inheritance (of the saints)",
+   "label_es": "herencia (de los santos)",
+   "label_sv": "arvslott (de heligas)",
+   "def": "嗣業、受け継ぐ分。『聖なる者たちの中で嗣業を受ける』『光の中にある聖徒の相続分にあずかる』。",
+   "def_en": "Inheritance, the portion one succeeds to: “receive a place among those who are sanctified”, “share in the inheritance of the saints in light”.",
+   "def_es": "Heredad, la parte que se recibe: «reciban herencia entre los santificados», «participar de la herencia de los santos en luz».",
+   "def_sv": "Arvet, den del man får: ”få arvedel bland de helgade”, ”få del i det arv de heliga har i ljuset”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒26:18、コロサイ1:12。LXX 申命記3:18 に並行。教父の代表例では確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "4",
+   "label": "委ねられた者たち",
+   "label_en": "those entrusted",
+   "label_es": "los encomendados",
+   "label_sv": "de anförtrodda",
+   "def": "割り当てられた（委ねられた）人々。『あなたがたにゆだねられている者たち』（Ⅰペテロ5:3）。",
+   "def_en": "The people allotted (entrusted): “those in your charge” (1 Pet 5:3).",
+   "def_es": "Las personas asignadas (confiadas): «los que están a vuestro cuidado» (1 P 5:3).",
+   "def_sv": "De människor som tilldelats någon: ”dem som kommit på er lott” (1 Pet 5:3).",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "Ⅰペテロ5:3 の1例のみ。教父（4.1.2）に並行。LXX の代表例では確認していない。語義2との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40027035009": "1",
+  "n41015024010": "1",
+  "n42023034019": "1",
+  "n43019024031": "1",
+  "n44001017009": "2",
+  "n44001026003": "1",
+  "n44001026008": "1",
+  "n44008021006": "2",
+  "n44026018024": "3",
+  "n51001012011": "3",
+  "n60005003005": "4"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（くじ／割り当て／嗣業／委ねられた者）による。"
+}

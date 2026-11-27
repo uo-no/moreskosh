@@ -1,0 +1,53 @@
+{
+ "lemma": "καταφέρω",
+ "lemmaId": "grc:G2702",
+ "strong": "G2702",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "沈む・襲われる（眠気に）",
+   "label_en": "to be overcome (by sleep)",
+   "label_es": "ser vencido (por el sueño)",
+   "label_sv": "att överväldigas (av sömn)",
+   "def": "眠気に襲われる、沈む。『眠気に襲われ』『眠りに負けて』。",
+   "def_en": "To be overpowered by drowsiness, to sink: “was overcome by drowsiness”, “overpowered by sleep”.",
+   "def_es": "Quedar rendido de sueño, caer: «rendido por un sueño profundo», «vencido por el sueño».",
+   "def_sv": "Att dignas av sömnighet, att sjunka: ”överfölls av sömnighet”, ”övermannad av sömnen”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒20:9（2回）。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "もたらす・投ずる",
+   "label_en": "to bring, to cast",
+   "label_es": "presentar, dar (el voto)",
+   "label_sv": "att framföra, att avge",
+   "def": "持ち込む、投ずる、告発を持ち出す。『多くの重い罪状を持ち出し』『わたしは票を投じた』。",
+   "def_en": "To bring in, to cast (a vote), to bring (charges): “bringing many serious charges”, “I cast my vote”.",
+   "def_es": "Aportar, depositar, formular acusaciones: «presentando muchas y graves acusaciones», «yo di mi voto».",
+   "def_sv": "Att lägga fram, avge (röst), framställa anklagelser: ”framförde många svåra anklagelser”, ”jag lade min röst”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒25:7・26:10。LXX、教父に並行。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n44020009010": "1",
+  "n44020009018": "1",
+  "n44025007015": "2",
+  "n44026010024": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（眠気／持ち出す・投ずる）による。"
+}

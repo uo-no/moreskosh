@@ -1,0 +1,71 @@
+{
+ "lemma": "ἀφανίζω",
+ "lemmaId": "grc:G853",
+ "strong": "G853",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "滅ぼす・損なう",
+   "label_en": "to destroy, to spoil",
+   "label_es": "destruir, corromper",
+   "label_sv": "att förstöra",
+   "def": "滅ぼす、損なう（虫や錆びが）。『虫が食い、さびがつき』『虫もさびもつかず』。",
+   "def_en": "To destroy or spoil (as moth and rust do): “moth eats and rust attacks”, “neither moth nor rust”.",
+   "def_es": "Destruir, dañar (la polilla o el orín): «la polilla come y el óxido corroe», «ni la polilla ni el óxido».",
+   "def_sv": "Att förstöra, fördärva (om mal och rost): ”mal äter och rost angriper”, ”varken mal eller rost”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マタイ6:19・6:20。LXX に並行。教父の代表例では確認していない。語義2・3との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "やつれさせる",
+   "label_en": "to disfigure",
+   "label_es": "demudar",
+   "label_sv": "att vanställa",
+   "def": "顔を損なう（断食で）。『顔を見苦しくして』。",
+   "def_en": "To disfigure the face (in fasting): “making their faces unsightly”.",
+   "def_es": "Desfigurar el rostro (al ayunar): «desfigurando sus rostros».",
+   "def_sv": "Att vanställa ansiktet (vid fasta): ”vanställer sina ansikten”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ6:16。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "滅びる・消える",
+   "label_en": "to perish, to vanish",
+   "label_es": "perecer, desvanecerse",
+   "label_sv": "att förgås, att försvinna",
+   "def": "消え失せる、滅びる。『滅びよ』『しばらくの間あらわれて消えてしまう霧』。",
+   "def_en": "To vanish away, to perish: “perish”, “a mist that appears for a little while and then vanishes”.",
+   "def_es": "Desaparecer, perecer: «pereced», «una niebla que aparece por un poco de tiempo y luego se desvanece».",
+   "def_sv": "Att försvinna, att gå under: ”gå under”, ”en dimma som syns en kort stund och sedan försvinner”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒13:41、ヤコブ4:14。LXX に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40006016010": "2",
+  "n40006019012": "1",
+  "n40006020012": "1",
+  "n44013041007": "3",
+  "n59004014020": "3"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（滅ぼす／やつれさせる／滅びる）による。"
+}

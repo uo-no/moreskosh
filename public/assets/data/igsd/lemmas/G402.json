@@ -1,0 +1,80 @@
+{
+ "lemma": "ἀναχωρέω",
+ "lemmaId": "grc:G402",
+ "strong": "G402",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "退く／引きこもる",
+   "label_en": "to withdraw / retire",
+   "label_es": "retirarse / apartarse",
+   "label_sv": "att dra sig undan",
+   "def": "危険・群衆などから退く、引きこもる。『ガリラヤに退かれた』『舟で人里離れた所へ退かれた』『ひとりで山に退かれた』『エジプトに逃れた』。",
+   "def_en": "To withdraw from danger, crowds, and the like: “withdrew to Galilee”, “withdrew by boat to a desolate place”, “withdrew to the mountain by himself”, “fled to Egypt”.",
+   "def_es": "Retirarse del peligro, de la multitud, etc.: «se retiró a Galilea», «se apartó en una barca a un lugar desierto», «se retiró al monte él solo», «huyó a Egipto».",
+   "def_sv": "Att dra sig undan fara, folkmassor och liknande: ”drog sig undan till Galileen”, ”for i båt till en öde plats”, ”drog sig upp på berget för sig själv”, ”flydde till Egypten”.",
+   "layers": {
+    "nt": 9,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マタイ2:13・2:14・2:22・4:12・12:15・14:13・15:21、ヨハネ6:15、マルコ3:7。LXX Ⅰマカバイ5:27 に並行。教父の代表例では確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "立ち去る／帰る",
+   "label_en": "to go away / return",
+   "label_es": "irse / regresar",
+   "label_sv": "att gå sin väg / återvända",
+   "def": "立ち去る、去る、帰って行く。『別の道から自分の国へ帰って行った』『出て行って首をつった』『あっちへ行っていなさい』。",
+   "def_en": "To depart, leave, go back: “returned to their own country by another route”, “went out and hanged himself”, “go away”.",
+   "def_es": "Marcharse, partir, volver: «regresaron a su tierra por otro camino», «fue y se ahorcó», «apartaos».",
+   "def_sv": "Att ge sig av, gå bort, vända hem: ”återvände hem en annan väg”, ”gick bort och hängde sig”, ”gå härifrån”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "マタイ2:12・27:5・9:24。教父（26.11.2）に並行。LXX の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "脇へ寄る",
+   "label_en": "to go aside",
+   "label_es": "retirarse aparte",
+   "label_sv": "att gå avsides",
+   "def": "人目を避けて脇へ寄る。『彼を脇へ連れて行って』『退場してから互いに話し合った』。",
+   "def_en": "To step aside out of public view: “taking him aside”, “when they had gone out, they talked among themselves”.",
+   "def_es": "Apartarse de las miradas: «tomándole aparte», «cuando se retiraron aparte, hablaban entre sí».",
+   "def_sv": "Att dra sig åt sidan bort från andras blickar: ”tog honom avsides”, ”när de gått ut talade de med varandra”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒23:19・26:31。LXX 代表例に並行。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40002012012": "2",
+  "n40002013001": "1",
+  "n40002014013": "1",
+  "n40002022020": "1",
+  "n40004012006": "1",
+  "n40009024002": "2",
+  "n40012015005": "1",
+  "n40014013005": "1",
+  "n40015021006": "1",
+  "n40027005008": "2",
+  "n41003007008": "1",
+  "n43006015013": "1",
+  "n44023019009": "3",
+  "n44026031002": "3"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法による。"
+}

@@ -1,0 +1,53 @@
+{
+ "lemma": "φάτνη",
+ "lemmaId": "grc:G5336",
+ "strong": "G5336",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "飼い葉おけ",
+   "label_en": "manger",
+   "label_es": "pesebre",
+   "label_sv": "krubba",
+   "def": "飼い葉おけ。『飼い葉おけに寝かせた』『飼い葉おけの中に』『飼い葉おけに寝かせてある』。",
+   "def_en": "A feeding trough, a manger: “laid him in a manger”, “in the manger”, “lying in a manger”.",
+   "def_es": "Comedero de animales, pesebre: «lo acostó en un pesebre», «en el pesebre», «acostado en un pesebre».",
+   "def_sv": "En foderkrubba: ”lade honom i en krubba”, ”i krubban”, ”som ligger i en krubba”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ルカ2:7・2:12・2:16。語義2との境界は連続的。LXX の代表例は「家畜小屋」の用法を含み、この語義としては確認していない。教父の用例なし。"
+  },
+  {
+   "id": "2",
+   "label": "家畜小屋・まぐさ桶",
+   "label_en": "stall",
+   "label_es": "establo",
+   "label_sv": "stall, bås",
+   "def": "家畜をつなぐ小屋。『牛やろばを…つなぎ』。",
+   "def_en": "A stall where animals are tied: “untie … his ox or donkey from the stall”.",
+   "def_es": "Lugar donde se ata a los animales: «desata … su buey o su asno del pesebre».",
+   "def_sv": "Byggnad eller bås där djur står bundna: ”löser … sin oxe eller åsna från båset”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ルカ13:15。LXX に並行。教父の用例なし。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42002007015": "1",
+  "n42002012012": "1",
+  "n42002016018": "1",
+  "n42013015023": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（飼い葉おけ／家畜小屋）による。"
+}

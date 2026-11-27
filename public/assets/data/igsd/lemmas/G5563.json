@@ -1,0 +1,96 @@
+{
+ "lemma": "χωρίζω",
+ "lemmaId": "grc:G5563",
+ "strong": "G5563",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "離す／離縁する（夫婦を）",
+   "label_en": "to separate / divorce (married couple)",
+   "label_es": "separar / divorciarse (cónyuges)",
+   "label_sv": "att skilja (makar)",
+   "def": "引き離す、別れる、離縁する。『神が合わせられたものを人が離してはならない』『妻は夫から別れてはならない』『不信者が離れて行くなら、離れるままにせよ』。",
+   "def_en": "To separate, part, divorce: “what God has joined together, let no one separate”, “a wife should not separate from her husband”, “if the unbeliever departs, let them depart”.",
+   "def_es": "Separar, apartarse, divorciarse: «lo que Dios juntó, no lo separe el hombre», «que la mujer no se separe del marido», «si el incrédulo se separa, sepárese».",
+   "def_sv": "Att skilja åt, separera: ”vad Gud har fogat samman får människan inte skilja”, ”en hustru ska inte skilja sig från sin man”, ”vill den icke troende skiljas, så må det ske”.",
+   "layers": {
+    "nt": 6,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "Ⅰコリ7:10・7:11・7:15（2回）、マタイ19:6、マルコ10:9。LXX 代表例に並行。教父の代表例では確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "離れる／立ち去る",
+   "label_en": "to leave / depart",
+   "label_es": "ausentarse / marcharse",
+   "label_sv": "att lämna / ge sig av",
+   "def": "離れる、立ち去る。『エルサレムを離れないように』『コリントを去って』『ユダヤ人はみなローマから退去するように』『しばらくの間離れていたのは』。",
+   "def_en": "To leave, to go away: “not to depart from Jerusalem”, “left Corinth”, “all the Jews to leave Rome”, “perhaps this is why he was parted from you for a while”.",
+   "def_es": "Irse, salir: «que no se fueran de Jerusalén», «salió de Corinto», «que todos los judíos saliesen de Roma», «quizá para esto se apartó de ti por algún tiempo».",
+   "def_sv": "Att lämna och resa bort: ”lämna inte Jerusalem”, ”lämnade Korinth”, ”alla judar skulle lämna Rom”, ”han var skild från dig en tid”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒1:4・18:1・18:2、ピレモン15。LXX・教父（26.8.1）に並行。"
+  },
+  {
+   "id": "3",
+   "label": "引き離す（愛から）",
+   "label_en": "to separate (from love)",
+   "label_es": "apartar (del amor)",
+   "label_sv": "att skilja (från kärleken)",
+   "def": "『キリストの愛から引き離す』。",
+   "def_en": "“Who shall separate us from the love of Christ?”",
+   "def_es": "«¿Quién nos separará del amor de Cristo?».",
+   "def_sv": "”Vem kan skilja oss från Kristi kärlek?”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ローマ8:35・8:39。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "4",
+   "label": "区別される／隔てられる",
+   "label_en": "to be set apart",
+   "label_es": "estar apartado / distinguido",
+   "label_sv": "att vara avskild",
+   "def": "区別される、別にされる。『罪人から離され』（ヘブル7:26）。",
+   "def_en": "To be distinguished, set apart: “separated from sinners” (Heb 7:26).",
+   "def_es": "Ser distinto, puesto aparte: «apartado de los pecadores» (He 7:26).",
+   "def_sv": "Att vara skild och avsatt: ”skild från syndare” (Heb 7:26).",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヘブル7:26 の1例のみ。語義3との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40019006015": "1",
+  "n41010009008": "1",
+  "n44001004008": "2",
+  "n44018001003": "2",
+  "n44018002023": "2",
+  "n45008035003": "3",
+  "n45008039011": "3",
+  "n46007010014": "1",
+  "n46007011004": "1",
+  "n46007015005": "1",
+  "n46007015006": "1",
+  "n57001015005": "2",
+  "n58007026010": "4"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（離縁／立ち去り／引き離し／区別）による。"
+}

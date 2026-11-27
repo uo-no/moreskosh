@@ -1,0 +1,64 @@
+{
+ "lemma": "παύω",
+ "lemmaId": "grc:G3973",
+ "strong": "G3973",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "やむ／やめる（中動）",
+   "label_en": "to cease / stop (middle)",
+   "label_es": "cesar / dejar de (voz media)",
+   "label_sv": "att upphöra / sluta (medium)",
+   "def": "止まる、やめる、終わる。『風がやんだ』『語り終えたとき』『祈ることをやめない』『預言はすたれる』『絶え間なく教え』。",
+   "def_en": "To stop, cease, come to an end: “the wind ceased”, “when he had finished speaking”, “do not cease to pray”, “prophecies will pass away”, “did not cease teaching”.",
+   "def_es": "Detenerse, cesar, terminar: «cesó el viento», «cuando terminó de hablar», «no cesamos de orar», «las profecías se acabarán», «no cesaban de enseñar».",
+   "def_sv": "Att stanna, upphöra, ta slut: ”vinden lade sig”, ”när han hade slutat tala”, ”vi slutar inte att be”, ”profetiorna ska försvinna”, ”slutade inte att undervisa”.",
+   "layers": {
+    "nt": 14,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰコリ13:8、Ⅰペテロ4:1、使徒20:1・20:31・21:32・6:13・5:42・13:10、コロサイ1:9、エペソ1:16、ヘブル10:2、ルカ11:1・5:4・8:24。LXX 箴言・イザヤ、教父（3.3.2）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "やめさせる（能動）",
+   "label_en": "to make cease (active)",
+   "label_es": "hacer cesar (activa)",
+   "label_sv": "att hejda (aktivt)",
+   "def": "止めさせる、やめさせる。『舌を悪から（やめさせよ）』。",
+   "def_en": "To bring to a stop, to restrain: “let him keep his tongue from evil”.",
+   "def_es": "Detener, refrenar: «refrene su lengua del mal».",
+   "def_sv": "Att få att upphöra, att hålla tillbaka: ”avhålla sin tunga från det onda”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰペテロ3:10 の1例（LXX 詩篇33:14〔34:13〕の引用）。教父（22.3）に並行。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42005004003": "1",
+  "n42008024021": "1",
+  "n42011001012": "1",
+  "n44005042011": "1",
+  "n44006013010": "1",
+  "n44013010015": "1",
+  "n44020001004": "1",
+  "n44020031010": "1",
+  "n44021032018": "1",
+  "n46013008011": "1",
+  "n49001016002": "1",
+  "n51001009010": "1",
+  "n58010002004": "1",
+  "n60003010010": "2",
+  "n60004001015": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は態（中動／能動）による。"
+}

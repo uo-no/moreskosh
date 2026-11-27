@@ -1,0 +1,80 @@
+{
+ "lemma": "κατεσθίω",
+ "lemmaId": "grc:G2719",
+ "strong": "G2719",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "食べ尽くす（文字どおり）",
+   "label_en": "to devour (literal)",
+   "label_es": "devorar (sentido literal)",
+   "label_sv": "att äta upp / sluka (bokstavligt)",
+   "def": "食べ尽くす、むさぼり食う。『鳥が来て食べてしまった』『巻物を食べ尽くした』『子を食い尽くそうと』。",
+   "def_en": "To eat up, to devour: “the birds came and devoured it”, “ate up the scroll”, “to devour the child”.",
+   "def_es": "Comerse del todo, devorar: «vinieron las aves y se lo comieron», «devoré el librito», «para devorar al hijo».",
+   "def_sv": "Att äta upp helt, att sluka: ”fåglarna kom och åt upp det”, ”slukade bokrullen”, ”för att sluka barnet”.",
+   "layers": {
+    "nt": 6,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マタイ13:4、マルコ4:4、ルカ8:5、黙示録10:9・10:10・12:4。LXX Ⅲ列王記ほかに並行。教父の代表例では確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "焼き尽くす／焼き滅ぼす（火・熱心）",
+   "label_en": "to consume / burn up (fire, zeal)",
+   "label_es": "consumir / abrasar (fuego, celo)",
+   "label_sv": "att förtära / bränna upp (eld, lidelse)",
+   "def": "火が焼き尽くす、熱心がむしばむ。『火が口から出て敵を焼き滅ぼす』『天から火が下って彼らを焼き尽くした』『あなたの家を思う熱心がわたしを食い尽くす』。",
+   "def_en": "Fire consumes, zeal eats away: “fire comes from their mouth and consumes their enemies”, “fire came down from heaven and consumed them”, “zeal for your house will consume me”.",
+   "def_es": "El fuego consume, el celo carcome: «sale fuego de su boca y devora a sus enemigos», «descendió fuego del cielo y los consumió», «el celo de tu casa me consume».",
+   "def_sv": "Elden förtär, lidelsen äter upp: ”eld går ut ur deras mun och förtär fienderna”, ”eld kom ner från himlen och förtärde dem”, ”lidelsen för ditt hus ska förtära mig”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "黙示録11:5・20:9、ヨハネ2:17。LXX アモス2:5 に並行。教父の代表例では確認していない。語義3との境界は連続的。"
+  },
+  {
+   "id": "3",
+   "label": "食い物にする／食いつぶす（比喩）",
+   "label_en": "to prey on / squander (figurative)",
+   "label_es": "explotar / dilapidar (figurado)",
+   "label_sv": "att utsuga / förslösa (bildligt)",
+   "def": "人を食い物にする、財産を食いつぶす。『人に食い物にされても』『互いにかみ合い食い合う』『やもめの家を食い尽くす』『遊女どもと身代を食いつぶした』。",
+   "def_en": "To exploit people, to eat up property: “if someone devours you”, “if you bite and devour one another”, “they devour widows' houses”, “devoured your property with prostitutes”.",
+   "def_es": "Aprovecharse de las personas, consumir la hacienda: «si alguno os devora», «si os mordéis y os coméis unos a otros», «devoran las casas de las viudas», «ha consumido tus bienes con rameras».",
+   "def_sv": "Att utnyttja människor, att göra slut på egendom: ”om någon utsuger er”, ”om ni biter och sliter i varandra”, ”de äter änkorna ur husen”, ”gjort av med din egendom tillsammans med horor”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "Ⅱコリ11:20、ガラテヤ5:15、マルコ12:40、ルカ20:47・15:30。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40013004016": "1",
+  "n41004004017": "1",
+  "n41012040002": "3",
+  "n42008005027": "1",
+  "n42015030008": "3",
+  "n42020047002": "3",
+  "n43002017013": "2",
+  "n47011020009": "3",
+  "n48005015006": "3",
+  "n66010009017": "1",
+  "n66010010011": "1",
+  "n66011005014": "2",
+  "n66012004034": "1",
+  "n66020009026": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は主体・対象（食べ物／火・熱心／比喩）による。"
+}

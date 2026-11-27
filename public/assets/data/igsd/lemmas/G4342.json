@@ -1,0 +1,59 @@
+{
+ "lemma": "προσκαρτερέω",
+ "lemmaId": "grc:G4342",
+ "strong": "G4342",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "専心する／熱心に続ける",
+   "label_en": "to devote oneself / persist",
+   "label_es": "dedicarse / perseverar",
+   "label_sv": "att ägna sig / hålla ut",
+   "def": "専心する、熱心に励む、堅く守る。『心を合わせて祈りに専念し』『使徒たちの教えを堅く守り』『ひたすら祈りとみことばの務めに』『絶えず祈りに励め』『たゆまず祈り』『ピリポにつき従って』。",
+   "def_en": "To devote oneself, to apply oneself earnestly, to hold firmly: “with one accord devoted themselves to prayer”, “devoted themselves to the apostles' teaching”, “we will devote ourselves to prayer and the ministry of the word”, “be constant in prayer”, “continue steadfastly in prayer”, “continued with Philip”.",
+   "def_es": "Consagrarse, afanarse, mantenerse firme: «perseveraban unánimes en oración», «perseveraban en la doctrina de los apóstoles», «persistiremos en la oración y en el ministerio de la palabra», «constantes en la oración», «perseverad en la oración», «estaba siempre con Felipe».",
+   "def_sv": "Att hänge sig, ivrigt ägna sig åt, hålla fast: ”höll enigt ut i bön”, ”höll troget fast vid apostlarnas undervisning”, ”ägna oss åt bönen och ordets tjänst”, ”håll ut i bönen”, ”var uthålliga i bön”, ”höll sig till Filippos”.",
+   "layers": {
+    "nt": 7,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒1:14・2:42・2:46・6:4・8:13、コロサイ4:2、ローマ12:12。LXX 民数記13:21・トビト5:8、教父（8.1、7.2）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "仕える／付き添う",
+   "label_en": "to attend / wait on",
+   "label_es": "asistir / estar al servicio",
+   "label_sv": "att stå till tjänst",
+   "def": "付き添う、待機する、務めを果たす。『付き添っていた兵士』『小舟を用意しておくように』『この務めに専念している』。",
+   "def_en": "To attend on, to be in readiness, to perform one's duty: “soldiers who attended him”, “to have a small boat ready”, “attending to this very thing”.",
+   "def_es": "Acompañar, estar dispuesto, cumplir un cargo: «un soldado de los que le asistían», «que le tuviesen siempre lista la barca», «atienden continuamente a esto mismo».",
+   "def_sv": "Att uppassa, hålla sig beredd, fullgöra sin uppgift: ”en soldat i hans tjänst”, ”hålla en båt i beredskap”, ”ägnar sig helt åt denna uppgift”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒10:7、マルコ3:9、ローマ13:6。LXX 代表例に並行。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n41003009008": "2",
+  "n44001014004": "1",
+  "n44002042003": "1",
+  "n44002046004": "1",
+  "n44006004010": "1",
+  "n44008013010": "1",
+  "n44010007017": "2",
+  "n45012012009": "1",
+  "n45013006014": "2",
+  "n51004002003": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（専心／付き添い）による。"
+}

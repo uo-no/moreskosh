@@ -1,0 +1,53 @@
+{
+ "lemma": "πέρας",
+ "lemmaId": "grc:G4009",
+ "strong": "G4009",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "果て・限り",
+   "label_en": "end, limit",
+   "label_es": "fin, término",
+   "label_sv": "slut, gräns",
+   "def": "果て、限り、終わり。『あらゆる争いの終わり』（ヘブル6:16）。",
+   "def_en": "An end, a limit, a termination: “the end of every dispute” (Heb 6:16).",
+   "def_es": "Extremo, límite, fin: «el fin de toda controversia» (Heb 6:16).",
+   "def_sv": "Ände, gräns, slut: ”slutet på all tvist” (Hebr 6:16).",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ヘブル6:16。LXX、教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "地の果て",
+   "label_en": "end of the earth",
+   "label_es": "confines de la tierra",
+   "label_sv": "jordens ände",
+   "def": "地の果て。『地の果てから来た』『その言葉は地の果てまで』。",
+   "def_en": "The ends of the earth: “came from the ends of the earth”, “their words to the ends of the world”.",
+   "def_es": "Los extremos de la tierra: «vino de los fines de la tierra», «sus palabras hasta los fines de la tierra».",
+   "def_sv": "Jordens yttersta gränser: ”kom från jordens yttersta gräns”, ”deras ord till världens ändar”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ルカ11:31、マタイ12:42、ローマ10:18。LXX、教父に並行。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40012042018": "2",
+  "n42011031020": "2",
+  "n45010018018": "2",
+  "n58006016011": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（限り・終わり／地の果て）による。"
+}

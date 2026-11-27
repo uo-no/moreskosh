@@ -1,0 +1,99 @@
+{
+ "lemma": "ἐργάτης",
+ "lemmaId": "grc:G2040",
+ "strong": "G2040",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "働き手／労働者（農作業・収穫）",
+   "label_en": "labourer (farm work, harvest)",
+   "label_es": "obrero (campo, siega)",
+   "label_sv": "arbetare (jordbruk, skörd)",
+   "def": "畑で働く者、収穫の労働者。『収穫は多いが働き手が少ない』『ぶどう園の労働者』『畑を刈り入れた労働者』。",
+   "def_en": "One who works in the fields, a harvest worker: “the harvest is plentiful but the labourers are few”, “the labourers in the vineyard”, “the workers who mowed the fields”.",
+   "def_es": "El que trabaja en el campo, el segador: «la mies es mucha, pero los obreros pocos», «los obreros de la viña», «los que segaron los campos».",
+   "def_sv": "En som arbetar på fältet, en skördearbetare: ”skörden är stor men arbetarna få”, ”arbetarna i vingården”, ”de som skördade åkrarna”.",
+   "layers": {
+    "nt": 8,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マタイ9:37・9:38・20:1・20:2・20:8、ルカ10:2（2回）、ヤコブ5:4。LXX 知恵17:17 に並行。教父の代表例では確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "働き人／職人（一般）",
+   "label_en": "workman / craftsman (general)",
+   "label_es": "trabajador / artesano (en general)",
+   "label_sv": "arbetare / hantverkare (allmänt)",
+   "def": "仕事をする者、職人、労働者一般。『働き人がその報いを受けるのは当然』『職人たち』。",
+   "def_en": "One who does work, a craftsman, a worker in general: “the worker deserves his wages”, “the craftsmen”.",
+   "def_es": "El que hace un trabajo, artesano, obrero en general: «el obrero es digno de su salario», «los artesanos».",
+   "def_sv": "En som utför ett arbete, hantverkare eller arbetare i allmänhet: ”arbetaren är värd sin lön”, ”hantverkarna”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰテモ5:18、ルカ10:7、マタイ10:10、使徒19:25。LXX シラ19:1・40:18、教父（Ⅰクレメンス34.1）に並行。"
+  },
+  {
+   "id": "3",
+   "label": "働き人（宣教・奉仕）",
+   "label_en": "worker (mission, service)",
+   "label_es": "obrero (misión, servicio)",
+   "label_sv": "arbetare (mission, tjänst)",
+   "def": "宣教・奉仕に従事する者、働き人。『偽りの働き人』『恥じるところのない働き人』『悪い働き人』。",
+   "def_en": "One engaged in mission or service: “false workers”, “a worker with no need to be ashamed”, “evil workers”.",
+   "def_es": "El que se dedica a la misión o al servicio: «obreros fraudulentos», «obrero que no tiene de qué avergonzarse», «malos obreros».",
+   "def_sv": "En som är verksam i mission eller tjänst: ”falska arbetare”, ”en arbetare som inte behöver skämmas”, ”de onda arbetarna”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "Ⅱコリ11:13、Ⅱテモ2:15、ピリピ3:2。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "4",
+   "label": "不義を行う者",
+   "label_en": "doer of wrong",
+   "label_es": "hacedor de maldad",
+   "label_sv": "ogärningsman",
+   "def": "『不義を行う者ども』（ルカ13:27）。",
+   "def_en": "“All you workers of unrighteousness” (Luke 13:27).",
+   "def_es": "«Hacedores de maldad» (Lc 13:27).",
+   "def_sv": "”Ni som gör orätt” (Luk 13:27).",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "ルカ13:27 の1例のみ。教父（4.5）は同句の引用にあたる。LXX の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40009037012": "1",
+  "n40009038009": "1",
+  "n40010010015": "2",
+  "n40020001015": "1",
+  "n40020002005": "1",
+  "n40020008014": "1",
+  "n42010002011": "1",
+  "n42010002020": "1",
+  "n42010007016": "2",
+  "n42013027013": "4",
+  "n44019025008": "2",
+  "n47011013005": "3",
+  "n50003002007": "3",
+  "n54005018012": "2",
+  "n55002015007": "3",
+  "n59005004005": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義3・4の対象の評価は文脈による。"
+}

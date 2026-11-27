@@ -1,0 +1,71 @@
+{
+ "lemma": "περιποίησις",
+ "lemmaId": "grc:G4047",
+ "strong": "G4047",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "所有・神の民",
+   "label_en": "possession, God’s own people",
+   "label_es": "posesión, pueblo adquirido",
+   "label_sv": "egendom, Guds egendomsfolk",
+   "def": "所有、取得した物。『神の所有とされた民』『御国を継ぐ者となる』。",
+   "def_en": "A possession, a thing acquired: “a people for God’s own possession”, “become heirs of the kingdom”.",
+   "def_es": "Posesión, lo adquirido: «pueblo adquirido por Dios», «herederos del reino».",
+   "def_sv": "Egendom, det förvärvade: ”Guds eget folk”, ”bli arvingar till riket”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ペテロ第一2:9、エペソ1:14。語義2・3との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "得ること",
+   "label_en": "obtaining",
+   "label_es": "obtención",
+   "label_sv": "vinnande",
+   "def": "獲得すること。『救いを得るように』『栄光を得るために』。",
+   "def_en": "The act of acquiring: “to obtain salvation”, “to obtain glory”.",
+   "def_es": "El adquirir: «para alcanzar salvación», «para alcanzar la gloria».",
+   "def_sv": "Att förvärva: ”för att få frälsning”, ”för att vinna härlighet”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "テサロニケ第一5:9、テサロニケ第二2:14。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "保つこと・救い",
+   "label_en": "preservation, saving",
+   "label_es": "preservación, salvación",
+   "label_sv": "bevarande, räddning",
+   "def": "保つこと、保全。『魂を保って（救い）』。",
+   "def_en": "Keeping, preservation: “for the preserving of the soul” (salvation).",
+   "def_es": "El conservar, preservación: «para preservación del alma» (salvación).",
+   "def_sv": "Att bevara, att rädda: ”för att rädda sin själ” (frälsning).",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヘブル10:39。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n49001014010": "1",
+  "n52005009011": "2",
+  "n53002014010": "2",
+  "n58010039011": "3",
+  "n60002009011": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（所有／獲得／保全）による。LXX の代表例は用法の対応が確認できず、いずれも「なし」とする。"
+}

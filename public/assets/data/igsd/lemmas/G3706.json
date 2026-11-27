@@ -1,0 +1,53 @@
+{
+ "lemma": "ὅρασις",
+ "lemmaId": "grc:G3706",
+ "strong": "G3706",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "幻・示現",
+   "label_en": "vision",
+   "label_es": "visión",
+   "label_sv": "syn",
+   "def": "幻、示現。『若者たちは幻を見』『その火の幻の中の馬』。",
+   "def_en": "A vision, an appearance: “your young men will see visions”, “the horses in that vision of fire”.",
+   "def_es": "Visión, aparición: «vuestros jóvenes verán visiones», «los caballos en aquella visión de fuego».",
+   "def_sv": "Syn, uppenbarelse: ”era unga män skall se syner”, ”hästarna i eldsynen”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒2:17、黙示録9:17。LXX、教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "見かけ・姿",
+   "label_en": "appearance, look",
+   "label_es": "aspecto",
+   "label_sv": "utseende",
+   "def": "見かけ、外観、姿。『碧玉や赤めのうのように見え』（2回）。",
+   "def_en": "Appearance, outward look: “looked like jasper and carnelian” (twice).",
+   "def_es": "Apariencia, aspecto: «parecía jaspe y cornalina» (dos veces).",
+   "def_sv": "Utseende, yttre: ”såg ut som jaspis och karneol” (två gånger).",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "黙示録4:3（2回）。LXX、教父に並行。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n44002017031": "1",
+  "n66004003005": "2",
+  "n66004003016": "2",
+  "n66009017008": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（幻／見かけ）による。"
+}

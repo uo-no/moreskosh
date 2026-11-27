@@ -1,0 +1,65 @@
+{
+ "lemma": "ἔπειτα",
+ "lemmaId": "grc:G1899",
+ "strong": "G1899",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "次に／それから（順序）",
+   "label_en": "next / then (order)",
+   "label_es": "luego / después (orden)",
+   "label_sv": "därnäst / sedan (ordning)",
+   "def": "順序の列挙で『次に』、続けて『それから』を表す。『第一に〜、次に〜』『初穂はキリスト、次にキリストに属する者』。",
+   "def_en": "Marks “next” in an enumeration, followed by “then”: “first …, next …”, “Christ the firstfruits, then those who belong to Christ”.",
+   "def_es": "En una enumeración indica «luego», seguido de «después»: «primero …, luego …», «Cristo las primicias, después los que son de Cristo».",
+   "def_sv": "Anger ”därnäst” i en uppräkning, följt av ”sedan”: ”först …, därnäst …”, ”Kristus förstlingen, därefter de som tillhör Kristus”.",
+   "layers": {
+    "nt": 12,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰコリ12:28（2回）・15:6・7・23・46、Ⅰテサ4:17（それから生き残っているわたしたちが）、ヘブル7:2・27、ヤコブ3:17・4:14、ルカ16:7。LXX Ⅳマカバイ6.3、教父（ヘルマス12.1）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "のち（時の経過後）",
+   "label_en": "afterwards (after a lapse of time)",
+   "label_es": "más tarde (pasado un tiempo)",
+   "label_sv": "därefter (efter en tids förlopp)",
+   "def": "一定の時間が経った後、その後。『三年後に』『十四年後に』『それからエルサレムに上った』。",
+   "def_en": "After a certain time has passed, thereafter: “after three years”, “fourteen years later”, “then I went up to Jerusalem”.",
+   "def_es": "Pasado cierto tiempo, después: «pasados tres años», «catorce años después», «luego subí a Jerusalén».",
+   "def_sv": "Sedan en viss tid gått, efteråt: ”tre år senare”, ”fjorton år därefter”, ”sedan for jag upp till Jerusalem”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ガラテヤ1:18・21・2:1、ヨハネ11:7（それから弟子たちに言った）。語義1との境界は連続的（年数の経過を含む）。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42016007001": "1",
+  "n43011007001": "2",
+  "n46012028016": "1",
+  "n46012028018": "1",
+  "n46015006001": "1",
+  "n46015007001": "1",
+  "n46015023009": "1",
+  "n46015046009": "1",
+  "n48001018001": "2",
+  "n48001021001": "2",
+  "n48002001001": "2",
+  "n52004017001": "1",
+  "n58007002013": "1",
+  "n58007027017": "1",
+  "n59003017009": "1",
+  "n59004014018": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

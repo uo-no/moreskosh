@@ -1,0 +1,88 @@
+{
+ "lemma": "ἀντί",
+ "lemmaId": "grc:G473",
+ "strong": "G473",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "〜の代わりに／〜と引き換えに",
+   "label_en": "instead of / in exchange for",
+   "label_es": "en lugar de / a cambio de",
+   "label_sv": "i stället för / i utbyte mot",
+   "def": "前置詞（属格）で、あるものの代わり・交換・応報・対価を表す。『目には目を』『悪に対して悪』、『多くの人のための身代金』、継承（父の代わりに）。",
+   "def_en": "A preposition (with genitive) expressing substitution, exchange, requital, or price: “an eye for an eye”, “evil for evil”, “a ransom for many”, succession (in place of one's father).",
+   "def_es": "Preposición (con genitivo) que expresa sustitución, intercambio, retribución o precio: «ojo por ojo», «mal por mal», «rescate por muchos», sucesión (en lugar del padre).",
+   "def_sv": "En preposition (med genitiv) för ersättning, utbyte, vedergällning eller pris: ”öga för öga”, ”ont för ont”, ”lösen för många”, efterföljd (i faderns ställe).",
+   "layers": {
+    "nt": 16,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "マタイ2:22・5:38（2回）・17:27・20:28、マルコ10:45、ルカ11:11、ローマ12:17、Ⅰペテロ3:9（2回）・Ⅰテサ5:15（悪に対して悪を）、Ⅰコリ11:15、ヘブル12:2・16、ヤコブ4:15、ヨハネ1:16（恵みに代えて恵み）。ヘブル12:2 は『喜びのかわりに／喜びのために』と読みが割れ、ヨハネ1:16 は『恵みの上に恵み』と読む解釈もある。Ⅰペテロ3:9 の2回は同一節。LXX・教父（Ⅱクレメンス2.2）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "〜のゆえに（ἀνθ᾽ ὧν）",
+   "label_en": "because (ἀνθ᾽ ὧν)",
+   "label_es": "por cuanto (ἀνθ᾽ ὧν)",
+   "label_sv": "därför att (ἀνθ᾽ ὧν)",
+   "def": "関係詞の属格と結んで、理由・根拠を表す連語『ἀνθ᾽ ὧν（そのゆえに／〜ゆえに）』。",
+   "def_en": "Combined with the genitive of the relative pronoun, the phrase ἀνθ᾽ ὧν (“therefore / because …”) expresses reason or ground.",
+   "def_es": "Unida al genitivo del relativo, la locución ἀνθ᾽ ὧν («por eso / por cuanto …») expresa razón o fundamento.",
+   "def_sv": "I förbindelse med relativpronomenets genitiv uttrycker ἀνθ᾽ ὧν (”därför / eftersom …”) skäl eller grund.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ルカ1:20（信じなかったので）・19:44・使徒12:23・Ⅱテサ2:10、ルカ12:3（『ゆえに』）。LXX Ⅲ列王21:28、教父（Ⅰクレメンス57.7）に並行。"
+  },
+  {
+   "id": "3",
+   "label": "それゆえに（ἀντὶ τούτου）",
+   "label_en": "for this reason (ἀντὶ τούτου)",
+   "label_es": "por esto (ἀντὶ τούτου)",
+   "label_sv": "därför (ἀντὶ τούτου)",
+   "def": "指示詞の属格と結んで、理由『このゆえに』を表す。",
+   "def_en": "Combined with the genitive of the demonstrative, expresses the reason “for this cause”.",
+   "def_es": "Unida al genitivo del demostrativo, expresa la razón «por esta causa».",
+   "def_sv": "I förbindelse med det demonstrativa pronomenets genitiv uttrycker skälet ”av denna orsak”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "エペソ5:31（『このゆえに、人は父母を離れ』、創世記2:24 の引用）の1例のみ。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40002022008": "1",
+  "n40005038005": "1",
+  "n40005038009": "1",
+  "n40017027028": "1",
+  "n40020028017": "1",
+  "n41010045018": "1",
+  "n42001020014": "2",
+  "n42011011012": "1",
+  "n42012003001": "2",
+  "n42019044018": "2",
+  "n43001016011": "1",
+  "n44012023007": "2",
+  "n45012017003": "1",
+  "n46011015011": "1",
+  "n49005031001": "3",
+  "n52005015005": "1",
+  "n53002010008": "2",
+  "n58012002011": "1",
+  "n58012016009": "1",
+  "n59004015001": "1",
+  "n60003009004": "1",
+  "n60003009008": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

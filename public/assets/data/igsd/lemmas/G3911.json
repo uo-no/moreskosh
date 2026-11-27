@@ -1,0 +1,53 @@
+{
+ "lemma": "παραφέρω",
+ "lemmaId": "grc:G3911",
+ "strong": "G3911",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "押し流す・連れ去る",
+   "label_en": "to sweep away, to carry off",
+   "label_es": "arrastrar, llevar",
+   "label_sv": "att föra bort",
+   "def": "押し流される、連れ去られる。『さまざまな異なった教えに迷わされてはならない』『風に吹き流される雲』。",
+   "def_en": "To be swept along, to be carried away: “do not be carried away by various strange teachings”, “clouds swept along by the wind”.",
+   "def_es": "Ser arrastrado, ser llevado: «no os dejéis llevar de doctrinas diversas y extrañas», «nubes llevadas por el viento».",
+   "def_sv": "Att svepas med, att drivas bort: ”låt er inte föras bort av olika främmande läror”, ”moln som drivs bort av vinden”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ヘブル13:9、ユダ12。LXX、教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "取り除く",
+   "label_en": "to take away",
+   "label_es": "apartar",
+   "label_sv": "att ta bort",
+   "def": "取り除く、遠ざける。『この杯をわたしから取りのけてください』（2回）。",
+   "def_en": "To remove, to take far from: “take this cup away from me” (twice).",
+   "def_es": "Quitar, alejar: «aparta de mí esta copa» (dos veces).",
+   "def_sv": "Att avlägsna, att föra undan: ”ta denna bägare ifrån mig” (två gånger).",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ルカ22:42、マルコ14:36。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n41014036009": "2",
+  "n42022042005": "2",
+  "n58013009006": "1",
+  "n65001012017": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（押し流す／取り除く）による。"
+}

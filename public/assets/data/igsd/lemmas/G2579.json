@@ -1,0 +1,82 @@
+{
+ "lemma": "κἄν",
+ "lemmaId": "grc:G2579",
+ "strong": "G2579",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "たとえ〜でも（譲歩）",
+   "label_en": "even if (concession)",
+   "label_es": "aunque / aun si (concesión)",
+   "label_sv": "även om (medgivande)",
+   "def": "『たとえ〜であっても』。『わたしが自分について証言しても』『たとえ死んでも生きる』『たとえこの山に〜と言っても』。",
+   "def_en": "“Even if …”: “even if I testify about myself”, “even though he dies, he will live”, “even if you say to this mountain …”.",
+   "def_es": "«Aun cuando …»: «aunque yo doy testimonio de mí mismo», «aunque muera, vivirá», «aunque digáis a este monte …».",
+   "def_sv": "”Även om …”: ”även om jag vittnar om mig själv”, ”om han än dör ska han leva”, ”även om ni säger till detta berg …”.",
+   "layers": {
+    "nt": 6,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヘブル12:20、ヨハネ10:38・11:25・8:14、マタイ21:21・26:35。語義2との境界は連続的。代表例のLXX・教父は ἐάν／ἄν の別形で κἄν そのものでないため確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "もし〜ならば（そして）",
+   "label_en": "and if",
+   "label_es": "y si",
+   "label_sv": "och om",
+   "def": "『そしてもし』『もし〜ならば』の条件。『もし罪を犯したなら』『毒を飲んでも』『もし来年実を結べば』『第二の夜に来て』。",
+   "def_en": "The condition “and if”, “if …”: “and if he has committed sins”, “even if they drink poison”, “and if it bears fruit next year”, “if he comes in the second watch”.",
+   "def_es": "Condición «y si», «si …»: «y si ha cometido pecados», «si bebieren veneno», «y si da fruto el año que viene», «si viene en la segunda vigilia».",
+   "def_sv": "Villkoret ”och om”, ”om …”: ”och om han har begått synder”, ”om de dricker gift”, ”om det bär frukt nästa år”, ”om han kommer vid andra nattväkten”.",
+   "layers": {
+    "nt": 6,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヤコブ5:15、マルコ16:18、ヨハネ8:55、ルカ13:9、ルカ12:38（2回）。語義1との境界は連続的。LXX・教父の代表例は別形のため確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "せめて〜だけでも",
+   "label_en": "if only / just",
+   "label_es": "siquiera / aunque sea solo",
+   "label_sv": "åtminstone bara",
+   "def": "『せめて〜だけでも』。『せめてその衣のすそにでも』『せめてその影だけでも』。",
+   "def_en": "“At least … even just …”: “at least the hem of his garment”, “at least his shadow alone”.",
+   "def_es": "«Siquiera … aunque sea solo …»: «siquiera el borde de su manto», «siquiera su sombra sola».",
+   "def_sv": "”Åtminstone … även bara …”: ”åtminstone fållen på hans mantel”, ”åtminstone bara hans skugga”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "Ⅱコリ11:16、使徒5:15、マルコ5:28・6:56。LXX・教父の代表例は別形のため確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40021021023": "1",
+  "n40026035005": "1",
+  "n41005028006": "3",
+  "n41006056023": "3",
+  "n41016018003": "2",
+  "n42012038001": "2",
+  "n42012038005": "2",
+  "n42013009001": "2",
+  "n43008014006": "1",
+  "n43008055009": "2",
+  "n43010038004": "1",
+  "n43011025016": "1",
+  "n44005015018": "3",
+  "n47011016013": "3",
+  "n58012020006": "1",
+  "n59005015014": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "パケットの LXX・教父の代表例は κἄν の形を含まず、層は確認できない。"
+}

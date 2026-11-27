@@ -1,0 +1,51 @@
+{
+ "lemma": "ἀποχωρίζομαι",
+ "lemmaId": "grc:G673",
+ "strong": "G673",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "別れる",
+   "label_en": "to part",
+   "label_es": "separarse",
+   "label_sv": "att skiljas",
+   "def": "別れる、離れる。『互いに別れ別れになった』。",
+   "def_en": "To separate, to depart from one another: “they parted from one another”.",
+   "def_es": "Apartarse uno de otro: «se separaron el uno del otro».",
+   "def_sv": "Att gå isär: ”de skildes från varandra”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒15:39。LXX・教父の代表例では確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "取り去られる",
+   "label_en": "to be removed",
+   "label_es": "ser quitado",
+   "label_sv": "att vika undan",
+   "def": "取り去られる、消え去る。『巻物が巻かれるように消え去り』。",
+   "def_en": "To be taken away, to vanish: “vanished like a scroll being rolled up”.",
+   "def_es": "Retirarse, desaparecer: «se desvaneció como un pergamino que se enrolla».",
+   "def_sv": "Att försvinna bort: ”försvann likt en bokrulle som rullas ihop”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "黙示録6:14。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n44015039005": "1",
+  "n66006014004": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法による。"
+}

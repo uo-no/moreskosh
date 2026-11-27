@@ -1,0 +1,51 @@
+{
+ "lemma": "λοιμός",
+ "lemmaId": "grc:G3061",
+ "strong": "G3061",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "疫病",
+   "label_en": "plague",
+   "label_es": "peste",
+   "label_sv": "pest",
+   "def": "疫病、はやり病。『疫病』。",
+   "def_en": "Pestilence, an epidemic: “pestilence”.",
+   "def_es": "Pestilencia, epidemia: «pestilencias».",
+   "def_sv": "Farsot: ”farsoter”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ルカ21:11。LXX に並行。教父の代表例では確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "厄介者",
+   "label_en": "pest (of a person)",
+   "label_es": "plaga (persona)",
+   "label_sv": "pestsmitta (om person)",
+   "def": "疫病のような者、災いをもたらす者。『この男は疫病のような人間』。",
+   "def_en": "A person like a plague, one who brings trouble: “this man is a real plague”.",
+   "def_es": "Individuo que es como una peste y acarrea males: «este hombre es una plaga».",
+   "def_sv": "En människa som en farsot, en som för olycka med sig: ”den här mannen är en riktig pest”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒24:5。LXX、教父に並行。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42021011009": "1",
+  "n44024005006": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（疫病／厄介者）による。"
+}

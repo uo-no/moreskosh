@@ -1,0 +1,53 @@
+{
+ "lemma": "παλαιόω",
+ "lemmaId": "grc:G3822",
+ "strong": "G3822",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "古びる・すり切れる",
+   "label_en": "to grow old, to wear out",
+   "label_es": "envejecer, gastarse",
+   "label_sv": "att åldras, att nötas ut",
+   "def": "古くなる、すり切れる。『衣のように古びる』『古びない財布』。",
+   "def_en": "To become old, to wear out: “will grow old like a garment”, “purses that do not grow old”.",
+   "def_es": "Hacerse viejo, desgastarse: «se envejecerán como una vestidura», «bolsas que no se envejecen».",
+   "def_sv": "Att bli gammal, att bli utsliten: ”de skall nötas ut som en klädnad”, ”pungar som inte nöts ut”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ヘブル1:11、ルカ12:33。LXX、教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "古くする・時代遅れにする",
+   "label_en": "to make obsolete",
+   "label_es": "dar por viejo, hacer anticuado",
+   "label_sv": "att förklara föråldrad",
+   "def": "古いものとする、廃れさせる。『初めの契約を古いものとされた』『古びて衰えるものは』。",
+   "def_en": "To treat as old, to render out of date: “he has made the first covenant obsolete”, “what is becoming old and ageing”.",
+   "def_es": "Declarar antiguo, dejar en desuso: «ha dado por viejo al primer pacto», «lo que se da por viejo y se envejece».",
+   "def_sv": "Att göra till något gammalt, att göra överspelad: ”har förklarat det första förbundet föråldrat”, ”det som blir gammalt och försvagas”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヘブル8:13（2回）。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42012033012": "1",
+  "n58001011010": "1",
+  "n58008013005": "2",
+  "n58008013010": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（古びる／古いものとする）による。"
+}

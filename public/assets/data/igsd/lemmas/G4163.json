@@ -1,0 +1,55 @@
+{
+ "lemma": "ποιητής",
+ "lemmaId": "grc:G4163",
+ "strong": "G4163",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "行う者",
+   "label_en": "doer",
+   "label_es": "hacedor",
+   "label_sv": "görare",
+   "def": "行う者、実行する者。『律法を行う者が義とされる』『律法を行わない者』『ただ聞くだけで終わる者ではなく、行う者となれ』『行為の人として』『自由の律法を…行う人』『裁き人』。",
+   "def_en": "One who does, one who carries out: “the doers of the law will be justified”, “those who do not do the law”, “be doers of the word, and not hearers only”, “as a doer who acts”, “one who does … the law of liberty”, “a judge”.",
+   "def_es": "El que hace, el que pone por obra: «los hacedores de la ley serán justificados», «los que no cumplen la ley», «sed hacedores de la palabra, y no tan solamente oidores», «como hacedor de la obra», «el que cumple … la ley de la libertad», «juez».",
+   "def_sv": "En som gör, en som utför: ”lagens görare skall förklaras rättfärdiga”, ”de som inte håller lagen”, ”bli ordets görare, inte bara dess hörare”, ”som en verklig görare”, ”den som handlar efter … frihetens lag”, ”en domare”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ローマ2:13、ヤコブ1:22・1:23・1:25・4:11。LXX（2.67）に並行。教父の用例なし。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "詩人",
+   "label_en": "poet",
+   "label_es": "poeta",
+   "label_sv": "skald, diktare",
+   "def": "詩人。『あなたがたの詩人たちの中のある者も』。",
+   "def_en": "A poet: “as some of your own poets”.",
+   "def_es": "Poeta: «como algunos de vuestros propios poetas».",
+   "def_sv": "En poet: ”också några av era egna skalder”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒17:28。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n44017028015": "2",
+  "n45002013012": "1",
+  "n59001022003": "1",
+  "n59001023009": "1",
+  "n59001025017": "1",
+  "n59004011024": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（行う者／詩人）による。"
+}

@@ -1,0 +1,55 @@
+{
+ "lemma": "ἀνάθεμα",
+ "lemmaId": "grc:G331",
+ "strong": "G331",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "のろわれたもの・破門",
+   "label_en": "accursed, anathema",
+   "label_es": "anatema, maldito",
+   "label_sv": "förbannad, anatema",
+   "def": "のろわれたもの、神にささげられて滅ぼされるべきもの。『主を愛さない者は、のろわれよ』『イエスはのろわれよ』『その者はのろわれるがよい』『わたしがキリストからのろわれ…』。",
+   "def_en": "A thing accursed; what is to be given over to God for destruction: “if anyone does not love the Lord, let him be accursed”, “Jesus is accursed”, “let that one be accursed”, “that I myself were accursed, cut off from Christ …”.",
+   "def_es": "Cosa maldita; lo que ha de ser entregado a Dios para destrucción: «el que no ame al Señor, sea anatema», «Jesús es anatema», «sea anatema», «yo mismo ser anatema, separado de Cristo …».",
+   "def_sv": "Något förbannat; det som skall överlämnas åt Gud till förintelse: ”om någon inte älskar Herren skall han vara förbannad”, ”förbannad vare Jesus”, ”han skall vara förbannad”, ”att jag själv vore förbannad och skild från Kristus …”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "コリント第一16:22・12:3、ガラテヤ1:8・1:9、ローマ9:3。ローマ9:3 の「のろわれた者」の含みは決定しない。LXX（7.12・13.18）に並行。教父の用例なし。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "のろいの誓い",
+   "label_en": "oath under a curse",
+   "label_es": "juramento bajo maldición",
+   "label_sv": "ed under förbannelse",
+   "def": "自分に呪いをかける誓い。『われわれは、パウロを殺すまでは何も食べないと、堅く誓いを立てた』（ἀναθέματι ἀνεθεματίσαμεν ἑαυτούς）。",
+   "def_en": "An oath that lays a curse on oneself: “we have bound ourselves by a solemn oath to eat nothing until we have killed Paul” (ἀναθέματι ἀνεθεματίσαμεν ἑαυτούς).",
+   "def_es": "Juramento por el que uno se somete a sí mismo a una maldición: «nos hemos juramentado bajo maldición a no probar nada hasta que hayamos dado muerte a Pablo» (ἀναθέματι ἀνεθεματίσαμεν ἑαυτούς).",
+   "def_sv": "En ed där man lägger förbannelse över sig själv: ”vi har svurit en dyr ed att inte äta något förrän vi har dödat Paulus” (ἀναθέματι ἀνεθεματίσαμεν ἑαυτούς).",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒23:14。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n44023014009": "2",
+  "n45009003003": "1",
+  "n46012003011": "1",
+  "n46016022008": "1",
+  "n48001008015": "1",
+  "n48001009014": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（のろわれたもの／のろいの誓い）による。"
+}

@@ -1,0 +1,51 @@
+{
+ "lemma": "ἀλαλάζω",
+ "lemmaId": "grc:G214",
+ "strong": "G214",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "鳴り響く",
+   "label_en": "to clang",
+   "label_es": "retiñir",
+   "label_sv": "att skrälla",
+   "def": "やかましく鳴り響く。『やかましいどら』。",
+   "def_en": "To ring out noisily: “a noisy gong”.",
+   "def_es": "Resonar con estrépito: «metal que resuena».",
+   "def_sv": "Att ljuda högljutt: ”en skrällande gong”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "コリント第一13:1。LXX・教父の代表例では確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "泣き叫ぶ",
+   "label_en": "to wail",
+   "label_es": "dar alaridos",
+   "label_sv": "att jämra sig högt",
+   "def": "泣き叫ぶ、大声で叫ぶ。『大声で泣いている人々』。",
+   "def_en": "To cry and lament loudly: “people wailing loudly”.",
+   "def_es": "Llorar y gritar a voces: «los que lloraban y lamentaban mucho».",
+   "def_sv": "Att gråta och skrika: ”människor som grät och klagade högljutt”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マルコ5:38。LXX に並行。教父の用例なし。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n41005038014": "2",
+  "n46013001019": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法による。"
+}

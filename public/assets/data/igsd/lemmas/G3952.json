@@ -1,0 +1,90 @@
+{
+ "lemma": "παρουσία",
+ "lemmaId": "grc:G3952",
+ "strong": "G3952",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "居合わせること／その場にいること",
+   "label_en": "presence / being there",
+   "label_es": "presencia / estar presente",
+   "label_sv": "närvaro / att vara på plats",
+   "def": "ある人がそこに居合わせている状態。不在（ἀπουσία）と対にされる。",
+   "def_en": "The state of a person's being present. Paired with absence (ἀπουσία).",
+   "def_es": "Estado de quien está presente. Se contrapone a la ausencia (ἀπουσία).",
+   "def_sv": "Tillståndet att någon är närvarande. Ställs mot frånvaro (ἀπουσία).",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "Ⅱコリ10:10（体での居合わせ）、ピリ2:12（私がいるときだけでなく、いない今も）。LXX・教父の代表例ではこの用法は確認していない（Abbott は Ⅱマカ15:21 に並行を挙げるが、パケットの代表例では来着の用法）。"
+  },
+  {
+   "id": "2",
+   "label": "来ること／到着（人の来訪）",
+   "label_en": "coming / arrival (of a person)",
+   "label_es": "venida / llegada (de una persona)",
+   "label_sv": "ankomst (en människas besök)",
+   "def": "人が着くこと・来訪すること。主の来臨以外の、人の到来を述べる。",
+   "def_en": "A person's arriving or visiting. States human arrivals other than the coming of the Lord.",
+   "def_es": "Llegada o visita de alguien. Se refiere a la llegada de personas, distinta de la venida del Señor.",
+   "def_sv": "Att någon anländer eller kommer på besök. Anger människors ankomst, skild från Herrens tillkommelse.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "Ⅱコリ7:6・7（テトスの到着）、ピリ1:26（私の再訪）、Ⅰコリ16:17（ステパナらの到着。Abbott は『居合わせること』に置くが、グロスと文脈から来着として置いた）、Ⅱテサ2:9（不法の者の到来）。LXX に軍・使者の到着の用例（Ⅱマカ8:12、ユディ10:18）。"
+  },
+  {
+   "id": "3",
+   "label": "（主の）来臨",
+   "label_en": "coming (of the Lord) / parousia",
+   "label_es": "venida (del Señor) / parusía",
+   "label_sv": "(Herrens) tillkommelse",
+   "def": "キリスト（人の子・主）の来られること、またそれに結びつく終わりの時の到来を述べる専門的な用法。",
+   "def_en": "A technical use stating the coming of Christ (the Son of Man, the Lord) and the arrival of the end time connected with it.",
+   "def_es": "Uso técnico que designa la venida de Cristo (el Hijo del Hombre, el Señor) y la llegada del tiempo final ligada a ella.",
+   "def_sv": "Ett fackmässigt bruk om Kristi (Människosonens, Herrens) ankomst och den yttersta tidens inbrott som hör samman med den.",
+   "layers": {
+    "nt": 17,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "マタイ24（3・27・37・39）、Ⅰコリ15:23、Ⅰ・Ⅱテサロニケ、ヤコブ5:7–8、Ⅱペテロ1:16・3:4・3:12、Ⅰヨハ2:28。『主の（来臨）』『人の子の（来臨）』の属格を伴う。LXX の代表例には確認できない。教父に再臨を指す用例（5.9.2 等）。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40024003027": "3",
+  "n40024027015": "3",
+  "n40024037010": "3",
+  "n40024039015": "3",
+  "n46015023015": "3",
+  "n46016017005": "2",
+  "n47007006012": "2",
+  "n47007007006": "2",
+  "n47010010011": "1",
+  "n50001026014": "2",
+  "n50002012011": "1",
+  "n52002019022": "3",
+  "n52003013018": "3",
+  "n52004015016": "3",
+  "n52005023024": "3",
+  "n53002001007": "3",
+  "n53002008021": "3",
+  "n53002009004": "2",
+  "n59005007006": "3",
+  "n59005008010": "3",
+  "n61001016016": "3",
+  "n61003004008": "3",
+  "n61003012005": "3",
+  "n62002028019": "3"
+ },
+ "unresolved": [],
+ "layer_notes": "LXX・教父の総件数が少ない（各4件）。新約に無い用法は代表例の範囲では見当たらない。"
+}

@@ -1,0 +1,86 @@
+{
+ "lemma": "ὑπηρέτης",
+ "lemmaId": "grc:G5257",
+ "strong": "G5257",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "下役／役人（祭司長・議会・官憲の下役）",
+   "label_en": "officer / attendant (of chief priests, council, authorities)",
+   "label_es": "alguacil / oficial subalterno (de sumos sacerdotes, consejo, autoridades)",
+   "label_sv": "rättstjänare / underlydande (hos överstepräster, råd, myndigheter)",
+   "def": "祭司長・パリサイ人・サンヘドリン・裁判人の下で働く下役、護衛の者、警吏。",
+   "def_en": "A subordinate serving under the chief priests, Pharisees, Sanhedrin, or a judge: a guard, an officer.",
+   "def_es": "Subalterno al servicio de los principales sacerdotes, fariseos, el Sanedrín o un juez; guardia, alguacil.",
+   "def_sv": "En underlydande hos översteprästerna, fariseerna, Stora rådet eller en domare: vakt, rättstjänare.",
+   "layers": {
+    "nt": 14,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ヨハネ7:32・45・46・18:3・12・18・22・19:6、使徒5:22・26、マタイ5:25（裁判人の下役）・26:58、マルコ14:54・65。LXX（箴言14:35 の王に仕える者）、教父（ヘルマス）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "会堂の係",
+   "label_en": "synagogue attendant",
+   "label_es": "asistente de la sinagoga",
+   "label_sv": "synagogtjänare",
+   "def": "会堂で巻物を受け渡す世話係。",
+   "def_en": "The attendant in a synagogue who hands out and receives back the scroll.",
+   "def_es": "El encargado de la sinagoga que entrega y recibe el rollo.",
+   "def_sv": "Den som i synagogan har hand om att räcka fram och ta emot bokrullen.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ルカ4:20（巻物を係に返した）の1例のみ。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "しもべ／奉仕者",
+   "label_en": "servant / minister",
+   "label_es": "servidor / ministro",
+   "label_sv": "tjänare / medhjälpare",
+   "def": "主・キリスト・みことばに仕える者、助手。使徒たちの働きを助ける者。",
+   "def_en": "One who serves the Lord, Christ, or the word; an assistant; one who helps in the apostles' work.",
+   "def_es": "El que sirve al Señor, a Cristo o a la palabra; ayudante. Quien ayuda en la labor de los apóstoles.",
+   "def_sv": "En som tjänar Herren, Kristus eller ordet; en medhjälpare. En som bistår apostlarnas arbete.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰコリ4:1（キリストのしもべ）、使徒13:5（ヨハネを助手として）・26:16（パウロを下役・証人として任命する）、ルカ1:2（みことばに仕える者たち）、ヨハネ18:36（わたしのしもべたち）。LXX 知恵の書6:4、教父（Ⅰクレメンス・ヘルマス）に並行。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40005025026": "1",
+  "n40026058019": "1",
+  "n41014054020": "1",
+  "n41014065020": "1",
+  "n42001002009": "3",
+  "n42004020007": "2",
+  "n43007032017": "1",
+  "n43007045004": "1",
+  "n43007046003": "1",
+  "n43018003015": "1",
+  "n43018012009": "1",
+  "n43018018007": "1",
+  "n43018022008": "1",
+  "n43018036024": "3",
+  "n43019006009": "1",
+  "n44005022004": "1",
+  "n44005026007": "1",
+  "n44013005019": "3",
+  "n44026016016": "3",
+  "n46004001006": "3"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

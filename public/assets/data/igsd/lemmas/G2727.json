@@ -1,0 +1,57 @@
+{
+ "lemma": "κατηχέω",
+ "lemmaId": "grc:G2727",
+ "strong": "G2727",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "教える・教え込む",
+   "label_en": "to instruct / teach",
+   "label_es": "enseñar / instruir",
+   "label_sv": "att undervisa / lära",
+   "def": "口頭で教える、教え込まれる。『知性によって五つのことばを語る』『主の道を教え込まれ』『教えられた事柄の確実さ』『律法によって教えられ』『御言を教えられる人は、教える人と』。",
+   "def_en": "To teach orally, to be instructed: “speak five words with my mind”, “instructed in the way of the Lord”, “the certainty of the things you have been taught”, “instructed from the law”, “let the one who is taught the word … with the one who teaches”.",
+   "def_es": "Enseñar de viva voz, ser instruido: «hablar cinco palabras con mi entendimiento», «había sido instruido en el camino del Señor», «la verdad de las cosas en las cuales has sido instruido», «instruido por la ley», «el que es enseñado en la palabra … al que lo instruye».",
+   "def_sv": "Att muntligt undervisa, att bli undervisad: ”tala fem ord med förståndet”, ”undervisad om Herrens väg”, ”tillförlitligheten i det du fått undervisning om”, ”undervisad i lagen”, ”den som får undervisning i ordet … med sin lärare”.",
+   "layers": {
+    "nt": 6,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "コリント第一14:19、使徒18:25、ルカ1:4、ローマ2:18、ガラテヤ6:6（2回）。LXX の代表例は別形（καταχέει）で、この語義としては確認していない。教父の代表例は用法未確認。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "知らされる・伝え聞かされる",
+   "label_en": "to be informed / told",
+   "label_es": "ser informado / oír decir",
+   "label_sv": "att få höra",
+   "def": "うわさや報告として知らされる。『あなたについて聞かされている』『あなたについて聞いていた事は偽りで』。",
+   "def_en": "To be informed by rumour or report: “they have been told about you”, “what they have been told about you is false”.",
+   "def_es": "Enterarse por rumor o informe: «se les ha informado acerca de ti», «no hay nada de lo que se les informó acerca de ti».",
+   "def_sv": "Att få kännedom genom rykten eller rapporter: ”de har fått höra om dig”, ”det de hört om dig var osant”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒21:21・21:24。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42001004005": "1",
+  "n44018025003": "1",
+  "n44021021001": "2",
+  "n44021024019": "2",
+  "n45002018009": "1",
+  "n46014019014": "1",
+  "n48006006004": "1",
+  "n48006006008": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "LXX の代表例は別形（καταχέω の形の疑い）で、この語の用例としては確認していない。"
+}

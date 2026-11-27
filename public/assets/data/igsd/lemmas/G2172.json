@@ -1,0 +1,56 @@
+{
+ "lemma": "εὔχομαι",
+ "lemmaId": "grc:G2172",
+ "strong": "G2172",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "祈る",
+   "label_en": "to pray",
+   "label_es": "orar",
+   "label_sv": "att be",
+   "def": "神に祈る。『あなたがたが何も悪を行わないようにと、神に祈っている』『あなたがたの完全になることをも祈っている』『わたしは神に祈る』『互いにいやされるために祈り合いなさい』。",
+   "def_en": "To pray to God: “we pray to God that you may do no wrong”, “we also pray for your restoration”, “I pray to God”, “pray for one another, that you may be healed”.",
+   "def_es": "Orar a Dios: «oramos a Dios para que no hagáis nada malo», «también oramos por vuestro perfeccionamiento», «ruego a Dios», «orad unos por otros para que seáis sanados».",
+   "def_sv": "Att be till Gud: ”vi ber till Gud att ni inte skall göra något ont”, ”vi ber också att ni skall bli fullkomliga”, ”jag ber till Gud”, ”be för varandra så att ni blir botade”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "コリント第二13:7・13:9、使徒26:29、ヤコブ5:16。LXX の代表例は誓願の用法（6.13・4.46）で、この語義としては確認していない。教父の代表例では確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "願う・望む",
+   "label_en": "to wish",
+   "label_es": "desear",
+   "label_sv": "att önska",
+   "def": "望む、願う。『あなたが…すべてのことで栄え、健康であるように願う』『夜が明けるのを願った』『わたし自身がキリストから離されることをさえ願っていた』。",
+   "def_en": "To wish, to desire: “I wish that you may prosper in all things and be in health”, “they longed for day to come”, “I could even wish that I myself were cut off from Christ”.",
+   "def_es": "Desear, anhelar: «deseo que prosperes en todo y que tengas salud», «ansiaban que se hiciera de día», «yo mismo desearía ser separado de Cristo».",
+   "def_sv": "Att önska, att vilja: ”jag önskar att allt står väl till med dig och att du är frisk”, ”de längtade efter att det skulle bli dag”, ”jag skulle till och med önska att jag själv var skild från Kristus”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "ヨハネ第三2、使徒27:29、ローマ9:3。教父（6.11.1）に並行。LXX の代表例では確認していない。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n44026029004": "1",
+  "n44027029014": "2",
+  "n45009003001": "2",
+  "n47013007001": "1",
+  "n47013009012": "1",
+  "n59005016007": "1",
+  "n64001002004": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "LXX の代表例は誓願・約束の用法で、語義には立てない。語義区分は用法（祈る／願う・望む）による。"
+}

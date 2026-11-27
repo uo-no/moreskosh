@@ -1,0 +1,64 @@
+{
+ "lemma": "παρθένος",
+ "lemmaId": "grc:G3933",
+ "strong": "G3933",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "おとめ／処女",
+   "label_en": "virgin / maiden",
+   "label_es": "virgen / doncella",
+   "label_sv": "jungfru / ungmö",
+   "def": "未婚の女性、処女。『処女が身ごもって』『処女マリヤ』『十人のおとめ』『処女である四人の娘』『処女について』。",
+   "def_en": "An unmarried woman, a virgin: “a virgin shall conceive”, “the virgin Mary”, “ten virgins”, “four daughters who were virgins”, “concerning virgins”.",
+   "def_es": "Mujer no casada, virgen: «una virgen concebirá», «la virgen María», «diez vírgenes», «cuatro hijas doncellas», «en cuanto a las vírgenes».",
+   "def_sv": "En ogift kvinna, en jungfru: ”jungfrun ska bli havande”, ”jungfrun Maria”, ”tio jungfrur”, ”fyra ogifta döttrar”, ”beträffande de ogifta”.",
+   "layers": {
+    "nt": 14,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "マタイ1:23・25:1・25:7・25:11、ルカ1:27（2回）、使徒21:9、Ⅰコリ7:25・7:28・7:34・7:36・7:37・7:38、Ⅱコリ11:2。LXX 申命記・創世記24:16、教父（26.11.1）に並行。Ⅰコリ7:36〜38 の『処女』が誰を指すか（娘・婚約者・その他）は文脈による争点で、関係は決定せず語義1に置いた。"
+  },
+  {
+   "id": "2",
+   "label": "清い者（男性・汚れを知らない）",
+   "label_en": "pure one (male, undefiled)",
+   "label_es": "puro (varón sin mancha)",
+   "label_sv": "ren (man, obefläckad)",
+   "def": "女性にふれず汚れのない者。『彼らは女に汚されなかった者で、童貞である』。",
+   "def_en": "One who has not touched a woman and is undefiled: “they have not defiled themselves with women, for they are virgins.”",
+   "def_es": "El que no ha tocado mujer y está sin mancha: «no se contaminaron con mujeres, pues son vírgenes».",
+   "def_sv": "En som inte rört någon kvinna och är obefläckad: ”de har inte orenat sig med kvinnor, de är jungfruliga”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "黙示録14:4 の1例のみ（男性形）。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40001023003": "1",
+  "n40025001008": "1",
+  "n40025007005": "1",
+  "n40025011007": "1",
+  "n42001027002": "1",
+  "n42001027015": "1",
+  "n44021009006": "1",
+  "n46007025004": "1",
+  "n46007028011": "1",
+  "n46007034010": "1",
+  "n46007036007": "1",
+  "n46007037029": "1",
+  "n46007038006": "1",
+  "n47011002011": "1",
+  "n66014004008": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用例による。"
+}

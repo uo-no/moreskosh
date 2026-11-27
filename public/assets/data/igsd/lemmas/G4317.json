@@ -1,0 +1,53 @@
+{
+ "lemma": "προσάγω",
+ "lemmaId": "grc:G4317",
+ "strong": "G4317",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "連れて来る・導く",
+   "label_en": "to bring, to lead to",
+   "label_es": "traer, llevar",
+   "label_sv": "att föra fram",
+   "def": "連れて来る、導く。『神のみもとへ導くため』『役人たちの前に引き出し』『ここに連れて来なさい』。",
+   "def_en": "To bring, to lead to: “to bring us to God”, “dragged before the magistrates”, “bring him here”.",
+   "def_es": "Traer, conducir: «para llevarnos a Dios», «presentándolos a los magistrados», «tráelo acá».",
+   "def_sv": "Att föra till, att leda fram: ”för att föra oss till Gud”, ”förde fram dem inför myndigheterna”, ”för hit honom”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ペテロ第一3:18、使徒16:20、ルカ9:41。LXX、教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "近づく",
+   "label_en": "to draw near",
+   "label_es": "acercarse",
+   "label_sv": "att närma sig",
+   "def": "近づく。『陸地に近づいていると』。",
+   "def_en": "To approach: “that they were nearing land”.",
+   "def_es": "Aproximarse: «que estaban cerca de tierra».",
+   "def_sv": "Att komma nära: ”att de närmade sig land”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒27:27。LXX に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42009041019": "1",
+  "n44016020002": "1",
+  "n44027027018": "2",
+  "n60003018013": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（連れて来る／近づく）による。"
+}

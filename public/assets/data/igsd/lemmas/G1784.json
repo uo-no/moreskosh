@@ -1,0 +1,54 @@
+{
+ "lemma": "ἔντιμος",
+ "lemmaId": "grc:G1784",
+ "strong": "G1784",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "尊い・貴重な",
+   "label_en": "precious",
+   "label_es": "precioso",
+   "label_sv": "dyrbar",
+   "def": "貴重な、尊い。『神にとって選ばれた尊い石』『尊い隅の石』。",
+   "def_en": "Precious, of great worth: “a precious stone chosen by God”, “a precious cornerstone”.",
+   "def_es": "Valioso, precioso: «piedra escogida y preciosa para Dios», «preciosa piedra angular».",
+   "def_sv": "Dyrbar, värdefull: ”en utvald och dyrbar sten inför Gud”, ”en dyrbar hörnsten”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ペテロ第一2:4・2:6。LXX、教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "尊ばれる・重んじられる",
+   "label_en": "honored, esteemed",
+   "label_es": "honrado, estimado",
+   "label_sv": "ansedd, högaktad",
+   "def": "重んじられる、貴ばれる。『もっと身分の高い人が』『主人に重んじられていた』『そのような人々を尊びなさい』。",
+   "def_en": "Held in esteem, honored: “someone more distinguished than you”, “who was highly valued by his master”, “hold such people in honour”.",
+   "def_es": "Tenido en estima, respetado: «otro más distinguido que tú», «a quien su amo quería mucho», «tened en estima a los que son como él».",
+   "def_sv": "Aktad, hedrad: ”någon som är mer ansedd”, ”som hans herre satte stort värde på”, ”ha sådana i ära”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ルカ14:8・7:2、ピリピ2:29。LXX に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42007002012": "2",
+  "n42014008013": "2",
+  "n50002029012": "2",
+  "n60002004014": "1",
+  "n60002006012": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（物の貴重さ／人が重んじられる）による。"
+}

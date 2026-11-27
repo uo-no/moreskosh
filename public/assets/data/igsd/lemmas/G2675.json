@@ -1,0 +1,96 @@
+{
+ "lemma": "καταρτίζω",
+ "lemmaId": "grc:G2675",
+ "strong": "G2675",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "繕う／修理する",
+   "label_en": "to mend / repair",
+   "label_es": "remendar / reparar",
+   "label_sv": "att laga / reparera",
+   "def": "網などを繕う、修理する。『網を繕っている』。",
+   "def_en": "To mend or repair nets and the like: “mending their nets”.",
+   "def_es": "Remendar o arreglar redes y otras cosas: «remendando las redes».",
+   "def_sv": "Att laga nät och annat: ”höll på att göra i ordning sina nät”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ4:21、マルコ1:19。LXX・教父の代表例では確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "整える／回復させる（人を）",
+   "label_en": "to set right / restore (people)",
+   "label_es": "restaurar / enderezar (a personas)",
+   "label_sv": "att upprätta / återställa (människor)",
+   "def": "人を整える、回復させる、立て直す。『心を一つにして』『あらゆる恵みの神がいやしてくださる』『顔を見て信仰の不足を補いたい』『改善を図りなさい』『柔和な心で回復させなさい』。",
+   "def_en": "To put a person in order, restore, set upright again: “be united in the same mind”, “the God of all grace will himself restore you”, “supply what is lacking in your faith”, “aim for restoration”, “restore him in a spirit of gentleness”.",
+   "def_es": "Poner en orden, restablecer, rehacer a alguien: «perfectamente unidos en una misma mente», «el Dios de toda gracia os perfeccione», «completar lo que falte a vuestra fe», «perfeccionaos», «restauradle con espíritu de mansedumbre».",
+   "def_sv": "Att ställa en människa till rätta och återupprätta: ”fullt eniga i sinne”, ”all nåds Gud ska upprätta er”, ”fylla ut vad som brister i er tro”, ”sträva efter att bli upprättade”, ”hjälp honom till rätta i mildhet”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰコリ1:10、Ⅱコリ13:11、ガラテヤ6:1、Ⅰペテロ5:10、Ⅰテサ3:10。LXX 詩篇・エズラ、教父（5.8.1）に並行。"
+  },
+  {
+   "id": "3",
+   "label": "備える／整える（用意する）",
+   "label_en": "to prepare / make ready (equip)",
+   "label_es": "preparar / disponer (equipar)",
+   "label_sv": "att utrusta / bereda (göra redo)",
+   "def": "備える、整える、用意する、整えられる。『あらゆる良いことで整え』『あなたは私のために体を備えて』『賛美を備えられた』『滅ぼされるために備えられた怒りの器』『十分に訓練された者』。",
+   "def_en": "To equip, prepare, make ready, be made ready: “equip you with everything good”, “a body you have prepared for me”, “you have prepared praise”, “vessels of wrath prepared for destruction”, “one fully trained”.",
+   "def_es": "Equipar, preparar, disponer, ser dispuesto: «os haga aptos en toda obra buena», «me preparaste cuerpo», «perfeccionaste la alabanza», «vasos de ira preparados para destrucción», «el que sea perfeccionado».",
+   "def_sv": "Att utrusta, förbereda, göra i ordning: ”utrusta er med allt gott”, ”en kropp har du berett åt mig”, ”du har berett dig lovsång”, ”vredens kärl, färdiga att förstöras”, ”den fullärde”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ヘブル13:21・10:5、マタイ21:16、ローマ9:22、ルカ6:40。LXX 詩篇8:3・10:3、教父（2.4.1）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "4",
+   "label": "造り上げる（世界を）",
+   "label_en": "to fashion (the world)",
+   "label_es": "constituir (el mundo)",
+   "label_sv": "att forma (världen)",
+   "def": "造り整える。『世界が神のことばによって造り上げられた』。",
+   "def_en": "To make and set in order: “the universe was framed by the word of God”.",
+   "def_es": "Formar y ordenar: «fue constituido el universo por la palabra de Dios».",
+   "def_sv": "Att skapa och ordna: ”världen har formats genom ett ord av Gud”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "ヘブル11:3 の1例のみ。教父（2.4.1）に並行（世界が整えられた）。LXX の代表例では確認していない。語義3との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40004021025": "1",
+  "n40021016022": "3",
+  "n41001019019": "1",
+  "n42006040007": "3",
+  "n45009022020": "3",
+  "n46001010026": "2",
+  "n47013011004": "2",
+  "n48006001012": "2",
+  "n52003010013": "2",
+  "n58010005014": "3",
+  "n58011003003": "4",
+  "n58013021001": "3",
+  "n60005010019": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（繕う／整える／備える／造り上げる）による。"
+}

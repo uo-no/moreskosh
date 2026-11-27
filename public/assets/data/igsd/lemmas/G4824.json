@@ -1,0 +1,57 @@
+{
+ "lemma": "συμβούλιον",
+ "lemmaId": "grc:G4824",
+ "strong": "G4824",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "協議・謀議",
+   "label_en": "consultation / plot",
+   "label_es": "consejo / acuerdo (conjura)",
+   "label_sv": "rådslag / sammansvärjning",
+   "def": "協議、はかりごと。『イエスを殺そうと相談した』『イエスをわなにかけようと協議した』『イエスを死刑にしようと協議した』『協議の上』『協議して』『イエスを殺そうと協議し』『謀議を』。",
+   "def_en": "Consultation, plotting: “took counsel how to destroy Jesus”, “plotted how to entangle him”, “took counsel to put Jesus to death”, “after consultation”, “having taken counsel”, “held counsel to destroy him”, “a plot”.",
+   "def_es": "Deliberación, conspiración: «tuvieron consejo contra él para destruirle», «consultaron cómo sorprenderle», «entraron en consejo para entregarle a muerte», «habido consejo», «tomando consejo», «tomaron consejo para destruirle», «una conjura».",
+   "def_sv": "Överläggning, anslag: ”överlade hur de skulle röja Jesus ur vägen”, ”rådslog om hur de skulle snärja honom”, ”beslöt att få Jesus dödad”, ”efter överläggning”, ”hade överlagt”, ”höll råd om att döda honom”, ”en plan”.",
+   "layers": {
+    "nt": 7,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ12:14・28:12・22:15・27:1・27:7、マルコ15:1・3:6。LXX の用例なし。教父（7.7.2）は用法の対応が確認できず、この語義としては確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "顧問会議",
+   "label_en": "council of advisers",
+   "label_es": "consejo asesor",
+   "label_sv": "rådgivande råd",
+   "def": "補佐役の会議。『陪席の者たちと協議の上』。",
+   "def_en": "A council of assessors: “having conferred with his council”.",
+   "def_es": "Junta de consejeros: «habiendo hablado con el consejo».",
+   "def_sv": "Ett råd av bisittare: ”efter att ha överlagt med sina rådgivare”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒25:12。語義1との境界は連続的。LXX の用例なし。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40012014005": "1",
+  "n40022015005": "1",
+  "n40027001004": "1",
+  "n40027007001": "1",
+  "n40028012006": "1",
+  "n41003006009": "1",
+  "n41015001004": "1",
+  "n44025012007": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "LXX の用例なし。語義区分は用法（協議の行為／会議体）による。"
+}

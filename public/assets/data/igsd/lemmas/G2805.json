@@ -1,0 +1,58 @@
+{
+ "lemma": "κλαυθμός",
+ "lemmaId": "grc:G2805",
+ "strong": "G2805",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "泣くこと／号泣",
+   "label_en": "weeping / wailing",
+   "label_es": "llanto / lloro",
+   "label_sv": "gråt / klagan",
+   "def": "泣くこと、嘆き。『ラケルが泣き声…大いなる嘆き』『みな激しく泣き』。",
+   "def_en": "Weeping, lamentation: “Rachel weeping … great lamentation”, “they all wept sorely”.",
+   "def_es": "Llanto, lamento: «Raquel que llora … grande lamentación», «hubo gran llanto de todos».",
+   "def_sv": "Gråt och jämmer: ”Rakel gråter … stor klagan”, ”alla brast i häftig gråt”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒20:37、マタイ2:18。LXX イザヤ38:3・エレミヤ38:15 に並行。教父の用例は無い。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "泣き叫び（歯ぎしりと共に）",
+   "label_en": "weeping (with gnashing of teeth)",
+   "label_es": "lloro (con crujir de dientes)",
+   "label_sv": "gråt (med tandagnisslan)",
+   "def": "『泣き叫んだり歯ぎしりしたりする』という句の中の『泣き叫び』。",
+   "def_en": "The “weeping” in the phrase “weeping and gnashing of teeth”.",
+   "def_es": "El «lloro» de la frase «el lloro y el crujir de dientes».",
+   "def_sv": "”Gråten” i uttrycket ”gråt och tandagnisslan”.",
+   "layers": {
+    "nt": 7,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ8:12・13:42・13:50・22:13・24:51・25:30、ルカ13:28。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40002018005": "1",
+  "n40008012015": "2",
+  "n40013042012": "2",
+  "n40013050012": "2",
+  "n40022013022": "2",
+  "n40024051015": "2",
+  "n40025030014": "2",
+  "n42013028004": "2",
+  "n44020037003": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用例（泣くこと／句の中）による。教父の用例は無い。"
+}

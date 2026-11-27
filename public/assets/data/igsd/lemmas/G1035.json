@@ -1,0 +1,77 @@
+{
+ "lemma": "βρῶσις",
+ "lemmaId": "grc:G1035",
+ "strong": "G1035",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "食べ物／食事",
+   "label_en": "food / meal",
+   "label_es": "comida / alimento",
+   "label_sv": "mat / föda",
+   "def": "食べ物、食事。『種蒔く者にパンとなる糧を』『食べ物について』『わたしにはあなたがたの知らない食物がある』『朽ちる食物のためでなく』『わたしの肉はまことの食物』『一杯の食物のために』。",
+   "def_en": "Food, a meal: “bread for food”, “with regard to food”, “I have food to eat that you do not know about”, “not for the food that perishes”, “my flesh is true food”, “for a single meal”.",
+   "def_es": "Comida, sustento: «el que da semilla y pan para comer», «en cuanto a comida», «yo tengo una comida que vosotros no sabéis», «no por la comida que perece», «mi carne es verdadera comida», «por una sola comida».",
+   "def_sv": "Mat, måltid: ”bröd att äta”, ”i fråga om mat”, ”jag har mat att äta som ni inte känner till”, ”inte för den föda som förstörs”, ”mitt kött är verklig föda”, ”för ett enda mål mat”.",
+   "layers": {
+    "nt": 7,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅱコリ9:10、ヨハネ4:32・6:27（2回）・6:55、ヘブル12:16、コロサイ2:16。LXX 創世記9:3・イザヤ、教父（10.10、6.3）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "食べること（行為）",
+   "label_en": "eating (act)",
+   "label_es": "el comer (acto)",
+   "label_sv": "ätande (handlingen)",
+   "def": "食べること、飲食。『偶像への供え物を食べることについて』『神の国は食べ物や飲み物ではなく』。",
+   "def_en": "The act of eating and drinking: “concerning the eating of food offered to idols”, “the kingdom of God is not eating and drinking”.",
+   "def_es": "El hecho de comer y beber: «acerca de las viandas sacrificadas a los ídolos, el comerlas», «el reino de Dios no es comida ni bebida».",
+   "def_sv": "Att äta och dricka: ”om att äta kött från avgudaoffer”, ”Guds rike är inte mat och dryck”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰコリ8:4、ローマ14:17。LXX・教父に並行。"
+  },
+  {
+   "id": "3",
+   "label": "さび／虫食い（腐食）",
+   "label_en": "rust / corrosion",
+   "label_es": "orín / corrosión",
+   "label_sv": "rost / förtäring",
+   "def": "物を腐らせるもの、さび。『虫やさびがつき』『虫もさびもつかず』。",
+   "def_en": "What makes things rot or corrode, rust: “where moth and rust destroy”, “neither moth nor rust”.",
+   "def_es": "Lo que corroe las cosas, el óxido: «donde la polilla y el orín corrompen», «ni polilla ni orín».",
+   "def_sv": "Det som får ting att förstöras, rost: ”där mal och rost förstör”, ”varken mal eller rost”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ6:19・6:20。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40006019011": "3",
+  "n40006020011": "3",
+  "n43004032006": "1",
+  "n43006027004": "1",
+  "n43006027009": "1",
+  "n43006055007": "1",
+  "n45014017008": "2",
+  "n46008004003": "2",
+  "n47009010010": "1",
+  "n51002016007": "1",
+  "n58012016010": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（食物／食べる行為／腐食）による。"
+}

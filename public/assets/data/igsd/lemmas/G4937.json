@@ -1,0 +1,56 @@
+{
+ "lemma": "συντρίβω",
+ "lemmaId": "grc:G4937",
+ "strong": "G4937",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "砕く・折る・壊す",
+   "label_en": "to break, to crush",
+   "label_es": "quebrar, romper",
+   "label_sv": "att krossa, att bryta",
+   "def": "砕く、折る、粉々にする。『その骨は一本も砕かれない』『傷ついた葦を折ることもせず』『鎖は引きちぎられ』『石の壷を割って』『鉄の杖で陶器を砕くように砕かれる』。",
+   "def_en": "To crush, to break, to shatter: “not one of his bones will be broken”, “he will not break a bruised reed”, “the chains were torn apart”, “broke the stone jar”, “shattered like pottery with a rod of iron”.",
+   "def_es": "Quebrar, romper, hacer pedazos: «no será quebrado hueso suyo», «no quebrará la caña cascada», «las cadenas fueron despedazadas», «quebrando el vaso de alabastro», «serán quebrados como vaso de alfarero con vara de hierro».",
+   "def_sv": "Att krossa, bryta, slå sönder: ”inget av hans ben skall krossas”, ”ett brutet strå skall han inte knäcka”, ”kedjorna slets sönder”, ”bröt upp stenkrukan”, ”krossas som lerkärl med en järnspira”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ヨハネ19:36、マタイ12:20、マルコ5:4・14:3、黙示録2:27。LXX（31.20・11.22）、教父（2.10・18.17）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "傷つける・打ち砕く（人を）",
+   "label_en": "to injure, to crush (a person)",
+   "label_es": "maltratar, quebrantar (a una persona)",
+   "label_sv": "att skada, att krossa (en människa)",
+   "def": "人を傷つける、打ちひしぐ。『彼を打ち砕き』『平和の神は、サタンをあなたがたの足の下で打ち砕かれる』。",
+   "def_en": "To harm a person, to crush: “crushing him”, “the God of peace will crush Satan under your feet”.",
+   "def_es": "Herir a una persona, abatirla: «destrozándolo», «el Dios de paz aplastará a Satanás bajo vuestros pies».",
+   "def_sv": "Att tillfoga en människa skada, att slå ner: ”misshandlar honom”, ”fridens Gud skall krossa Satan under era fötter”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ルカ9:39、ローマ16:20。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40012020002": "1",
+  "n41005004018": "1",
+  "n41014003022": "1",
+  "n42009039019": "2",
+  "n43019036010": "1",
+  "n45016020006": "2",
+  "n66002027012": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は対象（物を砕く／人・敵を打ち砕く）による。"
+}

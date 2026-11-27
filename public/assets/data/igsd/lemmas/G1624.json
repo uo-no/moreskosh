@@ -1,0 +1,54 @@
+{
+ "lemma": "ἐκτρέπομαι",
+ "lemmaId": "grc:G1624",
+ "strong": "G1624",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "それる・離れる",
+   "label_en": "to turn aside, to turn away",
+   "label_es": "desviarse, apartarse",
+   "label_sv": "att vika av, att vända sig bort",
+   "def": "道からそれる、離れる、避ける。『これからそれて』『サタンの方へそれて行った』『俗悪な話を避け』『作り話にそれて行く』。",
+   "def_en": "To turn off the path, to depart, to avoid: “straying from these things”, “have already strayed after Satan”, “avoiding godless chatter”, “will wander off into myths”.",
+   "def_es": "Salirse del camino, alejarse, evitar: «desviándose de estas cosas», «ya se han apartado en pos de Satanás», «evitando las profanas pláticas», «se volverán a las fábulas».",
+   "def_sv": "Att lämna vägen, att avlägsna sig, att undvika: ”vikit av från detta”, ”har redan vikit av efter Satan”, ”undvik det gudlösa pratet”, ”vänder sig till myter”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "テモテ第一1:6・5:15・6:20、テモテ第二4:4。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "脱臼する",
+   "label_en": "to be dislocated",
+   "label_es": "dislocarse",
+   "label_sv": "att gå ur led",
+   "def": "足の関節がはずれる。『足の不自由な者が関節をはずされることのないように』。",
+   "def_en": "For a joint of the foot to be put out of place: “so that what is lame may not be put out of joint”.",
+   "def_es": "Salirse de su sitio la articulación del pie: «para que lo cojo no se salga del camino».",
+   "def_sv": "Att en fotled går ur led: ”så att den lama foten inte går ur led”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヘブル12:13。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n54001006004": "1",
+  "n54005015004": "1",
+  "n54006020006": "1",
+  "n55004004013": "1",
+  "n58012013012": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（それる・離れる／脱臼）による。"
+}

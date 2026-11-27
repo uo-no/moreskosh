@@ -1,0 +1,82 @@
+{
+ "lemma": "προσδοκάω",
+ "lemmaId": "grc:G4328",
+ "strong": "G4328",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "待つ（人・知らせを）",
+   "label_en": "to wait for (a person, news)",
+   "label_es": "esperar (a una persona, noticias)",
+   "label_sv": "att vänta på (människa, besked)",
+   "def": "人・知らせ・出来事を待つ、待ち受ける。『民はザカリヤを待っていた』『群衆が彼を待ち受けていた』『来るべき方はあなたですか、それとも他の方を待つべきでしょうか』。",
+   "def_en": "To wait for or await a person, news, or event: “the people were waiting for Zechariah”, “the crowd was waiting for him”, “Are you the one who is to come, or shall we look for another?”",
+   "def_es": "Aguardar a una persona, noticia o suceso: «el pueblo esperaba a Zacarías», «la multitud lo esperaba», «¿eres tú el que había de venir, o esperaremos a otro?».",
+   "def_sv": "Att vänta in en människa, ett besked eller en händelse: ”folket väntade på Sakarias”, ”folkskaran väntade på honom”, ”är du den som skulle komma, eller ska vi vänta på någon annan?”.",
+   "layers": {
+    "nt": 9,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ルカ1:21・8:40・7:19・7:20、マタイ11:3、使徒10:24・3:5・27:33・28:6（2回目）。LXX Ⅱマカバイ、教父（12）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "予期する／思う",
+   "label_en": "to expect",
+   "label_es": "prever / suponer",
+   "label_sv": "att förvänta sig",
+   "def": "出来事を予期する。『主人が思いがけない日に』『彼らはいつか彼が腫れるか倒れるかと予期していた』。",
+   "def_en": "To anticipate an event: “on a day when the master does not expect”, “they expected him to swell up or fall down”.",
+   "def_es": "Prever un suceso: «en el día que el siervo no espera», «ellos esperaban que se hinchase o cayese».",
+   "def_sv": "Att räkna med en händelse: ”en dag då tjänaren inte väntar det”, ”de väntade att han skulle svullna upp eller falla ihop”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ルカ3:15・12:46、マタイ24:50、使徒28:6（1回目）。語義1との境界は連続的。教父の代表例は語義1・3に並行。"
+  },
+  {
+   "id": "3",
+   "label": "待ち望む（約束・終末的）",
+   "label_en": "to look forward to (promise, end time)",
+   "label_es": "aguardar (promesa, escatológico)",
+   "label_sv": "att emotse (löfte, den yttersta tiden)",
+   "def": "約束されたものを待ち望む。『神の日の来るのを待ち望み』『新しい天と新しい地を待ち望む』。",
+   "def_en": "To await what has been promised: “waiting for the coming of the day of God”, “we look for new heavens and a new earth”.",
+   "def_es": "Esperar lo prometido: «esperando la venida del día de Dios», «esperamos cielos nuevos y tierra nueva».",
+   "def_sv": "Att vänta på det utlovade: ”medan ni väntar på Guds dag”, ”vi väntar på nya himlar och en ny jord”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "Ⅱペテロ3:12・3:13・3:14。LXX の代表例では確認していない。教父（2.9.2）に並行。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40011003009": "1",
+  "n40024050011": "2",
+  "n42001021005": "1",
+  "n42003015001": "2",
+  "n42007019012": "1",
+  "n42007020022": "1",
+  "n42008040014": "1",
+  "n42012046011": "2",
+  "n44003005005": "1",
+  "n44010024012": "1",
+  "n44027033017": "1",
+  "n44028006003": "2",
+  "n44028006015": "1",
+  "n61003012001": "3",
+  "n61003013011": "3",
+  "n61003014004": "3"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は目的語・文脈による。"
+}

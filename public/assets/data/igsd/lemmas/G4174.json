@@ -1,0 +1,51 @@
+{
+ "lemma": "πολιτεία",
+ "lemmaId": "grc:G4174",
+ "strong": "G4174",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "市民権",
+   "label_en": "citizenship",
+   "label_es": "ciudadanía",
+   "label_sv": "medborgarrätt",
+   "def": "市民権、国籍。『この市民権』。",
+   "def_en": "Citizenship, nationality: “this citizenship”.",
+   "def_es": "Derecho de ciudadano, nacionalidad: «esta ciudadanía».",
+   "def_sv": "Medborgarskap, nationalitet: ”denna medborgarrätt”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒22:28。LXX・教父の代表例では確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "国民・共同体",
+   "label_en": "nation, commonwealth",
+   "label_es": "nación, comunidad",
+   "label_sv": "samhälle, folkgemenskap",
+   "def": "国民としての共同体、国。『イスラエルの国籍』。",
+   "def_en": "A people as a political community: “citizenship in Israel”.",
+   "def_es": "La comunidad nacional: «la ciudadanía de Israel».",
+   "def_sv": "Folket som gemenskap, rike: ”medborgarskapet i Israel”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "エペソ2:12。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n44022028009": "1",
+  "n49002012010": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法による。LXX・教父の代表例は『生き方』『制度』の用法で、この用法は確認していない。"
+}

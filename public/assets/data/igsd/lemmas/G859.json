@@ -1,0 +1,66 @@
+{
+ "lemma": "ἄφεσις",
+ "lemmaId": "grc:G859",
+ "strong": "G859",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "赦し（罪の）",
+   "label_en": "forgiveness (of sins)",
+   "label_es": "perdón (de pecados)",
+   "label_sv": "förlåtelse (av synder)",
+   "def": "罪の赦し、罪の負いめを取り去ること。『罪の赦しを得させる悔い改め』『罪の赦しを得させるために流される血』。",
+   "def_en": "The forgiveness of sins, the removal of the debt of sin: “repentance for the forgiveness of sins”, “blood poured out for the forgiveness of sins”.",
+   "def_es": "El perdón de los pecados, la supresión de la deuda del pecado: «arrepentimiento para perdón de pecados», «sangre derramada para perdón de pecados».",
+   "def_sv": "Syndernas förlåtelse, att syndaskulden tas bort: ”omvändelse till syndernas förlåtelse”, ”blodet som utgjuts till syndernas förlåtelse”.",
+   "layers": {
+    "nt": 15,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "マタイ26:28、マルコ1:4・3:29、ルカ1:77・3:3・24:47、使徒2:38・5:31・10:43・13:38・26:18、エペソ1:7、コロサイ1:14、ヘブル9:22・10:18。教父（バルナバ16.8、ヘルマス9.4.4）に並行。Abbott も『罪について LXX には用例なし』とする。"
+  },
+  {
+   "id": "2",
+   "label": "解放／釈放（捕らわれ人の）",
+   "label_en": "release / liberation (of captives)",
+   "label_es": "liberación (de cautivos)",
+   "label_sv": "befrielse / frigivning (av fångar)",
+   "def": "捕らわれ人・圧迫された者を解き放つこと、解放の告知。『捕らわれ人には解放を、圧迫されている者には自由を』。",
+   "def_en": "Setting free captives and the oppressed, the proclamation of release: “release to the captives, freedom for the oppressed”.",
+   "def_es": "Dejar libres a cautivos y oprimidos, el anuncio de la liberación: «libertad a los cautivos, poner en libertad a los oprimidos».",
+   "def_sv": "Att släppa fångna och förtryckta fria, kungörelsen om befrielse: ”frihet för de fångna, befrielse för de förtryckta”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ルカ4:18（2回、イザヤ61:1・58:6 の引用）。LXX 申命記15:1（七年ごとの免除・解放）に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40026028014": "1",
+  "n41001004012": "1",
+  "n41003029012": "1",
+  "n42001077009": "1",
+  "n42003003012": "1",
+  "n42004018015": "2",
+  "n42004018022": "2",
+  "n42024047009": "1",
+  "n44002038016": "1",
+  "n44005031017": "1",
+  "n44010043006": "1",
+  "n44013038011": "1",
+  "n44026018021": "1",
+  "n49001007011": "1",
+  "n51001014007": "1",
+  "n58009022015": "1",
+  "n58010018003": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

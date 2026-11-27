@@ -1,0 +1,57 @@
+{
+ "lemma": "κύκλῳ",
+ "lemmaId": "grc:G2945",
+ "strong": "G2945",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "周りに（副詞）",
+   "label_en": "around (adverb)",
+   "label_es": "alrededor (adverbio)",
+   "label_sv": "runt omkring (adverb)",
+   "def": "周囲に、周りに。『周りの村々や里へ行って』『ご自分の周りに座っている人々を見回して』『周囲の村々を巡って』『周囲の村々や里へ』『エルサレムから、ぐるりと回って』。",
+   "def_en": "Round about, around: “the surrounding villages and farms”, “looking about at those who sat around him”, “went about among the villages”, “into the surrounding countryside and villages”, “from Jerusalem and round about”.",
+   "def_es": "En derredor: «los campos y aldeas de alrededor», «mirando a los que estaban sentados alrededor de él», «recorría las aldeas de alrededor», «a las aldeas y campos de alrededor», «desde Jerusalén y por los alrededores».",
+   "def_sv": "Runt om, i trakten omkring: ”byarna och gårdarna runt omkring”, ”såg på dem som satt runt omkring honom”, ”gick runt i byarna”, ”till bygden och byarna omkring”, ”från Jerusalem och runt omkring”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ルカ9:12、マルコ3:34・6:6・6:36、ローマ15:19。LXX（19.12）に並行。教父の代表例は属格を伴う用法。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "…の周りに（属格を伴う）",
+   "label_en": "around (with genitive)",
+   "label_es": "alrededor de (con genitivo)",
+   "label_sv": "omkring (med genitiv)",
+   "def": "属格を伴い、周りに。『御座の周りに』『御座とその周りに』『御座の周りに立っていた』。",
+   "def_en": "With the genitive, around: “around the throne”, “the throne and around it”, “stood around the throne”.",
+   "def_es": "Con genitivo, en torno a: «alrededor del trono», «junto al trono y alrededor de él», «estaban en pie alrededor del trono».",
+   "def_sv": "Med genitiv, omkring: ”runt tronen”, ”tronen och runt omkring den”, ”stod runt omkring tronen”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "黙示録4:6・5:11・7:11。教父（3.8.2）に並行。LXX の代表例は副詞用法を確認しており、属格を伴う用法としては確認していない。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n41003034006": "1",
+  "n41006006011": "1",
+  "n41006036007": "1",
+  "n42009012019": "1",
+  "n45015019014": "1",
+  "n66004006016": "2",
+  "n66005011008": "2",
+  "n66007011006": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は構文（副詞／属格を伴う）による。"
+}

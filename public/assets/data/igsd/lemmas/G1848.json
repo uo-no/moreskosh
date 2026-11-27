@@ -1,0 +1,60 @@
+{
+ "lemma": "ἐξουθενέω",
+ "lemmaId": "grc:G1848",
+ "strong": "G1848",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "軽んじる／見下す",
+   "label_en": "to despise / look down on",
+   "label_es": "menospreciar / despreciar",
+   "label_sv": "att förakta / se ner på",
+   "def": "軽んじる、見下す、侮る。『彼を軽んじてはならない』『世の無きに等しい者』『教会で軽んじられている人々』『預言を軽んじてはならない』『自分を軽んじなかった』『食べない者を軽んじてはならない』。",
+   "def_en": "To make light of, to look down on, to scorn: “let no one despise him”, “what is despised in the world”, “those who have no standing in the church”, “do not despise prophecies”, “did not scorn or despise me”, “let not the one who eats despise the one who abstains”.",
+   "def_es": "Tener en poco, mirar por encima del hombro, desdeñar: «nadie le tenga en poco», «lo menospreciado del mundo», «los que son de menor estima en la iglesia», «no menospreciéis las profecías», «no me desechasteis ni despreciasteis», «el que come no menosprecie al que no come».",
+   "def_sv": "Att ringakta, se ner på, håna: ”ingen får se ner på honom”, ”det föraktade i världen”, ”de ringaktade i församlingen”, ”förakta inte profetiskt tal”, ”ni föraktade eller avskydde mig inte”, ”den som äter ska inte se ner på den som avstår”.",
+   "layers": {
+    "nt": 10,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰコリ16:11・1:28・6:4、Ⅰテサ5:20、Ⅱコリ10:10、ガラテヤ4:14、ルカ18:9・23:11、ローマ14:3・14:10。LXX Ⅰサムエル8:7・箴言、教父（7.9）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "退ける／捨てられる",
+   "label_en": "to be rejected / cast off",
+   "label_es": "ser desechado / rechazado",
+   "label_sv": "att förkastas / ratas",
+   "def": "退けられる、捨てられる。『家を建てる者たちに捨てられた石』（使徒4:11）。",
+   "def_en": "To be rejected, thrown aside: “the stone that was rejected by you, the builders” (Acts 4:11).",
+   "def_es": "Ser apartado, desechado: «la piedra reprobada por vosotros los edificadores» (Hch 4:11).",
+   "def_sv": "Att bli avvisad och bortkastad: ”stenen som ni byggare har ratat” (Apg 4:11).",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒4:11 の1例のみ（詩篇117:22 の引用）。語義1との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42018009014": "1",
+  "n42023011001": "1",
+  "n44004011006": "2",
+  "n45014003007": "1",
+  "n45014010012": "1",
+  "n46001028008": "1",
+  "n46006004008": "1",
+  "n46016011005": "1",
+  "n47010010018": "1",
+  "n48004014010": "1",
+  "n52005020003": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法による。"
+}

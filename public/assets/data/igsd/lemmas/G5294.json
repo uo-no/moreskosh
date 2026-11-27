@@ -1,0 +1,51 @@
+{
+ "lemma": "ὑποτίθημι",
+ "lemmaId": "grc:G5294",
+ "strong": "G5294",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "示す・差し出す",
+   "label_en": "to point out",
+   "label_es": "indicar",
+   "label_sv": "att framhålla",
+   "def": "示す、教える。『これらのことを兄弟たちに示す』。",
+   "def_en": "To set before, to teach: “if you put these things before the brothers”.",
+   "def_es": "Exponer, enseñar: «si esto enseñas a los hermanos».",
+   "def_sv": "Att lägga fram, att lära: ”om du lägger fram detta för bröderna”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "テモテ第一4:6。LXX・教父の代表例では確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "危険にさらす",
+   "label_en": "to risk",
+   "label_es": "exponer",
+   "label_sv": "att sätta på spel",
+   "def": "（首を）差し出す、危険にさらす。『自分の首を差し出した』。",
+   "def_en": "To lay down (one’s neck), to endanger: “risked their own necks”.",
+   "def_es": "Arriesgar (el cuello): «expusieron su cuello».",
+   "def_sv": "Att våga (sin hals), att utsätta för fara: ”vågade sina liv”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ローマ16:4。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n45016004009": "2",
+  "n54004006002": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法による。LXX の代表例は『下に置く』の用法で、この二つの用法は確認していない。"
+}

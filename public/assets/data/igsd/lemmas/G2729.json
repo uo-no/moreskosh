@@ -1,0 +1,52 @@
+{
+ "lemma": "κατισχύω",
+ "lemmaId": "grc:G2729",
+ "strong": "G2729",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "力を得る・耐えうる",
+   "label_en": "to have strength to",
+   "label_es": "tener fuerzas, poder resistir",
+   "label_sv": "att få kraft, att förmå",
+   "def": "力を持つ、耐える力がある。『これらすべての起こることを免れる力を持つように』。",
+   "def_en": "To have power, to be strong enough to endure: “so that you may have strength to escape all these things that will take place”.",
+   "def_es": "Tener vigor, ser capaz de resistir: «que seáis tenidos por dignos y tengáis fuerza de escapar de todas estas cosas que vendrán».",
+   "def_sv": "Att ha styrka, att orka stå emot: ”så att ni får kraft att undkomma allt det som skall ske”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ルカ21:36。LXX、教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "打ち勝つ",
+   "label_en": "to prevail",
+   "label_es": "prevalecer",
+   "label_sv": "att få överhand",
+   "def": "優勢になる、打ち勝つ。『大声で押し切った』『陰府の門もこれに打ち勝てない』。マタイ16:18 の指示対象・解釈は決定しない。",
+   "def_en": "To get the upper hand, to overcome: “their loud shouts prevailed”, “the gates of Hades will not overcome it”. The referent and interpretation of Matthew 16:18 are not decided.",
+   "def_es": "Imponerse, vencer: «sus voces prevalecieron», «las puertas del Hades no prevalecerán contra ella». No se decide el referente ni la interpretación de Mateo 16:18.",
+   "def_sv": "Att segra, att bli övermäktig: ”de skrek sig till sin vilja”, ”dödsrikets portar skall inte få makt över den”. Syftningen och tolkningen av Matteus 16:18 avgörs inte.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "マタイ16:18、ルカ23:23。LXX、教父に並行。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40016018022": "2",
+  "n42021036008": "1",
+  "n42023023010": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（力を持つ／打ち勝つ）による。"
+}

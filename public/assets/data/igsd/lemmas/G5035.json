@@ -1,0 +1,78 @@
+{
+ "lemma": "ταχύ",
+ "lemmaId": "grc:G5035",
+ "strong": "G5035",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "すぐに／素早く",
+   "label_en": "quickly",
+   "label_es": "pronto / rápidamente",
+   "label_sv": "snabbt / skyndsamt",
+   "def": "すぐに、急いで。『すぐに起きて』『急いで行って』『早く、一番良い着物を』『早く和解しなさい』『すぐに悔い改めよ』。",
+   "def_en": "Quickly, in haste: “rose quickly”, “go quickly”, “bring quickly the best robe”, “come to terms quickly”, “repent without delay”.",
+   "def_es": "En seguida, de prisa: «levántate pronto», «id pronto», «sacad pronto el mejor vestido», «ponte de acuerdo pronto», «arrepiéntete pronto».",
+   "def_sv": "Genast, i hast: ”res dig genast”, ”skynda er i väg”, ”ta fort fram den finaste dräkten”, ”gör snabbt upp”, ”vänd om utan dröjsmål”.",
+   "layers": {
+    "nt": 6,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ヨハネ11:29、ルカ15:22、マタイ28:7・28:8・5:25、黙示録2:16。LXX 詩篇、教父（26.19.2）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "まもなく（間もなく来る）",
+   "label_en": "soon (coming soon)",
+   "label_es": "en breve (viene pronto)",
+   "label_sv": "snart (kommer snart)",
+   "def": "まもなく、じきに。『わたしはすぐに来る』『第三のわざわいはすぐに来る』『しっかり持っていなさい。わたしはすぐに来る』。",
+   "def_en": "Soon, before long: “I am coming soon”, “the third woe is soon to come”, “hold fast; I am coming soon”.",
+   "def_es": "Pronto, dentro de poco: «vengo en breve», «el tercer ay viene pronto», «retén lo que tienes; yo vengo pronto».",
+   "def_sv": "Inom kort: ”jag kommer snart”, ”det tredje verop kommer snart”, ”håll fast; jag kommer snart”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "黙示録11:14・22:7・22:12・22:20・3:11。LXX ハバクク2:3、教父（53.2）に並行。"
+  },
+  {
+   "id": "3",
+   "label": "まもなく後に",
+   "label_en": "soon afterward",
+   "label_es": "poco después",
+   "label_sv": "strax därefter",
+   "def": "まもなく後で。『すぐにわたしを悪く言える者はいない』（マルコ9:39）。",
+   "def_en": "Soon after: “no one will be able soon afterward to speak evil of me” (Mark 9:39).",
+   "def_es": "Poco después: «ninguno podrá luego decir mal de mí» (Mr 9:39).",
+   "def_sv": "Kort efteråt: ”ingen kan strax efteråt tala illa om mig” (Mark 9:39).",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マルコ9:39 の1例のみ。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40005025006": "1",
+  "n40028007002": "1",
+  "n40028008003": "1",
+  "n41009039020": "3",
+  "n42015022009": "1",
+  "n43011029006": "1",
+  "n66002016008": "1",
+  "n66003011002": "2",
+  "n66011014012": "2",
+  "n66022007004": "2",
+  "n66022012003": "2",
+  "n66022020007": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（すぐに／まもなく）による。"
+}

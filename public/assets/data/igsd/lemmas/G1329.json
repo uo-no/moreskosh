@@ -1,0 +1,55 @@
+{
+ "lemma": "διερμηνεύω",
+ "lemmaId": "grc:G1329",
+ "strong": "G1329",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "解き明かす・通訳する",
+   "label_en": "to interpret, to explain",
+   "label_es": "interpretar, explicar",
+   "label_sv": "att uttyda, att tolka",
+   "def": "言葉の意味を解き明かす、通訳する。『みな異言を解き明かすだろうか』『解き明かす者があれば』『解き明かせるように祈れ』『ひとりが解き明かせ』『聖書全体にわたって解き明かされた』。",
+   "def_en": "To explain the meaning of words, to interpret: “do all interpret tongues”, “if there is someone to interpret”, “pray that one may be able to interpret”, “let one interpret”, “explained in all the Scriptures”.",
+   "def_es": "Explicar el sentido de las palabras, interpretar: «¿interpretan todos las lenguas?», «si hay quien interprete», «pida en oración poder interpretar», «que uno interprete», «les explicaba en todas las Escrituras».",
+   "def_sv": "Att förklara ords mening, att tolka: ”kan alla tolka tungotal”, ”om någon kan tolka”, ”be att få tolka”, ”låt en tolka”, ”förklarade för dem vad som står i alla skrifterna”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "コリント第一12:30・14:5・14:13・14:27、ルカ24:27。語義2との境界は連続的。LXX の代表例（II マカバイ1:36）は用法が異なり、この語義としては確認していない。教父の用例なし。"
+  },
+  {
+   "id": "2",
+   "label": "訳す（名前を）",
+   "label_en": "to translate (a name)",
+   "label_es": "traducir (un nombre)",
+   "label_sv": "att översätta (ett namn)",
+   "def": "名前を訳して言う。『ギリシヤ語でドルカスと言う』（訳された名）。",
+   "def_en": "To give a name in translation: “called in Greek Dorcas”. (a name given in translation)",
+   "def_es": "Decir un nombre traducido: «que traducido quiere decir Dorcas». (un nombre traducido)",
+   "def_sv": "Att återge ett namn i översättning: ”på grekiska Dorkas”. (ett översatt namn)",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒9:36。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42024027010": "1",
+  "n44009036010": "2",
+  "n46012030012": "1",
+  "n46014005022": "1",
+  "n46014013007": "1",
+  "n46014027016": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（解き明かす・通訳する／名前を訳す）による。LXX の代表例は命名の用法で、語義には立てない。"
+}

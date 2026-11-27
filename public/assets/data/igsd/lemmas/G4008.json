@@ -1,0 +1,71 @@
+{
+ "lemma": "πέραν",
+ "lemmaId": "grc:G4008",
+ "strong": "G4008",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "〜の向こう側で（属格を伴う）",
+   "label_en": "on the other side of (with genitive)",
+   "label_es": "al otro lado de (con genitivo)",
+   "label_sv": "på andra sidan om (med genitiv)",
+   "def": "属格（ヨルダン川・海・谷川）を伴い、その向こう岸に、の位置または方向を示す（前置詞的）。",
+   "def_en": "With a genitive (the Jordan, the sea, a valley stream), indicates position or direction on its far side (used as a preposition).",
+   "def_es": "Con genitivo (el Jordán, el mar, un torrente), indica posición o dirección en la otra orilla (uso preposicional).",
+   "def_sv": "Med genitiv (Jordan, sjön, en bäckravin) anger läge eller riktning på andra sidan därom (prepositionellt).",
+   "layers": {
+    "nt": 13,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ヨルダンの向こう（マタイ4:15・25・19:1、マルコ3:8・10:1、ヨハネ1:28・3:26・10:40）、湖の向こう（ヨハネ6:1・17・22・25）、ヨハネ18:1（ケドロンの谷川の向こう）。LXX ヨシュア・サムエル記などに並行。教父の代表例は無い。"
+  },
+  {
+   "id": "2",
+   "label": "向こう岸（τὸ πέραν）",
+   "label_en": "the other side (τὸ πέραν)",
+   "label_es": "la otra orilla (τὸ πέραν)",
+   "label_sv": "andra stranden (τὸ πέραν)",
+   "def": "冠詞つきで名詞的に、湖・海の向こう岸、対岸を指す。『向こう岸へ（εἰς τὸ πέραν）』の形が多い。",
+   "def_en": "With the article, used as a noun for the far shore of a lake or sea; often in the form “to the other side” (εἰς τὸ πέραν).",
+   "def_es": "Con artículo, usado como sustantivo, designa la orilla opuesta de un lago o mar. Frecuente en la forma «a la otra orilla» (εἰς τὸ πέραν).",
+   "def_sv": "Med artikel, substantiverat: andra stranden av en sjö eller ett hav. Ofta i formen ”till andra sidan” (εἰς τὸ πέραν).",
+   "layers": {
+    "nt": 10,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ガリラヤ湖の渡航記事（マタイ8:18・28・14:22・16:5、マルコ4:35・5:1・21・6:45・8:13、ルカ8:22）。語義1との境界は冠詞の有無による。LXX に並行（Ⅱサムエル・歴代誌）。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40004015008": "1",
+  "n40004025016": "1",
+  "n40008018013": "2",
+  "n40008028006": "2",
+  "n40014022014": "2",
+  "n40016005007": "2",
+  "n40019001021": "1",
+  "n41003008009": "1",
+  "n41004035013": "2",
+  "n41005001005": "2",
+  "n41005021011": "2",
+  "n41006045015": "2",
+  "n41008013009": "2",
+  "n41010001011": "1",
+  "n42008022023": "2",
+  "n43001028005": "1",
+  "n43003026014": "1",
+  "n43006001006": "1",
+  "n43006017006": "1",
+  "n43006022007": "1",
+  "n43006025004": "1",
+  "n43010040004": "1",
+  "n43018001009": "1"
+ },
+ "unresolved": []
+}

@@ -1,0 +1,45 @@
+{
+ "lemma": "φάρμακον",
+ "lemmaId": "grc:G5331a",
+ "strong": "G5331a",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "薬・魔術に用いる薬",
+   "label_en": "drug, sorcery",
+   "label_es": "hechicería, droga",
+   "label_sv": "trolldom, trolldryck",
+   "def": "薬、魔術に用いる薬。『魔術』（黙示録9:21）。ガラテヤ5:20・黙示録18:23 の φαρμακεία は別レンマの疑いがあり未割当て。",
+   "def_en": "A drug, especially one used in magic: “sorceries” (Rev 9:21). φαρμακεία in Galatians 5:20 and Revelation 18:23 may be a separate lemma and is left unassigned.",
+   "def_es": "Droga, la usada en artes mágicas: «hechicerías» (Apocalipsis 9:21). φαρμακεία en Gálatas 5:20 y Apocalipsis 18:23 se sospecha que es otro lema y queda sin asignar.",
+   "def_sv": "Drog, brygd som används i magi: ”trolldom” (Uppenbarelseboken 9:21). φαρμακεία i Galaterbrevet 5:20 och Uppenbarelseboken 18:23 misstänks vara ett annat lemma och har inte förts hit.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "黙示録9:21。LXX、教父に並行。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n66009021011": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。",
+ "excluded": [
+  {
+   "ref": "GAL 5:20",
+   "form": "φαρμακεία",
+   "reason": "lemma はデータの lemma 欄でも φαρμακεία で別語。φαρμακεία は別項目として本帯の後続ウェーブで扱う。"
+  },
+  {
+   "ref": "REV 18:23",
+   "form": "φαρμακείᾳ",
+   "reason": "lemma はデータの lemma 欄でも φαρμακεία で別語。φαρμακεία は別項目として本帯の後続ウェーブで扱う。"
+  }
+ ]
+}

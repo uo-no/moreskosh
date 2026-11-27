@@ -1,0 +1,56 @@
+{
+ "lemma": "ἁγνίζω",
+ "lemmaId": "grc:G48",
+ "strong": "G48",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "儀式的に清める",
+   "label_en": "to purify ceremonially",
+   "label_es": "purificar (ritualmente)",
+   "label_sv": "att rena rituellt",
+   "def": "儀式的に身を清める。『身を清めるために』『清めの儀式を済ませ』『あなたがたも彼らと共に身を清め』『清めを受けた者』。",
+   "def_en": "To purify oneself ceremonially: “in order to purify themselves”, “having completed the rite of purification”, “purify yourself along with them”, “those who had been purified”.",
+   "def_es": "Purificarse ritualmente: «para purificarse», «cumplido el rito de purificación», «purifícate con ellos», «los que habían sido purificados».",
+   "def_sv": "Att rena sig rituellt: ”för att rena sig”, ”efter att ha fullgjort reningsriten”, ”rena dig tillsammans med dem”, ”de som blivit renade”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ヨハネ11:55、使徒21:24・21:26・24:18。LXX（30.15・11.18）に並行。教父の代表例は倫理的用法で、この語義としては確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "清くする・潔める（倫理的）",
+   "label_en": "to make pure (ethically)",
+   "label_es": "purificar (en sentido moral)",
+   "label_sv": "att rena, att göra ren (etiskt)",
+   "def": "心や行いを清くする。『自分を清くする』『真理に従うことによって、あなたがたの魂を清め』『心を清めなさい』。",
+   "def_en": "To make the heart or conduct pure: “purifies himself”, “having purified your souls by obeying the truth”, “purify your hearts”.",
+   "def_es": "Hacer puros el corazón o la conducta: «se purifica a sí mismo», «habiendo purificado vuestras almas por la obediencia a la verdad», «purificad vuestros corazones».",
+   "def_sv": "Att göra hjärtat eller handlandet rent: ”renar sig själv”, ”ni har renat era själar genom att lyda sanningen”, ”rena era hjärtan”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "ヨハネ第一3:3、ペテロ第一1:22、ヤコブ4:8。教父（5.1・3.13.3）に並行。LXX の代表例は儀式的用法で、この語義としては確認していない。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n43011055020": "1",
+  "n44021024003": "1",
+  "n44021026012": "1",
+  "n44024018005": "1",
+  "n59004008011": "2",
+  "n60001022004": "2",
+  "n62003003010": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（儀式的な清め／倫理的な清め）による。"
+}

@@ -1,0 +1,66 @@
+{
+ "lemma": "σκοτία",
+ "lemmaId": "grc:G4653",
+ "strong": "G4653",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "暗さ／暗やみ（物理的）",
+   "label_en": "darkness (physical)",
+   "label_es": "oscuridad (física)",
+   "label_sv": "mörker (fysiskt)",
+   "def": "光のない暗さ、闇夜。『まだ暗いうちに』『暗いところで語ったこと』『暗くなって』。",
+   "def_en": "Darkness without light, the dark of night: “while it was still dark”, “what I tell you in the dark”, “it had become dark”.",
+   "def_es": "La falta de luz, la noche oscura: «siendo aún oscuro», «lo que os digo en tinieblas», «había oscurecido».",
+   "def_sv": "Mörker utan ljus, nattmörkret: ”medan det ännu var mörkt”, ”det jag säger er i mörkret”, ”det hade blivit mörkt”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ヨハネ6:17（すでに暗くなっていた）・20:1（まだ暗いうちに）、マタイ10:27・ルカ12:3（暗いところで語ること）。LXX ヨブ28:3 に並行。教父の用例は無い。"
+  },
+  {
+   "id": "2",
+   "label": "（霊的な）闇",
+   "label_en": "(spiritual) darkness",
+   "label_es": "tinieblas (espirituales)",
+   "label_sv": "(andligt) mörker",
+   "def": "罪・不信・悪の領域としての闇。『光は闇の中に輝く』『闇の中を歩む』『兄弟を憎む者は闇の中にいる』。",
+   "def_en": "Darkness as the realm of sin, unbelief, and evil: “the light shines in the darkness”, “walk in darkness”, “whoever hates his brother is in the darkness”.",
+   "def_es": "Las tinieblas como ámbito del pecado, la incredulidad y el mal: «la luz resplandece en las tinieblas», «andar en tinieblas», «el que aborrece a su hermano está en tinieblas».",
+   "def_sv": "Mörkret som syndens, otrons och ondskans område: ”ljuset lyser i mörkret”, ”vandra i mörkret”, ”den som hatar sin broder är i mörkret”.",
+   "layers": {
+    "nt": 13,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヨハネ1:5（2回）・8:12・12:35（2回）・12:46、Ⅰヨハネ1:5・2:8・9・11（3回）、マタイ4:16（暗黒に住む民）。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40004016006": "2",
+  "n40010027006": "1",
+  "n42012003006": "1",
+  "n43001005006": "2",
+  "n43001005010": "2",
+  "n43006017012": "1",
+  "n43008012022": "2",
+  "n43012035021": "2",
+  "n43012035029": "2",
+  "n43012046015": "2",
+  "n43020001011": "1",
+  "n62001005019": "2",
+  "n62002008016": "2",
+  "n62002009014": "2",
+  "n62002011009": "2",
+  "n62002011014": "2",
+  "n62002011023": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "教父の用例は0件（パケット）。新約に無い用法は代表例の範囲では見当たらない。"
+}

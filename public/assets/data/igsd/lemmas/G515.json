@@ -1,0 +1,56 @@
+{
+ "lemma": "ἀξιόω",
+ "lemmaId": "grc:G515",
+ "strong": "G515",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "ふさわしいとみなす・値するとする",
+   "label_en": "to deem worthy",
+   "label_es": "tener por digno",
+   "label_sv": "att akta värdig",
+   "def": "ふさわしいと認める、値するとする（受動：ふさわしいとされる）。『二倍の尊敬を受けるにふさわしいとされるべきである』『あなたがたを召しにふさわしい者とされるように』『モーセよりもまさって栄光に値するとされた』『どれほど重い刑罰に値するとされるか』『あなたのところに行くにふさわしいとは思いませんでした』。",
+   "def_en": "To judge worthy, to count deserving (passive: to be deemed worthy). “should be considered worthy of double honour”, “that he may make you worthy of the calling”, “has been counted worthy of more glory than Moses”, “how much severer punishment will he be deemed to deserve”, “I did not think myself worthy to come to you”.",
+   "def_es": "Reconocer como digno o merecedor (pasiva: ser tenido por digno). «deben ser tenidos por dignos de doble honor», «que os tenga por dignos del llamamiento», «ha sido considerado digno de mayor gloria que Moisés», «de cuánto mayor castigo será tenido por merecedor», «no me consideré digno de ir a ti».",
+   "def_sv": "Att anse värdig eller förtjänt (passiv: att aktas värdig). ”bör anses värda dubbel heder”, ”att han må göra er värdiga kallelsen”, ”har ansetts värd större härlighet än Mose”, ”hur mycket strängare straff skall han inte anses förtjäna”, ”jag ansåg mig inte värdig att komma till dig”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "テモテ第一5:17、テサロニケ第二1:11、ヘブル3:3・10:29、ルカ7:7。語義2との境界は連続的。LXX・教父の代表例は「求める・よしとする」の用法で、この語義としては確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "よいとする・望む",
+   "label_en": "to think good, to desire",
+   "label_es": "juzgar conveniente, querer",
+   "label_sv": "att finna lämpligt, att vilja",
+   "def": "よいと考える、願い求める。『連れて行くのはよくないと考えた』『あなたの考えを聞きたい』。",
+   "def_en": "To think it right, to request: “did not think it right to take him along”, “we would like to hear what you think”.",
+   "def_es": "Considerar bueno, pedir: «no le parecía bien llevarlo», «querríamos oír lo que piensas».",
+   "def_sv": "Att anse bra, att begära: ”ansåg det inte lämpligt att ta med honom”, ”vi vill gärna höra vad du anser”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒15:38・28:22。LXX（5.4・6.12）、教父（59.4）に並行。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42007007004": "1",
+  "n44015038003": "2",
+  "n44028022001": "2",
+  "n53001011010": "1",
+  "n54005017007": "1",
+  "n58003003007": "1",
+  "n58010029004": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（ふさわしいとみなす／よいとする・望む）による。"
+}

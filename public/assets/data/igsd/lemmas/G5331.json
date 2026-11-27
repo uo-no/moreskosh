@@ -1,0 +1,34 @@
+{
+ "lemma": "φαρμακεία",
+ "lemmaId": "grc:G5331",
+ "strong": "G5331",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "魔術",
+   "label_en": "sorcery",
+   "label_es": "hechicería",
+   "label_sv": "trolldom",
+   "def": "魔術、呪術。『魔術』（2回）。パケットの mapping_note のとおり、層の用例は G5331 の抽出に含まれず、新約のみ。",
+   "def_en": "Magic, sorcery: “sorcery” (twice). As stated in the packet’s mapping_note, the examples for the layers are not included in the extraction for G5331; New Testament only.",
+   "def_es": "Magia, brujería: «hechicería» (dos veces). Según la mapping_note del paquete, los casos de las capas no se incluyen en la extracción de G5331; solo Nuevo Testamento.",
+   "def_sv": "Magi, häxkonster: ”trolldom” (två gånger). Enligt materialets mapping_note ingår skiktens belägg inte i utdraget för G5331; endast Nya testamentet.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ガラテヤ5:20、黙示録18:23。LXX・教父の用例なし（パケットの mapping_note による）。単一語義。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n48005020002": "1",
+  "n66018023033": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "G5331（φάρμακον）から切り分けた別項目。層の用例はなく新約のみ。"
+}

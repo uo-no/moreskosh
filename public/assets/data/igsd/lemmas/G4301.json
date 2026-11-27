@@ -1,0 +1,52 @@
+{
+ "lemma": "προλαμβάνω",
+ "lemmaId": "grc:G4301",
+ "strong": "G4301",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "先んじる・前もってする",
+   "label_en": "to do beforehand",
+   "label_es": "anticiparse",
+   "label_sv": "att göra i förväg",
+   "def": "前もってする、先に取る。『めいめい先に自分の食事を』『前もって香油を塗った』。",
+   "def_en": "To do in advance, to take first: “each goes ahead with his own meal”, “has anointed beforehand”.",
+   "def_es": "Hacer de antemano, tomar antes: «cada uno se adelanta a tomar su propia cena», «se ha anticipado a ungir».",
+   "def_sv": "Att ta före, att göra på förhand: ”var och en tar i förväg sin egen måltid”, ”har smort i förväg”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "コリント第一11:21、マルコ14:8。LXX・教父の代表例では確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "不意に捕らえられる",
+   "label_en": "to be overtaken unawares",
+   "label_es": "ser sorprendido",
+   "label_sv": "att överrumplas",
+   "def": "不意に捕らえられる、陥る。『過ちに陥った人を』。",
+   "def_en": "To be caught by surprise, to fall into something: “a person caught in a fault”.",
+   "def_es": "Ser cogido de improviso, caer: «a alguno sorprendido en una falta».",
+   "def_sv": "Att oväntat bli ertappad, att råka in i något: ”den som ertappas med en överträdelse”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ガラテヤ6:1。LXX に並行。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n41014008004": "1",
+  "n46011021006": "1",
+  "n48006001004": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（先んじる／不意に捕らえられる）による。"
+}

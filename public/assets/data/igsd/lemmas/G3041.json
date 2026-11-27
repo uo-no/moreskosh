@@ -1,0 +1,60 @@
+{
+ "lemma": "λίμνη",
+ "lemmaId": "grc:G3041",
+ "strong": "G3041",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "湖（ガリラヤの）",
+   "label_en": "lake (of Galilee)",
+   "label_es": "lago (de Galilea)",
+   "label_sv": "sjö (Galileens)",
+   "def": "湖。『ゲネサレ湖のほとり』『湖の岸に』『湖の向こう岸へ渡ろう』『湖に突風が吹き降ろし』『湖になだれ落ちて』。",
+   "def_en": "A lake: “by the lake of Gennesaret”, “on the shore of the lake”, “let us go across to the other side of the lake”, “a windstorm came down on the lake”, “rushed down into the lake”.",
+   "def_es": "El lago: «junto al lago de Genesaret», «a la orilla del lago», «pasemos al otro lado del lago», «se desencadenó una tempestad en el lago», «se precipitó al lago».",
+   "def_sv": "Sjön: ”vid Gennesarets sjö”, ”vid sjöstranden”, ”vi far över till andra sidan sjön”, ”en stormby svepte ner över sjön”, ”störtade ner i sjön”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ルカ5:1・5:2・8:22・8:23・8:33。LXX 詩篇106:35・Ⅰマカバイ11:35 に並行。教父の用例は無い。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "火の池",
+   "label_en": "lake of fire",
+   "label_es": "lago de fuego",
+   "label_sv": "eldsjön",
+   "def": "火と硫黄の燃える池。『火の池に投げ込まれた』『死とよみは火の池に投げ込まれた』『第二の死である火の池』。",
+   "def_en": "The lake burning with fire and sulfur: “thrown into the lake of fire”, “Death and Hades were thrown into the lake of fire”, “the lake of fire, which is the second death”.",
+   "def_es": "El lago que arde con fuego y azufre: «lanzados al lago de fuego», «la muerte y el Hades fueron lanzados al lago de fuego», «el lago de fuego, la muerte segunda».",
+   "def_sv": "Sjön som brinner av eld och svavel: ”kastades i eldsjön”, ”döden och dödsriket kastades i eldsjön”, ”eldsjön, som är den andra döden”.",
+   "layers": {
+    "nt": 6,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "黙示録20:10・20:14（2回）・20:15・19:20・21:8。語義1との境界は連続的（語は同じ）。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42005001021": "1",
+  "n42005002008": "1",
+  "n42008022025": "1",
+  "n42008023011": "1",
+  "n42008033021": "1",
+  "n66019020037": "2",
+  "n66020010010": "2",
+  "n66020014010": "2",
+  "n66020014020": "2",
+  "n66020015015": "2",
+  "n66021008025": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用例（ガリラヤの湖／火の池）による。教父の用例は無い。"
+}

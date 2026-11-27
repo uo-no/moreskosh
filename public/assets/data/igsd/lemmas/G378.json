@@ -1,0 +1,72 @@
+{
+ "lemma": "ἀναπληρόω",
+ "lemmaId": "grc:G378",
+ "strong": "G378",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "補う・満たす",
+   "label_en": "to supply, to fill up",
+   "label_es": "suplir, colmar",
+   "label_sv": "att fylla ut, att uppväga",
+   "def": "不足を補う、満たす、埋める。『あなたがたの不足したところを補ってくれた』『知識のない者の席にいる者』『自分の罪を満たす』『わたしに対するあなたがたの奉仕の足りない所を補う』。",
+   "def_en": "To make good what is lacking, to fill up: “they made up for what you lacked”, “one who is in the seat of someone without knowledge”, “filling up their sins”, “to supply what was lacking in your service to me”.",
+   "def_es": "Suplir lo que falta, llenar: «suplieron lo que os faltaba», «el que está en el asiento del que no tiene conocimiento», «colmar sus pecados», «para suplir lo que faltaba en vuestro servicio por mí».",
+   "def_sv": "Att ersätta det som brister, att fylla: ”de fyllde ut det som fattades i er hjälp”, ”den som sitter på platsen för den som saknar kunskap”, ”fylla måttet av sina synder”, ”för att fylla vad som fattades i er tjänst för mig”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "コリント第一16:17・14:16、テサロニケ第一2:16、ピリピ2:30。LXX（2.12・15.16）、教父（38.2・21.8）に並行。語義2・3との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "全うする・満たす（律法を）",
+   "label_en": "to fulfill (the law)",
+   "label_es": "cumplir (la ley)",
+   "label_sv": "att uppfylla (lagen)",
+   "def": "律法を全うする。『キリストの律法を全うしなさい』。",
+   "def_en": "To fulfill the law: “fulfil the law of Christ”.",
+   "def_es": "Dar cumplimiento a la ley: «cumplid la ley de Cristo».",
+   "def_sv": "Att fullgöra lagen: ”uppfyll Kristi lag”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ガラテヤ6:2。語義1・3との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "成就する（預言が）",
+   "label_en": "to be fulfilled (prophecy)",
+   "label_es": "cumplirse (una profecía)",
+   "label_sv": "att gå i uppfyllelse (om profetia)",
+   "def": "預言が成就する。『イザヤの預言が…成就している』。",
+   "def_en": "For a prophecy to be fulfilled: “Isaiah’s prophecy … is being fulfilled”.",
+   "def_es": "Realizarse una profecía: «la profecía de Isaías … se cumple».",
+   "def_sv": "Att en profetia uppfylls: ”Jesajas profetia … går i uppfyllelse”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ13:14。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40013014002": "3",
+  "n46014016006": "1",
+  "n46016017016": "1",
+  "n48006002007": "2",
+  "n50002030013": "1",
+  "n52002016010": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（補う・満たす／律法を全うする／預言の成就）による。"
+}

@@ -1,0 +1,55 @@
+{
+ "lemma": "ἐξηγέομαι",
+ "lemmaId": "grc:G1834",
+ "strong": "G1834",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "語る・詳しく述べる",
+   "label_en": "to relate, to describe in detail",
+   "label_es": "contar, referir con detalle",
+   "label_sv": "att berätta, att redogöra för",
+   "def": "出来事を詳しく語る、報告する。『すべてのことを説明して』『神が異邦人の中で行われたしるしと不思議を語る』『神が…どのように異邦人を顧みられたかを語った』『神が彼らの間で行われたことを…詳しく述べた』『道で起こったことを話した』。",
+   "def_en": "To tell of events in detail, to report: “explaining everything”, “relating the signs and wonders God had done among the Gentiles”, “told how God had visited the Gentiles”, “described … what God had done among them”, “told what had happened on the road”.",
+   "def_es": "Narrar con detalle los sucesos, informar: «explicándolo todo», «contando las señales y maravillas que Dios había hecho entre los gentiles», «ha contado cómo Dios visitó a los gentiles», «contaban … las cosas que Dios había hecho entre ellos», «contaban las cosas que les habían acontecido en el camino».",
+   "def_sv": "Att utförligt berätta om händelser, att rapportera: ”förklarade allt”, ”berättade om de tecken och under som Gud hade gjort bland hedningarna”, ”har berättat hur Gud tog sig an hedningarna”, ”berättade i detalj … vad Gud hade gjort bland dem”, ”berättade vad som hänt på vägen”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒10:8・15:12・15:14・21:19、ルカ24:35。LXX（28.27・14.57）、教父（4.2.5）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "解き明かす・示す",
+   "label_en": "to explain, to make known",
+   "label_es": "dar a conocer, declarar",
+   "label_sv": "att förklara, att göra känd",
+   "def": "神を示す、明らかにする。『父のふところにいるひとり子の神が、神を示された』。",
+   "def_en": "To make God known, to reveal: “the only God, who is at the Father’s side, has made God known”.",
+   "def_es": "Dar a conocer a Dios, manifestarlo: «el unigénito Dios, que está en el seno del Padre, él lo ha dado a conocer».",
+   "def_sv": "Att göra Gud känd, att uppenbara: ”den enfödde, själv Gud och alltid nära Fadern, har förklarat Gud”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヨハネ1:18。「示す」「解き明かす」の読みは決定しない。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42024035003": "1",
+  "n43001018015": "2",
+  "n44010008002": "1",
+  "n44015012011": "1",
+  "n44015014002": "1",
+  "n44021019004": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（語る・詳しく述べる／ヨハネ1:18）による。"
+}

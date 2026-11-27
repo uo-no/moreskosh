@@ -1,0 +1,57 @@
+{
+ "lemma": "ἀρκέω",
+ "lemmaId": "grc:G714",
+ "strong": "G714",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "足りる",
+   "label_en": "to be sufficient",
+   "label_es": "bastar",
+   "label_sv": "att räcka / vara nog",
+   "def": "十分である、足りる。『わたしの恵みはあなたに対して十分である』『わたしたちには足りない』『わたしたちにも、あなたがたにも足りないといけないから』『わたしたちには、それで十分です』。",
+   "def_en": "To be enough, to suffice: “my grace is sufficient for you”, “not enough for us”, “there will not be enough for us and for you”, “show us the Father, and it is enough for us”.",
+   "def_es": "Ser suficiente, bastar: «bástate mi gracia», «no nos bastarían», «para que no nos falte a nosotras y a vosotras», «y nos basta».",
+   "def_sv": "Att vara tillräckligt: ”min nåd är nog för dig”, ”det räcker inte för oss”, ”det räcker inte till både oss och er”, ”så är det nog för oss”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ヨハネ14:8・6:7、コリント第二12:9、マタイ25:9。LXX（22.34）、教父（3.10.8）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "満足する・足れりとする",
+   "label_en": "to be content",
+   "label_es": "contentarse",
+   "label_sv": "att nöja sig",
+   "def": "受け身で、それで満足する。『衣食があれば、それで足れりとすべきである』『それで満足せず』『今持っているもので満足しなさい』『自分の給料で満足していなさい』。",
+   "def_en": "In the passive, to be satisfied with something: “if we have food and clothing, with these we will be content”, “not satisfied with that”, “be content with what you have”, “be content with your wages”.",
+   "def_es": "En pasiva, quedar satisfecho con algo: «teniendo sustento y abrigo, estemos contentos con esto», «no contento con estas cosas», «contentos con lo que tenéis ahora», «contentaos con vuestro salario».",
+   "def_sv": "I passiv att vara nöjd med något: ”har vi mat och kläder ska vi nöja oss med det”, ”inte nöjd med detta”, ”nöj er med det ni har”, ”nöj er med er lön”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "テモテ第一6:8、ヨハネ第三10、ヘブル13:5、ルカ3:14。教父（2.1）に並行。LXX の代表例では確認していない。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40025009009": "1",
+  "n42003014019": "2",
+  "n43006007008": "1",
+  "n43014008010": "1",
+  "n47012009004": "1",
+  "n54006008007": "2",
+  "n58013005004": "2",
+  "n64001010017": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（足りる／満足する）による。"
+}

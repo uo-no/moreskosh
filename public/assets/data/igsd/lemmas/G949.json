@@ -1,0 +1,57 @@
+{
+ "lemma": "βέβαιος",
+ "lemmaId": "grc:G949",
+ "strong": "G949",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "確かな・堅固な",
+   "label_en": "sure / firm",
+   "label_es": "seguro / firme",
+   "label_sv": "fast / säker",
+   "def": "確かな、揺るがない、堅固な。『あなたがたに対するわたしたちの望みは確かである』『あなたがたの召しと選びを確かなものとしなさい』『預言の言葉はさらに確かなものとなった』『初めの確信を終わりまで堅く保つ』『魂のいかりのように安全で確かな』『約束がすべての子孫に確実に保証される』。",
+   "def_en": "Certain, unshaken, firm: “our hope for you is unshaken”, “make your calling and election sure”, “the prophetic word more fully confirmed”, “hold our original confidence firm to the end”, “a sure and steadfast anchor of the soul”, “that the promise may be guaranteed to all the offspring”.",
+   "def_es": "Cierto, inconmovible, firme: «nuestra esperanza respecto de vosotros es firme», «procurad hacer firme vuestra vocación y elección», «la palabra profética más segura», «retener firme hasta el fin nuestra confianza del principio», «segura y firme ancla del alma», «para que la promesa sea firme para toda su descendencia».",
+   "def_sv": "Säker, orubblig, fast: ”vårt hopp om er står fast”, ”gör er kallelse och utkorelse fast”, ”det profetiska ordet har blivit än mer bekräftat”, ”hålla fast vid vår första tillförsikt till slutet”, ”ett tryggt och säkert själens ankare”, ”så att löftet står fast för alla efterkommande”.",
+   "layers": {
+    "nt": 6,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "コリント第二1:7、ペテロ第二1:10・1:19、ヘブル3:14・6:19、ローマ4:16。LXX（5.31）、教父（4.3.1・1.2）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "有効な・効力を持つ",
+   "label_en": "valid / in force",
+   "label_es": "válido / en vigor",
+   "label_sv": "giltig / i kraft",
+   "def": "法的に有効である、効力を持つ。『御使たちを通して語られた言葉が有効であり』『遺言は死んだ後に効力を持つ』。",
+   "def_en": "Legally valid, having force: “the message declared by angels proved to be reliable”, “a will takes effect only at death”.",
+   "def_es": "Con validez legal, con efecto: «la palabra dicha por medio de los ángeles fue firme», «el testamento con la muerte se confirma».",
+   "def_sv": "Rättsligt giltig, med verkan: ”det ord som talades genom änglar stod fast”, ”ett testamente träder i kraft först efter döden”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヘブル2:2・9:17。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n45004016011": "1",
+  "n47001007005": "1",
+  "n58002002009": "2",
+  "n58003014013": "1",
+  "n58006019010": "1",
+  "n58009017005": "2",
+  "n61001010005": "1",
+  "n61001019003": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（確かさ／法的有効性）による。"
+}

@@ -1,0 +1,72 @@
+{
+ "lemma": "ὀσμή",
+ "lemmaId": "grc:G3744",
+ "strong": "G3744",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "におい・香り",
+   "label_en": "smell, fragrance",
+   "label_es": "olor, fragancia",
+   "label_sv": "lukt, doft",
+   "def": "におい、香り。『家は香油のかおりでいっぱいになった』。",
+   "def_en": "A smell, a fragrance: “the house was filled with the fragrance of the ointment”.",
+   "def_es": "Olor, aroma: «la casa se llenó del olor del perfume».",
+   "def_sv": "Lukt, väldoft: ”huset fylldes av doften från oljan”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヨハネ12:3。語義2・3との境界は連続的。LXX・教父の代表例は供え物の用法で、この語義としては確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "福音を知る香り（比喩）",
+   "label_en": "fragrance of knowing the gospel (figurative)",
+   "label_es": "olor del conocimiento (figurado)",
+   "label_sv": "kunskapens doft (bildligt)",
+   "def": "知識の香り、死から死に至らせるにおい、命から命に至らせるにおい。『キリストを知る知識のかおりを放ち』『死から死に至らせるかおり』『命から命に至らせるかおり』。",
+   "def_en": "The fragrance of knowledge: a smell from death to death, or from life to life. “spreading the fragrance of the knowledge of Christ”, “a smell from death to death”, “a fragrance from life to life”.",
+   "def_es": "Fragancia del conocimiento: olor de muerte para muerte, o de vida para vida. «manifiesta el olor del conocimiento de Cristo», «olor de muerte para muerte», «olor de vida para vida».",
+   "def_sv": "Kunskapens väldoft: en lukt från död till död, eller en doft från liv till liv. ”sprider doften av kunskapen om Kristus”, ”en lukt från död till död”, ”en doft från liv till liv”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "コリント第二2:14・2:16（2回）。語義1・3との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "供え物の香り",
+   "label_en": "aroma of an offering",
+   "label_es": "olor de la ofrenda",
+   "label_sv": "offerdoft",
+   "def": "神に受け入れられる供え物の香り（ὀσμὴ εὐωδίας）。『神に対する香ばしいかおりのささげ物』『神が喜んで受けてくださる、かんばしいかおりの供え物』。",
+   "def_en": "The aroma of an offering acceptable to God (ὀσμὴ εὐωδίας): “a fragrant offering to God”, “a fragrant sacrifice that God gladly accepts”.",
+   "def_es": "Aroma de una ofrenda que Dios acepta (ὀσμὴ εὐωδίας): «ofrenda a Dios en olor fragante», «un sacrificio de olor suave, que Dios recibe con agrado».",
+   "def_sv": "Doften av ett offer som Gud tar emot (ὀσμὴ εὐωδίας): ”en offergåva med väldoft åt Gud”, ”ett välluktande offer som Gud gärna tar emot”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "エペソ5:2、ピリピ4:18。LXX（15.5・2.2）に並行。教父の代表例では確認していない。語義2との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n43012003029": "1",
+  "n47002014014": "2",
+  "n47002016003": "2",
+  "n47002016010": "2",
+  "n49005002022": "3",
+  "n50004018013": "3"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（におい／福音の香り／供え物の香り）による。"
+}

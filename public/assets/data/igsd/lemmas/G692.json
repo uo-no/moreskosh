@@ -1,0 +1,57 @@
+{
+ "lemma": "ἀργός",
+ "lemmaId": "grc:G692",
+ "strong": "G692",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "怠けた・仕事のない",
+   "label_en": "idle / without work",
+   "label_es": "ocioso / desocupado",
+   "label_sv": "sysslolös / lat",
+   "def": "仕事がなく手持ちぶさたな、怠惰な。『市場で何もせずに立っている人々』『何もしないで立っている人々』『怠けて』『怠け者』。",
+   "def_en": "Having no work and nothing to do, lazy: “people standing idle in the marketplace”, “standing idle”, “idle”, “idlers”.",
+   "def_es": "Sin trabajo y mano sobre mano, perezoso: «hombres que estaban en la plaza desocupados», «estaban ociosos», «ociosas», «glotones ociosos».",
+   "def_sv": "Utan arbete, overksam, lat: ”människor som stod sysslolösa på torget”, ”stå utan något att göra”, ”går och slår dank”, ”latmaskar”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "マタイ20:3・20:6、テモテ第一5:13（2回）、テトス1:12。教父（22.4.3）に並行。LXX の代表例は役に立たない用法で、この語義としては確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "役に立たない・実を結ばない",
+   "label_en": "useless / unfruitful",
+   "label_es": "inútil / estéril",
+   "label_sv": "onyttig / ofruktbar",
+   "def": "役に立たない、働きのない。『実を結ばない者にはならない』『行いの伴わない信仰は役に立たない』『むだなことば』。",
+   "def_en": "Useless, without effect: “will not leave you unfruitful”, “faith without works is useless”, “careless word”.",
+   "def_es": "Que no sirve, sin efecto: «no os dejarán estar ociosos ni sin fruto», «la fe sin obras es inútil», «palabra ociosa».",
+   "def_sv": "Till ingen nytta, utan verkan: ”inte göra er overksamma och ofruktbara”, ”tro utan gärningar är död och nyttolös”, ”onyttiga ord”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ペテロ第二1:8、ヤコブ2:20、マタイ12:36。LXX（14.5・6.7）に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40012036007": "2",
+  "n40020003012": "1",
+  "n40020006018": "1",
+  "n54005013004": "1",
+  "n54005013012": "1",
+  "n56001012014": "1",
+  "n59002020013": "2",
+  "n61001008008": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（怠惰／役に立たない）による。"
+}

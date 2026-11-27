@@ -1,0 +1,73 @@
+{
+ "lemma": "ἀήρ",
+ "lemmaId": "grc:G109",
+ "strong": "G109",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "空気・空中",
+   "label_en": "air",
+   "label_es": "aire",
+   "label_sv": "luft",
+   "def": "空気、空中。『ちりを空中に投げ上げた』『空中で主に会う』『煙が穴から立ちのぼり』『その鉢を空中に注いだ』。",
+   "def_en": "The air: “they flung dust into the air”, “meet the Lord in the air”, “the smoke rose from the pit”, “poured out his bowl into the air”.",
+   "def_es": "El aire: «arrojaban polvo al aire», «encontrar al Señor en el aire», «subió humo del pozo», «derramó su copa por el aire».",
+   "def_sv": "Luften: ”de kastade upp stoft i luften”, ”möta Herren i rymden”, ”rök steg upp ur hålet”, ”tömde sin skål i luften”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒22:23、テサロニケ第一4:17、黙示録9:2・16:17。LXX（2.7・22.12）に並行。教父の代表例では確認していない。語義2・3との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "空を打つ・空に語る（慣用）",
+   "label_en": "to beat the air, to speak into the air (idiom)",
+   "label_es": "golpear el aire, hablar al aire (modismo)",
+   "label_sv": "att slå i luften, att tala ut i luften (idiom)",
+   "def": "『空を打つような拳闘はしない』『空に向かって語ることになる』。",
+   "def_en": "Idiom: to beat the air, to speak into the air. “I do not box as one beating the air”, “you will be speaking into the air”.",
+   "def_es": "Modismo: golpear el aire, hablar al aire. «no peleo como quien golpea el aire», «hablaréis al aire».",
+   "def_sv": "Idiom: att slå i luften, att tala ut i luften. ”jag boxas inte som en som slår i tomma luften”, ”ni kommer att tala ut i luften”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "コリント第一9:26・14:9。慣用的な用法で、語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "空中（支配者の領域）",
+   "label_en": "the air (realm of a ruler)",
+   "label_es": "el aire (ámbito de un gobernante)",
+   "label_sv": "luften (en härskares område)",
+   "def": "『空中の権を持つ支配者』。",
+   "def_en": "The air as the realm over which a ruler holds authority: “the ruler who holds authority over the air”.",
+   "def_es": "El aire como ámbito sobre el que un gobernante ejerce autoridad: «el príncipe que tiene autoridad sobre el aire».",
+   "def_sv": "Luften som det område där en härskare har makt: ”fursten som har makten i luften”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "エペソ2:2。「空中の権」の指示対象は決定しない。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n44022023013": "1",
+  "n46009026012": "2",
+  "n46014009019": "2",
+  "n49002002017": "3",
+  "n52004017018": "1",
+  "n66009002023": "1",
+  "n66016017010": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（空気・空中／慣用句／エペソ2:2）による。"
+}

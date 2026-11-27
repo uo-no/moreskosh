@@ -1,0 +1,51 @@
+{
+ "lemma": "ἀποβολή",
+ "lemmaId": "grc:G580",
+ "strong": "G580",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "喪失",
+   "label_en": "loss",
+   "label_es": "pérdida",
+   "label_sv": "förlust",
+   "def": "喪失、失われること。『だれも命を失わない』。",
+   "def_en": "Loss, being lost: “no one will lose their life”.",
+   "def_es": "El perderse: «ninguna pérdida de vida habrá».",
+   "def_sv": "Att gå förlorad: ”ingen skall mista livet”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒27:22。LXX・教父の用例なし。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "拒絶",
+   "label_en": "rejection",
+   "label_es": "rechazo",
+   "label_sv": "förkastande",
+   "def": "拒絶、退けること。『彼らが退けられること』。",
+   "def_en": "Rejection, casting aside: “their rejection”.",
+   "def_es": "Exclusión, el desechar: «su exclusión».",
+   "def_sv": "Att bli bortstött: ”att de förkastas”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ローマ11:15。LXX・教父の用例なし。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n44027022007": "1",
+  "n45011015004": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（喪失／拒絶）による。"
+}

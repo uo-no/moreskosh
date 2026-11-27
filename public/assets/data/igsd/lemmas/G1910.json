@@ -1,0 +1,55 @@
+{
+ "lemma": "ἐπιβαίνω",
+ "lemmaId": "grc:G1910",
+ "strong": "G1910",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "乗る・乗り込む",
+   "label_en": "to mount, to board",
+   "label_es": "montar, embarcarse",
+   "label_sv": "att stiga upp på, att gå ombord",
+   "def": "馬やろばに乗る、船に乗り込む。『ろばに乗り、子ろばに乗って』『船に乗り込んだ』『船に乗って出発した』。",
+   "def_en": "To mount a horse or donkey; to board a ship: “riding on a donkey, on a colt”, “boarded a ship”, “got on board and set sail”.",
+   "def_es": "Montar un caballo o un asno; subir a un barco: «sentado sobre un asno, sobre un pollino», «entraron en el barco», «embarcándonos, zarpamos».",
+   "def_sv": "Att sätta sig upp på häst eller åsna; att gå ombord på ett fartyg: ”ridande på en åsna, på ett föl”, ”gick ombord”, ”steg ombord och seglade i väg”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マタイ21:5、使徒21:2・27:2。LXX（17.11）に並行。教父の用例なし。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "足を踏み入れる・上る",
+   "label_en": "to set foot in, to go up",
+   "label_es": "poner el pie en, subir",
+   "label_sv": "att sätta sin fot i, att dra upp till",
+   "def": "ある地や場所に足を踏み入れる、上る。『わたしがアジヤに足を踏み入れた最初の日から』『セザレヤを経て…州に着いて』『エルサレムへ上らないようにと』。",
+   "def_en": "To set foot in a land or place, to go up to it: “from the first day I set foot in Asia”, “passing through Caesarea, arrived in the province”, “not to go up to Jerusalem”.",
+   "def_es": "Poner el pie en una tierra o lugar, subir a él: «desde el primer día que entré en Asia», «llegado a la provincia pasando por Cesarea», «que no subiese a Jerusalén».",
+   "def_sv": "Att sätta sin fot i ett land eller på en plats, att fara upp dit: ”från första dagen jag satte min fot i Asien”, ”reste över Caesarea och kom till provinsen”, ”att inte fara upp till Jerusalem”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒20:18・25:1・21:4。語義1との境界は連続的。LXX の代表例（10.5）は用法の対応が確認できず、この語義としては確認していない。教父の用例なし。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40021005013": "1",
+  "n44020018015": "2",
+  "n44021002007": "1",
+  "n44021004017": "2",
+  "n44025001003": "2",
+  "n44027002001": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（乗る／足を踏み入れる）による。"
+}

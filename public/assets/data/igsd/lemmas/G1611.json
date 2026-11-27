@@ -1,0 +1,56 @@
+{
+ "lemma": "ἔκστασις",
+ "lemmaId": "grc:G1611",
+ "strong": "G1611",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "我を忘れた状態（夢中・幻）",
+   "label_en": "trance (ecstasy, vision)",
+   "label_es": "éxtasis (trance, visión)",
+   "label_sv": "hänryckning (extas, syn)",
+   "def": "意識が通常の状態を離れること。『彼は夢心地になり』『幻を見た』『忘我の状態にあって』。",
+   "def_en": "A state in which consciousness leaves its ordinary condition: “he fell into a trance”, “he saw a vision”, “being in a state of ecstasy”.",
+   "def_es": "Estado en el que la conciencia sale de su condición ordinaria: «le sobrevino un éxtasis», «vio una visión», «estando en éxtasis».",
+   "def_sv": "Att medvetandet lämnar sitt vanliga tillstånd: ”han råkade i hänryckning”, ”han såg en syn”, ”i hänryckt tillstånd”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒10:10・11:5・22:17。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "驚き・仰天",
+   "label_en": "astonishment, amazement",
+   "label_es": "asombro, estupor",
+   "label_sv": "häpnad, bestörtning",
+   "def": "驚き、恐れ、仰天。『人々はみな驚いて』『彼らは非常に驚いた』『彼らは驚きでいっぱいになり』『彼女らは恐れと驚きに捕らえられ』。",
+   "def_en": "Astonishment, fear, amazement: “all the people were amazed”, “they were utterly astonished”, “they were filled with astonishment”, “trembling and astonishment had seized the women”.",
+   "def_es": "Asombro, temor, estupor: «todo el pueblo quedó atónito», «se asombraron en gran manera», «se llenaron de asombro», «el temor y el espanto se habían apoderado de ellas».",
+   "def_sv": "Häpnad, fruktan, bestörtning: ”allt folket häpnade”, ”de blev mycket förvånade”, ”de fylldes av häpnad”, ”kvinnorna greps av bävan och förskräckelse”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒3:10、ルカ5:26、マルコ5:42・16:8。LXX（17.10・30.23）に並行。教父の用例なし。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n41005042015": "2",
+  "n41016008012": "2",
+  "n42005026002": "2",
+  "n44003010022": "2",
+  "n44010010013": "1",
+  "n44011005010": "1",
+  "n44022017016": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（我を忘れた状態／驚き）による。"
+}

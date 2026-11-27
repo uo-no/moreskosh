@@ -1,0 +1,54 @@
+{
+ "lemma": "εἴσοδος",
+ "lemmaId": "grc:G1529",
+ "strong": "G1529",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "入口・入ること",
+   "label_en": "entrance, entry",
+   "label_es": "entrada",
+   "label_sv": "ingång, inträde",
+   "def": "入口、入る権利、入ること。『わが国の永遠の国に入る入口』『聖所にはいる確信』。",
+   "def_en": "An entrance, the right to enter, entering: “an entrance into the eternal kingdom of our …”, “confidence to enter the sanctuary”.",
+   "def_es": "Entrada, derecho de entrar, acto de entrar: «entrada en el reino eterno de nuestro …», «libertad para entrar en el santuario».",
+   "def_sv": "Ingång, tillträde, att gå in: ”tillträde till vår … eviga rike”, ”frimodighet att gå in i helgedomen”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ペテロ第二1:11、ヘブル10:19。LXX、教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "来訪・到来",
+   "label_en": "coming, arrival",
+   "label_es": "llegada, venida",
+   "label_sv": "ankomst",
+   "def": "来ること、訪れ。『あなたがたの所にはいって行った時』『あなたがたの所におもむいたこと』『イエスの出現に先だって』。",
+   "def_en": "A coming, a visit: “when we came among you”, “our visit to you”, “before the appearing of Jesus”.",
+   "def_es": "Venida, visita: «cuando entramos entre vosotros», «nuestra visita a vosotros», «antes de la venida de Jesús».",
+   "def_sv": "Att komma, besök: ”när vi kom till er”, ”vårt besök hos er”, ”innan Jesus trädde fram”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "テサロニケ第一1:9・2:1、使徒13:24。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n44013024006": "2",
+  "n52001009007": "2",
+  "n52002001006": "2",
+  "n58010019007": "1",
+  "n61001011007": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（入口／来訪）による。"
+}

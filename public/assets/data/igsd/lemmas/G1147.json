@@ -1,0 +1,57 @@
+{
+ "lemma": "δάκτυλος",
+ "lemmaId": "grc:G1147",
+ "strong": "G1147",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "指",
+   "label_en": "finger",
+   "label_es": "dedo",
+   "label_sv": "finger",
+   "def": "指。『その指を釘あとに入れ』『指で地面に書いておられた』『荷物に指一本さわらない』『指をその人の耳に差し入れ』『指の先を水に浸して』。",
+   "def_en": "A finger: “place my finger into the mark of the nails”, “wrote with his finger on the ground”, “will not touch the burdens with one of your fingers”, “put his fingers into his ears”, “dip the end of his finger in water”.",
+   "def_es": "Dedo: «metiere mi dedo en el lugar de los clavos», «escribía en tierra con el dedo», «ni aun con un dedo tocáis las cargas», «metió los dedos en las orejas de él», «que moje la punta de su dedo en agua».",
+   "def_sv": "Ett finger: ”sticka fingret i spikhålen”, ”skrev på marken med fingret”, ”rör inte bördorna med ett enda finger”, ”stack fingrarna i hans öron”, ”doppa fingerspetsen i vatten”.",
+   "layers": {
+    "nt": 7,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ヨハネ20:25・20:27・8:6、ルカ16:24・11:46、マタイ23:4、マルコ7:33。LXX 出エジプト記・レビ記16:14、教父（14.2、4.7）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "神の指",
+   "label_en": "finger of God",
+   "label_es": "dedo de Dios",
+   "label_sv": "Guds finger",
+   "def": "『神の指』という句の中の語。『神の指で悪霊を追い出しているのなら』（ルカ11:20）。",
+   "def_en": "The word in the phrase “the finger of God”: “if it is by the finger of God that I cast out demons” (Luke 11:20).",
+   "def_es": "La palabra de la frase «el dedo de Dios»: «si por el dedo de Dios echo yo fuera los demonios» (Lc 11:20).",
+   "def_sv": "Ordet i uttrycket ”Guds finger”: ”om det är med Guds finger jag driver ut de onda andarna” (Luk 11:20).",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ルカ11:20 の1例のみ。語義1との境界は連続的。LXX 出エジプト記8:19 に並行。教父（14.2、4.7）の用例は神の指による石版の記述。『神の指』が指す内容の解釈は付さない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40023004015": "1",
+  "n41007033011": "1",
+  "n42011020004": "2",
+  "n42011046019": "1",
+  "n42016024017": "1",
+  "n43008006016": "1",
+  "n43020025028": "1",
+  "n43020027007": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（身体の指／神の指）による。"
+}

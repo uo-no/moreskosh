@@ -1,0 +1,58 @@
+{
+ "lemma": "ἄρσην",
+ "lemmaId": "grc:G730",
+ "strong": "G730",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "男／雄（性別）",
+   "label_en": "male (sex)",
+   "label_es": "varón / macho (sexo)",
+   "label_sv": "man / hane (kön)",
+   "def": "男、雄。『男と女に造られた』『男も女もない』『男の子を産んだ』『男子の初子』『初めから人を男と女に造られた』『男子である子を産んだ女』。",
+   "def_en": "Male: “male and female he created them”, “there is neither male nor female”, “gave birth to a male”, “every firstborn male”, “from the beginning made them male and female”, “the woman who had given birth to a male child”.",
+   "def_es": "Varón, macho: «varón y hembra los creó», «no hay varón ni mujer», «dio a luz un hijo varón», «todo varón que abriere la matriz», «al principio, varón y hembra los hizo», «la mujer que había dado a luz al hijo varón».",
+   "def_sv": "Man, hankön: ”till man och kvinna skapade han dem”, ”inte man eller kvinna”, ”födde ett gossebarn”, ”varje förstfödd av mankön”, ”från början gjorde dem till man och kvinna”, ”kvinnan som fött gossebarnet”.",
+   "layers": {
+    "nt": 6,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ガラテヤ3:28、ルカ2:23、マタイ19:4、マルコ10:6、黙示録12:5・12:13。LXX 創世記5:2・レビ記6:22、教父（14.2、10.7）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "男たち（男性の人々）",
+   "label_en": "men (male persons)",
+   "label_es": "hombres (varones)",
+   "label_sv": "män (manliga personer)",
+   "def": "男たち、男性。『男たちも同様に…男が男と』（ローマ1:27）。",
+   "def_en": "Men, males: “likewise the men … men with men” (Rom 1:27).",
+   "def_es": "Los hombres, los varones: «de igual modo también los hombres … hombres con hombres» (Ro 1:27).",
+   "def_sv": "Männen: ”på samma sätt männen … män med män” (Rom 1:27).",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ローマ1:27（3回）。語義1との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40019004012": "1",
+  "n41010006005": "1",
+  "n42002023008": "1",
+  "n45001027005": "2",
+  "n45001027019": "2",
+  "n45001027021": "2",
+  "n48003028013": "1",
+  "n66012005004": "1",
+  "n66012013017": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法による。"
+}

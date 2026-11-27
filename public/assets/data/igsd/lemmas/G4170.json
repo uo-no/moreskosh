@@ -1,0 +1,56 @@
+{
+ "lemma": "πολεμέω",
+ "lemmaId": "grc:G4170",
+ "strong": "G4170",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "戦う・戦争する",
+   "label_en": "to make war, to fight",
+   "label_es": "pelear, hacer guerra",
+   "label_sv": "att strida, att föra krig",
+   "def": "戦争をする、戦う。『ミカエルとその使いたちは竜と戦った』『竜とその使いたちも戦ったが』『だれがこの獣と戦えようか』『彼らは小羊と戦うが』『義によってさばき、また戦われる』『わたしの口の剣をもって彼らと戦う』。",
+   "def_en": "To wage war, to fight: “Michael and his angels fought with the dragon”, “the dragon and his angels fought back”, “who can fight against the beast”, “they will make war on the Lamb”, “in righteousness he judges and makes war”, “I will fight against them with the sword of my mouth”.",
+   "def_es": "Hacer la guerra, combatir: «Miguel y sus ángeles luchaban contra el dragón», «también lucharon el dragón y sus ángeles», «quién podrá luchar contra la bestia», «pelearán contra el Cordero», «con justicia juzga y pelea», «pelearé contra ellos con la espada de mi boca».",
+   "def_sv": "Att föra krig, att strida: ”Mikael och hans änglar stred mot draken”, ”draken och hans änglar stred också”, ”vem kan strida mot odjuret”, ”de skall strida mot Lammet”, ”han dömer och strider rättfärdigt”, ”jag skall strida mot dem med min muns svärd”.",
+   "layers": {
+    "nt": 6,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "黙示録12:7（2回）・13:4・17:14・19:11・2:16。LXX（11.41・17.32）、教父（16.4・5）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "争う（私的な争い）",
+   "label_en": "to quarrel (private strife)",
+   "label_es": "contender (pleitos privados)",
+   "label_sv": "att tvista (privat strid)",
+   "def": "私的に争う、いさかう。『あなたがたは…争い、戦っている』。",
+   "def_en": "To contend privately, to quarrel: “you … quarrel and fight”.",
+   "def_es": "Pelearse en privado, reñir: «… combatís y lucháis».",
+   "def_sv": "Att strida i det privata, att träta: ”ni … strider och kämpar”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヤコブ4:2。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n59004002014": "2",
+  "n66002016010": "1",
+  "n66012007014": "1",
+  "n66012007021": "1",
+  "n66013004023": "1",
+  "n66017014005": "1",
+  "n66019011024": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（戦争／私的な争い）による。"
+}

@@ -1,0 +1,55 @@
+{
+ "lemma": "λείπω",
+ "lemmaId": "grc:G3007",
+ "strong": "G3007",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "欠けている・不足する",
+   "label_en": "to lack, to fall short",
+   "label_es": "faltar, carecer",
+   "label_sv": "att fattas, att brista",
+   "def": "欠ける、不足する。『何一つ欠けたところのない者となる』『知恵に欠けた者は』『日々の食物に事欠いている』『あなたにはまだ一つ欠けたものがある』『何も不足しないように』。",
+   "def_en": "To be lacking, to be in want: “so that you may be complete, lacking nothing”, “if any of you lacks wisdom”, “lacking daily food”, “one thing you still lack”, “so that they lack nothing”.",
+   "def_es": "Faltar, estar necesitado: «para que seáis cabales, sin que os falte cosa alguna», «si alguno tiene falta de sabiduría», «les falta el mantenimiento de cada día», «aún te falta una cosa», «de modo que nada les falte».",
+   "def_sv": "Att saknas, att lida brist: ”så att ni inte brister i något”, ”om någon saknar vishet”, ”saknar mat för dagen”, ”ett fattas dig ännu”, ”så att de inte saknar något”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "ヤコブ1:4・1:5・2:15、ルカ18:22、テトス3:13。教父（3.5.2・3.1.9）に並行。LXX の代表例では確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "残されている・未完成である",
+   "label_en": "to remain, to be left unfinished",
+   "label_es": "quedar pendiente",
+   "label_sv": "att återstå, att vara ofullbordad",
+   "def": "残されている、未完成のまま。『残っていることを整えるため』。",
+   "def_en": "To be left over, to remain incomplete: “so that you might put in order what remains”.",
+   "def_es": "Haber quedado, seguir sin terminar: «para que corrigieses lo deficiente».",
+   "def_sv": "Att vara kvar, ännu inte fullgjord: ”för att ordna det som återstår”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "テトス1:5。LXX（4.45）に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42018022010": "1",
+  "n56001005009": "2",
+  "n56003013011": "1",
+  "n59001004014": "1",
+  "n59001005005": "1",
+  "n59002015008": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（欠ける／残されている）による。"
+}

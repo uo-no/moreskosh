@@ -1,0 +1,59 @@
+{
+ "lemma": "ἀσπασμός",
+ "lemmaId": "grc:G783",
+ "strong": "G783",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "あいさつ（口頭の）",
+   "label_en": "greeting (spoken)",
+   "label_es": "saludo (oral)",
+   "label_sv": "hälsning (muntlig)",
+   "def": "口頭のあいさつ。『どんなあいさつなのかと考え』『あいさつの声があなたの耳に入るやいなや』『あなたのあいさつの声がわたしの耳に入ったとき』『市場でのあいさつ』『広場であいさつされること』。",
+   "def_en": "A greeting by word of mouth: “wondered what sort of greeting this might be”, “when the sound of your greeting came to my ears”, “as soon as your greeting reached my ears”, “greetings in the marketplaces”, “to be greeted in the squares”.",
+   "def_es": "Salutación de palabra: «pensaba qué salutación sería esta», «apenas llegó la voz de tu salutación a mis oídos», «cuando oí tu salutación», «las salutaciones en las plazas», «ser saludados en las plazas».",
+   "def_sv": "En muntlig hälsning: ”undrade vad denna hälsning kunde betyda”, ”när din hälsning nådde mina öron”, ”så snart ljudet av din hälsning nådde mig”, ”hälsningarna på torgen”, ”bli hälsade på torgen”.",
+   "layers": {
+    "nt": 7,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ルカ1:29・1:41・1:44・11:43・20:46、マタイ23:7、マルコ12:38。LXX・教父に用例は無い。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "あいさつ（書き添える）",
+   "label_en": "greeting (written)",
+   "label_es": "saludo (escrito)",
+   "label_sv": "hälsning (skriven)",
+   "def": "手紙の末尾に書き添える、自筆のあいさつ。『わたし自身、パウロが、自分の手であいさつを書く』。",
+   "def_en": "A greeting added at the end of a letter in one's own hand: “I, Paul, write this greeting with my own hand.”",
+   "def_es": "El saludo añadido de propio puño al final de la carta: «la salutación es de mi propia mano, de Pablo».",
+   "def_sv": "En egenhändig hälsning tillagd i slutet av brevet: ”här skriver jag, Paulus, min hälsning med egen hand”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "Ⅰコリ16:21・Ⅱテサ3:17・コロサイ4:18。語義1との境界は連続的。LXX・教父に用例は無い。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40023007003": "1",
+  "n41012038017": "1",
+  "n42001029012": "1",
+  "n42001041006": "1",
+  "n42001044008": "1",
+  "n42011043014": "1",
+  "n42020046012": "1",
+  "n46016021002": "2",
+  "n51004018002": "2",
+  "n53003017002": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "LXX（七十人訳）・教父に用例は無い。語義区分は用法（口頭／書面）による。"
+}

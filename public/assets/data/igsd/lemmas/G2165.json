@@ -1,0 +1,80 @@
+{
+ "lemma": "εὐφραίνω",
+ "lemmaId": "grc:G2165",
+ "strong": "G2165",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "喜ばせる（能動）",
+   "label_en": "to make glad (active)",
+   "label_es": "alegrar (activa)",
+   "label_sv": "att göra glad (aktivt)",
+   "def": "人を喜ばせる、元気づける。『わたしを喜ばせてくれる者』。",
+   "def_en": "To gladden or cheer a person: “the one who makes me glad”.",
+   "def_es": "Alegrar, animar a alguien: «el que me alegra».",
+   "def_sv": "Att glädja och uppmuntra någon: ”den som gör mig glad”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "Ⅱコリ2:2 の1例。LXX 詩篇に並行。教父の代表例では確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "喜ぶ／楽しむ",
+   "label_en": "to rejoice / be glad",
+   "label_es": "alegrarse / regocijarse",
+   "label_sv": "att glädjas / fröjdas",
+   "def": "喜ぶ、楽しむ、喜び祝う。『心は喜び』『喜びなさい』『天よ、喜べ』『地に住む者は喜び』『自分たちの手のわざを喜んだ』。",
+   "def_en": "To be glad, enjoy, celebrate with joy: “my heart was glad”, “rejoice”, “rejoice, O heavens”, “those who dwell on earth will rejoice”, “rejoiced in the works of their hands”.",
+   "def_es": "Alegrarse, gozarse, festejar: «mi corazón se alegró», «alegraos», «alégrate, cielo», «los moradores de la tierra se regocijarán», «se regocijaban en las obras de sus manos».",
+   "def_sv": "Att glädja sig, njuta, jubla: ”mitt hjärta gladde sig”, ”gläd er”, ”jubla, du himmel”, ”jordens invånare ska fröjdas”, ”gladde sig över sina händers verk”.",
+   "layers": {
+    "nt": 7,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒2:26・7:41、ガラテヤ4:27、黙示録12:12・18:20・11:10、ローマ15:10。LXX 詩篇76:4、教父（26.11.8）に並行。黙示録11:10 は語義3との境界が連続的。"
+  },
+  {
+   "id": "3",
+   "label": "祝宴を張る／楽しく過ごす",
+   "label_en": "to feast / make merry",
+   "label_es": "banquetear / pasarlo bien",
+   "label_sv": "att festa / göra sig glada dagar",
+   "def": "祝宴を催す、楽しく過ごす、ごちそうを食べて楽しむ。『食べて楽しもう』『楽しく遊び暮らしていた』『ぜいたくに遊び暮らして』。",
+   "def_en": "To hold a feast, enjoy oneself, eat well and have a good time: “let us eat and celebrate”, “lived in merriment”, “living in luxury”.",
+   "def_es": "Celebrar un banquete, divertirse, comer bien y disfrutar: «comamos y hagamos fiesta», «hacía cada día banquete con esplendidez», «vivir regaladamente».",
+   "def_sv": "Att hålla fest, roa sig, äta gott och njuta: ”låt oss äta och vara glada”, ”levde i fest och glans”, ”leva i överflöd”.",
+   "layers": {
+    "nt": 6,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ルカ15:23・15:24・15:29・15:32・12:19・16:19。LXX 箴言28:26 などに並行。教父（10.11）は食べ物の記述で、確認としては取らなかった。語義2との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42012019017": "3",
+  "n42015023010": "3",
+  "n42015024016": "3",
+  "n42015029028": "3",
+  "n42015032001": "3",
+  "n42016019011": "3",
+  "n44002026003": "2",
+  "n44007041013": "2",
+  "n45015010004": "2",
+  "n47002002009": "1",
+  "n48004027003": "2",
+  "n66011010011": "2",
+  "n66012012003": "2",
+  "n66018020001": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は態・文脈による。"
+}

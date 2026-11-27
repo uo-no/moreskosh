@@ -1,0 +1,73 @@
+{
+ "lemma": "σκιά",
+ "lemmaId": "grc:G4639",
+ "strong": "G4639",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "影・陰",
+   "label_en": "shadow, shade",
+   "label_es": "sombra",
+   "label_sv": "skugga",
+   "def": "物の影、木陰。『ペテロの影でも』『その陰に空の鳥が巣を作る』。",
+   "def_en": "The shadow of an object; the shade of a tree: “even Peter’s shadow”, “the birds of the air nest in its shade”.",
+   "def_es": "La sombra de una cosa; la sombra de un árbol: «aun la sombra de Pedro», «las aves del cielo anidan bajo su sombra».",
+   "def_sv": "Skuggan av ett föremål; skuggan under ett träd: ”till och med Petrus skugga”, ”himlens fåglar bygger bo i dess skugga”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒5:15、マルコ4:32。LXX（7.2）に並行。教父の用例なし。語義2・3との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "来たるべきものの影（比喩）",
+   "label_en": "shadow of what is to come (figurative)",
+   "label_es": "sombra de lo que ha de venir (figurado)",
+   "label_sv": "skugga av det som skall komma (bildligt)",
+   "def": "本体に対する影、予型。『これらは来たるべきものの影』『天にあるものの写しと影』『律法はきたるべき良いものの影』。",
+   "def_en": "A shadow as against the substance; a foreshadowing: “these are a shadow of the things to come”, “a copy and shadow of the things in heaven”, “the law is a shadow of the good things to come”.",
+   "def_es": "Sombra frente a la realidad; prefiguración: «todo esto es sombra de lo que ha de venir», «figura y sombra de las cosas celestiales», «la ley es sombra de los bienes venideros».",
+   "def_sv": "Skuggan i motsats till verkligheten; förebild: ”detta är en skugga av det som skall komma”, ”en avbild och skugga av det himmelska”, ”lagen är en skugga av det goda som skall komma”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "コロサイ2:17、ヘブル8:5・10:1。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "死の陰",
+   "label_en": "shadow of death",
+   "label_es": "sombra de muerte",
+   "label_sv": "dödsskugga",
+   "def": "死の陰。『暗黒と死の影にすわる者たち』『死の影の地に住む者たち』。",
+   "def_en": "The shadow of death: “those who sit in darkness and the shadow of death”, “those living in the land of the shadow of death”.",
+   "def_es": "La sombra de la muerte: «los que habitan en tinieblas y en sombra de muerte», «los asentados en región de sombra de muerte».",
+   "def_sv": "Dödens skugga: ”de som sitter i mörkret och dödens skugga”, ”de som bor i dödsskuggans land”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ルカ1:79、マタイ4:16。LXX（87.7）に並行。教父の用例なし。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40004016016": "3",
+  "n41004032019": "1",
+  "n42001079006": "3",
+  "n44005015020": "1",
+  "n51002017003": "2",
+  "n58008005004": "2",
+  "n58010001001": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（影・陰／予型の影／死の陰）による。"
+}

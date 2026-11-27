@@ -1,0 +1,70 @@
+{
+ "lemma": "ἀνίημι",
+ "lemmaId": "grc:G447",
+ "strong": "G447",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "緩める・解く",
+   "label_en": "to loosen, to unfasten",
+   "label_es": "soltar, desatar",
+   "label_sv": "att lossa",
+   "def": "縛りを緩める、解く。『みなの者の鎖が解けた』『綱を解き放して』。",
+   "def_en": "To loosen bonds, to unfasten: “everyone’s chains came loose”, “untying the ropes”.",
+   "def_es": "Aflojar las ataduras, soltar: «las cadenas de todos se soltaron», «desatando las amarras».",
+   "def_sv": "Att lösa upp band, att släppa: ”allas bojor lossnade”, ”lossade tågen”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒16:26・27:40。LXX に並行。教父の用例なし。語義2・3との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "やめる・控える",
+   "label_en": "to give up, to refrain",
+   "label_es": "dejar, desistir",
+   "label_sv": "att upphöra, att låta bli",
+   "def": "手をゆるめる、やめる。『おどすことをやめなさい』。",
+   "def_en": "To slacken, to stop doing something: “stop your threatening”.",
+   "def_es": "Aflojar, dejar de hacer: «dejando las amenazas».",
+   "def_sv": "Att släppa efter, att sluta med: ”sluta att hota”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "エペソ6:9。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "見捨てる",
+   "label_en": "to forsake",
+   "label_es": "desamparar",
+   "label_sv": "att överge",
+   "def": "見捨てる、離れる。『あなたを離れず、あなたを捨てない』。",
+   "def_en": "To abandon, to leave: “I will never leave you nor forsake you”.",
+   "def_es": "Abandonar, apartarse: «no te dejaré ni te desampararé».",
+   "def_sv": "Att svika, att lämna: ”jag skall aldrig lämna dig eller överge dig”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヘブル13:5。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n44016026022": "1",
+  "n44027040010": "1",
+  "n49006009009": "2",
+  "n58013005013": "3"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（緩める／やめる／見捨てる）による。"
+}

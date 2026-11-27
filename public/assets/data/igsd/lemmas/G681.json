@@ -1,0 +1,55 @@
+{
+ "lemma": "ἅπτω",
+ "lemmaId": "grc:G681",
+ "strong": "G681",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "火をつける・灯す",
+   "label_en": "to light, to kindle",
+   "label_es": "encender",
+   "label_sv": "att tända",
+   "def": "火をつける、ともす。『火をたきつけて』『ともしびをともして』『灯をともして』『庭の真ん中で火をたき』『ともしびをともして、升の下に置く者はない』。",
+   "def_en": "To set fire to, to light: “kindled a fire”, “lights a lamp”, “light a lamp”, “kindled a fire in the middle of the courtyard”, “no one lights a lamp and puts it under a basket”.",
+   "def_es": "Prender fuego, encender: «encendido un fuego», «enciende una lámpara», «encendiendo una luz», «encendieron fuego en medio del patio», «nadie enciende una luz y la pone debajo de un almud».",
+   "def_sv": "Att sätta eld på, att tända: ”tände en eld”, ”tänder en lampa”, ”tänder ett ljus”, ”tände en eld mitt på gården”, ”ingen tänder en lampa och sätter den under sädesmåttet”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒28:2、ルカ15:8・11:33・22:55・8:16。語義2との境界は連続的。LXX・教父の代表例は「触れる」の用法で、この語義としては確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "触れる（中動）",
+   "label_en": "to touch (middle)",
+   "label_es": "tocar (voz media)",
+   "label_sv": "att röra vid (medium)",
+   "def": "中動態で、触れる、さわる。『イエスは手を伸ばして彼に触れ』『近づいて彼らに手を触れ』。",
+   "def_en": "In the middle voice: to touch. “Jesus stretched out his hand and touched him”, “came and touched them”.",
+   "def_es": "En voz media: tocar, palpar. «Jesús extendió la mano y lo tocó», «se acercó y los tocó».",
+   "def_sv": "I medium: att röra, att vidröra. ”Jesus räckte ut handen och rörde vid honom”, ”gick fram och rörde vid dem”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "マタイ17:7。LXX（6.11・10.16）、教父（3.1.6・6.3.2）に並行。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40017007006": "2",
+  "n42008016004": "1",
+  "n42011033003": "1",
+  "n42015008012": "1",
+  "n42022055001": "1",
+  "n44028002010": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（火をつける／触れる）による。"
+}

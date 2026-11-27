@@ -1,0 +1,58 @@
+{
+ "lemma": "προσφορά",
+ "lemmaId": "grc:G4376",
+ "strong": "G4376",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "ささげ物（いけにえ）",
+   "label_en": "offering (sacrifice)",
+   "label_es": "ofrenda (sacrificio)",
+   "label_sv": "offer (offergåva)",
+   "def": "ささげ物、いけにえ。『それぞれのために供え物がささげられるまで』『香ばしいかおりのいけにえ』『供え物と献げ物』『一つのささげ物によって』『罪のためのささげ物はもうない』。",
+   "def_en": "An offering, a sacrifice: “until the offering was presented for each one”, “a fragrant offering and sacrifice”, “sacrifices and offerings”, “by a single offering”, “there is no longer any offering for sin”.",
+   "def_es": "Ofrenda, sacrificio: «cuando había de presentarse la ofrenda por cada uno», «ofrenda y sacrificio a Dios en olor fragante», «sacrificio y ofrenda», «con una sola ofrenda», «no hay más ofrenda por el pecado».",
+   "def_sv": "En offergåva, ett offer: ”tills offret hade burits fram för var och en”, ”en väldoftande offergåva”, ”offer och gåvor”, ”med ett enda offer”, ”det finns inte längre något offer för synd”.",
+   "layers": {
+    "nt": 7,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒21:26、エペソ5:2、ヘブル10:5・10:8・10:10・10:14・10:18。LXX 箴言35:5・Ⅲ列王記7:48、教父（40.4、2.4）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "献金／奉納物",
+   "label_en": "contribution / offering of money",
+   "label_es": "limosna / contribución",
+   "label_sv": "gåva / offergåva i pengar",
+   "def": "施し・奉納物。『施しと供え物をするため』『異邦人がささげる供え物』。",
+   "def_en": "Alms, a gift presented: “to bring alms and offerings”, “the offering of the Gentiles”.",
+   "def_es": "Dádivas y ofrendas: «a hacer limosnas y presentar ofrendas», «la ofrenda de los gentiles».",
+   "def_sv": "Allmosor och gåvor: ”för att överlämna gåvor och frambära offer”, ”hedningarnas offergåva”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒24:17、ローマ15:16。語義1との境界は連続的。LXX 代表例・教父に並行。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n44021026032": "1",
+  "n44024017013": "2",
+  "n45015016019": "2",
+  "n49005002016": "1",
+  "n58010005009": "1",
+  "n58010008006": "1",
+  "n58010010008": "1",
+  "n58010014003": "1",
+  "n58010018006": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（いけにえ／献金・奉納）による。"
+}

@@ -1,0 +1,51 @@
+{
+ "lemma": "προσανατίθημι",
+ "lemmaId": "grc:G4323",
+ "strong": "G4323",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "相談する",
+   "label_en": "to consult",
+   "label_es": "consultar",
+   "label_sv": "att rådfråga",
+   "def": "相談する、意見を求める。『人に相談せず』。",
+   "def_en": "To consult, to seek an opinion: “without consulting anyone”.",
+   "def_es": "Pedir parecer: «no consulté en seguida con carne y sangre».",
+   "def_sv": "Att söka råd hos: ”utan att rådfråga någon människa”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ガラテヤ1:16。LXX・教父の用例なし。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "付け加える",
+   "label_en": "to add",
+   "label_es": "añadir",
+   "label_sv": "att tillägga",
+   "def": "付け加える、さらに教える。『何も付け加えなかった』。",
+   "def_en": "To add, to teach in addition: “added nothing”.",
+   "def_es": "Agregar, enseñar además: «nada nuevo me comunicaron».",
+   "def_sv": "Att lägga till, att därutöver lära: ”lade inte till något”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ガラテヤ2:6。LXX・教父の用例なし。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n48001016015": "1",
+  "n48002006023": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法による。"
+}

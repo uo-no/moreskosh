@@ -1,0 +1,67 @@
+{
+ "lemma": "θυμός",
+ "lemmaId": "grc:G2372",
+ "strong": "G2372",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "怒り／激情（人の・悪霊の）",
+   "label_en": "anger / rage (of people, of demons)",
+   "label_es": "ira / furor (de personas, de demonios)",
+   "label_sv": "vrede / raseri (människors, onda andars)",
+   "def": "人の激しい怒り、怒りの感情。『怒り・立腹・争い』の悪徳表に現れる怒り、群衆の怒り、王の怒り、悪魔の怒り。",
+   "def_en": "Fierce human anger, the emotion of wrath: anger in the vice lists (“anger, rage, strife”), the fury of a crowd, a king's anger, the devil's fury.",
+   "def_es": "La cólera violenta de las personas, la emoción de la ira: la que figura en las listas de vicios («enojos, iras, contiendas»), el furor de la multitud, la ira de un rey, la furia del diablo.",
+   "def_sv": "Människans häftiga vrede, vredeskänslan: vreden i lastkatalogerna (”vrede, ilska, gräl”), folkhopens raseri, kungens vrede, djävulens raseri.",
+   "layers": {
+    "nt": 10,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅱコリ12:20・ガラテヤ5:20（怒り）、コロサイ3:8・エペソ4:31（怒りを捨てよ）、ルカ4:28（会堂の人々は怒りに満たされた）、使徒19:28（怒りに満たされ）、ヘブル11:27（王の怒りを恐れず）、黙示録12:12（悪魔の大きな怒り）。LXX 申命記9:19 ほか、教父（Ⅰクレメンス46.5）に並行。 【確定時の移動】黙示録14:8・18:3（『淫行の θυμός のぶどう酒』）は、バビロンの激情を指すと読み、下書きの語義2『神の怒り』から本語義へ移した（同一句の2件は同じ語義にそろえた）。BDAG 最終パス（2026-11-26）で確認：BDAG もこの句を怒りの意味域で扱っており、本語義への移動と一致する。"
+  },
+  {
+   "id": "2",
+   "label": "（神の）怒り／憤り",
+   "label_en": "wrath / indignation (of God)",
+   "label_es": "ira / indignación (de Dios)",
+   "label_sv": "vrede / harm (Guds)",
+   "def": "神の義による怒り、裁きとしての憤り。『神の憤りの杯』『大バビロンの淫行のぶどう酒』『全能者の激しい怒りの酒ぶね』。",
+   "def_en": "God's anger in his righteousness, indignation as judgment: “the cup of God's wrath”, “the wine of great Babylon's immorality”, “the winepress of the fierce wrath of the Almighty”.",
+   "def_es": "La ira de Dios según su justicia, la indignación como juicio: «la copa de la ira de Dios», «el vino de la fornicación de la gran Babilonia», «el lagar del furor de la ira del Todopoderoso».",
+   "def_sv": "Guds vrede utifrån hans rättfärdighet, harmen som dom: ”Guds vredes bägare”, ”det stora Babylons otuktsvin”, ”den Allsmäktiges stränga vredes vinpress”.",
+   "layers": {
+    "nt": 8,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ローマ2:8（不従順な者には怒りと憤り）、黙示録14:8・10・19、15:1・7、16:1・19、18:3、19:15。語義1との境界は、怒りの主体が人か神か。黙示録14:8・18:3 は確定時に語義1へ移した（理由は語義1の note）。LXX イザヤ30:33（主の怒り）に並行。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42004028004": "1",
+  "n44019028006": "1",
+  "n45002008015": "2",
+  "n47012020021": "1",
+  "n48005020006": "1",
+  "n49004031004": "1",
+  "n51003008009": "1",
+  "n58011027007": "1",
+  "n66012012024": "1",
+  "n66014008017": "1",
+  "n66014010008": "2",
+  "n66014019023": "2",
+  "n66015001023": "2",
+  "n66015007016": "2",
+  "n66016001019": "2",
+  "n66016019031": "2",
+  "n66018003006": "1",
+  "n66019015030": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

@@ -1,0 +1,82 @@
+{
+ "lemma": "ὑστερέω",
+ "lemmaId": "grc:G5302",
+ "strong": "G5302",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "欠ける／不足する",
+   "label_en": "to lack / be short of",
+   "label_es": "faltar / carecer",
+   "label_sv": "att sakna / fattas",
+   "def": "必要なものが足りない、欠けている、乏しい。『何が足りないか』『なお一つ欠けている』『乏しくなる』。",
+   "def_en": "What is needed is not enough, is missing, is scarce: “what do I still lack?”, “one thing you still lack”, “began to be in need”.",
+   "def_es": "Lo necesario no alcanza, falta, escasea: «¿qué me falta aún?», «aún te falta una cosa», «comenzó a pasar necesidad».",
+   "def_sv": "Det nödvändiga räcker inte, saknas, tryter: ”vad är det mer som fattas mig?”, ”ett fattas dig ännu”, ”började lida nöd”.",
+   "layers": {
+    "nt": 9,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "Ⅰコリ1:7・12:24、Ⅱコリ11:9、ルカ15:14・22:35、マタイ19:20、マルコ10:21、ピリピ4:12、ヘブル11:37。LXX 箴言13:4・詩篇に並行。教父の代表例では確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "劣る／届かない",
+   "label_en": "to fall short / be inferior",
+   "label_es": "quedarse corto / ser inferior",
+   "label_sv": "att komma till korta / vara underlägsen",
+   "def": "基準に届かない、劣る、及ばない。『神の栄光に及ばない』『恵みから脱落する』『劣っていない』。",
+   "def_en": "Not to reach a standard, to be inferior: “fall short of the glory of God”, “fail to obtain the grace of God”, “not inferior”.",
+   "def_es": "No alcanzar la medida, ser menos: «están destituidos de la gloria de Dios», «dejar de alcanzar la gracia de Dios», «en nada he sido menos».",
+   "def_sv": "Att inte nå upp till måttet, att stå tillbaka: ”saknar härligheten från Gud”, ”gå miste om Guds nåd”, ”inte stå tillbaka”.",
+   "layers": {
+    "nt": 6,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ローマ3:23、ヘブル4:1・12:15、Ⅰコリ8:8、Ⅱコリ11:5・12:11。LXX 代表例に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+  },
+  {
+   "id": "3",
+   "label": "尽きる（供給が）",
+   "label_en": "to run out (supply)",
+   "label_es": "acabarse (provisión)",
+   "label_sv": "att ta slut (förråd)",
+   "def": "『ぶどう酒がなくなって』（ヨハネ2:3）。",
+   "def_en": "“When the wine ran out” (John 2:3).",
+   "def_es": "«Faltando el vino» (Jn 2:3).",
+   "def_sv": "”När vinet tog slut” (Joh 2:3).",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヨハネ2:3 の1例のみ。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40019020010": "1",
+  "n41010021013": "1",
+  "n42015014015": "1",
+  "n42022035015": "1",
+  "n43002003002": "3",
+  "n45003023005": "2",
+  "n46001007004": "1",
+  "n46008008017": "2",
+  "n46012024015": "1",
+  "n47011005004": "2",
+  "n47011009006": "1",
+  "n47012011014": "2",
+  "n50004012020": "1",
+  "n58004001015": "2",
+  "n58011037013": "1",
+  "n58012015004": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "教父の代表例は語義を特定できない。"
+}

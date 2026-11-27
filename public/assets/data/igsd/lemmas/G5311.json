@@ -1,0 +1,72 @@
+{
+ "lemma": "ὕψος",
+ "lemmaId": "grc:G5311",
+ "strong": "G5311",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "高さ",
+   "label_en": "height",
+   "label_es": "altura",
+   "label_sv": "höjd",
+   "def": "高さ。『広さ、長さ、高さ、深さ』『その高さも長さも広さも等しい』。",
+   "def_en": "Height: “the breadth, length, height and depth”, “its length, width and height are equal”.",
+   "def_es": "Altura: «la anchura, la longitud, la altura y la profundidad», «la longitud, la altura y la anchura de ella son iguales».",
+   "def_sv": "Höjd: ”bredden, längden, höjden och djupet”, ”dess längd, bredd och höjd är lika”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "エペソ3:18、黙示録21:16。LXX（6.26）、教父（49.4）に並行。語義2・3との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "高み・上（天）",
+   "label_en": "on high, heaven",
+   "label_es": "lo alto",
+   "label_sv": "höjden",
+   "def": "高い所、天。『高い所からあけぼのの光が訪れ』『上からの力を着せられる』『高い所に上って』。",
+   "def_en": "A high place; heaven: “the dawn from on high will visit us”, “clothed with power from on high”, “when he ascended on high”.",
+   "def_es": "Lugar alto, el cielo: «nos visitó desde lo alto la aurora», «investidos de poder desde lo alto», «subiendo a lo alto».",
+   "def_sv": "Det höga, himlen: ”ett gryningsljus från höjden skall besöka oss”, ”utrustade med kraft från höjden”, ”när han steg upp i höjden”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ルカ1:78・24:49、エペソ4:8。LXX（7.11）に並行。教父の代表例では確認していない。語義1・3との境界は連続的。"
+  },
+  {
+   "id": "3",
+   "label": "高い地位",
+   "label_en": "high position",
+   "label_es": "alta posición",
+   "label_sv": "hög ställning",
+   "def": "高められた地位、高いこと。『自分が高くされたことを誇れ』。",
+   "def_en": "A raised position, being exalted: “let him boast in his exaltation”.",
+   "def_es": "Posición elevada, exaltación: «gloríese en su exaltación».",
+   "def_sv": "En upphöjd ställning, upphöjelse: ”skall vara stolt över sin upphöjelse”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヤコブ1:9。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42001078012": "2",
+  "n42024049022": "2",
+  "n49003018014": "1",
+  "n49004008005": "2",
+  "n59001009009": "3",
+  "n66021016030": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（高さ／高み・天／高い地位）による。"
+}

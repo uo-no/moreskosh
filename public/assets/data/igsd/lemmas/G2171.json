@@ -1,0 +1,52 @@
+{
+ "lemma": "εὐχή",
+ "lemmaId": "grc:G2171",
+ "strong": "G2171",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "誓願・願掛け",
+   "label_en": "vow",
+   "label_es": "voto",
+   "label_sv": "löfte",
+   "def": "誓願、神への約束。『誓願を立てていたので』『誓願を立てている者が四人います』。",
+   "def_en": "A vow, a promise made to God: “for he had made a vow”, “there are four who are under a vow”.",
+   "def_es": "Voto, promesa hecha a Dios: «porque tenía hecho voto», «hay cuatro que tienen obligación de cumplir voto».",
+   "def_sv": "Ett löfte till Gud: ”eftersom han hade avlagt ett löfte”, ”det finns fyra som har avlagt ett löfte”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒18:18・21:23。LXX、教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "祈り",
+   "label_en": "prayer",
+   "label_es": "oración",
+   "label_sv": "bön",
+   "def": "祈り。『信仰による祈り』。",
+   "def_en": "Prayer: “the prayer of faith”.",
+   "def_es": "Oración: «la oración de fe».",
+   "def_sv": "Bön: ”trons bön”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヤコブ5:15。語義1との境界は連続的。LXX・教父の代表例は誓願の用法で、この語義としては確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n44018018028": "1",
+  "n44021023011": "1",
+  "n59005015003": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（誓願／祈り）による。"
+}

@@ -1,0 +1,62 @@
+{
+ "lemma": "ἐμπαίζω",
+ "lemmaId": "grc:G1702",
+ "strong": "G1702",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "あざける／嘲弄する",
+   "label_en": "to mock / ridicule",
+   "label_es": "burlarse / escarnecer",
+   "label_sv": "att håna / driva gäck med",
+   "def": "あざける、嘲弄する、ばかにする。『つばきをかけ、あざけり』『兵士たちもあざけった』『王の衣を着せてあざけり』『見物する者がみな彼をあざけり』『異邦人に引き渡して、あざけらせ』。",
+   "def_en": "To mock, to ridicule, to make a fool of: “spit on him and mock him”, “the soldiers also mocked him”, “put a royal robe on him and mocked him”, “all who saw began to mock him”, “deliver him to the Gentiles to be mocked”.",
+   "def_es": "Mofarse, ridiculizar: «le escupirán y se burlarán», «los soldados también le escarnecían», «vistiéndolo de ropa espléndida, se burlaron», «todos los que lo vean comiencen a hacer burla», «entregarlo a los gentiles para que le escarnezcan».",
+   "def_sv": "Att förlöjliga och göra narr av: ”spotta på honom och håna honom”, ”även soldaterna hånade honom”, ”klädde honom i en praktfull mantel och gäckade honom”, ”alla som ser det börjar håna”, ”utlämna honom åt hedningarna att förlöjligas”.",
+   "layers": {
+    "nt": 12,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ルカ14:29・18:32・23:11・23:36・22:63、マタイ20:19・27:29・27:31・27:41、マルコ10:34・15:20・15:31。LXX 詩篇・箴言に並行。教父の用例は無い。"
+  },
+  {
+   "id": "2",
+   "label": "だまされる／欺かれる",
+   "label_en": "to be tricked / deceived",
+   "label_es": "ser engañado / burlado",
+   "label_sv": "att bli lurad / förd bakom ljuset",
+   "def": "だまされる、一杯食わされる。『博士たちにだまされたと知って』（マタイ2:16）。",
+   "def_en": "To be deceived, to be duped: “when he saw that he had been tricked by the wise men” (Matt 2:16).",
+   "def_es": "Ser engañado, caer en un ardid: «viéndose burlado por los magos» (Mt 2:16).",
+   "def_sv": "Att bli bedragen och överlistad: ”när han förstod att de vise männen hade lurat honom” (Matt 2:16).",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ2:16 の1例のみ。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40002016005": "2",
+  "n40020019008": "1",
+  "n40027029021": "1",
+  "n40027031003": "1",
+  "n40027041005": "1",
+  "n41010034002": "1",
+  "n41015020003": "1",
+  "n41015031005": "1",
+  "n42014029015": "1",
+  "n42018032006": "1",
+  "n42022063007": "1",
+  "n42023011012": "1",
+  "n42023036001": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "教父の用例は無い。"
+}

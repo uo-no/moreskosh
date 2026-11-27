@@ -1,0 +1,51 @@
+{
+ "lemma": "μελετάω",
+ "lemmaId": "grc:G3191",
+ "strong": "G3191",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "心がける",
+   "label_en": "to attend to, to practice",
+   "label_es": "ocuparse en",
+   "label_sv": "att lägga sig vinn om",
+   "def": "心がける、励む。『これらのことを心がけなさい』。",
+   "def_en": "To give care to, to be diligent in: “practise these things”.",
+   "def_es": "Poner el cuidado en, esmerarse: «ocúpate en estas cosas».",
+   "def_sv": "Att ägna sig åt, att vara flitig i: ”lägg dig vinn om detta”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "テモテ第一4:15。LXX、教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "企てる",
+   "label_en": "to plot",
+   "label_es": "maquinar",
+   "label_sv": "att tänka ut",
+   "def": "企てる、思いめぐらす。『むなしいことを企む』。",
+   "def_en": "To devise, to contrive in thought: “plot empty things”.",
+   "def_es": "Tramar, idear: «piensan cosas vanas».",
+   "def_sv": "Att planera, att uppgöra anslag: ”tänker ut meningslösa planer”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒4:25。LXX に並行。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n44004025018": "2",
+  "n54004015002": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法による。"
+}

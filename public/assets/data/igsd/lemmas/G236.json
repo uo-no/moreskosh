@@ -1,0 +1,55 @@
+{
+ "lemma": "ἀλλάσσω",
+ "lemmaId": "grc:G236",
+ "strong": "G236",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "変える・変わる",
+   "label_en": "to change, to alter",
+   "label_es": "cambiar, mudar",
+   "label_sv": "att förändra, att förvandla",
+   "def": "変える、変化させる（受動：変えられる）。『わたしたちはみな変えられる』『モーセが伝えた慣例を変える』『わたしの声を変えたい』『衣のように変えられる』。",
+   "def_en": "To change, to alter (passive: to be changed). “we will all be changed”, “will change the customs that Moses handed down”, “I would like to change my tone”, “they will be changed like a garment”.",
+   "def_es": "Cambiar, transformar (pasiva: ser transformado). «todos seremos transformados», «cambiará las costumbres que nos dio Moisés», «quisiera cambiar el tono de mi voz», «serán mudados como un vestido».",
+   "def_sv": "Att ändra, att förvandla (passiv: att bli förvandlad). ”vi skall alla förvandlas”, ”ändra de sedvänjor som Mose har gett oss”, ”jag skulle vilja byta tonläge”, ”de skall bytas ut som en klädnad”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "コリント第一15:51・15:52、使徒6:14、ガラテヤ4:20、ヘブル1:12。LXX（27.33・31.7）、教父（26.4.5・10.7）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "取り替える",
+   "label_en": "to exchange",
+   "label_es": "trocar",
+   "label_sv": "att byta ut",
+   "def": "別のものと取り替える。『不朽の神の栄光を…に代えた』。",
+   "def_en": "To exchange for something else: “exchanged the glory of the immortal God for …”.",
+   "def_es": "Cambiar una cosa por otra: «cambiaron la gloria del Dios incorruptible por …».",
+   "def_sv": "Att byta mot något annat: ”bytte ut den odödlige Gudens härlighet mot …”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ローマ1:23。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n44006014015": "1",
+  "n45001023002": "2",
+  "n46015051010": "1",
+  "n46015052019": "1",
+  "n48004020008": "1",
+  "n58001012009": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（変える・変わる／取り替える）による。"
+}

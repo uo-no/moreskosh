@@ -1,0 +1,83 @@
+{
+ "lemma": "συμφέρω",
+ "lemmaId": "grc:G4851",
+ "strong": "G4851",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "益になる／有益である",
+   "label_en": "to be beneficial / profitable",
+   "label_es": "convenir / ser provechoso",
+   "label_sv": "att vara till gagn / nyttig",
+   "def": "利益・益・役に立つ、ふさわしい。『すべてが益になるわけではない』『共通の益のために』『あなたがたに益になる』。",
+   "def_en": "To be of benefit or use, to be fitting: “not all things are beneficial”, “for the common good”, “it is to your advantage”.",
+   "def_es": "Ser de provecho o utilidad, ser conveniente: «no todo conviene», «para provecho común», «os conviene».",
+   "def_sv": "Att vara till nytta och fördel, att vara lämpligt: ”allt är inte nyttigt”, ”till det gemensamma bästa”, ”det är till gagn för er”.",
+   "layers": {
+    "nt": 10,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰコリ6:12・10:23・33・12:7・7:35、Ⅱコリ8:10・12:1、使徒20:20、ヘブル12:10、ヨハネ16:7（わたしが去って行くのは、あなたがたにとって益になる）。LXX 箴言19:10、教父（ヘルマス6.7.1）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "〜するほうがよい（比較）",
+   "label_en": "it is better to … (comparison)",
+   "label_es": "más vale … (comparación)",
+   "label_sv": "det är bättre att … (jämförelse)",
+   "def": "『〜するほうがあなたにとって益になる（よい）』、比較して益になる。",
+   "def_en": "“It is more to your advantage (better) to …”: being of benefit by comparison.",
+   "def_es": "«Te conviene más (es mejor) que …»: ser provechoso en comparación.",
+   "def_sv": "”Det är bättre för dig att …”: att vara till gagn vid en jämförelse.",
+   "layers": {
+    "nt": 6,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ5:29・30（体の一部を失うほうがよい）・18:6・19:10、ヨハネ11:50・18:14（一人の人が民のために死ぬほうが得策だ）。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "持ち寄る／運んで集める（他動）",
+   "label_en": "to bring together (transitive)",
+   "label_es": "juntar / reunir (transitivo)",
+   "label_sv": "att föra samman (transitivt)",
+   "def": "物を持ち寄って一か所に集める。『書物を持ち寄って焼いた』。",
+   "def_en": "To bring things and gather them in one place: “brought their books together and burned them”.",
+   "def_es": "Traer cosas y reunirlas en un lugar: «trajeron los libros y los quemaron».",
+   "def_sv": "Att bära ihop ting till en plats: ”samlade ihop böckerna och brände upp dem”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒19:19（魔術の書物を持ち寄って焼いた）の1例のみ。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40005029016": "2",
+  "n40005030015": "2",
+  "n40018006013": "2",
+  "n40019010016": "2",
+  "n43011050004": "2",
+  "n43016007007": "1",
+  "n43018014009": "2",
+  "n44019019007": "3",
+  "n44020020005": "1",
+  "n46006012007": "1",
+  "n46007035007": "1",
+  "n46010023006": "1",
+  "n46010033010": "1",
+  "n46012007010": "1",
+  "n47008010009": "1",
+  "n47012001004": "1",
+  "n58012010016": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

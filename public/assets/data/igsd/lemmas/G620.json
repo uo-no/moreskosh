@@ -1,0 +1,68 @@
+{
+ "lemma": "ἀπολείπω",
+ "lemmaId": "grc:G620",
+ "strong": "G620",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "置いて行く／残して行く",
+   "label_en": "to leave behind",
+   "label_es": "dejar atrás",
+   "label_sv": "att lämna kvar",
+   "def": "残して行く、置いて行く、見捨てる。『外套を置いてきた』『病気のためミレトスに残して来た』『残して来たのは』『自分の領分を守らず、持ち場を離れた御使い』。",
+   "def_en": "To leave, to leave behind, to forsake: “I left my cloak”, “I left ill at Miletus”, “why I left you”, “the angels who did not keep their own position but left their proper dwelling”.",
+   "def_es": "Dejar, dejar tras de sí, abandonar: «el capote que dejé», «dejé enfermo en Mileto», «por esta causa te dejé», «los ángeles que no guardaron su dignidad, sino que abandonaron su propia morada».",
+   "def_sv": "Att lämna efter sig, lämna kvar, överge: ”manteln som jag lämnade kvar”, ”lämnade honom sjuk i Miletos”, ”jag lämnade dig kvar”, ”änglar som inte höll sig inom sitt område utan övergav sin boning”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅱテモ4:13・4:20、テトス1:5、ユダ6。LXX 箴言19:27・Ⅱマカバイ10:19、教父（28.1、2.1）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "残っている（受動）",
+   "label_en": "to remain (passive)",
+   "label_es": "quedar (pasiva)",
+   "label_sv": "att återstå (passivum)",
+   "def": "残る、残されている。『神の民のために安息が残っている』『もはや罪のためのいけにえは残っていない』。",
+   "def_en": "To remain, to be left: “there remains a Sabbath rest for the people of God”, “there no longer remains a sacrifice for sins”.",
+   "def_es": "Quedar, estar reservado: «queda un reposo para el pueblo de Dios», «ya no queda más sacrificio por los pecados».",
+   "def_sv": "Att återstå, vara kvar: ”det återstår en sabbatsvila för Guds folk”, ”då finns inte längre något offer för synderna kvar”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ヘブル10:26・4:6・4:9。語義1との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n55004013004": "1",
+  "n55004020007": "1",
+  "n56001005003": "1",
+  "n58004006003": "2",
+  "n58004009002": "2",
+  "n58010026015": "2",
+  "n65001006010": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法による。ἀπολελυμένην は別レンマ（ἀπολύω）の形と疑われるため未解決とした。",
+ "excluded": [
+  {
+   "ref": "MAT 5:32",
+   "form": "ἀπολελυμένην",
+   "reason": "形 ἀπολελυμένην は ἀπολύω の完了受動分詞で、本レンマの形ではない。bible_data の誤配当の疑いとしてユーザー承認待ち。"
+  },
+  {
+   "ref": "LUK 16:18",
+   "form": "ἀπολελυμένην",
+   "reason": "形 ἀπολελυμένην は ἀπολύω の完了受動分詞で、本レンマの形ではない。bible_data の誤配当の疑いとしてユーザー承認待ち。"
+  }
+ ]
+}

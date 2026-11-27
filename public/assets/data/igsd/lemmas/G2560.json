@@ -1,0 +1,99 @@
+{
+ "lemma": "κακῶς",
+ "lemmaId": "grc:G2560",
+ "strong": "G2560",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "病んで（κακῶς ἔχω）",
+   "label_en": "ill (κακῶς ἔχω)",
+   "label_es": "enfermo (κακῶς ἔχω)",
+   "label_sv": "sjuk (κακῶς ἔχω)",
+   "def": "『病んでいる』『病む者』の句に現れる副詞。『病んでいる者たち』。",
+   "def_en": "The adverb appearing in the phrase “to be ill”, “the sick”: “those who were sick”.",
+   "def_es": "Adverbio que aparece en la expresión «estar enfermo», «los enfermos»: «los que estaban mal».",
+   "def_sv": "Adverbet i uttrycket ”vara sjuk”, ”de sjuka”: ”de som var sjuka”.",
+   "layers": {
+    "nt": 10,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ4:24・8:16・9:12・14:35、マルコ1:32・1:34・2:17・6:55、ルカ5:31・7:2。LXX の代表例では確認していない（κακῶς ἔχειν の用例は知られるが代表例にない）。"
+  },
+  {
+   "id": "2",
+   "label": "ひどく（苦しむ）",
+   "label_en": "badly (suffering)",
+   "label_es": "gravemente (sufriendo)",
+   "label_sv": "svårt (lidande)",
+   "def": "程度の激しさを示す。『ひどく苦しんでいる』『ひどく悪霊に取りつかれている』。",
+   "def_en": "Shows the severity of degree: “suffering terribly”, “severely possessed by a demon”.",
+   "def_es": "Indica la intensidad: «padece terriblemente», «gravemente atormentado por un demonio».",
+   "def_sv": "Anger hur svårt något är: ”plågas svårt”, ”är svårt ansatt av en ond ande”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ17:15・15:22。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "悪く／誤って",
+   "label_en": "wickedly / wrongly",
+   "label_es": "mal / erróneamente",
+   "label_sv": "illa / orätt",
+   "def": "悪く、誤って、不当に。『悪く言うな』『悪い願いで求める』『悪いことを言ったのなら』。",
+   "def_en": "Badly, wrongly, unjustly: “do not speak evil”, “you ask with wrong motives”, “if I have said something wrong”.",
+   "def_es": "Mal, equivocadamente, injustamente: «no maldecirás», «pedís mal», «si he hablado mal».",
+   "def_sv": "Illa, felaktigt, orättvist: ”tala inte illa”, ”ni ber illa”, ”om jag har sagt något orätt”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒23:5、ヤコブ4:3、ヨハネ18:23。LXX 出エジプト記21:17（20:9）・知恵14:29、教父（26.26.2）に並行。"
+  },
+  {
+   "id": "4",
+   "label": "惨たらしく（滅ぼす）",
+   "label_en": "miserably (destroy)",
+   "label_es": "de mala muerte (destruir)",
+   "label_sv": "ynkligen (förgöra)",
+   "def": "『悪人どもを惨たらしく滅ぼす』（マタイ21:41）。",
+   "def_en": "“He will bring those wretches to a miserable end” (Matt 21:41).",
+   "def_es": "«A los malvados destruirá sin misericordia» (Mt 21:41).",
+   "def_sv": "”Han ska ge de onda en ond död” (Matt 21:41).",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ21:41 の1例のみ。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40004024015": "1",
+  "n40008016016": "1",
+  "n40009012013": "1",
+  "n40014035020": "1",
+  "n40015022020": "2",
+  "n40017015011": "2",
+  "n40021041004": "4",
+  "n41001032013": "1",
+  "n41001034004": "1",
+  "n41002017016": "1",
+  "n41006055012": "1",
+  "n42005031016": "1",
+  "n42007002005": "1",
+  "n43018023005": "3",
+  "n44023005020": "3",
+  "n59004003006": "3"
+ },
+ "unresolved": [],
+ "layer_notes": "語義の境界（病・程度・道徳）は文脈による。"
+}

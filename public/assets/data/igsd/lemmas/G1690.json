@@ -1,0 +1,71 @@
+{
+ "lemma": "ἐμβριμάομαι",
+ "lemmaId": "grc:G1690",
+ "strong": "G1690",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "厳しく戒める",
+   "label_en": "to charge sternly",
+   "label_es": "encargar rigurosamente",
+   "label_sv": "att strängt befalla",
+   "def": "厳しく命じる、きびしく戒める。『だれにも知れないように、きびしく戒めた』『厳しく戒めて』。",
+   "def_en": "To command strictly, to warn severely: “sternly warned them that no one should know of it”, “sternly charged him”.",
+   "def_es": "Ordenar con severidad, advertir con rigor: «les mandó rigurosamente que nadie lo supiese», «le encargó rigurosamente».",
+   "def_sv": "Att ge en sträng befallning, att skarpt förmana: ”befallde dem strängt att ingen fick veta det”, ”sade strängt till honom”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マタイ9:30、マルコ1:43。LXX に並行（威嚇の用法）。教父の用例なし。語義2・3との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "憤り・心を動かされる",
+   "label_en": "to be deeply moved, to be indignant",
+   "label_es": "conmoverse, indignarse",
+   "label_sv": "att bli upprörd",
+   "def": "心が強く動く、憤る。『激しく感動し』『また激しく感動して』。ヨハネ11:33・11:38 の語感（憤りか深い感動か）は決定しない。",
+   "def_en": "For the heart to be strongly stirred; to be indignant: “was deeply moved”, “again deeply moved”. The nuance in John 11:33 and 11:38 (indignation or deep emotion) is not decided.",
+   "def_es": "Agitarse intensamente el ánimo; indignarse: «se estremeció en espíritu», «profundamente conmovido otra vez». No se decide el matiz de Juan 11:33 y 11:38 (indignación o honda emoción).",
+   "def_sv": "Att bli starkt skakad i sitt inre, att förtörnas: ”blev djupt upprörd”, ”åter upprörd i sitt innersta”. Nyansen i Johannes 11:33 och 11:38 (vrede eller djup rörelse) avgörs inte.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヨハネ11:33・11:38。語義1・3との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "とがめる",
+   "label_en": "to reproach",
+   "label_es": "reprender",
+   "label_sv": "att klandra",
+   "def": "とがめる、責める。『その女を責めた』。",
+   "def_en": "To reproach, to blame: “they scolded the woman”.",
+   "def_es": "Reprender, censurar: «murmuraban contra la mujer».",
+   "def_sv": "Att förebrå, att klandra: ”de grälade på kvinnan”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マルコ14:5。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40009030007": "1",
+  "n41001043002": "1",
+  "n41014005015": "3",
+  "n43011033013": "2",
+  "n43011038004": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（戒める／心の動き／とがめる）による。ヨハネ11章の語感は決定しない。"
+}

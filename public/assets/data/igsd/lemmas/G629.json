@@ -1,0 +1,59 @@
+{
+ "lemma": "ἀπολύτρωσις",
+ "lemmaId": "grc:G629",
+ "strong": "G629",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "贖い／身代金による解放",
+   "label_en": "redemption / release by ransom",
+   "label_es": "redención / liberación por rescate",
+   "label_sv": "återlösning / befrielse mot lösen",
+   "def": "贖い、解放。『聖め・贖いとなられた』『贖い、すなわち罪の赦し』『贖い』『贖いの日』『贖いを受けるまで』『キリスト・イエスにある贖いによって』『契約の下での違反の贖い』『からだの贖い』『あなたがたの贖いが近づいている』。",
+   "def_en": "Redemption, release: “became our sanctification and redemption”, “redemption, the forgiveness of sins”, “redemption”, “the day of redemption”, “until the redemption”, “through the redemption that is in Christ Jesus”, “redemption from the transgressions under the covenant”, “the redemption of our bodies”, “your redemption is drawing near”.",
+   "def_es": "Redención, liberación: «hecho santificación y redención», «redención, el perdón de pecados», «redención», «el día de la redención», «hasta la redención», «mediante la redención que es en Cristo Jesús», «redención de las transgresiones bajo el pacto», «la redención de nuestro cuerpo», «vuestra redención está cerca».",
+   "def_sv": "Återlösning och befrielse: ”blivit vår helgelse och återlösning”, ”återlösningen, syndernas förlåtelse”, ”förlossningen”, ”återlösningens dag”, ”tills förlossningen sker”, ”genom återlösningen i Kristus Jesus”, ”befrielse från överträdelserna under förbundet”, ”vår kropps förlossning”, ”er befrielse närmar sig”.",
+   "layers": {
+    "nt": 9,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "Ⅰコリ1:30、コロサイ1:14、エペソ1:7・1:14・4:30、ヘブル9:15、ルカ21:28、ローマ3:24・8:23。LXX の用例はダニエル（LXX）4:34 の1件のみ（代表例で語義を確認できない）。教父の用例は無い。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "釈放（拷問からの）",
+   "label_en": "release (from torture)",
+   "label_es": "liberación (del tormento)",
+   "label_sv": "frigivning (från tortyr)",
+   "def": "釈放、解放。『釈放を受け入れず』（ヘブル11:35）。",
+   "def_en": "Release, being set free: “refusing to accept release” (Heb 11:35).",
+   "def_es": "Rescate, puesta en libertad: «no aceptando el rescate» (He 11:35).",
+   "def_sv": "Frigivning och befrielse: ”avvisade befrielsen” (Heb 11:35).",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヘブル11:35 の1例のみ。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42021028014": "1",
+  "n45003024008": "1",
+  "n45008023021": "1",
+  "n46001030020": "1",
+  "n49001007005": "1",
+  "n49001014008": "1",
+  "n49004030015": "1",
+  "n51001014005": "1",
+  "n58009015012": "1",
+  "n58011035014": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法による。LXX の1件は用法が確認できず、教父の用例は無い。"
+}

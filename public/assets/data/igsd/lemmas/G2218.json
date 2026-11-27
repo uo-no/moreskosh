@@ -1,0 +1,55 @@
+{
+ "lemma": "ζυγός",
+ "lemmaId": "grc:G2218",
+ "strong": "G2218",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "くびき",
+   "label_en": "yoke",
+   "label_es": "yugo",
+   "label_sv": "ok",
+   "def": "くびき（隷属や従うことの比喩を含む）。『くびきの下にある奴隷』『弟子たちの首にくびきを置こうとするのか』『隷属のくびき』『わたしのくびきを負え』『わたしのくびきは負いやすく』。",
+   "def_en": "A yoke (including figurative uses for slavery or submission): “slaves under the yoke”, “do you want to put a yoke on the neck of the disciples”, “a yoke of slavery”, “take my yoke upon you”, “my yoke is easy”.",
+   "def_es": "Yugo (incluidas las figuras de servidumbre o sumisión): «esclavos bajo yugo», «¿queréis poner un yugo sobre la cerviz de los discípulos?», «yugo de esclavitud», «llevad mi yugo sobre vosotros», «mi yugo es fácil».",
+   "def_sv": "Ok (även som bild för träldom eller lydnad): ”slavar under oket”, ”vill ni lägga ett ok på lärjungarnas nacke”, ”slaveriets ok”, ”ta på er mitt ok”, ”mitt ok är skonsamt”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "テモテ第一6:1、使徒15:10、ガラテヤ5:1、マタイ11:29・11:30。LXX（14.29・28.20）に並行。教父の用例なし。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "はかり・天秤",
+   "label_en": "balance, scales",
+   "label_es": "balanza",
+   "label_sv": "våg",
+   "def": "物を量る秤。『黒い馬…手にはかりを持っていた』。",
+   "def_en": "A balance for weighing things: “a black horse … had a pair of scales in his hand”.",
+   "def_es": "Balanza para pesar: «un caballo negro … tenía una balanza en la mano».",
+   "def_sv": "En våg att väga med: ”en svart häst … hade en våg i handen”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "黙示録6:5。語義1との境界は連続的。LXX・教父の代表例は「くびき」の用法で、この語義としては確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40011029003": "1",
+  "n40011030003": "1",
+  "n44015010008": "1",
+  "n48005001011": "1",
+  "n54006001004": "1",
+  "n66006005026": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（くびき／はかり）による。"
+}

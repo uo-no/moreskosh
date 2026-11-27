@@ -1,0 +1,55 @@
+{
+ "lemma": "λειτουργία",
+ "lemmaId": "grc:G3009",
+ "strong": "G3009",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "祭儀的な奉仕・務め",
+   "label_en": "ritual service, ministry",
+   "label_es": "ministerio, servicio cultual",
+   "label_sv": "tempeltjänst, gudstjänstlig tjänst",
+   "def": "祭司・礼拝の奉仕。『彼の務めの期間が終わると』『彼の務めはいっそうすぐれており』『礼拝のすべての器具にも』。",
+   "def_en": "Priestly or liturgical service: “when the time of his service was ended”, “the ministry he has obtained is far more excellent”, “and all the vessels used in worship”.",
+   "def_es": "Servicio sacerdotal o de culto: «cumplidos los días de su ministerio», «tanto mejor ministerio es el suyo», «y todos los vasos del ministerio».",
+   "def_sv": "Prästerlig och gudstjänstlig tjänst: ”när hans tjänstgöring var slut”, ”den tjänst han fått är så mycket förmer”, ”och alla kärl som används vid gudstjänsten”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ルカ1:23、ヘブル8:6・9:21。LXX（4.24・9.28）に並行。教父の代表例では確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "奉仕・仕えること",
+   "label_en": "service, ministering",
+   "label_es": "servicio, ayuda",
+   "label_sv": "tjänst, bistånd",
+   "def": "人々への奉仕、仕えること。『この奉仕の働きは』『あなたがたの信仰のいけにえと奉仕とに』『わたしに対するあなたがたの奉仕の足りない所を補う』。",
+   "def_en": "Service rendered to people: “the ministry of this service”, “on the sacrificial offering and service of your faith”, “to supply what was lacking in your service to me”.",
+   "def_es": "Servicio prestado a las personas: «la ministración de este servicio», «sobre el sacrificio y servicio de vuestra fe», «para suplir lo que faltaba en vuestro servicio por mí».",
+   "def_sv": "Tjänst mot människor, att tjäna: ”denna tjänst”, ”på er tros offer och gudstjänst”, ”för att fylla vad som fattades i er tjänst för mig”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "コリント第二9:12、ピリピ2:17・2:30。ピリピ2:17 の「奉仕」は祭儀的語感を含むが、ここでは語義2に置く。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42001023008": "1",
+  "n47009012005": "2",
+  "n50002017009": "2",
+  "n50002030020": "2",
+  "n58008006005": "1",
+  "n58009021010": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（祭儀的な務め／奉仕）による。"
+}

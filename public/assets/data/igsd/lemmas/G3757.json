@@ -1,0 +1,90 @@
+{
+ "lemma": "οὗ",
+ "lemmaId": "grc:G3757",
+ "strong": "G3757",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "〜するところで／〜する場所で",
+   "label_en": "where / in the place where",
+   "label_es": "donde / en el lugar en que",
+   "label_sv": "där / på den plats där",
+   "def": "関係副詞として、ある場所を受けて「そこで〜」「〜のある場所で」と位置を述べる（先行詞は場所を表す語、または省略）。",
+   "def_en": "As a relative adverb, takes up a place and states position, “there …”, “in the place where …” (the antecedent is a word of place, or is omitted).",
+   "def_es": "Como adverbio relativo, retoma un lugar e indica posición: «allí donde …» (el antecedente es una palabra de lugar o se omite).",
+   "def_sv": "Som relativt adverb tar det upp en plats och anger läge: ”där …”, ”på den plats där …” (korrelatet är ett platsord eller utelämnat).",
+   "layers": {
+    "nt": 17,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "家・上の間・川のほとり・墓・町・水域など。ローマ9:26（ホセア書の引用）、ヘブル3:9（詩篇の引用）も位置の用法。コロサイ3:1（キリストが神の右に座している所）もこの型。"
+  },
+  {
+   "id": "2",
+   "label": "〜するところへ／〜するところはどこでも",
+   "label_en": "to where / wherever",
+   "label_es": "adonde / dondequiera que",
+   "label_sv": "dit / vart än",
+   "def": "動作の向かう先を受ける用法（Abbott は『どこへ』に置く）。ἐάν＋接続法を伴う不定の用法（Ⅰコリ16:6）もここに置く。",
+   "def_en": "A use taking up the destination of a movement (Abbott places it under “to where”). The indefinite use with ἐάν + subjunctive (1 Cor 16:6) is also placed here.",
+   "def_es": "Uso que retoma el destino de un movimiento (Abbott lo sitúa bajo «adónde»). Aquí se incluye también el uso indefinido con ἐάν + subjuntivo (1 Co 16:6).",
+   "def_sv": "Ett bruk som tar upp rörelsens mål (Abbott placerar det under ”vart”). Hit räknas också det obestämda bruket med ἐάν + konjunktiv (1 Kor 16:6).",
+   "layers": {
+    "nt": 4,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ28:16（定められた山）、ルカ10:1（自分が行くつもりの町や場所）、ルカ24:28（向かっていた村）、Ⅰコリ16:6（どこへ行こうとも）。位置（語義1）との境界は連続的で、マタイ28:16 は『定めた山で』と読むこともできる。"
+  },
+  {
+   "id": "3",
+   "label": "〜という状況では／〜のあるところには",
+   "label_en": "in a situation where / where there is …",
+   "label_es": "en la situación en que / donde hay …",
+   "label_sv": "i det läge där / där det finns …",
+   "def": "場所を比喩的に用い、ある条件・事態のもとでは、という意味で述べる。",
+   "def_en": "Uses place figuratively, meaning under a certain condition or state of affairs.",
+   "def_es": "Emplea el lugar en sentido figurado, con el valor de «bajo cierta condición o circunstancia».",
+   "def_sv": "Använder plats bildligt, i betydelsen under ett visst villkor eller förhållande.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ローマ4:15（律法のないところに違反もない）、ローマ5:20（罪の増したところに恵みも）、Ⅱコリ3:17（主の霊のあるところに自由）。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40002009022": "1",
+  "n40018020001": "1",
+  "n40028016012": "2",
+  "n42004016005": "1",
+  "n42004017015": "1",
+  "n42010001025": "2",
+  "n42023053012": "1",
+  "n42024028006": "2",
+  "n44001013008": "1",
+  "n44002002017": "1",
+  "n44007029014": "1",
+  "n44012012015": "1",
+  "n44016013012": "1",
+  "n44020008008": "1",
+  "n44025010011": "1",
+  "n44028014001": "1",
+  "n45004015006": "3",
+  "n45005020008": "3",
+  "n45009026006": "1",
+  "n46016006013": "2",
+  "n47003017007": "3",
+  "n51003001009": "1",
+  "n58003009001": "1",
+  "n66017015008": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "パケットの LXX・教父の代表例は否定辞 οὐ の例が大半で、οὗ の用例の層別確認には不十分（LXX は31.12 に場所の οὗ が1例見えるのみ）。語義2・3 と教父の layers は未確認として none とした。"
+}

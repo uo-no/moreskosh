@@ -1,0 +1,53 @@
+{
+ "lemma": "ἄτοπος",
+ "lemmaId": "grc:G824",
+ "strong": "G824",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "不当な・悪い",
+   "label_en": "improper, wrong",
+   "label_es": "indebido, malo",
+   "label_sv": "orätt, ond",
+   "def": "不当な、悪い、よこしまな。『この人は何も悪いことをしていない』『この人に何か不当なことが』『よこしまな悪人ども』。",
+   "def_en": "Improper, bad, wicked: “this man has done nothing wrong”, “something improper in this man”, “perverse and wicked people”.",
+   "def_es": "Impropio, malo, perverso: «este ningún mal ha hecho», «algo malo en este hombre», «hombres perversos y malos».",
+   "def_sv": "Otillbörlig, ond, förvänd: ”denne har inte gjort något ont”, ”något orätt hos denne man”, ”vrånga och onda människor”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ルカ23:41、使徒25:5、テサロニケ第二3:2。LXX、教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "異常な",
+   "label_en": "unusual",
+   "label_es": "anormal",
+   "label_sv": "onormal",
+   "def": "異常な、常でない。『この人には何の異常もない』。",
+   "def_en": "Out of the ordinary, strange: “nothing unusual happened to this man”.",
+   "def_es": "Extraño, fuera de lo común: «nada extraño le había ocurrido a este».",
+   "def_sv": "Ovanlig, underlig: ”inget ovanligt hade hänt honom”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒28:6。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42023041013": "1",
+  "n44025005014": "1",
+  "n44028006019": "2",
+  "n53003002006": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（不当な／異常な）による。"
+}

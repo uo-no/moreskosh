@@ -1,0 +1,63 @@
+{
+ "lemma": "κωφός",
+ "lemmaId": "grc:G2974",
+ "strong": "G2974",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "口がきけない",
+   "label_en": "mute",
+   "label_es": "mudo",
+   "label_sv": "stum",
+   "def": "口がきけない、話せない。『口のきけない人』『口のきけない者が話し』『口をきけない者が話す』『ことばが出ない』。",
+   "def_en": "Unable to speak: “a mute man”, “the mute spoke”, “the mute speaking”, “unable to utter words”.",
+   "def_es": "Que no puede hablar: «un mudo», «el mudo habló», «los mudos hablar», «no le salían las palabras».",
+   "def_sv": "Som inte kan tala: ”en stum”, ”den stumme talade”, ”stumma talar”, ”kunde inte få fram ett ord”.",
+   "layers": {
+    "nt": 9,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ルカ11:14（2回）・1:22、マタイ15:30・15:31・12:22（2回）・9:32・9:33。LXX 出エジプト記4:11・詩篇37:14、教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "耳が聞こえない",
+   "label_en": "deaf",
+   "label_es": "sordo",
+   "label_sv": "döv",
+   "def": "耳が聞こえない、聞こえない。『耳の聞こえない者が聞こえ』『つんぼで口のきけない霊』。",
+   "def_en": "Unable to hear: “the deaf hear”, “you mute and deaf spirit”.",
+   "def_es": "Que no puede oír: «los sordos oyen», «espíritu mudo y sordo».",
+   "def_sv": "Som inte kan höra: ”döva hör”, ”du stumma och döva ande”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ルカ7:22、マタイ11:5、マルコ7:32・7:37・9:25。LXX イザヤ42:18 に並行。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40009032008": "1",
+  "n40009033007": "1",
+  "n40011005009": "2",
+  "n40012022007": "1",
+  "n40012022013": "1",
+  "n40015030009": "1",
+  "n40015031006": "1",
+  "n41007032004": "2",
+  "n41007037010": "2",
+  "n41009025018": "2",
+  "n42001022022": "1",
+  "n42007022018": "2",
+  "n42011014005": "1",
+  "n42011014013": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は障害の種類（話す／聞く）による。"
+}

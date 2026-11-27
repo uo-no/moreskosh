@@ -1,0 +1,53 @@
+{
+ "lemma": "ἀποβαίνω",
+ "lemmaId": "grc:G576",
+ "strong": "G576",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "降りる・出る",
+   "label_en": "to disembark, to get out",
+   "label_es": "desembarcar, bajar",
+   "label_sv": "att stiga i land",
+   "def": "降りる、上がる、出る。『上陸してみると』『舟から出て』。",
+   "def_en": "To get down, to go ashore, to get out: “when they got out on land”, “got out of the boat”.",
+   "def_es": "Bajar, salir a tierra: «al descender a tierra», «habiendo salido de la barca».",
+   "def_sv": "Att stiga ur, att gå i land: ”när de steg i land”, ”steg ur båten”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヨハネ21:9、ルカ5:2。語義2との境界は連続的。LXX の代表例は「〜になる」の用法で、この語義としては確認していない。教父の用例なし。"
+  },
+  {
+   "id": "2",
+   "label": "〜となる・結果になる",
+   "label_en": "to turn out, to result in",
+   "label_es": "resultar, redundar en",
+   "label_sv": "att leda till",
+   "def": "結果として〜となる。『それはあなたがたにとって証しをする機会となる』『それが救いとなる』。",
+   "def_en": "To result in something: “this will be an opportunity for you to bear witness”, “this will turn out for my salvation”.",
+   "def_es": "Venir a parar en algo: «esto os será ocasión para dar testimonio», «esto resultará en mi liberación».",
+   "def_sv": "Att till slut bli till något: ”det blir ett tillfälle för er att vittna”, ”detta skall leda till min räddning”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ルカ21:13、ピリピ1:19。LXX に並行。教父の用例なし。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42005002014": "1",
+  "n42021013001": "2",
+  "n43021009003": "1",
+  "n50001019006": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（降りる／結果となる）による。"
+}

@@ -1,0 +1,78 @@
+{
+ "lemma": "βοάω",
+ "lemmaId": "grc:G994",
+ "strong": "G994",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "叫ぶ／大声で呼ぶ",
+   "label_en": "to shout / call out",
+   "label_es": "gritar / clamar",
+   "label_sv": "att ropa / skrika",
+   "def": "叫ぶ、大声で呼ぶ。『大声で叫んだ』『叫び求める』『わたしを憐れんでください』『エロイ、エロイ』『彼らは叫んで言った』。",
+   "def_en": "To cry out, to call loudly: “cried with a loud voice”, “crying out to him”, “have mercy on me”, “Eloi, Eloi”, “they shouted, saying”.",
+   "def_es": "Gritar, llamar a voces: «clamó a gran voz», «claman a él», «ten misericordia de mí», «Eloi, Eloi», «daban voces diciendo».",
+   "def_sv": "Att ropa högt: ”ropade med hög röst”, ”ropar till honom”, ”förbarma dig över mig”, ”Eloi, Eloi”, ”de ropade och sade”.",
+   "layers": {
+    "nt": 7,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒17:6・25:24・8:7、ルカ18:38・9:38・18:7、マルコ15:34。LXX 創世記・出エジプト記、教父に並行。"
+  },
+  {
+   "id": "2",
+   "label": "叫ぶ者の声（荒野で叫ぶ声）",
+   "label_en": "the voice of one crying (in the wilderness)",
+   "label_es": "voz del que clama (en el desierto)",
+   "label_sv": "en röst som ropar (i öknen)",
+   "def": "『荒野で叫ぶ者の声』の句の中の分詞。",
+   "def_en": "The participle in the phrase “the voice of one crying in the wilderness”.",
+   "def_es": "El participio de la frase «voz del que clama en el desierto».",
+   "def_sv": "Participet i uttrycket ”en röst ropar i öknen”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ヨハネ1:23、ルカ3:4、マタイ3:3、マルコ1:3（いずれもイザヤ40:3 の引用）。LXX イザヤ40:3、教父（9.3）に並行。語義1との境界は連続的。"
+  },
+  {
+   "id": "3",
+   "label": "声を上げて喜ぶ",
+   "label_en": "to cry aloud for joy",
+   "label_es": "prorrumpir en voces de júbilo",
+   "label_sv": "att brista ut i jubelrop",
+   "def": "声を上げて喜ぶ。『喜びの声をあげよ』。",
+   "def_en": "To raise one's voice in joy: “break forth into shouting”.",
+   "def_es": "Alzar la voz de alegría: «prorrumpe en júbilo y clama».",
+   "def_sv": "Att höja rösten i glädje: ”brist ut i jubel”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ガラテヤ4:27 の1例のみ（イザヤ54:1 の引用）。LXX イザヤ54:1、教父（2.2）に並行。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40003003012": "2",
+  "n41001003002": "2",
+  "n41015034005": "1",
+  "n42003004010": "2",
+  "n42009038007": "1",
+  "n42018007013": "1",
+  "n42018038002": "1",
+  "n43001023004": "2",
+  "n44008007007": "1",
+  "n44017006013": "1",
+  "n44025024029": "1",
+  "n48004027010": "3"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（叫び／荒野の声の句／喜びの声）による。"
+}

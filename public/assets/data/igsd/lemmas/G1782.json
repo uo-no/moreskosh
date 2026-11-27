@@ -1,0 +1,78 @@
+{
+ "lemma": "ἐντεῦθεν",
+ "lemmaId": "grc:G1782",
+ "strong": "G1782",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "ここから／ここを（場所）",
+   "label_en": "from here / away from here",
+   "label_es": "de aquí",
+   "label_sv": "härifrån",
+   "def": "ここから、ここを離れて。『さあ、立って、ここから出かけよう』『ここから出て行け』『わたしの国はこの世のものではない』『ここから向こうへ移れ』『ここから飛び降りよ』。",
+   "def_en": "From here, leaving this place: “rise, let us go from here”, “get away from here”, “my kingdom is not from this world”, “move from here to there”, “throw yourself down from here”.",
+   "def_es": "Desde aquí, saliendo de este lugar: «levantaos, vamos de aquí», «sal y vete de aquí», «mi reino no es de aquí», «pásate de aquí allá», «échate de aquí abajo».",
+   "def_sv": "Härifrån, bort från platsen: ”stig upp, vi går härifrån”, ”ge dig av härifrån”, ”mitt rike är inte av denna världen”, ”flytta dig härifrån dit bort”, ”kasta dig ner härifrån”.",
+   "layers": {
+    "nt": 8,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ヨハネ14:31・2:16・18:36・7:3、ルカ13:31・16:26・4:9、マタイ17:20。LXX 出エジプト記32:7、教父（53.2）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "こちら側とあちら側／両側（ἐντεῦθεν καὶ ἐντεῦθεν）",
+   "label_en": "on either side (ἐντεῦθεν καὶ ἐντεῦθεν)",
+   "label_es": "a uno y otro lado (ἐντεῦθεν καὶ ἐντεῦθεν)",
+   "label_sv": "på ömse sidor (ἐντεῦθεν καὶ ἐντεῦθεν)",
+   "def": "『両側に』。『真ん中にイエス、こちらとあちらに』『川の両岸に』。",
+   "def_en": "“On both sides”: “Jesus in the middle, one on either side”, “on each side of the river”.",
+   "def_es": "«A ambos lados»: «Jesús en medio, uno a cada lado», «a uno y otro lado del río».",
+   "def_sv": "”På båda sidor”: ”Jesus i mitten och en på var sida”, ”på ömse sidor om floden”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ヨハネ19:18（2回）、黙示録22:2。LXX 代表例に並行。教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "そこから（出所・原因）",
+   "label_en": "from this (source, cause)",
+   "label_es": "de ahí (origen, causa)",
+   "label_sv": "därifrån (ursprung, orsak)",
+   "def": "『どこから争いが出てくるのか』（ヤコブ4:1）。",
+   "def_en": "“Where do quarrels come from?” (James 4:1).",
+   "def_es": "«¿De dónde vienen los pleitos?» (Stg 4:1).",
+   "def_sv": "”Varifrån kommer alla tvister?” (Jak 4:1).",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヤコブ4:1 の1例のみ。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40017020024": "1",
+  "n42004009023": "1",
+  "n42013031013": "1",
+  "n42016026016": "1",
+  "n43002016009": "1",
+  "n43007003009": "1",
+  "n43014031020": "1",
+  "n43018036042": "1",
+  "n43019018009": "2",
+  "n43019018011": "2",
+  "n59004001009": "3",
+  "n66022002009": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（場所／両側／出所）による。"
+}

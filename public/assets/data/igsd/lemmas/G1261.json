@@ -1,0 +1,63 @@
+{
+ "lemma": "διαλογισμός",
+ "lemmaId": "grc:G1261",
+ "strong": "G1261",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "思い／考え（内心の）",
+   "label_en": "thought / reasoning (inward)",
+   "label_es": "pensamiento / cavilación (interior)",
+   "label_sv": "tanke / inre överläggning",
+   "def": "心の思い、考え、疑い。『心の中の思い』『悪い思い』『疑い』。『知者の思いは空しい』『彼らはむなしい思いにふけった』。",
+   "def_en": "Thoughts of the heart, reasonings, doubts: “the thoughts in their hearts”, “evil thoughts”, “doubts”; “the thoughts of the wise are futile”, “they became futile in their thinking”.",
+   "def_es": "Pensamientos del corazón, razonamientos, dudas: «los pensamientos de su corazón», «malos pensamientos», «dudas»; «los pensamientos de los sabios son vanos», «se envanecieron en sus razonamientos».",
+   "def_sv": "Hjärtats tankar, funderingar, tvivel: ”tankarna i deras hjärtan”, ”onda tankar”, ”tvivel”; ”de visas tankar är tomma”, ”de förblindades i sina tankar”.",
+   "layers": {
+    "nt": 10,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰコリ3:20、ヤコブ2:4、ルカ2:35・5:22・6:8・9:47・24:38、マタイ15:19、マルコ7:21、ローマ1:21。LXX 詩篇91:6、教父（21.3）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "議論／論争",
+   "label_en": "argument / dispute",
+   "label_es": "discusión / disputa",
+   "label_sv": "dispyt / tvist",
+   "def": "議論、言い争い、意見の対立。『怒ったり言い争ったりせずに』『だれが一番偉いかという議論』『つぶやきや疑いなしに』『意見を批評するためではなく』。",
+   "def_en": "Argument, quarrel, difference of opinion: “without anger or quarrelling”, “an argument about who was greatest”, “without grumbling or questioning”, “not to pass judgment on opinions”.",
+   "def_es": "Discusión, contienda, disparidad de pareceres: «sin ira ni contienda», «discusión sobre quién sería el mayor», «sin murmuraciones ni contiendas», «no para contender sobre opiniones».",
+   "def_sv": "Diskussion, gräl, meningsskiljaktighet: ”utan vrede och diskussioner”, ”tvisten om vem som var störst”, ”utan att knota och tveka”, ”inte för att döma om åsikter”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "Ⅰテモ2:8、ルカ9:46、ピリピ2:14、ローマ14:1。語義1との境界は連続的（ローマ14:1 は『意見』）。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40015019006": "1",
+  "n41007021009": "1",
+  "n42002035015": "1",
+  "n42005022006": "1",
+  "n42006008005": "1",
+  "n42009046003": "2",
+  "n42009047006": "1",
+  "n42024038010": "1",
+  "n45001021015": "1",
+  "n45014001010": "2",
+  "n46003020006": "1",
+  "n50002014006": "2",
+  "n54002008015": "2",
+  "n59002004008": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（内心の思い／議論）による。"
+}

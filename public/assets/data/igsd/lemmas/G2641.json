@@ -1,0 +1,90 @@
+{
+ "lemma": "καταλείπω",
+ "lemmaId": "grc:G2641",
+ "strong": "G2641",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "離れる／後にする／去る",
+   "label_en": "to leave / depart from",
+   "label_es": "dejar / abandonar / irse de",
+   "label_sv": "att lämna / överge / gå ifrån",
+   "def": "ある場所・人・事柄から離れ、それを後にする。去る・手放す・見限る（離れて別へ向かう）ことを述べる。",
+   "def_en": "To depart from a place, person, or matter and leave it behind. States leaving, letting go, or forsaking (going away toward something else).",
+   "def_es": "Apartarse de un lugar, persona o asunto y dejarlo atrás. Expresa irse, soltar o abandonar (marcharse hacia otra cosa).",
+   "def_sv": "Att gå bort från en plats, människa eller sak och lämna den bakom sig. Anger att gå sin väg, släppa eller överge (att bege sig till något annat).",
+   "layers": {
+    "nt": 12,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "場所を去る（マタイ4:13、16:4、21:17、使徒21:3、ヘブル11:27）、すべてを捨てて従う（ルカ5:28）、仕事や道を離れる（使徒6:2、第二ペテロ2:15）、「父母を離れて」（マタイ19:5、マルコ10:7、エペソ5:31）、逃げる（マルコ14:52）。"
+  },
+  {
+   "id": "2",
+   "label": "残しておく／置いていく／残る",
+   "label_en": "to leave behind / leave in place / remain",
+   "label_es": "dejar / dejar atrás / quedar",
+   "label_sv": "att lämna kvar / lämna efter sig vid avfärd / bli kvar",
+   "def": "人や物を、ある場所・状態にそのまま置いておく、あるいはそこに残る。去る者の側でなく、残される者・残されるものに焦点がある。受動・分詞で「残された」とも述べる。",
+   "def_en": "To leave a person or thing as it is in a certain place or state, or to remain there. The focus is not on the one who departs but on the one or thing left. Also stated in the passive or participle as “left”.",
+   "def_es": "Dejar a una persona o cosa tal como está en un lugar o estado, o quedarse allí. El foco no está en quien se va, sino en quien o en lo que queda. En pasiva y participio se dice también «dejado».",
+   "def_sv": "Att låta en människa eller sak vara kvar på en plats eller i ett tillstånd, eller att själv bli kvar. Fokus ligger inte på den som går utan på den eller det som lämnas. Sägs även i passiv och particip: ”lämnad kvar”.",
+   "layers": {
+    "nt": 9,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒18:19（エペソに残す）、使徒24:27・25:14（パウロを囚人のまま残す）、第一テサロニケ3:1、ルカ10:40（私だけ残して）、ヨハネ8:9（イエスだけが残された）、ルカ15:4（九十九を残す）、ローマ11:4（自分のために残した）、ヘブル4:1（約束が残っている）。語義1との境界は連続的。"
+  },
+  {
+   "id": "3",
+   "label": "後に遺す／子孫を残す",
+   "label_en": "to leave at death / leave offspring",
+   "label_es": "dejar al morir / dejar descendencia",
+   "label_sv": "att efterlämna / lämna avkomma efter sig",
+   "def": "死に際して、妻・子（子孫）を後に残して死ぬ。死後に残される者について述べる。",
+   "def_en": "To die leaving behind a wife or children (offspring). Stated of those who remain after death.",
+   "def_es": "Morir dejando mujer e hijos (descendencia). Se dice de quienes quedan después de la muerte.",
+   "def_sv": "Att dö och lämna hustru eller barn (avkomma) efter sig. Sägs om dem som blir kvar efter döden.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "サドカイ人の質問（マルコ12:19・21、ルカ20:31）。教父の代表例にヘルマス3.12.2（遺産が残された）の並行がある。LXXの代表例では、この死別の文脈は確認できない（総件数だけでは attested にしていない）。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40004013002": "1",
+  "n40016004018": "1",
+  "n40019005005": "1",
+  "n40021017002": "1",
+  "n41010007003": "1",
+  "n41012019011": "3",
+  "n41012021009": "3",
+  "n41014052003": "1",
+  "n42005028002": "1",
+  "n42010040021": "2",
+  "n42015004014": "2",
+  "n42020031012": "3",
+  "n43008009018": "2",
+  "n44006002014": "1",
+  "n44018019006": "2",
+  "n44021003006": "1",
+  "n44024027018": "2",
+  "n44025014020": "2",
+  "n45011004007": "2",
+  "n49005031003": "1",
+  "n52003001005": "2",
+  "n58004001004": "2",
+  "n58011027002": "1",
+  "n61002015001": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "代表例の範囲で新約に無い用法は見当たらない。"
+}

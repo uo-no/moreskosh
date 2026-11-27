@@ -1,0 +1,71 @@
+{
+ "lemma": "μηκέτι",
+ "lemmaId": "grc:G3371",
+ "strong": "G3371",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "もはや〜するな／〜しないように（命令・願望・目的の否定）",
+   "label_en": "no longer do … / so as no longer to (negating command, wish, purpose)",
+   "label_es": "no … más / para que ya no (negación de mandato, deseo, propósito)",
+   "label_sv": "gör inte längre … / för att inte längre (negerar befallning, önskan, syfte)",
+   "def": "命令法・願望法・接続法（ἵνα μηκέτι）とともに、『もはや〜するな』『もはや〜しないように』を表す。",
+   "def_en": "With the imperative, optative, or subjunctive (ἵνα μηκέτι): “do not … any longer”, “that … no longer”.",
+   "def_es": "Con imperativo, optativo o subjuntivo (ἵνα μηκέτι): «no … más», «para que ya no …».",
+   "def_sv": "Med imperativ, optativ eller konjunktiv (ἵνα μηκέτι): ”gör inte längre …”, ”för att inte längre …”.",
+   "layers": {
+    "nt": 11,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ヨハネ5:14・8:11（もう罪を犯すな）、ルカ8:49、エペソ4:28（もう盗むな）・4:14、Ⅰテモ5:23、ローマ14:13、マルコ9:25・11:14、マタイ21:19（οὐ μηκέτι）、Ⅱコリ5:15。LXX・教父（ヘルマス3.8.9）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "もはや〜ない（事実・継続の否定）",
+   "label_en": "no longer (negating fact or continuation)",
+   "label_es": "ya no (negación de un hecho o de su continuidad)",
+   "label_sv": "inte längre (negerar faktum eller fortsättning)",
+   "def": "不定詞・分詞・直説法とともに、『もはや〜ない』、事態がこれ以上続かないことを表す。",
+   "def_en": "With the infinitive, participle, or indicative: “no longer …”, the state of affairs does not continue.",
+   "def_es": "Con infinitivo, participio o indicativo: «ya no …», la situación no continúa más.",
+   "def_sv": "Med infinitiv, particip eller indikativ: ”inte längre …”, förhållandet fortsätter inte.",
+   "layers": {
+    "nt": 11,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "マルコ1:45・2:2、使徒4:17・13:34・25:24、ローマ6:6・15:23、エペソ4:17、Ⅰペテロ4:2、Ⅰテサ3:1・5。語義1との境界は法（命令か否か）による連続的な区分。LXX・教父に並行。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40021019023": "1",
+  "n41001045012": "2",
+  "n41002002005": "2",
+  "n41009025027": "1",
+  "n41011014005": "1",
+  "n42008049015": "1",
+  "n43005014016": "1",
+  "n43008011016": "1",
+  "n44004017012": "2",
+  "n44013034007": "2",
+  "n44025024034": "2",
+  "n45006006016": "2",
+  "n45014013001": "1",
+  "n45015023003": "2",
+  "n47005015008": "1",
+  "n49004014002": "1",
+  "n49004017008": "2",
+  "n49004028003": "1",
+  "n52003001002": "2",
+  "n52003005004": "2",
+  "n54005023001": "1",
+  "n60004002003": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

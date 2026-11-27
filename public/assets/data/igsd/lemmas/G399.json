@@ -1,0 +1,76 @@
+{
+ "lemma": "ἀναφέρω",
+ "lemmaId": "grc:G399",
+ "strong": "G399",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "ささげる／献げる",
+   "label_en": "to offer up",
+   "label_es": "ofrecer (en sacrificio)",
+   "label_sv": "att frambära (som offer)",
+   "def": "ささげる、献げる。『霊のいけにえをささげ』『賛美のいけにえをささげよう』『民の罪のために』『自分自身をささげて』『イサクを祭壇にささげたとき』。",
+   "def_en": "To offer, to present as sacrifice: “to offer spiritual sacrifices”, “let us offer a sacrifice of praise”, “for the sins of the people”, “offered up himself”, “when he offered up Isaac on the altar”.",
+   "def_es": "Ofrecer, presentar: «ofrecer sacrificios espirituales», «ofrezcamos sacrificio de alabanza», «por los pecados del pueblo», «ofreciéndose a sí mismo», «cuando ofreció a su hijo Isaac sobre el altar».",
+   "def_sv": "Att offra och frambära: ”frambära andliga offer”, ”låt oss frambära lovets offer”, ”för folkets synder”, ”offrade sig själv”, ”när han frambar Isak på altaret”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰペテロ2:5、ヘブル13:15・7:27（2回）、ヤコブ2:21。LXX レビ記6:19・歴代誌下29:27、教父（16.12）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "負う（罪を）",
+   "label_en": "to bear (sins)",
+   "label_es": "llevar (pecados)",
+   "label_sv": "att bära (synder)",
+   "def": "負う、担う。『自らその身に私たちの罪を負い』『多くの人の罪を負うために』。",
+   "def_en": "To bear, to carry: “he himself bore our sins in his body”, “to bear the sins of many”.",
+   "def_es": "Cargar, llevar: «él mismo llevó nuestros pecados en su cuerpo», «para llevar los pecados de muchos».",
+   "def_sv": "Att bära och ta på sig: ”han bar själv våra synder i sin kropp”, ”för att bära de mångas synder”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰペテロ2:24、ヘブル9:28。LXX イザヤ53:12、教父（16.12）に並行。語義1との境界は連続的。"
+  },
+  {
+   "id": "3",
+   "label": "連れて上る／運び上げる",
+   "label_en": "to lead up / bring up",
+   "label_es": "llevar arriba / subir",
+   "label_sv": "att föra upp",
+   "def": "連れて上る、運び上げる。『高い山に連れて行かれ』『天に上げられた』。",
+   "def_en": "To lead up, to carry up: “led them up a high mountain”, “was carried up into heaven”.",
+   "def_es": "Hacer subir, llevar arriba: «los llevó aparte a un monte alto», «fue llevado arriba al cielo».",
+   "def_sv": "Att ta med upp, lyfta upp: ”förde dem upp på ett högt berg”, ”togs upp till himlen”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "マタイ17:1、マルコ9:2、ルカ24:51。LXX・教父（1.9.1）に並行。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40017001018": "3",
+  "n41009002016": "3",
+  "n42024051012": "3",
+  "n58007027016": "1",
+  "n58007027026": "1",
+  "n58009028010": "2",
+  "n58013015004": "1",
+  "n59002021009": "1",
+  "n60002005012": "1",
+  "n60002024006": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（ささげる／負う／連れて上る）による。"
+}

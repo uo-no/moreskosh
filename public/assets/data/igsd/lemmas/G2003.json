@@ -1,0 +1,55 @@
+{
+ "lemma": "ἐπιταγή",
+ "lemmaId": "grc:G2003",
+ "strong": "G2003",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "命令・指示",
+   "label_en": "command, instruction",
+   "label_es": "mandamiento, orden",
+   "label_sv": "befallning, föreskrift",
+   "def": "命令、指示。『命令ではなく許しとして』『主の命令は受けていない』『命令として言うのではない』『神の命令による使徒』『永遠の神の命令に従って』。",
+   "def_en": "A command, an instruction: “as a concession, not a command”, “I have no command of the Lord”, “I do not say this as a command”, “an apostle by the command of God”, “according to the command of the eternal God”.",
+   "def_es": "Orden, mandato: «como concesión, no como mandamiento», «no tengo mandamiento del Señor», «no hablo como quien manda», «apóstol por mandato de Dios», «según el mandamiento del Dios eterno».",
+   "def_sv": "Befallning, anvisning: ”som ett medgivande, inte som en befallning”, ”jag har ingen befallning från Herren”, ”jag säger inte detta som en befallning”, ”apostel på Guds befallning”, ”på den evige Gudens befallning”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "コリント第一7:6・7:25、コリント第二8:8、テモテ第一1:1、テトス1:3。LXX（19.6・1.16）に並行。教父の代表例では確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "権威",
+   "label_en": "authority",
+   "label_es": "autoridad",
+   "label_sv": "myndighet",
+   "def": "権威をもって、命令の力をもって。『あらゆる権威をもって』。",
+   "def_en": "With authority, with the force of command: “with all authority”.",
+   "def_es": "Con autoridad, con la fuerza del mandato: «con toda autoridad».",
+   "def_sv": "Med myndighet, med befallningens kraft: ”med all myndighet”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "テトス2:15。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n46007006008": "1",
+  "n46007025005": "1",
+  "n47008008003": "1",
+  "n54001001006": "1",
+  "n56001003014": "1",
+  "n56002015009": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（命令／権威）による。"
+}

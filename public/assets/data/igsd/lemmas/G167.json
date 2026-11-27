@@ -1,0 +1,59 @@
+{
+ "lemma": "ἀκαθαρσία",
+ "lemmaId": "grc:G167",
+ "strong": "G167",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "不潔（道徳的）",
+   "label_en": "impurity (moral)",
+   "label_es": "inmundicia (moral)",
+   "label_sv": "orenhet (moralisk)",
+   "def": "道徳的な汚れ、不潔、不品行。『汚れた心で』『聖なるものとして召されたのであって、汚れを行うためではない』『不潔・みだらな行い』『汚れにまかせ』『不品行、汚れ』『あらゆる汚れをむさぼり』。",
+   "def_en": "Moral defilement, impurity, immorality: “out of an impure heart”, “God has not called us for impurity but in holiness”, “impurity and sensuality”, “gave them up to impurity”, “immorality and impurity”, “greedy to practise every kind of impurity”.",
+   "def_es": "Mancha moral, impureza, desenfreno: «de corazón impuro», «no nos ha llamado Dios a inmundicia, sino a santificación», «inmundicia y lascivia», «los entregó a la inmundicia», «fornicación, inmundicia», «cometer con avidez toda clase de impureza».",
+   "def_sv": "Moralisk orenhet, osedlighet: ”av orent uppsåt”, ”Gud har inte kallat oss till orenhet utan till helighet”, ”orenhet och utsvävningar”, ”utlämnade dem åt orenhet”, ”otukt och orenhet”, ”girigt bedriva all slags orenhet”.",
+   "layers": {
+    "nt": 9,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰテサ2:3・4:7、Ⅱコリ12:21、コロサイ3:5、エペソ4:19・5:3、ガラテヤ5:19、ローマ1:24・6:19。LXX 民数記15:3・エゼキエル36:17、教父（19.4、10.8）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "汚れ（物理的）",
+   "label_en": "uncleanness (physical)",
+   "label_es": "suciedad (física)",
+   "label_sv": "orenlighet (fysisk)",
+   "def": "物理的な汚れ。『死人の骨とあらゆる汚れ』（マタイ23:27）。",
+   "def_en": "Physical filth: “dead people's bones and all uncleanness” (Matt 23:27).",
+   "def_es": "Inmundicia material: «huesos de muertos y toda inmundicia» (Mt 23:27).",
+   "def_sv": "Fysisk smuts: ”de dödas ben och allt slags orenhet” (Matt 23:27).",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マタイ23:27 の1例のみ。LXX 代表例に並行。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40023027023": "2",
+  "n45001024013": "1",
+  "n45006019017": "1",
+  "n47012021022": "1",
+  "n48005019011": "1",
+  "n49004019009": "1",
+  "n49005003004": "1",
+  "n51003005010": "1",
+  "n52002003010": "1",
+  "n52004007008": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（道徳的／物理的）による。"
+}

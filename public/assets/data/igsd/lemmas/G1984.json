@@ -1,0 +1,53 @@
+{
+ "lemma": "ἐπισκοπή",
+ "lemmaId": "grc:G1984",
+ "strong": "G1984",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "訪れ・顧み",
+   "label_en": "visitation",
+   "label_es": "visitación",
+   "label_sv": "besökelse",
+   "def": "神の訪れ、顧み。『神が訪れる日に』『訪れの時』。",
+   "def_en": "God’s visitation, God’s attentive care: “on the day God visits”, “the time of visitation”.",
+   "def_es": "La visita de Dios, su atención: «en el día en que Dios los visite», «el tiempo de la visitación».",
+   "def_sv": "Guds besökelse, Guds omsorg: ”den dag då Gud besöker dem”, ”tiden då du blev besökt”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ペテロ第一2:12、ルカ19:44。LXX に並行。教父の代表例は用法の対応が確認できず、確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "監督の職務",
+   "label_en": "office of overseer",
+   "label_es": "cargo de supervisor, obispado",
+   "label_sv": "föreståndarämbete",
+   "def": "監督の職務、務め。『監督の職を望む』『その職は他人に取らせよ』。",
+   "def_en": "The office or duty of an overseer: “desires the office of overseer”, “let another take his position”.",
+   "def_es": "El oficio y ministerio del que supervisa: «si alguno anhela obispado», «tome otro su oficio».",
+   "def_sv": "Tillsyningsmannens ämbete och uppgift: ”vill ha uppdraget som församlingsföreståndare”, ”låt en annan få hans uppdrag”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "テモテ第一3:1、使徒1:20。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42019044025": "1",
+  "n44001020020": "2",
+  "n54003001006": "2",
+  "n60002012026": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（訪れ／監督の職務）による。"
+}

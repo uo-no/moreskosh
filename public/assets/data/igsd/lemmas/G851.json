@@ -1,0 +1,59 @@
+{
+ "lemma": "ἀφαιρέω",
+ "lemmaId": "grc:G851",
+ "strong": "G851",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "取り除く／奪う",
+   "label_en": "to take away / remove",
+   "label_es": "quitar / arrebatar",
+   "label_sv": "att ta bort / ta ifrån",
+   "def": "取り除く、取り去る、奪う。『罪を除くことはできない』『彼女から取り去られることはない』『管理の務めをわたしから取り上げる』『わたしの恥を取り除いて』『この書の預言のことばから取り除くなら』『彼らの罪を取り除く』。",
+   "def_en": "To take away, remove, deprive of: “cannot take away sins”, “will not be taken away from her”, “is taking the management away from me”, “to take away my reproach”, “if anyone takes away from the words of the book of this prophecy”, “when I take away their sins”.",
+   "def_es": "Quitar, apartar, privar: «no puede quitar los pecados», «no le será quitada», «me quita la mayordomía», «para quitar mi afrenta», «si alguno quitare de las palabras del libro de esta profecía», «cuando yo quite sus pecados».",
+   "def_sv": "Att avlägsna, ta ifrån: ”kan inte ta bort synder”, ”ska inte tas ifrån henne”, ”tar ifrån mig förvaltningen”, ”ta bort min skam”, ”om någon tar bort något av orden i denna boks profetia”, ”när jag tar bort deras synder”.",
+   "layers": {
+    "nt": 7,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ヘブル10:4、ルカ10:42・16:3・1:25、黙示録22:19（2回）、ローマ11:27。LXX 申命記・イザヤ、教父（19.11、8.4）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "切り落とす",
+   "label_en": "to cut off",
+   "label_es": "cortar",
+   "label_sv": "att hugga av",
+   "def": "切り落とす、切り離す。『その耳を切り落とした』『右の耳を切り落とした』。",
+   "def_en": "To cut off, to sever: “cut off his ear”, “cut off his right ear”.",
+   "def_es": "Cortar, separar: «le cortó la oreja», «le cortó la oreja derecha».",
+   "def_sv": "Att skära eller hugga av: ”högg av örat på honom”, ”högg av hans högra öra”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ルカ22:50、マタイ26:51、マルコ14:47。語義1との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40026051020": "2",
+  "n41014047015": "2",
+  "n42001025010": "1",
+  "n42010042015": "1",
+  "n42016003013": "1",
+  "n42022050012": "2",
+  "n45011027009": "1",
+  "n58010004007": "1",
+  "n66022019004": "1",
+  "n66022019013": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（取り除く／切り落とす）による。"
+}

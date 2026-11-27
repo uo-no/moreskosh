@@ -1,0 +1,51 @@
+{
+ "lemma": "τελείωσις",
+ "lemmaId": "grc:G5050",
+ "strong": "G5050",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "完全にすること",
+   "label_en": "perfecting",
+   "label_es": "perfección",
+   "label_sv": "fullkomnande",
+   "def": "完全にすること、完成。『もし完全にされるのが』。",
+   "def_en": "Making perfect, completion: “if perfection could have been attained …”.",
+   "def_es": "El perfeccionar, consumación: «si la perfección fuera …».",
+   "def_sv": "Att göra fullkomlig: ”om fullkomningen hade …”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヘブル7:11。LXX の代表例は祭司任職の用法で、この用法は確認していない。教父の用例なし。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "成就",
+   "label_en": "fulfillment",
+   "label_es": "cumplimiento",
+   "label_sv": "fullbordan",
+   "def": "成就、実現。『語られたことが成就する』。",
+   "def_en": "Accomplishment, realization: “there will be a fulfilment of what was spoken”.",
+   "def_es": "Realización: «se cumplirá lo que le fue dicho».",
+   "def_sv": "Uppfyllelse: ”det som sagts skall gå i uppfyllelse”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ルカ1:45。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42001045007": "2",
+  "n58007011004": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（完全にすること／成就）による。"
+}

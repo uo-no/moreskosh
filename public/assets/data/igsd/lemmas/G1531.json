@@ -1,0 +1,84 @@
+{
+ "lemma": "εἰσπορεύομαι",
+ "lemmaId": "grc:G1531",
+ "strong": "G1531",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "入る（人が・場所へ）",
+   "label_en": "to enter (a person into a place)",
+   "label_es": "entrar (una persona en un lugar)",
+   "label_sv": "att gå in (människa till en plats)",
+   "def": "人が場所・家・町・会堂へ入る、入って行く。『そこに入ると』『家から家へ入って』。",
+   "def_en": "A person enters or goes into a place, house, town, or synagogue: “on entering there”, “going in from house to house”.",
+   "def_es": "Una persona entra en un lugar, casa, pueblo o sinagoga: «al entrar allí», «entrando de casa en casa».",
+   "def_sv": "En människa går in på en plats, i ett hus, en stad eller synagoga: ”när ni kommer in där”, ”gå in i hus efter hus”.",
+   "layers": {
+    "nt": 13,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マルコ1:21・5:40・6:56・11:2、ルカ8:16・11:33（入る者に光が見えるように）・18:24（神の国に入る）・19:30・22:10、使徒3:2・8:3（家々に入って）・9:28・28:30。LXX に並行。教父の代表例では確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "（食物・物が）入る",
+   "label_en": "to go in (food, things)",
+   "label_es": "entrar (alimentos, cosas)",
+   "label_sv": "att gå in (mat, ting)",
+   "def": "口から入るもの、人の中に入り込むもの。『口に入るものは人を汚さない』。",
+   "def_en": "What goes in through the mouth, gets into a person: “what goes into the mouth does not defile”.",
+   "def_es": "Lo que entra por la boca, lo que penetra en la persona: «lo que entra en la boca no contamina».",
+   "def_sv": "Det som går in genom munnen och tränger in i människan: ”det som går in i munnen orenar inte”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ15:17、マルコ7:15・18・19（腹に入り、排出される）。語義1との境界は連続的（主語が人か物か）。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "（欲望が）入り込む",
+   "label_en": "to come in (desires)",
+   "label_es": "entrar (deseos)",
+   "label_sv": "att tränga in (begär)",
+   "def": "欲望・世の思い煩いが人の心に入り込む。",
+   "def_en": "Desires and the cares of the world enter a person's heart.",
+   "def_es": "Los deseos y las preocupaciones del mundo se introducen en el corazón.",
+   "def_sv": "Begär och världsliga bekymmer tränger in i människans hjärta.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マルコ4:19（ほかの欲望が入り込んで、みことばをふさぐ）の1例のみ。語義1・2 との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40015017006": "2",
+  "n41001021002": "1",
+  "n41004019017": "3",
+  "n41005040021": "1",
+  "n41006056004": "1",
+  "n41007015006": "2",
+  "n41007018015": "2",
+  "n41007019003": "2",
+  "n41011002013": "1",
+  "n42008016018": "1",
+  "n42011033017": "1",
+  "n42018024018": "1",
+  "n42019030009": "1",
+  "n42022010024": "1",
+  "n44003002028": "1",
+  "n44008003009": "1",
+  "n44009028005": "1",
+  "n44028030012": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

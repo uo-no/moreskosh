@@ -1,0 +1,57 @@
+{
+ "lemma": "ἄφθαρτος",
+ "lemmaId": "grc:G862",
+ "strong": "G862",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "朽ちない（物・事柄）",
+   "label_en": "imperishable (things, matters)",
+   "label_es": "incorruptible (cosas)",
+   "label_sv": "oförgänglig (ting, saker)",
+   "def": "朽ちることがない（冠・財産・種・飾り・しるしについて）。『朽ちない冠を得るために』『朽ちない、汚れのない、しぼむことのない財産』『朽ちない種から』『朽ちない美しさで』『永遠の救いの朽ちないしるし』。",
+   "def_en": "Not perishing (of a crown, inheritance, seed, adornment, sign): “to receive an imperishable crown”, “an inheritance imperishable, undefiled, and unfading”, “of imperishable seed”, “the imperishable beauty”, “the imperishable proclamation of eternal salvation”.",
+   "def_es": "Que no se corrompe (corona, herencia, simiente, atavío, señal): «para recibir una corona incorruptible», «una herencia incorruptible, incontaminada e inmarcesible», «de simiente incorruptible», «el incorruptible ornato», «la proclamación incorruptible de la salvación eterna».",
+   "def_sv": "Som inte förgås (om krans, arv, säd, prydnad, tecken): ”för att få en oförgänglig segerkrans”, ”ett arv som inte kan förstöras, fläckas eller vissna”, ”av en oförgänglig säd”, ”den oförgängliga skönheten”, ”det oförgängliga budskapet om evig frälsning”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "コリント第一9:25、ペテロ第一1:4・1:23・3:4、マルコ16:8。教父（19.8）に並行。LXX の代表例（12.1・18.4）は霊・光の用法で、この語義としては確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "朽ちない（人・神）",
+   "label_en": "imperishable (persons, God)",
+   "label_es": "incorruptible (personas, Dios)",
+   "label_sv": "oförgänglig (människor, Gud)",
+   "def": "人または神について、朽ちない、不死の。『死人は朽ちないものとして復活し』『朽ちない神の栄光』『朽ちない、見えない唯一の神』。",
+   "def_en": "Of persons or God, imperishable, immortal: “the dead will be raised imperishable”, “the glory of the immortal God”, “the immortal, invisible, only God”.",
+   "def_es": "De las personas o de Dios, incorruptible, inmortal: «los muertos serán resucitados incorruptibles», «la gloria del Dios incorruptible», «inmortal, invisible, único Dios».",
+   "def_sv": "Om människor eller Gud, odödlig: ”de döda ska uppstå oförgängliga”, ”den oförgänglige Gudens härlighet”, ”den oförgänglige, osynlige, ende Guden”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "コリント第一15:52、ローマ1:23、テモテ第一1:17。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n41016008047": "1",
+  "n45001023006": "2",
+  "n46009025016": "1",
+  "n46015052016": "2",
+  "n54001017006": "2",
+  "n60001004003": "1",
+  "n60001023007": "1",
+  "n60003004009": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "LXX の代表例（知恵12:1 の霊、18:4 の光）は用法の対応が確認できず、いずれも「なし」とする。語義区分は対象（物・事柄／人・神）による。"
+}

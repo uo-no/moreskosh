@@ -1,0 +1,53 @@
+{
+ "lemma": "συγκλείω",
+ "lemmaId": "grc:G4788",
+ "strong": "G4788",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "閉じ込める・拘束する",
+   "label_en": "to shut up, to confine",
+   "label_es": "encerrar",
+   "label_sv": "att innesluta",
+   "def": "閉じ込める、拘束する。『聖書は…すべてのものを罪の下に閉じ込めた』『閉じ込められていた』『すべての人を不従順のうちに閉じ込められた』。",
+   "def_en": "To shut in, to confine: “Scripture … shut up everything under sin”, “were shut in”, “has shut up all people in disobedience”.",
+   "def_es": "Encerrar, tener recluido: «la Escritura … lo encerró todo bajo pecado», «estábamos encerrados», «sujetó a todos en desobediencia».",
+   "def_sv": "Att stänga in, att hålla fången: ”Skriften … har inneslutit allt under synden”, ”var inneslutna”, ”har inneslutit alla i olydnad”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ガラテヤ3:22・3:23、ローマ11:32。LXX に並行。教父の用例なし。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "取り囲む（魚を）",
+   "label_en": "to enclose (fish)",
+   "label_es": "encerrar (peces)",
+   "label_sv": "att stänga in (fisk)",
+   "def": "取り囲む、囲い込む。『おびただしい魚の群れを囲み入れた』。",
+   "def_en": "To surround, to enclose: “enclosed a great shoal of fish”.",
+   "def_es": "Rodear, atrapar dentro: «encerraron gran cantidad de peces».",
+   "def_sv": "Att omringa, att fånga in: ”fångade in en stor mängd fisk”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ルカ5:6。LXX に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42005006004": "2",
+  "n45011032001": "1",
+  "n48003022002": "1",
+  "n48003023010": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（閉じ込める／取り囲む）による。"
+}

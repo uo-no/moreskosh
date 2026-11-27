@@ -1,0 +1,61 @@
+{
+ "lemma": "ὑγιαίνω",
+ "lemmaId": "grc:G5198",
+ "strong": "G5198",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "健やかである／元気である",
+   "label_en": "to be well / in good health",
+   "label_es": "estar sano / bien de salud",
+   "label_sv": "att vara frisk / må väl",
+   "def": "健康である、元気である、無事である。『医者を必要とするのは丈夫な者ではない』『僕が元気になっているのを見つけた』『無事な姿で迎えた』『あなたが健康であるように』。",
+   "def_en": "To be healthy, well, safe: “those who are well have no need of a physician”, “found the servant well”, “has received him back safe and sound”, “that you may be in good health”.",
+   "def_es": "Tener salud, estar bien, a salvo: «los que están sanos no tienen necesidad de médico», «hallaron sano al siervo», «haberlo recibido bueno y sano», «que tengas salud».",
+   "def_sv": "Att vara frisk, må bra, vara oskadd: ”det är inte de friska som behöver läkare”, ”fann tjänaren frisk”, ”fått honom välbehållen tillbaka”, ”att du får vara frisk”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "Ⅲヨハネ2、ルカ15:27・5:31・7:10。LXX 創世記43:27・列王記 に並行。教父の用例は無い。"
+  },
+  {
+   "id": "2",
+   "label": "健全である（教え・信仰が）",
+   "label_en": "to be sound (teaching, faith)",
+   "label_es": "ser sano (doctrina, fe)",
+   "label_sv": "att vara sund (lära, tro)",
+   "def": "健全である。『健全な教え』『健全な言葉』『信仰において健全であり』『健全な教えに耐えられず』。",
+   "def_en": "To be sound: “sound doctrine”, “sound words”, “be sound in faith”, “will not endure sound teaching”.",
+   "def_es": "Ser sano: «la sana doctrina», «las sanas palabras», «sanos en la fe», «no sufrirán la sana doctrina».",
+   "def_sv": "Att vara sund: ”den sunda läran”, ”sunda ord”, ”sunda i tron”, ”inte stå ut med den sunda läran”.",
+   "layers": {
+    "nt": 8,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "Ⅰテモ1:10・6:3、Ⅱテモ1:13・4:3、テトス2:1・2:2・1:9・1:13。語義1との境界は連続的（牧会書簡の用法）。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42005031012": "1",
+  "n42007010011": "1",
+  "n42015027020": "1",
+  "n54001010011": "2",
+  "n54006003007": "2",
+  "n55001013003": "2",
+  "n55004003006": "2",
+  "n56001009017": "2",
+  "n56001013013": "2",
+  "n56002001007": "2",
+  "n56002002006": "2",
+  "n64001002008": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（健康／健全な教え）による。教父の用例は無い。"
+}

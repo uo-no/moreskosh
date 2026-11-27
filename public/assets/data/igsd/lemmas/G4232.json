@@ -1,0 +1,57 @@
+{
+ "lemma": "πραιτώριον",
+ "lemmaId": "grc:G4232",
+ "strong": "G4232",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "総督官邸",
+   "label_en": "governor's residence / praetorium",
+   "label_es": "pretorio",
+   "label_sv": "residens (pretoriet)",
+   "def": "総督の官邸、官邸。『総督の兵士たちはイエスを官邸に連れて行き』『兵士たちは官邸の中庭に』『彼らはイエスを官邸に連れて行った』『総督は官邸に入り』『再び官邸にはいり』『ヘロデの官邸に』。",
+   "def_en": "The governor's residence, headquarters: “the governor's soldiers took Jesus into the praetorium”, “the soldiers … into the courtyard of the residence”, “they led Jesus to the governor's headquarters”, “the governor entered the headquarters”, “entered the headquarters again”, “in Herod's praetorium”.",
+   "def_es": "La residencia del gobernador: «los soldados del gobernador llevaron a Jesús al pretorio», «los soldados le llevaron dentro del atrio», «llevaron a Jesús al pretorio», «el gobernador entró en el pretorio», «volvió a entrar en el pretorio», «en el pretorio de Herodes».",
+   "def_sv": "Ståthållarens residens: ”ståthållarens soldater tog med Jesus till residenset”, ”soldaterna förde honom in på gården”, ”de förde Jesus till residenset”, ”ståthållaren gick in i residenset”, ”gick åter in i residenset”, ”i Herodes residens”.",
+   "layers": {
+    "nt": 7,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ27:27、マルコ15:16、ヨハネ18:28（2回）・18:33・19:9、使徒23:35。LXX・教父の用例なし。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "親衛隊（または官邸）（解釈が分かれる）",
+   "label_en": "imperial guard (or residence) (disputed)",
+   "label_es": "guardia pretoriana (o residencia) (discutido)",
+   "label_sv": "pretoriangardet (eller residenset) (omtvistat)",
+   "def": "『わたしの捕われているのはキリストのためであると、親衛隊全員にも』。",
+   "def_en": "“It has become known throughout the whole praetorian guard that my imprisonment is for Christ.”",
+   "def_es": "«Mis prisiones se han hecho patentes en Cristo en todo el pretorio».",
+   "def_sv": "”Det har blivit känt för hela pretoriangardet att det är för Kristi skull jag är fängslad.”",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ピリピ1:13。「親衛隊」か「官邸」かの解釈は争われており決定しない。語義1との境界は連続的。LXX・教父の用例なし。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40027027011": "1",
+  "n41015016011": "1",
+  "n43018028010": "1",
+  "n43018028020": "1",
+  "n43018033006": "1",
+  "n43019009005": "1",
+  "n44023035013": "1",
+  "n50001013012": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "LXX・教父の用例なし。ピリピ1:13 は解釈が分かれるため独立させ、決定しない。"
+}

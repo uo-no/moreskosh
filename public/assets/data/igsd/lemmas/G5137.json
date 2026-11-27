@@ -1,0 +1,56 @@
+{
+ "lemma": "τράχηλος",
+ "lemmaId": "grc:G5137",
+ "strong": "G5137",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "首",
+   "label_en": "neck",
+   "label_es": "cuello, cerviz",
+   "label_sv": "hals, nacke",
+   "def": "首、うなじ。『弟子たちの首にくびきを置いて』『パウロの首を抱いて』『父は走り寄り、その首を抱いて』『首にひき臼をかけられて』『首に石臼をつけられて』。",
+   "def_en": "The neck: “putting a yoke on the neck of the disciples”, “embraced Paul”, “his father ran, fell on his neck”, “a millstone hung around his neck”, “a great millstone fastened around his neck”.",
+   "def_es": "Cuello, cerviz: «poniendo un yugo sobre la cerviz de los discípulos», «echándose al cuello de Pablo», «el padre corrió y se echó sobre su cuello», «una piedra de molino colgada al cuello», «una gran piedra de molino atada al cuello».",
+   "def_sv": "Hals, nacke: ”lägga ett ok på lärjungarnas nacke”, ”föll Paulus om halsen”, ”fadern sprang emot honom och föll honom om halsen”, ”en kvarnsten hängd om halsen”, ”få en kvarnsten fäst vid halsen”.",
+   "layers": {
+    "nt": 6,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒15:10・20:37、ルカ15:20・17:2、マタイ18:6、マルコ9:42。LXX（34.2・27.40）、教父（9.5）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "首を差し出す（慣用）",
+   "label_en": "to risk one’s neck (idiom)",
+   "label_es": "exponer el cuello (modismo)",
+   "label_sv": "att våga sin hals (idiom)",
+   "def": "命を危険にさらす意の慣用表現。『わたしの命のために自分の首を差し出した人たち』。",
+   "def_en": "An idiom meaning to put one’s life at risk: “who risked their own necks for my life”.",
+   "def_es": "Expresión idiomática por arriesgar la vida: «que expusieron su cuello por mi vida».",
+   "def_sv": "Ett idiomatiskt uttryck för att sätta livet på spel: ”som har vågat sina liv för mig”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ローマ16:4。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40018006021": "1",
+  "n41009042023": "1",
+  "n42015020025": "1",
+  "n42017002009": "1",
+  "n44015010011": "1",
+  "n44020037010": "1",
+  "n45016004008": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（首／慣用句）による。"
+}

@@ -1,0 +1,55 @@
+{
+ "lemma": "περιάγω",
+ "lemmaId": "grc:G4013",
+ "strong": "G4013",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "巡り歩く・歩き回る",
+   "label_en": "to go about",
+   "label_es": "recorrer, andar de un lado a otro",
+   "label_sv": "att gå omkring",
+   "def": "巡り歩く、あちこち行く。『手を引いてくれる人を捜し回った』『町々村々を巡って』『町々村々をことごとく巡って』『村々を巡り歩いて教えられた』『海と陸とを巡り歩き』。",
+   "def_en": "To go around, to move here and there: “he went about seeking someone to lead him by the hand”, “going about the towns and villages”, “went through all the towns and villages”, “went about the villages teaching”, “you cross sea and land”.",
+   "def_es": "Ir de aquí para allá: «andaba buscando quien le condujese de la mano», «recorriendo las ciudades y aldeas», «recorría todas las ciudades y aldeas», «recorría las aldeas enseñando», «recorréis mar y tierra».",
+   "def_sv": "Att vandra runt, att dra hit och dit: ”gick omkring och sökte någon som kunde leda honom vid handen”, ”vandrade omkring i städer och byar”, ”gick omkring i alla städer och byar”, ”gick runt i byarna och undervisade”, ”ni far över land och hav”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒13:11、マタイ4:23・9:35・23:15、マルコ6:6。語義2との境界は連続的。LXX・教父の代表例は「連れ回す」の用法で、この語義としては確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "連れ歩く",
+   "label_en": "to take along",
+   "label_es": "llevar consigo",
+   "label_sv": "att föra med sig",
+   "def": "人を連れて歩く、伴う。『信者である妻を連れて歩く権利がないのか』。",
+   "def_en": "To lead a person about, to be accompanied by: “do we not have the right to take along a believing wife”.",
+   "def_es": "Traer a alguien consigo, hacerse acompañar: «¿no tenemos derecho de traer con nosotros una esposa creyente?».",
+   "def_sv": "Att ha någon med sig, att låta följa med: ”har vi inte rätt att föra med oss en troende hustru”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "コリント第一9:5。LXX（37.2）に並行（「連れ回す」の用法）。教父の代表例では確認していない。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40004023002": "1",
+  "n40009035002": "1",
+  "n40023015008": "1",
+  "n41006006008": "1",
+  "n44013011026": "1",
+  "n46009005007": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（巡り歩く／連れ歩く）による。"
+}

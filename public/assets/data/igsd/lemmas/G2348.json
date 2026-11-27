@@ -1,0 +1,58 @@
+{
+ "lemma": "θνῄσκω",
+ "lemmaId": "grc:G2348",
+ "strong": "G2348",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "死んでいる（完了形）",
+   "label_en": "to be dead (perfect)",
+   "label_es": "estar muerto (perfecto)",
+   "label_sv": "att vara död (perfekt)",
+   "def": "死んでいる、すでに死んだ。『死んでしまったと思って』『死んだと主張している』『死んでいたラザロ』『すでに死んだのを見て』『死んだ人が運び出された』『お嬢さんはなくなりました』『子供のいのちをねらっていた者たちは死んだ』『死んでからもう久しい』。",
+   "def_en": "To be dead, to have died: “supposing he was dead”, “asserted to be alive though he had died”, “Lazarus who had died”, “saw that he was already dead”, “a dead man was being carried out”, “your daughter is dead”, “those who sought the child's life are dead”, “already dead a long time”.",
+   "def_es": "Estar muerto, haber muerto ya: «pensando que estaba muerto», «un cierto Jesús, ya muerto», «Lázaro, el que había estado muerto», «viendo que ya estaba muerto», «llevaban a enterrar a un difunto», «tu hija ha muerto», «han muerto los que procuraban la muerte del niño», «si ya había muerto hacía tiempo».",
+   "def_sv": "Att vara död, redan ha dött: ”i tron att han var död”, ”en viss Jesus som var död”, ”Lasarus som hade varit död”, ”såg att han redan var död”, ”en död bars ut”, ”din dotter är död”, ”de som ville ta barnets liv är döda”, ”om han redan länge varit död”.",
+   "layers": {
+    "nt": 8,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒14:19・25:19、ヨハネ11:44・19:33、ルカ7:12・8:49、マタイ2:20、マルコ15:44。LXX 列王記上3:23・12:18、教父（25.7.1、26.21.2）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "（霊的に）死んでいる",
+   "label_en": "to be (spiritually) dead",
+   "label_es": "estar muerto (espiritualmente)",
+   "label_sv": "att vara (andligen) död",
+   "def": "霊的に死んでいる。『わがままに暮らす女は、生きていても死んでいる』（Ⅰテモ5:6）。",
+   "def_en": "To be spiritually dead: “she who is self-indulgent is dead even while she lives” (1 Tim 5:6).",
+   "def_es": "Estar muerto en lo espiritual: «la que se entrega a los placeres, viviendo está muerta» (1 Ti 5:6).",
+   "def_sv": "Att vara andligen död: ”en som lever i njutning är död fast hon lever” (1 Tim 5:6).",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "Ⅰテモ5:6 の1例のみ。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40002020015": "1",
+  "n41015044007": "1",
+  "n42007012011": "1",
+  "n42008049011": "1",
+  "n43011044003": "1",
+  "n43019033010": "1",
+  "n44014019022": "1",
+  "n44025019015": "1",
+  "n54005006005": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（文字どおり／霊的）による。"
+}

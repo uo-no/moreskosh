@@ -1,0 +1,64 @@
+{
+ "lemma": "ἐπαγγέλλομαι",
+ "lemmaId": "grc:G1861",
+ "strong": "G1861",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "約束する",
+   "label_en": "to promise",
+   "label_es": "prometer",
+   "label_sv": "att lova",
+   "def": "約束する、請け合う。『神が約束された永遠のいのち』『約束された方は真実』『約束した（金を与えると）』。",
+   "def_en": "To promise, to undertake: “eternal life that God promised”, “he who promised is faithful”, “promised (to give him money)”.",
+   "def_es": "Prometer, comprometerse: «la vida eterna que Dios prometió», «fiel es el que prometió», «prometieron (darle dinero)».",
+   "def_sv": "Att lova och utfästa: ”det eviga liv som Gud har lovat”, ”den som gav löftet är trofast”, ”lovade (att ge pengar)”.",
+   "layers": {
+    "nt": 13,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰヨハネ2:25、Ⅱペテロ2:19、使徒7:5、ガラテヤ3:19、ヘブル10:23・12:26・6:13・11:11、ヤコブ2:5・1:12、マルコ14:11、ローマ4:21、テトス1:2。LXX Ⅱマカバイ4:27・シラ、教父（22.2.7）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "公言する／自称する",
+   "label_en": "to profess / claim",
+   "label_es": "profesar / pretender",
+   "label_sv": "att bekänna sig till / påstå sig",
+   "def": "公に表明する、自称する。『神を敬うと公言する女たち』『ある人々はそれを公言して』。",
+   "def_en": "To declare publicly, to claim for oneself: “women who profess godliness”, “some by professing it …”.",
+   "def_es": "Declarar en público, atribuirse: «mujeres que profesan piedad», «profesándola algunos …».",
+   "def_sv": "Att offentligt förklara, att göra anspråk på: ”kvinnor som bekänner sig vara gudfruktiga”, ”somliga har gjort anspråk på den …”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "Ⅰテモ2:10・6:21。教父（1.14.2）に並行。LXX の代表例では確認していない。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n41014011006": "1",
+  "n44007005012": "1",
+  "n45004021005": "1",
+  "n48003019015": "1",
+  "n54002010005": "2",
+  "n54006021003": "2",
+  "n56001002006": "1",
+  "n58006013004": "1",
+  "n58010023010": "1",
+  "n58011011018": "1",
+  "n58012026010": "1",
+  "n59001012015": "1",
+  "n59002005021": "1",
+  "n61002019003": "1",
+  "n62002025008": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（約束／公言）による。"
+}

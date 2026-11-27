@@ -1,0 +1,52 @@
+{
+ "lemma": "εὐγενής",
+ "lemmaId": "grc:G2104",
+ "strong": "G2104",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "身分の高い・高貴な",
+   "label_en": "of noble birth",
+   "label_es": "noble",
+   "label_sv": "högättad, förnäm",
+   "def": "身分の高い、家柄のよい。『身分の高い者』『ある身分の高い人』。",
+   "def_en": "Of high rank, well born: “those of noble birth”, “a certain nobleman”.",
+   "def_es": "De alta alcurnia, de buena familia: «los nobles», «un hombre noble».",
+   "def_sv": "Av hög börd, av god familj: ”de av förnäm släkt”, ”en man av förnäm börd”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "コリント第一1:26、ルカ19:12。語義2との境界は連続的。LXX・教父の代表例は副詞形（立派に）の用法で、この語義としては確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "心の広い・素直な",
+   "label_en": "noble-minded, open",
+   "label_es": "de ánimo noble",
+   "label_sv": "ädelsinnad",
+   "def": "心の広い、素直な。『ここの人たちは…素直で』。",
+   "def_en": "Large-hearted, ingenuous: “the people here were … open-minded”.",
+   "def_es": "Generoso y dispuesto a escuchar: «estos eran … de sentimientos nobles».",
+   "def_sv": "Öppen och högsint: ”människorna här var … öppna och uppriktiga”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒17:11。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42019012005": "1",
+  "n44017011004": "2",
+  "n46001026018": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（身分の高さ／心の広さ）による。"
+}

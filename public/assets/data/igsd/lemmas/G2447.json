@@ -1,0 +1,52 @@
+{
+ "lemma": "ἰός",
+ "lemmaId": "grc:G2447",
+ "strong": "G2447",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "毒",
+   "label_en": "poison",
+   "label_es": "veneno",
+   "label_sv": "gift",
+   "def": "毒。『死の毒に満ちている』『まむしの毒』。",
+   "def_en": "Poison: “full of deadly poison”, “the venom of vipers”.",
+   "def_es": "Veneno, ponzoña: «llena de veneno mortal», «veneno de áspides».",
+   "def_sv": "Gift, etter: ”full av dödligt gift”, ”huggormarnas gift”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ヤコブ3:8、ローマ3:13。LXX、教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "さび",
+   "label_en": "rust",
+   "label_es": "herrumbre",
+   "label_sv": "rost",
+   "def": "金属のさび、腐食。『さびは…あなたがたに対する証拠となり』。",
+   "def_en": "The rust on metal, corrosion: “their rust will be evidence against you”.",
+   "def_es": "Óxido del metal, corrosión: «su moho testificará contra vosotros».",
+   "def_sv": "Rost på metall, frätning: ”rosten skall vittna mot er”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ヤコブ5:3。LXX に並行（さびた釜）。教父の代表例では確認していない。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n45003013010": "1",
+  "n59003008011": "1",
+  "n59005003010": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（毒／さび）による。"
+}

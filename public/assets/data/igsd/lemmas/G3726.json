@@ -1,0 +1,41 @@
+{
+ "lemma": "ὁρκίζω",
+ "lemmaId": "grc:G3726",
+ "strong": "G3726",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "誓わせる・厳命する",
+   "label_en": "to adjure",
+   "label_es": "conjurar",
+   "label_sv": "att besvärja",
+   "def": "誓わせる、厳命する。『神にかけて誓う』『主にあって命じる』『神に誓って願う』。テサロニケ第一5:27 は ἐνορκίζω の語形で別レンマの疑いがあり未割当て。",
+   "def_en": "To put under oath, to charge solemnly: “I adjure you by God”, “I charge you in the Lord”, “I implore you before God”. 1 Thessalonians 5:27 has the form ἐνορκίζω, which may be a separate lemma, and is left unassigned.",
+   "def_es": "Hacer jurar, ordenar solemnemente: «te conjuro por Dios», «os conjuro por el Señor», «te ruego bajo juramento por Dios». 1 Tesalonicenses 5:27 tiene la forma ἐνορκίζω, que se sospecha que es otro lema, y queda sin asignar.",
+   "def_sv": "Att ta ed av någon, att enträget uppmana: ”jag besvär dig vid Gud”, ”jag uppmanar er enträget i Herren”, ”jag ber dig vid Gud”. 1 Thessalonikerbrevet 5:27 har formen ἐνορκίζω, som misstänks vara ett annat lemma, och har inte förts hit.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒19:13、マルコ5:7。LXX、教父に並行。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n41005007016": "1",
+  "n44019013023": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。",
+ "excluded": [
+  {
+   "ref": "1TH 5:27",
+   "form": "ἐνορκίζω",
+   "reason": "形 ἐνορκίζω の lemma はデータの lemma 欄でも ἐνορκίζω で別語。番号の扱いは別途データ修正で扱う。"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "lemma": "περιΐστημι",
+ "lemmaId": "grc:G4026",
+ "strong": "G4026",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "周りに立つ",
+   "label_en": "to stand around",
+   "label_es": "estar alrededor",
+   "label_sv": "att stå omkring",
+   "def": "周りに立つ。『周りに立って』『そこに立っている群衆』。",
+   "def_en": "To stand around: “standing around”, “the crowd standing there”.",
+   "def_es": "Rodear, estar en torno: «que estaban alrededor», «la multitud que está allí».",
+   "def_sv": "Att stå runt om: ”stod runt omkring”, ”folket som står här”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒25:7、ヨハネ11:42。LXX に並行。教父の代表例では確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "避ける（中動命令）",
+   "label_en": "to avoid (middle imperative)",
+   "label_es": "evitar (imperativo medio)",
+   "label_sv": "att undvika (imperativ medium)",
+   "def": "避ける、遠ざかる。『避けなさい』（2回）。",
+   "def_en": "To avoid, to keep away from: “avoid” (twice).",
+   "def_es": "Evitar, apartarse de: «evita» (dos veces).",
+   "def_sv": "Att undfly, att hålla sig borta från: ”undvik” (två gånger).",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "テモテ第二2:16、テトス3:9。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n43011042013": "1",
+  "n44025007004": "1",
+  "n55002016005": "2",
+  "n56003009011": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（周りに立つ／避ける）による。"
+}

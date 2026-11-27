@@ -1,0 +1,54 @@
+{
+ "lemma": "εὐσχήμων",
+ "lemmaId": "grc:G2158",
+ "strong": "G2158",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "見苦しくない・上品な",
+   "label_en": "presentable, proper",
+   "label_es": "decoroso",
+   "label_sv": "anständig, ansenlig",
+   "def": "見よい、礼にかなった。『見よいところは』『品位のあること』。",
+   "def_en": "Seemly, decorous: “our more presentable parts”, “what is seemly”.",
+   "def_es": "De buen parecer, conveniente: «las partes más decorosas», «lo honesto».",
+   "def_sv": "Som tar sig väl ut, passande: ”de delar som tål att visas”, ”det som är anständigt”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "コリント第一12:24・7:35。LXX に並行。教父の用例なし。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "身分のある・名のある",
+   "label_en": "of high standing, prominent",
+   "label_es": "distinguido, de posición",
+   "label_sv": "ansedd, förnäm",
+   "def": "身分の高い、名の通った。『身分の高いギリシヤの婦人たち』『名のある婦人たち』『身分の高い議員』。",
+   "def_en": "Of high rank, well known: “Greek women of high standing”, “women of prominence”, “a prominent member of the council”.",
+   "def_es": "De alta posición, de renombre: «mujeres griegas de distinción», «mujeres nobles», «miembro noble del concilio».",
+   "def_sv": "Av hög rang, välkänd: ”ansedda grekiska kvinnor”, ”framstående kvinnor”, ”en ansedd rådsherre”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒17:12・13:50、マルコ15:43。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n41015043006": "2",
+  "n44013050009": "2",
+  "n44017012012": "2",
+  "n46007035017": "1",
+  "n46012024003": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（品位／身分）による。"
+}

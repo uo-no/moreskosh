@@ -1,0 +1,81 @@
+{
+ "lemma": "χορτάζω",
+ "lemmaId": "grc:G5526",
+ "strong": "G5526",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "食べさせる／満腹する",
+   "label_en": "to feed / be filled",
+   "label_es": "saciar / quedar satisfecho",
+   "label_sv": "att mätta / bli mätt",
+   "def": "食べ物で満たす、満腹する。『パンで満腹した』『子供たちがまず満腹するように』『温まれ、食べて満足せよ』『満腹することも飢えることも』。",
+   "def_en": "To fill with food, to be satisfied: “were filled with the loaves”, “let the children first be filled”, “be warmed, eat and be satisfied”, “both to be filled and to be hungry”.",
+   "def_es": "Llenar de comida, saciarse: «comisteis el pan y os saciasteis», «deja que primero se sacien los hijos», «calentaos y saciaos», «estar saciado como tener hambre».",
+   "def_sv": "Att fylla med mat, att bli mätt: ”fick äta er mätta av bröden”, ”låt först barnen bli mätta”, ”håll er varma och ät er mätta”, ”både att vara mätt och hungrig”.",
+   "layers": {
+    "nt": 12,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ヤコブ2:16、ヨハネ6:26、ルカ16:21・9:17、マタイ14:20・15:33・15:37、マルコ7:27・8:4・8:8・6:42、ピリピ4:12。LXX 詩篇16:14、教父（59.4）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "満たされる（義への飢え渇きが）",
+   "label_en": "to be satisfied (hunger for righteousness)",
+   "label_es": "ser saciado (hambre de justicia)",
+   "label_sv": "att mättas (hungern efter rättfärdighet)",
+   "def": "満たされる、満足する。『義に飢え渇く者は幸いである。彼らは満たされる』『今飢えている人々は幸いである。あなたがたは満たされる』。",
+   "def_en": "To be filled, to be satisfied: “blessed are those who hunger and thirst for righteousness, for they shall be satisfied”, “blessed are you who are hungry now, for you shall be satisfied”.",
+   "def_es": "Ser colmado, quedar satisfecho: «bienaventurados los que tienen hambre y sed de justicia, porque ellos serán saciados», «los que ahora tenéis hambre seréis saciados».",
+   "def_sv": "Att bli mättad och tillfredsställd: ”saliga de som hungrar och törstar efter rättfärdigheten, de ska bli mättade”, ”saliga ni som hungrar nu, ni ska få äta er mätta”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ5:6、ルカ6:21。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "腹いっぱいに食う（鳥が）",
+   "label_en": "to gorge (birds)",
+   "label_es": "hartarse (las aves)",
+   "label_sv": "att proppa sig mätt (fåglar)",
+   "def": "食い尽くす、あふれるまで食う。『鳥はみな彼らの肉で満腹した』。",
+   "def_en": "To devour, to eat to overflowing: “all the birds were gorged with their flesh”.",
+   "def_es": "Devorar, comer hasta rebosar: «todas las aves se saciaron de las carnes de ellos».",
+   "def_sv": "Att sluka och äta sig övermätt: ”alla fåglarna åt sig mätta av deras kött”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "黙示録19:21 の1例のみ。LXX 代表例に並行。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40005006010": "2",
+  "n40014020005": "1",
+  "n40015033013": "1",
+  "n40015037005": "1",
+  "n41006042005": "1",
+  "n41007027006": "1",
+  "n41008004013": "1",
+  "n41008008004": "1",
+  "n42006021006": "2",
+  "n42009017004": "1",
+  "n42016021003": "1",
+  "n43006026024": "1",
+  "n50004012014": "1",
+  "n59002016012": "1",
+  "n66019021023": "3"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は対象・文脈による。"
+}

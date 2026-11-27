@@ -1,0 +1,95 @@
+{
+ "lemma": "ὀδούς",
+ "lemmaId": "grc:G3599",
+ "strong": "G3599",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "歯ぎしり（βρυγμὸς τῶν ὀδόντων）の歯",
+   "label_en": "teeth (in “gnashing of teeth”, βρυγμὸς τῶν ὀδόντων)",
+   "label_es": "dientes (en «el crujir de dientes», βρυγμὸς τῶν ὀδόντων)",
+   "label_sv": "tänder (i ”tandagnisslan”, βρυγμὸς τῶν ὀδόντων)",
+   "def": "『泣き叫んだり歯ぎしりしたりする』という句の中の歯。",
+   "def_en": "The teeth in the phrase “weeping and gnashing of teeth”.",
+   "def_es": "Los dientes de la frase «el lloro y el crujir de dientes».",
+   "def_sv": "Tänderna i uttrycket ”gråt och tandagnisslan”.",
+   "layers": {
+    "nt": 7,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ルカ13:28、マタイ13:42・13:50・22:13・25:30・24:51・8:12。LXX・教父の代表例では確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "歯をきしらせる（動詞句）",
+   "label_en": "to grind the teeth (verbal phrase)",
+   "label_es": "rechinar los dientes (locución verbal)",
+   "label_sv": "att skära tänder (verbfras)",
+   "def": "歯をきしらせる、歯ぎしりする。『彼に向かって歯ぎしりした』『歯ぎしりして体がこわばる』。",
+   "def_en": "To gnash or grind one's teeth: “ground their teeth at him”, “grinds his teeth and becomes rigid”.",
+   "def_es": "Crujir o rechinar los dientes: «crujían los dientes contra él», «cruje los dientes y se va secando».",
+   "def_sv": "Att gnissla eller skära tänder: ”skar tänder mot honom”, ”skär tänder och blir stel”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒7:54、マルコ9:18。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "歯（目には目、歯には歯）",
+   "label_en": "tooth (eye for eye, tooth for tooth)",
+   "label_es": "diente (ojo por ojo, diente por diente)",
+   "label_sv": "tand (öga för öga, tand för tand)",
+   "def": "身体の歯。『目には目を、歯には歯を』。",
+   "def_en": "A tooth of the body: “an eye for an eye and a tooth for a tooth”.",
+   "def_es": "Diente del cuerpo: «ojo por ojo, y diente por diente».",
+   "def_sv": "En tand i kroppen: ”öga för öga och tand för tand”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マタイ5:38（2回）。LXX 出エジプト記21:27 に並行。教父の代表例では確認していない。"
+  },
+  {
+   "id": "4",
+   "label": "歯（獣の・いなごの）",
+   "label_en": "teeth (of beasts, locusts)",
+   "label_es": "dientes (de fieras, de langostas)",
+   "label_sv": "tänder (på vilddjur, gräshoppor)",
+   "def": "動物の歯。『歯は獅子の歯のようであった』。",
+   "def_en": "The teeth of animals: “their teeth were like lions' teeth”.",
+   "def_es": "Los dientes de animales: «sus dientes eran como de leones».",
+   "def_sv": "Djurens tänder: ”tänderna var som lejontänder”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "黙示録9:8 の1例のみ。LXX 詩篇123:6、教父（4.4.1）に並行。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40005038008": "3",
+  "n40005038010": "3",
+  "n40008012020": "1",
+  "n40013042017": "1",
+  "n40013050017": "1",
+  "n40022013027": "1",
+  "n40024051020": "1",
+  "n40025030019": "1",
+  "n41009018013": "2",
+  "n42013028009": "1",
+  "n44007054011": "2",
+  "n66009008009": "4"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（歯ぎしりの句／動詞句／身体／動物）による。"
+}

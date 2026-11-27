@@ -1,0 +1,76 @@
+{
+ "lemma": "σιωπάω",
+ "lemmaId": "grc:G4623",
+ "strong": "G4623",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "黙る／沈黙する",
+   "label_en": "to be silent",
+   "label_es": "callar / guardar silencio",
+   "label_sv": "att tiga",
+   "def": "黙っている、口を閉じる。『黙っていてはいけない』『この人たちが黙れば石が叫ぶ』『イエスは黙っておられた』『彼らは黙っていた』『だれが一番偉いかと論じていたので黙っていた』。",
+   "def_en": "To keep silent, to close one's mouth: “do not be silent”, “if these were silent, the stones would cry out”, “Jesus remained silent”, “they were silent”, “they kept silent, for they had argued about who was the greatest”.",
+   "def_es": "Estar callado, cerrar la boca: «no calles», «si estos callaran, las piedras clamarían», «Jesús callaba», «ellos callaban», «callaban porque habían disputado quién era el mayor».",
+   "def_sv": "Att hålla tyst: ”tig inte”, ”om dessa tiger ska stenarna ropa”, ”Jesus teg”, ”de teg”, ”de teg, eftersom de hade tvistat om vem som var störst”.",
+   "layers": {
+    "nt": 6,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒18:9、ルカ19:40、マタイ26:63、マルコ14:61・3:4・9:34。LXX 詩篇42:14・ヨブ16:6、教父（4.2.1、10.3）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "静まる／黙らされる",
+   "label_en": "to be quiet / be silenced",
+   "label_es": "aquietarse / ser hecho callar",
+   "label_sv": "att tystna / tystas",
+   "def": "静まる、黙るよう命じられる。『黙らせようとたしなめたが』『黙れ、静まれ』。",
+   "def_en": "To become still, to be ordered to be quiet: “rebuked them to be silent”, “Peace! Be still!”",
+   "def_es": "Calmarse, recibir orden de callar: «les reprendían para que callasen», «Calla, enmudece».",
+   "def_sv": "Att bli stilla, att befallas vara tyst: ”sade åt dem att tiga”, ”Tig! Var stilla!”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マタイ20:31、マルコ10:48・4:39。LXX 代表例に並行。教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "口がきけない",
+   "label_en": "to be mute",
+   "label_es": "quedar mudo",
+   "label_sv": "att vara stum",
+   "def": "話すことができない。『この事の起こる日まで、あなたは話せなくなる』（ルカ1:20）。",
+   "def_en": "To be unable to speak: “you will be silent and unable to speak until the day these things take place” (Luke 1:20).",
+   "def_es": "No poder hablar: «quedarás mudo hasta el día en que esto se haga» (Lc 1:20).",
+   "def_sv": "Att inte kunna tala: ”du ska bli stum ända till den dag då detta sker” (Luk 1:20).",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ルカ1:20 の1例のみ。語義1との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40020031007": "2",
+  "n40026063004": "1",
+  "n41003004016": "1",
+  "n41004039010": "2",
+  "n41009034003": "1",
+  "n41010048006": "2",
+  "n41014061003": "1",
+  "n42001020004": "3",
+  "n42019040009": "1",
+  "n44018009017": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法による。"
+}

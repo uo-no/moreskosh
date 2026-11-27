@@ -1,0 +1,51 @@
+{
+ "lemma": "ἀνώτερον",
+ "lemmaId": "grc:G511",
+ "strong": "G511",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "もっと上に",
+   "label_en": "higher up",
+   "label_es": "más arriba",
+   "label_sv": "högre upp",
+   "def": "もっと上の席に。『もっと上席に進みなさい』。",
+   "def_en": "To a higher place: “go up to a higher seat”.",
+   "def_es": "A un puesto superior: «sube más arriba».",
+   "def_sv": "Till en förnämligare plats: ”flytta högre upp”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ルカ14:10。LXX に並行。教父の用例なし。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "前に（上述）",
+   "label_en": "above, earlier",
+   "label_es": "arriba (antes)",
+   "label_sv": "ovan",
+   "def": "前に、上で（前の箇所で）。『前に言われている』。",
+   "def_en": "Previously, in an earlier passage: “it says above”.",
+   "def_es": "Anteriormente, en un lugar precedente: «diciendo primero».",
+   "def_sv": "Förut, längre upp i texten: ”det sägs tidigare”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヘブル10:8。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42014010020": "1",
+  "n58010008001": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法による。"
+}

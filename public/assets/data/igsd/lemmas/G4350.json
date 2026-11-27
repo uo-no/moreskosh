@@ -1,0 +1,74 @@
+{
+ "lemma": "προσκόπτω",
+ "lemmaId": "grc:G4350",
+ "strong": "G4350",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "つまずく",
+   "label_en": "to stumble",
+   "label_es": "tropezar",
+   "label_sv": "att snava / ta anstöt",
+   "def": "つまずく（比喩を含む）。『彼らはつまずく』『つまずくことがない』『つまずくから』『兄弟をつまずかせる』『石につまずいた』。",
+   "def_en": "To stumble (including figurative uses): “they stumble”, “do not stumble”, “because they stumble”, “makes a brother stumble”, “stumbled over the stone”.",
+   "def_es": "Tropezar (incluido el sentido figurado): «tropiezan», «no tropieza», «porque tropieza», «en que tu hermano tropiece», «tropezaron en la piedra».",
+   "def_sv": "Att snubbla (även bildligt): ”de snubblar”, ”snubblar inte”, ”därför att han snubblar”, ”får en broder att komma på fall”, ”stötte mot stenen”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ペテロ第一2:8、ヨハネ11:9・11:10、ローマ14:21・9:32。LXX（32.20・4.19）に並行。教父の代表例では確認していない。語義2・3との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "打ちつける（足を石に）",
+   "label_en": "to strike (a foot on a stone)",
+   "label_es": "golpear (el pie contra piedra)",
+   "label_sv": "att stöta (foten mot en sten)",
+   "def": "足を石に打ちつける。『足を石に打ちつけることのないように』。",
+   "def_en": "To dash one's foot against a stone: “lest you strike your foot against a stone”.",
+   "def_es": "Dar con el pie en una piedra: «no tropieces con tu pie en piedra».",
+   "def_sv": "Att slå foten mot en sten: ”så att du inte stöter foten mot någon sten”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ4:6、ルカ4:11（詩篇91篇の引用）。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "吹きつける・打ちつける（風・水）",
+   "label_en": "to beat against (wind, water)",
+   "label_es": "batir contra (viento, agua)",
+   "label_sv": "att kasta sig mot (vind, vatten)",
+   "def": "家に風や水が吹きつける。『その家に襲いかかっても』。",
+   "def_en": "Wind or water beats on a house: “though they beat on that house”.",
+   "def_es": "El viento o el agua golpean la casa: «aunque dieron con ímpetu contra aquella casa».",
+   "def_sv": "Vind eller vatten slår mot ett hus: ”fastän de kastade sig mot huset”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ7:27。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40004006027": "2",
+  "n40007027014": "3",
+  "n42004011008": "2",
+  "n43011009016": "1",
+  "n43011010008": "1",
+  "n45009032011": "1",
+  "n45014021015": "1",
+  "n60002008008": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（つまずく／足を打つ／家への吹きつけ）による。"
+}

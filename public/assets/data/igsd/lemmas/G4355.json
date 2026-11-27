@@ -1,0 +1,95 @@
+{
+ "lemma": "προσλαμβάνομαι",
+ "lemmaId": "grc:G4355",
+ "strong": "G4355",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "脇へ連れて行く",
+   "label_en": "to take aside",
+   "label_es": "llevar aparte",
+   "label_sv": "att ta avsides",
+   "def": "脇へ連れて行く。『二人は彼を招き入れ』『ペテロはイエスを脇へ連れて』『ご自分の脇へ連れて行って』。",
+   "def_en": "To take to one side: “took him aside”, “Peter took Jesus aside”, “taking him aside to himself”.",
+   "def_es": "Llevar a un lado: «le tomaron aparte», «Pedro, tomándole aparte», «tomándolo consigo aparte».",
+   "def_sv": "Att föra någon åt sidan: ”tog honom avsides”, ”Petrus tog Jesus åt sidan”, ”tog honom med sig avsides”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒18:26、マタイ16:22、マルコ8:32。LXX 詩篇17:17・72:24 に並行。教父の代表例では確認していない。語義3との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "連れて行く（同行させる）",
+   "label_en": "to take along",
+   "label_es": "llevar consigo",
+   "label_sv": "att ta med sig",
+   "def": "仲間を連れて行く、加える。『町の悪い者たちを連れて来て』。",
+   "def_en": "To take a companion along, to add to one's company: “gathering some wicked men of the town”.",
+   "def_es": "Tomar compañeros, sumarlos: «tomaron consigo a algunos malos hombres».",
+   "def_sv": "Att ta med sig följeslagare: ”tog med sig några illasinnade män i staden”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒17:5 の1例のみ。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "迎え入れる／受け入れる（人を）",
+   "label_en": "to welcome / receive (people)",
+   "label_es": "acoger / recibir (a personas)",
+   "label_sv": "att ta emot / välkomna (människor)",
+   "def": "迎え入れる、受け入れる、歓迎する。『親切にもてなし』『わたしを迎えるように彼を迎えてください』『信仰の弱い人を受け入れなさい』『神が彼を受け入れたから』『キリストがあなたがたを受け入れたように』。",
+   "def_en": "To receive, accept, welcome: “showed us unusual kindness”, “receive him as you would receive me”, “welcome the one who is weak in faith”, “for God has welcomed him”, “as Christ has welcomed you”.",
+   "def_es": "Recibir, aceptar, dar la bienvenida: «nos trataron con no poca humanidad», «recíbele como a mí mismo», «recibid al débil en la fe», «porque Dios le ha recibido», «como Cristo nos recibió».",
+   "def_sv": "Att ta emot, godta, hälsa välkommen: ”visade oss stor vänlighet”, ”ta emot honom som du skulle ta emot mig”, ”ta emot den som är svag i tron”, ”Gud har tagit emot honom”, ”så som Kristus har tagit emot er”.",
+   "layers": {
+    "nt": 6,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒28:2、ピレモン17、ローマ14:1・14:3・15:7（2回）。LXX・教父（49.6）に並行。"
+  },
+  {
+   "id": "4",
+   "label": "（食物を）取る",
+   "label_en": "to take (food)",
+   "label_es": "tomar (alimento)",
+   "label_sv": "att ta (mat)",
+   "def": "食物を取る、口にする。『食事をとるよう勧めて』『パンを取り』。",
+   "def_en": "To take food, to put it in one's mouth: “urged them to take some food”, “took bread”.",
+   "def_es": "Tomar comida: «los exhortaba a que comiesen», «tomando el pan».",
+   "def_sv": "Att ta till sig mat: ”uppmanade dem att äta”, ”tog bröd”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒27:33・27:36。語義3との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40016022002": "1",
+  "n41008032007": "1",
+  "n44017005006": "2",
+  "n44018026014": "1",
+  "n44027033021": "4",
+  "n44027036007": "4",
+  "n44028002013": "3",
+  "n45014001006": "3",
+  "n45014003020": "3",
+  "n45015007002": "3",
+  "n45015007008": "3",
+  "n57001017006": "3"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は目的語（人／同行者／食物）による。"
+}

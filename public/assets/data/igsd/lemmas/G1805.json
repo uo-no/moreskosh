@@ -1,0 +1,53 @@
+{
+ "lemma": "ἐξαγοράζω",
+ "lemmaId": "grc:G1805",
+ "strong": "G1805",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "買い戻す・贖い出す",
+   "label_en": "to redeem",
+   "label_es": "redimir, rescatar",
+   "label_sv": "att friköpa",
+   "def": "買い戻す、贖い出す。『律法の下にある者を贖い出して』『わたしたちを贖い出してくださった』。",
+   "def_en": "To buy back, to redeem: “to redeem those who were under the law”, “redeemed us”.",
+   "def_es": "Recomprar, rescatar: «para redimir a los que estaban bajo la ley», «nos redimió».",
+   "def_sv": "Att köpa tillbaka, att lösköpa: ”för att friköpa dem som stod under lagen”, ”har friköpt oss”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ガラテヤ4:5・3:13。語義2との境界は連続的。LXX・教父の代表例は「時を買い取る」の用法で、この語義としては確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "時を生かして用いる",
+   "label_en": "to make the most of the time",
+   "label_es": "aprovechar el tiempo",
+   "label_sv": "att ta vara på tiden",
+   "def": "時を買い取る（有効に用いる）。『時をよく用いなさい』『機会を十分に生かし』。",
+   "def_en": "To buy up the time (to use it well): “make good use of the time”, “make the most of every opportunity”.",
+   "def_es": "Rescatar el tiempo (emplearlo bien): «aprovechando bien el tiempo», «sacando todo el provecho a la oportunidad».",
+   "def_sv": "Att köpa upp tiden (att bruka den väl): ”ta väl vara på tiden”, ”utnyttja varje tillfälle”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "コロサイ4:5、エペソ5:16。LXX、教父に並行。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n48003013003": "1",
+  "n48004005005": "1",
+  "n49005016001": "2",
+  "n51004005009": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（贖い出す／時を買い取る）による。"
+}

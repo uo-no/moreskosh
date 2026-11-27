@@ -1,0 +1,56 @@
+{
+ "lemma": "χρηστός",
+ "lemmaId": "grc:G5543",
+ "strong": "G5543",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "良い・よい（物について）",
+   "label_en": "good (of things)",
+   "label_es": "bueno (de cosas)",
+   "label_sv": "god (om ting)",
+   "def": "物が良い、快い、役に立つ。『古い酒のほうがよい』『わたしのくびきは負いやすく』『主が恵み深いかたであることを味わった』『悪い仲間は良い習慣をそこなう』。",
+   "def_en": "Of a thing: good, pleasant, useful. “the old wine is good”, “my yoke is easy”, “you have tasted that the Lord is good”, “bad company ruins good morals”.",
+   "def_es": "Dicho de cosas: bueno, agradable, útil. «el añejo es mejor», «mi yugo es fácil», «habéis gustado la benignidad del Señor», «las malas compañías corrompen las buenas costumbres».",
+   "def_sv": "Om ting: god, behaglig, nyttig. ”det gamla vinet är bättre”, ”mitt ok är skonsamt”, ”ni har fått smaka att Herren är god”, ”dåligt sällskap fördärvar goda vanor”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ルカ5:39、マタイ11:30、ペテロ第一2:3、コリント第一15:33。LXX（118.39・24.3）、教父（14.4）に並行。語義2との境界は連続的。ペテロ第一2:3 は主を指す用法を含み、語義1との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "親切な・情け深い",
+   "label_en": "kind, benevolent",
+   "label_es": "benigno, bondadoso",
+   "label_sv": "god, mild",
+   "def": "人に親切な、情け深い。『互いに親切にし』『彼は恩を知らぬ者や悪人にも情け深い』『神の慈愛』。",
+   "def_en": "Kind to people, compassionate: “be kind to one another”, “he is kind to the ungrateful and the evil”, “the kindness of God”.",
+   "def_es": "Benigno con las personas, compasivo: «sed benignos unos con otros», «él es benigno para con los ingratos y malos», «la benignidad de Dios».",
+   "def_sv": "Vänlig mot människor, barmhärtig: ”var goda mot varandra”, ”han är god mot de otacksamma och onda”, ”Guds godhet”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "エペソ4:32、ルカ6:35、ローマ2:4。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40011030005": "1",
+  "n42005039011": "1",
+  "n42006035024": "2",
+  "n45002004017": "2",
+  "n46015033005": "1",
+  "n49004032004": "2",
+  "n60002003004": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（物の良さ／人の親切）による。"
+}

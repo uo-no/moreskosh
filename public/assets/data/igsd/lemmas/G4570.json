@@ -1,0 +1,55 @@
+{
+ "lemma": "σβέννυμι",
+ "lemmaId": "grc:G4570",
+ "strong": "G4570",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "消す・消える（火・灯が）",
+   "label_en": "to quench, to go out (of fire, lamps)",
+   "label_es": "apagar, apagarse (fuego, lámpara)",
+   "label_sv": "att släcka, att slockna (eld, lampa)",
+   "def": "火や灯を消す、消える。『くすぶる燈心を消さず』『悪い者の放つ火の矢を消す』『火の勢いを消し』『わたしたちのともしびは消えかかっています』『火は消えることがない』。",
+   "def_en": "To put out a fire or lamp; to go out: “he will not quench a smouldering wick”, “quench the flaming arrows of the evil one”, “quenched the power of fire”, “our lamps are going out”, “the fire is not quenched”.",
+   "def_es": "Apagar un fuego o una luz; extinguirse: «el pábilo que humea no apagará», «apagar los dardos de fuego del maligno», «apagaron fuegos impetuosos», «nuestras lámparas se apagan», «el fuego nunca se apaga».",
+   "def_sv": "Att släcka en eld eller lampa; att slockna: ”en tynande veke skall han inte släcka”, ”släcka den ondes brinnande pilar”, ”dämpade eldens raseri”, ”våra lampor håller på att slockna”, ”elden slocknar inte”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "マタイ12:20・25:8、エペソ6:16、ヘブル11:34、マルコ9:48。LXX（18.5）、教父（11.2）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "消す（霊を）",
+   "label_en": "to quench (the Spirit)",
+   "label_es": "apagar (el Espíritu)",
+   "label_sv": "att släcka (Anden)",
+   "def": "聖霊の働きを消す。『御霊を消してはいけない』。",
+   "def_en": "To stifle the working of the Holy Spirit: “do not quench the Spirit”.",
+   "def_es": "Extinguir la obra del Espíritu Santo: «no apaguéis al Espíritu».",
+   "def_sv": "Att kväva den helige Andes verk: ”släck inte Anden”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "テサロニケ第一5:19。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40012020009": "1",
+  "n40025008017": "1",
+  "n41009048011": "1",
+  "n49006016017": "1",
+  "n52005019004": "2",
+  "n58011034001": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は対象（火・灯／霊）による。"
+}

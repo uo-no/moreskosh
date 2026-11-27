@@ -1,0 +1,54 @@
+{
+ "lemma": "μεθίστημι",
+ "lemmaId": "grc:G3179",
+ "strong": "G3179",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "移す・取り除く",
+   "label_en": "to move, to remove",
+   "label_es": "trasladar, quitar",
+   "label_sv": "att flytta, att avlägsna",
+   "def": "移す、取り除く、廃する。『山を動かすほどの』『サウルを退けた』『暗やみの力から救い出して』『管理の職を取り去られても』。",
+   "def_en": "To move, to remove, to depose: “faith to move mountains”, “removed Saul”, “delivered us from the dominion of darkness”, “when I am removed from my stewardship”.",
+   "def_es": "Mudar, apartar, destituir: «de tal manera que traslade los montes», «quitado Saúl», «nos ha librado de la potestad de las tinieblas», «cuando se me quite la mayordomía».",
+   "def_sv": "Att förflytta, ta bort, avsätta: ”tro så att jag kan flytta berg”, ”avsatte Saul”, ”räddat oss ur mörkrets välde”, ”när jag mister förvaltningen”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "コリント第一13:2、使徒13:22、コロサイ1:13、ルカ16:4。LXX に並行。教父の代表例では確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "そむかせる・転向させる",
+   "label_en": "to turn away, to win over",
+   "label_es": "apartar, desviar",
+   "label_sv": "att förleda",
+   "def": "人を信仰から転向させる。『多くの人々を説き伏せて…そむかせた』。",
+   "def_en": "To turn a person away from the faith: “has persuaded and turned away a great many people”.",
+   "def_es": "Hacer que alguien se aparte de la fe: «con persuasión ha apartado a muchas gentes».",
+   "def_sv": "Att få någon att vända sig från tron: ”har övertalat och vilselett en hel del människor”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒19:26。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42016004006": "1",
+  "n44013022002": "1",
+  "n44019026018": "2",
+  "n46013002022": "1",
+  "n51001013010": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（移す・取り除く／そむかせる）による。"
+}

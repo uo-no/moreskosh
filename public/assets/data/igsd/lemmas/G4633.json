@@ -1,0 +1,103 @@
+{
+ "lemma": "σκηνή",
+ "lemmaId": "grc:G4633",
+ "strong": "G4633",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "幕屋（モーセの幕屋・荒野の幕屋）",
+   "label_en": "tabernacle (Moses' tabernacle in the wilderness)",
+   "label_es": "tabernáculo (el de Moisés en el desierto)",
+   "label_sv": "tabernaklet (Moses tält i öknen)",
+   "def": "荒野でイスラエルが用いた礼拝の幕屋、またそれに関連して語られる天幕（偶像の幕屋、ダビデの倒れた幕屋）。",
+   "def_en": "The tabernacle of worship Israel used in the wilderness, and tents spoken of in connection with it (the tent of an idol, the fallen tent of David).",
+   "def_es": "El tabernáculo de culto que Israel usó en el desierto, y las tiendas mencionadas en relación con él (el tabernáculo de un ídolo, la tienda caída de David).",
+   "def_sv": "Det gudstjänsttält som Israel använde i öknen, och tält som nämns i samband med det (en avguds tält, Davids fallna hydda).",
+   "layers": {
+    "nt": 10,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒7:43（モレクの幕屋）・7:44（証しの幕屋）・15:16（ダビデの倒れた幕屋、アモス9:11 の引用）、ヘブル8:5・9:2・3・6・8・21・13:10。LXX 出エジプト記・民数記、教父（Ⅰクレメンス43.2–3）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "（天の）幕屋／神の住まい",
+   "label_en": "(heavenly) tabernacle / God's dwelling",
+   "label_es": "tabernáculo (celestial) / morada de Dios",
+   "label_sv": "(det himmelska) tabernaklet / Guds boning",
+   "def": "天にある真の幕屋、神が人とともに住む場所としての幕屋。",
+   "def_en": "The true tabernacle in heaven, the tabernacle as the place where God dwells with people.",
+   "def_es": "El verdadero tabernáculo del cielo, el tabernáculo como lugar donde Dios habita con las personas.",
+   "def_sv": "Det sanna tabernaklet i himlen, tältet som platsen där Gud bor bland människorna.",
+   "layers": {
+    "nt": 5,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヘブル8:2・9:11（人の手によらない真の幕屋）、黙示録13:6（神の幕屋）・15:5（天の幕屋の聖所）・21:3（見よ、神の幕屋が人とともにある）。Abbott も天の原型の幕屋に別立てする。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "仮小屋／天幕（仮住まい）",
+   "label_en": "hut / tent (temporary dwelling)",
+   "label_es": "choza / tienda (morada provisional)",
+   "label_sv": "hydda / tält (tillfällig bostad)",
+   "def": "旅人・仮住まいの者が使う天幕、仮の小屋。イサク・ヤコブの仮住まい、山上の三つの仮小屋。",
+   "def_en": "A tent or temporary shelter used by travellers or sojourners: the temporary dwelling of Isaac and Jacob, the three shelters on the mountain.",
+   "def_es": "Tienda o cabaña provisional de viajeros o de quienes viven de paso: la morada provisional de Isaac y Jacob, las tres enramadas del monte.",
+   "def_sv": "Tält eller enkla hyddor för resande eller dem som bor tillfälligt: Isaks och Jakobs tillfälliga bostad, de tre hyddorna på berget.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ヘブル11:9（天幕に住んだ）、マタイ17:4・マルコ9:5・ルカ9:33（三つの仮小屋を造りましょう）。LXX レビ記23:42（仮庵）に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+  },
+  {
+   "id": "4",
+   "label": "（永遠の）住まい",
+   "label_en": "(eternal) dwelling",
+   "label_es": "morada (eterna)",
+   "label_sv": "(evig) boning",
+   "def": "『永遠の住まい』、死後のとこしえの住まい。",
+   "def_en": "“Eternal dwellings”, the everlasting abode after death.",
+   "def_es": "«Las moradas eternas», la morada perpetua después de la muerte.",
+   "def_sv": "”De eviga boningarna”, den eviga bostaden efter döden.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ルカ16:9（永遠の幕屋に迎え入れられる）の1例のみ。語義3との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40017004019": "3",
+  "n41009005017": "3",
+  "n42009033023": "3",
+  "n42016009021": "4",
+  "n44007043004": "1",
+  "n44007044002": "1",
+  "n44015016007": "1",
+  "n58008002006": "2",
+  "n58008005014": "1",
+  "n58009002001": "1",
+  "n58009003006": "1",
+  "n58009006009": "1",
+  "n58009008016": "1",
+  "n58009011013": "2",
+  "n58009021003": "1",
+  "n58011009010": "3",
+  "n58013010011": "1",
+  "n66013006017": "2",
+  "n66015005010": "2",
+  "n66021003011": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

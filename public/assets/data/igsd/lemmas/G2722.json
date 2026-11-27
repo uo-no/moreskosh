@@ -1,0 +1,134 @@
+{
+ "lemma": "κατέχω",
+ "lemmaId": "grc:G2722",
+ "strong": "G2722",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "しっかり保つ／堅持する（教え・信仰を）",
+   "label_en": "to hold fast (teaching, faith)",
+   "label_es": "retener / mantener firme (enseñanza, fe)",
+   "label_sv": "att hålla fast (lära, tro)",
+   "def": "受けた教え・ことば・信仰・希望をしっかりと持ち続ける。『よいものをしっかり保て』『みことばを守って実を結ぶ』『信仰の告白を堅く保つ』。",
+   "def_en": "To keep firmly hold of the teaching, word, faith, or hope one received: “hold fast what is good”, “hold fast the word and bear fruit”, “hold firmly our confession of faith”.",
+   "def_es": "Seguir sosteniendo con firmeza la enseñanza, palabra, fe o esperanza recibidas: «retened lo bueno», «retienen la palabra y dan fruto», «mantengamos firme la profesión».",
+   "def_sv": "Att orubbligt hålla fast vid den mottagna läran, ordet, tron eller hoppet: ”håll fast vid det goda”, ”hålla fast vid ordet och bära frukt”, ”hålla fast vid bekännelsen”.",
+   "layers": {
+    "nt": 7,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "Ⅰコリ11:2・15:2、Ⅰテサ5:21、ヘブル3:6・14・10:23、ルカ8:15（みことばを守る）。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "持つ／所有する",
+   "label_en": "to have / possess",
+   "label_es": "tener / poseer",
+   "label_sv": "att äga / besitta",
+   "def": "所有物を持つ、所有する。『所有するもののように』『すべてのものを持つ者として』。",
+   "def_en": "To have and own possessions: “as though they possessed nothing”, “as possessing everything”.",
+   "def_es": "Tener y poseer bienes: «como si no poseyesen», «como poseyéndolo todo».",
+   "def_sv": "Att ha och äga: ”som om de inte ägde något”, ”de som äger allt”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "Ⅰコリ7:30（持ち物を所有しない者のように）、Ⅱコリ6:10（すべてのものを持つ者）。LXX 詩篇72:12 に並行。教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "押しとどめる／引き止める／抑える",
+   "label_en": "to restrain / hold back / suppress",
+   "label_es": "detener / retener / reprimir",
+   "label_sv": "att hålla tillbaka / hindra / undertrycka",
+   "def": "人・出来事・真理を、押しとどめる、引き止める、抑え込む。『引き止めているもの』『真理を不義によって押さえつける』『行かせないように引き止める』。",
+   "def_en": "To restrain, hold back, or suppress a person, event, or the truth: “what restrains”, “suppress the truth by unrighteousness”, “tried to keep him from leaving”.",
+   "def_es": "Contener, retener o sofocar a una persona, un acontecimiento o la verdad: «lo que lo detiene», «detienen con injusticia la verdad», «lo retenían para que no se fuera».",
+   "def_sv": "Att hejda, hålla kvar eller undertrycka en människa, en händelse eller sanningen: ”det som håller tillbaka”, ”undertrycka sanningen med orättfärdighet”, ”försökte hindra honom från att gå”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅱテサ2:6・7（引き止めているもの・引き止める者）、ルカ4:42（群衆は彼を引き止めようとした）、ピレモン13（わたしのもとに引き止めておきたい）、ローマ1:18（真理を不義によって押さえつける）。LXX 創世記24:56、教父（ヘルマス26.11.6）に並行。"
+  },
+  {
+   "id": "4",
+   "label": "縛る（律法が）",
+   "label_en": "to bind (the law)",
+   "label_es": "sujetar (la ley)",
+   "label_sv": "att hålla bunden (lagen)",
+   "def": "人を縛る、拘束する。『われわれを縛っていたもの』。",
+   "def_en": "To hold a person bound: “what held us captive”.",
+   "def_es": "Atar y tener sujeta a la persona: «aquello en que estábamos sujetos».",
+   "def_sv": "Att hålla en människa bunden: ”det som höll oss fångna”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ローマ7:6（われわれを縛っていた律法に死んで）の1例のみ。語義3との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "5",
+   "label": "占める（席を）",
+   "label_en": "to occupy (a seat)",
+   "label_es": "ocupar (un sitio)",
+   "label_sv": "att inta (en plats)",
+   "def": "席・位置を占める。『末席を占める』。",
+   "def_en": "To take a seat or position: “take the lowest place”.",
+   "def_es": "Ocupar un asiento o puesto: «ocupar el último lugar».",
+   "def_sv": "Att inta en plats: ”inta den nedersta platsen”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ルカ14:9（恥をかいて末席に着くことになる）の1例のみ。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "6",
+   "label": "（舟を岸に）向ける／着ける",
+   "label_en": "to head for (shore, with a ship)",
+   "label_es": "dirigir (la nave a la playa)",
+   "label_sv": "att hålla in mot (stranden)",
+   "def": "舟を岸に向けて進める。",
+   "def_en": "To steer a ship toward the shore.",
+   "def_es": "Enfilar la nave hacia la costa.",
+   "def_sv": "Att styra skeppet in mot stranden.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒27:40（浜に向かって舟を進めた）の1例のみ。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42004042019": "3",
+  "n42008015018": "1",
+  "n42014009021": "5",
+  "n44027040021": "6",
+  "n45001018018": "3",
+  "n45007006010": "4",
+  "n46007030018": "2",
+  "n46011002014": "1",
+  "n46015002010": "1",
+  "n47006010016": "2",
+  "n52005021006": "1",
+  "n53002006004": "3",
+  "n53002007010": "3",
+  "n57001013006": "3",
+  "n58003006021": "1",
+  "n58003014014": "1",
+  "n58010023001": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

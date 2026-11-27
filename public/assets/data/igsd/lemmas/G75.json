@@ -1,0 +1,56 @@
+{
+ "lemma": "ἀγωνίζομαι",
+ "lemmaId": "grc:G75",
+ "strong": "G75",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "競う・戦う",
+   "label_en": "to compete, to fight",
+   "label_es": "competir, luchar",
+   "label_sv": "att tävla, att kämpa",
+   "def": "競技に出る、戦う。『競技をする者はみな節制する』『もしわたしの国がこの世のものであれば、僕たちは戦ったであろう』『戦いぬいた』『りっぱな戦いを戦いぬけ』。",
+   "def_en": "To enter a contest, to fight: “everyone who competes exercises self-control in all things”, “if my kingdom were of this world, my servants would have fought”, “I have fought to the end”, “fight the good fight”.",
+   "def_es": "Participar en una competición, luchar: «todo el que compite se abstiene de todo», «si mi reino fuera de este mundo, mis servidores habrían luchado», «he peleado hasta el fin», «pelea la buena batalla».",
+   "def_sv": "Att delta i en tävlan, att strida: ”var och en som tävlar iakttar återhållsamhet i allt”, ”om mitt rike vore av denna världen skulle mina tjänare ha stridit”, ”jag har stridit färdigt”, ”kämpa den goda kampen”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "コリント第一9:25、ヨハネ18:36、テモテ第二4:7、テモテ第一6:12。LXX（13.14・6.15）、教父（7.2・4.11）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "力を尽くす・励む",
+   "label_en": "to strive, to labor earnestly",
+   "label_es": "esforzarse, afanarse",
+   "label_sv": "att anstränga sig, att sträva",
+   "def": "力を尽くす、苦闘する。『あなたがたのために祈りに励み』『わたしの内に力強く働く力によって苦闘している』『狭い門からはいるように努めなさい』。",
+   "def_en": "To exert oneself, to struggle: “he strives for you in prayer”, “I struggle with the power that works mightily within me”, “strive to enter through the narrow door”.",
+   "def_es": "Poner todo empeño, luchar con esfuerzo: «se esfuerza por vosotros en la oración», «lucho según el poder que actúa poderosamente en mí», «esforzaos por entrar por la puerta estrecha».",
+   "def_sv": "Att uppbjuda sina krafter, att brottas: ”han kämpar för er i bön”, ”jag kämpar med den kraft som verkar mäktigt i mig”, ”sträva efter att komma in genom den trånga porten”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "コロサイ4:12・1:29、ルカ13:24。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42013024001": "2",
+  "n43018036027": "1",
+  "n46009025004": "1",
+  "n51001029005": "2",
+  "n51004012010": "2",
+  "n54006012001": "1",
+  "n55004007004": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（競技・戦い／励み）による。"
+}

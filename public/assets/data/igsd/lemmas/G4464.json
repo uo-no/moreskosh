@@ -1,0 +1,112 @@
+{
+ "lemma": "ῥάβδος",
+ "lemmaId": "grc:G4464",
+ "strong": "G4464",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "杖（旅の）",
+   "label_en": "staff (for a journey)",
+   "label_es": "bastón (de viaje)",
+   "label_sv": "stav (för vandringen)",
+   "def": "旅に携える杖。『杖も持って行くな』『杖にもたれて礼拝した』。",
+   "def_en": "A staff carried on a journey: “take no staff”, “worshipped leaning on his staff”.",
+   "def_es": "El bastón de camino: «ni bordón», «adoró apoyado sobre el extremo de su bordón».",
+   "def_sv": "Vandringsstaven: ”ta inte med någon stav”, ”tillbad lutad mot sin stav”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ルカ9:3、マタイ10:10、マルコ6:8、ヘブル11:21。LXX 創世記32:11・出エジプト記、教父に並行。"
+  },
+  {
+   "id": "2",
+   "label": "王の杖／権威のしるし",
+   "label_en": "sceptre / sign of authority",
+   "label_es": "cetro / signo de autoridad",
+   "label_sv": "spira / maktens tecken",
+   "def": "王権・支配を示す杖、笏。『あなたの王国の杖は正義の杖』『鉄の杖で諸国民を牧する』『鉄の杖で治める』。",
+   "def_en": "A staff signifying kingship and rule, a sceptre: “the sceptre of uprightness is the sceptre of your kingdom”, “shepherd the nations with a rod of iron”, “rule with a rod of iron”.",
+   "def_es": "La vara que indica realeza y dominio: «cetro de equidad es el cetro de tu reino», «regirá con vara de hierro a las naciones», «las regirá con vara de hierro».",
+   "def_sv": "Staven som visar kungamakt och välde: ”rättvisans spira är din spira”, ”valla folken med en järnstav”, ”styra med järnspira”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ヘブル1:8（2回）、黙示録12:5・19:15・2:27。LXX 詩篇2:9・44:7、教父（25.3.4）に並行。"
+  },
+  {
+   "id": "3",
+   "label": "アロンの杖",
+   "label_en": "Aaron's rod",
+   "label_es": "vara de Aarón",
+   "label_sv": "Arons stav",
+   "def": "契約の箱に納められた杖。『芽を出したアロンの杖』。",
+   "def_en": "The rod kept in the ark of the covenant: “Aaron's rod that budded”.",
+   "def_es": "La vara guardada en el arca del pacto: «la vara de Aarón que reverdeció».",
+   "def_sv": "Staven som förvarades i förbundsarken: ”Arons stav som hade grönskat”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ヘブル9:4 の1例のみ。LXX 出エジプト記7:12・民数記17章、教父（43.5）に並行。"
+  },
+  {
+   "id": "4",
+   "label": "懲らしめの杖",
+   "label_en": "rod of discipline",
+   "label_es": "vara de castigo",
+   "label_sv": "tuktans ris",
+   "def": "懲らしめのための杖。『杖を持ってあなたがたのところへ行こうか』。",
+   "def_en": "A rod for chastising: “shall I come to you with a rod?”",
+   "def_es": "Vara para disciplinar: «¿iré a vosotros con vara?».",
+   "def_sv": "Ett ris för tuktan: ”ska jag komma till er med riset?”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "Ⅰコリ4:21 の1例のみ。LXX 箴言に並行。教父の代表例では確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "5",
+   "label": "測りざお（杖のような）",
+   "label_en": "measuring rod (like a staff)",
+   "label_es": "caña de medir (como vara)",
+   "label_sv": "mätstav (lik en stav)",
+   "def": "『杖のような測りざお』。",
+   "def_en": "“A measuring rod like a staff”.",
+   "def_es": "«Una caña semejante a una vara de medir».",
+   "def_sv": "”En mätstång lik en stav”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "黙示録11:1 の1例のみ。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40010010011": "1",
+  "n41006008011": "1",
+  "n42009003011": "1",
+  "n46004021004": "4",
+  "n58001008017": "2",
+  "n58001008020": "2",
+  "n58009004021": "3",
+  "n58011021015": "1",
+  "n66002027005": "2",
+  "n66011001006": "5",
+  "n66012005012": "2",
+  "n66019015020": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用例（旅の杖／王の杖／アロンの杖／懲らしめ／測りざお）による。"
+}

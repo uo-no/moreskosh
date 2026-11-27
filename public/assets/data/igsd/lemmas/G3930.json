@@ -1,0 +1,65 @@
+{
+ "lemma": "παρέχω",
+ "lemmaId": "grc:G3930",
+ "strong": "G3930",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "与える／提供する",
+   "label_en": "to give / provide",
+   "label_es": "dar / proporcionar",
+   "label_sv": "att ge / tillhandahålla",
+   "def": "与える、提供する、示す。『惜しみなく与え』『正義と公平を与えよ』『良い行いの模範を示し』『その人に求めさせる』。",
+   "def_en": "To give, provide, or show: “richly provides”, “give what is right and fair”, “show an example of good works”, “let him request it of them”.",
+   "def_es": "Dar, proveer, mostrar: «da sin escatimar», «dad justicia y equidad», «mostrándote ejemplo de buenas obras», «hacer que esa persona pida».",
+   "def_sv": "Att ge, skänka, visa: ”ger utan att spara”, ”ge rättvisa och billighet”, ”vara ett föredöme i goda gärningar”, ”få den personen att begära”.",
+   "layers": {
+    "nt": 9,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰテモ6:17、使徒17:31・19:24・28:2・22:2、コロサイ4:1、ルカ6:29・7:4・18:5、テトス2:7。LXX 箴言・知恵、教父（Ⅰクレメンス20.10 ほか）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "（面倒・苦労を）かける／引き起こす",
+   "label_en": "to cause (trouble)",
+   "label_es": "causar (molestias)",
+   "label_sv": "att vålla (besvär)",
+   "def": "『〜に面倒をかける』『〜を引き起こす』。『なぜこの女を困らせるのか』『もう苦労をかけないでほしい』『わずらわしくなる』。",
+   "def_en": "“To cause trouble to …”, “to bring about …”: “Why do you trouble this woman?”, “do not cause me any more trouble”, “become a nuisance”.",
+   "def_es": "«Causar molestia a …», «ocasionar …»: «¿Por qué molestáis a esta mujer?», «nadie me cause más molestias», «ser importuno».",
+   "def_sv": "”Vålla … besvär”, ”orsaka …”: ”varför plågar ni kvinnan?”, ”vålla mig inte mer besvär”, ”bli till besvär”.",
+   "layers": {
+    "nt": 7,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ガラテヤ6:17・ルカ11:7、マタイ26:10、マルコ14:6、ルカ18:5、使徒16:16、Ⅰテモ1:4。LXX・教父に並行する用例。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40026010009": "2",
+  "n41014006010": "2",
+  "n42006029007": "1",
+  "n42007004015": "1",
+  "n42011007008": "2",
+  "n42018005004": "2",
+  "n44016016018": "2",
+  "n44017031017": "1",
+  "n44019024010": "1",
+  "n44022002010": "1",
+  "n44028002004": "1",
+  "n48006017006": "2",
+  "n51004001010": "1",
+  "n54001004009": "2",
+  "n54006017019": "1",
+  "n56002007004": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は目的語・構文による。"
+}

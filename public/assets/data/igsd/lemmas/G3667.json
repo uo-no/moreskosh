@@ -1,0 +1,55 @@
+{
+ "lemma": "ὁμοίωμα",
+ "lemmaId": "grc:G3667",
+ "strong": "G3667",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "似姿・像",
+   "label_en": "likeness, image",
+   "label_es": "semejanza, imagen",
+   "label_sv": "avbild, likhet",
+   "def": "似姿、形、かたち。『いなごの形は』『朽ちる人間や鳥や獣の像に似せた』『人間と同じようになられた』。",
+   "def_en": "A likeness, form or shape: “the appearance of the locusts”, “images resembling mortal man, birds and animals”, “was made in human likeness”.",
+   "def_es": "Semejanza, forma, figura: «el aspecto de las langostas», «en semejanza de imagen de hombre corruptible, de aves y de cuadrúpedos», «hecho semejante a los hombres».",
+   "def_sv": "Skepnad, form, gestalt: ”gräshopporna såg ut”, ”bilder som liknade dödliga människor, fåglar och djur”, ”blev lik en människa”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "黙示録9:7、ローマ1:23、ピリピ2:7。LXX（1.28・4.12）、教父（9.1.9）に並行。語義2との境界は連続的。ピリピ2:7 の ὁμοίωμα の含みは決定しない。"
+  },
+  {
+   "id": "2",
+   "label": "同じ様態・類似",
+   "label_en": "sameness, resemblance",
+   "label_es": "semejanza, conformidad",
+   "label_sv": "likhet, motsvarighet",
+   "def": "同様であること、類似。『アダムの違反と同じような罪』『彼の死と同じ状態に』『罪深い肉と同じ様態で』。",
+   "def_en": "Being in the same manner; similarity: “a sin like the transgression of Adam”, “in the likeness of his death”, “in the likeness of sinful flesh”.",
+   "def_es": "El ser de la misma manera; parecido: «un pecado semejante a la transgresión de Adán», «en la semejanza de su muerte», «en semejanza de carne de pecado».",
+   "def_sv": "Att vara på samma sätt; överensstämmelse: ”en synd lik Adams överträdelse”, ”i likhet med hans död”, ”i syndigt kötts gestalt”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "ローマ5:14・6:5・8:3。教父（3.9.2）に並行。LXX の代表例では確認していない。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n45001023009": "1",
+  "n45005014016": "2",
+  "n45006005006": "2",
+  "n45008003019": "2",
+  "n50002007008": "1",
+  "n66009007003": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（似姿・像／同様の様態）による。"
+}

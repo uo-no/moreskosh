@@ -1,0 +1,54 @@
+{
+ "lemma": "παράκλητος",
+ "lemmaId": "grc:G3875",
+ "strong": "G3875",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "弁護者・とりなす者",
+   "label_en": "advocate, intercessor",
+   "label_es": "abogado, intercesor",
+   "label_sv": "försvarare, förespråkare",
+   "def": "弁護者、とりなす者。『わたしたちには、父のみもとに弁護者がある』。",
+   "def_en": "An advocate, one who pleads for another: “we have an advocate with the Father”.",
+   "def_es": "Abogado, el que intercede: «abogado tenemos para con el Padre».",
+   "def_sv": "Försvarare, en som för någons talan: ”vi har en som för vår talan hos Fadern”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ヨハネ第一2:1。LXX（「παράκλητος」の用例）、教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "助け主・保惠師",
+   "label_en": "Helper, Paraclete",
+   "label_es": "Consolador, Ayudador",
+   "label_sv": "Hjälparen",
+   "def": "助け主（聖霊）。『もうひとりの助け主』『助け主、すなわち真理の御霊』『助け主が来る』『助け主が…あなたがたに来ない』。「助け主」の語義（弁護者・慰め主・助け手）の範囲は決定しない。",
+   "def_en": "The Helper (the Holy Spirit): “another Helper”, “the Helper, that is, the Spirit of truth”, “when the Helper comes”, “the Helper … will not come to you”. The range of the meaning of ‘Helper’ (advocate, comforter, helper) is not decided.",
+   "def_es": "El Ayudador (el Espíritu Santo): «otro Ayudador», «el Ayudador, es decir, el Espíritu de verdad», «cuando venga el Ayudador», «el Ayudador … no vendrá a vosotros». No se decide el alcance del sentido de “Consolador” (abogado, consolador, ayudador).",
+   "def_sv": "Hjälparen (den helige Ande): ”en annan Hjälpare”, ”Hjälparen, sanningens Ande”, ”när Hjälparen kommer”, ”Hjälparen … kommer inte till er”. Omfånget av ordet ’Hjälparen’ (förespråkare, tröstare, hjälpare) avgörs inte.",
+   "layers": {
+    "nt": 4,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヨハネ14:16・14:26・15:26・16:7。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n43014016007": "2",
+  "n43014026003": "2",
+  "n43015026004": "2",
+  "n43016007017": "2",
+  "n62002001013": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（ヨハネ第一の弁護者／ヨハネ福音書の助け主）による。ヨハネ福音書の語義の範囲は決定しない。"
+}

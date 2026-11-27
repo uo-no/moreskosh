@@ -1,0 +1,54 @@
+{
+ "lemma": "προβαίνω",
+ "lemmaId": "grc:G4260",
+ "strong": "G4260",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "年を重ねる",
+   "label_en": "to be advanced in years",
+   "label_es": "ser de edad avanzada",
+   "label_sv": "att vara till åren",
+   "def": "年が進む、年老いる。『年をとっていた』『妻も年をとっています』『年をとり』。",
+   "def_en": "To be getting on in years, to grow old: “was advanced in years”, “my wife too is advanced in years”, “being of great age”.",
+   "def_es": "Avanzar en años, envejecer: «eran ya de edad avanzada», «mi mujer es de edad avanzada», «de edad muy avanzada».",
+   "def_sv": "Att åren går, att bli gammal: ”var till åren”, ”också min hustru är till åren”, ”var gammal”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ルカ1:7・1:18・2:36。LXX に並行。教父の代表例では確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "さらに進む・先へ進む",
+   "label_en": "to go farther",
+   "label_es": "ir más adelante",
+   "label_sv": "att gå längre fram",
+   "def": "少し先へ進む、前進する。『少し行くと』『少し進んで行くと』。",
+   "def_en": "To go a little farther, to advance: “going a little farther”, “when they had gone on a little”.",
+   "def_es": "Adelantarse un poco, avanzar: «yendo un poco adelante», «pasando un poco más adelante».",
+   "def_sv": "Att gå ett stycke vidare: ”gick lite längre”, ”när de gått ett stycke vidare”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "マタイ4:21、マルコ1:19。教父に並行。LXX の代表例では確認していない。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40004021002": "2",
+  "n41001019002": "2",
+  "n42001007013": "1",
+  "n42001018019": "1",
+  "n42002036011": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（年を重ねる／先へ進む）による。"
+}

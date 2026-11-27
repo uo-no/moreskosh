@@ -1,0 +1,87 @@
+{
+ "lemma": "ὑπακούω",
+ "lemmaId": "grc:G5219",
+ "strong": "G5219",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "従う／聞き従う（人・福音・神に）",
+   "label_en": "to obey / heed (persons, the gospel, God)",
+   "label_es": "obedecer / hacer caso (a personas, al evangelio, a Dios)",
+   "label_sv": "att lyda (människor, evangeliet, Gud)",
+   "def": "人・親・主人・福音・神の命令に聞き従う、服従する。与格・属格を伴う。",
+   "def_en": "To listen to and obey, to submit to, people, parents, masters, the gospel, or God's command. With dative or genitive.",
+   "def_es": "Obedecer y someterse a personas, padres, amos, al evangelio o a un mandato de Dios. Con dativo o genitivo.",
+   "def_sv": "Att hörsamma och underordna sig människor, föräldrar, herrar, evangeliet eller Guds befallning. Med dativ eller genitiv.",
+   "layers": {
+    "nt": 15,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "エペソ6:1・5、コロサイ3:20・22（子・奴隷の従順）、ローマ6:12・16・17・10:16、ピリ2:12、Ⅱテサ1:8・3:14、ヘブル5:9・11:8、使徒6:7（多くの祭司が信仰に従った）、Ⅰペテロ3:6。LXX 箴言・サムエル記、教父（バルナバ19.3）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "（自然・悪霊が）従う",
+   "label_en": "to obey (nature, unclean spirits)",
+   "label_es": "obedecer (la naturaleza, los espíritus malignos)",
+   "label_sv": "att lyda (naturen, onda andar)",
+   "def": "風や海、桑の木、汚れた霊がイエスのことばに従う。",
+   "def_en": "The wind and sea, a mulberry tree, or unclean spirits obey the word of Jesus.",
+   "def_es": "El viento y el mar, un sicómoro o los espíritus impuros obedecen la palabra de Jesús.",
+   "def_sv": "Vinden och sjön, mullbärsträdet och orena andar lyder Jesu ord.",
+   "layers": {
+    "nt": 5,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ8:27・マルコ4:41・ルカ8:25（風も海も従う）、マルコ1:27（汚れた霊も従う）、ルカ17:6（桑の木が従う）。語義1との境界は、従う主体が人か自然・霊かによる連続的な区分。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "（戸口に出て）応対する",
+   "label_en": "to answer (the door)",
+   "label_es": "acudir a la puerta / atender",
+   "label_sv": "att gå och öppna (svara vid porten)",
+   "def": "戸をたたく音に応じて出る、応答する。",
+   "def_en": "To come out and respond to a knock at the door.",
+   "def_es": "Salir a responder al sonido de alguien que llama a la puerta.",
+   "def_sv": "Att gå ut och svara när någon knackar på porten.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒12:13（ロデが戸口に出て応対した）の1例のみ。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40008027017": "2",
+  "n41001027023": "2",
+  "n41004041020": "2",
+  "n42008025027": "2",
+  "n42017006023": "2",
+  "n44006007021": "1",
+  "n44012013010": "3",
+  "n45006012013": "1",
+  "n45006016013": "1",
+  "n45006017010": "1",
+  "n45010016004": "1",
+  "n49006001003": "1",
+  "n49006005003": "1",
+  "n50002012006": "1",
+  "n51003020003": "1",
+  "n51003022003": "1",
+  "n53001008013": "1",
+  "n53003014005": "1",
+  "n58005009006": "1",
+  "n58011008004": "1",
+  "n60003006003": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "Abbott の項は22件を挙げるが、パケットは21件（本パケットを正とした）。新約に無い用法は代表例の範囲では見当たらない。"
+}

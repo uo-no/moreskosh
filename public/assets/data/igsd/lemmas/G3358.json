@@ -1,0 +1,97 @@
+{
+ "lemma": "μέτρον",
+ "lemmaId": "grc:G3358",
+ "strong": "G3358",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "升／はかり（尺度）",
+   "label_en": "measure (vessel)",
+   "label_es": "medida (recipiente)",
+   "label_sv": "mått (kärl)",
+   "def": "量るための升・尺度。『量るその升で量り返される』『あなたがたの量る升で』。",
+   "def_en": "A vessel or standard for measuring: “with the measure you use it will be measured back to you”, “the measure you give”.",
+   "def_es": "Recipiente o patrón para medir: «con la misma medida con que medís os volverán a medir», «con la medida que medís».",
+   "def_sv": "Ett kärl eller mått att mäta med: ”med det mått ni mäter ska det mätas upp åt er”, ”det mått ni mäter med”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ルカ6:38（2回）、マタイ7:2、マルコ4:24。LXX エゼキエル48:16、教父（13.2）に並行。語義3との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "測り竿／寸法",
+   "label_en": "measuring rod / measurement",
+   "label_es": "caña de medir / medida",
+   "label_sv": "mätstav / mått",
+   "def": "測り竿、寸法。『金の測り竿』『人間の尺度で測ると』。",
+   "def_en": "A measuring rod, a dimension: “a golden measuring rod”, “by human measurement”.",
+   "def_es": "Caña de medir, dimensión: «una caña de oro para medir», «de medida de hombre».",
+   "def_sv": "En mätstav, en dimension: ”en mätstav av guld”, ”efter människomått”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "黙示録21:15・21:17。LXX エゼキエル40章 に並行。教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "分／程度（割り当てられた量）",
+   "label_en": "share / degree (allotted)",
+   "label_es": "porción / grado (asignado)",
+   "label_sv": "mått / grad (tilldelad andel)",
+   "def": "割り当てられた量、程度。『キリストの賜物の量り』『信仰の量り』『キリストの満ちた身丈の程度』『各部分の働きに応じて』『霊を限りなく与えて』。",
+   "def_en": "An allotted amount, degree: “the measure of Christ's gift”, “the measure of faith”, “the measure of the stature of the fullness of Christ”, “according to the working of each part”, “gives the Spirit without measure”.",
+   "def_es": "Cantidad asignada, grado: «la medida del don de Cristo», «la medida de fe», «la medida de la estatura de la plenitud de Cristo», «según la actividad propia de cada miembro», «no da el Espíritu por medida».",
+   "def_sv": "En tilldelad mängd eller grad: ”måttet av Kristi gåva”, ”trons mått”, ”Kristi fulla mognads mått”, ”efter varje dels uppgift”, ”ger Anden utan mått”.",
+   "layers": {
+    "nt": 7,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "エペソ4:7・4:13・4:16、Ⅱコリ10:13（2回）、ローマ12:3、ヨハネ3:34。LXX 代表例に並行。教父の代表例では確認していない。"
+  },
+  {
+   "id": "4",
+   "label": "満ちる量（罪の升）",
+   "label_en": "full measure (of sin)",
+   "label_es": "medida colmada (del pecado)",
+   "label_sv": "(syndernas) mått",
+   "def": "『あなたがたの先祖の升を満たしなさい』（マタイ23:32）。",
+   "def_en": "“Fill up the measure of your fathers” (Matt 23:32).",
+   "def_es": "«Colmad la medida de vuestros padres» (Mt 23:32).",
+   "def_sv": "”Fyll ni era fäders mått” (Matt 23:32).",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ23:32 の1例のみ。語義3との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40007002010": "1",
+  "n40023032005": "4",
+  "n41004024009": "1",
+  "n42006038005": "1",
+  "n42006038017": "1",
+  "n43003034014": "3",
+  "n45012003030": "3",
+  "n47010013011": "3",
+  "n47010013019": "3",
+  "n49004007010": "3",
+  "n49004013021": "3",
+  "n49004016017": "3",
+  "n66021015007": "2",
+  "n66021017010": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（升／測り竿／割り当て／満ちる量）による。"
+}

@@ -1,0 +1,76 @@
+{
+ "lemma": "ταχέως",
+ "lemmaId": "grc:G5030",
+ "strong": "G5030",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "すぐに／急いで",
+   "label_en": "quickly / in haste",
+   "label_es": "pronto / de prisa",
+   "label_sv": "snabbt / skyndsamt",
+   "def": "すぐに、早く、迅速に。『急いで町の大通りや路地に出て行け』『早く、ぶどう油を五十バテと書き直しなさい』『マリヤは急いで立ち上がり』。",
+   "def_en": "At once, quickly, swiftly: “go out quickly to the streets and lanes of the city”, “write quickly fifty measures of oil”, “Mary rose quickly”.",
+   "def_es": "En seguida, aprisa, con rapidez: «ve pronto por las plazas y las calles», «siéntate pronto, y escribe cincuenta», «María se levantó de prisa».",
+   "def_sv": "Genast, fort: ”gå fort ut på gator och gränder”, ”skriv genast femtio”, ”Maria reste sig hastigt”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ルカ14:21・16:6、ヨハネ11:31。語義2・3との境界は連続的。LXX の代表例（イザヤ8:3 の名）は用法が別で確認できない。教父の用例は無い。"
+  },
+  {
+   "id": "2",
+   "label": "まもなく／近く",
+   "label_en": "soon / shortly",
+   "label_es": "en breve / pronto",
+   "label_sv": "snart / inom kort",
+   "def": "まもなく、近いうちに。『近いうちにあなたがたのところに行く』『急いでわたしのところに来なさい』『まもなくテモテを遣わす』『わたしも近く行けると』。",
+   "def_en": "Soon, before long: “I will come to you soon”, “do your best to come to me soon”, “I hope to send Timothy soon”, “that I myself will come shortly”.",
+   "def_es": "Dentro de poco, próximamente: «iré pronto a vosotros», «procura venir pronto a verme», «espero enviaros pronto a Timoteo», «que yo también iré pronto».",
+   "def_sv": "Snart, i en nära framtid: ”jag kommer snart till er”, ”skynda dig att komma till mig”, ”jag hoppas snart kunna sända Timotheos”, ”att jag själv snart ska komma”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "Ⅰコリ4:19、Ⅱテモ4:9、ピリピ2:19・2:24。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "軽々しく／早まって",
+   "label_en": "rashly / hastily",
+   "label_es": "a la ligera / precipitadamente",
+   "label_sv": "förhastat / överilat",
+   "def": "軽々しく、早まって。『だれにも軽々しく手を置いてはならない』『すぐ心を動かされ』『こんなに早く離れて』。",
+   "def_en": "Hastily, too soon: “do not be hasty in the laying on of hands”, “quickly shaken”, “so quickly deserting”.",
+   "def_es": "Con ligereza, antes de tiempo: «no impongas con ligereza las manos», «no os dejéis mover fácilmente», «tan pronto os hayáis alejado».",
+   "def_sv": "Lättvindigt, för tidigt: ”var inte för snar att lägga händerna på någon”, ”låta er rubbas så lätt”, ”så snabbt överger”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "Ⅰテモ5:22、Ⅱテサ2:2、ガラテヤ1:6。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42014021019": "1",
+  "n42016006017": "1",
+  "n43011031018": "1",
+  "n46004019003": "2",
+  "n48001006004": "3",
+  "n50002019007": "2",
+  "n50002024008": "2",
+  "n53002002004": "3",
+  "n54005022002": "3",
+  "n55004009005": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法による。LXX の代表例は名前としての用法のため確認できず、教父の用例は無い。"
+}

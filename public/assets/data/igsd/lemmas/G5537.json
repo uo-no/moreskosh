@@ -1,0 +1,58 @@
+{
+ "lemma": "χρηματίζω",
+ "lemmaId": "grc:G5537",
+ "strong": "G5537",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "神の示しを受ける／警告される",
+   "label_en": "to receive divine instruction / be warned",
+   "label_es": "recibir aviso divino / ser advertido",
+   "label_sv": "att få gudomlig anvisning / bli varnad",
+   "def": "神から告げ知らされる、啓示を受ける、警告される。『夢で示されたので』『聖霊に示されていた』『神からの警告を受けて』『地上で警告した方』『天からお告げを受けた』『天にあるものの影として…告げられた』『ノアは神の警告を受け』。",
+   "def_en": "To be told by God, to receive revelation, to be warned: “being warned in a dream”, “it had been revealed to him by the Holy Spirit”, “warned by God”, “him who warned them on earth”, “was directed by an angel”, “as a shadow of the heavenly things … was instructed”, “Noah, being warned by God”.",
+   "def_es": "Ser informado por Dios, recibir revelación o advertencia: «siendo avisados en sueños», «le había sido revelado por el Espíritu Santo», «avisado por Dios», «el que los amonestaba en la tierra», «ha recibido instrucciones de un ángel», «figura y sombra de las cosas celestiales … se le advirtió», «Noé, cuando fue advertido por Dios».",
+   "def_sv": "Att få besked, uppenbarelse eller varning av Gud: ”varnade i en dröm”, ”den helige Ande hade uppenbarat för honom”, ”fått en varning av Gud”, ”han som varnade dem på jorden”, ”fått anvisning av en ängel”, ”en avbild av det himmelska … fick befallning”, ”Noa, varnad av Gud”.",
+   "layers": {
+    "nt": 7,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マタイ2:12・2:22、ヘブル12:25・8:5・11:7、ルカ2:26、使徒10:22。LXX エレミヤ33:2・37:2 に並行。教父の用例は無い。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "呼ばれる／称せられる",
+   "label_en": "to be called / named",
+   "label_es": "ser llamado",
+   "label_sv": "att kallas / benämnas",
+   "def": "〜と呼ばれる、称せられる。『弟子たちが初めてキリスト者と呼ばれた』『夫が生きている間は…姦淫の女と呼ばれる』。",
+   "def_en": "To be called, to be named: “the disciples were first called Christians”, “she will be called an adulteress … while her husband is alive”.",
+   "def_es": "Recibir el nombre de: «a los discípulos se les llamó cristianos por primera vez», «mientras el marido viva … será llamada adúltera».",
+   "def_sv": "Att kallas, få namnet: ”lärjungarna började kallas kristna”, ”så länge mannen lever … kallas hon äktenskapsbryterska”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒11:26、ローマ7:3。語義1との境界は連続的。LXX 代表例に並行。教父の用例は無い。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40002012002": "1",
+  "n40002022016": "1",
+  "n42002026004": "1",
+  "n44010022020": "1",
+  "n44011026020": "2",
+  "n45007003007": "2",
+  "n58008005009": "1",
+  "n58011007002": "1",
+  "n58012025015": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（神の示し／称する）による。教父の用例は無い。"
+}

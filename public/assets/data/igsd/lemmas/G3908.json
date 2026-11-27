@@ -1,0 +1,85 @@
+{
+ "lemma": "παρατίθημι",
+ "lemmaId": "grc:G3908",
+ "strong": "G3908",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "供える／（食事を）出す",
+   "label_en": "to set before / serve (food)",
+   "label_es": "servir / poner delante (comida)",
+   "label_sv": "att duka fram / servera (mat)",
+   "def": "食べ物・食卓を人の前に差し出す、配る。『パンを群衆の前に配る』『出されるものを食べなさい』。",
+   "def_en": "To put food or a table before people, to distribute: “set the bread before the crowd”, “eat what is set before you”.",
+   "def_es": "Presentar comida o mesa ante las personas, repartir: «poner los panes delante de la multitud», «comed lo que os pongan delante».",
+   "def_sv": "Att sätta fram mat för människor, att dela ut: ”sätta fram brödet för folket”, ”ät det som sätts fram”.",
+   "layers": {
+    "nt": 9,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "マルコ6:41・8:6（2回）・8:7、ルカ9:16・10:8・11:6、使徒16:34（食事を出した）、Ⅰコリ10:27（出されるものは食べなさい）。LXX・教父（食卓を共にする）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "示す／提示する（たとえ・論証を）",
+   "label_en": "to put forward / present (a parable, argument)",
+   "label_es": "exponer / presentar (parábola, argumento)",
+   "label_sv": "att lägga fram (liknelse, bevisning)",
+   "def": "たとえや論証を人の前に差し出す、提示する、論証する。",
+   "def_en": "To set a parable or argument before people, to present and argue it.",
+   "def_es": "Proponer ante las personas una parábola o un razonamiento, exponer, argumentar.",
+   "def_sv": "Att framställa en liknelse eller ett resonemang för människor, att lägga fram och bevisa.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ13:24・31（別のたとえを彼らの前に示された）、使徒17:3（キリストは苦しみを受けねばならないと論証し）。語義1との境界は連続的（『前に置く』の比喩的延長）。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "委ねる／託す",
+   "label_en": "to entrust / commit",
+   "label_es": "encomendar / confiar",
+   "label_sv": "att anförtro / överlämna",
+   "def": "自分の手のものを、預けて委ねる、信頼して託す。『霊を御手に委ねます』『神の恵みの言葉に委ねる』。",
+   "def_en": "To put what is one's own into another's keeping, to entrust in confidence: “into your hands I commit my spirit”, “commit you to the word of God's grace”.",
+   "def_es": "Dejar en depósito lo que uno tiene en sus manos, confiarlo con fe: «en tus manos encomiendo mi espíritu», «os encomiendo a la palabra de su gracia».",
+   "def_sv": "Att lägga det man har i någon annans förvar, att i förtroende överlämna: ”i dina händer lämnar jag min ande”, ”överlämna er åt Guds nåds ord”.",
+   "layers": {
+    "nt": 7,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "ルカ23:46（わたしの霊を御手に委ねます）・12:48（多く委ねられた者）、使徒14:23（主に委ねた）・20:32、Ⅰテモ1:18、Ⅱテモ2:2（忠実な人たちに託せ）、Ⅰペテロ4:19。教父（ヘルマス26.10.6『あなたがたに託す』）に並行。LXX の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40013024003": "2",
+  "n40013031003": "2",
+  "n41006041025": "1",
+  "n41008006022": "1",
+  "n41008006024": "1",
+  "n41008007011": "1",
+  "n42009016022": "1",
+  "n42010008012": "1",
+  "n42011006013": "1",
+  "n42012048022": "3",
+  "n42023046012": "3",
+  "n44014023010": "3",
+  "n44016034007": "1",
+  "n44017003003": "2",
+  "n44020032004": "3",
+  "n46010027012": "1",
+  "n54001018004": "3",
+  "n55002002010": "3",
+  "n60004019012": "3"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

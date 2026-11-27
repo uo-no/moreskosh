@@ -1,0 +1,55 @@
+{
+ "lemma": "ἐκδικέω",
+ "lemmaId": "grc:G1556",
+ "strong": "G1556",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "正しく裁く・訴えを取り上げる",
+   "label_en": "to give justice, to take up a case",
+   "label_es": "hacer justicia, atender una causa",
+   "label_sv": "att skaffa rätt, att ta upp en sak",
+   "def": "訴えを取り上げて正しく裁く。『わたしの敵に対して、わたしを守ってください』『彼女のために裁判をしてやろう』。",
+   "def_en": "To take up a complaint and judge it rightly: “grant me justice against my adversary”, “I will see that she gets justice”.",
+   "def_es": "Acoger una demanda y juzgar rectamente: «hazme justicia de mi adversario», «le haré justicia».",
+   "def_sv": "Att ta upp en klagan och döma rätt: ”skaffa mig rätt mot min motpart”, ”jag skall skaffa henne rätt”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ルカ18:3・18:5。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "報復する・罰する",
+   "label_en": "to avenge, to punish",
+   "label_es": "vengar, castigar",
+   "label_sv": "att hämnas, att straffa",
+   "def": "報復する、罰する、血の報復をする。『すべての不従順を罰する用意があり』『あなたの血の報復をなさらないのですか』『しもべたちの血の報復をされた』『自分で復讐をしてはならない』。",
+   "def_en": "To take vengeance, to punish, to exact vengeance for blood: “ready to punish every disobedience”, “will you not avenge your blood”, “he has avenged the blood of his servants”, “do not take revenge yourselves”.",
+   "def_es": "Vengar, castigar, vengar la sangre: «prontos a castigar toda desobediencia», «¿no vengas nuestra sangre?», «ha vengado la sangre de sus siervos», «no os venguéis vosotros mismos».",
+   "def_sv": "Att hämnas, att straffa, att utkräva hämnd för blod: ”beredda att straffa all olydnad”, ”skall du inte hämnas vårt blod”, ”han har utkrävt sina tjänares blod”, ”ta inte själva hämnd”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "コリント第二10:6、黙示録6:10・19:2、ローマ12:19。LXX（5.9・19.12）に並行。教父の代表例（7.1.2）は用法の対応が確認できず、この語義としては確認していない。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42018003013": "1",
+  "n42018005010": "1",
+  "n45012019003": "2",
+  "n47010006005": "2",
+  "n66006010017": "2",
+  "n66019002023": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（訴えを取り上げる／報復する・罰する）による。"
+}

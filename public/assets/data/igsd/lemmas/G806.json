@@ -1,0 +1,52 @@
+{
+ "lemma": "ἀσφαλῶς",
+ "lemmaId": "grc:G806",
+ "strong": "G806",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "厳重に",
+   "label_en": "securely",
+   "label_es": "con seguridad, estrictamente",
+   "label_sv": "säkert, noga",
+   "def": "厳重に、しっかりと。『厳重に見張れ』『厳重に監視して』。",
+   "def_en": "Strictly, firmly: “guard him closely”, “keeping watch securely”.",
+   "def_es": "Con rigor, firmemente: «llevadle con seguridad», «que los guardase con seguridad».",
+   "def_sv": "Strängt, ordentligt: ”vakta honom noga”, ”att hålla dem i säkert förvar”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒16:23、マルコ14:44。LXX・教父の代表例では確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "確かに",
+   "label_en": "assuredly",
+   "label_es": "ciertamente",
+   "label_sv": "med visshet",
+   "def": "確かに、確実に。『確実に知らなければならない』。",
+   "def_en": "Certainly, for certain: “must know for certain”.",
+   "def_es": "Con certeza, sin duda: «sepa, pues, ciertísimamente».",
+   "def_sv": "Säkert, förvisso: ”skall veta med säkerhet”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒2:36。LXX に並行。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n41014044018": "1",
+  "n44002036001": "2",
+  "n44016023012": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（厳重に／確かに）による。"
+}

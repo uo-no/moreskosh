@@ -1,0 +1,58 @@
+{
+ "lemma": "χάριν",
+ "lemmaId": "grc:G5484",
+ "strong": "G5484",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "〜のために／〜ゆえに",
+   "label_en": "for the sake of / on account of",
+   "label_es": "por causa de / a causa de",
+   "label_sv": "för … skull / på grund av",
+   "def": "目的・理由を示す『〜のために』『〜ゆえに』。『何のゆえに彼を殺したのか』『そしりを受けるすきを与えないため』『あなたがたのために囚人となっている』『このために私はひざをかがめる』『違反を示すために』『利得のために』『不正な利得のために教える』『（その）ために（罪が赦された）』。",
+   "def_en": "“For the sake of”, “because of”, indicating purpose or reason: “why did he murder him?”, “give no occasion for reviling”, “a prisoner on your behalf”, “for this reason I bow my knees”, “because of transgressions”, “for gain”, “teaching for shameful gain”, “therefore (her sins are forgiven)”.",
+   "def_es": "«Para», «a causa de», indica fin o razón: «¿por qué causa le mató?», «ninguna ocasión de maledicencia», «prisionero por vosotros», «por esta causa doblo mis rodillas», «a causa de las transgresiones», «por sacar provecho», «enseñando por ganancia deshonesta», «por lo cual (sus pecados le son perdonados)».",
+   "def_sv": "”För … skull”, ”på grund av”, anger syfte eller skäl: ”varför dödade han honom?”, ”inte ge anledning till smädelse”, ”fånge för er skull”, ”därför böjer jag mina knän”, ”för överträdelsernas skull”, ”för egen vinning”, ”undervisar för skamlig vinnings skull”, ”därför (är hennes synder förlåtna)”.",
+   "layers": {
+    "nt": 8,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰヨハネ3:12、Ⅰテモ5:14、エペソ3:1・3:14、ガラテヤ3:19、ユダ16、テトス1:5・1:11。LXX 創世記・ヨブ34:12 ほか、教父（55.6、11）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "それゆえに（οὗ χάριν）",
+   "label_en": "therefore (οὗ χάριν)",
+   "label_es": "por lo cual (οὗ χάριν)",
+   "label_sv": "därför (οὗ χάριν)",
+   "def": "『それゆえに』。『それゆえ、あなたに言う』（ルカ7:47）。",
+   "def_en": "“Therefore”: “therefore I tell you” (Luke 7:47).",
+   "def_es": "«Por lo cual»: «por lo cual te digo» (Lc 7:47).",
+   "def_sv": "”Därför”: ”därför säger jag dig” (Luk 7:47).",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ルカ7:47 の1例のみ（οὗ χάριν の句）。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42007047002": "2",
+  "n48003019007": "1",
+  "n49003001002": "1",
+  "n49003014002": "1",
+  "n54005014013": "1",
+  "n56001005002": "1",
+  "n56001011014": "1",
+  "n62003012014": "1",
+  "n65001016019": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法による。"
+}

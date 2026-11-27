@@ -1,0 +1,55 @@
+{
+ "lemma": "ψυχικός",
+ "lemmaId": "grc:G5591",
+ "strong": "G5591",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "魂に属する・自然的な",
+   "label_en": "of the soul, natural",
+   "label_es": "natural, propio del alma",
+   "label_sv": "själisk, naturlig",
+   "def": "魂（ψυχή）に属する、自然的な。『生まれながらの人』『自然のからだ』『自然的なものが先にあり』。",
+   "def_en": "Belonging to the soul (ψυχή), natural: “the natural person”, “a natural body”, “the natural comes first”.",
+   "def_es": "Perteneciente al alma (ψυχή), natural: «el hombre natural», «cuerpo animal», «lo animal es primero».",
+   "def_sv": "Som hör till själen (ψυχή), naturlig: ”den oandliga, naturliga människan”, ”en jordisk kropp”, ”det fysiska kommer först”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "コリント第一2:14・15:44（2回）・15:46。LXX（1.32）に並行（魂に関する用法）。教父の用例なし。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "この世的な・肉的な",
+   "label_en": "worldly, unspiritual",
+   "label_es": "mundano, no espiritual",
+   "label_sv": "världslig, oandlig",
+   "def": "霊的でない、この世的な。『この知恵は…この世的で』『この世の者で、御霊を持たない者』。",
+   "def_en": "Unspiritual, of this world: “such wisdom is … earthly”, “worldly people, devoid of the Spirit”.",
+   "def_es": "Que no es espiritual, de este mundo: «esta sabiduría es … terrenal», «los sensuales, que no tienen al Espíritu».",
+   "def_sv": "Inte andlig, av denna världen: ”denna vishet är … jordisk”, ”världsliga människor som saknar Anden”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヤコブ3:15、ユダ19。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n46002014001": "1",
+  "n46015044003": "1",
+  "n46015044010": "1",
+  "n46015046008": "1",
+  "n59003015010": "2",
+  "n65001019005": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（魂に属する・自然的／この世的）による。"
+}

@@ -1,0 +1,51 @@
+{
+ "lemma": "ἄκακος",
+ "lemmaId": "grc:G172",
+ "strong": "G172",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "無垢な",
+   "label_en": "innocent",
+   "label_es": "inocente",
+   "label_sv": "oskyldig",
+   "def": "悪意のない、無垢な。『罪なく』。",
+   "def_en": "Without malice, innocent: “without guilt”.",
+   "def_es": "Sin malicia, inocente: «inocente».",
+   "def_sv": "Utan ondska, oskyldig: ”utan skuld”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ヘブル7:26。LXX、教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "純朴な・疑いを知らない",
+   "label_en": "guileless, unsuspecting",
+   "label_es": "ingenuo",
+   "label_sv": "godtrogen, enfaldig",
+   "def": "疑いを知らない、純朴な。『素朴な人たち』。",
+   "def_en": "Unsuspecting, simple-hearted: “simple people”.",
+   "def_es": "Que no sospecha, sencillo: «los ingenuos».",
+   "def_sv": "Intet ont anande, troskyldig: ”godtrogna människor”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ローマ16:18。LXX に並行。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n45016018024": "2",
+  "n58007026008": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法による。"
+}

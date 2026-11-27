@@ -1,0 +1,100 @@
+{
+ "lemma": "ποταμός",
+ "lemmaId": "grc:G4215",
+ "strong": "G4215",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "川／河川",
+   "label_en": "river",
+   "label_es": "río",
+   "label_sv": "flod / älv",
+   "def": "流れる川。ヨルダン川、祈りの場の川、ユーフラテス川、危険な川。",
+   "def_en": "A flowing river: the Jordan, the river at the place of prayer, the Euphrates, dangerous rivers.",
+   "def_es": "Corriente de agua: el Jordán, el río junto al lugar de oración, el Éufrates, ríos peligrosos.",
+   "def_sv": "Ett strömmande vattendrag: Jordan, floden vid böneplatsen, Eufrat, farliga floder.",
+   "layers": {
+    "nt": 8,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "マタイ3:6・マルコ1:5（ヨルダン川）、使徒16:13（川のほとりの祈りの場）、Ⅱコリ11:26（川の難）、黙示録8:10・9:14・16:4・12（ユーフラテス）。LXX 創世記・エゼキエル、教父（ヘルマス1.1.2）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "洪水／奔流",
+   "label_en": "flood / torrent",
+   "label_es": "crecida / torrente",
+   "label_sv": "störtflod",
+   "def": "雨で増水した川、あふれる川。『川があふれて家に押し寄せた』。",
+   "def_en": "A river swollen by rain, overflowing: “the floods rose and beat against the house”.",
+   "def_es": "Río crecido por la lluvia, desbordado: «creció el río y golpeó contra la casa».",
+   "def_sv": "En av regn uppsvälld, översvämmande flod: ”floden steg och störtade mot huset”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ7:25・27（雨が降り、川があふれ）、ルカ6:48・49（洪水が押し寄せ）。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "（いのちの）川／生ける水の川",
+   "label_en": "river (of life) / rivers of living water",
+   "label_es": "río (de vida) / ríos de agua viva",
+   "label_sv": "(livets) flod / strömmar av levande vatten",
+   "def": "腹から流れ出る生ける水の川、神と小羊の御座から出るいのちの水の川。",
+   "def_en": "Rivers of living water flowing from within; the river of the water of life flowing from the throne of God and of the Lamb.",
+   "def_es": "Ríos de agua viva que brotan del interior; el río de agua de vida que sale del trono de Dios y del Cordero.",
+   "def_sv": "Strömmar av levande vatten som flyter ur det inre; floden med livets vatten från Guds och Lammets tron.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "ヨハネ7:38（その腹から生ける水の川が流れ出る）、黙示録22:1・2（いのちの水の川）。教父（ヘルマス11.10）に並行。LXX の代表例では確認していない。"
+  },
+  {
+   "id": "4",
+   "label": "（竜が吐く）川",
+   "label_en": "river (spewed by the dragon)",
+   "label_es": "río (arrojado por el dragón)",
+   "label_sv": "flod (som draken sprutar ut)",
+   "def": "竜が女に向かって口から吐き出す川、地がそれを飲み込む。",
+   "def_en": "The river the dragon spews from its mouth after the woman, which the earth swallows.",
+   "def_es": "El río que el dragón arroja de su boca tras la mujer y que la tierra traga.",
+   "def_sv": "Floden som draken sprutar ur sitt gap efter kvinnan och som jorden slukar.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "黙示録12:15・16の2トークンのみ。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40003006006": "1",
+  "n40007025008": "2",
+  "n40007027008": "2",
+  "n41001005020": "1",
+  "n42006048021": "2",
+  "n42006049020": "2",
+  "n43007038009": "3",
+  "n44016013011": "1",
+  "n47011026004": "1",
+  "n66008010022": "1",
+  "n66009014017": "1",
+  "n66012015014": "4",
+  "n66012016017": "4",
+  "n66016004010": "1",
+  "n66016012010": "1",
+  "n66022001004": "3",
+  "n66022002008": "3"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

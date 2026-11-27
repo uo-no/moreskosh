@@ -1,0 +1,58 @@
+{
+ "lemma": "ἄνομος",
+ "lemmaId": "grc:G459",
+ "strong": "G459",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "不法な（者）",
+   "label_en": "lawless (person)",
+   "label_es": "inicuo / transgresor (persona)",
+   "label_sv": "laglös (människa)",
+   "def": "律法にそむく、不法な（者）。『不法な者、不従順な者』『不法な者たちの行いに悩まされ』『不法な者が現れ』『不法な人々の手によって十字架につけ』『罪人の数に入れられた』。",
+   "def_en": "Transgressing the law, lawless: “the lawless and disobedient”, “distressed by the conduct of the lawless”, “the lawless one will be revealed”, “crucified by the hands of lawless men”, “was numbered with the transgressors”.",
+   "def_es": "Que infringe la ley, inicuo: «los transgresores y desobedientes», «abrumado por la conducta de los malvados», «se manifestará aquel inicuo», «por manos de inicuos crucificándole», «fue contado con los inicuos».",
+   "def_sv": "Som bryter mot lagen, laglös: ”de laglösa och upproriska”, ”plågad av de laglösas liv”, ”då ska den Laglöse träda fram”, ”med hjälp av laglösa korsfäst”, ”räknades bland de laglösa”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰテモ1:9、Ⅱペテロ2:8、Ⅱテサ2:8、使徒2:23、ルカ22:37。LXX 詩篇・イザヤ、教父（45.4、4.9）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "律法を持たない（者）",
+   "label_en": "without the law (person)",
+   "label_es": "sin ley (persona)",
+   "label_sv": "utan lag (människa)",
+   "def": "律法のない、律法の外にある（者）。『律法のない者には律法のない者のように』『律法のない者を獲得するため』。",
+   "def_en": "Having no law, being outside the law: “to those outside the law as one outside the law”, “to win those outside the law”.",
+   "def_es": "El que no tiene ley, el que está fuera de ella: «a los que están sin ley, como si yo estuviera sin ley», «para ganar a los que están sin ley».",
+   "def_sv": "Som saknar lagen och står utanför den: ”för dem som är utan lag har jag blivit som en utan lag”, ”för att vinna dem som är utan lag”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "Ⅰコリ9:21（4回）。語義1との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42022037015": "1",
+  "n44002023012": "1",
+  "n46009021002": "2",
+  "n46009021004": "2",
+  "n46009021007": "2",
+  "n46009021015": "2",
+  "n53002008005": "1",
+  "n54001009008": "1",
+  "n61002008015": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（不法／律法の外）による。"
+}

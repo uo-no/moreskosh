@@ -1,0 +1,57 @@
+{
+ "lemma": "ὀσφῦς",
+ "lemmaId": "grc:G3751",
+ "strong": "G3751",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "腰",
+   "label_en": "waist / loins",
+   "label_es": "cintura / lomos",
+   "label_sv": "höft / midja",
+   "def": "腰、腰のあたり。『皮の帯を腰にしめ』『腰に皮の帯』『腰に帯をしめ』『腰を引き締め』『腰に真理の帯をしめ』『心を引き締め』。",
+   "def_en": "The waist: “a leather belt around his waist”, “a leather belt on his waist”, “let your waist be girded”, “gird up your loins”, “the belt of truth around your waist”, “preparing your minds for action”.",
+   "def_es": "La cintura: «un cinto de cuero alrededor de sus lomos», «cinto de cuero», «estén ceñidos vuestros lomos», «ceñidos los lomos», «ceñidos vuestros lomos con la verdad», «ceñid los lomos de vuestro entendimiento».",
+   "def_sv": "Midjan och höfterna: ”ett läderbälte om höfterna”, ”läderbälte om livet”, ”ha bältet spänt om livet”, ”fäst upp era kläder”, ”sanningen som bälte om livet”, ”gör ert sinne redo”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "マタイ3:4、マルコ1:6、ルカ12:35、エペソ6:14、ペテロ第一1:13。LXX（24.17・13.2）、教父（16.1・2.1）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "腰（子孫の出どころ）",
+   "label_en": "loins (as source of offspring)",
+   "label_es": "lomos (origen de la descendencia)",
+   "label_sv": "länd (avkommans ursprung)",
+   "def": "腰＝子孫が出てくるところ。『アブラハムの腰から出た者』『まだ父の腰の中にいた』『ダビデの腰の実』。",
+   "def_en": "The loins as the place from which descendants come: “descended from Abraham”, “still in the loins of his ancestor”, “the fruit of David's loins”.",
+   "def_es": "Los lomos como lugar de donde sale la descendencia: «los que han salido de los lomos de Abrahán», «aún estaba en los lomos de su padre», «del fruto de los lomos de David».",
+   "def_sv": "Länden som den plats avkomman utgår ifrån: ”de som utgått ur Abrahams länd”, ”fanns ännu i sin stamfaders länd”, ”en frukt av Davids länd”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヘブル7:5・7:10、使徒2:30。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40003004017": "1",
+  "n41001006013": "1",
+  "n42012035004": "1",
+  "n44002030015": "2",
+  "n49006014005": "1",
+  "n58007005028": "2",
+  "n58007010005": "2",
+  "n60001013004": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（腰／子孫の出どころ）による。"
+}

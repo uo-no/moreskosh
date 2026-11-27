@@ -1,0 +1,56 @@
+{
+ "lemma": "καταπίνω",
+ "lemmaId": "grc:G2666",
+ "strong": "G2666",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "飲み込む・食い尽くす",
+   "label_en": "to swallow, to devour",
+   "label_es": "tragar, devorar",
+   "label_sv": "att svälja, att sluka",
+   "def": "飲み込む、食い尽くす、のみ込む（水・地・獣などが）。『らくだはのみ込む』『地はその口をあけて…飲み込んだ』『ほえたける獅子のように…食い尽くそうとして』『エジプト人は溺れた』。",
+   "def_en": "To swallow, devour or engulf (said of water, the earth, beasts and the like): “swallow a camel”, “the earth opened its mouth … and swallowed”, “like a roaring lion … seeking someone to devour”, “the Egyptians were drowned”.",
+   "def_es": "Tragar, devorar, engullir (dicho del agua, la tierra, fieras, etc.): «tragáis el camello», «la tierra abrió su boca … y tragó», «como león rugiente … buscando a quién devorar», «los egipcios fueron ahogados».",
+   "def_sv": "Att svälja, sluka, uppsluka (om vatten, jorden, djur och liknande): ”sväljer kamelen”, ”jorden öppnade sin mun … och slukade”, ”som ett rytande lejon … söker efter någon att sluka”, ”egyptierna drunknade”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マタイ23:24、黙示録12:16、ペテロ第一5:8、ヘブル11:29。LXX（140.6・16.8）に並行。教父の用例なし。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "のみ尽くされる（比喩）",
+   "label_en": "to be swallowed up (figurative)",
+   "label_es": "ser consumido, ser absorbido (figurado)",
+   "label_sv": "att bli uppslukad (bildligt)",
+   "def": "のみ込まれる、圧倒される。『死は勝利にのまれた』『悲しみに押しつぶされることのないように』『死ぬものがいのちにのまれてしまうために』。",
+   "def_en": "To be swallowed up, to be overwhelmed: “death has been swallowed up in victory”, “so that he may not be overwhelmed by grief”, “so that what is mortal may be swallowed up by life”.",
+   "def_es": "Ser absorbido, quedar abrumado: «sorbida es la muerte en victoria», «para que no sea consumido por la tristeza», «para que lo mortal sea absorbido por la vida».",
+   "def_sv": "Att bli uppslukad, att bli överväldigad: ”döden är uppslukad i seger”, ”så att han inte går under i sin sorg”, ”så att det dödliga uppslukas av livet”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "コリント第一15:54、コリント第二2:7・5:4。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40023024010": "1",
+  "n46015054020": "2",
+  "n47002007013": "2",
+  "n47005004018": "2",
+  "n58011029015": "1",
+  "n60005008013": "1",
+  "n66012016015": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（字義の飲み込み／比喩的にのまれる）による。"
+}

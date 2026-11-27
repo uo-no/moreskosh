@@ -1,0 +1,57 @@
+{
+ "lemma": "ἐκφέρω",
+ "lemmaId": "grc:G1627",
+ "strong": "G1627",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "運び出す／連れ出す",
+   "label_en": "to carry out / bring out",
+   "label_es": "sacar / llevar fuera",
+   "label_sv": "att bära ut / föra ut",
+   "def": "運び出す、持ち出す、連れ出す。『何も持ち出すこともできない』『運び出して葬った』『あなたの夫を葬った人たちが』『病人を通りに運び出し』『最上の衣を出して』『盲人を村の外に連れ出し』。",
+   "def_en": "To carry out, take out, lead out: “we cannot take anything out of the world”, “carried him out and buried him”, “those who have buried your husband”, “carried out the sick into the streets”, “bring out the best robe”, “led the blind man out of the village”.",
+   "def_es": "Sacar, llevar fuera, conducir fuera: «nada podremos sacar», «sacándole, le sepultaron», «los pies de los que han sepultado a tu marido», «sacaban los enfermos a las calles», «sacad el mejor vestido», «sacó al ciego fuera de la aldea».",
+   "def_sv": "Att bära ut, ta med ut, leda ut: ”kan inte heller bära med oss något ut”, ”bar ut honom och begravde honom”, ”de som begravt din man”, ”bar ut de sjuka på gatorna”, ”ta fram den finaste dräkten”, ”förde den blinde ut ur byn”.",
+   "layers": {
+    "nt": 7,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰテモ6:7、使徒5:6・5:9・5:10・5:15、ルカ15:22、マルコ8:23。LXX 創世記・申命記26:10、教父（52.2、4.1）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "産出する（地が）",
+   "label_en": "to produce (the earth)",
+   "label_es": "producir (la tierra)",
+   "label_sv": "att frambringa (jorden)",
+   "def": "産み出す、実らせる。『いばらとあざみを生ずる地』（ヘブル6:8）。",
+   "def_en": "To bring forth, to bear: “if it bears thorns and thistles” (Heb 6:8).",
+   "def_es": "Producir, dar fruto: «la que produce espinos y abrojos» (He 6:8).",
+   "def_sv": "Att bära och ge: ”om den bär törne och tistel” (Heb 6:8).",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ヘブル6:8 の1例のみ。語義1との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n41008023007": "1",
+  "n42015022010": "1",
+  "n44005006008": "1",
+  "n44005009026": "1",
+  "n44005010018": "1",
+  "n44005015006": "1",
+  "n54006007009": "1",
+  "n58006008001": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（運び出す／産出）による。"
+}

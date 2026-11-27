@@ -1,0 +1,80 @@
+{
+ "lemma": "ἕκτος",
+ "lemmaId": "grc:G1623",
+ "strong": "G1623",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "第六（時刻・正午ごろ）",
+   "label_en": "sixth (hour, about noon)",
+   "label_es": "sexta (hora, hacia el mediodía)",
+   "label_sv": "sjätte (timmen, vid middagstid)",
+   "def": "『第六の時』。昼の十二時ごろ。『第六時ごろ』『正午から三時まで』。",
+   "def_en": "“The sixth hour”, around twelve noon: “about the sixth hour”, “from noon until three”.",
+   "def_es": "«La hora sexta», hacia las doce del día: «como a la hora sexta», «desde la hora sexta hasta la novena».",
+   "def_sv": "”Sjätte timmen”, omkring klockan tolv: ”vid sjätte timmen”, ”från sjätte timmen till nionde”.",
+   "layers": {
+    "nt": 7,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒10:9、ヨハネ19:14・4:6、ルカ23:44、マタイ20:5・27:45、マルコ15:33。LXX・教父の代表例では確認していない（序数としての『第六』は語義3に並行）。"
+  },
+  {
+   "id": "2",
+   "label": "第六（月）",
+   "label_en": "sixth (month)",
+   "label_es": "sexto (mes)",
+   "label_sv": "sjätte (månaden)",
+   "def": "『第六の月』。『エリサベツが身ごもって六か月目』。",
+   "def_en": "“The sixth month”: “the sixth month of Elizabeth's pregnancy”.",
+   "def_es": "«El sexto mes»: «el sexto mes del embarazo de Elisabet».",
+   "def_sv": "”Sjätte månaden”: ”sjätte månaden av Elisabets havandeskap”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ルカ1:26・1:36。LXX・教父の代表例では確認していない。語義3との境界は連続的。"
+  },
+  {
+   "id": "3",
+   "label": "第六（順序）",
+   "label_en": "sixth (order)",
+   "label_es": "sexto (orden)",
+   "label_sv": "sjätte (ordningstal)",
+   "def": "順序としての第六。『第六の御使い』『第六の封印』『第六の宝石』。",
+   "def_en": "Sixth in sequence: “the sixth angel”, “the sixth seal”, “the sixth jewel”.",
+   "def_es": "El sexto en una serie: «el sexto ángel», «el sexto sello», «la sexta piedra preciosa».",
+   "def_sv": "Den sjätte i ordningen: ”sjätte ängeln”, ”sjätte sigillet”, ”sjätte ädelstenen”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "黙示録16:12・21:20・6:12・9:13・9:14。LXX 歴代誌上25:13、教父（26.1.7）に並行。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40020005007": "1",
+  "n40027045003": "1",
+  "n41015033004": "1",
+  "n42001026006": "2",
+  "n42001036017": "2",
+  "n42023044006": "1",
+  "n43004006022": "1",
+  "n43019014009": "1",
+  "n44010009018": "1",
+  "n66006012008": "3",
+  "n66009013003": "3",
+  "n66009014003": "3",
+  "n66016012003": "3",
+  "n66021020005": "3"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は数える対象（時刻／月／順序）による。"
+}

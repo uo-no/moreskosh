@@ -1,0 +1,74 @@
+{
+ "lemma": "ἀποκαθίστημι",
+ "lemmaId": "grc:G600",
+ "strong": "G600",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "元に戻る・癒される",
+   "label_en": "to be restored / healed",
+   "label_es": "quedar restablecido / sanado",
+   "label_sv": "att bli återställd / botad",
+   "def": "体の部分や病が元に戻る、癒える。『手は元どおりになった』『手は元どおりになった』『すっかり見えるようになった』『手は元どおりになった』。",
+   "def_en": "A part of the body or a disease returns to normal, heals: “his hand was restored”, “was restored”, “saw everything clearly”, “his hand was restored”.",
+   "def_es": "Un miembro o una enfermedad vuelve a su estado, sana: «le fue restaurada la mano», «fue restaurada», «quedó restablecido y veía claramente», «su mano fue restaurada».",
+   "def_sv": "En kroppsdel eller sjukdom återgår till det normala: ”handen blev återställd”, ”blev frisk igen”, ”fick synen helt tillbaka”, ”handen blev som förut”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "マタイ12:13、マルコ3:5・8:25、ルカ6:10。教父（56.6）に並行。LXX の代表例は状況・地位の回復の用法で、この語義としては確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "回復する・再興する",
+   "label_en": "to restore / re-establish",
+   "label_es": "restaurar / restablecer",
+   "label_sv": "att återupprätta / återställa",
+   "def": "物事や状態を元に戻す、再興する。『イスラエルのために国を再興なさるのは』『エリヤがまず来て、万事を元どおりにする』『エリヤがまず来て、万事を元どおりにするはずだ』。",
+   "def_en": "To return things or a state to what they were, to restore: “will you restore the kingdom to Israel?”, “Elijah comes first and restores all things”, “Elijah does come, and he will restore all things”.",
+   "def_es": "Devolver las cosas o un estado a lo que eran: «¿restaurarás el reino a Israel?», «Elías vendrá primero, y restaurará todas las cosas», «Elías viene primero y restaurará todas las cosas».",
+   "def_sv": "Att föra saker och förhållanden tillbaka: ”är tiden inne att återupprätta riket åt Israel?”, ”Elia kommer först och återställer allt”, ”Elia ska komma och återställa allt”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒1:6、マタイ17:11、マルコ9:12。LXX（23.8・41.13）に並行。教父の代表例では確認していない。語義1・3との境界は連続的。"
+  },
+  {
+   "id": "3",
+   "label": "戻される（人が）",
+   "label_en": "to be given back (a person)",
+   "label_es": "ser restituido (persona)",
+   "label_sv": "att återges (om en person)",
+   "def": "人が元の場所へ戻される。『わたしがいっそう早くあなたがたのもとに帰れるように』。",
+   "def_en": "A person is returned to their former place: “that I may be restored to you the sooner”.",
+   "def_es": "La persona es devuelta a su lugar: «para que yo os sea restituido más pronto».",
+   "def_sv": "En människa förs tillbaka: ”så att jag snart kan återvända till er”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヘブル13:19。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40012013012": "1",
+  "n40017011009": "2",
+  "n41003005022": "1",
+  "n41008025013": "1",
+  "n41009012009": "2",
+  "n42006010015": "1",
+  "n44001006014": "2",
+  "n58013019008": "3"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（体の回復／物事の再興／人の帰還）による。"
+}

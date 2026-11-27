@@ -1,0 +1,82 @@
+{
+ "lemma": "ζῆλος",
+ "lemmaId": "grc:G2205",
+ "strong": "G2205",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "熱心／熱意",
+   "label_en": "zeal / fervour",
+   "label_es": "celo / fervor",
+   "label_sv": "iver / nit",
+   "def": "ある対象に向かう熱い思い、熱心。神・人・事柄への熱意。『神への熱心』『あなたがたのための熱心』『あなたの家を思う熱心』。",
+   "def_en": "Warm, intense feeling directed at an object, zeal: zeal toward God, people, or matters: “zeal for God”, “zeal on your behalf”, “zeal for your house”.",
+   "def_es": "Sentimiento ardiente hacia un objeto, celo por Dios, personas o asuntos: «celo de Dios», «solicitud por vosotros», «el celo de tu casa».",
+   "def_sv": "En brinnande känsla för något, nit för Gud, människor eller saker: ”iver för Gud”, ”er iver för oss”, ”lidelsen för ditt hus”.",
+   "layers": {
+    "nt": 7,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅱコリ7:7・7:11・9:2・11:2（神の熱心）、ヨハネ2:17、ピリピ3:6、ローマ10:2。LXX イザヤ9:7、教父（Ⅰクレメンス）に並行。語義2との境界は連続的（対象・文脈による）。"
+  },
+  {
+   "id": "2",
+   "label": "ねたみ／嫉妬",
+   "label_en": "jealousy / envy",
+   "label_es": "celos / envidia",
+   "label_sv": "avund / svartsjuka",
+   "def": "他者への妬み、嫉妬、争い。『ねたみと争い』『肉の行い：ねたみ』。",
+   "def_en": "Envy of others, jealousy, strife: “jealousy and quarrelling”, “works of the flesh: jealousy”.",
+   "def_es": "Envidia hacia otros, celos, rivalidad: «contiendas y celos», «obras de la carne: celos».",
+   "def_sv": "Avundsjuka mot andra, svartsjuka, strid: ”avund och gräl”, ”köttets gärningar: avund”.",
+   "layers": {
+    "nt": 8,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰコリ3:3、Ⅱコリ12:20、ガラテヤ5:20、ヤコブ3:14・3:16、ローマ13:13、使徒5:17・13:45（ねたみに満ちて）。LXX エゼキエル23:25、教父（Ⅰクレメンス45.4）に並行。使徒5:17・13:45 は語義1との境界が連続的。"
+  },
+  {
+   "id": "3",
+   "label": "激しい火（裁きの熱）",
+   "label_en": "fierce fire (heat of judgment)",
+   "label_es": "ardor del fuego (juicio)",
+   "label_sv": "förtärande eld (domens hetta)",
+   "def": "焼き尽くす火の激しさ。『敵対する者たちを焼き尽くす激しい火』（ヘブル10:27）。",
+   "def_en": "The fierceness of a consuming fire: “a raging fire that will consume the adversaries” (Heb 10:27).",
+   "def_es": "La vehemencia de un fuego devorador: «hervor de fuego que ha de devorar a los adversarios» (Heb 10:27).",
+   "def_sv": "Den förtärande eldens våldsamhet: ”en glupande eld som ska förtära motståndarna” (Heb 10:27).",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ヘブル10:27 の1例のみ。LXX イザヤ26:11・ゼパニヤ1:18 などに並行する用法。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n43002017009": "1",
+  "n44005017016": "2",
+  "n44013045008": "2",
+  "n45010002005": "1",
+  "n45013013017": "2",
+  "n46003003009": "2",
+  "n47007007027": "1",
+  "n47007011022": "1",
+  "n47009002019": "1",
+  "n47011002005": "1",
+  "n47012020020": "2",
+  "n48005020005": "2",
+  "n50003006002": "1",
+  "n58010027008": "3",
+  "n59003014003": "2",
+  "n59003016003": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "対象・評価は文脈による。"
+}

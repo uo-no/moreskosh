@@ -1,0 +1,55 @@
+{
+ "lemma": "χειμών",
+ "lemmaId": "grc:G5494",
+ "strong": "G5494",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "冬",
+   "label_en": "winter",
+   "label_es": "invierno",
+   "label_sv": "vinter",
+   "def": "冬、冬の季節。『冬になる前に』『冬のことであった』『それが冬にならないように祈れ』『冬に逃げることのないように祈れ』。",
+   "def_en": "Winter, the winter season: “come before winter”, “it was winter”, “pray that it may not be in winter”, “pray that your flight may not be in winter”.",
+   "def_es": "El invierno, la estación invernal: «ven antes del invierno», «era invierno», «orad que no sea en invierno», «orad que vuestra huida no sea en invierno».",
+   "def_sv": "Vinter, vintertiden: ”kom före vintern”, ”det var vinter”, ”be att det inte sker på vintern”, ”be att ni inte behöver fly om vintern”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "テモテ第二4:21、ヨハネ10:22、マタイ24:20、マルコ13:18。LXX（37.6）、教父（21.1.2・20.1.3）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "嵐",
+   "label_en": "storm",
+   "label_es": "tempestad",
+   "label_sv": "oväder",
+   "def": "冬の嵐、暴風雨。『激しい暴風が吹きすさび』『空が曇って荒れ模様だ』。",
+   "def_en": "A winter storm, tempest: “a violent storm raged”, “stormy today, for the sky is dark and threatening”.",
+   "def_es": "Temporal de invierno, tormenta: «una tempestad no pequeña arreciaba», «hoy habrá tempestad, porque el cielo está nublado».",
+   "def_sv": "Vinterstorm, hårt väder: ”ovädret rasade häftigt”, ”det blir oväder, för himlen är mörkröd”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒27:20、マタイ16:3。LXX（9.6）に並行（雨期・嵐の用法）。教父の代表例では確認していない。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40016003004": "2",
+  "n40024020009": "1",
+  "n41013018006": "1",
+  "n43010022008": "1",
+  "n44027020010": "2",
+  "n55004021003": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（冬／嵐）による。"
+}

@@ -1,0 +1,57 @@
+{
+ "lemma": "καρποφορέω",
+ "lemmaId": "grc:G2592",
+ "strong": "G2592",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "実をならせる（字義）",
+   "label_en": "to bear fruit (literal)",
+   "label_es": "dar fruto (literal)",
+   "label_sv": "att bära frukt (bokstavligt)",
+   "def": "地が実を結ぶ。『地はひとりでに実をならせる』。",
+   "def_en": "The land bears fruit: “the earth produces by itself”.",
+   "def_es": "La tierra da fruto: «de suyo lleva fruto la tierra».",
+   "def_sv": "Jorden ger skörd: ”av sig själv bär jorden gröda”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マルコ4:28。LXX（9.17）に並行。教父の代表例は比喩の用法。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "実を結ぶ（比喩）",
+   "label_en": "to bear fruit (figurative)",
+   "label_es": "dar fruto (figurado)",
+   "label_sv": "att bära frukt (bildligt)",
+   "def": "行いや生き方において実を結ぶ。『御言を聞いて悟る人は、実を結ぶ』『神のあらゆる良いわざにおいて実を結び』『福音は全世界で実を結び』『神のために実を結ぶため』。",
+   "def_en": "To bear fruit in conduct and manner of life: “the one who hears the word and understands it bears fruit”, “bearing fruit in every good work of God”, “the gospel is bearing fruit in the whole world”, “that we may bear fruit for God”.",
+   "def_es": "Dar fruto en la conducta y la vida: «el que oye y entiende la palabra, da fruto», «llevando fruto en toda buena obra», «el evangelio lleva fruto en todo el mundo», «a fin de que llevemos fruto para Dios».",
+   "def_sv": "Att bära frukt i handling och liv: ”den som hör ordet och förstår det bär frukt”, ”bära frukt i allt gott verk”, ”evangeliet bär frukt i hela världen”, ”för att vi ska bära frukt åt Gud”.",
+   "layers": {
+    "nt": 7,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "マタイ13:23、マルコ4:20、ルカ8:15、コロサイ1:6・1:10、ローマ7:4・7:5。教父（21.1.8・11.11）に並行。LXX の代表例は字義の用法で、この語義としては確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40013023018": "2",
+  "n41004020018": "2",
+  "n41004028004": "1",
+  "n42008015020": "2",
+  "n45007004024": "2",
+  "n45007005022": "2",
+  "n51001006012": "2",
+  "n51001010012": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（字義の結実／比喩の結実）による。"
+}

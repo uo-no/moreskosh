@@ -1,0 +1,51 @@
+{
+ "lemma": "ἐπιλύω",
+ "lemmaId": "grc:G1956",
+ "strong": "G1956",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "解決する",
+   "label_en": "to settle",
+   "label_es": "resolver",
+   "label_sv": "att avgöra",
+   "def": "解決する、決着をつける。『正規の議会で決着がつける』。",
+   "def_en": "To resolve, to decide a matter: “it will be settled in the lawful assembly”.",
+   "def_es": "Decidir, zanjar un asunto: «en legítima asamblea se puede decidir».",
+   "def_sv": "Att lösa, att slita en sak: ”det får avgöras i den lagliga församlingen”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒19:39。LXX・教父の代表例では確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "解き明かす",
+   "label_en": "to explain",
+   "label_es": "explicar",
+   "label_sv": "att uttyda",
+   "def": "解き明かす、説明する。『弟子たちには…解き明かされた』。",
+   "def_en": "To expound, to make clear: “to his disciples … he explained”.",
+   "def_es": "Aclarar, interpretar: «a sus discípulos … les declaraba».",
+   "def_sv": "Att förklara: ”för sina lärjungar … förklarade han”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "マルコ4:34。LXX の用例なし。教父に並行。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n41004034013": "2",
+  "n44019039010": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（解決／解き明かし）による。"
+}

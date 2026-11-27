@@ -1,0 +1,53 @@
+{
+ "lemma": "βαθύς",
+ "lemmaId": "grc:G901",
+ "strong": "G901",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "深い",
+   "label_en": "deep",
+   "label_es": "hondo, profundo",
+   "label_sv": "djup",
+   "def": "深い。『その井戸は深い』『深い眠り』『サタンの深み』。",
+   "def_en": "Deep: “the well is deep”, “a deep sleep”, “the deep things of Satan”.",
+   "def_es": "Profundo: «el pozo es hondo», «un sueño profundo», «las profundidades de Satanás».",
+   "def_sv": "Djup: ”brunnen är djup”, ”djup sömn”, ”Satans djupheter”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒20:9、ヨハネ4:11、黙示録2:24。LXX、教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "朝まだき（βαθέως）",
+   "label_en": "early at dawn (βαθέως)",
+   "label_es": "muy de mañana (βαθέως)",
+   "label_sv": "tidigt i gryningen (βαθέως)",
+   "def": "ごく早朝に。『明け方早く』（ὄρθρου βαθέως）。",
+   "def_en": "Very early in the morning: “early at dawn” (ὄρθρου βαθέως).",
+   "def_es": "A primerísima hora: «muy de mañana» (ὄρθρου βαθέως).",
+   "def_sv": "Mycket tidigt på morgonen: ”tidigt i gryningen” (ὄρθρου βαθέως).",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ルカ24:1。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42024001007": "2",
+  "n43004011013": "1",
+  "n44020009012": "1",
+  "n66002024019": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（深い／ごく早い）による。"
+}

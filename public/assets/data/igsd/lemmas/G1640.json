@@ -1,0 +1,70 @@
+{
+ "lemma": "ἐλάσσων",
+ "lemmaId": "grc:G1640",
+ "strong": "G1640",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "劣った・少ない",
+   "label_en": "lesser, inferior",
+   "label_es": "menor, inferior",
+   "label_sv": "ringare, sämre",
+   "def": "劣った、少ない。『それよりも劣る者』『劣悪なぶどう酒』。",
+   "def_en": "Inferior, less: “one lower than that”, “the inferior wine”.",
+   "def_es": "Inferior, menos: «el que es menor que eso», «el vino inferior».",
+   "def_sv": "Underlägsen, mindre: ”den som är ringare än det”, ”det sämre vinet”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ヘブル7:7、ヨハネ2:10。LXX に並行。教父の代表例では確認していない。語義2・3との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "年下の",
+   "label_en": "younger",
+   "label_es": "menor (de edad)",
+   "label_sv": "yngre",
+   "def": "年下の、若い方の。『兄は弟に仕える』。",
+   "def_en": "Younger in age: “the elder will serve the younger”.",
+   "def_es": "El de menos años: «el mayor servirá al menor».",
+   "def_sv": "Den yngre till åren: ”den äldre skall tjäna den yngre”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ローマ9:12。LXX、教父に並行。語義1との境界は連続的。"
+  },
+  {
+   "id": "3",
+   "label": "〜未満の",
+   "label_en": "under (a minimum)",
+   "label_es": "de menos de",
+   "label_sv": "under",
+   "def": "基準に満たない。『六十歳未満ではない』。",
+   "def_en": "Not reaching the standard: “not less than sixty years old”.",
+   "def_es": "Que no alcanza la medida: «no menor de sesenta años».",
+   "def_sv": "Som inte når upp till gränsen: ”inte under sextio år”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "テモテ第一5:9。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n43002010015": "1",
+  "n45009012015": "2",
+  "n54005009004": "3",
+  "n58007007006": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（劣る／年下／未満）による。"
+}

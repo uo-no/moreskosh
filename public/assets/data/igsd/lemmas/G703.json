@@ -1,0 +1,54 @@
+{
+ "lemma": "ἀρετή",
+ "lemmaId": "grc:G703",
+ "strong": "G703",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "徳・卓越",
+   "label_en": "virtue, excellence",
+   "label_es": "virtud, excelencia",
+   "label_sv": "dygd, förträfflighet",
+   "def": "徳、卓越、すぐれた性質。『信仰に徳を加え』『徳によって召された』『徳があり』『何かほめるべきことがあれば』。",
+   "def_en": "Virtue, excellence, a fine quality: “add virtue to your faith”, “called through his excellence”, “if there is any virtue”, “if there is anything praiseworthy”.",
+   "def_es": "Virtud, excelencia, cualidad sobresaliente: «añadid virtud a vuestra fe», «llamados por su excelencia», «si hay virtud alguna», «si algo hay digno de alabanza».",
+   "def_sv": "Dygd, förträfflighet, god egenskap: ”lägg dygd till er tro”, ”kallade genom hans härliga egenskaper”, ”om det finns någon dygd”, ”om det finns något som förtjänar beröm”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ペテロ第二1:3・1:5（2回）、ピリピ4:8。LXX、教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "みわざ・栄誉",
+   "label_en": "mighty deeds, praises",
+   "label_es": "proezas, alabanzas",
+   "label_sv": "väldiga gärningar, lovvärdhet",
+   "def": "神のみわざ、栄誉をたたえるべきもの。『その驚くべき御業を宣べ伝える』。",
+   "def_en": "God’s deeds, that for which God is to be praised: “to proclaim his wonderful deeds”.",
+   "def_es": "Las obras de Dios, aquello por lo que merece alabanza: «para anunciar sus obras maravillosas».",
+   "def_sv": "Guds gärningar, det för vilket Gud skall prisas: ”för att förkunna hans underbara verk”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ペテロ第一2:9。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n50004008019": "1",
+  "n60002009014": "2",
+  "n61001003023": "1",
+  "n61001005014": "1",
+  "n61001005018": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（徳・卓越／みわざ）による。"
+}

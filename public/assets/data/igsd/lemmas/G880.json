@@ -1,0 +1,53 @@
+{
+ "lemma": "ἄφωνος",
+ "lemmaId": "grc:G880",
+ "strong": "G880",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "物言わぬ・口のきけない",
+   "label_en": "mute, speechless",
+   "label_es": "mudo",
+   "label_sv": "stum",
+   "def": "物を言わない、口のきけない。『ものを言わぬ偶像』『ものを言わない驢馬』『屠り場にひかれて…黙っている』。",
+   "def_en": "Unable to speak, dumb: “mute idols”, “a speechless donkey”, “led to the slaughter … silent”.",
+   "def_es": "Que no habla, sin voz: «ídolos mudos», «un asno mudo», «llevado al matadero … mudo».",
+   "def_sv": "Som inte talar, mållös: ”stumma avgudar”, ”en stum åsna”, ”förd till slakt … stum”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "コリント第一12:2、ペテロ第二2:16、使徒8:32。LXX、教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "意味を持たない",
+   "label_en": "without meaning",
+   "label_es": "sin significado",
+   "label_sv": "utan mening",
+   "def": "意味をなさない（音）。『意味のないものは一つもない』。",
+   "def_en": "Without meaning (of sounds): “none of them is without meaning”.",
+   "def_es": "Que no tiene sentido (un sonido): «ninguno de ellos carece de significado».",
+   "def_sv": "Som saknar betydelse (om ljud): ”inget av dem är utan mening”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "コリント第一14:10。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n44008032022": "1",
+  "n46012002010": "1",
+  "n46014010011": "2",
+  "n61002016007": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（物言わぬ／意味を持たない）による。"
+}

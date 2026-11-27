@@ -1,0 +1,81 @@
+{
+ "lemma": "ὁμοιόω",
+ "lemmaId": "grc:G3666",
+ "strong": "G3666",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "たとえる／比べる（能動）",
+   "label_en": "to liken / compare (active)",
+   "label_es": "comparar / asemejar (activa)",
+   "label_sv": "att likna / jämföra (aktivt)",
+   "def": "たとえる、比べる。『何にたとえようか』『この時代を何にたとえようか』『神の国を何にたとえようか』。",
+   "def_en": "To liken, to compare: “to what shall I liken it?”, “to what shall I compare this generation?”, “with what shall we compare the kingdom of God?”",
+   "def_es": "Comparar, asemejar: «¿a qué lo compararé?», «¿a qué compararé esta generación?», «¿a qué haremos semejante el reino de Dios?».",
+   "def_sv": "Att likna och jämföra: ”vad ska jag likna det vid?”, ”vad ska jag likna detta släkte vid?”, ”med vad ska vi jämföra Guds rike?”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ルカ13:18・13:20・7:31、マタイ11:16、マルコ4:30。LXX 詩篇82:2 などに並行。教父の代表例では確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "〜にたとえられる（受動・譬え）",
+   "label_en": "to be likened to (passive, parable)",
+   "label_es": "ser semejante a (pasiva, parábola)",
+   "label_sv": "att liknas vid (passivum, liknelse)",
+   "def": "『〜のようである』『〜にたとえられる』の形で、天の国・人を譬える。『天の国は〜のようである』『賢い人に似ている』。",
+   "def_en": "In the form “is like …”, “may be compared to …”, likening the kingdom of heaven or a person: “the kingdom of heaven is like …”, “is like a wise man”.",
+   "def_es": "En la forma «es como …», «se compara a …», describe en parábola el reino o a una persona: «el reino de los cielos es semejante a …», «se parece a un hombre prudente».",
+   "def_sv": "I formen ”är som …”, ”kan liknas vid …” om himmelriket eller en människa: ”med himmelriket är det som när …”, ”liknar en klok man”.",
+   "layers": {
+    "nt": 6,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マタイ13:24・18:23・22:2・25:1・7:24・7:26。LXX 代表例に並行。教父の代表例では確認していない。語義3との境界は連続的。"
+  },
+  {
+   "id": "3",
+   "label": "似る／似た者となる",
+   "label_en": "to be like / become like",
+   "label_es": "asemejarse / hacerse semejante",
+   "label_sv": "att likna / bli lik",
+   "def": "似た者になる、同じようになる。『神々が人間の姿でわたしたちのところに降って来た』『兄弟たちと同じようにならねばならなかった』『彼らのまねをするな』『ソドムのようになった』。",
+   "def_en": "To become like, to become the same as: “the gods have come down to us in human likeness”, “had to be made like his brothers”, “do not be like them”, “would have become like Sodom”.",
+   "def_es": "Llegar a ser semejante, igual: «dioses bajo la semejanza de hombres han descendido a nosotros», «debía ser semejante a sus hermanos», «no os hagáis semejantes a ellos», «habríamos venido a ser como Sodoma».",
+   "def_sv": "Att bli lik, bli likadan: ”gudarna har stigit ner till oss i människogestalt”, ”måste bli lik sina bröder”, ”ta inte efter dem”, ”hade blivit som Sodom”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒14:11、ヘブル2:17、マタイ6:8、ローマ9:29。LXX 詩篇、教父（4.2 ほか）に並行。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40006008003": "3",
+  "n40007024012": "2",
+  "n40007026013": "2",
+  "n40011016003": "1",
+  "n40013024006": "2",
+  "n40018023003": "2",
+  "n40022002001": "2",
+  "n40025001002": "2",
+  "n41004030004": "1",
+  "n42007031003": "1",
+  "n42013018012": "1",
+  "n42013020005": "1",
+  "n44014011016": "3",
+  "n45009029020": "3",
+  "n58002017007": "3"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は態・構文による。"
+}

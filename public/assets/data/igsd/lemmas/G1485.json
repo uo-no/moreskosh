@@ -1,0 +1,61 @@
+{
+ "lemma": "ἔθος",
+ "lemmaId": "grc:G1485",
+ "strong": "G1485",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "習わし／慣習",
+   "label_en": "custom / practice",
+   "label_es": "costumbre / práctica",
+   "label_sv": "sed / bruk",
+   "def": "民・制度の習わし、慣習。『モーセの慣習』『ローマ人が受け入れることのできない慣習』『父祖の慣習』『祭司職の習慣に従い』『祭りの慣例』『ユダヤ人の埋葬の習慣』。",
+   "def_en": "The custom or practice of a people or institution: “the custom of Moses”, “customs that Romans cannot accept”, “the customs of the fathers”, “according to the custom of the priesthood”, “the custom of the feast”, “the burial custom of the Jews”.",
+   "def_es": "Costumbre de un pueblo o institución: «el rito de Moisés», «costumbres que a los romanos no es lícito recibir», «las costumbres de los padres», «conforme a la costumbre del sacerdocio», «la costumbre de la fiesta», «la costumbre judía de sepultar».",
+   "def_sv": "Ett folks eller en institutions sed: ”seden från Mose”, ”seder som romare inte får anta”, ”fädernas seder”, ”enligt prästtjänstens bruk”, ”högtidens sed”, ”judarnas begravningssed”.",
+   "layers": {
+    "nt": 10,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒15:1・16:21・25:16・21:21・26:3・6:14・28:17、ルカ1:9・2:42、ヨハネ19:40。語義2との境界は連続的。パケットの LXX・教父の代表例は ἔθνος など別の語形で、層は確認できない。"
+  },
+  {
+   "id": "2",
+   "label": "常の習慣",
+   "label_en": "habit (personal)",
+   "label_es": "hábito",
+   "label_sv": "vana",
+   "def": "個人の習慣、いつものこと。『ある人々の習慣のように集まりを捨てず』『いつものようにオリーブ山に行った』。",
+   "def_en": "A person's habit, what one usually does: “not neglecting to meet together, as is the habit of some”, “went to the Mount of Olives as was his custom”.",
+   "def_es": "El hábito de alguien, lo que suele hacer: «no dejando de congregarnos, como algunos tienen por costumbre», «se fue, como solía, al monte de los Olivos».",
+   "def_sv": "En människas vana, det man brukar göra: ”utebli inte från sammankomsterna, som några brukar”, ”gick som vanligt till Olivberget”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヘブル10:25、ルカ22:39。語義1との境界は連続的。層は確認できない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42001009003": "1",
+  "n42002042010": "1",
+  "n42022039006": "2",
+  "n43019040015": "1",
+  "n44006014017": "1",
+  "n44015001015": "1",
+  "n44016021003": "1",
+  "n44021021024": "1",
+  "n44025016007": "1",
+  "n44026003009": "1",
+  "n44028017029": "1",
+  "n58010025007": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "パケットの LXX・教父の代表例は別の語形（ἔθνος など）で、層別確認に不十分。"
+}

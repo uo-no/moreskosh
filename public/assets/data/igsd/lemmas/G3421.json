@@ -1,0 +1,87 @@
+{
+ "lemma": "μνημονεύω",
+ "lemmaId": "grc:G3421",
+ "strong": "G3421",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "思い出す／覚えている",
+   "label_en": "to remember / recall",
+   "label_es": "recordar / acordarse",
+   "label_sv": "att minnas / komma ihåg",
+   "def": "過去のことば・出来事・人を思い出す、覚えている。『わたしが言ったことばを思い出しなさい』。",
+   "def_en": "To recall or remember past words, events, or people: “remember the word that I said”.",
+   "def_es": "Recordar palabras, hechos o personas del pasado: «acordaos de la palabra que yo os dije».",
+   "def_sv": "Att minnas och komma ihåg tidigare ord, händelser eller människor: ”kom ihåg vad jag har sagt”.",
+   "layers": {
+    "nt": 15,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "マタイ16:9、マルコ8:18、ヨハネ15:20・16:4・16:21、ルカ17:32、使徒20:31・35、エペソ2:11、Ⅱテサ2:5、Ⅱテモ2:8、ヘブル11:15、黙示録2:5・3:3、Ⅰテサ2:9。LXX トビト4:19・詩篇、教父（ヘルマス）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "心に留める／気にかける",
+   "label_en": "to keep in mind / be concerned for",
+   "label_es": "tener presente / preocuparse por",
+   "label_sv": "att tänka på / bry sig om",
+   "def": "人・働き・指導者・貧しい者を心にかけて覚える、配慮する。神が悪を覚える。",
+   "def_en": "To remember people, work, leaders, or the poor with care and concern; God remembers evil deeds.",
+   "def_es": "Recordar con solicitud a personas, obras, dirigentes o pobres, cuidar de ellos. Dios se acuerda de las maldades.",
+   "def_sv": "Att med omsorg komma ihåg människor, gärningar, ledare eller de fattiga. Gud kommer ihåg det onda.",
+   "layers": {
+    "nt": 5,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "ガラテヤ2:10（貧しい者を覚えること）、コロサイ4:18（わたしの鎖を覚えていてください）、ヘブル13:7（指導者たちを覚えなさい）、Ⅰテサ1:3（あなたがたの働きを覚えて）、黙示録18:5（神は不義を覚えられた）。教父（ポリュカルポス2.14.1 ほか、祈りの中で覚えて）に並行。語義1との境界は連続的。LXX の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "言及する／触れる",
+   "label_en": "to mention / refer to",
+   "label_es": "mencionar / aludir a",
+   "label_sv": "att nämna / beröra",
+   "def": "話題にする、言葉に出して触れる。",
+   "def_en": "To bring up a subject, to touch on it in words.",
+   "def_es": "Sacar un tema, referirse a él con palabras.",
+   "def_sv": "Att ta upp något, att beröra det i ord.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ヘブル11:22（ヨセフはイスラエルの子らの出国について語った）の1例のみ。LXX 列王記など『名を口にする』の並行。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40016009004": "1",
+  "n41008018012": "1",
+  "n42017032001": "1",
+  "n43015020001": "1",
+  "n43016004011": "1",
+  "n43016021018": "1",
+  "n44020031003": "1",
+  "n44020035011": "1",
+  "n48002010005": "2",
+  "n49002011002": "1",
+  "n51004018007": "2",
+  "n52001003001": "2",
+  "n52002009001": "1",
+  "n53002005002": "1",
+  "n55002008001": "1",
+  "n58011015005": "1",
+  "n58011022010": "3",
+  "n58013007001": "2",
+  "n66002005001": "1",
+  "n66003003001": "1",
+  "n66018005010": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

@@ -1,0 +1,98 @@
+{
+ "lemma": "ἀναιρέω",
+ "lemmaId": "grc:G337",
+ "strong": "G337",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "殺す／殺害する",
+   "label_en": "to kill / put to death",
+   "label_es": "matar / dar muerte",
+   "label_sv": "att döda / ta livet av",
+   "def": "人の命を奪う。個人への殺害のほか、処刑、集団の殺戮、殺害の企て・陰謀の対象としても述べられる。",
+   "def_en": "To take a person's life. Besides the killing of an individual, it is also stated of execution, mass slaughter, and as the object of a plan or plot to kill.",
+   "def_es": "Quitar la vida a una persona. Además de la muerte de un individuo, se dice de la ejecución, la matanza colectiva y como objeto de un plan o conspiración para matar.",
+   "def_sv": "Att beröva en människa livet. Förutom dödandet av en enskild sägs det om avrättning, massdödande och som mål för mordplaner och sammansvärjningar.",
+   "layers": {
+    "nt": 22,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒行伝に集中（使徒5:33、9:23・24・29、23:15・21、25:3 等の殺害の企て）、マタイ2:16（幼児虐殺）、ルカ22:2・23:32、第二テサロニケ2:8（主が息で滅ぼす）。受動形（殺される）や、自殺の企て（使徒16:27）も含む。"
+  },
+  {
+   "id": "2",
+   "label": "拾い上げる／引き取る",
+   "label_en": "to pick up / take in",
+   "label_es": "recoger / adoptar",
+   "label_sv": "att ta upp / ta till sig",
+   "def": "置かれていた者を取り上げて、自分のもとに引き取る。中動態で、取り上げて養う意味に用いられる。",
+   "def_en": "To take up someone who had been laid down and receive them to oneself. In the middle voice, used in the sense of taking up and rearing.",
+   "def_es": "Levantar a quien había sido dejado y tomarlo consigo. En voz media, se usa en el sentido de recogerlo y criarlo.",
+   "def_sv": "Att ta upp någon som lagts ut och ta denne till sig. I medium används det i betydelsen att ta upp och fostra.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒7:21（捨てられた赤子を王女が引き取って育てた）。LXX出エジプト2:10に並行。"
+  },
+  {
+   "id": "3",
+   "label": "取り除く／廃する",
+   "label_en": "to remove / abolish",
+   "label_es": "quitar / abolir",
+   "label_sv": "att avskaffa / upphäva",
+   "def": "ある取り決め・制度を無効にして取り除く。事物（人以外）を対象に、その効力を終わらせることを述べる。",
+   "def_en": "To remove an arrangement or institution by making it invalid. With a thing (not a person) as object, states the ending of its force.",
+   "def_es": "Suprimir una disposición o institución dejándola sin validez. Con una cosa (no una persona) como objeto, expresa que se pone fin a su vigencia.",
+   "def_sv": "Att undanröja en ordning eller institution genom att göra den ogiltig. Med en sak (inte en människa) som objekt anger att dess giltighet upphör.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヘブル10:9（第一のものを取り除いて第二のものを立てる）。代表例の範囲では、人以外を対象とするこの用法は確認できない（LXX・教父の代表例は殺す・取り上げる）。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40002016013": "1",
+  "n42022002010": "1",
+  "n42023032009": "1",
+  "n44002023014": "1",
+  "n44005033007": "1",
+  "n44005036019": "1",
+  "n44007021004": "2",
+  "n44007028002": "1",
+  "n44007028008": "1",
+  "n44009023009": "1",
+  "n44009024019": "1",
+  "n44009029011": "1",
+  "n44010039017": "1",
+  "n44012002001": "1",
+  "n44013028008": "1",
+  "n44016027018": "1",
+  "n44022020021": "1",
+  "n44023015031": "1",
+  "n44023021023": "1",
+  "n44023027010": "1",
+  "n44025003012": "1",
+  "n44026010021": "1",
+  "n53002008010": "1",
+  "n58010009010": "3"
+ },
+ "unresolved": [],
+ "layer_notes": "代表例の範囲で新約に無い用法は見当たらない。",
+ "excluded": [
+  {
+   "ref": "2CO 11:1",
+   "form": "ἀνείχεσθε",
+   "reason": "ἀνέχομαι G430 の形（英語グロス bear with と一致）で、ἀναιρέω に誤配当されている。bible_data の修正は別アクション。"
+  }
+ ],
+ "note": "確定頻度は新約24件。2CO 11:1 のトークン ἀνείχεσθε はἀνέχομαι G430 の形（英語グロス bear with と一致）で、ἀναιρέω に誤配当されているため、この語の用例から除外した（元の下書きでは新約25件）。"
+}

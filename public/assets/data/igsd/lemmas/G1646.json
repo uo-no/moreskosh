@@ -1,0 +1,62 @@
+{
+ "lemma": "ἐλάχιστος",
+ "lemmaId": "grc:G1646",
+ "strong": "G1646",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "最も小さい／最も低い（人・位置）",
+   "label_en": "least / lowest (person, position)",
+   "label_es": "el más pequeño / el menor (persona, puesto)",
+   "label_sv": "minst / ringast (person, ställning)",
+   "def": "最小の、最も低い。『使徒たちの中で最も小さい者』『ユダの君たちの中で決して最も小さくはない』『最も小さい者の一人にしたのは』『天の国で最も小さいと呼ばれる』。",
+   "def_en": "The smallest, the lowest: “the least of the apostles”, “by no means least among the rulers of Judah”, “you did it to one of the least”, “will be called least in the kingdom of heaven”.",
+   "def_es": "El menor, el más bajo: «el más pequeño de los apóstoles», «no eres la más pequeña entre los príncipes de Judá», «a uno de estos mis hermanos más pequeños», «será llamado muy pequeño en el reino de los cielos».",
+   "def_sv": "Den minste, den lägste: ”den ringaste av apostlarna”, ”ingalunda minst bland Juda furstar”, ”gjort mot en av de minsta”, ”kallas den minste i himmelriket”.",
+   "layers": {
+    "nt": 6,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰコリ15:9、マタイ2:6・25:40・25:45・5:19（2回）。LXX Ⅰ列王記6:26・教父（8.5）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "ごく小さい／取るに足りない",
+   "label_en": "very small / trivial",
+   "label_es": "muy pequeño / insignificante",
+   "label_sv": "mycket liten / obetydlig",
+   "def": "ごく小さい、取るに足りない。『ごく小さな事』『最も小さな事にも忠実な者』『わずかなことすらできない』『ごく小さな舵』『こんな小さな事件を裁く』。",
+   "def_en": "Very small, insignificant: “a very little thing”, “faithful in very little”, “cannot do even so small a thing”, “a very small rudder”, “try such trivial cases”.",
+   "def_es": "Muy poca cosa, sin importancia: «en muy poco», «fiel en lo muy poco», «no podéis ni aun lo que es menos», «un timón muy pequeño», «juzgar asuntos tan pequeños».",
+   "def_sv": "Ytterst liten och betydelselös: ”en mycket liten sak”, ”trogen i det minsta”, ”inte ens förmå det minsta”, ”ett litet roder”, ”döma i så småting”.",
+   "layers": {
+    "nt": 7,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰコリ4:3・6:2、ヤコブ3:4、ルカ12:26・16:10（2回）・19:17。LXX 詩篇・知恵6:6、教父（23.4.2）に並行。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40002006007": "1",
+  "n40005019010": "1",
+  "n40005019016": "1",
+  "n40025040019": "1",
+  "n40025045015": "1",
+  "n42012026004": "2",
+  "n42016010004": "2",
+  "n42016010013": "2",
+  "n42019017009": "2",
+  "n46004003004": "2",
+  "n46006002020": "2",
+  "n46015009005": "1",
+  "n59003004014": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（最小／取るに足りない）による。"
+}

@@ -1,0 +1,63 @@
+{
+ "lemma": "σεισμός",
+ "lemmaId": "grc:G4578",
+ "strong": "G4578",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "地震",
+   "label_en": "earthquake",
+   "label_es": "terremoto",
+   "label_sv": "jordbävning",
+   "def": "地震、大地の揺れ。『大地震が起こって』『各地に地震が起こる』『大地震があり、都の十分の一が倒れた』『稲妻と雷鳴と地震と』。",
+   "def_en": "An earthquake, a shaking of the earth: “there was a great earthquake”, “earthquakes in various places”, “a great earthquake, and a tenth of the city fell”, “lightning, thunder, and an earthquake”.",
+   "def_es": "Terremoto, sacudida de la tierra: «hubo un gran terremoto», «terremotos en diferentes lugares», «un gran terremoto, y la décima parte de la ciudad se derrumbó», «relámpagos, truenos y un terremoto».",
+   "def_sv": "En jordbävning, att marken skakar: ”det blev en kraftig jordbävning”, ”jordbävningar på olika platser”, ”en stor jordbävning, och en tiondel av staden rasade”, ”blixtar, dunder och jordbävning”.",
+   "layers": {
+    "nt": 13,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒16:26、ルカ21:11、マタイ28:2・24:7・27:54、マルコ13:8、黙示録11:13（2回）・11:19・16:18（2回）・8:5・6:12。LXX 預言書（エレミヤ23:19 ほか）に並行。教父の用例は無い。"
+  },
+  {
+   "id": "2",
+   "label": "大荒れ／嵐（海の）",
+   "label_en": "storm / tempest (at sea)",
+   "label_es": "tempestad (en el mar)",
+   "label_sv": "storm (på sjön)",
+   "def": "海が揺れ動くこと、嵐。『海に大荒れが起こり』。",
+   "def_en": "A shaking of the sea, a storm: “there arose a great storm on the sea”.",
+   "def_es": "Agitación del mar, tormenta: «se levantó en el mar una tempestad grande».",
+   "def_sv": "Att sjön rörs upp, ett oväder: ”det blåste upp en våldsam storm på sjön”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ8:24 の1例のみ。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40008024003": "2",
+  "n40024007014": "1",
+  "n40027054013": "1",
+  "n40028002003": "1",
+  "n41013008011": "1",
+  "n42021011001": "1",
+  "n44016026003": "1",
+  "n66006012010": "1",
+  "n66008005028": "1",
+  "n66011013007": "1",
+  "n66011013019": "1",
+  "n66011019030": "1",
+  "n66016018009": "1",
+  "n66016018023": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "教父の用例は無い。"
+}

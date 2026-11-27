@@ -1,0 +1,51 @@
+{
+ "lemma": "κεφάλαιον",
+ "lemmaId": "grc:G2774",
+ "strong": "G2774",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "金額",
+   "label_en": "sum of money",
+   "label_es": "suma de dinero",
+   "label_sv": "penningsumma",
+   "def": "金額、総額。『多額の金を出して』。",
+   "def_en": "A sum, a total amount: “paid a large sum of money”.",
+   "def_es": "Cantidad, importe total: «con una gran suma».",
+   "def_sv": "Belopp, totalsumma: ”för en stor summa pengar”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒22:28。LXX に並行。教父の用例なし。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "要点",
+   "label_en": "main point",
+   "label_es": "punto principal",
+   "label_sv": "huvudsak",
+   "def": "要点、主要な点。ヘブル8:1 を『要点』と読むか『総括』と読むかは決定しない。",
+   "def_en": "The chief point. It is not decided whether Hebrews 8:1 is to be read as “the main point” or as “a summing up”.",
+   "def_es": "Lo esencial. No se decide si Hebreos 8:1 debe leerse como «el punto principal» o como «recapitulación».",
+   "def_sv": "Den viktigaste punkten. Det avgörs inte om Hebreerbrevet 8:1 skall läsas som ”huvudpunkten” eller ”sammanfattningen”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヘブル8:1。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n44022028007": "1",
+  "n58008001001": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（金額／要点）による。"
+}

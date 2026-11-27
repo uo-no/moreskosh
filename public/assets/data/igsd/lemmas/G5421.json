@@ -1,0 +1,56 @@
+{
+ "lemma": "φρέαρ",
+ "lemmaId": "grc:G5421",
+ "strong": "G5421",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "井戸",
+   "label_en": "well",
+   "label_es": "pozo",
+   "label_sv": "brunn",
+   "def": "水を汲む井戸。『井戸は深いのに』『この井戸をわたしたちに与えた』『井戸に落ちたなら』。",
+   "def_en": "A well for drawing water: “the well is deep”, “who gave us this well”, “if it falls into a well”.",
+   "def_es": "Pozo del que se saca agua: «el pozo es hondo», «que nos dio este pozo», «si cae en un pozo».",
+   "def_sv": "En brunn att hämta vatten ur: ”brunnen är djup”, ”som gav oss denna brunn”, ”om det faller i en brunn”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ヨハネ4:11・4:12、ルカ14:5。LXX（26.25・21.18）に並行。教父の用例なし。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "穴・深み（底なしの）",
+   "label_en": "pit, shaft (bottomless)",
+   "label_es": "pozo (del abismo)",
+   "label_sv": "schakt (avgrundens)",
+   "def": "底知れぬ所の穴、立て坑。『底知れぬ穴の鍵』『その穴を開くと』『穴から煙が』。",
+   "def_en": "The pit or shaft of the abyss: “the key to the bottomless pit”, “when he opened the shaft”, “smoke from the shaft”.",
+   "def_es": "El pozo o conducto del abismo sin fondo: «la llave del pozo del abismo», «cuando abrió el pozo», «humo del pozo».",
+   "def_sv": "Hålet eller schaktet till den bottenlösa avgrunden: ”nyckeln till avgrundens brunn”, ”när han öppnade schaktet”, ”rök ur schaktet”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "黙示録9:1・9:2（3回）。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42014005011": "1",
+  "n43004011011": "1",
+  "n43004012013": "1",
+  "n66009001022": "2",
+  "n66009002004": "2",
+  "n66009002012": "2",
+  "n66009002028": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（水を汲む井戸／底知れぬ穴）による。"
+}

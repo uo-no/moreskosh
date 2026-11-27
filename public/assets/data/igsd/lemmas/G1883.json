@@ -1,0 +1,85 @@
+{
+ "lemma": "ἐπάνω",
+ "lemmaId": "grc:G1883",
+ "strong": "G1883",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "〜の上に（位置）",
+   "label_en": "above / on (position)",
+   "label_es": "encima de / sobre (posición)",
+   "label_sv": "ovanpå / ovanför (läge)",
+   "def": "物・人の上に、上方に。『山の上に立つ町』『ろばの上に』『頭の上に（罪状書き）』『蛇や蠍の上を踏む』。",
+   "def_en": "On or above a thing or person: “a city set on a hill”, “on a donkey”, “(the charge) above his head”, “to tread on snakes and scorpions”.",
+   "def_es": "Sobre o por encima de una cosa o persona: «ciudad situada sobre un monte», «sobre un asno», «(el título) sobre su cabeza», «pisar serpientes y escorpiones».",
+   "def_sv": "På eller ovanför ett ting eller en människa: ”en stad på ett berg”, ”på åsnan”, ”(anklagelsen) ovanför huvudet”, ”trampa på ormar och skorpioner”.",
+   "layers": {
+    "nt": 13,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マタイ2:9・5:14・21:7・23:18・20・22・27:37・28:2、ルカ4:39（熱病の上に立って）・10:19・11:44、黙示録6:8・20:3。LXX に並行。教父の代表例では確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "〜以上（数・量）",
+   "label_en": "more than (number, quantity)",
+   "label_es": "más de (número, cantidad)",
+   "label_sv": "över (antal, mängd)",
+   "def": "数・量が上回る、『〜より多く』。",
+   "def_en": "A number or quantity exceeding: “more than …”.",
+   "def_es": "Que supera un número o cantidad: «más de …».",
+   "def_sv": "Att ett antal eller en mängd överskrids: ”mer än …”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "Ⅰコリ15:6（五百人以上の兄弟たち）、マルコ14:5（三百デナリ以上）。LXX レビ記27:7 などに並行。教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "〜の上に（地位・権威）",
+   "label_en": "over (rank, authority)",
+   "label_es": "sobre (rango, autoridad)",
+   "label_sv": "över (ställning, myndighet)",
+   "def": "地位・権威が上にある、上に立てられる。『十の町の上に』『上から来る者は万物の上にある』。",
+   "def_en": "Being higher in rank or authority, set over: “over ten cities”, “he who comes from above is above all”.",
+   "def_es": "Estar por encima en rango o autoridad, puesto sobre: «sobre diez ciudades», «el que viene de arriba está sobre todos».",
+   "def_sv": "Att stå högre i rang eller myndighet, vara satt över: ”över tio städer”, ”den som kommer ovanifrån är över alla”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヨハネ3:31（上から来る者は万物の上にある。同一節に2回）、ルカ19:17・19（十の町・五つの町を治める）。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40002009021": "1",
+  "n40005014011": "1",
+  "n40021007015": "1",
+  "n40023018018": "1",
+  "n40023020014": "1",
+  "n40023022017": "1",
+  "n40027037003": "1",
+  "n40028002019": "1",
+  "n41014005007": "2",
+  "n42004039003": "1",
+  "n42010019008": "1",
+  "n42011044015": "1",
+  "n42019017015": "3",
+  "n42019019007": "3",
+  "n43003031004": "3",
+  "n43003031026": "3",
+  "n46015006003": "2",
+  "n66006008010": "1",
+  "n66020003011": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

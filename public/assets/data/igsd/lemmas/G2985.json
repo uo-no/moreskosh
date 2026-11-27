@@ -1,0 +1,75 @@
+{
+ "lemma": "λαμπάς",
+ "lemmaId": "grc:G2985",
+ "strong": "G2985",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "ともしび（十人のおとめの）",
+   "label_en": "lamp (of the ten virgins)",
+   "label_es": "lámpara (de las diez vírgenes)",
+   "label_sv": "lampa (de tio jungfrurnas)",
+   "def": "おとめたちが持つともしび。『ともしびを持って』『ともしびを持っていたが油を携えず』『ともしびと共に油を入れ物に』『ともしびを整え』『ともしびが消えそうです』。",
+   "def_en": "The lamps the virgins carry: “took their lamps”, “took their lamps but no oil”, “took oil in flasks with their lamps”, “trimmed their lamps”, “our lamps are going out”.",
+   "def_es": "Las lámparas que llevan las vírgenes: «tomando sus lámparas», «tomaron sus lámparas sin aceite», «tomaron aceite en sus vasijas juntamente con sus lámparas», «arreglaron sus lámparas», «nuestras lámparas se apagan».",
+   "def_sv": "Lamporna som jungfrurna bär: ”tog sina lampor”, ”tog lamporna men ingen olja”, ”tog olja i kärl tillsammans med lamporna”, ”gjorde i ordning lamporna”, ”våra lampor slocknar”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マタイ25:1・25:3・25:4・25:7・25:8。LXX 士師記7:16 に並行。教父の用例は無い。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "松明／明かり",
+   "label_en": "torch / light",
+   "label_es": "antorcha / luz",
+   "label_sv": "fackla / ljus",
+   "def": "松明、明かり。『松明と明かりと武器を持って』『屋上の間には多くのともしびがともっていた』。",
+   "def_en": "A torch, a light: “with lanterns and torches and weapons”, “there were many lamps in the upper room”.",
+   "def_es": "Antorcha, luz: «con linternas y antorchas, y con armas», «había muchas lámparas en el aposento alto».",
+   "def_sv": "En fackla, ett ljus: ”med lyktor, facklor och vapen”, ”många lampor brann i rummet på övervåningen”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒20:8、ヨハネ18:3。語義1・3との境界は連続的。LXX 代表例に並行。教父の用例は無い。"
+  },
+  {
+   "id": "3",
+   "label": "燃える松明（黙示録）",
+   "label_en": "blazing torch (Revelation)",
+   "label_es": "antorcha encendida (Apocalipsis)",
+   "label_sv": "brinnande fackla (Uppenbarelseboken)",
+   "def": "燃える松明。『七つの火の灯火』『松明のように燃えている大きな星』。",
+   "def_en": "A burning torch: “seven torches of fire”, “a great star blazing like a torch”.",
+   "def_es": "Antorcha ardiente: «siete lámparas de fuego», «una gran estrella ardiendo como una antorcha».",
+   "def_sv": "En brinnande fackla: ”sju facklor av eld”, ”en stor stjärna som brann som en fackla”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "黙示録4:5・8:10。LXX 代表例に並行。教父の用例は無い。指す対象の同定は付さない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40025001012": "1",
+  "n40025003006": "1",
+  "n40025004011": "1",
+  "n40025007010": "1",
+  "n40025008015": "1",
+  "n43018003021": "2",
+  "n44020008003": "2",
+  "n66004005013": "3",
+  "n66008010015": "3"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用例による。教父の用例は無い。"
+}

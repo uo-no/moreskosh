@@ -1,0 +1,64 @@
+{
+ "lemma": "προλέγω",
+ "lemmaId": "grc:G4302",
+ "strong": "G4302",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "あらかじめ警告する",
+   "label_en": "to warn beforehand",
+   "label_es": "advertir de antemano",
+   "label_sv": "att varna i förväg",
+   "def": "前もって警告する、予告して戒める。『苦難にあうと前もって言っておいた』『前もって警告しておく』『見よ、前もって言っておいた』。",
+   "def_en": "To warn in advance, to foretell and admonish: “we told you beforehand that we would suffer affliction”, “I warn you in advance”, “see, I have told you beforehand”.",
+   "def_es": "Prevenir con anticipación, avisar y amonestar: «os predecíamos que íbamos a pasar tribulaciones», «os amonesto de antemano», «ya os lo he dicho antes».",
+   "def_sv": "Att på förhand varna och förmana: ”vi sade er i förväg att vi skulle få lida”, ”jag säger er det i förväg”, ”se, jag har sagt er det i förväg”.",
+   "layers": {
+    "nt": 8,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "Ⅰテサ3:4・4:6、Ⅱコリ13:2（2回）、ガラテヤ5:21（2回）、マタイ24:25、マルコ13:23。教父（23.5.7）に並行。LXX の代表例では確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "前に言う／前もって語る",
+   "label_en": "to say before / speak in advance",
+   "label_es": "decir antes / hablar de antemano",
+   "label_sv": "att tidigare säga / tala i förväg",
+   "def": "前に述べる、前もって語る。『前に言ったとおり』『ダビデが預言した』『前もって語られた言葉を思い出せ』。",
+   "def_en": "To state earlier, to speak beforehand: “as has been said before”, “David foretold”, “remember the words spoken beforehand”.",
+   "def_es": "Haber dicho antes, hablar con antelación: «como antes se dijo», «David predijo», «acordaos de las palabras que antes fueron dichas».",
+   "def_sv": "Att ha sagt förut, att tala på förhand: ”som redan har sagts”, ”David förutsade”, ”kom ihåg de ord som talats i förväg”.",
+   "layers": {
+    "nt": 7,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒1:16、Ⅱペテロ3:2、ユダ17、ローマ9:29、ヘブル4:7、ガラテヤ1:9、Ⅱコリ7:3。LXX イザヤ41:26・Ⅳマカバイ14:8、教父（43.1）に並行。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40024025002": "1",
+  "n41013023004": "1",
+  "n44001016008": "2",
+  "n45009029003": "2",
+  "n47007003005": "2",
+  "n47013002001": "1",
+  "n47013002003": "1",
+  "n48001009002": "2",
+  "n48005021009": "1",
+  "n48005021012": "1",
+  "n52003004007": "1",
+  "n52004006020": "1",
+  "n58004007013": "2",
+  "n61003002003": "2",
+  "n65001017008": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（警告／既述・予告）による。"
+}

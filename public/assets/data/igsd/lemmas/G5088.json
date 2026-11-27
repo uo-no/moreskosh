@@ -1,0 +1,84 @@
+{
+ "lemma": "τίκτω",
+ "lemmaId": "grc:G5088",
+ "strong": "G5088",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "産む（子を）",
+   "label_en": "to give birth (to a child)",
+   "label_es": "dar a luz",
+   "label_sv": "att föda (barn)",
+   "def": "子を産む、産気づく。女が子を産む。『男の子を産む』『産みの苦しみ』。",
+   "def_en": "To bear a child, to be in labour: a woman gives birth: “will bear a son”, “the pains of childbirth”.",
+   "def_es": "Parir un hijo, estar de parto: la mujer da a luz: «dará a luz un hijo», «dolores de parto».",
+   "def_sv": "Att föda barn, att ha värkar: en kvinna föder: ”ska föda en son”, ”födslovåndor”.",
+   "layers": {
+    "nt": 14,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "マタイ1:21・23・25、ルカ1:31・57・2:6・7、ヨハネ16:21（産婦は苦しむ）、ガラテヤ4:27（産まない不妊の女よ、イザヤ54:1 の引用）、黙示録12:2・4（2回）・5・13（竜と女）。LXX 創世記4:20、教父（バルナバ・Ⅱクレメンス2.1）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "生まれる（受動）",
+   "label_en": "to be born (passive)",
+   "label_es": "nacer (pasiva)",
+   "label_sv": "att födas (passivum)",
+   "def": "受動で、産まれる、生まれた者となる。『お生まれになったユダヤ人の王』『救い主がお生まれになった』。",
+   "def_en": "In the passive, to be born, to be one who has been born: “the one born king of the Jews”, “a Saviour has been born”.",
+   "def_es": "En pasiva, ser dado a luz, el nacido: «el rey de los judíos que ha nacido», «os ha nacido un Salvador».",
+   "def_sv": "I passiv att födas, den som blivit född: ”judarnas nyfödde konung”, ”en frälsare har fötts”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ルカ2:11（今日ダビデの町であなたがたのために救い主がお生まれになった）、マタイ2:2（お生まれになったユダヤ人の王）。LXX 歴代誌に並行。教父の代表例では確認していない。語義1との境界は連続的（態の違い）。"
+  },
+  {
+   "id": "3",
+   "label": "生み出す（大地・欲が）",
+   "label_en": "to bring forth (earth, desire)",
+   "label_es": "producir / engendrar (la tierra, el deseo)",
+   "label_sv": "att frambringa (jorden, begäret)",
+   "def": "地が草木を生み出す、欲が罪を生む。人の出産以外の比喩的な『生み出す』。",
+   "def_en": "The earth brings forth vegetation, desire gives birth to sin: figurative “bringing forth” other than human childbirth.",
+   "def_es": "La tierra produce vegetación, la concupiscencia da a luz el pecado: «dar a luz» en sentido figurado, fuera del parto humano.",
+   "def_sv": "Jorden frambringar växter, begäret föder synd: bildligt ”föda” utanför människans barnafödande.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヘブル6:7（地が耕す者に役立つ作物を生み出す）、ヤコブ1:15（欲がはらんで罪を産み）。語義1との境界は連続的（比喩）。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40001021001": "1",
+  "n40001023008": "1",
+  "n40001025007": "1",
+  "n40002002005": "2",
+  "n42001031007": "1",
+  "n42001057008": "1",
+  "n42002006012": "1",
+  "n42002007002": "1",
+  "n42002011002": "2",
+  "n43016021004": "1",
+  "n48004027007": "1",
+  "n58006007012": "3",
+  "n59001015005": "3",
+  "n66012002010": "1",
+  "n66012004027": "1",
+  "n66012004030": "1",
+  "n66012005002": "1",
+  "n66012013015": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

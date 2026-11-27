@@ -1,0 +1,81 @@
+{
+ "lemma": "γυμνός",
+ "lemmaId": "grc:G1131",
+ "strong": "G1131",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "裸の／衣をまとわない（粗末な衣の）",
+   "label_en": "naked / poorly clad",
+   "label_es": "desnudo / mal vestido",
+   "label_sv": "naken / illa klädd",
+   "def": "衣服をまとわない、また粗末な衣をまとうだけの。『裸であったとき』『着る物がなく』『裸で逃げた』。",
+   "def_en": "Without clothing, or wearing only poor garments: “when I was naked”, “lacking clothes”, “fled naked”.",
+   "def_es": "Sin ropa, o cubierto solo con vestiduras pobres: «estuve desnudo», «sin qué vestir», «huyó desnudo».",
+   "def_sv": "Utan kläder, eller klädd bara i usla plagg: ”jag var naken”, ”utan kläder”, ”flydde naken”.",
+   "layers": {
+    "nt": 11,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "マタイ25:36・25:38・25:43・25:44、ヤコブ2:15、ヨハネ21:7、使徒19:16、マルコ14:51・14:52、黙示録16:15・17:16。LXX ヨブ24:10、教父（3.3）に並行。語義2との境界は連続的（黙示録16:15・17:16）。"
+  },
+  {
+   "id": "2",
+   "label": "あらわな／覆いのない（比喩的）",
+   "label_en": "bare / uncovered (figurative)",
+   "label_es": "al descubierto (figurado)",
+   "label_sv": "blottad / utan skyl (bildligt)",
+   "def": "覆われていない、あらわである。『裸にされた者とされず』『すべてのものは裸で、あらわで』『あなたは裸である』。",
+   "def_en": "Not covered, laid open: “not be found naked”, “all things are naked and exposed”, “you are naked”.",
+   "def_es": "Sin cubierta, manifiesto: «no ser hallados desnudos», «todas las cosas están desnudas y abiertas», «tú estás desnudo».",
+   "def_sv": "Inte täckt, uppenbar: ”inte bli funna nakna”, ”allt ligger naket och blottat”, ”du är naken”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "Ⅱコリ5:3、ヘブル4:13、黙示録3:17。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "むき出しの（種粒）",
+   "label_en": "bare (grain)",
+   "label_es": "desnudo (grano)",
+   "label_sv": "naket (sädeskorn)",
+   "def": "覆いのない種粒。『裸の種粒』。",
+   "def_en": "A grain without covering: “a bare kernel”.",
+   "def_es": "Grano sin envoltura: «el grano desnudo».",
+   "def_sv": "Ett korn utan hölje: ”ett naket korn”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "Ⅰコリ15:37 の1例。教父（24.5）に並行（種蒔きの記述）。LXX の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40025036001": "1",
+  "n40025038009": "1",
+  "n40025043007": "1",
+  "n40025044016": "1",
+  "n41014051009": "1",
+  "n41014052006": "1",
+  "n43021007028": "1",
+  "n44019016020": "1",
+  "n46015037011": "3",
+  "n47005003006": "2",
+  "n58004013010": "2",
+  "n59002015005": "1",
+  "n66003017027": "2",
+  "n66016015015": "1",
+  "n66017016019": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用例（人／比喩／種）による。"
+}

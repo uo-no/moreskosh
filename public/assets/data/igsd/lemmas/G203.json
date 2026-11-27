@@ -1,0 +1,69 @@
+{
+ "lemma": "ἀκροβυστία",
+ "lemmaId": "grc:G203",
+ "strong": "G203",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "無割礼（であること）",
+   "label_en": "uncircumcision (the state)",
+   "label_es": "incircuncisión (el estado)",
+   "label_sv": "oomskurenhet (tillståndet)",
+   "def": "割礼を受けていない状態。包皮のあること。割礼と対にされ、『無割礼は無でも割礼は無でもない』『割礼の有無』の言い方で出る。",
+   "def_en": "The state of not being circumcised, having the foreskin. Paired with circumcision, it appears in expressions such as “uncircumcision is nothing and circumcision is nothing” and “whether circumcised or not”.",
+   "def_es": "Estado de no estar circuncidado, tener el prepucio. En pareja con la circuncisión, aparece en expresiones como «la incircuncisión nada es y la circuncisión nada es» y «con o sin circuncisión».",
+   "def_sv": "Tillståndet att inte vara omskuren, att ha förhuden kvar. Ställs mot omskärelsen i uttryck som ”oomskurenheten betyder ingenting och omskärelsen betyder ingenting” och ”omskuren eller inte”.",
+   "layers": {
+    "nt": 12,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ローマ2:25・26・4:10・11・12、Ⅰコリ7:18・19、ガラテヤ5:6・6:15、コロサイ2:13（肉の無割礼）、使徒11:3（無割礼の人々のところへ入った）。LXX 創世記17:24 に並行。教父の代表例では確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "無割礼の人々（異邦人）",
+   "label_en": "the uncircumcised (Gentiles)",
+   "label_es": "los incircuncisos (gentiles)",
+   "label_sv": "de oomskurna (hedningarna)",
+   "def": "割礼を受けていない人々、すなわち異邦人を指す（換喩）。『無割礼の者たちへの福音』『割礼の者たち／無割礼の者たち』。",
+   "def_en": "Refers (by metonymy) to uncircumcised people, that is, the Gentiles: “the gospel for the uncircumcised”, “the circumcised / the uncircumcised”.",
+   "def_es": "Designa (por metonimia) a las personas no circuncidadas, es decir, a los gentiles: «el evangelio de la incircuncisión», «los circuncidados / los incircuncisos».",
+   "def_sv": "Betecknar (metonymiskt) de oomskurna människorna, det vill säga hedningarna: ”evangeliet till de oomskurna”, ”de omskurna / de oomskurna”.",
+   "layers": {
+    "nt": 8,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ローマ3:30・4:9・11（2つ目）・2:26（2つ目）・2:27、ガラテヤ2:7、エペソ2:11、コロサイ3:11。語義1との境界は連続的（ローマ2・4章は状態と人々の両用）。Abbott も『無割礼の者たち』を換喩に置く。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n44011003006": "1",
+  "n45002025016": "1",
+  "n45002026004": "1",
+  "n45002026012": "2",
+  "n45002027006": "2",
+  "n45003030011": "2",
+  "n45004009012": "2",
+  "n45004010009": "1",
+  "n45004010015": "1",
+  "n45004011013": "1",
+  "n45004011023": "2",
+  "n45004012017": "1",
+  "n46007018007": "1",
+  "n46007019007": "1",
+  "n48002007009": "2",
+  "n48005006010": "1",
+  "n48006015007": "1",
+  "n49002011012": "2",
+  "n51002013010": "1",
+  "n51003011009": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

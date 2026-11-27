@@ -1,0 +1,94 @@
+{
+ "lemma": "κάτω",
+ "lemmaId": "grc:G2736",
+ "strong": "G2736",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "下へ／下に向かって",
+   "label_en": "down / downward",
+   "label_es": "abajo / hacia abajo",
+   "label_sv": "ner / nedåt",
+   "def": "下へ、下方へ（動作の方向）。『下に身を投げよ』『身をかがめて』『下の窓から落ち』。",
+   "def_en": "Downward, toward below (direction of movement): “throw yourself down”, “stooping down”, “fell down from the window”.",
+   "def_es": "Hacia abajo (dirección del movimiento): «échate abajo», «inclinándose», «cayó abajo desde la ventana».",
+   "def_sv": "Nedåt (rörelsens riktning): ”kasta dig ner”, ”böjde sig ner”, ”föll ner från fönstret”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒20:9、ヨハネ8:6・8:8、ルカ4:9、マタイ4:6。LXX・教父（26.4.7）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "下に／下の方に（場所）",
+   "label_en": "below (place)",
+   "label_es": "abajo (lugar)",
+   "label_sv": "nere / därnere (plats)",
+   "def": "下に、下方に。『下は地上のしるし』『あなたがたは下から』『下の中庭にいた』。",
+   "def_en": "Below, down: “signs on the earth below”, “you are from below”, “was below in the courtyard”.",
+   "def_es": "Abajo, en la parte inferior: «señales abajo en la tierra», «vosotros sois de abajo», «estaba abajo en el patio».",
+   "def_sv": "Nedanför, nere: ”tecken nere på jorden”, ”ni är nerifrån”, ”var nere på gården”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒2:19、ヨハネ8:23、マルコ14:66。LXX 詩篇・申命記28:43、教父（10.5）に並行。"
+  },
+  {
+   "id": "3",
+   "label": "下まで（ἕως κάτω）",
+   "label_en": "to the bottom (ἕως κάτω)",
+   "label_es": "hasta abajo (ἕως κάτω)",
+   "label_sv": "ända ner (ἕως κάτω)",
+   "def": "『上から下まで』。『上から下まで二つに裂け』。",
+   "def_en": "“From top to bottom”: “torn in two from top to bottom”.",
+   "def_es": "«De arriba abajo»: «se rasgó en dos, de arriba abajo».",
+   "def_sv": "”Uppifrån och ända ner”: ”rämnade i två delar uppifrån och ända ner”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マタイ27:51、マルコ15:38。LXX エゼキエル1:27 に並行。教父の代表例では確認していない。"
+  },
+  {
+   "id": "4",
+   "label": "それ以下（κατωτέρω）",
+   "label_en": "and under (κατωτέρω)",
+   "label_es": "para abajo (κατωτέρω)",
+   "label_sv": "och därunder (κατωτέρω)",
+   "def": "『それ以下の』。『二歳以下の男の子を』（マタイ2:16）。",
+   "def_en": "“And below”: “male children two years old and under” (Matt 2:16).",
+   "def_es": "«Y menores»: «los niños de dos años para abajo» (Mt 2:16).",
+   "def_sv": "”Och yngre”: ”gossar på två år och därunder” (Matt 2:16).",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ2:16 の1例のみ（比較級）。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40002016029": "4",
+  "n40004006011": "1",
+  "n40027051011": "3",
+  "n41014066005": "2",
+  "n41015038012": "3",
+  "n42004009024": "1",
+  "n43008006013": "1",
+  "n43008008003": "1",
+  "n43008023007": "2",
+  "n44002019013": "2",
+  "n44020009026": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法による。"
+}

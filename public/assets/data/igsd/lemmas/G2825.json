@@ -1,0 +1,76 @@
+{
+ "lemma": "κλίνη",
+ "lemmaId": "grc:G2825",
+ "strong": "G2825",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "寝台／寝床",
+   "label_en": "bed / couch",
+   "label_es": "cama / lecho",
+   "label_sv": "säng / bädd",
+   "def": "寝台、寝床。『中風の者を寝台に載せて』『ひとりは取られ、ひとりは残される』『寝床を取り上げて』『寝台の下に』『小さな寝床や敷き物』『娘が寝床に寝て』。",
+   "def_en": "A bed, a couch: “bringing a paralytic on a bed”, “one will be taken and the other left”, “take up your bed”, “under a bed”, “cots and mats”, “her daughter lying in bed”.",
+   "def_es": "Cama, lecho: «un paralítico tendido sobre una cama», «el uno será tomado y el otro dejado», «toma tu cama», «debajo de la cama», «en camas y camillas», «la hija acostada en la cama».",
+   "def_sv": "En säng, en bädd: ”en lam man på en bår”, ”den ene ska tas med och den andre lämnas”, ”ta din bädd”, ”under bänken”, ”bäddar och mattor”, ”flickan som låg på sängen”.",
+   "layers": {
+    "nt": 8,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒5:15、ルカ17:34・5:18・8:16、マタイ9:2・9:6、マルコ7:30・4:21。LXX ユディト13:2・Ⅰ列王記1:4、教父（5.1.1）に並行。語義2・3との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "食事用の長椅子",
+   "label_en": "dining couch",
+   "label_es": "diván (para comer)",
+   "label_sv": "bordsdivan",
+   "def": "食卓用の長椅子。『食事用の長椅子の洗い』（マルコ7:4）。",
+   "def_en": "A couch for the table: “the washing of dining couches” (Mark 7:4).",
+   "def_es": "Diván de mesa: «el lavar de los lechos» (Mr 7:4).",
+   "def_sv": "En liggbänk vid bordet: ”tvagning av bänkarna” (Mark 7:4).",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マルコ7:4 の1例のみ。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "病の床",
+   "label_en": "sickbed",
+   "label_es": "lecho de enfermedad",
+   "label_sv": "sjukbädd",
+   "def": "病の床。『彼女を病の床に投げ込む』（黙示録2:22）。",
+   "def_en": "A bed of sickness: “I will throw her onto a sickbed” (Rev 2:22).",
+   "def_es": "Cama de dolor: «la arrojo en cama» (Ap 2:22).",
+   "def_sv": "En sjuksäng: ”kasta henne på sjukbädden” (Upp 2:22).",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "黙示録2:22 の1例のみ。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40009002007": "1",
+  "n40009006024": "1",
+  "n41004021016": "1",
+  "n41007004023": "2",
+  "n41007030013": "1",
+  "n42005018006": "1",
+  "n42008016010": "1",
+  "n42017034009": "1",
+  "n44005015012": "1",
+  "n66002022005": "3"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用例による。"
+}

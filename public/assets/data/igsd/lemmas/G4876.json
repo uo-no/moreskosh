@@ -1,0 +1,55 @@
+{
+ "lemma": "συναντάω",
+ "lemmaId": "grc:G4876",
+ "strong": "G4876",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "出会う",
+   "label_en": "to meet",
+   "label_es": "salir al encuentro",
+   "label_sv": "att möta",
+   "def": "出会う、行き会う。『コルネリオは迎えて』『戻って来るアブラハムに出会って』『彼に出会った』『水がめを運んでいる男に出会う』『大ぜいの群衆が出迎えた』。",
+   "def_en": "To meet, to come upon: “Cornelius met him”, “met Abraham as he was returning”, “met him”, “a man carrying a jar of water will meet you”, “a great crowd met him”.",
+   "def_es": "Encontrarse, toparse con alguien: «salió Cornelio a recibirle», «salió a recibir a Abraham que volvía», «le salió al encuentro», «os saldrá al encuentro un hombre que lleva un cántaro de agua», «una gran multitud les salió al encuentro».",
+   "def_sv": "Att träffa på, att gå till mötes: ”Kornelius mötte honom”, ”mötte Abraham när han återvände”, ”mötte honom”, ”en man som bär en vattenkruka skall möta er”, ”en stor folkskara mötte honom”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒10:25、ヘブル7:1・7:10、ルカ22:10・9:37。LXX（11.64）、教父（epilogus_alius.4）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "降りかかる",
+   "label_en": "to befall",
+   "label_es": "acontecer, sobrevenir",
+   "label_sv": "att vederfaras",
+   "def": "出来事が身に降りかかる。『わたしの身に何が起こるかを知らないで』。",
+   "def_en": "For events to happen to a person: “not knowing what will happen to me”.",
+   "def_es": "Ocurrirle a uno un suceso: «sin saber lo que me ha de acontecer».",
+   "def_sv": "Att något händer en: ”utan att veta vad som skall hända mig”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒20:22。LXX（17.20）に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42009037011": "1",
+  "n42022010011": "1",
+  "n44010025008": "1",
+  "n44020022014": "2",
+  "n58007001013": "1",
+  "n58007010010": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（出会う／出来事が降りかかる）による。"
+}

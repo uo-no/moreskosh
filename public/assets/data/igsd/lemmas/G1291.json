@@ -1,0 +1,57 @@
+{
+ "lemma": "διαστέλλομαι",
+ "lemmaId": "grc:G1291",
+ "strong": "G1291",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "固く命じる／厳しく言い渡す",
+   "label_en": "to charge strictly / order",
+   "label_es": "mandar estrictamente / encargar",
+   "label_sv": "att strängt befalla / förbjuda",
+   "def": "厳しく命じる、言い渡す、指示する。『だれにも話すなと戒められた』『〜ことをだれにも知らせるなと命じた』『人々に〜と固く命じられた』『命令に耐えられず』『私たちは何も命じなかった』。",
+   "def_en": "To command strictly, to enjoin, to direct: “warned them to tell no one”, “charged them to tell no one that …”, “strictly charged them …”, “could not endure the order”, “to whom we gave no instructions”.",
+   "def_es": "Ordenar con rigor, encargar, instruir: «les mandó que no lo dijesen a nadie», «les mandó que a nadie dijesen que …», «les encargó mucho …», «no podían soportar lo que se ordenaba», «a los cuales no dimos orden».",
+   "def_sv": "Att strängt ålägga, inskärpa, instruera: ”förbjöd dem att tala om det för någon”, ”befallde dem att inte säga till någon att …”, ”förbjöd dem strängt …”, ”kunde inte uthärda befallningen”, ”utan att vi gett dem något uppdrag”.",
+   "layers": {
+    "nt": 7,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒15:24、ヘブル12:20、マタイ16:20、マルコ7:36（2回）・5:43・9:9。LXX レビ記・エゼキエル24:14 に並行。教父の用例は無い。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "警告する",
+   "label_en": "to warn",
+   "label_es": "advertir",
+   "label_sv": "att varna",
+   "def": "注意を与える、警告する。『パリサイ人のパン種に気をつけなさい』（マルコ8:15）。",
+   "def_en": "To caution, to warn: “beware of the leaven of the Pharisees” (Mark 8:15).",
+   "def_es": "Llamar la atención, prevenir: «guardaos de la levadura de los fariseos» (Mr 8:15).",
+   "def_sv": "Att uppmana till vaksamhet, varna: ”akta er för fariseernas surdeg” (Mark 8:15).",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マルコ8:15 の1例のみ。語義1との境界は連続的。LXX 代表例に並行。教父の用例は無い。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40016020002": "1",
+  "n41005043002": "1",
+  "n41007036002": "1",
+  "n41007036010": "1",
+  "n41008015002": "2",
+  "n41009009007": "1",
+  "n44015024017": "1",
+  "n58012020005": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法による。教父の用例は無い。"
+}

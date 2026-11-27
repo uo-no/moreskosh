@@ -1,0 +1,72 @@
+{
+ "lemma": "ἐργασία",
+ "lemmaId": "grc:G2039",
+ "strong": "G2039",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "商売・もうけ",
+   "label_en": "business, profit",
+   "label_es": "negocio, ganancia",
+   "label_sv": "näring, förtjänst",
+   "def": "商売、稼ぎ、もうけ。『占いをして主人たちに多くの収入を得させていた』『自分たちの収入の望みが絶えたのを見て』『職人たちにかなりの収入を得させていた』『この商売によって、われわれは…』。",
+   "def_en": "Trade, earnings, profit: “by fortune-telling she brought her owners much gain”, “saw that their hope of gain was gone”, “brought no little business to the craftsmen”, “from this business we …”.",
+   "def_es": "Oficio, ingresos, ganancia: «daba gran ganancia a sus amos, adivinando», «vieron que había salido la esperanza de su ganancia», «daba no poca ganancia a los artífices», «de este oficio nosotros …».",
+   "def_sv": "Affär, inkomst, förtjänst: ”skaffade sina ägare stora inkomster genom att spå”, ”såg att deras hopp om inkomster var borta”, ”gav hantverkarna en god förtjänst”, ”av denna verksamhet … vi”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒16:16・16:19・19:24・19:25。語義2・3との境界は連続的。LXX・教父の代表例は一般的な「仕事」の用法で、この語義としては確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "努力",
+   "label_en": "effort",
+   "label_es": "esfuerzo, empeño",
+   "label_sv": "ansträngning",
+   "def": "力を尽くすこと。『和解するよう努力しなさい』。",
+   "def_en": "Exerting oneself: “make an effort to be reconciled”.",
+   "def_es": "El poner todo empeño: «procura reconciliarte».",
+   "def_sv": "Att göra sitt yttersta: ”gör vad du kan för att bli försonad”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ルカ12:58。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "行うこと・営み",
+   "label_en": "practice, doing",
+   "label_es": "práctica, ejercicio",
+   "label_sv": "utövande, bedrivande",
+   "def": "行うこと、営み。『あらゆる汚れを貪欲に行う』。",
+   "def_en": "Doing, carrying on: “greedy to practise every kind of impurity”.",
+   "def_es": "El hacer o practicar: «para cometer con avidez toda clase de impureza».",
+   "def_sv": "Att utöva, att bedriva: ”så att de ohejdat bedriver all slags orenhet”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "エペソ4:19。LXX（5.1・26.29）の「仕事」の用法に並行。教父の用例なし。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42012058014": "2",
+  "n44016016016": "1",
+  "n44016019011": "1",
+  "n44019024015": "1",
+  "n44019025016": "1",
+  "n49004019008": "3"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（商売／努力／行うこと）による。"
+}

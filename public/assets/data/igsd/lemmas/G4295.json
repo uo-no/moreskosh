@@ -1,0 +1,54 @@
+{
+ "lemma": "πρόκειμαι",
+ "lemmaId": "grc:G4295",
+ "strong": "G4295",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "前に置かれている",
+   "label_en": "to be set before",
+   "label_es": "estar puesto delante",
+   "label_sv": "att ligga framför",
+   "def": "目の前にある、置かれている。『わたしたちの前に置かれている競走』『その前にある喜びのゆえに』『前に置かれた望み』『見せしめとして』。",
+   "def_en": "To lie before one, to be placed there: “the race set before us”, “for the joy set before him”, “the hope set before us”, “as an example”.",
+   "def_es": "Hallarse delante, estar propuesto: «la carrera que tenemos por delante», «por el gozo puesto delante de él», «la esperanza puesta delante de nosotros», «puestos por ejemplo».",
+   "def_sv": "Att finnas framför en, att vara förelagd: ”det lopp som ligger framför oss”, ”för den glädje som låg framför honom”, ”det hopp vi har framför oss”, ”som ett varnande exempel”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ヘブル12:1・12:2・6:18、ユダ7。LXX、教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "備わっている・ある",
+   "label_en": "to be present (of readiness)",
+   "label_es": "haber (disposición)",
+   "label_sv": "att finnas (om villighet)",
+   "def": "心構えがある、備わっている。『もし心構えがあれば』。",
+   "def_en": "For a willing disposition to be present: “if the readiness is there”.",
+   "def_es": "Estar presente la disposición de ánimo: «si primero hay la voluntad dispuesta».",
+   "def_sv": "Att viljan finns till hands: ”om den goda viljan finns”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "コリント第二8:12。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n47008012005": "2",
+  "n58006018018": "1",
+  "n58012001021": "1",
+  "n58012002013": "1",
+  "n65001007020": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（前に置かれる／備わっている）による。"
+}

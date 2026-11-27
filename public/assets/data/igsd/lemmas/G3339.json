@@ -1,0 +1,53 @@
+{
+ "lemma": "μεταμορφόομαι",
+ "lemmaId": "grc:G3339",
+ "strong": "G3339",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "変貌する",
+   "label_en": "to be transfigured",
+   "label_es": "transfigurarse",
+   "label_sv": "att förklaras, att förvandlas (till utseendet)",
+   "def": "姿が変わる（イエスの変貌）。『彼らの目の前で姿が変わり』『姿が変わった』。",
+   "def_en": "For one’s appearance to change (the transfiguration of Jesus): “was transformed before them”, “his appearance was changed”.",
+   "def_es": "Cambiar de aspecto (la transfiguración de Jesús): «se transfiguró delante de ellos», «se transfiguró».",
+   "def_sv": "Att utseendet förvandlas (Jesu förklaring): ”förvandlades inför dem”, ”förvandlades”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ17:2、マルコ9:2。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "造り変えられる",
+   "label_en": "to be transformed",
+   "label_es": "ser transformado",
+   "label_sv": "att förvandlas",
+   "def": "内面が造り変えられる。『主と同じ姿に変えられていく』『心を新たにして造りかえられなさい』。",
+   "def_en": "To be changed inwardly: “we are being transformed into the same image as the Lord”, “be transformed by the renewing of your mind”.",
+   "def_es": "Ser cambiado interiormente: «somos transformados en la misma imagen del Señor», «transformaos por la renovación de la mente».",
+   "def_sv": "Att omskapas i sitt inre: ”vi förvandlas till samma bild som Herren”, ”låt er förvandlas genom att tänka nytt”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "コリント第二3:18、ローマ12:2。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40017002002": "1",
+  "n41009002025": "1",
+  "n45012002008": "2",
+  "n47003018013": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "LXX の用例なし。語義区分は用法（イエスの変貌／造り変え）による。"
+}

@@ -1,0 +1,40 @@
+{
+ "lemma": "δέος",
+ "lemmaId": "grc:G127a",
+ "strong": "G127a",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "畏れ",
+   "label_en": "awe, reverence",
+   "label_es": "temor reverente",
+   "label_sv": "vördnadsfull fruktan",
+   "def": "畏れ、畏怖。『恐れかしこみつつ』。テモテ第一2:9 の語形 αἰδοῦς は αἰδώς の語形で別レンマ。",
+   "def_en": "Reverence, awe: “with reverence and awe”. The form αἰδοῦς in 1 Timothy 2:9 is a form of αἰδώς, a separate lemma.",
+   "def_es": "Reverencia, temor: «con temor y reverencia». La forma αἰδοῦς de 1 Timoteo 2:9 es de αἰδώς, otro lema.",
+   "def_sv": "Vördnad, bävan: ”med vördnad och fruktan”. Formen αἰδοῦς i 1 Timotheosbrevet 2:9 hör till αἰδώς, ett annat lemma.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ヘブル12:28。LXX に並行。教父の用例なし。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n58012028016": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。",
+ "excluded": [
+  {
+   "ref": "1TI 2:9",
+   "form": "αἰδοῦς",
+   "reason": "形 αἰδοῦς の lemma は αἰδώς で別語。αἰδώς は頻度1の別項目として扱う。"
+  }
+ ]
+}

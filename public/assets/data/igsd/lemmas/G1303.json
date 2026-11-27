@@ -1,0 +1,73 @@
+{
+ "lemma": "διατίθεμαι",
+ "lemmaId": "grc:G1303",
+ "strong": "G1303",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "契約を結ぶ（διαθήκην とともに）",
+   "label_en": "to make a covenant (with διαθήκην)",
+   "label_es": "hacer un pacto (con διαθήκην)",
+   "label_sv": "att sluta förbund (med διαθήκην)",
+   "def": "契約を結ぶ、契約を立てる。『神が先祖たちと結ばれた契約』『わたしが彼らと結ぶ契約』『わたしがイスラエルの家と結ぶ契約』。",
+   "def_en": "To make or establish a covenant: “the covenant that God made with your fathers”, “the covenant that I will make with them”, “the covenant that I will make with the house of Israel”.",
+   "def_es": "Hacer o establecer un pacto: «el pacto que Dios hizo con vuestros padres», «el pacto que haré con ellos», «el pacto que haré con la casa de Israel».",
+   "def_sv": "Att sluta eller upprätta ett förbund: ”förbundet som Gud slöt med fäderna”, ”förbundet som jag skall sluta med dem”, ”förbundet som jag skall sluta med Israels hus”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒3:25、ヘブル10:16・8:10。LXX（5.2・11.17）、教父（10.2）に並行。語義2・3との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "遺言をする",
+   "label_en": "to make a will",
+   "label_es": "hacer testamento",
+   "label_sv": "att upprätta ett testamente",
+   "def": "遺言を残す、遺言として定める。『遺言した者の死が』『遺言した者が生きている間は』。",
+   "def_en": "To leave a will, to establish something as a testament: “the death of the one who made the will”, “while the one who made the will is alive”.",
+   "def_es": "Dejar testamento, disponer algo como testamento: «la muerte del testador», «mientras vive el testador».",
+   "def_sv": "Att efterlämna ett testamente, att förordna genom testamente: ”testatorns död”, ”så länge testatorn lever”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヘブル9:16・9:17。遺言か契約かの語義の読みは決定しない。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "授ける・与える",
+   "label_en": "to bestow, to assign",
+   "label_es": "otorgar, asignar",
+   "label_sv": "att tilldela, att ge",
+   "def": "国などを授ける。『わたしの父がわたしに国を授けてくださったように、わたしもあなたがたに授ける』。",
+   "def_en": "To bestow something such as a kingdom: “as my Father bestowed a kingdom on me, so I bestow it on you”.",
+   "def_es": "Otorgar algo, como un reino: «como mi Padre me asignó un reino, así os lo asigno yo».",
+   "def_sv": "Att tilldela något, till exempel ett rike: ”så som min Fader har gett mig ett rike, så ger jag det åt er”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ルカ22:29（2回）。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42022029002": "3",
+  "n42022029005": "3",
+  "n44003025011": "1",
+  "n58008010006": "1",
+  "n58009016008": "2",
+  "n58009017012": "2",
+  "n58010016005": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（契約／遺言／授与）による。ヘブル9:16–17 を遺言とみるか契約とみるかは決定しない。"
+}

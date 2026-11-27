@@ -1,0 +1,102 @@
+{
+ "lemma": "προφητεία",
+ "lemmaId": "grc:G4394",
+ "strong": "G4394",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "預言（旧約の預言者のことば）",
+   "label_en": "prophecy (of the Old Testament prophets)",
+   "label_es": "profecía (de los profetas del Antiguo Testamento)",
+   "label_sv": "profetia (de gammaltestamentliga profeternas ord)",
+   "def": "旧約の預言者たちが語り、書き残した預言。聖書の預言は人の意志から出たものではない。",
+   "def_en": "The prophecies the Old Testament prophets spoke and left in writing: the prophecy of Scripture did not come from human will.",
+   "def_es": "Las profecías que los profetas del Antiguo Testamento pronunciaron y dejaron escritas: la profecía de la Escritura no vino por voluntad humana.",
+   "def_sv": "Det som Gamla testamentets profeter talade och skrev ner: Skriftens profetia har inte kommit av någon människas vilja.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "マタイ13:14（イザヤの預言）、Ⅱペテロ1:20・21（聖書の預言は人の解き明かしによらず、人の意志によって来たのでもない）。LXX シラ書44:3、教父（バルナバ13.4）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "預言（賜物・教会での預言）",
+   "label_en": "prophecy (the gift; prophecy in the church)",
+   "label_es": "profecía (don; profecía en la iglesia)",
+   "label_sv": "profetia (nådegåva i församlingen)",
+   "def": "教会の中で与えられる賜物としての預言、またその行使。異言・知識・愛と並べられ、吟味されるもの。",
+   "def_en": "Prophecy as a gift given in the church, and its exercise. Set beside tongues, knowledge, and love, and to be tested.",
+   "def_es": "La profecía como don concedido en la iglesia, y su ejercicio. Se menciona junto a las lenguas, el conocimiento y el amor, y debe ser examinada.",
+   "def_sv": "Profetian som en gåva i församlingen och dess utövande. Nämns tillsammans med tungotal, kunskap och kärlek och ska prövas.",
+   "layers": {
+    "nt": 9,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ローマ12:6、Ⅰコリ12:10・13:2・8・14:6・22、Ⅰテサ5:20（預言を軽んじるな）、Ⅰテモ1:18・4:14（預言によって授けられた賜物）。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "預言のことば／この書の預言（黙示録）",
+   "label_en": "the words of prophecy / the prophecy of this book (Revelation)",
+   "label_es": "palabras de la profecía / la profecía de este libro (Apocalipsis)",
+   "label_sv": "profetians ord / denna boks profetia (Uppenbarelseboken)",
+   "def": "黙示録の『預言のことば』、その書にしるされたこと。読む者・聞く者・守る者の幸い、付け加え・取り除きの戒め。",
+   "def_en": "The “words of the prophecy” of Revelation, what is written in the book: the blessing on those who read, hear, and keep it, the warning against adding or taking away.",
+   "def_es": "Las «palabras de la profecía» del Apocalipsis, lo escrito en el libro: la bienaventuranza de quien lee, oye y guarda, y la advertencia contra añadir o quitar.",
+   "def_sv": "Uppenbarelsebokens ”profetiska ord”, det som står i boken: saligprisningen av den som läser, hör och håller fast vid det, varningen för att lägga till eller ta bort.",
+   "layers": {
+    "nt": 5,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "黙示録1:3・22:7・10・18・19（この預言のことば）。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "4",
+   "label": "預言する働き／預言の霊",
+   "label_en": "the work of prophesying / the spirit of prophecy",
+   "label_es": "actividad profética / espíritu de profecía",
+   "label_sv": "den profetiska verksamheten / profetians ande",
+   "def": "預言すること、預言の働き、『イエスの証しは預言の霊』。",
+   "def_en": "Prophesying, the activity of prophecy: “the testimony of Jesus is the spirit of prophecy”.",
+   "def_es": "El profetizar, la actividad profética: «el testimonio de Jesús es el espíritu de la profecía».",
+   "def_sv": "Att profetera, profetians verk: ”vittnesbördet om Jesus är profetians ande”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "黙示録11:6（預言をする期間）・19:10（イエスの証しは預言の霊である）。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40013014005": "1",
+  "n45012006012": "2",
+  "n46012010005": "2",
+  "n46013002004": "2",
+  "n46013008007": "2",
+  "n46014006025": "2",
+  "n46014022015": "2",
+  "n52005020001": "2",
+  "n54001018013": "2",
+  "n54004014011": "2",
+  "n61001020006": "1",
+  "n61001021006": "1",
+  "n66001003010": "3",
+  "n66011006015": "4",
+  "n66019010037": "4",
+  "n66022007011": "3",
+  "n66022010009": "3",
+  "n66022018009": "3",
+  "n66022019011": "3"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

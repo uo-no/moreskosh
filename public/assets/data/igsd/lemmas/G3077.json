@@ -1,0 +1,65 @@
+{
+ "lemma": "λύπη",
+ "lemmaId": "grc:G3077",
+ "strong": "G3077",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "悲しみ／嘆き（心の苦痛）",
+   "label_en": "sorrow / grief (pain of heart)",
+   "label_es": "tristeza / pesar (dolor del corazón)",
+   "label_sv": "sorg / bedrövelse (hjärtats smärta)",
+   "def": "心の痛み、悲しみ、嘆き。『悲しみで満たされた』『悲しみは喜びに変わる』『神のみこころに添った悲しみ』『悲しみながら（いやいや）与える』。",
+   "def_en": "Pain of heart, sorrow, grief: “filled with sorrow”, “your sorrow will turn into joy”, “godly grief”, “giving reluctantly”.",
+   "def_es": "Dolor del alma, tristeza, aflicción: «llenos de tristeza», «vuestra tristeza se convertirá en gozo», «tristeza según Dios», «no con tristeza».",
+   "def_sv": "Hjärtesorg och klagan: ”fyllda av sorg”, ”er sorg ska vändas i glädje”, ”sorg efter Guds vilja”, ”inte med olust”.",
+   "layers": {
+    "nt": 13,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ヨハネ16:6・16:20・16:22、ルカ22:45、ピリピ2:27（2回）、ローマ9:2、Ⅱコリ2:1・2:3・2:7・7:10（2回）・9:7。LXX シラ30:23、教父（ヘルマス15.1.1、Ⅰクレメンス46.9）に並行。Ⅱコリ2:3 は語義2との境界が連続的。"
+  },
+  {
+   "id": "2",
+   "label": "苦痛／苦しみ",
+   "label_en": "pain / suffering",
+   "label_es": "dolor / sufrimiento",
+   "label_sv": "smärta / lidande",
+   "def": "痛み、苦難による苦しみ。『産みの苦しみ』『懲らしめは悲しく思われる』『不当な苦しみを受けても』。",
+   "def_en": "Pain, suffering from hardship: “the pain of childbirth”, “discipline seems painful”, “even when suffering unjustly”.",
+   "def_es": "Dolor, padecimiento por las penalidades: «dolor del parto», «la disciplina parece causa de tristeza», «sufrir molestias injustamente».",
+   "def_sv": "Smärta och lidande genom svårigheter: ”födslovåndan”, ”fostran verkar vara till sorg”, ”utstå lidande utan skuld”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ヨハネ16:21、ヘブル12:11、Ⅰペテロ2:19。LXX 創世記3:17 に並行。教父の代表例は語義1に並行。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42022045015": "1",
+  "n43016006007": "1",
+  "n43016020018": "1",
+  "n43016021005": "2",
+  "n43016022006": "1",
+  "n45009002002": "1",
+  "n47002001009": "1",
+  "n47002003008": "1",
+  "n47002007012": "1",
+  "n47007010005": "1",
+  "n47007010015": "1",
+  "n47009007008": "1",
+  "n50002027020": "1",
+  "n50002027022": "1",
+  "n58012011013": "2",
+  "n60002019010": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義の境界（心の悲しみ／苦痛）は連続的。"
+}

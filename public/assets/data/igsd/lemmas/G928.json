@@ -1,0 +1,61 @@
+{
+ "lemma": "βασανίζω",
+ "lemmaId": "grc:G928",
+ "strong": "G928",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "苦しめる／責めさいなむ",
+   "label_en": "to torment / torture",
+   "label_es": "atormentar / torturar",
+   "label_sv": "att plåga / pina",
+   "def": "苦しめる、責めさいなむ、拷問する。『ひどく苦しんでいます』『苦しめないでください』『あなたがたの義人の魂を日々苦しめた』『火と硫黄で苦しめられる』『昼も夜も世々限りなく苦しめられる』。",
+   "def_en": "To torment, torture, afflict: “suffering terribly”, “do not torment me”, “tormented his righteous soul day after day”, “will be tormented with fire and sulfur”, “tormented day and night forever and ever”.",
+   "def_es": "Atormentar, afligir, torturar: «gravemente atormentado», «no me atormentes», «afligía cada día su alma justa», «será atormentado con fuego y azufre», «atormentados día y noche por los siglos de los siglos».",
+   "def_sv": "Att plåga, pina, tortera: ”lider svårt”, ”plåga mig inte”, ”pinade dag efter dag sin rättfärdiga själ”, ”plågas i eld och svavel”, ”plågas dag och natt i evigheters evighet”.",
+   "layers": {
+    "nt": 9,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "マタイ8:6・8:29、マルコ5:7、ルカ8:28、Ⅱペテロ2:8、黙示録9:5・11:10・14:10・20:10。LXX Ⅱマカバイ・シラ4:17、教父（23.4.2、6.1）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "悩まされる／苦しむ（波・産みの苦しみ）",
+   "label_en": "to be buffeted / be in distress (waves, labour pains)",
+   "label_es": "ser azotado / penar (olas, dolores de parto)",
+   "label_sv": "att ansättas / våndas (vågor, födslovåndor)",
+   "def": "波に悩まされる、漕ぎ悩む、産みの苦しみに悶える。『舟は波に悩まされ』『漕ぎ悩んでいるのを見て』『産みの苦しみ、叫んでいた』。",
+   "def_en": "To be tossed by waves, to struggle at the oars, to writhe in birth pangs: “the boat was beaten by the waves”, “seeing them labouring at rowing”, “crying out in birth pains”.",
+   "def_es": "Ser sacudido por las olas, bregar remando, retorcerse en el parto: «la barca azotada por las olas», «viéndolos remar con gran fatiga», «clamaba con dolores de parto».",
+   "def_sv": "Att kastas av vågor, slita vid årorna, vrida sig i födslovåndor: ”båten ansattes av vågorna”, ”såg dem slita vid årorna”, ”skrek i sina födslovåndor”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ14:24、マルコ6:48、黙示録12:2。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40008006013": "1",
+  "n40008029016": "1",
+  "n40014024011": "2",
+  "n41005007022": "1",
+  "n41006048004": "2",
+  "n42008028026": "1",
+  "n61002008017": "1",
+  "n66009005010": "1",
+  "n66011010021": "1",
+  "n66012002009": "2",
+  "n66014010021": "1",
+  "n66020010023": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（苦しめる／悩まされる）による。"
+}

@@ -1,0 +1,53 @@
+{
+ "lemma": "δίκη",
+ "lemmaId": "grc:G1349",
+ "strong": "G1349",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "罰・刑罰",
+   "label_en": "punishment",
+   "label_es": "pena, castigo",
+   "label_sv": "straff",
+   "def": "罰、刑罰、報い。『永遠の滅びの刑罰を受ける』『永遠の火の刑罰を受けて』。",
+   "def_en": "Punishment, penalty, retribution: “will suffer the punishment of eternal destruction”, “undergoing the punishment of eternal fire”.",
+   "def_es": "Castigo, pena, retribución: «sufrirán el castigo de eterna perdición», «sufriendo el castigo del fuego eterno».",
+   "def_sv": "Straff, bestraffning, vedergällning: ”skall straffas med evigt fördärv”, ”får lida straff i evig eld”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "テサロニケ第二1:9、ユダ7。LXX、教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "裁き・正義（擬人化）",
+   "label_en": "justice (personified)",
+   "label_es": "justicia (personificada)",
+   "label_sv": "rättvisan (personifierad)",
+   "def": "裁き、正義。『正義の女神は彼を生かしておかない』『有罪判決』。",
+   "def_en": "Judgment, Justice: “the goddess Justice has not allowed him to live”, “a sentence of condemnation”.",
+   "def_es": "El juicio, la Justicia: «la diosa Justicia no le deja vivir», «sentencia condenatoria».",
+   "def_sv": "Domen, Rättvisan: ”Rättvisans gudinna låter honom inte leva”, ”en fällande dom”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒28:4・25:15。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n44025015018": "2",
+  "n44028004028": "2",
+  "n53001009002": "1",
+  "n65001007024": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（罰／裁き・正義）による。"
+}

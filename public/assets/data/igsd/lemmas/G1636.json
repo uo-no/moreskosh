@@ -1,0 +1,79 @@
+{
+ "lemma": "ἐλαία",
+ "lemmaId": "grc:G1636",
+ "strong": "G1636",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "オリーブの木",
+   "label_en": "olive tree",
+   "label_es": "olivo",
+   "label_sv": "olivträd",
+   "def": "オリーブの木。『二本のオリーブの木』『野生のオリーブの枝』『もとの栽培されたオリーブ』。",
+   "def_en": "The olive tree: “two olive trees”, “a wild olive shoot”, “their own cultivated olive tree”.",
+   "def_es": "El olivo: «dos olivos», «siendo olivo silvestre», «su propio olivo».",
+   "def_sv": "Olivträdet: ”två olivträd”, ”ett vilt olivskott”, ”deras eget ädla olivträd”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "黙示録11:4、ローマ11:17・11:24。LXX ゼカリヤ4:11 に並行。教父の用例は無い。"
+  },
+  {
+   "id": "2",
+   "label": "オリーブの実",
+   "label_en": "olive (fruit)",
+   "label_es": "aceituna",
+   "label_sv": "oliv (frukt)",
+   "def": "オリーブの実。『いちじくの木がオリーブの実を結ぶことができようか』。",
+   "def_en": "The fruit of the olive: “can a fig tree bear olives?”",
+   "def_es": "El fruto del olivo: «¿puede acaso la higuera producir aceitunas?».",
+   "def_sv": "Olivträdets frukt: ”kan ett fikonträd bära oliver?”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヤコブ3:12 の1例のみ。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "オリーブ山（τὸ ὄρος τῶν ἐλαιῶν）",
+   "label_en": "Mount of Olives (τὸ ὄρος τῶν ἐλαιῶν)",
+   "label_es": "monte de los Olivos (τὸ ὄρος τῶν ἐλαιῶν)",
+   "label_sv": "Olivberget (τὸ ὄρος τῶν ἐλαιῶν)",
+   "def": "『オリーブ山』という地名。",
+   "def_en": "The place name “Mount of Olives”.",
+   "def_es": "El topónimo «monte de los Olivos».",
+   "def_sv": "Ortnamnet ”Olivberget”.",
+   "layers": {
+    "nt": 9,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヨハネ8:1、ルカ19:37・22:39、マタイ21:1・24:3・26:30、マルコ11:1・13:3・14:26。語義1との境界は連続的（地名）。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40021001014": "3",
+  "n40024003008": "3",
+  "n40026030008": "3",
+  "n41011001014": "3",
+  "n41013003008": "3",
+  "n41014026008": "3",
+  "n42019037011": "3",
+  "n42022039011": "3",
+  "n43008001008": "3",
+  "n45011017021": "1",
+  "n45011024025": "1",
+  "n59003012006": "2",
+  "n66011004005": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "教父の用例は無い。語義区分は用法（木／実／地名）による。"
+}
