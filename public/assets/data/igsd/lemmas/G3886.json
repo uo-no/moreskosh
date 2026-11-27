@@ -1,0 +1,54 @@
+{
+ "lemma": "παραλύομαι",
+ "lemmaId": "grc:G3886",
+ "strong": "G3886",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "麻痺する",
+   "label_en": "to be paralyzed",
+   "label_es": "estar paralítico",
+   "label_sv": "att vara förlamad",
+   "def": "体が麻痺する、中風になる。『中風の者』『中風で寝たきりの者』『中風の人に』『中風の人を床に載せ』。",
+   "def_en": "For the body to be paralyzed; to suffer palsy: “those who were paralysed”, “a paralysed man lying bedridden”, “to the paralytic”, “carrying a paralysed man on a bed”.",
+   "def_es": "Tener el cuerpo paralizado: «los paralíticos», «un paralítico que estaba en cama», «al paralítico», «un hombre paralítico en un lecho».",
+   "def_sv": "Att kroppen är förlamad: ”lama”, ”en lam man som var sängliggande”, ”till den lame”, ”bar en lam man på en bädd”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒8:7・9:33、ルカ5:18・5:24。語義2との境界は連続的。LXX・教父の代表例は「弱る」の用法で、この語義としては確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "弱る・力を失う",
+   "label_en": "to grow weak",
+   "label_es": "debilitarse",
+   "label_sv": "att bli kraftlös",
+   "def": "弱る、力を失う。『なえた膝をまっすぐにしなさい』。",
+   "def_en": "To become weak, to lose strength: “strengthen your weak knees”.",
+   "def_es": "Flaquear, perder las fuerzas: «enderezad las rodillas paralizadas».",
+   "def_sv": "Att försvagas, att förlora kraften: ”sträck på de matta knäna”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ヘブル12:12。LXX に並行（弱る）。教父の用例なし。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42005018010": "1",
+  "n42005024018": "1",
+  "n44008007013": "1",
+  "n44009033016": "1",
+  "n58012012007": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（麻痺／弱り）による。"
+}

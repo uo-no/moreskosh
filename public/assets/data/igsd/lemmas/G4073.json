@@ -1,0 +1,81 @@
+{
+ "lemma": "πέτρα",
+ "lemmaId": "grc:G4073",
+ "strong": "G4073",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "岩／岩場",
+   "label_en": "rock / rocky ground",
+   "label_es": "roca / peñasco",
+   "label_sv": "klippa / berggrund",
+   "def": "岩、岩場、岩の大地。『岩の上に土台を据えた』『岩の上に落ちた種』『岩が裂けた』『岩の間に身を隠す』。",
+   "def_en": "Rock, a rocky place, bedrock: “laid the foundation on the rock”, “seed that fell on the rock”, “the rocks were split”, “hid among the rocks”.",
+   "def_es": "Roca, peñascal, suelo rocoso: «puso el fundamento sobre la roca», «cayó sobre la piedra», «las rocas se partieron», «se escondieron entre las peñas».",
+   "def_sv": "Klippa, stenig mark, berggrund: ”lade grunden på berget”, ”säd som föll på berghällen”, ”klipporna rämnade”, ”gömde sig bland klipporna”.",
+   "layers": {
+    "nt": 8,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ルカ6:48・8:6・8:13、マタイ7:24・7:25・27:51、黙示録6:15・6:16。LXX エレミヤ18:14・詩篇140:6、教父（26.12.1、6.3）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "岩（に掘った墓）",
+   "label_en": "rock (tomb hewn in it)",
+   "label_es": "roca (sepulcro excavado)",
+   "label_sv": "klippa (grav uthuggen i den)",
+   "def": "岩に掘られた墓。『岩に掘った墓』。",
+   "def_en": "A tomb cut in the rock: “a tomb hewn out of rock”.",
+   "def_es": "Sepulcro excavado en la roca: «un sepulcro cavado en una peña».",
+   "def_sv": "En grav uthuggen i berget: ”en grav som var uthuggen i klippan”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マタイ27:60、マルコ15:46。LXX 代表例に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+  },
+  {
+   "id": "3",
+   "label": "岩（比喩的）",
+   "label_en": "rock (figurative)",
+   "label_es": "roca (en sentido figurado)",
+   "label_sv": "klippa (bildligt)",
+   "def": "比喩として用いられる岩。『この岩の上にわたしの教会を建てる』『霊の岩』『つまずきの岩』。",
+   "def_en": "Rock used as a figure: “on this rock I will build my church”, “the spiritual Rock”, “a rock of offence”.",
+   "def_es": "La roca usada como figura: «sobre esta roca edificaré mi iglesia», «la roca espiritual», «roca de escándalo».",
+   "def_sv": "Klippan som bild: ”på denna klippa ska jag bygga min församling”, ”den andliga klippan”, ”en stötesklippa”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "マタイ16:18、Ⅰコリ10:4（2回）、Ⅰペテロ2:8、ローマ9:33。LXX イザヤ8:14・申命記32、教父（26.12.1）に並行。マタイ16:18 の『この岩』が指すものは争点だが、語義としては比喩的用法に置き、指示対象の判定はしない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40007024022": "1",
+  "n40007025025": "1",
+  "n40016018013": "3",
+  "n40027051020": "1",
+  "n40027060013": "2",
+  "n41015046018": "2",
+  "n42006048015": "1",
+  "n42008006006": "1",
+  "n42008013005": "1",
+  "n45009033010": "3",
+  "n46010004013": "3",
+  "n46010004015": "3",
+  "n60002008005": "3",
+  "n66006015031": "1",
+  "n66006016007": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（自然物／墓／比喩）による。"
+}

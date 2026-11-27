@@ -1,0 +1,55 @@
+{
+ "lemma": "παρατηρέω",
+ "lemmaId": "grc:G3906",
+ "strong": "G3906",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "じっと見張る・うかがう",
+   "label_en": "to watch closely",
+   "label_es": "acechar, vigilar",
+   "label_sv": "att vakta på, att ge noga akt",
+   "def": "注意深く見張る、うかがう。『昼も夜も城門を見張っていた』『イエスをうかがっていた』『機会をうかがい』『イエスを見張っていた』。",
+   "def_en": "To watch attentively, to keep an eye on: “they watched the gates day and night”, “were watching Jesus closely”, “watching for an opportunity”, “were watching Jesus”.",
+   "def_es": "Observar con atención, estar al acecho: «guardaban las puertas de día y de noche», «acechaban a Jesús», «acechando la ocasión», «estaban acechando a Jesús».",
+   "def_sv": "Att noga bevaka, att lura på: ”vaktade stadsportarna dag och natt”, ”iakttog Jesus noga”, ”lurade på ett tillfälle”, ”höll ögonen på Jesus”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒9:24、ルカ14:1・20:20・6:7、マルコ3:2。LXX（12・129.3）に並行。教父の用例なし。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "守る・暦を重んじる",
+   "label_en": "to observe (days, seasons)",
+   "label_es": "guardar, observar (fechas)",
+   "label_sv": "att hålla, att iaktta (dagar, tider)",
+   "def": "日・月・季節・年などを守る、重んじる。『あなたがたは、日と月と季節と年とを守っている』。",
+   "def_en": "To keep or attach importance to days, months, seasons and years: “you observe days and months and seasons and years”.",
+   "def_es": "Guardar y dar importancia a días, meses, tiempos y años: «guardáis los días, los meses, los tiempos y los años».",
+   "def_sv": "Att hålla och lägga vikt vid dagar, månader, tider och år: ”ni håller fast vid dagar, månader, högtider och år”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ガラテヤ4:10。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n41003002002": "1",
+  "n42006007001": "1",
+  "n42014001020": "1",
+  "n42020020002": "1",
+  "n44009024008": "1",
+  "n48004010002": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（見張る／暦を守る）による。"
+}

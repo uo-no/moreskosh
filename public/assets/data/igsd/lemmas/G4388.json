@@ -1,0 +1,52 @@
+{
+ "lemma": "προτίθεμαι",
+ "lemmaId": "grc:G4388",
+ "strong": "G4388",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "あらかじめ心に定める",
+   "label_en": "to purpose beforehand",
+   "label_es": "proponerse de antemano",
+   "label_sv": "att föresätta sig",
+   "def": "あらかじめ心に定める、計画する。『ご自身で定められた』『何度もあなたがたのところに行こうと計画した』。",
+   "def_en": "To determine in one’s heart beforehand, to plan: “which he purposed in himself”, “I often planned to come to you”.",
+   "def_es": "Resolver con anterioridad, planear: «el cual se había propuesto en sí mismo», «muchas veces me he propuesto ir a vosotros».",
+   "def_sv": "Att i förväg bestämma, att planera: ”som han själv hade beslutat”, ”jag har ofta tänkt komma till er”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "エペソ1:9、ローマ1:13。LXX・教父の代表例では確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "公に示す",
+   "label_en": "to set forth publicly",
+   "label_es": "presentar públicamente",
+   "label_sv": "att offentligt framställa",
+   "def": "公に示す、前に据える。ローマ3:25 の『公に示した』か『前もって定めた』かは決定しない。",
+   "def_en": "To display openly, to set before. It is not decided whether Romans 3:25 means “displayed publicly” or “determined beforehand”.",
+   "def_es": "Exponer a la vista, poner delante. No se decide si Romanos 3:25 significa «puso públicamente» o «determinó de antemano».",
+   "def_sv": "Att öppet ställa fram. Det avgörs inte om Romarbrevet 3:25 betyder ”ställde fram öppet” eller ”bestämde i förväg”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ローマ3:25。LXX に並行（前に据える・公に示す）。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n45001013009": "1",
+  "n45003025002": "2",
+  "n49001009013": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法による。ローマ3:25 の解釈は決定しない。"
+}

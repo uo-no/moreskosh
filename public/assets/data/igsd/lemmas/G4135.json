@@ -1,0 +1,55 @@
+{
+ "lemma": "πληροφορέω",
+ "lemmaId": "grc:G4135",
+ "strong": "G4135",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "全うする・成し遂げる",
+   "label_en": "to fulfill, to accomplish",
+   "label_es": "cumplir, llevar a término",
+   "label_sv": "att fullgöra, att fullborda",
+   "def": "事を全うする、成し遂げる、余すところなく行う。『あなたの務めを全うしなさい』『宣教が余すところなく果たされ』『わたしたちの間で成し遂げられた事柄』。",
+   "def_en": "To carry a matter through, to accomplish it fully: “fulfil your ministry”, “so that the proclamation might be fully carried out”, “the things that have been accomplished among us”.",
+   "def_es": "Llevar a cabo algo por completo, sin dejar nada: «cumple tu ministerio», «para que la predicación fuese cumplida», «las cosas que entre nosotros han sido ciertísimas».",
+   "def_sv": "Att fullfölja något, att utföra det helt: ”fullgör din tjänst”, ”så att förkunnelsen fullföljdes helt”, ”de händelser som har fullbordats bland oss”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "テモテ第二4:5・4:17、ルカ1:1。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "確信する・十分に確信させる",
+   "label_en": "to be fully convinced",
+   "label_es": "estar plenamente convencido",
+   "label_sv": "att vara fullt övertygad",
+   "def": "確信する、十分に確信させる（受動）。『確信して』『各人は自分の心の中で確信を持つべきである』『確信を持って、立つことができるように』。",
+   "def_en": "To be convinced, to be fully persuaded (passive): “being fully convinced”, “let each one be fully convinced in his own mind”, “that you may stand fully assured”.",
+   "def_es": "Estar convencido, quedar plenamente persuadido (pasiva): «plenamente convencido», «cada uno esté plenamente convencido en su propia mente», «para que estéis firmes y completamente seguros».",
+   "def_sv": "Att vara viss, att bli helt övertygad (passiv): ”fullt övertygad”, ”var och en skall vara fullt viss i sitt sinne”, ”så att ni kan stå fasta i full visshet”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "コロサイ4:12、ローマ14:5・4:21。LXX（8.11）に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42001001008": "1",
+  "n45004021002": "2",
+  "n45014005017": "2",
+  "n51004012020": "2",
+  "n55004005013": "1",
+  "n55004017014": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（全うする／確信する）による。"
+}

@@ -1,0 +1,85 @@
+{
+ "lemma": "κριτής",
+ "lemmaId": "grc:G2923",
+ "strong": "G2923",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "裁判人／裁き人（人の）",
+   "label_en": "judge (human)",
+   "label_es": "juez (humano)",
+   "label_sv": "domare (mänsklig)",
+   "def": "法廷で裁く者、裁判官。取り立てを訴える相手の裁判人、不正な裁判官、総督、人を裁く者。",
+   "def_en": "One who judges in court: the judge to whom one is handed by a creditor or opponent, the unjust judge, a governor, one who judges others.",
+   "def_es": "El que juzga en un tribunal: el juez ante quien se reclama una deuda, el juez injusto, el gobernador, el que juzga a otros.",
+   "def_sv": "En som dömer i rätten: domaren som man drar sin motpart inför, den orättfärdige domaren, ståthållaren, den som dömer andra.",
+   "layers": {
+    "nt": 13,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "マタイ5:25（2回）・12:27、ルカ11:19・12:14・58（2回）・18:2・6（不正な裁判官）、使徒18:15・24:10、ヤコブ2:4・4:11。LXX 申命記1:16、教父（ヘルマス4.10）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "（神・キリストが）裁く者／審判者",
+   "label_en": "the Judge (God, Christ)",
+   "label_es": "el Juez (Dios, Cristo)",
+   "label_sv": "Domaren (Gud, Kristus)",
+   "def": "神、またキリストを、すべてを裁く最終的な審判者として語る。",
+   "def_en": "Speaking of God, and of Christ, as the final judge of all.",
+   "def_es": "Se habla de Dios y de Cristo como el juez último que juzga todo.",
+   "def_sv": "Gud och Kristus omtalade som den slutlige domaren över allt.",
+   "layers": {
+    "nt": 5,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒10:42（生きている者と死んだ者との審判者として定められた方）、Ⅱテモ4:8（義の審判者である主）、ヘブル12:23（すべての人の審判者なる神）、ヤコブ4:12・5:9（さばきの主）。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "士師（イスラエルの裁き人）",
+   "label_en": "judge (of Israel)",
+   "label_es": "juez (de Israel)",
+   "label_sv": "domare (i Israel)",
+   "def": "約束の地で、王の前にイスラエルを治めた裁き人（士師）。",
+   "def_en": "The judges who governed Israel in the promised land before there were kings.",
+   "def_es": "Los jueces que gobernaron a Israel en la tierra prometida antes de los reyes.",
+   "def_sv": "De domare som styrde Israel i det utlovade landet före kungarnas tid.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒13:20（士師たちを与えた）の1例のみ。LXX 士師記・申命記に並行。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40005025021": "1",
+  "n40005025024": "1",
+  "n40012027018": "1",
+  "n42011019019": "1",
+  "n42012014009": "1",
+  "n42012058023": "1",
+  "n42012058026": "1",
+  "n42018002002": "1",
+  "n42018006008": "1",
+  "n44010042017": "2",
+  "n44013020010": "3",
+  "n44018015016": "1",
+  "n44024010015": "1",
+  "n55004008019": "2",
+  "n58012023008": "2",
+  "n59002004007": "1",
+  "n59004011027": "1",
+  "n59004012005": "2",
+  "n59005009011": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

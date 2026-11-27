@@ -1,0 +1,69 @@
+{
+ "lemma": "μαρτύριον",
+ "lemmaId": "grc:G3142",
+ "strong": "G3142",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "証し／証拠（証言・証明）",
+   "label_en": "testimony / evidence (witness, proof)",
+   "label_es": "testimonio / prueba (declaración, demostración)",
+   "label_sv": "vittnesbörd / bevis (vittnesmål, bekräftelse)",
+   "def": "証言、証拠、あかし。『彼らへの証しとして』の形（εἰς μαρτύριον）が多く、告白・福音の宣教・良心の証し・使徒たちの証言を指す。",
+   "def_en": "Testimony, evidence, witness. Often in the form “as a testimony to them” (εἰς μαρτύριον); refers to confession, the preaching of the gospel, the witness of conscience, and the testimony of the apostles.",
+   "def_es": "Testimonio, prueba, atestación. A menudo en la forma «para testimonio a ellos» (εἰς μαρτύριον); se refiere a la confesión, la predicación del evangelio, el testimonio de la conciencia y el de los apóstoles.",
+   "def_sv": "Vittnesmål, bevis, vittnesbörd. Ofta i formen ”till ett vittnesbörd för dem” (εἰς μαρτύριον); syftar på bekännelsen, förkunnelsen av evangeliet, samvetets vittnesbörd och apostlarnas vittnesmål.",
+   "layers": {
+    "nt": 18,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "マタイ8:4・マルコ1:44・ルカ5:14（祭司への証しとして）、マタイ10:18・マルコ13:9・ルカ21:13（総督たちへの証し）、マタイ24:14（すべての民への証し）、マルコ6:11・ルカ9:5・ヤコブ5:3、使徒4:33、Ⅰコリ1:6・2:1、Ⅱコリ1:12、Ⅱテサ1:10、Ⅰテモ2:6、Ⅱテモ1:8、ヘブル3:5。LXX の代表例はこの意味ではなく『証しの幕屋』。教父（バルナバ8.4『アブラハム、イサク、ヤコブの証しのために』）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "証しの（幕屋）／掟の板",
+   "label_en": "(tent) of the testimony / tablets of the law",
+   "label_es": "(tienda) del testimonio / tablas de la ley",
+   "label_sv": "vittnesbördets (tält) / lagens tavlor",
+   "def": "『証しの幕屋（σκηνὴ τοῦ μαρτυρίου）』、すなわち契約の板と幕屋に関わる『証し』。",
+   "def_en": "“The tent of the testimony” (σκηνὴ τοῦ μαρτυρίου), that is, the “testimony” connected with the tablets of the covenant and the tabernacle.",
+   "def_es": "«La tienda del testimonio» (σκηνὴ τοῦ μαρτυρίου), es decir, el «testimonio» relacionado con las tablas del pacto y el tabernáculo.",
+   "def_sv": "”Vittnesbördets tält” (σκηνὴ τοῦ μαρτυρίου), det vill säga det ”vittnesbörd” som hör samman med förbundets tavlor och tabernaklet.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒7:44（荒野の証しの幕屋）、黙示録15:5（天にある証しの幕屋の聖所）。LXX 民数記12:5・出エジプト記25:15 に多数並行。教父の代表例では確認していない。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40008004023": "1",
+  "n40010018011": "1",
+  "n40024014013": "1",
+  "n41001044024": "1",
+  "n41006011022": "1",
+  "n41013009022": "1",
+  "n42005014023": "1",
+  "n42009005020": "1",
+  "n42021013004": "1",
+  "n44004033006": "1",
+  "n44007044004": "2",
+  "n46001006003": "1",
+  "n46002001016": "1",
+  "n47001012008": "1",
+  "n53001010017": "1",
+  "n54002006008": "1",
+  "n55001008005": "1",
+  "n58003005013": "1",
+  "n59005003013": "1",
+  "n66015005012": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "教父には『殉教（μαρτύρια）』の用法（Ⅰクレメンス2.1）があるが新約に無いため語義にしない。"
+}

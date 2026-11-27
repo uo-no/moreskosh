@@ -1,0 +1,91 @@
+{
+ "lemma": "μανθάνω",
+ "lemmaId": "grc:G3129",
+ "strong": "G3129",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "学ぶ／教えられて身につける",
+   "label_en": "to learn / acquire by being taught",
+   "label_es": "aprender / adquirir por enseñanza",
+   "label_sv": "att lära sig / tillägna sig genom undervisning",
+   "def": "教え・知識・内容を、人から、また観察を通して受け取り、自分のものにする。学ばれる内容は目的語（教え・たとえ・歌・キリスト）や節で示され、学ぶ相手は「〜から」で示されることがある。",
+   "def_en": "To receive teaching, knowledge, or content from people or through observation and make it one's own. What is learned is shown by an object (a teaching, a parable, a song, Christ) or a clause; the one learned from may be shown with “from”.",
+   "def_es": "Recibir enseñanza, conocimiento o contenido de las personas, o mediante la observación, y hacerlo propio. Lo aprendido se indica con un objeto (enseñanza, parábola, cántico, Cristo) o una oración; de quién se aprende puede indicarse con «de».",
+   "def_sv": "Att ta emot undervisning, kunskap eller innehåll av människor eller genom iakttagelse och göra det till sitt. Det som lärs anges med objekt (lära, liknelse, sång, Kristus) eller sats; den man lär av kan anges med ”av”.",
+   "layers": {
+    "nt": 18,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "代表例：マタイ24:32（いちじくから学ぶ）、エペソ4:20、ローマ16:17。目的語なしの用法（学び続ける）も含む。"
+  },
+  {
+   "id": "2",
+   "label": "知る／事情を知らされる",
+   "label_en": "to find out / be informed",
+   "label_es": "enterarse / ser informado",
+   "label_sv": "att få veta / bli underrättad",
+   "def": "ある事実を聞いて、または問い合わせて知るに至る。学習の過程ではなく、事実の把握が焦点になる。",
+   "def_en": "To come to know a fact by hearing it or by inquiring. The focus is not on a process of learning but on grasping the fact.",
+   "def_es": "Llegar a saber un hecho al oírlo o al preguntar. El foco no está en un proceso de aprendizaje, sino en captar el hecho.",
+   "def_sv": "Att få kännedom om ett faktum genom att höra eller fråga sig fram. Fokus ligger inte på en lärprocess utan på att få klart för sig faktum.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒23:27（ローマ人だと知って）、ガラテヤ3:2（あなたがたから知りたい）。語義1との境界は連続的で、事実の認知に重心がある用例だけを分けた。"
+  },
+  {
+   "id": "3",
+   "label": "〜することを身につける／習い覚える",
+   "label_en": "to learn to do / acquire as a habit",
+   "label_es": "aprender a (hacer) / habituarse",
+   "label_sv": "att lära sig att / öva upp",
+   "def": "ある態度や行為を、経験や訓練を通して自分の習いとして身につける。不定詞や、態度・状態を表す語句とともに用いられる。",
+   "def_en": "To make an attitude or action one's own habit through experience or training. Used with an infinitive or with words expressing an attitude or state.",
+   "def_es": "Hacer propio como hábito, por experiencia o ejercicio, una actitud o conducta. Se usa con infinitivo o con expresiones de actitud o estado.",
+   "def_sv": "Att genom erfarenhet eller övning göra en hållning eller handling till sin vana. Används med infinitiv eller med uttryck för hållning eller tillstånd.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ピリピ4:11（自足することを習い覚えた）、ヘブル5:8、第一テモテ5:4・5:13、テトス3:14。LXX申命記18:9・エゼキエル19:3に「〜することを学ぶ」の並行。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40009013003": "1",
+  "n40011029008": "1",
+  "n40024032005": "1",
+  "n41013028005": "1",
+  "n43006045018": "1",
+  "n43007015011": "1",
+  "n44023027018": "2",
+  "n45016017017": "1",
+  "n46004006014": "1",
+  "n46014031009": "1",
+  "n46014035004": "1",
+  "n48003002004": "2",
+  "n49004020005": "1",
+  "n50004009003": "1",
+  "n50004011008": "3",
+  "n51001007002": "1",
+  "n54002011004": "1",
+  "n54005004009": "3",
+  "n54005013005": "3",
+  "n55003007002": "1",
+  "n55003014006": "1",
+  "n55003014012": "1",
+  "n56003014001": "3",
+  "n58005008004": "3",
+  "n66014003020": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "LXX・教父とも新約に無い用法は代表例の範囲では見当たらない。"
+}

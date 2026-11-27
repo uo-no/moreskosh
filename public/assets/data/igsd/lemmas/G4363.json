@@ -1,0 +1,57 @@
+{
+ "lemma": "προσπίπτω",
+ "lemmaId": "grc:G4363",
+ "strong": "G4363",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "ひれ伏す・ひざまずく",
+   "label_en": "to fall down before / kneel",
+   "label_es": "postrarse",
+   "label_sv": "att falla ner inför",
+   "def": "人の前にひれ伏す、倒れ伏す。『パウロとシラスの前にひれ伏し』『シモン・ペテロはイエスのひざもとにひれ伏して』『イエスの前にひれ伏し』『その前にひれ伏して』『おそれおののいて来て、ひれ伏し』『足もとにひれ伏した』。",
+   "def_en": "To fall prostrate before someone: “fell down before Paul and Silas”, “Simon Peter fell down at Jesus' knees”, “fell down before Jesus”, “fell down before him”, “came in fear and trembling and fell down”, “fell at his feet”.",
+   "def_es": "Caer de rodillas o postrarse ante alguien: «se postró a los pies de Pablo y de Silas», «Simón Pedro cayó de rodillas ante Jesús», «se postraron delante de él», «postrándose delante de él», «temiendo y temblando, vino y se postró», «se echó a sus pies».",
+   "def_sv": "Att kasta sig ner inför någon: ”föll ner för Paulus och Silas”, ”Simon Petrus föll ner vid Jesu knän”, ”föll ner för Jesus”, ”kastade sig ner för honom”, ”kom darrande av rädsla och föll ner”, ”föll för hans fötter”.",
+   "layers": {
+    "nt": 7,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒16:29、ルカ5:8・8:28・8:47、マルコ3:11・5:33・7:25。LXX（9.47）、教父（9.1）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "襲いかかる・吹きつける",
+   "label_en": "to beat against / assail",
+   "label_es": "dar contra",
+   "label_sv": "att störta mot",
+   "def": "風や水が家に襲いかかる。『風が吹いてその家に打ちつけても』。",
+   "def_en": "Wind or water assails a house: “though the winds blew and beat on that house”.",
+   "def_es": "El viento o el agua embisten la casa: «soplaron vientos, y golpearon contra aquella casa».",
+   "def_sv": "Vind eller vatten slår mot huset: ”vindarna blåste och kastade sig mot huset”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ7:25。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40007025014": "2",
+  "n41003011009": "1",
+  "n41005033013": "1",
+  "n41007025015": "1",
+  "n42005008005": "1",
+  "n42008028006": "1",
+  "n42008047011": "1",
+  "n44016029008": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（ひれ伏す／家への襲来）による。LXX の一例（8.12）は「知らせが届く」用法で、語義に立てない。"
+}

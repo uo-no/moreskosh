@@ -1,0 +1,81 @@
+{
+ "lemma": "κληρονόμος",
+ "lemmaId": "grc:G2818",
+ "strong": "G2818",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "跡取り（家族の）",
+   "label_en": "heir (of a family)",
+   "label_es": "heredero (de familia)",
+   "label_sv": "arvinge (i en familj)",
+   "def": "家の跡取り、相続人。『これは跡取りだ』『相続人は幼いうちは』。",
+   "def_en": "The heir of a household: “This is the heir”, “as long as the heir is a child”.",
+   "def_es": "El heredero de la casa: «este es el heredero», «mientras el heredero es niño».",
+   "def_sv": "Husets arvinge: ”det här är arvingen”, ”så länge arvingen är omyndig”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ガラテヤ4:1、ルカ20:14、マタイ21:38、マルコ12:7。LXX 士師記18:7・Ⅱ列王記14:7 に並行。教父の代表例では確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "相続人（神の約束・祝福の）",
+   "label_en": "heir (of God's promise and blessing)",
+   "label_es": "heredero (de la promesa y bendición de Dios)",
+   "label_sv": "arvinge (till Guds löfte och välsignelse)",
+   "def": "神の約束・国・義などの相続人。『神の相続人』『約束による相続人』『アブラハムの子孫、約束による相続人』。",
+   "def_en": "Heir of God's promise, kingdom, righteousness, and so on: “heirs of God”, “heirs according to promise”, “Abraham's offspring, heirs according to the promise”.",
+   "def_es": "Heredero de la promesa, el reino, la justicia de Dios, etc.: «herederos de Dios», «herederos según la promesa», «linaje de Abrahán y herederos».",
+   "def_sv": "Arvinge till Guds löfte, rike, rättfärdighet m.m.: ”Guds arvingar”, ”arvingar enligt löftet”, ”Abrahams avkomma och arvingar”.",
+   "layers": {
+    "nt": 10,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "ガラテヤ4:7・3:29、ヘブル6:17・11:7、ヤコブ2:5、ローマ4:13・4:14・8:17（2回）、テトス3:7。教父（6.19）に並行。LXX の代表例では確認していない。語義1との境界は連続的。"
+  },
+  {
+   "id": "3",
+   "label": "万物の相続者（御子）",
+   "label_en": "heir of all things (the Son)",
+   "label_es": "heredero de todo (el Hijo)",
+   "label_sv": "arvinge till allt (Sonen)",
+   "def": "『万物の相続者として立てられた御子』（ヘブル1:2）。",
+   "def_en": "“The Son, whom he appointed heir of all things” (Heb 1:2).",
+   "def_es": "«El Hijo, a quien constituyó heredero de todo» (He 1:2).",
+   "def_sv": "”Sonen, som han har insatt till arvinge över allting” (Heb 1:2).",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヘブル1:2 の1例のみ。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40021038013": "1",
+  "n41012007012": "1",
+  "n42020014013": "1",
+  "n45004013014": "2",
+  "n45004014006": "2",
+  "n45008017005": "2",
+  "n45008017006": "2",
+  "n48003029012": "2",
+  "n48004001007": "1",
+  "n48004007011": "2",
+  "n56003007006": "2",
+  "n58001002012": "3",
+  "n58006017009": "2",
+  "n58011007027": "2",
+  "n59002005017": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は相続の対象による。"
+}

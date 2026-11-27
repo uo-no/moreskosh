@@ -1,0 +1,74 @@
+{
+ "lemma": "μετέχω",
+ "lemmaId": "grc:G3348",
+ "strong": "G3348",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "食物にあずかる",
+   "label_en": "to partake of food",
+   "label_es": "participar de la comida",
+   "label_sv": "att få del av föda",
+   "def": "食卓・食物にあずかる。『ひとつのパンにあずかっている』『主の食卓と悪霊の食卓の両方にあずかることはできない』『感謝していただくなら』『乳を飲む者は』。",
+   "def_en": "To share in a table or food: “we all partake of the one bread”, “you cannot partake of the table of the Lord and the table of demons”, “if I partake with thankfulness”, “everyone who lives on milk”.",
+   "def_es": "Tener parte en la mesa o el alimento: «participamos de aquel mismo pan», «no podéis participar de la mesa del Señor y de la mesa de los demonios», «si yo con agradecimiento participo», «todo aquel que participa de la leche».",
+   "def_sv": "Att ta del av bord eller mat: ”vi får alla del av ett och samma bröd”, ”ni kan inte ha del i både Herrens bord och de onda andarnas”, ”om jag äter med tacksägelse”, ”den som lever på mjölk”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "コリント第一10:17・10:21・10:30、ヘブル5:13。LXX・教父の代表例は「分け前にあずかる」の用法で、この語義としては確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "分け前にあずかる・共にする",
+   "label_en": "to share / partake in",
+   "label_es": "tener parte / compartir",
+   "label_sv": "att få sin del / dela",
+   "def": "分け前にあずかる、共にする。『あずかる望みをもって』『他の人たちがあなたがたにあずかっているなら』『子たちは血と肉とにあずかっているので、イエスもそれにあずかられた』。",
+   "def_en": "To have a share, to take part: “in hope of sharing in the crop”, “if others share this rightful claim on you”, “since the children share in flesh and blood, he himself likewise partook”.",
+   "def_es": "Participar, tener en común: «con esperanza de recibir su parte», «si otros participan de este derecho sobre vosotros», «por cuanto los hijos participaron de carne y sangre, él también participó».",
+   "def_sv": "Att ha del i, dela: ”i hopp om att få sin del”, ”om andra har sådan rätt hos er”, ”eftersom barnen har del av kött och blod fick han också del av det”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "コリント第一9:10・9:12、ヘブル2:14。LXX（5.10・5.40）、教父（5）に並行。語義1・3との境界は連続的。"
+  },
+  {
+   "id": "3",
+   "label": "属する",
+   "label_en": "to belong to",
+   "label_es": "pertenecer a",
+   "label_sv": "att tillhöra",
+   "def": "ある部族に属する。『別の部族に属しておられる』。",
+   "def_en": "To belong to a tribe: “belonged to another tribe”.",
+   "def_es": "Ser de una tribu: «es de otra tribu».",
+   "def_sv": "Att höra till en stam: ”tillhörde en annan stam”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヘブル7:13。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n46009010023": "2",
+  "n46009012006": "2",
+  "n46010017016": "1",
+  "n46010021013": "1",
+  "n46010030004": "1",
+  "n58002014012": "2",
+  "n58005013004": "1",
+  "n58007013008": "3"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（食物／分け前／所属）による。"
+}

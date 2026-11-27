@@ -1,0 +1,71 @@
+{
+ "lemma": "περιαιρέω",
+ "lemmaId": "grc:G4014",
+ "strong": "G4014",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "取り除く",
+   "label_en": "to take away, to remove",
+   "label_es": "quitar",
+   "label_sv": "att ta bort",
+   "def": "取り除く、覆いを除く。『主に向かう時には、そのおおいは取り除かれる』『罪を除き去る』。",
+   "def_en": "To take away, to remove a covering: “when one turns to the Lord, the veil is taken away”, “to take away sins”.",
+   "def_es": "Quitar, retirar un velo: «cuando se conviertan al Señor, el velo se quitará», «quitar los pecados».",
+   "def_sv": "Att avlägsna, att ta bort ett täckelse: ”när någon vänder sig till Herren tas slöjan bort”, ”ta bort synder”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "コリント第二3:16、ヘブル10:11。LXX に並行。教父の用例なし。語義2・3との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "錨を外す・切り離す",
+   "label_en": "to cast off (anchors)",
+   "label_es": "soltar (anclas)",
+   "label_sv": "att kapa (ankarna)",
+   "def": "錨を外す、切り離す。『錨を切り放して』『錨を揚げて』。",
+   "def_en": "To remove the anchors, to cut them loose: “cutting loose the anchors”, “raising the anchors”.",
+   "def_es": "Soltar las anclas, desprenderlas: «cortando las anclas», «levantando las anclas».",
+   "def_sv": "Att lossa ankarna, att hugga av dem: ”kapade ankartågen”, ”lättade ankar”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒27:40・28:13。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "取り去られる（望みが）",
+   "label_en": "to be taken away (hope)",
+   "label_es": "desvanecerse (la esperanza)",
+   "label_sv": "att tas ifrån (om hoppet)",
+   "def": "望みが取り去られる、失われる。『助かる望みも…ついに消え去ろうとしていた』。",
+   "def_en": "For hope to be taken away, to be lost: “all hope of being saved was … at last being abandoned”.",
+   "def_es": "Perderse, quitarse la esperanza: «ya habíamos perdido toda esperanza … de salvarnos».",
+   "def_sv": "Att hoppet berövas, går förlorat: ”till slut försvann … allt hopp om räddning”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒27:20。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n44027020016": "3",
+  "n44027040004": "2",
+  "n44028013002": "2",
+  "n47003016007": "1",
+  "n58010011018": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（取り除く／錨を切り離す／望みが失われる）による。"
+}

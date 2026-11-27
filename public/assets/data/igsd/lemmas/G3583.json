@@ -1,0 +1,81 @@
+{
+ "lemma": "ξηραίνω",
+ "lemmaId": "grc:G3583",
+ "strong": "G3583",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "枯れる／干からびる（植物・作物）",
+   "label_en": "to wither / dry up (plants, crops)",
+   "label_es": "secarse / marchitarse (plantas, cosechas)",
+   "label_sv": "att vissna / torka (växter, gröda)",
+   "def": "植物が枯れる、作物が干からびる。『草は枯れ』『根がないので枯れてしまった』『いちじくの木はたちまち枯れた』『刈り入れの時が熟して（干からびて）』。",
+   "def_en": "Plants wither, crops dry out: “the grass withers”, “because it had no root it withered”, “the fig tree withered at once”, “the harvest is ripe (dry)”.",
+   "def_es": "Las plantas se secan, las mieses se agostan: «la hierba se seca», «como no tenía raíz, se secó», «al instante se secó la higuera», «la mies está madura (seca)».",
+   "def_sv": "Växter vissnar, grödan torkar: ”gräset vissnar”, ”eftersom det saknade rot vissnade det”, ”genast vissnade fikonträdet”, ”skörden är mogen (torr)”.",
+   "layers": {
+    "nt": 11,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰペテロ1:24、ヤコブ1:11、ヨハネ15:6、ルカ8:6、マタイ13:6・21:19・21:20、マルコ11:20・11:21・4:6、黙示録14:15。LXX、教父（26.21.3）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "干上がる／止まる（液体）",
+   "label_en": "to dry up / stop (liquid)",
+   "label_es": "secarse / detenerse (líquidos)",
+   "label_sv": "att sina / upphöra (vätska)",
+   "def": "水・流れが干上がる、止まる。『出血の源が乾いた』『川の水が干上がった』。",
+   "def_en": "Water or a flow dries up or stops: “the source of her bleeding dried up”, “the water of the river was dried up”.",
+   "def_es": "Las aguas o un flujo se secan, cesan: «la fuente de su sangre se secó», «el agua del río se secó».",
+   "def_sv": "Vatten eller flöde sinar och upphör: ”blodflödets källa sinade”, ”flodens vatten torkade ut”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "マルコ5:29、黙示録16:12。LXX 詩篇44:27・73:15、教父（26.21.1）に並行。"
+  },
+  {
+   "id": "3",
+   "label": "しなびる／こわばる（体の部分）",
+   "label_en": "to be withered / stiff (part of the body)",
+   "label_es": "estar seco / rígido (parte del cuerpo)",
+   "label_sv": "att vara förtvinad / stel (kroppsdel)",
+   "def": "体の部分がしなびる、こわばる。『片手のなえた人』『体がこわばる』。",
+   "def_en": "A part of the body shrivels or grows rigid: “a man with a withered hand”, “becomes rigid”.",
+   "def_es": "Un miembro se atrofia o se pone rígido: «un hombre que tenía seca la mano», «se va secando».",
+   "def_sv": "En kroppsdel förtvinar eller blir stel: ”en man med en förtvinad hand”, ”blir alldeles stel”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マルコ3:1・9:18。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40013006011": "1",
+  "n40021019032": "1",
+  "n40021020009": "1",
+  "n41003001010": "3",
+  "n41004006013": "1",
+  "n41005029003": "2",
+  "n41009018015": "3",
+  "n41011020007": "1",
+  "n41011021013": "1",
+  "n42008006009": "1",
+  "n43015006013": "1",
+  "n59001011009": "1",
+  "n60001024013": "1",
+  "n66014015029": "1",
+  "n66016012016": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は対象（植物／水／体）による。"
+}

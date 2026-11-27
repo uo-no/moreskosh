@@ -1,0 +1,63 @@
+{
+ "lemma": "προσδέχομαι",
+ "lemmaId": "grc:G4327",
+ "strong": "G4327",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "迎え入れる／受け入れる",
+   "label_en": "to welcome / accept",
+   "label_es": "recibir / aceptar",
+   "label_sv": "att ta emot / välkomna",
+   "def": "迎え入れる、受け入れる、歓迎する。『罪人たちを迎えて』『主にあって喜んで迎えなさい』『聖徒たちにふさわしく迎えなさい』『財産の略奪を喜んで受け』『釈放を受け入れず』『彼らも持っている希望を持って』。",
+   "def_en": "To receive, accept, welcome: “this man receives sinners”, “welcome him in the Lord with all joy”, “welcome her in a way worthy of the saints”, “joyfully accepted the plundering of your property”, “refusing to accept release”, “having a hope that they themselves accept”.",
+   "def_es": "Acoger, aceptar, dar la bienvenida: «este recibe a los pecadores», «recibidle en el Señor con todo gozo», «recibidla como es digno de los santos», «el despojo de vuestros bienes sufristeis con gozo», «no aceptando el rescate», «la esperanza que ellos también abrigan».",
+   "def_sv": "Att ta emot, godta, hälsa välkommen: ”den mannen tar emot syndare”, ”ta emot honom i Herren med stor glädje”, ”ta emot henne på ett sätt som anstår de heliga”, ”med glädje fann ni er i att bli plundrade”, ”avvisade befrielsen”, ”det hopp de själva har”.",
+   "layers": {
+    "nt": 6,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ルカ15:2、ピリピ2:29、ローマ16:2、ヘブル10:34・11:35、使徒24:15。LXX Ⅱマカバイ・エレミヤ、教父（確認できず）に並行。教父の代表例（10.9、9.10）からは語義を特定できなかった。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "待ち望む／待つ",
+   "label_en": "to wait for / await",
+   "label_es": "esperar / aguardar",
+   "label_sv": "att vänta på / emotse",
+   "def": "待ち望む、期待して待つ。『イスラエルの慰められるのを待ち望み』『主人の帰りを待つ人』『神の国を待ち望んでいた』『祝福された望み、栄光の現れを待ち望み』『いのちに至る主のあわれみを待ち望め』。",
+   "def_en": "To await, to wait in expectation: “waiting for the consolation of Israel”, “people waiting for their master to return”, “was waiting for the kingdom of God”, “waiting for our blessed hope, the appearing of the glory”, “wait for the mercy of the Lord that leads to eternal life”.",
+   "def_es": "Aguardar con expectación: «esperaba la consolación de Israel», «hombres que aguardan a su señor», «esperaba el reino de Dios», «aguardando la esperanza bienaventurada y la manifestación gloriosa», «esperando la misericordia del Señor para vida eterna».",
+   "def_sv": "Att vänta i förhoppning: ”väntade på Israels tröst”, ”människor som väntar på sin herre”, ”väntade på Guds rike”, ”väntar på det saliga hoppet och härlighetens uppenbarelse”, ”vänta på Herrens barmhärtighet till evigt liv”.",
+   "layers": {
+    "nt": 8,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒23:21、ユダ21、ルカ12:36・2:25・2:38・23:51、マルコ15:43、テトス2:13。LXX 詩篇・箴言29:23 に並行。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n41015043012": "2",
+  "n42002025017": "2",
+  "n42002038015": "2",
+  "n42012036005": "2",
+  "n42015002013": "1",
+  "n42023051017": "2",
+  "n44023021029": "2",
+  "n44024015010": "1",
+  "n45016002003": "1",
+  "n50002029001": "1",
+  "n56002013001": "2",
+  "n58010034014": "1",
+  "n58011035012": "1",
+  "n65001021006": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（迎える／待つ）による。"
+}

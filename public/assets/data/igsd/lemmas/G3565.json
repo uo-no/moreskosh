@@ -1,0 +1,57 @@
+{
+ "lemma": "νύμφη",
+ "lemmaId": "grc:G3565",
+ "strong": "G3565",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "花嫁",
+   "label_en": "bride",
+   "label_es": "novia / desposada",
+   "label_sv": "brud",
+   "def": "花嫁、新妻。『花嫁をもつ者は花婿である』『花婿と花嫁の声』『霊と花嫁とが言う』『花嫁のように用意をととのえて』『小羊の妻なる花嫁』。",
+   "def_en": "A bride, a young wife: “the one who has the bride is the bridegroom”, “the voice of bridegroom and bride”, “the Spirit and the bride say”, “prepared as a bride”, “the Bride, the wife of the Lamb”.",
+   "def_es": "Novia, recién casada: «el que tiene la esposa es el esposo», «voz de esposo y de esposa», «el Espíritu y la Esposa dicen», «dispuesta como una esposa», «la desposada, la esposa del Cordero».",
+   "def_sv": "En brud, en nygift kvinna: ”den som har bruden är brudgum”, ”brudgummens och brudens röst”, ”Anden och bruden säger”, ”smyckad som en brud”, ”bruden, Lammets hustru”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヨハネ3:29、黙示録18:23・22:17・21:2・21:9。黙示録の花嫁の指示対象は決定しない。LXX・教父の代表例では、この語義としては確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "嫁（息子の妻）",
+   "label_en": "daughter-in-law",
+   "label_es": "nuera",
+   "label_sv": "svärdotter / sonhustru",
+   "def": "息子の妻、嫁。『嫁はしゅうとめに』『嫁と姑が対立し』『嫁に逆らい』。",
+   "def_en": "A son's wife: “daughter-in-law against mother-in-law”, “the daughter-in-law and mother-in-law divided”, “set against her mother-in-law”.",
+   "def_es": "La mujer del hijo: «la nuera contra su suegra», «la suegra contra su nuera», «contra su suegra».",
+   "def_sv": "Sonens hustru: ”svärdotter mot svärmor”, ”svärmor och svärdotter ska bli oense”, ”mot sin svärmor”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ルカ12:53（2回）、マタイ10:35。LXX（2.20）に並行。教父の代表例なし。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40010035016": "2",
+  "n42012053020": "2",
+  "n42012053023": "2",
+  "n43003029004": "1",
+  "n66018023014": "1",
+  "n66021002018": "1",
+  "n66021009029": "1",
+  "n66022017006": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（花嫁／息子の妻）による。"
+}

@@ -1,0 +1,88 @@
+{
+ "lemma": "πληγή",
+ "lemmaId": "grc:G4127",
+ "strong": "G4127",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "打撃／むち打ち（人に与えられる打ち傷）",
+   "label_en": "blow / beating (wounds inflicted on a person)",
+   "label_es": "golpe / azotaina (heridas infligidas a una persona)",
+   "label_sv": "slag / prygel (sår som tillfogats en människa)",
+   "def": "人に加えられる打撃、むち打ち、その傷。複数形で出ることが多い。",
+   "def_en": "Blows inflicted on a person, a flogging, and the resulting wounds. Often plural.",
+   "def_es": "Golpes infligidos a una persona, azotes y las heridas que dejan. Frecuente en plural.",
+   "def_sv": "Slag mot en människa, prygel och såren efter dem. Förekommer ofta i plural.",
+   "layers": {
+    "nt": 6,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ルカ10:30（半殺しに打ちのめされた人）・12:48（むち打ち）、使徒16:23・33（パウロとシラスの傷）、Ⅱコリ6:5・11:23（むち打たれた数々）。LXX 申命記25:3 などに並行、教父（ヘルマス）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "傷（獣の致命傷）",
+   "label_en": "wound (the beast's mortal wound)",
+   "label_es": "herida (la herida mortal de la bestia)",
+   "label_sv": "sår (vilddjurets dödliga sår)",
+   "def": "致命的な傷。黙示録の獣の『死の傷』、『剣の傷』。",
+   "def_en": "A mortal wound: the “deadly wound” of the beast in Revelation, the “wound of the sword”.",
+   "def_es": "Herida mortal: la «herida de muerte» de la bestia del Apocalipsis, la «herida de espada».",
+   "def_sv": "Ett dödligt sår: vilddjurets ”dödssår” i Uppenbarelseboken, ”svärdshugget”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "黙示録13:3・12（『死ぬほどの傷』が癒える）・13:14（剣の傷を受けながら生きた獣）。LXX の傷の用例（エレミヤ15:18）に並行。教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "災い／疫病（神がもたらす打撃）",
+   "label_en": "plague (a blow brought by God)",
+   "label_es": "plaga (golpe enviado por Dios)",
+   "label_sv": "plåga / hemsökelse (slag som Gud sänder)",
+   "def": "神の裁きとしての災い・疫病、打ち下ろされる災害。『七つの災い』『大きな災い』。",
+   "def_en": "A plague or pestilence as God's judgment, a calamity struck down: “the seven plagues”, “great plagues”.",
+   "def_es": "Plaga o peste como juicio de Dios, calamidad descargada: «las siete plagas», «grandes plagas».",
+   "def_sv": "Plågor och farsoter som Guds dom, olyckor som slår ner: ”de sju plågorna”, ”stora plågor”.",
+   "layers": {
+    "nt": 13,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "黙示録9:18・20・11:6・15:1・6・8・16:9・21（2回）・18:4・8・21:9・22:18。LXX 出エジプト記・申命記に並行、教父（ヘルマス16.10）に並行。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42010030021": "1",
+  "n42012048008": "1",
+  "n44016023005": "1",
+  "n44016033013": "1",
+  "n47006005002": "1",
+  "n47011023015": "1",
+  "n66009018004": "3",
+  "n66009020011": "3",
+  "n66011006033": "3",
+  "n66013003013": "2",
+  "n66013012029": "2",
+  "n66013014031": "2",
+  "n66015001014": "3",
+  "n66015006010": "3",
+  "n66015008027": "3",
+  "n66016009019": "3",
+  "n66016021021": "3",
+  "n66016021028": "3",
+  "n66018004024": "3",
+  "n66018008008": "3",
+  "n66021009017": "3",
+  "n66022018024": "3"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

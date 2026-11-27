@@ -1,0 +1,56 @@
+{
+ "lemma": "προσφωνέω",
+ "lemmaId": "grc:G4377",
+ "strong": "G4377",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "呼びかける・声をかける",
+   "label_en": "to call out to, to address",
+   "label_es": "dirigir la palabra, llamar a voces",
+   "label_sv": "att tilltala, att ropa till",
+   "def": "人に向かって声をかける、呼びかける。『ヘブル語で呼びかけて』『ヘブル語で語りかけた』『こう言った』『声をかけて』『彼らは叫んだ』『広場に座って仲間に呼びかけている子供たち』『群衆に向かって』。",
+   "def_en": "To speak up to someone, to call to them: “called out in Hebrew”, “addressed them in Hebrew”, “said this”, “spoke to them”, “they shouted”, “children sitting in the marketplace and calling to their companions”, “to the crowd”.",
+   "def_es": "Alzar la voz hacia alguien, hablarle: «les habló a voces en hebreo», «les habló en hebreo», «dijo así», «les dirigió la palabra», «ellos gritaban», «muchachos sentados en la plaza que dan voces a sus compañeros», «a la multitud».",
+   "def_sv": "Att vända sig till någon med rösten, att ropa till: ”ropade på hebreiska”, ”talade till dem på hebreiska”, ”sade så”, ”talade till dem”, ”de ropade”, ”barn som sitter på torget och ropar till sina kamrater”, ”till folket”.",
+   "layers": {
+    "nt": 6,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒22:2・21:40、ルカ13:12・23:20・7:32、マタイ11:16。LXX（6.21・15.15）に並行。教父の用例なし。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "呼び寄せる",
+   "label_en": "to summon",
+   "label_es": "llamar a sí",
+   "label_sv": "att kalla till sig",
+   "def": "呼び寄せる、召し出す。『夜が明けると、弟子たちを呼び寄せ』。",
+   "def_en": "To call to oneself, to summon: “when day came, he called his disciples to him”.",
+   "def_es": "Convocar, hacer venir: «cuando era de día, llamó a sus discípulos».",
+   "def_sv": "Att kalla fram, att sammankalla: ”när det blev dag kallade han till sig sina lärjungar”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ルカ6:13。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40011016015": "1",
+  "n42006013005": "2",
+  "n42007032009": "1",
+  "n42013012006": "1",
+  "n42023020005": "1",
+  "n44021040019": "1",
+  "n44022002007": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（呼びかける／呼び寄せる）による。"
+}

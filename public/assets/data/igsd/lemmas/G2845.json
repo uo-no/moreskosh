@@ -1,0 +1,70 @@
+{
+ "lemma": "κοίτη",
+ "lemmaId": "grc:G2845",
+ "strong": "G2845",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "寝床",
+   "label_en": "bed",
+   "label_es": "lecho",
+   "label_sv": "säng",
+   "def": "寝床、床。『寝床を汚してはならない』『子供たちもわたしと一緒に寝床に』。",
+   "def_en": "A bed, a couch: “the marriage bed must not be defiled”, “my children are with me in bed”.",
+   "def_es": "Cama, lecho: «el lecho no debe mancillarse», «mis niños están conmigo en la cama».",
+   "def_sv": "Säng, bädd: ”äkta säng får inte orenas”, ”barnen ligger hos mig i sängen”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ヘブル13:4、ルカ11:7。LXX、教父に並行。語義2・3との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "放蕩（寝床の）",
+   "label_en": "licentiousness (of the bed)",
+   "label_es": "lujuria (del lecho)",
+   "label_sv": "otukt (sängens)",
+   "def": "不品行を指す寝床の用法。『みだらな行為』。",
+   "def_en": "A use of bed for sexual immorality: “licentious acts”.",
+   "def_es": "Uso de lecho para designar la inmoralidad sexual: «actos lascivos».",
+   "def_sv": "Bruk av säng om sexuell omoral: ”utsvävningar”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ローマ13:13。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "身ごもること",
+   "label_en": "conception",
+   "label_es": "concepción",
+   "label_sv": "havandeskap",
+   "def": "身ごもること、懐胎。『ひとりの人によって身ごもり』。",
+   "def_en": "Conceiving a child: “conceived by one man”.",
+   "def_es": "El concebir: «concibió de un solo hombre».",
+   "def_sv": "Att bli havande, avlelse: ”blev havande med en och samme man”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ローマ9:10。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42011007021": "1",
+  "n45009010009": "3",
+  "n45013013011": "2",
+  "n58013004008": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（寝床／放蕩／身ごもる）による。"
+}

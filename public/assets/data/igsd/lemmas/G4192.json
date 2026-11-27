@@ -1,0 +1,53 @@
+{
+ "lemma": "πόνος",
+ "lemmaId": "grc:G4192",
+ "strong": "G4192",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "痛み・苦痛",
+   "label_en": "pain, anguish",
+   "label_es": "dolor",
+   "label_sv": "smärta, plåga",
+   "def": "痛み、苦痛。『苦痛のあまり舌をかみ』『その苦痛と傷とのゆえに』『もはや悲しみも…苦痛もない』。",
+   "def_en": "Pain, suffering: “gnawed their tongues in agony”, “because of their pains and sores”, “no more mourning … or pain”.",
+   "def_es": "Dolor, sufrimiento: «mordían de dolor sus lenguas», «por sus dolores y sus úlceras», «ni más llanto … ni dolor».",
+   "def_sv": "Smärta, kval: ”bet sönder sina tungor av plåga”, ”för sina plågors och sårs skull”, ”ingen sorg … och ingen smärta längre”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "黙示録16:10・16:11・21:4。LXX、教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "労苦・熱心",
+   "label_en": "toil, zeal",
+   "label_es": "trabajo, solicitud",
+   "label_sv": "möda, iver",
+   "def": "労苦、熱心な働き。『あなたがたのために…熱心に労している』。",
+   "def_en": "Toil, earnest labor: “works earnestly … for you”.",
+   "def_es": "Esfuerzo, labor afanosa: «tiene gran solicitud por vosotros …».",
+   "def_sv": "Möda, ivrigt arbete: ”arbetar ivrigt … för er”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "コロサイ4:13。LXX に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n51004013007": "2",
+  "n66016010026": "1",
+  "n66016011009": "1",
+  "n66021004020": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（苦痛／労苦）による。"
+}

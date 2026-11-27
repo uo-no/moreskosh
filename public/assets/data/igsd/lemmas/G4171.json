@@ -1,0 +1,101 @@
+{
+ "lemma": "πόλεμος",
+ "lemmaId": "grc:G4171",
+ "strong": "G4171",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "戦争（国々の間の）",
+   "label_en": "war (between nations)",
+   "label_es": "guerra (entre naciones)",
+   "label_sv": "krig (mellan folk)",
+   "def": "国と国の戦争、戦争のうわさ。王の出兵、終末のしるしとしての戦争。",
+   "def_en": "War between nation and nation, rumours of war: a king marching out, war as a sign of the end.",
+   "def_es": "Guerra de nación contra nación, rumores de guerras: el rey que sale en campaña, la guerra como señal del fin.",
+   "def_sv": "Krig mellan nationer, rykten om krig: en kung som drar i fält, kriget som tecken på den yttersta tiden.",
+   "layers": {
+    "nt": 6,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マタイ24:6（2回）・マルコ13:7（2回）・ルカ21:9（戦争や騒乱のことを聞いても）、ルカ14:31（他の王と戦いに出る王）。LXX に多数並行。教父の代表例では確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "戦い／戦闘",
+   "label_en": "battle / combat",
+   "label_es": "batalla / combate",
+   "label_sv": "strid / slag",
+   "def": "戦闘、合戦。ラッパの合図で戦いに備える、馬のとどろき、天の戦い、終末の戦い（ハルマゲドン、ゴグ・マゴグの戦い）。",
+   "def_en": "Combat, battle: preparing for battle at the trumpet's signal, the roar of horses, war in heaven, the end-time battles (Armageddon, the war of Gog and Magog).",
+   "def_es": "Combate, batalla: prepararse al toque de trompeta, el estruendo de los caballos, la guerra en el cielo, las batallas finales (Armagedón, Gog y Magog).",
+   "def_sv": "Strid och drabbning: att göra sig redo till strid vid trumpetsignalen, dånet av hästar, kriget i himlen, den yttersta tidens strider (Harmagedon, Gog och Magog).",
+   "layers": {
+    "nt": 7,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "Ⅰコリ14:8（だれが戦いの備えをするか）、ヘブル11:34（戦いに強く）、黙示録9:7・9（戦場に走る馬・戦車）、12:7（天に戦いが起こった）・16:14・20:8。LXX サムエル記に並行。教父の代表例では確認していない。語義1との境界は連続的（Abbott は『戦い』の hyperbole も含める）。"
+  },
+  {
+   "id": "3",
+   "label": "（聖徒・竜との）戦い（黙示録）",
+   "label_en": "war (against the saints / with the dragon; Revelation)",
+   "label_es": "guerra (contra los santos / del dragón; Apocalipsis)",
+   "label_sv": "krig (mot de heliga / draken; Uppenbarelseboken)",
+   "def": "獣や竜と聖徒たちの戦い、『戦いを挑む』の形。",
+   "def_en": "The conflict of the beast or dragon with the saints, in the form “to make war”.",
+   "def_es": "El combate de la bestia o del dragón con los santos, en la forma «hacer guerra».",
+   "def_sv": "Vilddjurets eller drakens strid mot de heliga, i formen ”föra krig”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "黙示録11:7・12:17・13:7（聖徒たちと戦いを交えて勝つ）・19:19（馬に乗る方とその軍勢に戦いを挑んだ）。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "4",
+   "label": "争い／紛争（比喩）",
+   "label_en": "strife / conflict (figurative)",
+   "label_es": "pleito / conflicto (figurado)",
+   "label_sv": "strid / konflikt (bildligt)",
+   "def": "人々の間の争い、闘争。『戦いや争いはどこから出るのか』。",
+   "def_en": "Strife and struggle among people: “Where do wars and quarrels come from?”",
+   "def_es": "Contiendas y luchas entre las personas: «¿De dónde vienen las guerras y los pleitos?».",
+   "def_sv": "Strider och kamper mellan människor: ”Varifrån kommer alla strider och tvister?”",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "ヤコブ4:1（あなたがたの間の戦いや争いはどこから出るのか）の1例のみ。教父（Ⅰクレメンス46.5）に並行。LXX の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40024006004": "1",
+  "n40024006007": "1",
+  "n41013007004": "1",
+  "n41013007007": "1",
+  "n42014031009": "1",
+  "n42021009004": "1",
+  "n46014008011": "2",
+  "n58011034013": "2",
+  "n59004001002": "4",
+  "n66009007010": "2",
+  "n66009009020": "2",
+  "n66011007017": "3",
+  "n66012007003": "2",
+  "n66012017011": "3",
+  "n66013007005": "3",
+  "n66016014019": "2",
+  "n66019019017": "3",
+  "n66020008021": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

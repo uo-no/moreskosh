@@ -1,0 +1,55 @@
+{
+ "lemma": "πηλός",
+ "lemmaId": "grc:G4081",
+ "strong": "G4081",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "泥",
+   "label_en": "mud",
+   "label_es": "lodo",
+   "label_sv": "lera, gyttja",
+   "def": "湿った土、泥。『土に唾をし、その唾で泥を造り』『その泥を盲人の目に塗り』『イエスが泥を造って』『泥をつけ』『泥をわたしの目に塗り』。",
+   "def_en": "Wet earth, mud: “he spat on the ground and made mud with the saliva”, “smeared the mud on the blind man’s eyes”, “Jesus made the mud”, “putting mud on”, “put mud on my eyes”.",
+   "def_es": "Tierra húmeda, lodo: «escupió en tierra, e hizo lodo con la saliva», «untó con el lodo los ojos del ciego», «Jesús hizo el lodo», «poniendo lodo», «me puso lodo sobre los ojos».",
+   "def_sv": "Fuktig jord, smuts: ”spottade på marken och gjorde en smet av saliven”, ”strök den på den blindes ögon”, ”Jesus gjorde smeten”, ”lade på smeten”, ”lade en smet på mina ögon”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヨハネ9:6（2回）・9:11・9:14・9:15。語義2との境界は連続的。ヨハネ9:6 の2つ目は「粘土」とも訳されるが、語義としては区別しない。LXX・教父の代表例は陶土の用法で、この語義としては確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "粘土（陶工の）",
+   "label_en": "clay (of a potter)",
+   "label_es": "barro, arcilla (de alfarero)",
+   "label_sv": "lera (krukmakarens)",
+   "def": "陶工が用いる粘土。『陶器師は同じ粘土の塊から』。",
+   "def_en": "Clay used by a potter: “the potter out of the same lump of clay”.",
+   "def_es": "Arcilla que usa el alfarero: «el alfarero, de la misma masa de barro».",
+   "def_sv": "Den lera krukmakaren arbetar med: ”krukmakaren av samma lerklump”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ローマ9:21。LXX（30.19・45.9）、教父（39.5・8.2）に並行。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n43009006007": "1",
+  "n43009006015": "1",
+  "n43009011008": "1",
+  "n43009014008": "1",
+  "n43009015014": "1",
+  "n45009021008": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（泥／陶工の粘土）による。"
+}

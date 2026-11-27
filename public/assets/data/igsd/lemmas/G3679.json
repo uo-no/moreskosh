@@ -1,0 +1,59 @@
+{
+ "lemma": "ὀνειδίζω",
+ "lemmaId": "grc:G3679",
+ "strong": "G3679",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "そしる／ののしる／辱める",
+   "label_en": "to revile / insult / reproach",
+   "label_es": "vituperar / injuriar / ultrajar",
+   "label_sv": "att smäda / skymfa",
+   "def": "そしる、ののしる、辱める。『キリストの名のために辱められるなら』『あなたがたをののしり』『あなたがたをののしり、迫害し』『あざけって』『あなたを辱める人々の辱めが』『そのために労し、苦闘している』。",
+   "def_en": "To revile, insult, put to shame: “if you are insulted for the name of Christ”, “reviled you”, “when they revile and persecute you”, “mocking”, “the reproaches of those who reproached you”, “for this we toil and strive”.",
+   "def_es": "Insultar, injuriar, afrentar: «si sois vituperados por el nombre de Cristo», «os vituperen», «cuando os vituperen y os persigan», «le injuriaban», «los vituperios de los que te vituperaban», «por esto trabajamos y sufrimos oprobios».",
+   "def_sv": "Att håna, smäda, förödmjuka: ”om ni smädas för Kristi namns skull”, ”skymfa er”, ”när man smädar och förföljer er”, ”hånade honom”, ”smädelserna från dem som smädar dig”, ”därför arbetar och kämpar vi”.",
+   "layers": {
+    "nt": 7,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "Ⅰペテロ4:14、Ⅰテモ4:10、ルカ6:22、マタイ5:11・27:44、マルコ15:32、ローマ15:3。LXX 詩篇73:18・37:24 に並行。教父の用例は無い。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "責める／非難する",
+   "label_en": "to reproach / upbraid",
+   "label_es": "reprochar / reconvenir",
+   "label_sv": "att förebrå / klandra",
+   "def": "責める、とがめる、非難する。『奇跡の行われた町々を責め始めた』『不信と頑固さをとがめた』『とがめだてしない神』。",
+   "def_en": "To blame, rebuke, find fault: “began to denounce the cities where his mighty works had been done”, “rebuked their unbelief and hardness of heart”, “God, who gives without reproach”.",
+   "def_es": "Culpar, censurar, echar en cara: «comenzó a reconvenir a las ciudades», «les reprochó su incredulidad y dureza de corazón», «Dios, que da sin reproche».",
+   "def_sv": "Att klandra, anklaga, tillrättavisa: ”började förebrå städerna”, ”förebrådde dem deras otro och hårdhet”, ”Gud som ger utan förebråelser”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マタイ11:20、マルコ16:14、ヤコブ1:5。LXX 代表例に並行。教父の用例は無い。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40005011004": "1",
+  "n40011020003": "2",
+  "n40027044011": "1",
+  "n41015032020": "1",
+  "n41016014009": "2",
+  "n42006022013": "1",
+  "n45015003014": "1",
+  "n54004010006": "1",
+  "n59001005016": "2",
+  "n60004014002": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（そしる／責める）による。教父の用例は無い。"
+}

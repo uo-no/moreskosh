@@ -1,0 +1,57 @@
+{
+ "lemma": "κόπτω",
+ "lemmaId": "grc:G2875",
+ "strong": "G2875",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "嘆き悲しむ（中動）",
+   "label_en": "to mourn (middle)",
+   "label_es": "lamentarse / plañir (voz media)",
+   "label_sv": "att sörja och klaga (medium)",
+   "def": "胸を打って嘆く、悲しむ。『彼らは泣き悲しんでいた』『嘆く者たちがいた』『弔いの歌を歌っても胸を打たなかった』『地のすべての部族は胸をたたいて』『王たちは嘆き悲しみ』。",
+   "def_en": "To beat one's breast in lament, to mourn: “they were mourning for her”, “there were those who mourned”, “we sang a dirge and you did not mourn”, “all the tribes of the earth will mourn”, “the kings will wail and mourn”.",
+   "def_es": "Golpearse el pecho en duelo, lamentar: «hacían lamentación por ella», «mujeres que se lamentaban», «os endechamos, y no lamentasteis», «lamentarán todas las tribus de la tierra», «los reyes llorarán y harán lamentación».",
+   "def_sv": "Att slå sig för bröstet i sorg: ”de sörjde henne”, ”det fanns de som klagade”, ”vi sjöng sorgesånger men ni klagade inte”, ”jordens alla stammar ska klaga”, ”kungarna ska gråta och jämra sig”.",
+   "layers": {
+    "nt": 6,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ルカ23:27・8:52、マタイ11:17・24:30、黙示録1:7・18:9。LXX（22.18・13.31）に並行。教父の代表例は用法未確認。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "切る・切り取る",
+   "label_en": "to cut / cut off",
+   "label_es": "cortar",
+   "label_sv": "att skära av",
+   "def": "木の枝などを切る、切り取る。『木の枝を切って道に敷き』『野原から葉のついた枝を切って』。",
+   "def_en": "To cut off branches and the like: “cut branches from the trees and spread them on the road”, “cut leafy branches from the fields”.",
+   "def_es": "Cortar ramas y semejantes: «cortaban ramas de los árboles y las tendían en el camino», «cortaban ramas de los árboles en el campo».",
+   "def_sv": "Att skära av trädgrenar och liknande: ”skar kvistar från träden och strödde på vägen”, ”skar av lövade grenar på fälten”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "マタイ21:8、マルコ11:8。教父（25.1.4）に並行。LXX の代表例は嘆きの用法で、この語義としては確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40011017010": "1",
+  "n40021008014": "2",
+  "n40024030015": "1",
+  "n41011008013": "2",
+  "n42008052005": "1",
+  "n42023027011": "1",
+  "n66001007016": "1",
+  "n66018009004": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（嘆き／切る）による。"
+}

@@ -1,0 +1,51 @@
+{
+ "lemma": "πορεία",
+ "lemmaId": "grc:G4197",
+ "strong": "G4197",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "旅・道のり",
+   "label_en": "journey",
+   "label_es": "viaje",
+   "label_sv": "resa",
+   "def": "旅、道のり。『エルサレムへ進んで行かれた』。",
+   "def_en": "A journey, a way: “journeying toward Jerusalem”.",
+   "def_es": "Camino, viaje: «encaminándose a Jerusalén».",
+   "def_sv": "Färd, väg: ”på väg mot Jerusalem”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ルカ13:22。LXX、教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "歩み・営み",
+   "label_en": "course, pursuits",
+   "label_es": "andanzas, empresas",
+   "label_sv": "vägar, förehavanden",
+   "def": "歩み、営み。『その行く道で』『その営みの中で』。",
+   "def_en": "One’s ways, one’s business: “in all his ways”, “in the midst of his pursuits”.",
+   "def_es": "El proceder y los negocios: «en todos sus caminos», «en todas sus empresas».",
+   "def_sv": "Levnadsgång, verksamhet: ”på sina vägar”, ”mitt i sina företag”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ヤコブ1:11。LXX に並行。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42013022009": "1",
+  "n59001011030": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（旅／営み）による。"
+}

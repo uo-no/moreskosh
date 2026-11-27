@@ -1,0 +1,54 @@
+{
+ "lemma": "παροιμία",
+ "lemmaId": "grc:G3942",
+ "strong": "G3942",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "ことわざ",
+   "label_en": "proverb",
+   "label_es": "refrán, proverbio",
+   "label_sv": "ordspråk",
+   "def": "ことわざ、格言。『真実のことわざ』。",
+   "def_en": "A proverb, a maxim: “the true proverb”.",
+   "def_es": "Refrán, máxima: «el verdadero proverbio».",
+   "def_sv": "Ordspråk, tänkespråk: ”det sanna ordspråket”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ペテロ第二2:22。LXX に並行。教父の用例なし。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "たとえ・謎めいた話",
+   "label_en": "figure of speech, veiled saying",
+   "label_es": "alegoría, dicho enigmático",
+   "label_sv": "liknelse, förtäckt tal",
+   "def": "たとえ、比喩的な話。『このたとえを話された』『たとえで話した』『もうたとえでは話さず』『もうたとえでは話されません』。",
+   "def_en": "A figure, a metaphorical way of speaking: “told this figure of speech”, “spoke in a figure”, “will no longer speak in figures”, “are not speaking in figures any more”.",
+   "def_es": "Comparación, lenguaje figurado: «les dijo esta alegoría», «habló en alegorías», «ya no os hablaré por alegorías», «ninguna alegoría dices».",
+   "def_sv": "Bildtal, ett bildligt sätt att tala: ”berättade denna liknelse”, ”talade i bilder”, ”skall inte längre tala i bilder”, ”talar inte längre i bilder”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヨハネ10:6・16:25（2回）・16:29。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n43010006003": "2",
+  "n43016025003": "2",
+  "n43016025011": "2",
+  "n43016029011": "2",
+  "n61002022006": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（ことわざ／たとえ）による。"
+}

@@ -1,0 +1,51 @@
+{
+ "lemma": "λίνον",
+ "lemmaId": "grc:G3043",
+ "strong": "G3043",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "灯心・亜麻",
+   "label_en": "wick, flax",
+   "label_es": "pábilo, lino",
+   "label_sv": "veke, lin",
+   "def": "灯心（亜麻の芯）。『くすぶる灯心』。",
+   "def_en": "A lamp wick (of flax): “a smouldering wick”.",
+   "def_es": "Mecha de lino: «el pábilo que humea».",
+   "def_sv": "Lampveke av lin: ”en tynande veke”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ12:20。LXX の代表例では確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "亜麻布",
+   "label_en": "linen",
+   "label_es": "lino",
+   "label_sv": "linne",
+   "def": "亜麻布。『亜麻布の衣』。",
+   "def_en": "Linen cloth: “a linen garment”.",
+   "def_es": "Tela de lino: «vestidos de lino».",
+   "def_sv": "Linnetyg: ”linnekläder”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "黙示録15:6。LXX に並行（亜麻）。教父の用例なし。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40012020006": "1",
+  "n66015006015": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（灯心／亜麻布）による。"
+}

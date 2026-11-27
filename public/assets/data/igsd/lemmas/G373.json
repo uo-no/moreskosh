@@ -1,0 +1,61 @@
+{
+ "lemma": "ἀναπαύω",
+ "lemmaId": "grc:G373",
+ "strong": "G373",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "休ませる／元気づける",
+   "label_en": "to give rest / refresh",
+   "label_es": "dar descanso / confortar",
+   "label_sv": "att ge vila / vederkvicka",
+   "def": "休ませる、元気づける、安らぎを与える。『わたしがあなたがたを休ませてあげよう』『わたしの霊とあなたがたの霊を元気づけてくれた』『聖徒たちの心があなたによって元気づけられた』『わたしの心を元気づけてくれ』。",
+   "def_en": "To give rest, to refresh, to give relief: “I will give you rest”, “they refreshed my spirit and yours”, “the hearts of the saints have been refreshed through you”, “refresh my heart”.",
+   "def_es": "Hacer descansar, reanimar, dar sosiego: «yo os haré descansar», «confortaron mi espíritu y el vuestro», «por ti han sido confortados los corazones de los santos», «conforta mi corazón».",
+   "def_sv": "Att ge vila, uppliva och ge ro: ”jag ska ge er vila”, ”de har vederkvickt både min och er ande”, ”de heligas hjärtan har fått vederkvickelse genom dig”, ”ge mitt hjärta ro”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "マタイ11:28、Ⅰコリ16:18、Ⅱコリ7:13、ピレモン7・20。LXX 出エジプト記23:12、教父（4.10.2）に並行。語義2との境界は連続的（受動態を含む）。"
+  },
+  {
+   "id": "2",
+   "label": "休む／安らぐ",
+   "label_en": "to rest / be at ease",
+   "label_es": "descansar / reposar",
+   "label_sv": "att vila / få ro",
+   "def": "休む、安らぐ。『ゆっくり休め』『まだ眠って休んでいるのか』『しばらく休みなさい』『彼らの労苦から解かれて休む』『栄光の霊があなたがたの上にとどまる』。",
+   "def_en": "To rest, to be at peace: “rest awhile”, “are you still sleeping and resting?”, “rest a little”, “rest from their labours”, “the Spirit of glory rests upon you”.",
+   "def_es": "Descansar, estar en reposo: «repósate», «¿dormís ya y descansáis?», «descansad un poco», «descansarán de sus trabajos», «el Espíritu de gloria reposa sobre vosotros».",
+   "def_sv": "Att vila och ha ro: ”vila ut”, ”sover ni fortfarande och vilar?”, ”vila er lite”, ”få vila från sina mödor”, ”härlighetens Ande vilar över er”.",
+   "layers": {
+    "nt": 7,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰペテロ4:14、ルカ12:19、マタイ26:45、マルコ14:41・6:31、黙示録14:13・6:11。LXX 詩篇・箴言、教父（26.5.2）に並行。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40011028010": "1",
+  "n40026045013": "2",
+  "n41006031013": "2",
+  "n41014041012": "2",
+  "n42012019014": "2",
+  "n46016018001": "1",
+  "n47007013017": "1",
+  "n57001007016": "1",
+  "n57001020008": "1",
+  "n60004014018": "2",
+  "n66006011011": "2",
+  "n66014013023": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は態（他動／中動）による。"
+}

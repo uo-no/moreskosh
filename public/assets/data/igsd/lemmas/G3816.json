@@ -1,0 +1,90 @@
+{
+ "lemma": "παῖς",
+ "lemmaId": "grc:G3816",
+ "strong": "G3816",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "子ども／少年・少女",
+   "label_en": "child / boy or girl",
+   "label_es": "niño / muchacho o muchacha",
+   "label_sv": "barn / pojke eller flicka",
+   "def": "年少者（男女）を指す。親との関係が付く場合は「子」（ヨハネ4:51）。",
+   "def_en": "A young person (male or female). Where a relation to a parent is attached, a “son” or child of someone (John 4:51).",
+   "def_es": "Persona joven (de ambos sexos). Cuando se añade la relación con un padre, «hijo» (Jn 4:51).",
+   "def_sv": "En ung människa (pojke eller flicka). När relationen till en förälder anges: ”barn, son” (Joh 4:51).",
+   "layers": {
+    "nt": 9,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "少年（使徒20:12、ルカ2:43、9:42、マタイ17:18）、少女（ルカ8:51・54。冠詞つき主格が呼びかけに用いられる）、幼児たち（マタイ2:16）、神殿で叫ぶ子どもたち（マタイ21:15）、役人の子（ヨハネ4:51）。教父の代表例では確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "しもべ／召使い",
+   "label_en": "servant / attendant",
+   "label_es": "siervo / criado",
+   "label_sv": "tjänare",
+   "def": "主人に仕える者。百人隊長の僕、主人の召使いたち、王の家臣など。",
+   "def_en": "One who serves a master: the centurion's servant, a master's servants, a king's retainers, and so on.",
+   "def_es": "El que sirve a un amo: el siervo del centurión, los criados del señor, los cortesanos del rey, etc.",
+   "def_sv": "En som tjänar en herre: centurionens tjänare, husbondens tjänare, kungens hovmän m.fl.",
+   "layers": {
+    "nt": 7,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "マタイ8:6・8・13、ルカ7:7、12:45、15:26、マタイ14:2（ヘロデの家臣）。教父に『彼のしもべたち』（Ⅰクレメンス39.4）の並行がある。"
+  },
+  {
+   "id": "3",
+   "label": "（神の）しもべ",
+   "label_en": "servant (of God)",
+   "label_es": "siervo (de Dios)",
+   "label_sv": "(Guds) tjänare",
+   "def": "神に属し神に用いられる者（イスラエル・ダビデ・イエス）を指す『神のしもべ』。属格の人称代名詞（αὐτοῦ／σου／μου）を伴うことが多い。",
+   "def_en": "“Servant of God”, one who belongs to God and is used by God (Israel, David, Jesus). Often with a genitive personal pronoun (αὐτοῦ / σου / μου).",
+   "def_es": "El «siervo de Dios», que pertenece a Dios y es usado por él (Israel, David, Jesús). A menudo con pronombre personal en genitivo (αὐτοῦ / σου / μου).",
+   "def_sv": "”Guds tjänare”, den som tillhör Gud och används av honom (Israel, David, Jesus). Ofta med personligt pronomen i genitiv (αὐτοῦ / σου / μου).",
+   "layers": {
+    "nt": 8,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ルカ1:54（イスラエル）、1:69・使徒4:25（ダビデ）、使徒3:13・26、4:27・30（イエス）、マタイ12:18（イザヤ42:1 の引用）。LXX イザヤ50:10、エレミヤ42:15、教父にディダケー9:2–3、Ⅰクレメンス59.4、バルナバ6:1 の並行がある。語義2との境界は『誰に属するしもべか』による。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40002016016": "1",
+  "n40008006005": "2",
+  "n40008008023": "2",
+  "n40008013015": "2",
+  "n40012018003": "3",
+  "n40014002004": "2",
+  "n40017018015": "1",
+  "n40021015014": "1",
+  "n42001054003": "3",
+  "n42001069009": "3",
+  "n42002043012": "1",
+  "n42007007014": "2",
+  "n42008051023": "1",
+  "n42008054010": "1",
+  "n42009042022": "1",
+  "n42012045020": "2",
+  "n42015026005": "2",
+  "n43004051013": "1",
+  "n44003013015": "3",
+  "n44003026007": "3",
+  "n44004025010": "3",
+  "n44004027012": "3",
+  "n44004030020": "3",
+  "n44020012004": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない（LXX の『若者』『従者』の用法は語義1・2 に収まる）。"
+}

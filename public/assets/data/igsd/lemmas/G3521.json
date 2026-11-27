@@ -1,0 +1,54 @@
+{
+ "lemma": "νηστεία",
+ "lemmaId": "grc:G3521",
+ "strong": "G3521",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "断食",
+   "label_en": "fasting",
+   "label_es": "ayuno",
+   "label_sv": "fasta",
+   "def": "断食。『祈りと断食をして』『断食の期節もすでに過ぎていた』『断食と祈りをして夜昼神に仕え』。",
+   "def_en": "Fasting: “with prayer and fasting”, “even the time of the fast had already passed”, “serving God night and day with fasting and prayer”.",
+   "def_es": "Ayuno: «con oración y ayuno», «habiendo pasado ya el ayuno», «sirviendo de noche y de día con ayunos y oraciones».",
+   "def_sv": "Fasta: ”med bön och fasta”, ”till och med fastedagen var redan förbi”, ”tjänade Gud natt och dag med fasta och bön”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒14:23・27:9、ルカ2:37。LXX、教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "食物を欠くこと・飢え",
+   "label_en": "going without food, hunger",
+   "label_es": "falta de comida, hambre",
+   "label_sv": "att vara utan mat, hunger",
+   "def": "食物をとらないこと、飢え。『飢えにも』『しばしば断食し』。自発的な断食か、やむをえない欠食かは決定しない。",
+   "def_en": "Not taking food; hunger: “in hunger too”, “often fasting”. Whether it is voluntary fasting or unavoidable lack of food is not decided.",
+   "def_es": "No tomar alimento; hambre: «en ayunos», «en muchos ayunos». No se decide si es un ayuno voluntario o una privación forzosa.",
+   "def_sv": "Att inte få föda; svält: ”också i hunger”, ”ofta utan mat”. Det avgörs inte om det är frivillig fasta eller påtvingad brist på mat.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "コリント第二6:5・11:27。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42002037013": "1",
+  "n44014023009": "1",
+  "n44027009015": "1",
+  "n47006005012": "2",
+  "n47011027012": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（断食／食物を欠くこと）による。コリント第二の用例は決定しない。"
+}

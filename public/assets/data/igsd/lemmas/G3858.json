@@ -1,0 +1,55 @@
+{
+ "lemma": "παραδέχομαι",
+ "lemmaId": "grc:G3858",
+ "strong": "G3858",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "受け入れる（言葉・事柄を）",
+   "label_en": "to accept (words, matters)",
+   "label_es": "admitir, recibir (palabras, asuntos)",
+   "label_sv": "att godta, att ta emot (ord, saker)",
+   "def": "言葉・慣習・告発などを受け入れる。『御言を聞いて、これを受け入れ』『ローマ人であるわたしたちが受けいれ…ない風習』『あなたについての証言を受け入れない』『告発を受理してはならない』。",
+   "def_en": "To receive or accept words, customs, accusations and the like: “hear the word and accept it”, “customs which it is not lawful for us as Romans to accept …”, “will not accept your testimony about me”, “do not admit an accusation”.",
+   "def_es": "Aceptar palabras, costumbres, acusaciones, etc: «oyen la palabra y la reciben», «costumbres que no nos es lícito recibir … pues somos romanos», «no recibirán tu testimonio acerca de mí», «no admitas acusación».",
+   "def_sv": "Att anta ord, sedvänjor, anklagelser och dylikt: ”hör ordet och tar emot det”, ”seder som vi som romare inte får … godta”, ”de tar inte emot ditt vittnesbörd om mig”, ”godta inte någon anklagelse”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マルコ4:20、使徒16:21・22:18、テモテ第一5:19。LXX（27.8・7.12）に並行。教父の代表例は人を迎える用法で、この語義としては確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "迎える・受け入れる（人を）",
+   "label_en": "to welcome, to receive (a person)",
+   "label_es": "recibir, acoger (a una persona)",
+   "label_sv": "att ta emot, att välkomna (en person)",
+   "def": "人を迎え入れる、受け入れる。『教会と使徒たちと長老たちに歓迎され』『受け入れるすべての子を』。",
+   "def_en": "To receive and accept a person: “were welcomed by the church and the apostles and elders”, “every son whom he receives”.",
+   "def_es": "Acoger a una persona: «fueron recibidos por la iglesia y los apóstoles y los ancianos», «a todo el que recibe por hijo».",
+   "def_sv": "Att ta sig an och ta emot en människa: ”togs emot av församlingen, apostlarna och de äldste”, ”varje son han tar sig an”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "使徒15:4、ヘブル12:6。教父（56.4）に並行。LXX の代表例は事柄の用法で、この語義としては確認していない。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n41004020016": "1",
+  "n44015004005": "2",
+  "n44016021008": "1",
+  "n44022018015": "1",
+  "n54005019005": "1",
+  "n58012006011": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は対象（事柄／人）による。"
+}

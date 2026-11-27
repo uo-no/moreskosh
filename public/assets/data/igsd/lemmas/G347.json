@@ -1,0 +1,55 @@
+{
+ "lemma": "ἀνακλίνω",
+ "lemmaId": "grc:G347",
+ "strong": "G347",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "席につかせる・食卓につく",
+   "label_en": "to seat at table, to recline",
+   "label_es": "hacer recostar a la mesa",
+   "label_sv": "att låta lägga sig till bords",
+   "def": "食卓や草の上に席につかせる（受動：席につく）。『東からも西からも来て、食卓につく』『草の上にすわるように命じ』『彼らを食卓につかせ』『神の国で食卓につく』。",
+   "def_en": "To have people recline at table or on the grass (passive: to take one’s place). “will come from east and west and recline at table”, “ordered them to sit down on the grass”, “had them recline at table”, “recline at table in the kingdom of God”.",
+   "def_es": "Hacer recostar a la mesa o sobre la hierba (pasiva: sentarse a la mesa). «vendrán del oriente y del occidente y se sentarán a la mesa», «mandó sentar en la hierba», «hizo que se sentaran a la mesa», «se sentarán a la mesa en el reino de Dios».",
+   "def_sv": "Att låta någon slå sig ner till bords eller i gräset (passiv: att ta plats). ”skall komma från öster och väster och lägga sig till bords”, ”befallde dem att sätta sig i gräset”, ”lät dem lägga sig till bords”, ”ligga till bords i Guds rike”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マタイ8:11・14:19、ルカ13:29・12:37、マルコ6:39。LXX（5.16）に並行。教父の代表例では確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "寝かせる",
+   "label_en": "to lay down",
+   "label_es": "acostar",
+   "label_sv": "att lägga ner",
+   "def": "寝かせる、横たえる。『布にくるんで、飼葉おけの中に寝かせた』。",
+   "def_en": "To lay down, to put to rest: “wrapped him in cloths and laid him in a manger”.",
+   "def_es": "Acostar, recostar: «lo envolvió en pañales y lo acostó en un pesebre».",
+   "def_sv": "Att lägga till vila, att lägga ner: ”lindade honom och lade honom i en krubba”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ルカ2:7。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40008011012": "1",
+  "n40014019005": "1",
+  "n41006039004": "1",
+  "n42002007012": "2",
+  "n42012037017": "1",
+  "n42013029013": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（席につく・つかせる／寝かせる）による。"
+}

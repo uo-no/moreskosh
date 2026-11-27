@@ -1,0 +1,53 @@
+{
+ "lemma": "κέντρον",
+ "lemmaId": "grc:G2759",
+ "strong": "G2759",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "とげ・針",
+   "label_en": "sting",
+   "label_es": "aguijón",
+   "label_sv": "gadd",
+   "def": "とげ、針。『死よ、おまえのとげはどこにあるのか』『さそりのような尾と針』。",
+   "def_en": "A sting, a prick: “O death, where is your sting”, “tails and stings like scorpions”.",
+   "def_es": "Aguijón, pincho: «¿dónde está, oh muerte, tu aguijón?», «colas y aguijones como de escorpiones».",
+   "def_sv": "Gadd, udd: ”du död, var är din udd”, ”stjärtar och gaddar som skorpioner”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "コリント第一15:55・15:56、黙示録9:10。LXX に並行。教父の用例なし。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "突き棒",
+   "label_en": "goad",
+   "label_es": "aguijada",
+   "label_sv": "pikstav",
+   "def": "家畜を駆る突き棒。『とげのついた棒を蹴るのは』。",
+   "def_en": "A goad for driving cattle: “to kick against the goads”.",
+   "def_es": "Vara con punta para arrear el ganado: «dar coces contra el aguijón».",
+   "def_sv": "Pikstav att driva på boskap med: ”att spjärna mot udden”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒26:14。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n44026014024": "2",
+  "n46015055010": "1",
+  "n46015056003": "1",
+  "n66009010007": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（とげ・針／突き棒）による。"
+}

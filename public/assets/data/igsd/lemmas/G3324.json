@@ -1,0 +1,58 @@
+{
+ "lemma": "μεστός",
+ "lemmaId": "grc:G3324",
+ "strong": "G3324",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "満ちた（物が）",
+   "label_en": "full (of things)",
+   "label_es": "lleno (de cosas)",
+   "label_sv": "full (av ting)",
+   "def": "物が満ちている。『酢で満ちた器』『酢を含ませた海綿』『百五十三匹の大きな魚で満ちた網』『死の毒で満ちている』。",
+   "def_en": "Things are full: “a jar full of sour wine”, “a sponge full of sour wine”, “a net full of 153 large fish”, “full of deadly poison”.",
+   "def_es": "Cosas que están llenas: «una vasija llena de vinagre», «una esponja empapada en vinagre», «la red llena de ciento cincuenta y tres grandes peces», «llena de veneno mortal».",
+   "def_sv": "Något är fullt: ”ett kärl fullt av ättiksvin”, ”en svamp full av ättiksvin”, ”ett nät fullt av 153 stora fiskar”, ”full av dödande gift”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ヨハネ19:29（2回）・21:11、ヤコブ3:8。LXX エズラ・Ⅱマカバイ、教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "満ちた（性質・感情に）",
+   "label_en": "full (of quality, emotion)",
+   "label_es": "lleno (de cualidad, sentimiento)",
+   "label_sv": "full (av egenskap, känsla)",
+   "def": "性質・感情に満ちている。『偽善と不法で満ちている』『ねたみ・殺意・争いに満ち』『善意に満ち』『呪いと不法で満ち』『あわれみと良い実に満ち』『姦淫の目で満ち』。",
+   "def_en": "Full of a quality or emotion: “full of hypocrisy and lawlessness”, “full of envy, murder, strife”, “full of goodness”, “full of curses and lawlessness”, “full of mercy and good fruits”, “eyes full of adultery”.",
+   "def_es": "Lleno de una cualidad o sentimiento: «llenos de hipocresía e iniquidad», «llenos de envidia, homicidios, contiendas», «llenos de bondad», «llena de maldición e iniquidad», «llena de misericordia y de buenos frutos», «ojos llenos de adulterio».",
+   "def_sv": "Full av en egenskap eller känsla: ”fulla av hyckleri och laglöshet”, ”fulla av avund, mord, strid”, ”fulla av godhet”, ”full av förbannelse och laglöshet”, ”full av barmhärtighet och goda frukter”, ”ögon fulla av otukt”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "マタイ23:28、ローマ1:29・15:14、Ⅱペテロ2:14、ヤコブ3:17。LXX 箴言6:34、教父（20.1、2.3）に並行。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40023028013": "2",
+  "n43019029004": "1",
+  "n43019029007": "1",
+  "n43021011012": "1",
+  "n45001029007": "2",
+  "n45015014013": "2",
+  "n59003008010": "1",
+  "n59003017013": "2",
+  "n61002014003": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は対象（物／性質）による。"
+}

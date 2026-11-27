@@ -1,0 +1,73 @@
+{
+ "lemma": "ὀφειλέτης",
+ "lemmaId": "grc:G3781",
+ "strong": "G3781",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "負債者",
+   "label_en": "debtor",
+   "label_es": "deudor",
+   "label_sv": "gäldenär",
+   "def": "借金を負う者。『一万タラントの借金のある者』『わたしたちに負債のある人々を赦しましたように』。",
+   "def_en": "One who owes a debt: “a man who owed ten thousand talents”, “as we also have forgiven our debtors”.",
+   "def_es": "El que tiene una deuda: «un hombre que debía diez mil talentos», «como también nosotros perdonamos a nuestros deudores».",
+   "def_sv": "En som står i skuld: ”en man som var skyldig tiotusen talenter”, ”liksom vi har förlåtit dem som står i skuld till oss”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "マタイ18:24・6:12。マタイ6:12 を金銭の負債とみるか罪責とみるかは決定しない。教父（8.2）に並行。LXX の用例なし。語義2・3との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "義務を負う者",
+   "label_en": "one under obligation",
+   "label_es": "el que está obligado",
+   "label_sv": "förpliktad",
+   "def": "義務・責任を負う者。『ギリシヤ人にも未開人にも…責任がある』『肉に従って生きる義務はない』『彼らは負債者』『律法の全体を行う義務がある』。",
+   "def_en": "One who is under a duty or responsibility: “I am under obligation … both to Greeks and to barbarians”, “we are under no obligation to live according to the flesh”, “they are debtors”, “is obliged to keep the whole law”.",
+   "def_es": "El que tiene una obligación o responsabilidad: «soy deudor … a griegos y a no griegos», «no somos deudores para vivir conforme a la carne», «son deudores», «está obligado a cumplir toda la ley».",
+   "def_sv": "En som har en skyldighet eller ett ansvar: ”jag står i skuld … både till greker och till barbarer”, ”vi har ingen skyldighet att leva efter köttet”, ”de är skyldiga”, ”är skyldig att hålla hela lagen”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ローマ1:14・8:12・15:27、ガラテヤ5:3。語義1との境界は連続的。LXX の用例なし。教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "罪責のある者",
+   "label_en": "one who is guilty",
+   "label_es": "culpable",
+   "label_sv": "skyldig, brottslig",
+   "def": "罪を負う者。『彼らがほかのすべてのガリラヤ人より罪深い者だったと思うか』。",
+   "def_en": "One who bears guilt: “do you think they were more sinful than all the other Galileans”.",
+   "def_es": "El que carga con culpa: «pensáis que eran más pecadores que todos los demás galileos».",
+   "def_sv": "En som bär på skuld till synd: ”tror ni att de var större syndare än alla andra galileer”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ルカ13:4。語義1との境界は連続的。LXX の用例なし。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40006012012": "1",
+  "n40018024008": "1",
+  "n42013004019": "3",
+  "n45001014009": "2",
+  "n45008012004": "2",
+  "n45015027004": "2",
+  "n48005003008": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "LXX の用例なし。語義区分は用法（負債／義務／罪責）による。"
+}

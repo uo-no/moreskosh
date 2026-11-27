@@ -1,0 +1,89 @@
+{
+ "lemma": "νέος",
+ "lemmaId": "grc:G3501",
+ "strong": "G3501",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "新しい（できたばかりの）",
+   "label_en": "new (just made)",
+   "label_es": "nuevo (recién hecho)",
+   "label_sv": "ny (nyss tillkommen)",
+   "def": "時間的に新しい、できたばかりの。新しいぶどう酒、新しい生地、新しい契約、新しい人。『καινός』（質的に新しい）との別は用例の範囲で立てない。",
+   "def_en": "New in time, freshly made: new wine, fresh dough, a new covenant, the new self. No distinction from “καινός” (new in quality) is drawn within the range of the examples.",
+   "def_es": "Nuevo en el tiempo, recién hecho: vino nuevo, masa nueva, pacto nuevo, hombre nuevo. En el ámbito de los ejemplos no se distingue de «καινός» (nuevo en calidad).",
+   "def_sv": "Ny i tiden, nyss gjord: nytt vin, ny deg, nytt förbund, ny människa. Inom exemplens räckvidd görs ingen skillnad mot ”καινός” (ny till sitt slag).",
+   "layers": {
+    "nt": 11,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "新しいぶどう酒（マタイ9:17、マルコ2:22、ルカ5:37–39。同一節に2回ずつ）、Ⅰコリ5:7（新しい粉のかたまり）、ヘブル12:24（新しい契約）、コロサイ3:10（新しい人）。LXX シラ書9.10、教父（バルナバ2.10.2、11）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "若い（者）",
+   "label_en": "young (person)",
+   "label_es": "joven",
+   "label_sv": "ung (människa)",
+   "def": "年の若い者。比較級（νεώτερος）を『若い者』の意味に用いる場合を含む。『年長者（πρεσβύτερος）』と対にされる。",
+   "def_en": "Young in years, including cases where the comparative (νεώτερος) is used for “young person”. Paired with “elder (πρεσβύτερος)”.",
+   "def_es": "De pocos años, incluidos los casos en que el comparativo (νεώτερος) se usa por «joven». Se contrapone al «anciano (πρεσβύτερος)».",
+   "def_sv": "Ung till åren, även när komparativen (νεώτερος) används i betydelsen ”ung”. Ställs mot ”äldre (πρεσβύτερος)”.",
+   "layers": {
+    "nt": 9,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "テト2:4・6、使徒5:6（若者たち）、Ⅰペテロ5:5（若い者は年長者に従え）、Ⅰテモ5:1・2・11・14（若い女たち・若いやもめ）、ヨハネ21:18（『若かったときは』）。比較級が真の比較でなく『若い者』を指す用法を含み、語義3との境界は連続的。LXX 詩篇118:141、教父（Ⅰクレメンス1.3・Ⅰクレメンス19.1）に並行。"
+  },
+  {
+   "id": "3",
+   "label": "より若い／最も若い",
+   "label_en": "younger / youngest",
+   "label_es": "menor / el más joven",
+   "label_sv": "yngre / yngst",
+   "def": "比較の対象や集団に対して、年が下の者（二者の間での比較、または最年少）。",
+   "def_en": "One lower in age relative to the object of comparison or the group (a comparison between two, or the youngest).",
+   "def_es": "El de menor edad respecto del término de comparación o del grupo (comparación entre dos, o el más joven).",
+   "def_sv": "Den som är yngre än jämförelseleden eller gruppen (jämförelse mellan två, eller den yngste).",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ルカ15:12・13（弟息子）、ルカ22:26（最も若い者のように）。LXX 創世記19:31（妹）に並行。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40009017004": "1",
+  "n40009017026": "1",
+  "n41002022005": "1",
+  "n41002022026": "1",
+  "n42005037005": "1",
+  "n42005037016": "1",
+  "n42005038003": "1",
+  "n42005039006": "1",
+  "n42015012004": "3",
+  "n42015013009": "3",
+  "n42022026013": "3",
+  "n43021018007": "2",
+  "n44005006004": "2",
+  "n46005007007": "1",
+  "n51003010004": "1",
+  "n54005001008": "2",
+  "n54005002004": "2",
+  "n54005011001": "2",
+  "n54005014003": "2",
+  "n56002004004": "2",
+  "n56002006002": "2",
+  "n58012024003": "1",
+  "n60005005002": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

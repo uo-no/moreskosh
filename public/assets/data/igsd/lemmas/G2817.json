@@ -1,0 +1,63 @@
+{
+ "lemma": "κληρονομία",
+ "lemmaId": "grc:G2817",
+ "strong": "G2817",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "遺産／相続財産",
+   "label_en": "inheritance / estate",
+   "label_es": "herencia / patrimonio",
+   "label_sv": "arv / arvegods",
+   "def": "遺産、相続財産。『遺産を分けてくれるように』『跡取りだ、殺してその遺産を取ろう』。",
+   "def_en": "An inheritance, property passed on: “divide the inheritance with me”, “this is the heir; let us kill him and take his inheritance”.",
+   "def_es": "Herencia, bienes heredados: «que parta conmigo la herencia», «este es el heredero; matémoslo y apoderémonos de su heredad».",
+   "def_sv": "Arv och arvsegendom: ”dela arvet med mig”, ”det här är arvingen, låt oss döda honom och ta hans arv”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ルカ12:13・20:14、マタイ21:38、マルコ12:7。LXX 民数記18:23・ヨシュア15:20、教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "相続分／受け継ぐもの（約束・国・救い）",
+   "label_en": "inheritance (promise, kingdom, salvation)",
+   "label_es": "herencia (promesa, reino, salvación)",
+   "label_sv": "arvslott (löfte, rike, frälsning)",
+   "def": "神の約束・土地・天の国・救いとして受け継ぐもの。『アブラハムに受け継ぐべき地』『朽ちない財産』『聖なる者たちの継ぐ嗣業』『キリストと神の国の相続』『遺言による相続』。",
+   "def_en": "What is received as God's promise, the land, the kingdom of heaven, salvation: “the place Abraham was to receive as an inheritance”, “an imperishable inheritance”, “the inheritance of the saints”, “an inheritance in the kingdom of Christ and of God”, “inheritance by testament”.",
+   "def_es": "Lo que se recibe como promesa de Dios, tierra, reino de los cielos y salvación: «el lugar que Abrahán había de recibir como herencia», «una herencia incorruptible», «la herencia de los santos», «herencia en el reino de Cristo y de Dios», «herencia por testamento».",
+   "def_sv": "Det man får i arv som Guds löfte, landet, himmelriket och frälsningen: ”det land Abraham skulle få i arv”, ”ett oförgängligt arv”, ”de heligas arvslott”, ”arvedel i Kristi och Guds rike”, ”arv genom testamente”.",
+   "layers": {
+    "nt": 10,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒7:5・20:32、ヘブル11:8・9:15、Ⅰペテロ1:4、コロサイ3:24、エペソ1:14・1:18・5:5、ガラテヤ3:18。LXX・教父（14.4、36.4）に並行。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40021038020": "1",
+  "n41012007020": "1",
+  "n42012013017": "1",
+  "n42020014020": "1",
+  "n44007005005": "2",
+  "n44020032020": "2",
+  "n48003018006": "2",
+  "n49001014005": "2",
+  "n49001018024": "2",
+  "n49005005017": "2",
+  "n51003024009": "2",
+  "n58009015026": "2",
+  "n58011008012": "2",
+  "n60001004002": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は対象（遺産／約束・嗣業）による。"
+}

@@ -1,0 +1,52 @@
+{
+ "lemma": "ὀφειλή",
+ "lemmaId": "grc:G3782",
+ "strong": "G3782",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "負債・借り",
+   "label_en": "debt",
+   "label_es": "deuda",
+   "label_sv": "skuld",
+   "def": "負債、借り。『その負債を免除してやった』『だれにでも、返すべきものを返しなさい』。",
+   "def_en": "A debt, what is owed: “forgave him that debt”, “pay to everyone what is owed”.",
+   "def_es": "Deuda, lo que se debe: «le perdonó la deuda», «pagad a todos lo que debéis».",
+   "def_sv": "Skuld, det man är skyldig: ”efterskänkte skulden”, ”ge var och en vad ni är skyldiga”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ18:32、ローマ13:7。LXX・教父の用例なし。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "果たすべき務め",
+   "label_en": "duty",
+   "label_es": "deber",
+   "label_sv": "skyldighet",
+   "def": "果たすべき務め。『夫は妻に務めを果たし』。",
+   "def_en": "The duty to be fulfilled: “let the husband fulfil his duty to his wife”.",
+   "def_es": "La obligación que se ha de cumplir: «el marido cumpla con la mujer el deber conyugal».",
+   "def_sv": "Den plikt som skall fullgöras: ”mannen skall ge hustrun vad han är henne skyldig”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "コリント第一7:3。LXX・教父の用例なし。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40018032013": "1",
+  "n45013007004": "1",
+  "n46007003006": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（負債／務め）による。教父の代表例は別語形の可能性があり確認していない。"
+}

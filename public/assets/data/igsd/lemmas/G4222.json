@@ -1,0 +1,81 @@
+{
+ "lemma": "ποτίζω",
+ "lemmaId": "grc:G4222",
+ "strong": "G4222",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "飲ませる",
+   "label_en": "to give to drink",
+   "label_es": "dar de beber",
+   "label_sv": "att ge att dricka",
+   "def": "人・家畜に飲み物を与える。『冷たい水一杯でも飲ませる者』『のどが渇いたときに飲ませてくれた』『酢を飲ませた』『敵が渇いているなら飲ませよ』。",
+   "def_en": "To give a drink to a person or livestock: “whoever gives even a cup of cold water”, “I was thirsty and you gave me drink”, “gave him sour wine to drink”, “if your enemy is thirsty, give him drink”.",
+   "def_es": "Dar bebida a personas o animales: «cualquiera que dé un vaso de agua fría», «tuve sed y me disteis de beber», «le dio a beber vinagre», «si tu enemigo tuviere sed, dale de beber».",
+   "def_sv": "Att ge dryck åt människor eller boskap: ”den som ger en bägare friskt vatten”, ”jag var törstig och ni gav mig att dricka”, ”gav honom ättiksvin att dricka”, ”är din fiende törstig, ge honom att dricka”.",
+   "layers": {
+    "nt": 9,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "マタイ10:42・25:35・25:37・25:42・27:48、マルコ15:36・9:41、ローマ12:20、ルカ13:15。LXX 創世記24:46・詩篇79:6、教父（25.2.9、7.3）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "水をやる（植物に）",
+   "label_en": "to water (plants)",
+   "label_es": "regar (plantas)",
+   "label_sv": "att vattna (växter)",
+   "def": "植物に水をやる。『わたしは植え、アポロは水を注いだ』。",
+   "def_en": "To water plants: “I planted, Apollos watered.”",
+   "def_es": "Regar las plantas: «Yo planté, Apolos regó».",
+   "def_sv": "Att vattna växter: ”Jag planterade, Apollos vattnade.”",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "Ⅰコリ3:6・3:7・3:8。LXX 創世記2:6 などに並行。教父の代表例では確認していない。語義1との境界は連続的。"
+  },
+  {
+   "id": "3",
+   "label": "（乳・霊・ぶどう酒を）飲ませる（比喩的）",
+   "label_en": "to give to drink (milk, Spirit, wine; figurative)",
+   "label_es": "dar de beber (leche, Espíritu, vino; figurado)",
+   "label_sv": "att ge att dricka (mjölk, Anden, vin; bildligt)",
+   "def": "乳・霊・怒りのぶどう酒などを飲ませる。『乳を飲ませた』『一つの霊を飲まされた』『淫行の怒りのぶどう酒を諸国民に飲ませた』。",
+   "def_en": "To make someone drink milk, the Spirit, the wine of wrath, and so on: “I fed you with milk”, “all were made to drink of one Spirit”, “made all nations drink the wine of the passion of her immorality”.",
+   "def_es": "Hacer beber leche, el Espíritu, el vino de la ira, etc.: «os di a beber leche», «a todos se nos dio a beber de un mismo Espíritu», «ha hecho beber a todas las naciones del vino del furor de su fornicación».",
+   "def_sv": "Att låta dricka mjölk, Anden, vredens vin m.m.: ”jag gav er mjölk”, ”alla har fått en och samma Ande att dricka”, ”har låtit alla folk dricka sin otukts vredesvin”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "Ⅰコリ3:2・12:13、黙示録14:8。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40010042004": "1",
+  "n40025035009": "1",
+  "n40025037017": "1",
+  "n40025042011": "1",
+  "n40027048016": "1",
+  "n41009041004": "1",
+  "n41015036010": "1",
+  "n42013015026": "1",
+  "n45012020011": "1",
+  "n46003002003": "3",
+  "n46003006004": "2",
+  "n46003007009": "2",
+  "n46003008006": "2",
+  "n46012013024": "3",
+  "n66014008021": "3"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は対象（人・家畜／植物／比喩）による。"
+}

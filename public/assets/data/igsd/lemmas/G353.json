@@ -1,0 +1,96 @@
+{
+ "lemma": "ἀναλαμβάνω",
+ "lemmaId": "grc:G353",
+ "strong": "G353",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "引き上げる／天に上げられる",
+   "label_en": "to be taken up (to heaven)",
+   "label_es": "ser recibido arriba / elevado al cielo",
+   "label_sv": "att tas upp (till himlen)",
+   "def": "上に引き上げる、天に上げられる。『天に上げられた』『栄光のうちに引き上げられた』『布が天に引き上げられた』。",
+   "def_en": "To lift up, to be taken up to heaven: “was taken up into heaven”, “taken up in glory”, “the sheet was taken up into heaven”.",
+   "def_es": "Levantar arriba, ser llevado al cielo: «fue recibido arriba en el cielo», «recibido arriba en gloria», «el lienzo fue recogido en el cielo».",
+   "def_sv": "Att lyfta upp, att tas upp i himlen: ”togs upp till himlen”, ”upptagen i härlighet”, ”duken togs upp till himlen”.",
+   "layers": {
+    "nt": 6,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰテモ3:16、使徒1:2・1:11・1:22・10:16、マルコ16:19。LXX Ⅱ列王記・エゼキエル3:12、教父（1.1.5）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "連れて行く／乗せる／迎える",
+   "label_en": "to take along / take aboard / receive",
+   "label_es": "llevar consigo / embarcar / recibir",
+   "label_sv": "att ta med / ta ombord / ta emot",
+   "def": "連れて行く、船に乗せる、迎え入れる。『パウロを船に乗せるつもりで』『船に乗せて』『夜のうちに彼を連れて』『マルコを連れて来てください』。",
+   "def_en": "To take with one, put aboard a ship, receive: “intending to take Paul aboard”, “took him on board”, “took him by night”, “get Mark and bring him”.",
+   "def_es": "Tomar consigo, subir a bordo, acoger: «con intención de recoger a Pablo», «tomándole a bordo», «lo llevaron de noche», «toma a Marcos y tráele».",
+   "def_sv": "Att ta med sig, ta ombord, ta emot: ”tänkte ta ombord Paulus”, ”tog honom ombord”, ”förde honom bort om natten”, ”ta med dig Markus”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒20:13・20:14・23:31、Ⅱテモ4:11。LXX 創世記45:19、教父に並行。"
+  },
+  {
+   "id": "3",
+   "label": "身に着ける／取る（武具を）",
+   "label_en": "to take up / put on (armour)",
+   "label_es": "tomar / vestir (la armadura)",
+   "label_sv": "att ta på sig (rustningen)",
+   "def": "武具を取り上げる、身に着ける。『神の武具を取れ』『信仰の盾を取れ』。",
+   "def_en": "To take up armour and put it on: “take the whole armour of God”, “take the shield of faith”.",
+   "def_es": "Tomar las armas y ceñírselas: «tomad toda la armadura de Dios», «tomad el escudo de la fe».",
+   "def_sv": "Att ta upp vapen och iklä sig dem: ”ta på er Guds rustning”, ”ta trons sköld”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "エペソ6:13・6:16。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "4",
+   "label": "担う（運び上げる）",
+   "label_en": "to carry (lift and bear)",
+   "label_es": "llevar a cuestas",
+   "label_sv": "att bära (lyfta och föra med)",
+   "def": "担ぎ上げる、携える。『モロクの幕屋を担いだ』（使徒7:43）。",
+   "def_en": "To lift up and carry: “you took up the tent of Moloch” (Acts 7:43).",
+   "def_es": "Alzar y portar: «llevasteis el tabernáculo de Moloc» (Hch 7:43).",
+   "def_sv": "Att lyfta upp och bära med sig: ”ni bar Moloks tält” (Apg 7:43).",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒7:43 の1例（LXX アモス5:26 の引用）。語義2との境界は連続的。LXX の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n41016019010": "1",
+  "n44001002012": "1",
+  "n44001011016": "1",
+  "n44001022010": "1",
+  "n44007043002": "4",
+  "n44010016008": "1",
+  "n44020013013": "2",
+  "n44020014008": "2",
+  "n44023031009": "2",
+  "n49006013003": "3",
+  "n49006016003": "3",
+  "n54003016024": "1",
+  "n55004011007": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法による。"
+}

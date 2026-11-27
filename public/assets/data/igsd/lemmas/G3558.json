@@ -1,0 +1,56 @@
+{
+ "lemma": "νότος",
+ "lemmaId": "grc:G3558",
+ "strong": "G3558",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "南風",
+   "label_en": "south wind",
+   "label_es": "viento del sur",
+   "label_sv": "sunnanvind",
+   "def": "南風。『南風が静かに吹いて』『南風が吹き始めたので』『南風が吹いているのを見ると』。",
+   "def_en": "The south wind: “when a gentle south wind blew”, “when a south wind sprang up”, “when you see the south wind blowing”.",
+   "def_es": "El viento del sur: «soplando una brisa del sur», «cuando sopló el viento del sur», «cuando veis que sopla el viento del sur».",
+   "def_sv": "Sydlig vind: ”när en svag sydanvind blåste”, ”när det började blåsa sydlig vind”, ”när ni ser att det blåser sydlig vind”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒27:13・28:13、ルカ12:55。LXX の代表例は方角・地方の用法で、この語義としては確認していない。教父の用例なし。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "南（方角・地方）",
+   "label_en": "south (direction, region)",
+   "label_es": "sur (punto cardinal, región)",
+   "label_sv": "söder (väderstreck, område)",
+   "def": "南、南の方角・地方。『南から来て』『南の女王』『南の女王は…』『南に面して三つの門』。",
+   "def_en": "The south, as a direction or region: “will come from the south”, “the queen of the South”, “the queen of the South …”, “three gates facing south”.",
+   "def_es": "El sur, como dirección o región: «vendrán del sur», «la reina del Sur», «la reina del Sur …», «tres puertas que miran al sur».",
+   "def_sv": "Söder, som väderstreck eller område: ”skall komma från söder”, ”drottningen av Södern”, ”drottningen av Södern …”, ”tre portar mot söder”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ルカ13:29・11:31、マタイ12:42、黙示録21:13。LXX（47.20・11.5）に並行。教父の用例なし。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40012042002": "2",
+  "n42011031002": "2",
+  "n42012055003": "1",
+  "n42013029011": "2",
+  "n44027013003": "1",
+  "n44028013011": "1",
+  "n66021013012": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（南風／南の方角・地方）による。"
+}

@@ -1,0 +1,51 @@
+{
+ "lemma": "ἀμεταμέλητος",
+ "lemmaId": "grc:G278",
+ "strong": "G278",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "悔いのない",
+   "label_en": "without regret",
+   "label_es": "sin pesar",
+   "label_sv": "som man inte ångrar",
+   "def": "悔いのない、後悔を伴わない。『悔いのない救い』。",
+   "def_en": "Without regret, bringing no remorse: “a salvation without regret”.",
+   "def_es": "Que no deja lugar a arrepentimiento: «salvación, de la que no hay que arrepentirse».",
+   "def_sv": "Utan ånger, som inte medför ånger: ”en räddning som man inte ångrar”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "コリント第二7:10。LXX の用例なし。教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "取り消されない",
+   "label_en": "irrevocable",
+   "label_es": "irrevocable",
+   "label_sv": "oåterkallelig",
+   "def": "取り消されることのない。『神の賜物と召命は取り消されない』。",
+   "def_en": "Not to be taken back: “God’s gifts and calling cannot be taken back”.",
+   "def_es": "Que no se revoca: «irrevocables son los dones y el llamamiento de Dios».",
+   "def_sv": "Som inte tas tillbaka: ”Guds gåvor och kallelse tas inte tillbaka”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ローマ11:29。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n45011029001": "2",
+  "n47007010009": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法による。"
+}

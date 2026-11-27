@@ -1,0 +1,83 @@
+{
+ "lemma": "ἀνάγκη",
+ "lemmaId": "grc:G318",
+ "strong": "G318",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "必要／必然（せざるを得ない）",
+   "label_en": "necessity (being compelled by circumstance)",
+   "label_es": "necesidad (tener que)",
+   "label_sv": "nödvändighet (att vara tvungen)",
+   "def": "そうしなければならない、避けられない必要・義務・必然。『せざるを得ない』『必要がある』『〜は必ず起こる』。",
+   "def_en": "An unavoidable need, obligation, or necessity that something must be so: “cannot but”, “there is need”, “it is bound to happen”.",
+   "def_es": "Necesidad, obligación o inevitabilidad de que algo deba hacerse: «no poder sino», «es necesario», «es forzoso que suceda».",
+   "def_sv": "En oundviklig nödvändighet, plikt eller ett måste: ”inte kunna annat än”, ”det är nödvändigt”, ”det måste ske”.",
+   "layers": {
+    "nt": 10,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰコリ7:37・9:16（そうせざるを得ない）、ヘブル7:12・27・9:16・23、ユダ3、ルカ14:18（出かけて見なければならない）、マタイ18:7（つまずきは必ず来る）、ローマ13:5（従う必要がある）。LXX Ⅱマカバイ8.24、教父（ヘルマス26.9.2）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "強制／強いられて",
+   "label_en": "compulsion / under constraint",
+   "label_es": "coacción / por obligación",
+   "label_sv": "tvång / nödtvång",
+   "def": "無理に強いられること、強制。『惜しむ心や強いられてではなく』『強いられたものでなく自発的に』。",
+   "def_en": "Being forced against one's will, constraint: “not reluctantly or under compulsion”, “not forced but voluntary”.",
+   "def_es": "Ser forzado contra la voluntad, coerción: «no con tristeza ni por obligación», «no forzado, sino voluntario».",
+   "def_sv": "Att tvingas mot sin vilja, tvång: ”inte motvilligt eller av tvång”, ”inte framtvingat utan frivilligt”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "Ⅱコリ9:7（強いられてでなく）、ピレモン14（強いられたものでなく）。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "苦難／窮迫",
+   "label_en": "distress / hardship",
+   "label_es": "angustia / apuro",
+   "label_sv": "nöd / trångmål",
+   "def": "差し迫った苦しみ、窮迫、困窮。『大きな苦難』『患難・欠乏・行き詰まり』。",
+   "def_en": "Pressing suffering, distress, straits: “great distress”, “afflictions, hardships, calamities”.",
+   "def_es": "Sufrimiento apremiante, estrechez, penuria: «gran calamidad», «tribulaciones, necesidades, angustias».",
+   "def_sv": "Trängande lidande, nöd och brist: ”stor nöd”, ”lidanden, nöd och trångmål”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "Ⅰコリ7:26（今ある危機）、Ⅰテサ3:7（あらゆる窮乏と苦難）、Ⅱコリ6:4・12:10（苦難・欠乏）、ルカ21:23（この地に大きな苦難がある）。LXX 詩篇・箴言27:9 に並行。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40018007007": "1",
+  "n42014018015": "1",
+  "n42021023015": "3",
+  "n45013005002": "1",
+  "n46007026009": "3",
+  "n46007037011": "1",
+  "n46009016008": "1",
+  "n47006004015": "3",
+  "n47009007011": "2",
+  "n47012010008": "3",
+  "n52003007010": "3",
+  "n57001014013": "2",
+  "n58007012006": "1",
+  "n58007027006": "1",
+  "n58009016005": "1",
+  "n58009023001": "1",
+  "n65001003012": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

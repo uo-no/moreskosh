@@ -1,0 +1,61 @@
+{
+ "lemma": "ἀναπίπτω",
+ "lemmaId": "grc:G377",
+ "strong": "G377",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "席につく／横になる／座る",
+   "label_en": "to take one's place / recline / sit down",
+   "label_es": "recostarse / sentarse (a la mesa)",
+   "label_sv": "att lägga sig till bords / slå sig ner",
+   "def": "食事の席につく、横になる、地面に座る。『足を洗ってから席につき』『人々は座った』『末席に座りなさい』『食卓についた』『すぐ来て食卓につきなさい』『群衆に地面に座るよう命じられた』。",
+   "def_en": "To take a place at a meal, to recline, to sit on the ground: “washed their feet and reclined”, “the people sat down”, “take the lowest place”, “reclined at table”, “come at once and sit down to eat”, “directed the crowd to sit down on the ground”.",
+   "def_es": "Ocupar el puesto en la comida, recostarse, sentarse en el suelo: «después de lavarles los pies volvió a la mesa», «se recostaron», «siéntate en el último lugar», «se sentó a la mesa», «pasa, siéntate a la mesa», «mandó que se recostasen en tierra».",
+   "def_sv": "Att ta plats vid måltiden, lägga sig till bords, sätta sig på marken: ”lade sig till bords efter att ha tvättat deras fötter”, ”folket slog sig ner”, ”ta den nedersta platsen”, ”låg till bords”, ”kom genast och slå dig ner”, ”befallde folket att slå sig ner på marken”.",
+   "layers": {
+    "nt": 10,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ヨハネ13:12・6:10（2回）、ルカ14:10・11:37・17:7・22:14、マタイ15:35、マルコ8:6・6:40。LXX トビト2:1・シラ、創世記49:9 に並行。教父の用例は無い。"
+  },
+  {
+   "id": "2",
+   "label": "身をもたせかける",
+   "label_en": "to lean back",
+   "label_es": "reclinarse",
+   "label_sv": "att luta sig bakåt",
+   "def": "もたれかかる、後ろにもたれる。『イエスの胸によりかかって』。",
+   "def_en": "To lean against, to lean back: “leaning back on Jesus' breast”.",
+   "def_es": "Apoyarse, echarse hacia atrás: «recostado cerca del pecho de Jesús».",
+   "def_sv": "Att luta sig mot, att luta sig bakåt: ”lutade sig mot Jesu bröst”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヨハネ13:25・21:20。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40015035005": "1",
+  "n41006040002": "1",
+  "n41008006005": "1",
+  "n42011037014": "1",
+  "n42014010005": "1",
+  "n42017007019": "1",
+  "n42022014006": "1",
+  "n43006010007": "1",
+  "n43006010015": "1",
+  "n43013012013": "1",
+  "n43013025001": "2",
+  "n43021020014": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（座る／もたれる）による。教父の用例は無い。"
+}

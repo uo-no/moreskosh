@@ -1,0 +1,52 @@
+{
+ "lemma": "περικαλύπτω",
+ "lemmaId": "grc:G4028",
+ "strong": "G4028",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "覆う",
+   "label_en": "to cover",
+   "label_es": "cubrir",
+   "label_sv": "att täcka",
+   "def": "覆う、包む。『金で覆われた契約の箱』。",
+   "def_en": "To cover, to overlay: “the ark of the covenant covered with gold”.",
+   "def_es": "Cubrir, revestir: «el arca del pacto cubierta de oro».",
+   "def_sv": "Att överdra, att hölja: ”förbundsarken överdragen med guld”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ヘブル9:4。LXX に並行。教父の用例なし。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "目隠しする・顔を覆う",
+   "label_en": "to blindfold, to cover the face",
+   "label_es": "vendar, cubrir el rostro",
+   "label_sv": "att binda för ögonen",
+   "def": "顔を覆う、目隠しをする。『目隠しをして』『顔に覆いを』。",
+   "def_en": "To cover someone’s face, to blindfold: “blindfolding him”, “to cover his face”.",
+   "def_es": "Tapar el rostro, vendar los ojos: «vendándole los ojos», «cubrirle el rostro».",
+   "def_sv": "Att täcka ansiktet, att förbinda ögonen: ”band för ögonen på honom”, ”täcka för ansiktet”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ルカ22:64、マルコ14:65。LXX に並行（覆う）。教父の用例なし。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n41014065007": "2",
+  "n42022064002": "2",
+  "n58009004009": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法による。"
+}

@@ -1,0 +1,65 @@
+{
+ "lemma": "οὐδέποτε",
+ "lemmaId": "grc:G3763",
+ "strong": "G3763",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "決して〜ない（否定）",
+   "label_en": "never (negation)",
+   "label_es": "nunca / jamás (negación)",
+   "label_sv": "aldrig (nekande)",
+   "def": "『決して〜ない』『一度も〜ない』。『わたしはあなたがたを全く知らない』『かつてこんなことは見たことがない』『決して〜しません』。",
+   "def_en": "“Never”, “not once”: “I never knew you”, “we have never seen anything like this”, “I will never …”.",
+   "def_es": "«Nunca», «ni una sola vez»: «nunca os conocí», «jamás hemos visto cosa igual», «de ninguna manera …».",
+   "def_sv": "”Aldrig”, ”inte en enda gång”: ”jag har aldrig känt er”, ”något sådant har vi aldrig sett”, ”aldrig skall jag …”.",
+   "layers": {
+    "nt": 13,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰコリ13:8、使徒14:8・11:8・10:14、ヘブル10:1・10:11、ヨハネ7:46、ルカ15:29（2回）、マタイ7:23・9:33・26:33、マルコ2:12。LXX 出エジプト記10:6、教父（ヘルマス8.1.4）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "一度も〜ないのか（疑問）",
+   "label_en": "have you never …? (question)",
+   "label_es": "¿nunca …? (pregunta)",
+   "label_sv": "har ni aldrig …? (fråga)",
+   "def": "疑問文における『一度も〜ないのか』。『あなたがたは読んだことがないのか』。",
+   "def_en": "“Never …?” in a question: “Have you never read?”",
+   "def_es": "«¿Nunca …?» en interrogación: «¿Nunca leísteis?».",
+   "def_sv": "”Aldrig …?” i frågesats: ”Har ni aldrig läst?”",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ21:16・21:42、マルコ2:25。語義1との境界は連続的（疑問文の別）。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40007023006": "1",
+  "n40009033013": "1",
+  "n40021016014": "2",
+  "n40021042005": "2",
+  "n40026033013": "1",
+  "n41002012021": "1",
+  "n41002025004": "2",
+  "n42015029014": "1",
+  "n42015029020": "1",
+  "n43007046004": "1",
+  "n44010014008": "1",
+  "n44011008009": "1",
+  "n44014008016": "1",
+  "n46013008003": "1",
+  "n58010001025": "1",
+  "n58010011016": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は文の種類（平叙／疑問）による。"
+}

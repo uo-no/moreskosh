@@ -1,0 +1,52 @@
+{
+ "lemma": "λειτουργέω",
+ "lemmaId": "grc:G3008",
+ "strong": "G3008",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "祭儀・礼拝の奉仕をする",
+   "label_en": "to perform ritual service",
+   "label_es": "oficiar el culto",
+   "label_sv": "att förrätta tempeltjänst",
+   "def": "祭儀にたずさわる、礼拝の務めをする。『主を礼拝し、断食していると』『日ごとに立って務めを行い』。",
+   "def_en": "To be engaged in rites, to carry out the duties of worship: “as they were worshipping the Lord and fasting”, “stands daily performing his duties”.",
+   "def_es": "Ocuparse en el servicio ritual, desempeñar el ministerio cultual: «ministrando estos al Señor, y ayunando», «está día tras día ministrando».",
+   "def_sv": "Att sköta kulten, att göra gudstjänstlig tjänst: ”medan de höll gudstjänst inför Herren och fastade”, ”står varje dag och förrättar sin tjänst”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒13:2、ヘブル10:11。LXX、教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "奉仕する・仕える",
+   "label_en": "to serve, to minister",
+   "label_es": "servir, ayudar",
+   "label_sv": "att tjäna",
+   "def": "物質的な援助などで奉仕する。『肉のもので仕える』。",
+   "def_en": "To serve, as by material help: “to serve them with material things”.",
+   "def_es": "Prestar servicio, como con ayuda material: «ministrarles de los materiales».",
+   "def_sv": "Att bistå, till exempel med materiell hjälp: ”tjäna dem med det materiella”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ローマ15:27。LXX、教父に並行。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n44013002001": "1",
+  "n45015027020": "2",
+  "n58010011008": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（祭儀／一般の奉仕）による。"
+}

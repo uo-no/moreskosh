@@ -1,0 +1,51 @@
+{
+ "lemma": "περιέχω",
+ "lemmaId": "grc:G4023",
+ "strong": "G4023",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "書かれている・含まれている",
+   "label_en": "to be contained, to stand written",
+   "label_es": "estar escrito, contenerse",
+   "label_sv": "att stå skrivet",
+   "def": "含まれている、書かれている。『聖書にこう書いてある』。",
+   "def_en": "To be contained, to be written: “it stands written in Scripture”.",
+   "def_es": "Figurar, estar contenido: «contiene la Escritura».",
+   "def_sv": "Att innehållas, att stå att läsa: ”det står skrivet i Skriften”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ペテロ第一2:6。LXX・教父の代表例では確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "取り囲む・襲う",
+   "label_en": "to seize, to surround",
+   "label_es": "apoderarse, rodear",
+   "label_sv": "att gripa, att omsluta",
+   "def": "取り囲む、襲う。『驚きに包まれた』。",
+   "def_en": "To encompass, to come over: “astonishment came over him”.",
+   "def_es": "Envolver, sobrecoger: «el temor se había apoderado de él».",
+   "def_sv": "Att komma över, att omfatta: ”häpnad grep honom”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ルカ5:9。LXX、教父に並行。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42005009003": "2",
+  "n60002006002": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法による。"
+}

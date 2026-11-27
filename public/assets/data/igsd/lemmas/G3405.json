@@ -1,0 +1,52 @@
+{
+ "lemma": "μισθαποδοσία",
+ "lemmaId": "grc:G3405",
+ "strong": "G3405",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "褒賞",
+   "label_en": "reward",
+   "label_es": "galardón",
+   "label_sv": "lön, belöning",
+   "def": "報い、褒賞。『大きな報い』『報いを望み見ていた』。",
+   "def_en": "Recompense, reward: “a great reward”, “he was looking ahead to the reward”.",
+   "def_es": "Recompensa, premio: «grande galardón», «tenía puesta la mirada en el galardón».",
+   "def_sv": "Vedergällning, belöning: ”stor lön”, ”han hade blicken riktad på lönen”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヘブル10:35・11:26。LXX・教父の用例なし。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "罰",
+   "label_en": "punishment",
+   "label_es": "retribución (castigo)",
+   "label_sv": "straff",
+   "def": "報い（罰）。『義にかなった報いを受けた』。",
+   "def_en": "A recompense in the sense of punishment: “received a just recompense”.",
+   "def_es": "Paga en el sentido de castigo: «recibió justa retribución».",
+   "def_sv": "Vedergällning i betydelsen straff: ”fick sitt rättvisa straff”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヘブル2:2。LXX・教父の用例なし。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n58002002017": "2",
+  "n58010035010": "1",
+  "n58011026015": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（褒賞／罰）による。"
+}

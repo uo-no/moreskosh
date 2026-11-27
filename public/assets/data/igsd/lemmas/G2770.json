@@ -1,0 +1,100 @@
+{
+ "lemma": "κερδαίνω",
+ "lemmaId": "grc:G2770",
+ "strong": "G2770",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "得る／儲ける（利益を）",
+   "label_en": "to gain / make profit",
+   "label_es": "ganar / obtener ganancia",
+   "label_sv": "att vinna / tjäna (vinst)",
+   "def": "利益を得る、儲ける。タラントを儲ける、全世界を得ても、商売で儲ける。『たとえ全世界を儲けても、いのちを失えば』。",
+   "def_en": "To make a profit: gaining talents, gaining even the whole world, making money in business: “even if one gains the whole world, if one loses one's life”.",
+   "def_es": "Obtener beneficio: ganar talentos, «aunque gane el mundo entero», ganar en los negocios.",
+   "def_sv": "Att göra vinst: att tjäna talenter, vinna hela världen, tjäna på affärer: ”om man vinner hela världen men förlorar livet”.",
+   "layers": {
+    "nt": 8,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "マタイ25:16・17・20・22、マタイ16:26・マルコ8:36・ルカ9:25（全世界を儲けても）、ヤコブ4:13（商売をして儲ける）。教父（バルナバ・ヘルマス6.2）に並行。LXX の用例は0件（パケット）。"
+  },
+  {
+   "id": "2",
+   "label": "（人を）勝ち取る／得る",
+   "label_en": "to win (a person)",
+   "label_es": "ganar (a una persona)",
+   "label_sv": "att vinna (människor)",
+   "def": "人を信仰・共同体に導き入れる、得る。『できるだけ多くの人を得るために』『兄弟を得たことになる』『夫を得るために』。",
+   "def_en": "To bring a person into faith or the community, to win them: “to win as many as possible”, “you have won your brother”, “that husbands may be won”.",
+   "def_es": "Atraer a una persona a la fe o a la comunidad: «para ganar al mayor número», «has ganado a tu hermano», «que los maridos sean ganados».",
+   "def_sv": "Att föra en människa in i tron eller gemenskapen: ”för att vinna så många som möjligt”, ”du har vunnit din broder”, ”att männen ska vinnas”.",
+   "layers": {
+    "nt": 7,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "Ⅰコリ9:19・20（2回）・21・22、Ⅰペテロ3:1（言葉なしに夫を得る）、マタイ18:15（兄弟を得たことになる）。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "（キリストを）得る",
+   "label_en": "to gain (Christ)",
+   "label_es": "ganar (a Cristo)",
+   "label_sv": "att vinna (Kristus)",
+   "def": "キリストを得ること、すべてを損と見なしてキリストを得る。",
+   "def_en": "Gaining Christ: counting all things loss in order to gain Christ.",
+   "def_es": "Ganar a Cristo: tenerlo todo por pérdida para ganar a Cristo.",
+   "def_sv": "Att vinna Kristus: att räkna allt som förlust för att vinna Kristus.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ピリ3:8（キリストを得るため）の1例のみ。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "4",
+   "label": "（損害を）免れる",
+   "label_en": "to avoid (loss)",
+   "label_es": "evitar (un daño)",
+   "label_sv": "att undgå (skada)",
+   "def": "被害・損失を受けずに済む、避ける。",
+   "def_en": "To escape without suffering damage or loss.",
+   "def_es": "Librarse sin sufrir perjuicio o pérdida.",
+   "def_sv": "Att slippa skada och förlust.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒27:21（この損害と損失を避けることになったでしょう）の1例のみ。語義1との境界は連続的（Abbott も別項に置く）。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40016026009": "1",
+  "n40018015020": "2",
+  "n40025016011": "1",
+  "n40025017005": "1",
+  "n40025020022": "1",
+  "n40025022018": "1",
+  "n41008036005": "1",
+  "n42009025005": "1",
+  "n44027021024": "4",
+  "n46009019012": "2",
+  "n46009020009": "2",
+  "n46009020025": "2",
+  "n46009021013": "2",
+  "n46009022008": "2",
+  "n50003008028": "3",
+  "n59004013020": "1",
+  "n60003001021": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "LXX の用例は0件（パケット）。新約に無い用法は代表例の範囲では見当たらない。"
+}

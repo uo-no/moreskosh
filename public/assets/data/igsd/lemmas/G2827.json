@@ -1,0 +1,73 @@
+{
+ "lemma": "κλίνω",
+ "lemmaId": "grc:G2827",
+ "strong": "G2827",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "傾ける・横たえる",
+   "label_en": "to bow, to lay down",
+   "label_es": "inclinar, recostar",
+   "label_sv": "att böja, att luta",
+   "def": "頭などを傾ける、横たえる。『頭を垂れて、息をひきとられた』『顔を地に伏せている』『頭を横たえる所もない』『枕するところもない』。",
+   "def_en": "To incline or lay down the head or the like: “he bowed his head and gave up his spirit”, “bowing their faces to the ground”, “nowhere to lay his head”, “no place to rest his head”.",
+   "def_es": "Inclinar o recostar la cabeza u otra cosa: «inclinando la cabeza, entregó el espíritu», «con el rostro inclinado a tierra», «no tiene dónde recostar la cabeza», «no tiene dónde reclinar la cabeza».",
+   "def_sv": "Att böja eller vila huvudet och liknande: ”böjde ner huvudet och gav upp andan”, ”sänkte ansiktet mot marken”, ”har inte någonstans att vila huvudet”, ”har ingenstans att luta huvudet”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ヨハネ19:30、ルカ24:5・9:58、マタイ8:20。LXX（42.15）、教父（12.1）に並行。語義2・3との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "日が傾く",
+   "label_en": "(of the day) to decline",
+   "label_es": "declinar (el día)",
+   "label_sv": "(om dagen) att lida mot sitt slut",
+   "def": "日が傾く、夕方になる。『日が傾きはじめたので』『日もすでに傾いています』。",
+   "def_en": "The day declining, evening drawing on: “the day began to decline”, “the day is already far spent”.",
+   "def_es": "Declinar el día, atardecer: «el día comenzaba a declinar», «el día ya ha declinado».",
+   "def_sv": "Att dagen lider mot kväll: ”dagen började lida mot sitt slut”, ”dagen går redan mot sitt slut”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ルカ9:12・24:29。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "敗走させる",
+   "label_en": "to put to flight",
+   "label_es": "poner en fuga",
+   "label_sv": "att slå på flykten",
+   "def": "敵の軍隊を敗走させる。『他国の陣営を敗走させ』。",
+   "def_en": "To put an enemy army to flight: “put foreign armies to flight”.",
+   "def_es": "Hacer huir al ejército enemigo: «pusieron en fuga ejércitos extranjeros».",
+   "def_sv": "Att driva en fiendehär på flykten: ”drev främmande härar på flykten”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヘブル11:34。語義1との境界は連続的。LXX の代表例（45.7）は用法が異なり、この語義としては確認していない。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40008020026": "1",
+  "n42009012005": "2",
+  "n42009058026": "1",
+  "n42024005006": "1",
+  "n42024029013": "2",
+  "n43019030011": "1",
+  "n58011034015": "3"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（傾ける／日の傾き／敗走させる）による。"
+}

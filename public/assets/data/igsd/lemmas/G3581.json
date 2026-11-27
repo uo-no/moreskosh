@@ -1,0 +1,80 @@
+{
+ "lemma": "ξένος",
+ "lemmaId": "grc:G3581",
+ "strong": "G3581",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "よそ者／旅人／寄留者",
+   "label_en": "stranger / traveller / sojourner",
+   "label_es": "extraño / forastero / peregrino",
+   "label_sv": "främling / resande / gäst",
+   "def": "よそ者、旅人、異国人、寄留者。『旅人であったときに宿を貸し』『他国人でもなく』『この地上では旅人』『アテネ人も外国人も』。",
+   "def_en": "An outsider, traveller, foreigner, sojourner: “I was a stranger and you welcomed me”, “no longer strangers”, “strangers on the earth”, “Athenians and foreigners”.",
+   "def_es": "Forastero, viajero, extranjero, transeúnte: «fui forastero y me recogisteis», «ya no sois extranjeros», «peregrinos sobre la tierra», «los atenienses y los extranjeros».",
+   "def_sv": "En utomstående, resande, utlänning: ”jag var främling och ni tog emot mig”, ”inte längre främlingar”, ”främlingar på jorden”, ”atenare och främlingar”.",
+   "layers": {
+    "nt": 10,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "マタイ25:35・25:38・25:43・25:44・27:7、Ⅲヨハネ5、使徒17:21、エペソ2:12・2:19、ヘブル11:13。LXX 知恵19:14、教父（5、18.1.1）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "客をもてなす主人",
+   "label_en": "host",
+   "label_es": "hospedador",
+   "label_sv": "värd",
+   "def": "客をもてなす主人。『わたしと全教会の主人であるガイオ』。",
+   "def_en": "One who entertains guests: “Gaius, who is host to me and to the whole church”.",
+   "def_es": "El que acoge huéspedes: «Gayo, hospedador mío y de toda la iglesia».",
+   "def_sv": "Den som tar emot gäster: ”Gaius, som är värd för mig och hela församlingen”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ローマ16:23 の1例のみ。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "見慣れない／異国の（形容）",
+   "label_en": "strange / foreign (adjective)",
+   "label_es": "extraño / extranjero (adjetivo)",
+   "label_sv": "främmande (adjektiv)",
+   "def": "見慣れない、異質な、外国の。『異国の神々』『さまざまな異なった教え』『火のような試練を不思議に思うな』。",
+   "def_en": "Unfamiliar, alien, foreign: “foreign gods”, “diverse and strange teachings”, “do not be surprised at the fiery trial as something strange”.",
+   "def_es": "Desconocido, ajeno, de fuera: «nuevos dioses», «doctrinas diversas y extrañas», «no os sorprendáis del fuego de prueba como de algo extraño».",
+   "def_sv": "Ovan, avvikande, utländsk: ”främmande gudar”, ”alla slags främmande läror”, ”förvåna er inte över eldprovet som något främmande”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒17:18、ヘブル13:9、Ⅰペテロ4:12。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40025035011": "1",
+  "n40025038005": "1",
+  "n40025043001": "1",
+  "n40025044014": "1",
+  "n40027007014": "1",
+  "n44017018023": "3",
+  "n44017021007": "1",
+  "n45016023005": "2",
+  "n49002012014": "1",
+  "n49002019005": "1",
+  "n58011013019": "1",
+  "n58013009004": "3",
+  "n60004012013": "3",
+  "n64001005012": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（人／主人／形容）による。"
+}

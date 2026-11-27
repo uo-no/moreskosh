@@ -1,0 +1,59 @@
+{
+ "lemma": "μονογενής",
+ "lemmaId": "grc:G3439",
+ "strong": "G3439",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "ひとり子（子について）",
+   "label_en": "only child (of a child)",
+   "label_es": "hijo único (de un hijo)",
+   "label_sv": "enda barn (om ett barn)",
+   "def": "ただひとりの子（息子・娘）。『ひとり息子』『ひとり娘』『ひとり子イサクをささげ』『ひとり子で、しかも死んだ』『ひとり子で、霊につかれた』。",
+   "def_en": "One's one and only child (son or daughter): “an only son”, “an only daughter”, “offered up his only son Isaac”, “the only son who had died”, “an only child possessed by a spirit”.",
+   "def_es": "El único hijo o hija: «hijo único», «hija única», «ofrecía a su unigénito Isaac», «un difunto, hijo único», «mi único hijo, tomado por un espíritu».",
+   "def_sv": "Det enda barnet (son eller dotter): ”enda sonen”, ”enda dottern”, ”bar fram sin ende son Isak”, ”den döde var enda sonen”, ”mitt enda barn, ansatt av en ande”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ルカ7:12・8:42・9:38、ヘブル11:17。LXX 士師記11:34・詩篇21:20・トビト3:15、教父（25.2）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "ひとり子（キリストについて）",
+   "label_en": "the only Son (of Christ)",
+   "label_es": "el Unigénito (Cristo)",
+   "label_sv": "den ende Sonen (om Kristus)",
+   "def": "キリストを指す『ひとり子』。『父のひとり子としての栄光』『父のふところにおられるひとり子の神』『ひとり子をお与えになった』『ひとり子の名を信じていない』『ひとり子を世に遣わされた』。",
+   "def_en": "The “only Son”, referring to Christ: “glory as of the only Son from the Father”, “the only God, who is at the Father's side”, “he gave his only Son”, “has not believed in the name of the only Son”, “sent his only Son into the world”.",
+   "def_es": "El «Unigénito», referido a Cristo: «gloria como del unigénito del Padre», «el unigénito Dios, que está en el seno del Padre», «ha dado a su Hijo unigénito», «no ha creído en el nombre del unigénito Hijo», «envió a su Hijo unigénito al mundo».",
+   "def_sv": "”Den ende Sonen” om Kristus: ”en härlighet som den ende Sonen får av Fadern”, ”den ende Sonen, själv Gud, som är nära Fadern”, ”gav sin ende Son”, ”inte trott på Guds ende Sons namn”, ”sände sin ende Son till världen”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "ヨハネ1:14・1:18・3:16・3:18、Ⅰヨハネ4:9。教父（10）に並行。LXX の代表例では確認していない。『ひとり子』か『唯一の（独自の）』かの訳し分けは付さない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42007012012": "1",
+  "n42008042003": "1",
+  "n42009038018": "1",
+  "n43001014017": "2",
+  "n43001018005": "2",
+  "n43003016012": "2",
+  "n43003018020": "2",
+  "n58011017009": "1",
+  "n62004009015": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（子一般／キリストについて）による。",
+ "note": "BDAG 最終パス（2026-11-26）で照合済み：BDAG の分け方（類の中で唯一／関係の中で唯一＝ひとり子・キリスト）とも当方の2分は整合し、このまま確定する。"
+}
