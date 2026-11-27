@@ -1,0 +1,52 @@
+{
+ "lemma": "δυνάστης",
+ "lemmaId": "grc:G1413",
+ "strong": "G1413",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "権力者・支配者",
+   "label_en": "ruler, potentate",
+   "label_es": "poderoso, soberano",
+   "label_sv": "makthavare, härskare",
+   "def": "権力者、支配者。『ただひとりの祝福された主権者』『権力ある者を王座から引きおろし』。",
+   "def_en": "One who holds power, a ruler: “the only blessed Sovereign”, “brought down the mighty from their thrones”.",
+   "def_es": "El que tiene poder, gobernante: «el bienaventurado y único Soberano», «quitó de los tronos a los poderosos».",
+   "def_sv": "En maktägande, en härskare: ”den salige, ende härskaren”, ”störtat härskare från deras troner”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "テモテ第一6:15、ルカ1:52。LXX に並行。教父の用例なし。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "高官",
+   "label_en": "high official",
+   "label_es": "alto funcionario",
+   "label_sv": "hög ämbetsman",
+   "def": "高官、宮廷の役人。『エチオピヤの女王に仕える高官』。",
+   "def_en": "A high official, a court officer: “an official of the queen of Ethiopia”.",
+   "def_es": "Dignatario, ministro de la corte: «un alto funcionario de la reina de los etíopes».",
+   "def_sv": "Hovman, hög tjänsteman: ”en hög ämbetsman hos Etiopiens drottning”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒8:27。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42001052002": "1",
+  "n44008027009": "2",
+  "n54006015009": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（権力者／高官）による。"
+}

@@ -1,0 +1,60 @@
+{
+ "lemma": "δόλος",
+ "lemmaId": "grc:G1388",
+ "strong": "G1388",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "偽り／欺き",
+   "label_en": "deceit / guile",
+   "label_es": "engaño / dolo",
+   "label_sv": "svek / falskhet",
+   "def": "偽り、欺き、ずる賢さ。『あらゆる悪意と偽りを捨てて』『その口に偽りは見いだされなかった』『舌を悪から、唇を偽りから』『惑わしや下心からでなく』『ずる賢くあなたがたをだました』『悪賢さに満ちた者』。",
+   "def_en": "Falsehood, deception, craftiness: “put away all malice and all deceit”, “no deceit was found in his mouth”, “keep his tongue from evil and his lips from deceit”, “not from error or ulterior motive”, “I took you by guile”, “full of all deceit”.",
+   "def_es": "Falsedad, engaño, astucia: «desechando toda malicia y todo engaño», «ni se halló engaño en su boca», «refrene su lengua de mal y sus labios no hablen engaño», «no procedió de error ni de engaño», «os prendí por engaño», «lleno de todo engaño».",
+   "def_sv": "Falskhet, bedrägeri, list: ”lägg bort all ondska och allt svek”, ”inget svek fanns i hans mun”, ”hålla tungan från ont och läpparna från svek”, ”inte av villfarelse eller baktankar”, ”fångade er med list”, ”full av allt slags falskhet”.",
+   "layers": {
+    "nt": 9,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰペテロ2:1・2:22・3:10、Ⅰテサ2:3、Ⅱコリ12:16、使徒13:10、ヨハネ1:47、マルコ7:22、ローマ1:29。LXX 詩篇51:4・シラ、教父（16.10、20.1）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "計略（ひそかな手段）",
+   "label_en": "stratagem (secret means)",
+   "label_es": "ardid (medio secreto)",
+   "label_sv": "list (hemligt medel)",
+   "def": "ひそかな計略、策略。『計略を用いてイエスを捕らえて殺そうと』。",
+   "def_en": "A secret scheme, a ruse: “how to arrest Jesus by stealth and kill him”.",
+   "def_es": "Plan oculto, estratagema: «cómo prender con engaño a Jesús y matarle».",
+   "def_sv": "En hemlig plan, ett knep: ”hur de med list skulle gripa Jesus och döda honom”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マタイ26:4、マルコ14:1。語義1との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40026004006": "2",
+  "n41007022004": "1",
+  "n41014001021": "2",
+  "n43001047018": "1",
+  "n44013010005": "1",
+  "n45001029011": "1",
+  "n47012016010": "1",
+  "n52002003013": "1",
+  "n60002001007": "1",
+  "n60002022007": "1",
+  "n60003010020": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（偽り／計略）による。"
+}

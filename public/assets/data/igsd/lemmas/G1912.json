@@ -1,0 +1,52 @@
+{
+ "lemma": "ἐπιβαρέω",
+ "lemmaId": "grc:G1912",
+ "strong": "G1912",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "重荷になる",
+   "label_en": "to be a burden",
+   "label_es": "ser gravoso",
+   "label_sv": "att ligga till last",
+   "def": "重荷になる、負担をかける。『だれにも負担をかけまいとして』『あなたがたのだれにも負担をかけまいと』。",
+   "def_en": "To weigh upon, to lay a burden on: “so as not to burden anyone”, “so as not to be a burden to any of you”.",
+   "def_es": "Ser una carga, imponer peso: «para no ser gravosos a ninguno», «para no ser gravosos a ninguno de vosotros».",
+   "def_sv": "Att vara en börda, att betunga: ”för att inte ligga någon till last”, ”för att inte bli en börda för någon av er”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "テサロニケ第一2:9、テサロニケ第二3:8。語義2との境界は連続的。LXX・教父の用例なし。"
+  },
+  {
+   "id": "2",
+   "label": "言い過ぎる・重く負わせる（解釈が分かれる）",
+   "label_en": "to overstate, to bear too hard (disputed)",
+   "label_es": "exagerar, cargar demasiado (discutido)",
+   "label_sv": "att säga för mycket, att lägga för tung börda (omtvistat)",
+   "def": "『あなたがたすべてに言い過ぎないようにするため』（ἐπιβαρῶ）。「負担をかける」か「言い過ぎる」かの読みは決定しない。",
+   "def_en": "“So as not to say too much to all of you” (ἐπιβαρῶ); whether the reading is ‘to be a burden’ or ‘to say too much’ is not decided.",
+   "def_es": "«Para no exagerar con todos vosotros» (ἐπιβαρῶ); no se decide si la lectura es “ser gravoso” o “exagerar”.",
+   "def_sv": "”För att inte säga för mycket till er alla” (ἐπιβαρῶ); om läsningen är ’att betunga’ eller ’att överdriva’ avgörs inte.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "コリント第二2:5。語義1との境界は連続的。LXX・教父の用例なし。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n47002005013": "2",
+  "n52002009017": "1",
+  "n53003008019": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "LXX・教父の用例なし。語義区分は用法（重荷になる／コリント第二2:5）による。コリント第二2:5 は決定しない。"
+}

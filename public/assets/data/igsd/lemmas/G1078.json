@@ -1,0 +1,71 @@
+{
+ "lemma": "γένεσις",
+ "lemmaId": "grc:G1078",
+ "strong": "G1078",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "誕生",
+   "label_en": "birth",
+   "label_es": "nacimiento",
+   "label_sv": "födelse",
+   "def": "生まれること、誕生。『その誕生を喜ぶ』『イエス・キリストの誕生の次第は』。",
+   "def_en": "Being born; birth: “will rejoice at his birth”, “the birth of Jesus Christ took place in this way”.",
+   "def_es": "El nacer; nacimiento: «se regocijarán de su nacimiento», «el nacimiento de Jesucristo fue así».",
+   "def_sv": "Att födas; födelse: ”skall glädjas över hans födelse”, ”med Jesu Kristi födelse gick det så till”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ルカ1:14、マタイ1:18。語義2・3との境界は連続的。LXX の代表例は系図の用法で、この語義としては確認していない。教父の用例なし。"
+  },
+  {
+   "id": "2",
+   "label": "系図・起源",
+   "label_en": "genealogy, origin",
+   "label_es": "genealogía, origen",
+   "label_sv": "släkttavla, ursprung",
+   "def": "系図、由来。『アブラハムの子、ダビデの子、イエス・キリストの系図』。",
+   "def_en": "A genealogy, a line of descent: “the genealogy of Jesus Christ, son of David, son of Abraham”.",
+   "def_es": "Linaje, procedencia: «libro de la genealogía de Jesucristo, hijo de David, hijo de Abraham».",
+   "def_sv": "Härstamning, släktregister: ”Jesu Kristi, Davids sons och Abrahams sons, släkttavla”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マタイ1:1。LXX（「これはノアの系図」型）に並行。教父の用例なし。語義1との境界は連続的。"
+  },
+  {
+   "id": "3",
+   "label": "生まれながらの・生の巡り",
+   "label_en": "natural, cycle of life",
+   "label_es": "natural, curso de la vida",
+   "label_sv": "naturlig, livets kretslopp",
+   "def": "生まれつきの（顔）、生命の車輪（巡り）。『生まれつきの顔』『生存の車輪を燃やし』。",
+   "def_en": "The face one was born with; the wheel (course) of life: “his natural face”, “setting on fire the wheel of life”.",
+   "def_es": "El rostro con que se nació; la rueda (el curso) de la existencia: «su rostro natural», «inflama la rueda de la creación».",
+   "def_sv": "Det medfödda ansiktet; tillvarons hjul (kretslopp): ”sitt eget ansikte som det är av födseln”, ”sätter livets hjul i brand”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヤコブ1:23・3:6。解釈（生まれつき／生の巡り）は決定しない。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40001001002": "2",
+  "n40001018006": "1",
+  "n42001014011": "1",
+  "n59001023017": "3",
+  "n59003006026": "3"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（誕生／系図／ヤコブ書の用法）による。"
+}

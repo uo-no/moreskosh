@@ -1,0 +1,88 @@
+{
+ "lemma": "καθεύδω",
+ "lemmaId": "grc:G2518",
+ "strong": "G2518",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "眠る（睡眠）",
+   "label_en": "to sleep (literal sleep)",
+   "label_es": "dormir (sueño)",
+   "label_sv": "att sova (sömn)",
+   "def": "睡眠をとる、眠っている。舟の中のイエス、種を蒔いた者、ゲッセマネの弟子たち、愚かなおとめたち。",
+   "def_en": "To take sleep, to be asleep: Jesus in the boat, the man who sowed seed, the disciples in Gethsemane, the foolish virgins.",
+   "def_es": "Dormir, estar dormido: Jesús en la barca, el hombre que sembró la semilla, los discípulos en Getsemaní, las vírgenes insensatas.",
+   "def_sv": "Att sova: Jesus i båten, mannen som sådde säden, lärjungarna i Getsemane, de oförståndiga jungfrurna.",
+   "layers": {
+    "nt": 16,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マタイ8:24・13:25・25:5・26:40・43・45、マルコ4:27・38・13:36・14:37（2回）・40・41、ルカ22:46、Ⅰテサ5:7（夜に眠る者は夜に眠る。同一節に2回）。Ⅰテサ5:7 は字義と比喩の両読みが可能（5:6 の比喩の根拠）。LXX 創世記28:13・サムエル記に並行。教父の代表例は無い。"
+  },
+  {
+   "id": "2",
+   "label": "眠っている（死を婉曲に）",
+   "label_en": "to be asleep (euphemism for death)",
+   "label_es": "estar dormido (eufemismo por la muerte)",
+   "label_sv": "att sova (försköning för döden)",
+   "def": "死んだ者を『眠っている』と言う。",
+   "def_en": "The dead are said to be “sleeping”.",
+   "def_es": "Se dice de los muertos que «duermen».",
+   "def_sv": "Man säger att de döda ”sover”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ9:24・マルコ5:39・ルカ8:52（『子どもは死んだのではない、眠っているのだ』）、Ⅰテサ5:10（目覚めていても眠っていても＝生きていても死んでも）。語義1との境界は連続的。Abbott は詩篇87:5・ダニエル12:2 の用法を挙げるが、パケットの代表例では確認できなかった。"
+  },
+  {
+   "id": "3",
+   "label": "（霊的に）眠る＝無自覚・怠惰でいる",
+   "label_en": "to sleep (spiritually) = be unaware or idle",
+   "label_es": "dormir (espiritualmente) = estar inconsciente o negligente",
+   "label_sv": "att sova (andligt) = vara omedveten eller lat",
+   "def": "目を覚ますべきときに無自覚・怠慢でいることを、眠りにたとえる。",
+   "def_en": "Being unaware or negligent when one ought to be awake, likened to sleep.",
+   "def_es": "La inconsciencia o la negligencia cuando se debería estar despierto, comparadas con el sueño.",
+   "def_sv": "Att vara omedveten eller försumlig när man borde vara vaken, liknat vid sömn.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "Ⅰテサ5:6（ほかの人のように眠っていないで）、エペソ5:14（眠っている者よ、起きよ）。語義1・2 との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40008024018": "1",
+  "n40009024009": "2",
+  "n40013025004": "1",
+  "n40025005008": "1",
+  "n40026040009": "1",
+  "n40026043006": "1",
+  "n40026045009": "1",
+  "n41004027002": "1",
+  "n41004038010": "1",
+  "n41005039014": "2",
+  "n41013036006": "1",
+  "n41014037006": "1",
+  "n41014037012": "1",
+  "n41014040006": "1",
+  "n41014041008": "1",
+  "n42008052016": "2",
+  "n42022046005": "1",
+  "n49005014011": "3",
+  "n52005006004": "3",
+  "n52005007003": "1",
+  "n52005007005": "1",
+  "n52005010009": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "教父の用例は0件（パケット）。新約に無い用法は代表例の範囲では見当たらない。"
+}

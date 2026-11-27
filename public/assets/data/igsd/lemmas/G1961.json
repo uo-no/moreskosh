@@ -1,0 +1,65 @@
+{
+ "lemma": "ἐπιμένω",
+ "lemmaId": "grc:G1961",
+ "strong": "G1961",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "とどまる／滞在する（場所・期間）",
+   "label_en": "to stay / remain (place, period)",
+   "label_es": "quedarse / permanecer (lugar, tiempo)",
+   "label_sv": "att stanna / dröja kvar (plats, tid)",
+   "def": "ある場所・期間にとどまる、滞在する。『そこに七日間とどまった』『エペソにとどまる』。",
+   "def_en": "To stay in a place or for a period: “stayed there seven days”, “remain in Ephesus”.",
+   "def_es": "Permanecer en un lugar o por un tiempo: «nos quedamos allí siete días», «quedarse en Éfeso».",
+   "def_sv": "Att stanna på en plats eller en tid: ”stannade där i sju dagar”, ”stanna kvar i Efesus”.",
+   "layers": {
+    "nt": 9,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰコリ16:7・8、使徒10:48・21:4・21:10・28:12・28:14、ガラテヤ1:18、ピリピ1:24（肉にとどまる）。LXX 出エジプト記12:39（とどまる＝ぐずぐずする）、教父（ヘルマス）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "続ける／固執する（状態・行為）",
+   "label_en": "to continue / persist (state, action)",
+   "label_es": "perseverar / persistir (estado, acción)",
+   "label_sv": "att hålla fast / fortsätta (tillstånd, handling)",
+   "def": "ある状態・行為・立場にとどまり続ける。『この事を続けなさい』『信仰にとどまる』『罪にとどまる』。",
+   "def_en": "To go on remaining in a state, action, or position: “persist in these things”, “continue in the faith”, “remain in sin”.",
+   "def_es": "Seguir en un estado, conducta o postura: «persevera en estas cosas», «permanecer en la fe», «perseverar en el pecado».",
+   "def_sv": "Att förbli i ett tillstånd, en handling eller hållning: ”håll fast vid detta”, ”förbli i tron”, ”fortsätta i synden”.",
+   "layers": {
+    "nt": 7,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "Ⅰテモ4:16、使徒12:16（叩き続けた）、コロサイ1:23、ヨハネ8:7（問い続けた）、ローマ11:22・11:23・6:1。教父（ヘルマス23.5.7、10.1）に並行。語義1との境界は連続的。LXX の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n43008007003": "2",
+  "n44010048013": "1",
+  "n44012016004": "2",
+  "n44021004005": "1",
+  "n44021010001": "1",
+  "n44028012005": "1",
+  "n44028014007": "1",
+  "n45006001004": "2",
+  "n45011022018": "2",
+  "n45011023005": "2",
+  "n46016007013": "1",
+  "n46016008001": "1",
+  "n48001018011": "1",
+  "n50001024003": "1",
+  "n51001023003": "2",
+  "n54004016006": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "LXX の代表例は1件のみで語義1に並行。"
+}

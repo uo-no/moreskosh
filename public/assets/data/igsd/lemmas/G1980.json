@@ -1,0 +1,77 @@
+{
+ "lemma": "ἐπισκέπτομαι",
+ "lemmaId": "grc:G1980",
+ "strong": "G1980",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "訪ねる／見舞う（人を）",
+   "label_en": "to visit (a person)",
+   "label_es": "visitar (a personas)",
+   "label_sv": "att besöka / se till (människor)",
+   "def": "訪ねる、見舞う、様子を見に行く。『兄弟たちを訪ねようとした』『身寄りのない者を見舞う』『病気のとき見舞ってくれた』『牢にいたとき訪ねてくれた』『巡回して』。",
+   "def_en": "To visit, to call on, to go and see how someone is: “wanted to visit the brothers”, “visit orphans”, “I was sick and you visited me”, “in prison and you came to me”, “going round”.",
+   "def_es": "Visitar, ir a ver cómo está alguien: «visitemos a los hermanos», «visitar a los huérfanos», «enfermo, y me visitasteis», «en la cárcel, y vinisteis a mí», «recorriendo».",
+   "def_sv": "Att besöka, hälsa på och se hur någon har det: ”besöka bröderna”, ”ta sig an faderlösa”, ”jag var sjuk och ni såg till mig”, ”i fängelse och ni besökte mig”, ”resa runt”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒7:23・15:36、ヤコブ1:27、マタイ25:36・25:43。LXX 出エジプト記3:16 に並行。教父の用例は無い。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "顧みる／訪れる（神が）",
+   "label_en": "to look upon / visit (of God)",
+   "label_es": "cuidar de / visitar (Dios)",
+   "label_sv": "att se till / besöka (om Gud)",
+   "def": "神が人・民を顧みる、訪れる。『神が異邦人を顧みて』『人の子が何者だというので、あなたは顧みるのか』『主はその民を顧みて』『日の出が上から訪れ』『神はその民を顧みてくださった』。",
+   "def_en": "God attends to, visits a person or people: “God visited the Gentiles”, “what is the son of man that you care for him?”, “the Lord has visited his people”, “the sunrise shall visit us from on high”, “God has visited his people”.",
+   "def_es": "Dios atiende, visita a una persona o pueblo: «Dios visitó a los gentiles», «¿qué es el hijo del hombre para que cuides de él?», «el Señor ha visitado a su pueblo», «nos visitó la aurora de lo alto», «Dios ha visitado a su pueblo».",
+   "def_sv": "Gud tar sig an och besöker en människa eller ett folk: ”Gud såg till att vinna ett folk bland hedningarna”, ”vad är en människoson att du tar dig an honom?”, ”Herren har besökt sitt folk”, ”en soluppgång från höjden ska besöka oss”, ”Gud har sett till sitt folk”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒15:14、ヘブル2:6、ルカ1:68・1:78・7:16。LXX 出エジプト記3:16 に並行。教父の用例は無い。"
+  },
+  {
+   "id": "3",
+   "label": "選び出す／探す",
+   "label_en": "to pick out / look for",
+   "label_es": "escoger / buscar",
+   "label_sv": "att utse / söka ut",
+   "def": "選ぶ、よく調べて見つける。『あなたがたの中から七人を選びなさい』（使徒6:3）。",
+   "def_en": "To choose, to find by careful inspection: “pick out from among you seven men” (Acts 6:3).",
+   "def_es": "Elegir, encontrar tras examinar: «buscad de entre vosotros a siete varones» (Hch 6:3).",
+   "def_sv": "Att välja och finna efter noggrann prövning: ”utse bland er sju män” (Apg 6:3).",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒6:3 の1例のみ。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40025036007": "1",
+  "n40025043018": "1",
+  "n42001068008": "2",
+  "n42001078008": "2",
+  "n42007016018": "2",
+  "n44006003001": "3",
+  "n44007023012": "1",
+  "n44015014007": "2",
+  "n44015036011": "1",
+  "n58002006016": "2",
+  "n59001027012": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（訪問／神の顧み／選ぶ）による。教父の用例は無い。"
+}

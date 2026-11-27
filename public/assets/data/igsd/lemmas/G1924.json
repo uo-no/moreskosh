@@ -1,0 +1,54 @@
+{
+ "lemma": "ἐπιγράφω",
+ "lemmaId": "grc:G1924",
+ "strong": "G1924",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "銘を刻む・書き記す（物に）",
+   "label_en": "to inscribe",
+   "label_es": "inscribir, escribir sobre (un objeto)",
+   "label_sv": "att skriva på, att inrista",
+   "def": "物に銘や文字を記す。『「知られていない神に」と刻まれた祭壇』『罪状書き』『その上に十二の門の名が書かれて』。",
+   "def_en": "To mark names or letters on an object: “an altar inscribed ‘To an unknown god’”, “the inscription of the charge”, “the names of the twelve gates written on it”.",
+   "def_es": "Grabar nombres o letras en algo: «un altar con esta inscripción: Al Dios no conocido», «el título de la causa», «en las puertas, doce nombres inscritos».",
+   "def_sv": "Att förse ett föremål med namn eller skrift: ”ett altare med inskriften ’Åt en okänd gud’”, ”anklagelseskriften”, ”namnen på de tolv portarna skrivna på det”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒17:23、マルコ15:26、黙示録21:12。LXX に並行。教父の代表例では確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "心に書き記す",
+   "label_en": "to write on the heart",
+   "label_es": "escribir en el corazón",
+   "label_sv": "att skriva i hjärtat",
+   "def": "律法を心に書き記す。『彼らの心に書きつける』『彼らの思いに書きつける』。",
+   "def_en": "To write the law on the heart: “I will write them on their hearts”, “I will write them on their minds”.",
+   "def_es": "Escribir la ley en el corazón: «las escribiré sobre su corazón», «las inscribiré en su mente».",
+   "def_sv": "Att skriva lagen i hjärtat: ”jag skall skriva dem i deras hjärtan”, ”jag skall skriva in dem i deras förstånd”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヘブル10:16・8:10。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n41015026008": "1",
+  "n44017023013": "1",
+  "n58008010027": "2",
+  "n58010016025": "2",
+  "n66021012017": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（物への銘／心に書き記す）による。"
+}

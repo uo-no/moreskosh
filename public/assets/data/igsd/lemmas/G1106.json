@@ -1,0 +1,75 @@
+{
+ "lemma": "γνώμη",
+ "lemmaId": "grc:G1106",
+ "strong": "G1106",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "意見／判断／勧め",
+   "label_en": "opinion / judgment / advice",
+   "label_es": "opinión / juicio / consejo",
+   "label_sv": "mening / omdöme / råd",
+   "def": "意見、判断、勧め、考え。『同じ思い、同じ判断で』『わたしの意見を述べる』『わたしの考えでは』『あなたがたに意見を述べる』。",
+   "def_en": "Opinion, judgment, advice, view: “in the same mind and the same judgment”, “I give my judgment”, “in my judgment”, “I give you my opinion”.",
+   "def_es": "Parecer, juicio, consejo, idea: «en una misma mente y un mismo parecer», «doy mi parecer», «a mi juicio», «os doy mi consejo».",
+   "def_sv": "Åsikt, omdöme, råd, tanke: ”eniga i tanke och mening”, ”jag ger min mening”, ”enligt min mening”, ”jag ger er ett råd”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰコリ1:10・7:25・7:40、Ⅱコリ8:10。LXX ダニエル6:12・ネヘミヤ、教父（4.8.3、21.2）に並行。語義2・3との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "決定／同意",
+   "label_en": "decision / consent",
+   "label_es": "decisión / consentimiento",
+   "label_sv": "beslut / samtycke",
+   "def": "決定、同意。『マケドニヤを通って帰ることに決めた』『あなたの同意なしには何事もしたくなかった』。",
+   "def_en": "Decision, consent: “decided to return through Macedonia”, “I preferred to do nothing without your consent”.",
+   "def_es": "Resolución, consentimiento: «tomó la decisión de volver por Macedonia», «nada quise hacer sin tu consentimiento».",
+   "def_sv": "Beslut och samtycke: ”beslöt att resa tillbaka genom Makedonien”, ”jag ville inte göra något utan ditt samtycke”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒20:3、ピレモン14。LXX・教父に並行。"
+  },
+  {
+   "id": "3",
+   "label": "目的／意向",
+   "label_en": "purpose / intention",
+   "label_es": "propósito / designio",
+   "label_sv": "syfte / avsikt",
+   "def": "目的、意向、御心。『一つの目的を持ち』『同じ思いを抱き、獣に自分たちの力を与える』『神は彼らの心に御旨を行う思いを与えられた』。",
+   "def_en": "Purpose, intention, will: “have one purpose”, “are of one mind and give their power to the beast”, “God has put it into their hearts to carry out his purpose”.",
+   "def_es": "Propósito, intención, voluntad: «tienen un mismo propósito», «entregan su poder a la bestia», «Dios ha puesto en sus corazones el ejecutar lo que él quiso».",
+   "def_sv": "Mål, avsikt, vilja: ”har ett och samma syfte”, ”eniga om att ge sin makt åt vilddjuret”, ”Gud har gett dem i sinnet att utföra hans vilja”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "黙示録17:13・17:17（2回）。LXX・教父に並行。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n44020003017": "2",
+  "n46001010035": "1",
+  "n46007025009": "1",
+  "n46007040010": "1",
+  "n47008010002": "1",
+  "n57001014005": "2",
+  "n66017013003": "3",
+  "n66017017011": "3",
+  "n66017017016": "3"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法による。"
+}

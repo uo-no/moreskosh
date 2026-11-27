@@ -1,0 +1,71 @@
+{
+ "lemma": "εἶδος",
+ "lemmaId": "grc:G1491",
+ "strong": "G1491",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "姿・形",
+   "label_en": "form, appearance",
+   "label_es": "forma, aspecto",
+   "label_sv": "gestalt, utseende",
+   "def": "姿、形、外見。『鳩のような形をして』『みかたが変わり』『その形を見たこともない』。",
+   "def_en": "Form, figure, outward appearance: “in bodily form like a dove”, “the appearance of his face changed”, “you have never seen his form”.",
+   "def_es": "Forma, figura, apariencia exterior: «en forma corporal, como paloma», «la apariencia de su rostro se hizo otra», «nunca habéis visto su aspecto».",
+   "def_sv": "Form, gestalt, yttre: ”i en duvas gestalt”, ”hans ansikte förvandlades”, ”ni har aldrig sett hans gestalt”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ルカ3:22・9:29、ヨハネ5:37。LXX、教父に並行。語義2・3との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "種類",
+   "label_en": "kind",
+   "label_es": "especie, clase",
+   "label_sv": "slag",
+   "def": "種類、様態。『あらゆる悪い種類のものを避けなさい』。",
+   "def_en": "A kind or sort: “abstain from every kind of evil”.",
+   "def_es": "Clase, género: «absteneos de toda especie de mal».",
+   "def_sv": "Slag, art: ”avhåll er från allt slags ont”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "テサロニケ第一5:22。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "見えるところ",
+   "label_en": "sight",
+   "label_es": "vista",
+   "label_sv": "det synliga",
+   "def": "目に見えるところ。『見えるところによらず、信仰によって歩いている』。",
+   "def_en": "What is seen with the eyes: “we walk by faith, not by what is seen”.",
+   "def_es": "Lo que se ve con los ojos: «por fe andamos, no por vista».",
+   "def_sv": "Det man ser med ögonen: ”vi lever i tro, utan att se”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "コリント第二5:7。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42003022008": "1",
+  "n42009029008": "1",
+  "n43005037016": "1",
+  "n47005007007": "3",
+  "n52005022003": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（姿・形／種類／見えるところ）による。"
+}

@@ -1,0 +1,58 @@
+{
+ "lemma": "ἐπιδίδωμι",
+ "lemmaId": "grc:G1929",
+ "strong": "G1929",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "手渡す／与える",
+   "label_en": "to hand over / give",
+   "label_es": "entregar / dar",
+   "label_sv": "att överlämna / räcka",
+   "def": "手渡す、与える。『手紙を手渡した』『石を与えるだろうか』『さそりを与えるだろうか』『パンを裂いて彼らに与えられた』『焼いた魚の一切れを差し出した』『預言者イザヤの巻物が渡された』。",
+   "def_en": "To hand over, to give: “delivered the letter”, “will give him a stone?”, “will give him a scorpion?”, “broke the bread and gave it to them”, “gave him a piece of broiled fish”, “the scroll of the prophet Isaiah was given to him”.",
+   "def_es": "Poner en manos, dar: «entregaron la carta», «¿le dará una piedra?», «¿le dará un escorpión?», «partió el pan y les dio», «le dieron parte de un pez asado», «se le dio el libro del profeta Isaías».",
+   "def_sv": "Att räcka över, ge: ”överlämnade brevet”, ”ska han ge honom en sten?”, ”ska han ge honom en skorpion?”, ”bröt brödet och gav åt dem”, ”räckte honom en bit stekt fisk”, ”man räckte honom profeten Jesajas bokrulle”.",
+   "layers": {
+    "nt": 8,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒15:30、ルカ11:11・11:12・24:30・24:42・4:17、マタイ7:9・7:10。LXX Ⅱマカバイ11:15・シラ38:30、教父（25.1.8、14.2）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "身を任せる（風に）",
+   "label_en": "to give way (to the wind)",
+   "label_es": "abandonarse (al viento)",
+   "label_sv": "att ge efter (för vinden)",
+   "def": "風に身を任せる、流されるままにする。『風に逆らえず、流されるままにした』（使徒27:15）。",
+   "def_en": "To yield to the wind, to let oneself be carried: “unable to face the wind, we gave way and were driven along” (Acts 27:15).",
+   "def_es": "Entregarse al viento, dejarse llevar: «no pudiendo resistir al viento, nos abandonamos a él» (Hch 27:15).",
+   "def_sv": "Att ge sig hän åt vinden och låta sig drivas: ”kunde inte hålla upp mot vinden utan lät oss driva” (Apg 27:15).",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒27:15 の1例のみ。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40007009015": "1",
+  "n40007010007": "1",
+  "n42004017002": "1",
+  "n42011011016": "1",
+  "n42011012005": "1",
+  "n42024030015": "1",
+  "n42024042003": "1",
+  "n44015030012": "1",
+  "n44027015011": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法による。"
+}

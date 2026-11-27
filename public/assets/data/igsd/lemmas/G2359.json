@@ -1,0 +1,64 @@
+{
+ "lemma": "θρίξ",
+ "lemmaId": "grc:G2359",
+ "strong": "G2359",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "髪／頭の毛",
+   "label_en": "hair (of the head)",
+   "label_es": "cabello / pelo de la cabeza",
+   "label_sv": "hår (på huvudet)",
+   "def": "人の髪、頭髪。『髪の毛一本も』『髪の毛までも数えられている』『涙でぬらし髪の毛でぬぐい』『白い羊毛のように白い髪』。",
+   "def_en": "A person's hair: “not a hair”, “even the hairs are numbered”, “wet with tears and wiped with her hair”, “hair white like white wool”.",
+   "def_es": "El cabello de una persona: «ni un cabello», «aun los cabellos están contados», «regaba con lágrimas y enjugaba con sus cabellos», «cabellos blancos como blanca lana».",
+   "def_sv": "En människas hår: ”inte ett hårstrå”, ”till och med håren är räknade”, ”vätte med tårar och torkade med håret”, ”hår vitt som vit ull”.",
+   "layers": {
+    "nt": 12,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰペテロ3:3、使徒27:34、ヨハネ12:3・11:2、ルカ12:7・21:18・7:38・7:44、マタイ10:30・5:36、黙示録1:14・9:8（2回目）。LXX レビ記13:37、教父（4.2.1）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "毛（動物の）",
+   "label_en": "hair (of an animal)",
+   "label_es": "pelo (de animal)",
+   "label_sv": "hår (av djur)",
+   "def": "動物の毛。『らくだの毛衣』『らくだの毛の衣』。",
+   "def_en": "Animal hair: “a camel-hair garment”, “a garment of camel's hair”.",
+   "def_es": "Pelo de animal: «ropa de pelo de camello», «vestido de pelo de camello».",
+   "def_sv": "Djurhår: ”en kamelhårsdräkt”, ”en dräkt av kamelhår”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マタイ3:4、マルコ1:6、黙示録9:8（1回目：いなごの毛髪）。黙示録9:8 の1回目は『女の髪のような』の前半で、語義1との境界は連続的。LXX ダニエル4:33b などに並行。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40003004010": "2",
+  "n40005036011": "1",
+  "n40010030005": "1",
+  "n41001006006": "2",
+  "n42007038018": "1",
+  "n42007044034": "1",
+  "n42012007004": "1",
+  "n42021018002": "1",
+  "n43011002015": "1",
+  "n43012003018": "1",
+  "n44027034016": "1",
+  "n60003003007": "1",
+  "n66001014007": "1",
+  "n66009008003": "2",
+  "n66009008005": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は所有者（人／動物）による。"
+}

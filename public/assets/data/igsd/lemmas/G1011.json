@@ -1,0 +1,55 @@
+{
+ "lemma": "βουλεύομαι",
+ "lemmaId": "grc:G1011",
+ "strong": "G1011",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "決める・企てる",
+   "label_en": "to decide, to plot",
+   "label_es": "resolver, tramar",
+   "label_sv": "att besluta, att planera",
+   "def": "計画する、決める、企てる。『わたしは軽々しくこうしたのだろうか。あるいは、肉に従って計画するのか』『わたしの計画することは』『できれば岸に乗り上げようと決めた』『祭司長たちはラザロをも殺そうと相談した』『彼らはイエスを殺そうと企てた』。",
+   "def_en": "To plan, to decide, to scheme: “did I do this lightly? Or do I make my plans according to the flesh”, “what I plan”, “they decided to run the ship ashore if they could”, “the chief priests plotted to kill Lazarus as well”, “they plotted to kill Jesus”.",
+   "def_es": "Planear, decidir, maquinar: «¿acaso obré con ligereza? ¿O hago mis planes según la carne?», «lo que me propongo», «decidieron varar la nave, si podían», «los principales sacerdotes acordaron dar muerte también a Lázaro», «tramaron matar a Jesús».",
+   "def_sv": "Att planera, besluta, lägga råd: ”handlade jag då lättvindigt? Eller planerar jag på köttsligt vis?”, ”det jag planerar”, ”de beslöt att om möjligt sätta skeppet på land”, ”översteprästerna överlade om att döda också Lasarus”, ”de planerade att döda Jesus”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "コリント第二1:17（2回）、使徒27:39、ヨハネ12:10・11:53。LXX（23.8・2.41）、教父（1.1.8）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "熟慮する",
+   "label_en": "to deliberate",
+   "label_es": "deliberar",
+   "label_sv": "att överväga",
+   "def": "よく考える、思案する。『まず座って、…勝てるかどうかを考えないだろうか』。",
+   "def_en": "To consider carefully, to ponder: “will he not first sit down and consider … whether he is able to win”.",
+   "def_es": "Considerar con cuidado, reflexionar: «¿no se sienta primero a considerar … si puede vencer».",
+   "def_sv": "Att tänka noga igenom, att rådslå med sig själv: ”sätter han sig inte först ner och överväger … om han kan vinna”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ルカ14:31。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42014031013": "2",
+  "n43011053006": "1",
+  "n43012010001": "1",
+  "n44027039017": "1",
+  "n47001017011": "1",
+  "n47001017014": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（決める・企てる／熟慮する）による。"
+}

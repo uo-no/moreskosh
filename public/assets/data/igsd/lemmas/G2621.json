@@ -1,0 +1,61 @@
+{
+ "lemma": "κατάκειμαι",
+ "lemmaId": "grc:G2621",
+ "strong": "G2621",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "床に伏す／寝ている（病気で）",
+   "label_en": "to lie ill / be bedridden",
+   "label_es": "estar postrado (enfermo)",
+   "label_sv": "att ligga sjuk",
+   "def": "病気で床に伏している、横たわっている。『八年間、床に寝たきりの人』『五人の人が横たわっていた』『熱で寝ていた』『中風の人が寝ている』『ポプリオの父は熱病で床についていた』。",
+   "def_en": "To be confined to bed by illness, to lie: “a man who had been bedridden for eight years”, “a multitude of invalids lay there”, “lay sick with a fever”, “the paralytic was lying”, “the father of Publius lay sick with fever”.",
+   "def_es": "Guardar cama por enfermedad, yacer: «un hombre que hacía ocho años que estaba en cama», «yacía una multitud de enfermos», «estaba acostada con fiebre», «donde yacía el paralítico», «el padre de Publio estaba en cama con fiebre».",
+   "def_sv": "Att ligga till sängs av sjukdom: ”en man som legat till sängs i åtta år”, ”där låg en mängd sjuka”, ”låg i feber”, ”den lame låg”, ”Publius far låg sjuk i feber”.",
+   "layers": {
+    "nt": 7,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒28:8・9:33、ヨハネ5:3・5:6、ルカ5:25、マルコ1:30・2:4。LXX 箴言6:9・23:34・ユディト13:15 に並行。教父の代表例では確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "（食卓に）横になる／席につく",
+   "label_en": "to recline (at table)",
+   "label_es": "estar recostado (a la mesa)",
+   "label_sv": "att ligga till bords",
+   "def": "食卓に横になる、席につく。『偶像の宮で食卓についている』『大ぜいの取税人が席についていた』『イエスが食事の席についておられた』。",
+   "def_en": "To recline at a meal: “eating in an idol's temple”, “many tax collectors were reclining”, “Jesus was at table”.",
+   "def_es": "Estar a la mesa: «sentado a la mesa en un lugar de ídolos», «muchos publicanos estaban a la mesa», «Jesús estaba a la mesa».",
+   "def_sv": "Att vara till bords: ”ligger till bords i ett avgudatempel”, ”många tullindrivare låg till bords”, ”Jesus låg till bords”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "Ⅰコリ8:10、ルカ5:29・7:37、マルコ2:15・14:3。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n41001030005": "1",
+  "n41002004022": "1",
+  "n41002015003": "2",
+  "n41014003012": "2",
+  "n42005025009": "1",
+  "n42005029022": "2",
+  "n42007037013": "2",
+  "n43005003003": "1",
+  "n43005006005": "1",
+  "n44009033011": "1",
+  "n44028008011": "1",
+  "n46008010011": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（病床／食卓）による。"
+}

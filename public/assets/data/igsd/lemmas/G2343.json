@@ -1,0 +1,57 @@
+{
+ "lemma": "θησαυρίζω",
+ "lemmaId": "grc:G2343",
+ "strong": "G2343",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "蓄える・貯える",
+   "label_en": "to store up / lay up",
+   "label_es": "atesorar / acumular",
+   "label_sv": "att samla skatter / lägga undan",
+   "def": "財や物を蓄える、貯える。『自分のために宝を地上に積むな』『宝を天に積め』『週の初めに、収入に応じて貯えておき』『子のために貯えるべきで』『自分のために宝を積んでも』『終わりの日に宝を積んだ』。",
+   "def_en": "To store or lay up wealth or goods: “do not lay up for yourselves treasures on earth”, “lay up treasures in heaven”, “on the first day of the week put something aside as he may prosper”, “ought to save up for their children”, “lays up treasure for himself”, “you have laid up treasure in the last days”.",
+   "def_es": "Acumular y guardar bienes: «no os hagáis tesoros en la tierra», «haceos tesoros en el cielo», «cada primer día de la semana ponga aparte según haya prosperado», «deben atesorar para los hijos», «el que hace para sí tesoro», «habéis acumulado tesoros para los días postreros».",
+   "def_sv": "Att samla och spara ägodelar: ”samla inte skatter på jorden”, ”samla skatter i himlen”, ”var första veckodagen lägga undan efter vad man har”, ”bör spara åt barnen”, ”den som samlar skatter åt sig”, ”ni har samlat skatter i de sista dagarna”.",
+   "layers": {
+    "nt": 6,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "コリント第一16:1–2・コリント第二12:14、ヤコブ5:3、ルカ12:21、マタイ6:19・6:20。LXX（12.8）に並行。教父の代表例なし。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "積み立てる・取っておく（比喩・保留）",
+   "label_en": "to treasure up / reserve (figurative)",
+   "label_es": "atesorar / reservar (figurado)",
+   "label_sv": "att samla på sig / spara (bildligt)",
+   "def": "怒りを積む、火に取っておかれる。『かたくなな心で、神の怒りを自分のために積んでいる』『火に取っておかれ』。",
+   "def_en": "To heap up wrath, to be reserved for fire: “you are storing up wrath for yourself by your hard heart”, “being kept for fire”.",
+   "def_es": "Acumular ira, estar guardado para el fuego: «por tu dureza atesoras para ti mismo ira», «reservados para el fuego».",
+   "def_sv": "Att hopa vrede, att sparas åt elden: ”med ditt hårda hjärta samlar du vrede över dig själv”, ”sparas åt elden”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ローマ2:5（能動・比喩）、ペテロ第二3:7（受動）。LXX（16.27）に並行。教父の代表例なし。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40006019002": "1",
+  "n40006020001": "1",
+  "n42012021003": "1",
+  "n45002005009": "2",
+  "n46016002009": "1",
+  "n47012014026": "1",
+  "n59005003023": "1",
+  "n61003007011": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は対象（財物の蓄え／怒り・保留の比喩）による。"
+}

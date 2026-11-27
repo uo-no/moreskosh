@@ -1,0 +1,57 @@
+{
+ "lemma": "διασῴζω",
+ "lemmaId": "grc:G1295",
+ "strong": "G1295",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "無事に送り届ける／無事に逃れる",
+   "label_en": "to bring safely through / escape safely",
+   "label_es": "llevar a salvo / escapar sano y salvo",
+   "label_sv": "att föra i säkerhet / komma undan välbehållen",
+   "def": "無事に通す、危険から救い出す、無事に逃れる。『水を通って救われた』『パウロを無事に総督のもとに送り届け』『みな無事に陸に上がった』『海からは逃れたが』『パウロを救おうとして』『みな陸に上がって助かった』。",
+   "def_en": "To get through safely, to rescue from danger, to escape unharmed: “were saved through water”, “bring Paul safely to the governor”, “all were brought safely to land”, “although he has escaped from the sea”, “wishing to save Paul”, “all reached land safely”.",
+   "def_es": "Hacer pasar sin daño, librar del peligro, salvarse: «fueron salvadas por agua», «llevar a Pablo en salvo al gobernador», «todos se salvaron saliendo a tierra», «escapado del mar», «queriendo salvar a Pablo», «todos llegaron salvos a tierra».",
+   "def_sv": "Att föra oskadd igenom, rädda ur fara, klara sig: ”blev räddade genom vattnet”, ”föra Paulus välbehållen till ståthållaren”, ”alla kom välbehållna i land”, ”fast han räddats undan havet”, ”ville rädda Paulus”, ”alla kom oskadda i land”.",
+   "layers": {
+    "nt": 6,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰペテロ3:20、使徒23:24・28:1・28:4・27:43・27:44。LXX ヨシュア10:37・創世記、教父（12.5、8.2）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "いやす／助ける（病から）",
+   "label_en": "to heal / restore (from illness)",
+   "label_es": "sanar / salvar (de enfermedad)",
+   "label_sv": "att bota / rädda (från sjukdom)",
+   "def": "病から救う、いやす。『僕を救ってくれるようにと頼んで』『触れた者はみないやされた』。",
+   "def_en": "To save from illness, to heal: “asking him to come and heal his servant”, “as many as touched were made well”.",
+   "def_es": "Librar de la enfermedad, curar: «rogándole que viniese y sanase a su siervo», «todos los que lo tocaron quedaron sanos».",
+   "def_sv": "Att rädda från sjukdom, att bota: ”bad honom komma och rädda tjänaren”, ”alla som rörde vid den blev botade”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ルカ7:3、マタイ14:36。語義1との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40014036015": "2",
+  "n42007003016": "2",
+  "n44023024008": "1",
+  "n44027043005": "1",
+  "n44027044020": "1",
+  "n44028001002": "1",
+  "n44028004023": "1",
+  "n60003020021": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（無事に通す／いやす）による。"
+}

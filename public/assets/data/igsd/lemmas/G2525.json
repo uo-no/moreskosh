@@ -1,0 +1,104 @@
+{
+ "lemma": "καθίστημι",
+ "lemmaId": "grc:G2525",
+ "strong": "G2525",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "任命する／立てる（役目・地位に）",
+   "label_en": "to appoint / put in office",
+   "label_es": "nombrar / constituir (en un cargo)",
+   "label_sv": "att tillsätta / insätta (i en uppgift eller ställning)",
+   "def": "人を役職・地位・務めに任命する、立てる。『裁き人・支配者として誰があなたを立てたか』『大祭司は人の中から立てられる』。",
+   "def_en": "To appoint or set a person in an office, position, or task: “who made you a judge and ruler?”, “a high priest is appointed from among men”.",
+   "def_es": "Nombrar o constituir a una persona en un cargo, puesto o ministerio: «¿quién te ha puesto por juez y gobernante?», «el sumo sacerdote es constituido de entre los hombres».",
+   "def_sv": "Att utse eller insätta en människa i ett ämbete, en ställning eller en tjänst: ”vem har satt dig till domare och herre?”, ”en överstepräst tas ur människornas led och insätts”.",
+   "layers": {
+    "nt": 9,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒6:3・7:10・27・35、ルカ12:14、ヘブル5:1・7:28・8:3、テト1:5（長老を立てる）。LXX 出エジプト記・申命記、教父（バルナバ・Ⅰクレメンス54.2）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "管理を任せる（～の上に立てる）",
+   "label_en": "to put in charge (set over)",
+   "label_es": "poner al frente (encargar la administración)",
+   "label_sv": "att sätta över (anförtro förvaltningen)",
+   "def": "主人が僕を家・財産・僕たちの上に立てて管理させる。『ἐπί＋属格／与格』を伴う。",
+   "def_en": "A master sets a servant over his house, property, or fellow servants to manage them. Used with “ἐπί + genitive / dative”.",
+   "def_es": "Un amo pone a un siervo al frente de su casa, sus bienes o sus criados para que los administre. Con «ἐπί + genitivo / dativo».",
+   "def_sv": "En husbonde sätter en tjänare över huset, egendomen eller tjänstefolket för att förvalta. Med ”ἐπί + genitiv / dativ”.",
+   "layers": {
+    "nt": 6,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "マタイ24:45・47・25:21・23、ルカ12:42・44（忠実で賢い僕を主人が家の上に立てる）。LXX 創世記・列王記、教父（Ⅱクレメンス22.6.2）に並行。語義1との境界は連続的。"
+  },
+  {
+   "id": "3",
+   "label": "〜にする／〜とされる（状態にする）",
+   "label_en": "to make into / cause to be (a state)",
+   "label_es": "hacer / constituir en (un estado)",
+   "label_sv": "att göra till (försätta i ett tillstånd)",
+   "def": "ある状態にする、ある身分・立場にならせる。『罪人とされた』『義人とされる』『敵となる』『実りのない者にしない』。",
+   "def_en": "To bring into a certain state, status, or position: “were made sinners”, “will be made righteous”, “becomes an enemy”, “keeps from being unfruitful”.",
+   "def_es": "Poner en cierto estado, condición o posición: «fueron constituidos pecadores», «serán constituidos justos», «se constituye enemigo», «no dejar sin fruto».",
+   "def_sv": "Att försätta i ett visst tillstånd eller en viss ställning: ”blev gjorda till syndare”, ”ska göras rättfärdiga”, ”blir en fiende”, ”inte låta vara utan frukt”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ローマ5:19（罪人とされた・義人とされる。同一節に2回）、ヤコブ3:6（舌は体の中に置かれ）・4:4（敵となる）、Ⅱペテロ1:8（実りのない者にしない）。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "4",
+   "label": "連れて行く／送り届ける",
+   "label_en": "to conduct / escort",
+   "label_es": "conducir / acompañar hasta el destino",
+   "label_sv": "att föra / ledsaga fram",
+   "def": "人を目的地まで連れて行く、送り届ける。",
+   "def_en": "To take or escort a person to a destination.",
+   "def_es": "Llevar o acompañar a una persona hasta su destino.",
+   "def_sv": "Att föra eller ledsaga en människa till resmålet.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒17:15（パウロを送る者たちはアテネまで連れて行った）の1例のみ（καθιστάνω の形）。LXX の『連れて行く』用例は代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40024045010": "2",
+  "n40024047010": "2",
+  "n40025021018": "2",
+  "n40025023018": "2",
+  "n42012014008": "1",
+  "n42012042014": "2",
+  "n42012044010": "2",
+  "n44006003014": "1",
+  "n44007010020": "1",
+  "n44007027011": "1",
+  "n44007035009": "1",
+  "n44017015003": "4",
+  "n45005019010": "3",
+  "n45005019021": "3",
+  "n56001005012": "1",
+  "n58005001009": "1",
+  "n58007028005": "1",
+  "n58008003011": "1",
+  "n59003006011": "3",
+  "n59004004024": "3",
+  "n61001008011": "3"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

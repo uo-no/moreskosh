@@ -1,0 +1,82 @@
+{
+ "lemma": "θεμέλιος",
+ "lemmaId": "grc:G2310",
+ "strong": "G2310",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "土台（建物の基礎）",
+   "label_en": "foundation (of a building)",
+   "label_es": "cimiento (de edificio)",
+   "label_sv": "grund (för en byggnad)",
+   "def": "建物の基礎、土台石。『岩の上に土台を据えた』『土台を据えて』『牢の土台が揺れ動いた』。",
+   "def_en": "The base of a building, foundation stones: “laid the foundation on the rock”, “having laid a foundation”, “the foundations of the prison were shaken”.",
+   "def_es": "La base de un edificio, las piedras de fundación: «puso el cimiento sobre la roca», «después de poner el cimiento», «los cimientos de la cárcel se sacudían».",
+   "def_sv": "Byggnadens fundament, grundstenarna: ”lade grunden på berget”, ”efter att ha lagt grunden”, ”fängelsets grundvalar skakades”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ルカ6:48・6:49・14:29、使徒16:26。LXX ヨブ38:4 に並行。教父の代表例では確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "（都・城壁の）土台",
+   "label_en": "foundation (of a city or wall)",
+   "label_es": "cimiento (de ciudad o muralla)",
+   "label_sv": "grundval (för stad eller mur)",
+   "def": "都や城壁の土台、土台石。『堅固な土台を持つ都』『都の城壁の土台』。",
+   "def_en": "The foundations or foundation stones of a city or wall: “the city that has solid foundations”, “the foundations of the city wall”.",
+   "def_es": "Los cimientos de una ciudad o de su muralla: «la ciudad que tiene fundamentos», «los cimientos del muro de la ciudad».",
+   "def_sv": "Grundvalarna för en stad eller mur: ”staden med fasta grundvalar”, ”stadsmurens grundstenar”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ヘブル11:10、黙示録21:14・21:19（2回）。LXX イザヤ54:11 に並行。語義1との境界は連続的。教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "土台（比喩的）",
+   "label_en": "foundation (figurative)",
+   "label_es": "fundamento (figurado)",
+   "label_sv": "grundval (bildligt)",
+   "def": "教え・働き・信仰・宣教の基礎となるもの。『他の土台を据えることはできない』『使徒たちと預言者たちの土台』『神の堅固な土台』。",
+   "def_en": "What forms the basis of teaching, work, faith, or mission: “no one can lay another foundation”, “the foundation of the apostles and prophets”, “God's firm foundation”.",
+   "def_es": "Lo que sirve de base a la enseñanza, la obra, la fe o la misión: «nadie puede poner otro fundamento», «el fundamento de los apóstoles y profetas», «el sólido fundamento de Dios».",
+   "def_sv": "Det som utgör basen för lära, verk, tro eller mission: ”ingen kan lägga en annan grund”, ”apostlarnas och profeternas grundval”, ”Guds fasta grundval”.",
+   "layers": {
+    "nt": 8,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰコリ3:10・3:11・3:12、エペソ2:20、ローマ15:20、Ⅰテモ6:19、Ⅱテモ2:19、ヘブル6:1。LXX イザヤ28:16、教父（Ⅰクレメンス26.4.2；ヘルマス）に並行。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42006048012": "1",
+  "n42006049016": "1",
+  "n42014029005": "1",
+  "n44016026009": "1",
+  "n45015020013": "3",
+  "n46003010012": "3",
+  "n46003011001": "3",
+  "n46003012007": "3",
+  "n49002020004": "3",
+  "n54006019003": "3",
+  "n55002019004": "3",
+  "n58006001015": "3",
+  "n58011010005": "2",
+  "n66021014007": "2",
+  "n66021019002": "2",
+  "n66021019012": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "比喩的用法の指示対象は文脈による。"
+}

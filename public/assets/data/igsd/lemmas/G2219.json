@@ -1,0 +1,79 @@
+{
+ "lemma": "ζύμη",
+ "lemmaId": "grc:G2219",
+ "strong": "G2219",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "パン種（譬え）",
+   "label_en": "leaven (in a parable)",
+   "label_es": "levadura (en parábola)",
+   "label_sv": "surdeg (i liknelsen)",
+   "def": "パン種、酵母。『天の国はパン種のようで』『パン種を三斗の粉に混ぜ』。",
+   "def_en": "Leaven, yeast: “the kingdom of heaven is like leaven”, “mixed leaven into three measures of flour”.",
+   "def_es": "Levadura: «el reino de los cielos es semejante a la levadura», «escondió la levadura en tres medidas de harina».",
+   "def_sv": "Surdeg, jäst: ”himmelriket är som en surdeg”, ”blandade surdegen i tre mått mjöl”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "マタイ13:33、ルカ13:21。LXX 出エジプト記12:19、教父（2.10.2）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "パン種（教え・影響として）",
+   "label_en": "leaven (teaching, influence)",
+   "label_es": "levadura (enseñanza, influjo)",
+   "label_sv": "surdeg (lära, inflytande)",
+   "def": "『パリサイ人のパン種』『ヘロデのパン種』など、影響として言われるパン種。",
+   "def_en": "Leaven spoken of as an influence: “the leaven of the Pharisees”, “the leaven of Herod”.",
+   "def_es": "La levadura como influencia: «la levadura de los fariseos», «la levadura de Herodes».",
+   "def_sv": "Surdegen som inflytande: ”fariseernas surdeg”, ”Herodes surdeg”.",
+   "layers": {
+    "nt": 6,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ルカ12:1、マタイ16:6・16:11・16:12、マルコ8:15（2回）。LXX・教父に並行。語義1・3との境界は連続的。指す内容の同定は付さない。"
+  },
+  {
+   "id": "3",
+   "label": "パン種（取り除くべきもの）",
+   "label_en": "leaven (to be removed)",
+   "label_es": "levadura (que debe quitarse)",
+   "label_sv": "surdeg (som ska rensas bort)",
+   "def": "『古いパン種を取り除け』『わずかなパン種は粉全体を膨らませる』。",
+   "def_en": "“Cleanse out the old leaven”, “a little leaven leavens the whole lump”.",
+   "def_es": "«Limpiaos de la vieja levadura», «un poco de levadura leuda toda la masa».",
+   "def_sv": "”Rensa bort den gamla surdegen”, ”lite surdeg syrar hela degen”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰコリ5:6・5:7・5:8（2回）、ガラテヤ5:9。LXX・教父に並行。語義2との境界は連続的。指す内容の同定は付さない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40013033011": "1",
+  "n40016006011": "2",
+  "n40016011014": "2",
+  "n40016012009": "2",
+  "n41008015009": "2",
+  "n41008015014": "2",
+  "n42012001022": "2",
+  "n42013021003": "1",
+  "n46005006010": "3",
+  "n46005007004": "3",
+  "n46005008005": "3",
+  "n46005008009": "3",
+  "n48005009002": "3"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法による。比喩の指示対象は付さない。"
+}

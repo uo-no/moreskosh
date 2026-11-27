@@ -1,0 +1,73 @@
+{
+ "lemma": "ἐπίκειμαι",
+ "lemmaId": "grc:G1945",
+ "strong": "G1945",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "上にある・置かれている",
+   "label_en": "to lie on, to be placed on",
+   "label_es": "estar encima, estar puesto sobre",
+   "label_sv": "att ligga på, att vara lagd på",
+   "def": "物が上に置かれている、横たわる。『石がふさいであった』『炭火が起こされていて、その上に魚がのせてあり』『課せられた規定』。",
+   "def_en": "For an object to lie or be placed on something: “a stone lay against it”, “a charcoal fire had been made, with fish laid on it”, “regulations imposed”.",
+   "def_es": "Estar un objeto puesto o tendido sobre algo: «una piedra estaba puesta sobre ella», «había brasas puestas, y un pez encima de ellas», «ordenanzas impuestas».",
+   "def_sv": "Att något ligger eller är lagt ovanpå: ”en sten låg för ingången”, ”en koleld var tänd och fisk låg på den”, ”pålagda föreskrifter”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ヨハネ11:38・21:9、ヘブル9:10。LXX（36.40）に並行。教父の代表例では確認していない。語義2・3との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "迫る・のしかかる",
+   "label_en": "to press upon",
+   "label_es": "apremiar, acosar",
+   "label_sv": "att tränga på, att ligga över",
+   "def": "圧力がかかる、迫る。『そうしなければならない義務がわたしに課せられている』『暴風が激しく吹きつけ』『人々が押しかけて』。",
+   "def_en": "For pressure to bear down; to press in: “necessity is laid upon me”, “a violent storm beat down”, “the crowd pressed upon him”.",
+   "def_es": "Ejercer presión; apremiar: «me es impuesta necesidad», «una fuerte tempestad arreciaba», «la multitud se agolpaba».",
+   "def_sv": "Att ett tryck anbringas; att pressa på: ”ett tvång vilar på mig”, ”en häftig storm låg på”, ”folket trängde sig på”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "コリント第一9:16、使徒27:20、ルカ5:1。LXX（21.27）、教父（7.1）に並行。語義1との境界は連続的。"
+  },
+  {
+   "id": "3",
+   "label": "しつこく迫る",
+   "label_en": "to keep demanding insistently",
+   "label_es": "insistir con vehemencia",
+   "label_sv": "att envist ansätta",
+   "def": "声高に要求し続ける。『彼らは大声で迫り続け』。",
+   "def_en": "To go on demanding loudly: “they kept pressing with loud shouts”.",
+   "def_es": "Seguir exigiendo a voces: «ellos insistían a grandes voces».",
+   "def_sv": "Att fortsätta kräva med höga rop: ”de ansatte honom med höga rop”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ルカ23:23。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42005001007": "2",
+  "n42023023003": "3",
+  "n43011038016": "1",
+  "n43021009012": "1",
+  "n44027020014": "2",
+  "n46009016011": "2",
+  "n58009010014": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（置かれている／のしかかる／しつこく迫る）による。"
+}

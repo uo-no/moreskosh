@@ -1,0 +1,64 @@
+{
+ "lemma": "ἐντέλλομαι",
+ "lemmaId": "grc:G1781",
+ "strong": "G1781",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "命じる（戒め・規定として）",
+   "label_en": "to command (as ordinance)",
+   "label_es": "mandar (como precepto)",
+   "label_sv": "att befalla (som bud)",
+   "def": "戒め・規定として命じる、定める。『モーセはどう命じたか』『わたしが命じたことをすべて守るように』『わたしの命じることを行うなら』『神があなたがたに命じた契約』。",
+   "def_en": "To command or ordain as a commandment or rule: “what did Moses command?”, “observe all that I have commanded”, “if you do what I command”, “the covenant God commanded for you”.",
+   "def_es": "Ordenar, establecer como mandamiento o norma: «¿qué os mandó Moisés?», «que guarden todo lo que os he mandado», «si hacéis lo que yo os mando», «el pacto que Dios os ha mandado».",
+   "def_sv": "Att befalla och fastställa som bud eller föreskrift: ”vad har Mose befallt?”, ”hålla allt jag befallt er”, ”om ni gör vad jag befaller”, ”förbundet som Gud har ålagt er”.",
+   "layers": {
+    "nt": 9,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "マタイ19:7・28:20、マルコ10:3、ヨハネ8:5・15:14・15:17・14:31、ヘブル9:20、使徒13:47。LXX 出エジプト記・申命記、教父（Ⅰクレメンス22.3.4、2.8）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "指示する／言いつける",
+   "label_en": "to instruct / give orders",
+   "label_es": "dar instrucciones / encargar",
+   "label_sv": "att ge anvisningar / ålägga",
+   "def": "指図する、言いつける、遺言する。『聖霊によって使徒たちに指示を与え』『ヨセフは自分の骨について指示した』『門番に目をさましているよう命じた』『だれにも話すなと命じた』。",
+   "def_en": "To direct, to enjoin, to leave instructions: “gave instructions to the apostles through the Holy Spirit”, “Joseph gave directions about his bones”, “commanded the doorkeeper to keep watch”, “ordered them to tell no one”.",
+   "def_es": "Dirigir, encargar, dejar dispuesto: «dando mandamientos a los apóstoles por el Espíritu Santo», «José dio mandamiento acerca de sus huesos», «al portero mandó que velase», «les mandó que a nadie lo dijesen».",
+   "def_sv": "Att instruera, ålägga, lämna förordnande: ”gav apostlarna befallningar genom den helige Ande”, ”Josef gav anvisningar om sina ben”, ”befallde dörrvakten att vaka”, ”förbjöd dem att tala om det för någon”.",
+   "layers": {
+    "nt": 6,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒1:2、ヘブル11:22、マタイ17:9、マルコ13:34、ルカ4:10、マタイ4:6。LXX 創世記・出エジプト記、教父に並行。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40004006018": "2",
+  "n40017009007": "2",
+  "n40019007006": "1",
+  "n40028020006": "1",
+  "n41010003008": "1",
+  "n41013034022": "2",
+  "n42004010007": "2",
+  "n43008005007": "1",
+  "n43014031012": "1",
+  "n43015014009": "1",
+  "n43015017002": "1",
+  "n44001002004": "2",
+  "n44013047003": "1",
+  "n58009020008": "1",
+  "n58011022016": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は命令の性格（規定／個別の指示）による。"
+}

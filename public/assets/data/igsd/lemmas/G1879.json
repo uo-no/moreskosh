@@ -1,0 +1,51 @@
+{
+ "lemma": "ἐπαναπαύομαι",
+ "lemmaId": "grc:G1879",
+ "strong": "G1879",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "とどまる",
+   "label_en": "to rest upon",
+   "label_es": "reposar sobre",
+   "label_sv": "att vila över",
+   "def": "その上にとどまる、休む。『平安があなたがたに…とどまる』。",
+   "def_en": "To rest on, to settle upon: “your peace will rest …”.",
+   "def_es": "Posarse, descansar sobre: «vuestra paz reposará …».",
+   "def_sv": "Att stanna på, att vila på: ”er frid skall vila …”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ルカ10:6。LXX に並行。教父の用例なし。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "頼る",
+   "label_en": "to rely on",
+   "label_es": "apoyarse en",
+   "label_sv": "att förlita sig på",
+   "def": "頼る、寄りかかる。『律法に安んじ』。",
+   "def_en": "To rely on, to lean upon: “rely on the law”.",
+   "def_es": "Confiar, descansar en algo: «te apoyas en la ley».",
+   "def_sv": "Att stödja sig på: ”förlitar dig på lagen”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ローマ2:17。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42010006007": "1",
+  "n45002017007": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法による。"
+}

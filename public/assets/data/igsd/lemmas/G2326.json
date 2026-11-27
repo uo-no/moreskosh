@@ -1,0 +1,62 @@
+{
+ "lemma": "θερισμός",
+ "lemmaId": "grc:G2326",
+ "strong": "G2326",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "刈り入れ（行為・時）",
+   "label_en": "harvest (act, season)",
+   "label_es": "siega (acción, tiempo)",
+   "label_sv": "skörd (handlingen, tiden)",
+   "def": "刈り入れの時、収穫の時期。『刈り入れまでなお四か月』『刈り入れまで両方育つままにしておけ』『刈り入れとは世の終わり』『実が熟すと刈り入れが来る』『刈り入れの時が来た』。",
+   "def_en": "The time of reaping, the harvest season: “there are yet four months until the harvest”, “let both grow until the harvest”, “the harvest is the end of the age”, “when the grain is ripe the harvest comes”, “the hour to reap has come”.",
+   "def_es": "El tiempo de segar, la época de la cosecha: «aún faltan cuatro meses para la siega», «dejad crecer juntamente hasta la siega», «la siega es el fin del siglo», «cuando el fruto está maduro llega la siega», «la hora de segar ha llegado».",
+   "def_sv": "Skördetiden: ”fyra månader kvar till skörden”, ”låt båda växa till skörden”, ”skörden är tidens slut”, ”när säden mognat är skörden inne”, ”skördetiden har kommit”.",
+   "layers": {
+    "nt": 7,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ヨハネ4:35（2回）、マタイ13:30（2回）・13:39、マルコ4:29、黙示録14:15。LXX 申命記・エレミヤに並行。教父の用例は無い。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "収穫（刈り入れられるもの）",
+   "label_en": "harvest (what is reaped)",
+   "label_es": "mies (lo que se siega)",
+   "label_sv": "skörd (det som skördas)",
+   "def": "収穫物、刈り入れの畑。『収穫は多いが働き手が少ない』『収穫の主に願え』。",
+   "def_en": "The crop, the field to be reaped: “the harvest is plentiful but the labourers are few”, “ask the Lord of the harvest”.",
+   "def_es": "La cosecha, el campo por segar: «la mies es mucha, pero los obreros pocos», «rogad al Señor de la mies».",
+   "def_sv": "Grödan, fältet som ska skördas: ”skörden är stor men arbetarna få”, ”be skördens herre”.",
+   "layers": {
+    "nt": 6,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ルカ10:2（3回）、マタイ9:37・9:38（2回）。LXX 代表例に並行。教父の用例は無い。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40009037008": "2",
+  "n40009038006": "2",
+  "n40009038012": "2",
+  "n40013030006": "1",
+  "n40013030011": "1",
+  "n40013039012": "1",
+  "n41004029013": "1",
+  "n42010002007": "2",
+  "n42010002018": "2",
+  "n42010002024": "2",
+  "n43004035010": "1",
+  "n43004035027": "1",
+  "n66014015031": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "教父の用例は無い。語義区分は用法（時／収穫物）による。"
+}

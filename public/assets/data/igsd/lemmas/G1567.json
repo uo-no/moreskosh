@@ -1,0 +1,73 @@
+{
+ "lemma": "ἐκζητέω",
+ "lemmaId": "grc:G1567",
+ "strong": "G1567",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "探し求める",
+   "label_en": "to seek out",
+   "label_es": "buscar",
+   "label_sv": "att söka",
+   "def": "探し求める、求める。『人の残りの者が主を求めるようになるため』『神を求める者はいない』『神を求める者に報いてくださる』『涙を流して祝福を求めた』。",
+   "def_en": "To seek, to search for: “so that the rest of humankind may seek the Lord”, “there is no one who seeks God”, “he rewards those who seek God”, “he sought the blessing with tears”.",
+   "def_es": "Buscar, procurar: «para que el resto de los hombres busque al Señor», «no hay quien busque a Dios», «recompensa a los que buscan a Dios», «buscó la bendición con lágrimas».",
+   "def_sv": "Att söka, att söka efter: ”för att resten av människorna skall söka Herren”, ”ingen finns som söker Gud”, ”han belönar dem som söker Gud”, ”han sökte välsignelsen med tårar”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒15:17、ローマ3:11、ヘブル11:6・12:17。LXX（26.8・28.23）、教父（14.5）に並行。語義2・3との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "探り調べる",
+   "label_en": "to search carefully, to investigate",
+   "label_es": "indagar, investigar",
+   "label_sv": "att forska, att undersöka",
+   "def": "事柄を詳しく探り調べる。『この救いについて預言者たちは詳しく尋ね調べた』。",
+   "def_en": "To examine a matter closely: “concerning this salvation the prophets searched and inquired carefully”.",
+   "def_es": "Investigar a fondo un asunto: «acerca de esta salvación los profetas inquirieron e indagaron diligentemente».",
+   "def_sv": "Att noga utforska en sak: ”om denna frälsning sökte och forskade profeterna noga”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "ペテロ第一1:10。教父（4.1）に並行。LXX の代表例では確認していない。語義1との境界は連続的。"
+  },
+  {
+   "id": "3",
+   "label": "責任を問われる",
+   "label_en": "to be held accountable, to require",
+   "label_es": "demandar responsabilidad",
+   "label_sv": "att utkrävas, att ställas till ansvar",
+   "def": "血や責任が問われる、報いを受ける。『すべての預言者の血の責任がこの時代に問われる』『この時代の人々が問われるであろう』。",
+   "def_en": "Blood or responsibility being required; to receive retribution: “this generation will be held responsible for the blood of all the prophets”, “it will be required of this generation”.",
+   "def_es": "Que se demande cuenta de la sangre o de la culpa; recibir retribución: «a esta generación se le pedirá cuenta de la sangre de todos los profetas», «se le pedirá cuenta a esta generación».",
+   "def_sv": "Att blod eller ansvar utkrävs, att få vedergällning: ”detta släkte skall ställas till svars för alla profeternas blod”, ”det skall krävas av detta släkte”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ルカ11:50・11:51。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42011050002": "3",
+  "n42011051018": "3",
+  "n44015017003": "1",
+  "n45003011008": "1",
+  "n58011006017": "1",
+  "n58012017019": "1",
+  "n60001010004": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（探し求める／探り調べる／責任を問われる）による。"
+}

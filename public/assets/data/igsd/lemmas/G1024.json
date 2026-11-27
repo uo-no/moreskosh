@@ -1,0 +1,90 @@
+{
+ "lemma": "βραχύς",
+ "lemmaId": "grc:G1024",
+ "strong": "G1024",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "しばらく（時間）",
+   "label_en": "a short while (time)",
+   "label_es": "un rato (tiempo)",
+   "label_sv": "en kort stund (tid)",
+   "def": "短い時間。『しばらくして』『しばらくの間』。",
+   "def_en": "A short time: “a little later”, “for a little while”.",
+   "def_es": "Un breve tiempo: «un poco después», «por un momento».",
+   "def_sv": "En kort tid: ”en liten stund senare”, ”en liten stund”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒5:34、ルカ22:58。語義2・3との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "少し（量・距離）",
+   "label_en": "a little (amount, distance)",
+   "label_es": "un poco (cantidad, distancia)",
+   "label_sv": "lite (mängd, avstånd)",
+   "def": "わずかな量・距離。『少し進んで測ると』『少しずつでも受けるのに』。",
+   "def_en": "A small amount or distance: “went a little farther and sounded”, “for each of them to get even a little”.",
+   "def_es": "Pequeña cantidad o distancia: «pasando un poco más adelante, volvieron a echar la sonda», «para que cada uno tomase un poco».",
+   "def_sv": "En liten mängd eller sträcka: ”fortsatte ett stycke och lodade igen”, ”för att var och en skulle få lite”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒27:28、ヨハネ6:7。LXX（7.36）に並行。教父の代表例なし。語義1・3との境界は連続的。"
+  },
+  {
+   "id": "3",
+   "label": "少しの間／少しだけ（解釈が分かれる）",
+   "label_en": "for a little while / a little (disputed)",
+   "label_es": "por poco tiempo / un poco (discutido)",
+   "label_sv": "för en liten tid / föga (omtvistat)",
+   "def": "『御使たちよりも少しの間低くされた』。",
+   "def_en": "“You made him for a little while lower than the angels.”",
+   "def_es": "«Le hiciste un poco menor que los ángeles».",
+   "def_sv": "”För en liten tid gjorde du honom ringare än änglarna.”",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヘブル2:7・2:9。時間（しばらく）か程度（少し）かの解釈は争われており決定しない。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "4",
+   "label": "簡潔に",
+   "label_en": "briefly",
+   "label_es": "brevemente",
+   "label_sv": "i korthet",
+   "def": "短く、簡潔に。『簡潔に書き送った』。",
+   "def_en": "Shortly, briefly: “I have written to you briefly”.",
+   "def_es": "En pocas palabras: «os he escrito brevemente».",
+   "def_sv": "Kortfattat: ”jag har skrivit till er helt kort”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヘブル13:22（διὰ βραχέων）。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42022058003": "1",
+  "n43006007012": "2",
+  "n44005034017": "1",
+  "n44027028006": "2",
+  "n58002007003": "3",
+  "n58002009003": "3",
+  "n58013022013": "4"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（時間／量・距離／ヘブル2:7・9／簡潔さ）による。ヘブル2:7・9 は解釈が分かれるため独立させ、決定しない。"
+}

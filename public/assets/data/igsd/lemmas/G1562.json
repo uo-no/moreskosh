@@ -1,0 +1,54 @@
+{
+ "lemma": "ἐκδύω",
+ "lemmaId": "grc:G1562",
+ "strong": "G1562",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "はぎ取る",
+   "label_en": "to strip",
+   "label_es": "despojar (de la ropa)",
+   "label_sv": "att klä av",
+   "def": "衣をはぎ取る。『裸にし、半殺しにして』『着物をはぎ取り』『着物をはぎ取って』『その着物を着せた』。",
+   "def_en": "To strip a person of clothing: “stripped him and left him half dead”, “stripped him of his clothes”, “took off the robe”, “and put his own clothes on him”.",
+   "def_es": "Quitarle a alguien el vestido: «le despojaron e hiriéndole, se fueron dejándole medio muerto», «le quitaron la ropa», «desnudándole», «le pusieron sus vestidos».",
+   "def_sv": "Att slita kläderna av någon: ”klädde av honom och lämnade honom halvdöd”, ”tog av honom kläderna”, ”tog av honom manteln”, ”satte på honom hans egna kläder”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ルカ10:30、マタイ27:28・27:31、マルコ15:20。LXX に並行。教父の代表例では確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "脱ぐ（比喩）",
+   "label_en": "to take off (figurative)",
+   "label_es": "desnudarse (figurado)",
+   "label_sv": "att kläda av sig (bildligt)",
+   "def": "衣を脱ぐ。『むしろ、脱ぎたいのではなく』（死を指す比喩）。",
+   "def_en": "To put off a garment: “not that we wish to be unclothed, but rather”. (A metaphor for death.)",
+   "def_es": "Quitarse el vestido: «porque no queremos ser desnudados, sino más bien». (Metáfora de la muerte.)",
+   "def_sv": "Att ta av sig klädnaden: ”vi vill inte bli avklädda utan snarare”. (En bild för döden.)",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "コリント第二5:4。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40027028002": "1",
+  "n40027031005": "1",
+  "n41015020005": "1",
+  "n42010030018": "1",
+  "n47005004014": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（衣をはぎ取る／脱ぐ）による。"
+}

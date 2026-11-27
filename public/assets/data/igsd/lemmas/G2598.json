@@ -1,0 +1,51 @@
+{
+ "lemma": "καταβάλλω",
+ "lemmaId": "grc:G2598",
+ "strong": "G2598",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "打ち倒す",
+   "label_en": "to strike down",
+   "label_es": "derribar",
+   "label_sv": "att slå ner",
+   "def": "打ち倒す、投げ倒す。『倒されても滅びない』。",
+   "def_en": "To throw down, to knock down: “struck down but not destroyed”.",
+   "def_es": "Echar por tierra: «derribados, pero no destruidos».",
+   "def_sv": "Att kasta omkull: ”nerslagna men inte förgjorda”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "コリント第二4:9。LXX に並行。教父の用例なし。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "据える",
+   "label_en": "to lay (a foundation)",
+   "label_es": "echar (cimientos)",
+   "label_sv": "att lägga (en grund)",
+   "def": "基礎を据える。『土台を据え直すことをしないで』。",
+   "def_en": "To lay down a foundation: “not laying again the foundation”.",
+   "def_es": "Poner el fundamento: «no echando otra vez el fundamento».",
+   "def_sv": "Att lägga grunden: ”utan att lägga grunden på nytt”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヘブル6:1。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n47004009005": "1",
+  "n58006001016": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法による。"
+}

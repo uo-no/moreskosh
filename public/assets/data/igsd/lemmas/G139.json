@@ -1,0 +1,75 @@
+{
+ "lemma": "αἵρεσις",
+ "lemmaId": "grc:G139",
+ "strong": "G139",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "党派／一派／宗派",
+   "label_en": "party / sect",
+   "label_es": "partido / secta",
+   "label_sv": "parti / riktning",
+   "def": "一つの派、宗派、党派。『サドカイ派』『ナザレ人の一派』『この道を、彼らは一派と呼んでいる』『われわれの宗教の最も厳格な派』『この一派については、至る所で非難されている』『サドカイ派の者たち』『パリサイ派から信じた者たち』。",
+   "def_en": "A party, sect, or school: “the party of the Sadducees”, “the sect of the Nazarenes”, “the Way, which they call a sect”, “the strictest party of our religion”, “this sect is spoken against everywhere”, “those of the party of the Sadducees”, “believers who belonged to the party of the Pharisees”.",
+   "def_es": "Una escuela, secta o partido: «la secta de los saduceos», «la secta de los nazarenos», «el Camino que ellos llaman secta», «la más rigurosa secta de nuestra religión», «de esta secta en todas partes se habla contra ella», «los de la secta de los saduceos», «creyentes de la secta de los fariseos».",
+   "def_sv": "En riktning, sekt eller ett parti: ”saddukeernas parti”, ”nasareernas sekt”, ”Vägen, som de kallar en sekt”, ”den strängaste riktningen i vår religion”, ”den sekten möter motsägelse överallt”, ”saddukeernas anhängare”, ”troende ur fariseernas parti”.",
+   "layers": {
+    "nt": 6,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒15:5・24:5・24:14・26:5・28:22・5:17。LXX レビ記22:21 ほか、教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "分派／党派心",
+   "label_en": "faction / party spirit",
+   "label_es": "facción / espíritu de partido",
+   "label_sv": "splittring / partianda",
+   "def": "分派、党派心、仲間割れ。『あなたがたの間に分派があるのは』『ねたみ、争い、分派』。",
+   "def_en": "Factions, party spirit, splits: “there must be factions among you”, “envy, strife, factions”.",
+   "def_es": "Facciones, partidismo, divisiones: «es preciso que haya disensiones entre vosotros», «envidias, contiendas, herejías».",
+   "def_sv": "Falanger, partisinne, inbördes söndring: ”det måste finnas partier bland er”, ”avund, strider, splittringar”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "Ⅰコリ11:19、ガラテヤ5:20。語義1・3との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "異端的な教え",
+   "label_en": "heresy (false teaching)",
+   "label_es": "herejía",
+   "label_sv": "irrlära",
+   "def": "滅びをもたらす異端、誤った教え。『滅びをもたらす異端をひそかに持ち込み』（Ⅱペテロ2:1）。",
+   "def_en": "Destructive heresy, false teaching: “will secretly bring in destructive heresies” (2 Pet 2:1).",
+   "def_es": "Herejía que trae destrucción, enseñanza falsa: «introducirán encubiertamente herejías destructoras» (2 P 2:1).",
+   "def_sv": "Fördärvbringande irrlära, falsk lära: ”i hemlighet föra in fördärvliga irrläror” (2 Pet 2:1).",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "Ⅱペテロ2:1 の1例のみ。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n44005017012": "1",
+  "n44015005007": "1",
+  "n44024005022": "1",
+  "n44024014011": "1",
+  "n44026005011": "1",
+  "n44028022012": "1",
+  "n46011019004": "2",
+  "n48005020009": "2",
+  "n61002001016": "3"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（宗派／分派／異端的教え）による。"
+}

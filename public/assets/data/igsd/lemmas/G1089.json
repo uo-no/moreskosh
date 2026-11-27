@@ -1,0 +1,81 @@
+{
+ "lemma": "γεύομαι",
+ "lemmaId": "grc:G1089",
+ "strong": "G1089",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "味わう／食べる",
+   "label_en": "to taste / eat",
+   "label_es": "probar / comer",
+   "label_sv": "att smaka / äta",
+   "def": "口にして味わう、食べる。『酒を味わったが』『パンを裂いて食べ』『何も口にしない』『食事を味わう者はいない』。",
+   "def_en": "To take into the mouth and taste, to eat: “after tasting the wine”, “broke bread and ate”, “take no food”, “no one will taste my banquet”.",
+   "def_es": "Llevarse a la boca y gustar, comer: «cuando hubo probado el vino», «partió el pan y comió», «no gustar nada», «ninguno gustará mi cena».",
+   "def_sv": "Att ta i munnen och smaka, att äta: ”när han smakat vinet”, ”bröt brödet och åt”, ”inte förtära något”, ”ingen ska smaka min måltid”.",
+   "layers": {
+    "nt": 7,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒10:10・20:11・23:14、ヨハネ2:9、マタイ27:34、ルカ14:24、コロサイ2:21。LXX 民数記・サムエル記に並行。教父の代表例では確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "死を味わう（経験する）",
+   "label_en": "to taste death (experience it)",
+   "label_es": "gustar la muerte (experimentarla)",
+   "label_sv": "att smaka döden (uppleva den)",
+   "def": "『死を味わう』の句で死を経験する。",
+   "def_en": "To experience death, in the phrase “taste death”.",
+   "def_es": "Experimentar la muerte, en la expresión «gustar la muerte».",
+   "def_sv": "Att erfara döden, i uttrycket ”smaka döden”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヘブル2:9、ヨハネ8:52、マタイ16:28、マルコ9:1、ルカ9:27。語義3との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "経験する（賜物・みことば）",
+   "label_en": "to experience (gift, word)",
+   "label_es": "experimentar (el don, la palabra)",
+   "label_sv": "att erfara (gåvan, ordet)",
+   "def": "賜物・みことば・主の恵みなどを経験として味わう。『天の賜物を味わい』『主が恵み深い方であることを味わった』。",
+   "def_en": "To taste by experience the gift, the word, the Lord's goodness: “tasted the heavenly gift”, “you have tasted that the Lord is good”.",
+   "def_es": "Gustar por experiencia el don, la palabra, la bondad del Señor: «gustaron del don celestial», «habéis gustado la benignidad del Señor».",
+   "def_sv": "Att av egen erfarenhet smaka gåvan, ordet, Herrens godhet: ”smakat den himmelska gåvan”, ”ni har smakat att Herren är god”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "ヘブル6:4・6:5、Ⅰペテロ2:3。教父（36.2）に並行。LXX の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40016028013": "2",
+  "n40027034009": "1",
+  "n41009001016": "2",
+  "n42009027013": "2",
+  "n42014024011": "1",
+  "n43002009003": "1",
+  "n43008052026": "2",
+  "n44010010006": "1",
+  "n44020011008": "1",
+  "n44023014013": "1",
+  "n51002021004": "1",
+  "n58002009024": "2",
+  "n58006004006": "3",
+  "n58006005003": "3",
+  "n60002003002": "3"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は目的語による。"
+}

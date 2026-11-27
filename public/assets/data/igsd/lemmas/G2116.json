@@ -1,0 +1,51 @@
+{
+ "lemma": "εὐθύνω",
+ "lemmaId": "grc:G2116",
+ "strong": "G2116",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "まっすぐにする",
+   "label_en": "to make straight",
+   "label_es": "enderezar",
+   "label_sv": "att göra rak",
+   "def": "まっすぐにする、整える。『主の道をまっすぐにせよ』。",
+   "def_en": "To straighten, to set right: “make straight the way of the Lord”.",
+   "def_es": "Hacer recto, allanar: «enderezad el camino del Señor».",
+   "def_sv": "Att räta, att jämna: ”gör vägen rak för Herren”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ヨハネ1:23。LXX に並行。教父の用例なし。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "操る・舵を取る",
+   "label_en": "to steer",
+   "label_es": "gobernar el timón",
+   "label_sv": "att styra",
+   "def": "操る、舵を取る。『舵取りの思いのままに』。",
+   "def_en": "To guide, to pilot: “wherever the pilot wishes to steer”.",
+   "def_es": "Dirigir, timonear: «por donde el que las gobierna quiere».",
+   "def_sv": "Att manövrera, att hålla rodret: ”dit rorsmannen vill”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヤコブ3:4。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n43001023008": "1",
+  "n59003004020": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法による。"
+}

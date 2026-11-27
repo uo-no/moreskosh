@@ -1,0 +1,63 @@
+{
+ "lemma": "ζήτησις",
+ "lemmaId": "grc:G2214",
+ "strong": "G2214",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "論議・論争",
+   "label_en": "debate / controversy",
+   "label_es": "discusión / controversia",
+   "label_sv": "dispyt / strid",
+   "def": "論じ合い、論争、議論。『激しい論争が起こった』『論争の末』『愚かな無学な議論を避けなさい』『論議を避けなさい』『清めのことで論争が起こった』『言い争い』。",
+   "def_en": "Discussion, controversy, dispute: “a sharp debate arose”, “after much debate”, “avoid foolish, ignorant controversies”, “avoid controversies”, “a discussion arose about purification”, “quarrels over words”.",
+   "def_es": "Debate, controversia, disputa: «hubo una gran discusión», «después de mucha discusión», «desecha las cuestiones necias e insensatas», «evita las cuestiones», «hubo discusión acerca de la purificación», «contiendas».",
+   "def_sv": "Diskussion, strid, tvist: ”det uppstod en häftig diskussion”, ”efter mycken diskussion”, ”undvik dumma och meningslösa tvistefrågor”, ”undvik dispyter”, ”det blev en diskussion om reningen”, ”ordstrider”.",
+   "layers": {
+    "nt": 6,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒15:2・15:7、テモテ第二2:23、テトス3:9、ヨハネ3:25、テモテ第一6:4。LXX・教父の代表例では確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "取り調べ・探求",
+   "label_en": "inquiry / investigation",
+   "label_es": "indagación / investigación",
+   "label_sv": "undersökning",
+   "def": "事柄についての取り調べ、探求。『これらの事柄の取り調べ方に当惑して』。",
+   "def_en": "Inquiry into a matter, investigation: “being at a loss how to investigate these questions”.",
+   "def_es": "La averiguación de un asunto: «dudando en cuestión de esta naturaleza».",
+   "def_sv": "Undersökning och utredning av en sak: ”visste inte hur dessa frågor skulle undersökas”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒25:20。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n43003025003": "1",
+  "n44015002005": "1",
+  "n44015007003": "1",
+  "n44025020007": "2",
+  "n54006004007": "1",
+  "n55002023006": "1",
+  "n56003009003": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "LXX・教父の代表例なし。語義区分は用法（論議／取り調べ）による。",
+ "excluded": [
+  {
+   "ref": "1TI 1:4",
+   "form": "ἐκζητήσεις",
+   "reason": "形は ἐκζητήσεις で、レンマは ἐκζήτησις（別語）。bible_data の誤配当の疑いとしてユーザー承認待ち。"
+  }
+ ]
+}

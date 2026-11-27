@@ -1,0 +1,52 @@
+{
+ "lemma": "ἐπίτροπος",
+ "lemmaId": "grc:G2012",
+ "strong": "G2012",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "後見人・保護者",
+   "label_en": "guardian",
+   "label_es": "tutor",
+   "label_sv": "förmyndare",
+   "def": "未成年者の後見人、保護者。『後見人や管理人の監督の下に』。",
+   "def_en": "The guardian of a minor, a protector: “under the supervision of guardians and managers”.",
+   "def_es": "Tutor o protector de un menor: «bajo tutores y curadores».",
+   "def_sv": "En omyndigs förmyndare: ”under förmyndares och förvaltares tillsyn”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ガラテヤ4:2。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "管理人・執事",
+   "label_en": "steward, manager",
+   "label_es": "administrador, intendente",
+   "label_sv": "förvaltare",
+   "def": "家や所有地の管理人。『ヘロデの家令クーザ』『管理人に』。",
+   "def_en": "The manager of a household or estate: “Chuza, Herod’s steward”, “to his manager”.",
+   "def_es": "El que administra la casa o las tierras: «Chuza, intendente de Herodes», «a su mayordomo».",
+   "def_sv": "Förvaltare av hus eller gods: ”Herodes förvaltare Kusas”, ”till sin förvaltare”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ルカ8:3、マタイ20:8。LXX、教父に並行。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40020008010": "2",
+  "n42008003005": "2",
+  "n48004002003": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（後見人／管理人）による。"
+}

@@ -1,0 +1,95 @@
+{
+ "lemma": "κάλαμος",
+ "lemmaId": "grc:G2563",
+ "strong": "G2563",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "葦",
+   "label_en": "reed",
+   "label_es": "caña (planta)",
+   "label_sv": "vass / strå",
+   "def": "葦（植物）。『風に揺れる葦』『傷ついた葦を折らず』。",
+   "def_en": "The reed (plant): “a reed shaken by the wind”, “a bruised reed he will not break”.",
+   "def_es": "La caña: «una caña sacudida por el viento», «la caña cascada no quebrará».",
+   "def_sv": "Vassen (växten): ”ett strå som vajar för vinden”, ”ett brutet strå ska han inte krossa”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ルカ7:24、マタイ11:7・12:20。LXX イザヤ42:3 に並行。教父の用例は無い。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "葦の棒／葦の杖",
+   "label_en": "reed stick / staff",
+   "label_es": "vara de caña",
+   "label_sv": "rörkäpp / käpp av vass",
+   "def": "葦の棒、葦の杖。『右手に葦を持たせ』『葦で頭を打ち』『海綿を葦に付けて飲ませた』。",
+   "def_en": "A stick or staff of reed: “put a reed in his right hand”, “struck his head with a reed”, “put a sponge on a reed and gave it to him to drink”.",
+   "def_es": "Palo o vara de caña: «una caña en su mano derecha», «le golpeaban la cabeza con una caña», «puso la esponja en una caña y le dio a beber».",
+   "def_sv": "En käpp av vass: ”gav honom en käpp i högra handen”, ”slog honom i huvudet med käppen”, ”satte svampen på en käpp och gav honom att dricka”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ27:29・27:30・27:48、マルコ15:19・15:36。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "測り竿",
+   "label_en": "measuring rod",
+   "label_es": "caña de medir",
+   "label_sv": "mätstång",
+   "def": "測り竿、測りざお。『杖のような測り竿』『都と門を測る金の測り竿』。",
+   "def_en": "A measuring rod: “a measuring rod like a staff”, “a golden measuring rod to measure the city and its gates”.",
+   "def_es": "Vara para medir: «una caña semejante a una vara de medir», «una caña de oro para medir la ciudad y sus puertas».",
+   "def_sv": "En mätstång: ”en mätstång lik en stav”, ”en mätstav av guld för att mäta staden och portarna”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "黙示録11:1・21:15・21:16。LXX エゼキエル42:20 に並行。教父の用例は無い。"
+  },
+  {
+   "id": "4",
+   "label": "筆（書く道具）",
+   "label_en": "pen (for writing)",
+   "label_es": "pluma (para escribir)",
+   "label_sv": "penna (skrivdon)",
+   "def": "書くための筆、葦ペン。『墨と筆で書きたくない』（Ⅲヨハネ13）。",
+   "def_en": "A pen for writing, a reed pen: “I would rather not write with pen and ink” (3 John 13).",
+   "def_es": "Cálamo para escribir: «no quiero escribírtelo con tinta y pluma» (3 Jn 13).",
+   "def_sv": "En rörpenna att skriva med: ”jag vill inte skriva med bläck och penna” (3 Joh 13).",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "Ⅲヨハネ13 の1例のみ。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40011007018": "1",
+  "n40012020001": "1",
+  "n40027029012": "2",
+  "n40027030007": "2",
+  "n40027048015": "2",
+  "n41015019006": "2",
+  "n41015036009": "2",
+  "n42007024019": "1",
+  "n64001013011": "4",
+  "n66011001004": "3",
+  "n66021015008": "3",
+  "n66021016018": "3"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（葦／棒／測り竿／筆）による。"
+}

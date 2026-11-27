@@ -1,0 +1,58 @@
+{
+ "lemma": "ἄζυμος",
+ "lemmaId": "grc:G106",
+ "strong": "G106",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "種なしパン（祭り）",
+   "label_en": "Unleavened Bread (festival)",
+   "label_es": "Panes sin levadura (fiesta)",
+   "label_sv": "det osyrade brödet (högtiden)",
+   "def": "『種なしパン』、その祭り。『種入れぬパンの祭りの日』『過越と種入れぬパンの祭り』『種入れぬパンの日々』。",
+   "def_en": "“Unleavened bread” and its festival: “the day of Unleavened Bread”, “the Passover and Unleavened Bread”, “the days of Unleavened Bread”.",
+   "def_es": "«Los panes sin levadura» y su fiesta: «el primer día de la fiesta de los panes sin levadura», «la pascua y los panes sin levadura», «los días de los panes sin levadura».",
+   "def_sv": "”Det osyrade brödet” och dess högtid: ”det osyrade brödets dag”, ”påsken och det osyrade brödets högtid”, ”det osyrade brödets dagar”.",
+   "layers": {
+    "nt": 7,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒12:3・20:6、ルカ22:1・22:7、マタイ26:17、マルコ14:1・14:12。LXX 出エジプト記34:18・レビ記6:9 に並行。教父の用例は無い。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "種なしの（比喩）",
+   "label_en": "unleavened (figurative)",
+   "label_es": "sin levadura (figurado)",
+   "label_sv": "osyrad (bildligt)",
+   "def": "混ぜ物のない、種なしの（真実・純粋さの比喩）。『あなたがたはパン種のない者』『純粋で真実の種なしパンで祭りをしよう』。",
+   "def_en": "Unmixed, unleavened (a figure of truth and purity): “you really are unleavened”, “let us celebrate the festival with the unleavened bread of sincerity and truth”.",
+   "def_es": "Sin mezcla, sin levadura (figura de verdad y pureza): «como sois, sin levadura», «celebremos la fiesta con panes sin levadura, de sinceridad y de verdad».",
+   "def_sv": "Oblandad, osyrad (bild för sanning och renhet): ”ni är ju osyrade”, ”låt oss fira högtiden med renhetens och sanningens osyrade bröd”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "Ⅰコリ5:7・5:8。語義1との境界は連続的。LXX 代表例に並行。教父の用例は無い。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40026017005": "1",
+  "n41014001007": "1",
+  "n41014012006": "1",
+  "n42022001006": "1",
+  "n42022007006": "1",
+  "n44012003016": "1",
+  "n44020006008": "1",
+  "n46005007011": "2",
+  "n46005008015": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（種なしパン／比喩）による。教父の用例は無い。"
+}

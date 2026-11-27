@@ -1,0 +1,54 @@
+{
+ "lemma": "δόγμα",
+ "lemmaId": "grc:G1378",
+ "strong": "G1378",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "決定・勅令",
+   "label_en": "decree, decision",
+   "label_es": "decreto, decisión",
+   "label_sv": "beslut, påbud",
+   "def": "公の決定、勅令。『エルサレムの使徒たちと長老たちが決めた規定』『カイザルの勅令』『カイザルの詔勅に背いて』。",
+   "def_en": "An official decision, a decree: “the decisions reached by the apostles and elders in Jerusalem”, “Caesar’s decree”, “acting against Caesar’s edicts”.",
+   "def_es": "Resolución oficial, edicto: «las ordenanzas que habían acordado los apóstoles y los ancianos que estaban en Jerusalén», «un edicto de César», «contra los decretos de César».",
+   "def_sv": "Offentligt beslut, förordning: ”de beslut som apostlarna och de äldste i Jerusalem fattat”, ”kejsarens förordning”, ”mot kejsarens påbud”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒16:4・17:7、ルカ2:1。LXX に並行。教父の代表例では確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "規定・掟",
+   "label_en": "ordinance, regulation",
+   "label_es": "ordenanza, mandato",
+   "label_sv": "stadga, bud",
+   "def": "律法の規定、掟。『さまざまの規定から成っている律法』『規定による証書』。",
+   "def_en": "A statute of the law, a rule: “the law made up of various ordinances”, “the record of debt with its statutes”.",
+   "def_es": "Precepto de la ley, norma: «la ley de los mandamientos expresados en ordenanzas», «el acta de los decretos».",
+   "def_sv": "Lagens föreskrift, stadgande: ”lagen med dess många stadgar”, ”skuldebrevet med dess föreskrifter”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "エペソ2:15、コロサイ2:14。教父（「主の三つの定め」）に並行。LXX の代表例では確認していない。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42002001008": "1",
+  "n44016004010": "1",
+  "n44017007009": "1",
+  "n49002015006": "2",
+  "n51002014007": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（公の決定／規定・掟）による。"
+}

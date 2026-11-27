@@ -1,0 +1,83 @@
+{
+ "lemma": "καταλύω",
+ "lemmaId": "grc:G2647",
+ "strong": "G2647",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "壊す／取り壊す／倒す",
+   "label_en": "to destroy / tear down",
+   "label_es": "derribar / demoler",
+   "label_sv": "att riva ner / bryta ner",
+   "def": "建物・神殿・住まいを取り壊す、石が石の上に残らないほど崩す。『神殿を壊して三日で建てる』『築いたものを壊す』『神のわざを壊すな』。",
+   "def_en": "To demolish a building, temple, or dwelling, to pull it down until not one stone is left on another: “destroy the temple and rebuild it in three days”, “tear down what one built”, “do not destroy the work of God”.",
+   "def_es": "Demoler un edificio, el templo o una morada hasta no dejar piedra sobre piedra: «derribar el templo y reedificarlo en tres días», «lo que destruí», «no destruyas la obra de Dios».",
+   "def_sv": "Att riva en byggnad, templet eller en boning så att inte sten blir kvar på sten: ”riva templet och bygga upp det på tre dagar”, ”bygga upp det jag rivit”, ”riv inte ner Guds verk”.",
+   "layers": {
+    "nt": 11,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ24:2・26:61・27:40、マルコ13:2・14:58・15:29、ルカ21:6、使徒6:14、Ⅱコリ5:1（地上の幕屋が壊れても）、ガラテヤ2:18（壊したものを再び建てる）、ローマ14:20（神のわざを壊すな）。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "廃する／無効にする／覆す",
+   "label_en": "to abolish / annul / overthrow",
+   "label_es": "abolir / anular / desbaratar",
+   "label_sv": "att avskaffa / upphäva / omintetgöra",
+   "def": "律法・預言者・計画・運動を廃する、無効にする、覆す。『律法や預言者を廃するために来たと思うな』『神から出たものなら、あなたがたは覆すことはできない』。",
+   "def_en": "To abolish, annul, or overthrow the law, the prophets, a plan, or a movement: “do not think I have come to abolish the Law or the Prophets”, “if it is of God, you will not be able to overthrow them”.",
+   "def_es": "Abolir, anular o desbaratar la ley, los profetas, un plan o un movimiento: «no penséis que he venido a abolir la ley o los profetas», «si es de Dios, no podréis destruirlo».",
+   "def_sv": "Att avskaffa, göra om intet eller slå ner lagen, profeterna, en plan eller rörelse: ”tro inte att jag har kommit för att upphäva lagen eller profeterna”, ”är det av Gud kan ni inte krossa det”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "マタイ5:17（2回）、使徒5:38・39（神から出たものは滅ぼせない）。教父（ディダケー）に並行。LXX の代表例では確認していない。語義1との境界は連続的。"
+  },
+  {
+   "id": "3",
+   "label": "宿をとる／泊まる",
+   "label_en": "to lodge / find lodging",
+   "label_es": "alojarse / hospedarse",
+   "label_sv": "att ta in / övernatta",
+   "def": "旅人が宿屋・他人の家に泊まる、宿泊する。",
+   "def_en": "A traveller stops at an inn or another's house and lodges.",
+   "def_es": "El viajero para en un mesón o en casa ajena y se hospeda.",
+   "def_sv": "En resande tar in på ett härbärge eller i någons hus.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ルカ9:12（宿をとる）・19:7（罪人のところに泊まる）。LXX 創世記・士師記に並行。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40005017005": "2",
+  "n40005017013": "2",
+  "n40024002022": "1",
+  "n40026061005": "1",
+  "n40027040004": "1",
+  "n41013002021": "1",
+  "n41014058008": "1",
+  "n41015029014": "1",
+  "n42009012023": "3",
+  "n42019007011": "3",
+  "n42021006015": "1",
+  "n44005038026": "2",
+  "n44005039008": "2",
+  "n44006014010": "1",
+  "n45014020004": "1",
+  "n47005001011": "1",
+  "n48002018004": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

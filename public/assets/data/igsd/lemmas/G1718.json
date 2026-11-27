@@ -1,0 +1,76 @@
+{
+ "lemma": "ἐμφανίζω",
+ "lemmaId": "grc:G1718",
+ "strong": "G1718",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "訴え出る／知らせる（公式に）",
+   "label_en": "to bring a charge / notify (officially)",
+   "label_es": "denunciar / informar (oficialmente)",
+   "label_sv": "att anmäla / underrätta (officiellt)",
+   "def": "公式に訴え出る、通告する、知らせる。『大祭司は長老たちと共に総督に訴えた』『総督に訴え出て』『議会と共に千人隊長に知らせよ』『このことをわたしに知らせたと誰にも言うな』『王に知らせた』。",
+   "def_en": "To lay a charge officially, to notify, to inform: “the high priest and elders appeared before the governor against Paul”, “laid their case before the governor”, “you with the council give notice to the tribune”, “tell no one that you have informed me of these things”, “informed the king”.",
+   "def_es": "Presentar acusación, notificar, dar parte: «comparecieron ante el gobernador contra Pablo», «presentaron cargos ante el gobernador», «requerid al tribuno junto con el concilio», «a nadie digas que me has dado aviso», «informaron al rey».",
+   "def_sv": "Att officiellt anklaga, anmäla, meddela: ”översteprästen och de äldste förde talan inför ståthållaren”, ”anmälde Paulus för ståthållaren”, ”hemställ tillsammans med rådet hos tribunen”, ”säg inte till någon att du anmält detta för mig”, ”underrättade kungen”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒24:1・25:2・25:15・23:15・23:22。LXX エステル2:22 などに、教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "現す／示す",
+   "label_en": "to manifest / show",
+   "label_es": "manifestar / mostrar",
+   "label_sv": "att uppenbara / visa",
+   "def": "自分を現す、明らかにする、示す。『わたしは自分を彼に現す』『わたしたちには現さず』『故郷を求めていることを明らかにしている』。",
+   "def_en": "To manifest oneself, make clear, show: “I will manifest myself to him”, “and not to the world”, “make it clear that they are seeking a homeland”.",
+   "def_es": "Manifestarse, hacer patente, mostrar: «me manifestaré a él», «no al mundo», «claramente dan a entender que buscan una patria».",
+   "def_sv": "Att visa sig, klargöra, visa: ”jag ska uppenbara mig för honom”, ”men inte för oss ska du …”, ”visar tydligt att de söker ett hemland”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ヨハネ14:21・14:22、ヘブル11:14。LXX 出エジプト記33:18、教父に並行。"
+  },
+  {
+   "id": "3",
+   "label": "現れる",
+   "label_en": "to appear",
+   "label_es": "aparecer",
+   "label_sv": "att visa sig",
+   "def": "現れる、姿を見せる。『聖なる都に入って、多くの人に現れた』『神のみ前に現れてくださる』。",
+   "def_en": "To appear, to show oneself: “went into the holy city and appeared to many”, “to appear now in the presence of God”.",
+   "def_es": "Presentarse, dejarse ver: «vinieron a la santa ciudad y aparecieron a muchos», «para presentarse ahora ante Dios».",
+   "def_sv": "Att framträda, ge sig till känna: ”gick in i den heliga staden och visade sig för många”, ”för att nu träda fram inför Gud”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マタイ27:53、ヘブル9:24。語義2との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40027053016": "3",
+  "n43014021027": "2",
+  "n43014022013": "2",
+  "n44023015004": "1",
+  "n44023022013": "1",
+  "n44024001017": "1",
+  "n44025002001": "1",
+  "n44025015007": "1",
+  "n58009024017": "3",
+  "n58011014005": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法による。"
+}

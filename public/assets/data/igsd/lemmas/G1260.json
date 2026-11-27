@@ -1,0 +1,65 @@
+{
+ "lemma": "διαλογίζομαι",
+ "lemmaId": "grc:G1260",
+ "strong": "G1260",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "思いめぐらす／心の中で考える",
+   "label_en": "to ponder / think in one's heart",
+   "label_es": "cavilar / pensar para sí",
+   "label_sv": "att fundera / tänka i sitt hjärta",
+   "def": "心の中で考える、思いめぐらす、疑問を抱く。『心の中で考えた』『なぜ心の中でそんなことを考えるのか』。",
+   "def_en": "To think in one's heart, to ponder, to harbour questions: “they reasoned in their hearts”, “why do you think such things in your hearts?”",
+   "def_es": "Pensar en el corazón, dar vueltas, abrigar dudas: «pensaban en sus corazones», «¿por qué caviláis así en vuestros corazones?».",
+   "def_sv": "Att tänka för sig själv, grubbla, hysa frågor: ”tänkte i sina hjärtan”, ”varför tänker ni sådant i era hjärtan?”.",
+   "layers": {
+    "nt": 8,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ルカ1:29・3:15・5:21・22・12:17、マルコ2:6・8（2回、心の中で考える）。LXX 詩篇139:9、教父（ヘルマス4.1.4）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "論じ合う／議論する",
+   "label_en": "to discuss / argue",
+   "label_es": "discutir / debatir",
+   "label_sv": "att överlägga / diskutera",
+   "def": "互いに論じ合う、言い合う。『パンを持ってこなかったと論じ合った』『だれが一番偉いかと論じ合った』。",
+   "def_en": "To discuss and dispute with one another: “they argued that they had brought no bread”, “argued about who was the greatest”.",
+   "def_es": "Discutir y disputar entre sí: «discutían porque no habían traído pan», «discutían quién era el mayor».",
+   "def_sv": "Att resonera och tvista sinsemellan: ”de talade med varandra om att de inte hade bröd”, ”diskuterade vem som var störst”.",
+   "layers": {
+    "nt": 8,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マタイ16:7・8・21:25、マルコ8:16・17・9:33・11:31、ルカ20:14。LXX 箴言17:12 に並行。教父の代表例では確認していない。語義1との境界は連続的（心の中で考えるか、互いに論じ合うか）。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40016007003": "2",
+  "n40016008007": "2",
+  "n40021025014": "2",
+  "n41002006009": "1",
+  "n41002008011": "1",
+  "n41002008018": "1",
+  "n41008016002": "2",
+  "n41008017006": "2",
+  "n41009033016": "2",
+  "n41011031002": "2",
+  "n42001029008": "1",
+  "n42003015006": "1",
+  "n42005021003": "1",
+  "n42005022013": "1",
+  "n42012017002": "1",
+  "n42020014006": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

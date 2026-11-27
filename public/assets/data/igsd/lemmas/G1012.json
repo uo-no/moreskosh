@@ -1,0 +1,61 @@
+{
+ "lemma": "βουλή",
+ "lemmaId": "grc:G1012",
+ "strong": "G1012",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "神のご計画／みこころ",
+   "label_en": "God's plan / will",
+   "label_es": "designio / voluntad de Dios",
+   "label_sv": "Guds plan / vilja",
+   "def": "神の計画、ご意志、みこころ。『神の定められた計画』『神のご計画をことごとく』『ご計画の不変であること』『神のご計画を拒んだ』『みこころのままに』。",
+   "def_en": "God's plan, purpose, and will: “the definite plan of God”, “the whole counsel of God”, “the unchangeable character of his purpose”, “rejected God's purpose”, “according to his will”.",
+   "def_es": "El plan, propósito y voluntad de Dios: «el determinado consejo de Dios», «todo el consejo de Dios», «la inmutabilidad de su consejo», «desecharon los designios de Dios», «según el designio de su voluntad».",
+   "def_sv": "Guds plan, beslut och vilja: ”Guds fastställda plan”, ”hela Guds plan”, ”att hans beslut är orubbligt”, ”förkastade Guds plan”, ”efter hans viljas beslut”.",
+   "layers": {
+    "nt": 7,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒2:23・4:28・13:36・20:27、エペソ1:11、ヘブル6:17、ルカ7:30。LXX 詩篇32:10・イザヤ、教父（57.5）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "人の計画／決定／はかりごと",
+   "label_en": "human plan / decision / scheme",
+   "label_es": "plan / decisión / maquinación humana",
+   "label_sv": "människors plan / beslut / anslag",
+   "def": "人の計画、決定、はかりごと。『心のはかりごと』『彼らの計画に同意していなかった』『大多数の者の決定は』『兵士たちの計画は』『この計画がもし人から出たのなら』。",
+   "def_en": "Human plans, decisions, and schemes: “the purposes of the heart”, “had not consented to their plan”, “the majority decided”, “the soldiers' plan”, “if this plan is of human origin”.",
+   "def_es": "Planes, decisiones y maquinaciones de las personas: «las intenciones de los corazones», «no había consentido en su acuerdo», «la mayoría acordó», «el acuerdo de los soldados», «si este consejo es de los hombres».",
+   "def_sv": "Människors planer, beslut och anslag: ”hjärtats planer”, ”hade inte samtyckt till deras beslut”, ”de flesta beslutade”, ”soldaternas plan”, ”om denna plan kommer från människor”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒27:12・27:42・5:38、ルカ23:51、Ⅰコリ4:5。LXX 創世記28:8（引用的）、教父（26.28.4）に並行。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42007030008": "1",
+  "n42023051006": "2",
+  "n44002023004": "1",
+  "n44004028008": "1",
+  "n44005038020": "2",
+  "n44013036010": "1",
+  "n44020027009": "1",
+  "n44027012011": "2",
+  "n44027042004": "2",
+  "n46004005022": "2",
+  "n49001011014": "1",
+  "n58006017015": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は主体（神／人）による。"
+}

@@ -1,0 +1,75 @@
+{
+ "lemma": "ἔσω",
+ "lemmaId": "grc:G2080",
+ "strong": "G2080",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "中に（静止）",
+   "label_en": "inside (at rest)",
+   "label_es": "dentro (reposo)",
+   "label_sv": "inne (vara)",
+   "def": "内に、中に。『教会の内の人々を裁く』『戸が閉まっていて中に』『弟子たちは再び家の中にいた』『中庭で』。",
+   "def_en": "Within, inside: “judge those inside the church”, “the doors being locked”, “his disciples were inside again”, “in the courtyard”.",
+   "def_es": "Dentro, en el interior: «juzgar a los que están dentro», «estando las puertas cerradas», «estaban otra vez dentro sus discípulos», «en el patio».",
+   "def_sv": "Inne, innanför: ”döma dem som är inne i församlingen”, ”fastän dörrarna var stängda”, ”lärjungarna var åter inne”, ”inne på gården”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰコリ5:12、使徒5:23、ヨハネ20:26、マルコ14:54。LXX Ⅱ歴代誌・列王記上6:15、教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "中へ（動作）",
+   "label_en": "into (motion)",
+   "label_es": "adentro (movimiento)",
+   "label_sv": "in (rörelse)",
+   "def": "内へ、中へ。『大祭司の中庭まで入り』『兵士たちは官邸の中庭へ連れて入り』。",
+   "def_en": "Inward, into: “went right into the courtyard of the high priest”, “the soldiers led him into the courtyard of the residence”.",
+   "def_es": "Hacia dentro: «hasta dentro del patio del sumo sacerdote», «los soldados le llevaron dentro del atrio».",
+   "def_sv": "Inåt, in i: ”ända in på översteprästens gård”, ”soldaterna förde in honom på residensgården”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "マタイ26:58、マルコ15:16。LXX 歴代誌下29:18 に並行。語義1との境界は連続的。"
+  },
+  {
+   "id": "3",
+   "label": "内なる（ὁ ἔσω ἄνθρωπος）",
+   "label_en": "inner (ὁ ἔσω ἄνθρωπος)",
+   "label_es": "interior (ὁ ἔσω ἄνθρωπος)",
+   "label_sv": "inre (ὁ ἔσω ἄνθρωπος)",
+   "def": "『内なる人』。『内なる人は日ごとに新しくされ』『内なる人を強められ』『内なる人としては神の律法を喜ぶ』。",
+   "def_en": "“The inner person”: “our inner self is being renewed day by day”, “strengthened in your inner being”, “I delight in the law of God in my inner being”.",
+   "def_es": "«El hombre interior»: «el interior se renueva de día en día», «fortalecidos en el hombre interior», «según el hombre interior, me deleito en la ley de Dios».",
+   "def_sv": "”Den inre människan”: ”vår inre människa förnyas dag för dag”, ”stärkta i er inre människa”, ”till min inre människa gläder jag mig över Guds lag”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "Ⅱコリ4:16、エペソ3:16、ローマ7:22。教父（12.4）に並行。LXX の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40026058015": "2",
+  "n41014054009": "1",
+  "n41015016006": "2",
+  "n43020026007": "1",
+  "n44005023019": "1",
+  "n45007022009": "3",
+  "n46005012009": "1",
+  "n47004016014": "3",
+  "n49003016018": "3"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（静止／動作／内なる人）による。"
+}

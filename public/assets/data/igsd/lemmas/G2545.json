@@ -1,0 +1,79 @@
+{
+ "lemma": "καίω",
+ "lemmaId": "grc:G2545",
+ "strong": "G2545",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "燃える／燃えている",
+   "label_en": "to burn / be alight",
+   "label_es": "arder / estar encendido",
+   "label_sv": "att brinna / lysa",
+   "def": "燃える、燃えている、輝く。『火で燃える山』『燃えて輝くともしび』『腰に帯を締め、あかりをともして』『心は燃えていた』『硫黄の燃える池』『燃える大きな星』。",
+   "def_en": "To burn, be burning, shine: “a mountain burning with fire”, “a burning and shining lamp”, “dressed for action with lamps burning”, “our hearts burned”, “the lake that burns with sulfur”, “a great blazing star”.",
+   "def_es": "Arder, estar en llamas, brillar: «monte que ardía en fuego», «antorcha que ardía y alumbraba», «ceñidos y con las lámparas encendidas», «ardía nuestro corazón», «el lago que arde con azufre», «una gran estrella ardiendo».",
+   "def_sv": "Att brinna, stå i lågor, skina: ”ett berg som brann i eld”, ”en brinnande och lysande lampa”, ”bältet spänt och lamporna tända”, ”våra hjärtan brann”, ”sjön som brinner av svavel”, ”en stor flammande stjärna”.",
+   "layers": {
+    "nt": 9,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ヘブル12:18、ヨハネ5:35、ルカ12:35・24:32、黙示録19:20・4:5・21:8・8:8・8:10。LXX 申命記33:14 ほか、教父（11.2、3.2.9）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "焼かれる／焼き尽くされる",
+   "label_en": "to be burned up",
+   "label_es": "ser quemado / consumido",
+   "label_sv": "att brännas upp",
+   "def": "火で焼かれる、焼き尽くされる。『体を焼かれるために渡しても』『枝を集めて火に投げ入れると、焼かれる』『毒麦が焼かれる』。",
+   "def_en": "To be burned with fire, consumed: “if I give my body to be burned”, “branches gathered, thrown into the fire, and burned”, “the weeds are burned”.",
+   "def_es": "Ser quemado en el fuego: «si entrego mi cuerpo para ser quemado», «los recogen, los echan en el fuego y arden», «se quema la cizaña».",
+   "def_sv": "Att brännas i eld och förtäras: ”om jag offrar min kropp till att brännas”, ”grenarna samlas ihop, kastas i elden och bränns”, ”ogräset bränns upp”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰコリ13:3、ヨハネ15:6、マタイ13:40。LXX ダニエル3:46・教父に並行。語義1との境界は連続的。"
+  },
+  {
+   "id": "3",
+   "label": "（灯を）ともす",
+   "label_en": "to light (a lamp)",
+   "label_es": "encender (una lámpara)",
+   "label_sv": "att tända (en lampa)",
+   "def": "灯火をともす。『ともしびをともして升の下に置く者はいない』。",
+   "def_en": "To light a lamp: “no one lights a lamp and puts it under a basket”.",
+   "def_es": "Encender la luz: «ni se enciende una luz y se pone debajo de un almud».",
+   "def_sv": "Att tända ett ljus: ”man tänder inte en lampa och sätter den under sädesmåttet”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ5:15 の1例のみ。LXX・教父の代表例では確認していない。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40005015002": "3",
+  "n40013040008": "2",
+  "n42012035009": "1",
+  "n42024032009": "1",
+  "n43005035006": "1",
+  "n43015006023": "2",
+  "n46013003015": "2",
+  "n58012018006": "1",
+  "n66004005015": "1",
+  "n66008008011": "1",
+  "n66008010013": "1",
+  "n66019020041": "1",
+  "n66021008027": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（燃える／焼かれる／ともす）による。"
+}

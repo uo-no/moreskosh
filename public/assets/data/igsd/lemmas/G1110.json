@@ -1,0 +1,64 @@
+{
+ "lemma": "γνωστός",
+ "lemmaId": "grc:G1110",
+ "strong": "G1110",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "知られた／周知の",
+   "label_en": "known / well known",
+   "label_es": "conocido / notorio",
+   "label_sv": "känd / allmänt bekant",
+   "def": "知られている、明らかな、顕著な。『すべての人に知られ』『知られた事』『顕著なしるし』『神について知りうること』。",
+   "def_en": "Known, evident, notable: “known to all”, “let this be known”, “a notable sign”, “what can be known about God”.",
+   "def_es": "Conocido, evidente, destacado: «notorio a todos», «os sea notorio», «señal manifiesta», «lo que de Dios se conoce».",
+   "def_sv": "Känd, uppenbar, påtaglig: ”känt för alla”, ”ni ska veta”, ”ett uppenbart tecken”, ”det man kan veta om Gud”.",
+   "layers": {
+    "nt": 11,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒1:19・15:18・13:38・19:17・2:14・28:22・28:28・4:10・4:16・9:42、ローマ1:19。LXX 詩篇75:2、教父（22.5.1）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "知人／知り合い（名詞的）",
+   "label_en": "acquaintance (substantive)",
+   "label_es": "conocido (sustantivado)",
+   "label_sv": "bekant (substantiverat)",
+   "def": "知り合い、知人。『親族や知人の間を捜した』『知人たちはみな』『大祭司に知られていた』。",
+   "def_en": "An acquaintance: “searched among relatives and acquaintances”, “all his acquaintances”, “was known to the high priest”.",
+   "def_es": "Persona conocida: «entre parientes y conocidos», «todos sus conocidos», «era conocido del sumo sacerdote».",
+   "def_sv": "En bekant: ”bland släktingar och bekanta”, ”alla hans bekanta”, ”var bekant med översteprästen”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ルカ2:44・23:49、ヨハネ18:15・18:16。LXX 詩篇15:10 に並行、教父（11.2）に並行。語義1との境界は連続的（ヨハネ18:15・16 は『大祭司に知られた』）。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42002044019": "2",
+  "n42023049005": "2",
+  "n43018015015": "2",
+  "n43018016016": "2",
+  "n44001019002": "1",
+  "n44002014024": "1",
+  "n44004010001": "1",
+  "n44004016010": "1",
+  "n44009042001": "1",
+  "n44013038001": "1",
+  "n44015018001": "1",
+  "n44019017004": "1",
+  "n44028022014": "1",
+  "n44028028001": "1",
+  "n45001019003": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は形容詞的／名詞的用法による。"
+}

@@ -1,0 +1,52 @@
+{
+ "lemma": "ἐπανάγω",
+ "lemmaId": "grc:G1877",
+ "strong": "G1877",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "沖へ出す",
+   "label_en": "to put out (from shore)",
+   "label_es": "apartarse mar adentro",
+   "label_sv": "att lägga ut",
+   "def": "舟を沖へこぎ出す。『岸から少しこぎ出すように』『沖へこぎ出して』。",
+   "def_en": "To push a boat out into deep water: “to put out a little from the shore”, “put out into deep water”.",
+   "def_es": "Alejar la barca de tierra: «que la apartase de tierra un poco», «boga mar adentro».",
+   "def_sv": "Att föra ut båten på djupet: ”lägga ut lite från land”, ”lägg ut på djupet”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ルカ5:3・5:4。語義2との境界は連続的。LXX の代表例は「戻る」の用法で、この語義としては確認していない。教父の用例なし。"
+  },
+  {
+   "id": "2",
+   "label": "戻る",
+   "label_en": "to return",
+   "label_es": "volver",
+   "label_sv": "att återvända",
+   "def": "戻る、帰る。『朝早く都に帰る途中』。",
+   "def_en": "To return, to go back: “on the way back to the city early in the morning”.",
+   "def_es": "Regresar: «por la mañana, volviendo a la ciudad».",
+   "def_sv": "Att vända tillbaka: ”när han tidigt på morgonen var på väg tillbaka till staden”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マタイ21:18。LXX に並行。教父の用例なし。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40021018003": "2",
+  "n42005003015": "1",
+  "n42005004009": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（沖へ出す／戻る）による。"
+}

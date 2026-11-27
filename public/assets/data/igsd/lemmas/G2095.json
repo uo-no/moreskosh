@@ -1,0 +1,55 @@
+{
+ "lemma": "εὖ",
+ "lemmaId": "grc:G2095",
+ "strong": "G2095",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "よく・うまく",
+   "label_en": "well",
+   "label_es": "bien",
+   "label_sv": "väl",
+   "def": "よく、うまく、良いことを。『これらのことを避けていれば、あなたがたはうまくいくであろう』『あなたが幸福になり』『いつでも良いことをしてあげられる』。",
+   "def_en": "Well; what is good: “if you keep yourselves from these things, you will do well”, “that it may go well with you”, “you can do good to them whenever you wish”.",
+   "def_es": "Bien, hacer el bien: «si os guardáis de estas cosas, bien haréis», «para que te vaya bien», «cuando queráis les podéis hacer bien».",
+   "def_sv": "Väl, bra, gott: ”om ni avhåller er från detta går det er väl”, ”så att det går dig väl”, ”ni kan göra gott mot dem när ni vill”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒15:29、エペソ6:3、マルコ14:7。LXX（30.5・12.5）、教父（6.11.3・16.12）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "よくやった（賞賛の呼びかけ）",
+   "label_en": "well done (exclamation of praise)",
+   "label_es": "muy bien (exclamación de elogio)",
+   "label_sv": "bra (berömmande utrop)",
+   "def": "賞賛の呼びかけ、よくやった。『よくやった、良い忠実なしもべよ』『よし、良いしもべ』。",
+   "def_en": "An exclamation of praise: well done. “well done, good and faithful servant”, “well done, good servant”.",
+   "def_es": "Exclamación de alabanza: muy bien. «bien, siervo bueno y fiel», «está bien, buen siervo».",
+   "def_sv": "Ett berömmande tillrop: bra gjort. ”bra, du är en god och trogen tjänare”, ”bra, du gode tjänare”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ルカ19:17・マタイ25:21・25:23。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40025021006": "2",
+  "n40025023006": "2",
+  "n41014007013": "1",
+  "n42019017004": "2",
+  "n44015029013": "1",
+  "n49006003002": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（副詞「よく」／賞賛の呼びかけ）による。"
+}

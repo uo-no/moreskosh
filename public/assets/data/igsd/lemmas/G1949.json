@@ -1,0 +1,119 @@
+{
+ "lemma": "ἐπιλαμβάνομαι",
+ "lemmaId": "grc:G1949",
+ "strong": "G1949",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "つかむ／手を取る",
+   "label_en": "to take hold of / take by the hand",
+   "label_es": "asir / tomar de la mano",
+   "label_sv": "att gripa tag i / ta i handen",
+   "def": "人の手・体をつかんで支える、連れて行く。『手を取って』『子どもを引き寄せて』『ペテロをつかまえて』。",
+   "def_en": "To grasp a person's hand or body to support or lead them: “took him by the hand”, “drew a child to himself”, “caught Peter”.",
+   "def_es": "Agarrar la mano o el cuerpo de alguien para sostenerlo o llevarlo: «tomándolo de la mano», «tomó a un niño y lo puso junto a sí», «sujetó a Pedro».",
+   "def_sv": "Att fatta tag i en människas hand eller kropp för att stödja eller föra: ”tog honom i handen”, ”tog ett barn intill sig”, ”grep tag i Petrus”.",
+   "layers": {
+    "nt": 9,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "マタイ14:31（イエスは手を伸ばしてつかまえ）、マルコ8:23、ルカ9:47・14:4・23:26、使徒9:27・17:19・23:19、ヘブル8:9（手を取って連れ出した日）。LXX 申命記・イザヤ、教父（ヘルマス3.2.4）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "捕らえる／逮捕する（暴力的に）",
+   "label_en": "to seize / arrest (violently)",
+   "label_es": "apresar / arrestar (con violencia)",
+   "label_sv": "att gripa / arrestera (med våld)",
+   "def": "人を暴力的につかんで捕らえる、引っ立てる、襲う。",
+   "def_en": "To grab and seize a person by force, drag them off, set upon them.",
+   "def_es": "Agarrar y prender a una persona con violencia, arrastrarla, acometerla.",
+   "def_sv": "Att våldsamt gripa en människa, släpa iväg eller överfalla.",
+   "layers": {
+    "nt": 4,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒16:19・18:17・21:30・33（パウロを捕らえて）。語義1との境界は、つかむ行為が敵対的かどうかによる連続的な区分。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "（ことばじりを）捕らえる",
+   "label_en": "to catch (someone in words)",
+   "label_es": "sorprender (en sus palabras)",
+   "label_sv": "att ansätta (någon för dennes ord)",
+   "def": "相手のことばの落ち度を捕らえて責める。",
+   "def_en": "To seize on a fault in another's words and blame them.",
+   "def_es": "Atrapar un desliz en lo que otro dice para acusarlo.",
+   "def_sv": "Att ta fasta på en blunder i någons ord för att anklaga.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ルカ20:20・26（イエスのことばじりを捕らえようとした）。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "4",
+   "label": "助ける／手を差し伸べる",
+   "label_en": "to help / lend a hand",
+   "label_es": "ayudar / tender la mano",
+   "label_sv": "att hjälpa / räcka en hand",
+   "def": "人に手を貸して助ける、つかんで助け出す。『アブラハムの子孫を助ける』。",
+   "def_en": "To give someone a hand and help, to grasp and rescue: “he helps the descendants of Abraham”.",
+   "def_es": "Echar una mano y socorrer, agarrar y sacar a salvo: «socorre a la descendencia de Abrahán».",
+   "def_sv": "Att hjälpa någon, att gripa tag och rädda: ”han tar sig an Abrahams ättlingar”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヘブル2:16（御使いたちを助けるのではなく、アブラハムの子孫を助ける。同一節に2回）。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "5",
+   "label": "しっかりつかむ（いのち・約束を）",
+   "label_en": "to take firm hold of (life, a promise)",
+   "label_es": "asirse firmemente (de la vida, de la promesa)",
+   "label_sv": "att gripa fast om (livet, löftet)",
+   "def": "永遠のいのち・まことのいのちを、しっかりつかむ、確保する。",
+   "def_en": "To grasp firmly and secure eternal life, true life.",
+   "def_es": "Echar mano con firmeza de la vida eterna, de la vida verdadera, y asegurarla.",
+   "def_sv": "Att fast gripa och säkra det eviga livet, det sanna livet.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "Ⅰテモ6:12（永遠のいのちを獲得しなさい）・6:19（まことのいのちをつかむ）。語義1との境界は連続的（比喩的な『つかむ』）。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40014031008": "1",
+  "n41008023002": "1",
+  "n42009047010": "1",
+  "n42014004005": "1",
+  "n42020020010": "3",
+  "n42020026004": "3",
+  "n42023026005": "1",
+  "n44009027003": "1",
+  "n44016019013": "2",
+  "n44017019001": "1",
+  "n44018017001": "2",
+  "n44021030012": "2",
+  "n44021033005": "2",
+  "n44023019001": "1",
+  "n54006012007": "5",
+  "n54006019009": "5",
+  "n58002016005": "4",
+  "n58002016009": "4",
+  "n58008009012": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

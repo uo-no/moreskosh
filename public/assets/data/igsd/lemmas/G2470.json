@@ -1,0 +1,74 @@
+{
+ "lemma": "ἴσος",
+ "lemmaId": "grc:G2470",
+ "strong": "G2470",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "等しい・同じ（量・質・大きさ）",
+   "label_en": "equal / same (amount, quality, size)",
+   "label_es": "igual / mismo (cantidad, calidad, tamaño)",
+   "label_sv": "lika / samma (mängd, art, storlek)",
+   "def": "等しい、同じである。『神が彼らにも同じ賜物をお与えになったのなら』『同じように扱われた』『同じだけのものを返してもらおうとして』『長さも幅も高さも等しい』。",
+   "def_en": "Equal, the same: “if God gave them the same gift”, “you have made them equal to us”, “to get back the same amount”, “its length, width, and height are equal”.",
+   "def_es": "Igual, lo mismo: «si Dios les concedió también el mismo don», «los has hecho iguales a nosotros», «para recibir otro tanto», «la longitud, la altura y la anchura son iguales».",
+   "def_sv": "Lika, likadan: ”om Gud har gett dem samma gåva”, ”du har jämställt dem med oss”, ”för att få lika mycket tillbaka”, ”längden, bredden och höjden är lika”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒11:17、マタイ20:12、ルカ6:34、黙示録21:16。LXX（13.28・41.8）、教父（7.10・21.7）に並行。語義2・3との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "一致する",
+   "label_en": "agreeing",
+   "label_es": "concordante",
+   "label_sv": "samstämmig",
+   "def": "証言が互いに一致する。『その証言は合わなかった』。",
+   "def_en": "Testimonies agree with one another: “their testimony did not agree”.",
+   "def_es": "Los testimonios concuerdan entre sí: «sus testimonios no concordaban».",
+   "def_sv": "Vittnesmål stämmer överens: ”deras vittnesmål stämde inte överens”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マルコ14:56・14:59。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "神と等しい",
+   "label_en": "equal with God",
+   "label_es": "igual a Dios",
+   "label_sv": "jämlik Gud",
+   "def": "神と等しい。『神と等しい者とされた』『自分を神と等しい者とされた』。",
+   "def_en": "Equal with God: “making himself equal with God”, “made himself equal with God”.",
+   "def_es": "Igual a Dios: «haciéndose igual a Dios», «se hacía igual a Dios».",
+   "def_sv": "Lika med Gud: ”göra sig lik Gud”, ”gjorde sig själv jämlik med Gud”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヨハネ5:18、ピリピ2:6。等しさの内容（性質・地位・その他）の解釈は決定しない。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40020012009": "1",
+  "n41014056007": "2",
+  "n41014059004": "2",
+  "n42006034019": "1",
+  "n43005018023": "3",
+  "n44011017004": "1",
+  "n50002006011": "3",
+  "n66021016032": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義3の解釈（等しさの内容）は争われており決定しない。"
+}

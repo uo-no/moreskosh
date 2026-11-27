@@ -1,0 +1,56 @@
+{
+ "lemma": "ἅλας",
+ "lemmaId": "grc:G217",
+ "strong": "G217",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "塩",
+   "label_en": "salt",
+   "label_es": "sal",
+   "label_sv": "salt",
+   "def": "塩（字義・比喩）。『あなたがたは地の塩である。もし塩の味がなくなったら』『塩は良いものだ。しかし塩に塩けがなくなったら』『自分自身の中に塩を持ち』。",
+   "def_en": "Salt (literal and figurative): “You are the salt of the earth. But if the salt loses its taste”, “Salt is good. But if the salt loses its saltiness”, “have salt in yourselves”.",
+   "def_es": "Sal (en sentido literal y figurado): «Vosotros sois la sal de la tierra. Pero si la sal pierde su sabor», «La sal es buena. Pero si la sal pierde su salinidad», «tened sal en vosotros mismos».",
+   "def_sv": "Salt (bokstavligt och bildligt): ”Ni är jordens salt. Men om saltet förlorar sin smak”, ”Saltet är bra. Men om saltet förlorar sin sälta”, ”ha salt i er själva”.",
+   "layers": {
+    "nt": 6,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マタイ5:13（2回）、マルコ9:50（2回）、ルカ14:34（2回）。LXX（2.13）に並行。教父の代表例なし。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "塩味のある言葉（比喩）",
+   "label_en": "speech seasoned with salt (figurative)",
+   "label_es": "palabras sazonadas con sal (figurado)",
+   "label_sv": "tal kryddat med salt (bildligt)",
+   "def": "言葉に塩で味をつける。『あなたがたの言葉が、いつも塩で味つけられた、恵み深いものであるように』。",
+   "def_en": "Seasoning one’s speech with salt: “let your speech always be gracious, seasoned with salt”.",
+   "def_es": "Sazonar con sal las propias palabras: «que vuestra palabra sea siempre con gracia, sazonada con sal».",
+   "def_sv": "Att krydda sina ord med salt: ”låt ert tal alltid vara vänligt, kryddat med salt”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "コロサイ4:6。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40005013004": "1",
+  "n40005013010": "1",
+  "n41009050003": "1",
+  "n41009050007": "1",
+  "n42014034004": "1",
+  "n42014034009": "1",
+  "n51004006007": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（塩そのもの／言葉の味つけ）による。"
+}

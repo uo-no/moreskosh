@@ -1,0 +1,53 @@
+{
+ "lemma": "ἐκτίθημι",
+ "lemmaId": "grc:G1620",
+ "strong": "G1620",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "説明する・述べる",
+   "label_en": "to explain, to set forth",
+   "label_es": "exponer, explicar",
+   "label_sv": "att förklara, att lägga fram",
+   "def": "事を説明する、詳しく述べる。『事のいきさつを順序正しく説明した』『さらに詳しく説明した』『説明して』。",
+   "def_en": "To explain a matter, to expound in detail: “explained to them in order what had happened”, “explained more fully”, “explaining”.",
+   "def_es": "Explicar un asunto, exponerlo con detalle: «les contó por orden lo sucedido», «expuso con más exactitud», «explicando».",
+   "def_sv": "Att redogöra för en sak, att utförligt framställa: ”förklarade i ordning vad som hänt”, ”lade fram utförligare”, ”förklarade”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒11:4・18:26・28:23。LXX（「布告する・述べる」）に並行。教父の用例なし。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "捨てる・放置する",
+   "label_en": "to expose, to abandon",
+   "label_es": "exponer, abandonar",
+   "label_sv": "att sätta ut, att överge",
+   "def": "捨てる、野に置く。『捨てられた時』。",
+   "def_en": "To put out, to leave exposed: “when he was put out”.",
+   "def_es": "Desechar, dejar expuesto: «cuando fue expuesto».",
+   "def_sv": "Att kasta ut, att lämna ute: ”när han sattes ut”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒7:21。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n44007021001": "2",
+  "n44011004004": "1",
+  "n44018026019": "1",
+  "n44028023013": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（説明する／捨てる）による。"
+}

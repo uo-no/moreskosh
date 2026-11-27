@@ -1,0 +1,51 @@
+{
+ "lemma": "ἐπιλέγω",
+ "lemmaId": "grc:G1951",
+ "strong": "G1951",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "選ぶ",
+   "label_en": "to choose",
+   "label_es": "escoger",
+   "label_sv": "att välja",
+   "def": "選ぶ、選び取る。『シラスを選んで』。",
+   "def_en": "To choose, to select: “choosing Silas”.",
+   "def_es": "Elegir, seleccionar: «escogiendo a Silas».",
+   "def_sv": "Att utvälja: ”utvalde Silas”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒15:40。LXX に並行。教父の代表例では確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "～と呼ばれる",
+   "label_en": "to be called",
+   "label_es": "llamarse",
+   "label_sv": "att kallas",
+   "def": "～と呼ばれる、名づけられる。『ヘブル語でベテスダと呼ばれる』。",
+   "def_en": "To be called, to be named: “called in Hebrew Bethesda”.",
+   "def_es": "Recibir un nombre, ser llamado: «llamado en hebreo Betesda».",
+   "def_sv": "Att heta, att få namnet: ”på hebreiska kallad Betesda”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヨハネ5:2。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n43005002011": "2",
+  "n44015040003": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（選ぶ／呼ばれる）による。"
+}

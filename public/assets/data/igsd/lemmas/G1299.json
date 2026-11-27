@@ -1,0 +1,65 @@
+{
+ "lemma": "διατάσσω",
+ "lemmaId": "grc:G1299",
+ "strong": "G1299",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "命じる／指示する",
+   "label_en": "to command / direct",
+   "label_es": "mandar / ordenar",
+   "label_sv": "att befalla / föreskriva",
+   "def": "命令を与える、指示する、規定を示す。『主は命じられた』『わたしがすべての教会に命じておく』『命じられたことをしたからといって』。",
+   "def_en": "To give an order, to direct, to lay down a rule: “the Lord commanded”, “this I ordain in all the churches”, “because he did what was commanded”.",
+   "def_es": "Dar una orden, instruir, establecer una norma: «el Señor ordenó», «esto ordeno en todas las iglesias», «porque hizo lo mandado».",
+   "def_sv": "Att ge order, anvisa, fastställa en föreskrift: ”Herren har befallt”, ”så föreskriver jag i alla församlingar”, ”för att han gjort det han blivit befalld”.",
+   "layers": {
+    "nt": 14,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰコリ7:17・9:14・11:34・16:1、ルカ3:13（定められた額）・8:55・17:9・10、マタイ11:1（弟子たちに指示し終えた）、使徒7:44・18:2・23:31・24:23、テト1:5。LXX Ⅰマカバイ14.22、教父（イグナティオス1.3.1）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "定める／手配する（中動・受動）",
+   "label_en": "to appoint / arrange (middle, passive)",
+   "label_es": "disponer / concertar (voz media y pasiva)",
+   "label_sv": "att ordna / bestämma (medium, passiv)",
+   "def": "自分で段取りを整える、手配する、定め置く。『天使たちによって定められた』『自分で歩いて行くことにして』。",
+   "def_en": "To make arrangements oneself, to arrange, to set in place: “ordained through angels”, “having arranged to go on foot”.",
+   "def_es": "Organizar los pasos, disponer, establecer: «ordenada por medio de ángeles», «habiendo dispuesto ir él a pie».",
+   "def_sv": "Att själv ordna, ställa till rätta, fastställa: ”förordnad genom änglar”, ”hade bestämt sig för att gå till fots”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒20:13（自分は陸路を行くことに決めていた）、ガラテヤ3:19（律法は御使いたちによって定められた）。語義1との境界は連続的（態の違い）。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40011001007": "1",
+  "n42003013010": "1",
+  "n42008055010": "1",
+  "n42017009009": "1",
+  "n42017010008": "1",
+  "n44007044013": "1",
+  "n44018002021": "1",
+  "n44020013018": "2",
+  "n44023031007": "1",
+  "n44024023001": "1",
+  "n46007017021": "1",
+  "n46009014005": "1",
+  "n46011034018": "1",
+  "n46016001010": "1",
+  "n48003019016": "2",
+  "n56001005019": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

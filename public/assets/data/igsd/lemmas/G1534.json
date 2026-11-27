@@ -1,0 +1,81 @@
+{
+ "lemma": "εἶτα",
+ "lemmaId": "grc:G1534",
+ "strong": "G1534",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "それから／次に（時の継起）",
+   "label_en": "then / next (succession in time)",
+   "label_es": "luego / después (sucesión temporal)",
+   "label_sv": "därpå / sedan (tidsföljd)",
+   "def": "時間の順序で『それから』『やがて』。『それから水をたらいに入れ』『それから弟子に言われた』『欲が孕むと』。",
+   "def_en": "“Then”, “presently”, in order of time: “then he poured water into a basin”, “then he said to the disciple”, “then desire, having conceived …”.",
+   "def_es": "«Luego», «entonces», en orden de tiempo: «luego puso agua en un lebrillo», «después dijo al discípulo», «entonces la concupiscencia, después que ha concebido …».",
+   "def_sv": "”Sedan”, ”därefter”, i tidsordning: ”därpå hällde han vatten i ett fat”, ”sedan sade han till lärjungen”, ”när sedan begäret blivit havande”.",
+   "layers": {
+    "nt": 10,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ヨハネ13:5・19:27・20:27、ルカ8:12、マルコ4:17・4:28（2回）・8:25、ヤコブ1:15、Ⅰテモ3:10。LXX・教父（13.1.10）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "次に（列挙）",
+   "label_en": "next (enumeration)",
+   "label_es": "después (enumeración)",
+   "label_sv": "därnäst (uppräkning)",
+   "def": "列挙における『次に』。『ケパに現れ、次に十二人に』『次に終わりが来る』『アダムが初めに造られ、次にエバが』。",
+   "def_en": "“Next” in a list: “appeared to Cephas, then to the twelve”, “then comes the end”, “Adam was formed first, then Eve”.",
+   "def_es": "«Después» en una lista: «apareció a Cefas, y después a los doce», «luego el fin», «Adán fue formado primero, después Eva».",
+   "def_sv": "”Därnäst” i en uppräkning: ”visade sig för Kefas och sedan för de tolv”, ”därefter kommer slutet”, ”Adam skapades först, sedan Eva”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "Ⅰコリ15:5・15:7・15:24、Ⅰテモ2:13。教父（24.5）に並行。LXX の代表例では確認していない。語義1との境界は連続的。"
+  },
+  {
+   "id": "3",
+   "label": "さらに（論の継起）",
+   "label_en": "furthermore (step in an argument)",
+   "label_es": "además (continuación del argumento)",
+   "label_sv": "vidare (steg i resonemanget)",
+   "def": "論述の継ぎ目で『さらに』。『さらに、肉の父がいて』。",
+   "def_en": "“Furthermore” at a joint in a discourse: “furthermore, we had fathers of our flesh”.",
+   "def_es": "«Además», en la articulación de un razonamiento: «por otra parte, tuvimos a nuestros padres terrenales».",
+   "def_sv": "”Vidare” vid en fog i framställningen: ”vidare hade vi våra jordiska fäder”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ヘブル12:9 の1例。LXX 代表例に論述の用法あり。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n41004017010": "1",
+  "n41004028007": "1",
+  "n41004028009": "1",
+  "n41008025001": "1",
+  "n42008012009": "1",
+  "n43013005001": "1",
+  "n43019027001": "1",
+  "n43020027001": "1",
+  "n46015005005": "2",
+  "n46015007004": "2",
+  "n46015024001": "2",
+  "n54002013005": "2",
+  "n54003010006": "1",
+  "n58012009001": "3",
+  "n59001015001": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（時間／列挙／論述）による。"
+}

@@ -1,0 +1,53 @@
+{
+ "lemma": "δανείζω",
+ "lemmaId": "grc:G1155",
+ "strong": "G1155",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "貸す",
+   "label_en": "to lend",
+   "label_es": "prestar",
+   "label_sv": "att låna ut",
+   "def": "金を貸す。『返してもらうつもりで貸すなら』『貸すがよい』『貸したり』。",
+   "def_en": "To lend money: “if you lend expecting to be repaid”, “lend”, “or lending”.",
+   "def_es": "Prestar dinero: «si prestáis esperando recibir», «prestad», «ni prestando».",
+   "def_sv": "Att låna ut pengar: ”om ni lånar ut för att få igen”, ”låna ut”, ”eller lånar ut”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ルカ6:34（2回）・6:35。LXX に並行。教父の用例なし。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "借りる（中動）",
+   "label_en": "to borrow (middle)",
+   "label_es": "tomar prestado (voz media)",
+   "label_sv": "att låna (medium)",
+   "def": "中動態で、金を借りる。『借りようとする者を断るな』。",
+   "def_en": "In the middle voice: to borrow money. “do not turn away one who wants to borrow”.",
+   "def_es": "En voz media: pedir dinero prestado. «no rechaces al que quiere tomar prestado».",
+   "def_sv": "I medium: att låna pengar av någon. ”avvisa inte den som vill låna”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ5:42。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40005042010": "2",
+  "n42006034003": "1",
+  "n42006034015": "1",
+  "n42006035009": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（貸す／借りる）による。"
+}

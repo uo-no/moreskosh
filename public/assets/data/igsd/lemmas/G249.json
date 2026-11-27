@@ -1,0 +1,52 @@
+{
+ "lemma": "ἄλογος",
+ "lemmaId": "grc:G249",
+ "strong": "G249",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "筋の通らない",
+   "label_en": "unreasonable",
+   "label_es": "irrazonable",
+   "label_sv": "orimlig",
+   "def": "道理に合わない。『囚人を送りながら…示さないのは筋が通らない』。",
+   "def_en": "Contrary to reason: “it seems unreasonable to send a prisoner … without indicating the charges”.",
+   "def_es": "Que no está conforme a razón: «me parece fuera de razón enviar un preso … sin informar de los cargos».",
+   "def_sv": "Som strider mot förnuftet: ”det verkar orimligt att skicka en fånge … utan att ange anklagelserna”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒25:27。語義2との境界は連続的。教父の用例なし。"
+  },
+  {
+   "id": "2",
+   "label": "理性のない",
+   "label_en": "irrational",
+   "label_es": "irracional",
+   "label_sv": "oförnuftig",
+   "def": "理性を欠いた。『理性のない動物のように』『理性のない獣のように』。",
+   "def_en": "Without reason: “like unreasoning animals”, “like irrational beasts”.",
+   "def_es": "Carente de razón: «como animales irracionales», «como bestias sin razón».",
+   "def_sv": "Utan förnuft: ”som oförnuftiga djur”, ”som vilddjur utan förstånd”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ペテロ第二2:12、ユダ10。教父の用例なし。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n44025027001": "1",
+  "n61002012004": "2",
+  "n65001010013": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法による。"
+}

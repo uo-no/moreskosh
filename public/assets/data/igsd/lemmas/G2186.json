@@ -1,0 +1,87 @@
+{
+ "lemma": "ἐφίστημι",
+ "lemmaId": "grc:G2186",
+ "strong": "G2186",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "近づいて立つ／そばに立つ・現れる",
+   "label_en": "to come up and stand by / appear",
+   "label_es": "acercarse y ponerse al lado / aparecerse",
+   "label_sv": "att komma fram och ställa sig intill / visa sig",
+   "def": "人・使いなどが近づいて来て、そばに立つ、現れる。到着してとどまる。",
+   "def_en": "A person or messenger approaches, stands beside, or appears; also to arrive and stay.",
+   "def_es": "Una persona, un mensajero, etc., se acerca, se pone al lado o aparece. También llegar y permanecer.",
+   "def_sv": "En människa, ett sändebud eller liknande närmar sig, ställer sig intill eller visar sig; även att anlända och stanna.",
+   "layers": {
+    "nt": 13,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ルカ2:9（主の使いが立った）・2:38（アンナが進み出て）・4:39・10:40（マルタが近づいて）・20:1・24:4、使徒10:17・11:11・12:7・22:13・23:11（主が傍らに立って）・23:27、22:20（そばに立っていた）。LXX・教父（バルナバ・ヘルマス）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "襲う／迫る（突然・敵対して来る）",
+   "label_en": "to come upon / impend (suddenly, with hostility)",
+   "label_es": "sobrevenir / echarse encima (de repente, con hostilidad)",
+   "label_sv": "att överfalla / bryta in (plötsligt, fientligt)",
+   "def": "突然に来る、襲いかかる、差し迫る。滅び・その日・時・敵の群れが主語。",
+   "def_en": "To come suddenly, to fall upon, to be imminent. The subject is destruction, that day, the time, or a hostile crowd.",
+   "def_es": "Venir de repente, abalanzarse, ser inminente. El sujeto es la destrucción, aquel día, el tiempo o una turba enemiga.",
+   "def_sv": "Att komma plötsligt, kasta sig över, vara överhängande. Subjektet är fördärvet, den dagen, tiden eller en fientlig skara.",
+   "layers": {
+    "nt": 7,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "Ⅰテサ5:3（突如として滅びが襲う）、ルカ21:34（その日が襲う）、Ⅱテモ4:6（わたしの去る時が来た）、使徒4:1・6:12・17:5（人々が襲った）、使徒28:2（降りだした雨）。語義1との境界は、到来が敵対的・切迫的かどうかによる連続的な区分。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "（時に適って）備える／励む",
+   "label_en": "to be ready (in season) / be diligent",
+   "label_es": "estar preparado (a tiempo) / aplicarse",
+   "label_sv": "att vara beredd (i tid) / vara ivrig",
+   "def": "『折があっても無くても御言葉を宣べ伝えなさい』の『備えていなさい』。",
+   "def_en": "The “be ready” of “preach the word in season and out of season”.",
+   "def_es": "El «estar preparado» de «predica la palabra a tiempo y fuera de tiempo».",
+   "def_sv": "”Var beredd” i uppmaningen ”förkunna ordet i tid och otid”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "Ⅱテモ4:2（ἐπίστηθι εὐκαίρως ἀκαίρως＝時が良くても悪くても備えていなさい）の1例のみ。語義1との境界は連続的（『そばに立つ』の比喩的な延長）。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42002009004": "1",
+  "n42002038005": "1",
+  "n42004039002": "1",
+  "n42010040008": "1",
+  "n42020001016": "1",
+  "n42021034017": "2",
+  "n42024004013": "1",
+  "n44004001007": "2",
+  "n44006012012": "2",
+  "n44010017028": "1",
+  "n44011011006": "1",
+  "n44012007005": "1",
+  "n44017005018": "2",
+  "n44022013005": "1",
+  "n44022020013": "1",
+  "n44023011005": "1",
+  "n44023027013": "1",
+  "n44028002020": "2",
+  "n52005003009": "2",
+  "n55004002004": "3",
+  "n55004006011": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

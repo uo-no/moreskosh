@@ -1,0 +1,74 @@
+{
+ "lemma": "ἡλικία",
+ "lemmaId": "grc:G2244",
+ "strong": "G2244",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "年齢",
+   "label_en": "age",
+   "label_es": "edad",
+   "label_sv": "ålder",
+   "def": "年齢、年ごろ。『年が盛りを過ぎていたのに』『もう年ごろです』『彼は年ごろだから』。",
+   "def_en": "Age, time of life: “past the age”, “he is of age”, “ask him; he is of age”.",
+   "def_es": "Edad: «fuera del tiempo de la edad», «edad tiene», «edad tiene, preguntadle».",
+   "def_sv": "Ålder: ”fastän över den åldern”, ”han är gammal nog”, ”fråga honom, han är vuxen”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ヘブル11:11、ヨハネ9:21・9:23。LXX（5.35）、教父（9.2・2.3.1）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "背丈",
+   "label_en": "stature / height",
+   "label_es": "estatura",
+   "label_sv": "kroppslängd",
+   "def": "背丈、身の丈。『背が低かったので』。",
+   "def_en": "Height, bodily stature: “because he was small of stature”.",
+   "def_es": "Estatura, talla: «porque era pequeño de estatura».",
+   "def_sv": "Längd, växt: ”eftersom han var liten till växten”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ルカ19:3。LXX・教父の代表例は年齢の用法で、この語義としては確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "背丈／生の長さ／成熟（解釈が分かれる）",
+   "label_en": "stature / span of life / maturity (disputed)",
+   "label_es": "estatura / duración de la vida / madurez (discutido)",
+   "label_sv": "växt / livslängd / mognad (omtvistat)",
+   "def": "背丈、寿命、成熟の度合のいずれともとれる用法。『寿命を一刻でも延ばせようか』『キリストの満ちみちた背丈の程度に』『イエスは知恵と背丈とにおいて』。",
+   "def_en": "A use that can be taken as stature, length of life, or degree of maturity: “can add a single hour to his span of life?”, “to the measure of the stature of the fullness of Christ”, “Jesus increased in wisdom and in stature”.",
+   "def_es": "Uso que puede entenderse como estatura, duración de la vida o grado de madurez: «¿puede añadir a su vida una hora?», «a la medida de la estatura de la plenitud de Cristo», «Jesús crecía en sabiduría y en estatura».",
+   "def_sv": "Ett bruk som kan förstås som kroppslängd, livslängd eller grad av mognad: ”lägga en enda aln till sin livslängd”, ”en mognad som svarar mot Kristi fullhet”, ”Jesus växte i vishet och ålder”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ6:27、ルカ12:25、エペソ4:13、ルカ2:52。いずれの解釈（背丈・寿命・年齢・成熟）も決定しない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40006027010": "3",
+  "n42002052006": "3",
+  "n42012025009": "3",
+  "n42019003016": "2",
+  "n43009021018": "1",
+  "n43009023008": "1",
+  "n49004013022": "3",
+  "n58011011013": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義3は解釈が分かれるため、いずれにも決定しない。"
+}

@@ -1,0 +1,62 @@
+{
+ "lemma": "ἐλεημοσύνη",
+ "lemmaId": "grc:G1654",
+ "strong": "G1654",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "施し／貧しい者への施し物",
+   "label_en": "alms / gift to the poor",
+   "label_es": "limosna / lo que se da al pobre",
+   "label_sv": "allmosa / gåva till de fattiga",
+   "def": "貧しい者への施し、施し物。『施しを乞う』『施しを求めた』『施しをするときは』『あなたの施しは覚えられた』『施しをせよ』。",
+   "def_en": "Charitable giving, what is given to the poor: “begging for alms”, “asked to receive alms”, “when you give to the needy”, “your alms have been remembered”, “give alms”.",
+   "def_es": "Ayuda al pobre, la dádiva: «para pedir limosna», «rogaba que le diesen limosna», «cuando des limosna», «tus limosnas han sido recordadas», «dad limosna».",
+   "def_sv": "Gåvor till de fattiga: ”tigga allmosor”, ”bad om en gåva”, ”när du ger allmosor”, ”dina allmosor har Gud kommit ihåg”, ”ge allmosor”.",
+   "layers": {
+    "nt": 12,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒10:2・10:4・10:31・24:17・3:2・3:3・3:10、ルカ11:41・12:33、マタイ6:2・6:3・6:4。LXX 箴言・トビト12:9、教父（16.4、15.4）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "慈善の行い",
+   "label_en": "works of charity",
+   "label_es": "obras de caridad",
+   "label_sv": "välgörenhet",
+   "def": "慈善の行い、親切なわざ。『多くの善行と施しに満ちていた』（使徒9:36）。",
+   "def_en": "Charitable deeds, acts of kindness: “full of good works and acts of charity” (Acts 9:36).",
+   "def_es": "Obras benéficas, actos de bondad: «abundaba en buenas obras y en limosnas» (Hch 9:36).",
+   "def_sv": "Barmhärtighetsverk, vänliga gärningar: ”rik på goda gärningar och gåvor till de fattiga” (Apg 9:36).",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒9:36 の1例のみ。語義1との境界は連続的。LXX・教父に並行。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40006002004": "1",
+  "n40006003004": "1",
+  "n40006004005": "1",
+  "n42011041005": "1",
+  "n42012033007": "1",
+  "n44003002025": "1",
+  "n44003003012": "1",
+  "n44003010010": "1",
+  "n44009036019": "2",
+  "n44010002012": "1",
+  "n44010004020": "1",
+  "n44010031010": "1",
+  "n44024017005": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（施し物／慈善の行い）による。"
+}

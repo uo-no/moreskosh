@@ -1,0 +1,76 @@
+{
+ "lemma": "ἐπεισέρχομαι",
+ "lemmaId": "grc:G1904",
+ "strong": "G1904",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "臨む／降りかかる",
+   "label_en": "to come upon / befall",
+   "label_es": "venir sobre / sobrevenir",
+   "label_sv": "att komma över / drabba",
+   "def": "上に臨む、降りかかる。『聖霊があなたがたの上に臨むとき』『預言者たちの言った事が身に起こらないように』『あなたがたの上に臨む不幸』『突然その日があなたがたに臨む』『聖霊があなたに臨み』『地に起ころうとすること』。",
+   "def_en": "To come upon, to befall: “when the Holy Spirit has come upon you”, “lest what the prophets said should come about for you”, “the miseries coming upon you”, “that day come upon you suddenly”, “the Holy Spirit will come upon you”, “what is coming on the earth”.",
+   "def_es": "Venir encima, caer sobre: «cuando haya venido sobre vosotros el Espíritu Santo», «mirad que no venga sobre vosotros lo dicho en los profetas», «las miserias que os vendrán», «venga de repente sobre vosotros aquel día», «el Espíritu Santo vendrá sobre ti», «las cosas que sobrevendrán en la tierra».",
+   "def_sv": "Att komma över och drabba: ”när den helige Ande kommer över er”, ”så att det profeterna sagt inte drabbar er”, ”de olyckor som ska komma över er”, ”den dagen kommer plötsligt över er”, ”den helige Ande ska komma över dig”, ”det som ska komma över jorden”.",
+   "layers": {
+    "nt": 7,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒1:8・13:40・8:24、ルカ1:35・21:35・21:26、ヤコブ5:1。語義2との境界は連続的。LXX の代表例（Ⅰマカバイ16:16）は用法が別で確認できない。教父の用例は無い。"
+  },
+  {
+   "id": "2",
+   "label": "襲いかかる／押し寄せる（人が）",
+   "label_en": "to attack / come pressing (people)",
+   "label_es": "asaltar / presentarse (personas)",
+   "label_sv": "att angripa / komma anstormande (människor)",
+   "def": "人が襲いかかる、押し寄せる。『アンテオケとイコニオムからユダヤ人たちが来て』『さらに強い者が襲って』。",
+   "def_en": "People attack or come pressing in: “Jews came from Antioch and Iconium”, “when one stronger than he attacks”.",
+   "def_es": "Las personas atacan o llegan en tropel: «vinieron unos judíos de Antioquía y de Iconio», «cuando viene otro más fuerte que él».",
+   "def_sv": "Människor anfaller eller tränger fram: ”judar kom dit från Antiochia och Ikonion”, ”när någon starkare angriper honom”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒14:19、ルカ11:22。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "来たるべき（時代）",
+   "label_en": "coming (age)",
+   "label_es": "venidero (siglo)",
+   "label_sv": "kommande (tidsålder)",
+   "def": "後に来る（時代）。『来たるべき世々に』（エペソ2:7）。",
+   "def_en": "The age that comes later: “in the coming ages” (Eph 2:7).",
+   "def_es": "El tiempo que ha de venir: «en los siglos venideros» (Ef 2:7).",
+   "def_sv": "Den tid som kommer senare: ”i kommande tider” (Ef 2:7).",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "エペソ2:7 の1例のみ。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42001035009": "1",
+  "n42011022005": "2",
+  "n42021026008": "1",
+  "n42021035003": "1",
+  "n44001008004": "1",
+  "n44008024015": "1",
+  "n44013040004": "1",
+  "n44014019001": "2",
+  "n49002007007": "3",
+  "n59005001012": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "LXX の代表例は用法が別で確認できない。教父の用例は無い。"
+}

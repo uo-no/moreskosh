@@ -1,0 +1,59 @@
+{
+ "lemma": "ἔνατος",
+ "lemmaId": "grc:G1766",
+ "strong": "G1766",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "第九（時刻）",
+   "label_en": "ninth (hour)",
+   "label_es": "novena (hora)",
+   "label_sv": "nionde (timmen)",
+   "def": "『第九の時』。午後三時ごろ。『第九の時に祈り』『第九時ごろ』『九時ごろイエスは大声で叫ばれた』『九時ごろ宮に上って』。",
+   "def_en": "“The ninth hour”, about three in the afternoon: “praying at the ninth hour”, “about the ninth hour”, “about the ninth hour Jesus cried out with a loud voice”, “going up to the temple at the ninth hour”.",
+   "def_es": "«La hora novena», hacia las tres de la tarde: «orando a la hora novena», «como a la hora novena», «cerca de la hora novena Jesús clamó a gran voz», «subían al templo a la hora novena».",
+   "def_sv": "”Nionde timmen”, omkring klockan tre på eftermiddagen: ”bad vid nionde timmen”, ”omkring nionde timmen”, ”vid nionde timmen ropade Jesus med hög röst”, ”gick upp till templet vid nionde timmen”.",
+   "layers": {
+    "nt": 9,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒10:3・10:30・3:1、ルカ23:44、マタイ20:5・27:45・27:46、マルコ15:33・15:34。LXX・教父の代表例では確認していない（序数としての『第九』は語義2に並行）。"
+  },
+  {
+   "id": "2",
+   "label": "第九（順序）",
+   "label_en": "ninth (order)",
+   "label_es": "noveno (orden)",
+   "label_sv": "nionde (i ordningen)",
+   "def": "順序としての第九。『第九は黄玉』（黙示録21:20）。",
+   "def_en": "Ninth in sequence: “the ninth topaz” (Rev 21:20).",
+   "def_es": "El noveno en una serie: «el noveno, topacio» (Ap 21:20).",
+   "def_sv": "Den nionde i en följd: ”den nionde topas” (Upp 21:20).",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "黙示録21:20 の1例のみ。LXX 歴代誌上25:16、教父（26.26.1）に並行。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40020005009": "1",
+  "n40027045013": "1",
+  "n40027046004": "1",
+  "n41015033013": "1",
+  "n41015034003": "1",
+  "n42023044016": "1",
+  "n44003001015": "1",
+  "n44010003008": "1",
+  "n44010030014": "1",
+  "n66021020014": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（時刻／順序）による。"
+}

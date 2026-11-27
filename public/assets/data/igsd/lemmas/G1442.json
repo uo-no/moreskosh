@@ -1,0 +1,58 @@
+{
+ "lemma": "ἕβδομος",
+ "lemmaId": "grc:G1442",
+ "strong": "G1442",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "第七（日・時）",
+   "label_en": "seventh (day, hour)",
+   "label_es": "séptimo (día, hora)",
+   "label_sv": "sjunde (dagen, timmen)",
+   "def": "第七の日、第七の時。『第七の日に神はすべてのわざを終えて休まれた』『きのう、第七の時に熱が引きました』。",
+   "def_en": "The seventh day, the seventh hour: “God rested on the seventh day from all his works”, “yesterday at the seventh hour the fever left him”.",
+   "def_es": "El séptimo día, la hora séptima: «reposó Dios de todas sus obras en el séptimo día», «ayer a la hora séptima le dejó la fiebre».",
+   "def_sv": "Den sjunde dagen, sjunde timmen: ”Gud vilade på sjunde dagen från alla sina verk”, ”i går vid sjunde timmen släppte febern”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ヘブル4:4（2回）、ヨハネ4:52。LXX 出エジプト記16:30・レビ記25:4、教父（15.5）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "第七（順序）",
+   "label_en": "seventh (order)",
+   "label_es": "séptimo (orden)",
+   "label_sv": "sjunde (i ordningen)",
+   "def": "順序としての第七。『アダムから七代目のエノク』『第七の御使いがラッパを吹く』『第七の封印』『第七は貴かんらん石』。",
+   "def_en": "Seventh in sequence: “Enoch, the seventh from Adam”, “the seventh angel blew his trumpet”, “the seventh seal”, “the seventh chrysolite”.",
+   "def_es": "El séptimo en una serie: «Enoc, séptimo desde Adán», «el séptimo ángel tocó la trompeta», «el séptimo sello», «el séptimo, crisólito».",
+   "def_sv": "Den sjunde i en följd: ”Enok, den sjunde från Adam”, ”den sjunde ängeln blåste i sin basun”, ”det sjunde sigillet”, ”den sjunde krysolit”.",
+   "layers": {
+    "nt": 6,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ユダ14、黙示録10:7・11:15・16:17・21:20・8:1。LXX 代表例・教父（26.1.8）に並行。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n43004052017": "1",
+  "n58004004006": "1",
+  "n58004004016": "1",
+  "n65001014005": "2",
+  "n66008001007": "2",
+  "n66010007008": "2",
+  "n66011015003": "2",
+  "n66016017003": "2",
+  "n66021020008": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（日・時／順序）による。"
+}
