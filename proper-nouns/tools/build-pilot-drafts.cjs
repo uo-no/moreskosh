@@ -38,6 +38,29 @@ const BOOK_ORDER = new Map(JSON.parse(fs.readFileSync(path.join(ROOT, 'public/bo
 const refKey = (r) => { const m = /^(\S+) (\d+):(\d+)$/.exec(r); return [BOOK_ORDER.get(m[1]), +m[2], +m[3]]; };
 const byRef = (a, b) => { const x = refKey(a), y = refKey(b); return x[0] - y[0] || x[1] - y[1] || x[2] - y[2]; };
 
+const R = require('./renderings-ja.cjs');
+const vcache = new Map();
+function verseText(dir, ref) {
+  const m = /^(\S+) (\d+):(\d+)$/.exec(ref);
+  const key = dir + '/' + m[1] + '/' + m[2];
+  if (!vcache.has(key)) {
+    const f = path.join(ROOT, key + '.json');
+    vcache.set(key, fs.existsSync(f) ? JSON.parse(fs.readFileSync(f, 'utf8')).verses : {});
+  }
+  return vcache.get(key)[m[3]] || '';
+}
+const renderMiss = [];
+/* 候補の形が独立して出るか（前後がカタカナで続く一致は数えない。例：「ユダ」が「ユダヤ」の一部に当たらないように） */
+const KATA = /[\u30A1-\u30FA\u30FC]/;
+function hasWord(text, w) {
+  for (let i = text.indexOf(w); i >= 0; i = text.indexOf(w, i + 1)) {
+    const prev = text[i - 1] || '', next = text[i + w.length] || '';
+    const kStart = KATA.test(w[0]), kEnd = KATA.test(w[w.length - 1]);
+    if (!(kStart && KATA.test(prev)) && !(kEnd && KATA.test(next))) return true;
+  }
+  return false;
+}
+
 const errs = [];
 fs.mkdirSync(DRAFTS, { recursive: true });
 const report = [];
@@ -77,6 +100,23 @@ for (const lemmaId of pilotIds) {
     return { id: String(k + 1), label_ja: idDef.label, count: mine.length, refs: [...new Set(mine.map((t) => t.ref))].sort(byRef) };
   });
   for (const x of identifications) if (!x.count) errs.push(`${lemmaId}: 対象 ${x.id}「${x.label_ja}」に割り当てがない`);
+
+  /* 各訳での表記：その対象だけを指す節の訳文に候補の形が出るものだけを載せる（renderings-ja.cjs） */
+  identifications.forEach((x, k) => {
+    const exclusive = x.refs.filter((r) => toks.every((t, i) => t.ref !== r || assigned[i] === k));
+    x.renderings = [];
+    for (const [src, def] of Object.entries(R.SOURCES)) {
+      const cands = ((R.CANDIDATES[src] || {})[lemmaId] || [])[k] || [];
+      let hit = null;
+      for (const r of exclusive) {
+        const text = verseText(def.dir, r);
+        const form = cands.find((c) => hasWord(text, c));
+        if (form) { hit = { lang: 'ja', form, source: def.label, checked_in: r }; break; }
+      }
+      if (hit) x.renderings.push(hit);
+      else renderMiss.push(`${lemmaId} ${x.id}「${x.label_ja}」: ${def.label} で確認できず（対象だけの節 ${exclusive.length}）`);
+    }
+  });
   const total = toks.length;
   const csum = identifications.reduce((s, x) => s + x.count, 0);
   if (csum !== total) errs.push(`${lemmaId}: count 合計 ${csum} ≠ total ${total}`);
@@ -104,4 +144,5 @@ for (const lemmaId of pilotIds) {
 }
 if (errs.length) { console.error('ERROR\n' + errs.join('\n')); process.exit(1); }
 console.log(report.join('\n'));
+if (renderMiss.length) console.log('表記を確認できなかった同定:\n  ' + renderMiss.join('\n  '));
 console.log(`OK: ${report.length} drafts -> proper-nouns/drafts/`);
