@@ -3,7 +3,9 @@
  * build-static-pages.cjs — #214 静的ページ生成 Phase 1
  *
  * 語ページ（NGSD の全見出し語 × JA/EN/ES）と章ページ（260章 × JA/EN/ES）を、JS なしで読める静的 HTML として
- * public/{lang}/word/{Strong}/index.html ・ public/{lang}/book/{BOOK}/{chapter}/index.html に書き出す。
+ * words/{lang}/word/{Strong}/index.html ・ public/{lang}/book/{BOOK}/{chapter}/index.html に書き出す。
+ * words/ は第2の Pages プロジェクト（moreskosh-words）の公開ルート。語ページの URL は本体のままで、
+ * public/_worker.js が /{ja,en,es}/word/* を中継する（1サイト 20,000 ファイルの上限を避けるため。キュー #408 方式A）。
  * あわせて public/sitemap-pages.xml を生成する（sitemap.xml は index 形式。sitemap-core.xml は既存 URL 群）。
  *
  * 語ページの出どころは NGSD データ（assets/data/igsd/index.json・lemmas/*.json・sense-map-gi.json）。キュー #408。
@@ -20,6 +22,7 @@ const path = require('path');
 
 const ROOT = path.resolve(__dirname, '..');
 const PUB = path.join(ROOT, 'public');
+const WORDS = path.join(ROOT, 'words'); // 語ページの公開ルート（public の外）
 const ORIGIN = 'https://moreskosh.pages.dev';
 const LANGS = ['ja', 'en', 'es'];
 const CHECK = process.argv.includes('--check');
@@ -328,7 +331,7 @@ ${CREDITS[lang].map((c) => `<li>${esc(c)}</li>`).join('\n')}
 }
 
 const readLemma = (s) => readJson('assets/data/igsd/lemmas/' + s + '.json');
-const files = new Map(); // 相対パス → 内容
+const files = new Map(); // 絶対パス → 内容
 const stats = { wordFiles: 0, chapterFiles: 0, perLang: { ja: 0, en: 0, es: 0 } };
 
 const loose = (s) => s.normalize('NFD').replace(/\p{M}/gu, '').toLowerCase();
@@ -443,11 +446,11 @@ function buildChapter(lang, idx) {
 const t0 = Date.now();
 for (const lang of LANGS) {
   for (const rep of pageSet) {
-    files.set(`${lang}/word/${rep}/index.html`, buildWord(lang, rep));
+    files.set(path.join(WORDS, lang, 'word', rep, 'index.html'), buildWord(lang, rep));
     stats.wordFiles++; stats.perLang[lang]++;
   }
   chapters.forEach((c, i) => {
-    files.set(`${lang}/book/${c.book.key}/${c.ch}/index.html`, buildChapter(lang, i));
+    files.set(path.join(PUB, lang, 'book', c.book.key, String(c.ch), 'index.html'), buildChapter(lang, i));
     stats.chapterFiles++; stats.perLang[lang]++;
   });
 }
@@ -469,27 +472,32 @@ const addUrl = (urlFn) => {
 for (const rep of pageSet) addUrl((l) => wordUrl(l, rep));
 for (const c of chapters) addUrl((l) => chapterUrl(l, c.book.key, c.ch));
 sm.push('</urlset>');
-files.set('../sitemap-pages.xml', sm.join('\n') + '\n');
+files.set(path.join(PUB, 'sitemap-pages.xml'), sm.join('\n') + '\n');
+
+/* 語ページ側のプロジェクト：本体の _headers の全パス共通ヘッダーを引き継ぐ（中継した応答には本体の _headers が掛からない）。
+   404.html が無いと Pages は SPA 扱いになり、無い語でも 200 を返すので置く。 */
+const commonHeaders = /^\/\*\r?\n(?:[ \t]+.*\r?\n)+/m.exec(fs.readFileSync(path.join(PUB, '_headers'), 'utf8'));
+if (!commonHeaders) { console.error('STOP: public/_headers に /* の節が無い'); process.exit(2); }
+files.set(path.join(WORDS, '_headers'), commonHeaders[0]);
+files.set(path.join(WORDS, '404.html'), '<!doctype html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n<meta name="robots" content="noindex">\n<title>404 | Bible Green</title>\n</head>\n<body>\n<p>404 — Not found. <a href="/">Bible Green</a></p>\n</body>\n</html>\n');
 
 /* ───────── 書き出し ───────── */
 let changed = 0;
-for (const [rel, content] of files) {
-  const abs = rel.startsWith('../') ? path.join(PUB, rel.slice(3)) : path.join(PUB, rel);
+for (const [abs, content] of files) {
   const cur = fs.existsSync(abs) ? fs.readFileSync(abs, 'utf8') : null;
   if (cur !== content) {
     changed++;
     if (!CHECK) { fs.mkdirSync(path.dirname(abs), { recursive: true }); fs.writeFileSync(abs, content); }
   }
 }
+/* index に無い語ページと、public 側に残った語ページ（方式A以前の出力）は削除 */
 const removed = [];
+const drop = (abs) => { removed.push(path.relative(ROOT, abs)); changed++; if (!CHECK) fs.rmSync(abs, { recursive: true }); };
 for (const lang of LANGS) {
-  const dir = path.join(PUB, lang, 'word');
-  for (const name of (fs.existsSync(dir) ? fs.readdirSync(dir).sort() : [])) {
-    if (pageHas.has(name)) continue;
-    removed.push(`${lang}/word/${name}`);
-    changed++;
-    if (!CHECK) fs.rmSync(path.join(dir, name), { recursive: true });
-  }
+  const dir = path.join(WORDS, lang, 'word');
+  for (const name of (fs.existsSync(dir) ? fs.readdirSync(dir).sort() : [])) if (!pageHas.has(name)) drop(path.join(dir, name));
+  const old = path.join(PUB, lang, 'word');
+  if (fs.existsSync(old)) drop(old);
 }
 const ms = Date.now() - t0;
 const total = stats.wordFiles + stats.chapterFiles;
