@@ -1,0 +1,29 @@
+{
+  "strong": "G2105",
+  "lemma": "εὐδία",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "晴天",
+      "def_ja": "晴天、よい天気。『晴れだ』。",
+      "label_en": "fair weather",
+      "def_en": "A clear sky, good weather.",
+      "label_es": "buen tiempo",
+      "def_es": "Cielo sereno, bonanza.",
+      "label_sv": "vackert väder",
+      "def_sv": "Klart väder, uppehållsväder.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "attested"
+      },
+      "note": "マタイ16:2。LXX に並行、教父に並行。単一語義。"
+    }
+  ],
+  "assignments": {
+    "MAT 16:2": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

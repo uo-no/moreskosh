@@ -1,0 +1,29 @@
+{
+  "strong": "G188",
+  "lemma": "ἀκμήν",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "なお",
+      "def_ja": "なお、まだ。『まだわからないのか』。LXX の代表例は名詞 ἀκμή（盛り）の用例で、副詞の用例は確認していない。",
+      "label_en": "still",
+      "def_en": "Still, even yet.",
+      "label_es": "aún",
+      "def_es": "Todavía, aun ahora.",
+      "label_sv": "ännu",
+      "def_sv": "Fortfarande, alltjämt.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マタイ15:16。用例は新約のみ。語義は新約の文脈から立てた。LXX の代表例は名詞の用法で別用法。単一語義。"
+    }
+  ],
+  "assignments": {
+    "MAT 15:16": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}
