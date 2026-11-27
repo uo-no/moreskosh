@@ -1,0 +1,111 @@
+{
+ "lemma": "ὑψηλός",
+ "lemmaId": "grc:G5308",
+ "strong": "G5308",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "高い",
+   "label_en": "high",
+   "label_es": "alto",
+   "label_sv": "hög",
+   "def": "高い、高みにある（山・城壁）。『高い山』『非常に高い山に』『高い山の上に』『高い大きな城壁』。",
+   "def_en": "High, lofty (mountain, wall): “a high mountain”, “a very high mountain”, “on a high mountain”, “a great, high wall”.",
+   "def_es": "Alto, elevado (monte, muralla): «un monte alto», «un monte muy alto», «a un monte alto», «un muro grande y alto».",
+   "def_sv": "Hög, upphöjd (om berg, mur): ”ett högt berg”, ”ett mycket högt berg”, ”upp på ett högt berg”, ”en stor och hög mur”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "マタイ17:1・4:8、マルコ9:2、黙示録21:10・21:12。LXX 詩篇・歴代誌、教父（26.3.1、11.5）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "いと高き所（τὰ ὑψηλά）",
+   "label_en": "on high (τὰ ὑψηλά)",
+   "label_es": "las alturas (τὰ ὑψηλά)",
+   "label_sv": "höjden (τὰ ὑψηλά)",
+   "def": "『高き所』。『いと高き所にある大能者の右の座に』『あらゆる罪人から離れ、天よりも高くされ』。",
+   "def_en": "“The heights”: “sat down at the right hand of the Majesty on high”, “separated from sinners and exalted above the heavens”.",
+   "def_es": "«Las alturas»: «se sentó a la diestra de la Majestad en las alturas», «apartado de los pecadores y hecho más sublime que los cielos».",
+   "def_sv": "”Höjden”: ”satt sig på Majestätets högra sida i höjden”, ”skild från syndare och upphöjd över himlarna”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ヘブル1:3・7:26。語義1との境界は連続的。LXX 詩篇92:4 に並行。教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "高く上げた（腕）",
+   "label_en": "uplifted (arm)",
+   "label_es": "alzado (brazo)",
+   "label_sv": "upplyft (arm)",
+   "def": "高く上げられた（腕）。『高く上げた腕をもって導き出された』（使徒13:17）。",
+   "def_en": "A raised arm: “with uplifted arm he led them out” (Acts 13:17).",
+   "def_es": "El brazo levantado: «con brazo levantado los sacó» (Hch 13:17).",
+   "def_sv": "Den upplyfta armen: ”med lyftad arm förde han dem ut” (Apg 13:17).",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒13:17 の1例のみ（出エジプト記6:6 の句）。LXX 出エジプト記6:6 に並行。教父の代表例では確認していない。"
+  },
+  {
+   "id": "4",
+   "label": "高く評価される",
+   "label_en": "highly esteemed",
+   "label_es": "muy estimado",
+   "label_sv": "högt värderad",
+   "def": "人に高く評価される。『人に尊ばれるものは神の前では忌み嫌われる』（ルカ16:15）。",
+   "def_en": "Highly valued by people: “what is exalted among people is an abomination before God” (Luke 16:15).",
+   "def_es": "Muy apreciado por la gente: «lo que los hombres tienen por sublime, delante de Dios es abominación» (Lc 16:15).",
+   "def_sv": "Högt skattad av människor: ”det människor sätter högt är avskyvärt inför Gud” (Luk 16:15).",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ルカ16:15 の1例のみ。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "5",
+   "label": "高ぶる事（τὰ ὑψηλὰ φρονεῖν）",
+   "label_en": "haughty things (τὰ ὑψηλὰ φρονεῖν)",
+   "label_es": "cosas altivas (τὰ ὑψηλὰ φρονεῖν)",
+   "label_sv": "högmodiga tankar (τὰ ὑψηλὰ φρονεῖν)",
+   "def": "高ぶる思い。『高ぶった思いを持つな』『高ぶらず、恐れなさい』。",
+   "def_en": "Proud thoughts: “do not be haughty”, “do not become proud, but fear”.",
+   "def_es": "Pensamientos altivos: «no seáis altivos», «no te ensoberbezcas, sino teme».",
+   "def_sv": "Stolta tankar: ”var inte högmodiga”, ”var inte övermodig utan frukta”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ローマ12:16・11:20。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40004008008": "1",
+  "n40017001022": "1",
+  "n41009002020": "1",
+  "n42016015023": "4",
+  "n44013017024": "3",
+  "n45011020011": "5",
+  "n45012016008": "5",
+  "n58001003031": "2",
+  "n58007026015": "2",
+  "n66021010010": "1",
+  "n66021012005": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用例による。"
+}

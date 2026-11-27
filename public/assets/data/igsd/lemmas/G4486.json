@@ -1,0 +1,73 @@
+{
+ "lemma": "ῥήγνυμι",
+ "lemmaId": "grc:G4486",
+ "strong": "G4486",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "裂く・破れる",
+   "label_en": "to tear, to burst",
+   "label_es": "romper, reventar",
+   "label_sv": "att slita sönder, att brista",
+   "def": "引き裂く、破れる、はじける。『かみついて引き裂くかもしれない』『皮袋は裂け』『皮袋をはじけさせ』『皮袋は張り裂ける』。",
+   "def_en": "To rend, to break, to burst open: “they may turn and tear you to pieces”, “the wineskins burst”, “bursts the skins”, “the skins will be torn apart”.",
+   "def_es": "Desgarrar, romperse, reventar: «no sea que se vuelvan y os despedacen», «los odres se rompen», «romperá los odres», «los odres se revientan».",
+   "def_sv": "Att riva sönder, gå sönder, spricka: ”så att de inte vänder sig om och sliter sönder er”, ”vinsäckarna brister”, ”spränger säckarna”, ”säckarna går sönder”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マタイ7:6・9:17、マルコ2:22、ルカ5:37。LXX（13.3）に並行。教父の代表例では確認していない。語義2・3との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "投げ倒す（痙攣させて）",
+   "label_en": "to throw down (in convulsions)",
+   "label_es": "derribar (con convulsiones)",
+   "label_sv": "att slå omkull (med kramper)",
+   "def": "霊が人を地に投げ倒す。『彼を地に倒し、けいれんさせた』『彼を引き倒して』。",
+   "def_en": "A spirit throwing a person to the ground: “threw him to the ground and convulsed him”, “dashed him down”.",
+   "def_es": "Un espíritu arroja a una persona al suelo: «lo derribó y lo sacudió con violencia», «lo derriba».",
+   "def_sv": "En ande kastar en människa till marken: ”kastade honom till marken och ryckte i honom”, ”kastar omkull honom”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ルカ9:42、マルコ9:18。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "声を張り上げる",
+   "label_en": "to break forth into shouting",
+   "label_es": "prorrumpir en voces",
+   "label_sv": "att brista ut i rop",
+   "def": "喜びに声を張り上げる。『声をあげて叫べ』（イザヤ54:1 の引用）。",
+   "def_en": "To raise one’s voice in joy: “break forth and cry aloud”. (A quotation of Isaiah 54:1.)",
+   "def_es": "Alzar la voz de alegría: «prorrumpe en júbilo y clama». (Cita de Isaías 54:1.)",
+   "def_sv": "Att höja rösten i glädje: ”brist ut och ropa”. (Citat ur Jesaja 54:1.)",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "ガラテヤ4:27。教父（2.1）に並行。LXX の代表例では確認していない。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40007006024": "1",
+  "n40009017012": "1",
+  "n41002022012": "1",
+  "n41009018006": "2",
+  "n42005037012": "1",
+  "n42009042005": "2",
+  "n48004027008": "3"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（裂く／投げ倒す／声を張り上げる）による。"
+}

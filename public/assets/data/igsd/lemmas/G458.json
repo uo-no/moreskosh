@@ -1,0 +1,64 @@
+{
+ "lemma": "ἀνομία",
+ "lemmaId": "grc:G458",
+ "strong": "G458",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "不法／無法（状態・性質）",
+   "label_en": "lawlessness (state, quality)",
+   "label_es": "iniquidad / anarquía (estado, cualidad)",
+   "label_sv": "laglöshet (tillstånd, egenskap)",
+   "def": "律法にそむくこと、不法、無法。『不法を行う者ども』『不法がはびこるので』『罪とは不法である』『不法の秘密』。",
+   "def_en": "Acting against the law, lawlessness: “you workers of lawlessness”, “because lawlessness will increase”, “sin is lawlessness”, “the mystery of lawlessness”.",
+   "def_es": "Ir contra la ley, la ilegalidad: «hacedores de maldad», «por haberse multiplicado la maldad», «el pecado es infracción de la ley», «el misterio de la iniquidad».",
+   "def_sv": "Att bryta mot lagen, laglöshet: ”ni laglösa”, ”eftersom laglösheten tilltar”, ”synd är laglöshet”, ”laglöshetens hemlighet”.",
+   "layers": {
+    "nt": 13,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰヨハネ3:4（2回）、Ⅱコリ6:14、Ⅱテサ2:3・2:7、ヘブル1:9、マタイ13:41・23:28・24:12・7:23、ローマ6:19（2回）、テトス2:14。LXX 詩篇・イザヤ、教父（16.9、5.2）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "不法な行い（複数）",
+   "label_en": "lawless deeds (plural)",
+   "label_es": "iniquidades (en plural)",
+   "label_sv": "laglösa gärningar (plural)",
+   "def": "個々の不法行為。『不法が赦され』『罪を覆われた人の不法』。",
+   "def_en": "Individual lawless acts: “whose lawless deeds are forgiven”, “the iniquities of those whose sins are covered”.",
+   "def_es": "Actos concretos contra la ley: «cuyas iniquidades son perdonadas», «las iniquidades de aquel cuyos pecados son cubiertos».",
+   "def_sv": "Enskilda lagbrott: ”vars överträdelser är förlåtna”, ”överträdelserna hos den vars synder är övertäckta”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ヘブル10:17、ローマ4:7（いずれも複数形）。語義1との境界は連続的（数による区分）。LXX 詩篇78:8・31:1、教父に並行。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40007023015": "1",
+  "n40013041022": "1",
+  "n40023028016": "1",
+  "n40024012006": "1",
+  "n45004007005": "2",
+  "n45006019020": "1",
+  "n45006019023": "1",
+  "n47006014010": "1",
+  "n53002003020": "1",
+  "n53002007007": "1",
+  "n56002014011": "1",
+  "n58001009005": "1",
+  "n58010017007": "2",
+  "n62003004008": "1",
+  "n62003004015": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は数（単数＝性質／複数＝行為）による。"
+}

@@ -1,0 +1,56 @@
+{
+ "lemma": "στάδιος",
+ "lemmaId": "grc:G4712",
+ "strong": "G4712",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "スタディオン（距離）",
+   "label_en": "stadion (a distance)",
+   "label_es": "estadio (distancia)",
+   "label_sv": "stadie (avstånd)",
+   "def": "距離の単位、スタディオン（約185メートル）。『ベタニヤはエルサレムに近く、十五スタディオンほど』『二十五、六スタディオンも漕ぎ出したとき』『エルサレムから六十スタディオン』『陸を離れて数スタディオン』『千六百スタディオン』『一万二千スタディオン』。",
+   "def_en": "A unit of distance, the stadion (about 185 meters): “Bethany was near Jerusalem, about fifteen stadia away”, “when they had rowed about twenty-five or thirty stadia”, “sixty stadia from Jerusalem”, “several stadia from land”, “one thousand six hundred stadia”, “twelve thousand stadia”.",
+   "def_es": "Unidad de distancia, el estadio (unos 185 metros): «Betania estaba cerca de Jerusalén, como a quince estadios», «cuando habían remado como veinticinco o treinta estadios», «a sesenta estadios de Jerusalén», «a varios estadios de tierra», «mil seiscientos estadios», «doce mil estadios».",
+   "def_sv": "Ett längdmått, stadion (omkring 185 meter): ”Betania låg nära Jerusalem, omkring femton stadier därifrån”, ”när de hade rott ungefär tjugofem eller trettio stadier”, ”sextio stadier från Jerusalem”, ”flera stadier från land”, ”ettusen sexhundra stadier”, ”tolv tusen stadier”.",
+   "layers": {
+    "nt": 6,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ヨハネ11:18・6:19、ルカ24:13、マタイ14:24、黙示録14:20・21:16。LXX（12.29・4.12）に並行。教父の代表例は競技場の用法で、この語義としては確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "競技場",
+   "label_en": "stadium",
+   "label_es": "estadio (recinto)",
+   "label_sv": "tävlingsbana",
+   "def": "競走の行われる場、競技場。『競技場で走る者は皆走るが』。",
+   "def_en": "The place where races are run, a stadium: “all the runners in the stadium run, but”.",
+   "def_es": "Lugar donde se celebran las carreras, estadio: «los que corren en el estadio, todos corren, pero».",
+   "def_sv": "Platsen där man löper i kapp, stadion: ”de som springer på tävlingsbanan springer alla, men”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "コリント第一9:24。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40014024005": "1",
+  "n42024013015": "1",
+  "n43006019004": "1",
+  "n43011018010": "1",
+  "n46009024006": "2",
+  "n66014020020": "1",
+  "n66021016020": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（距離の単位／競技場）による。"
+}

@@ -1,0 +1,57 @@
+{
+ "lemma": "ἀντίκειμαι",
+ "lemmaId": "grc:G480",
+ "strong": "G480",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "反する・逆らう（動詞）",
+   "label_en": "to oppose / be contrary (verb)",
+   "label_es": "oponerse / ser contrario (verbo)",
+   "label_sv": "att strida mot (verb)",
+   "def": "逆らう、反する。『健全な教えに反する事がらのために』『肉は御霊に逆らい』。",
+   "def_en": "To oppose, to be contrary: “whatever else is contrary to sound doctrine”, “the flesh is opposed to the Spirit”.",
+   "def_es": "Oponerse, ser contrario: «para cuanto se oponga a la sana doctrina», «el deseo de la carne es contra el Espíritu».",
+   "def_sv": "Att motsätta sig, stå i strid med: ”allt annat som strider mot den sunda läran”, ”köttet strider mot Anden”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "テモテ第一1:10、ガラテヤ5:17。LXX（51.19）に並行。教父の代表例では確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "敵対者（分詞・名詞用法）",
+   "label_en": "adversary (participle, noun)",
+   "label_es": "adversario (participio y sustantivo)",
+   "label_sv": "motståndare (particip, substantiv)",
+   "def": "逆らう者、敵対者。『反対者が大ぜいいる』『敵対していた人々はみな恥じ入り』『反対者には誰も』『敵対する者に』『敵対する者たちを恐れず』『神と呼ばれるものすべてに敵対し』。",
+   "def_en": "One who opposes, an adversary: “there are many adversaries”, “all his adversaries were put to shame”, “none of your adversaries”, “give the adversary no occasion”, “not frightened by your opponents”, “who opposes every so-called god”.",
+   "def_es": "El que se opone, el adversario: «muchos son los adversarios», «se avergonzaban todos sus adversarios», «ninguno de los que se opongan», «no dar al adversario ninguna ocasión», «sin ser intimidados por los que se oponen», «el cual se opone contra todo lo que se llama Dios».",
+   "def_sv": "Den som står emot, motståndaren: ”motståndarna är många”, ”alla hans motståndare fick skämmas”, ”ingen av era motståndare”, ”inte ge motståndaren något tillfälle”, ”utan att skrämmas av motståndarna”, ”som sätter sig upp mot allt som kallas gud”.",
+   "layers": {
+    "nt": 6,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "コリント第一16:9、ルカ13:17・21:15、テモテ第一5:14、ピリピ1:28、テサロニケ第二2:4。テサロニケ第二2:4 の指示対象は決定しない。LXX（23.22）に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42013017008": "2",
+  "n42021015016": "2",
+  "n46016009009": "2",
+  "n48005017017": "1",
+  "n50001028008": "2",
+  "n53002004002": "2",
+  "n54001010013": "1",
+  "n54005014011": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（動詞／分詞による敵対者）による。"
+}

@@ -1,0 +1,60 @@
+{
+ "lemma": "ὑγιής",
+ "lemmaId": "grc:G5199",
+ "strong": "G5199",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "健やかな／全き（体が）",
+   "label_en": "healthy / whole (body)",
+   "label_es": "sano / entero (cuerpo)",
+   "label_sv": "frisk / hel (om kroppen)",
+   "def": "健やかな、丈夫な、全き。『全く健やかにされて』『治りたいか』『その人は元気になり』『手は元どおり丈夫になり』『全身を健やかにした』『あなたの病気は治って』。",
+   "def_en": "Healthy, sound, whole: “made completely well”, “do you want to be healed?”, “the man became well”, “his hand was restored”, “made a man's whole body well”, “be healed of your disease”.",
+   "def_es": "Sano, fuerte, íntegro: «sanado por completo», «¿quieres ser sano?», «el hombre fue sanado», «la mano le fue restaurada sana», «sané completamente a un hombre», «queda sana de tu azote».",
+   "def_sv": "Frisk, stark, hel: ”blev helt botad”, ”vill du bli frisk?”, ”mannen blev frisk”, ”handen blev frisk igen”, ”gjort en människas hela kropp frisk”, ”var botad från din plåga”.",
+   "layers": {
+    "nt": 10,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒4:10、ヨハネ5:6・5:9・5:11・5:14・5:15・7:23、マタイ15:31・12:13、マルコ5:34。LXX レビ記13:15・詩篇、教父（26.8.3、26.8.7）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "健全な（言葉が）",
+   "label_en": "sound (speech)",
+   "label_es": "sano (palabra)",
+   "label_sv": "sund (om tal)",
+   "def": "健全な、非の打ちどころのない（言葉）。『非難の余地のない健全なことば』（テトス2:8）。",
+   "def_en": "Sound, irreproachable (speech): “sound speech that cannot be condemned” (Titus 2:8).",
+   "def_es": "Sano, intachable (hablar): «palabra sana e irreprochable» (Tit 2:8).",
+   "def_sv": "Sunt och oklanderligt (tal): ”sunt tal som inte kan klandras” (Tit 2:8).",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "テトス2:8 の1例のみ。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40012013013": "1",
+  "n40015031009": "1",
+  "n41005034016": "1",
+  "n43005006016": "1",
+  "n43005009004": "1",
+  "n43005011008": "1",
+  "n43005014014": "1",
+  "n43005015014": "1",
+  "n43007023018": "1",
+  "n44004010033": "1",
+  "n56002008002": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（体／言葉）による。"
+}

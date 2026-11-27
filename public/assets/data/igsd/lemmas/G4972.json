@@ -1,0 +1,98 @@
+{
+ "lemma": "σφραγίζω",
+ "lemmaId": "grc:G4972",
+ "strong": "G4972",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "封をする／封印して閉じる",
+   "label_en": "to seal / seal shut",
+   "label_es": "sellar / cerrar con sello",
+   "label_sv": "att försegla / stänga igen",
+   "def": "封印して閉じる、封じ込める。『石に封印をして墓を守った』『底なしの淵を閉じて封印した』。",
+   "def_en": "To close with a seal, to shut in: “secured the tomb by sealing the stone”, “shut and sealed the bottomless pit”.",
+   "def_es": "Cerrar con sello, dejar encerrado: «aseguraron el sepulcro sellando la piedra», «cerró y selló el abismo».",
+   "def_sv": "Att stänga med sigill, att spärra in: ”säkrade graven genom att försegla stenen”, ”stängde och förseglade avgrunden”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "マタイ27:66、黙示録20:3。LXX・教父（43.3、43.2）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "封じて隠す（秘める）",
+   "label_en": "to seal up (keep secret)",
+   "label_es": "sellar (mantener en secreto)",
+   "label_sv": "att försegla (hemlighålla)",
+   "def": "封印して秘する、語られたことを公表しない。『七つの雷が語ったことを封じよ』『この書の預言のことばを封じてはならない』。",
+   "def_en": "To seal and keep hidden, not to make public what has been said: “seal up what the seven thunders said”, “do not seal up the words of the prophecy of this book”.",
+   "def_es": "Sellar y reservar, no publicar lo dicho: «sella las cosas que los siete truenos han dicho», «no selles las palabras de la profecía de este libro».",
+   "def_sv": "Att försegla och hålla dolt, att inte offentliggöra det sagda: ”försegla vad de sju åskorna har talat”, ”försegla inte profetians ord i denna bok”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "黙示録10:4・22:10。LXX ダニエル8:26 に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+  },
+  {
+   "id": "3",
+   "label": "確かめる／保証する",
+   "label_en": "to confirm / guarantee",
+   "label_es": "confirmar / garantizar",
+   "label_sv": "att bekräfta / garantera",
+   "def": "確証する、認証する。『神が真実であることを確かめた』『父なる神が証印を押された』『この実を確かに渡す』。",
+   "def_en": "To confirm, to authenticate: “has certified that God is true”, “on him God the Father has set his seal”, “when I have securely delivered this fruit”.",
+   "def_es": "Ratificar, autenticar: «atestigua que Dios es veraz», «a este señaló Dios el Padre», «cuando les haya entregado este fruto».",
+   "def_sv": "Att stadfästa och intyga: ”har bekräftat att Gud talar sanning”, ”på honom har Gud Fadern satt sitt sigill”, ”säkert överlämnat denna frukt”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ヨハネ3:33・6:27、ローマ15:28。LXX 代表例に並行。教父の代表例では確認していない。ローマ15:28 は『この実を封印する＝確実に渡す』の比喩で、語義の境界が連続的。"
+  },
+  {
+   "id": "4",
+   "label": "印を押す（所属を示す）",
+   "label_en": "to mark with a seal (belonging)",
+   "label_es": "marcar con sello (pertenencia)",
+   "label_sv": "att märka med sigill (tillhörighet)",
+   "def": "所有・所属のしるしとして印を押す。『聖霊の証印を押され』『神の僕たちの額に印を押す』『印を押された者の数』。",
+   "def_en": "To put a seal as the mark of ownership and belonging: “sealed with the Holy Spirit”, “seal the servants of God on their foreheads”, “the number of the sealed”.",
+   "def_es": "Poner el sello como señal de propiedad y pertenencia: «sellados con el Espíritu Santo», «sellar en sus frentes a los siervos de Dios», «el número de los sellados».",
+   "def_sv": "Att sätta sigill som tecken på ägande och tillhörighet: ”fått den helige Ande som sigill”, ”märka Guds tjänare på pannan”, ”antalet märkta”.",
+   "layers": {
+    "nt": 8,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "Ⅱコリ1:22、エペソ1:13・4:30、黙示録7:3・7:4（2回）・7:5・7:8。語義3との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40027066007": "1",
+  "n43003033006": "3",
+  "n43006027026": "3",
+  "n45015028005": "3",
+  "n47001022003": "4",
+  "n49001013019": "4",
+  "n49004030012": "4",
+  "n66007003013": "4",
+  "n66007004006": "4",
+  "n66007004011": "4",
+  "n66007005006": "4",
+  "n66007008016": "4",
+  "n66010004016": "2",
+  "n66020003010": "1",
+  "n66022010005": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は目的（封じる／秘める／確証／所属）による。"
+}

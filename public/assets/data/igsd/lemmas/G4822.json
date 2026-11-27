@@ -1,0 +1,73 @@
+{
+ "lemma": "συμβιβάζω",
+ "lemmaId": "grc:G4822",
+ "strong": "G4822",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "結び合わせる",
+   "label_en": "to knit together",
+   "label_es": "unir",
+   "label_sv": "att sammanfoga",
+   "def": "結び合わせる、一つにする。『愛によって結び合わされ』『結び合わされ、つなぎ合わされて』『節々と筋によって支えられ、結び合わされて』。",
+   "def_en": "To join together, to make one: “being knit together in love”, “joined and held together”, “supported and knit together through joints and ligaments”.",
+   "def_es": "Enlazar, hacer uno: «unidos en amor», «concertado y unido entre sí», «nutriéndose y uniéndose por las coyunturas y ligamentos».",
+   "def_sv": "Att binda samman, att göra till ett: ”förenade i kärlek”, ”fogas samman och hålls ihop”, ”får stöd och hålls samman genom leder och senor”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "コロサイ2:2・2:19、エペソ4:16。語義2・3との境界は連続的。LXX・教父の代表例は「教える」の用法で、この語義としては確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "結論する・証明する",
+   "label_en": "to conclude, to prove",
+   "label_es": "concluir, demostrar",
+   "label_sv": "att dra slutsatsen, att bevisa",
+   "def": "推論して結論に達する、論証する。『神がわたしたちを召したのだと確信して』『イエスがキリストであることを論証し』。",
+   "def_en": "To reason to a conclusion, to demonstrate: “concluding that God had called us”, “proving that Jesus is the Christ”.",
+   "def_es": "Llegar a una conclusión razonando, probar: «dando por cierto que Dios nos llamaba», «demostrando que Jesús es el Cristo».",
+   "def_sv": "Att resonera sig fram till en slutsats, att påvisa: ”i förvissningen att Gud hade kallat oss”, ”bevisade att Jesus är Messias”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒16:10・9:22。語義1・3との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "教える・指示する",
+   "label_en": "to instruct",
+   "label_es": "instruir, indicar",
+   "label_sv": "att undervisa, att ge anvisning",
+   "def": "教える、教え導く。『主を教えうる者があろうか』『アレクサンドロに説明した』。",
+   "def_en": "To teach, to guide by instruction: “who can instruct the Lord”, “explained to Alexander”.",
+   "def_es": "Enseñar, guiar con instrucción: «¿quién podrá instruir al Señor?», «explicaron a Alejandro».",
+   "def_sv": "Att lära, att vägleda genom undervisning: ”vem kan undervisa Herren”, ”förklarade för Alexander”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "コリント第一2:16、使徒19:33。使徒19:33 は「教えた」か「促した」かの読みが分かれ、決定しない。LXX（4.15・10.11）に並行。教父の用例なし。語義2との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n44009022013": "2",
+  "n44016010011": "2",
+  "n44019033005": "3",
+  "n46002016007": "3",
+  "n49004016008": "1",
+  "n51002002006": "1",
+  "n51002019018": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（結び合わせる／結論する／教える）による。"
+}

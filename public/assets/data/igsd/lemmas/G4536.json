@@ -1,0 +1,60 @@
+{
+ "lemma": "σάλπιγξ",
+ "lemmaId": "grc:G4536",
+ "strong": "G4536",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "ラッパ（楽器）",
+   "label_en": "trumpet (instrument)",
+   "label_es": "trompeta (instrumento)",
+   "label_sv": "basun (instrument)",
+   "def": "ラッパ、角笛。『ラッパがはっきりしない音を出せば』『ラッパの響き』『ラッパのような大きな声』『七人の御使いに七つのラッパ』『ラッパを吹き鳴らそうとしている』。",
+   "def_en": "A trumpet, a horn: “if the trumpet gives an indistinct sound”, “the sound of a trumpet”, “a loud voice like a trumpet”, “seven trumpets given to the seven angels”, “about to blow the trumpets”.",
+   "def_es": "Trompeta, cuerno: «si la trompeta diere sonido incierto», «el sonido de trompeta», «una gran voz como de trompeta», «se les dieron siete trompetas a los siete ángeles», «se disponían a tocarlas».",
+   "def_sv": "En basun eller ett horn: ”om basunen ger en otydlig signal”, ”basunens ljud”, ”en stark röst lik en basun”, ”sju basuner åt de sju änglarna”, ”redo att blåsa i basunerna”.",
+   "layers": {
+    "nt": 8,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰコリ14:8、ヘブル12:19、黙示録1:10・4:1・8:2・8:6・8:13・9:14。LXX 詩篇・出エジプト記、教父（16.6）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "ラッパの響き（終末の合図）",
+   "label_en": "trumpet blast (end-time signal)",
+   "label_es": "toque de trompeta (señal final)",
+   "label_sv": "basunstöt (den yttersta signalen)",
+   "def": "ラッパの響き、ラッパによる合図。『最後のラッパの響きとともに』『神のラッパが鳴り響くとき』『大きなラッパの響きとともに』。",
+   "def_en": "The sound of the trumpet, a signal by trumpet: “at the last trumpet”, “with the sound of the trumpet of God”, “with a loud trumpet call”.",
+   "def_es": "El son de la trompeta, la señal dada con ella: «a la final trompeta», «con trompeta de Dios», «con gran voz de trompeta».",
+   "def_sv": "Basunens ljud och signal: ”vid den sista basunstöten”, ”när Guds basun ljuder”, ”med ljudande basun”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "Ⅰコリ15:52、Ⅰテサ4:16、マタイ24:31。LXX 代表例に並行。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40024031007": "2",
+  "n46014008006": "1",
+  "n46015052009": "2",
+  "n52004016012": "2",
+  "n58012019002": "1",
+  "n66001010015": "1",
+  "n66004001019": "1",
+  "n66008002015": "1",
+  "n66008006009": "1",
+  "n66008013026": "1",
+  "n66009014008": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（楽器／響き）による。"
+}

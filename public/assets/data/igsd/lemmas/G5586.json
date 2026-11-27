@@ -1,0 +1,52 @@
+{
+ "lemma": "ψῆφος",
+ "lemmaId": "grc:G5586",
+ "strong": "G5586",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "票",
+   "label_en": "vote",
+   "label_es": "voto",
+   "label_sv": "röst (vid omröstning)",
+   "def": "投票、票。『賛成の票を投じた』。",
+   "def_en": "A vote: “I cast my vote in favour”.",
+   "def_es": "Voto, sufragio: «yo di mi voto».",
+   "def_sv": "En avgiven röst: ”lade jag min röst för”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒26:10。LXX に並行（採決・票）。教父の用例なし。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "小石",
+   "label_en": "pebble, stone",
+   "label_es": "piedrecita",
+   "label_sv": "liten sten",
+   "def": "小石、石。『白い石』。",
+   "def_en": "A small stone, a pebble: “a white stone”.",
+   "def_es": "Piedra pequeña: «una piedrecita blanca».",
+   "def_sv": "Sten, småsten: ”en vit sten”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "黙示録2:17（2回）。LXX に並行（石）。教父の用例なし。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n44026010025": "1",
+  "n66002017022": "2",
+  "n66002017027": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（票／小石）による。"
+}

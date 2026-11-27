@@ -1,0 +1,65 @@
+{
+ "lemma": "τροφή",
+ "lemmaId": "grc:G5160",
+ "strong": "G5160",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "食物／食べ物",
+   "label_en": "food / nourishment",
+   "label_es": "comida / alimento",
+   "label_sv": "mat / föda",
+   "def": "食物、糧。『日ごとの食べ物』『食物を求める』『食物はいのちにまさる』『食物に事欠いている』。",
+   "def_en": "Food, provisions: “daily food”, “seek food”, “life is more than food”, “lacking food”.",
+   "def_es": "Alimento, sustento: «el alimento de cada día», «buscar comida», «la vida es más que el alimento», «tienen necesidad del mantenimiento».",
+   "def_sv": "Mat och livsmedel: ”mat för dagen”, ”söka föda”, ”livet är mer än maten”, ”sakna mat”.",
+   "layers": {
+    "nt": 14,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒14:17・2:46・27:33・27:34・27:36・27:38・9:19、ヤコブ2:15、ヨハネ4:8、ルカ12:23、マタイ10:10・3:4・24:45・6:25。LXX 詩篇64:10、教父（Ⅰクレメンス13.1 ほか）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "（比喩的な）食べ物",
+   "label_en": "food (figurative)",
+   "label_es": "alimento (figurado)",
+   "label_sv": "föda (bildligt)",
+   "def": "比喩的用法。『固い食物』。",
+   "def_en": "Figurative use: “solid food”.",
+   "def_es": "Uso figurado: «alimento sólido».",
+   "def_sv": "Bildligt bruk: ”fast föda”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヘブル5:12・5:14。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40003004021": "1",
+  "n40006025024": "1",
+  "n40010010017": "1",
+  "n40024045021": "1",
+  "n42012023007": "1",
+  "n43004008010": "1",
+  "n44002046015": "1",
+  "n44009019003": "1",
+  "n44014017015": "1",
+  "n44027033012": "1",
+  "n44027034005": "1",
+  "n44027036008": "1",
+  "n44027038003": "1",
+  "n58005012031": "2",
+  "n58005014006": "2",
+  "n59002015011": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用例（字義的／比喩的）による。"
+}

@@ -1,0 +1,57 @@
+{
+ "lemma": "σαπρός",
+ "lemmaId": "grc:G4550",
+ "strong": "G4550",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "悪い・腐った（木・実・魚）",
+   "label_en": "bad / rotten (tree, fruit, fish)",
+   "label_es": "malo / podrido (árbol, fruto, pez)",
+   "label_sv": "dålig / rutten (träd, frukt, fisk)",
+   "def": "腐った、悪い（木・実・魚について）。『悪い木は悪い実を結ぶ』『悪い木は悪い実を結ぶ』『悪い魚は投げ捨てる』。",
+   "def_en": "Rotten, bad (of trees, fruit, fish): “a bad tree bears bad fruit”, “a bad tree bears bad fruit”, “threw away the bad fish”.",
+   "def_es": "Podrido, malo (árbol, fruto, pez): «el árbol malo da frutos malos», «el árbol malo da fruto malo», «echan fuera los peces malos».",
+   "def_sv": "Rutten, dålig (om träd, frukt, fisk): ”ett dåligt träd bär dålig frukt”, ”det dåliga trädet ger dålig frukt”, ”kastar bort de dåliga fiskarna”.",
+   "layers": {
+    "nt": 7,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ7:17・7:18・12:33（2回）・13:48、ルカ6:43（2回）。LXX の用例なし。教父の代表例では確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "悪い（言葉）",
+   "label_en": "corrupting (speech)",
+   "label_es": "corrompido (palabra)",
+   "label_sv": "skadlig (om tal)",
+   "def": "言葉について悪い、ためにならない。『悪い言葉は一切口から出してはならない』。",
+   "def_en": "Of speech, bad, of no benefit: “let no corrupting talk come out of your mouths”.",
+   "def_es": "De la palabra, mala, sin provecho: «ninguna palabra corrompida salga de vuestra boca».",
+   "def_sv": "Om ord, dåliga och till ingen nytta: ”låt inget oanständigt tal komma ur er mun”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "エペソ4:29。語義1との境界は連続的。LXX の用例なし。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40007017010": "1",
+  "n40007018010": "1",
+  "n40012033015": "1",
+  "n40012033020": "1",
+  "n40013048017": "1",
+  "n42006043008": "1",
+  "n42006043012": "1",
+  "n49004029003": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "LXX の用例なし。語義区分は対象（木・実・魚／言葉）による。"
+}

@@ -1,0 +1,55 @@
+{
+ "lemma": "φορέω",
+ "lemmaId": "grc:G5409",
+ "strong": "G5409",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "身につける・帯びる",
+   "label_en": "to wear, to bear",
+   "label_es": "vestir, llevar",
+   "label_sv": "att bära, att vara klädd i",
+   "def": "衣服・武器などを身につける、帯びる。『りっぱな衣を着ている人』『柔らかい衣を着た者』『いばらの冠と紫の上着を着けて』『いたずらに剣を帯びているのではない』。",
+   "def_en": "To wear or carry clothing, weapons and the like: “the man wearing the fine clothing”, “those who wear soft clothing”, “wearing the crown of thorns and the purple robe”, “he does not bear the sword in vain”.",
+   "def_es": "Llevar puesto un vestido, armas, etc: «el que trae la ropa espléndida», «los que llevan vestiduras delicadas», «llevando la corona de espinas y el manto de púrpura», «no en vano lleva la espada».",
+   "def_sv": "Att bära kläder, vapen och dylikt: ”den som bär praktfulla kläder”, ”de som bär fina kläder”, ”iklädd törnekronan och den purpurröda manteln”, ”det är inte för intet han bär svärdet”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ヤコブ2:3、ヨハネ19:5、マタイ11:8、ローマ13:4。LXX（11.5）に並行。教父の代表例（26.14.6）は「名を帯びる」の用法で、この語義としては確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "像を帯びる・負う",
+   "label_en": "to bear the image",
+   "label_es": "llevar la imagen",
+   "label_sv": "att bära bilden",
+   "def": "（人や像の）形を帯びる、負う。『土から出た人の像を帯びていたように』『天からの人の像をも帯びるであろう』。",
+   "def_en": "To bear the likeness of a person or form: “just as we have borne the image of the man of dust”, “we shall also bear the image of the man from heaven”.",
+   "def_es": "Llevar la forma o imagen de alguien: «así como hemos traído la imagen del terrenal», «traeremos también la imagen del celestial».",
+   "def_sv": "Att bära någons gestalt eller avbild: ”liksom vi har burit bilden av den jordiska människan”, ”skall vi också bära bilden av den himmelska”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "コリント第一15:49（2回）。教父（26.14.6）の「名を帯びる」に並行。LXX の代表例では確認していない。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40011008013": "1",
+  "n43019005006": "1",
+  "n45013004020": "1",
+  "n46015049003": "2",
+  "n46015049008": "2",
+  "n59002003005": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（身につける／像・名を帯びる）による。"
+}

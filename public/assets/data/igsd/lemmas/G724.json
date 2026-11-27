@@ -1,0 +1,52 @@
+{
+ "lemma": "ἁρπαγή",
+ "lemmaId": "grc:G724",
+ "strong": "G724",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "略奪",
+   "label_en": "plundering",
+   "label_es": "despojo",
+   "label_sv": "plundring, rov",
+   "def": "略奪、奪い取ること。『持ち物が略奪されるのを喜んで』。",
+   "def_en": "Plunder, seizure: “joyfully accepting the seizure of your property”.",
+   "def_es": "Saqueo, el arrebatar: «sufristeis con gozo el despojo de vuestros bienes».",
+   "def_sv": "Rov, att ta med våld: ”med glädje fann er i att bli berövade era ägodelar”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ヘブル10:34。LXX に並行。教父の代表例では確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "強欲",
+   "label_en": "greed, rapacity",
+   "label_es": "rapacidad",
+   "label_sv": "rovlystnad",
+   "def": "強欲、貪欲。『強欲と邪悪で満ちている』『強欲と放縦』。",
+   "def_en": "Rapacity, greed: “full of rapacity and wickedness”, “greed and self-indulgence”.",
+   "def_es": "Rapiña, codicia: «llenos de rapacidad y de maldad», «robo y de injusticia».",
+   "def_sv": "Rofferi, girighet: ”fulla av rofferi och ondska”, ”rofferi och omåttlighet”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "ルカ11:39、マタイ23:25。LXX の代表例では確認していない。教父に並行（悪徳表）。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40023025020": "2",
+  "n42011039024": "2",
+  "n58010034008": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（略奪／強欲）による。"
+}

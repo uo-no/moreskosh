@@ -1,0 +1,67 @@
+{
+ "lemma": "βλασφημία",
+ "lemmaId": "grc:G988",
+ "strong": "G988",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "冒瀆（神・聖なるものへの）",
+   "label_en": "blasphemy (against God or what is holy)",
+   "label_es": "blasfemia (contra Dios o lo santo)",
+   "label_sv": "hädelse (mot Gud eller det heliga)",
+   "def": "神・聖霊・聖なるものを汚す言葉。『神を冒瀆している』『聖霊に対する冒瀆は赦されない』。獣の頭にしるされた冒瀆の名。",
+   "def_en": "Words that defile God, the Holy Spirit, or what is holy: “he is blaspheming God”, “blasphemy against the Spirit will not be forgiven”; the blasphemous names written on the beast's heads.",
+   "def_es": "Palabras que profanan a Dios, al Espíritu Santo o lo santo: «está blasfemando contra Dios», «la blasfemia contra el Espíritu no será perdonada»; los nombres de blasfemia inscritos en las cabezas de la bestia.",
+   "def_sv": "Ord som vanhelgar Gud, den helige Ande eller det heliga: ”han hädar Gud”, ”hädelse mot Anden ska inte förlåtas”; de hädiska namnen på vilddjurets huvuden.",
+   "layers": {
+    "nt": 11,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ヨハネ10:33、ルカ5:21、マタイ12:31（2回）・26:65、マルコ3:28・14:64、黙示録13:1・5・6・17:3。LXX Ⅱ列王18（セナケリブ）、Ⅱマカバイ8:4 に並行。教父の代表例では確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "悪口／中傷（人への）",
+   "label_en": "slander / abusive speech (against people)",
+   "label_es": "maledicencia / calumnia (contra las personas)",
+   "label_sv": "förtal / smädelse (mot människor)",
+   "def": "人に向けた悪口・中傷・罵り。悪徳表に列挙される悪口、教会の者に対する中傷。",
+   "def_en": "Abuse, slander, or reviling directed at people: slander listed among vices, defamation of members of the church.",
+   "def_es": "Insultos, calumnias o injurias dirigidos contra personas: la maledicencia en las listas de vicios, la difamación de miembros de la iglesia.",
+   "def_sv": "Förtal, smädelser och skymford riktade mot människor: förtalet i lastkatalogerna, ärekränkning av församlingsmedlemmar.",
+   "layers": {
+    "nt": 7,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "マタイ15:19・マルコ7:22・Ⅰテモ6:4・コロサイ3:8・エペソ4:31（悪口を捨てよ）、ユダ9（悪魔をののしって）、黙示録2:9（ユダヤ人と称する者たちの悪口）。教父（ディダケー3.6『つぶやくな、冒瀆に導くから』）に並行。LXX の代表例では確認していない。語義1との境界は連続的（相手が神か人か）。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40012031008": "1",
+  "n40012031016": "1",
+  "n40015019013": "2",
+  "n40026065019": "1",
+  "n41003028015": "1",
+  "n41007022008": "2",
+  "n41014064003": "1",
+  "n42005021015": "1",
+  "n43010033013": "1",
+  "n49004031010": "2",
+  "n51003008011": "2",
+  "n54006004015": "2",
+  "n65001009019": "2",
+  "n66002009013": "2",
+  "n66013001027": "1",
+  "n66013005008": "1",
+  "n66013006007": "1",
+  "n66017003017": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

@@ -1,0 +1,56 @@
+{
+ "lemma": "σαρκικός",
+ "lemmaId": "grc:G4559",
+ "strong": "G4559",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "物質的な",
+   "label_en": "material",
+   "label_es": "material",
+   "label_sv": "materiell",
+   "def": "物質的な、肉体的な事柄に関する。『あなたがたから物質的なものを刈り取ることは』『物質的な事柄で彼らに仕える』。",
+   "def_en": "Concerning material, bodily matters: “is it too much if we reap material things from you”, “to serve them in material things”.",
+   "def_es": "Relativo a cosas materiales, corporales: «que cosechemos de vosotros lo material», «ministrarles en lo material».",
+   "def_sv": "Som gäller materiella, kroppsliga ting: ”att vi får skörda något materiellt av er”, ”tjäna dem med det materiella”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "コリント第一9:11、ローマ15:27。語義2との境界は連続的。LXX の用例なし。教父の代表例は倫理的用法で、この語義としては確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "肉に属する・肉的な",
+   "label_en": "of the flesh, fleshly",
+   "label_es": "carnal",
+   "label_sv": "köttslig",
+   "def": "肉に属する、肉の性質による。『あなたがたは肉の人』『肉に属する者ではないか』『魂に戦いをいどむ肉の欲』『わたしたちの戦いの武器は肉のものではなく』『肉の知恵によらず』。",
+   "def_en": "Belonging to the flesh, of the nature of the flesh: “you are people of the flesh”, “are you not still fleshly”, “fleshly desires that wage war against the soul”, “the weapons of our warfare are not of the flesh”, “not by fleshly wisdom”.",
+   "def_es": "Perteneciente a la carne, de naturaleza carnal: «sois carnales», «¿no sois carnales?», «los deseos carnales que batallan contra el alma», «las armas de nuestra milicia no son carnales», «no con sabiduría carnal».",
+   "def_sv": "Som hör till köttet, av köttets natur: ”ni är köttsliga människor”, ”är ni inte köttsliga”, ”de köttsliga begär som för krig mot själen”, ”de vapen vi strider med är inte köttsliga”, ”inte genom köttslig vishet”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "コリント第一3:3（2回）、ペテロ第一2:11、コリント第二10:4・1:12。教父（7.1.2・1.4）に並行。語義1との境界は連続的。LXX の用例なし。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n45015027019": "1",
+  "n46003003003": "2",
+  "n46003003013": "2",
+  "n46009011012": "1",
+  "n47001012022": "2",
+  "n47010004008": "2",
+  "n60002011009": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "LXX の用例なし。語義区分は用法（物質的／肉に属する）による。"
+}

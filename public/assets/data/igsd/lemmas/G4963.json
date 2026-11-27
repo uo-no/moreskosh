@@ -1,0 +1,51 @@
+{
+ "lemma": "συστροφή",
+ "lemmaId": "grc:G4963",
+ "strong": "G4963",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "騒ぎ",
+   "label_en": "commotion",
+   "label_es": "tumulto",
+   "label_sv": "tumult",
+   "def": "騒ぎ、集まり。『この騒ぎ』。",
+   "def_en": "An uproar, a mob gathering: “this commotion”.",
+   "def_es": "Alboroto, reunión turbulenta: «este concurso».",
+   "def_sv": "Upplopp, folksamling: ”denna folksamling”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒19:40。LXX・教父の代表例では確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "共謀",
+   "label_en": "conspiracy",
+   "label_es": "conjura",
+   "label_sv": "sammansvärjning",
+   "def": "共謀、陰謀。『陰謀を企て』。",
+   "def_en": "A plot, a conspiracy: “formed a plot”.",
+   "def_es": "Conspiración: «tramaron un complot».",
+   "def_sv": "Komplott: ”sammansvor sig”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒23:12。LXX に並行。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n44019040020": "1",
+  "n44023012005": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（騒ぎ／共謀）による。"
+}

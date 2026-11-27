@@ -1,0 +1,71 @@
+{
+ "lemma": "τεσσεράκοντα",
+ "lemmaId": "grc:G5062",
+ "strong": "G5062",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "四十（独立した数）",
+   "label_en": "forty (independent number)",
+   "label_es": "cuarenta (número independiente)",
+   "label_sv": "fyrtio (fristående tal)",
+   "def": "数詞の四十。四十日・四十年・四十人・四十打。聖書的な期間や数量として用いられる。",
+   "def_en": "The numeral forty: forty days, forty years, forty people, forty lashes. Used for biblical periods and quantities.",
+   "def_es": "El numeral cuarenta: cuarenta días, cuarenta años, cuarenta personas, cuarenta azotes. Se usa para periodos y cantidades bíblicos.",
+   "def_sv": "Räkneordet fyrtio: fyrtio dagar, fyrtio år, fyrtio personer, fyrtio rapp. Används om bibliska tidrymder och mängder.",
+   "layers": {
+    "nt": 18,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "マタイ4:2・マルコ1:13・ルカ4:2（四十日）、使徒1:3・7:30・36・42・13:21、ヘブル3:9・17（荒野の四十年）、ヨハネ2:20（四十六年の一部）、Ⅱコリ11:24、使徒4:22・23:13・21、黙示録11:2・13:5（四十二か月）。LXX・教父（バルナバ14.2 ほか）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "（合成数の一部として）四十",
+   "label_en": "forty (as part of a compound number)",
+   "label_es": "cuarenta (como parte de un número compuesto)",
+   "label_sv": "fyrtio (som del av ett sammansatt tal)",
+   "def": "百四十四（144,000／144ペーキュス）の数の構成要素として現れる。",
+   "def_en": "Appears as a component of the number one hundred and forty-four (144,000 / 144 cubits).",
+   "def_es": "Aparece como componente del número ciento cuarenta y cuatro (144 000 / 144 codos).",
+   "def_sv": "Förekommer som led i talet hundrafyrtiofyra (144 000 / 144 alnar).",
+   "layers": {
+    "nt": 4,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "黙示録7:4・14:1・14:3・21:17（『百四十四』の中の τεσσεράκοντα）。独立した『四十』ではなく合成数の部分。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40004002004": "1",
+  "n40004002007": "1",
+  "n41001013006": "1",
+  "n42004002002": "1",
+  "n43002020005": "1",
+  "n44001003015": "1",
+  "n44004022005": "1",
+  "n44007030004": "1",
+  "n44007036020": "1",
+  "n44007042026": "1",
+  "n44013021018": "1",
+  "n44023013004": "1",
+  "n44023021013": "1",
+  "n47011024004": "1",
+  "n58003010001": "1",
+  "n58003017004": "1",
+  "n66007004008": "2",
+  "n66011002025": "1",
+  "n66013005015": "1",
+  "n66014001016": "2",
+  "n66014003027": "2",
+  "n66021017007": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

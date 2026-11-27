@@ -1,0 +1,54 @@
+{
+ "lemma": "ὑπερέχω",
+ "lemmaId": "grc:G5242",
+ "strong": "G5242",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "まさる・優れる",
+   "label_en": "to surpass, to be better",
+   "label_es": "superar, aventajar",
+   "label_sv": "att överträffa, att vara förmer",
+   "def": "まさる、すぐれる。『知識にすぐれていること』『人知を越えた神の平安』『互いに人を自分よりすぐれた者と思い』。",
+   "def_en": "To excel, to be superior: “the surpassing worth of knowing”, “the peace of God that surpasses all understanding”, “count one another as better than yourselves”.",
+   "def_es": "Sobresalir, ser superior: «la excelencia del conocimiento», «la paz de Dios, que sobrepasa todo entendimiento», «estimando cada uno a los demás como superiores a él mismo».",
+   "def_sv": "Att vara överlägsen, att stå högre: ”kunskapen som går före allt annat”, ”Guds frid som övergår allt förstånd”, ”sätt varandra högre än er själva”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ピリピ3:8・4:7・2:3。LXX、教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "上に立つ・支配する",
+   "label_en": "to be over, to govern",
+   "label_es": "estar en autoridad, gobernar",
+   "label_sv": "att vara överordnad, att styra",
+   "def": "上位にある、治める。『最高の権威者としての王』『上に立つ権威』。",
+   "def_en": "To be in a higher position, to rule: “the king as supreme authority”, “the governing authorities”.",
+   "def_es": "Ocupar un puesto superior, regir: «al rey, como a superior», «las autoridades superiores».",
+   "def_sv": "Att stå över, att regera: ”kungen som högste härskare”, ”den överhet man har över sig”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ペテロ第一2:13、ローマ13:1。LXX、教父に並行。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n45013001004": "2",
+  "n50002003012": "1",
+  "n50003008010": "1",
+  "n50004007007": "1",
+  "n60002013011": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（まさる／上に立つ）による。"
+}

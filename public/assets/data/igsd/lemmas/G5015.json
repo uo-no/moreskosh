@@ -1,0 +1,83 @@
+{
+ "lemma": "ταράσσω",
+ "lemmaId": "grc:G5015",
+ "strong": "G5015",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "かき乱す（水を）",
+   "label_en": "to stir up (water)",
+   "label_es": "agitar (el agua)",
+   "label_sv": "att röra upp (vatten)",
+   "def": "水をかき乱す、水が動かされる。ベテスダの池の水が動く。",
+   "def_en": "To agitate water, water being moved: the water of the pool of Bethesda is stirred.",
+   "def_es": "Remover el agua, ser movida: el agua del estanque de Betesda se agita.",
+   "def_sv": "Att sätta vatten i rörelse: vattnet i Betesdadammen rörs upp.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ヨハネ5:7（水が動かされるとき）の1例のみ。LXX 詩篇・ダニエル書（海の水がかき乱される）に並行。教父の代表例では確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "心を乱す／動揺させる",
+   "label_en": "to trouble / disturb",
+   "label_es": "turbar / perturbar",
+   "label_sv": "att oroa / uppröra",
+   "def": "人の心を乱す、動揺・恐れ・不安を起こさせる。受動で『心を騒がせる』『うろたえる』。『心を騒がせるな』。",
+   "def_en": "To disturb a person's heart, to cause agitation, fear, or anxiety. Passive: “to be troubled”, “to be dismayed”: “Let not your hearts be troubled.”",
+   "def_es": "Perturbar el corazón de alguien, causar agitación, temor o inquietud. En pasiva, «turbarse», «alarmarse»: «No se turbe vuestro corazón».",
+   "def_sv": "Att störa någons sinne och väcka oro, fruktan eller ängslan. Passivt ”bli oroad”, ”bli förskräckt”: ”Känn ingen oro.”",
+   "layers": {
+    "nt": 11,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ヨハネ11:33・12:27・13:21・14:1・27（心を騒がせるな）、マタイ2:3・14:26、マルコ6:50（恐れた）、ルカ1:12・24:38、Ⅰペテロ3:14（彼らを恐れるな）。LXX 詩篇41:7 に並行。教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "惑わす／混乱させる（人々・教会を）",
+   "label_en": "to unsettle / confuse (people, church)",
+   "label_es": "inquietar / confundir (gente, iglesia)",
+   "label_sv": "att förvilla / skapa förvirring (folk, församling)",
+   "def": "人々・教会を混乱させる、動揺させる、惑わす、騒ぎを起こす。",
+   "def_en": "To throw people or the church into confusion, to shake, mislead, or cause an uproar.",
+   "def_es": "Perturbar a la gente o a la iglesia, desestabilizar, desorientar, provocar alboroto.",
+   "def_sv": "Att skapa förvirring bland folk och i församlingen, att uppröra, vilseleda och väcka oro.",
+   "layers": {
+    "nt": 5,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒15:24（あなたがたの心を乱した）・17:8・13（群衆を騒がせた）、ガラテヤ1:7・5:10（あなたがたを乱す者）。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40002003006": "2",
+  "n40014026010": "2",
+  "n41006050006": "2",
+  "n42001012002": "2",
+  "n42024038005": "2",
+  "n43005007011": "1",
+  "n43011033017": "2",
+  "n43012027005": "2",
+  "n43013021005": "2",
+  "n43014001002": "2",
+  "n43014027018": "2",
+  "n44015024008": "3",
+  "n44017008001": "3",
+  "n44017013026": "3",
+  "n48001007010": "3",
+  "n48005010013": "3",
+  "n60003014015": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

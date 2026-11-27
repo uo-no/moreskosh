@@ -1,0 +1,52 @@
+{
+ "lemma": "συγκρίνω",
+ "lemmaId": "grc:G4793",
+ "strong": "G4793",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "比較する",
+   "label_en": "to compare",
+   "label_es": "comparar",
+   "label_sv": "att jämföra",
+   "def": "比べる、同列に置く。『自分を…と比べ』。",
+   "def_en": "To compare, to set side by side: “comparing ourselves with …”.",
+   "def_es": "Cotejar, equiparar: «compararnos con …».",
+   "def_sv": "Att jämställa, att likställa: ”jämföra oss med …”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "コリント第二10:12（2回）。LXX・教父の代表例では確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "解き明かす・組み合わせる",
+   "label_en": "to interpret, to combine",
+   "label_es": "interpretar, combinar",
+   "label_sv": "att uttyda, att sammanställa",
+   "def": "解き明かす、説明する。コリント第一2:13 を『霊的なことを霊的なものによって解き明かす』と読むか『組み合わせる』と読むかは決定しない。",
+   "def_en": "To expound, to explain. It is not decided whether 1 Corinthians 2:13 is to be read as “explaining spiritual things by spiritual things” or as “combining” them.",
+   "def_es": "Interpretar, explicar. No se decide si 1 Corintios 2:13 debe leerse como «explicar lo espiritual por medio de lo espiritual» o como «combinar».",
+   "def_sv": "Att utlägga, att förklara. Det avgörs inte om 1 Korinthierbrevet 2:13 skall läsas som ”att förklara det andliga med det andliga” eller som ”att sammanföra”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "コリント第一2:13。LXX に並行（夢などの解き明かし）。教父の用例なし。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n46002013016": "2",
+  "n47010012006": "1",
+  "n47010012019": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法による。コリント第一2:13 の解釈は決定しない。"
+}

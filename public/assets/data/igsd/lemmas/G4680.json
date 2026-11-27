@@ -1,0 +1,85 @@
+{
+ "lemma": "σοφός",
+ "lemmaId": "grc:G4680",
+ "strong": "G4680",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "賢い／知恵のある（者）",
+   "label_en": "wise (person)",
+   "label_es": "sabio / el que tiene sabiduría",
+   "label_sv": "vis / den som har vishet",
+   "def": "知恵のある者、学識のある者、賢明な者。『知者』『この世の知者』『賢い者と知恵のある者』。肯定的にも、神の前に低められる者としても用いられる。",
+   "def_en": "One who has wisdom, learning, or prudence: “the wise”, “the wise of this age”, “the wise and understanding”. Used both positively and of those brought low before God.",
+   "def_es": "El que posee sabiduría, instrucción o buen juicio: «sabios», «el sabio de este mundo», «sabios y entendidos». Se usa tanto en sentido positivo como de quienes son humillados ante Dios.",
+   "def_sv": "En som har vishet, lärdom eller klokskap: ”de visa”, ”den vise i denna världen”, ”visa och kloka”. Används både positivt och om dem som förödmjukas inför Gud.",
+   "layers": {
+    "nt": 16,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰコリ1:19・20・25（神の愚かさは人よりも賢い）・26・27、3:18（2回）・19・20、6:5、ローマ1:14・22、マタイ11:25・ルカ10:21（賢い者や知恵のある者）、マタイ23:34（知者）、ヤコブ3:13（あなたがたのうちの知恵ある者）。LXX 箴言9:8、教父（Ⅰクレメンス38.2）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "巧みな／熟練した",
+   "label_en": "skilful / expert",
+   "label_es": "hábil / experto",
+   "label_sv": "skicklig / kunnig",
+   "def": "技術・仕事に熟練している、巧みな。",
+   "def_en": "Skilled and proficient in a craft or work.",
+   "def_es": "Diestro y experimentado en un arte o trabajo.",
+   "def_sv": "Skicklig och förfaren i ett hantverk eller arbete.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "Ⅰコリ3:10（わたしは賢い建築士のように土台を据えた）の1例のみ。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "賢明な／分別のある（振る舞い）",
+   "label_en": "prudent / discerning (conduct)",
+   "label_es": "prudente / sensato (conducta)",
+   "label_sv": "klok / förståndig (i sitt handlande)",
+   "def": "日々の生活での良識・分別、悪に対する賢明さ。『善にはさとく、悪には疎く』『賢い者のように歩め』。",
+   "def_en": "Good sense and discretion in daily life, wisdom with regard to evil: “wise as to what is good and innocent as to evil”, “walk as wise people”.",
+   "def_es": "Buen sentido y discreción en la vida diaria, sagacidad frente al mal: «sabios para el bien e ingenuos para el mal», «andad como sabios».",
+   "def_sv": "Omdöme och förstånd i vardagen, klokhet gentemot det onda: ”visa i det goda och oskyldiga i det onda”, ”lev som visa människor”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "エペソ5:15（知恵のない者のようにでなく賢い者として）、ローマ16:19（善にはさとく、悪には疎く）。LXX 箴言に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40011025022": "1",
+  "n40023034010": "1",
+  "n42010021025": "1",
+  "n45001014005": "1",
+  "n45001022003": "1",
+  "n45016019015": "3",
+  "n46001019007": "1",
+  "n46001020002": "1",
+  "n46001025006": "1",
+  "n46001026010": "1",
+  "n46001027012": "1",
+  "n46003010010": "2",
+  "n46003018007": "1",
+  "n46003018019": "1",
+  "n46003019017": "1",
+  "n46003020008": "1",
+  "n46006005011": "1",
+  "n49005015011": "3",
+  "n59003013002": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

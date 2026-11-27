@@ -1,0 +1,103 @@
+{
+ "lemma": "τοσοῦτος",
+ "lemmaId": "grc:G5118",
+ "strong": "G5118",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "これほど多くの（数・量）",
+   "label_en": "so many / so much (number, quantity)",
+   "label_es": "tantos / tanto (número, cantidad)",
+   "label_sv": "så många / så mycket (antal, mängd)",
+   "def": "数や量がこれほど多い、これほど大きいことを表す。『これほどの数』『これほどのしるし』『これだけの価格』。",
+   "def_en": "Expresses that a number or quantity is this many or this great: “such a number”, “so many signs”, “for this price”.",
+   "def_es": "Expresa que un número o cantidad es así de numeroso o grande: «tal número», «tantas señales», «a tal precio».",
+   "def_sv": "Uttrycker att ett antal eller en mängd är så här stor: ”ett sådant antal”, ”så många tecken”, ”ett så högt pris”.",
+   "layers": {
+    "nt": 10,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰコリ14:10（これほど多くの言語）、ガラテヤ3:4（これほど多くのことを経験した）、ヨハネ6:9・12:37・21:11、ルカ15:29（これほど多くの年）、使徒5:8（（その）値）、マタイ15:33（これほど多くのパン。同一節に2回）。LXX・教父（Ⅱクレメンス2.1.3）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "これほど大きな（程度・質）",
+   "label_en": "so great (degree, quality)",
+   "label_es": "tan grande (grado, calidad)",
+   "label_sv": "så stor (grad, art)",
+   "def": "程度・質がこれほど大きいことを表す。『これほどの信仰』『これほどの雲』『これほどの贅沢』。",
+   "def_en": "Expresses that a degree or quality is this great: “such faith”, “such a cloud”, “such luxury”.",
+   "def_es": "Expresa que un grado o calidad es así de grande: «una fe tan grande», «tan gran nube», «tanto lujo».",
+   "def_sv": "Uttrycker att en grad eller art är så här stor: ”en så stark tro”, ”en sådan sky”, ”sådan lyx”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マタイ8:10・ルカ7:9（これほどの信仰を見たことがない）、ヘブル12:1（これほど多くの証人の雲）、黙示録18:7・17（これほどの富）。LXX にも並行がある。教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "これほど長い（時間）",
+   "label_en": "so long (time)",
+   "label_es": "tanto tiempo (tiempo)",
+   "label_sv": "så länge (tid)",
+   "def": "時間がこれほど長いことを表す。",
+   "def_en": "Expresses that a time is this long.",
+   "def_es": "Expresa que un tiempo es así de largo.",
+   "def_sv": "Uttrycker att en tid är så här lång.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヨハネ14:9（こんなに長くあなたがたと一緒にいるのに）、ヘブル4:7（これほど長い時を経て）。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "4",
+   "label": "それだけ〜（τοσούτῳ…ὅσῳ の対応）",
+   "label_en": "by so much … (the τοσούτῳ … ὅσῳ correlation)",
+   "label_es": "tanto … (correlación τοσούτῳ … ὅσῳ)",
+   "label_sv": "så mycket … (korrelationen τοσούτῳ … ὅσῳ)",
+   "def": "『ὅσῳ（〜だけ）…τοσούτῳ（それだけ）』と対応して、比例的な程度を表す。比較級とともに用いる。",
+   "def_en": "Corresponds to “ὅσῳ (by as much as) … τοσούτῳ (by so much)”, expressing proportional degree. Used with comparatives.",
+   "def_es": "En correlación con «ὅσῳ (cuanto) … τοσούτῳ (tanto)», expresa un grado proporcional. Se usa con comparativos.",
+   "def_sv": "Svarar mot ”ὅσῳ (ju mer) … τοσούτῳ (desto mer)” och uttrycker en proportionell grad. Används med komparativer.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "ヘブル1:4（御使いたちよりすぐれた名を受け継いだだけ、それだけすぐれたものとなった）・7:22・10:25（日が近づくのを見るにつけ、いっそう）。教父（Ⅰクレメンス41.4 ὅσῳ…τοσούτῳ）に並行。LXX の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40008010015": "2",
+  "n40015033011": "1",
+  "n40015033015": "1",
+  "n42007009021": "2",
+  "n42015029009": "1",
+  "n43006009017": "1",
+  "n43012037001": "1",
+  "n43014009005": "3",
+  "n43021011019": "1",
+  "n44005008009": "1",
+  "n44005008017": "1",
+  "n46014010001": "1",
+  "n48003004001": "1",
+  "n58001004001": "4",
+  "n58004007010": "3",
+  "n58007022002": "4",
+  "n58010025012": "4",
+  "n58012001004": "2",
+  "n66018007006": "2",
+  "n66018017006": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

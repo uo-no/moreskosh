@@ -1,0 +1,53 @@
+{
+ "lemma": "βαπτισμός",
+ "lemmaId": "grc:G909",
+ "strong": "G909",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "洗い・洗浄",
+   "label_en": "washing",
+   "label_es": "lavamiento, ablución",
+   "label_sv": "tvagning",
+   "def": "儀式的な洗い、洗浄。『洗い清め』『食物と飲み物と種々の洗いに関するもの』。",
+   "def_en": "Ceremonial washing, ablution: “washing for purification”, “matters of food and drink and various washings”.",
+   "def_es": "Lavado ritual, purificación: «lavamientos y purificaciones», «cosas relativas a comidas, bebidas y diversas abluciones».",
+   "def_sv": "Rituell tvagning, rening: ”tvagningar till rening”, ”det som gäller mat, dryck och olika tvagningar”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マルコ7:4、ヘブル9:10。語義2との境界は連続的。LXX・教父の用例なし。"
+  },
+  {
+   "id": "2",
+   "label": "バプテスマ（洗礼）",
+   "label_en": "baptism",
+   "label_es": "bautismo",
+   "label_sv": "dop",
+   "def": "バプテスマ、洗礼。『バプテスマにおいて彼と共に葬られ』『洗礼についての教え』。ヘブル6:2 の複数形の指す内容は決定しない。",
+   "def_en": "Baptism: “buried with him in baptism”, “teaching about baptisms”. What the plural in Hebrews 6:2 refers to is not decided.",
+   "def_es": "Bautismo: «sepultados con él en el bautismo», «la enseñanza sobre bautismos». No se decide a qué se refiere el plural de Hebreos 6:2.",
+   "def_sv": "Dop: ”begravda med honom i dopet”, ”undervisning om dop”. Vad pluralformen i Hebreerbrevet 6:2 syftar på avgörs inte.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "コロサイ2:12、ヘブル6:2。語義1との境界は連続的。LXX・教父の用例なし。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n41007004016": "1",
+  "n51002012005": "2",
+  "n58006002001": "2",
+  "n58009010008": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "LXX・教父の用例なし。語義区分は用法（洗い／バプテスマ）による。ヘブル6:2 は決定しない。"
+}

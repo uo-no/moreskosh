@@ -1,0 +1,54 @@
+{
+ "lemma": "ἅρπαξ",
+ "lemmaId": "grc:G727",
+ "strong": "G727",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "強奪する者",
+   "label_en": "swindler, robber",
+   "label_es": "ladrón, rapaz",
+   "label_sv": "rövare, utsugare",
+   "def": "強奪する者、略奪者。『貪欲な者、略奪する者』『強奪する者』『貪欲な者、略奪する者』『強奪する者』。",
+   "def_en": "One who seizes by force, a plunderer: “the greedy and plunderers”, “one who seizes by force”, “the greedy and plunderers”, “the plunderer”.",
+   "def_es": "El que arrebata, saqueador: «avaros y saqueadores», «el que arrebata por la fuerza», «los codiciosos y los saqueadores», «el saqueador».",
+   "def_sv": "En som roffar åt sig, plundrare: ”giriga och rövare”, ”den som tar med våld”, ”de vinningslystna och rövarna”, ”rövaren”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "コリント第一5:10・5:11・6:10、ルカ18:11。教父に並行。語義2との境界は連続的。LXX の代表例は「獰猛な」の用法で、この語義としては確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "貪り食う・強欲な（形容詞）",
+   "label_en": "ravenous, greedy (adjective)",
+   "label_es": "rapaz, voraz (adjetivo)",
+   "label_sv": "glupsk, rovlysten (adjektiv)",
+   "def": "貪欲な、強欲な。『内側は貪欲なおおかみ』。",
+   "def_en": "Rapacious, grasping: “inwardly they are ravenous wolves”.",
+   "def_es": "Codicioso, rapaz: «por dentro son lobos rapaces».",
+   "def_sv": "Rovgirig, lysten: ”i sitt inre är de glupska vargar”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マタイ7:15。LXX（獰猛な狼）に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40007015016": "2",
+  "n42018011020": "1",
+  "n46005010012": "1",
+  "n46005011022": "1",
+  "n46006010010": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（強奪者／貪欲な）による。"
+}

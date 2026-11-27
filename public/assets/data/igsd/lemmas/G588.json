@@ -1,0 +1,56 @@
+{
+ "lemma": "ἀποδέχομαι",
+ "lemmaId": "grc:G588",
+ "strong": "G588",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "歓迎する・迎える",
+   "label_en": "to welcome",
+   "label_es": "recibir bien, acoger",
+   "label_sv": "att välkomna, att ta emot",
+   "def": "喜んで迎える、歓迎する。『兄弟たちは…歓迎するようにと勧め』『彼を迎えた』『訪ねて来るすべての人を迎え』『群衆は彼を歓迎した』『群衆に会って、彼らを迎え』。",
+   "def_en": "To receive gladly, to welcome: “the brothers … wrote urging them to welcome him”, “welcomed him”, “welcomed all who came to him”, “the crowd welcomed him”, “the crowd met him, and he welcomed them”.",
+   "def_es": "Recibir con gozo, dar la bienvenida: «los hermanos … escribieron exhortando a que lo recibiesen», «lo recibió», «recibía a todos los que venían a verlo», «la multitud lo recibió con gozo», «encontrándose con la multitud, los recibió».",
+   "def_sv": "Att gärna ta emot, att välkomna: ”bröderna … skrev och uppmanade dem att ta emot honom”, ”tog emot honom”, ”tog emot alla som kom till honom”, ”folket välkomnade honom”, ”mötte folket och tog emot dem”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒18:27・21:17・28:30、ルカ8:40・9:11。LXX（3.35・5.27）に並行。教父の代表例では確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "受け入れる・認める",
+   "label_en": "to accept, to acknowledge",
+   "label_es": "aceptar, reconocer",
+   "label_sv": "att anta, att erkänna",
+   "def": "言葉を受け入れる、認める、感謝をもって受ける。『彼の言葉を受け入れた人々は』『あらゆる面で感謝してこれを受けています』。",
+   "def_en": "To accept a word, to acknowledge, to receive with gratitude: “those who accepted his word”, “we acknowledge this in every way with all gratitude”.",
+   "def_es": "Aceptar una palabra, reconocer, recibir con gratitud: «los que recibieron su palabra», «lo recibimos en todo y en todas partes con toda gratitud».",
+   "def_sv": "Att ta emot ett ord, erkänna, motta med tacksamhet: ”de som tog emot hans ord”, ”vi tar på allt sätt emot detta med stor tacksamhet”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "使徒2:41・24:3。教父（3.1.2）に並行。LXX の代表例では確認していない。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42008040007": "1",
+  "n42009011008": "1",
+  "n44002041004": "2",
+  "n44018027014": "1",
+  "n44021017007": "1",
+  "n44024003005": "2",
+  "n44028030009": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（人を迎える／言葉・事柄を受け入れる）による。"
+}

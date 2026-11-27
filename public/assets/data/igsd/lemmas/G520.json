@@ -1,0 +1,98 @@
+{
+ "lemma": "ἀπάγω",
+ "lemmaId": "grc:G520",
+ "strong": "G520",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "連れ去る／引いて行く（裁判・牢・死へ）",
+   "label_en": "to lead away (to trial, prison, death)",
+   "label_es": "llevar preso / conducir (a juicio, cárcel, muerte)",
+   "label_sv": "att föra bort (till rätten, fängelset, döden)",
+   "def": "人を引いて行く、連行する。『イエスを大祭司のところに引いて行った』『総督ピラトに引き渡した』『十字架につけるために引いて行った』『死刑にされた』。",
+   "def_en": "To take or march a person off: “led Jesus away to the high priest”, “handed him to Pilate the governor”, “led him away to be crucified”, “to be put to death”.",
+   "def_es": "Llevarse a una persona, conducirla detenida: «llevaron a Jesús al sumo sacerdote», «lo entregaron a Pilato», «lo llevaron para crucificarlo», «ser ejecutado».",
+   "def_sv": "Att leda eller föra iväg en människa: ”förde Jesus till översteprästen”, ”överlämnade honom åt Pilatus”, ”förde ut honom för att korsfästa honom”, ”bli avrättad”.",
+   "layers": {
+    "nt": 10,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "マタイ26:57・27:2・27:31、マルコ14:44・14:53・15:16、ルカ21:12・22:66・23:26、使徒12:19。LXX、教父（26.4.7）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "導く（道が）",
+   "label_en": "to lead (of a road)",
+   "label_es": "conducir (un camino)",
+   "label_sv": "att leda (om vägar)",
+   "def": "道が〜へ導く。『滅びに至る門』『いのちに至る門』。",
+   "def_en": "A road leads to …: “the gate that leads to destruction”, “the gate that leads to life”.",
+   "def_es": "El camino lleva a …: «la puerta que lleva a la perdición», «que lleva a la vida».",
+   "def_sv": "Vägen leder till …: ”porten som leder till fördärvet”, ”som leder till livet”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ7:13・7:14。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "連れて行く（家畜・人を）",
+   "label_en": "to lead off (an animal, a person)",
+   "label_es": "llevar (un animal o persona)",
+   "label_sv": "att leda iväg (djur, människor)",
+   "def": "連れて行く、引いて行く。『牛を引いて水を飲ませに行く』『この若者を千人隊長のところに連れて行きなさい』。",
+   "def_en": "To take or lead along: “leads his ox away to water it”, “take this young man to the tribune”.",
+   "def_es": "Llevar consigo, conducir: «lleva el buey a beber», «lleva a este joven al tribuno».",
+   "def_sv": "Att föra eller leda med sig: ”leder oxen till vattnet”, ”för den här unge mannen till tribunen”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ルカ13:15、使徒23:17。LXX サムエル記・教父に並行。語義1との境界は連続的（連行でない移動）。"
+  },
+  {
+   "id": "4",
+   "label": "惑わして引きずる",
+   "label_en": "to be led astray",
+   "label_es": "ser arrastrado (con engaño)",
+   "label_sv": "att dras med (vilseledd)",
+   "def": "惑わされて引きずられる。『どこへでも引かれるまま』（Ⅰコリ12:2）。",
+   "def_en": "To be dragged along, deceived: “however you were led” (1 Cor 12:2).",
+   "def_es": "Ser engañado y arrastrado: «como se os llevaba» (1 Co 12:2).",
+   "def_sv": "Att bli förledd och dras iväg: ”så som ni leddes” (1 Kor 12:2).",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "Ⅰコリ12:2 の1例のみ。語義3との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40007013015": "2",
+  "n40007014010": "2",
+  "n40026057006": "1",
+  "n40027002004": "1",
+  "n40027031016": "1",
+  "n41014044017": "1",
+  "n41014053002": "1",
+  "n41015016004": "1",
+  "n42013015025": "3",
+  "n42021012019": "1",
+  "n42022066015": "1",
+  "n42023026003": "1",
+  "n44012019012": "1",
+  "n44023017012": "3",
+  "n46012002014": "4"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は文脈（連行／道／移動／迷わし）による。"
+}

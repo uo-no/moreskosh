@@ -1,0 +1,59 @@
+{
+ "lemma": "χωρίον",
+ "lemmaId": "grc:G5564",
+ "strong": "G5564",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "地所／畑",
+   "label_en": "plot of land / field",
+   "label_es": "terreno / heredad",
+   "label_sv": "jordstycke / åker",
+   "def": "土地、地所、畑。『その地所は〈血の地所〉と呼ばれ』『畑を買い』『その島の第一人者の領地』『地所や家を持つ者』『その地所の代金』『ヤコブがヨセフに与えた地所』。",
+   "def_en": "Land, a plot of ground: “that field was called the Field of Blood”, “bought a field”, “lands belonging to the chief man of the island”, “owners of lands or houses”, “the price of the land”, “the field Jacob had given to Joseph”.",
+   "def_es": "Tierra, parcela: «aquella heredad se llama Campo de Sangre», «adquirió un campo», «las propiedades del hombre principal de la isla», «los que poseían heredades o casas», «el precio de la heredad», «la heredad que Jacob dio a José».",
+   "def_sv": "Mark, ett stycke jord: ”åkern kallas Blodsåkern”, ”köpte en åker”, ”egendomen som tillhörde den främste mannen på ön”, ”de som ägde jord eller hus”, ”betalningen för jorden”, ”marken som Jakob gav Josef”.",
+   "layers": {
+    "nt": 8,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒1:18・1:19（2回）・28:7・4:34・5:3・5:8、ヨハネ4:5。LXX Ⅰ歴代誌27:27・Ⅱマカバイ、教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "場所（ゲツセマネ）",
+   "label_en": "place (Gethsemane)",
+   "label_es": "lugar (Getsemaní)",
+   "label_sv": "ställe (Getsemane)",
+   "def": "場所。『ゲツセマネという所』（マタイ26:36、マルコ14:32）。",
+   "def_en": "A place: “a place called Gethsemane” (Matt 26:36; Mark 14:32).",
+   "def_es": "Lugar: «un lugar que se llama Getsemaní» (Mt 26:36; Mr 14:32).",
+   "def_sv": "Ett ställe: ”en plats som heter Getsemane” (Matt 26:36; Mark 14:32).",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "マタイ26:36、マルコ14:32。LXX Ⅱマカバイ12:21・教父（4.praef.1）に並行。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40026036008": "2",
+  "n41014032004": "2",
+  "n43004005011": "1",
+  "n44001018005": "1",
+  "n44001019011": "1",
+  "n44001019020": "1",
+  "n44004034011": "1",
+  "n44005003026": "1",
+  "n44005008011": "1",
+  "n44028007009": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（地所／場所）による。"
+}

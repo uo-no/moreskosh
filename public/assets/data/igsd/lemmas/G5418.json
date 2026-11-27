@@ -1,0 +1,53 @@
+{
+ "lemma": "φραγμός",
+ "lemmaId": "grc:G5418",
+ "strong": "G5418",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "垣・囲い",
+   "label_en": "fence, hedge",
+   "label_es": "cerca, vallado",
+   "label_sv": "gärdesgård, stängsel",
+   "def": "垣、囲い。『垣をめぐらし』『垣根のあたり』『垣をめぐらし』。",
+   "def_en": "A fence, an enclosure: “put a fence around it”, “along the hedges”, “set a hedge around it”.",
+   "def_es": "Cerca, seto: «la cercó de vallado», «junto a los vallados», «la rodeó con una cerca».",
+   "def_sv": "Stängsel, inhägnad: ”satte ett stängsel omkring den”, ”längs gärdsgårdarna”, ”omgav den med en mur”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "マタイ21:33、マルコ12:1、ルカ14:23。LXX、教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "隔ての壁",
+   "label_en": "dividing wall",
+   "label_es": "pared de separación",
+   "label_sv": "skiljemur",
+   "def": "隔てるもの、隔ての壁。『隔ての中垣』。",
+   "def_en": "That which separates, a wall of partition: “the dividing wall”.",
+   "def_es": "Lo que separa, muro divisorio: «la pared intermedia de separación».",
+   "def_sv": "Det som skiljer åt, en mellanvägg: ”skiljemuren”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "エペソ2:14。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40021033011": "1",
+  "n41012001012": "1",
+  "n42014023013": "1",
+  "n49002014016": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（垣／隔ての壁）による。"
+}

@@ -1,0 +1,75 @@
+{
+ "lemma": "τάξις",
+ "lemmaId": "grc:G5010",
+ "strong": "G5010",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "（メルキゼデクの）位／系列",
+   "label_en": "order (of Melchizedek)",
+   "label_es": "orden (de Melquisedec)",
+   "label_sv": "ordning (Melkisedeks)",
+   "def": "『メルキゼデクの位にしたがって』という句の中の語。『メルキゼデクの位に等しい祭司』『メルキゼデクの位にしたがって大祭司と呼ばれた』『アロンの位に従って』。",
+   "def_en": "The word in the phrase “after the order of Melchizedek”: “a priest after the order of Melchizedek”, “designated high priest after the order of Melchizedek”, “after the order of Aaron”.",
+   "def_es": "La palabra de la frase «según el orden de Melquisedec»: «sacerdote según el orden de Melquisedec», «declarado sumo sacerdote según el orden de Melquisedec», «según el orden de Aarón».",
+   "def_sv": "Ordet i uttrycket ”enligt Melkisedeks ordning”: ”en präst enligt Melkisedeks ordning”, ”kallad överstepräst enligt Melkisedeks ordning”, ”enligt Arons ordning”.",
+   "layers": {
+    "nt": 6,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ヘブル5:6・5:10・6:20・7:11（2回）・7:17。LXX 詩篇109:4（110:4）、教父（6、40.1）に並行。語義2・3との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "秩序／整然としていること",
+   "label_en": "order / orderliness",
+   "label_es": "orden / compostura",
+   "label_sv": "ordning / god ordning",
+   "def": "秩序、整った様子。『すべてを適切に、秩序正しく行いなさい』『あなたがたの秩序と堅い信仰』。",
+   "def_en": "Order, a well-arranged state: “all things should be done decently and in order”, “your good order and firm faith”.",
+   "def_es": "Orden, buena disposición: «hágase todo decentemente y con orden», «vuestro buen orden y la firmeza de vuestra fe».",
+   "def_sv": "Ordning och reda: ”allt ska ske på ett värdigt och ordnat sätt”, ”den goda ordningen och fastheten i er tro”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰコリ14:40、コロサイ2:5。LXX 箴言16:3・ヨブ38:12、教父（40.1）に並行。"
+  },
+  {
+   "id": "3",
+   "label": "順番（班の）",
+   "label_en": "turn (of a division)",
+   "label_es": "turno (de una clase)",
+   "label_sv": "tur (avdelningens)",
+   "def": "務めの順番、班。『自分の組の当番で神の前に祭司の務めをしていたとき』（ルカ1:8）。",
+   "def_en": "The turn of duty, the division: “while he was serving as priest before God when his division was on duty” (Luke 1:8).",
+   "def_es": "El turno del servicio, la clase: «ejerciendo el sacerdocio delante de Dios según el orden de su clase» (Lc 1:8).",
+   "def_sv": "Tjänstgöringsturen, avdelningen: ”när han tjänstgjorde inför Gud då turen hade kommit till hans avdelning” (Luk 1:8).",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ルカ1:8 の1例のみ。語義2との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42001008009": "3",
+  "n46014040006": "2",
+  "n51002005018": "2",
+  "n58005006013": "1",
+  "n58005010008": "1",
+  "n58006020009": "1",
+  "n58007011021": "1",
+  "n58007011030": "1",
+  "n58007017011": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用例による。"
+}

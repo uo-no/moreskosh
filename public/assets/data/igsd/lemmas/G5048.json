@@ -1,0 +1,88 @@
+{
+ "lemma": "τελειόω",
+ "lemmaId": "grc:G5048",
+ "strong": "G5048",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "成し遂げる／終える／全うする",
+   "label_en": "to accomplish / finish / complete",
+   "label_es": "cumplir / terminar / acabar",
+   "label_sv": "att utföra / avsluta / fullborda",
+   "def": "仕事・日数・時間を終わらせる、務め・書かれたことを成就させる。",
+   "def_en": "To bring a work, a number of days, or a time to an end; to fulfil a task or what is written.",
+   "def_es": "Dar término a una obra, a unos días o a un tiempo; cumplir un encargo o lo que está escrito.",
+   "def_sv": "Att avsluta ett arbete, ett antal dagar eller en tid; att uppfylla ett uppdrag eller det som står skrivet.",
+   "layers": {
+    "nt": 7,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "ヨハネ4:34・5:36・17:4（父の仕事を成し遂げる）、19:28（聖書が成就するように）、ルカ2:43（日数を満たし）・13:32（三日目に終わる）、使徒20:24（走るべき道を走り終える）。教父（Ⅰクレメンス33.6）に並行。LXX の代表例（『手を満たす』＝聖別）は別用法で、この語義としては確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "完全なものとする／成熟させる（愛・信仰・人）",
+   "label_en": "to make complete / bring to maturity (love, faith, persons)",
+   "label_es": "perfeccionar / hacer madurar (amor, fe, personas)",
+   "label_sv": "att fullkomna / låta mogna (kärlek, tro, människor)",
+   "def": "愛・信仰・人を、目的に達した完全な状態にする、成熟させる。主に完了受動の形。",
+   "def_en": "To bring love, faith, or a person to the complete state that has reached its goal, to mature. Mainly in the perfect passive.",
+   "def_es": "Llevar el amor, la fe o una persona al estado completo que ha alcanzado su fin, hacer madurar. Principalmente en perfecto pasivo.",
+   "def_sv": "Att föra kärleken, tron eller en människa till det fullkomliga tillstånd där målet är nått, att låta mogna. Mest i perfekt passivum.",
+   "layers": {
+    "nt": 7,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰヨハネ2:5・4:12・17・18（愛が全うされる）、ヤコブ2:22（行いによって信仰が全うされた）、ヨハネ17:23（完全に一つにされ）、ピリ3:12（完全にされた）。LXX シラ書31.10（試されて全うされた者）、教父（バルナバ6.19）に並行。"
+  },
+  {
+   "id": "3",
+   "label": "完成に至らせる（ヘブル書：救い・礼拝者・契約）",
+   "label_en": "to bring to perfection (Hebrews: salvation, worshippers, covenant)",
+   "label_es": "llevar a la perfección (Hebreos: salvación, adoradores, pacto)",
+   "label_sv": "att föra till fullkomning (Hebreerbrevet: frälsning, tillbedjare, förbund)",
+   "def": "人・祭司・礼拝者を神に近づく完全な状態に至らせる。キリストの苦難による完成、律法のなし得なかったこと、いけにえが良心を完全にできないこと。",
+   "def_en": "To bring a person, priest, or worshipper to the perfect state of drawing near to God: Christ's being perfected through suffering, what the law could not do, sacrifices being unable to perfect the conscience.",
+   "def_es": "Llevar a personas, sacerdotes y adoradores al estado perfecto de acercarse a Dios: la perfección de Cristo por el sufrimiento, lo que la ley no pudo hacer, la incapacidad de los sacrificios para perfeccionar la conciencia.",
+   "def_sv": "Att föra människor, präster och tillbedjare till det fullkomliga tillstånd där de kan närma sig Gud: Kristi fullkomnande genom lidandet, det lagen inte förmådde, att offren inte kan fullkomna samvetet.",
+   "layers": {
+    "nt": 9,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヘブル2:10・5:9・7:19・28・9:9・10:1・14・11:40・12:23。ヘブル書に集中する用法で、語義2との境界は連続的（人格の成熟か、神に近づく資格の完成か）。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42002043002": "1",
+  "n42013032021": "1",
+  "n43004034016": "1",
+  "n43005036018": "1",
+  "n43017004009": "1",
+  "n43017023010": "2",
+  "n43019028011": "1",
+  "n44020024010": "1",
+  "n50003012007": "2",
+  "n58002010025": "3",
+  "n58005009002": "3",
+  "n58007019003": "3",
+  "n58007028022": "3",
+  "n58009009019": "3",
+  "n58010001029": "3",
+  "n58010014004": "3",
+  "n58011040012": "3",
+  "n58012023014": "3",
+  "n59002022015": "2",
+  "n62002005015": "2",
+  "n62004012019": "2",
+  "n62004017003": "2",
+  "n62004018024": "2"
+ },
+ "unresolved": []
+}

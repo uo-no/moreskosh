@@ -1,0 +1,82 @@
+{
+ "lemma": "σφραγίς",
+ "lemmaId": "grc:G4973",
+ "strong": "G4973",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "（巻物の）封印",
+   "label_en": "seal (of a scroll)",
+   "label_es": "sello (de un rollo)",
+   "label_sv": "sigill (på en bokrulle)",
+   "def": "巻物・書物の封印。『七つの封印で封じられた巻物』『封印を解く』『小羊が第一の封印を解いたとき』。",
+   "def_en": "The seal of a scroll or book: “a scroll sealed with seven seals”, “open the seals”, “when the Lamb opened the first seal”.",
+   "def_es": "El sello de un rollo o libro: «un libro sellado con siete sellos», «desatar los sellos», «cuando el Cordero abrió el primer sello».",
+   "def_sv": "Sigillet på en rulle eller bok: ”en bokrulle förseglad med sju sigill”, ”bryta sigillen”, ”när Lammet bröt det första sigillet”.",
+   "layers": {
+    "nt": 11,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "黙示録5:1・5:2・5:5・5:9・6:1・6:3・6:5・6:7・6:9・6:12・8:1。LXX シラ・ダニエル、教父（Ⅰクレメンス・ヘルマス）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "神の印",
+   "label_en": "seal of God",
+   "label_es": "sello de Dios",
+   "label_sv": "Guds sigill",
+   "def": "人にしるされる神の印、神の堅固な土台の刻印。『生ける神の印』『神の印のない人々』『主はご自分の者を知っておられる、という印』。",
+   "def_en": "The seal of God marked on people, the inscription on God's firm foundation: “the seal of the living God”, “those without the seal of God”, the seal “The Lord knows those who are his”.",
+   "def_es": "El sello de Dios impreso en las personas, la inscripción del firme fundamento de Dios: «el sello del Dios vivo», «los que no tienen el sello de Dios», «conoce el Señor a los que son suyos».",
+   "def_sv": "Guds märke på människor, inskriften på Guds fasta grundval: ”den levande Gudens sigill”, ”de som saknar Guds sigill”, ”Herren känner de sina”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "黙示録7:2・9:4、Ⅱテモテ2:19。LXX 出エジプト記28:21、教父（26.16.4）に並行。語義1との境界は連続的。"
+  },
+  {
+   "id": "3",
+   "label": "証印／しるし",
+   "label_en": "seal (confirmation, sign)",
+   "label_es": "sello / señal (confirmación)",
+   "label_sv": "bekräftelse (sigill, tecken)",
+   "def": "証拠・確証としての印。『主にあるあなたがたはわたしの使徒職の証印』『信仰による義の証印』。",
+   "def_en": "A seal as proof and confirmation: “you are the seal of my apostleship in the Lord”, “a seal of the righteousness of faith”.",
+   "def_es": "El sello como prueba y confirmación: «vosotros sois el sello de mi apostolado en el Señor», «sello de la justicia de la fe».",
+   "def_sv": "Sigillet som bevis och bekräftelse: ”ni är sigillet på mitt apostlaskap i Herren”, ”ett sigill på trons rättfärdighet”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰコリ9:2、ローマ4:11。LXX シラ17:22、教父（8.6）に並行。語義2との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n45004011005": "3",
+  "n46009002012": "3",
+  "n55002019010": "2",
+  "n66005001017": "1",
+  "n66005002017": "1",
+  "n66005005028": "1",
+  "n66005009014": "1",
+  "n66006001011": "1",
+  "n66006003005": "1",
+  "n66006005005": "1",
+  "n66006007005": "1",
+  "n66006009006": "1",
+  "n66006012006": "1",
+  "n66007002010": "2",
+  "n66008001005": "1",
+  "n66009004025": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用例（物の封印／神の印／証印）による。"
+}

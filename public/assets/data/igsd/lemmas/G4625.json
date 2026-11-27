@@ -1,0 +1,81 @@
+{
+ "lemma": "σκάνδαλον",
+ "lemmaId": "grc:G4625",
+ "strong": "G4625",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "罠／わな",
+   "label_en": "trap / snare",
+   "label_es": "trampa / lazo",
+   "label_sv": "fälla / snara",
+   "def": "獲物を捕らえる罠、陥れるもの。『彼らの食卓が罠となれ』『バラクに罠を置いた』。",
+   "def_en": "A trap to catch prey, something that makes one fall: “let their table become a snare”, “to put a snare before Balak's people”.",
+   "def_es": "Trampa para cazar, lo que hace caer: «sea vuelto su convite en trampa», «poner tropiezo ante Balac».",
+   "def_sv": "En fälla för byte, något som får en att falla: ”må deras bord bli en snara”, ”lägga en snara för Balak”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ローマ11:9、黙示録2:14。LXX 詩篇105:36・ユディト5:1、教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "つまずきの石／つまずき（障害・躓き）",
+   "label_en": "stone of stumbling / offence",
+   "label_es": "piedra de tropiezo / escándalo",
+   "label_sv": "stötesten / anstöt",
+   "def": "人をつまずかせるもの、信仰への障害。『十字架の言葉はつまずき』『つまずきの石、妨げの岩』『つまずきを置く』『わたしの邪魔をする者』。",
+   "def_en": "What makes a person stumble, an obstacle to faith: “the word of the cross is an offence”, “a stone of stumbling and a rock of offence”, “put a stumbling block”, “you are a hindrance to me”.",
+   "def_es": "Lo que hace tropezar, obstáculo para la fe: «la cruz es tropezadero», «piedra de tropiezo y roca que hace caer», «poner tropiezo», «me eres tropiezo».",
+   "def_sv": "Det som får en människa att stappla, ett hinder för tron: ”korset är en stötesten”, ”en stötesten och en klippa till fall”, ”lägga hinder”, ”du står i vägen för mig”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰコリ1:23、Ⅰペテロ2:8、ローマ9:33、ガラテヤ5:11、マタイ16:23。LXX イザヤ8:14・詩篇、教父（4.3）に並行。"
+  },
+  {
+   "id": "3",
+   "label": "罪へ誘うもの／つまずき",
+   "label_en": "enticement to sin / stumbling block",
+   "label_es": "incitación a pecar / tropiezo",
+   "label_sv": "förförelse till synd / anstöt",
+   "def": "人を罪に誘うもの、つまずきの原因。『つまずきを起こすものは』『つまずきを与える者は災いだ』『兄弟の前につまずきを置くな』『つまずきの原因がない』。",
+   "def_en": "What entices a person into sin, a cause of stumbling: “those things that cause sin”, “woe to the one through whom they come”, “do not put a stumbling block before a brother”, “there is no cause for stumbling”.",
+   "def_es": "Lo que induce a pecar, causa de caída: «los que causan tropiezo», «¡ay de aquel por quien viene el tropiezo!», «no poner ocasión de caer al hermano», «en él no hay tropiezo».",
+   "def_sv": "Det som lockar till synd, en orsak till fall: ”det som leder till synd”, ”ve den genom vilken förförelsen kommer”, ”lägg ingen stötesten för en broder”, ”hos honom finns inget som leder till fall”.",
+   "layers": {
+    "nt": 8,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "マタイ13:41・18:7（3回）、ルカ17:1、ローマ14:13・16:17、Ⅰヨハネ2:10。LXX・教父（35.8）に並行。語義2との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40013041017": "3",
+  "n40016023011": "2",
+  "n40018007006": "3",
+  "n40018007011": "3",
+  "n40018007019": "3",
+  "n42017001011": "3",
+  "n45009033011": "2",
+  "n45011009015": "1",
+  "n45014013016": "3",
+  "n45016017011": "3",
+  "n46001023008": "2",
+  "n48005011014": "2",
+  "n60002008006": "2",
+  "n62002010011": "3",
+  "n66002014018": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（罠／障害／誘惑）による。"
+}

@@ -1,0 +1,78 @@
+{
+ "lemma": "βῆμα",
+ "lemmaId": "grc:G968",
+ "strong": "G968",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "裁きの座／法廷",
+   "label_en": "judgment seat / tribunal",
+   "label_es": "tribunal / silla de juicio",
+   "label_sv": "domarsäte / domstol",
+   "def": "裁きの座、法廷。『キリストの裁きの座の前に』『ガリオの前で法廷に』『ピラトは裁きの座に着き』『総督の裁きの座に』『神の裁きの座の前に立つ』。",
+   "def_en": "A judge's seat, a tribunal: “before the judgment seat of Christ”, “brought before Gallio's tribunal”, “Pilate sat down on the judgment seat”, “the governor's tribunal”, “we will all stand before the judgment seat of God”.",
+   "def_es": "Asiento del juez, tribunal: «ante el tribunal de Cristo», «ante el tribunal de Galión», «Pilato se sentó en el tribunal», «el tribunal del gobernador», «compareceremos ante el tribunal de Dios».",
+   "def_sv": "Domarens säte, domstolen: ”inför Kristi domarsäte”, ”fördes inför Gallios domstol”, ”Pilatus satte sig på domarsätet”, ”ståthållarens domstol”, ”vi ska alla stå inför Guds domarsäte”.",
+   "layers": {
+    "nt": 10,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "Ⅱコリ5:10、使徒18:12・18:16・18:17・25:6・25:10・25:17、ヨハネ19:13、マタイ27:19、ローマ14:10。LXX・教父（6.2）に並行する用法。LXX の代表例は別の意味（段・足跡）で、この語義は確認できない。"
+  },
+  {
+   "id": "2",
+   "label": "王座／演壇（ヘロデの）",
+   "label_en": "throne / platform (of Herod)",
+   "label_es": "trono / estrado (de Herodes)",
+   "label_sv": "tron / talarstol (Herodes)",
+   "def": "王座、演壇。『王座に着き』（使徒12:21）。",
+   "def_en": "A throne, a platform: “took his seat on the throne” (Acts 12:21).",
+   "def_es": "Trono, estrado: «sentado en el tribunal real» (Hch 12:21).",
+   "def_sv": "Tron, estrad: ”satte sig på tronen” (Apg 12:21).",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒12:21 の1例のみ。語義1との境界は連続的。LXX の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "足を踏む幅",
+   "label_en": "space for a foot",
+   "label_es": "lo que ocupa un pie",
+   "label_sv": "en fotsbredd",
+   "def": "足の幅ほどの土地。『足の踏み場ほどのものも』。",
+   "def_en": "A piece of ground the width of a foot: “not even a foot's length”.",
+   "def_es": "Terreno del ancho de un pie: «ni aun para asentar un pie».",
+   "def_sv": "Så mycket mark som en fot täcker: ”inte ens en fotsbredd”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒7:5 の1例のみ（申命記2:5 の引用）。LXX 申命記2:5 に並行。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40027019006": "1",
+  "n43019013015": "1",
+  "n44007005009": "3",
+  "n44012021013": "2",
+  "n44018012018": "1",
+  "n44018016006": "1",
+  "n44018017010": "1",
+  "n44025006019": "1",
+  "n44025010007": "1",
+  "n44025017012": "1",
+  "n45014010020": "1",
+  "n47005010009": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用例による。"
+}

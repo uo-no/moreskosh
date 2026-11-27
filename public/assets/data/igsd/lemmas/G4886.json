@@ -1,0 +1,70 @@
+{
+ "lemma": "σύνδεσμος",
+ "lemmaId": "grc:G4886",
+ "strong": "G4886",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "結び・きずな",
+   "label_en": "bond, tie",
+   "label_es": "vínculo, lazo",
+   "label_sv": "band",
+   "def": "結び目、きずな。『平和のきずなで結ばれ』『愛、…完全なきずな』。",
+   "def_en": "A knot, a bond: “bound together in the bond of peace”, “love, … the perfect bond”.",
+   "def_es": "Atadura, vínculo: «en el vínculo de la paz», «el amor, … vínculo perfecto».",
+   "def_sv": "Knut, sammanhållande band: ”sammanbundna av fridens band”, ”kärleken, … fullkomlighetens band”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "コロサイ3:14、エペソ4:3。LXX に並行。教父の代表例は「不義の束縛」の用法で、この語義としては確認していない。語義2・3との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "靭帯・つなぎ",
+   "label_en": "ligament",
+   "label_es": "ligamento",
+   "label_sv": "ledband",
+   "def": "からだをつなぐ靭帯、つなぎ。『節々や筋によって』。",
+   "def_en": "The ligaments that join the body together: “through joints and ligaments”.",
+   "def_es": "Las coyunturas o ligamentos que unen el cuerpo: «por las coyunturas y ligamentos».",
+   "def_sv": "De band som håller samman kroppen: ”genom leder och senor”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "コロサイ2:19。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "束縛・なわめ",
+   "label_en": "fetter, chain",
+   "label_es": "prisión, cadena",
+   "label_sv": "boja",
+   "def": "縛るもの、束縛。『不義のなわめ』。",
+   "def_en": "That which binds; bondage: “the bonds of unrighteousness”.",
+   "def_es": "Lo que ata, sujeción: «prisión de maldad».",
+   "def_sv": "Det som binder, fjättrar: ”orättfärdighetens bojor”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "使徒8:23。教父（「不義のあらゆる束縛を解け」）に並行。LXX の代表例では確認していない。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n44008023006": "3",
+  "n49004003009": "1",
+  "n51002019015": "2",
+  "n51003014009": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（きずな／靭帯／束縛）による。"
+}

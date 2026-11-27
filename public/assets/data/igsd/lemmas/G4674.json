@@ -1,0 +1,74 @@
+{
+ "lemma": "σός",
+ "lemmaId": "grc:G4674",
+ "strong": "G4674",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "あなたの（名詞に付く所有）",
+   "label_en": "your (possessive with a noun)",
+   "label_es": "tu (posesivo con sustantivo)",
+   "label_sv": "din (possessiv till substantiv)",
+   "def": "二人称単数の所有を示す形容詞。名詞に冠詞つきで付き、その名詞があなたに属する・あなたに関わるものであることを示す（所有・関係・行為の主体）。",
+   "def_en": "An adjective expressing second-person singular possession. Attached to a noun with the article, it shows that the noun belongs to you or concerns you (possession, relationship, agent of an act).",
+   "def_es": "Adjetivo que expresa posesión de segunda persona del singular. Unido a un sustantivo con artículo, indica que este te pertenece o te concierne (posesión, relación, sujeto de la acción).",
+   "def_sv": "Ett adjektiv för ägande i andra person singular. Fogat till ett substantiv med artikel visar det att detta tillhör dig eller rör dig (ägande, relation, den som handlar).",
+   "layers": {
+    "nt": 16,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "冠詞＋σός＋名詞（またはその語順の入れ替え）の型。属格代名詞 σου の用法と別に、強調的・限定的な位置で用いられる。"
+  },
+  {
+   "id": "2",
+   "label": "あなたのもの／あなたの人々（名詞化）",
+   "label_en": "what is yours / your people (substantival)",
+   "label_es": "lo tuyo / los tuyos (sustantivado)",
+   "label_sv": "det som är ditt / de dina (substantiverat)",
+   "def": "σός が名詞を伴わず、冠詞とともに独立して用いられ、「あなたに属するもの・人・こと」を指す。",
+   "def_en": "σός used independently with the article and without a noun, referring to “the people, things, or matters belonging to you”.",
+   "def_es": "σός usado de forma independiente con artículo y sin sustantivo, designa «las personas, cosas o asuntos que te pertenecen».",
+   "def_sv": "σός använt självständigt med artikel utan substantiv, om ”de människor, ting eller saker som hör dig till”.",
+   "layers": {
+    "nt": 9,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "τὸ σόν（マタイ20:14・25:25）、τὰ σά（ルカ6:30、ヨハネ17:10）、οἱ σοί（マルコ5:19、ルカ5:33）。ルカ22:42の τὸ σόν は「あなたの（みこころ）」が省略された形で、直前の θέλημα を受ける名詞化用法として置いた。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40007003017": "1",
+  "n40007022012": "1",
+  "n40007022017": "1",
+  "n40007022023": "1",
+  "n40013027016": "1",
+  "n40020014003": "2",
+  "n40024003026": "1",
+  "n40025025014": "2",
+  "n41002018028": "1",
+  "n41005019015": "2",
+  "n42005033021": "2",
+  "n42006030010": "2",
+  "n42015031015": "2",
+  "n42022042018": "2",
+  "n43004042009": "1",
+  "n43017010005": "2",
+  "n43017010009": "2",
+  "n43017017009": "1",
+  "n43018035011": "1",
+  "n44005004009": "1",
+  "n44024002022": "1",
+  "n44024004014": "1",
+  "n46008011007": "1",
+  "n46014016017": "1",
+  "n57001014004": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "代表例の範囲で新約に無い用法は見当たらない。"
+}

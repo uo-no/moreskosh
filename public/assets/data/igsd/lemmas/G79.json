@@ -1,0 +1,74 @@
+{
+ "lemma": "ἀδελφή",
+ "lemmaId": "grc:G79",
+ "strong": "G79",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "姉妹／姉・妹",
+   "label_en": "sister",
+   "label_es": "hermana",
+   "label_sv": "syster",
+   "def": "同じ親から生まれた女の兄弟姉妹。家族関係を述べる語で、家族の一覧（父母・兄弟・姉妹）にも現れる。",
+   "def_en": "A female sibling born of the same parents. A word stating a family relationship; it also appears in lists of family members (father, mother, brothers, sisters).",
+   "def_es": "Hermana nacida de los mismos padres. Término que expresa un parentesco; aparece también en listas de la familia (padre, madre, hermanos, hermanas).",
+   "def_sv": "Ett kvinnligt syskon av samma föräldrar. Ett ord för en släktrelation, som också förekommer i uppräkningar av familjen (far, mor, bröder, systrar).",
+   "layers": {
+    "nt": 17,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ヨハネ11章のマルタとマリア、イエスの家族（マタイ13:56、マルコ6:3）、使徒23:16、家族の一覧（ルカ14:26、マタイ19:29、マルコ10:29–30）。第一テモテ5:2の「姉妹のように」は、血縁の姉妹の像を比較に用いた用例としてここに置いた。 ローマ16:15のネレウスの姉妹は血縁の姉妹としてここに置いた。"
+  },
+  {
+   "id": "2",
+   "label": "姉妹（信仰の共同体の女性）",
+   "label_en": "sister (a woman of the faith community)",
+   "label_es": "hermana (mujer de la comunidad de fe)",
+   "label_sv": "syster (kvinna i trosgemenskapen)",
+   "def": "血縁ではなく、信仰・神のみこころにつながる共同体の中で、同じ家族の一員として呼ばれる女性。",
+   "def_en": "A woman called a member of the same family, not by blood but within the community bound together by faith and the will of God.",
+   "def_es": "Mujer a la que se llama miembro de la misma familia, no por la sangre, sino en la comunidad unida por la fe y la voluntad de Dios.",
+   "def_sv": "En kvinna som kallas medlem av samma familj, inte genom blodsband utan i den gemenskap som förenas av tron och Guds vilja.",
+   "layers": {
+    "nt": 8,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ローマ16:1（フィベ）、ピレモン2、第一コリント7:15、9:5、ヤコブ2:15、およびイエスの言葉（マタイ12:50、マルコ3:35。神のみこころを行う者が「わたしの姉妹」）。LXX・教父の代表例でも、血縁以外の呼称の並行が見られる（2CL 20.2「兄弟姉妹」）。 第二ヨハネ1:13は「選ばれた婦人」＝教会の枠組みでの姉妹（姉妹教会）としてここに置いた。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40012050017": "2",
+  "n40013056003": "1",
+  "n40019029009": "1",
+  "n41003035013": "2",
+  "n41006003023": "1",
+  "n41010029015": "1",
+  "n41010030014": "1",
+  "n42010039004": "1",
+  "n42010040017": "1",
+  "n42014026026": "1",
+  "n43011001015": "1",
+  "n43011003004": "1",
+  "n43011005009": "1",
+  "n43011028009": "1",
+  "n43011039010": "1",
+  "n43019025013": "1",
+  "n44023016006": "1",
+  "n45016001006": "2",
+  "n45016015008": "1",
+  "n46007015013": "2",
+  "n46009005005": "2",
+  "n54005002006": "1",
+  "n57001002004": "2",
+  "n59002015004": "2",
+  "n63001013006": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "代表例の範囲で新約に無い用法は見当たらない。LXXエゼキエル16:49のソドムとその「姉妹」（都市を人に見立てた用法）は語義にせず、ここに記録。"
+}

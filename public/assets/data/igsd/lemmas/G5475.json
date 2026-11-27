@@ -1,0 +1,71 @@
+{
+ "lemma": "χαλκός",
+ "lemmaId": "grc:G5475",
+ "strong": "G5475",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "銅・青銅",
+   "label_en": "copper, bronze",
+   "label_es": "cobre, bronce",
+   "label_sv": "koppar, brons",
+   "def": "金属としての銅・青銅。『銅…の商品』。",
+   "def_en": "Copper or bronze as a metal: “cargo of copper and …”.",
+   "def_es": "El cobre o bronce como metal: «mercaderías de bronce y …».",
+   "def_sv": "Koppar eller brons som metall: ”varor av koppar och …”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "黙示録18:12。LXX、教父に並行。語義2・3との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "銅貨・小銭",
+   "label_en": "copper coin, small change",
+   "label_es": "moneda de cobre",
+   "label_sv": "kopparmynt, småpengar",
+   "def": "銅貨、小銭。『財布に銅貨を』『お金も袋に入れず』『銅貨を入れて』『金や銀や銅貨』。",
+   "def_en": "Copper money, small coin: “copper coins in your belts”, “no money in their belts”, “putting in copper coins”, “gold, silver or copper coins”.",
+   "def_es": "Calderilla, dinero suelto: «cobre en vuestros cintos», «ni dinero en el cinto», «echaba dinero», «oro, plata o cobre».",
+   "def_sv": "Kopparslantar, småmynt: ”kopparmynt i bältet”, ”inga pengar i bältet”, ”lade i kopparmynt”, ”guld, silver eller kopparmynt”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ10:9、マルコ6:8・12:41。語義1との境界は連続的。LXX・教父の代表例は金属の用法で、この語義としては確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "鳴り響く青銅（楽器）",
+   "label_en": "sounding brass (instrument)",
+   "label_es": "bronce que resuena (instrumento)",
+   "label_sv": "ljudande malm (instrument)",
+   "def": "鳴る青銅、どら。『鳴る銅鑼』。",
+   "def_en": "Sounding bronze, a gong: “a sounding gong”.",
+   "def_es": "Metal que suena, gong: «metal que resuena».",
+   "def_sv": "Klingande malm, en gonggong: ”ljudande brons”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "コリント第一13:1。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40010009007": "2",
+  "n41006008021": "2",
+  "n41012041011": "2",
+  "n46013001015": "3",
+  "n66018012033": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（銅・青銅／銅貨／楽器）による。"
+}

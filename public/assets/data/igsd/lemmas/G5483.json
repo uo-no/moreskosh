@@ -1,0 +1,89 @@
+{
+ "lemma": "χαρίζομαι",
+ "lemmaId": "grc:G5483",
+ "strong": "G5483",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "赦す",
+   "label_en": "to forgive",
+   "label_es": "perdonar",
+   "label_sv": "att förlåta",
+   "def": "負い目・過ち・悪を恩恵として赦す。与格に相手、対格に赦される事柄。互いに赦し合う、キリストが赦した、の言い方。",
+   "def_en": "To forgive debts, faults, or wrongs as a favour. The person is in the dative, the thing forgiven in the accusative: forgiving one another, as Christ forgave.",
+   "def_es": "Perdonar como gracia deudas, faltas o agravios. La persona va en dativo y lo perdonado en acusativo: perdonarse unos a otros, como Cristo perdonó.",
+   "def_sv": "Att av nåd förlåta skulder, överträdelser eller oförrätter. Personen står i dativ och det förlåtna i ackusativ: att förlåta varandra, så som Kristus har förlåtit.",
+   "layers": {
+    "nt": 12,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "Ⅱコリ2:7・10（同一節に3回）・12:13、コロサイ2:13・3:13（2回）、エペソ4:32（2回）、ルカ7:42・43（債務の赦し）。Abbott も後期ギリシャ語の用法として別項に置く。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "与える／恵む（好意として）",
+   "label_en": "to give / grant (as a favour)",
+   "label_es": "dar / conceder (como favor)",
+   "label_sv": "att ge / skänka (som ynnest)",
+   "def": "相手に好意をもって、無償で与える、授ける、恵む。与格に相手。",
+   "def_en": "To give, bestow, or grant freely and graciously to someone. The recipient is in the dative.",
+   "def_es": "Dar, otorgar o conceder gratuitamente y con benevolencia a alguien. El destinatario va en dativo.",
+   "def_sv": "Att av välvilja ge, förläna eller skänka någon något för intet. Mottagaren står i dativ.",
+   "layers": {
+    "nt": 9,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰコリ2:12（神から恵まれたもの）、使徒3:14・27:24、ガラテヤ3:18、ルカ7:21（盲人を見えるようにした）、ピリ1:29・2:9、ローマ8:32、ピレモン22（あなたがたに返される）。LXX（エステル・Ⅱマカバイ）、教父（Ⅱクレメンス1.4『光を恵んだ』）に並行。"
+  },
+  {
+   "id": "3",
+   "label": "（好意として）引き渡す",
+   "label_en": "to hand over (as a favour)",
+   "label_es": "entregar (como favor)",
+   "label_sv": "att utlämna (som ynnest)",
+   "def": "人を他の者に、その者の好意を得るために・求めに応じて引き渡す、手放す。",
+   "def_en": "To hand over or give up a person to others, to win their favour or at their request.",
+   "def_es": "Entregar o ceder una persona a otros, para ganarse su favor o a petición suya.",
+   "def_sv": "Att överlämna en människa till andra, för att vinna deras ynnest eller på deras begäran.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒25:11（私を彼らに引き渡すことはできない）・25:16（人を引き渡すのはローマ人の慣例でない）。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42007021017": "2",
+  "n42007042006": "1",
+  "n42007043009": "1",
+  "n44003014012": "2",
+  "n44025011026": "3",
+  "n44025016009": "3",
+  "n44027024011": "2",
+  "n45008032022": "2",
+  "n46002012022": "2",
+  "n47002007005": "1",
+  "n47002010004": "1",
+  "n47002010010": "1",
+  "n47002010013": "1",
+  "n47012013018": "1",
+  "n48003018015": "2",
+  "n49004032006": "1",
+  "n49004032014": "1",
+  "n50001029003": "2",
+  "n50002009008": "2",
+  "n51002013018": "1",
+  "n51003013004": "1",
+  "n51003013016": "1",
+  "n57001022014": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

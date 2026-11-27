@@ -1,0 +1,73 @@
+{
+ "lemma": "φθάνω",
+ "lemmaId": "grc:G5348",
+ "strong": "G5348",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "先んじる",
+   "label_en": "to precede",
+   "label_es": "preceder",
+   "label_sv": "att gå före",
+   "def": "先に行く、先んじる。『生き残っているわたしたちが、眠った人々に先んじることはない』。",
+   "def_en": "To go before, to get ahead of: “we who are alive and remain will not precede those who have fallen asleep”.",
+   "def_es": "Ir antes, adelantarse: «nosotros que vivimos, que habremos quedado, no precederemos a los que durmieron».",
+   "def_sv": "Att komma före, att förekomma: ”vi som lever kvar skall inte komma före de insomnade”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "テサロニケ第一4:15。語義2・3との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "来る・臨む",
+   "label_en": "to come, to come upon",
+   "label_es": "llegar, sobrevenir",
+   "label_sv": "att komma, att nå över",
+   "def": "到来する、臨む。『神の国はあなたがたのところに来ている』『神の怒りは彼らの上に臨んだ』。",
+   "def_en": "To arrive; to come upon: “the kingdom of God has come upon you”, “the wrath of God has come upon them”.",
+   "def_es": "Llegar; alcanzar a alguien: «el reino de Dios ha llegado a vosotros», «vino sobre ellos la ira de Dios».",
+   "def_sv": "Att anlända; att komma över någon: ”Guds rike har nått er”, ”Guds vrede har drabbat dem”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マタイ12:28、ルカ11:20、テサロニケ第一2:16。LXX（4.28）に並行。教父の用例なし。語義1・3との境界は連続的。"
+  },
+  {
+   "id": "3",
+   "label": "達する・到達する",
+   "label_en": "to attain, to reach",
+   "label_es": "alcanzar",
+   "label_sv": "att nå, att uppnå",
+   "def": "目的地や状態に達する。『あなたがたのところまで達した』『達したところに従って』『義の律法に達しなかった』。",
+   "def_en": "To reach a destination or a state: “we came as far as you”, “according to what we have attained”, “did not attain to the law of righteousness”.",
+   "def_es": "Llegar a una meta o a un estado: «llegamos hasta vosotros», «según aquello a que hemos llegado», «no alcanzó la ley de justicia».",
+   "def_sv": "Att komma fram till ett mål eller ett tillstånd: ”vi nådde ända fram till er”, ”efter den ståndpunkt vi har nått”, ”nådde inte fram till rättfärdighetens lag”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "コリント第二10:14、ピリピ3:16、ローマ9:31。LXX（12.1）に並行。教父の用例なし。語義2との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40012028011": "2",
+  "n42011020010": "2",
+  "n45009031009": "3",
+  "n47010014014": "3",
+  "n50003016004": "3",
+  "n52002016015": "2",
+  "n52004015021": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（先んじる／来る・臨む／達する）による。"
+}

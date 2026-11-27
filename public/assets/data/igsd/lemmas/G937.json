@@ -1,0 +1,54 @@
+{
+ "lemma": "βασιλικός",
+ "lemmaId": "grc:G937",
+ "strong": "G937",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "王の・王家の",
+   "label_en": "royal",
+   "label_es": "real, regio",
+   "label_sv": "kunglig",
+   "def": "王の、王家の。『王の領地』『王の衣服』『最高の律法』（νόμος βασιλικός）。",
+   "def_en": "Of a king, royal: “the king’s territory”, “royal robes”, “the supreme law” (νόμος βασιλικός).",
+   "def_es": "Del rey, de la casa real: «el territorio del rey», «vestiduras reales», «la ley suprema» (νόμος βασιλικός).",
+   "def_sv": "Som hör till konungen eller kungahuset: ”kungens område”, ”kungliga kläder”, ”den förnämsta lagen” (νόμος βασιλικός).",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒12:20・12:21、ヤコブ2:8。LXX に並行。教父の用例なし。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "王の役人",
+   "label_en": "royal official",
+   "label_es": "funcionario real",
+   "label_sv": "kunglig ämbetsman",
+   "def": "王に仕える役人（名詞的）。『ある王の役人』『その役人は』。",
+   "def_en": "An official in the king’s service (as a noun): “a certain royal official”, “that official”.",
+   "def_es": "Oficial al servicio del rey (uso sustantivo): «un funcionario del rey», «aquel funcionario».",
+   "def_sv": "En tjänsteman hos konungen (substantiverat): ”en man i kungens tjänst”, ”den ämbetsmannen”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヨハネ4:46・4:49。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n43004046017": "2",
+  "n43004049005": "2",
+  "n44012020031": "1",
+  "n44012021008": "1",
+  "n59002008005": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（形容詞／王の役人）による。"
+}

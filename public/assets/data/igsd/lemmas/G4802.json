@@ -1,0 +1,59 @@
+{
+ "lemma": "συζητέω",
+ "lemmaId": "grc:G4802",
+ "strong": "G4802",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "議論する／論争する",
+   "label_en": "to argue / dispute",
+   "label_es": "discutir / disputar",
+   "label_sv": "att diskutera / tvista",
+   "def": "議論する、論争する、言い争う。『ステパノと論じ合った』『ギリシャ語を使うユダヤ人と語り合い』『イエスに議論をしかけ』『群衆が彼らと論争しているのを』『何を論じているのか』。",
+   "def_en": "To debate, dispute, argue: “disputed with Stephen”, “spoke and disputed with the Greek-speaking Jews”, “began to argue with Jesus”, “saw the crowd arguing with them”, “what are you arguing about?”",
+   "def_es": "Debatir, disputar, porfiar: «disputaban con Esteban», «hablaba y disputaba con los griegos», «comenzaron a discutir con Jesús», «vio gran multitud disputando con ellos», «¿qué disputáis?».",
+   "def_sv": "Att debattera, tvista, gräla: ”diskuterade med Stefanos”, ”talade och disputerade med de grekisktalande judarna”, ”började tvista med Jesus”, ”såg folket tvista med dem”, ”vad tvistar ni om?”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "使徒6:9・9:29、マルコ8:11・9:14・9:16。教父（19.1.1、6.7.1）に並行。LXX にこの語の用例は無い。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "語り合う／問い合う",
+   "label_en": "to discuss / question one another",
+   "label_es": "conversar / preguntarse",
+   "label_sv": "att samtala / fråga varandra",
+   "def": "語り合う、論じ合う、問いただし合う。『語り合っていると』『互いに論じ合った』『互いに問いただして』『互いに論じて』『死人の中からよみがえるとはどんなことかと互いに論じ』。",
+   "def_en": "To talk over, to discuss, to question one another: “while they were talking together”, “discussed among themselves”, “questioned one another”, “reasoned together”, “discussing what rising from the dead might mean”.",
+   "def_es": "Hablar entre sí, comentar, interrogarse: «mientras hablaban y discutían», «discutían entre sí», «se preguntaban unos a otros», «razonando juntos», «discutiendo qué sería aquello de resucitar de los muertos».",
+   "def_sv": "Att resonera, överlägga, fråga varandra: ”medan de samtalade”, ”började diskutera med varandra”, ”frågade varandra”, ”resonerade sinsemellan”, ”undrade vad det betyder att uppstå från de döda”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "ルカ24:15・22:23、マルコ1:27・12:28・9:10。教父に並行。LXX の用例は無い。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n41001027005": "2",
+  "n41008011007": "1",
+  "n41009010007": "2",
+  "n41009014013": "1",
+  "n41009016005": "1",
+  "n41012028008": "2",
+  "n42022023004": "2",
+  "n42024015008": "2",
+  "n44006009021": "1",
+  "n44009029004": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "LXX（七十人訳）にこの語の用例は無い。語義区分は対立（論争）か語り合いかによる。"
+}

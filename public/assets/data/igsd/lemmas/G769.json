@@ -1,0 +1,73 @@
+{
+ "lemma": "ἀσθένεια",
+ "lemmaId": "grc:G769",
+ "strong": "G769",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "病気／病弱",
+   "label_en": "illness / infirmity",
+   "label_es": "enfermedad / dolencia",
+   "label_sv": "sjukdom / sjuklighet",
+   "def": "身体の病い・衰弱の状態。癒しの対象としての病い、複数形で個々の病い、持続する体の不調。",
+   "def_en": "A state of bodily sickness or weakening: sickness as the object of healing, individual diseases (plural), a continuing bodily ailment.",
+   "def_es": "Estado de enfermedad o debilitamiento corporal: la enfermedad como objeto de curación, las enfermedades concretas (en plural), un mal físico persistente.",
+   "def_sv": "Ett tillstånd av kroppslig sjukdom eller kraftlöshet: sjukdomen som föremål för helande, enskilda sjukdomar (plural), ett varaktigt kroppsligt lidande.",
+   "layers": {
+    "nt": 10,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ルカ13:11・12（18年の病い）、ヨハネ5:5・11:4、使徒28:9、ルカ5:15・8:2（複数）、マタイ8:17（イザヤ53:4 の引用）、Ⅰテモ5:23（頻繁な不調）、ガラテヤ4:13（体の病い）。LXX Ⅱマカ9:21、教父にヘルマス3.9.3 の並行。"
+  },
+  {
+   "id": "2",
+   "label": "弱さ／無力",
+   "label_en": "weakness / powerlessness",
+   "label_es": "debilidad / impotencia",
+   "label_sv": "svaghet / maktlöshet",
+   "def": "人の力の限界・もろさ・無力の状態。病い以外の弱さ（肉の弱さ、死ぬべき体の弱さ、大祭司の限界、祈りの弱さ、キリストの十字架の弱さ）。",
+   "def_en": "A state of limitation, frailty, or powerlessness of human strength. Weakness other than illness (weakness of the flesh, of the mortal body, the limits of the high priest, weakness in prayer, the weakness of Christ's cross).",
+   "def_es": "Estado de limitación, fragilidad o impotencia de las fuerzas humanas. Debilidad distinta de la enfermedad (la de la carne, la del cuerpo mortal, las limitaciones del sumo sacerdote, la debilidad en la oración, la de la cruz de Cristo).",
+   "def_sv": "Den mänskliga kraftens begränsning, skörhet och maktlöshet. Annan svaghet än sjukdom (köttets svaghet, den dödliga kroppens svaghet, översteprästernas begränsning, svaghet i bönen, svagheten i Kristi kors).",
+   "layers": {
+    "nt": 14,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "Ⅰコリ2:3・15:43、Ⅱコリ11:30・12:5・12:9・12:10・13:4、ローマ6:19（肉の弱さ）・8:26（わたしたちの弱さ）、ヘブル4:15・5:2・7:28・11:34。語義1との境界は連続的（Ⅱコリ12 の『弱さ』やヘブル11:34 は病いの含みも読めるが、用例からは弱さとして置いた）。LXX にⅠⅡの並行（シラ・箴言系の『声の弱さ』等）。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40008017012": "1",
+  "n42005015017": "1",
+  "n42008002011": "1",
+  "n42013011006": "1",
+  "n42013012013": "1",
+  "n43005005012": "1",
+  "n43011004008": "1",
+  "n44028009012": "1",
+  "n45006019005": "2",
+  "n45008026008": "2",
+  "n46002003003": "2",
+  "n46015043009": "2",
+  "n47011030006": "2",
+  "n47012005014": "2",
+  "n47012009013": "2",
+  "n47012009021": "2",
+  "n47012010004": "2",
+  "n47013004005": "2",
+  "n48004013005": "1",
+  "n54005023014": "1",
+  "n58004015009": "2",
+  "n58005002011": "2",
+  "n58007028008": "2",
+  "n58011034009": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

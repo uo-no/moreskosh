@@ -1,0 +1,73 @@
+{
+ "lemma": "σωτήρ",
+ "lemmaId": "grc:G4990",
+ "strong": "G4990",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "救い主（神について）",
+   "label_en": "Saviour (of God)",
+   "label_es": "Salvador (referido a Dios)",
+   "label_sv": "Frälsaren (om Gud)",
+   "def": "救い出す者・保つ者。神自身を指す称号。多く『わたしたち（の救い主なる）神』の形で用いられる。",
+   "def_en": "One who rescues and preserves. A title referring to God himself, often in the form “God our Saviour”.",
+   "def_es": "El que rescata y preserva. Título que designa a Dios mismo, a menudo en la forma «Dios nuestro Salvador».",
+   "def_sv": "Den som räddar och bevarar. En titel för Gud själv, ofta i formen ”Gud vår Frälsare”.",
+   "layers": {
+    "nt": 8,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ルカ1:47（マリアの賛歌）、牧会書簡（Ⅰテモ1:1・2:3・4:10、テト1:3・2:10・3:4）、ユダ25。LXX 詩篇・イザヤ、教父にⅠクレメンス59.3 の並行。"
+  },
+  {
+   "id": "2",
+   "label": "救い主（キリストについて）",
+   "label_en": "Saviour (of Christ)",
+   "label_es": "Salvador (referido a Cristo)",
+   "label_sv": "Frälsaren (om Kristus)",
+   "def": "救い出す者・保つ者。イエス・キリストを指す称号。『世の救い主』『わたしたちの救い主』など。",
+   "def_en": "One who rescues and preserves. A title referring to Jesus Christ: “the Saviour of the world”, “our Saviour”, and so on.",
+   "def_es": "El que rescata y preserva. Título que designa a Jesucristo: «Salvador del mundo», «nuestro Salvador», etc.",
+   "def_sv": "Den som räddar och bevarar. En titel för Jesus Kristus: ”världens Frälsare”, ”vår Frälsare” m.m.",
+   "layers": {
+    "nt": 16,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "ルカ2:11、使徒5:31・13:23、ヨハネ4:42・Ⅰヨハ4:14（世の救い主）、ピリ3:20、エペソ5:23（体の救い主）、Ⅱテモ1:10、テト1:4・3:6、Ⅱペテロ（1:11・2:20・3:2・3:18）。LXX の代表例ではキリストを指す用法は当然見られない。教父にバルナバ5.9.2、ディオグネトス9 などの並行。 テト2:13・Ⅱペテロ1:1 は冠詞1つで θεοῦ καὶ σωτῆρος … Ἰησοῦ Χριστοῦ を結ぶ構文（同一人物を指す読み）としてここに置いた。BDAG 未照合。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42001047010": "1",
+  "n42002011005": "2",
+  "n43004042022": "2",
+  "n44005031006": "2",
+  "n44013023012": "2",
+  "n49005023015": "2",
+  "n50003020011": "2",
+  "n54001001008": "1",
+  "n54002003007": "1",
+  "n54004010014": "1",
+  "n55001010008": "2",
+  "n56001003016": "1",
+  "n56001004017": "2",
+  "n56002010013": "1",
+  "n56002013013": "2",
+  "n56003004010": "1",
+  "n56003006010": "2",
+  "n61001001019": "2",
+  "n61001011016": "2",
+  "n61002020013": "2",
+  "n61003002018": "2",
+  "n61003018011": "2",
+  "n62004014012": "2",
+  "n65001025003": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "LXX に人間の『救助者』（士師、例：士師3:15）としての用法があるが、新約に無い用法のため語義にしない。"
+}

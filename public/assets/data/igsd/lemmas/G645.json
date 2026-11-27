@@ -1,0 +1,60 @@
+{
+ "lemma": "ἀποσπάω",
+ "lemmaId": "grc:G645",
+ "strong": "G645",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "引き抜く・引き離す",
+   "label_en": "to draw out, to draw away",
+   "label_es": "sacar, arrastrar tras sí",
+   "label_sv": "att dra ut, att dra bort",
+   "def": "剣を引き抜く、弟子たちを引き離す。『剣を抜いて』『弟子たちを引き込んで』。",
+   "def_en": "To draw a sword; to draw disciples away: “drew his sword”, “to draw the disciples away after themselves”.",
+   "def_es": "Desenvainar la espada; arrastrar a los discípulos: «sacando la espada», «arrastrar tras sí a los discípulos».",
+   "def_sv": "Att dra svärdet; att dra lärjungar till sig: ”drog sitt svärd”, ”dra lärjungarna med sig”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "マタイ26:51、使徒20:30。LXX、教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "離れる・別れる",
+   "label_en": "to withdraw, to part",
+   "label_es": "apartarse, separarse",
+   "label_sv": "att skiljas, att avlägsna sig",
+   "def": "別れる、離れる。『彼らから別れて』『石を投げて届くほど離れて』。",
+   "def_en": "To part from, to separate: “parting from them”, “withdrew about a stone’s throw”.",
+   "def_es": "Alejarse, separarse de otros: «separándose de ellos», «se apartó como a un tiro de piedra».",
+   "def_sv": "Att skilja sig från, att dra sig undan: ”skildes från dem”, ”drog sig undan ungefär ett stenkast”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒21:1、ルカ22:41。LXX に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40026051010": "1",
+  "n42022041003": "2",
+  "n44020030010": "1",
+  "n44021001006": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（引き抜く・引き離す／離れる）による。ἀπησπασάμεθα の形は本レンマへ割り当てない。",
+ "excluded": [
+  {
+   "ref": "ACT 21:6",
+   "form": "ἀπησπασάμεθα",
+   "reason": "形 ἀπησπασάμεθα は ἀπασπάζομαι のアオリスト中態の形で、本レンマの形ではない。底本の読み自体が NA28 と異なる点も含め、データ側の扱いは別途データ修正で扱う。"
+  }
+ ]
+}

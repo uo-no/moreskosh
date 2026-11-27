@@ -1,0 +1,51 @@
+{
+ "lemma": "ὕψωμα",
+ "lemmaId": "grc:G5313",
+ "strong": "G5313",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "高ぶり",
+   "label_en": "lofty thing, pretension",
+   "label_es": "altivez",
+   "label_sv": "högt bålverk",
+   "def": "高ぶり、傲慢な砦。『高ぶり』。",
+   "def_en": "Haughtiness, a proud stronghold: “every proud thing”.",
+   "def_es": "Soberbia, baluarte arrogante: «toda altivez».",
+   "def_sv": "Högmod, ett stolt fäste: ”allt högmod”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "コリント第二10:5。LXX に並行。教父の用例なし。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "高み",
+   "label_en": "height",
+   "label_es": "altura",
+   "label_sv": "höjd",
+   "def": "高み、高さ。『高さも深さも』。",
+   "def_en": "A high place, height: “neither height nor depth”.",
+   "def_es": "Lo alto: «ni lo alto, ni lo profundo».",
+   "def_sv": "Det höga: ”varken höjd eller djup”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ローマ8:39。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n45008039002": "2",
+  "n47010005003": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法による。"
+}

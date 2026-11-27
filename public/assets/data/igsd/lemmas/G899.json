@@ -1,0 +1,74 @@
+{
+ "lemma": "βάθος",
+ "lemmaId": "grc:G899",
+ "strong": "G899",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "深さ",
+   "label_en": "depth",
+   "label_es": "profundidad",
+   "label_sv": "djup",
+   "def": "深さ、深い所。『土が深くなかったので』『土が深くなかったので』『沖へこぎ出し』『幅も長さも高さも深さも』『高さも深さも』。",
+   "def_en": "Depth, a deep place: “because it had no depth of soil”, “since the soil was not deep”, “put out into the deep”, “the breadth, length, height, and depth”, “neither height nor depth”.",
+   "def_es": "Hondura, lugar profundo: «porque no tenía profundidad de tierra», «porque no era honda la tierra», «boga mar adentro», «la anchura, la longitud, la profundidad y la altura», «ni lo alto, ni lo profundo».",
+   "def_sv": "Djup, djupt ställe: ”eftersom jorden inte var djup”, ”där det inte fanns djup jord”, ”ro ut på djupt vatten”, ”bredden, längden, höjden och djupet”, ”varken höjd eller djup”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マタイ13:5、マルコ4:5、ルカ5:4、エペソ3:18、ローマ8:39。LXX（32.21・10.19）に並行。教父の代表例では確認していない。語義2・3との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "深み（神の知恵・計画）",
+   "label_en": "depths (of God's wisdom, plan)",
+   "label_es": "profundidades (sabiduría y plan de Dios)",
+   "label_sv": "djup (Guds vishet, plan)",
+   "def": "神の知恵や思いの深み。『神の富と知恵と知識の深さ』『神の深みさえも』。",
+   "def_en": "The depth of God's wisdom and thought: “the depth of the riches and wisdom and knowledge of God”, “even the depths of God”.",
+   "def_es": "Lo profundo de la sabiduría y el pensamiento de Dios: «¡oh profundidad de las riquezas, de la sabiduría y de la ciencia de Dios!», «aun lo profundo de Dios».",
+   "def_sv": "Djupet i Guds vishet och tankar: ”vilket djup av rikedom, vishet och kunskap hos Gud”, ”även djupen hos Gud”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "ローマ11:33、コリント第一2:10。教父（40.1）に並行。LXX の代表例では確認していない。語義1との境界は連続的。"
+  },
+  {
+   "id": "3",
+   "label": "極み（貧しさの）",
+   "label_en": "extremity (of poverty)",
+   "label_es": "extremo (de pobreza)",
+   "label_sv": "ytterlighet (om fattigdom)",
+   "def": "事態の極み、きわまり。『極度の貧しさ』。",
+   "def_en": "The extreme of a situation: “extreme poverty”.",
+   "def_es": "Lo extremo de una situación: «su profunda pobreza».",
+   "def_sv": "Det yttersta i ett läge: ”djup fattigdom”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "コリント第二8:2。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40013005019": "1",
+  "n41004005019": "1",
+  "n42005004012": "1",
+  "n45008039004": "1",
+  "n45011033002": "2",
+  "n46002010016": "2",
+  "n47008002014": "3",
+  "n49003018016": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（物理的な深さ／神の深み／貧しさの極み）による。"
+}

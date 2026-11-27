@@ -1,0 +1,53 @@
+{
+ "lemma": "ἀντέχομαι",
+ "lemmaId": "grc:G472",
+ "strong": "G472",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "しっかり保つ・忠実に仕える",
+   "label_en": "to hold fast, to be devoted",
+   "label_es": "adherirse, retener",
+   "label_sv": "att hålla sig till",
+   "def": "しっかりと保つ、忠実に仕える。『一方に忠実に仕えて』『教えのとおり…しっかり守る』。",
+   "def_en": "To hold on firmly, to serve faithfully: “be devoted to the one”, “hold firmly … to what accords with the teaching”.",
+   "def_es": "Asirse con firmeza, servir fielmente: «se apegará a uno», «retenedor … conforme a la enseñanza».",
+   "def_sv": "Att hålla fast, att troget tjäna: ”håller sig till den ene”, ”håller fast … vid det som stämmer med läran”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ルカ16:13、マタイ6:24、テトス1:9。LXX、教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "助ける・支える",
+   "label_en": "to help, to support",
+   "label_es": "sostener, ayudar",
+   "label_sv": "att stödja, att hjälpa",
+   "def": "弱い者を支える、助ける。『弱い者を助けなさい』。",
+   "def_en": "To support the weak, to help: “help the weak”.",
+   "def_es": "Apoyar a los débiles, socorrer: «sostened a los débiles».",
+   "def_sv": "Att ta sig an de svaga, att bistå: ”ta er an de svaga”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "テサロニケ第一5:14。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40006024017": "1",
+  "n42016013018": "1",
+  "n52005014011": "2",
+  "n56001009001": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（しっかり保つ／助ける）による。"
+}

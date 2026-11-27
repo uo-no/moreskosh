@@ -1,0 +1,78 @@
+{
+ "lemma": "τυγχάνω",
+ "lemmaId": "grc:G5177",
+ "strong": "G5177",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "得る／手に入れる",
+   "label_en": "to obtain / receive",
+   "label_es": "obtener / alcanzar",
+   "label_sv": "att få / uppnå",
+   "def": "得る、手に入れる、受ける。『救いを得るために』『大きな平和を享受し』『親切な扱いを受ける』『より優れた務めを得た』『よりすぐれた復活を得るため』『かの世に入る資格を得る』『神からの助けを得て』。",
+   "def_en": "To get, gain, receive: “that they may obtain the salvation”, “enjoying much peace”, “receive kind treatment”, “has obtained a more excellent ministry”, “that they might obtain a better resurrection”, “considered worthy to attain that age”, “having obtained help from God”.",
+   "def_es": "Conseguir, lograr, recibir: «para que obtengan la salvación», «gozar de gran paz», «ser tratado humanamente», «ha obtenido un ministerio mejor», «a fin de obtener mejor resurrección», «tenidos por dignos de alcanzar aquel siglo», «habiendo obtenido auxilio de Dios».",
+   "def_sv": "Att erhålla, vinna, få: ”så att de får frälsningen”, ”njuta stor fred”, ”bli vänligt bemött”, ”har fått en så mycket högre tjänst”, ”för att nå en bättre uppståndelse”, ”anses värdiga att nå den världen”, ”har fått hjälp av Gud”.",
+   "layers": {
+    "nt": 7,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅱテモ2:10、使徒24:2・26:22・27:3、ヘブル8:6・11:35、ルカ20:35。LXX ヨブ3:21・箴言、教父（6.9.2）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "たまたま／もしかすると（τυχόν）",
+   "label_en": "perhaps / it may be (τυχόν)",
+   "label_es": "quizá / por ejemplo (τυχόν)",
+   "label_sv": "kanske / till äventyrs (τυχόν)",
+   "def": "『たまたま』『おそらく』『もしかすると』。『おそらくあなたがたのところに滞在し』『たとえば麦粒でも』『世には、たまたまさまざまな種類の言語がある』。",
+   "def_en": "“By chance”, “probably”, “perhaps”: “and perhaps I will stay with you”, “perhaps of wheat”, “there are, it may be, many kinds of languages in the world”.",
+   "def_es": "«Acaso», «probablemente», «tal vez»: «y podrá ser que me quede con vosotros», «ya sea de trigo», «hay, seguramente, muchas clases de idiomas en el mundo».",
+   "def_sv": "”Händelsevis”, ”troligen”, ”kanske”: ”kanske stannar jag hos er”, ”det må vara vete”, ”det finns väl många slags språk i världen”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "Ⅰコリ16:6・14:10・15:37。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "並々でない（οὐ τυχών）",
+   "label_en": "not ordinary (οὐ τυχών)",
+   "label_es": "no común (οὐ τυχών)",
+   "label_sv": "ovanlig (οὐ τυχών)",
+   "def": "並でない、ふつうでない。『神は異常な力あるわざを』『並々でない親切』。",
+   "def_en": "Not common, out of the ordinary: “God was doing extraordinary miracles”, “unusual kindness”.",
+   "def_es": "Nada ordinario, extraordinario: «hacía Dios milagros extraordinarios», «no poca humanidad».",
+   "def_sv": "Inte vanlig, utöver det vanliga: ”Gud gjorde ovanliga under”, ”ovanlig vänlighet”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒19:11・28:2（いずれも οὐ τυχών の形）。LXX 代表例に並行（Ⅲマカバイ3:7『οὐ τῷ τυχόντι』）。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42020035007": "1",
+  "n44019011005": "3",
+  "n44024002011": "1",
+  "n44026022003": "1",
+  "n44027003020": "1",
+  "n44028002007": "3",
+  "n46014010003": "2",
+  "n46015037014": "2",
+  "n46016006004": "2",
+  "n55002010012": "1",
+  "n58008006004": "1",
+  "n58011035018": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（得る／たまたま／並々でない）による。"
+}

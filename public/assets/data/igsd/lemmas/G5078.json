@@ -1,0 +1,52 @@
+{
+ "lemma": "τέχνη",
+ "lemmaId": "grc:G5078",
+ "strong": "G5078",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "職業・手わざ",
+   "label_en": "trade, craft",
+   "label_es": "oficio",
+   "label_sv": "yrke, hantverk",
+   "def": "職業、手わざ。『同業だったので』『あらゆる職業の者』。",
+   "def_en": "An occupation, a handicraft: “because they were of the same trade”, “a craftsman of any trade”.",
+   "def_es": "Profesión, trabajo manual: «como eran del mismo oficio», «artífice de oficio alguno».",
+   "def_sv": "Näring, hantverk: ”eftersom de hade samma yrke”, ”hantverkare av något slag”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒18:3、黙示録18:22。LXX、教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "技巧・工芸",
+   "label_en": "art, skill",
+   "label_es": "arte",
+   "label_sv": "konst",
+   "def": "技巧、工芸の腕。『人間の技巧や考えで刻んだ』。",
+   "def_en": "Art, craftsmanship: “carved by human art and thought”.",
+   "def_es": "Destreza, habilidad artística: «escultura de arte y de imaginación de hombres».",
+   "def_sv": "Konstfärdighet, skicklighet: ”formad av människors konst och påhitt”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒17:29。LXX に並行（技巧）。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n44017029015": "2",
+  "n44018003015": "1",
+  "n66018022020": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（職業／技巧）による。"
+}

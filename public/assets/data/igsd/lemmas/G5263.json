@@ -1,0 +1,55 @@
+{
+ "lemma": "ὑποδείκνυμι",
+ "lemmaId": "grc:G5263",
+ "strong": "G5263",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "示す・教える",
+   "label_en": "to show, to teach",
+   "label_es": "mostrar, enseñar",
+   "label_sv": "att visa, att lära",
+   "def": "示す、教える、手本を示す。『あなたがたにあらゆる事で模範を示した』『わたしが…彼に示そう』『だれを恐れるべきか、あなたがたに示そう』『だれに似ているかを示そう』。",
+   "def_en": "To show, to teach, to set an example: “in everything I have shown you an example”, “I will show him”, “I will show you whom to fear”, “I will show you what he is like”.",
+   "def_es": "Mostrar, enseñar, dar ejemplo: «en todo os he enseñado con el ejemplo», «yo le mostraré», «os enseñaré a quién debéis temer», «os indicaré a quién es semejante».",
+   "def_sv": "Att visa, undervisa, ge ett föredöme: ”i allt har jag visat er ett föredöme”, ”jag skall visa honom”, ”jag skall visa er vem ni skall frukta”, ”jag skall visa er vem han liknar”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒20:35・9:16、ルカ12:5・6:47。LXX（7.10・11.2）、教父（12.4・1.8）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "警告する・知らせる",
+   "label_en": "to warn",
+   "label_es": "advertir",
+   "label_sv": "att varna",
+   "def": "警告して知らせる。『来るべき怒りからのがれるように、だれが教えたのか』。",
+   "def_en": "To warn and make known: “who warned you to flee from the coming wrath”.",
+   "def_es": "Avisar con advertencia: «¿quién os enseñó a huir de la ira venidera?».",
+   "def_sv": "Att varnande upplysa: ”vem har lärt er att fly undan den kommande vreden”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ルカ3:7、マタイ3:7。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40003007018": "2",
+  "n42003007012": "2",
+  "n42006047014": "1",
+  "n42012005001": "1",
+  "n44009016003": "1",
+  "n44020035002": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（示す・教える／警告する）による。"
+}

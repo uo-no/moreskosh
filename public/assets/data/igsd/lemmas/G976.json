@@ -1,0 +1,93 @@
+{
+ "lemma": "βίβλος",
+ "lemmaId": "grc:G976",
+ "strong": "G976",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "書物／巻物（聖書の）",
+   "label_en": "book / scroll (of Scripture)",
+   "label_es": "libro / rollo (de la Escritura)",
+   "label_sv": "bok / bokrulle (i Skriften)",
+   "def": "聖書の書、巻物。『詩篇の書に書いてある』『預言者イザヤの言葉の書』『モーセの書』『預言者の書』『ダビデは詩篇の書で』。",
+   "def_en": "A book or scroll of Scripture: “it is written in the Book of Psalms”, “the book of the words of Isaiah the prophet”, “the book of Moses”, “the book of the prophets”, “David himself says in the Book of Psalms”.",
+   "def_es": "Libro o rollo de las Escrituras: «escrito en el libro de los Salmos», «el libro de las palabras del profeta Isaías», «el libro de Moisés», «el libro de los profetas», «David dice en el libro de los Salmos».",
+   "def_sv": "En bok eller rulle i Skriften: ”skrivet i Psaltaren”, ”boken med profeten Jesajas ord”, ”Moses bok”, ”profeternas bok”, ”David säger i Psalmernas bok”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒1:20・7:42、ルカ20:42・3:4、マルコ12:26。LXX 出エジプト記・トビト、教父（53.4、19.1.9）に並行。語義3との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "書物（魔術の）",
+   "label_en": "book (of magic)",
+   "label_es": "libro (de magia)",
+   "label_sv": "bok (trollbok)",
+   "def": "一般の書物、巻物。『魔術を行っていた者たちは書物を持って来て』（使徒19:19）。",
+   "def_en": "A book or scroll in general: “those who had practised magic arts brought their books” (Acts 19:19).",
+   "def_es": "Libro en general: «muchos de los que habían practicado la magia trajeron los libros» (Hch 19:19).",
+   "def_sv": "En bok eller rulle i allmänhet: ”de som sysslat med magi bar fram sina böcker” (Apg 19:19).",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒19:19 の1例のみ。LXX 代表例に並行。教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "いのちの書",
+   "label_en": "book of life",
+   "label_es": "libro de la vida",
+   "label_sv": "livets bok",
+   "def": "『いのちの書』『小羊のいのちの書』。『いのちの書に名がしるされている』『いのちの書から消さない』。",
+   "def_en": "“The book of life”, “the Lamb's book of life”: “whose names are in the book of life”, “I will not blot the name out of the book of life”.",
+   "def_es": "«El libro de la vida», «el libro de la vida del Cordero»: «cuyos nombres están en el libro de la vida», «no borraré su nombre del libro de la vida».",
+   "def_sv": "”Livets bok”, ”Lammets livets bok”: ”vars namn står i livets bok”, ”jag ska inte stryka namnet ur livets bok”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ピリピ4:3、黙示録20:15・3:5。LXX 出エジプト記32・詩篇に並行。教父の代表例では確認していない。"
+  },
+  {
+   "id": "4",
+   "label": "系図の書（マタイ1:1）",
+   "label_en": "book of genealogy (Matt 1:1)",
+   "label_es": "libro de la genealogía (Mt 1:1)",
+   "label_sv": "släktbok (Matt 1:1)",
+   "def": "『系図の書』。『イエス・キリストの系図の書』（マタイ1:1）。",
+   "def_en": "“The book of the genealogy”: “the book of the genealogy of Jesus Christ” (Matt 1:1).",
+   "def_es": "«Libro de la genealogía»: «libro de la genealogía de Jesucristo» (Mt 1:1).",
+   "def_sv": "”Släkttavlans bok”: ”Jesu Kristi släkttavla” (Matt 1:1).",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ1:1 の1例のみ。LXX・教父の代表例では確認していない（創世記5:1 の句に並行する語）。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40001001001": "4",
+  "n41012026011": "1",
+  "n42003004004": "1",
+  "n42020042006": "1",
+  "n44001020004": "1",
+  "n44007042016": "1",
+  "n44019019009": "2",
+  "n50004003027": "3",
+  "n66003005017": "3",
+  "n66020015008": "3"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用例による。"
+}

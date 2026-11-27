@@ -1,0 +1,73 @@
+{
+ "lemma": "ἀστήρ",
+ "lemmaId": "grc:G792",
+ "strong": "G792",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "星",
+   "label_en": "star",
+   "label_es": "estrella",
+   "label_sv": "stjärna",
+   "def": "夜空に見える天体としての星。個々の星、星々の総称、落ちる星、光の栄光の比較の対象としての星。",
+   "def_en": "A star as a heavenly body seen in the night sky: individual stars, the stars collectively, falling stars, stars as a standard of comparison for the glory of light.",
+   "def_es": "La estrella como astro que se ve en el cielo nocturno: estrellas concretas, las estrellas en conjunto, estrellas que caen, la estrella como término de comparación de la gloria de la luz.",
+   "def_sv": "Stjärnan som en himlakropp på natthimlen: enskilda stjärnor, stjärnorna samlat, fallande stjärnor, stjärnan som jämförelse för ljusets härlighet.",
+   "layers": {
+    "nt": 16,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "マタイ2:2・7・9・10（東方の博士たちの星）、マタイ24:29・マルコ13:25・黙示録6:13（落ちる星）、黙示録8:10–12・9:1（ラッパの災い）、12:1・4（女の冠・竜の尾）、Ⅰコリ15:41（星どうしの栄光の違い）。黙示録8:10・9:1 の落ちる星は、語としては天体の星として置き、指すものの判断はしない。"
+  },
+  {
+   "id": "2",
+   "label": "（称号・隠喩としての）星",
+   "label_en": "star (as title or metaphor)",
+   "label_es": "estrella (como título o metáfora)",
+   "label_sv": "stjärna (som titel eller metafor)",
+   "def": "星を比喩・称号として用いる。『明けの明星』（黙示録2:28・22:16）、『さまよう星』（ユダ13）。",
+   "def_en": "Star used as a metaphor or title: the “morning star” (Rev 2:28; 22:16), the “wandering stars” (Jude 13).",
+   "def_es": "La estrella usada como metáfora o título: la «estrella de la mañana» (Ap 2:28; 22:16), las «estrellas errantes» (Jud 13).",
+   "def_sv": "Stjärna använd som metafor eller titel: ”morgonstjärnan” (Upp 2:28; 22:16), ”vilsevandrande stjärnor” (Jud 13).",
+   "layers": {
+    "nt": 8,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "黙示録2:28（勝利者に与えられる）、22:16（『わたしは輝く明けの明星』）、ユダ13（不敬虔な者への隠喩）。LXX の代表例では確認していない。教父にイグナティオス『エペソ』19.2（星が他のすべての星に勝って輝いた）の並行があるが、用法の同一性は断定しない。 【統合】黙示録1:16・1:20（2回）・2:1・3:1 の『七つの星』（1:20 で『七つの教会の御使い』と明かされる象徴用法）もこの語義に含める。黙示録1:16・1:20（2回）・2:1・3:1。星が何を指すかは1:20 の本文が述べる範囲にとどめ、こちらで解釈は足さない。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40002002013": "1",
+  "n40002007014": "1",
+  "n40002009010": "1",
+  "n40002010004": "1",
+  "n40024029022": "1",
+  "n41013025003": "1",
+  "n46015041011": "1",
+  "n46015041012": "1",
+  "n46015041014": "1",
+  "n65001013008": "2",
+  "n66001016008": "2",
+  "n66001020005": "2",
+  "n66001020020": "2",
+  "n66002001014": "2",
+  "n66002028012": "2",
+  "n66003001021": "2",
+  "n66006013003": "1",
+  "n66008010011": "1",
+  "n66008011005": "1",
+  "n66008012021": "1",
+  "n66009001008": "1",
+  "n66012001025": "1",
+  "n66012004009": "1",
+  "n66022016022": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない（LXX・教父は天体としての星が中心）。"
+}

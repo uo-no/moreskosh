@@ -1,0 +1,60 @@
+{
+ "lemma": "σχίζω",
+ "lemmaId": "grc:G4977",
+ "strong": "G4977",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "裂く／裂ける",
+   "label_en": "to tear / be torn",
+   "label_es": "rasgar / rasgarse",
+   "label_sv": "att slita itu / rämna",
+   "def": "引き裂く、裂ける。『神殿の幕が真っ二つに裂けた』『岩が裂け』『天が裂けて』『網は破れなかった』『新しい着物を裂いて』『裂かずに、くじ引きで』。",
+   "def_en": "To rend, to be torn: “the curtain of the temple was torn in two”, “the rocks were split”, “the heavens being torn open”, “the net was not torn”, “tears a piece from a new garment”, “let us not tear it, but cast lots”.",
+   "def_es": "Desgarrar, partirse: «el velo del templo se rasgó en dos», «las rocas se partieron», «vio abrirse los cielos», «la red no se rompió», «rompe un vestido nuevo», «no la partamos, sino echemos suertes».",
+   "def_sv": "Att riva sönder, att rämna: ”förhänget i templet rämnade i två delar”, ”klipporna rämnade”, ”himlen delade sig”, ”nätet gick inte sönder”, ”river en lapp ur en ny mantel”, ”låt oss inte skära sönder den utan kasta lott”.",
+   "layers": {
+    "nt": 9,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ヨハネ19:24・21:11、ルカ23:45・5:36（2回）、マタイ27:51（2回）、マルコ1:10・15:38。LXX イザヤ48:21・Ⅰ列王記、教父に並行。"
+  },
+  {
+   "id": "2",
+   "label": "分かれる／分裂する",
+   "label_en": "to be divided / split",
+   "label_es": "dividirse / escindirse",
+   "label_sv": "att dela sig / splittras",
+   "def": "意見が分かれる、分裂する。『町の人々は二派に分かれ』『群衆は二つに分かれた』。",
+   "def_en": "To be divided in opinion, to split: “the people of the city were divided into two parties”, “the assembly was divided”.",
+   "def_es": "Dividirse en pareceres: «la gente de la ciudad estaba dividida», «la asamblea se dividió».",
+   "def_sv": "Att bli oense och splittras: ”stadens folk delade sig i två läger”, ”folkmassan blev splittrad”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒14:4・23:7。LXX 代表例・教父（5.3.3）に並行。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40027051007": "1",
+  "n40027051021": "1",
+  "n41001010008": "1",
+  "n41015038006": "1",
+  "n42005036013": "1",
+  "n42005036024": "1",
+  "n42023045004": "1",
+  "n43019024006": "1",
+  "n43021011022": "1",
+  "n44014004001": "2",
+  "n44023007012": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（裂く／分裂）による。"
+}

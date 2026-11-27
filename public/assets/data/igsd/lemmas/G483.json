@@ -1,0 +1,58 @@
+{
+ "lemma": "ἀντιλέγω",
+ "lemmaId": "grc:G483",
+ "strong": "G483",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "逆らう／反対する",
+   "label_en": "to contradict / oppose",
+   "label_es": "contradecir / oponerse",
+   "label_sv": "att säga emot / motsätta sig",
+   "def": "逆らう、反対する、言い逆らう。『パウロの語ることに反対し』『ユダヤ人たちが反対した』『この宗派については至る所で非難されている』『カイザルに逆らう者』『人々の反対を受けるしるし』『逆らう民』『反対する者たちを戒めるために』『口答えせず』。",
+   "def_en": "To oppose, to be against, to speak against: “contradicted what was spoken by Paul”, “the Jews objected”, “this sect is spoken against everywhere”, “opposes Caesar”, “a sign that is opposed”, “a contrary people”, “to rebuke those who contradict”, “not answering back”.",
+   "def_es": "Oponerse, contrariar, replicar: «contradecían lo que Pablo decía», «oponiéndose los judíos», «de esta secta en todas partes se habla contra ella», «a César se opone», «señal que será contradicha», «pueblo contradictor», «convencer a los que contradicen», «que no sean respondones».",
+   "def_sv": "Att opponera sig, gå emot, säga emot: ”motsade det Paulus sade”, ”judarna protesterade”, ”den sekten möter motsägelse överallt”, ”sätter sig upp mot kejsaren”, ”ett tecken som väcker motsägelse”, ”ett trotsigt folk”, ”tillrättavisa motsägarna”, ”inte säga emot”.",
+   "layers": {
+    "nt": 8,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒13:45・28:19・28:22、ヨハネ19:12、ルカ2:34、ローマ10:21、テトス1:9・2:9。LXX ホセア4:4・イザヤ50:5、教父（12.4、8.1.3）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "否定する（復活を）",
+   "label_en": "to deny (the resurrection)",
+   "label_es": "negar (la resurrección)",
+   "label_sv": "att förneka (uppståndelsen)",
+   "def": "否定する、異を唱える。『復活はないと言い張る』（ルカ20:27）。",
+   "def_en": "To deny, to dispute: “who deny that there is a resurrection” (Luke 20:27).",
+   "def_es": "Negar, sostener lo contrario: «los cuales niegan haber resurrección» (Lc 20:27).",
+   "def_sv": "Att förneka och hävda motsatsen: ”som påstår att det inte finns någon uppståndelse” (Luk 20:27).",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ルカ20:27 の1例のみ。語義1との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42002034026": "1",
+  "n42020027007": "2",
+  "n43019012026": "1",
+  "n44013045010": "1",
+  "n44028019001": "1",
+  "n44028022019": "1",
+  "n45010021017": "1",
+  "n56001009020": "1",
+  "n56002009010": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法による。"
+}

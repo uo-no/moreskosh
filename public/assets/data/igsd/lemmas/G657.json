@@ -1,0 +1,55 @@
+{
+ "lemma": "ἀποτάσσομαι",
+ "lemmaId": "grc:G657",
+ "strong": "G657",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "別れを告げる",
+   "label_en": "to say goodbye",
+   "label_es": "despedirse",
+   "label_sv": "att ta farväl",
+   "def": "別れを告げる、いとまごいをする。『彼らに別れを告げて』『別れを告げて』『別れを告げて、…出かけた』『家の者たちに別れを告げる』『彼らに別れを告げて、山へ』。",
+   "def_en": "To take leave, to bid farewell: “taking leave of them”, “said farewell”, “took leave … and set out”, “to say farewell to those at my home”, “after taking leave of them, he went up the mountain”.",
+   "def_es": "Decir adiós, pedir licencia para irse: «despidiéndose de ellos», «me despedí», «se despidió … y partió», «que me despida de los de mi casa», «después de despedirlos, se fue al monte».",
+   "def_sv": "Att säga adjö, att bryta upp från någon: ”tog avsked av dem”, ”tog farväl”, ”tog avsked … och begav sig i väg”, ”att ta farväl av dem därhemma”, ”sedan han skilts från dem gick han upp på berget”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "コリント第二2:13、使徒18:18・18:21、ルカ9:61、マルコ6:46。LXX（6.50・6.26）、教父（6.5・11.2.9）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "捨てる・手放す",
+   "label_en": "to renounce, to give up",
+   "label_es": "renunciar",
+   "label_sv": "att avstå från, att försaka",
+   "def": "持ち物を手放す、捨てる。『自分の持ち物を捨てなければ、あなたがたのうちだれも、わたしの弟子となることはできない』。",
+   "def_en": "To let go of one’s possessions, to give them up: “none of you can be my disciple without giving up all that you have”.",
+   "def_es": "Desprenderse de lo que se posee, dejarlo: «cualquiera de vosotros que no renuncia a todo lo que posee, no puede ser mi discípulo».",
+   "def_sv": "Att släppa sina ägodelar, att överge dem: ”ingen av er kan vara min lärjunge utan att avstå från allt han äger”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ルカ14:33。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n41006046002": "1",
+  "n42009061012": "1",
+  "n42014033008": "2",
+  "n44018018010": "1",
+  "n44018021002": "1",
+  "n47002013016": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（別れを告げる／持ち物を捨てる）による。"
+}

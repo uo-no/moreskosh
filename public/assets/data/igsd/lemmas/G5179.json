@@ -1,0 +1,133 @@
+{
+ "lemma": "τύπος",
+ "lemmaId": "grc:G5179",
+ "strong": "G5179",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "跡／痕（打たれた）",
+   "label_en": "mark / print (made by a blow)",
+   "label_es": "marca / señal (de golpe)",
+   "label_sv": "märke / spår (efter slag)",
+   "def": "打たれてできた跡、傷跡。『釘の跡』。",
+   "def_en": "A mark made by striking, a scar: “the mark of the nails”.",
+   "def_es": "La señal dejada por un golpe, la huella de la herida: «la señal de los clavos».",
+   "def_sv": "Ett märke efter slag, ett ärr: ”märkena efter spikarna”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヨハネ20:25（2回）。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "像／偶像",
+   "label_en": "image / idol",
+   "label_es": "imagen / ídolo",
+   "label_sv": "bild / avgudabild",
+   "def": "刻まれた像、偶像。『拝むために造った像』。",
+   "def_en": "A carved image, an idol: “figures that you made to worship”.",
+   "def_es": "Imagen tallada, ídolo: «figuras que os hicisteis para adorarlas».",
+   "def_sv": "En skuren bild, en avgud: ”de bilder ni gjort för att tillbe”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒7:43 の1例（LXX アモス5:26 の引用）。代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "型／ひな形（設計）",
+   "label_en": "pattern / model (design)",
+   "label_es": "modelo / diseño",
+   "label_sv": "förebild / mönster (ritning)",
+   "def": "造るべきものの型、設計図。『山で示された型に従って』。",
+   "def_en": "The pattern of what is to be made, a design: “according to the pattern shown on the mountain”.",
+   "def_es": "El modelo de lo que se ha de hacer, el plano: «conforme al modelo mostrado en el monte».",
+   "def_sv": "Mönstret för det som ska göras: ”efter förebilden som visades på berget”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒7:44、ヘブル8:5。LXX 出エジプト記25:40 に並行。教父の代表例では確認していない。"
+  },
+  {
+   "id": "4",
+   "label": "形／文面",
+   "label_en": "form / wording",
+   "label_es": "forma / tenor",
+   "label_sv": "form / ordalydelse",
+   "def": "書き物・教えの形、文面。『次のような文面の手紙』『伝えられた教えの型』。",
+   "def_en": "The form or wording of a writing or teaching: “a letter to this effect”, “the form of teaching handed down”.",
+   "def_es": "La forma o el tenor de un escrito o enseñanza: «una carta en estos términos», «la forma de doctrina que os fue entregada».",
+   "def_sv": "Formen eller lydelsen i en skrift eller lära: ”ett brev med följande innehåll”, ”den läroform som överlämnats”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒23:25、ローマ6:17。LXX Ⅲマカバイ3:30 に並行。教父の代表例では確認していない。"
+  },
+  {
+   "id": "5",
+   "label": "模範／手本",
+   "label_en": "example / model",
+   "label_es": "ejemplo / modelo",
+   "label_sv": "föredöme / förebild",
+   "def": "見倣うべき模範、手本。『信者の模範となりなさい』『わたしたちを手本とせよ』。",
+   "def_en": "A model to be imitated: “be an example to believers”, “take us as your example”.",
+   "def_es": "Modelo digno de imitación: «sé ejemplo de los creyentes», «tenednos por ejemplo».",
+   "def_sv": "En förebild att efterlikna: ”var ett föredöme för de troende”, ”ta oss till föredöme”.",
+   "layers": {
+    "nt": 8,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "Ⅰコリ10:6・10:11、Ⅰペテロ5:3、Ⅰテサ1:7、Ⅰテモ4:12、Ⅱテサ3:9、ピリピ3:17、テトス2:7。語義6との境界は連続的（Ⅰコリ10:6・10:11 は警告の例）。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "6",
+   "label": "予型",
+   "label_en": "type (foreshadowing)",
+   "label_es": "tipo (prefiguración)",
+   "label_sv": "förebild (typ för det kommande)",
+   "def": "来たるべきものを示す型。『きたるべき方の型』。",
+   "def_en": "A type that points to what is to come: “a type of the one who was to come”.",
+   "def_es": "Figura que anuncia lo venidero: «figura del que había de venir».",
+   "def_sv": "En typ som pekar på det som ska komma: ”en förebild till den som skulle komma”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "ローマ5:14 の1例。教父（12.6）に並行。LXX の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n43020025022": "1",
+  "n43020025032": "1",
+  "n44007043014": "2",
+  "n44007044022": "3",
+  "n44023025005": "4",
+  "n45005014022": "6",
+  "n45006017017": "4",
+  "n46010006003": "5",
+  "n46010011003": "5",
+  "n50003017012": "5",
+  "n52001007004": "5",
+  "n53003009009": "5",
+  "n54004012007": "5",
+  "n56002007005": "5",
+  "n58008005022": "3",
+  "n60005003007": "5"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用例による。"
+}

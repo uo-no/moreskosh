@@ -1,0 +1,55 @@
+{
+ "lemma": "σπήλαιον",
+ "lemmaId": "grc:G4693",
+ "strong": "G4693",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "洞穴",
+   "label_en": "cave",
+   "label_es": "cueva",
+   "label_sv": "grotta, håla",
+   "def": "洞穴、ほら穴。『洞穴は石でふさがれ』『洞穴や地の穴をさまよい』『岩の洞穴』。",
+   "def_en": "A cave, a cavern: “the cave was closed with a stone”, “wandering in caves and holes in the ground”, “the caves among the rocks”.",
+   "def_es": "Cueva, caverna: «era una cueva, y tenía una piedra puesta encima», «errando por las cuevas y las cavernas de la tierra», «las cuevas de las peñas».",
+   "def_sv": "Grotta, håla: ”grottan var stängd med en sten”, ”irrade omkring i grottor och jordhålor”, ”klippornas grottor”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ヨハネ11:38、ヘブル11:38、黙示録6:15。LXX（23.11・10.17）、教父（11.5）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "強盗の巣",
+   "label_en": "den of robbers",
+   "label_es": "cueva de ladrones",
+   "label_sv": "rövarkula",
+   "def": "『強盗の巣』（エレミヤ7:11 の引用）。",
+   "def_en": "A “den of robbers” (quotation of Jeremiah 7:11).",
+   "def_es": "«Cueva de ladrones» (cita de Jeremías 7:11).",
+   "def_sv": "En ”rövarkula” (citat från Jeremia 7:11).",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "マタイ21:13、マルコ11:17、ルカ19:46。教父（14.1）に並行。LXX の代表例では確認していない。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40021013015": "2",
+  "n41011017022": "2",
+  "n42019046015": "2",
+  "n43011038013": "1",
+  "n58011038013": "1",
+  "n66006015027": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（洞穴／強盗の巣）による。"
+}

@@ -1,0 +1,44 @@
+{
+ "lemma": "ἀποστερέω",
+ "lemmaId": "grc:G650",
+ "strong": "G650",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "奪い取る・欺き取る",
+   "label_en": "to defraud, to deprive",
+   "label_es": "defraudar, despojar",
+   "label_sv": "att beröva, att bedra",
+   "def": "不正に奪う、欺き取る、拒む。『なぜ不義を耐え忍ばないのか。なぜだまし取られたままでいないのか』『あなたがたは不義を行い、だまし取っている』『互いに拒んではいけない』『真理を失った者』『だまし取ってはならない』。",
+   "def_en": "To take away wrongfully, to cheat out of, to withhold: “why not rather suffer wrong? Why not rather be cheated”, “you yourselves wrong and cheat”, “do not deprive one another”, “people deprived of the truth”, “do not defraud”.",
+   "def_es": "Quitar injustamente, estafar, negar: «¿por qué no sufrís más bien el agravio? ¿Por qué no dejáis que os defrauden?», «vosotros cometéis el agravio y defraudáis», «no os neguéis el uno al otro», «privados de la verdad», «no defraudes».",
+   "def_sv": "Att orätt ta ifrån, att lura på, att förvägra: ”varför lider ni inte hellre orätt? Varför låter ni er inte hellre bli lurade”, ”ni gör orätt och bedrar”, ”håll er inte borta från varandra”, ”människor som mist sanningen”, ”du skall inte ta ifrån någon vad som är hans”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "コリント第一6:7・6:8・7:5、テモテ第一6:5、マルコ10:19。LXX（34.21・21.10）、教父（3.9.9・1.10.3）に並行。単一語義。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n41010019013": "1",
+  "n46006007022": "1",
+  "n46006008005": "1",
+  "n46007005002": "1",
+  "n54006005007": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "単一語義。ἀφυστερημένος の形は本レンマへ割り当てない。",
+ "excluded": [
+  {
+   "ref": "JAS 5:4",
+   "form": "ἀφυστερημένος",
+   "reason": "形は ἀφυστερημένος で、別語 ἀφυστερέω の形。本レンマの形ではない。bible_data の付け替えはユーザー承認待ち。"
+  }
+ ]
+}

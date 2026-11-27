@@ -1,0 +1,52 @@
+{
+ "lemma": "τήρησις",
+ "lemmaId": "grc:G5084",
+ "strong": "G5084",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "守ること",
+   "label_en": "keeping, observance",
+   "label_es": "observancia",
+   "label_sv": "hållande",
+   "def": "守ること、遵守。『神の戒めを守ること』。",
+   "def_en": "Keeping, observing: “keeping God’s commandments”.",
+   "def_es": "El guardar, cumplimiento: «el guardar los mandamientos de Dios».",
+   "def_sv": "Att hålla, att iaktta: ”att hålla Guds bud”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "コリント第一7:19。LXX に並行。教父の用例なし。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "拘置・牢",
+   "label_en": "custody, prison",
+   "label_es": "custodia, cárcel",
+   "label_sv": "förvar, häkte",
+   "def": "拘置、留置、牢。『翌日まで留置した』『公の牢に入れた』。",
+   "def_en": "Detention, confinement, a jail: “held them in custody until the next day”, “put them in the public jail”.",
+   "def_es": "Detención, reclusión, prisión: «los pusieron en la cárcel hasta el día siguiente», «los pusieron en la cárcel pública».",
+   "def_sv": "Fängsligt förvar, fängelse: ”satte dem i förvar till nästa dag”, ”satte dem i det allmänna häktet”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒4:3・5:18。LXX の代表例は警備・守りの用例で、拘置の意味は確認していない。教父の用例なし。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n44004003009": "2",
+  "n44005018012": "2",
+  "n46007019011": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（遵守／拘置）による。"
+}

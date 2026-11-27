@@ -1,0 +1,97 @@
+{
+ "lemma": "ἅπαξ",
+ "lemmaId": "grc:G530",
+ "strong": "G530",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "一度（だけ）",
+   "label_en": "once (only)",
+   "label_es": "una vez (sola)",
+   "label_sv": "en gång",
+   "def": "一度、一回。『年に一度』『一度死ぬことと』『一度石で打たれ』『世の終わりに一度現れた』。",
+   "def_en": "Once, one time: “once a year”, “appointed to die once”, “once I was stoned”, “appeared once at the end of the ages”.",
+   "def_es": "Una vez, una sola ocasión: «una vez al año», «morir una sola vez», «una vez apedreado», «una sola vez al fin de los siglos».",
+   "def_sv": "En enda gång: ”en gång om året”, ”att en gång dö”, ”en gång blev jag stenad”, ”framträtt en gång vid tidernas slut”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅱコリ11:25、ヘブル9:7・9:26・9:27。LXX 民数記・エレミヤ16:20、教父（9.4.1）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "ただ一度で（決定的・最終的に）",
+   "label_en": "once for all (decisive, final)",
+   "label_es": "una vez para siempre (decisivo)",
+   "label_sv": "en gång för alla (avgörande)",
+   "def": "ただ一度で決定的に、一回きりで完了して。『ただ一度、聖徒に伝えられた信仰』『キリストも罪のために一度死なれた』『一度光に照らされ』『ただ一度で』。",
+   "def_en": "Once decisively, completed in a single act: “the faith delivered to the saints only once”, “Christ also died once for sins”, “once enlightened”, “only once”.",
+   "def_es": "De una vez y definitivamente, consumado en un solo acto: «la fe transmitida a los santos una sola vez», «Cristo también murió una vez por los pecados», «una vez iluminados por la luz», «una sola vez».",
+   "def_sv": "En gång avgörande och slutgiltigt: ”den tro som överlämnats åt de heliga bara en gång”, ”Kristus dog också en gång för synder”, ”en gång upplysta av ljuset”, ”bara en gång”.",
+   "layers": {
+    "nt": 6,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "Ⅰペテロ3:18、ユダ3・5、ヘブル6:4・9:28・10:2。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "もう一度（ἔτι ἅπαξ）",
+   "label_en": "once more (ἔτι ἅπαξ)",
+   "label_es": "una vez más (ἔτι ἅπαξ)",
+   "label_sv": "ännu en gång (ἔτι ἅπαξ)",
+   "def": "『もう一度』。",
+   "def_en": "“Once more”.",
+   "def_es": "«Una vez más».",
+   "def_sv": "”Ännu en gång”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ヘブル12:26・12:27（いずれも ἔτι ἅπαξ ＝ ハガイ2:6 の引用）。LXX 代表例に並行。教父の代表例では確認していない。"
+  },
+  {
+   "id": "4",
+   "label": "一度ならず（καὶ ἅπαξ καὶ δίς）",
+   "label_en": "more than once (καὶ ἅπαξ καὶ δίς)",
+   "label_es": "una y otra vez (καὶ ἅπαξ καὶ δίς)",
+   "label_sv": "mer än en gång (καὶ ἅπαξ καὶ δίς)",
+   "def": "『一度ならず二度までも』。",
+   "def_en": "“Not just once but twice”.",
+   "def_es": "«No una vez sino dos».",
+   "def_sv": "”Både en och två gånger”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "ピリピ4:16、Ⅰテサ2:18。教父（53.3）に並行。LXX の代表例では確認していない。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n47011025003": "1",
+  "n50004016006": "4",
+  "n52002018010": "4",
+  "n58006004004": "2",
+  "n58009007005": "1",
+  "n58009026011": "1",
+  "n58009027007": "1",
+  "n58009028005": "2",
+  "n58010002015": "2",
+  "n58012026013": "3",
+  "n58012027004": "3",
+  "n60003018004": "2",
+  "n65001003019": "2",
+  "n65001005007": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（一回／最終的／もう一度／再三）による。"
+}
