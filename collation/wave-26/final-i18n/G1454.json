@@ -1,0 +1,29 @@
+{
+  "strong": "G1454",
+  "lemma": "ἔγερσις",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "よみがえり",
+      "def_ja": "よみがえり、起き上がること。『イエスの復活の後に』。LXX の代表例は『起き上がること』の用法で、復活の用法は確認していない。",
+      "label_en": "resurrection",
+      "def_en": "A rising again, a getting up.",
+      "label_es": "resurrección",
+      "def_es": "Resurgimiento, el levantarse.",
+      "label_sv": "uppståndelse",
+      "def_sv": "Att uppstå, att resa sig.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "マタイ27:53。用例は新約のみ。語義は新約の文脈から立てた。LXX の代表例は別用法。単一語義。"
+    }
+  ],
+  "assignments": {
+    "MAT 27:53": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

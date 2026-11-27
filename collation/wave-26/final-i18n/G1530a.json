@@ -1,0 +1,29 @@
+{
+  "strong": "G1530a",
+  "lemma": "ἐκπηδάω",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "飛び出す",
+      "def_ja": "飛び出す、駆け出す。『群衆の中に駆け込み』。",
+      "label_en": "to rush out",
+      "def_en": "To leap out, to run forth.",
+      "label_es": "lanzarse",
+      "def_es": "Salir de un salto, echar a correr.",
+      "label_sv": "rusa ut",
+      "def_sv": "Att störta fram, att springa iväg.",
+      "layers": {
+        "nt": 1,
+        "lxx": "none",
+        "fathers": "none"
+      },
+      "note": "使徒14:14。用例は新約のみ。語義は新約の文脈から立てた。パケットの mapping_note のとおり、番号 G1530 を共有していたため別項目にした。層の用例は切り分けていないため新約のみとして扱う。単一語義。"
+    }
+  ],
+  "assignments": {
+    "ACT 14:14": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

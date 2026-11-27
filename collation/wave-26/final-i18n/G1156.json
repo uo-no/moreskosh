@@ -1,0 +1,29 @@
+{
+  "strong": "G1156",
+  "lemma": "δάνειον",
+  "status": "拡張照合・確定",
+  "senses": [
+    {
+      "n": 1,
+      "label_ja": "貸付",
+      "def_ja": "貸付、借金。『その借金を免除した』。",
+      "label_en": "loan",
+      "def_en": "A loan, a debt.",
+      "label_es": "préstamo",
+      "def_es": "Préstamo, deuda.",
+      "label_sv": "lån",
+      "def_sv": "Ett lån, en skuld.",
+      "layers": {
+        "nt": 1,
+        "lxx": "attested",
+        "fathers": "none"
+      },
+      "note": "マタイ18:27。LXX に並行、教父の用例なし。単一語義。"
+    }
+  ],
+  "assignments": {
+    "MAT 18:27": 1
+  },
+  "unresolved": [],
+  "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}
