@@ -24,11 +24,12 @@ if (process.argv.includes('--check')) {
     const d = JSON.parse(fs.readFileSync(f, 'utf8'));
     const t = target.items.find((e) => e.lemmaId === id).total;
     const sum = d.identifications.reduce((s, x) => s + x.count, 0);
-    const ok = sum === d.total && d.total === t && d.identifications.every((x) => x.count > 0 && x.refs.length > 0);
+    const rolesOk = d.identifications.every((x) => !x.roles || (x.roles.length >= 2 && x.roles.reduce((a, r) => a + r.count, 0) === x.count && x.roles.every((r) => r.count > 0 && r.refs.length > 0)));
+    const ok = sum === d.total && d.total === t && rolesOk && d.identifications.every((x) => x.count > 0 && x.refs.length > 0);
     console.log(`${ok ? 'OK' : 'NG'} ${id.padEnd(10)} ${d.lemma}\ttotal=${d.total} sum=${sum} ids=${d.identifications.length}`);
     if (!ok) bad++;
   }
-  console.log(bad ? `CHECK: ${bad} 件 NG` : `CHECK: ${pilotIds.length} レンマすべて count 合計＝total`);
+  console.log(bad ? `CHECK: ${bad} 件 NG` : `CHECK: ${pilotIds.length} レンマすべて count 合計＝total（役割の内訳も合計＝人物の count）`);
   process.exit(bad ? 1 : 0);
 }
 
@@ -73,8 +74,15 @@ for (const lemmaId of pilotIds) {
   const perVerse = new Map();
   for (const t of toks) perVerse.set(t.ref, (perVerse.get(t.ref) || 0) + 1);
   const assigned = new Array(toks.length).fill(null);
+  const roleOf = new Array(toks.length).fill(null); // 役割の内訳がある人物のとき、何番目の役割か
+  const units = []; // [k, roleIdx|null, refs]
   j.ids.forEach((idDef, k) => {
-    for (const r of idDef.refs || []) {
+    if (idDef.roles && idDef.refs) errs.push(`${lemmaId}: 対象 ${k + 1} に refs と roles が両方ある`);
+    if (idDef.roles) idDef.roles.forEach((ro, ri) => units.push([k, ri, ro.refs || []]));
+    else units.push([k, null, idDef.refs || []]);
+  });
+  units.forEach(([k, ri, unitRefs]) => {
+    for (const r of unitRefs) {
       const m = /^(\S+ \d+:\d+)(?:#(\d+))?$/.exec(r);
       if (!m) { errs.push(`${lemmaId}: ref の形が不正 ${r}`); continue; }
       const [, ref, occ] = m;
@@ -84,6 +92,7 @@ for (const lemmaId of pilotIds) {
       for (const [, i] of hits) {
         if (assigned[i] !== null) errs.push(`${lemmaId}: ${r} が二重に割り当てられている`);
         assigned[i] = k;
+        roleOf[i] = ri;
       }
     }
   });
@@ -98,7 +107,18 @@ for (const lemmaId of pilotIds) {
 
   const identifications = j.ids.map((idDef, k) => {
     const mine = toks.filter((_, i) => assigned[i] === k);
-    return { id: String(k + 1), label_ja: idDef.label, count: mine.length, refs: [...new Set(mine.map((t) => t.ref))].sort(byRef) };
+    const out = { id: String(k + 1), label_ja: idDef.label, count: mine.length, refs: [...new Set(mine.map((t) => t.ref))].sort(byRef) };
+    if (idDef.roles) {
+      out.roles = idDef.roles.map((ro, ri) => {
+        const rm = toks.filter((_, i) => assigned[i] === k && roleOf[i] === ri);
+        if (!rm.length) errs.push(`${lemmaId}: 役割 ${k + 1}.${ri + 1}「${ro.label}」に割り当てがない`);
+        return { id: `${k + 1}.${ri + 1}`, label_ja: ro.label, count: rm.length, refs: [...new Set(rm.map((t) => t.ref))].sort(byRef) };
+      });
+      const rs = out.roles.reduce((a, x) => a + x.count, 0);
+      if (rs !== out.count) errs.push(`${lemmaId}: 対象 ${k + 1} の役割の count 合計 ${rs} ≠ ${out.count}`);
+      if (out.roles.length < 2) errs.push(`${lemmaId}: 対象 ${k + 1} の roles は2つ以上で使う`);
+    }
+    return out;
   });
   for (const x of identifications) if (!x.count) errs.push(`${lemmaId}: 対象 ${x.id}「${x.label_ja}」に割り当てがない`);
 
@@ -109,6 +129,7 @@ for (const lemmaId of pilotIds) {
            その形の出現回数が節内のトークン数以上（＝どのトークンもその形で訳されている）
      確認元ごとに、裏づけの取れた形をすべて集める（同じ訳の中で形が揺れていれば両方載る）。 */
   const candsAll = R.CANDIDATES[lemmaId] || [];
+  if (candsAll.length !== j.ids.length) errs.push(`${lemmaId}: 表記候補（renderings-ja.cjs）の数 ${candsAll.length} が同定の数 ${j.ids.length} と合わない`);
   identifications.forEach((x, k) => {
     const found = new Map(); // form → Map(sourceLabel → checked_in)
     for (const def of Object.values(R.SOURCES)) {
@@ -143,7 +164,7 @@ for (const lemmaId of pilotIds) {
       const m = /^(\S+ \d+:\d+)(?:#(\d+))?$/.exec(r);
       const i = toks.findIndex((t) => t.ref === m[1] && (!m[2] || t.occ === +m[2]));
       if (i < 0) { errs.push(`${lemmaId}: flag の ${r} に該当トークンがない`); return null; }
-      return String(assigned[i] + 1);
+      return String(assigned[i] + 1) + (roleOf[i] !== null ? '.' + (roleOf[i] + 1) : '');
     }).filter(Boolean))];
     return { refs: refs[0] === '*' ? ['（全体）'] : refs, assigned_to: to, reason_ja: f.reason };
   });
