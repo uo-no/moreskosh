@@ -1,11 +1,11 @@
-# scripts/build-igsd-index.cjs — IGSD 索引ビルド
+# scripts/build-igsd-index.cjs — NGSD 索引ビルド
 
 > 対象：`scripts/build-igsd-index.cjs`（見出し語単位のデータ形式〈`strongs` 配列〉に対応した版）。
 > `scripts/README.md`（scripts 全体の運用ガイド）とは別の、このスクリプト専用の説明。
 
 ## 1. 何をするか
 
-IGSD の lemma 正本データ `public/assets/data/igsd/lemmas/*.json`（1ファイル = 1見出し語）を集約し、次の2ファイルを生成する。
+NGSD の lemma 正本データ `public/assets/data/igsd/lemmas/*.json`（1ファイル = 1見出し語）を集約し、次の2ファイルを生成する。
 
 | 出力 | 内容 |
 | --- | --- |
