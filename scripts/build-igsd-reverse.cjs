@@ -93,7 +93,7 @@ function build() {
   }
   const result = {}, cand = [];
   for (const lang of Object.keys(LANGS)) {
-    const heads = {};
+    const heads = Object.create(null); // "constructor" 等の語が継承プロパティに当たらないように
     for (const e of idx) for (const s of e.senses) {
       const { tokens, qualifier } = parse(s[LANGS[lang].key], lang);
       for (const t of tokens) {
@@ -110,8 +110,7 @@ function build() {
         }
       }
     }
-    const sorted = {};
-    for (const k of Object.keys(heads).sort()) sorted[k] = heads[k];
+    const sorted = Object.fromEntries(Object.keys(heads).sort().map((k) => [k, heads[k]]));
     const aliases = {}, stemAliases = {};
     if (lang === "ja") {
       for (const a of ["憐れみ", "哀れみ"]) aliases[a] = "あわれみ";
@@ -124,7 +123,7 @@ function build() {
       for (const v of Object.keys(stemAliases)) stemAliases[v].sort();
     }
     const sortObj = (o) => Object.fromEntries(Object.keys(o).sort().map((k) => [k, o[k]]));
-    result[lang] = { generated: date, scope: "final482", headwords: sorted, aliases, stemAliases: sortObj(stemAliases) };
+    result[lang] = { generated: date, scope: "final", headwords: sorted, aliases, stemAliases: sortObj(stemAliases) };
     if (lang !== "ja") result[lang].wordAliases = buildWordAliases(sorted, lang);
   }
   // 方式B 候補（JA のみ）
@@ -139,7 +138,7 @@ function build() {
   const seen = new Set();
   const cl = cand.filter((c) => { const k = JSON.stringify(c); if (seen.has(k)) return false; seen.add(k); return true; });
   cl.sort((a, b) => (a.candidate < b.candidate ? -1 : a.candidate > b.candidate ? 1 : a.strong < b.strong ? -1 : a.strong > b.strong ? 1 : a.sense.localeCompare(b.sense, "en", { numeric: true })));
-  return { idx, result, candidates: { generated: date, scope: "final482", note: "編者の確定待ちリスト。UI・公開索引から参照しない", candidates: cl } };
+  return { idx, result, candidates: { generated: date, scope: "final", note: "編者の確定待ちリスト。UI・公開索引から参照しない", candidates: cl } };
 }
 
 function verify({ idx, result }) {
