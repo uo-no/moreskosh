@@ -74,8 +74,12 @@ const STAGEB_BASELINE = {
     // changed 39671→39592（−79）/ identical 98070→98149（+79）。Tier 0/1（Engine 出力 = SSOT）は
     // NT 全 137,741 トークンで byte 等価、bible_data.japanese も不変。PR #967（#196）の寄与は 0。
     // tokens/presented/brokenOld/brokenNew/panelMismatch は不変。
-    changed:        39592,   // 2026-11-21 baseline refresh（PR #920 / #146 の旧経路 part-perf、-79）
-    identical:      98149,
+    // 2026-11-28 baseline refresh: PR #1050（bible_data 誤配当の修正）で JAS 5:4 の
+    // ἀφυστερημένος を G650a（ἀφυστερέω）へ付け替えた結果、新経路の受け身グロスが
+    // 正常化した1件のみが差分（「支払いを怠てきた」→「支払いを怠られてきた」）。
+    // changed 39592→39593（+1）/ identical 98149→98148（−1）。他の基準値は不変。
+    changed:        39593,   // 2026-11-28 baseline refresh（PR #1050 の JAS 5:4 付け替え、+1）
+    identical:      98148,
     brokenOld:       1245,   // 旧経路の破損形（参考記録）
     brokenNew:          0,   // 新経路の破損形は常に 0
     panelMismatch:      0,   // chip ⇔ StudyPanel 不一致は常に 0（SSOT）
