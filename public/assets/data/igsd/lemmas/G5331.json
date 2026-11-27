@@ -1,5 +1,5 @@
 {
- "lemma": "φάρμακον",
+ "lemma": "φαρμακεία",
  "lemmaId": "grc:G5331",
  "strong": "G5331",
  "status": "final",
@@ -8,38 +8,27 @@
  "senses": [
   {
    "id": "1",
-   "label": "薬・魔術に用いる薬",
-   "label_en": "drug, sorcery",
-   "label_es": "hechicería, droga",
-   "label_sv": "trolldom, trolldryck",
-   "def": "薬、魔術に用いる薬。『魔術』（黙示録9:21）。ガラテヤ5:20・黙示録18:23 の φαρμακεία は別レンマの疑いがあり未割当て。",
-   "def_en": "A drug, especially one used in magic: “sorceries” (Rev 9:21). φαρμακεία in Galatians 5:20 and Revelation 18:23 may be a separate lemma and is left unassigned.",
-   "def_es": "Droga, la usada en artes mágicas: «hechicerías» (Apocalipsis 9:21). φαρμακεία en Gálatas 5:20 y Apocalipsis 18:23 se sospecha que es otro lema y queda sin asignar.",
-   "def_sv": "Drog, brygd som används i magi: ”trolldom” (Uppenbarelseboken 9:21). φαρμακεία i Galaterbrevet 5:20 och Uppenbarelseboken 18:23 misstänks vara ett annat lemma och har inte förts hit.",
+   "label": "魔術",
+   "label_en": "sorcery",
+   "label_es": "hechicería",
+   "label_sv": "trolldom",
+   "def": "魔術、呪術。『魔術』（2回）。パケットの mapping_note のとおり、層の用例は G5331 の抽出に含まれず、新約のみ。",
+   "def_en": "Magic, sorcery: “sorcery” (twice). As stated in the packet’s mapping_note, the examples for the layers are not included in the extraction for G5331; New Testament only.",
+   "def_es": "Magia, brujería: «hechicería» (dos veces). Según la mapping_note del paquete, los casos de las capas no se incluyen en la extracción de G5331; solo Nuevo Testamento.",
+   "def_sv": "Magi, häxkonster: ”trolldom” (två gånger). Enligt materialets mapping_note ingår skiktens belägg inte i utdraget för G5331; endast Nya testamentet.",
    "layers": {
-    "nt": 1,
-    "lxx": "attested",
-    "fathers": "attested"
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
    },
-   "note": "黙示録9:21。LXX、教父に並行。"
+   "note": "ガラテヤ5:20、黙示録18:23。LXX・教父の用例なし（パケットの mapping_note による）。単一語義。"
   }
  ],
  "idioms": [],
  "assignments": {
-  "n66009021011": "1"
+  "n48005020002": "1",
+  "n66018023033": "1"
  },
  "unresolved": [],
- "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。",
- "excluded": [
-  {
-   "ref": "GAL 5:20",
-   "form": "φαρμακεία",
-   "reason": "lemma はデータの lemma 欄でも φαρμακεία で別語。φαρμακεία は別項目として本帯の後続ウェーブで扱う。"
-  },
-  {
-   "ref": "REV 18:23",
-   "form": "φαρμακείᾳ",
-   "reason": "lemma はデータの lemma 欄でも φαρμακεία で別語。φαρμακεία は別項目として本帯の後続ウェーブで扱う。"
-  }
- ]
+ "layer_notes": "G5331（φάρμακον）から切り分けた別項目。層の用例はなく新約のみ。"
 }

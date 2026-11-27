@@ -1,0 +1,40 @@
+{
+ "lemma": "διαχλευάζω",
+ "lemmaId": "grc:G5512a",
+ "strong": "G5512a",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "あざける",
+   "label_en": "to mock",
+   "label_es": "burlarse",
+   "label_sv": "att håna",
+   "def": "あざける、嘲笑する。『あざ笑った』『あざけって』。使徒17:32 の語形 ἐχλεύαζον は χλευάζω の語形で見出し語 διαχλευάζω と別レンマの疑いがあり未割当て。",
+   "def_en": "To deride, to scoff: “mocked”, “scoffing”. The form ἐχλεύαζον in Acts 17:32 is a form of χλευάζω, which may be a separate lemma from the headword διαχλευάζω, and is left unassigned.",
+   "def_es": "Mofarse: «se burlaban», «burlándose». La forma ἐχλεύαζον de Hechos 17:32 es de χλευάζω, que se sospecha que es un lema distinto de διαχλευάζω, y queda sin asignar.",
+   "def_sv": "Att göra narr: ”gjorde narr”, ”hånade”. Formen ἐχλεύαζον i Apostlagärningarna 17:32 hör till χλευάζω, som misstänks vara ett annat lemma än uppslagsordet διαχλευάζω, och har inte förts hit.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒2:13。LXX・教父の用例なし。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n44002013003": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。",
+ "excluded": [
+  {
+   "ref": "ACT 17:32",
+   "form": "ἐχλεύαζον",
+   "reason": "形 ἐχλεύαζον の lemma はデータの lemma 欄でも χλευάζω で別語。χλευάζω は頻度1の別項目として扱う。"
+  }
+ ]
+}

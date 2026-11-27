@@ -1,5 +1,5 @@
 {
- "lemma": "δέος",
+ "lemma": "αἰδώς",
  "lemmaId": "grc:G127",
  "strong": "G127",
  "status": "final",
@@ -8,33 +8,26 @@
  "senses": [
   {
    "id": "1",
-   "label": "畏れ",
-   "label_en": "awe, reverence",
-   "label_es": "temor reverente",
-   "label_sv": "vördnadsfull fruktan",
-   "def": "畏れ、畏怖。『恐れかしこみつつ』。テモテ第一2:9 の語形 αἰδοῦς は αἰδώς の語形で別レンマ。",
-   "def_en": "Reverence, awe: “with reverence and awe”. The form αἰδοῦς in 1 Timothy 2:9 is a form of αἰδώς, a separate lemma.",
-   "def_es": "Reverencia, temor: «con temor y reverencia». La forma αἰδοῦς de 1 Timoteo 2:9 es de αἰδώς, otro lema.",
-   "def_sv": "Vördnad, bävan: ”med vördnad och fruktan”. Formen αἰδοῦς i 1 Timotheosbrevet 2:9 hör till αἰδώς, ett annat lemma.",
+   "label": "慎み",
+   "label_en": "modesty",
+   "label_es": "pudor",
+   "label_sv": "blygsamhet",
+   "def": "慎み、恥じらい。『慎みと自制をもって』。",
+   "def_en": "Modesty, a sense of shame: “with modesty and self-restraint”.",
+   "def_es": "Pudor, recato: «con pudor y modestia».",
+   "def_sv": "Blygsamhet, en känsla av skam: ”med blygsamhet och måttfullhet”.",
    "layers": {
     "nt": 1,
-    "lxx": "attested",
+    "lxx": "none",
     "fathers": "none"
    },
-   "note": "ヘブル12:28。LXX に並行。教父の用例なし。"
+   "note": "テモテ第一2:9。用例は新約のみ。語義は新約の文脈から立てた。パケットの mapping_note のとおり、層の用例は共有の抽出から切り分けていないため新約のみとして扱う。単一語義。"
   }
  ],
  "idioms": [],
  "assignments": {
-  "n58012028016": "1"
+  "n54002009008": "1"
  },
  "unresolved": [],
- "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。",
- "excluded": [
-  {
-   "ref": "1TI 2:9",
-   "form": "αἰδοῦς",
-   "reason": "形 αἰδοῦς の lemma は αἰδώς で別語。αἰδώς は頻度1の別項目として扱う。"
-  }
- ]
+ "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
 }

@@ -21757,16 +21757,16 @@
     "strongs": [
       "G127"
     ],
-    "lemma": "δέος",
+    "lemma": "αἰδώς",
     "status": "final",
     "collation": "extended",
     "senses": [
       {
         "id": "1",
-        "label": "畏れ",
-        "label_en": "awe, reverence",
-        "label_es": "temor reverente",
-        "label_sv": "vördnadsfull fruktan",
+        "label": "慎み",
+        "label_en": "modesty",
+        "label_es": "pudor",
+        "label_sv": "blygsamhet",
         "count": 1
       }
     ]
@@ -27220,7 +27220,7 @@
         "label_en": "speculation",
         "label_es": "especulación",
         "label_sv": "grubbel",
-        "count": 0
+        "count": 1
       }
     ]
   },
@@ -78757,7 +78757,7 @@
         "label_en": "first",
         "label_es": "primero",
         "label_sv": "först",
-        "count": 0
+        "count": 1
       }
     ]
   },
@@ -96041,17 +96041,17 @@
     "strongs": [
       "G5331"
     ],
-    "lemma": "φάρμακον",
+    "lemma": "φαρμακεία",
     "status": "final",
     "collation": "extended",
     "senses": [
       {
         "id": "1",
-        "label": "薬・魔術に用いる薬",
-        "label_en": "drug, sorcery",
-        "label_es": "hechicería, droga",
-        "label_sv": "trolldom, trolldryck",
-        "count": 1
+        "label": "魔術",
+        "label_en": "sorcery",
+        "label_es": "hechicería",
+        "label_sv": "trolldom",
+        "count": 2
       }
     ]
   },
@@ -99282,7 +99282,7 @@
     "strongs": [
       "G5512"
     ],
-    "lemma": "διαχλευάζω",
+    "lemma": "χλευάζω",
     "status": "final",
     "collation": "extended",
     "senses": [
@@ -99290,8 +99290,8 @@
         "id": "1",
         "label": "あざける",
         "label_en": "to mock",
-        "label_es": "burlarse",
-        "label_sv": "att håna",
+        "label_es": "mofarse",
+        "label_sv": "gäckas",
         "count": 1
       }
     ]
@@ -109250,6 +109250,367 @@
         "label_es": "hoyo",
         "label_sv": "grop",
         "count": 3
+      }
+    ]
+  },
+  {
+    "strong": "G127a",
+    "strongs": [
+      "G127a"
+    ],
+    "lemma": "δέος",
+    "status": "final",
+    "collation": "extended",
+    "senses": [
+      {
+        "id": "1",
+        "label": "畏れ",
+        "label_en": "awe, reverence",
+        "label_es": "temor reverente",
+        "label_sv": "vördnadsfull fruktan",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "strong": "G1831a",
+    "strongs": [
+      "G1831a"
+    ],
+    "lemma": "ἐκβαίνω",
+    "status": "final",
+    "collation": "extended",
+    "senses": [
+      {
+        "id": "1",
+        "label": "出て行く",
+        "label_en": "to go out",
+        "label_es": "salir",
+        "label_sv": "gå ut",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "strong": "G2127a",
+    "strongs": [
+      "G2127a"
+    ],
+    "lemma": "κατευλογέω",
+    "status": "final",
+    "collation": "extended",
+    "senses": [
+      {
+        "id": "1",
+        "label": "祝福する",
+        "label_en": "to bless",
+        "label_es": "bendecir",
+        "label_sv": "välsigna",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "strong": "G2296a",
+    "strongs": [
+      "G2296a"
+    ],
+    "lemma": "ἐκθαυμάζω",
+    "status": "final",
+    "collation": "extended",
+    "senses": [
+      {
+        "id": "1",
+        "label": "非常に驚く",
+        "label_en": "to be amazed",
+        "label_es": "asombrarse mucho",
+        "label_sv": "förundra sig storligen",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "strong": "G2730a",
+    "strongs": [
+      "G2730a"
+    ],
+    "lemma": "κατοικίζω",
+    "status": "final",
+    "collation": "extended",
+    "senses": [
+      {
+        "id": "1",
+        "label": "住まわせる",
+        "label_en": "to cause to dwell",
+        "label_es": "hacer habitar",
+        "label_sv": "låta bo",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "strong": "G3618a",
+    "strongs": [
+      "G3618a"
+    ],
+    "lemma": "οἰκοδόμος",
+    "status": "final",
+    "collation": "extended",
+    "senses": [
+      {
+        "id": "1",
+        "label": "建築者",
+        "label_en": "builder",
+        "label_es": "constructor",
+        "label_sv": "byggningsman",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "strong": "G3641a",
+    "strongs": [
+      "G3641a"
+    ],
+    "lemma": "ὀλίγως",
+    "status": "final",
+    "collation": "extended",
+    "senses": [
+      {
+        "id": "1",
+        "label": "ほとんど",
+        "label_en": "barely",
+        "label_es": "apenas",
+        "label_sv": "knappt",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "strong": "G3962a",
+    "strongs": [
+      "G3962a"
+    ],
+    "lemma": "προπάτωρ",
+    "status": "final",
+    "collation": "extended",
+    "senses": [
+      {
+        "id": "1",
+        "label": "始祖",
+        "label_en": "forefather",
+        "label_es": "progenitor",
+        "label_sv": "stamfader",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "strong": "G4043a",
+    "strongs": [
+      "G4043a"
+    ],
+    "lemma": "περαιτέρω",
+    "status": "final",
+    "collation": "extended",
+    "senses": [
+      {
+        "id": "1",
+        "label": "さらに",
+        "label_en": "further",
+        "label_es": "más allá",
+        "label_sv": "vidare",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "strong": "G4098a",
+    "strongs": [
+      "G4098a"
+    ],
+    "lemma": "συμπίπτω",
+    "status": "final",
+    "collation": "extended",
+    "senses": [
+      {
+        "id": "1",
+        "label": "崩れる",
+        "label_en": "to collapse",
+        "label_es": "derrumbarse",
+        "label_sv": "störta samman",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "strong": "G4183a",
+    "strongs": [
+      "G4183a"
+    ],
+    "lemma": "πορρώτερον",
+    "status": "final",
+    "collation": "extended",
+    "senses": [
+      {
+        "id": "1",
+        "label": "さらに遠く",
+        "label_en": "farther",
+        "label_es": "más lejos",
+        "label_sv": "längre bort",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "strong": "G450a",
+    "strongs": [
+      "G450a"
+    ],
+    "lemma": "ἀναπηδάω",
+    "status": "final",
+    "collation": "extended",
+    "senses": [
+      {
+        "id": "1",
+        "label": "跳び上がる",
+        "label_en": "to leap up",
+        "label_es": "levantarse de un salto",
+        "label_sv": "springa upp",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "strong": "G4687a",
+    "strongs": [
+      "G4687a"
+    ],
+    "lemma": "ἐπισπείρω",
+    "status": "final",
+    "collation": "extended",
+    "senses": [
+      {
+        "id": "1",
+        "label": "上に蒔く",
+        "label_en": "to sow over",
+        "label_es": "sembrar encima",
+        "label_sv": "så ovanpå",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "strong": "G5154a",
+    "strongs": [
+      "G5154a"
+    ],
+    "lemma": "τρίτον",
+    "status": "final",
+    "collation": "extended",
+    "senses": [
+      {
+        "id": "1",
+        "label": "三度目に",
+        "label_en": "for the third time",
+        "label_es": "por tercera vez",
+        "label_sv": "för tredje gången",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "strong": "G518a",
+    "strongs": [
+      "G518a"
+    ],
+    "lemma": "ἀγγέλλω",
+    "status": "final",
+    "collation": "extended",
+    "senses": [
+      {
+        "id": "1",
+        "label": "告げる",
+        "label_en": "to announce",
+        "label_es": "anunciar",
+        "label_sv": "förkunna",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "strong": "G5331a",
+    "strongs": [
+      "G5331a"
+    ],
+    "lemma": "φάρμακον",
+    "status": "final",
+    "collation": "extended",
+    "senses": [
+      {
+        "id": "1",
+        "label": "薬・魔術に用いる薬",
+        "label_en": "drug, sorcery",
+        "label_es": "hechicería, droga",
+        "label_sv": "trolldom, trolldryck",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "strong": "G5512a",
+    "strongs": [
+      "G5512a"
+    ],
+    "lemma": "διαχλευάζω",
+    "status": "final",
+    "collation": "extended",
+    "senses": [
+      {
+        "id": "1",
+        "label": "あざける",
+        "label_en": "to mock",
+        "label_es": "burlarse",
+        "label_sv": "att håna",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "strong": "G906a",
+    "strongs": [
+      "G906a"
+    ],
+    "lemma": "ἀμφιβάλλω",
+    "status": "final",
+    "collation": "extended",
+    "senses": [
+      {
+        "id": "1",
+        "label": "網を打つ",
+        "label_en": "to cast a net",
+        "label_es": "echar la red",
+        "label_sv": "kasta nät",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "strong": "G987a",
+    "strongs": [
+      "G987a"
+    ],
+    "lemma": "δυσφημέω",
+    "status": "final",
+    "collation": "extended",
+    "senses": [
+      {
+        "id": "1",
+        "label": "悪く言われる",
+        "label_en": "to be slandered",
+        "label_es": "ser difamado",
+        "label_sv": "bli smädad",
+        "count": 1
       }
     ]
   }
