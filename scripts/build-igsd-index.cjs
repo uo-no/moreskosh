@@ -83,6 +83,11 @@ function loadBibleData(bibleDataDir) {
   return { verseIds, byStrong, gidxByVerse };
 }
 
+// 被覆チェックの明示的な例外（strong -> { verseId: 理由 }）。ここに挙げたトークンは被覆すべき対象から外す。
+const COVERAGE_EXEMPT = {
+  G4450: { n44020004005: "ACT 20:4 の Πύρρου は人名 Πύρρος で、辞書見出し πυρρός（赤い）の対象外" },
+};
+
 // 純粋な集約+検証（ファイル出力なし）。{ errors, warnings, index, senseMap } を返す。
 function build(lemmasDir, bibleDataDir) {
   const errors = [];
@@ -90,7 +95,7 @@ function build(lemmasDir, bibleDataDir) {
   const { verseIds, byStrong, gidxByVerse } = loadBibleData(bibleDataDir);
 
   const lemmaFiles = listJsonFiles(lemmasDir).filter((f) =>
-    /^G\d+\.json$/.test(path.basename(f))
+    /^G\d+[a-z]?(\+\d+[a-z]?)*\.json$/.test(path.basename(f))
   );
   const seenVerse = new Map(); // verseId -> strong（重複検出）
   const index = [];
@@ -140,7 +145,8 @@ function build(lemmasDir, bibleDataDir) {
       for (const s of strongs) {
         for (const t of byStrong.get(s) || []) if (t.lemma === want) all.add(t.verseId);
       }
-      const missing = [...all].filter((v) => !(v in assignments));
+      const exempt = COVERAGE_EXEMPT[strong] || {};
+      const missing = [...all].filter((v) => !(v in assignments) && !(v in exempt));
       if (missing.length > 0) {
         warnings.push(
           `${strong} (${lemma}): final だが被覆すべきトークンのうち未割り当てが ${missing.length} 件あるため index では draft に落とす`
@@ -154,6 +160,8 @@ function build(lemmasDir, bibleDataDir) {
       strongs,
       lemma,
       status,
+      // collation（低頻度帯の印）は原データにあるものだけそのまま通す
+      ...(typeof d.collation === "string" && d.collation !== "" ? { collation: d.collation } : {}),
       senses: (d.senses || []).map((s) => {
         const o = { id: s.id, label: s.label };
         // label_en は任意フィールド。原データにあるものだけそのまま通す（補完・推測はしない）
