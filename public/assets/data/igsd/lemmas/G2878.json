@@ -4,7 +4,7 @@
  "strong": "G2878",
  "status": "final",
  "collation": "extended",
- "updated": "2026-11-27",
+ "updated": "2026-11-28",
  "senses": [
   {
    "id": "1",
@@ -21,13 +21,31 @@
     "lxx": "none",
     "fathers": "none"
    },
-   "note": "マタイ27:6。用例は新約のみ。語義は新約の文脈から立てた。単一語義。"
+   "note": "マタイ27:6。用例は新約のみ。語義は新約の文脈から立てた。"
+  },
+  {
+   "id": "2",
+   "label": "神への献げ物",
+   "label_en": "a gift devoted to God",
+   "label_es": "ofrenda consagrada a Dios",
+   "label_sv": "en gåva helgad åt Gud",
+   "def": "神に献げられたものを指すアラム語の音写。『コルバン』（1回）。両親への援助を神への献げ物と宣言して免れる文脈で使われる。",
+   "def_en": "A transliteration of the Aramaic word for what is devoted to God: “Corban” (once). Used where support owed to one's parents is declared a gift to God instead.",
+   "def_es": "Transliteración de la palabra aramea para lo consagrado a Dios: «Corbán» (una vez). Se usa cuando la ayuda debida a los padres se declara ofrenda a Dios.",
+   "def_sv": "En transkription av det arameiska ordet för det som helgats åt Gud: ”korban” (en gång). Används när stöd som tillkommer föräldrarna i stället förklaras vara en gåva till Gud.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マルコ7:11。形は Κορβᾶν で、マタイ27:6 の κορβανᾶς と同じアラム語借用語。Strong 番号 G2878 を共有するため、本項目の語義2として収めた。"
   }
  ],
  "idioms": [],
  "assignments": {
-  "n40027006014": "1"
+  "n40027006014": "1",
+  "n41007011012": "2"
  },
  "unresolved": [],
- "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+ "layer_notes": "語義は新約の文脈から立てた。Κορβᾶν（マルコ7:11）は κορβανᾶς と同じアラム語借用語の別形で、語義2に収めた。"
 }
