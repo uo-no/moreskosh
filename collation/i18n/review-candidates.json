@@ -1,0 +1,1765 @@
+{
+ "note": "引用数スクリーニング候補：def_ja の『』数と訳文の引用数が食い違う (単位, ファイル, 語義番号, 言語, JA引用数, 訳引用数)。各対象は def_<lang> の引用を def_ja の引用と内容・数が一致するよう直す。2026-11-27 ポポ作成。",
+ "candidates": [
+  {
+   "unit": "batch-02",
+   "file": "G3757.json",
+   "sense": 2,
+   "lang": "en",
+   "ja_quotes": 1,
+   "tr_quotes": 0
+  },
+  {
+   "unit": "batch-02",
+   "file": "G3757.json",
+   "sense": 2,
+   "lang": "es",
+   "ja_quotes": 1,
+   "tr_quotes": 0
+  },
+  {
+   "unit": "batch-02",
+   "file": "G3757.json",
+   "sense": 2,
+   "lang": "sv",
+   "ja_quotes": 1,
+   "tr_quotes": 0
+  },
+  {
+   "unit": "batch-02",
+   "file": "G792.json",
+   "sense": 2,
+   "lang": "en",
+   "ja_quotes": 2,
+   "tr_quotes": 3
+  },
+  {
+   "unit": "batch-02",
+   "file": "G792.json",
+   "sense": 2,
+   "lang": "sv",
+   "ja_quotes": 2,
+   "tr_quotes": 3
+  },
+  {
+   "unit": "batch-03",
+   "file": "G2872.json",
+   "sense": 2,
+   "lang": "en",
+   "ja_quotes": 2,
+   "tr_quotes": 1
+  },
+  {
+   "unit": "batch-03",
+   "file": "G2872.json",
+   "sense": 2,
+   "lang": "es",
+   "ja_quotes": 2,
+   "tr_quotes": 1
+  },
+  {
+   "unit": "batch-03",
+   "file": "G2872.json",
+   "sense": 2,
+   "lang": "sv",
+   "ja_quotes": 2,
+   "tr_quotes": 1
+  },
+  {
+   "unit": "wave-01",
+   "file": "G2525.json",
+   "sense": 2,
+   "lang": "en",
+   "ja_quotes": 1,
+   "tr_quotes": 0
+  },
+  {
+   "unit": "wave-01",
+   "file": "G2525.json",
+   "sense": 2,
+   "lang": "es",
+   "ja_quotes": 1,
+   "tr_quotes": 0
+  },
+  {
+   "unit": "wave-01",
+   "file": "G2525.json",
+   "sense": 2,
+   "lang": "sv",
+   "ja_quotes": 1,
+   "tr_quotes": 0
+  },
+  {
+   "unit": "wave-01",
+   "file": "G5025.json",
+   "sense": 2,
+   "lang": "es",
+   "ja_quotes": 1,
+   "tr_quotes": 2
+  },
+  {
+   "unit": "wave-01",
+   "file": "G5118.json",
+   "sense": 4,
+   "lang": "en",
+   "ja_quotes": 1,
+   "tr_quotes": 2
+  },
+  {
+   "unit": "wave-01",
+   "file": "G5118.json",
+   "sense": 4,
+   "lang": "es",
+   "ja_quotes": 1,
+   "tr_quotes": 2
+  },
+  {
+   "unit": "wave-01",
+   "file": "G5118.json",
+   "sense": 4,
+   "lang": "sv",
+   "ja_quotes": 1,
+   "tr_quotes": 2
+  },
+  {
+   "unit": "wave-03",
+   "file": "G2579.json",
+   "sense": 3,
+   "lang": "en",
+   "ja_quotes": 3,
+   "tr_quotes": 4
+  },
+  {
+   "unit": "wave-03",
+   "file": "G2579.json",
+   "sense": 3,
+   "lang": "es",
+   "ja_quotes": 3,
+   "tr_quotes": 4
+  },
+  {
+   "unit": "wave-03",
+   "file": "G2579.json",
+   "sense": 3,
+   "lang": "sv",
+   "ja_quotes": 3,
+   "tr_quotes": 4
+  },
+  {
+   "unit": "wave-03",
+   "file": "G2770.json",
+   "sense": 1,
+   "lang": "en",
+   "ja_quotes": 1,
+   "tr_quotes": 2
+  },
+  {
+   "unit": "wave-03",
+   "file": "G2812.json",
+   "sense": 1,
+   "lang": "en",
+   "ja_quotes": 3,
+   "tr_quotes": 2
+  },
+  {
+   "unit": "wave-03",
+   "file": "G2812.json",
+   "sense": 1,
+   "lang": "es",
+   "ja_quotes": 3,
+   "tr_quotes": 2
+  },
+  {
+   "unit": "wave-03",
+   "file": "G2812.json",
+   "sense": 1,
+   "lang": "sv",
+   "ja_quotes": 3,
+   "tr_quotes": 2
+  },
+  {
+   "unit": "wave-03",
+   "file": "G3385.json",
+   "sense": 3,
+   "lang": "en",
+   "ja_quotes": 3,
+   "tr_quotes": 2
+  },
+  {
+   "unit": "wave-03",
+   "file": "G3385.json",
+   "sense": 3,
+   "lang": "es",
+   "ja_quotes": 3,
+   "tr_quotes": 2
+  },
+  {
+   "unit": "wave-03",
+   "file": "G3385.json",
+   "sense": 3,
+   "lang": "sv",
+   "ja_quotes": 3,
+   "tr_quotes": 2
+  },
+  {
+   "unit": "wave-03",
+   "file": "G3385.json",
+   "sense": 4,
+   "lang": "en",
+   "ja_quotes": 2,
+   "tr_quotes": 1
+  },
+  {
+   "unit": "wave-03",
+   "file": "G3385.json",
+   "sense": 4,
+   "lang": "es",
+   "ja_quotes": 2,
+   "tr_quotes": 1
+  },
+  {
+   "unit": "wave-03",
+   "file": "G3385.json",
+   "sense": 4,
+   "lang": "sv",
+   "ja_quotes": 2,
+   "tr_quotes": 1
+  },
+  {
+   "unit": "wave-03",
+   "file": "G3930.json",
+   "sense": 1,
+   "lang": "es",
+   "ja_quotes": 4,
+   "tr_quotes": 3
+  },
+  {
+   "unit": "wave-03",
+   "file": "G3930.json",
+   "sense": 1,
+   "lang": "sv",
+   "ja_quotes": 4,
+   "tr_quotes": 3
+  },
+  {
+   "unit": "wave-04",
+   "file": "G1623.json",
+   "sense": 3,
+   "lang": "en",
+   "ja_quotes": 3,
+   "tr_quotes": 0
+  },
+  {
+   "unit": "wave-04",
+   "file": "G1623.json",
+   "sense": 3,
+   "lang": "es",
+   "ja_quotes": 3,
+   "tr_quotes": 0
+  },
+  {
+   "unit": "wave-04",
+   "file": "G1623.json",
+   "sense": 3,
+   "lang": "sv",
+   "ja_quotes": 3,
+   "tr_quotes": 0
+  },
+  {
+   "unit": "wave-04",
+   "file": "G2077.json",
+   "sense": 1,
+   "lang": "en",
+   "ja_quotes": 8,
+   "tr_quotes": 7
+  },
+  {
+   "unit": "wave-04",
+   "file": "G2077.json",
+   "sense": 1,
+   "lang": "es",
+   "ja_quotes": 8,
+   "tr_quotes": 7
+  },
+  {
+   "unit": "wave-04",
+   "file": "G2077.json",
+   "sense": 1,
+   "lang": "sv",
+   "ja_quotes": 8,
+   "tr_quotes": 7
+  },
+  {
+   "unit": "wave-04",
+   "file": "G2359.json",
+   "sense": 2,
+   "lang": "en",
+   "ja_quotes": 2,
+   "tr_quotes": 1
+  },
+  {
+   "unit": "wave-04",
+   "file": "G2359.json",
+   "sense": 2,
+   "lang": "es",
+   "ja_quotes": 2,
+   "tr_quotes": 1
+  },
+  {
+   "unit": "wave-04",
+   "file": "G2359.json",
+   "sense": 2,
+   "lang": "sv",
+   "ja_quotes": 2,
+   "tr_quotes": 1
+  },
+  {
+   "unit": "wave-04",
+   "file": "G2806.json",
+   "sense": 1,
+   "lang": "en",
+   "ja_quotes": 5,
+   "tr_quotes": 4
+  },
+  {
+   "unit": "wave-04",
+   "file": "G2806.json",
+   "sense": 1,
+   "lang": "es",
+   "ja_quotes": 5,
+   "tr_quotes": 4
+  },
+  {
+   "unit": "wave-04",
+   "file": "G2806.json",
+   "sense": 1,
+   "lang": "sv",
+   "ja_quotes": 5,
+   "tr_quotes": 4
+  },
+  {
+   "unit": "wave-04",
+   "file": "G458.json",
+   "sense": 2,
+   "lang": "en",
+   "ja_quotes": 2,
+   "tr_quotes": 1
+  },
+  {
+   "unit": "wave-04",
+   "file": "G458.json",
+   "sense": 2,
+   "lang": "es",
+   "ja_quotes": 2,
+   "tr_quotes": 1
+  },
+  {
+   "unit": "wave-04",
+   "file": "G458.json",
+   "sense": 2,
+   "lang": "sv",
+   "ja_quotes": 2,
+   "tr_quotes": 1
+  },
+  {
+   "unit": "wave-04",
+   "file": "G520.json",
+   "sense": 2,
+   "lang": "en",
+   "ja_quotes": 2,
+   "tr_quotes": 0
+  },
+  {
+   "unit": "wave-05",
+   "file": "G3063.json",
+   "sense": 1,
+   "lang": "es",
+   "ja_quotes": 6,
+   "tr_quotes": 5
+  },
+  {
+   "unit": "wave-05",
+   "file": "G3063.json",
+   "sense": 1,
+   "lang": "sv",
+   "ja_quotes": 6,
+   "tr_quotes": 5
+  },
+  {
+   "unit": "wave-05",
+   "file": "G3634.json",
+   "sense": 1,
+   "lang": "sv",
+   "ja_quotes": 6,
+   "tr_quotes": 4
+  },
+  {
+   "unit": "wave-05",
+   "file": "G530.json",
+   "sense": 2,
+   "lang": "en",
+   "ja_quotes": 4,
+   "tr_quotes": 3
+  },
+  {
+   "unit": "wave-05",
+   "file": "G530.json",
+   "sense": 2,
+   "lang": "es",
+   "ja_quotes": 4,
+   "tr_quotes": 3
+  },
+  {
+   "unit": "wave-05",
+   "file": "G530.json",
+   "sense": 2,
+   "lang": "sv",
+   "ja_quotes": 4,
+   "tr_quotes": 3
+  },
+  {
+   "unit": "wave-07",
+   "file": "G5407.json",
+   "sense": 1,
+   "lang": "es",
+   "ja_quotes": 3,
+   "tr_quotes": 2
+  },
+  {
+   "unit": "wave-07",
+   "file": "G5407.json",
+   "sense": 1,
+   "lang": "sv",
+   "ja_quotes": 3,
+   "tr_quotes": 2
+  },
+  {
+   "unit": "wave-08",
+   "file": "G3592.json",
+   "sense": 1,
+   "lang": "es",
+   "ja_quotes": 3,
+   "tr_quotes": 4
+  },
+  {
+   "unit": "wave-09",
+   "file": "G4483.json",
+   "sense": 1,
+   "lang": "sv",
+   "ja_quotes": 5,
+   "tr_quotes": 4
+  },
+  {
+   "unit": "wave-09",
+   "file": "G5583.json",
+   "sense": 1,
+   "lang": "es",
+   "ja_quotes": 7,
+   "tr_quotes": 8
+  },
+  {
+   "unit": "wave-10",
+   "file": "G1557.json",
+   "sense": 3,
+   "lang": "sv",
+   "ja_quotes": 2,
+   "tr_quotes": 1
+  },
+  {
+   "unit": "wave-10",
+   "file": "G2925.json",
+   "sense": 1,
+   "lang": "en",
+   "ja_quotes": 6,
+   "tr_quotes": 5
+  },
+  {
+   "unit": "wave-10",
+   "file": "G2925.json",
+   "sense": 1,
+   "lang": "es",
+   "ja_quotes": 6,
+   "tr_quotes": 5
+  },
+  {
+   "unit": "wave-10",
+   "file": "G2925.json",
+   "sense": 1,
+   "lang": "sv",
+   "ja_quotes": 6,
+   "tr_quotes": 5
+  },
+  {
+   "unit": "wave-12",
+   "file": "G3177.json",
+   "sense": 1,
+   "lang": "es",
+   "ja_quotes": 4,
+   "tr_quotes": 5
+  },
+  {
+   "unit": "wave-12",
+   "file": "G3305.json",
+   "sense": 2,
+   "lang": "en",
+   "ja_quotes": 1,
+   "tr_quotes": 2
+  },
+  {
+   "unit": "wave-12",
+   "file": "G3305.json",
+   "sense": 2,
+   "lang": "es",
+   "ja_quotes": 1,
+   "tr_quotes": 2
+  },
+  {
+   "unit": "wave-12",
+   "file": "G3305.json",
+   "sense": 2,
+   "lang": "sv",
+   "ja_quotes": 1,
+   "tr_quotes": 2
+  },
+  {
+   "unit": "wave-12",
+   "file": "G3843.json",
+   "sense": 1,
+   "lang": "en",
+   "ja_quotes": 3,
+   "tr_quotes": 5
+  },
+  {
+   "unit": "wave-12",
+   "file": "G3843.json",
+   "sense": 1,
+   "lang": "es",
+   "ja_quotes": 3,
+   "tr_quotes": 5
+  },
+  {
+   "unit": "wave-12",
+   "file": "G3843.json",
+   "sense": 1,
+   "lang": "sv",
+   "ja_quotes": 3,
+   "tr_quotes": 5
+  },
+  {
+   "unit": "wave-12",
+   "file": "G4416.json",
+   "sense": 2,
+   "lang": "en",
+   "ja_quotes": 5,
+   "tr_quotes": 6
+  },
+  {
+   "unit": "wave-12",
+   "file": "G4416.json",
+   "sense": 2,
+   "lang": "es",
+   "ja_quotes": 5,
+   "tr_quotes": 6
+  },
+  {
+   "unit": "wave-12",
+   "file": "G4416.json",
+   "sense": 2,
+   "lang": "sv",
+   "ja_quotes": 5,
+   "tr_quotes": 6
+  },
+  {
+   "unit": "wave-12",
+   "file": "G5034.json",
+   "sense": 1,
+   "lang": "en",
+   "ja_quotes": 7,
+   "tr_quotes": 9
+  },
+  {
+   "unit": "wave-12",
+   "file": "G5034.json",
+   "sense": 1,
+   "lang": "es",
+   "ja_quotes": 7,
+   "tr_quotes": 9
+  },
+  {
+   "unit": "wave-12",
+   "file": "G5034.json",
+   "sense": 1,
+   "lang": "sv",
+   "ja_quotes": 7,
+   "tr_quotes": 9
+  },
+  {
+   "unit": "wave-13",
+   "file": "G1030.json",
+   "sense": 1,
+   "lang": "en",
+   "ja_quotes": 1,
+   "tr_quotes": 2
+  },
+  {
+   "unit": "wave-13",
+   "file": "G1030.json",
+   "sense": 1,
+   "lang": "es",
+   "ja_quotes": 1,
+   "tr_quotes": 2
+  },
+  {
+   "unit": "wave-13",
+   "file": "G1030.json",
+   "sense": 1,
+   "lang": "sv",
+   "ja_quotes": 1,
+   "tr_quotes": 2
+  },
+  {
+   "unit": "wave-13",
+   "file": "G1988.json",
+   "sense": 1,
+   "lang": "en",
+   "ja_quotes": 6,
+   "tr_quotes": 7
+  },
+  {
+   "unit": "wave-13",
+   "file": "G1988.json",
+   "sense": 1,
+   "lang": "es",
+   "ja_quotes": 6,
+   "tr_quotes": 7
+  },
+  {
+   "unit": "wave-13",
+   "file": "G1988.json",
+   "sense": 1,
+   "lang": "sv",
+   "ja_quotes": 6,
+   "tr_quotes": 7
+  },
+  {
+   "unit": "wave-13",
+   "file": "G2123.json",
+   "sense": 1,
+   "lang": "en",
+   "ja_quotes": 3,
+   "tr_quotes": 5
+  },
+  {
+   "unit": "wave-13",
+   "file": "G2123.json",
+   "sense": 1,
+   "lang": "es",
+   "ja_quotes": 3,
+   "tr_quotes": 5
+  },
+  {
+   "unit": "wave-13",
+   "file": "G2123.json",
+   "sense": 1,
+   "lang": "sv",
+   "ja_quotes": 3,
+   "tr_quotes": 5
+  },
+  {
+   "unit": "wave-15",
+   "file": "G1733.json",
+   "sense": 1,
+   "lang": "en",
+   "ja_quotes": 6,
+   "tr_quotes": 7
+  },
+  {
+   "unit": "wave-15",
+   "file": "G1733.json",
+   "sense": 1,
+   "lang": "es",
+   "ja_quotes": 6,
+   "tr_quotes": 7
+  },
+  {
+   "unit": "wave-15",
+   "file": "G1733.json",
+   "sense": 1,
+   "lang": "sv",
+   "ja_quotes": 6,
+   "tr_quotes": 7
+  },
+  {
+   "unit": "wave-15",
+   "file": "G1762.json",
+   "sense": 1,
+   "lang": "en",
+   "ja_quotes": 4,
+   "tr_quotes": 6
+  },
+  {
+   "unit": "wave-15",
+   "file": "G1762.json",
+   "sense": 1,
+   "lang": "es",
+   "ja_quotes": 4,
+   "tr_quotes": 6
+  },
+  {
+   "unit": "wave-15",
+   "file": "G1762.json",
+   "sense": 1,
+   "lang": "sv",
+   "ja_quotes": 4,
+   "tr_quotes": 6
+  },
+  {
+   "unit": "wave-15",
+   "file": "G2444.json",
+   "sense": 1,
+   "lang": "en",
+   "ja_quotes": 6,
+   "tr_quotes": 8
+  },
+  {
+   "unit": "wave-15",
+   "file": "G2444.json",
+   "sense": 1,
+   "lang": "es",
+   "ja_quotes": 6,
+   "tr_quotes": 8
+  },
+  {
+   "unit": "wave-15",
+   "file": "G2444.json",
+   "sense": 1,
+   "lang": "sv",
+   "ja_quotes": 6,
+   "tr_quotes": 8
+  },
+  {
+   "unit": "wave-15",
+   "file": "G3316.json",
+   "sense": 1,
+   "lang": "en",
+   "ja_quotes": 6,
+   "tr_quotes": 7
+  },
+  {
+   "unit": "wave-15",
+   "file": "G3316.json",
+   "sense": 1,
+   "lang": "es",
+   "ja_quotes": 6,
+   "tr_quotes": 7
+  },
+  {
+   "unit": "wave-15",
+   "file": "G3316.json",
+   "sense": 1,
+   "lang": "sv",
+   "ja_quotes": 6,
+   "tr_quotes": 7
+  },
+  {
+   "unit": "wave-16",
+   "file": "G3677.json",
+   "sense": 1,
+   "lang": "en",
+   "ja_quotes": 6,
+   "tr_quotes": 7
+  },
+  {
+   "unit": "wave-16",
+   "file": "G3677.json",
+   "sense": 1,
+   "lang": "es",
+   "ja_quotes": 6,
+   "tr_quotes": 7
+  },
+  {
+   "unit": "wave-16",
+   "file": "G3677.json",
+   "sense": 1,
+   "lang": "sv",
+   "ja_quotes": 6,
+   "tr_quotes": 7
+  },
+  {
+   "unit": "wave-16",
+   "file": "G4455.json",
+   "sense": 1,
+   "lang": "en",
+   "ja_quotes": 6,
+   "tr_quotes": 7
+  },
+  {
+   "unit": "wave-16",
+   "file": "G4455.json",
+   "sense": 1,
+   "lang": "es",
+   "ja_quotes": 6,
+   "tr_quotes": 7
+  },
+  {
+   "unit": "wave-16",
+   "file": "G4455.json",
+   "sense": 1,
+   "lang": "sv",
+   "ja_quotes": 6,
+   "tr_quotes": 7
+  },
+  {
+   "unit": "wave-16",
+   "file": "G4645.json",
+   "sense": 1,
+   "lang": "en",
+   "ja_quotes": 4,
+   "tr_quotes": 5
+  },
+  {
+   "unit": "wave-16",
+   "file": "G4645.json",
+   "sense": 1,
+   "lang": "es",
+   "ja_quotes": 4,
+   "tr_quotes": 5
+  },
+  {
+   "unit": "wave-16",
+   "file": "G4645.json",
+   "sense": 1,
+   "lang": "sv",
+   "ja_quotes": 4,
+   "tr_quotes": 5
+  },
+  {
+   "unit": "wave-16",
+   "file": "G4692.json",
+   "sense": 1,
+   "lang": "en",
+   "ja_quotes": 6,
+   "tr_quotes": 7
+  },
+  {
+   "unit": "wave-16",
+   "file": "G4692.json",
+   "sense": 1,
+   "lang": "es",
+   "ja_quotes": 6,
+   "tr_quotes": 7
+  },
+  {
+   "unit": "wave-16",
+   "file": "G4692.json",
+   "sense": 1,
+   "lang": "sv",
+   "ja_quotes": 6,
+   "tr_quotes": 7
+  },
+  {
+   "unit": "wave-16",
+   "file": "G4703.json",
+   "sense": 2,
+   "lang": "en",
+   "ja_quotes": 1,
+   "tr_quotes": 2
+  },
+  {
+   "unit": "wave-16",
+   "file": "G4703.json",
+   "sense": 2,
+   "lang": "es",
+   "ja_quotes": 1,
+   "tr_quotes": 2
+  },
+  {
+   "unit": "wave-16",
+   "file": "G4703.json",
+   "sense": 2,
+   "lang": "sv",
+   "ja_quotes": 1,
+   "tr_quotes": 2
+  },
+  {
+   "unit": "wave-16",
+   "file": "G4727.json",
+   "sense": 1,
+   "lang": "en",
+   "ja_quotes": 6,
+   "tr_quotes": 8
+  },
+  {
+   "unit": "wave-16",
+   "file": "G4727.json",
+   "sense": 1,
+   "lang": "es",
+   "ja_quotes": 6,
+   "tr_quotes": 8
+  },
+  {
+   "unit": "wave-16",
+   "file": "G4727.json",
+   "sense": 1,
+   "lang": "sv",
+   "ja_quotes": 6,
+   "tr_quotes": 8
+  },
+  {
+   "unit": "wave-16",
+   "file": "G4930.json",
+   "sense": 1,
+   "lang": "en",
+   "ja_quotes": 6,
+   "tr_quotes": 8
+  },
+  {
+   "unit": "wave-16",
+   "file": "G4930.json",
+   "sense": 1,
+   "lang": "es",
+   "ja_quotes": 6,
+   "tr_quotes": 8
+  },
+  {
+   "unit": "wave-16",
+   "file": "G4930.json",
+   "sense": 1,
+   "lang": "sv",
+   "ja_quotes": 6,
+   "tr_quotes": 8
+  },
+  {
+   "unit": "wave-17",
+   "file": "G5176.json",
+   "sense": 1,
+   "lang": "en",
+   "ja_quotes": 5,
+   "tr_quotes": 6
+  },
+  {
+   "unit": "wave-17",
+   "file": "G5176.json",
+   "sense": 1,
+   "lang": "es",
+   "ja_quotes": 5,
+   "tr_quotes": 6
+  },
+  {
+   "unit": "wave-17",
+   "file": "G5176.json",
+   "sense": 1,
+   "lang": "sv",
+   "ja_quotes": 5,
+   "tr_quotes": 6
+  },
+  {
+   "unit": "wave-17",
+   "file": "G5614.json",
+   "sense": 1,
+   "lang": "en",
+   "ja_quotes": 3,
+   "tr_quotes": 4
+  },
+  {
+   "unit": "wave-17",
+   "file": "G5614.json",
+   "sense": 1,
+   "lang": "es",
+   "ja_quotes": 3,
+   "tr_quotes": 4
+  },
+  {
+   "unit": "wave-17",
+   "file": "G5614.json",
+   "sense": 1,
+   "lang": "sv",
+   "ja_quotes": 3,
+   "tr_quotes": 4
+  },
+  {
+   "unit": "wave-18",
+   "file": "G105.json",
+   "sense": 1,
+   "lang": "en",
+   "ja_quotes": 4,
+   "tr_quotes": 5
+  },
+  {
+   "unit": "wave-18",
+   "file": "G105.json",
+   "sense": 1,
+   "lang": "es",
+   "ja_quotes": 4,
+   "tr_quotes": 5
+  },
+  {
+   "unit": "wave-18",
+   "file": "G105.json",
+   "sense": 1,
+   "lang": "sv",
+   "ja_quotes": 4,
+   "tr_quotes": 5
+  },
+  {
+   "unit": "wave-18",
+   "file": "G1211.json",
+   "sense": 1,
+   "lang": "en",
+   "ja_quotes": 5,
+   "tr_quotes": 8
+  },
+  {
+   "unit": "wave-18",
+   "file": "G1211.json",
+   "sense": 1,
+   "lang": "es",
+   "ja_quotes": 5,
+   "tr_quotes": 8
+  },
+  {
+   "unit": "wave-18",
+   "file": "G1211.json",
+   "sense": 1,
+   "lang": "sv",
+   "ja_quotes": 5,
+   "tr_quotes": 8
+  },
+  {
+   "unit": "wave-18",
+   "file": "G1836.json",
+   "sense": 1,
+   "lang": "en",
+   "ja_quotes": 4,
+   "tr_quotes": 5
+  },
+  {
+   "unit": "wave-18",
+   "file": "G1836.json",
+   "sense": 1,
+   "lang": "es",
+   "ja_quotes": 4,
+   "tr_quotes": 5
+  },
+  {
+   "unit": "wave-18",
+   "file": "G1836.json",
+   "sense": 1,
+   "lang": "sv",
+   "ja_quotes": 4,
+   "tr_quotes": 5
+  },
+  {
+   "unit": "wave-18",
+   "file": "G1924.json",
+   "sense": 1,
+   "lang": "en",
+   "ja_quotes": 3,
+   "tr_quotes": 4
+  },
+  {
+   "unit": "wave-18",
+   "file": "G1924.json",
+   "sense": 1,
+   "lang": "sv",
+   "ja_quotes": 3,
+   "tr_quotes": 4
+  },
+  {
+   "unit": "wave-18",
+   "file": "G1966.json",
+   "sense": 1,
+   "lang": "en",
+   "ja_quotes": 5,
+   "tr_quotes": 6
+  },
+  {
+   "unit": "wave-18",
+   "file": "G1966.json",
+   "sense": 1,
+   "lang": "es",
+   "ja_quotes": 5,
+   "tr_quotes": 6
+  },
+  {
+   "unit": "wave-18",
+   "file": "G1966.json",
+   "sense": 1,
+   "lang": "sv",
+   "ja_quotes": 5,
+   "tr_quotes": 6
+  },
+  {
+   "unit": "wave-18",
+   "file": "G2468.json",
+   "sense": 1,
+   "lang": "en",
+   "ja_quotes": 5,
+   "tr_quotes": 7
+  },
+  {
+   "unit": "wave-18",
+   "file": "G2468.json",
+   "sense": 1,
+   "lang": "es",
+   "ja_quotes": 5,
+   "tr_quotes": 7
+  },
+  {
+   "unit": "wave-18",
+   "file": "G2468.json",
+   "sense": 1,
+   "lang": "sv",
+   "ja_quotes": 5,
+   "tr_quotes": 7
+  },
+  {
+   "unit": "wave-18",
+   "file": "G2852.json",
+   "sense": 1,
+   "lang": "en",
+   "ja_quotes": 5,
+   "tr_quotes": 6
+  },
+  {
+   "unit": "wave-18",
+   "file": "G2852.json",
+   "sense": 1,
+   "lang": "es",
+   "ja_quotes": 5,
+   "tr_quotes": 6
+  },
+  {
+   "unit": "wave-18",
+   "file": "G2852.json",
+   "sense": 1,
+   "lang": "sv",
+   "ja_quotes": 5,
+   "tr_quotes": 6
+  },
+  {
+   "unit": "wave-18",
+   "file": "G3755.json",
+   "sense": 1,
+   "lang": "en",
+   "ja_quotes": 5,
+   "tr_quotes": 7
+  },
+  {
+   "unit": "wave-18",
+   "file": "G3755.json",
+   "sense": 1,
+   "lang": "es",
+   "ja_quotes": 5,
+   "tr_quotes": 7
+  },
+  {
+   "unit": "wave-18",
+   "file": "G3755.json",
+   "sense": 1,
+   "lang": "sv",
+   "ja_quotes": 5,
+   "tr_quotes": 7
+  },
+  {
+   "unit": "wave-18",
+   "file": "G3875.json",
+   "sense": 2,
+   "lang": "en",
+   "ja_quotes": 4,
+   "tr_quotes": 5
+  },
+  {
+   "unit": "wave-18",
+   "file": "G3875.json",
+   "sense": 2,
+   "lang": "es",
+   "ja_quotes": 4,
+   "tr_quotes": 5
+  },
+  {
+   "unit": "wave-18",
+   "file": "G3875.json",
+   "sense": 2,
+   "lang": "sv",
+   "ja_quotes": 4,
+   "tr_quotes": 5
+  },
+  {
+   "unit": "wave-18",
+   "file": "G4108.json",
+   "sense": 1,
+   "lang": "en",
+   "ja_quotes": 4,
+   "tr_quotes": 5
+  },
+  {
+   "unit": "wave-18",
+   "file": "G4108.json",
+   "sense": 1,
+   "lang": "es",
+   "ja_quotes": 4,
+   "tr_quotes": 5
+  },
+  {
+   "unit": "wave-18",
+   "file": "G4108.json",
+   "sense": 1,
+   "lang": "sv",
+   "ja_quotes": 4,
+   "tr_quotes": 5
+  },
+  {
+   "unit": "wave-18",
+   "file": "G4267.json",
+   "sense": 1,
+   "lang": "en",
+   "ja_quotes": 5,
+   "tr_quotes": 6
+  },
+  {
+   "unit": "wave-18",
+   "file": "G4267.json",
+   "sense": 1,
+   "lang": "es",
+   "ja_quotes": 5,
+   "tr_quotes": 6
+  },
+  {
+   "unit": "wave-18",
+   "file": "G4267.json",
+   "sense": 1,
+   "lang": "sv",
+   "ja_quotes": 5,
+   "tr_quotes": 6
+  },
+  {
+   "unit": "wave-18",
+   "file": "G500.json",
+   "sense": 1,
+   "lang": "en",
+   "ja_quotes": 5,
+   "tr_quotes": 6
+  },
+  {
+   "unit": "wave-18",
+   "file": "G500.json",
+   "sense": 1,
+   "lang": "es",
+   "ja_quotes": 5,
+   "tr_quotes": 6
+  },
+  {
+   "unit": "wave-18",
+   "file": "G500.json",
+   "sense": 1,
+   "lang": "sv",
+   "ja_quotes": 5,
+   "tr_quotes": 6
+  },
+  {
+   "unit": "wave-19",
+   "file": "G2467.json",
+   "sense": 1,
+   "lang": "en",
+   "ja_quotes": 4,
+   "tr_quotes": 6
+  },
+  {
+   "unit": "wave-19",
+   "file": "G2467.json",
+   "sense": 1,
+   "lang": "es",
+   "ja_quotes": 4,
+   "tr_quotes": 6
+  },
+  {
+   "unit": "wave-19",
+   "file": "G2467.json",
+   "sense": 1,
+   "lang": "sv",
+   "ja_quotes": 4,
+   "tr_quotes": 6
+  },
+  {
+   "unit": "wave-19",
+   "file": "G2845.json",
+   "sense": 2,
+   "lang": "en",
+   "ja_quotes": 1,
+   "tr_quotes": 2
+  },
+  {
+   "unit": "wave-19",
+   "file": "G2845.json",
+   "sense": 2,
+   "lang": "es",
+   "ja_quotes": 1,
+   "tr_quotes": 2
+  },
+  {
+   "unit": "wave-19",
+   "file": "G2845.json",
+   "sense": 2,
+   "lang": "sv",
+   "ja_quotes": 1,
+   "tr_quotes": 2
+  },
+  {
+   "unit": "wave-19",
+   "file": "G2898.json",
+   "sense": 1,
+   "lang": "en",
+   "ja_quotes": 3,
+   "tr_quotes": 4
+  },
+  {
+   "unit": "wave-19",
+   "file": "G2898.json",
+   "sense": 1,
+   "lang": "es",
+   "ja_quotes": 3,
+   "tr_quotes": 4
+  },
+  {
+   "unit": "wave-19",
+   "file": "G2898.json",
+   "sense": 1,
+   "lang": "sv",
+   "ja_quotes": 3,
+   "tr_quotes": 4
+  },
+  {
+   "unit": "wave-19",
+   "file": "G2903.json",
+   "sense": 1,
+   "lang": "en",
+   "ja_quotes": 4,
+   "tr_quotes": 5
+  },
+  {
+   "unit": "wave-19",
+   "file": "G2903.json",
+   "sense": 1,
+   "lang": "es",
+   "ja_quotes": 4,
+   "tr_quotes": 5
+  },
+  {
+   "unit": "wave-19",
+   "file": "G2903.json",
+   "sense": 1,
+   "lang": "sv",
+   "ja_quotes": 4,
+   "tr_quotes": 5
+  },
+  {
+   "unit": "wave-19",
+   "file": "G3126.json",
+   "sense": 1,
+   "lang": "en",
+   "ja_quotes": 3,
+   "tr_quotes": 4
+  },
+  {
+   "unit": "wave-19",
+   "file": "G3126.json",
+   "sense": 1,
+   "lang": "es",
+   "ja_quotes": 3,
+   "tr_quotes": 4
+  },
+  {
+   "unit": "wave-19",
+   "file": "G3126.json",
+   "sense": 1,
+   "lang": "sv",
+   "ja_quotes": 3,
+   "tr_quotes": 4
+  },
+  {
+   "unit": "wave-19",
+   "file": "G3785.json",
+   "sense": 1,
+   "lang": "en",
+   "ja_quotes": 4,
+   "tr_quotes": 5
+  },
+  {
+   "unit": "wave-19",
+   "file": "G3785.json",
+   "sense": 1,
+   "lang": "es",
+   "ja_quotes": 4,
+   "tr_quotes": 5
+  },
+  {
+   "unit": "wave-19",
+   "file": "G3785.json",
+   "sense": 1,
+   "lang": "sv",
+   "ja_quotes": 4,
+   "tr_quotes": 5
+  },
+  {
+   "unit": "wave-20",
+   "file": "G1912.json",
+   "sense": 2,
+   "lang": "en",
+   "ja_quotes": 1,
+   "tr_quotes": 3
+  },
+  {
+   "unit": "wave-20",
+   "file": "G1912.json",
+   "sense": 2,
+   "lang": "es",
+   "ja_quotes": 1,
+   "tr_quotes": 3
+  },
+  {
+   "unit": "wave-20",
+   "file": "G1912.json",
+   "sense": 2,
+   "lang": "sv",
+   "ja_quotes": 1,
+   "tr_quotes": 3
+  },
+  {
+   "unit": "wave-20",
+   "file": "G2059.json",
+   "sense": 1,
+   "lang": "en",
+   "ja_quotes": 3,
+   "tr_quotes": 4
+  },
+  {
+   "unit": "wave-20",
+   "file": "G2059.json",
+   "sense": 1,
+   "lang": "es",
+   "ja_quotes": 3,
+   "tr_quotes": 4
+  },
+  {
+   "unit": "wave-20",
+   "file": "G2059.json",
+   "sense": 1,
+   "lang": "sv",
+   "ja_quotes": 3,
+   "tr_quotes": 4
+  },
+  {
+   "unit": "wave-20",
+   "file": "G2083.json",
+   "sense": 1,
+   "lang": "en",
+   "ja_quotes": 3,
+   "tr_quotes": 4
+  },
+  {
+   "unit": "wave-20",
+   "file": "G2083.json",
+   "sense": 1,
+   "lang": "es",
+   "ja_quotes": 3,
+   "tr_quotes": 4
+  },
+  {
+   "unit": "wave-20",
+   "file": "G2083.json",
+   "sense": 1,
+   "lang": "sv",
+   "ja_quotes": 3,
+   "tr_quotes": 4
+  },
+  {
+   "unit": "wave-20",
+   "file": "G4270.json",
+   "sense": 3,
+   "lang": "es",
+   "ja_quotes": 1,
+   "tr_quotes": 3
+  },
+  {
+   "unit": "wave-20",
+   "file": "G4339.json",
+   "sense": 1,
+   "lang": "en",
+   "ja_quotes": 4,
+   "tr_quotes": 5
+  },
+  {
+   "unit": "wave-20",
+   "file": "G4339.json",
+   "sense": 1,
+   "lang": "es",
+   "ja_quotes": 4,
+   "tr_quotes": 5
+  },
+  {
+   "unit": "wave-20",
+   "file": "G4339.json",
+   "sense": 1,
+   "lang": "sv",
+   "ja_quotes": 4,
+   "tr_quotes": 5
+  },
+  {
+   "unit": "wave-20",
+   "file": "G4560.json",
+   "sense": 1,
+   "lang": "en",
+   "ja_quotes": 4,
+   "tr_quotes": 5
+  },
+  {
+   "unit": "wave-20",
+   "file": "G4560.json",
+   "sense": 1,
+   "lang": "es",
+   "ja_quotes": 4,
+   "tr_quotes": 5
+  },
+  {
+   "unit": "wave-20",
+   "file": "G4560.json",
+   "sense": 1,
+   "lang": "sv",
+   "ja_quotes": 4,
+   "tr_quotes": 5
+  },
+  {
+   "unit": "wave-20",
+   "file": "G5515.json",
+   "sense": 1,
+   "lang": "en",
+   "ja_quotes": 4,
+   "tr_quotes": 5
+  },
+  {
+   "unit": "wave-20",
+   "file": "G5515.json",
+   "sense": 1,
+   "lang": "es",
+   "ja_quotes": 4,
+   "tr_quotes": 5
+  },
+  {
+   "unit": "wave-20",
+   "file": "G5515.json",
+   "sense": 1,
+   "lang": "sv",
+   "ja_quotes": 4,
+   "tr_quotes": 5
+  },
+  {
+   "unit": "wave-20",
+   "file": "G5611.json",
+   "sense": 1,
+   "lang": "en",
+   "ja_quotes": 4,
+   "tr_quotes": 5
+  },
+  {
+   "unit": "wave-20",
+   "file": "G5611.json",
+   "sense": 1,
+   "lang": "es",
+   "ja_quotes": 4,
+   "tr_quotes": 5
+  },
+  {
+   "unit": "wave-20",
+   "file": "G5611.json",
+   "sense": 1,
+   "lang": "sv",
+   "ja_quotes": 4,
+   "tr_quotes": 5
+  },
+  {
+   "unit": "wave-20",
+   "file": "G651.json",
+   "sense": 1,
+   "lang": "en",
+   "ja_quotes": 4,
+   "tr_quotes": 5
+  },
+  {
+   "unit": "wave-20",
+   "file": "G651.json",
+   "sense": 1,
+   "lang": "es",
+   "ja_quotes": 4,
+   "tr_quotes": 5
+  },
+  {
+   "unit": "wave-20",
+   "file": "G651.json",
+   "sense": 1,
+   "lang": "sv",
+   "ja_quotes": 4,
+   "tr_quotes": 5
+  },
+  {
+   "unit": "wave-20",
+   "file": "G747.json",
+   "sense": 1,
+   "lang": "en",
+   "ja_quotes": 4,
+   "tr_quotes": 7
+  },
+  {
+   "unit": "wave-20",
+   "file": "G747.json",
+   "sense": 1,
+   "lang": "es",
+   "ja_quotes": 4,
+   "tr_quotes": 7
+  },
+  {
+   "unit": "wave-20",
+   "file": "G747.json",
+   "sense": 1,
+   "lang": "sv",
+   "ja_quotes": 4,
+   "tr_quotes": 7
+  },
+  {
+   "unit": "wave-21",
+   "file": "G2245.json",
+   "sense": 1,
+   "lang": "en",
+   "ja_quotes": 2,
+   "tr_quotes": 4
+  },
+  {
+   "unit": "wave-21",
+   "file": "G2245.json",
+   "sense": 1,
+   "lang": "es",
+   "ja_quotes": 2,
+   "tr_quotes": 4
+  },
+  {
+   "unit": "wave-21",
+   "file": "G2245.json",
+   "sense": 1,
+   "lang": "sv",
+   "ja_quotes": 2,
+   "tr_quotes": 4
+  },
+  {
+   "unit": "wave-22",
+   "file": "G4638.json",
+   "sense": 2,
+   "lang": "es",
+   "ja_quotes": 2,
+   "tr_quotes": 3
+  },
+  {
+   "unit": "wave-23",
+   "file": "G2204.json",
+   "sense": 1,
+   "lang": "en",
+   "ja_quotes": 2,
+   "tr_quotes": 3
+  },
+  {
+   "unit": "wave-23",
+   "file": "G2204.json",
+   "sense": 1,
+   "lang": "es",
+   "ja_quotes": 2,
+   "tr_quotes": 3
+  },
+  {
+   "unit": "wave-23",
+   "file": "G2204.json",
+   "sense": 1,
+   "lang": "sv",
+   "ja_quotes": 2,
+   "tr_quotes": 3
+  },
+  {
+   "unit": "wave-23",
+   "file": "G2277.json",
+   "sense": 1,
+   "lang": "en",
+   "ja_quotes": 3,
+   "tr_quotes": 5
+  },
+  {
+   "unit": "wave-23",
+   "file": "G2710.json",
+   "sense": 1,
+   "lang": "en",
+   "ja_quotes": 2,
+   "tr_quotes": 3
+  },
+  {
+   "unit": "wave-23",
+   "file": "G2710.json",
+   "sense": 1,
+   "lang": "es",
+   "ja_quotes": 2,
+   "tr_quotes": 3
+  },
+  {
+   "unit": "wave-23",
+   "file": "G2710.json",
+   "sense": 1,
+   "lang": "sv",
+   "ja_quotes": 2,
+   "tr_quotes": 3
+  },
+  {
+   "unit": "wave-24",
+   "file": "G3031.json",
+   "sense": 1,
+   "lang": "en",
+   "ja_quotes": 2,
+   "tr_quotes": 3
+  },
+  {
+   "unit": "wave-24",
+   "file": "G3031.json",
+   "sense": 1,
+   "lang": "es",
+   "ja_quotes": 2,
+   "tr_quotes": 3
+  },
+  {
+   "unit": "wave-24",
+   "file": "G3031.json",
+   "sense": 1,
+   "lang": "sv",
+   "ja_quotes": 2,
+   "tr_quotes": 3
+  },
+  {
+   "unit": "wave-25",
+   "file": "G5474.json",
+   "sense": 1,
+   "lang": "en",
+   "ja_quotes": 1,
+   "tr_quotes": 2
+  },
+  {
+   "unit": "wave-25",
+   "file": "G5474.json",
+   "sense": 1,
+   "lang": "es",
+   "ja_quotes": 1,
+   "tr_quotes": 2
+  },
+  {
+   "unit": "wave-25",
+   "file": "G5474.json",
+   "sense": 1,
+   "lang": "sv",
+   "ja_quotes": 1,
+   "tr_quotes": 2
+  }
+ ]
+}
