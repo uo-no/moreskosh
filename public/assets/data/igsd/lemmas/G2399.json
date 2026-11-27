@@ -1,0 +1,54 @@
+{
+ "lemma": "ἰδιώτης",
+ "lemmaId": "grc:G2399",
+ "strong": "G2399",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "一般の人・部外者",
+   "label_en": "ordinary person, outsider",
+   "label_es": "persona no iniciada, de fuera",
+   "label_sv": "utomstående, oinvigd",
+   "def": "専門家・内部の者でない人、一般の者。『素人の席にいる者』『初心者や不信者』『信者でない者または未信者』。",
+   "def_en": "One who is not a specialist or an insider; an ordinary person: “one who is in the position of an outsider”, “outsiders or unbelievers”, “an unbeliever or an outsider”.",
+   "def_es": "El que no es experto ni de dentro; persona corriente: «el que ocupa lugar de simple oyente», «indoctos o incrédulos», «algún incrédulo o indocto».",
+   "def_sv": "En som inte är fackman eller hör till kretsen; en vanlig människa: ”den som sitter på den oinvigdes plats”, ”oinvigda eller icke troende”, ”en som inte tror eller en oinvigd”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "コリント第一14:16・14:23・14:24。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "無学な者・素人",
+   "label_en": "unlearned, amateur",
+   "label_es": "persona sin instrucción, lego",
+   "label_sv": "olärd, lekman",
+   "def": "訓練を受けていない者、素人。『話は素人でも』『無学な、ただの人』。",
+   "def_en": "One without training, a layman: “even if I am unskilled in speaking”, “uneducated, ordinary men”.",
+   "def_es": "El que no ha sido adiestrado, profano: «aunque sea tosco en la palabra», «hombres sin letras y del vulgo».",
+   "def_sv": "En som saknar skolning, en amatör: ”även om jag inte är skolad talare”, ”olärda män ur folket”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "コリント第二11:6、使徒4:13。LXX に並行（一般人の用法）。教父の用例なし。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n44004013016": "2",
+  "n46014016010": "1",
+  "n46014023016": "1",
+  "n46014024010": "1",
+  "n47011006004": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（部外者／無学な者）による。"
+}

@@ -1,0 +1,61 @@
+{
+ "lemma": "ὅραμα",
+ "lemmaId": "grc:G3705",
+ "strong": "G3705",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "幻／ビジョン",
+   "label_en": "vision",
+   "label_es": "visión",
+   "label_sv": "syn / vision",
+   "def": "幻、示された光景。『幻を見ているのだと思った』『幻の中で』『夜、幻のうちにパウロに語られた』『見た幻を語るな』『幻を示された』。",
+   "def_en": "A vision, a sight shown: “thought he was seeing a vision”, “in a vision”, “the Lord spoke to Paul in the night in a vision”, “tell no one the vision you have seen”, “was shown a vision”.",
+   "def_es": "Visión, escena mostrada: «pensaba que veía una visión», «en visión», «el Señor dijo a Pablo en visión de noche», «no digáis a nadie la visión», «le fue mostrada una visión».",
+   "def_sv": "En syn, något som visas: ”trodde att han såg en syn”, ”i en syn”, ”Herren talade till Paulus i en syn om natten”, ”tala inte om för någon vad ni har sett i synen”, ”fick se en syn”.",
+   "layers": {
+    "nt": 11,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒12:9・11:5・18:9・10:3・10:17・10:19・16:9・16:10・9:10・9:12、マタイ17:9。LXX ダニエル8:26・イザヤ、教父（4.2.2）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "光景／見えるもの",
+   "label_en": "sight / spectacle",
+   "label_es": "espectáculo / lo que se ve",
+   "label_sv": "anblick / det som syns",
+   "def": "目に見える光景。『この光景を見て不思議に思った』（使徒7:31）。",
+   "def_en": "A sight visible to the eyes: “he was amazed at the sight” (Acts 7:31).",
+   "def_es": "Un espectáculo visible a los ojos: «se maravilló de la visión» (Hch 7:31).",
+   "def_sv": "En synlig anblick: ”han förundrade sig över vad han såg” (Apg 7:31).",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒7:31 の1例のみ。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40017009015": "1",
+  "n44007031007": "2",
+  "n44009010014": "1",
+  "n44009012005": "1",
+  "n44010003003": "1",
+  "n44010017012": "1",
+  "n44010019007": "1",
+  "n44011005011": "1",
+  "n44012009017": "1",
+  "n44016009002": "1",
+  "n44016010004": "1",
+  "n44018009008": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用例（幻／光景）による。"
+}

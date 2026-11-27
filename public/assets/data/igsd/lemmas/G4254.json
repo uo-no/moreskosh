@@ -1,0 +1,103 @@
+{
+ "lemma": "προάγω",
+ "lemmaId": "grc:G4254",
+ "strong": "G4254",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "先に行く／先立つ（前を進む）",
+   "label_en": "to go ahead / precede (walk in front)",
+   "label_es": "ir delante / preceder (avanzar al frente)",
+   "label_sv": "att gå före / gå i förväg (gå framför)",
+   "def": "人の先を行く、先導する。『わたしはあなたがたより先にガリラヤへ行く』『先に向こう岸へ行かせた』『先頭を行く』。",
+   "def_en": "To go ahead of people, to lead the way: “I will go before you to Galilee”, “made them go ahead to the other side”, “walked at the head”.",
+   "def_es": "Ir por delante de alguien, guiar: «iré delante de vosotros a Galilea», «los hizo ir delante a la otra orilla», «iba a la cabeza».",
+   "def_sv": "Att gå före någon, att leda vägen: ”jag ska gå före er till Galileen”, ”lät dem fara i förväg till andra stranden”, ”gick främst”.",
+   "layers": {
+    "nt": 12,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "マタイ2:9（星が先立って）・14:22・21:9・21:31（神の国にはいる）・26:32・28:7、マルコ6:45・10:32・11:9・14:28・16:7、ルカ18:39。教父（ディダケー・ヘルマス）の並行がある。LXX の代表例は異なる用法。"
+  },
+  {
+   "id": "2",
+   "label": "連れ出す／引き出す（人前へ）",
+   "label_en": "to bring out (before people)",
+   "label_es": "sacar / hacer comparecer (ante la gente)",
+   "label_sv": "att föra ut / föra fram (inför folk)",
+   "def": "人を牢から外へ連れ出す、人前・裁きの座へ引き出す。",
+   "def_en": "To lead a person out of prison, to bring them before the public or a judgment seat.",
+   "def_es": "Sacar a una persona de la cárcel, llevarla ante el pueblo o ante el tribunal.",
+   "def_sv": "Att föra ut en människa ur fängelset, att föra fram någon inför folket eller domarsätet.",
+   "layers": {
+    "nt": 4,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒12:6（ヘロデはペテロを民の前に引き出そうとした）・16:30・17:5（引き出して民の前に）・25:26（あなたの前、アグリッパ王の前へ引き出した）。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "先行する／以前の",
+   "label_en": "to precede in time / former",
+   "label_es": "preceder en el tiempo / anterior",
+   "label_sv": "att föregå / tidigare",
+   "def": "時間的に先立つ、以前の、先立って現れる。",
+   "def_en": "To be earlier in time, former, to appear beforehand.",
+   "def_es": "Ser previo en el tiempo, anterior, manifestarse de antemano.",
+   "def_sv": "Att komma före i tid, att vara tidigare, att framträda i förväg.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "Ⅰテモ1:18（あなたについて先に与えられた預言）・5:24（罪が先立って）、ヘブル7:18（以前の戒め）。教父（ヘルマス1.1 の προάγοντα）に並行。LXX の代表例では確認していない。"
+  },
+  {
+   "id": "4",
+   "label": "度を超える（行き過ぎる）",
+   "label_en": "to go too far (run ahead)",
+   "label_es": "excederse (ir demasiado lejos)",
+   "label_sv": "att gå för långt (överskrida gränsen)",
+   "def": "教えの枠を超えて先へ進む、行き過ぎる。",
+   "def_en": "To advance beyond the bounds of the teaching, to go too far.",
+   "def_es": "Avanzar más allá del marco de la enseñanza, ir demasiado lejos.",
+   "def_sv": "Att gå vidare utanför lärans ramar, att gå för långt.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "Ⅱヨハネ9（キリストの教えにとどまらず行き過ぎる者）の1例のみ。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40002009016": "1",
+  "n40014022010": "1",
+  "n40021009005": "1",
+  "n40021031026": "1",
+  "n40026032006": "1",
+  "n40028007015": "1",
+  "n41006045012": "1",
+  "n41010032011": "1",
+  "n41011009003": "1",
+  "n41014028006": "1",
+  "n41016007011": "1",
+  "n42018039003": "1",
+  "n44012006004": "2",
+  "n44016030002": "2",
+  "n44017005024": "2",
+  "n44025026011": "2",
+  "n54001018010": "3",
+  "n54005024007": "3",
+  "n58007018005": "3",
+  "n63001009003": "4"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

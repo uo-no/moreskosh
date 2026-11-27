@@ -1,0 +1,53 @@
+{
+ "lemma": "καταπαύω",
+ "lemmaId": "grc:G2664",
+ "strong": "G2664",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "休ませる・休む",
+   "label_en": "to give rest, to rest",
+   "label_es": "dar reposo, descansar",
+   "label_sv": "att ge vila, att vila",
+   "def": "休ませる、休む、安息を与える。『神は…休まれた』『ヨシュアが彼らに安息を与えたのであれば』『神がみわざを終えて休まれたように』。",
+   "def_en": "To give rest, to rest, to grant repose: “God … rested”, “if Joshua had given them rest”, “as God rested after finishing his works”.",
+   "def_es": "Hacer descansar, reposar, conceder descanso: «Dios … reposó», «si Josué les hubiera dado el reposo», «como Dios reposó al terminar sus obras».",
+   "def_sv": "Att låta vila, att vila, att skänka ro: ”Gud … vilade”, ”om Josua hade gett dem vila”, ”liksom Gud vilade efter sina verk”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ヘブル4:4・4:8・4:10。LXX、教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "やめさせる・制止する",
+   "label_en": "to stop, to restrain",
+   "label_es": "hacer desistir, contener",
+   "label_sv": "att hindra, att avhålla",
+   "def": "やめさせる、制止する。『群衆をやっとのことで押しとどめた』。",
+   "def_en": "To make someone cease, to restrain: “with difficulty restrained the crowd”.",
+   "def_es": "Hacer que se deje de hacer algo, refrenar: «difícilmente lograron detener a la multitud».",
+   "def_sv": "Att få att upphöra, att hejda: ”med nöd och näppe hindrade folkmassan”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒14:18。LXX に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n44014018005": "2",
+  "n58004004009": "1",
+  "n58004008005": "1",
+  "n58004010010": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（休む／やめさせる）による。"
+}

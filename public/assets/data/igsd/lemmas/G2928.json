@@ -1,0 +1,85 @@
+{
+ "lemma": "κρύπτω",
+ "lemmaId": "grc:G2928",
+ "strong": "G2928",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "隠す（能動：物・事を）",
+   "label_en": "to hide (active: things, matters)",
+   "label_es": "esconder (activa: cosas)",
+   "label_sv": "att gömma (aktivt: ting)",
+   "def": "物・人・真理などを、見えない所に隠す、覆い隠す。『地に隠した』『粉の中に隠した』『知者・賢者に隠した』。",
+   "def_en": "To hide or cover things, persons, truth, and so on where they cannot be seen: “hid it in the ground”, “hid it in the flour”, “hidden from the wise and learned”.",
+   "def_es": "Esconder o encubrir cosas, personas, la verdad, etc., donde no se vean: «lo escondió en la tierra», «lo escondió en la harina», «escondiste estas cosas de los sabios».",
+   "def_sv": "Att gömma eller dölja ting, människor, sanningen m.m. så att de inte syns: ”gömde det i jorden”, ”blandade in det i mjölet”, ”dolt för de visa och lärda”.",
+   "layers": {
+    "nt": 6,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マタイ13:44（宝を隠した）・25:18・25:25（タラントを隠した）・11:25（これらのことを知恵ある者に隠し）、ルカ13:21（パン種を粉に隠した）、黙示録6:16（われわれを隠してくれ）。LXX 詩篇・イザヤに並行。教父の代表例では確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "隠されている（受動・状態）",
+   "label_en": "to be hidden (passive, state)",
+   "label_es": "estar escondido (pasiva, estado)",
+   "label_sv": "att vara fördold (passiv, tillstånd)",
+   "def": "隠された状態にある、人には見えず分からない。『隠された宝』『隠された知恵』『世の初めから隠されていたこと』『いのちはキリストとともに隠されている』『隠された白い石』。",
+   "def_en": "To be in a hidden state, unseen and unknown to people: “hidden treasure”, “hidden wisdom”, “things hidden since the foundation of the world”, “your life is hidden with Christ”, “the hidden white stone”.",
+   "def_es": "Estar oculto, sin que la gente lo vea ni lo sepa: «tesoro escondido», «sabiduría oculta», «cosas escondidas desde la fundación del mundo», «vuestra vida está escondida con Cristo», «maná escondido, piedrecita blanca».",
+   "def_sv": "Att vara i ett dolt tillstånd, osynlig och okänd för människor: ”en gömd skatt”, ”fördold vishet”, ”det som varit fördolt sedan världens begynnelse”, ”ert liv är dolt med Kristus”, ”det fördolda, den vita stenen”.",
+   "layers": {
+    "nt": 10,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マタイ5:14（丘の上の町は隠れない）・13:35・13:44（畑に隠された宝）、ルカ18:34・19:42（あなたの目から隠されている）、ヨハネ19:38（ひそかに弟子であった）、コロサイ3:3、黙示録2:17（隠れたマナ）、ヘブル11:23（三か月隠された）、Ⅰテモ5:25（隠れてはいられない）。LXX 詩篇53:2 に並行。教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "身を隠す（再帰・中受動）",
+   "label_en": "to hide oneself (reflexive, middle-passive)",
+   "label_es": "esconderse (reflexivo, mediopasiva)",
+   "label_sv": "att gömma sig (reflexivt, medium-passivum)",
+   "def": "自分で身を隠す、人目を避けて隠れる。",
+   "def_en": "To hide oneself, to keep out of sight.",
+   "def_es": "Ocultarse uno mismo, esquivar las miradas.",
+   "def_sv": "Att själv gömma sig och undgå människors blickar.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "ヨハネ8:59・12:36（イエスは身を隠された）、黙示録6:15（地の王たちは洞穴に身を隠した）。教父（Ⅰクレメンス28.3『どこに隠れよう』）に並行。LXX の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40005014010": "2",
+  "n40011025019": "1",
+  "n40013035016": "2",
+  "n40013044008": "2",
+  "n40013044015": "1",
+  "n40025018010": "1",
+  "n40025025004": "1",
+  "n42013021007": "1",
+  "n42018034011": "2",
+  "n42019042016": "2",
+  "n43008059010": "3",
+  "n43012036018": "3",
+  "n43019038014": "2",
+  "n51003003007": "2",
+  "n54005025012": "2",
+  "n58011023004": "2",
+  "n66002017018": "2",
+  "n66006015023": "3",
+  "n66006016012": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

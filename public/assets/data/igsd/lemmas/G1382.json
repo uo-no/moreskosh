@@ -1,0 +1,73 @@
+{
+ "lemma": "δοκιμή",
+ "lemmaId": "grc:G1382",
+ "strong": "G1382",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "試し・試練",
+   "label_en": "testing, trial",
+   "label_es": "prueba, examen",
+   "label_sv": "prövning",
+   "def": "試されること、吟味。『苦難による激しい試練の中にあっても』『あなたがたを試して、すべてのことに従順かどうかを知るため』。",
+   "def_en": "Being tested, scrutiny: “even in a severe test of affliction”, “to test you and know whether you are obedient in everything”.",
+   "def_es": "El hecho de ser probado; examen: «aun en medio de una dura prueba de aflicción», «para probaros y saber si sois obedientes en todo».",
+   "def_sv": "Att bli prövad; granskning: ”även under svåra prövningar i lidandet”, ”för att pröva er och se om ni är lydiga i allt”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "コリント第二8:2・2:9。語義2・3との境界は連続的。LXX・教父の用例なし。"
+  },
+  {
+   "id": "2",
+   "label": "証拠・証明",
+   "label_en": "proof, evidence",
+   "label_es": "prueba, demostración",
+   "label_sv": "bevis, belägg",
+   "def": "試された結果としての証拠、証し。『キリストがわたしにあって語っておられる証拠』『この奉仕の証拠によって』。",
+   "def_en": "Proof or evidence resulting from a test: “proof that Christ is speaking in me”, “by the proof given by this service”.",
+   "def_es": "Evidencia o testimonio que resulta de haber sido probado: «una prueba de que Cristo habla en mí», «por la prueba de este servicio».",
+   "def_sv": "Bevis eller vittnesbörd som kommer av prövning: ”bevis för att Kristus talar genom mig”, ”genom det bevis denna tjänst ger”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "コリント第二13:3・9:13。語義1・3との境界は連続的。LXX・教父の用例なし。"
+  },
+  {
+   "id": "3",
+   "label": "練られた品性・練達",
+   "label_en": "proven character",
+   "label_es": "carácter probado",
+   "label_sv": "beprövad karaktär",
+   "def": "試されて確かめられた状態、練達。『忍耐は練達を生み、練達は希望を生む』『テモテの練達を知っている』。",
+   "def_en": "The condition of having been tested and found sound; proven character: “endurance produces proven character, and proven character produces hope”, “you know Timothy’s proven worth”.",
+   "def_es": "Estado de lo que ha sido probado y confirmado; carácter probado: «la paciencia produce un carácter probado, y el carácter probado, esperanza», «conocéis el valor probado de Timoteo».",
+   "def_sv": "Tillståndet att vara prövad och bekräftad; fasthet som bestått provet: ”uthålligheten ger beprövad karaktär och den beprövade karaktären ger hopp”, ”ni vet hur Timoteus har bestått provet”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ローマ5:4（2回）、ピリピ2:22。語義2との境界は連続的。LXX・教父の用例なし。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n45005004004": "3",
+  "n45005004007": "3",
+  "n47002009009": "1",
+  "n47008002004": "1",
+  "n47009013003": "2",
+  "n47013003002": "2",
+  "n50002022003": "3"
+ },
+ "unresolved": [],
+ "layer_notes": "LXX・教父の用例なし。語義区分は用法（試し／証拠／練られた品性）による。"
+}

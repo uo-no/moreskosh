@@ -1,0 +1,100 @@
+{
+ "lemma": "νίπτω",
+ "lemmaId": "grc:G3538",
+ "strong": "G3538",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "足を洗う",
+   "label_en": "to wash the feet",
+   "label_es": "lavar los pies",
+   "label_sv": "att tvätta fötter",
+   "def": "足を洗う。ヨハネ13章の洗足、聖徒の足を洗う奉仕。",
+   "def_en": "To wash feet: the footwashing of John 13, the service of washing the saints' feet.",
+   "def_es": "Lavar los pies: el lavatorio de Juan 13, el servicio de lavar los pies de los santos.",
+   "def_sv": "Att tvätta fötter: fottvagningen i Johannes 13, tjänsten att tvätta de heligas fötter.",
+   "layers": {
+    "nt": 9,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヨハネ13:5・6・8（2回）・10・12・14（2回）、Ⅰテモ5:10（聖徒の足を洗う）。LXX の洗足の用例（創世記など）はパケットの代表例では確認できなかった。教父の用例は無い。"
+  },
+  {
+   "id": "2",
+   "label": "手を洗う（儀礼的に）",
+   "label_en": "to wash the hands (ritually)",
+   "label_es": "lavarse las manos (rito)",
+   "label_sv": "att tvätta händerna (rituellt)",
+   "def": "食事の前に手を洗う、清めの慣習。『手を洗わずに食事をする』。",
+   "def_en": "To wash the hands before eating, a custom of purification: “eating without washing their hands”.",
+   "def_es": "Lavarse las manos antes de comer, costumbre de purificación: «comer sin lavarse las manos».",
+   "def_sv": "Att tvätta händerna före måltiden, en reningssed: ”äta utan att tvätta händerna”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マタイ15:2・マルコ7:3（手を洗わない）。LXX 出エジプト記30:18（洗盤で手足を洗う）に並行。教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "顔を洗う",
+   "label_en": "to wash the face",
+   "label_es": "lavarse la cara",
+   "label_sv": "att tvätta ansiktet",
+   "def": "顔を洗う、身を整える。『頭に油を塗り、顔を洗いなさい』。",
+   "def_en": "To wash one's face, to make oneself presentable: “anoint your head and wash your face”.",
+   "def_es": "Lavarse el rostro, arreglarse: «unge tu cabeza y lava tu rostro».",
+   "def_sv": "Att tvätta ansiktet och göra sig i ordning: ”smörj in ditt hår och tvätta ditt ansikte”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マタイ6:17（断食のとき顔を洗う）の1例のみ。LXX 創世記43:30 に並行。教父の代表例では確認していない。"
+  },
+  {
+   "id": "4",
+   "label": "（池で）洗う／身を洗う（目を）",
+   "label_en": "to wash (in a pool) / wash off (the eyes)",
+   "label_es": "lavarse (en el estanque; los ojos)",
+   "label_sv": "att tvätta sig (i dammen; ögonen)",
+   "def": "池に行って洗う、泥を洗い落とす。生まれつきの盲人が『シロアムの池で洗う』。",
+   "def_en": "To go to a pool and wash, to wash off the mud: the man born blind “washes in the pool of Siloam”.",
+   "def_es": "Ir al estanque y lavarse, quitarse el lodo: el ciego de nacimiento «se lava en el estanque de Siloé».",
+   "def_sv": "Att gå till dammen och tvätta sig, att skölja bort leran: den blindfödde ”tvättar sig i Siloamdammen”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヨハネ9:7（2回）・11（2回）・15（シロアムに行って洗え、洗った）。語義1・2・3との境界は連続的（洗う部位が目）。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40006017012": "3",
+  "n40015002013": "2",
+  "n41007003011": "2",
+  "n43009007005": "4",
+  "n43009007017": "4",
+  "n43009011024": "4",
+  "n43009011028": "4",
+  "n43009015021": "4",
+  "n43013005009": "1",
+  "n43013006011": "1",
+  "n43013008006": "1",
+  "n43013008018": "1",
+  "n43013010014": "1",
+  "n43013012003": "1",
+  "n43013014004": "1",
+  "n43013014017": "1",
+  "n54005010012": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "教父の用例は0件（パケット）。新約に無い用法は代表例の範囲では見当たらない。"
+}

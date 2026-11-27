@@ -1,0 +1,54 @@
+{
+ "lemma": "ἐξαλείφω",
+ "lemmaId": "grc:G1813",
+ "strong": "G1813",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "ぬぐい去る（涙を）",
+   "label_en": "to wipe away (tears)",
+   "label_es": "enjugar (lágrimas)",
+   "label_sv": "att torka bort (tårar)",
+   "def": "涙をぬぐい去る。『神は彼らの目から涙をことごとくぬぐい去って下さる』『神は…涙を拭い去ってくださる』。",
+   "def_en": "To wipe away tears: “God will wipe away every tear from their eyes”, “God … will wipe away the tears”.",
+   "def_es": "Secar las lágrimas: «Dios enjugará toda lágrima de los ojos de ellos», «Dios … enjugará las lágrimas».",
+   "def_sv": "Att torka bort tårarna: ”Gud skall torka alla tårar från deras ögon”, ”Gud … skall torka tårarna”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "黙示録7:17・21:4。語義2との境界は連続的。LXX・教父の代表例では涙の用法を確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "消し去る・赦す",
+   "label_en": "to blot out, to erase",
+   "label_es": "borrar",
+   "label_sv": "att utplåna, att stryka ut",
+   "def": "名や罪や証書を消し去る。『あなたがたの罪が消し去られるように』『負債証書を破棄し』『その名を命の書から消すことはしない』。",
+   "def_en": "To blot out a name, sins or a record of debt: “so that your sins may be blotted out”, “cancelling the record of debt”, “I will never blot his name out of the book of life”.",
+   "def_es": "Borrar un nombre, los pecados o un acta: «para que sean borrados vuestros pecados», «anulando el acta de la deuda», «no borraré su nombre del libro de la vida».",
+   "def_sv": "Att stryka ut namn, synder eller skuldebrev: ”så att era synder utplånas”, ”strök ut skuldebrevet”, ”jag skall aldrig stryka hans namn ur livets bok”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒3:19、コロサイ2:14、黙示録3:5。LXX、教父に並行。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n44003019007": "2",
+  "n51002014001": "2",
+  "n66003005011": "2",
+  "n66007017019": "1",
+  "n66021004002": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（涙をぬぐう／罪・名を消す）による。"
+}

@@ -1,0 +1,57 @@
+{
+ "lemma": "ἀναγκαῖος",
+ "lemmaId": "grc:G316",
+ "strong": "G316",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "必要な・欠かせない",
+   "label_en": "necessary / indispensable",
+   "label_es": "necesario / indispensable",
+   "label_sv": "nödvändig / oumbärlig",
+   "def": "必要である、欠かせない。『かえってからだのうちで弱く見える肢体が、必要なのである』『兄弟たちを先に行かせる必要がある』『まず神の言を語る必要があった』『必要な物を供え』『肉体にとどまる方が、あなたがたのために必要である』『エパフロデトを送り返す必要がある』『必要な備えのために』。",
+   "def_en": "Necessary, not to be done without: “the parts of the body that seem weaker are indispensable”, “necessary to urge the brothers to go on ahead”, “it was necessary that the word of God be spoken first”, “provide for necessary things”, “to remain in the flesh is more necessary on your account”, “necessary to send Epaphroditus back”, “for cases of urgent need”.",
+   "def_es": "Que se necesita, del que no se puede prescindir: «los miembros del cuerpo que parecen más débiles son los más necesarios», «tuve por necesario exhortar a los hermanos a que fuesen primero», «era necesario que se os hablase primero la palabra de Dios», «lo necesario», «quedar en la carne es más necesario por causa de vosotros», «tuve por necesario enviaros a Epafrodito», «para los casos de necesidad».",
+   "def_sv": "Nödvändig, som inte kan undvaras: ”de kroppsdelar som verkar svagast är nödvändiga”, ”nödvändigt att be bröderna resa i förväg”, ”Guds ord måste först förkunnas för er”, ”det nödvändiga”, ”att jag lever kvar är mer nödvändigt för er skull”, ”nödvändigt att skicka tillbaka Epafroditos”, ”för trängande behov”.",
+   "layers": {
+    "nt": 7,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "コリント第一12:22、コリント第二9:5、使徒13:46、ヘブル8:3、ピリピ1:24・2:25、テトス3:14。LXX（9.21・1.2）、教父（37.5・3.2.2）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "身近な・親しい",
+   "label_en": "close / intimate",
+   "label_es": "íntimo / cercano",
+   "label_sv": "nära / förtrogen",
+   "def": "身内の、親しい（人）。『親族や親しい友人たちを呼び集めて』。",
+   "def_en": "Close, intimate (persons): “called together his relatives and close friends”.",
+   "def_es": "Allegado, íntimo (personas): «habiendo convocado a sus parientes y amigos más íntimos».",
+   "def_sv": "Närstående (om personer): ”hade kallat ihop sina släktingar och närmaste vänner”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒10:24。人を指す用法。語義1との境界は連続的。LXX・教父の代表例では人を指す用法を確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n44010024020": "2",
+  "n44013046011": "1",
+  "n46012022011": "1",
+  "n47009005001": "1",
+  "n50001024007": "1",
+  "n50002025001": "1",
+  "n56003014011": "1",
+  "n58008003013": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（必要／人に関する親しさ）による。"
+}

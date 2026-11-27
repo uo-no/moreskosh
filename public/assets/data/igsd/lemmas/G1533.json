@@ -1,0 +1,57 @@
+{
+ "lemma": "εἰσφέρω",
+ "lemmaId": "grc:G1533",
+ "strong": "G1533",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "持ち込む／連れ込む",
+   "label_en": "to bring in",
+   "label_es": "meter / introducir",
+   "label_sv": "att föra in / bära in",
+   "def": "中に持ち込む、連れ込む。『この世に何も持って来なかった』『珍しいことをわたしたちの耳に入れる』『その血が聖所に持ち込まれ』『人々があなたがたを会堂に連れて行くとき』『中に運び込もうとして』『人々の中を運び込もうとして』。",
+   "def_en": "To carry or lead inside: “we brought nothing into the world”, “you bring some strange things to our ears”, “whose blood is brought into the holy places”, “when they bring you before the synagogues”, “seeking to bring him in”, “trying to carry him in through the crowd”.",
+   "def_es": "Llevar o meter dentro: «nada hemos traído a este mundo», «traes a nuestros oídos cosas extrañas», «cuya sangre es introducida en el santuario», «cuando os trajeren a las sinagogas», «procuraban llevarle adentro», «procuraban meterlo entre la gente».",
+   "def_sv": "Att bära eller leda in: ”vi har inte fört något med oss in i världen”, ”du för främmande ting till våra öron”, ”vars blod bärs in i helgedomen”, ”när man för er inför synagogorna”, ”försökte bära in honom”, ”försökte komma in med honom genom folkmassan”.",
+   "layers": {
+    "nt": 6,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰテモ6:7、使徒17:20、ヘブル13:11、ルカ5:18・5:19・12:11。LXX Ⅱ歴代誌34:16・創世記、教父（4.1）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "（試みに）導き入れる",
+   "label_en": "to lead into (temptation)",
+   "label_es": "meter (en tentación)",
+   "label_sv": "att föra in i (frestelse)",
+   "def": "試みの中に導き入れる。『わたしたちを試みに会わせないでください』。",
+   "def_en": "To bring into temptation: “lead us not into temptation”.",
+   "def_es": "Introducir en la tentación: «no nos metas en tentación».",
+   "def_sv": "Att leda in i prövning: ”för oss inte in i frestelse”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ルカ11:4、マタイ6:13。語義1との境界は連続的。LXX 代表例・教父（8.2）に並行。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40006013003": "2",
+  "n42005018014": "1",
+  "n42005019005": "1",
+  "n42011004016": "2",
+  "n42012011003": "1",
+  "n44017020004": "1",
+  "n54006007003": "1",
+  "n58013011003": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（持ち込む／試みに導く）による。"
+}

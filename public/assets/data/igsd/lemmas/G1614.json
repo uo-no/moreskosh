@@ -1,0 +1,65 @@
+{
+ "lemma": "ἐκτείνω",
+ "lemmaId": "grc:G1614",
+ "strong": "G1614",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "（手を）伸ばす／差し伸べる",
+   "label_en": "to stretch out / extend (the hand)",
+   "label_es": "extender / tender (la mano)",
+   "label_sv": "att räcka ut / sträcka ut (handen)",
+   "def": "手を伸ばす、差し伸べる。いやし・救助・弁明・捕縛・指し示しのために手を伸ばす。『手を伸ばして彼にさわり』『手を伸ばしなさい』『剣を抜く手を伸ばして』。",
+   "def_en": "To stretch out or hold out the hand, for healing, rescue, defence, arrest, or pointing: “stretched out his hand and touched him”, “stretch out your hand”, “reaching out his hand to draw his sword”.",
+   "def_es": "Alargar o tender la mano para curar, socorrer, defenderse, prender o señalar: «extendió la mano y lo tocó», «extiende tu mano», «extendiendo la mano, sacó la espada».",
+   "def_sv": "Att räcka ut handen för att hela, rädda, försvara sig, gripa eller peka: ”räckte ut handen och rörde vid honom”, ”räck ut din hand”, ”räckte ut handen och drog svärdet”.",
+   "layers": {
+    "nt": 15,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "マタイ8:3・12:13（2回）・14:31・26:51、マルコ1:41・3:5（2回）、ルカ5:13・6:10・22:53（わたしに手をかけなかった）、使徒4:30（いやしのためにみ手を伸ばし）・26:1（手を差し伸べて弁明を始めた）、ヨハネ21:18（手を伸ばして）、マタイ12:49（弟子たちに向かって手を差し伸べて）。LXX 出エジプト記15:12、教父（Ⅰクレメンス57.4）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "（錨などを）降ろす／繰り出す",
+   "label_en": "to lay out / let out (anchors)",
+   "label_es": "largar / tender (anclas)",
+   "label_sv": "att lägga ut (ankare)",
+   "def": "船から錨を降ろす、錨を繰り出す。",
+   "def_en": "To lower or run out anchors from a ship.",
+   "def_es": "Echar o tender anclas desde la nave.",
+   "def_sv": "Att fälla eller lägga ut ankare från skeppet.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒27:30（船首から錨を降ろそうとするふりをして）の1例のみ。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40008003002": "1",
+  "n40012013005": "1",
+  "n40012013010": "1",
+  "n40012049002": "1",
+  "n40014031005": "1",
+  "n40026051007": "1",
+  "n41001041003": "1",
+  "n41003005016": "1",
+  "n41003005020": "1",
+  "n42005013002": "1",
+  "n42006010007": "1",
+  "n42022053011": "1",
+  "n43021018017": "1",
+  "n44004030006": "1",
+  "n44026001015": "1",
+  "n44027030022": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

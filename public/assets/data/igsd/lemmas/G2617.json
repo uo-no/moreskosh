@@ -1,0 +1,79 @@
+{
+ "lemma": "καταισχύνω",
+ "lemmaId": "grc:G2617",
+ "strong": "G2617",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "恥を与える／辱める（能動）",
+   "label_en": "to put to shame / dishonour (active)",
+   "label_es": "avergonzar / deshonrar (activa)",
+   "label_sv": "att skämma ut / vanära (aktivt)",
+   "def": "恥をかかせる、辱める、面目をつぶす。『強い者に恥をかかせるため』『頭をはずかしめる』『貧しい者に恥をかかせる』。",
+   "def_en": "To shame, dishonour, or humiliate: “to shame the strong”, “dishonours his head”, “humiliate those who have nothing”.",
+   "def_es": "Hacer pasar vergüenza, deshonrar, humillar: «para avergonzar a los fuertes», «afrenta su cabeza», «avergonzáis a los que no tienen nada».",
+   "def_sv": "Att få att skämmas, vanära, förödmjuka: ”för att låta de starka stå med skam”, ”vanärar sitt huvud”, ”förödmjukar dem som inget har”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "Ⅰコリ1:27（2回）・11:4・11:5・11:22。LXX 詩篇・箴言に並行。教父の代表例では確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "恥を受ける／辱められる（受動）",
+   "label_en": "to be put to shame (passive)",
+   "label_es": "quedar avergonzado (pasiva)",
+   "label_sv": "att få skämmas (passivum)",
+   "def": "恥をかく、辱められる、恥ずかしく思う。『あなたがたのことを誇ったことで恥をかかなかった』『反対者が恥じ入るため』『みな恥じ入った』。",
+   "def_en": "To suffer shame, to be humiliated, to feel ashamed: “I was not put to shame for boasting about you”, “so that opponents may be ashamed”, “all were put to shame”.",
+   "def_es": "Sufrir vergüenza, ser humillado, sentir bochorno: «no he quedado avergonzado por haberme gloriado de vosotros», «para que el adversario se avergüence», «se avergonzaban todos».",
+   "def_sv": "Att stå med skam, förödmjukas, blygas: ”jag har inte behövt skämmas för att jag berömt er”, ”så att motståndaren får skämmas”, ”alla fick stå där med skammen”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "Ⅰペテロ3:16、Ⅱコリ7:14・9:4、ルカ13:17。LXX 詩篇30:2 に並行。教父の代表例では確認していない。語義3との境界は連続的。"
+  },
+  {
+   "id": "3",
+   "label": "失望させられない（望みが）",
+   "label_en": "not to be disappointed (of hope)",
+   "label_es": "no quedar defraudado (la esperanza)",
+   "label_sv": "att inte bli sviken (om hoppet)",
+   "def": "『これに信頼する者は失望させられることがない』『希望は失望に終わらない』。",
+   "def_en": "“Whoever believes in him will not be put to shame”, “hope does not disappoint”.",
+   "def_es": "«El que creyere en él no será avergonzado», «la esperanza no avergüenza».",
+   "def_sv": "”Den som tror på honom ska inte stå där med skam”, ”hoppet sviker oss inte”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰペテロ2:6、ローマ10:11・9:33・5:5。LXX 詩篇24:20（引用の背景）、教父（17.5.2）に並行。語義2との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42013017005": "2",
+  "n45005005005": "3",
+  "n45009033018": "3",
+  "n45010011011": "3",
+  "n46001027010": "1",
+  "n46001027022": "1",
+  "n46011004009": "1",
+  "n46011005010": "1",
+  "n46011022018": "1",
+  "n47007014009": "2",
+  "n47009004012": "2",
+  "n60002006020": "3",
+  "n60003016013": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（辱める／辱められる／失望しない）による。"
+}

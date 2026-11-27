@@ -1,0 +1,51 @@
+{
+ "lemma": "νομή",
+ "lemmaId": "grc:G3542",
+ "strong": "G3542",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "牧草地",
+   "label_en": "pasture",
+   "label_es": "pasto",
+   "label_sv": "bete",
+   "def": "牧草地、牧場。『牧草を見つける』。",
+   "def_en": "Pasture, grazing land: “will find pasture”.",
+   "def_es": "Pastizal, dehesa: «hallará pastos».",
+   "def_sv": "Betesmark: ”skall finna bete”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ヨハネ10:9。LXX、教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "広がること",
+   "label_en": "spreading",
+   "label_es": "extensión",
+   "label_sv": "spridning",
+   "def": "広がること、蔓延。『その言うことは、がんのように広がる』。",
+   "def_en": "A spreading, extending: “their talk will spread like gangrene”.",
+   "def_es": "El propagarse: «su palabra carcomerá como gangrena».",
+   "def_sv": "Att breda ut sig: ”deras ord kommer att fräta omkring sig som kallbrand”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "テモテ第二2:17。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n43010009016": "1",
+  "n55002017007": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法による。"
+}

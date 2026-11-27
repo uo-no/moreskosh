@@ -1,0 +1,76 @@
+{
+ "lemma": "σφάζω",
+ "lemmaId": "grc:G4969",
+ "strong": "G4969",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "殺す／殺害する",
+   "label_en": "to kill / slay",
+   "label_es": "matar / degollar",
+   "label_sv": "att slakta / döda",
+   "def": "人を殺す、屠る。『弟を殺した』『互いに殺し合い』『殺された者たちの魂』『地に流された血』『殺された者たちの血』。",
+   "def_en": "To kill a person, to slaughter: “murdered his brother”, “slay one another”, “the souls of those who had been slain”, “blood shed on the earth”, “the blood of the slain”.",
+   "def_es": "Matar, degollar: «mató a su hermano», «que se matasen unos a otros», «las almas de los que habían sido muertos», «la sangre derramada en la tierra», «la sangre de los muertos».",
+   "def_sv": "Att döda en människa, att slakta: ”mördade sin bror”, ”slakta varandra”, ”själarna av dem som hade slaktats”, ”blodet som utgjutits på jorden”, ”de slaktades blod”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰヨハネ3:12（2回）、黙示録6:4・6:9・18:24。LXX 創世記・列王記、教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "屠られた（小羊）",
+   "label_en": "slain (Lamb)",
+   "label_es": "inmolado (Cordero)",
+   "label_sv": "slaktad (om Lammet)",
+   "def": "屠られた（小羊）、いけにえとして殺された。『屠られたような小羊』『屠られた小羊のいのちの書』『あなたは屠られ』『屠られた小羊は』。",
+   "def_en": "The slain (Lamb), killed as a sacrifice: “a Lamb standing as though it had been slain”, “the book of life of the Lamb who was slain”, “you were slain”, “worthy is the Lamb who was slain”.",
+   "def_es": "El (Cordero) degollado, muerto como víctima: «un Cordero como inmolado», «el libro de la vida del Cordero que fue inmolado», «tú fuiste inmolado», «el Cordero que fue inmolado».",
+   "def_sv": "Det slaktade (Lammet), dödat som offer: ”ett Lamm som såg ut att ha blivit slaktat”, ”det slaktade Lammets livets bok”, ”du har blivit slaktad”, ”Lammet som blev slaktat”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "黙示録5:6・5:9・5:12・13:8。LXX 出エジプト記・レビ記、教父（8.1）に並行。指す対象の同定は付さない。"
+  },
+  {
+   "id": "3",
+   "label": "（死に至るまで）傷つけられた",
+   "label_en": "mortally wounded",
+   "label_es": "herido de muerte",
+   "label_sv": "sårad till döds",
+   "def": "死に至る傷を負わされた。『その頭の一つが致命傷を受けたように見えた』（黙示録13:3）。",
+   "def_en": "Given a wound unto death: “one of its heads seemed to have a mortal wound” (Rev 13:3).",
+   "def_es": "Que ha recibido herida mortal: «una de sus cabezas como herida de muerte» (Ap 13:3).",
+   "def_sv": "Tillfogad ett dödligt sår: ”ett av huvudena såg ut att ha fått ett dödssår” (Upp 13:3).",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "黙示録13:3 の1例のみ。語義2との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n62003012009": "1",
+  "n62003012016": "1",
+  "n66005006019": "2",
+  "n66005009017": "2",
+  "n66005012009": "2",
+  "n66006004022": "1",
+  "n66006009014": "1",
+  "n66013003008": "3",
+  "n66013008024": "2",
+  "n66018024012": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法による。"
+}

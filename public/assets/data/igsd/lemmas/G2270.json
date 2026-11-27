@@ -1,0 +1,54 @@
+{
+ "lemma": "ἡσυχάζω",
+ "lemmaId": "grc:G2270",
+ "strong": "G2270",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "黙る・静まる",
+   "label_en": "to keep silent, to be quiet",
+   "label_es": "callar",
+   "label_sv": "att tiga, att lugna sig",
+   "def": "沈黙する、静まる、やめる。『これを聞いて黙ってしまった』『何も言うことができず』『主の御旨がなりますように、と言って静かになった』。",
+   "def_en": "To fall silent, to grow quiet, to stop: “on hearing this they fell silent”, “they could say nothing”, “we fell silent, saying, Let the Lord’s will be done”.",
+   "def_es": "Guardar silencio, aquietarse, desistir: «oídas estas cosas, callaron», «no podían decir nada», «desistimos, diciendo: Hágase la voluntad del Señor».",
+   "def_sv": "Att tystna, att bli stilla, att ge sig till tåls: ”när de hörde detta teg de”, ”de kunde inte säga något”, ”vi gav oss och sade: Ske Herrens vilja”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "使徒11:18・21:14、ルカ14:4。教父（「ἡσύχασον」）に並行。LXX の代表例は休息の用法で、この語義としては確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "休む・静かに暮らす",
+   "label_en": "to rest, to live quietly",
+   "label_es": "descansar, vivir en sosiego",
+   "label_sv": "att vila, att leva stilla",
+   "def": "休む、安息する、静かに暮らす。『安息日であったので休んだ』『落ち着いて生活するように努め』。",
+   "def_en": "To rest, to keep the sabbath rest, to live a quiet life: “they rested because it was the sabbath”, “make it your ambition to live quietly”.",
+   "def_es": "Descansar, reposar, llevar una vida tranquila: «descansaron el sábado, conforme al mandamiento», «procurad tener tranquilidad».",
+   "def_sv": "Att vila, hålla vilodag, leva i stillhet: ”de vilade eftersom det var sabbat”, ”sätt en ära i att leva stilla”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ルカ23:56、テサロニケ第一4:11。LXX に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42014004003": "1",
+  "n42023056011": "2",
+  "n44011018004": "1",
+  "n44021014005": "1",
+  "n52004011003": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（黙る・静まる／休む・静かに暮らす）による。"
+}

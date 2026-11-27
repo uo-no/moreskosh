@@ -1,0 +1,87 @@
+{
+ "lemma": "βασιλεύω",
+ "lemmaId": "grc:G936",
+ "strong": "G936",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "王として治める",
+   "label_en": "to reign as king",
+   "label_es": "reinar como rey",
+   "label_sv": "att regera som kung",
+   "def": "王として支配する。神・キリストの支配、地上の王の統治、聖徒が王として治める。",
+   "def_en": "To rule as king: the reign of God or Christ, the rule of earthly kings, the saints reigning as kings.",
+   "def_es": "Gobernar como rey: el reinado de Dios o de Cristo, el gobierno de reyes terrenales, el reinar de los santos.",
+   "def_sv": "Att härska som kung: Guds och Kristi herravälde, jordiska kungars styre, de heligas regerande som kungar.",
+   "layers": {
+    "nt": 13,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "マタイ2:22、ルカ1:33（永遠に治める）・19:14・27（この人が王になるのを望まない）、Ⅰコリ15:25（敵を足の下に置くまで治める）、Ⅰテモ6:15、黙示録5:10・11:15・17・19:6・20:4・6・22:5。LXX 列王記・歴代誌（各王の治世）、教父（ヘルマス4.4 ほか）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "（死・罪・恵みなどが）支配する",
+   "label_en": "to reign (death, sin, grace, etc.)",
+   "label_es": "reinar (la muerte, el pecado, la gracia, etc.)",
+   "label_sv": "att härska (döden, synden, nåden m.m.)",
+   "def": "抽象的な力（死・罪・恵み）が人々の上に君臨する、支配をふるう。",
+   "def_en": "Abstract powers (death, sin, grace) rule over people and wield dominion.",
+   "def_es": "Poderes abstractos (muerte, pecado, gracia) imperan sobre las personas y ejercen dominio.",
+   "def_sv": "Abstrakta makter (döden, synden, nåden) tronar över människorna och utövar herravälde.",
+   "layers": {
+    "nt": 6,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ローマ5:14（死が支配した）・5:17（2回）・5:21（2回、罪が死によって支配したように恵みも義によって支配する）・6:12（罪を死ぬべき体に支配させるな）。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "王のようにふるまう（皮肉）",
+   "label_en": "to act like a king (irony)",
+   "label_es": "portarse como rey (ironía)",
+   "label_sv": "att bete sig som kung (ironi)",
+   "def": "『もう王になったのですか』と、皮肉をこめて、人が王のように満ち足りて振る舞うこと。",
+   "def_en": "“Have you already become kings?”: said with irony of people behaving as full and satisfied as kings.",
+   "def_es": "«¿Ya habéis llegado a reinar?»: con ironía, el que alguien se conduzca satisfecho como un rey.",
+   "def_sv": "”Har ni redan blivit kungar?”: sagt ironiskt om att människor uppför sig mätta och nöjda som kungar.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "Ⅰコリ4:8（同一節に2回：『あなたがたは王となった／私たちを抜きにして王となった』）の1例（2トークン）のみ。語義1との境界は、字義どおりの統治か、皮肉の比喩かによる連続的な区分。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40002022005": "1",
+  "n42001033002": "1",
+  "n42019014016": "1",
+  "n42019027010": "1",
+  "n45005014002": "2",
+  "n45005017009": "2",
+  "n45005017028": "2",
+  "n45005021003": "2",
+  "n45005021013": "2",
+  "n45006012003": "2",
+  "n46004008008": "3",
+  "n46004008012": "3",
+  "n46015025004": "1",
+  "n54006015013": "1",
+  "n66005010011": "1",
+  "n66011015027": "1",
+  "n66011017022": "1",
+  "n66019006020": "1",
+  "n66020004053": "1",
+  "n66020006029": "1",
+  "n66022005023": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

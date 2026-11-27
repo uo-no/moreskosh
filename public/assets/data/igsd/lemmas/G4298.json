@@ -1,0 +1,55 @@
+{
+ "lemma": "προκόπτω",
+ "lemmaId": "grc:G4298",
+ "strong": "G4298",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "進む・進歩する",
+   "label_en": "to advance, to progress",
+   "label_es": "progresar, avanzar",
+   "label_sv": "att gå framåt, att göra framsteg",
+   "def": "前に進む、進歩する、先んじる。『彼らはそれ以上は進めない』『悪人と偽り者とは悪から悪へ進み』『ますます不信心に進み』『ユダヤ教において同年輩の多くの者にまさり』『知恵が増し』。",
+   "def_en": "To go forward, to make progress, to surpass: “they will not get very far”, “evil people and impostors will go from bad to worse”, “will lead to more and more ungodliness”, “I advanced in Judaism beyond many of my own age”, “increased in wisdom”.",
+   "def_es": "Ir adelante, hacer progresos, aventajar: «no irán más adelante», «los malos hombres y los engañadores irán de mal en peor», «conducirán más y más a la impiedad», «en el judaísmo aventajaba a muchos de mis contemporáneos», «crecía en sabiduría».",
+   "def_sv": "Att skrida fram, göra framsteg, överträffa: ”de skall inte komma längre”, ”onda människor och bedragare skall gå från ont till värre”, ”leder allt längre in i gudlöshet”, ”jag gick längre i judendomen än många jämnåriga”, ”växte i vishet”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "テモテ第二3:9・3:13・2:16、ガラテヤ1:14、ルカ2:52。語義2との境界は連続的。LXX の用例なし。教父の代表例（17.3）は用法の対応が確認できず、確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "（時が）進む",
+   "label_en": "(of time) to advance",
+   "label_es": "avanzar (el tiempo)",
+   "label_sv": "(om tiden) att framskrida",
+   "def": "夜が更ける、時が進む。『夜はふけ、昼が近づいた』。",
+   "def_en": "For the night to wear on, for time to advance: “the night is far gone; the day is near”.",
+   "def_es": "Avanzar la noche, pasar el tiempo: «la noche está avanzada, y se acerca el día».",
+   "def_sv": "Att natten lider, att tiden går: ”natten går mot sitt slut och dagen är nära”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ローマ13:12。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42002052003": "1",
+  "n45013012003": "2",
+  "n48001014002": "1",
+  "n55002016009": "1",
+  "n55003009003": "1",
+  "n55003013006": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "LXX の用例なし。語義区分は用法（進歩／時の進行）による。"
+}

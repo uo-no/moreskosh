@@ -1,0 +1,86 @@
+{
+ "lemma": "τρέχω",
+ "lemmaId": "grc:G5143",
+ "strong": "G5143",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "走る（字義どおり）",
+   "label_en": "to run (literal)",
+   "label_es": "correr (en sentido literal)",
+   "label_sv": "att springa (bokstavligt)",
+   "def": "走る、駆け寄る、急いで行く。『走って〜した』（分詞 δραμών）の形が多い。",
+   "def_en": "To run, run up to, go in haste. Often in the form “ran and did …” (participle δραμών).",
+   "def_es": "Correr, acudir corriendo, ir de prisa. Frecuente en la forma «corriendo, hizo …» (participio δραμών).",
+   "def_sv": "Att springa, skynda fram, ila. Ofta i formen ”sprang och …” (participet δραμών).",
+   "layers": {
+    "nt": 9,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ヨハネ20:2・4、ルカ15:20・24:12、マタイ27:48・28:8、マルコ5:6・15:36、黙示録9:9（馬車のとどろき＝突進する）。LXX サムエル記・列王記に並行。教父の代表例では確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "走る（競走・努力の比喩）",
+   "label_en": "to run (figure of a race, effort)",
+   "label_es": "correr (figura de la carrera, esfuerzo)",
+   "label_sv": "att löpa (bild för tävlingslopp och strävan)",
+   "def": "競走者・走者にたとえて、目標に向かって励む、努力する。多くは『空しく走る』『よく走っていた』『走り尽くす』。",
+   "def_en": "Likened to a competitor or runner: to strive toward a goal, to exert oneself. Often “run in vain”, “were running well”, “finish the race”.",
+   "def_es": "A semejanza del competidor o corredor, afanarse por una meta, esforzarse. A menudo «correr en vano», «corríais bien», «acabar la carrera».",
+   "def_sv": "Med bilden av en tävlande eller löpare: att sträva mot ett mål, att anstränga sig. Ofta ”löpa förgäves”, ”ni löpte bra”, ”fullborda loppet”.",
+   "layers": {
+    "nt": 10,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "Ⅰコリ9:24（走者たち。3回）・26、ガラテヤ2:2（2回）・5:7、ピリ2:16、ヘブル12:1、ローマ9:16（走る者によるのでもなく）。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "速く広まる（ことばが）",
+   "label_en": "to spread swiftly (the word)",
+   "label_es": "propagarse rápidamente (la palabra)",
+   "label_sv": "att snabbt spridas (ordet)",
+   "def": "ことばが速やかに広まる、急速に伝わる。",
+   "def_en": "The word spreads quickly, is passed on rapidly.",
+   "def_es": "La palabra se extiende con rapidez, se difunde velozmente.",
+   "def_sv": "Ordet sprids snabbt, når hastigt ut.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "Ⅱテサ3:1（主のことばが速やかに広まる）の1例のみ。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40027048003": "1",
+  "n40028008012": "1",
+  "n41005006007": "1",
+  "n41015036001": "1",
+  "n42015020021": "1",
+  "n42024012005": "1",
+  "n43020002001": "1",
+  "n43020004001": "1",
+  "n45009016008": "2",
+  "n46009024007": "2",
+  "n46009024010": "2",
+  "n46009024017": "2",
+  "n46009026004": "2",
+  "n48002002024": "2",
+  "n48002002026": "2",
+  "n48005007001": "2",
+  "n50002016014": "2",
+  "n53003001012": "3",
+  "n58012001019": "2",
+  "n66009009018": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

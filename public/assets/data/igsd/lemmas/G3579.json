@@ -1,0 +1,59 @@
+{
+ "lemma": "ξενίζω",
+ "lemmaId": "grc:G3579",
+ "strong": "G3579",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "客としてもてなす／泊まる",
+   "label_en": "to receive as a guest / lodge",
+   "label_es": "hospedar / alojarse",
+   "label_sv": "att ta emot som gäst / bo som gäst",
+   "def": "客として迎える、もてなす、泊まる。『皮なめしシモンの家に泊まっている』『泊まっているかどうか』『彼らを招き入れて泊まらせた』『ムナソンの家に泊めていただく』『もてなしてくれた』『知らずに御使いたちをもてなした』。",
+   "def_en": "To take in as a guest, to entertain, to lodge: “he is lodging with Simon the tanner”, “whether he was staying there”, “invited them in to be his guests”, “to lodge with Mnason”, “entertained us”, “entertained angels unawares”.",
+   "def_es": "Recibir como huésped, agasajar, alojarse: «se hospeda en casa de Simón el curtidor», «si moraba allí», «haciéndoles entrar, los hospedó», «Mnasón, con quien nos hospedaríamos», «nos hospedó», «sin saberlo hospedaron ángeles».",
+   "def_sv": "Att ta emot, härbärgera, bo hos: ”han bor hos Simon garvaren”, ”om han bodde där”, ”bjöd in dem och lät dem stanna över”, ”få bo hos Mnason”, ”tog gästfritt emot oss”, ”haft änglar till gäster utan att veta det”.",
+   "layers": {
+    "nt": 7,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒10:6・10:18・10:23・10:32・21:16・28:7、ヘブル13:2。LXX シラ29:25・エステル 代表例に並行。教父の代表例では確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "不思議に思わせる／驚かす",
+   "label_en": "to surprise / seem strange",
+   "label_es": "extrañar / parecer raro",
+   "label_sv": "att förvåna / verka främmande",
+   "def": "奇異に感じさせる、驚かす。『あなたがたが同じ放蕩に走らないので不思議に思い』『燃える試練を不思議に思ってはならない』『耳に入る奇妙なこと』。",
+   "def_en": "To make think strange, to astonish: “they are surprised that you do not join them in the same debauchery”, “do not be surprised at the fiery trial”, “some strange things to our ears”.",
+   "def_es": "Causar extrañeza, sorprender: «les parece cosa extraña que no corráis con ellos en el mismo desenfreno», «no os sorprendáis del fuego de prueba», «traes a nuestros oídos cosas extrañas».",
+   "def_sv": "Att väcka förundran, att överraska: ”de förvånas över att ni inte följer med i samma utsvävningar”, ”förvåna er inte över eldprovet”, ”främmande ting för våra öron”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰペテロ4:4・4:12、使徒17:20。LXX Ⅱマカバイ9:6・Ⅲマカバイ7:3、教父（17.5）に並行。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n44010006002": "1",
+  "n44010018010": "1",
+  "n44010023004": "1",
+  "n44010032012": "1",
+  "n44017020001": "2",
+  "n44021016013": "1",
+  "n44028007022": "1",
+  "n58013002010": "1",
+  "n60004004003": "2",
+  "n60004012003": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（もてなす／驚かす）による。"
+}

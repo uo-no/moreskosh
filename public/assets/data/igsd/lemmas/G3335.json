@@ -1,0 +1,73 @@
+{
+ "lemma": "μεταλαμβάνω",
+ "lemmaId": "grc:G3335",
+ "strong": "G3335",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "食物にあずかる",
+   "label_en": "to partake of food",
+   "label_es": "tomar alimento",
+   "label_sv": "att ta till sig föda",
+   "def": "食物を取る、食事をする。『食事を共にし』『食事をするようにと勧めて』『ともに食物を取るように勧め』。",
+   "def_en": "To take food, to have a meal: “took their food together”, “urged them to eat”, “urged them all to take food”.",
+   "def_es": "Tomar alimento, comer: «comían juntos», «animándolos a que comiesen», «exhortaba a todos a que tomasen alimento».",
+   "def_sv": "Att ta föda, att äta en måltid: ”åt tillsammans”, ”uppmanade dem att äta”, ”uppmanade alla att ta något att äta”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒2:46・27:33・27:34。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "分け前にあずかる・受ける",
+   "label_en": "to share in, to receive",
+   "label_es": "participar, recibir",
+   "label_sv": "att få del, att ta emot",
+   "def": "分け前にあずかる、受ける。『まず作物にあずかるのは』『神の祝福にあずかり』『神の聖さにあずかる』。",
+   "def_en": "To have a share, to receive: “the first to receive a share of the crops”, “receives a blessing from God”, “share in God’s holiness”.",
+   "def_es": "Participar de una parte, recibir: «el primero en participar de los frutos», «participa de la bendición de Dios», «participemos de la santidad de Dios».",
+   "def_sv": "Att få sin del, att ta emot: ”först få del av skörden”, ”får del av Guds välsignelse”, ”få del av Guds helighet”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "テモテ第二2:6、ヘブル6:7・12:10。教父（14.3・21.8）に並行。LXX の代表例では確認していない。語義1・3との境界は連続的。"
+  },
+  {
+   "id": "3",
+   "label": "得る（機会を）",
+   "label_en": "to find (an opportunity)",
+   "label_es": "hallar (oportunidad)",
+   "label_sv": "att få (tillfälle)",
+   "def": "機会を得る。『都合のよい時を得たなら』。",
+   "def_en": "To get an opportunity: “if I find a convenient time”.",
+   "def_es": "Obtener una ocasión: «cuando tenga una oportunidad».",
+   "def_sv": "Att få ett tillfälle: ”om jag får ett lämpligt tillfälle”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒24:25。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n44002046014": "1",
+  "n44024025024": "3",
+  "n44027033011": "1",
+  "n44027034004": "1",
+  "n55002006008": "2",
+  "n58006007020": "2",
+  "n58012010019": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（食物／分け前／機会を得る）による。"
+}

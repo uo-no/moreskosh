@@ -1,0 +1,53 @@
+{
+ "lemma": "συντίθεμαι",
+ "lemmaId": "grc:G4934",
+ "strong": "G4934",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "申し合わせる・同意する",
+   "label_en": "to agree",
+   "label_es": "convenir, acordar",
+   "label_sv": "att komma överens",
+   "def": "申し合わせる、取り決める、同意する。『彼らは…と申し合わせて』『定めていた』『彼らは…とりきめた』『彼を出してやることに同意した』。",
+   "def_en": "To agree among themselves, to arrange, to consent: “they had agreed …”, “had already decided”, “they … arranged”, “consented to help him get out”.",
+   "def_es": "Concertarse, pactar, consentir: «habían acordado que …», «habían establecido», «ellos … convinieron», «consintieron en dejarlo salir».",
+   "def_sv": "Att göra upp, avtala, samtycka: ”de hade kommit överens om att …”, ”hade redan bestämt”, ”de … avtalade”, ”samtyckte till att släppa ut honom”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒23:20、ヨハネ9:22、ルカ22:5。LXX に並行（姦淫の用例の中で）。教父の用例なし。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "共に襲う",
+   "label_en": "to join in the attack",
+   "label_es": "sumarse al ataque",
+   "label_sv": "att förena sig i angreppet",
+   "def": "共に攻撃に加わる。『ユダヤ人たちも…攻撃に加わった』。",
+   "def_en": "To take part together in an assault: “the Jews also … joined in the attack”.",
+   "def_es": "Unirse a una acometida: «los judíos también … confirmaban la acusación atacándole».",
+   "def_sv": "Att gå till anfall tillsammans med andra: ”också judarna … slöt upp i angreppet”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒24:9。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42022005004": "1",
+  "n43009022012": "1",
+  "n44023020006": "1",
+  "n44024009001": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（申し合わせ／共に襲う）による。使徒24:9 の語形は別語の形とも見えるが、同じ番号の下にあるものとして割り当てる。"
+}

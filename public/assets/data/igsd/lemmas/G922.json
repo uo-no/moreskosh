@@ -1,0 +1,72 @@
+{
+ "lemma": "βάρος",
+ "lemmaId": "grc:G922",
+ "strong": "G922",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "重荷・負担",
+   "label_en": "burden, load",
+   "label_es": "carga, peso",
+   "label_sv": "börda",
+   "def": "重荷、負担。『一日の重荷と暑さを耐え忍んだ』『これ以上の重荷をあなたがたに負わせまい』『互いの重荷を負い合いなさい』『ほかの重荷は負わせない』。",
+   "def_en": "A burden, a load: “who have borne the burden of the day and the heat”, “to lay on you no greater burden”, “bear one another’s burdens”, “I do not lay on you any other burden”.",
+   "def_es": "Carga, gravamen: «que hemos soportado la carga y el calor del día», «no imponeros ninguna carga más», «sobrellevad los unos las cargas de los otros», «no os impondré otra carga».",
+   "def_sv": "Börda, tyngd: ”som har burit dagens börda och hetta”, ”inte lägga någon ytterligare börda på er”, ”bär varandras bördor”, ”jag lägger ingen annan börda på er”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マタイ20:12、使徒15:28、ガラテヤ6:2、黙示録2:24。LXX（18.21・6.22）に並行。教父の代表例では確認していない。語義2・3との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "重み（栄光の）",
+   "label_en": "weight (of glory)",
+   "label_es": "peso (de gloria)",
+   "label_sv": "tyngd (av härlighet)",
+   "def": "重さ、重み。『重い永遠の栄光』。",
+   "def_en": "Weight, heaviness: “a weighty eternal glory”.",
+   "def_es": "Peso, gravedad: «un eterno peso de gloria».",
+   "def_sv": "Vikt, tyngd: ”en tyngd av evig härlighet”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "コリント第二4:17。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "重みを持つ／負担となる（解釈が分かれる）",
+   "label_en": "to carry weight / to be a burden (disputed)",
+   "label_es": "tener peso o ser una carga (discutido)",
+   "label_sv": "att ha tyngd eller att vara till last (omtvistat)",
+   "def": "『キリストの使徒として重んじられることもできた』（ἐν βάρει εἶναι）。",
+   "def_en": "“To be able to be in weight” (ἐν βάρει εἶναι): either to carry authority or to be a burden.",
+   "def_es": "«Poder ser de peso» (ἐν βάρει εἶναι): imponer autoridad o resultar gravoso.",
+   "def_sv": "”Att kunna vara av tyngd” (ἐν βάρει εἶναι): att göra sin auktoritet gällande eller att ligga till last.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "テサロニケ第一2:7。「権威を持つ」か「負担をかける」かの解釈は争われており決定しない。語義1・2との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40020012016": "1",
+  "n44015028013": "1",
+  "n47004017013": "2",
+  "n48006002003": "1",
+  "n52002007003": "3",
+  "n66002024029": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（重荷／栄光の重み／テサロニケ第一2:7）による。テサロニケ第一2:7 は解釈が分かれるため独立させ、決定しない。"
+}

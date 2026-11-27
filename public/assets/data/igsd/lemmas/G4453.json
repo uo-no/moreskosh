@@ -1,0 +1,71 @@
+{
+ "lemma": "πωλέω",
+ "lemmaId": "grc:G4453",
+ "strong": "G4453",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "売る（商売として）",
+   "label_en": "to sell (as trade)",
+   "label_es": "vender (como comercio)",
+   "label_sv": "att sälja (som handel)",
+   "def": "商品を売る、売られている。神殿の商人、市場の肉、雀、商いをする者。",
+   "def_en": "To sell goods, to be on sale: the merchants in the temple, meat in the market, sparrows, people doing business.",
+   "def_es": "Vender mercancías, estar a la venta: los mercaderes del templo, la carne del mercado, los pajarillos, los que comercian.",
+   "def_sv": "Att sälja varor, att säljas: försäljarna i templet, kött på torget, sparvar, de som driver handel.",
+   "layers": {
+    "nt": 13,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ヨハネ2:14・16、マタイ21:12（2回）・マルコ11:15（2回）・ルカ19:45（神殿の商人）、ルカ17:28（売り買い）、マタイ25:9・10:29・ルカ12:6（売られている）、Ⅰコリ10:25、黙示録13:17（売ることができない）。LXX 創世記42:6 などに並行。教父の代表例は無い。"
+  },
+  {
+   "id": "2",
+   "label": "（持ち物を）売り払う",
+   "label_en": "to sell off (one's possessions)",
+   "label_es": "vender (los propios bienes)",
+   "label_sv": "att sälja bort (det man äger)",
+   "def": "自分の持ち物・財産を、手放して貧しい人や共同体のために売る、または畑・剣を売る。命令形が多い。",
+   "def_en": "To part with one's possessions or property by selling them for the poor or the community, or to sell a field or a sword. Often imperative.",
+   "def_es": "Desprenderse de las propias posesiones o bienes vendiéndolos para los pobres o la comunidad, o vender un campo o una espada. Frecuente en imperativo.",
+   "def_sv": "Att göra sig av med sina ägodelar eller sin egendom genom att sälja till förmån för de fattiga eller gemenskapen, eller att sälja en åker eller ett svärd. Ofta i imperativ.",
+   "layers": {
+    "nt": 9,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ13:44・19:21、マルコ10:21、ルカ12:33・18:22・22:36、使徒4:34・37・5:1。LXX の代表例では確認していない。語義1との境界は、商売でなく所有物の処分かによる連続的な区分。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40010029005": "1",
+  "n40013044023": "2",
+  "n40019021010": "2",
+  "n40021012011": "1",
+  "n40021012027": "1",
+  "n40025009017": "1",
+  "n41010021017": "2",
+  "n41011015013": "1",
+  "n41011015029": "1",
+  "n42012006004": "1",
+  "n42012033001": "2",
+  "n42017028011": "1",
+  "n42018022014": "2",
+  "n42019045009": "1",
+  "n42022036017": "2",
+  "n43002014007": "1",
+  "n43002016005": "1",
+  "n44004034015": "2",
+  "n44004037004": "2",
+  "n44005001011": "2",
+  "n46010025005": "1",
+  "n66013017008": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "教父の用例は0件（パケット）。新約に無い用法は代表例の範囲では見当たらない。"
+}

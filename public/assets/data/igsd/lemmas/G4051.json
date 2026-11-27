@@ -1,0 +1,54 @@
+{
+ "lemma": "περίσσευμα",
+ "lemmaId": "grc:G4051",
+ "strong": "G4051",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "あふれ・豊かさ",
+   "label_en": "overflow, abundance",
+   "label_es": "abundancia",
+   "label_sv": "överflöd",
+   "def": "あふれること、豊かさ。『心にあふれていることを口が語る』『今あなたがたの余裕が…不足を補い』『その余りが…』。",
+   "def_en": "Overflowing, abundance: “the mouth speaks from the overflow of the heart”, “at present your abundance … supplies their need”, “their abundance …”.",
+   "def_es": "Lo que rebosa, abundancia: «de la abundancia del corazón habla la boca», «en este tiempo la abundancia vuestra supla … la escasez de ellos», «la abundancia de ellos …».",
+   "def_sv": "Det som flödar över, rikedom: ”vad hjärtat är fullt av talar munnen”, ”nu får ert överflöd … fylla deras brist”, ”deras överflöd …”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ルカ6:45、マタイ12:34、コリント第二8:14（2回）。語義2との境界は連続的。LXX の代表例は「余計な」の別用法で、確認していない。教父の用例なし。"
+  },
+  {
+   "id": "2",
+   "label": "残り・余り",
+   "label_en": "leftovers",
+   "label_es": "sobras",
+   "label_sv": "överblivna stycken",
+   "def": "残ったもの、残りくず。『残りのパン切れを…七つのかごに』。",
+   "def_en": "What is left over, remaining scraps: “the broken pieces left over … seven baskets”.",
+   "def_es": "Lo que quedó, restos: «de los pedazos que sobraron … siete canastas».",
+   "def_sv": "Det som blivit över, rester: ”de överblivna brödbitarna … sju korgar”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マルコ8:8。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40012034012": "1",
+  "n41008008007": "2",
+  "n42006045025": "1",
+  "n47008014007": "1",
+  "n47008014016": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（あふれ・豊かさ／残り）による。"
+}

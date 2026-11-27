@@ -1,0 +1,51 @@
+{
+ "lemma": "χαλεπός",
+ "lemmaId": "grc:G5467",
+ "strong": "G5467",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "困難な",
+   "label_en": "difficult",
+   "label_es": "difícil",
+   "label_sv": "svår",
+   "def": "困難な、厄介な。『困難な時代』。",
+   "def_en": "Hard, troublesome: “difficult times”.",
+   "def_es": "Arduo, penoso: «tiempos peligrosos».",
+   "def_sv": "Besvärlig: ”svåra tider”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "テモテ第二3:1。LXX、教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "凶暴な",
+   "label_en": "fierce",
+   "label_es": "feroz",
+   "label_sv": "vild",
+   "def": "凶暴な、荒々しい。『非常に凶暴で』。",
+   "def_en": "Violent, savage: “extremely fierce”.",
+   "def_es": "Violento, bravo: «feroces en gran manera».",
+   "def_sv": "Våldsam, farlig: ”mycket våldsamma”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "マタイ8:28。LXX の代表例では確認していない。教父に並行（凶暴な獣）。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40008028020": "2",
+  "n55003001010": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法による。"
+}

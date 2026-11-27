@@ -1,0 +1,55 @@
+{
+ "lemma": "πρόσκομμα",
+ "lemmaId": "grc:G4348",
+ "strong": "G4348",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "つまずきの石",
+   "label_en": "stone of stumbling",
+   "label_es": "piedra de tropiezo",
+   "label_sv": "stötesten",
+   "def": "つまずきの石、つまずき。『つまずきの石』『つまずきの石につまずいた』『つまずかせる石』。",
+   "def_en": "A stone that makes one stumble; stumbling: “a stone of stumbling”, “they stumbled over the stumbling stone”, “a stone that makes them stumble”.",
+   "def_es": "Piedra en la que se tropieza; tropiezo: «piedra de tropiezo», «tropezaron en la piedra de tropiezo», «roca que hace caer».",
+   "def_sv": "En sten att snava på; anstöt: ”en stötesten”, ”de stötte sig mot stötestenen”, ”en sten som får dem att falla”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ローマ9:32・9:33、ペテロ第一2:8。語義2との境界は連続的。LXX・教父の代表例は「わな・つまずきの原因」の用法で、この語義としては確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "つまずきの原因",
+   "label_en": "cause of stumbling",
+   "label_es": "motivo de tropiezo",
+   "label_sv": "anledning till fall",
+   "def": "人がつまずく原因、つまずきの機会。『あなたがたのこの自由が弱い者のつまずきとならないように』『つまずきを置かないように』『人につまずきを与えて食べるのは悪い』。",
+   "def_en": "A cause or occasion of a person’s stumbling: “that this liberty of yours does not become a stumbling block to the weak”, “not to put a stumbling block”, “it is wrong to eat in a way that makes another stumble”.",
+   "def_es": "Causa u ocasión de que alguien tropiece: «que esta libertad vuestra no venga a ser tropezadero para los débiles», «no poner tropiezo», «es malo comer haciendo tropezar a otro».",
+   "def_sv": "Det som får en människa att snava; tillfälle till fall: ”att er frihet inte blir till fall för de svaga”, ”att inte lägga en stötesten”, ”det är fel att äta så att någon annan kommer på fall”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "コリント第一8:9、ローマ14:13・14:20。LXX（39.24・23.33）に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n45009032015": "1",
+  "n45009033008": "1",
+  "n45014013012": "2",
+  "n45014020018": "2",
+  "n46008009009": "2",
+  "n60002008003": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（つまずきの石／つまずきの原因）による。"
+}

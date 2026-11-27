@@ -1,0 +1,57 @@
+{
+ "lemma": "προέρχομαι",
+ "lemmaId": "grc:G4281",
+ "strong": "G4281",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "先へ進む・少し進む",
+   "label_en": "to go on / go a little farther",
+   "label_es": "adelantarse / ir un poco más allá",
+   "label_sv": "att gå vidare / gå en bit fram",
+   "def": "前へ進む、進み出る。『少し進んで行って』『少し進んで行き』『ひと通りを進んで行った』。",
+   "def_en": "To go forward, to advance: “going a little farther”, “went on a little”, “went along one street”.",
+   "def_es": "Avanzar, seguir adelante: «yendo un poco adelante», «yéndose un poco adelante», «pasaron una calle».",
+   "def_sv": "Att gå framåt: ”gick lite längre bort”, ”gick en bit fram”, ”gick längs en gata”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ26:39、マルコ14:35、使徒12:10。LXX・教父の代表例では確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "先に行く・先立つ",
+   "label_en": "to go ahead / precede",
+   "label_es": "ir delante / preceder",
+   "label_sv": "att gå i förväg / gå före",
+   "def": "先に行く、先頭に立つ。『先に出発して』『先に行くように』『先に着いて』『主の前に先立って行き』『先頭に立って』。",
+   "def_en": "To go first, to be at the head: “setting out ahead”, “to go on ahead”, “got there ahead of them”, “will go before the Lord”, “going at the head”.",
+   "def_es": "Ir primero, ir a la cabeza: «adelantándose», «que fuesen primero», «llegaron antes que ellos», «irá delante del Señor», «iba al frente».",
+   "def_sv": "Att fara först, gå i täten: ”for i förväg”, ”att resa före”, ”kom fram före dem”, ”ska gå före Herren”, ”gick i spetsen”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒20:13、コリント第二9:5、マルコ6:33、ルカ1:17・22:47。LXX（33.3・2.19）に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40026039002": "1",
+  "n41006033017": "2",
+  "n41014035002": "1",
+  "n42001017003": "2",
+  "n42022047013": "2",
+  "n44012010024": "1",
+  "n44020013003": "2",
+  "n47009005008": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（進み出る／先に行く）による。"
+}

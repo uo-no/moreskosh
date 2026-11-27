@@ -1,0 +1,74 @@
+{
+ "lemma": "ἕλκω",
+ "lemmaId": "grc:G1670",
+ "strong": "G1670",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "引きずる",
+   "label_en": "to drag",
+   "label_es": "arrastrar",
+   "label_sv": "att släpa",
+   "def": "引きずる、引っ張って行く。『パウロとシラスを引きずって広場へ』『パウロを引きずって宮の外に』『あなたがたを引きずって裁判所に』。",
+   "def_en": "To drag, to haul along: “dragged Paul and Silas into the marketplace”, “seized Paul and dragged him out of the temple”, “drag you into court”.",
+   "def_es": "Arrastrar, llevar a tirones: «arrastraron a Pablo y a Silas a la plaza», «arrastraron a Pablo fuera del templo», «os arrastran a los tribunales».",
+   "def_sv": "Att släpa och dra iväg: ”släpade Paulus och Silas till torget”, ”släpade ut Paulus ur templet”, ”drar er inför domstolarna”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒16:19・21:30、ヤコブ2:6。LXX・教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "引く／引き上げる（剣・網を）",
+   "label_en": "to draw / haul up (sword, net)",
+   "label_es": "sacar / tirar de (espada, red)",
+   "label_sv": "att dra / dra upp (svärd, nät)",
+   "def": "剣を抜く、網を引き上げる。『剣を抜いて』『網を引き上げることができなかった』『網を陸に引き上げた』。",
+   "def_en": "To draw a sword, to haul in a net: “drew his sword”, “were not able to haul in the net”, “hauled the net ashore”.",
+   "def_es": "Desenvainar la espada, izar la red: «sacó la espada», «no podían sacar la red», «sacó la red a tierra».",
+   "def_sv": "Att dra svärdet, att dra upp nätet: ”drog sitt svärd”, ”orkade inte dra upp nätet”, ”drog i land nätet”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ヨハネ18:10・21:6・21:11。LXX 民数記・詩篇に並行。教父に並行。"
+  },
+  {
+   "id": "3",
+   "label": "引き寄せる",
+   "label_en": "to draw (people)",
+   "label_es": "atraer",
+   "label_sv": "att dra till sig",
+   "def": "人を引き寄せる、導く。『父が引き寄せてくださらなければ』『わたしがすべての人を自分のもとに引き寄せる』。",
+   "def_en": "To draw a person to, to lead: “unless the Father draws him”, “I will draw all people to myself”.",
+   "def_es": "Atraer a la persona, conducirla: «si el Padre no le trajere», «a todos atraeré a mí mismo».",
+   "def_sv": "Att dra och föra en människa: ”om inte Fadern drar honom”, ”jag ska dra alla till mig”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ヨハネ6:44・12:32。語義1・2との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n43006044013": "3",
+  "n43012032008": "3",
+  "n43018010006": "2",
+  "n43021006021": "2",
+  "n43021011006": "2",
+  "n44016019019": "1",
+  "n44021030015": "1",
+  "n59002006013": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（引きずる／引く／引き寄せる）による。"
+}

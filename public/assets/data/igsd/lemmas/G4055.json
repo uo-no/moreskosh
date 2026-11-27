@@ -1,0 +1,81 @@
+{
+ "lemma": "περισσότερος",
+ "lemmaId": "grc:G4055",
+ "strong": "G4055",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "より多く／もっと大きい",
+   "label_en": "more / greater",
+   "label_es": "más / mayor",
+   "label_sv": "mer / större",
+   "def": "程度・量が多い、いっそう大きい。『それ以上は何もできない』『多く与えられた者』『もっと厳しい裁き』『預言者以上の者』『どんな供え物よりも優れている』。",
+   "def_en": "Greater in degree or amount: “can do no more”, “to whom much was given”, “a severer judgment”, “more than a prophet”, “much more than all offerings”.",
+   "def_es": "Mayor en grado o cantidad: «nada más pueden hacer», «al que mucho se le dio», «mayor condenación», «más que profeta», «más que todos los sacrificios».",
+   "def_sv": "Större i grad eller mängd: ”kan inte göra något mer”, ”den som fått mycket”, ”en strängare dom”, ”mer än en profet”, ”förmer än alla offer”.",
+   "layers": {
+    "nt": 10,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ルカ12:4・12:48・20:47・7:26、マルコ12:40・12:33、マタイ11:9、Ⅰコリ15:10、Ⅱコリ10:8・2:7。LXX ダニエル6:4・伝道者7:16、教父（9.4.2）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "いっそう豊かな（誉れ・敬意）",
+   "label_en": "more abundant (honour, respect)",
+   "label_es": "más abundante (honra, respeto)",
+   "label_sv": "rikligare (ära, aktning)",
+   "def": "いっそう豊かな、ひとしお多く。『いっそう豊かな誉れを加え』『いっそう豊かな上品さを持つ』。",
+   "def_en": "More abundant, all the more: “bestow greater honour”, “treated with greater modesty”.",
+   "def_es": "Más abundante, mucho más: «vestimos con más honra», «se tratan con más decoro».",
+   "def_sv": "Rikligare, desto mer: ”ger desto större ära”, ”får desto större anständighet”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "Ⅰコリ12:23（2回）・12:24。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "さらに明らかに／いっそう確かに",
+   "label_en": "more clearly / more surely",
+   "label_es": "más claramente / más ciertamente",
+   "label_sv": "tydligare / säkrare",
+   "def": "いっそう確かに、さらにはっきりと。『約束の相続人たちに、いっそう確かに示そうとして』『さらにはっきりしている』。",
+   "def_en": "More surely, more plainly: “desiring to show more convincingly to the heirs of the promise”, “it is even more evident”.",
+   "def_es": "Con más certeza, con más claridad: «queriendo mostrar más abundantemente a los herederos de la promesa», «aun más evidente».",
+   "def_sv": "Säkrare, ännu klarare: ”ville ännu tydligare visa löftets arvingar”, ”det blir ännu mer uppenbart”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヘブル6:17・7:15。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40011009010": "1",
+  "n41012033026": "1",
+  "n41012040013": "1",
+  "n42007026010": "1",
+  "n42012004019": "1",
+  "n42012048024": "1",
+  "n42020047013": "1",
+  "n46012023010": "2",
+  "n46012023017": "2",
+  "n46012024016": "2",
+  "n46015010018": "1",
+  "n47002007011": "1",
+  "n47010008004": "1",
+  "n58006017003": "3",
+  "n58007015002": "3"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（程度／豊かさ／明らかさ）による。"
+}

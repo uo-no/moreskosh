@@ -1,0 +1,82 @@
+{
+ "lemma": "γάμος",
+ "lemmaId": "grc:G1062",
+ "strong": "G1062",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "婚宴（結婚の祝宴）",
+   "label_en": "wedding feast (banquet)",
+   "label_es": "banquete de bodas",
+   "label_sv": "bröllopsfest",
+   "def": "結婚式の祝宴。『王が王子のために設けた婚宴』『カナの婚礼』『婚礼から帰る主人』『婚宴の席』。複数形で婚宴を表すことが多い。",
+   "def_en": "The festive banquet of a wedding: “the wedding feast a king gave for his son”, “the wedding at Cana”, “a master returning from a wedding”, “the seats at a wedding feast”. Often plural for the feast.",
+   "def_es": "El banquete festivo de una boda: «las bodas que un rey hizo a su hijo», «las bodas de Caná», «el señor que vuelve de las bodas», «los asientos del banquete». A menudo en plural para la fiesta.",
+   "def_sv": "Festmåltiden vid ett bröllop: ”bröllopsfesten som en kung höll för sin son”, ”bröllopet i Kana”, ”herren som kommer hem från bröllopet”, ”platserna vid bröllopsbordet”. Ofta plural om festen.",
+   "layers": {
+    "nt": 13,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マタイ22:2・3・4・8・9・10・11・12（王子の婚宴のたとえ）・25:10（婚礼の席に入った）、ルカ12:36・14:8、ヨハネ2:1・2（カナの婚礼）。LXX エステル2:18 に並行。教父の代表例では確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "結婚",
+   "label_en": "marriage",
+   "label_es": "matrimonio",
+   "label_sv": "äktenskap",
+   "def": "結婚という状態・制度。『結婚はすべての人に敬われるべき』。",
+   "def_en": "Marriage as a state or institution: “let marriage be held in honour by all”.",
+   "def_es": "El matrimonio como estado o institución: «honroso sea en todos el matrimonio».",
+   "def_sv": "Äktenskapet som tillstånd eller ordning: ”äktenskapet ska hållas i ära av alla”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "ヘブル13:4（結婚はすべての人の間で尊ばれるべき）の1例のみ。教父（ポリュカルポス）に『結婚する者』の並行。LXX の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "（小羊の）婚礼",
+   "label_en": "marriage (of the Lamb)",
+   "label_es": "bodas (del Cordero)",
+   "label_sv": "(Lammets) bröllop",
+   "def": "終末の、小羊の婚礼、その婚宴。",
+   "def_en": "The end-time marriage of the Lamb and its feast.",
+   "def_es": "Las bodas del Cordero al final de los tiempos y su banquete.",
+   "def_sv": "Lammets bröllop vid tidens slut och festen därvid.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "黙示録19:7・9（小羊の婚礼の時が来た、婚宴に招かれた者たち）。語義1との境界は連続的（終末的な使用）。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40022002010": "1",
+  "n40022003011": "1",
+  "n40022004027": "1",
+  "n40022008008": "1",
+  "n40022009015": "1",
+  "n40022010020": "1",
+  "n40022011014": "1",
+  "n40022012011": "1",
+  "n40025010016": "1",
+  "n42012036013": "1",
+  "n42014008006": "1",
+  "n43002001006": "1",
+  "n43002002012": "1",
+  "n58013004003": "2",
+  "n66019007012": "3",
+  "n66019009011": "3"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

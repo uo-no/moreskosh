@@ -1,0 +1,52 @@
+{
+ "lemma": "ὀκνηρός",
+ "lemmaId": "grc:G3636",
+ "strong": "G3636",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "怠惰な・ぐずぐずする",
+   "label_en": "lazy, sluggish",
+   "label_es": "perezoso",
+   "label_sv": "lat, trög",
+   "def": "怠惰な、ぐずぐずする。『悪い怠け者のしもべ』『勤勉で怠らず』。",
+   "def_en": "Lazy, hesitating to act: “you wicked and lazy servant”, “diligent, not slothful”.",
+   "def_es": "Holgazán, remolón: «siervo malo y negligente», «en lo que requiere diligencia, no perezosos».",
+   "def_sv": "Lat, senfärdig: ”du onde och late tjänare”, ”var ivriga, inte tröga”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マタイ25:26、ローマ12:11。LXX に並行。教父の用例なし。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "面倒な",
+   "label_en": "irksome",
+   "label_es": "molesto",
+   "label_sv": "besvärlig",
+   "def": "おっくうな、面倒な。『同じことを書くのはわたしには面倒でなく』。",
+   "def_en": "Tiresome, bothersome: “to write the same things is no trouble to me”.",
+   "def_es": "Pesado, enojoso: «a mí no me es molesto escribiros las mismas cosas».",
+   "def_sv": "Motbjudande, betungande: ”att skriva samma sak igen är inget besvär för mig”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ピリピ3:1。LXX に並行（怠惰）。教父の用例なし。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40025026011": "1",
+  "n45012011004": "1",
+  "n50003001015": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法による。"
+}

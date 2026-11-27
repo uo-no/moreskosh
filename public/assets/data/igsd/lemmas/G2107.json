@@ -1,0 +1,58 @@
+{
+ "lemma": "εὐδοκία",
+ "lemmaId": "grc:G2107",
+ "strong": "G2107",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "みこころ／御心にかなうこと（神の）",
+   "label_en": "good pleasure / will (of God)",
+   "label_es": "beneplácito / voluntad (de Dios)",
+   "label_sv": "välbehag / vilja (Guds)",
+   "def": "神のみこころ、御心にかなうこと、喜び。『みこころのままに』『御心の良しとするところ』『その御旨に従って』『御心にかなう人々』『あなたの御心にかなうこと』『神は御心によって』。",
+   "def_en": "God's will, what pleases him, delight: “according to his good pleasure”, “such was your gracious will”, “according to the purpose of his will”, “people with whom he is pleased”, “what is pleasing to you”, “God, by his good pleasure”.",
+   "def_es": "La voluntad de Dios, lo que le agrada, su complacencia: «según su beneplácito», «así agradó a tus ojos», «según el puro afecto de su voluntad», «los hombres de buena voluntad», «así te agradó», «Dios, por su buena voluntad».",
+   "def_sv": "Guds vilja, det som behagar honom, hans glädje: ”efter hans välbehag”, ”så har du bestämt”, ”efter hans viljas beslut”, ”människor som han har behag till”, ”så var din vilja”, ”Gud, för att hans vilja ska ske”.",
+   "layers": {
+    "nt": 6,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "エペソ1:5・1:9、ルカ10:21・2:14、マタイ11:26、ピリピ2:13。LXX 詩篇5:12・シラ、教父の用例は無い。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "善意／願い（人の）",
+   "label_en": "goodwill / desire (human)",
+   "label_es": "buena voluntad / deseo (humano)",
+   "label_sv": "god vilja / önskan (människors)",
+   "def": "人の善意、願い。『善意からキリストを宣べ伝える者』『わたしの心の願い』『善い願いをすべて』（Ⅱテサ1:11）。",
+   "def_en": "Human goodwill, a wish: “some preach Christ from good will”, “my heart's desire”, “every resolve for good” (2 Thess 1:11).",
+   "def_es": "La buena voluntad o el anhelo de las personas: «predican a Cristo de buena voluntad», «el anhelo de mi corazón», «todo propósito de bondad» (2 Ts 1:11).",
+   "def_sv": "Människors goda vilja och önskningar: ”förkunnar Kristus av god vilja”, ”mitt hjärtas önskan”, ”all god föresats” (2 Thess 1:11).",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "Ⅱテサ1:11、ピリピ1:15、ローマ10:1。語義1との境界は連続的。LXX 代表例に並行。教父の用例は無い。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40011026006": "1",
+  "n42002014011": "1",
+  "n42010021037": "1",
+  "n45010001004": "2",
+  "n49001005012": "1",
+  "n49001009010": "1",
+  "n50001015012": "2",
+  "n50002013016": "1",
+  "n53001011019": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は主体（神／人）による。教父の用例は無い。"
+}

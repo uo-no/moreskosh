@@ -1,0 +1,51 @@
+{
+ "lemma": "πνοή",
+ "lemmaId": "grc:G4157",
+ "strong": "G4157",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "息",
+   "label_en": "breath",
+   "label_es": "aliento",
+   "label_sv": "ande, andedräkt",
+   "def": "息、命の息。『すべての人に命と息とすべてのものを与え』。",
+   "def_en": "Breath, the breath of life: “he himself gives to all people life and breath and everything”.",
+   "def_es": "Respiración, aliento de vida: «él es quien da a todos vida y aliento y todas las cosas».",
+   "def_sv": "Andetag, livsande: ”han som ger alla liv, anda och allt”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒17:25。LXX、教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "風",
+   "label_en": "wind",
+   "label_es": "viento",
+   "label_sv": "vind",
+   "def": "風、吹く風。『激しい風が吹いて来るような響き』。",
+   "def_en": "Wind, a blowing wind: “a sound like a violent wind coming”.",
+   "def_es": "Ráfaga, viento que sopla: «un estruendo como de un viento recio que soplaba».",
+   "def_sv": "Blåst, vind: ”ett dån som när en häftig storm drar fram”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒2:2。LXX に並行。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n44002002010": "2",
+  "n44017025013": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（息／風）による。"
+}

@@ -1,0 +1,89 @@
+{
+ "lemma": "γνωρίζω",
+ "lemmaId": "grc:G1107",
+ "strong": "G1107",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "知らせる／伝える（人が人に）",
+   "label_en": "to make known / tell (person to person)",
+   "label_es": "dar a conocer / comunicar (entre personas)",
+   "label_sv": "att meddela / berätta (människa till människa)",
+   "def": "人が人に、ある事柄を知らせる、伝える。与格に相手、対格または節に内容。",
+   "def_en": "A person informs or tells another of a matter. The person is in the dative, the content in the accusative or a clause.",
+   "def_es": "Una persona hace saber o comunica un asunto a otra. La persona va en dativo; el contenido, en acusativo u oración.",
+   "def_sv": "En människa låter en annan få veta eller berättar något. Mottagaren står i dativ, innehållet i ackusativ eller sats.",
+   "layers": {
+    "nt": 10,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰコリ12:3・15:1、Ⅱコリ8:1、ガラテヤ1:11、コロサイ4:7・9、エペソ6:21、ルカ2:15、ピリ4:6（祈願を神に知らせる＝受動命令）、Ⅱペテロ1:16。LXX ダニエル2:15・Ⅱマカ・箴言系、教父にヘルマス4.3.1・19.1.5 の並行。"
+  },
+  {
+   "id": "2",
+   "label": "明らかにする／啓示する（神・キリストが、またみことばの内容を）",
+   "label_en": "to make manifest / reveal (God, Christ, or the content of the word)",
+   "label_es": "manifestar / revelar (Dios, Cristo, o el contenido de la palabra)",
+   "label_sv": "att uppenbara / göra känd (Gud, Kristus, eller ordets innehåll)",
+   "def": "神やキリストが、道・御名・秘義・怒りと栄光の富などを人に知らせ明らかにする。受動では『秘義が知らされた』。",
+   "def_en": "God or Christ makes known and reveals to people the way, the Name, the mystery, the riches of wrath and glory, and so on. In the passive, “the mystery was made known”.",
+   "def_es": "Dios o Cristo da a conocer y revela a las personas el camino, el Nombre, el misterio, las riquezas de la ira y la gloria, etc. En pasiva, «el misterio fue dado a conocer».",
+   "def_sv": "Gud eller Kristus låter människor få veta och uppenbarar vägen, Namnet, hemligheten, vredens och härlighetens rikedom m.m. I passiv: ”hemligheten har gjorts känd”.",
+   "layers": {
+    "nt": 12,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒2:28（詩篇16:11 の引用）、ヨハネ15:15・17:26（御名を知らせた・知らせよう）、ローマ9:22・23、エペソ1:9・3:3・3:5・3:10・6:19、コロサイ1:27。エペソ6:19（パウロが福音の奥義を知らせる）は人が主語だが、内容が奥義であるためここに置いた。語義1との境界は連続的（主語と内容の別による）。LXX 詩篇15:11（＝使徒2:28 の元）、教父にディダケー9.2–3（『あなたが知らせてくださった』）の並行。"
+  },
+  {
+   "id": "3",
+   "label": "知る／見分ける",
+   "label_en": "to know / discern",
+   "label_es": "saber / discernir",
+   "label_sv": "att veta / urskilja",
+   "def": "自分で（事柄の優劣などを）知る、見極める。",
+   "def_en": "To know, to make out for oneself (the relative worth of things, etc.).",
+   "def_es": "Saber, distinguir por sí mismo (el valor relativo de las cosas, etc.).",
+   "def_sv": "Att själv veta, avgöra (vad som är bäst o.s.v.).",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ピリ1:22（『何を選ぶべきか、わたしは知らない』）の1例のみ。Abbott も『知るに至る』の用法をこの1例に限る（RV 欄外は『知らせる』）。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42002015031": "1",
+  "n43015015027": "2",
+  "n43017026002": "2",
+  "n43017026008": "2",
+  "n44002028001": "2",
+  "n45009022010": "2",
+  "n45009023003": "2",
+  "n46012003002": "1",
+  "n46015001001": "1",
+  "n47008001001": "1",
+  "n48001011001": "1",
+  "n49001009001": "2",
+  "n49003003003": "2",
+  "n49003005005": "2",
+  "n49003010002": "2",
+  "n49006019015": "2",
+  "n49006021012": "1",
+  "n50001022015": "3",
+  "n50004006016": "1",
+  "n51001027005": "2",
+  "n51004007005": "1",
+  "n51004009014": "1",
+  "n61001016006": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

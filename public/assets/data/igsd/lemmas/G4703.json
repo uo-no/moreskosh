@@ -1,0 +1,55 @@
+{
+ "lemma": "σπόρος",
+ "lemmaId": "grc:G4703",
+ "strong": "G4703",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "種・種まき",
+   "label_en": "seed, sowing",
+   "label_es": "semilla, siembra",
+   "label_sv": "utsäde, sådd",
+   "def": "蒔く種、蒔かれた種。『種を蒔く人』『種は神の言である』『種は芽を出して育つ』『種が芽を出して』『蒔く者に種を与え』。",
+   "def_en": "The seed that is sown: “a sower of seed”, “the seed is the word of God”, “the seed sprouts and grows”, “the seed sprouts”, “he who supplies seed to the sower”.",
+   "def_es": "La semilla que se siembra o ha sido sembrada: «el sembrador de la semilla», «la semilla es la palabra de Dios», «la semilla brota y crece», «la semilla brota», «el que da semilla al que siembra».",
+   "def_sv": "Säden som sås eller har såtts: ”en man som sår säd”, ”säden är Guds ord”, ”säden gror och växer”, ”säden spirar”, ”han som ger såningsmannen utsäde”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "コリント第二9:10（1つ目）、ルカ8:5・8:11、マルコ4:26・4:27。LXX（26.20・21.8）、教父（24.4）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "蒔く物（施しの比喩）",
+   "label_en": "seed for sowing (figure for giving)",
+   "label_es": "sementera (figura de la ofrenda)",
+   "label_sv": "utsäde (bild för gåvor)",
+   "def": "施しとして蒔くもの、あなたがたの種。『あなたがたの種を備え、ふやし』。",
+   "def_en": "What is sown in giving: your seed. “will supply and multiply your seed”.",
+   "def_es": "Lo que se siembra al dar: vuestra semilla. «proveerá y multiplicará vuestra sementera».",
+   "def_sv": "Det man sår genom att ge: ert utsäde. ”skall ge er utsäde och mångfaldiga det”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "コリント第二9:10（2つ目）。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n41004026013": "1",
+  "n41004027010": "1",
+  "n42008005007": "1",
+  "n42008011007": "1",
+  "n47009010004": "1",
+  "n47009010015": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（種／施しの比喩）による。"
+}

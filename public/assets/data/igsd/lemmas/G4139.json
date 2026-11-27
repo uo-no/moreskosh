@@ -1,0 +1,66 @@
+{
+ "lemma": "πλησίον",
+ "lemmaId": "grc:G4139",
+ "strong": "G4139",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "隣人（ὁ πλησίον）",
+   "label_en": "neighbour (ὁ πλησίον)",
+   "label_es": "prójimo (ὁ πλησίον)",
+   "label_sv": "nästa (ὁ πλησίον)",
+   "def": "近くにいる人、隣人。『隣人を自分のように愛せよ』『わたしの隣人とはだれですか』『隣人を喜ばせ』。冠詞つき名詞として用いられる。",
+   "def_en": "A person who is near, a neighbour: “love your neighbour as yourself”, “who is my neighbour?”, “let each please his neighbour”. Used as a noun with the article.",
+   "def_es": "El que está cerca, el vecino: «amarás a tu prójimo como a ti mismo», «¿quién es mi prójimo?», «agrade a su prójimo». Se usa como sustantivo con artículo.",
+   "def_sv": "Den som är nära, ens nästa: ”älska din nästa som dig själv”, ”vem är min nästa?”, ”vara sin nästa till lags”. Används substantiverat med artikel.",
+   "layers": {
+    "nt": 16,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "マタイ5:43・19:19・22:39、マルコ12:31・33、ルカ10:27・29・36、ローマ13:9・10・15:2、ガラテヤ5:14、エペソ4:25、ヤコブ2:8・4:12、使徒7:27。LXX レビ記19:18 の引用に並行、教父（ディダケー）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "近くに（副詞）",
+   "label_en": "near (adverb)",
+   "label_es": "cerca (adverbio)",
+   "label_sv": "nära (adverb)",
+   "def": "〜の近くに、そば近くに。属格を伴う。",
+   "def_en": "Near to, close by. With the genitive.",
+   "def_es": "Cerca de, junto a. Con genitivo.",
+   "def_sv": "Nära, tätt intill. Med genitiv.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヨハネ4:5（シカルという町の、ヤコブがヨセフに与えた土地の近くにあった）の1例のみ。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40005043006": "1",
+  "n40019019010": "1",
+  "n40022039007": "1",
+  "n41012031005": "1",
+  "n41012033023": "1",
+  "n42010027035": "1",
+  "n42010029014": "1",
+  "n42010036005": "1",
+  "n43004005009": "2",
+  "n44007027005": "1",
+  "n45013009025": "1",
+  "n45013010004": "1",
+  "n45015002004": "1",
+  "n48005014013": "1",
+  "n49004025010": "1",
+  "n59002008011": "1",
+  "n59004012018": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

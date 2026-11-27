@@ -1,0 +1,53 @@
+{
+ "lemma": "ἀποδείκνυμι",
+ "lemmaId": "grc:G584",
+ "strong": "G584",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "証明する・示す",
+   "label_en": "to prove, to attest",
+   "label_es": "demostrar, acreditar",
+   "label_sv": "att bevisa, att bekräfta",
+   "def": "証明する、証しされる。『神から証明された人』『証明することはできなかった』。",
+   "def_en": "To prove, to attest: “a man attested by God”, “they could not prove”.",
+   "def_es": "Probar, dar testimonio: «varón acreditado por Dios», «no podían probar».",
+   "def_sv": "Att styrka, att intyga: ”en man vars uppdrag Gud bekräftat”, ”de kunde inte bevisa”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒2:22・25:7。LXX、教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "公に示す・宣言する",
+   "label_en": "to exhibit, to proclaim",
+   "label_es": "exhibir, proclamar",
+   "label_sv": "att ställa fram, att utropa",
+   "def": "公に示す、宣言する。『見せ物にされた』『自分が神であると宣言し』。",
+   "def_en": "To display publicly, to declare: “made a spectacle”, “proclaiming himself to be God”.",
+   "def_es": "Mostrar en público, declarar: «puestos como espectáculo», «proclamándose Dios».",
+   "def_sv": "Att offentligt visa upp, att förklara: ”gjorda till ett skådespel”, ”utger sig för att vara Gud”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "コリント第一4:9、テサロニケ第二2:4。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n44002022011": "1",
+  "n44025007019": "1",
+  "n46004009009": "2",
+  "n53002004019": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（証明する／公に示す）による。"
+}

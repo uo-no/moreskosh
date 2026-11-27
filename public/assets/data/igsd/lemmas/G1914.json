@@ -1,0 +1,52 @@
+{
+ "lemma": "ἐπιβλέπω",
+ "lemmaId": "grc:G1914",
+ "strong": "G1914",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "目を注ぐ・顧みる",
+   "label_en": "to look upon with favor",
+   "label_es": "mirar con favor",
+   "label_sv": "att se till",
+   "def": "目を注ぐ、顧みる、哀れむ。『目をとめて』『はしためのような…身分の低い者を顧みて』『わたしの子を顧みてください』。",
+   "def_en": "To turn one’s eyes to, to regard with compassion: “turn your eyes to”, “he has looked upon the low estate … of his servant”, “look upon my son”.",
+   "def_es": "Poner los ojos en alguien, compadecerse: «míranos», «ha mirado la bajeza de su … sierva», «mira a mi hijo».",
+   "def_sv": "Att vända blicken till, förbarma sig över: ”vänd blicken hit”, ”han har sett till sin tjänarinnas … ringhet”, ”se till min son”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ルカ1:48・9:38。LXX、教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "注目する・気を配る",
+   "label_en": "to pay attention to",
+   "label_es": "fijarse en",
+   "label_sv": "att se upp till",
+   "def": "目を向ける、注目する、特別に扱う。『りっぱな服装の人に目をとめて』。",
+   "def_en": "To fix the eyes on, to give special treatment: “you pay attention to the one wearing fine clothes”.",
+   "def_es": "Dirigir la mirada, dar un trato especial: «miráis con agrado al que trae la ropa espléndida».",
+   "def_sv": "Att fästa blicken vid, att särbehandla: ”ni fäster er vid den som bär praktfulla kläder”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヤコブ2:3。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42001048002": "1",
+  "n42009038012": "1",
+  "n59002003001": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（顧みる／特別に注目する）による。"
+}

@@ -1,0 +1,81 @@
+{
+ "lemma": "ἀνέχομαι",
+ "lemmaId": "grc:G430",
+ "strong": "G430",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "忍ぶ／我慢して付き合う（人を）",
+   "label_en": "to bear with / put up with (people)",
+   "label_es": "soportar / tolerar (a las personas)",
+   "label_sv": "att fördra / stå ut med (människor)",
+   "def": "人を忍ぶ、辛抱して付き合う。『いつまであなたがたに我慢しなければならないのか』『互いに忍び合い』『あなたがたの言い分を聞く』。",
+   "def_en": "To bear with people, to be patient with them: “how long am I to bear with you?”, “bearing with one another”, “listen to your case”.",
+   "def_es": "Sobrellevar a las personas, tratarlas con paciencia: «¿hasta cuándo os he de soportar?», «soportándoos unos a otros», «os oiría con paciencia».",
+   "def_sv": "Att ha tålamod och stå ut med människor: ”hur länge måste jag stå ut med er?”, ”ha fördrag med varandra”, ”höra på er sak”.",
+   "layers": {
+    "nt": 8,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "マタイ17:17、マルコ9:19、ルカ9:41、コロサイ3:13、エペソ4:2、使徒18:14、Ⅱコリ11:1（2回）。LXX 詩篇42:14、教父（2、2.5）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "受け入れる／甘んじる（教え・他者の言動を）",
+   "label_en": "to accept / tolerate (teaching, others' conduct)",
+   "label_es": "aceptar / consentir (enseñanzas, conductas)",
+   "label_sv": "att godta / finna sig i (lära, andras beteende)",
+   "def": "他の教えや人の言動を受け入れる、甘んじて聞く。『別の福音を宣べ伝えられても受け入れる』『愚かな者を快く忍ぶ』『健全な教えを受け入れない』『勧めの言葉を受け入れなさい』。",
+   "def_en": "To accept or put up with others' teaching or behaviour: “if one preaches another gospel, you put up with it”, “you gladly bear with fools”, “will not endure sound teaching”, “bear with my word of exhortation”.",
+   "def_es": "Admitir o tolerar la enseñanza o la conducta ajena: «si se os predica otro evangelio, bien lo toleráis», «de buena gana toleráis a los necios», «no sufrirán la sana doctrina», «soportad la palabra de exhortación».",
+   "def_sv": "Att ta emot eller finna sig i andras lära och handlande: ”om någon förkunnar ett annat evangelium finner ni er i det”, ”ni fördrar gärna dårarna”, ”inte stå ut med den sunda läran”, ”ta väl emot förmaningens ord”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "Ⅱコリ11:4・11:19・11:20、Ⅱテモ4:3、ヘブル13:22。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "耐え忍ぶ（迫害・苦難を）",
+   "label_en": "to endure (persecution, suffering)",
+   "label_es": "aguantar (persecución, sufrimiento)",
+   "label_sv": "att uthärda (förföljelse, lidande)",
+   "def": "迫害・苦難に耐え忍ぶ。『迫害されては耐え忍ぶ』『あらゆる迫害と苦難に耐えて』。",
+   "def_en": "To endure persecution and hardship: “when persecuted, we endure”, “enduring all persecutions and afflictions”.",
+   "def_es": "Sufrir con constancia persecución y penalidades: «padecemos persecución y la soportamos», «en todas las persecuciones y tribulaciones que soportáis».",
+   "def_sv": "Att härda ut i förföljelse och lidande: ”när vi förföljs härdar vi ut”, ”under alla förföljelser och lidanden ni uthärdar”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "Ⅰコリ4:12、Ⅱテサ1:4。LXX Ⅳマカバイ1:35 に並行。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40017017018": "1",
+  "n41009019016": "1",
+  "n42009041017": "1",
+  "n44018014027": "1",
+  "n46004012010": "3",
+  "n47011001002": "1",
+  "n47011001009": "1",
+  "n47011004026": "2",
+  "n47011019003": "2",
+  "n47011020001": "2",
+  "n49004002008": "1",
+  "n51003013001": "1",
+  "n53001004027": "3",
+  "n55004003009": "2",
+  "n58013022005": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は目的語（人／教え・言動／苦難）による。"
+}

@@ -1,0 +1,87 @@
+{
+ "lemma": "λατρεύω",
+ "lemmaId": "grc:G3000",
+ "strong": "G3000",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "（神に）仕える／礼拝する",
+   "label_en": "to serve / worship (God)",
+   "label_es": "servir / rendir culto (a Dios)",
+   "label_sv": "att tjäna / tillbe (Gud)",
+   "def": "神に仕える、礼拝する。与格で神、または『霊において』『夜昼』などの様態を伴う。",
+   "def_en": "To serve and worship God. With God in the dative, or with expressions of manner such as “in the spirit” or “night and day”.",
+   "def_es": "Servir y adorar a Dios. Con Dios en dativo, o con expresiones de modo como «en el espíritu» o «de noche y de día».",
+   "def_sv": "Att tjäna och tillbe Gud. Med Gud i dativ eller med uttryck för sättet, som ”i anden” eller ”natt och dag”.",
+   "layers": {
+    "nt": 15,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "マタイ4:10・ルカ4:8（『主にのみ仕えよ』）、ルカ1:74・2:37、ローマ1:9、ピリ3:3、Ⅱテモ1:3、使徒24:14・26:7・27:23・7:7、ヘブル9:14・12:28、黙示録7:15・22:3。LXX 出エジプト記10:8 ほか、教父に並行。"
+  },
+  {
+   "id": "2",
+   "label": "祭儀に仕える（幕屋・神殿の務め）",
+   "label_en": "to serve in the cult (tabernacle and temple duties)",
+   "label_es": "servir en el culto (ministerio del tabernáculo y del templo)",
+   "label_sv": "att göra tjänst i kulten (i tabernaklet och templet)",
+   "def": "幕屋・神殿の祭儀の務めに携わる、祭儀に仕える者。『礼拝者』『幕屋に仕える者』。",
+   "def_en": "To be engaged in the cultic service of the tabernacle or temple, one who serves in the cult: “worshippers”, “those who serve the tabernacle”.",
+   "def_es": "Ocuparse del servicio cultual del tabernáculo o del templo, el que sirve en el culto: «los adoradores», «los que sirven al tabernáculo».",
+   "def_sv": "Att ha del i kulttjänsten i tabernaklet eller templet, de som tjänar i kulten: ”gudstjänstfirare”, ”de som tjänar vid tabernaklet”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヘブル8:5・9:9・10:2・13:10（『幕屋に仕える者』）。ヘブル書に集中する用法で、語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "（偶像・被造物に）仕える",
+   "label_en": "to serve (idols, created things)",
+   "label_es": "servir (a ídolos, a criaturas)",
+   "label_sv": "att tjäna (avgudar, det skapade)",
+   "def": "本来の神でないもの、偶像・被造物・天の軍勢に仕える、拝む。",
+   "def_en": "To serve or worship what is not truly God: idols, created things, the host of heaven.",
+   "def_es": "Servir o adorar lo que no es el verdadero Dios: ídolos, criaturas, el ejército del cielo.",
+   "def_sv": "Att tjäna och tillbe det som inte är den sanne Guden: avgudar, det skapade, himlens härskara.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒7:42（天の星の軍勢に仕える）、ローマ1:25（造り主の代わりに被造物に仕えた）。LXX 申命記11:28（ほかの神々に仕える）、教父（ヘルマス6.9.1『悪魔に仕える』）に並行。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40004010018": "1",
+  "n42001074006": "1",
+  "n42002037016": "1",
+  "n42004008016": "1",
+  "n44007007017": "1",
+  "n44007042008": "3",
+  "n44024014013": "1",
+  "n44026007011": "1",
+  "n44027023013": "1",
+  "n45001009008": "1",
+  "n45001025013": "3",
+  "n50003003009": "1",
+  "n55001003006": "1",
+  "n58008005005": "2",
+  "n58009009021": "2",
+  "n58009014025": "1",
+  "n58010002014": "2",
+  "n58012028009": "1",
+  "n58013010012": "2",
+  "n66007015010": "1",
+  "n66022003022": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

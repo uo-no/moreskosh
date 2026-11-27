@@ -1,0 +1,63 @@
+{
+ "lemma": "ἄκανθα",
+ "lemmaId": "grc:G173",
+ "strong": "G173",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "いばら／とげのある草木",
+   "label_en": "thorn / thorny plant",
+   "label_es": "espino / planta espinosa",
+   "label_sv": "törne / taggig växt",
+   "def": "とげのある草木、いばら。『いばらの中に落ちた種』『いばらがふさいで』『いばらからぶどうが取れようか』『いばらとあざみを生ずる地』。",
+   "def_en": "A thorny plant or shrub, thorns: “seed that fell among thorns”, “the thorns choke it”, “are grapes gathered from thorns?”, “land that bears thorns and thistles”.",
+   "def_es": "Planta o arbusto con espinas: «semilla que cayó entre espinos», «los espinos la ahogaron», «¿se recogen uvas de los espinos?», «tierra que produce espinos y abrojos».",
+   "def_sv": "Taggiga växter, törnen: ”säd som föll bland törnen”, ”törnena kvävde den”, ”plockar man druvor på törnbuskar?”, ”mark som bär törne och tistel”.",
+   "layers": {
+    "nt": 12,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ヘブル6:8、ルカ6:44・8:7（2回）・8:14、マタイ13:7（2回）・13:22・7:16、マルコ4:7（2回）・4:18。LXX イザヤ5:2、教父（26.1.5、9.5）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "いばらの冠（冠を編んだいばら）",
+   "label_en": "thorns (woven into the crown)",
+   "label_es": "espinas (de la corona)",
+   "label_sv": "törnen (till törnekronan)",
+   "def": "冠に編まれたいばら。『いばらで冠を編んで』。",
+   "def_en": "Thorns plaited into a crown: “weaving a crown of thorns”.",
+   "def_es": "Las espinas trenzadas en corona: «tejiendo una corona de espinas».",
+   "def_sv": "Törnen flätade till en krona: ”flätade en krona av törne”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ27:29、ヨハネ19:2。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40007016010": "1",
+  "n40013007006": "1",
+  "n40013007010": "1",
+  "n40013022005": "1",
+  "n40027029005": "2",
+  "n41004007006": "1",
+  "n41004007010": "1",
+  "n41004018007": "1",
+  "n42006044012": "1",
+  "n42008007007": "1",
+  "n42008007011": "1",
+  "n42008014005": "1",
+  "n43019002007": "2",
+  "n58006008003": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用例（植物／冠）による。"
+}

@@ -1,0 +1,62 @@
+{
+ "lemma": "παράδοσις",
+ "lemmaId": "grc:G3862",
+ "strong": "G3862",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "言い伝え（受け継がれたもの）",
+   "label_en": "tradition (handed down)",
+   "label_es": "tradición (lo recibido)",
+   "label_sv": "tradition (det nedärvda)",
+   "def": "受け継がれた言い伝え、伝承。『昔の人の言い伝え』『あなたがたの言い伝えのために』『人間の言い伝えによる』『先祖からの伝承』。",
+   "def_en": "A tradition passed on: “the tradition of the elders”, “for the sake of your tradition”, “according to human tradition”, “handed down from the ancestors”.",
+   "def_es": "Tradición transmitida: «la tradición de los ancianos», «por vuestra tradición», «según las tradiciones de los hombres», «las tradiciones de mis padres».",
+   "def_sv": "En tradition som förts vidare: ”de äldstes tradition”, ”för er traditions skull”, ”efter människors tradition”, ”traditionen från fäderna”.",
+   "layers": {
+    "nt": 10,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ15:2・15:3・15:6、マルコ7:3・7:5・7:8・7:9・7:13、コロサイ2:8、ガラテヤ1:14。語義2との境界は連続的。LXX の代表例（41.2 は『引き渡される』の用法、7.26 は別の用法）・教父の代表例は新約の用法と別で、層は確認できない。"
+  },
+  {
+   "id": "2",
+   "label": "伝えられた教え",
+   "label_en": "teaching handed on",
+   "label_es": "enseñanza transmitida",
+   "label_sv": "överlämnad lära",
+   "def": "伝えられた教え、守るべき伝承。『わたしがあなたがたに伝えた教えを守っている』『教えられた言い伝えを堅く守れ』『受けた教えに従わない者』。",
+   "def_en": "Teaching delivered, tradition to be kept: “you maintain the traditions as I delivered them to you”, “hold to the traditions you were taught”, “one who does not walk by the teaching received”.",
+   "def_es": "La enseñanza entregada, la tradición que debe guardarse: «retenéis las instrucciones tal como os las entregué», «retened la doctrina que habéis aprendido», «el que no anda según la enseñanza recibida».",
+   "def_sv": "Den lära som förmedlats och ska bevaras: ”ni håller fast vid det jag har lämnat vidare till er”, ”håll fast vid de lärdomar ni fått”, ”den som inte följer den mottagna läran”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "Ⅰコリ11:2、Ⅱテサ2:15・3:6。語義1との境界は連続的。層は確認できない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40015002008": "1",
+  "n40015003017": "1",
+  "n40015006015": "1",
+  "n41007003018": "1",
+  "n41007005018": "1",
+  "n41007008008": "1",
+  "n41007009012": "1",
+  "n41007013007": "1",
+  "n46011002013": "2",
+  "n48001014019": "1",
+  "n51002008016": "1",
+  "n53002015008": "2",
+  "n53003006023": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "パケットの LXX 代表例は『引き渡し』など別の用法で、層別確認に不十分。"
+}

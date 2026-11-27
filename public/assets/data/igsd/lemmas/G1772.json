@@ -1,0 +1,51 @@
+{
+ "lemma": "ἔννομος",
+ "lemmaId": "grc:G1772",
+ "strong": "G1772",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "法の下にある",
+   "label_en": "under law",
+   "label_es": "sujeto a la ley",
+   "label_sv": "under lagen",
+   "def": "法の下にある、法に従う。『キリストの律法の下にある』。",
+   "def_en": "Being under law, following the law: “under the law of Christ”.",
+   "def_es": "Que está bajo la ley, que la sigue: «bajo la ley de Cristo».",
+   "def_sv": "Som står under lag, som följer lagen: ”bunden av Kristi lag”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "コリント第一9:21。LXX・教父の代表例では確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "法にかなった",
+   "label_en": "lawful",
+   "label_es": "legal",
+   "label_sv": "lagenlig",
+   "def": "法にかなった、正式の。『正規の議会』。",
+   "def_en": "According to law, regular: “the lawful assembly”.",
+   "def_es": "Conforme a la ley, en regla: «legítima asamblea».",
+   "def_sv": "Laglig, i vederbörlig ordning: ”den lagliga folkförsamlingen”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒19:39。LXX に並行。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n44019039008": "2",
+  "n46009021010": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法による。"
+}

@@ -1,0 +1,57 @@
+{
+ "lemma": "ἐπιλανθάνομαι",
+ "lemmaId": "grc:G1950",
+ "strong": "G1950",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "忘れる",
+   "label_en": "to forget",
+   "label_es": "olvidar",
+   "label_sv": "att glömma",
+   "def": "忘れる、忘れている。『あなたがたの働きを忘れ』『自分の姿を忘れてしまう』『一羽も神に忘れられてはいない』『パンを持って来るのを忘れた』『後ろのものを忘れ』。",
+   "def_en": "To forget, to be forgetful of: “overlook your work”, “forgets what he was like”, “not one of them is forgotten before God”, “forgot to bring bread”, “forgetting what lies behind”.",
+   "def_es": "Olvidar, no acordarse: «olvidar vuestra obra», «olvida cómo era», «ni uno de ellos está olvidado delante de Dios», «se olvidaron de traer pan», «olvidando lo que queda atrás».",
+   "def_sv": "Att glömma, ha glömt: ”glömma vad ni har gjort”, ”glömmer hur han såg ut”, ”inte en enda av dem är bortglömd av Gud”, ”hade glömt att ta med bröd”, ”jag glömmer det som ligger bakom”.",
+   "layers": {
+    "nt": 6,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ヘブル6:10、ヤコブ1:24、ルカ12:6、マタイ16:5、マルコ8:14、ピリピ3:13。LXX 詩篇12:2・イザヤ23:16、教父（10.3、35.11）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "おろそかにする",
+   "label_en": "to neglect",
+   "label_es": "descuidar",
+   "label_sv": "att försumma",
+   "def": "おろそかにする、気にかけない。『旅人をもてなすことを忘れてはいけない』『善を行い、施すことを忘れるな』。",
+   "def_en": "To neglect, to pay no heed: “do not neglect to show hospitality to strangers”, “do not neglect to do good and to share”.",
+   "def_es": "Descuidar, no hacer caso: «no os olvidéis de la hospitalidad», «de hacer bien y de la ayuda mutua no os olvidéis».",
+   "def_sv": "Att försumma, inte bry sig om: ”glöm inte att visa gästfrihet”, ”glöm inte att göra gott och dela med er”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ヘブル13:2・13:16。語義1との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40016005008": "1",
+  "n41008014002": "1",
+  "n42012006013": "1",
+  "n50003013012": "1",
+  "n58006010006": "1",
+  "n58013002004": "2",
+  "n58013016007": "2",
+  "n59001024008": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（忘れる／おろそかにする）による。"
+}

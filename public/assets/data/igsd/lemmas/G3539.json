@@ -1,0 +1,80 @@
+{
+ "lemma": "νοέω",
+ "lemmaId": "grc:G3539",
+ "strong": "G3539",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "悟る／理解する",
+   "label_en": "to perceive / understand",
+   "label_es": "entender / comprender",
+   "label_sv": "att förstå / inse",
+   "def": "理解する、悟る、見分ける。『まだ悟らないのか』『読む者は悟れ』『理解して』『悟らないで』『よく考えなさい』。",
+   "def_en": "To understand, grasp, discern: “do you not yet perceive?”, “let the reader understand”, “understanding”, “without understanding”, “think carefully”.",
+   "def_es": "Comprender, discernir: «¿no entendéis aún?», «el que lee, entienda», «entender», «sin entender», «considera bien».",
+   "def_sv": "Att begripa, fatta, urskilja: ”förstår ni inte ännu?”, ”den som läser må förstå”, ”inse”, ”utan att förstå”, ”tänk på”.",
+   "layers": {
+    "nt": 11,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "マタイ16:9・16:11・15:17・24:15、マルコ7:18・8:17・13:14、ヨハネ12:40、エペソ3:4、Ⅰテモ1:7、Ⅱテモ2:7。LXX 申命記・詩篇、教父（22.6.1、8.2）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "知性で認識する（造られたものを）",
+   "label_en": "to apprehend with the mind (through what is made)",
+   "label_es": "captar con la inteligencia (lo creado)",
+   "label_sv": "att uppfatta med förståndet (genom det skapade)",
+   "def": "知性で認識する、悟る。『見えるものが目に見えるものから出たのではないことを悟る』『造られたものによって知られ』。",
+   "def_en": "To grasp with the intellect: “understand that what is seen was not made out of things that are visible”, “clearly perceived through the things that have been made”.",
+   "def_es": "Percibir con el entendimiento: «entendemos que lo que se ve fue hecho de lo que no se veía», «entendidas por medio de las cosas hechas».",
+   "def_sv": "Att med tanken inse: ”förstår att det synliga inte har blivit till av något synligt”, ”kan förstås genom det som är skapat”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヘブル11:3、ローマ1:20。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "思い描く",
+   "label_en": "to imagine",
+   "label_es": "imaginar",
+   "label_sv": "att tänka sig",
+   "def": "思い描く、考える。『わたしたちが願い、思うところのすべて』。",
+   "def_en": "To conceive, to think: “all that we ask or think”.",
+   "def_es": "Concebir, pensar: «todo lo que pedimos o entendemos».",
+   "def_sv": "Att föreställa sig, tänka: ”allt vi ber om eller kan tänka”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "エペソ3:20 の1例のみ。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40015017002": "1",
+  "n40016009002": "1",
+  "n40016011003": "1",
+  "n40024015020": "1",
+  "n41007018010": "1",
+  "n41008017012": "1",
+  "n41013014014": "1",
+  "n43012040016": "1",
+  "n45001020010": "2",
+  "n49003004005": "1",
+  "n49003020011": "3",
+  "n54001007005": "1",
+  "n55002007001": "1",
+  "n58011003002": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（理解／認識／思い描く）による。"
+}

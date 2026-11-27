@@ -1,0 +1,84 @@
+{
+ "lemma": "πυλών",
+ "lemmaId": "grc:G4440",
+ "strong": "G4440",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "玄関／門口（家・館の）",
+   "label_en": "entrance / gateway (of a house or mansion)",
+   "label_es": "portal / entrada (de casa o mansión)",
+   "label_sv": "port / ingång (till hus eller gård)",
+   "def": "家・館の入口、玄関の門、門口。『門のところで』『門口に置かれ』『戸口に立つ』。",
+   "def_en": "The entrance of a house or mansion, the front gate, the doorway: “at the gate”, “laid at the gate”, “stood at the door”.",
+   "def_es": "La entrada de una casa o mansión, la puerta principal, el zaguán: «a la puerta», «echado a la puerta», «de pie a la entrada».",
+   "def_sv": "Ingången till ett hus eller en gård, porten: ”vid porten”, ”låg vid porten”, ”stod vid dörren”.",
+   "layers": {
+    "nt": 6,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マタイ26:71（門まで出て行くと）、ルカ16:20（ラザロは金持ちの門口に）、使徒10:17（シモンの家の門口に）・12:13・14（ペテロの門口）。LXX にも並行。教父の用例は無い。"
+  },
+  {
+   "id": "2",
+   "label": "門（町・神殿の門）",
+   "label_en": "gate (of a city or temple)",
+   "label_es": "puerta (de ciudad o templo)",
+   "label_sv": "port (stads- eller tempelport)",
+   "def": "城壁のある町・神殿の門、門楼。",
+   "def_en": "The gate or gatehouse of a walled city or temple.",
+   "def_es": "La puerta o torre de entrada de una ciudad amurallada o de un templo.",
+   "def_sv": "Porten eller porttornet i en muromgärdad stad eller ett tempel.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒14:13（町の門の前の神殿の祭司が牛と花輪を）の1例のみ。LXX・教父の用例は代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "（新しいエルサレムの）門",
+   "label_en": "gate (of the New Jerusalem)",
+   "label_es": "puerta (de la nueva Jerusalén)",
+   "label_sv": "port (i det nya Jerusalem)",
+   "def": "天のエルサレムの門。十二の門、各門は一つの真珠、門を通って都に入る。",
+   "def_en": "The gates of the heavenly Jerusalem: twelve gates, each a single pearl, through which one enters the city.",
+   "def_es": "Las puertas de la Jerusalén celestial: doce puertas, cada una de una sola perla, por las que se entra en la ciudad.",
+   "def_sv": "Det himmelska Jerusalems portar: tolv portar, var och en av en enda pärla, genom vilka man går in i staden.",
+   "layers": {
+    "nt": 11,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "黙示録21:12・13（4回）・15・21（2回）・25、22:14（門を通って都に入る）。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40026071005": "1",
+  "n42016020009": "1",
+  "n44010017031": "1",
+  "n44012013007": "1",
+  "n44012014013": "1",
+  "n44012014022": "1",
+  "n44014013016": "2",
+  "n66021012007": "3",
+  "n66021012012": "3",
+  "n66021013003": "3",
+  "n66021013008": "3",
+  "n66021013013": "3",
+  "n66021013018": "3",
+  "n66021015016": "3",
+  "n66021021004": "3",
+  "n66021021011": "3",
+  "n66021025003": "3",
+  "n66022014019": "3"
+ },
+ "unresolved": [],
+ "layer_notes": "教父の用例は0件（パケット）。新約に無い用法は代表例の範囲では見当たらない。"
+}

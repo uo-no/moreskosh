@@ -1,0 +1,82 @@
+{
+ "lemma": "συνίστημι",
+ "lemmaId": "grc:G4921",
+ "strong": "G4921",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "推薦する",
+   "label_en": "to commend",
+   "label_es": "recomendar",
+   "label_sv": "att rekommendera",
+   "def": "人を推薦する、紹介する。『自分を推薦する者』『わたしはあなたがたにフィベを推薦する』『主が推薦する者』。",
+   "def_en": "To recommend or introduce a person: “those who commend themselves”, “I commend to you Phoebe”, “the one whom the Lord commends”.",
+   "def_es": "Recomendar o presentar a una persona: «los que se alaban a sí mismos», «os recomiendo a Febe», «aquel a quien Dios alaba».",
+   "def_sv": "Att förorda eller presentera en människa: ”de som rekommenderar sig själva”, ”jag rekommenderar Foibe åt er”, ”den som Herren rekommenderar”.",
+   "layers": {
+    "nt": 9,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "Ⅱコリ10:12・10:18（2回）・12:11・3:1・6:4・4:2・5:12、ローマ16:1。LXX・教父の代表例では確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "示す／証明する",
+   "label_en": "to demonstrate / prove",
+   "label_es": "mostrar / demostrar",
+   "label_sv": "att visa / bevisa",
+   "def": "示す、証明する、明らかにする。『神の義を明らかにする』『神はわたしたちに愛を示される』『あなたがたは潔白であることを示した』『自分を違反者と証明する』。",
+   "def_en": "To show, prove, or make clear: “shows God's righteousness”, “God shows his love for us”, “you have proved yourselves innocent”, “I prove myself a transgressor”.",
+   "def_es": "Mostrar, probar, dejar claro: «hace resaltar la justicia de Dios», «Dios muestra su amor para con nosotros», «habéis mostrado ser limpios», «transgresor me hago».",
+   "def_sv": "Att visa, bevisa och klargöra: ”framhäver Guds rättfärdighet”, ”Gud bevisar sin kärlek till oss”, ”ni har visat att ni är utan skuld”, ”visar mig vara en överträdare”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ローマ3:5・5:8、Ⅱコリ7:11、ガラテヤ2:18。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "立つ／成り立つ／保たれる",
+   "label_en": "to stand / consist / hold together",
+   "label_es": "subsistir / consistir / mantenerse",
+   "label_sv": "att bestå / hållas samman",
+   "def": "共に立つ、成り立つ、保たれる。『万物は彼によって成り立っている』『水から成り立ち』『共に立っている』。",
+   "def_en": "To stand together, consist, be held together: “in him all things hold together”, “formed out of water”, “standing together”.",
+   "def_es": "Estar en pie juntos, consistir, mantenerse: «todas las cosas en él subsisten», «la tierra que proviene del agua y subsiste», «estar juntos».",
+   "def_sv": "Att stå tillsammans, bestå, hållas samman: ”allt består i honom”, ”jorden som uppstod ur vatten”, ”stå tillsammans”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅱペテロ3:5、コロサイ1:17、ルカ9:32。LXX 歴代誌・マカバイ、教父（Ⅰクレメンス27.4）に並行。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42009032022": "3",
+  "n45003005008": "2",
+  "n45005008001": "2",
+  "n45016001001": "1",
+  "n47003001004": "1",
+  "n47004002022": "1",
+  "n47005012004": "1",
+  "n47006004004": "1",
+  "n47007011027": "2",
+  "n47010012011": "1",
+  "n47010018005": "1",
+  "n47010018013": "1",
+  "n47012011011": "1",
+  "n48002018010": "2",
+  "n51001017011": "3",
+  "n61003005017": "3"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は構文（他動詞／自動詞）による。"
+}

@@ -1,0 +1,52 @@
+{
+ "lemma": "ἀντιλαμβάνομαι",
+ "lemmaId": "grc:G482",
+ "strong": "G482",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "助ける・支える",
+   "label_en": "to help, to support",
+   "label_es": "socorrer, ayudar",
+   "label_sv": "att hjälpa, att ta sig an",
+   "def": "助ける、支える。『弱い者を助けなければならない』『しもべイスラエルを助けられた』。",
+   "def_en": "To help, to come to the aid of: “we must help the weak”, “he has helped his servant Israel”.",
+   "def_es": "Ayudar, auxiliar: «se debe ayudar a los necesitados», «socorrió a Israel su siervo».",
+   "def_sv": "Att bistå, att stödja: ”man måste ta sig an de svaga”, ”han har tagit sig an sin tjänare Israel”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒20:35、ルカ1:54。LXX、教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "あずかる・恩恵を受ける",
+   "label_en": "to benefit from",
+   "label_es": "beneficiarse",
+   "label_sv": "att få del av",
+   "def": "受ける、あずかる。『その恩恵にあずかる者』。",
+   "def_en": "To receive, to have a share in a benefit: “those who share in the benefit”.",
+   "def_es": "Recibir, participar de un bien: «los que se benefician de su buen servicio».",
+   "def_sv": "Att ta emot, att dra nytta av: ”de som får del av välgärningen”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "テモテ第一6:2。LXX の代表例では確認していない。教父に並行（あずかる）。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42001054001": "1",
+  "n44020035008": "1",
+  "n54006002022": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（助ける／あずかる）による。"
+}

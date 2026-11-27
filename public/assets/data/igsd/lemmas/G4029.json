@@ -1,0 +1,71 @@
+{
+ "lemma": "περίκειμαι",
+ "lemmaId": "grc:G4029",
+ "strong": "G4029",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "掛けられている・身につけている",
+   "label_en": "to be hung around, to wear",
+   "label_es": "llevar puesto, estar colgado",
+   "label_sv": "att vara hängd om, att bära",
+   "def": "首などに掛けられている、身につけている。『首にひき臼をかけられて』『この鎖につながれている』。",
+   "def_en": "To be hung about the neck or the like; to be wearing: “with a millstone hung around his neck”, “bound with this chain”.",
+   "def_es": "Tener algo colgado al cuello o puesto encima: «atada al cuello una piedra de molino», «sujeto con esta cadena».",
+   "def_sv": "Att ha något hängande om halsen eller på sig: ”med en kvarnsten hängd om halsen”, ”bunden med denna kedja”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ルカ17:2、マルコ9:42、使徒28:20。LXX に並行。教父の代表例では確認していない。語義2・3との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "取り巻かれている",
+   "label_en": "to be surrounded",
+   "label_es": "estar rodeado",
+   "label_sv": "att vara omgiven",
+   "def": "雲のように取り巻かれている。『このように多くの証人に囲まれている』。",
+   "def_en": "To be surrounded as by a cloud: “surrounded by so great a cloud of witnesses”.",
+   "def_es": "Estar rodeado como por una nube: «teniendo en derredor nuestro tan grande nube de testigos».",
+   "def_sv": "Att vara omsluten som av en sky: ”omgivna av en så stor sky av vittnen”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヘブル12:1。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "弱さを負う",
+   "label_en": "to be beset with weakness",
+   "label_es": "estar rodeado de debilidad",
+   "label_sv": "att vara behäftad med svaghet",
+   "def": "弱さを身にまとう、弱さの中にある。『自分自身も弱さを負うているので』。",
+   "def_en": "To be clothed in weakness, to be subject to it: “since he himself is also beset with weakness”.",
+   "def_es": "Estar revestido de flaqueza: «puesto que él también está rodeado de debilidad».",
+   "def_sv": "Att bära svagheten på sig, att vara svag: ”eftersom han själv är behäftad med svaghet”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヘブル5:2。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n41009042018": "1",
+  "n42017002006": "1",
+  "n44028020020": "1",
+  "n58005002010": "3",
+  "n58012001006": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（身につける／取り巻かれる／弱さを負う）による。"
+}

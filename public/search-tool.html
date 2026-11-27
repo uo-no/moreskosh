@@ -936,32 +936,6 @@ body.is-lobby .prox-sub { margin-left: auto; margin-right: auto; }
     border-color: var(--phrase-border);
 }
 
-/* ── Pattern Explore cards（ことばの構造を見る）── */
-#pattern-explore-chips {
-    gap: var(--space-sm);
-    justify-content: flex-start;
-}
-.pe-card {
-    flex: 1 1 160px; max-width: 220px;
-    padding: var(--space-sm) var(--space-md);
-    border: 1px solid var(--border-soft);
-    border-radius: var(--radius-m);
-    background: var(--bg-paper);
-    cursor: pointer; text-align: left;
-    font-family: var(--s-ff-ui);
-    transition: background var(--transition-fast);
-}
-.pe-card:hover { background: var(--bg-panel); }
-.pe-label {
-    font-size: var(--text-body); font-weight: 700;
-    color: var(--text); margin-bottom: var(--space-xs);
-}
-.pe-pattern {
-    font-size: var(--text-caption);
-    color: var(--text-sub); margin-bottom: var(--space-xs);
-}
-.pe-desc { font-size: var(--text-caption); color: var(--text-hint); line-height: 1.5; }
-
 /* ── Concept Insight（Phase 4-3）: 表示専用の知識カード。
       値はすべて既存 tokens.css のトークンのみ（新色・新余白値なし）。
       チップは既存 .layer-chip 体系を流用する ── */
@@ -2454,10 +2428,6 @@ body.is-lobby .genre-tabs { display: none; }   /* #92：ロビーでは出さず
                 <div class="lemma-cooc" id="lemma-cooc" style="display:none;"></div>
                 <div class="hits-list" id="hits-list"></div>
                 <div class="dist-panel" id="dist-panel" style="display:none;"></div>
-                <div id="pattern-explore-section" style="display:none;margin-top:var(--space-xl);padding-top:var(--space-lg);border-top:1px solid var(--border-soft);">
-                    <div class="empty-section-label" data-i18n="search.pattern.title">ことばの構造を見る</div>
-                    <div class="layer-chips" id="pattern-explore-chips"></div>
-                </div>
             </div>
         </div>
     </div><!-- /#result-body -->
@@ -4261,19 +4231,6 @@ function _renderPatternChips() {
     sec.style.display = '';
 }
 
-function _renderPatternExplore() {
-    const sec  = document.getElementById('pattern-explore-section');
-    const wrap = document.getElementById('pattern-explore-chips');
-    if (!sec || !wrap || SEARCH_PATTERNS.length === 0) return;
-    wrap.innerHTML = SEARCH_PATTERNS.map((p, i) =>
-        `<button class="pe-card" onclick="runPatternSearch(${i})">
-            <div class="pe-label">${_escH(_patLabel(p))}</div>
-            <div class="pe-pattern">${_escH(_patPattern(p))}</div>
-            <div class="pe-desc">${_escH(_patDesc(p))}</div>
-        </button>`).join('');
-    sec.style.display = '';
-}
-
 /* runPatternSearch: パターンカードクリック → SQS にフィルタを追加して unifiedSearch で再実行。
    専用の検索実行ルートは廃止し、unifiedSearch に一元化（Search Query State 統合）。 */
 function runPatternSearch(i) {
@@ -4771,7 +4728,7 @@ document.addEventListener('click',ev=>{
 /* ── 逆引きタブ（#265）──
    意味（UI 言語の語）から「語（レンマ）の候補」を返し、NGSD の語義の切り分けを併記する。グロス検索（訳語→用例）とは別物。
    - 材料は assets/data/igsd/reverse-<UI言語>.json（#264）と、既存の index.json／lemmas の NGSD 自前のラベル・定義だけ。
-   - 照合順：①aliases ②見出しの完全一致（＋stemAliases の合流）④前方一致（①〜③で0件のときだけ）。定義文の部分一致検索はしない。
+   - 照合順：①aliases ②見出しの完全一致（＋stemAliases の合流）③wordAliases（EN・ES・SV の語単位キー）④前方一致（①〜③で0件のときだけ）。定義文の部分一致検索はしない。
    - 入力が UI 言語の索引に当たらない／ギリシャ文字／Strong 番号のときはタブを出さない（従来の検索は一切変えない）。
    - 検索のジャンル（_genreTab）には加わらない。形態ジャンルのときだけ出て、開いている間は検索結果を隠してこの面を出す。 */
 let _revActive=false;
@@ -4811,6 +4768,8 @@ function _revMatch(query,data,lang){
     const heads=new Set();
     if(hw.has(k))heads.add(hw.get(k));
     if(st.has(k))for(const h of st.get(k))if(data.headwords[h])heads.add(h);
+    /* #267：語単位キー（EN・ES・SV）。複数語見出しの構成語から見出しへ引く。ファイルに無い言語（JA）では段ごと飛ばす */
+    if(data.wordAliases&&Object.prototype.hasOwnProperty.call(data.wordAliases,k)){const wa=data.wordAliases[k];if(Array.isArray(wa))for(const h of wa)if(data.headwords[h])heads.add(h);}
     if(heads.size===0&&k.length>=(ci?2:1)){
         for(const [kk,h] of hw)if(kk.startsWith(k)){heads.add(h);if(heads.size>=20)break;}
     }
@@ -4930,7 +4889,7 @@ async function _revOpen(strong,senseId){
     if(rb&&rb.style.display==='none'){rb.style.display='';const se=document.getElementById('state-empty');if(se)se.style.display='none';}
     if(_igsdCurrentClose)_igsdCurrentClose();
     const q=_lastQuery||'';
-    await _igsdOpenPage(e,group,[group],q,null,q.trim().split(/\s+/),false,['hits-count','hits-list','pattern-explore-section','igsd-entry']);
+    await _igsdOpenPage(e,group,[group],q,null,q.trim().split(/\s+/),false,['hits-count','hits-list','igsd-entry']);
     const n=e.senses.findIndex(s=>String(s.id)===String(senseId));
     if(n<0)return;
     for(let i=0;i<10;i++){
@@ -5666,10 +5625,6 @@ function _renderUnifiedResults(query,words,word2){
     const merged=_allMergedResults;
     const total=merged.size;
 
-    // Pattern explore: 各検索の先頭でリセット（0件 or 次検索で残留しない）
-    const _patEx=document.getElementById('pattern-explore-section');
-    if(_patEx) _patEx.style.display='none';
-
     // Corpus breakdown count (corpusId が唯一の判定ソース。book名推測禁止)
     let ntCount=0,lxxCount=0;
     for(const[,{tok}] of merged){ if(tok.corpusId==='LXX') lxxCount++; else ntCount++; }
@@ -5824,11 +5779,6 @@ function _renderUnifiedResults(query,words,word2){
     // Book distribution
     _renderBookDist(entries);
 
-    // Grammar explore: ギリシャ語・Strong番号検索時のみ表示
-    // 日本語検索（語義・概念）では文法パターンは文脈と無関係のため非表示
-    if (qtype === 'greek' || qtype === 'strong') {
-        _renderPatternExplore();
-    }
     _lemmaTabAfterRender();   /* #201：出現分布の描画後に（単独表示は出現分布を隠すため） */
 }
 
@@ -6600,9 +6550,9 @@ function _igsdDecorateGreekQuery(query,word2,words){
 let _igsdCurrentClose=null;
 async function _igsdOpenPage(entry,group,groups,query,word2,words,fromGreekQuery,extraHide){
     /* 日本語クエリ: 語グループ行から開く（隠す対象は語グループと分布）。
-       ギリシャ語クエリ（QA-05）: 入口バーから開く（隠す対象は件数・ヒット一覧・分布・構造探索・入口）。 */
+       ギリシャ語クエリ（QA-05）: 入口バーから開く（隠す対象は件数・ヒット一覧・分布・入口）。 */
     const ids=fromGreekQuery
-        ?['result-header','igsd-entry','hits-count','hits-list','dist-panel','pattern-explore-section']
+        ?['result-header','igsd-entry','hits-count','hits-list','dist-panel']
         :['result-header','lemma-groups','lemma-cooc','dist-panel'];
     if(Array.isArray(extraHide))extraHide.forEach(id=>{if(ids.indexOf(id)<0)ids.push(id);});   /* #265：逆引きから開くとき、直前の検索結果の一覧も隠す */
     const targets=ids.map(id=>document.getElementById(id)).filter(Boolean);
@@ -8681,8 +8631,6 @@ if (window.I18N && I18N.ready) {
             _initMorphChips();                            // 文法フィルタの選択肢・補足（選択状態 _morphSel は保たれる）
             _renderHistory();
             _renderEmptyStateHistory();
-            const _pec = document.getElementById('pattern-explore-chips');
-            if (_pec && _pec.children.length) _renderPatternExplore();   // 既に描かれているときだけ作り直す（新たに出さない）
             if (typeof _updateSearchControls === 'function') _updateSearchControls();
             onProxSlider(currentDist);
         } catch (e) { console.warn('[search-i18n] re-render failed', e); }

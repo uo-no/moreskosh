@@ -1,0 +1,63 @@
+{
+ "lemma": "πώς",
+ "lemmaId": "grc:G4458",
+ "strong": "G4458",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "〜しないように（μή πως：懸念）",
+   "label_en": "lest / so that not (μή πως: concern)",
+   "label_es": "no sea que (μή πως: temor)",
+   "label_sv": "så att inte (μή πως: oro)",
+   "def": "懸念を表す『もしかして〜ではないかと』『〜しないように』。『あなたがたの自由が弱い人のつまずきにならないように』『私自身が失格者にならないように』『誘惑者が誘惑したのではないかと』『蛇がエバを欺いたように』。",
+   "def_en": "Expresses concern, “lest perhaps”, “so that not”: “lest your liberty become a stumbling block to the weak”, “lest I myself be disqualified”, “lest the tempter had tempted you”, “lest, as the serpent deceived Eve …”.",
+   "def_es": "Expresa recelo, «no sea que acaso», «para que no»: «que vuestra libertad no venga a ser tropezadero para los débiles», «no sea que yo mismo venga a ser eliminado», «no sea que os hubiese tentado el tentador», «que como la serpiente engañó a Eva …».",
+   "def_sv": "Uttrycker oro, ”att inte kanske”, ”så att inte”: ”så att er frihet inte blir till fall för de svaga”, ”så att jag inte själv blir underkänd”, ”att frestaren skulle ha frestat er”, ”att liksom ormen bedrog Eva …”.",
+   "layers": {
+    "nt": 10,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "Ⅰコリ8:9・9:27、Ⅰテサ3:5、Ⅱコリ2:7・12:20（2回）・11:3・9:4、ガラテヤ2:2・4:11。語義2との境界は連続的。LXX・教父の代表例は疑問詞 πῶς で、この不定の πως ではないため確認できない（層は none）。"
+  },
+  {
+   "id": "2",
+   "label": "何とかして（εἴ πως：期待）",
+   "label_en": "somehow / if possible (εἴ πως: hope)",
+   "label_es": "si de algún modo (εἴ πως: esperanza)",
+   "label_sv": "om möjligt (εἴ πως: förhoppning)",
+   "def": "期待・願いを表す『何とかして』『できるなら』。『何とかして死者の中からの復活に達したい』『何とかして道が開かれ』『同胞を妬ませて何人かを救おう』『冬を越すことができれば』。",
+   "def_en": "Expresses hope or wish, “somehow”, “if possible”: “that somehow I may attain the resurrection from the dead”, “that somehow a way may be opened”, “somehow make my own people jealous and save some of them”, “if they could winter there”.",
+   "def_es": "Expresa esperanza o deseo, «de alguna manera», «si es posible»: «si en alguna manera llegase a la resurrección de entre los muertos», «si al fin se me abre camino», «por si puedo provocar a celos a los de mi sangre y salvar a algunos», «por si pudiesen invernar».",
+   "def_sv": "Uttrycker hopp och önskan, ”på något sätt”, ”om möjligt”: ”om jag på något sätt kan nå uppståndelsen från de döda”, ”att en väg äntligen öppnas”, ”kanske väcka mina landsmäns avund och rädda några”, ”om de kunde övervintra”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ピリピ3:11、ローマ1:10・11:14、使徒27:12。語義1との境界は連続的。層は確認できない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n44027012015": "2",
+  "n45001010008": "2",
+  "n45011014002": "2",
+  "n46008009004": "1",
+  "n46009027009": "1",
+  "n47002007009": "1",
+  "n47009004002": "1",
+  "n47011003004": "1",
+  "n47012020004": "1",
+  "n47012020018": "1",
+  "n48002002021": "1",
+  "n48004011004": "1",
+  "n50003011002": "2",
+  "n52003005014": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "パケットは不定の πως（アクセントなし）で、LXX・教父の代表例は疑問詞 πῶς のため層別確認に不十分。"
+}

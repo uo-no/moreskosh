@@ -1,0 +1,52 @@
+{
+ "lemma": "ἐνέχω",
+ "lemmaId": "grc:G1758",
+ "strong": "G1758",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "つながれる・縛られる",
+   "label_en": "to be bound, to be subjected",
+   "label_es": "estar sujeto",
+   "label_sv": "att vara fångad, att vara bunden",
+   "def": "束縛される、くびきにつながれる。『奴隷のくびきに…つながれてはならない』。",
+   "def_en": "To be held fast, to be tied to a yoke: “do not be yoked … to a yoke of slavery”.",
+   "def_es": "Quedar atado, estar uncido a un yugo: «no estéis otra vez sujetos … al yugo de esclavitud».",
+   "def_sv": "Att vara fjättrad, att bli spänd i ett ok: ”låt er inte … tvingas in under slavoket”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ガラテヤ5:1。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "恨む・敵意を抱く",
+   "label_en": "to bear a grudge",
+   "label_es": "guardar rencor",
+   "label_sv": "att hysa agg",
+   "def": "恨む、敵意を抱く。『ヘロデヤは…恨み』『激しく迫り』。",
+   "def_en": "To harbor resentment or hostility: “Herodias … bore a grudge”, “began to press him hard”.",
+   "def_es": "Tener ojeriza, ser hostil: «Herodías … acechaba», «a estrecharle en gran manera».",
+   "def_sv": "Att bära groll, att vara fientlig: ”Herodias … hyste agg”, ”började ansätta honom hårt”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ルカ11:53、マルコ6:19。LXX に並行。教父の用例なし。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n41006019004": "2",
+  "n42011053011": "2",
+  "n48005001013": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（束縛／敵意）による。"
+}

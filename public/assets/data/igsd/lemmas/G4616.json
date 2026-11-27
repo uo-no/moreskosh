@@ -1,0 +1,55 @@
+{
+ "lemma": "σινδών",
+ "lemmaId": "grc:G4616",
+ "strong": "G4616",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "亜麻布（埋葬用）",
+   "label_en": "linen cloth (for burial)",
+   "label_es": "sábana de lino (mortaja)",
+   "label_sv": "linneduk (till svepning)",
+   "def": "遺体を包む亜麻布。『亜麻布で巻き』『きれいな亜麻布に包み』『亜麻布を買い、イエスを取りおろして亜麻布で巻き』『亜麻布に包んで』。",
+   "def_en": "Linen cloth for wrapping a body: “wrapped it in a linen cloth”, “wrapped it in a clean linen cloth”, “bought a linen cloth, took Jesus down and wrapped him in the linen”, “wrapped it in linen”.",
+   "def_es": "Lienzo de lino para envolver un cadáver: «lo envolvió en una sábana», «lo envolvió en una sábana limpia», «compró una sábana, y quitándolo, lo envolvió en la sábana», «envuelto en una sábana».",
+   "def_sv": "Linnetyg att svepa en död kropp i: ”svepte kroppen i linnetyg”, ”svepte den i rent linnetyg”, ”köpte linnetyg, tog ner Jesus och svepte honom i det”, ”svepte den i linne”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ルカ23:53、マタイ27:59、マルコ15:46（2回）。語義2との境界は連続的。LXX・教父の代表例は衣類の用法で、この語義としては確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "亜麻布の衣",
+   "label_en": "linen garment",
+   "label_es": "prenda de lino",
+   "label_sv": "linneklädnad",
+   "def": "亜麻布でできた衣・覆い。『亜麻布を身にまとった一人の若者』『亜麻布を捨てて裸で逃げた』。",
+   "def_en": "A garment or covering made of linen: “a young man wearing a linen cloth”, “left the linen cloth and ran away naked”.",
+   "def_es": "Vestido o cubierta hecho de lino: «un joven cubierto el cuerpo de una sábana», «dejando la sábana, huyó desnudo».",
+   "def_sv": "Ett plagg eller täcke av linne: ”en ung man klädd i ett linneskynke”, ”lämnade linneskynket och flydde naken”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マルコ14:51・14:52。LXX（14.12・31b.24）に並行。教父の用例なし。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40027059009": "1",
+  "n41014051007": "2",
+  "n41014052005": "2",
+  "n41015046003": "1",
+  "n41015046008": "1",
+  "n42023053005": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（埋葬用の布／衣）による。"
+}

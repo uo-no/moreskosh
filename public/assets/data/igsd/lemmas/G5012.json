@@ -1,0 +1,56 @@
+{
+ "lemma": "ταπεινοφροσύνη",
+ "lemmaId": "grc:G5012",
+ "strong": "G5012",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "へりくだり・謙遜",
+   "label_en": "humility",
+   "label_es": "humildad",
+   "label_sv": "ödmjukhet",
+   "def": "へりくだった心、謙遜。『へりくだりを身につけなさい』『謙遜の限りを尽くして』『謙遜と柔和を』『へりくだって』『へりくだった心をもって』『へりくだりと…を着なさい』。",
+   "def_en": "A lowly mind, humility: “clothe yourselves with humility”, “with all humility”, “humility and gentleness”, “in humility”, “with a humble mind”, “clothe yourselves with humility and …”.",
+   "def_es": "Ánimo humilde, humildad: «vestíos de humildad», «con toda humildad», «humildad y mansedumbre», «con humildad», «con humildad de corazón», «vestíos de humildad y …».",
+   "def_sv": "Ett ödmjukt sinne: ”klä er i ödmjukhet”, ”i all ödmjukhet”, ”ödmjukhet och mildhet”, ”i ödmjukhet”, ”med ödmjukt sinne”, ”ikläd er ödmjukhet och …”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "ペテロ第一5:5、使徒20:19、コロサイ3:12、エペソ4:2、ピリピ2:3。教父（30.8・3.10.6）に並行。LXX の用例なし。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "へりくだり（誤ったもの）",
+   "label_en": "(false) humility",
+   "label_es": "(falsa) humildad",
+   "label_sv": "(falsk) ödmjukhet",
+   "def": "自己卑下の戒め。『ことさらに謙遜をよそおい』『謙遜と自己卑下と…』。",
+   "def_en": "A warning against self-abasement: “taking delight in false humility”, “humility and self-abasement …”.",
+   "def_es": "Advertencia contra el rebajarse a sí mismo: «afectando humildad», «humildad y trato duro de sí mismo …».",
+   "def_sv": "En varning för självförnedring: ”göra sig till med ödmjukhet”, ”ödmjukhet och självförnedring …”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "コロサイ2:18・2:23。ここでの評価（偽りか否か）は文脈上の読みで、語義は用法による区別にとどめる。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n44020019006": "1",
+  "n49004002003": "1",
+  "n50002003009": "1",
+  "n51002018006": "2",
+  "n51002023010": "2",
+  "n51003012013": "1",
+  "n60005005009": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "LXX の用例なし。語義区分は文脈（通常のへりくだり／コロサイ2章での用法）による。"
+}

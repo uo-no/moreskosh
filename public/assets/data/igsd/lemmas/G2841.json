@@ -1,0 +1,57 @@
+{
+ "lemma": "κοινωνέω",
+ "lemmaId": "grc:G2841",
+ "strong": "G2841",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "分かち合う・援助に与る",
+   "label_en": "to share / contribute to needs",
+   "label_es": "compartir / contribuir",
+   "label_sv": "att dela med sig / bistå",
+   "def": "分かち合う、物質的に援助に与る。『聖徒たちの必要に分け与え』『霊的なものにあずかったのなら、肉のものをもって仕えるべき』『与え合い、受け取り合うことで、わたしに分け前をくれた』『御言を教えられる人は、教える人とすべての良いものを分かち合え』。",
+   "def_en": "To share, to take part in material support: “contribute to the needs of the saints”, “if they have shared in spiritual blessings, they ought to serve them in material ones”, “shared with me in giving and receiving”, “let the one who is taught the word share all good things with the teacher”.",
+   "def_es": "Compartir, ayudar materialmente: «compartiendo para las necesidades de los santos», «si han sido hechos participantes de sus bienes espirituales, deben ministrarles de los materiales», «participó conmigo en razón de dar y recibir», «el que es enseñado en la palabra haga partícipe de toda cosa buena al que lo instruye».",
+   "def_sv": "Att dela, att ta del i materiell hjälp: ”hjälp de heliga i deras behov”, ”har de fått del av andliga gåvor ska de tjäna med materiella”, ”delade med mig i givande och tagande”, ”den som undervisas i ordet ska dela allt gott med läraren”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "ローマ12:13・15:27、ピリピ4:15、ガラテヤ6:6。教父（19.8）に並行。LXX の代表例は「共に与る」の用法で、この語義としては確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "共にする・与る",
+   "label_en": "to share in / partake",
+   "label_es": "participar / tener parte",
+   "label_sv": "att ha del i / delta",
+   "def": "共に関わる、一緒に与る。『子らは血と肉とにあずかっているので、イエスもそれにあずかられた』『キリストの苦難にあずかっているのだから』『人の罪にあずかってはならない』『その悪い行いにあずかる』。",
+   "def_en": "To be jointly involved, to take part together: “since the children share in flesh and blood, he himself likewise partook of the same”, “as you share Christ's sufferings”, “do not take part in the sins of others”, “takes part in his wicked works”.",
+   "def_es": "Tener parte en común: «por cuanto los hijos participaron de carne y sangre, él también participó de lo mismo», «sois participantes de los padecimientos de Cristo», «ni participes en pecados ajenos», «participa en sus malas obras».",
+   "def_sv": "Att vara gemensamt delaktig: ”eftersom barnen har del av kött och blod fick han också del av det”, ”ni delar Kristi lidanden”, ”gör dig inte delaktig i andras synder”, ”blir delaktig i hans onda gärningar”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ヘブル2:14、ペテロ第一4:13、テモテ第一5:22、ヨハネ第二1:11。LXX（13.2）に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n45012013005": "1",
+  "n45015027012": "1",
+  "n48006006001": "1",
+  "n50004015018": "1",
+  "n54005022006": "2",
+  "n58002014005": "2",
+  "n60004013003": "2",
+  "n63001011006": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（物の分かち合い／関与・共有）による。"
+}

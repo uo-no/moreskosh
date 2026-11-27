@@ -1,0 +1,69 @@
+{
+ "lemma": "ὡσεί",
+ "lemmaId": "grc:G5616",
+ "strong": "G5616",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "およそ（概数）",
+   "label_en": "about (approximation)",
+   "label_es": "unos / aproximadamente (cifra aproximada)",
+   "label_sv": "ungefär (ungefärligt tal)",
+   "def": "数・時・距離の概数を示す。『およそ〜』。",
+   "def_en": "Indicates an approximate number, time, or distance: “about …”.",
+   "def_es": "Indica una cifra aproximada de número, tiempo o distancia: «como unos …».",
+   "def_sv": "Anger ett ungefärligt antal, en ungefärlig tid eller sträcka: ”omkring …”.",
+   "layers": {
+    "nt": 11,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒2:41（約三千人）・10:3・19:7、ルカ3:23（およそ三十歳）・9:14・28・22:41（石を投げて届くほど）・59・23:44、マタイ14:21。LXX・教父の代表例では確認していない（代表例は『のように』の用法が中心）。"
+  },
+  {
+   "id": "2",
+   "label": "〜のように／〜かのように（比較）",
+   "label_en": "like / as if (comparison)",
+   "label_es": "como / como si (comparación)",
+   "label_sv": "som / liksom om (jämförelse)",
+   "def": "『のように』『かのように』『まるで〜のよう』、様子・外見の比較。",
+   "def_en": "“Like”, “as if”, “just like …”: a comparison of manner or appearance.",
+   "def_es": "«Como», «como si», «igual que …»: comparación de modo o apariencia.",
+   "def_sv": "”Som”, ”som om”, ”alldeles som …”: en jämförelse av sätt eller utseende.",
+   "layers": {
+    "nt": 9,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒2:3（炎のような舌）・6:15（御使いの顔のように）、ヘブル1:12（外套のように）、ルカ22:44（血の滴りのように）・24:11（たわごとのように）、マタイ3:16（鳩のように）・9:36（羊飼いのいない羊のように）、マルコ9:26（死人のように）、ローマ6:13（死者の中から生き返った者のように）。LXX 詩篇89:9、教父（ヘルマス3.1.5）に並行。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40003016020": "2",
+  "n40009036013": "2",
+  "n40014021006": "1",
+  "n41009026009": "2",
+  "n42003023006": "1",
+  "n42009014003": "1",
+  "n42009014015": "1",
+  "n42009028007": "1",
+  "n42022041006": "1",
+  "n42022044012": "2",
+  "n42022059003": "1",
+  "n42023044004": "1",
+  "n42024011005": "2",
+  "n44002003006": "2",
+  "n44002041016": "1",
+  "n44006015015": "2",
+  "n44010003005": "1",
+  "n44019007006": "1",
+  "n45006013015": "2",
+  "n58001012002": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

@@ -1,0 +1,64 @@
+{
+ "lemma": "ὅθεν",
+ "lemmaId": "grc:G3606",
+ "strong": "G3606",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "そこから／それによって（出所・場所）",
+   "label_en": "from where / from which (source, place)",
+   "label_es": "de donde / por lo cual (origen, lugar)",
+   "label_sv": "varifrån / därav (ursprung, plats)",
+   "def": "出所・場所を示す『そこから』『それによって』。『出て来た元の家に』『そこから船出して』『それで終わりの時と分かる』『蒔かない所から刈り』。",
+   "def_en": "“From there”, “from which”, indicating source or place: “to my house from which I came”, “from there we sailed”, “by this we know it is the last hour”, “reaping where you did not sow”.",
+   "def_es": "Indica origen o lugar, «de allí», «por ello»: «a mi casa de donde salí», «desde allí navegaron», «por esto conocemos que es el último tiempo», «siegas donde no sembraste».",
+   "def_sv": "Anger ursprung eller plats, ”därifrån”, ”därav”: ”till mitt hus som jag lämnade”, ”därifrån seglade de”, ”därav vet vi att det är den sista tiden”, ”skördar där du inte sått”.",
+   "layers": {
+    "nt": 8,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "マタイ12:44・25:24・25:26、ルカ11:24、使徒14:26・28:13、Ⅰヨハネ2:18、ヘブル11:19。LXX Ⅱマカバイ4:21、教父（26.9.6）に並行。ヘブル11:19 は語義2との境界が連続的。"
+  },
+  {
+   "id": "2",
+   "label": "それゆえ（帰結）",
+   "label_en": "therefore (consequence)",
+   "label_es": "por lo cual (consecuencia)",
+   "label_sv": "därför (följd)",
+   "def": "帰結を示す『それゆえ』。『そういうわけで』『それゆえに、聖なる兄弟たち』『彼はあらゆる点で兄弟たちと等しくならねばならなかった』。",
+   "def_en": "“Therefore”, indicating consequence: “and so”, “therefore, holy brothers”, “he had to be made like his brothers in every respect”.",
+   "def_es": "«Por tanto», indica consecuencia: «por lo cual», «por tanto, hermanos santos», «debía ser en todo semejante a sus hermanos».",
+   "def_sv": "”Därför”, anger en följd: ”av den anledningen”, ”därför, heliga bröder”, ”han måste i allt bli lik sina bröder”.",
+   "layers": {
+    "nt": 7,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒26:19、ヘブル2:17・3:1・7:25・8:3・9:18、マタイ14:7。LXX Ⅳマカバイ12.16、教父（1.19.3）に並行。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40012044008": "1",
+  "n40014007001": "2",
+  "n40025024023": "1",
+  "n40025026020": "1",
+  "n42011024024": "1",
+  "n44014026005": "1",
+  "n44026019001": "2",
+  "n44028013001": "1",
+  "n58002017001": "2",
+  "n58003001001": "2",
+  "n58007025001": "2",
+  "n58008003012": "2",
+  "n58009018001": "2",
+  "n58011019010": "1",
+  "n62002018016": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（場所・出所／帰結）による。"
+}

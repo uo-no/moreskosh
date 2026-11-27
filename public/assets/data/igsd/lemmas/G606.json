@@ -1,0 +1,53 @@
+{
+ "lemma": "ἀπόκειμαι",
+ "lemmaId": "grc:G606",
+ "strong": "G606",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "蓄えられている・備えられている",
+   "label_en": "to be laid up, to be in store",
+   "label_es": "estar guardado, estar reservado",
+   "label_sv": "att vara förvarad",
+   "def": "しまってある、備えられている。『義の冠が用意されている』『天に蓄えられている望み』『布に包んでしまって置いた』。",
+   "def_en": "To be put away, to be kept ready: “a crown of righteousness is laid up”, “the hope laid up in heaven”, “kept it wrapped in a cloth”.",
+   "def_es": "Estar depositado, estar preparado: «me está reservada la corona de justicia», «la esperanza guardada en los cielos», «la he tenido guardada en un pañuelo».",
+   "def_sv": "Att ligga undanlagd, att vara i beredskap: ”rättfärdighetens segerkrans ligger i förvar”, ”det hopp som är förvarat i himlen”, ”gömde den i en duk”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "テモテ第二4:8、コロサイ1:5、ルカ19:20。LXX に並行。教父の用例なし。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "定められている",
+   "label_en": "to be appointed",
+   "label_es": "estar establecido",
+   "label_sv": "att vara bestämd",
+   "def": "定められている。『人間には…一度死ぬことが定まっている』。",
+   "def_en": "To be appointed, to be destined: “it is appointed … for people to die once”.",
+   "def_es": "Estar determinado: «está establecido … que los hombres mueran una sola vez».",
+   "def_sv": "Att vara fastställd: ”det är bestämt att människan … skall dö en gång”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヘブル9:27。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42019020013": "1",
+  "n51001005005": "1",
+  "n55004008002": "1",
+  "n58009027004": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（蓄えられている／定められている）による。"
+}

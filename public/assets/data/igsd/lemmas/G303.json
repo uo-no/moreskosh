@@ -1,0 +1,79 @@
+{
+ "lemma": "ἀνά",
+ "lemmaId": "grc:G303",
+ "strong": "G303",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "〜ずつ（配分）",
+   "label_en": "each / apiece (distribution)",
+   "label_es": "cada uno / a razón de (distribución)",
+   "label_sv": "vardera / i taget (fördelning)",
+   "def": "配分を表す『〜ずつ』。『二、三メトレテスずつ入る水がめ』『二枚の下着を持つな』『五十人ずつ』『二人ずつ』『一人一デナリ』『それぞれ六つの翼』『それぞれ一枚の真珠でできた門』。",
+   "def_en": "Distributive “each”: “jars holding two or three measures each”, “do not have two tunics apiece”, “in groups of fifty”, “two by two”, “a denarius each”, “six wings each”, “each gate made of a single pearl”.",
+   "def_es": "Valor distributivo, «cada»: «tinajas en cada una de las cuales cabían dos o tres cántaros», «no tengáis dos túnicas cada uno», «de cincuenta en cincuenta», «de dos en dos», «un denario cada uno», «seis alas cada uno», «cada puerta de una perla».",
+   "def_sv": "Fördelande ”vardera”: ”krukor som rymde två eller tre mått var”, ”ha inte två livklädnader var”, ”i grupper om femtio”, ”två och två”, ”en denar var”, ”sex vingar var”, ”varje port av en enda pärla”.",
+   "layers": {
+    "nt": 8,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヨハネ2:6、ルカ9:3・9:14・10:1、マタイ20:9・20:10、黙示録4:8・21:21。LXX の代表例は ἀνὰ μέσον と固有名詞（人名 Ἀνά）で、この用法は確認できない。"
+  },
+  {
+   "id": "2",
+   "label": "〜の間に（ἀνὰ μέσον）",
+   "label_en": "among / between (ἀνὰ μέσον)",
+   "label_es": "entre / en medio de (ἀνὰ μέσον)",
+   "label_sv": "bland / mitt i (ἀνὰ μέσον)",
+   "def": "『〜の間に』『〜のただ中に』。『麦の中に毒麦を』『デカポリスの地方の真ん中を通って』『兄弟の間を裁く』『御座の中央にいる小羊』。",
+   "def_en": "“Among”, “in the midst of”: “tares among the wheat”, “through the middle of the region of the Decapolis”, “judge between brothers”, “the Lamb in the midst of the throne”.",
+   "def_es": "«Entre», «en medio de»: «cizaña entre el trigo», «por en medio de la región de Decápolis», «juzgar entre hermanos», «el Cordero en medio del trono».",
+   "def_sv": "”Bland”, ”mitt i”: ”ogräs bland vetet”, ”mitt igenom Dekapolisområdet”, ”döma mellan bröder”, ”Lammet mitt på tronen”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰコリ6:5、マタイ13:25、マルコ7:31、黙示録7:17。LXX 歴代誌下15:7、教父（26.15.2）に並行。"
+  },
+  {
+   "id": "3",
+   "label": "順番に（ἀνὰ μέρος）",
+   "label_en": "in turn (ἀνὰ μέρος)",
+   "label_es": "por turno (ἀνὰ μέρος)",
+   "label_sv": "i tur och ordning (ἀνὰ μέρος)",
+   "def": "『順番に』。『一人ずつ順番に語り』。",
+   "def_en": "“In turn”: “let them speak one at a time in turn”.",
+   "def_es": "«Por turno»: «que hablen por turno, uno tras otro».",
+   "def_sv": "”I tur och ordning”: ”tala en i sänder”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "Ⅰコリ14:27 の1例のみ。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40013025014": "2",
+  "n40020009009": "1",
+  "n40020010012": "1",
+  "n41007031016": "2",
+  "n42009003019": "1",
+  "n42009014016": "1",
+  "n42010001014": "1",
+  "n43002006014": "1",
+  "n46006005015": "2",
+  "n46014027012": "3",
+  "n66004008010": "1",
+  "n66007017005": "2",
+  "n66021021007": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "パケットの LXX 代表例は ἀνὰ μέσον と人名 Ἀνά のみ。他の用法の層は確認できない。"
+}

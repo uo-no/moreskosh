@@ -1,0 +1,112 @@
+{
+ "lemma": "κολλάομαι",
+ "lemmaId": "grc:G2853",
+ "strong": "G2853",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "加わる／仲間になる",
+   "label_en": "to join / associate with",
+   "label_es": "juntarse / unirse a",
+   "label_sv": "att sluta sig till / umgås med",
+   "def": "仲間に加わる、付き従う。『あの馬車に近づいて行け』『弟子たちの仲間に加わろうとした』『だれも彼らの仲間に加わろうとはしなかった』『信じて彼に加わった者たちもいた』『異教徒と交わる』。",
+   "def_en": "To join a company, to attach oneself: “go over and join this chariot”, “tried to join the disciples”, “none dared join them”, “some joined him and believed”, “to associate with an outsider”.",
+   "def_es": "Sumarse a un grupo, seguir: «acércate y júntate a ese carro», «trataba de juntarse con los discípulos», «ninguno se atrevía a juntarse con ellos», «algunos creyeron, juntándose con él», «juntarse con un extranjero».",
+   "def_sv": "Att förena sig med en grupp och följa: ”gå fram och håll dig intill den vagnen”, ”försökte sluta sig till lärjungarna”, ”ingen vågade ansluta sig till dem”, ”några slöt sig till honom och kom till tro”, ”umgås med en främling”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒5:13・8:29・9:26・10:28・17:34。LXX 士師記・列王記、教父（15.1.6）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "結ばれる／一体となる",
+   "label_en": "to be united / become one",
+   "label_es": "unirse / hacerse uno",
+   "label_sv": "att förenas / bli ett",
+   "def": "結ばれる、一体となる。『遊女と結ばれる者』『主と結ばれる者は霊において一つになる』『妻と結ばれ、二人は一体となる』。",
+   "def_en": "To be joined, to become one: “he who is joined to a prostitute”, “he who is joined to the Lord is one spirit with him”, “shall cleave to his wife, and the two shall become one flesh”.",
+   "def_es": "Quedar unido, ser uno: «el que se une con una ramera», «el que se une al Señor, un espíritu es con él», «se unirá a su mujer, y los dos serán una sola carne».",
+   "def_sv": "Att fogas samman och bli ett: ”den som förenar sig med en hora”, ”den som förenar sig med Herren är en ande med honom”, ”hålla sig till sin hustru, och de två blir ett”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰコリ6:16・6:17、マタイ19:5。LXX 創世記2:24（引用）、教父に並行。"
+  },
+  {
+   "id": "3",
+   "label": "しがみつく／くっつく",
+   "label_en": "to cling / stick",
+   "label_es": "pegarse / aferrarse",
+   "label_sv": "att klibba fast / hålla sig till",
+   "def": "くっつく、しがみつく。『足についた町の塵を払い落とす』『悪から離れ、善に親しめ（善にすがれ）』。",
+   "def_en": "To stick, to cling: “the dust of your town that clings to our feet”, “abhor evil; hold fast to what is good”.",
+   "def_es": "Adherirse, asirse: «el polvo de vuestra ciudad que se ha pegado a nuestros pies», «aborreced lo malo, seguid lo bueno».",
+   "def_sv": "Att fastna, klamra sig fast: ”dammet från er stad som fastnat på våra fötter”, ”avsky det onda, håll fast vid det goda”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ローマ12:9、ルカ10:11。LXX 詩篇100:3・申命記10:20、教父（56.2）に並行。語義1・2との境界は連続的。"
+  },
+  {
+   "id": "4",
+   "label": "身を寄せる（雇われる）",
+   "label_en": "to hire oneself to",
+   "label_es": "arrimarse (como jornalero)",
+   "label_sv": "att ta tjänst hos",
+   "def": "身を寄せる、雇われて仕える。『その地方のある住民の一人に身を寄せた』（ルカ15:15）。",
+   "def_en": "To attach oneself to someone, to serve for hire: “hired himself out to one of the citizens of that country” (Luke 15:15).",
+   "def_es": "Acogerse a alguien, servir a sueldo: «se arrimó a uno de los ciudadanos de aquella tierra» (Lc 15:15).",
+   "def_sv": "Att söka sig till någon och tjäna för lön: ”tog tjänst hos en av invånarna i det landet” (Luk 15:15).",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ルカ15:15 の1例のみ。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "5",
+   "label": "積み重なる",
+   "label_en": "to be heaped up",
+   "label_es": "amontonarse",
+   "label_sv": "att hopa sig",
+   "def": "積み上がる。『彼女の罪は天に達するほど積み重なり』。",
+   "def_en": "To pile up: “her sins are heaped high as heaven”.",
+   "def_es": "Acumularse: «sus pecados se han amontonado hasta el cielo».",
+   "def_sv": "Att staplas upp: ”hennes synder har hopat sig ända till himlen”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "黙示録18:5 の1例のみ。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40019005013": "2",
+  "n42010011005": "3",
+  "n42015015003": "4",
+  "n44005013006": "1",
+  "n44008029009": "1",
+  "n44009026006": "1",
+  "n44010028012": "1",
+  "n44017034004": "1",
+  "n45012009007": "3",
+  "n46006016006": "2",
+  "n46006017003": "2",
+  "n66018005002": "5"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法による。"
+}

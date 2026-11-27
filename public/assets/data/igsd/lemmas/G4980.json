@@ -1,0 +1,51 @@
+{
+ "lemma": "σχολάζω",
+ "lemmaId": "grc:G4980",
+ "strong": "G4980",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "専念する",
+   "label_en": "to devote oneself",
+   "label_es": "dedicarse",
+   "label_sv": "att ägna sig åt",
+   "def": "専念する、暇をつくる。『祈りに専念できるように』。",
+   "def_en": "To give oneself to, to have leisure for: “so that you may devote yourselves to prayer”.",
+   "def_es": "Consagrarse, procurarse tiempo: «para ocuparos en la oración».",
+   "def_sv": "Att ta sig tid för: ”för att ägna er åt bönen”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "コリント第一7:5。LXX の代表例は『暇である』の用法で、この用法は確認していない。教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "空いている",
+   "label_en": "to be unoccupied",
+   "label_es": "estar desocupado",
+   "label_sv": "att stå tom",
+   "def": "空いている、住む者がいない。『空き家で』。",
+   "def_en": "To be empty, to have no occupant: “finding the house empty”.",
+   "def_es": "Estar vacío, sin morador: «la halla desocupada».",
+   "def_sv": "Att vara ledig, obebodd: ”finner huset tomt”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ12:44。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40012044013": "2",
+  "n46007005012": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法による。"
+}

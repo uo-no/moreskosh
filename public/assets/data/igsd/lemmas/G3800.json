@@ -1,0 +1,53 @@
+{
+ "lemma": "ὀψώνιον",
+ "lemmaId": "grc:G3800",
+ "strong": "G3800",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "費用・兵糧",
+   "label_en": "pay, provisions",
+   "label_es": "paga, provisiones",
+   "label_sv": "underhåll, sold",
+   "def": "兵士の費用、支給。『自費で兵役に服する者がいようか』『わたしは…援助を受け』『自分の給料で満足せよ』。",
+   "def_en": "A soldier’s expenses, allowance: “who serves as a soldier at his own expense”, “I … received support”, “be content with your pay”.",
+   "def_es": "Gastos del soldado, estipendio: «¿quién presta servicio de soldado a sus propias expensas?», «yo … recibí ayuda», «contentaos con vuestro salario».",
+   "def_sv": "Soldatens underhåll, anslag: ”vem gör krigstjänst på egen bekostnad”, ”jag … tog emot underhåll”, ”nöj er med er lön”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "コリント第一9:7、コリント第二11:8、ルカ3:14。LXX、教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "報酬",
+   "label_en": "wages",
+   "label_es": "salario, paga",
+   "label_sv": "lön",
+   "def": "罪が支払う報酬。『罪の支払う報酬は死である』。",
+   "def_en": "The wages that sin pays: “the wages of sin is death”.",
+   "def_es": "La paga que da el pecado: «la paga del pecado es muerte».",
+   "def_sv": "Den lön som synden ger: ”syndens lön är döden”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ローマ6:23。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42003014021": "1",
+  "n45006023003": "2",
+  "n46009007004": "1",
+  "n47011008005": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（費用・給与／報酬）による。"
+}

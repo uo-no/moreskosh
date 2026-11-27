@@ -1,0 +1,53 @@
+{
+ "lemma": "ἀντιλογία",
+ "lemmaId": "grc:G485",
+ "strong": "G485",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "論争・反論",
+   "label_en": "dispute, contradiction",
+   "label_es": "disputa, contradicción",
+   "label_sv": "tvist, motsägelse",
+   "def": "論争、反論、言い争い。『誓いはあらゆる論争の終わり』『小なる者が大なる者から祝福される…反論の余地はない』。",
+   "def_en": "Dispute, contradiction, wrangling: “an oath is the end of every dispute”, “the lesser is blessed by the greater … beyond all dispute”.",
+   "def_es": "Controversia, contradicción, discusión: «el juramento es el fin de toda controversia», «el menor es bendecido por el mayor … sin discusión alguna».",
+   "def_sv": "Tvist, invändning, ordstrid: ”eden gör slut på all tvist”, ”den ringare välsignas av den större … det kan ingen bestrida”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ヘブル6:16・7:7。LXX に並行。教父の用例なし。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "敵対・反逆",
+   "label_en": "hostility, rebellion",
+   "label_es": "hostilidad, rebelión",
+   "label_sv": "motstånd, uppror",
+   "def": "敵対、反逆。『罪人たちの…敵対』『コラのように反逆して』。",
+   "def_en": "Hostility, rebellion: “hostility … from sinners”, “rebelling like Korah”.",
+   "def_es": "Oposición, rebelión: «contradicción … de pecadores», «en la rebelión de Coré».",
+   "def_sv": "Fientlighet, uppror: ”fiendskap … från syndare”, ”gjorde uppror liksom Kora”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ヘブル12:3、ユダ11。LXX に並行。教父の用例なし。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n58006016010": "1",
+  "n58007007004": "1",
+  "n58012003011": "2",
+  "n65001011018": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（論争／敵対・反逆）による。"
+}

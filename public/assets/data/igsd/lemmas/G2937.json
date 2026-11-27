@@ -1,0 +1,119 @@
+{
+ "lemma": "κτίσις",
+ "lemmaId": "grc:G2937",
+ "strong": "G2937",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "創造（造られた初め）",
+   "label_en": "creation (the beginning)",
+   "label_es": "creación (el principio)",
+   "label_sv": "skapelsen (begynnelsen)",
+   "def": "世界が造られた時、造られたはじめ。『創造の初めから』『世の造られたときから』。",
+   "def_en": "The time when the world was created, the beginning of creation: “from the beginning of creation”, “since the creation of the world”.",
+   "def_es": "El momento en que el mundo fue creado, el principio de la creación: «desde el principio de la creación», «desde la creación del mundo».",
+   "def_sv": "Tiden då världen skapades: ”från skapelsens begynnelse”, ”från världens skapelse”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マルコ10:6・13:19（神が創造された被造物の初めから）、Ⅱペテロ3:4（創造の初めからすべてはそのまま）、ローマ1:20（世界の創造以来）。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "被造物全体／万物（造られたもの全体）",
+   "label_en": "the whole creation / all created things",
+   "label_es": "toda la creación",
+   "label_sv": "hela skapelsen / allt skapat",
+   "def": "造られた世界の全体、万物。『すべての造られたもの』『被造物全体がうめく』『すべての造られたものの初めに生まれた方』。",
+   "def_en": "The whole created world, all things: “every creature”, “the whole creation groans”, “firstborn of all creation”.",
+   "def_es": "El conjunto del mundo creado, todas las cosas: «toda criatura», «toda la creación gime», «el primogénito de toda creación».",
+   "def_sv": "Hela den skapade världen, allting: ”hela skapelsen”, ”hela skapelsen suckar”, ”förstfödd före allt skapat”.",
+   "layers": {
+    "nt": 9,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "ローマ8:19・20・21・22（被造物全体のうめき）、コロサイ1:15・23（すべての造られたもの）、マルコ16:15（すべての造られたものに福音を）、黙示録3:14（神の創造の始まり）、ヘブル9:11（この造られたものに属さない）。教父（バルナバ12.1.5『すべての被造物』）に並行。LXX の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "新しい創造",
+   "label_en": "new creation",
+   "label_es": "nueva creación",
+   "label_sv": "ny skapelse",
+   "def": "神による新しい創造、新しく造られること。『新しく造られた者』。",
+   "def_en": "A new creation by God, being created anew: “a new creation”.",
+   "def_es": "Una creación nueva obrada por Dios, el ser hecho de nuevo: «nueva criatura».",
+   "def_sv": "En ny skapelse genom Gud, att skapas på nytt: ”en ny skapelse”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "Ⅱコリ5:17（キリストにあるなら、その人は新しく造られた者）、ガラテヤ6:15（大事なのは新しい創造）。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "4",
+   "label": "個々の被造物／造られたもの",
+   "label_en": "creature / created thing",
+   "label_es": "criatura / cosa creada",
+   "label_sv": "skapad varelse",
+   "def": "個々の造られたもの・生き物、造られたもののどれか。",
+   "def_en": "An individual created thing or living being, any one of the things made.",
+   "def_es": "Un ser o cosa creada en particular, cualquiera de las cosas hechas.",
+   "def_sv": "En enskild skapad varelse eller sak, någonting av det skapade.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ヘブル4:13（造られたもので神の前に隠れおおせるものはない）、ローマ1:25（造り主の代わりに造られたものを拝んだ）・8:39（ほかのどんな被造物も）。LXX シラ書16:17 に並行。教父の代表例では確認していない。"
+  },
+  {
+   "id": "5",
+   "label": "（人間の）制度・秩序",
+   "label_en": "(human) institution / order",
+   "label_es": "institución / orden (humano)",
+   "label_sv": "(mänsklig) ordning / institution",
+   "def": "人間が立てた制度・秩序、人が作ったもの。『人の立てたすべての制度』。",
+   "def_en": "An institution or order set up by people, something people have made: “every human institution”.",
+   "def_es": "Institución u orden establecido por los hombres, obra humana: «toda institución humana».",
+   "def_sv": "En ordning eller institution som människor inrättat: ”all mänsklig ordning”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "Ⅰペテロ2:13（人の立てたすべての制度に従いなさい）の1例のみ。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n41010006004": "1",
+  "n41013019013": "1",
+  "n41016015014": "2",
+  "n45001020006": "1",
+  "n45001025015": "4",
+  "n45008019005": "2",
+  "n45008020005": "2",
+  "n45008021005": "2",
+  "n45008022006": "2",
+  "n45008039007": "4",
+  "n47005017007": "3",
+  "n48006015010": "3",
+  "n51001015010": "2",
+  "n51001023023": "2",
+  "n58004013004": "4",
+  "n58009011021": "2",
+  "n60002013004": "5",
+  "n61003004021": "1",
+  "n66003014022": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

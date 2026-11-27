@@ -1,0 +1,59 @@
+{
+ "lemma": "ἀγαθοποιέω",
+ "lemmaId": "grc:G15",
+ "strong": "G15",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "善を行う",
+   "label_en": "to do good",
+   "label_es": "hacer el bien",
+   "label_sv": "att göra gott",
+   "def": "善を行う、よい行いをする。『善を行って愚かな者の無知を黙らせる』『善を行って苦しみを受け』『善を行い、何事も恐れず』『善を行う者は神から出た者』『善を行う者に善を行っても』『あなたがたの敵を愛し、善を行え』。",
+   "def_en": "To do good, to act well: “by doing good you should silence the ignorance of foolish people”, “suffer for doing good”, “do good and do not fear anything”, “whoever does good is from God”, “if you do good to those who do good to you”, “love your enemies and do good”.",
+   "def_es": "Hacer lo bueno, obrar bien: «haciendo bien, hagáis callar la ignorancia de los insensatos», «padecer haciendo el bien», «haciendo el bien sin temer ninguna amenaza», «el que hace lo bueno es de Dios», «si hacéis bien a los que os hacen bien», «amad a vuestros enemigos y haced bien».",
+   "def_sv": "Att göra det goda och handla rätt: ”genom att göra gott tysta dåraktiga människors okunnighet”, ”lida för att man gör gott”, ”gör det goda utan att låta er skrämmas”, ”den som gör gott är av Gud”, ”om ni gör gott mot dem som gör gott mot er”, ”älska era fiender och gör gott”.",
+   "layers": {
+    "nt": 8,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰペテロ2:15・2:20・3:6・3:17、Ⅲヨハネ11、ルカ6:33（2回）・6:35。LXX 民数記10:32・ゼパニヤ1:12、教父（3.9.5、10.2）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "（人のために）善を行う",
+   "label_en": "to do good (for someone)",
+   "label_es": "hacer bien (a alguien)",
+   "label_sv": "att göra gott (för någon)",
+   "def": "他者のために善を行う。『安息日に善を行うのは律法にかなっているか』。",
+   "def_en": "To do good for others: “is it lawful on the Sabbath to do good?”",
+   "def_es": "Hacer el bien en favor de otros: «¿es lícito en sábado hacer bien?».",
+   "def_sv": "Att göra gott för andra: ”är det tillåtet att göra gott på sabbaten?”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ルカ6:9、マルコ3:4。語義1との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n41003004007": "2",
+  "n42006009013": "2",
+  "n42006033003": "1",
+  "n42006033005": "1",
+  "n42006035007": "1",
+  "n60002015008": "1",
+  "n60002020011": "1",
+  "n60003006012": "1",
+  "n60003017003": "1",
+  "n64001011010": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（一般／他者のため）による。"
+}

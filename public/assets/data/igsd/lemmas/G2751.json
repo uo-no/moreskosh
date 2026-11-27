@@ -1,0 +1,53 @@
+{
+ "lemma": "κείρω",
+ "lemmaId": "grc:G2751",
+ "strong": "G2751",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "毛を刈る（羊の）",
+   "label_en": "to shear (sheep)",
+   "label_es": "trasquilar",
+   "label_sv": "att klippa (får)",
+   "def": "羊の毛を刈る。『毛を刈る者の前に』。",
+   "def_en": "To shear the wool of sheep: “before its shearer”.",
+   "def_es": "Esquilar las ovejas: «delante del que lo trasquila».",
+   "def_sv": "Att klippa ullen av får: ”inför den som klipper det”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒8:32。LXX、教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "髪を切る・剃る",
+   "label_en": "to cut or shave the hair",
+   "label_es": "cortarse o raparse el pelo",
+   "label_sv": "att klippa eller raka håret",
+   "def": "髪を切る、剃る。『髪の毛を切るか剃るかは』『髪を剃り』『頭を剃った』。",
+   "def_en": "To cut the hair, to shave: “whether to have her hair cut off or shaved”, “shaved his hair”, “had his head shaved”.",
+   "def_es": "Cortar el cabello, rapar: «si cortarse el cabello o raparse», «rapándose el cabello», «se había rapado la cabeza».",
+   "def_sv": "Att klippa håret, att raka: ”om hon skall klippa eller raka håret”, ”rakade av håret”, ”hade rakat huvudet”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "コリント第一11:6（2回）、使徒18:18。LXX に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n44008032020": "1",
+  "n44018018021": "2",
+  "n46011006007": "2",
+  "n46011006013": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は対象（羊の毛／髪）による。"
+}

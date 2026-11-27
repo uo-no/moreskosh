@@ -1,0 +1,70 @@
+{
+ "lemma": "προγράφω",
+ "lemmaId": "grc:G4270",
+ "strong": "G4270",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "前もって書く",
+   "label_en": "to write beforehand",
+   "label_es": "escribir antes",
+   "label_sv": "att skriva förut",
+   "def": "前もって書く、あらかじめ記す。『前に簡単に書いたとおり』『昔のことで書かれたことは』。",
+   "def_en": "To write previously, to record in advance: “as I wrote briefly before”, “whatever was written in former times”.",
+   "def_es": "Escribir con anterioridad, consignar de antemano: «como antes lo he escrito brevemente», «las cosas que se escribieron antes».",
+   "def_sv": "Att tidigare skriva, att i förväg uppteckna: ”som jag tidigare kort har skrivit”, ”det som skrevs i gångna tider”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "エペソ3:3、ローマ15:4。LXX（「前述の」）、教父に並行。語義2・3との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "公に描き示す",
+   "label_en": "to portray publicly",
+   "label_es": "presentar públicamente",
+   "label_sv": "att offentligt framställa",
+   "def": "公然と描き示す、はっきり示す。『十字架につけられた姿が…描き示された』。",
+   "def_en": "To depict openly, to set forth clearly: “whose figure as crucified … was portrayed”.",
+   "def_es": "Pintar a la vista de todos, exponer con claridad: «fue ya presentado claramente … como crucificado».",
+   "def_sv": "Att öppet måla fram, att tydligt visa: ”målades upp … som korsfäst”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ガラテヤ3:1。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "あらかじめ記される（解釈が分かれる）",
+   "label_en": "to be written down beforehand (disputed)",
+   "label_es": "estar inscrito de antemano (discutido)",
+   "label_sv": "att vara förut upptecknad (omtvistat)",
+   "def": "『この裁きに…前から記されていた者たち』。「あらかじめ記される」か「あらかじめ定められる」かの解釈は決定しない。",
+   "def_en": "Those “long ago written down for this judgment”; whether it means recorded beforehand or appointed beforehand is not decided.",
+   "def_es": "«Los que, para este juicio …, estaban escritos desde antes»; no se decide si es “escrito de antemano” o “destinado de antemano”.",
+   "def_sv": "De som ”sedan länge är uppskrivna för denna dom”; om det betyder förut upptecknade eller förutbestämda avgörs inte.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ユダ4。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n45015004003": "1",
+  "n48003001012": "2",
+  "n49003003008": "1",
+  "n65001004007": "3"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（前もって書く／公に描き示す／ユダ4）による。ユダ4は決定しない。"
+}

@@ -1,0 +1,100 @@
+{
+ "lemma": "θησαυρός",
+ "lemmaId": "grc:G2344",
+ "strong": "G2344",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "宝／財宝",
+   "label_en": "treasure / riches",
+   "label_es": "tesoro / riquezas",
+   "label_sv": "skatt / rikedom",
+   "def": "蓄えられた財産、宝。地上に積む宝と天に積む宝、畑に隠された宝、エジプトの宝。『あなたの宝のあるところに、心もある』。",
+   "def_en": "Stored-up property, treasure: treasure laid up on earth and in heaven, treasure hidden in a field, the treasures of Egypt. “Where your treasure is, there your heart will be also.”",
+   "def_es": "Bienes acumulados, tesoro: tesoros en la tierra y en el cielo, el tesoro escondido en el campo, los tesoros de Egipto. «Donde esté vuestro tesoro, allí estará también vuestro corazón».",
+   "def_sv": "Samlad egendom, skatter: skatter på jorden och i himlen, skatten gömd i åkern, Egyptens skatter. ”Där din skatt är, där är också ditt hjärta.”",
+   "layers": {
+    "nt": 10,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マタイ6:19・20・21・13:44・19:21、マルコ10:21、ルカ12:33・34・18:22、ヘブル11:26（エジプトの宝）。LXX Ⅰ列王・歴代誌に並行。教父の代表例では確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "宝箱／宝物入れ",
+   "label_en": "treasure chest / casket",
+   "label_es": "cofre / arca del tesoro",
+   "label_sv": "skattkista / skrin",
+   "def": "贈り物の宝を納める箱、宝物入れ。",
+   "def_en": "A box or chest that holds treasures given as gifts.",
+   "def_es": "Caja o arca que guarda los tesoros ofrecidos como presentes.",
+   "def_sv": "Det skrin som rymmer de dyrbara gåvorna.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ2:11（宝の箱を開けて、黄金・乳香・没薬をささげた）の1例のみ。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "蔵／心の蔵",
+   "label_en": "storehouse / store of the heart",
+   "label_es": "almacén / tesoro del corazón",
+   "label_sv": "förråd / hjärtats förråd",
+   "def": "宝を蓄えておく蔵、人の心にある蓄え。『心の良い蔵から良いものを出す』『新しいものと古いものを蔵から取り出す』。",
+   "def_en": "A storehouse where treasure is kept, the store within a person's heart: “brings good things out of the good treasure of the heart”, “brings out of his storeroom things new and old”.",
+   "def_es": "El almacén donde se guardan tesoros, la reserva que hay en el corazón de la persona: «del buen tesoro del corazón saca lo bueno», «saca de su tesoro cosas nuevas y viejas».",
+   "def_sv": "Förrådet där skatter samlas, det som finns lagrat i människans hjärta: ”ur hjärtats goda förråd bär hon fram det goda”, ”hämtar nytt och gammalt ur sitt förråd”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ12:35（2回）・13:52、ルカ6:45。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "4",
+   "label": "（キリストの知恵・福音の）宝",
+   "label_en": "treasure (of Christ's wisdom, of the gospel)",
+   "label_es": "tesoro (de la sabiduría de Cristo, del evangelio)",
+   "label_sv": "skatt (Kristi vishet, evangeliet)",
+   "def": "キリストのうちに隠された知恵と知識のすべての宝、土の器に納められた福音の宝。",
+   "def_en": "All the treasures of wisdom and knowledge hidden in Christ, the treasure of the gospel held in jars of clay.",
+   "def_es": "Todos los tesoros de la sabiduría y del conocimiento escondidos en Cristo, el tesoro del evangelio en vasos de barro.",
+   "def_sv": "Alla vishetens och kunskapens skatter som är fördolda i Kristus, evangeliets skatt i lerkärl.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "コロサイ2:3（知恵と知識の宝がことごとく隠されている）、Ⅱコリ4:7（この宝を土の器に持っている）。語義1との境界は連続的（比喩）。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40002011021": "2",
+  "n40006019004": "1",
+  "n40006020004": "1",
+  "n40006021005": "1",
+  "n40012035007": "3",
+  "n40012035017": "3",
+  "n40013044007": "1",
+  "n40013052022": "3",
+  "n40019021019": "1",
+  "n41010021024": "1",
+  "n42006045007": "3",
+  "n42012033013": "1",
+  "n42012034005": "1",
+  "n42018022020": "1",
+  "n47004007004": "4",
+  "n51002003006": "4",
+  "n58011026006": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

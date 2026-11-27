@@ -1,0 +1,40 @@
+{
+ "lemma": "ὁδοιπορέω",
+ "lemmaId": "grc:G3596",
+ "strong": "G3596",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "旅をする",
+   "label_en": "to travel",
+   "label_es": "caminar",
+   "label_sv": "att färdas",
+   "def": "旅をする、道を行く。『旅をしていた』。",
+   "def_en": "To journey, to be on the road: “was journeying”.",
+   "def_es": "Ir de viaje: «iba de camino».",
+   "def_sv": "Att vara på resa: ”var på resa”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒10:9。パケットの見出し語は πᾶς だが、この語形は ὁδοιπορέω（ὁδοιπορούντων）。LXX・教父の代表例はすべて πᾶς の用例で、ὁδοιπορέω の用例は確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n44010009004": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "見出し語の誤りは材料側にあった（パケットの見出し語は πᾶς だが、G3596 の本来のレンマは ὁδοιπορέω）。ὁδοιπορέω の LXX・教父の用例は未確認のため、層は none とする。代表例はすべて πᾶς の用例。",
+ "excluded": [
+  {
+   "ref": "ACT 3:22",
+   "form": "πάντα",
+   "reason": "πᾶς G3956 の語形。番号が数字の入れ替わりで本レンマに付いたもので、データ側の扱いは別途データ修正で扱う。"
+  }
+ ]
+}

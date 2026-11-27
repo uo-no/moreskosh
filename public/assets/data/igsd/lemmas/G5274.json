@@ -1,0 +1,71 @@
+{
+ "lemma": "ὑπολαμβάνω",
+ "lemmaId": "grc:G5274",
+ "strong": "G5274",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "思う",
+   "label_en": "to suppose",
+   "label_es": "suponer, pensar",
+   "label_sv": "att förmoda, att tro",
+   "def": "思う、考える。『あなたがたの思っているように、この人たちは酔っているのではない』『わたしは…だと思います』。",
+   "def_en": "To think, to suppose: “these people are not drunk, as you suppose”, “I think that …”.",
+   "def_es": "Pensar, considerar: «estos no están ebrios, como vosotros suponéis», «pienso que …».",
+   "def_sv": "Att mena, att anta: ”de här är inte druckna, som ni tror”, ”jag tror att …”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒2:15、ルカ7:43。LXX、教父に並行。語義2・3との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "答える",
+   "label_en": "to answer",
+   "label_es": "responder",
+   "label_sv": "att svara",
+   "def": "会話に答える、受けて言う。『イエスは答えて言われた』。",
+   "def_en": "To respond in conversation, to take up and say: “Jesus replied and said”.",
+   "def_es": "Replicar en una conversación, tomar la palabra: «respondiendo Jesús, dijo».",
+   "def_sv": "Att genmäla, att ta till orda: ”Jesus svarade och sade”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ルカ10:30。LXX に並行。教父の代表例では確認していない。語義1・3との境界は連続的。"
+  },
+  {
+   "id": "3",
+   "label": "受け入れる・迎える",
+   "label_en": "to take up, to receive, to support",
+   "label_es": "recibir, acoger",
+   "label_sv": "att ta emot, att ta upp",
+   "def": "受け取る、迎える、支援する。『雲に迎えられて見えなくなった』『こうした人々を援助すべきである』。",
+   "def_en": "To take up, to welcome, to give support: “a cloud took him out of their sight”, “we ought to support such people”.",
+   "def_es": "Tomar, acoger, sostener: «le recibió una nube que le ocultó de sus ojos», «nosotros debemos acoger a tales personas».",
+   "def_sv": "Att motta, välkomna, understödja: ”ett moln tog honom ur deras åsyn”, ”vi bör hjälpa sådana människor”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒1:9、ヨハネ第三8。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42007043004": "1",
+  "n42010030001": "2",
+  "n44001009009": "3",
+  "n44002015005": "1",
+  "n64001008004": "3"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（思う／答える／迎える）による。"
+}

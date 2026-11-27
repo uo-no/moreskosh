@@ -1,0 +1,52 @@
+{
+ "lemma": "παρακούω",
+ "lemmaId": "grc:G3878",
+ "strong": "G3878",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "聞き入れない",
+   "label_en": "to refuse to listen",
+   "label_es": "desoír",
+   "label_sv": "att vägra lyssna",
+   "def": "聞き入れない、聞き従わない。『教会の言うことを聞き入れないなら』。",
+   "def_en": "To pay no heed, to disobey: “if he refuses to listen to the church”.",
+   "def_es": "No hacer caso, no obedecer: «si no oye a la iglesia».",
+   "def_sv": "Att inte höra på, att inte lyda: ”om han inte lyssnar till församlingen”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "マタイ18:17（2回）。LXX、教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "聞き流す・小耳にはさむ",
+   "label_en": "to overhear, to ignore",
+   "label_es": "oír de paso, no hacer caso",
+   "label_sv": "att råka höra, att inte bry sig om",
+   "def": "耳に入れる、聞き流す。マルコ5:36 を『聞き流して』と読むか『小耳にはさんで』と読むかは決定しない。",
+   "def_en": "To catch with the ear, or to let pass unheeded. It is not decided whether Mark 5:36 is to be read as “ignoring” or as “overhearing”.",
+   "def_es": "Percibir de pasada, o dejar pasar lo oído. No se decide si Marcos 5:36 debe leerse como «sin hacer caso» o como «oyendo de paso».",
+   "def_sv": "Att uppsnappa, eller att låta gå förbi. Det avgörs inte om Markus 5:36 skall läsas som ”utan att bry sig om det” eller ”råkade höra”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "マルコ5:36。LXX、教父に並行。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40018017003": "1",
+  "n40018017013": "1",
+  "n41005036004": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法による。"
+}

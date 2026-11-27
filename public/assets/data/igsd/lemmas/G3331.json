@@ -1,0 +1,52 @@
+{
+ "lemma": "μετάθεσις",
+ "lemmaId": "grc:G3331",
+ "strong": "G3331",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "変更",
+   "label_en": "change",
+   "label_es": "cambio",
+   "label_sv": "förändring",
+   "def": "変えられること、変更。『律法にも必ず変更が起こる』。",
+   "def_en": "Being changed, alteration: “there is necessarily a change of the law as well”.",
+   "def_es": "El ser cambiado, mudanza: «necesario es que haya también cambio de ley».",
+   "def_sv": "Att förändras, ombyte: ”då måste också lagen ändras”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヘブル7:12。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "移されること・取り除かれること",
+   "label_en": "removal",
+   "label_es": "traslado, remoción",
+   "label_sv": "bortflyttning",
+   "def": "移されること、取り除かれること。『移された』『揺り動かされるものが取り除かれる』。",
+   "def_en": "Being taken away or transferred: “was taken up”, “the removal of what can be shaken”.",
+   "def_es": "El ser trasladado o quitado: «fue traspuesto», «la remoción de las cosas movibles».",
+   "def_sv": "Att bli förflyttad eller borttagen: ”blev borttagen”, ”att det som kan skakas tas bort”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ヘブル11:5、12:27。LXX に並行（移されること）。教父の用例なし。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n58007012009": "1",
+  "n58011005019": "2",
+  "n58012027008": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（変更／移動・除去）による。"
+}

@@ -1,0 +1,72 @@
+{
+ "lemma": "κόλπος",
+ "lemmaId": "grc:G2859",
+ "strong": "G2859",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "ふところ・胸",
+   "label_en": "bosom, breast",
+   "label_es": "seno, pecho",
+   "label_sv": "famn, bröst",
+   "def": "ふところ、胸。『イエスのふところに寄りかかって』『父のふところにいるひとり子の神』『アブラハムのふところに』『アブラハムのふところにいる』。",
+   "def_en": "The bosom or chest: “leaning on Jesus’ bosom”, “the only God who is in the bosom of the Father”, “to Abraham’s bosom”, “is in Abraham’s bosom”.",
+   "def_es": "El seno, el pecho: «recostado en el pecho de Jesús», «el unigénito Dios que está en el seno del Padre», «al seno de Abraham», «en el seno de Abraham».",
+   "def_sv": "Famnen, bröstet: ”lutad mot Jesu bröst”, ”den enfödde som är i Faderns famn”, ”till Abrahams famn”, ”i Abrahams famn”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ヨハネ13:23・1:18、ルカ16:22・16:23。LXX（4.6）、教父（4.5）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "衣のひだ・ふところ（着物の）",
+   "label_en": "fold of a garment",
+   "label_es": "regazo (pliegue del vestido)",
+   "label_sv": "veck på manteln, famn",
+   "def": "着物のたるみ、懐。『あなたがたのふところに入れてくれる』。",
+   "def_en": "The fold of a robe, the lap: “will be put into your lap”.",
+   "def_es": "Pliegue de la ropa, regazo: «darán en vuestro regazo».",
+   "def_sv": "Bausch i klädnaden, skötet: ”skall ni få i er famn”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ルカ6:38。LXX（30.4）に並行。教父の代表例では確認していない。語義1・3との境界は連続的。"
+  },
+  {
+   "id": "3",
+   "label": "入江",
+   "label_en": "bay",
+   "label_es": "ensenada",
+   "label_sv": "vik",
+   "def": "海岸の入江。『砂浜のある入江が見えたので』。",
+   "def_en": "An inlet on the coast: “they noticed a bay with a sandy beach”.",
+   "def_es": "Ensenada en la costa: «veían una ensenada que tenía playa».",
+   "def_sv": "En vik vid kusten: ”de lade märke till en vik med sandstrand”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒27:39。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42006038013": "2",
+  "n42016022014": "1",
+  "n42016023020": "1",
+  "n43001018011": "1",
+  "n43013023010": "1",
+  "n44027039009": "3"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（ふところ／衣のひだ／入江）による。"
+}

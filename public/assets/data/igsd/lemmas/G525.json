@@ -1,0 +1,52 @@
+{
+ "lemma": "ἀπαλλάσσω",
+ "lemmaId": "grc:G525",
+ "strong": "G525",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "解放する・免れる",
+   "label_en": "to set free, to settle with",
+   "label_es": "librar, librarse",
+   "label_sv": "att befria, att göra upp",
+   "def": "解き放つ、免れる。『彼らを解放し』『彼との関係を清算し』。",
+   "def_en": "To release, to be quit of: “release them”, “settle matters with him”.",
+   "def_es": "Soltar, quedar libre de: «librar a los que», «arreglarte con él».",
+   "def_sv": "Att frigöra, att bli fri från: ”befria dem”, ”göra upp med honom”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ヘブル2:15、ルカ12:58。LXX に並行。教父の代表例では確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "去る",
+   "label_en": "to leave, to depart",
+   "label_es": "irse",
+   "label_sv": "att vika",
+   "def": "去る、離れる。『病気が離れ去り』。",
+   "def_en": "To go away, to leave: “the diseases left them”.",
+   "def_es": "Marcharse, apartarse: «las enfermedades se iban de ellos».",
+   "def_sv": "Att gå bort, att lämna: ”sjukdomarna lämnade dem”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒19:12。LXX、教父に並行。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42012058015": "1",
+  "n44019012015": "2",
+  "n58002015002": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（解放する／去る）による。"
+}

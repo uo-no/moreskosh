@@ -1,0 +1,51 @@
+{
+ "lemma": "περίεργος",
+ "lemmaId": "grc:G4021",
+ "strong": "G4021",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "おせっかいな",
+   "label_en": "meddlesome",
+   "label_es": "entrometido",
+   "label_sv": "beskäftig",
+   "def": "余計なことに首を突っ込む。『おしゃべりをし、おせっかいをし』。",
+   "def_en": "Prying into what is not one’s concern: “gossips and busybodies”.",
+   "def_es": "Que se mete en lo que no le importa: «chismosas y entremetidas».",
+   "def_sv": "Som lägger sig i det som inte angår en: ”skvalleraktiga och nyfikna”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "テモテ第一5:13。LXX の用例なし。教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "魔術",
+   "label_en": "magic arts",
+   "label_es": "artes mágicas",
+   "label_sv": "trollkonster",
+   "def": "魔術、不思議な術。『魔術を行っていた者たち』。",
+   "def_en": "Magic, curious arts: “those who had practised magic”.",
+   "def_es": "Magia, artes ocultas: «los que habían practicado la magia».",
+   "def_sv": "Magi, hemliga konster: ”de som hade ägnat sig åt trolldom”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒19:19。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n44019019005": "2",
+  "n54005013017": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法による。"
+}

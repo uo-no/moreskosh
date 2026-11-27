@@ -1,0 +1,60 @@
+{
+ "lemma": "ἐάω",
+ "lemmaId": "grc:G1439",
+ "strong": "G1439",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "許す／させておく",
+   "label_en": "to allow / let be",
+   "label_es": "permitir / dejar",
+   "label_sv": "att tillåta / låta",
+   "def": "許す、容認する、させておく。『耐えられないほどの試練に遭わせず』『諸国民がその道を歩むままにさせておかれた』『御霊が許さなかった』『知らせることを許さず』『家に穴を開けられるままにはしない』『やめよ、それで十分』。",
+   "def_en": "To permit, tolerate, let be: “will not let you be tempted beyond your ability”, “allowed all the nations to walk in their own ways”, “the Spirit did not allow them”, “would not permit them to make it known”, “would not have let his house be broken into”, “stop, that is enough”.",
+   "def_es": "Permitir, consentir, dejar hacer: «no os dejará ser tentados más de lo que podéis resistir», «ha dejado a las gentes andar en sus propios caminos», «el Espíritu no se lo permitió», «no los dejaba que lo descubriesen», «no dejaría minar su casa», «basta ya, dejad».",
+   "def_sv": "Att tillåta, tåla, låta vara: ”låter er inte frestas över förmåga”, ”lät alla folk gå sina egna vägar”, ”Anden tillät dem inte”, ”förbjöd dem att göra det känt”, ”skulle inte låta någon bryta sig in i huset”, ”låt det vara, det räcker”.",
+   "layers": {
+    "nt": 8,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰコリ10:13、使徒14:16・16:7・19:30・28:4、ルカ4:41・22:51、マタイ24:43。LXX 詩篇・ヨブ9:18、教父（38.2）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "去らせる／そのままにする／放置する",
+   "label_en": "to let go / leave / abandon",
+   "label_es": "dejar ir / dejar / abandonar",
+   "label_sv": "att släppa iväg / lämna",
+   "def": "行かせる、そのままにして去る、放置する。『騎兵たちに任せて立ち去らせた』『小舟を落とすままにした』『錨を切り捨てて海に捨て』。",
+   "def_en": "To let someone go, leave a thing as it is and depart, abandon: “left the horsemen to go on and returned”, “let the small boat go”, “cut away the anchors and left them in the sea”.",
+   "def_es": "Dejar marchar, dejar algo tal cual e irse, abandonar: «dejando a los jinetes que fuesen con él, volvieron», «dejaron perderse el esquife», «cortando las anclas, las dejaron en el mar».",
+   "def_sv": "Att låta gå, lämna som det är och gå, överge: ”lät ryttarna fortsätta och återvände”, ”lät skeppsbåten falla”, ”kapade ankarna och lämnade dem i sjön”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒23:32・27:32・27:40。LXX・教父（26.2.7）に並行。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40024043019": "1",
+  "n42004041020": "1",
+  "n42022051006": "1",
+  "n44014016006": "1",
+  "n44016007013": "1",
+  "n44019030009": "1",
+  "n44023032004": "2",
+  "n44027032010": "2",
+  "n44027040005": "2",
+  "n44028004031": "1",
+  "n46010013014": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（許す／放置）による。"
+}

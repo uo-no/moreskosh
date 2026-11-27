@@ -1,0 +1,41 @@
+{
+ "lemma": "ὀπή",
+ "lemmaId": "grc:G3692",
+ "strong": "G3692",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "穴・開口部",
+   "label_en": "hole, opening",
+   "label_es": "agujero, abertura",
+   "label_sv": "hål, öppning",
+   "def": "穴、開口部。『地の穴』『同じ穴から』。",
+   "def_en": "A hole, an opening: “holes in the ground”, “from the same opening”.",
+   "def_es": "Orificio, hendidura: «las cavernas de la tierra», «por una misma abertura».",
+   "def_sv": "Hål, springa: ”jordhålor”, ”ur samma öppning”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヘブル11:38、ヤコブ3:11。パケットの見出し語は πατήρ だが、これらの語形は ὀπή（ὀπαῖς・ὀπῆς）。LXX・教父の代表例はすべて πατήρ の用例で、ὀπή の用例は確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n58011038016": "1",
+  "n59003011007": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "見出し語の誤りは材料側にあった（パケットの見出し語は πατήρ だが、G3692 の本来のレンマは ὀπή）。ὀπή の LXX・教父の用例は未確認のため、層は none とする。代表例はすべて πατήρ の用例。",
+ "excluded": [
+  {
+   "ref": "LUK 23:34",
+   "form": "Πάτερ",
+   "reason": "πατήρ G3962 の呼格。番号が数字の入れ替わりで本レンマに付いたもので、データ側の扱いは別途データ修正で扱う。"
+  }
+ ]
+}

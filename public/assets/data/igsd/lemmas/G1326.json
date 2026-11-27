@@ -1,0 +1,72 @@
+{
+ "lemma": "διεγείρω",
+ "lemmaId": "grc:G1326",
+ "strong": "G1326",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "起こす・目覚める",
+   "label_en": "to wake, to awaken",
+   "label_es": "despertar",
+   "label_sv": "att väcka, att vakna",
+   "def": "眠りから起こす、起き上がる。『弟子たちは近寄って、イエスを起こして』『イエスは起き上がって、風をしかりつけ』。",
+   "def_en": "To rouse from sleep, to wake up: “the disciples came near and woke Jesus”, “Jesus got up and rebuked the wind”.",
+   "def_es": "Despertar del sueño, levantarse: «los discípulos se acercaron y despertaron a Jesús», «Jesús se levantó y reprendió al viento».",
+   "def_sv": "Att väcka ur sömnen, att vakna upp: ”lärjungarna gick fram och väckte Jesus”, ”Jesus reste sig och hutade åt vinden”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ルカ8:24（2回）、マルコ4:39。LXX（1.1λ）に並行。教父の用例なし。語義2・3との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "奮い立たせる・思い起こさせる",
+   "label_en": "to stir up, to rouse by reminding",
+   "label_es": "despertar, avivar el ánimo",
+   "label_sv": "att uppväcka, att väcka genom påminnelse",
+   "def": "心を奮い立たせる、思い起こさせて目を覚まさせる。『思い起こさせて、あなたがたの心を奮い立たせるのがよい』『あなたがたの純真な心を奮い立たせる』。",
+   "def_en": "To stir up the mind, to awaken it by reminding: “I think it right to stir you up by reminding you”, “to stir up your sincere minds”.",
+   "def_es": "Avivar el ánimo, mantenerlo despierto trayendo a la memoria: «tengo por justo despertaros con el recuerdo», «despierto con exhortación vuestro limpio entendimiento».",
+   "def_sv": "Att sporra sinnet, att väcka det genom att påminna: ”det är rätt att väcka er genom påminnelser”, ”väcka ert rena sinne”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ペテロ第二1:13・3:1。LXX（15.10）に並行。教父の用例なし。語義1との境界は連続的。"
+  },
+  {
+   "id": "3",
+   "label": "荒れる（海が）",
+   "label_en": "to grow rough (of the sea)",
+   "label_es": "embravecerse (el mar)",
+   "label_sv": "att bli upprörd (om sjön)",
+   "def": "海が荒れ立つ。『大風が吹いて、海は荒れ始めた』。",
+   "def_en": "For the sea to become stormy: “a great wind blew, and the sea grew rough”.",
+   "def_es": "Agitarse el mar: «se levantaba un gran viento y el mar se agitaba».",
+   "def_sv": "Att sjön börjar gå hög: ”det blåste hårt och sjön började gå hög”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヨハネ6:18。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n41004039002": "1",
+  "n42008024003": "1",
+  "n42008024011": "1",
+  "n43006018007": "3",
+  "n61001013011": "2",
+  "n61003001010": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（起こす・目覚める／奮い立たせる／海が荒れる）による。"
+}

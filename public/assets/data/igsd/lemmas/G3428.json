@@ -1,0 +1,56 @@
+{
+ "lemma": "μοιχαλίς",
+ "lemmaId": "grc:G3428",
+ "strong": "G3428",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "姦婦・不貞の女",
+   "label_en": "adulteress",
+   "label_es": "adúltera",
+   "label_sv": "äktenskapsbryterska",
+   "def": "姦淫を行う女、不貞の女。『もし夫が生きている間に他の男のものとなるなら、姦婦と呼ばれる』『姦婦ではない』『姦淫に満ちた目』『姦淫を行う者たちよ』。",
+   "def_en": "A woman who commits adultery, an unfaithful woman: “if she belongs to another man while her husband is alive, she will be called an adulteress”, “she is not an adulteress”, “eyes full of adultery”, “you adulteresses”.",
+   "def_es": "Mujer que comete adulterio, mujer infiel: «si en vida del marido se une a otro hombre, será llamada adúltera», «no es adúltera», «ojos llenos de adulterio», «adúlteras».",
+   "def_sv": "En kvinna som begår äktenskapsbrott, en trolös kvinna: ”om hon tillhör en annan man medan maken lever kallas hon äktenskapsbryterska”, ”hon är ingen äktenskapsbryterska”, ”ögon fulla av äktenskapsbrott”, ”ni trolösa”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ローマ7:3（2回）、ペテロ第二2:14、ヤコブ4:4。ヤコブ4:4 を字義の不貞とみるか神への不忠実の比喩とみるかは決定しない。LXX（16.38・18.22α）に並行。教父の用例なし。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "姦淫の（世代について）",
+   "label_en": "adulterous (of a generation)",
+   "label_es": "adúltera (de una generación)",
+   "label_sv": "trolös, äktenskapsbrytande (om ett släkte)",
+   "def": "世代について、神への不忠実を指して姦淫の。『悪い、姦淫の時代はしるしを求める』『この姦淫の時代』『この姦淫と罪深い時代に』。",
+   "def_en": "Adulterous, said of a generation with reference to unfaithfulness to God: “an evil and adulterous generation asks for a sign”, “this adulterous generation”, “in this adulterous and sinful generation”.",
+   "def_es": "Adúltera, dicho de una generación por su infidelidad a Dios: «la generación mala y adúltera pide señal», «esta generación adúltera», «en esta generación adúltera y pecadora».",
+   "def_sv": "Äktenskapsbrytande, om ett släktes otrohet mot Gud: ”ett ont och trolöst släkte söker tecken”, ”detta trolösa släkte”, ”i detta trolösa och syndiga släkte”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ12:39・16:4、マルコ8:38。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40012039009": "2",
+  "n40016004004": "2",
+  "n41008038015": "2",
+  "n45007003006": "1",
+  "n45007003026": "1",
+  "n59004004001": "1",
+  "n61002014004": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（姦婦／世代を形容する用法）による。"
+}

@@ -1,0 +1,65 @@
+{
+ "lemma": "δέσμιος",
+ "lemmaId": "grc:G1198",
+ "strong": "G1198",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "囚人／捕らわれた者",
+   "label_en": "prisoner / captive",
+   "label_es": "preso / cautivo",
+   "label_sv": "fånge",
+   "def": "牢に入れられている者、捕らえられている者。バラバ、パウロとシラスの獄中の囚人たち、総督の囚人、獄にいる人々。",
+   "def_en": "One put in prison, one who is held: Barabbas, the prisoners with Paul and Silas, the governor's prisoner, those in prison.",
+   "def_es": "El encarcelado, el detenido: Barrabás, los presos junto a Pablo y Silas, el preso del gobernador, los que están en la cárcel.",
+   "def_sv": "En som sitter fängslad eller hålls fången: Barabbas, fångarna med Paulus och Silas, ståthållarens fånge, de som sitter i fängelse.",
+   "layers": {
+    "nt": 11,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "マタイ27:15・16・マルコ15:6（囚人バラバ）、使徒16:25・27（囚人たち）・23:18・25:14・27・28:17（パウロ）、ヘブル10:34・13:3（囚人たちを思いやる）。LXX 創世記・列王記、教父（Ⅰクレメンス59.4）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "（キリストの）囚人／獄中の者（パウロ）",
+   "label_en": "prisoner (of Christ) (Paul)",
+   "label_es": "preso (de Cristo) (Pablo)",
+   "label_sv": "(Kristi) fånge (Paulus)",
+   "def": "『キリスト・イエスの囚人』『主にある囚人』。パウロの自称で、福音のために囚われの身であること。",
+   "def_en": "“A prisoner of Christ Jesus”, “a prisoner in the Lord”: Paul's self-designation, being in captivity for the gospel.",
+   "def_es": "«Preso de Cristo Jesús», «preso en el Señor»: título que Pablo se da por estar cautivo a causa del evangelio.",
+   "def_sv": "”Kristi Jesu fånge”, ”fånge i Herren”: Paulus egen benämning för att han sitter fången för evangeliets skull.",
+   "layers": {
+    "nt": 5,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "エペソ3:1・4:1、ピレモン1・9、Ⅱテモ1:8（主の囚人であるわたし）。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40027015011": "1",
+  "n40027016004": "1",
+  "n41015006007": "1",
+  "n44016025016": "1",
+  "n44016027022": "1",
+  "n44023018013": "1",
+  "n44025014023": "1",
+  "n44025027006": "1",
+  "n44028017032": "1",
+  "n49003001006": "2",
+  "n49004001006": "2",
+  "n55001008012": "2",
+  "n57001001002": "2",
+  "n57001009014": "2",
+  "n58010034004": "1",
+  "n58013003003": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

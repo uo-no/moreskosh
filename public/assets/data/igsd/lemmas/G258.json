@@ -1,0 +1,52 @@
+{
+ "lemma": "ἀλώπηξ",
+ "lemmaId": "grc:G258",
+ "strong": "G258",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "狐",
+   "label_en": "fox",
+   "label_es": "zorra",
+   "label_sv": "räv",
+   "def": "狐。『狐には穴がある』。",
+   "def_en": "A fox: “foxes have holes”.",
+   "def_es": "Zorro: «las zorras tienen guaridas».",
+   "def_sv": "Räv: ”rävarna har lyor”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マタイ8:20、ルカ9:58。LXX に並行。教父の用例なし。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "狐（呼びかけ・言及）",
+   "label_en": "fox (as a designation)",
+   "label_es": "zorro (como apelativo)",
+   "label_sv": "räven (som benämning)",
+   "def": "ヘロデを指す語として用いられた『あの狐』。比喩として何を指すかの解釈は決定しない。",
+   "def_en": "“That fox”, a word used of Herod; what the figure is meant to convey is not decided.",
+   "def_es": "«Aquella zorra», término aplicado a Herodes; no se decide qué quiere expresar la figura.",
+   "def_sv": "”Den räven”, ett ord använt om Herodes; vad bilden syftar på avgörs inte.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ルカ13:32。LXX に並行。教父の用例なし。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40008020007": "1",
+  "n42009058007": "1",
+  "n42013032007": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（動物／人を指す語）による。"
+}

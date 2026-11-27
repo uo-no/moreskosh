@@ -1,0 +1,56 @@
+{
+ "lemma": "διαστρέφω",
+ "lemmaId": "grc:G1294",
+ "strong": "G1294",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "曲げる・そむかせる（能動）",
+   "label_en": "to pervert, to turn away (active)",
+   "label_es": "torcer, apartar (voz activa)",
+   "label_sv": "att förvränga, att vända bort (aktivum)",
+   "def": "人や物事をゆがめる、そむかせる。『総督を信仰からそむかせようとして』『主のまっすぐな道を曲げ』『民を惑わしている』。",
+   "def_en": "To distort a person or thing, to turn someone away: “trying to turn the governor away from the faith”, “making crooked the straight paths of the Lord”, “leading the people astray”.",
+   "def_es": "Torcer a una persona o cosa, apartarla: «procurando apartar de la fe al gobernador», «torcer los caminos rectos del Señor», «extraviar al pueblo».",
+   "def_sv": "Att förvränga en person eller sak, att vända någon bort: ”försökte vända ståthållaren bort från tron”, ”förvränga Herrens raka vägar”, ”förleda folket”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒13:8・13:10、ルカ23:2。LXX（13.18）、教父（46.9・47.5）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "ねじ曲がった（分詞形容詞）",
+   "label_en": "crooked, perverse (participial adjective)",
+   "label_es": "torcido, perverso (participio adjetival)",
+   "label_sv": "förvänd, vrång (adjektiviskt particip)",
+   "def": "ねじ曲がった、曲がった（世代・言葉について）。『不信仰な曲がった時代よ』『曲がった世代』『曲がった事を語り』『曲がった邪悪な時代の中で』。",
+   "def_en": "Crooked, perverted (of a generation or of words): “O unbelieving and perverse generation”, “a crooked generation”, “speaking perverse things”, “in the midst of a crooked and perverted generation”.",
+   "def_es": "Torcido, perverso (dicho de una generación o de palabras): «oh generación incrédula y perversa», «una generación torcida», «hablando cosas perversas», «en medio de una generación torcida y perversa».",
+   "def_sv": "Förvänd, vrång (om ett släkte eller om ord): ”du trolösa och fördärvade släkte”, ”ett fördärvat släkte”, ”tala förvända ting”, ”mitt i ett fördärvat och ont släkte”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒20:30、ルカ9:41、マタイ17:17、ピリピ2:15。LXX（8.13）に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40017017010": "2",
+  "n42009041010": "2",
+  "n42023002008": "1",
+  "n44013008014": "1",
+  "n44013010016": "1",
+  "n44020030008": "2",
+  "n50002015013": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（能動でゆがめる／受動分詞のねじ曲がった）による。"
+}

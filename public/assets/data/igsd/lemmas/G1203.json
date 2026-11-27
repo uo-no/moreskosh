@@ -1,0 +1,59 @@
+{
+ "lemma": "δεσπότης",
+ "lemmaId": "grc:G1203",
+ "strong": "G1203",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "主人（奴隷の持ち主）",
+   "label_en": "master (owner of slaves)",
+   "label_es": "amo (dueño de esclavos)",
+   "label_sv": "herre (slavägare)",
+   "def": "主人、奴隷を持つ人。『主人たちに従え』『自分の主人を十分に尊敬すべき』『主人の用に役立つ器』『信者の主人を持つ者』。",
+   "def_en": "A master, one who owns slaves: “be subject to your masters”, “regard their own masters as worthy of all honour”, “useful to the master of the house”, “those who have believing masters”.",
+   "def_es": "El amo, el que tiene esclavos: «estad sujetos a vuestros amos», «tengan a sus amos por dignos de todo honor», «útil para los usos del Señor», «los que tienen amos creyentes».",
+   "def_sv": "En husbonde, en som äger slavar: ”underordna er era herrar”, ”visa sina egna herrar all aktning”, ”användbar för husets herre”, ”de som har troende herrar”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "Ⅰペテロ2:18、Ⅰテモ6:1・6:2、テトス2:9、Ⅱテモ2:21。教父（49.6、22.5.3）に並行。語義2との境界は連続的。LXX の代表例は神への呼びかけで、この用法は確認できない。"
+  },
+  {
+   "id": "2",
+   "label": "主よ／主（神・キリストの称号）",
+   "label_en": "Sovereign Lord (title of God, Christ)",
+   "label_es": "Señor soberano (título de Dios y de Cristo)",
+   "label_sv": "Härskare / Herre (titel för Gud, Kristus)",
+   "def": "神・キリストへの称号、呼びかけとしての『主』。『主よ、あなたは天と地と海と』『主よ、今こそ僕を去らせてくださる』『聖なる、真実な主よ』『ご自身を買い取ってくださった主を否み』『唯一の主人』。",
+   "def_en": "“Lord” as a title and address for God or Christ: “Sovereign Lord, who made heaven and earth and sea”, “Lord, now you are letting your servant depart”, “holy and true Sovereign”, “denying the Master who bought them”, “our only Master”.",
+   "def_es": "«Señor» como título e invocación de Dios o de Cristo: «Soberano Señor, tú que hiciste el cielo, la tierra y el mar», «ahora, Señor, despides a tu siervo», «Señor, santo y verdadero», «negarán al Señor que los rescató», «el único soberano».",
+   "def_sv": "”Herre” som titel och tilltal till Gud eller Kristus: ”Herre, du som har skapat himmel, jord och hav”, ”Herre, nu låter du din tjänare gå”, ”du helige och sannfärdige Härskare”, ”förnekar den Herre som friköpt dem”, ”vår ende härskare”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒4:24、ルカ2:29、黙示録6:10、Ⅱペテロ2:1、ユダ4。LXX 詩篇・ダニエル9:8、教父に並行。Ⅱペテロ2:1・ユダ4 の『主人』が指す対象（神かキリストか）は決定しない。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42002029006": "2",
+  "n44004024012": "2",
+  "n54006001008": "1",
+  "n54006002005": "1",
+  "n55002021015": "1",
+  "n56002009003": "1",
+  "n60002018008": "1",
+  "n61002001022": "2",
+  "n65001004024": "2",
+  "n66006010009": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（奴隷の主人／神・キリストの称号）による。"
+}

@@ -1,0 +1,80 @@
+{
+ "lemma": "κατανοέω",
+ "lemmaId": "grc:G2657",
+ "strong": "G2657",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "よく見る／注視する",
+   "label_en": "to look closely / observe",
+   "label_es": "mirar bien / observar",
+   "label_sv": "att betrakta noga / iaktta",
+   "def": "よく見る、注意して見る。『よく見ようとして近づいた』『その中をよく見ていると』『鏡で自分の顔を見る者』『その入江に気づいて』。",
+   "def_en": "To look well, to look with attention: “as he drew near to look”, “as I looked into it”, “a man looking at his face in a mirror”, “noticing a bay”.",
+   "def_es": "Mirar con atención: «acercándose para observar», «fijando en él los ojos», «el que mira en un espejo su rostro natural», «divisaron una ensenada».",
+   "def_sv": "Att se noga och uppmärksamt: ”gick närmare för att se efter”, ”när jag såg in i det”, ”den som ser sitt ansikte i en spegel”, ”lade märke till en vik”.",
+   "layers": {
+    "nt": 6,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒7:31・7:32・11:6・27:39、ヤコブ1:23・1:24。LXX 詩篇93:9、教父（26.8.3）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "よく考える／思いめぐらす",
+   "label_en": "to consider / ponder",
+   "label_es": "considerar / meditar",
+   "label_sv": "att tänka noga på / begrunda",
+   "def": "よく考える、思いめぐらす。『からすのことを考えてみよ』『野のゆりを考えてみよ』『イエスのことをよく考えよ』『互いに注意し合い』『自分の体が死んだも同然であることを認めたが』。",
+   "def_en": "To consider carefully, to reflect on: “consider the ravens”, “consider the lilies”, “consider Jesus”, “let us consider one another”, “he considered his own body as good as dead”.",
+   "def_es": "Reflexionar con cuidado: «considerad los cuervos», «considerad los lirios», «considerad a Jesús», «considerémonos unos a otros», «consideró su cuerpo ya como muerto».",
+   "def_sv": "Att noga överväga och begrunda: ”tänk på korparna”, ”se på liljorna”, ”se på Jesus”, ”ge akt på varandra”, ”tänkte på att hans kropp var så gott som död”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ルカ12:24・12:27、ヘブル3:1・10:24、ローマ4:19。LXX イザヤ59:16、教父（34.5）に並行。"
+  },
+  {
+   "id": "3",
+   "label": "気づく／見抜く",
+   "label_en": "to notice / see through",
+   "label_es": "advertir / calar",
+   "label_sv": "att märka / genomskåda",
+   "def": "気づく、見抜く。『自分の目の梁には気づかないのか』『彼らの悪巧みを見抜いて』。",
+   "def_en": "To become aware of, to see through: “do you not notice the log in your own eye?”, “perceiving their craftiness”.",
+   "def_es": "Darse cuenta, descubrir la intención: «no ves la viga en tu propio ojo», «comprendiendo su astucia».",
+   "def_sv": "Att bli varse och genomskåda: ”märker du inte bjälken i ditt eget öga?”, ”genomskådade deras list”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ7:3、ルカ6:41・20:23。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40007003021": "3",
+  "n42006041022": "3",
+  "n42012024001": "2",
+  "n42012027001": "2",
+  "n42020023001": "3",
+  "n44007031011": "1",
+  "n44007032020": "1",
+  "n44011006004": "1",
+  "n44027039012": "1",
+  "n45004019006": "2",
+  "n58003001007": "2",
+  "n58010024002": "2",
+  "n59001023013": "1",
+  "n59001024001": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（見る／考える／気づく）による。"
+}

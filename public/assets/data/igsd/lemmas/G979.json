@@ -1,0 +1,59 @@
+{
+ "lemma": "βίος",
+ "lemmaId": "grc:G979",
+ "strong": "G979",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "財産／生活の資",
+   "label_en": "property / means of living",
+   "label_es": "bienes / sustento",
+   "label_sv": "egendom / uppehälle",
+   "def": "財産、生計、暮らしの資。『富（世の財）を持ちながら』『財産を分けてやった』『生活費を全部入れた』『持っていた生活費をすべて』『生活費をすべて使い果たした』。",
+   "def_en": "Property, livelihood, means of support: “if anyone has the world's goods”, “divided his property between them”, “put in all her living”, “all she had to live on”, “spent all her living”.",
+   "def_es": "Bienes, medios de vida: «el que tiene bienes de este mundo», «les repartió los bienes», «echó todo el sustento», «todo lo que tenía para vivir», «había gastado todos sus medios de vida».",
+   "def_sv": "Egendom, försörjning, medel att leva av: ”den som har denna världens tillgångar”, ”delade sin egendom mellan dem”, ”lade i allt hon hade att leva av”, ”allt hon hade till sitt uppehälle”, ”gjort av med allt hon ägde”.",
+   "layers": {
+    "nt": 6,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰヨハネ3:17、ルカ15:12・15:30・21:4・8:43、マルコ12:44。LXX 箴言31:14・Ⅱマカバイ、教父（5）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "生涯／暮らし",
+   "label_en": "life / manner of living",
+   "label_es": "vida / modo de vivir",
+   "label_sv": "liv / leverne",
+   "def": "生涯、暮らしぶり、この世の営み。『平和で静かな生活を』『日常生活の事に』『この世の生活の思い煩い』『持ち物の誇り（生活のおごり）』。",
+   "def_en": "One's lifetime, way of living, worldly pursuits: “lead a peaceful and quiet life”, “the affairs of everyday life”, “the cares of this life”, “pride in possessions”.",
+   "def_es": "La vida, la manera de vivir, los quehaceres de este mundo: «vivir quieta y reposadamente», «los negocios de la vida», «los afanes de esta vida», «la vanagloria de la vida».",
+   "def_sv": "Livet, levnadssättet, de världsliga bestyren: ”leva ett lugnt och stilla liv”, ”vardagslivets angelägenheter”, ”livets bekymmer”, ”skryt över livets goda”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰテモ2:2、Ⅱテモ2:4、ルカ8:14、Ⅰヨハネ2:16。LXX Ⅱマカバイ・知恵、教父（4.7.3）に並行。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n41012044020": "1",
+  "n42008014019": "2",
+  "n42008043015": "1",
+  "n42015012021": "1",
+  "n42015030011": "1",
+  "n42021004020": "1",
+  "n54002002013": "2",
+  "n55002004006": "2",
+  "n62002016020": "2",
+  "n62003017006": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（財産／暮らし）による。"
+}

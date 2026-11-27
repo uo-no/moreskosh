@@ -1,0 +1,56 @@
+{
+ "lemma": "ὄπισθεν",
+ "lemmaId": "grc:G3693",
+ "strong": "G3693",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "後ろに・後ろから",
+   "label_en": "behind, from behind",
+   "label_es": "detrás, por detrás",
+   "label_sv": "bakom, bakifrån",
+   "def": "後ろに、後ろから。『彼の後ろからついて行った』『後ろから来て』『後ろから御衣のふさに触れた』『私たちの後ろから叫んでいる』『前も後ろも目で満ちた』『彼につけて、後ろから十字架を負わせ』。",
+   "def_en": "Behind, from behind: “followed behind him”, “came from behind”, “came from behind and touched the fringe of his garment”, “she is crying out after us”, “full of eyes in front and behind”, “laid the cross on him to carry it behind”.",
+   "def_es": "Detrás, por detrás: «le seguía por detrás», «vino por detrás», «acercándose por detrás tocó el borde de su manto», «viene gritando detrás de nosotros», «llenos de ojos delante y detrás», «le pusieron encima la cruz para que la llevase detrás».",
+   "def_sv": "Bakom, bakifrån: ”följde bakom honom”, ”kom bakifrån”, ”kom bakifrån och rörde vid tofsen på hans mantel”, ”hon ropar efter oss”, ”fulla av ögon framtill och baktill”, ”lade korset på honom att bära bakom”.",
+   "layers": {
+    "nt": 6,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ルカ23:26・8:44、マタイ15:23・9:20、マルコ5:27、黙示録4:6。LXX（2.21）、教父（4.4）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "裏側に",
+   "label_en": "on the back",
+   "label_es": "por el dorso",
+   "label_sv": "på baksidan",
+   "def": "巻物の裏側に。『内側にも外側（裏）にも字が書かれている』。",
+   "def_en": "On the back side of a scroll: “writing on the inside and on the outside” (the back).",
+   "def_es": "Por el reverso de un rollo: «escrito por dentro y por fuera» (el reverso).",
+   "def_sv": "På baksidan av en bokrulle: ”med skrift på insidan och utsidan” (baksidan).",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "黙示録5:1。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40009020008": "1",
+  "n40015023019": "1",
+  "n41005027009": "1",
+  "n42008044002": "1",
+  "n42023026017": "1",
+  "n66004006025": "1",
+  "n66005001015": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（後ろ／裏側）による。"
+}

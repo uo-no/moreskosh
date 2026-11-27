@@ -1,0 +1,71 @@
+{
+ "lemma": "συνέδριον",
+ "lemmaId": "grc:G4892",
+ "strong": "G4892",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "最高法院（サンヘドリン）／議会",
+   "label_en": "Sanhedrin / council",
+   "label_es": "Sanedrín / consejo",
+   "label_sv": "Stora rådet (Sanhedrin) / råd",
+   "def": "ユダヤ人の最高法院・議会。単数、冠詞つきで、エルサレムの議決・裁判機関を指す。",
+   "def_en": "The supreme court or council of the Jews. Singular with the article, it refers to the deciding and judicial body in Jerusalem.",
+   "def_es": "El tribunal supremo o consejo de los judíos. En singular y con artículo, designa el órgano de deliberación y juicio de Jerusalén.",
+   "def_sv": "Judarnas högsta domstol och råd. I singular med artikel betecknar det det beslutande och dömande organet i Jerusalem.",
+   "layers": {
+    "nt": 19,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "福音書の裁判（マタイ26:59、マルコ14:55・15:1、ルカ22:66、ヨハネ11:47）、使徒4:15・5:21・27・34・41・6:12・15・22:30・23:1・6・15・20・28・24:20。LXX（箴言・Ⅱマカバイ・Ⅳマカバイ）に『会議』の用例。教父の代表例では確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "地方の法廷（会議）",
+   "label_en": "local court (council)",
+   "label_es": "tribunal local (consejo)",
+   "label_sv": "lokal domstol (råd)",
+   "def": "各地の会堂や町に置かれた地方の裁判機関・会議。複数形で出ることが多い。",
+   "def_en": "Local judicial bodies or councils attached to synagogues and towns in various places. Often plural.",
+   "def_es": "Órganos judiciales o consejos locales establecidos en sinagogas y ciudades. Frecuente en plural.",
+   "def_sv": "Lokala domstolar eller råd vid synagogor och i städer på olika orter. Ofta i plural.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ10:17・マルコ13:9（『人々はあなたがたを地方法廷に引き渡す』）、マタイ5:22（『議会に引き出される』。Abbott は個別に示していないが、同じ裁判の段階の語として置いた。サンヘドリンの意味と読む余地もあり、語義1との境界は連続的）。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40005022027": "2",
+  "n40010017010": "2",
+  "n40026059006": "1",
+  "n41013009008": "2",
+  "n41014055007": "1",
+  "n41015001016": "1",
+  "n42022066019": "1",
+  "n43011047008": "1",
+  "n44004015006": "1",
+  "n44005021022": "1",
+  "n44005027007": "1",
+  "n44005034006": "1",
+  "n44005041009": "1",
+  "n44006012019": "1",
+  "n44006015010": "1",
+  "n44022030024": "1",
+  "n44023001006": "1",
+  "n44023006018": "1",
+  "n44023015009": "1",
+  "n44023020017": "1",
+  "n44023028013": "1",
+  "n44024020012": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "教父の代表例（イグナティオス『トラレス』3.3.1『神の議会としての長老たち』）は新約に無い比喩用法で、語義にはしない。"
+}

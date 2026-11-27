@@ -1,0 +1,56 @@
+{
+ "lemma": "καθαρισμός",
+ "lemmaId": "grc:G2512",
+ "strong": "G2512",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "清め（儀式的）",
+   "label_en": "(ceremonial) purification",
+   "label_es": "purificación (ritual)",
+   "label_sv": "(rituell) rening",
+   "def": "儀式的な清め。『ユダヤ人のきよめのならわしに従って』『清めのことで』『彼らの清めの期間が満ちたとき』『あなたの清めのために供え物をささげなさい』。",
+   "def_en": "Ceremonial purification: “according to the Jewish custom of purification”, “about purification”, “when the days of their purification were completed”, “offer the gift for your cleansing”.",
+   "def_es": "Purificación ritual: «conforme a la costumbre judía de la purificación», «acerca de la purificación», «cuando se cumplieron los días de su purificación», «ofrece la ofrenda por tu purificación».",
+   "def_sv": "Rituell rening: ”enligt judarnas reningssed”, ”om reningen”, ”när tiden för deras rening var över”, ”bär fram offergåvan för din rening”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ヨハネ2:6・3:25、ルカ2:22・5:14、マルコ1:44。LXX（2.16・30.10）に並行。教父の代表例では確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "罪の清め",
+   "label_en": "cleansing of sins",
+   "label_es": "purificación de pecados",
+   "label_sv": "rening från synder",
+   "def": "罪の清め、きよめ。『かつての罪が清められたことを忘れ』『罪のきよめをなし終えてから』。",
+   "def_en": "Cleansing, purification from sins: “having forgotten that he was cleansed from his past sins”, “after he had made purification for sins”.",
+   "def_es": "Limpieza, purificación de los pecados: «habiendo olvidado que fue purificado de sus antiguos pecados», «después de haber efectuado la purificación de los pecados».",
+   "def_sv": "Rening från synder: ”har glömt att han renats från sina tidigare synder”, ”sedan han fullbordat reningen från synderna”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ペテロ第二1:9、ヘブル1:3。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n41001044018": "1",
+  "n42002022007": "1",
+  "n42005014017": "1",
+  "n43002006009": "1",
+  "n43003025011": "1",
+  "n58001003021": "2",
+  "n61001009012": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（儀式的な清め／罪の清め）による。"
+}

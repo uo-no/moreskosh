@@ -1,0 +1,88 @@
+{
+ "lemma": "κατεργάζομαι",
+ "lemmaId": "grc:G2716",
+ "strong": "G2716",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "もたらす／生み出す",
+   "label_en": "to bring about / produce",
+   "label_es": "producir / generar",
+   "label_sv": "att åstadkomma / framkalla",
+   "def": "ある結果・効果・状態をもたらす、生み出す。主語は苦難・悲しみ・律法・罪などの抽象物、または神。目的語は忍耐・救い・栄光など。",
+   "def_en": "To bring about or produce a result, effect, or state. The subject is an abstraction such as suffering, grief, the law, or sin, or else God; the object is endurance, salvation, glory, and the like.",
+   "def_es": "Producir o generar un resultado, efecto o estado. El sujeto es algo abstracto como la tribulación, la tristeza, la ley o el pecado, o bien Dios; el objeto, la paciencia, la salvación, la gloria, etc.",
+   "def_sv": "Att åstadkomma eller framkalla ett resultat, en verkan eller ett tillstånd. Subjektet är något abstrakt som lidande, sorg, lagen eller synden, eller Gud; objektet är uthållighet, frälsning, härlighet och liknande.",
+   "layers": {
+    "nt": 11,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ローマ4:15（律法は怒りを生む）・5:3（患難は忍耐を生む）・7:8・7:13、Ⅱコリ4:17・7:10・7:11・9:11、ヤコブ1:3、Ⅱコリ5:5（このことに向けて整えた神）、ピリ2:12（自分の救いを完成させなさい。『成し遂げる』の含みがあり語義3との境界は連続的）。LXX（出エジプト記・列王記）に並行。教父の代表例では確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "行う／為す（行為・悪事）",
+   "label_en": "to do / commit (deeds, wrongs)",
+   "label_es": "hacer / cometer (actos, maldades)",
+   "label_sv": "att göra / begå (handlingar, onda gärningar)",
+   "def": "行為を行う、犯す。ローマ書の『わたしのしていること』（７章）、悪事・汚れを行う。",
+   "def_en": "To perform or commit an act: the “what I am doing” of Romans (chapter 7), doing evil and impurity.",
+   "def_es": "Realizar o cometer un acto: el «lo que hago» de Romanos (capítulo 7), hacer lo malo e impuro.",
+   "def_sv": "Att utföra eller begå en handling: ”det jag gör” i Romarbrevet (kapitel 7), att göra ont och orent.",
+   "layers": {
+    "nt": 8,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "Ⅰコリ5:3（それを行った者）、Ⅰペテロ4:3（異邦人の望むことを行う）、ローマ1:27（恥ずべきことを行う）・2:9（悪を行う）・7:15・17・18・20（『わたしが行っているのは、わたしではない』）。教父（ヘルマス9.1.2）に並行。"
+  },
+  {
+   "id": "3",
+   "label": "成し遂げる／果たす",
+   "label_en": "to accomplish / carry out",
+   "label_es": "llevar a cabo / cumplir",
+   "label_sv": "att fullborda / genomföra",
+   "def": "仕事・しるし・戦いなどを最後までやり遂げる。",
+   "def_en": "To carry a work, sign, battle, or the like through to the end.",
+   "def_es": "Llevar hasta el final una obra, una señal, un combate, etc.",
+   "def_sv": "Att föra ett arbete, ett tecken, en strid eller liknande ända till slut.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ローマ15:18（キリストがわたしを通してなされたこと）、Ⅱコリ12:12（使徒のしるしが行われた）、エペソ6:13（すべてを成し遂げて立つ）。語義1・2 との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n45001027024": "2",
+  "n45002009009": "2",
+  "n45004015005": "1",
+  "n45005003015": "1",
+  "n45007008009": "1",
+  "n45007013019": "1",
+  "n45007015003": "2",
+  "n45007017005": "2",
+  "n45007018022": "2",
+  "n45007020010": "2",
+  "n45015018008": "3",
+  "n46005003018": "2",
+  "n47004017015": "1",
+  "n47005005003": "1",
+  "n47007010017": "1",
+  "n47007011010": "1",
+  "n47009011008": "1",
+  "n47012012006": "3",
+  "n49006013018": "3",
+  "n50002012029": "1",
+  "n59001003008": "1",
+  "n60004003010": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

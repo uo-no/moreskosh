@@ -1,0 +1,75 @@
+{
+ "lemma": "διασκορπίζω",
+ "lemmaId": "grc:G1287",
+ "strong": "G1287",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "散らす／散らされる",
+   "label_en": "to scatter / be scattered",
+   "label_es": "esparcir / ser dispersado",
+   "label_sv": "att skingra / skingras",
+   "def": "散らす、散り散りになる。『従った者はみな散らされた』『散らされている神の子らを集める』『思いの高ぶる者を打ち散らし』『羊は散り散りになる』。",
+   "def_en": "To scatter, to be dispersed: “all who followed him were scattered”, “to gather the children of God who are scattered abroad”, “has scattered the proud”, “the sheep will be scattered”.",
+   "def_es": "Esparcir, dispersarse: «todos los que le obedecían fueron dispersados», «congregar a los hijos de Dios que estaban dispersos», «esparció a los soberbios», «las ovejas serán dispersadas».",
+   "def_sv": "Att sprida, att skingras: ”alla hans anhängare skingrades”, ”samla Guds skingrade barn”, ”har skingrat de högmodiga”, ”fåren ska skingras”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒5:37、ヨハネ11:52、ルカ1:51、マタイ26:31、マルコ14:27。LXX エゼキエル・ゼカリヤ13:7、教父（9.4）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "ふるい分ける（穀物を）",
+   "label_en": "to winnow (grain)",
+   "label_es": "aventar (el grano)",
+   "label_sv": "att kasta säd",
+   "def": "散らす、ふるい分ける（穀物を）。『散らさないところから集める』（マタイ25:24・25:26）。",
+   "def_en": "To scatter, to winnow (grain): “gathering where you did not scatter” (Matt 25:24, 26).",
+   "def_es": "Esparcir, aventar el grano: «recoges donde no esparciste» (Mt 25:24, 26).",
+   "def_sv": "Att strö ut eller kasta säden: ”samlar in där du inte har strött ut” (Matt 25:24, 26).",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マタイ25:24・25:26。語義1との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "浪費する",
+   "label_en": "to squander",
+   "label_es": "dilapidar",
+   "label_sv": "att slösa bort",
+   "def": "浪費する、無駄遣いする。『財産を無駄に使い』『主人の財産を無駄遣いしている』。",
+   "def_en": "To waste, to squander: “squandered his property”, “was wasting his master's goods”.",
+   "def_es": "Derrochar, malgastar: «desperdició sus bienes», «disipaba los bienes de su amo».",
+   "def_sv": "Att förslösa: ”slösade bort sin egendom”, ”förskingrade sin herres tillgångar”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ルカ15:13・16:1。語義1との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40025024025": "2",
+  "n40025026022": "2",
+  "n40026031021": "1",
+  "n41014027017": "1",
+  "n42001051006": "1",
+  "n42015013017": "3",
+  "n42016001019": "3",
+  "n43011052015": "1",
+  "n44005037024": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（散らす／ふるい分け／浪費）による。"
+}

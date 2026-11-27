@@ -1,0 +1,55 @@
+{
+ "lemma": "καθότι",
+ "lemmaId": "grc:G2530",
+ "strong": "G2530",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "なぜなら・〜なので",
+   "label_en": "because, since",
+   "label_es": "porque, por cuanto",
+   "label_sv": "eftersom, ty",
+   "def": "理由を表す、なぜなら。『彼を陰府に捨て置かれることはなく』『死に支配されていることはありえず』『彼らには子がなかったからである』『なぜなら、この人もアブラハムの子だからである』『神が日を定められたゆえに』。",
+   "def_en": "Expresses a reason: because. “he was not abandoned to Hades”, “it was not possible for death to hold him”, “because they had no child”, “because this man too is a son of Abraham”, “because God has fixed a day”.",
+   "def_es": "Expresa causa: porque. «no fue dejado en el Hades», «era imposible que fuese retenido por la muerte», «por cuanto no tenían hijo», «por cuanto él también es hijo de Abraham», «por cuanto Dios ha establecido un día».",
+   "def_sv": "Anger orsak: eftersom. ”han övergavs inte åt dödsriket”, ”det var omöjligt för döden att hålla honom kvar”, ”eftersom de inte hade något barn”, ”eftersom också han är en Abrahams son”, ”eftersom Gud har fastställt en dag”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "使徒17:31・2:24、ルカ1:7・19:9。教父（3.5.2）に並行。LXX の代表例は用法が異なり、この語義としては確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "〜に応じて・〜のとおり",
+   "label_en": "according as, to the degree that",
+   "label_es": "según, conforme a",
+   "label_sv": "alltefter",
+   "def": "程度・応じ方を表す、〜に応じて。『必要に応じて』『それぞれの必要に応じて』。",
+   "def_en": "Expresses degree or correspondence: according as. “as there was need”, “according to each one’s need”.",
+   "def_es": "Expresa grado o correspondencia: en la medida en que. «según la necesidad», «según la necesidad de cada uno».",
+   "def_sv": "Anger grad eller motsvarighet: alltefter vad. ”efter behov”, ”efter vars och ens behov”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒2:45・4:35。LXX（10.9）に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42001007006": "1",
+  "n42019009014": "1",
+  "n44002024010": "1",
+  "n44002045012": "2",
+  "n44004035011": "2",
+  "n44017031001": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（理由／〜に応じて）による。"
+}

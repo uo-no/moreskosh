@@ -1,0 +1,51 @@
+{
+ "lemma": "ἔλεγχος",
+ "lemmaId": "grc:G1650",
+ "strong": "G1650",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "戒め・論駁",
+   "label_en": "reproof, refutation",
+   "label_es": "reprensión, refutación",
+   "label_sv": "tillrättavisning",
+   "def": "戒め、論駁。『戒めのために有益』。",
+   "def_en": "Reproof, refutation: “useful for reproof”.",
+   "def_es": "Reprensión, el rebatir: «útil para redargüir».",
+   "def_sv": "Bestraffning, vederläggning: ”nyttig till tillrättavisning”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "テモテ第二3:16。LXX、教父に並行。語義2との境界は連続的。語形 ἐλεγμόν は ἔλεγχος の別形か異形かを決定しない。"
+  },
+  {
+   "id": "2",
+   "label": "確証",
+   "label_en": "proof, conviction",
+   "label_es": "convicción",
+   "label_sv": "bevis, övertygelse",
+   "def": "確証、確信を与えるもの。『目に見えないものを確信させるもの』。",
+   "def_en": "Proof, that which gives certainty: “the conviction of things not seen”.",
+   "def_es": "Prueba, lo que da certeza: «la convicción de lo que no se ve».",
+   "def_sv": "Det som ger visshet: ”visshet om det vi inte ser”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヘブル11:1。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n55003016009": "1",
+  "n58011001007": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（戒め／確証）による。"
+}

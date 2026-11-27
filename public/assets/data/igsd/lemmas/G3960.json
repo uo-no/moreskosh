@@ -1,0 +1,59 @@
+{
+ "lemma": "πατάσσω",
+ "lemmaId": "grc:G3960",
+ "strong": "G3960",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "打つ／打ちたたく",
+   "label_en": "to strike / hit",
+   "label_es": "herir / golpear",
+   "label_sv": "att slå / stöta till",
+   "def": "打つ、撃つ、打ち倒す。『ペテロの脇腹を打ち』『主の使いがヘロデを打った』『エジプト人を打って』『剣で打ちましょうか』『大祭司のしもべを打って』『羊飼いを打つ』『剣を抜いて打ち』。",
+   "def_en": "To strike, to smite, to strike down: “struck Peter on the side”, “an angel of the Lord struck Herod”, “struck down the Egyptian”, “shall we strike with the sword?”, “struck the servant of the high priest”, “I will strike the shepherd”, “drew his sword and struck”.",
+   "def_es": "Golpear, herir, derribar: «tocando a Pedro en el costado», «un ángel del Señor hirió a Herodes», «hiriendo al egipcio», «¿heriremos a espada?», «hirió al siervo del sumo sacerdote», «heriré al pastor», «sacando su espada, hirió».",
+   "def_sv": "Att slå, träffa, slå ner: ”stötte Petrus i sidan”, ”en Herrens ängel slog Herodes”, ”slog ihjäl egyptiern”, ”ska vi slå till med svärd?”, ”högg efter översteprästens tjänare”, ”jag ska slå herden”, ”drog svärdet och högg till”.",
+   "layers": {
+    "nt": 8,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒12:7・12:23・7:24、ルカ22:49・22:50、マタイ26:31・26:51、マルコ14:27。LXX 出エジプト記・サムエル記、教父（5.12、26.6.4）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "（災いで）打つ",
+   "label_en": "to smite (with plagues)",
+   "label_es": "herir (con plagas)",
+   "label_sv": "att slå (med plågor)",
+   "def": "災いで打つ、打ち滅ぼす。『あらゆる災害で地を打つ』『諸国民を打つ』。",
+   "def_en": "To strike with plagues, to destroy: “to strike the earth with every kind of plague”, “to strike down the nations”.",
+   "def_es": "Azotar con plagas, destruir: «herir la tierra con toda plaga», «para herir con ella a las naciones».",
+   "def_sv": "Att slå med plågor, att förgöra: ”slå jorden med alla slags plågor”, ”slå folken”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "黙示録11:6・19:15。語義1との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40026031017": "1",
+  "n40026051015": "1",
+  "n41014027011": "1",
+  "n42022049011": "1",
+  "n42022050002": "1",
+  "n44007024011": "1",
+  "n44012007012": "1",
+  "n44012023003": "1",
+  "n66011006028": "2",
+  "n66019015012": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（打つ／災いで打つ）による。"
+}

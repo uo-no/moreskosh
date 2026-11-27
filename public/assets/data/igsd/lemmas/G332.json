@@ -1,0 +1,53 @@
+{
+ "lemma": "ἀναθεματίζω",
+ "lemmaId": "grc:G332",
+ "strong": "G332",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "誓いを立てる（呪いを伴う）",
+   "label_en": "to bind oneself by an oath (with a curse)",
+   "label_es": "juramentarse bajo maldición",
+   "label_sv": "att svära en ed (med förbannelse)",
+   "def": "呪いを伴う誓いを立てる。『パウロを殺すまでは飲み食いしないと誓った』『誓いを立てた』『固く誓った』。",
+   "def_en": "To swear an oath that invokes a curse: “vowed that they would neither eat nor drink until they had killed Paul”, “swore an oath”, “swore solemnly”.",
+   "def_es": "Hacer un juramento que conlleva maldición: «juraron no comer ni beber hasta haber matado a Pablo», «hicieron un juramento», «juraron solemnemente».",
+   "def_sv": "Att svära en ed förenad med förbannelse: ”svor att varken äta eller dricka förrän de dödat Paulus”, ”svor en ed”, ”svor dyrt och heligt”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒23:12・23:14・23:21。語義2との境界は連続的。LXX の代表例は「奉納して滅ぼす」の別形で、この語義としては確認していない。教父の用例なし。"
+  },
+  {
+   "id": "2",
+   "label": "のろう",
+   "label_en": "to curse",
+   "label_es": "maldecir",
+   "label_sv": "att förbanna",
+   "def": "のろう、のろいの言葉を述べる。『のろい始めて』。",
+   "def_en": "To curse, to utter words of cursing: “began to curse”.",
+   "def_es": "Proferir maldiciones: «comenzó a maldecir».",
+   "def_sv": "Att uttala förbannelser: ”började förbanna”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マルコ14:71。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n41014071004": "2",
+  "n44023012008": "1",
+  "n44023014010": "1",
+  "n44023021015": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（呪いを伴う誓い／のろう）による。"
+}

@@ -1,0 +1,83 @@
+{
+ "lemma": "περιτέμνω",
+ "lemmaId": "grc:G4059",
+ "strong": "G4059",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "割礼を施す（他動）",
+   "label_en": "to circumcise (transitive)",
+   "label_es": "circuncidar (transitivo)",
+   "label_sv": "att omskära (transitivt)",
+   "def": "男児・人に割礼を施す。八日目の割礼、安息日の割礼、テモテに割礼を施す。",
+   "def_en": "To circumcise a male child or a person: circumcision on the eighth day, on the Sabbath, the circumcising of Timothy.",
+   "def_es": "Practicar la circuncisión a un niño o a una persona: al octavo día, en sábado, la circuncisión de Timoteo.",
+   "def_sv": "Att omskära ett gossebarn eller en människa: omskärelse på åttonde dagen, på sabbaten, omskärelsen av Timoteus.",
+   "layers": {
+    "nt": 7,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ルカ1:59・2:21（八日目に割礼）、ヨハネ7:22（安息日にも割礼を施す）、使徒7:8（アブラハムの契約）・15:5・16:3（テモテに割礼を受けさせた）・21:21。LXX 創世記17:26 に並行。教父の代表例では確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "割礼を受ける（受動・中動）",
+   "label_en": "to be circumcised (passive, middle)",
+   "label_es": "circuncidarse (pasiva y media)",
+   "label_sv": "att bli omskuren (passiv, medium)",
+   "def": "割礼を受ける、割礼を受けた者。『割礼を受けるな』『割礼を受けたままでいなさい』。",
+   "def_en": "To receive circumcision, one who is circumcised: “do not be circumcised”, “remain circumcised”.",
+   "def_es": "Recibir la circuncisión, el circuncidado: «no se circuncide», «quédese circunciso».",
+   "def_sv": "Att omskäras, den omskurne: ”låt inte omskära dig”, ”förbli omskuren”.",
+   "layers": {
+    "nt": 9,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "Ⅰコリ7:18（2回）、使徒15:1、ガラテヤ2:3・5:2・3・6:12・13（2回）。LXX Ⅰマカバイ5.8 に並行。教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "（心の）割礼を受ける",
+   "label_en": "to be circumcised (of the heart)",
+   "label_es": "ser circuncidado (en el corazón)",
+   "label_sv": "att omskäras (till hjärtat)",
+   "def": "人の手によらない割礼、キリストにある割礼。比喩的な割礼。",
+   "def_en": "A circumcision not made by human hands, circumcision in Christ: figurative circumcision.",
+   "def_es": "Una circuncisión no hecha por mano humana, la circuncisión en Cristo: circuncisión figurada.",
+   "def_sv": "En omskärelse som inte görs med människohand, omskärelsen i Kristus: bildlig omskärelse.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "コロサイ2:11（人の手によらない割礼を受けた）の1例のみ。教父（バルナバ9.1『心を割礼せよ』）に並行。LXX の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42001059009": "1",
+  "n42002021007": "1",
+  "n43007022021": "1",
+  "n44007008012": "1",
+  "n44015001013": "2",
+  "n44015005014": "1",
+  "n44016003010": "1",
+  "n44021021018": "1",
+  "n46007018001": "2",
+  "n46007018011": "2",
+  "n48002003010": "2",
+  "n48005002008": "2",
+  "n48005003006": "2",
+  "n48006012009": "2",
+  "n48006013004": "2",
+  "n48006013011": "2",
+  "n51002011004": "3"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

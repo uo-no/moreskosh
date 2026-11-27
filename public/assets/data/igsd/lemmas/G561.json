@@ -1,0 +1,71 @@
+{
+ "lemma": "ἀπέναντι",
+ "lemmaId": "grc:G561",
+ "strong": "G561",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "面前で・前で",
+   "label_en": "in the presence of, before",
+   "label_es": "delante de, en presencia de",
+   "label_sv": "inför",
+   "def": "目の前で、面前で。『この人はあなたがたの目の前で』『ピラトは群衆の前で』『神への恐れが彼らの目の前にない』。",
+   "def_en": "Before the eyes of, in the presence of: “this man, before the eyes of you all”, “Pilate before the crowd”, “there is no fear of God before their eyes”.",
+   "def_es": "Ante los ojos, en presencia de: «este, en presencia de todos vosotros», «Pilato delante del pueblo», «no hay temor de Dios delante de sus ojos».",
+   "def_sv": "Inför ögonen, i närvaro av: ”denne man inför ögonen på er alla”, ”Pilatus inför folkmassan”, ”de har ingen gudsfruktan för ögonen”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒3:16、マタイ27:24、ローマ3:18。語義2・3との境界は連続的。LXX・教父の代表例は向かい側の用法で、この語義としては確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "向かい側に",
+   "label_en": "opposite",
+   "label_es": "enfrente de",
+   "label_sv": "mitt emot",
+   "def": "向かいに、反対側に。『墓の向かいにすわっていた』。",
+   "def_en": "Facing, on the opposite side: “sitting opposite the tomb”.",
+   "def_es": "Frente a, al otro lado: «sentadas delante del sepulcro».",
+   "def_sv": "Mitt emot, på motsatta sidan: ”satt mitt emot graven”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マタイ27:61。LXX に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+  },
+  {
+   "id": "3",
+   "label": "〜に反して",
+   "label_en": "against, contrary to",
+   "label_es": "en contra de",
+   "label_sv": "emot, i strid med",
+   "def": "〜に反して、逆らって。『カイザルの詔勅に背いて行動している』。",
+   "def_en": "Against, in opposition to: “they are acting against the decrees of Caesar”.",
+   "def_es": "Contrariamente a, en oposición a: «obran contra los decretos de César».",
+   "def_sv": "Tvärtemot, i motsats till: ”de handlar mot kejsarens påbud”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒17:7。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40027024017": "1",
+  "n40027061012": "2",
+  "n44003016028": "1",
+  "n44017007007": "3",
+  "n45003018005": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（面前／向かい側／〜に反して）による。"
+}

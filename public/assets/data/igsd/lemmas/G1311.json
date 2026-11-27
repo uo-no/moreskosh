@@ -1,0 +1,72 @@
+{
+ "lemma": "διαφθείρω",
+ "lemmaId": "grc:G1311",
+ "strong": "G1311",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "滅ぼす・損なう",
+   "label_en": "to destroy, to ruin",
+   "label_es": "destruir, echar a perder",
+   "label_sv": "att fördärva, att förstöra",
+   "def": "滅ぼす、損なう、台無しにする。『虫も食わず』『地を滅ぼす者どもを滅ぼす』『地を滅ぼす者』『海の被造物の三分の一は死に、船の三分の一も打ち壊された』。",
+   "def_en": "To destroy, damage or ruin: “where no moth destroys”, “destroying those who destroy the earth”, “those who destroy the earth”, “a third of the creatures in the sea died, and a third of the ships were destroyed”.",
+   "def_es": "Destruir, dañar, arruinar: «donde la polilla no destruye», «destruir a los que destruyen la tierra», «los que destruyen la tierra», «murió la tercera parte de los seres del mar, y la tercera parte de las naves fue destruida».",
+   "def_sv": "Att förgöra, skada, ödelägga: ”där ingen mal förstör”, ”fördärva dem som fördärvar jorden”, ”de som fördärvar jorden”, ”en tredjedel av havets varelser dog, och en tredjedel av skeppen förstördes”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ルカ12:33、黙示録11:18（2回）・8:9。LXX（7.14・6.5）、教父（4.2.3・2.10.2）に並行。語義2・3との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "衰える",
+   "label_en": "to waste away",
+   "label_es": "desgastarse",
+   "label_sv": "att brytas ned",
+   "def": "外なる人が衰える。『たとえわたしたちの外なる人は滅びても』。",
+   "def_en": "The outer person wasting away: “even though our outer self is wasting away”.",
+   "def_es": "El desgaste del hombre exterior: «aunque este nuestro hombre exterior se va desgastando».",
+   "def_sv": "Att den yttre människan bryts ned: ”även om vår yttre människa bryts ner”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "コリント第二4:16。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "堕落した（分詞形容詞）",
+   "label_en": "corrupted, depraved (participial adjective)",
+   "label_es": "corrompido (participio adjetival)",
+   "label_sv": "fördärvad (adjektiviskt particip)",
+   "def": "心が堕落した。『心の腐った、真理を失った人々』。",
+   "def_en": "Corrupted in mind: “people of corrupted mind who have lost the truth”.",
+   "def_es": "De mente corrompida: «hombres de mente corrompida y privados de la verdad».",
+   "def_sv": "Med fördärvat sinne: ”människor med fördärvat sinne som mist sanningen”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "テモテ第一6:5。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42012033024": "1",
+  "n47004016011": "2",
+  "n54006005002": "3",
+  "n66008009019": "1",
+  "n66011018040": "1",
+  "n66011018042": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（滅ぼす／衰える／堕落した）による。"
+}

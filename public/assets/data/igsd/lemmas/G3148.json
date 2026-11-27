@@ -1,0 +1,55 @@
+{
+ "lemma": "μάστιξ",
+ "lemmaId": "grc:G3148",
+ "strong": "G3148",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "むち・むち打ち",
+   "label_en": "whip, scourging",
+   "label_es": "azote, flagelación",
+   "label_sv": "gissel, gissling",
+   "def": "むち、むち打ち。『むちで打たせようと』『むち打たれ』。",
+   "def_en": "A whip; scourging: “ordered him to be examined by flogging”, “being flogged”.",
+   "def_es": "Azote; castigo de azotes: «que fuese examinado con azotes», «siendo azotado».",
+   "def_sv": "Gissel; att gisslas: ”att han skulle förhöras under gisselslag”, ”bli gisslad”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒22:24、ヘブル11:36。LXX（28.17）、教父（3.2.1）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "病苦・苦しみ",
+   "label_en": "affliction, ailment",
+   "label_es": "azote (dolencia)",
+   "label_sv": "plåga, lidande",
+   "def": "病気や苦しみ（むちにたとえられる災い）。『病苦』『病気』『病気から救われて』『病気がなおって』。",
+   "def_en": "Sickness or suffering (calamity likened to a scourge): “diseases”, “affliction”, “healed of the disease”, “the disease was cured”.",
+   "def_es": "Enfermedad o sufrimiento (mal comparado con un azote): «enfermedades», «dolencia», «sana de la enfermedad», «quedó sana de la plaga».",
+   "def_sv": "Sjukdom eller plåga (en olycka liknad vid ett gissel): ”sjukdomar”, ”plåga”, ”botad från sin sjukdom”, ”blev frisk från sitt onda”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ルカ7:21、マルコ3:10・5:29・5:34。LXX（38.11）に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n41003010012": "2",
+  "n41005029017": "2",
+  "n41005034019": "2",
+  "n42007021010": "2",
+  "n44022024010": "1",
+  "n58011036005": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（むち／病苦）による。"
+}

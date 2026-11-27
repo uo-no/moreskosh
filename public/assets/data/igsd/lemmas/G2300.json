@@ -1,0 +1,89 @@
+{
+ "lemma": "θεάομαι",
+ "lemmaId": "grc:G2300",
+ "strong": "G2300",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "見る／じっと見る（注意して見つめる）",
+   "label_en": "to look at / gaze upon",
+   "label_es": "mirar / contemplar",
+   "label_sv": "att betrakta / se noga på",
+   "def": "目を向けて、注意深く・じっくりと見る。見たものを見届ける、観察する。",
+   "def_en": "To turn one's eyes and look attentively and carefully; to take in and observe what is seen.",
+   "def_es": "Dirigir los ojos y mirar con atención y detenimiento; comprobar y observar lo visto.",
+   "def_sv": "Att vända blicken och se uppmärksamt och noggrant; att iaktta och ta in det man ser.",
+   "layers": {
+    "nt": 16,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰヨハ1:1（見て、手で触れた）・4:12・4:14、ヨハネ1:14（栄光を見た）・1:32・1:38・4:35・6:5・8:10・11:45、使徒1:11・22:9・21:27、ルカ5:27・23:55。Abbott は『注意深く熟視して、見たものを解釈する視覚』とするが、本パケットの用例では単に視認する用例も含まれ、語義内での差は立てない。LXX トビト2:2・Ⅱマカ3:36、教父（Ⅰクレメンス1.7）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "見られる（受動）",
+   "label_en": "to be seen (passive)",
+   "label_es": "ser visto (pasiva)",
+   "label_sv": "att bli sedd (passivum)",
+   "def": "受動で、人に見られる。『見られるために』（目的）、または『（人に）見られた』。",
+   "def_en": "In the passive, to be seen by people: “in order to be seen” (purpose), or “was seen (by someone)”.",
+   "def_es": "En pasiva, ser visto por la gente: «para ser vistos» (finalidad) o «fue visto (por alguien)».",
+   "def_sv": "I passiv att bli sedd av människor: ”för att bli sedd” (syfte) eller ”blev sedd (av någon)”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ6:1・23:5（人に見られるために行う）、マルコ16:11（彼女に見られた）。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "見に行く／会う（見物・訪問の目的で）",
+   "label_en": "to go to see / visit",
+   "label_es": "ir a ver / visitar",
+   "label_sv": "att gå för att se / besöka",
+   "def": "見物・見分・面会のために出向いて見る。『見に出てきた』『会いに行く』の目的の不定詞が多い。",
+   "def_en": "To go out to see for the sake of viewing, inspecting, or meeting. Often an infinitive of purpose: “came out to see”, “go to see”.",
+   "def_es": "Salir a ver para contemplar, comprobar o entrevistarse. Frecuente el infinitivo de finalidad: «salió a ver», «ir a ver».",
+   "def_sv": "Att bege sig ut för att titta, se efter eller träffa någon. Ofta infinitiv för avsikt: ”kom ut för att se”, ”gå och hälsa på”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "マタイ11:7・ルカ7:24（荒野に何を見に出てきたのか）、マタイ22:11（客を見に入った王）、ローマ15:24（あなたがたに会いたい）。LXX Ⅳ列王22:6 に並行、教父（ヘルマス3.8.1）に並行。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40006001013": "2",
+  "n40011007017": "3",
+  "n40022011005": "3",
+  "n40023005009": "2",
+  "n41016011006": "2",
+  "n41016014017": "1",
+  "n42005027006": "1",
+  "n42007024018": "3",
+  "n42023055012": "1",
+  "n43001014011": "1",
+  "n43001032006": "1",
+  "n43001038006": "1",
+  "n43004035020": "1",
+  "n43006005008": "1",
+  "n43008010007": "1",
+  "n43011045012": "1",
+  "n44001011026": "1",
+  "n44021027013": "1",
+  "n44022009009": "1",
+  "n45015024010": "3",
+  "n62001001013": "1",
+  "n62004012004": "1",
+  "n62004014003": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

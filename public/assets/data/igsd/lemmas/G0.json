@@ -1,0 +1,40 @@
+{
+ "lemma": "ἄμωμον",
+ "lemmaId": "grc:G0",
+ "strong": "G0",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "香料（アモモン）",
+   "label_en": "amomum (spice)",
+   "label_es": "amomo (especia)",
+   "label_sv": "amomum (krydda)",
+   "def": "香料の一種、アモモン。『香料』。ルカ3:33 の Ἀρνὶ は人名で別レンマ。LXX・教父の代表例は形容詞『傷のない』の用例。",
+   "def_en": "A kind of spice, amomum: “spice”. Ἀρνὶ in Luke 3:33 is a personal name and a separate lemma. The representative examples in the LXX and the Fathers are uses of the adjective “without blemish”.",
+   "def_es": "Una especie de aroma, el amomo: «especia». Ἀρνὶ en Lucas 3:33 es un nombre propio y otro lema. Los casos representativos de la LXX y de los Padres son usos del adjetivo «sin defecto».",
+   "def_sv": "Ett slags krydda, amomum: ”krydda”. Ἀρνὶ i Lukas 3:33 är ett personnamn och ett annat lemma. De representativa beläggen i LXX och fäderna gäller adjektivet ”felfri”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "黙示録18:13。LXX・教父の代表例は形容詞の用法で、同じ語ではない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n66018013004": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "パケットの番号は G0。ルカ3:33 の語形 Ἀρνὶ（人名）は別レンマの疑いがあり未割当て。",
+ "excluded": [
+  {
+   "ref": "LUK 3:33",
+   "form": "Ἀρνὶ",
+   "reason": "人名 Ἀρνί で、固有名詞は本照合の対象外。番号なしの語を束ねる G0 に混ざっていたもの。"
+  }
+ ]
+}

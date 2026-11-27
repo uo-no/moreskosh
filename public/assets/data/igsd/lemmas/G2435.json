@@ -1,0 +1,51 @@
+{
+ "lemma": "ἱλαστήριον",
+ "lemmaId": "grc:G2435",
+ "strong": "G2435",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "贖いの蓋",
+   "label_en": "mercy seat",
+   "label_es": "propiciatorio",
+   "label_sv": "nådastol",
+   "def": "契約の箱の蓋、贖いの座。『贖いの蓋』。",
+   "def_en": "The cover of the ark of the covenant, the seat of atonement: “the mercy seat”.",
+   "def_es": "La cubierta del arca del pacto: «el propiciatorio».",
+   "def_sv": "Locket på förbundsarken, försoningens plats: ”nådastolen”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ヘブル9:5。LXX に並行。教父の用例なし。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "宥めの手段",
+   "label_en": "means of propitiation",
+   "label_es": "medio de propiciación",
+   "label_sv": "försoningsmedel",
+   "def": "宥め・贖いの手段。ローマ3:25 を『贖いの蓋』と読むか『宥めの供え物』と読むかは決定しない。",
+   "def_en": "A means of propitiation or atonement. It is not decided whether Romans 3:25 is to be read as “mercy seat” or as “atoning sacrifice”.",
+   "def_es": "Medio por el que se obtiene la expiación. No se decide si Romanos 3:25 debe leerse como «propiciatorio» o como «sacrificio de propiciación».",
+   "def_sv": "Ett medel för försoning. Det avgörs inte om Romarbrevet 3:25 skall läsas som ”nådastolen” eller ”försoningsoffer”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ローマ3:25。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n45003025005": "2",
+  "n58009005008": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法による。ローマ3:25 の解釈は決定しない。"
+}

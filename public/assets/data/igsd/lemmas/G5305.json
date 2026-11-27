@@ -1,0 +1,60 @@
+{
+ "lemma": "ὕστερον",
+ "lemmaId": "grc:G5305",
+ "strong": "G5305",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "のちに／あとで",
+   "label_en": "later / afterwards",
+   "label_es": "después / más tarde",
+   "label_sv": "senare / efteråt",
+   "def": "のちに、あとで、そののち。『あとで平和に満ちた義の実を結ぶ』『あとでついて来る』『のちに悔いて出かけた』『のちに悔いなかった』『のちになって来て』『のちに彼らの不信を責められ』。",
+   "def_en": "Later, afterwards, subsequently: “later it yields the peaceful fruit of righteousness”, “you will follow afterwards”, “later changed his mind and went”, “did not afterwards repent”, “came afterwards”, “afterwards he rebuked their unbelief”.",
+   "def_es": "Más tarde, luego: «después da fruto apacible de justicia», «me seguirás después», «después, arrepentido, fue», «no os arrepentisteis después», «después vinieron», «finalmente les reprochó su incredulidad».",
+   "def_sv": "Senare, efteråt, därpå: ”senare ger den frid och rättfärdighet som frukt”, ”du ska följa mig längre fram”, ”ångrade sig sedan och gick”, ”ångrade er inte efteråt”, ”kom senare”, ”senare förebrådde han dem deras otro”.",
+   "layers": {
+    "nt": 7,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ヘブル12:11、ヨハネ13:36、マタイ4:2・21:29・21:32・25:11、マルコ16:14。LXX・教父（18.2）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "最後に",
+   "label_en": "finally",
+   "label_es": "por último",
+   "label_sv": "till sist",
+   "def": "最後に、しまいには。『最後にその女も死んだ』『最後に自分の子を』『最後に二人の者が来て』。",
+   "def_en": "Finally, in the end: “last of all the woman died”, “finally his own son”, “at last two came forward”.",
+   "def_es": "Por último, al final: «después de todos murió también la mujer», «finalmente les envió su hijo», «al fin vinieron dos».",
+   "def_sv": "Sist, till slut: ”sist av alla dog kvinnan”, ”till sist sin egen son”, ”till slut trädde två fram”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マタイ22:27・21:37・26:60、ルカ20:32。LXX 列王記下27:17 に並行。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40004002008": "1",
+  "n40021029007": "1",
+  "n40021032026": "1",
+  "n40021037001": "2",
+  "n40022027001": "2",
+  "n40025011001": "1",
+  "n40026060007": "2",
+  "n41016014001": "1",
+  "n42020032001": "2",
+  "n43013036019": "1",
+  "n58012011014": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（のち／最後）による。"
+}

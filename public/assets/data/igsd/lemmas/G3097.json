@@ -1,0 +1,55 @@
+{
+ "lemma": "μάγος",
+ "lemmaId": "grc:G3097",
+ "strong": "G3097",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "博士・東方の賢者",
+   "label_en": "magi, wise men from the east",
+   "label_es": "magos de oriente",
+   "label_sv": "vise männen, stjärntydare från öster",
+   "def": "東方から来た賢者たち、博士。『東からきた博士たちがエルサレムにきて』『博士たちをひそかに呼んで』『博士たちにだまされたと知って』『博士たちから確かめた時に従って』。",
+   "def_en": "The wise men who came from the east: “wise men from the east came to Jerusalem”, “secretly called the wise men”, “when he realised he had been tricked by the wise men”, “according to the time he had learned from the wise men”.",
+   "def_es": "Los sabios llegados del oriente: «unos magos del oriente llegaron a Jerusalén», «llamando en secreto a los magos», «viéndose burlado por los magos», «conforme al tiempo que había inquirido de los magos».",
+   "def_sv": "De visa som kom från österlandet: ”några österländska stjärntydare kom till Jerusalem”, ”kallade i hemlighet till sig stjärntydarna”, ”förstod att han blivit lurad av stjärntydarna”, ”efter den tid han fått veta av stjärntydarna”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ2:1・2:7・2:16（2回）。「博士」か「占星術師」かの含みは決定しない。語義2との境界は連続的。LXX の代表例（5.7・5.15）はバビロンの術士の用法で、この語義としては確認していない。教父の用例なし。"
+  },
+  {
+   "id": "2",
+   "label": "魔術師・まじない師",
+   "label_en": "magician, sorcerer",
+   "label_es": "mago, hechicero",
+   "label_sv": "trollkarl, magiker",
+   "def": "魔術を行う者、まじない師。『偽預言者であるユダヤ人の魔術師』『魔術師エルマ』。",
+   "def_en": "One who practices magic, a sorcerer: “a Jewish magician and false prophet”, “Elymas the magician”.",
+   "def_es": "El que practica la magia: «un mago, falso profeta, judío», «Elimas, el mago».",
+   "def_sv": "En som utövar magi: ”en judisk trollkarl och falsk profet”, ”trollkarlen Elymas”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒13:6・13:8。LXX（5.7・5.15）に並行。教父の用例なし。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40002001015": "1",
+  "n40002007006": "1",
+  "n40002016008": "1",
+  "n40002016037": "1",
+  "n44013006011": "2",
+  "n44013008006": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（マタイ2章の博士／使徒13章の魔術師）による。"
+}

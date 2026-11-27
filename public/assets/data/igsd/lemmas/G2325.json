@@ -1,0 +1,87 @@
+{
+ "lemma": "θερίζω",
+ "lemmaId": "grc:G2325",
+ "strong": "G2325",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "刈り入れる／収穫する（字義どおり）",
+   "label_en": "to reap / harvest (literal)",
+   "label_es": "segar / cosechar (en sentido literal)",
+   "label_sv": "att skörda (bokstavligt)",
+   "def": "穀物・作物を刈り取る。鳥は刈らない、蒔かないところから刈る、刈り入れ人。",
+   "def_en": "To cut and gather grain or crops: birds do not reap, reaping where one did not sow, the reapers.",
+   "def_es": "Segar cereales o cosechas: las aves no siegan, segar donde no se sembró, los segadores.",
+   "def_sv": "Att skära säd eller grödor: fåglarna skördar inte, att skörda där man inte sått, skördemännen.",
+   "layers": {
+    "nt": 7,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "マタイ6:26・ルカ12:24（鳥は蒔かず刈らず）、ヤコブ5:4（刈り入れた労働者）、ルカ19:21・22、マタイ25:24・26（蒔かぬところから刈る）。LXX ルツ記2:4・レビ記23:10、教父（Ⅰクレメンス56.15）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "（蒔いたものを）刈り取る＝報いを受ける（比喩）",
+   "label_en": "to reap what one sowed = receive the consequences (figurative)",
+   "label_es": "cosechar (lo sembrado) = recibir la paga (figurado)",
+   "label_sv": "att skörda (vad man sått) = få sin lön (bildligt)",
+   "def": "蒔いたものを刈る＝行いの結果を受けること。『霊に蒔く者は…刈る』『惜しんで蒔く者は惜しんで刈る』『物質的なものを刈る』。",
+   "def_en": "Reaping what was sown, that is, receiving the result of one's deeds: “whoever sows to the Spirit … will reap”, “whoever sows sparingly will reap sparingly”, “to reap material things”.",
+   "def_es": "Cosechar lo sembrado = recibir el resultado de las propias obras: «el que siembra para el Espíritu … cosechará», «el que siembra escasamente, escasamente cosechará», «cosechar cosas materiales».",
+   "def_sv": "Att skörda det man sått = att få följden av sina gärningar: ”den som sår i Anden … ska skörda”, ”den som sår snålt får skörda snålt”, ”att skörda materiella ting”.",
+   "layers": {
+    "nt": 7,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ガラテヤ6:7・8（2回）・9、Ⅱコリ9:6（2回）、Ⅰコリ9:11（物質的なものを刈り取る）。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "刈り入れの働き（宣教・終末の収穫）",
+   "label_en": "the work of harvest (mission, end-time harvest)",
+   "label_es": "la labor de la siega (misión, cosecha final)",
+   "label_sv": "skördearbetet (mission, den yttersta skörden)",
+   "def": "宣教の働きとしての刈り入れ、終末の収穫（裁き）を表す刈り入れ。",
+   "def_en": "Reaping as missionary work, and reaping that stands for the end-time harvest (judgment).",
+   "def_es": "La siega como labor misionera, y la siega que representa la cosecha del fin (juicio).",
+   "def_sv": "Skörd som missionsarbete, och skörd som bild för den yttersta tidens skörd (domen).",
+   "layers": {
+    "nt": 7,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヨハネ4:36（2回）・37・38（刈り入れる者、刈るために遣わす）、黙示録14:15（2回）・16（地が刈り取られた）。語義1・2 との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40006026011": "1",
+  "n40025024017": "1",
+  "n40025026014": "1",
+  "n42012024008": "1",
+  "n42019021013": "1",
+  "n42019022022": "1",
+  "n43004036002": "3",
+  "n43004036018": "3",
+  "n43004037016": "3",
+  "n43004038004": "3",
+  "n46009011013": "2",
+  "n47009006008": "2",
+  "n47009006017": "2",
+  "n48006007013": "2",
+  "n48006008011": "2",
+  "n48006008022": "2",
+  "n48006009010": "2",
+  "n59005004020": "1",
+  "n66014015022": "3",
+  "n66014015027": "3",
+  "n66014016015": "3"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

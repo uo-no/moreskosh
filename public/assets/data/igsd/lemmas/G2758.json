@@ -1,0 +1,54 @@
+{
+ "lemma": "κενόω",
+ "lemmaId": "grc:G2758",
+ "strong": "G2758",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "空にする",
+   "label_en": "to empty",
+   "label_es": "despojar, vaciar",
+   "label_sv": "att utblotta, att tömma",
+   "def": "自らを空にする。『自分を無にして』（κενόω の再帰的用法）。",
+   "def_en": "To empty oneself: “emptied himself”. (A reflexive use of κενόω.)",
+   "def_es": "Vaciarse a sí mismo: «se despojó a sí mismo». (Uso reflexivo de κενόω.)",
+   "def_sv": "Att utge sig själv, att tömma sig: ”utgav sig själv”. (Reflexivt bruk av κενόω.)",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ピリピ2:7。何を空にしたかの解釈は決定しない。語義2との境界は連続的。LXX に並行（空になる）。教父の代表例では確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "むなしくする・無効にする",
+   "label_en": "to make void, to nullify",
+   "label_es": "hacer vano, anular",
+   "label_sv": "att göra om intet",
+   "def": "無効にする、むなしくする、奪う。『キリストの十字架がむなしくならないため』『その誇りを…むなしくする』『あなたがたについての誇りが空しいものとならないように』『信仰はむなしくなり』。",
+   "def_en": "To nullify, to make empty, to deprive: “lest the cross of Christ be emptied of its power”, “no one will make … that boast void”, “that our boasting about you may not prove empty”, “faith is made void”.",
+   "def_es": "Invalidar, dejar vacío, quitar: «para que no se haga vana la cruz de Cristo», «nadie desvanecerá … esta gloria», «para que nuestra gloria acerca de vosotros no sea vana», «vana resulta la fe».",
+   "def_sv": "Att upphäva, göra tom, beröva: ”för att Kristi kors inte skall förlora sin kraft”, ”ingen skall göra … den stoltheten om intet”, ”så att det vi berömt er för inte visar sig vara tomma ord”, ”tron har förlorat sitt innehåll”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "コリント第一1:17・9:15、コリント第二9:3、ローマ4:14。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n45004014007": "2",
+  "n46001017015": "2",
+  "n46009015026": "2",
+  "n47009003013": "2",
+  "n50002007003": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（自らを空にする／無効にする）による。ピリピ2:7 の解釈は決定しない。"
+}

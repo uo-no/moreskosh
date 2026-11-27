@@ -1,0 +1,108 @@
+{
+ "lemma": "μήποτε",
+ "lemmaId": "grc:G3379",
+ "strong": "G3379",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "決して〜ない",
+   "label_en": "never",
+   "label_es": "nunca / jamás",
+   "label_sv": "aldrig någonsin",
+   "def": "直説法とともに、ある時点を不特定のまま否定して「決して〜ない」を表す。",
+   "def_en": "With the indicative, negates with the point of time left indefinite: “never”.",
+   "def_es": "Con indicativo, niega dejando indeterminado el momento: «nunca».",
+   "def_sv": "Med indikativ negerar det med obestämd tidpunkt: ”aldrig”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヘブル9:17（遺言は死んだときに効力を持ち、生きている間は決して効力を持たない）。BDAG 語義❶。異読 μὴ τότε が BDAG に言及されている。LXX・教父の代表例ではこの用法は確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "〜するといけないから／〜しないように",
+   "label_en": "lest / so that not",
+   "label_es": "no sea que / para que no",
+   "label_sv": "för att inte / så att inte",
+   "def": "ある事態が起こることを避けるべき懸念として導く接続詞。命令・勧告・行為の理由として「そうならないように」の内容（接続法の節）を示し、「注意する」「恐れる」の内容節にもなる。",
+   "def_en": "A conjunction introducing a state of affairs as a concern to be avoided. Shows the content of “so that it may not happen” (a subjunctive clause) as the reason for a command, exhortation, or act; also forms the content clause of “take care” or “fear”.",
+   "def_es": "Conjunción que introduce como preocupación que debe evitarse una situación. Presenta el contenido de «para que no suceda» (oración en subjuntivo) como motivo de un mandato, exhortación o acto; también es la completiva de «cuidar» o «temer».",
+   "def_sv": "En konjunktion som inför något som en oro att undvika. Visar innehållet i ”så att det inte sker” (konjunktivsats) som skäl för befallning, förmaning eller handling; bildar även innehållssats till ”se till” och ”frukta”.",
+   "layers": {
+    "nt": 20,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "接続法とともに用いられる。イザヤ6:10の引用（マタイ13:15・マルコ4:12・使徒28:27）もこの型。動詞が省略される例（ルカ14:8・使徒5:39）を含む。"
+  },
+  {
+   "id": "3",
+   "label": "もしかして〜か",
+   "label_en": "could it be that …?",
+   "label_es": "¿acaso …?",
+   "label_sv": "kan det möjligen vara så att …?",
+   "def": "事態の成否が確かでないまま、可能性を探る問いの形で述べる（否定の答えを予期する問いを含む）。",
+   "def_en": "Asks, exploring a possibility, while it is uncertain whether something is so (including questions that expect a negative answer).",
+   "def_es": "Pregunta que explora una posibilidad cuando no es seguro si algo es así (incluidas las preguntas que esperan respuesta negativa).",
+   "def_sv": "En fråga som prövar en möjlighet när det är ovisst om något är så (inbegripet frågor som väntar nekande svar).",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "ヨハネ7:26・ルカ3:15・第二テモテ2:25。BDAG 語義❸。ヨハネ7:26は直接疑問、ルカ3:15・第二テモテ2:25は間接疑問・推量の問い。教父の代表例に並行（ヘルマス4.1.5、疑問文の μήποτε）。LXX の代表例では疑問の用法は確認していない（創世記24:39 は推量でも陳述文で、語義4の側）。"
+  },
+  {
+   "id": "4",
+   "label": "もしかすると〜かもしれない／たぶん",
+   "label_en": "perhaps / it may be",
+   "label_es": "quizá / tal vez",
+   "label_sv": "kanske / möjligen",
+   "def": "事態の成否が確かでないまま、見込み・推量として述べる。",
+   "def_en": "States an expectation or conjecture while it is uncertain whether something will be so.",
+   "def_es": "Expresa una previsión o conjetura cuando no es seguro si algo sucederá.",
+   "def_sv": "Uttrycker en förmodan eller gissning när det är ovisst om något blir så.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マタイ25:9。BDAG 語義❹。本文の異読 οὐ μὴ ἀρκέσῃ について BDAG の注記がある。LXX の代表例に並行（創世記24:39『もしかすると女はついて来ないかもしれない』・トビト記8:10、どちらも陳述文の推量）。教父の代表例では陳述文の推量の用法は確認していない。layers は BDAG 最終パス（2026-11-26）にあわせ、代表例で確認できた層だけを attested として締め直した。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40004006026": "2",
+  "n40005025015": "2",
+  "n40007006015": "2",
+  "n40013015018": "2",
+  "n40013029005": "2",
+  "n40015032030": "2",
+  "n40025009006": "4",
+  "n40027064010": "2",
+  "n41004012013": "2",
+  "n41014002007": "2",
+  "n42003015015": "3",
+  "n42004011007": "2",
+  "n42012058018": "2",
+  "n42014008012": "2",
+  "n42014012028": "2",
+  "n42014029002": "2",
+  "n42021034004": "2",
+  "n43007026009": "3",
+  "n44005039010": "2",
+  "n44028027018": "2",
+  "n55002025006": "3",
+  "n58002001009": "2",
+  "n58003012003": "2",
+  "n58004001003": "2",
+  "n58009017007": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

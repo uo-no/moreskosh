@@ -1,0 +1,58 @@
+{
+ "lemma": "οὐράνιος",
+ "lemmaId": "grc:G3770",
+ "strong": "G3770",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "天の（父に関する）",
+   "label_en": "heavenly (of the Father)",
+   "label_es": "celestial (del Padre)",
+   "label_sv": "himmelske (om Fadern)",
+   "def": "『天の父』という句の中の『天の』。『天の父が植えなかった木』『天の父があなたがたにもそのようにされる』『天にいます父』『天の父はあなたがたの罪を赦される』『空の鳥を養われる天の父』『天の父はあなたがたに必要なことを知っておられる』『天の父が完全なように』。",
+   "def_en": "The “heavenly” in the phrase “heavenly Father”: “every plant my heavenly Father has not planted”, “so also my heavenly Father will do to you”, “your Father in heaven”, “your heavenly Father will forgive you”, “the heavenly Father feeds the birds”, “your heavenly Father knows that you need them”, “as your heavenly Father is perfect”.",
+   "def_es": "El «celestial» de la frase «Padre celestial»: «toda planta que no plantó mi Padre celestial», «así también mi Padre celestial hará con vosotros», «vuestro Padre que está en los cielos», «os perdonará vuestro Padre celestial», «vuestro Padre celestial alimenta las aves», «vuestro Padre celestial sabe que tenéis necesidad», «como vuestro Padre celestial es perfecto».",
+   "def_sv": "”Himmelske” i uttrycket ”den himmelske Fadern”: ”varje planta som min himmelske Fader inte planterat”, ”så ska min himmelske Fader göra med er”, ”er Fader i himlen”, ”er himmelske Fader ska förlåta er”, ”er himmelske Fader föder fåglarna”, ”er himmelske Fader vet att ni behöver detta”, ”såsom er himmelske Fader är fullkomlig”.",
+   "layers": {
+    "nt": 7,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ15:13・18:35・23:9・6:14・6:26・6:32・5:48。語義2との境界は連続的。LXX の代表例（Ⅱマカバイ・Ⅲマカバイ）は用法が別で確認できない。教父の代表例（22.3）も用法確認不十分。"
+  },
+  {
+   "id": "2",
+   "label": "天の（軍勢・幻）",
+   "label_en": "heavenly (host, vision)",
+   "label_es": "celestial (ejército, visión)",
+   "label_sv": "himmelsk (härskara, syn)",
+   "def": "天の、天からの。『天の軍勢』『天からの幻』。",
+   "def_en": "Of heaven, from heaven: “the heavenly host”, “the heavenly vision”.",
+   "def_es": "Del cielo, venido del cielo: «las huestes celestiales», «la visión celestial».",
+   "def_sv": "Av himlen, från himlen: ”den himmelska härskaran”, ”den himmelska synen”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ルカ2:13、使徒26:19。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40005048010": "1",
+  "n40006014016": "1",
+  "n40006026021": "1",
+  "n40006032013": "1",
+  "n40015013014": "1",
+  "n40018035007": "1",
+  "n40023009016": "1",
+  "n42002013009": "2",
+  "n44026019008": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "LXX の代表例は用法が別で、層別確認に不十分。"
+}

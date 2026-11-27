@@ -1,0 +1,51 @@
+{
+ "lemma": "ὀφείλημα",
+ "lemmaId": "grc:G3783",
+ "strong": "G3783",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "負債",
+   "label_en": "debt",
+   "label_es": "deuda",
+   "label_sv": "skuld",
+   "def": "負債、借り。『わたしたちの負債を赦してください』。",
+   "def_en": "A debt, what is owed: “forgive us our debts”.",
+   "def_es": "Deuda, lo que se debe: «perdónanos nuestras deudas».",
+   "def_sv": "Skuld, det man står i skuld för: ”förlåt oss våra skulder”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マタイ6:12。LXX に並行。教父の用例なし。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "当然の支払い",
+   "label_en": "what is due",
+   "label_es": "lo debido",
+   "label_sv": "skyldig betalning",
+   "def": "当然の支払い、負い目。『報酬は恵みでなく、当然の支払い』。",
+   "def_en": "A payment that is due, an obligation: “the wage is not counted as a gift but as what is due”.",
+   "def_es": "Pago que corresponde, obligación: «no se le cuenta el salario como gracia, sino como deuda».",
+   "def_sv": "Det som är en tillkommande, en förpliktelse: ”lönen räknas inte som en nåd utan som en skuld”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ローマ4:4。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40006012005": "1",
+  "n45004004012": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法による。"
+}

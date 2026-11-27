@@ -1,0 +1,73 @@
+{
+ "lemma": "ἐκλογή",
+ "lemmaId": "grc:G1589",
+ "strong": "G1589",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "選び（行為）",
+   "label_en": "election (the act)",
+   "label_es": "elección (el acto)",
+   "label_sv": "utkorelse (handlingen)",
+   "def": "神が選ぶこと、選び。『あなたがたが神に選ばれた者であることを知っている』『召されたこと、選ばれたことを確かなものとしなさい』『選びによる神の計画』『恵みの選びによって残された者』『選びの福音による愛された者』。",
+   "def_en": "God’s act of choosing; election: “we know that you have been chosen by God”, “be diligent to make your calling and election sure”, “God’s purpose according to election”, “a remnant chosen by grace”, “loved ones as regards the election of the gospel”.",
+   "def_es": "El acto de elegir por parte de Dios; elección: «sabemos que habéis sido escogidos por Dios», «haced firme vuestra vocación y elección», «el propósito de Dios según la elección», «un remanente escogido por gracia», «amados en cuanto a la elección del evangelio».",
+   "def_sv": "Guds utväljande; utkorelse: ”vi vet att ni är utvalda av Gud”, ”befäst er kallelse och er utkorelse”, ”Guds plan enligt utkorelsen”, ”en rest som utvalts av nåd”, ”älskade när det gäller evangeliets utkorelse”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "テサロニケ第一1:4、ペテロ第二1:10、ローマ9:11・11:5・11:28。教父（29.1）に並行。LXX の代表例（18.5・9.4）は一般的な「選択」の用法で、この語義としては確認していない。語義2・3との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "選ばれた者たち",
+   "label_en": "the elect, the chosen group",
+   "label_es": "los elegidos",
+   "label_sv": "de utvalda",
+   "def": "選ばれた人々の集合。『選びにあずかった者は得たが、他の者はかたくなにされた』。",
+   "def_en": "The body of those who have been chosen: “those who share in the election obtained it, but the rest were hardened”.",
+   "def_es": "El conjunto de las personas elegidas: «los escogidos lo alcanzaron, y los demás fueron endurecidos».",
+   "def_sv": "Skaran av de utvalda: ”de utvalda fick det, men de övriga förhärdades”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ローマ11:7。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "選びの器",
+   "label_en": "chosen vessel",
+   "label_es": "vaso escogido",
+   "label_sv": "utvalt redskap",
+   "def": "『わたしの選んだ器』（σκεῦος ἐκλογῆς）。",
+   "def_en": "A chosen vessel (σκεῦος ἐκλογῆς): “my chosen vessel”.",
+   "def_es": "Un vaso escogido (σκεῦος ἐκλογῆς): «mi instrumento escogido».",
+   "def_sv": "Ett utvalt redskap (σκεῦος ἐκλογῆς): ”mitt utvalda redskap”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒9:15。属格の性質用法。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n44009015010": "3",
+  "n45009011013": "1",
+  "n45011005010": "1",
+  "n45011007011": "2",
+  "n45011028011": "1",
+  "n52001004007": "1",
+  "n61001010010": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（選びの行為／選ばれた者たち／属格の用法）による。"
+}

@@ -1,0 +1,51 @@
+{
+ "lemma": "παρίημι",
+ "lemmaId": "grc:G3935",
+ "strong": "G3935",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "弱る・垂れ下がる",
+   "label_en": "to droop",
+   "label_es": "estar caído",
+   "label_sv": "att hänga slappt",
+   "def": "弱る、垂れ下がる。『弱った手』。",
+   "def_en": "To grow slack, to hang down: “drooping hands”.",
+   "def_es": "Debilitarse, colgar: «las manos caídas».",
+   "def_sv": "Att försvagas, att sjunka ned: ”matta händer”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ヘブル12:12。LXX に並行。教父の代表例では確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "見過ごす・おろそかにする",
+   "label_en": "to neglect",
+   "label_es": "descuidar",
+   "label_sv": "att försumma",
+   "def": "見過ごす、おろそかにする。『これもおろそかにしてはならない』。",
+   "def_en": "To pass over, to leave undone: “without neglecting the other either”.",
+   "def_es": "Pasar por alto, omitir: «sin dejar de hacer lo otro».",
+   "def_sv": "Att förbigå, att underlåta: ”utan att försumma det andra”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ルカ11:42。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42011042031": "2",
+  "n58012012003": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法による。"
+}

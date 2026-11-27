@@ -1,0 +1,52 @@
+{
+ "lemma": "ἀσφάλεια",
+ "lemmaId": "grc:G803",
+ "strong": "G803",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "安全",
+   "label_en": "safety",
+   "label_es": "seguridad",
+   "label_sv": "säkerhet",
+   "def": "安全、無事。『平和だ、安全だ』『牢は安全に閉まっていて』。",
+   "def_en": "Safety, security: “peace and safety”, “the prison was securely locked”.",
+   "def_es": "Seguridad, estar a salvo: «paz y seguridad», «la cárcel cerrada con toda seguridad».",
+   "def_sv": "Trygghet, säkerhet: ”fred och trygghet”, ”fängelset säkert tillbommat”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "テサロニケ第一5:3、使徒5:23。LXX に並行。教父の代表例では確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "確かさ",
+   "label_en": "certainty",
+   "label_es": "certeza",
+   "label_sv": "visshet",
+   "def": "確かさ、確実性。『確実さを知っていただくため』。",
+   "def_en": "Certainty, reliability: “so that you may know the certainty”.",
+   "def_es": "Certidumbre, firmeza: «para que conozcas bien la verdad».",
+   "def_sv": "Visshet, tillförlitlighet: ”så att du kan veta hur tillförlitligt det är”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ルカ1:4。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42001004008": "2",
+  "n44005023009": "1",
+  "n52005003005": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（安全／確かさ）による。"
+}

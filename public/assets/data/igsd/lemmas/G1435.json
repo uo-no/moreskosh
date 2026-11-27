@@ -1,0 +1,68 @@
+{
+ "lemma": "δῶρον",
+ "lemmaId": "grc:G1435",
+ "strong": "G1435",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "贈り物／賜物（人に）",
+   "label_en": "gift / present (to people)",
+   "label_es": "regalo / don (a personas)",
+   "label_sv": "gåva / skänk (till människor)",
+   "def": "人が人に贈る物、礼物。博士たちの贈り物、人々が互いに送る贈り物、神から与えられる贈り物。",
+   "def_en": "Something people give to one another, a present: the gifts of the magi, gifts people send each other, a gift given by God.",
+   "def_es": "Lo que una persona regala a otra, un obsequio: los presentes de los magos, los regalos que la gente se envía, el don dado por Dios.",
+   "def_sv": "Något en människa ger en annan, en present: de vise männens gåvor, gåvor som människor sänder varandra, gåvan från Gud.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "マタイ2:11（博士たちの贈り物）、黙示録11:10（互いに贈り物を送る）、エペソ2:8（神の賜物）。LXX・教父（Ⅰクレメンス35.1『神の賜物』）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "供え物／ささげ物（神への）",
+   "label_en": "offering / gift (to God)",
+   "label_es": "ofrenda (a Dios)",
+   "label_sv": "offergåva (till Gud)",
+   "def": "神にささげる供え物・いけにえ。祭壇にささげる供え物、神殿の宝物庫にささげる金。『ささげ物』と『祭壇』の対。",
+   "def_en": "An offering or sacrifice presented to God: the gift offered on the altar, money put into the temple treasury. The pair “gift” and “altar”.",
+   "def_es": "Ofrenda o sacrificio presentado a Dios: la ofrenda puesta sobre el altar, el dinero echado en el arca del templo. El par «ofrenda» y «altar».",
+   "def_sv": "Gåvor och offer som frambärs åt Gud: gåvan på altaret, pengarna i templets offerkista. Paret ”offergåvan” och ”altaret”.",
+   "layers": {
+    "nt": 16,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "マタイ5:23・24（祭壇の上のささげ物。同一節に2回）・8:4・15:5（これはコルバンです）・23:18・19（2回）、マルコ7:11、ルカ21:1・4（賽銭箱にささげ物を入れる）、ヘブル5:1・8:3・4・9:9・11:4（アベルのささげ物）。LXX レビ記、教父（バルナバ）に並行。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40002011025": "1",
+  "n40005023005": "2",
+  "n40005024004": "2",
+  "n40005024021": "2",
+  "n40008004018": "2",
+  "n40015005012": "2",
+  "n40023018016": "2",
+  "n40023019006": "2",
+  "n40023019013": "2",
+  "n41007011015": "2",
+  "n42021001010": "2",
+  "n42021004011": "2",
+  "n49002008015": "1",
+  "n58005001016": "2",
+  "n58008003007": "2",
+  "n58008004017": "2",
+  "n58009009010": "2",
+  "n58011004018": "2",
+  "n66011010013": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

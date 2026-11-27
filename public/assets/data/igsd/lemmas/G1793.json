@@ -1,0 +1,54 @@
+{
+ "lemma": "ἐντυγχάνω",
+ "lemmaId": "grc:G1793",
+ "strong": "G1793",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "とりなす",
+   "label_en": "to intercede",
+   "label_es": "interceder",
+   "label_sv": "att gå i förbön",
+   "def": "とりなす、代わって願う。『御霊は聖徒のためにとりなして』『彼は…とりなしておられる』『とりなして下さる』。",
+   "def_en": "To intercede, to plead on another’s behalf: “the Spirit intercedes for the saints”, “he … is interceding”, “intercedes for us”.",
+   "def_es": "Interceder, pedir en favor de otro: «el Espíritu intercede por los santos», «él … intercede», «intercede por nosotros».",
+   "def_sv": "Att mana gott, att bedja för någon: ”Anden vädjar för de heliga”, ”han … vädjar”, ”han ber för oss”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "ローマ8:27・8:34、ヘブル7:25。教父（6.1・11.2）に並行。LXX の代表例では確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "訴える・嘆願する",
+   "label_en": "to appeal, to petition",
+   "label_es": "acudir en queja, suplicar",
+   "label_sv": "att anklaga, att vädja",
+   "def": "訴える、願い出る。『イスラエルを神に訴えて』『ユダヤ人の全群衆がわたしに訴え』。",
+   "def_en": "To lodge an appeal, to petition: “appealing to God against Israel”, “the whole Jewish people have petitioned me”.",
+   "def_es": "Presentar una demanda, apelar: «invoca a Dios contra Israel», «toda la multitud de los judíos me ha demandado».",
+   "def_sv": "Att föra klagan, att göra framställning: ”anklagar Israel inför Gud”, ”hela den judiska menigheten har vänt sig till mig”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ローマ11:2、使徒25:24。LXX に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n44025024022": "2",
+  "n45008027015": "1",
+  "n45008034019": "1",
+  "n45011002020": "2",
+  "n58007025018": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（とりなし／訴え）による。"
+}

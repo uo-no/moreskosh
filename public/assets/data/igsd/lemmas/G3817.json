@@ -1,0 +1,54 @@
+{
+ "lemma": "παίω",
+ "lemmaId": "grc:G3817",
+ "strong": "G3817",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "打つ・撃つ",
+   "label_en": "to strike",
+   "label_es": "herir, golpear",
+   "label_sv": "att slå",
+   "def": "打つ、たたく。『剣を抜いて…耳を切り落とした』『彼を打って』『彼を打ち、』『剣で打ちかかり』『打ちなさい』。",
+   "def_en": "To strike, to hit: “drew his sword … and cut off the ear”, “struck him”, “struck him,”, “striking with the sword”, “strike”.",
+   "def_es": "Golpear, dar golpes: «desenvainando su espada … le quitó la oreja», «le hirió», «le hirió,», «¿heriremos a espada?», «herid».",
+   "def_sv": "Att slå, att hugga till: ”drog sitt svärd … och högg av örat”, ”slog honom”, ”slog honom,”, ”slå till med svärdet”, ”slå”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ヨハネ18:10、ルカ22:64、マタイ26:68、マルコ14:47。LXX、教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "刺す",
+   "label_en": "to sting",
+   "label_es": "picar",
+   "label_sv": "att sticka",
+   "def": "さそりなどが刺す。『さそりが人を刺す時の苦痛』。",
+   "def_en": "For a scorpion or the like to sting: “the torment of a scorpion when it stings someone”.",
+   "def_es": "Picar un escorpión u otro animal: «tormento de escorpión cuando hiere al hombre».",
+   "def_sv": "Att en skorpion eller liknande sticker: ”plågan när en skorpion stinger en människa”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "黙示録9:5。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40026068008": "1",
+  "n41014047009": "1",
+  "n42022064010": "1",
+  "n43018010009": "1",
+  "n66009005021": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（打つ／刺す）による。"
+}

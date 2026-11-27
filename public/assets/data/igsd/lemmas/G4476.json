@@ -1,0 +1,41 @@
+{
+ "lemma": "ῥαφίς",
+ "lemmaId": "grc:G4476",
+ "strong": "G4476",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "針",
+   "label_en": "needle",
+   "label_es": "aguja",
+   "label_sv": "nål",
+   "def": "縫い針。『針の穴』。ルカ18:25 の語形 βελόνης は βελόνη の語形で別レンマ。",
+   "def_en": "A sewing needle: “the eye of a needle”. The form βελόνης in Luke 18:25 is a form of βελόνη, a separate lemma.",
+   "def_es": "Aguja de coser: «el ojo de una aguja». La forma βελόνης de Lucas 18:25 es de βελόνη, otro lema.",
+   "def_sv": "Synål: ”ett nålsöga”. Formen βελόνης i Lukas 18:25 hör till βελόνη, ett annat lemma.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マタイ19:24、マルコ10:25。LXX に並行。教父の用例なし。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40019024010": "1",
+  "n41010025008": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。",
+ "excluded": [
+  {
+   "ref": "LUK 18:25",
+   "form": "βελόνης",
+   "reason": "形 βελόνης の lemma はデータの lemma 欄でも βελόνη で別語。番号の扱いは別途データ修正で扱う。"
+  }
+ ]
+}

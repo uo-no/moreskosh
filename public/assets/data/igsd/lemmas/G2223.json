@@ -1,0 +1,57 @@
+{
+ "lemma": "ζώνη",
+ "lemmaId": "grc:G2223",
+ "strong": "G2223",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "帯",
+   "label_en": "belt / girdle",
+   "label_es": "cinto / cinturón",
+   "label_sv": "bälte / gördel",
+   "def": "帯、腰帯。『らくだの毛の衣を着て、腰に皮の帯をしめ』『パウロの帯を取り』『胸に金の帯をしめて』『金の帯を胸にしめ』。",
+   "def_en": "A belt, a sash round the waist: “a garment of camel's hair and a leather belt around his waist”, “took Paul's belt”, “with a golden sash around his chest”, “golden sashes around their chests”.",
+   "def_es": "Cinto, ceñidor: «vestido de pelo de camello y un cinto de cuero alrededor de sus lomos», «tomó el cinto de Pablo», «ceñido por el pecho con un cinto de oro», «ceñidos alrededor del pecho con cintos de oro».",
+   "def_sv": "Ett bälte om livet eller bröstet: ”en mantel av kamelhår och ett läderbälte om höfterna”, ”tog Paulus bälte”, ”med ett bälte av guld om bröstet”, ”gyllene bälten om bröstet”.",
+   "layers": {
+    "nt": 6,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒21:11（2回）、マタイ3:4、マルコ1:6、黙示録1:13・15:6。LXX（28.35・8.13）、教父（13.2）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "財布としての帯",
+   "label_en": "money belt",
+   "label_es": "cinto (como bolsa)",
+   "label_sv": "penningbälte",
+   "def": "金銭を入れる帯。『帯の中に金や銀や銅を入れて行くな』『帯の中に銭も持たず』。",
+   "def_en": "A belt for holding money: “take no gold, silver, or copper in your belts”, “no money in their belts”.",
+   "def_es": "Cinto en que se guarda el dinero: «ni oro, ni plata, ni cobre en vuestros cintos», «ni dinero en el cinto».",
+   "def_sv": "Ett bälte att förvara pengar i: ”inget guld, silver eller koppar i era bälten”, ”inga pengar i bältet”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ10:9、マルコ6:8。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40003004013": "1",
+  "n40010009010": "2",
+  "n41001006009": "1",
+  "n41006008020": "2",
+  "n44021011008": "1",
+  "n44021011030": "1",
+  "n66001013016": "1",
+  "n66015006023": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用途（身につける帯／金銭を入れる帯）による。"
+}

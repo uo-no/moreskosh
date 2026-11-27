@@ -1,0 +1,73 @@
+{
+ "lemma": "στοιχεῖον",
+ "lemmaId": "grc:G4747",
+ "strong": "G4747",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "元素・基本要素",
+   "label_en": "elements",
+   "label_es": "elementos",
+   "label_sv": "element",
+   "def": "宇宙を構成する要素。『元素は燃えてくずれ』『元素は熱で溶ける』。",
+   "def_en": "The elements that make up the universe: “the elements will burn and be dissolved”, “the elements will melt with heat”.",
+   "def_es": "Los elementos que componen el universo: «los elementos ardiendo serán deshechos», «los elementos se fundirán por el calor».",
+   "def_sv": "De grundämnen som utgör världsalltet: ”elementen skall brinna upp och upplösas”, ”elementen skall smälta av hetta”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ペテロ第二3:10・3:12。LXX（19.18）、教父（3.13.3）に並行。語義2・3との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "世の諸原理・諸霊（解釈が分かれる）",
+   "label_en": "elemental principles or spirits of the world (disputed)",
+   "label_es": "principios o espíritus elementales del mundo (discutido)",
+   "label_sv": "världens grundmakter eller andar (omtvistat)",
+   "def": "『世の幼稚な教え』『世の諸霊』など、世の基本的な力・原理を指す。『世のもろもろの霊力』『宇宙の諸霊』。",
+   "def_en": "The basic powers or principles of the world, as in “elementary teachings of the world” or “spirits of the world”: “the elemental powers of the world”, “the spirits of the universe”.",
+   "def_es": "Las fuerzas o principios básicos del mundo, como «rudimentos del mundo» o «espíritus del mundo»: «los poderes elementales del mundo», «los espíritus del cosmos».",
+   "def_sv": "Världens grundläggande krafter eller principer, såsom ”världens stadgar” eller ”världens andemakter”: ”världens andemakter”, ”kosmos andar”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "コロサイ2:8・2:20、ガラテヤ4:3・4:9。「元素」「初歩的な教え」「霊的な存在」のいずれかは争われており決定しない。語義1・3との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "初歩・基本（教えの）",
+   "label_en": "rudiments, basics (of teaching)",
+   "label_es": "rudimentos (de la enseñanza)",
+   "label_sv": "begynnelsegrunder",
+   "def": "教えの初歩、基礎。『神の言葉の初歩を再び誰かに教えてもらう必要が』。",
+   "def_en": "The first principles, the foundations of a teaching: “you need someone to teach you again the first principles of God’s word”.",
+   "def_es": "Los primeros elementos, la base de una enseñanza: «tenéis necesidad de que se os vuelva a enseñar los rudimentos de las palabras de Dios».",
+   "def_sv": "De första grunderna i en lära: ”ni behöver att någon på nytt lär er de första grunderna i Guds ord”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヘブル5:12。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n48004003009": "2",
+  "n48004009018": "2",
+  "n51002008021": "2",
+  "n51002020007": "2",
+  "n58005012017": "3",
+  "n61003010013": "1",
+  "n61003012016": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（元素／世の諸原理・諸霊／初歩）による。語義2の内容は決定しない。"
+}

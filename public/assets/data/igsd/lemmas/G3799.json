@@ -1,0 +1,52 @@
+{
+ "lemma": "ὄψις",
+ "lemmaId": "grc:G3799",
+ "strong": "G3799",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "顔・姿",
+   "label_en": "face, countenance",
+   "label_es": "rostro",
+   "label_sv": "ansikte",
+   "def": "顔、顔つき。『顔は布で包まれ』『その顔は太陽のように』。",
+   "def_en": "The face, the look of the face: “his face was wrapped in a cloth”, “his face was like the sun”.",
+   "def_es": "La cara, el semblante: «el rostro envuelto en un sudario», «su rostro era como el sol».",
+   "def_sv": "Ansikte, anletsdrag: ”ansiktet var insvept i en duk”, ”hans ansikte var som solen”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ヨハネ11:44、黙示録1:16。LXX、教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "外見",
+   "label_en": "outward appearance",
+   "label_es": "apariencia",
+   "label_sv": "yttre",
+   "def": "外見、見かけ。『外見で裁くな』。",
+   "def_en": "Appearance, what is seen outwardly: “do not judge by appearances”.",
+   "def_es": "Aspecto, lo que se ve por fuera: «no juzguéis según las apariencias».",
+   "def_sv": "Utseende, det yttre skenet: ”döm inte efter skenet”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ヨハネ7:24。LXX、教父に並行。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n43007024004": "2",
+  "n43011044013": "1",
+  "n66001016021": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（顔／外見）による。"
+}

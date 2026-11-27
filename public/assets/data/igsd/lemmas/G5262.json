@@ -1,0 +1,55 @@
+{
+ "lemma": "ὑπόδειγμα",
+ "lemmaId": "grc:G5262",
+ "strong": "G5262",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "手本・見せしめ",
+   "label_en": "example, warning example",
+   "label_es": "ejemplo, escarmiento",
+   "label_sv": "föredöme, varnande exempel",
+   "def": "従うべき、あるいは戒めとなる手本・実例。『見せしめにして』『同じ不従順の手本に倣って』『苦難と忍耐の模範』『あなたがたに模範を示した』。",
+   "def_en": "An example or instance to follow, or to take as a warning: “to make her a public example”, “following the same example of disobedience”, “an example of suffering and patience”, “I have given you an example”.",
+   "def_es": "Modelo o caso ejemplar que se ha de seguir o que sirve de advertencia: «hacer de ella un ejemplo público», «siguiendo semejante ejemplo de desobediencia», «ejemplo de aflicción y de paciencia», «ejemplo os he dado».",
+   "def_sv": "Ett exempel att följa eller att ta varning av: ”göra henne till ett varnande exempel”, ”efter samma exempel på olydnad”, ”ett föredöme i lidande och tålamod”, ”jag har gett er ett exempel”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ペテロ第二2:6、ヘブル4:11、ヤコブ5:10、ヨハネ13:15。LXX（6.31・17.23）、教父（55.1・46.1）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "写し・ひな型",
+   "label_en": "copy, pattern",
+   "label_es": "copia, figura",
+   "label_sv": "avbild",
+   "def": "天にあるものの写し、ひな型。『天にあるものの写しと影』『天にあるものの写し』。",
+   "def_en": "A copy or pattern of heavenly things: “a copy and shadow of the heavenly things”, “copies of the things in heaven”.",
+   "def_es": "Copia o modelo de las cosas celestiales: «figura y sombra de las cosas celestiales», «las figuras de las cosas celestiales».",
+   "def_sv": "En kopia eller förebild av det himmelska: ”en avbild och skugga av det himmelska”, ”avbilderna av det himmelska”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヘブル8:5・9:23。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n43013015001": "1",
+  "n58004011014": "1",
+  "n58008005002": "2",
+  "n58009023005": "2",
+  "n59005010001": "1",
+  "n61002006009": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（手本・実例／写し）による。"
+}

@@ -1,0 +1,60 @@
+{
+ "lemma": "κλάδος",
+ "lemmaId": "grc:G2798",
+ "strong": "G2798",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "枝",
+   "label_en": "branch",
+   "label_es": "rama",
+   "label_sv": "gren",
+   "def": "木の枝。『空の鳥がその枝に巣をつくる』『木の枝を切って』『その枝が柔らかになり』『枝が出て』。",
+   "def_en": "A branch of a tree: “the birds of the air make nests in its branches”, “cut branches from the trees”, “when its branch becomes tender”, “puts out branches”.",
+   "def_es": "Rama de árbol: «las aves del cielo anidan en sus ramas», «cortaban ramas de los árboles», «cuando su rama está tierna», «echa ramas».",
+   "def_sv": "En trädgren: ”himlens fåglar bygger bo i dess grenar”, ”skar av kvistar från träden”, ”när kvisten blir mjuk”, ”skjuter grenar”.",
+   "layers": {
+    "nt": 6,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ルカ13:19、マタイ13:32・21:8・24:32、マルコ13:28・4:32。LXX 詩篇・箴言1:20、教父（25.1.4、3.11.2）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "枝（接ぎ木・オリーブの比喩）",
+   "label_en": "branch (grafting, olive figure)",
+   "label_es": "rama (injerto, figura del olivo)",
+   "label_sv": "gren (ympning, olivträdsbilden)",
+   "def": "接ぎ木の枝、民を指す比喩としての枝。『根が聖なるなら枝もそうである』『枝のうちのあるものが折られ』『枝に対して誇るな』『自然の枝を惜しまなかった』。",
+   "def_en": "A grafted branch, a branch as a figure for people: “if the root is holy, so are the branches”, “some of the branches were broken off”, “do not boast over the branches”, “did not spare the natural branches”.",
+   "def_es": "La rama injertada, la rama como figura del pueblo: «si la raíz es santa, también las ramas», «algunas de las ramas fueron desgajadas», «no te jactes contra las ramas», «no perdonó a las ramas naturales».",
+   "def_sv": "Den inympade grenen, grenen som bild för folket: ”är roten helig är grenarna det också”, ”några av grenarna har brutits bort”, ”förhäv dig inte över grenarna”, ”skonade inte de naturliga grenarna”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ローマ11:16・11:17・11:18・11:19・11:21（各1〜2回）。LXX・教父（25.1.4）に並行。指す対象の同定は付さない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40013032028": "1",
+  "n40021008015": "1",
+  "n40024032011": "1",
+  "n41004032013": "1",
+  "n41013028011": "1",
+  "n42013019026": "1",
+  "n45011016016": "2",
+  "n45011017005": "2",
+  "n45011018004": "2",
+  "n45011019004": "2",
+  "n45011021008": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（木の枝／接ぎ木の比喩）による。"
+}

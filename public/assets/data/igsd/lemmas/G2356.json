@@ -1,0 +1,53 @@
+{
+ "lemma": "θρησκεία",
+ "lemmaId": "grc:G2356",
+ "strong": "G2356",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "宗教・信心",
+   "label_en": "religion, piety",
+   "label_es": "religión",
+   "label_sv": "religion, fromhet",
+   "def": "宗教、信心の形。『われわれの宗教の最も厳格な派』『むなしい信心』『きよい信心』。",
+   "def_en": "Religion, a form of devotion: “the strictest party of our religion”, “worthless religion”, “pure religion”.",
+   "def_es": "Religión, forma de piedad: «la más rigurosa secta de nuestra religión», «religión vana», «religión pura».",
+   "def_sv": "Religion, gudsdyrkans form: ”den strängaste riktningen i vår religion”, ”en gudsfruktan utan värde”, ”en ren gudsfruktan”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒26:5、ヤコブ1:26・1:27。語義2との境界は連続的。LXX・教父の代表例では礼拝の用法を確認しており、この語義としては確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "礼拝",
+   "label_en": "worship",
+   "label_es": "culto",
+   "label_sv": "tillbedjan",
+   "def": "礼拝、崇拝。『御使い礼拝』。",
+   "def_en": "Worship, veneration: “worship of angels”.",
+   "def_es": "Culto, veneración: «culto a los ángeles».",
+   "def_sv": "Dyrkan, tillbedjan: ”ängladyrkan”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "コロサイ2:18。LXX、教父に並行。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n44026005014": "1",
+  "n51002018008": "2",
+  "n59001026017": "1",
+  "n59001027001": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（宗教・信心／礼拝）による。"
+}

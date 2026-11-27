@@ -1,0 +1,62 @@
+{
+ "lemma": "παιδίσκη",
+ "lemmaId": "grc:G3814",
+ "strong": "G3814",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "女中／召し使いの女",
+   "label_en": "maidservant / servant girl",
+   "label_es": "criada / sirvienta",
+   "label_sv": "tjänsteflicka",
+   "def": "女中、召し使いの女、門番の女。『女中が出て来て』『占いの霊につかれた女奴隷』『女中たちを打ち』。",
+   "def_en": "A maid, a servant girl, a girl keeping the door: “a servant girl came out”, “a slave girl with a spirit of divination”, “beat the maidservants”.",
+   "def_es": "Criada, muchacha de servicio, portera: «salió una criada», «una muchacha esclava que tenía espíritu de adivinación», «golpear a las criadas».",
+   "def_sv": "En tjänsteflicka eller portvakterska: ”en tjänsteflicka kom fram”, ”en slavflicka med en spådomsande”, ”slå tjänsteflickorna”.",
+   "layers": {
+    "nt": 8,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒12:13・16:16、ヨハネ18:17、ルカ22:56・12:45、マタイ26:69、マルコ14:66・14:69。LXX 創世記30:3・15:17、教父（19.7、60.2）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "女奴隷（ガラテヤ4章）",
+   "label_en": "slave woman (Galatians 4)",
+   "label_es": "esclava (Gálatas 4)",
+   "label_sv": "slavinna (Galaterbrevet 4)",
+   "def": "女奴隷、はしため。『女奴隷から子が生まれ』『女奴隷とその子を追い出せ』。",
+   "def_en": "A slave woman, a bondwoman: “a son born of the slave woman”, “cast out the slave woman and her son”.",
+   "def_es": "La esclava, la sierva: «un hijo de la esclava», «echa fuera a la esclava y a su hijo».",
+   "def_sv": "Slavinnan, trälkvinnan: ”en son född av slavinnan”, ”driv bort slavinnan och hennes son”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ガラテヤ4:22・4:23・4:30（2回）・4:31。LXX 創世記16章・21章に並行。教父の代表例では確認していない。指す人物の同定は付さない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40026069013": "1",
+  "n41014066012": "1",
+  "n41014069003": "1",
+  "n42012045023": "1",
+  "n42022056004": "1",
+  "n43018017006": "1",
+  "n44012013009": "1",
+  "n44016016008": "1",
+  "n48004022011": "2",
+  "n48004023006": "2",
+  "n48004030008": "2",
+  "n48004030020": "2",
+  "n48004031005": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用例（女中／女奴隷）による。"
+}

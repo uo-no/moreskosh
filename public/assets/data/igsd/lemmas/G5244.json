@@ -1,0 +1,49 @@
+{
+ "lemma": "ὑπερήφανος",
+ "lemmaId": "grc:G5244",
+ "strong": "G5244",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "高ぶった・傲慢な",
+   "label_en": "proud, arrogant",
+   "label_es": "soberbio, altivo",
+   "label_sv": "högmodig, övermodig",
+   "def": "高ぶった、傲慢な。『神は高ぶる者を退け』『高ぶる者』『思い上がる者』『心の思いの高ぶっている者を追い散らし』『高ぶった者』。",
+   "def_en": "Haughty, arrogant: “God opposes the proud”, “the proud”, “the arrogant”, “he has scattered the proud in the thoughts of their hearts”, “the proud”.",
+   "def_es": "Soberbio, arrogante: «Dios resiste a los soberbios», «los soberbios», «los altivos», «esparció a los soberbios en el pensamiento de sus corazones», «los soberbios».",
+   "def_sv": "Högmodig, hovmodig: ”Gud står emot de högmodiga”, ”de högmodiga”, ”de övermodiga”, ”han har skingrat dem som är stolta i sina hjärtans tankar”, ”de högmodiga”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ペテロ第一5:5、テモテ第二3:2、ヤコブ4:6、ルカ1:51、ローマ1:30。LXX（13.20・118.78）、教父（49.5・2.6）に並行。単一語義。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42001051007": "1",
+  "n45001030004": "1",
+  "n55003002008": "1",
+  "n59004006009": "1",
+  "n60005005014": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "単一語義。ὑπερλίαν の形は本レンマへ割り当てない。",
+ "excluded": [
+  {
+   "ref": "2CO 11:5",
+   "form": "ὑπερλίαν",
+   "reason": "形は副詞 ὑπερλίαν で、本レンマ（形容詞「高慢な」）の形ではない。bible_data の付け替えはユーザー承認待ち。"
+  },
+  {
+   "ref": "2CO 12:11",
+   "form": "ὑπερλίαν",
+   "reason": "形は副詞 ὑπερλίαν で、本レンマ（形容詞「高慢な」）の形ではない。bible_data の付け替えはユーザー承認待ち。"
+  }
+ ]
+}

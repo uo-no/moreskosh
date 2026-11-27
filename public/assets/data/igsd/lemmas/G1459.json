@@ -1,0 +1,76 @@
+{
+ "lemma": "ἐγκαταλείπω",
+ "lemmaId": "grc:G1459",
+ "strong": "G1459",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "見捨てる／置き去りにする",
+   "label_en": "to forsake / desert",
+   "label_es": "abandonar / desamparar",
+   "label_sv": "att överge / lämna i sticket",
+   "def": "見捨てる、置き去りにする。『わが神、わが神、どうしてわたしをお見捨てになったのですか』『デマスはわたしを捨て』『わたしを見捨てた』『あなたはわたしを死者の世界に捨ておかれない』『決してあなたを見捨てない』『見捨てられても滅びない』。",
+   "def_en": "To forsake, to leave behind in the lurch: “My God, my God, why have you forsaken me?”, “Demas has deserted me”, “deserted me”, “you will not abandon my soul to Hades”, “I will never forsake you”, “struck down but not destroyed, forsaken yet not perishing”.",
+   "def_es": "Abandonar, dejar en la estacada: «Dios mío, Dios mío, ¿por qué me has desamparado?», «Demas me ha desamparado», «me desampararon», «no dejarás mi alma en el Hades», «no te desampararé», «perseguidos, mas no desamparados».",
+   "def_sv": "Att överge och lämna kvar: ”min Gud, min Gud, varför har du övergivit mig?”, ”Demas har övergivit mig”, ”alla övergav mig”, ”du ska inte lämna min själ i dödsriket”, ”jag ska aldrig överge dig”, ”förföljda men inte övergivna”.",
+   "layers": {
+    "nt": 8,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅱコリ4:9、Ⅱテモ4:10・4:16、使徒2:27・2:31、ヘブル13:5、マタイ27:46、マルコ15:34。LXX 詩篇37:22・エレミヤ12:5、教父（19.2、33.1）に並行。語義2・3との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "おろそかにする（集会を）",
+   "label_en": "to neglect (meetings)",
+   "label_es": "descuidar (las reuniones)",
+   "label_sv": "att försumma (sammankomsterna)",
+   "def": "集会をおろそかにする、捨ておく。『ある人々の習慣のように集まりをやめず』（ヘブル10:25）。",
+   "def_en": "To neglect the gathering, to let it drop: “not neglecting to meet together, as is the habit of some” (Heb 10:25).",
+   "def_es": "Desatender la reunión, dejarla: «no dejando de congregarnos, como algunos tienen por costumbre» (He 10:25).",
+   "def_sv": "Att försumma och låta bli att samlas: ”utebli inte från sammankomsterna, som några brukar” (Heb 10:25).",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ヘブル10:25 の1例のみ。語義1との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "残す（子孫を）",
+   "label_en": "to leave (offspring)",
+   "label_es": "dejar (descendencia)",
+   "label_sv": "att lämna kvar (avkomma)",
+   "def": "残す、後に残す。『万軍の主がわたしたちに子孫を残されなかったなら』（ローマ9:29）。",
+   "def_en": "To leave, to leave behind: “if the Lord of hosts had not left us offspring” (Rom 9:29).",
+   "def_es": "Dejar tras de sí: «si el Señor de los ejércitos no nos hubiera dejado descendencia» (Ro 9:29).",
+   "def_sv": "Att lämna kvar efter sig: ”om Herren Sebaot inte hade lämnat kvar en rest av ättlingar” (Rom 9:29).",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ローマ9:29 の1例のみ（イザヤ1:9 の引用）。LXX 代表例に並行。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40027046024": "1",
+  "n41015034025": "1",
+  "n44002027003": "1",
+  "n44002031010": "1",
+  "n45009029009": "3",
+  "n47004009004": "1",
+  "n55004010004": "1",
+  "n55004016012": "1",
+  "n58010025002": "2",
+  "n58013005018": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法による。"
+}

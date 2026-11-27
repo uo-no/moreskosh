@@ -1,0 +1,53 @@
+{
+ "lemma": "μαθητεύω",
+ "lemmaId": "grc:G3100",
+ "strong": "G3100",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "弟子にする",
+   "label_en": "to make disciples",
+   "label_es": "hacer discípulos",
+   "label_sv": "att göra till lärjungar",
+   "def": "弟子にする、弟子とする。『すべての国民を弟子としなさい』『多くの人を弟子とした』。",
+   "def_en": "To make someone a disciple: “make disciples of all nations”, “made many disciples”.",
+   "def_es": "Hacer de alguien un discípulo: «haced discípulos a todas las naciones», «hicieron muchos discípulos».",
+   "def_sv": "Att göra någon till lärjunge: ”gör alla folk till lärjungar”, ”gjorde många till lärjungar”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "マタイ28:19、使徒14:21。教父に並行。LXX の用例なし。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "弟子となる・訓練される",
+   "label_en": "to become a disciple, to be trained",
+   "label_es": "hacerse discípulo, ser instruido",
+   "label_sv": "att bli lärjunge, att få undervisning",
+   "def": "弟子となる、訓練を受ける。『天国のことを学んだ律法学者』『イエスの弟子になっていた』。",
+   "def_en": "To become a disciple, to receive training: “a scribe who has been instructed for the kingdom of heaven”, “had become a disciple of Jesus”.",
+   "def_es": "Llegar a ser discípulo, recibir formación: «un escriba docto en el reino de los cielos», «se había hecho discípulo de Jesús».",
+   "def_sv": "Att bli en lärjunge, att skolas: ”en skriftlärd som undervisats om himmelriket”, ”hade blivit Jesu lärjunge”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ13:52・27:57。語義1との境界は連続的。LXX の用例なし。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40013052009": "2",
+  "n40027057014": "2",
+  "n40028019003": "1",
+  "n44014021007": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（弟子にする／弟子となる）による。"
+}

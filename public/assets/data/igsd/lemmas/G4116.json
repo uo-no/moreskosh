@@ -1,0 +1,53 @@
+{
+ "lemma": "πλατύς",
+ "lemmaId": "grc:G4116",
+ "strong": "G4116",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "広い通り・街路",
+   "label_en": "broad street",
+   "label_es": "plaza, calle ancha",
+   "label_sv": "gata, bred väg",
+   "def": "広い通り、街路。『大通り』『町の広場』『広場で』。",
+   "def_en": "A wide street: “main street”, “the town square”, “in the square”.",
+   "def_es": "Calle ancha: «la calle principal», «la plaza de la ciudad», «en la plaza».",
+   "def_sv": "En bred gata: ”huvudgatan”, ”stadens torg”, ”på torget”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ルカ13:26、マタイ12:19・6:5。LXX に並行。教父の用例なし。語義2との境界は連続的。語義1は女性形の名詞用法（ἡ πλατεῖα）。"
+  },
+  {
+   "id": "2",
+   "label": "広い（門・道）",
+   "label_en": "broad (gate, way)",
+   "label_es": "ancho (puerta, camino)",
+   "label_sv": "bred (port, väg)",
+   "def": "広い（形容詞）。『広い道』。",
+   "def_en": "Broad (adjective): “the broad road”.",
+   "def_es": "Ancho (adjetivo): «el camino ancho».",
+   "def_sv": "Bred (adjektiv): ”den breda vägen”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ7:13。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40006005019": "1",
+  "n40007013007": "2",
+  "n40012019010": "1",
+  "n42013026012": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（広い通り／広い門・道）による。"
+}

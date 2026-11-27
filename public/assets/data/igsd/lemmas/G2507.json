@@ -1,0 +1,92 @@
+{
+ "lemma": "καθαιρέω",
+ "lemmaId": "grc:G2507",
+ "strong": "G2507",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "降ろす（十字架から）",
+   "label_en": "to take down (from the cross)",
+   "label_es": "bajar (de la cruz)",
+   "label_sv": "att ta ner (från korset)",
+   "def": "遺体・人を降ろす。『杖を降ろして』『十字架から降ろして』『遺体を降ろして』『エリヤが降ろしに来るか』。",
+   "def_en": "To take down a body or person: “lowering the staff”, “took him down from the cross”, “took down the body”, “whether Elijah will come to take him down”.",
+   "def_es": "Bajar un cuerpo o a una persona: «bajando el báculo», «quitándole del madero», «bajando el cuerpo», «si viene Elías a bajarle».",
+   "def_sv": "Att ta ner en kropp eller människa: ”sänka staven”, ”tog ner honom från träet”, ”tog ner kroppen”, ”om Elia kommer och tar ner honom”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マルコ15:36・15:46、ルカ23:53、使徒13:29。LXX 申命記21:23 に並行。教父の代表例では確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "取り壊す／打ち倒す",
+   "label_en": "to tear down / overthrow",
+   "label_es": "derribar / demoler",
+   "label_sv": "att riva ner / slå omkull",
+   "def": "壊す、打ち倒す。『要塞をも破壊する』『七つの国を滅ぼして』『倉を壊して』。",
+   "def_en": "To demolish, to overthrow: “destroy strongholds”, “after destroying seven nations”, “I will tear down my barns”.",
+   "def_es": "Destruir, derribar: «destrucción de fortalezas», «habiendo destruido siete naciones», «derribaré mis graneros».",
+   "def_sv": "Att förstöra, störta: ”bryta ner fästen”, ”utrotade sju folk”, ”jag river mina lador”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅱコリ10:4、使徒13:19、ルカ12:18。LXX・教父（16.4、1.19.3）に並行。語義1・3との境界は連続的。"
+  },
+  {
+   "id": "3",
+   "label": "引き降ろす（権力者を）",
+   "label_en": "to bring down (rulers)",
+   "label_es": "derribar (a los poderosos)",
+   "label_sv": "att störta (härskare)",
+   "def": "権力者を引き降ろす。『権力ある者を王座から引きおろし』（ルカ1:52）。",
+   "def_en": "To bring down the powerful: “he has brought down the mighty from their thrones” (Luke 1:52).",
+   "def_es": "Hacer caer a los que mandan: «quitó de los tronos a los poderosos» (Lc 1:52).",
+   "def_sv": "Att störta de mäktiga: ”han har störtat härskare från deras troner” (Luk 1:52).",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ルカ1:52 の1例のみ。語義2との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+  },
+  {
+   "id": "4",
+   "label": "奪われる（威光を）",
+   "label_en": "to be deprived (of majesty)",
+   "label_es": "ser despojado (de majestad)",
+   "label_sv": "att berövas (sin härlighet)",
+   "def": "威光を失う、取り上げられる。『女神の威光も失われる』（使徒19:27）。",
+   "def_en": "To lose majesty, to have it taken away: “the goddess may even be deposed from her magnificence” (Acts 19:27).",
+   "def_es": "Perder la majestad, serle quitada: «comience a ser destruida su majestad» (Hch 19:27).",
+   "def_sv": "Att förlora sin glans: ”gudinnan går miste om sin storhet” (Apg 19:27).",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒19:27 の1例のみ。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n41015036018": "1",
+  "n41015046004": "1",
+  "n42001052001": "3",
+  "n42012018005": "2",
+  "n42023053002": "1",
+  "n44013019002": "2",
+  "n44013029009": "1",
+  "n44019027026": "4",
+  "n47010004017": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は目的語（遺体／建物／権力者／威光）による。"
+}

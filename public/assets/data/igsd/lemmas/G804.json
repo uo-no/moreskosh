@@ -1,0 +1,54 @@
+{
+ "lemma": "ἀσφαλής",
+ "lemmaId": "grc:G804",
+ "strong": "G804",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "正確な・確かな",
+   "label_en": "certain, accurate",
+   "label_es": "cierto, exacto",
+   "label_sv": "säker, tillförlitlig",
+   "def": "確かな事実、正確なこと。『確かな事実を知りたくて』『確かなことを…書くこと』『確かなことを知ろうとして』。",
+   "def_en": "What is certain, the exact facts: “wishing to know the facts for certain”, “to write … something definite”, “trying to find out the truth”.",
+   "def_es": "Hechos seguros, lo exacto: «queriendo saber la verdad de los hechos», «escribir … algo cierto», «tratando de averiguar lo cierto».",
+   "def_sv": "Säkra fakta, det exakta förhållandet: ”ville få veta säkert vad saken gällde”, ”skriva … något säkert”, ”försökte ta reda på det säkra”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "使徒22:30・25:26・21:34。教父に並行。LXX の代表例は用法の対応が確認できず、確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "安全な・堅固な",
+   "label_en": "safe, firm",
+   "label_es": "seguro, firme",
+   "label_sv": "trygg, fast",
+   "def": "確かな、堅固な。『安全で確かな錨』『あなたがたには安全なことです』。",
+   "def_en": "Sure, firm: “a safe and sure anchor”, “it is a safeguard for you”.",
+   "def_es": "Firme, sólido: «un ancla segura y firme», «para vosotros es cosa segura».",
+   "def_sv": "Säker, stadig: ”ett tryggt och säkert ankare”, ”för er är det en trygghet”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ヘブル6:19、ピリピ3:1。LXX に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n44021034015": "1",
+  "n44022030007": "1",
+  "n44025026003": "1",
+  "n50003001018": "2",
+  "n58006019007": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（確かな事実／安全・堅固）による。"
+}

@@ -1,0 +1,51 @@
+{
+ "lemma": "κάμνω",
+ "lemmaId": "grc:G2577",
+ "strong": "G2577",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "疲れる",
+   "label_en": "to grow weary",
+   "label_es": "cansarse",
+   "label_sv": "att tröttna",
+   "def": "疲れ果てる、弱る。『気落ちして疲れ果てないために』。",
+   "def_en": "To be worn out, to grow faint: “so that you may not grow weary and faint”.",
+   "def_es": "Fatigarse, desfallecer: «para que vuestro ánimo no se canse hasta desmayar».",
+   "def_sv": "Att bli utmattad, att mattas: ”så att ni inte tröttnar och tappar modet”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヘブル12:3。LXX・教父の代表例では確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "病む",
+   "label_en": "to be sick",
+   "label_es": "estar enfermo",
+   "label_sv": "att vara sjuk",
+   "def": "病む、病気である。『病んでいる人を救い』。",
+   "def_en": "To be ill: “will save the one who is sick”.",
+   "def_es": "Padecer enfermedad: «salvará al enfermo».",
+   "def_sv": "Att ligga sjuk: ”skall rädda den sjuke”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ヤコブ5:15。LXX に並行。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n58012003014": "1",
+  "n59005015008": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（疲れる／病む）による。"
+}

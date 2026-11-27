@@ -1,0 +1,60 @@
+{
+ "lemma": "κατασκευάζω",
+ "lemmaId": "grc:G2680",
+ "strong": "G2680",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "建てる／造る",
+   "label_en": "to build / construct",
+   "label_es": "construir / edificar",
+   "label_sv": "att bygga / uppföra",
+   "def": "建てる、造る、構える。『家を建てる者は家よりも尊ばれる』『すべてを造ったのは神である』『箱舟を造り』『幕屋が造られ』『ノアは箱舟を造り』『造られた幕屋』。",
+   "def_en": "To build, to construct: “the builder of a house has more honour than the house”, “the builder of all things is God”, “constructed an ark”, “a tent was prepared”, “Noah built an ark”, “the tabernacle that was built”.",
+   "def_es": "Edificar, construir, levantar: «mayor honra tiene el que hizo la casa que la casa», «el que hizo todas las cosas es Dios», «preparó el arca», «el tabernáculo estaba dispuesto», «Noé construyó el arca», «el tabernáculo construido».",
+   "def_sv": "Att bygga, uppföra, inrätta: ”husets byggmästare får större ära än huset”, ”den som har byggt allt är Gud”, ”byggde en ark”, ”ett tält inreddes”, ”Noa byggde arken”, ”det uppförda tabernaklet”.",
+   "layers": {
+    "nt": 7,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ヘブル3:3・3:4（2回）・11:7・9:2・9:6、Ⅰペテロ3:20。LXX イザヤ40:19・40:28、教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "備える／整える",
+   "label_en": "to prepare / make ready",
+   "label_es": "preparar / disponer",
+   "label_sv": "att bereda / göra i ordning",
+   "def": "備える、整える。『あなたの道を備える』『主のために整えられた民』。",
+   "def_en": "To prepare, to put in order: “will prepare your way”, “a people prepared for the Lord”.",
+   "def_es": "Preparar, aderezar: «preparará tu camino», «un pueblo bien dispuesto para el Señor».",
+   "def_sv": "Att förbereda och ställa i ordning: ”bereda din väg”, ”ett folk berett åt Herren”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ルカ1:17・7:27、マタイ11:10、マルコ1:2。LXX 代表例に並行。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40011010016": "2",
+  "n41001002017": "2",
+  "n42001017024": "2",
+  "n42007027015": "2",
+  "n58003003016": "1",
+  "n58003004004": "1",
+  "n58003004010": "1",
+  "n58009002003": "1",
+  "n58009006004": "1",
+  "n58011007009": "1",
+  "n60003020012": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（建てる／備える）による。"
+}

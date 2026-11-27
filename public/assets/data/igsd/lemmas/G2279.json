@@ -1,0 +1,53 @@
+{
+ "lemma": "ἦχος",
+ "lemmaId": "grc:G2279",
+ "strong": "G2279",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "音・響き",
+   "label_en": "sound, roar",
+   "label_es": "estruendo, sonido",
+   "label_sv": "dån, ljud",
+   "def": "音、響き、とどろき。『激しい風が吹いて来るような響き』『ラッパの響き』『海と波のとどろき』。",
+   "def_en": "A sound, a noise, a roaring: “a sound like a violent wind coming”, “the sound of a trumpet”, “the roaring of the sea and the waves”.",
+   "def_es": "Sonido, eco, bramido: «un estruendo como de un viento recio que soplaba», «el sonido de la trompeta», «el bramido del mar y de las olas».",
+   "def_sv": "Ljud, klang, dån: ”ett dån som när en häftig storm drar fram”, ”trumpetstöten”, ”havets och vågornas dån”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒2:2、ヘブル12:19、ルカ21:25。LXX、教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "評判・うわさ",
+   "label_en": "report, rumor",
+   "label_es": "fama, noticia",
+   "label_sv": "rykte",
+   "def": "うわさ、評判。『イエスのうわさは』。",
+   "def_en": "A rumor, a report: “the report about Jesus”.",
+   "def_es": "Rumor, lo que se cuenta: «la fama de Jesús».",
+   "def_sv": "Rykte, tal om någon: ”ryktet om Jesus”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ルカ4:37。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42004037003": "2",
+  "n42021025018": "1",
+  "n44002002007": "1",
+  "n58012019003": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（音・響き／評判）による。"
+}

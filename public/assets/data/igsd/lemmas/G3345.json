@@ -1,0 +1,71 @@
+{
+ "lemma": "μετασχηματίζω",
+ "lemmaId": "grc:G3345",
+ "strong": "G3345",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "装う・変装する",
+   "label_en": "to disguise oneself",
+   "label_es": "disfrazarse",
+   "label_sv": "att förklä sig",
+   "def": "自分を別のものに見せかける、装う。『キリストの使徒に変装して』『サタンさえ光の御使に変装する』『義の僕を装う』。",
+   "def_en": "To make oneself appear as something else, to masquerade: “disguising themselves as apostles of Christ”, “even Satan disguises himself as an angel of light”, “disguise themselves as servants of righteousness”.",
+   "def_es": "Hacerse pasar por otra cosa, fingirse: «se disfrazan como apóstoles de Cristo», «el mismo Satanás se disfraza como ángel de luz», «se disfrazan como ministros de justicia».",
+   "def_sv": "Att ge sig sken av att vara något annat: ”förklär sig till Kristi apostlar”, ”Satan själv förklär sig till en ljusets ängel”, ”uppträder förklädda till rättfärdighetens tjänare”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "コリント第二11:13・11:14・11:15。語義2・3との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "変える・変貌させる",
+   "label_en": "to transform",
+   "label_es": "transformar",
+   "label_sv": "att förvandla",
+   "def": "姿・形を変える。『われわれの卑しい体を…栄光のからだに変えて』。",
+   "def_en": "To change the form or appearance: “will transform our lowly body … into a body of glory”.",
+   "def_es": "Cambiar la forma o el aspecto: «transformará el cuerpo de la humillación nuestra … al cuerpo de la gloria suya».",
+   "def_sv": "Att ändra gestalt eller utseende: ”förvandla vår ringa kropp … till en härlighetens kropp”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ピリピ3:21。LXX に並行（元素の変化）。教父の用例なし。語義1との境界は連続的。"
+  },
+  {
+   "id": "3",
+   "label": "当てはめる（比喩として）",
+   "label_en": "to apply (as a figure)",
+   "label_es": "aplicar (como figura)",
+   "label_sv": "att tillämpa (bildligt)",
+   "def": "自分の事柄として当てはめて述べる。『これらのことを…あなたがたのために当てはめて語った』。",
+   "def_en": "To state something by applying it to one’s own case: “I have applied these things … to myself for your sake”.",
+   "def_es": "Exponer algo aplicándolo a la propia persona: «esto lo he presentado como ejemplo … por amor de vosotros».",
+   "def_sv": "Att framställa något genom att tillämpa det på sig själv: ”detta har jag … tillämpat för er skull”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "コリント第一4:6。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n46004006004": "3",
+  "n47011013007": "1",
+  "n47011014008": "1",
+  "n47011015009": "1",
+  "n50003021002": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（装う／変える／当てはめる）による。"
+}

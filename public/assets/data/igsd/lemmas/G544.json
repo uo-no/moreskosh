@@ -1,0 +1,63 @@
+{
+ "lemma": "ἀπειθέω",
+ "lemmaId": "grc:G544",
+ "strong": "G544",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "従わない／不従順である",
+   "label_en": "to disobey / be disobedient",
+   "label_es": "desobedecer / ser rebelde",
+   "label_sv": "att vara olydig / inte lyda",
+   "def": "従わない、不従順である。『神の福音に従わない者』『御子に従わない者』『みことばに従わない夫』『ノアの時に従わなかった者』『不従順で反抗する民』。",
+   "def_en": "Not to obey, to be disobedient: “those who do not obey the gospel of God”, “whoever does not obey the Son”, “husbands who do not obey the word”, “those who disobeyed in Noah's days”, “a disobedient and contrary people”.",
+   "def_es": "No obedecer, ser desobediente: «los que no obedecen al evangelio de Dios», «el que rehúsa creer en el Hijo y no le obedece», «maridos que no creen a la palabra», «los que desobedecieron en los días de Noé», «un pueblo rebelde y contradictor».",
+   "def_sv": "Att inte lyda, att vara olydig: ”de som inte lyder Guds evangelium”, ”den som inte lyder Sonen”, ”män som inte lyder ordet”, ”de olydiga på Noas tid”, ”ett olydigt och gensträvigt folk”.",
+   "layers": {
+    "nt": 11,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰペテロ4:17・2:8・3:1・3:20、ヘブル3:18・11:31、ヨハネ3:36、ローマ10:21・11:30・11:31・2:8。LXX 詩篇・申命記9:24、教父（59.1）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "信じない／拒む",
+   "label_en": "to disbelieve / refuse",
+   "label_es": "no creer / rehusar",
+   "label_sv": "att vägra tro / avvisa",
+   "def": "信じようとしない、拒む（使徒行伝・ローマ15:31 の『信じない者』）。",
+   "def_en": "To be unwilling to believe, to refuse (“the unbelieving” in Acts and Rom 15:31).",
+   "def_es": "No querer creer, rechazar (los «incrédulos» de Hechos y Ro 15:31).",
+   "def_sv": "Att inte vilja tro, att avvisa (”de otroende” i Apostlagärningarna och Rom 15:31).",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒14:2・19:9、ローマ15:31。語義1との境界は連続的（『不従順』と『不信』の区別は本文による）。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n43003036011": "1",
+  "n44014002003": "2",
+  "n44019009006": "2",
+  "n45002008006": "1",
+  "n45010021015": "1",
+  "n45011030005": "1",
+  "n45011031005": "1",
+  "n45015031005": "2",
+  "n58003018013": "1",
+  "n58011031008": "1",
+  "n60002008011": "1",
+  "n60003001011": "1",
+  "n60003020001": "1",
+  "n60004017022": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（不従順／不信）による。"
+}

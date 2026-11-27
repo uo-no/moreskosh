@@ -1,0 +1,77 @@
+{
+ "lemma": "ἀρχαῖος",
+ "lemmaId": "grc:G744",
+ "strong": "G744",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "昔の／古くからの",
+   "label_en": "ancient / of old",
+   "label_es": "antiguo / de tiempos pasados",
+   "label_sv": "forntida / gammal sedan länge",
+   "def": "昔の、古くからの、初期の。『昔の人々に』『古い世界を許さず』『初めのころ』『古くからの弟子』『昔の預言者のひとり』『昔から宣べ伝える人々がいて』。",
+   "def_en": "Of former times, from long ago, early: “said to those of old”, “did not spare the ancient world”, “in the early days”, “an early disciple”, “one of the prophets of old”, “from ancient generations there have been those who preach”.",
+   "def_es": "De antaño, desde antiguo, de los primeros tiempos: «fue dicho a los antiguos», «no perdonó al mundo antiguo», «desde los primeros tiempos», «un discípulo antiguo», «alguno de los antiguos profetas», «desde tiempos antiguos tiene quien lo predique».",
+   "def_sv": "Från fordom, sedan gammalt, från början: ”sagt till fäderna”, ”skonade inte den forntida världen”, ”redan från första tiden”, ”en lärjunge från första tiden”, ”någon av de gamla profeterna”, ”sedan gamla tider har haft sina förkunnare”.",
+   "layers": {
+    "nt": 8,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒15:7・15:21・21:16、ルカ9:8・9:19、マタイ5:21・5:33、Ⅱペテロ2:5。LXX 詩篇78:8・イザヤ43:18、教父（5.1、11.11）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "古い（過ぎ去った）",
+   "label_en": "old (passed away)",
+   "label_es": "viejo (pasado)",
+   "label_sv": "det gamla (förgångna)",
+   "def": "古いもの、過ぎ去ったもの。『古いものは過ぎ去って』（Ⅱコリ5:17）。",
+   "def_en": "What is old, what has passed: “the old has passed away” (2 Cor 5:17).",
+   "def_es": "Lo viejo, lo que ha pasado: «las cosas viejas pasaron» (2 Co 5:17).",
+   "def_sv": "Det gamla som är förbi: ”det gamla är förbi” (2 Kor 5:17).",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "Ⅱコリ5:17 の1例のみ。語義1との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "年経た（蛇）",
+   "label_en": "age-old (serpent)",
+   "label_es": "antigua (serpiente)",
+   "label_sv": "urgammal (om ormen)",
+   "def": "『年を経た蛇』（黙示録12:9・20:2）。",
+   "def_en": "“The ancient serpent” (Rev 12:9; 20:2).",
+   "def_es": "«La serpiente antigua» (Ap 12:9; 20:2).",
+   "def_sv": "”Den gamle ormen” (Upp 12:9; 20:2).",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "黙示録12:9・20:2。語義1との境界は連続的。LXX・教父の代表例では確認していない。指す対象の同定は付さない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40005021005": "1",
+  "n40005033006": "1",
+  "n42009008013": "1",
+  "n42009019017": "1",
+  "n44015007017": "1",
+  "n44015021005": "1",
+  "n44021016017": "1",
+  "n47005017009": "2",
+  "n61002005002": "1",
+  "n66012009010": "3",
+  "n66020002008": "3"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法による。"
+}

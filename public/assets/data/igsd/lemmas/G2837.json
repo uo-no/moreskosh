@@ -1,0 +1,67 @@
+{
+ "lemma": "κοιμάομαι",
+ "lemmaId": "grc:G2837",
+ "strong": "G2837",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "眠る（睡眠）",
+   "label_en": "to sleep (literal)",
+   "label_es": "dormir (sueño)",
+   "label_sv": "att sova (sömn)",
+   "def": "眠る、眠り込む。字義どおりの睡眠。『眠っている弟子たち』『兵士たちが眠っていた』。ヨハネ11:12 では弟子たちが『眠り』と取り違える。",
+   "def_en": "To sleep, to fall asleep, in the literal sense: “the sleeping disciples”, “while the soldiers were asleep”. In John 11:12 the disciples mistake it for “sleep”.",
+   "def_es": "Dormir, quedarse dormido, en sentido literal: «los discípulos dormidos», «mientras los soldados dormían». En Jn 11:12 los discípulos lo toman por «sueño».",
+   "def_sv": "Att sova, somna, i bokstavlig mening: ”de sovande lärjungarna”, ”medan soldaterna sov”. I Joh 11:12 missförstår lärjungarna det som ”sömn”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒12:6（ペテロは眠っていた）、ルカ22:45（弟子たちが眠っているのを見て）、マタイ28:13（私たちが眠っている間に弟子たちが来て盗んだ）、ヨハネ11:12（眠っているなら助かるでしょう）。LXX 創世記32:13、教父（Ⅰクレメンス24.3）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "（死んで）眠りにつく",
+   "label_en": "to fall asleep (in death)",
+   "label_es": "dormirse (en la muerte)",
+   "label_sv": "att insomna (dö)",
+   "def": "死ぬことを『眠りにつく』と婉曲に言う。信者の死、先に亡くなった者、父祖の死、ラザロの死。",
+   "def_en": "Dying spoken of euphemistically as “falling asleep”: the death of believers, those who have died before, the death of the fathers, the death of Lazarus.",
+   "def_es": "Morir, dicho eufemísticamente como «dormirse»: la muerte de los creyentes, los que han muerto antes, la muerte de los padres, la de Lázaro.",
+   "def_sv": "Att dö, omskrivet som att ”insomna”: de troendes död, de tidigare avlidna, fädernas död, Lasarus död.",
+   "layers": {
+    "nt": 14,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰコリ7:39・11:30・15:6・18・20・51、Ⅰテサ4:13・14・15、Ⅱペテロ3:4（父たちが眠りについて）、使徒7:60（ステパノは眠りについた）・13:36（ダビデは眠りについた）、ヨハネ11:11（ラザロは眠っている）、マタイ27:52（眠っていた聖徒たち）。LXX Ⅲ列王12:24α、教父（ヘルマス26.16.7）に並行。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40027052009": "2",
+  "n40028013012": "1",
+  "n42022045011": "1",
+  "n43011011012": "2",
+  "n43011012008": "1",
+  "n44007060018": "2",
+  "n44012006014": "1",
+  "n44013036011": "2",
+  "n46007039012": "2",
+  "n46011030010": "2",
+  "n46015006016": "2",
+  "n46015018004": "2",
+  "n46015020009": "2",
+  "n46015051007": "2",
+  "n52004013009": "2",
+  "n52004014014": "2",
+  "n52004015023": "2",
+  "n61003004015": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

@@ -1,0 +1,89 @@
+{
+ "lemma": "εἰκών",
+ "lemmaId": "grc:G1504",
+ "strong": "G1504",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "像／肖像（造られ刻まれたもの）",
+   "label_en": "image / likeness (made or engraved)",
+   "label_es": "imagen / efigie (hecha o grabada)",
+   "label_sv": "bild / avbild (tillverkad eller präglad)",
+   "def": "硬貨に刻まれた肖像、偶像や獣の像など、人が造り・刻んで作った像。",
+   "def_en": "An image people have made or engraved, such as the portrait on a coin or the image of an idol or of the beast.",
+   "def_es": "Imagen hecha o grabada por manos humanas, como la efigie de una moneda o la imagen de un ídolo o de la bestia.",
+   "def_sv": "En bild som människor gjort eller präglat, till exempel porträttet på ett mynt eller en avgudabild eller vilddjurets bild.",
+   "layers": {
+    "nt": 14,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "硬貨の肖像（マタイ22:20、マルコ12:16、ルカ20:24）、ローマ1:23（朽ちる人や鳥・獣の像）、黙示録の『獣の像』（13:14・15の3回・14:9・14:11・15:2・16:2・19:20・20:4）。LXX ダニエル3:3・イザヤ40:20 に並行。教父の代表例では確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "似姿／かたち（原型を映すもの）",
+   "label_en": "likeness / image (reflecting an original)",
+   "label_es": "semejanza / imagen (que refleja un original)",
+   "label_sv": "avbild / gestalt (som återspeglar en förebild)",
+   "def": "原型に基づいて、その姿・性質を映す似姿。人は神の似姿であり、キリストは見えない神の似姿であり、信じる者は子の似姿に似るものとされる。",
+   "def_en": "A likeness, based on an original, that reflects its form or nature. The human being is the image of God, Christ is the image of the invisible God, and believers are made to resemble the image of the Son.",
+   "def_es": "Semejanza basada en un original, que refleja su figura o naturaleza. El ser humano es imagen de Dios, Cristo es imagen del Dios invisible, y los creyentes han de asemejarse a la imagen del Hijo.",
+   "def_sv": "En avbild efter en förebild, som återger dess gestalt och väsen. Människan är Guds avbild, Kristus är den osynlige Gudens avbild, och de troende blir lika Sonens bild.",
+   "layers": {
+    "nt": 8,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰコリ11:7（男は神の似姿）、Ⅱコリ4:4・コロサイ1:15（キリストは神の似姿）、コロサイ3:10（創造主のかたちに）、ローマ8:29・Ⅱコリ3:18（子の似姿に）、Ⅰコリ15:49（土の人の似姿・天の人の似姿、同一節に2回）。LXX 創世記1:26–27・5:1、教父（バルナバ6.12、Ⅰクレメンス33.4–5）に並行。"
+  },
+  {
+   "id": "3",
+   "label": "実体の姿／かたち（影と対比して）",
+   "label_en": "actual form / true shape (as opposed to shadow)",
+   "label_es": "forma real / figura (frente a la sombra)",
+   "label_sv": "tingens egen gestalt (i motsats till skuggan)",
+   "def": "事物の影（σκιά）に対し、事物そのものの姿（実体）。",
+   "def_en": "As opposed to the shadow (σκιά) of things, the form of the things themselves (the reality).",
+   "def_es": "Frente a la sombra (σκιά) de las cosas, la figura de las cosas mismas (la realidad).",
+   "def_sv": "I motsats till tingens skugga (σκιά), tingens egen gestalt (verkligheten).",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヘブル10:1（律法は影であって、事物の実体そのものではない）の1例のみ。語義2との境界は連続的（Abbott は『影と対比』として別項に置く）。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40022020006": "1",
+  "n41012016009": "1",
+  "n42020024006": "1",
+  "n45001023010": "1",
+  "n45008029008": "2",
+  "n46011007009": "2",
+  "n46015049005": "2",
+  "n46015049011": "2",
+  "n47003018012": "2",
+  "n47004004027": "2",
+  "n51001015003": "2",
+  "n51003010010": "2",
+  "n58010001012": "3",
+  "n66013014025": "1",
+  "n66013015007": "1",
+  "n66013015014": "1",
+  "n66013015025": "1",
+  "n66014009018": "1",
+  "n66014011024": "1",
+  "n66015002017": "1",
+  "n66016002032": "1",
+  "n66019020029": "1",
+  "n66020004035": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない（LXX の『偶像』『ひな型』の用法は語義1に収まる）。"
+}

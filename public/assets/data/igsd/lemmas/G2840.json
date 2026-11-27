@@ -1,0 +1,63 @@
+{
+ "lemma": "κοινόω",
+ "lemmaId": "grc:G2840",
+ "strong": "G2840",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "汚す／汚れたものとする",
+   "label_en": "to defile / make unclean",
+   "label_es": "contaminar / hacer inmundo",
+   "label_sv": "att orena / göra oren",
+   "def": "儀礼的に汚す、汚れたものとする。『人を汚すものは、口から出るもの』『口に入るものは人を汚すのではない』『この聖なる場所を汚した』『汚れた者たち』。",
+   "def_en": "To defile ritually, to make unclean: “what comes out of the mouth defiles a person”, “what goes into the mouth does not defile”, “has defiled this holy place”, “those who are defiled”.",
+   "def_es": "Manchar ritualmente, volver impuro: «lo que sale de la boca, esto contamina», «no lo que entra en la boca contamina», «ha profanado este santo lugar», «los inmundos».",
+   "def_sv": "Att rituellt orena och göra oren: ”det som går ut ur munnen orenar människan”, ”det som går in i munnen orenar inte”, ”har orenat denna heliga plats”, ”de orenade”.",
+   "layers": {
+    "nt": 12,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ15:11（2回）・15:18・15:20（2回）、マルコ7:15（2回）・7:18・7:20・7:23、使徒21:28、ヘブル9:13。LXX にこの語の用例は無い。教父の代表例では確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "汚れたものとみなす",
+   "label_en": "to count as unclean",
+   "label_es": "tener por inmundo",
+   "label_sv": "att räkna som oren",
+   "def": "『汚れた』と宣言する、みなす。『神が清めたものを、汚れていると言ってはならない』。",
+   "def_en": "To declare or regard as “unclean”: “What God has made clean, do not call unclean.”",
+   "def_es": "Declarar o considerar «inmundo»: «Lo que Dios limpió, no lo llames tú común».",
+   "def_sv": "Att förklara eller anse som ”oren”: ”Vad Gud har gjort rent ska du inte kalla orent.”",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒10:15・11:9。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40015011007": "1",
+  "n40015011017": "1",
+  "n40015018012": "1",
+  "n40015020004": "1",
+  "n40015020013": "1",
+  "n41007015011": "1",
+  "n41007015021": "1",
+  "n41007018022": "1",
+  "n41007020010": "1",
+  "n41007023008": "1",
+  "n44010015014": "2",
+  "n44011009015": "2",
+  "n44021028032": "1",
+  "n58009013013": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "LXX に用例は無い。"
+}

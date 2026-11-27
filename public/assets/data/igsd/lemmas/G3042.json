@@ -1,0 +1,61 @@
+{
+ "lemma": "λιμός",
+ "lemmaId": "grc:G3042",
+ "strong": "G3042",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "飢饉",
+   "label_en": "famine",
+   "label_es": "hambre (general)",
+   "label_sv": "hungersnöd",
+   "def": "飢饉、食物の欠乏。『大飢饉が起こって』『各地に飢饉が起こる』『大飢饉がその地方に』『飢饉は剣と死と共に』。",
+   "def_en": "Famine, a lack of food: “there arose a great famine”, “famines in various places”, “a severe famine in that country”, “famine together with sword and death”.",
+   "def_es": "Hambruna, falta de alimentos: «vino una gran hambre», «habrá hambres en diferentes lugares», «una gran hambre en aquella provincia», «con espada, con hambre y con mortandad».",
+   "def_sv": "Hungersnöd, brist på mat: ”det kom en stor hungersnöd”, ”hungersnöd på olika platser”, ”en svår hungersnöd i det landet”, ”med svärd, hungersnöd och död”.",
+   "layers": {
+    "nt": 9,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒11:28・7:11、ルカ15:14・4:25・21:11、マタイ24:7、マルコ13:8、黙示録18:8・6:8。LXX 創世記41:27・エレミヤ、教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "飢え（個人の）",
+   "label_en": "hunger (personal)",
+   "label_es": "hambre (de una persona)",
+   "label_sv": "hunger (enskild människas)",
+   "def": "個人の空腹、飢え。『飢えと渇き』『飢えて死にそうだ』『飢えと渇きに苦しみ』。",
+   "def_en": "A person's hunger: “hunger and thirst”, “I am perishing with hunger”, “suffering hunger and thirst”.",
+   "def_es": "El hambre que alguien sufre: «hambre y sed», «yo aquí perezco de hambre», «en hambre y sed».",
+   "def_sv": "En människas hunger: ”hunger och törst”, ”jag håller på att dö av hunger”, ”lidit hunger och törst”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅱコリ11:27、ルカ15:17、ローマ8:35。LXX 詩篇、教父（56.9）に並行。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40024007012": "1",
+  "n41013008015": "1",
+  "n42004025028": "1",
+  "n42015014006": "1",
+  "n42015017015": "2",
+  "n42021011007": "1",
+  "n44007011003": "1",
+  "n44011028012": "1",
+  "n45008035015": "2",
+  "n47011027008": "2",
+  "n66006008036": "1",
+  "n66018008014": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は規模（地域の飢饉／個人の飢え）による。"
+}

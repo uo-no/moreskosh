@@ -1,0 +1,57 @@
+{
+ "lemma": "ξηρός",
+ "lemmaId": "grc:G3584",
+ "strong": "G3584",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "乾いた",
+   "label_en": "dry",
+   "label_es": "seco",
+   "label_sv": "torr",
+   "def": "乾いた、水気のない。『乾いた地を行くように』『生木でさえこうされるなら、枯れ木ならどうなるか』『海と陸とを巡り歩き』。",
+   "def_en": "Dry, without moisture: “as on dry land”, “if they do these things when the wood is green, what will happen when it is dry?”, “travel across sea and land”.",
+   "def_es": "Seco, sin humedad: «como por tierra seca», «si en el árbol verde hacen estas cosas, ¿en el seco, qué no se hará?», «recorréis mar y tierra».",
+   "def_sv": "Torr, utan väta: ”som på torra land”, ”gör man så med det gröna trädet, vad ska då ske med det torra?”, ”far över hav och land”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ヘブル11:29、ルカ23:31、マタイ23:15。LXX（15.19・37.4）、教父（20.1.1・24.5）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "萎えた・干からびた（体）",
+   "label_en": "withered (body)",
+   "label_es": "seco / paralizado (cuerpo)",
+   "label_sv": "förtvinad (om kroppen)",
+   "def": "体の部分が萎えた、麻痺した。『片手の萎えた人』『手の萎えた人』『手の萎えた人に言われた』『からだの不自由な者』。",
+   "def_en": "A part of the body is withered, paralysed: “a man with a withered hand”, “a man whose hand was withered”, “said to the man with the withered hand”, “the disabled”.",
+   "def_es": "Miembro atrofiado, paralizado: «un hombre que tenía seca una mano», «que tenía la mano seca», «dijo al hombre de la mano seca», «los paralíticos».",
+   "def_sv": "En kroppsdel som förtvinat eller förlamats: ”en man med en förtvinad hand”, ”vars hand var förtvinad”, ”sade till mannen med den förtvinade handen”, ”de lytta”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ルカ6:6・6:8、マタイ12:10、マルコ3:3、ヨハネ5:3。LXX・教父の代表例では体の用法を確認していない。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40012010006": "2",
+  "n40023015013": "1",
+  "n41003003009": "2",
+  "n42006006024": "2",
+  "n42006008012": "2",
+  "n42023031011": "1",
+  "n43005003009": "2",
+  "n58011029008": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（乾き／体の萎え）による。"
+}

@@ -1,0 +1,58 @@
+{
+ "lemma": "κατάγω",
+ "lemmaId": "grc:G2609",
+ "strong": "G2609",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "連れ降ろす／導き降ろす",
+   "label_en": "to bring down",
+   "label_es": "hacer bajar / llevar abajo",
+   "label_sv": "att föra ner",
+   "def": "人を連れて降りる、連れ降ろす。『パウロを連れ降ろして議会の前に立たせた』『パウロを議会に連れ降ろすよう願い』『パウロを連れ降ろし』『カイザリヤに連れ降ろし』『キリストを下らせるため』。",
+   "def_en": "To lead a person down, to take down: “brought Paul down and set him before the council”, “to bring Paul down to the council”, “bring Paul down”, “brought him down to Caesarea”, “to bring Christ down”.",
+   "def_es": "Bajar con una persona, hacerla descender: «sacando a Pablo, le presentó ante ellos», «que le traiga mañana ante vosotros», «que trajesen a Pablo», «le llevaron a Cesarea», «para traer abajo a Cristo».",
+   "def_sv": "Att ta ner en människa: ”förde ner Paulus och ställde honom inför rådet”, ”föra ner Paulus till rådet”, ”att föra ner Paulus”, ”förde honom ner till Caesarea”, ”för att hämta ner Kristus”.",
+   "layers": {
+    "nt": 6,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒22:30・23:15・23:20・23:28・9:30、ローマ10:6。LXX 創世記37:25・サムエル記下17:23、教父（4.12）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "入港する／舟を陸に着ける",
+   "label_en": "to put in / bring to land",
+   "label_es": "arribar / sacar la barca a tierra",
+   "label_sv": "att lägga till / dra iland",
+   "def": "船が入港する、陸に着ける。『シラクサに寄港し』『船を陸に着け』『ミラに着いた』。",
+   "def_en": "A ship puts into port, is brought to land: “putting in at Syracuse”, “when they had brought their boats to land”, “arrived at Myra”.",
+   "def_es": "La nave arriba, se lleva a tierra: «llegados a Siracusa», «cuando trajeron a tierra las barcas», «arribamos a Mira».",
+   "def_sv": "Skeppet går in i hamn eller förs iland: ”lade till i Syrakusa”, ”drog båtarna iland”, ”kom till Myra”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒28:12・27:3、ルカ5:11。語義1との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42005011002": "2",
+  "n44009030005": "1",
+  "n44022030026": "1",
+  "n44023015011": "1",
+  "n44023020014": "1",
+  "n44023028010": "1",
+  "n44027003004": "2",
+  "n44028012002": "2",
+  "n45010006022": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は目的語（人／船）による。"
+}

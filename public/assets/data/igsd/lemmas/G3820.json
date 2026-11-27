@@ -1,0 +1,102 @@
+{
+ "lemma": "παλαιός",
+ "lemmaId": "grc:G3820",
+ "strong": "G3820",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "古い（古びた）",
+   "label_en": "old (worn)",
+   "label_es": "viejo (gastado)",
+   "label_sv": "gammal (sliten)",
+   "def": "使い古された、古くなった物。古い衣・古い革袋・古い酒。『新しい』と対にされる。",
+   "def_en": "Things used up and grown old: an old garment, old wineskins, old wine. Paired with “new”.",
+   "def_es": "Cosas usadas, envejecidas: vestido viejo, odres viejos, vino añejo. Se contrapone a «nuevo».",
+   "def_sv": "Saker som är använda och blivit gamla: gammal mantel, gamla vinsäckar, gammalt vin. Ställs mot ”ny”.",
+   "layers": {
+    "nt": 10,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マタイ9:16・17、マルコ2:21（2回）・22、ルカ5:36（2回）・37・39（2回、古いぶどう酒）。LXX レビ記26:10（古い物を食べる）に並行。教父の代表例では確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "古い／以前からの（契約・戒め・パン種）",
+   "label_en": "old / former (covenant, commandment, leaven)",
+   "label_es": "antiguo / anterior (pacto, mandamiento, levadura)",
+   "label_sv": "gammal / tidigare (förbund, bud, surdeg)",
+   "def": "以前からあったもの、前の時代に属するもの。『古い契約』『古い戒め』『古いパン種』。",
+   "def_en": "What has existed from before, what belongs to an earlier time: “the old covenant”, “an old commandment”, “the old leaven”.",
+   "def_es": "Lo que existía desde antes, lo perteneciente a una época anterior: «el antiguo pacto», «el mandamiento antiguo», «la vieja levadura».",
+   "def_sv": "Det som funnits sedan förut och hör till en tidigare tid: ”det gamla förbundet”, ”det gamla budet”, ”den gamla surdegen”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "Ⅰコリ5:7・8（古いパン種）、Ⅰヨハネ2:7（古い戒め。同一節に2回）、Ⅱコリ3:14（古い契約）。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "古い人（罪の中の古い自分）",
+   "label_en": "old self (the former self in sin)",
+   "label_es": "viejo hombre (el yo antiguo en el pecado)",
+   "label_sv": "den gamla människan (det gamla jaget i synden)",
+   "def": "キリストを知る以前の、罪に属していた古い自分、古い人。",
+   "def_en": "One's former self that belonged to sin before knowing Christ, the old self.",
+   "def_es": "El yo antiguo que pertenecía al pecado antes de conocer a Cristo, el viejo hombre.",
+   "def_sv": "Det forna jag som tillhörde synden innan man lärde känna Kristus, den gamla människan.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ローマ6:6（わたしたちの古い人）、エペソ4:22（古い人を脱ぎ捨てよ）、コロサイ3:9（古い人をその行いとともに脱ぎ捨てた）。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "4",
+   "label": "古いもの（蓄えの）",
+   "label_en": "old things (from the store)",
+   "label_es": "cosas viejas (del tesoro)",
+   "label_sv": "det gamla (ur förrådet)",
+   "def": "宝の蔵に蓄えられた古いもの、昔からの宝物。",
+   "def_en": "The old things stored up in the treasury, treasures of long standing.",
+   "def_es": "Lo antiguo guardado en el tesoro, tesoros de antaño.",
+   "def_sv": "Det gamla som ligger sparat i skattkammaren, skatter sedan länge.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ13:52（新しいものと古いものを蔵から取り出す）の1例のみ。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40009016009": "1",
+  "n40009017007": "1",
+  "n40013052026": "4",
+  "n41002021008": "1",
+  "n41002021020": "1",
+  "n41002022008": "1",
+  "n42005036017": "1",
+  "n42005036027": "1",
+  "n42005037008": "1",
+  "n42005039004": "1",
+  "n42005039010": "1",
+  "n45006006005": "3",
+  "n46005007003": "2",
+  "n46005008006": "2",
+  "n47003014018": "2",
+  "n49004022008": "3",
+  "n51003009007": "3",
+  "n62002007009": "2",
+  "n62002007017": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

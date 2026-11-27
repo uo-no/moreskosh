@@ -1,0 +1,55 @@
+{
+ "lemma": "συντελέω",
+ "lemmaId": "grc:G4931",
+ "strong": "G4931",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "終える・終わる",
+   "label_en": "to finish, to be over",
+   "label_es": "terminar, cumplirse",
+   "label_sv": "att avsluta, att vara slut",
+   "def": "事が終わる、終える、満了する。『七日の期間が満ちようとしていたとき』『その期間が終わったとき』『すべての試みを終えて』『すべてのことが成就するときには』。",
+   "def_en": "For something to come to an end; to finish, to expire: “when the seven days were nearly completed”, “when the period was ended”, “having ended every temptation”, “when all these things are about to be fulfilled”.",
+   "def_es": "Acabarse algo; concluir, expirar: «cuando estaban para cumplirse los siete días», «pasados aquellos días», «cuando acabó toda tentación», «cuando todas estas cosas hayan de cumplirse».",
+   "def_sv": "Att något tar slut; att avsluta, att löpa ut: ”när de sju dagarna nästan var till ända”, ”när tiden var slut”, ”när alla frestelser var avslutade”, ”när allt detta skall gå i fullbordan”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒21:27、ルカ4:2・4:13、マルコ13:4。LXX（42.15・2.35γ）、教父（17.3.2・15.4）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "成し遂げる・結ぶ",
+   "label_en": "to accomplish, to conclude",
+   "label_es": "llevar a cabo, concertar",
+   "label_sv": "att utföra, att sluta",
+   "def": "成し遂げる、実現する、契約を結ぶ。『新しい契約を結ぶ』『主は…速やかに成し遂げられる』。",
+   "def_en": "To accomplish, to bring about; to conclude a covenant: “I will conclude a new covenant”, “the Lord … will carry it out without delay”.",
+   "def_es": "Realizar, ejecutar; concluir un pacto: «estableceré un nuevo pacto», «el Señor … ejecutará con prontitud».",
+   "def_sv": "Att genomföra, förverkliga; att sluta ett förbund: ”jag skall sluta ett nytt förbund”, ”Herren … skall snabbt fullborda det”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヘブル8:8、ローマ9:28。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n41013004013": "1",
+  "n42004002016": "1",
+  "n42004013002": "1",
+  "n44021027007": "1",
+  "n45009028003": "2",
+  "n58008008011": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（終える・終わる／成し遂げる・結ぶ）による。"
+}

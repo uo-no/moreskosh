@@ -1,0 +1,53 @@
+{
+ "lemma": "μωραίνω",
+ "lemmaId": "grc:G3471",
+ "strong": "G3471",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "愚かにする・愚かになる",
+   "label_en": "to make foolish, to become foolish",
+   "label_es": "enloquecer, volverse necio",
+   "label_sv": "att göra till dårskap, att bli dåraktig",
+   "def": "愚かにする、愚かになる。『この世の知恵を愚かにされたではないか』『愚かな者となり』。",
+   "def_en": "To make foolish; to become a fool: “has he not made the wisdom of this world foolish”, “became fools”.",
+   "def_es": "Hacer necio; hacerse necio: «¿no ha enloquecido la sabiduría del mundo?», «se hicieron necios».",
+   "def_sv": "Att göra dåraktig; att bli en dåre: ”har han inte gjort världens vishet till dårskap”, ”blev till dårar”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "コリント第一1:20、ローマ1:22。LXX に並行。教父の用例なし。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "味を失う",
+   "label_en": "to lose its taste",
+   "label_es": "desvanecerse (la sal)",
+   "label_sv": "att mista sin sälta",
+   "def": "塩が塩気を失う。『塩がもしききめがなくなったら』『塩けがなくなったら』。",
+   "def_en": "For salt to lose its saltiness: “if the salt loses its strength”, “if it loses its saltiness”.",
+   "def_es": "Perder la sal su sabor: «si la sal pierde su fuerza», «si pierde su salinidad».",
+   "def_sv": "Att saltet förlorar sin kraft: ”om saltet förlorar sin kraft”, ”om det förlorar sältan”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ルカ14:34、マタイ5:13。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40005013011": "2",
+  "n42014034010": "2",
+  "n45001022004": "1",
+  "n46001020011": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（愚かになる／味を失う）による。"
+}

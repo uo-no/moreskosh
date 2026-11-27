@@ -1,0 +1,57 @@
+{
+ "lemma": "ἀπιστέω",
+ "lemmaId": "grc:G569",
+ "strong": "G569",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "信じない",
+   "label_en": "to disbelieve",
+   "label_es": "no creer",
+   "label_sv": "att inte tro",
+   "def": "信じない、信用しない。『信じない者たちには』『ある人々は信じたが、ある人々は信じなかった』『それを信じなかった』『喜びのあまり信じられず』『彼らは信じなかった』『信じない者は罪に定められる』。",
+   "def_en": "Not to believe, not to trust: “to those who do not believe”, “some were convinced, others disbelieved”, “they would not believe it”, “still disbelieved for joy”, “they did not believe”, “whoever does not believe will be condemned”.",
+   "def_es": "No creer, no fiarse: «para los que no creen», «algunos asentían, pero otros no creían», «no lo creyeron», «de gozo, todavía no lo creían», «ellos no creyeron», «el que no creyere será condenado».",
+   "def_sv": "Att inte tro, inte lita på: ”för dem som inte tror”, ”somliga lät sig övertygas, andra ville inte tro”, ”de trodde det inte”, ”för glädjens skull kunde de ännu inte tro”, ”de trodde inte”, ”den som inte tror ska bli fördömd”.",
+   "layers": {
+    "nt": 6,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ペテロ第一2:7、使徒28:24、ルカ24:11・24:41、マルコ16:11・16:16。LXX（1.2）、教父（1.18.1）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "不誠実である・信じない（解釈が分かれる）",
+   "label_en": "to be unfaithful / not believe (disputed)",
+   "label_es": "ser infiel / no creer (discutido)",
+   "label_sv": "att vara trolös / inte tro (omtvistat)",
+   "def": "『彼らのある者が不真実であったとしても』『わたしたちが不真実であっても』。",
+   "def_en": "“What if some of them were unfaithful?”, “if we are faithless”.",
+   "def_es": "«¿Qué si algunos de ellos han sido incrédulos?», «si fuéremos infieles».",
+   "def_sv": "”Om några av dem har varit trolösa”, ”om vi är trolösa”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ローマ3:3、テモテ第二2:13。「信じない」か「不誠実である」かは争われており決定しない。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n41016011009": "1",
+  "n41016016008": "1",
+  "n42024011011": "1",
+  "n42024041003": "1",
+  "n44028024009": "1",
+  "n45003003004": "2",
+  "n55002013002": "2",
+  "n60002007007": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（信じない／解釈の分かれる箇所）による。"
+}

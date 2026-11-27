@@ -1,0 +1,56 @@
+{
+ "lemma": "ὑπομιμνῄσκω",
+ "lemmaId": "grc:G5279",
+ "strong": "G5279",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "思い出させる",
+   "label_en": "to remind",
+   "label_es": "recordar (a otro)",
+   "label_sv": "att påminna",
+   "def": "思い出させる、気づかせる。『これらのことをあなたがたに思い出させたい』『これらのことを思い出させ』『その行いを取り上げて』『あなたがたに思い出させてくださる』『あなたがたに思い出させたい』『人々に思い出させなさい』。",
+   "def_en": "To remind, to bring to someone’s notice: “I want to remind you of these things”, “remind them of these things”, “bringing up what he is doing”, “will remind you”, “I want to remind you”, “remind people”.",
+   "def_es": "Hacer recordar, advertir: «quiero recordaros estas cosas», «recuérdales esto», «recordaré las obras que hace», «os recordará», «quiero recordaros», «recuérdales».",
+   "def_sv": "Att erinra, att göra uppmärksam: ”jag vill påminna er om detta”, ”påminn dem om detta”, ”ta upp vad han gör”, ”skall påminna er”, ”jag vill påminna er”, ”påminn människorna”.",
+   "layers": {
+    "nt": 6,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ペテロ第二1:12、テモテ第二2:14、ヨハネ第三10、ヨハネ14:26、ユダ5、テトス3:1。LXX（18.22・18.14）、教父（7.1）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "思い出す（受動）",
+   "label_en": "to remember (passive)",
+   "label_es": "acordarse (pasiva)",
+   "label_sv": "att minnas (passiv)",
+   "def": "思い出される、思い起こす。『ペテロは…主のことばを思い出した』。",
+   "def_en": "To be reminded, to call to mind: “Peter … remembered the word of the Lord”.",
+   "def_es": "Venir a la memoria, recordar: «Pedro … se acordó de la palabra del Señor».",
+   "def_sv": "Att bli påmind, att komma ihåg: ”Petrus … kom ihåg Herrens ord”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ルカ22:61。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42022061009": "2",
+  "n43014026021": "1",
+  "n55002014002": "1",
+  "n56003001001": "1",
+  "n61001012005": "1",
+  "n64001010005": "1",
+  "n65001005001": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（思い出させる／思い出す）による。"
+}

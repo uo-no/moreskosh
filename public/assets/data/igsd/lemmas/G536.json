@@ -1,0 +1,75 @@
+{
+ "lemma": "ἀπαρχή",
+ "lemmaId": "grc:G536",
+ "strong": "G536",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "初穂",
+   "label_en": "firstfruits",
+   "label_es": "primicias",
+   "label_sv": "förstling / förstlingsfrukt",
+   "def": "初穂、最初に実ったもの（ささげ物）。『眠った者の初穂としてよみがえられた』『初穂のキリスト』『被造物の初穂』『小羊に献げられた初穂』『パン粉の初穂が聖なるものなら』『御霊の初穂を持っているわたしたち』。",
+   "def_en": "Firstfruits, what ripens first (as an offering): “raised as the firstfruits of those who have fallen asleep”, “Christ the firstfruits”, “a kind of firstfruits of his creatures”, “offered as firstfruits to the Lamb”, “if the dough offered as firstfruits is holy”, “we who have the firstfruits of the Spirit”.",
+   "def_es": "Primicias, lo primero que madura (ofrenda): «ha resucitado, primicias de los que durmieron», «Cristo las primicias», «primicias de sus criaturas», «primicias para el Cordero», «si las primicias de la masa son santas», «nosotros que tenemos las primicias del Espíritu».",
+   "def_sv": "Förstlingen, det som mognar först (som offergåva): ”uppstånden som den förste av de insomnade”, ”Kristus förstlingen”, ”ett slags förstlingsfrukt bland hans skapade”, ”en förstlingsgåva åt Lammet”, ”är förstlingsbrödet heligt”, ”vi som har fått Anden som en första gåva”.",
+   "layers": {
+    "nt": 6,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰコリ15:20・15:23、ヤコブ1:18、黙示録14:4、ローマ11:16・8:23。LXX 民数記18:8・エゼキエル48:10、教父（13.5、42.4）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "最初の信者（初穂）",
+   "label_en": "first converts (firstfruits)",
+   "label_es": "primer creyente (primicias)",
+   "label_sv": "de första troende (förstlingen)",
+   "def": "ある地方で最初に信じた者。『ステパナの家族はアカヤの初穂』『アジヤで最初にキリストを信じた者』。",
+   "def_en": "Those who were the first to believe in a region: “the household of Stephanas, the firstfruits of Achaia”, “the first in Asia to believe in Christ”.",
+   "def_es": "El primero en creer en una región: «la casa de Estéfanas es las primicias de Acaya», «el primer fruto de Asia para Cristo».",
+   "def_sv": "Den som först kom till tro i ett område: ”Stefanas familj, förstlingen i Akaia”, ”den förste i Asien som kom till tro på Kristus”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "Ⅰコリ16:15、ローマ16:5。語義1との境界は連続的。LXX 代表例に並行。教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "初め（異読を含む）",
+   "label_en": "beginning (including a variant reading)",
+   "label_es": "principio (con variante textual)",
+   "label_sv": "början (inbegripet en läsart)",
+   "def": "初めから、最初に。『神は初めからあなたがたを救いに選ばれた』（Ⅱテサ2:13）。",
+   "def_en": "From the beginning, at first: “God chose you from the beginning for salvation” (2 Thess 2:13).",
+   "def_es": "Desde el principio: «Dios os escogió desde el principio para salvación» (2 Ts 2:13).",
+   "def_sv": "Från början, först: ”Gud har från början utvalt er till frälsning” (2 Thess 2:13).",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "Ⅱテサ2:13 の1例のみ（異読あり）。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n45008023008": "1",
+  "n45011016004": "1",
+  "n45016005014": "2",
+  "n46015020007": "1",
+  "n46015023007": "1",
+  "n46016015011": "2",
+  "n53002013019": "3",
+  "n59001018010": "1",
+  "n66014004024": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法による。"
+}

@@ -1,0 +1,102 @@
+{
+ "lemma": "διακρίνω",
+ "lemmaId": "grc:G1252",
+ "strong": "G1252",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "区別する／見分ける／判別する",
+   "label_en": "to distinguish / discern",
+   "label_es": "distinguir / discernir",
+   "label_sv": "att göra skillnad / urskilja",
+   "def": "違いを見分けて区別する、判別する。『体を見分ける』『何の差別もしない』『天の様子を見分ける』。",
+   "def_en": "To make out a difference and distinguish, to discern: “discerning the body”, “made no distinction”, “discern the appearance of the sky”.",
+   "def_es": "Advertir la diferencia y distinguir, discernir: «discernir el cuerpo», «no hizo ninguna diferencia», «distinguir el aspecto del cielo».",
+   "def_sv": "Att se skillnaden och skilja åt, att urskilja: ”urskilja kroppen”, ”gjorde ingen skillnad”, ”tyda himlens utseende”.",
+   "layers": {
+    "nt": 8,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒11:12・15:9（区別をしない）、Ⅰコリ4:7（だれがあなたを区別したのか）・11:29・31（主の体を見分ける・自分を吟味する）・14:29（預言を吟味する）、マタイ16:3（空模様を見分ける）、ヤコブ2:4（差別をつける）。LXX・教父に並行。"
+  },
+  {
+   "id": "2",
+   "label": "裁定する／裁く（争いを）",
+   "label_en": "to adjudicate / judge (a dispute)",
+   "label_es": "dirimir / juzgar (un pleito)",
+   "label_sv": "att avgöra / döma (en tvist)",
+   "def": "争い・事柄を裁く、仲裁して決する。『兄弟の間を裁く者』。",
+   "def_en": "To judge a dispute or matter, to arbitrate and decide: “one who can judge between brothers”.",
+   "def_es": "Juzgar un pleito o asunto, arbitrar y decidir: «quien juzgue entre sus hermanos».",
+   "def_sv": "Att döma i en tvist eller sak, att medla och avgöra: ”någon som kan döma mellan bröder”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "Ⅰコリ6:5（兄弟の間を裁くことのできる賢い者）。LXX 出エジプト・箴言系に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+  },
+  {
+   "id": "3",
+   "label": "疑う／ためらう／迷う（中動・受動）",
+   "label_en": "to doubt / hesitate / waver (middle, passive)",
+   "label_es": "dudar / vacilar (voz media y pasiva)",
+   "label_sv": "att tvivla / tveka (medium, passiv)",
+   "def": "心が定まらずに疑う、ためらう、疑念を抱く。信仰において『疑わずに』の形が多い。",
+   "def_en": "To be unsettled and doubt, hesitate, harbour misgivings. Often in the form “without doubting” in connection with faith.",
+   "def_es": "No estar firme y dudar, titubear, abrigar recelos. A menudo en la forma «sin dudar» referida a la fe.",
+   "def_sv": "Att vara obeslutsam och tvivla, tveka, hysa betänkligheter. Ofta i formen ”utan att tvivla” i fråga om tron.",
+   "layers": {
+    "nt": 8,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "マタイ21:21・マルコ11:23（疑わず信じるなら）、ローマ4:20（不信仰によって疑わず）・14:23（疑いながら食べる者）、ヤコブ1:6（2回）、ユダ22、使徒10:20（ためらうことなく）。教父（ヘルマス7.1.6 ほか）に並行。LXX の代表例では確認していない。"
+  },
+  {
+   "id": "4",
+   "label": "論争する／非難する／争う（中動）",
+   "label_en": "to dispute / criticize / contend (middle)",
+   "label_es": "disputar / reprochar / contender (voz media)",
+   "label_sv": "att tvista / klandra / strida (medium)",
+   "def": "互いに言い争う、非難する、論争する。",
+   "def_en": "To argue with one another, criticize, dispute.",
+   "def_es": "Discutir entre sí, reprochar, contender.",
+   "def_sv": "Att gräla med varandra, klandra, tvista.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒11:2（割礼を受けた者たちが彼を非難した）、ユダ9（モーセの遺体について悪魔と論争した）。語義3との境界は連続的（中動の『争う』と『疑う』）。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40016003016": "1",
+  "n40021021015": "3",
+  "n41011023019": "3",
+  "n44010020009": "3",
+  "n44011002007": "4",
+  "n44011012009": "1",
+  "n44015009003": "1",
+  "n45004020008": "3",
+  "n45014023003": "3",
+  "n46004007004": "1",
+  "n46006005014": "2",
+  "n46011029012": "1",
+  "n46011031004": "1",
+  "n46014029010": "1",
+  "n59001006006": "3",
+  "n59001006009": "3",
+  "n59002004002": "1",
+  "n65001009009": "4",
+  "n65001022005": "3"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

@@ -1,0 +1,54 @@
+{
+ "lemma": "διαρρήγνυμι",
+ "lemmaId": "grc:G1284",
+ "strong": "G1284",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "引き裂く（衣を）",
+   "label_en": "to tear (one’s clothes)",
+   "label_es": "rasgar (las vestiduras)",
+   "label_sv": "att riva sönder (kläderna)",
+   "def": "衣を引き裂く。『衣を引き裂き』『衣を引き裂いて』。",
+   "def_en": "To tear one’s garments: “tearing their garments”, “tore his robes”.",
+   "def_es": "Rasgar la ropa: «rasgando sus ropas», «rasgando sus vestiduras».",
+   "def_sv": "Att riva sönder sina kläder: ”rev sönder sina kläder”, ”slet sönder sina kläder”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒14:14、マタイ26:65、マルコ14:63。LXX に並行。教父の代表例では確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "破れる・引きちぎる",
+   "label_en": "to break, to snap",
+   "label_es": "romperse, hacer pedazos",
+   "label_sv": "att brista, att slita sönder",
+   "def": "網が破れる、鎖を断ち切る。『網が破れそうになった』『鎖を断ち切り』。",
+   "def_en": "For nets to break; to snap chains: “the nets were about to break”, “broke the chains”.",
+   "def_es": "Romperse las redes; romper cadenas: «la red se rompía», «rompiendo las cadenas».",
+   "def_sv": "Att nät går sönder; att slita av kedjor: ”näten var nära att brista”, ”slet av bojorna”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ルカ5:6・8:29。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40026065004": "1",
+  "n41014063004": "1",
+  "n42005006008": "2",
+  "n42008029023": "2",
+  "n44014014008": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（衣を引き裂く／網・鎖が破れる）による。"
+}

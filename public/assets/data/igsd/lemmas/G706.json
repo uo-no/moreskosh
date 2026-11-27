@@ -1,0 +1,67 @@
+{
+ "lemma": "ἀριθμός",
+ "lemmaId": "grc:G706",
+ "strong": "G706",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "数（員数・総数）",
+   "label_en": "number (count, total)",
+   "label_es": "número (cantidad, total)",
+   "label_sv": "antal (mängd, totalsumma)",
+   "def": "人・もの・軍勢の数、総数、員数。『弟子の数が増えた』『男の数は五千人』『数えきれない数』『浜の砂のような数』。",
+   "def_en": "The number, total, or tally of people, things, or an army: “the number of the disciples increased”, “the number of the men was five thousand”, “a number no one could count”, “as numerous as the sand of the shore”.",
+   "def_es": "El número, total o cómputo de personas, cosas o ejércitos: «aumentaba el número de los discípulos», «el número de los hombres era de cinco mil», «un número incontable», «como la arena de la playa».",
+   "def_sv": "Antalet, summan eller räkningen av människor, ting eller härar: ”lärjungarnas antal ökade”, ”männen var till antalet fem tusen”, ”ett antal ingen kunde räkna”, ”som sanden på stranden”.",
+   "layers": {
+    "nt": 13,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒4:4・5:36・6:7・11:21・16:5、ヨハネ6:10、ルカ22:3（十二人の数の一人）、ローマ9:27（浜の砂のような数）、黙示録5:11・7:4・9:16（2回）・20:8。LXX 民数記3:27、教父（Ⅰクレメンス29.2）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "数（名・獣の数）",
+   "label_en": "number (of the name; number of the beast)",
+   "label_es": "número (del nombre, el de la bestia)",
+   "label_sv": "tal (namnets tal, vilddjurets tal)",
+   "def": "獣の名や名の数字、獣の数。『その名の数字』『人間の数字』。",
+   "def_en": "The number of the beast's name or of the name's letters, the number of the beast: “the number of its name”, “a human number”.",
+   "def_es": "El número del nombre de la bestia o de sus letras, el número de la bestia: «el número de su nombre», «número de hombre».",
+   "def_sv": "Vilddjurets namn eller namnets sifferbokstäver, vilddjurets tal: ”namnets tal”, ”en människas tal”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "黙示録13:17・13:18（3回）・15:2（その名の数に打ち勝った者たち）。LXX・教父の代表例では確認していない。語義1との境界は連続的（人数でなく、数としての記号的な数）。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42022003012": "1",
+  "n43006010020": "1",
+  "n44004004011": "1",
+  "n44005036015": "1",
+  "n44006007010": "1",
+  "n44011021009": "1",
+  "n44016005011": "1",
+  "n45009027010": "1",
+  "n66005011020": "1",
+  "n66007004004": "1",
+  "n66009016003": "1",
+  "n66009016012": "1",
+  "n66013017021": "2",
+  "n66013018010": "2",
+  "n66013018013": "2",
+  "n66013018019": "2",
+  "n66015002022": "2",
+  "n66020008024": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

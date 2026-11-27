@@ -1,0 +1,56 @@
+{
+ "lemma": "ῥίπτω",
+ "lemmaId": "grc:G4496",
+ "strong": "G4496",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "投げる・投げ捨てる",
+   "label_en": "to throw, to throw down",
+   "label_es": "arrojar, tirar",
+   "label_sv": "att kasta, att slänga",
+   "def": "投げる、投げ捨てる、投げ出す。『銀貨を宮に投げ込んで』『積み荷を海へ投げ捨てた』『錨を四つ投げ入れ』『海に投げ込まれる方がましだ』『汚れた霊は彼を人々の中に投げ倒し』。",
+   "def_en": "To throw, to throw away, to fling down: “threw the silver coins into the temple”, “threw the cargo into the sea”, “let down four anchors”, “it would be better to be thrown into the sea”, “the unclean spirit threw him down in front of the people”.",
+   "def_es": "Arrojar, tirar, echar fuera: «arrojando las monedas de plata en el templo», «echaron al mar la carga», «echaron cuatro anclas», «mejor le sería ser arrojado al mar», «el espíritu inmundo lo derribó en medio de la gente».",
+   "def_sv": "Att kasta, kasta bort, slunga ut: ”kastade silvermynten i templet”, ”kastade lasten i havet”, ”fällde fyra ankare”, ”det vore bättre att bli kastad i havet”, ”den orene anden kastade omkull honom mitt bland människorna”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "マタイ27:5、使徒27:19・27:29、ルカ17:2・4:35。LXX（6.13・9.25）、教父（3.5.5）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "横たえる・打ち捨てられている",
+   "label_en": "to lay down, to be cast down",
+   "label_es": "poner, estar postrado",
+   "label_sv": "att lägga ner, att ligga övergiven",
+   "def": "人を横たえる、投げ出されている状態。『人々は…足もとに置いた』『弱り果てて倒れている』。",
+   "def_en": "To lay a person down; the state of lying thrown down: “they … laid them at his feet”, “they were harassed and lying helpless”.",
+   "def_es": "Tender a una persona; estado de quien yace abatido: «los … pusieron a sus pies», «estaban desamparados y echados por tierra».",
+   "def_sv": "Att lägga ner en människa; tillståndet att ligga utkastad: ”de … lade dem vid hans fötter”, ”de låg medtagna och hjälplösa”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ15:30・9:36。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40009036012": "2",
+  "n40015030017": "2",
+  "n40027005002": "1",
+  "n42004035013": "1",
+  "n42017002012": "1",
+  "n44027019009": "1",
+  "n44027029011": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（投げる／横たえる・投げ出された状態）による。"
+}

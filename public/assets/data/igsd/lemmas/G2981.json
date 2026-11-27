@@ -1,0 +1,53 @@
+{
+ "lemma": "λαλιά",
+ "lemmaId": "grc:G2981",
+ "strong": "G2981",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "話・語ること",
+   "label_en": "talk, what is said",
+   "label_es": "dicho, palabra",
+   "label_sv": "tal, det sagda",
+   "def": "語られたこと、話。『あなたの話によるのではない』『わたしの話がわからないのか』。",
+   "def_en": "What is spoken; talk: “it is no longer because of what you said”, “do you not understand what I am saying”.",
+   "def_es": "Lo hablado, la conversación: «ya no es por lo que tú has dicho», «¿no entendéis lo que digo?».",
+   "def_sv": "Det som sägs, pratet: ”det är inte längre för det du sade”, ”förstår ni inte vad jag säger”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ヨハネ4:42・8:43。LXX、教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "なまり・話しぶり",
+   "label_en": "accent, manner of speech",
+   "label_es": "habla, acento",
+   "label_sv": "dialekt, uttal",
+   "def": "話しぶり、なまり。『言葉づかいでわかる』『言葉のなまりで』。",
+   "def_en": "A way of speaking, an accent: “your way of speaking gives you away”, “by your accent”.",
+   "def_es": "Manera de hablar, acento: «tu manera de hablar te descubre», «por tu acento».",
+   "def_sv": "Sätt att tala, brytning: ”det hörs på ditt sätt att tala”, ”på din dialekt”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ26:73、マルコ14:70。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40026073019": "2",
+  "n41014070024": "2",
+  "n43004042010": "1",
+  "n43008043004": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（語られたこと／なまり）による。"
+}

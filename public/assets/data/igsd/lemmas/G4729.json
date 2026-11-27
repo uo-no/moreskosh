@@ -1,0 +1,52 @@
+{
+ "lemma": "στενοχωρέομαι",
+ "lemmaId": "grc:G4729",
+ "strong": "G4729",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "狭められる",
+   "label_en": "to be restricted",
+   "label_es": "estar estrechado",
+   "label_sv": "att ha det trångt",
+   "def": "狭められる、窮屈にされる。『あなたがたの心の中で狭められている』。",
+   "def_en": "To be narrowed, to be cramped: “you are cramped in your own hearts”.",
+   "def_es": "Estar estrecho, sin holgura: «estáis estrechos en vuestro propio corazón».",
+   "def_sv": "Att vara inskränkt, att få trångt utrymme: ”det är trångt i era egna hjärtan”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "コリント第二6:12（2回）。LXX・教父の代表例では確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "圧迫される",
+   "label_en": "to be hard pressed",
+   "label_es": "estar angustiado",
+   "label_sv": "att vara trängd",
+   "def": "追い詰められる、苦しめられる。『四方から患難を受けても窮しない』。",
+   "def_en": "To be driven into straits, to be distressed: “hard pressed on every side but not crushed”.",
+   "def_es": "Verse acorralado, ser oprimido: «atribulados en todo, mas no angustiados».",
+   "def_sv": "Att bli ansatt, att vara i trångmål: ”ansatta från alla håll men inte utan utväg”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "コリント第二4:8。LXX、教父に並行。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n47004008006": "2",
+  "n47006012002": "1",
+  "n47006012005": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（狭められる／圧迫される）による。"
+}

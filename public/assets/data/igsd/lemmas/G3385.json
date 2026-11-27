@@ -1,0 +1,100 @@
+{
+ "lemma": "μήτι",
+ "lemmaId": "grc:G3385",
+ "strong": "G3385",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "まさか〜ではないでしょう（否定の答えを期待する問い）",
+   "label_en": "surely not …? (expecting “no”)",
+   "label_es": "¿acaso …? (se espera «no»)",
+   "label_sv": "inte skulle väl …? (väntar nej)",
+   "def": "否定の答えを予期して問う疑問小辞。『まさか〜ではあるまい』『〜でしょうか（いいえ）』。",
+   "def_en": "An interrogative particle that asks while expecting a negative answer: “surely it is not …?”, “is it …? (no)”.",
+   "def_es": "Partícula interrogativa que pregunta previendo respuesta negativa: «¿no será que …?», «¿acaso …? (no)».",
+   "def_sv": "En frågepartikel som frågar i väntan på ett nekande svar: ”det är väl inte …?”, ”skulle …? (nej)”.",
+   "layers": {
+    "nt": 11,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "マタイ7:16・26:22・25（まさかわたしではないでしょう）、マルコ4:21・14:19、ルカ6:39、ヨハネ8:22・18:35、使徒10:47、Ⅱコリ12:18、ヤコブ3:11。LXX 申命記3:8 に近い用例、教父（ヘルマス3.10.8）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "もしかして〜か（ためらいがちの問い）",
+   "label_en": "could this perhaps be …? (hesitant)",
+   "label_es": "¿será acaso …? (con vacilación)",
+   "label_sv": "kan det möjligen vara …? (tveksam fråga)",
+   "def": "驚きや半信半疑のまま、『もしかして、この人が〜ではないか』と問う。",
+   "def_en": "Asks, in surprise or half belief, “Could it be that this person is …?”",
+   "def_es": "Con sorpresa o entre la duda, pregunta: «¿No será este …?».",
+   "def_sv": "I förvåning eller halvt tvivel frågas: ”Kan det möjligen vara så att denne är …?”",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ12:23（この人がダビデの子ではないか）、ヨハネ4:29（この人がキリストではないだろうか）。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "〜でない限り／〜かもしれないとき（εἰ μήτι）",
+   "label_en": "unless / unless perhaps (εἰ μήτι)",
+   "label_es": "a no ser que (εἰ μήτι)",
+   "label_sv": "såvida inte (εἰ μήτι)",
+   "def": "『εἰ μήτι』の形で『〜でない限り』『もしかして〜でなければ』を表す。",
+   "def_en": "In the form “εἰ μήτι”, expresses “unless …”, “unless perhaps …”.",
+   "def_es": "En la forma «εἰ μήτι» expresa «a no ser que …», «salvo que acaso …».",
+   "def_sv": "I formen ”εἰ μήτι” uttrycker ”såvida inte …”, ”om inte möjligen …”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "Ⅰコリ7:5（合意による場合のほかは）、ルカ9:13（食物を買いに行かない限り）、Ⅱコリ13:5（あなたがたが不適格者でないなら）。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "4",
+   "label": "まさか〜でしょうか（μήτι ἄρα）",
+   "label_en": "did I then perhaps …? (μήτι ἄρα)",
+   "label_es": "¿acaso entonces …? (μήτι ἄρα)",
+   "label_sv": "handlade jag då kanske …? (μήτι ἄρα)",
+   "def": "『μήτι ἄρα』の形で、『それとも、わたしは軽率に〜したのでしょうか』と、半ば自問する問い。",
+   "def_en": "In the form “μήτι ἄρα”, a half self-questioning query: “Or did I act lightly …?”",
+   "def_es": "En la forma «μήτι ἄρα», pregunta casi dirigida a uno mismo: «¿O bien obré con ligereza …?».",
+   "def_sv": "I formen ”μήτι ἄρα” en halvt självrannsakande fråga: ”Eller handlade jag lättsinnigt …?”",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "Ⅱコリ1:17（わたしは軽々しくそうしたのだろうか）の1例のみ。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40007016007": "1",
+  "n40012023008": "2",
+  "n40026022009": "1",
+  "n40026025008": "1",
+  "n41004021004": "1",
+  "n41014019009": "1",
+  "n42006039006": "1",
+  "n42009013023": "3",
+  "n43004029010": "2",
+  "n43008022005": "1",
+  "n43018035004": "1",
+  "n44010047001": "1",
+  "n46007005005": "3",
+  "n47001017004": "4",
+  "n47012018007": "1",
+  "n47013005020": "3",
+  "n59003011001": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

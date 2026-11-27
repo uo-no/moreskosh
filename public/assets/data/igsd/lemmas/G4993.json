@@ -1,0 +1,55 @@
+{
+ "lemma": "σωφρονέω",
+ "lemmaId": "grc:G4993",
+ "strong": "G4993",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "正気である",
+   "label_en": "to be in one’s right mind",
+   "label_es": "estar en su juicio cabal",
+   "label_sv": "att vara vid sina sinnen",
+   "def": "正気である、気が確かである。『着物を着て、正気になってすわっているのを見て』『正気になって』『わたしたちが正気であるなら、それはあなたがたのためである』。",
+   "def_en": "To be sane, to be in one’s senses: “saw him sitting, clothed and in his right mind”, “came to himself”, “if we are in our right mind, it is for you”.",
+   "def_es": "Estar cuerdo: «lo vieron sentado, vestido y en su juicio cabal», «en su juicio», «si somos cuerdos, es para vosotros».",
+   "def_sv": "Att vara klar i huvudet: ”såg honom sitta där påklädd och vid sina sinnen”, ”blivit klar i huvudet”, ”om vi är sansade är det för er skull”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マルコ5:15、ルカ8:35、コリント第二5:13。語義2との境界は連続的。LXX の用例なし。教父の代表例は節制の用法で、この語義としては確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "慎み深くある・節制する",
+   "label_en": "to be sober-minded, to be self-controlled",
+   "label_es": "ser prudente, dominarse",
+   "label_sv": "att vara besinningsfull",
+   "def": "慎み深くある、思慮を保つ、自制する。『慎み深く、身を慎んで』『思慮深く考えるべきである』『慎み深くあるようにすすめなさい』。",
+   "def_en": "To be sensible, to keep sound judgment, to restrain oneself: “be self-controlled and sober”, “to think with sober judgment”, “urge them to be self-controlled”.",
+   "def_es": "Ser sensato, pensar con cordura, tener dominio propio: «sed sobrios y prudentes», «que piense de sí con cordura», «exhórtales a que sean prudentes».",
+   "def_sv": "Att vara sansad, tänka klokt, behärska sig: ”var sansade och nyktra”, ”tänka förståndigt”, ”uppmana dem att vara behärskade”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "ペテロ第一4:7、ローマ12:3、テトス2:6。教父（4.3）に並行。LXX の用例なし。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n41005015013": "1",
+  "n42008035023": "1",
+  "n45012003024": "2",
+  "n47005013006": "1",
+  "n56002006005": "2",
+  "n60004007006": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "LXX の用例なし。語義区分は用法（正気／慎み・節制）による。"
+}

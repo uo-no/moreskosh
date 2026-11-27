@@ -1,0 +1,80 @@
+{
+ "lemma": "νήπιος",
+ "lemmaId": "grc:G3516",
+ "strong": "G3516",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "幼子／乳飲み子",
+   "label_en": "infant / little child",
+   "label_es": "niño / infante",
+   "label_sv": "litet barn / spädbarn",
+   "def": "幼い子、乳飲み子、未成年の者。『幼子たちの口から』『子どものとき』『跡取りは幼子であるうちは』。",
+   "def_en": "A small child, an infant, a minor: “out of the mouths of infants”, “when I was a child”, “as long as the heir is a child”.",
+   "def_es": "Niño pequeño, lactante, menor de edad: «de la boca de los niños», «cuando yo era niño», «mientras el heredero es niño».",
+   "def_sv": "Ett litet barn, ett spädbarn, en omyndig: ”barns och spädbarns mun”, ”när jag var barn”, ”så länge arvingen är omyndig”.",
+   "layers": {
+    "nt": 8,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "マタイ21:16、Ⅰコリ13:11（5回）、ガラテヤ4:1・4:3。LXX 詩篇114:6、教父（7.1.1、57.7）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "未熟な者（霊的に）",
+   "label_en": "the immature (spiritually)",
+   "label_es": "inmaduro (espiritualmente)",
+   "label_sv": "omogen (andligt)",
+   "def": "霊的に未熟な者、幼稚な者。『キリストにある幼子』『乳だけを飲む者』『もはや子どもではなく』『幼子の教師』。",
+   "def_en": "One who is spiritually immature or childish: “infants in Christ”, “living on milk”, “no longer children”, “a teacher of children”.",
+   "def_es": "El inmaduro o infantil en lo espiritual: «niños en Cristo», «el que participa de la leche», «que ya no seamos niños», «maestro de niños».",
+   "def_sv": "Den andligt omogne och barnslige: ”spädbarn i Kristus”, ”den som lever på mjölk”, ”inte längre barn”, ”lärare för omyndiga”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "Ⅰコリ3:1、エペソ4:14、ヘブル5:13、ローマ2:20。LXX 詩篇18:8・箴言1:32 に並行。教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "単純な者／幼子のような者（啓示を受ける）",
+   "label_en": "the simple / childlike (receiving revelation)",
+   "label_es": "el sencillo / como niño (que recibe revelación)",
+   "label_sv": "de enkla / de som är som barn (får uppenbarelse)",
+   "def": "学識のない者、単純な者。『知者や賢い者には隠し、幼子にあらわされた』。",
+   "def_en": "The unlearned, the simple: “hidden from the wise and understanding and revealed to little children”.",
+   "def_es": "El sin letras, el sencillo: «escondiste estas cosas de los sabios y las revelaste a los niños».",
+   "def_sv": "De olärda och enkla: ”dolt för de visa och uppenbarat det för de små”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マタイ11:25、ルカ10:21。語義2との境界は連続的。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40011025028": "3",
+  "n40021016019": "1",
+  "n42010021031": "3",
+  "n45002020004": "2",
+  "n46003001013": "2",
+  "n46013011003": "1",
+  "n46013011006": "1",
+  "n46013011009": "1",
+  "n46013011012": "1",
+  "n46013011019": "1",
+  "n48004001008": "1",
+  "n48004003006": "1",
+  "n49004014004": "2",
+  "n58005013009": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（年齢／未熟／単純）による。"
+}

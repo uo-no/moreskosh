@@ -1,0 +1,52 @@
+{
+ "lemma": "συμπληρόω",
+ "lemmaId": "grc:G4845",
+ "strong": "G4845",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "満ちる・満たされる",
+   "label_en": "to be filled",
+   "label_es": "llenarse",
+   "label_sv": "att fyllas",
+   "def": "満たされる。『水でいっぱいになり』。",
+   "def_en": "To be filled: “were being filled with water”.",
+   "def_es": "Quedar lleno: «se anegaban».",
+   "def_sv": "Att bli full: ”fylldes med vatten”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ルカ8:23。LXX・教父の用例なし。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "（日が）満ちる",
+   "label_en": "(of days) to be fulfilled",
+   "label_es": "cumplirse (el plazo)",
+   "label_sv": "(om dagar) att vara inne",
+   "def": "日が満ちる、時が満ちる。『五旬節の日が満ちて』『日が満ちるころ』。",
+   "def_en": "For the days or the time to be completed: “when the day of Pentecost had fully come”, “as the days were drawing to completion”.",
+   "def_es": "Llegar a cumplirse los días o el tiempo: «cuando llegó el día de Pentecostés», «cuando se cumplió el tiempo».",
+   "def_sv": "Att dagarna eller tiden fullbordas: ”när pingstdagen var inne”, ”när tiden närmade sig”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒2:1、ルカ9:51。LXX・教父の用例なし。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42008023013": "1",
+  "n42009051005": "2",
+  "n44002001004": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法による。"
+}

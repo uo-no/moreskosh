@@ -1,0 +1,61 @@
+{
+ "lemma": "φονεύω",
+ "lemmaId": "grc:G5407",
+ "strong": "G5407",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "殺してはならない（十戒の句）",
+   "label_en": "you shall not murder (commandment)",
+   "label_es": "no matarás (mandamiento)",
+   "label_sv": "du ska inte dräpa (budet)",
+   "def": "十戒の禁令『殺してはならない』の中の用法。『殺してはならない』『殺すな』。",
+   "def_en": "The use in the prohibition of the Ten Commandments, “You shall not murder”: “you shall not murder”, “do not murder”.",
+   "def_es": "Uso en la prohibición del Decálogo «no debes matar»: «no debes matar», «no mates».",
+   "def_sv": "Bruket i dekalogens förbud ”du får inte dräpa”: ”du får inte dräpa”, ”dräp inte”.",
+   "layers": {
+    "nt": 7,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ヤコブ2:11（2回）、ルカ18:20、マタイ19:18・5:21（1回目）、マルコ10:19、ローマ13:9。LXX 出エジプト記20:13、教父（2.2、19.5）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "殺す／人殺しをする",
+   "label_en": "to kill / commit murder",
+   "label_es": "matar / cometer homicidio",
+   "label_sv": "att döda / mörda",
+   "def": "人を殺す、人殺しをする。『あなたがたは殺す』『義人を殺した』『預言者を殺した者の子孫』『人を殺す者は裁きを受ける』。",
+   "def_en": "To kill a person, to murder: “you murder”, “you have murdered the righteous”, “sons of those who murdered the prophets”, “whoever murders will be liable to judgment”.",
+   "def_es": "Matar a una persona, asesinar: «matáis», «habéis dado muerte al justo», «hijos de los que mataron a los profetas», «cualquiera que matare será culpable de juicio».",
+   "def_sv": "Att döda en människa, begå mord: ”ni mördar”, ”ni har dödat den rättfärdige”, ”söner till dem som dödade profeterna”, ”den som dödar ska dömas”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ヤコブ4:2・5:6、マタイ23:31・23:35・5:21（2回目）。LXX 民数記35:21・ヨシュア20:6、教父に並行。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40005021007": "1",
+  "n40005021011": "2",
+  "n40019018010": "1",
+  "n40023031008": "2",
+  "n40023035025": "2",
+  "n41010019005": "1",
+  "n42018020007": "1",
+  "n45013009006": "1",
+  "n59002011009": "1",
+  "n59002011014": "1",
+  "n59004002005": "2",
+  "n59005006002": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（十戒の禁令／殺害の行為）による。"
+}

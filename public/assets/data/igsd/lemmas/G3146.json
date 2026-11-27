@@ -1,0 +1,56 @@
+{
+ "lemma": "μαστιγόω",
+ "lemmaId": "grc:G3146",
+ "strong": "G3146",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "むち打つ",
+   "label_en": "to flog, to scourge",
+   "label_es": "azotar",
+   "label_sv": "att gissla",
+   "def": "むちで打つ（刑罰として）。『会堂で彼らをむち打つ』『ピラトはイエスを捕えてむち打たせた』『彼を侮辱し、むち打ち』『彼を異邦人に引き渡して、あざけり、むち打ち』『会堂でむち打ち』『彼らはむち打ち、殺す』。",
+   "def_en": "To beat with a whip (as a punishment): “they will flog them in the synagogues”, “Pilate took Jesus and had him scourged”, “they will mock him and scourge him”, “hand him over to the Gentiles to be mocked and scourged”, “scourge them in the synagogues”, “they will scourge and kill”.",
+   "def_es": "Golpear con azotes (como castigo): «los azotarán en las sinagogas», «Pilato tomó a Jesús y le azotó», «le escarnecerán y le azotarán», «le entregarán a los gentiles para que le escarnezcan y le azoten», «azotaréis en las sinagogas», «azotarán y matarán».",
+   "def_sv": "Att slå med gissel (som straff): ”de skall gissla dem i synagogorna”, ”Pilatus tog Jesus och lät gissla honom”, ”de skall håna honom och gissla honom”, ”utlämna honom åt hedningarna för att hånas och gisslas”, ”gissla i synagogorna”, ”de skall gissla och döda”.",
+   "layers": {
+    "nt": 6,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ヨハネ19:1、ルカ18:33、マタイ10:17・20:19・23:34、マルコ10:34。LXX（3.9・3.34）に並行。教父の代表例は懲らしめの用法で、この語義としては確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "懲らしめる（神が子を）",
+   "label_en": "to chastise (God, of a son)",
+   "label_es": "castigar (Dios al hijo)",
+   "label_sv": "att tukta (Gud sin son)",
+   "def": "神が愛する者をむちで懲らしめる。『主はその愛する者を訓練し、受け入れるすべての子を懲らしめられる』。",
+   "def_en": "God disciplining with the rod the one God loves: “the Lord disciplines the one he loves and chastises every son whom he receives”.",
+   "def_es": "Dios corrige con azote a quien ama: «el Señor disciplina al que ama y azota a todo el que recibe por hijo».",
+   "def_sv": "Gud tuktar med riset den han älskar: ”Herren fostrar den han älskar och agar varje son han tar sig an”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "ヘブル12:6（箴言3:12の引用）。教父（56.4）に並行。語義1との境界は連続的。LXX の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40010017016": "1",
+  "n40020019010": "1",
+  "n40023034021": "1",
+  "n41010034008": "1",
+  "n42018033002": "1",
+  "n43019001009": "1",
+  "n58012006006": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（むち打ちの刑／懲らしめ）による。"
+}

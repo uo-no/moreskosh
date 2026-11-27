@@ -1,0 +1,85 @@
+{
+ "lemma": "παράπτωμα",
+ "lemmaId": "grc:G3900",
+ "strong": "G3900",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "過ち／罪過（個々の違反）",
+   "label_en": "trespass / wrongdoing (individual)",
+   "label_es": "falta / transgresión (acto concreto)",
+   "label_sv": "överträdelse / felsteg (enskild)",
+   "def": "人の個々の違反行為、過ち、あやまち。赦される対象、律法の入り込みによって増し加わるもの。",
+   "def_en": "A person's individual acts of transgression, a fault or lapse: the object of forgiveness, what increases when the law comes in.",
+   "def_es": "Cada acto de transgresión de una persona, un yerro o caída: lo que se perdona, lo que abunda al introducirse la ley.",
+   "def_sv": "Människans enskilda överträdelser och felsteg: det som förlåts, det som blir större när lagen kommer in.",
+   "layers": {
+    "nt": 13,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "マタイ6:14・15、マルコ11:25（人の過ちを赦す）、ローマ4:25・5:16・20、Ⅱコリ5:19（過ちを数えず）、ガラテヤ6:1（もし人が過ちに陥ったなら）、エペソ1:7・2:1・5、コロサイ2:13（2回）。LXX エゼキエル、教父（Ⅰクレメンス2.6・ヘルマス4.14）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "（一人の）違反（アダムの）",
+   "label_en": "the one trespass (of Adam)",
+   "label_es": "la transgresión de uno (de Adán)",
+   "label_sv": "den enes överträdelse (Adams)",
+   "def": "ローマ5章で、『一人の違反』によって死が万人に及んだことを述べる語。",
+   "def_en": "In Romans 5, the word stating that through “the one man's trespass” death spread to all.",
+   "def_es": "En Romanos 5, la palabra con que se dice que por «la transgresión de uno» la muerte alcanzó a todos.",
+   "def_sv": "I Romarbrevet 5 ordet som anger att döden nådde alla genom ”en enda människas överträdelse”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ローマ5:15（2回）・17・18（一人の違反）。語義1との境界は連続的（指す出来事が一回的か）。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "（イスラエルの）つまずき／違反",
+   "label_en": "stumbling / trespass (of Israel)",
+   "label_es": "tropiezo / transgresión (de Israel)",
+   "label_sv": "fall / överträdelse (Israels)",
+   "def": "異邦人に救いが及ぶきっかけとなった、イスラエルの違反・つまずき。",
+   "def_en": "Israel's trespass and stumbling that became the occasion for salvation to reach the Gentiles.",
+   "def_es": "La transgresión y el tropiezo de Israel que dieron ocasión a que la salvación llegara a los gentiles.",
+   "def_sv": "Israels överträdelse och fall, som blev tillfället för frälsningen att nå hedningarna.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ローマ11:11・12（彼らの違反によって救いが異邦人に及び、彼らの違反が世界の富となる）。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40006014007": "1",
+  "n40006015013": "1",
+  "n41011025023": "1",
+  "n45004025005": "1",
+  "n45005015005": "2",
+  "n45005015015": "2",
+  "n45005016022": "1",
+  "n45005017006": "2",
+  "n45005018006": "2",
+  "n45005020007": "1",
+  "n45011011012": "3",
+  "n45011012004": "3",
+  "n47005019014": "1",
+  "n48006001008": "1",
+  "n49001007013": "1",
+  "n49002001006": "1",
+  "n49002005006": "1",
+  "n51002013007": "1",
+  "n51002013022": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

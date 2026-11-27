@@ -1,0 +1,74 @@
+{
+ "lemma": "γένημα",
+ "lemmaId": "grc:G1081",
+ "strong": "G1081",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "子孫／生まれたもの（まむしの子ら）",
+   "label_en": "offspring (brood of vipers)",
+   "label_es": "generación / cría (de víboras)",
+   "label_sv": "avföda / yngel (huggormsyngel)",
+   "def": "生まれたもの、子孫。『まむしの子ら』『まむしの子らよ、悪い者であるのに』『まむしの子ら、どうして地獄の刑罰を逃れられようか』。",
+   "def_en": "What is begotten, offspring: “you brood of vipers”, “you brood of vipers, how can you speak good when you are evil?”, “you brood of vipers, how are you to escape the sentence of hell?”",
+   "def_es": "Lo engendrado, la descendencia: «generación de víboras», «¡generación de víboras!, ¿cómo podéis hablar lo bueno siendo malos?», «generación de víboras, ¿cómo escaparéis de la condenación del infierno?».",
+   "def_sv": "Det som fötts, avkomman: ”ni huggormsyngel”, ”huggormsyngel, hur ska ni som är onda kunna säga något gott?”, ”huggormsyngel, hur ska ni kunna undgå att dömas till Gehenna?”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ルカ3:7、マタイ12:34・3:7・23:33。語義2との境界は連続的。LXX・教父の代表例では確認していない（LXX の用例は『産物』の意）。"
+  },
+  {
+   "id": "2",
+   "label": "産物／ぶどうの実",
+   "label_en": "produce / fruit of the vine",
+   "label_es": "producto / fruto de la vid",
+   "label_sv": "gröda / vinstockens frukt",
+   "def": "地の産物、ぶどうの実から作ったもの。『ぶどうの実から作ったものを飲む』『ぶどうの実』。",
+   "def_en": "The produce of the earth, what is made from the fruit of the vine: “drink of the fruit of the vine”, “the fruit of the vine”.",
+   "def_es": "El producto de la tierra, lo hecho del fruto de la vid: «beber del fruto de la vid», «el fruto de la vid».",
+   "def_sv": "Jordens avkastning, det som görs av vinstockens frukt: ”dricka av det vinstocken ger”, ”vinstockens frukt”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ルカ22:18、マタイ26:29、マルコ14:25。LXX 出エジプト記・レビ記19:25 に並行。教父の用例は無い。語義3との境界は連続的。"
+  },
+  {
+   "id": "3",
+   "label": "収穫",
+   "label_en": "harvest",
+   "label_es": "cosecha",
+   "label_sv": "skörd",
+   "def": "収穫、穀物の実り。『あなたがたの義の収穫を増してくださる』（Ⅱコリ9:10）。",
+   "def_en": "Harvest, the yield of grain: “will increase the harvest of your righteousness” (2 Cor 9:10).",
+   "def_es": "Cosecha, fruto de las mieses: «aumentará los frutos de vuestra justicia» (2 Co 9:10).",
+   "def_sv": "Skörden, sädens avkastning: ”ge er rättfärdighet en rik skörd” (2 Kor 9:10).",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "Ⅱコリ9:10 の1例のみ。語義2との境界は連続的。LXX 代表例に並行。教父の用例は無い。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40003007015": "1",
+  "n40012034001": "1",
+  "n40023033002": "1",
+  "n40026029012": "2",
+  "n41014025011": "2",
+  "n42003007009": "1",
+  "n42022018012": "2",
+  "n47009010020": "3"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法による。LXX の用例は産物の意で、『子孫』の用法は確認できない。教父の用例は無い。"
+}

@@ -1,0 +1,55 @@
+{
+ "lemma": "κακόω",
+ "lemmaId": "grc:G2559",
+ "strong": "G2559",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "虐げる・害する",
+   "label_en": "to mistreat, to harm",
+   "label_es": "maltratar, dañar",
+   "label_sv": "att förtrycka, att skada",
+   "def": "害を加える、虐げる。『もしあなたがたが善に熱心であるなら、だれがあなたがたに害を加えようか』『彼らを苦しめる』『先祖を苦しめ』『ヘロデ王は…ある者たちに手をくだして苦しめ』『だれもあなたに手を下して害を加える者はない』。",
+   "def_en": "To do harm, to oppress: “who is there to harm you if you are zealous for what is good”, “will mistreat them”, “mistreated our fathers”, “King Herod … laid hands on some to harm them”, “no one will attack you to harm you”.",
+   "def_es": "Hacer daño, oprimir: «¿quién es aquel que os podrá hacer daño, si seguís el bien?», «los maltratarán», «maltrató a nuestros padres», «el rey Herodes … echó mano a algunos para maltratarlos», «ninguno pondrá sobre ti la mano para hacerte mal».",
+   "def_sv": "Att göra illa, att förtrycka: ”vem kan göra er något ont om ni ivrar för det goda”, ”skall behandla dem illa”, ”behandlade våra fäder illa”, ”kung Herodes … lät gripa några för att göra dem illa”, ”ingen skall lyfta sin hand för att skada dig”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ペテロ第一3:13、使徒7:6・7:19・12:1・18:10。LXX・教父の代表例では用法の対応が確認できず、確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "悪意を抱かせる",
+   "label_en": "to poison the mind, to incite",
+   "label_es": "indisponer los ánimos",
+   "label_sv": "att göra illasinnad",
+   "def": "心に悪意を抱かせる、そそのかす。『兄弟たちに対して悪意を抱かせた』。",
+   "def_en": "To make someone ill-disposed, to stir up: “poisoned their minds against the brothers”.",
+   "def_es": "Infundir mala voluntad en el corazón, instigar: «corrompieron los ánimos contra los hermanos».",
+   "def_sv": "Att inge ond vilja, att uppvigla: ”väckte ovilja mot bröderna”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒14:2。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n44007006019": "1",
+  "n44007019006": "1",
+  "n44012001012": "1",
+  "n44014002007": "2",
+  "n44018010011": "1",
+  "n60003013004": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（虐げる・害する／悪意を抱かせる）による。LXX・教父の代表例は用法の対応が確認できず、いずれも「なし」とする。"
+}

@@ -1,0 +1,52 @@
+{
+ "lemma": "σκήνωμα",
+ "lemmaId": "grc:G4638",
+ "strong": "G4638",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "幕屋・住まい",
+   "label_en": "tabernacle, dwelling",
+   "label_es": "tabernáculo, morada",
+   "label_sv": "tabernakel, boning",
+   "def": "幕屋、住まい。『ヤコブの神のために住まいを』。",
+   "def_en": "A tent, a dwelling place: “a dwelling place for the God of Jacob”.",
+   "def_es": "Tienda, habitación: «tabernáculo para el Dios de Jacob».",
+   "def_sv": "Tält, boning: ”en boning åt Jakobs Gud”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒7:46。LXX に並行（幕屋・住まい）。教父の代表例では確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "からだ（仮の宿）",
+   "label_en": "the body (as a temporary dwelling)",
+   "label_es": "el cuerpo (como tienda)",
+   "label_sv": "kroppen (som tillfällig hydda)",
+   "def": "幕屋の語でからだを指す用法。『この幕屋にいる間は』『わたしの幕屋を脱ぎ捨てる時が近い』。",
+   "def_en": "The word for a tent used of the body: “as long as I am in this tent”, “the time to put off my tent is near”.",
+   "def_es": "La palabra tienda aplicada al cuerpo: «mientras estoy en esta tienda», «se acerca el momento de despojarme de mi tienda».",
+   "def_sv": "Ordet för tält använt om kroppen: ”så länge jag är i detta tält”, ”snart skall jag lämna mitt tält”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "ペテロ第二1:13・1:14。LXX の代表例では確認していない。教父に並行（死すべき幕屋＝からだ）。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n44007046010": "1",
+  "n61001013010": "2",
+  "n61001014008": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（幕屋・住まい／からだを指す用法）による。"
+}

@@ -1,0 +1,72 @@
+{
+ "lemma": "περισσός",
+ "lemmaId": "grc:G4053",
+ "strong": "G4053",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "余分な・それ以上の",
+   "label_en": "more, beyond",
+   "label_es": "de más, excedente",
+   "label_sv": "mer, utöver",
+   "def": "余分の、それ以上の。『これ以上のことは悪から出る』『人より何かすぐれたことをしているか』『余計なことです』。",
+   "def_en": "What is over and above; more than that: “anything more than this comes from evil”, “what more are you doing than others”, “it is superfluous”.",
+   "def_es": "Lo que sobra o va más allá: «lo que es más de esto, de mal procede», «¿qué hacéis de más?», «es por demás».",
+   "def_sv": "Det som går därutöver: ”allt därutöver kommer av ondo”, ”vad gör ni för märkvärdigt jämfört med andra”, ”det är överflödigt”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マタイ5:37・5:47、コリント第二9:1。LXX（6.4・7.16）に並行。教父の代表例では確認していない。語義2・3との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "豊かな・まさる点",
+   "label_en": "abundant, advantage",
+   "label_es": "abundante, ventaja",
+   "label_sv": "överflödande, företräde",
+   "def": "豊かな、まさっていること、有利さ。『豊かに持つため』『まさっている点は何か』。",
+   "def_en": "Being abundant or superior; advantage: “that they may have it abundantly”, “what advantage is there”.",
+   "def_es": "Abundancia, superioridad, provecho: «para que la tengan en abundancia», «¿qué ventaja tiene?».",
+   "def_sv": "Att vara riklig eller bättre; fördel: ”för att ha i överflöd”, ”vilket företräde finns det”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヨハネ10:10、ローマ3:1。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "はなはだ（ἐκ περισσοῦ）",
+   "label_en": "exceedingly (ἐκ περισσοῦ)",
+   "label_es": "en gran manera (ἐκ περισσοῦ)",
+   "label_sv": "övermåttan (ἐκ περισσοῦ)",
+   "def": "きわめて、非常に。『心の中で非常に驚いた』。",
+   "def_en": "Extremely, very much: “they were utterly astounded in their hearts”.",
+   "def_es": "Sumamente, en extremo: «se asombraron en gran manera dentro de sí».",
+   "def_sv": "Ytterst, i högsta grad: ”de blev utom sig av förvåning”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マルコ6:51。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40005037012": "1",
+  "n40005047009": "1",
+  "n41006051015": "3",
+  "n43010010019": "2",
+  "n45003001004": "2",
+  "n47009001010": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（余分／豊か・まさる点／はなはだ）による。"
+}

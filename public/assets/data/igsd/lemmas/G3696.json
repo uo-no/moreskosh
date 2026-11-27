@@ -1,0 +1,55 @@
+{
+ "lemma": "ὅπλον",
+ "lemmaId": "grc:G3696",
+ "strong": "G3696",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "武器・武具",
+   "label_en": "weapons, armor",
+   "label_es": "armas",
+   "label_sv": "vapen, rustning",
+   "def": "武器、武具（比喩を含む）。『武器を持って』『わたしたちの戦いの武器は』『義の武器』『光の武具を着けよう』。",
+   "def_en": "Weapons and armor (including figurative uses): “with weapons”, “the weapons of our warfare”, “weapons of righteousness”, “let us put on the armour of light”.",
+   "def_es": "Armas y armadura (incluidos los usos figurados): «con armas», «las armas de nuestra milicia», «armas de justicia», «vistámonos las armas de la luz».",
+   "def_sv": "Vapen och rustning (även bildligt): ”med vapen”, ”de vapen vi strider med”, ”rättfärdighetens vapen”, ”låt oss ta på ljusets rustning”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ヨハネ18:3、コリント第二10:4・6:7、ローマ13:12。LXX（7.44・10.23）、教父（12.2）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "道具・手段",
+   "label_en": "instrument, means",
+   "label_es": "instrumento, medio",
+   "label_sv": "redskap, medel",
+   "def": "道具、手段。『あなたがたの肢体を不義の道具として罪にささげてはならない』『義の道具として神にささげなさい』。",
+   "def_en": "A tool or means: “do not present your members to sin as instruments of unrighteousness”, “present them to God as instruments of righteousness”.",
+   "def_es": "Herramienta, medio: «no presentéis vuestros miembros al pecado como instrumentos de iniquidad», «presentadlos a Dios como instrumentos de justicia».",
+   "def_sv": "Verktyg, medel: ”ställ inte era lemmar i syndens tjänst som redskap för orätt”, ”ställ dem i Guds tjänst som redskap för rättfärdighet”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ローマ6:13（2回）。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n43018003023": "1",
+  "n45006013006": "2",
+  "n45006013023": "2",
+  "n45013012017": "1",
+  "n47006007009": "1",
+  "n47010004003": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（武器・武具／道具・手段）による。"
+}

@@ -1,0 +1,53 @@
+{
+ "lemma": "φρουρέω",
+ "lemmaId": "grc:G5432",
+ "strong": "G5432",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "守る・保護する",
+   "label_en": "to guard, to keep",
+   "label_es": "guardar",
+   "label_sv": "att bevara",
+   "def": "守る、保護する。『神の力によって守られている』『あなたがたの心…を守る』。",
+   "def_en": "To guard, to protect: “guarded by God’s power”, “will guard your hearts …”.",
+   "def_es": "Guardar, proteger: «guardados por el poder de Dios», «guardará vuestros corazones …».",
+   "def_sv": "Att vakta, att skydda: ”bevaras genom Guds makt”, ”skall bevara era hjärtan …”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ペテロ第一1:5、ピリピ4:7。語義2との境界は連続的。LXX・教父の代表例は「見張る」の用法で、この語義としては確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "見張る・監視下に置く",
+   "label_en": "to keep watch over, to hold in custody",
+   "label_es": "vigilar, tener bajo custodia",
+   "label_sv": "att bevaka, att hålla i förvar",
+   "def": "見張る、閉じ込める。『ダマスコの町を…守備し』『律法の下に閉じ込められていた』。",
+   "def_en": "To keep under watch, to shut in: “was guarding … the city of Damascus”, “were held captive under the law”.",
+   "def_es": "Montar guardia, tener encerrado: «guardaba la ciudad … de los damascenos», «estábamos encerrados bajo la ley».",
+   "def_sv": "Att hålla under uppsikt, att hålla instängd: ”lät bevaka … damaskenernas stad”, ”hölls inspärrade under lagen”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "コリント第二11:32、ガラテヤ3:23。LXX、教父に並行。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n47011032008": "2",
+  "n48003023009": "2",
+  "n50004007010": "1",
+  "n60001005005": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（守る／見張る）による。"
+}

@@ -1,0 +1,55 @@
+{
+ "lemma": "εἰκῇ",
+ "lemmaId": "grc:G1500",
+ "strong": "G1500",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "むなしく・無駄に",
+   "label_en": "in vain",
+   "label_es": "en vano",
+   "label_sv": "förgäves",
+   "def": "むなしく、無駄に、いたずらに。『信じたことがむだになる』『あなたがたのために労したのがむだになったのでは』『あれほどの経験をしたのはむだだったのか』『無益に剣を帯びているのではない』。",
+   "def_en": "In vain, to no purpose, uselessly: “your believing was in vain”, “that my labour for you was in vain”, “did you experience so many things in vain”, “he does not bear the sword in vain”.",
+   "def_es": "En vano, inútilmente, para nada: «creísteis en vano», «que haya trabajado en vano con vosotros», «¿tantas cosas habéis padecido en vano?», «no en vano lleva la espada».",
+   "def_sv": "Förgäves, till ingen nytta, i onödan: ”att er tro var förgäves”, ”att mitt arbete för er har varit förgäves”, ”har ni upplevt så mycket förgäves”, ”det är inte för intet han bär svärdet”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "コリント第一15:2、ガラテヤ4:11・3:4（2回）、ローマ13:4。ガラテヤ3:4 の「むだに」の読みは決定しない。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "理由なく",
+   "label_en": "without cause",
+   "label_es": "sin causa",
+   "label_sv": "utan orsak",
+   "def": "理由もなく、根拠なく。『肉の思いによってむなしく誇り』。",
+   "def_en": "Without reason, without grounds: “boasting without reason by a fleshly mind”.",
+   "def_es": "Sin razón, sin fundamento: «vanamente hinchado por su mente carnal».",
+   "def_sv": "Utan skäl, utan grund: ”uppblåst utan grund av sitt köttsliga sinne”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "コロサイ2:18。教父（40.2）に並行。LXX の代表例（28.25）は用法の対応が確認できず、この語義としては確認していない。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n45013004017": "1",
+  "n46015002014": "1",
+  "n48003004003": "1",
+  "n48003004007": "1",
+  "n48004011005": "1",
+  "n51002018014": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（むなしく／理由なく）による。"
+}

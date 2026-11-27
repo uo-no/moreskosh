@@ -1,0 +1,63 @@
+{
+ "lemma": "κοινός",
+ "lemmaId": "grc:G2839",
+ "strong": "G2839",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "共通の／共有の",
+   "label_en": "common / shared",
+   "label_es": "común / compartido",
+   "label_sv": "gemensam / delad",
+   "def": "共有の、共通の。『すべてを共有し』『彼らの持ち物はすべて共有であった』『共通の信仰』『共通の救い』。",
+   "def_en": "Shared, held in common: “had all things in common”, “all their possessions were held in common”, “our common faith”, “our common salvation”.",
+   "def_es": "De propiedad o participación compartida: «tenían en común todas las cosas», «todo lo tenían en común», «la común fe», «la común salvación».",
+   "def_sv": "Som delas och ägs gemensamt: ”hade allt gemensamt”, ”allt de ägde var gemensamt”, ”vår gemensamma tro”, ”den gemensamma frälsningen”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒2:44・4:32、ユダ3、テトス1:4。LXX エズラ記9:6 ほか、教父（1.21.2、5）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "汚れた／俗なる（儀礼的に）",
+   "label_en": "unclean / profane (ritually)",
+   "label_es": "inmundo / profano (ritualmente)",
+   "label_sv": "oren / profan (rituellt)",
+   "def": "儀礼的に清くない、俗なる、汚れた。『俗なもの、汚れたもの』『洗わない手（汚れた手）』『それ自体で汚れたものは何もない』『契約の血を俗なものとみなし』。",
+   "def_en": "Not ritually clean, profane, defiled: “anything common or unclean”, “with unwashed (defiled) hands”, “nothing is unclean in itself”, “regarded the blood of the covenant as common”.",
+   "def_es": "No puro según el rito, profano, impuro: «cosa común o inmunda», «con manos inmundas, es decir, no lavadas», «nada es inmundo en sí mismo», «tuvo por inmunda la sangre del pacto».",
+   "def_sv": "Inte rituellt ren, profan, oren: ”något oheligt eller orent”, ”med orena, det vill säga otvättade, händer”, ”ingenting är orent i sig”, ”räknat förbundets blod som oheligt”.",
+   "layers": {
+    "nt": 10,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒11:8・10:14・10:28、ヘブル10:29、マルコ7:2・7:5、黙示録21:27、ローマ14:14（3回）。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n41007002008": "2",
+  "n41007005022": "2",
+  "n44002044012": "1",
+  "n44004032025": "1",
+  "n44010014011": "2",
+  "n44010028021": "2",
+  "n44011008006": "2",
+  "n45014014009": "2",
+  "n45014014017": "2",
+  "n45014014020": "2",
+  "n56001004005": "1",
+  "n58010029017": "2",
+  "n65001003009": "1",
+  "n66021027008": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（共有／儀礼的に俗）による。"
+}

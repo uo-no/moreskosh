@@ -1,0 +1,54 @@
+{
+ "lemma": "ἐλαύνω",
+ "lemmaId": "grc:G1643",
+ "strong": "G1643",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "駆られる・追われる",
+   "label_en": "to be driven",
+   "label_es": "ser impulsado, ser arrastrado",
+   "label_sv": "att drivas",
+   "def": "風や霊に駆り立てられる、追い立てられる。『あらしに追われる霧』『強い風に追われて』『悪霊にひきまわされて』。",
+   "def_en": "To be driven or impelled by wind or spirit: “mists driven by a storm”, “driven by strong winds”, “driven by the demon”.",
+   "def_es": "Ser empujado o llevado por el viento o por un espíritu: «nubes empujadas por la tormenta», «llevadas de impetuosos vientos», «impelido por el demonio».",
+   "def_sv": "Att drivas eller jagas av vind eller ande: ”dimmor som jagas av stormen”, ”drivs av hårda vindar”, ”drevs av den onde anden”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ペテロ第二2:17、ヤコブ3:4、ルカ8:29。LXX に並行。教父の用例なし。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "漕ぐ",
+   "label_en": "to row",
+   "label_es": "remar",
+   "label_sv": "att ro",
+   "def": "舟を漕ぐ。『二十五、六スタディオンほど漕ぎ出したとき』『漕ぎあぐねているのを見て』。",
+   "def_en": "To row a boat: “when they had rowed about twenty-five or thirty stadia”, “seeing them straining at the oars”.",
+   "def_es": "Mover una barca a remo: «cuando habían remado como veinticinco o treinta estadios», «viéndolos remar con gran fatiga».",
+   "def_sv": "Att ro en båt: ”när de rott ungefär tjugofem eller trettio stadier”, ”såg dem slita vid årorna”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヨハネ6:19、マルコ6:48。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n41006048007": "2",
+  "n42008029026": "1",
+  "n43006019001": "2",
+  "n59003004011": "1",
+  "n61002017009": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（駆られる／漕ぐ）による。"
+}

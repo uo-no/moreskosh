@@ -1,0 +1,54 @@
+{
+ "lemma": "βαρέω",
+ "lemmaId": "grc:G916",
+ "strong": "G916",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "重荷を負わせる",
+   "label_en": "to burden",
+   "label_es": "cargar, agobiar",
+   "label_sv": "att betunga",
+   "def": "重荷を負わせる、圧迫する（受動：重荷を負う）。『教会に負担をかけず』『非常に重荷を負って』『重荷を負ってうめいている』。",
+   "def_en": "To lay a burden on, to weigh down (passive: to be burdened). “not burdening the church”, “we were burdened exceedingly”, “we groan under the burden”.",
+   "def_es": "Oprimir con una carga (pasiva: estar abrumado). «sin ser gravosos a la iglesia», «fuimos abrumados sobremanera», «gemimos agobiados».",
+   "def_sv": "Att tynga, trycka ner (passiv: att vara betungad). ”utan att betunga församlingen”, ”vi var svårt tyngda”, ”vi suckar under bördan”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "テモテ第一5:16、コリント第二1:8・5:4。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "重くなる（目・心が）",
+   "label_en": "to grow heavy (eyes, heart)",
+   "label_es": "cargarse (ojos, corazón)",
+   "label_sv": "att bli tung (ögon, hjärta)",
+   "def": "目や心が重くなる。『ひどく眠くなっていた』『目が重くなっていた』。",
+   "def_en": "For eyes or heart to become heavy: “they were very sleepy”, “their eyes were heavy”.",
+   "def_es": "Ponerse pesados los ojos o el corazón: «estaban rendidos de sueño», «sus ojos estaban cargados».",
+   "def_sv": "Att ögon eller hjärta tyngs: ”de var mycket sömniga”, ”deras ögon var tunga”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ルカ9:32、マタイ26:43。LXX（「心が重い」）に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40026043012": "2",
+  "n42009032009": "2",
+  "n47001008021": "1",
+  "n47005004009": "1",
+  "n54005016010": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（重荷を負わせる／重くなる）による。"
+}

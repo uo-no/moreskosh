@@ -1,0 +1,76 @@
+{
+ "lemma": "πύλη",
+ "lemmaId": "grc:G4439",
+ "strong": "G4439",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "門（町・都市の）",
+   "label_en": "gate (of a town or city)",
+   "label_es": "puerta (de ciudad)",
+   "label_sv": "port (stadsport)",
+   "def": "町や都市の門。『町の門』『鉄の門』『門のそばの川岸で』『門の外で苦しみを受けた』『彼らは昼も夜も門を見張っていた』『美しの門』。",
+   "def_en": "The gate of a town or city: “the gate of the town”, “the iron gate”, “outside the gate by the riverside”, “suffered outside the gate”, “they were watching the gates day and night”, “the Beautiful Gate”.",
+   "def_es": "La puerta de una ciudad o población: «la puerta de la ciudad», «la puerta de hierro», «fuera de la puerta, junto al río», «padeció fuera de la puerta», «guardaban las puertas de día y de noche», «la puerta Hermosa».",
+   "def_sv": "Porten till en stad: ”stadsporten”, ”järnporten”, ”utanför porten vid floden”, ”led utanför stadsporten”, ”vaktade portarna dag och natt”, ”Sköna porten”.",
+   "layers": {
+    "nt": 6,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒12:10・16:13・9:24・3:10、ヘブル13:12、ルカ7:12。LXX・教父（26.12.1、48.2）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "（狭い）門",
+   "label_en": "(narrow) gate",
+   "label_es": "puerta (estrecha)",
+   "label_sv": "(den trånga) porten",
+   "def": "『狭い門』『滅びに至る門』。比喩としての門。『狭い門から入りなさい』『命に至る門は狭い』。",
+   "def_en": "“The narrow gate”, “the gate that leads to destruction”: a gate as a figure: “enter by the narrow gate”, “the gate is narrow that leads to life”.",
+   "def_es": "«La puerta estrecha», «la puerta que lleva a la perdición»: la puerta como figura: «entrad por la puerta estrecha», «estrecha es la puerta que lleva a la vida».",
+   "def_sv": "”Den trånga porten”, ”porten som leder till fördärvet”: porten som bild: ”gå in genom den trånga porten”, ”den port är trång som leder till livet”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マタイ7:13（2回）・7:14。LXX・教父の代表例では確認していない。語義1との境界は連続的。"
+  },
+  {
+   "id": "3",
+   "label": "よみの門",
+   "label_en": "gates of Hades",
+   "label_es": "puertas del Hades",
+   "label_sv": "dödsrikets portar",
+   "def": "『よみの門』（マタイ16:18）。",
+   "def_en": "“The gates of Hades” (Matt 16:18).",
+   "def_es": "«Las puertas del Hades» (Mt 16:18).",
+   "def_sv": "”Dödsrikets portar” (Matt 16:18).",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "マタイ16:18 の1例のみ。LXX 知恵16:13・Ⅲマカバイ5:51 に並行。『門』が指す対象の解釈は付さない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40007013005": "2",
+  "n40007013009": "2",
+  "n40007014004": "2",
+  "n40016018019": "3",
+  "n42007012005": "1",
+  "n44003010015": "1",
+  "n44009024012": "1",
+  "n44012010010": "1",
+  "n44016013009": "1",
+  "n58013012014": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用例による。"
+}

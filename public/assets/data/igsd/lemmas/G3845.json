@@ -1,0 +1,52 @@
+{
+ "lemma": "παραβαίνω",
+ "lemmaId": "grc:G3845",
+ "strong": "G3845",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "違反する・踏み越える",
+   "label_en": "to transgress",
+   "label_es": "transgredir",
+   "label_sv": "att överträda",
+   "def": "踏み越える、違反する。『言い伝えに背くのか』『神の戒めを破るのか』。",
+   "def_en": "To overstep, to violate: “why do you transgress the tradition”, “why do you break God’s commandment”.",
+   "def_es": "Traspasar, quebrantar: «¿por qué quebrantan la tradición?», «¿por qué quebrantáis el mandamiento de Dios?».",
+   "def_sv": "Att gå över gränsen, att bryta mot: ”varför överträder de stadgarna”, ”varför bryter ni mot Guds bud”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "マタイ15:2・15:3。LXX、教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "離れ去る",
+   "label_en": "to turn aside, to fall away",
+   "label_es": "apartarse",
+   "label_sv": "att avvika",
+   "def": "道から外れて去る。『ユダが…離れて』。",
+   "def_en": "To depart from the way: “from which Judas … turned aside”.",
+   "def_es": "Salirse del camino y alejarse: «de que cayó Judas».",
+   "def_sv": "Att gå bort från vägen: ”som Judas … lämnade”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒1:25。LXX、教父に並行。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40015002006": "1",
+  "n40015003010": "1",
+  "n44001025011": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（違反／離反）による。"
+}

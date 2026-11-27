@@ -1,0 +1,79 @@
+{
+ "lemma": "στηρίζω",
+ "lemmaId": "grc:G4741",
+ "strong": "G4741",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "強める／堅くする（人を）",
+   "label_en": "to strengthen / establish (people)",
+   "label_es": "fortalecer / afirmar (a personas)",
+   "label_sv": "att styrka / befästa (människor)",
+   "def": "人を強める、堅くする、立たせる。『あなたを強め』『信仰の面であなたがたを強め』『心を強め』『あなたの兄弟たちを強めなさい』『あなたがたはすでに真理に堅く立っている』『残っているものを強めよ』。",
+   "def_en": "To strengthen, make firm, set a person on their feet: “to establish you”, “to strengthen you in your faith”, “establish your hearts”, “strengthen your brothers”, “you are established in the truth”, “strengthen what remains”.",
+   "def_es": "Fortalecer, afianzar, poner en pie a alguien: «para que seáis confirmados», «confirmaros en vuestra fe», «afirmad vuestros corazones», «confirma a tus hermanos», «estáis confirmados en la verdad», «afirma las cosas que quedan».",
+   "def_sv": "Att styrka, göra fast, ställa en människa stadigt: ”styrka dig”, ”stärka er i tron”, ”styrk era hjärtan”, ”styrk dina bröder”, ”ni står fasta i sanningen”, ”stärk det som finns kvar”.",
+   "layers": {
+    "nt": 11,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰペテロ5:10、Ⅰテサ3:2・3:13、Ⅱペテロ1:12、Ⅱテサ3:3・2:17、使徒18:23、ヤコブ5:8、ルカ22:32、黙示録3:2、ローマ1:11。LXX 箴言・詩篇、教父（18.12、1.12.1）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "据えられている（隔たり）",
+   "label_en": "to be fixed (a gulf)",
+   "label_es": "estar puesto (un abismo)",
+   "label_sv": "att vara befäst (en klyfta)",
+   "def": "据えられている、固定されている。『大きな淵が置かれている』。",
+   "def_en": "To be set, to be fixed in place: “a great chasm has been fixed”.",
+   "def_es": "Estar colocado, fijado: «una gran sima está puesta».",
+   "def_sv": "Att vara lagd och fastställd: ”en stor klyfta är satt”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ルカ16:26 の1例のみ。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "（顔を）向ける",
+   "label_en": "to set (one's face)",
+   "label_es": "afirmar (el rostro)",
+   "label_sv": "att vända (sitt ansikte)",
+   "def": "顔を固く向ける。『エルサレムへ顔を向けた』（ルカ9:51）。",
+   "def_en": "To turn one's face firmly: “set his face to go to Jerusalem” (Luke 9:51).",
+   "def_es": "Dirigir con firmeza el rostro: «afirmó su rostro para ir a Jerusalén» (Lc 9:51).",
+   "def_sv": "Att fast vända ansiktet mot ett mål: ”vände sitt ansikte mot Jerusalem” (Luk 9:51).",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ルカ9:51 の1例のみ（LXX エゼキエル6:2・13:17 の句 τὸ πρόσωπον στηρίζειν に並行）。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42009051015": "3",
+  "n42016026011": "2",
+  "n42022032016": "1",
+  "n44018023013": "1",
+  "n45001011013": "1",
+  "n52003002018": "1",
+  "n52003013003": "1",
+  "n53002017006": "1",
+  "n53003003007": "1",
+  "n59005008004": "1",
+  "n60005010020": "1",
+  "n61001012011": "1",
+  "n66003002004": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（強める／据える／向ける）による。"
+}

@@ -1,0 +1,101 @@
+{
+ "lemma": "ποιμήν",
+ "lemmaId": "grc:G4166",
+ "strong": "G4166",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "羊飼い（字義・たとえの中の）",
+   "label_en": "shepherd (literal, and in parables)",
+   "label_es": "pastor (literal y en parábolas)",
+   "label_sv": "herde (bokstavligt och i liknelser)",
+   "def": "羊を飼う者。ベツレヘムの羊飼い、羊と山羊を分ける羊飼い、門から入る羊飼い、雇い人と対比される羊飼い。",
+   "def_en": "One who tends sheep: the shepherds of Bethlehem, the shepherd who separates sheep from goats, the shepherd who enters by the gate, the shepherd contrasted with the hired hand.",
+   "def_es": "El que cuida ovejas: los pastores de Belén, el pastor que separa ovejas y cabritos, el que entra por la puerta, el contrapuesto al asalariado.",
+   "def_sv": "En som vaktar får: herdarna i Betlehem, herden som skiljer fåren från getterna, herden som går in genom grinden, herden i motsats till den lejde.",
+   "layers": {
+    "nt": 7,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ルカ2:8・15・18・20（羊飼いたち）、マタイ25:32（羊飼いが羊と山羊を分ける）、ヨハネ10:2・12（羊飼いと雇い人）。LXX イザヤ32:20 ほか、教父（ヘルマス25.1.4）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "牧者（キリスト）",
+   "label_en": "shepherd (Christ)",
+   "label_es": "pastor (Cristo)",
+   "label_sv": "herden (Kristus)",
+   "def": "民を飼い、導き、命を捨てる牧者としてのキリスト。『わたしは良い牧者』『羊の大牧者』『たましいの牧者』。",
+   "def_en": "Christ as the shepherd who tends and leads the people and lays down his life: “I am the good shepherd”, “the great shepherd of the sheep”, “shepherd of souls”.",
+   "def_es": "Cristo como pastor que apacienta y guía al pueblo y da su vida: «Yo soy el buen pastor», «el gran pastor de las ovejas», «pastor de las almas».",
+   "def_sv": "Kristus som herden som vårdar och leder folket och ger sitt liv: ”Jag är den gode herden”, ”den store herden för fåren”, ”era själars herde”.",
+   "layers": {
+    "nt": 8,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヨハネ10:11（2回）・14・16、ヘブル13:20（羊の大牧者）、Ⅰペテロ2:25（たましいの牧者）、マタイ26:31・マルコ14:27（牧者を打て、ゼカリヤ13:7 の引用）。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "（羊飼いのいない）群れの導き手",
+   "label_en": "leader (of a flock without a shepherd)",
+   "label_es": "guía (del rebaño sin pastor)",
+   "label_sv": "ledare (för en hjord utan herde)",
+   "def": "導く者を持たない民を『羊飼いのいない羊のよう』と言い、民の導き手を羊飼いにたとえる。",
+   "def_en": "A people without anyone to lead them are called “like sheep without a shepherd”, likening a leader of the people to a shepherd.",
+   "def_es": "Del pueblo sin quien lo guíe se dice que es «como ovejas sin pastor», comparando al guía del pueblo con un pastor.",
+   "def_sv": "Ett folk utan någon som leder kallas ”som får utan herde”, där folkets ledare liknas vid en herde.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ9:36・マルコ6:34（飼う者のない羊のような群衆）。語義2・4との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "4",
+   "label": "牧者（教会の務め）",
+   "label_en": "pastor (church ministry)",
+   "label_es": "pastor (ministerio de la iglesia)",
+   "label_sv": "herde (tjänst i församlingen)",
+   "def": "教会に与えられる働き人としての牧者。使徒・預言者・伝道者・教師とともに挙げられる。",
+   "def_en": "Shepherds as workers given to the church, listed with apostles, prophets, evangelists, and teachers.",
+   "def_es": "Los pastores como obreros dados a la iglesia, mencionados junto a apóstoles, profetas, evangelistas y maestros.",
+   "def_sv": "Herdar som medarbetare givna åt församlingen, nämnda tillsammans med apostlar, profeter, evangelister och lärare.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "エペソ4:11（牧者、教師）の1例のみ。教父（ポリュカルポス4.9.1『牧者』）に並行。LXX の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40009036017": "3",
+  "n40025032015": "1",
+  "n40026031019": "2",
+  "n41006034016": "3",
+  "n41014027013": "2",
+  "n42002008002": "1",
+  "n42002015013": "1",
+  "n42002018011": "1",
+  "n42002020004": "1",
+  "n43010002007": "1",
+  "n43010011004": "2",
+  "n43010011008": "2",
+  "n43010012006": "1",
+  "n43010014004": "2",
+  "n43010016026": "2",
+  "n49004011015": "4",
+  "n58013020011": "2",
+  "n60002025011": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

@@ -1,0 +1,58 @@
+{
+ "lemma": "δωρεάν",
+ "lemmaId": "grc:G1432",
+ "strong": "G1432",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "ただで／無償で",
+   "label_en": "freely / without payment",
+   "label_es": "gratis / de balde",
+   "label_sv": "för intet / gratis",
+   "def": "ただで、無償で、報酬なしで。『ただで受けたのだから、ただで与えなさい』『命の水をただで受けよ』『彼の恵みにより、ただで義と認められ』『神の福音をただで宣べ伝え』『代価を払わないでだれのパンも食べず』『ただ死んだことになる』。",
+   "def_en": "Free, without charge, without pay: “freely you have received, freely give”, “take the water of life without price”, “justified by his grace as a gift”, “preached God's gospel free of charge”, “nor did we eat anyone's bread without paying”, “then Christ died for nothing”.",
+   "def_es": "De balde, sin pago ni recompensa: «de gracia recibisteis, dad de gracia», «tome del agua de la vida gratuitamente», «justificados gratuitamente por su gracia», «os he predicado el evangelio de balde», «ni comimos de balde el pan de nadie», «por demás murió Cristo».",
+   "def_sv": "Utan betalning eller lön: ”ni har fått som gåva, ge som gåva”, ”ta emot livets vatten för intet”, ”står som rättfärdiga utan att ha förtjänat det, av hans nåd”, ”förkunnat Guds evangelium utan ersättning”, ”åt inte någons bröd utan att betala”, ”då har Kristus dött förgäves”.",
+   "layers": {
+    "nt": 8,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅱコリ11:7、Ⅱテサ3:8、ガラテヤ2:21、マタイ10:8（2回）、黙示録22:17・21:6、ローマ3:24。LXX 詩篇・出エジプト記21:11、教父（3.10.1）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "理由なく",
+   "label_en": "without cause",
+   "label_es": "sin causa",
+   "label_sv": "utan orsak",
+   "def": "理由なしに、いわれなく。『彼らはわたしをいわれなく憎んだ』（ヨハネ15:25）。",
+   "def_en": "Without reason, for no cause: “they hated me without a cause” (John 15:25).",
+   "def_es": "Sin motivo, gratuitamente: «sin causa me aborrecieron» (Jn 15:25).",
+   "def_sv": "Utan skäl: ”de har hatat mig utan orsak” (Joh 15:25).",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ヨハネ15:25 の1例のみ（詩篇35:19 の引用）。LXX 詩篇119:7 に並行。語義1との境界は連続的。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40010008009": "1",
+  "n40010008011": "1",
+  "n43015025015": "2",
+  "n45003024002": "1",
+  "n47011007010": "1",
+  "n48002021014": "1",
+  "n53003008002": "1",
+  "n66021006027": "1",
+  "n66022017023": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（無償／理由なく）による。"
+}

@@ -1,0 +1,94 @@
+{
+ "lemma": "ἐπιπίπτω",
+ "lemmaId": "grc:G1968",
+ "strong": "G1968",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "覆いかぶさる／抱きつく",
+   "label_en": "to fall upon / embrace",
+   "label_es": "echarse sobre / abrazar",
+   "label_sv": "att kasta sig över / omfamna",
+   "def": "人にかぶさる、首に抱きつく。『その上にかがみ込み』『首に抱きついて口づけした』『パウロの首を抱いて』。",
+   "def_en": "To bend over a person, to fall on someone's neck: “bent over him”, “fell on his neck and kissed him”, “embraced Paul”.",
+   "def_es": "Inclinarse sobre alguien, echarse a su cuello: «se echó sobre él», «se echó sobre su cuello y le besó», «echándose al cuello de Pablo».",
+   "def_sv": "Att böja sig över någon, falla någon om halsen: ”lade sig över honom”, ”föll honom om halsen och kysste honom”, ”omfamnade Paulus”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒20:10・20:37、ルカ15:20。LXX 創世記50:1・46:29、教父に並行。"
+  },
+  {
+   "id": "2",
+   "label": "臨む／降りかかる（恐れ・聖霊が）",
+   "label_en": "to come upon (fear, the Spirit)",
+   "label_es": "venir sobre / caer sobre (temor, Espíritu)",
+   "label_sv": "att komma över (fruktan, Anden)",
+   "def": "上に臨む、降りかかる。『聖霊が彼らの上に下った』『恐れが彼の上に臨んだ』『恐れが彼らに臨んだ』『聖霊がまだだれにも下っていなかった』。",
+   "def_en": "To come over, to fall upon: “the Holy Spirit fell on them”, “fear fell upon him”, “fear came upon them”, “the Spirit had not yet fallen on any of them”.",
+   "def_es": "Venir encima, sobrevenir: «el Espíritu Santo cayó sobre ellos», «le sobrecogió temor», «cayó temor sobre ellos», «aún no había descendido sobre ninguno de ellos».",
+   "def_sv": "Att falla över, drabba: ”den helige Ande föll över dem”, ”fruktan föll över honom”, ”de greps av fruktan”, ”Anden hade ännu inte kommit över någon av dem”.",
+   "layers": {
+    "nt": 6,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "使徒10:44・11:15・19:17・8:16、ルカ1:12、黙示録11:11。LXX 代表例・教父（12.5）に並行。語義1との境界は連続的。"
+  },
+  {
+   "id": "3",
+   "label": "押し寄せる",
+   "label_en": "to press upon",
+   "label_es": "agolparse",
+   "label_sv": "att tränga sig på",
+   "def": "押し寄せる、迫る。『触ろうとして押し寄せた』。",
+   "def_en": "To crowd in, to press forward: “pressed around him to touch him”.",
+   "def_es": "Echarse encima, apiñarse: «se le echaban encima para tocarle».",
+   "def_sv": "Att trycka på och tränga sig fram: ”trängde sig inpå honom för att röra vid honom”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マルコ3:10 の1例のみ。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "4",
+   "label": "降りかかる（そしり）",
+   "label_en": "to fall upon (reproach)",
+   "label_es": "caer sobre (el vituperio)",
+   "label_sv": "att drabba (smädelsen)",
+   "def": "そしりが降りかかる。『あなたをそしる者のそしりが、わたしに降りかかった』（ローマ15:3、詩篇68:10 の引用）。",
+   "def_en": "Reproach falls on someone: “the reproaches of those who reproached you fell on me” (Rom 15:3, quoting Ps 68:10).",
+   "def_es": "El oprobio recae: «los vituperios de los que te vituperaban cayeron sobre mí» (Ro 15:3, cita de Sal 68:10).",
+   "def_sv": "Smädelser faller över någon: ”deras smädelser som smädar dig har drabbat mig” (Rom 15:3, citat av Ps 68:10).",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ローマ15:3 の1例のみ。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n41003010005": "3",
+  "n42001012007": "2",
+  "n42015020022": "1",
+  "n44008016007": "2",
+  "n44010044008": "2",
+  "n44011015007": "2",
+  "n44019017015": "2",
+  "n44020010005": "1",
+  "n44020037007": "1",
+  "n45015003016": "4",
+  "n66011011025": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法による。"
+}

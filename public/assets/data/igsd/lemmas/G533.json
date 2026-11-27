@@ -1,0 +1,60 @@
+{
+ "lemma": "ἀπαρνέομαι",
+ "lemmaId": "grc:G533",
+ "strong": "G533",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "知らないと言う／否認する",
+   "label_en": "to deny / disown",
+   "label_es": "negar / renegar de",
+   "label_sv": "att förneka",
+   "def": "否認する、知らないと言う、背を向ける。『わたしを知らないと言う』『三度わたしを知らないと言うであろう』『あなたを知らないなどとは決して言いません』『人の前で否む者は』。",
+   "def_en": "To deny, to say one does not know, to turn one's back: “to say you do not know me”, “you will deny me three times”, “I will never deny you”, “whoever denies me before people”.",
+   "def_es": "Negar, decir que no se conoce, dar la espalda: «negar que me conoces», «me negarás tres veces», «de ninguna manera te negaré», «el que me niegue delante de los hombres».",
+   "def_sv": "Att förneka, säga att man inte känner, vända ryggen: ”förneka att du känner mig”, ”tre gånger ska du förneka mig”, ”jag ska aldrig förneka dig”, ”den som förnekar mig inför människorna”.",
+   "layers": {
+    "nt": 9,
+    "lxx": "none",
+    "fathers": "attested"
+   },
+   "note": "ルカ12:9・22:34・22:61、マタイ26:34・26:35・26:75、マルコ14:30・14:31・14:72。教父（18.1.5、6.5.2）に並行。LXX 代表例（イザヤ31:7）は『退ける』の用法で、確認できない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "自分を捨てる",
+   "label_en": "to deny oneself",
+   "label_es": "negarse a sí mismo",
+   "label_sv": "att förneka sig själv",
+   "def": "自分を捨てる。『自分を捨て、自分の十字架を負い』。",
+   "def_en": "To deny oneself: “deny himself and take up his cross”.",
+   "def_es": "Negarse a uno mismo: «niéguese a sí mismo, y tome su cruz».",
+   "def_sv": "Att säga nej till sig själv: ”förneka sig själv och ta sitt kors”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ16:24、マルコ8:34。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40016024014": "2",
+  "n40026034017": "1",
+  "n40026035014": "1",
+  "n40026075014": "1",
+  "n41008034017": "2",
+  "n41014030022": "1",
+  "n41014031013": "1",
+  "n41014072025": "1",
+  "n42012009008": "1",
+  "n42022034014": "1",
+  "n42022061024": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は目的語（他者／自分）による。"
+}

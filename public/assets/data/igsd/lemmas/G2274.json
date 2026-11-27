@@ -1,0 +1,52 @@
+{
+ "lemma": "ἡττάομαι",
+ "lemmaId": "grc:G2274",
+ "strong": "G2274",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "劣る",
+   "label_en": "to be inferior",
+   "label_es": "ser inferior",
+   "label_sv": "att stå tillbaka",
+   "def": "劣っている。『ほかの諸教会より劣っている点』。",
+   "def_en": "To be worse off, to be inferior: “the point in which you were worse off than the other churches”.",
+   "def_es": "Ser menos, estar por debajo: «en lo que habéis sido menos que las otras iglesias».",
+   "def_sv": "Att vara sämre ställd, vara underlägsen: ”det där ni blivit sämre behandlade än de andra församlingarna”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "コリント第二12:13。語義2との境界は連続的。LXX・教父の用例なし。"
+  },
+  {
+   "id": "2",
+   "label": "打ち負かされる・支配される",
+   "label_en": "to be overcome",
+   "label_es": "ser vencido",
+   "label_sv": "att bli övervunnen",
+   "def": "打ち負かされる、屈服する。『人は…に負かされる』『…に負け』。",
+   "def_en": "To be defeated, to succumb: “a person is overcome by …”, “overcome by …”.",
+   "def_es": "Ser derrotado, rendirse: «el que es vencido por …», «vencido por …».",
+   "def_sv": "Att bli besegrad, att duka under: ”man blir besegrad av …”, ”besegrade av …”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ペテロ第二2:19・2:20。語義1との境界は連続的。LXX・教父の用例なし。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n47012013005": "1",
+  "n61002019012": "2",
+  "n61002020020": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "LXX・教父の用例なし。語義区分は用法（劣る／打ち負かされる）による。"
+}

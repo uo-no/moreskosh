@@ -1,0 +1,118 @@
+{
+ "lemma": "ἐλέγχω",
+ "lemmaId": "grc:G1651",
+ "strong": "G1651",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "責める／戒める（咎めて矯正する）",
+   "label_en": "to rebuke / admonish (and so correct)",
+   "label_es": "reprender / amonestar (para corregir)",
+   "label_sv": "att tillrättavisa / förmana (för att rätta)",
+   "def": "咎めて戒める、叱責して矯正する。牧会書簡の『責める・戒める』、愛する者への主の戒め、権力者への戒め。",
+   "def_en": "To reprove and warn, to correct by rebuke: the “rebuke and admonish” of the Pastoral letters, the Lord's discipline of those he loves, a rebuke to a ruler.",
+   "def_es": "Reprochar y advertir, corregir mediante la reprensión: el «reprende y amonesta» de las cartas pastorales, la corrección del Señor a los que ama, la reprensión a un gobernante.",
+   "def_sv": "Att klandra och varna, att rätta genom tillrättavisning: pastoralbrevens ”tillrättavisa och förmana”, Herrens fostran av dem han älskar, tillrättavisningen av en härskare.",
+   "layers": {
+    "nt": 7,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅰテモ5:20（罪を犯す者は皆の前で戒めよ）、Ⅱテモ4:2（責め、戒め、勧めよ）、テト1:13・2:15、ヘブル12:5（主に戒められるとき）、黙示録3:19（わたしは愛する者を戒める）、ルカ3:19（ヘロデを戒めた）。LXX 箴言9:8、教父（ヘルマス）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "暴く／明るみに出す（光に）",
+   "label_en": "to expose / bring to light",
+   "label_es": "sacar a la luz / poner al descubierto",
+   "label_sv": "att avslöja / dra fram i ljuset",
+   "def": "行いを光にさらして明らかにする、あらわにする。『やみのわざを暴け』『光に照らされて明らかにされる』。",
+   "def_en": "To bring deeds into the light and make them plain, to lay bare: “expose the works of darkness”, “made visible when exposed by the light”.",
+   "def_es": "Exponer las obras a la luz para que queden claras, descubrirlas: «sacad a la luz las obras de las tinieblas», «todo queda manifiesto al ser expuesto a la luz».",
+   "def_sv": "Att ställa gärningar i ljuset så att de blir uppenbara: ”avslöja mörkrets gärningar”, ”blir uppenbart i ljuset”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "エペソ5:11・13（光にさらされるとすべて明らかになる）、ヨハネ3:20（行いが明るみに出されないように）。語義3との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "罪を悟らせる／有罪とする（確信させる）",
+   "label_en": "to convict / convince of guilt",
+   "label_es": "convencer de pecado / declarar culpable",
+   "label_sv": "att överbevisa om synd / fälla",
+   "def": "罪を示して、その人に罪を悟らせる、有罪と立証する。『聖霊が罪について世の誤りを明らかにする』『だれがわたしに罪があると立証するのか』。",
+   "def_en": "To show sin and convince a person of it, to prove guilty: “the Spirit will convict the world concerning sin”, “which of you convicts me of sin?”",
+   "def_es": "Mostrar el pecado y convencer de él, demostrar la culpa: «el Espíritu convencerá al mundo de pecado», «¿quién de vosotros me convence de pecado?».",
+   "def_sv": "Att visa på synden och överbevisa en människa, att bevisa skuld: ”Anden ska överbevisa världen om synd”, ”vem av er kan överbevisa mig om synd?”.",
+   "layers": {
+    "nt": 6,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヨハネ16:8（罪について世を明らかにする）・8:46・8:9（良心に責められて）、Ⅰコリ14:24（すべての人に罪を示される）、ヤコブ2:9（違反者として断罪される）、ユダ15（すべての不敬虔な者を有罪とする）。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "4",
+   "label": "過ちを指摘する（兄弟に）",
+   "label_en": "to point out a fault (to a brother)",
+   "label_es": "señalar la falta (al hermano)",
+   "label_sv": "att påtala ett fel (för en broder)",
+   "def": "兄弟の過ちを、二人だけのところで指摘して示す。",
+   "def_en": "To show a brother his fault between the two of you alone.",
+   "def_es": "Hacer ver al hermano su falta a solas entre los dos.",
+   "def_sv": "Att i enrum påtala en broders fel för honom.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "マタイ18:15（行って、ふたりだけのところで彼の過ちを指摘せよ）の1例のみ。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "5",
+   "label": "論破する／反証する",
+   "label_en": "to refute",
+   "label_es": "refutar / rebatir",
+   "label_sv": "att vederlägga",
+   "def": "誤った教えを論破する、反証する。",
+   "def_en": "To refute and disprove false teaching.",
+   "def_es": "Refutar y rebatir una enseñanza errónea.",
+   "def_sv": "Att vederlägga och motbevisa en felaktig lära.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "テト1:9（反対する者たちを論破できるように）の1例のみ。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40018015010": "4",
+  "n42003019006": "1",
+  "n43003020017": "2",
+  "n43008009008": "3",
+  "n43008046004": "3",
+  "n43016008004": "3",
+  "n46014024011": "3",
+  "n49005011013": "2",
+  "n49005013004": "2",
+  "n54005020005": "1",
+  "n55004002007": "1",
+  "n56001009021": "5",
+  "n56001013009": "1",
+  "n56002015006": "1",
+  "n58012005020": "1",
+  "n59002009006": "3",
+  "n65001015006": "3",
+  "n66003019005": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "新約に無い用法は代表例の範囲では見当たらない。"
+}

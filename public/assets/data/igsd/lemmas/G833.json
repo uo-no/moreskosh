@@ -1,0 +1,95 @@
+{
+ "lemma": "αὐλή",
+ "lemmaId": "grc:G833",
+ "strong": "G833",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "中庭",
+   "label_en": "courtyard",
+   "label_es": "patio",
+   "label_sv": "gård (innergård)",
+   "def": "家・屋敷の中庭。『大祭司の中庭』『ペテロは中庭にすわっていた』『庭の中で火をたいて』『中庭で座っていると』。",
+   "def_en": "The courtyard of a house or residence: “the courtyard of the high priest”, “Peter was sitting in the courtyard”, “they kindled a fire in the middle of the courtyard”, “as he sat in the courtyard”.",
+   "def_es": "Patio de una casa o mansión: «el patio del sumo sacerdote», «Pedro estaba sentado en el patio», «habiendo encendido fuego en medio del patio», «estando sentado en el patio».",
+   "def_sv": "Gården till ett hus eller en större bostad: ”översteprästens gård”, ”Petrus satt ute på gården”, ”tände en eld mitt på gården”, ”när han satt på gården”.",
+   "layers": {
+    "nt": 6,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ヨハネ18:15・マルコ14:54・14:66、ルカ22:55、マタイ26:58・26:69。LXX エゼキエル8:7・出エジプト記37:7、教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "屋敷／官邸",
+   "label_en": "mansion / palace / official residence",
+   "label_es": "mansión / palacio / residencia oficial",
+   "label_sv": "gård / palats / residens",
+   "def": "屋敷、宮殿、官邸。『強い人が武装して自分の屋敷を守っている間は』『大祭司の屋敷』『兵士たちは総督官邸の中庭に』。",
+   "def_en": "A mansion, palace, or official residence: “when a strong man, fully armed, guards his own palace”, “the high priest's palace”, “the soldiers led him into the courtyard of the governor's residence”.",
+   "def_es": "Mansión, palacio, residencia del gobernante: «cuando el hombre fuerte armado guarda su palacio», «el palacio del sumo sacerdote», «los soldados lo llevaron dentro del atrio del pretorio».",
+   "def_sv": "En herrgård, ett palats eller ämbetsresidens: ”när en stark man i full rustning vaktar sin gård”, ”översteprästens palats”, ”soldaterna förde honom in på ståthållarens residensgård”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ルカ11:21、マタイ26:3、マルコ15:16。LXX・教父に並行。語義1との境界は連続的。"
+  },
+  {
+   "id": "3",
+   "label": "羊の囲い",
+   "label_en": "sheepfold",
+   "label_es": "redil",
+   "label_sv": "fårfålla",
+   "def": "羊の囲い。『羊の囲いに門から入らず』『この囲いにいない他の羊』。",
+   "def_en": "A fold for sheep: “does not enter the sheepfold by the door”, “other sheep that are not of this fold”.",
+   "def_es": "Aprisco de ovejas: «el que no entra por la puerta en el redil», «otras ovejas que no son de este redil».",
+   "def_sv": "En inhägnad för får: ”inte går in i fårfållan genom grinden”, ”andra får som inte hör till den här fållan”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ヨハネ10:1・10:16。LXX 詩篇・エレミヤに並行。教父の代表例では確認していない。"
+  },
+  {
+   "id": "4",
+   "label": "（聖所の）庭",
+   "label_en": "court (of the temple)",
+   "label_es": "atrio (del santuario)",
+   "label_sv": "förgård (till templet)",
+   "def": "聖所の外の庭。『聖所の外の庭は測らずに捨てておけ』。",
+   "def_en": "The court outside the sanctuary: “leave out the court outside the temple; do not measure it”.",
+   "def_es": "El patio exterior del santuario: «el patio que está fuera del templo déjalo aparte, y no lo midas».",
+   "def_sv": "Gården utanför templet: ”förgården utanför templet ska du utelämna och inte mäta”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "黙示録11:2 の1例のみ。LXX 列王記上6:36 に並行。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40026003012": "2",
+  "n40026058010": "1",
+  "n40026069008": "1",
+  "n41014054012": "1",
+  "n41014066008": "1",
+  "n41015016008": "2",
+  "n42011021008": "2",
+  "n42022055007": "1",
+  "n43010001013": "3",
+  "n43010016010": "3",
+  "n43018015024": "1",
+  "n66011002003": "4"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用例による。"
+}

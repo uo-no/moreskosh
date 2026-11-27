@@ -1,0 +1,59 @@
+{
+ "lemma": "θεραπεία",
+ "lemmaId": "grc:G2322",
+ "strong": "G2322",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "癒し",
+   "label_en": "healing",
+   "label_es": "curación",
+   "label_sv": "helande, läkedom",
+   "def": "病を癒すこと。『病気の者をいやしておられた』『木の葉は諸国民をいやす』。",
+   "def_en": "The healing of sickness: “he was healing the sick”, “the leaves of the tree are for the healing of the nations”.",
+   "def_es": "El sanar enfermedades: «sanaba a los enfermos», «las hojas del árbol son para la sanidad de las naciones».",
+   "def_sv": "Att bota sjukdom: ”han botade de sjuka”, ”trädets blad ger folken läkedom”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ルカ9:11、黙示録22:2。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "2",
+   "label": "召使いたち・家の者",
+   "label_en": "household servants",
+   "label_es": "servidumbre",
+   "label_sv": "tjänstefolk",
+   "def": "召使いたち、家の者。『その家の者たちの上に』。",
+   "def_en": "Servants, the members of a household: “over his household”.",
+   "def_es": "Los criados, la gente de la casa: «sobre su casa».",
+   "def_sv": "Tjänarna, husfolket: ”över sitt tjänstefolk”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ルカ12:42。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42009011021": "1",
+  "n42012042019": "2",
+  "n66022002030": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（癒し／召使いたち）による。οἰκετείας の形は本レンマへ割り当てない。",
+ "excluded": [
+  {
+   "ref": "MAT 24:45",
+   "form": "οἰκετείας",
+   "reason": "形 οἰκετείας の lemma はデータの lemma 欄でも οἰκετεία で、本レンマの形ではない。番号の扱いは別途データ修正で扱う。"
+  }
+ ]
+}

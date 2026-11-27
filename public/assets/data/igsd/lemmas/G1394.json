@@ -1,0 +1,51 @@
+{
+ "lemma": "δόσις",
+ "lemmaId": "grc:G1394",
+ "strong": "G1394",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "贈り物",
+   "label_en": "gift",
+   "label_es": "dádiva",
+   "label_sv": "gåva",
+   "def": "贈り物、賜物。『あらゆる良い贈り物』。",
+   "def_en": "A gift, a present: “every good gift”.",
+   "def_es": "Don, regalo: «toda buena dádiva».",
+   "def_sv": "Gåva, skänk: ”varje god gåva”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ヤコブ1:17。LXX に並行。教父の代表例では確認していない。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "与えること",
+   "label_en": "giving",
+   "label_es": "el dar",
+   "label_sv": "givande",
+   "def": "与えること、授与。『与えることと受けることの点で』。",
+   "def_en": "Giving, bestowal: “in the matter of giving and receiving”.",
+   "def_es": "El acto de dar, entrega: «en razón de dar y recibir».",
+   "def_sv": "Att ge, utdelande: ”i fråga om att ge och ta emot”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ピリピ4:15。LXX に並行。教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n50004015021": "2",
+  "n59001017002": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（贈り物／与えること）による。"
+}

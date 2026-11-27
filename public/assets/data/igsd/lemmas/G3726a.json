@@ -1,0 +1,33 @@
+{
+ "lemma": "ἐνορκίζω",
+ "lemmaId": "grc:G3726a",
+ "strong": "G3726a",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "誓わせる",
+   "label_en": "to adjure",
+   "label_es": "conjurar",
+   "label_sv": "besvära",
+   "def": "誓って命じる。『主によってあなたがたに命じる』。",
+   "def_en": "To charge under oath: “I charge you by the Lord”.",
+   "def_es": "Mandar bajo juramento: «os conjuro por el Señor».",
+   "def_sv": "Att ålägga med ed: ”jag uppmanar er enträget vid Herren”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "テサロニケ第一5:27。用例は新約のみ。語義は新約の文脈と関連語（ὁρκίζω）からの派生。パケットの mapping_note に従い、番号 G3726 を共有していたため別項目にした。層の用例は切り分けていないため新約のみとして扱う。単一語義。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n52005027001": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。"
+}

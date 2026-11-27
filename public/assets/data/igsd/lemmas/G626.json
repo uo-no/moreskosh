@@ -1,0 +1,59 @@
+{
+ "lemma": "ἀπολογέομαι",
+ "lemmaId": "grc:G626",
+ "strong": "G626",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "弁明する／自己弁護する",
+   "label_en": "to defend oneself / make a defence",
+   "label_es": "defenderse / presentar defensa",
+   "label_sv": "att försvara sig",
+   "def": "弁明する、弁護する、申し開きをする。『あなたがたに弁明していると思っているのか』『人々に弁明しようとした』『わたしは喜んで弁明します』『わたしは弁明した』『パウロは弁明を始めた』『自分のことを弁明してもよい』『何をどう弁明しようかと思い悩むな』『弁明の備えを』。",
+   "def_en": "To make a defence, to answer for oneself: “do you think we have been defending ourselves to you?”, “wanted to make a defence to the people”, “I cheerfully make my defence”, “argued in his defence”, “Paul made his defence”, “you may speak for yourself”, “do not be anxious about how or what you should answer”, “a readiness to make a defence”.",
+   "def_es": "Hacer defensa, dar razón de sí: «¿pensáis que nos disculpamos con vosotros?», «quería hacer su defensa ante el pueblo», «con buen ánimo haré mi defensa», «alegando en su defensa», «Pablo comenzó su defensa», «se te permite hablar por ti mismo», «no os preocupéis por cómo o qué habréis de responder en vuestra defensa», «preparados para presentar defensa».",
+   "def_sv": "Att hålla försvarstal och svara för sig: ”tror ni att vi försvarar oss inför er?”, ”ville försvara sig inför folket”, ”jag försvarar mig med frimodighet”, ”anförde till sitt försvar”, ”Paulus höll sitt försvarstal”, ”du får tala för din sak”, ”bekymra er inte för hur ni ska försvara er”, ”beredda att försvara”.",
+   "layers": {
+    "nt": 9,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "Ⅱコリ12:19、使徒19:33・24:10・25:8・26:1・26:2・26:24、ルカ12:11・21:14。LXX エレミヤ12:1・38:6、教父（10.2）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "弁護する（思いが）",
+   "label_en": "to defend (thoughts)",
+   "label_es": "defender (los pensamientos)",
+   "label_sv": "att försvara (om tankarna)",
+   "def": "互いに弁護し合う（良心・思いが）。『その思いが互いに責めたり弁護し合ったり』（ローマ2:15）。",
+   "def_en": "Thoughts or conscience defend one another: “their thoughts accusing or even excusing them” (Rom 2:15).",
+   "def_es": "La conciencia y los pensamientos se defienden: «acusándoles o defendiéndoles sus razonamientos» (Ro 2:15).",
+   "def_sv": "Tankar och samvete försvarar varandra: ”tankarna anklagar eller försvarar dem” (Rom 2:15).",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ローマ2:15 の1例のみ。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42012011019": "1",
+  "n42021014009": "1",
+  "n44019033018": "1",
+  "n44024010024": "1",
+  "n44025008003": "1",
+  "n44026001018": "1",
+  "n44026002016": "1",
+  "n44026024004": "1",
+  "n45002015024": "2",
+  "n47012019005": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法による。"
+}

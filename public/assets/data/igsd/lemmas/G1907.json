@@ -1,0 +1,71 @@
+{
+ "lemma": "ἐπέχω",
+ "lemmaId": "grc:G1907",
+ "strong": "G1907",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "注意する・目を注ぐ",
+   "label_en": "to pay attention, to notice",
+   "label_es": "tener cuidado, estar atento",
+   "label_sv": "att ge akt",
+   "def": "注意を払う、目を注ぐ、気づく。『自分自身と教えとに気をつけなさい』『彼らに目を注いで』『上座を選ぶのを見て』。",
+   "def_en": "To give heed, to fix one’s attention, to notice: “keep a close watch on yourself and on the teaching”, “fixed his attention on them”, “noticing how they chose the places of honour”.",
+   "def_es": "Prestar atención, fijar la mirada, observar: «ten cuidado de ti mismo y de la doctrina», «les estuvo atento», «observando cómo escogían los primeros asientos».",
+   "def_sv": "Att vara uppmärksam, att fästa blicken, att lägga märke till: ”ge akt på dig själv och på din undervisning”, ”han såg uppmärksamt på dem”, ”när han lade märke till att de valde hedersplatserna”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "テモテ第一4:16、使徒3:5、ルカ14:7。LXX に並行。教父の用例なし。語義2・3との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "とどまる",
+   "label_en": "to stay on",
+   "label_es": "quedarse",
+   "label_sv": "att dröja kvar",
+   "def": "その場にとどまる。『自分はなお暫くアジヤにとどまっていた』。",
+   "def_en": "To remain in a place: “he himself stayed for a while longer in Asia”.",
+   "def_es": "Permanecer en el lugar: «él se quedó por algún tiempo en Asia».",
+   "def_sv": "Att stanna på platsen: ”själv stannade han ännu en tid i Asien”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒19:22。LXX に並行。教父の用例なし。語義1との境界は連続的。"
+  },
+  {
+   "id": "3",
+   "label": "保つ・差し出す（解釈が分かれる）",
+   "label_en": "to hold fast or to hold forth (disputed)",
+   "label_es": "asir o presentar (discutido)",
+   "label_sv": "att hålla fast eller att hålla fram (omtvistat)",
+   "def": "『命の言葉を堅く保って』『命の言葉をかざして』。",
+   "def_en": "Holding fast, or holding out, the word of life: “holding fast to the word of life”, “holding out the word of life”.",
+   "def_es": "Retener firmemente la palabra de vida, o mantenerla en alto: «asidos de la palabra de vida», «presentando la palabra de vida».",
+   "def_sv": "Att hålla fast vid livets ord, eller att hålla fram det: ”håll fast vid livets ord”, ”håll fram livets ord”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ピリピ2:16。「堅く保つ」か「差し出す」かの読みは争われており決定しない。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42014007007": "1",
+  "n44003005003": "1",
+  "n44019022014": "2",
+  "n50002016003": "3",
+  "n54004016001": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（注意／とどまる／ピリピ2:16）による。ピリピ2:16 は決定しない。"
+}

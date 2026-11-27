@@ -1,0 +1,82 @@
+{
+ "lemma": "ἀνακρίνω",
+ "lemmaId": "grc:G350",
+ "strong": "G350",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "取り調べる／尋問する（法的）",
+   "label_en": "to examine / interrogate (legal)",
+   "label_es": "interrogar / instruir (judicial)",
+   "label_sv": "att förhöra / rannsaka (rättsligt)",
+   "def": "法的に取り調べる、尋問する。『彼らを尋問して』『取り調べを受けている』『何も見いださなかった』。",
+   "def_en": "To investigate or interrogate judicially: “having examined them”, “we are being examined”, “found nothing”.",
+   "def_es": "Investigar o interrogar judicialmente: «habiéndolos interrogado», «somos interrogados», «no hallé nada».",
+   "def_sv": "Att rättsligt undersöka och förhöra: ”efter att ha förhört dem”, ”vi blir förhörda”, ”fann ingenting”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒12:19・24:8・28:18・4:9、ルカ23:14。LXX ダニエル（スザンナ）13:51 に並行。教父の代表例は無い。"
+  },
+  {
+   "id": "2",
+   "label": "調べる／問いただす",
+   "label_en": "to search into / question",
+   "label_es": "examinar / averiguar",
+   "label_sv": "att granska / fråga efter",
+   "def": "調べる、問いただす。『聖書を調べた』『良心のために何も問いたださず』。",
+   "def_en": "To examine, to inquire: “examined the Scriptures”, “without raising questions for conscience' sake”.",
+   "def_es": "Examinar, preguntar: «escudriñaban las Escrituras», «sin preguntar nada por motivos de conciencia».",
+   "def_sv": "Att undersöka och ställa frågor: ”forskade i Skrifterna”, ”utan att fråga för samvetets skull”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "使徒17:11、Ⅰコリ10:25・10:27。LXX Ⅰ列王記20:12 に並行。語義1・3との境界は連続的。教父の代表例は無い。"
+  },
+  {
+   "id": "3",
+   "label": "吟味する／評価する",
+   "label_en": "to scrutinize / assess",
+   "label_es": "discernir / evaluar",
+   "label_sv": "att bedöma / värdera",
+   "def": "吟味する、評価する、さばく。『霊的に吟味される』『霊的な人はすべてを吟味する』『人間の法廷で吟味される』。",
+   "def_en": "To weigh, assess, judge: “spiritually discerned”, “the spiritual person judges all things”, “judged by a human court”.",
+   "def_es": "Examinar, valorar, juzgar: «se disciernen espiritualmente», «el espiritual juzga todas las cosas», «ser juzgado por tribunal humano».",
+   "def_sv": "Att pröva, värdera, döma: ”bedöms på ett andligt sätt”, ”den andliga människan bedömer allt”, ”dömas av en mänsklig domstol”.",
+   "layers": {
+    "nt": 8,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "Ⅰコリ4:3（2回）・4:4・2:14・2:15（2回）・14:24・9:3。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42023014018": "1",
+  "n44004009004": "1",
+  "n44012019008": "1",
+  "n44017011018": "2",
+  "n44024008005": "1",
+  "n44028018002": "1",
+  "n46002014021": "3",
+  "n46002015004": "3",
+  "n46002015011": "3",
+  "n46004003009": "3",
+  "n46004003017": "3",
+  "n46004004012": "3",
+  "n46009003006": "3",
+  "n46010025008": "2",
+  "n46010027016": "2",
+  "n46014024014": "3"
+ },
+ "unresolved": [],
+ "layer_notes": "教父のパケット代表例は無い。"
+}

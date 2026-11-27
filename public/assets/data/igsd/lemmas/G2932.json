@@ -1,0 +1,56 @@
+{
+ "lemma": "κτάομαι",
+ "lemmaId": "grc:G2932",
+ "strong": "G2932",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "手に入れる・獲得する",
+   "label_en": "to get, to acquire",
+   "label_es": "adquirir, obtener",
+   "label_sv": "att skaffa, att förvärva",
+   "def": "得る、獲得する、買い取る。『金や銀や銅を財布に入れて行くな』『わたしは得るもののすべてに十一を納めています』『神の賜物を金で手に入れようと』『その人は不義の報酬で土地を手に入れ』『わたしはこの市民権を多額の金で買った』『忍耐によって、あなたがたは自分のいのちを獲得する』。",
+   "def_en": "To get, to acquire, to buy: “do not take gold, silver or copper in your purses”, “I give a tenth of all that I get”, “to obtain the gift of God with money”, “he acquired a field with the reward of his wrongdoing”, “I bought this citizenship for a large sum”, “by your endurance you will gain your lives”.",
+   "def_es": "Obtener, adquirir, comprar: «no os proveáis de oro, ni plata, ni cobre en vuestros cintos», «doy el diezmo de todo lo que gano», «obtener con dinero el don de Dios», «adquirió un campo con el salario de su iniquidad», «yo adquirí esta ciudadanía con una gran suma», «con vuestra paciencia ganaréis vuestras almas».",
+   "def_sv": "Att få, att förvärva, att köpa: ”skaffa inte guld, silver eller koppar i era bälten”, ”jag ger tionde av allt jag förvärvar”, ”skaffa sig Guds gåva för pengar”, ”han köpte en åker för orättfärdighetens lön”, ”jag har köpt denna medborgarrätt för en stor summa”, ”genom er uthållighet skall ni vinna era liv”.",
+   "layers": {
+    "nt": 6,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "マタイ10:9、ルカ18:12・21:19、使徒8:20・1:18・22:28。LXX（4.1・33.31）、教父（1.14.2・5.7）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "自分のものとする・制する（解釈が分かれる）",
+   "label_en": "to make one’s own, to control (disputed)",
+   "label_es": "hacer suyo, dominar (discutido)",
+   "label_sv": "att göra till sin, att behärska (omtvistat)",
+   "def": "『自分の器を…保つ』（σκεῦος の解釈：からだ／妻）。",
+   "def_en": "Keeping “one’s own vessel” (σκεῦος read either as the body or as a wife).",
+   "def_es": "Mantener «su propio vaso» (σκεῦος entendido como el cuerpo o como la esposa).",
+   "def_sv": "Att hålla ”sitt eget kärl” (σκεῦος tolkat antingen som kroppen eller som hustrun).",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "テサロニケ第一4:4。κτᾶσθαι τὸ ἑαυτοῦ σκεῦος の解釈（「獲得する」か「制する・保つ」か、σκεῦος がからだか妻か）は争われており決定しない。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40010009002": "1",
+  "n42018012008": "1",
+  "n42021019005": "1",
+  "n44001018004": "1",
+  "n44008020022": "1",
+  "n44022028011": "1",
+  "n52004004007": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（獲得／テサロニケ第一4:4）による。テサロニケ第一4:4 は解釈が分かれるため独立させ、決定しない。"
+}

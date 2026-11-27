@@ -1,0 +1,56 @@
+{
+ "lemma": "μεθύω",
+ "lemmaId": "grc:G3184",
+ "strong": "G3184",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "酔う",
+   "label_en": "to be drunk",
+   "label_es": "embriagarse",
+   "label_sv": "att vara drucken",
+   "def": "酒に酔う。『ある者は飢え、ある者は酔っている』『酔う者は夜、酔う』『酔っているのではない』『人々が十分飲んだころに』『酔いどれたちと一緒に』。",
+   "def_en": "To be drunk with wine: “one goes hungry and another gets drunk”, “those who get drunk are drunk at night”, “these people are not drunk”, “when people have drunk freely”, “with drunkards”.",
+   "def_es": "Estar ebrio de vino: «uno tiene hambre y otro se embriaga», «los que se embriagan, de noche se embriagan», «estos no están borrachos», «cuando ya han bebido mucho», «con los borrachos».",
+   "def_sv": "Att vara berusad av vin: ”den ene är hungrig och den andre drucken”, ”de som dricker sig druckna gör det om natten”, ”de är inte druckna”, ”när folk har druckit sig lustiga”, ”med suputer”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "コリント第一11:21、テサロニケ第一5:7、使徒2:15、ヨハネ2:10、マタイ24:49。LXX の代表例（34.5・31.26）は比喩的な用法で、この語義としては確認していない。教父の用例なし。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "酔う（比喩・黙示録）",
+   "label_en": "to be drunk (figurative, Revelation)",
+   "label_es": "embriagarse (figurado, Apocalipsis)",
+   "label_sv": "att vara drucken (bildligt, Uppenbarelseboken)",
+   "def": "『地に住む者たちはその淫行のぶどう酒に酔った』『聖徒の血に酔った女』。",
+   "def_en": "To be drunk in a figurative sense, as in Revelation: “those who dwell on the earth have become drunk with the wine of her sexual immorality”, “the woman drunk with the blood of the saints”.",
+   "def_es": "Estar ebrio en sentido figurado, como en el Apocalipsis: «los moradores de la tierra se han embriagado con el vino de su fornicación», «la mujer ebria de la sangre de los santos».",
+   "def_sv": "Att vara drucken i bildlig mening, som i Uppenbarelseboken: ”jordens invånare har druckit sig berusade av hennes otukts vin”, ”kvinnan som var drucken av de heligas blod”.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "黙示録17:2・17:6。LXX（34.5・31.26）に並行。教父の用例なし。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40024049013": "1",
+  "n43002010013": "1",
+  "n44002015007": "1",
+  "n46011021016": "1",
+  "n52005007010": "1",
+  "n66017002009": "2",
+  "n66017006005": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（字義の酩酊／比喩的な酩酊）による。"
+}

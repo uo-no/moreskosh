@@ -1,0 +1,41 @@
+{
+ "lemma": "πυρρός",
+ "lemmaId": "grc:G4450",
+ "strong": "G4450",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "赤い",
+   "label_en": "red",
+   "label_es": "rojo",
+   "label_sv": "röd",
+   "def": "赤い、火のような赤。『火のように赤い竜』『赤い馬』。使徒20:4 の語形 Πύρρου は人名 Πύρρος の語形で別レンマ。",
+   "def_en": "Red, red like fire: “a fiery red dragon”, “a red horse”. The form Πύρρου in Acts 20:4 is a form of the personal name Πύρρος, a separate lemma.",
+   "def_es": "Rojo, del color del fuego: «un gran dragón rojo como fuego», «un caballo bermejo». La forma Πύρρου de Hechos 20:4 es del nombre propio Πύρρος, otro lema.",
+   "def_sv": "Röd, eldröd: ”en eldröd drake”, ”en röd häst”. Formen Πύρρου i Apostlagärningarna 20:4 hör till personnamnet Πύρρος, ett annat lemma.",
+   "layers": {
+    "nt": 2,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "黙示録12:3・6:4。LXX、教父に並行。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n66006004005": "1",
+  "n66012003012": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "単一語義。新約に無い用法は代表例の範囲では見当たらない。",
+ "excluded": [
+  {
+   "ref": "ACT 20:4",
+   "form": "Πύρρου",
+   "reason": "人名 Πύρρος（ソパテロの父）で、固有名詞は本照合の対象外。"
+  }
+ ]
+}

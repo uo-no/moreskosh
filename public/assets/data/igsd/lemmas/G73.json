@@ -1,0 +1,55 @@
+{
+ "lemma": "ἀγών",
+ "lemmaId": "grc:G73",
+ "strong": "G73",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "競走・競技",
+   "label_en": "race, contest",
+   "label_es": "carrera, competición",
+   "label_sv": "kapplöpning, tävlan",
+   "def": "競技、競走。『わたしたちの前に置かれている競走を走りぬこう』。",
+   "def_en": "A contest or race: “let us run the race set before us”.",
+   "def_es": "Competición, carrera: «corramos la carrera que tenemos por delante».",
+   "def_sv": "Tävlan, kapplöpning: ”låt oss löpa det lopp som ligger framför oss”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ヘブル12:1。LXX（15.9・17.11）、教父（7.5・7.1）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "戦い・苦闘",
+   "label_en": "struggle, fight",
+   "label_es": "lucha, combate",
+   "label_sv": "kamp, strid",
+   "def": "戦い、苦闘、争い（比喩的）。『神の福音を大きな戦いのうちに語った』『信仰の戦いを戦い』『戦いをりっぱに戦い』『あなたがたのために、どんなに苦闘しているか』『同じ戦いを戦っている』。",
+   "def_en": "Struggle, fight or conflict (figurative): “declared God’s gospel in the midst of great conflict”, “fighting the fight of faith”, “I have fought the good fight”, “how great a struggle I have for you”, “having the same conflict”.",
+   "def_es": "Lucha, combate, conflicto (en sentido figurado): «anunciaros el evangelio de Dios en medio de gran oposición», «pelea la batalla de la fe», «he peleado la buena batalla», «cuán grande lucha sostengo por vosotros», «teniendo el mismo conflicto».",
+   "def_sv": "Strid, brottning, konflikt (bildligt): ”förkunnade Guds evangelium under hård kamp”, ”kämpa trons kamp”, ”jag har kämpat den goda kampen”, ”hur hårt jag kämpar för er”, ”ni har samma kamp”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "テサロニケ第一2:2、テモテ第一6:12、テモテ第二4:7、コロサイ2:1、ピリピ1:30。LXX、教父に並行。語義1との境界は連続的。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n50001030003": "2",
+  "n51002001006": "2",
+  "n52002002023": "2",
+  "n54006012004": "2",
+  "n55004007003": "2",
+  "n58012001023": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（競走・競技／戦い・苦闘）による。"
+}

@@ -1,0 +1,71 @@
+{
+ "lemma": "ὑπόστασις",
+ "lemmaId": "grc:G5287",
+ "strong": "G5287",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "確信・自信",
+   "label_en": "confidence, assurance",
+   "label_es": "confianza, seguridad",
+   "label_sv": "tillförsikt",
+   "def": "確信、自信、心構え。『その自慢が…確信をもって』『この誇りの確信において』『初めの確信を』。",
+   "def_en": "Confidence, assurance, an undertaking spirit: “this boast … in confidence”, “in this confidence of boasting”, “our original confidence”.",
+   "def_es": "Seguridad, confianza, disposición de ánimo: «esta confianza … de gloriarnos», «en esta confianza de mi gloria», «nuestra confianza del principio».",
+   "def_sv": "Visshet, tillit, hållning: ”denna stolthet … i förtröstan”, ”i denna tillförsikt att få berömma”, ”vår första tillförsikt”.",
+   "layers": {
+    "nt": 3,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "コリント第二9:4・11:17、ヘブル3:14。LXX に並行。教父の代表例では確認していない。語義2・3との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "本質・実体",
+   "label_en": "substance, being",
+   "label_es": "sustancia, realidad esencial",
+   "label_sv": "väsen, substans",
+   "def": "本質、実体、存在の裏づけ。『神の本質の刻印』（ヘブル1:3）。",
+   "def_en": "Essence, substance, that which underlies existence: “the exact imprint of God’s nature”. (Heb 1:3.)",
+   "def_es": "Esencia, sustancia, lo que da fundamento a la existencia: «la imagen misma de su sustancia». (Heb 1:3.)",
+   "def_sv": "Väsen, substans, det som ligger till grund: ”en avbild av Guds väsen”. (Hebr 1:3.)",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヘブル1:3。「本質・実体・位格」の読みは決定しない。語義1・3との境界は連続的。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "3",
+   "label": "確かなもの・保証（解釈が分かれる）",
+   "label_en": "certainty or guarantee (disputed)",
+   "label_es": "certeza o garantía (discutido)",
+   "label_sv": "visshet eller garanti (omtvistat)",
+   "def": "望むことの『確信』『実体』『保証』。",
+   "def_en": "The “assurance”, “substance” or “guarantee” of things hoped for.",
+   "def_es": "La «seguridad», «sustancia» o «garantía» de lo que se espera.",
+   "def_sv": "”Visshet”, ”verklighet” eller ”underpant” för det man hoppas.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヘブル11:1。「確信」「実体」「保証」のいずれかは争われており決定しない。語義2との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n47009004020": "1",
+  "n47011017014": "1",
+  "n58001003009": "2",
+  "n58003014010": "1",
+  "n58011001005": "3"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（確信／ヘブル1:3／ヘブル11:1）による。ヘブル1:3・11:1 は決定しない。"
+}

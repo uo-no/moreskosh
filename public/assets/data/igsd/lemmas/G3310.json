@@ -1,0 +1,54 @@
+{
+ "lemma": "μερίς",
+ "lemmaId": "grc:G3310",
+ "strong": "G3310",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "分け前・分",
+   "label_en": "share, portion",
+   "label_es": "parte, porción",
+   "label_sv": "del, lott",
+   "def": "分け前、受ける分。『信者と不信者とが何の分け前があるか』『この事にはあなたの分も権利もない』『光の中にある聖徒の分け前』『良い方を選んだ』。",
+   "def_en": "A share, the portion received: “what share has a believer with an unbeliever”, “you have neither part nor lot in this matter”, “the inheritance of the saints in the light”, “has chosen the good portion”.",
+   "def_es": "La parte que corresponde: «¿qué parte tiene el creyente con el incrédulo?», «no tienes tú parte ni suerte en este asunto», «la herencia de los santos en luz», «ha escogido la buena parte».",
+   "def_sv": "Andel, den del man får: ”vad har en troende för gemensamt med en otroende”, ”du har ingen del eller lott i detta”, ”det arv de heliga får i ljuset”, ”har valt den goda delen”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "コリント第二6:15、使徒8:21、コロサイ1:12、ルカ10:42。LXX、教父に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "地区・地方",
+   "label_en": "district, region",
+   "label_es": "región, distrito",
+   "label_sv": "område, distrikt",
+   "def": "地区、地方。『マケドニヤのその地区第一の町』。",
+   "def_en": "A district or region: “the leading city of that district of Macedonia”.",
+   "def_es": "Distrito, comarca: «la primera ciudad de la provincia de Macedonia».",
+   "def_sv": "Distrikt, trakt: ”den främsta staden i det distriktet av Makedonien”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒16:12。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n42010042011": "1",
+  "n44008021004": "1",
+  "n44016012008": "2",
+  "n47006015009": "1",
+  "n51001012009": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（分け前／地区）による。"
+}

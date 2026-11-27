@@ -1,0 +1,98 @@
+{
+ "lemma": "τράπεζα",
+ "lemmaId": "grc:G5132",
+ "strong": "G5132",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "食卓",
+   "label_en": "table",
+   "label_es": "mesa",
+   "label_sv": "bord",
+   "def": "食事の席、食卓。また食卓の食べ物。『主の食卓と悪霊の食卓』『食卓から落ちるパン屑』『食卓についている者』『食事を出した』。",
+   "def_en": "The place at a meal, a table; also the food on the table: “the table of the Lord and the table of demons”, “crumbs that fall from the table”, “those at the table”, “set food before them”.",
+   "def_es": "El lugar de la comida, la mesa, y también los alimentos que hay en ella: «la mesa del Señor y la mesa de los demonios», «las migajas que caen de la mesa», «el que está a la mesa», «les puso la mesa».",
+   "def_sv": "Platsen vid måltiden, bordet, även maten på bordet: ”Herrens bord och de onda andarnas bord”, ”smulorna som faller från bordet”, ”den som ligger till bords”, ”dukade fram mat”.",
+   "layers": {
+    "nt": 9,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "ルカ16:21・22:21・22:30、マタイ15:27、マルコ7:28、ローマ11:9、Ⅰコリ10:21（2回）、使徒16:34。LXX 出エジプト記・サムエル記、教父（11.9）に並行。"
+  },
+  {
+   "id": "2",
+   "label": "供えのパンの机",
+   "label_en": "table of the bread of the Presence",
+   "label_es": "mesa de los panes de la proposición",
+   "label_sv": "skådebrödsbordet",
+   "def": "聖所の机。『机と供えのパン』。",
+   "def_en": "The table in the holy place: “the table and the bread of the Presence”.",
+   "def_es": "La mesa del lugar santo: «la mesa y los panes de la proposición».",
+   "def_sv": "Bordet i det heliga: ”bordet och skådebröden”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "attested",
+    "fathers": "none"
+   },
+   "note": "ヘブル9:2 の1例。LXX 出エジプト記38:9 に並行。教父の代表例では確認していない。語義1との境界は連続的。"
+  },
+  {
+   "id": "3",
+   "label": "両替人の台／銀行",
+   "label_en": "money changer's table / bank",
+   "label_es": "mesa de cambista / banco",
+   "label_sv": "växlarbord / bank",
+   "def": "両替人の台、銀行。『両替人の台を倒し』『わたしの金を銀行に入れておかなかったのか』。",
+   "def_en": "A money changer's table, a bank: “overturned the tables of the money changers”, “why did you not put my money in the bank?”",
+   "def_es": "La mesa de los cambistas, el banco: «volcó las mesas de los cambistas», «¿por qué no pusiste mi dinero en el banco?».",
+   "def_sv": "Växlarnas bord, banken: ”välte omkull växlarnas bord”, ”varför satte du inte in mina pengar i banken?”.",
+   "layers": {
+    "nt": 4,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ヨハネ2:15、マタイ21:12、マルコ11:15、ルカ19:23。LXX・教父の代表例では確認していない。"
+  },
+  {
+   "id": "4",
+   "label": "（配給の）食卓",
+   "label_en": "tables (of distribution)",
+   "label_es": "mesas (de reparto)",
+   "label_sv": "bord (vid utdelningen)",
+   "def": "奉仕としての食卓。『食卓に仕える』（使徒6:2）。",
+   "def_en": "The table as a service: “to serve tables” (Acts 6:2).",
+   "def_es": "La mesa como servicio: «servir a las mesas» (Hch 6:2).",
+   "def_sv": "Bordet som tjänst: ”göra tjänst vid borden” (Apg 6:2).",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "使徒6:2 の1例。語義1・3との境界は連続的で、指す内容（食事の配給／金銭の取り扱い）は文脈による争点のため判定しない。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40015027018": "1",
+  "n40021012019": "3",
+  "n41007028013": "1",
+  "n41011015022": "3",
+  "n42016021009": "1",
+  "n42019023010": "3",
+  "n42022021012": "1",
+  "n42022030007": "1",
+  "n43002015025": "3",
+  "n44006002020": "4",
+  "n44016034008": "1",
+  "n45011009006": "1",
+  "n46010021011": "1",
+  "n46010021015": "1",
+  "n58009002013": "2"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用例による。"
+}

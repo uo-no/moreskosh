@@ -1,0 +1,55 @@
+{
+ "lemma": "πρᾶξις",
+ "lemmaId": "grc:G4234",
+ "strong": "G4234",
+ "status": "final",
+ "collation": "extended",
+ "updated": "2026-11-27",
+ "senses": [
+  {
+   "id": "1",
+   "label": "行い・所業",
+   "label_en": "deed, practice",
+   "label_es": "obra, hecho",
+   "label_sv": "gärning, handlingssätt",
+   "def": "行い、所業、振る舞い。『その行いに応じて報いる』『自分たちの行いを打ち明け』『その行いと共に脱ぎ捨てた』『からだの行い』『彼らの計画や行動に』。",
+   "def_en": "A deed, practice, conduct: “he will repay according to what each has done”, “confessing and disclosing their practices”, “put off together with its practices”, “the deeds of the body”, “to their plans and actions”.",
+   "def_es": "Obra, proceder, conducta: «pagará a cada uno conforme a sus obras», «dando cuenta de sus hechos», «despojado con sus hechos», «las obras de la carne del cuerpo», «con sus propósitos y hechos».",
+   "def_sv": "Gärning, beteende, uppförande: ”skall löna var och en efter hans gärningar”, ”bekände och berättade vad de gjort”, ”lagt av tillsammans med dess gärningar”, ”kroppens gärningar”, ”till deras planer och handlingar”.",
+   "layers": {
+    "nt": 5,
+    "lxx": "attested",
+    "fathers": "attested"
+   },
+   "note": "マタイ16:27、使徒19:18、コロサイ3:9、ローマ8:13、ルカ23:51。LXX（13.22・37.16）、教父（23.5.5・30.7）に並行。語義2との境界は連続的。"
+  },
+  {
+   "id": "2",
+   "label": "働き・機能",
+   "label_en": "function",
+   "label_es": "función",
+   "label_sv": "uppgift, funktion",
+   "def": "からだの各部の働き、機能。『肢体がみな同じ働きをしていない』。",
+   "def_en": "The working or function of the parts of a body: “the members do not all have the same function”.",
+   "def_es": "La actividad o función de los miembros del cuerpo: «no todos los miembros tienen la misma función».",
+   "def_sv": "Kroppsdelarnas verksamhet eller funktion: ”alla lemmar har inte samma uppgift”.",
+   "layers": {
+    "nt": 1,
+    "lxx": "none",
+    "fathers": "none"
+   },
+   "note": "ローマ12:4。語義1との境界は連続的。LXX・教父の代表例では確認していない。"
+  }
+ ],
+ "idioms": [],
+ "assignments": {
+  "n40016027024": "1",
+  "n42023051009": "1",
+  "n44019018010": "1",
+  "n45008013012": "1",
+  "n45012004017": "2",
+  "n51003009011": "1"
+ },
+ "unresolved": [],
+ "layer_notes": "語義区分は用法（行い／働き・機能）による。"
+}
