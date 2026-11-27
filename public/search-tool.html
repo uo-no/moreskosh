@@ -1413,6 +1413,8 @@ body.is-lobby .prox-sub { margin-left: auto; margin-right: auto; }
 .igsd-sense-h { font-size: var(--s-ts-sm); font-weight: 700; color: var(--text-main); }
 .igsd-sense-count { font-weight: 400; color: var(--text-sub); font-size: var(--text-caption); margin-left: 6px; }
 .igsd-sense-def { font-size: var(--text-caption); color: var(--text-sub); margin: 4px 0 8px; line-height: 1.6; }
+.igsd-source { font-size: var(--text-caption); color: var(--text-sub); margin: -4px 0 10px; line-height: 1.6; }
+.igsd-sense-attest { font-size: var(--text-caption); color: var(--text-sub); margin: -4px 0 8px; line-height: 1.6; }
 .genre-tab[hidden] { display: none; }
 .rev-panel { margin-bottom: 16px; }
 .rev-head { display: flex; align-items: baseline; flex-wrap: wrap; gap: 6px 12px; margin-bottom: 4px; }
@@ -6577,6 +6579,27 @@ async function _igsdOpenPage(entry,group,groups,query,word2,words,fromGreekQuery
     if(!data||!giMap){close();return;} // 取得失敗は静かに従来表示へ戻す
     _igsdRenderPage(page,entry,data,giMap,group,query,word2,words,close);
 }
+/* 低頻度帯（拡張照合）の出どころ表示。collation／layers を持つデータだけに行を出す（482語など持たないデータでは何も出さない）。 */
+function _igsdLayerNts(layers){
+    const L=layers||{};
+    const names=[_tf('search.word.layerNt','新約')];
+    if(L.lxx==='attested')names.push(_tf('search.word.layerLxx','LXX'));
+    if(L.fathers==='attested')names.push(_tf('search.word.layerFathers','教父'));
+    return names;
+}
+function _igsdAttestText(layers){
+    const names=_igsdLayerNts(layers);
+    if(names.length===1)return _tf('search.word.attestedNtOnly','裏づけ：新約のみ');
+    return _tf('search.word.attested','裏づけ：{list}',{list:names.join(_nonJa()?' · ':'・')});
+}
+function _igsdSourceText(data){
+    if(!data||data.collation!=='extended')return '';
+    const ss=Array.isArray(data.senses)?data.senses:[];
+    const ntOnly=ss.length>0&&ss.every(x=>x&&x.layers&&x.layers.lxx==='none'&&x.layers.fathers==='none');
+    return ntOnly
+        ?_tf('search.word.extendedNtOnly','拡張照合（新約のみ） — LXX・教父に用例がないため、語義は新約の用例のみに基づく')
+        :_tf('search.word.extended','拡張照合 — 語義は新約の全用例から立て、LXX・教父の用例で裏づけを確認した');
+}
 function _igsdRenderPage(page,entry,data,giMap,group,query,word2,words,close){
     // 割り当て（globalIdx→"Strong:senseId"）で、検索ツールが既に保持している用例を語義別に振り分ける。
     // 値の Strong が開いている語と一致する場合だけ採用する。
@@ -6603,6 +6626,8 @@ function _igsdRenderPage(page,entry,data,giMap,group,query,word2,words,close){
         <span class="igsd-meta">${_escH(entry.strong)}</span>
         <span class="igsd-meta">${_tp('search.word.total','全{n}回（新約）',Number(entry.total),{n:Number(entry.total).toLocaleString()})}</span>`;
     page.appendChild(head);
+    const _srcTxt=_igsdSourceText(data);
+    if(_srcTxt){const src=document.createElement('div');src.className='igsd-source';src.textContent=_srcTxt;page.appendChild(src);}
 
     /* 語ページは語義層に専念: 見出し → 語義グループ群 → 出現分布（新約のみ）の順 */
     const sensesWrap=document.createElement('div');
@@ -6673,7 +6698,8 @@ function _igsdRenderPage(page,entry,data,giMap,group,query,word2,words,close){
             const _ds=defs.get(String(s.id))||{};
             const def=(_svMode()&&_ds.def_sv)||(_enMode()&&_ds.def_en)||(_esMode()&&_ds.def_es)||_ds.def||'';
             sec.innerHTML=`<div class="igsd-sense-h">${_escH((_svMode()&&s.label_sv)||(_enMode()&&s.label_en)||(_esMode()&&s.label_es)||s.label)}<span class="igsd-sense-count">${_tp('search.count.hits','{n}件',Number(s.count),{n:Number(s.count).toLocaleString()})}</span></div>
-                ${def?`<div class="igsd-sense-def">${_escH(def)}</div>`:''}`;
+                ${def?`<div class="igsd-sense-def">${_escH(def)}</div>`:''}
+                ${_ds.layers?`<div class="igsd-sense-attest">${_escH(_igsdAttestText(_ds.layers))}</div>`:''}`;
             const wrap=document.createElement('div');sec.appendChild(wrap);
             if(list.length===0){
                 wrap.innerHTML='<div class="igsd-empty">'+_escH(_tf('search.word.noExamples','この条件で表示できる用例はありません'))+'</div>';
