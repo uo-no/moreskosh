@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<title>NGSD 辞書 — 「G1543」の検索から</title>
+<style>
+@page { size: A4; margin: 16mm 14mm 16mm 14mm; }
+/* ギリシャ文字は和文の中でも Noto Serif で組む（和文書体の単調ギリシャ字形に落ちないように） */
+@font-face { font-family: "GkSerif"; src: local("Noto Serif"), local("NotoSerif-Regular"); unicode-range: U+0300-036F, U+0370-03FF, U+1F00-1FFF; font-weight: 400; }
+@font-face { font-family: "GkSerif"; src: local("Noto Serif Bold"), local("NotoSerif-Bold"); unicode-range: U+0300-036F, U+0370-03FF, U+1F00-1FFF; font-weight: 700; }
+:root { --ink: #1a1a1a; --sub: #555; --rule: #bbb; --accent: #2f5d3a; }
+* { box-sizing: border-box; }
+html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+body { margin: 0; color: var(--ink); background: #fff; font-family: "GkSerif", "Noto Serif CJK JP", "Noto Serif", serif; font-size: 8.6pt; line-height: 1.55; }
+.gk { font-family: "Noto Serif", "Noto Serif CJK JP", serif; }
+b { font-weight: 700; }
+header.cv { border-bottom: 0.6pt solid var(--ink); padding-bottom: 3mm; margin-bottom: 4mm; }
+header.cv .series { font-size: 8pt; letter-spacing: 0.2em; color: var(--accent); margin: 0; }
+header.cv h1 { font-size: 20pt; font-weight: 700; margin: 1mm 0 2mm; letter-spacing: 0.04em; }
+header.cv dl { display: grid; grid-template-columns: auto 1fr auto 1fr; gap: 0.5mm 4mm; margin: 0; font-size: 8.2pt; }
+header.cv dt { color: var(--sub); }
+header.cv dd { margin: 0; }
+header.cv dd.q { font-family: "Noto Serif", "Noto Serif CJK JP", serif; word-break: break-all; }
+h2 { font-size: 9pt; font-weight: 700; color: var(--accent); margin: 0 0 1.5mm; letter-spacing: 0.1em; }
+.howto { font-size: 7.4pt; color: var(--sub); border: 0.4pt solid var(--rule); padding: 1.5mm 2.5mm; margin-bottom: 4mm; }
+.howto p { margin: 0; }
+main { column-count: 2; column-gap: 7mm; column-rule: 0.3pt solid var(--rule); }
+.en { break-inside: avoid-column; margin: 0 0 3.2mm; padding-bottom: 2.4mm; border-bottom: 0.3pt solid #ddd; }
+.en p { margin: 0; }
+.hw { line-height: 1.35; margin-bottom: 0.6mm; }
+.hw .lemma { font-size: 12.5pt; font-weight: 700; }
+.hw .tr { font-style: italic; color: var(--sub); font-size: 8.4pt; font-family: "Noto Serif", serif; }
+.hw .meta { font-size: 7.6pt; color: var(--sub); }
+.hw .meta .nw { white-space: nowrap; }
+.cs { margin: 1mm 0 1.2mm; }
+.cl .sn { display: inline-block; min-width: 3.6mm; height: 3.6mm; line-height: 3.6mm; text-align: center; font-size: 6.8pt; color: #fff; background: var(--accent); border-radius: 0.8mm; margin-right: 1.2mm; vertical-align: 0.3mm; padding: 0 0.6mm; }
+.cl .lb { font-weight: 700; font-size: 9.4pt; }
+.cnt { font-size: 7pt; color: var(--sub); }
+.df { margin-top: 0.4mm !important; text-align: justify; }
+.rl { font-size: 7.8pt; margin-top: 0.6mm !important; }
+.rl .refs { color: var(--sub); font-size: 7pt; }
+ul.here { list-style: none; margin: 0.6mm 0 0; padding: 0; }
+ul.here li { font-size: 8.6pt; line-height: 1.45; padding-left: 7mm; text-indent: -7mm; }
+/* --hits：1項目や1語義が1段に収まらないこと（単一見出し語の全語義、用例の多い語義など）があるので、段をまたげるようにする。
+   語義名の直後と、用例1行の途中では改段しない */
+.en, .cs { break-inside: auto; }
+.cl, .df { break-after: avoid-column; }
+ul.here li { break-inside: avoid-column; }
+ul.here li.lg { padding-left: 0; text-indent: 0; }
+ul.here li.lg .ref { width: auto; margin-right: 1.4mm; }
+ul.here .ref { display: inline-block; width: 7mm; text-indent: 0; font-size: 7pt; color: var(--accent); font-family: "Noto Serif CJK JP", serif; }
+.k { display: inline-block; font-size: 6.8pt; color: var(--sub); border: 0.3pt solid var(--rule); border-radius: 0.8mm; padding: 0 1mm; margin-right: 1.4mm; line-height: 1.5; }
+.ot, .fm { font-size: 7.8pt; margin-top: 0.8mm !important; }
+.ot .o, .fm .o { margin-right: 2.4mm; }
+.ot .o::after, .fm .o::after { content: ""; }
+/* 行末の最後の項目の右マージンが枠の外に出て、横幅（スクロール幅）に数えられるのを防ぐ（縮小印刷の原因になりうる） */
+.ot .o:last-child, .fm .o:last-child { margin-right: 0; }
+/* 行末がタグ（インラインブロック）で終わる項目の右マージンも枠外に出うる。余白だけなので横方向をクリップして、スクロール幅に数えさせない */
+.ot, .fm { overflow-x: clip; }
+.sn2 { font-size: 6.8pt; color: var(--accent); margin-right: 0.6mm; }
+.id { font-size: 7.8pt; margin-top: 0.8mm; }
+.id p { padding-left: 2mm; }
+.id .refs { color: var(--sub); font-size: 7pt; }
+.url { font-size: 6.6pt; color: var(--sub); margin-top: 0.8mm !important; font-family: "Noto Serif", serif; word-break: break-all; }
+.url a { color: var(--accent); text-decoration: underline; text-decoration-thickness: 0.2pt; }
+.tg { display: inline-block; font-size: 6.2pt; line-height: 1.4; color: var(--accent); border: 0.3pt solid var(--accent); border-radius: 0.8mm; padding: 0 0.9mm; margin-left: 0.8mm; vertical-align: 0.2mm; white-space: nowrap; }
+footer.cr { margin-top: 5mm; border-top: 0.6pt solid var(--ink); padding-top: 2mm; font-size: 7pt; color: #333; break-inside: avoid; }
+footer.cr h2 { font-size: 7.6pt; }
+footer.cr ul { margin: 0; padding-left: 4mm; }
+</style>
+</head>
+<body>
+<header class="cv">
+<p class="series">NGSD 辞書　検索から</p>
+<h1>「G1543」の検索から</h1>
+<dl>
+<dt>検索</dt><dd class="q">moreskosh.com/ja/search/G1543</dd>
+<dt>ヒット</dt><dd>新約 20語（LXX のヒット 15 語は除く）</dd>
+<dt>収録見出し語</dt><dd>1（うち NGSD 収録 1）</dd>
+<dt>生成日</dt><dd>2026-11-28</dd>
+<dt>語義</dt><dd>NGSD（New Testament Greek Sense Database）</dd>
+</dl>
+</header>
+<div class="howto">
+<p>検索が一つの見出し語に解決されるので、その語の全語義を全文で載せ、ヒットした用例をそれぞれの語義の下に置いています。各項目は見出し（原形・Strong 番号・品詞・新約での総出現数）、語義（番号・ラベル・新約での件数・定義・ヒットした用例）、フレーズ、ヒットした形の順です。固有名詞は語義の代わりに、同定データがあるものは同定（その名前が誰・何を指すか。役割・表記を含む）を載せ、データのないものは見出しと用例のみです。他の語義の定義と用例は、項目の末尾のリンク先（語ページ）にあります。</p>
+<p>語義の右のタグは、その語義の裏づけの範囲です。<b>新約のみ</b>：LXX・使徒教父に用例がなく、新約の用例のみに基づく。<b>新約・LXX</b>：新約の全用例から立て、LXX の用例で裏づけを確認した。<b>新約・使徒教父</b>：同、使徒教父の用例で確認した。<b>新約・LXX・使徒教父</b>：同、LXX と使徒教父の両方で確認した。タグのない語義は、辞書との照合を経て新約の全用例に割り当てたものです。</p>
+</div>
+<main>
+<article class="en"><div class="hw"><span class="gk lemma" lang="grc">ἑκατοντάρχης</span> <span class="tr">hekatontarchēs</span> <span class="meta">G1543　<span class="nw">名詞　新約 20回</span></span></div>
+<div class="cs"><p class="cl"><span class="sn">1</span><span class="lb">百人隊長</span> <span class="cnt">新約 20回</span> <span class="tg" data-sense="G1543:1">新約のみ</span></p><p class="df">ローマ軍の百人隊長（centurio）。福音書では信仰を示す者・十字架のそばの者、使徒行伝ではコルネリオ・パウロの護送者。</p><ul class="here"><li class="lg"><span class="ref">マタイ 8:5</span> <span class="gk" lang="grc">… αὐτοῦ εἰς Καφαρναοὺμ προσῆλθεν αὐτῷ <b>ἑκατόνταρχος</b> παρακαλῶν αὐτὸν</span></li><li class="lg"><span class="ref">マタイ 8:8</span> <span class="gk" lang="grc">καὶ ἀποκριθεὶς ὁ <b>ἑκατόνταρχος</b> ἔφη· Κύριε, οὐκ εἰμὶ ἱκανὸς …</span></li><li class="lg"><span class="ref">マタイ 8:13</span> <span class="gk" lang="grc">καὶ εἶπεν ὁ Ἰησοῦς τῷ <b>ἑκατοντάρχῃ·</b> Ὕπαγε, ὡς ἐπίστευσας γενηθήτω σοι· …</span></li><li class="lg"><span class="ref">マタイ 27:54</span> <span class="gk" lang="grc">Ὁ δὲ <b>ἑκατόνταρχος</b> καὶ οἱ μετ’ αὐτοῦ τηροῦντες …</span></li><li class="lg"><span class="ref">ルカ 7:2</span> <span class="gk" lang="grc"><b>Ἑκατοντάρχου</b> δέ τινος δοῦλος κακῶς ἔχων …</span></li><li class="lg"><span class="ref">ルカ 7:6</span> <span class="gk" lang="grc">… τῆς οἰκίας ἔπεμψεν φίλους ὁ <b>ἑκατοντάρχης</b> λέγων αὐτῷ· Κύριε, μὴ σκύλλου, …</span></li><li class="lg"><span class="ref">ルカ 23:47</span> <span class="gk" lang="grc">Ἰδὼν δὲ ὁ <b>ἑκατοντάρχης</b> τὸ γενόμενον ἐδόξαζεν τὸν θεὸν …</span></li><li class="lg"><span class="ref">使徒 10:1</span> <span class="gk" lang="grc">… τις ἐν Καισαρείᾳ ὀνόματι Κορνήλιος, <b>ἑκατοντάρχης</b> ἐκ σπείρης τῆς καλουμένης Ἰταλικῆς,</span></li><li class="lg"><span class="ref">使徒 10:22</span> <span class="gk" lang="grc">οἱ δὲ εἶπαν· Κορνήλιος <b>ἑκατοντάρχης,</b> ἀνὴρ δίκαιος καὶ φοβούμενος τὸν …</span></li><li class="lg"><span class="ref">使徒 21:32</span> <span class="gk" lang="grc">ὃς ἐξαυτῆς παραλαβὼν στρατιώτας καὶ <b>ἑκατοντάρχας</b> κατέδραμεν ἐπ’ αὐτούς, οἱ δὲ …</span></li><li class="lg"><span class="ref">使徒 22:25</span> <span class="gk" lang="grc">… ἱμᾶσιν εἶπεν πρὸς τὸν ἑστῶτα <b>ἑκατόνταρχον</b> ὁ Παῦλος· Εἰ ἄνθρωπον Ῥωμαῖον …</span></li><li class="lg"><span class="ref">使徒 22:26</span> <span class="gk" lang="grc">ἀκούσας δὲ ὁ <b>ἑκατοντάρχης</b> προσελθὼν τῷ χιλιάρχῳ ἀπήγγειλεν λέγων· …</span></li><li class="lg"><span class="ref">使徒 23:17</span> <span class="gk" lang="grc">… δὲ ὁ Παῦλος ἕνα τῶν <b>ἑκατονταρχῶν</b> ἔφη· Τὸν νεανίαν τοῦτον ἄπαγε …</span></li><li class="lg"><span class="ref">使徒 23:23</span> <span class="gk" lang="grc">Καὶ προσκαλεσάμενός τινας δύο τῶν <b>ἑκατονταρχῶν</b> εἶπεν· Ἑτοιμάσατε στρατιώτας διακοσίους ὅπως …</span></li><li class="lg"><span class="ref">使徒 24:23</span> <span class="gk" lang="grc">διαταξάμενος τῷ <b>ἑκατοντάρχῃ</b> τηρεῖσθαι αὐτὸν ἔχειν τε ἄνεσιν …</span></li><li class="lg"><span class="ref">使徒 27:1</span> <span class="gk" lang="grc">… Παῦλον καί τινας ἑτέρους δεσμώτας <b>ἑκατοντάρχῃ</b> ὀνόματι Ἰουλίῳ σπείρης Σεβαστῆς.</span></li><li class="lg"><span class="ref">使徒 27:6</span> <span class="gk" lang="grc">κἀκεῖ εὑρὼν ὁ <b>ἑκατοντάρχης</b> πλοῖον Ἀλεξανδρῖνον πλέον εἰς τὴν …</span></li><li class="lg"><span class="ref">使徒 27:11</span> <span class="gk" lang="grc">ὁ δὲ <b>ἑκατοντάρχης</b> τῷ κυβερνήτῃ καὶ τῷ ναυκλήρῳ …</span></li><li class="lg"><span class="ref">使徒 27:31</span> <span class="gk" lang="grc">εἶπεν ὁ Παῦλος τῷ <b>ἑκατοντάρχῃ</b> καὶ τοῖς στρατιώταις· Ἐὰν μὴ …</span></li><li class="lg"><span class="ref">使徒 27:43</span> <span class="gk" lang="grc">ὁ δὲ <b>ἑκατοντάρχης</b> βουλόμενος διασῶσαι τὸν Παῦλον ἐκώλυσεν …</span></li></ul></div>
+<p class="fm"><span class="k">ヒットした形</span><span class="o"><span class="gk" lang="grc">ἑκατοντάρχης</span> 主格・男性・単数 <span class="cnt">×8</span></span><span class="o"><span class="gk" lang="grc">ἑκατοντάρχῃ</span> 与格・男性・単数 <span class="cnt">×4</span></span><span class="o"><span class="gk" lang="grc">ἑκατόνταρχος</span> 主格・男性・単数 <span class="cnt">×3</span></span><span class="o"><span class="gk" lang="grc">ἑκατονταρχῶν</span> 属格・男性・複数 <span class="cnt">×2</span></span><span class="o"><span class="gk" lang="grc">ἑκατοντάρχας</span> 対格・男性・複数</span><span class="o"><span class="gk" lang="grc">ἑκατόνταρχον</span> 対格・男性・単数</span><span class="o"><span class="gk" lang="grc">Ἑκατοντάρχου</span> 属格・男性・単数</span></p>
+<p class="url">全語義・用例：<a href="https://moreskosh.com/ja/word/G1543/">moreskosh.com/ja/word/G1543</a></p></article>
+</main>
+<footer class="cr">
+<h2>出典</h2>
+<ul>
+<li>語義：NGSD（New Testament Greek Sense Database、本プロジェクト作成）。語義の確定は Abbott-Smith と用例分析を基礎とし、判断の分かれる箇所では BDAG を参照して照合した。語義ラベルと定義はすべて本プロジェクトの独自記述で、BDAG の本文は含まない。</li>
+<li>ギリシャ語本文・形態：SBLGNT（© SBL / Faithlife、CC BY 4.0）／MACULA Greek（© Biblica, Inc.、CC BY 4.0）に基づく派生データ</li>
+<li>書体：Noto Serif CJK JP・Noto Serif（SIL Open Font License 1.1）</li>
+</ul>
+</footer>
+</body>
+</html>

@@ -8,6 +8,12 @@
  * 根拠の説明（拡張照合／拡張照合（新約のみ））は凡例に一度だけ載せる。固有名詞は、同定ドラフト（proper-nouns/drafts/）が
  * あれば、範囲内のトークンが属する同定（と役割・表記）を見出しの下に示す。ドラフトがない固有名詞は注記なしで見出し・用例・形のみ。
  *
+ * #418 拡張：検索のヒット集合を入力にするモード（--hits <json>）を追加。Greekn（/search）の URL が小辞典として何を意味するかの
+ * 検証用。入力 JSON は { title, url, note?, allSenses?, gis:[globalIdx…] }（scripts/search-hits-harness.cjs で検索画面から取り出した
+ * 新約のヒット）。項目＝ヒットしたトークンの見出し語、並び＝ヒット集合内の初出順（新約の書・章・節の順）、中心の語義＝ヒットに
+ * 割り当てられた語義（ヒット件数の多い順）。allSenses（単一の見出し語に解決されるパターン）は全語義を全文で載せる。
+ * 範囲モード（--range）の出力は変えない。
+ *
  * #417 改訂：利用者に見える用語を置き換えた（レンマ→見出し語、成句→フレーズ。冒頭の「収録見出し語」、凡例、各項目のフレーズ欄）。
  *
  * #416 改訂：出典欄の語義クレジットから編者名を外し、ヘッダーと同じ「NGSD（New Testament Greek Sense Database）」の表記にそろえた。
@@ -49,10 +55,12 @@ const LINK_HOST = 'moreskosh.com'; // 語ページへのリンク（https://more
 const args = process.argv.slice(2);
 const arg = (k, d) => { const i = args.indexOf(k); return i >= 0 ? args[i + 1] : d; };
 const RANGE = arg('--range', 'ROM 1:1');
+const HITS_FILE = arg('--hits', null);   // #418：検索のヒット集合モード
+const HITS = HITS_FILE ? JSON.parse(fs.readFileSync(path.resolve(HITS_FILE), 'utf8')) : null;
 const OUT = arg('--out', null);
 const DATE = arg('--date', new Date().toISOString().slice(0, 10));
 const NO_PDF = args.includes('--no-pdf');
-if (!OUT) { console.error('usage: --range "ROM 1:1" --out <path-without-ext>'); process.exit(2); }
+if (!OUT) { console.error('usage: (--range "ROM 1:1" | --hits <hits.json>) --out <path-without-ext>'); process.exit(2); }
 
 const readJson = (p) => JSON.parse(fs.readFileSync(path.join(PUB, p), 'utf8'));
 const esc = (s) => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
@@ -63,7 +71,7 @@ require(path.join(PUB, 'assets/js/translit.js'));
 const translit = globalThis.Translit.of;
 
 /* ───────── 範囲 ───────── */
-const m = /^([1-3]?[A-Z]{2,3})\s+(\d+)(?::(\d+)(?:-(\d+))?)?$/.exec(RANGE.trim());
+const m = /^([1-3]?[A-Z]{2,3})\s+(\d+)(?::(\d+)(?:-(\d+))?)?$/.exec(HITS ? 'ROM 1' : RANGE.trim());
 if (!m) { console.error('STOP: 範囲の形式が不正: ' + RANGE); process.exit(2); }
 const BOOK = m[1], CH = Number(m[2]);
 const V1 = m[3] ? Number(m[3]) : null, V2 = m[4] ? Number(m[4]) : V1;
@@ -71,28 +79,44 @@ const books = readJson('books.json').NT;
 const bookByKey = new Map(books.map((b) => [b.key, b]));
 if (!bookByKey.has(BOOK)) { console.error('STOP: 書名が不明: ' + BOOK); process.exit(2); }
 const BOOK_JA = bookByKey.get(BOOK).name;
-const rangeJa = V1 == null ? `${BOOK_JA} ${CH}章` : V1 === V2 ? `${BOOK_JA} ${CH}:${V1}` : `${BOOK_JA} ${CH}:${V1}–${V2}`;
+const rangeJa = HITS ? HITS.title : V1 == null ? `${BOOK_JA} ${CH}章` : V1 === V2 ? `${BOOK_JA} ${CH}:${V1}` : `${BOOK_JA} ${CH}:${V1}–${V2}`;
 
 /* ───────── 入力 ───────── */
 const t0 = Date.now();
 const igsdIndex = readJson('assets/data/igsd/index.json');
 const igsdByStrong = new Map(igsdIndex.map((e) => [e.strong, e]));
 const senseMap = readJson('assets/data/igsd/sense-map-gi.json');
-const chTokens = readJson(`bible_data/nt/${BOOK}/${CH}.json`);
+const chTokens = HITS ? [] : readJson(`bible_data/nt/${BOOK}/${CH}.json`);
 const inRange = (t) => V1 == null || (Number(t.verse) >= V1 && Number(t.verse) <= V2);
-const rangeTokens = chTokens.filter(inRange);
+let rangeTokens = chTokens.filter(inRange);
 
 /* 新約全体の Strong ごとのトークン数（NGSD 未収録語の出現数に使う。lemma 一致はアクセント・大文字を無視） */
 const loose = (s) => s.normalize('NFD').replace(/\p{M}/gu, '').toLowerCase();
 const ntCount = new Map(); // strong + '\u0000' + loose(lemma) → n
+const verseKey = (t) => `${t.book} ${t.chapter}:${t.verse}`;
+const byVerse = new Map();   // "ROM 1:1" → その節のトークン（KWIC 用）
+const byGi = new Map();      // globalIdx → トークン（--hits 用）
 for (const b of books) {
   for (let c = 1; c <= b.chapters; c++) {
-    for (const t of readJson(`bible_data/nt/${b.key}/${c}.json`)) {
+    const toks = (!HITS && b.key === BOOK && c === CH) ? chTokens : readJson(`bible_data/nt/${b.key}/${c}.json`);
+    for (const t of toks) {
       const k = t.strong + '\u0000' + loose(t.lemma);
       ntCount.set(k, (ntCount.get(k) || 0) + 1);
+      const vk = verseKey(t);
+      if (!byVerse.has(vk)) byVerse.set(vk, []);
+      byVerse.get(vk).push(t);
+      if (HITS) byGi.set(Number(t.globalIdx), t);
     }
   }
 }
+/* --hits：ヒットの globalIdx を本文データのトークンに引き当てる（新約の書・章・節の順＝globalIdx 順） */
+if (HITS) {
+  const miss = [];
+  rangeTokens = [...new Set(HITS.gis.map(Number))].sort((a, b) => a - b).map((gi) => { const t = byGi.get(gi); if (!t) miss.push(gi); return t; }).filter(Boolean);
+  if (miss.length) { console.error(`STOP: 本文データに無い globalIdx ${miss.length} 件：${miss.slice(0, 5).join(', ')}`); process.exit(2); }
+}
+const refLabel = (t) => (HITS ? `${bookByKey.get(t.book).name} ${t.chapter}:${t.verse}` : `${CH}:${t.verse}`);
+const hereLi = (t) => `<li${HITS ? ' class="lg"' : ''}><span class="ref">${esc(refLabel(t))}</span> <span class="gk" lang="grc">${kwic(t)}</span></li>`;
 
 /* ───────── ラベル表（品詞は app/ui/app-shell.js の pos、形態は scripts/build-static-pages.cjs の MORPH.ja と同じ） ───────── */
 const POS = { noun: '名詞', adj: '形容詞', verb: '動詞', prep: '前置詞', conj: '接続詞', det: '限定詞', pron: '代名詞', adv: '副詞', ptcl: '添語', num: '数詞', intj: '間投詞' };
@@ -154,11 +178,9 @@ for (const t of rangeTokens) {
 const list = [...entries.values()];
 
 /* ───────── KWIC（その箇所の用例：節の中の語を前後5語で示す） ───────── */
-const byVerse = new Map();
-for (const t of chTokens) { const v = Number(t.verse); if (!byVerse.has(v)) byVerse.set(v, []); byVerse.get(v).push(t); }
 const tokText = (t) => nfc(t.text) + (t.after || '');
 function kwic(t) {
-  const vs = byVerse.get(Number(t.verse));
+  const vs = byVerse.get(verseKey(t));
   const i = vs.indexOf(t);
   const W = 5;
   const a = Math.max(0, i - W), b = Math.min(vs.length, i + W + 1);
@@ -176,7 +198,7 @@ function identHtml(e) {
     const hit = new Map(); // 同定 id → { ident, roles: Map }
     for (const x of e.toks) {
       if (x.t.lemmaId !== lid) continue;
-      const ref = `${BOOK} ${CH}:${x.t.verse}`;
+      const ref = verseKey(x.t);
       const ids = d.identifications.filter((i) => (i.refs || []).includes(ref));
       if (ids.length > 1) warnings.push(`複数の同定に該当 ${lid} ${ref}: ${ids.map((i) => i.id).join('・')}（候補をすべて表示）`);
       for (const i of ids) {
@@ -210,7 +232,10 @@ function entryHtml(e) {
     const strongs = (idx.strongs || [e.strong]).filter((s) => s !== e.strong);
     h.push(`<div class="hw"><span class="gk lemma" lang="grc">${esc(e.lemma)}</span> <span class="tr">${esc(tr)}</span> <span class="meta">${esc(e.strong)}${strongs.length ? `（${esc(strongs.join('・'))} を含む）` : ''}　<span class="nw">${esc(pos)}　新約 ${num(idx.total)}回</span></span></div>`);
 
-    const central = [...new Set(e.toks.map((x) => x.sense))].sort((a, b) => Number(a) - Number(b));
+    /* 中心の語義：範囲モードは番号順。--hits はヒット件数の多い順（同数は番号順）。allSenses は全語義（番号順） */
+    const hitN = (sid) => e.toks.filter((x) => x.sense === sid).length;
+    const central = HITS && HITS.allSenses ? data.senses.map((x) => String(x.id))
+      : [...new Set(e.toks.map((x) => x.sense))].sort((a, b) => (HITS ? hitN(b) - hitN(a) : 0) || Number(a) - Number(b));
     for (const sid of central) {
       const s = data.senses.find((x) => String(x.id) === sid);
       const cnt = idx.senses.find((x) => String(x.id) === sid).count;
@@ -218,7 +243,7 @@ function entryHtml(e) {
       const here = e.toks.filter((x) => x.sense === sid);
       h.push(`<div class="cs"><p class="cl"><span class="sn">${esc(sid)}</span><span class="lb">${esc(s.label)}</span> <span class="cnt">新約 ${num(cnt)}回</span>${tagHtml(data, s)}</p>` +
         (s.def ? `<p class="df">${esc(s.def)}</p>` : '') +
-        `<ul class="here">${here.map((x) => `<li><span class="ref">${esc(`${CH}:${x.t.verse}`)}</span> <span class="gk" lang="grc">${kwic(x.t)}</span></li>`).join('')}</ul></div>`);
+        (here.length ? `<ul class="here">${here.map((x) => hereLi(x.t)).join('')}</ul>` : '') + '</div>');
     }
     const others = data.senses.filter((s) => !central.includes(String(s.id)));
     if (others.length) {
@@ -233,14 +258,14 @@ function entryHtml(e) {
     const n = sx.reduce((acc, s) => acc + (ntCount.get(s + '\u0000' + loose(e.lemma)) || 0), 0);
     h.push(`<div class="hw"><span class="gk lemma" lang="grc">${esc(e.lemma)}</span> <span class="tr">${esc(tr)}</span> <span class="meta">${esc(sx.join('・'))}　${esc(pos)}　新約 ${num(n)}回</span></div>`);
     h.push(identHtml(e));
-    h.push(`<ul class="here">${e.toks.map((x) => `<li><span class="ref">${esc(`${CH}:${x.t.verse}`)}</span> <span class="gk" lang="grc">${kwic(x.t)}</span></li>`).join('')}</ul>`);
+    h.push(`<ul class="here">${e.toks.map((x) => hereLi(x.t)).join('')}</ul>`);
   }
   // 活用形：この範囲に出た形のみ
   const forms = new Map();
   for (const x of e.toks) { const k = nfc(x.t.text) + '\u0000' + morphLabel(x.t); forms.set(k, (forms.get(k) || 0) + 1); }
   const fl = [...forms.entries()].map(([k, n]) => { const [f, l] = k.split('\u0000'); return { f, l, n }; })
     .sort((a, b) => b.n - a.n || (a.f < b.f ? -1 : a.f > b.f ? 1 : a.l < b.l ? -1 : 1));
-  h.push(`<p class="fm"><span class="k">この箇所の形</span>${fl.map((x) => `<span class="o"><span class="gk" lang="grc">${esc(x.f)}</span>${x.l ? ` ${esc(x.l)}` : ''}${x.n > 1 ? ` <span class="cnt">×${x.n}</span>` : ''}</span>`).join('')}</p>`);
+  h.push(`<p class="fm"><span class="k">${HITS ? 'ヒットした形' : 'この箇所の形'}</span>${fl.map((x) => `<span class="o"><span class="gk" lang="grc">${esc(x.f)}</span>${x.l ? ` ${esc(x.l)}` : ''}${x.n > 1 ? ` <span class="cnt">×${x.n}</span>` : ''}</span>`).join('')}</p>`);
   if (e.ngsd) h.push(`<p class="url">全語義・用例：<a href="https://${LINK_HOST}/ja/word/${esc(e.strong)}/">${LINK_HOST}/ja/word/${esc(e.strong)}</a></p>`);
   return `<article class="en">${h.join('\n')}</article>`;
 }
@@ -275,7 +300,8 @@ header.cv .series { font-size: 8pt; letter-spacing: 0.2em; color: var(--accent);
 header.cv h1 { font-size: 20pt; font-weight: 700; margin: 1mm 0 2mm; letter-spacing: 0.04em; }
 header.cv dl { display: grid; grid-template-columns: auto 1fr auto 1fr; gap: 0.5mm 4mm; margin: 0; font-size: 8.2pt; }
 header.cv dt { color: var(--sub); }
-header.cv dd { margin: 0; }
+header.cv dd { margin: 0; }${HITS ? `
+header.cv dd.q { font-family: "Noto Serif", "Noto Serif CJK JP", serif; word-break: break-all; }` : ''}
 h2 { font-size: 9pt; font-weight: 700; color: var(--accent); margin: 0 0 1.5mm; letter-spacing: 0.1em; }
 .howto { font-size: 7.4pt; color: var(--sub); border: 0.4pt solid var(--rule); padding: 1.5mm 2.5mm; margin-bottom: 4mm; }
 .howto p { margin: 0; }
@@ -296,7 +322,14 @@ main { column-count: 2; column-gap: 7mm; column-rule: 0.3pt solid var(--rule); }
 .rl .refs { color: var(--sub); font-size: 7pt; }
 ul.here { list-style: none; margin: 0.6mm 0 0; padding: 0; }
 ul.here li { font-size: 8.6pt; line-height: 1.45; padding-left: 7mm; text-indent: -7mm; }
-ul.here .ref { display: inline-block; width: 7mm; text-indent: 0; font-size: 7pt; color: var(--accent); font-family: "Noto Serif CJK JP", serif; }
+${HITS ? `/* --hits：1項目や1語義が1段に収まらないこと（単一見出し語の全語義、用例の多い語義など）があるので、段をまたげるようにする。
+   語義名の直後と、用例1行の途中では改段しない */
+.en, .cs { break-inside: auto; }
+.cl, .df { break-after: avoid-column; }
+ul.here li { break-inside: avoid-column; }
+ul.here li.lg { padding-left: 0; text-indent: 0; }
+ul.here li.lg .ref { width: auto; margin-right: 1.4mm; }
+` : ''}ul.here .ref { display: inline-block; width: 7mm; text-indent: 0; font-size: 7pt; color: var(--accent); font-family: "Noto Serif CJK JP", serif; }
 .k { display: inline-block; font-size: 6.8pt; color: var(--sub); border: 0.3pt solid var(--rule); border-radius: 0.8mm; padding: 0 1mm; margin-right: 1.4mm; line-height: 1.5; }
 .ot, .fm { font-size: 7.8pt; margin-top: 0.8mm !important; }
 .ot .o, .fm .o { margin-right: 2.4mm; }
@@ -319,17 +352,21 @@ footer.cr ul { margin: 0; padding-left: 4mm; }
 </head>
 <body>
 <header class="cv">
-<p class="series">NGSD 辞書　箇所中心形</p>
+<p class="series">NGSD 辞書　${HITS ? '検索から' : '箇所中心形'}</p>
 <h1>${esc(rangeJa)}</h1>
 <dl>
-<dt>範囲</dt><dd>${esc(rangeJa)}（${num(rangeTokens.length)}語）</dd>
+${HITS ? `<dt>検索</dt><dd class="q">${esc(HITS.url)}</dd>
+<dt>ヒット</dt><dd>新約 ${num(rangeTokens.length)}語${HITS.note ? `（${esc(HITS.note)}）` : ''}</dd>` : `<dt>範囲</dt><dd>${esc(rangeJa)}（${num(rangeTokens.length)}語）</dd>`}
 <dt>収録見出し語</dt><dd>${num(list.length)}（うち NGSD 収録 ${num(ngsdN)}）</dd>
 <dt>生成日</dt><dd>${esc(DATE)}</dd>
 <dt>語義</dt><dd>NGSD（New Testament Greek Sense Database）</dd>
 </dl>
 </header>
 <div class="howto">
-<p>収録順は範囲内での初出順。各項目は見出し（原形・Strong 番号・品詞・新約での総出現数）、この箇所で使われた語義（番号・ラベル・新約での件数・定義・この箇所の用例）、他の語義の一覧（ラベル・件数）、フレーズ、この箇所に出た形の順に載せています。固有名詞は語義の代わりに、同定データがあるものは同定（その名前が誰・何を指すか。役割・表記を含む）を載せ、データのないものは見出しと用例のみです。他の語義の定義と用例は、項目の末尾のリンク先（語ページ）にあります。</p>
+<p>${HITS ? (HITS.allSenses
+  ? '検索が一つの見出し語に解決されるので、その語の全語義を全文で載せ、ヒットした用例をそれぞれの語義の下に置いています。各項目は見出し（原形・Strong 番号・品詞・新約での総出現数）、語義（番号・ラベル・新約での件数・定義・ヒットした用例）、フレーズ、ヒットした形の順です。'
+  : '収録順は検索結果の中での初出順（新約の書・章・節の順）。各項目は見出し（原形・Strong 番号・品詞・新約での総出現数）、ヒットした用例で使われた語義（ヒットの多い順。番号・ラベル・新約での件数・定義・ヒットした用例）、他の語義の一覧（ラベル・件数）、フレーズ、ヒットした形の順に載せています。')
+  : '収録順は範囲内での初出順。各項目は見出し（原形・Strong 番号・品詞・新約での総出現数）、この箇所で使われた語義（番号・ラベル・新約での件数・定義・この箇所の用例）、他の語義の一覧（ラベル・件数）、フレーズ、この箇所に出た形の順に載せています。'}固有名詞は語義の代わりに、同定データがあるものは同定（その名前が誰・何を指すか。役割・表記を含む）を載せ、データのないものは見出しと用例のみです。他の語義の定義と用例は、項目の末尾のリンク先（語ページ）にあります。</p>
 <p>語義の右のタグは、その語義の裏づけの範囲です。<b>新約のみ</b>：LXX・使徒教父に用例がなく、新約の用例のみに基づく。<b>新約・LXX</b>：新約の全用例から立て、LXX の用例で裏づけを確認した。<b>新約・使徒教父</b>：同、使徒教父の用例で確認した。<b>新約・LXX・使徒教父</b>：同、LXX と使徒教父の両方で確認した。タグのない語義は、辞書との照合を経て新約の全用例に割り当てたものです。</p>
 </div>
 <main>

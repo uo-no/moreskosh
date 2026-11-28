@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<title>NGSD 辞書 — 「καλέω ＋ 時制＝アオリスト、法≠直説法」の検索から</title>
+<style>
+@page { size: A4; margin: 16mm 14mm 16mm 14mm; }
+/* ギリシャ文字は和文の中でも Noto Serif で組む（和文書体の単調ギリシャ字形に落ちないように） */
+@font-face { font-family: "GkSerif"; src: local("Noto Serif"), local("NotoSerif-Regular"); unicode-range: U+0300-036F, U+0370-03FF, U+1F00-1FFF; font-weight: 400; }
+@font-face { font-family: "GkSerif"; src: local("Noto Serif Bold"), local("NotoSerif-Bold"); unicode-range: U+0300-036F, U+0370-03FF, U+1F00-1FFF; font-weight: 700; }
+:root { --ink: #1a1a1a; --sub: #555; --rule: #bbb; --accent: #2f5d3a; }
+* { box-sizing: border-box; }
+html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+body { margin: 0; color: var(--ink); background: #fff; font-family: "GkSerif", "Noto Serif CJK JP", "Noto Serif", serif; font-size: 8.6pt; line-height: 1.55; }
+.gk { font-family: "Noto Serif", "Noto Serif CJK JP", serif; }
+b { font-weight: 700; }
+header.cv { border-bottom: 0.6pt solid var(--ink); padding-bottom: 3mm; margin-bottom: 4mm; }
+header.cv .series { font-size: 8pt; letter-spacing: 0.2em; color: var(--accent); margin: 0; }
+header.cv h1 { font-size: 20pt; font-weight: 700; margin: 1mm 0 2mm; letter-spacing: 0.04em; }
+header.cv dl { display: grid; grid-template-columns: auto 1fr auto 1fr; gap: 0.5mm 4mm; margin: 0; font-size: 8.2pt; }
+header.cv dt { color: var(--sub); }
+header.cv dd { margin: 0; }
+header.cv dd.q { font-family: "Noto Serif", "Noto Serif CJK JP", serif; word-break: break-all; }
+h2 { font-size: 9pt; font-weight: 700; color: var(--accent); margin: 0 0 1.5mm; letter-spacing: 0.1em; }
+.howto { font-size: 7.4pt; color: var(--sub); border: 0.4pt solid var(--rule); padding: 1.5mm 2.5mm; margin-bottom: 4mm; }
+.howto p { margin: 0; }
+main { column-count: 2; column-gap: 7mm; column-rule: 0.3pt solid var(--rule); }
+.en { break-inside: avoid-column; margin: 0 0 3.2mm; padding-bottom: 2.4mm; border-bottom: 0.3pt solid #ddd; }
+.en p { margin: 0; }
+.hw { line-height: 1.35; margin-bottom: 0.6mm; }
+.hw .lemma { font-size: 12.5pt; font-weight: 700; }
+.hw .tr { font-style: italic; color: var(--sub); font-size: 8.4pt; font-family: "Noto Serif", serif; }
+.hw .meta { font-size: 7.6pt; color: var(--sub); }
+.hw .meta .nw { white-space: nowrap; }
+.cs { margin: 1mm 0 1.2mm; }
+.cl .sn { display: inline-block; min-width: 3.6mm; height: 3.6mm; line-height: 3.6mm; text-align: center; font-size: 6.8pt; color: #fff; background: var(--accent); border-radius: 0.8mm; margin-right: 1.2mm; vertical-align: 0.3mm; padding: 0 0.6mm; }
+.cl .lb { font-weight: 700; font-size: 9.4pt; }
+.cnt { font-size: 7pt; color: var(--sub); }
+.df { margin-top: 0.4mm !important; text-align: justify; }
+.rl { font-size: 7.8pt; margin-top: 0.6mm !important; }
+.rl .refs { color: var(--sub); font-size: 7pt; }
+ul.here { list-style: none; margin: 0.6mm 0 0; padding: 0; }
+ul.here li { font-size: 8.6pt; line-height: 1.45; padding-left: 7mm; text-indent: -7mm; }
+/* --hits：1項目や1語義が1段に収まらないこと（単一見出し語の全語義、用例の多い語義など）があるので、段をまたげるようにする。
+   語義名の直後と、用例1行の途中では改段しない */
+.en, .cs { break-inside: auto; }
+.cl, .df { break-after: avoid-column; }
+ul.here li { break-inside: avoid-column; }
+ul.here li.lg { padding-left: 0; text-indent: 0; }
+ul.here li.lg .ref { width: auto; margin-right: 1.4mm; }
+ul.here .ref { display: inline-block; width: 7mm; text-indent: 0; font-size: 7pt; color: var(--accent); font-family: "Noto Serif CJK JP", serif; }
+.k { display: inline-block; font-size: 6.8pt; color: var(--sub); border: 0.3pt solid var(--rule); border-radius: 0.8mm; padding: 0 1mm; margin-right: 1.4mm; line-height: 1.5; }
+.ot, .fm { font-size: 7.8pt; margin-top: 0.8mm !important; }
+.ot .o, .fm .o { margin-right: 2.4mm; }
+.ot .o::after, .fm .o::after { content: ""; }
+/* 行末の最後の項目の右マージンが枠の外に出て、横幅（スクロール幅）に数えられるのを防ぐ（縮小印刷の原因になりうる） */
+.ot .o:last-child, .fm .o:last-child { margin-right: 0; }
+/* 行末がタグ（インラインブロック）で終わる項目の右マージンも枠外に出うる。余白だけなので横方向をクリップして、スクロール幅に数えさせない */
+.ot, .fm { overflow-x: clip; }
+.sn2 { font-size: 6.8pt; color: var(--accent); margin-right: 0.6mm; }
+.id { font-size: 7.8pt; margin-top: 0.8mm; }
+.id p { padding-left: 2mm; }
+.id .refs { color: var(--sub); font-size: 7pt; }
+.url { font-size: 6.6pt; color: var(--sub); margin-top: 0.8mm !important; font-family: "Noto Serif", serif; word-break: break-all; }
+.url a { color: var(--accent); text-decoration: underline; text-decoration-thickness: 0.2pt; }
+.tg { display: inline-block; font-size: 6.2pt; line-height: 1.4; color: var(--accent); border: 0.3pt solid var(--accent); border-radius: 0.8mm; padding: 0 0.9mm; margin-left: 0.8mm; vertical-align: 0.2mm; white-space: nowrap; }
+footer.cr { margin-top: 5mm; border-top: 0.6pt solid var(--ink); padding-top: 2mm; font-size: 7pt; color: #333; break-inside: avoid; }
+footer.cr h2 { font-size: 7.6pt; }
+footer.cr ul { margin: 0; padding-left: 4mm; }
+</style>
+</head>
+<body>
+<header class="cv">
+<p class="series">NGSD 辞書　検索から</p>
+<h1>「καλέω ＋ 時制＝アオリスト、法≠直説法」の検索から</h1>
+<dl>
+<dt>検索</dt><dd class="q">moreskosh.com/ja/search/καλέω?tense=A&amp;mood=-I</dd>
+<dt>ヒット</dt><dd>新約 31語（LXX のヒット 52 語は除く）</dd>
+<dt>収録見出し語</dt><dd>1（うち NGSD 収録 1）</dd>
+<dt>生成日</dt><dd>2026-11-28</dd>
+<dt>語義</dt><dd>NGSD（New Testament Greek Sense Database）</dd>
+</dl>
+</header>
+<div class="howto">
+<p>収録順は検索結果の中での初出順（新約の書・章・節の順）。各項目は見出し（原形・Strong 番号・品詞・新約での総出現数）、ヒットした用例で使われた語義（ヒットの多い順。番号・ラベル・新約での件数・定義・ヒットした用例）、他の語義の一覧（ラベル・件数）、フレーズ、ヒットした形の順に載せています。固有名詞は語義の代わりに、同定データがあるものは同定（その名前が誰・何を指すか。役割・表記を含む）を載せ、データのないものは見出しと用例のみです。他の語義の定義と用例は、項目の末尾のリンク先（語ページ）にあります。</p>
+<p>語義の右のタグは、その語義の裏づけの範囲です。<b>新約のみ</b>：LXX・使徒教父に用例がなく、新約の用例のみに基づく。<b>新約・LXX</b>：新約の全用例から立て、LXX の用例で裏づけを確認した。<b>新約・使徒教父</b>：同、使徒教父の用例で確認した。<b>新約・LXX・使徒教父</b>：同、LXX と使徒教父の両方で確認した。タグのない語義は、辞書との照合を経て新約の全用例に割り当てたものです。</p>
+</div>
+<main>
+<article class="en"><div class="hw"><span class="gk lemma" lang="grc">καλέω</span> <span class="tr">kaleō</span> <span class="meta">G2564　<span class="nw">動詞　新約 148回</span></span></div>
+<div class="cs"><p class="cl"><span class="sn">3</span><span class="lb">呼び寄せる・召す</span> <span class="cnt">新約 51回</span></p><p class="df">人を呼ぶ、神が召す。</p><ul class="here"><li class="lg"><span class="ref">マタイ 2:7</span> <span class="gk" lang="grc">Τότε Ἡρῴδης λάθρᾳ <b>καλέσας</b> τοὺς μάγους ἠκρίβωσεν παρ’ αὐτῶν …</span></li><li class="lg"><span class="ref">マタイ 9:13</span> <span class="gk" lang="grc">… οὐ θυσίαν· οὐ γὰρ ἦλθον <b>καλέσαι</b> δικαίους ἀλλὰ ἁμαρτωλούς.</span></li><li class="lg"><span class="ref">マタイ 20:8</span> <span class="gk" lang="grc">… τοῦ ἀμπελῶνος τῷ ἐπιτρόπῳ αὐτοῦ· <b>Κάλεσον</b> τοὺς ἐργάτας καὶ ἀπόδος αὐτοῖς …</span></li><li class="lg"><span class="ref">マタイ 22:3</span> <span class="gk" lang="grc">καὶ ἀπέστειλεν τοὺς δούλους αὐτοῦ <b>καλέσαι</b> τοὺς κεκλημένους εἰς τοὺς γάμους, …</span></li><li class="lg"><span class="ref">マルコ 2:17</span> <span class="gk" lang="grc">… οἱ κακῶς ἔχοντες· οὐκ ἦλθον <b>καλέσαι</b> δικαίους ἀλλὰ ἁμαρτωλούς.</span></li><li class="lg"><span class="ref">ルカ 5:32</span> <span class="gk" lang="grc">οὐκ ἐλήλυθα <b>καλέσαι</b> δικαίους ἀλλὰ ἁμαρτωλοὺς εἰς μετάνοιαν.</span></li><li class="lg"><span class="ref">ルカ 19:13</span> <span class="gk" lang="grc"><b>καλέσας</b> δὲ δέκα δούλους ἑαυτοῦ ἔδωκεν …</span></li><li class="lg"><span class="ref">使徒 4:18</span> <span class="gk" lang="grc">καὶ <b>καλέσαντες</b> αὐτοὺς παρήγγειλαν τὸ καθόλου μὴ …</span></li><li class="lg"><span class="ref">使徒 24:2</span> <span class="gk" lang="grc"><b>κληθέντος</b> δὲ αὐτοῦ ἤρξατο κατηγορεῖν ὁ …</span></li><li class="lg"><span class="ref">Ⅰコリント 7:22</span> <span class="gk" lang="grc">ὁ γὰρ ἐν κυρίῳ <b>κληθεὶς</b> δοῦλος ἀπελεύθερος κυρίου ἐστίν· ὁμοίως …</span></li><li class="lg"><span class="ref">Ⅰコリント 7:22</span> <span class="gk" lang="grc">… κυρίου ἐστίν· ὁμοίως ὁ ἐλεύθερος <b>κληθεὶς</b> δοῦλός ἐστιν Χριστοῦ.</span></li><li class="lg"><span class="ref">ガラテヤ 1:6</span> <span class="gk" lang="grc">… οὕτως ταχέως μετατίθεσθε ἀπὸ τοῦ <b>καλέσαντος</b> ὑμᾶς ἐν χάριτι Χριστοῦ εἰς …</span></li><li class="lg"><span class="ref">ガラテヤ 1:15</span> <span class="gk" lang="grc">… ἐκ κοιλίας μητρός μου καὶ <b>καλέσας</b> διὰ τῆς χάριτος αὐτοῦ</span></li><li class="lg"><span class="ref">Ⅱテモテ 1:9</span> <span class="gk" lang="grc">τοῦ σώσαντος ἡμᾶς καὶ <b>καλέσαντος</b> κλήσει ἁγίᾳ, οὐ κατὰ τὰ …</span></li><li class="lg"><span class="ref">Ⅰペテロ 1:15</span> <span class="gk" lang="grc">ἀλλὰ κατὰ τὸν <b>καλέσαντα</b> ὑμᾶς ἅγιον καὶ αὐτοὶ ἅγιοι …</span></li><li class="lg"><span class="ref">Ⅰペテロ 2:9</span> <span class="gk" lang="grc">… ἐξαγγείλητε τοῦ ἐκ σκότους ὑμᾶς <b>καλέσαντος</b> εἰς τὸ θαυμαστὸν αὐτοῦ φῶς·</span></li><li class="lg"><span class="ref">Ⅰペテロ 5:10</span> <span class="gk" lang="grc">… δὲ θεὸς πάσης χάριτος, ὁ <b>καλέσας</b> ὑμᾶς εἰς τὴν αἰώνιον αὐτοῦ …</span></li><li class="lg"><span class="ref">Ⅱペテロ 1:3</span> <span class="gk" lang="grc">… δεδωρημένης διὰ τῆς ἐπιγνώσεως τοῦ <b>καλέσαντος</b> ἡμᾶς ἰδίᾳ δόξῃ καὶ ἀρετῇ,</span></li></ul></div>
+<div class="cs"><p class="cl"><span class="sn">2</span><span class="lb">（〜と）呼ばれる</span> <span class="cnt">新約 41回</span></p><p class="df">名前や身分で称される。</p><ul class="here"><li class="lg"><span class="ref">マタイ 23:8</span> <span class="gk" lang="grc">ὑμεῖς δὲ μὴ <b>κληθῆτε·</b> Ῥαββί, εἷς γάρ ἐστιν ὑμῶν …</span></li><li class="lg"><span class="ref">マタイ 23:9</span> <span class="gk" lang="grc">καὶ πατέρα μὴ <b>καλέσητε</b> ὑμῶν ἐπὶ τῆς γῆς, εἷς …</span></li><li class="lg"><span class="ref">マタイ 23:10</span> <span class="gk" lang="grc">μηδὲ <b>κληθῆτε</b> καθηγηταί, ὅτι καθηγητὴς ὑμῶν ἐστιν …</span></li><li class="lg"><span class="ref">ルカ 15:19</span> <span class="gk" lang="grc">οὐκέτι εἰμὶ ἄξιος <b>κληθῆναι</b> υἱός σου· ποίησόν με ὡς …</span></li><li class="lg"><span class="ref">ルカ 15:21</span> <span class="gk" lang="grc">… ἐνώπιόν σου, οὐκέτι εἰμὶ ἄξιος <b>κληθῆναι</b> υἱός σου.</span></li><li class="lg"><span class="ref">Ⅰヨハネ 3:1</span> <span class="gk" lang="grc">… ὁ πατὴρ ἵνα τέκνα θεοῦ <b>κληθῶμεν,</b> καὶ ἐσμέν. διὰ τοῦτο ὁ …</span></li></ul></div>
+<div class="cs"><p class="cl"><span class="sn">4</span><span class="lb">招待する</span> <span class="cnt">新約 19回</span></p><p class="df">宴席などへ招く。</p><ul class="here"><li class="lg"><span class="ref">マタイ 22:9</span> <span class="gk" lang="grc">… ὁδῶν, καὶ ὅσους ἐὰν εὕρητε <b>καλέσατε</b> εἰς τοὺς γάμους.</span></li><li class="lg"><span class="ref">ルカ 7:39</span> <span class="gk" lang="grc">ἰδὼν δὲ ὁ Φαρισαῖος ὁ <b>καλέσας</b> αὐτὸν εἶπεν ἐν ἑαυτῷ λέγων· …</span></li><li class="lg"><span class="ref">ルカ 14:8</span> <span class="gk" lang="grc">Ὅταν <b>κληθῇς</b> ὑπό τινος εἰς γάμους, μὴ …</span></li><li class="lg"><span class="ref">ルカ 14:9</span> <span class="gk" lang="grc">… ἐλθὼν ὁ σὲ καὶ αὐτὸν <b>καλέσας</b> ἐρεῖ σοι· Δὸς τούτῳ τόπον, …</span></li><li class="lg"><span class="ref">ルカ 14:10</span> <span class="gk" lang="grc">ἀλλ’ ὅταν <b>κληθῇς</b> πορευθεὶς ἀνάπεσε εἰς τὸν ἔσχατον …</span></li></ul></div>
+<div class="cs"><p class="cl"><span class="sn">1</span><span class="lb">名づける</span> <span class="cnt">新約 37回</span></p><p class="df">名前をつける。</p><ul class="here"><li class="lg"><span class="ref">ルカ 2:21</span> <span class="gk" lang="grc">… τὸ ὄνομα αὐτοῦ Ἰησοῦς, τὸ <b>κληθὲν</b> ὑπὸ τοῦ ἀγγέλου πρὸ τοῦ …</span></li><li class="lg"><span class="ref">使徒 1:19</span> <span class="gk" lang="grc">… πᾶσι τοῖς κατοικοῦσιν Ἰερουσαλήμ, ὥστε <b>κληθῆναι</b> τὸ χωρίον ἐκεῖνο τῇ ἰδίᾳ …</span></li></ul></div>
+<p class="fm"><span class="k">ヒットした形</span><span class="o"><span class="gk" lang="grc">καλέσας</span> 分詞・アオリスト・能動・主格・男性・単数 <span class="cnt">×6</span></span><span class="o"><span class="gk" lang="grc">καλέσαι</span> 不定詞・アオリスト・能動 <span class="cnt">×4</span></span><span class="o"><span class="gk" lang="grc">καλέσαντος</span> 分詞・アオリスト・能動・属格・男性・単数 <span class="cnt">×4</span></span><span class="o"><span class="gk" lang="grc">κληθῆναι</span> 不定詞・アオリスト・受動 <span class="cnt">×3</span></span><span class="o"><span class="gk" lang="grc">κληθεὶς</span> 分詞・アオリスト・受動・主格・男性・単数 <span class="cnt">×2</span></span><span class="o"><span class="gk" lang="grc">κληθῆτε</span> 接続法・アオリスト・受動・2人称・複数 <span class="cnt">×2</span></span><span class="o"><span class="gk" lang="grc">κληθῇς</span> 接続法・アオリスト・受動・2人称・単数 <span class="cnt">×2</span></span><span class="o"><span class="gk" lang="grc">Κάλεσον</span> 命令法・アオリスト・能動・2人称・単数</span><span class="o"><span class="gk" lang="grc">καλέσαντα</span> 分詞・アオリスト・能動・対格・男性・単数</span><span class="o"><span class="gk" lang="grc">καλέσαντες</span> 分詞・アオリスト・能動・主格・男性・複数</span><span class="o"><span class="gk" lang="grc">καλέσατε</span> 命令法・アオリスト・能動・2人称・複数</span><span class="o"><span class="gk" lang="grc">καλέσητε</span> 接続法・アオリスト・能動・2人称・複数</span><span class="o"><span class="gk" lang="grc">κληθέντος</span> 分詞・アオリスト・受動・属格・男性・単数</span><span class="o"><span class="gk" lang="grc">κληθὲν</span> 分詞・アオリスト・受動・主格・中性・単数</span><span class="o"><span class="gk" lang="grc">κληθῶμεν</span> 接続法・アオリスト・受動・1人称・複数</span></p>
+<p class="url">全語義・用例：<a href="https://moreskosh.com/ja/word/G2564/">moreskosh.com/ja/word/G2564</a></p></article>
+</main>
+<footer class="cr">
+<h2>出典</h2>
+<ul>
+<li>語義：NGSD（New Testament Greek Sense Database、本プロジェクト作成）。語義の確定は Abbott-Smith と用例分析を基礎とし、判断の分かれる箇所では BDAG を参照して照合した。語義ラベルと定義はすべて本プロジェクトの独自記述で、BDAG の本文は含まない。</li>
+<li>ギリシャ語本文・形態：SBLGNT（© SBL / Faithlife、CC BY 4.0）／MACULA Greek（© Biblica, Inc.、CC BY 4.0）に基づく派生データ</li>
+<li>書体：Noto Serif CJK JP・Noto Serif（SIL Open Font License 1.1）</li>
+</ul>
+</footer>
+</body>
+</html>

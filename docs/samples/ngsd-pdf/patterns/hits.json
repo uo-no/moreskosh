@@ -1,0 +1,317 @@
+[
+ {
+  "no": "1",
+  "id": "p1-japanese",
+  "name": "日本語の単語検索（意味から引く）",
+  "query": "いちじく",
+  "url": "moreskosh.com/ja/search/いちじく",
+  "tokensNT": 22,
+  "headwords": 4,
+  "lxxExcluded": 0,
+  "pages": 2,
+  "allSenses": false,
+  "formResolve": null,
+  "rev": [
+   {
+    "strong": "G4810",
+    "sense": "1",
+    "quals": []
+   }
+  ],
+  "syn": null,
+  "excl": [],
+  "morphSel": {
+   "pos": [],
+   "case": [],
+   "num": [],
+   "gen": [],
+   "tense": [],
+   "voice": [],
+   "mood": []
+  },
+  "morphNeg": {
+   "pos": false,
+   "case": false,
+   "num": false,
+   "gen": false,
+   "tense": false,
+   "voice": false,
+   "mood": false
+  }
+ },
+ {
+  "no": "2",
+  "id": "p2-lemma",
+  "name": "ギリシャ語の単語検索：見出し語",
+  "query": "ἀφορίζω",
+  "url": "moreskosh.com/ja/search/ἀφορίζω",
+  "tokensNT": 10,
+  "headwords": 1,
+  "lxxExcluded": 0,
+  "pages": 1,
+  "allSenses": true,
+  "formResolve": null,
+  "rev": null,
+  "syn": null,
+  "excl": [],
+  "morphSel": {
+   "pos": [],
+   "case": [],
+   "num": [],
+   "gen": [],
+   "tense": [],
+   "voice": [],
+   "mood": []
+  },
+  "morphNeg": {
+   "pos": false,
+   "case": false,
+   "num": false,
+   "gen": false,
+   "tense": false,
+   "voice": false,
+   "mood": false
+  }
+ },
+ {
+  "no": "3",
+  "id": "p3-inflected",
+  "name": "ギリシャ語の単語検索：活用形（見出し語へ解決）",
+  "query": "κλητοί",
+  "url": "moreskosh.com/ja/search/κλητοί",
+  "tokensNT": 10,
+  "headwords": 1,
+  "lxxExcluded": 18,
+  "pages": 1,
+  "allSenses": true,
+  "formResolve": {
+   "form": "κλητοί",
+   "lemma": "κλητός",
+   "n": 6
+  },
+  "rev": null,
+  "syn": null,
+  "excl": [],
+  "morphSel": {
+   "pos": [],
+   "case": [],
+   "num": [],
+   "gen": [],
+   "tense": [],
+   "voice": [],
+   "mood": []
+  },
+  "morphNeg": {
+   "pos": false,
+   "case": false,
+   "num": false,
+   "gen": false,
+   "tense": false,
+   "voice": false,
+   "mood": false
+  }
+ },
+ {
+  "no": "4",
+  "id": "p4-form-mode",
+  "name": "形モード（表面形の完全一致・引用符）",
+  "query": "\"κλητοί\"",
+  "url": "moreskosh.com/ja/search/\"κλητοί\"",
+  "tokensNT": 3,
+  "headwords": 1,
+  "lxxExcluded": 3,
+  "pages": 1,
+  "allSenses": false,
+  "formResolve": null,
+  "rev": null,
+  "syn": null,
+  "excl": [],
+  "morphSel": {
+   "pos": [],
+   "case": [],
+   "num": [],
+   "gen": [],
+   "tense": [],
+   "voice": [],
+   "mood": []
+  },
+  "morphNeg": {
+   "pos": false,
+   "case": false,
+   "num": false,
+   "gen": false,
+   "tense": false,
+   "voice": false,
+   "mood": false
+  }
+ },
+ {
+  "no": "5",
+  "id": "p5-strong",
+  "name": "ストロング番号検索",
+  "query": "G1543",
+  "url": "moreskosh.com/ja/search/G1543",
+  "tokensNT": 20,
+  "headwords": 1,
+  "lxxExcluded": 15,
+  "pages": 1,
+  "allSenses": true,
+  "formResolve": null,
+  "rev": null,
+  "syn": null,
+  "excl": [],
+  "morphSel": {
+   "pos": [],
+   "case": [],
+   "num": [],
+   "gen": [],
+   "tense": [],
+   "voice": [],
+   "mood": []
+  },
+  "morphNeg": {
+   "pos": false,
+   "case": false,
+   "num": false,
+   "gen": false,
+   "tense": false,
+   "voice": false,
+   "mood": false
+  }
+ },
+ {
+  "no": "6",
+  "id": "p6-morph",
+  "name": "形態検索（軸ごとの NOT を含む）",
+  "query": "καλέω ＋ 時制＝アオリスト、法≠直説法",
+  "url": "moreskosh.com/ja/search/καλέω?tense=A&mood=-I",
+  "tokensNT": 31,
+  "headwords": 1,
+  "lxxExcluded": 52,
+  "pages": 2,
+  "allSenses": false,
+  "formResolve": null,
+  "rev": null,
+  "syn": null,
+  "excl": [],
+  "morphSel": {
+   "pos": [],
+   "case": [],
+   "num": [],
+   "gen": [],
+   "tense": [
+    "A"
+   ],
+   "voice": [],
+   "mood": [
+    "I"
+   ]
+  },
+  "morphNeg": {
+   "pos": false,
+   "case": false,
+   "num": false,
+   "gen": false,
+   "tense": false,
+   "voice": false,
+   "mood": true
+  }
+ },
+ {
+  "no": "7a",
+  "id": "p7a-relation",
+  "name": "関係タブ（2語の近接・フレーズ）",
+  "query": "πίστις ἐλπίς",
+  "url": "moreskosh.com/ja/search/πίστις ἐλπίς?tab=rel",
+  "tokensNT": 7,
+  "headwords": 2,
+  "lxxExcluded": 0,
+  "pages": 1,
+  "allSenses": false,
+  "formResolve": null,
+  "rev": null,
+  "syn": null,
+  "excl": [],
+  "morphSel": {
+   "pos": [],
+   "case": [],
+   "num": [],
+   "gen": [],
+   "tense": [],
+   "voice": [],
+   "mood": []
+  },
+  "morphNeg": {
+   "pos": false,
+   "case": false,
+   "num": false,
+   "gen": false,
+   "tense": false,
+   "voice": false,
+   "mood": false
+  }
+ },
+ {
+  "no": "7b",
+  "id": "p7b-syntax",
+  "name": "統語タブ（構文タイプ：同族対格）",
+  "query": "構文タイプ：同族対格",
+  "url": "moreskosh.com/ja/search?tab=syn&syntax_id=accusative.cognate",
+  "tokensNT": 13,
+  "headwords": 8,
+  "lxxExcluded": 0,
+  "pages": 2,
+  "allSenses": false,
+  "formResolve": null,
+  "rev": null,
+  "syn": {
+   "all": 13,
+   "filtered": 13,
+   "confMin": 0.3,
+   "includeStub": false,
+   "label": "同族対格"
+  },
+  "excl": null,
+  "morphSel": null,
+  "morphNeg": null
+ },
+ {
+  "no": "8",
+  "id": "p8-not",
+  "name": "Not検索（語と語の除外）",
+  "query": "κλητός − ἀπόστολος",
+  "url": "moreskosh.com/ja/search/κλητός?excl=κλητός:ἀπόστολος",
+  "tokensNT": 8,
+  "headwords": 1,
+  "lxxExcluded": 18,
+  "pages": 1,
+  "allSenses": false,
+  "formResolve": null,
+  "rev": null,
+  "syn": null,
+  "excl": [
+   {
+    "lemma": "κλητός",
+    "word": "ἀπόστολος"
+   }
+  ],
+  "morphSel": {
+   "pos": [],
+   "case": [],
+   "num": [],
+   "gen": [],
+   "tense": [],
+   "voice": [],
+   "mood": []
+  },
+  "morphNeg": {
+   "pos": false,
+   "case": false,
+   "num": false,
+   "gen": false,
+   "tense": false,
+   "voice": false,
+   "mood": false
+  }
+ }
+]

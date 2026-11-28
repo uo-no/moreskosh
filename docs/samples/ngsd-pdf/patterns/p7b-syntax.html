@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<title>NGSD 辞書 — 「構文タイプ：同族対格」の検索から</title>
+<style>
+@page { size: A4; margin: 16mm 14mm 16mm 14mm; }
+/* ギリシャ文字は和文の中でも Noto Serif で組む（和文書体の単調ギリシャ字形に落ちないように） */
+@font-face { font-family: "GkSerif"; src: local("Noto Serif"), local("NotoSerif-Regular"); unicode-range: U+0300-036F, U+0370-03FF, U+1F00-1FFF; font-weight: 400; }
+@font-face { font-family: "GkSerif"; src: local("Noto Serif Bold"), local("NotoSerif-Bold"); unicode-range: U+0300-036F, U+0370-03FF, U+1F00-1FFF; font-weight: 700; }
+:root { --ink: #1a1a1a; --sub: #555; --rule: #bbb; --accent: #2f5d3a; }
+* { box-sizing: border-box; }
+html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+body { margin: 0; color: var(--ink); background: #fff; font-family: "GkSerif", "Noto Serif CJK JP", "Noto Serif", serif; font-size: 8.6pt; line-height: 1.55; }
+.gk { font-family: "Noto Serif", "Noto Serif CJK JP", serif; }
+b { font-weight: 700; }
+header.cv { border-bottom: 0.6pt solid var(--ink); padding-bottom: 3mm; margin-bottom: 4mm; }
+header.cv .series { font-size: 8pt; letter-spacing: 0.2em; color: var(--accent); margin: 0; }
+header.cv h1 { font-size: 20pt; font-weight: 700; margin: 1mm 0 2mm; letter-spacing: 0.04em; }
+header.cv dl { display: grid; grid-template-columns: auto 1fr auto 1fr; gap: 0.5mm 4mm; margin: 0; font-size: 8.2pt; }
+header.cv dt { color: var(--sub); }
+header.cv dd { margin: 0; }
+header.cv dd.q { font-family: "Noto Serif", "Noto Serif CJK JP", serif; word-break: break-all; }
+h2 { font-size: 9pt; font-weight: 700; color: var(--accent); margin: 0 0 1.5mm; letter-spacing: 0.1em; }
+.howto { font-size: 7.4pt; color: var(--sub); border: 0.4pt solid var(--rule); padding: 1.5mm 2.5mm; margin-bottom: 4mm; }
+.howto p { margin: 0; }
+main { column-count: 2; column-gap: 7mm; column-rule: 0.3pt solid var(--rule); }
+.en { break-inside: avoid-column; margin: 0 0 3.2mm; padding-bottom: 2.4mm; border-bottom: 0.3pt solid #ddd; }
+.en p { margin: 0; }
+.hw { line-height: 1.35; margin-bottom: 0.6mm; }
+.hw .lemma { font-size: 12.5pt; font-weight: 700; }
+.hw .tr { font-style: italic; color: var(--sub); font-size: 8.4pt; font-family: "Noto Serif", serif; }
+.hw .meta { font-size: 7.6pt; color: var(--sub); }
+.hw .meta .nw { white-space: nowrap; }
+.cs { margin: 1mm 0 1.2mm; }
+.cl .sn { display: inline-block; min-width: 3.6mm; height: 3.6mm; line-height: 3.6mm; text-align: center; font-size: 6.8pt; color: #fff; background: var(--accent); border-radius: 0.8mm; margin-right: 1.2mm; vertical-align: 0.3mm; padding: 0 0.6mm; }
+.cl .lb { font-weight: 700; font-size: 9.4pt; }
+.cnt { font-size: 7pt; color: var(--sub); }
+.df { margin-top: 0.4mm !important; text-align: justify; }
+.rl { font-size: 7.8pt; margin-top: 0.6mm !important; }
+.rl .refs { color: var(--sub); font-size: 7pt; }
+ul.here { list-style: none; margin: 0.6mm 0 0; padding: 0; }
+ul.here li { font-size: 8.6pt; line-height: 1.45; padding-left: 7mm; text-indent: -7mm; }
+/* --hits：1項目や1語義が1段に収まらないこと（単一見出し語の全語義、用例の多い語義など）があるので、段をまたげるようにする。
+   語義名の直後と、用例1行の途中では改段しない */
+.en, .cs { break-inside: auto; }
+.cl, .df { break-after: avoid-column; }
+ul.here li { break-inside: avoid-column; }
+ul.here li.lg { padding-left: 0; text-indent: 0; }
+ul.here li.lg .ref { width: auto; margin-right: 1.4mm; }
+ul.here .ref { display: inline-block; width: 7mm; text-indent: 0; font-size: 7pt; color: var(--accent); font-family: "Noto Serif CJK JP", serif; }
+.k { display: inline-block; font-size: 6.8pt; color: var(--sub); border: 0.3pt solid var(--rule); border-radius: 0.8mm; padding: 0 1mm; margin-right: 1.4mm; line-height: 1.5; }
+.ot, .fm { font-size: 7.8pt; margin-top: 0.8mm !important; }
+.ot .o, .fm .o { margin-right: 2.4mm; }
+.ot .o::after, .fm .o::after { content: ""; }
+/* 行末の最後の項目の右マージンが枠の外に出て、横幅（スクロール幅）に数えられるのを防ぐ（縮小印刷の原因になりうる） */
+.ot .o:last-child, .fm .o:last-child { margin-right: 0; }
+/* 行末がタグ（インラインブロック）で終わる項目の右マージンも枠外に出うる。余白だけなので横方向をクリップして、スクロール幅に数えさせない */
+.ot, .fm { overflow-x: clip; }
+.sn2 { font-size: 6.8pt; color: var(--accent); margin-right: 0.6mm; }
+.id { font-size: 7.8pt; margin-top: 0.8mm; }
+.id p { padding-left: 2mm; }
+.id .refs { color: var(--sub); font-size: 7pt; }
+.url { font-size: 6.6pt; color: var(--sub); margin-top: 0.8mm !important; font-family: "Noto Serif", serif; word-break: break-all; }
+.url a { color: var(--accent); text-decoration: underline; text-decoration-thickness: 0.2pt; }
+.tg { display: inline-block; font-size: 6.2pt; line-height: 1.4; color: var(--accent); border: 0.3pt solid var(--accent); border-radius: 0.8mm; padding: 0 0.9mm; margin-left: 0.8mm; vertical-align: 0.2mm; white-space: nowrap; }
+footer.cr { margin-top: 5mm; border-top: 0.6pt solid var(--ink); padding-top: 2mm; font-size: 7pt; color: #333; break-inside: avoid; }
+footer.cr h2 { font-size: 7.6pt; }
+footer.cr ul { margin: 0; padding-left: 4mm; }
+</style>
+</head>
+<body>
+<header class="cv">
+<p class="series">NGSD 辞書　検索から</p>
+<h1>「構文タイプ：同族対格」の検索から</h1>
+<dl>
+<dt>検索</dt><dd class="q">moreskosh.com/ja/search?tab=syn&amp;syntax_id=accusative.cognate</dd>
+<dt>ヒット</dt><dd>新約 13語</dd>
+<dt>収録見出し語</dt><dd>8（うち NGSD 収録 8）</dd>
+<dt>生成日</dt><dd>2026-11-28</dd>
+<dt>語義</dt><dd>NGSD（New Testament Greek Sense Database）</dd>
+</dl>
+</header>
+<div class="howto">
+<p>収録順は検索結果の中での初出順（新約の書・章・節の順）。各項目は見出し（原形・Strong 番号・品詞・新約での総出現数）、ヒットした用例で使われた語義（ヒットの多い順。番号・ラベル・新約での件数・定義・ヒットした用例）、他の語義の一覧（ラベル・件数）、フレーズ、ヒットした形の順に載せています。固有名詞は語義の代わりに、同定データがあるものは同定（その名前が誰・何を指すか。役割・表記を含む）を載せ、データのないものは見出しと用例のみです。他の語義の定義と用例は、項目の末尾のリンク先（語ページ）にあります。</p>
+<p>語義の右のタグは、その語義の裏づけの範囲です。<b>新約のみ</b>：LXX・使徒教父に用例がなく、新約の用例のみに基づく。<b>新約・LXX</b>：新約の全用例から立て、LXX の用例で裏づけを確認した。<b>新約・使徒教父</b>：同、使徒教父の用例で確認した。<b>新約・LXX・使徒教父</b>：同、LXX と使徒教父の両方で確認した。タグのない語義は、辞書との照合を経て新約の全用例に割り当てたものです。</p>
+</div>
+<main>
+<article class="en"><div class="hw"><span class="gk lemma" lang="grc">χαρά</span> <span class="tr">chara</span> <span class="meta">G5479　<span class="nw">名詞　新約 59回</span></span></div>
+<div class="cs"><p class="cl"><span class="sn">1</span><span class="lb">喜び</span> <span class="cnt">新約 59回</span></p><p class="df">喜び。</p><ul class="here"><li class="lg"><span class="ref">マタイ 2:10</span> <span class="gk" lang="grc">ἰδόντες δὲ τὸν ἀστέρα ἐχάρησαν <b>χαρὰν</b> μεγάλην σφόδρα.</span></li></ul></div>
+<p class="fm"><span class="k">ヒットした形</span><span class="o"><span class="gk" lang="grc">χαρὰν</span> 対格・女性・単数</span></p>
+<p class="url">全語義・用例：<a href="https://moreskosh.com/ja/word/G5479/">moreskosh.com/ja/word/G5479</a></p></article>
+<article class="en"><div class="hw"><span class="gk lemma" lang="grc">βάπτισμα</span> <span class="tr">baptisma</span> <span class="meta">G908　<span class="nw">名詞　新約 19回</span></span></div>
+<div class="cs"><p class="cl"><span class="sn">1</span><span class="lb">（ヨハネの）バプテスマ</span> <span class="cnt">新約 13回</span> <span class="tg" data-sense="G908:1">新約のみ</span></p><p class="df">洗礼者ヨハネが授けたバプテスマ。『罪の赦しを得させる悔い改めのバプテスマ』『ヨハネのバプテスマ』『天からか、人からか』。</p><ul class="here"><li class="lg"><span class="ref">マルコ 1:4</span> <span class="gk" lang="grc">… βαπτίζων ἐν τῇ ἐρήμῳ κηρύσσων <b>βάπτισμα</b> μετανοίας εἰς ἄφεσιν ἁμαρτιῶν.</span></li><li class="lg"><span class="ref">ルカ 7:29</span> <span class="gk" lang="grc">… ἐδικαίωσαν τὸν θεόν, βαπτισθέντες τὸ <b>βάπτισμα</b> Ἰωάννου·</span></li><li class="lg"><span class="ref">使徒 19:4</span> <span class="gk" lang="grc">εἶπεν δὲ Παῦλος· Ἰωάννης ἐβάπτισεν <b>βάπτισμα</b> μετανοίας, τῷ λαῷ λέγων εἰς …</span></li></ul></div>
+<p class="ot"><span class="k">他の語義</span><span class="o"><span class="sn2">2</span>（キリスト者の）バプテスマ <span class="cnt">3</span> <span class="tg" data-sense="G908:2">新約・使徒教父</span></span><span class="o"><span class="sn2">3</span>（苦難に）浸されること（比喩） <span class="cnt">3</span> <span class="tg" data-sense="G908:3">新約のみ</span></span></p>
+<p class="fm"><span class="k">ヒットした形</span><span class="o"><span class="gk" lang="grc">βάπτισμα</span> 対格・中性・単数 <span class="cnt">×3</span></span></p>
+<p class="url">全語義・用例：<a href="https://moreskosh.com/ja/word/G908/">moreskosh.com/ja/word/G908</a></p></article>
+<article class="en"><div class="hw"><span class="gk lemma" lang="grc">φόβος</span> <span class="tr">phobos</span> <span class="meta">G5401　<span class="nw">名詞　新約 47回</span></span></div>
+<div class="cs"><p class="cl"><span class="sn">1</span><span class="lb">恐れ・恐怖</span> <span class="cnt">新約 28回</span></p><p class="df">脅威・危険・驚きなどに対して人が抱く恐れ、またその恐れに駆られている状態。ἀπὸ τοῦ φόβου・διὰ τὸν φόβον τῶν Ἰουδαίων のように原因として示される場合を含む。</p><ul class="here"><li class="lg"><span class="ref">マルコ 4:41</span> <span class="gk" lang="grc">καὶ ἐφοβήθησαν <b>φόβον</b> μέγαν, καὶ ἔλεγον πρὸς ἀλλήλους· …</span></li><li class="lg"><span class="ref">ルカ 2:9</span> <span class="gk" lang="grc">… κυρίου περιέλαμψεν αὐτούς, καὶ ἐφοβήθησαν <b>φόβον</b> μέγαν·</span></li><li class="lg"><span class="ref">Ⅰペテロ 3:14</span> <span class="gk" lang="grc">… διὰ δικαιοσύνην, μακάριοι. τὸν δὲ <b>φόβον</b> αὐτῶν μὴ φοβηθῆτε μηδὲ ταραχθῆτε,</span></li></ul></div>
+<p class="ot"><span class="k">他の語義</span><span class="o"><span class="sn2">2</span>畏れ（神・主への） <span class="cnt">6</span></span><span class="o"><span class="sn2">3</span>畏怖（出来事に際して臨む畏れ） <span class="cnt">8</span></span><span class="o"><span class="sn2">4</span>敬意・尊敬 <span class="cnt">5</span></span></p>
+<div class="id"><span class="k">フレーズ</span><p><span class="gk" lang="grc">μετὰ φόβου καὶ τρόμου</span>　恐れとおののきをもって（定型表現） <span class="refs">（Ⅱコリント 7:15、エペソ 6:5、ピリピ 2:12）</span></p></div>
+<p class="fm"><span class="k">ヒットした形</span><span class="o"><span class="gk" lang="grc">φόβον</span> 対格・男性・単数 <span class="cnt">×3</span></span></p>
+<p class="url">全語義・用例：<a href="https://moreskosh.com/ja/word/G5401/">moreskosh.com/ja/word/G5401</a></p></article>
+<article class="en"><div class="hw"><span class="gk lemma" lang="grc">εὐαγγέλιον</span> <span class="tr">euangelion</span> <span class="meta">G2098　<span class="nw">名詞　新約 75回</span></span></div>
+<div class="cs"><p class="cl"><span class="sn">1</span><span class="lb">福音</span> <span class="cnt">新約 75回</span></p><p class="df">神の救いの良い知らせ、その内容と宣教。</p><ul class="here"><li class="lg"><span class="ref">Ⅱコリント 11:7</span> <span class="gk" lang="grc">… ὅτι δωρεὰν τὸ τοῦ θεοῦ <b>εὐαγγέλιον</b> εὐηγγελισάμην ὑμῖν;</span></li><li class="lg"><span class="ref">ガラテヤ 1:11</span> <span class="gk" lang="grc">Γνωρίζω γὰρ ὑμῖν, ἀδελφοί, τὸ <b>εὐαγγέλιον</b> τὸ εὐαγγελισθὲν ὑπ’ ἐμοῦ ὅτι …</span></li></ul></div>
+<p class="fm"><span class="k">ヒットした形</span><span class="o"><span class="gk" lang="grc">εὐαγγέλιον</span> 対格・中性・単数 <span class="cnt">×2</span></span></p>
+<p class="url">全語義・用例：<a href="https://moreskosh.com/ja/word/G2098/">moreskosh.com/ja/word/G2098</a></p></article>
+<article class="en"><div class="hw"><span class="gk lemma" lang="grc">αἰχμαλωσία</span> <span class="tr">aichmalōsia</span> <span class="meta">G161　<span class="nw">名詞　新約 3回</span></span></div>
+<div class="cs"><p class="cl"><span class="sn">1</span><span class="lb">捕囚</span> <span class="cnt">新約 3回</span> <span class="tg" data-sense="G161:1">新約・LXX・使徒教父</span></p><p class="df">捕囚、とりこ。『捕虜を引き連れ』『捕囚となるべき者は』『捕囚に引かれて行く』『捕囚』。</p><ul class="here"><li class="lg"><span class="ref">エペソ 4:8</span> <span class="gk" lang="grc">… λέγει· Ἀναβὰς εἰς ὕψος ᾐχμαλώτευσεν <b>αἰχμαλωσίαν,</b> ἔδωκεν δόματα τοῖς ἀνθρώποις.</span></li></ul></div>
+<p class="fm"><span class="k">ヒットした形</span><span class="o"><span class="gk" lang="grc">αἰχμαλωσίαν</span> 対格・女性・単数</span></p>
+<p class="url">全語義・用例：<a href="https://moreskosh.com/ja/word/G161/">moreskosh.com/ja/word/G161</a></p></article>
+<article class="en"><div class="hw"><span class="gk lemma" lang="grc">ἁμαρτία</span> <span class="tr">hamartia</span> <span class="meta">G266　<span class="nw">名詞　新約 172回</span></span></div>
+<div class="cs"><p class="cl"><span class="sn">2</span><span class="lb">罪（行為・違反）</span> <span class="cnt">新約 56回</span></p><p class="df">神の意志に反する具体的な行為または過失としての罪。個人が行う、あるいは行ったこととして問われるもので、「罪を行う」「罪がある」の文脈で用いられる。</p><ul class="here"><li class="lg"><span class="ref">Ⅰヨハネ 5:16</span> <span class="gk" lang="grc">… ἴδῃ τὸν ἀδελφὸν αὐτοῦ ἁμαρτάνοντα <b>ἁμαρτίαν</b> μὴ πρὸς θάνατον, αἰτήσει, καὶ …</span></li></ul></div>
+<p class="ot"><span class="k">他の語義</span><span class="o"><span class="sn2">1</span>罪（支配原理） <span class="cnt">35</span></span><span class="o"><span class="sn2">3</span>罪（罪責・贖いの対象） <span class="cnt">81</span></span></p>
+<p class="fm"><span class="k">ヒットした形</span><span class="o"><span class="gk" lang="grc">ἁμαρτίαν</span> 対格・女性・単数</span></p>
+<p class="url">全語義・用例：<a href="https://moreskosh.com/ja/word/G266/">moreskosh.com/ja/word/G266</a></p></article>
+<article class="en"><div class="hw"><span class="gk lemma" lang="grc">θαῦμα</span> <span class="tr">thauma</span> <span class="meta">G2295　<span class="nw">名詞　新約 2回</span></span></div>
+<div class="cs"><p class="cl"><span class="sn">1</span><span class="lb">驚くべきこと・驚き</span> <span class="cnt">新約 2回</span> <span class="tg" data-sense="G2295:1">新約・LXX・使徒教父</span></p><p class="df">驚き、驚くべきこと。『驚くことではない』『非常に驚いた』。</p><ul class="here"><li class="lg"><span class="ref">黙示録 17:6</span> <span class="gk" lang="grc">… Ἰησοῦ. Καὶ ἐθαύμασα ἰδὼν αὐτὴν <b>θαῦμα</b> μέγα·</span></li></ul></div>
+<p class="fm"><span class="k">ヒットした形</span><span class="o"><span class="gk" lang="grc">θαῦμα</span> 対格・中性・単数</span></p>
+<p class="url">全語義・用例：<a href="https://moreskosh.com/ja/word/G2295/">moreskosh.com/ja/word/G2295</a></p></article>
+<article class="en"><div class="hw"><span class="gk lemma" lang="grc">κρίμα</span> <span class="tr">krima</span> <span class="meta">G2917　<span class="nw">名詞　新約 27回</span></span></div>
+<div class="cs"><p class="cl"><span class="sn">1</span><span class="lb">裁き・さばき</span> <span class="cnt">新約 11回</span></p><p class="df">神の裁き、裁判・審判、さばくこと。</p><ul class="here"><li class="lg"><span class="ref">黙示録 18:20</span> <span class="gk" lang="grc">… ὅτι ἔκρινεν ὁ θεὸς τὸ <b>κρίμα</b> ὑμῶν ἐξ αὐτῆς.</span></li></ul></div>
+<p class="ot"><span class="k">他の語義</span><span class="o"><span class="sn2">2</span>有罪の宣告・罰 <span class="cnt">14</span></span><span class="o"><span class="sn2">3</span>訴訟 <span class="cnt">1</span></span><span class="o"><span class="sn2">4</span>神の定め・判断 <span class="cnt">1</span></span></p>
+<p class="fm"><span class="k">ヒットした形</span><span class="o"><span class="gk" lang="grc">κρίμα</span> 対格・中性・単数</span></p>
+<p class="url">全語義・用例：<a href="https://moreskosh.com/ja/word/G2917/">moreskosh.com/ja/word/G2917</a></p></article>
+</main>
+<footer class="cr">
+<h2>出典</h2>
+<ul>
+<li>語義：NGSD（New Testament Greek Sense Database、本プロジェクト作成）。語義の確定は Abbott-Smith と用例分析を基礎とし、判断の分かれる箇所では BDAG を参照して照合した。語義ラベルと定義はすべて本プロジェクトの独自記述で、BDAG の本文は含まない。</li>
+<li>ギリシャ語本文・形態：SBLGNT（© SBL / Faithlife、CC BY 4.0）／MACULA Greek（© Biblica, Inc.、CC BY 4.0）に基づく派生データ</li>
+<li>書体：Noto Serif CJK JP・Noto Serif（SIL Open Font License 1.1）</li>
+</ul>
+</footer>
+</body>
+</html>

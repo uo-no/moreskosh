@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<title>NGSD 辞書 — 「いちじく」の検索から</title>
+<style>
+@page { size: A4; margin: 16mm 14mm 16mm 14mm; }
+/* ギリシャ文字は和文の中でも Noto Serif で組む（和文書体の単調ギリシャ字形に落ちないように） */
+@font-face { font-family: "GkSerif"; src: local("Noto Serif"), local("NotoSerif-Regular"); unicode-range: U+0300-036F, U+0370-03FF, U+1F00-1FFF; font-weight: 400; }
+@font-face { font-family: "GkSerif"; src: local("Noto Serif Bold"), local("NotoSerif-Bold"); unicode-range: U+0300-036F, U+0370-03FF, U+1F00-1FFF; font-weight: 700; }
+:root { --ink: #1a1a1a; --sub: #555; --rule: #bbb; --accent: #2f5d3a; }
+* { box-sizing: border-box; }
+html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+body { margin: 0; color: var(--ink); background: #fff; font-family: "GkSerif", "Noto Serif CJK JP", "Noto Serif", serif; font-size: 8.6pt; line-height: 1.55; }
+.gk { font-family: "Noto Serif", "Noto Serif CJK JP", serif; }
+b { font-weight: 700; }
+header.cv { border-bottom: 0.6pt solid var(--ink); padding-bottom: 3mm; margin-bottom: 4mm; }
+header.cv .series { font-size: 8pt; letter-spacing: 0.2em; color: var(--accent); margin: 0; }
+header.cv h1 { font-size: 20pt; font-weight: 700; margin: 1mm 0 2mm; letter-spacing: 0.04em; }
+header.cv dl { display: grid; grid-template-columns: auto 1fr auto 1fr; gap: 0.5mm 4mm; margin: 0; font-size: 8.2pt; }
+header.cv dt { color: var(--sub); }
+header.cv dd { margin: 0; }
+header.cv dd.q { font-family: "Noto Serif", "Noto Serif CJK JP", serif; word-break: break-all; }
+h2 { font-size: 9pt; font-weight: 700; color: var(--accent); margin: 0 0 1.5mm; letter-spacing: 0.1em; }
+.howto { font-size: 7.4pt; color: var(--sub); border: 0.4pt solid var(--rule); padding: 1.5mm 2.5mm; margin-bottom: 4mm; }
+.howto p { margin: 0; }
+main { column-count: 2; column-gap: 7mm; column-rule: 0.3pt solid var(--rule); }
+.en { break-inside: avoid-column; margin: 0 0 3.2mm; padding-bottom: 2.4mm; border-bottom: 0.3pt solid #ddd; }
+.en p { margin: 0; }
+.hw { line-height: 1.35; margin-bottom: 0.6mm; }
+.hw .lemma { font-size: 12.5pt; font-weight: 700; }
+.hw .tr { font-style: italic; color: var(--sub); font-size: 8.4pt; font-family: "Noto Serif", serif; }
+.hw .meta { font-size: 7.6pt; color: var(--sub); }
+.hw .meta .nw { white-space: nowrap; }
+.cs { margin: 1mm 0 1.2mm; }
+.cl .sn { display: inline-block; min-width: 3.6mm; height: 3.6mm; line-height: 3.6mm; text-align: center; font-size: 6.8pt; color: #fff; background: var(--accent); border-radius: 0.8mm; margin-right: 1.2mm; vertical-align: 0.3mm; padding: 0 0.6mm; }
+.cl .lb { font-weight: 700; font-size: 9.4pt; }
+.cnt { font-size: 7pt; color: var(--sub); }
+.df { margin-top: 0.4mm !important; text-align: justify; }
+.rl { font-size: 7.8pt; margin-top: 0.6mm !important; }
+.rl .refs { color: var(--sub); font-size: 7pt; }
+ul.here { list-style: none; margin: 0.6mm 0 0; padding: 0; }
+ul.here li { font-size: 8.6pt; line-height: 1.45; padding-left: 7mm; text-indent: -7mm; }
+/* --hits：1項目や1語義が1段に収まらないこと（単一見出し語の全語義、用例の多い語義など）があるので、段をまたげるようにする。
+   語義名の直後と、用例1行の途中では改段しない */
+.en, .cs { break-inside: auto; }
+.cl, .df { break-after: avoid-column; }
+ul.here li { break-inside: avoid-column; }
+ul.here li.lg { padding-left: 0; text-indent: 0; }
+ul.here li.lg .ref { width: auto; margin-right: 1.4mm; }
+ul.here .ref { display: inline-block; width: 7mm; text-indent: 0; font-size: 7pt; color: var(--accent); font-family: "Noto Serif CJK JP", serif; }
+.k { display: inline-block; font-size: 6.8pt; color: var(--sub); border: 0.3pt solid var(--rule); border-radius: 0.8mm; padding: 0 1mm; margin-right: 1.4mm; line-height: 1.5; }
+.ot, .fm { font-size: 7.8pt; margin-top: 0.8mm !important; }
+.ot .o, .fm .o { margin-right: 2.4mm; }
+.ot .o::after, .fm .o::after { content: ""; }
+/* 行末の最後の項目の右マージンが枠の外に出て、横幅（スクロール幅）に数えられるのを防ぐ（縮小印刷の原因になりうる） */
+.ot .o:last-child, .fm .o:last-child { margin-right: 0; }
+/* 行末がタグ（インラインブロック）で終わる項目の右マージンも枠外に出うる。余白だけなので横方向をクリップして、スクロール幅に数えさせない */
+.ot, .fm { overflow-x: clip; }
+.sn2 { font-size: 6.8pt; color: var(--accent); margin-right: 0.6mm; }
+.id { font-size: 7.8pt; margin-top: 0.8mm; }
+.id p { padding-left: 2mm; }
+.id .refs { color: var(--sub); font-size: 7pt; }
+.url { font-size: 6.6pt; color: var(--sub); margin-top: 0.8mm !important; font-family: "Noto Serif", serif; word-break: break-all; }
+.url a { color: var(--accent); text-decoration: underline; text-decoration-thickness: 0.2pt; }
+.tg { display: inline-block; font-size: 6.2pt; line-height: 1.4; color: var(--accent); border: 0.3pt solid var(--accent); border-radius: 0.8mm; padding: 0 0.9mm; margin-left: 0.8mm; vertical-align: 0.2mm; white-space: nowrap; }
+footer.cr { margin-top: 5mm; border-top: 0.6pt solid var(--ink); padding-top: 2mm; font-size: 7pt; color: #333; break-inside: avoid; }
+footer.cr h2 { font-size: 7.6pt; }
+footer.cr ul { margin: 0; padding-left: 4mm; }
+</style>
+</head>
+<body>
+<header class="cv">
+<p class="series">NGSD 辞書　検索から</p>
+<h1>「いちじく」の検索から</h1>
+<dl>
+<dt>検索</dt><dd class="q">moreskosh.com/ja/search/いちじく</dd>
+<dt>ヒット</dt><dd>新約 22語</dd>
+<dt>収録見出し語</dt><dd>4（うち NGSD 収録 4）</dd>
+<dt>生成日</dt><dd>2026-11-28</dd>
+<dt>語義</dt><dd>NGSD（New Testament Greek Sense Database）</dd>
+</dl>
+</header>
+<div class="howto">
+<p>収録順は検索結果の中での初出順（新約の書・章・節の順）。各項目は見出し（原形・Strong 番号・品詞・新約での総出現数）、ヒットした用例で使われた語義（ヒットの多い順。番号・ラベル・新約での件数・定義・ヒットした用例）、他の語義の一覧（ラベル・件数）、フレーズ、ヒットした形の順に載せています。固有名詞は語義の代わりに、同定データがあるものは同定（その名前が誰・何を指すか。役割・表記を含む）を載せ、データのないものは見出しと用例のみです。他の語義の定義と用例は、項目の末尾のリンク先（語ページ）にあります。</p>
+<p>語義の右のタグは、その語義の裏づけの範囲です。<b>新約のみ</b>：LXX・使徒教父に用例がなく、新約の用例のみに基づく。<b>新約・LXX</b>：新約の全用例から立て、LXX の用例で裏づけを確認した。<b>新約・使徒教父</b>：同、使徒教父の用例で確認した。<b>新約・LXX・使徒教父</b>：同、LXX と使徒教父の両方で確認した。タグのない語義は、辞書との照合を経て新約の全用例に割り当てたものです。</p>
+</div>
+<main>
+<article class="en"><div class="hw"><span class="gk lemma" lang="grc">σῦκον</span> <span class="tr">sykon</span> <span class="meta">G4810　<span class="nw">名詞　新約 4回</span></span></div>
+<div class="cs"><p class="cl"><span class="sn">1</span><span class="lb">いちじく</span> <span class="cnt">新約 4回</span> <span class="tg" data-sense="G4810:1">新約・LXX</span></p><p class="df">いちじくの実。『いちじくを』『いちじくの実を』『いちじくの実』『いちじくの木に』。</p><ul class="here"><li class="lg"><span class="ref">マタイ 7:16</span> <span class="gk" lang="grc">… ἀκανθῶν σταφυλὰς ἢ ἀπὸ τριβόλων <b>σῦκα;</b></span></li><li class="lg"><span class="ref">マルコ 11:13</span> <span class="gk" lang="grc">… ὁ γὰρ καιρὸς οὐκ ἦν <b>σύκων.</b></span></li><li class="lg"><span class="ref">ルカ 6:44</span> <span class="gk" lang="grc">… οὐ γὰρ ἐξ ἀκανθῶν συλλέγουσιν <b>σῦκα,</b> οὐδὲ ἐκ βάτου σταφυλὴν τρυγῶσιν.</span></li><li class="lg"><span class="ref">ヤコブ 3:12</span> <span class="gk" lang="grc">… συκῆ ἐλαίας ποιῆσαι ἢ ἄμπελος <b>σῦκα;</b> οὔτε ἁλυκὸν γλυκὺ ποιῆσαι ὕδωρ.</span></li></ul></div>
+<p class="fm"><span class="k">ヒットした形</span><span class="o"><span class="gk" lang="grc">σῦκα</span> 対格・中性・複数 <span class="cnt">×3</span></span><span class="o"><span class="gk" lang="grc">σύκων</span> 属格・中性・複数</span></p>
+<p class="url">全語義・用例：<a href="https://moreskosh.com/ja/word/G4810/">moreskosh.com/ja/word/G4810</a></p></article>
+<article class="en"><div class="hw"><span class="gk lemma" lang="grc">συκῆ</span> <span class="tr">sykē</span> <span class="meta">G4808　<span class="nw">名詞　新約 16回</span></span></div>
+<div class="cs"><p class="cl"><span class="sn">1</span><span class="lb">いちじくの木</span> <span class="cnt">新約 16回</span> <span class="tg" data-sense="G4808:1">新約・LXX</span></p><p class="df">いちじくの木。譬え・事実の記述・比喩に現れる。『いちじくの木のたとえ』『いちじくの木の下で』『いちじくの木が枯れた』。</p><ul class="here"><li class="lg"><span class="ref">マタイ 21:19</span> <span class="gk" lang="grc">καὶ ἰδὼν <b>συκῆν</b> μίαν ἐπὶ τῆς ὁδοῦ ἦλθεν …</span></li><li class="lg"><span class="ref">マタイ 21:19</span> <span class="gk" lang="grc">… αἰῶνα· καὶ ἐξηράνθη παραχρῆμα ἡ <b>συκῆ.</b></span></li><li class="lg"><span class="ref">マタイ 21:20</span> <span class="gk" lang="grc">… λέγοντες· Πῶς παραχρῆμα ἐξηράνθη ἡ <b>συκῆ;</b></span></li><li class="lg"><span class="ref">マタイ 21:21</span> <span class="gk" lang="grc">… διακριθῆτε, οὐ μόνον τὸ τῆς <b>συκῆς</b> ποιήσετε, ἀλλὰ κἂν τῷ ὄρει …</span></li><li class="lg"><span class="ref">マタイ 24:32</span> <span class="gk" lang="grc">Ἀπὸ δὲ τῆς <b>συκῆς</b> μάθετε τὴν παραβολήν· ὅταν ἤδη …</span></li><li class="lg"><span class="ref">マルコ 11:13</span> <span class="gk" lang="grc">καὶ ἰδὼν <b>συκῆν</b> ἀπὸ μακρόθεν ἔχουσαν φύλλα ἦλθεν …</span></li><li class="lg"><span class="ref">マルコ 11:20</span> <span class="gk" lang="grc">Καὶ παραπορευόμενοι πρωῒ εἶδον τὴν <b>συκῆν</b> ἐξηραμμένην ἐκ ῥιζῶν.</span></li><li class="lg"><span class="ref">マルコ 11:21</span> <span class="gk" lang="grc">… λέγει αὐτῷ· Ῥαββί, ἴδε ἡ <b>συκῆ</b> ἣν κατηράσω ἐξήρανται.</span></li><li class="lg"><span class="ref">マルコ 13:28</span> <span class="gk" lang="grc">Ἀπὸ δὲ τῆς <b>συκῆς</b> μάθετε τὴν παραβολήν· ὅταν ἤδη …</span></li><li class="lg"><span class="ref">ルカ 13:6</span> <span class="gk" lang="grc">Ἔλεγεν δὲ ταύτην τὴν παραβολήν. <b>Συκῆν</b> εἶχέν τις πεφυτευμένην ἐν τῷ …</span></li><li class="lg"><span class="ref">ルカ 13:7</span> <span class="gk" lang="grc">… ἔρχομαι ζητῶν καρπὸν ἐν τῇ <b>συκῇ</b> ταύτῃ καὶ οὐχ εὑρίσκω· ἔκκοψον …</span></li><li class="lg"><span class="ref">ルカ 21:29</span> <span class="gk" lang="grc">… εἶπεν παραβολὴν αὐτοῖς· Ἴδετε τὴν <b>συκῆν</b> καὶ πάντα τὰ δένδρα·</span></li><li class="lg"><span class="ref">ヨハネ 1:48</span> <span class="gk" lang="grc">… Φίλιππον φωνῆσαι ὄντα ὑπὸ τὴν <b>συκῆν</b> εἶδόν σε.</span></li><li class="lg"><span class="ref">ヨハネ 1:50</span> <span class="gk" lang="grc">… ὅτι εἶδόν σε ὑποκάτω τῆς <b>συκῆς</b> πιστεύεις; μείζω τούτων ὄψῃ.</span></li><li class="lg"><span class="ref">ヤコブ 3:12</span> <span class="gk" lang="grc">μὴ δύναται, ἀδελφοί μου, <b>συκῆ</b> ἐλαίας ποιῆσαι ἢ ἄμπελος σῦκα; …</span></li><li class="lg"><span class="ref">黙示録 6:13</span> <span class="gk" lang="grc">… ἔπεσαν εἰς τὴν γῆν, ὡς <b>συκῆ</b> βάλλει τοὺς ὀλύνθους αὐτῆς ὑπὸ …</span></li></ul></div>
+<p class="fm"><span class="k">ヒットした形</span><span class="o"><span class="gk" lang="grc">συκῆ</span> 主格・女性・単数 <span class="cnt">×5</span></span><span class="o"><span class="gk" lang="grc">συκῆν</span> 対格・女性・単数 <span class="cnt">×5</span></span><span class="o"><span class="gk" lang="grc">συκῆς</span> 属格・女性・単数 <span class="cnt">×4</span></span><span class="o"><span class="gk" lang="grc">Συκῆν</span> 対格・女性・単数</span><span class="o"><span class="gk" lang="grc">συκῇ</span> 与格・女性・単数</span></p>
+<p class="url">全語義・用例：<a href="https://moreskosh.com/ja/word/G4808/">moreskosh.com/ja/word/G4808</a></p></article>
+<article class="en"><div class="hw"><span class="gk lemma" lang="grc">συκομορέα</span> <span class="tr">sykomorea</span> <span class="meta">G4809　<span class="nw">名詞　新約 1回</span></span></div>
+<div class="cs"><p class="cl"><span class="sn">1</span><span class="lb">いちじく桑</span> <span class="cnt">新約 1回</span> <span class="tg" data-sense="G4809:1">新約のみ</span></p><p class="df">いちじく桑の木。『いちじく桑の木』。</p><ul class="here"><li class="lg"><span class="ref">ルカ 19:4</span> <span class="gk" lang="grc">… εἰς τὸ ἔμπροσθεν ἀνέβη ἐπὶ <b>συκομορέαν</b> ἵνα ἴδῃ αὐτόν, ὅτι ἐκείνης …</span></li></ul></div>
+<p class="fm"><span class="k">ヒットした形</span><span class="o"><span class="gk" lang="grc">συκομορέαν</span> 対格・女性・単数</span></p>
+<p class="url">全語義・用例：<a href="https://moreskosh.com/ja/word/G4809/">moreskosh.com/ja/word/G4809</a></p></article>
+<article class="en"><div class="hw"><span class="gk lemma" lang="grc">ὄλυνθος</span> <span class="tr">olynthos</span> <span class="meta">G3653　<span class="nw">名詞　新約 1回</span></span></div>
+<div class="cs"><p class="cl"><span class="sn">1</span><span class="lb">熟していないいちじく</span> <span class="cnt">新約 1回</span> <span class="tg" data-sense="G3653:1">新約・LXX</span></p><p class="df">熟していないいちじく。『青いいちじく』。</p><ul class="here"><li class="lg"><span class="ref">黙示録 6:13</span> <span class="gk" lang="grc">… γῆν, ὡς συκῆ βάλλει τοὺς <b>ὀλύνθους</b> αὐτῆς ὑπὸ ἀνέμου μεγάλου σειομένη,</span></li></ul></div>
+<p class="fm"><span class="k">ヒットした形</span><span class="o"><span class="gk" lang="grc">ὀλύνθους</span> 対格・男性・複数</span></p>
+<p class="url">全語義・用例：<a href="https://moreskosh.com/ja/word/G3653/">moreskosh.com/ja/word/G3653</a></p></article>
+</main>
+<footer class="cr">
+<h2>出典</h2>
+<ul>
+<li>語義：NGSD（New Testament Greek Sense Database、本プロジェクト作成）。語義の確定は Abbott-Smith と用例分析を基礎とし、判断の分かれる箇所では BDAG を参照して照合した。語義ラベルと定義はすべて本プロジェクトの独自記述で、BDAG の本文は含まない。</li>
+<li>ギリシャ語本文・形態：SBLGNT（© SBL / Faithlife、CC BY 4.0）／MACULA Greek（© Biblica, Inc.、CC BY 4.0）に基づく派生データ</li>
+<li>書体：Noto Serif CJK JP・Noto Serif（SIL Open Font License 1.1）</li>
+</ul>
+</footer>
+</body>
+</html>
