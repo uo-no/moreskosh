@@ -4,10 +4,15 @@
  *
  * #413 改訂：範囲の本文（ギリシャ語＋口語訳）の節を除き、収録順をギリシャ語アルファベット順から範囲内の初出順に変更。
  *
+ * #414 改訂：各項目から状態行（確定・全用例割り当て＋拡張照合の出どころ）と語義ごとの裏づけ行、「NGSD 未収録」の説明行を除いた。
+ * 根拠の説明（拡張照合／拡張照合（新約のみ））は凡例に一度だけ載せる。固有名詞は、同定ドラフト（proper-nouns/drafts/）が
+ * あれば、範囲内のトークンが属する同定（と役割・表記）を見出しの下に示す。ドラフトがない固有名詞は注記なしで見出し・用例・形のみ。
+ *
  * 範囲（例：ROM 1:1 / ROM 1）に出るレンマを集め、NGSD の公開データから箇所中心形の小辞典を
  * A4 の HTML に組み、Playwright（Chromium）で PDF に印刷する。サンプル提示用で、/pdf の生成サービスではない。
  *
  * 入力（読み取りのみ）：
+ *   proper-nouns/drafts/<Strong>.json（固有名詞の同定ドラフト。あれば）
  *   public/assets/data/igsd/index.json・lemmas/*.json・sense-map-gi.json（NGSD）
  *   public/bible_data/nt/{BOOK}/{ch}.json（本文・形態）
  *   public/books.json（書名）
@@ -15,7 +20,7 @@
  * 方針（L-0）：
  *   - データにある語義・件数・定義文・成句をそのまま載せる。語義を選ばない・補わない・言い換えない。
  *   - 「その箇所の語義」は sense-map-gi の割り当てのみに従う。NGSD に項目のない語は、見出しと
- *     本文由来の事実（品詞・出現数・出現形）だけを載せ、語義欄は「NGSD 未収録」と明示する（静寂）。
+ *     本文由来の事実（品詞・出現数・出現形）と、あれば同定ドラフトの内容だけを載せ、説明は添えない（静寂）。
  *   - LXX の用例は載せない（キュー #411 の指定）。lemma の note（LXX の箇所を含む）も載せない。
  *   - 生成日以外は決定的（同じ入力から同じ HTML）。
  *
@@ -98,17 +103,18 @@ const PROV = {
   extended: '拡張照合 — 語義は新約の全用例から立て、LXX・教父の用例で裏づけを確認した',
   extendedNtOnly: '拡張照合（新約のみ） — LXX・教父に用例がないため、語義は新約の用例のみに基づく',
 };
-function provText(data) {
-  if (data.collation !== 'extended') return '';
-  const ntOnly = data.senses.length > 0 && data.senses.every((x) => x.layers && x.layers.lxx === 'none' && x.layers.fathers === 'none');
-  return ntOnly ? PROV.extendedNtOnly : PROV.extended;
+
+/* 固有名詞の同定ドラフト（proper-nouns/drafts/<Strong>.json。lemmaId grc:G3972 → G3972.json）。無ければ null */
+const draftCache = new Map();
+function loadDraft(lemmaId) {
+  if (draftCache.has(lemmaId)) return draftCache.get(lemmaId);
+  const m2 = /^grc:(G\d+)$/.exec(lemmaId || '');
+  const p = m2 && path.join(ROOT, 'proper-nouns/drafts', m2[1] + '.json');
+  const d = p && fs.existsSync(p) ? JSON.parse(fs.readFileSync(p, 'utf8')) : null;
+  draftCache.set(lemmaId, d);
+  return d;
 }
-function attestText(layers) {
-  const names = ['新約'];
-  if (layers.lxx === 'attested') names.push('LXX');
-  if (layers.fathers === 'attested') names.push('教父');
-  return names.length === 1 ? '裏づけ：新約のみ' : '裏づけ：' + names.join('・');
-}
+const warnings = [];
 
 /* 成句の参照（"ROM 15:6"）を書名に */
 const refJa = (r) => { const x = /^(\S+)\s+(.+)$/.exec(r); const b = x && bookByKey.get(x[1]); return b ? `${b.name} ${x[2]}` : r; };
@@ -120,9 +126,9 @@ const entries = new Map();
 for (const t of rangeTokens) {
   const sm = senseMap[String(t.globalIdx)];
   const key = sm ? sm.split(':')[0] : 'X:' + loose(t.lemma);
-  if (!entries.has(key)) entries.set(key, { key, ngsd: !!sm, strong: sm ? key : t.strong, strongsX: new Set(), lemma: sm ? nfc(igsdByStrong.get(key).lemma) : nfc(t.lemma), toks: [] });
+  if (!entries.has(key)) entries.set(key, { key, ngsd: !!sm, strong: sm ? key : t.strong, strongsX: new Set(), lemmaIds: new Set(), lemma: sm ? nfc(igsdByStrong.get(key).lemma) : nfc(t.lemma), toks: [] });
   const e = entries.get(key);
-  if (!sm) e.strongsX.add(t.strong);
+  if (!sm) { e.strongsX.add(t.strong); e.lemmaIds.add(t.lemmaId); }
   e.toks.push({ t, sense: sm ? sm.split(':')[1] : null });
 }
 
@@ -144,6 +150,37 @@ function kwic(t) {
   return `${a > 0 ? '… ' : ''}${esc(pre)} <b>${esc(tokText(t))}</b> ${esc(post)}${b < vs.length ? ' …' : ''}`.replace(/\s+/g, ' ').trim();
 }
 
+/* ───────── 固有名詞の同定（ドラフトがあるときだけ。範囲内のトークンが属する同定・役割のみ） ───────── */
+function identHtml(e) {
+  const out = [];
+  for (const lid of e.lemmaIds) {
+    const d = loadDraft(lid);
+    if (!d) continue;
+    const hit = new Map(); // 同定 id → { ident, roles: Map }
+    for (const x of e.toks) {
+      if (x.t.lemmaId !== lid) continue;
+      const ref = `${BOOK} ${CH}:${x.t.verse}`;
+      const ids = d.identifications.filter((i) => (i.refs || []).includes(ref));
+      if (ids.length > 1) warnings.push(`複数の同定に該当 ${lid} ${ref}: ${ids.map((i) => i.id).join('・')}（候補をすべて表示）`);
+      for (const i of ids) {
+        if (!hit.has(i.id)) hit.set(i.id, { ident: i, roles: new Map() });
+        for (const r of (i.roles || [])) if ((r.refs || []).includes(ref)) hit.get(i.id).roles.set(r.id, r);
+      }
+    }
+    for (const { ident, roles } of hit.values()) {
+      const p = [`<div class="cs"><p class="cl"><span class="lb">${esc(ident.label_ja)}</span></p>`];
+      for (const r of roles.values()) {
+        p.push(`<p class="rl"><span class="k">役割</span>${esc(r.label_ja)} <span class="cnt">${num(r.count)}回</span> <span class="refs">（${esc((r.refs || []).map(refJa).join('、'))}）</span></p>`);
+      }
+      const forms = ((ident.variants || {}).ja || []).map((v) => v.form).filter(Boolean);
+      if (forms.length) p.push(`<p class="rl"><span class="k">表記</span>${esc(forms.join('、'))}</p>`);
+      p.push('</div>');
+      out.push(p.join(''));
+    }
+  }
+  return out.join('\n');
+}
+
 /* ───────── エントリの組版 ───────── */
 const omitted = { noNgsd: [], noDef: [] };
 function entryHtml(e) {
@@ -155,8 +192,6 @@ function entryHtml(e) {
     const data = readJson(`assets/data/igsd/lemmas/${e.strong}.json`);
     const strongs = (idx.strongs || [e.strong]).filter((s) => s !== e.strong);
     h.push(`<div class="hw"><span class="gk lemma" lang="grc">${esc(e.lemma)}</span> <span class="tr">${esc(tr)}</span> <span class="meta">${esc(e.strong)}${strongs.length ? `（${esc(strongs.join('・'))} を含む）` : ''}　${esc(pos)}　新約 ${num(idx.total)}回</span></div>`);
-    const prov = provText(data);
-    h.push(`<p class="st">確定（final）・新約の全 ${num(idx.total)} 用例に語義を割り当て${prov ? `<br>${esc(prov)}` : ''}</p>`);
 
     const central = [...new Set(e.toks.map((x) => x.sense))].sort((a, b) => Number(a) - Number(b));
     for (const sid of central) {
@@ -166,7 +201,6 @@ function entryHtml(e) {
       const here = e.toks.filter((x) => x.sense === sid);
       h.push(`<div class="cs"><p class="cl"><span class="sn">${esc(sid)}</span><span class="lb">${esc(s.label)}</span> <span class="cnt">新約 ${num(cnt)}回</span>${central.length > 1 || data.senses.length > 1 ? '' : ''}</p>` +
         (s.def ? `<p class="df">${esc(s.def)}</p>` : '') +
-        (s.layers ? `<p class="at">${esc(attestText(s.layers))}</p>` : '') +
         `<ul class="here">${here.map((x) => `<li><span class="ref">${esc(`${CH}:${x.t.verse}`)}</span> <span class="gk" lang="grc">${kwic(x.t)}</span></li>`).join('')}</ul></div>`);
     }
     const others = data.senses.filter((s) => !central.includes(String(s.id)));
@@ -181,7 +215,7 @@ function entryHtml(e) {
     omitted.noNgsd.push(`${sx.join('+')} ${e.lemma}`);
     const n = sx.reduce((acc, s) => acc + (ntCount.get(s + '\u0000' + loose(e.lemma)) || 0), 0);
     h.push(`<div class="hw"><span class="gk lemma" lang="grc">${esc(e.lemma)}</span> <span class="tr">${esc(tr)}</span> <span class="meta">${esc(sx.join('・'))}　${esc(pos)}　新約 ${num(n)}回</span></div>`);
-    h.push(`<p class="st none">NGSD 未収録 — この語の語義データは公開データにありません（語義は載せていません）</p>`);
+    h.push(identHtml(e));
     h.push(`<ul class="here">${e.toks.map((x) => `<li><span class="ref">${esc(`${CH}:${x.t.verse}`)}</span> <span class="gk" lang="grc">${kwic(x.t)}</span></li>`).join('')}</ul>`);
   }
   // 活用形：この範囲に出た形のみ
@@ -235,14 +269,13 @@ main { column-count: 2; column-gap: 7mm; column-rule: 0.3pt solid var(--rule); }
 .hw .lemma { font-size: 12.5pt; font-weight: 700; }
 .hw .tr { font-style: italic; color: var(--sub); font-size: 8.4pt; font-family: "Noto Serif", serif; }
 .hw .meta { font-size: 7.6pt; color: var(--sub); white-space: nowrap; }
-.st { font-size: 7pt; color: var(--sub); line-height: 1.45; margin-bottom: 1mm !important; }
-.st.none { color: #8a4b2a; }
 .cs { margin: 1mm 0 1.2mm; }
 .cl .sn { display: inline-block; min-width: 3.6mm; height: 3.6mm; line-height: 3.6mm; text-align: center; font-size: 6.8pt; color: #fff; background: var(--accent); border-radius: 0.8mm; margin-right: 1.2mm; vertical-align: 0.3mm; padding: 0 0.6mm; }
 .cl .lb { font-weight: 700; font-size: 9.4pt; }
 .cnt { font-size: 7pt; color: var(--sub); }
 .df { margin-top: 0.4mm !important; text-align: justify; }
-.at { font-size: 7pt; color: var(--sub); }
+.rl { font-size: 7.8pt; margin-top: 0.6mm !important; }
+.rl .refs { color: var(--sub); font-size: 7pt; }
 ul.here { list-style: none; margin: 0.6mm 0 0; padding: 0; }
 ul.here li { font-size: 8.6pt; line-height: 1.45; padding-left: 7mm; text-indent: -7mm; }
 ul.here .ref { display: inline-block; width: 7mm; text-indent: 0; font-size: 7pt; color: var(--accent); font-family: "Noto Serif CJK JP", serif; }
@@ -271,7 +304,10 @@ footer.cr ul { margin: 0; padding-left: 4mm; }
 <dt>語義</dt><dd>NGSD　編者 南田浩喜</dd>
 </dl>
 </header>
-<div class="howto"><p>収録順は範囲内での初出順。各項目は見出し（原形・Strong 番号・品詞・新約での総出現数）、語義の状態と根拠、この箇所で使われた語義（番号・ラベル・新約での件数・定義・この箇所の用例）、他の語義の一覧（ラベル・件数）、成句、この箇所に出た形の順に載せています。他の語義の定義と用例は語ページにあります。</p></div>
+<div class="howto">
+<p>収録順は範囲内での初出順。各項目は見出し（原形・Strong 番号・品詞・新約での総出現数）、この箇所で使われた語義（番号・ラベル・新約での件数・定義・この箇所の用例）、他の語義の一覧（ラベル・件数）、成句、この箇所に出た形の順に載せています。固有名詞は語義の代わりに、同定データがあるものは同定（その名前が誰・何を指すか。役割・表記を含む）を載せ、データのないものは見出しと用例のみです。他の語義の定義と用例、語義ごとの裏づけは語ページにあります。</p>
+<p>収録した NGSD の見出し語はすべて、新約の全用例に語義を割り当て済みです（状態は確定〈final〉）。語義の根拠は二通りです。<b>拡張照合</b>：${esc(PROV.extended.replace(/^拡張照合 — /, ''))}。<b>拡張照合（新約のみ）</b>：${esc(PROV.extendedNtOnly.replace(/^拡張照合（新約のみ） — /, ''))}。</p>
+</div>
 <main>
 ${body}
 </main>
@@ -291,6 +327,7 @@ fs.writeFileSync(htmlPath, html);
 const tHtml = Date.now() - t0;
 console.log(`HTML: ${path.relative(ROOT, htmlPath)}  tokens=${rangeTokens.length} lemmas=${list.length} ngsd=${ngsdN} (${tHtml} ms)`);
 if (omitted.noNgsd.length) console.log(`NGSD 未収録 ${omitted.noNgsd.length}: ${omitted.noNgsd.join(', ')}`);
+for (const w of warnings) console.log('WARN ' + w);
 if (omitted.noDef.length) console.log(`定義文なし ${omitted.noDef.length}: ${omitted.noDef.join(', ')}`);
 
 if (!NO_PDF) {
