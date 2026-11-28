@@ -2,10 +2,12 @@
 
 サンプルです。`/pdf` の生成サービスの実装でも本番反映でもありません（ユーザー承認待ち）。
 
+**#413 改訂（2026-11-28）**：範囲の本文（ギリシャ語＋口語訳）の節を除き、収録順をギリシャ語アルファベット順から範囲内の初出順（各レンマの最初のトークンの位置。節、次いで章ファイル内の配列順）に変えた。本文の削除に伴い、出典から口語訳の行を外し、口語訳の読み込みも除いた。語義の箇所中心表示・NGSD 未収録の扱い・書体・2段組・A4 は変えていない。改訂前のページ数は ROM 1:1 が 2、ROM 1 が 35。
+
 | ファイル | 範囲 | 収録語数 | ページ数（A4） | 生成時間 |
 | --- | --- | --- | --- | --- |
-| `rom-1-1.pdf`（`.html`） | ローマ 1:1（10語） | 10レンマ（うち NGSD 収録 7） | **2** | 約 1.3 秒（HTML 0.8 秒＋印刷 0.45 秒） |
-| `rom-1.pdf`（`.html`） | ローマ 1章（543語） | 230レンマ（うち NGSD 収録 213） | **35** | 約 3.1 秒（HTML 0.8 秒＋印刷 2.2 秒） |
+| `rom-1-1.pdf`（`.html`） | ローマ 1:1（10語） | 10レンマ（うち NGSD 収録 7） | **2** | 約 1.2 秒（HTML 0.8 秒＋印刷 0.43 秒） |
+| `rom-1.pdf`（`.html`） | ローマ 1章（543語） | 230レンマ（うち NGSD 収録 213） | **21** | 約 2.6 秒（HTML 0.8 秒＋印刷 1.8 秒） |
 
 生成時間はこのコンテナでの実測（Chromium の起動を含む）。HTML 側の大半は、NGSD 未収録語の新約出現数を数えるために新約全章を読む時間。
 
@@ -14,20 +16,22 @@
 データ → HTML → PDF。`scripts/build-ngsd-pdf-sample.cjs` が公開データから A4 用の HTML を組み、Playwright（Chromium）の `page.pdf()` で PDF に印刷する。手作業の調整はない。
 
 ```sh
-node scripts/build-ngsd-pdf-sample.cjs --range "ROM 1:1" --out docs/samples/ngsd-pdf/rom-1-1 --date 2026-11-27
-node scripts/build-ngsd-pdf-sample.cjs --range "ROM 1"   --out docs/samples/ngsd-pdf/rom-1   --date 2026-11-27
+node scripts/build-ngsd-pdf-sample.cjs --range "ROM 1:1" --out docs/samples/ngsd-pdf/rom-1-1 --date 2026-11-28
+node scripts/build-ngsd-pdf-sample.cjs --range "ROM 1"   --out docs/samples/ngsd-pdf/rom-1   --date 2026-11-28
 ```
 
-- 入力（読み取りのみ）：`public/assets/data/igsd/`（index.json・lemmas/・sense-map-gi.json）、`public/bible_data/nt/`、`public/translations/JA1955/`（範囲の本文表示のみ）、`public/books.json`。
+- 入力（読み取りのみ）：`public/assets/data/igsd/`（index.json・lemmas/・sense-map-gi.json）、`public/bible_data/nt/`、`public/books.json`。
 - 書体：Noto Serif CJK JP（和文）と Noto Serif（ギリシャ文字。和文の中のギリシャ文字も `unicode-range` で Noto Serif に回す）。どちらも SIL OFL 1.1 で、PDF に埋め込める。コンテナでは `apt-get install fonts-noto-cjk fonts-noto-core` で入れた。
-- 体裁：A4、余白 16/14 mm。冒頭（範囲・収録語数・生成日・語義＝NGSD／編者 南田浩喜）→ 範囲の本文（ギリシャ語＋口語訳）→ 凡例 → 2段組の項目 → 出典。柱（下）に書名・範囲とページ番号。
+- 体裁：A4、余白 16/14 mm。冒頭（範囲・収録語数・生成日・語義＝NGSD／編者 南田浩喜）→ 凡例 → 2段組の項目 → 出典。柱（下）に書名・範囲とページ番号。
 - 生成日以外は決定的（同じ入力から同じ HTML）。
+
+項目は範囲内での初出順に並ぶ（ROM 1:1 は Παῦλος・δοῦλος・Χριστός・Ἰησοῦς・κλητός・ἀπόστολος・ἀφορίζω・εἰς・εὐαγγέλιον・θεός）。
 
 ## 項目の形（箇所中心形）
 
 1. 見出し：原形・翻字・Strong 番号（NGSD が束ねる別番号があれば併記）・品詞（範囲内のトークンの `class`、ラベルはアプリの `app-shell.js` と同じ）・新約での総出現数（NGSD の `total`）。
 2. 状態と根拠：「確定（final）・新約の全 N 用例に語義を割り当て」。`collation` が `extended` の語は、#406 の文言（静的語ページと同一）で拡張照合と母集団を示す。
-3. 中心語義（`sense-map-gi` でその箇所に割り当てられた語義）：番号・ラベル・新約での件数・定義文・裏づけの層（新約／LXX／教父）・この箇所の用例（節番号と、語の前後5語のギリシャ語。節全体は冒頭の「本文」に載る）。範囲内で複数の語義が使われていれば、それぞれをフルに載せる。
+3. 中心語義（`sense-map-gi` でその箇所に割り当てられた語義）：番号・ラベル・新約での件数・定義文・裏づけの層（新約／LXX／教父）・この箇所の用例（節番号と、語の前後5語のギリシャ語）。範囲内で複数の語義が使われていれば、それぞれをフルに載せる。
 4. 他の語義：番号・ラベル・件数の一行。全文は語ページの URL へ案内。
 5. 成句：NGSD の `idioms`（形・説明・新約の参照）。
 6. この箇所の形：範囲内に出た形と形態（複数回は ×n）。

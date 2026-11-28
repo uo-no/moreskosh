@@ -2,13 +2,14 @@
 /**
  * build-ngsd-pdf-sample.cjs — キュー #411 NGSD辞書 PDF の組版サンプル（箇所中心形）
  *
+ * #413 改訂：範囲の本文（ギリシャ語＋口語訳）の節を除き、収録順をギリシャ語アルファベット順から範囲内の初出順に変更。
+ *
  * 範囲（例：ROM 1:1 / ROM 1）に出るレンマを集め、NGSD の公開データから箇所中心形の小辞典を
  * A4 の HTML に組み、Playwright（Chromium）で PDF に印刷する。サンプル提示用で、/pdf の生成サービスではない。
  *
  * 入力（読み取りのみ）：
  *   public/assets/data/igsd/index.json・lemmas/*.json・sense-map-gi.json（NGSD）
  *   public/bible_data/nt/{BOOK}/{ch}.json（本文・形態）
- *   public/translations/JA1955/{BOOK}/{ch}.json（口語訳。範囲の本文表示にのみ使う）
  *   public/books.json（書名）
  *
  * 方針（L-0）：
@@ -63,7 +64,6 @@ const igsdIndex = readJson('assets/data/igsd/index.json');
 const igsdByStrong = new Map(igsdIndex.map((e) => [e.strong, e]));
 const senseMap = readJson('assets/data/igsd/sense-map-gi.json');
 const chTokens = readJson(`bible_data/nt/${BOOK}/${CH}.json`);
-const ja1955 = readJson(`translations/JA1955/${BOOK}/${CH}.json`).verses;
 const inRange = (t) => V1 == null || (Number(t.verse) >= V1 && Number(t.verse) <= V2);
 const rangeTokens = chTokens.filter(inRange);
 
@@ -126,14 +126,9 @@ for (const t of rangeTokens) {
   e.toks.push({ t, sense: sm ? sm.split(':')[1] : null });
 }
 
-/* ギリシャ語アルファベット順（基底字で比較、同順位は元の綴り・Strong 番号） */
-const sortKey = (s) => loose(s).replace(/ς/g, 'σ').replace(/[^\p{L}]/gu, '');
-const list = [...entries.values()].sort((a, b) => {
-  const x = sortKey(a.lemma), y = sortKey(b.lemma);
-  if (x !== y) return x < y ? -1 : 1;
-  if (a.lemma !== b.lemma) return a.lemma < b.lemma ? -1 : 1;
-  return a.strong < b.strong ? -1 : a.strong > b.strong ? 1 : 0;
-});
+/* 収録順：範囲内での初出順（各レンマの最初のトークンの位置。節、次いで章ファイル内の配列順）。
+   Map は挿入順を保つので、rangeTokens を配列順に走査した上のループの挿入順がそのまま初出順になる。 */
+const list = [...entries.values()];
 
 /* ───────── KWIC（その箇所の用例：節の中の語を前後5語で示す） ───────── */
 const byVerse = new Map();
@@ -199,21 +194,12 @@ function entryHtml(e) {
   return `<article class="en">${h.join('\n')}</article>`;
 }
 
-/* ───────── 範囲の本文 ───────── */
-const verseNums = [...new Set(rangeTokens.map((t) => Number(t.verse)))].sort((a, b) => a - b);
-const textHtml = verseNums.map((v) => {
-  const gk = byVerse.get(v).map(tokText).join(' ').replace(/\s+([,.·;])/g, '$1');
-  const ja = ja1955[String(v)];
-  return `<div class="vs"><span class="vn">${v}</span><p class="gk" lang="grc">${esc(gk)}</p>${ja ? `<p class="ja">${esc(ja)}</p>` : ''}</div>`;
-}).join('\n');
-
 const ngsdN = list.filter((e) => e.ngsd).length;
 const body = list.map(entryHtml).join('\n');
 
 const CREDITS = [
   '語義：NGSD（本プロジェクト作成。編者 南田浩喜）。語義の確定は Abbott-Smith と用例分析を基礎とし、判断の分かれる箇所では BDAG を参照して照合した。語義ラベルと定義はすべて本プロジェクトの独自記述で、BDAG の本文は含まない。',
   'ギリシャ語本文・形態：SBLGNT（© SBL / Faithlife、CC BY 4.0）／MACULA Greek（© Biblica, Inc.、CC BY 4.0）に基づく派生データ',
-  '訳文：聖書 口語訳（日本聖書協会、1955年）',
   '書体：Noto Serif CJK JP・Noto Serif（SIL Open Font License 1.1）',
 ];
 
@@ -239,13 +225,7 @@ header.cv h1 { font-size: 20pt; font-weight: 700; margin: 1mm 0 2mm; letter-spac
 header.cv dl { display: grid; grid-template-columns: auto 1fr auto 1fr; gap: 0.5mm 4mm; margin: 0; font-size: 8.2pt; }
 header.cv dt { color: var(--sub); }
 header.cv dd { margin: 0; }
-section.tx { margin-bottom: 5mm; }
 h2 { font-size: 9pt; font-weight: 700; color: var(--accent); margin: 0 0 1.5mm; letter-spacing: 0.1em; }
-.vs { display: grid; grid-template-columns: 6mm 1fr; column-gap: 1mm; margin-bottom: 1.5mm; break-inside: avoid; }
-.vs .vn { grid-row: span 2; font-size: 7pt; color: var(--sub); padding-top: 0.6mm; text-align: right; padding-right: 1.5mm; }
-.vs p { margin: 0; }
-.vs .gk { font-size: 10pt; line-height: 1.5; }
-.vs .ja { font-size: 8.4pt; color: #333; }
 .howto { font-size: 7.4pt; color: var(--sub); border: 0.4pt solid var(--rule); padding: 1.5mm 2.5mm; margin-bottom: 4mm; }
 .howto p { margin: 0; }
 main { column-count: 2; column-gap: 7mm; column-rule: 0.3pt solid var(--rule); }
@@ -291,11 +271,7 @@ footer.cr ul { margin: 0; padding-left: 4mm; }
 <dt>語義</dt><dd>NGSD　編者 南田浩喜</dd>
 </dl>
 </header>
-<section class="tx">
-<h2>本文</h2>
-${textHtml}
-</section>
-<div class="howto"><p>収録順はギリシャ語アルファベット順。各項目は見出し（原形・Strong 番号・品詞・新約での総出現数）、語義の状態と根拠、この箇所で使われた語義（番号・ラベル・新約での件数・定義・この箇所の用例）、他の語義の一覧（ラベル・件数）、成句、この箇所に出た形の順に載せています。他の語義の定義と用例は語ページにあります。</p></div>
+<div class="howto"><p>収録順は範囲内での初出順。各項目は見出し（原形・Strong 番号・品詞・新約での総出現数）、語義の状態と根拠、この箇所で使われた語義（番号・ラベル・新約での件数・定義・この箇所の用例）、他の語義の一覧（ラベル・件数）、成句、この箇所に出た形の順に載せています。他の語義の定義と用例は語ページにあります。</p></div>
 <main>
 ${body}
 </main>
