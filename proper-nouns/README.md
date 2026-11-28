@@ -11,6 +11,7 @@
 | `tools/build-target-list.cjs` | `target-list.json` を作る。仕様の実測値（540・4,626、頻度帯ごとの内訳）と一致しなければ書かずに止まる。`--check` で再生成結果との一致を確認 |
 | `tools/pilot-judgments.cjs` | 同定の判断表（対象の文言・割り当てる箇所・注記・迷う箇所）。人が書く正本 |
 | `tools/build-pilot-drafts.cjs` | 判断表を本文のトークンに当てて `drafts/` を書く。`--check` で各ドラフトの count 合計＝total を機械確認 |
+| `renderings-ja-modern.json` | 新改訳2017・新共同訳の名前の形の裏取り結果（ポポ、2026-11-28）。2訳の本文はリポジトリに無いため、`drafts/` の生成には混ぜず重ね合わせとして保持する。表示への組み込み時に `variants.ja` と形（form）単位で統合する |
 
 ```sh
 node proper-nouns/tools/build-target-list.cjs          # 対象リスト

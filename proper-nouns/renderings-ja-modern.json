@@ -1,0 +1,730 @@
+{
+  "note_ja": "パイロット33レンマについて、新改訳2017・新共同訳の名前の形を実際の本文で確かめた結果（ポポの公開前裏取り、2026-11-28）。drafts/ は口語訳・文語訳で生成されるため、2訳の形はこの重ね合わせファイルに分けて保持する。表示への組み込み時に drafts の variants.ja と形（form）単位で統合する。",
+  "checked_on": "2026-11-28",
+  "sources": {
+    "新改訳2017": "spokenword.jp の新改訳2017新約本文（ともに聴く聖書）。YouVersion の「新改訳」は第3版（2003）のため使っていない",
+    "新共同訳": "bible.com（YouVersion、新共同訳 version 1819）。パウロ（ACT 13:9）のみ章ページが取得できず、新共同訳本文を逐語引用した記事で確認"
+  },
+  "notes_ja": [
+    "Χριστός：新共同訳は文脈で2形（キリスト＝MAT 1:1ほか／メシア＝MAT 16:16ほか）。新改訳2017は確認範囲ではキリストのみ",
+    "Καῖσαρ：新共同訳は MAT 22:17 に名前形がなく称号「皇帝」のみのため、新共同訳の形は登録していない",
+    "Πιλᾶτος：新共同訳 ACT 4:27 は「ポンティオ・ピラト」（フルネーム）だが、通常形ピラトを登録",
+    "Μακεδονία：新共同訳 ACT 16:9 は「マケドニア州」。通常形マケドニア（ACT 16:10）を登録",
+    "Ἰερουσαλήμ（G2419）：サンプル節 MAT 2:1 の語は Ἱεροσόλυμα（G2414）だったため、G2419 は MAT 23:37 で別途確認した（新改訳2017＝spokenword.jp の新約全巻PDF本文、新共同訳＝bible.com 節ページの引用）"
+  ],
+  "lemmas": {
+    "G2424": {
+      "identifications": {
+        "1": {
+          "ja": [
+            {
+              "form": "イエス",
+              "sources": [
+                {
+                  "source": "新改訳2017",
+                  "checked_in": "MAT 1:21"
+                },
+                {
+                  "source": "新共同訳",
+                  "checked_in": "MAT 1:21"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "G5547": {
+      "identifications": {
+        "1": {
+          "ja": [
+            {
+              "form": "キリスト",
+              "sources": [
+                {
+                  "source": "新改訳2017",
+                  "checked_in": "MAT 16:16"
+                },
+                {
+                  "source": "新共同訳",
+                  "checked_in": "MAT 1:1"
+                }
+              ]
+            },
+            {
+              "form": "メシア",
+              "sources": [
+                {
+                  "source": "新共同訳",
+                  "checked_in": "MAT 16:16"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "G3972": {
+      "identifications": {
+        "1": {
+          "ja": [
+            {
+              "form": "パウロ",
+              "sources": [
+                {
+                  "source": "新改訳2017",
+                  "checked_in": "ACT 13:9"
+                },
+                {
+                  "source": "新共同訳",
+                  "checked_in": "ACT 13:9"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "G4074": {
+      "identifications": {
+        "1": {
+          "ja": [
+            {
+              "form": "ペテロ",
+              "sources": [
+                {
+                  "source": "新改訳2017",
+                  "checked_in": "MAT 16:18"
+                }
+              ]
+            },
+            {
+              "form": "ペトロ",
+              "sources": [
+                {
+                  "source": "新共同訳",
+                  "checked_in": "MAT 16:18"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "G2491": {
+      "identifications": {
+        "1": {
+          "ja": [
+            {
+              "form": "ヨハネ",
+              "sources": [
+                {
+                  "source": "新改訳2017",
+                  "checked_in": "MAT 3:1"
+                },
+                {
+                  "source": "新共同訳",
+                  "checked_in": "MAT 3:1"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "G5330": {
+      "identifications": {
+        "1": {
+          "ja": [
+            {
+              "form": "パリサイ人",
+              "sources": [
+                {
+                  "source": "新改訳2017",
+                  "checked_in": "MAT 23:2"
+                }
+              ]
+            },
+            {
+              "form": "ファリサイ派",
+              "sources": [
+                {
+                  "source": "新共同訳",
+                  "checked_in": "MAT 23:2"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "G3475": {
+      "identifications": {
+        "1": {
+          "ja": [
+            {
+              "form": "モーセ",
+              "sources": [
+                {
+                  "source": "新改訳2017",
+                  "checked_in": "MAT 8:4"
+                },
+                {
+                  "source": "新共同訳",
+                  "checked_in": "MAT 8:4"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "G4613": {
+      "identifications": {
+        "1": {
+          "ja": [
+            {
+              "form": "シモン",
+              "sources": [
+                {
+                  "source": "新改訳2017",
+                  "checked_in": "MAT 4:18"
+                },
+                {
+                  "source": "新共同訳",
+                  "checked_in": "MAT 4:18"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "G11": {
+      "identifications": {
+        "1": {
+          "ja": [
+            {
+              "form": "アブラハム",
+              "sources": [
+                {
+                  "source": "新改訳2017",
+                  "checked_in": "MAT 1:1"
+                },
+                {
+                  "source": "新共同訳",
+                  "checked_in": "MAT 1:1"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "G2474": {
+      "identifications": {
+        "1": {
+          "ja": [
+            {
+              "form": "イスラエル",
+              "sources": [
+                {
+                  "source": "新改訳2017",
+                  "checked_in": "MAT 2:6"
+                },
+                {
+                  "source": "新共同訳",
+                  "checked_in": "MAT 2:6"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "G2414": {
+      "identifications": {
+        "1": {
+          "ja": [
+            {
+              "form": "エルサレム",
+              "sources": [
+                {
+                  "source": "新改訳2017",
+                  "checked_in": "MAT 16:21"
+                },
+                {
+                  "source": "新共同訳",
+                  "checked_in": "MAT 16:21"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "G1056": {
+      "identifications": {
+        "1": {
+          "ja": [
+            {
+              "form": "ガリラヤ",
+              "sources": [
+                {
+                  "source": "新改訳2017",
+                  "checked_in": "MAT 4:15"
+                },
+                {
+                  "source": "新共同訳",
+                  "checked_in": "MAT 4:15"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "G1138": {
+      "identifications": {
+        "1": {
+          "ja": [
+            {
+              "form": "ダビデ",
+              "sources": [
+                {
+                  "source": "新改訳2017",
+                  "checked_in": "MAT 1:1"
+                },
+                {
+                  "source": "新共同訳",
+                  "checked_in": "MAT 1:1"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "G4091": {
+      "identifications": {
+        "1": {
+          "ja": [
+            {
+              "form": "ピラト",
+              "sources": [
+                {
+                  "source": "新改訳2017",
+                  "checked_in": "MAT 27:2"
+                },
+                {
+                  "source": "新共同訳",
+                  "checked_in": "MAT 27:2"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "G3137": {
+      "identifications": {
+        "1": {
+          "ja": [
+            {
+              "form": "マリア",
+              "sources": [
+                {
+                  "source": "新改訳2017",
+                  "checked_in": "MAT 1:16"
+                },
+                {
+                  "source": "新共同訳",
+                  "checked_in": "MAT 1:16"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "G2264": {
+      "identifications": {
+        "1": {
+          "ja": [
+            {
+              "form": "ヘロデ",
+              "sources": [
+                {
+                  "source": "新改訳2017",
+                  "checked_in": "MAT 2:1"
+                },
+                {
+                  "source": "新共同訳",
+                  "checked_in": "MAT 2:1"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "G2449": {
+      "identifications": {
+        "1": {
+          "ja": [
+            {
+              "form": "ユダヤ",
+              "sources": [
+                {
+                  "source": "新改訳2017",
+                  "checked_in": "MAT 2:1"
+                },
+                {
+                  "source": "新共同訳",
+                  "checked_in": "MAT 2:1"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "G2385": {
+      "identifications": {
+        "1": {
+          "ja": [
+            {
+              "form": "ヤコブ",
+              "sources": [
+                {
+                  "source": "新改訳2017",
+                  "checked_in": "MAT 4:21"
+                },
+                {
+                  "source": "新共同訳",
+                  "checked_in": "MAT 4:21"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "G2455": {
+      "identifications": {
+        "1": {
+          "ja": [
+            {
+              "form": "ユダ",
+              "sources": [
+                {
+                  "source": "新改訳2017",
+                  "checked_in": "MAT 10:4"
+                },
+                {
+                  "source": "新共同訳",
+                  "checked_in": "MAT 10:4"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "G2501": {
+      "identifications": {
+        "1": {
+          "ja": [
+            {
+              "form": "ヨセフ",
+              "sources": [
+                {
+                  "source": "新改訳2017",
+                  "checked_in": "MAT 1:16"
+                },
+                {
+                  "source": "新共同訳",
+                  "checked_in": "MAT 1:16"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "G4567": {
+      "identifications": {
+        "1": {
+          "ja": [
+            {
+              "form": "サタン",
+              "sources": [
+                {
+                  "source": "新改訳2017",
+                  "checked_in": "MAT 4:10"
+                },
+                {
+                  "source": "新共同訳",
+                  "checked_in": "MAT 4:10"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "G5376": {
+      "identifications": {
+        "1": {
+          "ja": [
+            {
+              "form": "ピリポ",
+              "sources": [
+                {
+                  "source": "新改訳2017",
+                  "checked_in": "MAT 10:3"
+                }
+              ]
+            },
+            {
+              "form": "フィリポ",
+              "sources": [
+                {
+                  "source": "新共同訳",
+                  "checked_in": "MAT 10:3"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "G2243": {
+      "identifications": {
+        "1": {
+          "ja": [
+            {
+              "form": "エリヤ",
+              "sources": [
+                {
+                  "source": "新改訳2017",
+                  "checked_in": "MAT 11:14"
+                },
+                {
+                  "source": "新共同訳",
+                  "checked_in": "MAT 11:14"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "G2541": {
+      "identifications": {
+        "1": {
+          "ja": [
+            {
+              "form": "カエサル",
+              "sources": [
+                {
+                  "source": "新改訳2017",
+                  "checked_in": "MAT 22:17"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "G921": {
+      "identifications": {
+        "1": {
+          "ja": [
+            {
+              "form": "バルナバ",
+              "sources": [
+                {
+                  "source": "新改訳2017",
+                  "checked_in": "ACT 4:36"
+                },
+                {
+                  "source": "新共同訳",
+                  "checked_in": "ACT 4:36"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "G2384": {
+      "identifications": {
+        "1": {
+          "ja": [
+            {
+              "form": "ヤコブ",
+              "sources": [
+                {
+                  "source": "新改訳2017",
+                  "checked_in": "MAT 1:2"
+                },
+                {
+                  "source": "新共同訳",
+                  "checked_in": "MAT 1:2"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "G1672": {
+      "identifications": {
+        "1": {
+          "ja": [
+            {
+              "form": "ギリシア人",
+              "sources": [
+                {
+                  "source": "新改訳2017",
+                  "checked_in": "JHN 7:35"
+                },
+                {
+                  "source": "新共同訳",
+                  "checked_in": "JHN 7:35"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "G125": {
+      "identifications": {
+        "1": {
+          "ja": [
+            {
+              "form": "エジプト",
+              "sources": [
+                {
+                  "source": "新改訳2017",
+                  "checked_in": "MAT 2:13"
+                },
+                {
+                  "source": "新共同訳",
+                  "checked_in": "MAT 2:13"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "G5095": {
+      "identifications": {
+        "1": {
+          "ja": [
+            {
+              "form": "テモテ",
+              "sources": [
+                {
+                  "source": "新改訳2017",
+                  "checked_in": "ACT 16:1"
+                },
+                {
+                  "source": "新共同訳",
+                  "checked_in": "ACT 16:1"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "G2268": {
+      "identifications": {
+        "1": {
+          "ja": [
+            {
+              "form": "イザヤ",
+              "sources": [
+                {
+                  "source": "新改訳2017",
+                  "checked_in": "MAT 3:3"
+                },
+                {
+                  "source": "新共同訳",
+                  "checked_in": "MAT 3:3"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "G3109": {
+      "identifications": {
+        "1": {
+          "ja": [
+            {
+              "form": "マケドニア",
+              "sources": [
+                {
+                  "source": "新共同訳",
+                  "checked_in": "ACT 16:10"
+                },
+                {
+                  "source": "新改訳2017",
+                  "checked_in": "ACT 16:9"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "G2464": {
+      "identifications": {
+        "1": {
+          "ja": [
+            {
+              "form": "イサク",
+              "sources": [
+                {
+                  "source": "新改訳2017",
+                  "checked_in": "MAT 1:2"
+                },
+                {
+                  "source": "新共同訳",
+                  "checked_in": "MAT 1:2"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "G2419": {
+      "identifications": {
+        "1": {
+          "ja": [
+            {
+              "form": "エルサレム",
+              "sources": [
+                {
+                  "source": "新改訳2017",
+                  "checked_in": "MAT 23:37"
+                },
+                {
+                  "source": "新共同訳",
+                  "checked_in": "MAT 23:37"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}
