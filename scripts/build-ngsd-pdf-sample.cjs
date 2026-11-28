@@ -8,6 +8,8 @@
  * 根拠の説明（拡張照合／拡張照合（新約のみ））は凡例に一度だけ載せる。固有名詞は、同定ドラフト（proper-nouns/drafts/）が
  * あれば、範囲内のトークンが属する同定（と役割・表記）を見出しの下に示す。ドラフトがない固有名詞は注記なしで見出し・用例・形のみ。
  *
+ * #416 改訂：出典欄の語義クレジットから編者名を外し、ヘッダーと同じ「NGSD（New Testament Greek Sense Database）」の表記にそろえた。
+ *
  * #415 改訂：低頻度帯（collation: extended）の語義に、裏づけの範囲を示すタグ（新約のみ／新約・LXX／新約・使徒教父／
  * 新約・LXX・使徒教父）を付けた。データ源は lemmas/*.json の senses[].layers（Greekn 語ページの出どころ表示 #406 と同じ系）。
  * 本体（collation なし）の語義にはタグを付けない。語ページへのリンクはクリックできるリンクに短い URL を併記。
@@ -245,7 +247,7 @@ const ngsdN = list.filter((e) => e.ngsd).length;
 const body = list.map(entryHtml).join('\n');
 
 const CREDITS = [
-  '語義：NGSD（本プロジェクト作成。編者 南田浩喜）。語義の確定は Abbott-Smith と用例分析を基礎とし、判断の分かれる箇所では BDAG を参照して照合した。語義ラベルと定義はすべて本プロジェクトの独自記述で、BDAG の本文は含まない。',
+  '語義：NGSD（New Testament Greek Sense Database、本プロジェクト作成）。語義の確定は Abbott-Smith と用例分析を基礎とし、判断の分かれる箇所では BDAG を参照して照合した。語義ラベルと定義はすべて本プロジェクトの独自記述で、BDAG の本文は含まない。',
   'ギリシャ語本文・形態：SBLGNT（© SBL / Faithlife、CC BY 4.0）／MACULA Greek（© Biblica, Inc.、CC BY 4.0）に基づく派生データ',
   '書体：Noto Serif CJK JP・Noto Serif（SIL Open Font License 1.1）',
 ];
