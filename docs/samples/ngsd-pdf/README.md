@@ -2,7 +2,7 @@
 
 サンプルです。`/pdf` の生成サービスの実装でも本番反映でもありません（ユーザー承認待ち）。
 
-**#416 改訂（2026-11-28）**：出典欄の語義クレジットから編者名を外し、ヘッダーと同じ NGSD（New Testament Greek Sense Database）の表記にそろえた（「語義：NGSD（New Testament Greek Sense Database、本プロジェクト作成）。語義の確定は…」）。それ以外は #415 のまま。両サンプルの HTML・PDF（本文テキスト）に「南田浩喜」「編者」は 0 件。
+**#416 改訂（2026-11-28）**：出典欄の語義クレジットから編者名を外し、ヘッダーと同じ NGSD（New Testament Greek Sense Database）の表記にそろえた（「語義：NGSD（New Testament Greek Sense Database、本プロジェクト作成）。語義の確定は…」）。それ以外は #415 のまま。両サンプルの HTML・PDF（本文テキスト）に実名・編者名の表記は 0 件。
 
 **#415 改訂（2026-11-28）**：(1) 低頻度帯（`collation: extended`）の語義に、裏づけの範囲を示す小さなタグ（新約のみ／新約・LXX／新約・使徒教父／新約・LXX・使徒教父）を付けた。データ源は `lemmas/*.json` の `senses[].layers`（Greekn 語ページの出どころ表示 #406 と同じ系）で、本体（collation なし）の語義にはタグを付けない。凡例にタグの意味（4種）とタグのない語義の根拠（辞書との照合を経て新約の全用例に割り当てたもの）を一度だけ書いた。(2) 項目末尾の語ページの案内を、クリックできるリンク（`https://moreskosh.com/ja/word/G…/`）と、見える短い URL（`moreskosh.com/ja/word/G…`）の併記にした。(3) ヘッダーの語義クレジットを「NGSD（New Testament Greek Sense Database）」にした（編者名を外した。出典欄は #416 で対応）。(4) 縮小印刷の再発防止（下記）。収録順・箇所中心の語義・2段組・A4・書体・同定の表示は変えていない。
 
