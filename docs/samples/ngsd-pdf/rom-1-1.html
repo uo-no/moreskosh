@@ -29,7 +29,8 @@ main { column-count: 2; column-gap: 7mm; column-rule: 0.3pt solid var(--rule); }
 .hw { line-height: 1.35; margin-bottom: 0.6mm; }
 .hw .lemma { font-size: 12.5pt; font-weight: 700; }
 .hw .tr { font-style: italic; color: var(--sub); font-size: 8.4pt; font-family: "Noto Serif", serif; }
-.hw .meta { font-size: 7.6pt; color: var(--sub); white-space: nowrap; }
+.hw .meta { font-size: 7.6pt; color: var(--sub); }
+.hw .meta .nw { white-space: nowrap; }
 .cs { margin: 1mm 0 1.2mm; }
 .cl .sn { display: inline-block; min-width: 3.6mm; height: 3.6mm; line-height: 3.6mm; text-align: center; font-size: 6.8pt; color: #fff; background: var(--accent); border-radius: 0.8mm; margin-right: 1.2mm; vertical-align: 0.3mm; padding: 0 0.6mm; }
 .cl .lb { font-weight: 700; font-size: 9.4pt; }
@@ -44,11 +45,17 @@ ul.here .ref { display: inline-block; width: 7mm; text-indent: 0; font-size: 7pt
 .ot, .fm { font-size: 7.8pt; margin-top: 0.8mm !important; }
 .ot .o, .fm .o { margin-right: 2.4mm; }
 .ot .o::after, .fm .o::after { content: ""; }
+/* 行末の最後の項目の右マージンが枠の外に出て、横幅（スクロール幅）に数えられるのを防ぐ（縮小印刷の原因になりうる） */
+.ot .o:last-child, .fm .o:last-child { margin-right: 0; }
+/* 行末がタグ（インラインブロック）で終わる項目の右マージンも枠外に出うる。余白だけなので横方向をクリップして、スクロール幅に数えさせない */
+.ot, .fm { overflow-x: clip; }
 .sn2 { font-size: 6.8pt; color: var(--accent); margin-right: 0.6mm; }
 .id { font-size: 7.8pt; margin-top: 0.8mm; }
 .id p { padding-left: 2mm; }
 .id .refs { color: var(--sub); font-size: 7pt; }
 .url { font-size: 6.6pt; color: var(--sub); margin-top: 0.8mm !important; font-family: "Noto Serif", serif; word-break: break-all; }
+.url a { color: var(--accent); text-decoration: underline; text-decoration-thickness: 0.2pt; }
+.tg { display: inline-block; font-size: 6.2pt; line-height: 1.4; color: var(--accent); border: 0.3pt solid var(--accent); border-radius: 0.8mm; padding: 0 0.9mm; margin-left: 0.8mm; vertical-align: 0.2mm; white-space: nowrap; }
 footer.cr { margin-top: 5mm; border-top: 0.6pt solid var(--ink); padding-top: 2mm; font-size: 7pt; color: #333; break-inside: avoid; }
 footer.cr h2 { font-size: 7.6pt; }
 footer.cr ul { margin: 0; padding-left: 4mm; }
@@ -62,22 +69,22 @@ footer.cr ul { margin: 0; padding-left: 4mm; }
 <dt>範囲</dt><dd>ローマ 1:1（10語）</dd>
 <dt>収録語数</dt><dd>10レンマ（うち NGSD 収録 7）</dd>
 <dt>生成日</dt><dd>2026-11-28</dd>
-<dt>語義</dt><dd>NGSD　編者 南田浩喜</dd>
+<dt>語義</dt><dd>NGSD（New Testament Greek Sense Database）</dd>
 </dl>
 </header>
 <div class="howto">
-<p>収録順は範囲内での初出順。各項目は見出し（原形・Strong 番号・品詞・新約での総出現数）、この箇所で使われた語義（番号・ラベル・新約での件数・定義・この箇所の用例）、他の語義の一覧（ラベル・件数）、成句、この箇所に出た形の順に載せています。固有名詞は語義の代わりに、同定データがあるものは同定（その名前が誰・何を指すか。役割・表記を含む）を載せ、データのないものは見出しと用例のみです。他の語義の定義と用例、語義ごとの裏づけは語ページにあります。</p>
-<p>収録した NGSD の見出し語はすべて、新約の全用例に語義を割り当て済みです（状態は確定〈final〉）。語義の根拠は二通りです。<b>拡張照合</b>：語義は新約の全用例から立て、LXX・教父の用例で裏づけを確認した。<b>拡張照合（新約のみ）</b>：LXX・教父に用例がないため、語義は新約の用例のみに基づく。</p>
+<p>収録順は範囲内での初出順。各項目は見出し（原形・Strong 番号・品詞・新約での総出現数）、この箇所で使われた語義（番号・ラベル・新約での件数・定義・この箇所の用例）、他の語義の一覧（ラベル・件数）、成句、この箇所に出た形の順に載せています。固有名詞は語義の代わりに、同定データがあるものは同定（その名前が誰・何を指すか。役割・表記を含む）を載せ、データのないものは見出しと用例のみです。他の語義の定義と用例は、項目の末尾のリンク先（語ページ）にあります。</p>
+<p>語義の右のタグは、その語義の裏づけの範囲です。<b>新約のみ</b>：LXX・使徒教父に用例がなく、新約の用例のみに基づく。<b>新約・LXX</b>：新約の全用例から立て、LXX の用例で裏づけを確認した。<b>新約・使徒教父</b>：同、使徒教父の用例で確認した。<b>新約・LXX・使徒教父</b>：同、LXX と使徒教父の両方で確認した。タグのない語義は、辞書との照合を経て新約の全用例に割り当てたものです。</p>
 </div>
 <main>
 <article class="en"><div class="hw"><span class="gk lemma" lang="grc">Παῦλος</span> <span class="tr">paulos</span> <span class="meta">G3972　名詞　新約 158回</span></div>
 <div class="cs"><p class="cl"><span class="lb">使徒パウロ（サウロとも呼ばれた。異邦人への伝道者）</span></p><p class="rl"><span class="k">表記</span>パウロ</p></div>
 <ul class="here"><li><span class="ref">1:1</span> <span class="gk" lang="grc"><b>Παῦλος</b> δοῦλος Χριστοῦ Ἰησοῦ, κλητὸς ἀπόστολος, …</span></li></ul>
 <p class="fm"><span class="k">この箇所の形</span><span class="o"><span class="gk" lang="grc">Παῦλος</span> 主格・男性・単数</span></p></article>
-<article class="en"><div class="hw"><span class="gk lemma" lang="grc">δοῦλος</span> <span class="tr">doulos</span> <span class="meta">G1401　名詞　新約 124回</span></div>
+<article class="en"><div class="hw"><span class="gk lemma" lang="grc">δοῦλος</span> <span class="tr">doulos</span> <span class="meta">G1401　<span class="nw">名詞　新約 124回</span></span></div>
 <div class="cs"><p class="cl"><span class="sn">1</span><span class="lb">しもべ・奴隷</span> <span class="cnt">新約 124回</span></p><p class="df">主人に仕える身分の人。神やキリストのしもべという名乗り、たとえ話のしもべを含む。</p><ul class="here"><li><span class="ref">1:1</span> <span class="gk" lang="grc">Παῦλος <b>δοῦλος</b> Χριστοῦ Ἰησοῦ, κλητὸς ἀπόστολος, ἀφωρισμένος …</span></li></ul></div>
 <p class="fm"><span class="k">この箇所の形</span><span class="o"><span class="gk" lang="grc">δοῦλος</span> 主格・男性・単数</span></p>
-<p class="url">全語義・用例：https://moreskosh.pages.dev/ja/word/G1401/</p></article>
+<p class="url">全語義・用例：<a href="https://moreskosh.com/ja/word/G1401/">moreskosh.com/ja/word/G1401</a></p></article>
 <article class="en"><div class="hw"><span class="gk lemma" lang="grc">Χριστός</span> <span class="tr">christos</span> <span class="meta">G5547　名詞　新約 528回</span></div>
 <div class="cs"><p class="cl"><span class="lb">イエス（キリストと呼ばれる方）</span></p><p class="rl"><span class="k">表記</span>キリスト</p></div>
 <ul class="here"><li><span class="ref">1:1</span> <span class="gk" lang="grc">Παῦλος δοῦλος <b>Χριστοῦ</b> Ἰησοῦ, κλητὸς ἀπόστολος, ἀφωρισμένος εἰς …</span></li></ul>
@@ -86,37 +93,37 @@ footer.cr ul { margin: 0; padding-left: 4mm; }
 <div class="cs"><p class="cl"><span class="lb">ナザレのイエス（新約の中心人物。キリストと呼ばれる方）</span></p><p class="rl"><span class="k">表記</span>イエス</p></div>
 <ul class="here"><li><span class="ref">1:1</span> <span class="gk" lang="grc">Παῦλος δοῦλος Χριστοῦ <b>Ἰησοῦ,</b> κλητὸς ἀπόστολος, ἀφωρισμένος εἰς εὐαγγέλιον …</span></li></ul>
 <p class="fm"><span class="k">この箇所の形</span><span class="o"><span class="gk" lang="grc">Ἰησοῦ</span> 属格・男性・単数</span></p></article>
-<article class="en"><div class="hw"><span class="gk lemma" lang="grc">κλητός</span> <span class="tr">klētos</span> <span class="meta">G2822　形容詞　新約 10回</span></div>
-<div class="cs"><p class="cl"><span class="sn">1</span><span class="lb">召された（使徒として）</span> <span class="cnt">新約 2回</span></p><p class="df">召された。『召された使徒パウロ』『キリスト・イエスの僕、召された使徒パウロ』。</p><ul class="here"><li><span class="ref">1:1</span> <span class="gk" lang="grc">Παῦλος δοῦλος Χριστοῦ Ἰησοῦ, <b>κλητὸς</b> ἀπόστολος, ἀφωρισμένος εἰς εὐαγγέλιον θεοῦ</span></li></ul></div>
-<p class="ot"><span class="k">他の語義</span><span class="o"><span class="sn2">2</span>召された者（救いに） <span class="cnt">7</span></span><span class="o"><span class="sn2">3</span>招かれた者 <span class="cnt">1</span></span></p>
+<article class="en"><div class="hw"><span class="gk lemma" lang="grc">κλητός</span> <span class="tr">klētos</span> <span class="meta">G2822　<span class="nw">形容詞　新約 10回</span></span></div>
+<div class="cs"><p class="cl"><span class="sn">1</span><span class="lb">召された（使徒として）</span> <span class="cnt">新約 2回</span> <span class="tg" data-sense="G2822:1">新約のみ</span></p><p class="df">召された。『召された使徒パウロ』『キリスト・イエスの僕、召された使徒パウロ』。</p><ul class="here"><li><span class="ref">1:1</span> <span class="gk" lang="grc">Παῦλος δοῦλος Χριστοῦ Ἰησοῦ, <b>κλητὸς</b> ἀπόστολος, ἀφωρισμένος εἰς εὐαγγέλιον θεοῦ</span></li></ul></div>
+<p class="ot"><span class="k">他の語義</span><span class="o"><span class="sn2">2</span>召された者（救いに） <span class="cnt">7</span> <span class="tg" data-sense="G2822:2">新約・LXX・使徒教父</span></span><span class="o"><span class="sn2">3</span>招かれた者 <span class="cnt">1</span> <span class="tg" data-sense="G2822:3">新約・LXX</span></span></p>
 <p class="fm"><span class="k">この箇所の形</span><span class="o"><span class="gk" lang="grc">κλητὸς</span> 主格・男性・単数</span></p>
-<p class="url">全語義・用例：https://moreskosh.pages.dev/ja/word/G2822/</p></article>
-<article class="en"><div class="hw"><span class="gk lemma" lang="grc">ἀπόστολος</span> <span class="tr">apostolos</span> <span class="meta">G652　名詞　新約 79回</span></div>
+<p class="url">全語義・用例：<a href="https://moreskosh.com/ja/word/G2822/">moreskosh.com/ja/word/G2822</a></p></article>
+<article class="en"><div class="hw"><span class="gk lemma" lang="grc">ἀπόστολος</span> <span class="tr">apostolos</span> <span class="meta">G652　<span class="nw">名詞　新約 79回</span></span></div>
 <div class="cs"><p class="cl"><span class="sn">1</span><span class="lb">使徒</span> <span class="cnt">新約 76回</span></p><p class="df">キリストに選ばれ遣わされた使徒の職。十二使徒とパウロら。</p><ul class="here"><li><span class="ref">1:1</span> <span class="gk" lang="grc">Παῦλος δοῦλος Χριστοῦ Ἰησοῦ, κλητὸς <b>ἀπόστολος,</b> ἀφωρισμένος εἰς εὐαγγέλιον θεοῦ</span></li></ul></div>
 <p class="ot"><span class="k">他の語義</span><span class="o"><span class="sn2">2</span>使者・遣わされた者 <span class="cnt">3</span></span></p>
 <p class="fm"><span class="k">この箇所の形</span><span class="o"><span class="gk" lang="grc">ἀπόστολος</span> 主格・男性・単数</span></p>
-<p class="url">全語義・用例：https://moreskosh.pages.dev/ja/word/G652/</p></article>
-<article class="en"><div class="hw"><span class="gk lemma" lang="grc">ἀφορίζω</span> <span class="tr">aphorizō</span> <span class="meta">G873　動詞　新約 10回</span></div>
-<div class="cs"><p class="cl"><span class="sn">2</span><span class="lb">選び分ける／任務に任ずる</span> <span class="cnt">新約 3回</span></p><p class="df">ある務めのために選び分ける。『バルナバとサウロをわたしのために選び分けなさい』『母の胎にあるときから選び分け』『福音のために選び分けられた』。</p><ul class="here"><li><span class="ref">1:1</span> <span class="gk" lang="grc">… δοῦλος Χριστοῦ Ἰησοῦ, κλητὸς ἀπόστολος, <b>ἀφωρισμένος</b> εἰς εὐαγγέλιον θεοῦ</span></li></ul></div>
-<p class="ot"><span class="k">他の語義</span><span class="o"><span class="sn2">1</span>分ける／分離する <span class="cnt">6</span></span><span class="o"><span class="sn2">3</span>除外する／のけ者にする <span class="cnt">1</span></span></p>
+<p class="url">全語義・用例：<a href="https://moreskosh.com/ja/word/G652/">moreskosh.com/ja/word/G652</a></p></article>
+<article class="en"><div class="hw"><span class="gk lemma" lang="grc">ἀφορίζω</span> <span class="tr">aphorizō</span> <span class="meta">G873　<span class="nw">動詞　新約 10回</span></span></div>
+<div class="cs"><p class="cl"><span class="sn">2</span><span class="lb">選び分ける／任務に任ずる</span> <span class="cnt">新約 3回</span> <span class="tg" data-sense="G873:2">新約・LXX</span></p><p class="df">ある務めのために選び分ける。『バルナバとサウロをわたしのために選び分けなさい』『母の胎にあるときから選び分け』『福音のために選び分けられた』。</p><ul class="here"><li><span class="ref">1:1</span> <span class="gk" lang="grc">… δοῦλος Χριστοῦ Ἰησοῦ, κλητὸς ἀπόστολος, <b>ἀφωρισμένος</b> εἰς εὐαγγέλιον θεοῦ</span></li></ul></div>
+<p class="ot"><span class="k">他の語義</span><span class="o"><span class="sn2">1</span>分ける／分離する <span class="cnt">6</span> <span class="tg" data-sense="G873:1">新約・LXX</span></span><span class="o"><span class="sn2">3</span>除外する／のけ者にする <span class="cnt">1</span> <span class="tg" data-sense="G873:3">新約・LXX</span></span></p>
 <p class="fm"><span class="k">この箇所の形</span><span class="o"><span class="gk" lang="grc">ἀφωρισμένος</span> 分詞・完了・受動・主格・男性・単数</span></p>
-<p class="url">全語義・用例：https://moreskosh.pages.dev/ja/word/G873/</p></article>
-<article class="en"><div class="hw"><span class="gk lemma" lang="grc">εἰς</span> <span class="tr">eis</span> <span class="meta">G1519　前置詞　新約 1,759回</span></div>
+<p class="url">全語義・用例：<a href="https://moreskosh.com/ja/word/G873/">moreskosh.com/ja/word/G873</a></p></article>
+<article class="en"><div class="hw"><span class="gk lemma" lang="grc">εἰς</span> <span class="tr">eis</span> <span class="meta">G1519　<span class="nw">前置詞　新約 1,759回</span></span></div>
 <div class="cs"><p class="cl"><span class="sn">6</span><span class="lb">〜のために・〜として（目的・用途）</span> <span class="cnt">新約 265回</span></p><p class="df">目的・用途・受ける人のため。「証しとして」「記念として」、 εἰς τό ＋不定詞の目的、悔い改め・赦しのため、も含む。</p><ul class="here"><li><span class="ref">1:1</span> <span class="gk" lang="grc">… Χριστοῦ Ἰησοῦ, κλητὸς ἀπόστολος, ἀφωρισμένος <b>εἰς</b> εὐαγγέλιον θεοῦ</span></li></ul></div>
 <p class="ot"><span class="k">他の語義</span><span class="o"><span class="sn2">1</span>〜の中へ（入る） <span class="cnt">542</span></span><span class="o"><span class="sn2">2</span>〜へ（向かう・着く） <span class="cnt">434</span></span><span class="o"><span class="sn2">3</span>〜の上に（接触） <span class="cnt">25</span></span><span class="o"><span class="sn2">4</span>〜に（所在） <span class="cnt">108</span></span><span class="o"><span class="sn2">5</span>〜に対して（人への向き） <span class="cnt">78</span></span><span class="o"><span class="sn2">7</span>〜まで・〜の間（時） <span class="cnt">66</span></span><span class="o"><span class="sn2">8</span>〜に結ばれる（信仰・洗礼） <span class="cnt">71</span></span><span class="o"><span class="sn2">9</span>〜になる・〜に至る（結果・変化） <span class="cnt">170</span></span></p>
 <div class="id"><span class="k">成句</span><p><span class="gk" lang="grc">εἰς τὸν αἰῶνα</span>　永遠に <span class="refs">（マルコ 3:29、ヨハネ 6:51）</span></p><p><span class="gk" lang="grc">εἰς τέλος</span>　最後まで・完全に <span class="refs">（マタイ 10:22、ルカ 18:5）</span></p><p><span class="gk" lang="grc">εἰς τὸ ὄνομα</span>　〜の名に・〜のものとして <span class="refs">（マタイ 28:19、マタイ 10:41）</span></p><p><span class="gk" lang="grc">εἰς οὐδέν</span>　何の役にも立たない <span class="refs">（マタイ 5:13）</span></p><p><span class="gk" lang="grc">εἰς κενόν</span>　むなしく・無駄に <span class="refs">（ピリピ 2:16、ガラテヤ 2:2）</span></p></div>
 <p class="fm"><span class="k">この箇所の形</span><span class="o"><span class="gk" lang="grc">εἰς</span></span></p>
-<p class="url">全語義・用例：https://moreskosh.pages.dev/ja/word/G1519/</p></article>
-<article class="en"><div class="hw"><span class="gk lemma" lang="grc">εὐαγγέλιον</span> <span class="tr">euangelion</span> <span class="meta">G2098　名詞　新約 75回</span></div>
+<p class="url">全語義・用例：<a href="https://moreskosh.com/ja/word/G1519/">moreskosh.com/ja/word/G1519</a></p></article>
+<article class="en"><div class="hw"><span class="gk lemma" lang="grc">εὐαγγέλιον</span> <span class="tr">euangelion</span> <span class="meta">G2098　<span class="nw">名詞　新約 75回</span></span></div>
 <div class="cs"><p class="cl"><span class="sn">1</span><span class="lb">福音</span> <span class="cnt">新約 75回</span></p><p class="df">神の救いの良い知らせ、その内容と宣教。</p><ul class="here"><li><span class="ref">1:1</span> <span class="gk" lang="grc">… Ἰησοῦ, κλητὸς ἀπόστολος, ἀφωρισμένος εἰς <b>εὐαγγέλιον</b> θεοῦ</span></li></ul></div>
 <p class="fm"><span class="k">この箇所の形</span><span class="o"><span class="gk" lang="grc">εὐαγγέλιον</span> 対格・中性・単数</span></p>
-<p class="url">全語義・用例：https://moreskosh.pages.dev/ja/word/G2098/</p></article>
-<article class="en"><div class="hw"><span class="gk lemma" lang="grc">θεός</span> <span class="tr">theos</span> <span class="meta">G2316　名詞　新約 1,307回</span></div>
+<p class="url">全語義・用例：<a href="https://moreskosh.com/ja/word/G2098/">moreskosh.com/ja/word/G2098</a></p></article>
+<article class="en"><div class="hw"><span class="gk lemma" lang="grc">θεός</span> <span class="tr">theos</span> <span class="meta">G2316　<span class="nw">名詞　新約 1,307回</span></span></div>
 <div class="cs"><p class="cl"><span class="sn">1</span><span class="lb">神（唯一の真の神）</span> <span class="cnt">新約 1,291回</span></p><p class="df">イスラエルの神、また新約において父なる神として告白される唯一の神。文脈上「神」が唯一の実在として前提されている場合に用いる。「神の子」の属格として現れる場合も、指すのは父なる神であるためここに含む。キリストへの適用（ヨハ1:1、20:28、ヘブ1:8）は独立語義を立てず、本語義の中で扱う。</p><ul class="here"><li><span class="ref">1:1</span> <span class="gk" lang="grc">… κλητὸς ἀπόστολος, ἀφωρισμένος εἰς εὐαγγέλιον <b>θεοῦ</b></span></li></ul></div>
 <p class="ot"><span class="k">他の語義</span><span class="o"><span class="sn2">2</span>神々・神と呼ばれる存在 <span class="cnt">15</span></span><span class="o"><span class="sn2">3</span>女神（固有名に付随） <span class="cnt">1</span></span></p>
 <div class="id"><span class="k">成句</span><p><span class="gk" lang="grc">ὁ θεὸς καὶ πατήρ</span>　「神にして父」。キリストの父としての神を指す定型的呼称 <span class="refs">（ローマ 15:6、エペソ 1:3、ピリピ 4:20、コロサイ 1:3）</span></p><p><span class="gk" lang="grc">κύριος ὁ θεός</span>　「主なる神」。LXX由来の呼称でヘブライ語 יהוה אלהים に相当 <span class="refs">（マタイ 4:7、マタイ 4:10、黙示録 4:8）</span></p></div>
 <p class="fm"><span class="k">この箇所の形</span><span class="o"><span class="gk" lang="grc">θεοῦ</span> 属格・男性・単数</span></p>
-<p class="url">全語義・用例：https://moreskosh.pages.dev/ja/word/G2316/</p></article>
+<p class="url">全語義・用例：<a href="https://moreskosh.com/ja/word/G2316/">moreskosh.com/ja/word/G2316</a></p></article>
 </main>
 <footer class="cr">
 <h2>出典</h2>

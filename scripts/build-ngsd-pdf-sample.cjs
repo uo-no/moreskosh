@@ -8,6 +8,12 @@
  * 根拠の説明（拡張照合／拡張照合（新約のみ））は凡例に一度だけ載せる。固有名詞は、同定ドラフト（proper-nouns/drafts/）が
  * あれば、範囲内のトークンが属する同定（と役割・表記）を見出しの下に示す。ドラフトがない固有名詞は注記なしで見出し・用例・形のみ。
  *
+ * #415 改訂：低頻度帯（collation: extended）の語義に、裏づけの範囲を示すタグ（新約のみ／新約・LXX／新約・使徒教父／
+ * 新約・LXX・使徒教父）を付けた。データ源は lemmas/*.json の senses[].layers（Greekn 語ページの出どころ表示 #406 と同じ系）。
+ * 本体（collation なし）の語義にはタグを付けない。語ページへのリンクはクリックできるリンクに短い URL を併記。
+ * ヘッダーの語義クレジットを「NGSD（New Testament Greek Sense Database）」に変更。
+ * 縮小印刷の再発防止：印刷幅で横方向のはみ出しを検査し、あれば停止する（#413 で約74%に縮小された事故への対策）。
+ *
  * 範囲（例：ROM 1:1 / ROM 1）に出るレンマを集め、NGSD の公開データから箇所中心形の小辞典を
  * A4 の HTML に組み、Playwright（Chromium）で PDF に印刷する。サンプル提示用で、/pdf の生成サービスではない。
  *
@@ -34,7 +40,7 @@ const path = require('path');
 
 const ROOT = path.resolve(__dirname, '..');
 const PUB = path.join(ROOT, 'public');
-const ORIGIN = 'https://moreskosh.pages.dev';
+const LINK_HOST = 'moreskosh.com'; // 語ページへのリンク（https://moreskosh.com/ja/word/G…/）
 
 const args = process.argv.slice(2);
 const arg = (k, d) => { const i = args.indexOf(k); return i >= 0 ? args[i + 1] : d; };
@@ -98,11 +104,18 @@ const MORPH = {
 const MORPH_ORDER = ['mood', 'tense', 'voice', 'person', 'case', 'gender', 'number', 'degree'];
 const morphLabel = (t) => MORPH_ORDER.map((k) => (t[k] && MORPH[k][t[k]]) || '').filter(Boolean).join('・');
 
-/* 拡張照合の出どころ（キュー #406 の文言。build-static-pages.cjs の PROV.ja と同一） */
-const PROV = {
-  extended: '拡張照合 — 語義は新約の全用例から立て、LXX・教父の用例で裏づけを確認した',
-  extendedNtOnly: '拡張照合（新約のみ） — LXX・教父に用例がないため、語義は新約の用例のみに基づく',
-};
+/* 語義ごとの根拠タグ（#415）。低頻度帯（collation: extended）の語義だけに付ける。
+   データ源は lemmas/*.json の senses[].layers（{ nt, lxx, fathers }。lxx・fathers は 'attested' か 'none'）。
+   本体（collation なし）の語義は layers を持たず、タグも付けない。想定外の値は推測せず停止する。 */
+function tagText(data, s) {
+  if (data.collation !== 'extended') return '';
+  const L = s.layers;
+  const ok = (v) => v === 'attested' || v === 'none';
+  if (!L || !ok(L.lxx) || !ok(L.fathers)) { console.error(`STOP: ${data.strong} 語義 ${s.id} の layers が想定外：${JSON.stringify(L)}`); process.exit(2); }
+  const lxx = L.lxx === 'attested', fa = L.fathers === 'attested';
+  return lxx && fa ? '新約・LXX・使徒教父' : lxx ? '新約・LXX' : fa ? '新約・使徒教父' : '新約のみ';
+}
+const tagHtml = (data, s) => { const t = tagText(data, s); return t ? ` <span class="tg" data-sense="${esc(data.strong)}:${esc(s.id)}">${esc(t)}</span>` : ''; };
 
 /* 固有名詞の同定ドラフト（proper-nouns/drafts/<Strong>.json。lemmaId grc:G3972 → G3972.json）。無ければ null */
 const draftCache = new Map();
@@ -191,7 +204,7 @@ function entryHtml(e) {
     const idx = igsdByStrong.get(e.strong);
     const data = readJson(`assets/data/igsd/lemmas/${e.strong}.json`);
     const strongs = (idx.strongs || [e.strong]).filter((s) => s !== e.strong);
-    h.push(`<div class="hw"><span class="gk lemma" lang="grc">${esc(e.lemma)}</span> <span class="tr">${esc(tr)}</span> <span class="meta">${esc(e.strong)}${strongs.length ? `（${esc(strongs.join('・'))} を含む）` : ''}　${esc(pos)}　新約 ${num(idx.total)}回</span></div>`);
+    h.push(`<div class="hw"><span class="gk lemma" lang="grc">${esc(e.lemma)}</span> <span class="tr">${esc(tr)}</span> <span class="meta">${esc(e.strong)}${strongs.length ? `（${esc(strongs.join('・'))} を含む）` : ''}　<span class="nw">${esc(pos)}　新約 ${num(idx.total)}回</span></span></div>`);
 
     const central = [...new Set(e.toks.map((x) => x.sense))].sort((a, b) => Number(a) - Number(b));
     for (const sid of central) {
@@ -199,13 +212,13 @@ function entryHtml(e) {
       const cnt = idx.senses.find((x) => String(x.id) === sid).count;
       if (!s.def) omitted.noDef.push(`${e.strong}:${sid}`);
       const here = e.toks.filter((x) => x.sense === sid);
-      h.push(`<div class="cs"><p class="cl"><span class="sn">${esc(sid)}</span><span class="lb">${esc(s.label)}</span> <span class="cnt">新約 ${num(cnt)}回</span>${central.length > 1 || data.senses.length > 1 ? '' : ''}</p>` +
+      h.push(`<div class="cs"><p class="cl"><span class="sn">${esc(sid)}</span><span class="lb">${esc(s.label)}</span> <span class="cnt">新約 ${num(cnt)}回</span>${tagHtml(data, s)}</p>` +
         (s.def ? `<p class="df">${esc(s.def)}</p>` : '') +
         `<ul class="here">${here.map((x) => `<li><span class="ref">${esc(`${CH}:${x.t.verse}`)}</span> <span class="gk" lang="grc">${kwic(x.t)}</span></li>`).join('')}</ul></div>`);
     }
     const others = data.senses.filter((s) => !central.includes(String(s.id)));
     if (others.length) {
-      h.push(`<p class="ot"><span class="k">他の語義</span>${others.map((s) => `<span class="o"><span class="sn2">${esc(s.id)}</span>${esc(s.label)} <span class="cnt">${num(idx.senses.find((x) => String(x.id) === String(s.id)).count)}</span></span>`).join('')}</p>`);
+      h.push(`<p class="ot"><span class="k">他の語義</span>${others.map((s) => `<span class="o"><span class="sn2">${esc(s.id)}</span>${esc(s.label)} <span class="cnt">${num(idx.senses.find((x) => String(x.id) === String(s.id)).count)}</span>${tagHtml(data, s)}</span>`).join('')}</p>`);
     }
     if (data.idioms && data.idioms.length) {
       h.push(`<div class="id"><span class="k">成句</span>${data.idioms.map((i) => `<p><span class="gk" lang="grc">${esc(nfc(i.form))}</span>　${esc(i.gloss)}${i.refs && i.refs.length ? ` <span class="refs">（${esc(i.refs.map(refJa).join('、'))}）</span>` : ''}</p>`).join('')}</div>`);
@@ -224,7 +237,7 @@ function entryHtml(e) {
   const fl = [...forms.entries()].map(([k, n]) => { const [f, l] = k.split('\u0000'); return { f, l, n }; })
     .sort((a, b) => b.n - a.n || (a.f < b.f ? -1 : a.f > b.f ? 1 : a.l < b.l ? -1 : 1));
   h.push(`<p class="fm"><span class="k">この箇所の形</span>${fl.map((x) => `<span class="o"><span class="gk" lang="grc">${esc(x.f)}</span>${x.l ? ` ${esc(x.l)}` : ''}${x.n > 1 ? ` <span class="cnt">×${x.n}</span>` : ''}</span>`).join('')}</p>`);
-  if (e.ngsd) h.push(`<p class="url">全語義・用例：${esc(ORIGIN)}/ja/word/${esc(e.strong)}/</p>`);
+  if (e.ngsd) h.push(`<p class="url">全語義・用例：<a href="https://${LINK_HOST}/ja/word/${esc(e.strong)}/">${LINK_HOST}/ja/word/${esc(e.strong)}</a></p>`);
   return `<article class="en">${h.join('\n')}</article>`;
 }
 
@@ -268,7 +281,8 @@ main { column-count: 2; column-gap: 7mm; column-rule: 0.3pt solid var(--rule); }
 .hw { line-height: 1.35; margin-bottom: 0.6mm; }
 .hw .lemma { font-size: 12.5pt; font-weight: 700; }
 .hw .tr { font-style: italic; color: var(--sub); font-size: 8.4pt; font-family: "Noto Serif", serif; }
-.hw .meta { font-size: 7.6pt; color: var(--sub); white-space: nowrap; }
+.hw .meta { font-size: 7.6pt; color: var(--sub); }
+.hw .meta .nw { white-space: nowrap; }
 .cs { margin: 1mm 0 1.2mm; }
 .cl .sn { display: inline-block; min-width: 3.6mm; height: 3.6mm; line-height: 3.6mm; text-align: center; font-size: 6.8pt; color: #fff; background: var(--accent); border-radius: 0.8mm; margin-right: 1.2mm; vertical-align: 0.3mm; padding: 0 0.6mm; }
 .cl .lb { font-weight: 700; font-size: 9.4pt; }
@@ -283,11 +297,17 @@ ul.here .ref { display: inline-block; width: 7mm; text-indent: 0; font-size: 7pt
 .ot, .fm { font-size: 7.8pt; margin-top: 0.8mm !important; }
 .ot .o, .fm .o { margin-right: 2.4mm; }
 .ot .o::after, .fm .o::after { content: ""; }
+/* 行末の最後の項目の右マージンが枠の外に出て、横幅（スクロール幅）に数えられるのを防ぐ（縮小印刷の原因になりうる） */
+.ot .o:last-child, .fm .o:last-child { margin-right: 0; }
+/* 行末がタグ（インラインブロック）で終わる項目の右マージンも枠外に出うる。余白だけなので横方向をクリップして、スクロール幅に数えさせない */
+.ot, .fm { overflow-x: clip; }
 .sn2 { font-size: 6.8pt; color: var(--accent); margin-right: 0.6mm; }
 .id { font-size: 7.8pt; margin-top: 0.8mm; }
 .id p { padding-left: 2mm; }
 .id .refs { color: var(--sub); font-size: 7pt; }
 .url { font-size: 6.6pt; color: var(--sub); margin-top: 0.8mm !important; font-family: "Noto Serif", serif; word-break: break-all; }
+.url a { color: var(--accent); text-decoration: underline; text-decoration-thickness: 0.2pt; }
+.tg { display: inline-block; font-size: 6.2pt; line-height: 1.4; color: var(--accent); border: 0.3pt solid var(--accent); border-radius: 0.8mm; padding: 0 0.9mm; margin-left: 0.8mm; vertical-align: 0.2mm; white-space: nowrap; }
 footer.cr { margin-top: 5mm; border-top: 0.6pt solid var(--ink); padding-top: 2mm; font-size: 7pt; color: #333; break-inside: avoid; }
 footer.cr h2 { font-size: 7.6pt; }
 footer.cr ul { margin: 0; padding-left: 4mm; }
@@ -301,12 +321,12 @@ footer.cr ul { margin: 0; padding-left: 4mm; }
 <dt>範囲</dt><dd>${esc(rangeJa)}（${num(rangeTokens.length)}語）</dd>
 <dt>収録語数</dt><dd>${num(list.length)}レンマ（うち NGSD 収録 ${num(ngsdN)}）</dd>
 <dt>生成日</dt><dd>${esc(DATE)}</dd>
-<dt>語義</dt><dd>NGSD　編者 南田浩喜</dd>
+<dt>語義</dt><dd>NGSD（New Testament Greek Sense Database）</dd>
 </dl>
 </header>
 <div class="howto">
-<p>収録順は範囲内での初出順。各項目は見出し（原形・Strong 番号・品詞・新約での総出現数）、この箇所で使われた語義（番号・ラベル・新約での件数・定義・この箇所の用例）、他の語義の一覧（ラベル・件数）、成句、この箇所に出た形の順に載せています。固有名詞は語義の代わりに、同定データがあるものは同定（その名前が誰・何を指すか。役割・表記を含む）を載せ、データのないものは見出しと用例のみです。他の語義の定義と用例、語義ごとの裏づけは語ページにあります。</p>
-<p>収録した NGSD の見出し語はすべて、新約の全用例に語義を割り当て済みです（状態は確定〈final〉）。語義の根拠は二通りです。<b>拡張照合</b>：${esc(PROV.extended.replace(/^拡張照合 — /, ''))}。<b>拡張照合（新約のみ）</b>：${esc(PROV.extendedNtOnly.replace(/^拡張照合（新約のみ） — /, ''))}。</p>
+<p>収録順は範囲内での初出順。各項目は見出し（原形・Strong 番号・品詞・新約での総出現数）、この箇所で使われた語義（番号・ラベル・新約での件数・定義・この箇所の用例）、他の語義の一覧（ラベル・件数）、成句、この箇所に出た形の順に載せています。固有名詞は語義の代わりに、同定データがあるものは同定（その名前が誰・何を指すか。役割・表記を含む）を載せ、データのないものは見出しと用例のみです。他の語義の定義と用例は、項目の末尾のリンク先（語ページ）にあります。</p>
+<p>語義の右のタグは、その語義の裏づけの範囲です。<b>新約のみ</b>：LXX・使徒教父に用例がなく、新約の用例のみに基づく。<b>新約・LXX</b>：新約の全用例から立て、LXX の用例で裏づけを確認した。<b>新約・使徒教父</b>：同、使徒教父の用例で確認した。<b>新約・LXX・使徒教父</b>：同、LXX と使徒教父の両方で確認した。タグのない語義は、辞書との照合を経て新約の全用例に割り当てたものです。</p>
 </div>
 <main>
 ${body}
@@ -338,6 +358,25 @@ if (!NO_PDF) {
     const page = await browser.newPage();
     await page.goto('file://' + htmlPath, { waitUntil: 'load' });
     await page.evaluate(() => document.fonts.ready);
+    /* 縮小印刷の再発防止（#415）：印刷の内容幅（A4 210mm − 左右余白 14mm×2 ＝ 182mm）で組んだとき、横にはみ出す要素が
+       あると Chromium は全体を縮小して印刷する（#413 で約74%）。はみ出しがあれば PDF を書かずに停止する。 */
+    await page.emulateMedia({ media: 'print' });
+    const contentPx = Math.round((182 / 25.4) * 96);
+    await page.setViewportSize({ width: contentPx, height: 1200 });
+    const over = await page.evaluate((w) => {
+      const bad = [];
+      for (const el of document.querySelectorAll('body *')) {
+        const r = el.getBoundingClientRect();
+        if (r.width > 0 && r.right > w + 0.5) bad.push(`${el.tagName.toLowerCase()}.${el.className} right=${r.right.toFixed(1)} > ${w}`);
+      }
+      return { scrollWidth: document.documentElement.scrollWidth, bad: bad.slice(0, 10) };
+    }, contentPx);
+    if (over.scrollWidth > contentPx + 0.5 || over.bad.length) {
+      console.error(`STOP: 横方向のはみ出し（印刷幅 ${contentPx}px、scrollWidth ${over.scrollWidth}px）\n` + over.bad.join('\n'));
+      await browser.close();
+      process.exit(3);
+    }
+    console.log(`OVERFLOW CHECK: OK（印刷幅 ${contentPx}px、scrollWidth ${over.scrollWidth}px、はみ出す要素 0）`);
     const pdfPath = path.resolve(ROOT, OUT + '.pdf');
     await page.pdf({
       path: pdfPath, format: 'A4', printBackground: true, preferCSSPageSize: true,
