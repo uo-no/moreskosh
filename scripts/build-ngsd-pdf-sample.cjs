@@ -8,6 +8,8 @@
  * 根拠の説明（拡張照合／拡張照合（新約のみ））は凡例に一度だけ載せる。固有名詞は、同定ドラフト（proper-nouns/drafts/）が
  * あれば、範囲内のトークンが属する同定（と役割・表記）を見出しの下に示す。ドラフトがない固有名詞は注記なしで見出し・用例・形のみ。
  *
+ * #417 改訂：利用者に見える用語を置き換えた（レンマ→見出し語、成句→フレーズ。冒頭の「収録見出し語」、凡例、各項目のフレーズ欄）。
+ *
  * #416 改訂：出典欄の語義クレジットから編者名を外し、ヘッダーと同じ「NGSD（New Testament Greek Sense Database）」の表記にそろえた。
  *
  * #415 改訂：低頻度帯（collation: extended）の語義に、裏づけの範囲を示すタグ（新約のみ／新約・LXX／新約・使徒教父／
@@ -223,7 +225,7 @@ function entryHtml(e) {
       h.push(`<p class="ot"><span class="k">他の語義</span>${others.map((s) => `<span class="o"><span class="sn2">${esc(s.id)}</span>${esc(s.label)} <span class="cnt">${num(idx.senses.find((x) => String(x.id) === String(s.id)).count)}</span>${tagHtml(data, s)}</span>`).join('')}</p>`);
     }
     if (data.idioms && data.idioms.length) {
-      h.push(`<div class="id"><span class="k">成句</span>${data.idioms.map((i) => `<p><span class="gk" lang="grc">${esc(nfc(i.form))}</span>　${esc(i.gloss)}${i.refs && i.refs.length ? ` <span class="refs">（${esc(i.refs.map(refJa).join('、'))}）</span>` : ''}</p>`).join('')}</div>`);
+      h.push(`<div class="id"><span class="k">フレーズ</span>${data.idioms.map((i) => `<p><span class="gk" lang="grc">${esc(nfc(i.form))}</span>　${esc(i.gloss)}${i.refs && i.refs.length ? ` <span class="refs">（${esc(i.refs.map(refJa).join('、'))}）</span>` : ''}</p>`).join('')}</div>`);
     }
   } else {
     const sx = [...e.strongsX].sort((a, b) => Number(a.slice(1)) - Number(b.slice(1)));
@@ -321,13 +323,13 @@ footer.cr ul { margin: 0; padding-left: 4mm; }
 <h1>${esc(rangeJa)}</h1>
 <dl>
 <dt>範囲</dt><dd>${esc(rangeJa)}（${num(rangeTokens.length)}語）</dd>
-<dt>収録語数</dt><dd>${num(list.length)}レンマ（うち NGSD 収録 ${num(ngsdN)}）</dd>
+<dt>収録見出し語</dt><dd>${num(list.length)}（うち NGSD 収録 ${num(ngsdN)}）</dd>
 <dt>生成日</dt><dd>${esc(DATE)}</dd>
 <dt>語義</dt><dd>NGSD（New Testament Greek Sense Database）</dd>
 </dl>
 </header>
 <div class="howto">
-<p>収録順は範囲内での初出順。各項目は見出し（原形・Strong 番号・品詞・新約での総出現数）、この箇所で使われた語義（番号・ラベル・新約での件数・定義・この箇所の用例）、他の語義の一覧（ラベル・件数）、成句、この箇所に出た形の順に載せています。固有名詞は語義の代わりに、同定データがあるものは同定（その名前が誰・何を指すか。役割・表記を含む）を載せ、データのないものは見出しと用例のみです。他の語義の定義と用例は、項目の末尾のリンク先（語ページ）にあります。</p>
+<p>収録順は範囲内での初出順。各項目は見出し（原形・Strong 番号・品詞・新約での総出現数）、この箇所で使われた語義（番号・ラベル・新約での件数・定義・この箇所の用例）、他の語義の一覧（ラベル・件数）、フレーズ、この箇所に出た形の順に載せています。固有名詞は語義の代わりに、同定データがあるものは同定（その名前が誰・何を指すか。役割・表記を含む）を載せ、データのないものは見出しと用例のみです。他の語義の定義と用例は、項目の末尾のリンク先（語ページ）にあります。</p>
 <p>語義の右のタグは、その語義の裏づけの範囲です。<b>新約のみ</b>：LXX・使徒教父に用例がなく、新約の用例のみに基づく。<b>新約・LXX</b>：新約の全用例から立て、LXX の用例で裏づけを確認した。<b>新約・使徒教父</b>：同、使徒教父の用例で確認した。<b>新約・LXX・使徒教父</b>：同、LXX と使徒教父の両方で確認した。タグのない語義は、辞書との照合を経て新約の全用例に割り当てたものです。</p>
 </div>
 <main>
